@@ -10,19 +10,19 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 #### (c) Pizzas containing meat food products
 
-(1) Under such terms and conditions as the Secretary shall prescribe through rules and regulations issued under section 624 of this title that may be necessary to ensure food safety and protect public health such as special handling procedures, the Secretary shall exempt pizzascontaining a meat food product from the inspection requirements of this chapter if—
+(1) Under such terms and conditions as the Secretary shall prescribe through rules and regulations issued under section 624 of this title that may be necessary to ensure food safety and protect public health such as special handling procedures, the Secretary shall exempt pizzas containing a meat food product from the inspection requirements of this chapter if—
 
 &emsp;(A) the meat food product components of the pizzas have been prepared, inspected, and passed in a cured or cooked form as ready-to-eat in compliance with the requirements of this chapter; and
 
 &emsp;(B) the pizzas are to be served in public or private nonprofit institutions.
 
-(2) The Secretary may withdraw or modify any exemption under this subsection whenever the Secretary determines such action is necessary to ensure food safety and to protect public health. The Secretary may reinstate or further modify any exemption withdrawn or modified under this subsection.
+(2) The Secretary may withdraw or modify any exemption under this subsection whenever the Secretary determines such action is necessary to ensure food safety and to protect publichealth. The Secretary may reinstate or further modify any exemption withdrawn or modified under this subsection.
 
 #### (d) Adulteration and misbranding provisions applicable to inspection-free articles
 
 The adulteration and misbranding provisions of this subchapter, other than the requirement of the inspection legend, shall apply to articles which are exempted from inspection or not required to be inspected under this section.
 
-(Mar. 4, 1907, ch. 2907, title I, §23, formerly 21st, 22nd pars., 34 Stat. 1265; June 29, 1938, ch. 810, 52 Stat. 1235; renumbered §23 and amended Dec. 15, 1967, Pub. L. 90–201, §§1, 11, 81 Stat. 584, 591; July 18, 1970, Pub. L. 91–342, 84 Stat. 438; Dec. 13, 1991, Pub. L. 102–237, title X, §1016(a), 105 Stat. 1902.)
+(Mar. 4, 1907, ch. 2907, title I, §23, formerly 21st, 22nd pars., 34 Stat. 1265; June 29, 1938, ch. 810, 52 Stat. 1235; renumbered §23 and amended Pub. L. 90–201, §§1, 11, Dec. 15, 1967, 81 Stat. 584, 591; Pub. L. 91–342, July 18, 1970, 84 Stat. 438; Pub. L. 102–237, title X, §1016(a), Dec. 13, 1991, 105 Stat. 1902.)
 
 #### Codification
 

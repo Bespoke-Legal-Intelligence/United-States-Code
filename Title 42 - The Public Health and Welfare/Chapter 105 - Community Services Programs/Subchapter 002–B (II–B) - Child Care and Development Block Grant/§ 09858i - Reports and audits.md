@@ -18,13 +18,17 @@
 
 &emsp;&emsp;&emsp;(iii) the gender, race, and age of children receiving such assistance;
 
-&emsp;&emsp;&emsp;(iv) whether the family includes only one parent;
+&emsp;&emsp;&emsp;(iv) whether the head of the family unit is a single parent;
 
-&emsp;&emsp;&emsp;(v) the sources of family income, including the amount obtained from (and separately identified)—
+&emsp;&emsp;&emsp;(v) the sources of family income, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) employment, including self-employment;
 
-&emsp;&emsp;&emsp;&emsp;(II) cash or other assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
+&emsp;&emsp;&emsp;&emsp;(II) cash or other assistance under—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the temporary assistance for needy families program under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a State program for which State spending is counted toward the maintenance of effort requirement under section 409(a)(7) of the Social Security Act (42 U.S.C. 609(a)(7));
 
 &emsp;&emsp;&emsp;&emsp;(III) housing assistance;
 
@@ -40,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ix) the cost of child care for such families; and
 
-&emsp;&emsp;&emsp;(x) the average hours per week of such care;
+&emsp;&emsp;&emsp;(x) the average hours per month of such care;
 
 > &emsp;&emsp;during the period for which such information is required to be submitted.
 
@@ -48,15 +52,21 @@
 
 &emsp;&emsp;A State described in subparagraph (A) shall, on a quarterly basis, submit the information required to be collected under subparagraph (B) to the Secretary.
 
-#### (D) Sampling
+#### (D) Use of samples
 
-&emsp;&emsp;The Secretary may disapprove the information collected by a State under this paragraph if the State uses sampling methods to collect such information.
+#### (i) Authority
 
-#### (2) Biannual reports
+&emsp;&emsp;&emsp;A State may comply with the requirement to collect the information described in subparagraph (B) through the use of disaggregated case record information on a sample of families selected through the use of scientifically acceptable sampling methods approved by the Secretary.
 
-&emsp;Not later than December 31, 1997, and every 6 months thereafter, a State described in paragraph (1)(A) shall prepare and submit to the Secretary a report that includes aggregate data concerning—
+#### (ii) Sampling and other methods
 
-&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter as separately identified based on the types of providers listed in section 9858n(5) of this title;
+&emsp;&emsp;&emsp;The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretary deems necessary to produce statistically valid samples of the information described in subparagraph (B). The Secretary may develop and implement procedures for verifying the quality of data submitted by the States.
+
+#### (2) Annual reports
+
+&emsp;Not later than December 31, 1997, and every 12 months thereafter, a State described in paragraph (1)(A) shall prepare and submit to the Secretary a report that includes aggregate data concerning—
+
+&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter as separately identified based on the types ofproviders listed in section 9858n(5) of this title;
 
 &emsp;&emsp;(B) the monthly cost of child care services, and the portion of such cost that is paid for with assistance provided under this subchapter, listed by the type of child care services provided;
 
@@ -86,15 +96,27 @@
 
 &emsp;Each State shall repay to the United States any amounts determined through an audit under this subsection not to have been expended in accordance with this subchapter, or the Secretary may offset such amounts against any other amount to which the State is or may be entitled under this subchapter.
 
-(Pub. L. 97–35, title VI, §658K, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §611, Aug. 22, 1996, 110 Stat. 2284.)
+(Pub. L. 97–35, title VI, §658K, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §611, Aug. 22, 1996, 110 Stat. 2284; Pub. L. 105–33, title V, §5602(2), Aug. 5, 1997, 111 Stat. 646.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1)(B)(v)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(B)(v)(II)(aa), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Food Stamp Act of 1977, referred to in subsec. (a)(1)(B)(v)(IV), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Amendments
+
+1997—Subsec. (a)(1)(B)(iv). Pub. L. 105–33, §5602(2)(A)(i)(I), added cl. (iv) and struck out former cl. (iv) which read as follows: “whether the family includes only one parent;”.
+
+Subsec. (a)(1)(B)(v). Pub. L. 105–33, §5602(2)(A)(i)(II)(aa), substituted “including—” for “including the amount obtained from (and separately identified)—” in introductory provisions.
+
+Subsec. (a)(1)(B)(v)(II). Pub. L. 105–33, §5602(2)(A)(i)(II)(bb), added subcl. (II) and struck out former subcl. (II) which read as follows: “cash or other assistance under part A of title IV of the Social Security Act;”.
+
+Subsec. (a)(1)(B)(x). Pub. L. 105–33, §5602(2)(A)(i)(III), substituted “month” for “week”.
+
+Subsec. (a)(1)(D). Pub. L. 105–33, §5602(2)(A)(ii), added subpar. (D) and struck out heading and text of former subpar. (D). Text read as follows: “The Secretary may disapprove the information collected by a State under this paragraph if the State uses sampling methods to collect such information.”
+
+Subsec. (a)(2). Pub. L. 105–33, §5602(2)(B), substituted “Annual” for “Biannual” in heading and “12” for “6” in introductory provisions of text.
 
 1996—Pub. L. 104–193, §611(1), substituted “Reports” for “Annual report” in section catchline.
 
@@ -107,6 +129,10 @@ Subsec. (b)(2). Pub. L. 104–193, §611(2)\[(3)\](B), substituted “the State 
 Subsec. (b)(4). Pub. L. 104–193, §611(2)\[(3)\](C), substituted “entitled under this subchapter” for “entitles under this subchapter”.
 
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5603 of Pub. L. 105–33, set out as a note under section 618 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -4,7 +4,7 @@ For the purposes of this subchapter—
 
 &emsp;(1) The term “disabled veteran” means (A) a veteran who is entitled to compensation under laws administered by the Secretary for a disability rated at 30 percent or more, or (B) a veteran whose discharge or release from active duty was for a disability incurred or aggravated in line of duty.
 
-&emsp;(2) The term “veteran of the Vietnam era” means a person (A) who served on active duty for a period of more than 180 days, any part of which occurred during the Vietnam era, and who was discharged or released therefrom with other than a dishonorable discharge, or (B) who was discharged or released from active duty for a service-connected disability if any part of such active duty was performed during the Vietnam era.
+&emsp;(2) The term “veteran of the Vietnam era” means a person (A) who served on active dutyfor a period of more than 180 days, any part of which occurred during the Vietnam era, and who was discharged or released therefrom with other than a dishonorable discharge, or (B) who was discharged or released from active duty for a service-connected disability if any part of such active duty was performed during the Vietnam era.
 
 (Added Pub. L. 97–72, title III, §302(a), Nov. 3, 1981, 95 Stat. 1055, §1841; amended Pub. L. 99–576, title VII, §702(9), Oct. 28, 1986, 100 Stat. 3302; renumbered §3741 and amended Pub. L. 102–83, §§4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
 

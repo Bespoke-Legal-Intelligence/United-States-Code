@@ -4,7 +4,7 @@
 
 (b) The Secretary shall take no action which will adversely affect rights under any lease pursuant to this subchapter until notifying the holder of such lease that such action is proposed and giving such holder an opportunity for a hearing.
 
-(Mar. 4, 1927, ch. 513, §14, 44 Stat. 1454; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; July 18, 1968, Pub. L. 90–403, §3, 82 Stat. 358.)
+(Mar. 4, 1927, ch. 513, §14, 44 Stat. 1454; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 90–403, §3, July 18, 1968, 82 Stat. 358.)
 
 #### References in Text
 

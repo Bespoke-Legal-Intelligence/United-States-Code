@@ -1,6 +1,6 @@
 ### §1003. Employment policy
 
-(a) Except as provided under chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978, or other provision of law, the Postal Service shall classify and fix the compensation and benefits of all officers and employees in the Postal Service. It shall be the policy of the Postal Service to maintain compensation and benefits for all officers and employees on a standard of comparability to the compensation and benefits paid for comparable levels of work in the private sector of the economy. No officer or employee shall be paid compensation at a rate in excess of the rate for level I of the Executive Schedule under section 5312 of title 5.
+(a) Except as provided under chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978, or other provision of law, the Postal Service shall classify and fix the compensation and benefits of all officers and employees in thePostal Service. It shall be the policy of the Postal Service to maintain compensation and benefits for all officers and employees on a standard of comparability to the compensation and benefits paid for comparable levels of work in the private sector of the economy. No officer or employee shall be paid compensation at a rate in excess of the rate for level I of the Executive Schedule under section 5312 of title 5.
 
 (b) Compensation and benefits for all officers and employees serving in or under the Office of Inspector General of the United States Postal Service shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the respective Offices of Inspector General of the various establishments named in section 11(2) of the Inspector General Act of 1978.
 
@@ -42,7 +42,7 @@ Section 9 of Pub. L. 91–375 provided that:
 
 “(d) \[<i>Group Life Insurance; Amount; Effective Date</i>\] For purposes of determining the amount of insurance for which an individual is eligible under chapter 87 of title 5, United States Code \[section 8701 et seq. of Title 5\], relating to group life insurance for Government employees, all changes in rates of pay, compensation, and salary which result from the enactment of this section shall be held and considered to become effective as of the date of such enactment \[Aug. 12, 1970\].
 
-“(e) \[<i>Limitation of Basic Pay Rate</i>\] No rate of basic pay or compensation, in excess of the rate of basic pay forGS–18 of the General Schedule in section 5332 of title 5, United States Code, shall be paid by reason of the enactment of this section.”
+“(e) \[<i>Limitation of Basic Pay Rate</i>\] No rate of basic pay or compensation, in excess of the rate of basic pay for GS–18 of the General Schedule in section 5332 of title 5, United States Code, shall be paid by reason of the enactment of this section.”
 
 Provisions of section 9 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 

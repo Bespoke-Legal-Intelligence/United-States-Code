@@ -34,7 +34,7 @@ Participants in State Police Corps programs shall be selected on a competitive b
 
 (ii) Clause (i) shall not be construed to preclude counting a participant's previous period of law enforcement experience for purposes other than satisfaction of the requirements of section 14098 of this title, such as for purposes of determining such a participant's pay and other benefits, rank, and tenure.
 
-(3) It is the intent of this part that there shall be no more than 20,000 participants in each graduating class. The Director shall approve State plans providing in the aggregate for such enrollment of applicants as shall assure, as nearly as possible, annual graduating classes of 20,000. In a year in which applications are received in a number greater than that which will produce, in the judgment of the Director, a graduating class of more than 20,000, the Director shall, in deciding which applications to grant, give preference to those who will be participating in State plans that provide law enforcement personnel to areas of greatest need.
+(3) It is the intent of this part that there shall be no more than 20,000 participants in each graduating class. The Director shall approve State plans providing in the aggregate for such enrollment of applicants as shall assure, as nearly as possible, annual graduating classes of 20,000. In a year in which applications are received in a number greater than that which will produce, in the judgment of the Director, a graduating classof more than 20,000, the Director shall, in deciding which applications to grant, give preference to those who will be participating in State plans that provide law enforcement personnel to areas of greatest need.
 
 #### (c) Recruitment of minorities
 
@@ -42,7 +42,7 @@ Each State participating in the Police Corps program shall make special efforts 
 
 #### (d) Enrollment of applicant
 
-(1) An applicant shall be accepted into a State Police Corps program on the condition that theapplicant will be matriculated in, or accepted for admission at, a 4-year institution of higher education—
+(1) An applicant shall be accepted into a State Police Corps program on the condition that the applicant will be matriculated in, or accepted for admission at, a 4-year institution of higher education—
 
 &emsp;(A) as a full-time student in an undergraduate program; or
 

@@ -20,7 +20,7 @@ The Commission shall include in its annual report—
 
 This Act, referred to in subsec. (a), is Pub. L. 98–399, Aug. 27, 1984, 98 Stat. 1473, as amended, which enacted sections 169j to 169j–10 of this title. For complete classification of this Act to the Code, see Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (a), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a), is Pub. L. 101–610, Nov. 16, 1990,104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
 

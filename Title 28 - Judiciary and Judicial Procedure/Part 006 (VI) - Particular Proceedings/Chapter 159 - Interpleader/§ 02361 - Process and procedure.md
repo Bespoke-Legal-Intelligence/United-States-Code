@@ -26,5 +26,5 @@ This section makes clear that section 2361 of title 28, U.S.C., applies only to 
 
 #### Amendments
 
-1949—Act May 24, 1949, substituted “In any civil action of interpleader or in the nature of interpleader under section 1335 under this title” for “In any interpleader action,”, and inserted “or prosecuting” between “instituting” and “any proceeding”.
+<b>1949</b>—Act May 24, 1949, substituted “In any civil action of interpleader or in the nature of interpleader under section 1335 under this title” for “In any interpleader action,”, and inserted “or prosecuting” between “instituting” and “any proceeding”.
 

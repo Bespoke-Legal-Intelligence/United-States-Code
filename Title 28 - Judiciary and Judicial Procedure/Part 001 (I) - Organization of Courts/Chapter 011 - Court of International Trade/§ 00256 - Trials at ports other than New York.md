@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1982—Subsec. (b). Pub. L. 97–164 substituted “section 1292(d)(1) of this title, and the United States Court of Appeals for the Federal Circuit may, in its discretion, consider the appeal” for “section 1541(b) of this title, subject to the discretion of the Court of Customs and Patent Appeals as set forth in that section”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–164 substituted “section 1292(d)(1) of this title, and the United States Court of Appeals for the Federal Circuit may, in its discretion, consider the appeal” for “section 1541(b) of this title, subject to the discretion of the Court of Customs and Patent Appeals as set forth in that section”.
 
 #### Effective Date of 1982 Amendment
 

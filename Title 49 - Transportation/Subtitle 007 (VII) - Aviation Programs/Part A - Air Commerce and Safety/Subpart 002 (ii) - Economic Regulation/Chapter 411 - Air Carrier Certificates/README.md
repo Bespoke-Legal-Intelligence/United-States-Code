@@ -26,8 +26,6 @@
 
 This chapter is referred to in sections 40105, 40109, 41907, 46301 of this title; title 39 section 5402.
 
-<i><sup>1</sup></i><i> Another section 40121 is set out preceding section 40122 of this title.</i>
-
 
 ---
 

@@ -6,7 +6,7 @@ All receipts from the transmission and sale of electric power and energy under t
 
 #### References in Text
 
-The First Supplemental National Defense Appropriation Act, 1944, referred to in text, was act Dec. 23, 1943, ch. 380, title I, §101, 57 Stat. 621, which was not classified to the Code.
+The First Supplemental National Defense Appropriation Act, 1944, referred to in text, was act Dec. 23, 1943,ch. 380, title I, §101, 57 Stat. 621, which was not classified to the Code.
 
 #### Codification
 

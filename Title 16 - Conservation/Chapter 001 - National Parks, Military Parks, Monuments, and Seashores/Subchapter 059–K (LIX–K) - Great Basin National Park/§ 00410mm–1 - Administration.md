@@ -2,7 +2,7 @@
 
 #### (a) Laws governing; conservation and protection of resources
 
-The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4 of this title. The Secretary shall protect, manage, and administer the park in such manner as to conserve and protect the scenery,the natural, geologic, historic, and archaeological resources of the park, including fish and wildlife and to provide for the public use and enjoyment of the same in such a manner as to perpetuate these qualities for future generations.
+The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4 of this title. The Secretary shall protect, manage, and administer the park in such manner as to conserve and protect the scenery, the natural, geologic, historic, and archaeological resources of the park, including fish and wildlife and to provide for the public use and enjoyment of the same in such a manner as to perpetuate these qualities for future generations.
 
 #### (b) Fishing
 
@@ -48,7 +48,7 @@ Nothing in this subchapter shall be construed to establish a new express or impl
 
 In order to encourage unified and cost-effective interpretation of the Great Basin physiographic region, the Secretary is authorized and encouraged to enter into cooperative agreements with other Federal, State, and local public departments and agencies providing for the interpretation of the Great Basin physiographic region. Such agreements shall include, but not be limited to, authority for the Secretary to develop and operate interpretive facilities and programs on lands and waters outside of the boundaries of such park, with the concurrence of the owner or administrator thereof.
 
-(Pub. L. 99–565, §3, Oct. 27, 1986, 100 Stat. 3182; Pub. L. 104–134, title I, §101(c) \[title III, §319\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–203; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 99–565, §3, Oct. 27, 1986, 100 Stat. 3182; Pub. L. 104–134, title I, §101(c) \[title III, §319\],Apr. 26, 1996, 110 Stat. 1321–156, 1321–203; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ The public lands laws, referred to in subsec. (d), are classified generally to T
 
 The mining laws of the United States, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
 
-Mineral leasing laws of the United States, referred to in subsec. (d), have been defined in sections 351, 505, 530,and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+Mineral leasing laws of the United States, referred to in subsec. (d), have been defined in sections 351, 505, 530, and 541e of Title 30, to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
 
 The Geothermal Steam Act of 1970, as amended, referred to in subsec. (d), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 

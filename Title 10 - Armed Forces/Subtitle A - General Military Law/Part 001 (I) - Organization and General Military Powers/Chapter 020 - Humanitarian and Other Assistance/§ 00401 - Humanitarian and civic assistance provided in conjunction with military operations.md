@@ -20,7 +20,7 @@
 
 (2) Any authority provided under any other provision of law to provide assistance that is described in subsection (e)(5) to a foreign country shall be carried out in accordance with, and subject to, the limitations prescribed in this section. Any such provision may be construed as superseding a provision of this section only if, and to the extent that, such provision specifically refers to this section and specifically identifies the provision of this section that is to be considered superseded or otherwise inapplicable under such provision.
 
-(c)(1) Expenses incurred as a direct result of providing humanitarian and civic assistanceunder this section to a foreign country shall be paid for out of funds specifically appropriated for such purpose.
+(c)(1) Expenses incurred as a direct result of providing humanitarian and civic assistance under this section to a foreign country shall be paid for out of funds specifically appropriated for such purpose.
 
 (2) Expenses covered by paragraph (1) include the following expenses incurred in providing assistance described in subsection (e)(5):
 
@@ -92,7 +92,7 @@ Subsec. (a). Pub. L. 100–180, §332(b)(1)(B), (C), (5), redesignated former su
 
 Subsec. (b). Pub. L. 100–180, §332(b)(2), (5), struck out section catchline of former section 402 “Approval of Secretary of State”, designated text of former section 402 as subsec. (b) of this section, and substituted “section” for “chapter”.
 
-Subsec. (c). Pub. L. 100–180, §332(b)(3), (5), struck out section catchline of former section 403 “Payment of expenses”, redesignated former section 403(a) and (b) as subsec. (c)(1) and (2), respectively, of this section, andsubstituted “section” for “chapter” wherever appearing.
+Subsec. (c). Pub. L. 100–180, §332(b)(3), (5), struck out section catchline of former section 403 “Payment of expenses”, redesignated former section 403(a) and (b) as subsec. (c)(1) and (2), respectively, of this section, and substituted “section” for “chapter” wherever appearing.
 
 Subsec. (d). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 404 “Annual report to Congress”, designated text of former section 404 as subsec. (d) of this section, and substituted “section” for “chapter”.
 
@@ -102,7 +102,7 @@ Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline o
 
 #### Humanitarian Assistance Program for Clearing Landmines
 
-Pub. L. 103–337, div. A, title XIV, §1413, Oct. 5, 1994, 108 Stat. 2913, required Secretary of Defense to carry out program for humanitarian purposes to provide assistance to other nations in detection and clearance of landmines, specified that such assistance was to be provided through instruction, education, training, and advising of personnel of those nations in procedures determined effective for detecting and clearing landmines, specified forms of assistance, required Secretary to ensure that no member of Armed Forces engaged in physical detection, lifting, or destroying of landmines (unless done for concurrent purpose of supporting United States military operations) or gave such assistance as part of military operation not involving Armed Forces, made funds available, specified uses of funds, and required Secretary to provide notice to Congress of activities carried out under the program, prior to repeal by Pub. L. 104–106, div. A, title XIII, §1313(c), Feb. 10, 1996, 110 Stat. 475.
+Pub. L. 103–337, div. A, title XIV, §1413, Oct. 5, 1994, 108 Stat. 2913, required Secretary of Defense to carry out program for humanitarian purposes to provide assistance to other nations in detection and clearance oflandmines, specified that such assistance was to be provided through instruction, education, training, and advising of personnel of those nations in procedures determined effective for detecting and clearing landmines, specified forms of assistance, required Secretary to ensure that no member of Armed Forces engaged in physical detection, lifting, or destroying of landmines (unless done for concurrent purpose of supporting United States military operations) or gave such assistance as part of military operation not involving Armed Forces, made funds available, specified uses of funds, and required Secretary to provide notice to Congress of activities carried out under the program, prior to repeal by Pub. L. 104–106, div. A, title XIII, §1313(c), Feb. 10, 1996, 110 Stat. 475.
 
 #### Humanitarian and Civic Assistance
 
@@ -144,11 +144,13 @@ Pub. L. 102–396, title II, Oct. 6, 1992, 106 Stat. 1884, provided: “That whe
 
 #### Appropriation of Funds for Humanitarian and Civic Assistance; Annual Report to Congress on Obligations; Use of Civic Action Teams in Trust Territories of Pacific Islands and Freely Associated States of Micronesia
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8010\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–90, provided that: “Within the funds appropriated for the operation and maintenance of the Armed Forces, funds are hereby appropriated pursuant to section 401 of title 10, United States Code, for humanitarian and civic assistance costs under chapter 20 of title 10, United States Code. Such funds may also be obligated for humanitarian and civic assistance costs incidental to authorized operations and pursuant to authority granted in section 401 of chapter 20 of title 10, United States Code, and these obligations shall be reported to Congress on September 30 of each year: <i>Provided</i>, That funds available for operation and maintenance shall be available for providing humanitarian and similar assistance by using Civic Action Teams in the Trust Territories of the Pacific Islands and freely associated states of Micronesia, pursuant to the Compact of Free Association as authorized by Public Law 99–239 \[48 U.S.C. 1901 note\]: <i>Provided further</i>, That upon a determination by the Secretary of the Army that such action is beneficial for graduate medical education programs conducted at Army medical facilities located in Hawaii, the Secretary of the Army may authorize the provision of medical services at such facilities and transportation to such facilities, on a nonreimbursable basis, for civilian patients from American Samoa, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, Palau, and Guam.”
+Pub. L. 105–56, title VIII, §8009, Oct. 8, 1997, 111 Stat. 1222, provided that: “Within the funds appropriated for the operation and maintenance of the Armed Forces, funds are hereby appropriated pursuant to section 401 of title 10, United States Code, for humanitarian and civic assistance costs under chapter 20 of title 10, United States Code. Such funds may also be obligated for humanitarian and civic assistance costs incidental to authorized operations and pursuant to authority granted in section 401 of chapter 20 of title 10, United States Code, and these obligations shall be reported to Congress on September 30 of each year: <i>Provided</i>, That funds available for operation and maintenance shall be available for providing humanitarian and similar assistance by using Civic Action Teams in the Trust Territories of the Pacific Islands and freely associated states of Micronesia, pursuant to the Compact of Free Association as authorized by Public Law 99–239 \[48 U.S.C. 1901 note\]: <i>Provided further</i>, That upon a determination by the Secretary of the Army that such action is beneficial for graduate medical education programs conducted at Army medical facilities located in Hawaii, the Secretary of the Army may authorize the provision of medical services at such facilities and transportation to such facilities, on a nonreimbursable basis, for civilian patients from American Samoa, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, Palau, and Guam.”
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8010\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–90.
 
 Pub. L. 104–61, title VIII, §8011, Dec. 1, 1995, 109 Stat. 653.
 

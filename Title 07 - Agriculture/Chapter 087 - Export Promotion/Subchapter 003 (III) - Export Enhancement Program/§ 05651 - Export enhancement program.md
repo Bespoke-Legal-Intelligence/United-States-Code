@@ -120,7 +120,7 @@ A prior section 301 of Pub. L. 95–501 amended sections 1761, 1762, 1764, and 1
 
 #### Amendments
 
-1996—Subsec. (e)(1). Pub. L. 104–127, §245(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Commodity Credit Corporation shall make available for each of the fiscal years 1991 through 2001 not less than $500,000,000 of the funds or commodities of the Commodity Credit Corporationto carry out the program established under this section.”
+1996—Subsec. (e)(1). Pub. L. 104–127, §245(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Commodity Credit Corporation shall make available for each of the fiscal years 1991 through 2001 not less than $500,000,000 of the funds or commodities of the Commodity Credit Corporation to carry out the program established under this section.”
 
 Subsec. (h). Pub. L. 104–127, §245(b), added subsec. (h).
 

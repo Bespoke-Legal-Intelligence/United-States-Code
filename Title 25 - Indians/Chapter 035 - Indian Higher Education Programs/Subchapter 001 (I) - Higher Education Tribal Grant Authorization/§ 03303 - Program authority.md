@@ -6,7 +6,7 @@ The Secretary shall, from the amounts appropriated for the purpose of supporting
 
 #### (b) Limitation on Secretary's authority
 
-The Secretary shall not place any restrictions on the use of funds provided to an Indian tribeunder this subchapter that is not expressly authorized by this subchapter.
+The Secretary shall not place any restrictions on the use of funds provided to an Indian tribe under this subchapter that is not expressly authorized by this subchapter.
 
 #### (c) Effect on Federal responsibilities
 

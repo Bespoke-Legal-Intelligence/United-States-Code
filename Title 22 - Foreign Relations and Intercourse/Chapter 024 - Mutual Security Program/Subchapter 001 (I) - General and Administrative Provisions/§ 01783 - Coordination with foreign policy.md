@@ -4,11 +4,11 @@
 
 (d) Whenever the President determines that the prevention of improper currency transactions in a given country requires it, he may direct the chief of the United States diplomatic mission there to issue regulations applicable to members of the Armed Forces and officers and employees of the United States Government, and to contractors with the United States Government and their employees, governing the extent to which their pay and allowances received and to be used in that country shall be paid in local currency. Notwithstanding any other law, United States Government agencies are authorized and directed to comply with such regulations.
 
-(Aug. 26, 1954, ch. 937, ch. IV, §523, 68 Stat. 856; Aug. 14, 1957, Pub. L. 85–141, §10(b), 71 Stat. 364; June 30, 1958, Pub. L. 85–477, ch. V, §501(27), 72 Stat. 272; July 24, 1959, Pub. L. 86–108, ch. IV, §401(f), 73 Stat. 253; May 14, 1960, Pub. L. 86–472, ch. IV, §401(f), 74 Stat. 139; Sept. 4, 1961, Pub. L. 87–195, pt. III, §642(a)(2), pt. IV, §707, 75 Stat. 460, 464.)
+(Aug. 26, 1954, ch. 937, ch. IV, §523, 68 Stat. 856; Pub. L. 85–141, §10(b), Aug. 14, 1957, 71 Stat. 364; Pub. L. 85–477, ch. V, §501(27), June 30, 1958, 72 Stat. 272; Pub. L. 86–108, ch. IV, §401(f), July 24, 1959, 73 Stat. 253; Pub. L. 86–472, ch. IV, §401(f), May 14, 1960, 74 Stat. 139; Pub. L. 87–195, pt. III, §642(a)(2), pt. IV, §707, Sept. 4, 1961, 75 Stat. 460, 464.)
 
 #### Amendments
 
-1961—Subsecs. (a) to (c). Pub. L. 87–195, §642(a)(2), repealed subsecs. (a) to (c) which related to powers and functions of the Secretary of State, required the President to prescribe procedures to assure coordination among representatives of the Government, and made the Secretary of State responsible for the continuoussupervision and general direction of the assistance programs. See section 2382 of this title.
+1961—Subsecs. (a) to (c). Pub. L. 87–195, §642(a)(2), repealed subsecs. (a) to (c) which related to powers and functions of the Secretary of State, required the President to prescribe procedures to assure coordination among representatives of the Government, and made the Secretary of State responsible for the continuous supervision and general direction of the assistance programs. See section 2382 of this title.
 
 Subsec. (d). Pub. L. 87–195, §707, substituted “prevention of improper currency transactions” for “achievement of United States foreign policy objectives”.
 

@@ -10,5 +10,5 @@ Nothing in this chapter may be construed as requiring the public disclosure of r
 
 (2) Records described in section 1202(f) of title 8 (relating to visa records) shall be excluded from publication in the FRUS series under section 4353 of this title and, to the extent applicable, exempted from the declassification requirement of section 4354 of this title.
 
-(Aug. 1, 1956, ch. 841, title IV, §405, as added Oct. 28, 1991, Pub. L. 102–138, title I, §198(a), 105 Stat. 688.)
+(Aug. 1, 1956, ch. 841, title IV, §405, as added Pub. L. 102–138, title I, §198(a), Oct. 28, 1991, 105 Stat. 688.)
 

@@ -26,7 +26,7 @@ Education and Experience Requirements.—(1) An officer who is nominated for the
 
 &emsp;(A) successfully completes an appropriate program at a joint professional military education school; and
 
-&emsp;(B) after completing such program of education, successfully completes a full tour of duty in a joint duty assignment (as describedin section 664(f) of this title (other than in paragraph (2) thereof)).
+&emsp;(B) after completing such program of education, successfully completes a full tour of duty in a joint duty assignment (as described in section 664(f) of this title (other than in paragraph (2) thereof)).
 
 (2)(A) An officer (other than a general or flag officer) who has a military occupational specialty that is a critical occupational specialty involving combat operations (as designated by the Secretary of Defense) and who is nominated for the joint specialty may be selected for the joint specialty after successful completion of a full tour of duty in a joint duty assignment (as described in section 664(f)(2) of this title) and successful completion of a program under paragraph (1)(A).
 
@@ -58,7 +58,7 @@ Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure th
 
 &emsp;&emsp;(i) have successfully completed a program of education referred to in subsection (c)(1)(A); or
 
-&emsp;&emsp;(ii) have a military occupational specialty that is designated under subsection (c)(2)(A) as a critical occupational specialty involving combat operations.
+&emsp;&emsp;(ii) have a military occupational specialty that is designated under subsection (c)(2)(A)as a critical occupational specialty involving combat operations.
 
 (2)(A) The Secretary shall designate not fewer than 800 joint duty assignment positions as critical joint duty assignment positions. Such designation shall be made by examining each joint duty assignment position and designating under the preceding sentence those positions for which, considering the duties and responsibilities of the position, it is highly important that the occupant be particularly trained in, and oriented toward, joint matters.
 

@@ -4,8 +4,8 @@
 | :--- | ---: |
 | [401\.](%C2%A7%2000401%20-%20Definitions.md) | Definitions. |
 | [402\.](%C2%A7%2000402%20-%20Basic%20allowance%20for%20subsistence.md) | Basic allowance for subsistence. |
-| [403\.](%C2%A7%2000403%20-%20Basic%20allowance%20for%20quarters.md) | Basic allowance for quarters. |
-| [403a.](%C2%A7%2000403a%20-%20Variable%20housing%20allowance.md) | Variable housing allowance. |
+| [403\.](%C2%A7%2000403%20-%20Basic%20allowance%20for%20housing.md) | Basic allowance for housing. |
+| \[403a. | Repealed.\] |
 | [403b.](%C2%A7%2000403b%20-%20Cost-of-living%20allowance%20in%20the%20continental%20United%20States.md) | Cost-of-living allowance in the continental United States. |
 | [404\.](%C2%A7%2000404%20-%20Travel%20and%20transportation%20allowances%20general.md) | Travel and transportation allowances: general. |
 | [404a.](%C2%A7%2000404a%20-%20Travel%20and%20transportation%20allowances%20temporary%20lodging%20expenses.md) | Travel and transportation allowances: temporary lodging expenses. |
@@ -61,6 +61,8 @@
 
 #### Amendments
 
+1997—Pub. L. 105–85, div. A, title VI, §603(c)(4), Nov. 18, 1997, 111 Stat. 1782, substituted “housing” for “quarters” in item 403 and struck out item 403a “Variable housing allowance”.
+
 1994—Pub. L. 103–337, div. A, title VI, §602(a)(2), Oct. 5, 1994, 108 Stat. 2781, added item 403b.
 
 1992—Pub. L. 102–484, div. A, title VI, §623(a)(2), Oct. 23, 1992, 106 Stat. 2423, added item 434.
@@ -113,7 +115,7 @@ Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 907 of this title; title 10 section 1051.
+This chapter is referred to in section 907 of this title; title 10 section 1051; title 42 section 659.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
@@ -124,8 +126,8 @@ This chapter is referred to in section 907 of this title; title 10 section 1051.
 
 - [&sect; 00401 - Definitions](%C2%A7%2000401%20-%20Definitions.md)
 - [&sect; 00402 - Basic allowance for subsistence](%C2%A7%2000402%20-%20Basic%20allowance%20for%20subsistence.md)
-- [&sect; 00403 - Basic allowance for quarters](%C2%A7%2000403%20-%20Basic%20allowance%20for%20quarters.md)
-- [&sect; 00403a - Variable housing allowance](%C2%A7%2000403a%20-%20Variable%20housing%20allowance.md)
+- [&sect; 00403 - Basic allowance for housing](%C2%A7%2000403%20-%20Basic%20allowance%20for%20housing.md)
+- [&sect; 00403a - Repealed. Pub. L. 105&#8211;85, div. A, title VI, &sect;603(c)(1), Nov. 18, 1997, 111 Stat. 1781](%C2%A7%2000403a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7603%28c%29%281%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201781.md)
 - [&sect; 00403b - Cost-of-living allowance in the continental United States](%C2%A7%2000403b%20-%20Cost-of-living%20allowance%20in%20the%20continental%20United%20States.md)
 - [&sect; 00404 - Travel and transportation allowances general](%C2%A7%2000404%20-%20Travel%20and%20transportation%20allowances%20general.md)
 - [&sect; 00404a - Travel and transportation allowances temporary lodging expenses](%C2%A7%2000404a%20-%20Travel%20and%20transportation%20allowances%20temporary%20lodging%20expenses.md)

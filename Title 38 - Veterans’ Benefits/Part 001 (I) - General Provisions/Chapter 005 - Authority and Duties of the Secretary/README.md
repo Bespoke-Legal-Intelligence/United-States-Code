@@ -13,6 +13,7 @@
 | [512\.](Subchapter%20001%20%28I%29%20-%20General%20Authorities/%C2%A7%2000512%20-%20Delegation%20of%20authority%3B%20assignment%20of%20functions%20and%20duties.md) | Delegation of authority; assignment of functions and duties. |
 | [513\.](Subchapter%20001%20%28I%29%20-%20General%20Authorities/%C2%A7%2000513%20-%20Contracts%20and%20personal%20services.md) | Contracts and personal services. |
 | [515\.](Subchapter%20001%20%28I%29%20-%20General%20Authorities/%C2%A7%2000515%20-%20Administrative%20settlement%20of%20tort%20claims.md) | Administrative settlement of tort claims. |
+| [516\.](Subchapter%20001%20%28I%29%20-%20General%20Authorities/%C2%A7%2000516%20-%20Equal%20employment%20responsibilities.md) | Equal employment responsibilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,6 +43,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–114, title I, §101(a)(2), Nov. 21, 1997, 111 Stat. 2279, added item 516.
 
 1996—Pub. L. 104–262, title III, §333(a)(2), Oct. 9, 1996, 110 Stat. 3200, added item 545.
 

@@ -36,7 +36,7 @@ Notwithstanding any other provision of this section, a credit union serving pred
 
 #### References in Text
 
-All subchapters of this chapter, referred to in subsec. (a), was in the original “all titles of this Act”, meaning titles I to III of Pub. L. 95–351. Titles I and II constitute this chapter and title III amended section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance.
+All subchapters of this chapter, referred to in subsec. (a), was in the original “all titles of this Act”, meaning titles I to III of Pub. L. 95–351. Titles I and II constitutethis chapter and title III amended section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance.
 
 #### Amendments
 

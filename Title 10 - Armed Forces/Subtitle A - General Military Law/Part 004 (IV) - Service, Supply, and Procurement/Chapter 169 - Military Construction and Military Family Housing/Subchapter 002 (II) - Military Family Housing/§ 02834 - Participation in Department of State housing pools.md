@@ -10,7 +10,7 @@
 
 (b) The maximum lease amounts specified in section 2828(e)(1) of this title for the rental of family housing in foreign countries shall not apply to housing made available to the Department of Defense under this section. To the extent that the lease amount for units of housing made available under this subsection exceeds such maximum lease amounts, such units shall not be counted in applying the limitation contained in such section on the number of units of family housing for which the Secretary concerned may waive such maximum lease amounts.
 
-(Added Pub. L. 99–167, title VIII, §808(a), Dec. 3, 1985, 99 Stat. 989; amended Pub. L. 101–510, div. A, title XIII, §1301(18), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–160, div. B, title XXVIII, §2806, Nov. 30, 1993, 107 Stat. 1887.)
+(Added Pub. L. 99–167, title VIII, §808(a), Dec. 3, 1985, 99 Stat. 989; amended Pub. L. 101–510, div. A, title XIII, §1301(18), Nov. 5, 1990, 104 Stat. 1668;Pub. L. 103–160, div. B, title XXVIII, §2806, Nov. 30, 1993, 107 Stat. 1887.)
 
 #### Amendments
 

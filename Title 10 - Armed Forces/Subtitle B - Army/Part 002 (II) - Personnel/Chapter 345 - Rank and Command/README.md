@@ -11,10 +11,13 @@
 | \[3580. | Repealed.\] |
 | [3581\.](%C2%A7%2003581%20-%20Command%20chaplains.md) | Command: chaplains. |
 | \[3582. | Repealed.\] |
+| [3583\.](%C2%A7%2003583%20-%20Requirement%20of%20exemplary%20conduct.md) | Requirement of exemplary conduct. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §507(a)(2), Nov. 18, 1997, 111 Stat. 1727, added item 3583.
 
 1980—Pub. L. 96–513, title V, §502(14), Dec. 12, 1980, 94 Stat. 2910, struck out items 3571 “Rank: commissioned officers on active duty”, 3573 “Rank: commissioned officers in regular grades of brigadier general and major general; seniority list”, 3574 “Rank; commissioned officers in regular grades below brigadier general”, and 3582 “Command: retired officers”.
 
@@ -43,3 +46,4 @@ General military law provisions, see section 741 et seq. of this title.
 - [&sect; 03580 - Repealed. Pub. L. 95&#8211;485, title VIII, &sect;820(f), Oct. 20, 1978, 92 Stat. 1627](%C2%A7%2003580%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93485%2C%20title%20VIII%2C%20%C2%A7820%28f%29%2C%20Oct.%2020%2C%201978%2C%2092%20Stat.%201627.md)
 - [&sect; 03581 - Command chaplains](%C2%A7%2003581%20-%20Command%20chaplains.md)
 - [&sect; 03582 - Repealed. Pub. L. 96&#8211;513, title II, &sect;211, Dec. 12, 1980, 94 Stat. 2885](%C2%A7%2003582%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7211%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202885.md)
+- [&sect; 03583 - Requirement of exemplary conduct](%C2%A7%2003583%20-%20Requirement%20of%20exemplary%20conduct.md)

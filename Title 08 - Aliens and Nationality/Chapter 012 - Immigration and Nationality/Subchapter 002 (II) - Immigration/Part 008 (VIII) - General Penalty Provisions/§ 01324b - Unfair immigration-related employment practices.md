@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;It is an unfair immigration-related employment practice for a person or other entity to discriminate against any individual (other than an unauthorized alien, as defined in section 1324a(h)(3) of this title) with respect to the hiring, or recruitment or referral for a fee, of the individual for employment or the discharging of the individual from employment—
+&emsp;It is an unfair immigration-related employment practice for a person or other entity todiscriminate against any individual (other than an unauthorized alien, as defined in section 1324a(h)(3) of this title) with respect to the hiring, or recruitment or referral for a fee, of the individual for employment or the discharging of the individual from employment—
 
 &emsp;&emsp;(A) because of such individual's national origin, or
 
@@ -34,7 +34,7 @@
 
 #### (5) Prohibition of intimidation or retaliation
 
-&emsp;It is also an unfair immigration-related employment practice for a person or other entityto intimidate, threaten, coerce, or retaliate against any individual for the purpose of interfering with any right or privilege secured under this section or because the individual intends to file or has filed a charge or a complaint, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this section. An individual so intimidated, threatened, coerced, or retaliated against shall be considered, for purposes of subsections (d) and (g) of this section, to have been discriminated against.
+&emsp;It is also an unfair immigration-related employment practice for a person or other entity to intimidate, threaten, coerce, or retaliate against any individual for the purpose of interfering with any right or privilege secured under this section or because the individual intends to file or has filed a charge or a complaint, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this section. An individual so intimidated, threatened, coerced, or retaliated against shall be considered, for purposes of subsections (d) and (g) of this section, to have been discriminated against.
 
 #### (6) Treatment of certain documentary practices as employment practices
 
@@ -80,7 +80,7 @@
 
 #### (3) Time limitations on complaints
 
-&emsp;No complaint may be filed respecting any unfair immigration-related employment practice occurring more than 180 days prior to thedate of the filing of the charge with the Special Counsel. This subparagraph shall not prevent the subsequent amending of a charge or complaint under subsection (e)(1) of this section.
+&emsp;No complaint may be filed respecting any unfair immigration-related employment practice occurring more than 180 days prior to the date of the filing of the charge with the Special Counsel. This subparagraph shall not prevent the subsequent amending of a charge or complaint under subsection (e)(1) of this section.
 
 #### (e) Hearings
 
@@ -104,7 +104,7 @@
 
 #### (2) Authority of administrative law judges
 
-&emsp;In conducting investigations and hearings under this subsection <sup>1</sup> and in accordance with regulations of the Attorney General, the Special Counsel and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated. The administrative law judges by subpoena may compel the attendance of witnesses and the production of evidence at any designated place or hearing. In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the administrative law judge, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
+&emsp;In conducting investigations and hearings under this subsection <sup>1</sup> and in accordance with regulations of the Attorney General, the Special Counsel and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated. The administrative law judges by subpoena may compel the attendance of witnesses and the production of evidence at any designated place or hearing. In case of contumacy or refusal to obey a subpoena lawfully issuedunder this paragraph and upon application of the administrative law judge, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
 
 #### (g) Determinations
 
@@ -200,7 +200,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 &emsp;&emsp;(ii) such section has created an unreasonable burden on employers hiring such workers; and
 
-&emsp;(B) there has been enacted, within such period of 30 calendar days, a joint resolutionstating in substance that the Congress approves the findings of the Comptroller General contained in such report.
+&emsp;(B) there has been enacted, within such period of 30 calendar days, a joint resolution stating in substance that the Congress approves the findings of the Comptroller General contained in such report.
 
 > The provisions of subsections (m) and (n) <sup>2</sup> of section 1324a of this title shall apply to any joint resolution under subparagraph (B) in the same manner as they apply to a joint resolution under subsection (<i>l</i>) <sup>2</sup> of such section.
 
@@ -324,7 +324,7 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### No Effect on EEOC Authority
 

@@ -10,7 +10,7 @@ The directors of the corporation shall appoint an executive director who shall s
 
 #### (c) Appointment and removal of employees by executive director
 
-The executive director of the corporation, subject to approval by the board, may appoint and remove such employees of the corporation as he determines necessary to carry out the purposes of the corporation.
+The executive director of the corporation, subject to approval by the board, may appoint and remove such employees of the corporation as hedetermines necessary to carry out the purposes of the corporation.
 
 #### (d) Prohibition of political tests and qualifications in selection, etc., of personnel
 

@@ -6,7 +6,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1212, 1216, 4703, 7103, 7121 of this title; title 22 section 4102; title 31 section 732; title 42 sections 1973d, 5055.
+This subchapter is referred to in sections 1212, 1216, 4703, 7103, 7121 of this title; title 22 sections 3664, 4102; title 31 section 732; title 42 sections 1973d, 5055.
 
 
 ---

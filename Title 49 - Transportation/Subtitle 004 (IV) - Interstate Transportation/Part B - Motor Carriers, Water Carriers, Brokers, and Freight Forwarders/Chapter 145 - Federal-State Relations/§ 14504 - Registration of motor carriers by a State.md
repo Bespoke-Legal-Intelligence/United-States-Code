@@ -6,7 +6,7 @@ Definitions.—In this section, the terms “standards” and “amendments to s
 
 (b)
 
-General Rule.—The requirement of a State that a motor carrier, providing transportation subject to jurisdiction under subchapter I of chapter 135 and providing transportation inthat State, must register with the State is not an unreasonable burden on transportation referred to in section 13501 when the State registration is completed under standards of the Secretary under subsection (c). When a State registration requirement imposes obligations in excess of the standards of the Secretary, the part in excess is an unreasonable burden.
+General Rule.—The requirement of a State that a motor carrier, providing transportation subject to jurisdiction under subchapter I of chapter 135 and providing transportation in that State, must register with the State is not an unreasonable burden on transportation referred to in section 13501 when the State registration is completed under standards of the Secretary under subsection (c). When a State registration requirement imposes obligations in excess of the standards of the Secretary, the part in excess is an unreasonable burden.
 
 (c)
 
@@ -34,7 +34,7 @@ Evidence of federal registration; proof of insurance; payment of fees.—Under t
 
 &emsp;&emsp;&emsp;(ii) to file satisfactory proof of required insurance or qualification as a self-insurer;
 
-&emsp;&emsp;&emsp;(iii) to pay directly to such State fee amounts in accordance with the fee system established under subparagraph (B)(iv) of this paragraph, subject to allocation of fee revenues among all States in which the carrier operates and which participate in the single State registration system; and
+&emsp;&emsp;&emsp;(iii) to pay directly to such State fee amounts in accordance with the fee system established under subparagraph (B)(iv)of this paragraph, subject to allocation of fee revenues among all States in which the carrier operates and which participate in the single State registration system; and
 
 &emsp;&emsp;&emsp;(iv) to file the name of a local agent for service of process.
 

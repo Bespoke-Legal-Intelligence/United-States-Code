@@ -10,7 +10,7 @@ The Secretary may prescribe the terms and conditions for the destruction of all 
 
 #### (c) Payment of storage, cartage, and labor charges by owner or consignee; liens
 
-All charges for storage, cartage, and labor with respect to any article which is imported contrary to this section shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against such articleand any other article thereafter imported under this chapter by or for such owner or consignee.
+All charges for storage, cartage, and labor with respect to any article which is imported contrary to this section shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against such article and any other article thereafter imported under this chapter by or for such owner or consignee.
 
 #### (d) Prohibition
 
@@ -68,7 +68,7 @@ The Secretary may prescribe terms and conditions under which cattle, sheep, swin
 
 (5) The action authorized under paragraph (4) may be used instead of, or in addition to, any other action taken under any other law.
 
-(Mar. 4, 1907, ch. 2907, title I, §20, formerly 18th par., 34 Stat. 1264; renumbered §20 and amended Dec. 15, 1967, Pub. L. 90–201, §§1, 10, 81 Stat. 584, 590; Oct. 10, 1978, Pub. L. 95–445, §4, 92 Stat. 1069; Dec. 22, 1981, Pub. L. 97–98, title XI, §1122, 95 Stat. 1273; Dec. 23, 1985, Pub. L. 99–198, title XVII, §1702, 99 Stat. 1634; Aug. 23, 1988, Pub. L. 100–418, title IV, §4604, 102 Stat. 1408; Dec. 8, 1993, Pub. L. 103–182, title III, §361(f), 107 Stat. 2124; Nov. 2, 1994, Pub. L. 103–437, §8(2), 108 Stat. 4588; Dec. 8, 1994, Pub. L. 103–465, title IV, §431(<i>l</i>), 108 Stat. 4970.)
+(Mar. 4, 1907, ch. 2907, title I, §20, formerly 18th par., 34 Stat. 1264; renumbered §20 and amended Pub. L. 90–201, §§1, 10, Dec. 15, 1967, 81 Stat. 584, 590; Pub. L. 95–445, §4, Oct. 10, 1978, 92 Stat. 1069; Pub. L. 97–98, title XI, §1122, Dec. 22, 1981, 95 Stat. 1273; Pub. L. 99–198, title XVII, §1702, Dec. 23, 1985, 99 Stat. 1634; Pub. L. 100–418, title IV, §4604, Aug. 23, 1988, 102 Stat. 1408; Pub. L. 103–182, title III, §361(f), Dec. 8, 1993, 107 Stat. 2124; Pub. L. 103–437, §8(2), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 103–465, title IV, §431(<i>l</i>), Dec. 8, 1994, 108 Stat. 4970.)
 
 #### References in Text
 

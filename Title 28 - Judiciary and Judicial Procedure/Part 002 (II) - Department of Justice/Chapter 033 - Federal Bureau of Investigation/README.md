@@ -23,17 +23,17 @@
 
 #### Amendments
 
-1994—Pub. L. 103–322, title XXXII, §320916(b), Sept. 13, 1994, 108 Stat. 2129, added item 540A.
+<b>1994</b>—Pub. L. 103–322, title XXXII, §320916(b), Sept. 13, 1994, 108 Stat. 2129, added item 540A.
 
 Pub. L. 103–272, §4(e)(2), July 5, 1994, 108 Stat. 1361, added item 538.
 
-1988—Pub. L. 100–690, title VII, §7331(b), Nov. 18, 1988, 102 Stat. 4468, added item 540.
+<b>1988</b>—Pub. L. 100–690, title VII, §7331(b), Nov. 18, 1988, 102 Stat. 4468, added item 540.
 
-1986—Pub. L. 99–569, title IV, §401(b), Oct. 27, 1986, 100 Stat. 3195, added item 539.
+<b>1986</b>—Pub. L. 99–569, title IV, §401(b), Oct. 27, 1986, 100 Stat. 3195, added item 539.
 
-1982—Pub. L. 97–292, §3(b), Oct. 12, 1982, 96 Stat. 1260, inserted “and information” after “identification records” in item 534.
+<b>1982</b>—Pub. L. 97–292, §3(b), Oct. 12, 1982, 96 Stat. 1260, inserted “and information” after “identification records” in item 534.
 
-1966—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted “FEDERAL BUREAU OF INVESTIGATION” for “UNITED STATES MARSHALS” in chapter heading, added items 531 to 537, and struck out items 541 to 556.
+<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted “FEDERAL BUREAU OF INVESTIGATION” for “UNITED STATES MARSHALS” in chapter heading, added items 531 to 537, and struck out items 541 to 556.
 
 #### Cross References
 

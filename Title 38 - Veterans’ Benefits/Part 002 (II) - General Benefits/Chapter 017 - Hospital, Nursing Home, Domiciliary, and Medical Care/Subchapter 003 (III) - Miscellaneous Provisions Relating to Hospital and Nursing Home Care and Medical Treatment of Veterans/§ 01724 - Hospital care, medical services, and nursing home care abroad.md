@@ -10,7 +10,7 @@
 
 &emsp;(B) if the Secretary determines, as a matter of discretion and pursuant to regulations which the Secretary shall prescribe, that it is appropriate and feasible to furnish such care and services.
 
-(c) Within the limits of those facilities of the Veterans Memorial Medical Center at Manila, Republic of the Philippines, for which the Secretary may contract, the Secretary may furnish necessary hospital care to a veteran for any non-service-connected disability if such veteran is unable to defray the expenses of necessary hospital care. The Secretary may enter into contracts to carry out this section.
+(c) Within the limits of those facilities of the Veterans Memorial Medical Center at Manila,Republic of the Philippines, for which the Secretary may contract, the Secretary may furnish necessary hospital care to a veteran for any non-service-connected disability if such veteran is unable to defray the expenses of necessary hospital care. The Secretary may enter into contracts to carry out this section.
 
 (d) The Secretary may furnish nursing home care, on the same terms and conditions set forth in section 1720(a) of this title, to any veteran who has been furnished hospital care in the Philippines pursuant to this section, but who requires a protracted period of nursing home care.
 

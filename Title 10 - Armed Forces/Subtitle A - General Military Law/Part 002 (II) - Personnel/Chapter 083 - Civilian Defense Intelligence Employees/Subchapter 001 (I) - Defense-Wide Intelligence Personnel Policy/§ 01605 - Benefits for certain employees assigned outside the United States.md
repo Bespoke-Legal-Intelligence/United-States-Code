@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of Defense may provide to civilian personnel described in subsection (d) allowances and benefits comparable to those provided by the Secretary of State to officers and employees of the Foreign Service under paragraphs (2), (3), (4), (5), (6), (7), (8), and (13) of section 901 and sections 705 and 903 of the Foreign Service Act of 1980 (22 U.S.C. 4081(2), (3), (4), (5), (6), (7), (8), and (13), 4025, 4083) and under section 5924(4) of title 5.
 
-(2) The Secretary may also provide to any such civilian personnel special retirement accrual benefits in the same manner provided forcertain officers and employees of the Central Intelligence Agency in section 303 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2153) and in section 18 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403r).
+(2) The Secretary may also provide to any such civilian personnel special retirement accrual benefits in the same manner provided for certain officers and employees of the Central Intelligence Agency in section 303 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2153) and in section 18 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403r).
 
 (b) The authority of the Secretary of Defense to make payments under subsection (a) is effective for any fiscal year only to the extent that appropriated funds are available for such purpose.
 
@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 104–93, §502(a)(3), added subsec. (d).
 
 Pub. L. 99–335 inserted provision authorizing the Secretary to provide to any civilian personnel subject to chapter 84 of title 5 special retirement accrual benefits in the same manner provided for certain officers and employees of the Central Intelligence Agency in section 303 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees.
 
-1985—Subsec. (a). Pub. L. 99–145, §1302(a)(1)(A), (B), struck out references to Director of the Defense Intelligence Agency and to military personnel, substituted “sections 705 and 903” for “under sections 903, 705, and 2308”, and substituted “(22 U.S.C. 4081(2), (3), (4), (6), (7), (8), and (13), 4025, 4083) and under section 5924(4) of title 5.” for “(22 U.S.C. 4025; 22 U.S.C. 4081(2), (3), (4), (6), (7), (8), and (13); 22 U.S.C. 4083; 5 U.S.C. 5924(4)).”
+1985—Subsec. (a). Pub. L. 99–145, §1302(a)(1)(A), (B), struck out references to Director of the Defense Intelligence Agency and to military personnel, substituted “sections 705 and 903” for “under sections 903, 705, and 2308”, and substituted “(22 U.S.C. 4081(2), (3), (4), (6), (7), (8), and (13), 4025, 4083) and under section 5924(4) of title5.” for “(22 U.S.C. 4025; 22 U.S.C. 4081(2), (3), (4), (6), (7), (8), and (13); 22 U.S.C. 4083; 5 U.S.C. 5924(4)).”
 
 Subsec. (b). Pub. L. 99–145, §1302(a)(1)(A), struck out reference to Director of the Defense Intelligence Agency.
 

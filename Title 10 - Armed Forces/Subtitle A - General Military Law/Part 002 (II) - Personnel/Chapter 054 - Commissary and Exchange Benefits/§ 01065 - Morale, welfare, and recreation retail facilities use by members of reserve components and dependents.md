@@ -10,7 +10,7 @@ Members of Ready Reserve Not in Selected Reserve.—Subject to such regulations 
 
 (c)
 
-Reserve Retirees Under Age 60.—A member or former member of a reserve componentunder 60 years of age who, but for age, would be eligible for retired pay under chapter 1223 of this title shall be permitted to use MWR retail facilities on the same basis as members of the armed forces entitled to retired pay under any other provision of law.
+Reserve Retirees Under Age 60.—A member or former member of a reserve component under 60 years of age who, but for age, would be eligible for retired pay under chapter 1223 of this title shall be permitted to use MWR retail facilities on the same basis as members of the armed forces entitled to retired pay under any other provision of law.
 
 (d)
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) that written appraisals of performance are based on the individual and organizational performance requirements established for the rating period involved; and
 
-&emsp;(3) that each senior executive in the agency is provided a copy of the appraisal and ratingunder section 4314 of this title and is given an opportunity to respond in writing and have the rating reviewed by an employee, or (with the consent of the senior executive) a commissioned officer in the uniformed services serving on active duty, in a higher level in the agency before the rating becomes final.
+&emsp;(3) that each senior executive in the agency is provided a copy of the appraisal and rating under section 4314 of this title and is given an opportunity to respond in writing and have the rating reviewed by an employee, or (with the consent of the senior executive) a commissioned officer in the uniformed services serving on active duty, in a higher level in the agency before the rating becomes final.
 
 (c)(1) The Office shall review each agency's performance appraisal system under this section, and determine whether the agency performance appraisal system meets the requirements of this subchapter.
 

@@ -8,7 +8,7 @@ Any State contracting under this section is authorized to make all necessary con
 
 As fast as any State may furnish satisfactory proof according to such rules and regulations as may be prescribed by the Secretary of the Interior, that any of said lands are irrigated, reclaimed, and occupied by actual settlers, patents shall be issued to the State or its assigns for said lands so reclaimed and settled: <i>Provided</i>, That said States shall not sell or dispose of more than one hundred and sixty acres of said lands to any one person, and any surplus of money derived by any State from the sale of said lands in excess of the cost of their reclamation, shall be held as a trust fund for and be applied to the reclamation of other desert lands in such State.
 
-(Aug. 18, 1894, ch. 301, §4, 28 Stat. 422; Mar. 3, 1901, ch. 853, §3, 31 Stat. 1188; Jan. 6, 1921, ch. 10, 41 Stat. 1085; Oct. 21, 1976, Pub. L. 94–579, title VII, §704(a), 90 Stat. 2792.)
+(Aug. 18, 1894, ch. 301, §4, 28 Stat. 422; Mar. 3, 1901, ch. 853, §3, 31 Stat. 1188; Jan. 6, 1921, ch. 10, 41 Stat. 1085; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Steps to be taken prior to or concurrently with construction
 
-(1) In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986, construction of which has not commenced as ofNovember 17, 1986, and which necessitates the mitigation of fish and wildlife losses, including the acquisition of lands or interests in lands to mitigate losses to fish and wildlife, as a result of such project, such mitigation, including acquisition of the lands or interests—
+(1) In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986, construction of which has not commenced as of November 17, 1986, and which necessitates the mitigation of fish and wildlife losses, including the acquisition of lands or interests in lands to mitigate losses to fish and wildlife, as a result of such project, such mitigation, including acquisition of the lands or interests—
 
 &emsp;(A) shall be undertaken or acquired before any construction of the project (other than such acquisition) commences, or
 
@@ -34,7 +34,7 @@ After November 17, 1986, the Secretary shall not submit any proposal for the aut
 
 #### (e) First enhancement costs as Federal costs
 
-In those cases when the Secretary, as part of any report to Congress, recommends activities to enhance fish and wildlife resources, the first costs of such enhancement shall be a Federal cost when—
+In those cases when the Secretary, as part of any report to Congress, recommends activities to enhance fish and wildlife resources, the firstcosts of such enhancement shall be a Federal cost when—
 
 &emsp;(1) such enhancement provides benefits that are determined to be national, including benefits to species that are identified by the National Marine Fisheries Service as of national economic importance, species that are subject to treaties or international convention to which the United States is a party, and anadromous fish;
 

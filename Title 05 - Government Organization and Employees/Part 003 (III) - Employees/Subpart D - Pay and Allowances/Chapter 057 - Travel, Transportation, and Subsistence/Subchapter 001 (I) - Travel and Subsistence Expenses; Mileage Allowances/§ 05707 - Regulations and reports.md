@@ -80,6 +80,10 @@ Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to 
 
 Section 6(b) of Pub. L. 94–22 provided that regulations required under the first sentence of subsec. (b)(2) of this section, as amended by subsec. (a) of section 6 of Pub. L. 94–22, were to be issued no later than 30 days after May 19, 1975.
 
+#### Reporting of Employee Relocation Expenses
+
+Pub. L. 105–61, title VI, §635, Oct. 10, 1997, 111 Stat. 1316, provided that: “No later than 30 days after the enactment of this Act \[Oct. 10, 1997\], the Director of the Office of Management and Budget shall require all Federal departments and agencies to report total obligations for the expenses of employee relocation. All obligations incident to employee relocation authorized under either chapter 57 of title 5, United States Code, or section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081; Public Law 96–465), shall be included. Such information for the past, current, and budget years shall be included in the agency budget submission to the President. The Director of the Office of Management and Budget shall prepare a table presenting obligations for the expenses of employee relocation for all departments and agencies, and such table shall be transmitted to Congress each year as part of the President's annual budget.”
+
 #### GAO Audit of Agency Compliance
 
 Section 5(b) of Pub. L. 101–391, which provided that not later than 6 months after the last day of the first fiscal year during which lodging expenses were subject to the requirements of former subsec. (d) of this section, and not later than 6 months after the last day of every fiscal year thereafter, the Comptroller General was to conduct an audit of the compliance of agencies with the requirements of such subsection, and was to submit a report to Congress describing the results of such audit, was repealed by Pub. L. 104–201, div. A, title XVI, §1614(a)(2), Sept. 23, 1996, 110 Stat. 2739, and Pub. L. 104–316, title I, §103(f), Oct. 19, 1996, 110 Stat. 3829.

@@ -8,7 +8,7 @@ Puerto Rico constitutes one judicial district.
 
 #### Historical and Revision Notes
 
-Based on sections 863 and 864 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (Apr. 12, 1900,ch. 191, §§34, 35, 31 Stat. 84, 85; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 2, 1917, ch. 145, §§41, 42, 39 Stat. 965, 966; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; Feb. 13, 1925, ch. 229, §§1, 13, 43 Stat. 936, 942; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; May 17, 1932, ch. 190, 47 Stat. 158; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118).
+Based on sections 863 and 864 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (Apr. 12, 1900, ch. 191, §§34, 35, 31 Stat. 84, 85; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 2, 1917, ch. 145, §§41, 42, 39 Stat. 965, 966; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; Feb. 13, 1925, ch. 229, §§1, 13, 43 Stat. 936, 942; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; May 17, 1932, ch. 190, 47 Stat. 158; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118).
 
 Section consolidates parts of sections 863 and 864 of title 48, U.S.C., 1940 ed., with changes in phraseology necessary to effect consolidation.
 

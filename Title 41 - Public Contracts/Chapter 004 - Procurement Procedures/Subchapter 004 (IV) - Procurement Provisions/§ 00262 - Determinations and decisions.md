@@ -12,9 +12,9 @@ Determinations and decisions required to be made under this subchapter by the he
 
 (3) The head of an executive agency shall maintain for a period of not less than 6 years a copy of each finding referred to in paragraph (1) that is made by a person in that executive agency. The period begins on the date of the determination or decision to which the finding relates.
 
-(June 30, 1949, ch. 288, title III, §312, as added Oct. 13, 1994, Pub. L. 103–355, title I, §1553, 108 Stat. 3300.)
+(June 30, 1949, ch. 288, title III, §312, as added Pub. L. 103–355, title I, §1553, Oct. 13, 1994, 108 Stat. 3300.)
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 

@@ -26,7 +26,7 @@ Beginning with the fiscal year ending September 30, 1982—
 
 &emsp;(3) There is authorized to be appropriated to carry out the expanded food and nutrition education program established under section 343(d) of this title and this section, $83,000,000 for each of fiscal years 1996 and 1997.
 
-(Pub. L. 95–113, title XIV, §1425, Sept. 29, 1977, 91 Stat. 1000; Pub. L. 97–98, title XIV, §1423, Dec. 22,1981, 95 Stat. 1307; Pub. L. 101–624, title XVII, §1776(b), Nov. 28, 1990, 104 Stat. 3814; Pub. L. 104–127, title VIII, §809, Apr. 4, 1996, 110 Stat. 1164.)
+(Pub. L. 95–113, title XIV, §1425, Sept. 29, 1977, 91 Stat. 1000; Pub. L. 97–98, title XIV, §1423, Dec. 22, 1981, 95 Stat. 1307; Pub. L. 101–624, title XVII, §1776(b), Nov. 28, 1990, 104 Stat. 3814; Pub. L. 104–127, title VIII, §809, Apr. 4, 1996, 110 Stat. 1164.)
 
 #### Amendments
 

@@ -10,7 +10,7 @@ Section 404, act June 16, 1933, ch. 90, title II, §204, 48 Stat. 203, relating 
 
 Section 405, act June 16, 1933, ch. 90, title II, §205, 48 Stat. 204, related to allotment of funds for particular highways.
 
-Section 406, act June 16, 1933, ch. 90, title II, §206, 48 Stat. 204, relating to use of convict labor in public works projects, terminated by terms of act June 21, 1938, ch. 554, title II, §201, 52 Stat. 816, as amended by acts June 27, 1940, ch. 437, 54 Stat. 633; Apr. 5, 1941, ch. 40, 55 Stat. 110; June 27, 1942, ch. 450, 56 Stat. 410, on June 30, 1943.
+Section 406, act June 16, 1933, ch. 90, title II, §206, 48 Stat. 204, relating to use of convict labor in public works projects, terminated by terms of act June 21,1938, ch. 554, title II, §201, 52 Stat. 816, as amended by acts June 27, 1940, ch. 437, 54 Stat. 633; Apr. 5, 1941, ch. 40, 55 Stat. 110; June 27, 1942, ch. 450, 56 Stat. 410, on June 30, 1943.
 
 Section 407, act June 16, 1933, ch. 90, title II, §207, 48 Stat. 205, relating to assignments by contractors, terminated by terms of act June 21, 1938, ch. 554, title II, §201, 52 Stat. 816, as amended by acts June 27, 1940, ch. 437, 54 Stat. 633; Apr. 5, 1941, ch. 40, 55 Stat. 110; June 27, 1942, ch. 450, 56 Stat. 410, on June 30, 1943.
 

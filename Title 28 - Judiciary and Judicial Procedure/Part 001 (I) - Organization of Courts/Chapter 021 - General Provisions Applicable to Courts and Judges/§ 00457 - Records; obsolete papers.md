@@ -1,10 +1,10 @@
 ### §457. Records; obsolete papers
 
-The records of district courts and of courts of appeals shall be kept at one or more of the places where court is held. Such places shall be designated by the respective courts except when otherwise directed by the judicial council of the circuit.
+The records of district courts and of courts of appeals shall be kept at one or more of theplaces where court is held. Such places shall be designated by the respective courts except when otherwise directed by the judicial council of the circuit.
 
 Papers of any court established by Act of Congress which have become obsolete and are no longer necessary or useful, may be disposed of with the approval of the court concerned in the manner provided by sections 366–380 of Title 44 and in accordance with the rules of the Judicial Conference of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 908; Nov. 6, 1978, Pub. L. 95–598, title II, §216, 92 Stat. 2661.)
+(June 25, 1948, ch. 646, 62 Stat. 908; Pub. L. 95–598, title II, §216, Nov. 6, 1978, 92 Stat. 2661.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,7 @@ The revised section enlarges scope of section 10 of title 28, U.S.C., 1940 ed., 
 
 The provisions in section 10 of title 28, U.S.C., 1940 ed., that where court is held “at more than one place” and the place of keeping the records “is not specially provided by law, they shall be kept at either of the places” designated by the court, was changed to permit the judicial councils of the circuits to make the determination without requiring special enactment of Congress. See section 332 of this title as to purpose and duties of the judicial councils.
 
-The provision of section 523a of title 28, U.S.C., 1940 ed., authorizing destruction of records by the AttorneyGeneral was rewritten in the second paragraph to give such authority, respecting court records, to the Director of the Administrative Office of the United States Courts. Such Director, under section 604 of this title, now exercises administrative authority over clerks and commissioners.
+The provision of section 523a of title 28, U.S.C., 1940 ed., authorizing destruction of records by the Attorney General was rewritten in the second paragraph to give such authority, respecting court records, to the Director of the Administrative Office of the United States Courts. Such Director, under section 604 of this title, now exercises administrative authority over clerks and commissioners.
 
 A similar provision with respect to records of United States attorneys and marshals was omitted as superseded by sections 366 and 380 of title 44, U.S.C., 1940 ed., Public Printing and Documents, which prescribe the exclusive method for disposition of such papers.
 
@@ -28,7 +28,7 @@ Sections 366–380 of Title 44, referred to in text, were repealed and the provi
 
 #### Amendments
 
-1978—Pub. L. 95–598 directed the amendment of section by inserting “of bankruptcy courts,” after “The record”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting “of bankruptcy courts,” after “The record”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 #### Section Referred to in Other Sections
 

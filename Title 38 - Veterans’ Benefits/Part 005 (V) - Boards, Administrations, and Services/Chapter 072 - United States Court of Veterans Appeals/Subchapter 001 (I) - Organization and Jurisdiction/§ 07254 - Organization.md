@@ -12,7 +12,7 @@
 
 (e) Judges of the Court shall have the authority to administer oaths.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4054; amended Pub. L. 101–94, title IV, §402, Aug. 16, 1989, 103 Stat. 628; Pub. L. 101–237, title VI, §602(b), Dec. 18, 1989, 103 Stat. 2095; renumbered §7254, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(e)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, §8(3), Aug. 6, 1991, 105 Stat. 377.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4054; amended Pub.L. 101–94, title IV, §402, Aug. 16, 1989, 103 Stat. 628; Pub. L. 101–237, title VI, §602(b), Dec. 18, 1989, 103 Stat. 2095; renumbered §7254, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(e)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, §8(3), Aug. 6, 1991, 105 Stat. 377.)
 
 #### Amendments
 

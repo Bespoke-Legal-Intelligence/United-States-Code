@@ -38,7 +38,7 @@ Pub. L. 104–106, div. A, title VIII, §802(b), title X, §§1061(j)(2), 1062(c
 
 1992—Pub. L. 102–484, div. A, title VIII, §821(c)(2), div. D, title XLII, §4271(b)(3), Oct. 23, 1992, 106 Stat. 2460, 2696, struck out items 2363 “Encouragement of technology transfer” and 2365 “Competitive prototype strategy requirement: major defense acquisition programs”.
 
-1991—Pub. L. 102–190, div. A, title VIII, §§802(a)(2), 803(a)(2), 821(c)(2), Dec. 5, 1991, 105 Stat. 1414, 1415, 1431, substituted item 2352 for former item 2352 “Contracts: limited to five-year terms”, struck out item 2368 “Critical technologies research”, and substituted item 2372 for former item 2372 “Independent research and development”.
+1991—Pub. L. 102–190, div. A, title VIII, §§802(a)(2), 803(a)(2), 821(c)(2), Dec. 5, 1991, 105 Stat. 1414, 1415, 1431, substituted item 2352 for former item 2352 “Contracts:limited to five-year terms”, struck out item 2368 “Critical technologies research”, and substituted item 2372 for former item 2372 “Independent research and development”.
 
 Pub. L. 102–25, title VII, §701(e)(5), Apr. 6, 1991, 105 Stat. 114, inserted period at end of item 2366.
 

@@ -36,7 +36,7 @@ This chapter, referred to in subsec. (c), was in the original “this Act” whi
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–150, §4(1), amended subsec. (a) generally, substituting provisions of pars. (1)and (2) setting forth appropriations for grants under sections 1455, 1455a, 1456b, and 1461 for fiscal years 1997, 1998, and 1999 for provisions of pars. (1) to (4) setting forth appropriations for grants under sections 1454, 1455, 1455a, 1456b, and 1461 and activities under section 1456c for fiscal years during the period beginning Oct. 1, 1990, and ending Sept. 30, 1995.
+1996—Subsec. (a). Pub. L. 104–150, §4(1), amended subsec. (a) generally, substituting provisions of pars. (1) and (2) setting forth appropriations for grants under sections 1455, 1455a, 1456b, and 1461 for fiscal years 1997, 1998, and 1999 for provisions of pars. (1) to (4) setting forth appropriations for grants under sections 1454, 1455, 1455a, 1456b, and 1461 and activities under section 1456c for fiscal years during the period beginning Oct. 1, 1990, and ending Sept. 30, 1995.
 
 Subsecs. (b) to (d). Pub. L. 104–150, §4(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “There are authorized to be appropriated until October 1, 1986, to the Fund, such sums, not to exceed $800,000,000, for the purposes of carrying out the provisions of section 1456a of this title, other than subsection (b), of which not to exceed $150,000,000 shall be for purposes of subsections (c)(1), (c)(2) and (c)(3) of such section.”
 
@@ -58,7 +58,7 @@ Subsec. (a)(2). Pub. L. 99–272, §6046(2), redesignated par. (3) as (2), and s
 
 Subsec. (a)(3). Pub. L. 99–272, §6046(2), (3), redesignated par. (4) as (3) and substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under section 1456b of this title, for authorization of appropriations of $3,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1456b of this title. Former par. (3) redesignated (2).
 
-Subsec. (a)(4). Pub. L. 99–272, §6046(2), (3), redesignated par. (5) as (4) and substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under section 1461 of this title, for authorization of appropriations of $9,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1461 of this title. Former par. (4) redesignated (3).
+Subsec. (a)(4). Pub. L. 99–272, §6046(2), (3), redesignated par. (5) as (4) and substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for grants under section 1461 of this title, forauthorization of appropriations of $9,000,000 for each of fiscal years 1981 through 1985 necessary for grants under section 1461 of this title. Former par. (4) redesignated (3).
 
 Subsec. (a)(5), (6). Pub. L. 99–272, §6046(2), (3), redesignated par. (6) as (5) and substituted authorization of appropriations for each of fiscal years 1986 through 1990 necessary for administrative expenses incident to administration of this chapter, for authorization of appropriations of $6,000,000 for each of fiscal years 1981 through 1985 necessary for such administrative expenses. Former par. (5) redesignated (4).
 

@@ -1,6 +1,6 @@
 ### §9564. Navy and Marine Corps: camp equipment and transportation; when on shore duty with Air Force
 
-While any detachment of the Navy or Marine Corps is on shore duty in cooperation with troops of the Air Force, the Secretary of the Air Force shall, upon the requisition of the officer of the Navy or Marine Corps in command of the detachment, issue rations and camp equipment, and furnish transportation, to that detachment.
+While any detachment of the Navy or Marine Corps is on shore duty in cooperation withtroops of the Air Force, the Secretary of the Air Force shall, upon the requisition of the officer of the Navy or Marine Corps in command of the detachment, issue rations and camp equipment, and furnish transportation, to that detachment.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 578.)
 

@@ -1,6 +1,6 @@
 ### §5584. Claims for overpayment of pay and allowances, and of travel, transportation and relocation expenses and allowances
 
-(a) A claim of the United States against a person arising out of an erroneous payment of payor allowances made on or after July 1, 1960, or arising out of an erroneous payment of travel, transportation or relocation expenses and allowances, to an employee of an agency, the collection of which would be against equity and good conscience and not in the best interests of the United States, may be waived in whole or in part by—
+(a) A claim of the United States against a person arising out of an erroneous payment of pay or allowances made on or after July 1, 1960, or arising out of an erroneous payment of travel, transportation or relocation expenses and allowances, to an employee of an agency, the collection of which would be against equity and good conscience and not in the best interests of the United States, may be waived in whole or in part by—
 
 &emsp;(1) the authorized official;
 
@@ -24,7 +24,7 @@
 
 &emsp;(5) in the case of a claim involving an erroneous payment of travel, transportation or relocation expenses and allowances, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment was discovered.
 
-(c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the employing agency at the time of the erroneous payment, of the amount repaid to the United States, if he applies to that employing agency for that refund within two years following the effective date of the waiver. The employing agency shall pay that refund in accordance with this section.
+(c) A person who has repaid to the United States all or part of the amount of a claim, withrespect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the employing agency at the time of the erroneous payment, of the amount repaid to the United States, if he applies to that employing agency for that refund within two years following the effective date of the waiver. The employing agency shall pay that refund in accordance with this section.
 
 (d) In the audit and settlement of the accounts of any accountable official, full credit shall be given for any amounts with respect to which collection by the United States is waived under this section.
 
@@ -100,7 +100,7 @@ Section 1009(b) of Pub. L. 100–702 provided that: “The amendments made by th
 
 #### Effective Date of 1985 Amendment
 
-Section 4 of Pub. L. 99–224 provided that: “The amendments made by section 1 of this Act \[amending this section\] shall apply to any claim arising out of an erroneous payment of travel, transportation, or relocation expenses and allowances made on or after the date of the enactment of this Act \[Dec. 28, 1985\]. The amendments made by sections 2 and 3 of this Act \[amending section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\] shall apply to any claim arising out of an erroneous payment of travel and transportation allowances made on or after the date of the enactment of this Act.”
+Section 4 of Pub. L. 99–224 provided that: “The amendments made by section 1 of this Act \[amending this section\] shall apply to any claim arising out of an erroneous payment of travel, transportation, or relocation expenses and allowances made on or after the date of the enactment of this Act \[Dec. 28, 1985\]. The amendments made by sections 2 and 3 of this Act \[amending section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\] shall apply to any claim arising out of an erroneous payment of travel andtransportation allowances made on or after the date of the enactment of this Act.”
 
 #### Effective Date of 1979 Amendment
 

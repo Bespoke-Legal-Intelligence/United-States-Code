@@ -30,7 +30,7 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 #### (1) In general
 
-&emsp;For an alien for whom an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] has been executed, if a determination described in paragraph (2) is made, the amount of income and resources of the sponsor or the sponsor's spouse which shall be attributed to the sponsored alien shall not exceed the amount actually provided for a period beginning on the date of such determination and ending 12 months after such date.
+&emsp;For an alien for whom an affidavit of support under section 213A of the Immigrationand Nationality Act \[8 U.S.C. 1183a\] has been executed, if a determination described in paragraph (2) is made, the amount of income and resources of the sponsor or the sponsor's spouse which shall be attributed to the sponsored alien shall not exceed the amount actually provided for a period beginning on the date of such determination and ending 12 months after such date.
 
 #### (2) Determination described
 
@@ -42,7 +42,7 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 &emsp;Subject to paragraph (2) and notwithstanding any other provision of this section, subsection (a) of this section shall not apply to benefits—
 
-&emsp;&emsp;(A) during a 12 month period if the alien demonstrates that (i) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or bya member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented to or acquiesced to such battery or cruelty, or (ii) the alien's child has been battered or subjected to extreme cruelty in the United States by the spouse or parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse's or parent's family residing in the same household as the alien when the spouse or parent consented or acquiesced to and the alien did not actively participate in such battery or cruelty, and the battery or cruelty described in clause (i) or (ii) (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the public benefits applied for; and
+&emsp;&emsp;(A) during a 12 month period if the alien demonstrates that (i) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented to or acquiesced to such battery or cruelty, (ii) the alien's child has been battered or subjected to extreme cruelty in the United States by the spouse or parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse's or parent's family residing in the same household as the alien when the spouse or parent consented or acquiesced to and the alien did not actively participate in such battery or cruelty, or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent's spouse, or by a member of the spouse's family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii) (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the public benefits applied for; and
 
 &emsp;&emsp;(B) after a 12 month period (regarding the batterer's income and resources only) if the alien demonstrates that such battery or cruelty under subparagraph (A) has been recognized in an order of a judge or administrative law judge or a prior determination of the Immigration and Naturalization Service, and that such battery or cruelty (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the benefits.
 
@@ -50,7 +50,7 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 &emsp;The exception under paragraph (1) shall not apply to benefits for an alien during any period in which the individual responsible for such battery or cruelty resides in the same household or family eligibility unit as the individual who was subjected to such battery or cruelty.
 
-(Pub. L. 104–193, title IV, §421, Aug. 22, 1996, 110 Stat. 2270; Pub. L. 104–208, div. C, title V, §§551(b)(1), 552, Sept. 30, 1996, 110 Stat. 3009–679, 3009–680.)
+(Pub. L. 104–193, title IV, §421, Aug. 22, 1996, 110 Stat. 2270; Pub. L. 104–208, div. C, title V, §§551(b)(1), 552, Sept. 30, 1996, 110 Stat. 3009–679, 3009–680; Pub. L. 105–33, title V, §5571(d), Aug. 5, 1997, 111 Stat. 641.)
 
 #### References in Text
 
@@ -62,9 +62,15 @@ The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935,
 
 #### Amendments
 
+1997—Subsec. (f)(1)(A). Pub. L. 105–33 struck out “or” before “(ii) the alien's child” and substituted “or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent's spouse, or by a member of the spouse's family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii)” for “and the battery or cruelty described in clause (i) or (ii)”.
+
 1996—Subsec. (a)(1). Pub. L. 104–208, §551(b)(1), inserted “and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996” after “section 423”.
 
 Subsecs. (e), (f). Pub. L. 104–208, §552, added subsecs. (e) and (f).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -72,5 +78,5 @@ Amendment by section 551(b)(1) of Pub. L. 104–208 applicable to affidavits of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1371, 1624 of this title.
+This section is referred to in sections 1371, 1624, 1641 of this title.
 

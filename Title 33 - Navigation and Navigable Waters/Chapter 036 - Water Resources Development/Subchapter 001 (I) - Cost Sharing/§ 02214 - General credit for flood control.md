@@ -14,7 +14,7 @@ The guidelines established under subsection (a) of this section shall provide fo
 
 &emsp;(1) Work which is carried out after the end of the reconnaissance study and before the submission to Congress of the final report of the Chief of Engineers on the project and which is determined by the Secretary to be compatible with the project shall be included as part of the project and shall be recommended by the Secretary in the final report for credit against the non-Federal share of the cost of the project.
 
-&emsp;(2) Work which is carried out after submission of the final report of the Chief of Engineers to Congress and which is determined by the Secretary to be compatible with the project shall be considered as part of the project and shall be credited by the Secretary against the non-Federal share of the cost of the project in accordance with the guidelinespromulgated pursuant to subsection (a) of this section.
+&emsp;(2) Work which is carried out after submission of the final report of the Chief of Engineers to Congress and which is determined by the Secretary to be compatible with the project shall be considered as part of the project and shall be credited by the Secretary against the non-Federal share of the cost of the project in accordance with the guidelines promulgated pursuant to subsection (a) of this section.
 
 > In no event may work which was carried out more than 5 years before November 17, 1986, be considered under this subsection, unless otherwise provided in this Act.
 

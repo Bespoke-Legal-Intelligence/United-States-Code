@@ -6,7 +6,7 @@
 
 &emsp;(2) an opinion stating the reasons and facts upon which the decision is based.
 
-(b) After the Court of International Trade has rendered a judgment, the court may, upon the motion of a party or upon its own motion, amend its findings or make additional findings and may amend the decision and judgment accordingly. A motion of a party or the court shall be made not later than thirty days after the date of entry of the judgment.
+(b) After the Court of International Trade has rendered a judgment, the court may, upon themotion of a party or upon its own motion, amend its findings or make additional findings and may amend the decision and judgment accordingly. A motion of a party or the court shall be made not later than thirty days after the date of entry of the judgment.
 
 (c) A decision of the Court of International Trade is final and conclusive, unless a retrial or rehearing is granted pursuant to section 2646 of this title or an appeal is taken to the Court of Appeals for the Federal Circuit by filing a notice of appeal with the clerk of the Court of International Trade within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts.
 
@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1982—Subsec. (c). Pub. L. 97–164 substituted “is taken to the Court of Appeals for the Federal Circuit by filing a notice of appeal with the clerk of the Court of International Trade within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts” for “is taken to the Court of Customs and Patent Appeals within thetime and in the manner provided in section 2601 of this title”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–164 substituted “is taken to the Court of Appeals for the Federal Circuit by filing a notice of appeal with the clerk of the Court of International Trade within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts” for “is taken to the Court of Customs and Patent Appeals within the time and in the manner provided in section 2601 of this title”.
 
 #### Effective Date of 1982 Amendment
 

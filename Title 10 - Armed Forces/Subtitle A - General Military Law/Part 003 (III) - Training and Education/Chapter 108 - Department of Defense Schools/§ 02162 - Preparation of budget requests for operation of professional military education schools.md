@@ -8,7 +8,7 @@ Uniform Cost Accounting.—The Secretary of Defense, with the advice and assista
 
 Preparation of Budget Requests.—(1) Amounts requested for a fiscal year for the operation of each professional military education school shall be set forth as a separate budget request in the materials submitted by the Secretary of Defense to Congress in support of the budget request for the Department of Defense.
 
-(2) The Secretary of a military department preparing a budget request for a professional military education school shall carefully consider the views of the Chairman of the Joint Chiefs of Staff, particularly with respect to the amount of the request for the operation of the schools of the National Defense University and the joint professional military education curricula of the other professional military education schools.
+(2) The Secretary of a military department preparing a budget request for a professional military education school shall carefully consider the views of the Chairman of the Joint Chiefs of Staff, particularly with respect to the amount of the request for the operation of the schools of the National Defense University andthe joint professional military education curricula of the other professional military education schools.
 
 (c)
 
@@ -16,29 +16,53 @@ Comparison of Budget Requests.—Materials prepared in support of the budget req
 
 (d)
 
+Professional Military Education Schools.—This section applies to each of the following professional military education schools:
+
+&emsp;(1) The National Defense University.
+
+&emsp;(2) The Army War College.
+
+&emsp;(3) The College of Naval Warfare.
+
+&emsp;(4) The Air War College.
+
+&emsp;(5) The United States Army Command and General Staff College.
+
+&emsp;(6) The College of Naval Command and Staff.
+
+&emsp;(7) The Air Command and Staff College.
+
+&emsp;(8) The Marine Corps University.
+
+(Added Pub. L. 101–510, div. A, title IX, §911(a), Nov. 5, 1990, 104 Stat. 1625; amended Pub. L. 105–85, div. A, title IX, §921(b), Nov. 18, 1997, 111 Stat. 1862.)
+
+#### Amendments
+
+1997—Subsec. (d). Pub. L. 105–85 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+
+“(d)
+
 Definitions.—In this section:
 
-&emsp;(1) The term “professional military education school” means—
+&emsp;“(1) The term ‘professional military education school’ means—
 
-&emsp;&emsp;(A) the National Defense University;
+&emsp;&emsp;“(A) the National Defense University;
 
-&emsp;&emsp;(B) the Army War College;
+&emsp;&emsp;“(B) the Army War College;
 
-&emsp;&emsp;(C) the College of Naval Warfare;
+&emsp;&emsp;“(C) the College of Naval Warfare;
 
-&emsp;&emsp;(D) the Air War College;
+&emsp;&emsp;“(D) the Air War College;
 
-&emsp;&emsp;(E) the United States Army Command and General Staff College;
+&emsp;&emsp;“(E) the United States Army Command and General Staff College;
 
-&emsp;&emsp;(F) the College of Naval Command and Staff;
+&emsp;&emsp;“(F) the College of Naval Command and Staff;
 
-&emsp;&emsp;(G) the Air Command and Staff College; or
+&emsp;&emsp;“(G) the Air Command and Staff College; or
 
-&emsp;&emsp;(H) the Marine Corps Command and Staff College.
+&emsp;&emsp;“(H) the Marine Corps Command and Staff College.
 
-&emsp;(2) The term “National Defense University” means the National War College, the Armed Forces Staff College, and the Industrial College of the Armed Forces.
-
-(Added Pub. L. 101–510, div. A, title IX, §911(a), Nov. 5, 1990, 104 Stat. 1625.)
+&emsp;“(2) The term ‘National Defense University’ means the National War College, the Armed Forces Staff College, and the Industrial College of the Armed Forces.”
 
 #### Effective Date
 

@@ -6,7 +6,7 @@ Medals.—The President may prepare and give a bronze medal of honor with emblem
 
 (b)
 
-Ribbons, Knots, and Rosettes.—The President may give an individual who receives a medal a ribbon to be worn with the medal and a knot or rosette to be worn in place of the medal. The President shall prescribe the design for the ribbon, knot, and rosette. If the ribbon is lost, destroyed, or made unfit for use and the individual receiving the medal is not negligent, the President shall issue a new ribbon without charge to the individual.
+Ribbons, Knots, and Rosettes.—The President may give an individual who receives amedal a ribbon to be worn with the medal and a knot or rosette to be worn in place of the medal. The President shall prescribe the design for the ribbon, knot, and rosette. If the ribbon is lost, destroyed, or made unfit for use and the individual receiving the medal is not negligent, the President shall issue a new ribbon without charge to the individual.
 
 (c)
 

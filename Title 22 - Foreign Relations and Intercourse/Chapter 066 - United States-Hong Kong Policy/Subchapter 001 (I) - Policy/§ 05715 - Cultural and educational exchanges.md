@@ -2,7 +2,7 @@
 
 It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, are and should continue after June 30, 1997, to be the policy of the United States with respect to cultural and educational exchanges with Hong Kong:
 
-&emsp;(1) The United States should seek to maintain and expand United States-Hong Kong relations and exchanges in culture, education, science, and academic research. The UnitedStates should encourage American participation in bilateral exchanges with Hong Kong, both official and unofficial.
+&emsp;(1) The United States should seek to maintain and expand United States-Hong Kong relations and exchanges in culture, education, science, and academic research. The United States should encourage American participation in bilateral exchanges with Hong Kong, both official and unofficial.
 
 &emsp;(2) The United States should actively seek to further United States-Hong Kong cultural relations and promote bilateral exchanges, including the negotiating and concluding of appropriate agreements in these matters.
 

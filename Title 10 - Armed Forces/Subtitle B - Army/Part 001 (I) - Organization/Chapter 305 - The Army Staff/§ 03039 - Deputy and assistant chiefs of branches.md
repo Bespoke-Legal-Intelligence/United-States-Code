@@ -1,6 +1,6 @@
 ### §3039. Deputy and assistant chiefs of branches
 
-(a) Each officer named in section 3036 of this title shall have, in addition to the assistantsprescribed by subsections (b) and (c) and by section 3037 of this title, such deputies and assistants as the Secretary of the Army may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Army for a tour of duty of not more than four years, under a procedure prescribed by the Secretary similar to that prescribed in section 3036 of this title.
+(a) Each officer named in section 3036 of this title shall have, in addition to the assistants prescribed by subsections (b) and (c) and by section 3037 of this title, such deputies and assistants as the Secretary of the Army may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Army for a tour of duty of not more than four years, under a procedure prescribed by the Secretary similar to that prescribed in section 3036 of this title.
 
 (b) There is an Assistant Surgeon General appointed from the officers of the Dental Corps, as prescribed in section 3036 of this title. The Assistant Surgeon General is Chief of the Dental Corps and is responsible for making recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and the dental health of the Army. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.
 
@@ -52,7 +52,7 @@ A prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, related to Ins
 
 1986—Pub. L. 99–433 renumbered section 3040 of this title as this section and substituted “section 3036” for “sections 3036 and 3039” in subsec. (a).
 
-1978—Subsec. (b). Pub. L. 95–485 inserted provision establishing the Assistant Surgeon General as Chief of the Dental Corps and making him responsible for recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and dental health of the Army.
+1978—Subsec. (b). Pub. L. 95–485 inserted provision establishing the Assistant Surgeon General as Chief ofthe Dental Corps and making him responsible for recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and dental health of the Army.
 
 #### Cross References
 

@@ -6,7 +6,7 @@
 
 &emsp;(i) knowing that a person is an alien, brings to or attempts to bring to the United States in any manner whatsoever such person at a place other than a designated port of entry or place other than as designated by the Commissioner, regardless of whether such alien has received prior official authorization to come to, enter, or reside in the United States and regardless of any future official action which may be taken with respect to such alien;
 
-&emsp;(ii) knowing or in reckless disregard of the fact that an alien has come to, entered, or remains in the United States in violation of law,transports, or moves or attempts to transport or move such alien within the United States by means of transportation or otherwise, in furtherance of such violation of law;
+&emsp;(ii) knowing or in reckless disregard of the fact that an alien has come to, entered, or remains in the United States in violation of law, transports, or moves or attempts to transport or move such alien within the United States by means of transportation or otherwise, in furtherance of such violation of law;
 
 &emsp;(iii) knowing or in reckless disregard of the fact that an alien has come to, entered, or remains in the United States in violation of law, conceals, harbors, or shields from detection, or attempts to conceal, harbor, or shield from detection, such alien in any place, including any building or any means of transportation;
 
@@ -60,7 +60,7 @@
 
 (2) Any conveyance subject to seizure under this section may be seized without warrant if there is probable cause to believe the conveyance has been or is being used in a violation of subsection (a) of this section and circumstances exist where a warrant is not constitutionally required.
 
-(3) All provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for the violation of the customs laws; the disposition of such property or the proceeds from the sale thereof; the remission or mitigation of such forfeitures; and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions hereof, except that duties imposed on customs officers or other persons regarding the seizureand forfeiture of property under the customs laws shall be performed with respect to seizures and forfeitures carried out under the provisions of this section by such officers or persons authorized for that purpose by the Attorney General.
+(3) All provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for the violation of the customs laws; the disposition of such property or the proceeds from the sale thereof; the remission or mitigation of such forfeitures; and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions hereof, except that duties imposed on customs officers or other persons regarding the seizure and forfeiture of property under the customs laws shall be performed with respect to seizures and forfeitures carried out under the provisions of this section by such officers or persons authorized for that purpose by the Attorney General.
 
 (4) Whenever a conveyance is forfeited under this section the Attorney General may—
 
@@ -190,5 +190,5 @@ Definition of the term—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1101 of this title; title 10 section 374.
+This section is referred to in section 1101 of this title; title 10 section 374; title 18 sections 1961, 2516.
 

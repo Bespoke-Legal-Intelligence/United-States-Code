@@ -74,7 +74,7 @@ Funds provided pursuant to this section may be used for—
 
 (1) The Secretary, with the participation of Indian tribes, shall establish, and promulgate by regulations, a formula which establishes base support funding for Indian Child Protection and Family Violence Prevention programs.
 
-(2) In the development of regulations for base support funding for such programs, the Secretary shall develop, in consultation with Indian tribes, appropriate caseload standards and staffing requirements which are comparable to standards developed by the National Association of Social Work, the Child Welfare League of America and other professional associations inthe field of social work and child welfare. Each level of funding assistance shall correspond to the staffing requirements established by the Secretary pursuant to this section.
+(2) In the development of regulations for base support funding for such programs, the Secretary shall develop, in consultation with Indian tribes, appropriate caseload standards and staffing requirements which are comparable to standards developed by the National Association of Social Work, the Child Welfare League of America and other professional associations in the field of social work and child welfare. Each level of funding assistance shall correspond to the staffing requirements established by the Secretary pursuant to this section.
 
 (3) Factors to be considered in the development of the base support funding formula shall include, but are not limited to—
 

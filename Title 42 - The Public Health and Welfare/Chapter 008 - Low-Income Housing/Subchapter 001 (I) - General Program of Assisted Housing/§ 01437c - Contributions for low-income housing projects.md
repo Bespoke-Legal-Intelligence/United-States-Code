@@ -284,7 +284,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### Effective Date of 1995 Amendment
 
-Section 1002(d) of Pub. L. 104–19, as amended by Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(1)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §201(b), Sept. 26, 1996, 110 Stat. 2892, provided that: Subsections (a), (b), and (c) \[amending this section and sections 1437p and 1437aaa–3 of this title\] shall be effective for applications for the demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken, on, before, or after September 30, 1995 and on or before September 30, 1997.”
+Section 1002(d) of Pub. L. 104–19, as amended by Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(1)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §201(b), Sept. 26, 1996, 110 Stat. 2892; Pub. L. 105–65, title II, §201(a), Oct. 27, 1997, 111 Stat. 1364, provided that: Subsections (a), (b), and (c) \[amending this section and sections 1437p and 1437aaa–3 of this title\] shall be effective for applications for the demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken, on, before, or after September 30, 1995 and on or before September 30, 1998.”
 
 #### Effective Date of 1992 Amendment
 

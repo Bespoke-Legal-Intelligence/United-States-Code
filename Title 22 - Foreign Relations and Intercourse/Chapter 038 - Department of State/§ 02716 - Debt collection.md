@@ -10,7 +10,7 @@
 
 The Secretary of State shall, to the extent otherwise allowed by law, disclose to those credit reporting agencies to which the Secretary reports loan activity information concerning any debt of more than $100 owed by a person, other than a foreign country, to the United States which arises out of activities of the Department of State and is delinquent by more than 31 days.
 
-(Aug. 1, 1956, ch. 841, title I, §44, as added Feb. 16, 1990, Pub. L. 101–246, title I, §117(2), 104 Stat. 25.)
+(Aug. 1, 1956, ch. 841, title I, §44, as added Pub. L. 101–246, title I, §117(2), Feb. 16, 1990, 104 Stat. 25.)
 
 #### Prior Provisions
 

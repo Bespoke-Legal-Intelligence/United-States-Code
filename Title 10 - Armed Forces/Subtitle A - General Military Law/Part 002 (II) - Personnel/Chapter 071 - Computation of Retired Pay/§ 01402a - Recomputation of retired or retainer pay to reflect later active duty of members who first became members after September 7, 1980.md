@@ -46,7 +46,7 @@ Computation for Later Disability.—A member of an armed force covered by subsec
 | --- | --- | --- | --- |
 | The retired pay base computed under section 1407(b) of this title. | As member elects—  (1) 21/2 percent of years of service credited under section 1208 of this title; <sup>1</sup> or  (2) the highest percentage of disability attained while on active duty after retirement or after the date when his name was placed on temporary disability retired list, as the case may be. | Amount necessary to increase product of columns 1 and 2 to 50 percent of pay upon which computation is based, if member is on temporary disability retired list | Excess over 75 percent of retired or retainer pay base upon which computation is based. |
 
-<sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
+&nbsp;<sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
 (e)
 
@@ -74,7 +74,7 @@ Percent for Certain Enlisted Members Credited With Extraordinary Heroism.—(1) 
 
 1992—Subsec. (f). Pub. L. 102–484 added subsec. (f).
 
-1986—Subsec. (a). Pub. L. 99–348, §201(b)(1), amended subsec. (a) generally. Prior to the amendment, subsec. (a) read as follows: “A member of an armed force who first became a member of a uniformed service (as defined in section 1407(a)(2) of this title) after September 7, 1980, who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute hisretired pay or retainer pay upon his release from that duty according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
+1986—Subsec. (a). Pub. L. 99–348, §201(b)(1), amended subsec. (a) generally. Prior to the amendment, subsec. (a) read as follows: “A member of an armed force who first became a member of a uniformed service (as defined in section 1407(a)(2) of this title) after September 7, 1980, who has become entitled to retired pay or retainer pay, and who thereafter serves on active duty (other than for training), is entitled to recompute his retired pay or retainer pay upon his release from that duty according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.”
 
 Subsec. (b). Pub. L. 99–348, §201(b)(2)(A), inserted heading.
 
@@ -90,7 +90,7 @@ Pub. L. 98–94, §923(a)(1), (2)(D), in footnote 1 of table, substituted “Bef
 
 Subsec. (d). Pub. L. 98–94, §922(a)(6), substituted “according to the following table. The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
-Pub. L. 98–94, §923(a)(1), (2)(E), in footnote 1 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+Pub. L. 98–94, §923(a)(1), (2)(E), in footnote 1 of table, substituted “Before applying percentage factor, crediteach full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
 1980—Pub. L. 96–513, §511(51)(B), substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in section catchline.
 

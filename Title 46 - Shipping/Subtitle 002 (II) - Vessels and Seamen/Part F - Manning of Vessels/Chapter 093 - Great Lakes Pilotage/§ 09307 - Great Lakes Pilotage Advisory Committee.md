@@ -10,7 +10,7 @@
 
 (b) The Committee shall consist of 3 members appointed by the Secretary each of whom has at least 5 years practical experience in maritime operations. The term of each member is for a period of not more than 5 years, specified by the Secretary. Before filling a position on the Committee, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the Committee.
 
-(c) When attending meetings or otherwise serving at the request of the Secretary, a member of the Committee (except a member regularly employed by the United States Government) may be paid at a rate of not more than $75 a day. When serving away from home or regular place of business, the member may be allowed travel expenses, including per diem in lieu ofsubsistence as authorized by section 5703 of title 5 for individuals employed intermittently in the Government service.
+(c) When attending meetings or otherwise serving at the request of the Secretary, a member of the Committee (except a member regularly employed by the United States Government) may be paid at a rate of not more than $75 a day. When serving away from home or regular place of business, the member may be allowed travel expenses, including per diem in lieu of subsistence as authorized by section 5703 of title 5 for individuals employed intermittently in the Government service.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 559.)
 

@@ -4,7 +4,7 @@
 
 The Congress makes the following findings:
 
-&emsp;(1) State Department policy concerning the advertising of security contracts at ForeignService buildings has been inconsistent over the years. In many cases, diplomatic and consular posts abroad have been given the responsibility to determine the manner in which the private sector was notified concerning an invitation for bids or a request for proposals with respect to a local guard contract. Some United States foreign missions have only chosen to advertise locally the availability of a local security guard contract abroad.
+&emsp;(1) State Department policy concerning the advertising of security contracts at Foreign Service buildings has been inconsistent over the years. In many cases, diplomatic and consular posts abroad have been given the responsibility to determine the manner in which the private sector was notified concerning an invitation for bids or a request for proposals with respect to a local guard contract. Some United States foreign missions have only chosen to advertise locally the availability of a local security guard contract abroad.
 
 &emsp;(2) As a result, many United States security firms that provide local guard services abroad have been unaware that local guard contracts were available for bidding abroad and such firms have been disadvantaged as a result.
 
@@ -60,7 +60,7 @@ For the purposes of this section—
 
 &emsp;(2) the term “qualified United States joint venture person” means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture;
 
-&emsp;(3) the term “Foreign Service building” means any building or grounds of the United States which is in a foreign country and is under the jurisdiction and control of the Secretary of State, including residences of United States personnel assigned overseas under the authority of the Ambassador; and
+&emsp;(3) the term “Foreign Service building” means any building or grounds of the UnitedStates which is in a foreign country and is under the jurisdiction and control of the Secretary of State, including residences of United States personnel assigned overseas under the authority of the Ambassador; and
 
 &emsp;(4) the term “barrier to local competition” means—
 

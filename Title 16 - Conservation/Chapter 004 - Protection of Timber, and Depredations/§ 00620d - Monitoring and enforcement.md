@@ -52,7 +52,7 @@ Using the information gathered under subsection (a) of this section, the Secreta
 
 &emsp;(A) If the Secretary concerned finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the prohibition contained in sections 620 to 620j of this title against exporting Federal timber, exported or caused to be exported unprocessed timber originating from Federal lands in violation of sections 620 to 620j of this title, such Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
 
-&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the restrictions contained in an order of the Secretary under section 620c(a) of this title on exports of unprocessed timber from public lands, exported or caused to be exported unprocessed timber originating from public lands in violation of such order, the Secretary may assess against such person a civil penalty of not more than $500,000 foreach violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
+&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the restrictions contained in an order of the Secretary under section 620c(a) of this title on exports of unprocessed timber from public lands, exported or caused to be exported unprocessed timber originating from public lands in violation of such order, the Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
 
 &emsp;(ii) Clause (i) shall not apply with respect to exports of unprocessed timber originating from public lands in a State that is administering and enforcing a program under section 620c(d) of this title.
 
@@ -70,6 +70,28 @@ Using the information gathered under subsection (a) of this section, the Secreta
 
 &emsp;(ii) Clause (i) shall not apply with respect to unprocessed timber originating from public lands in a State that is administering and enforcing a program under section 620c(d) of this title.
 
+&emsp;(C)
+
+Mitigation of penalties.—
+
+&emsp;&emsp;(i)
+
+In general.—The Secretary concerned—
+
+&emsp;&emsp;&emsp;(I) in determining the applicability of any penalty imposed under this paragraph, shall take into account all relevant mitigating factors, including mistake, inadvertence, and error; and
+
+&emsp;&emsp;&emsp;(II) based on any mitigating factor, may, with respect to any penalty imposed under this paragraph—
+
+&emsp;&emsp;&emsp;&emsp;(aa) reduce the penalty;
+
+&emsp;&emsp;&emsp;&emsp;(bb) not impose the penalty; or
+
+&emsp;&emsp;&emsp;&emsp;(cc) on condition of there being no further violation under this paragraph for a prescribed period, suspend imposition of the penalty.
+
+&emsp;&emsp;(ii)
+
+Contractural remedies.—In the case of a minor violation of sections 620 to 620j of this title (including a regulation), the Secretary concerned shall, to the maximum extent practicable, permit a contracting officer to redress the violation in accordance with the applicable timber sale contract rather than assess a penalty under this paragraph.
+
 #### (3) Penalties not exclusive; judicial review
 
 &emsp;A penalty assessed under this subsection shall not be exclusive of any other penalty provided by law and shall be subject to review in an appropriate United States district court.
@@ -78,7 +100,19 @@ Using the information gathered under subsection (a) of this section, the Secreta
 
 #### (1) Debarment
 
-&emsp;The head of the appropriate Federal department or agency under sections 620 to 620j of this title may debar any person who violates sections 620 to 620j of this title, or any regulation or contract issued under sections 620 to 620j of this title, from entering into any contract for the purchase of unprocessed timber from Federal lands for a period of not more than 5 years. Such person shall also be precluded from taking delivery of Federal timber purchased by another party for the period of debarment.
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the head of the appropriate Federal department or agency under sections 620 to 620j of this title may debar any person who violates sections 620 to 620j of this title, or any regulation or contract issued under sections 620 to 620j of this title, from entering into any contract for the purchase of unprocessed timber from Federal lands for a period of not more than 5 years. Such person shall also be precluded from taking delivery of Federal timber purchased by another party for the period of debarment.
+
+#### (B) Prerequisites for debarment
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;No person may be debarred from bidding for or entering into a contract for the purchase of unprocessed timber from Federal lands under subparagraph (A) unless the head of the appropriate Federal department or agency first finds, on the record and after an opportunity for a hearing, that debarment is warranted.
+
+#### (ii) Withholding of awards during debarment proceedings
+
+&emsp;&emsp;&emsp;The head of an appropriate Federal department or agency may withhold an award under sections 620 to 620j of this title of a contract for the purchase of unprocessed timber from Federal lands during a debarment proceeding.
 
 #### (2) Cancellation of contracts
 
@@ -88,13 +122,21 @@ Using the information gathered under subsection (a) of this section, the Secreta
 
 Subsections (c) and (d) of this section do not apply to violations of section 620i of this title.
 
-(Pub. L. 101–382, title IV, §492, Aug. 20, 1990, 104 Stat. 722; Pub. L. 103–45, §3, July 1, 1993, 107 Stat. 226.)
+(Pub. L. 101–382, title IV, §492, Aug. 20, 1990, 104 Stat. 722; Pub. L. 103–45, §3, July 1, 1993, 107 Stat. 226; Pub. L. 105–83, title VI, §603, Nov. 14, 1997, 111 Stat. 1620.)
 
 #### Amendments
+
+1997—Subsec. (c)(2)(C). Pub. L. 105–83, §603(1), added subpar. (C).
+
+Subsec. (d)(1). Pub. L. 105–83, §603(2), inserted subpar. (A) designation and heading, substituted “Subject to subparagraph (B), the head” for “The head”, and added subpar. (B).
 
 1993—Subsec. (a)(3), (4). Pub. L. 103–45, §3(a), added pars. (3) and (4).
 
 Subsec. (c)(1). Pub. L. 103–45, §3(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (c)(2). Pub. L. 103–45, §3(b)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), and added subpar. (B).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 620f of this title.
 

@@ -133,6 +133,8 @@ I74subpart 1—general authority
 | (c) | Location of properties. |
 | (d) | Transition. |
 | [4565\.](Subchapter%20001%20%28I%29%20-%20Supervision%20and%20Regulation%20of%20Enterprises/Part%20B%20-%20Authority%20of%20Secretary/Subpart%20002%20-%20Housing%20Goals/%C2%A7%2004565%20-%20Other%20requirements.md) | Other requirements. |
+| (a) | In general. |
+| (b) | Affordable housing goals. |
 | [4566\.](Subchapter%20001%20%28I%29%20-%20Supervision%20and%20Regulation%20of%20Enterprises/Part%20B%20-%20Authority%20of%20Secretary/Subpart%20002%20-%20Housing%20Goals/%C2%A7%2004566%20-%20Monitoring%20and%20enforcing%20compliance%20with%20housing%20goals.md) | Monitoring and enforcing compliance with housing goals. |
 | (a) | In general. |
 | (b) | Notice and determination of failure to meet goals. |

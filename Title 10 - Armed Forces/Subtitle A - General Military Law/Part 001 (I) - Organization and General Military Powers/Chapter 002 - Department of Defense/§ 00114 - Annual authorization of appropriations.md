@@ -38,7 +38,7 @@
 
 (f) In each budget submitted by the President to Congress under section 1105 of title 31, amounts requested for procurement of ammunition for the Navy and Marine Corps, and for procurement of ammunition for the Air Force, shall be set forth separately from other amounts requested for procurement.
 
-(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138; amended Pub. L. 94–106, title VIII, §801(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–342, title X, §1001(a)(1), (b)–(d)(1), Sept. 8, 1980, 94 Stat. 1117–1119; Pub. L. 96–513, title I, §102, title V, §511(4), Dec. 12, 1980, 94 Stat. 2840, 2920; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title III, §302, title IX, §§901(a), 902, 903, Dec. 1, 1981, 95 Stat. 1104, 1113, 1114; Pub. L. 97–113, title I, §108(b), Dec. 29, 1981, 95 Stat. 1524; Pub. L. 97–214, §4, July 12, 1982, 96 Stat. 170; Pub. L. 97–252, title IV, §402(a), title XI, §§1103, 1105, Sept. 8, 1982, 96 Stat. 725, 738, 739; Pub. L. 97–295, §1(3), (4), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title XIV,§1405(2), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–145, title XII, §1208, title XIV, §1403, Nov. 8, 1985, 99 Stat. 723, 743; renumbered §114 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(1)–(9), (11), Oct. 1, 1986, 100 Stat. 994, 1001, 1002; Pub. L. 99–661, div. A, title I, §105(d), title XIII, §1304(a), Nov. 14, 1986, 100 Stat. 3827, 3979; Pub. L. 100–26, §7(j)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XII, §1203, Dec. 4, 1987, 101 Stat. 1154; Pub. L. 101–189, div. A, title XVI, §1602(b), Nov. 29, 1989, 103 Stat. 1597; Pub. L. 101–510, div. A, title XIV, §1481(a)(1), Nov. 5, 1990, 104 Stat. 1704; Pub. L. 104–106, div. A, title XV, §1501(c)(2), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title X, §1005, Sept. 23, 1996, 110 Stat. 2632.)
+(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138; amended Pub. L. 94–106, title VIII, §801(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–342, title X, §1001(a)(1), (b)–(d)(1), Sept. 8, 1980, 94 Stat. 1117–1119; Pub. L. 96–513, title I, §102, title V, §511(4), Dec. 12, 1980, 94 Stat. 2840, 2920; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title III, §302, title IX, §§901(a), 902, 903, Dec. 1, 1981, 95 Stat. 1104, 1113, 1114; Pub. L. 97–113, title I, §108(b), Dec. 29, 1981, 95 Stat. 1524; Pub. L. 97–214, §4, July 12, 1982, 96 Stat. 170; Pub. L. 97–252, title IV, §402(a), title XI, §§1103, 1105, Sept. 8, 1982, 96 Stat. 725, 738, 739; Pub. L. 97–295, §1(3), (4), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title XIV, §1405(2), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–145, title XII, §1208, title XIV, §1403, Nov. 8, 1985, 99 Stat. 723, 743; renumbered §114 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(1)–(9), (11), Oct. 1, 1986, 100 Stat. 994, 1001, 1002; Pub. L. 99–661, div. A, title I, §105(d), title XIII, §1304(a), Nov. 14, 1986, 100 Stat. 3827, 3979; Pub. L. 100–26, §7(j)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XII, §1203, Dec. 4, 1987, 101 Stat. 1154; Pub. L. 101–189, div. A, title XVI, §1602(b), Nov. 29, 1989, 103 Stat. 1597; Pub. L. 101–510, div. A, title XIV, §1481(a)(1), Nov. 5, 1990, 104 Stat. 1704; Pub. L. 104–106, div. A, title XV, §1501(c)(2), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title X, §1005, Sept. 23, 1996, 110 Stat. 2632.)
 
 Historical and Revision Notes<br>1982
 
@@ -136,7 +136,7 @@ Subsec. (g). Pub. L. 99–145, §1403, substituted “$1,000,000,000” for “$
 
 Subsec. (c)(5). Pub. L. 97–295, §1(3), added par. (5).
 
-Subsec. (f)(1). Pub. L. 97–214 substituted “, any activity to which section 2807 of this title applies, any activity to which chapter 133 of this title applies, and advances to the Secretary of Transportation for the construction of defense access roads under section 210 of title 23” for “but excludes any activity to which section 2673 or 2674, or chapter 133, of this title apply, or to which section 406(a) of Public Law 85–241 (42 U.S.C. 1594i) applies” and inserted provision that “militaryconstruction” does not include any activity to which section 2821 or 2854 of this title applies.
+Subsec. (f)(1). Pub. L. 97–214 substituted “, any activity to which section 2807 of this title applies, any activity to which chapter 133 of this title applies, and advances to the Secretary of Transportation for the construction of defense access roads under section 210 of title 23” for “but excludes any activity to which section 2673 or 2674, or chapter 133, of this title apply, or to which section 406(a) of Public Law 85–241 (42 U.S.C. 1594i) applies” and inserted provision that “military construction” does not include any activity to which section 2821 or 2854 of this title applies.
 
 Subsec. (g). Pub. L. 97–252, §1103, limited size of Special Defense Acquisition Fund to $600,000,000 in fiscal year 1983, striking out such sum as a limit in any fiscal year thereafter, and limited size of Fund to $900,000,000 in fiscal year 1984 or any fiscal year thereafter.
 
@@ -212,7 +212,7 @@ The following general provisions, which had been repeated as fiscal year provisi
 
 “
 
-Sec. 8005. \[Authorized use of appropriated funds for expenses in connection with administration of occupied areas; payment of rewards for information leading to discovery of missing naval property or recovery thereof; payment of deficiency judgments and interests thereon arising out of condemnation proceedings; leasing of buildings and facilities; payments under contracts for maintenance of tools and facilities for twelve months; maintenance of defense access roads; purchase of milk for enlisted personnel; payments under leases for real or personal property, including maintenance; purchase of right-hand-drive vehicles not to exceed $12,000 per vehicle; payment of unusual cost overruns incident to ship overhaul, maintenance, and repair; payments from annual appropriations to industrial fund activities and/or under contract for changes in scope of ship overhaul, maintenance, and repair after expiration of such appropriations; and payments for depot maintenance contracts for twelve months; and was repealed and (except for section 8005(e)) restated in sections 2242(2), 2252, 2253(a)(2), 2389(b), 2410a, 2661(b), and 7313 of this title by Pub. L. 100–370, §1(e)(1), (h)(1), (2), (<i>l</i>)(3), (n)(1), (p)(3), July 19, 1988, 102 Stat. 844, 847,849–851. Section 8005(c) was not restated in view of section 2676(e) of this title.\]
+Sec. 8005. \[Authorized use of appropriated funds for expenses in connection with administration of occupied areas; payment of rewards for information leading to discovery of missing naval property or recovery thereof; payment of deficiency judgments and interests thereon arising out of condemnation proceedings; leasing of buildings and facilities; payments under contracts for maintenance of tools and facilities for twelve months; maintenance of defense access roads; purchase of milk for enlisted personnel; payments under leases for real or personal property, including maintenance; purchase of right-hand-drive vehicles not to exceed $12,000 per vehicle; payment of unusual cost overruns incident to ship overhaul, maintenance, and repair; payments from annual appropriations to industrial fund activities and/or under contract for changes in scope of ship overhaul, maintenance, and repair after expiration of such appropriations; and payments for depot maintenance contracts for twelve months; and was repealed and (except for section 8005(e)) restated in sections 2242(2), 2252, 2253(a)(2), 2389(b), 2410a, 2661(b), and 7313 of this title by Pub. L. 100–370, §1(e)(1), (h)(1), (2), (<i>l</i>)(3), (n)(1), (p)(3), July 19, 1988, 102 Stat. 844, 847, 849–851. Section 8005(c) was not restated in view of section 2676(e) of this title.\]
 
 “
 
@@ -230,13 +230,91 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 “Sec. 707. \[Authorized use of appropriated funds for acquisition of certain interests in land, and was repealed and restated in sections 2673 and 2828(h) of this title by Pub. L. 100–370, §1(<i>l</i>)(1), (2), (p)(1), July 19, 1988, 102 Stat. 849, 851.\]
 
-“Sec. 723. \[Authorized use of appropriated funds for purchase of household furnishings, and automobiles from military and civilian personnel on duty outside continental United States, for purpose of resale at cost to incoming personnel, and for providing furnishings, without charge, in other than public quarters occupied by military or civilian personnel of Department of Defense on duty outside continental United States or in Alaska, and was repealed and restated in section 2251 of this title by Pub. L. 100–370, §1(e)(1), (p)(1), July 19, 1988, 102 Stat. 844, 851.\]
+“Sec. 723. \[Authorized use of appropriated funds for purchase of household furnishings, and automobiles from military and civilian personnel on duty outside continental United States, for purpose of resale at cost to incoming personnel, and for providing furnishings, without charge, in other than public quarters occupiedby military or civilian personnel of Department of Defense on duty outside continental United States or in Alaska, and was repealed and restated in section 2251 of this title by Pub. L. 100–370, §1(e)(1), (p)(1), July 19, 1988, 102 Stat. 844, 851.\]
 
 “Sec. 728. \[Prohibited use of appropriated funds for payment of costs of advertising by any defense contractor, except advertising for which payment is made from profits, provided exemptions for advertising for personnel recruitment, procurement of scarce required items, and disposal of scrap or surplus materials, and was repealed by Pub. L. 100–370, §1(p)(1), July 19, 1988, 102 Stat. 851. See section 2324(e)(1)(H) of this title.\]
 
 “Sec. 735. \[Authorized use of appropriated funds for operation and maintenance of the active forces for welfare and recreation; hire of passenger motor vehicles; repair of facilities; modification of personal property; design of vessels; industrial mobilization; installation of equipment in public and private plants; military communications facilities on merchant vessels; acquisition of services, special clothing, supplies, and equipment; and expenses for the Reserve Officers’ Training Corps and other units at educational institutions was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, and was repealed and restated in sections 2241(a) and 2661(a) of this title by Pub. L. 100–370, §1(e)(1), (<i>l</i>)(3), (p)(1), July 19, 1988, 102 Stat. 844, 849, 851.\]
 
 “Sec. 774. During the current fiscal year and subsequent fiscal years, for the purposes of the appropriation ‘Foreign Currency Fluctuations, Defense’ the foreign currency exchange rates used in preparing budget submissions shall be the foreign currency exchange rates as adjusted or modified, as reflected in applicable Committee reports on this Act.”
+
+#### Withdrawal of United States Ground Forces From Republic of Bosnia and Herzegovina
+
+Pub. L. 105–85, div. A, title XII, §§1203, 1206, Nov. 18, 1997, 111 Stat. 1929, 1932, provided that:
+
+#### “SEC. 1203. WITHDRAWAL OF UNITED STATES GROUND FORCES FROM REPUBLIC OF BOSNIA AND HERZEGOVINA.
+
+“(a)
+
+Limitation.—No funds appropriated or otherwise made available for the Department of Defense for fiscal year 1998 or any subsequent fiscal year may be used for the deployment of any United States ground combat forces in the Republic of Bosnia and Herzegovina after June 30, 1998, unless the President, not later than May 15, 1998, and after consultation with the bipartisan leadership of the two Houses of Congress, transmits to Congress a certification—
+
+&emsp;“(1) that the continued presence of United States ground combat forces, after June 30, 1998, in the Republic of Bosnia and Herzegovina is required in order to meet the national security interests of the United States; and
+
+&emsp;“(2) that after June 30, 1998, it will remain United States policy that United States ground forces will not serve as, or be used as, civil police in the Republic of Bosnia and Herzegovina.
+
+“(b)
+
+Report.—The President shall submit with the certification under subsection (a) a report that includes the following:
+
+&emsp;“(1) The reasons why that presence is in the national security interest of the United States.
+
+&emsp;“(2) The number of United States military personnel to be deployed in and around the Republic of Bosnia and Herzegovina and other areas of the former Yugoslavia after that date.
+
+&emsp;“(3) The expected duration of any such deployment.
+
+&emsp;“(4) The mission and objectives of the United States Armed Forces to be deployed in and around the Republic of Bosnia and Herzegovina and other areas of the former Yugoslavia after June 30, 1998.
+
+&emsp;“(5) The exit strategy of such forces.
+
+&emsp;“(6) The incremental costs associated with any such deployment.
+
+&emsp;“(7) The effect of such deployment on the morale, retention, and effectiveness of United States armed forces.
+
+&emsp;“(8) A description of the forces from other nations involved in a follow-on mission, shown on a nation-by-nation basis.
+
+&emsp;“(9) A description of the command and control arrangement established for United States forces involved in a follow-on mission.
+
+&emsp;“(10) An assessment of the expected threats to United States forces involved in a follow-on mission.
+
+&emsp;“(11) The plan for rotating units and personnel to and from the Republic of Bosnia and Herzegovina during a follow-on mission, including the level of participation by reserve component units and personnel.
+
+&emsp;“(12) The mission statement and operational goals of the United States forces involved in a follow-on mission.
+
+“(c)
+
+Request for Supplemental Appropriations.—The President shall transmit to Congress with a certification under subsection (a) a supplemental appropriations request for the Department of Defense for such amounts as are necessary for the costs of any continued deployment beyond June 30, 1998.
+
+“(d)
+
+Construction With President's Constitutional Authority.—Nothing in this section shall be deemed to restrict the authority of the President under the Constitution to protect the lives of United States citizens.
+
+“(e)
+
+Construction With Appropriations Provision.—The provisions of this section are enacted, and shall be applied, as supplemental to (and not in lieu of) the provisions of section 8132 of the Department of Defense Appropriations Act, 1998 (Public Law 105–56) \[111 Stat. 1250\].
+
+#### “SEC. 1206. DEFINITIONS.
+
+“As used in this subtitle \[subtitle A (§§1201–1206) of title XII of div. A of Pub. L. 105–85, enacting this note\]:
+
+&emsp;“(1)
+
+Dayton peace agreement.—The term ‘Dayton Peace Agreement’ means the General Framework Agreement for Peace in Bosnia and Herzegovina, initialed by the parties in Dayton, Ohio, on November 21, 1995, and signed in Paris on December 14, 1995.
+
+&emsp;“(2)
+
+Implementation force.—The term ‘Implementation Force’ means the NATO-led multinational military force in the Republic of Bosnia and Herzegovina (commonly referred to as ‘IFOR’), authorized under the Dayton Peace Agreement.
+
+&emsp;“(3)
+
+Stabilization force.—The term ‘Stabilization Force’ means the NATO-led follow-on force to the Implementation Force in the Republic of Bosnia and Herzegovina and other countries in the region (commonly referred to as ‘SFOR’), authorized under United Nations Security Council Resolution 1088 (December 12, 1996).
+
+&emsp;“(4)
+
+Follow-on mission.—The term ‘follow-on mission’ means a mission involving the deployment of ground elements of the United States Armed Forces in the Republic of Bosnia and Herzegovina after June 30, 1998 (other than as described in section 1203(b)).
+
+&emsp;“(5)
+
+NATO.—The term ‘NATO’ means the North Atlantic Treaty Organization.”
 
 #### Budget Determination by Director of OMB
 
@@ -248,7 +326,7 @@ Requirement for Determination.—An amount made available under this Act \[see T
 
 “(b)
 
-Covered Programs.—The programs referred to in subsection (a) are the programs under title XLIII \[enacting section 2552 of this title, amending section 2391 of this title, and enacting provisions set out as notes under section 2391 of this title\] and subtitles D through G of title XLIV \[§§4441 to 4497, enacting sections 1143a, 1151, 1598, 2410c, and 2410d of this title and section 1662d–1 of Title 29, Labor, amending sections 1142 and 1144 of this title and sections 1551, 1661, 1661c, and 1662d of Title 29, and enacting provisions set out as notes under sections 1143, 1143a, 2410d, 2501, 2504, and 2701 of this title and section 1662d–1 of Title 29\].
+Covered Programs.—The programs referred to in subsection (a) are the programs under title XLIII \[enacting section 2552 of this title, amending section 2391 of this title, and enacting provisions set out as notes under section 2391 of this title\] and subtitles Dthrough G of title XLIV \[§§4441 to 4497, enacting sections 1143a, 1151, 1598, 2410c, and 2410d of this title and section 1662d–1 of Title 29, Labor, amending sections 1142 and 1144 of this title and sections 1551, 1661, 1661c, and 1662d of Title 29, and enacting provisions set out as notes under sections 1143, 1143a, 2410d, 2501, 2504, and 2701 of this title and section 1662d–1 of Title 29\].
 
 “(c)
 
@@ -258,11 +336,11 @@ Effect on Appropriations for Programs Not Counted Against Defense Category.—(1
 
 #### Classified Annex
 
-Section 1002 of Pub. L. 104–201 provided that:
+Pub. L. 105–85, div. A, title X, §1002, Nov. 18, 1997, 111 Stat. 1868, provided that:
 
 “(a)
 
-Status of Classified Annex.—The Classified Annex prepared by the committee of conference to accompany the conference report on the bill H.R. 3230 of the One Hundred Fourth Congress \[Pub. L. 104–201\] and transmitted to the President is hereby incorporated into this Act \[see Tables for classification\].
+Status of Classified Annex.—The Classified Annex prepared by the committee of conference to accompany the conference report on the bill H.R. 1119 of the One Hundred Fifth Congress \[Pub. L. 105–85\] and transmitted to the President is hereby incorporated into this Act \[see Tables for classification\].
 
 “(b)
 
@@ -270,13 +348,15 @@ Construction With Other Provisions of Act.—The amounts specified in the Classi
 
 “(c)
 
-Limitation on Use of Funds.—Funds appropriated pursuant to an authorization contained in this Act that are made available for a program, project, oractivity referred to in the Classified Annex may only be expended for such program, project, or activity in accordance with such terms, conditions, limitations, restrictions, and requirements as are set out for that program, project, or activity in the Classified Annex.
+Limitation on Use of Funds.—Funds appropriated pursuant to an authorization contained in this Act that are made available for a program, project, or activity referred to in the Classified Annex may only be expended for such program, project, or activity in accordance with such terms, conditions, limitations, restrictions, and requirements as are set out for that program, project, or activity in the Classified Annex.
 
 “(d)
 
 Distribution of Classified Annex.—The President shall provide for appropriate distribution of the Classified Annex, or of appropriate portions of the annex, within the executive branch of the Government.”
 
 Similar provisions were contained in the following prior authorization or appropriation acts:
+
+Pub. L. 104–201, div. A, title X, §1002, Sept. 23, 1998, 110 Stat. 2631.
 
 Pub. L. 104–106, div. A, title X, §1002, Feb. 10, 1996, 110 Stat. 414.
 
@@ -320,7 +400,7 @@ Pub. L. 97–377, title I, §101(c) \[title VII, §791\], Dec. 21, 1982, 96 Stat
 
 Section 802 of Pub. L. 96–107 provided that:
 
-“(a) Except as provided in subsection (b), neither the implementing instructions for, nor the provisions of, Office of Management and Budget Circular A–76 (issued on August 30, 1967, and reissued on October 18, 1976, June 13, 1977, and March 29, 1979) shall control or be used for policy guidance for the obligation or expenditure of any funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law.
+“(a) Except as provided in subsection (b), neither the implementing instructions for, nor the provisions of,Office of Management and Budget Circular A–76 (issued on August 30, 1967, and reissued on October 18, 1976, June 13, 1977, and March 29, 1979) shall control or be used for policy guidance for the obligation or expenditure of any funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law.
 
 “(b) Funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law may be obligated or expended for operation or support of installations or equipment used for research and development (including maintenance support of laboratories, operation and maintenance of test ranges, and maintenance of test aircraft and ships) in compliance with the implementing instructions for and the provisions of such Office of Management and Budget Circular.
 

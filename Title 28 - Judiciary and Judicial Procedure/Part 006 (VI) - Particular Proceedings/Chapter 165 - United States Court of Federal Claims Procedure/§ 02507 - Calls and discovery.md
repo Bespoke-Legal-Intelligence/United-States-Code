@@ -6,7 +6,7 @@
 
 (c) The Court of Federal Claims may use all recorded and printed reports made by the committees of the Senate or House of Representatives.
 
-(June 25, 1948, ch. 646, 62 Stat. 977; Sept. 3, 1954, ch. 1263, §55(a)–(c), 68 Stat. 1247; Apr. 2, 1982, Pub. L. 97–164, title I, §139(f), 96 Stat. 42; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; Sept. 3, 1954, ch. 1263, §55(a)–(c), 68 Stat. 1247; Pub. L. 97–164, title I, §139(f), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -18,15 +18,15 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (c). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-1982—Subsec. (a). Pub. L. 97–164, §139(f)(1), substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §139(f)(1), substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (c). Pub. L. 97–164, §139(f)(2), substituted “Claims Court” for “Court of Claims”.
 
-1954—Act Sept. 3, 1954, substituted “Calls and discovery” for “Calls on departments for information” in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
+<b>1954</b>—Act Sept. 3, 1954, substituted “Calls and discovery” for “Calls on departments for information” in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
 
 #### Effective Date of 1992 Amendment
 

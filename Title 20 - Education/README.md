@@ -1,12 +1,12 @@
 
-20 U.S.C.<br>United States Code, 1996 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 1997 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Office%20of%20Education/README.md) | <b>Office of Education \[Repealed\]</b> | <b>1</b> |
-| [<b>2.</b>](Chapter%20002%20-%20Teaching%20of%20Agricultural%2C%20Trade%2C%20Home%20Economics%2C%20and%20Industrial%20Subjects/README.md) | <b>Teaching of Agricultural, Trade, Home Economics, and Industrial Subjects</b> | <b>11</b> |
+| [<b>2.</b>](Chapter%20002%20-%20Teaching%20of%20Agricultural%2C%20Trade%2C%20Home%20Economics%2C%20and%20Industrial%20Subjects/README.md) | <b>Teaching of Agricultural, Trade, Home Economics, and Industrial Subjects \[Repealed or Omitted\]</b> | <b>11</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Smithsonian%20Institution%2C%20National%20Museums%20and%20Art%20Galleries/README.md) | <b>Smithsonian Institution, National Museums and Art Galleries</b> | <b>41</b> |
 | [<b>4.</b>](Chapter%20004%20-%20National%20Zoological%20Park/README.md) | <b>National Zoological Park</b> | <b>81</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Government%20Collections%20and%20Institutions%20for%20Research%2C%20and%20Material%20for%20Educational%20Institutions/README.md) | <b>Government Collections and Institutions for Research, and Material for Educational Institutions</b> | <b>91</b> |
@@ -38,10 +38,10 @@
 | [<b>26.</b>](Chapter%20026%20-%20Support%20and%20Scholarship%20in%20Humanities%20and%20Arts%3B%20Museum%20Services/README.md) | <b>Support and Scholarship in Humanities and Arts; Museum Services</b> | <b>951</b> |
 | [<b>26A.</b>](Chapter%20026A%20-%20Indemnity%20for%20Exhibitions%20of%20Arts%20and%20Artifacts/README.md) | <b>Indemnity for Exhibitions of Arts and Artifacts</b> | <b>971</b> |
 | [<b>27.</b>](Chapter%20027%20-%20National%20Vocational%20Student%20Loan%20Insurance/README.md) | <b>National Vocational Student Loan Insurance \[Repealed\]</b> | <b>981</b> |
-| <b>28.</b> | <b>Higher Education Resources and Student Assistance</b> | <b>1001</b> |
+| [<b>28.</b>](Chapter%20028%20-%20Higher%20Education%20Resources%20and%20Student%20Assistance/README.md) | <b>Higher Education Resources and Student Assistance</b> | <b>1001</b> |
 | [<b>29.</b>](Chapter%20029%20-%20International%20Studies%20and%20Research/README.md) | <b>International Studies and Research \[Omitted or Repealed\]</b> | <b>1171</b> |
 | [<b>30.</b>](Chapter%20030%20-%20Basic%20Education%20for%20Adults/README.md) | <b>Basic Education for Adults</b> | <b>1201</b> |
-| <b>31.</b> | <b>General Provisions Concerning Education</b> | <b>1221</b> |
+| [<b>31.</b>](Chapter%20031%20-%20General%20Provisions%20Concerning%20Education/README.md) | <b>General Provisions Concerning Education</b> | <b>1221</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Vocational%20Education/README.md) | <b>Vocational Education \[Omitted or Repealed\]</b> | <b>1241</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Education%20of%20Individuals%20with%20Disabilities/README.md) | <b>Education of Individuals With Disabilities</b> | <b>1400</b> |
 | [<b>34.</b>](Chapter%20034%20-%20National%20Commission%20on%20Libraries%20and%20Information%20Science/README.md) | <b>National Commission on Libraries and Information Science</b> | <b>1501</b> |
@@ -54,7 +54,7 @@
 | [<b>41.</b>](Chapter%20041%20-%20National%20Reading%20Improvement%20Program/README.md) | <b>National Reading Improvement Program \[Repealed\]</b> | <b>1901</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Harry%20S%20Truman%20Memorial%20Scholarships/README.md) | <b>Harry S Truman Memorial Scholarships</b> | <b>2001</b> |
 | [<b>43.</b>](Chapter%20043%20-%20American%20Folklife%20Preservation/README.md) | <b>American Folklife Preservation</b> | <b>2101</b> |
-| <b>44.</b> | <b>Vocational Education</b> | <b>2301</b> |
+| [<b>44.</b>](Chapter%20044%20-%20Vocational%20Education/README.md) | <b>Vocational Education</b> | <b>2301</b> |
 | [<b>45.</b>](Chapter%20045%20-%20Career%20Education%20and%20Career%20Development/README.md) | <b>Career Education and Career Development</b> | <b>2501</b> |
 | [<b>46.</b>](Chapter%20046%20-%20Career%20Education%20Incentive/README.md) | <b>Career Education Incentive \[Repealed or Omitted\]</b> | <b>2601</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md) | <b>Strengthening and Improvement of Elementary and Secondary Schools \[Omitted, Transferred, or Repealed\]</b> | <b>2701</b> |
@@ -62,7 +62,7 @@
 | [<b>49.</b>](Chapter%20049%20-%20Asbestos%20School%20Hazard%20Detection%20and%20Control/README.md) | <b>Asbestos School Hazard Detection and Control</b> | <b>3601</b> |
 | [<b>50.</b>](Chapter%20050%20-%20National%20Center%20for%20the%20Study%20of%20Afro-American%20History%20and%20Culture/README.md) | <b>National Center for the Study of Afro-American History and Culture</b> | <b>3701</b> |
 | [<b>51.</b>](Chapter%20051%20-%20Elementary%20and%20Secondary%20Education%20Block%20Grant/README.md) | <b>Elementary and Secondary Education Block Grant \[Repealed\]</b> | <b>3801</b> |
-| <b>52.</b> | <b>Education for Economic Security</b> | <b>3901</b> |
+| [<b>52.</b>](Chapter%20052%20-%20Education%20for%20Economic%20Security/README.md) | <b>Education for Economic Security</b> | <b>3901</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Emergency%20Immigrant%20Education%20Assistance/README.md) | <b>Emergency Immigrant Education Assistance \[Repealed\]</b> | <b>4101</b> |
 | [<b>54.</b>](Chapter%20054%20-%20Leadership%20in%20Educational%20Administration/README.md) | <b>Leadership in Educational Administration \[Repealed\]</b> | <b>4201</b> |
 | [<b>55.</b>](Chapter%20055%20-%20Education%20of%20the%20Deaf/README.md) | <b>Education of the Deaf</b> | <b>4301</b> |
@@ -80,7 +80,7 @@
 | [<b>67.</b>](Chapter%20067%20-%20Christopher%20Columbus%20Fellowship%20Foundation/README.md) | <b>Christopher Columbus Fellowship Foundation</b> | <b>5701</b> |
 | [<b>68.</b>](Chapter%20068%20-%20National%20Education%20Reform/README.md) | <b>National Education Reform</b> | <b>5801</b> |
 | [<b>69.</b>](Chapter%20069%20-%20School-to-Work%20Opportunities/README.md) | <b>School-to-Work Opportunities</b> | <b>6101</b> |
-| <b>70.</b> | <b>Strengthening and Improvement of Elementary and Secondary Schools</b> | <b>6301</b> |
+| [<b>70.</b>](Chapter%20070%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md) | <b>Strengthening and Improvement of Elementary and Secondary Schools</b> | <b>6301</b> |
 | [<b>71.</b>](Chapter%20071%20-%20National%20Education%20Statistics/README.md) | <b>National Education Statistics</b> | <b>9001</b> |
 | [<b>72.</b>](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md) | <b>Museum and Library Services</b> | <b>9101</b> |
 
@@ -196,8 +196,10 @@ United States information and educational exchange programs, see section 1431 et
 - [Chapter 026 - Support and Scholarship in Humanities and Arts; Museum Services](Chapter%20026%20-%20Support%20and%20Scholarship%20in%20Humanities%20and%20Arts%3B%20Museum%20Services/README.md)
 - [Chapter 026A - Indemnity for Exhibitions of Arts and Artifacts](Chapter%20026A%20-%20Indemnity%20for%20Exhibitions%20of%20Arts%20and%20Artifacts/README.md)
 - [Chapter 027 - National Vocational Student Loan Insurance](Chapter%20027%20-%20National%20Vocational%20Student%20Loan%20Insurance/README.md)
+- [Chapter 028 - Higher Education Resources and Student Assistance](Chapter%20028%20-%20Higher%20Education%20Resources%20and%20Student%20Assistance/README.md)
 - [Chapter 029 - International Studies and Research](Chapter%20029%20-%20International%20Studies%20and%20Research/README.md)
 - [Chapter 030 - Basic Education for Adults](Chapter%20030%20-%20Basic%20Education%20for%20Adults/README.md)
+- [Chapter 031 - General Provisions Concerning Education](Chapter%20031%20-%20General%20Provisions%20Concerning%20Education/README.md)
 - [Chapter 032 - Vocational Education](Chapter%20032%20-%20Vocational%20Education/README.md)
 - [Chapter 033 - Education of Individuals with Disabilities](Chapter%20033%20-%20Education%20of%20Individuals%20with%20Disabilities/README.md)
 - [Chapter 034 - National Commission on Libraries and Information Science](Chapter%20034%20-%20National%20Commission%20on%20Libraries%20and%20Information%20Science/README.md)
@@ -210,6 +212,7 @@ United States information and educational exchange programs, see section 1431 et
 - [Chapter 041 - National Reading Improvement Program](Chapter%20041%20-%20National%20Reading%20Improvement%20Program/README.md)
 - [Chapter 042 - Harry S Truman Memorial Scholarships](Chapter%20042%20-%20Harry%20S%20Truman%20Memorial%20Scholarships/README.md)
 - [Chapter 043 - American Folklife Preservation](Chapter%20043%20-%20American%20Folklife%20Preservation/README.md)
+- [Chapter 044 - Vocational Education](Chapter%20044%20-%20Vocational%20Education/README.md)
 - [Chapter 045 - Career Education and Career Development](Chapter%20045%20-%20Career%20Education%20and%20Career%20Development/README.md)
 - [Chapter 046 - Career Education Incentive](Chapter%20046%20-%20Career%20Education%20Incentive/README.md)
 - [Chapter 047 - Strengthening and Improvement of Elementary and Secondary Schools](Chapter%20047%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md)
@@ -217,6 +220,7 @@ United States information and educational exchange programs, see section 1431 et
 - [Chapter 049 - Asbestos School Hazard Detection and Control](Chapter%20049%20-%20Asbestos%20School%20Hazard%20Detection%20and%20Control/README.md)
 - [Chapter 050 - National Center for the Study of Afro-American History and Culture](Chapter%20050%20-%20National%20Center%20for%20the%20Study%20of%20Afro-American%20History%20and%20Culture/README.md)
 - [Chapter 051 - Elementary and Secondary Education Block Grant](Chapter%20051%20-%20Elementary%20and%20Secondary%20Education%20Block%20Grant/README.md)
+- [Chapter 052 - Education for Economic Security](Chapter%20052%20-%20Education%20for%20Economic%20Security/README.md)
 - [Chapter 053 - Emergency Immigrant Education Assistance](Chapter%20053%20-%20Emergency%20Immigrant%20Education%20Assistance/README.md)
 - [Chapter 054 - Leadership in Educational Administration](Chapter%20054%20-%20Leadership%20in%20Educational%20Administration/README.md)
 - [Chapter 055 - Education of the Deaf](Chapter%20055%20-%20Education%20of%20the%20Deaf/README.md)
@@ -234,5 +238,6 @@ United States information and educational exchange programs, see section 1431 et
 - [Chapter 067 - Christopher Columbus Fellowship Foundation](Chapter%20067%20-%20Christopher%20Columbus%20Fellowship%20Foundation/README.md)
 - [Chapter 068 - National Education Reform](Chapter%20068%20-%20National%20Education%20Reform/README.md)
 - [Chapter 069 - School-to-Work Opportunities](Chapter%20069%20-%20School-to-Work%20Opportunities/README.md)
+- [Chapter 070 - Strengthening and Improvement of Elementary and Secondary Schools](Chapter%20070%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md)
 - [Chapter 071 - National Education Statistics](Chapter%20071%20-%20National%20Education%20Statistics/README.md)
 - [Chapter 072 - Museum and Library Services](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md)

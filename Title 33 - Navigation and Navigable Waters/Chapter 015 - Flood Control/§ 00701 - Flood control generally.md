@@ -6,7 +6,7 @@
 
 <i>Reports by Board of Engineers for Rivers and Harbors</i>—In the consideration of all works and projects relating to flood control which may be submitted to the Board of Engineers for Rivers and Harbors for consideration and recommendation, said board shall, in addition to any other matters upon which it may be required to report, state its opinion as to (a) what Federal interest, if any, is involved in the proposed improvement; (b) what share of the expense, if any, should be borne by the United States; and (c) the advisability of adopting the project.
 
-(Mar. 1, 1917, ch. 144, §3, 39 Stat. 950; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Nov. 2, 1994, Pub. L. 103–437, §12(c), 108 Stat. 4590.)
+(Mar. 1, 1917, ch. 144, §3, 39 Stat. 950; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 103–437, §12(c), Nov. 2, 1994, 108 Stat. 4590.)
 
 #### Codification
 

@@ -68,7 +68,7 @@ Hearings.—The Commission may, for the purpose of carrying out its functions un
 
 “(b)
 
-Meetings With Secretary of the Interior.—Members of the Commission shall meet with the Secretary of the Interior or his designee at least onceevery 6 months. Such meetings shall be open to the public and shall be held at such times and in such places as to encourage public participation. The Commission shall provide the public with adequate notice of such meetings.
+Meetings With Secretary of the Interior.—Members of the Commission shall meet with the Secretary of the Interior or his designee at least once every 6 months. Such meetings shall be open to the public and shall be held at such times and in such places as to encourage public participation. The Commission shall provide the public with adequate notice of such meetings.
 
 “(c)
 

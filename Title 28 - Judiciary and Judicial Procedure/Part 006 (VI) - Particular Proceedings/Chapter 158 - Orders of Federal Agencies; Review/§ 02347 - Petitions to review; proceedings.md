@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1037.
 
@@ -48,5 +50,5 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(3), are set out
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 sections 2149, 3804, 3805.
+This section is referred to in title 7 sections 2149, 3804, 3805; title 8 section 1252.
 

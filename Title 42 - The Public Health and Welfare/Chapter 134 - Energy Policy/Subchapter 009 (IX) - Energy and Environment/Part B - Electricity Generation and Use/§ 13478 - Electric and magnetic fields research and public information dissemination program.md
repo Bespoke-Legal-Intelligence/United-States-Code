@@ -42,7 +42,7 @@ The program shall provide for—
 
 #### (2) Agreement
 
-&emsp;Within 6 months after October 24, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Services to carry out, through the Director, the information activities under subsection (b)(1)(A) of this section and the research under subsection (b)(2) of this section.
+&emsp;Within 6 months after October 24, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Servicesto carry out, through the Director, the information activities under subsection (b)(1)(A) of this section and the research under subsection (b)(2) of this section.
 
 #### (3) Actions of Director
 
@@ -54,7 +54,7 @@ The program shall provide for—
 
 #### (5) Report
 
-&emsp;The Director shall report, by June 1, 1995, and by March 31, 1997, and as appropriate, to the Interagency Committee established under subsection (d) of this section and to Congress the findings and conclusions of the Director on the extent to which exposure to electric and magnetic fields produced by the generation, transmission, or use of electric energy affects human health.
+&emsp;The Director shall report, by June 1, 1995, and by March 31, 1998, and as appropriate, to the Interagency Committee established under subsection (d) of this section and to Congress the findings and conclusions of the Director on the extent to which exposure to electric and magnetic fields produced by the generation, transmission, or use of electric energy affects human health.
 
 #### (d) Interagency Committee
 
@@ -102,7 +102,7 @@ The program shall provide for—
 
 (4) The Advisory Committee shall elect a chairperson from among its members who shall be responsible for ensuring that the duties of the Advisory Committee are carried out.
 
-(5) The Advisory Committee shall terminate not later than December 31, 1997.
+(5) The Advisory Committee shall terminate not later than December 31, 1998.
 
 #### (f) Financial assistance
 
@@ -122,7 +122,7 @@ In general.—Within 15 months after October 24, 1992, and as often thereafter a
 
 &emsp;(B)
 
-Consultation with advisory committee.—In preparing solicitations for proposals to conduct activities, the Secretary and the Director shall consult with the Advisory Committee.
+Consultation with advisory committee.—In preparing solicitations for proposals to conduct activities, the Secretary and theDirector shall consult with the Advisory Committee.
 
 &emsp;(C)
 
@@ -144,7 +144,7 @@ Peer review panels.—Before a proposal to conduct activities under the program 
 
 &emsp;&emsp;(A) not later than December 31, 1995, a report summarizing the progress of the research program established under this subsection; and
 
-&emsp;&emsp;(B) not later than September 30, 1997, a final report stating the Committee's findings and conclusions on the effects, if any, of electric and magnetic fields on human health and remedial actions, if any, that may be needed to minimize any such health effects.
+&emsp;&emsp;(B) not later than September 30, 1998, a final report stating the Committee's findings and conclusions on the effects, if any, of electric and magnetic fields on human health and remedial actions, if any, that may be needed to minimize any such health effects.
 
 #### (h) Conflicts of interest
 
@@ -172,7 +172,7 @@ For purposes of this section:
 
 #### (1) General authorization
 
-&emsp;There are authorized to be appropriated to the Secretary a total of $65,000,000 for the period encompassing fiscal years 1993 through 1997 to carry out the provisions of this section, except that not more than $1,000,000 may be expended in any such fiscal year for activities under subsection (b)(1) of this section. Any amounts appropriated pursuant to this paragraph shall remain available until expended.
+&emsp;There are authorized to be appropriated to the Secretary a total of $46,000,000 for the period encompassing fiscal years 1993 through 1998 to carry out the provisions of this section, except that not more than $1,000,000 may be expended in any such fiscal year for activities under subsection (b)(1) of this section. Any amounts appropriated pursuant to this paragraph shall remain available until expended.
 
 #### (2) Restrictions on use of funds
 
@@ -194,15 +194,23 @@ It is the sense of the Congress that remedial action taken by the Government on 
 
 #### (<i>l</i>) Sunset provision
 
-All authority under this section shall expire on December 31, 1997.
+All authority under this section shall expire on December 31, 1998.
 
-(Pub. L. 102–486, title XXI, §2118, Oct. 24, 1992, 106 Stat. 3075.)
+(Pub. L. 102–486, title XXI, §2118, Oct. 24, 1992, 106 Stat. 3075; Pub. L. 105–23, §1, July 3, 1997, 111 Stat. 237.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 This Act, referred to in subsec. (k), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
+
+#### Amendments
+
+1997—Subsecs. (c)(5), (e)(5), (g)(3)(B). Pub. L. 105–23, §1(1), substituted “1998” for “1997”.
+
+Subsec. (j)(1). Pub. L. 105–23 substituted “$46,000,000” for “$65,000,000” and “1998” for “1997”.
+
+Subsec. (<i>l</i>). Pub. L. 105–23, §1(1), substituted “1998” for “1997”.
 
 #### Termination of Trust Territory of the Pacific Islands
 

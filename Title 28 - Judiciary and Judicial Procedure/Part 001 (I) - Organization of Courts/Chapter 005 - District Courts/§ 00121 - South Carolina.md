@@ -46,7 +46,7 @@ South Carolina constitutes one judicial district comprising eleven divisions.
 
 &emsp;&emsp;Court for the Beaufort Division shall be held at Beaufort.
 
-(June 25, 1948, ch. 646, 62 Stat. 889; Oct. 7, 1965, Pub. L. 89–242, §1(a), 79 Stat. 951; Nov. 14, 1986, Pub. L. 99–657, §2, 100 Stat. 3670; Oct. 28, 1991, Pub. L. 102–140, title III, §304, 105 Stat. 810.)
+(June 25, 1948, ch. 646, 62 Stat. 889; Pub. L. 89–242, §1(a), Oct. 7, 1965, 79 Stat. 951; Pub. L. 99–657, §2, Nov. 14, 1986, 100 Stat. 3670; Pub. L. 102–140, title III, §304, Oct. 28, 1991, 105 Stat. 810.)
 
 #### Historical and Revision Notes
 
@@ -62,17 +62,17 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1991—Par. (4). Pub. L. 102–140, §304(1), struck out reference to Hampton County.
+<b>1991</b>—Par. (4). Pub. L. 102–140, §304(1), struck out reference to Hampton County.
 
 Par. (11). Pub. L. 102–140, §304(2), inserted reference to Hampton County.
 
-1986—Pub. L. 99–657, §2(1), substituted “eleven divisions” for “ten divisions” in introductory text.
+<b>1986</b>—Pub. L. 99–657, §2(1), substituted “eleven divisions” for “ten divisions” in introductory text.
 
 Par. (1). Pub. L. 99–657, §2(2), struck out “Beaufort,” after “counties of” and substituted “and Georgetown” for “Georgetown, and Jasper”.
 
 Par. (11). Pub. L. 99–657, §2(3), added par. (11).
 
-1965—Pub. L. 89–242 consolidated into a single district the 10 divisions of the state which had formerly been divided into an Eastern and a Western District.
+<b>1965</b>—Pub. L. 89–242 consolidated into a single district the 10 divisions of the state which had formerly been divided into an Eastern and a Western District.
 
 #### Effective Date of 1986 Amendment
 

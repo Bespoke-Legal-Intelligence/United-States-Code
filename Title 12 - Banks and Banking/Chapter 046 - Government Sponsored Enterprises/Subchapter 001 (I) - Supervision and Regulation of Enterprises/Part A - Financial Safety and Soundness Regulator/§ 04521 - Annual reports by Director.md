@@ -36,7 +36,7 @@ Not later than March 15 of each year, the Director shall submit to the Committee
 
 &emsp;(5) the number of litigation requests pending at the beginning of the calendar year, the number of requests made during the calendar year, the number of requests for which action was completed during the calendar year, and the number of requests pending at the end of the calendar year.
 
-(Pub. L. 102–550, title XIII, §1319B, Oct. 28, 1992, 106 Stat. 3950; amended Pub. L. 103–325, title V, §529(c), Sept. 23, 1994, 108 Stat. 2267.)
+(Pub. L. 102–550, title XIII, §1319B, Oct. 28, 1992, 106 Stat. 3950; Pub. L. 103–325, title V, §529(c), Sept. 23, 1994, 108 Stat. 2267.)
 
 #### References in Text
 
@@ -48,5 +48,5 @@ This chapter, referred to in subsec. (a)(1), was in the original “this title�
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House ofRepresentatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

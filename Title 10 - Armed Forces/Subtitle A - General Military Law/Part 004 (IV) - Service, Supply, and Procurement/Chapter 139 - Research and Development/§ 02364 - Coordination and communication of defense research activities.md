@@ -66,7 +66,7 @@ Amendment by section 3(1)(A) of Pub. L. 100–26 applicable as if included in Pu
 
 #### Coordination of High-Temperature Superconductivity Research and Development
 
-Section 218(b)(2) of Pub. L. 100–180, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall—
+Section 218(b)(2) of Pub. L. 100–180, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat.1433; Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that: “The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall—
 
 &emsp;“(A) coordinate the research and development activities of the Department of Defense relating to high-temperature superconductivity; and
 

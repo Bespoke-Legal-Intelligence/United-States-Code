@@ -20,7 +20,7 @@ The Administrator in carrying out his duties under this chapter shall provide fo
 
 #### References in Text
 
-Act of October 15, 1966, referred to in subsec. (c), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, popularly known as the National Historic Preservation Act. Title II of the Act is classified generally to sections 470i to 470v of Title 16, Conservation. For complete classification of this Act to the Code, see section 470 of Title 16 and Tables.
+Act of October 15, 1966, referred to in subsec. (c), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, known as the National Historic Preservation Act. Title II of the Act is classified generally to sections 470i to 470v of Title 16, Conservation. For complete classification of this Act to the Code, see section 470 of Title 16 and Tables.
 
 #### Codification
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 92–313 effective June 16, 1972, see section 11 of Pub. L.
 
 #### Termination of Advisory Councils
 
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Issuance of Regulations Pursuant to Public Buildings Amendments of 1972; Approval of Rates for Space and Services Furnished
 

@@ -16,7 +16,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 &emsp;&emsp;(B) repayment of the loan or guaranteed indebtedness for which such financial assistance was provided,
 
-> have access for purposes of audit and examination to any record, book, document, and paperwhich belongs to or is used or controlled by, any recipient of the grant funds or any person who entered into any transaction relating to such financial assistance and which is pertinent for purposes of determining if the grant funds or the proceeds of such financial assistance are being, or were, used in accordance with the provisions of this chapter.
+> have access for purposes of audit and examination to any record, book, document, and paper which belongs to or is used or controlled by, any recipient of the grant funds or any person who entered into any transaction relating to such financial assistance and which is pertinent for purposes of determining if the grant funds or the proceeds of such financial assistance are being, or were, used in accordance with the provisions of this chapter.
 
 (Pub. L. 89–454, title III, §313, formerly §310, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1287; renumbered §313 and amended Pub. L. 94–370, §§7, 11, July 26, 1976, 90 Stat. 1019, 1030; Pub. L. 102–587, title II, §2205(b)(19), Nov. 4, 1992, 106 Stat. 5052.)
 

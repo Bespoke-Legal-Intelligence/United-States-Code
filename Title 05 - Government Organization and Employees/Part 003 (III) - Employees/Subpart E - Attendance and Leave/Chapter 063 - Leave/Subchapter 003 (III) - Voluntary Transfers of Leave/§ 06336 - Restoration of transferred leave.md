@@ -4,7 +4,7 @@
 
 (2) Nothing in paragraph (1) shall require the restoration of leave to a leave donor—
 
-&emsp;(A) if the amount of leave which would be restored to such donor would be less than 1 hour or any other shorter period of time which the Office may by regulation prescribe;
+&emsp;(A) if the amount of leave which would be restored to such donor would be less than 1 houror any other shorter period of time which the Office may by regulation prescribe;
 
 &emsp;(B) if such donor retires, dies, or is otherwise separated from service, before the date on which such restoration would otherwise be made; or
 

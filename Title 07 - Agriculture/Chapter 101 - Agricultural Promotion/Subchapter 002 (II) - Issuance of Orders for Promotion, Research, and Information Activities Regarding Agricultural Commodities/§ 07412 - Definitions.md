@@ -52,7 +52,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (9) Order
 
-&emsp;The term “order” means an order issued by the Secretary under section 7413 of this titlethat provides for a program of generic promotion, research, and information regarding agricultural commodities designed to—
+&emsp;The term “order” means an order issued by the Secretary under section 7413 of this title that provides for a program of generic promotion, research, and information regarding agricultural commodities designed to—
 
 &emsp;&emsp;(A) strengthen the position of agricultural commodity industries in the marketplace;
 
@@ -72,7 +72,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (12) Promotion
 
-&emsp;The term “promotion” means any action taken by a board under an order, including paid advertising, to present a favorable image of an agricultural commodity to the public to improve the competitive position of the agricultural commodity in the marketplace and to stimulate sales of the agricultural commodity.
+&emsp;The term “promotion” means any action taken by a board under an order, includingpaid advertising, to present a favorable image of an agricultural commodity to the public to improve the competitive position of the agricultural commodity in the marketplace and to stimulate sales of the agricultural commodity.
 
 #### (13) Research
 

@@ -18,7 +18,7 @@ The President shall—
 
 #### (b) Federal procurement practices
 
-Except as provided in subsections (c) and (d) of this section, acquisition of strategic and critical materials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) of this section and in section 98f(a) of this title, disposal of materials from the stockpile shall be made by formal advertising or competitive negotiation procedures. To the maximum extent feasible—
+Except as provided in subsections (c) and (d) of this section, acquisition of strategic and critical materials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) of this section and in section 98f(a) of this title, disposal of strategic and critical materials from the stockpile shall be made in accordance with the next sentence. To the maximum extent feasible—
 
 &emsp;(1) competitive procedures shall be used in the acquisition and disposal of such materials; and
 
@@ -36,7 +36,7 @@ Except as provided in subsections (c) and (d) of this section, acquisition of st
 
 #### (d) Waiver; notification of proposed disposal of materials
 
-(1) The President may waive the applicability of any provision of the first sentence of subsection (b) of this section to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of theSenate and the Committee on National Security of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
+(1) The President may waive the applicability of any provision of the first sentence of subsection (b) of this section to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
 
 (2) Materials in the stockpile may be disposed of under subsection (a)(5) of this section only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
 
@@ -44,15 +44,17 @@ Except as provided in subsections (c) and (d) of this section, acquisition of st
 
 The President may acquire leasehold interests in property, for periods not in excess of twenty years, for storage, security, and maintenance of materials in the stockpile.
 
-(June 7, 1939, ch. 190, §6, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 321; amended Aug. 13, 1981, Pub. L. 97–35, title II, §203(c), 95 Stat. 382; Nov. 14, 1986, Pub. L. 99–661, div. C, title II, §3207(b), 100 Stat. 4069; Nov. 29, 1989, Pub. L. 101–189, div. C, title XXXIII, §3314, 103 Stat. 1688; Nov. 5, 1990, Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), 104 Stat. 1844; Dec. 5, 1991, Pub. L. 102–190, div. C, title XXXIII, §3312, 105 Stat. 1584; Oct. 5, 1994, Pub. L. 103–337, div. C, title XXXIII, §3302, 108 Stat. 3098; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(e)(1), 110 Stat. 509; Sept. 23, 1996, Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), 110 Stat. 2857.)
+(June 7, 1939, ch. 190, §6, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(c), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(b), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 101–189, div. C, title XXXIII, §3314, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXIII, §3312, Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–337, div. C, title XXXIII, §3302, Oct. 5, 1994, 108 Stat. 3098; Pub. L. 104–106, div. A, title XV, §1502(e)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 105–85, div. C, title XXXIII, §3306, Nov. 18, 1997, 111 Stat. 2058.)
 
 #### Prior Provisions
 
-A prior section 98e, acts June 7, 1939, ch. 190, §6, 53 Stat. 812; May 28, 1941, ch. 135, 55 Stat. 206; July 23, 1946, ch. 590, 60 Stat. 598; Ex. Ord. No. 9809, eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1949, ch. 288, title I, §105, 63 Stat. 381; 1953 Reorg. Plan No. 3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to transfer of surplus materials to stock piles, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98c(b) of this title.
+A prior section 98e, acts June 7, 1939, ch. 190, §6, 53 Stat. 812; May 28, 1941, ch. 135, 55 Stat. 206; July 23, 1946,ch. 590, 60 Stat. 598; Ex. Ord. No. 9809, eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1949, ch. 288, title I, §105, 63 Stat. 381; 1953 Reorg. Plan No. 3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to transfer of surplus materials to stock piles, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98c(b) of this title.
 
 Provisions similar to those in this section were contained in former section 98b of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–85, in first sentence, substituted “strategic and critical materials from the stockpile shall be made in accordance with the next sentence” for “materials from the stockpile shall be made by formal advertising or competitive negotiation procedures”.
 
 1996—Subsec. (d)(1). Pub. L. 104–201, §3312(b), substituted “45 days” for “thirty days”.
 

@@ -98,7 +98,7 @@ Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L
 
 “(a)
 
-Prohibition.—Vessels and nationals of the United States are prohibited from conducting fishing operations in the Central Bering Sea and the Central Sea of Okhotsk, except where such fishing operations are conducted in accordance with an international fishery agreement to which the United States and the Russian Federation are parties.
+Prohibition.—Vessels and nationals of the United States are prohibited from conducting fishing operations in the Central Bering Sea and the CentralSea of Okhotsk, except where such fishing operations are conducted in accordance with an international fishery agreement to which the United States and the Russian Federation are parties.
 
 “(b)
 
@@ -252,7 +252,7 @@ Pub. L. 100–350, §1, June 27, 1988, 102 Stat. 660, provided that extension of
 
 Pub. L. 98–623, title I, Nov. 8, 1984, 98 Stat. 3394, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823) \[this section\]—
 
-&emsp;“(1) the governing international fishery agreement between the Government of the United States and the European Economic Community Concerning Fisheries Off the Coasts of the United States, as contained in the Message to Congress from the President of the United States dated August 27, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XIX of the agreement after the date of the enactmentof this title \[Nov. 8, 1984\], upon signature of the agreement by both parties; and
+&emsp;“(1) the governing international fishery agreement between the Government of the United States and the European Economic Community Concerning Fisheries Off the Coasts of the United States, as contained in the Message to Congress from the President of the United States dated August 27, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XIX of the agreement after the date of the enactment of this title \[Nov. 8, 1984\], upon signature of the agreement by both parties; and
 
 &emsp;“(2) the governing international fishery agreement between the Government of the United States and the Government of the Republic of Iceland Concerning Fisheries Off the Coasts of the United States, as contained in the message to Congress from the President of the United States dated September 29, 1984, is hereby approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\], and may enter into force with respect to the United States in accordance with the terms of Article XVI of the agreement after the date of the enactment of this title \[Nov. 8, 1984\].”
 
@@ -262,7 +262,7 @@ Pub. L. 98–498, title IV, §440, Oct. 19, 1984, 98 Stat. 2310, as amended by P
 
 &emsp;“(1) is approved by Congress as a governing international fishery agreement for purposes of that Act \[this chapter\]; and
 
-&emsp;“(2) may enter into force with respect to the United States in accordance with the terms of Article XVI of the Agreement following the enactment of this title \[Oct. 19, 1984\].”
+&emsp;“(2) may enter into force with respect to the United States in accordance with the terms of Article XVI ofthe Agreement following the enactment of this title \[Oct. 19, 1984\].”
 
 #### Governing International Fishery Agreement With Japan
 

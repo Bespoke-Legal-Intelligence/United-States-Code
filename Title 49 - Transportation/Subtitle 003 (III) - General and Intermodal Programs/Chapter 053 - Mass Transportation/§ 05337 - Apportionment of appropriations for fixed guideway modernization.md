@@ -2,7 +2,7 @@
 
 (a)
 
-Percentage Distribution.—The Secretary of Transportation shall apportion amounts made available for fixed guideway modernization under section 5309 of this title for each of the fiscal years ending September 30, 1993–1997, as follows:
+Percentage Distribution.—The Secretary of Transportation shall apportion amounts made available for fixed guideway modernization under section 5309 of this title for each of the fiscal years ending September 30, 1993–1997, and for the period of October 1, 1997, through March 31, 1998, as follows:
 
 &emsp;(1) The first $455,000,000 shall be apportioned in the following urbanized areas as follows:
 
@@ -62,7 +62,13 @@ Availability of Amounts.—An amount apportioned under this section—
 
 &emsp;(2) that is unobligated at the end of the 3-year period shall be reapportioned for the next fiscal year among urbanized areas eligible under subsection (a)(1)–(3) of this section using the apportionment formula of this section.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379.)
+(e)
+
+Special Rule for October 1, 1997,
+
+Through March 31, 1998.—The Secretary shall determine the amount that each urbanized area is to be apportioned for fixed guideway modernization under this section on a pro rata basis to reflect the partial fiscal year 1998 funding made available by section 5338(b)(1)(F).
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559.)
 
 Historical and Revision Notes
 
@@ -107,6 +113,10 @@ In subsection (d)(1), the words “for obligation”, “a period of”, and “
 This amends 49:5337(a)(4) to correct an erroneous cross-reference.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 102–240, §3049(b)(1), as added by Pub. L. 105–130, inserted “and for the period of October 1, 1997, through March 31, 1998,” after “1997,” in introductory provisions.
+
+Subsec. (e). Pub. L. 102–240, §3049(b)(2), as added by Pub. L. 105–130, added subsec. (e).
 
 1994—Subsec. (a)(4). Pub. L. 103–429 substituted “section 5336(b)(2)(A) of this title” for “section 5336(B)(2)(A)”.
 

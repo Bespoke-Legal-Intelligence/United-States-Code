@@ -78,7 +78,7 @@ The original principal amount guaranteed under subsection (a) may not exceed 90 
 
 #### (h) Wages paid laborers and mechanics; labor standards
 
-All laborers and mechanics employed in construction, alteration, or repair which is financedby an obligation guaranteed under subsection (a) of this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with the Davis-Bacon Act \[40 U.S.C. 276a et seq.\]. The Secretary shall not guarantee any obligations under subsection (a) of this section without first obtaining adequate assurance that these labor standards will be maintained during such construction, alteration, or repair. The Secretary of Labor shall, with respect to the labor standards in this subsection, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 276c of title 40.
+All laborers and mechanics employed in construction, alteration, or repair which is financed by an obligation guaranteed under subsection (a) of this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with the Davis-Bacon Act \[40 U.S.C. 276a et seq.\]. The Secretary shall not guarantee any obligations under subsection (a) of this section without first obtaining adequate assurance that these labor standards will be maintained during such construction, alteration, or repair. The Secretary of Labor shall, with respect to the labor standards in this subsection, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 276c of title 40.
 
 #### (i) Definitions
 

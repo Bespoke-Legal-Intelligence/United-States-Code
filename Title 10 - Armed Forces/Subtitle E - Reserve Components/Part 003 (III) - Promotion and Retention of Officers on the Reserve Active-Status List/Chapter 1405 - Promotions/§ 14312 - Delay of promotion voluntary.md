@@ -2,7 +2,7 @@
 
 (a)
 
-Authority for Voluntary Delays.—(1) The Secretary of the military department concerned may, by regulation, permit delays of a promotion of an officer who is recommended for promotion by a mandatory selection board convened under section 14101(a) or a special selection board convened under section 14502 of this title at the request of the officer concerned. Such delays, in the case of any promotion, may extend for any period not to exceed three years from the date on which the officer would otherwise be promoted.
+Authority for Voluntary Delays.—(1) The Secretary of the military department concerned may, by regulation, permit delays of a promotion of an officer who is recommended for promotion by a mandatory selection board convened under section 14101(a) or a special selection board convened under section 14502 of this title at the request of the officer concerned.Such delays, in the case of any promotion, may extend for any period not to exceed three years from the date on which the officer would otherwise be promoted.
 
 (2) Regulations under this section shall provide that—
 

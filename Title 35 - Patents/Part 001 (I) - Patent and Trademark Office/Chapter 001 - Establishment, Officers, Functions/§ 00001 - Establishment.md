@@ -2,7 +2,7 @@
 
 The Patent and Trademark Office shall continue as an office in the Department of Commerce, where records, books, drawings, specifications, and other papers and things pertaining to patents and to trademark registrations shall be kept and preserved, except as otherwise provided by law.
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

@@ -6,7 +6,7 @@ The President is authorized to award up to twenty fellowships annually for perio
 
 #### (b) Activities of Institute Fellows
 
-The President may assign Institute Fellows to undertake such activities, in the United Statesor abroad, as will further the purposes of the Institute.
+The President may assign Institute Fellows to undertake such activities, in the United States or abroad, as will further the purposes of the Institute.
 
 #### (c) Amount of awards; transportation, housing, etc., benefits
 

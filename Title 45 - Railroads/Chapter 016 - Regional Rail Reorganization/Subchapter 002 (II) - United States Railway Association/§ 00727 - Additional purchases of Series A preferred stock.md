@@ -6,7 +6,7 @@ In addition to the authority provided under section 726 of this title, the Assoc
 
 #### (b) Accounts receivable
 
-(1) In any further purchase under this section or section 726 of this title the Association shall purchase accounts receivable of the Corporation attributable to the dispute over the right-of-way related costs described in section 1111 of this title until the Commission resolves such dispute under such section, and accounts receivable of the Corporation attributable to delays in reimbursement from commuter authorities.
+(1) In any further purchase under this section or section 726 of this title the Association shall purchase accounts receivable of the Corporation attributable to the dispute over the right-of-way related costs described in section 1111 <sup>1</sup> of this title until the Commission resolves such dispute under such section, and accounts receivable of the Corporation attributable to delays in reimbursement from commuter authorities.
 
 (2) From funds provided under this section or section 726 of this title, the Association shall purchase Series A preferred stock of the Corporation, to the extent of losses on commuter service, in an amount not to exceed $15,000,000.
 
@@ -41,6 +41,8 @@ The Corporation shall retain the right to collect any accounts receivable attrib
 (Pub. L. 93–236, title II, §217, as added Pub. L. 97–35, title XI, §1140(a), Aug. 13, 1981, 95 Stat. 653; amended Pub. L. 97–468, title V, §504(c), Jan. 14, 1983, 96 Stat. 2552; Pub. L. 99–509, title IV, §4033(b)(2), (3), Oct. 21, 1986, 100 Stat. 1908.)
 
 #### References in Text
+
+Section 1111 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 105–134, title IV, §408, Dec. 2, 1997, 111 Stat. 2586.
 
 Subchapter IV of this chapter, referred to in subsec. (f)(1)(A), was repealed by Pub. L. 99–509, title IV, §4033(a)(1), Oct. 21, 1986, 100 Stat. 1908.
 

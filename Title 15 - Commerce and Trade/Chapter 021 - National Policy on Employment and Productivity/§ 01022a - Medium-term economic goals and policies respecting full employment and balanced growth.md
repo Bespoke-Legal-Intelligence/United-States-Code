@@ -26,7 +26,7 @@ The medium-term goals in the first three Economic Reports and, subject to the pr
 
 #### (d) Review by President; report to Congress; modification of timetables
 
-In the second Economic Report after October 27, 1978, the President shall review the numerical goals and timetables for the reduction of unemployment, inflation, and Federal outlays as a proportion of gross national product, and thegoal of balancing the Federal budget; report to the Congress on the degree of progress being made, the programs and policies being used, and any obstacles to achieving such goals and timetables; and, if necessary, propose corrective economic measures toward achievement of such goals and timetables: <i>Provided</i>, That beginning with the second Report and in any subsequent Reports, if the President finds it necessary, the President may recommend modification of the timetable or timetables for the achievement of the goals provided for in subsection (b) of this section and the annual numerical goals to make them consistent with the modified timetable or timetables, and the Congress may take such action as it deems appropriate consistent with title III of the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3131 et seq.\].
+In the second Economic Report after October 27, 1978, the President shall review the numerical goals and timetables for the reduction of unemployment, inflation, and Federal outlays as a proportion of gross national product, and the goal of balancing the Federal budget; report to the Congress on the degree of progress being made, the programs and policies being used, and any obstacles to achieving such goals and timetables; and, if necessary, propose corrective economic measures toward achievement of such goals and timetables: <i>Provided</i>, That beginning with the second Report and in any subsequent Reports, if the President finds it necessary, the President may recommend modification of the timetable or timetables for the achievement of the goals provided for in subsection (b) of this section and the annual numerical goals to make them consistent with the modified timetable or timetables, and the Congress may take such action as it deems appropriate consistent with title III of the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3131 et seq.\].
 
 #### (e) Interim numerical goals for succeeding Economic Reports
 
@@ -40,7 +40,7 @@ If, after achievement of the 3 and 4 per centum goals specified in subsection (b
 
 &emsp;(A) take such action as practicable to achieve the objectives of this subsection;
 
-&emsp;(B) make studies, develop information, and make recommendations toward remedying these differences in rates of unemployment, and include these in the annual Employment and Training Report of the President required under section 705(a) of the Comprehensive Employment and Training Act of 1973 (hereinafter in this chapter referred to as “CETA”); and
+&emsp;(B) make studies, develop information, and make recommendations toward remedyingthese differences in rates of unemployment, and include these in the annual Employment and Training Report of the President required under section 705(a) of the Comprehensive Employment and Training Act of 1973 (hereinafter in this chapter referred to as “CETA”); and
 
 &emsp;(C) make recommendations, as deemed necessary, to the Congress related to the objectives of this paragraph.
 

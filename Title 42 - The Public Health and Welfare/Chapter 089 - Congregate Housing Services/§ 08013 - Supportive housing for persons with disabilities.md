@@ -86,7 +86,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 &emsp;(4) a certification from the appropriate State or local agency (as determined by the Secretary) that the provision of the services identified in paragraph (3) are well designed to serve the special needs of persons with disabilities;
 
-&emsp;(5) reasonable assurances that the applicant will own or have control of an acceptable site for the proposed housing not later than 6 months after notification of an award for assistance;
+&emsp;(5) reasonable assurances that the applicant will own or have control of an acceptable sitefor the proposed housing not later than 6 months after notification of an award for assistance;
 
 &emsp;(6) a certification from the public official responsible for submitting a housing strategy for the jurisdiction to be served in accordance with section 12705 of this title that the proposed housing is consistent with the approved housing strategy; and
 
@@ -244,7 +244,7 @@ As used in this section—
 
 #### (1) Allocation
 
-&emsp;Of any amount made available for assistance under this section in any fiscal year, anamount shall be used for assistance under subsection (b) <sup>4</sup> of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year, and the remainder shall be available for tenant-based assistance under subsection (n).<sup>5</sup>
+&emsp;Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b) <sup>4</sup> of this section that is not less than the amount made available in appropriation Acts for such assistance in the preceding year, and the remainder shall be available for tenant-based assistance under subsection (n).<sup>5</sup>
 
 #### (2) Capital advances
 

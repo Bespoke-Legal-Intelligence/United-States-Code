@@ -2,7 +2,7 @@
 
 The Attorney General or his designee may arbitrate, compromise, or settle any claim cognizable under section 1346(b) of this title, after the commencement of an action thereon.
 
-(June 25, 1948, ch. 646, 62 Stat. 984; July 18, 1966, Pub. L. 89–506, §3, 80 Stat. 307.)
+(June 25, 1948, ch. 646, 62 Stat. 984; Pub. L. 89–506, §3, July 18, 1966, 80 Stat. 307.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,7 @@ This section was renumbered “2676” by Senate amendment. See 80th Congress Se
 
 #### Amendments
 
-1966—Pub. L. 89–506 struck out provision requiring that approval of court be obtained before Attorney General could arbitrate, compromise, or settle a claim after commencement of an action thereon.
+<b>1966</b>—Pub. L. 89–506 struck out provision requiring that approval of court be obtained before Attorney General could arbitrate, compromise, or settle a claim after commencement of an action thereon.
 
 #### Effective Date of 1966 Amendment
 
@@ -24,5 +24,5 @@ Amendment by Pub. L. 89–506 applicable to claims accruing six months or more a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2672, 2678 of this title; title 5 section 8477; title 10 sections 1054, 1089; title 22 section 2702; title 31 section 1304; title 38 sections 1151, 7316; title 42 sections 233, 2458a, 5055.
+This section is referred to in sections 2672, 2678 of this title; title 5 section 8477; title 8 section 1357; title 10 sections 1054, 1089; title 22 section 2702; title 31 section 1304; title 38 sections 1151, 7316; title 42 sections 233, 2458a, 5055.
 

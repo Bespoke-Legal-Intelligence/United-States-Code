@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) an assurance that State law provides adequate authority to carry out each component of the State's improvement plan developed, or to be developed under section 5886 of this title, or that such authority will be sought;
 
-&emsp;&emsp;(C) an assurance that the State content standards and State student performancestandards developed for student achievement are not less rigorous than such standards used prior to March 31, 1994;
+&emsp;&emsp;(C) an assurance that the State content standards and State student performance standards developed for student achievement are not less rigorous than such standards used prior to March 31, 1994;
 
 &emsp;&emsp;(D) an assurance that the State will provide for broad public participation in the planning process; and
 
@@ -38,7 +38,7 @@ A State educational agency's application for the second year of assistance under
 
 &emsp;(3) include an explanation of how the State educational agency will use funds received under this subchapter, including how such agency will make subgrants to local educational agencies in accordance with section 5889(a) of this title, and how such agency will use such funds received under this subchapter for education preservice programs and professional development activities in accordance with section 5889(b) of this title.
 
-(Pub. L. 103–227, title III, §305, Mar. 31, 1994, 108 Stat. 159; Pub. L. 104–134, title I, §101(d) \[title VII, §705(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–227, title III, §305, Mar. 31, 1994, 108 Stat. 159; Pub. L. 104–134, title I, §101(d) \[titleVII, §705(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Amendments
 

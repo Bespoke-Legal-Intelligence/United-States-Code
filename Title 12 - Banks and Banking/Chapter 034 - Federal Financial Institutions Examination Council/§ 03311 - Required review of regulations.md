@@ -8,7 +8,7 @@ Not less frequently than once every 10 years, the Council and each appropriate F
 
 In conducting the review under subsection (a) of this section, the Council or the appropriate Federal banking agency shall—
 
-&emsp;(1) categorize the regulations described in subsection (a) of this section by type (such asconsumer regulations, safety and soundness regulations, or such other designations as determined by the Council, or the appropriate Federal banking agency); and
+&emsp;(1) categorize the regulations described in subsection (a) of this section by type (such as consumer regulations, safety and soundness regulations, or such other designations as determined by the Council, or the appropriate Federal banking agency); and
 
 &emsp;(2) at regular intervals, provide notice and solicit public comment on a particular category or categories of regulations, requesting commentators to identify areas of the regulations that are outdated, unnecessary, or unduly burdensome.
 

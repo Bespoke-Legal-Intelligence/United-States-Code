@@ -14,11 +14,13 @@
 
 &emsp;(1) The term “combat arms battalions” means armor, infantry, mechanized infantry, air assault infantry, airborne infantry, ranger, artillery, and combat engineer battalions and armored cavalry and air cavalry squadrons.
 
-&emsp;(2) The term “major repair work” means, in the case of any ship to which such subsection <sup>1</sup> is applicable, any overhaul, modification, alteration, or conversion work which will result in a total cost to the United States of more than $10,000,000.
+&emsp;(2) The term “major repair work” means, in the case of any ship to which subsection (a) is applicable, any overhaul, modification, alteration, or conversion work which will result in a total cost to the United States of more than $10,000,000.
 
-(Added Pub. L. 96–342, title X, §1001(b)(3), (c)(2), Sept. 8, 1980, 94 Stat. 1118, 1119, §138(e), (f)(2); amended Pub. L. 96–513, title V, §511(4)(B), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title III, §302, Dec. 1, 1981, 95 Stat. 1104; renumbered §116 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(6), (7), (9), (10), Oct. 1, 1986, 100 Stat. 994, 1002.)
+(Added Pub. L. 96–342, title X, §1001(b)(3), (c)(2), Sept. 8, 1980, 94 Stat. 1118, 1119, §138(e), (f)(2); amended Pub. L. 96–513, title V, §511(4)(B), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title III, §302, Dec. 1, 1981, 95 Stat. 1104; renumbered §116 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(6), (7), (9), (10), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 105–85, div. A, title X, §1073(a)(3), Nov. 18, 1997, 111 Stat. 1900.)
 
 #### Amendments
+
+1997—Subsec. (b)(2). Pub. L. 105–85 substituted “subsection (a)” for “such subsection”.
 
 1986—Pub. L. 99–433 successively redesignated subsecs. (e) and (f)(2) of section 138 of this title as subsecs. (e) and (f)(2) of section 114 of this title and then as subsecs. (a) and (b), respectively, of this section, added section catchline, and made minor conforming changes in text.
 
@@ -29,6 +31,4 @@
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

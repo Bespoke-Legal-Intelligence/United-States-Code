@@ -28,7 +28,7 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### Pay of Administration, Training, and Supply Maintenance Technicians for Army Reserve Contingent Upon Reserve Status
 
-Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that: “None of the funds appropriated for the Department of Defense during the current fiscal year and hereafter shall be obligated for the pay of any individual who is initially employed after the date of enactment of this Act \[Dec. 1, 1995\] as a technician in the administration and training of the Army Reserve and the maintenance and repair of supplies issued to the Army Reserve unless such individual is also a military member of the Army Reserve troop program unit that he or she is employed to support. Those technicians employed by the Army Reserve in areas other than Army Reserve troop program units need only be members of the Selected Reserve.”
+Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated for Department of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -86,5 +86,5 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8106\], Oct. 12, 1984, 98 St
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 261 of this title; title 5 sections 6323, 8401, 8456; title 26 section 219.
+This section is referred to in section 261 of this title; title 5 sections 6323, 8401, 8456; title 26 section 219; title 42 section 12639.
 

@@ -58,15 +58,17 @@ Amount of fees.—The fees assessed and collected under this subsection shall be
 
 (f)
 
-Funds.—The funds required to carry out this section may be from the sums deducted for administration purposes under section 104(a). The sums provided pursuant to this subsection may be combined or held separate from the fees or memberships collected under subsection (e) and may be administered by the Secretary as a fund which shall be available until expended.
+Funds.—The funds required to carry out this section may be from the sums deducted for administration purposes under section 104(a). The sums provided pursuant to this subsection may be combined or held separate from the fees or memberships collected under subsection (e) and may be administered by the Secretary as a fund which shall be available until expended. There shall be available from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $2,500,000 for the period of October 1, 1997, through March 31, 1998, and such funds shall be subject to any limitation on obligations for Federal-aid highways and highway safety construction programs.
 
 (g)
 
 Contracts.—The provisions of section 3709 of the Revised Statutes (41 U.S.C. 5) shall not be applicable to contracts or agreements made under the authority of this section.
 
-(Added Pub. L. 91–605, title I, §115(a), Dec. 31, 1970, 84 Stat. 1723; amended Pub. L. 96–106, §11, Nov. 9, 1979, 93 Stat. 798; Pub. L. 100–17, title I, §131, Apr. 2, 1987, 101 Stat. 170; Pub. L. 102–240, title VI, §6002, Dec. 18, 1991, 105 Stat. 2166.)
+(Added Pub. L. 91–605, title I, §115(a), Dec. 31, 1970, 84 Stat. 1723; amended Pub. L. 96–106, §11, Nov. 9, 1979, 93 Stat. 798; Pub. L. 100–17, title I, §131, Apr. 2, 1987, 101 Stat. 170; Pub. L. 102–240, title VI, §6002, Dec. 18, 1991, 105 Stat. 2166; Pub. L. 105–130, §5(e)(3), Dec. 1, 1997, 111 Stat. 2557.)
 
 #### Amendments
+
+1997—Subsec. (f). Pub. L. 105–130 inserted at end “There shall be available from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $2,500,000 for the period of October 1, 1997, through March 31, 1998, and such funds shall be subject to any limitation on obligations for Federal-aid highways and highway safety construction programs.”
 
 1991—Pub. L. 102–240 amended section generally, revising and expanding existing subsecs. (a) to (c) and adding subsecs. (d) to (g).
 

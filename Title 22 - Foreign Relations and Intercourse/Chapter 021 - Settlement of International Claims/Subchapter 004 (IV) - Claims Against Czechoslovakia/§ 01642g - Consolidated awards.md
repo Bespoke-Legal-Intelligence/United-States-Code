@@ -2,5 +2,5 @@
 
 With respect to any claim under section 1642c of this title which, at the time of the award, is vested in persons other than the person by whom the loss was sustained, the Commission may issue a consolidated award in favor of all claimants then entitled thereto, which award shall indicate the respective interests of such claimants therein, and all such claimants shall participate, in proportion to their indicated interests, in the payments authorized by this subchapter in all respects as if the award had been in favor of a single person.
 
-(Mar. 10, 1950, ch. 54, title IV, §408, as added Aug. 8, 1958, Pub. L. 85–604, §1, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title IV, §408, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 529.)
 

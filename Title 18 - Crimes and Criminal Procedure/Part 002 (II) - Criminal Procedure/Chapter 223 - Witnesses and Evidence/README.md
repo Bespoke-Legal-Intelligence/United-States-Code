@@ -31,10 +31,13 @@
 | [3507\.](%C2%A7%2003507%20-%20Special%20master%20at%20foreign%20deposition.md) | Special master at foreign deposition. |
 | [3508\.](%C2%A7%2003508%20-%20Custody%20and%20return%20of%20foreign%20witnesses.md) | Custody and return of foreign witnesses. |
 | [3509\.](%C2%A7%2003509%20-%20Child%20victims%E2%80%99%20and%20child%20witnesses%E2%80%99%20rights.md) | Child victims’ and child witnesses’ rights. |
+| [3510\.](%C2%A7%2003510%20-%20Rights%20of%20victims%20to%20attend%20and%20observe%20trial.md) | Rights of victims to attend and observe trial. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–6, §2(b), Mar. 19, 1997, 111 Stat. 12, added item 3510.
 
 1996—Pub. L. 104–294, title VI, §604(a)(4), Oct. 11, 1996, 110 Stat. 3506, substituted “victims’ ” for “Victims’ ” in item 3509.
 
@@ -92,3 +95,4 @@ Pub. L. 91–452, title V, §§501–504, Oct. 15, 1970, 84 Stat. 933, which aut
 - [&sect; 03507 - Special master at foreign deposition](%C2%A7%2003507%20-%20Special%20master%20at%20foreign%20deposition.md)
 - [&sect; 03508 - Custody and return of foreign witnesses](%C2%A7%2003508%20-%20Custody%20and%20return%20of%20foreign%20witnesses.md)
 - [&sect; 03509 - Child victims&#8217; and child witnesses&#8217; rights](%C2%A7%2003509%20-%20Child%20victims%E2%80%99%20and%20child%20witnesses%E2%80%99%20rights.md)
+- [&sect; 03510 - Rights of victims to attend and observe trial](%C2%A7%2003510%20-%20Rights%20of%20victims%20to%20attend%20and%20observe%20trial.md)

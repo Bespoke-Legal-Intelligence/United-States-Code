@@ -48,7 +48,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
 &emsp;&emsp;&emsp;(iii) the exercise of independent judgment in a limited field;
 
-&emsp;&emsp;(B) to perform, under immediate supervision, and with little opportunity for theexercise of independent judgment, simple and elementary work requiring professional, scientific, or technical training; or
+&emsp;&emsp;(B) to perform, under immediate supervision, and with little opportunity for the exercise of independent judgment, simple and elementary work requiring professional, scientific, or technical training; or
 
 &emsp;&emsp;(C) to perform other work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 
@@ -66,7 +66,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
 &emsp;(7) Grade GS–7 includes those classes of positions the duties of which are—
 
-&emsp;&emsp;(A) to perform, under general supervision, work of considerable difficulty and responsibility along special technical or supervisory lines in office, business, or fiscal administration, or comparable subordinate technical work in a professional, scientific, or technical field, requiring in either case—
+&emsp;&emsp;(A) to perform, under general supervision, work of considerable difficulty and responsibility along special technical or supervisory lines in office, business, or fiscal administration, or comparable subordinatetechnical work in a professional, scientific, or technical field, requiring in either case—
 
 &emsp;&emsp;&emsp;(i) considerable specialized or supervisory training and experience;
 

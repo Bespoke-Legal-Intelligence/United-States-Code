@@ -8,7 +8,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 &emsp;(3) all rules, regulations, or final orders of—
 
-&emsp;&emsp;(A) the Secretary of Transportation issued pursuant to section 2, 9, 37, or 41 of the Shipping Act, 1916 (46 U.S.C. App. 802, 803, 808, 835, 839, and 841a) <sup>1</sup> or pursuant to part B or (C) <sup>2</sup> of subtitle IV of title 49; and
+&emsp;&emsp;(A) the Secretary of Transportation issued pursuant to section 2, 9, 37, or 41 of the Shipping Act, 1916 (46 U.S.C. App. 802, 803, 808, 835, 839, and 841a) <sup>1</sup> or pursuant to part B or C of subtitle IV of title 49; and
 
 &emsp;&emsp;(B) the Federal Maritime Commission issued pursuant to—
 
@@ -16,7 +16,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 &emsp;&emsp;&emsp;(ii) section 14 or 17 of the Shipping Act of 1984 (46 U.S.C. App. 1713 or 1716); or
 
-&emsp;&emsp;&emsp;(iii) section 2(d) or 3(d) of the Act of November 6, 1966 (46 U.S.C. App. 817d(d) or 817e(d);
+&emsp;&emsp;&emsp;(iii) section 2(d) or 3(d) of the Act of November 6, 1966 (46 U.S.C. App. 817d(d) or 817e(d) <sup>2</sup>;
 
 &emsp;(4) all final orders of the Atomic Energy Commission made reviewable by section 2239 of title 42;
 
@@ -28,7 +28,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 > Jurisdiction is invoked by filing a petition as provided by section 2344 of this title.
 
-(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, §206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, §8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, §137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II, §227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, §5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, §11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, §5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945.)
+(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, §206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, §8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, §137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II, §227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, §5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, §11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, §5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–287, §6(f)(2), Oct. 11, 1996, 110 Stat. 3399.)
 
 Historical and Revision Notes
 
@@ -36,7 +36,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1032.
 
@@ -56,7 +58,11 @@ Section 812 of the Fair Housing Act, referred to in par. (6), is classified to s
 
 #### Amendments
 
-1995—Par. (3)(A). Pub. L. 104–88, §305(d)(5), (6), substituted “or 41” for “41, or 43” and inserted “or pursuant to part B or (C) of subtitle IV of title 49” before the semicolon.
+<b>1996</b>—Par. (3)(A). Pub. L. 104–287 amended Pub. L. 104–88, §305(d)(6). See 1995 Amendment note below.
+
+<b>1995</b>—Par. (3)(A). Pub. L. 104–88, §305(d)(6), as amended by Pub. L. 104–287, inserted “or pursuant to part B or C of subtitle IV of title 49” before the semicolon.
+
+Pub. L. 104–88, §305(d)(5), substituted “or 41” for “41, or 43”.
 
 Par. (3)(B). Pub. L. 104–88, §305(d)(7), redesignated cls. (ii), (iv), and (v) as (i), (ii), and (iii), respectively, and struck out former cls. (i) and (iii) which read as follows:
 
@@ -64,25 +70,29 @@ Par. (3)(B). Pub. L. 104–88, §305(d)(7), redesignated cls. (ii), (iv), and (v
 
 “(iii) section 2, 3, 4, or 5 of the Intercoastal Shipping Act, 1933 (46 U.S.C. App. 844, 845, 845a, or 845b);”.
 
-Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former par. (5) which read as follows: “allrules, regulations, or final orders of the Interstate Commerce Commission made reviewable by section 2321 of this title and all final orders of such Commission made reviewable under section 11901(j)(2) of title 49, United States Code;”.
+Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former par. (5) which read as follows: “all rules, regulations, or final orders of the Interstate Commerce Commission made reviewable by section 2321 of this title and all final orders of such Commission made reviewable under section 11901(j)(2) of title 49, United States Code;”.
 
-1994—Par. (7). Pub. L. 103–272 substituted “section 20114(c) of title 49” for “section 202(f) of the Federal Railroad Safety Act of 1970”.
+<b>1994</b>—Par. (7). Pub. L. 103–272 substituted “section 20114(c) of title 49” for “section 202(f) of the Federal Railroad Safety Act of 1970”.
 
-1992—Par. (7). Pub. L. 102–365, which directed the addition of par. (7) at end, was executed by adding par. (7) after par. (6) and before concluding provisions, to reflect the probable intent of Congress.
+<b>1992</b>—Par. (7). Pub. L. 102–365, which directed the addition of par. (7) at end, was executed by adding par. (7) after par. (6) and before concluding provisions, to reflect the probable intent of Congress.
 
-1988—Par. (6). Pub. L. 100–430 added par. (6).
+<b>1988</b>—Par. (6). Pub. L. 100–430 added par. (6).
 
-1986—Par. (3). Pub. L. 99–336 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “such final orders of the Federal Maritime Commission or the Maritime Administration entered under chapters 23 and 23A of title 46 as are subject to judicial review under section 830 of title 46;”.
+<b>1986</b>—Par. (3). Pub. L. 99–336 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “such final orders of the Federal Maritime Commission or the Maritime Administration entered under chapters 23 and 23A of title 46 as are subject to judicial review under section 830 of title 46;”.
 
-1984—Par. (5). Pub. L. 98–554 substituted “11901(j)(2)” for “11901(i)(2)”.
+<b>1984</b>—Par. (5). Pub. L. 98–554 substituted “11901(j)(2)” for “11901(i)(2)”.
 
-1982—Pub. L. 97–164 inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “court of appeals” in provisions preceding par. (1), and struck out par. (6) which had given the court of appeals jurisdiction in cases involving all final orders of the Merit Systems Protection Board except as provided for in section 7703(b) of title 5. See section 1295(a)(9) of this title.
+<b>1982</b>—Pub. L. 97–164 inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “court of appeals” in provisions preceding par. (1), and struck out par. (6) which had given the court of appeals jurisdiction in cases involving all final orders of the Merit Systems Protection Board except as provided for in section 7703(b) of title 5. See section 1295(a)(9) of this title.
 
-1980—Par. (5). Pub. L. 96–454 inserted “and all final orders of such Commission made reviewable under section 11901(i)(2) of title 49, United States Code” after “section 2321 of this title”.
+<b>1980</b>—Par. (5). Pub. L. 96–454 inserted “and all final orders of such Commission made reviewable under section 11901(i)(2) of title 49, United States Code” after “section 2321 of this title”.
 
-1978—Par. (6). Pub. L. 95–454 added par. (6).
+<b>1978</b>—Par. (6). Pub. L. 95–454 added par. (6).
 
-1975—Par. (5). Pub. L. 93–584 added par. (5).
+<b>1975</b>—Par. (5). Pub. L. 93–584 added par. (5).
+
+#### Effective Date of 1996 Amendment
+
+Section 6(f) of Pub. L. 104–287 provided that the amendment made by that section is effective Dec. 29, 1995.
 
 #### Effective Date of 1995 Amendment
 
@@ -118,5 +128,5 @@ This section is referred to in title 46 App. section 1710a.
 
 <i><sup>1</sup></i><i> So in original. The reference to “841a” probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “or C”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

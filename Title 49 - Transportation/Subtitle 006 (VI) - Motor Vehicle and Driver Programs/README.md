@@ -6,7 +6,7 @@
 | :--- | :---: | ---: |
 | [<b>301.</b>](Part%20A%20-%20General/Chapter%20301%20-%20Motor%20Vehicle%20Safety/README.md) | <b>Motor Vehicle Safety</b> | <b>30101</b> |
 | [<b>303.</b>](Part%20A%20-%20General/Chapter%20303%20-%20National%20Driver%20Register/README.md) | <b>National Driver Register</b> | <b>30301</b> |
-| [<b>305.</b>](Part%20A%20-%20General/Chapter%20305%20-%20National%20Motor%20Vehicle%20Title%20Information%20System/README.md) | <b>National Automobile Title Information System </b><b><sup>1</sup></b> | <b>30501</b> |
+| [<b>305.</b>](Part%20A%20-%20General/Chapter%20305%20-%20National%20Motor%20Vehicle%20Title%20Information%20System/README.md) | <b>National Motor Vehicle Title Information System</b> | <b>30501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,6 +33,10 @@
 | [<b>331.</b>](Part%20C%20-%20Information%2C%20Standards%2C%20and%20Requirements/Chapter%20331%20-%20Theft%20Prevention/README.md) | <b>Theft Prevention</b> | <b>33101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1997—Pub. L. 105–102, §2(17), Nov. 20, 1997, 111 Stat. 2205, substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in item for chapter 305.
 
 
 ---

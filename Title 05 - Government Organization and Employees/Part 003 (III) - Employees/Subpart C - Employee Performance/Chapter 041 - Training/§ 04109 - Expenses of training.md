@@ -22,7 +22,7 @@
 
 (c) Notwithstanding subsection (a)(1) of this section, the Administrator, Federal Aviation Administration, may pay an individual training to be an air traffic controller of such Administration, and the Secretary of Defense may pay an individual training to be an air traffic controller of the Department of Defense, during the period of such training, at the applicable rate of basic pay for the hours of training officially ordered or approved in excess of forty hours in an administrative workweek.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 436; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L.96–54, §2(a)(19), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–258, §3(a)(9), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–276, §151(a), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–224, §5(b)(2), Mar. 2, 1984, 98 Stat. 48; Pub. L. 98–525, title XV, §1537(a), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 102–378, §2(17), Oct. 2, 1992, 106 Stat. 1347.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 436; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, §2(a)(19), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–258, §3(a)(9), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–276, §151(a), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–224, §5(b)(2), Mar. 2, 1984, 98 Stat. 48; Pub. L. 98–525, title XV, §1537(a), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 102–378, §2(17), Oct. 2, 1992, 106 Stat. 1347.)
 
 Historical and Revision Notes
 
@@ -44,7 +44,7 @@ In subsection (a)(2)(A), the words “and the Standardized Government Travel Reg
 
 In subsection (a)(2)(A) and (B), the words “sections 404 and 405 of title 37” and “sections 406 and 409 of title 37” are substituted for the references to “section 253 of title 37” on authority of section 12(b) of the Act of Sept. 7, 1962, Pub. L. 87–649, 76 Stat. 497.
 
-In subsection (a)(2)(B), the words “under section 5724 of this title” are substituted for “in accordance with section 73b–1 of this title, and Executive Order Numbered 9805, as amended” to reflect the codification of former section 73b–1 in this title and in view of the revocation of Executive Order No. 9805 by Executive Order No. 11012 of Mar. 27, 1962. The reference only to section 5724 is sufficient since that section contains the applicable substantive law, including the authority of the President to prescribe regulations.
+In subsection (a)(2)(B), the words “under section 5724 of this title” are substituted for “in accordance withsection 73b–1 of this title, and Executive Order Numbered 9805, as amended” to reflect the codification of former section 73b–1 in this title and in view of the revocation of Executive Order No. 9805 by Executive Order No. 11012 of Mar. 27, 1962. The reference only to section 5724 is sufficient since that section contains the applicable substantive law, including the authority of the President to prescribe regulations.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization for expenses
 
-In order to provide for United States participation in the North Atlantic Treaty Organization, there is authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its share of the expenses of the Organization and all necessary salaries and expenses of the United States permanent representative to the Organization, of such persons as may be appointed to represent the United States in the subsidiary bodies of the Organization or in any multilateral organization which participates in achieving the aims of the North Atlantic Treaty, and of their appropriate staffs, and the expenses of participation in meetings of such organizations, including salaries, expenses, and allowances of personnel and dependents as authorized by the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], and allowances and expenses as provided in section 287r of this title.
+In order to provide for United States participation in the North Atlantic Treaty Organization, there is authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its share of the expenses of the Organization and all necessary salaries and expenses of the United States permanent representative to the Organization, of such persons as may be appointed to represent the United States in the subsidiary bodies of the Organization or in any multilateral organization which participates inachieving the aims of the North Atlantic Treaty, and of their appropriate staffs, and the expenses of participation in meetings of such organizations, including salaries, expenses, and allowances of personnel and dependents as authorized by the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\], and allowances and expenses as provided in section 287r of this title.
 
 #### (b) Appointment of personal representative
 
@@ -12,7 +12,7 @@ The United States permanent representative to the North Atlantic Treaty Organiza
 
 Persons detailed to the international staff of the North Atlantic Treaty Organization in accordance with section 2388 of this title who are members of the Foreign Service serving under limited appointments may serve for periods of more than five years notwithstanding the limitation in section 309 of the Foreign Service Act of 1980 \[22 U.S.C. 3949\].
 
-(Aug. 26, 1954, ch. 937, title IV, §408, 68 Stat. 845; Aug. 14, 1957, Pub. L. 85–141, §8(h), 71 Stat. 361; July 24, 1959, Pub. L. 86–108, ch. II, §205(h), 73 Stat. 250; Oct. 17, 1980, Pub. L. 96–465, title II, §2206(a)(6), 94 Stat. 2161.)
+(Aug. 26, 1954, ch. 937, title IV, §408, 68 Stat. 845; Pub. L. 85–141, §8(h), Aug. 14, 1957, 71 Stat. 361; Pub. L. 86–108, ch. II, §205(h), July 24, 1959, 73 Stat. 250; Pub. L. 96–465, title II, §2206(a)(6), Oct. 17, 1980, 94 Stat. 2161.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title VI\], Sept. 30, 1996, 110 S
 
 &emsp;“(10) New members will be full members of the Alliance, enjoying all rights and assuming all the obligations under the North Atlantic Treaty, signed at Washington on April 4, 1949 (hereafter in this Act referred to as the ‘Washington Treaty’).
 
-&emsp;“(11) In order to assist emerging democracies in Central and Eastern Europe that have expressed interest in joining NATO to be prepared to assume the responsibilities of NATO membership, the United States should encourage and support efforts by such countries to develop force structures and force modernization priorities that will enable such countries to contribute to the full range of NATO missions, including, most importantly, territorial defense of the Alliance.
+&emsp;“(11) In order to assist emerging democracies in Central and Eastern Europe that have expressed interest in joining NATO to be prepared to assume the responsibilities of NATO membership, the United States should encourage and support efforts by such countries to develop force structures and force modernization priorities that will enable such countriesto contribute to the full range of NATO missions, including, most importantly, territorial defense of the Alliance.
 
 &emsp;“(12) Cooperative regional peacekeeping initiatives involving emerging democracies in Central and Eastern Europe that have expressed interest in joining NATO, such as the Baltic Peacekeeping Battalion, the Polish-Lithuanian Joint Peacekeeping Force, and the Polish-Ukrainian Peacekeeping Force, can make an important contribution to European peace and security and international peacekeeping efforts, can assist those countries preparing to assume the responsibilities of possible NATO membership, and accordingly should receive appropriate support from the United States.
 
@@ -228,17 +228,17 @@ Notification.—At least 15 days before terminating the eligibility of any count
 
 #### Defense Burdensharing
 
-Pub. L. 104–201, div. A, title X, §1084, Sept. 23, 1996, 110 Stat. 2673, provided that:
+Pub. L. 105–85, div. A, title XII, §1221, Nov. 18, 1997, 111 Stat. 1935, provided that:
 
 “(a)
 
 Efforts To Increase Allied Burdensharing.—The President shall seek to have each nation that has cooperative military relations with the United States (including security agreements, basing arrangements, or mutual participation in multinational military organizations or operations) take one or more of the following actions:
 
-&emsp;“(1) Increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving by September 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
+&emsp;“(1) For any nation in which United States military personnel are assigned to permanent duty ashore, increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving by September 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
 
-&emsp;“(2) Increase its annual budgetary outlays for national defense as a percentage of its gross domestic product by 10 percent or at least to a level commensurate to that of the United States by September 30, 1997.
+&emsp;“(2) Increase its annual budgetary outlays for national defense as a percentage of its gross domestic product by 10 percent or at least to a level commensurate to that of the United States by September 30, 1998.
 
-&emsp;“(3) Increase its annual budgetary outlays for foreign assistance (to promote democratization, economic stabilization, transparency arrangements, defense economic conversion, respect for the rule of law, and internationally recognized human rights) by 10 percent or at least to a level commensurate to that of the United States by September 30, 1997.
+&emsp;“(3) Increase its annual budgetary outlays for foreign assistance (to promote democratization, economic stabilization, transparency arrangements, defense economic conversion, respect for the rule of law, and internationally recognized human rights) by 10 percent or at least to a level commensurate to that of the United States by September 30, 1998.
 
 &emsp;“(4) Increase the amount of military assets (including personnel, equipment, logistics, support and other resources) that it contributes, or would be prepared to contribute, to multinational military activities worldwide.
 
@@ -254,19 +254,21 @@ Authorities To Encourage Actions by United States Allies.—In seeking the actio
 
 &emsp;“(4) Suspend, modify, or terminate any bilateral security agreement the United States has with that nation, consistent with the terms of such agreement.
 
-&emsp;“(5) Reduce (through rescission, impoundment, or other appropriate procedures as authorized by law) any United States bilateral assistance appropriated for that nation.
+&emsp;“(5) Reduce (through rescission, impoundment or other appropriate procedures as authorized by law) any United States bilateral assistance appropriated for that nation.
 
 &emsp;“(6) Take any other action the President determines to be appropriate as authorized by law.
 
 “(c)
 
-Report on Progress in Increasing Allied Burdensharing.—Not later than March 1, 1997, the Secretary of Defense shall submit to Congress a report on—
+Report on Progress in Increasing Allied Burdensharing.—Not later than March 1, 1998, the Secretary of Defense shall submit to Congress a report on—
 
 &emsp;“(1) steps taken by other nations to complete the actions described in subsection (a);
 
-&emsp;“(2) all measures taken by the President, including those authorized in subsection (b), to achieve the actions described in subsection (a); and
+&emsp;“(2) all measures taken by the President, including those authorized in subsection (b), to achieve the actions described in subsection (a);
 
-&emsp;“(3) the budgetary savings to the United States that are expected to accrue as a result of the steps described under paragraph (1).
+&emsp;“(3) the difference between the amount allocated by other nations for each of the actions described in subsection (a) during the period beginning on March 1, 1996, and ending on February 28, 1997, and during the period beginning on March 1, 1997, and ending on February 28, 1998; and
+
+&emsp;“(4) the budgetary savings to the United States that are expected to accrue as a result of the steps described under paragraph (1).
 
 “(d)
 
@@ -288,11 +290,11 @@ Report on National Security Bases for Forward Deployment and Burdensharing Relat
 
 &emsp;“(H) The annual expenditures of the United States and its allies on national defense, and the relative percentages of each nation's gross domestic product constituted by those expenditures.
 
-“(2) The President shall submit to Congress a report on the review under paragraph (1). The report shall be submitted not later than March 1, 1997, in classified and unclassified form.
+“(2) The President shall submit to Congress a report on the review under paragraph (1). The report shall be submitted not later than March 1, 1998, in classified and unclassified form.”
 
-“(e)
+Similar provisions were contained in the following prior authorization act:
 
-Report Date.—\[Amended section 1003(c) of Pub. L. 98–525, set out as a note below.\]”
+Pub. L. 104–201, div. A, title X, §1084, Sept. 23, 1996, 110 Stat. 2673.
 
 #### Nato Participation
 
@@ -364,7 +366,7 @@ Initial presidential review and designation.—Within 60 days of the enactment o
 
 &emsp;“(2)
 
-Other european countries emerging from communist domination.—In addition to the countriesdesignated pursuant to paragraph (1), the President may at any time designate other European emerging democracies in Central and Eastern Europe as eligible to receive assistance under the program established under subsection (a). The President shall, at the time of designation of any country pursuant to this paragraph, determine and report to the Committees on International Relations and Appropriations of the House of Representatives and the Committees on Foreign Relations and Appropriations of the Senate with respect to each country so designated that such country meets the criteria set forth in paragraph (3).
+Other european countries emerging from communist domination.—In addition to the countries designated pursuant to paragraph (1), the President may at any time designate other European emerging democracies in Central and Eastern Europe as eligible to receive assistance under the program established under subsection (a). The President shall, at the time of designation of any country pursuant to this paragraph, determine and report to the Committees on International Relations and Appropriations of the House of Representatives and the Committees on Foreign Relations and Appropriations of the Senate with respect to each country so designated that such country meets the criteria set forth in paragraph (3).
 
 &emsp;“(3)
 
@@ -404,7 +406,7 @@ Determination.—It is hereby determined that Poland, Hungary, the Czech Republi
 
 “(g)
 
-Effect on Other Authorities.—Nothing in this Act \[title\] shall affect the eligibility of countries to participate under other provisions of law in programs described in this Act \[title\].
+Effect on Other Authorities.—Nothing in this Act \[title\] shall affect the eligibility of countries toparticipate under other provisions of law in programs described in this Act \[title\].
 
 #### “SEC. 204. ADDITIONAL AUTHORITIES.
 
@@ -452,7 +454,7 @@ Report.—The Secretary of Defense shall include in the annual report required b
 
 “(d)
 
-Incremental Costs Defined.—For purposes of subsection (a), the definition provided for the term ‘incremental costs’ in section 1046 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 \[Pub. L. 102–190, set out below\], as added by subsection (e),shall apply with respect to maintaining members of the Armed Forces in assignments to permanent duty ashore in European member nations of NATO in the same manner as such term applies with respect to permanent stationing ashore of United States forces in foreign nations for purposes of subsection (e)(4) of such section 1046.”
+Incremental Costs Defined.—For purposes of subsection (a), the definition provided for the term ‘incremental costs’ in section 1046 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 \[Pub. L. 102–190, set out below\], as added by subsection (e), shall apply with respect to maintaining members of the Armed Forces in assignments to permanent duty ashore in European member nations of NATO in the same manner as such term applies with respect to permanent stationing ashore of United States forces in foreign nations for purposes of subsection (e)(4) of such section 1046.”
 
 #### Implementation of Partnership for Peace
 
@@ -570,7 +572,7 @@ Pub. L. 99–93, title VIII, §812, Aug. 16, 1985, 99 Stat. 453, as amended by P
 
 Findings.—The Congress hereby finds—
 
-&emsp;“(1) the Japan-United States security relationship is the foundation of the peace and security of Japan and the Far East, as well as a major contributor to the protection of the United States and of the democratic freedoms and economic prosperity enjoyed by both the United States and Japan;
+&emsp;“(1) the Japan-United States security relationship is the foundation of the peace and security of Japanand the Far East, as well as a major contributor to the protection of the United States and of the democratic freedoms and economic prosperity enjoyed by both the United States and Japan;
 
 &emsp;“(2) the threats to our two democracies have increased significantly since 1976, principally through the Soviet invasion of Afghanistan, the expansion of Soviet armed forces in the Far East, the invasion of Cambodia by Vietnam, and the instability in the Persian Gulf region as signified by the continuing Iran-Iraq conflict;
 
@@ -602,7 +604,7 @@ Similar provisions were contained in Pub. L. 98–473, title I, §101(e) \[§127
 
 #### Improvements to NATO Conventional Capability
 
-Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XI, §1101, Nov. 8, 1985, 99 Stat. 707; Pub. L. 101–189, div. A, title IX, §911(a), Nov. 29, 1989, 103 Stat. 1523; Pub. L. 101–510, div. A, title IV, §406, title XIII, §1312(c)(1), (2), Nov. 5, 1990, 104 Stat. 1546, 1670; Pub. L. 102–25, title VII, §704(a)(2), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title X, §1042, Dec. 5, 1991, 105 Stat. 1462; Pub. L. 102–484, div.A, title XIII, §1303(a), Oct. 23, 1992, 106 Stat. 2546; Pub. L. 103–160, div. A, title XIV, §1412(a), Nov. 30, 1993, 107 Stat. 1828; Pub. L. 103–337, div. A, title XIII, §1303(a)–(c), Oct. 5, 1994, 108 Stat. 2889, 2890; Pub. L. 104–106, div. A, title XIII, §1334(a), title XV, §1502(c)(7), Feb. 10, 1996, 110 Stat. 484, 508, provided that:
+Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XI, §1101, Nov. 8, 1985, 99 Stat. 707; Pub. L. 101–189, div. A, title IX, §911(a), Nov. 29, 1989, 103 Stat. 1523; Pub. L. 101–510, div. A, title IV, §406, title XIII, §1312(c)(1), (2), Nov. 5, 1990, 104 Stat. 1546, 1670; Pub. L. 102–25, title VII, §704(a)(2), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title X, §1042, Dec. 5, 1991, 105 Stat. 1462; Pub. L. 102–484, div. A, title XIII, §1303(a), Oct. 23, 1992, 106 Stat. 2546; Pub. L. 103–160, div. A, title XIV, §1412(a), Nov. 30, 1993, 107 Stat. 1828; Pub. L. 103–337, div. A, title XIII, §1303(a)–(c), Oct. 5, 1994, 108 Stat. 2889, 2890; Pub. L. 104–106, div. A, title XIII, §1334(a), title XV, §1502(c)(7), Feb. 10, 1996, 110 Stat. 484, 508, provided that:
 
 “(a) The Congress finds—
 
@@ -722,7 +724,7 @@ Pub. L. 96–342, title X, §1006, Sept. 8, 1980, 94 Stat. 1120, as amended by P
 
 “(a) In recognition of the growth, relative to the United States, in the economic strength of Japan, Canada, and Western European countries which has occurred since the signing of the North Atlantic Treaty on April 4, 1949, and the Mutual Cooperation and Security Treaty between Japan and the United States on January 19, 1960, it is the sense of Congress that—
 
-&emsp;“(1) the burdens of mutual defense now assumed by the countries allied with the United States underthose agreements are not commensurate with their economic resources; and
+&emsp;“(1) the burdens of mutual defense now assumed by the countries allied with the United States under those agreements are not commensurate with their economic resources; and
 
 &emsp;“(2) the continued unwillingness of those countries to increase their contributions to the common defense to more appropriate levels would endanger the vitality, effectiveness, and cohesiveness of the alliances between those countries and the United States.
 
@@ -748,7 +750,7 @@ Pub. L. 96–342, title X, §1006, Sept. 8, 1980, 94 Stat. 1120, as amended by P
 
 Pub. L. 93–155, title VIII, §812, Nov. 16, 1973, 87 Stat. 619, provided that:
 
-“(a) The Congress finds that in order to achieve a more equitable sharing of the costs and expenses arising from commitments and obligations under the North Atlantic Treaty, the President should seek, through appropriate bilateral and multilateral arrangements, payments sufficient in amount to offset fully any balance-of-payment deficit incurred by the United States during the fiscal year ending June 30, 1974, as the result of the deployment of forces in Europe in fulfillment of the treaty commitments and obligations of the United States. This balance-of-payment deficit shall be determined by the Secretary of Commerce in consultation with the Secretary of Defense and the Comptroller General of the United States.
+“(a) The Congress finds that in order to achieve a more equitable sharing of the costs and expenses arising from commitments and obligations under the North Atlantic Treaty, the President should seek, through appropriate bilateral and multilateral arrangements, payments sufficient in amount to offset fully any balance-of-payment deficit incurred by the United States during the fiscal year ending June 30, 1974, as the result ofthe deployment of forces in Europe in fulfillment of the treaty commitments and obligations of the United States. This balance-of-payment deficit shall be determined by the Secretary of Commerce in consultation with the Secretary of Defense and the Comptroller General of the United States.
 
 “(b) In the event that the North Atlantic Treaty Organization members (other than the United States) fail to offset the net balance-of-payment deficit described in subsection (a) prior to the expiration of eighteen months after the date of enactment of this section \[Nov. 16, 1973\], no funds may be expended after the expiration of twenty-four months following the date of enactment of this section \[Nov. 16, 1973\] for the purpose of maintaining or supporting United States forces in Europe in any number greater than a number equal to the average monthly number of United States forces assigned to duty in Europe during the fiscal year ending June 30, 1974, reduced by a percentage figure equal to the percentage figure by which such balance-of-payment deficit during such fiscal year was not offset.
 
@@ -764,7 +766,7 @@ Pub. L. 86–719, Sept. 7, 1960, 74 Stat. 818, as amended by Pub. L. 87–116, J
 
 Ex. Ord. No. 11633. Dec. 3, 1971, 36 F.R. 23197, provided:
 
-The United States now participates in the activities of the North Atlantic Treaty Organization (NATO), the South-East Asia Treaty Organization (SEATO), and the Central Treaty Organization (CENTO). The Security regulations of these three treaty organizations provide that each participating nation shall be responsible for the security screening and security clearance of its own citizens before they are authorized access to the Organization's TOP SECRET, SECRET, or CONFIDENTIAL information. There is no existing program, however, under which United States civilians who are hired directly by these organizations can be screened and cleared for access to such Organization's TOP SECRET, SECRET, or CONFIDENTIAL information while so employed. It is, of course, in the interest of the United States that United States citizens who participate in the activities of NATO, SEATO, and CENTO as direct hire employees of the civil or military agencies of those organizations be reliable, trustworthy, of good conduct and character, and of complete and unswervingloyalty to the United States. At the same time, it is a fundamental principle of our Government to protect against unreasonable or unwarranted encroachment on the freedom and privacy of individuals.
+The United States now participates in the activities of the North Atlantic Treaty Organization (NATO), the South-East Asia Treaty Organization (SEATO), and the Central Treaty Organization (CENTO). The Security regulations of these three treaty organizations provide that each participating nation shall be responsible for the security screening and security clearance of its own citizens before they are authorized access to the Organization's TOP SECRET, SECRET, or CONFIDENTIAL information. There is no existing program, however, under which United States civilians who are hired directly by these organizations can be screened and cleared for access to such Organization's TOP SECRET, SECRET, or CONFIDENTIAL information while so employed. It is, of course, in the interest of the United States that United States citizens who participate in the activities of NATO, SEATO, and CENTO as direct hire employees of the civil or military agencies of those organizations be reliable, trustworthy, of good conduct and character, and of complete and unswerving loyalty to the United States. At the same time, it is a fundamental principle of our Government to protect against unreasonable or unwarranted encroachment on the freedom and privacy of individuals.
 
 I have determined that the provisions and procedures prescribed by this Order are necessary to assure the preservation of the integrity of the classified information of NATO, SEATO, and CENTO, and to protect the national interest. I have also determined that these provisions and procedures recognize the rights of individuals affected thereby and provide maximum possible safeguards to protect such rights.
 

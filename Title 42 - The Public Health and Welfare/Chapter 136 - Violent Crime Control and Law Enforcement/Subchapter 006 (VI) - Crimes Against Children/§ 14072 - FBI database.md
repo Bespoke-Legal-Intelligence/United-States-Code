@@ -6,15 +6,15 @@ For purposes of this section—
 
 &emsp;(1) the term “FBI” means the Federal Bureau of Investigation;
 
-&emsp;(2) the terms “criminal offense against a victim who is a minor”, “sexually violent offense”, “sexually violent predator”, “mental abnormality”, and “predatory” have the same meanings as in section 14071(a)(3) of this title; and
+&emsp;(2) the terms “criminal offense against a victim who is a minor”, “sexually violent offense”, “sexually violent predator”, “mental abnormality”, “predatory”, “employed, or carries on a vocation”, and “student” have the same meanings as in section 14071(a)(3) of this title; and
 
 &emsp;(3) the term “minimally sufficient sexual offender registration program” means any State sexual offender registration program that—
 
-&emsp;&emsp;(A) requires the registration of each offender who is convicted of an offense described in subparagraph (A) or (B) of section 14071(a)(1) of this title;
+&emsp;&emsp;(A) requires the registration of each offender who is convicted of an offense in a range of offenses specified by State law which is comparable to or exceeds that described in subparagraph (A) or (B) of section 14071(a)(1) of this title;
 
-&emsp;&emsp;(B) requires that all information gathered under such program be transmitted to the FBI in accordance with subsection (g) of this section;
+&emsp;&emsp;(B) participates in the national database established under subsection (b) of this section in conformity with guidelines issued by the Attorney General;
 
-&emsp;&emsp;(C) meets the requirements for verification under section 14071(b)(3) of this title; and
+&emsp;&emsp;(C) provides for verification of address at least annually; <sup>1</sup>
 
 &emsp;&emsp;(D) requires that each person who is required to register under subparagraph (A) shall do so for a period of not less than 10 years beginning on the date that such person was released from prison or placed on parole, supervised release, or probation.
 
@@ -128,7 +128,7 @@ A person described in subsection (b) of this section who is required to register
 
 #### (i) Penalty
 
-A person required to register under paragraph (1), (2), or (3) of subsection (g) of this section who knowingly fails to comply with this section shall—
+A person required to register under paragraph (1), (2), or (3) of subsection (g) of this section or pursuant to section 14071(b)(7) of this title who knowingly fails to comply with this section shall—
 
 &emsp;(1) in the case of a first offense—
 
@@ -146,7 +146,7 @@ The information collected by the FBI under this section shall be disclosed by th
 
 &emsp;&emsp;(A) law enforcement purposes; and
 
-&emsp;&emsp;(B) community notification in accordance with section 14071(d)(3) of this title; and
+&emsp;&emsp;(B) community notification in accordance with section 14071(d)(3) <sup>2</sup> of this title; and
 
 &emsp;(2) to Federal, State, and local governmental agencies responsible for conducting employment-related background checks under section 5119a of this title.
 
@@ -158,9 +158,33 @@ Any State not having established a program described in subsection (a)(3) of thi
 
 &emsp;(2) notify the FBI of the release of each offender who is convicted of an offense described in subparagraph (A) or (B) of section 14071(a)(1) of this title.
 
-(Pub. L. 103–322, title XVII, §170102, as added Pub. L. 104–236, §2(a), Oct. 3, 1996, 110 Stat. 3093.)
+(Pub. L. 103–322, title XVII, §170102, as added Pub. L. 104–236, §2(a), Oct. 3, 1996, 110 Stat. 3093; amended Pub. L. 105–119, title I, §115(a)(6), Nov. 26, 1997, 111 Stat. 2463.)
+
+#### References in Text
+
+Section 14071(d)(3) of this title, referred to in subsec. (j)(1)(B), was redesignated section 14071(e)(3) of this title by Pub. L. 105–119, title I, §115(a)(3), Nov. 26, 1997, 111 Stat. 2463.
+
+#### Amendments
+
+1997—Subsec. (a)(2). Pub. L. 105–119, §115(a)(6)(A), substituted “ ‘predatory’, ‘employed, or carries on a vocation’, and ‘student’ ” for “and ‘predatory’ ”.
+
+Subsec. (a)(3)(A). Pub. L. 105–119, §115(a)(6)(B)(i), inserted “in a range of offenses specified by State law which is comparable to or exceeds that” before “described”.
+
+Subsec. (a)(3)(B). Pub. L. 105–119, §115(a)(6)(B)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “requires that all information gathered under such program be transmitted to the FBI in accordance with subsection (g) of this section;”.
+
+Subsec. (a)(3)(C). Pub. L. 105–119, §115(a)(6)(B)(iii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “meets the requirements for verification under section 14071(b)(3) of this title; and”.
+
+Subsec. (i). Pub. L. 105–119, §115(a)(6)(C), inserted “or pursuant to section 14071(b)(7) of this title” after “subsection (g) of this section” in introductory provisions.
+
+#### Effective Date
+
+For effective date of section, see section 10 of Pub. L. 104–236, as amended, set out as an Effective Date of 1996 Amendment note under section 14071 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14071 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

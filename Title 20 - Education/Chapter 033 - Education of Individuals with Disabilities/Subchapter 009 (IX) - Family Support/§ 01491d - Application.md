@@ -16,7 +16,7 @@ A State that desires to receive a grant under this subchapter shall submit an ap
 
 &emsp;&emsp;(A) The State has designated or established Council <sup>1</sup> that meets the criteria set forth in section 1491f of this title.
 
-&emsp;&emsp;(B) The lead entity will seek and consider on a regular and ongoing basis advice fromthe Council regarding the development and implementation of the strategic plan under section 1491h of this title, and other policies and procedures of general applicability pertaining to the provision of family support for families of children with disabilities in the State.
+&emsp;&emsp;(B) The lead entity will seek and consider on a regular and ongoing basis advice from the Council regarding the development and implementation of the strategic plan under section 1491h of this title, and other policies and procedures of general applicability pertaining to the provision of family support for families of children with disabilities in the State.
 
 &emsp;&emsp;(C) The lead entity will include, in its annual progress reports, a summary of advice provided by the Council, including recommendations from the annual report of the Council and the response of the lead entity to such advice and recommendations.
 
@@ -83,6 +83,10 @@ A State that desires to receive a grant under this subchapter shall submit an ap
 &emsp;Such other information and assurances as the Secretary may reasonably require.
 
 (Pub. L. 91–230, title VI, §705, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3944.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
 
 #### Section Referred to in Other Sections
 

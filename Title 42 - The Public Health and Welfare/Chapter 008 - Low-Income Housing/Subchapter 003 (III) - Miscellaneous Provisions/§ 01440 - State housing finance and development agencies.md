@@ -2,7 +2,7 @@
 
 #### (a) Statement of purpose; participation by private and nonprofit developers in activities assisted
 
-It is the purpose of this section to encourage the formation and effective operation of Statehousing finance agencies and State development agencies which have authority to finance, to assist in carrying out, or to carry out activities designed to (1) provide housing and related facilities through land acquisition, construction, or rehabilitation, for persons and families of low, moderate, and middle income, (2) promote the sound growth and development of neighborhoods through the revitalization of slum and blighted areas, (3) increase and improve employment opportunities for the unemployed and underemployed through the development and redevelopment of industrial, manufacturing, and commercial facilities, or (4) implement the development aspects of State land use and preservation policies, including the advance acquisition of land where it is consistent with such policies. The Secretary of Housing and Urban Development shall encourage maximum participation by private and nonprofit developers in activities assisted under this section.
+It is the purpose of this section to encourage the formation and effective operation of State housing finance agencies and State development agencies which have authority to finance, to assist in carrying out, or to carry out activities designed to (1) provide housing and related facilities through land acquisition, construction, or rehabilitation, for persons and families of low, moderate, and middle income, (2) promote the sound growth and development of neighborhoods through the revitalization of slum and blighted areas, (3) increase and improve employment opportunities for the unemployed and underemployed through the development and redevelopment of industrial, manufacturing, and commercial facilities, or (4) implement the development aspects of State land use and preservation policies, including the advance acquisition of land where it is consistent with such policies. The Secretary of Housing and Urban Development shall encourage maximum participation by private and nonprofit developers in activities assisted under this section.
 
 #### (b) Determination of eligibility for assistance; definitions
 
@@ -12,7 +12,7 @@ It is the purpose of this section to encourage the formation and effective opera
 
 &emsp;(A) the term “State housing finance or State development agency” means any public body or agency, publicly sponsored corporation, or instrumentality of one or more States which is designated by the Governor (or Governors in the case of an interstate development agency) for purposes of this section;
 
-&emsp;(B) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States; and
+&emsp;(B) the term “State” means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, or any territory or possession of the United States; and
 
 &emsp;(C) the term “Secretary” means the Secretary of Housing and Urban Development.
 
@@ -46,7 +46,7 @@ The Secretary shall take such steps as he considers reasonable to assure that bo
 
 (1) The Secretary is authorized to establish a revolving fund to provide for the timely payment of any liabilities incurred as a result of guarantees under subsection (c) of this section and for the payment of obligations issued to the Secretary of the Treasury under paragraph (2) of this subsection. Such revolving fund shall be comprised of (A) receipts from fees and charges; (B) recoveries under security, subrogation, and other rights; (C) repayments, interest income, and any other receipts obtained in connection with guarantees made under subsection (c) of this section; (D) proceeds of the obligations issued to the Secretary of the Treasury pursuant to paragraph (2) of this subsection; and (E) such sums, which are hereby authorized to be appropriated, as may be required for such purposes. Money in the revolving fund not currently needed for the purpose of this section shall be kept on hand or on deposit, or invested in obligations of the United States or guaranteed thereby, or in obligations, participations, or other instruments which are lawful investments for fiduciary, trust, or public funds.
 
-(2) The Secretary may issue obligations to the Secretary of the Treasury in an amount sufficient to enable the Secretary to carry out his functions with respect to the guarantees authorized by subsection (c) of this section. The obligations issued under this paragraph shall have such maturities and bear such rate or rates of interest as shall be determined by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any obligations so issued, and for that purpose he is authorized to use a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include purchases of the obligations hereunder.
+(2) The Secretary may issue obligations to the Secretary of the Treasury in an amount sufficient to enable the Secretary to carry out his functions with respect to the guarantees authorized by subsection (c) of this section. The obligations issued under this paragraph shall have such maturities and bear such rate or rates of interest as shall be determined by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any obligations so issued, and for that purpose he is authorized to use a public debt transaction the proceeds from the sale of any securities issuedunder chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include purchases of the obligations hereunder.
 
 (3) Notwithstanding any other provision of law relating to the acquisition, handling, improvement, or disposal of real and other property by the United States, the Secretary shall have power, for the protection of the interests of the fund authorized under this subsection, to pay out of such fund all expenses or charges in connection with the acquisition, handling, improvement, or disposal of any property, real or personal, acquired by him as a result of recoveries under security, subrogation, or other rights.
 
@@ -89,4 +89,6 @@ Section was enacted as part of the Housing and Community Development Act of 1974
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1437c of this title; title 12 section 1464.
+
+&nbsp;
 

@@ -14,10 +14,13 @@
 | [41310\.](%C2%A7%2041310%20-%20Discriminatory%20practices.md) | Discriminatory practices. |
 | [41311\.](%C2%A7%2041311%20-%20Gambling%20restrictions.md) | Gambling restrictions. |
 | [41312\.](%C2%A7%2041312%20-%20Ending%20or%20suspending%20foreign%20air%20transportation.md) | Ending or suspending foreign air transportation. |
+| [41313\.](%C2%A7%2041313%20-%20Plans%20to%20address%20needs%20of%20families%20of%20passengers%20involved%20in%20foreign%20air%20carrier%20accidents.md) | Plans to address needs of families of passengers involved in foreign air carrier accidents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–148, §1(b), Dec. 16, 1997, 111 Stat. 2683, added item 41313.
 
 1994—Pub. L. 103–429, §6(51)(B), Oct. 31, 1994, 108 Stat. 4385, added item 41312.
 
@@ -44,3 +47,4 @@ This chapter is referred to in sections 40109, 46301 of this title; title 39 sec
 - [&sect; 41310 - Discriminatory practices](%C2%A7%2041310%20-%20Discriminatory%20practices.md)
 - [&sect; 41311 - Gambling restrictions](%C2%A7%2041311%20-%20Gambling%20restrictions.md)
 - [&sect; 41312 - Ending or suspending foreign air transportation](%C2%A7%2041312%20-%20Ending%20or%20suspending%20foreign%20air%20transportation.md)
+- [&sect; 41313 - Plans to address needs of families of passengers involved in foreign air carrier accidents](%C2%A7%2041313%20-%20Plans%20to%20address%20needs%20of%20families%20of%20passengers%20involved%20in%20foreign%20air%20carrier%20accidents.md)

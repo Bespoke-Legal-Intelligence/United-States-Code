@@ -209,7 +209,7 @@ Subsec. (c)(2). Pub. L. 104–264, §§121(a)(2)(A), 125, temporarily amended pa
 
 “(2)(A) The Secretary shall apportion to the sponsors of airports served by aircraft providing air transportation of only cargo with a total annual landed weight of more than 100,000,000 pounds for each fiscal year an amount equal to 3.5 percent of the amount subject to apportionment each year, allocated among those airports in the proportion that the total annual landed weight of those aircraft landing at each of those airports bears to the total annual landed weight of those aircraft landing at all those airports. However, not more than 8 percent of the amount apportioned under this paragraph may be apportioned for any one airport.
 
-“(B) Landed weight under subparagraph (A) of this paragraph is the landed weight of aircraft landing at each of those airports and all those airports during the prior calendar year.” See Effective and Termination Dates of 1996 Amendment note below.
+“(B) Landed weight under subparagraph (A) of this paragraph is the landed weight of aircraft landing ateach of those airports and all those airports during the prior calendar year.” See Effective and Termination Dates of 1996 Amendment note below.
 
 Subsec. (c)(3). Pub. L. 104–264, §§121(a)(3), 125, temporarily struck out par. (3) which read as follows:
 
@@ -225,7 +225,7 @@ Subsec. (d)(2)(B), (C). Pub. L. 104–264, §§121(b)(3), (4), 125, temporarily 
 
 1994—Subsec. (c)(1)(B). Pub. L. 103–429, §6(66)(A), substituted “$500,000” for “$400,000”.
 
-Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, the” for “The”, “49.5” for “44” in two places, and “If thissubparagraph” for “If this paragraph”, and added subpar. (B).
+Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, the” for “The”, “49.5” for “44” in two places, and “If this subparagraph” for “If this paragraph”, and added subpar. (B).
 
 #### Effective and Termination Dates of 1996 Amendment
 

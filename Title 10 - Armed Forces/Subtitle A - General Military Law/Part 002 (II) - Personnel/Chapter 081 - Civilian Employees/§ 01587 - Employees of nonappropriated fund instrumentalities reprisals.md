@@ -48,7 +48,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–106, §1040(d)(1), inserted “: reprisals” after “instrumentalities” in section catchline.
+1996—Pub. L. 104–106, §1040(d)(1), inserted “: reprisals” after “instrumentalities” in section catchline.
 
 Subsec. (a)(1). Pub. L. 104–106, §1040(c), substituted “Navy Exchange Service Command” for “Navy Resale and Services Support Office”.
 

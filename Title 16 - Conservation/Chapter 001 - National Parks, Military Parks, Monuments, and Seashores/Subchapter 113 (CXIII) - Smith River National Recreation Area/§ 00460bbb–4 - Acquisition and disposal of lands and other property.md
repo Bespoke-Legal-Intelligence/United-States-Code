@@ -2,7 +2,7 @@
 
 #### (a) Acquisition
 
-The Secretary is authorized to acquire by purchase, donation, exchange, or otherwise lands, waters, or interests therein (including scenic or other easements), and structures or other improvements thereon, within the boundaries of the recreation area as the Secretary determines appropriate for the purposes of this subchapter.In exercising this authority, the Secretary is directed to give prompt and careful consideration to any offer to sell, exchange, or otherwise dispose of such property made by an individual or organization. The Secretary shall not acquire any land or interest in land owned by the State of California or any of its political subdivisions within the recreation area except by donation or exchange. All lands acquired by the Secretary pursuant to this subchapter shall be subject to the laws and regulations pertaining to the National Forest System and this subchapter.
+The Secretary is authorized to acquire by purchase, donation, exchange, or otherwise lands, waters, or interests therein (including scenic or other easements), and structures or other improvements thereon, within the boundaries of the recreation area as the Secretary determines appropriate for the purposes of this subchapter. In exercising this authority, the Secretary is directed to give prompt and careful consideration to any offer to sell, exchange, or otherwise dispose of such property made by an individual or organization. The Secretary shall not acquire any land or interest in land owned by the State of California or any of its political subdivisions within the recreation area except by donation or exchange. All lands acquired by the Secretary pursuant to this subchapter shall be subject to the laws and regulations pertaining to the National Forest System and this subchapter.
 
 #### (b) Transfers to Del Norte County
 
@@ -16,7 +16,7 @@ The Secretary is authorized to acquire by purchase, donation, exchange, or other
 
 &emsp;(B) Lands east of tract 37, T. 17 N., R. 3 E., H.M., containing 6 acres, more or less, and more particularly described as:
 
-&emsp;&emsp;Commencing at a point on the eastern boundary of tract 37, T. 17 N., R. 3 E., H.M., lying 332 feet southerly of the N.E. corner of said tract 37; thence, due east to the high water line of the Middle Fork of the Smith River; thence, southwesterly along the high water line of the Middle Fork of the Smith River to its intersection with the northern boundary of tract 38, T. 17 N., R. 3 E.; thence, westerly along the northern boundary of said tract 38 to its intersection with said track 37; thence, northerly along the eastern boundary of said tract 37 to the point of beginning.
+&emsp;&emsp;Commencing at a point on the eastern boundary of tract 37, T. 17 N., R. 3 E., H.M.,lying 332 feet southerly of the N.E. corner of said tract 37; thence, due east to the high water line of the Middle Fork of the Smith River; thence, southwesterly along the high water line of the Middle Fork of the Smith River to its intersection with the northern boundary of tract 38, T. 17 N., R. 3 E.; thence, westerly along the northern boundary of said tract 38 to its intersection with said track 37; thence, northerly along the eastern boundary of said tract 37 to the point of beginning.
 
 #### (c) Conditions of transfer
 

@@ -6,7 +6,7 @@ The Attorney General shall use not more than 5 percent of the funds available un
 
 #### (b) Renewal of grants
 
-A grant under this part <sup>1</sup> may be renewed for up to 2 additional years after the first fiscal year during which the recipient receives its initial grant under this part,<sup>1</sup> subject to the availability of funds, if—
+A grant under this part <sup>1</sup> may be renewed for up to 2 additional years after the first fiscalyear during which the recipient receives its initial grant under this part,<sup>1</sup> subject to the availability of funds, if—
 
 &emsp;(1) the Attorney General determines that the funds made available to the recipient during the previous years were used in a manner required under the approved application; and
 

@@ -6,7 +6,7 @@ The Secretary shall establish a research and education program concerning integr
 
 &emsp;(1) to encourage producers to adopt integrated crop and livestock management practices and systems that minimize or abate adverse environmental impacts, reduce soil erosion and loss of water and nutrients, enhance the efficient use of on-farm and off-farm inputs, and maintain or increase profitability and long-term productivity;
 
-&emsp;(2) to develop knowledge and information on integrated crop and livestock management systems and practices to assist agricultural producers in the adoption of these systems and practices;
+&emsp;(2) to develop knowledge and information on integrated crop and livestock managementsystems and practices to assist agricultural producers in the adoption of these systems and practices;
 
 &emsp;(3) to accumulate and analyze information on agricultural production practices researched or developed under programs established under this subchapter, chapter 86 of this title, and other appropriate programs of the Department of Agriculture to further the development of integrated crop and livestock management systems;
 

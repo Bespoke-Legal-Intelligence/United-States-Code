@@ -232,5 +232,5 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 10 sections 2371a, 2491, 2519; title 23 sections 307, 403; title 33 section 2313; title 42 sections 2123, 13541; title 49 section 309.
+This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 10 sections 2371a, 2500, 2519; title 23 sections 307, 403; title 33 section 2313; title 42 sections 2123, 13541; title 49 section 309.
 

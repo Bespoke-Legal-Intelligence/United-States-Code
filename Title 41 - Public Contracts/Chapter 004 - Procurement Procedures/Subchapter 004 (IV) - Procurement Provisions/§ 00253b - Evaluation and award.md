@@ -54,7 +54,7 @@ Sealed bids shall be opened publicly at the time and place stated in the solicit
 
 #### (f) Preaward debriefings
 
-(1) When the contracting officer excludes an offeror submitting a competitive proposal from the competitive range (or otherwise excludes such an offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within 3 days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award. The contracting officer shall make every effort to debrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Government to conduct a debriefing at that time.
+(1) When the contracting officer excludes an offeror submitting a competitive proposal fromthe competitive range (or otherwise excludes such an offeror from further consideration prior to the final source selection decision), the excluded offeror may request in writing, within 3 days after the date on which the excluded offeror receives notice of its exclusion, a debriefing prior to award. The contracting officer shall make every effort to debrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Government to conduct a debriefing at that time.
 
 (2) The contracting officer is required to debrief an excluded offeror in accordance with subsection (e) of this section only if that offeror requested and was refused a preaward debriefing under paragraph (1) of this subsection.
 
@@ -64,7 +64,7 @@ Sealed bids shall be opened publicly at the time and place stated in the solicit
 
 &emsp;(B) a summary of the rationale for the offeror's exclusion; and
 
-&emsp;(C) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, andother applicable authorities were followed by the executive agency.
+&emsp;(C) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the executive agency.
 
 (4) The debriefing conducted pursuant to this subsection may not disclose the number or identity of other offerors and shall not disclose information about the content, ranking, or evaluation of other offerors’ proposals.
 
@@ -122,7 +122,7 @@ If, in connection with a protest, the head of an executive agency determines tha
 
 (3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-(June 30, 1949, ch. 288, title III, §303B, as added July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(2), 98 Stat. 1179; amended Oct. 30, 1984, Pub. L. 98–577, title II, §201(a), 98 Stat. 3068; Oct. 13, 1994, Pub. L. 103–355, title I, §§1061(c), 1063–1066, 108 Stat. 3267–3269; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLI, §§4103(b), 4104(b), div. E, title LVI, §5607(c), 110 Stat. 644, 645, 701; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §821(b), title X, §1074(b)(7), 110 Stat. 2609, 2660.)
+(June 30, 1949, ch. 288, title III, §303B, as added Pub. L. 98–369, div. B, title VII, §2711(a)(2), July 18, 1984, 98 Stat. 1179; amended Pub. L. 98–577, title II, §201(a), Oct. 30, 1984, 98 Stat. 3068; Pub. L. 103–355, title I, §§1061(c), 1063–1066, Oct. 13, 1994, 108 Stat. 3267–3269; Pub. L. 104–106, div. D, title XLI, §§4103(b), 4104(b), div. E, title LVI, §5607(c), Feb. 10, 1996, 110 Stat. 644, 645, 701; Pub. L. 104–201, div. A, title VIII, §821(b), title X, §1074(b)(7), Sept. 23, 1996, 110 Stat. 2609, 2660.)
 
 #### References in Text
 
@@ -202,7 +202,7 @@ Ex. Ord. No. 12979, Oct. 25, 1995, 60 F.R. 55171, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure effective and efficient expenditure of public funds and fair and expeditious resolution of protests to the award of Federal procurement contracts, it is hereby ordered as follows:
 
-Section 1. Heads of executive departments and agencies (“agencies”) engaged in the procurement of supplies and services shall prescribe administrative procedures for the resolution of protests to the award oftheir procurement contracts as an alternative to protests in fora outside the procuring agencies. Procedures prescribed pursuant to this order shall:
+Section 1. Heads of executive departments and agencies (“agencies”) engaged in the procurement of supplies and services shall prescribe administrative procedures for the resolution of protests to the award of their procurement contracts as an alternative to protests in fora outside the procuring agencies. Procedures prescribed pursuant to this order shall:
 
 (a) emphasize that whenever conduct of a procurement is contested, all parties should use their best efforts to resolve the matter with agency contracting officers;
 

@@ -14,7 +14,7 @@ This subchapter does not give the Comptroller General exclusive jurisdiction ove
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date
 
@@ -23,4 +23,8 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 #### Nonexclusivity of GAO Remedies
 
 Section 12(f) of Pub. L. 104–320 provided that: “In the event that the bid protest jurisdiction of the district courts of the United States is terminated pursuant to subsection (d) \[set out as a note under section 1491 of Title 28, Judiciary and Judicial Procedure\], then section 3556 of title 31, United States Code, shall be amended by striking ‘a court of the United States or’ in the first sentence.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 3862.
 

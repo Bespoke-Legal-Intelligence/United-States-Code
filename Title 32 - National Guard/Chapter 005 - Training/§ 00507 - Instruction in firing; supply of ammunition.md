@@ -1,6 +1,6 @@
 ### §507. Instruction in firing; supply of ammunition
 
-Ammunition for instruction in firing and for target practice may be furnished, in suchamounts as may be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, to units of the National Guard encamped at a post, camp, or air base. The instruction shall be under the direction of a commissioned officer selected for that purpose by the proper military commander.
+Ammunition for instruction in firing and for target practice may be furnished, in such amounts as may be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, to units of the National Guard encamped at a post, camp, or air base. The instruction shall be under the direction of a commissioned officer selected for that purpose by the proper military commander.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 612.)
 

@@ -2,7 +2,7 @@
 
 To the extent that the appropriations of the General Services Administration not otherwise required are inadequate therefor, the Administrator of General Services may require each Federal agency to which leased space has been assigned to pay promptly by check to the Administrator of General Services out of its available appropriations, either in advance or during occupancy of such space, all or part of the estimated cost of rent, repairs, alterations, maintenance, operation, and moving: <i>Provided</i>, That when space in a building is occupied by two or more agencies, the Administrator of General Services shall determine and equitably apportion rental, operation, and other charges on the basis of the total amount of space so leased.
 
-(Aug. 27, 1935, ch. 744, §3, 49 Stat. 886; July 18, 1940, ch. 635, §3, 54 Stat. 765; June 14, 1946, ch. 404, §4, 60 Stat. 257; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; July 2, 1958, Pub. L. 85–493, §2, 72 Stat. 294.)
+(Aug. 27, 1935, ch. 744, §3, 49 Stat. 886; July 18, 1940, ch. 635, §3, 54 Stat. 765; June 14, 1946, ch. 404, §4, 60 Stat. 257; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; Pub. L. 85–493, §2, July 2, 1958, 72 Stat. 294.)
 
 #### Amendments
 

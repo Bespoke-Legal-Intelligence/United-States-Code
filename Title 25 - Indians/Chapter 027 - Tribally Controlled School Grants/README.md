@@ -52,7 +52,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2001, 2008, 2026, 3207 of this title; title 20 section 7813.
+This chapter is referred to in sections 2001, 2008, 2026, 3207 of this title; title 20 sections 7813, 8064.
 
 
 ---

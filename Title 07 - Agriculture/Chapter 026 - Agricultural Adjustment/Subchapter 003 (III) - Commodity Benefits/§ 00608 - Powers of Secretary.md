@@ -32,7 +32,7 @@ Subject to the provisions of subsection (1) of this section, the Secretary of Ag
 
 Whenever, during a period during which any of the powers conferred in subsection (2) or (3) of this section is being exercised, the Secretary of Agriculture has reason to believe that, with respect to any basic agricultural commodity:
 
-&emsp;(a) The current average farm price for such commodity is not less than the fair exchange value thereof, and the average farm price forsuch commodity is not likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, or
+&emsp;(a) The current average farm price for such commodity is not less than the fair exchange value thereof, and the average farm price for such commodity is not likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, or
 
 &emsp;(b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that none of the powers conferred in subsections (2) and (3) of this section, and no combination of such powers, would, if exercised, tend to effectuate the declared policy of this chapter,
 

@@ -6,6 +6,16 @@ Acquisition and Operation of Equipment and Facilities.—(1) Amtrak may acquire,
 
 (2) Amtrak shall operate and control directly, to the extent practicable, all aspects of the rail passenger transportation it provides.
 
+(3)(A) Except as provided in subsection (d)(2), Amtrak may enter into a contract with a motor carrier of passengers for the intercity transportation of passengers by motor carrier over regular routes only—
+
+&emsp;(i) if the motor carrier is not a public recipient of governmental assistance, as such term is defined in section 13902(b)(8)(A) of this title, other than a recipient of funds under section 5311 of this title;
+
+&emsp;(ii) for passengers who have had prior movement by rail or will have subsequent movement by rail; and
+
+&emsp;(iii) if the buses, when used in the provision of such transportation, are used exclusively for the transportation of passengers described in clause (ii).
+
+(B) Subparagraph (A) shall not apply to transportation funded predominantly by a State or local government, or to ticket selling agreements.
+
 (b)
 
 Maintenance and Rehabilitation.—Amtrak may maintain and rehabilitate rail passenger equipment and shall maintain a regional maintenance plan that includes—
@@ -44,6 +54,8 @@ Through Routes and Joint Fares.—(1) Establishing through routes and joint fare
 
 (2) Amtrak may establish through routes and joint fares with any domestic or international motor carrier, air carrier, or water carrier.
 
+(3) Congress encourages Amtrak and motor common carriers of passengers to use the authority conferred in sections 11322 and 14302 of this title for the purpose of providing improved service to the public and economy of operation.
+
 (e)
 
 Rail Police.—Amtrak may employ rail police to provide security for rail passengers and property of Amtrak. Rail police employed by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be employed without regard to the law of another State containing those requirements.
@@ -72,7 +84,7 @@ Domestic Buying Preferences.—(1) In this subsection, “United States” means
 
 &emsp;(B) rolling stock or power train equipment cannot be bought and delivered in the United States within a reasonable time.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 909.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 909; Pub. L. 105–134, title I, §107, Dec. 2, 1997, 111 Stat. 2573.)
 
 Historical and Revision Notes
 
@@ -191,4 +203,30 @@ In subsection (f)(3), the text of 45:545(k)(4)(B) is omitted as executed.
 In subsection (f)(4)(A) and (B), the words “the purchase of” are omitted as surplus.
 
 In subsection (f)(4)(A)(i), the words “imposing” and “with respect to such articles, materials, and supplies” are omitted as surplus.
+
+#### Amendments
+
+1997—Subsec. (a)(3). Pub. L. 105–134, §107(a), added par. (3).
+
+Subsec. (d)(3). Pub. L. 105–134, §107(b), added par. (3).
+
+#### Rail and Motor Carrier Passenger Service
+
+Pub. L. 105–134, title I, §108, Dec. 2, 1997, 111 Stat. 2574, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law (other than section 24305(a)(3) of title 49, United States Code), Amtrak and motor carriers of passengers are authorized—
+
+&emsp;“(1) to combine or package their respective services and facilities to the public as a means of increasing revenues; and
+
+&emsp;“(2) to coordinate schedules, routes, rates, reservations, and ticketing to provide for enhanced intermodal surface transportation.
+
+“(b)
+
+Review.—The authority granted by subsection (a) is subject to review by the Surface Transportation Board and may be modified or revoked by the Board if modification or revocation is in the public interest.”
+
+#### Educational Participation
+
+Pub. L. 105–134, title IV, §412, Dec. 2, 1997, 111 Stat. 2589, provided that: “Amtrak shall participate in educational efforts with elementary and secondary schools to inform students on the advantages of rail travel and the need for rail safety.”
 

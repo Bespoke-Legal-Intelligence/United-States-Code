@@ -6,7 +6,7 @@ Unless the traditional acquisition approach of design-bid-build established unde
 
 #### (b) Criteria for use
 
-A contracting officer shall make a determination whether two-phase selection procedures are appropriate for use for entering into a contract for the design and construction of a public building, facility, or work when the contracting officer anticipates that three or more offers will be received for such contract, design work must be performed before an offeror can develop a price or cost proposal for such contract, the offeror will incur a substantial amount of expense in preparing the offer, and the contracting officer has considered information such as the following:
+A contracting officer shall make a determination whether two-phase selection procedures areappropriate for use for entering into a contract for the design and construction of a public building, facility, or work when the contracting officer anticipates that three or more offers will be received for such contract, design work must be performed before an offeror can develop a price or cost proposal for such contract, the offeror will incur a substantial amount of expense in preparing the offer, and the contracting officer has considered information such as the following:
 
 &emsp;(1) The extent to which the project requirements have been adequately defined.
 
@@ -40,7 +40,7 @@ Two-phase selection procedures consist of the following:
 
 &emsp;&emsp;&emsp;(ii) cost or price information.
 
-&emsp;(3) The evaluation factors to be used in evaluating phase-one proposals are stated in thesolicitation and include specialized experience and technical competence, capability to perform, past performance of the offeror's team (including the architect-engineer and construction members of the team) and other appropriate factors, except that cost-related or price-related evaluation factors are not permitted. Each solicitation establishes the relative importance assigned to the evaluation factors and subfactors that must be considered in the evaluation of phase-one proposals. The agency evaluates phase-one proposals on the basis of the phase-one evaluation factors set forth in the solicitation.
+&emsp;(3) The evaluation factors to be used in evaluating phase-one proposals are stated in the solicitation and include specialized experience and technical competence, capability to perform, past performance of the offeror's team (including the architect-engineer and construction members of the team) and other appropriate factors, except that cost-related or price-related evaluation factors are not permitted. Each solicitation establishes the relative importance assigned to the evaluation factors and subfactors that must be considered in the evaluation of phase-one proposals. The agency evaluates phase-one proposals on the basis of the phase-one evaluation factors set forth in the solicitation.
 
 &emsp;(4) The contracting officer selects as the most highly qualified the number of offerors specified in the solicitation to provide the property or services under the contract and requests the selected offerors to submit phase-two competitive proposals that include technical proposals and cost or price information. Each solicitation establishes with respect to phase two—
 
@@ -66,7 +66,7 @@ The Federal Acquisition Regulation shall include guidance—
 
 &emsp;(3) providing for a uniform approach to be used Government-wide.
 
-(June 30, 1949, ch. 288, title III, §303M, as added Feb. 10, 1996, Pub. L. 104–106, div. D, title XLI, §4105(b)(1), 110 Stat. 647.)
+(June 30, 1949, ch. 288, title III, §303M, as added Pub. L. 104–106, div. D, title XLI, §4105(b)(1), Feb. 10, 1996, 110 Stat. 647.)
 
 #### References in Text
 

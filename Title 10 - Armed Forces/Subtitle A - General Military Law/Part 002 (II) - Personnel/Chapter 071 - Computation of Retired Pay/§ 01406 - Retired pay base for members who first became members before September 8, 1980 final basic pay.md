@@ -22,8 +22,8 @@ Disability, warrant officer, and dopma retirement.—In the case of a person who
 
 &nbsp;
 
-| For a member entitled to retired pay under section: | The retired pay base is: |
-| --- | ---: |
+| For a member entitled toretired pay under section: | The retired pay base is: |
+| --- | --- |
 | 1201120212041205 | Monthly basic pay <sup>1</sup> of grade to which member is entitled under section 1372 or to which he was entitled on day before retirement or placement on temporary disability retired list, whichever is higher. |
 |  |  |
 | &nbsp;580126312931305 | Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade. |
@@ -34,7 +34,7 @@ Disability, warrant officer, and dopma retirement.—In the case of a person who
 
 <sup>2</sup> Compute at rates applicable on date of retirement.
 
-<sup>3</sup> For the purposes of this subsection, determine member's retired grade as if sections 3962(b) and 8962(b) did not apply.
+<sup>3</sup> For the purposes of this subsection, determine member's retired grade as if sections 3962 and 8962 did not apply.
 
 &emsp;(2)
 
@@ -51,14 +51,14 @@ In general.—In the case of a member whose retired pay is computed under sectio
 &nbsp;
 
 | For a member entitled toretired pay under section: | The retired pay base is: |
-| --- | ---: |
+| --- | --- |
 | 3911391839203924 | Monthly basic pay of member's retired grade.<sup>1</sup> |
 |  |  |
 | 39143917 | Monthly basic pay to which member was entitled on day before he retired. |
 |  |  |
 | 3992 | Monthly basic pay of grade to which member is advanced on retired list. |
 
-<sup>1</sup> For the purposes of this subsection, determine member's retired grade as if section 3962(b) did not apply.
+<sup>1</sup> For the purposes of this subsection, determine member's retired grade as if section 3962 did not apply.
 
 &emsp;(2)
 
@@ -66,12 +66,12 @@ Rate of basic pay to be used.—The rate of basic pay to be used under paragraph
 
 (d)
 
-Retirement for Members of the Navy and Marine Corps.—In the case of a memberwhose retired pay is computed under section 6333 of this title, who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under section 6330 of this title, the retired pay base or retainer pay base is determined in accordance with the following table.
+Retirement for Members of the Navy and Marine Corps.—In the case of a member whose retired pay is computed under section 6333 of this title, who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under section 6330 of this title, the retired pay base or retainer pay base is determined in accordance with the following table.
 
 &nbsp;
 
 | For a member entitled toretired or retainer pay under section: | The retired pay base orretainer pay base is: |
-| --- | ---: |
+| --- | --- |
 | 6323  6325(a)6383&nbsp;&nbsp; | Basic pay of the grade in which the member retired.<sup>1</sup> |
 |  |  |
 | 6325(b) | Basic pay of the grade the officer would hold if he had not received an appointment described in section 6325(b). |
@@ -97,14 +97,14 @@ In general.—In the case of a member whose retired pay is computed under sectio
 &nbsp;
 
 | For a member entitled toretired pay under section: | The retired pay base is: |
-| --- | ---: |
+| --- | --- |
 | 8911891889208924 | Monthly basic pay of member's retired grade.<sup>1</sup> |
 |  |  |
 | 89148917 | Monthly basic pay to which member was entitled on day before he retired. |
 |  |  |
 | 8992 | Monthly basic pay of grade to which member is advanced on retired list. |
 
-<sup>1</sup> For the purposes of this subsection, determine member's retired grade as if section 8962(b) did not apply.
+<sup>1</sup> For the purposes of this subsection, determine member's retired grade as if section 8962 did not apply.
 
 &emsp;(2)
 
@@ -166,17 +166,19 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;&emsp;(v) Master Chief Petty Officer of the Coast Guard.
 
-(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004.)
-
-#### References in Text
-
-Sections 3962(b) and 8962(b) of this title, referred to in footnotes for tables in subsecs. (b)(1), (c)(1), and (e)(1), were redesignated as sections 3962 and 8962, respectively, of this title by Pub. L. 104–106, div. A, title V, §502(d)(1), Feb. 10, 1996, 110 Stat. 293.
+(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901.)
 
 #### Prior Provisions
 
 A prior section 1406 was renumbered section 12738 of this title.
 
 #### Amendments
+
+1997—Subsec. (b)(1). Pub. L. 105–85 substituted “3962 and 8962” for “3962(b) and 8962(b)” in footnote 3 in table.
+
+Subsec. (c)(1). Pub. L. 105–85, §1073(a)(23)(A), substituted “3962” for “3962(b)” in footnote 1 in table.
+
+Subsec. (e)(1). Pub. L. 105–85, §1073(a)(23)(B), substituted “8962” for “8962(b)” in footnote 1 in table.
 
 1994—Subsec. (b). Pub. L. 103–337 substituted “Subtitle A or E” for “Subtitle A” in subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, in table struck out item for section 1331 which related to monthly basic pay of highest grade held satisfactorily by person at any time in armed forces, renumbered footnotes 3 and 4 as 2 and 3, respectively, and struck out former footnote 2 which provided for computations at rates applicable on date when retired pay is granted, and added par. (2).
 
@@ -190,7 +192,7 @@ Subsec. (i). Pub. L. 100–180, §1314(b)(6), inserted “and Vice Chairmen” a
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Effective Date of 1991 Amendment
 

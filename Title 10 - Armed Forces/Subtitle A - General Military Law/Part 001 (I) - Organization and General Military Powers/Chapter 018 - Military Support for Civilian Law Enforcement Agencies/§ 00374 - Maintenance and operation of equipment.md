@@ -94,7 +94,7 @@ Subsec. (d). Pub. L. 99–661 added subsec. (d).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on orafter such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Counter-Drug Activities; Conditions on Transfers of Funds and Detailing Personnel; Relationship to Other Law
 
@@ -122,9 +122,11 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8080(a)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–104, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 105–56, title VIII, §8071(a), Oct. 8, 1997, 111 Stat. 1235, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8080(a)\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–104.
 
 Pub. L. 104–61, title VIII, §8096(a), Dec. 1, 1995, 109 Stat. 671.
 

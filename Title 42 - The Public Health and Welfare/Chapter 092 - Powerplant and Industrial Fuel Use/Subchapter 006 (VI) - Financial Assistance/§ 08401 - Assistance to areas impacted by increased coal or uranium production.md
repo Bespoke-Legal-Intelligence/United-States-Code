@@ -98,7 +98,7 @@ For the purposes of this section—
 
 #### (f) Reports
 
-Any person regularly engaged in any coal or uranium development activity within an area designated and approved under subsection (a) of this section shall prepare and transmit a report to the Secretary of Energy within 90 days after a written request to such person by the Governor of the State in which such area is located. Such report shall include—
+Any person regularly engaged in any coal or uranium development activity within an area designated and approved under subsection (a) of this section shall prepare and transmit a report to the Secretary of Energy within 90 days aftera written request to such person by the Governor of the State in which such area is located. Such report shall include—
 
 &emsp;(1) projected employment levels for such activity by such person within such area during each of the following 3 calendar years;
 
@@ -120,7 +120,7 @@ The Secretary of Agriculture shall carry out his responsibilities under this sec
 
 #### (i) Protection from certain hazardous actions
 
-Federal agencies having responsibilities concerning the health and safety of any person working in any coal, uranium, metal, or nonmetallic mine regulated by any Federal agencyshall interpret and utilize their authorities fully and promptly, including the promulgation of standards and regulations, to protect existing and future housing, property, persons, and public facilities located adjacent to or near active and abandoned coal, uranium, metal, and nonmetallic mines from actions occurring at such activities that pose a hazard to such property or persons.
+Federal agencies having responsibilities concerning the health and safety of any person working in any coal, uranium, metal, or nonmetallic mine regulated by any Federal agency shall interpret and utilize their authorities fully and promptly, including the promulgation of standards and regulations, to protect existing and future housing, property, persons, and public facilities located adjacent to or near active and abandoned coal, uranium, metal, and nonmetallic mines from actions occurring at such activities that pose a hazard to such property or persons.
 
 #### (j) Reorganization
 

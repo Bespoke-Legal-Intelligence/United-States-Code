@@ -40,13 +40,13 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (4) Entitlement under another system
 
-&emsp;Credit toward retirement under the system shall not be allowed for any period of civilian service on the basis of which the participant is receiving (or will in the future be entitled to receive) an annuity under another retirement system for Government employees, unless the right to such annuity is waived and a deposit is made under paragraph (1) covering that period of service, or a transfer is made pursuant to subsection (c) of this section.
+&emsp;Credit toward retirement under the system shall not be allowed for any period of civilianservice on the basis of which the participant is receiving (or will in the future be entitled to receive) an annuity under another retirement system for Government employees, unless the right to such annuity is waived and a deposit is made under paragraph (1) covering that period of service, or a transfer is made pursuant to subsection (c) of this section.
 
 #### (c) Transfer from other Government retirement systems
 
 #### (1) In general
 
-&emsp;If an employee who is under another retirement system for Government employees becomes a participant in the system by directtransfer, the Government's contributions (including interest accrued thereon computed in accordance with section 8334(e) of title 5) under such retirement system on behalf of the employee as well as such employee's total contributions and deposits (including interest accrued thereon), except voluntary contributions, shall be transferred to the employee's credit in the fund effective as of the date such employee becomes a participant in the system.
+&emsp;If an employee who is under another retirement system for Government employees becomes a participant in the system by direct transfer, the Government's contributions (including interest accrued thereon computed in accordance with section 8334(e) of title 5) under such retirement system on behalf of the employee as well as such employee's total contributions and deposits (including interest accrued thereon), except voluntary contributions, shall be transferred to the employee's credit in the fund effective as of the date such employee becomes a participant in the system.
 
 #### (2) Consent of employee
 
@@ -110,7 +110,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section (except paragraph (3) of this subsection) or section 2083 of this title, any military service (other than military service covered by military leave with pay from a civilian position) performed by a participant after December 1956 shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to such participant or to the participant's spouse, former spouse, previous spouse, or child is based, if such participant, spouse, former spouse, previous spouse, or child is entitled (or would upon proper application be entitled), atthe time of such determination, to monthly old-age or survivors’ insurance benefits under section 402 of title 42, based on such participant's wages and self-employment income. If the military service is not excluded under the preceding sentence, but upon attaining age 62, the participant or spouse, former spouse, or previous spouse becomes entitled (or would upon proper application be entitled) to such benefits, the aggregate period of service on which the annuity is based shall be redetermined, effective as of the first day of the month in which the participant or spouse, former spouse, or previous spouse attains age 62, so as to exclude such service.
+&emsp;Notwithstanding any other provision of this section (except paragraph (3) of this subsection) or section 2083 of this title, any military service (other than military service covered by military leave with pay from a civilian position) performed by a participant after December 1956 shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to such participant or to the participant's spouse, former spouse, previous spouse, or child is based, if such participant, spouse, former spouse, previous spouse, or child is entitled (or would upon proper application be entitled), at the time of such determination, to monthly old-age or survivors’ insurance benefits under section 402 of title 42, based on such participant's wages and self-employment income. If the military service is not excluded under the preceding sentence, but upon attaining age 62, the participant or spouse, former spouse, or previous spouse becomes entitled (or would upon proper application be entitled) to such benefits, the aggregate period of service on which the annuity is based shall be redetermined, effective as of the first day of the month in which the participant or spouse, former spouse, or previous spouse attains age 62, so as to exclude such service.
 
 #### (2) Limitation
 
@@ -138,7 +138,17 @@ For the purpose of survivor annuities, deposits authorized by subsections (b) an
 
 #### (h) Deposits for periods of military service
 
-(1) Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).
+(1)(A) Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956; except, the amount to be paid for military service performed beginning on January 1, 1999, through December 31, 2002, shall be as follows:
+
+&nbsp;
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| &nbsp; | 7\.25 percent of basic pay | January 1, 1999, to December 31, 1999. |
+| &nbsp; | 7\.4 percent of basic pay | January 1, 2000, to December 31, 2000. |
+| &nbsp; | 7\.5 percent of basic pay | January 1, 2001, to December 31, 2002. |
+
+(B) The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).
 
 (2) Any deposit made under paragraph (1) more than two years after the later of—
 
@@ -152,7 +162,7 @@ For the purpose of survivor annuities, deposits authorized by subsections (b) an
 
 (4) The provisions of section 2031(k) of this title shall apply with respect to such information as the Director determines to be necessary for the administration of this subsection in the same manner that such section applies concerning information described in that section.
 
-(Pub. L. 88–643, title II, §252, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3229.)
+(Pub. L. 88–643, title II, §252, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3229; amended Pub. L. 105–33, title VII, §7001(c)(3), Aug. 5, 1997, 111 Stat. 659.)
 
 #### References in Text
 
@@ -161,6 +171,14 @@ Chapter 67 of title 10, referred to in subsec. (e)(3)(B), was transferred to par
 #### Prior Provisions
 
 A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050; Pub. L. 91–626, §§5, 6, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, §211, Oct. 17, 1976, 90 Stat. 2471; Ex. Ord. No. 12443, §§9–11, 15, Sept. 27, 1983, 48 F.R. 44753, 44755; Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, related to prior service credit and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Amendments
+
+1997—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).”
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -58,7 +58,7 @@ Pub. L. 101–237, §302(c)(1), inserted “and the operations carried out in co
 
 Subsec. (c). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 101–237, §302(c)(2)(A), inserted “for loans closed before January 1, 1990, except that fees collected (A) for all loans made for any purpose specified in section 1812 of this title, or (B) under subsection (b) of such section 1829 for guaranteed or insured loans that are closed before January 1, 1990, and subsequently assumed shall also be deposited in the Fund” after “title” in cl. (2).
+Pub. L. 101–237, §302(c)(2)(A), inserted “for loans closed before January 1, 1990, except that fees collected\(A) for all loans made for any purpose specified in section 1812 of this title, or (B) under subsection (b) of such section 1829 for guaranteed or insured loans that are closed before January 1, 1990, and subsequently assumed shall also be deposited in the Fund” after “title” in cl. (2).
 
 Pub. L. 101–237, §302(c)(2)(B), inserted “(other than operations for which the Guaranty and Indemnity Fund established under section 1825 of this title is available)” after “under this chapter” in cl. (3).
 

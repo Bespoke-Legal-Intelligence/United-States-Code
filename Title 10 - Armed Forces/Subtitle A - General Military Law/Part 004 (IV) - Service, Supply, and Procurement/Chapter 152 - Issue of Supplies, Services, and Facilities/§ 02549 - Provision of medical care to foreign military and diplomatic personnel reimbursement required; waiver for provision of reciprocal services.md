@@ -6,7 +6,7 @@ Reimbursement Required.—Except as provided in subsection (b), whenever the Sec
 
 (b)
 
-Waiver When Reciprocal Services Provided United States Military Personnel.—Notwithstanding subsection (a), the Secretary of Defense may provide inpatient medical care in the United States without cost to military personnel and their dependents from a foreign country if comparable care is made available to a comparable number of United States military personnel and their dependents in that foreign country.
+Waiver When Reciprocal Services Provided United States Military Personnel.—Notwithstanding subsection (a), the Secretary of Defense may provide inpatient medical care inthe United States without cost to military personnel and their dependents from a foreign country if comparable care is made available to a comparable number of United States military personnel and their dependents in that foreign country.
 
 (Added Pub. L. 101–510, div. A, title XIV, §1481(f)(1), Nov. 5, 1990, 104 Stat. 1707.)
 

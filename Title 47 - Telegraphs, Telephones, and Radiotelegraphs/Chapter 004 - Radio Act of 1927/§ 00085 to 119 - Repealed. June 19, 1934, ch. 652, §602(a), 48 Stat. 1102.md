@@ -1,6 +1,6 @@
 ### §§85 to 119. Repealed. June 19, 1934, ch. 652, §602(a), 48 Stat. 1102
 
-Section 85, acts Feb. 23, 1927, ch. 169, §5, 44 Stat. 1164; Mar. 28, 1928, ch. 263, §1, 45 Stat. 373; Mar. 4, 1929, ch. 701, §1, 45 Stat. 1559; Dec. 18, 1929, ch. 7, §1, 46 Stat. 50; May 19, 1932, ch. 192, 47 Stat. 160 related to powers and authority of Secretary of Commerce, appeals to Federal Radio Commission, grant of station license, and waiver affecting wave length. See sections 155, 303(<i>l</i>) to (p), 304, and 307 to 309 of this title.
+Section 85, acts Feb. 23, 1927, ch. 169, §5, 44 Stat. 1164; Mar. 28, 1928, ch. 263, §1, 45 Stat. 373; Mar. 4, 1929, ch. 701, §1, 45 Stat. 1559; Dec. 18, 1929, ch. 7, §1, 46 Stat. 50;May 19, 1932, ch. 192, 47 Stat. 160 related to powers and authority of Secretary of Commerce, appeals to Federal Radio Commission, grant of station license, and waiver affecting wave length. See sections 155, 303(<i>l</i>) to (p), 304, and 307 to 309 of this title.
 
 Section 86, act Feb. 23, 1927, ch. 169, §6, 44 Stat. 1165, related to government radio stations, regulations, control of all stations by government in national emergency and stations on vessels. See sections 305(a), (b) and 606(c) of this title.
 

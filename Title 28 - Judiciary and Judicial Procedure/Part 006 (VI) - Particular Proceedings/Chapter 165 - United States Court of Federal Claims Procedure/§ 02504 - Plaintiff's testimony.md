@@ -1,8 +1,8 @@
 ### §2504. Plaintiff's testimony
 
-The United States Court of Federal Claims may, at the instance of the Attorney General, order any plaintiff to appear, upon reasonable notice, before any judge of the court and be examined on oath as to all matters pertaining to his claim. Such examination shall be reduced to writing by the judge, and shall be returned to and filed in the court, and may, at the discretion of the attorneys for the United States, beread and used as evidence on the trial. If any plaintiff, after such order is made and due and reasonable notice thereof is given to him, fails to appear, or refuses to testify or answer fully as to all material matters within his knowledge, the court may order that the case shall not be tried until he fully complies with such order.
+The United States Court of Federal Claims may, at the instance of the Attorney General, order any plaintiff to appear, upon reasonable notice, before any judge of the court and be examined on oath as to all matters pertaining to his claim. Such examination shall be reduced to writing by the judge, and shall be returned to and filed in the court, and may, at the discretion of the attorneys for the United States, be read and used as evidence on the trial. If any plaintiff, after such order is made and due and reasonable notice thereof is given to him, fails to appear, or refuses to testify or answer fully as to all material matters within his knowledge, the court may order that the case shall not be tried until he fully complies with such order.
 
-(June 25, 1948, ch. 646, 62 Stat. 976; Apr. 2, 1982, Pub. L. 97–164, title I, §139(c), 96 Stat. 42; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 976; Pub. L. 97–164, title I, §139(c), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -14,9 +14,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”, and “judge” for “commissioner” wherever appearing.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”, and “judge” for “commissioner” wherever appearing.
 
 #### Effective Date of 1992 Amendment
 

@@ -12,5 +12,5 @@
 
 #### Department of Defense Support for Science, Mathematics, and Engineering Education
 
-Pub. L. 102–190, div. A, title VIII, §829, Dec. 5, 1991, 105 Stat. 1444, directed Secretary of Defense to develop and submit to Congress a master plan for activities by Department of Defense during each of fiscal years 1993 through 1997 to support education in science, mathematics, and engineering at all levels of education in the United States, with each such plan to be developed in consultation with Secretary of Education, prior to repeal by Pub. L. 104–106, div. A, title X, §1063(c), Feb. 10, 1996, 110 Stat. 444.
+Pub. L. 102–190, div. A, title VIII, §829, Dec. 5, 1991, 105 Stat. 1444, directed Secretary of Defense to develop and submit to Congress a master plan for activities by Department of Defense during each of fiscal years 1993through 1997 to support education in science, mathematics, and engineering at all levels of education in the United States, with each such plan to be developed in consultation with Secretary of Education, prior to repeal by Pub. L. 104–106, div. A, title X, §1063(c), Feb. 10, 1996, 110 Stat. 444.
 

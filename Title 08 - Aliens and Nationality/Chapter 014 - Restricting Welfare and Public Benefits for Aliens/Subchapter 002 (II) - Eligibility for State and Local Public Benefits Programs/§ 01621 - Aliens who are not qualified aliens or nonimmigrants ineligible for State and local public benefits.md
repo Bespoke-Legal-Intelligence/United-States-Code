@@ -22,7 +22,7 @@ Subsection (a) of this section shall not apply with respect to the following Sta
 
 &emsp;(3) Public health assistance for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
-&emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
+&emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C)are necessary for the protection of life or safety.
 
 #### (c) “State or local public benefit” defined
 
@@ -34,23 +34,33 @@ Subsection (a) of this section shall not apply with respect to the following Sta
 
 (2) Such term shall not apply—
 
-&emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States; or
+&emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect; or
 
 &emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Secretary of State, after consultation with the Attorney General.
 
-(3) Such term does not include any Federal public benefit under section 1611(c) <sup>1</sup> of this title.
+(3) Such term does not include any Federal public benefit under section 1611(c) of this title.
 
 #### (d) State authority to provide for eligibility of illegal aliens for State and local public benefits
 
 A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) of this section only through the enactment of a State law after August 22, 1996, which affirmatively provides for such eligibility.
 
-(Pub. L. 104–193, title IV, §411, Aug. 22, 1996, 110 Stat. 2268.)
+(Pub. L. 104–193, title IV, §411, Aug. 22, 1996, 110 Stat. 2268; Pub. L. 105–33, title V, §§5565, 5581(b)(1), Aug. 5, 1997, 111 Stat. 639, 642.)
 
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsecs. (a)(2) and (c)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 1611(c) of this title, referred to in subsec. (c)(3), was in the original “section 4001(c)”, meaning section 4001(c) of Pub. L. 104–193, which was translated as reading section 401(c) to reflect the probable intent of Congress, because Pub. L. 104–193 does not contain a section 4001 and section 401(c) relates to Federal public benefits.
+Section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658, referred to in subsec. (c)(2)(A), means section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of Title 48, Territories and Insular Possessions, and section 141 of the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of Title 48.
+
+#### Amendments
+
+1997—Subsec. (c)(2)(A). Pub. L. 105–33, §5565, inserted before semicolon “, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect”.
+
+Subsec. (c)(3). Pub. L. 105–33, §5581(b)(1), made technical amendment to reference in original act which appears in text as reference to section 1611(c) of this title.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
 #### Pilot Programs on Limiting Issuance of Driver's License to Illegal Aliens
 
@@ -58,7 +68,7 @@ Pub. L. 104–208, div. C, title V, §502, Sept. 30, 1996, 110 Stat. 3009–671,
 
 “(a)
 
-In General.—Pursuant to guidelines prescribed by the Attorney General not later than 6 months after the date of the enactment of this Act \[Sept. 30, 1996\], all States may conduct pilot programs within their State to determine the viability, advisability, and cost-effectiveness of the State's denying driver's licenses toaliens who are not lawfully present in the United States. Under a pilot program a State may deny a driver's license to aliens who are not lawfully present in the United States. Such program shall be conducted in cooperation with relevant State and local authorities.
+In General.—Pursuant to guidelines prescribed by the Attorney General not later than 6 months after the date of the enactment of this Act \[Sept. 30, 1996\], all States may conduct pilot programs within their State to determine the viability, advisability, and cost-effectiveness of the State's denying driver's licenses to aliens who are not lawfully present in the United States. Under a pilot program a State may deny a driver's license to aliens who are not lawfully present in the United States. Such program shall be conducted in cooperation with relevant State and local authorities.
 
 “(b)
 
@@ -66,7 +76,5 @@ Report.—Not later than 3 years after the date of the enactment of this Act, th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1183a, 1632, 1642 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 1183a, 1625, 1632, 1642 of this title.
 

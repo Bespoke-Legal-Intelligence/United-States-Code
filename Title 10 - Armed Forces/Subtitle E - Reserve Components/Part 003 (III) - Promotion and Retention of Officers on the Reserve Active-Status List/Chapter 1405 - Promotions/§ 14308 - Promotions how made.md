@@ -26,9 +26,9 @@ Officers With Running Mates.—An officer to whom a running mate system applies 
 
 Army Reserve and Air Force Reserve Promotions To Fill Vacancies.—Subject to this section and to section 14311(e) of this title, and under regulations prescribed by the Secretary of the military department concerned—
 
-&emsp;(1) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) of this title or a board convened undersection 14502 or chapter 36 of this title may be promoted at any time to fill a vacancy in a position to which the officer is assigned; and
+&emsp;(1) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) of this title or a board convened under section 14502 or chapter 36 of this title may be promoted at any time to fill a vacancy in a position to which the officer is assigned; and
 
-&emsp;(2) an officer in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a vacancy promotion board convened under section 14101(a) of this title may be promoted at any time to fill the vacancy for which the officer was selected.
+&emsp;(2) an officer in a grade below colonel in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a vacancy promotion board convened under section 14101(a) of this title may be promoted at any time to fill the vacancy for which the officer was selected.
 
 (f)
 
@@ -36,13 +36,19 @@ Effective Date of Promotion After Federal Recognition.—The effective date of a
 
 (g)
 
-Army and Air Force General Officer Promotions.—A reserve officer of the Army who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army. A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.
+Army and Air Force General Officer Promotions.—A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, §514(c), Nov. 18, 1997, 111 Stat. 1732.)
 
 #### Prior Provisions
 
 Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
+
+#### Amendments
+
+1997—Subsec. (e)(2). Pub. L. 105–85, §514(c)(1), inserted “a grade below colonel in” after “an officer in”.
+
+Subsec. (g). Pub. L. 105–85, §514(c)(2), inserted “or the Air Force” after “A reserve officer of the Army”, substituted “in the Army Reserve or the Air Force Reserve, as the case may be, in that grade” for “in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army”, and struck out at end “A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.”
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ From and after payment of the above accrued taxes said 25 per centum shall be ac
 
 (c) Twenty-five per centum to be available for the administration of sections 1181a to 1181f of this title, in such annual amounts as the Congress shall from time to time determine. Any part of such per centum not used for administrative purposes shall be covered into the general fund of the Treasury of the United States: <i>Provided</i>, That moneys covered into the Treasury in such manner shall be used to satisfy the reimbursable charges against the Oregon and California land-grant fund mentioned in subsection (b) of this section so long as any such charges shall exist.
 
-(Aug. 28, 1937, ch. 876, title II, §201, 50 Stat. 875; June 24, 1954, ch. 357, §1(b), 68 Stat. 271; Apr. 21, 1976, Pub. L. 94–273, §2(28), 90 Stat. 376.)
+(Aug. 28, 1937, ch. 876, title II, §201, 50 Stat. 875; June 24, 1954, ch. 357, §1(b), 68 Stat. 271; Pub. L. 94–273, §2(28), Apr. 21, 1976, 90 Stat. 376.)
 
 #### References in Text
 
@@ -62,7 +62,7 @@ Payments.—
 
 &emsp;“(1)
 
-In general.—In lieu of making the 50-percent payments to counties, the Secretary of the Treasury shall make payments, out of any money in the Treasury not otherwise appropriated, to counties that are eligible to receive the 50-percent payments as of the date of enactment of this Act \[Aug. 10, 1993\] in accordance with paragraph (2).
+In general.—In lieu of making the 50-percent payments to counties, the Secretary of the Treasuryshall make payments, out of any money in the Treasury not otherwise appropriated, to counties that are eligible to receive the 50-percent payments as of the date of enactment of this Act \[Aug. 10, 1993\] in accordance with paragraph (2).
 
 &emsp;“(2)
 

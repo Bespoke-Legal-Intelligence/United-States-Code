@@ -22,7 +22,7 @@ Perfection.—The term “perfection”, as related to a security interest, mean
 
 (b)
 
-Requirements for Perfection of Security Interest.—A security interest in a motor vehicle owned by, or in the possession and use of, a carrier registered under section 13902 of this title and owing payment or performance of an obligation secured by that security interest is perfected in all jurisdictions against all general, and subsequent lien, creditors of, and all persons taking a motor vehicle by sale (or taking or retaining a security interest in a motor vehicle) from, that carrier when—
+Requirements for Perfection of Security Interest.—A security interest in a motor vehicle owned by, or in the possession and use of, a carrier registered under section 13902 of this title and owing payment or performance ofan obligation secured by that security interest is perfected in all jurisdictions against all general, and subsequent lien, creditors of, and all persons taking a motor vehicle by sale (or taking or retaining a security interest in a motor vehicle) from, that carrier when—
 
 &emsp;(1) a certificate of title is issued for a motor vehicle under a law of a jurisdiction that requires or permits indication, on a certificate or title, of a security interest in the motor vehicle if the security interest is indicated on the certificate;
 

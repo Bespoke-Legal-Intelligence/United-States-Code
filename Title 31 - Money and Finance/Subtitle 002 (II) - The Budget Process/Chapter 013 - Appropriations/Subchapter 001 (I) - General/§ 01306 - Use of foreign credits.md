@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Foreign credits (including currencies) owed to or owned by the United States may be used by any agency for any purpose for which appropriations are made for the agency for the current fiscal year (including the carrying out of Acts requiring or authorizing the use of such credits), but only when reimbursement therefor is made to the Treasury from applicable appropriations of the agency.
+In General.—Foreign credits (including currencies) owed to or owned by the United States may be used by any agency for any purpose for which appropriations are made for the agency for the current fiscal year (including the carrying out of Acts requiring or authorizingthe use of such credits), but only when reimbursement therefor is made to the Treasury from applicable appropriations of the agency.
 
 (b)
 

@@ -46,7 +46,7 @@ Historical and Revision Notes
 
 July 25, 1956, ch. 730, §1, 70 Stat. 652.
 
-In subsection (a), the words, “Executive agency” are substituted for “department, agency, or independent establishment of the executive branch of the FederalGovernment (including any corporation wholly owned by the United States)” in view of the definition of “Executive agency” in section 105. The exception of “a Government controlled corporation” is subsection (b) (2) is added to preserve the application to corporations wholly owned by the United States.
+In subsection (a), the words, “Executive agency” are substituted for “department, agency, or independent establishment of the executive branch of the Federal Government (including any corporation wholly owned by the United States)” in view of the definition of “Executive agency” in section 105. The exception of “a Government controlled corporation” is subsection (b) (2) is added to preserve the application to corporations wholly owned by the United States.
 
 The exception of “the General Accounting Office” in subsection (b)(3) is added to preserve application to the executive branch.
 

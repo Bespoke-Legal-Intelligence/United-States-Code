@@ -1,0 +1,164 @@
+### §254d. National Health Service Corps
+
+#### (a) Establishment; composition; purpose; definitions
+
+(1) For the purpose of eliminating health manpower shortages in health professional shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—
+
+&emsp;(A) such officers of the Regular and Reserve Corps of the Service as the Secretary may designate,
+
+&emsp;(B) such civilian employees of the United States as the Secretary may appoint, and
+
+&emsp;(C) such other individuals who are not employees of the United States.
+
+(2) The Corps shall be utilized by the Secretary to provide primary health services in health professional shortage areas.
+
+(3) For purposes of this subpart and subpart III:
+
+&emsp;(A) The term “Corps” means the National Health Service Corps.
+
+&emsp;(B) The term “Corps member” means each of the officers, employees, and individuals of which the Corps consists pursuant to paragraph (1).
+
+&emsp;(C) The term “health professional shortage area” has the meaning given such term in section 254e(a) of this title.
+
+&emsp;(D) The term “primary health services” means health services regarding family medicine, internal medicine, pediatrics, obstetrics and gynecology, dentistry, or mental health, that are provided by physicians or other health professionals.
+
+#### (b) Recruitment and fellowship programs
+
+(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions and at entities which train allied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
+
+(2) In the case of physicians, dentists, certified nurse midwives, certified nurse practitioners, and physician assistants who have an interest and a commitment to providing primary health care, the Secretary may establish fellowship programs to enable such health professionals to gain exposure to and expertise in the delivery of primary health services in health professional shortage areas. To the maximum extent practicable, the Secretary shall ensure that any such programs are established in conjunction with accredited residency programs, and other training programs, regarding such health professions.
+
+#### (c) Travel expenses; persons entitled; reimbursement; limitation
+
+The Secretary may reimburse applicants for positions in the Corps (including individuals considering entering into a written agreement pursuant to section 254n of this title) for actual and reasonable expenses incurred in traveling to and from their places of residence to a health professional shortage area (designated under section 254e of this title) in which they may be assigned for the purpose of evaluating such area with regard to being assigned in such area. The Secretary shall not reimburse an applicant for more than one such trip.
+
+#### (d) Monthly pay adjustments of members directly engaged in delivery of health services in health professional shortage area; “monthly pay” defined; monthly pay adjustment of member with service obligation incurred under Scholarship Program or Loan Repayment Program; personnel system applicable
+
+(1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
+
+&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
+
+&emsp;(B) During the period beginning upon the expiration of the 36 months referred to in subparagraph (A) and ending with the month in which the member's monthly pay and allowances are equal to or exceed the monthly income he received for the last of such 36 months, the member may receive in addition to his monthly pay and allowances an amount which when added to such monthly pay and allowances equals the monthly income he received for such last month.
+
+&emsp;(C) For each month in which a member is directly engaged in the delivery of health services in a health professional shortage area in accordance with an agreement with the Secretary entered into under section 294n(f)(1)(C) <sup>1</sup> of this title, under which the Secretary is obligated to make payments in accordance with section 294n(f)(2) <sup>1</sup> of this title, the amount of any monthly increase under subparagraph (A) or (B) with respect to such member shall be decreased by an amount equal to one-twelfth of the amount which the Secretary is obligated to pay upon the completion of the year of practice in which such month occurs.
+
+> For purposes of subparagraphs (A) and (B), the term “monthly pay” includes special pay received under chapter 5 of title 37.
+
+(2) In the case of a member of the Corps who is directly engaged in the delivery of health services in a health professional shortage area in accordance with a service obligation incurred under the Scholarship Program or the Loan Repayment Program, the adjustment in pay authorized by paragraph (1) may be made for such a member only upon satisfactory completion of such service obligation, and the first 36 months of such member's being so engaged in the delivery of health services shall, for purposes of paragraph (1)(A), be deemed to begin upon such satisfactory completion.
+
+(3) A member of the Corps described in subparagraph (C) of subsection (a)(1) of this section shall when assigned to an entity under section 254f of this title be subject to the personnel system of such entity, except that such member shall receive during the period of assignment the income that the member would receive if the member was a member of the Corps described in subparagraph (B) of such subsection.
+
+#### (e) Employment ceiling of Department not affected by Corps members
+
+Corps members assigned under section 254f of this title to provide health services in health professional shortage areas shall not be counted against any employment ceiling affecting the Department.
+
+#### (f) Assignment of personnel provisions inapplicable to members whose service obligation incurred under Scholarship Program or Loan Repayment Program
+
+Sections 215 and 217 of this title shall not apply to members of the National Health Service Corps during their period of obligated service under the Scholarship Program or the Loan Repayment Program.
+
+#### (g) Conversion from Corps member to commissioned officer; retirement credits
+
+(1) The Secretary shall, by rule, prescribe conversion provisions applicable to any individual who, within a year after completion of service as a member of the Corps described in subsection (a)(1)(C) of this section, becomes a commissioned officer in the Regular or Reserve Corps of the Service.
+
+(2) The rules prescribed under paragraph (1) shall provide that in applying the appropriate provisions of this chapter which relate to retirement, any individual who becomes such an officer shall be entitled to have credit for any period of service as a member of the Corps described in subsection (a)(1)(C) of this section.
+
+#### (h) Effective administration of program
+
+The Secretary shall ensure that adequate staff is provided to the Service with respect to effectively administering the program for the Corps.
+
+#### (i) Definitions
+
+For the purposes of this subpart and subpart III:
+
+&emsp;(1) The term “Department” means the Department of Health and Human Services.
+
+&emsp;(2) The term “Loan Repayment Program” means the National Health Service Corps Loan Repayment Program established under section 254<i>l</i>–1 of this title.
+
+&emsp;(3) The term “Scholarship Program” means the National Health Service Corps Scholarship Program established under section 254<i>l</i> of this title.
+
+&emsp;(4) The term “State” includes, in addition to the several States, only the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
+
+(July 1, 1944, ch. 373, title III, §331, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(3), 90 Stat. 2268; amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2701, 95 Stat. 902; Dec. 1, 1987, Pub. L. 100–177, title II, §202(b), title III, §301, 101 Stat. 996, 1003; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(2), 102 Stat. 3146; Nov. 16, 1990, Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], 104 Stat. 3013, 3035.)
+
+#### References in Text
+
+Section 294n of this title, referred to in subsec. (d)(1)(C), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiencysyndrome, which was classified to section 294n of this title, and subsequently renumbered section 2692 and transferred to section 300ff–111 of this title.
+
+#### Amendments
+
+1990—Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in pars. (1), (2), and (3)(C).
+
+Pub. L. 101–597, §101(a), designated existing provisions as par. (1), substituted “For the purpose of eliminating health manpower shortages in health manpower shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—” for “There is established, within the Service, the National Health Service Corps (hereinafter in this subpart referred to as the ‘Corps’) which (1) shall consist of—”, substituted “States.” for “States,” at end of subpar. (C), struck out closing provisions which read “(such officers, employees, and individuals hereinafter in this subpart referred to as ‘Corps members’), and (2) shall be utilized by the Secretary to improve the delivery of health services in health manpower shortage areas as defined in section 254e(a) of this title.”, and added pars. (2) and (3).
+
+Subsec. (b). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2).
+
+Pub. L. 101–597, §101(b), designated existing provision as par. (1), inserted at end “Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.”, and added par. (2).
+
+Subsec. (c). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+
+Subsec. (d)(1). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in introductory provisions and in subpar. (C).
+
+Subsec. (d)(1)(A). Pub. L. 101–597, §101(c), struck out “(not to exceed $1,000)” after “by an amount”.
+
+Subsecs. (d)(2), (e). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
+
+Subsec. (h). Pub. L. 101–597, §101(d), added subsec. (h) and struck out former subsec. (h) which read as follows: “In assigning members of the Corps to health manpower shortage areas, to the extent practicable, the Secretary shall—
+
+&emsp;“(1) give priority to meeting the needs of the Indian Health Service and the needs of health programs or facilities operated by tribes or tribal organizations under the Indian Self-Determination Act (25 U.S.C. 450f et seq.); and
+
+&emsp;“(2) provide special consideration to the homeless populations who do not have access to primary health care services.”
+
+Subsec. (i). Pub. L. 101–597, §101(e), substituted “of this subpart and subpart III” for “of this subpart”.
+
+1988—Subsec. (b). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy”.
+
+1987—Subsec. (b). Pub. L. 100–177, §202(b)(1), inserted reference to Loan Repayment Program.
+
+Subsec. (c). Pub. L. 100–177, §202(b)(2), made technical amendment to reference to section 254n of this title to reflect renumbering of corresponding section of original act.
+
+Subsecs. (d)(2), (f). Pub. L. 100–177, §202(b)(3), (4), inserted reference to Loan Repayment Program.
+
+Subsec. (h). Pub. L. 100–177, §301(2), added subsec. (h). Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 100–177, §§202(b)(5), 301(1), redesignated subsec. (h) as (i), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+1981—Subsec. (a)(1). Pub. L. 97–35, §2701(a), revised provisions and, as so revised, set out existing provisions in cls. (A) and (B), and added cl. (C).
+
+Subsec. (b). Pub. L. 97–35, §2701(b), substituted “may” for “shall”.
+
+Subsec. (c). Pub. L. 97–35, §2701(c), inserted provisions respecting a written agreement under section 254n of this title.
+
+Subsec. (d). Pub. L. 97–35, §2701(d), in par. (1) inserted reference to member described in subsec. (a)(1)(C) of this section, in subpars. (1)(A) and (B) substituted “may” for “shall”, and added par. (3).
+
+Subsec. (g). Pub. L. 97–35, §2701(e), substituted provisions relating to conversion from Corps member to commissioned officer and retirement credits, for provisions relating to school participation in development of administrative guidelines.
+
+Subsec. (h). Pub. L. 97–35, §2701(f), in par. (1) substituted “Health and Human Services” for “Health, Education, and Welfare”, in par. (2) substituted “254<i>l</i>” for “294t”, and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than February 1, 1979
+
+Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
+
+#### Effective Date; Other Provisions: Health Manpower Shortage Area; Approval of Applications for Assignment of Corps Personnel; Assignment Period, Commencement; Credit for Months of Prior Health Care and Services for Additional Pay Benefit; National Advisory Council on the National Health Service Corps, Continuation of Council and Appointment of Members
+
+Section 407(c) of Pub. L. 94–484 provided that:
+
+“(1) The amendment made by subsections (a) and (b) \[enacting this subpart and repealing section 254b of this title\] shall apply only with respect to fiscal years beginning after September 30, 1977, except that the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall carry out the activities described in section 332 of the Public Health Service Act (as added by such amendment) \[section 254e of this title\] after the date of enactment of this Act \[Oct. 12, 1976\].
+
+“(2)(A) Any area for which a designation under section 329(b) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 254b(b) of this title\] was in effect on such date and in which National Health Service Corps personnel were, on such date, providing, under an assignment made under such section (as so in effect), health care and services for persons residing in such area shall, effective October 1, 1977, be considered under subpart II of part C of title III of such Act (as added by subsection (b) of this section) \[this subpart\] to (i) be designated a health manpower shortage area (as defined by section 332 of such Act (as so added)) \[section 254e of this title\], and (ii) have had an application approved under section 333 of such Act (as so added)) \[section 254f of this title\] for the assignment of Corps personnel unless, as determined under subparagraph (B) of this paragraph, the assignment period applicable to such area (within the meaning of section 334 (as so added)) \[section 254g of this title\] has expired.
+
+“(B) The assignment period (within the meaning of such section 334) \[section 254g of this title\] applicable to an area described in subparagraph (A) of this paragraph shall be considered to have begun on the date Corps personnel were first assigned to such area under section 329 of such Act (as in effect on September 30, 1977) \[former section 254b of this title\].
+
+“(C) In the case of any physician or dentist member of the Corps who was providing health care and services on September 30, 1977, under an assignment made under section 329(b) of such Act (as in effect on September 30, 1977) \[former section 254b(b) of this title\], the number of the months during which such member provided such care and services before October 1, 1977, shall be counted in determining the application of the additional pay provisions of section 331(d) of such Act (as added by subsection (b) of this section) \[subsec. (d) of this section\] to such number.
+
+“(3) The amendment made by subsection (b) which established an Advisory Council previously established under section 329 of the Public Health Service Act \[former section 254b of this title\] shall not be construed as requiring the establishment of a new Advisory Council under such section 337 \[section 254j of this title\], and the amendment made by such subsection with respect to the composition of such Advisory Council shall apply with respect to appointments made to the Advisory Council after October 1, 1977, and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall make appointments to the Advisory Council after such date in a manner which will bring about, at the earliest feasible time, the Advisory Council composition prescribed by the amendment.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 201, 254f, 254g, 254h, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m of this title; title 25 section 1616a.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

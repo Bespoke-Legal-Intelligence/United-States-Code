@@ -8,7 +8,7 @@ There is established in the Treasury of the United States an account to be known
 
 #### (1) In general
 
-&emsp;On January 1, 1997, October 1, 1998, and October 1, 1999, out of any funds in the Treasury not otherwise appropriated, the Secretary ofthe Treasury shall transfer $100,000,000 to the Account.
+&emsp;On January 1, 1997, October 1, 1998, and October 1, 1999, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $100,000,000 to the Account.
 
 #### (2) Entitlement
 
@@ -70,7 +70,7 @@ There is established in the Treasury of the United States an account to be known
 
 #### (D) Disclosure of allocation
 
-&emsp;&emsp;For any fiscal year, the Secretary shall not disclose the allocation of funds under this section for any activity described in subparagraph (A) until the date that is 1 day after the date of enactment of legislation authorizing appropriations for the Department of Agriculture for any period in the fiscal year.
+&emsp;&emsp;For any fiscal year, the Secretary shall not disclose the allocation of funds under this section for any activity described in subparagraph (A) until the date that is 1 dayafter the date of enactment of legislation authorizing appropriations for the Department of Agriculture for any period in the fiscal year.
 
 #### (2) Research
 

@@ -1,6 +1,6 @@
 ### §8714a. Optional insurance
 
-(a) Under the conditions, directives, and terms specified in sections 8709–8712 of this title, the Office of Personnel Management, without regard to section 5 of title 41, may purchase a policy which shall make available to each insured employee equal amounts of optional life insurance and accidental death and dismemberment insurance in addition to the amounts provided in section 8704(a) of this title.
+(a) Under the conditions, directives, and terms specified in sections 8709–8712 of this title, theOffice of Personnel Management, without regard to section 5 of title 41, may purchase a policy which shall make available to each insured employee equal amounts of optional life insurance and accidental death and dismemberment insurance in addition to the amounts provided in section 8704(a) of this title.
 
 (b) The optional life insurance and accidental death and dismemberment insurance shall be made available to each insured employee under such conditions as the Office shall prescribe and in amounts approved by the Office but not more than the greater of $10,000 or an amount which, when added to the amount provided in section 8704(a) of this title, makes the sum of his insurance equal to his annual pay.
 

@@ -2,7 +2,7 @@
 
 The Secretary of Labor shall annually, at the close of each fiscal year, prepare and submit to Congress the financial statements of the Department that have been audited. He shall also, from time to time, make such special investigations and reports as he may be required to do by the President, or by Congress, or which he himself may deem necessary.
 
-(Mar. 4, 1913, ch. 141, §9, 37 Stat. 738; Dec. 21, 1995, Pub. L. 104–66, title I, §1102(c), 109 Stat. 723.)
+(Mar. 4, 1913, ch. 141, §9, 37 Stat. 738; Pub. L. 104–66, title I, §1102(c), Dec. 21, 1995, 109 Stat. 723.)
 
 #### Codification
 

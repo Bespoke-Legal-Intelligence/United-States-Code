@@ -28,7 +28,7 @@ Such terms, conditions, and limitations as may be prescribed under subsection (a
 
 &emsp;(B) The conservator shall be deemed to have discharged all responsibility of the conservatorship upon the deposit of the proceeds with the district court and giving the required notifications.
 
-(Mar. 9, 1933, ch. 1, title II, §205, 48 Stat. 3; Aug. 9, 1989, Pub. L. 101–73, title VIII, §804, 103 Stat. 443.)
+(Mar. 9, 1933, ch. 1, title II, §205, 48 Stat. 3; Pub. L. 101–73, title VIII, §804, Aug. 9, 1989, 103 Stat. 443.)
 
 #### References in Text
 
@@ -36,7 +36,7 @@ The Federal Deposit Insurance Act, referred to in subsec. (c), is act Sept. 21, 
 
 #### Amendments
 
-1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “If the Comptroller of the Currency becomes satisfied that it may safely be done and that it would be in the public interest, he may, in his discretion, terminate the conservatorship and permit such bank to resume the transaction of its business subject to such terms, conditions, restrictions and limitations as he may prescribe.”
+1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “If the Comptroller of the Currency becomes satisfied that it maysafely be done and that it would be in the public interest, he may, in his discretion, terminate the conservatorship and permit such bank to resume the transaction of its business subject to such terms, conditions, restrictions and limitations as he may prescribe.”
 
 #### Exception as to Transfer of Functions
 

@@ -34,7 +34,7 @@
 
 (5) No reduction in a rate of duty under a trade agreement entered into under subsection (a) of this section on any article may take effect more than 10 years after the effective date of the first reduction under paragraph (1) that is proclaimed to carry out the trade agreement with respect to such article.
 
-(6) A rate of duty reduction or increase that may not be proclaimed by reason of paragraph (2) may take effect only if a provision authorizing such reduction or increase is included within an implementing bill provided for under section 2903 of this title and that bill is enacted into law.
+(6) A rate of duty reduction or increase that may not be proclaimed by reason of paragraph (2) may take effect only if a provision authorizing such reduction or increase is included withinan implementing bill provided for under section 2903 of this title and that bill is enacted into law.
 
 #### (b) Agreements regarding nontariff barriers
 
@@ -72,7 +72,7 @@
 
 (4) The 60-day period of time described in paragraph (3)(C) shall be computed in accordance with section 2903(e) of this title.
 
-(5) In any case in which there is an inconsistency between any provision of this Act and any bilateral free trade area agreement that entered into force and effect with respect to the United States before January 1, 1987, the provision shallnot apply with respect to the foreign country that is party to that agreement.
+(5) In any case in which there is an inconsistency between any provision of this Act and any bilateral free trade area agreement that entered into force and effect with respect to the United States before January 1, 1987, the provision shall not apply with respect to the foreign country that is party to that agreement.
 
 #### (d) Consultation with Congress before agreements entered into
 

@@ -18,7 +18,7 @@ Transportation insurance.—The Secretary may require a registered motor carrier
 
 (b)
 
-Broker Requirements.—The Secretary may register a person as a broker under section 13904 only if the person files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary to ensure that the transportation for which a broker arranges is provided. The registration remains in effect only as long as the broker continues to satisfy the security requirements of this subsection.
+Broker Requirements.—The Secretary may register a person as a broker under section13904 only if the person files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary to ensure that the transportation for which a broker arranges is provided. The registration remains in effect only as long as the broker continues to satisfy the security requirements of this subsection.
 
 (c)
 

@@ -38,7 +38,7 @@ Insurance business, applicability of sections 12 to 27 to, see section 1011 et s
 
 #### Clayton Act Referred to in Other Sections
 
-The Clayton Act \[see References in Text note above\] is referred to in sections 35, 44, 57b–1, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849, 3208; title 16 section 2602; title 30 sections 184, 1413; title 33 sections 1331, 1502; title 40 section 488; title 42 sections 2135, 2297b–11, 5417, 5909, 6202, 8235f, 9102; title 43 section 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
+The Clayton Act \[see References in Text note above\] is referred to in sections 35, 44, 57b–1, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849, 3208; title 16 section 2602; title 30 sections 184, 1413; title 33 section 1331; title 40 section 488; title 42 sections 2135, 2297b–11, 5417, 5909, 6202, 8235f, 9102; title 43 section 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
 
 #### Section Referred to in Other Sections
 

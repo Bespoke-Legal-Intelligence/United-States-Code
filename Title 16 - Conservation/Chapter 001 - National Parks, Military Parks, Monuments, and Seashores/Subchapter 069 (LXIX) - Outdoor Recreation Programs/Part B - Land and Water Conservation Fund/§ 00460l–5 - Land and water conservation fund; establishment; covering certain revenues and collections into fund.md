@@ -50,7 +50,7 @@ Subsec. (c)(1). Pub. L. 91–485, §1(a), substituted “fiscal years 1968, 1969
 
 Subsec. (c)(2). Pub. L. 91–485, §1(b), substituted “$200,000,000 or $300,000,000 for each of such fiscal years, as provided in cl. (1),” for “$200,000,000 for each of such fiscal years,”.
 
-1968—Subsec. (a). Pub. L. 90–401, §1(a), redesignated subsec. (b) as (a). Former subsec. (a), except for the fourth paragraph thereof, established a system of admission and user fees for all Federal recreation areas and was eliminated. The fourth paragraph covering therepeal of provisions prohibiting the collection of recreation fees and user charges was redesignated as section 10 of Pub. L. 88–587 and is set out as section 460<i>l</i>–10c.
+1968—Subsec. (a). Pub. L. 90–401, §1(a), redesignated subsec. (b) as (a). Former subsec. (a), except for the fourth paragraph thereof, established a system of admission and user fees for all Federal recreation areas and was eliminated. The fourth paragraph covering the repeal of provisions prohibiting the collection of recreation fees and user charges was redesignated as section 10 of Pub. L. 88–587 and is set out as section 460<i>l</i>–10c.
 
 Subsecs. (b), (c). Pub. L. 90–401, §§1(a), 2, added subsec. (c) and redesignated former subsecs. (b) and (c) as (a) and (b), respectively.
 
@@ -124,7 +124,7 @@ Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consu
 
 (1) Initial preparation and coordination of the comprehensive statement of estimated requirements during the ensuing fiscal year for appropriations from the Land and Water Conservation Fund, as required by Section 4(a) of the act \[section 460<i>l</i>–7(a) of this title\].
 
-(2) Development of such additional procedures and interpretive materials as are necessary to facilitate the implementation of this Order and related provisions of the Act.
+(2) Development of such additional procedures and interpretive materials as are necessary to facilitate theimplementation of this Order and related provisions of the Act.
 
 (3) Review and revision, if needed, of the criteria for designation set forth in Section 3 of this Order.
 

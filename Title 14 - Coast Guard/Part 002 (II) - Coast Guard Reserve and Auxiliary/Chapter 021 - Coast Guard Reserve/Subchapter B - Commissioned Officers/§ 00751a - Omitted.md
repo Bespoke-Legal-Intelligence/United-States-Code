@@ -6,5 +6,5 @@ Section, added act Aug. 10, 1956, ch. 1041, §15(a), 70A Stat. 624, provided for
 
 #### Women's Branch of the Coast Guard Reserve
 
-Section 3 of Pub. L. 93–174, Dec. 5, 1973, 87 Stat. 692, provided that: “Effective upon enactment of this Act\[Dec. 5, 1973\], all members of the women's branch of the Coast Guard Reserve who were serving on active or inactive duty on the day before enactment shall become members of the Coast Guard Reserve without loss of grade, rate, date of rank, or other benefits earned by their prior service.”
+Section 3 of Pub. L. 93–174, Dec. 5, 1973, 87 Stat. 692, provided that: “Effective upon enactment of this Act \[Dec. 5, 1973\], all members of the women's branch of the Coast Guard Reserve who were serving on active or inactive duty on the day before enactment shall become members of the Coast Guard Reserve without loss of grade, rate, date of rank, or other benefits earned by their prior service.”
 

@@ -2,7 +2,7 @@
 
 The appropriation, “General expenses, Coast Guard,” shall be available, under regulations prescribed by the Secretary of Transportation, for the payment of traveling and subsistence expenses of teachers while actually employed by States or private persons to instruct the children of keepers of lighthouses.
 
-(June 20, 1918, ch. 103, §2, 40 Stat. 608; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938.)
+(June 20, 1918, ch. 103, §2, 40 Stat. 608; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### Transfer of Functions
 

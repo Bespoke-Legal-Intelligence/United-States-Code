@@ -4,7 +4,7 @@
 
 (b) If the judge of a district court is unable to attend and unable to make an order of adjournment, the clerk may adjourn the court to the next regular session or to any earlier day which he may determine.
 
-(June 25, 1948, ch. 646, 62 Stat. 897; Oct. 16, 1963, Pub. L. 88–139, §1, 77 Stat. 248.)
+(June 25, 1948, ch. 646, 62 Stat. 897; Pub. L. 88–139, §1, Oct. 16, 1963, 77 Stat. 248.)
 
 #### Historical and Revision Notes
 
@@ -22,5 +22,5 @@ The provision of subsection (a) authorizing the district court, with the consent
 
 #### Amendments
 
-1963—Subsecs. (a), (b). Pub. L. 88–139 substituted “session” for “term”.
+<b>1963</b>—Subsecs. (a), (b). Pub. L. 88–139 substituted “session” for “term”.
 

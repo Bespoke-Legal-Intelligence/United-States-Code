@@ -82,7 +82,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 #### (d) Placement of foster care children
 
-(1) The Secretary shall make grants for improving State efforts to increase the placement of foster care children legally free for adoption, according to a pre-established plan and goals for improvement. Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanent homes. The Secretary, when reviewing grant applications <sup>1</sup> shall give priority to grantees who propose improvements designed to continue in the absence of Federal funds.
+(1) The Secretary shall make grants for improving State efforts to increase the placementof foster care children legally free for adoption, according to a pre-established plan and goals for improvement. Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanent homes. The Secretary, when reviewing grant applications <sup>1</sup> shall give priority to grantees who propose improvements designed to continue in the absence of Federal funds.
 
 (2)(A) Each State entering into an agreement under this subsection shall submit an application to the Secretary that describes the manner in which the State will use funds during the 3 fiscal years subsequent to the date of the application to accomplish the purposes of this section. Such application shall be in a form and manner determined to be appropriate by the Secretary. Each application shall include verification of the placements described in paragraph (1).
 
@@ -131,6 +131,62 @@ Subsec. (b)(4). Pub. L. 98–457, §203(c)(3)(A), substituted “adoptive family
 Subsec. (b)(5), (6). Pub. L. 98–457, §203(c)(3)(B), (C), added pars. (5) and (6). Former par. (5) redesignated (7).
 
 Subsec. (b)(7). Pub. L. 98–457, §203(c)(3)(C), (D), redesignated former par. (5) as (7) and substituted “Health and Human Services” for “Health, Education, and Welfare”.
+
+#### Kinship Care
+
+Pub. L. 105–89, title III, §303, Nov. 19, 1997, 111 Stat. 2129, provided that:
+
+“(a)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—The Secretary of Health and Human Services shall—
+
+&emsp;&emsp;“(A) not later than June 1, 1998, convene the advisory panel provided for in subsection (b)(1) and prepare and submit to the advisory panel an initial report on the extent to which children in foster care are placed in the care of a relative (in this section referred to as ‘kinship care’); and
+
+&emsp;&emsp;“(B) not later than June 1, 1999, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a final report on the matter described in subparagraph (A), which shall—
+
+&emsp;&emsp;&emsp;“(i) be based on the comments submitted by the advisory panel pursuant to subsection (b)(2) and other information and considerations; and
+
+&emsp;&emsp;&emsp;“(ii) include the policy recommendations of the Secretary with respect to the matter.
+
+&emsp;“(2)
+
+Required contents.—Each report required by paragraph (1) shall—
+
+&emsp;&emsp;“(A) include, to the extent available for each State, information on—
+
+&emsp;&emsp;&emsp;“(i) the policy of the State regarding kinship care;
+
+&emsp;&emsp;&emsp;“(ii) the characteristics of the kinship care providers (including age, income, ethnicity, and race, and the relationship of the kinship care providers to the children);
+
+&emsp;&emsp;&emsp;“(iii) the characteristics of the household of such providers (such as number of other persons in the household and family composition);
+
+&emsp;&emsp;&emsp;“(iv) how much access to the child is afforded to the parent from whom the child has been removed;
+
+&emsp;&emsp;&emsp;“(v) the cost of, and source of funds for, kinship care (including any subsidies such as medicaid and cash assistance);
+
+&emsp;&emsp;&emsp;“(vi) the permanency plan for the child and the actions being taken by the State to achieve the plan;
+
+&emsp;&emsp;&emsp;“(vii) the services being provided to the parent from whom the child has been removed; and
+
+&emsp;&emsp;&emsp;“(viii) the services being provided to the kinship care provider; and
+
+&emsp;&emsp;“(B) specifically note the circumstances or conditions under which children enter kinship care.
+
+“(b)
+
+Advisory Panel.—
+
+&emsp;“(1)
+
+Establishment.—The Secretary of Health and Human Services, in consultation with the Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate, shall convene an advisory panel which shall include parents, foster parents, relative caregivers, former foster children, State and local public officials responsible for administering child welfare programs, private persons involved in the delivery of child welfare services, representatives of tribal governments and tribal courts, judges, and academic experts.
+
+&emsp;“(2)
+
+Duties.—The advisory panel convened pursuant to paragraph (1) shall review the report prepared pursuant to subsection (a), and, not later than October 1, 1998, submit to the Secretary comments on the report.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

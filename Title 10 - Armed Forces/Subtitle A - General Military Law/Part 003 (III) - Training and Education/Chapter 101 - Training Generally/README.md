@@ -15,10 +15,13 @@
 | [2011\.](%C2%A7%2002011%20-%20Special%20operations%20forces%20training%20with%20friendly%20foreign%20forces.md) | Special operations forces: training with friendly foreign forces. |
 | [2012\.](%C2%A7%2002012%20-%20Support%20and%20services%20for%20eligible%20organizations%20and%20activities%20outside%20Department%20of%20Defense.md) | Support and services for eligible organizations and activities outside Department of Defense. |
 | [2013\.](%C2%A7%2002013%20-%20Training%20at%20non-Government%20facilities.md) | Training at non-Government facilities. |
+| [2014\.](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md) | Administrative actions adversely affecting military training or other readiness activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title III, §325(b), Nov. 18, 1997, 111 Stat. 1679, added item 2014.
 
 1996—Pub. L. 104–201, div. A, title III, §362(a)(2), Sept. 23, 1996, 110 Stat. 2493, added item 2013.
 
@@ -70,3 +73,4 @@ Particular provisions relating to—
 - [&sect; 02011 - Special operations forces training with friendly foreign forces](%C2%A7%2002011%20-%20Special%20operations%20forces%20training%20with%20friendly%20foreign%20forces.md)
 - [&sect; 02012 - Support and services for eligible organizations and activities outside Department of Defense](%C2%A7%2002012%20-%20Support%20and%20services%20for%20eligible%20organizations%20and%20activities%20outside%20Department%20of%20Defense.md)
 - [&sect; 02013 - Training at non-Government facilities](%C2%A7%2002013%20-%20Training%20at%20non-Government%20facilities.md)
+- [&sect; 02014 - Administrative actions adversely affecting military training or other readiness activities](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md)

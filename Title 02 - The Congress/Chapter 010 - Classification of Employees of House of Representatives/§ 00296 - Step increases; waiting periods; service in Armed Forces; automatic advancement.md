@@ -22,7 +22,7 @@
 
 &emsp;(2) any increase in compensation granted by law, or granted by reason of an increase made by the committee in the rates of compensation of the House Wage Schedule, to employees within the purview of such system of step increases shall not be held or considered to be an increase in compensation for the purposes of subparagraph (1) of this subsection; and
 
-&emsp;(3) the benefit of successive step increases under such system of step increases shall be preserved, under regulations prescribed by the committee, for employees whose continuous service is interrupted by service in the Armed Forces of the United States.
+&emsp;(3) the benefit of successive step increases under such system of step increases shall bepreserved, under regulations prescribed by the committee, for employees whose continuous service is interrupted by service in the Armed Forces of the United States.
 
 (Pub. L. 88–652, §7, Oct. 13, 1964, 78 Stat. 1081.)
 

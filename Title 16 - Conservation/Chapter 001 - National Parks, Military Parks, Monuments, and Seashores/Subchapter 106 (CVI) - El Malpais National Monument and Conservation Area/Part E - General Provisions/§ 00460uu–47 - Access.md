@@ -2,7 +2,7 @@
 
 #### (a) Nonexclusive access by Indians for cultural and religious purposes
 
-In recognition of the past use of portions of the monument and the conservation area by Indian people for traditional cultural and religiouspurposes, the Secretary shall assure nonexclusive access to the monument and the conservation area by Indian people for traditional cultural and religious purposes, including the harvesting of pine nuts. Such access shall be consistent with the purpose and intent of the American Indian Religious Freedom Act of August 11, 1978 (42 U.S.C. 1996), and (with respect to areas designated as wilderness) the Wilderness Act (78 Stat. 890) \[16 U.S.C. 1131 et seq.\].
+In recognition of the past use of portions of the monument and the conservation area by Indian people for traditional cultural and religious purposes, the Secretary shall assure nonexclusive access to the monument and the conservation area by Indian people for traditional cultural and religious purposes, including the harvesting of pine nuts. Such access shall be consistent with the purpose and intent of the American Indian Religious Freedom Act of August 11, 1978 (42 U.S.C. 1996), and (with respect to areas designated as wilderness) the Wilderness Act (78 Stat. 890) \[16 U.S.C. 1131 et seq.\].
 
 #### (b) Recommendations from Indian leaders regarding access and protection of cultural and religious sites
 

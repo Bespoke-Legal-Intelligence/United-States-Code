@@ -17,6 +17,10 @@
 
 1978—Pub. L. 95–225, §3(b), Feb. 6, 1978, 92 Stat. 9, substituted “Transportation of minors” for “Coercion or enticement of minor female” in item 2423.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 4042 of this title.
+
 
 ---
 

@@ -44,11 +44,11 @@
 
 (4)(A) Before closing the accounts for a fiscal year, the Secretary of the Treasury shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the amount under paragraph (3)(A) for such year.
 
-(B) Upon receiving notification under paragraph (3)(B), the United States Postal Serviceshall pay the amount specified in such notification to the Fund.
+(B) Upon receiving notification under paragraph (3)(B), the United States Postal Service shall pay the amount specified in such notification to the Fund.
 
 (5) For the purpose of carrying out paragraph (1) with respect to any fiscal year, the Office may—
 
-&emsp;(A) require the Board of Actuaries of the Civil Service Retirement System to make actuarial determinations and valuations, make recommendations, and maintain records in the same manner as provided in section 8347(f); and
+&emsp;(A) require the Board of Actuaries of the Civil Service Retirement System to make actuarial determinations and valuations, make recommendations, and maintain records in thesame manner as provided in section 8347(f); and
 
 &emsp;(B) use the latest actuarial determinations and valuations made by such Board of Actuaries.
 
@@ -74,5 +74,5 @@ Amendment by Pub. L. 102–496 effective first day of fourth month beginning aft
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8401, 8411, 8468 of this title; title 22 section 4071f; title 40 section 214d.
+This section is referred to in sections 8401, 8411, 8468 of this title; title 22 section 4071f; title 40 section 214d; title 42 section 2297h–8.
 

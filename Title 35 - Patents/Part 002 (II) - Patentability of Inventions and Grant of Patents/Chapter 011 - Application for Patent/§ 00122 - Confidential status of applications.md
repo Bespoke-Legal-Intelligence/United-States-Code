@@ -2,7 +2,7 @@
 
 Applications for patents shall be kept in confidence by the Patent and Trademark Office and no information concerning the same given without authority of the applicant or owner unless necessary to carry out the provisions of any Act of Congress or in such special circumstances as may be determined by the Commissioner.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

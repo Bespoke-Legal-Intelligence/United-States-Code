@@ -14,7 +14,7 @@ The trustee may avoid the fixing of a statutory lien on property of the debtor t
 
 &emsp;&emsp;(E) when the debtor's financial condition fails to meet a specified standard; or
 
-&emsp;&emsp;(F) at the time of an execution against property of the debtor levied at the instance of an entity other than the holder of such statutory lien;
+&emsp;&emsp;(F) at the time of an execution against property of the debtor levied at the instanceof an entity other than the holder of such statutory lien;
 
 &emsp;(2) is not perfected or enforceable at the time of the commencement of the case against a bona fide purchaser that purchases such property at the time of the commencement of the case, whether or not such a purchaser exists;
 

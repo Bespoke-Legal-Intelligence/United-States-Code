@@ -12,7 +12,7 @@
 
 (c) Any determination pursuant to subsection (b) shall be published in the Federal Register.
 
-(Added Sept. 23, 1950, ch. 1001, §2, 64 Stat. 980; amended Apr. 30, 1994, Pub. L. 103–236, title I, §138, 108 Stat. 397.)
+(Added Sept. 23, 1950, ch. 1001, §2, 64 Stat. 980; amended Pub. L. 103–236, title I, §138, Apr. 30, 1994, 108 Stat. 397.)
 
 #### References in Text
 

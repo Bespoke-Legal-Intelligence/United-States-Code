@@ -12,7 +12,7 @@ The legislature of the Virgin Islands may vest in the courts of the Virgin Islan
 
 The rules governing the practice and procedure of the courts established by local law and those prescribing the qualifications and duties of the judges and officers thereof, oaths and bonds, and the times and places of holding court shall be governed by local law or the rules promulgated by those courts.
 
-(July 22, 1954, ch. 558, §21, 68 Stat. 506; Oct. 5, 1984, Pub. L. 98–454, title VII, §702, 98 Stat. 1737.)
+(July 22, 1954, ch. 558, §21, 68 Stat. 506; Pub. L. 98–454, title VII, §702, Oct. 5, 1984, 98 Stat. 1737.)
 
 #### Amendments
 

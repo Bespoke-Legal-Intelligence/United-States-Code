@@ -22,9 +22,15 @@ Submittal of Information on Death.—If a board appointed under section 1503, 15
 
 &emsp;(2) A statement of the date on which the death occurred.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 347; amended Pub. L. 104–201, div. A, title V, §578(e), Sept. 23, 1996, 110 Stat. 2537.)
+&emsp;(3) A description of the location of the body, if recovered.
+
+&emsp;(4) If the body has been recovered and is not identifiable through visual means, a certification by a forensic pathologist that the body recovered is that of the missing person. In determining whether to make such a certification, the forensic pathologist shall consider, as determined necessary by the Secretary of the military department concerned, additional evidence and information provided by appropriate specialists in forensic medicine or other appropriate medical sciences.
+
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 347; amended Pub. L. 104–201, div. A, title V, §578(e), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(c), Nov. 18, 1997, 111 Stat. 1768.)
 
 #### Amendments
+
+1997—Subsec. (b)(3), (4). Pub. L. 105–85 added pars. (3) and (4).
 
 1996—Subsec. (b)(3), (4). Pub. L. 104–201 struck out pars. (3) and (4) which read as follows:
 

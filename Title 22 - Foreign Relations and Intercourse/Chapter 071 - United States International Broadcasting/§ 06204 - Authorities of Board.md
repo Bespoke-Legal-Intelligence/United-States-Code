@@ -34,7 +34,7 @@ The Board shall have the following authorities:
 
 #### (b) Broadcasting budgets
 
-(1) The Director of the Bureau and the grantees identified in sections 6207 and 6208 of thistitle shall submit proposed budgets to the Board. The Board shall forward its recommendations concerning the proposed budget for the Board and broadcasting activities under this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\], and the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\] to the Director of the United States Information Agency for the consideration of the Director as a part of the Agency's budget submission to the Office of Management and Budget.
+(1) The Director of the Bureau and the grantees identified in sections 6207 and 6208 of this title shall submit proposed budgets to the Board. The Board shall forward its recommendations concerning the proposed budget for the Board and broadcasting activities under this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\], and the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\] to the Director of the United States Information Agency for the consideration of the Director as a part of the Agency's budget submission to the Office of Management and Budget.
 
 (2) The Director of the United States Information Agency shall include in the Agency's submission to the Office of Management and Budget the comments and recommendations of the Board concerning the proposed broadcasting budget.
 

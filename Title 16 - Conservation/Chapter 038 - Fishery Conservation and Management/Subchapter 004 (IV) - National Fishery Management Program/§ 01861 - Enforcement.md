@@ -74,7 +74,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### (A) Establishment
 
-&emsp;&emsp;The Commander of the First Coast Guard District shall establish an informal fisheriesenforcement working group to improve the overall compliance with and effectiveness of the regulations issued under the Northeast Multispecies Fishery Management Plan.
+&emsp;&emsp;The Commander of the First Coast Guard District shall establish an informal fisheries enforcement working group to improve the overall compliance with and effectiveness of the regulations issued under the Northeast Multispecies Fishery Management Plan.
 
 #### (B) Membership
 
@@ -140,7 +140,7 @@ Subsec. (g). Pub. L. 104–297, §115(d), added subsec. (g). Former subsec. (g) 
 
 Subsec. (h). Pub. L. 104–297, §115(d), redesignated subsec. (g) as (h).
 
-Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec. (i)(1) by substituting “1821(b) or (c) of this title, or section 1824(d) of this title,” for “1821(b), (c) of this title,”, was executed by making thesubstitution for “1821(b) or (c) of this title” in subsec. (h)(1) to reflect the probable intent of Congress because this section does not contain a subsec. (i).
+Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec. (i)(1) by substituting “1821(b) or (c) of this title, or section 1824(d) of this title,” for “1821(b), (c) of this title,”, was executed by making the substitution for “1821(b) or (c) of this title” in subsec. (h)(1) to reflect the probable intent of Congress because this section does not contain a subsec. (i).
 
 1992—Subsecs. (f), (g). Pub. L. 102–567 added subsec. (f) and redesignated former subsec. (f) as (g).
 

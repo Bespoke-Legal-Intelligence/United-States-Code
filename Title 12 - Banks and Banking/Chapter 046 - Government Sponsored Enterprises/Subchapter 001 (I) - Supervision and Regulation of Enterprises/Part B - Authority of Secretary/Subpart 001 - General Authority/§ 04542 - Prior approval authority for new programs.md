@@ -36,7 +36,7 @@ The Secretary shall require each enterprise to obtain the approval of the Secret
 
 #### (3) Failure to respond
 
-&emsp;If the Secretary fails to approve the request or fails to submit a report under paragraph (2) during the period under such paragraph, the request shall be considered to have been approved.
+&emsp;If the Secretary fails to approve the request or fails to submit a report under paragraph (2) during the period under such paragraph, therequest shall be considered to have been approved.
 
 #### (4) Review of disapproval
 

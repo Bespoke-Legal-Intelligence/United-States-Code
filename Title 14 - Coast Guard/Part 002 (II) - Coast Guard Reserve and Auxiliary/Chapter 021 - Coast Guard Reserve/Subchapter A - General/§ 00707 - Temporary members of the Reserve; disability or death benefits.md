@@ -22,7 +22,7 @@
 
 &emsp;(3) the Secretary of Labor shall inform the Commissioner of Social Security whenever a claim is filed and eligibility for compensation is established under subsection (a)(2) or (a)(3) of section 8133 of title 5. The Commissioner of Social Security shall then certify to the Secretary of Labor whether or not the member concerned was fully or currently insured under title II of the Social Security Act at the time of the member's death.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1004; amended Pub. L. 97–136, §8(a), Dec. 29, 1981,95 Stat. 1706; Pub. L. 97–295, §2(21), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 103–296, title I, §108(g), Aug. 15, 1994, 108 Stat. 1487.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1004; amended Pub. L. 97–136, §8(a), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–295, §2(21), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 103–296, title I, §108(g), Aug. 15, 1994, 108 Stat. 1487.)
 
 #### References in Text
 

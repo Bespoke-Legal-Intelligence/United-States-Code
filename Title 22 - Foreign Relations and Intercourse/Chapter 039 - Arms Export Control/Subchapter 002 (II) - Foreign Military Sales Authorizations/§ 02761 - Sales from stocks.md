@@ -62,7 +62,7 @@ If the President determines it to be in the national interest pursuant to subsec
 
 (C) As used in this paragraph—
 
-&emsp;(i) the term “weapon system partnership agreement” means an agreement between two or more member countries of the Maintenanceand Supply Agency of the North Atlantic Treaty Organization that—
+&emsp;(i) the term “weapon system partnership agreement” means an agreement between two or more member countries of the Maintenance and Supply Agency of the North Atlantic Treaty Organization that—
 
 &emsp;&emsp;(I) is entered into pursuant to the terms of the charter of that organization; and
 
@@ -90,7 +90,7 @@ The President may enter into North Atlantic Treaty Organization standardization 
 
 #### (i) Sales affecting combat readiness of Armed Forces; statement to Congress; limitation on delivery
 
-(1) Sales of defense articles and defense services which could have significant adverse effect on the combat readiness of the Armed Forces of the United States shall be kept to an absolute minimum. The President shall transmit to the Speaker of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate on the same day a written statement giving a complete explanation with respect to any proposal to sell, under this section or under authority of subchapter II–B of this chapter, any defense articles or defense services if such sale could have a significant adverse effect on the combat readiness of the Armed Forces of the United States. Each such statement shall be unclassified except to the extent that public disclosure of any item of information contained therein would be clearly detrimental to the security of the United States. Any necessarily classified information shall be confined to a supplemental report. Each such statement shall include an explanation relating to only one such proposal to sell and shall set forth—
+(1) Sales of defense articles and defense services which could have significant adverse effecton the combat readiness of the Armed Forces of the United States shall be kept to an absolute minimum. The President shall transmit to the Speaker of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate on the same day a written statement giving a complete explanation with respect to any proposal to sell, under this section or under authority of subchapter II–B of this chapter, any defense articles or defense services if such sale could have a significant adverse effect on the combat readiness of the Armed Forces of the United States. Each such statement shall be unclassified except to the extent that public disclosure of any item of information contained therein would be clearly detrimental to the security of the United States. Any necessarily classified information shall be confined to a supplemental report. Each such statement shall include an explanation relating to only one such proposal to sell and shall set forth—
 
 &emsp;(A) the country or international organization to which the sale is proposed to be made;
 
@@ -110,7 +110,7 @@ The President may enter into North Atlantic Treaty Organization standardization 
 
 #### (k) Effect of sales of excess defense articles on national technology and industrial base
 
-Before entering into the sale under this chapter of defense articles that are excess to thestocks of the Department of Defense, the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred.
+Before entering into the sale under this chapter of defense articles that are excess to the stocks of the Department of Defense, the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred.
 
 #### (<i>l</i>) Repair of defense articles
 
@@ -182,7 +182,7 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 ofpart II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in subsec. (g), is not classified to the Code.
 

@@ -8,7 +8,7 @@ In order to avoid duplication and waste—
 
 (c) Dispensing with publication of more than one Supplement for each Congress.—Such committee may direct that the printing and distribution of any supplement to the Code of Laws of the United States or to the Code of the District of Columbia be dispensed with entirely, except that there shall be printed and distributed for each Congress at least one supplement to each such code, containing the legislation of such Congress.
 
-(July 30, 1947, ch. 388, 61 Stat. 637; Sept. 3, 1954, ch. 1263, §1, 68 Stat. 1226; Oct. 19, 1984, Pub. L. 98–497, title I, §107(d), 98 Stat. 2291.)
+(July 30, 1947, ch. 388, 61 Stat. 637; Sept. 3, 1954, ch. 1263, §1, 68 Stat. 1226; Pub. L. 98–497, title I, §107(d), Oct. 19, 1984, 98 Stat. 2291.)
 
 #### Amendments
 

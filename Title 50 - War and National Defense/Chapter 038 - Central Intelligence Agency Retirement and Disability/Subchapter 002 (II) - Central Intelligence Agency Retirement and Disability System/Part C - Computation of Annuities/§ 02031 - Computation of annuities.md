@@ -76,7 +76,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the amount of the annuity calculated under subparagraph (A) for a surviving spouse in any case in which there is also a surviving former spouse of the retired participant who qualifies for an annuity under section 2032(b) of this title may not exceed 55 percent of the portion (if any) of the base for survivor annuities which remains available under section 2032(b)(4)(B) of this title.
+&emsp;&emsp;Notwithstanding subparagraph (A), the amount of the annuity calculated under subparagraph (A) for a surviving spouse in any case in which there is also a survivingformer spouse of the retired participant who qualifies for an annuity under section 2032(b) of this title may not exceed 55 percent of the portion (if any) of the base for survivor annuities which remains available under section 2032(b)(4)(B) of this title.
 
 #### (C) Effective date and termination of annuity
 
@@ -154,7 +154,7 @@
 
 &emsp;In the case of a retired participant who dies on or after April 1, 1992, and who is survived by a child or children—
 
-&emsp;&emsp;(A) if the retired participant is survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid from the fund to or on behalf of each such surviving child an annuity determined under paragraph (3)(A); and
+&emsp;&emsp;(A) if the retired participant is survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid from thefund to or on behalf of each such surviving child an annuity determined under paragraph (3)(A); and
 
 &emsp;&emsp;(B) if the retired participant is not survived by a spouse or former spouse who is the natural or adoptive parent of a surviving child of the participant, there shall be paid to or on behalf of each such surviving child an annuity determined under paragraph (3)(B).
 
@@ -230,7 +230,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Upon remarriage, the retired participant may irrevocably elect, by means of a signedwriting received by the Director within one year after such remarriage, to receive a reduced annuity for the purpose of providing an annuity for the new spouse of the retired participant in the event such spouse survives the retired participant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 2032(b)(5) of this title or elected under subparagraph (B)).
+&emsp;&emsp;Upon remarriage, the retired participant may irrevocably elect, by means of a signed writing received by the Director within one year after such remarriage, to receive a reduced annuity for the purpose of providing an annuity for the new spouse of the retired participant in the event such spouse survives the retired participant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 2032(b)(5) of this title or elected under subparagraph (B)).
 
 #### (B) When annuity previously not (or not fully) reduced
 
@@ -270,7 +270,7 @@
 
 #### (1) Spouse of recalled annuitant
 
-&emsp;A married recalled annuitant who reverts to retired status with entitlement to a supplemental annuity under section 2111(b) of this title shall, unless the annuitant and the annuitant's spouse jointly elect in writing to the contrary at the time of reversion to retired status, have the supplemental annuity reduced by 10 percent to provide a supplemental survivor annuity for the annuitant's spouse. Such supplemental survivor annuity shall be equal to 55 percent of the supplemental annuity of the annuitant.
+&emsp;A married recalled annuitant who reverts to retired status with entitlement to a supplemental annuity under section 2111(b) of thistitle shall, unless the annuitant and the annuitant's spouse jointly elect in writing to the contrary at the time of reversion to retired status, have the supplemental annuity reduced by 10 percent to provide a supplemental survivor annuity for the annuitant's spouse. Such supplemental survivor annuity shall be equal to 55 percent of the supplemental annuity of the annuitant.
 
 #### (2) Regulations
 

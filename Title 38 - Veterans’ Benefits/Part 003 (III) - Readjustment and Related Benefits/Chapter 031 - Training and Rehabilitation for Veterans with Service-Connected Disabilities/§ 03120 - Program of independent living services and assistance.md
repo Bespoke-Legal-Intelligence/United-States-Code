@@ -8,7 +8,7 @@
 
 (d) A program of independent living services and assistance for a veteran shall consist of such services described in section 3104(a) of this title as the Secretary determines necessary to enable such veteran to achieve maximum independence in daily living. Such veteran shall have the same rights with respect to an individualized written plan of services and assistance as are afforded veterans under section 3107 of this title.
 
-(e) Programs of independent living services and assistance shall be initiated for no morethan five hundred veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
+(e) Programs of independent living services and assistance shall be initiated for no more than five hundred veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
 
 (f) Entities described in this subsection are (1) public or nonprofit agencies or organizations, and (2) for-profit entities in cases in which the Secretary determines that services comparable in effectiveness to services available from such an entity are not available, or cannot be obtained cost-effectively from, public or nonprofit agencies or through facilities of the Veterans Health Administration.
 
@@ -74,7 +74,7 @@ Subsec. (b). Pub. L. 99–576, §333(c), amended subsec. (b) generally. Prior to
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section 101(i) of Pub. L. 104–275 only applicable with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under this chapter received by the Secretary of Veterans Affairs on or after Oct. 9, 1996, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for servicesand assistance under this chapter, see section 101(j) of Pub. L. 104–275, set out as a note under section 3101 of this title.
+Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section 101(i) of Pub. L. 104–275 only applicable with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under this chapter received by the Secretary of Veterans Affairs on or after Oct. 9, 1996, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under this chapter, see section 101(j) of Pub. L. 104–275, set out as a note under section 3101 of this title.
 
 #### Effective Date
 

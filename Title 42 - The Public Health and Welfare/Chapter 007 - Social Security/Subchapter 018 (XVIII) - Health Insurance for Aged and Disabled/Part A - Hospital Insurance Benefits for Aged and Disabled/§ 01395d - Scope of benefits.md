@@ -1,0 +1,292 @@
+### §1395d. Scope of benefits
+
+#### (a) Entitlement to payment for inpatient hospital services, post-hospital extended care services, home health services, and hospice care
+
+The benefits provided to an individual by the insurance program under this part shall consist of entitlement to have payment made on his behalf or, in the case of payments referred to in section 1395f(d)(2) of this title to him (subject to the provisions of this part) for—
+
+&emsp;(1) inpatient hospital services or inpatient critical access hospital services for up to 150 days during any spell of illness minus 1 day for each day of such services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
+
+&emsp;(2)(A) post-hospital extended care services for up to 100 days during any spell of illness, and (B) to the extent provided in subsection (f) of this section, extended care services that are not post-hospital extended care services;
+
+&emsp;(3) for individuals not enrolled in part B of this subchapter, home health services, and for individuals so enrolled, post-institutional home health services furnished during a home health spell of illness for up to 100 visits during such spell of illness; and
+
+&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1) of this section.
+
+#### (b) Services not covered
+
+Payment under this part for services furnished an individual during a spell of illness may not (subject to subsection (c) of this section) be made for—
+
+&emsp;(1) inpatient hospital services furnished to him during such spell after such services have been furnished to him for 150 days during such spell minus 1 day for each day of inpatient hospital services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies in accordance with regulations of the Secretary that he does not desire to have such payment made);
+
+&emsp;(2) post-hospital extended care services furnished to him during such spell after such services have been furnished to him for 100 days during such spell; or
+
+&emsp;(3) inpatient psychiatric hospital services furnished to him after such services have been furnished to him for a total of 190 days during his lifetime.
+
+> Payment under this part for post-institutional home health services furnished an individual during a home health spell of illness may not be made for such services beginning after such services have been furnished for a total of 100 visits <sup>1</sup> such spell.
+
+#### (c) Inpatients of psychiatric hospitals
+
+If an individual is an inpatient of a psychiatric hospital on the first day of the first month for which he is entitled to benefits under this part, the days on which he was an inpatient of such a hospital in the 150-day period immediately before such first day shall be included in determining the number of days limit under subsection (b)(1) of this section insofar as such limit applies to (1) inpatient psychiatric hospital services, or (2) inpatient hospital services for an individual who is an inpatient primarily for the diagnosis or treatment of mental illness (but shall not be included in determining such number of days limit insofar as it applies to other inpatient hospital services or in determining the 190-day limit under subsection (b)(3) of this section).
+
+#### (d) Hospice care; election; waiver of rights; revocation; change of election
+
+(1) Payment under this part may be made for hospice care provided with respect to an individual only during two periods of 90 days each and an unlimited number of subsequent periods of 60 days each during the individual's lifetime and only, with respect to each such period, if the individual makes an election under this paragraph to receive hospice care under this part provided by, or under arrangements made by, a particular hospice program instead of certain other benefits under this subchapter.
+
+(2)(A) Except as provided in subparagraphs (B) and (C) and except in such exceptional and unusual circumstances as the Secretary may provide, if an individual makes such an election for a period with respect to a particular hospice program, the individual shall be deemed to have waived all rights to have payment made under this subchapter with respect to—
+
+&emsp;(i) hospice care provided by another hospice program (other than under arrangements made by the particular hospice program) during the period, and
+
+&emsp;(ii) services furnished during the period that are determined (in accordance with guidelines of the Secretary) to be—
+
+&emsp;&emsp;(I) related to the treatment of the individual's condition with respect to which a diagnosis of terminal illness has been made or
+
+&emsp;&emsp;(II) equivalent to (or duplicative of) hospice care;
+
+> except that clause (ii) shall not apply to physicians’ services furnished by the individual's attending physician (if not an employee of the hospice program) or to services provided by (or under arrangements made by) the hospice program.
+
+(B) After an individual makes such an election with respect to a 90-day period or a subsequent 60-day period, the individual may revoke the election during the period, in which case—
+
+&emsp;(i) the revocation shall act as a waiver of the right to have payment made under this part for any hospice care benefits for the remaining time in such period and (for purposes of subsection (a)(4) of this section and subparagraph (A)) the individual shall be deemed to have been provided such benefits during such entire period, and
+
+&emsp;(ii) the individual may at any time after the revocation execute a new election for a subsequent period, if the individual otherwise is entitled to hospice care benefits with respect to such a period.
+
+(C) An individual may, once in each such period, change the hospice program with respect to which the election is made and such change shall not be considered a revocation of an election under subparagraph (B).
+
+(D) For purposes of this subchapter, an individual's election with respect to a hospice program shall no longer be considered to be in effect with respect to that hospice program after the date the individual's revocation or change of election with respect to that election takes effect.
+
+#### (e) Services taken into account
+
+For purposes of subsections (b) and (c) of this section, inpatient hospital services, inpatient psychiatric hospital services, and post-hospital extended care services shall be taken into account only if payment is or would be, except for this section or the failure to comply with the request and certification requirements of or under section 1395f(a) of this title, made with respect to such services under this part.
+
+#### (f) Coverage of extended care services without regard to three-day prior hospitalization requirement
+
+(1) The Secretary shall provide for coverage, under clause (B) of subsection (a)(2) of this section, of extended care services which are not post-hospital extended care services at such time and for so long as the Secretary determines, and under such terms and conditions (described in paragraph (2)) as the Secretary finds appropriate, that the inclusion of such services will not result in any increase in the total of payments made under this subchapter and will not alter the acute care nature of the benefit described in subsection (a)(2) of this section.
+
+(2) The Secretary may provide—
+
+&emsp;(A) for such limitations on the scope and extent of services described in subsection (a)(2)(B) of this section and on the categories of individuals who may be eligible to receive such services, and
+
+&emsp;(B) notwithstanding sections 1395f, 1395x(v), and 1395ww of this title, for such restrictions and alternatives on the amounts and methods of payment for services described in such subsection,
+
+> as may be necessary to carry out paragraph (1).
+
+#### (g) “Spell of illness” defined
+
+For definitions of “spell of illness”, and for definitions of other terms used in this part, see section 1395x of this title.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1812, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 291; amended Jan. 2, 1968, Pub. L. 90–248, title I, §§129(c)(2), 137(a), 138(a), 143(b), 146(a), 81 Stat. 847, 853, 854, 857, 859; Dec. 5, 1980, Pub. L. 96–499, title IX, §§930(b)–(d), 931(a), 94 Stat. 2631, 2633; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2121(a), 95 Stat. 796; Sept. 3, 1982, Pub. L. 97–248, title I, §§122(b), 123, 96 Stat. 356, 364; Jan. 12, 1983, Pub. L. 97–448, title III, §309(b)(5), 96 Stat. 2409; July 1, 1988, Pub. L. 100–360, title I, §101, 102 Stat. 684; Dec. 13, 1989, Pub. L. 101–234, title I, §101(a), 103 Stat. 1979; Dec. 19, 1989, Pub. L. 101–239, title VI, §6003(g)(3)(B)(i), 103 Stat. 2152; Nov. 5, 1990, Pub. L. 101–508, title IV, §4006(a), 104 Stat. 1388–43; Oct. 31, 1994, Pub. L. 103–432, title I, §102(g)(1), 108 Stat. 4404; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4201(c)(1), 4443(a), (b)(1), 4611(a), 111 Stat. 373, 423, 472.)
+
+#### References in Text
+
+Part B of this subchapter, referred to in subsec. (a)(3), is classified to section 1395j et seq. of this title.
+
+#### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
+
+Subsec. (a)(3). Pub. L. 105–33, §4611(a)(1), substituted “for individuals not enrolled in part B of this subchapter, home health services, and for individuals so enrolled, post-institutional home health services furnished during a home health spell of illness for up to 100 visits during such spell of illness” for “home health services”.
+
+Subsec. (a)(4). Pub. L. 105–33, §4443(a), substituted “and an unlimited number of subsequent periods of 60 days each” for “, a subsequent period of 30 days, and a subsequent extension period”.
+
+Subsec. (b). Pub. L. 105–33, §4611(a)(2), inserted closing provisions.
+
+Subsec. (d)(1). Pub. L. 105–33, §4443(a), substituted “and an unlimited number of subsequent periods of 60 days each” for “, a subsequent period of 30 days, and a subsequent extension period”.
+
+Subsec. (d)(2)(B). Pub. L. 105–33, §4443(b)(1), substituted “90-day period or a subsequent 60-day period” for “90- or 30-day period or a subsequent extension period”.
+
+1994—Subsec. (a)(1). Pub. L. 103–432 substituted “inpatient hospital services or inpatient rural primary care hospital services” for “inpatient hospital services” before “for up to 150 days” and “such services” for “inpatient hospital services” before “in excess of 90” and struck out “and inpatient rural primary care hospital services” after “such payment made)”.
+
+1990—Subsec. (a)(4). Pub. L. 101–508, §4006(a)(1), substituted “90 days each, a subsequent period of 30 days, and a subsequent extension period” for “90 days each and one subsequent period of 30 days”.
+
+Subsec. (d)(1). Pub. L. 101–508, §4006(a)(2)(A), substituted “90 days each, a subsequent period of 30 days, and a subsequent extension period during the individual's lifetime” for “90 days each and one subsequent period of 30 days during the individual's lifetime”.
+
+Subsec. (d)(2)(B). Pub. L. 101–508, §4006(a)(2)(B), substituted “a 90- or 30-day period or a subsequent extension period” for “a 90- or 30-day period”.
+
+1989—Subsec. (a). Pub. L. 101–234 repealed Pub. L. 100–360, §101(1), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
+
+Subsec. (a)(1). Pub. L. 101–239 inserted “and inpatient rural primary care hospital services” before semicolon at end.
+
+Subsecs. (b) to (d)(1), (2)(B), (e) to (g). Pub. L. 101–234 repealed Pub. L. 100–360, §101(2)–(6), and provided thatthe provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
+
+1988—Subsec. (a). Pub. L. 100–360, §101(1), struck out former pars. (1) to (4) and added new pars. (1) to (4) which read as follows:
+
+“(1) inpatient hospital services;
+
+“(2) extended care services for up to 150 days during any calendar year;
+
+“(3) home health services; and
+
+“(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each, a subsequent period of 30 days, and a subsequent extension period with respect to which the individual makes an election under subsection (d)(1) of this section.”
+
+Subsec. (b). Pub. L. 100–360, §101(2), amended subsec. (b) generally, striking out par. (1) and renumbering and amending pars. (2) and (3) as (1) and (2), respectively.
+
+Subsec. (c). Pub. L. 100–360, §101(3), amended subsec. (c) generally, substituting pars. (1) to (4) limiting periods for inpatients of psychiatric hospitals for former single paragraph.
+
+Subsec. (d)(1). Pub. L. 100–360, §101(4)(A), substituted “, a subsequent period of 30 days, and a subsequent extension period” for “and one subsequent period of 30 days”.
+
+Subsec. (d)(2)(B). Pub. L. 100–360, §101(4)(B), inserted “or a subsequent extension period” after “30-day period” in introductory provisions.
+
+Subsec. (e). Pub. L. 100–360, §101(5), struck out “post-hospital” before “extended care services”.
+
+Subsec. (f). Pub. L. 100–360, §101(6), struck out subsec. (f) which provided coverage of extended care services without regard to three-day prior hospitalization requirement.
+
+Subsec. (g). Pub. L. 100–360, §101(6), struck out subsec. (g) which cross-referenced section 1395x of this title for definitions of “spell of illness” and other terms used in this part.
+
+1983—Subsec. (d)(2)(A). Pub. L. 97–448 substituted “or to services” for “or to other than services” after “(if not an employee of the hospice program)”.
+
+1982—Subsec. (a)(2). Pub. L. 97–248, §123(a), redesignated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (a)(4). Pub. L. 97–248, §122(b)(1), added par. (4).
+
+Subsec. (d). Pub. L. 97–248, §122(b)(2), added subsec. (d).
+
+Subsecs. (f), (g). Pub. L. 97–248, §123(b), added subsec. (f) and redesignated former subsec. (f) as (g).
+
+1981—Subsec. (a). Pub. L. 97–35 struck out par. (4) which related to alcohol detoxification facility services.
+
+1980—Subsec. (a)(3). Pub. L. 96–499, §930(b), substituted “home health services” for “post-hospital home health services for up to 100 visits (during the one-year period described in section 1395x(n) of this title) after the beginning of one spell of illness and before the beginning of the next”.
+
+Subsec. (a)(4). Pub. L. 96–499, §931(a), added par. (4).
+
+Subsec. (d). Pub. L. 96–499, §930(c), struck out subsec. (d) which authorized payment for post-hospital home health services furnished an individual only during the one year period described in section 1395x(n) of this title following his most recent hospital discharge which met the requirements of such section and only for the first 100 visits in such period.
+
+Subsec. (e). Pub. L. 96–499, §930(d), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)” and “and post-hospital extended care services” for “post-hospital extended care services, and post-hospital home health services”.
+
+1968—Subsec. (a). Pub. L. 90–248, §143(b), inserted “or, in the case of payments referred to in section 1395f(d)(2) of this title to him” after “on his behalf” in text preceding par. (1).
+
+Subsec. (a)(1). Pub. L. 90–248, §137(a)(1), increased the maximum duration of benefits from 90 to 150 days minus 1 day for each day of inpatient hospital services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies that he does not desire to have such payment made).
+
+Subsec. (a)(4). Pub. L. 90–248, §129(c)(2), struck out par. (4) which provided for payment for outpatient hospital diagnostic services.
+
+Subsec. (b)(1). Pub. L. 90–248, §137(a)(2), changed the limitation on payments from 90 to 150 days minus 1 day for each day of inpatient hospital services in excess of 90 received during any preceding spell of illness (if such individual was entitled to have payment for such services made under this part unless he specifies that he does not desire to have such payment made).
+
+Subsec. (c). Pub. L. 90–248, §138(a), increased the limit from 90 to 150 days so that if an individual was an inpatient of a psychiatric or tuberculosis hospital on the first day of the first month for which he is entitled to benefits, the days he was an inpatient in the 150-day period immediately before such first day are included in determining the limit under subsec. (b)(1) insofar as such limit applies to (1) inpatient psychiatric hospital services and inpatient tuberculosis hospital services, or (2) inpatient hospital services for an individual who is an inpatient primarily for the diagnosis or treatment of mental illness or tuberculosis (but are not included in determining such limit as it applies to other inpatient hospital services or in determining the 190-day limit under subsec. (b)(3)).
+
+Pub. L. 90–248, §146(a), provided that the limitation of allowable days of inpatient hospital services will not apply to services provided to an inpatient of a tuberculosis hospital.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+
+Section 4449 of title IV of Pub. L. 105–33 provided that: “Except as otherwise provided in this chapter \[chapter 4 (§§4441–4449) of subtitle E of title IV of Pub. L. 105–33, amending this section and sections 1395f, 1395x, and 1395pp of this title and enacting provisions set out as notes under section 1395f and 1395x of this title\], the amendments made by this chapter apply to benefits provided on or after the date of the enactment of this chapter \[Aug. 5, 1997\], regardless of whether or not an individual has made an election under section 1812(d) of the Social Security Act (42 U.S.C. 1395d(d)) before such date.”
+
+Section 4611(f) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395u, 1395x, and 1395ff of this title\] apply to services furnished on or after January 1, 1998. For purpose of applying such amendments, any home health spell of illness that began, but not \[sic\] did not end, before such date shall be considered to have begun as of such date.”
+
+#### Effective Date of 1994 Amendment
+
+Section 102(i) of Pub. L. 103–432 provided that: “The amendments made by this section \[amending this section and sections 1395e, 1395f, 1395i–4, 1395m, 1395x, and 1395ww of this title\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\].”
+
+#### Effective Date of 1990 Amendment
+
+Section 4006(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and section 1395f of this title\] shall apply with respect to care and services furnished on or after January 1, 1990.”
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub. L. 101–234, set out as a note under section 1395c of this title.
+
+#### Effective Date of 1988 Amendment
+
+Section 104(a) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, §608(d)(3)(A), Oct. 13, 1988, 102 Stat. 2413, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2) and subsection (b), the amendments made by this subtitle \[subtitle A (§§101–104) of title I of Pub. L. 100–360, amending this section and sections 1395c, 1395e, 1395f, 1395i–2, 1395k, 1395x, 1395cc, and 1395tt of this title\] shall take effect on January 1, 1989, and shall apply—
+
+&emsp;“(A) to the inpatient hospital deductible for 1989 and succeeding years,
+
+&emsp;“(B) to care and services furnished on or after January 1, 1989,
+
+&emsp;“(C) to premiums for January 1989 and succeeding months, and
+
+&emsp;“(D) to blood or blood cells furnished on or after January 1, 1989.
+
+“(2)
+
+Elimination of post-hospital requirement for extended care services.—The amendments made by this subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\]) that extended care services are only covered under title XVIII of such Act \[this subchapter\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
+
+#### Effective Date of 1983 Amendment
+
+Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section was amended by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by section 122(b) of Pub. L. 97–248 applicable to hospice care provided on or after Nov. 1, 1983, see section 122(h)(1) of Pub. L. 97–248, as amended, set out as a note under section 1395c of this title.
+
+#### Effective Date of 1981 Amendment
+
+Section 2121(i) of Pub. L. 97–35 provided that: “The amendments made by this section \[amending this section and sections 1320c–3, 1320c–4, 1320c–7, 1395f, and 1395x of this title\] (other than by subsection (h) \[repealing provisions set out as a note under section 1395<i>ll</i> of this title\]) shall apply to services furnished in detoxification facilities for inpatient stays beginning on or after the tenth day after the date of the enactment of this Act \[Aug. 13, 1981\].”
+
+#### Effective Date of 1980 Amendment
+
+Amendment by section 930(b)–(d) of Pub. L. 96–499 effective with respect to services furnished on or after July 1, 1981, see section 930(s)(1) of Pub. L. 96–499, set out as a note under section 1395x of this title.
+
+Section 931(e) of Pub. L. 96–499 provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section and sections 1395f and 1395x of this title\] shall become effective on April 1, 1981.”
+
+#### Effective Date of 1968 Amendment
+
+Section 129(d) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and sections 426, 1395e, 1395f, 1395k, 1395<i>l</i>, 1395n, 1395x, and 1395cc of this title and section 228s–2 of Title 45, Railroads\] shall apply with respect to services furnished after March 31, 1968, except that subsection (c)(5) of such section \[amending section 1395f of this title\] shall become effective with respect to services furnished after the date of enactment of this Act \[Jan. 2, 1968\].”
+
+Section 137(c) of Pub. L. 90–248 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395e of this title\] shall apply with respect to services furnished after December 31, 1967.”
+
+Section 138(b) of Pub. L. 90–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to payment for services furnished after December 31, 1967.”
+
+Section 143(d) of Pub. L. 90–248 provided that: “The provisions made by subsection (a) of this section \[amending section 1395x of this title\] shall become effective as of July 1, 1966, and the provisions made by subsections (b) and (c) of this section \[amending this section and section 1395f of this title\] shall apply to services furnished with respect to admissions occurring after December 31, 1967, and to outpatient hospital diagnostic services furnished after December 31, 1967, and before April 1, 1968.”
+
+Section 146(b) of Pub. L. 90–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to payment for services furnished after December 31, 1967.”
+
+#### Transition
+
+Section 4611(e) of Pub. L. 105–33 provided that:
+
+“(1)
+
+In general.—Notwithstanding any provision of title XVIII of the Social Security Act \[this subchapter\], the Secretary of Health and Human Services shall establish a transition for the aggregate amount of expenditures that are transferred from part A, to part B, of title XVIII of the Social Security Act \[this part and part B of this subchapter\], as a result of the amendments made by this section \[amending this section and sections 1395u, 1395x, and 1395ff of this title\], during each of the years during the period beginning with 1998 and ending with 2002 according to this subsection. Under the transition for each such year, the Secretary shall effect such transfer, between the trust funds under such parts, as will result in only the proportion (specified in paragraph (2)) of such aggregate expenditures for the year being transferred from such part A to such part B.
+
+“(2)
+
+Proportion specified.—The proportion specified in this paragraph for—
+
+&emsp;“(A) 1998 is 1/6,
+
+&emsp;“(B) 1999 is 1/3,
+
+&emsp;“(C) 2000 is 1/2,
+
+&emsp;“(D) 2001 is 2/3, and
+
+&emsp;“(E) 2002 is 5/6.
+
+“(3)
+
+Application in establishing monthly premiums for 1998 through 2003.—
+
+&emsp;“(A)
+
+In general.—For purposes only of computing the monthly premium under section 1839 of the Social Security Act (42 U.S.C. 1395r), the monthly actuarial rate for enrollees age 65 and over shall be computed as though any reference in paragraph (1) of this subsection to 2002 were a reference to 2003 and as if the following proportions were substituted for the proportions specified in paragraph (2):
+
+&emsp;&emsp;“(i) For 1998, 1/7.
+
+&emsp;&emsp;“(ii) For 1999, 2/7.
+
+&emsp;&emsp;“(iii) For 2000, 3/7.
+
+&emsp;&emsp;“(iv) For 2001, 4/7.
+
+&emsp;&emsp;“(v) For 2002, 5/7.
+
+&emsp;&emsp;“(vi) For 2003, 6/7.
+
+&emsp;“(B)
+
+No impact on government contribution.—Subparagraph (A) does not apply in determining the amount of the Government contribution under section 1844 of the Social Security Act (42 U.S.C. 1395w).”
+
+#### Repeal of 1988 Expansion of Medicare Part A Benefits
+
+For provisions repealing amendment by section 101 of Pub. L. 100–360, restoring or reviving this section as if section 101 of Pub. L. 100–360 had not been enacted, and providing a transition period for medicare beneficiaries with respect to inpatient hospital services and extended care services provided on or after Jan. 1, 1990, and providing an exception to such restoration for certain hospice care, see section 101(a)–(b)(2) of Pub. L.101–234, set out as a note under section 1395e of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1395e, 1395f, 1395w–23, 1395x, 1395eee, 1396b, 1396d, 1396r–8 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “during”.</i>
+

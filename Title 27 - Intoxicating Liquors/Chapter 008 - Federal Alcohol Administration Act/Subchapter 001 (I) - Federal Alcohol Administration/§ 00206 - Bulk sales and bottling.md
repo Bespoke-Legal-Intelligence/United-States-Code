@@ -18,7 +18,7 @@ Any person who violates the requirements of this section shall, upon conviction 
 
 The term “in bulk” mean in containers having a capacity in excess of one wine gallon.
 
-(Aug. 29, 1935, ch. 814, title I, §106, formerly §6, 49 Stat. 985; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, §106, Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(1), (2), 102 Stat. 4517.)
+(Aug. 29, 1935, ch. 814, title I, §106, formerly §6, 49 Stat. 985; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, §106, Pub. L. 100–690, title VIII, §8001(a)(1), (2), Nov. 18, 1988, 102 Stat. 4517.)
 
 #### References in Text
 

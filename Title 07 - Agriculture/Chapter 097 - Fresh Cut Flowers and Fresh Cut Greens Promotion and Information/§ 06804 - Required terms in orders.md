@@ -312,7 +312,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The order shall provide that each non-sale transfer of cut flowers or cut greensto a retailer from a qualified handler that is a distribution center (as described in section 6802(4)(A)(ii)(II) of this title), and each direct sale of cut flowers or cut greens to a consumer by a qualified handler that is an importer or a producer (as described in section 6802(4)(A)(iii) of this title), shall be treated as a sale of cut flowers or cut greens to a retailer subject to assessments under this subsection.
+&emsp;&emsp;&emsp;&emsp;The order shall provide that each non-sale transfer of cut flowers or cut greens to a retailer from a qualified handler that is a distribution center (as described in section 6802(4)(A)(ii)(II) of this title), and each direct sale of cut flowers or cut greens to a consumer by a qualified handler that is an importer or a producer (as described in section 6802(4)(A)(iii) of this title), shall be treated as a sale of cut flowers or cut greens to a retailer subject to assessments under this subsection.
 
 #### (II) Amount of sale in the case of non-sale transfers and direct sales by importers
 
@@ -412,7 +412,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (5) Use of assessment funds
 
-&emsp;The order shall provide that assessment funds (less any refunds expended under the terms of the order required under paragraph (4)) shall be used for payment of costs incurred in implementing and administering the order, with provision for a reasonable reserve, and to cover the administrative costs incurred by the Secretary in implementing and administering this chapter.
+&emsp;The order shall provide that assessment funds (less any refunds expended under the terms of the order required under paragraph (4)) shall be used for payment of costs incurred in implementing and administering the order,with provision for a reasonable reserve, and to cover the administrative costs incurred by the Secretary in implementing and administering this chapter.
 
 #### (6) Postponement of collections
 
@@ -454,7 +454,7 @@ The order shall prohibit the use of any funds received by the PromoFlor Council 
 
 #### (A) In general
 
-&emsp;&emsp;Information obtained from books, records, or reports under paragraph (1) or subsection (h)(6) of this section, or from reports required under section 6805(b)(3) of this title, shall be kept confidential by all officers and employees of the Department of Agricultureand by the staff and agents of the PromoFlor Council.
+&emsp;&emsp;Information obtained from books, records, or reports under paragraph (1) or subsection (h)(6) of this section, or from reports required under section 6805(b)(3) of this title, shall be kept confidential by all officers and employees of the Department of Agriculture and by the staff and agents of the PromoFlor Council.
 
 #### (B) Suits and hearings
 

@@ -16,7 +16,7 @@
 
 (2) If the owner of a building wishes to remove a work of visual art which is a part of such building and which can be removed from the building without the destruction, distortion, mutilation, or other modification of the work as described in section 106A(a)(3), the author's rights under paragraphs (2) and (3) of section 106A(a) shall apply unless—
 
-&emsp;(A) the owner has made a diligent, good faith attempt without success to notify the author of the owner's intended action affecting the work of visual art, or
+&emsp;(A) the owner has made a diligent, good faith attempt without success to notify theauthor of the owner's intended action affecting the work of visual art, or
 
 &emsp;(B) the owner did provide such notice in writing and the person so notified failed, within 90 days after receiving such notice, either to remove the work or to pay for its removal.
 
@@ -36,7 +36,7 @@ The broad language of section 106(1) and of subsection (a) of section 113 raises
 
 The 1961 Report of the Register of Copyrights stated, on the basis of judicial precedent, that “copyright in a pictorial, graphic, or sculptural work, portraying a useful article as such, does not extend to the manufacture of the useful article itself,” and recommended specifically that “the distinctions drawn in this area by existing court decisions” not be altered by the statute. The Register's Supplementary Report, at page 48, cited a number of these decisions, and explained the insuperable difficulty of finding “any statutory formulation that would express the distinction satisfactorily.” Section 113(b) reflects the Register's conclusion that “the real need is to make clear that there is no intention to change the present law with respect to the scope of protection in a work portraying a useful article as such.”
 
-Section 113(c) provides that it would not be an infringement of copyright, where a copyright work hasbeen lawfully published as the design of useful articles, to make, distribute or display pictures of the articles in advertising, in feature stories about the articles, or in the news reports.
+Section 113(c) provides that it would not be an infringement of copyright, where a copyright work has been lawfully published as the design of useful articles, to make, distribute or display pictures of the articles in advertising, in feature stories about the articles, or in the news reports.
 
 In conformity with its deletion from the bill of Title II, relating to the protection of ornamental designs of useful articles, the Committee has deleted subsections (b), (c), and (d) of section 113 of S. 22 as adopted by the Senate, since they are no longer relevant.
 

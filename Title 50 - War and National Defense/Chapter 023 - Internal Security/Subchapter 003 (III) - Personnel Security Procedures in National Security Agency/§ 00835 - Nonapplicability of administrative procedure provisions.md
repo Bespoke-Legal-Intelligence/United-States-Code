@@ -2,7 +2,7 @@
 
 Subchapter II of chapter 5, and chapter 7, of title 5, shall not apply to the use or exercise of any authority granted by this subchapter.
 
-(Sept. 23, 1950, ch. 1024, title III, §305, as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170.)
+(Sept. 23, 1950, ch. 1024, title III, §305, as added Pub. L. 88–290, Mar. 26, 1964, 78 Stat. 170.)
 
 #### Codification
 

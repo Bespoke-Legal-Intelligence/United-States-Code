@@ -20,7 +20,7 @@ A charge outstanding in the “State account of advances” shall be removed by 
 
 Subsection (b) of this section does not affect the financial liability of a disbursing official or agent.
 
-(Apr. 25, 1940, ch. 154, 54 Stat. 163; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Sept. 13, 1982, Pub. L. 97–258, §2(e), 96 Stat. 1059.)
+(Apr. 25, 1940, ch. 154, 54 Stat. 163; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Pub. L. 97–258, §2(e), Sept. 13, 1982, 96 Stat. 1059.)
 
 #### Codification
 

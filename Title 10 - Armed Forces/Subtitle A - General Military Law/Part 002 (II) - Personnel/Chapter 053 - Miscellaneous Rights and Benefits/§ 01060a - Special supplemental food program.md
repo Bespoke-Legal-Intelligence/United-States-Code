@@ -6,7 +6,7 @@ Authority.—The Secretary of Defense may carry out a program to provide special
 
 (b)
 
-Federal Payments and Commodities.—For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense from funds appropriated for such purpose, the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).
+Federal Payments and Commodities.—For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42U.S.C. 1786). The Secretary of Defense may use funds available for the Department of Defense to carry out the program under subsection (a).
 
 (c)
 
@@ -44,7 +44,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “dependent” has the meaning given such term in subparagraphs (A), (D), (E), and (I) of section 1072(2) of this title.
 
-(Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, §1503(a)(9), Feb. 10, 1996, 110 Stat. 511.)
+(Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, §1503(a)(9), Feb. 10, 1996, 110 Stat. 511; Pub. L. 105–85, div. A, title VI, §655(b)(1), Nov. 18, 1997, 111 Stat. 1805.)
 
 #### References in Text
 
@@ -52,5 +52,11 @@ The Immigration and Nationality Act, referred to in subsec. (f)(2)(B), is act Ju
 
 #### Amendments
 
+1997—Subsec. (b). Pub. L. 105–85 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense from funds appropriated for such purpose, the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).”
+
 1996—Subsec. (f)(2)(B). Pub. L. 104–106 substituted “, as determined in accordance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “(as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)))”.
+
+#### Report on Implementation of Special Supplemental Food Program
+
+Section 655(b)(2) of Pub. L. 105–85 provided that: “Not later than 90 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense shall submit to Congress a report regarding the intentions of the Secretary regarding implementation of the program authorized under section 1060a of title 10, United States Code, including any plans to implement the program.”
 

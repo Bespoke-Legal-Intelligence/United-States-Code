@@ -20,6 +20,10 @@ Section was formerly classified to section 511 of Title 5 prior to the general r
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–113, §1, Nov. 21, 1997, 111 Stat. 2274, provided that: “This Act \[enacting section 2204g of this title, amending sections 1991 and 2276 of this title andsection 9 of Title 13, Census, repealing section 142 of Title 13, and enacting provisions set out as a note under section 1991 of this title\] may be cited as the ‘Census of Agriculture Act of 1997’.”
+
 #### Short Title of 1980 Amendment
 
 Pub. L. 96–355, §1, Sept. 24, 1980, 94 Stat. 1171, provided that: “This Act \[enacting sections 2204b and 2211b of this title, amending sections 1926, 2204, 2204a, 2663, and 2667 of this title, section 5314 of Title 5, Government Organization and Employees, and section 3122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 2204b of this title\] may be cited as the ‘Rural Development Policy Act of 1980’.”
@@ -42,7 +46,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 “(c) The functions of the Secretary of the Interior under the Act of June 7, 1924 (43 Stat. 643), except section 2 thereof, with respect to exchanges of privately owned lands for national forest timber in New Mexico.
 
-“(d) The functions of the Secretary of the Interior under the Act of January 12, 1925 (43 Stat. 739), exceptsection 2 thereof, with respect to exchanges of privately owned lands for national forest timber in New Mexico.
+“(d) The functions of the Secretary of the Interior under the Act of January 12, 1925 (43 Stat. 739), except section 2 thereof, with respect to exchanges of privately owned lands for national forest timber in New Mexico.
 
 “(e) The functions of the Secretary of the Interior under the Act of April 21, 1926 (44 Stat. 303), except section 2 thereof, with respect to exchanges of privately owned lands for national forest lands or timber in New Mexico and Arizona.
 
@@ -108,5 +112,5 @@ The Secretary of Agriculture may from time to time effect such transfers within 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3125a of this title.
+This section is referred to in section 3125a of this title; title 20 section 196.
 

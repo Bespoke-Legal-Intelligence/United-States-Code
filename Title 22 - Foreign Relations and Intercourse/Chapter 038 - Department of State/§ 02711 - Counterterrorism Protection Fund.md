@@ -12,7 +12,7 @@ There are authorized to be appropriated to the Secretary of State for “Adminis
 
 Amounts made available under this section may be referred to as the “Counterterrorism Protection Fund”.
 
-(Aug. 1, 1956, ch. 841, title I, §39, as added Aug. 27, 1986, Pub. L. 99–399, title V, §504(2), 100 Stat. 871.)
+(Aug. 1, 1956, ch. 841, title I, §39, as added Pub. L. 99–399, title V, §504(2), Aug. 27, 1986, 100 Stat. 871.)
 
 #### Prior Provisions
 

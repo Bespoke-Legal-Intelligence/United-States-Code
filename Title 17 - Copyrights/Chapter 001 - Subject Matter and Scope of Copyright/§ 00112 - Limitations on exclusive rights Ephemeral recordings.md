@@ -8,7 +8,7 @@
 
 &emsp;(3) unless preserved exclusively for archival purposes, the copy or phonorecord is destroyed within six months from the date the transmission program was first transmitted to the public.
 
-(b) Notwithstanding the provisions of section 106, it is not an infringement of copyright for a governmental body or other nonprofit organization entitled to transmit a performance or display of a work, under section 110(2) or under the limitations on exclusive rights in sound recordings specified by section 114(a), to make no morethan thirty copies or phonorecords of a particular transmission program embodying the performance or display, if—
+(b) Notwithstanding the provisions of section 106, it is not an infringement of copyright for a governmental body or other nonprofit organization entitled to transmit a performance or display of a work, under section 110(2) or under the limitations on exclusive rights in sound recordings specified by section 114(a), to make no more than thirty copies or phonorecords of a particular transmission program embodying the performance or display, if—
 
 &emsp;(1) no further copies or phonorecords are reproduced from the copies or phonorecords made under this clause; and
 
@@ -74,7 +74,7 @@ Despite objections by music copyright owners, the Committee found this exemption
 
 <b>Ephemeral Recordings for Transmissions to Handicapped Audiences.</b> As a counterpart to its amendment of section 110(8), the Committee adopted a new provision, subsection (d) of section 112, to provide an ephemeral recording exemption in the case of transmissions to the blind and deaf. New subsection would permit the making of one recording of a performance exempted under section 110(8), and its retention for an unlimited period. It would not permit the making of further reproductions or their exchange with other organizations.
 
-<b>Copyright Status of Ephemeral Recordings.</b> A program reproduced in an ephemeral recording made under section 112 in many cases will constitute a motion picture, a sound recording, or some other kind of derivative work, and will thus be potentially copyrightableunder section 103. In section 112(e) it is provided that ephemeral recordings are not to be copyrightable as derivative works except with the consent of the owners of the copyrighted material employed in them.
+<b>Copyright Status of Ephemeral Recordings.</b> A program reproduced in an ephemeral recording made under section 112 in many cases will constitute a motion picture, a sound recording, or some other kind of derivative work, and will thus be potentially copyrightable under section 103. In section 112(e) it is provided that ephemeral recordings are not to be copyrightable as derivative works except with the consent of the owners of the copyrighted material employed in them.
 
 #### Cross References
 

@@ -40,7 +40,7 @@ The Director, subject to the policy direction of the Museum Board, may make gran
 
 #### (2) Greater than 50 percent
 
-&emsp;The Director may use not more than 20 percent of the funds made available under thissubchapter for a fiscal year to make grants under subsection (a) of this section, or enter into contracts or agreements under subsection (b) of this section, for which the Federal share may be greater than 50 percent.
+&emsp;The Director may use not more than 20 percent of the funds made available under this subchapter for a fiscal year to make grants under subsection (a) of this section, or enter into contracts or agreements under subsection (b) of this section, for which the Federal share may be greater than 50 percent.
 
 #### (d) Review and evaluation
 

@@ -12,10 +12,13 @@
 | [9779\.](%C2%A7%2009779%20-%20Use%20of%20public%20property.md) | Use of public property. |
 | [9780\.](%C2%A7%2009780%20-%20Acquisition%20of%20buildings%20in%20District%20of%20Columbia.md) | Acquisition of buildings in District of Columbia. |
 | [9781\.](%C2%A7%2009781%20-%20Disposition%20of%20real%20property%20at%20missile%20sites.md) | Disposition of real property at missile sites. |
+| [9782\.](%C2%A7%2009782%20-%20Maintenance%20and%20repair%20of%20real%20property.md) | Maintenance and repair of real property. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title II, §242(b), Nov. 18, 1997, 111 Stat. 1667, added item 9782.
 
 1987—Pub. L. 100–180, div. B, subdiv. 3, title II, §2325(b), Dec. 4, 1987, 101 Stat. 1221, added item 9781.
 
@@ -51,3 +54,4 @@ Property records, see section 2721 of this title.
 - [&sect; 09779 - Use of public property](%C2%A7%2009779%20-%20Use%20of%20public%20property.md)
 - [&sect; 09780 - Acquisition of buildings in District of Columbia](%C2%A7%2009780%20-%20Acquisition%20of%20buildings%20in%20District%20of%20Columbia.md)
 - [&sect; 09781 - Disposition of real property at missile sites](%C2%A7%2009781%20-%20Disposition%20of%20real%20property%20at%20missile%20sites.md)
+- [&sect; 09782 - Maintenance and repair of real property](%C2%A7%2009782%20-%20Maintenance%20and%20repair%20of%20real%20property.md)

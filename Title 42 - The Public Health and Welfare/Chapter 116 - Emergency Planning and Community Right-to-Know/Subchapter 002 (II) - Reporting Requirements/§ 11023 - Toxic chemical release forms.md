@@ -8,7 +8,7 @@ The owner or operator of a facility subject to the requirements of this section 
 
 #### (1) In general
 
-&emsp;(A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1,1985) and that manufactured, processed, or otherwise used a toxic chemical listed under subsection (c) of this section in excess of the quantity of that toxic chemical established under subsection (f) of this section during the calendar year for which a release form is required under this section.
+&emsp;(A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1, 1985) and that manufactured, processed, or otherwise used a toxic chemical listed under subsection (c) of this section in excess of the quantity of that toxic chemical established under subsection (f) of this section during the calendar year for which a release form is required under this section.
 
 &emsp;(B) The Administrator may add or delete Standard Industrial Classification Codes for purposes of subparagraph (A), but only to the extent necessary to provide that each Standard Industrial Code to which this section applies is relevant to the purposes of this section.
 
@@ -40,7 +40,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 &emsp;A chemical may be added if the Administrator determines, in his judgment, that there is sufficient evidence to establish any one of the following:
 
-&emsp;&emsp;(A) The chemical is known to cause or can reasonably be anticipated to cause significant adverse acute human health effects at concentration levels that are reasonably likely to exist beyond facility site boundaries as a result of continuous, or frequently recurring, releases.
+&emsp;&emsp;(A) The chemical is known to cause or can reasonably be anticipated to cause significant adverse acute human health effects atconcentration levels that are reasonably likely to exist beyond facility site boundaries as a result of continuous, or frequently recurring, releases.
 
 &emsp;&emsp;(B) The chemical is known to cause or can reasonably be anticipated to cause in humans—
 
@@ -88,7 +88,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Governor petitions
 
-&emsp;A State Governor may petition the Administrator to add or delete a chemical from thelist described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
+&emsp;A State Governor may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
 
 &emsp;&emsp;(A) initiates a rulemaking to add the chemical to the list, in accordance with subsection (d)(2) of this section, or
 
@@ -122,7 +122,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 &emsp;&emsp;(A) provide for the name and location of, and principal business activities at, the facility;
 
-&emsp;&emsp;(B) include an appropriate certification, signed by a senior official with management responsibility for the person or persons completing the report, regarding the accuracy and completeness of the report; and
+&emsp;&emsp;(B) include an appropriate certification, signed by a senior official with managementresponsibility for the person or persons completing the report, regarding the accuracy and completeness of the report; and
 
 &emsp;&emsp;(C) provide for submission of each of the following items of information for each listed toxic chemical known to be present at the facility:
 
@@ -196,7 +196,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (8) Effective date
 
-&emsp;Any modification made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any modification made on or after December 1 of any calendar year and before January 1 of the next calendar year shall take effect beginning with the calendar year following such next calendar year.
+&emsp;Any modification made on or after January 1 and before December 1 of any calendar yearshall take effect beginning with the next calendar year. Any modification made on or after December 1 of any calendar year and before January 1 of the next calendar year shall take effect beginning with the calendar year following such next calendar year.
 
 #### (j) EPA management of data
 
@@ -252,7 +252,7 @@ Memorandum of President of the United States, Aug. 8, 1995, 60 F.R. 41791, provi
 
 Memorandum for the Administrator of the Environmental Protection Agency and the Heads of Executive Departments and Agencies
 
-The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) (“EPCRA”) and the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentive for businesses to find their own ways of preventing pollution.
+The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) (“EPCRA”) and the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentivefor businesses to find their own ways of preventing pollution.
 
 The laws provide the Environmental Protection Agency with substantial authority to add to the Toxics Release Inventory under EPCRA: (1) new chemicals; (2) new classes of industrial facilities; and (3) additional types of information concerning toxic chemical use at facilities. Community Right-to-Know should be enhanced wherever possible as appropriate. EPA currently is engaged in an on-going process to address potential facility expansion and the collection of use information. I am committed to a full and open process on the policy issues posed by EPA's exercise of these authorities.
 

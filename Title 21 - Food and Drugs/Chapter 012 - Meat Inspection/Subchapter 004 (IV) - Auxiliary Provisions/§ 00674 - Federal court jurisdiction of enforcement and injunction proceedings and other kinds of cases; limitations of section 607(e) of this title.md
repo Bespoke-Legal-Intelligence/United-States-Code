@@ -2,7 +2,7 @@
 
 The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other Territories, are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of, this chapter, and shall have jurisdiction in all other kinds of cases arising under this chapter, except as provided in section 607(e) of this title.
 
-(Mar. 4, 1907, ch. 2907, title IV, §404, as added Dec. 15, 1967, Pub. L. 90–201, §16, 81 Stat. 599.)
+(Mar. 4, 1907, ch. 2907, title IV, §404, as added Pub. L. 90–201, §16, Dec. 15, 1967, 81 Stat. 599.)
 
 #### Section Referred to in Other Sections
 

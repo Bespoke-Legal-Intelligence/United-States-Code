@@ -1,0 +1,48 @@
+### §561. Definition of deduction for dividends paid
+
+#### (a) General rule
+
+The deduction for dividends paid shall be the sum of—
+
+&emsp;(1) the dividends paid during the taxable year,
+
+&emsp;(2) the consent dividends for the taxable year (determined under section 565), and
+
+&emsp;(3) in the case of a personal holding company, the dividend carryover described in section 564.
+
+#### (b) Special rules applicable
+
+In determining the deduction for dividends paid, the rules provided in section 562 (relating to rules applicable in determining dividends eligible for dividends paid deduction) and section 563 (relating to dividends paid after the close of the taxable year) shall be applicable.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 198; Feb. 2, 1962, Pub. L. 87–403, §3(f), 76 Stat. 8; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(b)(32)(H), 90 Stat. 1800.)
+
+#### Amendments
+
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 redesignated existing provisions of par. (1) as subsec. (b) and struck out par. (2) relating to special adjustment on disposition of antitrust stock as a dividend.
+
+<b>1962</b>—Subsec. (b). Pub. L. 87–403 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+
+#### Effective Date of 1962 Amendment
+
+Amendment by Pub. L. 87–403 applicable only with respect to distributions made after Feb. 2, 1962, see section 3(g) of Pub. L. 87–403, set out as a note under section 312 of this title.
+
+#### Cross References
+
+Accumulated taxable income as taxable income minus, among others, dividends paid deduction, and accumulated earnings credit as related to dividends paid deduction, see section 535 of this title.
+
+Deficiency dividend deduction of personal holding companies, see section 547 of this title.
+
+Taxation of regulated investment companies and their shareholders, see section 852 of this title.
+
+Undistributed foreign personal holding company income as taxable income minus, among others, dividends paid deduction, see section 556 of this title.
+
+Undistributed personal holding company income as taxable income minus, among others, dividends paid deduction, see section 545 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 162, 535, 545, 547, 556, 564, 565, 852, 857, 860, 4981, 4982 of this title.
+

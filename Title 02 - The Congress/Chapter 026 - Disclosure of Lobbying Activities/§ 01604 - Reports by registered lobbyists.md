@@ -2,7 +2,7 @@
 
 #### (a) Semiannual report
 
-No later than 45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered undersection 1603 of this title, each registrant shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives on its lobbying activities during such semiannual period. A separate report shall be filed for each client of the registrant.
+No later than 45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under section 1603 of this title, each registrant shall file a report with the Secretary of the Senate and the Clerk of the House of Representatives on its lobbying activities during such semiannual period. A separate report shall be filed for each client of the registrant.
 
 #### (b) Contents of report
 

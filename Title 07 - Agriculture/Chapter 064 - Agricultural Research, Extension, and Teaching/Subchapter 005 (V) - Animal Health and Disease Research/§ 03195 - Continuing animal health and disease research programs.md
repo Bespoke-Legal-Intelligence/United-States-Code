@@ -8,7 +8,7 @@ There are authorized to be appropriated such funds as Congress may determine nec
 
 Funds appropriated under subsection (a) of this section for any fiscal year shall be apportioned as follows:
 
-&emsp;(1) Four per centum shall be retained by the Department of Agriculture for administration,program assistance to the eligible institutions, and program coordination.
+&emsp;(1) Four per centum shall be retained by the Department of Agriculture for administration, program assistance to the eligible institutions, and program coordination.
 
 &emsp;(2) Forty-eight per centum shall be distributed among the several States in the proportion that the value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in each State bears to the total value of and income to producers from domestic livestock, poultry, and commercial aquaculture species in all the States. The Secretary shall determine the total value of and income from domestic livestock, poultry, and commercial aquaculture species in all the States and the proportionate value of and income from domestic livestock, poultry, and commercial aquaculture species for each State, based on the most current inventory of all cattle, sheep, swine, horses, poultry, and commercial aquaculture species published by the Department of Agriculture.
 

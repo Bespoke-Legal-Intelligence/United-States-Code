@@ -16,7 +16,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(B) the State agency has established acceptable conservation programs, consistent with the purposes and policies of this chapter, for all resident species of fish or wildlife in the State which are deemed by the Secretary to be endangered or threatened, and has furnished a copy of such plan and program together with all pertinent details, information, and data requested to the Secretary;
 
-&emsp;(C) the State agency is authorized to conduct investigations to determine the statusand requirements for survival of resident species of fish and wildlife;
+&emsp;(C) the State agency is authorized to conduct investigations to determine the status and requirements for survival of resident species of fish and wildlife;
 
 &emsp;(D) the State agency is authorized to establish programs, including the acquisition of land or aquatic habitat or interests therein, for the conservation of resident endangered or threatened species of fish or wildlife; and
 
@@ -140,7 +140,7 @@ Subsec. (i). Pub. L. 97–304, §8(b), struck out subsec. (i) which authorized a
 
 1977—Subsec. (c). Pub. L. 95–212, §1(1), inserted provisions that States in which the State fish and wildlife agencies do not possess the broad authority to conserve all resident species of fish and wildlife which the Secretary determines to be threatened or endangered may nevertheless qualify for cooperative agreement funds if they satisfy all other requirements and have plans to devote immediate attention to those species most urgently in need of conservation programs.
 
-Subsec. (i). Pub. L. 95–212, §1(2), substituted provisions authorizing appropriations of $10,000,000 to cover the period ending Sept. 30, 1977, and $16,000,000 to cover the period beginning Oct. 1, 1977, and ending Sept. 30, 1981, for provisions authorizing appropriations of not to exceed $10,000,000 through the fiscal year ending June 30, 1977.
+Subsec. (i). Pub. L. 95–212, §1(2), substituted provisions authorizing appropriations of $10,000,000 to cover the period ending Sept. 30, 1977, and $16,000,000 to cover the period beginning Oct. 1, 1977, and ending Sept. 30, 1981, for provisions authorizing appropriations of not toexceed $10,000,000 through the fiscal year ending June 30, 1977.
 
 #### Cooperative Agreements With States Unaffected by 1981 Amendment of Marine Mammal Protection Act
 

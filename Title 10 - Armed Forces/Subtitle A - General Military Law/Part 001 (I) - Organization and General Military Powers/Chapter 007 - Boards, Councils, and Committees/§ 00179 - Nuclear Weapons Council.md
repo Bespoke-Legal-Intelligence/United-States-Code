@@ -44,7 +44,7 @@
 
 > &emsp;and transmitting such guidance and comments to the Secretary of Defense before the preparation of the annual budget request of the Department of Defense.
 
-(e) In addition to the responsibilities set forth in subsection (d), the Council shall also submit to Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
+(e) In addition to the responsibilities set forth in subsection (d), the Council shall also submitto Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
 
 (f) Each fiscal year, at the same time the President submits the budget pursuant to section 1105 of title 31, the Chairman of the Council, through the Secretary of Energy, shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a report, in classified form, on the following:
 

@@ -1,0 +1,294 @@
+### §7652. Shipments to the United States
+
+#### (a) Puerto Rico
+
+#### (1) Rate of tax
+
+&emsp;Except as provided in section 5314, articles of merchandise of Puerto Rican manufacture coming into the United States and withdrawn for consumption or sale shall be subject to a tax equal to the internal revenue tax imposed in the United States upon the like articles of merchandise of domestic manufacture.
+
+#### (2) Payment of tax
+
+&emsp;The Secretary shall by regulations prescribe the mode and time for payment and collection of the tax described in paragraph (1), including any discretionary method described in section 6302(b) and (c). Such regulations shall authorize the payment of such tax before shipment from Puerto Rico, and the provisions of section 7651(2)(B) shall be applicable to the payment and collection of such tax in Puerto Rico.
+
+#### (3) Deposit of internal revenue collections
+
+&emsp;All taxes collected under the internal revenue laws of the United States on articles produced in Puerto Rico and transported to the United States (less the estimated amount necessary for payment of refunds and drawbacks), or consumed in the island, shall be covered into the treasury of Puerto Rico.
+
+#### (b) Virgin Islands
+
+#### (1) Taxes imposed in the United States
+
+&emsp;Except as provided in section 5314, there shall be imposed in the United States, upon articles coming into the United States from the Virgin Islands, a tax equal to the internal revenue tax imposed in the United States upon like articles of domestic manufacture.
+
+#### (2) Exemption from tax imposed in the Virgin Islands
+
+&emsp;Such articles shipped from such islands to the United States shall be exempt from the payment of any tax imposed by the internal revenue laws of such islands.
+
+#### (3) Disposition of internal revenue collections
+
+&emsp;Beginning with the calendar quarter ending September 30, 1975, and quarterly thereafter, the Secretary shall determine the amount of all taxes imposed by, and collected during the quarter under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
+
+&emsp;&emsp;(A) There shall be transferred and paid over, as soon as practicable after the close of the quarter, to the Government of the Virgin Islands from the amounts so determined a sum equal to the total amount of the revenue collected by the Government of the Virgin Islands during the quarter, as certifiedby the Government Comptroller of the Virgin Islands. The moneys so transferred and paid over shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.
+
+&emsp;&emsp;(B) Any amounts remaining shall be deposited in the Treasury of the United States as miscellaneous receipts.
+
+> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
+
+#### (c) Articles containing distilled spirits
+
+For purposes of subsections (a)(3) and (b)(3), any article containing distilled spirits shall in no event be treated as produced in Puerto Rico or the Virgin Islands unless at least 92 percent of the alcoholic content in such article is attributable to rum.
+
+#### (d) Articles other than articles containing distilled spirits
+
+For purposes of subsections (a)(3) and (b)(3)—
+
+#### (1) Value added requirement for Puerto Rico
+
+&emsp;Any article, other than an article containing distilled spirits, shall in no event be treated as produced in Puerto Rico unless the sum of—
+
+&emsp;&emsp;(A) the cost or value of the materials produced in Puerto Rico, plus
+
+&emsp;&emsp;(B) the direct costs of processing operations performed in Puerto Rico,
+
+> &emsp;equals or exceeds 50 percent of the value of such article as of the time it is brought into the United States.
+
+#### (2) Prohibition of Federal excise tax subsidies
+
+#### (A) In general
+
+&emsp;&emsp;No amount shall be transferred under subsection (a)(3) or (b)(3) in respect of taxes imposed on any article, other than an article containing distilled spirits, if the Secretary determines that a Federal excise tax subsidy was provided by Puerto Rico or the Virgin Islands (as the case may be) with respect to such article.
+
+#### (B) Federal excise tax subsidy
+
+&emsp;&emsp;For purposes of this paragraph, the term “Federal excise tax subsidy” means any subsidy—
+
+&emsp;&emsp;&emsp;(i) of a kind different from, or
+
+&emsp;&emsp;&emsp;(ii) in an amount per value or volume of production greater than,
+
+> &emsp;&emsp;the subsidy which Puerto Rico or the Virgin Islands offers generally to industries producing articles not subject to Federal excise taxes.
+
+#### (3) Direct costs of processing operations
+
+&emsp;For purposes of this subsection, the term “direct cost of processing operations” has the same meaning as when used in section 213 of the Caribbean Basin Economic Recovery Act.
+
+#### (e) Shipments of rum to the United States
+
+#### (1) Excise taxes on rum covered into treasuries of Puerto Rico and Virgin Islands
+
+&emsp;All taxes collected under section 5001(a)(1) on rum imported into the United States (less the estimated amount necessary for payment of refunds and drawbacks) shall be covered into the treasuries of Puerto Rico and the Virgin Islands.
+
+#### (2) Secretary prescribes formula
+
+&emsp;The Secretary shall, from time to time, prescribe by regulation a formula for the division of such tax collections between Puerto Rico and the Virgin Islands and the timing and methods for transferring such tax collections.
+
+#### (3) Rum defined
+
+&emsp;For purposes of this subsection, the term “rum” means any article classified under subheading 2208.40.00 of the Harmonized Tariff Schedule of the United States (19 U.S.C. 1202).
+
+#### (4) Coordination with subsections (a) and (b)
+
+&emsp;Paragraph (1) shall not apply with respect to any rum subject to tax under subsection (a) or (b).
+
+#### (f) Limitation on cover over of tax on distilled spirits
+
+For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
+
+&emsp;(1) $10.50 ($11.30 in the case of distilled spirits brought into the United States during the 5-year period beginning on October 1, 1993), or.<sup>1</sup>
+
+&emsp;(2) the tax imposed under section 5001(a)(1), on each proof gallon.
+
+#### (g) Drawback for medicinal alcohol, etc.
+
+In the case of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands—
+
+&emsp;(1) subpart F of part II of subchapter A of chapter 51 shall be applied as if—
+
+&emsp;&emsp;(A) the use and tax determination described in section 5131(a) had occurred in the United States by a United States person at the time the article is brought into the United States, and
+
+&emsp;&emsp;(B) the rate of tax were the rate applicable under subsection (f) of this section, and
+
+&emsp;(2) no amount shall be covered into the treasuries of Puerto Rico or the Virgin Islands.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 907; Sept. 2, 1958, Pub. L. 85–859, title II, §204(17), (18), 72 Stat. 1430; June 21, 1965, Pub. L. 89–44, title VIII, §808(b)(3), 79 Stat. 164; Jan. 2, 1976, Pub. L. 94–202, §10(a), 89 Stat. 1141; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), 90 Stat. 1832, 1834; Aug. 5, 1983, Pub. L. 98–67, title II, §221(a), 97 Stat. 395; Dec. 8, 1983, Pub. L. 98–213, §5(c), 97 Stat. 1460; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), 98 Stat. 1172, 1174; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1879(i)(1), 100 Stat. 2907; Aug. 23, 1988, Pub. L. 100–418, title I, §1214(p)(1), 102 Stat. 1159; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13227(e), 107 Stat. 494; Dec. 8, 1994, Pub. L. 103–465, title I, §136(b), 108 Stat. 4841.)
+
+#### References in Text
+
+The internal revenue laws, referred to in subsec. (b)(3), are classified generally to this title.
+
+Section 213 of the Caribbean Basin Economic Recovery Act, referred to in subsec. (d)(3), is classified to section 2703 of Title 19, Customs Duties.
+
+The Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), referred to in subsec. (e)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19.
+
+#### Amendments
+
+<b>1994</b>—Subsec. (g). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts” in introductory provisions.
+
+<b>1993</b>—Subsec. (f)(1). Pub. L. 103–66 amended par. (1) generally, substituting present provisions for “$10.50, or”.
+
+<b>1988</b>—Subsec. (e)(3). Pub. L. 100–418 substituted “subheading 2208.40.00 of the Harmonized Tariff Schedule of the United States” for “item 169.13 or 169.14 of the Tariff Schedules of the United States”.
+
+<b>1986</b>—Subsec. (g). Pub. L. 99–514 added subsec. (g).
+
+<b>1984</b>—Subsecs. (c)–(e). Pub. L. 98–369, §2681(a), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+
+Subsec. (f). Pub. L. 98–369, §2682(a), added subsec. (f).
+
+<b>1983</b>—Subsec. (b)(3). Pub. L. 98–213, §5(c), amended language of Pub. L. 94–455, §1906(a)(55). See 1976 Amendment note below.
+
+Subsec. (c). Pub. L. 98–67 added subsec. (c).
+
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+Subsec. (b)(3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” in provisions following subpar. (B).
+
+Pub. L. 94–455, §1906(a)(55)(B), as amended by Pub. L. 98–213, §5(c)(1), substituted “emergency relief purposes and essential public projects” for “emergency relief purposes and essential public projects, with the prior approval of the President or his designated representative” in provisions following subpar. (B). Prior to amendment by Pub. L. 98–213, the latter phrase had been substituted for “approved emergency relief purposes and essential public projects as provided in subparagraph (B)”.
+
+Pub. L. 94–455, §1906(a)(55)(C), struck out “including payments under subparagraph (B)” after “public projects only” in provisions following subpar. (B).
+
+Subsec. (b)(3)(A). Pub. L. 94–455, §1906(a)(55)(D), as added by Pub. L. 98–213, §5(c)(2), struck out proviso after “determine” requiring approval of the President or his designated representative before such moneys may be obligated or expended.
+
+Subsec. (b)(3)(B), (C). Pub. L. 94–455, §1906(a)(55)(A), redesignated subpar. (C) as (B). Former subpar. (B) relating to disposition of internal revenue collections in Virgin Islands for fiscal years ending June 30, 1955 and 1956 was struck out.
+
+Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and quarterly” for “fiscal year ending June 30, 1954, and annually” and “quarter” for “fiscal year” in provisions preceding subpar. (A), substituted “paid over, as soon as practicable after the close of the quarter,” for “paid over” and “quarter” for “fiscal year” in subpar. (A), and substituted “with respect to the four calendar quarters immediately preceding the beginning” for “at the beginning” in provisions following subpar. (C).
+
+<b>1965</b>—Subsec. (a)(3). Pub. L. 89–44 inserted “(less the estimated amount necessary for payment of refunds and drawbacks)” after “transported to the United States”.
+
+<b>1958</b>—Subsec. (a)(1). Pub. L. 85–859, §204(17), substituted “section 5314” for “section 5318”.
+
+Subsec. (b)(1). Pub. L. 85–859, §204(18), substituted “section 5314” for “section 5318”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 136(d) of Pub. L. 103–465, set out as a note under section 5001 of this title.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–66 effective Oct. 1, 1993, see section 13227(f) of Pub. L. 103–66, set out as a note under section 56 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+
+#### Effective Date of 1986 Amendment
+
+Section 1879(i)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to articles brought into the United States after the date of the enactment of this Act \[Oct. 22, 1986\].”
+
+#### Effective Date of 1984 Amendment
+
+Section 2681(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply with respect to articles brought into the United States on or after March 1, 1984.
+
+“(2)
+
+Exception for puerto rico for periods before january 1, 1985.—
+
+&emsp;“(A)
+
+In general.—Subject to the limitations of subparagraphs (B) and (C), the amendments made by subsection (a) \[amending this section\] shall not apply with respect to articles containing distilled spirits brought into the United States from Puerto Rico after February 29, 1984, and before January 1, 1985.
+
+&emsp;“(B) $130,000,000
+
+limitation.—In the case of such articles brought into the United States after February 29, 1984, and before July 1, 1984, the aggregate amount payable to Puerto Rico by reason of subparagraph (A) shall not exceed the excess of—
+
+&emsp;&emsp;“(i) $130,000,000, over
+
+&emsp;&emsp;“(ii) the aggregate amount payable to Puerto Rico under section 7652(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to such articles which were brought into the United States after June 30, 1983, and before March 1, 1984, and which would not meet the requirements of section 7652(c) of such Code.
+
+&emsp;“(C) $75,000,000
+
+limitation.—The aggregate amount payable to Puerto Rico by reason of subparagraph (A) shall not exceed $75,000,000 in the case of articles—
+
+&emsp;&emsp;“(i) brought into the United States after June 30, 1984, and before January 1, 1985,
+
+&emsp;&emsp;“(ii) which would not meet the requirements of section 7652(c) of such Code,
+
+&emsp;&emsp;“(iii) which have been redistilled in Puerto Rico, and
+
+&emsp;&emsp;“(iv) which do not contain distilled spirits derived from cane.
+
+“(3)
+
+Limitation on incentive payments to united states distillers.—
+
+&emsp;“(A)
+
+In general.—In the case of articles to which this paragraph applies, the aggregate amount of incentive payments paid to any United States distiller with respect to such articles shall not exceed the limitation described in subparagraph (C).
+
+&emsp;“(B)
+
+Articles to which paragraph applies.—This paragraph shall apply to any article containing distilled spirits described in clauses (i) through (iv) of paragraph (2)(C).
+
+&emsp;“(C)
+
+Limitation.—
+
+&emsp;&emsp;“(i)
+
+In general.—The limitation described in this subparagraph is $1,500,000.
+
+&emsp;&emsp;“(ii)
+
+Special rule.—The limitation described in this subparagraph shall be zero with respect to any distiller who was not entitled to or receiving incentive payments as of March 1, 1984.
+
+&emsp;“(D)
+
+Payments in excess of limitation.—If any United States distiller receives any incentive payment with respect to articles to which this paragraph applies in excess of the limitation described in subparagraph (C), such distiller shall pay to the United States the total amount of such incentive payments with respect to such articles in the same manner, and subject to the same penalties, as if such amount were tax due and payable under section 5001 of such Code on the date such payments were received.
+
+&emsp;“(E)
+
+Incentive payments.—
+
+&emsp;&emsp;“(i)
+
+In general.—For purposes of this paragraph, the term ‘incentive payment’ means any payment made directly or indirectly by the commonwealth of Puerto Rico to any United States distiller as an incentive to engage in redistillation operations.
+
+&emsp;&emsp;“(ii)
+
+Transportation payments excluded.—Such term shall not include any payment of a direct cost of transportation to or from Puerto Rico with respect to any article to which this paragraph applies.”
+
+Section 2682(b) of Pub. L. 98–369 provided that “The amendment made by this section \[amending this section\] shall apply to articles containing distilled spirits brought into the United States after September 30, 1985.”
+
+#### Effective Date of 1983 Amendment
+
+Section 221(b) of Pub. L. 98–67 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to articles imported into the United States after June 30, 1983.”
+
+#### Effective Date of 1976 Amendments
+
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
+
+Section 10(b) of Pub. L. 94–202 provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall apply with respect to all taxes imposed by, and collected after June 30, 1975, under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States.”
+
+#### Effective Date of 1965 Amendment
+
+Amendment by Pub. L. 89–44 effective July 1, 1965, see section 808(d)(1) of Pub. L. 89–44, set out as a note under section 5702 of this title.
+
+#### Effective Date of 1958 Amendment
+
+Amendment by Pub. L. 85–859 effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1989
+
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+#### Payment to Puerto Rico or Virgin Islands of Amounts With Respect to Medicines, etc. Unfit for Beverage Purposes
+
+Section 1879(i)(3) of Pub. L. 99–514 provided that:
+
+“(A) Section 7652 of the Internal Revenue Code of 1954 \[now 1986\] (other than subsection (f) thereof) shall not prevent the payment to Puerto Rico or the Virgin Islands of amounts with respect to medicines, medicinal preparations, food products, flavors, or flavoring extracts containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands on or before the date of the enactment of this Act \[Oct. 22, 1986\].
+
+“(B) With respect to articles brought into the United States after September 27, 1985, subparagraph (A) shall apply only if the Secretary of the Treasury or his delegate is satisfied that the amounts paid to Puerto Rico or the Virgin Islands under subparagraph (A) are being repaid to the proper persons who used the distilled spirits in such articles.”
+
+#### Ex. Ord. No. 10602. Secretary of the Interior as Representative of President
+
+Ex. Ord. No. 10602, Mar. 24, 1955, 20 F.R. 1795, provided: “By virtue of the authority vested in me by section 7652(b)(3) of the Internal Revenue Code of 1954 \[now I.R.C. 1986\] (Public Law 591, 83rd Congress, 68A Stat. 907), I hereby designate the Secretary of the Interior as the representative of the President to approve the obligation and expenditure by the government of the Virgin Islands of the moneys referred to in the said section 7652(b)(3).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4132, 4612, 4662, 4672, 4682, 5001, 5008, 5010, 5061, 5314, 5702, 5703, 5705, 7809 of this title; title 48 sections 1574a, 1574b, 1574c, 1644.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
+

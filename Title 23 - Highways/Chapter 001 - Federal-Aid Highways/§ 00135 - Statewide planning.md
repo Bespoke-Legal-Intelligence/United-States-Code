@@ -92,7 +92,7 @@ Funding.—Funds set aside pursuant to section 307(c)(1) of title 23, United Sta
 
 (h)
 
-Treatment of Certain State Laws as Congestion Management Systems.—For purposes of this section, section 134, and sections 5303–5306 and 5323(k) of title 49, State laws, rules or regulations pertaining to congestion management systems or programs may constitute the congestion management system under this Act <sup>1</sup> if the Secretary finds that the State laws, rules or regulations are consistent with, and fulfill the intent of, the purposes of this section, section 134 or sections 5303–5306 and 5323(k), as appropriate.
+Treatment of Certain State Laws as Congestion Management Systems.—For purposes of this section, section 134, and sections 5303–5306 and 5323(k) of title 49, State laws, rules or regulations pertaining to congestion management systems or programs may constitute the congestion management system under this Act <sup>1</sup> if the Secretary finds that the State laws, rules or regulations are consistent with, and fulfillthe intent of, the purposes of this section, section 134 or sections 5303–5306 and 5323(k), as appropriate.
 
 (Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I, §§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378.)
 
@@ -146,7 +146,7 @@ Pub. L. 95–599, title I, §154, Nov. 6, 1978, 92 Stat. 2716, provided that:
 
 “(a) The Secretary of Transportation is authorized to carry out a demonstration project of the use of a sophisticated automated roadway management system to increase the capacity and safety of automobile travel in high density travel corridors without providing additional lanes of pavement. The management system shall coordinate the traffic flow in major freeways and arterials servicing the travel corridor by use of an integrated system of vehicle sensors to monitor traffic, computers to assess traffic conditions throughout the corridor, and devices to communicate with drivers, police, and emergency equipment.
 
-“(b) There is authorized to be appropriated to carry out this section, out of the Highway Trust Fund, not to exceed $1,500,000 for the fiscal year ending September30, 1979, not to exceed $2,500,000 for the fiscal year ending September 30, 1980, and not to exceed $26,000,000 for the fiscal year ending September 30, 1981.
+“(b) There is authorized to be appropriated to carry out this section, out of the Highway Trust Fund, not to exceed $1,500,000 for the fiscal year ending September 30, 1979, not to exceed $2,500,000 for the fiscal year ending September 30, 1980, and not to exceed $26,000,000 for the fiscal year ending September 30, 1981.
 
 “(c) The Federal share payable on account of any project authorized under this section shall not exceed 90 per centum of the total cost thereof.
 
@@ -156,7 +156,7 @@ Pub. L. 95–599, title I, §154, Nov. 6, 1978, 92 Stat. 2716, provided that:
 
 Section 146 of Pub. L. 94–280 provided that:
 
-“(a) The Secretary of Transportation is authorized to carry out traffic control signalization demonstration projects designed to demonstrate through the use of technology not now in general use the increased capacity of existing highways, the conservation of fuel, the decrease in traffic congestion, the improvement in air and noise quality, and the furtherance of highway safety, giving priority to those projects providing coordinated signalization of two or more intersections. Such projects can be carried out on any highway whether on or off a Federal-aid system.
+“(a) The Secretary of Transportation is authorized to carry out traffic control signalization demonstration projects designed to demonstrate through the use of technology not now in general use the increased capacity of existing highways, the conservation of fuel, thedecrease in traffic congestion, the improvement in air and noise quality, and the furtherance of highway safety, giving priority to those projects providing coordinated signalization of two or more intersections. Such projects can be carried out on any highway whether on or off a Federal-aid system.
 
 “(b) There is authorized to be appropriated to carry out this section of the Highway Trust Fund, not to exceed $40,000,000 for the fiscal year ending September 30, 1977, and $40,000,000 for the fiscal year ending September 30, 1978.
 

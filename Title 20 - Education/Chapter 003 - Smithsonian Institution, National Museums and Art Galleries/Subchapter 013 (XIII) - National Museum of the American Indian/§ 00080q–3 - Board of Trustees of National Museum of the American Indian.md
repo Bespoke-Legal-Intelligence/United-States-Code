@@ -82,7 +82,7 @@ Subject to the general policies of the Board of Regents, the Board of Trustees s
 
 #### (3) Terms
 
-&emsp;The trustee appointed under paragraph (1)(B) shall serve at the pleasure of the Board of Regents. Except as otherwise provided in the next sentence, the terms of members appointed under paragraph (1)(C) shall be 3years. Of the members first appointed under paragraph (1)(C)—
+&emsp;The trustee appointed under paragraph (1)(B) shall serve at the pleasure of the Board of Regents. Except as otherwise provided in the next sentence, the terms of members appointed under paragraph (1)(C) shall be 3 years. Of the members first appointed under paragraph (1)(C)—
 
 &emsp;&emsp;(A) 7 members, 4 of whom shall be Indians, shall be appointed for a term of one year, as designated at the time of appointment; and
 

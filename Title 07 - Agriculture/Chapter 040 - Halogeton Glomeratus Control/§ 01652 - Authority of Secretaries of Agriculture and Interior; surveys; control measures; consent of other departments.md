@@ -8,7 +8,7 @@ The Secretary of the Interior with respect to lands under his jurisdiction, incl
 
 &emsp;(3) to plan, organize, direct, and carry out such measures and operations as either of them may deem necessary to carry out the purposes of this chapter.
 
-(b) Measures and operations to control, suppress, or eradicate Halogeton glomeratus on lands under the jurisdiction of any department, agency, independent establishment, or corporation of the Federal Government shall not be conducted without the consent of the department, agency, independent establishment, or corporation concerned.
+(b) Measures and operations to control, suppress, or eradicate Halogeton glomeratus onlands under the jurisdiction of any department, agency, independent establishment, or corporation of the Federal Government shall not be conducted without the consent of the department, agency, independent establishment, or corporation concerned.
 
 (July 14, 1952, ch. 721, §3, 66 Stat. 598.)
 

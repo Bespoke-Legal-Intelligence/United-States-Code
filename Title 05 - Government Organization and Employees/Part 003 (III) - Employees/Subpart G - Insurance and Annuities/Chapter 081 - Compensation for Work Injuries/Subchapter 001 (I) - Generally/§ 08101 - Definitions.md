@@ -28,7 +28,7 @@ For the purpose of this subchapter—
 
 &emsp;(2) “physician” includes surgeons, podiatrists, dentists, clinical psychologists, optometrists, chiropractors, and osteopathic practitioners within the scope of their practice as defined by State law. The term “physician” includes chiropractors only to the extent that their reimbursable services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(3) “medical, surgical, and hospital services and supplies” includes services and supplies by podiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
+&emsp;(3) “medical, surgical, and hospital services and supplies” includes services and supplies bypodiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
 &emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
@@ -82,7 +82,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(D) an additional type of educational or training institution as defined by the Secretary of Labor.
 
-> &emsp;Such an individual is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 4 months and if he shows to the satisfaction of the Secretary that he has a bona fide intention of continuing to pursue a full-time course of study or training during the semester or other enrollment period immediately after the interim or during periods of reasonable duration during which, in the judgment of the Secretary, he is prevented by factors beyond his control from pursuing his education. A student whose 23rd birthday occurs during a semester or other enrollment period is deemed a student until the end of the semester or other enrollment period;
+> &emsp;Such an individual is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 4 months and if he shows to the satisfaction of the Secretary that he has a bona fide intention of continuing to pursue a full-timecourse of study or training during the semester or other enrollment period immediately after the interim or during periods of reasonable duration during which, in the judgment of the Secretary, he is prevented by factors beyond his control from pursuing his education. A student whose 23rd birthday occurs during a semester or other enrollment period is deemed a student until the end of the semester or other enrollment period;
 
 &emsp;(18) “price index” means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
 
@@ -190,7 +190,7 @@ Former section 790(c) is omitted as unnecessary as the term “commission” is 
 
 Former section 790(i) is omitted as unnecessary as the title “Secretary of Labor” (substituted for “Federal Security Administrator” by 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 64 Stat. 1271) is fully set out the first time it is used in each section.
 
-In paragraph (1)(B), the words “to the United States” are substituted for “to any department, independentestablishment, or agency thereof (including instrumentalities of the United States wholly owned by it)”.
+In paragraph (1)(B), the words “to the United States” are substituted for “to any department, independent establishment, or agency thereof (including instrumentalities of the United States wholly owned by it)”.
 
 In paragraph (1)(C), the words “subsequent to September 7, 1916” are omitted as obsolete.
 

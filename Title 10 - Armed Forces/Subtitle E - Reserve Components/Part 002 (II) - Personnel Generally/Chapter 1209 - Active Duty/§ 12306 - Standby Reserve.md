@@ -4,7 +4,7 @@
 
 (b) In time of emergency—
 
-&emsp;(1) no unit in the Standby Reserve organized to serve as a unit or any member thereof may be ordered to active duty (other than for training), unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough of the required kinds of units in the Ready Reserve that are readily available; and
+&emsp;(1) no unit in the Standby Reserve organized to serve as a unit or any member thereof maybe ordered to active duty (other than for training), unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough of the required kinds of units in the Ready Reserve that are readily available; and
 
 &emsp;(2) no other member in the Standby Reserve may be ordered to active duty (other than for training) as an individual without his consent, unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough qualified members in the Ready Reserve in the required category who are readily available.
 

@@ -42,5 +42,5 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1712A, 1729, 2303, 8111 of this title.
+This section is referred to in sections 1712A, 1729, 1729A, 2303, 8111 of this title.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Person Holding ICC Authority.—Any person having authority to provide transportation or service as a motor carrier, freight forwarder, or broker under this title, as in effect on December 31, 1995, shall be deemed, for purposes of this part, to be registered to provide such transportation or service under this part.
+Person Holding ICC Authority.—Any person having authority to provide transportation or service as a motor carrier, freight forwarder,or broker under this title, as in effect on December 31, 1995, shall be deemed, for purposes of this part, to be registered to provide such transportation or service under this part.
 
 (b)
 
@@ -26,7 +26,7 @@ Expedited Procedure.—
 
 &emsp;(1)
 
-Protection of safety.—Without regard to subchapter II of chapter 5 of title 5, the Secretary may suspend the registration of a motor carrier, a freight forwarder, or a broker for failure to comply with safety requirements of the Secretary or the safety fitness requirements pursuant to section 13904(c), 13906, or 31144,<sup>1</sup> of this title, or an order or regulation of the Secretary prescribed under those sections.
+Protection of safety.—Without regard to subchapter II of chapter 5 of title 5, the Secretary may suspend the registration of a motor carrier, a freight forwarder, or a broker for failure to comply with safety requirements of the Secretary or the safety fitness requirements pursuant to section 13904(c), 13906, or 31144 of this title, or an order or regulation of the Secretary prescribed under those sections.
 
 &emsp;(2)
 
@@ -36,7 +36,7 @@ Imminent hazard to public health.—Without regard to subchapter II of chapter 5
 
 Notice; period of suspension.—The Secretary may suspend under this subsection the registration only after giving notice of the suspension to the registrant. The suspension remains in effect until the registrant complies with those applicable sections or, in the case of a suspension under paragraph (2), until the Secretary revokes such suspension.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 884; amended Pub. L. 104–287, §5(33), Oct. 11, 1996, 110 Stat. 3392.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 884; amended Pub. L. 104–287, §5(33), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 105–102, §2(10), Nov. 20, 1997, 111 Stat. 2204.)
 
 #### Historical and Revision Notes
 
@@ -44,17 +44,21 @@ I74Pub. L. 104–287
 
 This amends 49:13905(a) for clarity and consistency.
 
+#### Pub. L. 105–102
+
+This amends 49:13905(e)(1) to correct a grammatical error.
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10925 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
 
+1997—Subsec. (e)(1). Pub. L. 105–102 struck out comma after “31144”.
+
 1996—Subsec. (a). Pub. L. 104–287 substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 13902 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

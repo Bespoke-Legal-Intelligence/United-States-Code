@@ -18,7 +18,7 @@ Under the Program established in subsection (a) of this section, and consistent 
 
 &emsp;&emsp;(A) provision of organizational and technical advice; and
 
-&emsp;&emsp;(B) participation in such joint ventures by means of grants, cooperative agreements, or contracts, if the Secretary, acting through the Director, determines participation to be appropriate, which may include (i) partial start-up funding, (ii) provision of a minority share of the cost of such joint ventures for up to 5 years, and (iii) making available equipment, facilities, and personnel,
+&emsp;&emsp;(B) participation in such joint ventures by means of grants, cooperative agreements, or contracts, if the Secretary, acting through the Director, determines participation to be appropriate, which may include (i) partial start-up funding, (ii) provision of a minorityshare of the cost of such joint ventures for up to 5 years, and (iii) making available equipment, facilities, and personnel,
 
 > &emsp;provided that emphasis is placed on areas where the Institute has scientific or technological expertise, on solving generic problems of specific industries, and on making those industries more competitive in world markets;
 
@@ -68,7 +68,7 @@ When entering into contracts or making awards under subsection (b) of this secti
 
 &emsp;(9) A company shall be eligible to receive financial assistance under this section only if—
 
-&emsp;&emsp;(A) the Secretary finds that the company's participation in the Program would be in the economic interest of the United States, as evidenced by investments in the United States in research, development, and manufacturing (including, for example, the manufacture of major components or subassemblies in the United States); significant contributions to employment in the UnitedStates; and agreement with respect to any technology arising from assistance provided under this section to promote the manufacture within the United States of products resulting from that technology (taking into account the goals of promoting the competitiveness of United States industry), and to procure parts and materials from competitive suppliers; and
+&emsp;&emsp;(A) the Secretary finds that the company's participation in the Program would be in the economic interest of the United States, as evidenced by investments in the United States in research, development, and manufacturing (including, for example, the manufacture of major components or subassemblies in the United States); significant contributions to employment in the United States; and agreement with respect to any technology arising from assistance provided under this section to promote the manufacture within the United States of products resulting from that technology (taking into account the goals of promoting the competitiveness of United States industry), and to procure parts and materials from competitive suppliers; and
 
 &emsp;&emsp;(B) either—
 
@@ -114,7 +114,7 @@ As used in this section—
 
 &emsp;&emsp;(B) the development or testing of basic engineering techniques;
 
-&emsp;&emsp;(C) the extension of investigative finding or theory of a scientific or technical natureinto practical application for experimental and demonstration purposes, including the experimental production and testing of models, prototypes, equipment, materials, and processes;
+&emsp;&emsp;(C) the extension of investigative finding or theory of a scientific or technical nature into practical application for experimental and demonstration purposes, including the experimental production and testing of models, prototypes, equipment, materials, and processes;
 
 &emsp;&emsp;(D) the collection, exchange, and analysis of research information;
 
@@ -176,11 +176,11 @@ Section 201(b) of Pub. L. 102–245 provided that:
 
 “(2) The purposes of this section \[amending this section and section 272 of this title and enacting provisions set out as notes under this section and section 271 of this title\] are—
 
-&emsp;“(A) to strengthen the Advanced Technology Program created under section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n), and to provide improved guidelines for the allocation of Advanced Technology Program funds appropriated under the authorizations contained in section 105 of this Act \[amending sections 278k and 4632 of this title and provisions set out as a note under section 278<i>l</i> of this title\];
+&emsp;“(A) to strengthen the Advanced Technology Program created under section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n), and to provide improved guidelines for the allocation of Advanced Technology Program funds appropriated under the authorizations contained in section105 of this Act \[amending sections 278k and 4632 of this title and provisions set out as a note under section 278<i>l</i> of this title\];
 
 &emsp;“(B) to promote and assist in the development of advanced technologies and the generic application of such technologies to civilian products, processes, and services;
 
-&emsp;“(C) to improve the competitive position of United States industry by supporting industry-led researchand development projects in areas of emerging technology which have substantial potential to advance the economic well-being and national security of the United States, such as high-resolution information systems, advanced manufacturing technology, and advanced materials; and
+&emsp;“(C) to improve the competitive position of United States industry by supporting industry-led research and development projects in areas of emerging technology which have substantial potential to advance the economic well-being and national security of the United States, such as high-resolution information systems, advanced manufacturing technology, and advanced materials; and
 
 &emsp;“(D) to support projects that range from idea exploration to prototype development and address long-term, high-risk areas of technological research, development, and application that are not otherwise being adequately developed by the private sector, but are likely to yield important benefits to the Nation.”
 

@@ -1,0 +1,10 @@
+### §1300a–1. Membership roll; preparation; eligibility for enrollment; verification; approval
+
+For the purposes of apportioning the funds, the Yavapai Apache Indian Community of theCamp Verde Reservation, the Fort McDowell Mohave-Apache Community, and the Yavapai-Prescott Community shall prepare rolls of all persons who were born on or prior to and living on October 6, 1972, and who are enrolled or entitled to be enrolled in accordance with the respective tribal constitutions or articles of association, as the case may be, in effect on April 1, 1972. The Secretary of the Interior shall verify and approve the rolls.
+
+(Pub. L. 92–461, §3, Oct. 6, 1972, 86 Stat. 769.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1300a–2 of this title.
+

@@ -18,11 +18,11 @@
 
 (2) Amounts appropriated for the “Salaries and Expenses” and “Educational and Cultural Exchange Programs” accounts may not exceed by more than 5 percent the amount specifically authorized to be appropriated for each such account for a fiscal year. No other appropriations account may exceed by more than 10 percent the amount specifically authorized to be appropriated for such account for a fiscal year.
 
-(3) The requirements and limitations of subsection (a) of this section shall not apply to the appropriation of funds pursuant to this subsection.
+(3) The requirements and limitations of subsection (a) of this section shall not apply to theappropriation of funds pursuant to this subsection.
 
 (4) This subsection shall cease to have effect after September 30, 1995.
 
-(Jan. 27, 1948, ch. 36, title VII, §701, 62 Stat. 11; Feb. 7, 1972, Pub. L. 92–226, pt. IV, §407(d), 86 Stat. 35; July 13, 1972, Pub. L. 92–352, title II, §203, 86 Stat. 494; Nov. 29, 1973, Pub. L. 93–168, §3, 87 Stat. 688; Oct. 26, 1974, Pub. L. 93–475, §6, 88 Stat. 1440; 1977 Reorg. Plan No. 2, §§5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637; Aug. 24, 1982, Pub. L. 97–241, title III, §303(b), 96 Stat. 291; Oct. 24, 1992, Pub. L. 102–499, §2, 106 Stat. 3264; Oct. 25, 1994, Pub. L. 103–415, §1(q), 108 Stat. 4301.)
+(Jan. 27, 1948, ch. 36, title VII, §701, 62 Stat. 11; Pub. L. 92–226, pt. IV, §407(d), Feb. 7, 1972, 86 Stat. 35; Pub. L. 92–352, title II, §203, July 13, 1972, 86 Stat. 494; Pub. L. 93–168, §3, Nov. 29, 1973, 87 Stat. 688; Pub. L. 93–475, §6, Oct. 26, 1974, 88 Stat. 1440; 1977 Reorg. Plan No. 2, §§5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–499, §2, Oct. 24, 1992, 106 Stat. 3264; Pub. L. 103–415, §1(q), Oct. 25, 1994, 108 Stat. 4301.)
 
 #### References in Text
 

@@ -1,11 +1,6 @@
 ## PART VI—ACQUISITION AND DISPOSITION OF PROPERTY
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>81.</b>](Chapter%20081%20-%20Acquisition%20and%20Operation%20of%20Hospital%20and%20Domiciliary%20Facilities%3B%20Procurement%20and%20Supply%3B%20Enhanced-Use%20Leases%20of%20Real%20Property/README.md) | <b>Acquisition and Operation of Hospital and Domiciliary Facilities; Procurement and Supply; Enhanced-Use Leases of Real Property</b> | <b>8101</b> |
 | [<b>82.</b>](Chapter%20082%20-%20Assistance%20in%20Establishing%20New%20State%20Medical%20Schools%3B%20Grants%20to%20Affiliated%20Medical%20Schools%3B%20Assistance%20to%20Health%20Manpower%20Training%E2%80%A6/README.md) | <b>Assistance in Establishing New State Medical Schools; Grants to Affiliated Medical Schools; Assistance to Health Manpower Training Institutions</b> | <b>8201</b> |

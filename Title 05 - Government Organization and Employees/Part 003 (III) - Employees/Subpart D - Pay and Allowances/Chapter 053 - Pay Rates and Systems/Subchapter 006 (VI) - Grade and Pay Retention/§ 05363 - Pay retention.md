@@ -4,11 +4,11 @@
 
 &emsp;(1) who ceases to be entitled to the benefits of section 5362 of this title by reason of the expiration of the 2-year period of coverage provided under such section;
 
-&emsp;(2) who is in a position subject to this subchapter and who is subject to a reduction or termination of a special rate of pay established under section 5305 of this title (or corresponding prior provision of this title);
+&emsp;(2) who is in a position subject to this subchapter and who is subject to a reduction ortermination of a special rate of pay established under section 5305 of this title (or corresponding prior provision of this title);
 
 &emsp;(3) who is in a position subject to this subchapter and who (but for this section) would be subject to a reduction in pay under circumstances prescribed by the Office of Personnel Management by regulation to warrant the application of this section; or
 
-&emsp;(4) who is in a position subject to this subchapter and who is subject to a reduction ortermination of a rate of pay established under subchapter IX of chapter 53;
+&emsp;(4) who is in a position subject to this subchapter and who is subject to a reduction or termination of a rate of pay established under subchapter IX of chapter 53;
 
 > is entitled to basic pay at a rate equal to (A) the employee's allowable former rate of basic pay, plus (B) 50 percent of the amount of each increase in the maximum rate of basic pay payable for the grade of the employee's position immediately after such reduction in pay if such allowable former rate exceeds such maximum rate for such grade.
 

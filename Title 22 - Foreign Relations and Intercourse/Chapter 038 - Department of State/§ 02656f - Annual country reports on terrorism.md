@@ -28,7 +28,7 @@ The report required under subsection (a) of this section should to the extent fe
 
 &emsp;(1) with respect to subsection (a)(1)—
 
-&emsp;&emsp;(A) a review of major counterterrorism efforts undertaken by countries which are the subject of such report, including, as appropriate, steps taken in international fora;
+&emsp;&emsp;(A) a review of major counterterrorism efforts undertaken by countries which are thesubject of such report, including, as appropriate, steps taken in international fora;
 
 &emsp;&emsp;(B) the response of the judicial system of each country which is the subject of such report with respect to matters relating to terrorism affecting American citizens or facilities, or which have, in the opinion of the Secretary, a significant impact on United States counterterrorism efforts, including responses to extradition requests; and
 

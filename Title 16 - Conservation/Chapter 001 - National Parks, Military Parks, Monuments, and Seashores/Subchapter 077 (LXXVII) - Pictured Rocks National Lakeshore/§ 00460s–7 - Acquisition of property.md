@@ -14,7 +14,7 @@ Any property or interests therein, owned by the State of Michigan, or any politi
 
 #### (d) Negotiation and purchase; condemnation proceedings; fair market value
 
-The Secretary shall make every reasonable effort to acquire property through negotiation andpurchase. Where agreement is not reached and condemnation proceedings are filed, the owner of such property shall be paid the fair market value thereof as determined in such proceedings.
+The Secretary shall make every reasonable effort to acquire property through negotiation and purchase. Where agreement is not reached and condemnation proceedings are filed, the owner of such property shall be paid the fair market value thereof as determined in such proceedings.
 
 #### (e) Condemnation to acquire clear, marketable and encumbrance-free title
 

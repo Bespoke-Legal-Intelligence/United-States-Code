@@ -18,11 +18,11 @@ General Authority.—The Secretary of Transportation may make grants and loans t
 
 (b)
 
-Apportioning and Transferring Amounts.—The Secretary shall apportion amounts made available under section 5338(a) of this title under a formula the Secretary administers that considers the number of elderly individuals and individuals with disabilities in each State. Any State's apportionment remaining available for obligation at the beginning of the 90-day period before the end of the period of availability of the apportionment is available to the chief executive officer of the State for transfer to supplement amounts apportioned to the State under section 5311(c) or 5336(a)(1) of this title.
+Apportioning and Transferring Amounts.—The Secretary shall apportionamounts made available under section 5338(a) of this title under a formula the Secretary administers that considers the number of elderly individuals and individuals with disabilities in each State. Any State's apportionment remaining available for obligation at the beginning of the 90-day period before the end of the period of availability of the apportionment is available to the chief executive officer of the State for transfer to supplement amounts apportioned to the State under section 5311(c) or 5336(a)(1) of this title.
 
 (c)
 
-State Program of Projects.—Amounts made available for this section may be used for transportation projects to assist in providingtransportation services for elderly individuals and individuals with disabilities that are included in a State program of projects. A program shall be submitted annually to the Secretary for approval and shall contain an assurance that the program provides for maximum feasible coordination of transportation services assisted under this section with transportation services assisted by other United States Government sources.
+State Program of Projects.—Amounts made available for this section may be used for transportation projects to assist in providing transportation services for elderly individuals and individuals with disabilities that are included in a State program of projects. A program shall be submitted annually to the Secretary for approval and shall contain an assurance that the program provides for maximum feasible coordination of transportation services assisted under this section with transportation services assisted by other United States Government sources.
 
 (d)
 
@@ -124,7 +124,7 @@ In subsection (a), before clause (1), the words “In addition to the grants and
 
 In subsection (b), the words “for expenditure”, “to the States”, and “amounts of a” are omitted as surplus.
 
-In subsection (d), the words “A recipient of amounts under this section” are added for clarity to correct an error in the source provisions. The words “under a contract, lease, or other arrangement” are omitted as surplus.
+In subsection (d), the words “A recipient of amounts under this section” are added for clarity to correct anerror in the source provisions. The words “under a contract, lease, or other arrangement” are omitted as surplus.
 
 In subsection (e), the words “terms, conditions . . . and provisions” are omitted as surplus.
 
@@ -132,7 +132,7 @@ In subsection (e)(1), the words “and is deemed” are substituted for “and b
 
 In subsection (e)(2), the words “insofar as may be appropriate” and “necessary or . . . for purposes of this paragraph” are omitted as surplus.
 
-In subsection (f), the words “any applicable” are omitted as surplus. The words “prescribe regulations establishing” are substituted for “not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January 6, 1983, promulgate final regulations, establishing” toeliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
+In subsection (f), the words “any applicable” are omitted as surplus. The words “prescribe regulations establishing” are substituted for “not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January 6, 1983, promulgate final regulations, establishing” to eliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
 
 In subsection (g), the words “not later than 60 days following December 18, 1991” are omitted as obsolete. The words “and agencies” are omitted as surplus.
 

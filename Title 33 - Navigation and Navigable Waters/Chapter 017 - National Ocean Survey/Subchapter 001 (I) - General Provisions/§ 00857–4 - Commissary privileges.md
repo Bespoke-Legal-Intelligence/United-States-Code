@@ -10,7 +10,7 @@ The Secretary may purchase ration supplies for messes, stores, uniforms, accoute
 
 #### (c) Widows’ rights
 
-Rights extended to members of the uniformed services in this section are extended to their widows and to such others as are designated by the Secretary concerned.
+Rights extended to members of the uniformed services in this section are extended to theirwidows and to such others as are designated by the Secretary concerned.
 
 (Pub. L. 91–621, §4, Dec. 31, 1970, 84 Stat. 1863.)
 

@@ -4,7 +4,7 @@
 
 (b) The Secretary may acquire, by purchase or otherwise, from States, counties, cities, or other units of government, or their instrumentalities, or from private persons and agencies, such copies of records, reports, and other material as may be required for the efficient and economical conduct of the censuses and surveys provided for in this title.
 
-(c) To the maximum extent possible and consistent with the kind, timeliness, quality and scope of the statistics required, the Secretary shall acquire and use information available from any source referred to in subsection (a) or (b) ofthis section instead of conducting direct inquiries.
+(c) To the maximum extent possible and consistent with the kind, timeliness, quality and scope of the statistics required, the Secretary shall acquire and use information available from any source referred to in subsection (a) or (b) of this section instead of conducting direct inquiries.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1013; Aug. 28, 1957, Pub. L. 85–207, §3, 71 Stat. 481; Oct. 17, 1976, Pub. L. 94–521, §5(a), 90 Stat. 2460.)
 

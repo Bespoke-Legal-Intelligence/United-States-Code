@@ -16,6 +16,7 @@
 | [3110\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003110%20-%20Employment%20of%20relatives%3B%20restrictions.md) | Employment of relatives; restrictions. |
 | [3111\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003111%20-%20Acceptance%20of%20volunteer%20service.md) | Acceptance of volunteer service. |
 | [3112\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003112%20-%20Disabled%20veterans%3B%20noncompetitive%20appointment.md) | Disabled veterans; noncompetitive appointment. |
+| [3113\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003113%20-%20Restriction%20on%20reemployment%20after%20conviction%20of%20certain%20crimes.md) | Restriction on reemployment after conviction of certain crimes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,6 +43,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–61, title VI, §638(b), Oct. 10, 1997, 111 Stat. 1317, added item 3113.
 
 1995—Pub. L. 104–66, title II, §2181(a)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 3135 “Biennial report”.
 

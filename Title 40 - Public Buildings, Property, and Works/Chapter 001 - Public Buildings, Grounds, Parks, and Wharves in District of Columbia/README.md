@@ -154,6 +154,7 @@
 | (i) | Continued application of laws, rules, and regulations covering areas within National Capital Service Area. |
 | (j) | Residency within National Capital Service Area. |
 | [137\.](%C2%A7%2000137%20-%20Protection%20of%20Federal%20Government%20buildings%20in%20District%20of%20Columbia.md) | Protection of Federal Government buildings in District of Columbia. |
+| [138\.](%C2%A7%2000138%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93100%2C%20title%20I%2C%20%C2%A7157%28f%29%2C%20Nov.%2019%2C%201997%2C%20111%20Stat.%202187.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -313,3 +314,4 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00135 - &#8220;Washington metropolitan region&#8221; defined](%C2%A7%2000135%20-%20%E2%80%9CWashington%20metropolitan%20region%E2%80%9D%20defined.md)
 - [&sect; 00136 - National Capital Service Area](%C2%A7%2000136%20-%20National%20Capital%20Service%20Area.md)
 - [&sect; 00137 - Protection of Federal Government buildings in District of Columbia](%C2%A7%2000137%20-%20Protection%20of%20Federal%20Government%20buildings%20in%20District%20of%20Columbia.md)
+- [&sect; 00138 - Repealed. Pub. L. 105&#8211;100, title I, &sect;157(f), Nov. 19, 1997, 111 Stat. 2187](%C2%A7%2000138%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93100%2C%20title%20I%2C%20%C2%A7157%28f%29%2C%20Nov.%2019%2C%201997%2C%20111%20Stat.%202187.md)

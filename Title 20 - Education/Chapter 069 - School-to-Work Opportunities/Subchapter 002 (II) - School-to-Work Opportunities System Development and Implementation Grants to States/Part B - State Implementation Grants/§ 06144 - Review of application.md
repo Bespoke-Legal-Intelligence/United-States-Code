@@ -32,7 +32,7 @@ The Secretaries—
 
 #### (1) In general
 
-&emsp;In reviewing each application submitted under section 6143 of this title, the Secretaries shall determine whether the application and the plan described in such application meet the approval criteria in subsection (b) of this section.
+&emsp;In reviewing each application submitted under section 6143 of this title, the Secretariesshall determine whether the application and the plan described in such application meet the approval criteria in subsection (b) of this section.
 
 #### (2) Actions after affirmative determination
 

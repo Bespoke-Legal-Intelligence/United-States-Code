@@ -62,7 +62,7 @@ The Secretary shall prescribe regulations applicable to the ships of a country n
 
 #### (e) Compliance by excluded vessels
 
-(1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologies and practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1) of this section.
+(1) The Secretary of the Navy shall develop and, as appropriate, support the development of technologies and practices for solid waste management aboard ships owned or operated by the Department of the Navy, including technologiesand practices for the reduction of the waste stream generated aboard such ships, that are necessary to ensure the compliance of such ships with Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1) of this section.
 
 (2) Notwithstanding any effective date of the application of this section to a ship, the provisions of Annex V to the Convention with respect to the disposal of plastic shall apply to ships equipped with plastic processors required for the long-term collection and storage of plastic aboard ships of the Navy upon the installation of such processors in such ships.
 
@@ -78,7 +78,7 @@ The Secretary shall prescribe regulations applicable to the ships of a country n
 
 &emsp;(A) Each year, the amount and nature of the discharges in special areas, not otherwise authorized under this chapter, during the preceding year from ships referred to in subsection (b)(1)(A) of this section owned or operated by the Department of the Navy.
 
-&emsp;(B) Beginning on October 1, 1996, and each year thereafter until October 1, 1998, a list of the names of such ships equipped with plastic processors pursuant to section 1003(e) of theNational Defense Authorization Act for Fiscal Year 1994.
+&emsp;(B) Beginning on October 1, 1996, and each year thereafter until October 1, 1998, a list of the names of such ships equipped with plastic processors pursuant to section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994.
 
 #### (f) Waiver authority
 

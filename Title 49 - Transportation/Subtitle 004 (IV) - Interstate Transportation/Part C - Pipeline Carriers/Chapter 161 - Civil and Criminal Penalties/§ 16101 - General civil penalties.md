@@ -24,19 +24,27 @@ Reports.—A carrier providing transportation subject to the jurisdiction of the
 
 Continued violation.—A separate violation occurs for each day violation under this subsection continues.
 
-(d) <sup>1</sup>
+(c)
 
 Venue.—Trial in a civil action under this section is in the judicial district in which the carrier has its principal operating office.
 
-(Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 930.)
+(Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 930; amended Pub. L. 105–102, §2(16), Nov. 20, 1997, 111 Stat. 2205.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 105–102
+
+This amends 49:16101 to redesignate subsection (d) as (c) because no subsection (c) was enacted.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11901 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
+#### Amendments
+
+1997—Subsecs. (c), (d). Pub. L. 105–102 redesignated subsec. (d) as (c).
+
 #### Effective Date
 
 Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
-
-<i><sup>1</sup></i><i> So in original. No subsec. (c) has been enacted.</i>
 

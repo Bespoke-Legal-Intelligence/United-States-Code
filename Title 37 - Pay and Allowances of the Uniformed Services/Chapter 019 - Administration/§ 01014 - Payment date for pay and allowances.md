@@ -1,14 +1,22 @@
 ### §1014. Payment date for pay and allowances
 
-(a) Amounts of basic pay, basic allowance for quarters, basic allowance for subsistence, and other payments of military compensation (other than travel and transportation allowances and separation allowances) shall be paid on the first day of the month beginning after the month during which the right to such compensation accrues.
+(a) Amounts of basic pay, basic allowance for housing, basic allowance for subsistence, and other payments of military compensation (other than travel and transportation allowances and separation allowances) shall be paid on the first day of the month beginning after the month during which the right to such compensation accrues.
 
 (b) Subsection (a) does not preclude one payment in midmonth for any element of compensation and does not affect any authority to make advance payments of pay and allowances.
 
-(Added Pub. L. 99–500, §101(c) \[title IX, §9103(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9103(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, §1013; renumbered §1014, Pub. L. 100–26, §8(b)(2), Apr. 21, 1987, 101 Stat. 285.)
+(Added Pub. L. 99–500, §101(c) \[title IX, §9103(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9103(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, §1013; renumbered §1014, Pub. L. 100–26, §8(b)(2), Apr. 21, 1987, 101 Stat. 285; amended Pub. L. 105–85, div. A, title VI, §603(d)(1)(E), Nov. 18, 1997, 111 Stat. 1782.)
 
-Codification
+#### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85 substituted “housing” for “quarters”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

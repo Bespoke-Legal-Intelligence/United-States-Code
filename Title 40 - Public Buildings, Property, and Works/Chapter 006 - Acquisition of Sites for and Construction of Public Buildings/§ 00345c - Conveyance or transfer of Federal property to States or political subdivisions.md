@@ -12,11 +12,11 @@ As used in this section the term “executive agency” means any executive depa
 
 Nothing in this section shall be deemed to authorize the conveyance or other transference of any interest in real property which can be transferred to a State or political subdivision of a State for highway purposes under title 23.
 
-(Aug. 26, 1935, ch. 684, §2, as added July 7, 1960, Pub. L. 86–608, 74 Stat. 363.)
+(Aug. 26, 1935, ch. 684, §2, as added Pub. L. 86–608, July 7, 1960, 74 Stat. 363.)
 
 #### Repeals
 
-<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to</i><i>the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
+<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
 
 #### Savings Provision
 

@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1987—Pub. L. 100–17 designated existing provisions as subsec. (a), substituted “an acquiring agency” for “aState agency” and “such acquiring agency” for “such State agency”, and added subsec. (b).
+1987—Pub. L. 100–17 designated existing provisions as subsec. (a), substituted “an acquiring agency” for “a State agency” and “such acquiring agency” for “such State agency”, and added subsec. (b).
 
 #### Effective Date of 1987 Amendment
 

@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;The Chair, subject to the approval of the Board, shall appoint a General Counsel. Selection and appointment of the General Counsel shall be without regard to political affiliation and solely on the basis of fitness to perform the duties of the Office. The disqualifications in section 1381(d)(2) of this title shall apply to the appointment of a General Counsel.
+&emsp;The Chair, subject to the approval of the Board, shall appoint a General Counsel. Selection and appointment of the General Counsel shall be without regard to political affiliation and solely on the basis of fitness to performthe duties of the Office. The disqualifications in section 1381(d)(2) of this title shall apply to the appointment of a General Counsel.
 
 #### (2) Compensation
 

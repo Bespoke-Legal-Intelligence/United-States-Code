@@ -1,6 +1,6 @@
 ### §175. Position and manner of display
 
-The flag, when carried in a procession with another flag or flags, should be either on the marching right; that is, the flag's own right, or, if there is a line of other flags, in front of the center of that line.
+The flag, when carried in a procession with another flag or flags, should be either on themarching right; that is, the flag's own right, or, if there is a line of other flags, in front of the center of that line.
 
 (a) The flag should not be displayed on a float in a parade except from a staff, or as provided in subsection (i) of this section.
 
@@ -34,7 +34,7 @@ The flag, when carried in a procession with another flag or flags, should be eit
 
 &emsp;(3) the term “Member of Congress” means a Senator, a Representative, a Delegate, or the Resident Commissioner from Puerto Rico.
 
-(n) When the flag is used to cover a casket, it should be so placed that the union is at the head and over the left shoulder. The flag should not be lowered into the grave or allowed to touch the ground.
+(n) When the flag is used to cover a casket, it should be so placed that the union is at the head and over the left shoulder. The flag should notbe lowered into the grave or allowed to touch the ground.
 
 <i>(o</i>) When the flag is suspended across a corridor or lobby in a building with only one main entrance, it should be suspended vertically with the union of the flag to the observer's left upon entering. If the building has more than one main entrance, the flag should be suspended vertically near the center of the corridor or lobby with the union to the north, when entrances are to the east and west or to the east when entrances are to the north and south. If there are entrances in more than two directions, the union should be to the east.
 

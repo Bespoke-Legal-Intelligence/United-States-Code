@@ -16,7 +16,7 @@ There shall be no recovery in any case in which more than the correct amount of 
 
 No certifying or disbursing officer shall be held liable for any amount certified or paid by him in good faith to any person where the recovery of such amount is waived under subsection (c) of this section or has been begun but cannot be completed under subsection (a) of this section.
 
-(Aug. 29, 1935, ch. 812, §10, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I, §101, 88 Stat. 1344;amended Aug. 13, 1981, Pub. L. 97–35, title XI, §1123, 95 Stat. 638.)
+(Aug. 29, 1935, ch. 812, §10, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1344;amended Pub. L. 97–35, title XI, §1123, Aug. 13, 1981, 95 Stat. 638.)
 
 #### References in Text
 

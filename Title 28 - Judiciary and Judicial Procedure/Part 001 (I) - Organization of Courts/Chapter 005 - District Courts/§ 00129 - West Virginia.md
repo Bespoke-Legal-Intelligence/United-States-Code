@@ -14,7 +14,7 @@ West Virginia is divided into two judicial districts to be known as the Northern
 
 &emsp;&emsp;Court for the Southern District shall be held at Beckley, Bluefield, Charleston, Huntington, Lewisburg, and Parkersburg.
 
-(June 25, 1948, ch. 646, 62 Stat. 894; Jan. 14, 1983, Pub. L. 97–471, §1, 96 Stat. 2601.)
+(June 25, 1948, ch. 646, 62 Stat. 894; Pub. L. 97–471, §1, Jan. 14, 1983, 96 Stat. 2601.)
 
 #### Historical and Revision Notes
 
@@ -24,7 +24,7 @@ Words “with the waters thereof,” after the list of counties in each district
 
 Provisions relating to special terms of court were omitted as covered by section 141 of this title.
 
-A provision that the term at Fairmont be held “when suitable rooms and accommodations for holding termsof the court shall be furnished at Fairmont free of cost to the United States or until, subject to the recommendation of the Attorney General of the United States with respect to providing such rooms and accommodations for holding court at Fairmont, a Federal building containing such suitable rooms and accommodations for holding court shall be erected at such place,” was omitted as obsolete on advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available.
+A provision that the term at Fairmont be held “when suitable rooms and accommodations for holding terms of the court shall be furnished at Fairmont free of cost to the United States or until, subject to the recommendation of the Attorney General of the United States with respect to providing such rooms and accommodations for holding court at Fairmont, a Federal building containing such suitable rooms and accommodations for holding court shall be erected at such place,” was omitted as obsolete on advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available.
 
 Provisions respecting court accommodations at Beckley and Lewisburg were omitted as covered by section 142 of this title.
 
@@ -32,7 +32,7 @@ Changes were made in arrangement and phraseology.
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 97–471, §1(1), struck out references to Parkersburg, Wirt, and Wood counties and inserted references to Braxton, Pocahontas, and Webster counties.
+<b>1983</b>—Subsec. (a). Pub. L. 97–471, §1(1), struck out references to Parkersburg, Wirt, and Wood counties and inserted references to Braxton, Pocahontas, and Webster counties.
 
 Subsec. (b). Pub. L. 97–471, §1(2), struck out references to Braxton, Pocahontas, and Webster counties and inserted references to Parkersburg, Wirt, and Wood counties.
 

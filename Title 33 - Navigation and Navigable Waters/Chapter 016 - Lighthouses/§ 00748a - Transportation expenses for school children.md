@@ -2,7 +2,7 @@
 
 In all appropriations hereafter made for “General expenses, Coast Guard” there is authorized to be made available not exceeding $2,500 in any fiscal year, for the transportation, under regulations prescribed by the Secretary of Transportation, of the children of lighthouse keepers at isolated light stations where necessary to enable such children to attend school.
 
-(May 13, 1938, ch. 215, §2, 52 Stat. 353; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938.)
+(May 13, 1938, ch. 215, §2, 52 Stat. 353; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### Transfer of Functions
 

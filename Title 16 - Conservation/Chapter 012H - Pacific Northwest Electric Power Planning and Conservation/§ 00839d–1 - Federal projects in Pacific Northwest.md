@@ -12,3 +12,7 @@ The Pacific Northwest Electric Power Planning and Conservation Act, referred to 
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Pacific Northwest Electric Power Planning and Conservation Act which comprises this chapter.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 33 section 2321a.
+

@@ -42,7 +42,7 @@
 
 (d) The Secretary of the Treasury and, with the approval of the Secretary, the head of an agency having jurisdiction over a disbursing official, may issue regulations to carry out this section. However, under conditions the Secretary decides are necessary, the Secretary may delegate to the head of an agency the authority to issue regulations applying to a disbursing official that is an officer or employee of the agency.
 
-(e) Regulations prescribed under subsection (d) shall include regulations that define the terms “dependent” and “sponsor” for the purposes of this section. In the regulations, the term “dependent”, with respect to a member of a uniformed service, shall have the meaning given that term in section 401 of title 37.
+(e) Regulations prescribed under subsection (d) shall include regulations that define the terms “dependent” and “sponsor” for the purposes ofthis section. In the regulations, the term “dependent”, with respect to a member of a uniformed service, shall have the meaning given that term in section 401 of title 37.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957; Pub. L. 104–106, div. A, title X, §1090, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–201, div. A, title X, §1011, Sept. 23, 1996, 110 Stat. 2635.)
 

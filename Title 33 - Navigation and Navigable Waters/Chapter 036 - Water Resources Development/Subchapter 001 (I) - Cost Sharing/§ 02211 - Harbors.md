@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;The Federal share of the cost of operation and maintenance of each navigation project for a harbor or inland harbor constructed by the Secretary pursuant to this Act or any other law approved after November 17, 1986, shall be 100 percent, except that in the case of a deep-draft harbor, the non-Federal interests shall be responsible for an amount equal to 50 percent of the excess of the cost of the operation and maintenance of such project over the cost which the Secretary determines would be incurred for operation and maintenance of such project if such project had a depth of 45 feet.
+&emsp;The Federal share of the cost of operation and maintenance of each navigation projectfor a harbor or inland harbor constructed by the Secretary pursuant to this Act or any other law approved after November 17, 1986, shall be 100 percent, except that in the case of a deep-draft harbor, the non-Federal interests shall be responsible for an amount equal to 50 percent of the excess of the cost of the operation and maintenance of such project over the cost which the Secretary determines would be incurred for operation and maintenance of such project if such project had a depth of 45 feet.
 
 #### (2) Dredged material disposal facilities
 
@@ -90,7 +90,7 @@ Subsec. (f). Pub. L. 104–303, §201(d), added subsec. (f).
 
 1992—Subsec. (a)(3). Pub. L. 102–580 substituted “Except as provided under section 906(c), the non-Federal” for “The non-Federal”.
 
-1988—Subsec. (a)(2). Pub. L. 100–676 added par. (2) and struck out former par. (2) which read as follows: “The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to section 2216 of this title. The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) shall be credited toward the payment required under this paragraph.”
+1988—Subsec. (a)(2). Pub. L. 100–676 added par. (2) and struck out former par. (2) which read as follows: “The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to section 2216 of this title. The value of lands, easements, rights-of-way, relocations,and dredged material disposal areas provided under paragraph (3) shall be credited toward the payment required under this paragraph.”
 
 #### Effective Date of 1988 Amendment
 

@@ -92,7 +92,7 @@ The minimum royalty provisions of section 226(m) of this title and the provision
 
 Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to section 226–1(d) of this title, the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year's rental, provided the conditions of subparagraphs (1) and (2) of subsection (c) of this section are satisfied.
 
-(Feb. 25, 1920, ch. 85, §31, 41 Stat. 450; Aug. 8, 1946, ch. 916, §9, 60 Stat. 956; July 29, 1954, ch. 644, §1(7), 68 Stat. 585; Oct. 15, 1962, Pub. L. 87–822, §1, 76 Stat. 943; May 12, 1970, Pub. L. 91–245, §§1, 2, 84 Stat. 206; Jan. 12, 1983, Pub. L. 97–451, title IV, §401, 96 Stat. 2462; Dec. 22, 1987, Pub. L. 100–203, title V, §§5102(d)(2), 5104, 101 Stat. 1330–258, 1330–259; Nov. 15, 1990, Pub. L. 101–567, §1, 104 Stat. 2802; Nov. 2, 1994, Pub. L. 103–437, §11(a)(1), 108 Stat. 4589.)
+(Feb. 25, 1920, ch. 85, §31, 41 Stat. 450; Aug. 8, 1946, ch. 916, §9, 60 Stat. 956; July 29, 1954, ch. 644, §1(7), 68 Stat. 585; Pub. L. 87–822, §1, Oct. 15, 1962, 76 Stat. 943; Pub. L. 91–245, §§1, 2, May 12, 1970, 84 Stat. 206; Pub. L. 97–451, title IV, §401, Jan. 12, 1983, 96 Stat. 2462; Pub. L. 100–203, title V, §§5102(d)(2), 5104, Dec. 22, 1987, 101 Stat. 1330–258, 1330–259; Pub. L. 101–567, §1, Nov. 15, 1990, 104 Stat. 2802; Pub. L. 103–437, §11(a)(1), Nov. 2, 1994, 108 Stat. 4589.)
 
 #### References in Text
 

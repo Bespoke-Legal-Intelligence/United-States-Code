@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §87 (Jan. 12, 1895, ch. 23, §98, 28 Stat. 624
 
 #### Archivist of the United States
 
-References to Archivist of the United States deemed to refer to Archivist appointed under section 2103 ofthis title with respect to functions transferred by Pub. L. 98–497 or an amendment made by Pub. L. 98–497 and exercised after Apr. 1, 1985, see sections 106 and 108 of Pub. L. 98–497, set out as notes under section 2102 of this title.
+References to Archivist of the United States deemed to refer to Archivist appointed under section 2103 of this title with respect to functions transferred by Pub. L. 98–497 or an amendment made by Pub. L. 98–497 and exercised after Apr. 1, 1985, see sections 106 and 108 of Pub. L. 98–497, set out as notes under section 2102 of this title.
 

@@ -18,7 +18,7 @@
 
 (d) Where an application for a writ of habeas corpus is made by a person in custody under the judgment and sentence of a State court of a State which contains two or more Federal judicial districts, the application may be filed in the district court for the district wherein such person is in custody or in the district court for the district within which the State court was held which convicted and sentenced him and each of such district courts shall have concurrent jurisdiction to entertain the application. The district court for the district wherein such an application is filed in the exercise of its discretion and in furtherance of justice may transfer the application to the other district court for hearing and determination.
 
-(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §112, 63 Stat. 105; Sept. 19, 1966, Pub. L. 89–590, 80 Stat. 811.)
+(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §112, 63 Stat. 105; Pub. L. 89–590, Sept. 19, 1966, 80 Stat. 811.)
 
 #### Historical and Revision Notes
 
@@ -30,7 +30,7 @@ Section consolidates sections 451, 452 and 453 of title 28, U.S.C., 1940 ed., wi
 
 Words “for the purpose of an inquiry into the cause of restraint of liberty” in section 452 of title 28, U.S.C., 1940 ed., were omitted as merely descriptive of the writ.
 
-Subsection (b) was added to give statutory sanction to orderly and appropriate procedure. A circuit judge who unnecessarily entertains applications which should be addressed to the district court, thereby disqualifies himself to hear such matters on appeal and to that extent limits his usefulness as a judge of the court of appeals. The Supreme Court and Supreme Court Justices should not be burdened with applications for writs cognizable in the district courts.
+Subsection (b) was added to give statutory sanction to orderly and appropriate procedure. A circuit judge who unnecessarily entertains applications which should be addressed to the district court, thereby disqualifieshimself to hear such matters on appeal and to that extent limits his usefulness as a judge of the court of appeals. The Supreme Court and Supreme Court Justices should not be burdened with applications for writs cognizable in the district courts.
 
 #### 1949 Act
 
@@ -38,9 +38,9 @@ This section inserts commas in certain parts of the text of subsection (b) of se
 
 #### Amendments
 
-1966—Subsec. (d). Pub. L. 89–590 added subsec. (d).
+<b>1966</b>—Subsec. (d). Pub. L. 89–590 added subsec. (d).
 
-1949—Subsec. (b). Act May 24, 1949, inserted commas after “Supreme Court” and “any justice thereof”.
+<b>1949</b>—Subsec. (b). Act May 24, 1949, inserted commas after “Supreme Court” and “any justice thereof”.
 
 #### Rules of the Supreme Court
 

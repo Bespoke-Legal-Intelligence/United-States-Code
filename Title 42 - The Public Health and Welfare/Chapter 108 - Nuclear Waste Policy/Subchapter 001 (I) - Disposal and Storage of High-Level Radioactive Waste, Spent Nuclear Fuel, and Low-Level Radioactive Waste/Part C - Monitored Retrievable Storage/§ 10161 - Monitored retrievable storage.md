@@ -66,7 +66,7 @@ Nothing in this section limits the consideration of alternative facility designs
 
 (3) Such payments shall be subject to such terms and conditions as the Secretary determines are necessary to ensure achievement of the purposes of this subsection. The Secretary shall issue such regulations as may be necessary to carry out the provisions of this subsection.
 
-(4) Such payments shall be made available entirely from funds held in the Nuclear Waste Fund established in section 10222(c) of this title and shall be available only to the extent provided in advance in appropriation Acts.
+(4) Such payments shall be made available entirely from funds held in the Nuclear WasteFund established in section 10222(c) of this title and shall be available only to the extent provided in advance in appropriation Acts.
 
 (5) The Secretary may consult with appropriate units of general local government in advance of commencement of construction of any such facility in an effort to determine the level of payments each such unit is eligible to receive under this subsection.
 

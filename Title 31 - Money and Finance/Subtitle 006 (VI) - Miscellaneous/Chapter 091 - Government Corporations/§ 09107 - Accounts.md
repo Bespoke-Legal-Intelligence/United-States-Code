@@ -1,6 +1,6 @@
 ### §9107. Accounts
 
-(a) With the approval of the Comptroller General, a Government corporation may consolidate its cash into an account if the cash will be expended as provided by law.
+(a) With the approval of the Comptroller General, a Government corporation may consolidateits cash into an account if the cash will be expended as provided by law.
 
 (b) The Secretary of the Treasury shall keep the accounts of a Government corporation. If the Secretary approves, a Federal reserve bank or a bank designated as a depositary or fiscal agent of the United States Government may keep the accounts. The Secretary may waive the requirements of this subsection.
 

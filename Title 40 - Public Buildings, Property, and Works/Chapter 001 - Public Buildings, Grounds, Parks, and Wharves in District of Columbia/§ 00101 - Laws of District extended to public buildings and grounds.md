@@ -2,7 +2,7 @@
 
 The provisions of the several laws and regulations within the District of Columbia for the protection of public or private property and the preservation of peace and order are extended to all public buildings and public grounds belonging to the United States within the District of Columbia. Any person guilty of disorderly and unlawful conduct in or about the same, or who shall willfully injure the buildings or shrubs, or shall pull down, impair, or otherwise injure any fence, wall, or other inclosure, or shall injure any sink, culvert, pipe, hydrant, cistern, lamp, or bridge, or shall remove any stone, gravel, sand, or other property of the United States, or any other part of the public grounds or lots belonging to the United States in the District of Columbia shall be fined not more than $500, or imprisoned not more than six months, or both.
 
-(July 29, 1892, ch. 320, §15, 27 Stat. 325; Oct. 20, 1967, Pub. L. 90–108, §2, 81 Stat. 277.)
+(July 29, 1892, ch. 320, §15, 27 Stat. 325; Pub. L. 90–108, §2, Oct. 20, 1967, 81 Stat. 277.)
 
 #### Codification
 

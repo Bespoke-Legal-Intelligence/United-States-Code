@@ -10,7 +10,7 @@ Section was formerly classified to section 1384 of Title 48, Territories and Ins
 
 #### Amendments
 
-1965—Pub. L. 89–280 substituted provisions in cl. (f) requiring the Smithsonian Institution to include in its annual report of its operations to Congress a statement of activities and operations during the preceding year for provisions which required the Smithsonian Institution to submit to the Congress of the United States not later than the 15th day of each January a report of activities and operations during the preceding year.
+1965—Pub. L. 89–280 substituted provisions in cl. (f) requiring the Smithsonian Institution to include in itsannual report of its operations to Congress a statement of activities and operations during the preceding year for provisions which required the Smithsonian Institution to submit to the Congress of the United States not later than the 15th day of each January a report of activities and operations during the preceding year.
 
 #### Transfer of Functions
 

@@ -68,7 +68,7 @@ As used in this chapter:
 
 &emsp;&emsp;(D) Any combination of items meeting the requirements of subparagraph (A), (B), (C), or (E) that are of a type customarily combined and sold in combination to the general public.
 
-&emsp;&emsp;(E) Installation services, maintenance services, repair services, training services, and other services if such services are procured for support of an item referred to insubparagraph (A), (B), (C), or (D) and if the source of such services—
+&emsp;&emsp;(E) Installation services, maintenance services, repair services, training services, and other services if such services are procured for support of an item referred to in subparagraph (A), (B), (C), or (D) and if the source of such services—
 
 &emsp;&emsp;&emsp;(i) offers such services to the general public and the Federal Government contemporaneously and under similar terms and conditions; and
 
@@ -154,5 +154,5 @@ Section 2752 of Pub. L. 98–369 provided that: “Not later than March 31, 1985
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 57, 58, 252a, 254b, 259, 264a, 418a, 431, 701 of this title; title 7 section 5909; title 10 sections 2207, 2302, 2302a, 2306a, 2376, 2384, 2393, 2402, 2408, 2410, 2410b, 2410g, 2410i; title 15 sections 205c, 632, 637; title 22 section 2679c; title 33 section 1368; title 40 sections 334, 1401; title 49 section 40118.
+This section is referred to in sections 57, 58, 252a, 254b, 259, 264a, 418a, 431, 701 of this title; title 7 section 5909; title 10 sections 2207, 2302, 2302a, 2306a, 2376, 2384, 2393, 2402, 2408, 2410, 2410b, 2410g, 2410i; title 15 sections 205c, 632, 637, 657a; title 22 section 2679c; title 33 section 1368; title 40 sections 334, 1401; title 49 section 40118.
 

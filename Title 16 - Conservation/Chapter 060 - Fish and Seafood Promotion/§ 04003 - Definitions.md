@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;(5) “harvester” means any individual who is in the business of catching or growing fish for purposes of sale;
 
-&emsp;(6) “importer” means any person in the business of importing fish or fish products into the United States from another country for commercial purposes or who acts as an agent, broker, or consignee for any person or nation that produces, processes or markets fish or fish products outside of the United States for sale or other commercial purpose in the United States;
+&emsp;(6) “importer” means any person in the business of importing fish or fish products into the United States from another country for commercial purposes or who acts as an agent, broker, or consignee for any person or nation that produces, processes or markets fish or fish products outside of the United States forsale or other commercial purpose in the United States;
 
 &emsp;(7) “marketer” means any person who is in the business of selling fish or fish products in the wholesale, retail, or restaurant trade, but whose primary business function is not the processing or packaging of fish or fish products in preparation for sale;
 

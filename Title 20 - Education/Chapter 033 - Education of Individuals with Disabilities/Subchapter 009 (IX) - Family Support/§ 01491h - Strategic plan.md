@@ -8,7 +8,7 @@ Not later than 6 months after the date on which assistance is received by a Stat
 
 The strategic plan shall include—
 
-&emsp;(1) a statement of the mission, purpose, and principles of the statewide system of familysupport for families of children with disabilities in the State;
+&emsp;(1) a statement of the mission, purpose, and principles of the statewide system of family support for families of children with disabilities in the State;
 
 &emsp;(2) a statement of family-centered outcomes to be achieved by the statewide system of family support for families of children with disabilities;
 
@@ -49,6 +49,10 @@ The State shall widely disseminate the strategic plan to families of children wi
 Nothing in this section shall be construed to prevent a State from using an existing statewide strategic plan or parts thereof to meet the requirements of this section as long as such plan or the applicable parts thereof are comparable to the specifications of this section.
 
 (Pub. L. 91–230, title VI, §709, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3951.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
 
 #### Section Referred to in Other Sections
 

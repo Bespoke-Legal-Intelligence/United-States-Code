@@ -8,7 +8,7 @@ Where—
 
 > the surviving spouse, so long as the surviving spouse does not remarry, shall be paid $100 per month by the Secretary of Transportation.
 
-(Aug. 19, 1950, ch. 761, §1, 64 Stat. 465; Mar. 28, 1958, Pub. L. 85–351, §1, 72 Stat. 49; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938; Nov. 29, 1967, Pub. L. 90–163, §1, 81 Stat. 518; Nov. 29, 1967, Pub. L. 90–167, §1(a), 81 Stat. 520; Oct. 30, 1984, Pub. L. 98–557, §15(b)(1), 98 Stat. 2866.)
+(Aug. 19, 1950, ch. 761, §1, 64 Stat. 465; Pub. L. 85–351, §1, Mar. 28, 1958, 72 Stat. 49; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938; Pub. L. 90–163, §1, Nov. 29, 1967, 81 Stat. 518; Pub. L. 90–167, §1(a), Nov. 29, 1967, 81 Stat. 520; Pub. L. 98–557, §15(b)(1), Oct. 30, 1984, 98 Stat. 2866.)
 
 #### Amendments
 

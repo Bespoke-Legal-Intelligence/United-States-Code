@@ -14,7 +14,7 @@
 
 (c) In no event shall the Secretary permit the award of any contract which would result in any person obtaining control, directly or indirectly, over more than 20 percent of the estimated annual United States share of petroleum produced from Naval Petroleum Reserve Numbered 1.
 
-(d) Each proposal for sale under this title shall provide that the terms of every sale of the United States share of petroleum from the naval petroleum reserves shall be so structured as to give full and equal opportunity for the acquisition of petroleum by all interested persons, including major and independent oil producers and refiners alike. When the Secretary, in consultation with the Secretary of the Interior, determines that the public interests will be served by the sale of petroleum to small refiners not having their own adequate sources of supply of petroleum, the Secretary is authorized and directed to set aside a portion of the United States share of petroleum produced for sale to such refiners under the provisions of this sectionfor processing or use in such refineries, except that—
+(d) Each proposal for sale under this title shall provide that the terms of every sale of the United States share of petroleum from the naval petroleum reserves shall be so structured as to give full and equal opportunity for the acquisition of petroleum by all interested persons, including major and independent oil producers and refiners alike. When the Secretary, in consultation with the Secretary of the Interior, determines that the public interests will be served by the sale of petroleum to small refiners not having their own adequate sources of supply of petroleum, the Secretary is authorized and directed to set aside a portion of the United States share of petroleum produced for sale to such refiners under the provisions of this section for processing or use in such refineries, except that—
 
 &emsp;(1) none of the production sold to small refiners may be resold in kind;
 
@@ -30,7 +30,7 @@
 
 (g)(1) Prior to the promulgation of any rules and regulations, plans of development and amendments thereto, and in the entering and making of contracts and operating agreements relating to the development, production, or sale of petroleum in or from the reserves, the Secretary shall consult with and give due consideration to the views of the Attorney General of the United States with respect to matters which may affect competition.
 
-(2) No contract or operating agreement may be made, issued, or executed under this chapter until at least 15 days after the Secretary notifies the Attorney General of the proposed contract or operating agreement. Such notification shall contain such information as the Attorney General may require in order to advise the Secretary as to whether such contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws. If, within such 15-day period, the Attorney General advises the Secretary that a contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws, then the Secretary may not make, issue, or execute that contract or operating agreement.
+(2) No contract or operating agreement may be made, issued, or executed under this chapteruntil at least 15 days after the Secretary notifies the Attorney General of the proposed contract or operating agreement. Such notification shall contain such information as the Attorney General may require in order to advise the Secretary as to whether such contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws. If, within such 15-day period, the Attorney General advises the Secretary that a contract or operating agreement may create or maintain a situation inconsistent with the antitrust laws, then the Secretary may not make, issue, or execute that contract or operating agreement.
 
 (h) Nothing in this chapter shall be deemed to confer on any person immunity from civil or criminal liability, or to create defenses to actions, under the antitrust laws.
 
@@ -88,7 +88,7 @@ June 4, 1920, ch. 228 (3d par., 2d sentence, of amended 3d and 4th provisos), 41
 
 In subsection (a) the words “subject to the applicable limitations and restrictions of this Act” are omitted as surplusage and the words “in administering” are inserted.
 
-In subsection (b) the words “under this section” are substituted for the words “from the naval reserves” to make it clear that the requirements of this subsection apply to sales of petroleum, gas, and other hydrocarbons from lands outside petroleum reserve numbered 1 covered by joint, unit, or other cooperative plans as well as the sale of those products from the naval reserves proper. Subsection (a) is the only authority for the sale of petroleum, gas, and other hydrocarbons from the naval petroleum reserves.
+In subsection (b) the words “under this section” are substituted for the words “from the naval reserves” tomake it clear that the requirements of this subsection apply to sales of petroleum, gas, and other hydrocarbons from lands outside petroleum reserve numbered 1 covered by joint, unit, or other cooperative plans as well as the sale of those products from the naval reserves proper. Subsection (a) is the only authority for the sale of petroleum, gas, and other hydrocarbons from the naval petroleum reserves.
 
 #### References in Text
 
@@ -134,7 +134,7 @@ Subsec. (e). Pub. L. 96–513, §513(34)(B), substituted “(50 U.S.C. App. 2401
 
 Subsec. (f). Pub. L. 96–513, §513(34)(C), inserted references to this title wherever appearing.
 
-Subsec. (i). Pub. L. 96–513, §513(34)(D), substituted “(1) the Sherman Act (15 U.S.C. 1 et seq.);”, “(2) the Clayton Act (15 U.S.C. 12 et seq.);”, “(3) the Federal Trade Commission Act (15 U.S.C. 41 et seq.);”, “(4) sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8 and 9); and”, and“(5) sections 2, 3, and 4 of the Act of June 19, 1936 (commonly referred to as the ‘Robinson-Patman Act’) (15 U.S.C. 13a, 13b, and 21a).” for “(1) the Act entitled ‘An Act to protect trade and commerce against unlawful restraints and monopolies’, approved July 2, 1890 (15 U.S.C. 1 et seq.), as amended;” “(2) the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914 (15 U.S.C. 12 et seq.), as amended;” “(3) the Federal Trade Commission Act (15 U.S.C. 41 et seq.), as amended;” “(4) sections 73 and 74 of the Act entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’, approved August 27, 1894 (15 U.S.C. 8 and 9), as amended; or”, and “(5) sections 2, 3, and 4 of the Act of June 19, 1936, chapter 592 (15 U.S.C. 13a, 13b, and 21a)”, respectively.
+Subsec. (i). Pub. L. 96–513, §513(34)(D), substituted “(1) the Sherman Act (15 U.S.C. 1 et seq.);”, “(2) the Clayton Act (15 U.S.C. 12 et seq.);”, “(3) the Federal Trade Commission Act (15 U.S.C. 41 et seq.);”, “(4) sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8 and 9); and”, and “(5) sections 2, 3, and 4 of the Act of June 19, 1936 (commonly referred to as the ‘Robinson-Patman Act’) (15 U.S.C. 13a, 13b, and 21a).” for “(1) the Act entitled ‘An Act to protect trade and commerce against unlawful restraints and monopolies’, approved July 2, 1890 (15 U.S.C. 1 et seq.), as amended;” “(2) the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914 (15 U.S.C. 12 et seq.), as amended;” “(3) the Federal Trade Commission Act (15 U.S.C. 41 et seq.), as amended;” “(4) sections 73 and 74 of the Act entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’, approved August 27, 1894 (15 U.S.C. 8 and 9), as amended; or”, and “(5) sections 2, 3, and 4 of the Act of June 19, 1936, chapter 592 (15 U.S.C. 13a, 13b, and 21a)”, respectively.
 
 Subsec. (j). Pub. L. 96–513, §513(34)(E), inserted “(15 U.S.C. 717 et seq.)”.
 
@@ -160,15 +160,19 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Delegation of Functions
 
-Functions vested in President by subsec. (k) of this section delegated to Secretary of Energy by section 1–102 of Ex. Ord. No. 12231, Aug. 4, 1980, 45 F.R. 52139, set out as a note under section 6240 of Title 42, The Public Health and Welfare.
+Functions vested in President by subsec. (k) of this section delegated to Secretary of Energy by section1–102 of Ex. Ord. No. 12231, Aug. 4, 1980, 45 F.R. 52139, set out as a note under section 6240 of Title 42, The Public Health and Welfare.
 
 #### Minimum Selling Price of United States Share of Petroleum
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title II\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–210, provided in part: “That the requirements of 10 U.S.C. 7430(b)(2)(B) shall not apply to fiscal year 1997.”
+Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1580, provided in part: “That the requirements of 10 U.S.C. 7430(b)(2)(B) shall not apply to fiscal year 1998.”
 
-Pub. L. 104–201, div. C, title XXXIV, §3402, Sept. 23, 1996, 110 Stat. 2858, provided that: “Notwithstanding section 7430(b)(2) of title 10, United States Code, during fiscal year 1997, any sale of any part of the United States share of petroleum produced from Naval Petroleum Reserves Numbered 1, 2, and 3 shall be made at a price not less than 90 percent of the current sales price, as estimated by the Secretary of Energy, of comparable petroleum in the same area.”
+Pub. L. 105–85, div. C, title XXXIV, §3402, Nov. 18, 1997, 111 Stat. 2059, provided that: “Notwithstanding section 7430(b)(2) of title 10, United States Code, during fiscal year 1998, any sale of any part of the United States share of petroleum produced from Naval Petroleum Reserves Numbered 1, 2, and 3 shall be made at a price not less than 90 percent of the current sales price, as estimated by the Secretary of Energy, of comparable petroleum in the same area.”
 
 Similar provisions were contained in the following appropriation and authorization acts:
+
+Pub. L. 104–208, div. A, title I, §101(d) \[title II\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–210.
+
+Pub. L. 104–201, div. C, title XXXIV, §3402, Sept. 23, 1996, 110 Stat. 2858.
 
 Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–187; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 

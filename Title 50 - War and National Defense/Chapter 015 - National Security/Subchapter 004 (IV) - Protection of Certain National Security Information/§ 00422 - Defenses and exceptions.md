@@ -18,5 +18,5 @@ It shall not be an offense under section 421 of this title to transmit informati
 
 It shall not be an offense under section 421 of this title for an individual to disclose information that solely identifies himself as a covert agent.
 
-(July 26, 1947, ch. 343, title VI, §602, as added June 23, 1982, Pub. L. 97–200, §2(a), 96 Stat. 122.)
+(July 26, 1947, ch. 343, title VI, §602, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 122.)
 

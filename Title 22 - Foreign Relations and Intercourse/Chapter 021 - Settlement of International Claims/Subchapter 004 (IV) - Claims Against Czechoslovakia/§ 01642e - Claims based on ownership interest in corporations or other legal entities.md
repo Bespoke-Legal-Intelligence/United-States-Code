@@ -16,5 +16,5 @@ A claim under section 1642c of this title, based upon an indirect ownership inte
 
 Any award on a claim under subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant bears to the entire ownership interest thereof.
 
-(Mar. 10, 1950, ch. 54, title IV, §406, as added Aug. 8, 1958, Pub. L. 85–604, §1, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title IV, §406, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 529.)
 

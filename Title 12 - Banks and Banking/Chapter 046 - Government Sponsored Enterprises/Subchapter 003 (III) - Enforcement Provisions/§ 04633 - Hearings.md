@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;After any such hearing, and within 90 days after the parties have been notified that the case has been submitted to the Director for final decision, the Director shall render the decision (which shall include findings of factupon which the decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this subchapter.
+&emsp;After any such hearing, and within 90 days after the parties have been notified that the case has been submitted to the Director for final decision, the Director shall render the decision (which shall include findings of fact upon which the decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this subchapter.
 
 #### (2) Modification
 

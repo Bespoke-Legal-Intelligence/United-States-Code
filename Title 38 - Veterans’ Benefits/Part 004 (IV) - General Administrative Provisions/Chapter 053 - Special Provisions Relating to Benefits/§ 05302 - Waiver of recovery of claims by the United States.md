@@ -2,17 +2,19 @@
 
 (a) There shall be no recovery of payments or overpayments (or any interest thereon) of any benefits under any of the laws administered by the Secretary whenever the Secretary determines that recovery would be against equity and good conscience, if an application for relief is made within 180 days from the date of notification of the indebtedness by the Secretary to the payee, or within such longer period as the Secretary determines is reasonable in a case in which the payee demonstrates to the satisfaction of the Secretary that such notification was not actually received by such payee within a reasonable period after such date. The Secretary shall include in the notification to the payee a statement of the right of the payee to submit an application for a waiver under this subsection and a description of the procedures for submitting the application.
 
-(b) With respect to any loan guaranteed, insured, or made under chapter 37 of this title, the Secretary shall, except as provided in subsection (c) of this section, waive payment of an indebtedness to the Department by the veteran (as defined in sections 101, 3701, and 3702(a)(2)(C)(ii) of this title), or the veteran's spouse, following default and loss of the property, where the Secretary determines that collection of such indebtedness would be against equity and good conscience. An application for relief under this subsection must be made within one year after the date on which the veteran receives notice by certified mail from the Secretary of the indebtedness. The Secretary shall include in the notification a statement of the right of the veteran to submit an application for a waiver under this subsection and a description of the procedures for submitting the application.
+(b) With respect to any loan guaranteed, insured, or made under chapter 37 of this title, the Secretary shall, except as provided in subsection (c) of this section, waive payment of an indebtedness to the Department by the veteran (as defined in sections 101, 3701, and 3702(a)(2)(C)(ii) of this title), or the veteran's spouse, following default and loss of the property, where the Secretary determines that collection of such indebtedness would be against equity and good conscience. An application for relief under this subsection must be made within one year after the date on which the veteran receives notice by certified mail with return receipt requested from the Secretary of the indebtedness. The Secretary shall include in the notification a statement of the right of the veteran to submit an application for a waiver under this subsection and a description of the procedures for submitting the application.
 
 (c) The recovery of any payment or the collection of any indebtedness (or any interest thereon) may not be waived under this section if, in the Secretary's opinion, there exists in connection with the claim for such waiver an indication of fraud, misrepresentation or bad faith on the part of the person or persons having an interest in obtaining a waiver of such recovery or the collection of such indebtedness (or any interest thereon).
 
 (d) No certifying or disbursing officer shall be liable for any amount paid to any person where the recovery of such amount is waived under subsection (a) or (b).
 
-(e) Where the recovery of a payment or overpayment made from the National Service Life Insurance Fund or United States Government Life Insurance Fund is waived under this section, the fund from which the payment was made shall be reimbursed from the National Service Life Insurance appropriation or the military and naval insurance appropriation, as applicable.
+(e) Where the recovery of a payment or overpayment made from the National Service Life Insurance Fund or United States Government Life Insurance Fund is waived under this section, the fund from which the payment was made shall be reimbursed from the National Service Life Insurance appropriation or themilitary and naval insurance appropriation, as applicable.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3102; Pub. L. 92–328, title II, §202(a), June 30, 1972, 86 Stat. 396; Pub. L. 96–466, title VI, §605(c)(3), Oct. 17, 1980, 94 Stat. 2211; Pub. L. 97–306, title IV, §407(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title VII, §701(69), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–237, title III, §311, Dec. 18, 1989, 103 Stat. 2075; renumbered §5302, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §5, June 13, 1991, 105 Stat. 268; Pub. L. 102–83, §§4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–547, §12, Oct. 28, 1992, 106 Stat. 3645.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3102; Pub. L. 92–328, title II, §202(a), June 30, 1972, 86 Stat. 396; Pub. L. 96–466, title VI, §605(c)(3), Oct. 17, 1980, 94 Stat. 2211; Pub. L. 97–306, title IV, §407(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title VII, §701(69), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–237, title III, §311, Dec. 18, 1989, 103 Stat. 2075; renumbered §5302, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §5, June 13, 1991, 105 Stat. 268; Pub. L. 102–83, §§4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–547, §12, Oct. 28, 1992, 106 Stat. 3645; Pub. L. 105–33, title VIII, §8033(b), Aug. 5, 1997, 111 Stat. 669.)
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–33 inserted “with return receipt requested” after “certified mail”.
 
 1992—Subsecs. (a), (b). Pub. L. 102–547 made technical correction to directory language of Pub. L. 102–54, §5. See 1991 Amendment note below.
 
@@ -50,6 +52,10 @@ Subsec. (c). Pub. L. 96–466, §605(c)(3)(B), inserted “(or any interest ther
 
 1972—Pub. L. 92–328 substituted “claims by the United States” for “overpayments” in section catchline, struck out “(except servicemen's indemnity)” after “any benefits” in subsec. (a), struck out provisions relating to recovery of benefits from any person without fault on his part, and inserted provisions relating to an application for relief made within two years from the date of notification of the indebtedness by the Administrator to the payee, added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and inserted reference to subsec. (b), and redesignated former subsec. (c) as (e).
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 applicable with respect to any indebtedness to the United States arising pursuant to chapter 37 of this title before, on, or after Aug. 5, 1997, see section 8033(c) of Pub. L. 105–33, set out as a note under section 3726 of this title.
+
 #### Effective Date of 1982 Amendment
 
 Section 407(b) of Pub. L. 97–306 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to notifications of indebtedness that are made by the Administrator of Veterans’ Affairs after March 31, 1983.”
@@ -70,5 +76,5 @@ For effective date of Pub. L. 92–328, see Effective Date of 1972 Amendment not
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3680, 3685, 3713, 5314, 5315, 5701 of this title.
+This section is referred to in sections 3680, 3685, 3713, 3726, 5314, 5315, 5701 of this title.
 

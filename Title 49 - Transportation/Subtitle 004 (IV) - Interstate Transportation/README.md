@@ -39,12 +39,7 @@
 | :--- | :---: | ---: |
 | [<b>151.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20151%20-%20General%20Provisions/README.md) | <b>GENERAL PROVISIONS</b> | <b>15101</b> |
 | [<b>153.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20153%20-%20Jurisdiction/README.md) | <b>JURISDICTION</b> | <b>15301</b> |
-| [<b>155.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20155%20-%20Rates/README.md) | <b>RATES AND TARIFFS </b><b><sup>1</sup></b> | <b>15501</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>155.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20155%20-%20Rates/README.md) | <b>RATES</b> | <b>15501</b> |
 | [<b>157.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20157%20-%20Operations%20of%20Carriers/README.md) | <b>OPERATIONS OF CARRIERS</b> | <b>15701</b> |
 | [<b>159.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20159%20-%20Enforcement%20Investigations%2C%20Rights%2C%20and%20Remedies/README.md) | <b>ENFORCEMENT: INVESTIGATIONS, RIGHTS, AND REMEDIES</b> | <b>15901</b> |
 | [<b>161.</b>](Part%20C%20-%20Pipeline%20Carriers/Chapter%20161%20-%20Civil%20and%20Criminal%20Penalties/README.md) | <b>CIVIL AND CRIMINAL PENALTIES</b> | <b>16101</b> |
@@ -54,6 +49,10 @@
 #### Prior Provisions
 
 A prior subtitle IV, consisting of chapters 101 to 119, related to interstate commerce, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1997—Pub. L. 105–102, §2(5), Nov. 20, 1997, 111 Stat. 2204, struck out “AND TARIFFS” after “RATES” in item for chapter 155.
 
 #### Subtitle Referred to in Other Sections
 

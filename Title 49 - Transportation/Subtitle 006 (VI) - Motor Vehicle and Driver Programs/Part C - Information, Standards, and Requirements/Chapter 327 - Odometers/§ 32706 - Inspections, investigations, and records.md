@@ -20,7 +20,7 @@ Entry, Inspection, and Impoundment.—(1) In carrying out subsection (a) of this
 
 (c)
 
-Reasonable Compensation.—When the Secretary impounds for inspection a motor vehicle (except a vehicle subject to subchapter II <sup>1</sup> of chapter 105 of this title) or motor vehicle equipment under subsection (b)(1)(D) of this section, the Secretary shall pay reasonable compensation to the owner of the vehicle or equipment if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle or equipment.
+Reasonable Compensation.—When the Secretary impounds for inspection a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment under subsection (b)(1)(D) of this section, the Secretary shall pay reasonable compensation to the owner of the vehicle or equipment if the inspection or impoundment results in denialof use, or reduction in value, of the vehicle or equipment.
 
 (d)
 
@@ -52,7 +52,7 @@ Administrative Authority and Civil Actions To Enforce.—(1) In carrying out thi
 
 Prohibitions.—A person may not fail to keep records, refuse access to or copying of records, fail to make reports or provide information, fail to allow entry or inspection, or fail to permit impoundment, as required under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1052; Pub. L. 103–429, §6(35), Oct. 31, 1994, 108 Stat. 4380.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1052; Pub. L. 103–429, §6(35), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 105–102, §2(19), Nov. 20, 1997, 111 Stat. 2205.)
 
 Historical and Revision Notes
 
@@ -120,11 +120,13 @@ In subsection (e)(3), the words “A civil action to enforce a subpena or order 
 
 This amends 49:32706(e)(3) to clarify the restatement of 15:1990d(c)(4) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1053).
 
-#### References in Text
+#### Pub. L. 105–102
 
-Subchapter II of chapter 105 of this title, referred to in subsec. (c), was omitted in the general amendment of subtitle IV of this title by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in subchapter II of chapter 105 are contained in subchapter I of chapter 135 of this title.
+This amends 49:32706(c) to correct a cross-reference necessary because of the restatement of subtitle IV of title 49 by the ICC Termination Act (Public Law 104–88, 109 Stat. 803).
 
 #### Amendments
+
+1997—Subsec. (c). Pub. L. 105–102 substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
 
 1994—Subsec. (e)(3). Pub. L. 103–429 substituted “any judicial district in which the proceeding by the Secretary is conducted.” for “the judicial district in which the proceeding by the Secretary was conducted.”
 
@@ -135,6 +137,4 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 32707 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@ Whenever any quantity of grain stored in the processor grain reserve under this 
 
 #### (f) Purposes for which grain to be used
 
-Grain on which an eligible processor has received a loan under this section may not be usedfor any purpose other than the manufacture of alcohol for use as a fuel, and the Secretary shall establish such safeguards as the Secretary deems necessary to assure that such grain is not used for any other purpose and is not used in any manner that would unduly depress, manipulate, or curtail the free market in such grain.
+Grain on which an eligible processor has received a loan under this section may not be used for any purpose other than the manufacture of alcohol for use as a fuel, and the Secretary shall establish such safeguards as the Secretary deems necessary to assure that such grain is not used for any other purpose and is not used in any manner that would unduly depress, manipulate, or curtail the free market in such grain.
 
 #### (g) Terms and conditions of loan; security; nonrecourse loans
 

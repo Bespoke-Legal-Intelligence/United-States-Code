@@ -20,9 +20,9 @@ Applications and Selection.—A State wishing to participate in the program must
 
 (c)
 
-Safety and Security Needs and Needs of System.—Before deciding whether a planning process is satisfactory or a programming process is acceptable under subsection (b)(2) or (b)(3) of this section, the Secretary shall ensure that the process provides for meeting critical safety and security needs and that the programming process ensures that the needs of the national airport system will be addressed in deciding which projects will receive money from the Government. In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.
+Safety and Security Needs and Needs of System.—Before deciding whether a planning process is satisfactory or a programming process is acceptable under subsection (b)(2) or (b)(3) of this section, the Secretary shall ensure that the process provides for meeting critical safety and security needs and that the programming process ensures that the needs of the national airport system will be addressed in deciding whichprojects will receive money from the Government. In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E), Nov. 20, 1997, 111 Stat. 2215.)
 
 Historical and Revision Notes
 
@@ -76,6 +76,8 @@ This makes a clarifying amendment to the catchline for 49:47128(d).
 
 #### Amendments
 
+1997—Subsec. (d). Pub. L. 105–102 repealed Pub. L. 104–287, §5(84). See 1996 Amendment note below.
+
 1996—Pub. L. 104–264, §147(c)(1)(A), substituted “grant program” for “grant pilot program” in section catchline.
 
 Subsec. (a). Pub. L. 104–264, §147(a)(1), (c)(1)(B), substituted “block grant program” for “block grant pilot program” and “8 qualified States for fiscal year 1997 and 9 qualified States for each fiscal year thereafter” for “7 qualified States”.
@@ -84,7 +86,7 @@ Subsec. (b). Pub. L. 104–264, §147(a)(2), (3), struck out “(1)” before �
 
 Subsec. (c). Pub. L. 104–264, §147(b), substituted “(b)(2) or (b)(3)” for “(b)(1)(B) or (C)” and inserted at end “In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.”
 
-Subsec. (d). Pub. L. 104–287, which directed amendment of heading by striking “and report”, could not be executed because of amendment by Pub. L. 104–264, §147(c)(1)(C), which struck out subsec. (d). See below.
+Subsec. (d). Pub. L. 104–287, §5(84), which directed amendment of heading by striking “and report”, was repealed by Pub. L. 105–102.
 
 Pub. L. 104–264, §147(c)(1)(C), struck out subsec. (d) which read as follows:
 
@@ -93,6 +95,12 @@ Pub. L. 104–264, §147(c)(1)(C), struck out subsec. (d) which read as follows:
 Ending Effective Date and Report.—This section is effective only through September 30, 1996.”
 
 1994—Subsec. (c). Pub. L. 103–429 substituted “subsection (b)(1)(B) or (C)” for “subsection (b)(2) or (3)”.
+
+#### Effective Date of 1997 Amendment
+
+Pub. L. 105–102, §3(d), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(d)(1)(E) is effective Oct. 11, 1996.
+
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 

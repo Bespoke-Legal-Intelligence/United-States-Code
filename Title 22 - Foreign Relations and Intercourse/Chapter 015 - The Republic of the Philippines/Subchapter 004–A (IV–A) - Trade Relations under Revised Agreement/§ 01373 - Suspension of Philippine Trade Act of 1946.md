@@ -16,5 +16,5 @@ Section 301(b) of title III of act Aug. 1, 1955, provided that: “The provision
 
 #### Short Title
 
-Section 1 of act Aug. 1, 1955, provided that: “This Act \[enacting this subchapter and amending section 734 of Title 48, Territories and Insular Possessions\] may be cited as the ‘Philippine Trade Agreement Revision Act of 1955’.”
+Section 1 of act Aug. 1, 1955, provided that: “This Act \[enacting this subchapter and amending section 734 of Title 48, Territories and Insular Possessions\] may becited as the ‘Philippine Trade Agreement Revision Act of 1955’.”
 

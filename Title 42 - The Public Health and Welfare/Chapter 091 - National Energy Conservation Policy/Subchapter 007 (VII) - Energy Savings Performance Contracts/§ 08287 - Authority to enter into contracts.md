@@ -4,7 +4,7 @@
 
 (1) The head of a Federal agency may enter into contracts under this subchapter solely for the purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years. Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
 
-(2)(A) Contracts under this subchapter shall be energy savings performance contracts and shall require an annual energy audit and specify the terms and conditions of any Government payments and performance guarantees. Any such performance guarantee shall provide that the contractor is responsible for maintenance and repair services for any energy related equipment, including computer software systems.
+(2)(A) Contracts under this subchapter shall be energy savings performance contracts and shallrequire an annual energy audit and specify the terms and conditions of any Government payments and performance guarantees. Any such performance guarantee shall provide that the contractor is responsible for maintenance and repair services for any energy related equipment, including computer software systems.
 
 (B) Aggregate annual payments by an agency to both utilities and energy savings performance contractors, under an energy savings performance contract, may not exceed the amount that the agency would have paid for utilities without an energy savings performance contract (as estimated through the procedures developed pursuant to this section) during contract years. The contract shall provide for a guarantee of savings to the agency, and shall establish payment schedules reflecting such guarantee, taking into account any capital costs under the contract.
 
@@ -22,7 +22,7 @@
 
 #### (b) Implementation
 
-(1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 421(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effectivemanner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
+(1)(A) The Secretary, with the concurrence of the Federal Acquisition Regulatory Council established under section 421(a) of title 41, not later than 180 days after October 24, 1992, shall, by rule, establish appropriate procedures and methods for use by Federal agencies to select, monitor, and terminate contracts with energy service contractors in accordance with laws governing Federal procurement that will achieve the intent of this section in a cost-effective manner. In developing such procedures and methods, the Secretary, with the concurrence of the Federal Acquisition Regulatory Council, shall determine which existing regulations are inconsistent with the intent of this section and shall formulate substitute regulations consistent with laws governing Federal procurement.
 
 (B) The procedures and methods established pursuant to subparagraph (A) shall be the procedures and contracting methods for selection, by an agency, of a contractor to provide energy savings performance services. Such procedures and methods shall provide for the calculation of energy savings based on sound engineering and financial practices.
 
@@ -52,7 +52,7 @@
 
 The authority to enter into new contracts under this section shall cease to be effective five years after the date procedures and methods are established under subsection (b) of this section.
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct.24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838.)
 
 #### Amendments
 
@@ -84,7 +84,7 @@ Authorized Uses of Savings.—The energy cost savings realized by the United Sta
 
 &emsp;“(1) One-half of the amount of such savings may be used for the acquisition of energy conserving measures for military installations, and such measures may be in addition to any such energy conserving measures acquired for military installations under contracts entered into under title VIII of the National Energy Conservation Policy Act.
 
-&emsp;“(2) One-half of the amount of such savings may be used for any morale, welfare, or recreation facility orservice that is normally provided with appropriated funds, or for any minor military construction project (as defined in section 2805(a) of title 10, United States Code), that will enhance the quality of life of members of the Armed Forces at the military installation at which the energy cost savings were realized.
+&emsp;“(2) One-half of the amount of such savings may be used for any morale, welfare, or recreation facility or service that is normally provided with appropriated funds, or for any minor military construction project (as defined in section 2805(a) of title 10, United States Code), that will enhance the quality of life of members of the Armed Forces at the military installation at which the energy cost savings were realized.
 
 “(c)
 

@@ -62,7 +62,7 @@ From appropriations under section 6064(a) <sup>1</sup> of this title, the Secre
 
 #### (G) Community transition
 
-&emsp;&emsp;Grants under this subsection for training projects with respect to transition from school to adult life shall be for the purpose of assisting university affiliated programs in providing training to individuals with developmental disabilities and their families, generic community agencies, advocacy organizations, and others in order to stimulate the development and improvement of policies, procedures, systems, and other mechanisms that prepare youth with developmental disabilities to enter adult life. Such projects shall be coordinated with State transition projects funded under section 1425(e) of title 20, where such State transition projects exist.
+&emsp;&emsp;Grants under this subsection for training projects with respect to transition from school to adult life shall be for the purpose of assisting university affiliated programs in providing training to individuals with developmental disabilities and their families, generic community agencies, advocacy organizations, and others in order to stimulate the development and improvement of policies, procedures, systems, and other mechanisms that prepare youth with developmental disabilities to enter adult life. Such projects shall be coordinated with State transition projects funded under section 1425(e) <sup>1</sup> of title 20, where such State transition projects exist.
 
 #### (H) Other areas
 
@@ -78,7 +78,7 @@ From appropriations under section 6064(a) <sup>1</sup> of this title, the Secre
 
 #### (5) Prohibited activities
 
-&emsp;Grants awarded under this subsection shall not be used for administrative expenses for the university affiliated program under subsection (a) of this section.
+&emsp;Grants awarded under this subsection shall not be used for administrative expenses for the university affiliated program under subsection (a) of this section. Such grants shall not be used in a manner inconsistent with section 14403 of this title.
 
 #### (6) Criteria
 
@@ -126,19 +126,23 @@ From amounts appropriated under section 6066(a) of this title, the Secretary may
 
 From amounts appropriated under section 6066(a) of this title, the Secretary may make a grant to a university or a public or nonprofit entity which is associated with, or is an integral part of, a college or university, to study the feasibility of establishing a university affiliated program. Such study shall include an assessment of the needs of the area in which the university is located for such a program or center.<sup>2</sup> The amount of a grant under this subsection may not exceed $35,000 for any fiscal year. A grant under this subsection may only be made in a State in which there is no university affiliated program.
 
-(Pub. L. 88–164, title I, §152, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2681; amended Pub. L. 100–146, title IV, §402, Oct. 29, 1987, 101 Stat. 853; Pub. L. 101–496, §17, Oct. 31, 1990, 104 Stat. 1200; Pub. L. 103–230, title IV, §403, Apr. 6, 1994, 108 Stat. 320.)
+(Pub. L. 88–164, title I, §152, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2681; amended Pub. L. 100–146, title IV, §402, Oct. 29, 1987, 101 Stat. 853; Pub. L. 101–496, §17, Oct. 31, 1990, 104 Stat. 1200; Pub. L. 103–230, title IV, §403, Apr. 6, 1994, 108 Stat. 320; Pub. L. 105–12, §9(<i>l</i>)(3), Apr. 30, 1997, 111 Stat. 28.)
 
 #### References in Text
 
 Section 6064(a) of this title, referred to in subsec. (a), was amended generally by Pub. L. 103–230, title IV, §405, Apr. 6, 1994, 108 Stat. 326, and, as so amended, no longer contains provisions authorizing appropriations for this section. See section 6066(a) of this title.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
+Section 1425 of title 20, referred to in subsec. (b)(3)(G), was repealed by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157.
 
 #### Prior Provisions
 
 A prior section 6062, Pub. L. 88–164, title I, §132, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1317; amended Pub. L. 94–103, title I, §110(b)–(e)(1), title III, §302(b)(1), Oct. 4, 1975, 89 Stat. 489, 490, 506; Pub. L. 94–278, title XI, §1107(a) Apr. 22, 1976, 90 Stat. 416; Pub. L. 95–602, title V, §510(b), Nov. 6, 1978, 92 Stat. 3010, related to allotments to States, prior to the general amendment of this chapter by Pub. L. 98–527. See section 6025 of this title.
 
 #### Amendments
+
+1997—Subsec. (b)(5). Pub. L. 105–12 inserted at end “Such grants shall not be used in a manner inconsistent with section 14403 of this title.”
 
 1994—Pub. L. 103–230, §403(a), reenacted section catchline without change.
 
@@ -170,7 +174,7 @@ Subsecs. (f), (g). Pub. L. 103–230, §403(b)(6), struck out subsecs. (f) and (
 
 1990—Subsec. (b)(1)(A). Pub. L. 101–496, §17(1)(A)–(C), struck out “sufficient size and scope” after “grants of”, substituted “community-based” for “and community-based”, and inserted provision before period at end including programs described in pars. (5), (6), and (7).
 
-Subsec. (b)(1)(B) to (F). Pub. L. 101–496, §17(1)(D)–(F), added subpars. (B) to (E), redesignated former subpar. (C) as (F), and struck out former subpar. (B) which read as follows: “The Secretary shall make determinations with respect to grants under this subsection based on information relating to present and projected needs forthe training of personnel based on identified State, regional, or national shortages of personnel, the capacity of the university affiliated programs to train personnel, and such other information as may be determined necessary and appropriate by the Secretary.”
+Subsec. (b)(1)(B) to (F). Pub. L. 101–496, §17(1)(D)–(F), added subpars. (B) to (E), redesignated former subpar. (C) as (F), and struck out former subpar. (B) which read as follows: “The Secretary shall make determinations with respect to grants under this subsection based on information relating to present and projected needs for the training of personnel based on identified State, regional, or national shortages of personnel, the capacity of the university affiliated programs to train personnel, and such other information as may be determined necessary and appropriate by the Secretary.”
 
 Subsec. (b)(5) to (7). Pub. L. 101–496, §17(2), added pars. (5) to (7).
 
@@ -185,6 +189,10 @@ Subsec. (c). Pub. L. 100–146, §402(b)(3), added subsec. (c). Former subsec. (
 Subsec. (d). Pub. L. 100–146, §402(b)(1), (2), redesignated former subsec. (c) as (d), substituted “From amounts appropriated under section 6064(a) of this title, the” for “The” and “section 6001(18) of this title and may compete for grants under subsections (b) and (c) of this section” for “section 6001(13) of this title”, and struck out former subsec. (d) which related to limitations on satellite center grants.
 
 Subsec. (e). Pub. L. 100–146, §402(b)(4), added subsec. (e).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
 
 #### Effective Date of 1987 Amendment
 

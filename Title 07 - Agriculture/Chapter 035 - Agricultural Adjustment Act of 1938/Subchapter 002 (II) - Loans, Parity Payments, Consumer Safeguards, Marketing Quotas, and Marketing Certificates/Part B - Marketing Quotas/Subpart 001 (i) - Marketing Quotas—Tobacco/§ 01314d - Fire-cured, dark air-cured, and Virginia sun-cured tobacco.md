@@ -1,0 +1,58 @@
+### §1314d. Fire-cured, dark air-cured, and Virginia sun-cured tobacco
+
+#### (a) Sale or lease of acreage allotments and acreage-poundage quotas
+
+Notwithstanding any other provision of law, the Secretary, if he determines that it will not impair the effective operation of the tobacco marketing quota or price support programs, (1) may permit the owner and operator of any farm for which a Fire-cured, dark air-cured, or Virginia sun-cured tobacco acreage allotment or acreage-poundage quota is established under this chapter to sell or lease all or any part or the right to all or any part of such allotment or quota to any other owner or operator of a farm for transfer to such farm; and (2) may permit the owner of a farm to transfer all or any part of such allotment or quota to any other farm owned or controlled by him.
+
+#### (b) Conditions for transfers
+
+Transfers under this section shall be subject to the following conditions: (1) except as provided in section 1379(b) of this title, no allotment or quota shall be transferred to a farm in another county: <i>Provided</i>, That in the case of Virginia fire-cured tobacco type 21 and Virginia sun-cured tobacco type 37, any such transfer may be made to a farm in another county in the same State; (2) no transfer other than by annual lease of an allotment or quota from a farm subject to a mortgage or other lien shall be permitted unless the transfer is agreed to by the lienholders; (3) no sale of a farm allotment or quota from a farm shall be permitted if any sale of allotment or quota to the same farm has been made within the three immediately preceding crop years; and (4) no transfer of allotment or quota shall be effective until a record thereof is filed with the county committee of the county to which such transfer is made and such committee determines that the transfer complies with the provisions of this section.
+
+#### (c) Transfer of acreage history and marketing quota
+
+The transfer of an allotment or quota under this section shall have the effect of transferring also the acreage history and marketing quota attributable to such allotment or quota and if the transfer is made prior to the determination of the allotment or quota for any year the transfer shall include the right of the owner or operator to have an allotment or quota determined for the farm for such year: <i>Provided</i>, That in the case of a transfer by lease the amount of the allotment or quota shall be considered for purposes of determining allotments or quotas after the expiration of the lease to have been planted on the farm from which such allotment is transferred.
+
+#### (d) Five-year restriction on new farm allotments or quotas
+
+The land in the farm from which the entire tobacco allotment or quota has been transferred shall not be eligible for a new farm tobacco allotment or quota during the five years following the year in which such transfer is made.
+
+#### (e) Allotment adjustment
+
+The transfer of an allotment or quota under this section shall be approved acre for acre.
+
+#### (f) Lease term
+
+Any lease under this section may be made for such term of years not to exceed five as the parties thereto agree, and on such other terms and conditions except as otherwise provided in this section as the parties thereto agree.
+
+#### (g) Acreage transfer maximums
+
+Under the provisions of this section not more than ten acres of allotment may be transferred to any farm: <i>Provided</i>, That the total acreage allotted to any farm after such transfer shall not exceed 50 per centum of the acreage of cropland in the farm.
+
+#### (h) Future allotments; referendum voting eligibility
+
+The lease of any part of a tobacco acreage allotment or acreage-poundage quota under this section determined for a farm shall not affect the allotment or quota for the farm from which such allotment or quota is transferred or the farm to which it is transferred, except with respect to the crop year or years specified in the lease. The amount of the acreage allotment and acreage-poundage quota which is leased from a farm shall be considered for purposes of determining future allotments and quotas to have been planted to tobacco on the farm from which such allotment or quota is leased and the production pursuant to the lease shall not be taken into account in establishing allotments or quotas for subsequent years for the farm to which such allotment is leased. The lessor shall be considered to have been engaged in the production of tobacco for purposes of eligibility to vote in the referendum.
+
+#### (i) Land utilization agreements; payment adjustments
+
+If the sale or transfer under this section occurs during a period in which the farm is covered, by a conservation reserve contract, cropland conversion agreement, or other similar land utilization agreement the rates of payment provided for in the contract or agreement of the farm from which the transfer is made shall be subject to an appropriate adjustment, but no adjustment shall be made in the contract or agreement of the farm to which the transfer is made.
+
+#### (j) Rules and regulations
+
+The Secretary shall prescribed such regulations and other terms and conditions as he deems necessary for the administration of this section.
+
+(Feb. 16, 1938, ch. 30, title III, §318, as added July 7, 1967, Pub. L. 90–51, §1, 81 Stat. 120; amended July 5, 1968, Pub. L. 90–387, 82 Stat. 293; Oct. 23, 1971, Pub. L. 92–144, 85 Stat. 393; Nov. 29, 1983, Pub. L. 98–180, title II, §212(a), 97 Stat. 1149; Oct. 28, 1992, Pub. L. 102–566, §1, 106 Stat. 4269.)
+
+#### Amendments
+
+1992—Subsec. (e). Pub. L. 102–566 added subsec. (e) and struck out former subsec. (e) which read as follows: “If the normal yield established by the county committee for the farm to which the allotment is transferred does not exceed the normal yield established by the county committee for the farm from which the allotment is transferred by more than 10 per centum, the transfer shall be approved acre for acre. If the normal yield for the farm to which the allotment is transferred exceeds the normal yield for the farm from which the allotment is transferred by more than 10 per centum, the county committee shall make a downward adjustment in the amount of the acreage allotment transferred by multiplying the normal yield established for the farm from which the allotment is transferred by the acreage being transferred and dividing the result by the normal yield established for the farm to which the allotment is transferred.”
+
+1983—Subsec. (b). Pub. L. 98–180 inserted “except as provided in section 1379(b) of this title,” after “(1)”.
+
+1971—Subsec. (b)(1). Pub. L. 92–144 inserted proviso referring to Virginia fire-cured tobacco type 21 and Virginia sun-cured tobacco type 37.
+
+1968—Subsec. (b)(2). Pub. L. 90–387 inserted “other than by annual lease” after “no transfer”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1314e of this title.
+

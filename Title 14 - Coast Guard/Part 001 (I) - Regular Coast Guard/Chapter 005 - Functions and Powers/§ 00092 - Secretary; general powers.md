@@ -144,83 +144,85 @@ Pub. L. 89–381, §2, Mar. 30, 1966, 80 Stat. 97, during fiscal years 1967 thro
 
 Provisions specifying the maximum number of aircraft on hand at any one time, exclusive of planes and parts stored to meet future attrition, were contained in the following appropriation acts:
 
-Sept. 30, 1996, Pub. L. 104–205, title I, 110 Stat. 2953.
+Pub. L. 105–66, title I, Oct. 27, 1997, 111 Stat. 1426.
 
-Nov. 15, 1995, Pub. L. 104–50, title I, 109 Stat. 438.
+Pub. L. 104–205, title I, Sept. 30, 1996, 110 Stat. 2953.
 
-Sept. 30, 1994, Pub. L. 103–331, title I, 108 Stat. 2473.
+Pub. L. 104–50, title I, Nov. 15, 1995, 109 Stat. 438.
 
-Oct. 27, 1993, Pub. L. 103–122, title I, 107 Stat. 1201.
+Pub. L. 103–331, title I, Sept. 30, 1994, 108 Stat. 2473.
 
-Oct. 6, 1992, Pub. L. 102–388, title I, 106 Stat. 1523.
+Pub. L. 103–122, title I, Oct. 27, 1993, 107 Stat. 1201.
 
-Oct. 28, 1991, Pub. L. 102–143, title I, 105 Stat. 920.
+Pub. L. 102–388, title I, Oct. 6, 1992, 106 Stat. 1523.
 
-Nov. 5, 1990, Pub. L. 101–516, title I, 104 Stat. 2158.
+Pub. L. 102–143, title I, Oct. 28, 1991, 105 Stat. 920.
 
-Nov. 21, 1989, Pub. L. 101–164, title I, 103 Stat. 1071.
+Pub. L. 101–516, title I, Nov. 5, 1990, 104 Stat. 2158.
 
-Sept. 30, 1988, Pub. L. 100–457, title I, 102 Stat. 2126.
+Pub. L. 101–164, title I, Nov. 21, 1989, 103 Stat. 1071.
 
-Dec. 22, 1987, Pub. L. 100–202, §101(<i>l</i>) \[title I\], 101 Stat. 1329–358, 1329–359.
+Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2126.
 
-Oct. 18, 1986, Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, title I\], 100 Stat. 1783–308, and Oct. 30, 1986, Pub. L. 99–591, §101(<i>l</i>), 100 Stat. 3341–308.
+Pub. L. 100–202, §101(<i>l</i>) \[title I\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–359.
 
-Dec. 19, 1985, Pub. L. 99–190, §101(e) \[title I\], 99 Stat. 1267, 1269.
+Pub. L. 99–500, §101(<i>l</i>) \[H.R. 5205, title I\], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat. 3341–308.
 
-Oct. 12, 1984, Pub. L. 98–473, title I, §101(i) \[title I\], 98 Stat. 1944, 1945.
+Pub. L. 99–190, §101(e) \[title I\], Dec. 19, 1985, 99 Stat. 1267, 1269.
 
-Aug. 15, 1983, Pub. L. 98–78, title I, 97 Stat. 454.
+Pub. L. 98–473, title I, §101(i) \[title I\], Oct. 12, 1984, 98 Stat. 1944, 1945.
 
-Dec. 18, 1982, Pub. L. 97–369, title I, 96 Stat. 1766.
+Pub. L. 98–78, title I, Aug. 15, 1983, 97 Stat. 454.
 
-Dec. 23, 1981, Pub. L. 97–102, title I, 95 Stat. 1443.
+Pub. L. 97–369, title I, Dec. 18, 1982, 96 Stat. 1766.
 
-Oct. 9, 1980, Pub. L. 96–400, title I, 94 Stat. 1681.
+Pub. L. 97–102, title I, Dec. 23, 1981, 95 Stat. 1443.
 
-Nov. 30, 1979, Pub. L. 96–131, title I, 93 Stat. 1023.
+Pub. L. 96–400, title I, Oct. 9, 1980, 94 Stat. 1681.
 
-Aug. 4, 1978, Pub. L. 95–335, title I, 92 Stat. 435.
+Pub. L. 96–131, title I, Nov. 30, 1979, 93 Stat. 1023.
 
-Aug. 2, 1977, Pub. L. 95–85, title I, 91 Stat. 402.
+Pub. L. 95–335, title I, Aug. 4, 1978, 92 Stat. 435.
 
-Aug. 14, 1976, Pub. L. 94–387, title I, 90 Stat. 1172.
+Pub. L. 95–85, title I, Aug. 2, 1977, 91 Stat. 402.
 
-Nov. 24, 1975, Pub. L. 94–134, title I, 89 Stat. 696.
+Pub. L. 94–387, title I, Aug. 14, 1976, 90 Stat. 1172.
 
-Aug. 28, 1974, Pub. L. 93–391, title I, 88 Stat. 769.
+Pub. L. 94–134, title I, Nov. 24, 1975, 89 Stat. 696.
 
-Aug. 16, 1973, Pub. L. 93–98, title I, 87 Stat. 330.
+Pub. L. 93–391, title I, Aug. 28, 1974, 88 Stat. 769.
 
-Aug. 22, 1972, Pub. L. 93–398, title I, 86 Stat. 581.
+Pub. L. 93–98, title I, Aug. 16, 1973, 87 Stat. 330.
 
-Aug. 10, 1971, Pub. L. 92–74, title I, 85 Stat. 202.
+Pub. L. 93–398, title I, Aug. 22, 1972, 86 Stat. 581.
 
-Dec. 26, 1969, Pub. L. 91–168, title I, 83 Stat. 454.
+Pub. L. 92–74, title I, Aug. 10, 1971, 85 Stat. 202.
 
-Aug. 8, 1968, Pub. L. 90–464, title I, 82 Stat. 654.
+Pub. L. 91–168, title I, Dec. 26, 1969, 83 Stat. 454.
 
-Oct. 23, 1967, Pub. L. 90–112, title II, 81 Stat. 312.
+Pub. L. 90–464, title I, Aug. 8, 1968, 82 Stat. 654.
 
-June 29, 1966, Pub. L. 89–474, title I, 80 Stat. 223.
+Pub. L. 90–112, title II, Oct. 23, 1967, 81 Stat. 312.
 
-June 30, 1965, Pub. L. 89–57, title I, 79 Stat. 197.
+Pub. L. 89–474, title I, June 29, 1966, 80 Stat. 223.
 
-Aug. 1, 1964, Pub. L. 88–392, title I, 78 Stat. 369.
+Pub. L. 89–57, title I, June 30, 1965, 79 Stat. 197.
 
-June 13, 1963, Pub. L. 88–39, title I, 77 Stat. 59.
+Pub. L. 88–392, title I, Aug. 1, 1964, 78 Stat. 369.
 
-Aug. 6, 1962, Pub. L. 87–575, title I, 76 Stat. 311.
+Pub. L. 88–39, title I, June 13, 1963, 77 Stat. 59.
 
-Aug. 21, 1961, Pub. L. 87–159, title I, 75 Stat. 395.
+Pub. L. 87–575, title I, Aug. 6, 1962, 76 Stat. 311.
 
-June 30, 1960, Pub. L. 86–561, title I, 74 Stat. 285.
+Pub. L. 87–159, title I, Aug. 21, 1961, 75 Stat. 395.
 
-June 11, 1959, Pub. L. 86–39, title I, 73 Stat. 67.
+Pub. L. 86–561, title I, June 30, 1960, 74 Stat. 285.
 
-Mar. 28, 1958, Pub. L. 85–354, title I, 72 Stat. 62.
+Pub. L. 86–39, title I, June 11, 1959, 73 Stat. 67.
 
-May 27, 1957, Pub. L. 85–37, title I, 71 Stat. 37.
+Pub. L. 85–354, title I, Mar. 28, 1958, 72 Stat. 62.
+
+Pub. L. 85–37, title I, May 27, 1957, 71 Stat. 37.
 
 Apr. 2, 1956, ch. 161, title I, 70 Stat. 93.
 

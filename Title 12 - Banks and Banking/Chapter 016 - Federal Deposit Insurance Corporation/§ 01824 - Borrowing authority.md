@@ -1,0 +1,158 @@
+### §1824. Borrowing authority
+
+#### (a) Borrowing from Treasury
+
+The Corporation is authorized to borrow from the Treasury, and the Secretary of the Treasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of theCorporation are from time to time required for insurance purposes, not exceeding in the aggregate $30,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
+
+#### (b) Borrowing from Federal Financing Bank
+
+The Corporation is authorized to issue and sell the Corporation's obligations, on behalf of the Bank Insurance Fund or Savings Association Insurance Fund, to the Federal Financing Bank established by the Federal Financing Bank Act of 1973 \[12 U.S.C. 2281 et seq.\]. The Federal Financing Bank is authorized to purchase and sell the Corporation's obligations on terms and conditions determined by the Federal Financing Bank. Any such borrowings shall be obligations subject to the obligation limitation of section 1825(c) of this title. This subsection does not affect the eligibility of any other entity to borrow from the Federal Financing Bank.
+
+#### (c) Repayment schedules required for any borrowing
+
+#### (1) In general
+
+&emsp;No amount may be provided by the Secretary of the Treasury to the Corporation under subsection (a) of this section unless an agreement is in effect between the Secretary and the Corporation which—
+
+&emsp;&emsp;(A) provides a schedule for the repayment of the outstanding amount of any borrowing under such subsection; and
+
+&emsp;&emsp;(B) demonstrates that income to the Corporation from assessments under this chapter will be sufficient to amortize the outstanding balance within the period established in the repayment schedule and pay the interest accruing on such balance.
+
+#### (2) Consultation with and report to Congress
+
+&emsp;The Secretary of the Treasury and the Corporation shall—
+
+&emsp;&emsp;(A) consult with the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the terms of any repayment schedule agreement described in paragraph (1) relating to repayment, including terms relating to any emergency special assessment under section 1817(b)(7) of this title; and
+
+&emsp;&emsp;(B) submit a copy of each repayment schedule agreement entered into under paragraph (1) to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate before the end of the 30-day period beginning on the date any amount is provided by the Secretary of the Treasury to the Corporation under subsection (a) of this section.
+
+#### (3) Industry repayment
+
+#### (A) BIF member payments
+
+&emsp;&emsp;No agreement or repayment schedule under paragraph (1) shall require any payment by a Bank Insurance Fund member for funds obtained under subsection (a) of this section for purposes of the Savings Association Fund.
+
+#### (B) SAIF member payments
+
+&emsp;&emsp;No agreement or repayment schedule under paragraph (1) shall require any payment by a Savings Association Insurance Fund member for funds obtained under subsection (a) of this section for purposes of the Bank Insurance Fund.
+
+#### (d) Borrowing for BIF from BIF members
+
+#### (1) Borrowing authority
+
+&emsp;The Corporation may issue obligations to Bank Insurance Fund members, and may borrow from Bank Insurance Fund members and give security for any amount borrowed, and may pay interest on (and any redemption premium with respect to) any such obligation or amount to the extent—
+
+&emsp;&emsp;(A) the proceeds of any such obligation or amount are used by the Corporation solely for purposes of carrying out the Corporation's functions with respect to the Bank Insurance Fund; and
+
+&emsp;&emsp;(B) the terms of the obligation or instrument limit the liability of the Corporation or the Bank Insurance Fund for the payment of interest and the repayment of principal to the amount which is equal to the amount of assessment income received by the Fund from assessments under section 1817 of this title.
+
+#### (2) Limitations on borrowing
+
+#### (A) Applicability of public debt limit
+
+&emsp;&emsp;For purposes of the public debt limit established in section 3101(b) of title 31, any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an obligation to which such limit applies.
+
+#### (B) Applicability of FDIC borrowing limit
+
+&emsp;&emsp;For purposes of the dollar amount limitation established in subsection (a) of this section, any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an amount borrowed from the Treasury under such subsection.
+
+#### (C) Interest rate limit
+
+&emsp;&emsp;The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+
+#### (D) Obligations to be held only by BIF members
+
+&emsp;&emsp;The terms of any obligation issued by the Corporation under paragraph (1) shall provide that the obligation will be valid only if held by a Bank Insurance Fund member.
+
+#### (3) Liability of BIF
+
+&emsp;Any obligation issued or amount borrowed under paragraph (1) shall be a liability of the Bank Insurance Fund.
+
+#### (4) Terms and conditions
+
+&emsp;Subject to paragraphs (1) and (2), the Corporation shall establish the terms and conditions for obligations issued or amounts borrowed under paragraph (1), including interest rates and terms to maturity.
+
+#### (5) Investment by BIF members
+
+#### (A) Authority to invest
+
+&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of Federal law or the law of any State, any Bank Insurance Fund member may purchase and hold for investment any obligation issued by the Corporation under paragraph (1) without limitation, other than any limitation the appropriate Federal banking agency may impose specifically with respect to such obligations.
+
+#### (B) Investment only from capital and retained earnings
+
+&emsp;&emsp;Any Bank Insurance Fund member may purchase obligations or make loans to the Corporation under paragraph (1) only to the extent the purchase money or the money loaned is derived from the member's capital or retained earnings.
+
+#### (6) Accounting treatment
+
+&emsp;In accounting for any investment in an obligation purchased from, or any loan made to, the Corporation for purposes of determining compliance with any capital standard and preparing any report required pursuant to section 1817(a) of this title, the amount of such investment or loan shall be treated as an asset.
+
+(Sept. 21, 1950, ch. 967, §2\[14\], 64 Stat. 890; Pub. L. 101–73, title II, §218, Aug. 9, 1989, 103 Stat. 261; Pub. L. 101–508, title II, §2005, Nov. 5, 1990, 104 Stat. 1388–16; Pub. L. 102–242, title I, §§101, 103(a), 105, Dec. 19, 1991, 105 Stat. 2236, 2237, 2239; Pub. L. 102–550, title XVI, §1603(a)(2), Oct. 28, 1992, 106 Stat. 4078; Pub. L. 103–204, §10, Dec. 17, 1993, 107 Stat. 2389; Pub. L. 104–208, div. A, title II, §2704(d)(14)(N)–(Q), Sept. 30, 1996, 110 Stat. 3009–493.)
+
+#### Amendment of Section
+
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(14)(N)–(Q), Sept. 30, 1996, 110 Stat. 3009–487, 3009–493, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, this section is amended as follows:</i>
+
+<i>(1) In subsection (a), in the 5th sentence—</i>
+
+<i>(A) by striking “Bank Insurance Fund or the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”; and</i>
+
+<i>(B) by striking “each such fund” and inserting “the Deposit Insurance Fund”;</i>
+
+<i>(2) In subsection (b), by striking “Bank Insurance Fund or Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”;</i>
+
+<i>(3) In subsection (c), by striking paragraph (3); and</i>
+
+<i>(4) In subsection (d)—</i>
+
+<i>(A) by striking “BIF” each place such term appears and inserting “DIF”; and</i>
+
+<i>(B) by striking “Bank Insurance Fund” each place such term appears and inserting “Deposit Insurance Fund”.</i>
+
+#### References in Text
+
+The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, as amended, which is classified generally to chapter 24 (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of this title and Tables.
+
+#### Codification
+
+“Chapter 31 of title 31” substituted in subsec. (a) for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Prior Provisions
+
+Section is derived from subsec. (<i>o</i>) of former section 264 of this title. See Codification note set out under section 1811 of this title.
+
+#### Amendments
+
+1993—Subsec. (c)(3). Pub. L. 103–204 added par. (3).
+
+1992—Subsec. (d)(2)(D). Pub. L. 102–550 substituted “member” for “Member”.
+
+1991—Subsec. (a). Pub. L. 102–242, §101, substituted “$30,000,000,000” for “$5,000,000,000”.
+
+Subsec. (c). Pub. L. 102–242, §103(a), added subsec. (c).
+
+Subsec. (d). Pub. L. 102–242, §105, added subsec. (d).
+
+1990—Pub. L. 101–508 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subsection” for “this section” wherever appearing, substituted “The Corporation may employ any funds obtained under this section” for “The Corporation may employ such funds”, and added subsec. (b).
+
+1989—Pub. L. 101–73 substituted “$5,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury” for “$3,000,000,000 outstanding at any one time”, substituted “an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities” for “the current average rate on outstanding marketable and nonmarketable obligations of the United States as of the last day of the month preceding the making of such loan”, and inserted at end “The Corporation may employ such funds for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this section.”
+
+#### Change of Name
+
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
+
+#### Effective Date of 1992 Amendment
+
+Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
+
+#### Retirement and Cancellation of Capital Stock; Payments of Capital and Surplus to Secretary of the Treasury
+
+Section 1 of act Aug. 5, 1947, ch. 492, 61 Stat. 773, directed the Federal Deposit Insurance Corporation to retire its capital stock by paying the amount received therefor (whether received from the Secretary of the Treasury or the Federal Reserve banks) to the Secretary of the Treasury, to be covered into the Treasury as miscellaneous receipts, with the Corporation to pay to the Secretary so much of its capital and surplus as is in excess of $1,000,000,000, the balance of the amount to be paid to the Secretary in units of $10,000,000 except that the last unit to be paid could be less than $10,000,000.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1817, 1821, 1825, 2712 of this title.
+

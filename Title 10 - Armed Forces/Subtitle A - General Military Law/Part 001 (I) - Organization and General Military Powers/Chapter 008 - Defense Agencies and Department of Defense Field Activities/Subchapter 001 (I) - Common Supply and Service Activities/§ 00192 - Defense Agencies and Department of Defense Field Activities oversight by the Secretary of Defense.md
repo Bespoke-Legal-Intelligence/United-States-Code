@@ -2,7 +2,7 @@
 
 (a)
 
-Overall Supervision.—(1) The Secretary of Defense shall assign responsibility for theoverall supervision of each Defense Agency and Department of Defense Field Activity designated under section 191(b) of this title—
+Overall Supervision.—(1) The Secretary of Defense shall assign responsibility for the overall supervision of each Defense Agency and Department of Defense Field Activity designated under section 191(b) of this title—
 
 &emsp;(A) to a civilian officer within the Office of the Secretary of Defense listed in section 131(b) of this title; or
 
@@ -34,5 +34,5 @@ A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat.
 
 #### First Review of Defense Agencies by Secretary of Defense
 
-Section 304(a) of Pub. L. 99–433 provided that: “The first review under section 192(c) of title 10, United States Code (as added by section 301(a)), shall be completed not later than two years after the date that the report under section 303(e) \[see section 303(f) of Pub. L. 99–433, set out as a note under section 191 of this title\] is required to be submitted to Congress.”
+Section 304(a) of Pub. L. 99–433 provided that: “The first review under section 192(c) of title 10, United States Code (as added by section 301(a)), shall be completed not later than two years after the date that thereport under section 303(e) \[see section 303(f) of Pub. L. 99–433, set out as a note under section 191 of this title\] is required to be submitted to Congress.”
 

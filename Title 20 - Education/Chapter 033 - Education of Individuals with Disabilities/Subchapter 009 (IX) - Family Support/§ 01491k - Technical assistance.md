@@ -30,9 +30,13 @@ A request for technical assistance by a lead entity in a State receiving assista
 
 #### (d) Reports to Secretary
 
-An entity providing the technical assistance under this section shall submit periodic reports to the Secretary regarding Federal policies and procedures identified within the States that facilitate or impede the delivery of family supportto families of children with disabilities. The report shall include recommendations to the Secretary regarding the delivery of services, coordination with other programs, and integration of the policies and principles described in section 1491a of this title in other Federal legislation.
+An entity providing the technical assistance under this section shall submit periodic reports to the Secretary regarding Federal policies and procedures identified within the States that facilitate or impede the delivery of family support to families of children with disabilities. The report shall include recommendations to the Secretary regarding the delivery of services, coordination with other programs, and integration of the policies and principles described in section 1491a of this title in other Federal legislation.
 
 (Pub. L. 91–230, title VI, §712, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3953.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
 
 #### Section Referred to in Other Sections
 

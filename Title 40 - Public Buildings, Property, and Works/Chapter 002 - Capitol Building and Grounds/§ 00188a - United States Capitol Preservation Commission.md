@@ -36,7 +36,7 @@ Each member of the Commission specified under subsection (b) of this section (ot
 
 #### (d) Architect of the Capitol
 
-In addition to the members under subsection (b) of this section, the Architect of the Capitolshall participate in the activities of the Commission, ex officio, and without the right to vote.
+In addition to the members under subsection (b) of this section, the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
 
 #### (e) Staff support and assistance
 

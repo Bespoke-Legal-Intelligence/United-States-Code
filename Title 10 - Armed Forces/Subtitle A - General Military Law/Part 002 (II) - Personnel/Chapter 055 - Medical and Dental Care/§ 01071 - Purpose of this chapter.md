@@ -26,7 +26,7 @@ A prior section 1071, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which stated th
 
 #### Amendments
 
-1980—Pub. L. 96–513 substituted “Purpose of this chapter” for “Purpose of sections 1071–1087 of thistitle” in section catchline, and substituted reference to this chapter for reference to sections 1071–1087 of this title in text.
+1980—Pub. L. 96–513 substituted “Purpose of this chapter” for “Purpose of sections 1071–1087 of this title” in section catchline, and substituted reference to this chapter for reference to sections 1071–1087 of this title in text.
 
 1966—Pub. L. 89–614 substituted “1087” for “1085” in section catchline and text.
 
@@ -86,7 +86,7 @@ Pub. L. 102–484, div. A, title VII, §724, Oct. 23, 1992, 106 Stat. 2440, as a
 
 “(a)
 
-Survey Required.—The administering Secretaries shall conduct annually a formal survey of persons receiving health care under chapter 55 of title 10, United States Code, in order to determine the following:
+Survey Required.—The administering Secretaries shall conduct annually a formal survey of personsreceiving health care under chapter 55 of title 10, United States Code, in order to determine the following:
 
 &emsp;“(1) The availability of health care services to such persons through the health care system provided for under that chapter, the types of services received, and the facilities in which the services were provided.
 

@@ -12,11 +12,23 @@
 
 &emsp;&emsp;(B) is under the control of a military authority or defense agency.
 
-(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2897.)
+(c) Notwithstanding the provisions of section 1610 of this chapter, the property of a foreign state shall be immune from attachment and from execution in an action brought under section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 to the extent that the property is a facility or installation used by an accredited diplomatic mission for official purposes.
+
+(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2897; amended Pub. L. 104–114, title III, §302(e), Mar. 12, 1996, 110 Stat. 818.)
 
 #### References in Text
 
 The International Organizations Immunities Act, referred to in subsec. (a), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+
+Section 302 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, referred to in subsec. (c), is section 302 of Pub. L. 104–114, which amended this section and enacted section 6082 of Title 22, Foreign Relations and Intercourse.
+
+#### Amendments
+
+<b>1996</b>—Subsec. (c). Pub. L. 104–114 added subsec. (c).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–114 effective Aug. 1, 1996, or date determined pursuant to suspension authority of President under section 6085(b) or (c) of Title 22, Foreign Relations and Intercourse, see section 6085 of Title 22.
 
 #### Section Referred to in Other Sections
 

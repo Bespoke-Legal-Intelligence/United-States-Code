@@ -1,14 +1,18 @@
 ### §635f. Termination date of Bank's functions; exceptions; liquidation
 
-Export-Import Bank of the United States shall continue to exercise its functions in connection with and in furtherance of its objects and purposes until the close of business on September 30, 1997, but the provisions of this section shall not be construed as preventing the bank from acquiring obligations prior to such date whichmature subsequent to such date or from assuming prior to such date liability as guarantor, endorser, or acceptor of obligations which mature subsequent to such date or from issuing, either prior or subsequent to such date, for purchase by the Secretary of the Treasury or any other purchasers, its notes, debentures, bonds, or other obligations which mature subsequent to such date or from continuing as a corporate agency of the United States and exercising any of its functions subsequent to such date for purposes of orderly liquidation, including the administration of its assets and the collection of any obligations held by the bank.
+Export-Import Bank of the United States shall continue to exercise its functions in connection with and in furtherance of its objects and purposes until the close of business on September 30, 2001, but the provisions of this section shall not be construed as preventing the bank from acquiring obligations prior to such date which mature subsequent to such date or from assuming prior to such date liability as guarantor, endorser, or acceptor of obligations which mature subsequent to such date or from issuing, either prior or subsequent to such date, for purchase by the Secretary of the Treasury or any other purchasers, its notes, debentures, bonds, or other obligations which mature subsequent to such date or from continuing as a corporate agency of the United States and exercising any of its functions subsequent to such date for purposes of orderly liquidation, including the administration of its assets and the collection of any obligations held by the bank.
 
-(July 31, 1945, ch. 341, §7, formerly §8, 59 Stat. 529; June 9, 1947, ch. 101, §3, 61 Stat. 131; Oct. 3, 1951, ch. 445, §1(c), 65 Stat. 367; June 17, 1957, Pub. L. 85–55, 71 Stat. 82; Aug. 20, 1963, Pub. L. 88–101, §2, 77 Stat. 128; Mar. 13, 1968, Pub. L. 90–267, §1(a), (f), 82 Stat. 47, 49; Aug. 17, 1971, Pub. L. 92–126, §1(b)(4), 85 Stat. 345; July 4, 1974, Pub. L. 93–331, 88 Stat. 289; Aug. 14, 1974, Pub. L. 93–374, 88 Stat. 445; Sept. 30, 1974, Pub. L. 93–425, 88 Stat. 1166; Oct. 18, 1974, Pub. L. 93–450, 88 Stat. 1368; Jan. 4, 1975, Pub. L. 93–646, §9, 88 Stat. 2336; Oct. 26, 1977, Pub. L. 95–143, §4, 91 Stat. 1211; Sept. 30, 1978, Pub. L. 95–407, 92 Stat. 882; Nov. 10, 1978, Pub. L. 95–630, title XIX, §1906, 92 Stat. 3725; Oct. 1, 1983, Pub. L. 98–109, §6, 97 Stat. 746; Nov. 1, 1983, Pub. L. 98–143, 97 Stat. 916; Nov. 30, 1983, Pub. L. 98–181, title VI, §611, 97 Stat. 1254; Oct. 15, 1986, Pub. L. 99–472, §14, 100 Stat. 1204; renumbered §7 and amended Oct. 21, 1992, Pub. L. 102–429, title I, §§102, 121(c)(2), 106 Stat. 2187, 2199.)
+(July 31, 1945, ch. 341, §7, formerly §8, 59 Stat. 529; June 9, 1947, ch. 101, §3, 61 Stat. 131; Oct. 3, 1951, ch. 445, §1(c), 65 Stat. 367; Pub. L. 85–55, June 17, 1957, 71 Stat. 82; Pub. L. 88–101, §2, Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (f), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(4), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–331, July 4, 1974, 88 Stat. 289; Pub. L. 93–374, Aug. 14, 1974, 88 Stat. 445; Pub. L. 93–425, Sept. 30, 1974, 88 Stat. 1166; Pub. L. 93–450, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 93–646, §9, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–143, §4, Oct. 26, 1977, 91 Stat. 1211; Pub. L. 95–407, Sept. 30, 1978, 92 Stat. 882; Pub. L. 95–630, title XIX, §1906, Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–109, §6, Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–143, Nov. 1, 1983, 97 Stat. 916; Pub. L. 98–181, title VI, §611, Nov. 30, 1983, 97 Stat. 1254; Pub. L. 99–472, §14, Oct. 15, 1986, 100 Stat. 1204; renumbered §7 and amended Pub. L. 102–429, title I, §§102, 121(c)(2), Oct. 21, 1992, 106 Stat. 2187, 2199; (As amended Pub. L. 105–46, §122, Sept. 30, 1997, 111 Stat. 1158; Pub. L. 105–121, §2(a), Nov. 26, 1997, 111 Stat. 2528.)
 
 #### Prior Provisions
 
 A prior section 7 of act July 31, 1945, ch. 341, was renumbered section 6 and is classified to section 635e of this title.
 
 #### Amendments
+
+1997—Pub. L. 105–121 substituted “September 30, 2001” for “September 30, October 23, 1997”.
+
+Pub. L. 105–46 substituted “October 23, 1997” for “1997”.
 
 1992—Pub. L. 102–429, §102, substituted “1997” for “1992”.
 
@@ -48,9 +52,27 @@ Pub. L. 93–331 substituted “July 30, 1974” for “June 30, 1974”.
 
 1947—Act June 9, 1947, struck out former section and inserted present section to provide for the termination of the Bank as of June 30, 1953, and its orderly liquidation thereafter.
 
+#### Effective Date of 1997 Amendment
+
+Section 2(b) of Pub. L. 105–121 provided that: “The amendment made by this section \[amending this section\] shall take effect on September 30, 1997.”
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. L. 95–630, set out as a note under section 635 of this title.
+
+#### Continuing Appropriations for Fiscal Year 1998
+
+Termination date for Bank's functions was temporarily extended until the following dates by the acts listed below:
+
+Until Nov. 7, 1997, by Pub. L. 105–64, Oct. 23, 1997, 111 Stat. 1343.
+
+Until Nov. 9, 1997, by Pub. L. 105–68, Nov. 7, 1997, 111 Stat. 1453.
+
+Until Nov. 10, 1997, by Pub. L. 105–69, Nov. 9, 1997, 111 Stat. 1454.
+
+Until Nov. 14, 1997, by Pub. L. 105–71, Nov. 10, 1997, 111 Stat. 1456.
+
+Until Nov. 26, 1997, by Pub. L. 105–84, Nov. 14, 1997, 111 Stat. 1628.
 
 #### Financial Assistance to the Union of Soviet Socialist Republics
 

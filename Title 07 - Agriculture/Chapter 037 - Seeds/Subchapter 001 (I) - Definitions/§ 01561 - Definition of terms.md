@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iii) by the rules and regulations of the Secretary of Agriculture under this chapter, when after investigation he shall determine that a weed is noxious in the United States or in any specifically designated area thereof.
 
-&emsp;(B) For the purpose of subchapter III of this chapter, the term “noxious-weed seeds” means the seeds of Lepidium draba L., Lepidium repens (Schrenk) Boiss., Hymenophysa pubescens C. A., Mey., white top; Cirsium arvense (L.) Scop., Canada thistle; Cuscuta spp., dodder; Agropyron repens (L.) Beauv., quackgrass; Sorghum halepense (L.) Pers., Johnson grass; Convolvulus arvensis L., bindweed; Centaurea picris Pall., Russian knapweed; Sonchus arvensis L., perennial sowthistle; Euphorbia esula L., leafy spurge; and seeds or bulblets of any other kinds which after investigation the Secretary of Agriculture finds should be included.
+&emsp;(B) For the purpose of subchapter III of this chapter, the term “noxious-weed seeds” means the seeds of Lepidium draba L., Lepidiumrepens (Schrenk) Boiss., Hymenophysa pubescens C. A., Mey., white top; Cirsium arvense (L.) Scop., Canada thistle; Cuscuta spp., dodder; Agropyron repens (L.) Beauv., quackgrass; Sorghum halepense (L.) Pers., Johnson grass; Convolvulus arvensis L., bindweed; Centaurea picris Pall., Russian knapweed; Sonchus arvensis L., perennial sowthistle; Euphorbia esula L., leafy spurge; and seeds or bulblets of any other kinds which after investigation the Secretary of Agriculture finds should be included.
 
 &emsp;(10) The term “origin” means the State, District of Columbia, Puerto Rico, or possession of the United States, or the foreign country, or designated portion thereof, where the seed was grown.
 
@@ -132,7 +132,7 @@ See section 1610 of this title.
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73Stat.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat.
 
 c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat.
 

@@ -1,0 +1,84 @@
+### §4115. Unfair labor practices
+
+#### (a) Department of State
+
+It shall be an unfair labor practice for the Department—
+
+&emsp;(1) to interfere with, restrain, or coerce any employee in the exercise by the employee of any right under this subchapter;
+
+&emsp;(2) to encourage or discourage membership in any labor organization by discrimination in connection with hiring, tenure, promotion, or other conditions of employment;
+
+&emsp;(3) to sponsor, control, or otherwise assist any labor organization, other than to furnish upon request customary and routine services and facilities on an impartial basis to labor organizations having equivalent status;
+
+&emsp;(4) to discipline or otherwise discriminate against an employee because the employee has filed a complaint or petition, or has given any information, affidavit, or testimony under this subchapter;
+
+&emsp;(5) to refuse to consult or negotiate in good faith with a labor organization, as required under this subchapter;
+
+&emsp;(6) to fail or refuse to cooperate in impasse procedures and impasse decisions, as required under this subchapter;
+
+&emsp;(7) to enforce any rule or regulation (other than a rule or regulation implementing section 2302 of title 5) which is in conflict with an applicable collective bargaining agreement if the agreement was in effect before the date the rule or regulation was prescribed; or
+
+&emsp;(8) to fail or refuse otherwise to comply with any provision of this subchapter.
+
+#### (b) Labor organizations
+
+It shall be an unfair labor practice for a labor organization—
+
+&emsp;(1) to interfere with, restrain, or coerce any employee in the exercise by the employee of any right under this subchapter;
+
+&emsp;(2) to cause or attempt to cause the Department to discriminate against any employee in the exercise by the employee of any right under this subchapter;
+
+&emsp;(3) to coerce, discipline, fine, or attempt to coerce a member of the labor organization as punishment or reprisal, or for the purpose of hindering or impeding the member's work performance or productivity as an employee or the discharge of the member's functions as an employee;
+
+&emsp;(4) to discriminate against an employee with regard to the terms and conditions of membership in the labor organization on the basis of race, color, creed, national origin, sex, age preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
+
+&emsp;(5) to refuse to consult or negotiate in good faith with the Department, as required under this subchapter;
+
+&emsp;(6) to fail or refuse to cooperate in impasse procedures and impasse decisions, as required under this subchapter;
+
+&emsp;(7)(A) to call, or participate in, a strike, work stoppage, or slowdown, or to picket the Department in a labor-management dispute (except that any such picketing in the United States which does not interfere with the Department's operations shall not be an unfair labor practice); or
+
+&emsp;(B) to condone any unfair labor practice described in subparagraph (A) by failing to take action to prevent or stop such activity;
+
+&emsp;(8) to deny membership to any employee in the unit represented by the labor organization except—
+
+&emsp;&emsp;(A) for failure to tender dues uniformly required as a condition of acquiring and retaining membership, or
+
+&emsp;&emsp;(B) in the exercise of disciplinary procedures consistent with the organization's constitution or bylaws and this subchapter; or
+
+&emsp;(9) to fail or refuse otherwise to comply with any provision of this subchapter.
+
+#### (c) Personal views, arguments, opinions, or statements
+
+The expression of any personal view, argument, or opinion, or the making of any statement, which—
+
+&emsp;(1) publicizes the fact of a representational election and encourages employees to exercise their right to vote in such an election;
+
+&emsp;(2) corrects the record with respect to any false or misleading statement made by any person; or
+
+&emsp;(3) informs employees of the Government's policy relating to labor-management relations and representation,
+
+> if the expression contains no threat of reprisal or force or promise of benefit and was not made under coercive conditions shall not—
+
+&emsp;(A) constitute an unfair labor practice under this subchapter, or
+
+&emsp;(B) constitute grounds for the setting aside of any election conducted under this subchapter.
+
+#### (d) Election of remedies
+
+Issues which can properly be raised under an appeals procedure may not be raised as unfair labor practices prohibited under this section. Except for matters wherein, under section 4139(a)(2) of this title, an employee has an option of using the grievance procedure under subchapter XI of this chapter or an appeals procedure, issues which can be raised under section 4114 of this title or subchapter XI of this chapter may, in the discretion of the aggrieved party, be raised either under such section or subchapter or else raised as an unfair labor practice under this section, but may not be raised both under this section and under section 4114 of this title or subchapter XI of this chapter.
+
+(Pub. L. 96–465, title I, §1015, Oct. 17, 1980, 94 Stat. 2137; Pub. L. 102–138, title I, §153(d)(2), Oct. 28, 1991, 105 Stat. 674.)
+
+#### Amendments
+
+1991—Subsec. (d). Pub. L. 102–138 substituted “section 4139(a)(2)” for “section 4139(b)”.
+
+#### Effective Date of 1991 Amendment
+
+Section 153(f) of Pub. L. 102–138 provided that: “The amendments made by this section \[amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title\] shall not apply with respect to any grievance (within the meaning of section 1101 of the Act \[22 U.S.C. 4131\], as amended by this section) arising before the date of enactment of this Act \[Oct. 28, 1991\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4102, 4117 of this title; title 5 section 5596.
+

@@ -14,9 +14,9 @@ Minor changes in phraseology were made.
 
 #### Amendments
 
-1951—Act Oct. 25, 1951, inserted “until deposited with the National Archives of the United States” in first sentence.
+<b>1951</b>—Act Oct. 25, 1951, inserted “until deposited with the National Archives of the United States” in first sentence.
 
 #### Cross References
 
-Management and disposition of records, see sections 2101 et seq., 2301 et seq., 2501 et seq., 2901 et seq., 3101 etseq., and 3301 et seq. of Title 44, Public Printing and Documents.
+Management and disposition of records, see sections 2101 et seq., 2301 et seq., 2501 et seq., 2901 et seq., 3101 et seq., and 3301 et seq. of Title 44, Public Printing and Documents.
 

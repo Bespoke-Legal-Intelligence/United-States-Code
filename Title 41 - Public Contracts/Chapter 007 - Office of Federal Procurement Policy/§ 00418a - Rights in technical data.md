@@ -28,7 +28,7 @@ The following factors shall be considered in prescribing regulations pursuant to
 
 &emsp;&emsp;(C) in part with Federal funds and in part at private expense.
 
-&emsp;(2) The statement of congressional policy and objectives in section 200 of title 35, the statement of purposes in section 2(b) of the Small Business Innovation Development Act of 1982 (Public Law 97–219; 15 U.S.C. 638 note), and the declaration of policy in section 631 of title 15.
+&emsp;(2) The statement of congressional policy and objectives in section 200 of title 35, the statement of purposes in section 2(b) of the Small Business Innovation Development Actof 1982 (Public Law 97–219; 15 U.S.C. 638 note), and the declaration of policy in section 631 of title 15.
 
 &emsp;(3) The interest of the United States in increasing competition and lowering costs by developing and locating alternative sources of supply and manufacture.
 
@@ -50,7 +50,7 @@ Regulations prescribed under subsection (a) of this section shall require that a
 
 &emsp;(7) requiring the contractor to furnish written assurance at the time the technical data is delivered or is made available that the technical data is complete and accurate and satisfies the requirements of the contract concerning technical data;
 
-&emsp;(8) establishing remedies to be available to the United States when technical data required to be delivered or made available underthe contract is found to be incomplete or inadequate or to not satisfy the requirements of the contract concerning technical data; and
+&emsp;(8) establishing remedies to be available to the United States when technical data required to be delivered or made available under the contract is found to be incomplete or inadequate or to not satisfy the requirements of the contract concerning technical data; and
 
 &emsp;(9) authorizing the head of the agency to withhold payments under the contract (or exercise such other remedies as the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data.
 

@@ -68,11 +68,7 @@
 | (d) | Administrator's interim reports to Congress. |
 | (e) | Energy needs analysis; time for submission; contents; continuation of analysis after termination of Administration. |
 | [775\.](Subchapter%20001%20%28I%29%20-%20Federal%20Energy%20Administration/%C2%A7%2000775%20-%20Sex%20discrimination%3B%20enforcement%3B%20other%20legal%20remedies.md) | Sex discrimination; enforcement; other legal remedies. |
-| [776\.](Subchapter%20001%20%28I%29%20-%20Federal%20Energy%20Administration/%C2%A7%2000776%20-%20Advisory%20committees.md) | Advisory committees. |
-| (a) | Representation of points of view and functions, government, and regulatory utility commissions. |
-| (b) | Public meetings; participation of interested persons; closed meetings; determination, national security, reasons. |
-| (c) | Public inspection and copying of documents. |
-| (d) | Federal Advisory Committee Act applicable. |
+| [776\.](Subchapter%20001%20%28I%29%20-%20Federal%20Energy%20Administration/%C2%A7%2000776%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9328%2C%20%C2%A72%28b%29%282%29%2C%20July%2018%2C%201997%2C%20111%20Stat.%20245.md) | Repealed. |
 | [777\.](Subchapter%20001%20%28I%29%20-%20Federal%20Energy%20Administration/%C2%A7%2000777%20-%20Economic%20analysis%20of%20proposed%20actions.md) | Economic analysis of proposed actions. |
 | (a) | Scope of analysis. |
 | (b) | Conservation measures. |

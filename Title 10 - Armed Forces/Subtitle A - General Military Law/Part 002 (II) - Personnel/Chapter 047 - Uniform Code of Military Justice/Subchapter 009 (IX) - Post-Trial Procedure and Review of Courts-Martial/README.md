@@ -40,6 +40,10 @@
 
 1968—Pub. L. 90–632, §2(25), Oct. 24, 1968, 82 Stat. 1341, substituted “Court of Military Review” for “board of review” in item 866 (article 66).
 
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in section 856a of this title.
+
 
 ---
 

@@ -6,9 +6,12 @@ The tables in the schedule annexed shall be recognized in the construction of co
 
 MEASURES OF LENGTH
 
-| <i>Metric denominations and values</i> | <i>Equivalents in denominations in use</i> |  |
+| <i>Metric denominations and values</i> | <i>Equivalents in denominations in use</i> |
+| --- | --- |
+| &nbsp; | &nbsp; |
+
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :---: | ---: |
-| &nbsp; | &nbsp; |  |
 | Myriameter | 10,000 meters | 6\.2137 miles. |
 | Kilometer | 1,000 meters | 0\.62137 mile, or 3,280 feet and 10 inches. |
 | Hectometer | 100 meters | 328 feet and 1 inch. |
@@ -33,12 +36,15 @@ MEASURES OF CAPACITY
 
 MEASURES OF SURFACE
 
-| <i>Metric denominations and values</i> | <i>Equivalents in denominations in use</i> |  |
+| <i>Metric denominations and values</i> | <i>Equivalents in denominations in use</i> |
+| --- | --- |
+| &nbsp; | &nbsp; |
+
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :---: | ---: |
-| &nbsp; | &nbsp; |  |
 | Hectare | 10,000 square meters | 2\.471 acres. |
 | Are | 100 square meters | 119\.6 square yards. |
-| Centare | 1 square meter | 1,550 square inches |
+| Centare | 1 square meter | 1,550 square inches. |
 
 WEIGHTS
 
@@ -54,7 +60,7 @@ WEIGHTS
 | Gram | 1 | 1 cubic centimeter | 15\.432 grains. |
 | Decigram | 1/10 | 1/10 of a cubic centimeter | 1\.5432 grains. |
 | Centigram | 1/100 | 10 cubic millimeters | 0\.1543 grain. |
-| Milligram | 1/1000 | 1 cubic millimeter | 0\.0154 grain |
+| Milligram | 1/1000 | 1 cubic millimeter | 0\.0154 grain. |
 
 #### Codification
 

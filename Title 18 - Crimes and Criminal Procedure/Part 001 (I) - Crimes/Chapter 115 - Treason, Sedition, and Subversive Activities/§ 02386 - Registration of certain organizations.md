@@ -64,7 +64,7 @@ Every such organization shall register by filing with the Attorney General, on s
 
 (f) The name and address of each person who has contributed any money, dues, property, or other thing of value to the organization or to any branch, chapter, or affiliate of the organization;
 
-(g) A detailed statement of the assets of the organization, and of each branch, chapter, and affiliate of the organization, the manner in which such assets were acquired, and a detailed statement of the liabilities and income of theorganization and of each branch, chapter, and affiliate of the organization;
+(g) A detailed statement of the assets of the organization, and of each branch, chapter, and affiliate of the organization, the manner in which such assets were acquired, and a detailed statement of the liabilities and income of the organization and of each branch, chapter, and affiliate of the organization;
 
 (h) A detailed description of the activities of the organization, and of each chapter, branch, and affiliate of the organization;
 

@@ -64,7 +64,7 @@ Operation and Maintenance Standards.—The Secretary of Transportation shall pre
 
 (e)
 
-Effective Dates.—A standard prescribed under this section is effective on the 30th dayafter the Secretary of Transportation prescribes the standard. However, the Secretary for good cause may prescribe a different effective date when required because of the time reasonably necessary to comply with the standard. The different date must be specified in the regulation prescribing the standard.
+Effective Dates.—A standard prescribed under this section is effective on the 30th day after the Secretary of Transportation prescribes the standard. However, the Secretary for good cause may prescribe a different effective date when required because of the time reasonably necessary to comply with the standard. The different date must be specified in the regulation prescribing the standard.
 
 (f)
 

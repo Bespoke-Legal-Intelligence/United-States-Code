@@ -52,5 +52,3 @@ Section 19 of Pub. L. 91–138 provided that: “The provisions of, and the repe
 
 Section 1 of Pub. L. 91–138 provided that: “This Act \[enacting this chapter and repealing sections 201 to 226 of this title\] may be cited as the ‘Federal Contested Elections Act’.”
 
-—
-

@@ -8,7 +8,7 @@ When used in this chapter, the term—
 
 &emsp;(3) “Government agency” means any executive department, board, bureau, commission, or other agency of the Federal Government, or independent establishment, or any corporation wholly owned (either directly or through one or more corporations) by the United States.
 
-(Jan. 27, 1948, ch. 36, title I, §4, 62 Stat. 6; 1977 Reorg. Plan No. 2, §§5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637; Aug. 24, 1982, Pub. L. 97–241, title III, §303(b), 96 Stat. 291.)
+(Jan. 27, 1948, ch. 36, title I, §4, 62 Stat. 6; 1977 Reorg. Plan No. 2, §§5, 7(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
 
 #### Transfer of Functions
 

@@ -28,6 +28,16 @@
 | [187\.](%C2%A7%2000187%20-%20National%20floral%20emblem.md) | National floral emblem. |
 | [188\.](%C2%A7%2000188%20-%20National%20march.md) | National march. |
 | [189\.](%C2%A7%2000189%20-%20Recognition%20of%20National%20League%20of%20Families%20POW-MIA%20flag.md) | Recognition of National League of Families POW/MIA flag. |
+| [189a.](%C2%A7%2000189a%20-%20Display%20of%20POW-MIA%20flag.md) | Display of POW/MIA flag. |
+| (a) | Required display. |
+| (b) | Days for flag display. |
+| (c) | Locations for flag display. |
+| (d) | Coordination with other display requirement. |
+| (e) | Display to be in a manner visible to public. |
+| (f) | Limitation. |
+| (g) | “POW/MIA flag” defined. |
+| (h) | Regulations for implementation. |
+| (i) | Procurement and distribution of flags. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -56,3 +66,4 @@
 - [&sect; 00187 - National floral emblem](%C2%A7%2000187%20-%20National%20floral%20emblem.md)
 - [&sect; 00188 - National march](%C2%A7%2000188%20-%20National%20march.md)
 - [&sect; 00189 - Recognition of National League of Families POW-MIA flag](%C2%A7%2000189%20-%20Recognition%20of%20National%20League%20of%20Families%20POW-MIA%20flag.md)
+- [&sect; 00189a - Display of POW-MIA flag](%C2%A7%2000189a%20-%20Display%20of%20POW-MIA%20flag.md)

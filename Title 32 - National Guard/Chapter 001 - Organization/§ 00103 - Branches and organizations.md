@@ -2,7 +2,7 @@
 
 The Army National Guard of each State and Territory, Puerto Rico, and the District of Columbia includes such members of the staff corps corresponding to the staff corps of the Army as the Secretary of the Army may authorize.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 597; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 597; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 

@@ -100,7 +100,7 @@ Pub. L. 102–228, title II, Dec. 12, 1991, 105 Stat. 1693, as amended by Pub. L
 
 Findings.—The Congress finds—
 
-&emsp;“(1) that Soviet President Gorbachev has requested Western help in dismantling nuclear weapons, and President Bush has proposed United States cooperation on the storage, transportation, dismantling, and destruction of Soviet nuclear weapons;
+&emsp;“(1) that Soviet President Gorbachev has requested Western help in dismantling nuclear weapons, andPresident Bush has proposed United States cooperation on the storage, transportation, dismantling, and destruction of Soviet nuclear weapons;
 
 &emsp;“(2) that the profound changes underway in the Soviet Union pose three types of danger to nuclear safety and stability, as follows: (A) ultimate disposition of nuclear weapons among the Soviet Union, its republics, and any successor entities that is not conducive to weapons safety or to international stability; (B) seizure, theft, sale, or use of nuclear weapons or components; and (C) transfers of weapons, weapons components, or weapons know-how outside of the territory of the Soviet Union, its republics, and any successor entities, that contribute to worldwide proliferation; and
 
@@ -132,7 +132,7 @@ In General.—Notwithstanding any other provision of law, the President, consist
 
 “(b)
 
-Type of Program.—The program under this section shall be limited to cooperation among the UnitedStates, the Soviet Union, its republics, and any successor entities to (1) destroy nuclear weapons, chemical weapons, and other weapons, (2) transport, store, disable, and safeguard weapons in connection with their destruction, and (3) establish verifiable safeguards against the proliferation of such weapons. Such cooperation may involve assistance in planning and in resolving technical problems associated with weapons destruction and proliferation. Such cooperation may also involve the funding of critical short-term requirements related to weapons destruction and should, to the extent feasible, draw upon United States technology and United States technicians.
+Type of Program.—The program under this section shall be limited to cooperation among the United States, the Soviet Union, its republics, and any successor entities to (1) destroy nuclear weapons, chemical weapons, and other weapons, (2) transport, store, disable, and safeguard weapons in connection with their destruction, and (3) establish verifiable safeguards against the proliferation of such weapons. Such cooperation may involve assistance in planning and in resolving technical problems associated with weapons destruction and proliferation. Such cooperation may also involve the funding of critical short-term requirements related to weapons destruction and should, to the extent feasible, draw upon United States technology and United States technicians.
 
 #### “part c—administrative and funding authorities
 
@@ -220,7 +220,7 @@ Pub. L. 93–559, §51, Dec. 30, 1974, 88 Stat. 1817, as amended by Pub. L. 97�
 
 #### Executive Order No. 12946
 
-Ex. Ord. No. 12946, Jan. 20, 1995, 60 F.R. 4829, established within Department of Defense the President'sAdvisory Board on Arms Proliferation Policy to advise President on implementation of United States conventional arms transfer policy, other issues related to arms proliferation policy, and on other matters deemed appropriate by President, to report to President through Assistant to the President for National Security Affairs, and to terminate 30 days after date on which President submits final report of the Board to Congress.
+Ex. Ord. No. 12946, Jan. 20, 1995, 60 F.R. 4829, which established within Department of Defense the President's Advisory Board on Arms Proliferation Policy, was revoked by Ex. Ord. No. 13062, §3(c), Sept. 29, 1997, 62 F.R. 51756, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

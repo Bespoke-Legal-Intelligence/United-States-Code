@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(iii) such new vehicles will meet the applicable non-Federal and non-State fleet performance requirements of such fleets (including range, passenger or cargo-carrying capacity, reliability, refueling capability, vehicle mix, and economical operation and maintenance); and
 
-&emsp;&emsp;(iv) establishment of a fleet requirement program by rule under this subsection will not result in unfair competitive advantages or disadvantages, or result in undue economic hardship, to the affected fleets.
+&emsp;&emsp;(iv) establishment of a fleet requirement program by rule under this subsection willnot result in unfair competitive advantages or disadvantages, or result in undue economic hardship, to the affected fleets.
 
 &emsp;(2) The Secretary shall not promulgate a rule under this subsection if he is unable to make affirmative findings in the case of each of the subparagraphs under paragraph (1), and each of the clauses under subparagraph (C) of paragraph (1).
 
@@ -106,7 +106,7 @@ If the Secretary determines, based on findings under subsection (b) or (e) of th
 
 > shall be alternative fueled vehicles.
 
-(2) The Secretary may not establish percentage requirements higher than those described in paragraph (1). The Secretary may, if appropriate, and pursuant to a rule under subsection (g) of this section, establish a lesser percentage requirement for any model year. The Secretary may, by rule, establish a date later than 2002 (when model year 2003 begins) for initiating the fleet requirements under paragraph (1).
+(2) The Secretary may not establish percentage requirements higher than those described in paragraph (1). The Secretary may, if appropriate, and pursuant to a rule under subsection (g) of this section, establish a lesser percentage requirement for any model year. The Secretary may, by rule, establish a date later than 2002\(when model year 2003 begins) for initiating the fleet requirements under paragraph (1).
 
 (3) Nothing in this subchapter shall be construed as requiring any fleet to acquire alternative fueled vehicles or alternative fuels that do not meet the normal business requirements and practices and needs of that fleet.
 

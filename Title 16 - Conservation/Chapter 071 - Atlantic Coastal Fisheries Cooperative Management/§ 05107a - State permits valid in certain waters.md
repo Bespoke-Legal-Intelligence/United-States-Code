@@ -14,7 +14,7 @@ Notwithstanding any provision of the Magnuson-Stevens Fishery Conservation and M
 
 #### (b) Enforcement
 
-The exemption from Federal fishery permitting requirements granted by subsection (a) of this section may be revoked or suspended by the Secretary in accordance with section 308(g) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858(g)) for violations of such Act or this chapter.
+The exemption from Federal fishery permitting requirements granted by subsection (a) ofthis section may be revoked or suspended by the Secretary in accordance with section 308(g) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858(g)) for violations of such Act or this chapter.
 
 (Pub. L. 103–206, title VIII, §809, as added Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat. 3619; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 

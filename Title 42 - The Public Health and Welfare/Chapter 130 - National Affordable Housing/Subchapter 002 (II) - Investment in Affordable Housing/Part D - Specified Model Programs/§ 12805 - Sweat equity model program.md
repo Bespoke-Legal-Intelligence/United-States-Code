@@ -52,7 +52,7 @@ Goals and Accountability.—In making grants under this section, the Secretary s
 
 &emsp;“(3) the dwellings constructed in connection with assistance provided under this section are quality dwellings that comply with local building and safety codes and standards and are available at prices below the prevailing market prices;
 
-&emsp;“(4) the provision of assistance under this section establishes and fosters a partnership between theFederal Government and Habitat for Humanity International, its affiliates, and other organizations and consortia, resulting in efficient development of affordable housing with minimal governmental intervention, limited governmental regulation, and significant involvement by private entities;
+&emsp;“(4) the provision of assistance under this section establishes and fosters a partnership between the Federal Government and Habitat for Humanity International, its affiliates, and other organizations and consortia, resulting in efficient development of affordable housing with minimal governmental intervention, limited governmental regulation, and significant involvement by private entities;
 
 &emsp;“(5) activities to develop housing assisted pursuant to this section involve community participation similar to the homeownership program carried out by Habitat for Humanity International, in which volunteers assist in the construction of dwellings; and
 
@@ -150,7 +150,7 @@ Records and Audits.—During the period beginning upon the making of a grant und
 
 &emsp;“(1) the organization awarded the grant under subsection (a)(1) or (a)(2) shall keep such records and adopt such administrative practices as the Secretary may require to ensure compliance with the provisions of this section and the grant agreement; and
 
-&emsp;“(2) the Secretary and the Comptroller General of the United States, and any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the grantee organization or consortia and its affiliates that are pertinent to the grant made under this section.
+&emsp;“(2) the Secretary and the Comptroller General of the United States, and any of their duly authorizedrepresentatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the grantee organization or consortia and its affiliates that are pertinent to the grant made under this section.
 
 “(<i>l</i>)
 

@@ -2,7 +2,7 @@
 
 All members of the Legislature of the Virgin Islands, the Governor, the Lieutenant Governor, all judges and all officials of the government of the Virgin Islands who report directly to the Governor shall be citizens of the United States.
 
-(July 22, 1954, ch. 558, §29, 68 Stat. 509; Dec. 8, 1983, Pub. L. 98–213, §5(a), 97 Stat. 1460.)
+(July 22, 1954, ch. 558, §29, 68 Stat. 509; Pub. L. 98–213, §5(a), Dec. 8, 1983, 97 Stat. 1460.)
 
 #### Amendments
 

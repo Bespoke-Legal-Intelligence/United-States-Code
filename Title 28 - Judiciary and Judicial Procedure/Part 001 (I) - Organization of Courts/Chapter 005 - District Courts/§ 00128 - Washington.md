@@ -14,7 +14,7 @@ Washington is divided into two judicial districts to be known as the Eastern and
 
 &emsp;&emsp;Court for the Western District shall be held at Bellingham, Seattle, and Tacoma.
 
-(June 25, 1948, ch. 646, 62 Stat. 894; Sept. 25, 1962, Pub. L. 87–699, 76 Stat. 598; June 2, 1970, Pub. L. 91–272, §4, 84 Stat. 297.)
+(June 25, 1948, ch. 646, 62 Stat. 894; Pub. L. 87–699, Sept. 25, 1962, 76 Stat. 598; Pub. L. 91–272, §4, June 2, 1970, 84 Stat. 297.)
 
 #### Historical and Revision Notes
 
@@ -32,9 +32,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1970—Subsec. (a). Pub. L. 91–272, §4(a), struck out provisions which had divided Eastern District into a Northern Division and a Southern Division.
+<b>1970</b>—Subsec. (a). Pub. L. 91–272, §4(a), struck out provisions which had divided Eastern District into a Northern Division and a Southern Division.
 
 Subsec. (b). Pub. L. 91–272, §4(b), struck out provisions which had divided Western District into a Northern Division and a Southern Division.
 
-1962—Subsec. (a)(2). Pub. L. 87–699 provided for holding court at Richland.
+<b>1962</b>—Subsec. (a)(2). Pub. L. 87–699 provided for holding court at Richland.
 

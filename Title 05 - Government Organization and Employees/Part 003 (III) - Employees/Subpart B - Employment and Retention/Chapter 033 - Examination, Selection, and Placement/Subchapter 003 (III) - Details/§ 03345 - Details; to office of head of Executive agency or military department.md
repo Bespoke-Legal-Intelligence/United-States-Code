@@ -1,6 +1,6 @@
 ### §3345. Details; to office of head of Executive agency or military department
 
-When the head of an Executive agency (other than the General Accounting Office) or military department dies, resigns, or is sick or absent, his first assistant, unless otherwise directed by the President under section 3347 of this title, shall perform the duties of the office until a successor is appointed or the absence or sickness stops.
+When the head of an Executive agency (other than the General Accounting Office) or militarydepartment dies, resigns, or is sick or absent, his first assistant, unless otherwise directed by the President under section 3347 of this title, shall perform the duties of the office until a successor is appointed or the absence or sickness stops.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 425; Pub. L. 100–398, §7(a)(1), (2), Aug. 17, 1988, 102 Stat. 988.)
 

@@ -16,7 +16,7 @@ The copies of informational materials required by this subchapter to be filed wi
 
 For purposes of the Library of Congress, other than for public distribution, the Secretary of the Treasury and the United States Postal Service are authorized, upon the request of the Librarian of Congress, to forward to the Library of Congress fifty copies, or as many fewer thereof as are available, of all foreign prints determined to be prohibited entry under the provisions of section 1305 of title 19 and of all foreign prints excluded from the mails under authority of section 1717 of title 18.
 
-Notwithstanding the provisions of section 1305 of title 19 and of section 1717 of title 18, the Secretary of the Treasury is authorized to permit the entry and the United States Postal Service is authorized to permit the transmittal in the mails of foreign prints imported for governmental purposes by authority or for the use ofthe United States or for the use of the Library of Congress.
+Notwithstanding the provisions of section 1305 of title 19 and of section 1717 of title 18, the Secretary of the Treasury is authorized to permit the entry and the United States Postal Service is authorized to permit the transmittal in the mails of foreign prints imported for governmental purposes by authority or for the use of the United States or for the use of the Library of Congress.
 
 #### (e) Information furnished to agency or official of United States Government
 
@@ -26,7 +26,7 @@ It shall be unlawful for any person within the United States who is an agent of 
 
 Whenever any agent of a foreign principal required to register under this subchapter appears before any committee of Congress to testify for or in the interests of such foreign principal, he shall, at the time of such appearance, furnish the committee with a copy of his most recent registration statement filed with the Department of Justice as an agent of such foreign principal for inclusion in the records of the committee as part of his testimony.
 
-(June 8, 1938, ch. 327, §4, 52 Stat. 632; Aug. 7, 1939, ch. 521, §3, 53 Stat. 1246; Apr. 29, 1942, ch. 263, §1, 56 Stat. 255; July 4, 1966, Pub. L. 89–486, §4, 80 Stat. 246; Aug. 12, 1970, Pub. L. 91–375, §4(a), 84 Stat. 773; Dec. 19, 1995, Pub. L. 104–65, §9(4)–(6), 109 Stat. 700.)
+(June 8, 1938, ch. 327, §4, 52 Stat. 632; Aug. 7, 1939, ch. 521, §3, 53 Stat. 1246; Apr. 29, 1942, ch. 263, §1, 56 Stat. 255; Pub. L. 89–486, §4, July 4, 1966, 80 Stat. 246; Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773; Pub. L. 104–65, §9(4)–(6), Dec. 19, 1995, 109 Stat. 700.)
 
 #### Codification
 

@@ -98,7 +98,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 410aaa–80, 460iii–5, 460jjj–1, 545b, 620, 1362, 1371, 1387, 1389, 1881a, 2404, 2407, 2408, 2705, 2902, 2912, 3125, 3741, 3743, 4202, 4241, 4244, 4401, 4402, 4404, 4802, 4805, 4912, 5301 of this title; title 7 sections 136, 2814; title 25 section 715c; title 33 section 2283.
+This chapter is referred to in sections 410aaa–80, 460iii–5, 460jjj–1, 471j, 545b, 620, 1362, 1371, 1387, 1389, 1413, 1881a, 2404, 2407, 2408, 2705, 2902, 2912, 3125, 3741, 3743, 4202, 4241, 4244, 4401, 4402, 4404, 4802, 4805, 4912, 5301 of this title; title 7 sections 136, 2814; title 25 section 715c; title 33 section 2283.
 
 
 ---

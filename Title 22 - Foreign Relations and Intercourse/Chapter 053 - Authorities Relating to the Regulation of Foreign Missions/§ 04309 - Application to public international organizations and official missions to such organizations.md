@@ -14,7 +14,7 @@ For purposes of this section, “international organization” means—
 
 > including any real property of such an organization or mission and including the personnel of such an organization or mission.
 
-(Aug. 1, 1956, ch. 841, title II, §209, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 289.)
+(Aug. 1, 1956, ch. 841, title II, §209, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 289.)
 
 #### References in Text
 

@@ -14,7 +14,7 @@ Directions.—The order of restitution under this section shall direct the defen
 
 &emsp;(2)
 
-Enforcement.—An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
+Enforcement.—An order of restitution under this section shall be issued and enforcedin accordance with section 3664 in the same manner as an order under section 3663A.
 
 &emsp;(3)
 

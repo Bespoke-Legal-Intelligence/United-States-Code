@@ -42,7 +42,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To facilitate the periodic determination as to whether producers favor the conduct of anadditional referendum under this subsection, the Secretary, 5 years after the conduct of a referendum under this chapter and every 5 years thereafter, shall provide soybean producers an opportunity to request an additional referendum, as provided in this paragraph.
+&emsp;&emsp;To facilitate the periodic determination as to whether producers favor the conduct of an additional referendum under this subsection, the Secretary, 5 years after the conduct of a referendum under this chapter and every 5 years thereafter, shall provide soybean producers an opportunity to request an additional referendum, as provided in this paragraph.
 
 #### (B) Method of making request
 

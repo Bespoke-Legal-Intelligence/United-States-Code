@@ -10,7 +10,7 @@
 
 (3) For purposes of paragraph (2), a mixed case is a case that includes both a major adverse action arising out of a question of professional conduct or competence and an adverse action which is not a major adverse action or which does not arise out of a question of professional conduct or competence.
 
-(b)(1) In any case in which charges are brought against a section 7401(1) employee which arisesout of, or includes, a question of professional conduct or competence which could result in a major adverse action, the employee is entitled to the following:
+(b)(1) In any case in which charges are brought against a section 7401(1) employee which arises out of, or includes, a question of professional conduct or competence which could result in a major adverse action, the employee is entitled to the following:
 
 &emsp;(A) At least 30 days advance written notice from the Under Secretary for Health or other charging official specifically stating the basis for each charge, the adverse actions that could be taken if the charges are sustained, and a statement of any specific law, regulation, policy, procedure, practice, or other specific instruction that has been violated with respect to each charge, except that the requirement for notification in advance may be waived if there is reasonable cause to believe that the employee has committed a crime for which the employee may be imprisoned.
 

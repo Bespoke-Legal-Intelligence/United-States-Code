@@ -26,7 +26,7 @@ Such person so authorized may seize any vessel subject to the jurisdiction of th
 
 #### (f) Seizure and disposition of fur seals
 
-Such person so authorized may seize, whenever and wherever lawfully found, all fur seals taken or retained in violation of this chapter or the regulations issued thereunder. Any fur seals so seized or forfeited to the United States pursuant to this chapter shall be disposed of in accordance with the provisions of section 1155 of this title.
+Such person so authorized may seize, whenever and wherever lawfully found, all fur seals taken or retained in violation of this chapter orthe regulations issued thereunder. Any fur seals so seized or forfeited to the United States pursuant to this chapter shall be disposed of in accordance with the provisions of section 1155 of this title.
 
 (Pub. L. 89–702, title III, §302, Nov. 2, 1966, 80 Stat. 1097; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 844; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

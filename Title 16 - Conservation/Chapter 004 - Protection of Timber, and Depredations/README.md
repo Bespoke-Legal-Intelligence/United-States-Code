@@ -48,7 +48,8 @@
 | [620b.](%C2%A7%2000620b%20-%20Limitations%20on%20substitution%20of%20unprocessed%20Federal%20timber%20for%20unprocessed%20timber%20exported%20from%20private%20lands.md) | Limitations on substitution of unprocessed Federal timber for unprocessed timber exported from private lands. |
 | (a) | Direct substitution. |
 | (b) | Indirect substitution. |
-| (c) | Approval of sourcing areas. |
+| (c) | Sourcing areas. |
+| (d) | Domestic transportation and processing of private timber. |
 | [620c.](%C2%A7%2000620c%20-%20Restriction%20on%20exports%20of%20unprocessed%20timber%20from%20State%20and%20other%20public%20lands.md) | Restriction on exports of unprocessed timber from State and other public lands. |
 | (a) | Order to prohibit export of unprocessed timber originating from State or other public lands. |
 | (b) | Schedule for determination to prohibit export of unprocessed timber originating from State or other public lands. |

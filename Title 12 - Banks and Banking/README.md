@@ -1,5 +1,5 @@
 
-12 U.S.C.<br>United States Code, 1996 Edition<br>Title 12 - BANKS AND BANKING<br>From the U.S. Government Publishing Office, www.gpo.gov
+12 U.S.C.<br>United States Code, 1997 Edition<br>Title 12 - BANKS AND BANKING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 12—BANKS AND BANKING
 
@@ -7,7 +7,7 @@
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20The%20Comptroller%20of%20the%20Currency/README.md) | <b>The Comptroller of the Currency</b> | <b>1</b> |
 | [<b>2.</b>](Chapter%20002%20-%20National%20Banks/README.md) | <b>National Banks</b> | <b>21</b> |
-| <b>3.</b> | <b>Federal Reserve System</b> | <b>221</b> |
+| [<b>3.</b>](Chapter%20003%20-%20Federal%20Reserve%20System/README.md) | <b>Federal Reserve System</b> | <b>221</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Taxation/README.md) | <b>Taxation</b> | <b>531</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Crimes%20and%20Offenses/README.md) | <b>Crimes and Offenses</b> | <b>581</b> |
 | [<b>6.</b>](Chapter%20006%20-%20Foreign%20Banking/README.md) | <b>Foreign Banking</b> | <b>601</b> |
@@ -21,17 +21,17 @@
 | [<b>11.</b>](Chapter%20011%20-%20Federal%20Home%20Loan%20Banks/README.md) | <b>Federal Home Loan Banks</b> | <b>1421</b> |
 | [<b>11A.</b>](Chapter%20011A%20-%20Federal%20Home%20Loan%20Mortgage%20Corporation/README.md) | <b>Federal Home Loan Mortgage Corporation</b> | <b>1451</b> |
 | [<b>12.</b>](Chapter%20012%20-%20Savings%20Associations/README.md) | <b>Savings Associations</b> | <b>1461</b> |
-| <b>13.</b> | <b>National Housing</b> | <b>1701</b> |
+| [<b>13.</b>](Chapter%20013%20-%20National%20Housing/README.md) | <b>National Housing</b> | <b>1701</b> |
 | [<b>14.</b>](Chapter%20014%20-%20Federal%20Credit%20Unions/README.md) | <b>Federal Credit Unions</b> | <b>1751</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Federal%20Loan%20Agency/README.md) | <b>Federal Loan Agency \[Omitted\]</b> | <b>1801</b> |
-| <b>16.</b> | <b>Federal Deposit Insurance Corporation</b> | <b>1811</b> |
+| [<b>16.</b>](Chapter%20016%20-%20Federal%20Deposit%20Insurance%20Corporation/README.md) | <b>Federal Deposit Insurance Corporation</b> | <b>1811</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Bank%20Holding%20Companies/README.md) | <b>Bank Holding Companies</b> | <b>1841</b> |
 | [<b>18.</b>](Chapter%20018%20-%20Bank%20Service%20Companies/README.md) | <b>Bank Service Companies</b> | <b>1861</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Security%20Measures%20for%20Banks%20and%20Savings%20Associations/README.md) | <b>Security Measures for Banks and Savings Associations</b> | <b>1881</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Credit%20Control/README.md) | <b>Credit Control \[Omitted\]</b> | <b>1901</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Financial%20Recordkeeping/README.md) | <b>Financial Recordkeeping</b> | <b>1951</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Tying%20Arrangements/README.md) | <b>Tying Arrangements</b> | <b>1971</b> |
-| <b>23.</b> | <b>Farm Credit System</b> | <b>2001</b> |
+| [<b>23.</b>](Chapter%20023%20-%20Farm%20Credit%20System/README.md) | <b>Farm Credit System</b> | <b>2001</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Federal%20Financing%20Bank/README.md) | <b>Federal Financing Bank</b> | <b>2281</b> |
 | [<b>25.</b>](Chapter%20025%20-%20National%20Commission%20on%20Electronic%20Fund%20Transfers/README.md) | <b>National Commission on Electronic Fund Transfers</b> | <b>2401</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Disposition%20of%20Abandoned%20Money%20Orders%20and%20Traveler%27s%20Checks/README.md) | <b>Disposition of Abandoned Money Orders and Traveler's Checks</b> | <b>2501</b> |
@@ -69,6 +69,7 @@
 
 - [Chapter 001 - The Comptroller of the Currency](Chapter%20001%20-%20The%20Comptroller%20of%20the%20Currency/README.md)
 - [Chapter 002 - National Banks](Chapter%20002%20-%20National%20Banks/README.md)
+- [Chapter 003 - Federal Reserve System](Chapter%20003%20-%20Federal%20Reserve%20System/README.md)
 - [Chapter 004 - Taxation](Chapter%20004%20-%20Taxation/README.md)
 - [Chapter 005 - Crimes and Offenses](Chapter%20005%20-%20Crimes%20and%20Offenses/README.md)
 - [Chapter 006 - Foreign Banking](Chapter%20006%20-%20Foreign%20Banking/README.md)
@@ -82,14 +83,17 @@
 - [Chapter 011 - Federal Home Loan Banks](Chapter%20011%20-%20Federal%20Home%20Loan%20Banks/README.md)
 - [Chapter 011A - Federal Home Loan Mortgage Corporation](Chapter%20011A%20-%20Federal%20Home%20Loan%20Mortgage%20Corporation/README.md)
 - [Chapter 012 - Savings Associations](Chapter%20012%20-%20Savings%20Associations/README.md)
+- [Chapter 013 - National Housing](Chapter%20013%20-%20National%20Housing/README.md)
 - [Chapter 014 - Federal Credit Unions](Chapter%20014%20-%20Federal%20Credit%20Unions/README.md)
 - [Chapter 015 - Federal Loan Agency](Chapter%20015%20-%20Federal%20Loan%20Agency/README.md)
+- [Chapter 016 - Federal Deposit Insurance Corporation](Chapter%20016%20-%20Federal%20Deposit%20Insurance%20Corporation/README.md)
 - [Chapter 017 - Bank Holding Companies](Chapter%20017%20-%20Bank%20Holding%20Companies/README.md)
 - [Chapter 018 - Bank Service Companies](Chapter%20018%20-%20Bank%20Service%20Companies/README.md)
 - [Chapter 019 - Security Measures for Banks and Savings Associations](Chapter%20019%20-%20Security%20Measures%20for%20Banks%20and%20Savings%20Associations/README.md)
 - [Chapter 020 - Credit Control](Chapter%20020%20-%20Credit%20Control/README.md)
 - [Chapter 021 - Financial Recordkeeping](Chapter%20021%20-%20Financial%20Recordkeeping/README.md)
 - [Chapter 022 - Tying Arrangements](Chapter%20022%20-%20Tying%20Arrangements/README.md)
+- [Chapter 023 - Farm Credit System](Chapter%20023%20-%20Farm%20Credit%20System/README.md)
 - [Chapter 024 - Federal Financing Bank](Chapter%20024%20-%20Federal%20Financing%20Bank/README.md)
 - [Chapter 025 - National Commission on Electronic Fund Transfers](Chapter%20025%20-%20National%20Commission%20on%20Electronic%20Fund%20Transfers/README.md)
 - [Chapter 026 - Disposition of Abandoned Money Orders and Traveler's Checks](Chapter%20026%20-%20Disposition%20of%20Abandoned%20Money%20Orders%20and%20Traveler%27s%20Checks/README.md)

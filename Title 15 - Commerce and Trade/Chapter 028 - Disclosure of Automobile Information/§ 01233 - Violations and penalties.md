@@ -6,7 +6,7 @@ Any manufacturer of automobiles distributed in commerce who willfully fails to a
 
 #### (b) Failure to endorse required label
 
-Any manufacturer of automobiles distributed in commerce who willfully fails to endorse clearly, distinctly and legibly any label as required by section 1232 of this title, or who makes a false endorsement of any such label, shall be fined not more than $1,000. Such failure or false endorsement with respect to each automobile shall constitute a separate offense.
+Any manufacturer of automobiles distributed in commerce who willfully fails to endorse clearly, distinctly and legibly any label as required by section 1232 of this title, or who makes a false endorsement of any such label, shall befined not more than $1,000. Such failure or false endorsement with respect to each automobile shall constitute a separate offense.
 
 #### (c) Removal, alteration, or illegibility of required label
 

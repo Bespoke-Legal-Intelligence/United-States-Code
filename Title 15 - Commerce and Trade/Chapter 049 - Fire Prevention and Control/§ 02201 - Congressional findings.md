@@ -30,6 +30,10 @@ The Congress finds that—
 
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act \[amending sections 2216, 2225, and 2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: “This Act \[enacting sections 2221 and 2228 of this title, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the ‘Arson Prevention Act of 1994’.”
@@ -98,7 +102,7 @@ Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment not
 
 #### Waiver of Federal Liability
 
-Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of or injury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act.”
+Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of orinjury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act.”
 
 #### Effect on Certain Requirements
 
@@ -166,7 +170,7 @@ The President may authorize any persons who, immediately prior to the effective 
 
 #### Sec. 304. Effective Date
 
-The provisions of this Reorganization Plan shall become effective at such time or times, on or before April 1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
+The provisions of this Reorganization Plan shall become effective at such time or times, on or before April1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
 
 \[Pursuant to Ex. Ord. 12127, Mar. 31, 1979, 44 F.R. 19367, this Reorg. Plan is effective Apr. 1, 1979\]
 

@@ -124,7 +124,7 @@ A prior section 3033 was renumbered section 10302 of this title.
 
 1980—Subsec. (b). Pub. L. 96–513 struck out provision under which the Chief of Staff is counted as one of the officers authorized to serve in a grade above lieutenant general under section 3066 of this title.
 
-1967—Subsec. (a). Pub. L. 90–22 changed requirement that Chief of Staff be reappointed only with advice andconsent of Senate by providing for his reappointment for a term of not more than four years by President without such advice and consent in a time of war or national emergency as declared by Congress.
+1967—Subsec. (a). Pub. L. 90–22 changed requirement that Chief of Staff be reappointed only with advice and consent of Senate by providing for his reappointment for a term of not more than four years by President without such advice and consent in a time of war or national emergency as declared by Congress.
 
 1962—Subsec. (d)(4). Pub. L. 87–651 substituted “under section 124 of this title” for “pursuant to section 202(j) of the National Security Act of 1947, as amended”.
 

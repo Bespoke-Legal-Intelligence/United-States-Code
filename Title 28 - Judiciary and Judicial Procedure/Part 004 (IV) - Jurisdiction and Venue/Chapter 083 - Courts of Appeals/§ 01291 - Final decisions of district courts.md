@@ -1,8 +1,8 @@
 ### §1291. Final decisions of district courts
 
-The courts of appeals (other than the United States Court of Appeals for the Federal Circuit)shall have jurisdiction of appeals from all final decisions of the district courts of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands, except where a direct review may be had in the Supreme Court. The jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
+The courts of appeals (other than the United States Court of Appeals for the Federal Circuit) shall have jurisdiction of appeals from all final decisions of the district courts of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands, except where a direct review may be had in the Supreme Court. The jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 929; Oct. 31, 1951, ch. 655, §48, 65 Stat. 726; July 7, 1958, Pub. L. 85–508, §12(e), 72 Stat. 348; Apr. 2, 1982, Pub. L. 97–164, title I, §124, 96 Stat. 36.)
+(June 25, 1948, ch. 646, 62 Stat. 929; Oct. 31, 1951, ch. 655, §48, 65 Stat. 726; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 97–164, title I, §124, Apr. 2, 1982, 96 Stat. 36.)
 
 #### Historical and Revision Notes
 
@@ -64,11 +64,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1982—Pub. L. 97–164, §124, inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “The court of appeals” and inserted provision that the jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
+<b>1982</b>—Pub. L. 97–164, §124, inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “The court of appeals” and inserted provision that the jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
 
-1958—Pub. L. 85–508 struck out provisions which gave courts of appeals jurisdiction of appeals from District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Pub. L. 85–508 struck out provisions which gave courts of appeals jurisdiction of appeals from District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1951—Act Oct. 31, 1951, inserted reference to District Court of Guam.
+<b>1951</b>—Act Oct. 31, 1951, inserted reference to District Court of Guam.
 
 #### Effective Date of 1982 Amendment
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct.1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Federal Rules of Appellate Procedure
 
@@ -106,5 +106,5 @@ Trade-mark actions, appellate jurisdiction, see section 1121 of Title 15, Commer
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1295, 1334, 1452, 2072 of this title; title 11 section 305; title 15 sections 29, 57b–1, 78aa, 79y, 80a–43, 80b–14, 1314, 1719; title 16 sections 825p, 1456; title 18 section 3145; title 31 section 3733; title 42 sections 2000e–5, 3414; title 45 section 153; title 50 App. section 17.
+This section is referred to in sections 1295, 1334, 1452, 2072 of this title; title 11 section 305; title 15 sections 29, 57b–1, 78aa, 79y, 80a–43, 80b–14, 1314, 1719; title 16 sections 825p, 1456; title 18 section 3145; title 31 section 3733; title 42 sections 2000e–5, 3414; title 45 sections 153, 719, 743, 1105; title 50 App. section 17.
 

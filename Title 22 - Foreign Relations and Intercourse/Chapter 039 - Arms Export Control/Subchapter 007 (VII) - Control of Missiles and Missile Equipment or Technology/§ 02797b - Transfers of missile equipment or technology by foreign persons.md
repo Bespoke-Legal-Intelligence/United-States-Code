@@ -46,7 +46,7 @@ The Secretary of State, in consultation with the Secretary of Defense, the Secre
 
 #### (e) Waiver and report to Congress
 
-(1) In any case other than one in which an advisory opinion has been issued under subsection (d) of this section stating that a proposed activity would not subject a person to sanctions under this section, the President may waive the application of subsection (a) of this section to a foreign person if the President determines that such waiver is essential to the national security of the United States.
+(1) In any case other than one in which an advisory opinion has been issued under subsection (d) of this section stating that a proposed activity would not subject a person to sanctions under this section, the President may waive theapplication of subsection (a) of this section to a foreign person if the President determines that such waiver is essential to the national security of the United States.
 
 (2) In the event that the President decides to apply the waiver described in paragraph (1), the President shall so notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives not less than 45 working days before issuing the waiver. Such notification shall include a report fully articulating the rationale and circumstances which led the President to apply the waiver.
 

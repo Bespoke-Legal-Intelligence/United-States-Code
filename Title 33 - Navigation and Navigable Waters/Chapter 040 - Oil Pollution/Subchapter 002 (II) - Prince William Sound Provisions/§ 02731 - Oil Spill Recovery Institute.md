@@ -78,7 +78,7 @@ The authorization in section 2736(b) of this title providing funding for the Ins
 
 #### (j) Use of funds
 
-No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made available to carry out this section may be used to lease necessary facilities and to administer the Institute. The Advisory Board may compensate its Federal representatives for their reasonable travel costs. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b) of this section.
+No funds made available to carry out this section may be used to initiate litigation. No funds made available to carry out this section may be used for the acquisition of real property (including buildings) or construction of any building. No more than 20 percent of funds made availableto carry out this section may be used to lease necessary facilities and to administer the Institute. The Advisory Board may compensate its Federal representatives for their reasonable travel costs. None of the funds authorized by this section shall be used for any purpose other than the functions specified in subsection (b) of this section.
 
 #### (k) Research
 
@@ -110,7 +110,7 @@ Subsec. (c)(1)(B). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (B) and s
 
 Subsec. (c)(1)(C). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (C) and struck out former subpar. (C) which read as follows: “4 representatives appointed by the Secretary of Commerce from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill who are knowledgeable about fisheries, other local industries, the marine environment, wildlife, public health, safety, or education. At least 2 of the representatives shall be appointed from among residents of communities located in Prince William Sound. The Secretary shall appoint residents to serve terms of 2 years each, from a list of 8 qualified individuals to be submitted by the Governor of the State of Alaska based on recommendations made by the governing body of each affected community. Each affected community may submit the names of 2 qualified individuals for the Governor's consideration. No more than 5 of the 8 qualified persons recommended by the Governor shall be members of the same political party.”
 
-Subsec. (c)(1)(D). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (D) and struck out former subpar. (D) which read as follows: “3 Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located inPrince William Sound, to serve terms of 2 years each from a list of 6 qualified individuals submitted by the Alaska Federation of Natives.”
+Subsec. (c)(1)(D). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (D) and struck out former subpar. (D) which read as follows: “3 Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, to serve terms of 2 years each from a list of 6 qualified individuals submitted by the Alaska Federation of Natives.”
 
 Subsec. (c)(1)(E) to (H). Pub. L. 104–324, §1102(a)(7), (8), added subpars. (E) and (F) and redesignated former subpars. (E) and (F) as (G) and (H), respectively.
 

@@ -52,7 +52,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 &emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities (as defined in section 4975(e)(8) of title 26) which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of outstanding common shares voted; and
 
-&emsp;(B) in the case of any loan guarantee under section 636(a) of this title, the trustee of which enters into an agreement with the Administrator which is binding on the trust and on such small business concern and which provides that—
+&emsp;(B) in the case of any loan guarantee under section 636(a) of this title, the trustee of which enters into an agreement with the Administrator which is binding on the trust and onsuch small business concern and which provides that—
 
 &emsp;&emsp;(i) the loan guaranteed under section 636(a) of this title shall be used solely for the purchase of qualifying employer securities of such concern,
 
@@ -118,7 +118,7 @@ For purposes of section 636 of this title, the term “energy measures” includ
 
 #### (h) “Credit elsewhere” defined
 
-For purposes of this chapter the term “credit elsewhere” means the availability of credit from non-Federal sources on reasonable terms and conditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
+For purposes of this chapter the term “credit elsewhere” means the availability of credit from non-Federal sources on reasonable terms andconditions taking into consideration the prevailing rates and terms in the community in or near where the concern transacts business, or the homeowner resides, for similar purposes and periods of time.
 
 #### (i) “Homeowners” defined
 
@@ -126,7 +126,7 @@ For purposes of section 636 of this title, the term “homeowners” includes ow
 
 #### (j) “Small agricultural cooperative” defined
 
-For the purposes of section 636(b)(2) of this title, the term “small agricultural cooperative” means an association (corporate or otherwise) acting pursuant to the provisions of the Agricultural Marketing Act (12 U.S.C. 1141j), whose sizedoes not exceed the size standard established by the Administration for other similar agricultural small business concerns. In determining such size, the Administration shall regard the association as a business concern and shall not include the income or employees of any member shareholder of such cooperative.
+For the purposes of section 636(b)(2) of this title, the term “small agricultural cooperative” means an association (corporate or otherwise) acting pursuant to the provisions of the Agricultural Marketing Act (12 U.S.C. 1141j), whose size does not exceed the size standard established by the Administration for other similar agricultural small business concerns. In determining such size, the Administration shall regard the association as a business concern and shall not include the income or employees of any member shareholder of such cooperative.
 
 #### (k) “Disaster” defined
 
@@ -154,7 +154,117 @@ For the purposes of this chapter, a small business concern is a small business c
 
 &emsp;(2) the management and daily business operations of the business are controlled by one or more women.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730.)
+#### (<i>o</i>) Definitions of bundling of contract requirements and related terms
+
+In this chapter:
+
+#### (1) Bundled contract
+
+&emsp;The term “bundled contract” means a contract that is entered into to meet requirements that are consolidated in a bundling of contract requirements.
+
+#### (2) Bundling of contract requirements
+
+&emsp;The term “bundling of contract requirements” means consolidating 2 or more procurement requirements for goods or services previously provided or performed under separate smaller contracts into a solicitation of offers for a single contract that is likely to be unsuitable for award to a small-business concern due to—
+
+&emsp;&emsp;(A) the diversity, size, or specialized nature of the elements of the performance specified;
+
+&emsp;&emsp;(B) the aggregate dollar value of the anticipated award;
+
+&emsp;&emsp;(C) the geographical dispersion of the contract performance sites; or
+
+&emsp;&emsp;(D) any combination of the factors described in subparagraphs (A), (B), and (C).
+
+#### (3) Separate smaller contract
+
+&emsp;The term “separate smaller contract”, with respect to a bundling of contract requirements, means a contract that has been performed by 1 or more small business concerns or was suitable for award to 1 or more small business concerns.
+
+#### (p) Definitions relating to HUBZones
+
+In this chapter:
+
+#### (1) Historically underutilized business zone
+
+&emsp;The term “historically underutilized business zone” means any area located within 1 or more—
+
+&emsp;&emsp;(A) qualified census tracts;
+
+&emsp;&emsp;(B) qualified nonmetropolitan counties; or
+
+&emsp;&emsp;(C) lands within the external boundaries of an Indian reservation.
+
+#### (2) HUBZone
+
+&emsp;The term “HUBZone” means a historically underutilized business zone.
+
+#### (3) HUBZone small business concern
+
+&emsp;The term “HUBZone small business concern” means a small business concern—
+
+&emsp;&emsp;(A) that is owned and controlled by 1 or more persons, each of whom is a United States citizen; and
+
+&emsp;&emsp;(B) the principal office of which is located in a HUBZone; or
+
+#### (4) Qualified areas
+
+#### (A) Qualified census tract
+
+&emsp;&emsp;The term “qualified census tract” has the meaning given that term in section 42(d)(5)(C)(ii)(I) of title 26.
+
+#### (B) Qualified nonmetropolitan county
+
+&emsp;&emsp;The term “qualified nonmetropolitan county” means any county—
+
+&emsp;&emsp;&emsp;(i) that, based on the most recent data available from the Bureau of the Census of the Department of Commerce—
+
+&emsp;&emsp;&emsp;&emsp;(I) is not located in a metropolitan statistical area (as defined in section 143(k)(2)(B) of title 26); and
+
+&emsp;&emsp;&emsp;&emsp;(II) in which the median household income is less than 80 percent of the nonmetropolitan State median household income; or
+
+&emsp;&emsp;&emsp;(ii) that, based on the most recent data available from the Secretary of Labor, has an unemployment rate that is not less than 140 percent of the statewide average unemployment rate for the State in which the county is located.
+
+#### (5) Qualified HUBZone small business concern
+
+#### (A) In general
+
+&emsp;&emsp;A HUBZone small business concern is “qualified”, if—
+
+&emsp;&emsp;&emsp;(i) the small business concern has certified in writing to the Administrator (or the Administrator otherwise determines, based on information submitted to the Administrator by the small business concern, or based on certification procedures, which shall be established by the Administration by regulation) that—
+
+&emsp;&emsp;&emsp;&emsp;(I) it is a HUBZone small business concern;
+
+&emsp;&emsp;&emsp;&emsp;(II) not less than 35 percent of the employees of the small business concern reside in a HUBZone, and the small business concern will attempt to maintain this employment percentage during the performance of any contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(III) with respect to any subcontract entered into by the small business concern pursuant to a contract awarded to the small business concern under section 657a of this title, the small business concern will ensure that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of a contract for services (except construction), not less than 50 percent of the cost of contract performance incurred for personnel will be expended for its employees or for employees of other HUBZone small business concerns; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a contract for procurement of supplies (other than procurement from a regular dealer in such supplies), not less than 50 percent of the cost of manufacturing the supplies (not including the cost of materials) will be incurred in connection with the performance of the contract in a HUBZone by 1 or more HUBZone small business concerns; and
+
+&emsp;&emsp;&emsp;(ii) no certification made or information provided by the small business concern under clause (i) has been, in accordance with the procedures established under section 657a(c)(1) of this title—
+
+&emsp;&emsp;&emsp;&emsp;(I) successfully challenged by an interested party; or
+
+&emsp;&emsp;&emsp;&emsp;(II) otherwise determined by the Administrator to be materially false.
+
+#### (B) Change in percentages
+
+&emsp;&emsp;The Administrator may utilize a percentage other than the percentage specified in item (aa) or (bb) of subparagraph (A)(i)(III), if the Administrator determines that such action is necessary to reflect conventional industry practices among small business concerns that are below the numerical size standard for businesses in that industry category.
+
+#### (C) Construction and other contracts
+
+&emsp;&emsp;The Administrator shall promulgate final regulations imposing requirements that are similar to those specified in subclauses (IV) and (V) of subparagraph (A)(i) on contracts for general and specialty construction, and on contracts for any other industry category that would not otherwise be subject to those requirements. The percentage applicable to any such requirement shall be determined in accordance with subparagraph (B).
+
+#### (D) List of qualified small business concerns
+
+&emsp;&emsp;The Administrator shall establish and maintain a list of qualified HUBZone small business concerns, which list shall, to the extent practicable—
+
+&emsp;&emsp;&emsp;(i) include the name, address, and type of business with respect to each such small business concern;
+
+&emsp;&emsp;&emsp;(ii) be updated by the Administrator not less than annually; and
+
+&emsp;&emsp;&emsp;(iii) be provided upon request to any Federal agency or other entity.
+
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627.)
 
 #### References in Text
 
@@ -171,6 +281,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+1997—Subsec. (<i>o</i>). Pub. L. 105–135, §412, added subsec. (<i>o</i>).
+
+Subsec. (p). Pub. L. 105–135, §602(a), added subsec. (p).
 
 1996—Subsec. (k). Pub. L. 104–208 inserted “commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16),” after “tidal waves,”.
 
@@ -190,7 +304,7 @@ Subsec. (m). Pub. L. 103–355, §4404(a), substituted “ ‘simplified acquis
 
 Subsec. (n). Pub. L. 103–355, §7106(d), added subsec. (n).
 
-1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to the foregoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business:<i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
+1992—Subsec. (a). Pub. L. 102–366 added pars. (2) and (3) and struck out at end of par. (1) “In addition to the foregoing criteria the Administrator, in making a detailed definition, may use these criteria, among others: Number of employees and dollar volume of business: <i>Provided</i>, That the Administration shall not promulgate, amend, or rescind any rule \[or\] regulation with respect to size standards prior to March 31, 1981. Where the number of employees is used as one of the criteria in making such definition for any of the purposes of this chapter, the maximum number of employees which a small-business concern may have under the definition shall vary from industry to industry to the extent necessary to reflect differing characteristics of such industries and to take proper account of other relevant factors.”
 
 1990—Subsec. (m). Pub. L. 101–510 added subsec. (m).
 
@@ -228,6 +342,10 @@ Subsec. (c). Pub. L. 96–302 added subsec. (c).
 
 1976—Pub. L. 94–305 inserted reference to enterprises that are engaged in business of production of food and fiber, ranching and raising of livestock, aquaculture, and all other farming and agricultural related industries.
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Section 104(b)(2) of div. D of Pub. L. 104–208 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any disaster occurring on or after March 1, 1994.”
@@ -238,7 +356,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1987 Amendment
 
-Section 12(c) of Pub. L. 100–26 provided that: “The amendments made by sections 5 \[amending section 2365 of Title 10, Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10\] and 10 \[amending this section, sections 637 and 644 of this title, and provisions set out as a note under this section\] shall apply as if included in each instance of the Defense Acquisition Improvement Act (as specified in section 2) \[title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661\] when each was enacted \[Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively\].”
+Section 12(c) of Pub. L. 100–26 provided that: “The amendments made by sections 5 \[amending section 2365of Title 10, Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10\] and 10 \[amending this section, sections 637 and 644 of this title, and provisions set out as a note under this section\] shall apply as if included in each instance of the Defense Acquisition Improvement Act (as specified in section 2) \[title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661\] when each was enacted \[Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively\].”
 
 #### Effective Date of 1986 Amendment; Initial Review of Standards
 
@@ -258,7 +376,7 @@ Initial Review of Size Standards.—(1) Paragraph (2) of section 3(a) of the Sma
 
 #### Effective Date of 1984 Amendments
 
-Section 312 of title III of Pub. L. 98–270 provided that: “The amendments made by sections 310 and 311 of this title \[amending this section and section 636 of thistitle\] shall apply to loans granted on the basis of any disaster with respect to which a declaration has been issued after September 1, 1982, under section 7(b)(2) (A), (B), or (C) of the Small Business Act \[15 U.S.C. 636(b)(2)(A), (B), (C)\] or with respect to which a certification has been made after such date under section 7(b)(2)(D) of such Act.”
+Section 312 of title III of Pub. L. 98–270 provided that: “The amendments made by sections 310 and 311 of this title \[amending this section and section 636 of this title\] shall apply to loans granted on the basis of any disaster with respect to which a declaration has been issued after September 1, 1982, under section 7(b)(2) (A), (B), or (C) of the Small Business Act \[15 U.S.C. 636(b)(2)(A), (B), (C)\] or with respect to which a certification has been made after such date under section 7(b)(2)(D) of such Act.”
 
 Section 313 of title III of Pub. L. 98–270 provided that: “This title \[amending this section and sections 633, 636, and 647 of this title, enacting provisions set out as notes under sections 632 and 636 of this title, and amending provisions set out as a note under section 631 of this title\] shall take effect October 1, 1983.”
 
@@ -273,6 +391,16 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, but shall not affect any f
 Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as a note under section 631 of this title.
 
 #### Regulations
+
+Section 605 of title VI of Pub. L. 105–135 provided that:
+
+“(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Dec. 2, 1997\], the Administrator shall publish in the Federal Register such final regulations as may be necessary to carry out this title \[see Short Title of 1997 Amendment note set out under section 631 of this title\] and the amendments made by this title.
+
+“(b)
+
+Federal Acquisition Regulation.—Not later than 180 days after the date on which final regulations are published under subsection (a), the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation in order to ensure consistency between the Federal Acquisition Regulation, this title and the amendments made by this title, and the final regulations published under subsection (a).”
 
 Section 222(b) of Pub. L. 102–366 provided that:
 
@@ -294,7 +422,7 @@ Section 101(c) \[title X, §921(i)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 637, 638, 644, 662, 3703, 4721, 4724 of this title; title 5 section 601; title 7 section 5623; title 10 section 2319; title 12 sections 635, 1835, 3013; title 13 section 91; title 31 sections 3554, 6701; title 35 sections 41, 201; title 41 section 253c; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 section 47113; title 50 App. section 2152.
+This section is referred to in sections 78c, 631b, 637, 638, 644, 657a, 662, 694b, 3703, 4721, 4724 of this title; title5 section 601; title 7 section 5623; title 10 sections 2319, 2323; title 12 sections 635, 1835, 3013; title 13 section 91; title 31 sections 3554, 6701; title 35 sections 41, 201; title 41 section 253c; title 42 sections 300u, 5302, 6322, 7261b, 12002, 13556; title 49 section 47113; title 50 App. section 2152.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

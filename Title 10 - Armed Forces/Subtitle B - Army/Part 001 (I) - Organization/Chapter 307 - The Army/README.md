@@ -20,14 +20,17 @@
 | \[3076 to 3080. Repealed.\] |  |
 | [3081\.](%C2%A7%2003081%20-%20Dental%20Corps%20Chief%2C%20functions.md) | Dental Corps: Chief, functions. |
 | \[3082. | Renumbered.\] |
+| [3083\.](%C2%A7%2003083%20-%20Public%20Affairs%20Specialty.md) | Public Affairs Specialty. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+1997—Pub. L. 105–85, div. A, title V, §596(b), Nov. 18, 1997, 111 Stat. 1766, added item 3083.
+
 1996—Pub. L. 104–201, div. A, title V, §502(c)(1), Sept. 23, 1996, 110 Stat. 2511, substituted “Chief and assistant chief; appointment; grade” for “chief and assistant chief; appointment” in item 3069.
 
-1994—Pub. L. 103–337, div. A, title X, §1070(a)(16), title XVI, §1672(b)(1), Oct. 5, 1994, 108 Stat. 2856, 3015, struck out items 3076 “Army Reserve: composition”, 3077 “Army National Guard of United States: composition”, 3078 “Army National Guard: when a component of Army”, 3079 “Army National Guard of United States: status when not in Federal service”, and 3080 “Army National Guard of the United States: authority of officers with respect to Federal status”, struck out “3082.”before “Army” in item 3082, and then struck out item 3082 “Army National Guard combat readiness reform: annual report”.
+1994—Pub. L. 103–337, div. A, title X, §1070(a)(16), title XVI, §1672(b)(1), Oct. 5, 1994, 108 Stat. 2856, 3015, struck out items 3076 “Army Reserve: composition”, 3077 “Army National Guard of United States: composition”, 3078 “Army National Guard: when a component of Army”, 3079 “Army National Guard of United States: status when not in Federal service”, and 3080 “Army National Guard of the United States: authority of officers with respect to Federal status”, struck out “3082.” before “Army” in item 3082, and then struck out item 3082 “Army National Guard combat readiness reform: annual report”.
 
 1993—Pub. L. 103–160, div. A, title V, §521(b), Nov. 30, 1993, 107 Stat. 1655, added item 3082.
 
@@ -66,3 +69,4 @@
 - [&sect; 03076 to 3080 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1661(a)(3)(A), Oct. 5, 1994, 108 Stat. 2980](%C2%A7%2003076%20to%203080%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71661%28a%29%283%29%28A%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202980.md)
 - [&sect; 03081 - Dental Corps Chief, functions](%C2%A7%2003081%20-%20Dental%20Corps%20Chief%2C%20functions.md)
 - [&sect; 03082 - Renumbered &sect;10542](%C2%A7%2003082%20-%20Renumbered%20%C2%A710542.md)
+- [&sect; 03083 - Public Affairs Specialty](%C2%A7%2003083%20-%20Public%20Affairs%20Specialty.md)

@@ -1,6 +1,6 @@
 ### §14100. Assistance to States and localities employing Police Corps officers
 
-Each jurisdiction directly employing Police Corps participants during the 4-year term of service prescribed by section 14098 of this title shall receive $10,000 on account of each such participant at the completion of each such year of service, but—
+Each jurisdiction directly employing Police Corps participants during the 4-year term ofservice prescribed by section 14098 of this title shall receive $10,000 on account of each such participant at the completion of each such year of service, but—
 
 &emsp;(1) no such payment shall be made on account of service in any State or local police force—
 

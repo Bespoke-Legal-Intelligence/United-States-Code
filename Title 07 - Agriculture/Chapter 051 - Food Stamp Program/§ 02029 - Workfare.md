@@ -36,7 +36,7 @@ The operating agency shall—
 
 &emsp;(2) provide the same benefits and working conditions that are provided at the job site to employees performing comparable work for comparable hours; and
 
-&emsp;(3) reimburse participants for actual costs of transportation and other actual costs all of which are reasonably necessary and directly related to participation in the program but not to exceed $25 in the aggregate per month.
+&emsp;(3) reimburse participants for actual costs of transportation and other actual costs all ofwhich are reasonably necessary and directly related to participation in the program but not to exceed $25 in the aggregate per month.
 
 #### (e) Job search period
 
@@ -104,7 +104,7 @@ Subsec. (g)(2), (3). Pub. L. 97–253, §188, added par. (2) and redesignated fo
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 109(e) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 109(e) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to Stateoptions to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1991 Amendment
 
@@ -118,9 +118,9 @@ Amendment by section 188 of Pub. L. 97–253 effective Oct. 1, 1982, see section
 
 #### Effective Date
 
-Section effective on earlier of Sept. 8, 1982, or date effective pursuant to section 1338 of Pub. L. 97–98, set outas an Effective Date of 1981 Amendment note under section 2012 of this title, which made the section effective on such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 192(b) of Pub. L. 97–253 set out as an Effective Date of 1982 Amendment note under section 2012 of this title.
+Section effective on earlier of Sept. 8, 1982, or date effective pursuant to section 1338 of Pub. L. 97–98, set out as an Effective Date of 1981 Amendment note under section 2012 of this title, which made the section effective on such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 192(b) of Pub. L. 97–253 set out as an Effective Date of 1982 Amendment note under section 2012 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2015, 2026 of this title.
+This section is referred to in sections 2015, 2025, 2026 of this title.
 

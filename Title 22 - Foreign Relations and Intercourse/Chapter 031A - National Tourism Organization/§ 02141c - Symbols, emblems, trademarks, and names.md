@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Organization shall provide for the design of such symbols, emblems, trademarks, andnames as may be appropriate and shall take all action necessary to protect and regulate the use of such symbols, emblems, trademarks, and names under law.
+The Organization shall provide for the design of such symbols, emblems, trademarks, and names as may be appropriate and shall take all action necessary to protect and regulate the use of such symbols, emblems, trademarks, and names under law.
 
 #### (b) Exclusive right of Organization
 
@@ -40,7 +40,7 @@ The Organization may not adopt or use any existing symbol, emblem, trademark, or
 
 #### Contingent Repeal
 
-<i>Section repealed if within 2 years after Oct. 11, 1996, United States National Tourism Organization Board has not developed and implemented comprehensive plan for long-term financing of United States National Tourism Organization, see section 2141e(a) of this title.</i>
+<i>Section repealed if within 2 years after Oct. 11, 1996, United States National Tourism Orga</i><i>nization Board has not developed and implemented comprehensive plan for long-term financing of United States National Tourism Organization, see section 2141e(a) of this title.</i>
 
 #### References in Text
 

@@ -8,7 +8,7 @@ There is established in the Department of Agriculture the position of Under Secr
 
 #### (1) Principal functions
 
-&emsp;The Secretary shall delegate to the Under Secretary of Agriculture for Food Safety thosefunctions and duties under the jurisdiction of the Department that are primarily related to food safety.
+&emsp;The Secretary shall delegate to the Under Secretary of Agriculture for Food Safety those functions and duties under the jurisdiction of the Department that are primarily related to food safety.
 
 #### (2) Additional functions
 
@@ -32,7 +32,7 @@ The provisions of title 5 governing appointment in the competitive service, refe
 
 #### Codification
 
-Section is comprised of section 261 of Pub. L. 103–354. Subsec. (c) of section 261 of Pub. L. 103–354 amended section 5314 of Title 5, Government Organization and Employees.
+Section is comprised of section 261 of Pub. L. 103–354. Subsec. (c) of section 261 of Pub. L. 103–354 amendedsection 5314 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

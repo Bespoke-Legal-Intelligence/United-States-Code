@@ -88,11 +88,11 @@ Subsec. (b)(9), (10). Pub. L. 101–335, §6(b)(1)(A), added pars. (9) and (10).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L.104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendments
 
-Amendment by Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release frommilitary service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
+Amendment by Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
 Section 9(j) of Pub. L. 103–226 provided that: “This section \[amending this section and sections 8433 to 8435, 8437, and 8440a to 8440d of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 30, 1994\] or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation.” \[Implementing regulations were published in the Federal Register Feb. 21, 1995, 60 F.R. 9595, effective Mar. 10, 1995.\]
 
@@ -128,5 +128,5 @@ Section 206(b) of Pub. L. 99–335, as amended by Pub. L. 99–509, title VI, §
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8432, 8439, 8440, 8440a, 8440d of this title; title 10 section 945; title 22 section 4069; title 50 section 2142.
+This section is referred to in sections 8432, 8439, 8440, 8440a, 8440d of this title; title 10 section 945; title 22 section 4069; title 42 section 2297h–8; title 50 section 2142.
 

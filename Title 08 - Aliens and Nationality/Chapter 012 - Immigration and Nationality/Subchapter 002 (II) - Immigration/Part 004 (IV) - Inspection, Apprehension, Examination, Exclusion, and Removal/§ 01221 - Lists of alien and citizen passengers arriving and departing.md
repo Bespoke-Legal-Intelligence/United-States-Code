@@ -2,7 +2,7 @@
 
 #### (a) Shipment or aircraft manifest; arrival; form and contents; exclusions
 
-Upon the arrival of any person by water or by air at any port within the United States from any place outside the United States, it shall bethe duty of the master or commanding officer, or authorized agent, owner, or consignee of the vessel or aircraft, having any such person on board to deliver to the immigration officers at the port of arrival typewritten or printed lists or manifests of the persons on board such vessel or aircraft. Such lists or manifests shall be prepared at such time, be in such form and shall contain such information as the Attorney General shall prescribe by regulation as being necessary for the identification of the persons transported and for the enforcement of the immigration laws. This subsection shall not require the master or commanding officer, or authorized agent, owner, or consignee of a vessel or aircraft to furnish a list or manifest relating (1) to an alien crewman or (2) to any other person arriving by air on a trip originating in foreign contiguous territory, except (with respect to such arrivals by air) as may be required by regulations issued pursuant to section 1224 of this title.
+Upon the arrival of any person by water or by air at any port within the United States from any place outside the United States, it shall be the duty of the master or commanding officer, or authorized agent, owner, or consignee of the vessel or aircraft, having any such person on board to deliver to the immigration officers at the port of arrival typewritten or printed lists or manifests of the persons on board such vessel or aircraft. Such lists or manifests shall be prepared at such time, be in such form and shall contain such information as the Attorney General shall prescribe by regulation as being necessary for the identification of the persons transported and for the enforcement of the immigration laws. This subsection shall not require the master or commanding officer, or authorized agent, owner, or consignee of a vessel or aircraft to furnish a list or manifest relating (1) to an alien crewman or (2) to any other person arriving by air on a trip originating in foreign contiguous territory, except (with respect to such arrivals by air) as may be required by regulations issued pursuant to section 1224 of this title.
 
 #### (b) Departure; shipment or aircraft manifest; form and contents; exclusions
 
@@ -88,7 +88,7 @@ Bonds—
 
 &emsp;&emsp;Bond from nonimmigrant alien as prerequisite to admission to the United States, see section 1184 of this title.
 
-&emsp;&emsp;Bond or undertaking as prerequisite to admission of aliens likely to become public charges or with certain physical disabilities, see section 1183 of this title.
+&emsp;&emsp;Bond or undertaking as prerequisite to admission of aliens likely to become public charges or withcertain physical disabilities, see section 1183 of this title.
 
 &emsp;&emsp;Bond or undertaking as prerequisite to issuance of visas to aliens with certain physical disabilities or likely to become public charges, see section 1201 of this title.
 

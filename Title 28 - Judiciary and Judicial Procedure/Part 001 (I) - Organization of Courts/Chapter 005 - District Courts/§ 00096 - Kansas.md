@@ -4,7 +4,7 @@ Kansas constitutes one judicial district.
 
 &emsp;&emsp;Court shall be held at Kansas City, Lawrence, Leavenworth, Salina, Topeka, Hutchinson, Wichita, Dodge City, and Fort Scott.
 
-(June 25, 1948, ch. 646, 62 Stat. 880; Aug. 27, 1949, ch. 516, 63 Stat. 666; Oct. 27, 1986, Pub. L. 99–554, title I, §141, 100 Stat. 3096.)
+(June 25, 1948, ch. 646, 62 Stat. 880; Aug. 27, 1949, ch. 516, 63 Stat. 666; Pub. L. 99–554, title I, §141, Oct. 27, 1986, 100 Stat. 3096.)
 
 #### Historical and Revision Notes
 
@@ -20,9 +20,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1986—Pub. L. 99–554 provided for holding court at Lawrence.
+<b>1986</b>—Pub. L. 99–554 provided for holding court at Lawrence.
 
-1949—Act Aug. 27, 1949, abolished the three divisions which constituted the judicial district, and added Dodge City as an additional place for holding court.
+<b>1949</b>—Act Aug. 27, 1949, abolished the three divisions which constituted the judicial district, and added Dodge City as an additional place for holding court.
 
 #### Effective Date of 1986 Amendment
 

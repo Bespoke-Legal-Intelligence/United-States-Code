@@ -8,7 +8,7 @@ The Secretary shall establish, by regulation, an application process containing 
 
 #### (1) In general
 
-&emsp;Subject to the availability of funds and acceptable applications, the Secretary shall make 5 grants to tribes or tribal organizations for purposes of this subchapter, each grant to be for a period of 4 years.
+&emsp;Subject to the availability of funds and acceptable applications, the Secretary shallmake 5 grants to tribes or tribal organizations for purposes of this subchapter, each grant to be for a period of 4 years.
 
 #### (2) Administrative costs
 

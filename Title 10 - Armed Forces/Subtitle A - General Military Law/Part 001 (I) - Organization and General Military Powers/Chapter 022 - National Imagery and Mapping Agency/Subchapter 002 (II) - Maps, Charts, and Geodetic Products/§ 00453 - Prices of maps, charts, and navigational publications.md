@@ -2,7 +2,7 @@
 
 All maps, charts, and other publications offered for sale by the National Imagery and Mapping Agency shall be sold at prices and under regulations that may be prescribed by the Secretary of Defense.
 
-(Added Pub. L. 97–295, §1(50)(C), Oct. 12, 1982, 96 Stat. 1299, §2794; renumbered §453 and amendedPub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682.)
+(Added Pub. L. 97–295, §1(50)(C), Oct. 12, 1982, 96 Stat. 1299, §2794; renumbered §453 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682.)
 
 Historical and Revision Notes
 

@@ -4,7 +4,7 @@
 
 (b) All funds held in trust by the United States and carried in principal accounts on the books of the United States Treasury to the credit of individual Indians shall be invested by the Secretary of the Treasury, at the request of the Secretary of the Interior, in public debt securities with maturities suitable to the needs of the fund involved, as determined by the Secretary of the Interior, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable securities.
 
-(Feb. 12, 1929, ch. 178, §1, 45 Stat. 1164; June 13, 1930, ch. 483, 46 Stat. 584; Oct. 4, 1984, Pub. L. 98–451, 98 Stat. 1729; Oct. 25, 1994, Pub. L. 103–412, title I, §103(a), 108 Stat. 4241.)
+(Feb. 12, 1929, ch. 178, §1, 45 Stat. 1164; June 13, 1930, ch. 483, 46 Stat. 584; Pub. L. 98–451, Oct. 4, 1984, 98 Stat. 1729; Pub. L. 103–412, title I, §103(a), Oct. 25, 1994, 108 Stat. 4241.)
 
 #### Amendments
 

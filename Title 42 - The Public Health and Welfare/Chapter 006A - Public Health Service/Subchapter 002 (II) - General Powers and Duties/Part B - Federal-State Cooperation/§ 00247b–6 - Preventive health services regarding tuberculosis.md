@@ -1,0 +1,106 @@
+### §247b–6. Preventive health services regarding tuberculosis
+
+#### (a) In general
+
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States, political subdivisions, and other public entities for preventive health service programs for the prevention, control, and elimination of tuberculosis.
+
+#### (b) Research, demonstration projects, education, and training
+
+With respect to the prevention, control, and elimination of tuberculosis, the Secretary may, directly or through grants to public or nonprofit private entities, carry out the following:
+
+&emsp;(1) Research, with priority given to research concerning strains of tuberculosis resistant to drugs and research concerning cases of tuberculosis that affect certain populations.
+
+&emsp;(2) Demonstration projects.
+
+&emsp;(3) Public information and education programs.
+
+&emsp;(4) Education, training, and clinical skills improvement activities for health professionals, including allied health personnel and emergency response employees.
+
+&emsp;(5) Support of centers to carry out activities under paragraphs (1) through (4).
+
+&emsp;(6) Collaboration with international organizations and foreign countries in carrying out such activities.
+
+#### (c) Cooperation with providers of primary health services
+
+The Secretary may make a grant under subsection (a) or (b) of this section only if the applicant for the grant agrees that, in carrying out activities under the grant, the applicant will cooperate with public and nonprofit private providers of primary health services or substance abuse services, including entities receiving assistance under section 254b, 254c, 256, or 256a of this title <sup>1</sup> or under subchapter III–A or XVII of this chapter.
+
+#### (d) Application for grant
+
+#### (1) In general
+
+&emsp;The Secretary may make a grant under subsection (a) or (b) of this section only if an application for the grant is submitted to the Secretary and the application, subject to paragraph (2), is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out the subsection involved.
+
+#### (2) Plan for prevention, control, and elimination
+
+&emsp;The Secretary may make a grant under subsection (a) of this section only if the application under paragraph (1) contains a plan regarding the prevention, control, and elimination of tuberculosis in the geographic area with respect to which the grant is sought.
+
+#### (e) Supplies and services in lieu of grant funds
+
+#### (1) In general
+
+&emsp;Upon the request of a grantee under subsection (a) or (b) of this section, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the grantee in carrying out the subsection involved and, for such purpose, maydetail to the State any officer or employee of the Department of Health and Human Services.
+
+#### (2) Corresponding reduction in payments
+
+&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under the grant involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+
+#### (f) Advisory Council
+
+#### (1) In general
+
+&emsp;The Secretary shall establish an advisory council to be known as the Advisory Council for the Elimination of Tuberculosis (in this subsection referred to as the “Council”).
+
+#### (2) General duties
+
+&emsp;The Council shall provide advice and recommendations regarding the elimination of tuberculosis to the Secretary, the Assistant Secretary for Health, and the Director of the Centers for Disease Control and Prevention.
+
+#### (3) Certain activities
+
+&emsp;With respect to the elimination of tuberculosis, the Council shall—
+
+&emsp;&emsp;(A) in making recommendations under paragraph (2), make recommendations regarding policies, strategies, objectives, and priorities;
+
+&emsp;&emsp;(B) address the development and application of new technologies; and
+
+&emsp;&emsp;(C) review the extent to which progress has been made toward eliminating tuberculosis.
+
+#### (4) Composition
+
+&emsp;The Secretary shall determine the size and composition of the Council, and the frequency and scope of official meetings of the Council.
+
+#### (5) Staff, information, and other assistance
+
+&emsp;The Secretary shall provide to the Council such staff, information, and other assistance as may be necessary to carry out the duties of the Council.
+
+#### (g) Funding
+
+#### (1) In general; allocation for emergency grants
+
+&emsp;(A) For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $200,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
+
+&emsp;(B) Of the amounts appropriated under subparagraph (A) for a fiscal year, the Secretary may reserve not more than $50,000,000 for emergency grants under subsection (a) of this section for any geographic area in which there is, relative to other areas, a substantial number of cases of tuberculosis or a substantial rate of increase in such cases.
+
+#### (2) Research, demonstration projects, education, and training
+
+&emsp;For the purpose of making grants under subsection (b) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1998.
+
+(July 1, 1944, ch. 373, title III, §317E, as added Dec. 14, 1993, Pub. L. 103–183, title III, §301(a), 107 Stat. 2233.)
+
+#### References in Text
+
+Sections 254b and 254c of this title, referred to in subsec. (c), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
+Sections 256 and 256a of this title, referred to in subsec. (c), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+
+#### Termination of Advisory Councils
+
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 256d of this title.
+
+<i><sup>1</sup></i><i> See References in Text notes below.</i>
+

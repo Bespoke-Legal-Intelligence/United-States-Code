@@ -46,7 +46,7 @@ In carrying out the programs specified in subsection (b)(4) of this section, the
 
 #### (B) Economic hardship
 
-&emsp;&emsp;After a technical determination has been made, on a producer's request, if a county or area committee determines that the application of the producer's conservation systemwould impose an undue economic hardship on the producer, the committee shall provide the producer with relief to avoid the hardship.
+&emsp;&emsp;After a technical determination has been made, on a producer's request, if a county or area committee determines that the application of the producer's conservation system would impose an undue economic hardship on the producer, the committee shall provide the producer with relief to avoid the hardship.
 
 #### (3) Reinstatement of program benefits
 

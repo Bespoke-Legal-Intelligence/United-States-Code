@@ -30,7 +30,7 @@
 
 (4) Any unobligated and unexpended balances in the fund which the Office determines to be in excess of amounts needed for activities financed by the fund shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-(5) The Office shall prepare a business-type budget providing full disclosure of the results ofoperations for each of the functions performed by the Office and financed by the fund, and such budget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
+(5) The Office shall prepare a business-type budget providing full disclosure of the results of operations for each of the functions performed by the Office and financed by the fund, and such budget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
 
 (6) The Comptroller General of the United States shall, as a result of his periodic reviews of the activities financed by the fund, report and make such recommendations as he deems appropriate to the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives.
 
@@ -106,7 +106,7 @@ Section 1203(e) of title 6, District of Columbia Code, referred to in subsec. (a
 
 1979—Subsec. (a)(1). Pub. L. 96–60 struck out reference to section 1434 of title 22.
 
-1978—Subsecs. (a) to (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+1978—Subsecs. (a) to (f). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil ServiceCommission” and “Office” for “Commission” wherever appearing.
 
 1971—Subsec. (e). Pub. L. 91–648 struck out in par. (1) “of $4,000,000” after “revolving fund” and inserted in par. (2)(A) “, which appropriations are hereby authorized”.
 

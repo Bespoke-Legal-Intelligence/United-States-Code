@@ -56,5 +56,5 @@ Time limitation on claims against Government employees who received dual compens
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8344, 8468 of this title; title 24 section 421.
+This section is referred to in sections 8344, 8468 of this title; title 22 section 3664; title 24 section 421.
 

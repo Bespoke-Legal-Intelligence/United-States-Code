@@ -38,9 +38,9 @@ Not later than 18 months after October 9, 1996, the Secretary shall cease produc
 
 #### (2) Costs
 
-&emsp;Any costs associated with the termination of contracts described in paragraph (1) shall be paid from the helium production fund established under section 167d(f) of this title.
+&emsp;Any costs associated with the termination of contracts described in paragraph (1) shall bepaid from the helium production fund established under section 167d(f) of this title.
 
-(Mar. 3, 1925, ch. 426, §4, as added Sept. 13, 1960, Pub. L. 86–777, §2, 74 Stat. 920; amended Oct. 9, 1996, Pub. L. 104–273, §3, 110 Stat. 3316.)
+(Mar. 3, 1925, ch. 426, §4, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 920; amended Pub. L. 104–273, §3, Oct. 9, 1996, 110 Stat. 3316.)
 
 #### References in Text
 
@@ -48,7 +48,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Prior Provisions
 
-A prior section 4 of act Mar. 3, 1925, related to exportation of helium gas and was classified to section 165 ofthis title, prior to repeal by act Aug. 26, 1954, ch. 937, title V, §542(a)(13), 68 Stat. 861.
+A prior section 4 of act Mar. 3, 1925, related to exportation of helium gas and was classified to section 165 of this title, prior to repeal by act Aug. 26, 1954, ch. 937, title V, §542(a)(13), 68 Stat. 861.
 
 #### Amendments
 

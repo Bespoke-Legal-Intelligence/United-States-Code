@@ -34,7 +34,7 @@ If the Attorney General determines that a registration statement does not comply
 
 It shall be unlawful for any agent of a foreign principal required to register under this subchapter to be a party to any contract, agreement, or understanding, either express or implied, with such foreign principal pursuant to which the amount or payment of the compensation, fee, or other remuneration of such agent is contingent in whole or in part upon the success of any political activities carried on by such agent.
 
-(June 8, 1938, ch. 327, §8, as added Apr. 29, 1942, ch. 263, §1, 56 Stat. 257; amended Sept. 23, 1950, ch. 1024, title I, §20(b), 64 Stat. 1005; June 27, 1952, ch. 477, title IV, §402(d), 66 Stat. 276; Aug.1, 1956, ch. 849, §1, 70 Stat. 899; July 4, 1966, Pub. L. 89–486, §7, 80 Stat. 248; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(26), 98 Stat. 3359; Dec. 19, 1995, Pub. L. 104–65, §9(8), 109 Stat. 700; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(e)(19), 110 Stat. 3009–621.)
+(June 8, 1938, ch. 327, §8, as added Apr. 29, 1942, ch. 263, §1, 56 Stat. 257; amended Sept. 23, 1950, ch. 1024, title I, §20(b), 64 Stat. 1005; June 27, 1952, ch. 477, title IV, §402(d), 66 Stat. 276; Aug. 1, 1956, ch. 849, §1, 70 Stat. 899; Pub. L. 89–486, §7, July 4, 1966, 80 Stat. 248; Pub. L. 98–620, title IV, §402(26), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 104–65, §9(8), Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–208, div. C, title III, §308(e)(19), Sept. 30, 1996, 110 Stat. 3009–621.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to assist each State to plan effectively for improved student learning in all schools through the use of technology as an integral part of the State improvement plan described in section 5886 of this title.
+It is the purpose of this section to assist each State to plan effectively for improved studentlearning in all schools through the use of technology as an integral part of the State improvement plan described in section 5886 of this title.
 
 #### (b) Program authorized
 
@@ -46,7 +46,7 @@ At a minimum, each systemic statewide plan shall—
 
 &emsp;&emsp;(B) ensures that such plan is integrated into the State improvement plan described in section 5886 of this title;
 
-&emsp;(2) be developed in collaboration with the Governor, representatives of the State legislature, the State board of education, institutions of higher education, appropriate State agencies, local educational agencies, public and private telecommunication entities, parents, public and school libraries, students,adult literacy providers, and leaders in the field of technology, through a process of statewide grassroots outreach to local educational agencies and schools in the State;
+&emsp;(2) be developed in collaboration with the Governor, representatives of the State legislature, the State board of education, institutions of higher education, appropriate State agencies, local educational agencies, public and private telecommunication entities, parents, public and school libraries, students, adult literacy providers, and leaders in the field of technology, through a process of statewide grassroots outreach to local educational agencies and schools in the State;
 
 &emsp;(3) identify and describe the requirements for introducing state-of-the-art technologies into the classroom and school library in order to enhance educational curricula, including the installation and ongoing maintenance of basic connections, hardware and the necessary support materials;
 

@@ -22,13 +22,13 @@ When circumstances require that all or a portion of a member's stock be redeemed
 
 #### (d) Use of subscription amount
 
-At least one-half of the payment for the subscription amount required for membership undersection 1795c of this title shall be transferred to the Facility. The remainder may be held by the member on call of the Board and shall be invested in assets designated by the Board.
+At least one-half of the payment for the subscription amount required for membership under section 1795c of this title shall be transferred to the Facility. The remainder may be held by the member on call of the Board and shall be invested in assets designated by the Board.
 
 #### (e) Restriction on advances to credit unions
 
 A credit union or credit union group that becomes a member of the Facility later than six months after the date the Board opens books for capital stock subscriptions, may not borrow or receive advances from the Facility without approval by the Board for a period of six months after becoming a member.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, §305, as added and amended Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), title XVIII, §1802, 92 Stat. 3681, 3721; Mar. 31, 1980, Pub. L. 96–221, title III, §309(a)(2), (4), (b)(1), 94 Stat. 148, 149.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, §305, as added and amended Pub. L. 95–630, title V, §502(b), title XVIII, §1802, Nov. 10, 1978, 92 Stat. 3681, 3721; Pub. L. 96–221, title III, §309(a)(2), (4), (b)(1), Mar. 31, 1980, 94 Stat. 148, 149.)
 
 #### Codification
 

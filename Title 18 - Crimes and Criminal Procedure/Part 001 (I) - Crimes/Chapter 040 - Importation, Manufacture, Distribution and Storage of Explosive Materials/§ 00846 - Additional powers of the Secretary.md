@@ -20,13 +20,9 @@ Section 101(f) \[title VI, §654(b)\] of div. A of Pub. L. 104–208 provided th
 
 #### Certification of Explosives Detection Canines
 
-Section 101(f) \[title VI, §653\] of div. A of Pub. L. 104–208 provided that:
+Pub. L. 105–61, title VI, §627, Oct. 10, 1997, 111 Stat. 1315, provided that: “The Secretary of the Treasury is authorized to establish scientific certification standards for explosives detection canines, and shall provide, on a reimbursable basis, for the certification of explosives detection canines employed by Federal agencies, or other agencies providing explosives detection services at airports in the United States.”
 
-“(a)
+Similar provisions were contained in the following prior appropriation act:
 
-Authorization.—The Secretary of the Treasury is authorized to establish scientific certification standards for explosives detection canines, and shall provide, on a reimbursable basis, for the certification of explosives detection canines employed by Federal agencies, or other agencies providing explosives detection services at airports in the United States.
-
-“(b)
-
-Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §653(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369.
 

@@ -2,7 +2,7 @@
 
 The Administrator of General Services and other agencies of the Government are authorized to donate to the Gallery any works of art now or hereafter under their control.
 
-(May 17, 1938, ch. 238, §5, 52 Stat. 401; 1939 Reorg. Plan No. I, §§301, 303, eff. July 1, 1939, 4 FR 2729,53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, §103, 63 Stat. 380.)
+(May 17, 1938, ch. 238, §5, 52 Stat. 401; 1939 Reorg. Plan No. I, §§301, 303, eff. July 1, 1939, 4 FR 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, §103, 63 Stat. 380.)
 
 #### Transfer of Functions
 

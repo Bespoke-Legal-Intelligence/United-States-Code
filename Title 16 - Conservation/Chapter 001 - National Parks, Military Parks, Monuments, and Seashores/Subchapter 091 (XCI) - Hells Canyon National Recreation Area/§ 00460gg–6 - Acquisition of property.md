@@ -18,7 +18,7 @@ As used in this subchapter the term “scenic easement” means the right to con
 
 #### (e) Offers to sell land; hardship from delay
 
-The Secretary shall give prompt and careful consideration to any offer made by a personowning land within the recreation area to sell such land to the United States. The Secretary shall specifically consider any hardship to such person which might result from an undue delay in acquiring his property.
+The Secretary shall give prompt and careful consideration to any offer made by a person owning land within the recreation area to sell such land to the United States. The Secretary shall specifically consider any hardship to such person which might result from an undue delay in acquiring his property.
 
 #### (f) Exchange of land; equalization payments
 

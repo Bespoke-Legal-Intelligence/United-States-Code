@@ -10,7 +10,7 @@
 
 (4) Upon order of the Secretary, the holder of a right-of-way or permit shall provide emergency subsistence and other aid to an affected Alaska Native, Native organization, or other person pending expeditious filing of, and determination of, a claim under this subsection.
 
-(5) Where the State of Alaska is the holder of a right-of-way or permit under this chapter, the State shall not be subject to the provisions of this subsection, but the holder of the permit or right-of-way for the trans-Alaska pipeline shall be subject to this subsection with respect to facilities constructed or activities conductedunder rights-of-way or permits issued to the State to the extent that such holder engages in the construction, operation, maintenance, and termination of facilities, or in other activities under rights-of-way or permits issued to the State.
+(5) Where the State of Alaska is the holder of a right-of-way or permit under this chapter, the State shall not be subject to the provisions of this subsection, but the holder of the permit or right-of-way for the trans-Alaska pipeline shall be subject to this subsection with respect to facilities constructed or activities conducted under rights-of-way or permits issued to the State to the extent that such holder engages in the construction, operation, maintenance, and termination of facilities, or in other activities under rights-of-way or permits issued to the State.
 
 #### (b) Control and removal of pollutants at expense of right-of-way holder
 
@@ -126,7 +126,7 @@ Section 8102(a)(2) of Pub. L. 101–380 provided that:
 
 “(A)
 
-Reservation of amounts.—The trustees of the Trans-Alaska Pipeline Liability Fund (hereafter in this subsection referred to as the ‘TAPS Fund’) shall reserve the following amounts in the TAPS Fund—
+Reservation of amounts.—The trustees of the Trans-Alaska Pipeline Liability Fund (hereafter in thissubsection referred to as the ‘TAPS Fund’) shall reserve the following amounts in the TAPS Fund—
 
 &emsp;“(i) necessary to pay claims arising under section 204(c) of the Trans-Alaska Pipeline Authorization Act (43 U.S.C. 1653(c)); and
 

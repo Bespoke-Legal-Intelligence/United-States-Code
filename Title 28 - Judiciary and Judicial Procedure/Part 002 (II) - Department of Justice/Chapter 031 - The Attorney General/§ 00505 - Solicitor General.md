@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 293.
 
@@ -20,7 +22,7 @@ So much of R.S. §347 as relates to the pay of the Solicitor General is omitted 
 
 #### Prior Provisions
 
-A prior section 505, act June 25, 1948, ch. 646, 62 Stat. 909, related to residence of United States attorneys,prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 545 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 505, act June 25, 1948, ch. 646, 62 Stat. 909, related to residence of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 545 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Cross References
 

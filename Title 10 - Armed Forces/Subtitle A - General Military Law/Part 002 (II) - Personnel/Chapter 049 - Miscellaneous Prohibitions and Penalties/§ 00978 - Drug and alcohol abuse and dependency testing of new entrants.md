@@ -1,6 +1,6 @@
 ### §978. Drug and alcohol abuse and dependency: testing of new entrants
 
-(a)(1) The Secretary concerned shall require that, except as provided under paragraph (2),each person applying for an original enlistment or appointment in the armed forces shall be required, before becoming a member of the armed forces, to—
+(a)(1) The Secretary concerned shall require that, except as provided under paragraph (2), each person applying for an original enlistment or appointment in the armed forces shall be required, before becoming a member of the armed forces, to—
 
 &emsp;(A) undergo testing (by practicable, scientifically supported means) for drug and alcohol use; and
 
@@ -76,7 +76,7 @@ Subsec. (c)(4). Pub. L. 101–189, §513(c), added par. (4).
 
 “(a) Before a person becomes a member of the armed forces, such person shall be required to undergo testing for drug, chemical, and alcohol use and dependency.
 
-“(b) A person who refuses to consent to testing required by subsection (a) may not be accepted for an original enlistment in the armed forces or given anoriginal appointment as an officer in the armed forces unless that person consents to such testing.
+“(b) A person who refuses to consent to testing required by subsection (a) may not be accepted for an original enlistment in the armed forces or given an original appointment as an officer in the armed forces unless that person consents to such testing.
 
 “(c) A person determined, as the result of testing conducted under subsection (a), to be dependent on drugs, chemicals, or alcohol shall be—
 

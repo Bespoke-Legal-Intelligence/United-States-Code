@@ -10,11 +10,17 @@ Inquiries Involving More Than One Missing Person.—If it appears to the Secreta
 
 (c)
 
-Composition.—(1) A board appointed under this section to inquire into the whereabouts and status of a person shall consist of at least one military officer who has experience with and understanding of military operations or activities similar to the operation or activity in which the person disappeared.
+Composition.—(1) A board appointed under this section to inquire into the whereabouts and status of a person shall consist of at least one individual described in paragraph (2) who has experience with and understanding of military operations or activities similar to the operation or activity in which the person disappeared.
 
-(2) An individual may be appointed as a member of a board under this section only if the individual has a security clearance that affords the individual access to all information relating to the whereabouts and status of the missing persons covered by the inquiry.
+(2) An individual referred to in paragraph (1) is the following:
 
-(3) A Secretary appointing a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
+&emsp;(A) A military officer, in the case of an inquiry with respect to a member of the armed forces.
+
+&emsp;(B) A civilian, in the case of an inquiry with respect to a civilian employee of the Department of Defense or of a contractor of the Department of Defense.
+
+(3) An individual may be appointed as a member of a board under this section only if the individual has a security clearance that affords the individual access to all information relating to the whereabouts and status of the missing persons covered by the inquiry.
+
+(4) A Secretary appointing a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
 
 (d)
 
@@ -44,7 +50,7 @@ Board Proceedings.—During the proceedings of an inquiry under this section, a 
 
 (f)
 
-Counsel for Missing Person.—(1) The Secretary appointing a board to conduct an inquiry under this section shall appoint counsel to represent each person covered by the inquiry or, in a case covered by subsection (b), one counsel to represent all persons covered by the inquiry. Counsel appointed under this paragraph may be referred to as “missing person's counsel” and represents the interests of the person covered by the inquiry (and not any member of the person's family or other interested parties).
+Counsel for Missing Person.—(1) The Secretary appointing a board to conduct an inquiry under this section shall appoint counsel to represent each person covered by the inquiry or, in a case covered by subsection (b), one counsel to represent all persons covered by the inquiry.Counsel appointed under this paragraph may be referred to as “missing person's counsel” and represents the interests of the person covered by the inquiry (and not any member of the person's family or other interested parties). The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person's primary next of kin and any other previously designated person of the person.
 
 (2) To be appointed as a missing person's counsel, a person must—
 
@@ -64,7 +70,7 @@ Counsel for Missing Person.—(1) The Secretary appointing a board to conduct an
 
 &emsp;(D) shall monitor the deliberations of the board.
 
-(4) A missing person's counsel shall assist the board in ensuring that all appropriate information concerning the case is collected, logged, filed, and safeguarded.
+(4) A missing person's counsel shall assist the board in ensuring that all appropriate information concerning the case is collected, logged, filed, and safeguarded. The primary next of kin of a missing person and any other previously designated person of the missing person shall have the right to submit information to the missing person's counsel relative to the disappearance or status of the missing person.
 
 (5) A missing person's counsel shall review the report of the board under subsection (h) and submit to the Secretary concerned who appointed the board an independent review of that report. That review shall be made an official part of the record of the board.
 
@@ -118,9 +124,17 @@ Report to Family Members and Other Interested Persons.—Not later than 30 days 
 
 Treatment of Determination.—Any determination of the status of a missing person under subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, §578(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2536.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L.104–201, div. A, title V, §578(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(2), (d), Nov. 18, 1997, 111 Stat. 1767, 1769.)
 
 #### Amendments
+
+1997—Subsec. (c)(1). Pub. L. 105–85, §599(a)(2)(A), substituted “one individual described in paragraph (2)” for “one military officer”.
+
+Subsec. (c)(2) to (4). Pub. L. 105–85, §599(a)(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (f)(1). Pub. L. 105–85, §599(d)(1), inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person's primary next of kin and any other previously designated person of the person.”
+
+Subsec. (f)(4). Pub. L. 105–85, §599(d)(2), inserted at end “The primary next of kin of a missing person and any other previously designated person of the missing person shall have the right to submit information to the missing person's counsel relative to the disappearance or status of the missing person.”
 
 1996—Subsec. (a). Pub. L. 104–201, §578(b)(2), substituted “section 1502(a)” for “section 1502(b)”.
 

@@ -2,7 +2,7 @@
 
 In order to preserve for the educational, inspirational, and recreational use of the public certain portions of the Indiana dunes and other areas of scenic, scientific, and historic interest and recreational value in the State of Indiana, the Secretary of the Interior is authorized to establish and administer the Indiana Dunes National Lakeshore (hereinafter referred to as the “lakeshore”) in accordance with the provisions of this subchapter. The lakeshore shall comprise the area within the boundaries delineated on a map identified as “Boundary Map, Indiana Dunes National Lakeshore”, dated October 1992, and numbered 626–80,039–C, which map is on file and available for public inspection in the office of the Director of the National Park Service, Department of the Interior.
 
-(Pub. L. 89–761, §1, Nov. 5, 1966, 80 Stat. 1309; Pub. L. 94–549, §1(1), Oct. 18, 1976, 90 Stat. 2529;Pub. L. 96–612, §1(2), Dec. 28, 1980, 94 Stat. 3575; Pub. L. 99–583, §1(a), Oct. 29, 1986, 100 Stat. 3318; Pub. L. 102–430, §3(a), Oct. 23, 1992, 106 Stat. 2208.)
+(Pub. L. 89–761, §1, Nov. 5, 1966, 80 Stat. 1309; Pub. L. 94–549, §1(1), Oct. 18, 1976, 90 Stat. 2529; Pub. L. 96–612, §1(2), Dec. 28, 1980, 94 Stat. 3575; Pub. L. 99–583, §1(a), Oct. 29, 1986, 100 Stat. 3318; Pub. L. 102–430, §3(a), Oct. 23, 1992, 106 Stat. 2208.)
 
 #### Amendments
 
@@ -16,7 +16,7 @@ In order to preserve for the educational, inspirational, and recreational use of
 
 #### Short Title of 1992 Amendment
 
-Section 1 of Pub. L. 102–430 provided that: “This Act \[enacting sections 460u–25 and 460u–26 of this title, amending this section and sections 460u–3, 460u–5, 460u–9, and 460u–18 of this title, and repealing section 460u–12 of this title\] may be cited as the ‘Indiana Dunes National Lakeshore Access and Enhancement Act’.”
+Section 1 of Pub. L. 102–430 provided that: “This Act \[enacting sections 460u–25 and 460u–26 of this title,amending this section and sections 460u–3, 460u–5, 460u–9, and 460u–18 of this title, and repealing section 460u–12 of this title\] may be cited as the ‘Indiana Dunes National Lakeshore Access and Enhancement Act’.”
 
 #### Effective Date of Authorizations of Appropriations; Authority To Contract, Incur Obligations, and Make Payments
 

@@ -20,7 +20,7 @@ There is hereby established the Chattahoochee River National Recreation Area Adv
 
 &emsp;(4) four members appointed from among individuals recommended by a coalition of citizens public interest groups, recreational users, and environmental organizations concerned with the protection and preservation of the Chattahoochee River;
 
-&emsp;(5) one member appointed from among individuals recommended by the Business Councilof Georgia or by a local chamber of commerce in the vicinity of the recreation area; and
+&emsp;(5) one member appointed from among individuals recommended by the Business Council of Georgia or by a local chamber of commerce in the vicinity of the recreation area; and
 
 &emsp;(6) two members who represent the general public, at least one of whom shall be a resident of one of the counties referred to in paragraph (1).
 

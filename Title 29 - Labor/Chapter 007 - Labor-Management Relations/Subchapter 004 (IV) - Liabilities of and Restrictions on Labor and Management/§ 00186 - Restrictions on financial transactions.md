@@ -40,7 +40,7 @@ This section shall not apply to any contract in force on June 23, 1947, until th
 
 Compliance with the restrictions contained in subsection (c)(5)(B) of this section upon contributions to trust funds, otherwise lawful, shall not be applicable to contributions to such trust funds established by collective agreement prior to January 1, 1946, nor shall subsection (c)(5)(A) of this section be construed as prohibiting contributions to such trust funds if prior to January 1, 1947, such funds contained provisions for pooled vacation benefits.
 
-(June 23, 1947, ch. 120, title III, §302, 61 Stat. 157; Sept. 14, 1959, Pub. L. 86–257, title V, §505, 73 Stat. 537; Oct. 14, 1969, Pub. L. 91–86, 83 Stat. 133; Aug. 15, 1973, Pub. L. 93–95, 87 Stat. 314; Oct. 27, 1978, Pub. L. 95–524, §6(d), 92 Stat. 2021; Oct. 12, 1984, Pub. L. 98–473, title II, §801, 98 Stat. 2131; Apr. 18, 1990, Pub. L. 101–273, §1, 104 Stat. 138; Dec. 29, 1995, Pub. L. 104–88, title III, §337, 109 Stat. 954.)
+(June 23, 1947, ch. 120, title III, §302, 61 Stat. 157; Pub. L. 86–257, title V, §505, Sept. 14, 1959, 73 Stat. 537; Pub. L. 91–86, Oct. 14, 1969, 83 Stat. 133; Pub. L. 93–95, Aug. 15, 1973, 87 Stat. 314; Pub. L. 95–524, §6(d), Oct. 27, 1978, 92 Stat. 2021; Pub. L. 98–473, title II, §801, Oct. 12, 1984, 98 Stat. 2131; Pub. L. 101–273, §1, Apr. 18, 1990, 104 Stat. 138; Pub. L. 104–88, title III, §337, Dec. 29, 1995, 109 Stat. 954.)
 
 #### References in Text
 

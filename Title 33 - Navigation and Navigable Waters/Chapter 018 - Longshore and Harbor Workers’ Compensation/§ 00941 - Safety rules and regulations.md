@@ -8,7 +8,7 @@ Every employer shall furnish and maintain employment and places of employment wh
 
 The Secretary, in enforcing and administering the provisions of this section, is authorized in addition to such other powers and duties as are conferred upon him—
 
-&emsp;(1) to make studies and investigations with respect to safety provisions and the causes and prevention of injuries in employments covered by this chapter, and in making such studies and investigations to cooperate with any agency of the United States or with any State agency engaged in similar work;
+&emsp;(1) to make studies and investigations with respect to safety provisions and the causes andprevention of injuries in employments covered by this chapter, and in making such studies and investigations to cooperate with any agency of the United States or with any State agency engaged in similar work;
 
 &emsp;(2) to utilize the services of any agency of the United States or any State agency engaged in similar work (with the consent of such agency) in connection with the administration of this section;
 
@@ -40,7 +40,7 @@ Any employer who, willfully, violates or fails or refuses to comply with the pro
 
 (2) The provisions of this section, with the exception of paragraph (1) of subsection (b) of this section, shall not be applied under the authority of subchapter I of chapter 81 of title 5.
 
-(Mar. 4, 1927, ch. 509, §41, 44 Stat. 1444; Aug. 23, 1958, Pub. L. 85–742, §1, 72 Stat. 835; Dec. 21, 1982, Pub. L. 97–375, title I, §110(b), 96 Stat. 1820.)
+(Mar. 4, 1927, ch. 509, §41, 44 Stat. 1444; Pub. L. 85–742, §1, Aug. 23, 1958, 72 Stat. 835; Pub. L. 97–375, title I, §110(b), Dec. 21, 1982, 96 Stat. 1820.)
 
 #### References in Text
 
@@ -58,7 +58,7 @@ Act of August 16, 1941, referred to in subsec. (g)(1), is known as the Defense B
 
 #### Codification
 
-In subsec. (d) “section 552 of title 5” substituted for “section 3 of the Administrative Procedure Act (ch. 324, 60 Stat. 237), as amended”, and in subsec. (g)(2) “subchapter I of chapter 81 of title 5” substituted for “the Act of September 7, 1916 (ch. 458, 39 Stat. 742), as amended”, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Said section 3 of the Administrative Procedure Act had beenclassified to section 1002 of former Title 5, Executive Departments and Government Officers and Employees. Said act of Sept. 7, 1916, was known as the “Federal Employees’ Compensation Act” and had been classified to section 751 et seq. of former Title 5.
+In subsec. (d) “section 552 of title 5” substituted for “section 3 of the Administrative Procedure Act (ch. 324, 60 Stat. 237), as amended”, and in subsec. (g)(2) “subchapter I of chapter 81 of title 5” substituted for “the Act of September 7, 1916 (ch. 458, 39 Stat. 742), as amended”, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Said section 3 of the Administrative Procedure Act had been classified to section 1002 of former Title 5, Executive Departments and Government Officers and Employees. Said act of Sept. 7, 1916, was known as the “Federal Employees’ Compensation Act” and had been classified to section 751 et seq. of former Title 5.
 
 As originally enacted, subsec. (e) contained the phrase “, together with the District Court for the Territory of Alaska,” following “the United States district courts”. The phrase has been deleted as superfluous in view of Pub. L. 85–508, July 7, 1958, 72 Stat. 339 (set out as a note preceding section 21 of Title 48, Territories and Insular Possessions) which admitted Alaska into the union and enacted section 81A of Title 28, Judiciary and Judicial Procedure, constituting Alaska as one judicial district and in view of section 132 of Title 28 which provides that: “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district.”
 

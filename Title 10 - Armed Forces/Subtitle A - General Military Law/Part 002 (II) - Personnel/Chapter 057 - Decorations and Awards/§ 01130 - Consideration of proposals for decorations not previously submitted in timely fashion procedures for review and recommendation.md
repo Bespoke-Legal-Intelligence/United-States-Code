@@ -28,6 +28,44 @@
 
 (Added Pub. L. 104–106, div. A, title V, §526(a), Feb. 10, 1996, 110 Stat. 313.)
 
+#### Eligibility for Armed Forces Expeditionary Medal for Participation in Operation Joint Endeavor or Operation Joint Guard
+
+Pub. L. 105–85, div. A, title V, §572, Nov. 18, 1997, 111 Stat. 1756, provided that:
+
+“(a)
+
+Inclusion of Operations.—For the purpose of determining the eligibility of members and former members of the Armed Forces for the Armed Forces Expeditionary Medal, the Secretary of Defense shall designate participation in Operation Joint Endeavor or Operation Joint Guard in the Republic of Bosnia and Herzegovina, and in such other areas in the region as the Secretary considers appropriate, as service in an area that meets the general requirements for the award of that medal.
+
+“(b)
+
+Individual Determination.—The Secretary of the military department concerned shall determine whether individual members or former members of the Armed Forces who participated in Operation Joint Endeavor or Operation Joint Guard meet the individual service requirements for award of the Armed Forces Expeditionary Medal as established in applicable regulations. A member or former member shall be considered to have participated in Operation Joint Endeavor or Operation Joint Guard if the member—
+
+&emsp;“(1) was deployed in the Republic of Bosnia and Herzegovina, or in such other area in the region as the Secretary of Defense considers appropriate, in direct support of one or both of the operations;
+
+&emsp;“(2) served on board a United States naval vessel operating in the Adriatic Sea in direct support of one or both of the operations; or
+
+&emsp;“(3) operated in airspace above the Republic of Bosnia and Herzegovina, or in such other area in the region as the Secretary of Defense considers appropriate, while the operations were in effect.
+
+“(c)
+
+Operations Defined.—For purposes of this section:
+
+&emsp;“(1) The term ‘Operation Joint Endeavor’ means operations of the United States Armed Forces conducted in the Republic of Bosnia and Herzegovina during the period beginning on November 20, 1995, and ending on December 20, 1996, to assist in implementing the General Framework Agreement and Associated Annexes, initialed on November 21, 1995, in Dayton, Ohio.
+
+&emsp;“(2) The term ‘Operation Joint Guard’ means operations of the United States Armed Forces conducted in the Republic of Bosnia and Herzegovina as a successor to Operation Joint Endeavor during the period beginning on December 20, 1996, and ending on such date as the Secretary of Defense may designate.”
+
+#### Eligibility of Certain World War II Military Organizations for Award of Unit Decorations
+
+Pub. L. 105–85, div. A, title V, §576, Nov. 18, 1997, 111 Stat. 1758, provided that:
+
+“(a)
+
+Authority.—A unit decoration may be awarded for any unit or other organization of the Armed Forces (such as the Military Intelligence Service of the Army) that (1) supported the planning or execution of combat operations during World War II primarily through unit personnel who were attached to other units of the Armed Forces or of other allied armed forces, and (2) is not otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations.
+
+“(b)
+
+Time for Submission of Recommendation.—Any recommendation for award of a unit decoration under subsection (a) shall be submitted to the Secretary concerned (as defined in section 101(a)(9) of title 10, United States Code), or to such other official as the Secretary concerned may designate, not later than two years after the date of the enactment of this Act \[Nov. 18, 1997\].”
+
 #### Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict
 
 Section 522 of Pub. L. 104–106 provided that:
@@ -86,7 +124,7 @@ Definition.—For purposes of this section:
 
 #### Military Intelligence Personnel Prevented by Secrecy From Being Considered for Decorations and Awards
 
-Section 523 of Pub. L. 104–106 provided that:
+Section 523 of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title V, §575, Nov. 18, 1997, 111 Stat. 1758, provided that:
 
 “(a)
 
@@ -96,7 +134,7 @@ Waiver on Restrictions of Awards.—(1) Any decoration covered by paragraph (2) 
 
 “(b)
 
-Review of Requests for Consideration of Awards.—(1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (a) that is received by the Secretary during the one-year period beginning on the date of the enactment of this Act \[Feb. 10, 1996\].
+Review of Requests for Consideration of Awards.—(1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (a) that is received by the Secretary during the period beginning on February 10, 1996, and ending on February 9, 1998.
 
 “(2) The Secretaries shall begin the review within 30 days after the date of the enactment of this Act and shall complete the review of each request for consideration not later than one year after the date on which the request is received.
 
@@ -104,7 +142,7 @@ Review of Requests for Consideration of Awards.—(1) The Secretary of each mili
 
 “(c)
 
-Report.—(1) Upon completing the review of each such request under subsection (b), the Secretary shall submit a report on the review to the Committee onArmed Services of the Senate and the Committee on National Security of the House of Representatives.
+Report.—(1) Upon completing the review of each such request under subsection (b), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
 
 “(2) The report shall include, with respect to each request for consideration reviewed, the following information:
 

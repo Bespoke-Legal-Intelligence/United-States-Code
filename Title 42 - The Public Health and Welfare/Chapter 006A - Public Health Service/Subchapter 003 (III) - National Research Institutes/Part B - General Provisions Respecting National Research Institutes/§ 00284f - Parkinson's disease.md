@@ -1,0 +1,78 @@
+### §284f. Parkinson's disease
+
+#### (a) In general
+
+The Director of NIH shall establish a program for the conduct and support of research and training with respect to Parkinson's disease (subject to the extent of amounts appropriated under subsection (e) of this section).
+
+#### (b) Inter-institute coordination
+
+#### (1) In general
+
+&emsp;The Director of NIH shall provide for the coordination of the program established under subsection (a) of this section among all of the national research institutes conducting Parkinson's disease research.
+
+#### (2) Conference
+
+&emsp;Coordination under paragraph (1) shall include the convening of a research planning conference not less frequently than once every 2 years. Each such conference shall prepare and submit to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Commerce of the House of Representatives a report concerning the conference.
+
+#### (c) Morris K. Udall research centers
+
+#### (1) In general
+
+&emsp;The Director of NIH is authorized to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson's disease. The Director is authorized to award not more than 10 Core Center Grants and designate each center funded under such grants as a Morris K. Udall Center for Research on Parkinson's Disease.
+
+#### (2) Requirements
+
+#### (A) In general
+
+&emsp;&emsp;With respect to Parkinson's disease, each center assisted under this subsection shall—
+
+&emsp;&emsp;&emsp;(i) use the facilities of a single institution or a consortium of cooperating institutions, and meet such qualifications as may be prescribed by the Director of the NIH; and
+
+&emsp;&emsp;&emsp;(ii) conduct basic and clinical research.
+
+#### (B) Discretionary requirements
+
+&emsp;&emsp;With respect to Parkinson's disease, each center assisted under this subsection may—
+
+&emsp;&emsp;&emsp;(i) conduct training programs for scientists and health professionals;
+
+&emsp;&emsp;&emsp;(ii) conduct programs to provide information and continuing education to health professionals;
+
+&emsp;&emsp;&emsp;(iii) conduct programs for the dissemination of information to the public;
+
+&emsp;&emsp;&emsp;(iv) separately or in collaboration with other centers, establish a nationwide data system derived from patient populations with Parkinson's disease, and where possible, comparing relevant data involving general populations;
+
+&emsp;&emsp;&emsp;(v) separately or in collaboration with other centers, establish a Parkinson's Disease Information Clearinghouse to facilitate and enhance knowledge and understanding of Parkinson's disease; and
+
+&emsp;&emsp;&emsp;(vi) separately or in collaboration with other centers, establish a national education program that fosters a national focus on Parkinson's disease and the care of those with Parkinson's disease.
+
+#### (3) Stipends regarding training programs
+
+&emsp;A center may use funds provided under paragraph (1) to provide stipends for scientists and health professionals enrolled in training programs under paragraph (2)(B).
+
+#### (4) Duration of support
+
+&emsp;Support of a center under this subsection may be for a period not exceeding five years. Such period may be extended by the Director of NIH for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+
+#### (d) Morris K. Udall Awards for Excellence in Parkinson's Disease Research
+
+The Director of NIH is authorized to establish a grant program to support investigators with a proven record of excellence and innovation in Parkinson's disease research and who demonstrate potential for significant future breakthroughs in the understanding of the pathogensis,<sup>1</sup> diagnosis, and treatment of Parkinson's disease. Grants under this subsection shall be available for a period of not to exceed 5 years.
+
+#### (e) Authorization of appropriations
+
+For the purpose of carrying out this section and section 241 of this title and this subchapter with respect to research focused on Parkinson's disease, there are authorized to be appropriated up to $100,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 and 2000.
+
+(July 1, 1944, ch. 373, title IV, §409B, as added Nov. 13, 1997, Pub. L. 105–78, title VI, §603(c), 111 Stat. 1520.)
+
+#### Finding and Purpose
+
+Section 603(b) of Pub. L. 105–78 provided that:
+
+“(1)
+
+Finding.—Congress finds that to take full advantage of the tremendous potential for finding a cure or effective treatment, the Federal investment in Parkinson's disease must be expanded, as well as the coordination strengthened among the National Institutes of Health research institutes.
+
+“(2)
+
+Purpose.—It is the purpose of this section \[enacting this section\] to provide for the expansion and coordination of research regarding Parkinson's disease, and to improve care and assistance for afflicted individuals and their family caregivers.”
+

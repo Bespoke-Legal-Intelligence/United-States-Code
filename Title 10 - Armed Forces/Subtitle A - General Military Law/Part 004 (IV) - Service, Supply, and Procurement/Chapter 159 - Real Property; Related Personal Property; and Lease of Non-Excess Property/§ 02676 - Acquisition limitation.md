@@ -18,7 +18,7 @@
 
 > until subsection (d) is complied with.
 
-(d) The limitations on reduction in scope or increase in cost of a land acquisition in subsection (c) do not apply if the reduction in scope or the increase in cost, as the case may be, is approved by the Secretary concerned and a writtennotification of the facts relating to the proposed reduced scope or increased cost (including a statement of the reasons therefor) is submitted by the Secretary concerned to the appropriate committees of Congress. A contract for the acquisition may then be awarded only after a period of 21 days elapses from the date the notification is received by the committees.
+(d) The limitations on reduction in scope or increase in cost of a land acquisition in subsection (c) do not apply if the reduction in scope or the increase in cost, as the case may be, is approved by the Secretary concerned and a written notification of the facts relating to the proposed reduced scope or increased cost (including a statement of the reasons therefor) is submitted by the Secretary concerned to the appropriate committees of Congress. A contract for the acquisition may then be awarded only after a period of 21 days elapses from the date the notification is received by the committees.
 
 (e) The Secretary concerned shall promptly pay any deficiency judgment against the United States awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
 

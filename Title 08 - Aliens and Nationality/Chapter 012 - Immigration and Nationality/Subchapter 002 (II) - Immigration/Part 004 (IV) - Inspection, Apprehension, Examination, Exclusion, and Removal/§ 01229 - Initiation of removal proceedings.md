@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In removal proceedings under section 1229a of this title, written notice (in this section referred to as a “notice to appear”) shall be given in person to the alien (or, if personalservice is not practicable, through service by mail to the alien or to the alien's counsel of record, if any) specifying the following:
+&emsp;In removal proceedings under section 1229a of this title, written notice (in this section referred to as a “notice to appear”) shall be given in person to the alien (or, if personal service is not practicable, through service by mail to the alien or to the alien's counsel of record, if any) specifying the following:
 
 &emsp;&emsp;(A) The nature of the proceedings against the alien.
 

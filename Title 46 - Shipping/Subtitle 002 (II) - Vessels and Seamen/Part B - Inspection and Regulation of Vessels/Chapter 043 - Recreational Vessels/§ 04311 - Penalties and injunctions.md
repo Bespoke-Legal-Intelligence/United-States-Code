@@ -8,7 +8,7 @@
 
 &emsp;(2) at the time of the order or authorization, the director, officer, or executive employee advised the Secretary in writing of acting under this clause and clause (1) of this subsection.
 
-(c) A person violating any other provision of this chapter or other regulation prescribed under this chapter is liable to the Government for a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+(c) A person violating any other provision of this chapter or other regulation prescribed under this chapter is liable to the Governmentfor a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
 
 (d) When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under section 636(b) of title 28.
 

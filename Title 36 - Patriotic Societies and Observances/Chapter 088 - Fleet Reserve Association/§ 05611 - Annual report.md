@@ -6,5 +6,5 @@ The association shall annually submit to Congress a report concerning the activi
 
 #### References in Text
 
-Section 1101(77) of this title, referred to in text, was in the original “section 1811”, meaning section 1811 of Pub. L. 104–201, which amended section 1101 of this title to include the Fleet Reserve Association within the definition of “private corporations established under Federal law”. Section 1103 of this title requires a report to Congress on the annual audit of private corporations established under Federal law.
+Section 1101(77) of this title, referred to in text, was in the original “section 1811”, meaning section 1811 of Pub. L. 104–201, which amended section 1101 of this title to include the Fleet Reserve Association within thedefinition of “private corporations established under Federal law”. Section 1103 of this title requires a report to Congress on the annual audit of private corporations established under Federal law.
 

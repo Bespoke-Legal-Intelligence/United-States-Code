@@ -26,7 +26,7 @@
 
 > &emsp;For the purpose of this paragraph and subsection (e) of this section, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while he is regularly pursuing such a course of study or training, is deemed to have become 22 years of age on the first day of July after that birthday. A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 5 months and if he shows to the satisfaction of the Office of Personnel Management that he has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately after the interim.
 
-(b)(1) Except as provided in paragraph (2) of this subsection, if an employee or Member dies after having retired under this subchapter and is survived by a widow or widower, the widow or widower is entitled to an annuity equal to 55 percent (or 50 percent if retired before October 11, 1962) of an annuity computed under section 8339(a)–(i), (n), (p), and (q) of this title as may apply with respect to the annuitant, or of such portion thereof as may have been designated for this purpose under section 8339(j)(1) of this title, unless the right to a survivor annuity was waived under such section 8339(j)(1) or, in the case of remarriage, the employee or Member did not file an election under section 8339(j)(5)(C) or section 8339(k)(2) of this title, as the case may be.
+(b)(1) Except as provided in paragraph (2) of this subsection, if an employee or Member dies after having retired under this subchapter and is survived by a widow or widower, the widow or widower is entitled to an annuity equal to 55percent (or 50 percent if retired before October 11, 1962) of an annuity computed under section 8339(a)–(i), (n), (p), (q), and (r) as may apply with respect to the annuitant, or of such portion thereof as may have been designated for this purpose under section 8339(j)(1) of this title, unless the right to a survivor annuity was waived under such section 8339(j)(1) or, in the case of remarriage, the employee or Member did not file an election under section 8339(j)(5)(C) or section 8339(k)(2) of this title, as the case may be.
 
 (2) If an annuitant—
 
@@ -40,7 +40,7 @@
 
 &emsp;(A) dies; or
 
-&emsp;(B) remarries before becoming 55 years of age.
+&emsp;(B) except as provided in subsection (k), remarries before becoming 55 years of age.
 
 (4) Notwithstanding the preceding provisions of this subsection, the annuity payable under this subsection to the widow or widower of a retired employee or Member may not exceed the difference between—
 
@@ -50,13 +50,13 @@
 
 (c) The annuity of a survivor named under section 8339(k)(1) of this title is 55 percent of the reduced annuity of the retired employee or Member. The annuity of the survivor commences on the day after the retired employee or Member dies. This annuity and the right thereto terminate on the last day of the month before the survivor dies.
 
-(d) If an employee or Member dies after completing at least 18 months of civilian service, his widow or widower is entitled to an annuity equal to 55 percent of an annuity computed under section 8339(a)–(f), (i), (n), (p), and (q) of this title as may apply with respect to the employee or Member, except that, in the computation of the annuity under such section, the annuity of the employee or Member shall be at least the smaller of—
+(d) If an employee or Member dies after completing at least 18 months of civilian service, his widow or widower is entitled to an annuity equal to 55 percent of an annuity computed under section 8339(a)–(f), (i), (n), (p), (q), and (r) as may apply with respect to the employee or Member, except that, in the computation of the annuity under such section, the annuity of the employee or Member shall be at least the smaller of—
 
 &emsp;(1) 40 percent of his average pay; or
 
 &emsp;(2) the sum obtained under such section after increasing his service of the type last performed by the period elapsing between the date of death and the date he would have become 60 years of age.
 
-> Notwithstanding the preceding sentence, the annuity payable under this subsection to thewidow or widower of an employee or Member may not exceed the difference between—
+> Notwithstanding the preceding sentence, the annuity payable under this subsection to the widow or widower of an employee or Member may not exceed the difference between—
 
 &emsp;(A) the amount which would otherwise be payable to such widow or widower under this subsection, and
 
@@ -66,7 +66,7 @@
 
 &emsp;(i) dies; or
 
-&emsp;(ii) remarries before becoming 55 years of age.
+&emsp;(ii) except as provided in subsection (k), remarries before becoming 55 years of age.
 
 (e)(1) For the purposes of this subsection, “former spouse” includes a former spouse who was married to an employee or Member for less than 9 months and a former spouse of an employee or Member who completed less than 18 months of service covered by this subchapter.
 
@@ -154,7 +154,7 @@
 
 &emsp;(B) shall terminate—
 
-&emsp;&emsp;(i) in the case of an annuity computed by reference to clause (i) or (ii) of paragraph (2)(B) of this subsection, no later than the last day of the month before the former spouse remarries before becoming 55 years of age or dies; or
+&emsp;&emsp;(i) except as provided in subsection (k), in the case of an annuity computed by reference to clause (i) or (ii) of paragraph (2)(B) of this subsection, no later than the last day of the month before the former spouse remarries before becoming 55 years of age or dies; or
 
 &emsp;&emsp;(ii) in the case of an annuity computed by reference to clause (iii) of such paragraph, no later than the last day of the month before the former spouse remarries or dies.
 
@@ -176,7 +176,11 @@
 
 &emsp;(2) the surviving spouse of such individual had been previously married to the individual and subsequently divorced, and the aggregate time married is at least 9 months.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 577; Pub. L. 90–83, §1(80), Sept. 11, 1967, 81 Stat. 216; Pub. L. 91–93, title II, §206, Oct. 20, 1969, 83 Stat. 140; Pub. L. 91–658, §3, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–243, §1, Mar. 9, 1972, 86 Stat. 56; Pub. L. 92–297, §7(4), May 16, 1972, 86 Stat. 145; Pub. L. 93–260, §1(a), Apr. 9, 1974, 88 Stat. 76; Pub. L. 94–183, §2(36), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–317, §1(b), July 10, 1978, 92 Stat. 382; Pub. L. 95–318, §2, July 10, 1978, 92 Stat. 384; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(c), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §1, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–615, §2(4), Nov. 8, 1984, 98 Stat. 3199; Pub. L. 99–251, title II, §§205–207, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–272, title XV, §15204(a)(2), Apr. 7, 1986, 100 Stat. 335; Pub. L. 101–428, §2(d)(7), Oct. 15, 1990, 104 Stat. 929; Pub. L. 102–378, §2(63), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §633(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362.)
+(k)(1) <sup>1</sup> Subsections (b)(3)(B), (d)(ii), and (h)(3)(B)(i) (to the extent that they provide for termination of a survivor annuity because of a remarriage before age 55) shall not apply if the widow, widower, or former spouse was married for at least 30 years to the individual on whose service the survivor annuity is based.
+
+(2) A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8339(j)(5)(B) or (C) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 577; Pub. L. 90–83, §1(80), Sept. 11, 1967, 81 Stat. 216; Pub. L. 91–93, title II, §206, Oct. 20, 1969, 83 Stat. 140; Pub. L. 91–658, §3, Jan. 8, 1971, 84 Stat. 1961; Pub. L. 92–243, §1, Mar. 9, 1972, 86 Stat. 56; Pub. L. 92–297, §7(4), May 16, 1972, 86 Stat. 145; Pub. L. 93–260, §1(a), Apr. 9, 1974, 88 Stat. 76; Pub. L. 94–183, §2(36), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–317, §1(b), July 10, 1978, 92 Stat. 382; Pub. L. 95–318, §2, July 10, 1978, 92 Stat. 384; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(c), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §1, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–615, §2(4), Nov. 8, 1984, 98 Stat. 3199; Pub. L. 99–251, title II, §§205–207, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–272, title XV, §15204(a)(2), Apr. 7, 1986, 100 Stat. 335; Pub. L. 101–428, §2(d)(7), Oct. 15, 1990, 104 Stat. 929; Pub. L. 102–378, §2(63), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §633(a)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362; Pub. L. 105–61, title V, §§516(a)(4), 518(a), Oct. 10, 1997, 111 Stat. 1306, 1307.)
 
 Historical and Revision Notes<br>1966
 
@@ -216,7 +220,7 @@ Sept. 6, 1960, Pub. L. 86–713, §1(a), 74 Stat. 813.
 
 Oct. 11, 1962, Pub. L. 87–793, §1103 (less (a) and (f)(A)), 76 Stat. 870, 871.
 
-In subsection (b), the words “designated for this purpose under section 8339(i) of this title” are substitutedfor “designated in writing for such purpose by the employee or Member at the time of retirement” in view of the provisions of section 8339(i).
+In subsection (b), the words “designated for this purpose under section 8339(i) of this title” are substituted for “designated in writing for such purpose by the employee or Member at the time of retirement” in view of the provisions of section 8339(i).
 
 In subsection (f), the words “heretofore or hereafter” are substituted “either prior to, on, or after the effective date of the Civil Service Retirement Act Amendments of 1956”.
 
@@ -279,6 +283,16 @@ In subsection (g), the words “after July 18, 1966” are substituted for “he
 The Act of May 29, 1930, as amended from and after February 28, 1948, referred to in subsec. (e)(3), is the predecessor of section 8338 of this title.
 
 #### Amendments
+
+1997—Subsec. (b)(1). Pub. L. 105–61, §516(a)(4), substituted “(q), and (r)” for “and (q) of this title”.
+
+Subsec. (b)(3)(B). Pub. L. 105–61, §518(a)(2)(A), substituted “except as provided in subsection (k), remarries” for “remarries”.
+
+Subsec. (d). Pub. L. 105–61, §§516(a)(4), 518(a)(2)(A), substituted “(q), and (r)” for “and (q) of this title” in introductory provisions and “except as provided in subsection (k), remarries” for “remarries” in cl. (ii).
+
+Subsec. (h)(3)(B)(i). Pub. L. 105–61, §518(a)(2)(B), substituted “except as provided in subsection (k), in” for “in”.
+
+Subsec. (k). Pub. L. 105–61, §518(a)(1), added subsec. (k).
 
 1996—Subsec. (e)(4). Pub. L. 104–208 added par. (4).
 
@@ -360,13 +374,19 @@ Subsec. (d). Pub. L. 92–297, §7(4)(iii), substituted “section 8339(a)–(f)
 
 Subsec. (b). Pub. L. 91–658, §3(b), designated existing first sentence as par. (1), and inserted exception phrase, provision for survival by widow or widower whom employee or Member marries after retirement, entitlement of widow or widower to 55 percent annuity (limited to 50 percent where retirement before Oct. 11, 1962), and substituted “any spouse surviving him” for “his spouse”; added par. (2); and added par. (3), first sentence, respecting entitlement to survivor annuity by a spouse acquired after retirement upon election from available survivor benefits, and designated as second and third sentences former second and third sentences, providing for widows and widowers and substituting “annuitant” for “retired employee or member”.
 
-Subsec. (d). Pub. L. 91–658, §3(c), substituted “his widow or widower” for “the widow or dependent widower of the employee or Member” in first sentence, struck out “or dependent” before “widower” in second sentence, and substituted in third sentence provision for termination of annuity where widow or widower dies or remarries before becoming 60 years of age for prior termination of annuity before widow or dependent widower dies, the dependent widower becomes capable of self-support, the widow or dependent widower of an employee remarries before becoming 60 years of age, or the widow or dependent widower of a member remarries.
+Subsec. (d). Pub. L. 91–658, §3(c), substituted “his widow or widower” for “the widow or dependent widower of the employee or Member” in first sentence, struck out “or dependent” before “widower” in second sentence, and substituted in third sentence provision for termination of annuity where widow or widower dies or remarries before becoming 60 years of age for prior termination of annuity before widow or dependentwidower dies, the dependent widower becomes capable of self-support, the widow or dependent widower of an employee remarries before becoming 60 years of age, or the widow or dependent widower of a member remarries.
 
 Subsec. (e)(2). Pub. L. 91–658, §3(d), substituted reference to “subsection (a)(3)” for “subsection (a)(4)”.
 
 1969—Subsec. (d). Pub. L. 91–93, §206(a), provided for entitlement to a survivor annuity after an 18 month rather than a 5 year period of civilian service and prescribed as the annuity the smaller of two computations when computing the annuity under section 8399 (a) to (e) and (h) of this title.
 
 Subsec. (e)(1). Pub. L. 91–93, §206(b), increased annuity of a surviving child, substituting “eighteen months” for “five years” of civilian service in par. (1), “60 percent”, “$900”, and “$2,700” for “40 percent”, “$600”, and “$1,800” in cls. (A), (B), and (C), respectively, and “75 percent”, “$1,080”, and “$3,240”, for “50 percent”, “$720”, and “$2,160” in cls. (i), (ii), and (iii), respectively.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by section 516(a) of Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
+
+Section 518(c) of Pub. L. 105–61 provided that: “The amendments made by this section \[amending this section and sections 8442 and 8445 of this title\] shall apply with respect to remarriages occurring on or after January 1, 1995.”
 
 #### Effective Date of 1996 Amendment
 
@@ -406,13 +426,13 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 “(C) Any election by an employee or Member described in subparagraph (B) to provide a survivor annuity for that individual's spouse by a marriage described in such subparagraph shall be effective if made in accordance with the applicable provisions of section 8339(j)(1) or 8339(k)(2) of title 5, United States Code, as the case may be, as in effect on May 6, 1985.
 
-“(5)(A) Paragraphs (3), (4), and (5)(B) of section 8339(j) of title 5, United States Code (as added by section2(3)(A) of this Act), shall apply in the case of a former spouse of an employee or Member whose marriage to such employee or Member terminated before May 7, 1985, if such employee or Member retires on or after such date. The paragraphs referred to in the preceding sentence shall so apply only insofar as they relate to an election to provide a survivor annuity for a former spouse.
+“(5)(A) Paragraphs (3), (4), and (5)(B) of section 8339(j) of title 5, United States Code (as added by section 2(3)(A) of this Act), shall apply in the case of a former spouse of an employee or Member whose marriage to such employee or Member terminated before May 7, 1985, if such employee or Member retires on or after such date. The paragraphs referred to in the preceding sentence shall so apply only insofar as they relate to an election to provide a survivor annuity for a former spouse.
 
 “(B)(i) The requirement described in clause (ii) shall not apply to an election made by an employee or Member under section 8339(j)(3) of title 5, United States Code (as amended by section 2(3)(A) of this Act), in order to provide a survivor annuity under section 8341(h) of such title (as amended by section 2(4)(G) of this Act) in the case of a former spouse referred to in subparagraph (A) if the election meets the requirements of clause (iii).
 
 “(ii) The requirement referred to in clause (i) is the requirement prescribed in section 8339(j)(3) of title 5, United States Code, for an employee or Member to make an election in the case of a former spouse under such section 8339(j)(3) at the time of retirement or, if later, within 2 years after the date on which the marriage of the former spouse to the employee or Member is dissolved.
 
-“(iii) Clause (i) applies to an election which is made by an employee or Member who retires on or after May 7, 1985, and before the date of the enactment of the Federal Employees Benefits Improvement Act of 1986 \[Feb. 27, 1986\], and is received by the Office of Personnel Management within the 2-year period beginning on the date of the enactment of such Act.
+“(iii) Clause (i) applies to an election which is made by an employee or Member who retires on or after May 7, 1985, and before the date of the enactment of the Federal Employees Benefits Improvement Act of 1986 \[Feb.27, 1986\], and is received by the Office of Personnel Management within the 2-year period beginning on the date of the enactment of such Act.
 
 “(C) A survivor annuity shall be paid a former spouse as provided in section 8341(h) of title 5, United States Code (as amended by section 2(4)(G) of this Act), pursuant to an election made in the case of such former spouse under this paragraph.
 
@@ -458,13 +478,13 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 > and shall not be subject to reduction under section 8341(h)(2) of such title, as amended by this Act.
 
-“(c) Notwithstanding subsection (a)(1) of this section, an employee or Member who retired before the one hundred and eightieth day after the date of enactment of this Act \[Nov. 8, 1984\] and who is married to a spouse acquired after retirement for whom such employee orMember was unable to provide a survivor annuity because—
+“(c) Notwithstanding subsection (a)(1) of this section, an employee or Member who retired before the one hundred and eightieth day after the date of enactment of this Act \[Nov. 8, 1984\] and who is married to a spouse acquired after retirement for whom such employee or Member was unable to provide a survivor annuity because—
 
 &emsp;“(1) the employee or Member was married at the time of retirement and elected not to provide a survivor annuity for the employee or Member's spouse at the time of retirement, or
 
 &emsp;“(2) the employee or Member failed to notify the Office of the employee or Member's post-retirement marriage within one year after the marriage,
 
-> may elect in writing, within one year after the date of enactment of this Act, in accordance with procedures prescribed by the Office, to provide for a survivor annuity for such spouse under section 8341(b) of title 5, United States Code, as amended by this Act, to have the retired employee or Member's annuity reduced under section 8339(j) of such title, as so amended, and to deposit in the Civil Service Retirement and Disability Fund an amount determined by the Office, as nearly as may be administratively feasible, to reflect the amount by which such employee or Member's annuity would have been reduced had the election been continuously in effect since the annuity commenced, plus interest. For the purposes of the preceding sentence, the annual rate of interest for each year during which the annuity would have been reduced if the election had been in effect on and after the date the annuity commenced shall be 6 percent. If the retired employee or Member does not make such deposit, the Office shall collect such amount by offset against such employee or Member's annuity, up to a maximum of 25 percent of the net annuity otherwise payable to such employee or Member, and such employee or Member is deemed to consent to such offset. The Office shall provide for general public notice of the right to make an election under this subsection. In cases to which paragraph (2) of this subsection applies, the retired employee or Member shall provide the Office with such documentation as the Office shall decide is appropriate, that such employee or Member attempted to elect a reduced annuity with survivor benefit for such employee or Member's current spouse and that such employee or Member's election was rejected by the Office because it was untimely filed.
+> may elect in writing, within one year after the date of enactment of this Act, in accordance with procedures prescribed by the Office, to provide for a survivor annuity for such spouse under section 8341(b) of title 5, United States Code, as amended by this Act, to have the retired employee or Member's annuity reduced under section 8339(j) of such title, as so amended, and to deposit in the Civil Service Retirement and Disability Fund an amount determined by the Office, as nearly as may be administratively feasible, to reflect the amount by which such employee or Member's annuity would have been reduced had the election been continuously in effect since the annuity commenced, plus interest. For the purposes of the preceding sentence, the annual rate of interest for each year during which the annuity would have been reduced if the election had been in effect on and after the date the annuity commenced shall be 6 percent. If the retired employee or Member does not make such deposit, the Office shallcollect such amount by offset against such employee or Member's annuity, up to a maximum of 25 percent of the net annuity otherwise payable to such employee or Member, and such employee or Member is deemed to consent to such offset. The Office shall provide for general public notice of the right to make an election under this subsection. In cases to which paragraph (2) of this subsection applies, the retired employee or Member shall provide the Office with such documentation as the Office shall decide is appropriate, that such employee or Member attempted to elect a reduced annuity with survivor benefit for such employee or Member's current spouse and that such employee or Member's election was rejected by the Office because it was untimely filed.
 
 “(d) A deposit required by subsection (b)(1)(A) or (c) of this section may be made by the surviving former spouse or spouse, as applicable, of the retired employee or Member.
 
@@ -530,7 +550,7 @@ Section 1(b) of Pub. L. 93–260 provided that: “The amendments made by subsec
 
 Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
 
-Section 2 of Pub. L. 92–243 provided that: “The amendment made by the first section of this Act \[amending this section\] is effective upon enactment \[Mar. 9, 1972\]. Upon application to the Civil Service Commission, it also applies to a child of an employee or Member who died or retired before such date of enactment \[Mar. 9, 1972\] but no annuity shall be paid by reason of the amendment for any period prior to the date of enactment.”
+Section 2 of Pub. L. 92–243 provided that: “The amendment made by the first section of this Act \[amending this section\] is effective upon enactment \[Mar. 9, 1972\]. Upon application to the Civil Service Commission, it also applies to a child of an employee or Member who died or retired before such date of enactment \[Mar. 9, 1972\] but no annuity shall be paid byreason of the amendment for any period prior to the date of enactment.”
 
 #### Effective Date of 1969 Amendments
 
@@ -596,7 +616,7 @@ Section 205 of Pub. L. 91–93 provided that: “The provisions of subsection (b
 
 > except that no annuity shall be paid by reason of this section for any period prior to the enactment of this section. No annuity shall be terminated solely by reason of the enactment of this section. Notwithstanding the prohibition contained in the first sentence of this section on the payment of annuity for any period prior to the enactment of this section, in any case in which the Civil Service Commission determines that—
 
-&emsp;“(1) the remarriage of any widow or widower described in such sentence was entered into by the widow or widower in good faith and in reliance on erroneous information provided by Government authority prior to that remarriage that the then existing survivor annuity of the widow or widower would not be terminated because of the remarriage; and
+&emsp;“(1) the remarriage of any widow or widower described in such sentence was entered into by the widow or widower in good faith and in reliance on erroneous information provided by Government authority prior to that remarriage that the then existingsurvivor annuity of the widow or widower would not be terminated because of the remarriage; and
 
 &emsp;“(2) such annuity was terminated by law because of that remarriage;
 
@@ -605,4 +625,6 @@ Section 205 of Pub. L. 91–93 provided that: “The provisions of subsection (b
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8331, 8333, 8339, 8340, 8342, 8343a, 8344, 8348, 8901, 8905, 8908 of this title; title 10 sections 1450, 1452; title 22 section 4069–1; title 38 sections 7426, 7438; title 50 section 403s.
+
+<i><sup>1</sup></i><i> So in original. No subsec. (j) has been enacted.</i>
 

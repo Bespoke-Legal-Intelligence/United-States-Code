@@ -14,7 +14,7 @@
 
 &emsp;(6) describe the means to be used to verify and validate measured values.
 
-(b) If an agency, in consultation with the Director of the Office of Management and Budget,determines that it is not feasible to express the performance goals for a particular program activity in an objective, quantifiable, and measurable form, the Director of the Office of Management and Budget may authorize an alternative form. Such alternative form shall—
+(b) If an agency, in consultation with the Director of the Office of Management and Budget, determines that it is not feasible to express the performance goals for a particular program activity in an objective, quantifiable, and measurable form, the Director of the Office of Management and Budget may authorize an alternative form. Such alternative form shall—
 
 &emsp;(1) include separate descriptive statements of—
 
@@ -102,7 +102,7 @@ Purposes.—The purposes of this Act \[see Short Title of 1993 Amendment note se
 
 #### Congressional Oversight
 
-Section 8(a) of Pub. L. 103–62 provided that: “Nothing in this Act \[see Short Title of 1993 Amendment note set out under section 1101 of this title\] shall be construed as limiting the ability of Congress to establish, amend,suspend, or annul a performance goal. Any such action shall have the effect of superseding that goal in the plan submitted under section 1105(a)(29) \[now 1105(a)(28)\] of title 31, United States Code.”
+Section 8(a) of Pub. L. 103–62 provided that: “Nothing in this Act \[see Short Title of 1993 Amendment note set out under section 1101 of this title\] shall be construed as limiting the ability of Congress to establish, amend, suspend, or annul a performance goal. Any such action shall have the effect of superseding that goal in the plan submitted under section 1105(a)(29) \[now 1105(a)(28)\] of title 31, United States Code.”
 
 #### General Accounting Office Report
 
@@ -116,7 +116,7 @@ Section 9 of Pub. L. 103–62 provided that: “The Office of Personnel Manageme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1105, 1116, 1117, 1118, 1119, 9703, 9704 of this title; title 5 section 306; title 40 section 1425.
+This section is referred to in sections 1105, 1116, 1117, 1118, 1119, 9703, 9704 of this title; title 5 section 306; title 15 section 638; title 40 section 1425.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Schedule of Fees.—The Secretary of Transportation shall prescribe a schedule o
 
 (b)
 
-Imposition and Time of Collection.—A fee shall be imposed on each person operating a gas pipeline transmission facility, a liquefied natural gas pipeline facility, or a hazardous liquid pipeline facility to which chapter 601 of this title applies. The fee shall be collected before the end of the fiscal year to which it applies.
+Imposition and Time of Collection.—A fee shall be imposed on each person operating a gas pipeline transmission facility, a liquefied natural gas pipeline facility, or a hazardous liquidpipeline facility to which chapter 601 of this title applies. The fee shall be collected before the end of the fiscal year to which it applies.
 
 (c)
 

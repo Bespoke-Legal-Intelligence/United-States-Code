@@ -36,7 +36,7 @@
 
 #### Termination Date of 1985 Amendment
 
-Amendment by Pub. L. 99–87 not effective after Dec. 31, 1997, see section 5 of Pub. L. 99–87, as amended, set out as a Termination Date note under section 3220 of this title.
+Amendment by Pub. L. 99–87 not effective after Dec. 31, 2002, see section 5 of Pub. L. 99–87, as amended, set out as a Termination Date note under section 3220 of this title.
 
 #### Transfer of Functions
 

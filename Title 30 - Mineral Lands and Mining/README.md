@@ -1,5 +1,5 @@
 
-30 U.S.C.<br>United States Code, 1996 Edition<br>Title 30 - MINERAL LANDS AND MINING<br>From the U.S. Government Publishing Office, www.gpo.gov
+30 U.S.C.<br>United States Code, 1997 Edition<br>Title 30 - MINERAL LANDS AND MINING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 30—MINERAL LANDS AND MINING
 
@@ -28,10 +28,10 @@
 | [<b>19.</b>](Chapter%20019%20-%20Lead%20and%20Zinc%20Stabilization%20Program/README.md) | <b>Lead and Zinc Stabilization Program \[Omitted\]</b> | <b>681</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Conveyances%20to%20Occupants%20of%20Unpatented%20Mining%20Claims/README.md) | <b>Conveyances to Occupants of Unpatented Mining Claims</b> | <b>701</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Metal%20and%20Nonmetallic%20Mine%20Safety/README.md) | <b>Metal and Nonmetallic Mine Safety \[Repealed\]</b> | <b>721</b> |
-| <b>22.</b> | <b>Mine Safety and Health</b> | <b>801</b> |
+| [<b>22.</b>](Chapter%20022%20-%20Mine%20Safety%20and%20Health/README.md) | <b>Mine Safety and Health</b> | <b>801</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Geothermal%20Steam%20and%20Associated%20Geothermal%20Resources/README.md) | <b>Geothermal Steam and Associated Geothermal Resources</b> | <b>1001</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Geothermal%20Energy%20Research%2C%20Development%2C%20and%20Demonstration/README.md) | <b>Geothermal Energy Research, Development, and Demonstration</b> | <b>1101</b> |
-| <b>25.</b> | <b>Surface Mining Control and Reclamation</b> | <b>1201</b> |
+| [<b>25.</b>](Chapter%20025%20-%20Surface%20Mining%20Control%20and%20Reclamation/README.md) | <b>Surface Mining Control and Reclamation</b> | <b>1201</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Deep%20Seabed%20Hard%20Mineral%20Resources/README.md) | <b>Deep Seabed Hard Mineral Resources</b> | <b>1401</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Geothermal%20Energy/README.md) | <b>Geothermal Energy</b> | <b>1501</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Materials%20and%20Minerals%20Policy%2C%20Research%2C%20and%20Development/README.md) | <b>Materials and Minerals Policy, Research, and Development</b> | <b>1601</b> |
@@ -69,8 +69,10 @@
 - [Chapter 019 - Lead and Zinc Stabilization Program](Chapter%20019%20-%20Lead%20and%20Zinc%20Stabilization%20Program/README.md)
 - [Chapter 020 - Conveyances to Occupants of Unpatented Mining Claims](Chapter%20020%20-%20Conveyances%20to%20Occupants%20of%20Unpatented%20Mining%20Claims/README.md)
 - [Chapter 021 - Metal and Nonmetallic Mine Safety](Chapter%20021%20-%20Metal%20and%20Nonmetallic%20Mine%20Safety/README.md)
+- [Chapter 022 - Mine Safety and Health](Chapter%20022%20-%20Mine%20Safety%20and%20Health/README.md)
 - [Chapter 023 - Geothermal Steam and Associated Geothermal Resources](Chapter%20023%20-%20Geothermal%20Steam%20and%20Associated%20Geothermal%20Resources/README.md)
 - [Chapter 024 - Geothermal Energy Research, Development, and Demonstration](Chapter%20024%20-%20Geothermal%20Energy%20Research%2C%20Development%2C%20and%20Demonstration/README.md)
+- [Chapter 025 - Surface Mining Control and Reclamation](Chapter%20025%20-%20Surface%20Mining%20Control%20and%20Reclamation/README.md)
 - [Chapter 026 - Deep Seabed Hard Mineral Resources](Chapter%20026%20-%20Deep%20Seabed%20Hard%20Mineral%20Resources/README.md)
 - [Chapter 027 - Geothermal Energy](Chapter%20027%20-%20Geothermal%20Energy/README.md)
 - [Chapter 028 - Materials and Minerals Policy, Research, and Development](Chapter%20028%20-%20Materials%20and%20Minerals%20Policy%2C%20Research%2C%20and%20Development/README.md)

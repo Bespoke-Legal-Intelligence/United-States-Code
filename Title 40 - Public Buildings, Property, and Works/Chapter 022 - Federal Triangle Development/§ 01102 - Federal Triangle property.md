@@ -4,11 +4,11 @@
 
 #### (1) General rule
 
-&emsp;Subject to such terms and conditions as the Administrator and the Corporation may establish, the Administrator shall transfer, withoutcompensation, to the Corporation title to the Federal Triangle property for development under this chapter.
+&emsp;Subject to such terms and conditions as the Administrator and the Corporation may establish, the Administrator shall transfer, without compensation, to the Corporation title to the Federal Triangle property for development under this chapter.
 
 #### (2) Duration of transfer
 
-&emsp;Title to the Federal Triangle property shall revert to the Administrator at such time as the Administrator and the Corporation agree but not later than the date on which ownership of the building to be constructed on such property under section 1104 of this title vests in the United States. On and after such date, title to such building shall be in the Administrator.
+&emsp;Title to the Federal Triangle property shall revert to the Administrator at such time as the Administrator and the Corporation agree but not later than the date on which ownership of the building to be constructed on suchproperty under section 1104 of this title vests in the United States. On and after such date, title to such building shall be in the Administrator.
 
 #### (3) Legal description
 

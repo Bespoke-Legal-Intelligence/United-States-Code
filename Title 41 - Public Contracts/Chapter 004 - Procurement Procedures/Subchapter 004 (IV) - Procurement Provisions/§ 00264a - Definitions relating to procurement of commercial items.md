@@ -2,7 +2,7 @@
 
 As used in this subchapter, the terms “commercial item”, “nondevelopmental item”, “component”, and “commercial component” have the meanings provided in section 403 of this title.
 
-(June 30, 1949, ch. 288, title III, §314A, as added Oct. 13, 1994, Pub. L. 103–355, title VIII, §8202, 108 Stat. 3394; amended Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(e)(7), 110 Stat. 675.)
+(June 30, 1949, ch. 288, title III, §314A, as added Pub. L. 103–355, title VIII, §8202, Oct. 13, 1994, 108 Stat. 3394; amended Pub. L. 104–106, div. D, title XLIII, §4321(e)(7), Feb. 10, 1996, 110 Stat. 675.)
 
 #### Amendments
 

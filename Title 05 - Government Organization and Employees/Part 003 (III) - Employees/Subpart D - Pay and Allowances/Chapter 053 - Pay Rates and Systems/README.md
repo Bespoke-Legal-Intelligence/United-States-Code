@@ -148,7 +148,7 @@ Pub. L. 95–251, §2(c)(4), Mar. 27, 1978, 92 Stat. 184, substituted “Adminis
 
 1975—Pub. L. 94–82, title II, §202(b)(6), Aug. 9, 1975, 89 Stat. 420, added item 5318.
 
-1972—Pub. L. 92–392, §1(b), Aug. 19, 1972, 86 Stat. 572, substituted items 5341, 5343, 5344, and 5345 relating to “Policy”, “Prevailing rate determinations; wage schedules; night differentials”, “Effective date of wage increase; retroactive pay” and “Retained rate of pay on reduction in grade or reassignment”, for such formeritems relating to “Trades and crafts”, “Effective date of pay increase”, “Retroactive pay” and “Position classification appeals”, added items 5342, 5346, 5347, and 5349, and renumbered former item 5342 as 5348.
+1972—Pub. L. 92–392, §1(b), Aug. 19, 1972, 86 Stat. 572, substituted items 5341, 5343, 5344, and 5345 relating to “Policy”, “Prevailing rate determinations; wage schedules; night differentials”, “Effective date of wage increase; retroactive pay” and “Retained rate of pay on reduction in grade or reassignment”, for such former items relating to “Trades and crafts”, “Effective date of pay increase”, “Retroactive pay” and “Position classification appeals”, added items 5342, 5346, 5347, and 5349, and renumbered former item 5342 as 5348.
 
 1971—Pub. L. 91–656, §§2(b)(2), 3(b), Jan. 8, 1971, 84 Stat. 1946, 1951, struck out item 5302 “Annual reports on pay comparability” and added items 5305–5308.
 

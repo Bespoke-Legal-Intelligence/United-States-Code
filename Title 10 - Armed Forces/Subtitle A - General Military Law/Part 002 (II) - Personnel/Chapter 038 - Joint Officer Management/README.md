@@ -15,7 +15,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 526 of this title.
+This chapter is referred to in sections 526, 721 of this title.
 
 
 ---

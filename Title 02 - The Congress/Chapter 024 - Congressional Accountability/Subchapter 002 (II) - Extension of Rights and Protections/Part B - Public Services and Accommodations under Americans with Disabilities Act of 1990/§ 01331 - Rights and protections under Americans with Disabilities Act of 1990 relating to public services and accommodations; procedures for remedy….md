@@ -50,7 +50,7 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 #### (3) Complaint, hearing, Board review
 
-&emsp;If mediation under paragraph (2) has not succeeded in resolving the dispute, and if the General Counsel believes that a violation of subsection (b) of this section may have occurred,the General Counsel may file with the Office a complaint against any entity responsible for correcting the violation. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title and any person who has filed a charge under paragraph (1) may intervene as of right, with the full rights of a party. The decision of the hearing officer shall be subject to review by the Board pursuant to section 1406 of this title.
+&emsp;If mediation under paragraph (2) has not succeeded in resolving the dispute, and if the General Counsel believes that a violation of subsection (b) of this section may have occurred, the General Counsel may file with the Office a complaint against any entity responsible for correcting the violation. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title and any person who has filed a charge under paragraph (1) may intervene as of right, with the full rights of a party. The decision of the hearing officer shall be subject to review by the Board pursuant to section 1406 of this title.
 
 #### (4) Judicial review
 
@@ -84,7 +84,7 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 &emsp;On the basis of each periodic inspection, the General Counsel shall, at least once every Congress, prepare and submit a report—
 
-&emsp;&emsp;(A) to the Speaker of the House of Representatives, the President pro tempore of the Senate, and the Office of the Architect of the Capitol, or other entity responsible, for correcting the violation of this section uncovered by such inspection, and
+&emsp;&emsp;(A) to the Speaker of the House of Representatives, the President pro tempore ofthe Senate, and the Office of the Architect of the Capitol, or other entity responsible, for correcting the violation of this section uncovered by such inspection, and
 
 &emsp;&emsp;(B) containing the results of the periodic inspection, describing any steps necessary to correct any violation of this section, assessing any limitations in accessibility to and usability by individuals with disabilities associated with each violation, and the estimated cost and time needed for abatement.
 

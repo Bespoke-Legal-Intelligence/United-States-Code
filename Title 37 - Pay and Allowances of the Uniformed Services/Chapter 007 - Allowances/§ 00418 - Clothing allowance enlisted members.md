@@ -1,6 +1,6 @@
 ### §418. Clothing allowance: enlisted members
 
-(a) The President may prescribe the quantity and kind of clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amountof a cash allowance to be paid to such a member if clothing is not so furnished to him.
+(a) The President may prescribe the quantity and kind of clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
 
 (b) In determining the quantity and kind of clothing or allowances to be furnished pursuant to regulations prescribed under this section to persons employed as National Guard technicians under section 709 of title 32, the President shall take into account the requirement under subsection (b) of such section for such persons to wear a uniform.
 

@@ -4,7 +4,7 @@
 
 Establishment or Designation.—(1) In cooperation with the States and not later than December 31, 1997, the Attorney General shall establish a National Motor Vehicle Title Information System that will provide individuals and entities referred to in subsection (e) of this section with instant and reliable access to information maintained by the States related to automobile titling described in subsection (d) of this section. However, if the Attorney General decides that the existing information system meets the requirements of subsections (d) and (e) of this section and will permit the Attorney General to carry out this chapter as early as possible, the Attorney General, in consultation with the Secretary of Transportation, may designate an existing information system as the National Motor Vehicle Title Information System.
 
-(2) In cooperation with the Secretary of Transportation and the States, the Attorney General shall ascertain the extent to which title and related information to be included in the system established under paragraph (1) of this subsection will be adequate, timely, reliable, uniform, and capable of assisting in efforts to prevent the introduction or reintroduction of stolen vehicles and parts into interstate commerce.
+(2) In cooperation with the Secretary of Transportation and the States, the Attorney Generalshall ascertain the extent to which title and related information to be included in the system established under paragraph (1) of this subsection will be adequate, timely, reliable, uniform, and capable of assisting in efforts to prevent the introduction or reintroduction of stolen vehicles and parts into interstate commerce.
 
 (b)
 
@@ -46,7 +46,7 @@ Availability of Information.—(1) The operator shall make available—
 
 Immunity.—Any person performing any activity under this section or sections 30503 or 30504 in good faith and with the reasonable belief that such activity was in accordance with this section or section 30503 or 30504, as the case may be, shall be immune from any civil action respecting such activity which is seeking money damages or equitable relief in any court of the United States or a State.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 980; Pub. L. 104–152, §§2(a), (c), 3, 4, July 2, 1996, 110 Stat. 1384.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 980; Pub. L. 104–152, §§2(a), (c), 3, 4, July 2, 1996, 110 Stat. 1384; Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215.)
 
 Historical and Revision Notes
 
@@ -94,19 +94,29 @@ In subsection (e)(2), the words “The operator may release only the information
 
 #### Amendments
 
-1996—Pub. L. 104–152, §2(c), substituted “Motor Vehicle” for “Automobile” in section catchline.
+1997—Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment notes below.
+
+1996—Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “Motor Vehicle” for “Automobile” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 104–152, §3(a), which directed the amendment of this section by striking each reference to “Secretary of Transportation” or “Secretary” and inserting “Attorney General”, and Pub. L. 104–152, §3(b), which directed the striking of each reference to “Attorney General” and inserting “Secretary of Transportation”, were executed simultaneously, to reflect the probable intent of Congress. See below.
 
 Subsec. (a)(1). Pub. L. 104–152, §3, substituted “Attorney General shall” for “Secretary of Transportation shall”, “Attorney General decides” for “Secretary decides”, “permit the Attorney General” for “permit the Secretary”, and “Attorney General, in consultation with the Secretary of Transportation” for “Secretary, in consultation with the Attorney General”.
 
-Pub. L. 104–152, §2(a), (c), substituted “December 31, 1967” for “January 31, 1966” and “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in two places.
+Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in two places.
+
+Pub. L. 104–152, §2(a), substituted “December 31, 1967” for “January 31, 1966”.
 
 Subsec. (a)(2). Pub. L. 104–152, §3, substituted “Secretary of Transportation” for “Attorney General” and “Attorney General” for “Secretary”.
 
 Subsec. (b). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary”.
 
 Subsec. (f). Pub. L. 104–152, §4, added subsec. (f).
+
+#### Effective Date of 1997 Amendment
+
+Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(b) is effective July 2, 1996.
+
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 
 #### Effectiveness of System
 

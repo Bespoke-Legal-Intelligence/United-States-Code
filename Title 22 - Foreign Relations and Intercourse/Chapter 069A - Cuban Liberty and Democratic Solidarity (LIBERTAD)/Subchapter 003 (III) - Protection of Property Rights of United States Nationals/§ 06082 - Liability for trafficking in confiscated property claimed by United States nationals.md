@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(ii) a person who is to be joined as a defendant in the action,
 
-> &emsp;at least 30 days before initiating the action or joining such person as a defendant, as the case may be, and that person, after the end of the30-day period beginning on the date the notice is provided, traffics in the confiscated property that is the subject of the action, then that person shall be liable to that claimant for damages computed in accordance with subparagraph (C).
+> &emsp;at least 30 days before initiating the action or joining such person as a defendant, as the case may be, and that person, after the end of the 30-day period beginning on the date the notice is provided, traffics in the confiscated property that is the subject of the action, then that person shall be liable to that claimant for damages computed in accordance with subparagraph (C).
 
 &emsp;(C) Damages for which a person is liable under subparagraph (A) or subparagraph (B) are money damages in an amount equal to the sum of—
 
@@ -94,7 +94,7 @@ An action may be brought under this section by a United States national only whe
 
 #### (1) In general
 
-&emsp;Except as provided in this subchapter, the provisions of title 28 and the rules of thecourts of the United States apply to actions under this section to the same extent as such provisions and rules apply to any other action brought under section 1331 of title 28.
+&emsp;Except as provided in this subchapter, the provisions of title 28 and the rules of the courts of the United States apply to actions under this section to the same extent as such provisions and rules apply to any other action brought under section 1331 of title 28.
 
 #### (2) Service of process
 
@@ -120,7 +120,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 &emsp;(A) In the case of any United States national that brings an action under this section based on a claim certified under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\]—
 
-&emsp;&emsp;(i) if the recovery in the action is equal to or greater than the amount of the certified claim, the United States national may not receive payment on the claim under any agreement entered into between the United States and Cuba settling claims covered by such title, and such national shall be deemed to have discharged the United States from any further responsibility to represent the United States national with respect to that claim;
+&emsp;&emsp;(i) if the recovery in the action is equal to or greater than the amount of the certified claim, the United States national may notreceive payment on the claim under any agreement entered into between the United States and Cuba settling claims covered by such title, and such national shall be deemed to have discharged the United States from any further responsibility to represent the United States national with respect to that claim;
 
 &emsp;&emsp;(ii) if the recovery in the action is less than the amount of the certified claim, the United States national may receive payment under a claims agreement described in clause (i) but only to the extent of the difference between the amount of the recovery and the amount of the certified claim; and
 
@@ -156,7 +156,7 @@ The Judicial Conference of the United States shall establish a uniform fee that 
 
 For the effective date of this subchapter, referred to in subsec. (a)(1)(A), as Aug. 1, 1996, or date determined pursuant to suspension authority of President see section 6085 of this title.
 
-The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1)(A)(i)(I), (3)(A), (5), (f)(2), and\(g), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended, which is classified generally to chapter 21 (§1621 et seq.) of this title. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1)(A)(i)(I), (3)(A), (5), (f)(2), and (g), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended, which is classified generally to chapter 21 (§1621 et seq.) of this title. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 This subchapter, referred to in subsecs. (a)(7)(B), (8) and (c)(1), was in the original “this title”, meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted this subchapter and sections 1643<i>l</i> and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
 

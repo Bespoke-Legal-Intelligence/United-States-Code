@@ -18,7 +18,7 @@
 
 The discovery of additional helium reserves shall not affect the duty of the Secretary to make sales of helium under subsection (a) of this section.
 
-(Mar. 3, 1925, ch. 426, §8, as added Sept. 13, 1960, Pub. L. 86–777, §2, 74 Stat. 922; amended Oct. 9, 1996, Pub. L. 104–273, §5, 110 Stat. 3318.)
+(Mar. 3, 1925, ch. 426, §8, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 922; amended Pub. L. 104–273, §5, Oct. 9, 1996, 110 Stat. 3318.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@ For purposes of this section, the following are covered securities:
 
 &emsp;&emsp;(B) listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A); or
 
-&emsp;&emsp;(C) is a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A) or (B).
+&emsp;&emsp;(C) is a security of the same issuer that is equal in seniority or that is a senior securityto a security described in subparagraph (A) or (B).
 
 #### (2) Exclusive Federal registration of investment companies
 
@@ -106,7 +106,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Prepared by or on behalf of the issuer
 
-&emsp;Not later than 6 months after October 11, 1996,<sup>1</sup> the Commission shall, by rule, define theterm “prepared by or on behalf of the issuer” for purposes of this section.
+&emsp;Not later than 6 months after October 11, 1996,<sup>1</sup> the Commission shall, by rule, define the term “prepared by or on behalf of the issuer” for purposes of this section.
 
 #### (3) State
 

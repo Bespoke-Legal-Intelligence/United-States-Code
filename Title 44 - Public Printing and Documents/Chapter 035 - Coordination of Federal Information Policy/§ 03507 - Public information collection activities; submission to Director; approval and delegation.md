@@ -32,7 +32,7 @@
 
 &emsp;(3) the agency has obtained from the Director a control number to be displayed upon the collection of information.
 
-(b) The Director shall provide at least 30 days for public comment prior to making a decision under subsection (c), (d), or (h), except as provided under subsection (j).
+(b) The Director shall provide at least 30 days for public comment prior to making a decisionunder subsection (c), (d), or (h), except as provided under subsection (j).
 
 (c)(1) For any proposed collection of information not contained in a proposed rule, the Director shall notify the agency involved of the decision to approve or disapprove the proposed collection of information.
 
@@ -108,7 +108,7 @@
 
 &emsp;(A) publish an explanation thereof in the Federal Register; and
 
-&emsp;(B) instruct the agency to undertake a rulemaking within a reasonable time limited toconsideration of changes to the collection of information contained in the rule and thereafter to submit the collection of information for approval or disapproval under this chapter.
+&emsp;(B) instruct the agency to undertake a rulemaking within a reasonable time limited to consideration of changes to the collection of information contained in the rule and thereafter to submit the collection of information for approval or disapproval under this chapter.
 
 (3) An agency may not make a substantive or material modification to a collection of information after such collection has been approved by the Director, unless the modification has been submitted to the Director for review and approval under this chapter.
 
@@ -152,5 +152,5 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3506, 3509 of this title; title 41 section 421; title 42 section 242k.
+This section is referred to in sections 3506, 3509 of this title; title 42 section 242k.
 

@@ -136,7 +136,7 @@ Subsec. (f). Pub. L. 104–201 amended subsec. (f) generally. Prior to amendment
 
 &emsp;“(A) release in a reduction in force an employee who volunteers for the release even though the employee is not otherwise subject to release in the reduction in force under the criteria applicable under the other provisions of this section; and
 
-&emsp;“(B) for each employee voluntarily released in the reduction in force under subparagraph (A), retain an employee in a similar position who would otherwisebe released in the reduction in force under such criteria.
+&emsp;“(B) for each employee voluntarily released in the reduction in force under subparagraph (A), retain an employee in a similar position who would otherwise be released in the reduction in force under such criteria.
 
 “(2) A voluntary release of an employee in a reduction in force pursuant to paragraph (1) shall be treated as an involuntary release in the reduction in force.
 
@@ -156,7 +156,7 @@ Pub. L. 104–106, §1034, added subsec. (f).
 
 1978—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (b). Pub. L. 95–454, §307(e), substituted provisions relating to retention of a preference eligible with a compensable service-connected disability of 30 percent or more, for provisions relating to retention of preference eligible employees on the basis of ratings.
+Subsec. (b). Pub. L. 95–454, §307(e), substituted provisions relating to retention of a preference eligible witha compensable service-connected disability of 30 percent or more, for provisions relating to retention of preference eligible employees on the basis of ratings.
 
 Subsec. (c). Pub. L. 95–454, §307(e), added subsec. (c).
 
@@ -276,5 +276,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7512, 7521 of this title; title 10 sections 1586, 1599c, 1610; title 22 section 1438; title 25 section 472a; title 32 section 709.
+This section is referred to in sections 7512, 7521 of this title; title 10 sections 1586, 1599c, 1610; title 22 section 1438; title 25 section 472a; title 32 section 709; title 42 sections 616, 7237.
 

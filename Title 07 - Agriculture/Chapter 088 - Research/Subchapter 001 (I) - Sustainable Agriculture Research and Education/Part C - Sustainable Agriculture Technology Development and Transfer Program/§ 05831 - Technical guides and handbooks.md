@@ -26,7 +26,7 @@ The handbooks and guides, and other educational materials, shall provide practic
 
 #### (e) Availability
 
-The Secretary shall ensure that handbooks and technical guides, and other educational materials are made available to the agricultural community and the public through colleges and universities, the State Cooperative Extension Service, the Soil Conservation Service, other State and Federal agencies, and any other appropriate entities.
+The Secretary shall ensure that handbooks and technical guides, and other educational materials are made available to the agricultural community and the public through colleges anduniversities, the State Cooperative Extension Service, the Soil Conservation Service, other State and Federal agencies, and any other appropriate entities.
 
 #### (f) Authorization of appropriations
 

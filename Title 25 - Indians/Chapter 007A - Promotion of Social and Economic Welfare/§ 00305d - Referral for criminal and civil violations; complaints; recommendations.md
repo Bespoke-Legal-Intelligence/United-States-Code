@@ -4,7 +4,7 @@
 
 (b) The Board may recommend that the Secretary of the Interior refer the matter to the Attorney General for civil action under section 305e of this title.
 
-(Aug. 27, 1935, ch. 748, §5, as added Nov. 29, 1990, Pub. L. 101–644, title I, §103, 104 Stat. 4662.)
+(Aug. 27, 1935, ch. 748, §5, as added Pub. L. 101–644, title I, §103, Nov. 29, 1990, 104 Stat. 4662.)
 
 #### Prior Provisions
 

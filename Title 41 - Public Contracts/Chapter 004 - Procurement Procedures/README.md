@@ -37,8 +37,8 @@
 | (a) | Simplified acquisition threshold. |
 | (b) | Inapplicable laws. |
 | 252b. | Implementation of simplified acquisition procedures. |
-| 252c. | Implementation of FACNET capability. |
-| (a) | Implementation of FACNET capability. |
+| 252c. | Implementation of electronic commerce capability. |
+| (a) | Implementation of electronic commerce capability. |
 | (b) | Designation of agency official. |
 | 253\. | Competition requirements. |
 | (a) | Procurement through full and open competition; competitive procedures. |
@@ -122,6 +122,7 @@
 | 253<i>l.</i> | Severable services contracts for periods crossing fiscal years. |
 | (a) | Authority. |
 | (b) | Obligation of funds. |
+| 253<i>l</i>–1. | Contract authority of Comptroller General. |
 | 253m. | Design-build selection procedures. |
 | (a) | Authorization. |
 | (b) | Criteria for use. |
@@ -178,6 +179,7 @@
 | (j) | Contractor to have burden of proof. |
 | (k) | Proceeding costs not allowable. |
 | (<i>l</i>) | “Covered contract” defined. |
+| (m) | Other definitions. |
 | 256a. | Waiver of liquidated damages. |
 | 257\. | Administrative determinations. |
 | (a) | Conclusiveness; delegation of powers. |

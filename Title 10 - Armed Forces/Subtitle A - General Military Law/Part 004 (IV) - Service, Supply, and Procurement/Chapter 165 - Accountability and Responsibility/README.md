@@ -38,7 +38,7 @@ Pub. L. 104–106, div. B, title XXVIII, §2821(b), Feb. 10, 1996, 110 Stat. 556
 
 1985—Pub. L. 99–224, §2(b), Dec. 28, 1985, 99 Stat. 1742, substituted “and” for “other than” in item 2774.
 
-Pub. L. 99–167, title VIII, §802(d)(2), Dec. 3, 1985, 99 Stat. 987, substituted “assigned to military housing” for “for damage to housing and related equipment and furnishings” in item 2775.
+Pub. L. 99–167, title VIII, §802(d)(2), Dec. 3, 1985, 99 Stat. 987, substituted “assigned to military housing”for “for damage to housing and related equipment and furnishings” in item 2775.
 
 1984—Pub. L. 98–407, title VIII, §801(a)(2), Aug. 28, 1984, 98 Stat. 1518, substituted “members for damage to housing and related equipment and furnishings” for “member for damages to family housing, equipment, and furnishings” in item 2775.
 

@@ -84,7 +84,7 @@ Section 303 of Pub. L. 87–651 provided that:
 
 &emsp;“(1) as an exercise of the rule-making power of the Senate and the House of Representatives, respectively, and as such they shall be considered as part of the rules of each House, respectively, and supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;“(2) with full recognition of the constitutional right of either House to change the rules (as far as relating to the procedure in that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.”
+&emsp;“(2) with full recognition of the constitutional right of either House to change the rules (as far as relating to the procedure in that House) at any time, inthe same manner and to the same extent as in the case of any other rule of that House.”
 
 #### Section Referred to in Other Sections
 

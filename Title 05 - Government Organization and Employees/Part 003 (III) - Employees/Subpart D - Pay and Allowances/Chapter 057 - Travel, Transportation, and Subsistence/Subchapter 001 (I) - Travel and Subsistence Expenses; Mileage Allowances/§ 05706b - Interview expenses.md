@@ -1,6 +1,6 @@
 ### §5706b. Interview expenses
 
-An individual being considered for employment by an agency may be paid travel or transportation expenses under this subchapter fortravel to and from pre-employment interviews determined necessary by the agency.
+An individual being considered for employment by an agency may be paid travel or transportation expenses under this subchapter for travel to and from pre-employment interviews determined necessary by the agency.
 
 (Added Pub. L. 101–509, title V, §529 \[title II, §206(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1457.)
 

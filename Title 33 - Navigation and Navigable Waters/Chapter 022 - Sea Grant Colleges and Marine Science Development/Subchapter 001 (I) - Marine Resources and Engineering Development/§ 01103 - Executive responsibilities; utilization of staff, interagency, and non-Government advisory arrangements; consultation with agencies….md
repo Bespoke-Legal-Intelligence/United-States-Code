@@ -4,7 +4,7 @@
 
 &emsp;(1) survey all significant marine science activities, including the policies, plans, programs, and accomplishments of all departments and agencies of the United States engaged in such activities;
 
-&emsp;(2) develop a comprehensive program of marine science activities, including, but not limited to, exploration, description and prediction of the marine environment, exploitation and conservation of the resources of the marine environment, marine engineering, studies of air-sea interaction, transmission of energy, and communications, to be conducted by departments and agencies of the United States, independently or in cooperation with such non-Federal organizations as States, institutions and industry;
+&emsp;(2) develop a comprehensive program of marine science activities, including, but not limited to, exploration, description and prediction of the marine environment, exploitation and conservation of the resources of the marineenvironment, marine engineering, studies of air-sea interaction, transmission of energy, and communications, to be conducted by departments and agencies of the United States, independently or in cooperation with such non-Federal organizations as States, institutions and industry;
 
 &emsp;(3) designate and fix responsibility for the conduct of the foregoing marine science activities by departments and agencies of the United States;
 
@@ -16,13 +16,13 @@
 
 &emsp;(7) review annually all marine science activities conducted by departments and agencies of the United States in light of the policies, plans, programs, and priorities developed pursuant to this chapter.
 
-(b) In the planning and conduct of a coordinated Federal program the President and the Council shall utilize such staff, interagency, andnon-Government advisory arrangements as they may find necessary and appropriate and shall consult with departments and agencies concerned with marine science activities and solicit the views of non-Federal organizations and individuals with capabilities in marine sciences.
+(b) In the planning and conduct of a coordinated Federal program the President and the Council shall utilize such staff, interagency, and non-Government advisory arrangements as they may find necessary and appropriate and shall consult with departments and agencies concerned with marine science activities and solicit the views of non-Federal organizations and individuals with capabilities in marine sciences.
 
 (Pub. L. 89–454, title I, §4, June 17, 1966, 80 Stat. 205; Pub. L. 89–688, §2(b), Oct. 15, 1966, 80 Stat. 1001.)
 
 #### Amendments
 
-1966—Subsec. (a). Pub. L. 89–688 in par. (4), substituted “this title” for “this Act”, which, for purposes of codification has been changed to “this subchapter”.
+1966—Subsec. (a). Pub. L. 89–688, in par. (4), substituted “this title” for “this Act”, which, for purposes of codification has been changed to “this subchapter”.
 
 #### Termination of Council
 

@@ -16,7 +16,7 @@
 
 (b) The President shall prescribe regulations under which an agency head may pay compensation for the disability or death of an employee or a family member of an employee if, as determined by the President, the disability or death was caused by hostile action and was a result of the individual's relationship with the Government.
 
-(c) Any compensation otherwise payable to an individual under this section in connection with any disability or death shall be reduced by any amounts payable to such individual under anyother program funded in whole or in part by the United States (excluding any amount payable under section 5569(d) of this title) in connection with such disability or death, except that nothing in this subsection shall result in the reduction of any amount below zero.
+(c) Any compensation otherwise payable to an individual under this section in connection with any disability or death shall be reduced by any amounts payable to such individual under any other program funded in whole or in part by the United States (excluding any amount payable under section 5569(d) of this title) in connection with such disability or death, except that nothing in this subsection shall result in the reduction of any amount below zero.
 
 (d) A determination by the President under subsection (b) shall be conclusive and shall not be subject to judicial review.
 

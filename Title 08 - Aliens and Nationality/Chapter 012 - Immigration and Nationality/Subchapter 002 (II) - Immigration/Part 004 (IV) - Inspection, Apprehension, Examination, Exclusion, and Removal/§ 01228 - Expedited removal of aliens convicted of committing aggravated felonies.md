@@ -42,7 +42,7 @@
 
 &emsp;(C) the alien has a reasonable opportunity to inspect the evidence and rebut the charges;
 
-&emsp;(D) a determination is made for the record that the individual upon whom the notice for the proceeding under this section is served (either in person or by mail) is, in fact, the alien named in such notice;
+&emsp;(D) a determination is made for the record that the individual upon whom the notice forthe proceeding under this section is served (either in person or by mail) is, in fact, the alien named in such notice;
 
 &emsp;(E) a record is maintained for judicial review; and
 
@@ -58,7 +58,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 #### (1) Authority
 
-&emsp;Notwithstanding any other provision of this chapter, a United States district court shall have jurisdiction to enter a judicial order of removal at the time of sentencing against an alien who is deportable, if such an order has been requested by the United States Attorney with the concurrence of the Commissioner andif the court chooses to exercise such jurisdiction.
+&emsp;Notwithstanding any other provision of this chapter, a United States district court shall have jurisdiction to enter a judicial order of removal at the time of sentencing against an alien who is deportable, if such an order has been requested by the United States Attorney with the concurrence of the Commissioner and if the court chooses to exercise such jurisdiction.
 
 #### (2) Procedure
 
@@ -84,7 +84,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 &emsp;(iii) Upon execution by the defendant of a valid waiver of the right to appeal the conviction on which the order of removal is based, the expiration of the period described in section 1252(b)(1) of this title, or the final dismissal of an appeal from such conviction, the order of removal shall become final and shall be executed at the end of the prison term in accordance with the terms of the order. If the conviction is reversed on direct appeal, the order entered pursuant to this section shall be void.
 
-&emsp;(B) As soon as is practicable after entry of a judicial order of removal, the Commissioner shall provide the defendant with written notice of the order of removal, which shall designate the defendant's country of choice for removal and any alternate country pursuant to section 1253(a) of this title.
+&emsp;(B) As soon as is practicable after entry of a judicial order of removal, the Commissioner shall provide the defendant with written notice of the order of removal, which shall designate the defendant's country of choice for removal and any alternate country pursuant to section 1253(a) <sup>2</sup> of this title.
 
 #### (4) Denial of judicial order
 
@@ -94,13 +94,15 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 &emsp;The United States Attorney, with the concurrence of the Commissioner, may, pursuant to Federal Rule of Criminal Procedure 11, enter into a plea agreement which calls for the alien, who is deportable under this chapter, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of removal from the United States as a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of removal pursuant to the terms of such stipulation.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §238, formerly ch. 5, §242A, as added Nov. 18, 1988, Pub. L. 100–690, title VII, §7347(a), 102 Stat. 4471; amended Nov. 29, 1990, Pub. L. 101–649, title V, §506(a), 104 Stat. 5050; Dec. 12, 1991, Pub. L. 102–232, title III, §309(b)(10), 105 Stat. 1759; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130004(a), (c), 108 Stat. 2026, 2027; Oct. 25, 1994, Pub. L. 103–416, title II, §§223(a), 224(a), 108 Stat. 4322; Apr. 24, 1996, Pub. L. 104–132, title IV, §§440(g), 442(a), (c), 110 Stat. 1278–1280; renumbered ch. 4, §238, and amended Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§304(c)(1), 306(d), 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D), (10)(H), 374(a), title VI, §671(b)(13), (c)(5), (6), 110 Stat. 3009–597, 3009–612, 3009–615, 3009–616, 3009–619, 3009–620, 3009–622, 3009–623, 3009–625, 3009–647, 3009–722, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 4, §238, formerly ch. 5, §242A, as added Nov. 18, 1988, Pub. L. 100–690, title VII, §7347(a), 102 Stat. 4471; amended Nov. 29, 1990, Pub. L. 101–649, title V, §506(a), 104 Stat. 5050; Dec. 12, 1991, Pub. L. 102–232, title III, §309(b)(10), 105 Stat. 1759; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130004(a), (c), 108 Stat. 2026, 2027; Oct. 25, 1994, Pub. L. 103–416, title II, §§223(a), 224(a), 108 Stat. 4322; Apr. 24, 1996, Pub. L. 104–132, title IV, §§440(g), 442(a), (c), 110 Stat. 1278–1280; renumbered ch. 4, §238, and amendedSept. 30, 1996, Pub. L. 104–208, div. C, title III, §§304(c)(1), 306(d), 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D), (10)(H), 374(a), title VI, §671(b)(13), (c)(5), (6), 110 Stat. 3009–597, 3009–612, 3009–615, 3009–616, 3009–619, 3009–620, 3009–622, 3009–623, 3009–625, 3009–647, 3009–722, 3009–723.)
 
 #### References in Text
 
 For effective date of this section, referred to in subsec. (a)(4)(B), see Effective Date note below.
 
 Section 1252b of this title, referred to in subsec. (c)(2)(B), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(6), Sept. 30, 1996, 110 Stat. 3009–615.
+
+Section 1253 of this title, referred to in subsec. (c)(3)(B), was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, subsec. (a) no longer contains provisions relating to alternate countries. Provisions similar to those contained in former subsec. (a) of section 1253 are now contained in section 1231(b) of this title.
 
 Federal Rule of Criminal Procedure 11, referred to in subsec. (c)(5), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -236,7 +238,7 @@ Subsec. (a)(2). Pub. L. 103–322, §130004(c)(3), redesignated subsec. (b) as p
 
 Subsec. (a)(3). Pub. L. 103–322, §130004(c)(5), redesignated subsec. (d) as par. (3) of subsec. (a), and redesignated pars. (1) and (2) of former subsec. (d) as subpars. (A) and (B), respectively, of subsec. (a)(3).
 
-Subsec. (a)(4). Pub. L. 103–322, §130004(c)(6), redesignated subsec. (e) as par. (4) of subsec. (a), redesignated par. (1) of former subsec. (e) as subpar. (A) of subsec. (a)(4) and struck out at end “Within 12 months afterthe effective date of this section, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate concerning the effectiveness of such deportation proceedings in facilitating the deportation of aliens convicted of aggravated felonies.”, and redesignated par. (2) of former subsec. (e) as subpar. (B) of subsec. (a)(4).
+Subsec. (a)(4). Pub. L. 103–322, §130004(c)(6), redesignated subsec. (e) as par. (4) of subsec. (a), redesignated par. (1) of former subsec. (e) as subpar. (A) of subsec. (a)(4) and struck out at end “Within 12 months after the effective date of this section, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate concerning the effectiveness of such deportation proceedings in facilitating the deportation of aliens convicted of aggravated felonies.”, and redesignated par. (2) of former subsec. (e) as subpar. (B) of subsec. (a)(4).
 
 Subsec. (b). Pub. L. 103–322, §130004(a), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a).
 
@@ -322,7 +324,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1229a, 1368 of this title.
+This section is referred to in sections 1229a, 1368 of this title; title 18 section 3563.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
 

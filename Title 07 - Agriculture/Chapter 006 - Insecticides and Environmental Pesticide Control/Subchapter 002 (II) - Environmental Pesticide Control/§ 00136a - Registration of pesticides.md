@@ -606,5 +606,5 @@ Report.—The Administrator of the Environmental Protection Agency in cooperatio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136, 136a–1, 136c, 136d, 136h, 136i–1, 136j, 136k, 136<i>l</i>, 136m, 136<i>o</i>, 136q, 136v, 136w–4, 136w–7 of this title; title 21 section 346a.
+This section is referred to in sections 136, 136a–1, 136c, 136d, 136h, 136i–1, 136j, 136k, 136<i>l</i>, 136m, 136<i>o</i>, 136q, 136v, 136w–4, 136w–7 of this title; title 21 section 346a; title 42 section 300j–13.
 

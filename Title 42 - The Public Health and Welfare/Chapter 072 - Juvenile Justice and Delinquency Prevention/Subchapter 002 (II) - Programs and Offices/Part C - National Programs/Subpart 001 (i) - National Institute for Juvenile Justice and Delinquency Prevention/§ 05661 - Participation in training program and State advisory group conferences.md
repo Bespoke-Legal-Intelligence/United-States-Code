@@ -18,7 +18,7 @@ While participating as a trainee in the program established under section 5659 o
 
 A prior section 247 of Pub. L. 93–415 was renumbered section 245 and is classified to section 5659 of this title.
 
-Another prior section 247 of Pub. L. 93–415 was renumbered section 246 and classified to section 5657 of this title, prior to repeal by Pub. L. 100–690, title VII, §7263(a)(2)(C), Nov. 18, 1988, 102 Stat. 4443.
+Another prior section 247 of Pub. L. 93–415 was renumbered section 246 and classified to section 5657 of thistitle, prior to repeal by Pub. L. 100–690, title VII, §7263(a)(2)(C), Nov. 18, 1988, 102 Stat. 4443.
 
 #### Amendments
 

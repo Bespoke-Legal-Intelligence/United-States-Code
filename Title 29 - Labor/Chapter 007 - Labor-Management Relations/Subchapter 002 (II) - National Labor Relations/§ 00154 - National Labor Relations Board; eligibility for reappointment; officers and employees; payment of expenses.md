@@ -4,7 +4,7 @@
 
 (b) All of the expenses of the Board, including all necessary traveling and subsistence expenses outside the District of Columbia incurred by the members or employees of the Board under its orders, shall be allowed and paid on the presentation of itemized vouchers therefor approved by the Board or by any individual it designates for that purpose.
 
-(July 5, 1935, ch. 372, §4, 49 Stat. 451; June 23, 1947, ch. 120, title I, §101, 61 Stat. 139; Mar. 27, 1978, Pub. L. 95–251, §3, 92 Stat. 184.)
+(July 5, 1935, ch. 372, §4, 49 Stat. 451; June 23, 1947, ch. 120, title I, §101, 61 Stat. 139; Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184.)
 
 #### Codification
 

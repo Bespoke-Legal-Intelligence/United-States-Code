@@ -1,6 +1,6 @@
 ### §409e. Administration, protection, and development
 
-The administration, protection, and development of aforesaid national historical park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The administration, protection, and development of aforesaid national historical park shall be exercised under the direction of the Secretary of the Interior by the National Park Service,subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
 
 (Mar. 2, 1933, ch. 182, §6, 47 Stat. 1422.)
 

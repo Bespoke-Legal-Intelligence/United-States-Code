@@ -24,7 +24,7 @@ Each member of an advisory committee established under subsection (a) of this se
 
 (4) In developing recommendations for the National Defense Stockpile Manager under paragraph (2), the Committee shall consult from time to time with representatives of producers, processors, and consumers of the types of materials stored in the stockpile.
 
-(June 7, 1939, ch. 190, §10, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 323; amended Oct. 23, 1992, Pub. L. 102–484, div. C, title XXXIII, §3314, 106 Stat. 2654.)
+(June 7, 1939, ch. 190, §10, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 323; amended Pub. L. 102–484, div. C, title XXXIII, §3314, Oct. 23, 1992, 106 Stat. 2654.)
 
 #### Prior Provisions
 

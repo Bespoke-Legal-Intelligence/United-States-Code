@@ -10,13 +10,9 @@
 
 > on sea duty who is deprived of his quarters on board ship because of repairs or because of other conditions that make his quarters uninhabitable. Lodging accommodations so provided may not be occupied by the member's dependents.
 
-(b)(1) Under such regulations as the Secretary prescribes, a member of a uniformed service on sea duty who is deprived of quarters on board ship because of repairs or because of other conditions that make the member's quarters uninhabitable and for whom it is impracticable to furnish accommodations under subsection (a) may be reimbursed for expenses incurred in obtaining quarters in an amount not more than the total of—
+(b)(1) Under such regulations as the Secretary prescribes, a member of a uniformed service on sea duty who is deprived of quarters on board ship because of repairs or because of other conditions that make the member's quarters uninhabitable and for whom it is impracticable to furnish accommodations under subsection (a) may be reimbursed for expenses incurred in obtaining quarters in an amount not more than the basic allowance for housing payable under section 403 of title 37 to a member of the same pay grade without dependents for the period during which the member is deprived of quarters on board ship.
 
-&emsp;(A) the basic allowance for quarters payable to a member of the same pay grade without dependents for the period during which the member is deprived of quarters on board ship; and
-
-&emsp;(B) the variable housing allowance that could be paid to a member of the same pay grade under section 403a of title 37 at the location where the member is deprived of quarters on board ship for the period during which the member is deprived of quarters on board ship.
-
-(2) A member entitled to receipt of basic allowance for quarters may not be reimbursed for expenses under this subsection when deprived of quarters on board ship at a location at which the member can reside with such member's dependents.
+(2) A member entitled to receipt of basic allowance for housing may not be reimbursed for expenses under this subsection when deprived of quarters on board ship at a location at which the member can reside with such member's dependents.
 
 (3) The total amount of reimbursement under this subsection may not exceed $1,657,000 for each of the fiscal years 1987 through 1992.
 
@@ -32,7 +28,7 @@
 
 (4) The Secretary may prescribe regulations to carry out this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 468; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Sept. 24, 1980, Pub. L. 96–357, §3, 94 Stat. 1182; Dec. 12, 1980, Pub. L. 96–513, title V, §513(41), 94 Stat. 2935; Oct. 14, 1981, Pub. L. 97–60, title II, §207(b), 95 Stat. 1007; Sept. 24, 1983, Pub. L. 98–94, title IX, §912(a), 97 Stat. 640; Oct. 19, 1984, Pub. L. 98–525, title VI, §§602(d)(3), 603(a), title XIV, §1405(54), 98 Stat. 2536, 2537, 2625; Nov. 8, 1985, Pub. L. 99–145, title VI, §606(a), 99 Stat. 638; Nov. 14, 1986, Pub. L. 99–661, div. A, title VI, §603(a), 100 Stat. 3874; Dec. 5, 1991, Pub. L. 102–190, div. A, title VI, §607(a), (b), 105 Stat. 1375.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 468; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Sept. 24, 1980, Pub. L. 96–357, §3, 94 Stat. 1182; Dec. 12, 1980, Pub. L. 96–513, title V, §513(41), 94 Stat. 2935; Oct. 14, 1981, Pub. L. 97–60, title II, §207(b), 95 Stat. 1007; Sept. 24, 1983, Pub. L. 98–94, title IX, §912(a), 97 Stat. 640; Oct. 19, 1984, Pub. L. 98–525, title VI, §§602(d)(3), 603(a), title XIV, §1405(54), 98 Stat. 2536, 2537, 2625; Nov. 8, 1985, Pub. L. 99–145, title VI, §606(a), 99 Stat. 638; Nov. 14, 1986, Pub. L. 99–661, div. A, title VI, §603(a), 100 Stat. 3874; Dec. 5, 1991, Pub. L. 102–190, div. A, title VI, §607(a), (b), 105 Stat. 1375; Nov. 18, 1997, Pub. L. 105–85, div. A, title VI, §603(d)(2)(D), 111 Stat. 1783.)
 
 Historical and Revision Notes
 
@@ -74,6 +70,14 @@ In subsection (c) the words “except the authority to prescribe regulations” 
 
 #### Amendments
 
+1997—Subsec. (b)(1). Pub. L. 105–85, §603(d)(2)(D)(i), substituted “the basic allowance for housing payable under section 403 of title 37 to a member of the same pay grade without dependents for the period during which the member is deprived of quarters on board ship.” for “the total of—
+
+&emsp;“(A) the basic allowance for quarters payable to a member of the same pay grade without dependents for the period during which the member is deprived of quarters on board ship; and
+
+&emsp;“(B) the variable housing allowance that could be paid to a member of the same pay grade under section 403a of title 37 at the location where the member is deprived of quarters on board ship for the period during which the member is deprived of quarters on board ship.”
+
+Subsec. (b)(2). Pub. L. 105–85, §603(d)(2)(D)(ii), substituted “basic allowance for housing” for “basic allowance for quarters”.
+
 1991—Subsec. (b). Pub. L. 102–190, §607(a), amended subsec. to read as in effect on Sept. 30, 1991, in par. (3) struck out “$1,421,000 for fiscal year 1986 and” after “may not exceed” and substituted “1992” for “1991”, and added par. (4).
 
 Subsec. (d). Pub. L. 102–190, §607(b), added subsec. (d).
@@ -90,13 +94,17 @@ Subsec. (b)(3). Pub. L. 98–525, §603(a), added limit of $1,421,000 for fiscal
 
 1983—Subsec. (b)(3). Pub. L. 98–94 added limits of $1,700,000, and $1,300,000 for fiscal years 1983 and 1984, respectively.
 
-1981—Subsec. (b). Pub. L. 97–60 amended subsec. (b) generally, dividing existing provisions into numbered paragraphs (1), (2), and (3), inserting in par. (1), provisions relating to the variable housing allowance that could be paid to a member of the same pay grade under section 403 of title 37 at the location where the memberis deprived of quarters onboard ship for the period during which the member is deprived of quarters on board ship and, in par. (3), inserting provision setting a limit of $6,300,000 on the total amount of reimbursement for fiscal year 1982.
+1981—Subsec. (b). Pub. L. 97–60 amended subsec. (b) generally, dividing existing provisions into numbered paragraphs (1), (2), and (3), inserting in par. (1), provisions relating to the variable housing allowance that could be paid to a member of the same pay grade under section 403 of title 37 at the location where the member is deprived of quarters onboard ship for the period during which the member is deprived of quarters on board ship and, in par. (3), inserting provision setting a limit of $6,300,000 on the total amount of reimbursement for fiscal year 1982.
 
 1980—Subsec. (a)(3). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
 Subsec. (b). Pub. L. 96–357 substituted reimbursement provision when conditions make uninhabitable quarters aboard ship for member of uniformed services on sea duty limited to basic allowance for quarters of member of same grade without dependents for prior such provision for officer of naval service on sea duty so deprived of quarters and not entitled to basic allowance for quarters and limited to basic allowance for quarters of an officer of his grade, made the member able to reside with dependents ineligible for reimbursement, and limited reimbursements for fiscal year 1981 to $9,000,000.
 
 1966—Subsec. (a)(3). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1991 Amendment
 
@@ -112,7 +120,7 @@ Pub. L. 99–190, §101(b) \[title VIII, §8102\], Dec. 19, 1985, 99 Stat. 1185,
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 602(d)(3) of Pub. L. 98–525 effective Jan. 1, 1985, with exceptions, see section 602(f) of Pub. L. 98–525, set out as an Effective Date note under section 403a of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by section 602(d)(3) of Pub. L. 98–525 effective Jan. 1, 1985, with exceptions, see section 602(f) of Pub. L. 98–525, set out as a note under section 403 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1981 Amendment
 

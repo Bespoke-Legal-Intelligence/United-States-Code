@@ -44,7 +44,7 @@ In this section, the term “commodity promotion law” means a Federal law that
 
 Congress finds the following:
 
-&emsp;(1) It is in the national public interest and vital to the welfare of the agricultural economy of the United States to maintain and expand existing markets and develop new markets and uses for agricultural commodities through industry-funded, Government-supervised, generic commodity promotion programs established under commodity promotion laws.
+&emsp;(1) It is in the national public interest and vital to the welfare of the agricultural economy of the United States to maintain and expand existing markets and develop new markets and uses for agricultural commoditiesthrough industry-funded, Government-supervised, generic commodity promotion programs established under commodity promotion laws.
 
 &emsp;(2) These generic commodity promotion programs, funded by the agricultural producers or processors who most directly reap the benefits of the programs and supervised by the Secretary of Agriculture, provide a unique opportunity for producers and processors to inform consumers about their products.
 
@@ -82,7 +82,7 @@ The Secretary shall annually provide to the Committee on Agriculture of the Hous
 
 #### References in Text
 
-Public Law 89–502, referred to in subsec. (a)(2), is Pub. L. 89–502, July 13, 1966, 80 Stat. 279, as amended, known as the Cotton Research and Promotion Act, which is classified generally to chapter 53 (§2101 et seq.) of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+Public Law 89–502, referred to in subsec. (a)(2), is Pub. L. 89–502, July 13, 1966, 80 Stat. 279, as amended, known as the Cotton Research and Promotion Act, which is classified generally to chapter 53 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
 Public Law 91–670, referred to in subsec. (a)(3), is Pub. L. 91–670, Jan. 11, 1971, 84 Stat. 2040, as amended. Title III of Pub. L. 91–670, known as the Potato Research and Promotion Act, is classified generally to chapter 58 (§2611 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 2611 of this title and Tables.
 
@@ -90,7 +90,7 @@ Public Law 93–428, referred to in subsec. (a)(4), is Pub. L. 93–428, Oct. 1,
 
 Public Law 94–294, referred to in subsec. (a)(5), is Pub. L. 94–294, May 28, 1976, 90 Stat. 529, as amended, known as the Beef Research and Information Act, which is classified generally to chapter 62 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
-Public Law 98–180, referred to in subsec. (a)(6), is Pub. L. 98–180, Nov. 29, 1983, 97 Stat. 1128, as amended. Title I of Pub. L. 98–180 is known as the Dairy Production Stabilization Act of 1983. Subtitle B of title I is classified generally to subchapter I (§4501 et seq.) of chapter 76 of this title. For complete classification of title I to the Code, see Short Title note set out under section 4501 of this title and Tables.
+Public Law 98–180, referred to in subsec. (a)(6), is Pub. L. 98–180, Nov. 29, 1983, 97 Stat. 1128, as amended. TitleI of Pub. L. 98–180 is known as the Dairy Production Stabilization Act of 1983. Subtitle B of title I is classified generally to subchapter I (§4501 et seq.) of chapter 76 of this title. For complete classification of title I to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 Public Law 98–590, referred to in subsec. (a)(7), is Pub. L. 98–590, Oct. 30, 1984, 98 Stat. 3115, as amended, known as the Honey Research, Promotion, and Consumer Information Act, which is classified generally to chapter 77 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 

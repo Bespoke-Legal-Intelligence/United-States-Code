@@ -15,10 +15,13 @@
 | [411\.](%C2%A7%2000411%20-%20Cooperation%20with%20other%20Government%20agencies.md) | Cooperation with other Government agencies. |
 | [412\.](%C2%A7%2000412%20-%20Nondisclosure%20of%20lists%20of%20names%20and%20addresses.md) | Nondisclosure of lists of names and addresses. |
 | [413\.](%C2%A7%2000413%20-%20Postal%20services%20at%20diplomatic%20posts.md) | Postal services at diplomatic posts. |
+| [414\.](%C2%A7%2000414%20-%20Special%20postage%20stamps.md) | Special postage stamps. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–41, §2(c), Aug. 13, 1997, 111 Stat. 1121, added item 414.
 
 1990—Pub. L. 101–524, §5(b), Nov. 6, 1990, 104 Stat. 2303, added item 413.
 
@@ -40,3 +43,4 @@
 - [&sect; 00411 - Cooperation with other Government agencies](%C2%A7%2000411%20-%20Cooperation%20with%20other%20Government%20agencies.md)
 - [&sect; 00412 - Nondisclosure of lists of names and addresses](%C2%A7%2000412%20-%20Nondisclosure%20of%20lists%20of%20names%20and%20addresses.md)
 - [&sect; 00413 - Postal services at diplomatic posts](%C2%A7%2000413%20-%20Postal%20services%20at%20diplomatic%20posts.md)
+- [&sect; 00414 - Special postage stamps](%C2%A7%2000414%20-%20Special%20postage%20stamps.md)

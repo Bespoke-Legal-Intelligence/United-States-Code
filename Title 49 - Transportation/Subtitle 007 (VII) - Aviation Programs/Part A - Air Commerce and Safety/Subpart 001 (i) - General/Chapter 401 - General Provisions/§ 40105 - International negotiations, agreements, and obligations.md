@@ -12,7 +12,7 @@ Actions of Secretary and Administrator.—(1) In carrying out this part, the Sec
 
 &emsp;(B) shall consider applicable laws and requirements of a foreign country; and
 
-&emsp;(C) may not limit compliance by an air carrier with obligations or liabilities imposed bythe government of a foreign country when the Secretary takes any action related to a certificate of public convenience and necessity issued under chapter 411 of this title.
+&emsp;(C) may not limit compliance by an air carrier with obligations or liabilities imposed by the government of a foreign country when the Secretary takes any action related to a certificate of public convenience and necessity issued under chapter 411 of this title.
 
 (2) This subsection does not apply to an agreement between an air carrier or an officer or representative of an air carrier and the government of a foreign country, if the Secretary of Transportation disapproves the agreement because it is not in the public interest. Section 40106(b)(2) of this title applies to this subsection.
 
@@ -128,7 +128,7 @@ Have nominated to this end their respective Plenipotentiaries, who being thereto
 
 #### <i>Article 1</i>
 
-(1) This convention shall apply to all international transportation of persons, baggage, or goods performedby aircraft for hire. It shall apply equally to gratuitous transportation by aircraft performed by an air transportation enterprise.
+(1) This convention shall apply to all international transportation of persons, baggage, or goods performed by aircraft for hire. It shall apply equally to gratuitous transportation by aircraft performed by an air transportation enterprise.
 
 (2) For the purpose of this convention the expression “international transportation” shall mean any transportation in which, according to the contract made by the parties, the place of departure and the place of destination, whether or not there be a break in the transportation or a transshipment, are situated either within the territories of two High Contracting Parties, or within the territory of a single High Contracting Party, if there is an agreed stopping place within a territory subject to the sovereignty, suzerainty, mandate or authority of another power, even though that power is not a party to this convention. Transportation without such an agreed stopping place between territories subject to the sovereignty, suzerainty, mandate, or authority of the same High Contracting Party shall not be deemed to be international for the purposes of this convention.
 
@@ -320,7 +320,7 @@ The carrier shall be liable for damage occasioned by delay in the transportation
 
 #### <i>Article 20</i>
 
-(1) The carrier shall not be liable if he proves that he and his agents have taken all necessary measures to avoid the damage or that it was impossible for him or them to take such measures.
+(1) The carrier shall not be liable if he proves that he and his agents have taken all necessary measures toavoid the damage or that it was impossible for him or them to take such measures.
 
 (2) In the transportation of goods and baggage the carrier shall not be liable if he proves that the damage was occasioned by an error in piloting, in the handling of the aircraft, or in navigation and that, in all other respects, he and his agents have taken all necessary measures to avoid the damage.
 
@@ -392,7 +392,7 @@ In the case of the death of the person liable, an action for damages lies in acc
 
 #### <i>Article 31</i>
 
-(1) In the case of combined transportation performed partly by air and partly by any other mode of transportation, the provisions of this convention shall apply only to the transportation by air, provided that the transportation by air falls within the terms of article 1.
+(1) In the case of combined transportation performed partly by air and partly by any other mode of transportation, the provisions of this convention shall apply only to the transportation by air, provided that thetransportation by air falls within the terms of article 1.
 
 (2) Nothing in this convention shall prevent the parties in the case of combined transportation from inserting in the document of air transportation conditions relating to other modes of transportation, provided that the provisions of this convention are observed as regards the transportation by air.
 
@@ -458,7 +458,7 @@ This convention, done at Warsaw on October 12, 1929, shall remain open for signa
 
 Adopted by the Civil Aeronautics Board at its office in Washington, D.C., on the 13th day of May 1966.
 
-The Convention for the Unification of Certain Rules Relating to International Transportation by Air, generally known as the Warsaw Convention, creates a uniform body of law with respect to the rights and responsibilities of passengers, shippers, and air carriers in international air transportation. The United States became a party to the Convention in 1934, and eventually over 90 countries likewise became parties to the Convention.<sup>1</sup> On November 15, 1965, the U.S. Government gave notice of denunciation of the Convention, emphasizing that such action was solely because of the Convention's low limits of liability for personal injury or death to passengers. Pursuant to Article 39 of the Convention this notice would become effective upon 6 months’ notice, in this case, May 15, 1966. Subsequently, the International Air Transport Association (IATA) made efforts to effect an arrangement among air carriers, foreign air carriers, and other carriers (including carriers not members of IATA) providing the major portions of international air carriage to and from the United States to increase the limitations of liability now applicable to claims for personal injury and death under the Convention and the Protocol. The purpose of such action is to provide a basis upon which the United States could withdrawn its notice of denunciation.
+The Convention for the Unification of Certain Rules Relating to International Transportation by Air, generally known as the Warsaw Convention, creates a uniform body of law with respect to the rights and responsibilities of passengers, shippers, and air carriers in international air transportation. The United States became a party to the Convention in 1934, and eventually over 90 countries likewise became parties to the Convention.<sup>1</sup> On November 15, 1965, the U.S. Government gave notice of denunciation of the Convention, emphasizing that such action was solely because of the Convention's low limits of liability for personal injury or death to passengers. Pursuant to Article 39 of the Convention this notice would become effective upon 6 months’ notice, in this case, May 15, 1966. Subsequently, the International Air Transport Association (IATA) made efforts to effect an arrangement among air carriers, foreign air carriers, and other carriers (including carriers not members of IATA) providing the major portions of international air carriage to and from the United States to increase the limitations ofliability now applicable to claims for personal injury and death under the Convention and the Protocol. The purpose of such action is to provide a basis upon which the United States could withdrawn its notice of denunciation.
 
 The arrangement proposed has been embodied in an agreement (Agreement CAB 18900) between various air carriers, foreign air carriers, and other carriers which has been filed with the Board pursuant to section 412(a) of the Federal Aviation Act of 1958 and Part 261 of the Board's economic regulations and assigned the abovedesignated CAB number.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 5520a, 5948, 8331 of this title; title 38 section 7453.
+This subchapter is referred to in sections 5520a, 5948, 8331 of this title; title 22 section 3664; title 38 section 7453.
 
 
 ---

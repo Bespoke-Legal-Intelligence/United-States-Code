@@ -4,7 +4,7 @@
 
 Prohibition.—Funds available to the Department of Defense may not be obligated or expended to provide financial assistance to—
 
-&emsp;(1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 App.<sup>1</sup> 2405(j));
+&emsp;(1) any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A));
 
 &emsp;(2) any country identified in the latest report submitted to Congress under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), as providing significant support for international terrorism; or
 
@@ -32,7 +32,9 @@ Waiver.—(1) The President may waive the application of subsection (a) to a cou
 
 Definition.—In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f(d)).
 
-(Added Pub. L. 104–106, div. A, title XIII, §1341(a), Feb. 10, 1996, 110 Stat. 485.)
+(Added Pub. L. 104–106, div. A, title XIII, §1341(a), Feb. 10, 1996, 110 Stat. 485; amended Pub. L. 105–85, div. A, title X, §1073(a)(40), Nov. 18, 1997, 111 Stat. 1902.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “U.S.C.”</i>
+#### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–85 substituted “50 U.S.C. App. 2405(j)(1)(A)” for “50 App. 2405(j)”.
 

@@ -80,6 +80,38 @@ Definitions.—In this section:
 
 Section 158(c) of Pub. L. 103–160 provided that: “Regulations under subsection (b) of section 4543 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 30 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
+#### Pilot Program on Sales of Manufactured Articles and Services of Certain Army Industrial Facilities Without Regard to Availability From Domestic Sources
+
+Pub. L. 105–85, div. A, title I, §141, Nov. 18, 1997, 111 Stat. 1652, provided that:
+
+“(a)
+
+Pilot Program Required.—During fiscal years 1998 and 1999, the Secretary of the Army shall carry out a pilot program to test the efficacy and appropriateness of selling manufactured articles and services of Army industrial facilities under section 4543 of title 10, United States Code, without regard to the availability of the articles and services from United States commercial sources. In carrying out the pilot program, the Secretary may use articles manufactured at, and services provided by, not more than three Army industrial facilities.
+
+“(b)
+
+Temporary Waiver of Requirement for Determination of Unavailability From Domestic Source.—Under the pilot program, the Secretary of the Army is not required under section 4543(a)(5) of title 10, United States Code, to determine whether an article or service is available from a commercial source located in the United States in the case of any of the following sales for which a solicitation of offers is issued during fiscal year 1998 or 1999:
+
+&emsp;“(1) A sale of articles to be incorporated into a weapon system being procured by the Department of Defense.
+
+&emsp;“(2) A sale of services to be used in the manufacture of a weapon system being procured by the Department of Defense.
+
+“(c)
+
+Review by Inspector General.—The Inspector General of the Department of Defense shall review the experience under the pilot program under this section and, not later than July 1, 1999, submit to Congress a report on the results of the review. The report shall contain the following:
+
+&emsp;“(1) The Inspector General's views regarding the extent to which the waiver under subsection (b) enhances the opportunity for United States manufacturers, assemblers, developers, and other concerns to enter into or participate in contracts and teaming arrangements with Army industrial facilities under weapon system programs of the Department of Defense.
+
+&emsp;“(2) The Inspector General's views regarding the extent to which the waiver under subsection (b) enhances the opportunity for Army industrial facilities referred to in section 4543(a) of title 10, United States Code, to enter into or participate in contracts and teaming arrangements with United States manufacturers, assemblers, developers, and other concerns under weapon system programs of the Department of Defense.
+
+&emsp;“(3) The Inspector General's views regarding the effect of the waiver under subsection (b) on the ability of small businesses to compete for the sale of manufactured articles or services in the United States in competitions to enter into or participate in contracts and teaming arrangements under weapon system programs of the Department of Defense.
+
+&emsp;“(4) Specific examples under the pilot program that support the Inspector General's views.
+
+&emsp;“(5) Any other information that the Inspector General considers pertinent regarding the effects of the waiver of section 4543(a)(5) of title 10, United States Code, under the pilot program on opportunities for United States manufacturers, assemblers, developers, or other concerns, and for Army industrial facilities, to enter into or participate in contracts and teaming arrangements under weapon system programs of the Department of Defense.
+
+&emsp;“(6) Any recommendations that the Inspector General considers appropriate regarding continuation or modification of the policy set forth in section 4543(a)(5) of title 10, United States Code.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2208, 2553 of this title.

@@ -8,18 +8,16 @@
 | (c) | Experts and consultants. |
 | (d) | Relationship to executive branch. |
 | (e) | Relationship to other agencies of Congress. |
-| (f) | Redesignated (g). |
+| (f) | Revenue estimates. |
 | (g) | Authorization of appropriations. |
-| (g) | Revenue estimates. |
 | [602\.](%C2%A7%2000602%20-%20Duties%20and%20functions.md) | Duties and functions. |
 | (a) | Assistance to budget committees. |
 | (b) | Assistance to Committees on Appropriations, Ways and Means, and Finance. |
 | (c) | Assistance to other committees and Members. |
 | (d) | Assignment of office personnel to committees and joint committees. |
-| (e) | Transfer of functions of Joint Committee on Reduction of Federal Expenditures. |
-| (f) | Reports to budget committees. |
-| (g) | Use of computers and other techniques. |
-| (h) | Studies. |
+| (e) | Reports to budget committees. |
+| (f) | Use of computers and other techniques. |
+| (g) | Studies. |
 | [603\.](%C2%A7%2000603%20-%20Public%20access%20to%20budget%20data.md) | Public access to budget data. |
 | (a) | Right to copy. |
 | (b) | Index. |

@@ -2,7 +2,7 @@
 
 (a) After trying to collect a claim from a person under section 3711(a) of this title, the head of an executive, judicial, or legislative agency may collect the claim by administrative offset. The head of the agency may collect by administrative offset only after giving the debtor—
 
-&emsp;(1) written notice of the type and amount of the claim, the intention of the head of the agency to collect the claim by administrative offset, and an explanation of the rights of the debtor under this section;
+&emsp;(1) written notice of the type and amount of the claim, the intention of the head of theagency to collect the claim by administrative offset, and an explanation of the rights of the debtor under this section;
 
 &emsp;(2) an opportunity to inspect and copy the records of the agency related to the claim;
 
@@ -54,7 +54,7 @@
 
 (5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
-(6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+(6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, includingnontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
 
 (7)(A) The disbursing official conducting an administrative offset with respect to a payment to a payee shall notify the payee in writing of—
 

@@ -42,7 +42,7 @@
 
 The Director may take enforcement action with respect to violations of this section pursuant to section 8 or 18(j) of the Federal Deposit Insurance Act \[12 U.S.C. 1818 or 1828(j)\], as appropriate.
 
-(June 13, 1933, ch. 64, §11, formerly §9, 48 Stat. 135; Apr. 27, 1934, ch. 168, §15, 48 Stat. 647; renumbered §11, Aug. 10, 1987, Pub. L. 100–86, title IV, §402(a), 101 Stat. 605; Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 342; Dec. 19, 1991, Pub. L. 102–242, title III, §306(i), 105 Stat. 2359; Sept. 23, 1994, Pub. L. 103–325, title III, §316, 108 Stat. 2223.)
+(June 13, 1933, ch. 64, §11, formerly §9, 48 Stat. 135; Apr. 27, 1934, ch. 168, §15, 48 Stat. 647; renumbered §11, Pub. L. 100–86, title IV, §402(a), Aug. 10, 1987, 101 Stat. 605; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 342; Pub. L. 102–242, title III, §306(i), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 103–325, title III, §316, Sept. 23, 1994, 108 Stat. 2223.)
 
 #### References in Text
 

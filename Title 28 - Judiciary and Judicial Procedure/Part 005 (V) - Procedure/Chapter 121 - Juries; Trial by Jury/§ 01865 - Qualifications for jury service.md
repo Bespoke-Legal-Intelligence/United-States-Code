@@ -14,7 +14,7 @@
 
 &emsp;(5) has a charge pending against him for the commission of, or has been convicted in a State or Federal court of record of, a crime punishable by imprisonment for more than one year and his civil rights have not been restored.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; Mar. 27, 1968, Pub. L. 90–274, §101, 82 Stat. 58; Apr. 6, 1972, Pub. L. 92–269, §1, 86 Stat. 117; Nov. 2, 1978, Pub. L. 95–572, §3(a), 92 Stat. 2453; Nov. 19, 1988, Pub. L. 100–702, title VIII, §803(b), 102 Stat. 4658.)
+(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 92–269, §1, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, §3(a),Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, §803(b), Nov. 19, 1988, 102 Stat. 4658.)
 
 #### Historical and Revision Notes
 
@@ -30,13 +30,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–702 substituted “in any alphabetical” for “the alphabetical”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 substituted “in any alphabetical” for “the alphabetical”.
 
-1978—Subsec. (b)(5). Pub. L. 95–572 struck out “by pardon or amnesty” after “civil rights have not been restored”.
+<b>1978</b>—Subsec. (b)(5). Pub. L. 95–572 struck out “by pardon or amnesty” after “civil rights have not been restored”.
 
-1972—Subsec. (b)(1). Pub. L. 92–269 substituted “eighteen years old” for “twenty-one years old”.
+<b>1972</b>—Subsec. (b)(1). Pub. L. 92–269 substituted “eighteen years old” for “twenty-one years old”.
 
-1968—Subsec. (a). Pub. L. 90–274 substituted provisions for the excusing of persons from jury service by the chief judge of the district court or by other district court judge for provisions requiring the selection of jurors so as to be most favorable to an impartial trial and so as to minimize the expense and burden of jury service.
+<b>1968</b>—Subsec. (a). Pub. L. 90–274 substituted provisions for the excusing of persons from jury service by the chief judge of the district court or by other district court judge for provisions requiring the selection of jurors so as to be most favorable to an impartial trial and so as to minimize the expense and burden of jury service.
 
 Subsec. (b). Pub. L. 90–274 substituted provisions setting out the conditions of ineligibility for jury service for provisions authorizing the service of jurors in a place within the district other than the place for which the jurors were summoned.
 

@@ -16,7 +16,7 @@
 
 &emsp;(ii) revoke the recognition of such national governing body.
 
-(D) If the Corporation places a national governing body on probation pursuant to this paragraph, it may extend the probationary period ifthe national governing body has proven by clear and convincing evidence that, through no fault of its own, it needs additional time to comply with such requirements. If, at the end of the period allowed by the Corporation, the national governing body has not complied with such requirements, the Corporation shall revoke the recognition of such national governing body.
+(D) If the Corporation places a national governing body on probation pursuant to this paragraph, it may extend the probationary period if the national governing body has proven by clear and convincing evidence that, through no fault of its own, it needs additional time to comply with such requirements. If, at the end of the period allowed by the Corporation, the national governing body has not complied with such requirements, the Corporation shall revoke the recognition of such national governing body.
 
 #### (b) Replacement of incumbent national governing body
 

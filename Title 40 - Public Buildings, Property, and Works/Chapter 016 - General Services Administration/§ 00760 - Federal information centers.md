@@ -12,7 +12,7 @@ The Administrator is authorized to prescribe such rules and regulations as may b
 
 There is hereby authorized to be appropriated $7,000,000 for the fiscal year ending September 30, 1980, and such sums as may be necessary for each succeeding fiscal year for carrying out the purposes of this section.
 
-(June 30, 1949, ch. 288, title I, §112, as added Oct. 20, 1978, Pub. L. 95–491, §2(a), 92 Stat. 1641.)
+(June 30, 1949, ch. 288, title I, §112, as added Pub. L. 95–491, §2(a), Oct. 20, 1978, 92 Stat. 1641.)
 
 #### Short Title of 1978 Amendment
 

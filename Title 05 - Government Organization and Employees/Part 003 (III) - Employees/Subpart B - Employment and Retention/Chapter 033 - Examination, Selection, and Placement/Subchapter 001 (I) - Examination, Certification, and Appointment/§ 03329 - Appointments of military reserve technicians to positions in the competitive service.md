@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section, the term “military reserve technician” has the meaning given such term by section 8401(30).
 
-(b) The Secretary of Defense shall take such steps as may be necessary to ensure that, except as provided in subsection (d), any military reserve technician who is involuntarily separated from technician service, after completing at least 15 years of such service and 20 years of service creditable under section 1332 <sup>1</sup> of title 10,by reason of ceasing to satisfy the condition described in section 8401(30)(B) shall, if appropriate written application is submitted within 1 year after the date of separation, be provided placement consideration in a position described in subsection (c) through a priority placement program of the Department of Defense a position described in subsection (c) not later than 6 months after the date of the application.
+(b) The Secretary of Defense shall take such steps as may be necessary to ensure that, except as provided in subsection (d), any military reserve technician who is involuntarily separated from technician service, after completing at least 15 years of such service and 20 years of service creditable under section 1332 <sup>1</sup> of title 10, by reason of ceasing to satisfy the condition described in section 8401(30)(B) shall, if appropriate written application is submitted within 1 year after the date of separation, be provided placement consideration in a position described in subsection (c) through a priority placement program of the Department of Defense.
 
 (c)(1) The position for which placement consideration shall be provided to a former military technician under subsection (b) shall be a position—
 
@@ -22,7 +22,7 @@
 
 (e) The Secretary of Defense shall, in consultation with the Director of the Office of Personnel Management, prescribe such regulations as may be necessary to carry out this section.
 
-(Added Pub. L. 102–484, div. A, title V, §544(a), Oct. 23, 1992, 106 Stat. 2415; amended Pub. L. 104–106, div. A, title X, §1037(a), Feb. 10, 1996, 110 Stat. 431.)
+(Added Pub. L. 102–484, div. A, title V, §544(a), Oct. 23, 1992, 106 Stat. 2415; amended Pub. L. 104–106, div. A, title X, §1037(a), Feb. 10, 1996, 110 Stat. 431; Pub. L. 105–85, div. A, title XI, §1103, Nov. 18, 1997, 111 Stat. 1923.)
 
 #### References in Text
 
@@ -33,6 +33,8 @@ Section 1332 of title 10, referred to in subsec. (b), was renumbered section 127
 Another section 3329 was renumbered section 3330 of this title.
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–85 struck out “a position described in subsection (c) not later than 6 months after the date of the application” after “program of the Department of Defense”.
 
 1996—Subsec. (b). Pub. L. 104–106, §1037(a)(1), substituted “be provided placement consideration in a position described in subsection (c) through a priority placement program of the Department of Defense” for “be offered”.
 

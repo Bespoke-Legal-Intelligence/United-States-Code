@@ -6,7 +6,7 @@ Subject to the limitations hereinafter provided, the Secretary of the Treasury i
 
 #### (b) Deductions; coverage into Treasury; reimbursement for expenses
 
-(1) There shall be deducted from the amount of each payment made pursuant to subsection (c) of section 1627 of this title, as reimbursement for the expenses incurred by the United States, an amount equal to 5 per centum of such payment. All amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
+(1) There shall be deducted from the amount of each payment made pursuant to subsection (c)of section 1627 of this title, as reimbursement for the expenses incurred by the United States, an amount equal to 5 per centum of such payment. All amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 
 (2) The Secretary of the Treasury shall deduct from any amounts covered, subsequent to July 24, 1968, into any special fund, created pursuant to section 1627 of this title, 5 per centum thereof as reimbursement to the Government of the United States for expenses incurred by the Commission and by the Treasury Department in the administration of this subchapter. The amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 
@@ -26,7 +26,7 @@ Payments made pursuant to this subchapter shall be made only to the person or pe
 
 #### (d) Erroneous payments as bar to further recovery
 
-Whenever the Secretary of the Treasury shall find that any person is entitled to any such payment, after such payment shall have been received by such person, it shall be an absolute bar to recovery by any other person against theUnited States, its officers, agents, or employees with respect to such payment.
+Whenever the Secretary of the Treasury shall find that any person is entitled to any such payment, after such payment shall have been received by such person, it shall be an absolute bar to recovery by any other person against the United States, its officers, agents, or employees with respect to such payment.
 
 #### (e) Acquiescence in conditions of subchapter
 
@@ -36,7 +36,7 @@ Any person who makes application for any such payment shall be held to have cons
 
 Nothing in this subchapter shall be construed as the assumption of any liability by the United States for the payment or satisfaction, in whole or in part, of any claim on behalf of any national of the United States against any foreign government.
 
-(Mar. 10, 1950, ch. 54, title I, §7, 64 Stat. 16; Aug. 8, 1953, ch. 396, §2, 67 Stat. 506; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; July 24, 1968, Pub. L. 90–421, §1(2), (3), 82 Stat. 420; Oct. 19, 1996, Pub. L. 104–316, title II, §202(h), 110 Stat. 3842.)
+(Mar. 10, 1950, ch. 54, title I, §7, 64 Stat. 16; Aug. 8, 1953, ch. 396, §2, 67 Stat. 506; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; Pub. L. 90–421, §1(2), (3), July 24, 1968, 82 Stat. 420; Pub. L. 104–316, title II, §202(h), Oct. 19, 1996, 110 Stat. 3842.)
 
 #### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
 

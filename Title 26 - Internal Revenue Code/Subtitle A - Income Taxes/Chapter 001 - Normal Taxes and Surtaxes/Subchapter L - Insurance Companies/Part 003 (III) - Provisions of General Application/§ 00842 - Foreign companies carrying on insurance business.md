@@ -1,0 +1,182 @@
+### §842. Foreign companies carrying on insurance business
+
+#### (a) Taxation under this subchapter
+
+If a foreign company carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such company shall be taxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income which is from sources within the United States, such a foreign company shall be taxable as provided in section 881.
+
+#### (b) Minimum effectively connected net investment income
+
+#### (1) In general
+
+&emsp;In the case of a foreign company taxable under part I or II of this subchapter for the taxable year, its net investment income for such year which is effectively connected with the conduct of an insurance business within the United States shall be not less than the product of—
+
+&emsp;&emsp;(A) the required United States assets of such company, and
+
+&emsp;&emsp;(B) the domestic investment yield applicable to such company for such year.
+
+#### (2) Required U.S. assets
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (1), the required United States assets of any foreign company for any taxable year is an amount equal to the product of—
+
+&emsp;&emsp;&emsp;(i) the mean of such foreign company's total insurance liabilities on United States business, and
+
+&emsp;&emsp;&emsp;(ii) the domestic asset/liability percentage applicable to such foreign company for such year.
+
+#### (B) Total insurance liabilities
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) Companies taxable under part I
+
+&emsp;&emsp;&emsp;In the case of a company taxable under part I, the term “total insurance liabilities” means the sum of the total reserves (as defined in section 816(c)) plus (to the extent not included in total reserves) the items referred to in paragraphs (3), (4), (5), and (6) of section 807(c).
+
+#### (ii) Companies taxable under part II
+
+&emsp;&emsp;&emsp;In the case of a company taxable under part II, the term “total insurance liabilities” means the sum of unearned premiums and unpaid losses.
+
+#### (C) Domestic asset/liability percentage
+
+&emsp;&emsp;The domestic asset/liability percentage applicable for purposes of subparagraph (A)(ii) to any foreign company for any taxable year is a percentage determined by the Secretary on the basis of a ratio—
+
+&emsp;&emsp;&emsp;(i) the numerator of which is the mean of the assets of domestic insurance companies taxable under the same part of this subchapter as such foreign company, and
+
+&emsp;&emsp;&emsp;(ii) the denominator of which is the mean of the total insurance liabilities of the same companies.
+
+#### (3) Domestic investment yield
+
+&emsp;The domestic investment yield applicable for purposes of paragraph (1)(B) to any foreign company for any taxable year is the percentage determined by the Secretary on the basis of a ratio—
+
+&emsp;&emsp;(A) the numerator of which is the net investment income of domestic insurance companies taxable under the same part of this subchapter as such foreign company, and
+
+&emsp;&emsp;(B) the denominator of which is the mean of the assets of the same companies.
+
+#### (4) Election to use worldwide yield
+
+#### (A) In general
+
+&emsp;&emsp;If the foreign company makes an election under this paragraph, such company's worldwide current investment yield shall be taken into account in lieu of the domestic investment yield for purposes of paragraph (1)(B).
+
+#### (B) Worldwide current investment yield
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “worldwide current investment yield” means the percentage obtained by dividing—
+
+&emsp;&emsp;&emsp;(i) the net investment income of the company from all sources, by
+
+&emsp;&emsp;&emsp;(ii) the mean of all assets of the company (whether or not held in the United States).
+
+#### (C) Election
+
+&emsp;&emsp;An election under this paragraph shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
+
+#### (5) Net investment income
+
+&emsp;For purposes of this subsection, the term “net investment income” means—
+
+&emsp;&emsp;(A) gross investment income (within the meaning of section 834(b)), reduced by
+
+&emsp;&emsp;(B) expenses allocable to such income.
+
+#### (c) Special rules for purposes of subsection (b)
+
+#### (1) Coordination with small life insurance company deduction
+
+&emsp;In the case of a foreign company taxable under part I, subsection (b) shall be applied before computing the small life insurance company deduction.
+
+#### (2) Reduction in section 881 taxes
+
+#### (A) In general
+
+&emsp;&emsp;The tax under section 881 (determined without regard to this paragraph) shall be reduced (but not below zero) by an amount which bears the same ratio to such tax as—
+
+&emsp;&emsp;&emsp;(i) the amount of the increase in effectively connected income of the company resulting from subsection (b), bears to
+
+&emsp;&emsp;&emsp;(ii) the amount which would be subject to tax under section 881 if the amount taxable under such section were determined without regard to sections 103 and 894.
+
+#### (B) Limitation on reduction
+
+&emsp;&emsp;The reduction under subparagraph (A) shall not exceed the increase in taxes under part I or II (as the case may be) by reason of the increase in effectively connected income of the company resulting from subsection (b).
+
+#### (3) Adjustment to limitation on deduction for policyholder dividends in the case of foreign mutual life insurance companies
+
+&emsp;For purposes of section 809, the equity base of any foreign mutual life insurance company as of the close of any taxable year shall be increased by the excess of—
+
+&emsp;&emsp;(A) the required United States assets of the company (determined under subsection (b)(2)), over
+
+&emsp;&emsp;(B) the mean of the assets held in the United States during the taxable year.
+
+#### (4) Data used in determining domestic asset/liability percentages and domestic investment yields
+
+&emsp;Each domestic asset/liability percentage, and each domestic investment yield, for any taxable year shall be based on such representative data with respect to domestic insurance companies for the second preceding taxable year as the Secretary considers appropriate.
+
+#### (d) Regulations
+
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations—
+
+&emsp;(1) providing for the proper treatment of segregated asset accounts,
+
+&emsp;(2) providing for proper adjustments in succeeding taxable years where the company's actual net investment income for any taxable year which is effectively connected with the conduct of an insurance business within the United States exceeds the amount required under subsection (b)(1),
+
+&emsp;(3) providing for the proper treatment of investments in domestic subsidiaries, and
+
+&emsp;(4) which may provide that, in the case of companies taxable under part II of this subchapter, determinations under subsection (b) will be made separately for categories of such companies established in such regulations.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, §5(5), 70 Stat. 49; June 25, 1959, Pub. L. 86–69, §3(f)(1), 73 Stat. 140; Nov. 13, 1966, Pub. L. 89–809, title I, §104(i)(1), 80 Stat. 1561; Oct. 22, 1986, Pub. L. 99–514, title X, §1024(c)(11), 100 Stat. 2408; Dec. 22, 1987, Pub. L. 100–203, title X, §10242(a), 101 Stat. 1330–420; Nov. 10, 1988, Pub. L. 100–647, title II, §2004(q)(2), (3), 102 Stat. 3609; Dec. 19, 1989, Pub. L. 101–239, title VII, §7821(d)(2), 103 Stat. 2424.)
+
+#### Amendments
+
+<b>1989</b>—Subsec. (c)(4). Pub. L. 101–239 substituted “yields” for “yeilds” in heading.
+
+<b>1988</b>—Subsec. (b)(3)(B). Pub. L. 100–647, §2004(q)(2)(A), struck out “held for the production of such income” after “same companies”.
+
+Subsec. (b)(4)(B)(ii). Pub. L. 100–647, §2004(q)(2)(B), struck out “held for the production of investment income” after “United States)”.
+
+Subsec. (d)(4). Pub. L. 100–647, §2004(q)(3), added par. (4).
+
+<b>1987</b>—Pub. L. 100–203 substituted “companies” for “corporations” in section catchline and amended text generally. Prior to amendment, text read as follows: “If a foreign corporation carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such corporation shall be taxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income, which is from sources within the United States, such a foreign corporation shall be taxable as provided in section 881.”
+
+<b>1986</b>—Pub. L. 99–514 struck out reference to part III of this subchapter.
+
+<b>1966</b>—Pub. L. 89–809 substituted provisions covering the taxability of foreign corporations that are carrying on an insurance business within the United States which would qualify under part I, II, or III of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation for provisions that the gross income of insurance companies subject to the tax imposed by section 802 or 831 shall not be determined in the manner provided in part I of subchapter N (relating to determination of sources of income).
+
+<b>1959</b>—Pub. L. 86–69 struck out reference to section 811.
+
+<b>1956</b>—Act Mar. 13, 1956, inserted reference to section 811.
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–239 effective as if included in the provision of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 7823 of Pub. L. 101–239, set out as a note under section 26 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
+
+#### Effective Date of 1987 Amendment
+
+Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 31, 1987, see section 10242(d) of Pub. L. 100–203, set out as a note under section 816 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+
+#### Effective Date of 1966 Amendment
+
+Amendment by Pub. L. 89–809 with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
+
+#### Effective Date of 1959 Amendment
+
+Amendment by Pub. L. 86–69 applicable only with respect to taxable years beginning after Dec. 31, 1957, see section 4 of Pub. L. 86–69, set out as a note under section 381 of this title.
+
+#### Effective Date of 1956 Amendment
+
+Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
+
+#### Study of United States Reinsurance Industry
+
+Section 1244 of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study to determine whether United States reinsurance corporations are placed at a significant competitive disadvantage with foreign reinsurance corporations by existing treaties between the United States and foreign countries, and to report before Jan. 1, 1988, the results of such study to Committee on Finance of United States Senate and Committee on Ways and Means of House of Representatives.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 816, 831, 848, 885, 1442 of this title.
+

@@ -56,13 +56,13 @@ Funds withheld after september 30, 1995.—No funds withheld under this section 
 
 &emsp;(2)
 
-Apportionment of withheld funds after compliance.—If, before the last day ofthe period for which funds withheld under subsection (a) from apportionment are to remain available for apportionment to a State under paragraph (1), the State meets the requirements of subsection (a)(3), the Secretary shall, on the first day on which the State meets the requirements of subsection (a)(3), apportion to the State the funds withheld under subsection (a) that remain available for apportionment to the State.
+Apportionment of withheld funds after compliance.—If, before the last day of the period for which funds withheld under subsection (a) from apportionment are to remain available for apportionment to a State under paragraph (1), the State meets the requirements of subsection (a)(3), the Secretary shall, on the first day on which the State meets the requirements of subsection (a)(3), apportion to the State the funds withheld under subsection (a) that remain available for apportionment to the State.
 
 &emsp;(3)
 
 Period of availability of subsequently apportioned funds.—Any funds apportioned pursuant to paragraph (2) shall remain available for expenditure as follows:
 
-&emsp;&emsp;(A) Funds which would have been originally apportioned under section 104(b)(5)(A) shall remain available until the end of the fiscal year succeeding the fiscal year in which such funds are apportioned under paragraph (2).
+&emsp;&emsp;(A) Funds which would have been originally apportioned under section 104(b)(5)(A) shall remain available until the end of the fiscal year succeeding the fiscal year inwhich such funds are apportioned under paragraph (2).
 
 &emsp;&emsp;(B) Funds which would have been originally apportioned under paragraph (1), (3), or (5)(B) of section 104(b) shall remain available until the end of the third fiscal year succeeding the fiscal year in which such funds are so apportioned.
 

@@ -12,23 +12,23 @@
 
 &nbsp;&nbsp;65
 
-15&nbsp;&nbsp;&nbsp;
+15&nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;66
 
-14&nbsp;&nbsp;&nbsp;
+14&nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;67
 
-13&nbsp;&nbsp;&nbsp;
+13&nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;68
 
-12&nbsp;&nbsp;&nbsp;
+12&nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;69
 
-11&nbsp;&nbsp;&nbsp;
+11&nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;70
 
@@ -126,7 +126,7 @@
 
 &emsp;(C) no credit shall be allowed for any service as a judge of the Court of Federal Claims or as a commissioner of the United States Court of Claims unless with respect to such service either there has been deducted and withheld the amount required by chapter 83 or 84 (as the case may be) of title 5 or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
 
-&emsp;(D) the Court of Federal Claims shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (f), and
+&emsp;(D) the Court of Federal Claims shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to suchFund but for the election under subsection (f), and
 
 &emsp;(E) if subparagraph (D) is complied with, service on the Court of Federal Claims or as a commissioner of the United States Court of Claims shall be treated as service with respect to which deductions and contributions had been made during the period of service.
 
@@ -148,9 +148,9 @@ Section 7447 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in section catchline and wherever appearing in text.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in section catchline and wherever appearing in text.
 
-1991—Subsec. (f)(2)(A). Pub. L. 102–198, §7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
+<b>1991</b>—Subsec. (f)(2)(A). Pub. L. 102–198, §7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
 
 Subsec. (f)(2)(D). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
 

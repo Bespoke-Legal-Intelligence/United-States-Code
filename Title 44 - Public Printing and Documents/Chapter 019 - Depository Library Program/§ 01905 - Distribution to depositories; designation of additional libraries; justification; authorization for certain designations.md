@@ -14,7 +14,7 @@ Office of Commissioner of District of Columbia, as established under Reorg. Plan
 
 #### Northern Marianas College as Depository
 
-Pub. L. 101–219, title II, §202, Dec. 12, 1989, 103 Stat. 1874, provided that: “The Northern Marianas College is hereby constituted a depository to receive Government publications, and the Superintendent of Documents shall supply to the Northern Marianas College one copy of each such publication in the same form as supplied to other designated depositories.”
+Pub. L. 101–219, title II, §202, Dec. 12, 1989, 103 Stat. 1874, provided that: “The Northern Marianas College ishereby constituted a depository to receive Government publications, and the Superintendent of Documents shall supply to the Northern Marianas College one copy of each such publication in the same form as supplied to other designated depositories.”
 
 #### District of Columbia Public Library as Depository
 

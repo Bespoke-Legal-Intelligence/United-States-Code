@@ -6,7 +6,7 @@
 
 (c) The facilities authorized by this section shall be operated and staffed by the Administrator but shall be available primarily to industry for testing experimental models in connection with the development of aircraft and missiles. Such tests shall be scheduled and conducted in accordance with industry's requirements and allocation of laboratory time shall be made in accordance with the public interest, with proper emphasis upon the requirements of each military service and due consideration of civilian needs.
 
-(Oct. 27, 1949, ch. 766, title I, §103, 63 Stat. 937; July 29, 1958, Pub. L. 85–568, title III, §301(d)(2), (3), 72 Stat. 433.)
+(Oct. 27, 1949, ch. 766, title I, §103, 63 Stat. 937; Pub. L. 85–568, title III, §301(d)(2), (3), July 29, 1958, 72 Stat. 433.)
 
 #### Amendments
 

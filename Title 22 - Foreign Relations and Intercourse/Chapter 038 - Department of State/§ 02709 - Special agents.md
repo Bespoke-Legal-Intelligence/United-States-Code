@@ -24,7 +24,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 &emsp;&emsp;(D) foreign missions (as defined in section 4302(a)(4) <sup>1</sup> of this title) and international organizations (as defined in section 4309(b) of this title), within the United States;
 
-&emsp;(4) if designated by the Secretary and qualified, under regulations approved by the Attorney General, for the use of firearms, carry firearms for the purpose of performing the duties authorized by this section; and
+&emsp;(4) if designated by the Secretary and qualified, under regulations approved by the Attorney General, for the use of firearms, carryfirearms for the purpose of performing the duties authorized by this section; and
 
 &emsp;(5) arrest without warrant any person for a violation of section 111, 112, 351, 970, or 1028 of title 18—
 
@@ -50,7 +50,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 Nothing in subsection (a)(3) of this section shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 202 of title 3 or section 3056 of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
 
-(Aug. 1, 1956, ch. 841, title I, §37, as added Aug. 16, 1985, Pub. L. 99–93, title I, §125(a), 99 Stat. 415; amended Feb. 16, 1990, Pub. L. 101–246, title I, §113, 104 Stat. 22; Apr. 30, 1994, Pub. L. 103–236, title I, §139(1), 108 Stat. 397.)
+(Aug. 1, 1956, ch. 841, title I, §37, as added Pub. L. 99–93, title I, §125(a), Aug. 16, 1985, 99 Stat. 415; amended Pub. L. 101–246, title I, §113, Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §139(1), Apr. 30, 1994, 108 Stat. 397.)
 
 #### References in Text
 

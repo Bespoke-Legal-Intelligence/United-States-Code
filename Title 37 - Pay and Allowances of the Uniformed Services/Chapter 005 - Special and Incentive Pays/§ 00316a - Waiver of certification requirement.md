@@ -38,5 +38,5 @@ Eligible Members Described.—A member of the Armed Forces referred to in subsec
 
 “(c)
 
-Period for Certification.—The period referred to in subsection (a) for completion of certification of foreign language proficiency with respect to a memberof the Armed Forces is the 180-day period (extended for such additional time as the Secretary of Defense determines to be appropriate) beginning on the date that the member is released from the duty to which the member was assigned in connection with Operation Desert Storm.”
+Period for Certification.—The period referred to in subsection (a) for completion of certification of foreign language proficiency with respect to a member of the Armed Forces is the 180-day period (extended for such additional time as the Secretary of Defense determines to be appropriate) beginning on the date that the member is released from the duty to which the member was assigned in connection with Operation Desert Storm.”
 

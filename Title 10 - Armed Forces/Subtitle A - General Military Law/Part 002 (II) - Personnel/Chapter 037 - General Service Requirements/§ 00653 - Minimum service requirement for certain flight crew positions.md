@@ -40,7 +40,7 @@ Section 634(b) of Pub. L. 101–189 provided that:
 
 “(1) Except as provided in paragraphs (2) and (3), section 653 of title 10, United States Code, as added by subsection (a)(1), shall apply to persons who begin undergraduate pilot training, undergraduate navigator training, or undergraduate naval flight officer training, as the case may be, after September 30, 1990.
 
-“(2) Such section shall apply to persons who graduate from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the Coast Guard Academy after December 31, 1991, and to persons who satisfactorily complete the academic and military requirements of the Senior Reserve Officers’ Training Corps program (provided for in chapter 103 of title 10, United States Code) after December 31, 1991.
+“(2) Such section shall apply to persons who graduate from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the Coast Guard Academy after December 31, 1991, and to persons who satisfactorily complete the academic and military requirements of the Senior Reserve Officers’ Training Corps program (provided forin chapter 103 of title 10, United States Code) after December 31, 1991.
 
 “(3) The minimum service requirements provided for such section shall not apply in the case of any person who entered into an agreement with the Secretary concerned before October 1, 1990, and who is obligated under the terms of such agreement to serve on active duty for a period less than the applicable period specified in section 653 of such title.
 

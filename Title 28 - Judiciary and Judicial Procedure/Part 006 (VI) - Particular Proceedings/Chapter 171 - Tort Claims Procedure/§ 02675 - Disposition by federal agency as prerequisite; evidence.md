@@ -6,7 +6,7 @@
 
 (c) Disposition of any claim by the Attorney General or other head of a federal agency shall not be competent evidence of liability or amount of damages.
 
-(June 25, 1948, ch. 646, 62 Stat. 983; May 24, 1949, ch. 139, §126, 63 Stat. 107; July 18, 1966, Pub. L. 89–506, §2, 80 Stat. 306.)
+(June 25, 1948, ch. 646, 62 Stat. 983; May 24, 1949, ch. 139, §126, 63 Stat. 107; Pub. L. 89–506, §2, July 18, 1966, 80 Stat. 306.)
 
 #### Historical and Revision Notes
 
@@ -28,11 +28,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 #### Amendments
 
-1966—Subsec. (a). Pub. L. 89–506, §2(a), required that all administrative claims be filed with the agency or department and finally denied by the agency and sent by certified or registered mail prior to the filing of a court action against the United States, provided that the claimant be given the option of considering the claim to have been denied if the agency fails to make final disposition of the claim within six months of presentation of the claim to the agency, and provided that the requirements of the subsection would not apply to claims asserted under the Federal Rules of Civil Procedure by third party complaint, cross-claim, or counterclaim.
+<b>1966</b>—Subsec. (a). Pub. L. 89–506, §2(a), required that all administrative claims be filed with the agency or department and finally denied by the agency and sent by certified or registered mail prior to the filing of a court action against the United States, provided that the claimant be given the option of considering the claim to have been denied if the agency fails to make final disposition of the claim within six months of presentation of the claim to the agency, and provided that the requirements of the subsection would not apply to claims asserted under the Federal Rules of Civil Procedure by third party complaint, cross-claim, or counterclaim.
 
 Subsec. (b). Pub. L. 89–506, §2(b), struck out provisions under which a claimant could, upon 15 days written notice, withdraw a claim from the agency and institute an action thereon.
 
-1949—Subsec. (b). Act May 24, 1949, substituted “section” for “subsection”.
+<b>1949</b>—Subsec. (b). Act May 24, 1949, substituted “section” for “subsection”.
 
 #### Effective Date of 1966 Amendment
 
@@ -50,5 +50,5 @@ Venue in tort claims actions, see section 1402 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2679 of this title; title 5 section 8477; title 23 section 307.
+This section is referred to in section 2679 of this title; title 5 section 8477; title 8 section 1357; title 23 section 307.
 

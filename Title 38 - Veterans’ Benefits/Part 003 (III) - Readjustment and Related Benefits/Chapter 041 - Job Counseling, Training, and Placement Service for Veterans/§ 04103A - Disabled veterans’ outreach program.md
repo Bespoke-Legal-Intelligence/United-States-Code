@@ -22,7 +22,7 @@
 
 &emsp;(2) Pursuant to regulations prescribed by the Secretary after consultation with the Secretary of Veterans Affairs, promotion and development of apprenticeship and other on-job training positions pursuant to section 3687 of this title.
 
-&emsp;(3) The carrying out of outreach activities to locate such veterans through contacts with local veterans organizations, the Department of Veterans Affairs, the State employment service agency and local employment service offices, and community-based organizations.
+&emsp;(3) The carrying out of outreach activities to locate such veterans through contacts with local veterans organizations, the Departmentof Veterans Affairs, the State employment service agency and local employment service offices, and community-based organizations.
 
 &emsp;(4) Provision of appropriate assistance to community-based groups and organizations and appropriate grantees under other Federal and federally funded employment and training programs (including part C of title IV of the Job Training Partnership Act (29 U.S.C. 1501 et seq.)) in providing services to such veterans.
 

@@ -122,7 +122,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(A) individuals between the ages of 5 and 17, inclusive; and
 
-&emsp;&emsp;(B) children with disabilities, as defined in section 602(a)(1) of the Individuals with Disabilities Education Act (20 U.S.C. 1401(a)(1)), who receive services under part B of such Act \[20 U.S.C. 1411 et seq.\].
+&emsp;&emsp;(B) children with disabilities, as defined in section 602(a)(1) <sup>1</sup> of the Individuals with Disabilities Education Act (20 U.S.C. 1401(a)(1)), who receive services under part B of such Act \[20 U.S.C. 1411 et seq.\].
 
 #### (22) Secondary school
 
@@ -180,7 +180,7 @@ This chapter, referred to in pars. (15) and (17)(A)(ii), was in the original “
 
 The Domestic Volunteer Service Act of 1973, referred to in par. (15), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in par. (21)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (21)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. Section 602 of the Act, which was classified to section 1401 of Title 20, was omitted in the general amendment of subchapter I of chapter 33 of Title 20 by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602, which is classified to section 1401 of Title 20, and contains provisions defining “child with a disability”. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 For ratification of Compact of Free Association with Palau, referred to in par. (26), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
@@ -227,4 +227,6 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2751, 12524, 12531, 12561, 12604, 12653b, 12682 of this title; title 20 section 1141.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -52,7 +52,7 @@ The Secretary's proper discharge of the trust responsibilities of the United Sta
 
 &emsp;(8) Appropriately managing the natural resources located within the boundaries of Indian reservations and trust lands.
 
-(June 24, 1938, ch. 648, §1, 52 Stat. 1037; Nov. 4, 1983, Pub. L. 98–146, title I, 97 Stat. 929; Nov. 29, 1990, Pub. L. 101–644, title III, §302, 104 Stat. 4667; Oct. 25, 1994, Pub. L. 103–412, title I, §§101, 103(b), (c), 108 Stat. 4240, 4241.)
+(June 24, 1938, ch. 648, §1, 52 Stat. 1037; Pub. L. 98–146, title I, Nov. 4, 1983, 97 Stat. 929; Pub. L. 101–644, title III, §302, Nov. 29, 1990, 104 Stat. 4667; Pub. L. 103–412, title I, §§101, 103(b), (c), Oct. 25, 1994, 108 Stat. 4240, 4241.)
 
 #### References in Text
 

@@ -8,11 +8,11 @@
 
 #### (2) Exclusion of certain periods
 
-&emsp;In computing the period of service of a participant, all periods of separation from the Agency and so much of any leave of absence without pay as may exceed six months in the aggregate in any calendar year shall be excluded, except leaves of absence while receiving benefits under chapter 81 of title 5 and leaves of absence granted participants while performing active and honorable service in the Armed Forces.
+&emsp;In computing the period of service of a participant, all periods of separation from theAgency and so much of any leave of absence without pay as may exceed six months in the aggregate in any calendar year shall be excluded, except leaves of absence while receiving benefits under chapter 81 of title 5 and leaves of absence granted participants while performing active and honorable service in the Armed Forces.
 
 #### (3) Crediting certain periods of separation
 
-&emsp;A participant or former participant who returns to Government duty after a period of separation shall have included in the participant or former participant's period of service that part of the period of separation in whichthe participant or former participant was receiving benefits under chapter 81 of title 5.
+&emsp;A participant or former participant who returns to Government duty after a period of separation shall have included in the participant or former participant's period of service that part of the period of separation in which the participant or former participant was receiving benefits under chapter 81 of title 5.
 
 #### (b) Extra credit for periods served at unhealthful posts overseas
 

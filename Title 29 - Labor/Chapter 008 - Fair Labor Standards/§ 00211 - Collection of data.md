@@ -16,7 +16,7 @@ Every employer subject to any provision of this chapter or of any order issued u
 
 The Administrator is authorized to make such regulations and orders regulating, restricting, or prohibiting industrial homework as are necessary or appropriate to prevent the circumvention or evasion of and to safeguard the minimum wage rate prescribed in this chapter, and all existing regulations or orders of the Administrator relating to industrial homework are continued in full force and effect.
 
-(June 25, 1938, ch. 676, §11, 52 Stat. 1066; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §9, 63 Stat. 916; Nov. 13, 1985, Pub. L. 99–150, §3(c)(2), 99 Stat. 789.)
+(June 25, 1938, ch. 676, §11, 52 Stat. 1066; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §9, 63 Stat. 916; Pub. L. 99–150, §3(c)(2), Nov. 13, 1985, 99 Stat. 789.)
 
 #### Amendments
 

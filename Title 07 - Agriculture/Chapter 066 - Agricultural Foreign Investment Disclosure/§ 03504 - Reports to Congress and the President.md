@@ -2,7 +2,7 @@
 
 (a) In accordance with the schedule set forth in subsection (b) of this section, the Secretary shall—
 
-&emsp;(1) with respect to each period set forth in such subsection, analyze information obtainedby the Secretary under section 3501 of this title and determine the effects of foreign persons acquiring, transferring, and holding agricultural land, particularly the effects of such acquisitions, transfers, and holdings on family farms and rural communities; and
+&emsp;(1) with respect to each period set forth in such subsection, analyze information obtained by the Secretary under section 3501 of this title and determine the effects of foreign persons acquiring, transferring, and holding agricultural land, particularly the effects of such acquisitions, transfers, and holdings on family farms and rural communities; and
 
 &emsp;(2) transmit to the President and each House of the Congress a report on the Secretary's findings and conclusions regarding—
 
@@ -22,7 +22,7 @@
 
 1995—Subsec. (b). Pub. L. 104–66 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An analysis and determination shall be made, and a report on the Secretary's findings and conclusions regarding such analysis and determination transmitted, pursuant to subsection (a) of this section—
 
-&emsp;“(1) with respect to information obtained by the Secretary under section 3501 of this title during the 6-month period following the effective date of section 3501 of this title, within 9 months after such effective date;
+&emsp;“(1) with respect to information obtained by the Secretary under section 3501 of this title during the6-month period following the effective date of section 3501 of this title, within 9 months after such effective date;
 
 &emsp;“(2) with respect to information obtained by the Secretary under section 3501 of this title during the 12-month period following the effective date of section 3501 of this title, within 15 months after such effective date; and
 

@@ -70,7 +70,7 @@ No right of priority or benefit of earliest filing date.—A provisional applica
 
 Applicable provisions.—The provisions of this title relating to applications for patent shall apply to provisional applications for patent, except as otherwise provided, and except that provisional applications for patent shall not be subject to sections 115, 131, 135, and 157 of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Aug. 27, 1982, Pub. L. 97–247, §5, 96 Stat. 319; Dec. 8, 1994, Pub. L. 103–465, title V, §532(b)(3), 108 Stat. 4986.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 97–247, §5, Aug. 27, 1982, 96 Stat. 319; Pub. L. 103–465, title V, §532(b)(3), Dec. 8, 1994, 108 Stat. 4986.)
 
 #### Historical and Revision Notes
 

@@ -36,7 +36,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) any individual who is retained under contract or other arrangement to serve functions similar to those of an officer, employee, or other staff member.
 
-(Aug. 1, 1956, ch. 841, title II, §216, as added Dec. 22, 1987, Pub. L. 100–204, title I, §162(a), 101 Stat. 1357; amended Apr. 30, 1994, Pub. L. 103–236, title I, §139(3), 108 Stat. 397.)
+(Aug. 1, 1956, ch. 841, title II, §216, as added Pub. L. 100–204, title I, §162(a), Dec. 22, 1987, 101 Stat. 1357; amended Pub. L. 103–236, title I, §139(3), Apr. 30, 1994, 108 Stat. 397.)
 
 #### Codification
 

@@ -8,7 +8,7 @@ Communities, associations, corporations, firms, and individuals interested in th
 
 The Attorney General shall not dispose of or discontinue said action or proceeding over the objection of such party or intervenor, who may prosecute, defend, or continue said action or proceeding unaffected by the action or nonaction of the Attorney General therein.
 
-(June 25, 1948, ch. 646, 62 Stat. 970; May 24, 1949, ch. 139, §116, 63 Stat. 105; Jan. 2, 1975, Pub. L. 93–584, §6, 88 Stat. 1917; Oct. 17, 1978, Pub. L. 95–473, §2(a)(3)(C), 92 Stat. 1465; Dec. 29, 1995, Pub. L. 104–88, title III, §305(c)(1)(C), (D), 109 Stat. 945.)
+(June 25, 1948, ch. 646, 62 Stat. 970; May 24, 1949, ch. 139, §116, 63 Stat. 105; Pub. L. 93–584, §6, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–473, §2(a)(3)(C), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, §305(c)(1)(C), (D), Dec. 29, 1995, 109 Stat. 945.)
 
 #### Historical and Revision Notes
 
@@ -26,17 +26,17 @@ Changes were made in phraseology.
 
 #### 1949 Act
 
-This section corrects, in section 2323 of title 28, U.S.C., the reference to certain sections in title 49,U.S.C. The provisions which were formerly set out as section 49 of such title 49 are now set out as section 23 of such title.
+This section corrects, in section 2323 of title 28, U.S.C., the reference to certain sections in title 49, U.S.C. The provisions which were formerly set out as section 49 of such title 49 are now set out as section 23 of such title.
 
 #### Amendments
 
-1995—Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission” and substituted “the Board” for “the Commission” in two places.
+<b>1995</b>—Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission” and substituted “the Board” for “the Commission” in two places.
 
-1978—Pub. L. 95–473 substituted “enforcement actions and actions to collect civil penalties under subtitle IV of title 49” for “actions under section 20 of the Act of February 4, 1887, as amended (24 Stat. 386; 49 U.S.C. 20), section 23 of the Act of May 16, 1942, as amended (56 Stat. 301; 49 U.S.C. 23), and section 3 of the Act of February 19, 1903, as amended (32 Stat. 848; 49 U.S.C. 43)” in first par.
+<b>1978</b>—Pub. L. 95–473 substituted “enforcement actions and actions to collect civil penalties under subtitle IV of title 49” for “actions under section 20 of the Act of February 4, 1887, as amended (24 Stat. 386; 49 U.S.C. 20), section 23 of the Act of May 16, 1942, as amended (56 Stat. 301; 49 U.S.C. 23), and section 3 of the Act of February 19, 1903, as amended (32 Stat. 848; 49 U.S.C. 43)” in first par.
 
-1975—Pub. L. 93–584 struck out reference to the district courts and the Supreme Court of the United States upon appeal from the district courts as the courts in which the Attorney General can represent the United States in first par.
+<b>1975</b>—Pub. L. 93–584 struck out reference to the district courts and the Supreme Court of the United States upon appeal from the district courts as the courts in which the Attorney General can represent the United States in first par.
 
-1949—Act May 24, 1949, substituted “20, 23, and 43” for “20, 43, and 49” in first par.
+<b>1949</b>—Act May 24, 1949, substituted “20, 23, and 43” for “20, 43, and 49” in first par.
 
 #### Effective Date of 1995 Amendment
 

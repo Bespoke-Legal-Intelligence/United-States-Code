@@ -14,6 +14,22 @@ OPM Approval.—The Secretary of Defense shall submit any requirement with respe
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644.)
 
+#### Promotion Rate for Officers in an Acquisition Corps
+
+Pub. L. 105–85, div. A, title VIII, §849, Nov. 18, 1997, 111 Stat. 1846, provided that:
+
+“(a)
+
+Review of Acquisition Corps Promotion Selections.—Upon the approval of the President or his designee of the report of a selection board convened under section 611(a) of title 10, United States Code, which considered members of an Acquisition Corps of a military department for promotion to a grade above O–4, the Secretary of the military department shall submit a copy of the report to the Under Secretary of Defense for Acquisition and Technology for review.
+
+“(b)
+
+Reporting Requirement.—Not later than January 31 of each year, the Under Secretary of Defense for Acquisition and Technology shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report containing the Under Secretary's assessment of the extent to which each military department is complying with the requirement set forth in section 1731(b) of title 10, United States Code.
+
+“(c)
+
+Termination of Requirements.—This section shall cease to be effective on October 1, 2000.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1706, 1762 of this title.

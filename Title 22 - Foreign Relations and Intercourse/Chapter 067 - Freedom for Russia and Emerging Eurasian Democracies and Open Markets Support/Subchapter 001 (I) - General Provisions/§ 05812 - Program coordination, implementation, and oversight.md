@@ -12,7 +12,7 @@ The President shall designate, within the Department of State, a coordinator who
 
 &emsp;(4) ensuring that United States assistance programs for the independent states are consistent with this Act (including the amendments made by this Act);
 
-&emsp;(5) ensuring proper management, implementation, and oversight by agencies responsible for assistance programs for the independent states; and
+&emsp;(5) ensuring proper management, implementation, and oversight by agencies responsiblefor assistance programs for the independent states; and
 
 &emsp;(6) resolving policy and program disputes among United States Government agencies with respect to United States assistance for the independent states.
 

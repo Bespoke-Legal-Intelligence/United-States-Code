@@ -1,0 +1,152 @@
+### §2106. Taxable estate
+
+#### (a) Definition of taxable estate
+
+For purposes of the tax imposed by section 2101, the value of the taxable estate of every decedent nonresident not a citizen of the United States shall be determined by deducting from the value of that part of his gross estate which at the time of his death is situated in the United States—
+
+#### (1) Expenses, losses, indebtedness, and taxes
+
+&emsp;That proportion of the deductions specified in sections 2053 and 2054 (other than the deductions described in the following sentence) which the value of such part bears to the value of his entire gross estate, wherever situated. Any deduction allowable under section 2053 in the case of a claim against the estate which was founded on a promise or agreement but was not contracted for an adequate and full consideration in money or money's worth shall be allowable under this paragraph to the extent that it would be allowable as a deduction under paragraph (2) if such promise or agreement constituted a bequest.
+
+#### (2) Transfers for public, charitable, and religious uses
+
+#### (A) In general
+
+&emsp;&emsp;The amount of all bequests, legacies, devises, or transfers (including the interest which falls into any such bequest, legacy, devise, or transfer as a result of an irrevocable disclaimer of a bequest, legacy, devise, transfer, or power, if the disclaimer is made before the date prescribed for the filing of the estate tax return)—
+
+&emsp;&emsp;&emsp;(i) to or for the use of the United States, any State, any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
+
+&emsp;&emsp;&emsp;(ii) to or for the use of any domestic corporation organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private stockholder or individual, which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office; or
+
+&emsp;&emsp;&emsp;(iii) to a trustee or trustees, or a fraternal society, order, or association operating under the lodge system, but only if such contributions or gifts are to be used within the United States by such trustee or trustees, or by such fraternal society, order, or association, exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and such trustee or trustees, or such fraternal society, order, or association, does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
+
+#### (B) Powers of appointment
+
+&emsp;&emsp;Property includible in the decedent's gross estate under section 2041 (relating to powers of appointment) received by a donee described in this paragraph shall, for purposes of this paragraph, be considered a bequest of such decedent.
+
+#### (C) Death taxes payable out of bequests
+
+&emsp;&emsp;If the tax imposed by section 2101, or any estate, succession, legacy, or inheritance taxes, are, either by the terms of the will, by the law of the jurisdiction under which the estate is administered, or by the law of the jurisdiction imposing the particular tax, payable in whole or in part out of the bequests, legacies, or devises otherwise deductible under this paragraph, then the amount deductible under this paragraph shall be the amount of such bequests, legacies, or devises reduced by the amount of such taxes.
+
+#### (D) Limitation on deduction
+
+&emsp;&emsp;The amount of the deduction under this paragraph for any transfer shall not exceed the value of the transferred property required to be included in the gross estate.
+
+#### (E) Disallowance of deductions in certain cases
+
+&emsp;&emsp;The provisions of section 2055(e) shall be applied in the determination of the amount allowable as a deduction under this paragraph.
+
+#### (F) Cross references
+
+&emsp;&emsp;&emsp;<b>(i) For option as to time for valuation for purposes of deduction under this section, see section 2032.</b>
+
+&emsp;&emsp;&emsp;<b>(ii) For exemption of certain bequests for the benefit of the United States and for rules of construction for certain bequests, see section 2055(g).</b>
+
+&emsp;&emsp;&emsp;<b>(iii) For treatment of gifts and bequests to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
+
+#### (3) Marital deduction
+
+&emsp;The amount which would be deductible with respect to property situated in the United States at the time of the decedent's death under the principles of section 2056.
+
+#### (b) Condition of allowance of deductions
+
+No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 398; Sept. 2, 1958, Pub. L. 85–866, title I, §30(d), 72 Stat. 1631; Sept. 14, 1960, Pub. L. 86–779, §4(c), 74 Stat. 1000; Nov. 13, 1966, Pub. L. 89–809, title I, §108(e), 80 Stat. 1572; Dec. 30, 1969, Pub. L. 91–172, title II, §201(d)(2), (4)(B), 83 Stat. 561; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(1)(B)(iii), (C), title XIX, §1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), 90 Stat. 1727, 1805, 1852; Jan. 14, 1983, Pub. L. 97–473, title II, §202(b)(6), 96 Stat. 2610; Oct. 22, 1986, Pub. L. 99–514, title XIV, §1422(c), 100 Stat. 2717; Dec. 22, 1987, Pub. L. 100–203, title X, §10711(a)(4), 101 Stat. 1330–464; Nov. 10, 1988, Pub. L. 100–647, title V, §5033(c), 102 Stat. 3672; Dec. 19, 1989, Pub. L. 101–239, title VII, §7815(d)(3), 103 Stat. 2415.)
+
+#### Amendments
+
+<b>1989</b>—Subsec. (a)(3). Pub. L. 101–239 struck out “allowed where spouse is citizen” after “deduction” in heading.
+
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–647 added par. (3).
+
+<b>1987</b>—Subsec. (a)(2)(A)(ii), (iii). Pub. L. 100–203 inserted “(or in opposition to)” after “on behalf of”.
+
+<b>1986</b>—Subsec. (a)(2)(F)(ii). Pub. L. 99–514 substituted “section 2055(g)” for “section 2055(f)”.
+
+<b>1983</b>—Subsec. (a)(2)(F). Pub. L. 97–473 substituted “(i)” and “(ii)” for “(1)” and “(2)”, respectively, and added cl. (iii).
+
+<b>1976</b>—Subsec. (a)(2)(A)(i). Pub. L. 94–455, §1902 (a)(12)(A), struck out “Territory” after “any State”.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 94–455, §1307(d)(1)(B)(iii), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “stockholder or individual”.
+
+Subsec. (a)(2)(A)(iii). Pub. L. 94–455, §1307(d)(1)(C), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation” after “children or animals”.
+
+Subsec. (a)(2)(F). Pub. L. 94–455, §1902(a)(5)(A), substituted “Cross references” for “Other cross references” after “(F)”, in cl. (1) “purposes of deduction under this section” for “purpose of deduction under this paragraph” after “valuation for”, in cl. (2) provision for exemption of certain bequests for benefit of United States and for rules of construction for certain bequests, for provisions of cls. (2) to (11) relating to bequests to; Library of Congress, Post Office Department, Office of Naval Records and Library, National Park Service, Department of State, Department of Justice, payment of tax on bequests of United States obligations, Naval Academy, Naval Academy Museum, and National Archives Trust Fund Board, respectively.
+
+Subsec. (a)(3). Pub. L. 94–455, §2001(c)(1)(F), struck out par. (3) relating to specific exemption in case of decedents nonresidents not citizens.
+
+Subsec. (c). Pub. L. 94–455, §1902(a)(5)(B), struck out subsec. (c) relating to treatment of United States bonds in determining gross estate of a decedent who was not engaged in business in the United States at the time of his death.
+
+<b>1969</b>—Subsec. (a)(2)(A)(ii), (iii). Pub. L. 91–172, §201(d)(4)(B), inserted non-participation and non-intervention in political campaigns as an additional qualification.
+
+Subsec. (a)(2)(E). Pub. L. 91–172, §201(d)(2), substituted substantive provisions for simple reference to sections 503 and 681 of this title in which such substantive provisions were formerly set out.
+
+<b>1966</b>—Subsec. (a)(3). Pub. L. 89–809 substituted “$30,000” for “$2,000” as size of exemption in subpar. (A) and “$30,000” for “$2,000” as item (i) in formula set out in subpar. (B).
+
+<b>1960</b>—Subsec. (a)(3). Pub. L. 86–779 designated existing provisions as subpar. (A) and added subpar. (B).
+
+<b>1958</b>—Subsec. (a)(2)(E). Pub. L. 85–866 substituted “503” for “504”.
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, seesection 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–647 applicable to estates of decedents dying after Nov. 10, 1988, see section 5033(d)(1) of Pub. L. 100–647, set out as a note under section 2056 of this title.
+
+#### Effective Date of 1987 Amendment
+
+Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 22, 1987, see section 10711(c) of Pub. L. 100–203, set out as a note under section 170 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by Pub. L. 99–514 applicable to transfers and contributions made after Dec. 31, 1986, see section 1422(e) of Pub. L. 99–514, set out as a note under section 2055 of this title.
+
+#### Effective Date of 1983 Amendment
+
+For effective date of amendment by Pub. L. 97–473, see section 204(3) of Pub. L. 97–473, set out as an Effective Date note under section 7871 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by section 1902(a)(5) of Pub. L. 94–455 applicable in the case of estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2011 of this title.
+
+Amendment by section 2001(c)(1)(F) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
+
+#### Effective Date of 1969 Amendment
+
+Amendment by section 201(d)(2) of Pub. L. 91–172 applicable in the case of decedents dying after Dec. 31, 1969, with specified exceptions, see section 201(g)(4) of Pub. L. 91–172, set out as a note under section 170 of this title.
+
+Amendment by section 201(d)(4)(B) of Pub. L. 91–172 applicable to gifts and transfers made after Dec. 31, 1969, see section 201(g)(4) of Pub. L. 91–172, set out as a note under section 170 of this title.
+
+#### Effective Date of 1966 Amendment
+
+Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dying after Nov. 13, 1966, see section 108(i) of Pub. L. 89–809, set out as a note under section 2101 of this title.
+
+#### Effective Date of 1960 Amendment
+
+Section 4(e)(2) of Pub. L. 86–779 provided that: “The amendments made by subsections (b) and (c) \[enacting section 2209 of this title and amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Sept. 14, 1960\].”
+
+#### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
+
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+
+#### Cross References
+
+Alternate valuation, see section 2032 of this title.
+
+Credits against tax, see sections 2012, 2013 of this title.
+
+Income taxes—
+
+&emsp;&emsp;Disallowance of certain charitable deductions, see sections 503, 681 of this title.
+
+&emsp;&emsp;Distributions in redemption of stock to pay death taxes, see section 303 of this title.
+
+Liability of recipient of property over which decedent had power of appointment, see section 2207 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 303, 508, 2011, 2012, 2013, 2032, 2053, 2101, 2107, 2108, 2701, 4947, 4948, 7871 of this title; title 22 section 3307.
+

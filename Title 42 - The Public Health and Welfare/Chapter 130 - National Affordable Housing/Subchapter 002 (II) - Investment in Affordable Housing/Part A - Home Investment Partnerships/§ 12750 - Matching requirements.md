@@ -80,7 +80,7 @@ Such contributions may be in the form of—
 
 #### (5) Waiver in disaster areas
 
-&emsp;If a participating jurisdiction is located in an area in which a declaration of a disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] is in effect for any part ofa fiscal year, the Secretary may reduce the matching requirement for that fiscal year under subsection (a) of this section with respect to any funds drawn from a jurisdiction's HOME Investment Trust Fund Account during that fiscal year by up to 100 percent.
+&emsp;If a participating jurisdiction is located in an area in which a declaration of a disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\] is in effect for any part of a fiscal year, the Secretary may reduce the matching requirement for that fiscal year under subsection (a) of this section with respect to any funds drawn from a jurisdiction's HOME Investment Trust Fund Account during that fiscal year by up to 100 percent.
 
 (Pub. L. 101–625, title II, §220, Nov. 28, 1990, 104 Stat. 4111; Pub. L. 102–550, title II, §§207(c), 210(a)–(c), Oct. 28, 1992, 106 Stat. 3753, 3755; Pub. L. 103–233, title II, §204, Apr. 11, 1994, 108 Stat. 364.)
 

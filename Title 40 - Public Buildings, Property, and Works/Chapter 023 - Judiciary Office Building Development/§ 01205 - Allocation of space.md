@@ -28,11 +28,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Whenever the Chief Justice notifies the Architect that the judicial branch of the United States requires additional space in the building and other improvements constructed under this chapter, the Architect shall accommodate those requirements (i) in the case of space made available to the Administrator of General Services, by a dateagreed upon under subparagraph (B), or (ii) in the case of space made available to any person or governmental entity (other than the General Services Administration), within 90 days after the date of such notification.
+&emsp;&emsp;Whenever the Chief Justice notifies the Architect that the judicial branch of the United States requires additional space in the building and other improvements constructed under this chapter, the Architect shall accommodate those requirements (i) in the case of space made available to the Administrator of General Services, by a date agreed upon under subparagraph (B), or (ii) in the case of space made available to any person or governmental entity (other than the General Services Administration), within 90 days after the date of such notification.
 
 #### (B) Space available to GSA
 
-&emsp;&emsp;In any case in which such additional space is provided from space in the building made available to the Administrator of General Services, the space shall be vacated expeditiously by not later than a date mutually agreed upon by the Chief Justice and the Administrator of General Services.
+&emsp;&emsp;In any case in which such additional space is provided from space in the building made available to the Administrator of GeneralServices, the space shall be vacated expeditiously by not later than a date mutually agreed upon by the Chief Justice and the Administrator of General Services.
 
 #### (C) Unoccupied space
 

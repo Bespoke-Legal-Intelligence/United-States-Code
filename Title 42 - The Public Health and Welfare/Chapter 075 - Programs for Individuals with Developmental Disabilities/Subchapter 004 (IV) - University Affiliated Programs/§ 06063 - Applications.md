@@ -138,7 +138,7 @@ Subsec. (e)(1). Pub. L. 101–496, §18(2), struck out “by regulation” after
 
 1987—Subsec. (a). Pub. L. 100–146, §403(a), substituted “programs” for “facilities”, “all persons” for “persons”, and “section 6001(18)” for “section 6001(13)”.
 
-Subsec. (b). Pub. L. 100–146, §403(b), in introductory provisions, substituted “section 6062(a)” for “section 6062”, in par. (2), substituted “program” for “facility” in subpar. (A), “will make” for “is making” and “program” for “facility” in subpar. (B)(i), and “program” for facility” in subpar. (B)(ii), and added pars. (4) and (5).
+Subsec. (b). Pub. L. 100–146, §403(b), in introductory provisions, substituted “section 6062(a)” for “section 6062”, in par. (2), substituted “program” for “facility” in subpar. (A), “will make” for “is making” and “program” for “facility” in subpar. (B)(i), and “program” for “facility” in subpar. (B)(ii), and added pars. (4) and (5).
 
 Subsec. (c). Pub. L. 100–146, §403(c), substituted “section 6062(a)” for “section 6062” and “program” for “facility”.
 

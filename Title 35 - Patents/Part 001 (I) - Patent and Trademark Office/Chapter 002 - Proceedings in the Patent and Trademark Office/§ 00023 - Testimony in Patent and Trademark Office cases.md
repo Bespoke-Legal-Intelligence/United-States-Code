@@ -2,7 +2,7 @@
 
 The Commissioner may establish rules for taking affidavits and depositions required in cases in the Patent and Trademark Office. Any officer authorized by law to take depositions to be used in the courts of the United States, or of the State where he resides, may take such affidavits and depositions.
 
-(July 19, 1952, ch. 950, 66 Stat. 795; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 795; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

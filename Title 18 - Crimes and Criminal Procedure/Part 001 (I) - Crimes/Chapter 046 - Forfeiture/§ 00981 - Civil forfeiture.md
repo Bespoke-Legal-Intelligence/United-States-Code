@@ -56,7 +56,7 @@
 
 &emsp;(B) the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, has obtained a warrant for such seizure pursuant to the Federal Rules of Criminal Procedure, in which event proceedings under subsection (d) of this section shall be instituted promptly.
 
-(c) Property taken or detained under this section shall not be repleviable, but shall be deemed to be in the custody of the Attorney General, the Secretary of the Treasury, or thePostal Service, as the case may be, subject only to the orders and decrees of the court or the official having jurisdiction thereof. Whenever property is seized under this subsection, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, may—
+(c) Property taken or detained under this section shall not be repleviable, but shall be deemed to be in the custody of the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, subject only to the orders and decrees of the court or the official having jurisdiction thereof. Whenever property is seized under this subsection, the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, may—
 
 &emsp;(1) place the property under seal;
 
@@ -90,7 +90,7 @@
 
 (f) All right, title, and interest in property described in subsection (a) of this section shall vest in the United States upon commission of the act giving rise to forfeiture under this section.
 
-(g) The filing of an indictment or information alleging a violation of law, Federal, State, or local, which is also related to a forfeiture proceeding under this section shall, upon motion ofthe United States and for good cause shown, stay the forfeiture proceeding.
+(g) The filing of an indictment or information alleging a violation of law, Federal, State, or local, which is also related to a forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the forfeiture proceeding.
 
 (h) In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
@@ -134,7 +134,7 @@ Section 3 of the Anti Drug Abuse Act of 1986, referred to in subsec. (e), is sec
 
 Section 8(e)(7)(D) of the Federal Deposit Insurance Act, referred to in subsec. (e)(7), is classified to section 1818(e)(7)(D) of Title 12, Banks and Banking.
 
-Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)(1)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably shouldbe to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
+Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)(1)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
 #### Amendments
 
@@ -192,7 +192,7 @@ Subsec. (b). Pub. L. 100–690, §6463(b), which directed amendment of subsec. (
 
 Pub. L. 100–690, §6469(b)(1), inserted “or the Postal Service” after “Secretary of the Treasury” in two places in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 100–690, §6469(b)(2), substituted “the Attorney General, the Secretary of the Treasury,or the Postal Service” for “the Attorney General or the Secretary of the Treasury”.
+Subsec. (b)(2). Pub. L. 100–690, §6469(b)(2), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury”.
 
 Subsec. (c). Pub. L. 100–690, §6469(b)(2), substituted “the Attorney General, the Secretary of the Treasury, or the Postal Service” for “the Attorney General or the Secretary of the Treasury” in two places.
 

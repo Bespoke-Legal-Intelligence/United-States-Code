@@ -16,5 +16,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Cross References
 
-Transfer of material, see section 483 of Title 40. Public Buildings, Property, and Works.
+Transfer of material, see section 483 of Title 40, Public Buildings, Property, and Works.
 

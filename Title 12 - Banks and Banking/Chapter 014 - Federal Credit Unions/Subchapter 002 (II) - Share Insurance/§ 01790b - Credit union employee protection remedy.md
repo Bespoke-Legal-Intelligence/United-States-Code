@@ -38,7 +38,7 @@ The protections of this section shall not apply to any employee who—
 
 &emsp;(2) knowingly or recklessly provides substantially false information to such an agency or the Attorney General.
 
-(June 26, 1934, ch. 750, title II, §213, as added Aug. 9, 1989, Pub. L. 101–73, title IX, §932(b), 103 Stat. 494; amended Dec. 19, 1991, Pub. L. 102–242, title II, §251(b)(1), (2), 105 Stat. 2332, 2333; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1604(d), 106 Stat. 4084.)
+(June 26, 1934, ch. 750, title II, §213, as added Pub. L. 101–73, title IX, §932(b), Aug. 9, 1989, 103 Stat. 494; amended Pub. L. 102–242, title II, §251(b)(1), (2), Dec. 19, 1991, 105 Stat. 2332, 2333; Pub. L. 102–550, title XVI, §1604(d), Oct. 28, 1992, 106 Stat. 4084.)
 
 #### Amendments
 

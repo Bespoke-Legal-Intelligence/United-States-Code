@@ -24,7 +24,7 @@
 
 &emsp;(3) the spouse, as an eligible person under section 3501(a)(1)(D) of this title, is divorced, without fault on such person's part, from the person upon whose disability such person's eligibility is based,
 
-> then such eligible person (if such person has sufficient remaining entitlement) may, nevertheless, be afforded educational assistance under this chapter until the end of the quarter or semester for which enrolled if the educational institution in which such person is enrolled is operated on a quarter or semester system, or if theeducational institution is not so operated until the end of the course, or until 12 weeks have expired, whichever first occurs.
+> then such eligible person (if such person has sufficient remaining entitlement) may, nevertheless, be afforded educational assistance under this chapter until the end of the quarter or semester for which enrolled if the educational institution in which such person is enrolled is operated on a quarter or semester system, or if the educational institution is not so operated until the end of the course, or until 12 weeks have expired, whichever first occurs.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1711; Pub. L. 88–361, §2, July 7, 1964, 78 Stat. 297; Pub. L. 89–358, §4(k), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §§1(c), 2(d), Oct. 23, 1968, 82 Stat. 1331, 1332; Pub. L. 91–24, §9(b), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §2, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 94–502, title III, §§303, 310(6), Oct. 15, 1976, 90 Stat. 2390, 2391; renumbered §3511 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(c), Oct. 10, 1991, 105 Stat. 620.)
 

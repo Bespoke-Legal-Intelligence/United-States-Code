@@ -20,7 +20,7 @@ The Secretary may use so much of any funds available for the plugging of wells a
 
 Nothing in this section shall be construed to restrict operations under any oil or gas lease or permit under any other provisions of this chapter.
 
-(Feb. 25, 1920, ch. 85, §40, as added June 16, 1934, ch. 557, 48 Stat. 977; amended Oct. 21, 1976, Pub. L. 94–579, title VII, §704(a), 90 Stat. 2792.)
+(Feb. 25, 1920, ch. 85, §40, as added June 16, 1934, ch. 557, 48 Stat. 977; amended Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
 #### Amendments
 

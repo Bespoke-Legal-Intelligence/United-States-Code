@@ -2,7 +2,7 @@
 
 The primary functions of the Office of Advocacy shall be to—
 
-&emsp;(1) examine the role of small business in the American economy and the contribution which small business can make in improving competition, encouraging economic and social mobility for all citizens, restraining inflation, spurring production, expanding employment opportunities, increasing productivity, promoting exports, stimulating innovation and entrepreneurship, and providing an avenue through which new and untested products and services can be brought to the marketplace;
+&emsp;(1) examine the role of small business in the American economy and the contribution which small business can make in improving competition, encouraging economic and social mobility for all citizens, restraining inflation,spurring production, expanding employment opportunities, increasing productivity, promoting exports, stimulating innovation and entrepreneurship, and providing an avenue through which new and untested products and services can be brought to the marketplace;
 
 &emsp;(2) assess the effectiveness of existing Federal subsidy and assistance programs for small business and the desirability of reducing the emphasis on such existing programs and increasing the emphasis on general assistance programs designed to benefit all small businesses;
 

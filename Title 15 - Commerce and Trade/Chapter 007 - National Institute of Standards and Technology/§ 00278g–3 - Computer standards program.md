@@ -78,7 +78,7 @@ As used in this section—
 
 &emsp;(5) the term “Federal agency” has the meaning given such term by section 472(b) of title 40.
 
-(Mar. 3, 1901, ch. 872, §20, as added Jan. 8, 1988, Pub. L. 100–235, §3(2), 101 Stat. 1724; amendedAug. 23, 1988, Pub. L. 100–418, title V, §5115(a)(1), 102 Stat. 1433; Feb. 10, 1996, Pub. L. 104–106, div. E, title LVI, §5607(a), 110 Stat. 701; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], 110 Stat. 3009–314, 3009–394.)
+(Mar. 3, 1901, ch. 872, §20, as added Jan. 8, 1988, Pub. L. 100–235, §3(2), 101 Stat. 1724; amendedAug. 23, 1988, Pub. L. 100–418, title V, §5115(a)(1), 102 Stat. 1433; Feb. 10, 1996, Pub. L. 104–106, div. E, title LVI, §5607(a), 110 Stat. 701; Nov. 18, 1997, Pub. L. 105–85, div. A, title X, §1073(h)(1), 111 Stat. 1906.)
 
 #### References in Text
 
@@ -92,17 +92,15 @@ A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 22 and i
 
 #### Amendments
 
+1997—Subsecs. (a)(4), (b)(2). Pub. L. 105–85 made technical amendment to reference in original act which appears in text as reference to section 1441 of title 40.
+
 1996—Subsec. (a)(2), (3)(A). Pub. L. 104–106, §5607(a)(1)(A), substituted “section 3502(9) of title 44” for “section 3502(2) of title 44”.
 
-Subsec. (a)(4). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1441 of title 40.
-
-Pub. L. 104–106, §5607(a)(1)(B), substituted “section 1441 of title 40” for “section 759(d) of title 40”.
+Subsec. (a)(4). Pub. L. 104–106, §5607(a)(1)(B), substituted “section 1441 of title 40” for “section 759(d) of title 40”.
 
 Subsec. (b)(2). Pub. L. 104–106, §5607(a)(2)(A), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “to make recommendations, as appropriate, to the Administrator of General Services on policies and regulations proposed pursuant to section 1441 of title 40;”.
 
-Subsec. (b)(3). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1441 of title 40.
-
-Pub. L. 104–106, §5607(a)(2)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+Subsec. (b)(3). Pub. L. 104–106, §5607(a)(2)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
 Pub. L. 104–106, §5607(a)(2)(B), substituted “section 1441 of title 40” for “section 759(d) of title 40”.
 
@@ -124,7 +122,7 @@ Nothing in amendment by Pub. L. 100–235 which enacted this section to be const
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 272, 278g–4 of this title; title 40 sections 1412, 1441.
+This section is referred to in sections 272, 278g–4 of this title; title 40 sections 1412, 1441; title 44 section 3504.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

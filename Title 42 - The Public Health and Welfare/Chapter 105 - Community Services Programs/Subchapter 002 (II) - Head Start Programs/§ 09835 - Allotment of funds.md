@@ -54,7 +54,7 @@
 
 &emsp;(v) To make nonstructural and minor structural changes, and to acquire and install equipment, for the purpose of improving facilities necessary to expand the availability, or enhance the quality, of Head Start programs.
 
-&emsp;(vi) To supplement amounts provided under paragraph (2)(C) to provide training necessary to improve the qualifications of the staff of the Head Start agencies, and to support staff training, child counseling, and other services necessary to address the problems of children participating in Head Start programs, including children from dysfunctional families, children who experience chronic violence in their communities, and children who experience substance abuse in their families.
+&emsp;(vi) To supplement amounts provided under paragraph (2)(C) to provide training necessaryto improve the qualifications of the staff of the Head Start agencies, and to support staff training, child counseling, and other services necessary to address the problems of children participating in Head Start programs, including children from dysfunctional families, children who experience chronic violence in their communities, and children who experience substance abuse in their families.
 
 &emsp;(vii) Such other activities as the Secretary may designate.
 
@@ -122,7 +122,7 @@ No programs shall be approved for assistance under this subchapter unless the Se
 
 #### (d) Enrollment of children with disabilities and provision of services
 
-The Secretary shall establish policies and procedures designed to assure that for fiscal year 1982 and thereafter no less than 10 percent of the total number of enrollment opportunities in Head Start programs in each State shall be available for children with disabilities (as defined in section 1401(a)(1) of title 20) and that services shall be provided to meet their special needs.
+The Secretary shall establish policies and procedures designed to assure that for fiscal year 1982 and thereafter no less than 10 percent of the total number of enrollment opportunities in Head Start programs in each State shall be available for children with disabilities (as defined in section 1401(a)(1) <sup>1</sup> of title 20) and that services shall be provided to meet their special needs.
 
 #### (e) Distribution of benefits between residents of rural and urban areas
 
@@ -186,6 +186,8 @@ With funds made available under subsection (a)(2) of this section to migrant Hea
 
 The Social Security Act, referred to in subsec. (a)(4)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
+Section 1401(a)(1) of title 20, referred to in subsec. (d), was in the original a reference to section 602(a)(1) of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of Title 20, Education, by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of Title 20, and which contains provisions defining “child with a disability”.
+
 This subchapter, referred to in subsec. (j), was in the original “this Act” and was translated as reading “this subchapter”, meaning subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
@@ -204,7 +206,7 @@ Subsec. (a)(3)(C). Pub. L. 103–252, §105(a)(1)–(3), redesignated subpar. (A
 
 Subsec. (a)(3)(D). Pub. L. 103–252, §105(a)(1), redesignated subpar. (B) as (D).
 
-Subsec. (a)(3)(D)(i). Pub. L. 103–252, §105(a)(4)(A), (b)(3), struck out “for the first, second, and third fiscal years for which funds are so reserved” after “subparagraph (A)” in introductory provisions, substituted“paragraph (4)” for “paragraph (5)” in subcl. (I), and inserted “geographical areas specified in subsection (a)(2)(B) of this section and Indian and migrant Head Start programs,” after “States,” in subcl. (II).
+Subsec. (a)(3)(D)(i). Pub. L. 103–252, §105(a)(4)(A), (b)(3), struck out “for the first, second, and third fiscal years for which funds are so reserved” after “subparagraph (A)” in introductory provisions, substituted “paragraph (4)” for “paragraph (5)” in subcl. (I), and inserted “geographical areas specified in subsection (a)(2)(B) of this section and Indian and migrant Head Start programs,” after “States,” in subcl. (II).
 
 Subsec. (a)(3)(D)(ii). Pub. L. 103–252, §105(b)(3), substituted “paragraph (4)” for “paragraph (5)”.
 
@@ -308,7 +310,7 @@ Effective Dates.—(1) Except as provided in paragraph (2) and subsection (b), t
 
 “(b)
 
-Application of Amendments.—The amendments made by this Act, other than the amendment made by section 2(e)(1), shall not apply with respect to fiscal years beginning before October 1, 1992.”
+Application of Amendments.—The amendments made by this Act, other than the amendment made bysection 2(e)(1), shall not apply with respect to fiscal years beginning before October 1, 1992.”
 
 #### Effective Date of 1990 Amendments
 

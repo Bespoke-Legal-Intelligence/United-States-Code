@@ -30,15 +30,11 @@ Subsec. (c). Pub. L. 94–421 redesignated former subsec. (b) as (c), transferre
 
 Subsecs. (d), (e). Pub. L. 94–421 redesignated former subsecs. (c) and (d) as (d) and (e), respectively, and in subsec. (d), as so redesignated, made minor changes in phraseology.
 
-#### Transitional Expenses
-
-Expenses of Postal Rate Commission from Aug. 12, 1970, until date of commencement of operations of Commission deemed administrative expenses of Post Office Department, see section 12 of Pub. L. 91–375, set out as a note under section 2004 of this title.
-
 #### Ex. Ord. No. 11570. Regulation of Conduct for Postal Rate Commission and Its Employees
 
 Ex. Ord. No. 11570, Nov. 24, 1970, 35 F.R. 18183, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-Under the Postal Reorganization Act (Public Law 91–375) \[this title\], the Postal Rate Commission (referred to hereafter as the “Commission”) is charged with the establishment and adjustment of fair and equitable rates of postage, fees for postal services, and classifications of mail. It is essential to public confidence in the United States Postal Service that the activities, procedures, decisions, and recommendations ofthe Commission be impartial and disinterested and free from taint or suspicion of favoritism of any kind whatsoever, both in fact and in appearance.
+Under the Postal Reorganization Act (Public Law 91–375) \[this title\], the Postal Rate Commission (referred to hereafter as the “Commission”) is charged with the establishment and adjustment of fair and equitable rates of postage, fees for postal services, and classifications of mail. It is essential to public confidence in the United States Postal Service that the activities, procedures, decisions, and recommendations of the Commission be impartial and disinterested and free from taint or suspicion of favoritism of any kind whatsoever, both in fact and in appearance.
 
 NOW THEREFORE, by virtue of the authority vested in me by section 301 of Title 3, and Section 7301 of Title 5, United States Code, and the Postal Reorganization Act \[this title\], it is hereby ordered as follows:
 
@@ -48,7 +44,7 @@ Sec. 102. The Office of Personnel Management shall prepare initial standards of 
 
 (a) concurrent filing of confidential statements of outside employment and financial interests by employees of the Commission with a designated official of the Commission and the Director of the Office of Personnel Management;
 
-(b) strict control of <i>ex parte</i> contacts with the Commission and the Commissioners or employees of the Commission regarding particular matters at issue in contested proceedings before the Commission. The control of such contacts shall include, but not be limited to, the maintenance of public records of such contacts which fully identify the individuals involved and the nature of the subject matter discussed; and
+(b) strict control of <i>ex parte</i> contacts with the Commission and the Commissioners or employees of the Commission regarding particular matters at issue in contested proceedings before the Commission. The control of such contacts shall include, but not be limitedto, the maintenance of public records of such contacts which fully identify the individuals involved and the nature of the subject matter discussed; and
 
 (c) prohibition against the receipt of honoraria, travel expenses, entertainment, gifts, loans, favors, or anything of value by a Commissioner or employee of the Commission from an individual (other than one having a close family or personal relationship) or organization having, or likely to have, business with the Commission.
 

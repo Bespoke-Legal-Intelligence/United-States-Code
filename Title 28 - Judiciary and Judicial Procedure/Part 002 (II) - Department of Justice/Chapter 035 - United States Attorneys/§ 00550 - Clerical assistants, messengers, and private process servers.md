@@ -12,7 +12,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 28 U.S.C. 510.
 
@@ -48,7 +50,7 @@ A prior section 552, act June 25, 1948, ch. 646, 62 Stat. 912, related to the fi
 
 A prior section 553, acts June 25, 1948, ch. 646, 62 Stat. 912; May 24, 1949, ch. 139, §72, 63 Stat. 100; Aug. 4, 1955, ch. 550, 69 Stat. 492; Aug. 14, 1961, Pub. L. 87–139, §5, 75 Stat. 340, related to expenses of marshal, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 567 of this title by section 4(c) of Pub. L. 89–554.
 
-A prior section 554, act June 25, 1948, ch. 646, 62 Stat. 913, related to the delivery of prisoners to the successor marshal, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 573 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 554, act June 25, 1948, ch. 646, 62 Stat. 913, related to the delivery of prisoners to the successor marshal, prior to repeal by Pub. L. 89–554, §8(a), Sept.6, 1966, 80 Stat. 663, and reenactment in section 573 of this title by section 4(c) of Pub. L. 89–554.
 
 A prior section 555, act June 25, 1948, ch. 646, 62 Stat. 913, related to the delivery of all unserved process to the successor marshal or his deputies, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 574 of this title by section 4(c) of Pub. L. 89–554.
 
@@ -56,7 +58,7 @@ A prior section 556, act June 25, 1948, ch. 646, 62 Stat. 913, related to the pr
 
 #### Amendments
 
-1990—Pub. L. 101–647 substituted “, messengers, and private process servers” for “and messengers” in section catchline and text.
+<b>1990</b>—Pub. L. 101–647 substituted “, messengers, and private process servers” for “and messengers” in section catchline and text.
 
 #### Effective Date of 1990 Amendment
 

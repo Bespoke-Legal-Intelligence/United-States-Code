@@ -1,12 +1,12 @@
 ### §4313. Reemployment positions
 
-(a) Subject to subsection (b) (in the case of any employee) and sections 4314 and 4315 (in thecase of an employee of the Federal Government), a person entitled to reemployment under section 4312, upon completion of a period of service in the uniformed services, shall be promptly reemployed in a position of employment in accordance with the following order of priority:
+(a) Subject to subsection (b) (in the case of any employee) and sections 4314 and 4315 (in the case of an employee of the Federal Government), a person entitled to reemployment under section 4312, upon completion of a period of service in the uniformed services, shall be promptly reemployed in a position of employment in accordance with the following order of priority:
 
 &emsp;(1) Except as provided in paragraphs (3) and (4), in the case of a person whose period of service in the uniformed services was for less than 91 days—
 
 &emsp;&emsp;(A) in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, the duties of which the person is qualified to perform; or
 
-&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, only if the person is not qualified to perform the duties of the position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
+&emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, only if the person is not qualified to perform the duties of the position referred to in subparagraph (A) afterreasonable efforts by the employer to qualify the person.
 
 &emsp;(2) Except as provided in paragraphs (3) and (4), in the case of a person whose period of service in the uniformed services was for more than 90 days—
 

@@ -12,5 +12,5 @@ A person who—
 
 #### Effective Date
 
-Section 632(b) of Pub. L. 104–106 provided that: “Section 12740 of title 10, United States Code, as added by subsection (a), shall apply with respect to court-martial sentences adjudged after the date of the enactment of this Act \[Feb. 10, 1996\].”
+Section 632(b) of Pub. L. 104–106 provided that: “Section 12740 of title 10, United States Code, as added bysubsection (a), shall apply with respect to court-martial sentences adjudged after the date of the enactment of this Act \[Feb. 10, 1996\].”
 

@@ -1,6 +1,6 @@
 ### §1154. Consideration to be accorded time, place, and circumstances of service
 
-(a) The Secretary shall include in the regulations pertaining to service-connection of disabilities (1) additional provisions in effect requiring that in each case where a veteran is seeking service-connection for any disability due consideration shall be given to the places, types, and circumstances of such veteran's service as shown by such veteran's service record, the official history of each organization in which such veteran served, such veteran's medical records, and all pertinent medical and lay evidence, and (2) the provisions required by section 5 of the Veterans’ Dioxin and Radiation Exposure Compensation Standards Act (Public Law 98–542; 98 Stat. 2727).
+(a) The Secretary shall include in the regulations pertaining to service-connection of disabilities (1) additional provisions in effect requiring that in each case where a veteran is seeking service-connection for any disability due consideration shall be given to the places, types, and circumstances of such veteran's service as shown by such veteran's service record, the official history of each organization in which such veteran served, such veteran's medical records, and all pertinent medical and lay evidence, and (2) the provisions required by section 5 of theVeterans’ Dioxin and Radiation Exposure Compensation Standards Act (Public Law 98–542; 98 Stat. 2727).
 
 (b) In the case of any veteran who engaged in combat with the enemy in active service with a military, naval, or air organization of the United States during a period of war, campaign, or expedition, the Secretary shall accept as sufficient proof of service-connection of any disease or injury alleged to have been incurred in or aggravated by such service satisfactory lay or other evidence of service incurrence or aggravation of such injury or disease, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such injury or disease may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.
 
@@ -96,7 +96,7 @@ Sections 1–3 of Pub. L. 98–542, as amended by Pub. L. 102–4, §10(a), (b),
 
 “
 
-Section 1. This Act \[amending this section, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 1116 of this title\] may be cited as the ‘Veterans’ Dioxin and Radiation Exposure Compensation Standards Act’.
+Section 1. This Act \[amending this section, enacting provisions set out as notes under this section, andamending provisions set out as notes under this section and section 1116 of this title\] may be cited as the ‘Veterans’ Dioxin and Radiation Exposure Compensation Standards Act’.
 
 #### “findings
 
@@ -146,9 +146,9 @@ Sections 5–7 of Pub. L. 98–542, as amended by Pub. L. 100–321, §2(c), May
 
 “
 
-Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under section 1154(a)(2) \[formerly354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
+Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under section 1154(a)(2) \[formerly 354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
 
-&emsp;“(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans’ Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit include a requirement that a death or disability be service connected and the claim of service connection is based on a veteran's exposure during service in connection with such veteran's participation in atmospheric nuclear tests or with the American occupation of Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
+&emsp;“(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans’ Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit include a requirement that a death or disability be service connected and the claim of service connection is based on a veteran's exposure during service in connection with such veteran's participation in atmospheric nuclear tests or with the American occupationof Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
 
 &emsp;“(2) ensure that, with respect to those claims, the policy of the United States described in section 2(13) \[set out above\] is carried out.
 
@@ -184,7 +184,7 @@ Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veteran
 
 Sec. 6. (a) The advisory committee referred to in subsections (b) and (c) of section 5, to be known as the Veterans’ Advisory Committee on Environmental Hazards (hereinafter in this section referred to as the ‘Committee’) shall consist of nine members appointed by the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] after requesting and considering recommendations from veteran organizations, including—
 
-&emsp;“(1) six individuals (of whom none may be members of the Armed Forces on active duty or employees of the Veterans’ Administration \[now Department of Veterans Affairs\] or the Department of Defense and not more than three may be employees of other Federal departments or agencies), appointed, after requesting and considering the recommendations of theheads of Federal entities with particular expertise in biomedical and environmental science, including—
+&emsp;“(1) six individuals (of whom none may be members of the Armed Forces on active duty or employees of the Veterans’ Administration \[now Department of Veterans Affairs\] or the Department of Defense and not more than three may be employees of other Federal departments or agencies), appointed, after requesting and considering the recommendations of the heads of Federal entities with particular expertise in biomedical and environmental science, including—
 
 &emsp;&emsp;“(A) three individuals who are recognized medical or scientific authorities in fields pertinent to understanding the health effects of exposure to ionizing radiation; and
 
@@ -254,7 +254,7 @@ In General.—(1) In order to determine whether activities (other than the tests
 
 &emsp;“(B) identify any activity during which significant numbers of veterans received exposure; and
 
-&emsp;“(C) on the basis of such review, submit to the Secretary of Veterans Affairs a report containing the recommendation of the Advisory Committee on the feasibility and appropriateness for the purpose of the determination under this paragraph of any additional investigation with respect to any activity of such veterans during such service.
+&emsp;“(C) on the basis of such review, submit to the Secretary of Veterans Affairs a report containing therecommendation of the Advisory Committee on the feasibility and appropriateness for the purpose of the determination under this paragraph of any additional investigation with respect to any activity of such veterans during such service.
 
 “(2) Upon the request of the Advisory Committee, the Secretary of Veterans Affairs (after seeking such assistance from the Secretary of Defense as is necessary and appropriate) shall make available to the Advisory Committee records and other information relating to the service referred to in paragraph (1) that may assist the Advisory Committee in carrying out the review and recommendation referred to in that paragraph.
 

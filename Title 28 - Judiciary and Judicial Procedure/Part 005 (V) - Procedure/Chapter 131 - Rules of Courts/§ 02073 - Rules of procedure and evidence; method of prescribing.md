@@ -22,7 +22,7 @@ A prior section 2073, acts June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, c
 
 #### Amendments
 
-1994—Subsec. (a)(2). Pub. L. 103–394, §104(e)(1), substituted “sections 2072 and 2075” for “section 2072”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–394, §104(e)(1), substituted “sections 2072 and 2075” for “section 2072”.
 
 Subsecs. (d), (e). Pub. L. 103–394, §104(e)(2), inserted “or 2075” after “2072”.
 

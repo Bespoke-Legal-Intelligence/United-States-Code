@@ -1,6 +1,6 @@
 ### §2031. Seaplanes (Rule 31)
 
-Where it is impracticable for a seaplane to exhibit lights and shapes of the characteristics orin the positions prescribed in the Rules of this Part she shall exhibit lights and shapes as closely similar in characteristics and position as is possible.
+Where it is impracticable for a seaplane to exhibit lights and shapes of the characteristics or in the positions prescribed in the Rules of this Part she shall exhibit lights and shapes as closely similar in characteristics and position as is possible.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3429.)
 

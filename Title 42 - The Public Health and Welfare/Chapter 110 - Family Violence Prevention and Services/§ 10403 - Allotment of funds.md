@@ -2,7 +2,7 @@
 
 #### (a) Proportionality of allotment; minimum allotment
 
-From the sums appropriated under section 10409 of this title for grants to States for any fiscal year, each State shall be allotted for payment in a grant authorized under section 10402(a) of this title an amount which bears the same ratio to such sums as the population of such State bears to the population of all States, except that—
+From the sums appropriated under section 10409 of this title for grants to States for any fiscal year, each State shall be allotted for payment in a grant authorized under section 10402(a) of this title an amount which bears thesame ratio to such sums as the population of such State bears to the population of all States, except that—
 
 &emsp;(1) each State shall be allotted not less than 1 percent of the amounts available for grants under section 10402(a) of this title for the fiscal year for which the allotment is made, or $400,000, whichever is the lessor <sup>1</sup> amount; and
 
@@ -22,7 +22,7 @@ If the sums appropriated under section 10409 of this title for any fiscal year f
 
 (1) If, at the end of the sixth month of any fiscal year for which sums are appropriated under section 10409 of this title, the amount allotted to a State has not been made available to such State in grants under section 10402(a) of this title because of the failure of such State to meet the requirements for a grant, then the Secretary shall reallot such amount to States which meet such requirements.
 
-(2) Funds made available by the Secretary through reallotment under paragraph (1) shallremain available for expenditure until the end of the fiscal year following the fiscal year in which such funds become available for reallotment.
+(2) Funds made available by the Secretary through reallotment under paragraph (1) shall remain available for expenditure until the end of the fiscal year following the fiscal year in which such funds become available for reallotment.
 
 (Pub. L. 98–457, title III, §304, Oct. 9, 1984, 98 Stat. 1759; Pub. L. 102–295, title III, §312, May 28, 1992, 106 Stat. 204; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §213\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–254; Pub. L. 104–235, title II, §202, Oct. 3, 1996, 110 Stat. 3089.)
 

@@ -52,7 +52,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(E) a bakery, grocery store, clothing store, hardware store, shopping center, or other sales or rental establishment;
 
-&emsp;&emsp;(F) a laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy, insurance office, professional office of a health care provider, hospital, or other service establishment;
+&emsp;&emsp;(F) a laundromat, dry-cleaner, bank, barber shop, beauty shop, travel service, shoe repair service, funeral parlor, gas station, office of an accountant or lawyer, pharmacy,insurance office, professional office of a health care provider, hospital, or other service establishment;
 
 &emsp;&emsp;(G) a terminal, depot, or other station used for specified public transportation;
 

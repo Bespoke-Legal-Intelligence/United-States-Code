@@ -6,7 +6,7 @@ The Secretary of the Interior shall neither prescribe nor approve any cooperativ
 
 No claimant for a lease who has been guilty of any fraud or who had knowledge or reasonable grounds to know of any fraud, or who has not acted honestly and in good faith, shall be entitled to any of the benefits of this section.
 
-(Feb. 25, 1920, ch. 85, §22, 41 Stat. 446; July 3, 1958, Pub. L. 85–505, §10, 72 Stat. 324.)
+(Feb. 25, 1920, ch. 85, §22, 41 Stat. 446; Pub. L. 85–505, §10, July 3, 1958, 72 Stat. 324.)
 
 #### Amendments
 

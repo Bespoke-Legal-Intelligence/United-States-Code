@@ -18,7 +18,7 @@
 
 &emsp;(2) the presence in such vessel or conveyance at such time of a substantial ratio of dead, crippled, diseased, or starving wild animals or birds shall be deemed prima facie evidence of the violation of the provisions of this subsection.
 
-(June 25, 1948, ch. 645, 62 Stat. 687; May 24, 1949, ch. 139, §2, 63 Stat. 89; Sept. 2, 1960, Pub. L. 86–702, §1, 74 Stat. 753; Nov. 16, 1981, Pub. L. 97–79, §9(d), 95 Stat. 1079; Nov. 29, 1990, Pub. L. 101–646, title I, §1208, 104 Stat. 4772; Dec. 13, 1991, Pub. L. 102–237, title X, §1013(e), 105 Stat. 1901; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147; Oct. 26, 1996, Pub. L. 104–332, §2(h)(1), 110 Stat. 4091.)
+(June 25, 1948, ch. 645, 62 Stat. 687; May 24, 1949, ch. 139, §2, 63 Stat. 89; Sept. 2, 1960, Pub. L.86–702, §1, 74 Stat. 753; Nov. 16, 1981, Pub. L. 97–79, §9(d), 95 Stat. 1079; Nov. 29, 1990, Pub. L. 101–646, title I, §1208, 104 Stat. 4772; Dec. 13, 1991, Pub. L. 102–237, title X, §1013(e), 105 Stat. 1901; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147; Oct. 26, 1996, Pub. L. 104–332, §2(h)(1), 110 Stat. 4091.)
 
 #### Historical and Revision Notes
 

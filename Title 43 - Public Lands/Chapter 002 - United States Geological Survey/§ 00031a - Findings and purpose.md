@@ -50,9 +50,35 @@ The purpose of sections 31a to 31h of this title is to expedite the production o
 
 Sections 31a to 31h of this title, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 102–285, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–36, §1, Aug. 5, 1997, 111 Stat. 1107, provided that: “This Act \[amending sections 31b to 31h of this title and enacting provisions set out as a note under this section\] may be cited as the ‘National Geologic Mapping Reauthorization Act of 1997’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 102–285 provided that: “This Act \[enacting this section and sections 31b to 31h of this title, amending sections 1457, 1457a, and 1782 of this title, sections 450ii–3, 665, 1133, and 3151 of Title 16, Conservation, section 262k of Title 22, Foreign Relations and Intercourse, section 1677 of Title 25, Indians, sections 1, 1a, 2, 3, 4, 4c, 4d, 5, 6, 7, 8, 411, 412, 804, 812, 871, 878, 1224, 1229, 1232, 1311, 1315, and 1604 of Title 30, Mineral Lands and Mining, and sections 5814 and 6505 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 31 of this title and section 1 of Title 30, and amending provisions set out as a note under section 1231 of Title 30\] may be cited as the ‘National Geologic Mapping Act of 1992’.”
+
+#### Findings
+
+Pub. L. 105–36, §2, Aug. 5, 1997, 111 Stat. 1107, provided that: “Congress finds that—
+
+&emsp;“(1) in enacting the National Geologic Mapping Act of 1992 (43 U.S.C. 31a et seq.), Congress found, among other things, that—
+
+&emsp;&emsp;“(A) during the 2 decades preceding enactment of that Act, the production of geologic maps had been drastically curtailed;
+
+&emsp;&emsp;“(B) geologic maps are the primary data base for virtually all applied and basic earth-science investigations;
+
+&emsp;&emsp;“(C) Federal agencies, State and local governments, private industry, and the general public depend on the information provided by geologic maps to determine the extent of potential environmental damage before embarking on projects that could lead to preventable, costly environmental problems or litigation;
+
+&emsp;&emsp;“(D) the lack of proper geologic maps has led to the poor design of such structures as dams and waste-disposal facilities;
+
+&emsp;&emsp;“(E) geologic maps have proven indispensable in the search for needed fossil fuel and mineral resources; and
+
+&emsp;&emsp;“(F) a comprehensive nationwide program of geologic mapping is required in order to systematically build the Nation's geologic-map data base at a pace that responds to increasing demand;
+
+&emsp;“(2) the geologic mapping program called for by that Act has not been fully implemented; and
+
+&emsp;“(3) it is time for this important program to be fully implemented.”
 
 #### Section Referred to in Other Sections
 

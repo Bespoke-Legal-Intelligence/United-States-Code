@@ -18,7 +18,7 @@
 
 > For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 106(2) of title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2) of that title, who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
 
-(b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is atleast two step-increases above his existing rate of basic pay, he is entitled to—
+(b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
 
 &emsp;(1) the maximum rate of the higher grade; or
 
@@ -36,13 +36,13 @@
 
 &emsp;(2) at a step of the appropriate grade that does not exceed the highest previous rate of pay received by him during that service in the legislative branch.
 
-(d) The rate of pay established for a teaching position as defined by section 901 of title 20 held by an individual who becomes subject to subsection (a) of this section is deemed increased by 20 percent to determine the yearly rate of pay of the position.
+(d) The rate of pay established for a teaching position as defined by section 901 of title 20 held by an individual who becomes subject to subsection (a) of this section is deemed increased by an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay is increased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.
 
 (e) An employee of a county committee established pursuant to section 590h(b) of title 16 may, upon appointment to a position subject to this subchapter, have his initial rate of basic pay fixed at the minimum rate of the appropriate grade, or at any step of such grade that does not exceed the highest previous rate of basic pay received by him during service with such county committee.
 
 (f) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c). In the case of a nonappropriated fund employee who is moved involuntarily from such nonappropriated fund instrumentality without a break in service of more than 3 days and without substantial change in duties to a position that is subject to this subchapter, the employee's pay shall be set at a rate (not above the maximum for the grade, except as may be provided for under section 5365) that is not less than the employee's rate of basic pay under the nonappropriated fund instrumentality immediately prior to so moving.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923.)
 
 Historical and Revision Notes
 
@@ -94,6 +94,8 @@ Sections 3182 and 3186(a)(2) of title 42, referred to in subsec. (a), were repea
 
 #### Amendments
 
+1997—Subsec. (d). Pub. L. 105–85 substituted “an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay is increased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.” for “20 percent to determine the yearly rate of pay of the position.”
+
 1996—Subsec. (c). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
 1993—Subsec. (c)(2). Pub. L. 103–89, §3(b)(1)(G)(i), substituted “step” for “step, or for an employee appointed to a position covered by the performance management and recognition system established under chapter 54 of this title, any dollar amount,”.
@@ -114,7 +116,7 @@ Subsec. (b). Pub. L. 95–454, §801(a)(3)(F), substituted “subchapter VI of t
 
 Subsec. (c). Pub. L. 95–454, §503(f)(1), in par. (2) inserted reference to an employee appointed to a position covered by the merit pay system established under section 5402 of this title.
 
-Subsecs. (d) to (f). Pub. L. 95–454, §801(a)(2), (3)(G), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d), which related to regulations governing the retention of the rate of basic pay of an employee and his position covered by this subchapter and chapter 51 of this title, was struck out.
+Subsecs. (d) to (f). Pub. L. 95–454, §801(a)(2), (3)(G), redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d), which related to regulations governing the retention of the rate of basic pay of anemployee and his position covered by this subchapter and chapter 51 of this title, was struck out.
 
 Pub. L. 95–454, §503(f)(2), added a new subsec. (f).
 
@@ -125,6 +127,14 @@ Subsec. (f). Pub. L. 90–623, §1(24), substituted “section 590h(b) of title 
 Pub. L. 90–367 added subsec. (f).
 
 1967—Subsec. (a). Pub. L. 90–103 provided for treatment as a transfer from a position in the executive branch to which this subchapter does not apply of certain regional commission employees who were Federal employees immediately prior to employment by a commission and were employed within six months after separation from the commission in a position subject to this subchapter.
+
+#### Effective Date of 1997 Amendment
+
+Section 1104(b) of Pub. L. 105–85 provided that:
+
+“(1) The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].
+
+“(2) In the case of a person who is employed in a teaching position referred to in section 5334(d) of title 5, United States Code, on the day before the effective date under paragraph (1), the rate of pay of that person determined under that section (as in effect on that day) may not be reduced by reason of the amendment made by subsection (a) for so long as the person continues to serve in that position or another such position without a break in service of more than three days on or after that day.”
 
 #### Effective Date of 1993 Amendment
 

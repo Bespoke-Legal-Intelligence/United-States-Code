@@ -1,6 +1,6 @@
 ### §4331. Establishment; Superintendent; faculty
 
-(a) There is in the Department of the Army a United States Military Academy, at West Point, New York (hereinafter in this chapter referred to as the “Academy”), for the instruction and preparation for military service of selected persons called “cadets”. The organization of the Academy shall be prescribed by the Secretary of the Army.
+(a) There is in the Department of the Army a United States Military Academy, at West Point,New York (hereinafter in this chapter referred to as the “Academy”), for the instruction and preparation for military service of selected persons called “cadets”. The organization of the Academy shall be prescribed by the Secretary of the Army.
 
 (b) There shall be at the Academy the following:
 
@@ -146,7 +146,7 @@ Prohibition.—Except as provided in subsection (b), no charge or fee for tuitio
 
 “(b)
 
-Exception.—The prohibition specified in subsection (a) shall not apply with respect to any item or service provided to cadets or midshipmen at an academy named in subsection (c) for which a charge or fee is imposed as of the date of the enactment of this Act.The Secretary of Defense or the Secretary of Transportation, as the case shall be, shall notify Congress of any change made by an academy in the amount of a charge or fee authorized under this subsection.
+Exception.—The prohibition specified in subsection (a) shall not apply with respect to any item or service provided to cadets or midshipmen at an academy named in subsection (c) for which a charge or fee is imposed as of the date of the enactment of this Act. The Secretary of Defense or the Secretary of Transportation, as the case shall be, shall notify Congress of any change made by an academy in the amount of a charge or fee authorized under this subsection.
 
 “(c)
 

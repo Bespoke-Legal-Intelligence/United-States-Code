@@ -18,7 +18,7 @@
 
 #### (b) Alternative means
 
-Compensation shall not be required under subsection (a) of this section if the State, the State regulatory authority (in the case of a proceeding concerning a State regulated electric utility), or the nonregulated electric utility (in the  case  of  a  proceeding  concerning  such nonregulated electric utility) has provided an alternative means for providing adequate compensation to persons—
+Compensation shall not be required under subsection (a) of this section if the State, the State regulatory authority (in the case of a proceeding concerning a State regulated electric utility), or the nonregulated electric utility (in the case of a proceeding concerning such nonregulated electric utility) has provided an alternative means for providing adequate compensation to persons—
 
 &emsp;(1) who have, or represent, an interest—
 

@@ -16,7 +16,7 @@
 
 #### (3) Section 1207a of this title
 
-&emsp;With respect to payments of awards and settlements relating to Senate employees underparagraph (1) of this subsection, section 1207a <sup>1</sup> of this title remains in effect.
+&emsp;With respect to payments of awards and settlements relating to Senate employees under paragraph (1) of this subsection, section 1207a <sup>1</sup> of this title remains in effect.
 
 #### (b) Transition provisions for employees of Architect of Capitol
 

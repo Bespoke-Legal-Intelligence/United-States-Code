@@ -2,23 +2,13 @@
 
 (a)
 
-Allowance Equal to Basic Allowance for Quarters.—In addition to any allowance or per diem to which he otherwise may be entitledunder this title, a member of a uniformed service with dependents who is on permanent duty outside of the United States, or in Alaska, is entitled to a monthly allowance equal to the basic allowance for quarters payable to a member without dependents in the same pay grade if—
-
-&emsp;(1) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under section 406 of this title and his dependents do not reside at or near that station; and
-
-&emsp;(2) quarters of the United States or a housing facility under the jurisdiction of a uniformed service are not available for assignment to him.
-
-(b)
-
-Additional Separation Allowance.—(1) In addition to any allowance or per diem to which he otherwise may be entitled under this title, including subsection (a), a member of a uniformed service with dependents is entitled to a monthly allowance equal to $75 if—
+Entitlement to Allowance.—(1) In addition to any allowance or per diem to which he otherwise may be entitled under this title a member of a uniformed service with dependents is entitled to a monthly allowance equal to $100 if—
 
 &emsp;(A) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under section 406 of this title and his dependents do not reside at or near that station;
 
-&emsp;(B) he is on duty on board a ship away from the home port of the ship for a continuous period of more than 30 days;
+&emsp;(B) he is on duty on board a ship away from the home port of the ship for a continuous period of more than 30 days; or
 
-&emsp;(C) he is on temporary duty away from his permanent station for a continuous period of more than 30 days and his dependents do not reside at or near his temporary duty station; or
-
-&emsp;(D) the member is married to a member of a uniformed service, the member has no dependent other than the spouse, the two members are separated by reason of the execution of military orders, and the two members were residing together immediately before being separated by reason of execution of military orders.
+&emsp;(C) he is on temporary duty away from his permanent station for a continuous period of more than 30 days and his dependents do not reside at or near his temporary duty station.
 
 (2) A member who becomes entitled to an allowance under this subsection by virtue of duty prescribed in subparagraph (B) or (C) of paragraph (1) for a continuous period of more than 30 days is entitled to the allowance effective as of the earlier of—
 
@@ -26,15 +16,41 @@ Additional Separation Allowance.—(1) In addition to any allowance or per diem 
 
 &emsp;(B) the first day the member ceased being entitled to a previous allowance under this subsection by reason of the end of duty prescribed in such subparagraphs, if the member ceased being entitled to the previous allowance within 30 days before the first day of that period.
 
-(3) An allowance is payable under this subsection even though the member does not maintain for his primary dependents who would otherwise normally reside with him, a residence or household, subject to his management and control, which he is likely to share with them as a common household when his duty assignment permits.
+(b)
 
-(4) A member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 406 of this title is not entitled to an allowance under paragraph (1)(A) of this subsection. The Secretary concerned may waive the preceding sentence in situations in which it would be inequitable to deny the allowance to the member because of unusual family or operational circumstances.
+Entitlement When No Residence or Household Maintained for Dependents.—An allowance is payable under subsection (a) even though the member does not maintain for his primary dependents who would otherwise normally reside with him, a residence or household, subject to his management and control, which he is likely to share with them as a common household when his duty assignment permits.
 
-(5) Section 421 of this title does not apply to bar an entitlement to an allowance under paragraph (1)(D). However, not more than one monthly allowance may be paid with respect to a married couple under paragraph (1)(D) for any month.
+(c)
 
-(Added Pub. L. 88–132, §11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, §1, Dec. 3, 1970, 84 Stat. 1389; Pub. L. 91–533, §1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, §809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, §607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, §625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, §606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §607, Sept. 23, 1996, 110 Stat. 2542.)
+Effect of Election to Serve Unaccompanied Tour of Duty.—A member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 406 of this title is not entitled to an allowance under subsection (a)(1)(A). The Secretary concerned may waive the preceding sentence in situations in which it would be inequitable to deny the allowance to the member because of unusual family or operational circumstances.
+
+(d)
+
+Entitlement While Spouse Entitled to Basic Pay.—A member married to another member of the uniformed services becomes entitled, regardless of any other dependency status, to an allowance under subsection (a) by virtue of duty prescribed in subparagraph (A), (B), or (C) of paragraph (1) of such subsection if the members were residing together immediately before being separated by reasons of execution of military orders. Section 421 of this title does not apply to bar the entitlement to an allowance under this section. However, not more than one monthly allowance may be paid with respect to a married couple under this section.
+
+(Added Pub. L. 88–132, §11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, §1, Dec. 3, 1970, 84 Stat. 1389; Pub. L. 91–533, §1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, §809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, §607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, §625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, §606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795.)
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85, §603(c)(3)(B)(i), redesignated subsec. (b)(1), (2) as subsec. (a)(1), (2), respectively, and inserted subsec. heading.
+
+Pub. L. 105–85, §603(c)(3)(A), struck out heading and text of subsec. (a). Text read as follows: “In addition to any allowance or per diem to which he otherwise may be entitled under this title, a member of a uniformed service with dependents who is on permanent duty outside of the United States, or in Alaska, is entitled to a monthly allowance equal to the basic allowance for quarters payable to a member without dependents in the same pay grade if—
+
+&emsp;“(1) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under section 406 of this title and his dependents do not reside at or near that station; and
+
+&emsp;“(2) quarters of the United States or a housing facility under the jurisdiction of a uniformed service are not available for assignment to him.”
+
+Subsec. (a)(1). Pub. L. 105–85, §626, substituted “$100” for “$75” in introductory provisions.
+
+Pub. L. 105–85, §603(c)(3)(B)(ii), struck out “, including subsection (a),” after “under this title” in introductory provisions, inserted “or” at end of subpar. (B), substituted “station.” for “station; or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “the member is married to a member of a uniformed service, the member has no dependent other than the spouse, the two members are separated by reason of the execution of military orders, and the two members were residing together immediately before being separated by reason of execution of military orders.”
+
+Subsec. (b). Pub. L. 105–85, §603(c)(3)(B)(iii), redesignated subsec. (b)(3) as subsec. (b), inserted heading, and substituted “subsection (a)” for “this subsection”. Former subsec. (b)(1), (2), and (4) redesignated subsecs. (a)(1), (2), and (c), respectively.
+
+Subsec. (b)(5). Pub. L. 105–85, §603(c)(3)(B)(v), struck out par. (5) which read as follows: “Section 421 of this title does not apply to bar an entitlement to an allowance under paragraph (1)(D). However, not more than one monthly allowance may be paid with respect to a married couple under paragraph (1)(D) for any month.”
+
+Subsec. (c). Pub. L. 105–85, §603(c)(3)(B)(iv), redesignated subsec. (b)(4) as subsec. (c), inserted heading, and substituted “subsection (a)(1)(A)” for “paragraph (1)(A) of this subsection”.
+
+Subsec. (d). Pub. L. 105–85, §603(c)(3)(B)(v), added subsec. (d).
 
 1996—Subsec. (b)(1)(D). Pub. L. 104–201, §607(a), added subpar. (D).
 
@@ -66,7 +82,11 @@ Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
 1970—Subsec. (b). Pub. L. 91–533 struck out “who is entitled to a basic allowance for quarters” after “(4 years’ or less service)”.
 
-Pub. L. 91–529 inserted provisions authorizing payment of an allowance under this subsection eventhough the member does not maintain for his primary dependents who would otherwise normally reside with him, a residence or household, subject to his management or control, which he is likely to share with them as a common household when his duty assignment permits.
+Pub. L. 91–529 inserted provisions authorizing payment of an allowance under this subsection even though the member does not maintain for his primary dependents who would otherwise normally reside with him, a residence or household, subject to his management or control, which he is likely to share with them as a common household when his duty assignment permits.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by section 603(c)(3) of Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1994 Amendment
 
@@ -113,8 +133,4 @@ Pub. L. 91–534, Dec. 7, 1970, 84 Stat. 1392, provided: “That, under regulati
 “
 
 Sec. 2. This Act takes effect on the first day of the first month which begins after the date of enactment of this Act \[Dec. 7, 1970\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 403a of this title.
 

@@ -12,7 +12,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1039.
 
@@ -28,7 +30,7 @@ In subsection (b), the words “does not” are substituted for “shall not”.
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–620 struck out provisions that the hearing on an application for an interlocutory injunction be given preference and expedited and heard at the earliest practicable date after the expiration of the notice of hearing on the application, and that on the final hearing of any proceeding to review any order under this chapter, the same requirements as to precedence and expedition was to apply.
+<b>1984</b>—Subsec. (b). Pub. L. 98–620 struck out provisions that the hearing on an application for an interlocutory injunction be given preference and expedited and heard at the earliest practicable date after the expiration of the notice of hearing on the application, and that on the final hearing of any proceeding to review any order under this chapter, the same requirements as to precedence and expedition was to apply.
 
 #### Effective Date of 1984 Amendment
 

@@ -48,7 +48,7 @@ The Director shall, with the funds made available in accordance with section 395
 
 #### Amendments
 
-1991—Subsec. (d)(1). Pub. L. 102–212 substituted “has established and is using one of the following for the purpose of acquiring coastal wetlands, other natural areas or open spaces:
+1991—Subsec. (d)(1). Pub. L. 102–212 substituted “has established and is using one of the following for thepurpose of acquiring coastal wetlands, other natural areas or open spaces:
 
 &emsp;“(A) a trust fund from which the principal is not spent; or
 

@@ -24,7 +24,7 @@ An offset under subsection (a) of this section or a direction or order of a cont
 
 As used in this section, the term “contracting officer” has the meaning given that term for the purposes of the Contract Disputes Act of 1978 \[41 U.S.C. 601 et seq.\].
 
-(Mar. 8, 1946, ch. 80, §6, as added Nov. 7, 1986, Pub. L. 99–634, §2(a), 100 Stat. 3524.)
+(Mar. 8, 1946, ch. 80, §6, as added Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3524.)
 
 #### References in Text
 

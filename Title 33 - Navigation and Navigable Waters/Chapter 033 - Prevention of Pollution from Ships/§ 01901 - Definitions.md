@@ -34,7 +34,7 @@
 
 (c) For the purposes of this chapter, the requirements of Annex IV to the Antarctic Protocol shall apply in Antarctica to all vessels over which the United States has jurisdiction.
 
-(Pub. L. 96–478, §2, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2101, Dec. 29, 1987, 101Stat. 1460; Pub. L. 103–160, div. A, title X, §1003(f), Nov. 30, 1993, 107 Stat. 1748; Pub. L. 104–227, title II, §201(a), Oct. 2, 1996, 110 Stat. 3042.)
+(Pub. L. 96–478, §2, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2101, Dec. 29, 1987, 101 Stat. 1460; Pub. L. 103–160, div. A, title X, §1003(f), Nov. 30, 1993, 107 Stat. 1748; Pub. L. 104–227, title II, §201(a), Oct. 2, 1996, 110 Stat. 3042.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Section 1 of Pub. L. 96–478 provided: “That this Act \[enacting this chapter
 
 #### Savings Provision: Regulations in Effect Until Superseded
 
-Section 14(c) of Pub. L. 96–478 provided that: “Any rights or liabilities existing on the effective date of this Act \[see Effective Date note above\] shall not be affected by this enactment \[see Short Title note above\]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended \[section 1001 et seq. of this title\], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
+Section 14(c) of Pub. L. 96–478 provided that: “Any rights or liabilities existing on the effective date ofthis Act \[see Effective Date note above\] shall not be affected by this enactment \[see Short Title note above\]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended \[section 1001 et seq. of this title\], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
 
 #### Preemption; Additional State Requirements
 

@@ -8,5 +8,5 @@ As part of its duties and programs under this subchapter, Voice of America/Europ
 
 &emsp;(3) promote and advertise Voice of America/Europe.
 
-(Jan. 27, 1948, ch. 36, title V, §504, as added Dec. 22, 1987, Pub. L. 100–204, title IV, §402, 101 Stat. 1381.)
+(Jan. 27, 1948, ch. 36, title V, §504, as added Pub. L. 100–204, title IV, §402, Dec. 22, 1987, 101 Stat. 1381.)
 

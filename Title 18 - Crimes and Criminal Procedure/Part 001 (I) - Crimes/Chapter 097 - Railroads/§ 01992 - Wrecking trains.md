@@ -1,6 +1,6 @@
 ### §1992. Wrecking trains
 
-(a) Whoever willfully derails, disables, or wrecks any train, engine, motor unit, or car used, operated, or employed in interstate or foreign commerce by any railroad; or
+(a) Whoever willfully derails, disables, or wrecks any train, engine, motor unit, or carused, operated, or employed in interstate or foreign commerce by any railroad; or
 
 Whoever willfully sets fire to, or places any explosive substance on or near, or undermines any tunnel, bridge, viaduct, trestle, track, signal, station, depot, warehouse, terminal, or any other way, structure, property, or appurtenance used in the operation of any such railroad in interstate or foreign commerce, or otherwise makes any such tunnel, bridge, viaduct, trestle, track, signal, station, depot, warehouse, terminal, or any other way, structure, property, or appurtenance unworkable or unusable or hazardous to work or use, with the intent to derail, disable, or wreck a train, engine, motor unit, or car used, operated, or employed in interstate or foreign commerce; or
 

@@ -26,7 +26,7 @@
 
 (e) Each person who has incurred a disability as a result of an injury or disease described in subsection (b) shall be entitled to the same rights, privileges, and benefits under title 5 as a preference eligible described in section 2108(3)(C) of title 5.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 87–102, §1, July 21, 1961, 75 Stat. 219; Pub. L. 88–616, Oct. 2, 1964, 78 Stat. 994; Pub. L. 89–311, §5, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 97–295, §4(3), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(5), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 87–102, §1, July 21, 1961, 75 Stat. 219; Pub. L.88–616, Oct. 2, 1964, 78 Stat. 994; Pub. L. 89–311, §5, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 97–295, §4(3), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(5), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 #### Amendments
 
@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 99–576, §701(5)(C), struck out “by him” after “inj
 
 1982—Subsec. (a)(2). Pub. L. 97–295, §4(3)(A), substituted “subchapter I of chapter 81 of title 5” for “the Federal Employees’ Compensation Act”.
 
-Subsec. (e). Pub. L. 97–295, §4(3)(B), substituted “title 5 as a preference eligible described in section 2108(3)(C) of title 5” for “the Act of June 27, 1944, (58 Stat.387–391), as a person described in section 2(1) of such Act”.
+Subsec. (e). Pub. L. 97–295, §4(3)(B), substituted “title 5 as a preference eligible described in section 2108(3)(C) of title 5” for “the Act of June 27, 1944, (58 Stat. 387–391), as a person described in section 2(1) of such Act”.
 
 1965—Subsec. (e). Pub. L. 89–311 added subsec. (e).
 

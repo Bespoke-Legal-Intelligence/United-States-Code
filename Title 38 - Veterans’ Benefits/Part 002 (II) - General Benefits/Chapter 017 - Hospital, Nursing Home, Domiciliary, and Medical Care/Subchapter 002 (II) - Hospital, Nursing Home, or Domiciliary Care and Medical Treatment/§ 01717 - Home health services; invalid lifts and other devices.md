@@ -1,12 +1,12 @@
 ### §1717. Home health services; invalid lifts and other devices
 
-(a)(1) As part of medical services furnished to a veteran under section 1710(a) of this title, the Secretary may furnish such home health services as the Secretary finds to be necessary or appropriate for the effective and economical treatment of the veteran's disability.
+(a)(1) As part of medical services furnished to a veteran under section 1710(a) of this title, the Secretary may furnish such home health services as the Secretary finds to be necessary or appropriate for the effective and economical treatment of the veteran.
 
 (2) Improvements and structural alterations may be furnished as part of such home health services only as necessary to assure the continuation of treatment for the veteran's disability or to provide access to the home or to essential lavatory and sanitary facilities. The cost of such improvements and structural alterations (or the amount of reimbursement therefor) under this subsection may not exceed—
 
 &emsp;(A) $4,100 in the case of medical services furnished under section 1710(a)(1) of this title, or for a disability described in section 1710(a)(2)(C) of this title; or
 
-&emsp;(B) $1,200 in the case of medical services furnished under any other provision of section 1710(a)(2) of this title.
+&emsp;(B) $1,200 in the case of medical services furnished under any other provision of section 1710(a) of this title.
 
 (3) The Secretary may furnish home health services to a veteran in any setting in which the veteran is residing. The Secretary may not furnish such services in such a manner as to relieve any other person or entity of a contractual obligation to furnish services to the veteran. When home health services are furnished in a setting other than the veteran's home, such services may not include any structural improvement or alteration.
 
@@ -14,9 +14,13 @@
 
 (c) The Secretary may furnish devices for assisting in overcoming the handicap of deafness (including telecaptioning television decoders) to any veteran who is profoundly deaf and is entitled to compensation on account of hearing impairment.
 
-(Added Pub. L. 86–211, §5, Aug. 29, 1959, 73 Stat. 435, §617; amended Pub. L. 88–450, §6(a), (c), Aug. 19, 1964, 78 Stat. 504; Pub. L. 90–77, title I, §109, Aug. 31, 1967, 81 Stat. 180; Pub. L. 90–493, §3(a), Aug. 19, 1968, 82 Stat. 809; Pub. L. 97–295, §4(18), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–528, title I, §107, Oct. 19, 1984, 98 Stat. 2690; Pub. L. 99–576, title II, §202(2), Oct. 28, 1986, 100 Stat. 3254; Pub. L. 100–322, title I, §101(d), May 20, 1988, 102 Stat. 491; renumbered §1717 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title I, §101(a), Oct. 9, 1992, 106 Stat. 1973; Pub. L. 104–262, title I, §101(d)(6), Oct. 9, 1996, 110 Stat. 3180.)
+(Added Pub. L. 86–211, §5, Aug. 29, 1959, 73 Stat. 435, §617; amended Pub. L. 88–450, §6(a), (c), Aug. 19, 1964, 78 Stat. 504; Pub. L. 90–77, title I, §109, Aug. 31, 1967, 81 Stat. 180; Pub. L. 90–493, §3(a), Aug. 19, 1968, 82 Stat. 809; Pub. L. 97–295, §4(18), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–528, title I, §107, Oct. 19, 1984, 98 Stat. 2690; Pub. L. 99–576, title II, §202(2), Oct. 28, 1986, 100 Stat. 3254; Pub. L. 100–322, title I, §101(d), May 20, 1988, 102 Stat. 491; renumbered §1717 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title I, §101(a), Oct. 9, 1992, 106 Stat. 1973; Pub. L. 104–262, title I, §101(d)(6), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, §402(b), Nov. 21, 1997, 111 Stat. 2294.)
 
 #### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–114, §402(b)(1), substituted “treatment of the veteran” for “treatment of the veteran's disability”.
+
+Subsec. (a)(2)(B). Pub. L. 105–114, §402(b)(2), substituted “section 1710(a)” for “section 1710(a)(2)”.
 
 1996—Subsec. (a)(1). Pub. L. 104–262, §101(d)(6)(A), substituted “section 1710(a)” for “section 1712(a)”.
 
@@ -52,7 +56,7 @@ Subsecs. (b), (c). Pub. L. 100–322, §101(d)(1)(A), redesignated subsecs. (a) 
 
 1982—Pub. L. 97–295 substituted “section 314(<i>l</i>)–(p) of this title (or the comparable rates provided pursuant to section 334 of this title)” for “subsections 314(<i>l</i>)–(p) (or the comparable rates provided pursuant to section 334) of this title”.
 
-1968—Pub. L. 90–493 substituted “Invalid lifts and other devices” for “Invalid lifts and other devices forpensioners” in section catchline, and inserted provisions authorizing the Administrator to furnish lifts and other devices to any veteran who is receiving compensation under subsections 314(<i>l</i>)–(p) (or the comparable rates provided pursuant to section 334) of this title.
+1968—Pub. L. 90–493 substituted “Invalid lifts and other devices” for “Invalid lifts and other devices for pensioners” in section catchline, and inserted provisions authorizing the Administrator to furnish lifts and other devices to any veteran who is receiving compensation under subsections 314(<i>l</i>)–(p) (or the comparable rates provided pursuant to section 334) of this title.
 
 1967—Subsec. (b). Pub. L. 90–77 substituted “to any veteran in receipt of pension under chapter 15 of this title based on need of regular aid and attendance” for “to any veteran who is eligible to receive an invalid lift under subsection (a) of this section, or who would be so eligible, but for the fact that he has such a lift”.
 

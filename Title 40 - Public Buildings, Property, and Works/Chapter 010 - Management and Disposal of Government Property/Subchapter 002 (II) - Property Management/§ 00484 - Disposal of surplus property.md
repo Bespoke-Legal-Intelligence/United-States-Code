@@ -52,7 +52,7 @@ A deed, bill of sale, lease, or other instrument executed by or on behalf of any
 
 (5)(A) Negotiated sales of personal property at fixed prices may be made by the Administrator either directly or through the use of disposal contractors without regard to the limitations set forth in paragraphs (1) and (2) of this subsection: <i>Provided</i>, That such sales shall be publicized to the extent consistent with the value and nature of the property involved, that the prices established shall reflect the estimated fair market value thereof, and that such sales shall be limited to those categories of personal property as to which the Administrator determines that such method of disposal will best serve the interests of the Government.
 
-(B) Under regulations and restrictions to be prescribed by the Administrator, property to be sold pursuant to this paragraph may be offered to organizations specified in paragraph (3)(H) of this subsection that have expressed an interest in the property to permit such an organization a prior opportunity to purchase at the prices fixed for such property.
+(B) Under regulations and restrictions to be prescribed by the Administrator, property to besold pursuant to this paragraph may be offered to organizations specified in paragraph (3)(H) of this subsection that have expressed an interest in the property to permit such an organization a prior opportunity to purchase at the prices fixed for such property.
 
 (6)(A) Except as otherwise provided by subparagraph (C) of this paragraph, an explanatory statement shall be prepared of the circumstances of each disposal by negotiation of—
 
@@ -94,13 +94,13 @@ The Maritime Administration shall dispose of surplus vessels of one thousand fiv
 
 (1) Under such regulations as he may prescribe, the Administrator is authorized in his discretion to transfer, without cost (except for costs of care and handling), any personal property under the control of any executive agency which has been determined to be surplus property to the State agency in each State designated under State law as the agency responsible for the fair and equitable distribution, through donation, of all property transferred in accordance with the provisions of paragraphs (2) and (3) of this subsection. In determining whether the property is to be transferred for donation under this subsection, no distinction shall be made between property capitalized in a working-capital fund established under section 2208 of title 10, or any similar fund, and any other property.
 
-(2) In the case of surplus personal property under the control of the Department of Defense, the Secretary of Defense shall determine whether such property is usable and necessary for educational activities which are of special interest to the armed services, such as maritime academies, or military, naval, Air Force, or Coast Guard preparatory schools. If the Secretary determines that such property is usable and necessary for said purposes, the Secretary shall allocate it for transfer by the Administrator to the appropriate State agency for distribution, through donation, to such educational activities. If the Secretary determines that such property is not usable and necessary for such purposes, it may be disposed of in accordance with paragraph (3) of this subsection.
+(2) In the case of surplus personal property under the control of the Department of Defense, the Secretary of Defense shall determine whether such property is usable and necessary for educational activities which are of special interest to the armed services, such as maritime academies, or military, naval, Air Force, or Coast Guard preparatory schools. If the Secretary determines that such property is usable and necessary for said purposes, the Secretary shall allocate it for transfer by the Administrator to the appropriate State agency for distribution,through donation, to such educational activities. If the Secretary determines that such property is not usable and necessary for such purposes, it may be disposed of in accordance with paragraph (3) of this subsection.
 
 (3) Except for surplus personal property transferred pursuant to paragraph (2) of this subsection, the Administrator shall, pursuant to criteria which are based on need and utilization and established after such consultation with State agencies as is feasible, allocate such property among the States in <sup>1</sup> a fair and equitable basis (taking into account the condition of the property as well as the original acquisition cost thereof), and transfer to the State agency property selected by it for distribution through donation within the State—
 
 &emsp;(A) to any public agency for use in carrying out or promoting for the residents of a given political area one or more public purposes, such as conservation, economic development, education, parks and recreation, public health, and public safety; or
 
-&emsp;(B) to nonprofit educational or public health institutions or organizations, such as medical institutions, hospitals, clinics, health centers, drug abuse treatment centers, providers of assistance to homeless individuals <sup>2</sup> schools, colleges, universities, schools for the mentally retarded, schools for the physically handicapped, child care centers, radio and television stations licensed by the Federal Communications Commission as educational radio or educational television stations, museums attended by the public, and libraries serving free all residents of a community, district, State, or region, which are exempt from taxation under section 501 of title 26, for purposes of education or public health (including research for any such purpose).
+&emsp;(B) to nonprofit educational or public health institutions or organizations, such as medical institutions, hospitals, clinics, health centers, drug abuse treatment centers, providers of assistance to homeless individuals, providers of assistance to families or individuals whose annual incomes are below the poverty line (as that term is defined in section 9902 of title 42), schools, colleges, universities, schools for the mentally retarded, schools for the physically handicapped, child care centers, radio and television stations licensed by the Federal Communications Commission as educational radio or educational television stations, museums attended by the public, and libraries serving free all residents of a community, district, State, or region, which are exempt from taxation under section 501 of title 26, for purposes of education or public health (including research for any such purpose).
 
 > The Administrator, in allocating and transferring property under this paragraph, shall give fair consideration, consistently with the established criteria, to expressions of need and interest on the part of public agencies and other eligible institutions within that State, and shall give special consideration to requests by eligible recipients, transmitted through the State agency, for specific items of property.
 
@@ -108,7 +108,7 @@ The Maritime Administration shall dispose of surplus vessels of one thousand fiv
 
 (B) The State plan shall provide for the fair and equitable distribution of property within such State based on the relative needs and resources of interested public agencies and other eligible institutions within the State and their abilities to utilize the property.
 
-(C)(i) The State plan of operation shall require the State agency to utilize a management control system and accounting system for donable property transferred under this section of the same types as are required by State law for State-owned property, except that the State agency, with the approval of the chief executiveofficer of the State, may elect, in lieu of such systems, to utilize such other management control and accounting systems as are effective to govern the utilization, inventory control, accountability, and disposal of property under this subsection.
+(C)(i) The State plan of operation shall require the State agency to utilize a management control system and accounting system for donable property transferred under this section of the same types as are required by State law for State-owned property, except that the State agency, with the approval of the chief executive officer of the State, may elect, in lieu of such systems, to utilize such other management control and accounting systems as are effective to govern the utilization, inventory control, accountability, and disposal of property under this subsection.
 
 (ii) The State plan of operation shall require the State agency to provide for the return of donable property for further distribution if such property, while still usable, has not been placed in use for the purpose for which it was donated within one year of donation or ceases to be used by the donee for such purposes within one year of being placed in use.
 
@@ -148,7 +148,7 @@ The Maritime Administration shall dispose of surplus vessels of one thousand fiv
 
 &emsp;(C) The deed of conveyance of any surplus real property disposed of under the provisions of this subsection—
 
-&emsp;&emsp;(i) shall provide that all such property shall be used and maintained for the purpose for which it was conveyed in perpetuity, and that in the event that such property ceases to be used or maintained for such purpose during such period, all or any portion of such property shall in its then existing condition, at the option of the United States, revert to the United States; and
+&emsp;&emsp;(i) shall provide that all such property shall be used and maintained for the purpose for which it was conveyed in perpetuity, and that in the event that such property ceases to be used or maintained for such purpose during such period, all or any portion ofsuch property shall in its then existing condition, at the option of the United States, revert to the United States; and
 
 &emsp;&emsp;(ii) may contain such additional terms, reservations, restrictions, and conditions as may be determined by the Secretary of the Interior to be necessary to safeguard the interests of the United States.
 
@@ -168,13 +168,15 @@ The Maritime Administration shall dispose of surplus vessels of one thousand fiv
 
 (4) Subject to the disapproval of the Administrator within thirty days after notice to him of any action to be taken under this subsection, except with respect to personal property transferred pursuant to subsection (j) of this section—
 
-&emsp;(A) The <sup>3</sup> Secretary of Education, through such officers or employees of the Department of Education as he may designate, in the case of property transferred pursuant to the Surplus Property Act of 1944, as amended, and pursuant to this Act, to States, political subdivisions, and instrumentalities thereof, and tax-supported and other nonprofit educational institutions for school, classroom, or other educational use;
+&emsp;(A) The <sup>2</sup> Secretary of Education, through such officers or employees of the Department of Education as he may designate, in the case of property transferred pursuant to the Surplus Property Act of 1944, as amended, and pursuant to this Act, to States, political subdivisions, and instrumentalities thereof, and tax-supported and other nonprofit educational institutions for school, classroom, or other educational use;
 
 &emsp;(B) the Secretary of Health and Human Services, through such officers or employees of the Department of Health and Human Services as he may designate, in the case of property transferred pursuant to the Surplus Property Act of 1944, as amended, and pursuant to this Act, to States, political subdivisions and instrumentalities thereof, tax-supported medical institutions, and to hospitals and other similar institutions not operated for profit, for use in the protection of public health (including research);
 
-&emsp;(C) the Secretary of the Interior, in the case of property transferred pursuant to the Surplus Property Act of 1944, as amended, and pursuant to this Act, to States, political subdivisions, and instrumentalities thereof, and municipalities for use as a public park, public recreational area, or historic monument for the benefit of the public; or
+&emsp;(C) the Secretary of the Interior, in the case of property transferred pursuant to the Surplus Property Act of 1944, as amended, and pursuant to this Act, to States, political subdivisions, and instrumentalities thereof, and municipalities for use as a public park, public recreational area, or historic monument for the benefit of the public;
 
-&emsp;(D) the Secretary of Defense, in the case of property transferred pursuant to the Surplus Property Act of 1944, as amended, to States, political subdivisions, and tax-supported instrumentalities thereof for use in the training and maintenance of civilian components of the armed forces.<sup>4</sup>
+&emsp;(D) the Secretary of Defense, in the case of property transferred pursuant to the Surplus Property Act of 1944, as amended, to States, political subdivisions, and tax-supported instrumentalities thereof for use in the training and maintenance of civilian components of the armed forces; or
+
+&emsp;(E) the Secretary of Housing and Urban Development, through such officers or employees of the Department of Housing and Urban Development as the Secretary may designate, in the case of property transferred under paragraph (6).<sup>3</sup>
 
 > is authorized and directed—
 
@@ -182,13 +184,31 @@ The Maritime Administration shall dispose of surplus vessels of one thousand fiv
 
 &emsp;(ii) to reform, correct, or amend any such instrument by the execution of a corrective, reformative or amendatory instrument where necessary to correct such instrument or to conform such transfer to the requirements of applicable law; and
 
-&emsp;(iii) to (I) grant releases from any of the terms, conditions, reservations and restrictions contained in, and (II) convey, quitclaim, or release to the transferee or other eligible user any right or interest reserved to the United States by, any instrument by which such transfer was made, if he determines that the property so transferred no longer serves the purpose for which it was transferred, or that such release, conveyance, or quitclaim deed will not prevent accomplishment of the purpose for which such property was so transferred: <i>Provided</i>, That any such release, conveyance, or quitclaim deed may be granted on, or made subject to, such terms and conditions as he shall deem necessary to protect or advance the interests of the United States.
+&emsp;(iii) to (I) grant releases from any of the terms, conditions, reservations and restrictions contained in, and (II) convey, quitclaim, or release to the transferee or other eligibleuser any right or interest reserved to the United States by, any instrument by which such transfer was made, if he determines that the property so transferred no longer serves the purpose for which it was transferred, or that such release, conveyance, or quitclaim deed will not prevent accomplishment of the purpose for which such property was so transferred: <i>Provided</i>, That any such release, conveyance, or quitclaim deed may be granted on, or made subject to, such terms and conditions as he shall deem necessary to protect or advance the interests of the United States.
 
 (5)(A) Under such regulations as the Administrator may prescribe, the Administrator is authorized, in the discretion of the Administrator, to assign to the Chief Executive Officer of the Corporation for National and Community Service for disposal such surplus property as is recommended by the Chief Executive Officer as being needed for national service activities.
 
 (B) Subject to the disapproval of the Administrator, within 30 days after notice to the Administrator by the Chief Executive Officer of the Corporation for National and Community Service of a proposed transfer of property for such activities, the Chief Executive Officer, through such officers or employees of the Corporation as the Chief Executive Officer may designate, may sell, lease, or donate such property to any entity that receives financial assistance under the National and Community Service Act of 1990 \[42 U.S.C. 12501 et seq.\] for such activities.
 
 (C) In fixing the sale or lease value of such property, the Chief Executive Officer of the Corporation for National and Community Service shall comply with the requirements of paragraph (1)(C).
+
+(6)(A) Under such regulations as the Administrator may prescribe, the Administrator may, in the discretion of the Administrator, assign to the Secretary of Housing and Urban Development for disposal such surplus real property, including buildings, fixtures, and equipment situated thereon, as is recommended by the Secretary as being needed for providing housing or housing assistance for low-income individuals or families.
+
+(B) Subject to the disapproval of the Administrator within 30 days after notice to the Administrator by the Secretary of Housing and Urban Development of a proposed transfer of property for the purpose of providing such housing or housing assistance, the Secretary, through such officers or employees of the Department of Housing and Urban Development as the Secretary may designate, may sell or lease such property for that purpose to any State, any political subdivision or instrumentality of a State, or any nonprofit organization that exists for the primary purpose of providing housing or housing assistance for low-income individuals or families.
+
+(C) The Administrator shall disapprove a proposed transfer of property under this paragraph unless the Administrator determines that the property will be used for low-income housing opportunities through the construction, rehabilitation, or refurbishment of self-help housing, under terms that require that—
+
+&emsp;(i) any individual or family receiving housing or housing assistance constructed, rehabilitated, or refurbished through use of the property shall contribute a significant amount of labor toward the construction, rehabilitation, or refurbishment; and
+
+&emsp;(ii) dwellings constructed, rehabilitated, or refurbished through use of the property shall be quality dwellings that comply with local building and safety codes and standards and shall be available at prices below prevailing market prices.
+
+(D)(i) The Administrator shall ensure that nonprofit organizations that are sold or leased property under subparagraph (B) shall develop and use guidelines to take into consideration any disability of an individual for the purposes of fulfilling any self-help requirement under subparagraph (C)(i).
+
+(ii) For purposes of this subparagraph, the term “disability” has the meaning given such term under section 12102(2) of title 42.
+
+(E)(i) In fixing the sale or lease value of property to be disposed of under this paragraph, the Secretary of Housing and Urban Development shall take into consideration and discount the value with respect to any benefit which has accrued or may accrue to the United States from the use of such property by any such State, political subdivision, instrumentality, or nonprofit organization.
+
+(ii) The amount of the discount under clause (i) shall be 75 percent of the market value of the property, except that the Secretary may discount by a greater percentage if the Secretary, in consultation with the Administrator, determines that a higher percentage is justified.
 
 #### (<i>l</i>) Donations to American Red Cross
 
@@ -200,11 +220,11 @@ The Administrator is authorized to take possession of abandoned and other unclai
 
 #### (n) Cooperative agreements with State agencies
 
-For the purpose of carrying into effect the provisions of subsection (j) of this section, the Administrator or the head of any Federal agency designated by the Administrator, and, with respect to subsection (k)(1) of this section, the Secretary of Education, the Secretary of Health and Human Services, or the head of any Federal agency designated by the Secretary, are authorized to enter into cooperative agreements with State surplus property distribution agencies designated in conformity with subsection (j) of this section. Such cooperative agreements may provide for utilization by such Federal agency, with or without payment or reimbursement, of the property, facilities, personnel, and services of the State agency in carrying out any such program, and for making available to such State agency, with or without payment or reimbursement, property, facilities, personnel, or services of such Federal agency in connection with such utilization. Payment or reimbursement, if any, from the State agency shall be credited to the fund or appropriation against which charges would be made if no payment or reimbursement were received. In addition, under such cooperative agreements and subject to such other conditions as may be imposed by the Administrator, or with respect to subsection (k)(1) of this section by the Secretary of Education or the Secretary of Health and Human Services, any surplus property transferred to the State agency for distribution pursuant to subsection (j)(3) of this section may be retained by the State agency for use in performing its functions. Unless otherwise directed by the Administrator, title to property so retained shall vest in the State agency.
+For the purpose of carrying into effect the provisions of subsection (j) of this section, the Administrator or the head of any Federal agency designated by the Administrator, and, with respect to subsection (k)(1) of this section, the Secretary of Education, the Secretary of Healthand Human Services, or the head of any Federal agency designated by the Secretary, are authorized to enter into cooperative agreements with State surplus property distribution agencies designated in conformity with subsection (j) of this section. Such cooperative agreements may provide for utilization by such Federal agency, with or without payment or reimbursement, of the property, facilities, personnel, and services of the State agency in carrying out any such program, and for making available to such State agency, with or without payment or reimbursement, property, facilities, personnel, or services of such Federal agency in connection with such utilization. Payment or reimbursement, if any, from the State agency shall be credited to the fund or appropriation against which charges would be made if no payment or reimbursement were received. In addition, under such cooperative agreements and subject to such other conditions as may be imposed by the Administrator, or with respect to subsection (k)(1) of this section by the Secretary of Education or the Secretary of Health and Human Services, any surplus property transferred to the State agency for distribution pursuant to subsection (j)(3) of this section may be retained by the State agency for use in performing its functions. Unless otherwise directed by the Administrator, title to property so retained shall vest in the State agency.
 
 #### (<i>o</i>) Biennial reports to Congress by Administrator; copies to Comptroller General
 
-(1) Six months after the end of the first full fiscal year after November 5, 1988, and bienniallythereafter, the Administrator shall transmit a report to the Congress that covers the initial period from November 5, 1988, and each succeeding biennial period and contains—
+(1) Six months after the end of the first full fiscal year after November 5, 1988, and biennially thereafter, the Administrator shall transmit a report to the Congress that covers the initial period from November 5, 1988, and each succeeding biennial period and contains—
 
 &emsp;(A) a full and independent evaluation of the operation of programs for the donation of Federal surplus personal property,
 
@@ -212,11 +232,19 @@ For the purpose of carrying into effect the provisions of subsection (j) of this
 
 &emsp;(C) such recommendations as the Administrator determines to be necessary or desirable.
 
-(2) A copy of each report made under paragraph (3) <sup>5</sup> shall also be simultaneously furnished to the Comptroller General of the United States. The Comptroller General shall review and evaluate the report and make any comments and recommendations to the Congress thereon, as he deems necessary or desirable.
+(2) A copy of each report made under paragraph (3) <sup>4</sup> shall also be simultaneously furnished to the Comptroller General of the United States. The Comptroller General shall review and evaluate the report and make any comments and recommendations to the Congress thereon, as he deems necessary or desirable.
 
-#### (p) Transfer or conveyance of property for correctional facility use; consideration-free transfers; reimbursement for interim transfers; reversion option; terms and conditions
+#### (p) Transfer or conveyance of property for correctional facility use; consideration-free transfers; reimbursement for interim transfers; law enforcement or emergency management response purposes; reversion option; terms and conditions
 
-(1) Under such regulations as he may prescribe, the Administrator is authorized in his discretion to transfer or convey to the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, or any political subdivision or instrumentality thereof, surplus real and related personal property determined by the Attorney General to be required for correctional facility use by the authorized transferee or grantee under an appropriate program or project for the care or rehabilitation of criminal offenders as approved by the Attorney General. Transfers or conveyance under this authority shall be made by the Administrator without monetary consideration to the United States. If the Attorney General determines that any surplus property transferred or conveyed pursuant to an agreement entered into between March 1, 1982, and the enactment of this subsection was suitable for transfer or conveyance under this subsection, the Administrator shall reimburse the transferee for any monetary consideration paid to the United States for such transfer or conveyance.
+(1)(A) Under such regulations as he may prescribe, the Administrator is authorized in his discretion to transfer or convey to the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, or any political subdivision or instrumentality thereof, surplus real and related personal property determined by the Attorney General to be required for correctional facility use by the authorized transferee or grantee under an appropriate program or project for the care or rehabilitation of criminal offenders as approved by the Attorney General. Transfers or conveyance under this authority shall be made by the Administrator without monetary consideration to the United States. If the Attorney General determines that any surplus property transferred or conveyed pursuant to an agreement entered into between March 1, 1982, and the enactment of this subsection was suitable for transfer or conveyance under this subsection, the Administrator shall reimburse the transferee for any monetary consideration paid to the United States for such transfer or conveyance.
+
+(B)(i) The Administrator may exercise the authority under subparagraph (A) with respect to such surplus real and related property needed by the transferee or grantee for—
+
+&emsp;(I) law enforcement purposes, as determined by the Attorney General; or
+
+&emsp;(II) emergency management response purposes, including fire and rescue services, as determined by the Director of the Federal Emergency Management Agency.
+
+(ii) The authority provided under this subparagraph shall terminate on December 31, 1999.
 
 (2) The deed of conveyance of any surplus real and related personal property disposed of under the provisions of this subsection—
 
@@ -230,7 +258,7 @@ For the purpose of carrying into effect the provisions of subsection (j) of this
 
 &emsp;(B) to reform, correct, or amend any such instrument by the execution of a corrective reformative or amendatory instrument where necessary to correct such instrument or to conform such transfer to the requirements of applicable law; and
 
-&emsp;(C) to (i) grant releases from any of the terms, conditions, reservations, and restrictions contained in, and (ii) convey, quitclaim, or release to the transferee or other eligible user any right or interest reserved to the United States by any instrument by which such transfer was made, if he determines that the property so transferred no longer serves the purpose for which it was transferred, or that such release, conveyance, or quitclaim deed will not prevent accomplishment of the purpose for which such property was so transferred: <i>Provided</i>, That any such release, conveyance, or quitclaim deed may be granted on, or made subject to, such terms and conditions as he or she shall deem necessary to protect or advance the interests of the United States.
+&emsp;(C) to (i) grant releases from any of the terms, conditions, reservations, and restrictions contained in, and (ii) convey, quitclaim,or release to the transferee or other eligible user any right or interest reserved to the United States by any instrument by which such transfer was made, if he determines that the property so transferred no longer serves the purpose for which it was transferred, or that such release, conveyance, or quitclaim deed will not prevent accomplishment of the purpose for which such property was so transferred: <i>Provided</i>, That any such release, conveyance, or quitclaim deed may be granted on, or made subject to, such terms and conditions as he or she shall deem necessary to protect or advance the interests of the United States.
 
 #### (q) Military installation closures or realignments
 
@@ -268,7 +296,11 @@ For the purpose of carrying into effect the provisions of subsection (j) of this
 
 &emsp;(C) Section 2687 of title 10, United States Code.
 
-(June 30, 1949, ch. 288, title II, §203, 63 Stat. 385; Aug. 10, 1949, ch. 412, §12(a), (g), 63 Stat. 591; Sept. 5, 1950, ch. 849, §4, 64 Stat. 579; July 12, 1952, ch. 703, §1(i), (j), 66 Stat. 593; Aug. 8, 1953, ch. 399, 67 Stat. 521; July 14, 1954, ch. 481, 68 Stat. 474; June 3, 1955, ch. 130, §§1, 2(a), 3, 5, 6, 69 Stat. 83, 84; Aug. 1, 1955, ch. 442, 69 Stat. 430; July 3, 1956, ch. 513, §§1–3, 70 Stat. 493, 494; Aug. 3, 1956, ch. 942, 70 Stat. 1020; July 2, 1958, Pub. L. 85–486, 72 Stat. 288; July 20, 1961, Pub. L. 87–94, 75 Stat. 213; Oct. 10, 1962, Pub. L. 87–786, 76 Stat. 805; Nov. 8, 1965, Pub. L. 89–348, §2(4), 79 Stat. 1312; Oct. 22, 1970, Pub. L. 91–485, §§2–4, 84 Stat. 1084, 1085; Aug. 4, 1972, Pub. L. 92–362, §1, 86 Stat. 503; Pub. L. 90–351, title I, §525, as added Aug. 6, 1973, Pub. L. 93–83, §2, 87 Stat. 216; Oct. 17, 1976, Pub. L. 94–519, §1, 90 Stat. 2451; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(2)(P), (b), title V, §§507, 509(b), 93 Stat. 678, 692, 695; Aug. 6, 1981, Pub. L. 97–31, §12(15), 95 Stat. 154; Oct. 12, 1984, Pub. L. 98–473, title II, §§701, 702, 98 Stat. 2129, 2130; Aug. 22, 1986, Pub. L. 99–386, title II, §§201, 207, 100 Stat. 822, 823; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; July 22, 1987, Pub. L. 100–77, title V, §502(a), 101 Stat. 510; Nov. 5, 1988, Pub. L. 100–612, §§3–5, 102 Stat. 3180, 3181; Nov. 18, 1988, Pub. L. 100–690, title II, §2081(b), 102 Stat. 4216; Sept. 21, 1993, Pub. L. 103–82, title II, §202(f), 107 Stat. 888; Nov. 30, 1993, Pub. L. 103–160, div. B, title XXIX, §2927, 107 Stat. 1932; Dec. 21, 1995, Pub. L. 104–66, title II, §2091(a), 109 Stat. 730.)
+#### (r) Donation of surplus law enforcement canines to their handlers
+
+The head of a Federal agency having control of a canine that has been used by a Federal agency in the performance of law enforcement duties and that has been determined by the agency to be no longer needed for official purposes may donate the canine to an individual who has experience handling canines in the performance of those duties.
+
+(June 30, 1949, ch. 288, title II, §203, 63 Stat. 385; Aug. 10, 1949, ch. 412, §12(a), (g), 63 Stat. 591; Sept. 5, 1950, ch. 849, §4, 64 Stat. 579; July 12, 1952, ch. 703, §1(i), (j), 66 Stat. 593; Aug. 8, 1953,ch. 399, 67 Stat. 521; July 14, 1954, ch. 481, 68 Stat. 474; June 3, 1955, ch. 130, §§1, 2(a), 3, 5, 6, 69 Stat. 83, 84; Aug. 1, 1955, ch. 442, 69 Stat. 430; July 3, 1956, ch. 513, §§1–3, 70 Stat. 493, 494; Aug. 3, 1956, ch. 942, 70 Stat. 1020; Pub. L. 85–486, July 2, 1958, 72 Stat. 288; Pub. L. 87–94, July 20, 1961, 75 Stat. 213; Pub. L. 87–786, Oct. 10, 1962, 76 Stat. 805; Pub. L. 89–348, §2(4), Nov. 8, 1965, 79 Stat. 1312; Pub. L. 91–485, §§2–4, Oct. 22, 1970, 84 Stat. 1084, 1085; Pub. L. 92–362, §1, Aug. 4, 1972, 86 Stat. 503; Pub. L. 90–351, title I, §525, as added Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 216; Pub. L. 94–519, §1, Oct. 17, 1976, 90 Stat. 2451; Pub. L. 96–88, title III, §301(a)(2)(P), (b), title V, §§507, 509(b), Oct. 17, 1979, 93 Stat. 678, 692, 695; Pub. L. 97–31, §12(15), Aug. 6, 1981, 95 Stat. 154; Pub. L. 98–473, title II, §§701, 702, Oct. 12, 1984, 98 Stat. 2129, 2130; Pub. L. 99–386, title II, §§201, 207, Aug. 22, 1986, 100 Stat. 822, 823; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–77, title V, §502(a), July 22, 1987, 101 Stat. 510; Pub. L. 100–612, §§3–5, Nov. 5, 1988, 102 Stat. 3180, 3181; Pub. L. 100–690, title II, §2081(b), Nov. 18, 1988, 102 Stat. 4216; Pub. L. 103–82, title II, §202(f), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–160, div. B, title XXIX, §2927, Nov. 30, 1993, 107 Stat. 1932; Pub. L. 104–66, title II, §2091(a), Dec. 21, 1995, 109 Stat. 730; Pub. L. 105–27, §1, July 18, 1997, 111 Stat. 244; Pub. L. 105–50, Oct. 6, 1997, 111 Stat. 1167; Pub. L. 105–119, title I, §118, Nov. 26, 1997, 111 Stat. 2468.)
 
 #### References in Text
 
@@ -284,11 +316,21 @@ The National and Community Service Act of 1990, referred to in subsec. (k)(5)(B)
 
 In subsec. (k)(1)(A), (B), “section 501(c)(3) of title 26” substituted for “section 101(6) of title 26” on authority of section 7852(b) of Title 26, Internal Revenue Code, which provides that a reference in other laws to the Internal Revenue Code of 1939 is deemed a reference to the corresponding provision of the Internal Revenue Code of 1986.
 
-November 5, 1988, referred to in subsec. (<i>o</i>)(1), was in the original “the date of enactment of this paragraph and such effective date”, which was translated asmeaning the date of enactment of Pub. L. 100–612, which amended subsec. (<i>o</i>) generally, to reflect the probable intent of Congress.
+November 5, 1988, referred to in subsec. (<i>o</i>)(1), was in the original “the date of enactment of this paragraph and such effective date”, which was translated as meaning the date of enactment of Pub. L. 100–612, which amended subsec. (<i>o</i>) generally, to reflect the probable intent of Congress.
 
 Section was formerly classified to section 233 of Title 41, Public Contracts.
 
 #### Amendments
+
+1997—Subsec. (j)(3)(B). Pub. L. 105–50, §1, inserted “, providers of assistance to families or individuals whose annual incomes are below the poverty line (as that term is defined in section 9902 of title 42),” after “homeless individuals”.
+
+Subsec. (k)(4)(E). Pub. L. 105–50, §2(b), added subpar. (E).
+
+Subsec. (k)(6). Pub. L. 105–50, §2(a), added par. (6).
+
+Subsec. (p)(1). Pub. L. 105–119, §118, designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (r). Pub. L. 105–27 added subsec. (r).
 
 1995—Subsec. (<i>o</i>). Pub. L. 104–66 redesignated par. (3) as (2) and substituted “(3)” for “(2)” after “made under paragraph”, redesignated par. (2) as (1), and struck out former par. (1) which read as follows: “With respect to real and related personal property transferred or conveyed under subsection (p) or (q) of this section and real property disposed of under subsection (k) of this section and section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g)), the head of each executive agency disposing of such property shall submit during the calendar quarter following the close of each fiscal year a report to the Congress and to the Administrator showing the acquisition cost and the sale or lease value of all real and related personal property so disposed of during the preceding fiscal year. Such reports shall also show transfers or conveyances of property according to State, and may include such other information and recommendations as the Administrator or other executive agency head concerned deems appropriate.”
 
@@ -340,7 +382,7 @@ Subsec. (n). Pub. L. 91–485, §3, substituted “(k)(1)” for (k) in first se
 
 Subsec. (<i>o</i>). Pub. L. 91–485, §4, substituted reference to fiscal year for reference to calendar quarter and struck out reference to distribution to educational or public health institutions in each State, Territory and possession and the requirement that the first report be submitted during the first calendar quarter beginning after the enactment of the subsection.
 
-1965—Subsec. (<i>o</i>). Pub. L. 89–348 required the Secretary of Health, Education, and Welfare to report semiannually instead of quarterly to the Senate andthe House of Representatives with respect to personal property donations to State surplus property agencies and real property disposals to public health and educational institutions.
+1965—Subsec. (<i>o</i>). Pub. L. 89–348 required the Secretary of Health, Education, and Welfare to report semiannually instead of quarterly to the Senate and the House of Representatives with respect to personal property donations to State surplus property agencies and real property disposals to public health and educational institutions.
 
 1962—Subsec. (j)(3), (7). Pub. L. 87–786 inserted provisions in par. (3) authorizing distribution to schools for the mentally retarded, schools for the physically handicapped, radio and television stations licensed by the Federal Communications Commission as educational radio or educational television stations, and to public libraries, and added par. (7).
 
@@ -436,7 +478,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Donation of Surplus Property to State Agricultural Extension Agencies
 
-Pub. L. 86–570, July 5, 1960, 74 Stat. 307, provided: “That, notwithstanding any provision of the Federal Property and Administrative Services Act of 1949, as amended \[see Short Title note set out under section 471 of this title\], or any other law, the Postmaster General and the Administrator of General Services are hereby authorized and directed to transfer, as soon as practicable after date of enactment hereof \[July 5, 1960\], without cost, to any State or county agency engaged in cooperative agricultural extension work pursuant to the Act of May 8, 1914, as amended (7 U.S.C. 341–348), for the use of such agency, all right, title, and interest in and to any office equipment, materials, books, or other supplies (whether or not capitalized in a working capital fund established under section 405 of the National Security Act of 1947, as amended \[section 172d of former title 5, Executive Departments and Government Officers and Employees, and now covered by section 2208 of Title 10, Armed Forces\], or any similar fund) which have heretofore been assigned for use to any such State or county agency by the Post Office Department \[now the United States Postal Service\] or the General Services Administration, respectively.”
+Pub. L. 86–570, July 5, 1960, 74 Stat. 307, provided: “That, notwithstanding any provision of the Federal Property and Administrative Services Act of 1949, as amended \[see Short Title note set out under section 471 of this title\], or any other law, the Postmaster General and the Administrator of General Services are hereby authorized and directed to transfer, as soon as practicable after date of enactment hereof \[July 5, 1960\], without cost, to any State or county agency engaged in cooperative agricultural extension work pursuant to the Act of May 8, 1914, as amended (7 U.S.C. 341–348), for the use of such agency, all right, title, and interest inand to any office equipment, materials, books, or other supplies (whether or not capitalized in a working capital fund established under section 405 of the National Security Act of 1947, as amended \[section 172d of former title 5, Executive Departments and Government Officers and Employees, and now covered by section 2208 of Title 10, Armed Forces\], or any similar fund) which have heretofore been assigned for use to any such State or county agency by the Post Office Department \[now the United States Postal Service\] or the General Services Administration, respectively.”
 
 #### Termination of Prior Restrictions
 
@@ -482,7 +524,7 @@ Sec. 3. <i>Assisting Teachers’ Professional Development: Connecting Classrooms
 
 (3) provide ongoing maintenance of and technical support for the educationally useful Federal equipment transferred pursuant to this order.
 
-(b) Each agency described in subsection (a) shall submit to the Office of Science and Technology Policy, within 6 months of the date of this order, an implementation plan to advance the developments described in this order, particularly those required in this section. The plan shall be consistent with approved agency budget totals and shall be coordinated through the Office of Science and Technology Policy.
+(b) Each agency described in subsection (a) shall submit to the Office of Science and Technology Policy,within 6 months of the date of this order, an implementation plan to advance the developments described in this order, particularly those required in this section. The plan shall be consistent with approved agency budget totals and shall be coordinated through the Office of Science and Technology Policy.
 
 (c) Nothing in this order shall be interpreted to bar a recipient of educationally useful Federal equipment from lending that equipment, whether on a permanent or temporary basis, to a teacher, administrator, student, employee, or other designated person in furtherance of educational goals.
 
@@ -512,11 +554,9 @@ This section is referred to in sections 475, 481, 483, 483c, 484c, 483d, 490, 51
 
 <i><sup>1</sup></i><i> So in original. Probably should be “on”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>3</sup></i><i> So in original. The period probably should be a comma.</i>
 
-<i><sup>4</sup></i><i> So in original. The period probably should be a comma.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be paragraph “(1)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be paragraph “(1)”.</i>
 

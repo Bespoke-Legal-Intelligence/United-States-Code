@@ -48,7 +48,7 @@
 
 &emsp;(6) buy arms and ammunition required by officers and employees of the Department in carrying out their duties and powers; and
 
-&emsp;(7) notwithstanding any other provision of law, fulfill any requirement to issue a report on the financial condition of any fund on thebooks of the Treasury by including the required information in a consolidated report, except that information with respect to a specific fund shall be separately reported if the Secretary determines that the consolidation of such information would result in an unwarranted delay in the availability of such information.
+&emsp;(7) notwithstanding any other provision of law, fulfill any requirement to issue a report on the financial condition of any fund on the books of the Treasury by including the required information in a consolidated report, except that information with respect to a specific fund shall be separately reported if the Secretary determines that the consolidation of such information would result in an unwarranted delay in the availability of such information.
 
 (c) Duties and powers of officers and employees of the Department are vested in the Secretary except duties and powers—
 
@@ -194,7 +194,7 @@ In subsection (a)(3), the word “issue” is substituted for “shall grant” 
 
 Subsection (a)(4) is included to reflect all the major duties of the Secretary of the Treasury. See chapter 51 of the revised title.
 
-In subsection (a)(5), before subclause (A), the words “prescribe regulations” are substituted for “make and issue from time to time such instructions and regulations” for consistency in the revised title and to eliminate unnecessary words. The words “applicable to anyone” are substituted for “to the several collectors, receivers, depositaries, officers, and others” for clarity and to eliminate unnecessary words. In subclause (A),the words “for the Government” are inserted because section 8 of the Act of June 30, 1864 (ch. 172, 13 Stat. 221), from which section 251 of the Revised Statutes is derived, used the phrase “in behalf of the United States”. In subclause (B), the words “those notes and securities” are substituted for “the same” for clarity.
+In subsection (a)(5), before subclause (A), the words “prescribe regulations” are substituted for “make and issue from time to time such instructions and regulations” for consistency in the revised title and to eliminate unnecessary words. The words “applicable to anyone” are substituted for “to the several collectors, receivers, depositaries, officers, and others” for clarity and to eliminate unnecessary words. In subclause (A), the words “for the Government” are inserted because section 8 of the Act of June 30, 1864 (ch. 172, 13 Stat. 221), from which section 251 of the Revised Statutes is derived, used the phrase “in behalf of the United States”. In subclause (B), the words “those notes and securities” are substituted for “the same” for clarity.
 
 In subsection (a)(6), the word “collect” is substituted for “superintend the collection” because of the source provisions restated in section 321(c) of the revised title. The word “receipts” is substituted for “revenue” for consistency in the revised title.
 

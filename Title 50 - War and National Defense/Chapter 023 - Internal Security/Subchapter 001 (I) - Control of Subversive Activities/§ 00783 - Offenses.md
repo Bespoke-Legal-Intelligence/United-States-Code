@@ -40,7 +40,7 @@ Any person may be prosecuted, tried, and punished for any violation of this sect
 
 (5) As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 
-(Sept. 23, 1950, ch. 1024, title I, §4, 64 Stat. 991; Jan. 2, 1968, Pub. L. 90–237, §3, 81 Stat. 765; Dec. 17, 1993, Pub. L. 103–199, title VIII, §803(2), 107 Stat. 2329; Oct. 14, 1994, Pub. L. 103–359, title VIII, §804(c), 108 Stat. 3440.)
+(Sept. 23, 1950, ch. 1024, title I, §4, 64 Stat. 991; Pub. L. 90–237, §3, Jan. 2, 1968, 81 Stat. 765; Pub. L. 103–199, title VIII, §803(2), Dec. 17, 1993, 107 Stat. 2329; Pub. L. 103–359, title VIII, §804(c), Oct. 14, 1994, 108 Stat. 3440.)
 
 #### Amendments
 

@@ -10,7 +10,7 @@
 
 &emsp;(A) who has a compensable service-connected disability rated less than 50 percent;
 
-&emsp;(B) whose discharge or release from active military, naval, or air service was for a compensable disability that was incurred or aggravated in the line of duty;
+&emsp;(B) whose discharge or release from active military, naval, or air service was for a disability that was incurred or aggravated in the line of duty;
 
 &emsp;(C) who is in receipt of, or who, but for a suspension pursuant to section 1151 of this title (or both a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such veteran's continuing eligibility for such care is provided for in the judgment or settlement provided for in such section;
 
@@ -18,7 +18,7 @@
 
 &emsp;(E) who is a veteran of the Mexican border period or of World War I;
 
-&emsp;(F) who was exposed to a toxic substance, radiation, or environmental hazard, as provided in subsection (e); or
+&emsp;(F) who was exposed to a toxic substance, radiation, or other conditions, as provided in subsection (e); or
 
 &emsp;(G) who is unable to defray the expenses of necessary care as determined under section 1722(a) of this title.
 
@@ -46,7 +46,7 @@
 
 &emsp;(ii) any other disease for which the Secretary, based on the advice of the Advisory Committee on Environmental Hazards, determines that there is credible evidence of a positive association between occurrence of the disease in humans and exposure to ionizing radiation.
 
-(C) Subject to paragraphs (2) and (3) of this subsection, a veteran who the Secretary finds may have been exposed while serving on active duty in the Southwest Asia theater of operations during the Persian Gulf War to a toxic substance or environmental hazard is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.
+(C) Subject to paragraphs (2) and (3) of this subsection, a veteran who served on active dutyin the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
 
 (2)(A) In the case of a veteran described in paragraph (1)(A), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to—
 
@@ -54,7 +54,7 @@
 
 &emsp;(ii) a disease for which the National Academy of Sciences, in a report issued in accordance with section 2 of the Agent Orange Act of 1991, has determined that there is limited or suggestive evidence of the lack of a positive association between occurrence of the disease in humans and exposure to a herbicide agent.
 
-(B) In the case of a veteran described in paragraph (1)(C), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than an exposure described in that paragraph.
+(B) In the case of a veteran described in paragraph (1)(C), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the service described in that paragraph.
 
 (3) Hospital care, medical services, and nursing home care may not be provided under or by virtue of subsection (a)(2)(F)—
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(ii) the amount determined under paragraph (3) of this subsection; and
 
-&emsp;(B) an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+&emsp;(B) before September 30, 2002, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
 
 (3)(A) In the case of hospital care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is—
 
@@ -104,7 +104,7 @@
 
 > whichever occurs first.
 
-(D) In the case of a veteran who is admitted for hospital care under this section after having been furnished, during the preceding 365-day period, nursing home care for which the veteran has paid the amount of the inpatient Medicare deductible under this subsection and who has not been furnished 90 days of nursing home care in connection with such payment, the veteran shall not incur any liability under paragraph (2) of this subsection with respect to such hospital care until—
+(D) In the case of a veteran who is admitted for hospital care under this section after having been furnished, during the preceding 365-day period, nursing home care for which the veteran has paid the amount of the inpatient Medicaredeductible under this subsection and who has not been furnished 90 days of nursing home care in connection with such payment, the veteran shall not incur any liability under paragraph (2) of this subsection with respect to such hospital care until—
 
 &emsp;(i) the veteran has been furnished, beginning with the first day of such nursing home care furnished in connection with such payment, a total of 90 days of nursing home care and hospital care; or
 
@@ -116,9 +116,7 @@
 
 (F) A veteran may not be required to make a payment under this subsection or subsection (g) for any days of care in excess of 360 days of care during any 365-calendar-day period.
 
-(4) Amounts collected or received on behalf of the United States under this subsection shall be deposited in the Treasury as miscellaneous receipts.
-
-(5) For the purposes of this subsection, the term “inpatient Medicare deductible” means the amount of the inpatient hospital deductible in effect under section 1813(b) of the Social Security Act (42 U.S.C. 1395e(b)) on the first day of the 365-day period applicable under paragraph (3) of this subsection.
+(4) For the purposes of this subsection, the term “inpatient Medicare deductible” means the amount of the inpatient hospital deductible in effect under section 1813(b) of the Social Security Act (42 U.S.C. 1395e(b)) on the first day of the 365-day period applicable under paragraph (3) of this subsection.
 
 (g)(1) The Secretary may not furnish medical services under subsection (a) of this section (including home health services under section 1717 of this title) to a veteran who is eligible for hospital care under this chapter by reason of subsection (a)(3) of this section unless the veteran agrees to pay to the United States the amount determined under paragraph (2) of this subsection.
 
@@ -126,15 +124,9 @@
 
 (3) This subsection does not apply with respect to home health services under section 1717 of this title to the extent that such services are for improvements and structural alterations.
 
-(4) Amounts collected or received by the Department under this subsection shall be deposited in the Treasury as miscellaneous receipts.
-
 (h) Nothing in this section requires the Secretary to furnish care to a veteran to whom another agency of Federal, State, or local government has a duty under law to provide care in an institution of such government.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 8013(e) of Pub. L. 101–508, see Effective and Termination Dates of 1990 Amendment note below.</i>
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §610; Pub. L. 87–583, §1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, §8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, §304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, §4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, §102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, §102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, §5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, §102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, §701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, §103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, §237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, §102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, §1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, §8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, §5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, §14(b)(10), June 13, 1991, 105 Stat. 283; renumbered §1710 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, §1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, §505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, §209(a), title IV, §402(a), Nov. 21, 1997, 111 Stat. 2290, 2294.)
 
 #### References in Text
 
@@ -149,6 +141,20 @@ The text of subsec. (f) of section 1712 of this title, which was transferred to 
 A prior section 1710 was renumbered section 3510 of this title.
 
 #### Amendments
+
+1997—Subsec. (a)(2)(B). Pub. L. 105–114, §402(a), struck out “compensable” before “disability”.
+
+Subsec. (a)(2)(F). Pub. L. 105–114, §209(a)(1), substituted “other conditions” for “environmental hazard”.
+
+Subsec. (e)(1)(C). Pub. L. 105–114, §209(a)(2), substituted “served” for “the Secretary finds may have been exposed while serving” and “associated with such service” for “associated with such exposure” and struck out “to a toxic substance or environmental hazard” after “Persian Gulf War”.
+
+Subsec. (e)(2)(B). Pub. L. 105–114, §209(a)(3), substituted “the service” for “an exposure”.
+
+Subsec. (f)(2)(B). Pub. L. 105–33, §8021(a)(1), inserted “before September 30, 2002,” after “(B)”.
+
+Subsec. (f)(4), (5). Pub. L. 105–33, §8023(b)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “Amounts collected or received on behalf of the United States under this subsection shall be deposited in the Treasury as miscellaneous receipts.”
+
+Subsec. (g)(4). Pub. L. 105–33, §8023(b)(2), struck out par. (4) which read as follows: “Amounts collected or received by the Department under this subsection shall be deposited in the Treasury as miscellaneous receipts.”
 
 1996—Subsec. (a). Pub. L. 104–262, §101(a), amended subsec. (a) generally, revising and restating provisions in former pars. (1) to (3) relating to eligibility for care as pars. (1) to (4).
 
@@ -242,9 +248,9 @@ Subsec. (f)(3)(E), (F). Pub. L. 102–83, §5(c)(1), substituted “1712(f)” f
 
 Subsec. (g). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1990—Subsec. (a)(1)(I). Pub. L. 101–508, §8013(a)(1)(A), (e), temporarily substituted “section 622(a)” for “section 622(a)(1)”. See Effective and Termination Dates of 1990 Amendment note below.
+1990—Subsec. (a)(1)(I). Pub. L. 101–508, §8013(a)(1)(A), substituted “section 622(a)” for “section 622(a)(1)”.
 
-Subsec. (a)(2). Pub. L. 101–508, §8013(a)(1)(B), (e), temporarily added par. (2) and struck out former par. (2) which read as follows:
+Subsec. (a)(2). Pub. L. 101–508, §8013(a)(1)(B), added par. (2) and struck out former par. (2) which read as follows:
 
 “(A) To the extent that resources and facilities are available, the Administrator may furnish hospital care and nursing home care which the Administrator determines is needed to a veteran for a non-service-connected disability if the veteran has an income level described in section 622(a)(2) of this title.
 
@@ -254,9 +260,7 @@ Subsec. (a)(2). Pub. L. 101–508, §8013(a)(1)(B), (e), temporarily added par. 
 
 &emsp;“(ii) subject to the provisions of subsection (f) of this section.”
 
-> See Effective and Termination Dates of 1990 Amendment note below.
-
-Subsec. (f)(1), (2). Pub. L. 101–508, §8013(a)(2)(A), (e), temporarily added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (f)(1), (2). Pub. L. 101–508, §8013(a)(2)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) The Administrator may not furnish hospital care or nursing home care under this section to a veteran who is eligible for such care by reason of subsection (a)(2)(B) of this section unless the veteran agrees to pay to the United States the applicable amount determined under paragraph (2) of this subsection.
 
@@ -266,9 +270,7 @@ Subsec. (f)(1), (2). Pub. L. 101–508, §8013(a)(2)(A), (e), temporarily added 
 
 &emsp;“(B) the amount determined under paragraph (3) of this subsection.”
 
-> See Effective and Termination Dates of 1990 Amendment note below.
-
-Subsec. (f)(3)(A), (B). Pub. L. 101–508, §8013(a)(2)(B), (e), temporarily substituted “paragraph (2)(A)(ii)” for “paragraph (2)(B)”. See Effective and Termination Dates of 1990 Amendment note below.
+Subsec. (f)(3)(A), (B). Pub. L. 101–508, §8013(a)(2)(B), substituted “paragraph (2)(A)(ii)” for “paragraph (2)(B)”.
 
 1988—Subsec. (b). Pub. L. 100–233 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Administrator, within the limits of Veterans’ Administration facilities, may furnish domiciliary care to—
 
@@ -344,6 +346,10 @@ Subsec. (c). Pub. L. 89–785 added subsec. (c).
 
 1962—Subsec. (a)(1). Pub. L. 87–583 provided for hospital care to any veteran for a service-connected disability instead of to a veteran of any war for a service-connected disability incurred or aggravated during a period of war in subpar. (A) and incorporated existing provisions in subpar. (B).
 
+#### Effective Date of 1997 Amendment
+
+Amendment by section 8023(b)(1), (2) of Pub. L. 105–33 effective Oct. 1, 1997, see section 8023(g) of Pub. L. 105–33, set out as a note under section 712 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–275 effective Jan. 1, 1997, with no benefit to be paid or provided by reason of such amendment for any period before such date, see section 505(d) of Pub. L. 104–275, set out as a note under section 101 of this title.
@@ -352,21 +358,19 @@ Amendment by Pub. L. 104–275 effective Jan. 1, 1997, with no benefit to be pai
 
 Section 1(c)(1) of Pub. L. 103–210 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1712 of this title\] shall take effect as of August 2, 1990.”
 
-#### Effective and Termination Dates of 1990 Amendment
+#### Effective Date of 1990 Amendments
 
 Pub. L. 102–145, §111, Oct. 28, 1991, 105 Stat. 970, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–145, 105 Stat. 970, as amended by Pub. L. 102–163, 105 Stat. 1048\].”
 
 Pub. L. 102–109, §111, Sept. 30, 1991, 105 Stat. 553, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) \[enacting section 622A \[now 1722A\] of this title and amending this section and sections 612 \[now 1712\] and 622 \[now 1722\] of this title\] shall remain in effect through the period covered by this joint resolution \[see section 106 of Pub. L. 102–109, 105 Stat. 553\].”
 
-Section 8013(d) and (e) of Pub. L. 101–508, as amended by Pub. L. 102–139, title V, §518(b), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–568, title VI, §606(b), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(a), Aug. 10, 1993, 107 Stat. 414, provided that:
+Section 8013(d) and (e) of Pub. L. 101–508, as amended by Pub. L. 102–139, title V, §518(b), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–568, title VI, §606(b), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 105–33, title VIII, §8021(a)(2), Aug. 5, 1997, 111 Stat. 665, provided that:
 
 “(d)
 
 Effective Date.—The amendments made by this section \[amending this section and sections 612 and 622 \[now 1712 and 1722\] of this title\] shall apply with respect to hospital care and medical services received after October 31, 1990, or the date of the enactment of this Act \[Nov. 5, 1990\], whichever is later.
 
-“(e)
-
-Sunset.—The amendments made by this section expire on September 30, 1998.”
+“\[(e) Repealed. Pub. L. 105–33, title VIII, §8021(a)(2), Aug. 5, 1997, 111 Stat. 665.\]”
 
 #### Effective Date of 1986 Amendments
 
@@ -404,11 +408,37 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Savings Provision
 
-Section 102(b) of Pub. L. 104–262 provided that: “The provisions of sections 1710(e) and 1712(a) of title 38,United States Code, as in effect on the day before the date of the enactment of this Act \[Oct. 9, 1996\], shall continue to apply on and after such date with respect to the furnishing of hospital care, nursing home care, and medical services for any veteran who was furnished such care or services before such date of enactment on the basis of presumed exposure to a substance or radiation under the authority of those provisions, but only for treatment for a disability for which such care or services were furnished before such date.”
+Section 102(b) of Pub. L. 104–262 provided that: “The provisions of sections 1710(e) and 1712(a) of title 38, United States Code, as in effect on the day before the date of the enactment of this Act \[Oct. 9, 1996\], shall continue to apply on and after such date with respect to the furnishing of hospital care, nursing home care, and medical services for any veteran who was furnished such care or services before such date of enactment on the basis of presumed exposure to a substance or radiation under the authority of those provisions, but only for treatment for a disability for which such care or services were furnished before such date.”
 
 #### Savings Provision for Pub. L. 100–322
 
 Section 102(c) of Pub. L. 100–322 provided that: “The amendment made by subsection (a) \[amending this section\] shall not limit or restrict the eligibility for domiciliary care of a veteran who was a patient or a resident in a State home facility or a Veterans’ Administration domiciliary facility during the period beginning on January 1, 1987, and ending on April 1, 1988.”
+
+#### Demonstration Projects for Treatment of Persian Gulf Illness
+
+Section 209(b) of Pub. L. 105–114 provided that:
+
+“(1) The Secretary of Veterans Affairs shall carry out a program of demonstration projects to test new approaches to treating, and improving the satisfaction with such treatment of, Persian Gulf veterans who suffer from undiagnosed and ill-defined disabilities. The program shall be established not later than July 1, 1998, and shall be carried out at up to 10 geographically dispersed medical centers of the Department of Veterans Affairs.
+
+“(2) At least one of each of the following models shall be used at no less than two of the demonstration projects:
+
+&emsp;“(A) A specialized clinic which serves Persian Gulf veterans.
+
+&emsp;“(B) Multidisciplinary treatment aimed at managing symptoms.
+
+&emsp;“(C) Use of case managers.
+
+“(3) A demonstration project under this subsection may be undertaken in conjunction with another funding entity, including agreements under section 8111 of title 38, United States Code.
+
+“(4) The Secretary shall make available from appropriated funds (which have been retained for contingent funding) $5,000,000 to carry out the demonstration projects.
+
+“(5) The Secretary may not approve a medical center as a location for a demonstration project under this subsection unless a peer review panel has determined that the proposal submitted by that medical center is among those proposals that have met the highest competitive standards of clinical merit and the Secretary has determined that the facility has the ability to—
+
+&emsp;“(A) attract the participation of clinicians of outstanding caliber and innovation to the project; and
+
+&emsp;“(B) effectively evaluate the activities of the project.
+
+“(6) In determining which medical centers to select as locations for demonstration projects under this subsection, the Secretary shall give special priority to medical centers that have demonstrated a capability to compete successfully for extramural funding support for research into the effectiveness and cost-effectiveness of the care provided under the demonstration project.”
 
 #### Patient Privacy for Women Patients
 
@@ -538,7 +568,7 @@ Pub. L. 102–585, title V, §525, Nov. 4, 1992, 106 Stat. 4960, directed Secret
 
 #### Reports on Furnishing of Health Care and Implementation of Changes in Eligibility
 
-Section 19011(e) of Pub. L. 99–272, as amended by Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 101–237, title II, §201(d), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–40, title III, §302, May 7, 1991, 105 Stat. 208; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §4, May 20, 1992, 106 Stat. 179, directed Administrator of Veterans Affairs to submit to Congress a report for each fiscal year through fiscal year 1992 concerning implementation of the amendments made by section 19011 of Pub. L. 99–272, which amended this section and sections 1525, 1701, 1712, 1712A, 1720, 1722, and 1763 of this title and enacted provisions set out as notes under this section and section 1722 of this title, specified detailed information required to be submitted in each report, and provided that each report be submitted not later than the Feb. 1 following the end of the fiscal year for which it is submitted.
+Section 19011(e) of Pub. L. 99–272, as amended by Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 101–237, title II, §201(d), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–40, title III, §302, May 7, 1991, 105 Stat. 208; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §4, May 20, 1992, 106 Stat. 179, directed Administrator of Veterans Affairs to submit to Congress a report for each fiscal year through fiscal year 1992 concerning implementation of the amendments made by section 19011 of Pub. L. 99–272, which amended this section and sections 1525, 1701, 1712, 1712A, 1720, 1722, and 1763 of this title and enacted provisions set out as notes under this section and section 1722 of thistitle, specified detailed information required to be submitted in each report, and provided that each report be submitted not later than the Feb. 1 following the end of the fiscal year for which it is submitted.
 
 #### Chiropractic Services Pilot Program
 
@@ -546,5 +576,5 @@ Section 109 of Pub. L. 99–166 directed Administrator of Veterans’ Affairs to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1701, 1703, 1705, 1706, 1712, 1712A, 1717, 1720, 1720B, 1720C, 1722, 1729, 2303, 5317, 8110, 8111A of this title; title 26 section 6103.
+This section is referred to in sections 1701, 1703, 1705, 1706, 1712, 1712A, 1717, 1720, 1720B, 1720C, 1722, 1729A, 1771, 1772, 2303, 5317, 8110, 8111A of this title; title 10 section 1074e; title 26 section 6103.
 

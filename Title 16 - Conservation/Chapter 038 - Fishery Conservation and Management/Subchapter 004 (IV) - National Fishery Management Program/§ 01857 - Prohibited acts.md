@@ -36,13 +36,13 @@ It is unlawful—
 
 &emsp;&emsp;&emsp;(ii) fish contained in such fishing gear;
 
-&emsp;&emsp;(L) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel under this chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
+&emsp;&emsp;(L) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, orinterfere with any observer on a vessel under this chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
 
 &emsp;&emsp;(M) to engage in large-scale driftnet fishing that is subject to the jurisdiction of the United States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation;
 
 &emsp;&emsp;(N) to strip pollock of its roe and discard the flesh of the pollock; or
 
-&emsp;&emsp;(O) to knowingly and willfully fail to disclose, or to falsely disclose, any financial interest as required under section 1852(j) ofthis title, or to knowingly vote on a Council decision in violation of section 1852(j)(7)(A) of this title.
+&emsp;&emsp;(O) to knowingly and willfully fail to disclose, or to falsely disclose, any financial interest as required under section 1852(j) of this title, or to knowingly vote on a Council decision in violation of section 1852(j)(7)(A) of this title.
 
 &emsp;(2) for any vessel other than a vessel of the United States, and for the owner or operator of any vessel other than a vessel of the United States, to engage—
 
@@ -90,7 +90,7 @@ The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (
 
 #### Amendments
 
-1996—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
+1996—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commissionunder the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
 
 Par. (1)(K). Pub. L. 104–297, §113(b)(2), substituted “gear;” for “gear,” at end of cl. (ii) and struck out concluding provisions which read as follows: “or to attempt to do so;”.
 

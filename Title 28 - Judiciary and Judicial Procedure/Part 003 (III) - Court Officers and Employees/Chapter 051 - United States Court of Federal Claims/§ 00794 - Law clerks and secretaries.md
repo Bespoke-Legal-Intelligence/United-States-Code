@@ -2,7 +2,7 @@
 
 The judges of the United States Court of Federal Claims may appoint necessary law clerks and secretaries, in such numbers as the Judicial Conference of the United States may approve for district judges, subject to any limitation of the aggregate salaries of such employees which may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
 
-(June 25, 1948, ch. 646, 62 Stat. 924; Apr. 2, 1982, Pub. L. 97–164, title I, §121(c)(1), 96 Stat. 34; Nov. 19, 1988, Pub. L. 100–702, title X, §1003(a)(3), 102 Stat. 4665; Oct. 29, 1992, Pub. L. 102–572, title IX, §§902(a)(1), 905, 106 Stat. 4516, 4517.)
+(June 25, 1948, ch. 646, 62 Stat. 924; Pub. L. 97–164, title I, §121(c)(1), Apr. 2, 1982, 96 Stat. 34; Pub. L. 100–702, title X, §1003(a)(3), Nov. 19, 1988, 102 Stat. 4665; Pub. L. 102–572, title IX, §§902(a)(1), 905, Oct. 29, 1992, 106 Stat. 4516, 4517.)
 
 #### Historical and Revision Notes
 
@@ -18,11 +18,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and inserted “for district judges” after “may approve” in first sentence.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and inserted “for district judges” after “may approve” in first sentence.
 
-1988—Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
+<b>1988</b>—Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
 
-1982—Pub. L. 97–164 substituted “Law clerks and secretaries” for “Stenographers and clerical employees” as section catchline and, in text, substituted “The judges of the United States Claims Court may appoint necessary law clerks and secretaries, in such numbers as the Judicial Conference of the United States may approve, subject to any limitation of the aggregate salaries of such employees which may be imposed by law” for “The Court of Claims shall appoint stenographers and other clerical employees in such numbers as may be necessary each of whom shall be subject to removal by the court”.
+<b>1982</b>—Pub. L. 97–164 substituted “Law clerks and secretaries” for “Stenographers and clerical employees” as section catchline and, in text, substituted “The judges of the United States Claims Court may appoint necessary law clerks and secretaries, in such numbers as the Judicial Conference of the United States may approve, subject to any limitation of the aggregate salaries of such employees which may be imposed by law” for “The Court of Claims shall appoint stenographers and other clerical employees in such numbers as may be necessary each of whom shall be subject to removal by the court”.
 
 #### Effective Date of 1992 Amendment
 

@@ -10,9 +10,9 @@ For purposes of this chapter—
 
 &emsp;(4) the term “record” includes any written material (including any document, memorandum, correspondence, statistical data, book, or other papers), map, photograph, machine readable material, or other documentary material, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the Government or because of the informational value in them, and such term does not include library or museum material made or acquired and preserved solely for reference or exhibition purposes, any extra copy of a document preserved only for convenience of reference, or any stocks of publications or of processed documents.
 
-(Aug. 1, 1956, ch. 841, title IV, §407, as added Oct. 28, 1991, Pub. L. 102–138, title I, §198(a), 105 Stat. 690.)
+(Aug. 1, 1956, ch. 841, title IV, §407, as added Pub. L. 102–138, title I, §198(a), Oct. 28, 1991, 105 Stat. 690.)
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in anyofficial or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 

@@ -18,7 +18,7 @@ If after such review the contracting officer determines that a challenge to the 
 
 #### (c) Written request; additional time; schedule of responses
 
-If a contractor or subcontractor asserting a restriction subject to this section submits to the contracting officer a written request, showing the need for additional time to comply with the requirement to justify the current validity of the asserted restriction, additional time to adequately permit the submission of such justification shall be provided by the contracting officer as appropriate. If a party asserting a restrictionreceives notices of challenges to restrictions on technical data from more than one contracting officer, and notifies each contracting officer of the existence of more than one challenge, the contracting officer initiating the first in time challenge, after consultation with the party asserting the restriction and the other contracting officers, shall formulate a schedule of responses to each of the challenges that will afford the party asserting the restriction with an equitable opportunity to respond to each such challenge.
+If a contractor or subcontractor asserting a restriction subject to this section submits to the contracting officer a written request, showing the need for additional time to comply with the requirement to justify the current validity of the asserted restriction, additional time to adequately permit the submission of such justification shall be provided by the contracting officer as appropriate. If a party asserting a restriction receives notices of challenges to restrictions on technical data from more than one contracting officer, and notifies each contracting officer of the existence of more than one challenge, the contracting officer initiating the first in time challenge, after consultation with the party asserting the restriction and the other contracting officers, shall formulate a schedule of responses to each of the challenges that will afford the party asserting the restriction with an equitable opportunity to respond to each such challenge.
 
 #### (d) Decision; validity of asserted restriction; failure to submit response
 
@@ -44,7 +44,7 @@ If a claim pertaining to the validity of the asserted restriction is submitted i
 
 &emsp;(B) the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.
 
-(June 30, 1949, ch. 288, title III, §303D, formerly §303E, as added Oct. 30, 1984, Pub. L. 98–577, title II, §203(a), 98 Stat. 3071; renumbered §303D, Nov. 8, 1985, Pub. L. 95–145, title XIII, §1304(c)(4)(A), 99 Stat. 742.)
+(June 30, 1949, ch. 288, title III, §303D, formerly §303E, as added Pub. L. 98–577, title II, §203(a), Oct. 30, 1984, 98 Stat. 3071; renumbered §303D, Pub. L. 95–145, title XIII, §1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742.)
 
 #### References in Text
 

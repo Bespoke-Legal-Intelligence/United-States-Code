@@ -56,7 +56,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) scrambled or encrypted;
 
-&emsp;&emsp;(B) transmitted using modulation techniques whose essential parameters have beenwithheld from the public with the intention of preserving the privacy of such communication;
+&emsp;&emsp;(B) transmitted using modulation techniques whose essential parameters have been withheld from the public with the intention of preserving the privacy of such communication;
 
 &emsp;&emsp;(C) carried on a subcarrier or other signal subsidiary to a radio transmission;
 
@@ -124,6 +124,10 @@ Special Rule for State Authorizations of Interceptions.—Any interception pursu
 
 Effective Date for Certain Approvals by Justice Department Officials.—Section 104 of this Act \[amending section 2516 of this title\] shall take effect on the date of enactment of this Act \[Oct. 21, 1986\].”
 
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–112, §1, Nov. 21, 1997, 111 Stat. 2273, provided that: “This Act \[amending section 2512 of this title\] may be cited as the ‘Law Enforcement Technology Advertisement Clarification Act of 1997’.”
+
 #### Short Title of 1986 Amendment
 
 Section 1 of Pub. L. 99–508 provided that: “This Act \[enacting sections 1367, 2521, 2701 to 2710, 3117, and 3121 to 3126 of this title, amending sections 2232, 2511 to 2513, and 2516 to 2520 of this title, and enacting provisions set out as notes under this section and sections 2701 and 3121 of this title\] may be cited as the ‘Electronic Communications Privacy Act of 1986’.”
@@ -140,7 +144,7 @@ In General.—Nothing in this Act or the amendments made by this Act \[see Short
 
 Certain Activities Under Procedures Approved by the Attorney General.—Nothing in chapter 119 or chapter 121 of title 18, United States Code, shall affect the conduct, by officers or employees of the United States Government in accordance with other applicable Federal law, under procedures approved by the Attorney General of activities intended to—
 
-&emsp;“(1) intercept encrypted or other official communications of United States executive branch entitiesor United States Government contractors for communications security purposes;
+&emsp;“(1) intercept encrypted or other official communications of United States executive branch entities or United States Government contractors for communications security purposes;
 
 &emsp;“(2) intercept radio communications transmitted between or among foreign powers or agents of a foreign power as defined by the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\]; or
 
@@ -150,7 +154,7 @@ Certain Activities Under Procedures Approved by the Attorney General.—Nothing 
 
 Section 801 of Pub. L. 90–351 provided that: “On the basis of its own investigations and of published studies, the Congress makes the following findings:
 
-“(a) Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There has been extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
+“(a) Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There hasbeen extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
 
 “(b) In order to protect effectively the privacy of wire and oral communications, to protect the integrity of court and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
 

@@ -2,7 +2,7 @@
 
 Expenditures for the Flaming Gorge, Glen Canyon, Wayne N. Aspinall, and Navajo initial units of the Colorado River storage project may be made without regard to the soil survey and land classification requirements of section 390a of this title.
 
-(Apr. 11, 1956, ch. 203, §10, 70 Stat. 110; Oct. 3, 1980, Pub. L. 96–375, §7, 94 Stat. 1507.)
+(Apr. 11, 1956, ch. 203, §10, 70 Stat. 110; Pub. L. 96–375, §7, Oct. 3, 1980, 94 Stat. 1507.)
 
 #### References in Text
 

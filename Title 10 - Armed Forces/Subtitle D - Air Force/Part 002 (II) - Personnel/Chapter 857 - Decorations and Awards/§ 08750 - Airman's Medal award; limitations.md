@@ -1,10 +1,12 @@
 ### §8750. Airman's Medal: award; limitations
 
-(a) The President may award a decoration called the “Airman's Medal”, of appropriate design with accompanying ribbon, to any person who, while serving in any capacity with the Air Force, distinguishes himself by heroism not involving actual conflict with an enemy.
+(a)(1) The President may award a decoration called the “Airman's Medal”, of appropriate design with accompanying ribbon, to any person who, while serving in any capacity with the Air Force, distinguishes himself by heroism not involving actual conflict with an enemy.
+
+(2) The authority in paragraph (1) includes authority to award the medal to a member of the Ready Reserve who was not in a duty status defined in section 101(d) of this title when the member distinguished himself by heroism.
 
 (b) Not more than one Airman's Medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal, the President may award a suitable bar or other device to be worn as he directs.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 542; July 6, 1960, Pub. L. 86–593, §1(6), 74 Stat. 332.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 542; July 6, 1960, Pub. L. 86–593, §1(6), 74 Stat. 332; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §574(c), 111 Stat. 1758.)
 
 Historical and Revision Notes
 
@@ -29,6 +31,8 @@ The words “Under such rules and regulations as he may prescribe” are omitted
 In subsection (b), the words “that would otherwise justify” are substituted for the words “sufficient to”.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
 
 1960—Pub. L. 86–593 substituted “Airman's Medal” for “Soldier's Medal” in section catchline and wherever appearing in text.
 

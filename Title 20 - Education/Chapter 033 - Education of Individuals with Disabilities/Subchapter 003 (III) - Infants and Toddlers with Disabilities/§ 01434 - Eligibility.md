@@ -1,0 +1,18 @@
+### §1434. Eligibility
+
+In order to be eligible for a grant under section 1433 of this title, a State shall demonstrate to the Secretary that the State—
+
+&emsp;(1) has adopted a policy that appropriate early intervention services are available to all infants and toddlers with disabilities in the State and their families, including Indian infants and toddlers with disabilities and their families residing on a reservation geographically located in the State; and
+
+&emsp;(2) has in effect a statewide system that meets the requirements of section 1435 of this title.
+
+(Pub. L. 91–230, title VI, §634, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 108.)
+
+#### Prior Provisions
+
+A prior section 1434, Pub. L. 91–230, title VI, §634, Apr. 13, 1970, 84 Stat. 185; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 101–476, title IV, §404, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–119, §9(c)(1), Oct. 7, 1991, 105 Stat. 595, related to reports to Secretary by recipients of grants and contracts, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1437 of this title.
+

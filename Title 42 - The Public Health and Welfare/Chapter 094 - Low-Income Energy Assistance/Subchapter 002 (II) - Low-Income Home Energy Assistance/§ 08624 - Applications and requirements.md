@@ -144,7 +144,7 @@ The State shall repay to the United States amounts found not to have been expend
 
 #### (h) Periodic evaluation of expenditures by Comptroller General
 
-The Comptroller General of the United States shall, from time to time <sup>3</sup> evaluate the expenditures by States of grants under this subchapterin order to assure that expenditures are consistent with the provisions of this subchapter and to determine the effectiveness of the State in accomplishing the purposes of this subchapter.
+The Comptroller General of the United States shall, from time to time <sup>3</sup> evaluate the expenditures by States of grants under this subchapter in order to assure that expenditures are consistent with the provisions of this subchapter and to determine the effectiveness of the State in accomplishing the purposes of this subchapter.
 
 #### (i) Certain recipients of supplemental security income ineligible for payments or assistance
 
@@ -202,7 +202,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 The Social Security Act, referred to in subsecs. (b)(2)(A)(i), (ii), (4), (i)(1), and (j), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Titles XVI, XIX, and XX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703,as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978, referred to in subsec. (b)(2)(A)(iv), is section 306 of Pub. L. 95–588, title III, Nov. 4, 1978, 92 Stat. 2508, which is set out as a note under section 521 of Title 38, Veterans’ Benefits.
 
@@ -230,7 +230,7 @@ Pub. L. 103–252, §311(b), inserted at end “Not later than 18 months after M
 
 Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “use the funds available under this subchapter for the purposes described in section 8621(a) of this title and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;”.
 
-Subsec. (b)(2)(B). Pub. L. 103–252, §306(a), in concluding provisions substituted “except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
+Subsec. (b)(2)(B). Pub. L. 103–252, §306(a), in concluding provisions substituted “except that a State maynot exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
 
 Subsec. (b)(3). Pub. L. 103–252, §§306(b), 311(c)(3), substituted “disabled” for “handicapped” and “and households with high home energy burdens, are made aware” for “are made aware”.
 
@@ -306,7 +306,7 @@ Subsec. (c)(2). Pub. L. 98–558, §605(b)(2), inserted “and each substantial 
 
 Subsec. (d). Pub. L. 98–558, §605(c), in amending subsec. (d) generally, substituted provisions that the State shall expend funds in accordance with the State plan or revisions thereto for former provisions which related to waiver of requirements.
 
-Subsec. (e). Pub. L. 98–558, §605(d), in amending subsec. (e) generally, inserted provisions requiring that the audits be made public and that they shall be conducted in accordance with the Comptroller General's standards.
+Subsec. (e). Pub. L. 98–558, §605(d), in amending subsec. (e) generally, inserted provisions requiring that theaudits be made public and that they shall be conducted in accordance with the Comptroller General's standards.
 
 Subsec. (f). Pub. L. 98–558, §605(e), inserted “unless enacted in express limitation of this paragraph”.
 

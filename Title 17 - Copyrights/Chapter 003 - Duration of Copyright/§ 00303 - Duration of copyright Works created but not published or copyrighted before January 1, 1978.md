@@ -1,8 +1,10 @@
 ### §303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978
 
-Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027.
+(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573.)
+(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 105–80, §11, Nov. 13, 1997, 111 Stat. 1534.)
 
 #### Historical and Revision Notes
 
@@ -13,6 +15,10 @@ Theoretically, at least, the legal impact of section 303 would be far reaching. 
 Looked at another way, however, section 303 would have a genuinely restrictive effect. Its basic purpose is to substitute statutory for common law copyright for everything now protected at common law, and to substitute reasonable time limits for the perpetual protection now available. In general, the substituted time limits are those applicable to works created after the effective date of the law \[Jan. 1, 1978\]; for example, an unpublished work written in 1945 whose author dies in 1980 would be protected under the statute from the effective date \[Jan. 1, 1978\] through 2030 (50 years after the author's death).
 
 A special problem under this provision is what to do with works whose ordinary statutory terms will have expired or will be nearing expiration on the effective date \[Jan. 1, 1978\]. The committee believes that a provision taking away subsisting common law rights and substituting statutory rights for a reasonable period is fully in harmony with the constitutional requirements of due process, but it is necessary to fix a “reasonable period” for this purpose. Section 303 provides that under no circumstances would copyright protection expire before December 31, 2002, and also attempts to encourage publication by providing 25 years more protection (through 2027) if the work were published before the end of 2002.
+
+#### Amendments
+
+1997—Pub. L. 105–80 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Cross References
 

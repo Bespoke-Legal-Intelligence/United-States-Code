@@ -26,7 +26,7 @@ Section 3332 of title 31, referred to in subsec. (d)(1), was amended generally b
 
 1991—Pub. L. 102–25 struck out “mandatory” after “error in” in section catchline.
 
-1989—Pub. L. 101–189, §664(a)(3)(A), amended section catchline generally, substituting “Reimbursement forfinancial institution charges incurred because of Government” for “Relief for expenses because of”.
+1989—Pub. L. 101–189, §664(a)(3)(A), amended section catchline generally, substituting “Reimbursement for financial institution charges incurred because of Government” for “Relief for expenses because of”.
 
 Subsec. (a). Pub. L. 101–189, §664(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member of the armed forces who, by law or regulation, is required to participate in a program for the automatic deposit of pay to a financial institution may be reimbursed for overdraft charges levied by the financial institution when such charges result from an administrative or mechanical error on the part of the Government that causes such member's pay to be deposited late or in an incorrect amount or manner.”
 

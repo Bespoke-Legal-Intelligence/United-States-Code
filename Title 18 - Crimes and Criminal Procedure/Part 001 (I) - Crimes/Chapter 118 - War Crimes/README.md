@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| 2401\. | War crimes. |
+| [2441\.](%C2%A7%2002441%20-%20War%20crimes.md) | War crimes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

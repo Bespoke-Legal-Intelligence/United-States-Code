@@ -8,27 +8,23 @@ In this part—
 
 &emsp;&emsp;(B) when space is available, of used unoccupied vehicles.
 
-&emsp;(2) “avoidable loss” means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5.
+&emsp;(2) “basic system” means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) <sup>1</sup> of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria.
 
-&emsp;(3) “basic system” means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria.
+&emsp;(3) “commuter authority” means a State, local, or regional entity established to provide, or make a contract providing for, commuter rail passenger transportation.
 
-&emsp;(4) “commuter authority” means a State, local, or regional entity established to provide, or make a contract providing for, commuter rail passenger transportation.
+&emsp;(4) “commuter rail passenger transportation” means short-haul rail passenger transportation in metropolitan and suburban areas usually having reduced fare, multiple-ride, and commuter tickets and morning and evening peak period operations.
 
-&emsp;(5) “commuter rail passenger transportation” means short-haul rail passenger transportation in metropolitan and suburban areas usually having reduced fare, multiple-ride, and commuter tickets and morning and evening peak period operations.
+&emsp;(5) “intercity rail passenger transportation” means rail passenger transportation, except commuter rail passenger transportation.
 
-&emsp;(6) “intercity rail passenger transportation” means rail passenger transportation, except commuter rail passenger transportation.
+&emsp;(6) “Northeast Corridor” means Connecticut, Delaware, the District of Columbia, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
 
-&emsp;(7) “Northeast Corridor” means Connecticut, Delaware, the District of Columbia, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
+&emsp;(7) “rail carrier” means a person, including a unit of State or local government, providing rail transportation for compensation.
 
-&emsp;(8) “rail carrier” means a person providing rail transportation for compensation.
+&emsp;(8) “rate” means a rate, fare, or charge for rail transportation.
 
-&emsp;(9) “rate” means a rate, fare, or charge for rail transportation.
+&emsp;(9) “regional transportation authority” means an entity established to provide passenger transportation in a region.
 
-&emsp;(10) “regional transportation authority” means an entity established to provide passenger transportation in a region.
-
-&emsp;(11) “route and service criteria” means the criteria and procedures for making route and service decisions established under section 404(c)(1)–(3)(A) of the Rail Passenger Service Act.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 900.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 900; Pub. L. 105–134, title IV, §407, Dec. 2, 1997, 111 Stat. 2586.)
 
 Historical and Revision Notes
 
@@ -130,15 +126,23 @@ Clause (9) is added to eliminate repetition of the words “fares or charges” 
 
 #### References in Text
 
-Section 4 of the Amtrak Improvement Act of 1978, referred to in par. (3), is section 4 of Pub. L. 95–421, which was set out as a note under section 521 of Title 45, Railroads, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Section 4 of the Amtrak Improvement Act of 1978, referred to in par. (2), is section 4 of Pub. L. 95–421, which was set out as a note under section 521 of Title 45, Railroads, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
-Section 404(c)(1)–(3)(A) of the Rail Passenger Service Act, referred to in par. (11), is section 404(c)(1)–(3)(A) of Pub. L. 91–518, which was classified to section 564(c)(1)–(3)(A) of Title 45, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Section 24705 of this title, referred to in par. (2), was repealed by Pub. L. 105–134, title I, §104, Dec. 2, 1997, 111 Stat. 2573.
 
-#### Abolition of Interstate Commerce Commission and Transfer of Functions
+#### Amendments
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
+1997—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: “ ‘avoidable loss’ means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5.”
+
+Par. (7). Pub. L. 105–134, §407(2), (3), redesignated par. (8) as (7) and inserted “, including a unit of State or local government,” after “means a person”. Former par. (7) redesignated (6).
+
+Pars. (8) to (10). Pub. L. 105–134, §407(2), redesignated pars. (8) to (10) as (7) to (9), respectively.
+
+Par. (11). Pub. L. 105–134, §407(1), struck out par. (11) which read as follows: “ ‘route and service criteria’ means the criteria and procedures for making route and service decisions established under section 404(c)(1)–(3)(A) of the Rail Passenger Service Act.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 42 section 12131; title 45 section 837.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ No person who has been elected Governor for two full successive terms shall agai
 
 The term of the elected Governor and Lieutenant Governor shall commence on the first Monday of January following the date of election.
 
-No person shall be eligible for election to the office of Governor or Lieutenant Governor unless he is an eligible voter and has been for five consecutive years immediately preceding the election a citizen of the United States and a bona fide resident of Guam and will be, at the time of taking office, at least thirty years of age. The Governor shall maintain his official residence in Guam during his incumbency.
+No person shall be eligible for election to the office of Governor or Lieutenant Governor unless he is an eligible voter and has been for five consecutive years immediately preceding the election a citizen of the United States and a bona fide resident of Guam and will be, at the time of taking office, at least thirty years ofage. The Governor shall maintain his official residence in Guam during his incumbency.
 
 The Governor shall have general supervision and control of all the departments, bureaus, agencies, and other instrumentalities of the executive branch of the government of Guam. He may grant pardons and reprieves and remit fines and forfeitures for offenses against local laws. He may veto any legislation as provided in this chapter. He shall appoint, and may remove, all officers and employees of the executive branch of the government of Guam, except as otherwise provided in this or any other Act of Congress, or under the laws of Guam, and shall commission all officers that he may be authorized to appoint. He shall be responsible for the faithful execution of the laws of Guam and the laws of the United States applicable in Guam. Whenever it becomes necessary, in case of disaster, invasion, insurrection, or rebellion, or imminent danger thereof, or to prevent or suppress lawless violence, he may summon the posse comitatus or call out the militia or request assistance of the senior military or naval commander of the Armed Forces of the United States in Guam, which may be given at the discretion of such commander if not disruptive of, or inconsistent with, his Federal responsibilities. He may, in case of rebellion or invasion, or imminent danger thereof, when the public safety requires it, proclaim the island, insofar as it is under the jurisdiction of the government of Guam, to be under martial law. The members of the legislature shall meet forthwith on their own initiative and may, by a two-thirds vote, revoke such proclamation.
 
@@ -14,7 +14,7 @@ The Governor shall prepare, publish, and submit to the Congress and the Secretar
 
 There is hereby established the office of Lieutenant Governor of Guam. The Lieutenant Governor shall have such executive powers and perform such duties as may be assigned to him by the Governor or prescribed by this chapter or under the laws of Guam.
 
-(Aug. 1, 1950, ch. 512, §6, 64 Stat. 386; Sept. 11, 1968, Pub. L. 90–497, §1, 82 Stat. 842; Oct. 19, 1982, Pub. L. 97–357, title I, §104(a), 96 Stat. 1705.)
+(Aug. 1, 1950, ch. 512, §6, 64 Stat. 386; Pub. L. 90–497, §1, Sept. 11, 1968, 82 Stat. 842; Pub. L. 97–357, title I, §104(a), Oct. 19, 1982, 96 Stat. 1705.)
 
 #### Amendments
 

@@ -34,9 +34,39 @@
 
 &emsp;(2) the Department of Defense solicitation for such contract is open to competition between Department of Defense activities and private firms.
 
-(k) The Secretary of Defense shall provide that of the total amount of payments received in a fiscal year by funds established under this section for industrial-type activities, not less than 3 percent during fiscal year 1985, not less than 4 percent during fiscal year 1986, and not less than 5 percent during fiscal year 1987 shall be used for the acquisition of capital equipment for such activities.
+(k)(1) Subject to paragraph (2), a contract for the procurement of a capital asset financed by a working-capital fund may be awarded in advance of the availability of funds in the working-capital fund for the procurement.
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582.)
+(2) Paragraph (1) applies to any of the following capital assets that have a development or acquisition cost of not less than $100,000:
+
+&emsp;(A) An unspecified minor military construction project under section 2805(c)(1) of this title.
+
+&emsp;(B) Automatic data processing equipment or software.
+
+&emsp;(C) Any other equipment.
+
+&emsp;(D) Any other capital improvement.
+
+(<i>l</i>)(1) An advance billing of a customer of a working-capital fund may be made if the Secretary of the military department concerned submits to Congress written notification of the advance billing within 30 days after the end of the month in which the advanced billing was made. The notification shall include the following:
+
+&emsp;(A) The reasons for the advance billing.
+
+&emsp;(B) An analysis of the effects of the advance billing on military readiness.
+
+&emsp;(C) An analysis of the effects of the advance billing on the customer.
+
+(2) The Secretary of Defense may waive the notification requirements of paragraph (1)—
+
+&emsp;(A) during a period <sup>1</sup> war or national emergency; or
+
+&emsp;(B) to the extent that the Secretary determines necessary to support a contingency operation.
+
+(3) In this subsection:
+
+&emsp;(A) The term “advance billing”, with respect to a working-capital fund, means a billing of a customer by the fund, or a requirement for a customer to reimburse or otherwise credit the fund, for the cost of goods or services provided (or for other expenses incurred) on behalf of the customer that is rendered or imposed before the customer receives the goods or before the services have been performed.
+
+&emsp;(B) The term “customer” means a requisitioning component or agency.
+
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873.)
 
 Historical and Revision Notes<br>1956
 
@@ -116,6 +146,10 @@ The word “hereafter” is omitted as executed.
 
 #### Amendments
 
+1997—Subsec. (k). Pub. L. 105–85, §1011(a), added subsec. (k) and struck out former subsec. (k) which read as follows: “The Secretary of Defense shall provide that of the total amount of payments received in a fiscal year by funds established under this section for industrial-type activities, not less than 3 percent during fiscal year 1985, not less than 4 percent during fiscal year 1986, and not less than 5 percent during fiscal year 1987 shall be used for the acquisition of capital equipment for such activities.”
+
+Subsec. (<i>l</i>). Pub. L. 105–85, §1011(b), added subsec. (<i>l</i>).
+
 1993—Subsec. (i). Pub. L. 103–160 amended subsec. (i) generally. Prior to amendment, subsec. (i) required that regulations under subsec. (h) authorize working-capital funded Army industrial facilities to sell manufactured articles and services to persons outside the Department of Defense in specified cases.
 
 1992—Subsec. (j). Pub. L. 102–484 substituted “The Secretary of a military department may authorize a working capital funded industrial facility of that department” for “The Secretary of the Army may authorize a working capital funded Army industrial facility”.
@@ -162,7 +196,7 @@ Section 333(a), (b) of Pub. L. 103–160, which provided that charges for goods 
 
 #### Capital Asset Subaccount
 
-Section 342 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title III, §333(c), Nov. 30, 1993, 107 Stat.1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
+Section 342 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title III, §333(c), Nov. 30, 1993, 107 Stat. 1622, which provided that charges for goods and services provided through the Defense Business Operations Fund include amounts for depreciation of capital assets which were to be credited to a separate capital asset subaccount in the Fund, authorized Secretary of Defense to award contracts for capital assets of the Fund in advance of availability of funds in the subaccount, required Secretary to submit annual reports to congressional defense committees, authorized appropriations to the Fund for fiscal years 1993 and 1994, and defined terms, was repealed and restated in section 2216a(d)(1)(B), (e), (h)(4), and (i) of this title by Pub. L. 104–106, div. A, title III, §371(a)(1), (b)(3), Feb. 10, 1996, 110 Stat. 277–279.
 
 #### Limitations on Use of Defense Business Operations Fund
 
@@ -170,7 +204,7 @@ Pub. L. 102–190, div. A, title III, §316, Dec. 5, 1991, 105 Stat. 1338, as am
 
 #### Defense Business Operations Fund
 
-Section 8121 of Pub. L. 102–172, which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a working capital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by Pub. L. 104–106, div. A, title III, §371(b)(5), Feb. 10, 1996, 110 Stat. 280. See section 2216a of this title.
+Section 8121 of Pub. L. 102–172, which established on the books of the Treasury a fund entitled the “Defense Business Operations Fund” to be operated as a workingcapital fund under the provisions of this section and to include certain existing organizations including the Defense Finance and Accounting Service, the Defense Commissary Agency, the Defense Technical Information Center, the Defense Reutilization and Marketing Service, and the Defense Industrial Plant Equipment Service, directed transfer of assets and balances of those organizations to the Fund, provided for budgeting and accounting of charges for supplies and services provided by the Fund, and directed that capital asset charges collected be credited to a subaccount of the Fund, was repealed by Pub. L. 104–106, div. A, title III, §371(b)(5), Feb. 10, 1996, 110 Stat. 280. See section 2216a of this title.
 
 #### Sale of Inventories for Performance of Contracts With Defense Department
 
@@ -183,4 +217,6 @@ Sale of articles acquired with working capital funds, see sections 4621 and 9621
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 129, 2210, 2216a, 2350c, 4543, 4621, 7227, 7606, 9621 of this title; title 40 section 484.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

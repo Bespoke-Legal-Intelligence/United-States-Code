@@ -24,7 +24,7 @@
 
 #### (B) Information considered
 
-&emsp;&emsp;The judge may consider classified information submitted in camera and ex parte in making a determination whether to release an alien pending the removal hearing.
+&emsp;&emsp;The judge may consider classified information submitted in camera and ex parte inmaking a determination whether to release an alien pending the removal hearing.
 
 #### (3) Release if order denied and no review sought
 

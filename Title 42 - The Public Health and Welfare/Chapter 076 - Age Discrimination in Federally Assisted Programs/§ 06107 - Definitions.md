@@ -50,3 +50,5 @@ Amendment by Pub. L. 100–259 not to be construed to extend application of Age 
 
 Amendment by Pub. L. 100–259 not to be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal funds to perform or pay for an abortion, see section 8 of Pub. L. 100–259, set out as a note under section 1688 of Title 20, Education.
 
+&nbsp;
+

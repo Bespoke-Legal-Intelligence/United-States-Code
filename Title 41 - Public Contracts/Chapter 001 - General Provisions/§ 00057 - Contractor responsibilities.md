@@ -24,7 +24,7 @@ Subsections (a) and (b) of this section do not apply to a prime contract that is
 
 Notwithstanding subsection (d) of this section, a prime contractor shall cooperate fully with any Federal Government agency investigating a violation of section 53 of this title.
 
-(Mar. 8, 1946, ch. 80, §7, as added Nov. 7, 1986, Pub. L. 99–634, §2(a), 100 Stat. 3525; amended Oct. 13, 1994, Pub. L. 103–355, title IV, §4104(a), title VIII, §8301(c)(1), 108 Stat. 3341, 3397; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(g), 110 Stat. 675.)
+(Mar. 8, 1946, ch. 80, §7, as added Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3525; amended Pub. L. 103–355, title IV, §4104(a), title VIII, §8301(c)(1), Oct. 13, 1994, 108 Stat. 3341, 3397; Pub. L. 104–106, div. D, title XLIII, §4321(g), Feb. 10, 1996, 110 Stat. 675.)
 
 #### Amendments
 

@@ -1,0 +1,14 @@
+### §7510. Exemption from tax of domestic goods purchased for the United States
+
+The privilege existing by provision of law on December 1, 1873, or thereafter of purchasing supplies of goods imported from foreign countries for the use of the United States, duty free, shall be extended, under such regulations as the Secretary may prescribe, to all articles of domestic production which are subject to tax by the provisions of this title.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 900; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834.)
+
+#### Amendments
+
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5001, 5002, 5003, 5004, 5005, 5173, 5214 of this title.
+

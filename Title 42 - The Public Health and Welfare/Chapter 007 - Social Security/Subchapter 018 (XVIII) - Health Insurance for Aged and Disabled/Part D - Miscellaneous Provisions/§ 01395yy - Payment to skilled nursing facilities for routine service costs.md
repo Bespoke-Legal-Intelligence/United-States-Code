@@ -1,0 +1,394 @@
+### §1395yy. Payment to skilled nursing facilities for routine service costs
+
+#### (a) Per diem limitations
+
+The Secretary, in determining the amount of the payments which may be made under this subchapter with respect to routine service costs of extended care services shall not recognize as reasonable (in the efficient delivery of health services) per diem costs of such services to the extent that such per diem costs exceed the following per diem limits, except as otherwise provided in this section:
+
+&emsp;(1) With respect to freestanding skilled nursing facilities located in urban areas, the limit shall be equal to 112 percent of the mean per diem routine service costs for freestanding skilled nursing facilities located in urban areas.
+
+&emsp;(2) With respect to freestanding skilled nursing facilities located in rural areas, the limit shall be equal to 112 percent of the mean per diem routine service costs for freestanding skilled nursing facilities located in rural areas.
+
+&emsp;(3) With respect to hospital-based skilled nursing facilities located in urban areas, thelimit shall be equal to the sum of the limit for freestanding skilled nursing facilities located in urban areas, plus 50 percent of the amount by which 112 percent of the mean per diem routine service costs for hospital-based skilled nursing facilities located in urban areas exceeds the limit for freestanding skilled nursing facilities located in urban areas.
+
+&emsp;(4) With respect to hospital-based skilled nursing facilities located in rural areas, the limit shall be equal to the sum of the limit for freestanding skilled nursing facilities located in rural areas, plus 50 percent of the amount by which 112 percent of the mean per diem routine service costs for hospital-based skilled nursing facilities located in rural areas exceeds the limit for freestanding skilled nursing facilities located in rural areas.
+
+> In applying this subsection the Secretary shall make appropriate adjustments to the labor related portion of the costs based upon an appropriate wage index, and shall, for cost reporting periods beginning on or after October 1, 1992, on or after October 1, 1995, and every 2 years thereafter, provide for an update to the per diem cost limits described in this subsection, except that the limits effective for cost reporting periods beginning on or after October 1, 1997, shall be based on the limits effective for cost reporting periods beginning on or after October 1, 1996.
+
+#### (b) Excess overhead allocations for hospital-based facilities
+
+With respect to a hospital-based skilled nursing facility, the Secretary may not recognize as reasonable the portion of the cost differences between hospital-based and freestanding skilled nursing facilities attributable to excess overhead allocations.
+
+#### (c) Adjustments in limitations; publication of data
+
+The Secretary may make adjustments in the limits set forth in subsection (a) of this section with respect to any skilled nursing facility to the extent the Secretary deems appropriate, based upon case mix or circumstances beyond the control of the facility. The Secretary shall publish the data and criteria to be used for purposes of this subsection on an annual basis.
+
+#### (d) Access to skilled nursing facilities
+
+(1) Subject to subsection (e) of this section, any skilled nursing facility may choose to be paid under this subsection on the basis of a prospective payment for all routine service costs (including the costs of services required to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident eligible for benefits under this subchapter) and capital-related costs of extended care services provided in a cost reporting period if such facility had, in the preceding cost reporting period, fewer than 1,500 patient days with respect to which payments were made under this subchapter. Such prospective payment shall be in lieu of payments which would otherwise be made for routine service costs pursuant to section 1395x(v) of this title and subsections (a) through (c) of this section and capital-related costs pursuant to section 1395x(v) of this title. This subsection shall not apply to a facility for any cost reporting period immediately following a cost reporting period in which such facility had 1,500 or more patient days with respect to which payments were made under this subchapter, without regard to whether payments were made under this subsection during such preceding cost reporting period.
+
+(2)(A) The amount of the payment under this section shall be determined on a per diem basis.
+
+(B) Subject to the limitations of subparagraph (C), for skilled nursing facilities located—
+
+&emsp;(i) in an urban area, the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in urban areas within the same region, determined without regard to the limitations of subsection (a) of this section and adjusted for different area wage levels, and
+
+&emsp;(ii) in a rural area the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in rural areas within the same region, determined without regard to the limitations of subsection (a) of this section and adjusted for different area wage levels.
+
+(C) The per diem amounts determined under subparagraph (B) shall not exceed the limit on routine service costs determined under subsection (a) of this section with respect to the facility, adjusted to take into account average capital-related costs with respect to the type and location of the facility.
+
+(3) For purposes of this subsection, urban and rural areas shall be determined in the same manner as for purposes of subsection (a) of this section, and the term “region” shall have the same meaning as under section 1395ww(d)(2)(D) of this title.
+
+(4) The Secretary shall establish the prospective payment amounts for cost reporting periods beginning in a fiscal year at least 90 days prior to the beginning of such fiscal year, on the basis of the most recent data available for a 12-month period. A skilled nursing facility must notify the Secretary of its intention to be paid pursuant to this subsection for a cost reporting period no later than 30 days before the beginning of that period.
+
+(5) The Secretary shall provide for a simplified cost report to be filed by facilities being paid pursuant to this subsection, which shall require only the cost information necessary for determining prospective payment amounts pursuant to paragraph (2) and reasonable costs of ancillary services.
+
+(6) In lieu of payment on a cost basis for ancillary services provided by a facility which is being paid pursuant to this subsection, the Secretary may pay for such ancillary services on a reasonable charge basis if the Secretary determines that such payment basis will provide an equitable level of reimbursement and will ease the reporting burden of the facility.
+
+(7) In computing the rates of payment to be made under this subsection, there shall be taken into account the costs described in the last sentence of section 1395x(v)(1)(E) of this title (relating to compliance with nursing facility requirements and of conducting nurse aide training and competency evaluation programs and competency evaluation programs).
+
+#### (e) Prospective payment
+
+#### (1) Payment provision
+
+&emsp;Notwithstanding any other provision of this subchapter, subject to paragraph (7), the amount of the payment for all costs (as defined in paragraph (2)(B)) of covered skilled nursing facility services (as defined in paragraph (2)(A)) for each day of such services furnished—
+
+&emsp;&emsp;(A) in a cost reporting period during the transition period (as defined in paragraph (2)(E)), is equal to the sum of—
+
+&emsp;&emsp;&emsp;(i) the non-Federal percentage of the facility-specific per diem rate (computed under paragraph (3)), and
+
+&emsp;&emsp;&emsp;(ii) the Federal percentage of the adjusted Federal per diem rate (determined under paragraph (4)) applicable to the facility; and
+
+&emsp;&emsp;(B) after the transition period is equal to the adjusted Federal per diem rate applicable to the facility.
+
+#### (2) Definitions
+
+&emsp;For purposes of this subsection:
+
+#### (A) Covered skilled nursing facility services
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “covered skilled nursing facility services”—
+
+&emsp;&emsp;&emsp;&emsp;(I) means post-hospital extended care services as defined in section 1395x(i) of this title for which benefits are provided under part A of this subchapter; and
+
+&emsp;&emsp;&emsp;&emsp;(II) includes all items and services (other than services described in clause (ii)) for which payment may be made under part B of this subchapter and which are furnished to an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
+
+#### (ii) Services excluded
+
+&emsp;&emsp;&emsp;Services described in this clause are physicians’ services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
+
+#### (B) All costs
+
+&emsp;&emsp;The term “all costs” means routine service costs, ancillary costs, and capital-related costs of covered skilled nursing facility services, but does not include costs associated with approved educational activities.
+
+#### (C) Non-Federal percentage; Federal percentage
+
+&emsp;&emsp;For—
+
+&emsp;&emsp;&emsp;(i) the first cost reporting period (as defined in subparagraph (D)) of a facility, the “non-Federal percentage” is 75 percent and the “Federal percentage” is 25 percent;
+
+&emsp;&emsp;&emsp;(ii) the next cost reporting period of such facility, the “non-Federal percentage” is 50 percent and the “Federal percentage” is 50 percent; and
+
+&emsp;&emsp;&emsp;(iii) the subsequent cost reporting period of such facility, the “non-Federal percentage” is 25 percent and the “Federal percentage” is 75 percent.
+
+#### (D) First cost reporting period
+
+&emsp;&emsp;The term “first cost reporting period” means, with respect to a skilled nursing facility, the first cost reporting period of the facility beginning on or after July 1, 1998.
+
+#### (E) Transition period
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “transition period” means, with respect to a skilled nursing facility, the 3 cost reporting periods of the facility beginning with the first cost reporting period.
+
+#### (ii) Treatment of new skilled nursing facilities
+
+&emsp;&emsp;&emsp;In the case of a skilled nursing facility that first received payment for services under this subchapter on or after October 1, 1995, payment for such services shall be made under this subsection as if all services were furnished after the transition period.
+
+#### (3) Determination of facility specific per diem rates
+
+&emsp;The Secretary shall determine a facility-specific per diem rate for each skilled nursing facility not described in paragraph (2)(E)(ii) for a cost reporting period as follows:
+
+#### (A) Determining base payments
+
+&emsp;&emsp;The Secretary shall determine, on a per diem basis, the total of—
+
+&emsp;&emsp;&emsp;(i) the allowable costs of extended care services for the facility for cost reporting periods beginning in fiscal year 1995, including costs associated with facilities described in subsection (d) of this section, with appropriate adjustments (as determined by the Secretary) to non-settled cost reports, and
+
+&emsp;&emsp;&emsp;(ii) an estimate of the amounts that would be payable under part B of this subchapter (disregarding any applicable deductibles, coinsurance, and copayments) for covered skilled nursing facility services described in paragraph (2)(A)(i)(II) furnished during such period to an individual who is a resident of the facility, regardless of whether or not the payment was made to the facility or to another entity.
+
+> &emsp;&emsp;In making appropriate adjustments under clause (i), the Secretary shall take into account exceptions and shall take into account exemptions but, with respect to exemptions, only to the extent that routine costs do not exceed 150 percent of the routine cost limits otherwise applicable but for the exemption.
+
+#### (B) Update to first cost reporting period
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary shall update the amount determined under subparagraph (A), for each cost reporting period after the cost reporting period described in subparagraph (A)(i) and up to the first cost reporting period by a factor equal to the skilled nursing facility market basket percentage increase minus 1 percentage point.
+
+#### (ii) Certain demonstration projects
+
+&emsp;&emsp;&emsp;In the case of a facility participating in the Nursing Home Case-Mix and Quality Demonstration (RUGS–III), there shall be substituted for the amount described in clause (i) the RUGS–III rate received by the facility for 1997.
+
+#### (C) Updating to applicable cost reporting period
+
+&emsp;&emsp;The Secretary shall update the amount determined under subparagraph (B) for each cost reporting period beginning with the first cost reporting period and up to and including the cost reporting period involved by a factor equal to the facility-specific update factor.
+
+#### (D) Facility-specific update factor
+
+&emsp;&emsp;For purposes of this paragraph, the “facility-specific update factor” for cost reporting periods beginning during—
+
+&emsp;&emsp;&emsp;(i) during each of fiscal years 1998 and 1999, is equal to the skilled nursing facility market basket percentage increase for such fiscal year minus 1 percentage point, and
+
+&emsp;&emsp;&emsp;(ii) during each subsequent fiscal year is equal to the skilled nursing facility market basket percentage increase for such fiscal year.
+
+#### (4) Federal per diem rate
+
+#### (A) Determination of historical per diem for facilities
+
+&emsp;&emsp;For each skilled nursing facility that received payments for post-hospital extended care services during a cost reporting period beginning in fiscal year 1995 and that was subject to (and not exempted from) the per diem limits referred to in paragraph (1) or (2) of subsection (a) of this section (and facilities described in subsection (d) of this section), the Secretary shall estimate, on a per diem basis for such cost reporting period, the total of—
+
+&emsp;&emsp;&emsp;(i) the allowable costs of extended care services (excluding exceptions payments) for the facility for cost reporting periods beginning in 1995 with appropriate adjustments (as determined by the Secretary) to non-settled cost reports, and
+
+&emsp;&emsp;&emsp;(ii) an estimate of the amounts that would be payable under part B of this subchapter (disregarding any applicable deductibles, coinsurance, and copayments) for covered skilled nursing facility services described in paragraph (2)(A)(i)(II) furnished during such period to an individual who is a resident of the facility, regardless of whether or not the payment was made to the facility or to another entity.
+
+#### (B) Update to first fiscal year
+
+&emsp;&emsp;The Secretary shall update the amount determined under subparagraph (A), for each cost reporting period after the cost reporting period described in subparagraph (A)(i) and up to the first cost reporting period by a factor equal to the skilled nursing facility market basket percentage increase reduced (on an annualized basis) by 1 percentage point.
+
+#### (C) Computation of standardized per diem rate
+
+&emsp;&emsp;The Secretary shall standardize the amount updated under subparagraph (B) for each facility by—
+
+&emsp;&emsp;&emsp;(i) adjusting for variations among facilities by area in the average facility wage level per diem, and
+
+&emsp;&emsp;&emsp;(ii) adjusting for variations in case mix per diem among facilities.
+
+#### (D) Computation of weighted average per diem rates
+
+#### (i) All facilities
+
+&emsp;&emsp;&emsp;The Secretary shall compute a weighted average per diem rate for all facilities by computing an average of the standardized amounts computed under subparagraph (C), weighted for each facility by the number of days of extended care services furnished during the cost reporting period referred to in subparagraph (A).
+
+#### (ii) Freestanding facilities
+
+&emsp;&emsp;&emsp;The Secretary shall compute a weighted average per diem rate for freestanding facilities by computing an average of the standardized amounts computed under subparagraph (C) only for such facilities, weighted for each facility by the number of days of extended care services furnished during the cost reporting period referred to in subparagraph (A).
+
+#### (iii) Separate computation
+
+&emsp;&emsp;&emsp;The Secretary may compute and apply such averages separately for facilities located in urban and rural areas (as defined in section 1395ww(d)(2)(D) of this title).
+
+#### (E) Updating
+
+#### (i) Initial period
+
+&emsp;&emsp;&emsp;For the initial period beginning on July 1, 1998, and ending on September 30, 1999, the Secretary shall compute for skilled nursing facilities an unadjusted federal <sup>1</sup> per diem rate equal to the average of the weighted average per diem rates computedunder clauses (i) and (ii) of subparagraph (D), increased by skilled nursing facility market basket percentage change for such period minus 1 percentage point.
+
+#### (ii) Subsequent fiscal years
+
+&emsp;&emsp;&emsp;The Secretary shall compute an unadjusted federal <sup>1</sup> per diem rate equal to the federal <sup>1</sup> per diem rate computed under this subparagraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2000, the rate computed for the initial period described in clause (i), increased by the skilled nursing facility market basket percentage change for the initial period minus 1 percentage point;
+
+&emsp;&emsp;&emsp;&emsp;(II) for each of fiscal years 2001 and 2002, the rate computed for the previous fiscal year increased by the skilled nursing facility market basket percentage change for the fiscal year involved minus 1 percentage point; and
+
+&emsp;&emsp;&emsp;&emsp;(III) for each subsequent fiscal year, the rate computed for the previous fiscal year increased by the skilled nursing facility market basket percentage change for the fiscal year involved.
+
+#### (F) Adjustment for case mix creep
+
+&emsp;&emsp;Insofar as the Secretary determines that the adjustments under subparagraph (G)(i) for a previous fiscal year (or estimates that such adjustments for a future fiscal year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year that are a result of changes in the coding or classification of residents that do not reflect real changes in case mix, the Secretary may adjust unadjusted Federal per diem rates for subsequent fiscal years so as to eliminate the effect of such coding or classification changes.
+
+#### (G) Determination of Federal rate
+
+&emsp;&emsp;The Secretary shall compute for each skilled nursing facility for each fiscal year (beginning with the initial period described in subparagraph (E)(i)) an adjusted Federal per diem rate equal to the unadjusted Federal per diem rate determined under subparagraph (E), as adjusted under subparagraph (F), and as further adjusted as follows:
+
+#### (i) Adjustment for case mix
+
+&emsp;&emsp;&emsp;The Secretary shall provide for an appropriate adjustment to account for case mix. Such adjustment shall be based on a resident classification system, established by the Secretary, that accounts for the relative resource utilization of different patient types. The case mix adjustment shall be based on resident assessment data and other data that the Secretary considers appropriate.
+
+#### (ii) Adjustment for geographic variations in labor costs
+
+&emsp;&emsp;&emsp;The Secretary shall adjust the portion of such per diem rate attributable to wages and wage-related costs for the area in which the facility is located compared to the national average of such costs using an appropriate wage index as determined by the Secretary. Such adjustment shall be done in a manner that does not result in aggregate payments under this subsection that are greater or less than those that would otherwise be made if such adjustment had not been made.
+
+#### (H) Publication of information on per diem rates
+
+&emsp;&emsp;The Secretary shall provide for publication in the Federal Register, before May 1, 1998 (with respect to fiscal period described in subparagraph (E)(i)) and before the August 1 preceding each succeeding fiscal year (with respect to that succeeding fiscal year), of—
+
+&emsp;&emsp;&emsp;(i) the unadjusted Federal per diem rates to be applied to days of covered skilled nursing facility services furnished during the fiscal year,
+
+&emsp;&emsp;&emsp;(ii) the case mix classification system to be applied under subparagraph (G)(i) with respect to such services during the fiscal year, and
+
+&emsp;&emsp;&emsp;(iii) the factors to be applied in making the area wage adjustment under subparagraph (G)(ii) with respect to such services.
+
+#### (5) Skilled nursing facility market basket index and percentage
+
+&emsp;For purposes of this subsection:
+
+#### (A) Skilled nursing facility market basket index
+
+&emsp;&emsp;The Secretary shall establish a skilled nursing facility market basket index that reflects changes over time in the prices of an appropriate mix of goods and services included in covered skilled nursing facility services.
+
+#### (B) Skilled nursing facility market basket percentage
+
+&emsp;&emsp;The term “skilled nursing facility market basket percentage” means, for a fiscal year or other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
+
+#### (6) Submission of resident assessment data
+
+&emsp;A skilled nursing facility, or a facility described in paragraph (7)(B), shall provide the Secretary, in a manner and within the timeframes prescribed by the Secretary, the resident assessment data necessary to develop and implement the rates under this subsection. For purposes of meeting such requirement, a skilled nursing facility, or a facility described in paragraph (7), may submit the resident assessment data required under section 1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title.
+
+#### (7) Transition for medicare swing bed hospitals
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall determine an appropriate manner in which to apply this subsection to the facilities described in subparagraph (B), taking into account the purposes of this subsection, and shall provide that at the end of the transition period (as defined in paragraph (2)(E)) such facilities shall be paid only under this subsection. Payment shall not be made under this subsection to such facilities for cost reporting periods beginning before such date (not earlier than July 1, 1999) as the Secretary specifies.
+
+#### (B) Facilities described
+
+&emsp;&emsp;The facilities described in this subparagraph are facilities that have in effect an agreement described in section 1395tt of this title, for which payment is made for the furnishing of extended care services on a reasonable cost basis under section 1395f(<i>l</i>) of this title (as in effect on and after such date).
+
+#### (8) Limitation on review
+
+&emsp;There shall be no administrative or judicial review under section 1395ff of this title, 1395<i>oo</i> of this title, or otherwise of—
+
+&emsp;&emsp;(A) the establishment of Federal per diem rates under paragraph (4), including the computation of the standardized per diem rates under paragraph (4)(C), adjustments and corrections for case mix under paragraphs (4)(F) and (4)(G)(i), and adjustments for variations in labor-related costs under paragraph (4)(G)(ii);
+
+&emsp;&emsp;(B) the establishment of facility specific rates before January 1, 1999,<sup>2</sup> (except any determination of costs paid under part A of this subchapter); and
+
+&emsp;&emsp;(C) the establishment of transitional amounts under paragraph (7).
+
+#### (9) Payment for certain services
+
+&emsp;In the case of an item or service furnished to a resident of a skilled nursing facility or a part of a facility that includes a skilled nursing facility (as determined under regulations) for which payment would (but for this paragraph) be made under part B of this subchapter in an amount determined in accordance with section 1395<i>l</i>(a)(2)(B) of this title, the amount of the payment under such part shall be the amount provided under the fee schedule for such item or service.
+
+#### (10) Required coding
+
+&emsp;No payment may be made under part B of this subchapter for items and services (other than services described in paragraph (2)(A)(ii)) furnished to an individual who is a resident of a skilled nursing facility or of a part of a facility that includes a skilled nursing facility (as determined under regulations), unless the claim for such payment includes a code (or codes) under a uniform coding system specified by the Secretary that identifies the items or services furnished.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added July 18, 1984, Pub. L. 98–369, div. B, title III, §2319(b), 98 Stat. 1082; amended Apr. 7, 1986, Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), 100 Stat. 168, 170, 182; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), 100 Stat. 2933; Dec. 22, 1987, Pub. L. 100–203, title IV, §4201(b)(2), 101 Stat. 1330–174; Nov. 5, 1990, Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), 104 Stat. 1388–45, 1388–48; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), 107 Stat. 578; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), 111 Stat. 414, 421, 422, 442.)
+
+#### References in Text
+
+Parts A and B of this subchapter, referred to in subsec. (e), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–33, §4431, substituted “described in this subsection, except that the limits effective for cost reporting periods beginning on or after October 1, 1997, shall be based on the limits effective for cost reporting periods beginning on or after October 1, 1996.” for “described in this subsection” at end.
+
+Subsec. (d)(1). Pub. L. 105–33, §4432(b)(5)(H), substituted “Subject to subsection (e) of this section, any skilled nursing facility” for “Any skilled nursing facility”.
+
+Subsec. (e). Pub. L. 105–33, §4432(a), added subsec. (e).
+
+Subsec. (e)(2)(A)(ii). Pub. L. 105–33, §4511(a)(2)(E), substituted “and (ii)” for “through (iii)”.
+
+Subsec. (e)(9), (10). Pub. L. 105–33, §4432(b)(3), added pars. (9) and (10).
+
+1993—Subsec. (a). Pub. L. 103–66, §13503(a)(2), inserted “, on or after October 1, 1995,” after “October 1, 1992” in concluding provisions.
+
+Subsec. (b). Pub. L. 103–66, §13503(a)(3)(A), substituted “Secretary may not recognize” for “Secretary shall recognize” and a period for “(as determined by the Secretary) resulting from the reimbursement principles under this subchapter, notwithstanding the limits set forth in paragraph (3) or (4) of subsection (a) of this section.”
+
+1990—Subsec. (a). Pub. L. 101–508, §4008(e)(2), struck out period at end and inserted “, and shall, for cost reporting periods beginning on or after October 1, 1992 and every 2 years thereafter, provide for an update to the per diem cost limits described in this subsection”.
+
+Subsec. (d)(1). Pub. L. 101–508, §4008(h)(2)(A)(ii), substituted “(including the costs of services required to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident eligible for benefits under this subchapter) and capital-related costs” for “(and capital-related costs)”.
+
+1987—Subsec. (d)(7). Pub. L. 100–203 added par. (7).
+
+1986—Subsec. (b). Pub. L. 99–272, §9219(b)(1)(C), substituted “notwithstanding” for “nothwithstanding”.
+
+Subsec. (c). Pub. L. 99–272, §9126(b), inserted provision requiring the Secretary to publish data and criteria to be used for purposes of this subsection on an annual basis.
+
+Subsec. (d). Pub. L. 99–272, §9126(a), added subsec. (d).
+
+Subsec. (d)(1). Pub. L. 99–514, §1895(b)(7)(A), substituted “cost reporting period” for “fiscal year” in five places.
+
+Subsec. (d)(4). Pub. L. 99–514, §1895(b)(7)(B), substituted “cost reporting periods beginning in a fiscal year” for “each fiscal year” and “cost reporting period no later than 30 days before the beginning of that period” for “fiscal year within 60 days after the Secretary establishes the final prospective payment amounts for such fiscal year”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by section 4432(a), (b)(3), (5)(H) of Pub. L. 105–33 effective for cost reporting periods beginning on or after July 1, 1998, except that amendment by section 4432(b) applicable to items and services furnished on or after July 1, 1998, see section 4432(d) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
+
+Amendment by section 4511(a)(2)(E) of Pub. L. 105–33 applicable with respect to services furnished and supplies provided on and after Jan. 1, 1998, see section 4511(e) of Pub. L. 105–33, set out as a note under section 1395k of this title.
+
+#### Effective Date of 1993 Amendment
+
+Section 13503(a)(3)(B) of Pub. L. 103–66 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1993.”
+
+#### Effective Date of 1990 Amendment
+
+Section 4008(e)(3) of Pub. L. 101–508 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and provisions set out as a note below\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
+
+Amendment by section 4008(h)(2)(A)(ii) of Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, see section 4008(h)(2)(P) of Pub. L. 101–508, set out as a note under section 1395i–3 of this title.
+
+#### Effective Date of 1987 Amendment
+
+Amendment by Pub. L. 100–203 applicable to services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1395i–3 of this title, see section 4204(a) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1395i–3 of this title.
+
+#### Effective Date of 1986 Amendments
+
+Section 1895(b)(7)(D) of Pub. L. 99–514 provided that: “The amendments made by subparagraphs (A) and (B) \[amending this section\] apply to cost reporting periods beginning on or after October 1, 1986.”
+
+Amendment by section 9219(b)(1)(C) of Pub. L. 99–272 effective as if originally included in the Deficit Reduction Act of 1984, Pub. L. 98–369, see section 9219(b)(1)(D) of Pub. L. 99–272, set out as a note under section 1395u of this title.
+
+Section 9126(d) of Pub. L. 99–272, as amended by Pub. L. 99–514, title XVIII, §1895(b)(7)(C), Oct. 22, 1986, 100 Stat. 2933, provided that:
+
+“(1) The amendment made by subsection (a) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1986.
+
+“(2) The amendment made by subsection (b) \[amending this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
+
+#### Effective Date
+
+Section 2319(c) of Pub. L. 98–369 provided that: “The amendments made by subsections (a) \[amending section 1395x of this title\] and (b) \[enacting this section\] shall apply to cost reporting periods beginning on or after July 1, 1984.”
+
+#### Medical Review Process
+
+Section 4432(c) of Pub. L. 105–33 provided that: “In order to ensure that medicare beneficiaries are furnished appropriate services in skilled nursing facilities, the Secretary of Health and Human Services shall establish and implement a thorough medical review process to examine the effects of the amendments made by this section \[amending this section and sections 1395i–3, 1395k, 1395<i>l</i>, 1395u, 1395x, 1395y, 1395cc, and 1395tt of this title\] on the quality of covered skilled nursing facility services furnished to medicare beneficiaries. In developing such a medical review process, the Secretary shall place a particular emphasis on the quality of non-routine covered services and physicians’ services for which payment is made under title XVIII of the Social Security Act \[this subchapter\].”
+
+#### Construction of Wage Index for Skilled Nursing Facilities
+
+Pub. L. 103–432, title I, §106(a), Oct. 31, 1994, 108 Stat. 4405, provided that: “Not later than 1 year after the date of the enactment of this Act \[Oct. 31, 1994\], the Secretary of Health and Human Services shall begin to collect data on employee compensation and paid hours of employment in skilled nursing facilities for the purpose of constructing a skilled nursing facility wage index adjustment to the routine service cost limits required under section 1888(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\].”
+
+#### No Change in Limits on Per Diem Service Costs for Extended Care Services for Fiscal Years 1994 and 1995
+
+Section 13503(a)(1) of Pub. L. 103–66 provided that: “The Secretary of Health and Human Services may not provide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act \[this section\] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) \[amending this section\]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years.”
+
+#### No Change in Prospective Payments for Services Furnished During Fiscal Years 1994 and 1995
+
+Section 13503(b) of Pub. L. 103–66 provided that: “The Secretary of Health and Human Services may not change the amount of any prospective payment paid to a skilled nursing facility under section 1888(d) of the Social Security Act \[subsec. (d) of this section\] for services furnished during cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendment made by subsection (c)(1)(A) \[amending section 1395x of this title\].”
+
+#### Prospective Payment System for Skilled Nursing Facility Services
+
+Section 4008(k) of Pub. L. 101–508 provided that:
+
+“(1)
+
+Development of proposal.—The Secretary of Health and Human Services shall develop a proposal to modify the current system under which skilled nursing facilities receive payment for extended care services under part A \[part A of this subchapter\] of the medicare program or a proposal to replace such system with a system under which such payments would be made on the basis of prospectively determined rates. In developing any proposal under this paragraph to replace the current system with a prospective payment system, the Secretary shall—
+
+&emsp;“(A) take into consideration the need to provide for appropriate limits on increases in expenditures under the medicare program without jeopardizing access to extended care services for individuals unable to care for themselves;
+
+&emsp;“(B) provide for adjustments to prospectively determined rates to account for changes in a facility's case mix, volume of cases, and the development of new technologies and standards of medical practice;
+
+&emsp;“(C) take into consideration the need to increase the payment otherwise made under such system in the case of services provided to patients whose length of stay or costs of treatment greatly exceed the length of stay or cost of treatment provided for under the applicable prospectively determined payment rate;
+
+&emsp;“(D) take into consideration the need to adjust payments under the system to take into account factors such as a disproportionate share of low-income patients, differences in wages and wage-related costs among facilities located in various geographic areas, and other factors the Secretary considers appropriate; and
+
+&emsp;“(E) take into consideration the appropriateness of classifying patients and payments upon functional disability, cognitive impairment, and other patient characteristics.
+
+“(2)
+
+Reports.—(A) By not later than April 1, 1991, the Secretary (acting through the Administrator of the Health Care Financing Administration) shall submit any research studies to be used in developing the proposal under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
+
+“(B) By not later than September 1, 1991, the Secretary shall submit the proposal developed under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
+
+“(C) By not later than March 1, 1992, the Prospective Payment Assessment Commission shall submit an analysis of and comments on the proposal developed under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.”
+
+#### Use of More Recent Data Regarding Routine Service Costs of Skilled Nursing Facilities
+
+Pub. L. 101–239, title VI, §6024, Dec. 19, 1989, 103 Stat. 2167, as amended by Pub. L. 101–508, title IV, §4008(e)(1), Nov. 5, 1990, 104 Stat. 1388–45, provided that: “The Secretary of Health and Human Services shall determine mean per diem routine service costs for freestanding and hospital based skilled nursing facilities under section 1888(a) of the Social Security Act \[subsec. (a) of this section\] for cost reporting periods beginning on or after October 1, 1989, in accordance with regulations published by the Secretary that require the use of cost reports submitted by skilled nursing facilities for cost reporting periods beginning not earlier than October 1, 1985. The Secretary shall update such costs under such section for cost reporting periods beginning on or after October 1, 1989, by using cost reports submitted by skilled nursing facilities for cost reporting periods ending not earlier than January 31, 1988, and not later than December 31, 1988.”
+
+#### Section Referred To in Other Sections
+
+This section is referred to in sections 1395i–3, 1395<i>l</i>, 1395u, 1395x, 1395y, 1395cc, 1395tt of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+

@@ -10,7 +10,7 @@ The Administrator is authorized to obtain services as provided by section 3109 o
 
 #### (c) Participation of military personnel
 
-The Administrator is authorized to provide for participation of military personnel in the performance of his functions. Members of the Army, the Navy, the Air Force, or the MarineCorps may be detailed for service in the Administration by the appropriate military Secretary, pursuant to cooperative agreements with the Secretary, for service in the Administration in positions other than a position the occupant of which must be approved by and with the advice and consent of the Senate.
+The Administrator is authorized to provide for participation of military personnel in the performance of his functions. Members of the Army, the Navy, the Air Force, or the Marine Corps may be detailed for service in the Administration by the appropriate military Secretary, pursuant to cooperative agreements with the Secretary, for service in the Administration in positions other than a position the occupant of which must be approved by and with the advice and consent of the Senate.
 
 #### (d) Status of military personnel unaffected
 

@@ -4,7 +4,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;(1) The term “unit of general local government” means a city, town, township, county, parish, village, or other general purpose political subdivision of a State; the Federated States of Micronesia and Palau, the Marshall Islands, or a general purpose political subdivision thereof; a consortium of such political subdivisions recognized by the Secretary in accordance with section 12746(2) of this title; and any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive to act on behalf of the jurisdiction with regard to provisions of this Act.
 
-&emsp;(2) The term “State” means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act.
+&emsp;(2) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act.
 
 &emsp;(3) The term “jurisdiction” means a State or unit of general local government.
 
@@ -136,7 +136,7 @@ Section 223 of title II of Pub. L. 102–550 provided that: “The amendments ma
 
 #### Regulations
 
-Section 222 of title II of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[enacting section 12810 of this title, amending this section and sections 12705,12724, 12742, 12745 to 12748, 12750, 12771, 12773, 12774, 12782, and 12784 of this title, and enacting provisions set out as notes under this section and sections 12746, 12747, and 12750 of this title\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Section 222 of title II of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to implement the provisions of this title \[enacting section 12810 of this title, amending this section and sections 12705, 12724, 12742, 12745 to 12748, 12750, 12771, 12773, 12774, 12782, and 12784 of this title, and enacting provisions set out as notes under this section and sections 12746, 12747, and 12750 of this title\] and the amendments made by this title not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], except as expressly provided otherwise in this title and the amendments made by this title. Suchregulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
 
 #### Transition Rule
 

@@ -6,7 +6,7 @@ Within 360 days after October 22, 1986, the Administrator shall promulgate regul
 
 #### (b) Inspection
 
-The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authority of a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) aninspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the “Guidance for Controlling Asbestos-Containing Materials in Buildings” (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
+The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authority of a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the “Guidance for Controlling Asbestos-Containing Materials in Buildings” (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
 
 #### (c) Circumstances requiring response actions
 
@@ -78,7 +78,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (e) Implementation
 
-The Administrator shall promulgate regulations requiring the implementation of response actions in school buildings under the authority of a local educational agency and, where appropriate, for the determination of when a response action is completed. Such regulations shall include standards for the education and protection of both workers and building occupants for the following phases of activity:
+The Administrator shall promulgate regulations requiring the implementation of responseactions in school buildings under the authority of a local educational agency and, where appropriate, for the determination of when a response action is completed. Such regulations shall include standards for the education and protection of both workers and building occupants for the following phases of activity:
 
 &emsp;(1) Inspection.
 
@@ -138,7 +138,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 #### (2) Statement by contractor
 
-&emsp;A local educational agency may require each management plan to contain a statement signed by an accredited asbestos contractor that such contractor has prepared or assisted in the preparation of such plan, or has reviewed such plan, and that such plan is in compliance with the applicable regulations and standards promulgated or adopted pursuant to this section and other applicable provisions of law. Such a statement may not be signed by a contractor who, in addition to preparing or assisting in preparing the management plan, also implements (or will implement) the management plan.
+&emsp;A local educational agency may require each management plan to contain a statementsigned by an accredited asbestos contractor that such contractor has prepared or assisted in the preparation of such plan, or has reviewed such plan, and that such plan is in compliance with the applicable regulations and standards promulgated or adopted pursuant to this section and other applicable provisions of law. Such a statement may not be signed by a contractor who, in addition to preparing or assisting in preparing the management plan, also implements (or will implement) the management plan.
 
 #### (3) Warning labels
 

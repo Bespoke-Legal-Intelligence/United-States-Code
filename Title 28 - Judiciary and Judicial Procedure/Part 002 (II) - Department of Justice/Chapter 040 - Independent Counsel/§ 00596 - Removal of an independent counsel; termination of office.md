@@ -14,7 +14,7 @@ Report to division of the court and congress.—If an independent counsel is rem
 
 &emsp;(3)
 
-Judicial review of removal.—An independent counsel removed from office may obtain judicial review of the removal in a civil action commenced in the United States District Court for the District of Columbia. A member of the division of the court may not hear or determine any such civil action or any appeal of a decision in any such civil action. The independent counsel may be reinstated or granted other appropriate relief by order of the court.
+Judicial review of removal.—An independent counsel removed from office may obtain judicial review of the removal in a civil action commenced in the United States District Court for the District of Columbia. A member of the division of the court may not hear or determine any such civil action or any appeal of a decision in any such civil action.The independent counsel may be reinstated or granted other appropriate relief by order of the court.
 
 (b)
 
@@ -46,7 +46,7 @@ Audits.—(1) On or before June 30 of each year, an independent counsel shall pr
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–270, §5, substituted “physical or mental disability (if not prohibited by law protecting persons from discrimination on the basis of such a disability),” for “physical disability, mental incapacity”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–270, §5, substituted “physical or mental disability (if not prohibited by law protecting persons from discrimination on the basis of such a disability),” for “physical disability, mental incapacity”.
 
 Subsec. (b)(2). Pub. L. 103–270, §3(h), inserted at end “If the Attorney General has not made a request under this paragraph, the division of the court shall determine on its own motion whether termination is appropriate under this paragraph no later than 2 years after the appointment of an independent counsel, at the end of the succeeding 2-year period, and thereafter at the end of each succeeding 1-year period.”
 
@@ -54,11 +54,11 @@ Subsec. (c). Pub. L. 103–270, §3(i), amended subsec. (c) generally. Prior to 
 
 Audits.—After the termination of the office of an independent counsel, the Comptroller General shall conduct an audit of the expenditures of that office, and shall submit to the appropriate committees of the Congress a report on the audit.”
 
-1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) for former subsecs. (a) and (b) which related to similar subject matter.
+<b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) for former subsecs. (a) and (b) which related to similar subject matter.
 
-1984—Subsec. (a)(3). Pub. L. 98–620 struck out provision requiring the division of the court to cause such an action to be in every way expedited.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–620 struck out provision requiring the division of the court to cause such an action to be in every way expedited.
 
-1983—Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
+<b>1983</b>—Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” in section catchline.
 
 Subsec. (a)(1). Pub. L. 97–409, §§2(a)(1), 6(d), substituted “independent counsel” for “special prosecutor”, “good cause” for “extraordinary impropriety”, and “independent counsel's” for “special prosecutor's”.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to procee
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of this title.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of this title.
 
 #### Section Referred to in Other Sections
 

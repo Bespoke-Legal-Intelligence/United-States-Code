@@ -16,7 +16,7 @@
 
 &emsp;(3) shall be made under the same conditions as apply to payments authorized by section 3973 of title 22.
 
-(June 20, 1949, ch. 227, §11, as added Oct. 14, 1980, Pub. L. 96–450, title IV, §403(a), 94 Stat. 1978.)
+(June 20, 1949, ch. 227, §11, as added Pub. L. 96–450, title IV, §403(a), Oct. 14, 1980, 94 Stat. 1978.)
 
 #### Codification
 

@@ -36,3 +36,5 @@ This section shall apply with respect to sessions of Congress beginning after Se
 
 Section is from the Legislative Branch Appropriations Act, 1997.
 
+&nbsp;
+

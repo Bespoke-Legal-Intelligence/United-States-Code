@@ -70,7 +70,7 @@ Pub. L. 103–461, §1(a), (b), Nov. 2, 1994, 108 Stat. 4804, provided that:
 
 “(a)
 
-In General.—The Secretary of the Interior shall, not later than 30 days after the date of enactment ofthis Act \[Nov. 2, 1994\], make such corrections to the maps described in subsection (b) as are necessary to ensure that—
+In General.—The Secretary of the Interior shall, not later than 30 days after the date of enactment of this Act \[Nov. 2, 1994\], make such corrections to the maps described in subsection (b) as are necessary to ensure that—
 
 &emsp;“(1) depictions of areas on the maps are consistent with the depictions of areas appearing on the maps entitled ‘Coastal Barrier Resources System’, dated September 27, 1994, and on file with the Secretary of the Interior; and
 
@@ -198,7 +198,7 @@ Addition of Excess Federal Property.—
 
 &emsp;“(1)
 
-Consultation and determination.—Prior to transfer or disposal of excess property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than one hundred and eighty days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
+Consultation and determination.—Prior to transfer or disposal of excess property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretarya determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than one hundred and eighty days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
 
 &emsp;&emsp;“(A) prepare a map depicting the undeveloped coastal barrier portion of such property; and
 

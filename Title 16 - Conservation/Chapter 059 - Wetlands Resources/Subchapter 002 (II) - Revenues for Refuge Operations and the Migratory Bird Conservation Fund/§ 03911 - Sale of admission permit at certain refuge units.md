@@ -64,7 +64,7 @@ Amounts collected from the sale of admission permits under this section and from
 
 #### (d) Persons accompanying permittees
 
-A person who holds a stamp, passport, or permit described in subsection (b) of this section shall be entitled to general entrance into any designated unit, along with—
+A person who holds a stamp, passport, or permit described in subsection (b) of this sectionshall be entitled to general entrance into any designated unit, along with—
 
 &emsp;(1) any persons accompanying such person in a single, private, noncommercial vehicle; or
 

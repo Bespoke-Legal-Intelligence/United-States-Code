@@ -40,7 +40,7 @@
 
 &emsp;(E) all interested persons are provided the easiest possible access to the application process, including procedures which assure that—
 
-&emsp;&emsp;(i) information concerning financial assistance from either Secretary is available through all appropriate offices of the Department of Agriculture and the Department of Energy, and other regional and local offices of the Federal Government, as may be appropriate;
+&emsp;&emsp;(i) information concerning financial assistance from either Secretary is availablethrough all appropriate offices of the Department of Agriculture and the Department of Energy, and other regional and local offices of the Federal Government, as may be appropriate;
 
 &emsp;&emsp;(ii) all such locations where such information is available will be able to accept and file applications, and will forward them to the Secretary concerned; and
 
@@ -62,7 +62,7 @@
 
 (3) Reviews of projects under the provisions of subsection (a)(2)(C) of this section or paragraph (1)(B) by the Secretary of Agriculture shall be for the purpose of considering the national, regional, and local agricultural policy impacts of such project on agricultural supply, production, and use, and reviews by the Secretary of Energy under such provisions shall be for the purpose of considering national energy policy impacts and the technical feasibility of the project.
 
-(4) The Secretary of Agriculture and the Secretary of Energy may jointly establish categories of projects to which paragraphs (1) and\(2) shall not apply. Within 90 days after June 30, 1980, the Secretaries shall identify potential categories and make an initial determination of exempted categories.
+(4) The Secretary of Agriculture and the Secretary of Energy may jointly establish categories of projects to which paragraphs (1) and (2) shall not apply. Within 90 days after June 30, 1980, the Secretaries shall identify potential categories and make an initial determination of exempted categories.
 
 #### (d) Notification of applicant upon disapproval of application for financial assistance
 

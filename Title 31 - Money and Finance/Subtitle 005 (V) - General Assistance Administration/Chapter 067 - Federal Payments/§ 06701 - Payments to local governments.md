@@ -40,7 +40,7 @@ Considerations.—The Secretary may increase or decrease under this subsection a
 
 (d)
 
-Reservation for Adjustments.—The Secretary may reserve a percentage of not more than 2 percent of the amount under this section for a payment period for all units of general local government in a State if the Secretary considers the reserve is necessary to ensure the availability of sufficient amounts to pay adjustments after the final allocation of amounts among the units of general local government in the State.
+Reservation for Adjustments.—The Secretary may reserve a percentage of not more than 2 percent of the amount under this section for a payment period for all units of general local government in a State if the Secretary considers the reserve is necessary to ensure the availability of sufficient amounts to pay adjustments after the final allocation of amountsamong the units of general local government in the State.
 
 (e)
 
@@ -70,9 +70,11 @@ Expenditure With Disadvantaged Business Enterprises.—
 
 General rule.—Of amounts paid to a unit of general local government under this chapter for a payment period, not less than 10 percent of the total combined amounts obligated by the unit for contracts and subcontracts shall be expended with—
 
-&emsp;&emsp;(A) small business concerns controlled by socially and economically disadvantaged individuals and women; and
+&emsp;&emsp;(A) small business concerns controlled by socially and economically disadvantaged individuals and women;
 
-&emsp;&emsp;(B) historically Black colleges and universities and colleges and universities having a student body in which more than 20 percent of the students are Hispanic Americans or Native Americans.
+&emsp;&emsp;(B) historically Black colleges and universities and colleges and universities having a student body in which more than 20 percent of the students are Hispanic Americans or Native Americans; and
+
+&emsp;&emsp;(C) qualified HUBZone small business concerns.
 
 &emsp;(2)
 
@@ -82,9 +84,11 @@ Exception.—Paragraph (1) shall not apply to amounts paid to a unit of general 
 
 Definitions.—For purposes of this subsection—
 
-&emsp;&emsp;(A) the term “small business concern” has the meaning such term has under section 3 of the Small Business Act; and
+&emsp;&emsp;(A) the term “small business concern” has the meaning such term has under section 3 of the Small Business Act;
 
-&emsp;&emsp;(B) the term “socially and economically disadvantaged individuals” has the meaning such term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section.
+&emsp;&emsp;(B) the term “socially and economically disadvantaged individuals” has the meaning such term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section; and
+
+&emsp;&emsp;(C) the term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(<i>o</i>) <sup>1</sup>).
 
 (g)
 
@@ -98,7 +102,7 @@ In general.—Funds made available under this chapter to units of local governme
 
 Base level amount.—The total level of funding available to a unit of local government for accounts serving eligible purposes under this chapter in the fiscal year immediately preceding receipt of a grant under this chapter shall be designated the “base level account” for the fiscal year in which a grant is received. Grants under this chapter in a given fiscal year shall be reduced on a dollar for dollar basis to the extent that a unit of local government reduces its base level account in that fiscal year.
 
-(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1859.)
+(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1859; amended Pub. L. 105–135, title VI, §604(e)(2), Dec. 2, 1997, 111 Stat. 2633.)
 
 #### References in Text
 
@@ -108,11 +112,23 @@ Sections 3 and 8(d) of the Small Business Act, referred to in subsec. (f)(3), ar
 
 A prior section 6701, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1010; Pub. L. 98–185, §§2, 9(a), Nov. 30, 1983, 97 Stat. 1309, 1311, related to definitions and application of chapter, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
+#### Amendments
+
+1997—Subsec. (f)(1)(C). Pub. L. 105–135, §604(e)(2)(A), added subpar. (C).
+
+Subsec. (f)(3)(C). Pub. L. 105–135, §604(e)(2)(B), added subpar. (C).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of Title 15, Commerce and Trade.
+
 #### Regulations
 
-Section 31001(b) of Pub. L. 103–322 provided that: “Within 90 days of the date of enactment of this Act \[Sept. 13, 1994\] the Secretary shall issue regulations, which may be interim regulations, to implement subsection (a) \[enacting this chapter\], modifying the regulations for carrying into effect the Revenue SharingAct \[former chapter 67 of this title\] that were in effect as of July 1, 1987, and that were published in 31 C.F.R. part 51. The Secretary need not hold a public hearing before issuing these regulations.”
+Section 31001(b) of Pub. L. 103–322 provided that: “Within 90 days of the date of enactment of this Act \[Sept. 13, 1994\] the Secretary shall issue regulations, which may be interim regulations, to implement subsection (a) \[enacting this chapter\], modifying the regulations for carrying into effect the Revenue Sharing Act \[former chapter 67 of this title\] that were in effect as of July 1, 1987, and that were published in 31 C.F.R. part 51. The Secretary need not hold a public hearing before issuing these regulations.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6703, 6705, 6708, 6720 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “632(p)”.</i>
 

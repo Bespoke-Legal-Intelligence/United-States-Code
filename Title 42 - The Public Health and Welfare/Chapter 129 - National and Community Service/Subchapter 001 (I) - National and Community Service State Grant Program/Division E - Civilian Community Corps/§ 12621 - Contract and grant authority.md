@@ -8,7 +8,7 @@ The Director may, by contract or grant, provide for any public or private organi
 
 #### (1) Federal and National Guard property
 
-&emsp;The Director shall enter into agreements, as necessary, with the Secretary of Defense, the Governor of a State, territory or commonwealth, or the commanding general of the District of Columbia National Guard, as the case may be, to utilize—
+&emsp;The Director shall enter into agreements, as necessary, with the Secretary of Defense, theGovernor of a State, territory or commonwealth, or the commanding general of the District of Columbia National Guard, as the case may be, to utilize—
 
 &emsp;&emsp;(A) equipment of the Department of Defense and equipment of the National Guard; and
 

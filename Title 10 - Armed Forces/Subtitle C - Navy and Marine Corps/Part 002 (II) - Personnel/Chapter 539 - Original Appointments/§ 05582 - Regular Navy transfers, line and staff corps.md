@@ -36,7 +36,7 @@ The word “male” is inserted in both subsections to limit their application t
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “A regular officer” for “Any male officer on the active list” and “in the line” for “to the active list in the line” and deleted provision assigning an officer so appointed the lineal position he would have held had he originally been appointed in and had he remained in the line and provision that such an officer was to be considered an additional number in each grade in which he served.
+1980—Subsec. (a). Pub. L. 96–513 substituted “A regular officer” for “Any male officer on the active list” and “in the line” for “to the active list in the line” and deleted provision assigning an officer so appointed the lineal position he would have held had he originallybeen appointed in and had he remained in the line and provision that such an officer was to be considered an additional number in each grade in which he served.
 
 Subsec. (b). Pub. L. 96–513 substituted “A regular officer” for “Any male officer on the active list” and “the same grade in a staff corps under regulations prescribed by the Secretary of Defense” for “the active list of the Navy in the Supply Corps or the Civil Engineer Corps, in the same grade, without regard to his age.”
 

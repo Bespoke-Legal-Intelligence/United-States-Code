@@ -26,7 +26,7 @@
 
 &emsp;(C) that any person with a blood alcohol concentration of 0.10 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated; and
 
-&emsp;(D) for increased efforts or resources dedicated to the enforcement of alcohol-relatedtraffic laws and increased efforts to inform the public of such enforcement.
+&emsp;(D) for increased efforts or resources dedicated to the enforcement of alcohol-related traffic laws and increased efforts to inform the public of such enforcement.
 
 (2) For purposes of this section, a State is eligible for a supplemental grant if such State is eligible for a basic grant and in addition provides for some or all of the criteria established by the Secretary under subsection (f).
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(II) a minimum sentence of imprisonment for forty-eight consecutive hours;
 
-&emsp;(B) any person convicted of a second violation of driving under the influence of alcohol within five years after a conviction for the same offense, shall receive a mandatory minimum sentence of imprisonment for ten days and license revocation for not less than one year;
+&emsp;(B) any person convicted of a second violation of driving under the influence of alcohol within five years after a conviction for thesame offense, shall receive a mandatory minimum sentence of imprisonment for ten days and license revocation for not less than one year;
 
 &emsp;(C) any person convicted of a third or subsequent violation of driving under the influence of alcohol within five years after a prior conviction for the same offense shall—
 
@@ -90,7 +90,7 @@ Subsec. (f)(8). Pub. L. 98–363, §4(c), added par. (8).
 
 #### Effectiveness of Drunk Driving Laws
 
-Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, provided that: “The Secretary shall conduct astudy to evaluate the effectiveness on reducing drunk driving and appropriateness of laws enacted in the States which allow a health care provider who treats an individual involved in a vehicular accident to report the blood alcohol level, if known, of such individual to the local law enforcement agency which has jurisdiction over the accident site if the blood alcohol concentration level exceeds the maximum level permitted under State law.”
+Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, provided that: “The Secretary shall conduct a study to evaluate the effectiveness on reducing drunk driving and appropriateness of laws enacted in the States which allow a health care provider who treats an individual involved in a vehicular accident to report the blood alcohol level, if known, of such individual to the local law enforcement agency which has jurisdiction over the accident site if the blood alcohol concentration level exceeds the maximum level permitted under State law.”
 
 #### Minimum Drinking Age
 
@@ -98,7 +98,7 @@ Pub. L. 97–424, title II, §209, Jan. 6, 1983, 96 Stat. 2140, provided that: �
 
 #### Regulations; Congressional Veto of Supplemental Grants
 
-Section 101(c) of Pub. L. 97–364 provided that: “The Secretary of Transportation shall issue and publish in the Federal Register proposed regulations to implement section 408 of title 23, United States Code, not later than November 1, 1982. The Secretary shall allow public comment and hold public hearings on the proposed regulations to encourage maximum citizen participation. The final regulations shall be issued, published in the Federal Register, and transmitted to Congress before February 1, 1983. To the extent such regulations relate to the making of basic grants under such section 408, such regulations shall become effective on the date on which they are published in the Federal Register. To the extent such regulations relate to the making of supplemental grants under such section 408, such regulations shall become effective April 1, 1983, unless before such date either House of Congress by resolution disapproves such regulations to such extent. If such regulations are so disapproved by either House of Congress, the Secretary shall not obligate for such supplemental grants any amount authorized to carry out such section 408 for the fiscal year ending September 30, 1983, or any subsequent fiscal year, unless specifically authorized to do so by a statute enacted after the date of enactment of this Act \[Oct. 25, 1982\].”
+Section 101(c) of Pub. L. 97–364 provided that: “The Secretary of Transportation shall issue and publish in the Federal Register proposed regulations to implement section 408 of title 23, United States Code, not later than November 1, 1982. The Secretary shall allowpublic comment and hold public hearings on the proposed regulations to encourage maximum citizen participation. The final regulations shall be issued, published in the Federal Register, and transmitted to Congress before February 1, 1983. To the extent such regulations relate to the making of basic grants under such section 408, such regulations shall become effective on the date on which they are published in the Federal Register. To the extent such regulations relate to the making of supplemental grants under such section 408, such regulations shall become effective April 1, 1983, unless before such date either House of Congress by resolution disapproves such regulations to such extent. If such regulations are so disapproved by either House of Congress, the Secretary shall not obligate for such supplemental grants any amount authorized to carry out such section 408 for the fiscal year ending September 30, 1983, or any subsequent fiscal year, unless specifically authorized to do so by a statute enacted after the date of enactment of this Act \[Oct. 25, 1982\].”
 
 #### Section Referred to in Other Sections
 

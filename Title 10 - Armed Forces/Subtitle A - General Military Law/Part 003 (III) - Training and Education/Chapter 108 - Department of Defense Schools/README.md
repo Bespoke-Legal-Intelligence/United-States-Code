@@ -2,20 +2,25 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2161\.](%C2%A7%2002161%20-%20Defense%20Intelligence%20School%20master%20of%20science%20of%20strategic%20intelligence.md) | Defense Intelligence School: master of science of strategic intelligence. |
+| [2161\.](%C2%A7%2002161%20-%20Joint%20Military%20Intelligence%20College%20academic%20degrees.md) | Joint Military Intelligence College: academic degrees. |
 | [2162\.](%C2%A7%2002162%20-%20Preparation%20of%20budget%20requests%20for%20operation%20of%20professional%20military%20education%20schools.md) | Preparation of budget requests for operation of professional military education schools. |
 | [2163\.](%C2%A7%2002163%20-%20National%20Defense%20University%20masters%20of%20science%20in%20national%20security%20strategy%20and%20in%20national%20resource%20strategy.md) | National Defense University: masters of science in national security strategy and in national resource strategy. |
 | [2164\.](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md) | Department of Defense domestic dependent elementary and secondary schools. |
+| [2165\.](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md) | National Defense University: component institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+1997—Pub. L. 105–107, title V, §501(b), Nov. 20, 1997, 111 Stat. 2262, substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School; master of science of strategic intelligence” in item 2261.
+
+Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, added item 2165.
+
 1994—Pub. L. 103–337, div. A, title III, §351(b), Oct. 5, 1994, 108 Stat. 2730, added item 2164.
 
 1993—Pub. L. 103–160, div. A, title IX, §922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
 
-1990—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENTOF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
+1990—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
 
 #### Sense of Congress on Grade of Heads of Senior Professional Military Education Schools
 
@@ -23,9 +28,7 @@ Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provid
 
 #### Military Department Affiliation of War College Students
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8069\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, provided that: “Notwithstanding any other provision of law, for resident classes entering the war colleges after September 30, 1997, the Department of Defense shall require that not less than 20 percent of the total of United States military students at each war college shall be from military departments other than the hosting military department: <i>Provided</i>, That each military department will recognize the attendance at a sister military department war college as the equivalent of attendance at its own war college for promotion and advancement of personnel.”
-
-Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8069\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, whichprovided that, for resident classes entering war colleges after Sept. 30, 1997, Department of Defense was to require that not less than 20 percent of total of United States military students at each war college was to be from military departments other than hosting military department and provided that each military department was to recognize attendance at sister military department war college as equivalent of attendance at its own war college for promotion and advancement of personnel, was from the Department of Defense Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 104–61, title VIII, §8084, Dec. 1, 1995, 109 Stat. 667.
 
@@ -84,7 +87,8 @@ Effective Date.—This section shall apply with respect to any honorarium for an
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02161 - Defense Intelligence School master of science of strategic intelligence](%C2%A7%2002161%20-%20Defense%20Intelligence%20School%20master%20of%20science%20of%20strategic%20intelligence.md)
+- [&sect; 02161 - Joint Military Intelligence College academic degrees](%C2%A7%2002161%20-%20Joint%20Military%20Intelligence%20College%20academic%20degrees.md)
 - [&sect; 02162 - Preparation of budget requests for operation of professional military education schools](%C2%A7%2002162%20-%20Preparation%20of%20budget%20requests%20for%20operation%20of%20professional%20military%20education%20schools.md)
 - [&sect; 02163 - National Defense University masters of science in national security strategy and in national resource strategy](%C2%A7%2002163%20-%20National%20Defense%20University%20masters%20of%20science%20in%20national%20security%20strategy%20and%20in%20national%20resource%20strategy.md)
 - [&sect; 02164 - Department of Defense domestic dependent elementary and secondary schools](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md)
+- [&sect; 02165 - National Defense University component institutions](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md)

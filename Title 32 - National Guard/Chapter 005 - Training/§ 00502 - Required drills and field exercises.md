@@ -30,7 +30,7 @@
 
 > be ordered to perform training or other duty in addition to that prescribed under subsection (a). Duty without pay shall be considered for all purposes as if it were duty with pay.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Oct. 3, 1964, Pub. L. 88–621, §1(1), 78 Stat. 999; Dec. 1, 1967, Pub. L. 90–168, §4, 81 Stat. 526; Nov. 17, 1971, Pub. L. 92–156, title III, §303(b), 85 Stat. 425; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §524(b), 107 Stat. 1657.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 88–621, §1(1), Oct. 3, 1964, 78 Stat. 999; Pub. L. 90–168, §4, Dec. 1, 1967, 81 Stat. 526; Pub. L. 92–156, title III, §303(b), Nov. 17, 1971, 85 Stat. 425; Pub. L. 103–160, div. A, title V, §524(b), Nov. 30, 1993, 107 Stat. 1657.)
 
 Historical and Revision Notes
 
@@ -112,5 +112,5 @@ Training duty compensation of members of National Guard, see section 206 of Titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 112, 715 of this title; title 5 sections 5517, 6323; title 10 sections 101, 701, 1054, 1089, 1208, 10143, 12011, 12012, 12602, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965, 4312; title 50 App. section 456.
+This section is referred to in sections 101, 112, 509, 715 of this title; title 5 sections 5517, 6323; title 10 sections 101, 701, 1054, 1089, 1208, 10143, 12011, 12012, 12602, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965, 4312; title 50 App. section 456.
 

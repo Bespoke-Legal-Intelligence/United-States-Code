@@ -10,7 +10,7 @@ Third. On the day thereafter they shall forward by registered mail two of such c
 
 Fourth. They shall forthwith cause the other of the certificates and lists to be delivered to the judge of the district in which the electors shall have assembled.
 
-(June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, §7, 65 Stat. 712; Oct. 19, 1984, Pub. L. 98–497, title I, §107(e)(1), 98 Stat. 2291.)
+(June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, §7, 65 Stat. 712; Pub. L. 98–497, title I, §107(e)(1), Oct. 19, 1984, 98 Stat. 2291.)
 
 #### Amendments
 

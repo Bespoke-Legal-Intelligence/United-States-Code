@@ -38,7 +38,7 @@
 
 (4) Paragraphs (1) and (2) of this subsection and section 1105 of this title shall not apply to the establishment of any schedules or rates of basic pay or allowances under subpart D of part III of this title. The preceding sentence does not apply to the establishment of the procedures, methodology, or criteria used to establish such schedules, rates, or allowances.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1119;Pub. L. 99–251, title III, §§301, 302, Feb. 27, 1986, 100 Stat. 26.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1119; Pub. L. 99–251, title III, §§301, 302, Feb. 27, 1986, 100 Stat. 26.)
 
 Historical and Revision Notes
 

@@ -12,7 +12,7 @@
 
 1980—Subsecs. (a), (b). Pub. L. 96–506 inserted provisions extending, in subsec. (a), the authorization, and in subsec. (b), the spending limitation, to fiscal years ending Sept. 30, 1980, 1981, and 1982, respectively.
 
-1976—Subsec. (a). Pub. L. 94–487, §111(a), inserted authorization of appropriations for interim period July 1,1976, to Sept. 30, 1976, and fiscal years ending Sept. 30, 1977, 1978, and 1979.
+1976—Subsec. (a). Pub. L. 94–487, §111(a), inserted authorization of appropriations for interim period July 1, 1976, to Sept. 30, 1976, and fiscal years ending Sept. 30, 1977, 1978, and 1979.
 
 Subsec. (b). Pub. L. 94–487, §111(b), substituted “June 30, 1976, September 30, 1977, September 30, 1978, and September 30, 1979” for “and June 30, 1976”.
 

@@ -10,7 +10,7 @@ As used in this chapter:
 
 #### (2) Breeder
 
-&emsp;The term “breeder” means the person who directs the final breeding creating a variety or who discovers and develops a variety. If the actions are conducted by an agent on behalf of a principal, the principal, rather than the agent, shall be considered the breeder. The term does not include a person who redevelops or rediscovers a variety the existence of which is publicly known or a matter of common knowledge.
+&emsp;The term “breeder” means the person who directs the final breeding creating a variety or who discovers and develops a variety. If theactions are conducted by an agent on behalf of a principal, the principal, rather than the agent, shall be considered the breeder. The term does not include a person who redevelops or rediscovers a variety the existence of which is publicly known or a matter of common knowledge.
 
 #### (3) Essentially derived variety
 
@@ -58,7 +58,7 @@ For the purposes of this chapter:
 
 #### (1) Sale or disposition for nonreproductive purposes
 
-&emsp;The sale or disposition, for other than reproductive purposes, of harvested material produced as a result of experimentation or testing of a variety to ascertain the characteristics of the variety, or as a by-product of increasing a variety, shall not be considered to be a sale ordisposition for purposes of exploitation of the variety.
+&emsp;The sale or disposition, for other than reproductive purposes, of harvested material produced as a result of experimentation or testing of a variety to ascertain the characteristics of the variety, or as a by-product of increasing a variety, shall not be considered to be a sale or disposition for purposes of exploitation of the variety.
 
 #### (2) Sale or disposition for reproductive purposes
 

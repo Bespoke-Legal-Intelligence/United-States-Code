@@ -2,7 +2,7 @@
 
 #### (a) Warrants
 
-The judges of the United States district courts and United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process as may be required for enforcement of this chapter and theregulations issued under section 972e of this title.
+The judges of the United States district courts and United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process as may be required for enforcement of this chapter and the regulations issued under section 972e of this title.
 
 #### (b) Joint responsibility for enforcement
 
@@ -32,5 +32,5 @@ Notwithstanding the provisions of section 2464 of title 28, when a warrant of ar
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

@@ -2,7 +2,7 @@
 
 (a) Whoever intentionally kills—
 
-&emsp;(1) a State or local official, law enforcement officer, or other officer or employee while working with Federal law enforcement officials in furtherance of a Federal criminal investigation—
+&emsp;(1) a State or local official, law enforcement officer, or other officer or employee whileworking with Federal law enforcement officials in furtherance of a Federal criminal investigation—
 
 &emsp;&emsp;(A) while the victim is engaged in the performance of official duties;
 

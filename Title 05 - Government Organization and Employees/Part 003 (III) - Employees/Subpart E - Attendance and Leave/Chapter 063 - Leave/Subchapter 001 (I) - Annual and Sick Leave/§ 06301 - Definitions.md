@@ -30,7 +30,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(ix) a “teacher” or an individual holding a “teaching position” as defined by section 901 of title 20;
 
-&emsp;&emsp;(x) an officer in the executive branch or in the government of the District of Columbia who is appointed by the President and whose rate of basic pay exceeds the highest rate payable under section 5332 of this title;
+&emsp;&emsp;(x) an officer in the executive branch or in the government of the District of Columbiawho is appointed by the President and whose rate of basic pay exceeds the highest rate payable under section 5332 of this title;
 
 &emsp;&emsp;(xi) an officer in the executive branch or in the government of the District of Columbia who is designated by the President, except a postmaster, United States attorney, or United States marshal;
 
@@ -138,7 +138,7 @@ Pub. L. 103–388, §1, Oct. 22, 1994, 108 Stat. 4079, provided that: “This Ac
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–103, §1, Oct. 8, 1993, 107 Stat. 1022, provided that: “This Act \[amending sections 6331, 6337, 6361, 6362, and 6373 of this title, enacting provisions set out as notes under section 6331 of this title, and repealing provisions set out as a note under section 6331 of this title\] may be cited as the ‘Federal Employees Leave Sharing Amendments Act of 1993’.”
+Pub. L. 103–103, §1, Oct. 8, 1993, 107 Stat. 1022, provided that: “This Act \[amending sections 6331, 6337, 6361, 6362,and 6373 of this title, enacting provisions set out as notes under section 6331 of this title, and repealing provisions set out as a note under section 6331 of this title\] may be cited as the ‘Federal Employees Leave Sharing Amendments Act of 1993’.”
 
 #### Short Title of 1988 Amendment
 

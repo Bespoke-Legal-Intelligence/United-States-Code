@@ -1,32 +1,18 @@
 ### §5378. Police forces of the Bureau of Engraving and Printing and the United States Mint
 
-(a) The Secretary of the Treasury shall fix the rates of basic pay for positions within the police forces of the Bureau of Engraving and Printing and the United States Mint in accordance with the following:
+(a) The Secretary of the Department of the Treasury, or his designee, in his sole discretion shall fix the rates of basic pay for positions within the police forces of the United States Mint and the Bureau of Engraving and Printing without regard to the pay provisions of title 5, United States Code, except that no entry-level police officer shall receive basic pay for a calendar year that is less than the basic rate of pay for General Schedule GS–7 and no executive security official shall receive basic compensation for a calendar year that exceeds the basic rate of pay for General Schedule GS–15.
 
-&emsp;(1) Entry-level police officer—not more than the maximum rate payable for GS–6.
+(b) For the purpose of this section, the term “police forces of the Bureau of Engraving and Printing and the United States Mint” means the employees of the Department of the Treasury who are appointed, under the authority of the Secretary of the Treasury, as police officers for the protection of the Bureau of Engraving and Printing and the United States Mint buildings and property.
 
-&emsp;(2) Journeyman-level police officer—not more than the maximum rate payable for GS–7.
-
-&emsp;(3) Corporal—not more than the maximum rate payable for GS–8.
-
-&emsp;(4) Sergeant—not more than the maximum rate payable for GS–9.
-
-&emsp;(5) Lieutenant—not more than the maximum rate payable for GS–10.
-
-&emsp;(6) Deputy Inspector—not more than the maximum rate payable for GS–11.
-
-&emsp;(7) Inspector—not more than the maximum rate payable for GS–12.
-
-&emsp;(8) Chief—not more than the maximum rate payable for GS–14.
-
-(b) For the purpose of this section, the term “police forces of the Bureau of Engraving andPrinting and the United States Mint” means the employees of the Department of the Treasury who are appointed, under the authority of the Secretary of the Treasury, as police officers for the protection of the Bureau of Engraving and Printing and the United States Mint buildings and property.
-
-(Added Pub. L. 101–509, title V, §529 \[title I, §109(a)(1)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1451; amended Pub. L. 104–52, title V, §521, Nov. 19, 1995, 109 Stat. 494.)
+(Added Pub. L. 101–509, title V, §529 \[title I, §109(a)(1)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1451; amended Pub. L. 104–52, title V, §521, Nov. 19, 1995, 109 Stat. 494; Pub. L. 105–61, title I, §121, Oct. 10, 1997, 111 Stat. 1289.)
 
 #### References in Text
 
-GS–6 to GS–12 and GS–14, referred to in subsec. (a), are contained in the General Schedule which is set out under section 5332 of this title.
+The General Schedule, referred to in subsec. (a), is set out under section 5332 of this title.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–61 amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of pars. (1) to (8) providing maximum levels of General Schedule at which Secretary of the Treasury was to set basic rates of pay for positions in police forces of Bureau of Engraving and Printing and United States Mint.
 
 1995—Subsec. (a)(8). Pub. L. 104–52, which directed amendment of this section by adding par. (8), was executed by adding par. (8) at end of subsec. (a) to reflect the probable intent of Congress.
 

@@ -18,7 +18,7 @@ A prior section 11431, Pub. L. 100–77, title VII, §721, July 22, 1987, 101 St
 
 #### Effective Date
 
-Part effective July 1, 1995, see section 3(a)(3)(A) of Pub. L. 103–382, set out as an Effective Date of 1994 Amendment note under section 1411 of Title 20, Education.
+Section 3(a)(3)(A) of Pub. L. 103–382 provided that: “Parts A \[§§311–315, enacting former sections 1414a and1491a to 1491<i>o</i> of Title 20, Education, amending former section 1411 of Title 20, and enacting provisions set out as notes under former sections 1415 and 1484 and section 8921 of Title 20\] and B \[§§321–323, amending sections 11421 and 11431 to 11435 of this title\] of title III of this Act and the amendments made by such parts shall take effect on July 1, 1995.”
 
 #### Section Referred to in Other Sections
 

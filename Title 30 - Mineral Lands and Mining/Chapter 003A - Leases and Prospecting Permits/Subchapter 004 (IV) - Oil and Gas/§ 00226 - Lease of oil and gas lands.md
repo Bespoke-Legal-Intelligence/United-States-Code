@@ -126,7 +126,7 @@ The Secretary of the Interior, to avoid waste or to promote conservation of natu
 
 (B) This subsection shall only apply in the Allegheny National Forest.
 
-(Feb. 25, 1920, ch. 85, §17, 41 Stat. 443; July 3, 1930, ch. 854, §1, 46 Stat. 1007; Mar. 4, 1931, ch. 506, 46 Stat. 1523; Aug. 21, 1935, ch. 599, §1, 49 Stat. 676; Aug. 8, 1946, ch. 916, §3, 60 Stat. 951; July 29, 1954, ch. 644, §1(1)–(3), 68 Stat. 583; June 11, 1960, Pub. L. 86–507, §1(21), 74 Stat. 201; Sept. 2, 1960, Pub. L. 86–705, §2, 74 Stat. 781; Nov. 16, 1981, Pub. L. 97–78, §1(6), (8), 95 Stat. 1070, 1071; Dec. 22, 1987, Pub. L. 100–203, title V, §5102(a)–(d)(1), 101 Stat. 1330–256, 1330–257; Oct. 24, 1992, Pub. L. 102–486, title XXV, §§2507(a), 2508(a), 2509, 106 Stat. 3107–3109; Nov. 2, 1994, Pub. L. 103–437, §11(a)(1), 108 Stat. 4589; Dec. 21, 1995, Pub. L. 104–66, title I, §1081(a), 109 Stat. 721.)
+(Feb. 25, 1920, ch. 85, §17, 41 Stat. 443; July 3, 1930, ch. 854, §1, 46 Stat. 1007; Mar. 4, 1931, ch. 506, 46 Stat. 1523; Aug. 21, 1935, ch. 599, §1, 49 Stat. 676; Aug. 8, 1946, ch. 916, §3, 60 Stat. 951; July 29, 1954, ch. 644, §1(1)–(3), 68 Stat. 583; Pub. L. 86–507, §1(21), June 11, 1960, 74 Stat. 201; Pub. L. 86–705, §2, Sept. 2, 1960, 74 Stat. 781; Pub. L. 97–78, §1(6), (8), Nov. 16, 1981, 95 Stat. 1070, 1071; Pub. L. 100–203, title V, §5102(a)–(d)(1), Dec. 22, 1987, 101 Stat. 1330–256, 1330–257; Pub. L. 102–486, title XXV, §§2507(a), 2508(a), 2509, Oct. 24, 1992, 106 Stat. 3107–3109; Pub. L. 103–437, §11(a)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–66, title I, §1081(a), Dec. 21, 1995, 109 Stat. 721.)
 
 #### References in Text
 

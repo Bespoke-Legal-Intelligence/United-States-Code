@@ -2,7 +2,7 @@
 
 The Director of the United States Geological Survey, under the general supervision of the Secretary of the Interior, is authorized to acquire for the United States, by gift or devise, scientific or technical books, manuscripts, maps, and related materials, and to deposit the same in the library of the United States Geological Survey for reference and use as authorized by law.
 
-(May 14, 1940, ch. 190, 54 Stat. 212; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000.)
+(May 14, 1940, ch. 190, 54 Stat. 212; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
 #### Change of Name
 

@@ -50,5 +50,5 @@ A prior section 11706, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1452; Pub. L. 9
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 10502 of this title; title 28 sections 1337, 1445.
+This section is referred to in sections 10502, 24301 of this title; title 28 sections 1337, 1445.
 

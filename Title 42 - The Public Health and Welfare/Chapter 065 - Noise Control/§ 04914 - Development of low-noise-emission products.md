@@ -8,7 +8,7 @@ For the purpose of this section:
 
 &emsp;(2) The term “Federal Government” includes the legislative, executive, and judicial branches of the Government of the United States, and the government of the District of Columbia.
 
-&emsp;(3) The term “low-noise-emission product” means any product which emits noise in amounts significantly below the levels specified in noise emission standards under regulations applicable under section 4905 of this title at the time of procurement to that type of product.
+&emsp;(3) The term “low-noise-emission product” means any product which emits noise in amounts significantly below the levels specified in noise emission standards under regulations applicable under section 4905 of this titleat the time of procurement to that type of product.
 
 &emsp;(4) The term “retail price” means (A) the maximum statutory price applicable to any type of product; or (B) in any case where there is no applicable maximum statutory price, the most recent procurement price paid for any type of product.
 
@@ -24,7 +24,7 @@ For the purpose of this section:
 
 &emsp;(C) which he determines is suitable for use as a substitute for a type of product at that time in use by agencies of the Federal Government.
 
-(3) The Administrator may establish a Low-Noise-Emission Product Advisory Committee to assist him in determining which products qualify as low-noise-emission products for purposes of this section. The Committee shall include the Administrator or his designee, a representative of the National Institute of Standards and Technology, and representatives of such other Federal agencies and private individuals as the Administrator may deem necessary from time to time. Any member of the Committee not employed on a full-time basis by the United States may receive the daily equivalent of the annual rate of basic pay in effect for Grade GS–18 of the General Schedule for each day such member is engaged upon work of the Committee. Eachmember of the Committee shall be reimbursed for travel expenses, including per diem in lieu of subsistence as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+(3) The Administrator may establish a Low-Noise-Emission Product Advisory Committee to assist him in determining which products qualify as low-noise-emission products for purposes of this section. The Committee shall include the Administrator or his designee, a representative of the National Institute of Standards and Technology, and representatives of such other Federal agencies and private individuals as the Administrator may deem necessary from time to time. Any member of the Committee not employed on a full-time basis by the United States may receive the daily equivalent of the annual rate of basic pay in effect for Grade GS–18 of the General Schedule for each day such member is engaged upon work of the Committee. Each member of the Committee shall be reimbursed for travel expenses, including per diem in lieu of subsistence as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 (4) Certification under this section shall be effective for a period of one year from the date of issuance.
 
@@ -58,7 +58,7 @@ For the purpose of procuring certified low-noise-emission products any statutory
 
 #### (f) Tests of noise emissions from products purchased by Federal Government
 
-The Administrator shall, from time to time as he deems appropriate, test the emissions of noise from certified low-noise-emission products purchased by the Federal Government. If at any time he finds that the noise-emission levels exceed the levels on which certification under this section was based, the Administrator shall give the supplier of such product written notice of this finding, issue public notice of it, and give the supplier an opportunity to make necessary repairs, adjustments, or replacements. If no such repairs, adjustments, or replacements are made within a period to be set by the Administrator, he may order the supplier to show cause why the product involved should be eligible for recertification.
+The Administrator shall, from time to time as he deems appropriate, test the emissions of noise from certified low-noise-emission products purchased by the Federal Government. If at any time he finds that the noise-emission levels exceed the levels on which certification under this section was based, the Administrator shall give the supplier of such product written notice of this finding, issue public notice of it, and give the supplier an opportunity to make necessary repairs, adjustments, or replacements. If no such repairs, adjustments, or replacements are made within a period to be set by the Administrator, he may order the supplier to show causewhy the product involved should be eligible for recertification.
 
 #### (g) Authorization of appropriations
 

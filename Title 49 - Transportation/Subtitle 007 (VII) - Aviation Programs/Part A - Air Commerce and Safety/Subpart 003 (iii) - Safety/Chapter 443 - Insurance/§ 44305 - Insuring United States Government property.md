@@ -14,9 +14,9 @@ General.—With the approval of the President, a department, agency, or instrume
 
 (b)
 
-Premium Waivers and Indemnification.—With the approval required under subsection (a) of this section, the Secretary of Transportation may provide the insurance without premium at the request of the Secretary of Defense or the head of a department, agency, or instrumentality designated by the President when the Secretary of Defense or the designated head agrees to indemnify the Secretary of Transportation against all losses covered by the insurance. The Secretary of Defense and any designated head may make indemnity agreements with the Secretary of Transportation under this section.
+Premium Waivers and Indemnification.—With the approval required under subsection (a) of this section, the Secretary of Transportation may provide the insurance without premium at the request of the Secretary of Defense or the head of a department, agency, or instrumentality designated by the President when the Secretary of Defense or the designated head agrees to indemnify the Secretary of Transportation against all losses covered by the insurance. The Secretary of Defense and any designated head may make indemnity agreements with the Secretary of Transportation under this section. If such an agreement is countersigned by the President or the President's designee, the agreement shall constitute, for purposes of section 44302(b), a determination that continuation of the aircraft operations to which the agreement applies is necessary to carry out the foreign policy of the United States.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170; Pub. L. 105–137, §3, Dec. 2, 1997, 111 Stat. 2640.)
 
 Historical and Revision Notes
 
@@ -39,6 +39,10 @@ In this section, the words “a department, agency, or instrumentality” are su
 In subsection (a)(1), the words “obtain insurance under this chapter” are substituted for “procure from the Secretary any of the insurance provided under this subchapter” to eliminate unnecessary words. The words “overseas air commerce” are omitted for the reasons given in the revision note for section 40101.
 
 In subsection (b), the words “or the head of a department, agency, or instrumentality designated by the President” are substituted for “and such other agencies as the President may prescribe” as being more precise and for consistency in the revised title. The words “when the Secretary of Defense or the designated head agrees” are substituted for “in consideration of” for clarity. The words “any designated head” are substituted for “the agreement of . . . such agency” and “such other agencies” for clarity and because of the restatement.
+
+#### Amendments
+
+1997—Subsec. (b). Pub. L. 105–137 inserted at end “If such an agreement is countersigned by the President or the President's designee, the agreement shall constitute, for purposes of section 44302(b), a determination that continuation of the aircraft operations to which the agreement applies is necessary to carry out the foreign policy of the United States.”
 
 #### Section Referred to in Other Sections
 

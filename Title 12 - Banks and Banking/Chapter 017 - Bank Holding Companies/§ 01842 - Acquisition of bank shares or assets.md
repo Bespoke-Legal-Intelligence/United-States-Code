@@ -16,7 +16,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;(iv) the holding company will not acquire control of any additional bank as a result of the reorganization..<sup>1</sup>
 
-> The Board is authorized upon application by a bank to extend, from time to time for not more than one year at a time, the two-year period referred to above for disposing of any shares acquired by a bank in the regular course of securing or collecting a debt previously contracted in good faith, if, in the Board's judgment, such an extension would not be detrimental to the public interest, but no such extension shall in the aggregate exceed three years. For the purpose of the preceding sentence, bank shares acquired after December 31, 1970, shall not be deemed to have been acquired in good faith in a fiduciary capacity if the acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto, but in such instances acquisitions may be made without prior approval of the Board if the Board, upon application filed within ninety days after the shares are acquired, approves retention or, if retention is disapproved, the acquiring bank disposes of the shares or its sole discretionary voting rights within two years after issuance of the order of disapproval.
+> The Board is authorized upon application by a bank to extend, from time to time for not morethan one year at a time, the two-year period referred to above for disposing of any shares acquired by a bank in the regular course of securing or collecting a debt previously contracted in good faith, if, in the Board's judgment, such an extension would not be detrimental to the public interest, but no such extension shall in the aggregate exceed three years. For the purpose of the preceding sentence, bank shares acquired after December 31, 1970, shall not be deemed to have been acquired in good faith in a fiduciary capacity if the acquiring bank or company has sole discretionary authority to exercise voting rights with respect thereto, but in such instances acquisitions may be made without prior approval of the Board if the Board, upon application filed within ninety days after the shares are acquired, approves retention or, if retention is disapproved, the acquiring bank disposes of the shares or its sole discretionary voting rights within two years after issuance of the order of disapproval.
 
 #### (b) Application for approval; notice to Comptroller of Currency or State authority; views and recommendations; disapproval; hearing; order of Board; nonaction deemed grant of application; procedure in emergencies or probable failures requiring immediate Board action and orders
 
@@ -36,7 +36,7 @@ It shall be unlawful, except with the prior approval of the Board, (1) for any a
 
 &emsp;&emsp;(A) any acquisition or merger or consolidation under this section which would result in a monopoly, or which would be in furtherance of any combination or conspiracy to monopolize or to attempt to monopolize the business of banking in any part of the United States, or
 
-&emsp;&emsp;(B) any other proposed acquisition or merger or consolidation under this section whose effect in any section of the country may be substantially to lessen competition, or to tend to create a monopoly, or which in any other manner would be in restraint or <sup>4</sup> trade, unless it finds that the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served.
+&emsp;&emsp;(B) any other proposed acquisition or merger or consolidation under this section whose effect in any section of the country may be substantially to lessen competition, or to tend to create a monopoly, or which in any other manner would be in restraint or <sup>4</sup> trade, unless it finds that the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction inmeeting the convenience and needs of the community to be served.
 
 #### (2) Banking and community factors
 
@@ -178,7 +178,7 @@ Every bank that is a holding company and every bank that is a subsidiary of such
 
 &emsp;&emsp;&emsp;(ii) the bank holding company which controls such savings bank;
 
-&emsp;&emsp;(E) such activity is carried out by the savings bank in accordance with any residency or employment limitations set forth in the savings bank life insurance statute in effect on March 5, 1987, in the State in which such bank is located; and
+&emsp;&emsp;(E) such activity is carried out by the savings bank in accordance with any residencyor employment limitations set forth in the savings bank life insurance statute in effect on March 5, 1987, in the State in which such bank is located; and
 
 &emsp;&emsp;(F) such activity is otherwise carried out in the same manner as savings bank life insurance activity is carried out in the State in which such bank is located by savings banks which are not subsidiaries of any bank holding company registered under this chapter.
 
@@ -200,7 +200,7 @@ Every bank that is a holding company and every bank that is a subsidiary of such
 
 &emsp;A corporation organized as a holding company under this subsection shall be regulated on the same terms and be subject to the same limitations as any other holding company which controls a savings bank.
 
-(May 9, 1956, ch. 240, §3, 70 Stat. 134; July 1, 1966, Pub. L. 89–485, §7, 80 Stat. 237; Dec. 31, 1970, Pub. L. 91–607, title I, §102, 84 Stat. 1763; Nov. 16, 1977, Pub. L. 95–188, title III, §§301(a), 302, 91 Stat. 1388, 1389; Mar. 31, 1980, Pub. L. 96–221, title VII, §§712(b), (c), 713, 94 Stat. 189, 190; Oct. 15, 1982, Pub. L. 97–320, title I, §§118(c), 141(a)(4), title IV, §404(d)(2), 96 Stat. 1479, 1489, 1512; Aug. 10, 1987, Pub. L. 100–86, title I, §§101(d), 107(b), title V, §§502(h)(1), 509(a), 101 Stat. 561, 579, 628, 635; Aug. 9, 1989, Pub. L. 101–73, title VI, §602(b), 103 Stat. 409; Dec. 19, 1991, Pub. L. 102–242, title II, §§202(d), 210, 105 Stat. 2290, 2298; Sept. 23, 1994, Pub. L. 103–325, title III, §§319(a), 322(c)(1), 108 Stat. 2224, 2227; Sept. 29, 1994, Pub. L. 103–328, title I, §101(a), 108 Stat. 2339.)
+(May 9, 1956, ch. 240, §3, 70 Stat. 134; Pub. L. 89–485, §7, July 1, 1966, 80 Stat. 237; Pub. L. 91–607, title I, §102, Dec. 31, 1970, 84 Stat. 1763; Pub. L. 95–188, title III, §§301(a), 302, Nov. 16, 1977, 91 Stat. 1388, 1389; Pub. L. 96–221, title VII, §§712(b), (c), 713, Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title I, §§118(c), 141(a)(4), title IV, §404(d)(2), Oct. 15, 1982, 96 Stat. 1479, 1489, 1512; Pub. L. 100–86, title I, §§101(d), 107(b), title V, §§502(h)(1), 509(a), Aug. 10, 1987, 101 Stat. 561, 579, 628, 635; Pub. L. 101–73, title VI, §602(b), Aug. 9, 1989, 103 Stat. 409; Pub. L. 102–242, title II, §§202(d), 210, Dec. 19, 1991, 105 Stat. 2290, 2298; Pub. L. 103–325, title III, §§319(a), 322(c)(1), Sept. 23, 1994, 108 Stat. 2224, 2227; Pub. L. 103–328, title I, §101(a), Sept. 29, 1994, 108 Stat. 2339.)
 
 #### References in Text
 
@@ -268,7 +268,7 @@ No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under
 
 No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day before Oct. 8, 1986, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
 
-Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the dayafter Aug. 27, 1986, applicable as if included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
+Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day after Aug. 27, 1986, applicable as if included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
 
 #### Section Referred to in Other Sections
 

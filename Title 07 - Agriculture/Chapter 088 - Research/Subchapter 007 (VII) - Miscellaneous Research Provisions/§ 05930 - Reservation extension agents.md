@@ -10,7 +10,7 @@ Extension agents shall be employees of, and administratively responsible to, the
 
 #### (c) Advisory committees
 
-At the request of a State Extension Director, and with the assistance of the tribal authorities, the Secretary of Agriculture may form an advisory committee to give overall policy and program advice to that State Extension Directorwith regard to programs conducted on reservations or within tribal jurisdictions. Program advisory committees may be formed to assist extension staff in development and conduct of program activities.
+At the request of a State Extension Director, and with the assistance of the tribal authorities, the Secretary of Agriculture may form an advisory committee to give overall policy and program advice to that State Extension Director with regard to programs conducted on reservations or within tribal jurisdictions. Program advisory committees may be formed to assist extension staff in development and conduct of program activities.
 
 #### (d) Staffing
 

@@ -14,7 +14,7 @@
 
 (d) This section shall not apply to bankruptcy matters or other proceedings under Title 11.
 
-(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§107, 108, 63 Stat. 104; Nov. 6, 1978, Pub. L. 95–598, title II, §248, 92 Stat. 2672; Dec. 9, 1991, Pub. L. 102–198, §12, 105 Stat. 1627.)
+(June 25, 1948, ch. 646, 62 Stat. 963; May 24, 1949, ch. 139, §§107, 108, 63 Stat. 104; Pub. L. 95–598, title II, §248, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 102–198, §12, Dec. 9, 1991, 105 Stat. 1627.)
 
 #### Historical and Revision Notes
 
@@ -56,15 +56,15 @@ This amendment eliminates as surplusage the words “in any such action, suit or
 
 #### Amendments
 
-1991—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c), designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
+<b>1991</b>—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c), designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
 
 “In any action, suit or proceeding in admiralty, the notice of appeal shall be filed within ninety days after the entry of the order, judgment or decree appealed from, if it is a final decision, and within fifteen days after its entry if it is an interlocutory decree.
 
 “The district court may extend the time for appeal not exceeding thirty days from the expiration of the original time herein prescribed, upon a showing of excusable neglect based on failure of a party to learn of the entry of the judgment, order or decree.”
 
-1978—Pub. L. 95–598 directed the amendment of section by inserting “or the bankruptcy court” after “district court” and by striking out the final paragraph, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting “or the bankruptcy court” after “district court” and by striking out the final paragraph, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1949—Act May 24, 1949, restored, in third par., the 15-day limitation of time within which to appeal from an interlocutory order in admiralty, and in fourth par., substituted “The district court may” for “The district court, in any such action, suit, or proceeding, may” and corrected spelling of “excusable”.
+<b>1949</b>—Act May 24, 1949, restored, in third par., the 15-day limitation of time within which to appeal from an interlocutory order in admiralty, and in fourth par., substituted “The district court may” for “The district court, in any such action, suit, or proceeding, may” and corrected spelling of “excusable”.
 
 #### Federal Rules of Appellate Procedure
 

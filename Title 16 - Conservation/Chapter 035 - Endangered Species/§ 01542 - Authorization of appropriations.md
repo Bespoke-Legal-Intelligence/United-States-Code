@@ -12,7 +12,7 @@ Except as provided in subsections (b), (c), and (d) of this section, there are a
 
 #### (b) Exemptions
 
-There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections <sup>1</sup> 1536(e), (g), and (h) of this titlenot to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
+There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections <sup>1</sup> 1536(e), (g), and (h) of this title not to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
 
 #### (c) Convention implementation
 
@@ -24,7 +24,7 @@ There are authorized to be appropriated to the Department of the Interior for pu
 
 1988—Pub. L. 100–478 amended section generally, substituting provisions authorizing appropriations for fiscal years 1988 through 1992 for provisions authorizing appropriations for fiscal years 1983 through 1985.
 
-1982—Subsec. (a). Pub. L. 97–304 designated existing provisions as subsec. (a), and substituted provisions authorizing, except as provided in subsecs. (b), (c), and (d), appropriations of $27,000,000 for each of fiscal years 1983, 1984, and 1985 for the Department of the Interior, $3,500,000 for each of fiscal years 1983, 1984, and 1985 for the Department of Commerce, and $1,850,000 for each of fiscal years 1983, 1984, and 1985 for the Department of Agriculture, for provisions that, except as authorized in sections 1535 and 1536 of this title, had authorized appropriations of (1) not to exceed $23,000,000 for each of fiscal years 1979 and 1980, not to exceed $25,000,000 for fiscal year 1981, and not to exceed $27,000,000 for fiscal year 1982 to the Department of the Interior, (2) not to exceed $2,500,000 for each of fiscal years 1979 and 1980, not to exceed $3,000,000 for fiscal year 1981, and not to exceed $3,500,000 for fiscal year 1982 to the Department of Commerce, and (3) not to exceed $1,500,000 for fiscal year 1980, not to exceed $1,750,000 for fiscal year 1981, and not to exceed $1,850,000 for fiscal year 1982 to the Department of Agriculture.
+1982—Subsec. (a). Pub. L. 97–304 designated existing provisions as subsec. (a), and substituted provisions authorizing, except as provided in subsecs. (b), (c), and (d), appropriations of $27,000,000 for each of fiscal years 1983, 1984, and 1985 for the Department of the Interior, $3,500,000 for each of fiscal years 1983, 1984, and 1985 for the Department of Commerce, and $1,850,000 for each of fiscal years 1983, 1984, and 1985 for the Department of Agriculture, for provisions that, except as authorized in sections 1535 and 1536 of this title, had authorized appropriations of (1) not to exceed $23,000,000 for each of fiscal years 1979 and 1980, not to exceed $25,000,000 for fiscal year 1981, and not to exceed $27,000,000 for fiscal year 1982 to the Department of the Interior, (2) not toexceed $2,500,000 for each of fiscal years 1979 and 1980, not to exceed $3,000,000 for fiscal year 1981, and not to exceed $3,500,000 for fiscal year 1982 to the Department of Commerce, and (3) not to exceed $1,500,000 for fiscal year 1980, not to exceed $1,750,000 for fiscal year 1981, and not to exceed $1,850,000 for fiscal year 1982 to the Department of Agriculture.
 
 Subsecs. (b) to (d). Pub. L. 97–304 added subsecs. (b) to (d).
 

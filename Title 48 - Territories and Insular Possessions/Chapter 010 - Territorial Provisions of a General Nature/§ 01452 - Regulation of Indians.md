@@ -14,5 +14,5 @@ R.S. §1840 derived from N.M., act Sept. 9, 1850, ch. 49, §2, 9 Stat. 447. Utah
 
 #### Amendments
 
-1983—Pub. L. 98–213 inserted provisions excluding from the term “Territory” the Virgin Islands, Puerto Rico, American Samoa, Guam, or the Northern Mariana Islands.
+1983—Pub. L. 98–213 inserted provisions excluding from the term “Territory” the Virgin Islands, PuertoRico, American Samoa, Guam, or the Northern Mariana Islands.
 

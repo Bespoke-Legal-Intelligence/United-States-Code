@@ -1,6 +1,6 @@
 ### §7473. Employment of aliens
 
-Laws prohibiting payment of compensation to a person who is not a citizen of the UnitedStates do not apply to a person whose employment by the Department of the Navy is determined by the Secretary of the Navy to be necessary to obtain for the armed forces the benefits of the special technical or scientific knowledge or experience possessed by that person and not readily obtainable from a citizen.
+Laws prohibiting payment of compensation to a person who is not a citizen of the United States do not apply to a person whose employment by the Department of the Navy is determined by the Secretary of the Navy to be necessary to obtain for the armed forces the benefits of the special technical or scientific knowledge or experience possessed by that person and not readily obtainable from a citizen.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 462.)
 

@@ -26,7 +26,7 @@ As used in titles I through VI of this Act—
 
 (<i>l</i>) The term “motor vehicle” means any vehicle, self-propelled or drawn by mechanical power, designed and operated principally for highway transportation of property or passengers, exclusive of any vehicle designed or used for military field training, combat, or tactical purposes, or used principally within the confines of a regularly established military post, camp, or depot, and any vehicle regularly used by an agency in the performance of investigative, law enforcement, or intelligence duties if the head of such agency determines that exclusive control of such vehicle is essential to the effective performance of such duties.
 
-(June 30, 1949, ch. 288, §3, 63 Stat. 378; Sept. 5, 1950, ch. 849, §§7(a), 8(a), 64 Stat. 590, 591; July 12, 1952, ch. 703, §1(a), (b), 66 Stat. 593; Sept. 1, 1954, ch. 1211, §4(c), 68 Stat. 1129; Aug. 12, 1955, ch. 874, §2, 69 Stat. 722; Feb. 28, 1958, Pub. L. 85–337, §5, 72 Stat. 29; June 25, 1959, Pub. L. 86–70, §30(a), 73 Stat. 148; July 12, 1960, Pub. L. 86–624, §27(a), 74 Stat. 418; Jan. 2, 1975, Pub. L. 93–594, 88 Stat. 1926.)
+(June 30, 1949, ch. 288, §3, 63 Stat. 378; Sept. 5, 1950, ch. 849, §§7(a), 8(a), 64 Stat. 590, 591; July 12, 1952, ch. 703, §1(a), (b), 66 Stat. 593; Sept. 1, 1954, ch. 1211, §4(c), 68 Stat. 1129; Aug. 12, 1955, ch. 874, §2, 69 Stat. 722; Pub. L. 85–337, §5, Feb. 28, 1958, 72 Stat. 29; Pub. L. 86–70, §30(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, §27(a), July 12, 1960, 74 Stat. 418; Pub. L. 93–594, Jan. 2, 1975, 88 Stat. 1926.)
 
 #### References in Text
 
@@ -76,5 +76,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 762 of this title; title 10 section 2667; title 15 section 278g–3; title 20 section 3479; title 31 section 3551; title 41 section 423; title 42 sections 7259, 11411; title 43 section 1702; title 44 section 2901; title 50 section 167a.
+This section is referred to in section 762 of this title; title 10 sections 2667, 2667a; title 15 section 278g–3; title 20 section 3479; title 31 section 3551; title 41 section 423; title 42 sections 7259, 11411; title 43 section 1702; title 44 section 2901.
 

@@ -2,7 +2,7 @@
 
 The Chief of Engineers is authorized to transfer for playground purposes the possession, use, and control of all that portion of the land of the Washington Aqueduct adjacent to the Champlain Avenue pumping station and lying outside of the fence around said pumping station existing on August 31, 1918, to the control and jurisdiction of the Mayor of the District of Columbia. Nothing in this section shall be construed as affecting the superintendence and control of the Secretary of the Army over the Washington Aqueduct, its rights, appurtenances, and fixtures connected with the same.
 
-(Aug. 31, 1918, ch. 164, 40 Stat. 951; 1967 Reorg. Plan No. 3, §401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Dec. 24, 1973, Pub. L. 93–198, title IV, §421, 87 Stat. 789.)
+(Aug. 31, 1918, ch. 164, 40 Stat. 951; 1967 Reorg. Plan No. 3, §401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789.)
 
 #### Codification
 

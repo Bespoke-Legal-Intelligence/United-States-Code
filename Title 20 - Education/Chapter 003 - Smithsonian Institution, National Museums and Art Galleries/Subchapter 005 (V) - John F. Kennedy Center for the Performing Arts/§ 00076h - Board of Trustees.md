@@ -18,7 +18,7 @@ The general trustees shall be appointed by the President of the United States. E
 
 There shall be an Advisory Committee on the Arts composed of such members as the President of the United States may designate, to serve at the pleasure of the President. Persons appointed to the Advisory Committee on the Arts, including officers or employees of the United States, shall be persons who are recognized for their knowledge of, or experience or interest in, one or more of the arts in the fields covered by the John F. Kennedy Center for the Performing Arts. The President shall designate the Chairman of the Advisory Committee on the Arts. In making such appointments the President shall give consideration to such recommendations as may from time to time be submitted to him by leading national organizations in the appropriate art fields. The Advisory Committee on the Arts shall advise and consult with the Board and make recommendations to the Board regarding existing and prospective cultural activities to be carried out by the John F. Kennedy Center for the Performing Arts. The Advisory Committee on the Arts shall assist the Board in carrying out section 76k(a) of this title. Members of the Advisory Committee on the Arts shall serve without compensation.
 
-(Pub. L. 85–874, §2, Sept. 2, 1958, 72 Stat. 1698; Pub. L. 88–100, §§1, 2, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; 1967 Reorg. Plan No. 3, §401, eff. Aug. 11, 1967, 81 Stat. 951; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789; 1977 Reorg. Plan No. 2, §7(b), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 96–88, title III, §301(a)(1), title V, §§507, 509(b), Oct. 17, 1979, 93 Stat. 677, 692, 695; Pub. L. 97–241, title III, §303(b),Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–279, §2(b)(1), (c), (d), July 21, 1994, 108 Stat. 1409, 1410.)
+(Pub. L. 85–874, §2, Sept. 2, 1958, 72 Stat. 1698; Pub. L. 88–100, §§1, 2, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; 1967 Reorg. Plan No. 3, §401, eff. Aug. 11, 1967, 81 Stat. 951; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789; 1977 Reorg. Plan No. 2, §7(b), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 96–88, title III, §301(a)(1), title V, §§507, 509(b), Oct. 17, 1979, 93 Stat. 677, 692, 695; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–279, §2(b)(1), (c), (d), July 21, 1994, 108 Stat. 1409, 1410.)
 
 #### Amendments
 
@@ -54,6 +54,10 @@ Superintendent of schools of the district of columbia.—The amendment made by p
 
 Members of congress.—The amendment made by paragraph (1)(C)(ii) \[amending this section\] shall take effect on the date of enactment of this Act.”
 
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–95, §1, Nov. 19, 1997, 111 Stat. 2148, provided that: “This Act \[amending sections 76i to 76k and 76s of this title and section 193v of Title 40, Public Buildings, Property, and Works\] may be cited as the ‘John F. Kennedy Center Parking Improvement Act of 1997’.”
+
 #### Short Title of 1994 Amendment
 
 Section 1 of Pub. L. 103–279 provided that: “This Act \[enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76<i>l</i>, and 76p of this title, and sections 193r, 193u, and 193v of Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
@@ -64,7 +68,7 @@ Pub. L. 98–473, title I, §101(c), Oct. 12, 1984, 98 Stat. 1837, 1876, provide
 
 #### Short Title of 1963 Amendment
 
-Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section and sections 76<i>l</i> and 76m of this title\] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
+Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section and sections 76<i>l</i> and 76m of thistitle\] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
 
 #### Short Title
 

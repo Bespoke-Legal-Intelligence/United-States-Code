@@ -34,11 +34,11 @@ Section 1 of Pub. L. 87–293 provided that: “This Act \[enacting this chapter
 
 #### Executive Order No. 10924
 
-Ex. Ord. No. 10924, Mar. 1, 1961, 26 F.R. 1789, relating to the establishment and administration of the Peace Corps, was superseded by Ex. Ord. No. 11041, Aug. 6, 1962, 27 F.R. 7859, set out below.
+Ex. Ord. No. 10924, Mar. 1, 1961, 26 F.R. 1789, relating to the establishment and administration of the Peace Corps, was superseded by Ex. Ord. No. 11041, Aug. 6, 1962, 27 F.R. 7859, formerly set out below.
 
 #### Executive Order No. 11041
 
-Ex. Ord. No. 11041, Aug. 7, 1962, 27 F.R. 7859, as amended by Ex. Ord. No. 11250, Oct. 10, 1965, 30 F.R. 13003, which provided for the continuance and administration of the Peace Corps in the Department of State, was superseded by Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, set out below.
+Ex. Ord. No. 11041, Aug. 7, 1962, 27 F.R. 7859, as amended by Ex. Ord. No. 11250, Oct. 10, 1965, 30 F.R. 13003, which provided for the continuance and administration of the Peace Corps in the Department of State, was superseded by Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, formerly set out below.
 
 #### Executive Order No. 11603
 
@@ -46,7 +46,7 @@ Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, as amended by Ex. Ord. No. 121
 
 #### Ex. Ord. No. 12137. Administration of Peace Corps as an Agency Within ACTION
 
-Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769; Ex.Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, provided:
+Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, provided:
 
 By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U.S.C. 2501–2523) and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
@@ -54,7 +54,7 @@ By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U
 
 Peace Corps
 
-1–101. The Peace Corps, which was established as an agency in the Department of State pursuant to Executive Order No. 10924 of March 1, 1961 (26 FR 1789) \[formerly set out under this section\], which was continued in existence in that Department under the Peace Corps Act (the “Act”) \[this chapter\] pursuant to Section 102 of Executive Order No. 11041 of August 6, 1962 (27 FR 7859) \[formerly set out under this section\], and which was transferred to and continued as a component of ACTION \[now Corporation for National and Community Service\] by Executive Order No. 11603 of June 30, 1971 (36 FR 12675) \[formerly set out under this section\], shall be an agency within ACTION pursuant to the provisions of this Order.
+1–101. The Peace Corps, which was established as an agency in the Department of State pursuant to Executive Order No. 10924 of March 1, 1961 (26 FR 1789) \[formerly set out under this section\], which was continued in existence in that Department under the Peace Corps Act (the “Act”) \[this chapter\] pursuant to Section 102 of Executive Order No. 11041 of August 6, 1962 (27 FR 7859) \[formerly set out under this section\], and which was transferred to and continued as a component of ACTION \[now Corporation for National and CommunityService\] by Executive Order No. 11603 of June 30, 1971 (36 FR 12675) \[formerly set out under this section\], shall be an agency within ACTION pursuant to the provisions of this Order.
 
 1–102. All references to the “Director” in Part 1–1 of this Order shall refer to the Director of the Peace Corps for whom provision is made in Section 4(a) of the Act (22 U.S.C. 2503).
 
@@ -64,7 +64,7 @@ Peace Corps
 
 1–105. The functions of prescribing regulations and making determinations (relating to appointment of Peace Corps employees in the Foreign Service System), conferred upon the President by Section 5 of Public Law 89–135 (79 Stat. 551) \[probably means section 5(b) of Pub. L. 89–134, Aug. 24, 1965, 79 Stat. 551, set out as a note under section 2506 of this title\], are hereby delegated to the Director.
 
-1–106. The functions of prescribing conditions, conferred upon the President by the second sentence of Section 5(e), as amended (22 U.S.C. 2504(e)), and thethird proviso of Section 6 of the Act (22 U.S.C. 2505) (relating to providing health care in Government facilities) and hereinabove delegated to the Director, shall be exercised in consultation with the head of the United States Government agency responsible for the facility.
+1–106. The functions of prescribing conditions, conferred upon the President by the second sentence of Section 5(e), as amended (22 U.S.C. 2504(e)), and the third proviso of Section 6 of the Act (22 U.S.C. 2505) (relating to providing health care in Government facilities) and hereinabove delegated to the Director, shall be exercised in consultation with the head of the United States Government agency responsible for the facility.
 
 1–107. The reports required by Section 11 of the Act, as amended (22 U.S.C. 2510), shall be prepared by the Director and submitted to the Congress through the President.
 
@@ -130,7 +130,7 @@ Director of ACTION
 
 (d) Make grants of seed money, as authorized by law, for stimulating the development or deployment of innovative voluntary action programs directed toward community problems.
 
-1–602. The head of each Federal department and agency, or a designated representative, when so requested by the Director of ACTION or the Director of the Peace Corps, shall, to the extent permitted by law and funds available, furnish information and assistance, and participate in all ways appropriate to carry out the objectives of this Order, the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq.\] and Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\].
+1–602. The head of each Federal department and agency, or a designated representative, when so requestedby the Director of ACTION or the Director of the Peace Corps, shall, to the extent permitted by law and funds available, furnish information and assistance, and participate in all ways appropriate to carry out the objectives of this Order, the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq.\] and Reorganization Plan No. 1 of 1971 \[5 U.S.C. App.\].
 
 1–603. The head of each Federal department or agency shall, when so requested by the Director of ACTION, designate a senior official to have primary and continuing responsibility for the participation and cooperation of that department or agency in matters concerning voluntary action.
 

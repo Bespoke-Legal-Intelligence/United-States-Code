@@ -12,7 +12,7 @@
 
 (d) Any civil action under section 2409a to quiet title to an estate or interest in real property in which an interest is claimed by the United States shall be brought in the district court of the district where the property is located or, if located in different districts, in any of such districts.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; Sept. 2, 1958, Pub. L. 85–920, 72 Stat. 1770; Nov. 2, 1966, Pub. L. 89–719, title II, §202(b), 80 Stat. 1149; Oct. 25, 1972, Pub. L. 92–562, §2, 86 Stat. 1176; Apr. 2, 1982, Pub. L. 97–164, title I, §131, 96 Stat. 39.)
+(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 85–920, Sept. 2, 1958, 72 Stat. 1770; Pub. L. 89–719, title II, §202(b), Nov. 2, 1966, 80 Stat. 1149; Pub. L. 92–562, §2, Oct. 25, 1972, 86 Stat. 1176; Pub. L. 97–164, title I, §131, Apr. 2, 1982, 96 Stat. 39.)
 
 #### Historical and Revision Notes
 
@@ -28,13 +28,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–164 inserted “in a district court” after “civil action” in introductory provisions preceding par. (1). The phrase “civil action” also appeared in par. (2), but no change was made to reflect the probable intent of Congress as indicated on page 79 of House Report No. 97–312.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 inserted “in a district court” after “civil action” in introductory provisions preceding par. (1). The phrase “civil action” also appeared in par. (2), but no change was made to reflect the probable intent of Congress as indicated on page 79 of House Report No. 97–312.
 
-1972—Subsec. (d). Pub. L. 92–562 added subsec. (d).
+<b>1972</b>—Subsec. (d). Pub. L. 92–562 added subsec. (d).
 
-1966—Subsec. (c). Pub. L. 89–719 added subsec. (c).
+<b>1966</b>—Subsec. (c). Pub. L. 89–719 added subsec. (c).
 
-1958—Subsec. (a). Pub. L. 85–920 provided for venue and change of venue in tax refund suits by corporation.
+<b>1958</b>—Subsec. (a). Pub. L. 85–920 provided for venue and change of venue in tax refund suits by corporation.
 
 #### Effective Date of 1982 Amendment
 

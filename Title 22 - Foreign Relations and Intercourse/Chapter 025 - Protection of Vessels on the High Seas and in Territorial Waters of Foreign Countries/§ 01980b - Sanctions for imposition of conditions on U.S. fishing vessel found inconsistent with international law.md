@@ -16,5 +16,5 @@ For the purposes of this section, the term “fishing vessel” has the meaning 
 
 It is the sense of the Congress that any action taken by any Federal agency under subsection (b) of this section should be commensurate with any conditions certified by the Secretary of State under subsection (a) of this section.
 
-(Aug. 27, 1954, ch. 1018, §12, as added Nov. 3, 1995, Pub. L. 104–43, title IV, §402(b), 109 Stat. 390.)
+(Aug. 27, 1954, ch. 1018, §12, as added Pub. L. 104–43, title IV, §402(b), Nov. 3, 1995, 109 Stat. 390.)
 

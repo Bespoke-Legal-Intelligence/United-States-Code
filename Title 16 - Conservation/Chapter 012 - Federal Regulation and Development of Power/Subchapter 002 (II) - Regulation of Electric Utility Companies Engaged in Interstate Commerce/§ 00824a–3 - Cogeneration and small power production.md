@@ -34,7 +34,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 #### (e) Exemptions
 
-(1) Not later than 1 year after November 9, 1978, and from time to time thereafter, the Commission shall, after consultation with representatives of State regulatory authorities, electric utilities, owners of cogeneration facilities and owners of small power production facilities, and after public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments, prescribe rules under which geothermal small power production facilities of not more than 80 megawatts capacity, qualifying cogeneration facilities, and qualifying small power production facilities are exempted in whole or part from the Federal Power Act \[16 U.S.C. 791a et seq.\], from the Public Utility Holding Company Act \[15 U.S.C. 79 et seq.\], from State laws and regulations respecting the rates, or respecting the financial or organizational regulation, of electric utilities, or from any combination of the foregoing, if the Commission determines such exemption is necessary to encourage cogeneration and small power production.
+(1) Not later than 1 year after November 9, 1978, and from time to time thereafter, the Commission shall, after consultation with representatives of State regulatory authorities, electric utilities, owners of cogeneration facilities and owners of small power production facilities, andafter public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments, prescribe rules under which geothermal small power production facilities of not more than 80 megawatts capacity, qualifying cogeneration facilities, and qualifying small power production facilities are exempted in whole or part from the Federal Power Act \[16 U.S.C. 791a et seq.\], from the Public Utility Holding Company Act \[15 U.S.C. 79 et seq.\], from State laws and regulations respecting the rates, or respecting the financial or organizational regulation, of electric utilities, or from any combination of the foregoing, if the Commission determines such exemption is necessary to encourage cogeneration and small power production.
 
 (2) No qualifying small power production facility (other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act \[16 U.S.C. 796(17)(E)\]) which has a power production capacity which, together with any other facilities located at the same site (as determined by the Commission), exceeds 30 megawatts, or 80 megawatts for a qualifying small power production facility using geothermal energy as the primary energy source, may be exempted under rules under paragraph (1) from any provision of law or regulation referred to in paragraph (1), except that any qualifying small power production facility which produces electric energy solely by the use of biomass as a primary energy source, may be exempted by the Commission under such rules from the Public Utility Holding Company Act \[15 U.S.C. 79 et seq.\] and from State laws and regulations referred to in such paragraph (1).
 
@@ -50,7 +50,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 (1) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each State regulatory authority shall, after notice and opportunity for public hearing, implement such rule (or revised rule) for each electric utility for which it has ratemaking authority.
 
-(2) Beginning on or before the date one year after any rule is prescribed by the Commissionunder subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
+(2) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
 
 #### (g) Judicial review and enforcement
 
@@ -92,7 +92,7 @@ Except for a hydroelectric project located at a Government dam (as defined in se
 
 #### (3) Fish and wildlife terms and conditions
 
-&emsp;The project meets the terms and conditions set by fish and wildlife agencies under thesame procedures as provided for under section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\].
+&emsp;The project meets the terms and conditions set by fish and wildlife agencies under the same procedures as provided for under section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\].
 
 #### (k) “New dam or diversion” defined
 

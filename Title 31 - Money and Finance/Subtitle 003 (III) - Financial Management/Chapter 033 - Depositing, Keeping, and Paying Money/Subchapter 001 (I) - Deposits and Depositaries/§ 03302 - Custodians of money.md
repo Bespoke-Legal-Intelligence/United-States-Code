@@ -86,7 +86,7 @@ Subsection (d) is substituted for 31:490 for clarity and consistency.
 
 In subsection (e), the words “official or agent having custody or possession of public money” are substituted for “persons charged by law with the safekeeping, transfer, and disbursements of the public moneys” for consistency and to eliminate unnecessary words. The words “other than those connected with the United States Postal Service” are omitted as superseded by title 39.
 
-In subsection (f), the word “expressly” is omitted as surplus. The words “official or agent having custody or possession” are substituted for 31:545(words before 21st comma) for consistency and to eliminate unnecessary words. The words “additional . . . fireproof of chests or vaults or other necessary expenses of” are omitted as surplus. The words “employ or pay officers and employees of the Government” are substituted for “clerical services or payment of employees of any nature orgrade” for consistency in the revised title and with other titles of the United States Code.
+In subsection (f), the word “expressly” is omitted as surplus. The words “official or agent having custody or possession” are substituted for 31:545(words before 21st comma) for consistency and to eliminate unnecessary words. The words “additional . . . fireproof of chests or vaults or other necessary expenses of” are omitted as surplus. The words “employ or pay officers and employees of the Government” are substituted for “clerical services or payment of employees of any nature or grade” for consistency in the revised title and with other titles of the United States Code.
 
 1983
 
@@ -132,7 +132,7 @@ Section 2652(b)(2) of Pub. L. 98–369 provided that: “The amendments made by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 327, 3322, 3711, 3718, 3720 of this title; title 8 sections 1254a, 1363a; title 10 sections 114, 423, 7605; title 12 section 4241; title 15 sections 1527a, 2514; title 18 section 1963; title 19 sections 1631, 2081; title 22 sections 1475e, 4226; title 26 section 7608; title 28 sections 1827, 1921; title 38 section 3720; title 42 sections 1973gg–10, 2169, 5812, 7651<i>o</i>; title 43 section 1338a.
+This section is referred to in sections 327, 3322, 3711, 3718, 3720 of this title; title 7 section 2016; title 8 sections 1254a, 1363a; title 10 sections 114, 423, 2410m, 7605; title 12 section 4241; title 15 sections 1527a, 2514; title 18 section 1963; title 19 sections 1631, 2081; title 22 sections 1475e, 4226; title 26 section 7608; title 28 sections 1827, 1921; title 38 section 3720; title 42 sections 1973gg–10, 2169, 5812, 7651<i>o</i>; title 43 section 1338a; title 49 section 45303.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -138,7 +138,7 @@ Exemptions.—The preparation, solicitation, and award of salvage timber sales u
 
 &emsp;&emsp;“(C)
 
-Incentive payment recipients; report.—The provisions of section 3(d)(1) of the Federal Workforce Restructuring Act of 1994 (Public Law 103–226; 5 U.S.C. 5597 note) shall not apply to any former employee of the Secretary concerned who received a voluntary separation incentive payment authorized by such Act \[Pub. L. 103–226, see Short Title of 1994 Amendment note set out under section 2101 of Title 5, Government Organization and Employees\] and accepts employment pursuant to this paragraph. The Director of the Office of Personnel Management and the Secretary concerned shall provide a summary report to the appropriate committees of Congress, the Committee on Government Reform and Oversight of the House of Representatives, and the Committee on Governmental Affairs of the Senate regarding the number of incentive payment recipients who were rehired, their terms of reemployment, their job classifications, and an explanation, in the judgment of the agencies involved of how such reemployment without repayment of the incentive payments received is consistent with the original waiver provisions of such Act. This report shall not be conducted in a manner that would delay the rehiring of any former employees under this paragraph, or affect the normal confidentiality of Federal employees.
+Incentive payment recipients; report.—The provisions of section 3(d)(1) of the FederalWorkforce Restructuring Act of 1994 (Public Law 103–226; 5 U.S.C. 5597 note) shall not apply to any former employee of the Secretary concerned who received a voluntary separation incentive payment authorized by such Act \[Pub. L. 103–226, see Short Title of 1994 Amendment note set out under section 2101 of Title 5, Government Organization and Employees\] and accepts employment pursuant to this paragraph. The Director of the Office of Personnel Management and the Secretary concerned shall provide a summary report to the appropriate committees of Congress, the Committee on Government Reform and Oversight of the House of Representatives, and the Committee on Governmental Affairs of the Senate regarding the number of incentive payment recipients who were rehired, their terms of reemployment, their job classifications, and an explanation, in the judgment of the agencies involved of how such reemployment without repayment of the incentive payments received is consistent with the original waiver provisions of such Act. This report shall not be conducted in a manner that would delay the rehiring of any former employees under this paragraph, or affect the normal confidentiality of Federal employees.
 
 &emsp;“(6)
 
@@ -186,7 +186,7 @@ Standard of review.—The courts shall have authority to enjoin permanently, ord
 
 &emsp;“(5)
 
-Time for decision.—Civil actions filed under this subsection shall be assigned for hearing at the earliest possible date. The court shall render its final decision relative to any challenge within 45 days from the date such challenge is brought, unless the courtdetermines that a longer period of time is required to satisfy the requirement of the United States Constitution. In order to reach a decision within 45 days, the district court may assign all or part of any such case or cases to one or more Special Masters, for prompt review and recommendations to the court.
+Time for decision.—Civil actions filed under this subsection shall be assigned for hearing at the earliest possible date. The court shall render its final decision relative to any challenge within 45 days from the date such challenge is brought, unless the court determines that a longer period of time is required to satisfy the requirement of the United States Constitution. In order to reach a decision within 45 days, the district court may assign all or part of any such case or cases to one or more Special Masters, for prompt review and recommendations to the court.
 
 &emsp;“(6)
 
@@ -212,7 +212,7 @@ Description of excluded lands.—The lands referred to in paragraph (1) are as f
 
 &emsp;&emsp;“(B) Any roadless area on Federal lands designated by Congress for wilderness study in Colorado or Montana.
 
-&emsp;&emsp;“(C) Any roadless area on Federal lands recommended by the Forest Service or Bureau of Land Management for wilderness designation in its most recent land management plan in effect as of the date of the enactment of this Act \[July 27, 1995\].
+&emsp;&emsp;“(C) Any roadless area on Federal lands recommended by the Forest Service or Bureau of LandManagement for wilderness designation in its most recent land management plan in effect as of the date of the enactment of this Act \[July 27, 1995\].
 
 &emsp;&emsp;“(D) Any area on Federal lands on which timber harvesting for any purpose is prohibited by statute.
 

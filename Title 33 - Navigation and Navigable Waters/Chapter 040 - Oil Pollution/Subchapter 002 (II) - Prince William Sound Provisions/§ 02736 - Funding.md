@@ -2,7 +2,7 @@
 
 #### (a) Sections 2731, 2733, and 2734
 
-Amounts in the Fund shall be available, without further appropriations and without fiscal year limitation, to carry out section 2731 of this title in the amount as determined in subsection (b) of this section, and to carry out sections 2733 and 2734 of this title, in an amount not to exceed $5,000,000.
+Amounts in the Fund shall be available, without further appropriations and without fiscal year limitation, to carry out section 2731 of this title in the amount as determined in subsection (b) of this section, and to carry out sections 2733and 2734 of this title, in an amount not to exceed $5,000,000.
 
 #### (b) Use of interest only
 

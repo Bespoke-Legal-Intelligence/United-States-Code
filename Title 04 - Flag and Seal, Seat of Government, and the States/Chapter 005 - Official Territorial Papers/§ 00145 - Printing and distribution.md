@@ -10,7 +10,7 @@
 
 (b) The historical associations, commissions, museums, or libraries and other nondepository libraries within each State, Territory, or Possession which have been or may be designated by the Governor thereof to receive the publications referred to in subsection (a) of this section, shall, during their existence, receive the succeeding volumes, the distribution of which shall be made by the Superintendent of Documents in accordance with lists of designations transmitted to him by the Archivist. A new designation may be made to the Archivist by the Governor only when a designated association, commission, museum, or library shall cease to exist, or when authorized by law.
 
-(Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 714; amended Oct. 19, 1984, Pub. L. 98–497, title I, §107(f), 98 Stat. 2292.)
+(Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 714; amended Pub. L. 98–497, title I, §107(f), Oct. 19, 1984, 98 Stat. 2292.)
 
 #### Amendments
 

@@ -22,7 +22,7 @@ No funds may be provided under any contract entered into under the Indian Self-D
 
 #### (d) Transfers and carryovers
 
-(1) A tribe or tribal organization assuming the operation of a Bureau school with assistanceunder this chapter shall be entitled to the transfer or use of buildings, equipment, supplies, and materials to the same extent as if it were contracting under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+(1) A tribe or tribal organization assuming the operation of a Bureau school with assistance under this chapter shall be entitled to the transfer or use of buildings, equipment, supplies, and materials to the same extent as if it were contracting under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 (2) A tribe or tribal organization assuming the operation of a contract school with assistance under this chapter shall be entitled to the transfer or use of the buildings, equipment, supplies, and materials that were used in the operation of the contract school to the same extent as if it were contracting under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 

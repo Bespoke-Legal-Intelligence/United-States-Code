@@ -6,7 +6,7 @@ General.—In this chapter—
 
 &emsp;(1) “existing liquefied natural gas facility”—
 
-&emsp;&emsp;(A) means a liquefied natural gas facility for which an application to approve the site, construction, or operation of the facility was filed before March 1, 1978, with—
+&emsp;&emsp;(A) means a liquefied natural gas facility for which an application to approve the site,construction, or operation of the facility was filed before March 1, 1978, with—
 
 &emsp;&emsp;&emsp;(i) the Federal Energy Regulatory Commission (or any predecessor); or
 
@@ -54,7 +54,7 @@ General.—In this chapter—
 
 &emsp;(9) “intrastate gas pipeline facility” means—
 
-&emsp;&emsp;(A) a gas pipeline facility and transportation of gas within a State not subject tothe jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); and
+&emsp;&emsp;(A) a gas pipeline facility and transportation of gas within a State not subject to the jurisdiction of the Commission under the Natural Gas Act (15 U.S.C. 717 et seq.); and
 
 &emsp;&emsp;(B) a gas pipeline facility transporting gas from an interstate gas pipeline in a State to a direct sales customer in that State buying gas for its own consumption;
 
@@ -128,7 +128,7 @@ Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall p
 
 #### Amendment of Subsection (a)(21) and (22)
 
-<i>Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that, effective on the date the regulations required under subsec. (b) of this</i><i>section are effective, subsection (a)(21) and (22) of this section is amended to read as follows:</i>
+<i>Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that, effective on the date the regulations required under subsec. (b) of this section are effective, subsection (a)(21) and (22) of this section is amended to read as follows:</i>
 
 (21) “transporting gas”—
 

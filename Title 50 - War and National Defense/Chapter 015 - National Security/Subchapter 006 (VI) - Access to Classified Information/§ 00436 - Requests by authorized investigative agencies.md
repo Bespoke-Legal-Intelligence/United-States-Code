@@ -58,7 +58,7 @@ An agency receiving records or information pursuant to a request under this sect
 
 Nothing in this section may be construed to affect the authority of an investigative agency to obtain information pursuant to the Right to Financial Privacy Act (12 U.S.C. 3401 et seq.) or the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
 
-(July 26, 1947, ch. 343, title VIII, §802, as added Oct. 14, 1994, Pub. L. 103–359, title VIII, §802(a), 108 Stat. 3436.)
+(July 26, 1947, ch. 343, title VIII, §802, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994, 108 Stat. 3436.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 The Architect of the Capitol shall have charge of all structural work at the Library of Congress buildings and grounds (as defined in section 167j of this title), including all necessary repairs, the operation, maintenance, and repair of the mechanical plant and elevators, the care and maintenance of the grounds, and the purchasing of all equipment other than office equipment. The employees required for the performance of the foregoing duties shall be appointed by the Architect of the Capitol. All other duties on June 29, 1922, required to be performed by the Superintendent of the Library Building and Grounds shall be performed under the direction of the Librarian of Congress, who shall appoint the employees necessary therefor. The Librarian of Congress shall provide for the purchase and supply of office equipment and furniture for library purposes.
 
-(June 29, 1922, ch. 251, §1, 42 Stat. 715; June 12, 1970, Pub. L. 91–280, 84 Stat. 309; Nov. 5, 1990, Pub. L. 101–520, title II, §205(b), 104 Stat. 2272; Nov. 15, 1990, Pub. L. 101–562, §2(a), 104 Stat. 2780.)
+(June 29, 1922, ch. 251, §1, 42 Stat. 715; Pub. L. 91–280, June 12, 1970, 84 Stat. 309; Pub. L. 101–520, title II, §205(b), Nov. 5, 1990, 104 Stat. 2272; Pub. L. 101–562, §2(a), Nov. 15, 1990, 104 Stat. 2780.)
 
 #### Amendments
 
@@ -12,7 +12,47 @@ The Architect of the Capitol shall have charge of all structural work at the Lib
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101–520 and 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, §205(a), and Pub. L. 101–562, §1, see section205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note below.
+Amendment by Pub. L. 101–520 and 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, §205(a), and Pub. L. 101–562, §1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note below.
+
+#### Acquisition of Real Property for Library of Congress
+
+Pub. L. 105–144, Dec. 15, 1997, 111 Stat. 2667, provided that:
+
+#### “SECTION 1. ACQUISITION OF FACILITY IN CULPEPER, VIRGINIA.
+
+“(a)
+
+Acquisition.—The Architect of the Capitol may acquire on behalf of the United States Government by transfer of title, without reimbursement or transfer of funds, the following property:
+
+&emsp;“(1) Three parcels totaling approximately 41 acres, more or less, located in Culpeper County, Virginia, and identified as Culpeper County Tax Parcel Numbers 51–80B, 51–80C, and 51–80D, further described as real estate (consisting of 15.949 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated October 1, 1964, and recorded October 7, 1964, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 177, page 431, and real estate (consisting of 20.498 acres and consisting of 4.502 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated November 11, 1974, and recorded November 12, 1974, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 247, page 246.
+
+&emsp;“(2) Improvements to such real property.
+
+“(b)
+
+Uses.—Effective on the date on which the Architect of the Capitol acquires the property under subsection (a), such property shall be available to the Librarian of Congress for use as a national audiovisual conservation center.
+
+#### “SEC. 2. LIBRARY BUILDINGS AND GROUNDS.
+
+“\[Amended section 167j of this title.\]
+
+#### “SEC. 3. ACCEPTANCE OF TRANSFERRED GIFTS OR TRUST FUNDS.
+
+“Gifts or trust funds given to the Library or the Library of Congress Trust Fund Board for the structural and mechanical work and refurbishment of Library buildings and grounds specified in section 1 shall be transferred to the Architect of the Capitol to be spent in accordance with the provisions of the first section of the Act of June 29, 1922 (2 U.S.C. 141).
+
+#### “SEC. 4. FUND FOR TRANSFERRED FUNDS.
+
+“There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Such funds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
+
+#### “SEC. 5. EFFECTIVE DATE.
+
+“(a)
+
+In General.—Except as provided in subsection (b), the provisions of this Act shall take effect on the date of the enactment of this Act \[Dec. 15, 1997\].
+
+“(b)
+
+Special Rule for Inclusion of Property Within Library Buildings and Grounds.—The amendment made by section 2 shall take effect upon the acquisition by the Architect of the Capitol of the property described in section 1.”
 
 #### Transfer of Property by Secretary of Army To Provide Facilities To Accommodate Long-Term Storage and Service Needs
 
@@ -38,7 +78,7 @@ Pub. L. 102–451, §4, Oct. 23, 1992, 106 Stat. 2253, provided that: “No even
 
 Section 205 of Pub. L. 101–520, as amended by Pub. L. 102–451, §§1–3, Oct. 23, 1992, 106 Stat. 2253, provided that:
 
-“(a) The Architect of the Capitol may acquire on behalf of the United States Government by purchase, condemnation, transfer, or otherwise (1) all publicly or privately owned real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbia on August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property, and (2) improvements to such real property. The property acquired under this section shall be known as the ‘Library of Congress Special Facilities Center’ (hereinafter in this section referred to as the ‘Center’).
+“(a) The Architect of the Capitol may acquire on behalf of the United States Government by purchase, condemnation, transfer, or otherwise (1) all publicly or privately owned real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbia on August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property,and (2) improvements to such real property. The property acquired under this section shall be known as the ‘Library of Congress Special Facilities Center’ (hereinafter in this section referred to as the ‘Center’).
 
 “(b) \[Amended section 141 of this title.\]
 
@@ -86,7 +126,7 @@ Pub. L. 86–469, May 14, 1960, 74 Stat. 132, authorized Architect of the Capito
 
 #### Library of Congress Thomas Jefferson Building
 
-Pub. L. 104–208, div. A, title V, §5402, Sept. 30, 1996, 110 Stat. 3009–511, provided that: “The Founders Hall instructional area in the House of Representatives PageSchool, located in the Thomas Jefferson Building of the Library of Congress, shall be known and designated as ‘Bill Emerson Hall’.”
+Pub. L. 104–208, div. A, title V, §5402, Sept. 30, 1996, 110 Stat. 3009–511, provided that: “The Founders Hall instructional area in the House of Representatives Page School, located in the Thomas Jefferson Building of the Library of Congress, shall be known and designated as ‘Bill Emerson Hall’.”
 
 Pub. L. 96–269, §1, June 13, 1980, 94 Stat. 486, provided: “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
 

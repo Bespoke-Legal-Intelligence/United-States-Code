@@ -1,5 +1,5 @@
 
-29 U.S.C.<br>United States Code, 1996 Edition<br>Title 29 - LABOR<br>From the U.S. Government Publishing Office, www.gpo.gov
+29 U.S.C.<br>United States Code, 1997 Edition<br>Title 29 - LABOR<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 29—LABOR
 
@@ -24,10 +24,10 @@
 | [<b>13.</b>](Chapter%20013%20-%20Exemplary%20Rehabilitation%20Certificates/README.md) | <b>Exemplary Rehabilitation Certificates \[Repealed\]</b> | <b>601</b> |
 | [<b>14.</b>](Chapter%20014%20-%20Age%20Discrimination%20in%20Employment/README.md) | <b>Age Discrimination in Employment</b> | <b>621</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Occupational%20Safety%20and%20Health/README.md) | <b>Occupational Safety and Health</b> | <b>651</b> |
-| <b>16.</b> | <b>Vocational Rehabilitation and Other Rehabilitation Services</b> | <b>701</b> |
+| [<b>16.</b>](Chapter%20016%20-%20Vocational%20Rehabilitation%20and%20Other%20Rehabilitation%20Services/README.md) | <b>Vocational Rehabilitation and Other Rehabilitation Services</b> | <b>701</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Comprehensive%20Employment%20and%20Training%20Programs/README.md) | <b>Comprehensive Employment and Training Programs \[Repealed\]</b> | <b>801</b> |
-| <b>18.</b> | <b>Employee Retirement Income Security Program</b> | <b>1001</b> |
-| <b>19.</b> | <b>Job Training Partnership</b> | <b>1501</b> |
+| [<b>18.</b>](Chapter%20018%20-%20Employee%20Retirement%20Income%20Security%20Program/README.md) | <b>Employee Retirement Income Security Program</b> | <b>1001</b> |
+| [<b>19.</b>](Chapter%20019%20-%20Job%20Training%20Partnership/README.md) | <b>Job Training Partnership</b> | <b>1501</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Migrant%20and%20Seasonal%20Agricultural%20Worker%20Protection/README.md) | <b>Migrant and Seasonal Agricultural Worker Protection</b> | <b>1801</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Helen%20Keller%20National%20Center%20for%20Youths%20and%20Adults%20Who%20Are%20Deaf-Blind/README.md) | <b>Helen Keller National Center for Youths and Adults Who Are Deaf-Blind</b> | <b>1901</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Employee%20Polygraph%20Protection/README.md) | <b>Employee Polygraph Protection</b> | <b>2001</b> |
@@ -37,6 +37,7 @@
 | [<b>26.</b>](Chapter%20026%20-%20National%20Center%20for%20the%20Workplace/README.md) | <b>National Center for the Workplace</b> | <b>2401</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Women%20in%20Apprenticeship%20and%20Nontraditional%20Occupations/README.md) | <b>Women in Apprenticeship and Nontraditional Occupations</b> | <b>2501</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Family%20and%20Medical%20Leave/README.md) | <b>Family and Medical Leave</b> | <b>2601</b> |
+| [<b>29.</b>](Chapter%20029%20-%20Workers%20Technology%20Skill%20Development/README.md) | <b>Workers Technology Skill Development</b> | <b>2701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,7 +65,10 @@
 - [Chapter 013 - Exemplary Rehabilitation Certificates](Chapter%20013%20-%20Exemplary%20Rehabilitation%20Certificates/README.md)
 - [Chapter 014 - Age Discrimination in Employment](Chapter%20014%20-%20Age%20Discrimination%20in%20Employment/README.md)
 - [Chapter 015 - Occupational Safety and Health](Chapter%20015%20-%20Occupational%20Safety%20and%20Health/README.md)
+- [Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services](Chapter%20016%20-%20Vocational%20Rehabilitation%20and%20Other%20Rehabilitation%20Services/README.md)
 - [Chapter 017 - Comprehensive Employment and Training Programs](Chapter%20017%20-%20Comprehensive%20Employment%20and%20Training%20Programs/README.md)
+- [Chapter 018 - Employee Retirement Income Security Program](Chapter%20018%20-%20Employee%20Retirement%20Income%20Security%20Program/README.md)
+- [Chapter 019 - Job Training Partnership](Chapter%20019%20-%20Job%20Training%20Partnership/README.md)
 - [Chapter 020 - Migrant and Seasonal Agricultural Worker Protection](Chapter%20020%20-%20Migrant%20and%20Seasonal%20Agricultural%20Worker%20Protection/README.md)
 - [Chapter 021 - Helen Keller National Center for Youths and Adults Who Are Deaf-Blind](Chapter%20021%20-%20Helen%20Keller%20National%20Center%20for%20Youths%20and%20Adults%20Who%20Are%20Deaf-Blind/README.md)
 - [Chapter 022 - Employee Polygraph Protection](Chapter%20022%20-%20Employee%20Polygraph%20Protection/README.md)

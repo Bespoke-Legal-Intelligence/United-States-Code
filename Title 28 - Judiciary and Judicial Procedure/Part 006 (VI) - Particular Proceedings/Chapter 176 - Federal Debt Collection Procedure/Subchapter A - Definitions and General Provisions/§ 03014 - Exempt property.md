@@ -34,5 +34,5 @@ Debtors in Joint Cases.—Subject to the limitation in subsection (a), this sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3101, 3202 of this title.
+This section is referred to in sections 3101, 3202 of this title; title 18 section 3613.
 

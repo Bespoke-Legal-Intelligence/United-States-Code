@@ -2,7 +2,7 @@
 
 Except as provided in title 11, claims of the United States arising out of any contract authorized by this subchapter shall have priority over all others, secured or unsecured.
 
-(Dec. 21, 1928, ch. 42, §17, 45 Stat. 1065; Nov. 6, 1978, Pub. L. 95–598, title III, §332, 92 Stat. 2679.)
+(Dec. 21, 1928, ch. 42, §17, 45 Stat. 1065; Pub. L. 95–598, title III, §332, Nov. 6, 1978, 92 Stat. 2679.)
 
 #### Amendments
 

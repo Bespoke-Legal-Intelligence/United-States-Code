@@ -50,7 +50,7 @@
 
 #### (B) Redesignation
 
-&emsp;&emsp;The Secretary may redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subparagraph (A) (but not sooner than 60 days prior to the termination of such period) upon a finding that the relevant circumstances described in paragraph (1) still exist. The procedural requirements of paragraphs (2) and (3) shall apply to a redesignation under this subparagraph.
+&emsp;&emsp;The Secretary may redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at theend of the 2-year period referred to in subparagraph (A) (but not sooner than 60 days prior to the termination of such period) upon a finding that the relevant circumstances described in paragraph (1) still exist. The procedural requirements of paragraphs (2) and (3) shall apply to a redesignation under this subparagraph.
 
 #### (5) Revocation by Act of Congress
 

@@ -64,5 +64,5 @@ Restoration to duty of persons suspended or removed under this section, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3393, 3571, 7121, 7312, 7502, 7512, 7521, 7542 of this title; title 50 sections 832, 833.
+This section is referred to in sections 3393, 3571, 7121, 7312, 7502, 7512, 7521, 7542 of this title; title 50 section 832.
 

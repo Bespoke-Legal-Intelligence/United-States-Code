@@ -38,7 +38,7 @@ Apportionment of withheld funds after compliance.—If, before the last day of t
 
 &emsp;(3)
 
-Period of availability of subsequently apportioned funds.—Any funds apportionedpursuant to paragraph (2) shall remain available for expenditure until the end of the third fiscal year following the fiscal year in which the funds are so apportioned. Sums not obligated at the end of that period shall lapse.
+Period of availability of subsequently apportioned funds.—Any funds apportioned pursuant to paragraph (2) shall remain available for expenditure until the end of the third fiscal year following the fiscal year in which the funds are so apportioned. Sums not obligated at the end of that period shall lapse.
 
 &emsp;(4)
 

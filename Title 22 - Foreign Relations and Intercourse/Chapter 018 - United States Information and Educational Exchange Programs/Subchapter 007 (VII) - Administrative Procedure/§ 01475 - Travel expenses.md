@@ -2,7 +2,7 @@
 
 Appropriated funds made available for any fiscal year to the Director or any Government agency, to carry out the provisions of this chapter, for expenses in connection with travel of personnel outside the continental United States, including travel of dependents and transportation of personal effects, household goods, or automobiles of such personnel, shall be available for all such expenses in connection with travel or transportation which begins in that fiscal year pursuant to travel orders issued in that year, notwithstanding the fact that such travel or transportation may not be completed until the following fiscal year.
 
-(Jan. 27, 1948, ch. 36, title VIII, §805, as added July 13, 1972, Pub. L. 92–352, title II, §202, 86 Stat. 494; amended 1977 Reorg. Plan No. 2, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637.)
+(Jan. 27, 1948, ch. 36, title VIII, §805, as added Pub. L. 92–352, title II, §202, July 13, 1972, 86 Stat. 494; amended 1977 Reorg. Plan No. 2, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637.)
 
 #### Transfer of Functions
 

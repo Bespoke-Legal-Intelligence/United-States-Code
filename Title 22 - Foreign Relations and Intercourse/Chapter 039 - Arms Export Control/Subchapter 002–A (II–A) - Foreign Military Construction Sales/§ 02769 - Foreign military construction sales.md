@@ -6,7 +6,7 @@ The President may sell design and construction services to any eligible foreign 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense by section 1(d) of Ex. Ord. No.11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+Functions of President under this section delegated to Secretary of Defense by section 1(d) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
 
 #### Section Referred to in Other Sections
 

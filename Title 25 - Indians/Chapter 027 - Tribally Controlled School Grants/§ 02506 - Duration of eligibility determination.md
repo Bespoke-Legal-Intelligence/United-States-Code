@@ -62,7 +62,7 @@ With respect to a tribally controlled school which receives assistance under thi
 
 Section 1121 of the Education Amendments of 1978, referred to in subsecs. (b) and (c)(1)(A)(ii)(IV), (B), (2)(A), means section 1121 of Pub. L. 95–561, which was classified to section 2001 of this title, prior to the general amendment of chapter 22 (§2001 et seq.) of this title by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1121 of Pub. L. 95–561 which is classified to section 2001 of this title and which contains in subsecs. (f) and (k) provisions similar to those contained in subsecs. (e) and (j), respectively, of former section 2001 of this title.
 
-The Single Audit Act of 1984, referred to in subsec. (b)(2), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in subsec. (b)(2), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(A)(ii)(V), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

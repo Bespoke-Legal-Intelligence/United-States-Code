@@ -12,7 +12,7 @@
 
 (f) Whoever, without lawful authority, possesses any blank certificate of arrival, blank declaration of intention or blank certificate of naturalization or citizenship provided by the Immigration and Naturalization Service, with intent unlawfully to use the same; or
 
-(g) Whoever, with intent unlawfully to use the same, possesses a distinctive paper adopted by the proper officer or agency of the United States for the printing or engraving of a declaration of intention to become a citizen, or certificate of naturalization or certificate of citizenship; or
+(g) Whoever, with intent unlawfully to use the same, possesses a distinctive paper adopted bythe proper officer or agency of the United States for the printing or engraving of a declaration of intention to become a citizen, or certificate of naturalization or certificate of citizenship; or
 
 (h) Whoever, without lawful authority, prints, photographs, makes or executes any print or impression in the likeness of a certificate of arrival, declaration of intention to become a citizen, or certificate of naturalization or citizenship, or any part thereof—
 

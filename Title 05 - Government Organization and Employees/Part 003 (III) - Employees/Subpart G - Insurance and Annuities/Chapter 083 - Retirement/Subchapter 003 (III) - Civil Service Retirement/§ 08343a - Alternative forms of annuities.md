@@ -16,19 +16,21 @@
 
 &emsp;&emsp;(B) payment of an annuity to the employee or Member for life, with a survivor annuity payable for the life of a surviving spouse.
 
-(c) Each alternative provided for under subsection (b) shall, to the extent practicable, be designed such that the present value of the benefits provided under such alternative (including any lump-sum credit) is actuarially equivalent to the present value of the annuity which would otherwise be provided the employee or Member under this subchapter, as computed under subsections (a)–(i), (n), and (q) of section 8339 of this title.
+(c) Each alternative provided for under subsection (b) shall, to the extent practicable, be designed such that the present value of the benefits provided under such alternative (including any lump-sum credit) is actuarially equivalent to the present value of the annuity which would otherwise be provided the employee or Member under this subchapter, as computed under subsections (a)–(i), (n), (q), and (r) of section 8339.
 
 (d) An employee or Member who, at the time of retiring under this subchapter—
 
 &emsp;(1) is married, shall be ineligible to make an election under this section unless a waiver is made under section 8339(j)(1) of this title; or
 
-&emsp;(2) has a former spouse, shall be ineligible to make an election under this section if the former spouse is entitled to benefits under section 8341(h) or 8345(j) of this title (based on the service of the employee or Member) under theterms of a decree of divorce or annulment, or a court order or court-approved property settlement incident to any such decree, with respect to which the Office has been duly notified.
+&emsp;(2) has a former spouse, shall be ineligible to make an election under this section if the former spouse is entitled to benefits under section 8341(h) or 8345(j) of this title (based on the service of the employee or Member) under the terms of a decree of divorce or annulment, or a court order or court-approved property settlement incident to any such decree, with respect to which the Office has been duly notified.
 
 (e) An employee or Member who is married at the time of retiring under this subchapter and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 8339(<i>o</i>) of this title, subject to the deposit requirement thereunder.
 
-(Added Pub. L. 99–335, title II, §204(a), June 6, 1986, 100 Stat. 591; amended Pub. L. 101–428, §2(d)(5), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–508, title VII, §7001(a)(1), Nov. 5, 1990, 104 Stat. 1388–327; Pub. L. 103–66, title XI, §11002(a), Aug. 10, 1993, 107 Stat. 409.)
+(Added Pub. L. 99–335, title II, §204(a), June 6, 1986, 100 Stat. 591; amended Pub. L. 101–428, §2(d)(5), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–508, title VII, §7001(a)(1), Nov. 5, 1990, 104 Stat. 1388–327; Pub. L. 103–66, title XI, §11002(a), Aug. 10, 1993, 107 Stat. 409; Pub. L. 105–61, title V, §516(a)(5), Oct. 10, 1997, 111 Stat. 1306.)
 
 #### Amendments
+
+1997—Subsec. (c). Pub. L. 105–61, which directed the substitution of “(q), and (r) of section 8339” for “and (q)of section 8339 of this title” in section 8334a(c), was executed by making the substitution in subsec. (c) of this section to reflect the probable intent of Congress, because there is no section 8334a in this title.
 
 1993—Subsec. (a). Pub. L. 103–66, §11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
 
@@ -37,6 +39,10 @@ Subsec. (f). Pub. L. 103–66, §11002(a)(2), struck out subsec. (f) which prohi
 1990—Subsec. (c). Pub. L. 101–428 substituted “(a)–(i), (n), and (q)” for “(a)–(i) and (n)”.
 
 Subsec. (f). Pub. L. 101–508 added subsec. (f).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -104,7 +110,7 @@ Continued Applicability.—The preceding provisions of this section (disregardin
 
 &emsp;“(2) section 7001(a)(4) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508, set out as a note above\].”
 
-\[Section 7001(a)(2)(C)(ii) of Pub. L. 101–508 provided that: “The amendments made by clause (i) \[amending section 4005 of Pub. L. 101–239 and section 6001 of Pub. L. 100–203, set out as notes above and below\] shall not apply in any case in which the first half of the lump-sum payment involved was paid before the beginning ofthe 11-month period which ends on the date of the enactment of this Act \[Nov. 5, 1990\].”\]
+\[Section 7001(a)(2)(C)(ii) of Pub. L. 101–508 provided that: “The amendments made by clause (i) \[amending section 4005 of Pub. L. 101–239 and section 6001 of Pub. L. 100–203, set out as notes above and below\] shall not apply in any case in which the first half of the lump-sum payment involved was paid before the beginning of the 11-month period which ends on the date of the enactment of this Act \[Nov. 5, 1990\].”\]
 
 Similar provisions were contained in the following acts:
 

@@ -6,7 +6,7 @@ Whoever, within such jurisdiction, willfully and maliciously trespasses upon or 
 
 Upon the trial of any person charged with any offense set forth in this section, it shall not be necessary to set forth or prove the particular person against whom it was intended to commit the offense, or that it was intended to commit such offense against any particular person.
 
-(June 25, 1948, ch. 645, 62 Stat. 794; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 794; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(a)(8), 110 Stat. 3498.)
 
 #### Historical and Revision Notes
 

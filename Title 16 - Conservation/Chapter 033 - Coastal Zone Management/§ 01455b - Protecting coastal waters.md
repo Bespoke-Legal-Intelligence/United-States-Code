@@ -54,7 +54,7 @@ Each State program under this section shall provide for the implementation, at a
 
 &emsp;&emsp;(A) the Secretary determines that the portions of the program under the authority of the Secretary meet the requirements of this section and the Administrator concurs with that determination; and
 
-&emsp;&emsp;(B) the Administrator determines that the portions of the program under the authority of the Administrator meet the requirements of this section and the Secretary concurs with that determination.
+&emsp;&emsp;(B) the Administrator determines that the portions of the program under the authorityof the Administrator meet the requirements of this section and the Secretary concurs with that determination.
 
 #### (2) Implementation of approved program
 
@@ -90,7 +90,7 @@ Each State program under this section shall provide for the implementation, at a
 
 &emsp;&emsp;(D) For fiscal year 1999 and each fiscal year thereafter, 30 percent of the amount awarded for fiscal year 1998 or other preceding fiscal year.
 
-> &emsp;The Administrator shall make amounts withheld under this paragraph available to Stateshaving programs approved pursuant to this subsection.
+> &emsp;The Administrator shall make amounts withheld under this paragraph available to States having programs approved pursuant to this subsection.
 
 #### (d) Technical assistance
 
@@ -226,7 +226,7 @@ Section was enacted as part of the Coastal Zone Act Reauthorization Amendments o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1455 of this title.
+This section is referred to in section 1455 of this title; title 42 section 300j–14.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -50,7 +50,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(2) A judge who is not reappointed following the expiration of the term for which appointed may retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more. In order to retire under this paragraph, a judge must, not earlier than 9 months preceding the date of the expiration of the judge's term of office and not later than 6 months preceding such date, advise the President in writing that the judge is willing to accept reappointment to the Court.
+(2) A judge who is not reappointed following the expiration of the term for which appointed may retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more. In order to retire under this paragraph, a judge must, not earlier than 9months preceding the date of the expiration of the judge's term of office and not later than 6 months preceding such date, advise the President in writing that the judge is willing to accept reappointment to the Court.
 
 (3) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall retire.
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(ii) section 7297(e) of this title shall not apply and the amount credited to such individual's account (together with interest at 3 percent per year, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to the individual;
 
-&emsp;(C) no credit shall be allowed for any service as a judge of the Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest;
+&emsp;(C) no credit shall be allowed for any service as a judge of the Court unless with respect to such service either there has been deductedand withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest;
 
 &emsp;(D) the Court shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (d); and
 

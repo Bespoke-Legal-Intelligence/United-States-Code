@@ -30,7 +30,7 @@ In this part (except chapter 329 and except as provided in section 33101)—
 
 &emsp;(8) “motor vehicle accident” means an accident resulting from the maintenance or operation of a passenger motor vehicle or passenger motor vehicle equipment.
 
-&emsp;(9) “multipurpose passenger vehicle” means a passenger motor vehicle constructed on a truck chassis or with special features for occasional off-road operation.
+&emsp;(9) “multipurpose passenger vehicle” means a passenger motor vehicle constructed on atruck chassis or with special features for occasional off-road operation.
 
 &emsp;(10) “passenger motor vehicle” means a motor vehicle with motive power designed to carry not more than 12 individuals, but does not include—
 

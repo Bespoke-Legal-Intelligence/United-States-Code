@@ -22,7 +22,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §80 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015;June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
+Based on title 18, U.S.C., 1940 ed., §80 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
 
 Section 80 of title 18, U.S.C., 1940 ed., was divided into two parts.
 
@@ -62,7 +62,7 @@ Pub. L. 100–700, §1, Nov. 19, 1988, 102 Stat. 4631, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–474, §1, Oct. 16, 1986, 100 Stat. 1213, provided that: “This Act \[amending section 1030 of this title\] may be cited as the ‘Computer Fraud and Abuse Act of 1986’.”
+Pub. L. 99–474, §1, Oct. 16, 1986, 100 Stat. 1213, provided that: “This Act \[amending section 1030 of this title\]may be cited as the ‘Computer Fraud and Abuse Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 
@@ -104,5 +104,5 @@ Public buildings, section as applicable to statements by contractors, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 24, 981, 982, 1345, 3059A of this title; title 2 section 437g; title 7 sections 12a, 136h, 511r, 1314i, 5662, 6519; title 8 section 1324a; title 12 section 1833a; title 19 sections 2515, 3391, 3432; title 22 sections 1623, 3622; title 35 section 25; title 40 section 276c; title 42 sections 2000b–3, 2000c–6, 3426, 3795a; title 43 section 1212; title 49 section 5307.
+This section is referred to in sections 14, 24, 981, 982, 1345, 3059A of this title; title 2 section 437g; title 7 sections 12a, 136h, 511r, 1314i, 5662, 6519; title 8 section 1324a; title 12 section 1833a; title 15 section 657a; title 19 sections 2515, 3391, 3432; title 22 sections 1623, 3622; title 35 section 25; title 40 section 276c; title 42 sections 2000b–3, 2000c–6, 3426, 3795a; title 43 section 1212; title 49 section 5307.
 

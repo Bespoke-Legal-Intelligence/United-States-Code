@@ -22,7 +22,7 @@ The words “upon military reservations or elsewhere” are omitted as surplusag
 
 #### Authorization for Instruction of Civilian Students at Foreign Language Center of Defense Language Institute
 
-Pub. L. 103–337, div. A, title V, §559, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–201, div. A, title III, §371, Sept. 23, 1996, 110 Stat. 2499, provided that:
+Pub. L. 103–337, div. A, title V, §559, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–201, div. A, title III, §371, Sept. 23, 1996, 110 Stat. 2499; Pub. L. 105–85, div. A, title X, §1073(c)(3), Nov. 18, 1997, 111 Stat. 1904, provided that:
 
 “(a)
 

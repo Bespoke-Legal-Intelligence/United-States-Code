@@ -8,7 +8,7 @@
 
 (2) The Secretary concerned may waive the requirements of paragraph (1), or may reduce the amount of any refund under clause (B) of such paragraph, in the case of any individual member when the Secretary determines that the failure to participate satisfactorily was due to reasons beyond the control of the member.
 
-(3) Any refund by a member under this section shall not affect the period of obligation of such member to serve as a Reserve in the Selected Reserve.
+(3) Any refund by a member under this section shall not affect the period of obligation of suchmember to serve as a Reserve in the Selected Reserve.
 
 (b)(1) The amount of a refund under subsection (a) shall be the amount equal to the product of—
 

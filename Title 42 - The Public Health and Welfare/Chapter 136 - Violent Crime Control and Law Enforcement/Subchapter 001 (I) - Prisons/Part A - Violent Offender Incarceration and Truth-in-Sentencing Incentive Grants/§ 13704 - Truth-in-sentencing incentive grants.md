@@ -30,7 +30,7 @@ Notwithstanding subsection (a) of this section, a State may provide that the Gov
 
 #### Prior Provisions
 
-A prior section 13704, Pub. L. 103–322, title II, §20104, Sept. 13, 1994, 108 Stat. 1818, related to Federal share matching requirement prior to the general amendment of this part by Pub. L. 104–134.
+A prior section 13704, Pub. L. 103–322, title II, §20104, Sept. 13, 1994, 108 Stat. 1818, related to Federal sharematching requirement prior to the general amendment of this part by Pub. L. 104–134.
 
 #### Section Referred to in Other Sections
 

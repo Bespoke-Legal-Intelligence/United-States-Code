@@ -34,5 +34,5 @@ Section 623(b) of Pub. L. 104–201 provided that: “The amendment made by subs
 
 #### Effective Date of 1985 Amendment
 
-Section 615(b) of Pub. L. 99–145 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to orders to change a permanent station that are effective after September 30, 1985.”
+Section 615(b) of Pub. L. 99–145 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to orders to change a permanent station that are effective after September 30, 1985.”
 

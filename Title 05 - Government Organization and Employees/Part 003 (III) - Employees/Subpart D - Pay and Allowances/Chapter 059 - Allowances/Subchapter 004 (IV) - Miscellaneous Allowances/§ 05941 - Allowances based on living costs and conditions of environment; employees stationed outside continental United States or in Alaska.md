@@ -36,7 +36,7 @@ The section is reorganized and restated for clarity and conciseness.
 
 The word “allowances” is substituted for “additional compensation” as a more apt term and for consistency.
 
-In subsection (a), the words “Executive agency” are substituted for “executive departments, independent establishments, and wholly owned Government corporations” in view of the definition of “Executive agency” in section 105. The exception of a “Government controlled corporation” is added to preserve the application to “wholly owned Government corporation”.
+In subsection (a), the words “Executive agency” are substituted for “executive departments, independentestablishments, and wholly owned Government corporations” in view of the definition of “Executive agency” in section 105. The exception of a “Government controlled corporation” is added to preserve the application to “wholly owned Government corporation”.
 
 Subsection (b) is based on the second proviso of former section 118h and is restated to reflect the provisions of sections 511(b), (c)(7) and 521 of the Act of Sept. 6, 1960, Pub. L. 86–707, 74 Stat. 800–802. The reference to section 204 of the Act of Apr. 20, 1948, is omitted as obsolete, since the section was applicable only to fiscal year 1949.
 
@@ -46,7 +46,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Prohibition of Reduction of Allowance; Study and Report on Adjusting Calculation of Geographic Factors
 
-Pub. L. 102–141, title IV, §1, Oct. 28, 1991, 105 Stat. 861, as amended by Pub. L. 103–329, title V, §532, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title IV, §5, Nov. 19, 1995, 109 Stat. 490, provided that: “The allowances provided to employees at rates set under section 5941 of title 5, United States Code, and Executive Order Numbered 10000 \[set out below\] as in effect on the date of the enactment of this Act \[Oct. 28, 1991\] may not be reduced during the period beginning on the date of the enactment of this Act through December 31, 1998: <i>Provided</i>, That no later than March 1, 1998, the Office of Personnel Management shall conduct a study and submit a report to the Congress proposing appropriate changes in the method of fixing compensation for affected employees, including any necessary legislative changes. Such study shall include—
+Pub. L. 102–141, title IV, §1, Oct. 28, 1991, 105 Stat. 861, as amended by Pub. L. 103–329, title V, §532, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title IV, §5, Nov. 19, 1995, 109 Stat. 490; Pub. L. 105–61, title V, §515, Oct. 10, 1997, 111 Stat. 1306, provided that: “The allowances provided to employees at rates set under section 5941 of title 5, United States Code, and Executive Order Numbered 10000 \[set out below\] as in effect on the date of the enactment of this Act \[Oct. 28, 1991\] may not be reduced during the period beginning on the date of the enactment of this Act through December 31, 2000: <i>Provided</i>, That no later than March 1, 2000, the Office of Personnel Management shall conduct a study and submit a report to the Congress proposing appropriate changes in the method of fixing compensation for affected employees, including any necessary legislative changes. Such study shall include—
 
 &emsp;“(1) an examination of the pay practices of other employers in the affected areas;
 
@@ -140,7 +140,7 @@ Persons Eligible to Receive Non-Foreign Area Post Differential. (a) In order tha
 
 (1) Persons recruited or transferred from outside the area concerned.
 
-(2) Persons employed in the area concerned but (a) who were originally recruited from outside such area and have been in substantially continuous employment by other Federal agencies, contractors of Federal agencies, or international organizations in which the U. S.Government participates, and whose conditions of employment provide for their return transportation to places outside the area concerned, or (b) who were at the time of employment temporarily present in the area concerned for purposes of travel or formal study and maintained residence outside such area during the period so present.
+(2) Persons employed in the area concerned but (a) who were originally recruited from outside such area and have been in substantially continuous employment by other Federal agencies, contractors of Federal agencies, or international organizations in which the U. S. Government participates, and whose conditions of employment provide for their return transportation to places outside the area concerned, or (b) who were at the time of employment temporarily present in the area concerned for purposes of travel or formal study and maintained residence outside such area during the period so present.
 
 (3) Persons who are not normally residents of the area concerned and who are discharged from the military service of the United States in such area to accept employment therein with an agency of the Federal Government.
 
@@ -156,7 +156,7 @@ Coordination. The Office of Personnel Management shall define the extent to whic
 
 Sec. 207.
 
-Agencies Covered. Subject to the provisions of section 207 of the Act and of this Part, every Executive department, independent establishment, and wholly owned Government corporation shall pay (a) a non-foreign area post differential fixed under section 202 hereof to each of its employees whose basic compensation is fixed by statute and who is located at the post for which that differential has been fixed, and (b) a non-foreign area cost-of-living allowance fixed under section 205 hereof to each of its employees whose basic compensation is fixed by statute and who is located at the post for which that allowance has been fixed.
+Agencies Covered. Subject to the provisions of section 207 of the Act and of this Part, every Executive department, independent establishment, and wholly owned Government corporation shall pay (a) a non-foreign area post differential fixed under section 202 hereof to each of its employees whose basic compensation is fixed by statute and who is located at the post for which that differential has been fixed, and (b) a non-foreign area cost-of-living allowance fixed under section 205 hereof to each of its employees whose basiccompensation is fixed by statute and who is located at the post for which that allowance has been fixed.
 
 Sec. 208.
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) be at least 18 years of age and under 64.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Sept. 2, 1958, Pub. L. 85–861, §2(9), 72 Stat. 1544; Nov. 8, 1967, Pub. L. 90–130, §2(2), 81 Stat. 383.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Pub. L. 85–861, §2(9), Sept. 2, 1958, 72 Stat. 1544; Pub. L. 90–130, §2(2), Nov. 8, 1967, 81 Stat. 383.)
 
 Historical and Revision Notes<br>1956
 

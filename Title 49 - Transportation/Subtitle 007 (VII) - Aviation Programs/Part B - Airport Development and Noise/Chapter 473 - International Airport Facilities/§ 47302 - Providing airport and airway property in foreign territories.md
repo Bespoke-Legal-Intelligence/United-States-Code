@@ -10,7 +10,7 @@ General Authority.—Subject to the concurrence of the Secretary of State and th
 
 (b)
 
-Specific Appropriations Required.—Except for airport property transferred under section 47304(b) of this title, an airport (as defined in section 40102(a) of this title) may be acquired,established, or constructed under subsection (a) of this section only if amounts have been appropriated specifically for the airport.
+Specific Appropriations Required.—Except for airport property transferred under section 47304(b) of this title, an airport (as defined in section 40102(a) of this title) may be acquired, established, or constructed under subsection (a) of this section only if amounts have been appropriated specifically for the airport.
 
 (c)
 
@@ -58,7 +58,7 @@ In subsection (a), the words “by contract or otherwise” are omitted as surpl
 
 In subsection (b), the words “for the airport” are substituted for “for such purpose” for clarity. The words “by the Congress” are omitted as surplus.
 
-In subsection (c), the words “on behalf of the United States” are omitted as surplus. The words “sold or provided” are substituted for “supplied or . . . performed” for consistency in this chapter. The words “by the Secretary of Transportation or the Secretary of Commerce, either directly or indirectly” and “the authority of” are omitted as surplus. The words “or the Civil Aeronautics Act of 1938, as amended” are omitted as obsolete because the Act was repealed by section 1401(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 806). The words “including the operation of airport property and airway property in such countries, the training of foreign nationals, the rendering of technical assistance and advice to such countries, and the performance of other similar services” are omitted as being included in “facilities or services sold or provided”. The words “or both” are substituted for “or (C) in part as provided under clause (A) and in part as provided under clause (B)” to eliminate unnecessary words.
+In subsection (c), the words “on behalf of the United States” are omitted as surplus. The words “sold or provided” are substituted for “supplied or . . . performed”for consistency in this chapter. The words “by the Secretary of Transportation or the Secretary of Commerce, either directly or indirectly” and “the authority of” are omitted as surplus. The words “or the Civil Aeronautics Act of 1938, as amended” are omitted as obsolete because the Act was repealed by section 1401(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 806). The words “including the operation of airport property and airway property in such countries, the training of foreign nationals, the rendering of technical assistance and advice to such countries, and the performance of other similar services” are omitted as being included in “facilities or services sold or provided”. The words “or both” are substituted for “or (C) in part as provided under clause (A) and in part as provided under clause (B)” to eliminate unnecessary words.
 
 #### Section Referred to in Other Sections
 

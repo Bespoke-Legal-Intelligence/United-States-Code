@@ -1,0 +1,118 @@
+### §2370a. Expropriation of United States property
+
+#### (a) Prohibition
+
+None of the funds made available to carry out this Act, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] may be provided to a government or any agency or instrumentality thereof, if the government of such country (other than a country described if <sup>1</sup> subsection (d) of this section)—
+
+&emsp;(1) has on or after January 1, 1956—
+
+&emsp;&emsp;(A) nationalized or expropriated the property of any United States person,
+
+&emsp;&emsp;(B) repudiated or nullified any contract with any United States person, or
+
+&emsp;&emsp;(C) taken any other action (such as the imposition of discriminatory taxes or other exactions) which has the effect of seizing ownership or control of the property of any United States person, and
+
+&emsp;(2) has not, within the period specified in subsection (c) of this section, either—
+
+&emsp;&emsp;(A) returned the property,
+
+&emsp;&emsp;(B) provided adequate and effective compensation for such property in convertible foreign exchange or other mutually acceptable compensation equivalent to the full value thereof, as required by international law,
+
+&emsp;&emsp;(C) offered a domestic procedure providing prompt, adequate and effective compensation in accordance with international law, or
+
+&emsp;&emsp;(D) submitted the dispute to arbitration under the rules of the Convention for the Settlement of Investment Disputes or other mutually agreeable binding international arbitration procedure.
+
+#### (b) Other actions
+
+The President shall instruct the United States Executive Directors of each multilateral development bank and international financial institution to vote against any loan or other utilization of the funds of such bank or institution for the benefit of any country to which assistance is prohibited under subsection (a) of this section, unless such assistance is directed specifically to programs which serve the basic human needs of the citizens of that country.
+
+#### (c) Period for settlement of claims
+
+The period of time described in subsection (a)(2) of this section is the latest of the following—
+
+&emsp;(1) 3 years after the date on which a claim was filed,
+
+&emsp;(2) in the case of a country that has a totalitarian or authoritarian government at the time of the action described in subsection (a)(1) of this section, 3 years after the date of installation of a democratically elected government, or
+
+&emsp;(3) 90 days after April 30, 1994.
+
+#### (d) Excepted countries and territories
+
+This section shall not apply to any country established by international mandate through the United Nations or to any territory recognized by the United States Government to be in dispute.
+
+#### (e) Resumption of assistance
+
+A prohibition or termination of assistance under subsection (a) of this section and an instruction to vote against loans under subsection (b) of this section shall cease to be effective when the President certifies in writing to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate that such government has taken one of the steps described in subsection (a)(2) of this section.
+
+#### (f) Reporting requirement
+
+Not later than 90 days after April 30, 1994, and at the beginning of each fiscal year thereafter, the Secretary of State shall transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, a report containing the following:
+
+&emsp;(1) A list of every country in which the United States Government is aware that a United States person has an outstanding expropriation claim.
+
+&emsp;(2) The total number of such outstanding expropriation claims made by United States persons against each such country.
+
+&emsp;(3) The period of time in which each such claim has been outstanding.
+
+&emsp;(4) The status of each case and efforts made by the United States Government and the government of the country in which such claim has been made, to take one or more of the steps described in subsection (a)(2) of this section.
+
+&emsp;(5) Each project a United States Executive Director voted against as a result of the action described in subsection (b) of this section.
+
+#### (g) Waiver
+
+The President may waive the prohibitions in subsections (a) and (b) of this section for a country, on an annual basis, if the President determines and so notifies Congress that it is in the national interest to do so.
+
+#### (h) “United States person” defined
+
+For the purpose of this section, the term “United States person” means a United States citizen or corporation, partnership, or association at least 50 percent beneficially owned by United States citizens.
+
+(Pub. L. 103–236, title V, §527, Apr. 30, 1994, 108 Stat. 475.)
+
+#### References in Text
+
+This Act, referred to in subsec. (a), is Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 382, known as the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 2651 of this title and Tables.
+
+The Foreign Assistance Act of 1961, as amended, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
+#### Codification
+
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### Delegation of Responsibilities Under Foreign Relations Authorization Act, Fiscal Years 1994 and 1995
+
+Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions vested in the President by the following provisions of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) (the “Act”): sections 102(g) \[22 U.S.C. 287e note\], 161(c) \[22 U.S.C. 2651a note\], 401(b) \[108 Stat. 446\], 407(a) \[22 U.S.C. 287b note\], 409 \[22 U.S.C. 287e note\], 431(b) \[108 Stat. 459\], 514(b) \[22 U.S.C. 1928 note\], 523 \[108 Stat. 473\], 527(e) and (g) \[22 U.S.C. 2370a(e), (g)\], 528 \[108 Stat. 477\], 532(a) \[108 Stat. 480\], 574 \[22 U.S.C. 2656 note\], 583(b)(1) and (b)(6) \[108 Stat. 489, 490\], 733 \[22 U.S.C. 2779a\] and 735(d) \[22 U.S.C. 2797b–1\].
+
+The functions under section 407(a) of the Act \[22 U.S.C. 287b note\] shall be exercised in coordination with the Secretary of Defense.
+
+The functions under section 527(e) and (g) of the Act \[22 U.S.C. 2370a(e), (g)\] shall be exercised in consultation with the Secretary of the Treasury and the heads of other departments and agencies, as appropriate.
+
+Any reference in this memorandum to any act, order, determination, or delegation of authority shall be deemed to be a reference to such act, order, determination, or delegation of authority as amended from time to time.
+
+The functions delegated by this memorandum may be redelegated within the Department of State.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Memorandum of President of the United States, Jan. 4, 1995, 60 F.R. 3335, provided:
+
+Memorandum for the Secretary of the Treasury
+
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of the Treasury the functions under section 527(b) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) \[22 U.S.C. 2370a(b)\].
+
+Any reference in this memorandum to any Act, order, determination, or delegation of authority shall be deemed to be a reference to such Act, order, determination, or delegation of authority as amended.
+
+The functions delegated by this memorandum may be redelegated within the Department of the Treasury.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Probably should be “in”.</i>
+

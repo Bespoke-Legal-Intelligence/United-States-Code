@@ -1,0 +1,122 @@
+### §1395a. Free choice by patient guaranteed
+
+#### (a) Basic freedom of choice
+
+Any individual entitled to insurance benefits under this subchapter may obtain health services from any institution, agency, or person qualified to participate under this subchapter if such institution, agency, or person undertakes to provide him such services.
+
+#### (b) Use of private contracts by medicare beneficiaries
+
+#### (1) In general
+
+&emsp;Subject to the provisions of this subsection, nothing in this subchapter shall prohibit a physician or practitioner from entering into a private contract with a medicare beneficiary for any item or service—
+
+&emsp;&emsp;(A) for which no claim for payment is to be submitted under this subchapter, and
+
+&emsp;&emsp;(B) for which the physician or practitioner receives—
+
+&emsp;&emsp;&emsp;(i) no reimbursement under this subchapter directly or on a capitated basis, and
+
+&emsp;&emsp;&emsp;(ii) receives no amount for such item or service from an organization which receives reimbursement for such item or service under this subchapter directly or on a capitated basis.
+
+#### (2) Beneficiary protections
+
+#### (A) In general
+
+&emsp;&emsp;Paragraph (1) shall not apply to any contract unless—
+
+&emsp;&emsp;&emsp;(i) the contract is in writing and is signed by the medicare beneficiary before any item or service is provided pursuant to the contract;
+
+&emsp;&emsp;&emsp;(ii) the contract contains the items described in subparagraph (B); and
+
+&emsp;&emsp;&emsp;(iii) the contract is not entered into at a time when the medicare beneficiary is facing an emergency or urgent health care situation.
+
+#### (B) Items required to be included in contract
+
+&emsp;&emsp;Any contract to provide items and services to which paragraph (1) applies shall clearly indicate to the medicare beneficiary that by signing such contract the beneficiary—
+
+&emsp;&emsp;&emsp;(i) agrees not to submit a claim (or to request that the physician or practitioner submit a claim) under this subchapter for such items or services even if such items or services are otherwise covered by this subchapter;
+
+&emsp;&emsp;&emsp;(ii) agrees to be responsible, whether through insurance or otherwise, for payment of such items or services and understands that no reimbursement will be provided under this subchapter for such items or services;
+
+&emsp;&emsp;&emsp;(iii) acknowledges that no limits under this subchapter (including the limits under section 1395w–4(g) of this title) apply to amounts that may be charged for such items or services;
+
+&emsp;&emsp;&emsp;(iv) acknowledges that Medigap plans under section 1395ss of this title do not, and other supplemental insurance plans may elect not to, make payments for such items and services because payment is not made under this subchapter; and
+
+&emsp;&emsp;&emsp;(v) acknowledges that the medicare beneficiary has the right to have such items or services provided by other physicians or practitioners for whom payment would be made under this subchapter.
+
+> &emsp;&emsp;Such contract shall also clearly indicate whether the physician or practitioner is excluded from participation under the medicare program under section 1320a–7 of this title.
+
+#### (3) Physician or practitioner requirements
+
+#### (A) In general
+
+&emsp;&emsp;Paragraph (1) shall not apply to any contract entered into by a physician or practitioner unless an affidavit described in subparagraph (B) is in effect during the period any item or service is to be provided pursuant to the contract.
+
+#### (B) Affidavit
+
+&emsp;&emsp;An affidavit is described in this subparagraph if—
+
+&emsp;&emsp;&emsp;(i) the affidavit identifies the physician or practitioner and is in writing and is signed by the physician or practitioner;
+
+&emsp;&emsp;&emsp;(ii) the affidavit provides that the physician or practitioner will not submit any claim under this subchapter for any item or service provided to any medicare beneficiary (and will not receive any reimbursement or amount described in paragraph (1)(B) for any such item or service) during the 2-year period beginning on the date the affidavit is signed; and
+
+&emsp;&emsp;&emsp;(iii) a copy of the affidavit is filed with the Secretary no later than 10 days after the first contract to which such affidavit applies is entered into.
+
+#### (C) Enforcement
+
+&emsp;&emsp;If a physician or practitioner signing an affidavit under subparagraph (B) knowingly and willfully submits a claim under this subchapter for any item or service provided during the 2-year period described in subparagraph (B)(ii) (or receives any reimbursement or amount described in paragraph (1)(B) for any such item or service) with respect to such affidavit—
+
+&emsp;&emsp;&emsp;(i) this subsection shall not apply with respect to any items and services provided by the physician or practitioner pursuant to any contract on and after the date of such submission and before the end of such period; and
+
+&emsp;&emsp;&emsp;(ii) no payment shall be made under this subchapter for any item or service furnished by the physician or practitioner during the period described in clause (i) (and no reimbursement or payment of any amount described in paragraph (1)(B) shall be made for any such item or service).
+
+#### (4) Limitation on actual charge and claim submission requirement not applicable
+
+&emsp;Section 1395w–4(g) of this title shall not apply with respect to any item or service provided to a medicare beneficiary under a contract described in paragraph (1).
+
+#### (5) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Medicare beneficiary
+
+&emsp;&emsp;The term “medicare beneficiary” means an individual who is entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter.
+
+#### (B) Physician
+
+&emsp;&emsp;The term “physician” has the meaning given such term by section 1395x(r)(1) of this title.
+
+#### (C) Practitioner
+
+&emsp;&emsp;The term “practitioner” has the meaning given such term by section 1395u(b)(18)(C) of this title.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1802, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 291; amended Aug. 5, 1997, Pub. L. 105–33, title IV, §4507(a)(1), (2)(A), 111 Stat. 439, 441.)
+
+#### References in Text
+
+Parts A and B of this subchapter, referred to in subsec. (b)(5)(A), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+
+#### Amendments
+
+1997—Pub. L. 105–33 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 1997 Amendment
+
+Section 4507(c) of Pub. L. 105–33 provided that: “The amendment made by subsection (a) \[amending this section and section 1395y of this title\] shall apply with respect to contracts entered into on and after January 1, 1998.”
+
+#### Report to Congress on Effect of Private Contracts
+
+Section 4507(b) of title IV of Pub. L. 105–33 provided that: “Not later than October 1, 2001, the Secretary of Health and Human Services shall submit a report to Congress on the effect on the program under this title \[see Tables for classification\] of private contracts entered into under the amendment made by subsection (a) \[amending this section and section 1395y of this title\]. Such report shall include—
+
+&emsp;“(1) analyses regarding—
+
+&emsp;&emsp;“(A) the fiscal impact of such contracts on total Federal expenditures under title XVIII of the Social Security Act \[this subchapter\] and on out-of-pocket expenditures by medicare beneficiaries for health services under such title; and
+
+&emsp;&emsp;“(B) the quality of the health services provided under such contracts; and
+
+&emsp;“(2) recommendations as to whether medicare beneficiaries should continue to be able to enter private contracts under section 1802(b) of such Act \[subsec. (b) of this section\] (as added by subsection (a)) and if so, what legislative changes, if any should be made to improve such contracts.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1395x, 1395y of this title.
+

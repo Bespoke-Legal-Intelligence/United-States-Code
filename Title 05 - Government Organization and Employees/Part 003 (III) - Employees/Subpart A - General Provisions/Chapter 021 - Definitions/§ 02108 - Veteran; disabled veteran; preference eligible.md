@@ -4,9 +4,11 @@ For the purpose of this title–
 
 &emsp;(1) “veteran” means an individual who–
 
-&emsp;&emsp;(A) served on active duty in the armed forces during a war, in a campaign or expedition for which a campaign badge has been authorized, or during the period beginning April 28, 1952, and ending July 1, 1955; or
+&emsp;&emsp;(A) served on active duty in the armed forces during a war, in a campaign or expedition for which a campaign badge has been authorized, or during the period beginning April 28, 1952, and ending July 1, 1955;
 
-&emsp;&emsp;(B) served on active duty as defined by section 101(21) of title 38 at any time in the armed forces for a period of more than 180 consecutive days any part of which occurred after January 31, 1955, and before the date of enactment of the Veterans’ Education and Employment Assistance Act of 1976, not including service under section 511(d) <sup>1</sup> of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve;
+&emsp;&emsp;(B) served on active duty as defined by section 101(21) of title 38 at any time in the armed forces for a period of more than 180 consecutive days any part of which occurred after January 31, 1955, and before October 15, 1976, not including service under section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve; or
+
+&emsp;&emsp;(C) served on active duty as defined by section 101(21) of title 38 in the armed forces during the period beginning on August 2, 1990, and ending on January 2, 1992;
 
 > &emsp;and who has been separated from the armed forces under honorable conditions;
 
@@ -16,7 +18,7 @@ For the purpose of this title–
 
 &emsp;&emsp;(A) a veteran as defined by paragraph (1)(A) of this section;
 
-&emsp;&emsp;(B) a veteran as defined by paragraph (1)(B) of this section;
+&emsp;&emsp;(B) a veteran as defined by paragraph (1)(B) or (C) of this section;
 
 &emsp;&emsp;(C) a disabled veteran;
 
@@ -50,7 +52,7 @@ For the purpose of this title–
 
 &emsp;(5) “retired member of the armed forces” means a member or former member of the armed forces who is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 410; Pub. L. 90–83, §1(6), Sept. 11, 1967, 81 Stat. 196; Pub. L. 90–623, §1(2), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 92–187, §1, Dec. 15, 1971, 85 Stat. 644; Pub. L. 94–502, title VII, §702, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–454, title III, §307(a), title IV, §401(d), Oct. 13, 1978, 92 Stat. 1147, 1154; Pub. L. 96–54, §2(a)(8), (9)(A), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–191, §8(a), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–89, title VIII, §801, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(a), May 30, 1988, 102 Stat. 581; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 410; Pub. L. 90–83, §1(6), Sept. 11, 1967, 81 Stat. 196; Pub. L. 90–623, §1(2), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 92–187, §1, Dec. 15, 1971, 85 Stat. 644; Pub. L. 94–502, title VII, §702, Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–454, title III, §307(a), title IV, §401(d), Oct. 13, 1978, 92 Stat. 1147, 1154; Pub. L. 96–54, §2(a)(8), (9)(A), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–191, §8(a), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–89, title VIII, §801, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 100–325, §2(a), May 30, 1988, 102 Stat. 581; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 105–85, div. A, title XI, §1102(a), (c), Nov. 18, 1997, 111 Stat. 1922.)
 
 Historical and Revision Notes<br>1966
 
@@ -88,7 +90,7 @@ Dec. 27, 1950, ch. 1151, §1, 64 Stat. 1117.
 
 July 14, 1952, ch. 728, §1, 66 Stat. 626.
 
-In paragraph (2), the words “a military department” are substituted for “the War Department or Navy Department” (appearing in section 2 of the Act of June 27, 1944) because of the definition of “military department” in section 102. The Department of War was designated the Department of the Army by the Act of July 26, 1947, ch. 343, §205, 61 Stat. 501. “Department of the Air Force” is included on authority of the Act of July 26, 1947, ch. 343, §207 (a), (f), 61 Stat. 502.
+In paragraph (2), the words “a military department” are substituted for “the War Department or Navy Department” (appearing in section 2 of the Act of June 27, 1944) because of the definition of “military department” in section 102. The Department of War was designated the Department of the Army by the Act of July 26, 1947, ch. 343, §205, 61 Stat. 501. “Department of theAir Force” is included on authority of the Act of July 26, 1947, ch. 343, §207 (a), (f), 61 Stat. 502.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -108,13 +110,13 @@ Act
 
 Mar. 3, 1966, Pub. L. 89–358, §11, 80 Stat. 28.
 
-#### References in Text
-
-The date of enactment of the Veterans’ Education and Employment Assistance Act of 1976, referred to in par. (1)(B), means the date of enactment of Pub. L. 94–502, which was Oct. 15, 1976.
-
-Section 511 of title 10, referred to in par. (1)(B), was renumbered section 12103 of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1662(b)(2), Oct. 5, 1994, 108 Stat. 2989.
-
 #### Amendments
+
+1997—Par. (1)(B). Pub. L. 105–85, §1102(c), substituted “October 15, 1976,” for “the date of enactment of the Veterans’ Education and Employment Assistance Act of 1976,” and “12103(d) of title 10” for “511(d) of title 10”.
+
+Par. (1)(C). Pub. L. 105–85, §1102(a)(1), added subpar. (C).
+
+Par. (3)(B). Pub. L. 105–85, §1102(a)(2), inserted “or (C)” after “paragraph (1)(B)”.
 
 1991—Par. (2). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -171,6 +173,4 @@ Amendment by Pub. L. 90–623 effective Sept. 11, 1967, for all purposes, see se
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3305, 3309, 3312, 3318, 3352, 3502, 3504 of this title; title 10 sections 943, 1599c, 1614; title 16 section 3198; title 22 sections 1438, 3941; title 32 section 709; title 38 sections 106, 5303A, 7281, 7802; title 39 section 1005; title 42 sections 2992a–1, 9839; title 49 section 47112.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

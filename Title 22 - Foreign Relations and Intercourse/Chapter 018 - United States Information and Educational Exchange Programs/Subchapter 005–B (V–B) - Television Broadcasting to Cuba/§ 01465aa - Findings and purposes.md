@@ -6,7 +6,7 @@ The Congress finds and declares that—
 
 &emsp;(2) consonant with this policy, television broadcasting to Cuba may be effective in furthering the open communication of accurate information and ideas to the people of Cuba and, in particular, information about Cuba;
 
-&emsp;(3) television broadcasting to Cuba, operated in a manner not inconsistent with the broad foreign policy of the United States and in accordance with high professional standards, would be in the national interest;
+&emsp;(3) television broadcasting to Cuba, operated in a manner not inconsistent with the broadforeign policy of the United States and in accordance with high professional standards, would be in the national interest;
 
 &emsp;(4) facilities broadcasting television programming to Cuba must be operated in a manner consistent with applicable regulations of the Federal Communications Commission, and must not affect the quality of domestic broadcast transmission or reception; and
 

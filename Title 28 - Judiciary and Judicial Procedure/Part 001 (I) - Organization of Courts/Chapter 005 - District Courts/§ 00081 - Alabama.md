@@ -62,7 +62,7 @@ Alabama is divided into three judicial districts to be known as the Northern, Mi
 
 &emsp;&emsp;Court for the Southern Division shall be held at Mobile.
 
-(June 25, 1948, ch. 646, 62 Stat. 873; May 19, 1961, Pub. L. 87–36, §3(a), 75 Stat. 83.)
+(June 25, 1948, ch. 646, 62 Stat. 873; Pub. L. 87–36, §3(a), May 19, 1961, 75 Stat. 83.)
 
 #### Historical and Revision Notes
 
@@ -80,5 +80,5 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1961—Subsec. (a)(2). Pub. L. 87–36 provided for holding court at Decatur.
+<b>1961</b>—Subsec. (a)(2). Pub. L. 87–36 provided for holding court at Decatur.
 

@@ -28,11 +28,11 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;(7) with respect to each loan made from the proceeds of such debenture, the Administration—
 
-&emsp;&emsp;(A) assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
+&emsp;&emsp;(A) assesses and collects a fee, which shall be payable by the borrower, in an amount established annually by the Administration, which amount shall not exceed the lesser of—
 
-&emsp;&emsp;&emsp;(i) 0.9375 percent per year of the outstanding balance of the loan; or
+&emsp;&emsp;&emsp;(i) 0.9375 percent per year of the outstanding balance of the loan; and
 
-&emsp;&emsp;&emsp;(ii) such percentage per year of the outstanding balance of the loan as the Administrator may determine to be necessary to reduce the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase or guarantee $2,000,000,000 of debentures in fiscal year 1997; and
+&emsp;&emsp;&emsp;(ii) the minimum amount necessary to reduce the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to zero; and
 
 &emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
@@ -52,7 +52,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (2) Participation fee
 
-&emsp;The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of any institution described in subclause (I), (II), or (III) of section 696(3)(B)(i) of this title. Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the development company. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of any institution described in subclause (I), (II), or (III) of section 696(3)(B)(i) of this title. Such fee shall be imposed only when the participation of the institution will occupy a senior credit position to that of the developmentcompany. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
 #### (3) Development company fee
 
@@ -74,7 +74,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (f) Effective date
 
-The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 1997.
+The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000.
 
 #### (g) Calculation of subsidy rate
 
@@ -104,13 +104,21 @@ All fees, interest, and profits received and retained by the Administration unde
 
 &emsp;&emsp;(C) for any project financed after September 30, 1996, shall not pay any default interest rate higher than the interest rate on the note prior to the date of default.
 
-(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736.)
+(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, §222, Dec. 2, 1997, 111 Stat. 2604.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (b)(7)(A)(ii) and (g), see References in Text note set out under section 661 of this title.
 
 #### Amendments
+
+1997—Subsec. (b)(7)(A). Pub. L. 105–135, §222(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “assesses and collects a fee, which shall be payable by the borrower, in an amount equal to the lesser of—
+
+&emsp;“(i) 0.9375 percent per year of the outstanding balance of the loan; or
+
+&emsp;“(ii) such percentage per year of the outstanding balance of the loan as the Administrator may determine to be necessary to reduce the cost (as that term is defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase or guarantee $2,000,000,000 of debentures in fiscal year 1997; and”.
+
+Subsec. (f). Pub. L. 105–135, §222(2), substituted “2000” for “1997”.
 
 1996—Subsec. (b)(7)(A). Pub. L. 104–208, §202(b), substituted “equal to the lesser of—” for “equal to 0.125 percent per year of the outstanding balance of the loan” and added cls. (i) and (ii).
 
@@ -138,6 +146,10 @@ Subsec. (e). Pub. L. 100–590, §117, which directed substitution of “(1) For
 
 Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended by Pub. L. 103–403, redesignated former subsec. (d) as (e).
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 104–208, set out as a note under section 633 of this title.
@@ -156,7 +168,7 @@ Section effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 696, 697a, 697d, 697e, 697f of this title.
+This section is referred to in sections 636, 696, 697a, 697d, 697e, 697f of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

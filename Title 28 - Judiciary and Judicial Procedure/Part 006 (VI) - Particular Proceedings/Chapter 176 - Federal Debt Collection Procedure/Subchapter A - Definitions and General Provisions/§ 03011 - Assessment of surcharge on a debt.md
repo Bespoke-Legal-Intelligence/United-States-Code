@@ -2,7 +2,7 @@
 
 (a)
 
-Surcharge Authorized.—In an action or proceeding under subchapter B or C, and subject to subsection (b), the United States is entitled to recover a surcharge of 10 percent of the amount of the debt in connection with the recovery of the debt, to cover the cost of processing and handling the litigation and enforcement under this chapter of the claim for such debt.
+Surcharge Authorized.—In an action or proceeding under subchapter B or C, and subject to subsection (b), the United States is entitledto recover a surcharge of 10 percent of the amount of the debt in connection with the recovery of the debt, to cover the cost of processing and handling the litigation and enforcement under this chapter of the claim for such debt.
 
 (b)
 

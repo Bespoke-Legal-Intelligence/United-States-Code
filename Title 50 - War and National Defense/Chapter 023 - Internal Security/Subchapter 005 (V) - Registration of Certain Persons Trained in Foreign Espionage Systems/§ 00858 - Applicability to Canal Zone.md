@@ -2,7 +2,7 @@
 
 This subchapter applies to and within the Canal Zone.
 
-(Aug. 1, 1956, ch. 849, §10, as added Oct. 18, 1962, Pub. L. 87–845, §13, 76A Stat. 700.)
+(Aug. 1, 1956, ch. 849, §10, as added Pub. L. 87–845, §13, Oct. 18, 1962, 76A Stat. 700.)
 
 #### References in Text
 

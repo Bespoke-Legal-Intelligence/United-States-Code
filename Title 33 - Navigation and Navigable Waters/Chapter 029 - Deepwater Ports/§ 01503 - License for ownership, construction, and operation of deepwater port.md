@@ -86,7 +86,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug
 
 1996—Subsec. (a). Pub. L. 104–324, §504(a), struck out at end “A deepwater port, licensed pursuant to the provisions of this chapter, may not be utilized—
 
-&emsp;“(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in the construction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
+&emsp;“(1) for the loading and unloading of commodities or materials (other than oil) transported from the United States, other than materials to be used in theconstruction, maintenance, or operation of the high seas oil port, to be used as ship supplies, including bunkering for vessels utilizing the high seas oil port,
 
 &emsp;“(2) for the transshipment of commodities or materials, to the United States, other than oil,
 
@@ -102,7 +102,7 @@ Subsec. (f). Pub. L. 104–324, §504(e), inserted heading and amended text gene
 
 1990—Subsec. (c)(1). Pub. L. 101–380 substituted “section 2716 of this title” for “section 1517(<i>l</i>) of this title;”.
 
-1984—Subsec. (b). Pub. L. 98–419, §2(b), substituted provisions authorizing the Secretary, on application, toissue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
+1984—Subsec. (b). Pub. L. 98–419, §2(b), substituted provisions authorizing the Secretary, on application, to issue a license for the ownership, construction, and operation of a deepwater port and, on petition of the licensee, to amend, transfer, or reinstate a license issued under this chapter for provisions which had authorized the Secretary, upon application and in accordance with the provisions of this chapter, to issue, transfer, amend, or renew a license for the ownership, construction, and operation of a deepwater port.
 
 Subsec. (e)(1). Pub. L. 98–419, §2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 

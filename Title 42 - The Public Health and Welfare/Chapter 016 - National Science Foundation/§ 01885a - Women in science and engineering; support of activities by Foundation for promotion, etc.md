@@ -30,7 +30,7 @@ The Foundation is authorized to—
 
 &emsp;(8) make grants, to be known as the National Research Opportunity Grants, to women scientists and engineers who (A) have received their doctorates within five years prior to the date of the award or (B) have received their doctorates, have had their careers interrupted, and are re-entering the work force within five years after such interruption;
 
-&emsp;(9) make grants to women eligible under paragraph (8) to assist such women in planningand developing a research project eligible for support under such paragraph;
+&emsp;(9) make grants to women eligible under paragraph (8) to assist such women in planning and developing a research project eligible for support under such paragraph;
 
 &emsp;(10) provide support to individuals or academic institutions for full-time or part-time visiting professorships for women in science and engineering; and
 

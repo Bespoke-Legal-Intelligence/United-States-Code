@@ -1,6 +1,6 @@
 ### §5701. Confidential nature of claims
 
-(a) All files, records, reports, and other papers and documents pertaining to any claim underany of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
+(a) All files, records, reports, and other papers and documents pertaining to any claim under any of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
 
 (b) The Secretary shall make disclosure of such files, records, reports, and other papers and documents as are described in subsection (a) of this section as follows:
 
@@ -28,7 +28,7 @@
 
 (f) The Secretary may, pursuant to regulations the Secretary shall prescribe, release the name or address, or both, of any present or former member of the Armed Forces, or a dependent of a present or former member of the Armed Forces, (1) to any nonprofit organization if the release is directly connected with the conduct of programs and the utilization of benefits under this title, or (2) to any criminal or civil law enforcement governmental agency or instrumentality charged under applicable law with the protection of the public health or safety if a qualified representative of such agency or instrumentality has made a written request that such name or address be provided for a purpose authorized by law. Any organization or member thereof or other person who, knowing that the use of any name or address released by the Secretary pursuant to the preceding sentence is limited to the purpose specified in such sentence, willfully uses such name or address for a purpose other than those so specified, shall be guilty of a misdemeanor and be fined not more than $5,000 in the case of a first offense and not more than $20,000 in the case of any subsequent offense.
 
-(g)(1) Subject to the provisions of this subsection, and under regulations which the Secretary shall prescribe, the Secretary may release the name or address, or both, of any person who is a present or former member of the Armed Forces, or who is a dependent of a present or former member of the Armed Forces, to a consumer reporting agency if the release of such information is necessary for a purpose described in paragraph (2) of this subsection.
+(g)(1) Subject to the provisions of this subsection, and under regulations which the Secretary shall prescribe, the Secretary may release the name or address, or both, of any person who is a present or former member of the ArmedForces, or who is a dependent of a present or former member of the Armed Forces, to a consumer reporting agency if the release of such information is necessary for a purpose described in paragraph (2) of this subsection.
 
 (2) A release of information under paragraph (1) of this subsection concerning a person described in such paragraph may be made for the purpose of—
 
@@ -144,7 +144,7 @@ Subsec. (b)(6). Pub. L. 96–466, §606(b), added par. (6).
 
 Subsec. (c). Pub. L. 96–466, §606(c), designated existing provisions as pars. (1) and (3) with minor changes in language, and in par. (1) as so designated, substituted reference to the amount of any payment made by the Veterans’ Administration to any person receiving benefits under a program administered by the Veterans’ Administration for reference to the amount of pension, compensation, or dependency and indemnity compensation of any beneficiary, and added par. (2).
 
-Subsec. (f). Pub. L. 96–466, §606(d), substituted “name or address, or both, of any present or former member of the Armed Forces, or a dependent of a present or former member of the Armed Forces” for “names or addresses, or both, of any present or former members of the Armed Forces, and/or their dependents” and “written request that such name or address” for “written request that such names or addresses”.
+Subsec. (f). Pub. L. 96–466, §606(d), substituted “name or address, or both, of any present or former member of the Armed Forces, or a dependent of a present orformer member of the Armed Forces” for “names or addresses, or both, of any present or former members of the Armed Forces, and/or their dependents” and “written request that such name or address” for “written request that such names or addresses”.
 
 Subsecs. (g) to (i). Pub. L. 96–466, §606(e), added subsecs. (g) to (i). Former subsec. (g) redesignated (j).
 

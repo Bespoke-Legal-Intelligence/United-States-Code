@@ -8,7 +8,7 @@ The Architect of the Capitol shall have charge of the structural and mechanical 
 
 In addition to the foregoing, any funds hereafter appropriated under authority of sections 13a to 13c of this title shall be available also for expenses of heating and air-conditioning refrigeration supplied by the Capitol Power Plant, advancements for which shall be made and deposited in the Treasury to the credit of appropriations hereafter provided for the Capitol Power Plant; and for the purchase of electrical energy.
 
-(May 7, 1934, ch. 222, §1, 48 Stat. 668; Oct. 10, 1978, Pub. L. 95–431, title IV, 92 Stat. 1036.)
+(May 7, 1934, ch. 222, §1, 48 Stat. 668; Pub. L. 95–431, title IV, Oct. 10, 1978, 92 Stat. 1036.)
 
 #### Codification
 

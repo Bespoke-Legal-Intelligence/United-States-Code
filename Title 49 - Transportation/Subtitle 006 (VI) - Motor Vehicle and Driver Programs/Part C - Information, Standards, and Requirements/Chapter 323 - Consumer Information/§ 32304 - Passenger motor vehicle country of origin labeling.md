@@ -16,7 +16,7 @@ Definitions.—In this section—
 
 &emsp;(B) light duty trucks are different carlines than passenger motor vehicles.
 
-&emsp;(3) “country of origin”, when referring to the origin of an engine or transmission, means the country from which the largest share ofthe dollar value added to an engine or transmission has originated—
+&emsp;(3) “country of origin”, when referring to the origin of an engine or transmission, means the country from which the largest share of the dollar value added to an engine or transmission has originated—
 
 &emsp;&emsp;(A) with the United States and Canada treated as separate countries; and
 
@@ -190,7 +190,7 @@ This amends 49:32304(a)(14) to reflect the inclusion of the Northern Mariana Isl
 
 #### Amendments
 
-1994—Subsec. (a)(11). Pub. L. 103–429, §6(29), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “ ‘passenger motor vehicle’ means a motor vehicle with motive power, manufactured primarily for use on public streets, roads, and highways, and designed to carry not more than 12 individuals—
+1994—Subsec. (a)(11). Pub. L. 103–429, §6(29), amended par. (11) generally. Prior to amendment, par. (11) readas follows: “ ‘passenger motor vehicle’ means a motor vehicle with motive power, manufactured primarily for use on public streets, roads, and highways, and designed to carry not more than 12 individuals—
 
 &emsp;“(A) including a multipurpose vehicle or light duty truck when the vehicle or truck is rated at not more than 8,500 pounds gross vehicle weight; but
 

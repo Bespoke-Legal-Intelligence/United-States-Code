@@ -1,6 +1,6 @@
 ### §2388. Activities affecting armed forces during war
 
-(a) Whoever, when the United States is at war, willfully makes or conveys false reports or false statements with intent to interfere with the operation or success of the military or naval forces of the United States or to promote the success of its enemies; or
+(a) Whoever, when the United States is at war, willfully makes or conveys false reports or false statements with intent to interfere with the operation or success of the military or naval forcesof the United States or to promote the success of its enemies; or
 
 Whoever, when the United States is at war, willfully causes or attempts to cause insubordination, disloyalty, mutiny, or refusal of duty, in the military or naval forces of the United States, or willfully obstructs the recruiting or enlistment service of the United States, to the injury of the service or the United States, or attempts to do so—
 

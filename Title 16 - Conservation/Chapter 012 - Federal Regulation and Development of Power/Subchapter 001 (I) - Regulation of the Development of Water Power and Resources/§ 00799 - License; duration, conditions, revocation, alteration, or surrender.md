@@ -6,7 +6,7 @@ Licenses under this subchapter shall be issued for a period not exceeding fifty 
 
 #### Amendments
 
-1996—Pub. L. 104–106 and Pub. L. 104–316 amended section identically, striking out at end “Copies of all licenses issued under the provisions of this subchapter and calling for the payment of annual charges shall be deposited with the General Accounting Office, in compliance with section 20 of title 41.”
+1996—Pub. L. 104–106 and Pub. L. 104–316, each of which directed amendment of this section by striking out last sentence, were executed identically, striking out at end “Copies of all licenses issued under the provisions of this subchapter and calling for the payment of annual charges shall be deposited with the General Accounting Office, in compliance with section 20 of title 41.” to reflect the probable intent of Congress.
 
 1935—Act Aug. 26, 1935, §204, amended section generally, substituting “thirty days” for “ninety days” in third sentence and inserting last sentence.
 
@@ -16,5 +16,5 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Transfer of Functions
 
-Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42, The Public Health and Welfare.
+Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable watersunder this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42, The Public Health and Welfare.
 

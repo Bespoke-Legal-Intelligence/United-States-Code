@@ -8,13 +8,13 @@ Substitute, Congestion Mitigation and Air Quality Improvement, Surface Transport
 
 General rule.—Subject to paragraph (2), when a State—
 
-&emsp;&emsp;(A)(i) has obligated all funds apportioned or allocated to it under section 103(e)(4)(H),104(b)(2), 104(b)(3), 104(f), 144, or 307 of this title, or
+&emsp;&emsp;(A)(i) has obligated all funds apportioned or allocated to it under section 103(e)(4)(H), 104(b)(2), 104(b)(3), 104(f), 144, or 307 of this title, or
 
 &emsp;&emsp;(ii) has used or demonstrates that it will use all obligation authority allocated to it for Federal-aid highways and highway safety construction, and
 
 &emsp;&emsp;(B) proceeds with a project funded under such an apportionment or allocation without the aid of Federal funds in accordance with all procedures and all requirements applicable to such a project, except insofar as such procedures and requirements limit the State to implementation of projects with the aid of Federal funds previously apportioned or allocated to it or limit a State to implementation of a project with obligation authority previously allocated to it for Federal-aid highways and highway safety construction,
 
-> &emsp;the Secretary, upon approval of an application of the State, is authorized to pay to the State the Federal share of the cost of the project when additional funds are apportioned or allocated to the State under such section or when additional obligation authority is allocated to it.
+> &emsp;the Secretary, upon approval of an application of the State, is authorized to pay to the Statethe Federal share of the cost of the project when additional funds are apportioned or allocated to the State under such section or when additional obligation authority is allocated to it.
 
 &emsp;(2)
 

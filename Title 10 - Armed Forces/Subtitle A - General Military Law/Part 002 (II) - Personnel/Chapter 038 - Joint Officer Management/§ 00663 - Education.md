@@ -14,7 +14,7 @@ Capstone Course for New General and Flag Officers.—(1) Each officer selected f
 
 &emsp;(D) in the case of a medical officer, dental officer, veterinary officer, medical service officer, nurse, biomedical science officer, or chaplain.
 
-(3) The authority of the Secretary of Defense to grant a waiver under paragraph (2) may only be delegated to the Deputy Secretary of Defense, an Under Secretary of Defense, or an AssistantSecretary of Defense. Such a waiver may be granted only on a case-by-case basis in the case of an individual officer.
+(3) The authority of the Secretary of Defense to grant a waiver under paragraph (2) may only be delegated to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. Such a waiver may be granted only on a case-by-case basis in the case of an individual officer.
 
 (b)
 

@@ -20,7 +20,7 @@
 
 &emsp;(2) is an unserviceable firearm, other than a machinegun as defined in section 5845(b) of the Internal Revenue Code of 1986 (not readily restorable to firing condition), imported or brought in as a curio or museum piece;
 
-&emsp;(3) is of a type that does not fall within the definition of a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 and is generally recognized as particularlysuitable for or readily adaptable to sporting purposes, excluding surplus military firearms, except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled; or
+&emsp;(3) is of a type that does not fall within the definition of a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 and is generally recognized as particularly suitable for or readily adaptable to sporting purposes, excluding surplus military firearms, except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled; or
 
 &emsp;(4) was previously taken out of the United States or a possession by the person who is bringing in the firearm or ammunition.
 

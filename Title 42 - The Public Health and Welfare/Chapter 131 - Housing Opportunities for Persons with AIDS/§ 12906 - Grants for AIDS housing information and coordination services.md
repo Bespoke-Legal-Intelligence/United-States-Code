@@ -8,7 +8,7 @@ Grants under this section may only be used for the following activities:
 
 #### (2) Resource identification
 
-&emsp;To identify, coordinate, and develop housing assistance resources (including conductingpreliminary research and making expenditures necessary to determine the feasibility of specific housing-related initiatives) for eligible persons.
+&emsp;To identify, coordinate, and develop housing assistance resources (including conducting preliminary research and making expenditures necessary to determine the feasibility of specific housing-related initiatives) for eligible persons.
 
 (Pub. L. 101–625, title VIII, §857, Nov. 28, 1990, 104 Stat. 4379; Pub. L. 102–550, title VI, §606(j)(11)(B), Oct. 28, 1992, 106 Stat. 3811.)
 

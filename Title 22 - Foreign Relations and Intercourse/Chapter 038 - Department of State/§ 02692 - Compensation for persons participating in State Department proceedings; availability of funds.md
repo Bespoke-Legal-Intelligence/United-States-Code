@@ -8,7 +8,7 @@
 
 (b) Of the funds appropriated for salaries and expenses for the Department of State, not to exceed $250,000 shall be available in any fiscal year for compensation under this section to such organizations and persons.
 
-(Aug. 1, 1956, ch. 841, title I, §22, as added Aug. 17, 1977, Pub. L. 95–105, title I, §113(a), 91 Stat. 848; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282.)
+(Aug. 1, 1956, ch. 841, title I, §22, as added Pub. L. 95–105, title I, §113(a), Aug. 17, 1977, 91 Stat. 848; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 
 #### Effective Date
 

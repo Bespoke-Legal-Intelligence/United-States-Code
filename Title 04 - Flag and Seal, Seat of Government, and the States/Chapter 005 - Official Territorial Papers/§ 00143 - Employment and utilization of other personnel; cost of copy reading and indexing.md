@@ -4,7 +4,7 @@
 
 (b) The work of copy reading and index making for the publication of the papers described in section 141 of this title shall be done by the regular editorial staff of the National Archives and Records Administration, and the cost of this particular phase of the work (prorated each month according to the number of hours spent and the annual salaries of the clerks employed) shall be charged against the annual appropriations made under section 146 of this title.
 
-(Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 714; amended Oct. 19, 1984, Pub. L. 98–497, title I, §107(f), 98 Stat. 2292.)
+(Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 714; amended Pub. L. 98–497, title I, §107(f), Oct. 19, 1984, 98 Stat. 2292.)
 
 #### Amendments
 

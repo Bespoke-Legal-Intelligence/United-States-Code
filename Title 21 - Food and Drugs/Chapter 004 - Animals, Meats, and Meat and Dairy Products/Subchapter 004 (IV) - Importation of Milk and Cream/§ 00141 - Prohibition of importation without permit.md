@@ -2,7 +2,7 @@
 
 On and after May 16, 1927, the importation into the United States of milk and cream is prohibited unless the person by whom such milk or cream is shipped or transported into the United States holds a valid permit from the Secretary of Health and Human Services.
 
-(Feb. 15, 1927, ch. 155, §1, 44 Stat. 1101; 1940 Reorg. Plan No. IV, §12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(Feb. 15, 1927, ch. 155, §1, 44 Stat. 1101; 1940 Reorg. Plan No. IV, §12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Change of Name
 

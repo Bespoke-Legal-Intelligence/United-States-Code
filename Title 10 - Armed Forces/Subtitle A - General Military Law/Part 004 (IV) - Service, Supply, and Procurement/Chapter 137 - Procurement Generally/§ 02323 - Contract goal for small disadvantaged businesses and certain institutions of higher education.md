@@ -4,7 +4,7 @@
 
 Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amount described in subsection (b) shall be the objective of the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration in each fiscal year for the total combined amount obligated for contracts and subcontracts entered into with—
 
-&emsp;(A) small business concerns, including mass media and advertising firms, owned and controlled by socially and economically disadvantaged individuals (as such term is used in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and regulations issued under that section), the majority of the earnings of which directly accrue to such individuals;
+&emsp;(A) small business concerns, including mass media and advertising firms, owned and controlled by socially and economically disadvantaged individuals (as such term is used in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and regulations issued under that section), the majority of the earnings of which directly accrue to such individuals, and qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act);
 
 &emsp;(B) historically Black colleges and universities, including any nonprofit research institution that was an integral part of such a college or university before November 14, 1986; and
 
@@ -12,7 +12,7 @@ Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amo
 
 (2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities and minority institutions in order to increase the participation of such colleges and universities in the program provided for by this section.
 
-(3) The Federal Acquisition Regulation shall provide procedures or guidelines for contracting officers to set goals which agency prime contractors that are required to submit subcontracting plans under section 8(d)(4)(B) of the Small Business Act (15 U.S.C. 637(d)(4)(B)) in furtherance of the agency's program to meet the 5 percent goal specified in paragraph (1) should meet in awarding subcontracts, including subcontracts to minority-owned media, to entities described in that paragraph.
+(3) The Federal Acquisition Regulation shall provide procedures or guidelines for contracting officers to set goals which agency prime contractors that are required to submit subcontracting plans under section 8(d)(4)(B) of theSmall Business Act (15 U.S.C. 637(d)(4)(B)) in furtherance of the agency's program to meet the 5 percent goal specified in paragraph (1) should meet in awarding subcontracts, including subcontracts to minority-owned media, to entities described in that paragraph.
 
 (b)
 
@@ -82,7 +82,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;(2) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency shall make advance payments under section 2307 of this title to contractors described in subsection (a). The Federal Acquisition Regulation shall provide guidance to contracting officers for making advance payments to entities described in subsection (a)(1) under such section.
 
-&emsp;(3) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in the preceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns insuch industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
+&emsp;(3) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in the preceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns in such industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
 
 &emsp;(4) To the extent practicable, the head of an agency shall maximize the number of minority small business concerns, historically Black colleges and universities, and minority institutions participating in the program.
 
@@ -112,7 +112,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 (f)
 
-Penalties and Regulations Relating to Status.—(1) Whoever for the purpose of securing a contract or subcontract under subsection (a) misrepresents the status of any concern or person as a small business concern owned and controlled by a minority (as described in subsection (a)), shall be punished by imprisonment for not more than one year, or a fine under title 18, or both.
+Penalties and Regulations Relating to Status.—(1) Whoever for the purpose of securing a contract or subcontract under subsection (a) misrepresents the status of any concern or person as a small business concern owned and controlled by a minority (as described in subsection (a)) or as a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act), shall be punished by imprisonment for not more than one year, or a fine under title 18, or both.
 
 (2) The Federal Acquisition Regulation shall prohibit awarding a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(<i>o</i>)(1) of the Small Business Act (15 U.S.C. 644(<i>o</i>)(1)).
 
@@ -166,9 +166,11 @@ Effective Date.—(1) This section applies in the Department of Defense to each 
 
 (2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2000.
 
-(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672.)
+(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632.)
 
 #### References in Text
+
+Section 3(p) of the Small Business Act, referred to in subsecs. (a)(1)(A) and (f)(1), is classified to section 632(p) of Title 15, Commerce and Trade.
 
 Section 8(a) of the Small Business Act, referred to in subsec. (e)(3), is classified to section 637(a) of Title 15, Commerce and Trade.
 
@@ -181,6 +183,10 @@ Section, as added by Pub. L. 102–484, §801(a)(1), consists of text of Pub. L.
 A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2598; amended Pub. L. 99–500, §101(c) \[title X, §926(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §926(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, §926(a)(1), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, related to commercial pricing for spare or repair parts, prior to repeal by Pub. L. 101–510, div. A, title VIII, §804(a), Nov. 5, 1990, 104 Stat. 1591.
 
 #### Amendments
+
+1997—Subsec. (a)(1)(A). Pub. L. 105–135, §604(a)(1), inserted before semicolon at end “, and qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)”.
+
+Subsec. (f)(1). Pub. L. 105–135, §604(a)(2), inserted “or as a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act)” after “(as described in subsection (a))”.
 
 1996—Subsec. (a)(1)(C). Pub. L. 104–106, §4321(b)(8)(A), inserted closing parenthesis after “1135d–5(3))” and “1059c(b)(1))”.
 
@@ -198,7 +204,7 @@ Subsec. (a)(1)(C). Pub. L. 103–160, §811(b), amended subpar. (C) generally. P
 
 Subsec. (f)(2). Pub. L. 103–160, §811(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense shall prescribe regulations which provide for the following:
 
-&emsp;“(A) A requirement that a business which represents itself as an entity described in subsection (a)(1) and is seeking a Department of Defense contract maintain its status as an entity at the time of contract award.
+&emsp;“(A) A requirement that a business which represents itself as an entity described in subsection\(a)(1) and is seeking a Department of Defense contract maintain its status as an entity at the time of contract award.
 
 &emsp;“(B) A prohibition on the award of a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(<i>o</i>)(1) of the Small Business Act (15 U.S.C. 644(<i>o</i>)(1)).”
 
@@ -224,7 +230,7 @@ Subsec. (g). Pub. L. 102–484, §801(e)(2), added subsec. (g). Former subsec. (
 
 Subsec. (h). Pub. L. 102–484, §802(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Pub. L. 102–484, §801(f), as amended by Pub. L. 103–35, substituted “Report” for “Reports” in heading, struckout “July 15 of each year, the Secretary of Defense shall submit to Congress a report on the progress toward meeting the goal of subsection (a) during the current fiscal year. (2) Not later than” after “(1) Not later than”, struck out “final” after “Congress a”, and substituted “Secretary toward attaining” for “Secretary with” in former par. (2), redesignated par. (3) as (2) and substituted “report required under paragraph (1) shall” for “reports described in paragraphs (1) and (2) shall each”, redesignated par. (4) as (3) and substituted “report required under paragraph (1)” for “reports required under paragraph (2)”, and struck out par. (5) which read as follows: “The first report required by this subsection shall be submitted between May 1 and May 30, 1987.”
+Pub. L. 102–484, §801(f), as amended by Pub. L. 103–35, substituted “Report” for “Reports” in heading, struck out “July 15 of each year, the Secretary of Defense shall submit to Congress a report on the progress toward meeting the goal of subsection (a) during the current fiscal year. (2) Not later than” after “(1) Not later than”, struck out “final” after “Congress a”, and substituted “Secretary toward attaining” for “Secretary with” in former par. (2), redesignated par. (3) as (2) and substituted “report required under paragraph (1) shall” for “reports described in paragraphs (1) and (2) shall each”, redesignated par. (4) as (3) and substituted “report required under paragraph (1)” for “reports required under paragraph (2)”, and struck out par. (5) which read as follows: “The first report required by this subsection shall be submitted between May 1 and May 30, 1987.”
 
 Pub. L. 102–484, §801(e)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
@@ -233,6 +239,10 @@ Subsec. (i). Pub. L. 102–484, §802(1), redesignated subsec. (h) as (i). Forme
 Pub. L. 102–484, §801(e)(1), redesignated subsec. (h) as (i).
 
 Subsec. (j). Pub. L. 102–484, §802(1), redesignated subsec. (i) as (j).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135 set out as a note under section 631 of Title 15, Commerce and Trade.
 
 #### Effective Date of 1996 Amendment
 

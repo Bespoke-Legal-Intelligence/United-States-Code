@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, the President is authorized, in accordance with this chapter, to establish and conduct programs described in subsection (b) of this section to assist the demilitarization of the independent states of the former Soviet Union.
+Notwithstanding any other provision of law, the President is authorized, in accordance with this chapter, to establish and conduct programsdescribed in subsection (b) of this section to assist the demilitarization of the independent states of the former Soviet Union.
 
 #### (b) Types of programs
 
@@ -44,7 +44,7 @@ United States assistance authorized by subsection (a) of this section may not be
 
 #### References in Text
 
-Section 212 of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228), referred toin subsecs. (b)(1) and (d)(4), is set out in a note under section 2551 of this title.
+Section 212 of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228), referred to in subsecs. (b)(1) and (d)(4), is set out in a note under section 2551 of this title.
 
 #### Delegation of Authority
 

@@ -20,7 +20,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;(4) croplands that are otherwise not eligible—
 
-&emsp;&emsp;(A) if the Secretary determines that (i) such lands contribute to the degradation of water quality or would pose an on-site or off-site environmental threat to water quality if permitted to remain in agricultural production, and (ii) water quality objectives with respect to such land cannot be achieved under the water quality incentives program established under part II of this subchapter;
+&emsp;&emsp;(A) if the Secretary determines that (i) such lands contribute to the degradation ofwater quality or would pose an on-site or off-site environmental threat to water quality if permitted to remain in agricultural production, and (ii) water quality objectives with respect to such land cannot be achieved under the water quality incentives program established under part II of this subchapter;
 
 &emsp;&emsp;(B) if such croplands are newly-created, permanent grass sod waterways, or are contour grass sod strips established and maintained as part of an approved conservation plan;
 
@@ -66,7 +66,7 @@ The Secretary may maintain up to 36,400,000 acres in the conservation reserve at
 
 #### (4) Duty of Secretary
 
-&emsp;In utilizing the authority granted under this subsection, the Secretary shall attempt tomaximize water quality and habitat benefits in such watersheds by promoting a significant level of enrollment of lands within such watersheds in the program under this subpart by whatever means the Secretary determines appropriate and consistent with the purposes of this subpart.
+&emsp;In utilizing the authority granted under this subsection, the Secretary shall attempt to maximize water quality and habitat benefits in such watersheds by promoting a significant level of enrollment of lands within such watersheds in the program under this subpart by whatever means the Secretary determines appropriate and consistent with the purposes of this subpart.
 
 #### (g) Multi-year grasses and legumes
 

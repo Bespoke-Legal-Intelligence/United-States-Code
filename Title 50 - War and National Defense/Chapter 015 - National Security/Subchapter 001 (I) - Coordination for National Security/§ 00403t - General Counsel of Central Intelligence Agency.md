@@ -12,7 +12,7 @@ The General Counsel is the chief legal officer of the Central Intelligence Agenc
 
 The General Counsel of the Central Intelligence Agency shall perform such functions as the Director of Central Intelligence may prescribe.
 
-(June 20, 1949, ch. 227, §20, as added Oct. 11, 1996, Pub. L. 104–293, title VIII, §813(a), 110 Stat. 3483.)
+(June 20, 1949, ch. 227, §20, as added Pub. L. 104–293, title VIII, §813(a), Oct. 11, 1996, 110 Stat. 3483.)
 
 #### Codification
 

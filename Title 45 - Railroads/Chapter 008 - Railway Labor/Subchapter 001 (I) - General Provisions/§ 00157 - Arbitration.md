@@ -52,7 +52,7 @@ All testimony before said board shall be given under oath or affirmation, and an
 
 Any witness appearing before a board of arbitration shall receive the same fees and mileage as witnesses in courts of the United States, to be paid by the party securing the subpoena.
 
-(May 20, 1926, ch. 347, §7, 44 Stat. 582; June 21, 1934, ch. 691, §7, 48 Stat. 1197; Oct. 15, 1970, Pub. L. 91–452, title II, §238, 84 Stat. 930.)
+(May 20, 1926, ch. 347, §7, 44 Stat. 582; June 21, 1934, ch. 691, §7, 48 Stat. 1197; Pub. L. 91–452, title II, §238, Oct. 15, 1970, 84 Stat. 930.)
 
 #### Codification
 

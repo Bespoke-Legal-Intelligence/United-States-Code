@@ -16,7 +16,7 @@ Under the direction of the President, the Secretary of State (taking into accoun
 
 &emsp;(4) whether there will be delivery or other performance under such sale, lease, cooperative project, or export,
 
-> to the end that sales, financing, leases, cooperative projects, and exports will be integrated with other United States activities and to theend that the foreign policy of the United States would be best served thereby.
+> to the end that sales, financing, leases, cooperative projects, and exports will be integrated with other United States activities and to the end that the foreign policy of the United States would be best served thereby.
 
 #### (c) Coordination among representatives of United States
 

@@ -21,11 +21,7 @@ The timetable with respect to this subchapter for any budget year is as follows:
 
 Each report required by this section shall be submitted, in the case of CBO, to the House of Representatives, the Senate and OMB and, in the case of OMB, to the House of Representatives, the Senate, and the President on the day it is issued. On the following day a notice of the report shall be printed in the Federal Register.
 
-#### (c) Optional adjustment of maximum deficit amounts
-
-With respect to budget year 1994 or 1995, on the date specified in subsection (a) of this section the President shall notify the House of Representatives and the Senate of his decision regarding the optional adjustment of the maximum deficit amount (as allowed under section 903(g)(1)(B) of this title).
-
-#### (d) Sequestration preview reports
+#### (c) Sequestration preview reports
 
 #### (1) Reporting requirement
 
@@ -33,7 +29,7 @@ With respect to budget year 1994 or 1995, on the date specified in subsection (a
 
 #### (2) Discretionary sequestration report
 
-&emsp;The preview reports shall set forth estimates for the current year and each subsequent year through 1998 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title.
+&emsp;The preview reports shall set forth estimates for the current year and each subsequent year through 2002 of the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title.
 
 #### (3) Pay-as-you-go sequestration reports
 
@@ -51,7 +47,7 @@ With respect to budget year 1994 or 1995, on the date specified in subsection (a
 
 &emsp;&emsp;(A) The maximum deficit amount, the estimated deficit calculated under section 903(b) of this title, the excess deficit, and the margin.
 
-&emsp;&emsp;(B) The amount of reductions required under section 902 of this title, the excess deficit remaining after those reductions have been made, and the amount of reductions required from defense accounts and the reductions required from non-defense accounts.
+&emsp;&emsp;(B) The amount of reductions required under section 902 of this title, the excess deficit remaining after those reductions havebeen made, and the amount of reductions required from defense accounts and the reductions required from non-defense accounts.
 
 &emsp;&emsp;(C) The sequestration percentage necessary to achieve the required reduction in defense accounts under section 903(d) of this title.
 
@@ -65,15 +61,15 @@ With respect to budget year 1994 or 1995, on the date specified in subsection (a
 
 &emsp;The OMB reports shall explain the differences between OMB and CBO estimates for each item set forth in this subsection.
 
-#### (e) Notification regarding military personnel
+#### (d) Notification regarding military personnel
 
-On or before the date specified in subsection (a) of this section, the President shall notify the Congress of the manner in which he intends to exercise flexibility with respect to military personnel accounts under section 905(h) of this title.
+On or before the date specified in subsection (a) of this section, the President shall notify the Congress of the manner in which he intends to exercise flexibility with respect to military personnel accounts under section 905(f) of this title.
 
-#### (f) Sequestration update reports
+#### (e) Sequestration update reports
 
 On the dates specified in subsection (a) of this section, OMB and CBO shall issue a sequestration update report, reflecting laws enacted through those dates, containing all of the information required in the sequestration preview reports.
 
-#### (g) Final sequestration reports
+#### (f) Final sequestration reports
 
 #### (1) Reporting requirement
 
@@ -83,7 +79,7 @@ On the dates specified in subsection (a) of this section, OMB and CBO shall issu
 
 &emsp;The final reports shall set forth estimates for each of the following:
 
-&emsp;&emsp;(A) For the current year and each subsequent year through 1998 the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title.
+&emsp;&emsp;(A) For the current year and each subsequent year through 2002 the applicable discretionary spending limits for each category and an explanation of any adjustments in such limits under section 901 of this title.
 
 &emsp;&emsp;(B) For the current year and the budget year the estimated new budget authority and outlays for each category and the breach, if any, in each category.
 
@@ -93,37 +89,29 @@ On the dates specified in subsection (a) of this section, OMB and CBO shall issu
 
 #### (3) Pay-as-you-go and deficit sequestration reports
 
-&emsp;The final reports shall contain all the information required in the pay-as-you-go and deficit sequestration preview reports. In addition, these reports shall contain, for the budget year, for each account to be sequestered, estimates of the baseline level of sequestrable budgetary resources and resulting outlays and the amount of budgetary resources to be sequestered and resulting outlay reductions. The reports shall also contain estimates of the effects on outlays of the sequestration in each outyear through 1998 for direct spending programs.
+&emsp;The final reports shall contain all the information required in the pay-as-you-go and deficit sequestration preview reports. In addition, these reports shall contain, for the budget year, for each account to be sequestered, estimates of the baseline level of sequestrable budgetary resources and resulting outlays and the amount of budgetary resources to be sequestered and resulting outlay reductions. The reports shall also contain estimates of the effects on outlays of the sequestration in each outyear for direct spending programs.
 
-#### (4) Reports on sequestration to reduce the Violent Crime Reduction Trust Fund
-
-&emsp;The final reports shall set forth for the budget year estimates for each of the following:
-
-&emsp;&emsp;(A) The amount of budget authority appropriated from the Violent Crime Reduction Trust Fund and outlays resulting from those appropriations.
-
-&emsp;&emsp;(B) The sequestration percentage and reductions, if any, required under section 901a of this title.
-
-#### (5) Explanation of differences
+#### (4) Explanation of differences
 
 &emsp;The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under subsection <sup>1</sup> 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable <sup>2</sup> resources for any budget account to be reduced if such difference is greater than $5,000,000.
 
-#### (6) Presidential order
+#### (5) Presidential order
 
 &emsp;On the date specified in subsection (a) of this section, if in its final sequestration report OMB estimates that any sequestration is required, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
 
-#### (h) Within-session sequestration reports and order
+#### (g) Within-session sequestration reports and order
 
-If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach, 10 days later CBO shall issue a report containing the information required in paragraph (g)(2). Fifteen days after enactment, OMB shall issue a report containing the information required in paragraphs (g)(2) and (g)(4).<sup>3</sup> On the same day as the OMB report, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
+If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach, 10 days later CBO shall issue a report containing the information required in paragraph (f)(2). Fifteen days after enactment, OMB shall issue a report containing the information required in paragraphs (f)(2) and (f)(4). On the same day as the OMB report, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
 
-#### (i) GAO compliance report
+#### (h) GAO compliance report
 
 Upon request of the Committee on the Budget of the House of Representatives or the Senate, the Comptroller General shall submit to the Congress and the President a report on—
 
-&emsp;(1) the extent to which each order issued by the President under this section complies with all of the requirements contained in this subchapter, either certifying that the order fullyand accurately complies with such requirements or indicating the respects in which it does not; and
+&emsp;(1) the extent to which each order issued by the President under this section complies with all of the requirements contained in this subchapter, either certifying that the order fully and accurately complies with such requirements or indicating the respects in which it does not; and
 
 &emsp;(2) the extent to which each report issued by OMB or CBO under this section complies with all of the requirements contained in this subchapter, either certifying that the report fully and accurately complies with such requirements or indicating the respects in which it does not.
 
-#### (j) Low-growth report
+#### (i) Low-growth report
 
 At any time, CBO shall notify the Congress if—
 
@@ -131,25 +119,43 @@ At any time, CBO shall notify the Congress if—
 
 &emsp;(2) the most recent of the Department of Commerce's advance preliminary or final reports of actual real economic growth indicate that the rate of real economic growth for each of the most recently reported quarter and the immediately preceding quarter is less than one percent.
 
-#### (k) Economic and technical assumptions
+#### (j) Economic and technical assumptions
 
 In all reports required by this section, OMB shall use the same economic and technical assumptions as used in the most recent budget submitted by the President under section 1105(a) of title 31.
 
-(Pub. L. 99–177, title II, §254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, §310001(g)(2), Sept. 13, 1994, 108 Stat. 2105; Pub. L. 104–316, title I, §102(d), Oct. 19, 1996, 110 Stat. 3828.)
+(Pub. L. 99–177, title II, §254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, §310001(g)(2), Sept. 13, 1994, 108 Stat. 2105; Pub. L. 104–316, title I, §102(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 105–33, title X, §10206, Aug. 5, 1997, 111 Stat. 704.)
 
 #### Termination of Section
 
-<i>For termination of section by section 14002(c)(3)(A) of Pub. L. 103–66, see Effective and Termination Dates note set out under section 900 of this title.</i>
-
-#### References in Text
-
-Paragraph (4) of subsec. (g), referred to in subsec. (h), was redesignated par. (5) and a new par. (4) was added by Pub. L. 103–322, title XXXI, §310001(g)(2), Sept. 13, 1994, 108 Stat. 2105.
+<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
 
 #### Codification
 
-November 5, 1990, referred to in subsec. (d)(3)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
+November 5, 1990, referred to in subsec. (c)(3)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1997—Subsec. (c). Pub. L. 105–33, §10206(1), (2), redesignated subsec. (d) as (c), substituted “2002” for “1998” in par. (2), and struck out heading and text of former subsec. (c). Text read as follows: “With respect to budget year 1994 or 1995, on the date specified in subsection (a) of this section the President shall notify the House of Representatives and the Senate of his decision regarding the optional adjustment of the maximum deficit amount (as allowed under section 903(g)(1)(B) of this title).”
+
+Subsec. (d). Pub. L. 105–33, §10206(1), (3), redesignated subsec. (e) as (d) and substituted “section 905(f)” for “section 905(h)”. Former subsec. (d) redesignated (c).
+
+Subsec. (e). Pub. L. 105–33, §10206(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 105–33, §10206(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (f)(2)(A). Pub. L. 105–33, §10206(4)(A), substituted “2002” for “1998”.
+
+Subsec. (f)(3). Pub. L. 105–33, §10206(4)(B), struck out “through 1998” after “each outyear”.
+
+Subsec. (f)(4) to (6). Pub. L. 105–33, §10206(4)(C), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The final reports shall set forth for the budget year estimates for each of the following:
+
+&emsp;“(A) The amount of budget authority appropriated from the Violent Crime Reduction Trust Fund and outlays resulting from those appropriations.
+
+&emsp;“(B) The sequestration percentage and reductions, if any, required under section 901a of this title.”
+
+Subsec. (g). Pub. L. 105–33, §10206(1), (5), redesignated subsec. (h) as (g) and substituted “paragraph (f)(2)” for “paragraph (g)(2)” and “paragraphs (f)(2) and (f)(4)” for “paragraphs (g)(2) and (g)(4)”. Former subsec. (g) redesignated (f).
+
+Subsecs. (h) to (k). Pub. L. 105–33, §10206(1), redesignated subsecs. (i) to (k) as (h) to (j), respectively. Former subsec. (h) redesignated (g).
 
 1996—Subsec. (a). Pub. L. 104–316, §102(d)(1), struck out item at end of timetable relating to GAO compliance report.
 
@@ -183,7 +189,7 @@ Amounts Restored.—Any action taken to implement the orders referred to in subs
 
 Furloughed Employees.—(1) Federal employees furloughed as a result of the lapse in appropriations from midnight October 5, 1990, until the enactment of House Joint Resolution 666 \[Pub. L. 101–412, which was approved Oct. 9, 1990\] shall be compensated at their standard rate of compensation for the period during which there was a lapse in appropriations.
 
-“(2) All obligations incurred in anticipation of the appropriations made and authority granted by House Joint Resolution 666 for the purposes of maintaining the essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act \[Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894\].”
+“(2) All obligations incurred in anticipation of the appropriations made and authority granted by House Joint Resolution 666 for the purposes of maintainingthe essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act \[Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894\].”
 
 Pub. L. 101–467, §105, Oct. 28, 1990, 104 Stat. 1087, provided that:
 
@@ -253,7 +259,7 @@ Initial Order of the President of the United States, Aug. 25, 1990, 55 F.R. 3513
 
 1990—Pub. L. 101–239, title VI, §6001, Dec. 19, 1989, 103 Stat. 2139, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments for items and services under part A of such title \[42 U.S.C. 1395c et seq.\] (including payments under section 1886 of such title \[42 U.S.C. 1395ww\] attributable or allocated to such part). Each such payment made for items and services provided during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
 
-Pub. L. 101–239, title VI, §6101, Dec. 19, 1989, 103 Stat. 2168, provided that: “Notwithstanding any other provision of law (including any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989, pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through March 31, 1990, with respect to payments for items and services under part B of such title \[42 U.S.C. 1395j et seq.\].”
+Pub. L. 101–239, title VI, §6101, Dec. 19, 1989, 103 Stat. 2168, provided that: “Notwithstanding any other provision of law (including any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989, pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through March 31, 1990, with respect to payments for items and services under part B of such title \[42 U.S.C. 1395j et seq.\].”
 
 Pub. L. 101–239, title VI, §6201, Dec. 19, 1989, 103 Stat. 2225, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments under section 1833(a)(1)(A) or 1876 of the Social Security Act \[42 U.S.C. 1395<i>l</i>(a)(1)(A), 1395mm\], section 402 of the Social Security Amendments of 1967 \[section 402 of Pub. L. 90–248, enacting 42 U.S.C. 1395b–1, and amending 42 U.S.C. 1395<i>ll</i>\], or section 222 of the Social Security Amendments of 1972 \[section 222 of Pub. L. 92–603, amending 42 U.S.C. 1395b–1 and enacting provisions set out as a note under 42 U.S.C. 1395b–1\]. Each such payment made during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
 
@@ -337,13 +343,9 @@ Violent Crime Reduction Trust Fund, see section 14211 of Title 42, The Public He
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 691c, 901, 903, 906, 907a, 907b, 907c, 907d, 922 of this title; title 21 section 379g.
-
-—
+This section is referred to in sections 691c, 901, 903, 905, 906, 907a, 907b, 907c, 907d, 922 of this title; title 21 section 379g.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “sequestrable”.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
 

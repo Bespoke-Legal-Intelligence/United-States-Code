@@ -48,6 +48,10 @@ The State shall provide, in accordance with the requirements of section 1491d of
 
 (Pub. L. 91–230, title VI, §706, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3946.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1491b, 1491f of this title.

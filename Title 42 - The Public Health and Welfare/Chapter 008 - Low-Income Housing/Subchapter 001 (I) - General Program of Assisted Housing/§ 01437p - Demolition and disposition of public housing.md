@@ -12,7 +12,7 @@ The Secretary may not approve an application by a public housing agency for perm
 
 &emsp;&emsp;(ii) for property other than dwelling units, the property is excess to the needs of a project or the disposition is incidental to, or does not interfere with, continued operation of a project; and
 
-&emsp;&emsp;(B) the net proceeds of the disposition will be used for (i) the payment of development cost for the project and for the retirement ofoutstanding obligations issued to finance original development or modernization of the project, which, in the case of scattered-site housing of a public housing agency, shall be in an amount that bears the same ratio to the total of such costs and obligations as the number of units disposed of bears to the total number of units of the project at the time of disposition, and (ii) to the extent that any proceeds remain after the application of proceeds in accordance with clause (i), the provision of housing assistance for low-income families through such measures as modernization of low-income housing, or the acquisition, development, or rehabilitation of other properties to operate as low-income housing; or
+&emsp;&emsp;(B) the net proceeds of the disposition will be used for (i) the payment of development cost for the project and for the retirement of outstanding obligations issued to finance original development or modernization of the project, which, in the case of scattered-site housing of a public housing agency, shall be in an amount that bears the same ratio to the total of such costs and obligations as the number of units disposed of bears to the total number of units of the project at the time of disposition, and (ii) to the extent that any proceeds remain after the application of proceeds in accordance with clause (i), the provision of housing assistance for low-income families through such measures as modernization of low-income housing, or the acquisition, development, or rehabilitation of other properties to operate as low-income housing; or
 
 &emsp;(3) in the case of an application proposing demolition or disposition of any portion of a public housing project, assisted at any time under section 1437c(j)(2) of this title—
 
@@ -126,7 +126,7 @@ Subsec. (d). Pub. L. 100–242, §121(d), added subsec. (d) and struck out forme
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before,or after Sept. 30, 1995 and on or before Sept. 30, 1997, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
+Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995 and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
 
 #### Effective Date of 1990 Amendment
 

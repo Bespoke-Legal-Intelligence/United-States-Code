@@ -1,5 +1,5 @@
 
-2 U.S.C.<br>United States Code, 1996 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
+2 U.S.C.<br>United States Code, 1997 Edition<br>Title 2 - THE CONGRESS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 2—THE CONGRESS
 
@@ -8,7 +8,7 @@
 | [<b>1.</b>](Chapter%20001%20-%20Election%20of%20Senators%20and%20Representatives/README.md) | <b>Election of Senators and Representatives</b> | <b>1</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Organization%20of%20Congress/README.md) | <b>Organization of Congress</b> | <b>21</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Compensation%20and%20Allowances%20of%20Members/README.md) | <b>Compensation and Allowances of Members</b> | <b>31</b> |
-| <b>4.</b> | <b>Officers and Employees of Senate and House of Representatives</b> | <b>60</b> |
+| [<b>4.</b>](Chapter%20004%20-%20Officers%20and%20Employees%20of%20Senate%20and%20House%20of%20Representatives/README.md) | <b>Officers and Employees of Senate and House of Representatives</b> | <b>60</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Library%20of%20Congress/README.md) | <b>Library of Congress</b> | <b>131</b> |
 | [<b>6.</b>](Chapter%20006%20-%20Congressional%20and%20Committee%20Procedure%3B%20Investigations/README.md) | <b>Congressional and Committee Procedure; Investigations</b> | <b>190</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Contested%20Elections/README.md) | <b>Contested Elections \[Repealed\]</b> | <b>201</b> |
@@ -51,6 +51,7 @@
 - [Chapter 001 - Election of Senators and Representatives](Chapter%20001%20-%20Election%20of%20Senators%20and%20Representatives/README.md)
 - [Chapter 002 - Organization of Congress](Chapter%20002%20-%20Organization%20of%20Congress/README.md)
 - [Chapter 003 - Compensation and Allowances of Members](Chapter%20003%20-%20Compensation%20and%20Allowances%20of%20Members/README.md)
+- [Chapter 004 - Officers and Employees of Senate and House of Representatives](Chapter%20004%20-%20Officers%20and%20Employees%20of%20Senate%20and%20House%20of%20Representatives/README.md)
 - [Chapter 005 - Library of Congress](Chapter%20005%20-%20Library%20of%20Congress/README.md)
 - [Chapter 006 - Congressional and Committee Procedure; Investigations](Chapter%20006%20-%20Congressional%20and%20Committee%20Procedure%3B%20Investigations/README.md)
 - [Chapter 007 - Contested Elections](Chapter%20007%20-%20Contested%20Elections/README.md)

@@ -14,7 +14,7 @@ State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedur
 
 &emsp;(C) contains satisfactory assurances the State will devote adequate amounts to the administration of the plan and enforcement of the regulations, standards, and orders;
 
-&emsp;(D) provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safetyprograms for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for its last 3 full fiscal years before December 18, 1991;
+&emsp;(D) provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for its last 3 full fiscal years before December 18, 1991;
 
 &emsp;(E) provides a right of entry and inspection to carry out the plan;
 
@@ -114,7 +114,7 @@ In this section, the word “rules” is omitted as being synonymous with “reg
 
 In subsection (a), the words “Subject to this section and the availability of amounts” are substituted for “Under the terms and conditions of this section, subject to the availability of funds” to eliminate unnecessary words.
 
-In subsection (b)(1), before clause (A), the word “prescribe” is substituted for “formulate” for consistency in the revised title. Clause (D) is substituted for 49 App.:2302(d) to state the requirements of a plan in one place and to eliminate unnecessary words. In clause (K), the words “into law and practice” are omitted a unnecessary. In clause (O)(i), the words “highways of the United States” are substituted for “our Nation's highways” for consistency in the revised title and with other titles of the United States Code. In subclause (iii), the word “especially” is omitted as unnecessary.
+In subsection (b)(1), before clause (A), the word “prescribe” is substituted for “formulate” for consistency in the revised title. Clause (D) is substituted for 49 App.:2302(d) to state the requirements of a plan in one place and to eliminate unnecessary words. In clause (K), the words “into law and practice” are omitted a unnecessary. In clause (O)(i), the words “highways of the United States” are substituted for “our Nation's highways” for consistency in the revised title and withother titles of the United States Code. In subclause (iii), the word “especially” is omitted as unnecessary.
 
 In subsection (b)(3)(B), the words “Government financing” are substituted for “Federal funding” for clarity and consistency in the revised title.
 

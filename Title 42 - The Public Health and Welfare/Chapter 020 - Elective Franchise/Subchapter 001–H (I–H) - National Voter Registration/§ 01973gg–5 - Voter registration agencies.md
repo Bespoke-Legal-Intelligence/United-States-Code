@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(ii) if the agency provides public assistance, the statement, “Applying to register or declining to register to vote will not affect the amount of assistance that you will be provided by this agency.”;
 
-&emsp;&emsp;(iii) boxes for the applicant to check to indicate whether the applicant would like to register or declines to register to vote (failure to check either box being deemed to constitute a declination to register for purposes of subparagraph (C)), together with the statement (in close proximity to the boxes and in prominent type), “IF YOU DO NOT CHECK EITHER BOX, YOU WILL BE CONSIDERED TO HAVE DECIDED NOT TO REGISTER TO VOTE AT THIS TIME.”;
+&emsp;&emsp;(iii) boxes for the applicant to check to indicate whether the applicant would like to register or declines to register to vote (failure to check either box being deemed to constitute a declination to register for purposes of subparagraph (C)), together with the statement (in close proximity to the boxesand in prominent type), “IF YOU DO NOT CHECK EITHER BOX, YOU WILL BE CONSIDERED TO HAVE DECIDED NOT TO REGISTER TO VOTE AT THIS TIME.”;
 
 &emsp;&emsp;(iv) the statement, “If you would like help in filling out the voter registration application form, we will help you. The decision whether to seek or accept help is yours. You may fill out the application form in private.”; and
 

@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) the term “invention” means an invention or discovery that is patented or for which a patent may be obtained under title 35, or any novel variety of plant that is protected or for which plant variety protection may be obtained under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.) and that is conceived or reduced to practice as a result of work under an agreement entered into under this chapter;
+&emsp;(1) the term “invention” means an invention or discovery that is patented or for which apatent may be obtained under title 35, or any novel variety of plant that is protected or for which plant variety protection may be obtained under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.) and that is conceived or reduced to practice as a result of work under an agreement entered into under this chapter;
 
 &emsp;(2) the term “non-Federal person” means an entity located in the United States, the controlling interest (as defined by the Secretary) of which is held by persons of the United States, including—
 
@@ -38,7 +38,7 @@ The Plant Variety Protection Act, referred to in par. (1), is Pub. L. 91–577, 
 
 #### Amendments
 
-1992—Pars. (2) to (5). Pub. L. 102–486 redesignated pars. (3) to (5) as (2) to (4), respectively, in par. (4) substituted “any demonstration and commercial application project” for “any joint venture” and “in the demonstration and commercial application project;” for “in the venture; and”, added par. (5), and struck out former par. (2) which read as follows: “ ‘joint venture’ means any agreement entered into under this chapter by the Secretary with more than one or a consortium of non-Federal persons (including a joint venture under the National Cooperative Research Act of 1984 (15 U.S.C. 4301 et seq.)) for cost-shared research, development, or demonstration of technologies, but does not include procurement contracts, grant agreements, orcooperative agreements as those terms are used in sections 6303, 6304, and 6305 of title 31;”.
+1992—Pars. (2) to (5). Pub. L. 102–486 redesignated pars. (3) to (5) as (2) to (4), respectively, in par. (4) substituted “any demonstration and commercial application project” for “any joint venture” and “in the demonstration and commercial application project;” for “in the venture; and”, added par. (5), and struck out former par. (2) which read as follows: “ ‘joint venture’ means any agreement entered into under this chapter by the Secretary with more than one or a consortium of non-Federal persons (including a joint venture under the National Cooperative Research Act of 1984 (15 U.S.C. 4301 et seq.)) for cost-shared research, development, or demonstration of technologies, but does not include procurement contracts, grant agreements, or cooperative agreements as those terms are used in sections 6303, 6304, and 6305 of title 31;”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “; and”.</i>
 

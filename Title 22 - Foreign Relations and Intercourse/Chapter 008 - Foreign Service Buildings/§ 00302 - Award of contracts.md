@@ -28,7 +28,7 @@ Determinations under this section shall be committed to the discretion of the Se
 
 This section shall cease to be effective when the Secretary of State determines that there are internationally-agree-upon <sup>2</sup> rules in effect on bidding for construction contracts.
 
-(May 7, 1926, ch. 250, §11, as added Nov. 22, 1983, Pub. L. 98–164, title I, §136, 97 Stat. 1029.)
+(May 7, 1926, ch. 250, §11, as added Pub. L. 98–164, title I, §136, Nov. 22, 1983, 97 Stat. 1029.)
 
 #### References in Text
 

@@ -4,9 +4,9 @@
 
 The President shall—
 
-&emsp;(1) within 6 months after receipt of a report by the Secretary under subsection (a) or (d)(1) of section 923 of this title, withdraw the assignment to a Federal Government station of any frequency which the report recommends for immediate reallocation;
+&emsp;(1) within 6 months after receipt of a report by the Secretary under subsection (a), (d)(1), or (f) of section 923 of this title, withdraw the assignment to a Federal Government station of any frequency which the report recommends for immediate reallocation;
 
-&emsp;(2) within either such 6-month period, limit the assignment to a Federal Government station of any frequency which the report recommends be made immediately available for mixed use under section 923(b)(2) of this title;
+&emsp;(2) within any such 6-month period, limit the assignment to a Federal Government station of any frequency which the report recommends be made immediately available for mixed use under section 923(b)(2) of this title;
 
 &emsp;(3) by the delayed effective date recommended by the Secretary under section 923(e) of this title (except as provided in subsection (b)(4) of this section), withdraw or limit the assignment to a Federal Government station of any frequency which the report recommends be reallocated or made available for mixed use on such delayed effective date;
 
@@ -50,7 +50,13 @@ The President shall—
 
 &emsp;&emsp;(B) substitute alternative frequencies pursuant to the provisions of this subsection.
 
-(Pub. L. 102–538, title I, §114, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 384.)
+(Pub. L. 102–538, title I, §114, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 384; amended Pub. L. 105–33, title III, §3002(d)(2), Aug. 5, 1997, 111 Stat. 264.)
+
+#### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–33, §3002(d)(2)(A), substituted “subsection (a), (d)(1), or (f)” for “subsection (a) or (d)(1)”.
+
+Subsec. (a)(2). Pub. L. 105–33, §3002(d)(2)(B), substituted “any such 6-month period” for “either such 6-month period”.
 
 #### Section Referred to in Other Sections
 

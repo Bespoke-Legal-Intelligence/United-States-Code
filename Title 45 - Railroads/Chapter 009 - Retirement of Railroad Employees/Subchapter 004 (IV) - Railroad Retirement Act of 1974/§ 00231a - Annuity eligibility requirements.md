@@ -126,7 +126,7 @@ An individual who—
 
 (4) If an annuitant is entitled to more than one annuity under subsections (c) and (d) of this section for a month, such annuitant shall be entitled to only the larger of such annuities for such month, except that, if such annuitant so elects, he shall instead be entitled to only the smaller of such annuities for such month.
 
-(Aug. 29, 1935, ch. 812, §2, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I, §101, 88 Stat. 1312; amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Aug. 13, 1981, Pub. L. 97–35, title XI, §1117, 95 Stat. 628; Aug. 12, 1983, Pub. L. 98–76, title I, §§104(a), (b), 106(a)–(g), title IV, §§409(a), 413(a), 414(a), 415, 97 Stat. 416–418, 435, 436; Nov. 10, 1988, Pub. L. 100–647, title VII, §§7302(a), (b), 7303(a), 102 Stat. 3777, 3778.)
+(Aug. 29, 1935, ch. 812, §2, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1312; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XI, §1117, Aug. 13, 1981, 95 Stat. 628; Pub. L. 98–76, title I, §§104(a), (b), 106(a)–(g), title IV, §§409(a), 413(a), 414(a), 415, Aug. 12, 1983, 97 Stat. 416–418, 435, 436; Pub. L. 100–647, title VII, §§7302(a), (b), 7303(a), Nov. 10, 1988, 102 Stat. 3777, 3778.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 Such sum of money as may be necessary to execute sections 414 and 415 of this title is hereby appropriated out of any money in the Treasury not otherwise appropriated, to be paid out on the requisition of the Secretary of the Army.
 
-(Mar. 3, 1899, ch. 425, §20(a), formerly §20, 30 Stat. 1155; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; renumbered §20(a), Nov. 17, 1986, Pub. L. 99–662, title IX, §939(b), 100 Stat. 4199.)
+(Mar. 3, 1899, ch. 425, §20(a), formerly §20, 30 Stat. 1155; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; renumbered §20(a), Pub. L. 99–662, title IX, §939(b), Nov. 17, 1986, 100 Stat. 4199.)
 
 #### Codification
 

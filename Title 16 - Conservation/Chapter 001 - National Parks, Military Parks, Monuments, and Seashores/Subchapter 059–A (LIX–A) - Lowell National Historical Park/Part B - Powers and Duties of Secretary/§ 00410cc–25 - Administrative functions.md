@@ -16,7 +16,7 @@ The Secretary may sponsor or coordinate within the park and preservation distric
 
 #### (d) Acquisition of leases
 
-The Secretary may acquire such leases respecting property within the park as may benecessary to carry out the purpose of this subchapter.
+The Secretary may acquire such leases respecting property within the park as may be necessary to carry out the purpose of this subchapter.
 
 (Pub. L. 95–290, title II, §205, June 5, 1978, 92 Stat. 295.)
 

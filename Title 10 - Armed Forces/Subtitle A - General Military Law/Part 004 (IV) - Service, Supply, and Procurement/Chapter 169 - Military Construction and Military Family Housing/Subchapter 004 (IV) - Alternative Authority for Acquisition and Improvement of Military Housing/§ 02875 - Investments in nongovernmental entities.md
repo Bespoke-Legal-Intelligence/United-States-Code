@@ -20,7 +20,15 @@ Limitation on Value of Investment.—(1) The cash amount of an investment under 
 
 Collateral Incentive Agreements.—The Secretary concerned shall enter into collateral incentive agreements with nongovernmental entities in which the Secretary makes an investment under this section to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or purchase, as the case may be, of a reasonable number of the housing units covered by the investment.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 546.)
+(e)
+
+Congressional Notification Required.—Amounts in the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund may be used to make a cash investment under this section in a nongovernmental entity only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the investment to the appropriate committees of Congress.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 105–85, div. B, title XXVIII, §2805, Nov. 18, 1997, 111 Stat. 1991.)
+
+#### Amendments
+
+1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
 
 #### Section Referred to in Other Sections
 

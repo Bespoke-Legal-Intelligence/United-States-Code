@@ -4,13 +4,13 @@
 
 Any fishery management plan which is prepared by any Council, or by the Secretary, with respect to any fishery, shall—
 
-&emsp;(1) contain the conservation and management measures, applicable to foreign fishing and fishing by vessels of the United States, which are—
+&emsp;(1) contain the conservation and management measures, applicable to foreign fishingand fishing by vessels of the United States, which are—
 
 &emsp;&emsp;(A) necessary and appropriate for the conservation and management of the fishery, to prevent overfishing and rebuild overfished stocks, and to protect, restore, and promote the long-term health and stability of the fishery;
 
 &emsp;&emsp;(B) described in this subsection or subsection (b) of this section, or both; and
 
-&emsp;&emsp;(C) consistent with the national standards, the other provisions of this chapter, regulations implementing recommendations by international organizations in which the United States participates (including butnot limited to closed areas, quotas, and size limits), and any other applicable law;
+&emsp;&emsp;(C) consistent with the national standards, the other provisions of this chapter, regulations implementing recommendations by international organizations in which the United States participates (including but not limited to closed areas, quotas, and size limits), and any other applicable law;
 
 &emsp;(2) contain a description of the fishery, including, but not limited to, the number of vessels involved, the type and quantity of fishing gear used, the species of fish involved and their location, the cost likely to be incurred in management, actual and potential revenues from the fishery, any recreational interests in the fishery, and the nature and extent of foreign fishing and Indian treaty fishing rights, if any;
 
@@ -50,7 +50,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(13) include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors; and
 
-&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery.
+&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fisheryare necessary, allocate any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery.
 
 #### (b) Discretionary provisions
 
@@ -58,7 +58,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(1) require a permit to be obtained from, and fees to be paid to, the Secretary, with respect to—
 
-&emsp;&emsp;(A) any fishing vessel of the United States fishing, or wishing to fish, in the exclusiveeconomic zone or for anadromous species or Continental Shelf fishery resources beyond such zone;
+&emsp;&emsp;(A) any fishing vessel of the United States fishing, or wishing to fish, in the exclusive economic zone or for anadromous species or Continental Shelf fishery resources beyond such zone;
 
 &emsp;&emsp;(B) the operator of any such vessel; or
 
@@ -128,7 +128,7 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 &emsp;(B) may be revoked or limited at any time in accordance with this chapter;
 
-&emsp;(C) shall not confer any right of compensation to the holder of such individual fishingquota or other such limited access system authorization if it is revoked or limited; and
+&emsp;(C) shall not confer any right of compensation to the holder of such individual fishing quota or other such limited access system authorization if it is revoked or limited; and
 
 &emsp;(D) shall not create, or be construed to create, any right, title, or interest in or to any fish before the fish is harvested.
 
@@ -180,7 +180,7 @@ Subsec. (b)(8). Pub. L. 104–297, §108(c)(4), substituted “require that one 
 
 Subsec. (b)(10) to (12). Pub. L. 104–297, §108(c)(5)–(7), added pars. (10) and (11) and redesignated former par. (10) as (12).
 
-Subsec. (c). Pub. L. 104–297, §108(d), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “The proposed regulations which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneously with the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title.”
+Subsec. (c). Pub. L. 104–297, §108(d), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “The proposed regulations which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneouslywith the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title.”
 
 Subsecs. (d) to (f). Pub. L. 104–297, §108(e), added subsec. (d) and struck out former subsecs. (d) relating to confidentiality of statistics, (e) relating to data collection programs, and (f) relating to restriction on use of certain data.
 
@@ -252,7 +252,7 @@ Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, 
 
 &emsp;“(G) threshold criteria for determining whether a fishery may be considered for individual fishing quota management, including criteria related to the geographical range, population dynamics and condition of a fish stock, the socioeconomic characteristics of a fishery (including participants’ involvement in multiple fisheries in the region), and participation by commercial, charter, and recreational fishing sectors in the fishery;
 
-&emsp;“(H) mechanisms to ensure that vessel owners, vessel masters, crew members, and United States fish processors are treated fairly and equitably in initial allocations, to require persons holding individual fishing quotas to be on board the vessel using suchquotas, and to facilitate new entry under individual fishing quota programs;
+&emsp;“(H) mechanisms to ensure that vessel owners, vessel masters, crew members, and United States fish processors are treated fairly and equitably in initial allocations, to require persons holding individual fishing quotas to be on board the vessel using such quotas, and to facilitate new entry under individual fishing quota programs;
 
 &emsp;“(I) potential social and economic costs and benefits to the nation, individual fishing quota recipients, and any recipients of Federal permits described in subparagraph (D) under individual fishing quota programs, including from capital gains revenue, the allocation of such quotas or permits through Federal auctions, annual fees and transfer fees at various levels, or other measures;
 

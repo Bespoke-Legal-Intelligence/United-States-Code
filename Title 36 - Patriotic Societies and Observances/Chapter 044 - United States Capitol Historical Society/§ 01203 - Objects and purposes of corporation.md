@@ -6,7 +6,7 @@ The objects and purposes of the corporation shall be—
 
 &emsp;(b) to undertake research into the history of the Congress and the Capitol and to promote the discussion, publication, and dissemination of the results of such studies;
 
-&emsp;(c) to foster and increase an informed patriotism of the land in the study of this living memorial to the founders of this Nation and the continuing thread of principles as exemplified by their successors; and
+&emsp;(c) to foster and increase an informed patriotism of the land in the study of this livingmemorial to the founders of this Nation and the continuing thread of principles as exemplified by their successors; and
 
 &emsp;(d) to mutually cooperate with the standing committees of the Congress, the Library of Congress, the Architect of the Capitol, and relevant departments and agencies of the executive branch of the Federal Government in furthering the objectives of the corporation.
 

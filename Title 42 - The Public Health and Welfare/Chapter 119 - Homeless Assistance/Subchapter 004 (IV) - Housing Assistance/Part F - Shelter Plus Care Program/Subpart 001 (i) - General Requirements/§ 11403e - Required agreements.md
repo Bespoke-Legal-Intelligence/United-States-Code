@@ -10,7 +10,7 @@ The Secretary may not approve assistance under this part unless the applicant ag
 
 &emsp;(4) to comply with such other terms and conditions as the Secretary may establish for purposes of carrying out the program in an effective and efficient manner; and
 
-&emsp;(5) to the maximum extent practicable, to involve homeless individuals and families,through employment volunteer services, or otherwise, in constructing or rehabilitating housing assisted under this part and in providing services required under this part.
+&emsp;(5) to the maximum extent practicable, to involve homeless individuals and families, through employment volunteer services, or otherwise, in constructing or rehabilitating housing assisted under this part and in providing services required under this part.
 
 (Pub. L. 100–77, title IV, §456, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4369; amended Pub. L. 102–550, title XIV, §1406(c), Oct. 28, 1992, 106 Stat. 4030.)
 

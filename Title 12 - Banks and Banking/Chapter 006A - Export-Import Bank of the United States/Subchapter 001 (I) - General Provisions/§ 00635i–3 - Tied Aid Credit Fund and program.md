@@ -46,7 +46,7 @@ The Congress finds that—
 
 &emsp;&emsp;(A) in consultation with the Secretary and in accordance with the Secretary's recommendations on how such credits could be used most effectively and efficiently to carry out the purposes described in subsection (a)(5) of this section;
 
-&emsp;&emsp;(B) in cooperation with United States exporters and private financial institutions or entities, and in consultation with other Federal agencies, as appropriate; and
+&emsp;&emsp;(B) in cooperation with United States exporters and private financial institutions orentities, and in consultation with other Federal agencies, as appropriate; and
 
 &emsp;&emsp;(C) in consultation with the National Advisory Council on International Monetary and Financial Policies.
 
@@ -70,11 +70,11 @@ The Congress finds that—
 
 #### (1) In general
 
-&emsp;There is hereby established within the Bank a fund to be known as the “Tied Aid Credit Fund” (hereinafter in this section referred toas the “Fund”), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e) of this section.
+&emsp;There is hereby established within the Bank a fund to be known as the “Tied Aid Credit Fund” (hereinafter in this section referred to as the “Fund”), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e) of this section.
 
 #### (2) Expenditures from Fund
 
-&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank through September 30, 1997.
+&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) of this section and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
 
 #### (d) Consistency with Arrangement
 
@@ -82,7 +82,7 @@ Any export financing involving the use of a grant under the tied aid credit prog
 
 #### (e) Authorization
 
-There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997. Such sums are authorized to remain available until expended.
+There are authorized to be appropriated to the Fund such sums as may be necessary to carry out the purposes of this section. Such sums are authorized to remain available until expended.
 
 #### (f) Nonreviewability
 
@@ -156,13 +156,17 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) financing offers extended for subloans under lines of credit referred to in subparagraph (A) made on or before August 15, 1992, or, in the case of Mexico, on or before December 31, 1992.
 
-(July 31, 1945, ch. 341, §10, formerly §15, as added Oct. 15, 1986, Pub. L. 99–472, §19, 100 Stat. 1205; amended Dec. 29, 1987, Pub. L. 100–217, 101 Stat.1454; Aug. 23, 1988, Pub. L. 100–418, title III, §3302(b), 102 Stat. 1383; Dec. 19, 1989, Pub. L. 101–240, title I, §101(b), 103 Stat. 2493; Nov. 5, 1990, Pub. L. 101–513, title V, §562(d), 104 Stat. 2036; renumbered §10 and amended Oct. 21, 1992, Pub. L. 102–429, title I, §§103, 121(c)(4), 106 Stat. 2187, 2199; Jan. 11, 1996, Pub. L. 104–97, §1, 109 Stat. 984; Feb. 12, 1996, Pub. L. 104–107, title V, §579, 110 Stat. 751.)
+(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528.)
 
 #### Prior Provisions
 
 A prior section 10 of act July 31, 1945, ch. 341, repealed section 713b of Title 15, Commerce and Trade.
 
 #### Amendments
+
+1997—Subsec. (c)(2). Pub. L. 105–121, §3(a), struck out “through September 30, 1997” after “authorized by the Bank”.
+
+Subsec. (e). Pub. L. 105–121, §3(b), amended first sentence generally. Prior to amendment first sentence read as follows: “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.”
 
 1996—Subsec. (c)(2). Pub. L. 104–107, §579(a), which directed substitution of “1997” for “1995”, could not be executed because “1995” does not appear in text after amendment by Pub. L. 104–97. See below.
 
@@ -206,7 +210,7 @@ Contents of report.—Each report required by paragraph (1) shall contain a desc
 
 &emsp;“(E) the progress achieved by negotiations conducted to carry out the purposes described in subsection (a)(5) of this section.”
 
-Subsec. (h). Pub. L. 102–429, §103(c)(8), substituted “For purposes of this section, the following definitions shall apply:” for “For the purpose of this section—” in introductory provisions and added par. (6).
+Subsec. (h). Pub. L. 102–429, §103(c)(8), substituted “For purposes of this section, the following definitionsshall apply:” for “For the purpose of this section—” in introductory provisions and added par. (6).
 
 1990—Subsec. (c)(2). Pub. L. 101–513, §562(d)(2), substituted “1992” for “1991”.
 

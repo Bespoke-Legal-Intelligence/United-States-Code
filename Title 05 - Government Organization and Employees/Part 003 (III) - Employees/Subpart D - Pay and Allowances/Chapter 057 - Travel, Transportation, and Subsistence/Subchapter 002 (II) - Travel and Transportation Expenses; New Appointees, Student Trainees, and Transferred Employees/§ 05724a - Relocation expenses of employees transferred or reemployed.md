@@ -70,7 +70,11 @@
 
 (j) For purposes of subsections (c), (d), and (e), the term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).
 
-(Added Pub. L. 90–83, §1(37)(A), Sept. 11, 1967, 81 Stat. 204; amended Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 98–151, §118(a)(5), (6), Nov. 14, 1983, 97 Stat. 977, 978; Pub. L. 99–234, title I, §105, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 100–202, §101(m) \[title VI, §628(a)(1)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 101–510, div. A, title XII, §1206(c), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 104–201, div. A, title XVII, §§1711–1713(a), 1714, 1718, Sept. 23, 1996, 110 Stat. 2753–2755, 2757.)
+(Added Pub. L. 90–83, §1(37)(A), Sept. 11, 1967, 81 Stat. 204; amended Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 98–151, §118(a)(5), (6), Nov. 14, 1983, 97 Stat. 977, 978; Pub. L. 99–234, title I, §105, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 100–202, §101(m) \[title VI, §628(a)(1)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 101–510, div. A, title XII, §1206(c), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 104–201, div. A, title XVII, §§1711–1713(a), 1714, 1718, Sept. 23, 1996, 110 Stat. 2753–2755, 2757; Pub. L. 105–85, div. C, title XXXV, §3550(c)(2), Nov. 18, 1997, 111 Stat. 2074.)
+
+#### Amendment of Subsection (j)
+
+<i>Pub. L. 105–85, div. C, title XXXV, §3550(c)(2), (3), Nov. 18, 1997, 111 Stat. 2074, provided that, effective Jan. 1, 1999, subsection (j) of this section is amended by inserting “and” after “Northern Mariana Islands,” and substituting “United States.” for “United States, and” and all that follows through the period at the end.</i>
 
 Historical and Revision Notes
 
@@ -140,6 +144,10 @@ Subsec. (a)(4). Pub. L. 98–151, §118(a)(6), redesignated existing provisions 
 
 1979—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective Jan. 1, 1999, see section 3550(c)(3) of Pub. L. 105–85, set out as a note under section 5724 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
@@ -162,7 +170,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Funding of Amendments by Pub. L. 98–151
 
-Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds appropriated or otherwiseavailable for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ The termination or suspension of any plan, or any provision thereof, shall not b
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this part”, and was translated as reading“this title”, meaning title III of Pub. L. 91–670, which enacted this chapter, as the probable intent of Congress, because title III does not contain parts.
+This chapter, referred to in subsec. (c), was in the original “this part”, and was translated as reading “this title”, meaning title III of Pub. L. 91–670, which enacted this chapter, as the probable intent of Congress, because title III does not contain parts.
 
 #### Amendments
 

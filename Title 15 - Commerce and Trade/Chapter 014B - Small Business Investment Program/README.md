@@ -26,6 +26,7 @@
 | (a) | Incorporation and charter under State law, period of succession; area of operations. |
 | (b) | Articles of incorporation; approval. |
 | (c) | Issuance of license. |
+| (e) | Fees. |
 | [682\.](Subchapter%20003%20%28III%29%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000682%20-%20Capital%20requirements.md) | Capital requirements. |
 | (a) | Amount. |
 | (b) | Sale of shares of stock to banking organizations. |
@@ -34,7 +35,7 @@
 | (a) | Authority to issue obligations. |
 | (b) | Debentures and participating securities. |
 | (c) | Third party debt. |
-| (d) | Requirement to finance smaller enterprises. |
+| (d) | Required certifications. |
 | (e) | Capital impairment. |
 | (f) | Redemption or repurchase of preferred stock. |
 | (g) | Guarantee of payment of and authority to purchase participating securities. |
@@ -204,8 +205,8 @@
 | (d) | Loan approval authority. |
 | (e) | Review. |
 | (f) | Suspension or revocation. |
-| (g) | Effect of suspension or designation. |
-| (h) | Regulations. |
+| (g) | Effect of suspension or revocation. |
+| (h) | Program goals. |
 | (i) | Report. |
 | [697f.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697f%20-%20Prepayment%20of%20development%20company%20debentures.md) | Prepayment of development company debentures. |
 | (a) | In general. |

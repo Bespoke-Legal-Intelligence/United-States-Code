@@ -8,7 +8,7 @@ To prevent the introduction of insect pests and plant diseases the Secretary of 
 
 (1) Any person who knowingly violates any rule or regulation promulgated under subsection (a) of this section shall be guilty of a misdemeanor and shall be punished by a fine not exceeding $5,000, by imprisonment not exceeding one year, or both.
 
-(2) Any person who violates any such rule or regulation may be assessed a civil penalty by the Secretary of Agriculture not exceeding $1,000. The Secretary may issue an order assessing such civil penalty only after notice and an opportunity for an agency hearing on the record. Such order shall be treated as a final order reviewable under chapter 158 of title 28. The validity of such order may not be reviewed in an action to collect such civil penalty.
+(2) Any person who violates any such rule or regulation may be assessed a civil penalty by the Secretary of Agriculture not exceeding $1,000. The Secretary may issue an order assessing such civil penalty only after notice and an opportunity for an agency hearing on the record.Such order shall be treated as a final order reviewable under chapter 158 of title 28. The validity of such order may not be reviewed in an action to collect such civil penalty.
 
 (Jan. 31, 1942, ch. 31, 56 Stat. 40; May 23, 1957, Pub. L. 85–36, title I, §110, 71 Stat. 34; Jan. 12, 1983, Pub. L. 97–461, §3, 96 Stat. 2524; Dec. 8, 1994, Pub. L. 103–465, title IV, §431(b), 108 Stat. 4967.)
 

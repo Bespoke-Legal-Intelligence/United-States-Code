@@ -22,7 +22,7 @@ Elements of Program.—In establishing and carrying out a program under this sec
 
 &emsp;(5) Provide information and other assistance to such members in their efforts to obtain loans and grants from the Small Business Administration and other Federal, State, and local agencies.
 
-&emsp;(6) Provide information about the geographic areas in which such members will relocate after separation from the armed forces,including, to the degree possible, information about employment opportunities, the labor market, and the cost of living in those areas (including, to the extent practicable, the cost and availability of housing, child care, education, and medical and dental care).
+&emsp;(6) Provide information about the geographic areas in which such members will relocate after separation from the armed forces, including, to the degree possible, information about employment opportunities, the labor market, and the cost of living in those areas (including, to the extent practicable, the cost and availability of housing, child care, education, and medical and dental care).
 
 &emsp;(7) Work with military and veterans’ service organizations and other appropriate organizations in promoting and publicizing job fairs for such members.
 
@@ -36,7 +36,7 @@ Participation.—The Secretary of Defense and the Secretary of Transportation sh
 
 Use of Personnel and Organizations.—In carrying out the program established under this section, the Secretaries may—
 
-&emsp;(1) provide, as the case may be, for the use of disabled veterans outreach program specialists, local veterans’ employment representatives, and other employment service personnel funded by the Department of Labor to the extent that the Secretary of Labor determines that such use will not significantly interfere with the provision of services or other benefits to eligible veterans and other eligible recipients of such services or benefits;
+&emsp;(1) provide, as the case may be, for the use of disabled veterans outreach program specialists, local veterans’ employment representatives, and other employment service personnel funded by the Department of Labor to the extent that the Secretary of Labor determines that such use will not significantly interferewith the provision of services or other benefits to eligible veterans and other eligible recipients of such services or benefits;
 
 &emsp;(2) use military and civilian personnel of the Department of Defense and the Department of Transportation;
 

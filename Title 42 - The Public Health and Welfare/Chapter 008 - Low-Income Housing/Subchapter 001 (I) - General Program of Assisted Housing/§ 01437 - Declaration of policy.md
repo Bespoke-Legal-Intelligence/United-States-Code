@@ -2,7 +2,7 @@
 
 It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions to remedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project.
 
-(Sept. 1, 1937, ch. 896, title I, §2, as added Aug. 22, 1974, Pub. L. 93–383, title II, §201(a), 88 Stat. 653;amended Aug. 13, 1981, Pub. L. 97–35, title III, §322(c), 95 Stat. 402; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; Nov. 28, 1990, Pub. L. 101–625, title V, §572(2), 104 Stat. 4236.)
+(Sept. 1, 1937, ch. 896, title I, §2, as added Aug. 22, 1974, Pub. L. 93–383, title II, §201(a), 88 Stat. 653; amended Aug. 13, 1981, Pub. L. 97–35, title III, §322(c), 95 Stat. 402; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; Nov. 28, 1990, Pub. L. 101–625, title V, §572(2), 104 Stat. 4236.)
 
 #### Prior Provisions
 

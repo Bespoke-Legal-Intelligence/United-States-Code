@@ -4,5 +4,5 @@
 
 (b) The Secretary of the Treasury shall deduct from any amounts covered into the Claims Fund, an amount equal to 5 per centum thereof as reimbursement to the Government of the United States for expenses incurred by the Commission and by the Treasury Department in the administration of this subchapter. The amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 
-(Mar. 10, 1950, ch. 54, title VI, §607, as added Oct. 18, 1976, Pub. L. 94–542, 90 Stat. 2511.)
+(Mar. 10, 1950, ch. 54, title VI, §607, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2511.)
 

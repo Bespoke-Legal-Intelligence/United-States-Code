@@ -36,7 +36,7 @@ Enforcement of copyright in restored works in the absence of a reliance party.�
 
 Enforcement of copyright in restored works as against reliance parties.—As against a reliance party, except to the extent provided in paragraphs (3) and (4), the remedies provided in chapter 5 of this title shall be available, with respect to an act of infringement of a restored copyright, on or after the date of restoration of the restored copyright if the requirements of either of the following subparagraphs are met:
 
-&emsp;&emsp;(A)(i) The owner of the restored copyright (or such owner's agent) or the owner of an exclusive right therein (or such owner's agent) files with the Copyright Office, during the 24-month period beginning on thedate of restoration, a notice of intent to enforce the restored copyright; and
+&emsp;&emsp;(A)(i) The owner of the restored copyright (or such owner's agent) or the owner of an exclusive right therein (or such owner's agent) files with the Copyright Office, during the 24-month period beginning on the date of restoration, a notice of intent to enforce the restored copyright; and
 
 &emsp;&emsp;(ii)(I) the act of infringement commenced after the end of the 12-month period beginning on the date of publication of the notice in the Federal Register;
 
@@ -58,11 +58,11 @@ Enforcement of copyright in restored works as against reliance parties.—As aga
 
 Existing derivative works.—(A) In the case of a derivative work that is based upon a restored work and is created—
 
-&emsp;&emsp;(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
+&emsp;&emsp;(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the restored work is an eligible country on such date, or
 
-&emsp;&emsp;(ii) before the date of adherence or proclamation, if the source country of the derivative work is not an eligible country on such date of enactment,
+&emsp;&emsp;(ii) before the date on which the source country of the restored work becomes an eligible country, if that country is not an eligible country on such date of enactment,
 
-> &emsp;a reliance party may continue to exploit that work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.
+> &emsp;a reliance party may continue to exploit that derivative work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.
 
 &emsp;(B) In the absence of an agreement between the parties, the amount of such compensation shall be determined by an action in United States district court, and shall reflect any harm to the actual or potential market for or value of the restored work from the reliance party's continued exploitation of the work, as well as compensation for the relative contributions of expression of the author of the restored work and the reliance party to the derivative work.
 
@@ -84,11 +84,11 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 &emsp;(B)(i) The Register of Copyrights shall publish in the Federal Register, commencing not later than 4 months after the date of restoration for a particular nation and every 4 months thereafter for a period of 2 years, lists identifying restored works and the ownership thereof if a notice of intent to enforce a restored copyright has been filed.
 
-&emsp;(ii) Not less than 1 list containing all notices of intent to enforce shall be maintained in the Public Information Office of the Copyright Office and shall be available for public inspection and copying during regular business hours pursuant to sections 705 and 708. Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.
+&emsp;(ii) Not less than 1 list containing all notices of intent to enforce shall be maintained in thePublic Information Office of the Copyright Office and shall be available for public inspection and copying during regular business hours pursuant to sections 705 and 708.
 
 &emsp;(C) The Register of Copyrights is authorized to fix reasonable fees based on the costs of receipt, processing, recording, and publication of notices of intent to enforce a restored copyright and corrections thereto.
 
-&emsp;(D)(i) Not later than 90 days before the date the Agreement on Trade-Related Aspects ofIntellectual Property referred to in section 101(d)(15) of the Uruguay Round Agreements Act enters into force with respect to the United States, the Copyright Office shall issue and publish in the Federal Register regulations governing the filing under this subsection of notices of intent to enforce a restored copyright.
+&emsp;(D)(i) Not later than 90 days before the date the Agreement on Trade-Related Aspects of Intellectual Property referred to in section 101(d)(15) of the Uruguay Round Agreements Act enters into force with respect to the United States, the Copyright Office shall issue and publish in the Federal Register regulations governing the filing under this subsection of notices of intent to enforce a restored copyright.
 
 &emsp;(ii) Such regulations shall permit owners of restored copyrights to file simultaneously for registration of the restored copyright.
 
@@ -134,13 +134,21 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;(B) subject to a Presidential proclamation under subsection (g).
 
-&emsp;(2) The “date of restoration” of a restored copyright is the later of—
+&emsp;(2) The “date of restoration” of a restored copyright is—
 
-&emsp;&emsp;(A) the date on which the Agreement on Trade-Related Aspects of Intellectual Property referred to in section 101(d)(15) of the Uruguay Round Agreements Act enters into force with respect to the United States, if the source country of the restored work is a nation adhering to the Berne Convention or a WTO member country on such date; or
+&emsp;&emsp;(A) January 1, 1996, if the source country of the restored work is a nation adhering to the Berne Convention or a WTO member country on such date, or
 
 &emsp;&emsp;(B) the date of adherence or proclamation, in the case of any other source country of the restored work.
 
-&emsp;(3) The term “eligible country” means a nation, other than the United States, that is a WTO member country, adheres to the Berne Convention, or is subject to a proclamation under subsection (g).
+&emsp;(3) The term “eligible country” means a nation, other than the United States, that—
+
+&emsp;&emsp;(A) becomes a WTO member country after the date of the enactment of the Uruguay Round Agreements Act;
+
+&emsp;&emsp;(B) on such date of enactment is, or after such date of enactment becomes, a member of the Berne Convention; or
+
+&emsp;&emsp;(C) after such date of enactment becomes subject to a proclamation under subsection (g).
+
+> &emsp;For purposes of this section, a nation that is a member of the Berne Convention on the date of the enactment of the Uruguay Round Agreements Act shall be construed to become an eligible country on such date of enactment.
 
 &emsp;(4) The term “reliance party” means any person who—
 
@@ -148,7 +156,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;(B) before the source country of a particular work becomes an eligible country, makes or acquires 1 or more copies or phonorecords of that work; or
 
-&emsp;&emsp;(C) as the result of the sale or other disposition of a derivative work covered under subsection (d)(3), or significant assets of a person described in subparagraph (A) or (B), is a successor, assignee, or licensee of that person.
+&emsp;&emsp;(C) as the result of the sale or other disposition of a derivative work covered under subsection (d)(3), or significant assets of aperson described in subparagraph (A) or (B), is a successor, assignee, or licensee of that person.
 
 &emsp;(5) The term “restored copyright” means copyright in a restored work under this section.
 
@@ -192,15 +200,35 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;(9) The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
-(Added Pub. L. 103–182, title III, §334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, §514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, §20(e)(2), Oct. 11, 1996, 110 Stat. 3529.)
+(Added Pub. L. 103–182, title III, §334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, §514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, §20(e)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–80, §2, Nov. 13, 1997, 111 Stat. 1530.)
 
 #### References in Text
 
-The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (d)(3)(A), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (d)(3)(A) and (h)(3), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
-Sections 2 and 101(d)(15) of the Uruguay Round Agreements Act, referred to in subsecs. (e)(1)(D)(i) and (h)(2)(A), (9), are classified to sections 3501 and 3511(d)(15), respectively, of Title 19, Customs Duties.
+Sections 2 and 101(d)(15) of the Uruguay Round Agreements Act, referred to in subsecs. (e)(1)(D)(i) and (h)(9), are classified to sections 3501 and 3511(d)(15), respectively, of Title 19, Customs Duties.
 
 #### Amendments
+
+1997—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
+
+&emsp;“(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
+
+&emsp;“(ii) before the date of adherence or proclamation, if the source country of the derivative work is not an eligible country on such date of enactment,
+
+> a reliance party may continue to exploit that work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.”
+
+Subsec. (e)(1)(B)(ii). Pub. L. 105–80, §2(2), struck out at end “Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.”
+
+Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+
+“(2) The ‘date of restoration’ of a restored copyright is the later of—
+
+&emsp;“(A) the date on which the Agreement on Trade-Related Aspects of Intellectual Property referred to in section 101(d)(15) of the Uruguay Round Agreements Act enters into force with respect to the United States, if the source country of the restored work is a nation adhering to the Berne Convention or a WTO member country on such date; or
+
+&emsp;“(B) the date of adherence or proclamation, in the case of any other source country of the restored work.
+
+“(3) The term ‘eligible country’ means a nation, other than the United States, that is a WTO member country, adheres to the Berne Convention, or is subject to a proclamation under subsection (g).”
 
 1996—Subsec. (h)(3). Pub. L. 104–295 substituted “subsection (g)” for “section 104A(g)”.
 

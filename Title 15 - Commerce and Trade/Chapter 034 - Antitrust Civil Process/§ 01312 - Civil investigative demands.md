@@ -38,7 +38,7 @@ Each such demand shall—
 
 &emsp;&emsp;(B) identify an antitrust investigator who shall conduct the examination and the custodian to whom the transcript of such examination shall be submitted.
 
-> Any such demand which is an express demand for any product of discovery shall not be returned or returnable until twenty days after a copy of such demand has been served upon the person from whom the discovery was obtained.
+> Any such demand which is an express demand for any product of discovery shall not be returned or returnable until twenty days after acopy of such demand has been served upon the person from whom the discovery was obtained.
 
 #### (c) Protected material or information; demand for product of discovery superseding disclosure restrictions except trial preparation materials
 
@@ -62,7 +62,7 @@ Each such demand shall—
 
 &emsp;(A) delivering a duly executed copy thereof to any partner, executive officer, managing agent, or general agent thereof, or to any agent thereof authorized by appointment or by law to receive service of process on behalf of such partnership, corporation, association, or entity;
 
-&emsp;(B) delivering a duly executed copy thereof to the principal office or place of business ofthe partnership, corporation, association, or entity to be served; or
+&emsp;(B) delivering a duly executed copy thereof to the principal office or place of business of the partnership, corporation, association, or entity to be served; or
 
 &emsp;(C) depositing such copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed to such partnership, corporation, association, or entity at its principal office or place of business.
 
@@ -98,7 +98,7 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 (6) Upon payment of reasonable charges therefor, the antitrust investigator shall furnish a copy of the transcript to the witness only, except that the Assistant Attorney General in charge of the Antitrust Division may for good cause limit such witness to inspection of the official transcript of his testimony.
 
-(7)(A) Any person compelled to appear under a demand for oral testimony pursuant to this section may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, either upon the request of such person or upon counsel's own initiative, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitledto refuse to answer the question on grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person shall not otherwise object to or refuse to answer any question, and shall not by himself or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, the antitrust investigator conducting the examination may petition the district court of the United States pursuant to section 1314 of this title for an order compelling such person to answer such question.
+(7)(A) Any person compelled to appear under a demand for oral testimony pursuant to this section may be accompanied, represented, and advised by counsel. Counsel may advise such person, in confidence, either upon the request of such person or upon counsel's own initiative, with respect to any question asked of such person. Such person or counsel may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person shall not otherwise object to or refuse to answer any question, and shall not by himself or through counsel otherwise interrupt the oral examination. If such person refuses to answer any question, the antitrust investigator conducting the examination may petition the district court of the United States pursuant to section 1314 of this title for an order compelling such person to answer such question.
 
 (B) If such person refuses to answer any question on grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of Part V of title 18.
 

@@ -10,11 +10,11 @@
 
 (e) No retired justice or judge shall perform judicial duties except when designated and assigned.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 9, 1956, ch. 517, §1(c), 70 Stat. 497; Aug. 29, 1957, Pub. L. 85–219, 71 Stat. 495; Aug. 25, 1958, Pub. L. 85–755, §5, 72 Stat. 849; Nov. 6, 1978, Pub. L. 95–598, title II, §206, 92 Stat. 2660.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 9, 1956, ch. 517, §1(c), 70 Stat. 497; Pub. L. 85–219, Aug. 29, 1957, 71 Stat. 495; Pub. L. 85–755, §5, Aug. 25, 1958, 72 Stat. 849; Pub. L. 95–598, title II, §206, Nov. 6, 1978, 92 Stat. 2660.)
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§375, 375a, and 375f (Mar. 3, 1911, ch. 231, §260, 36 Stat. 1161; Feb. 25, 1919, ch. 29, §6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; Mar. 1, 1937, ch. 21, 50 Stat. 24; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, §5, as added May 11, 1944, ch. 192, §§1–3, 58 Stat. 218, 219).
+Based on title 28, U.S.C., 1940 ed., §§375, 375a, and 375f (Mar. 3, 1911, ch. 231, §260, 36 Stat. 1161; Feb. 25, 1919, ch.29, §6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; Mar. 1, 1937, ch. 21, 50 Stat. 24; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, §5, as added May 11, 1944, ch. 192, §§1–3, 58 Stat. 218, 219).
 
 Section consolidates those parts of sections 375, 375a, and 375f of title 28, U.S.C., 1940 ed., relating to designation and assignment of retired justices and judges. Other provisions of said sections 375 and 375a, appear in sections 136, 371, and 756 of this title.
 
@@ -24,17 +24,17 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1978—Subsecs. (c), (d). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting “district or bankruptcy judge” for “or district” and the amendment of subsec. (d) by substituting “, district judge or bankruptcy judge” for “or district judge”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting “district or bankruptcy judge” for “or district” and the amendment of subsec. (d) by substituting “, district judge or bankruptcy judge” for “or district judge”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1958—Subsec. (a). Pub. L. 85–755 reenacted subsec. (a) without change.
+<b>1958</b>—Subsec. (a). Pub. L. 85–755 reenacted subsec. (a) without change.
 
 Subsecs. (b) to (d). Pub. L. 85–755 revised and rearranged subject matter to apply “senior judge” to all judges who retire from regular active service under sections 371(b) and 372(a) of this title, while retaining their commissions, rather than merely to those who ask to be placed on the Chief Justice's roster, to lodge solely in the chief judge and judicial council of the circuit concerned the intracircuit assignment power, and in the Chief Justice the power to assign retired judges beyond their circuits or special courts.
 
 Subsec. (e). Pub. L. 85–755 reenacted subsec. (e) without change.
 
-1957—Subsec. (d). Pub. L. 85–219 added subsec. (d).
+<b>1957</b>—Subsec. (d). Pub. L. 85–219 added subsec. (d).
 
-1956—Subsec. (b). Act July 9, 1956, inserted provisions relating to assignment of retired judges of the Court of Claims.
+<b>1956</b>—Subsec. (b). Act July 9, 1956, inserted provisions relating to assignment of retired judges of the Court of Claims.
 
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the U
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 46, 376 of this title; title 26 section 3121; title 42 section 409.
+This section is referred to in section 46 of this title; title 26 section 3121; title 42 section 409.
 

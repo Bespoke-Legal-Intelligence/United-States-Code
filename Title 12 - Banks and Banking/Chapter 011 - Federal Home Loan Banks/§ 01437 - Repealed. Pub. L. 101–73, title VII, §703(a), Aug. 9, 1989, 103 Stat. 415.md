@@ -138,7 +138,7 @@ Continuation of suits.—
 
 &emsp;&emsp;“(A) \[sic\]
 
-In general.—No action or other proceeding commenced by or against the Federal Home Loan Bank Board, or any Federal home loan bank with respect to any function of the Board which was delegated to employees of such bank, shall abate by reason of the enactment of this Act \[see Tables for classification\], except that the appropriate successor to the interests of such Board shall be substituted for the Board or the Federal home loan bank as a party to any such action or proceeding.
+In general.—No action or other proceeding commenced by or against the Federal HomeLoan Bank Board, or any Federal home loan bank with respect to any function of the Board which was delegated to employees of such bank, shall abate by reason of the enactment of this Act \[see Tables for classification\], except that the appropriate successor to the interests of such Board shall be substituted for the Board or the Federal home loan bank as a party to any such action or proceeding.
 
 “(h)
 
@@ -174,7 +174,7 @@ Regulations Relating to Insurance Functions.—All regulations and orders of the
 
 Identification of Regulations Which Remain in Effect Pursuant to This Section.—Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Director of the Office of Thrift Supervision and the Chairperson of the Federal Deposit Insurance Corporation shall—
 
-&emsp;“(1) identify the regulations and orders referred to in subsection (a) of this section in accordance withthe allocation of authority between them under this Act \[see Tables for classification\] and the amendments made by this Act; and
+&emsp;“(1) identify the regulations and orders referred to in subsection (a) of this section in accordance with the allocation of authority between them under this Act \[see Tables for classification\] and the amendments made by this Act; and
 
 &emsp;“(2) promptly publish notice of such identification in the Federal Register.
 
@@ -228,7 +228,7 @@ Interim Treatment of Custodial Accounts.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2) and notwithstanding subsection (a) or any limitation contained in the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] relating to the amount of deposit insurance available to any 1 borrower, amounts held in custodial accounts in insured depository institutions (as defined in section 3(c)(2) of such Act \[12 U.S.C. 1813(c)(2)\]) for the payment of principal, interest, tax, and insurance payments for mortgage borrowers, shall be insured under the Federal Deposit Insurance Act in the amount of $100,000 per mortgage borrower.
+In general.—Subject to paragraph (2) and notwithstanding subsection (a) or any limitation contained in the Federal Deposit Insurance Act \[12U.S.C. 1811 et seq.\] relating to the amount of deposit insurance available to any 1 borrower, amounts held in custodial accounts in insured depository institutions (as defined in section 3(c)(2) of such Act \[12 U.S.C. 1813(c)(2)\]) for the payment of principal, interest, tax, and insurance payments for mortgage borrowers, shall be insured under the Federal Deposit Insurance Act in the amount of $100,000 per mortgage borrower.
 
 &emsp;“(2)
 
@@ -266,7 +266,7 @@ Requirements relating to substitute indexes.—If any agency can no longer make 
 
 &emsp;&emsp;“(A) the new index is based upon data substantially similar to that of the original index; and
 
-&emsp;&emsp;“(B) the substitution of the new index will result in an interest rate substantially similar to the ratein effect at the time the original index became unavailable.
+&emsp;&emsp;“(B) the substitution of the new index will result in an interest rate substantially similar to the rate in effect at the time the original index became unavailable.
 
 #### “SEC. 403. DETERMINATION OF TRANSFERRED FUNCTIONS AND EMPLOYEES.
 
@@ -350,7 +350,7 @@ Guaranteed Position.—Each transferred employee shall be guaranteed a position 
 
 “(d)
 
-Pay and Benefits.—Each employee transferred under this section shall be entitled to receive, during the one-year period immediately following the transfer, pay and benefits comparable to those received by such employee immediately preceding the transfer. Where necessary or appropriate to further the safety and soundness of the thrift industry, the employing agency may continue the pre-transfer compensation of any transferring employee for up to 2 years beyond the expiration of the period provided for under the preceding sentence. Such pay and benefits shall be subject to the comparability provisions of this Act \[see Tables for classification\]. Any transferred employee who suffers a reduction of pay or benefits as a result of such comparability provisions shall be compensated for such reduction during the 1 year period following the transfer by assessments from the Federal Home Loan Bank or joint office of such Banks, from which the employee transferred. In any event, this subsection shall only apply to a transferred employee while such employee remains with the agency to which the employee is transferred.
+Pay and Benefits.—Each employee transferred under this section shall be entitled to receive, during the one-year period immediately following the transfer, pay and benefits comparable to those received by such employee immediately preceding the transfer. Where necessary or appropriate to further the safety andsoundness of the thrift industry, the employing agency may continue the pre-transfer compensation of any transferring employee for up to 2 years beyond the expiration of the period provided for under the preceding sentence. Such pay and benefits shall be subject to the comparability provisions of this Act \[see Tables for classification\]. Any transferred employee who suffers a reduction of pay or benefits as a result of such comparability provisions shall be compensated for such reduction during the 1 year period following the transfer by assessments from the Federal Home Loan Bank or joint office of such Banks, from which the employee transferred. In any event, this subsection shall only apply to a transferred employee while such employee remains with the agency to which the employee is transferred.
 
 “(e)
 
@@ -418,7 +418,7 @@ Flexible approval process for renegotiated loans.—A provision establishing a f
 
 &emsp;“(2)
 
-Recognition of additional financial capability of a borrower.—A provision permitting examiners and other employees and agents of the Board, the Federal Savings and Loan Insurance Corporation, and the Federal home loan banks to take into account, to the extent consistent with the practices of the Federal banking agencies, other financial resources of a borrower (in addition to the financial assets of the borrower which are pledged to secure a loan) in classifying the assets of the thrift institution which holds a loan made to such borrower or with recourse to the borrower.
+Recognition of additional financial capability of a borrower.—A provision permitting examiners and other employees and agents of the Board, the Federal Savings and Loan Insurance Corporation, and the Federal home loan banks to take into account, tothe extent consistent with the practices of the Federal banking agencies, other financial resources of a borrower (in addition to the financial assets of the borrower which are pledged to secure a loan) in classifying the assets of the thrift institution which holds a loan made to such borrower or with recourse to the borrower.
 
 &emsp;“(3)
 

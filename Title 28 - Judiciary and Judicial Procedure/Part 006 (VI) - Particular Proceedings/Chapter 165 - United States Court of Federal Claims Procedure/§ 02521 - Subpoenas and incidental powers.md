@@ -12,11 +12,11 @@
 
 (c) The United States Court of Federal Claims shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for any district in which the Court of Federal Claims is sitting shall, when requested by the chief judge of the Court of Federal Claims, attend any session of the Court of Federal Claims in such district.
 
-(Added Sept. 3, 1954, ch. 1263, §59(a), 68 Stat. 1248; amended Oct. 29, 1992, Pub. L. 102–572, title IX, §910(a), 106 Stat. 4519.)
+(Added Sept. 3, 1954, ch. 1263, §59(a), 68 Stat. 1248; amended Pub. L. 102–572, title IX, §910(a), Oct. 29, 1992, 106 Stat. 4519.)
 
 #### Amendments
 
-1992—Pub. L. 102–572 inserted “and incidental powers” in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
+<b>1992</b>—Pub. L. 102–572 inserted “and incidental powers” in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
 
 #### Effective Date of 1992 Amendment
 

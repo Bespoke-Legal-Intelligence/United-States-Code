@@ -42,5 +42,5 @@ Provisions similar to those in this section were contained in sections 3375, 837
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12009, 14317 of this title.
+This section is referred to in section 12009 of this title.
 

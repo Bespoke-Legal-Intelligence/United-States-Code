@@ -54,7 +54,7 @@ Pattern of violations.—If a satellite carrier engages in a willful or repeated
 
 &emsp;&emsp;(C)
 
-Previous subscribers excluded.—Subparagraphs (A) and (B) do not apply to secondary transmissions by a satellite carrier to persons who subscribed to receive such secondary transmissions from the satellite carrier or a distributor before the date of the enactment of this section.
+Previous subscribers excluded.—Subparagraphs (A) and (B) do not apply to secondary transmissions by a satellite carrier to persons who subscribed to receive such secondary transmissions from the satellite carrier or a distributor before November 16, 1988.
 
 &emsp;&emsp;(D)
 
@@ -128,7 +128,7 @@ Deposits with the register of copyrights.—A satellite carrier whose secondary 
 
 &emsp;&emsp;(B) a royalty fee for that 6-month period, computed by—
 
-&emsp;&emsp;&emsp;(i) multiplying the total number of subscribers receiving each secondary transmission of a superstation during each calendar month by 17.5 cents per subscriber in the case of superstations not subject to syndicated exclusivity under the regulations of the Federal Communications Commission, and 14 cents per subscriber in the case of superstations subject to such syndicated exclusivity;
+&emsp;&emsp;&emsp;(i) multiplying the total number of subscribers receiving each secondary transmission of a superstation during each calendar month by 17.5 cents per subscriber in the case of superstations that as retransmitted by the satellite carrier include any program which, if delivered by any cable system in the United States, would be subject to the syndicated exclusivity rules of the Federal Communications Commission, and 14 cents per subscriber in the case of superstations that are syndex-proof as defined in section 258.2 of title 37, Code of Federal Regulations;
 
 &emsp;&emsp;&emsp;(ii) multiplying the number of subscribers receiving each secondary transmission of a network station during each calendar month by 6 cents; and
 
@@ -164,7 +164,7 @@ Adjustment of Royalty Fees.—
 
 &emsp;(1)
 
-Applicability and determination of royalty fees.—The rate of the royalty fee payable under subsection (b)(1)(B) shall be effective until <sup>1</sup> unless a royalty fee is established under paragraph (2), (3), or (4) of this subsection. After that date, the fee shall be determined either in accordance with the voluntary negotiation procedure specified in paragraph (2) or in accordance with the compulsory arbitration procedure specified in paragraphs (3) and (4).
+Applicability and determination of royalty fees.—The rate of the royalty fee payable under subsection (b)(1)(B) shall be effective unless a royalty fee is established under paragraph (2) or (3) of this subsection.
 
 &emsp;(2)
 
@@ -194,17 +194,15 @@ Fee set by compulsory arbitration.—
 
 Notice of initiation of proceedings.—On or before January 1, 1997, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of arbitration proceedings for the purpose of determining a reasonable royalty fee to be paid under subsection (b)(1)(B) by satellite carriers who are not parties to a voluntary agreement filed with the Copyright Office in accordance with paragraph (2). Such arbitration proceeding shall be conducted under chapter 8.
 
-&emsp;&emsp;(B) <sup>2</sup>
+&emsp;&emsp;(B)
 
-Factors for determining royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall consider the approximate average cost to a cable system for the right to secondarily transmit to the public a primary transmission made by a broadcast station, the fee established under any voluntary agreement filed with the Copyright Office in accordance with paragraph (2), and the last fee proposed by the parties, before proceedings under this paragraph, for the secondary transmission of superstations or network stations for private home viewing. The fee shall also be calculated to achieve the following objectives:
+Establishment of royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royaltypanel appointed under chapter 8 shall establish fees for the retransmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions. In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—
 
-&emsp;&emsp;&emsp;(i) To maximize the availability of creative works to the public.
+&emsp;&emsp;&emsp;(i) the competitive environment in which such programming is distributed, the cost of similar signals in similar private and compulsory license marketplaces, and any special features and conditions of the retransmission marketplace;
 
-&emsp;&emsp;&emsp;(ii) To afford the copyright owner a fair return for his or her creative work and the copyright user a fair income under existing economic conditions.
+&emsp;&emsp;&emsp;(ii) the economic impact of such fees on copyright owners and satellite carriers; and
 
-&emsp;&emsp;&emsp;(iii) To reflect the relative roles of the copyright owner and the copyright user in the product made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, risk, and contribution to the opening of new markets for creative expression and media for their communication.
-
-&emsp;&emsp;&emsp;(iv) To minimize any disruptive impact on the structure of the industries involved and on generally prevailing industry practices.
+&emsp;&emsp;&emsp;(iii) the impact on the continued availability of secondary transmissions to the public.
 
 &emsp;&emsp;(C)
 
@@ -216,15 +214,9 @@ Period during which decision of arbitration panel or order of librarian effectiv
 
 > &emsp;&emsp;shall become effective as provided in section 802(g) or July 1, 1997, whichever is later.
 
-&emsp;&emsp;(D) <sup>2</sup>
+&emsp;&emsp;(D)
 
-Establishment of royalty fees.—In determining royalty fees under this paragraph, the Copyright Arbitration Panel shall establish fees for the retransmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions. In determining the fair market value, the Panel shall base its decision on economic, competitive, and programming information presented by the parties, including—
-
-&emsp;&emsp;&emsp;(i) the competitive environment in which such programming is distributed, the cost for similar signals in similar private and compulsory license marketplaces, and any special features and conditions of the retransmission marketplace;
-
-&emsp;&emsp;&emsp;(ii) the economic impact of such fees on copyright owners and satellite carriers; and
-
-&emsp;&emsp;&emsp;(iii) the impact on the continued availability of secondary transmissions to the public.
+Persons subject to royalty fee.—The royalty fee referred to in subparagraph (C) shall be binding on all satellite carriers, distributors, and copyright owners, who are not party to a voluntary agreement filed with the Copyright Office under paragraph (2).
 
 (d)
 
@@ -264,7 +256,7 @@ Secondary transmission.—The term “secondary transmission” has the meaning 
 
 &emsp;(8)
 
-Subscriber.—The term “subscriber” means an individual who receives a secondarytransmission service for private home viewing by means of a secondary transmission from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.
+Subscriber.—The term “subscriber” means an individual who receives a secondary transmission service for private home viewing by means of a secondary transmission from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.
 
 &emsp;(9)
 
@@ -286,7 +278,7 @@ Local market.—The term “local market” means the area encompassed within a 
 
 Exclusivity of This Section With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public.—No provision of section 111 of this title or any other law (other than this section) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carrier for private home viewing of programming contained in a primary transmission made by a superstation or a network station may be made without obtaining the consent of the copyright owner.
 
-(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348.)
+(Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535.)
 
 #### Termination of Section
 
@@ -294,45 +286,59 @@ Exclusivity of This Section With Respect to Secondary Transmissions of Broadcast
 
 #### References in Text
 
-The date of the enactment of this section, referred to in subsec. (a)(5)(C), is the date of enactment of Pub. L. 100–667, which was approved Nov. 16, 1988.
-
 For effective date of the Satellite Home Viewer Act of 1994, referred to in subsec. (a)(8)(C)(i), see section 6 of Pub. L. 103–369, set out as an Effective and Termination Dates of 1994 Amendment note below.
 
 The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. Section 397 of the Act is classified to section 397 of Title 47. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Amendments
 
+1997—Subsec. (a)(5)(C). Pub. L. 105–80, §1(3), amended Pub. L. 103–369, §2(5)(A). See 1994 Amendment note below.
+
+Subsec. (b)(1)(B)(i). Pub. L. 105–80, §1(1), amended Pub. L. 103–369, §2(3)(A). See 1994 Amendment note below.
+
+Subsec. (c)(1). Pub. L. 105–80, §12(a)(8), which directed substitution of “unless” for “until unless” before “a royalty fee”, could not be executed because “until” did not appear subsequent to amendment by Pub. L. 103–369, §2(4)(A), as amended by Pub. L. 105–80, §1(2). See 1994 Amendment note below.
+
+Pub. L. 105–80, §1(2), amended Pub. L. 103–369, §2(4)(A). See 1994 Amendment note below.
+
+Subsec. (c)(2)(A), (D), (3)(A)–(C). Pub. L. 105–80, §1(2), amended Pub. L. 103–369, §2(4). See 1994 Amendment notes below.
+
 1995—Subsec. (a)(1), (2)(A). Pub. L. 104–39 inserted “and section 114(d)” after “of this subsection”.
 
 1994—Subsec. (a)(2)(C). Pub. L. 103–369, §2(1), struck out “90 days after the effective date of the Satellite Home Viewer Act of 1988, or” before “90 days after commencing”, “whichever is later,” before “submit to the network that owns”, and “, on or after the effective date of the Satellite Home Viewer Act of 1988,” after “Register of Copyrights”, and inserted “name and” after “identifying (by” in two places.
 
-Subsec. (a)(5)(C). Pub. L. 103–369, §2(5)(A), substituted “this section” for “the Satellite Home Viewer Act of 1988”.
+Subsec. (a)(5)(C). Pub. L. 103–369, §2(5)(A), as amended by Pub. L. 105–80, §1(3), substituted “November 16, 1988” for “the date of the enactment of the Satellite Home Viewer Act of 1988”.
 
 Subsec. (a)(5)(D). Pub. L. 103–369, §2(2), added subpar. (D).
 
 Subsec. (a)(8) to (10). Pub. L. 103–369, §2(5)(B), added pars. (8) to (10).
 
-Subsec. (b)(1)(B). Pub. L. 103–369, §2(3), in cl. (i), substituted “17.5 cents per subscriber in the case of superstations not subject to syndicated exclusivity under the regulations of the Federal Communications Commission, and 14 cents per subscriber in the case of superstations subject to such syndicated exclusivity” for “12 cents”, and in cl. (ii), substituted “6 cents” for “3 cents”.
+Subsec. (b)(1)(B)(i). Pub. L. 103–369, §2(3)(A), as amended by Pub. L. 105–80, §1(1), substituted “17.5 cents per subscriber in the case of superstations that as retransmitted by the satellite carrier include any program which, if delivered by any cable system in the United States, would be subject to the syndicated exclusivity rules of the Federal Communications Commission, and 14 cents per subscriber in the case of superstations that are syndex-proof as defined in section 258.2 of title 37, Code of Federal Regulations” for “12 cents”.
 
-Subsec. (c)(1). Pub. L. 103–369, §2(4)(A), struck out “December 31, 1992,” after “until”.
+Subsec. (b)(1)(B)(ii). Pub. L. 103–369, §2(3)(B), substituted “6 cents” for “3 cents”.
 
-Subsec. (c)(2)(A). Pub. L. 103–369, §2(4)(B)(i), substituted “July 1, 1996” for “July 1, 1991”.
+Subsec. (c)(1). Pub. L. 103–369, §2(4)(A), as amended by Pub. L. 105–80, §1(2), struck out “until December 31, 1992,” before “unless a royalty fee”, substituted “paragraph (2) or (3) of this subsection” for “paragraph (2), (3), or (4) of this subsection”, and struck out at end “After that date, the fee shall be determined either in accordance with the voluntary negotiation procedure specified in paragraph (2) or in accordance with the compulsory arbitration procedure specified in paragraphs (3) and (4).”
 
-Subsec. (c)(2)(D). Pub. L. 103–369, §2(4)(B)(ii), substituted “December 31, 1999, or in accordance with the terms of the agreement, whichever is later” for “December 31, 1994”.
+Subsec. (c)(2)(A). Pub. L. 103–369, §2(4)(B)(i), as amended by Pub. L. 105–80, §1(2), substituted “July 1, 1996” for “July 1, 1991”.
 
-Subsec. (c)(3)(A). Pub. L. 103–369, §2(4)(C)(i), substituted “January 1, 1997” for “December 31, 1991”.
+Subsec. (c)(2)(D). Pub. L. 103–369, §2(4)(B)(ii), as amended by Pub. L. 105–80, §1(2), substituted “December 31, 1999, or in accordance with the terms of the agreement, whichever is later” for “December 31, 1994”.
 
-Subsec. (c)(3)(C). Pub. L. 103–369, §2(4)(C)(iv)(II), inserted before period at end “or July 1, 1997, whichever is later”.
+Subsec. (c)(3)(A). Pub. L. 103–369, §2(4)(C)(i), as amended by Pub. L. 105–80, §1(2), substituted “January 1, 1997” for “December 31, 1991”.
 
-Pub. L. 103–369, §2(4)(C)(iv)(I), which directed the amendment of subpar. (C) by striking out “, or until December 31, 1994”, could not be executed because phrase to be struck out does not appear in text.
+Subsec. (c)(3)(B). Pub. L. 103–369, §2(4)(C)(ii), as amended by Pub. L. 105–80, §1(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
-Subsec. (c)(3)(D). Pub. L. 103–369, §2(4)(C)(ii), amended subpar. (D) generally, without regard to the prior redesignation of subpar. (D) as (B) by Pub. L. 103–198, §5(2)(C)(ii), (iii). See 1993 Amendment note below. Prior to amendment, subpar. (D) read as follows:
+“(B)
 
-“(D)
+Factors for determining royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall consider the approximate average cost to a cable system for the right to secondarily transmit to the public a primary transmission made by a broadcast station, the fee established under any voluntary agreement filed with the Copyright Office in accordance with paragraph (2), and the last fee proposed by the parties, before proceedings under this paragraph, for the secondary transmission of superstations or network stations for private home viewing. The fee shall also be calculated to achieve the following objectives:
 
-Persons subject to royalty fee.—The royalty fee referred to in subparagraph (C) shall be binding on all satellite carriers, distributors, and copyright owners, who are not party to a voluntary agreement filed with the Copyright Office under paragraph (2).”
+&emsp;“(i) To maximize the availability of creative works to the public.
 
-Subsec. (c)(3)(E). Pub. L. 103–369, §2(4)(C)(iii), which directed the amendment of subpar. (E) by substituting “180” for “60”, could not be executed because subpar. (E) was repealed by Pub. L. 103–198, §5(2)(C)(iv). See 1993 Amendment note below.
+&emsp;“(ii) To afford the copyright owner a fair return for his or her creative work and the copyright user a fair income under existing economic conditions.
+
+&emsp;“(iii) To reflect the relative roles of the copyright owner and the copyright user in the product made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, risk, and contribution to the opening of new markets for creative expression and media for their communication.
+
+&emsp;“(iv) To minimize any disruptive impact on the structure of the industries involved and on generally prevailing industry practices.”
+
+Subsec. (c)(3)(C). Pub. L. 103–369, §2(4)(C)(iii), as amended by Pub. L. 105–80, §1(2), inserted before period at end “or July 1, 1997, whichever is later”.
 
 Subsec. (d)(2). Pub. L. 103–369, §2(6)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -365,6 +371,22 @@ Subsec. (c)(3)(D). Pub. L. 103–198, §5(2)(C)(vi), redesignated subpar. (H) as
 Subsec. (c)(3)(E) to (H). Pub. L. 103–198, §5(2)(C)(iv)–(vi)(I), struck out subpar. (E) which required the Arbitration Panel to report to the Copyright Royalty Tribunal not later than 60 days after publication of notice initiating an arbitration proceeding, struck out subpar. (F) which required action by the Tribunal within 60 days after receiving the report by the Panel, and redesignated subpars. (G) and (H) as (C) and (D), respectively.
 
 Subsec. (c)(4). Pub. L. 103–198, §5(2)(D), struck out par. (4) which established procedures for judicial review of decisions of the Copyright Royalty Tribunal.
+
+#### Effective Date of 1997 Amendment
+
+Section 13 of Pub. L. 105–80 provided that:
+
+“(a)
+
+In General.—Except as provided in subsections (b) and (c), the amendments made by this Act \[amending this section, sections 101, 104A, 108 to 110, 114 to 116, 303, 304, 405, 407, 411, 504, 509, 601, 708, 801 to 803, 909, 910, 1006, and 1007 of this title, and section 2319 of Title 18, Crimes and Criminal Procedure, and amending provisions set out as a note under section 914 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 13, 1997\].
+
+“(b)
+
+Satellite Home Viewer Act.—The amendments made by section 1 \[amending this section\] shall be effective as if enacted as part of the Satellite Home Viewer Act of 1994 (Public Law 103–369).
+
+“(c)
+
+Technical Amendment.—The amendment made by section 12(b)(1) \[amending provisions set out as a note under section 914 of this title\] shall be effective as if enacted on November 9, 1987.”
 
 #### Effective Date of 1995 Amendment
 
@@ -407,8 +429,4 @@ Section 5 of Pub. L. 103–369 provided that: “The amendments made by this sec
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 106, 111, 501, 511, 801, 802, 803 of this title; title 18 section 2319; title 47 sections 325, 548.
-
-<i><sup>1</sup></i><i> So in original. The word “until” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> See 1994 Amendment note for subsec. (c)(3)(D) below.</i>
 

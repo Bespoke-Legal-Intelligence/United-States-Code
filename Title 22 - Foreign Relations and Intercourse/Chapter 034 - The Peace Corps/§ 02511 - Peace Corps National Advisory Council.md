@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-A Peace Corps National Advisory Council (hereinafter in this section referred to as the “Council”) shall be established in accordance with the provisions of this section.
+A Peace Corps National Advisory Council (hereinafter in this section referred to as the“Council”) shall be established in accordance with the provisions of this section.
 
 #### (b) Functions
 
@@ -70,7 +70,7 @@ At its first meeting and at its first regular meeting in each calendar year ther
 
 (1) The Council shall hold a regular meeting during each calendar quarter and shall meet at the call of the President, the Director of the Peace Corps, the Council's Chair, or one-fourth of its members.
 
-(2) The Council shall prescribe such bylaws and regulations as it considers necessary to carry out its functions. Such bylaws and regulations shall include procedures for fixing the time and place of meetings, giving or waiving of notice of meetings, and keeping of minutes of meetings.
+(2) The Council shall prescribe such bylaws and regulations as it considers necessary tocarry out its functions. Such bylaws and regulations shall include procedures for fixing the time and place of meetings, giving or waiving of notice of meetings, and keeping of minutes of meetings.
 
 #### (i) Reports to the President and the Director
 
@@ -96,7 +96,7 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Termination of Similar Advisory Body
 

@@ -10,7 +10,7 @@ Notice of Search.—Whoever, having knowledge that any person authorized to make
 
 (c)
 
-Notice of Certain Electronic Surveillance.—Whoever, having knowledge that a Federal investigative or law enforcement officer has been authorized or has applied for authorizationunder chapter 119 to intercept a wire, oral, or electronic communication, in order to obstruct, impede, or prevent such interception, gives notice or attempts to give notice of the possible interception to any person shall be fined under this title or imprisoned not more than five years, or both.
+Notice of Certain Electronic Surveillance.—Whoever, having knowledge that a Federal investigative or law enforcement officer has been authorized or has applied for authorization under chapter 119 to intercept a wire, oral, or electronic communication, in order to obstruct, impede, or prevent such interception, gives notice or attempts to give notice of the possible interception to any person shall be fined under this title or imprisoned not more than five years, or both.
 
 Whoever, having knowledge that a Federal officer has been authorized or has applied for authorization to conduct electronic surveillance under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801, et seq.), in order to obstruct, impede, or prevent such activity, gives notice or attempts to give notice of the possible activity to any person shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -28,7 +28,7 @@ Minor changes were made in phraseology.
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (c), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (c), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principallyto chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 #### Amendments
 

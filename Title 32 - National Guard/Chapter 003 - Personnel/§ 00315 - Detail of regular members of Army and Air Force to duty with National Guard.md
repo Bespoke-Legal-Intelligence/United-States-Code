@@ -4,7 +4,7 @@
 
 (b) The Secretary of the Army may detail enlisted members of the Regular Army for duty with the Army National Guard of each State and Territory, Puerto Rico, and the District of Columbia. The Secretary of the Air Force may detail enlisted members of the Regular Air Force for duty with the Air National Guard of each State and Territory, Puerto Rico, and the District of Columbia.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 

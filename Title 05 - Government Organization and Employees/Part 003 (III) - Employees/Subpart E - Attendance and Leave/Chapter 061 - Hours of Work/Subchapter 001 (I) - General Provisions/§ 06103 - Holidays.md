@@ -34,7 +34,7 @@
 
 > This subsection, except subparagraph (B) of paragraph (1), does not apply to an employee whose basic workweek is Monday through Saturday.
 
-(c) January 20 of each fourth year after 1965, Inauguration Day, is a legal public holiday for the purpose of statutes relating to pay and leave of employees as defined by section 2105 of this title and individuals employed by the government of the District of Columbia employed in the District of Columbia, Montgomery and Prince Georges Counties in Maryland, Arlington and Fairfax Counties in Virginia, and the cities of Alexandria and Falls Church in Virginia. When January 20 of any fourth year after 1965 falls on Sunday, the next succeeding day selected for the public observance of the inauguration of the President is a legal public holiday for the purpose of this subsection.
+(c) January 20 of each fourth year after 1965, Inauguration Day, is a legal public holiday for the purpose of statutes relating to pay and leave of employees as defined by section 2105 of this title and individuals employed by the government of the District of Columbia employed in the District of Columbia, Montgomery and Prince Georges Counties in Maryland, Arlington and Fairfax Counties in Virginia, and the citiesof Alexandria and Falls Church in Virginia. When January 20 of any fourth year after 1965 falls on Sunday, the next succeeding day selected for the public observance of the inauguration of the President is a legal public holiday for the purpose of this subsection.
 
 (d)(1) For purposes of this subsection—
 

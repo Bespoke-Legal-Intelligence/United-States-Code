@@ -14,9 +14,9 @@
 
 (2) Recyclable materials shall be sold in accordance with section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484), except that the Commandant may conduct sales of materials for which the proceeds of sale will not exceed $5,000 under regulations prescribed by the Commandant.
 
-(d)(1) Proceeds from the sale of recyclable materials at a Coast Guard installation shall be credited to funds available for operations and maintenance at that installation in amounts sufficient to cover operations, maintenance, recycling equipment, and overhead costs for processing recyclable materials at the installation.
+(d)(1) Proceeds from the sale of recyclable materials at a Coast Guard installation shall be credited to funds available for operations and maintenance at that installation in amountssufficient to cover operations, maintenance, recycling equipment, and overhead costs for processing recyclable materials at the installation.
 
-(2) If, after funds are credited, a balance remains available to a Coast Guard installation and the installation has a qualified recycling program, not more than 50 percent of that balance may be used at the installation for projects for pollution abatement, energy conservation, and occupational safety and health activities.The cost of the project may not be greater than 50 percent of the amount permissible for a minor construction project.
+(2) If, after funds are credited, a balance remains available to a Coast Guard installation and the installation has a qualified recycling program, not more than 50 percent of that balance may be used at the installation for projects for pollution abatement, energy conservation, and occupational safety and health activities. The cost of the project may not be greater than 50 percent of the amount permissible for a minor construction project.
 
 (3) The remaining balance available to a Coast Guard,<sup>1</sup> installation may be transferred to the Coast Guard Morale, Welfare, and Recreation Program.
 

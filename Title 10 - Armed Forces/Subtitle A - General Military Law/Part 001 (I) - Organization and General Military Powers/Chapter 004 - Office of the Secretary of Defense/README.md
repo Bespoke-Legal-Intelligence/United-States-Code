@@ -18,10 +18,13 @@
 | [140\.](%C2%A7%2000140%20-%20General%20Counsel.md) | General Counsel. |
 | [141\.](%C2%A7%2000141%20-%20Inspector%20General.md) | Inspector General. |
 | [142\.](%C2%A7%2000142%20-%20Assistant%20to%20the%20Secretary%20of%20Defense%20for%20Nuclear%20and%20Chemical%20and%20Biological%20Defense%20Programs.md) | Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs. |
+| [143\.](%C2%A7%2000143%20-%20Office%20of%20the%20Secretary%20of%20Defense%20personnel%20limitation.md) | Office of the Secretary of Defense personnel: limitation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title IX, §911(d)(2), Nov. 18, 1997, 111 Stat. 1859, added item 143.
 
 1996—Pub. L. 104–106, div. A, title IX, §904(a)(2), Feb. 10, 1996, 110 Stat. 403, substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy” in item 142.
 
@@ -29,7 +32,7 @@ Pub. L. 104–106, div. A, title IX, §903(a), (e)(3), Feb. 10, 1996, 110 Stat. 
 
 1994—Pub. L. 103–337, div. A, title IX, §903(a)(3), Oct. 5, 1994, 108 Stat. 2823, substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” in item 135.
 
-1993—Pub. L. 103–160, div. A, title IX, §906(b), Nov. 30, 1993, 107 Stat. 1729, amended table of sections generally, inserting “and Technology” after “Acquisition” in items 133 and 133a, adding item 136, and redesignating former items 135, 136, 137, 138, 139, 140, and 141 as 137, 138, 135, 139, 140, 141, and 142, respectively.
+1993—Pub. L. 103–160, div. A, title IX, §906(b), Nov. 30, 1993, 107 Stat. 1729, amended table of sections generally, inserting “and Technology” after “Acquisition” initems 133 and 133a, adding item 136, and redesignating former items 135, 136, 137, 138, 139, 140, and 141 as 137, 138, 135, 139, 140, 141, and 142, respectively.
 
 1991—Pub. L. 102–190, div. A, title IX, §901(a)(2), Dec. 5, 1991, 105 Stat. 1450, added item 134a.
 
@@ -96,3 +99,4 @@ This chapter is referred to in title 41 section 421.
 - [&sect; 00140c - Renumbered &sect;130](%C2%A7%2000140c%20-%20Renumbered%20%C2%A7130.md)
 - [&sect; 00141 - Inspector General](%C2%A7%2000141%20-%20Inspector%20General.md)
 - [&sect; 00142 - Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs](%C2%A7%2000142%20-%20Assistant%20to%20the%20Secretary%20of%20Defense%20for%20Nuclear%20and%20Chemical%20and%20Biological%20Defense%20Programs.md)
+- [&sect; 00143 - Office of the Secretary of Defense personnel limitation](%C2%A7%2000143%20-%20Office%20of%20the%20Secretary%20of%20Defense%20personnel%20limitation.md)

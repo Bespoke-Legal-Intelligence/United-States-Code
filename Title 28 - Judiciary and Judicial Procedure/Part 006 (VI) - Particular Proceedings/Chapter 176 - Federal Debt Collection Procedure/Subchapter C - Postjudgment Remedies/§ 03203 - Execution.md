@@ -188,7 +188,7 @@ Disposition of Proceeds; Further Levy.—
 
 &emsp;(1)
 
-Distribution of sale proceeds.—(A) The United States marshal shall first deliver to the judgment debtor such amounts to which the judgment debtor is entitled from the sale of partially exempt property.
+Distribution of sale proceeds.—(A) The United States marshal shall first deliver tothe judgment debtor such amounts to which the judgment debtor is entitled from the sale of partially exempt property.
 
 &emsp;(B) The United States marshal shall next deduct from the proceeds of an execution sale of property an amount equal to the reasonable expenses incurred in making the levy of execution and in keeping and maintaining the property.
 
@@ -204,7 +204,7 @@ Further levy if execution not satisfied.—If the proceeds of the execution sale
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3103, 3201, 3202 of this title.
+This section is referred to in sections 3103, 3201, 3202 of this title; title 8 section 1183a.
 
 <i><sup>1</sup></i><i> So in original. The word “property” probably should not appear.</i>
 

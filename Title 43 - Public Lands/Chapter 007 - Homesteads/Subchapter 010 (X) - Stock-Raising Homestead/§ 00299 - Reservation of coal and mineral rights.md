@@ -166,7 +166,7 @@ Subsections (b) through (<i>o</i>) of this section apply only to minerals not su
 
 &emsp;(3) the Act of July 31, 1947, commonly known as the Materials Act of 1947 (30 U.S.C. 601 and following).
 
-(Dec. 29, 1916, ch. 9, §9, 39 Stat. 864; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Apr. 16, 1993, Pub. L. 103–23, §1(a), (b), 107 Stat. 60, 65.)
+(Dec. 29, 1916, ch. 9, §9, 39 Stat. 864; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 103–23, §1(a), (b), Apr. 16, 1993, 107 Stat. 60, 65.)
 
 #### References in Text
 

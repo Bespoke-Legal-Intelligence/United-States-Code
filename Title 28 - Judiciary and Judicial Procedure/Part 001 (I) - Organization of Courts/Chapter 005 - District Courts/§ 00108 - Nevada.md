@@ -4,7 +4,7 @@ Nevada constitutes one judicial district.
 
 &emsp;&emsp;Court shall be held at Carson City, Elko, Las Vegas, Reno, Ely, and Lovelock.
 
-(June 25, 1948, ch. 646, 62 Stat. 885; Dec. 1, 1990, Pub. L. 101–650, title III, §324(a)(1), 104 Stat. 5120.)
+(June 25, 1948, ch. 646, 62 Stat. 885; Pub. L. 101–650, title III, §324(a)(1), Dec. 1, 1990, 104 Stat. 5120.)
 
 #### Historical and Revision Notes
 
@@ -14,5 +14,5 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1990—Pub. L. 101–650 substituted “, Reno, Ely, and Lovelock” for “and Reno”.
+<b>1990</b>—Pub. L. 101–650 substituted “, Reno, Ely, and Lovelock” for “and Reno”.
 

@@ -1,0 +1,66 @@
+### §3657. Recruitment and retention remuneration
+
+#### (a) Determination by head of agency
+
+In addition to basic pay, additional compensation may be paid, in such amounts as the head of the agency concerned determines, as an overseas recruitment or retention differential to any individual who—
+
+&emsp;(1) before October 1, 1979, was employed by the Panama Canal Company, by the Canal Zone Government, or by any other agency in the area then known as the Canal Zone;
+
+&emsp;(2) is an employee who was recruited on or after October 1, 1979, outside of the Republic of Panama for placement in the Republic of Panama; or
+
+&emsp;(3) is a medical doctor employed by the Department of Defense in the Republic of Panama or by the Commission;
+
+> if, in the judgment of the head of the agency concerned, the recruitment or retention of the individual is essential.
+
+#### (b) Restriction
+
+Any employee described in more than one paragraph of subsection (a) of this section may qualify for a recruitment or retention differential under only one of those paragraphs.
+
+#### (c) Recruitment and relocation bonuses
+
+(1) The Commission may pay a recruitment bonus to an individual who is newly appointed to a position with the Commission, or a relocation bonus to an employee of the Commission who must relocate to accept a position, if the Commission determines that the Commission would be likely, in the absence of such a bonus, to have difficulty in filling the position.
+
+(2) A recruitment or relocation bonus may be paid to an employee under this subsection only if the employee enters into an agreement with the Commission to complete a period of employment established in the agreement. If the employee voluntarily fails to complete such period of employment or is separated from service in such employment as a result of an adverse action before the completion of such period, the employee shall repay the entire amount of the bonus.
+
+(3) A recruitment or relocation bonus under this subsection may be paid as a lump sum. A bonus under this subsection may not be considered to be part of the basic pay of an employee.
+
+#### (d) Retention bonuses
+
+(1) The Commission may pay a retention bonus to an employee of the Commission if the Commission determines that—
+
+&emsp;(A) the employee has unusually high or unique qualifications and those qualifications make it essential for the Commission to retain the employee for a period specified by the Commission ending not later than the Canal Transfer Date, or the Commission otherwise has a special need for the services of the employee making it essential for the Commission to retain the employee for a period specified by the Commission ending not later than the Canal Transfer Date; and
+
+&emsp;(B) the employee would be likely to leave employment with the Commission before the end of that period if the retention bonus is not paid.
+
+(2) A retention bonus under this subsection—
+
+&emsp;(A) shall be in a fixed amount;
+
+&emsp;(B) shall be paid on a pro rata basis (over the period specified by the Commission as essential for the retention of the employee), with such payments to be made at the same time and in the same manner as basic pay; and
+
+&emsp;(C) may not be considered to be part of the basic pay of an employee.
+
+(3) A decision by the Commission to exercise or to not exercise the authority to pay a bonus under this subsection shall not be subject to review under any statutory procedure or any agency or negotiated grievance procedure except under any of the laws referred to in section 2302(d) of title 5.
+
+#### (e) Limit on compensation
+
+Additional compensation provided under this section may not exceed 25 percent of the rate of basic pay of the individual to whom the compensation is paid.
+
+(Pub. L. 96–70, title I, §1217, Sept. 27, 1979, 93 Stat. 465; Pub. L. 104–201, div. C, title XXXV, §3533, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, §3525(a), Nov. 18, 1997, 111 Stat. 2066.)
+
+#### Amendments
+
+1997—Subsecs. (c), (d). Pub. L. 105–85, §3525(a)(3), added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
+
+Subsec. (e). Pub. L. 105–85, §3525(a)(1), (2), redesignated subsec. (c) as (e) and substituted “of the individual to whom the compensation is paid” for “for the same or similar work performed in the United States by individuals employed by the Government of the United States”.
+
+1996—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows: “Subchapter III of chapter 59 of title 5, relating to overseas differentials and allowances, shall not apply with respect to any employee whose permanent duty station is in the Republic of Panama and who is employed by an agency.”
+
+#### Coordination of Pay and Employment Practices
+
+For provisions requiring consultations with the Secretary of Defense for agencies under this subpart with respect to the establishment of rates of pay and other matters deemed appropriate by the Secretary in order to develop compatible or unified systems of basic pay and employment practices, see section 1–201 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36043, set out as a note under section 3601 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3614, 3658, 3673 of this title.
+

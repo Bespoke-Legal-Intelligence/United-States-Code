@@ -32,7 +32,7 @@ No logical mining unit shall be approved by the Secretary if the total acreage (
 
 Nothing in this section shall be construed to waive the acreage limitations for coal leases contained in section 184(a) of this title.
 
-(Feb. 25, 1920, ch. 85, §2(d), as added Aug. 4, 1976, Pub. L. 94–377, §5(b), 90 Stat. 1086.)
+(Feb. 25, 1920, ch. 85, §2(d), as added Pub. L. 94–377, §5(b), Aug. 4, 1976, 90 Stat. 1086.)
 
 #### References in Text
 

@@ -58,9 +58,9 @@ As used in this subchapter:
 
 &emsp;&emsp;(ii) represented separately in any table, chart, or explanatory text included in the statement of managers or the governing committee report accompanying such law;
 
-&emsp;&emsp;(iii) required to be allocated for a specific program, project, or activity in a law (other than an appropriation law) that mandates the expenditure of budget authority from accounts, programs, projects, or activities for which budget authority is provided in an appropriation law;
+&emsp;&emsp;(iii) required to be allocated for a specific program, project, or activity in a law (other than an appropriation law) that mandatesthe expenditure of budget authority from accounts, programs, projects, or activities for which budget authority is provided in an appropriation law;
 
-&emsp;&emsp;(iv) represented by the product of the estimated procurement cost and the total quantity of items specified in an appropriation law or included in the statement of managers or the governing committee report accompanying such law; and
+&emsp;&emsp;(iv) represented by the product of the estimated procurement cost and the total quantity of items specified in an appropriation law or included in the statement of managers or the governing committee report accompanying such law; or
 
 &emsp;&emsp;(v) represented by the product of the estimated procurement cost and the total quantity of items required to be provided in a law (other than an appropriation law) that mandates the expenditure of budget authority from accounts, programs, projects, or activities for which budget authority is provided in an appropriation law.
 
@@ -110,7 +110,7 @@ As used in this subchapter:
 
 &emsp;(D) For purposes of subparagraph (A)—
 
-&emsp;&emsp;(i) all businesses and associations which are related within the meaning of sections707(b) and 1563(a) of title 26 shall be treated as a single beneficiary;
+&emsp;&emsp;(i) all businesses and associations which are related within the meaning of sections 707(b) and 1563(a) of title 26 shall be treated as a single beneficiary;
 
 &emsp;&emsp;(ii) all qualified plans of an employer shall be treated as a single beneficiary;
 
@@ -130,11 +130,15 @@ As used in this subchapter:
 
 &emsp;The term “OMB” means the Director of the Office of Management and Budget.
 
-(Pub. L. 93–344, title X, §1026, as added Pub. L. 104–130, §2(a), Apr. 9, 1996, 110 Stat. 1207.)
+(Pub. L. 93–344, title X, §1026, as added Pub. L. 104–130, §2(a), Apr. 9, 1996, 110 Stat. 1207; amended Pub. L. 105–33, title X, §10122, Aug. 5, 1997, 111 Stat. 697.)
 
 #### Termination of Section
 
 <i>For termination of section by section 5 of Pub. L. 104–130, see Effective and Termination Dates note set out under section 691 of this title.</i>
+
+#### Amendments
+
+1997—Par. (7)(A)(iv). Pub. L. 105–33 substituted “; or” for “; and”.
 
 #### Section Referred to in Other Sections
 

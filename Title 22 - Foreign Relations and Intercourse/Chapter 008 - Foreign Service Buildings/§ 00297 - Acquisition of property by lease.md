@@ -2,7 +2,7 @@
 
 The authority granted to acquire sites and buildings by purchase or otherwise shall include authority to acquire leaseholds.
 
-(May 7, 1926, ch. 250, §6, 44 Stat. 405; June 19, 1952, ch. 446, §4, 66 Stat. 140; Aug. 17, 1977, Pub. L. 95–105, title I, §106(b), 91 Stat. 845.)
+(May 7, 1926, ch. 250, §6, 44 Stat. 405; June 19, 1952, ch. 446, §4, 66 Stat. 140; Pub. L. 95–105, title I, §106(b), Aug. 17, 1977, 91 Stat. 845.)
 
 #### Amendments
 

@@ -6,13 +6,25 @@
 
 (c) For the purpose of sections 167 to 167j of this title, the term “Library of Congress buildings and grounds” shall include (1) all real property in lot 51 in square 869 in the District of Columbia, as that lot appears on the records in the office of the Surveyor of the District of Columbia on August 1, 1990, extending to the outer face of the curbs of the square in which it is located and including all alleys or parts of alleys and streets within the lot lines and curb lines surrounding such real property, and (2) improvements to such real property.
 
-(Aug. 4, 1950, ch. 561, §11, 64 Stat. 412; June 17, 1970, Pub. L. 91–281, 84 Stat. 309; Nov. 5, 1990, Pub. L. 101–520, title II, §205(d), 104 Stat. 2272; Nov. 15, 1990, Pub. L. 101–562, §2(c), 104 Stat. 2780.)
+(d) For the purposes of sections 167 to 167j of this title, the term “Library of Congress buildings and grounds” shall include the following property:
+
+&emsp;(1) Three parcels totaling approximately 41 acres, more or less, located in Culpeper County, Virginia, and identified as Culpeper County Tax Parcel Numbers 51–80B, 51–80C, and 51–80D, further described as real estate (consisting of 15.949 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated October 1, 1964, and recorded October 7, 1964, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 177, page 431; and real estate (consisting of 20.498 acres and consisting of 4.502 acres) conveyed to Federal Reserve Bank of Richmond by deed from Russell H. Inskeep and Jean H. Inskeep, his wife, dated November 11, 1974, and recorded November 12, 1974, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 247, page 246.
+
+&emsp;(2) Improvements to such real property.
+
+(Aug. 4, 1950, ch. 561, §11, 64 Stat. 412; Pub. L. 91–281, June 17, 1970, 84 Stat. 309; Pub. L. 101–520, title II, §205(d), Nov. 5, 1990, 104 Stat. 2272; Pub. L. 101–562, §2(c), Nov. 15, 1990, 104 Stat. 2780; Pub. L. 105–144, §2, Dec. 15, 1997, 111 Stat. 2667.)
 
 #### Amendments
+
+1997—Subsec. (d). Pub. L. 105–144 added subsec. (d).
 
 1990—Subsec. (c). Pub. L. 101–520 and Pub. L. 101–562 made substantively identical amendments, adding subsec. (c).
 
 1970—Pub. L. 91–281 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–144 effective upon acquisition by Architect of the Capitol of property described in section 1 of Pub. L. 105–144, see section 5 of Pub. L. 105–144, set out as an Acquisition of Real Property for Library of Congress note under section 141 of this title.
 
 #### Effective Date of 1990 Amendments
 

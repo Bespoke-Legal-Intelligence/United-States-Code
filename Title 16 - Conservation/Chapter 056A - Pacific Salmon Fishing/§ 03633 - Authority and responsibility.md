@@ -16,7 +16,7 @@ Recommendations of the Commission on fishery regimes or Fraser River Panel regul
 
 #### (c) Secretary of Commerce
 
-In cooperation with the appropriate Regional Fishery Management Councils, States and treaty Indian tribes, the Secretary shall prepare, as appropriate, all statements, reports, and information required by the Treaty and submit such documents to the Secretary of State, who shall transmit them to the Commission.
+In cooperation with the appropriate Regional Fishery Management Councils, States and treaty Indian tribes, the Secretary shall prepare, asappropriate, all statements, reports, and information required by the Treaty and submit such documents to the Secretary of State, who shall transmit them to the Commission.
 
 (Pub. L. 99–5, §4, Mar. 15, 1985, 99 Stat. 10.)
 

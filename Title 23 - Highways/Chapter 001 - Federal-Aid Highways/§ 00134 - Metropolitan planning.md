@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a mannerwhich will efficiently maximize mobility of people and goods within and through urbanized areas and minimize transportation-related fuel consumption and air pollution. To accomplish this objective, metropolitan planning organizations, in cooperation with the State, shall develop transportation plans and programs for urbanized areas of the State. Such plans and programs shall provide for the development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal transportation system for the State, the metropolitan areas, and the Nation. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.
+General Requirements.—It is in the national interest to encourage and promote the development of transportation systems embracing various modes of transportation in a manner which will efficiently maximize mobility of people and goods within and through urbanized areas and minimize transportation-related fuel consumption and air pollution. To accomplish this objective, metropolitan planning organizations, in cooperation with the State, shall develop transportation plans and programs for urbanized areas of the State. Such plans and programs shall provide for the development of transportation facilities (including pedestrian walkways and bicycle transportation facilities) which will function as an intermodal transportation system for the State, the metropolitan areas, and the Nation. The process for developing such plans and programs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems.
 
 (b)
 
@@ -242,7 +242,7 @@ Subsec. (k). Pub. L. 103–429, §3(5)(C), (D), substituted “chapter 53 of tit
 
 Subsecs. (<i>l</i>), (m). Pub. L. 103–429, §3(5)(C), substituted “chapter 53 of title 49” for “the Federal Transit Act”.
 
-1992—Subsec. (k). Pub. L. 102–388 inserted at end “The provisions of title 23, United States Code, regarding the non-Federal share shall apply to title 23 funds used fortransit projects and the provisions of the Federal Transit Act regarding non-Federal share shall apply to Federal Transit Act funds used for highway projects.”
+1992—Subsec. (k). Pub. L. 102–388 inserted at end “The provisions of title 23, United States Code, regarding the non-Federal share shall apply to title 23 funds used for transit projects and the provisions of the Federal Transit Act regarding non-Federal share shall apply to Federal Transit Act funds used for highway projects.”
 
 1991—Pub. L. 102–240 substituted section catchline for one which read: “Transportation planning in certain urban areas” and amended text generally, substituting present provisions for provisions relating to transportation planning in certain urban areas, including provisions stating transportation objectives, requiring continuing comprehensive planning process by States and local communities, and relating to redesignation of metropolitan planning organizations, designation of contiguous interstate areas as critical transportation regions and corridors, establishment of planning bodies for such regions and corridors, and authorization of appropriations.
 
@@ -250,7 +250,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 103–429, §3(5)(C), substituted “chapter 5
 
 Subsecs. (b), (c). Pub. L. 95–599, §169(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1970—Pub. L. 91–605 designated existing provisions as subsec. (a), inserted provision prohibiting a highway construction project in any urban area of 50,000 or more population unless responsible public officials of such area have been consulted and their views considered with respect to the corridor, the location, and the design of the project, and added subsec. (b).
+1970—Pub. L. 91–605 designated existing provisions as subsec. (a), inserted provision prohibiting a highway construction project in any urban area of 50,000 or morepopulation unless responsible public officials of such area have been consulted and their views considered with respect to the corridor, the location, and the design of the project, and added subsec. (b).
 
 #### Effective Date of 1991 Amendment
 

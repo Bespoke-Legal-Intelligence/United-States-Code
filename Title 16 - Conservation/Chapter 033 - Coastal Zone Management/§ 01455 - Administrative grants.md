@@ -6,7 +6,7 @@ The Secretary may make grants to any coastal state for the purpose of administer
 
 &emsp;(1) For those States for which programs were approved prior to November 5, 1990, 1 to 1 for any fiscal year.
 
-&emsp;(2) For programs approved after November 5, 1990, 4 to 1 for the first fiscal year, 2.3 to 1 for the second fiscal year, 1.5 to 1 for the third fiscal year, and 1 to 1 for each fiscal year thereafter.
+&emsp;(2) For programs approved after November 5, 1990, 4 to 1 for the first fiscal year, 2.3 to 1 forthe second fiscal year, 1.5 to 1 for the third fiscal year, and 1 to 1 for each fiscal year thereafter.
 
 #### (b) Grants to coastal states; requirements
 

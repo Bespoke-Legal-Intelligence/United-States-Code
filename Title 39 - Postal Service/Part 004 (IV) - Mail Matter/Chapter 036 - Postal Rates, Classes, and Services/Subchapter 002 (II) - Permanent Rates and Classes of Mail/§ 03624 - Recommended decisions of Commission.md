@@ -14,7 +14,7 @@
 
 &emsp;(5) the conduct of the entire proceedings off the record with the consent of the parties.
 
-(c)(1) Except as provided by paragraph (2) of this subsection, in any case in which the Postal Service makes a request under section 3622 of this title for a recommended decision by the Commission on changes in a rate or rates of postage or in a fee or fees for postal services theCommission shall transmit its recommended decision to the Governors under subsection (d) of this section no later than 10 months after receiving any such request from the Postal Service.
+(c)(1) Except as provided by paragraph (2) of this subsection, in any case in which the Postal Service makes a request under section 3622 of this title for a recommended decision by the Commission on changes in a rate or rates of postage or in a fee or fees for postal services the Commission shall transmit its recommended decision to the Governors under subsection (d) of this section no later than 10 months after receiving any such request from the Postal Service.
 
 (2) In any case in which the Commission determines that the Postal Service has unreasonably delayed consideration of a request made by the Postal Service under section 3622 by failing to respond within a reasonable time to any lawful order of the Commission, the Commission may extend the 10-month period described in paragraph (1) of this subsection by one day for each day of such delay.
 

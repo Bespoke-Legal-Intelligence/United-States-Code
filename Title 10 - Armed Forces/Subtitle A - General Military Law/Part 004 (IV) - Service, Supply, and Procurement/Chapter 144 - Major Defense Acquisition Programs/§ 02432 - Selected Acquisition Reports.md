@@ -54,7 +54,7 @@
 
 &emsp;(B) with respect to each major defense acquisition program that was not included in the most recent comprehensive annual Selected Acquisition Report, the information described in subsection (c).
 
-(2) Selected Acquisition Reports for the second, third, and fourth quarters of a fiscal year shall be known as Quarterly Selected Acquisition Reports.
+(2) Selected Acquisition Reports for the second, third, and fourth quarters of a fiscal yearshall be known as Quarterly Selected Acquisition Reports.
 
 (e) Information to be included under this subsection in a Quarterly Selected Acquisition Report with respect to a major defense acquisition program is as follows:
 
@@ -88,19 +88,13 @@
 
 &emsp;(C) The major contracts under the development program and the reasons for any cost or schedule variances under those contracts since the last Selected Acquisition Report.
 
-&emsp;(D) The completion status of the development program expressed—
+&emsp;(D) Program highlights since the last Selected Acquisition Report.
 
-&emsp;&emsp;(i) as the percentage that the number of years for which funds have been appropriated for the development program is of the number of years for which it is planned that funds will be appropriated for the program; and
-
-&emsp;&emsp;(ii) as the percentage that the amount of funds that have been appropriated for the development program is of the total amount of funds which it is planned will be appropriated for the program.
-
-&emsp;(E) Program highlights since the last Selected Acquisition Report.
-
-&emsp;(F) Other information as the Secretary of Defense considers appropriate.
+&emsp;(E) Other information as the Secretary of Defense considers appropriate.
 
 (3) The submission requirements for a limited report under this subsection shall be the same as for quarterly Selected Acquisition Reports for total program reporting.
 
-(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180,div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606.)
+(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, §841(c), Nov. 18, 1997, 111 Stat. 1843.)
 
 #### Codification
 
@@ -108,13 +102,19 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+1997—Subsec. (h)(2)(D) to (F). Pub. L. 105–85 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “The completion status of the development program expressed—
+
+&emsp;“(i) as the percentage that the number of years for which funds have been appropriated for the development program is of the number of years for which it is planned that funds will be appropriated for the program; and
+
+&emsp;“(ii) as the percentage that the amount of funds that have been appropriated for the development program is of the total amount of funds which it is planned will be appropriated for the program.”
+
 1996—Subsec. (b)(3)(B). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 Subsec. (c)(1). Pub. L. 104–201, §806(1), struck out “and” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
 Subsec. (c)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-Subsec. (e)(8), (9). Pub. L. 104–201, §806(2), redesignated par. (9) as (8) and struck out former par. (8) which read as follows: “The completion status of the program (A) expressed as the percentage that the number of years for which funds have been appropriated for the program is of the number of years for which it is planned that funds will be appropriated for the program, and (B) expressed as the percentage that the amount of funds that have been appropriated for the program is of the total amount of funds which it is planned will be appropriated for the program.”
+Subsec. (e)(8), (9). Pub. L. 104–201, §806(2), redesignated par. (9) as (8) and struck out former par. (8) which read as follows: “The completion status of the program (A) expressed as the percentage that the number of years for which funds have been appropriated for theprogram is of the number of years for which it is planned that funds will be appropriated for the program, and (B) expressed as the percentage that the amount of funds that have been appropriated for the program is of the total amount of funds which it is planned will be appropriated for the program.”
 
 Subsec. (h)(1). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
@@ -232,7 +232,7 @@ Section 127 of Pub. L. 100–180, as amended by Pub. L. 102–484, div. A, title
 
 “(a)
 
-SAR Coverage for ATB, ACM, and ATA Programs.—The Secretary of Defense shall submit to theCommittees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\], in accordance with the provisions of subsection (b) of section 2432 of title 10, United States Code, a Selected Acquisition Report with respect to each program referred to in subsection (b), notwithstanding that such a report would not otherwise be required under section 2432 of title 10, United States Code.
+SAR Coverage for ATB, ACM, and ATA Programs.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\], in accordance with the provisions of subsection (b) of section 2432 of title 10, United States Code, a Selected Acquisition Report with respect to each program referred to in subsection (b), notwithstanding that such a report would not otherwise be required under section 2432 of title 10, United States Code.
 
 “(b)
 
@@ -252,5 +252,5 @@ Section 1243 of Pub. L. 98–525, as amended by Pub. L. 100–26, §11(a)(1), Ap
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1734, 2400, 2403, 2433 of this title.
+This section is referred to in sections 1734, 2400, 2433 of this title.
 

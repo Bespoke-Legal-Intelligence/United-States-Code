@@ -6,7 +6,7 @@ The Secretary shall make available a model program to support the rehabilitation
 
 #### (b) Amount of subsidy
 
-The amount of the rehabilitation subsidy shall be moderate and shall generally not exceed 50percent of the total costs associated with the rehabilitation of the housing.
+The amount of the rehabilitation subsidy shall be moderate and shall generally not exceed 50 percent of the total costs associated with the rehabilitation of the housing.
 
 #### (c) Additional restrictions
 

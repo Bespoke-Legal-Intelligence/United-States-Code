@@ -64,7 +64,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 &emsp;&emsp;(C) Interpretive and educational programs covering the natural history of the prairie, the cultural history of Native Americans, and the legacy of ranching in the Flint Hills region.
 
-&emsp;&emsp;(D) Provisions requiring the application of applicable State law concerning the maintenance of adequate fences within the boundaries of the Preserve. In any case in which an activity of the National Park Service requires fences that exceed the legal fence standard otherwise applicable to the Preserve, the National Park Service shall pay the additional cost of constructing andmaintaining the fences to meet the applicable requirements for that activity.
+&emsp;&emsp;(D) Provisions requiring the application of applicable State law concerning the maintenance of adequate fences within the boundaries of the Preserve. In any case in which an activity of the National Park Service requires fences that exceed the legal fence standard otherwise applicable to the Preserve, the National Park Service shall pay the additional cost of constructing and maintaining the fences to meet the applicable requirements for that activity.
 
 &emsp;&emsp;(E) Provisions requiring the Secretary to comply with applicable State noxious weed, pesticide, and animal health laws.
 

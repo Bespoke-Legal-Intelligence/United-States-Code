@@ -2,21 +2,13 @@
 
 (a)
 
-Actions To Increase Revenues.—Amtrak shall take necessary action to increase its revenues from the transportation of mail and express. To increase its revenues, Amtrak may provide auto-ferry transportation as part of the basic passenger transportation authorized by this part. When requested by Amtrak, a department, agency, or instrumentality of the United States Government shall assist in carrying out this section.
+Actions To Increase Revenues.—Amtrak shall take necessary action to increase its revenues from the transportation of mail and express. To increase its revenues, Amtrak may provide auto-ferry transportation as part of the basic passenger transportation authorized by this part.
 
 (b)
 
-Authority of Others To Provide Auto-Ferry Transportation.—(1) A person primarily providing auto-ferry transportation and any other person not a rail carrier may provide auto-ferry transportation over any route under a certificate issued by the Interstate Commerce Commission if the Commission finds that the auto-ferry transportation—
+Authority of Others To Provide Auto-Ferry Transportation.—State and local laws and regulations that impair the provision of auto-ferry transportation do not apply to Amtrak or a rail carrier providing auto-ferry transportation. A rail carrier may not refuse to participate with Amtrak in providing auto-ferry transportation because a State or local law or regulation makes the transportation unlawful.
 
-&emsp;(A) will not impair the ability of Amtrak to reduce its losses or increase its revenues; and
-
-&emsp;(B) is required to meet the public demand.
-
-(2) A rail carrier that has not made a contract with Amtrak to provide rail passenger transportation may provide auto-ferry transportation over its own rail lines.
-
-(3) State and local laws and regulations that impair the provision of auto-ferry transportation do not apply to Amtrak or a rail carrier providing auto-ferry transportation. A rail carrier may not refuse to participate with Amtrak in providing auto-ferry transportation because a State or local law or regulation makes the transportation unlawful.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 910.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 910; Pub. L. 105–134, title I, §102, Dec. 2, 1997, 111 Stat. 2572.)
 
 Historical and Revision Notes
 
@@ -56,11 +48,19 @@ In subsection (b)(2), the words “may provide” are substituted for “Nothing
 
 In subsection (b)(3), the words “has the effect of prohibiting or”, “fine, penalty, or other”, and “for violation of” are omitted as surplus. The words “rail carrier” are substituted for “common carrier by railroad” for consistency in the revised title and with other titles of the Code.
 
-#### Abolition of Interstate Commerce Commission and Transfer of Functions
+#### Amendments
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
+1997—Subsec. (a). Pub. L. 105–134, §102(1), struck out at end “When requested by Amtrak, a department, agency, or instrumentality of the United States Government shall assist in carrying out this section.”
 
-#### Section Referred to in Other Sections
+Subsec. (b). Pub. L. 105–134, §102(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
-This section is referred to in section 24701 of this title.
+“(1) A person primarily providing auto-ferry transportation and any other person not a rail carrier may provide auto-ferry transportation over any route under a certificate issued by the Interstate Commerce Commission if the Commission finds that the auto-ferry transportation—
+
+&emsp;“(A) will not impair the ability of Amtrak to reduce its losses or increase its revenues; and
+
+&emsp;“(B) is required to meet the public demand.
+
+“(2) A rail carrier that has not made a contract with Amtrak to provide rail passenger transportation may provide auto-ferry transportation over its own rail lines.
+
+“(3) State and local laws and regulations that impair the provision of auto-ferry transportation do not apply to Amtrak or a rail carrier providing auto-ferry transportation. A rail carrier may not refuse to participate with Amtrak in providing auto-ferry transportation because a State or local law or regulation makes the transportation unlawful.”
 

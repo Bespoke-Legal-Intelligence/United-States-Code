@@ -2,7 +2,7 @@ Part C—Job Training for Homeless
 
 #### Termination of Part
 
-<i>For termination of part on Dec. 31, 1997, see section 11450 of this title.</i>
+<i>For termination of part on Dec. 31, 1999, see section 11450 of this title.</i>
 
 #### Part Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Career Paths.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall ensure that appropriate career paths for civilian and military personnel who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the armed forces to the most senior acquisition positions. The Secretary shall make available published information on such career paths.
+Career Paths.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall ensurethat appropriate career paths for civilian and military personnel who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the armed forces to the most senior acquisition positions. The Secretary shall make available published information on such career paths.
 
 (b)
 
@@ -32,7 +32,7 @@ Assignments Policy.—(1) The Secretary of Defense shall establish a policy on a
 
 (g)
 
-Performance Appraisals.—The Secretary of each military department, acting through the service acquisition executive for that department, shall provide an opportunity for review and inclusion of any comments on any appraisalof the performance of a person serving in an acquisition position by a person serving in an acquisition position in the same acquisition career field.
+Performance Appraisals.—The Secretary of each military department, acting through the service acquisition executive for that department, shall provide an opportunity for review and inclusion of any comments on any appraisal of the performance of a person serving in an acquisition position by a person serving in an acquisition position in the same acquisition career field.
 
 (h)
 

@@ -32,7 +32,7 @@ Subsecs. (a) to (c). Pub. L. 100–525, §8(m), (n), amended Pub. L. 99–653. S
 
 1986—Subsec. (a). Pub. L. 99–653, §18(a), as amended by Pub. L. 100–525, §8(m)(1), inserted “voluntarily performing any of the following acts with the intention of relinquishing United States nationality” after “his nationality by”.
 
-Subsec. (a)(1). Pub. L. 99–653, §18(b), substituted “or upon an application filed by a duly authorized agent, after having attained the age of eighteen years” for “upon an application filed in his behalf by a parent, guardian, or duly authorized agent, or through the naturalization of a parent having legal custody of such person: <i>Provided</i> That nationality shall not be lost byany person under this section as the result of the naturalization of a parent or parents while such person is under the age of twenty-one years, or as the result of a naturalization obtained on behalf of a person under twenty-one years of age by a parent, guardian, or duly authorized agent, unless such person shall fail to enter the United States to establish a permanent residence prior to his twenty-fifth birthday: <i>And provided further</i>, That a person who shall have lost nationality prior to January 1, 1948, through the naturalization in a foreign state of a parent or parents, may, within one year from the effective date of this chapter, apply for a visa and for admission to the United States as a special immigrant under the provisions of section 1101(a)(27)(E) of this title”.
+Subsec. (a)(1). Pub. L. 99–653, §18(b), substituted “or upon an application filed by a duly authorized agent, after having attained the age of eighteen years” for “upon an application filed in his behalf by a parent, guardian, or duly authorized agent, or through the naturalization of a parent having legal custody of such person: <i>Provided</i> That nationality shall not be lost by any person under this section as the result of the naturalization of a parent or parents while such person is under the age of twenty-one years, or as the result of a naturalization obtained on behalf of a person under twenty-one years of age by a parent, guardian, or duly authorized agent, unless such person shall fail to enter the United States to establish a permanent residence prior to his twenty-fifth birthday: <i>And provided further</i>, That a person who shall have lost nationality prior to January 1, 1948, through the naturalization in a foreign state of a parent or parents, may, within one year from the effective date of this chapter, apply for a visa and for admission to the United States as a special immigrant under the provisions of section 1101(a)(27)(E) of this title”.
 
 Subsec. (a)(2). Pub. L. 99–653, §18(c), inserted “, after having attained the age of eighteen years” after “political subdivision thereof”.
 
@@ -108,5 +108,5 @@ Treason, sedition and subversive activities, see section 2381 et seq. of Title 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1483 of this title.
+This section is referred to in section 1483 of this title; title 26 section 6039F.
 

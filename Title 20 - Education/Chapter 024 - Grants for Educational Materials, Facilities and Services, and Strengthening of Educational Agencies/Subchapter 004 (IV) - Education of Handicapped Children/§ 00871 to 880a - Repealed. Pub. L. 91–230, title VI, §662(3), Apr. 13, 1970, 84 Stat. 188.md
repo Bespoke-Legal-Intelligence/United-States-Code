@@ -6,7 +6,7 @@ Section 872, Pub. L. 89–10, title VI, §602, formerly §601(b), as added Pub. 
 
 Section 873, Pub. L. 89–10, title VI, §603, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1205; amended Pub. L. 90–247, title I, §§152(b)(3), 153 Jan. 2, 1968, 81 Stat. 803, 804, related to allotment of appropriated funds: additional appropriation for outlying areas, payments to Secretaries of Interior and Defense, allotment among States; determination of population figures by Commissioner; reallotment.
 
-Section 874, Pub. L. 89–10, title VI, §604, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1205; amended Pub. L. 90–247, title I, §151(4), Jan. 2, 1968, 81 Stat.800, related to submission of State plans to Commissioner and requirements of such plans.
+Section 874, Pub. L. 89–10, title VI, §604, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1205; amended Pub. L. 90–247, title I, §151(4), Jan. 2, 1968, 81 Stat. 800, related to submission of State plans to Commissioner and requirements of such plans.
 
 Section 875, Pub. L. 89–10, title VI, §605, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1207, provided for payments.
 
@@ -18,7 +18,7 @@ Section 877a, Pub. L. 89–10, title VI, §608, as added Pub. L. 90–247, title
 
 Section 877b, Pub. L. 89–10, title VI, §609, as added Pub. L. 90–247, title I, §151(5), Jan. 2, 1968, 81 Stat. 801, related to model centers for deaf-blind children: Congressional declaration of purpose; authorization of Secretary to make grants and contracts; considerations governing making of grants or contracts; necessary services to be provided by centers; payment of costs of research, development, training and dissemination; definition of “construction”; recovery of payments; determination of children who are both deaf and blind; manner of payment, adjustment of overpayments and underpayments; and authorization of appropriations of $1,000,000; $3,000,000; and $7,000,000 for fiscal years ending June 30, 1968, 1969, and 1970, respectively.
 
-Section 877c, Pub. L. 89–10, title VI, §610, as added Pub. L. 90–247, title I, §151(5), Jan. 2, 1968, 81 Stat. 803, authorized grants or contracts to improve recruitment of educational personnel and dissemination of information concerning educational opportunities for handicapped.
+Section 877c, Pub. L. 89–10, title VI, §610, as added Pub. L. 90–247, title I, §151(5), Jan. 2, 1968, 81 Stat. 803,authorized grants or contracts to improve recruitment of educational personnel and dissemination of information concerning educational opportunities for handicapped.
 
 Section 878, Pub. L. 89–10, title VI, §611, formerly §608, as added Pub. L. 89–750, title I, §161, Nov. 3, 1966, 80 Stat. 1207; renumbered §611, Pub. L. 90–247, title I, §151(3), Jan. 2, 1968, 81 Stat. 800, provided for National Advisory Committee on Handicapped Children: membership; functions, annual report, recommendations; compensation, travel and per diem expenses; advisory professional and technical personnel.
 
@@ -41,4 +41,8 @@ Sections 878 to 880a comprised Part E—General provisions.
 #### Effective Date of Repeal
 
 Repeal effective July 1, 1971, see section 662 of Pub. L. 91–230.
+
+#### Short Title
+
+Section 615 of Pub. L. 89–10, as added by Pub. L. 90–247, title I, §154, Jan. 2, 1968, 81 Stat. 804, which provided that title VI of Pub. L. 89–10 \[enacting this subchapter\] was to be cited as the “Education of the Handicapped Act”, was repealed by Pub. L. 91–230, title VI, §662(3), Apr. 13, 1970, 84 Stat. 188.
 

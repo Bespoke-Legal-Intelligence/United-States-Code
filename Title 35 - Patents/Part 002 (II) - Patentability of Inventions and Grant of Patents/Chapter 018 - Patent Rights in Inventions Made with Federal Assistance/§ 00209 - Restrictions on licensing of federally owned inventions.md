@@ -30,7 +30,7 @@
 
 &emsp;(3) the right of the Federal agency to terminate such license in whole or in part if the licensee is in breach of an agreement obtained pursuant to paragraph (b) of this section; and
 
-&emsp;(4) the right of the Federal agency to terminate the license in whole or in part if theagency determines that such action is necessary to meet requirements for public use specified by Federal regulations issued after the date of the license and such requirements are not reasonably satisfied by the licensee.
+&emsp;(4) the right of the Federal agency to terminate the license in whole or in part if the agency determines that such action is necessary to meet requirements for public use specified by Federal regulations issued after the date of the license and such requirements are not reasonably satisfied by the licensee.
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024.)
 

@@ -44,7 +44,7 @@ Sec. 3. <i>Functions of the Department of the Treasury</i>. Except as provided i
 
 Sec. 4. <i>Functions of the Department of Commerce</i>. The Secretary of Commerce shall be responsible for implementing sections 1705(b)–(e) of the Act, to the extent that these sections pertain to the exportation to Cuba from the United States or from a third country of goods and technology subject to the jurisdiction of the Department of Commerce.
 
-Sec. 5. <i>Consultation</i>. In consultation with the Secretary of State, the Secretary of the Treasury and the Secretary of Commerce are hereby authorized to take such actions, including the promulgation of rules and regulations, as may be necessary to carry out the purposes of the Act and this order.
+Sec. 5. <i>Consultation</i>. In consultation with the Secretary of State, the Secretary of the Treasury and theSecretary of Commerce are hereby authorized to take such actions, including the promulgation of rules and regulations, as may be necessary to carry out the purposes of the Act and this order.
 
 Sec. 6. Nothing in this order shall be deemed to affect any functions vested by law in the Federal Communications Commission.
 

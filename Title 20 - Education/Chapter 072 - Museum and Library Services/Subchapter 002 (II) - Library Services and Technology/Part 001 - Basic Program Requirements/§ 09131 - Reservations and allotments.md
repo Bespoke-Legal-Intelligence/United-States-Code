@@ -6,13 +6,13 @@
 
 &emsp;From the amount appropriated under the authority of section 9123 of this title for any fiscal year, the Director—
 
-&emsp;&emsp;(A) shall reserve 11/2 percent to award grants in accordance with section 9161 of this title; and
+&emsp;&emsp;(A) shall reserve 1.75 percent to award grants in accordance with section 9161 of this title; and
 
-&emsp;&emsp;(B) shall reserve 4 percent to award national leadership grants or contracts in accordance with section 9162 of this title.
+&emsp;&emsp;(B) shall reserve 3.75 percent to award national leadership grants or contracts in accordance with section 9162 of this title.
 
 #### (2) Special rule
 
-&emsp;If the funds reserved pursuant to paragraph (1)(B) for a fiscal year have not been obligated by the end of such fiscal year, then such funds shall be allotted in accordance with subsection\(b) of this section for the fiscal year succeeding the fiscal year for which the funds were so reserved.
+&emsp;If the funds reserved pursuant to paragraph (1)(B) for a fiscal year have not been obligated by the end of such fiscal year, then such funds shall be allotted in accordance with subsection (b) of this section for the fiscal year succeeding the fiscal year for which the funds were so reserved.
 
 #### (b) Allotments
 
@@ -56,7 +56,13 @@
 
 &emsp;The population of each State and of all the States shall be determined by the Director on the basis of the most recent data available from the Bureau of the Census.
 
-(Pub. L. 94–462, title II, §221, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–297.)
+(Pub. L. 94–462, title II, §221, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–297; amended Pub. L. 105–128, §4, Dec. 1, 1997, 111 Stat. 2548.)
+
+#### Amendments
+
+1997—Subsec. (a)(1)(A). Pub. L. 105–128, §4(1), substituted “1.75 percent” for “11/2 percent”.
+
+Subsec. (a)(1)(B). Pub. L. 105–128, §4(2), substituted “3.75 percent” for “4 percent”.
 
 #### Section Referred to in Other Sections
 

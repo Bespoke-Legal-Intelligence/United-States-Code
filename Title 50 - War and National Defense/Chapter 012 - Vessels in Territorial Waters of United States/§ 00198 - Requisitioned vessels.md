@@ -14,7 +14,7 @@ Any vessel while documented under the provisions of this section, when chartered
 
 #### (d) Reconditioning of vessels
 
-The Secretary of Transportation without regard to the provisions of section 5 of title 41 may repair, reconstruct, or recondition any vessels to be utilized under sections 196 to 198 of this title. The Secretary of Transportation and any other Government department or agency by which any vessel is acquired or chartered, or to which any vessel is transferred or made available under sections 196 to 198 of this title may, with the aid of any funds available and without regard to the provisions of said section 5 of title 41, repair, reconstruct, or recondition any such vessels to meet the needs of the services intended, or provide facilities for such repair, reconstruction, or reconditioning. The Secretary of Transportation may operate or charter for operation any vessel to be utilized under sections 196 to 198 of this title to private operators, citizens of the United States, or to any department or agency of the United States Government, without regard to the provisions of title VII of the Merchant Marine Act, 1936 \[46 App. U.S.C. 1191 et seq.\], and any department or agency of the United States Government is authorized to enter into such charters.
+The Secretary of Transportation without regard to the provisions of section 5 of title 41 mayrepair, reconstruct, or recondition any vessels to be utilized under sections 196 to 198 of this title. The Secretary of Transportation and any other Government department or agency by which any vessel is acquired or chartered, or to which any vessel is transferred or made available under sections 196 to 198 of this title may, with the aid of any funds available and without regard to the provisions of said section 5 of title 41, repair, reconstruct, or recondition any such vessels to meet the needs of the services intended, or provide facilities for such repair, reconstruction, or reconditioning. The Secretary of Transportation may operate or charter for operation any vessel to be utilized under sections 196 to 198 of this title to private operators, citizens of the United States, or to any department or agency of the United States Government, without regard to the provisions of title VII of the Merchant Marine Act, 1936 \[46 App. U.S.C. 1191 et seq.\], and any department or agency of the United States Government is authorized to enter into such charters.
 
 #### (e) Effective period
 
@@ -24,7 +24,7 @@ In case of any voyage of a vessel documented under the provisions of this sectio
 
 When used in sections 196 to 198 of this title, the term “documented” means “registered”, “enrolled and licensed”, or “licensed”.
 
-(Aug. 9, 1954, ch. 659, §3, 68 Stat. 675; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), (2), 80 Stat. 938; Aug. 6, 1981, Pub. L. 97–31, §12(152), 95 Stat. 167.)
+(Aug. 9, 1954, ch. 659, §3, 68 Stat. 675; Pub. L. 89–670, §6(b)(1), (2), Oct. 15, 1966, 80 Stat. 938; Pub. L. 97–31, §12(152), Aug. 6, 1981, 95 Stat. 167.)
 
 #### References in Text
 

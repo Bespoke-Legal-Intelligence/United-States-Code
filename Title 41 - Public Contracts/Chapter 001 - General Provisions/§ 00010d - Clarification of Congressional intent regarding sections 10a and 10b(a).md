@@ -2,7 +2,7 @@
 
 In order to clarify the original intent of Congress, hereafter, section 10a of this title and that part of section 10b(a) of this title preceding the words <i>“Provided, however</i>,” shall be regarded as requiring the purchase, for public use within the United States, of articles, materials, or supplies manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality, unless the head of the department or independent establishment concerned shall determine their purchase to be inconsistent with the public interest or their cost to be unreasonable.
 
-(Oct. 29, 1949, ch. 787, title VI, §633, 63 Stat. 1024; Aug. 23, 1988, Pub. L. 100–418, title VII, §7005(d), 102 Stat. 1553.)
+(Oct. 29, 1949, ch. 787, title VI, §633, 63 Stat. 1024; Pub. L. 100–418, title VII, §7005(d), Aug. 23, 1988, 102 Stat. 1553.)
 
 #### Amendments
 
@@ -10,7 +10,7 @@ In order to clarify the original intent of Congress, hereafter, section 10a of t
 
 #### Termination Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former section 2515(k) of Title 19, Customs Duties, extends such date, see section 7004 of Pub. L. 100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of this title.
+Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless Congress, after reviewing report required by former section 2515(k) of Title 19, Customs Duties, extends such date, see section 7004 of Pub. L.100–418, set out as an Effective and Termination Dates of 1988 Amendment note under section 10a of this title.
 
 #### Ex. Ord. No. 10582. Uniform Procedures for Determinations
 

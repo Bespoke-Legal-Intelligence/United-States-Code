@@ -4,3 +4,7 @@ The right to alter, amend, or repeal this chapter is expressly declared and rese
 
 (May 18, 1933, ch. 32, §29, 48 Stat. 72.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 831ee of this title.
+

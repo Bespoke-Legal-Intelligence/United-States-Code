@@ -1,6 +1,6 @@
 ### §2516. Use of foreign currencies
 
-Whenever possible, expenditures incurred in carrying out functions under this chapter shallbe paid for in such currency of the country or area where the expense is incurred as may be available to the United States.
+Whenever possible, expenditures incurred in carrying out functions under this chapter shall be paid for in such currency of the country or area where the expense is incurred as may be available to the United States.
 
 (Pub. L. 87–293, title I, §17, Sept. 22, 1961, 75 Stat. 623.)
 

@@ -6,7 +6,7 @@ The Congress declares that the objectives of this chapter are to enable the Gove
 
 &emsp;(2) Repealed. Pub. L. 87–256, §111(a)(2), Sept. 21, 1961, 75 Stat. 538.
 
-(Jan. 27, 1948, ch. 36, title I, §2, 62 Stat. 6; Sept. 21, 1961, Pub. L. 87–256, §111(a)(2), 75 Stat. 538.)
+(Jan. 27, 1948, ch. 36, title I, §2, 62 Stat. 6; Pub. L. 87–256, §111(a)(2), Sept. 21, 1961, 75 Stat. 538.)
 
 #### Amendments
 

@@ -10,7 +10,7 @@ A prior subchapter III (§571 et seq.) was redesignated subchapter V (§591 et s
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 20 section 6511; title 25 sections 450k, 458gg; title 42 section 1437g.
+This subchapter is referred to in title 20 section 6511; title 25 sections 450k, 458gg, 4116; title 42 sections 1320d–1, 1437g, 1485.
 
 
 ---

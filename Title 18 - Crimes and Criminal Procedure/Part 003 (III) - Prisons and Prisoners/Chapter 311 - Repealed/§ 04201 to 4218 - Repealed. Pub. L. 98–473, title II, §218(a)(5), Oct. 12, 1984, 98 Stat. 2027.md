@@ -30,7 +30,7 @@ There is hereby established, as an independent agency in the Department of Justi
 
 #### Parole Commission Phaseout
 
-Pub. L. 104–232, §§1–3, Oct. 2, 1996, 110 Stat. 3055, 3056, provided that:
+Pub. L. 104–232, §§1–3, Oct. 2, 1996, 110 Stat. 3055, 3056, as amended by Pub. L. 105–33, title XI, §11231(d), Aug. 5, 1997, 111 Stat. 745, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -44,21 +44,9 @@ In General.—For purposes of section 235(b) of the Sentencing Reform Act of 198
 
 “(b)
 
-Powers and Duties of Parole Commission.—Notwithstanding section 4203 of title 18, United StatesCode, the United States Parole Commission may perform its functions with any quorum of Commissioners, or Commissioner, as the Commission may prescribe by regulation.
+Powers and Duties of Parole Commission.—Notwithstanding section 4203 of title 18, United States Code, the United States Parole Commission may perform its functions with any quorum of Commissioners, or Commissioner, as the Commission may prescribe by regulation.
 
-“(c)
-
-Reduction in Size.—
-
-&emsp;“(1) Effective December 31, 1999, the total number of Commissioners of the United States Parole Commission shall not be greater than 2. To the extent necessary to achieve this reduction, the Commissioner or Commissioners least senior in service shall cease to hold office.
-
-&emsp;“(2) Effective December 31, 2001, the United States Parole Commission shall consist only of that Commissioner who is the Chairman of the Commission.
-
-&emsp;“(3) Effective when the Commission consists of only one Commissioner—
-
-&emsp;&emsp;“(A) that Commissioner (or in the Commissioner's absence, the Attorney General) may delegate to one or more hearing examiners the powers set forth in paragraphs (1) through (4) of section 4203(b) of title 18, United States Code; and
-
-&emsp;&emsp;“(B) decisions made pursuant to such delegation shall take effect when made, but shall be subject to review and modification by the Commissioner.
+“(c) The United States Parole Commission shall have no more than five members.
 
 #### “SEC. 3. REPORTS BY THE ATTORNEY GENERAL.
 
@@ -114,11 +102,11 @@ Section 235(b)(2) of Pub. L. 98–473, which provided that notwithstanding the p
 
 &emsp;(3) may delegate authority to conduct hearings held pursuant to section 4214 to any officer or employee of the executive or judicial branch of Federal or State government; and
 
-&emsp;(4) may review, or may delegate to the National Appeals Board the power to review, any decision made pursuant to subparagraph (1) of this subsection except that any such decision so reviewed must be reaffirmed, modified or reversed within thirty days of the date the decision is rendered, and, in case of such review, the individual to whom the decision applies shall be informed in writing of the Commission's actions with respect thereto and the reasons for such actions.
+&emsp;(4) may review, or may delegate to the National Appeals Board the power to review, any decision madepursuant to subparagraph (1) of this subsection except that any such decision so reviewed must be reaffirmed, modified or reversed within thirty days of the date the decision is rendered, and, in case of such review, the individual to whom the decision applies shall be informed in writing of the Commission's actions with respect thereto and the reasons for such actions.
 
 (d) Except as otherwise provided by law, any action taken by the Commission pursuant to subsection (a) of this section shall be taken by a majority vote of all individuals currently holding office as members of the Commission which shall maintain and make available for public inspection a record of the final vote of each member on statements of policy and interpretations adopted by it. In so acting, each Commissioner shall have equal responsibility and authority, shall have full access to all information relating to the performance of such duties and responsibilities, and shall have one vote.
 
-(e)(1) The Commission shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to individuals who are under the jurisdiction of the Commission, who have been convicted of felony offenses against the United States, and who reside, are employed, or are supervised in the geographical area inwhich such agency has jurisdiction, the following information maintained by the Commission (to the extent that the Commission maintains such information)—
+(e)(1) The Commission shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to individuals who are under the jurisdiction of the Commission, who have been convicted of felony offenses against the United States, and who reside, are employed, or are supervised in the geographical area in which such agency has jurisdiction, the following information maintained by the Commission (to the extent that the Commission maintains such information)—
 
 &emsp;(A) the names of such individuals;
 
@@ -190,7 +178,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### §4205. Time of eligibility for release on parole
 
-(a) Whenever confined and serving a definite term or terms of more than one year, a prisoner shall be eligible for release on parole after serving one-third of such term or terms or after serving ten years of a life sentence or of a sentence of over thirty years, except to the extent otherwise provided by law.
+(a) Whenever confined and serving a definite term or terms of more than one year, a prisoner shall be eligible for release on parole after serving one-third of suchterm or terms or after serving ten years of a life sentence or of a sentence of over thirty years, except to the extent otherwise provided by law.
 
 (b) Upon entering a judgment of conviction, the court having jurisdiction to impose sentence, when in its opinion the ends of justice and best interest of the public require that the defendant be sentenced to imprisonment for a term exceeding one year, may (1) designate in the sentence of imprisonment imposed a minimum term at the expiration of which the prisoner shall become eligible for parole, which term may be less than but shall not be more than one-third of the maximum sentence imposed by the court, or (2) the court may fix the maximum sentence of imprisonment to be served in which event the court may specify that the prisoner may be released on parole at such time as the Commission may determine.
 
@@ -248,7 +236,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 #### §4208. Parole determination proceeding; time
 
-(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner's record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
+(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner's record that the prisoner will bereleased on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
 
 (b) At least thirty days prior to any parole determination proceeding, the prisoner shall be provided with (1) written notice of the time and place of the proceeding, and (2) reasonable access to a report or other document to be used by the Commission in making its determination. A prisoner may waive such notice, except that if notice is not waived the proceeding shall be held during the next regularly scheduled proceedings by the Commission at the institution in which the prisoner is confined.
 
@@ -282,7 +270,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 #### §4209. Conditions of parole
 
-(a) In every case, the Commission shall impose as conditions of parole that the parolee not commit another Federal, State, or local crime, that the parolee not possess illegal controlled substances.\[sic\] and, if a fine was imposed, that the parolee make a diligent effort to pay the fine in accordance with the judgment. In every case, the Commission shall also impose as a condition of parole that the parolee pass a drug test prior to release and refrain from any unlawful use of a controlled substance and submit to at least 2 periodic drug tests (as determined by the Commission) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the Commission for any individual parolee if it determines that there is good cause for doing so. The results of a drug test administered in accordance with the provisions of the preceding sentence shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The Commission shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 4214(f) when considering any action against a defendant who fails a drug test. The Commission may impose or modify other conditions of parole to the extent that such conditions are reasonably related to—
+(a) In every case, the Commission shall impose as conditions of parole that the parolee not commit another Federal, State, or local crime, that the parolee not possess illegal controlled substances.\[sic\] and, if a fine was imposed, that the parolee make a diligent effort to pay the fine in accordance with the judgment. In every case, the Commission shall impose as a condition of parole for a person described in section 4042(c)(4), that the parolee report the address where the parolee will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the parolee register in any State where the parolee resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994). In every case, the Commission shall also impose as a condition of parole that the parolee pass a drug test prior to release and refrain from any unlawful use of a controlled substance and submit to at least 2 periodic drug tests (as determined by the Commission) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the Commission for any individual parolee if it determines that there is good cause for doing so. The results of a drug test administered in accordance with the provisions of the preceding sentence shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The Commission shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 4214(f) when considering any action against a defendant who fails a drug test. The Commission may impose or modify other conditions of parole to the extent that such conditions are reasonably related to—
 
 &emsp;(1) the nature and circumstances of the offense; and
 
@@ -300,17 +288,25 @@ In making a determination under this chapter (relating to release on parole) the
 
 > A parolee residing in a residential community treatment center pursuant to paragraph (1) of this subsection may be required to pay such costs incident to such residence as the Commission deems appropriate.
 
-(d)(1) The Commission may modify conditions of parole pursuant to this section on its own motion, or on the motion of a United States probation officer supervising a parolee: <i>Provided</i>, That the parolee receives notice of such action and has ten days after receipt of such notice to express his views on the proposed modification. Following such ten-day period, the Commission shall have twenty-one days, exclusive of holidays, to act upon such motion or application. Notwithstanding any other provision of this paragraph, the Commission may modify conditions of parole, without regard to such ten-day period, on any such motion if the Commission determines that the immediate modification of conditions of parole is required to prevent harm to the parolee or to the public.
+(d)(1) The Commission may modify conditions of parole pursuant to this section on its own motion, or on the motion of a United States probation officer supervising a parolee: <i>Provided</i>, That the parolee receives notice of such action and has ten days after receipt of such notice to express his views on the proposed modification. Following such ten-day period, the Commission shall have twenty-one days, exclusive of holidays,to act upon such motion or application. Notwithstanding any other provision of this paragraph, the Commission may modify conditions of parole, without regard to such ten-day period, on any such motion if the Commission determines that the immediate modification of conditions of parole is required to prevent harm to the parolee or to the public.
 
 (2) A parolee may petition the Commission on his own behalf for a modification of conditions pursuant to this section.
 
 (3) The provisions of this subsection shall not apply to modifications of parole conditions pursuant to a revocation proceeding under section 4214.
 
-> (Added Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 225; amended Pub. L. 98–473, title II, §§235(a)(1), 238(e), (i), Oct. 12, 1984, 98 Stat. 2031, 2039; Pub. L. 98–596, §§7, 12(a)(5), (9), (b), Oct. 30, 1984, 98 Stat. 3138, 3139, 3140; Pub. L. 99–646, §58(c), Nov. 10, 1986, 100 Stat. 3612; Pub. L. 100–690, title VII, §§7303(c)(1), (2), 7305(c), Nov. 18, 1988, 102 Stat. 4464, 4466; Pub. L. 103–322, title II, §20414(d), Sept. 13, 1994, 108 Stat. 1832.)
+> (Added Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 225; amended Pub. L. 98–473, title II, §§235(a)(1), 238(e), (i), Oct. 12, 1984, 98 Stat. 2031, 2039; Pub. L. 98–596, §§7, 12(a)(5), (9), (b), Oct. 30, 1984, 98 Stat. 3138, 3139, 3140; Pub. L. 99–646, §58(c), Nov. 10, 1986, 100 Stat. 3612; Pub. L. 100–690, title VII, §§7303(c)(1), (2), 7305(c), Nov. 18, 1988, 102 Stat. 4464, 4466; Pub. L. 103–322, title II, §20414(d), Sept. 13, 1994, 108 Stat. 1832; Pub. L. 105–119, title I, §115(a)(8)(B)(v), Nov. 26, 1997, 111 Stat. 2466.)
+
+#### References in Text
+
+Section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (a), is classified to section 14071(a)(3) of Title 42, The Public Health and Welfare.
 
 #### Codification
 
-Pub. L. 98–473, §§235(a)(1), 238(e), (i), and Pub. L. 98–596, §12(a)(5), (9), (b), amended section as follows: Section 238(e) of Pub. L. 98–473 amended provisions of subsec. (a) preceding par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(5) of Pub. L. 98–596 amended provisions of subsec. (a) preceding par. (1) to read as they had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date establishedby section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
+Pub. L. 98–473, §§235(a)(1), 238(e), (i), and Pub. L. 98–596, §12(a)(5), (9), (b), amended section as follows: Section 238(e) of Pub. L. 98–473 amended provisions of subsec. (a) preceding par. (1) effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Section 12(a)(5) of Pub. L. 98–596 amended provisions of subsec. (a) preceding par. (1) to read as they had before amendment by Pub. L. 98–473, applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596. The cumulative effect of the amendments resulted in no change in this section.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 14071 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1988 Amendment
 
@@ -430,7 +426,7 @@ Such prisoner when his parole becomes effective, shall be delivered to the duly 
 
 &emsp;(5) formally revoke parole or release as if on parole pursuant to this title.
 
-> The Commission may take any such action provided it has taken into consideration whether or not the parolee has been convicted of any Federal, State, or local crime subsequent to his release on parole, and the seriousness thereof, or whether such action is warranted by the frequency or seriousness of the parolee's violation of any other condition or conditions of his parole.
+> The Commission may take any such action provided it has taken into consideration whether or not the parolee has been convicted of any Federal, State, or localcrime subsequent to his release on parole, and the seriousness thereof, or whether such action is warranted by the frequency or seriousness of the parolee's violation of any other condition or conditions of his parole.
 
 (e) The Commission shall furnish the parolee with a written notice of its determination not later than twenty-one days, excluding holidays, after the date of the revocation hearing. If parole is revoked, a digest shall be prepared by the Commission setting forth in writing the factors considered and reasons for such action, a copy of which shall be given to the parolee.
 
@@ -448,7 +444,7 @@ Amendment by section 7303(c)(3) of Pub. L. 100–690 applicable with respect to 
 
 #### §4215. Appeal
 
-(a) Whenever parole release is denied under section 4206, parole conditions are imposed or modified undersection 4209, parole discharge is denied under section 4211(c), or parole is modified or revoked under section 4214, the individual to whom any such decision applies may appeal such decision by submitting a written application to the National Appeal \[Appeals\] Board not later than thirty days following the date on which the decision is rendered.
+(a) Whenever parole release is denied under section 4206, parole conditions are imposed or modified under section 4209, parole discharge is denied under section 4211(c), or parole is modified or revoked under section 4214, the individual to whom any such decision applies may appeal such decision by submitting a written application to the National Appeal \[Appeals\] Board not later than thirty days following the date on which the decision is rendered.
 
 (b) The National Appeals Board, upon receipt of the appellant's papers, must act pursuant to rules and regulations within sixty days to reaffirm, modify, or reverse the decision and shall inform the appellant in writing of the decision and the reasons therefor.
 

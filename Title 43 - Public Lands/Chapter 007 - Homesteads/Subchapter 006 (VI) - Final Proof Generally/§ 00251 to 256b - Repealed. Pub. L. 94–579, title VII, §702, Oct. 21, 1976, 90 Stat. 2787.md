@@ -6,7 +6,7 @@ Section 252, act Mar. 2, 1889, ch. 381, §7, 25 Stat. 855, related to time of ta
 
 Section 253, act June 3, 1878, ch. 152, 20 Stat. 91, related to publication of notice of contest.
 
-Section 254, R.S. §2294; May 26, 1890, ch. 355, 26 Stat. 121; Mar. 3, 1893, ch. 208, 27 Stat. 593; Mar. 11, 1902, ch.182, 32 Stat. 63; Mar. 4, 1904, ch. 394, 33 Stat. 59; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Feb. 23, 1923, ch. 105, 42 Stat. 1281; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Oct. 17, 1968, Pub. L. 90–578, title IV, §402(b)(2), 82 Stat. 1118, related to officers before whom affidavits or proofs may be made, perjury, and fees.
+Section 254, R.S. §2294; May 26, 1890, ch. 355, 26 Stat. 121; Mar. 3, 1893, ch. 208, 27 Stat. 593; Mar. 11, 1902, ch. 182, 32 Stat. 63; Mar. 4, 1904, ch. 394, 33 Stat. 59; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Feb. 23, 1923, ch. 105, 42 Stat. 1281; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Oct. 17, 1968, Pub. L. 90–578, title IV, §402(b)(2), 82Stat. 1118, related to officers before whom affidavits or proofs may be made, perjury, and fees.
 
 Section 255, R.S. §2293; Oct. 6, 1917, ch. 86, 40 Stat. 391; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to affidavits taken by commanding officer for person in military or naval service.
 

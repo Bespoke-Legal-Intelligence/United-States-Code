@@ -24,7 +24,7 @@ No interest in public lands, withdrawn or otherwise appropriated, may be transfe
 
 In connection with soliciting offers to purchase such long-lines facilities of the Alaska Communication System the Secretary of Defense or his designee shall:
 
-&emsp;(a) Provide any prospective purchaser who requests it data on (i) the facilities available for purchase, (ii) the amounts deemed to be the current fair and reasonable value of those facilities, and (iii) the initial rates which will be charged to the purchaser for capacity in facilities retained by the Government and available for commercial use;
+&emsp;(a) Provide any prospective purchaser who requests it data on (i) the facilities available for purchase, (ii) the amounts deemed to be the current fair and reasonable value of thosefacilities, and (iii) the initial rates which will be charged to the purchaser for capacity in facilities retained by the Government and available for commercial use;
 
 &emsp;(b) Provide, in the request for offers to purchase, that offerors must specify the rates they propose to charge for service and the improvements in service which they propose to initiate;
 

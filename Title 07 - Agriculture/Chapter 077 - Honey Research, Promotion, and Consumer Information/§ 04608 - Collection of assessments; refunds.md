@@ -58,7 +58,7 @@ The Agricultural Act of 1949, referred to in subsecs. (d) and (h)(1)(B), is act 
 
 1990—Subsec. (a). Pub. L. 101–624, §1984(b)(1), inserted reference to subsec. (i) of this section.
 
-Subsec. (d). Pub. L. 101–624, §1984(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which a loan is made withrespect to any honey under the Honey Loan Price Support Program, the Secretary shall provide that the assessment shall be deducted from the proceeds of the loan and that the amount of such assessment shall be forwarded to the Honey Board. When such loan is redeemed, the Secretary shall provide the producer with proof of payment of the assessment.”
+Subsec. (d). Pub. L. 101–624, §1984(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which a loan is made with respect to any honey under the Honey Loan Price Support Program, the Secretary shall provide that the assessment shall be deducted from the proceeds of the loan and that the amount of such assessment shall be forwarded to the Honey Board. When such loan is redeemed, the Secretary shall provide the producer with proof of payment of the assessment.”
 
 Subsec. (f). Pub. L. 101–624, §1984(b)(3), inserted “, and persons receiving an exemption from assessments under section 4606(e)(2) of this title,” after “payment of assessments”.
 

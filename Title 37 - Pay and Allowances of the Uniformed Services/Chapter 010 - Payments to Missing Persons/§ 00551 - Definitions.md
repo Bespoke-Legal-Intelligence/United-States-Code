@@ -34,13 +34,13 @@ In this chapter:
 
 &emsp;&emsp;(C) incentive pay;
 
-&emsp;&emsp;(D) basic allowance for quarters;
+&emsp;&emsp;(D) basic allowance for housing;
 
 &emsp;&emsp;(E) basic allowance for subsistence; and
 
 &emsp;&emsp;(F) station per diem allowances for not more than 90 days.
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 99–145, title XIII, §1301(g), Nov. 8, 1985, 99 Stat. 737; Pub. L. 100–26, §8(e)(10), Apr. 21, 1987, 101 Stat. 287.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 99–145, title XIII, §1301(g), Nov. 8, 1985, 99 Stat. 737; Pub. L. 100–26, §8(e)(10), Apr. 21, 1987, 101 Stat. 287; Pub. L. 105–85, div. A, title VI, §603(d)(1)(D), Nov. 18, 1997, 111 Stat. 1782.)
 
 Historical and Revision Notes
 
@@ -82,9 +82,15 @@ The definitions in clauses (2) and (3), which do not appear in, but are based on
 
 #### Amendments
 
+1997—Par. (3)(D). Pub. L. 105–85 substituted “housing” for “quarters”.
+
 1987—Pub. L. 100–26 substituted “In this chapter:” for “In this chapter—”, inserted “The term” at beginning of pars. (1) to (3), and substituted period for semicolon at end of par. (1) and period for “; and” at end of par. (2).
 
 1985—Par. (1)(A). Pub. L. 99–145 substituted “spouse” for “wife”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

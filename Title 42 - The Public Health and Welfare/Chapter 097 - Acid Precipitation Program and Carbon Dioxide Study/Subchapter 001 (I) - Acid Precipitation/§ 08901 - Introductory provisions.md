@@ -28,7 +28,7 @@ The Congress declares that it is the purpose of this subchapter—
 
 #### (c) “Acid precipitation” defined
 
-For purposes of this subchapter the term “acid precipitation” means the wet or dry depositionfrom the atmosphere of acid chemical compounds.
+For purposes of this subchapter the term “acid precipitation” means the wet or dry deposition from the atmosphere of acid chemical compounds.
 
 (Pub. L. 96–294, title VII, §702, June 30, 1980, 94 Stat. 770.)
 

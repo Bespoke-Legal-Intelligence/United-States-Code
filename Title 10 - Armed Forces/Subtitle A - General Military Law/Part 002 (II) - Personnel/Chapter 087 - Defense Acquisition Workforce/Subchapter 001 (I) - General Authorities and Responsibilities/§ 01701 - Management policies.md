@@ -24,11 +24,11 @@ Section 1210(a) of title XII of Pub. L. 101–510 provided that: “Unless other
 
 #### Demonstration Project Relating to Certain Personnel Management Policies and Procedures
 
-Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, provided that:
+Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, as amended by Pub. L. 105–85, div. A, title VIII, §845, Nov. 18, 1997, 111 Stat. 1845, provided that:
 
 “(a)
 
-Commencement.—The Secretary of Defense is encouraged to take such steps as may be necessary to provide for the commencement of a demonstration project, the purpose of which would be to determine the feasibility or desirability of one or more proposals for improving the personnel management policies or procedures that apply with respect to the acquisition workforce of the Department of Defense.
+Commencement.—The Secretary of Defense is encouraged to take such steps as may be necessary to provide for the commencement of a demonstration project, the purpose of which would be to determine the feasibility or desirability of one or more proposals for improving the personnel management policies or procedures that apply with respect to the acquisition workforce of the Department of Defense and supporting personnel assigned to work directly with the acquisition workforce.
 
 “(b)
 
@@ -52,13 +52,17 @@ Exceptions.—Subject to paragraph (3), in applying section 4703 of title 5, Uni
 
 Condition.—Paragraph (2) shall not apply with respect to a demonstration project unless it—
 
-&emsp;&emsp;“(A) involves only the acquisition workforce of the Department of Defense (or any part thereof); and
+&emsp;&emsp;“(A) involves only the acquisition workforce of the Department of Defense (or any part thereof) orinvolves a team of personnel more than half of which consists of members of the acquisition workforce and the remainder of which consists of supporting personnel assigned to work directly with the acquisition workforce; and
 
-&emsp;&emsp;“(B) commences during the 3-year period beginning on the date of the enactment of this Act \[Feb. 10, 1996\].
+&emsp;&emsp;“(B) commences during the 3-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998 \[Nov. 18, 1997\].
 
 “(c)
 
-Definition.—For purposes of this section, the term ‘acquisition workforce’ refers to the persons serving in acquisition positions within the Department of Defense, as designated pursuant to section 1721(a) of title 10, United States Code.”
+Definition.—For purposes of this section, the term ‘acquisition workforce’ refers to the persons serving in acquisition positions within the Department of Defense, as designated pursuant to section 1721(a) of title 10, United States Code.
+
+“(d)
+
+Limitation on Number of Participants.—The total number of persons who may participate in the demonstration project under this section may not exceed 95,000.”
 
 #### Evaluation by Comptroller General
 

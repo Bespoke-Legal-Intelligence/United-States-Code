@@ -2,7 +2,7 @@
 
 #### (a) Civil liability
 
-Except as otherwise provided in this section, any depository institution which fails to comply with any requirement imposed under this chapter or any regulation prescribed under this chapter with respect to any person other than another depository institution is liable to such person in an amount equal to the sum of—
+Except as otherwise provided in this section, any depository institution which fails to complywith any requirement imposed under this chapter or any regulation prescribed under this chapter with respect to any person other than another depository institution is liable to such person in an amount equal to the sum of—
 
 &emsp;(1) any actual damage sustained by such person as a result of the failure;
 
@@ -46,7 +46,7 @@ Any action under this section may be brought in any United States district court
 
 #### (e) Reliance on Board rulings
 
-No provision of this section imposing any liability shall apply to any act done or omitted ingood faith in conformity with any rule, regulation, or interpretation thereof by the Board of Governors of the Federal Reserve System, notwithstanding the fact that after such act or omission has occurred, such rule, regulation, or interpretation is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Board of Governors of the Federal Reserve System, notwithstanding the fact that after such act or omission has occurred, such rule, regulation, or interpretation is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 #### (f) Authority to establish rules regarding losses and liability among depository institutions
 

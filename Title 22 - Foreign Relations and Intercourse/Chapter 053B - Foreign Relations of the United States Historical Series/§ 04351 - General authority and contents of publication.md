@@ -12,7 +12,7 @@ The editing of records for preparation of the FRUS series shall be guided by the
 
 The Secretary of State shall ensure that the FRUS series shall be published not more than 30 years after the events recorded.
 
-(Aug. 1, 1956, ch. 841, title IV, §401, as added Oct. 28, 1991, Pub. L. 102–138, title I, §198(a), 105 Stat. 685.)
+(Aug. 1, 1956, ch. 841, title IV, §401, as added Pub. L. 102–138, title I, §198(a), Oct. 28, 1991, 105 Stat. 685.)
 
 #### Compliance With Deadline for Publication of FRUS Series; Notification to Congressional Committees on Failure To Comply; Final Deadline
 

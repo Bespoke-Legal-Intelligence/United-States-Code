@@ -144,7 +144,7 @@
 
 #### (4) Commencement and termination of additional survivor annuity
 
-&emsp;An annuity payable under this subsection to a spouse or former spouse shall commence on the day after the participant dies and shall terminate on the last day of the month before the spouse's or the former spouse's death or remarriage before attaining age 55.
+&emsp;An annuity payable under this subsection to a spouse or former spouse shall commence onthe day after the participant dies and shall terminate on the last day of the month before the spouse's or the former spouse's death or remarriage before attaining age 55.
 
 #### (5) Nonapplicability of COLA provision
 

@@ -26,7 +26,7 @@ Venue provisions of said section 548 of title 18, U.S.C., 1940 ed., are incorpor
 
 Section 549 of title 18, U.S.C., 1940 ed., conferred special jurisdiction on the United States District Court for South Dakota of all crimes of murder, manslaughter, rape, assault with intent to kill, assault with a dangerous weapon, arson, burglary, and larceny committed within the limits of any Indian reservation within the State, whether by or against Indians or non-Indians. The Act of February 2, 1903, 32 Stat. 793, from which said section 549 was derived, accepted the cession by South Dakota of such jurisdiction.
 
-The effect of revised sections 1151, 1152, and 1153 of this title is to deprive the United States District Courtfor the District of South Dakota of jurisdiction of offenses on Indian reservations committed by non-Indians against non-Indians and to restore such jurisdiction to the courts of the State of South Dakota as in other States. This reflects the views of the United States attorney, George Philip, of the district of South Dakota.
+The effect of revised sections 1151, 1152, and 1153 of this title is to deprive the United States District Court for the District of South Dakota of jurisdiction of offenses on Indian reservations committed by non-Indians against non-Indians and to restore such jurisdiction to the courts of the State of South Dakota as in other States. This reflects the views of the United States attorney, George Philip, of the district of South Dakota.
 
 Minor changes were made in translation and phraseology.
 
@@ -46,7 +46,7 @@ Pub. L. 99–303 inserted section catchline which had been eliminated by general
 
 1984—Pub. L. 98–473 amended section generally, inserting offenses of maiming, involuntary sodomy and a felony committed under section 661 of this title and striking out reference to larceny in first par., and inserting “, involuntary sodomy,” after “burglary” in third par.
 
-1976—Pub. L. 94–297 made changes in phraseology, added offense of kidnapping to the enumerated list of offenses subjecting any Indian to the same laws and penalties as all other persons, struck out applicability to assault with a dangerous weapon and assault resulting in serious bodily injury from paragraph covering the offenses of burglary and incest only, and substituted paragraph, relating to offenses in addition to offenses of burglary and incest, for paragraph relating to offenses of rape and assault with intent to commit rape.
+1976—Pub. L. 94–297 made changes in phraseology, added offense of kidnapping to the enumerated list of offenses subjecting any Indian to the same laws and penalties as all other persons, struck out applicability to assault with a dangerous weapon and assault resulting in serious bodily injury from paragraph coveringthe offenses of burglary and incest only, and substituted paragraph, relating to offenses in addition to offenses of burglary and incest, for paragraph relating to offenses of rape and assault with intent to commit rape.
 
 1968—Pub. L. 90–284 inserted offense of assault resulting in serious bodily injury.
 
@@ -72,5 +72,5 @@ Wire or oral communications, authorization for interception, to provide evidence
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1162, 3242, 3551, 3598, 5032 of this title; title 25 sections 1301, 1725, 1775d, 2802.
+This section is referred to in sections 1162, 3242, 3551, 3598, 4042, 5032 of this title; title 25 sections 1301, 1725, 1775d, 2802.
 

@@ -22,7 +22,7 @@
 
 &emsp;(8) Oversee the Supreme Court Police.
 
-(June 25, 1948, ch. 646, 62 Stat. 918; Mar. 10, 1964, Pub. L. 88–279, §2, 78 Stat. 158; Dec. 29, 1982, Pub. L. 97–390, §2, 96 Stat. 1958.)
+(June 25, 1948, ch. 646, 62 Stat. 918; Pub. L. 88–279, §2, Mar. 10, 1964, 78 Stat. 158; Pub. L. 97–390, §2, Dec. 29, 1982, 96 Stat. 1958.)
 
 #### Historical and Revision Notes
 
@@ -42,9 +42,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1982—Subsec. (c)(8). Pub. L. 97–390 added par. (8).
+<b>1982</b>—Subsec. (c)(8). Pub. L. 97–390 added par. (8).
 
-1964—Subsec. (c)(6). Pub. L. 88–279, §2(a), struck out “except the clerk, his deputies and employees,” after “employees of the Court”.
+<b>1964</b>—Subsec. (c)(6). Pub. L. 88–279, §2(a), struck out “except the clerk, his deputies and employees,” after “employees of the Court”.
 
 Subsec. (c)(7). Pub. L. 88–279, §2(b), added par. (7).
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) the protection, conservation, maintenance, and testing of those reserves; or
 
-&emsp;(2) the production of petroleum whenever and to the extent that the Secretary, with theapproval of the President, finds that such production is needed for national defense purposes and the production is authorized by a joint resolution of Congress.
+&emsp;(2) the production of petroleum whenever and to the extent that the Secretary, with the approval of the President, finds that such production is needed for national defense purposes and the production is authorized by a joint resolution of Congress.
 
 (c)(1) In administering Naval Petroleum Reserves Numbered 1, 2, and 3, the Secretary is authorized and directed—
 
@@ -22,7 +22,7 @@
 
 &emsp;(D) to construct, acquire, or contract for the use of storage and shipping facilities on and off the reserves and pipelines and associated facilities on and off the reserves for transporting petroleum from such reserves to the points where the production from such reserves will be refined or shipped.
 
-> Any pipeline in the vicinity of a naval petroleum reserve not otherwise operated as a common carrier may be acquired by the Secretary by condemnation, if necessary, if the owner thereof refuses to accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserve. With the approval of the Secretary, rights-of-way for new pipelines and associated facilities may be acquired by the exercise of the right of eminent domain in the appropriate United States district court. Such rights-of-way may be acquired in the manner set forth in the Act of February 26, 1931 (40 U.S.C. 258a–258e), and the prospective holder of the right-of-way is “the authority empowered by law to acquire the lands” within the meaning of that Act. Such new pipelines shall accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserves as a common carrier.
+> Any pipeline in the vicinity of a naval petroleum reserve not otherwise operated as a common carrier may be acquired by the Secretary by condemnation, if necessary, if the owner thereof refuses to accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserve. With the approval of the Secretary, rights-of-way for new pipelines and associated facilities may be acquired by the exercise of the right of eminent domain in the appropriate United States district court. Such rights-of-way may be acquired in the manner set forth in the Act of February 26, 1931 (40 U.S.C. 258a–258e), and the prospective holder of the right-of-way is “the authority empowered by law to acquire the lands” within themeaning of that Act. Such new pipelines shall accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserves as a common carrier.
 
 (2) After April 5, 1982, the President may extend the period of production in the case of any naval petroleum reserve for additional periods of not to exceed three years each—
 

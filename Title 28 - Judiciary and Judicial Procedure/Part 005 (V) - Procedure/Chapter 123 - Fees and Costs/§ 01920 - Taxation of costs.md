@@ -16,7 +16,7 @@ A judge or clerk of any court of the United States may tax as costs the followin
 
 A bill of costs shall be filed in the case and, upon allowance, included in the judgment or decree.
 
-(June 25, 1948, ch. 646, 62 Stat. 955; Oct. 28, 1978, Pub. L. 95–539, §7, 92 Stat. 2044.)
+(June 25, 1948, ch. 646, 62 Stat. 955; Pub. L. 95–539, §7, Oct. 28, 1978, 92 Stat. 2044.)
 
 #### Historical and Revision Notes
 
@@ -30,7 +30,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1978—Par. (6). Pub. L. 95–539 added par. (6).
+<b>1978</b>—Par. (6). Pub. L. 95–539 added par. (6).
 
 #### Effective Date of 1978 Amendment
 

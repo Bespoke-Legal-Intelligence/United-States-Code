@@ -88,7 +88,7 @@ In subsection (c), the words “nine days after the date of the ceremony inaugur
 
 “(b) The Inaugural Committee must give a good and sufficient bond for the return in good order and condition of property lent under subsection (a).
 
-“(c) Property lent under subsection (a) shall be returned within nine days after the date of the ceremonyinaugurating the President. The Inaugural Committee shall—
+“(c) Property lent under subsection (a) shall be returned within nine days after the date of the ceremony inaugurating the President. The Inaugural Committee shall—
 
 &emsp;“(1) indemnify the United States for any loss of, or damage to, property lent under subsection (a); and
 

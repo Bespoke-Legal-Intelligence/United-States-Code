@@ -6,7 +6,7 @@
 
 #### (1) Court order
 
-&emsp;The victim of an offense of the type referred to in subsection (a) <sup>1</sup> of this section may obtain an order in the district court of the United States for the district in which charges are brought against the defendant charged with the offense, after notice to the defendant and an opportunity to be heard, requiring that the defendant be tested for the presence of the etiologic agent for acquired immune deficiency syndrome, and that the results of the test be communicated to the victim and the defendant. Any test result of the defendantgiven to the victim or the defendant must be accompanied by appropriate counseling.
+&emsp;The victim of an offense of the type referred to in subsection (a) <sup>1</sup> of this section may obtain an order in the district court of the United States for the district in which charges are brought against the defendant charged with the offense, after notice to the defendant and an opportunity to be heard, requiring that the defendant be tested for the presence of the etiologic agent for acquired immune deficiency syndrome, and that the results of the test be communicated to the victim and the defendant. Any test result of the defendant given to the victim or the defendant must be accompanied by appropriate counseling.
 
 #### (2) Showing required
 

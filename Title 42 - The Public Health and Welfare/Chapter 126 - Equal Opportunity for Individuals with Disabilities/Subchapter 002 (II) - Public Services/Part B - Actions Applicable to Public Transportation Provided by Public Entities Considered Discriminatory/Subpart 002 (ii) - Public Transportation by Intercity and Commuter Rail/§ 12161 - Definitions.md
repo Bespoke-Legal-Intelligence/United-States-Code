@@ -4,11 +4,11 @@ As used in this subpart:
 
 #### (1) Commuter authority
 
-&emsp;The term “commuter authority” has the meaning given such term in section 24102(4) of title 49.
+&emsp;The term “commuter authority” has the meaning given such term in section 24102(4) <sup>1</sup> of title 49.
 
 #### (2) Commuter rail transportation
 
-&emsp;The term “commuter rail transportation” has the meaning given the term “commuter rail passenger transportation” in section 24102(5) of title 49.
+&emsp;The term “commuter rail transportation” has the meaning given the term “commuter rail passenger transportation” in section 24102(5) <sup>1</sup> of title 49.
 
 #### (3) Intercity rail transportation
 
@@ -34,6 +34,10 @@ As used in this subpart:
 
 (Pub. L. 101–336, title II, §241, July 26, 1990, 104 Stat. 346; Pub. L. 104–287, §6(k), Oct. 11, 1996, 110 Stat. 3400.)
 
+#### References in Text
+
+Section 24102 of title 49, referred to in pars. (1) and (2), was subsequently amended, and pars. (4) and (5) of section 24102 no longer define “commuter authority” and “commuter rail passenger transportation”, respectively. However, such terms are defined elsewhere in that section.
+
 #### Codification
 
 In pars. (1) and (2), “section 24102(4) of title 49” substituted for “section 103(8) of the Rail Passenger Service Act (45 U.S.C. 502(8))” and “section 24102(5) of title 49” substituted for “section 103(9) of the Rail Passenger Service Act (45 U.S.C. 502(9))” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
@@ -57,4 +61,6 @@ Exception.—Sections 242 and 244 \[sections 12162 and 12164 of this title\] sha
 #### Section Referred to in Other Sections
 
 This section is referred to in section 12141 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

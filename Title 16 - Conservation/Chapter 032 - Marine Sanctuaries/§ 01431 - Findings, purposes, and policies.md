@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 102–587, §2101(b), amended subsec. (b) generally. Prior 
 
 &emsp;“(4) to enhance public awareness, understanding, appreciation, and wise use of the marine environment; and
 
-&emsp;“(5) to facilitate, to the extent compatible with the primary objective of resource protection, all public and private uses of the resources of these marine areas not prohibited pursuant to other authorities.”
+&emsp;“(5) to facilitate, to the extent compatible with the primary objective of resource protection, all publicand private uses of the resources of these marine areas not prohibited pursuant to other authorities.”
 
 1984—Pub. L. 98–498 amended section generally, substituting provisions relating to Congressional declaration of findings, purposes and policies for provisions defining “Secretary” and “State”. See section 1432 of this title.
 

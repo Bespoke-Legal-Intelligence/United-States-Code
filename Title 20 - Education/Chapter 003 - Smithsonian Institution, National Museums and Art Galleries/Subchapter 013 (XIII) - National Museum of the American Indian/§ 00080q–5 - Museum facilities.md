@@ -24,7 +24,7 @@ The Board of Regents shall plan, design, and construct a facility on the area bo
 
 #### (B) Auditorium and loading dock facility
 
-&emsp;&emsp;The Administrator of General Services shall plan, design, and construct an auditorium and loading dock in the Old United States Custom House at One Bowling Green, New York, New York, for the shared use ofall the occupants of the building, including the National Museum.
+&emsp;&emsp;The Administrator of General Services shall plan, design, and construct an auditorium and loading dock in the Old United States Custom House at One Bowling Green, New York, New York, for the shared use of all the occupants of the building, including the National Museum.
 
 #### (C) Square footage
 
@@ -104,7 +104,7 @@ Pub. L. 103–384, Oct. 22, 1994, 108 Stat. 4067, provided that:
 
 “(a)
 
-In General.—The National Museum of the American Indian (established by the National Museumof the American Indian Act (20 U.S.C. 80q et seq.)), in close consultation with the National Congress of American Indians and other Native American groups, is authorized to construct and maintain a National Native American Veterans’ Memorial (hereafter in this Act referred to as the ‘memorial’).
+In General.—The National Museum of the American Indian (established by the National Museum of the American Indian Act (20 U.S.C. 80q et seq.)), in close consultation with the National Congress of American Indians and other Native American groups, is authorized to construct and maintain a National Native American Veterans’ Memorial (hereafter in this Act referred to as the ‘memorial’).
 
 “(b)
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-(1) The President is authorized consistent with the purposes of this Act to direct the transfer of all functions and authorities from the Board for International Broadcasting to the United StatesInformation Agency, the Board, or the Bureau as may be necessary to implement this chapter.
+(1) The President is authorized consistent with the purposes of this Act to direct the transfer of all functions and authorities from the Board for International Broadcasting to the United States Information Agency, the Board, or the Bureau as may be necessary to implement this chapter.
 
 (2)(A) Not later than 120 days after April 30, 1994, the Director of the United States Information Agency and the Chairman of the Board for International Broadcasting shall jointly prepare and submit to the President for approval and implementation a plan to implement the provisions of this chapter. Such plan shall include at a minimum a detailed cost analysis to implement fully the recommendations of such plan. The plan shall identify all costs in excess of those authorized for such purposes and shall provide that any excess cost to implement the plan shall be derived only from funds authorized in section 201 of this Act.
 
@@ -28,7 +28,7 @@ The Board for International Broadcasting Act of 1973 (22 U.S.C. 2871, et seq.) i
 
 #### (1) Continuing effect of legal documents
 
-&emsp;All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
+&emsp;All orders, determinations, rules, regulations, permits, agreements, grants, contracts,certificates, licenses, registrations, privileges, and other administrative actions—
 
 &emsp;&emsp;(A) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this chapter; and
 

@@ -68,7 +68,7 @@ Restoration of certain unobligated amounts.—The balance of any unobligated amo
 
 “(3)
 
-Cancellation of unobligated balances.—All balances of unobligated funds withdrawn from an account under subsection 1552(a)(2) of title 31, United States Code, as in effect on the day before the date ofthe enactment of this Act (other than funds restored under paragraph (2)) are canceled, effective at the end of the 30-day period beginning on the date of the enactment of this Act.
+Cancellation of unobligated balances.—All balances of unobligated funds withdrawn from an account under subsection 1552(a)(2) of title 31, United States Code, as in effect on the day before the date of the enactment of this Act (other than funds restored under paragraph (2)) are canceled, effective at the end of the 30-day period beginning on the date of the enactment of this Act.
 
 “(4)
 

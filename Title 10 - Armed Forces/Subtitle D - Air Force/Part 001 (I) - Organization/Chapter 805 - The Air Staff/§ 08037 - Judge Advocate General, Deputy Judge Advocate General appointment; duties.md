@@ -2,7 +2,7 @@
 
 (a) There is a Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force. The term of office is four years, but may be sooner terminated or extended by the President. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.
 
-(b) The Judge Advocate General of the Air Force shall be appointed from those officers who at the time of appointment are members of the bar of a Federal court or the highest court of a State or Territory, and who have had at least eight years of experience in legal duties as commissioned officers.
+(b) The Judge Advocate General of the Air Force shall be appointed from those officers who at the time of appointment are members of thebar of a Federal court or the highest court of a State or Territory, and who have had at least eight years of experience in legal duties as commissioned officers.
 
 (c) The Judge Advocate General shall, in addition to other duties prescribed by law—
 

@@ -16,7 +16,7 @@ As used in this subchapter, the term—
 
 &emsp;(4) “member” means a Regular or an Agent member of the Facility.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, §302, as added Nov. 10, 1978, Pub. L. 95–630, title XVIII, §1802, 92 Stat. 3719; amended Mar. 31, 1980, Pub. L. 96–221, title III, §309(b)(1), (2), 94 Stat. 149.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, §302, as added Pub. L. 95–630, title XVIII, §1802, Nov. 10, 1978, 92 Stat. 3719; amended Pub. L. 96–221, title III, §309(b)(1), (2), Mar. 31, 1980, 94 Stat. 149.)
 
 #### Codification
 

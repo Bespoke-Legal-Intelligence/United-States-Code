@@ -58,7 +58,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (e) Failure to obey orders
 
-A person who fails to obey a valid cease-and-desist order issued by the Secretary under thissection, after an opportunity for a hearing, shall be subject to a civil penalty assessed by the Secretary of not more than $500 for each offense. Each day during which the failure continues shall be considered to be a separate violation of the order.
+A person who fails to obey a valid cease-and-desist order issued by the Secretary under this section, after an opportunity for a hearing, shall be subject to a civil penalty assessed by the Secretary of not more than $500 for each offense. Each day during which the failure continues shall be considered to be a separate violation of the order.
 
 #### (f) Failure to pay penalties
 

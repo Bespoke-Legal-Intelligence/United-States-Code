@@ -2,7 +2,7 @@
 
 Nothing contained in sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, and 502 of this title shall be construed as repealing, modifying, or in any manner affecting the provisions of subchapter III of this chapter.
 
-(Mar. 3, 1899, ch. 425, §20(a), formerly §20, 30 Stat. 1154; Feb. 20, 1900, ch. 23, §3, 31 Stat. 32; June 13, 1902, ch. 1079, §12, 32 Stat. 375; renumbered §20(a), Nov. 17, 1986, Pub. L. 99–662, title IX, §939(b), 100 Stat. 4199.)
+(Mar. 3, 1899, ch. 425, §20(a), formerly §20, 30 Stat. 1154; Feb. 20, 1900, ch. 23, §3, 31 Stat. 32; June 13, 1902, ch. 1079, §12, 32 Stat. 375; renumbered §20(a), Pub. L. 99–662, title IX, §939(b), Nov. 17, 1986, 100 Stat. 4199.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@
 
 (2) The Director may, under the authority provided by paragraph (1) of this subsection and in accordance with such policies as the Board chooses to prescribe, appoint for a limited term, or on a temporary basis, scientists, engineers, and other technical and professional personnel on leave of absence from academic, industrial, or research institutions to work for the Foundation.
 
-(3) The Foundation may pay, to the extent authorized for certain other Federal employees by section 5723 of title 5, travel expenses for any individual appointed for a limited term or on a temporary basis and transportation expenses of his or her immediate family and his or her household goods and personal effects from that individual's residence at the time of selection or assignment to his or her duty station. The Foundation may pay such travel expenses and transportation expenses to the same extent for such an individual's return to the former place of residence from his or her duty station, upon separation from the Federal service following an agreed period of service. The Foundation may also pay a per diem allowance at a rate not to exceed the daily amounts prescribed under section 5702 of title 5 to such an individual, in lieu of transportation expenses of the immediate family and household goods and personal effects, for the period of his or her employment with the Foundation. Notwithstanding any other provision of law, the employer's contribution to any retirement, life insurance, or health benefit plan for an individual appointed for a term of one year or less, which could be extended for no more than one additional year, may be made or reimbursed from appropriations available to the Foundation.
+(3) The Foundation may pay, to the extent authorized for certain other Federal employees by section 5723 of title 5, travel expenses for any individual appointed for a limited term or on a temporary basis and transportation expenses of his or her immediate family and his or her household goods and personal effects from thatindividual's residence at the time of selection or assignment to his or her duty station. The Foundation may pay such travel expenses and transportation expenses to the same extent for such an individual's return to the former place of residence from his or her duty station, upon separation from the Federal service following an agreed period of service. The Foundation may also pay a per diem allowance at a rate not to exceed the daily amounts prescribed under section 5702 of title 5 to such an individual, in lieu of transportation expenses of the immediate family and household goods and personal effects, for the period of his or her employment with the Foundation. Notwithstanding any other provision of law, the employer's contribution to any retirement, life insurance, or health benefit plan for an individual appointed for a term of one year or less, which could be extended for no more than one additional year, may be made or reimbursed from appropriations available to the Foundation.
 
 #### (b) Operation of laboratories and pilot plants
 
@@ -14,7 +14,7 @@ The Foundation shall not, itself, operate any laboratories or pilot plants.
 
 #### (c) Compensation of members of Board and special commissions
 
-The members of the Board and the members of each special commission shall receive compensation for each day engaged in the business of the Foundation at a rate fixed by the Chairman but not exceeding the rate specified for the daily rate for GS–18 of the General Schedule undersection 5332 of title 5 and shall be allowed travel expenses as authorized by section 5703 of title 5.
+The members of the Board and the members of each special commission shall receive compensation for each day engaged in the business of the Foundation at a rate fixed by the Chairman but not exceeding the rate specified for the daily rate for GS–18 of the General Schedule under section 5332 of title 5 and shall be allowed travel expenses as authorized by section 5703 of title 5.
 
 #### (d) Federal officers as members of special commissions; compensation
 
@@ -134,7 +134,7 @@ Pub. L. 94–471, §7, Oct. 11, 1976, 90 Stat. 2056, provided that:
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organizationof the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
 
 #### Section Referred to in Other Sections
 

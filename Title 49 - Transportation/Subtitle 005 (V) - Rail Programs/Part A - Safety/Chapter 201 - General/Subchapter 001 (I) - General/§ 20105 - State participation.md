@@ -2,7 +2,7 @@
 
 (a)
 
-Investigative and Surveillance Activities.—The Secretary of Transportation may prescribe investigative and surveillance activities necessary to enforce the safety regulations prescribed and orders issued by the Secretary that apply to railroad equipment, facilities, rolling stock, and operations in a State. The State may participate in those activities when the safety practices for railroad equipment, facilities, rolling stock, and operations in the State are regulated by a State authority and the authority submits to the Secretary an annual certification as provided in subsection (b) of this section.
+Investigative and Surveillance Activities.—The Secretary of Transportation may prescribe investigative and surveillance activitiesnecessary to enforce the safety regulations prescribed and orders issued by the Secretary that apply to railroad equipment, facilities, rolling stock, and operations in a State. The State may participate in those activities when the safety practices for railroad equipment, facilities, rolling stock, and operations in the State are regulated by a State authority and the authority submits to the Secretary an annual certification as provided in subsection (b) of this section.
 
 (b)
 
@@ -108,7 +108,7 @@ In subsection (a), the first sentence is added for clarity.
 
 In subsection (b)(1)(A)(iii), the words “as necessary for the enforcement by him of each rule, regulation, order, and standard referred to in paragraph (2) of this subsection, as interpreted by the Secretary” are omitted as surplus.
 
-In subsection (b)(1)(B)(i) and (ii), the words “railroad carrier” are substituted for “railroad” because of thedefinition of “railroad carrier” in section 20102 of the revised title.
+In subsection (b)(1)(B)(i) and (ii), the words “railroad carrier” are substituted for “railroad” because of the definition of “railroad carrier” in section 20102 of the revised title.
 
 In subsection (b)(1)(B)(iii), the words “a detail of” are omitted as surplus.
 

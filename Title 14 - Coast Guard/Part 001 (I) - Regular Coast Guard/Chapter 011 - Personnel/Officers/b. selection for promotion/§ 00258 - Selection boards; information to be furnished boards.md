@@ -12,7 +12,7 @@ The Secretary shall furnish the appropriate selection board convened under secti
 
 1996—Cl. (2). Pub. L. 104–324 struck out “, with identification of those officers who are in the promotion zone” after “officers for promotion”.
 
-1966—Pub. L. 89–444 substituted “officers who are eligible for consideration for promotion to the grade to which the board will recommend officers for promotion” for “officers to be considered by the board” in Cl. 2.
+1966—Pub. L. 89–444 substituted “officers who are eligible for consideration for promotion to the grade to which the board will recommend officers for promotion” for “officers to be considered by the board” in cl. 2.
 
 #### Section Referred to in Other Sections
 

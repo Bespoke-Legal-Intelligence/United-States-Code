@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-&emsp;(1) The term “severe energy supply interruption”, when used with respect to motor fuel orany other energy source, means a national energy supply shortage of such energy source which the President determines—
+&emsp;(1) The term “severe energy supply interruption”, when used with respect to motor fuel or any other energy source, means a national energy supply shortage of such energy source which the President determines—
 
 &emsp;&emsp;(A) is, or is likely to be, of significant scope and duration;
 

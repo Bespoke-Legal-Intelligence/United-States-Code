@@ -8,7 +8,7 @@ The Secretary of Defense shall conduct the employment and salary practices appli
 
 Subject to section 5103 of title 5, the Secretary of Defense—
 
-&emsp;(1) shall determine the applicability of paragraph (22) of section 5102(c) of title 5 to positions and individuals in the Department of Defense and
+&emsp;(1) shall determine the applicability of paragraph (22) of section 5102(c) of title 5 to positions and individuals in the Department of Defense; and
 
 &emsp;(2) shall establish the appropriate annual salary rate in accordance with this chapter for each such position and individual to which such paragraph (22) is determined to be applicable.
 
@@ -20,11 +20,11 @@ The Secretary of Defense shall fix the basic compensation for teachers and teach
 
 The Secretary of Defense may prescribe and issue such regulations as he deems appropriate to carry out his functions under this chapter.
 
-(Pub. L. 86–91, §5, July 17, 1959, 73 Stat. 214; Pub. L. 86–370, §6(b), Sept. 23, 1959, 73 Stat. 652; Pub. L. 89–391, §1(b), (c), Apr. 14, 1966, 80 Stat. 117; Pub. L. 96–470, title I, §104(b), Oct. 19, 1980, 94 Stat. 2238; Pub. L. 104–201, div. A, title XVI, §1606(b), Sept. 23, 1996, 110 Stat. 2737.)
+(Pub. L. 86–91, §5, July 17, 1959, 73 Stat. 214; Pub. L. 86–370, §6(b), Sept. 23, 1959, 73 Stat. 652; Pub. L. 89–391, §1(b), (c), Apr. 14, 1966, 80 Stat. 117; Pub. L. 96–470, title I, §104(b), Oct. 19, 1980, 94 Stat. 2238; Pub. L. 104–201, div. A, title XVI, §1606(b), Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title X, §1073(c)(9)(B), (C), Nov. 18, 1997, 111 Stat. 1904.)
 
 #### Codification
 
-In subsec. (b), “section 5103 of title 5” and “paragraph (22) of section 5102(c) of title 5” substituted for “section 202 of the Classification Act of 1949” and “paragraph (33) of section 202 of such Act, added by section 3 of this Act” respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b), “section 5103 of title 5” and “paragraph (22) of section 5102(c) of title 5” substituted for “section 202 of the Classification Act of 1949” and “paragraph\(33) of section 202 of such Act, added by section 3 of this Act” respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Provisions of section 1(b) and (c) of Pub. L. 89–391 for amendment of subsec. (c) of this section and addition of other provisions as another subsec. (c), have been executed in the Code as an amendment of subsec. (c) of this section and addition of subsec. (e) of this section, respectively.
 
@@ -32,11 +32,17 @@ Section was formerly classified to section 2353 of Title 5 prior to the general 
 
 #### Amendments
 
+1997—Subsec. (a). Pub. L. 105–85, §1073(c)(9)(B), made technical correction to Pub. L. 104–201, §1606(b)(1)(A). See 1996 Amendment note below.
+
+Subsec. (b)(1). Pub. L. 105–85, §1073(c)(9)(C), made technical correction to Pub. L. 104–201, §1606(b)(2)(B). See 1996 Amendment note below.
+
 1996—Subsec. (a). Pub. L. 104–201, §1606(b)(1)(B), substituted “the Department of Defense” for “his military department”.
 
-Pub. L. 104–201, §1606(b)(1)(A), which directed substitution of “Secretary of Defense” for “Secretary of each military department in the Department of Defense”, was executed by making the substitution for “secretary of each military department in the Department of Defense” before “shall conduct” to reflect the probable intent of Congress.
+Pub. L. 104–201, §1606(b)(1)(A), as amended by Pub. L. 105–85, §1073(c)(9)(B), substituted “Secretary of Defense shall” for “secretary of each military department in the Department of Defense shall”.
 
-Subsec. (b). Pub. L. 104–201, §1606(b)(2), substituted “Secretary of Defense—” for “secretary of each military department—” in introductory provisions and “the Department of Defense” for “his military department,” in par. (1).
+Subsec. (b). Pub. L. 104–201, §1606(b)(2)(A), substituted “Secretary of Defense—” for “secretary of each military department—” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 104–201, §1606(b)(2)(B), as amended by Pub. L. 105–85, §1073(c)(9)(C), substituted “the Department of Defense;” for “his military department,”.
 
 Subsec. (c). Pub. L. 104–201, §1606(b)(3), substituted “Secretary of Defense” for “Secretary of each military department” and “the Department of Defense” for “his military department”.
 
@@ -49,6 +55,10 @@ Subsec. (d). Pub. L. 104–201, §1606(b)(4), substituted “Secretary of Defens
 Subsec. (e). Pub. L. 89–391, §1(c), inserted provisions designated as subsec. (c) to section 5 of Pub. L. 86–91, but codified as subsec. (e) of this section.
 
 1959—Subsec. (b). Pub. L. 86–370 substituted “(33)” for “(32)” in two places.
+
+#### Effective Date of 1997 Amendment
+
+Section 1073(c) of Pub. L. 105–85 provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 #### Effective Date of 1966 Amendment
 

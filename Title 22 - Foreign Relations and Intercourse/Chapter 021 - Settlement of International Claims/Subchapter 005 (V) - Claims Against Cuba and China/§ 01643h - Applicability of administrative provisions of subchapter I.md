@@ -2,5 +2,5 @@
 
 To the extent they are not inconsistent with the provisions of this subchapter, the following provisions of subchapter I of this chapter shall be applicable to this subchapter: Subsections (b), (c), (d) (e), (h), and (j) of section 1623 of this title; subsection (f) of section 1626 of this title.
 
-(Mar. 10, 1950, ch. 54, title V, §509, as added Oct. 16, 1964, Pub. L. 88–666, 78 Stat. 1112.)
+(Mar. 10, 1950, ch. 54, title V, §509, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Preparation by Secretary of Energy; consultative requirements
 
-The Secretary of Energy shall prepare a comprehensive plan for carrying out this subchapter. In the preparation of such plan, the Secretary shall consult with the Administratorof the Environmental Protection Agency, the Secretary of Commerce, and the head of such other Federal agencies as the Secretary deems appropriate.
+The Secretary of Energy shall prepare a comprehensive plan for carrying out this subchapter. In the preparation of such plan, the Secretary shall consult with the Administrator of the Environmental Protection Agency, the Secretary of Commerce, and the head of such other Federal agencies as the Secretary deems appropriate.
 
 #### (b) Transmittal to President and Congress
 

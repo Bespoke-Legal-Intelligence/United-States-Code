@@ -2,7 +2,7 @@
 
 #### (a) Submission to Congress of property transfer document
 
-Any provision of law relating to the transfer and disposal of Federal property to the contrary notwithstanding, the Secretary, after consultation with the Secretary of the department in which the Coast Guard is operating, is authorized to bargain, grant, sell or otherwise convey, on such terms as he deems to be in the best interests of the United States and in furtherance of the purposes of this chapter, any and all right, title, and interest of the United States in and to the property, both real and personal, held by the Secretary on the Pribilof Islands: <i>Provided</i>, That such property is specified in a document entitled “Transfer of Property on the Pribilof Islands: Descriptions, Terms and Conditions,” which is submitted to the Congress on or before October 31, 1983.
+Any provision of law relating to the transfer and disposal of Federal property to the contrary notwithstanding, the Secretary, after consultation with the Secretary of the department in which the Coast Guard is operating, is authorized to bargain, grant, sell or otherwise convey, on such terms as he deems to be in the best interests of the United States and in furtherance of the purposes of this chapter, any and all right, title, and interest of the United States inand to the property, both real and personal, held by the Secretary on the Pribilof Islands: <i>Provided</i>, That such property is specified in a document entitled “Transfer of Property on the Pribilof Islands: Descriptions, Terms and Conditions,” which is submitted to the Congress on or before October 31, 1983.
 
 #### (b) Contents of property transfer document
 
@@ -72,7 +72,7 @@ Pub. L. 104–91, §3, Jan. 6, 1996, 110 Stat. 8, provided that:
 
 “(a)
 
-In General.—The Secretary of Commerce shall, subject to the availability of appropriations provided for the purposes of this section, clean up landfills, wastes, dumps, debris, storage tanks, property, hazardous or unsafe conditions, and contaminants, including petroleum products and their derivatives, left by the National Oceanic and Atmospheric Administration on lands which it and its predecessor agencies abandoned, quitclaimed, or otherwise transferred or are obligated to transfer, to local entities or residents on the Pribilof Islands, Alaska, pursuant to the Fur Seal Act of 1966 (16 U.S.C. 1151 et seq.), as amended, or other applicable law.
+In General.—The Secretary of Commerce shall, subject to the availability of appropriations provided for the purposes of this section, clean up landfills,wastes, dumps, debris, storage tanks, property, hazardous or unsafe conditions, and contaminants, including petroleum products and their derivatives, left by the National Oceanic and Atmospheric Administration on lands which it and its predecessor agencies abandoned, quitclaimed, or otherwise transferred or are obligated to transfer, to local entities or residents on the Pribilof Islands, Alaska, pursuant to the Fur Seal Act of 1966 (16 U.S.C. 1151 et seq.), as amended, or other applicable law.
 
 “(b)
 

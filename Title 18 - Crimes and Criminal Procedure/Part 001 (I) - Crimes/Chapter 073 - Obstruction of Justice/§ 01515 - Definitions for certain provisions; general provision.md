@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) a proceeding before a Federal Government agency which is authorized by law; or
 
-&emsp;&emsp;(D) a proceeding involving the business of insurance whose activities affect interstate commerce before any insurance regulatory official or agency or any agent or examiner appointed by such official or agency to examine the affairs of any person engaged inthe business of insurance whose activities affect interstate commerce;
+&emsp;&emsp;(D) a proceeding involving the business of insurance whose activities affect interstate commerce before any insurance regulatory official or agency or any agent or examiner appointed by such official or agency to examine the affairs of any person engaged in the business of insurance whose activities affect interstate commerce;
 
 &emsp;(2) the term “physical force” means physical action against another, and includes confinement;
 

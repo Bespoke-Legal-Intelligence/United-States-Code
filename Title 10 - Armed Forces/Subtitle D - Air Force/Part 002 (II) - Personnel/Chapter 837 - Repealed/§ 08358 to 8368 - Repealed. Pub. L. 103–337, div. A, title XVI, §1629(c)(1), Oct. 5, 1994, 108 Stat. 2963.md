@@ -18,7 +18,7 @@ Section 8366, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1523;
 
 Section 8367, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1525; amended Pub. L. 86–559, §1(54), June 30, 1960, 74 Stat. 276, related to selection board procedures for promotion of first lieutenants, captains, and majors of Air Force Reserve or Air National Guard of United States. See section 14001 et seq. of this title.
 
-Section 8368, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1525; amended Pub. L. 86–559, §1(55), June 30, 1960. 74 Stat. 276; Pub. L. 90–130, §1(28)(B), Nov. 8, 1967, 81 Stat. 382; Pub. L. 100–180, div. A, title XII, §1231(19)(B), Dec. 4, 1987, 101 Stat. 1161, related to effect of failure of promotion of reserve officers in grades offirst lieutenant, captain, and major. See section 14301 et seq. of this title.
+Section 8368, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1525; amended Pub. L. 86–559, §1(55), June 30, 1960. 74 Stat. 276; Pub. L. 90–130, §1(28)(B), Nov. 8, 1967, 81 Stat. 382; Pub. L. 100–180, div. A, title XII, §1231(19)(B), Dec. 4, 1987, 101 Stat. 1161, related to effect of failure of promotion of reserve officers in grades of first lieutenant, captain, and major. See section 14301 et seq. of this title.
 
 #### Effective Date of Repeal
 

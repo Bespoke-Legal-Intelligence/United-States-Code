@@ -6,7 +6,7 @@
 
 &emsp;(1) the Atlantic northeast, for training in cold weather and in fog;
 
-&emsp;(2) the Atlantic southeast and Caribbean areas, for training in long-range operations, especially those incident to reinforcing the defenses of the Panama Canal;
+&emsp;(2) the Atlantic southeast and Caribbean areas, for training in long-range operations,especially those incident to reinforcing the defenses of the Panama Canal;
 
 &emsp;(3) the southeastern United States, to provide a depot necessary to maintain the Air Force;
 

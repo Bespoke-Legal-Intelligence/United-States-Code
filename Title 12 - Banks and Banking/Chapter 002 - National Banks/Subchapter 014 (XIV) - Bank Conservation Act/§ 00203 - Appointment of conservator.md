@@ -40,7 +40,7 @@ The Comptroller shall have exclusive power and jurisdiction to appoint a conserv
 
 The Comptroller may, without notice or hearing, replace a conservator with another conservator. Such replacement shall not affect the bank's right under subsection (b) of this section to obtain judicial review of the Comptroller's original decision to appoint a conservator.
 
-(Mar. 9, 1933, ch. 1, title II, §203, 48 Stat. 2; Aug. 9, 1989, Pub. L. 101–73, title VIII, §802, 103 Stat. 442; Dec. 19, 1991, Pub. L. 102–242, title I, §133(c), 105 Stat. 2271.)
+(Mar. 9, 1933, ch. 1, title II, §203, 48 Stat. 2; Pub. L. 101–73, title VIII, §802, Aug. 9, 1989, 103 Stat. 442; Pub. L. 102–242, title I, §133(c), Dec. 19, 1991, 105 Stat. 2271.)
 
 #### References in Text
 

@@ -10,10 +10,13 @@
 | [506\.](%C2%A7%2000506%20-%20Assignment%20and%20detail%20of%20members%20of%20Regular%20Army%20or%20Regular%20Air%20Force%20for%20instruction%20of%20National%20Guard.md) | Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard. |
 | [507\.](%C2%A7%2000507%20-%20Instruction%20in%20firing%3B%20supply%20of%20ammunition.md) | Instruction in firing; supply of ammunition. |
 | [508\.](%C2%A7%2000508%20-%20Assistance%20for%20certain%20youth%20and%20charitable%20organizations.md) | Assistance for certain youth and charitable organizations. |
+| [509\.](%C2%A7%2000509%20-%20National%20Guard%20Challenge%20Program%20of%20opportunities%20for%20civilian%20youth.md) | National Guard Challenge Program of opportunities for civilian youth. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title X, §1076(b), Nov. 18, 1997, 111 Stat. 1914, added item 509.
 
 1994—Pub. L. 103–337, div. A, title III, §385(b), Oct. 5, 1994, 108 Stat. 2742, added item 508.
 
@@ -30,3 +33,4 @@
 - [&sect; 00506 - Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard](%C2%A7%2000506%20-%20Assignment%20and%20detail%20of%20members%20of%20Regular%20Army%20or%20Regular%20Air%20Force%20for%20instruction%20of%20National%20Guard.md)
 - [&sect; 00507 - Instruction in firing; supply of ammunition](%C2%A7%2000507%20-%20Instruction%20in%20firing%3B%20supply%20of%20ammunition.md)
 - [&sect; 00508 - Assistance for certain youth and charitable organizations](%C2%A7%2000508%20-%20Assistance%20for%20certain%20youth%20and%20charitable%20organizations.md)
+- [&sect; 00509 - National Guard Challenge Program of opportunities for civilian youth](%C2%A7%2000509%20-%20National%20Guard%20Challenge%20Program%20of%20opportunities%20for%20civilian%20youth.md)

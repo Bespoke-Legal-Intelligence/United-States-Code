@@ -18,9 +18,9 @@ The legislature of the Virgin Islands shall have power to enact navigation, boat
 
 #### (e) Existing powers of United States officers unaffected
 
-Nothing in this subchapter shall be construed to affect or impair in any manner the terms and conditions of any authorizations, permits, or other powers heretofore lawfully granted or exercised in or in respect of the Virgin Islands by any authorized officer or agent of the United States.
+Nothing in this subchapter shall be construed to affect or impair in any manner the terms and conditions of any authorizations, permits, orother powers heretofore lawfully granted or exercised in or in respect of the Virgin Islands by any authorized officer or agent of the United States.
 
-(June 22, 1936, ch. 699, §4, 49 Stat. 1808; Aug. 7, 1939, ch. 515, 53 Stat. 1242; Oct. 31, 1951, ch. 654, §1(127), 65 Stat. 706; Oct. 19, 1982, Pub. L. 97–357, title III, §306, 96 Stat. 1709.)
+(June 22, 1936, ch. 699, §4, 49 Stat. 1808; Aug. 7, 1939, ch. 515, 53 Stat. 1242; Oct. 31, 1951, ch. 654, §1(127), 65 Stat. 706; Pub. L. 97–357, title III, §306, Oct. 19, 1982, 96 Stat. 1709.)
 
 #### Amendments
 

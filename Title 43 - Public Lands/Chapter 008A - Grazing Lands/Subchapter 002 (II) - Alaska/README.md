@@ -17,7 +17,6 @@
 - [&sect; 00316i - Assignment of leases](%C2%A7%2000316i%20-%20Assignment%20of%20leases.md)
 - [&sect; 00316j - Improvements to leasehold](%C2%A7%2000316j%20-%20Improvements%20to%20leasehold.md)
 - [&sect; 00316k - Penalties](%C2%A7%2000316k%20-%20Penalties.md)
-- [&sect; 00316l - Stock driveways and free grazing](%C2%A7%2000316l%20-%20Stock%20driveways%20and%20free%20grazing.md)
 - [&sect; 00316m - Hearing and appeals](%C2%A7%2000316m%20-%20Hearing%20and%20appeals.md)
 - [&sect; 00316n - Administration](%C2%A7%2000316n%20-%20Administration.md)
 - [&sect; 00316o - Laws applicable](%C2%A7%2000316o%20-%20Laws%20applicable.md)

@@ -14,7 +14,7 @@ Oversight by Chairman of Joint Chiefs of Staff.—(1) The Secretary of Defense m
 
 (2) Subject to the authority, direction, and control of the Secretary of Defense, the Chairman of the Joint Chiefs of Staff serves as the spokesman for the commanders of the combatant commands, especially on the operational requirements of their commands. In performing such function, the Chairman shall—
 
-&emsp;(A) confer with and obtain information from the commanders of the combatant commands with respect to the requirements of their commands;
+&emsp;(A) confer with and obtain information from the commanders of the combatant commandswith respect to the requirements of their commands;
 
 &emsp;(B) evaluate and integrate such information;
 

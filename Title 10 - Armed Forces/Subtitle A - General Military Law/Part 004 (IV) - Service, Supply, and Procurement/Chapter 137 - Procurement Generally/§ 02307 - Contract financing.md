@@ -40,7 +40,7 @@ Conditions for Payments for Commercial Items.—(1) Payments under subsection (a
 
 (2) Advance payments made under subsection (a) for commercial items may include payments, in a total amount of not more than 15 percent of the contract price, in advance of any performance of work under the contract.
 
-(3) The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency, with commercial terms and conditions pursuant to paragraphs (1) and (2).
+(3) The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency,with commercial terms and conditions pursuant to paragraphs (1) and (2).
 
 (g)
 
@@ -55,6 +55,10 @@ Certain Navy Contracts.—(1) The Secretary of the Navy shall provide that the r
 (3) The Secretary of the Navy shall provide, in each contract for construction or conversion of a naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
 
 (h)
+
+Vesting of Title in the United States.—If a contract paid by a method authorized under subsection (a)(1) provides for title to property to vest in the United States, the title to the property shall vest in accordance with the terms of the contract, regardless of any security interest in the property that is asserted before or after the contract is entered into.
+
+(i)
 
 Action in Case of Fraud.—(1) In any case in which the remedy coordination official of an agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that agency is based on fraud, the remedy coordination official shall recommend that the head of the agency reduce or suspend further payments to such contractor.
 
@@ -80,7 +84,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (10) In this subsection, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Aug. 28, 1958, Pub. L. 85–800, §9, 72 Stat. 967; Nov. 16, 1973, Pub. L. 93–155, title VIII, §807(c), 87 Stat. 616; July 19, 1988, Pub. L. 100–370, §1(f)(1)(A), 102 Stat. 846; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), 104 Stat. 1615, 1616, 1671; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), 105 Stat. 114, 116; Dec. 5, 1991, Pub. L. 102–190, div. A, title X, §1061(a)(10), 105 Stat. 1472; Oct. 23, 1992, Pub. L. 102–484, div. A, title X, §1052(24), 106 Stat. 2500; Oct. 13, 1994, Pub. L. 103–355, title II, §2001(a)–(g), 108 Stat. 3301, 3302.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Aug. 28, 1958, Pub. L. 85–800, §9, 72 Stat. 967; Nov. 16, 1973, Pub. L. 93–155, title VIII, §807(c), 87 Stat. 616; July 19, 1988, Pub. L. 100–370, §1(f)(1)(A), 102 Stat. 846; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), 104 Stat. 1615, 1616, 1671; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), 105 Stat. 114, 116; Dec. 5, 1991, Pub. L. 102–190, div. A, title X, §1061(a)(10), 105 Stat. 1472; Oct. 23, 1992, Pub. L. 102–484, div. A, title X, §1052(24), 106 Stat. 2500; Oct. 13, 1994, Pub. L. 103–355, title II, §2001(a)–(g), 108 Stat. 3301, 3302; Nov. 18, 1997, Pub. L. 105–85, div. A, title VIII, §802, 111 Stat. 1831.)
 
 Historical and Revision Notes<br>1956
 
@@ -112,13 +116,15 @@ Subsection (e) is based on Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 S
 
 #### References in Text
 
-Level IV of the Executive Schedule, referred to in subsec. (h)(9), is set out in section 5315 of Title 5, Government Organization and Employees.
+Level IV of the Executive Schedule, referred to in subsec. (i)(9), is set out in section 5315 of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
 Provisions similar to those in subsec. (g) of this section were contained in sections 7312, 7364, and 7521 of this title prior to repeal by Pub. L. 103–355, §2001(j)(1).
 
 #### Amendments
+
+1997—Subsecs. (h), (i). Pub. L. 105–85 added subsec. (h) and redesignated former subsec. (h) as (i).
 
 1994—Pub. L. 103–355, §2001(a)(1), substituted “Contract financing” for “Advance payments” in section catchline.
 
@@ -194,7 +200,7 @@ Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Se
 
 #### Obligations Entered Into Before November 16, 1973
 
-Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
+Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered intoprior to the date of enactment of this section \[Nov. 16, 1973\].”
 
 #### Cross References
 

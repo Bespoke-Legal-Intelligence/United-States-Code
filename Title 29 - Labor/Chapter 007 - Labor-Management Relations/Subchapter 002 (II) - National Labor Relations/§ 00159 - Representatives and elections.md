@@ -36,7 +36,7 @@ Whenever an order of the Board made pursuant to section 160(c) of this title is 
 
 (2) No election shall be conducted pursuant to this subsection in any bargaining unit or any subdivision within which, in the preceding twelve-month period, a valid election shall have been held.
 
-(July 5, 1935, ch. 372, §9, 49 Stat. 453; June 23, 1947, ch. 120, title I, §101, 61 Stat. 143; Oct. 22, 1951, ch. 534, §1(c), (d), 65 Stat. 601; Sept. 14, 1959, Pub. L. 86–257, title II, §201(d), title VII, §702, 73 Stat. 525, 542.)
+(July 5, 1935, ch. 372, §9, 49 Stat. 453; June 23, 1947, ch. 120, title I, §101, 61 Stat. 143; Oct. 22, 1951, ch. 534, §1(c), (d), 65 Stat. 601; Pub. L. 86–257, title II, §201(d), title VII, §702, Sept. 14, 1959, 73 Stat. 525, 542.)
 
 #### Amendments
 

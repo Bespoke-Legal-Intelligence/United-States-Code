@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;(8) The term “enhancement” means projects undertaken to increase the production of naturally spawning or artificially propagated stocks of salmon or steelhead, or to protect, conserve, or improve the habitat of such stocks.
 
-&emsp;(9) The term “habitat” means those portions of the land or water, including the constituentelements thereof, (A) which salmon or steelhead occupy at any time during their life cycle, or (B) which affect the salmon or steelhead resources.
+&emsp;(9) The term “habitat” means those portions of the land or water, including the constituent elements thereof, (A) which salmon or steelhead occupy at any time during their life cycle, or (B) which affect the salmon or steelhead resources.
 
 &emsp;(10) The term “recreational fishing” means fishing for personal use and enjoyment using conventional angling gear, and not for sale or barter.
 
@@ -40,7 +40,7 @@ As used in this chapter—
 
 &emsp;(14) The term “stock” means a species, subspecies, race, geographical grouping, run, or other category of salmon or steelhead.
 
-&emsp;(15) The term “treaty” means any treaty between the United States and any treaty tribe that relates to the reserved right of such tribe to harvest salmon and steelhead within the Washington or Columbia River conservation areas.
+&emsp;(15) The term “treaty” means any treaty between the United States and any treaty tribe that relates to the reserved right of such tribeto harvest salmon and steelhead within the Washington or Columbia River conservation areas.
 
 &emsp;(16) The term “treaty tribe” means any Indian tribe recognized by the United States Government, with usual and accustomed fishing grounds in the Washington or Columbia River conservation areas, whose fishing right under a treaty has been recognized by a Federal court.
 

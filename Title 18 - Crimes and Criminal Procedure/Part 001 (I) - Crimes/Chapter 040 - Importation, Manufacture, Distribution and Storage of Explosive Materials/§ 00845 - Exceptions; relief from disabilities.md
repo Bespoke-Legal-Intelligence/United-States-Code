@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(C) forensic science purposes; or
 
-&emsp;(2) was plastic explosive that, within 3 years after the date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, will be or is incorporated in a military device within the territory of the United States and remains an integral part of such military device, or is intended to be, or is incorporated in, and remains an integral part of a military device that is intended to become,or has become, the property of any agency of the United States performing military or police functions (including any military reserve component) or the National Guard of any State, wherever such device is located.
+&emsp;(2) was plastic explosive that, within 3 years after the date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, will be or is incorporated in a military device within the territory of the United States and remains an integral part of such military device, or is intended to be, or is incorporated in, and remains an integral part of a military device that is intended to become, or has become, the property of any agency of the United States performing military or police functions (including any military reserve component) or the National Guard of any State, wherever such device is located.
 
 &emsp;(3) For purposes of this subsection, the term “military device” includes, but is not restricted to, shells, bombs, projectiles, mines, missiles, rockets, shaped charges, grenades, perforators, and similar devices lawfully manufactured exclusively for military or police purposes.
 

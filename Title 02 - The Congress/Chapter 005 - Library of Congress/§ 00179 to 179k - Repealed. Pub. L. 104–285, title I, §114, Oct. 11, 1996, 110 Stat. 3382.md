@@ -8,7 +8,7 @@ Section 179b, Pub. L. 102–307, title II, §204, June 26, 1992, 106 Stat. 268, 
 
 Section 179c, Pub. L. 102–307, title II, §205, June 26, 1992, 106 Stat. 270, related to responsibilities and powers of Board, including consultation with Librarian with respect to inclusion of films in Registry, consideration of films nominated for inclusion in Registry, and general powers.
 
-Section 179d, Pub. L. 102–307, title II, §206, June 26, 1992, 106 Stat. 270, related to National Film RegistryCollection of Library of Congress, including provisions relating to acquisition of archival quality copies and additional materials, ownership of copies and additional materials by United States, and maintenance of and access to Collection.
+Section 179d, Pub. L. 102–307, title II, §206, June 26, 1992, 106 Stat. 270, related to National Film Registry Collection of Library of Congress, including provisions relating to acquisition of archival quality copies and additional materials, ownership of copies and additional materials by United States, and maintenance of and access to Collection.
 
 Section 179e, Pub. L. 102–307, title II, §207, June 26, 1992, 106 Stat. 271, related to seal of National Film Registry.
 

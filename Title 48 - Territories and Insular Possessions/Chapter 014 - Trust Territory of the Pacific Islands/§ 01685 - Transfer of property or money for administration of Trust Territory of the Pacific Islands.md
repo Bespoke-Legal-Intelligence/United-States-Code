@@ -6,7 +6,7 @@ After June 30, 1952, transfers to the Department of the Interior pursuant to the
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch.288, 63 Stat. 377, as amended. Provisions of that act relating to excess property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to excess property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Codification
 

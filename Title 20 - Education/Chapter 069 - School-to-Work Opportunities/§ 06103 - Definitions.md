@@ -18,7 +18,7 @@ As used in this chapter:
 
 &emsp;The term “career guidance and counseling” means programs—
 
-&emsp;&emsp;(A) that pertain to the body of subject matter and related techniques and methods organized for the development in individuals of career awareness, career planning, career decisionmaking, placement skills, and knowledge and understanding of local,State, and national occupational, educational, and labor market needs, trends, and opportunities;
+&emsp;&emsp;(A) that pertain to the body of subject matter and related techniques and methods organized for the development in individuals of career awareness, career planning, career decisionmaking, placement skills, and knowledge and understanding of local, State, and national occupational, educational, and labor market needs, trends, and opportunities;
 
 &emsp;&emsp;(B) that assist individuals in making and implementing informed educational and occupational choices; and
 
@@ -34,7 +34,7 @@ As used in this chapter:
 
 &emsp;&emsp;(C) typically includes at least 2 years of secondary education and at least 1 or 2 years of postsecondary education;
 
-&emsp;&emsp;(D) provides the students, to the extent practicable, with strong experience in and understanding of all aspects of the industry the students are planning to enter;
+&emsp;&emsp;(D) provides the students, to the extent practicable, with strong experience in andunderstanding of all aspects of the industry the students are planning to enter;
 
 &emsp;&emsp;(E) results in the award of—
 
@@ -114,7 +114,7 @@ As used in this chapter:
 
 #### (13) Registered apprenticeship agency
 
-&emsp;The term “registered apprenticeship agency” means the Bureau of Apprenticeship and Training in the Department of Labor or aState apprenticeship agency recognized and approved by the Bureau of Apprenticeship and Training as the appropriate body for State registration or approval of local apprenticeship programs and agreements for Federal purposes.
+&emsp;The term “registered apprenticeship agency” means the Bureau of Apprenticeship and Training in the Department of Labor or a State apprenticeship agency recognized and approved by the Bureau of Apprenticeship and Training as the appropriate body for State registration or approval of local apprenticeship programs and agreements for Federal purposes.
 
 #### (14) Registered apprenticeship program
 
@@ -122,7 +122,7 @@ As used in this chapter:
 
 #### (15) Related services
 
-&emsp;The term “related services” includes the types of services described in section 1401(a)(17) of title 20.
+&emsp;The term “related services” includes the types of services described in section 1401(a)(17) <sup>1</sup> of title 20.
 
 #### (16) Rural community with low population density
 
@@ -130,7 +130,7 @@ As used in this chapter:
 
 #### (17) School dropout
 
-&emsp;The term “school dropout” means a youth who is no longer attending any school and who has not received a secondary school diploma or a certificate from a program of equivalency for such a diploma.
+&emsp;The term “school dropout” means a youth who is no longer attending any school and whohas not received a secondary school diploma or a certificate from a program of equivalency for such a diploma.
 
 #### (18) School site mentor
 
@@ -178,6 +178,8 @@ The Higher Education Act of 1965, referred to in pars. (11)(B)(viii) and (12), i
 
 The Alaska Native Claims Settlement Act, referred to in par. (11)(B)(xiv), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
+Section 1401(a)(17) of this title, referred to in par. (15), was in the original a reference to section 602(a)(17) of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of this title, and which contains provisions defining “related services”.
+
 The Job Training Partnership Act, referred to in par. (20)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Part B of title IV of the Act is classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The National Skill Standards Act of 1994, referred to in par. (22), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
@@ -185,4 +187,6 @@ The National Skill Standards Act of 1994, referred to in par. (22), is title V o
 #### Amendments
 
 1994—Par. (15). Pub. L. 103–382 substituted “section 1401(a)(17)” for “section 1401(17)”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

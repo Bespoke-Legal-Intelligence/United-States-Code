@@ -26,7 +26,7 @@ The Center shall have a Board of Directors, to be comprised of not more than twe
 
 &emsp;(11) not less than one member who shall be appointed by the President, by and with the advice and consent of the Senate, from among qualified individuals associated with leading institutions of higher education; and
 
-&emsp;(12) such other qualified members from the public or private sectors whom the Presidentmay deem appropriate who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;(12) such other qualified members from the public or private sectors whom the President may deem appropriate who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 > When unable to attend a meeting of the Board, a member appointed under clauses (2), (3), (4), and (5) shall appoint an appropriate alternate from such member's Department or agency to represent such member at that meeting.
 
@@ -34,7 +34,7 @@ The Center shall have a Board of Directors, to be comprised of not more than twe
 
 (1) The members of the Board appointed under clauses (7), (8), (9), (10), (11), and any private sector members appointed pursuant to clause (12) of subsection (a) of this section shall be appointed for a four-year term coterminous with the term of the President. Members other than members appointed under such clauses, with the exception of the Chairman, shall serve as long as such member is head of the department or agency represented on the Board. No person shall serve as an acting or temporary member in positions requiring Senate confirmation including that of Chairman, for a period in excess of three months.
 
-(2) The President shall appoint a Chairman for a term of four years coterminous with the term of the President. In appointing a Chairman, the President may appoint an individual who is an officer of the United States. If that officer has been appointed to his current position, by and with the advice and consent of the Senate, or if such individual is the Vice President of the United States, such individual may be appointed chairman by the President without the requirement of confirmation by the Senate.
+(2) The President shall appoint a Chairman for a term of four years coterminous with the termof the President. In appointing a Chairman, the President may appoint an individual who is an officer of the United States. If that officer has been appointed to his current position, by and with the advice and consent of the Senate, or if such individual is the Vice President of the United States, such individual may be appointed chairman by the President without the requirement of confirmation by the Senate.
 
 #### (c) Vacancies
 

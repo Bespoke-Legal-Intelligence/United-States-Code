@@ -2,7 +2,7 @@
 
 The times for commencing regular sessions of the district court for transacting judicial business at the places fixed by this chapter shall be determined by the rules or orders of the court. Such rules or orders may provide that at one or more of such places the court shall be in continuous session for such purposes on all business days throughout the year. At other places a session of the court shall continue for such purposes until terminated by order of final adjournment or by commencement of the next regular session at the same place.
 
-(June 25, 1948, ch. 646, 62 Stat. 897; Oct. 16, 1963, Pub. L. 88–139, §1, 77 Stat. 248.)
+(June 25, 1948, ch. 646, 62 Stat. 897; Pub. L. 88–139, §1, Oct. 16, 1963, 77 Stat. 248.)
 
 #### Historical and Revision Notes
 
@@ -10,7 +10,7 @@ The purpose of this section is to remove all doubt as to whether the mere beginn
 
 #### Amendments
 
-1963—Pub. L. 88–139 substituted provisions requiring the times for commencing regular sessions of the district court to be determined by the rules or orders of the court, authorizing such rules or orders to provide that at one or more of the places fixed by this chapter, the court shall be in continuous session on all business days throughout the year, and that at other places, a session continues until terminated by order of final adjournment or by commencement of the next regular session at the same place, for provisions that a term continues until terminated by order of final adjournment or by commencement of the next term at the same place, in the text, and “Times for holding regular sessions” for “Term continued until terminated” in section catchline.
+<b>1963</b>—Pub. L. 88–139 substituted provisions requiring the times for commencing regular sessions of the district court to be determined by the rules or orders of the court, authorizing such rules or orders to provide that at one or more of the places fixed by this chapter, the court shall be in continuous session on all business days throughout the year, and that at other places, a session continues until terminated by order of final adjournment or by commencement of the next regular session at the same place, for provisions that a term continues until terminated by order of final adjournment or by commencement of the next term at the same place, in the text, and “Times for holding regular sessions” for “Term continued until terminated” in section catchline.
 
 #### Federal Rules of Civil Procedure
 

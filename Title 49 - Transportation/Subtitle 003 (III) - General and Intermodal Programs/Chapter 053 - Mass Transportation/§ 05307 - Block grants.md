@@ -126,7 +126,7 @@ Reviews, Audits, and Evaluations.—(1)(A) At least annually, the Secretary shal
 
 (B) An audit of the use of amounts of the Government shall comply with the auditing procedures of the Comptroller General.
 
-(2) At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient's program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities are consistent with the activities proposed under subsection (d) of this sectionand the planning process required under sections 5303–5306 of this title.
+(2) At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient's program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities are consistent with the activities proposed under subsection (d) of this section and the planning process required under sections 5303–5306 of this title.
 
 (3) The Secretary may take appropriate action consistent with a review, audit, and evaluation under this subsection, including making an appropriate adjustment in the amount of a grant or withdrawing the grant.
 
@@ -360,7 +360,7 @@ The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935,
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–287 substituted “title; or” for “title;” in subpar. (A) and “transportation.” for“transportation; or” in subpar. (B) and struck out subpar. (C) which read as follows: “a recipient designated under section 5(b)(1) of the Federal Transit Act not later than January 5, 1983.”
+1996—Subsec. (a)(2). Pub. L. 104–287 substituted “title; or” for “title;” in subpar. (A) and “transportation.” for “transportation; or” in subpar. (B) and struck out subpar. (C) which read as follows: “a recipient designated under section 5(b)(1) of the Federal Transit Act not later than January 5, 1983.”
 
 1994—Subsec. (d)(1)(D). Pub. L. 103–429, §6(7)(A), substituted “section” for “chapter”.
 

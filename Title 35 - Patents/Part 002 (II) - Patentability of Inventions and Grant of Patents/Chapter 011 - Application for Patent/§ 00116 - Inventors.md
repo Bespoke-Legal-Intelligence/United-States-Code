@@ -6,7 +6,7 @@ If a joint inventor refuses to join in an application for patent or cannot be fo
 
 Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, and such error arose without any deceptive intention on his part, the Commissioner may permit the application to be amended accordingly, under such terms as he prescribes.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Aug. 27, 1982, Pub. L. 97–247, §6(a), 96 Stat. 320; Nov. 8, 1984, Pub. L. 98–622, title I, §104(a), 98 Stat. 3384.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384.)
 
 #### Historical and Revision Notes
 

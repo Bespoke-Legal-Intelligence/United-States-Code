@@ -12,10 +12,13 @@
 | [1128\.](%C2%A7%2001128%20-%20Prisoner-of-war%20medal%20issue.md) | Prisoner-of-war medal: issue. |
 | [1129\.](%C2%A7%2001129%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20action%20by%20friendly%20fire.md) | Purple Heart: members killed or wounded in action by friendly fire. |
 | [1130\.](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review%20and%20recommendation.md) | Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review and recommendation. |
+| [1131\.](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md) | Purple Heart: limitation to members of the armed forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §571(a)(2), Nov. 18, 1997, 111 Stat. 1756, added item 1131.
 
 1996—Pub. L. 104–106, div. A, title V, §526(b), Feb. 10, 1996, 110 Stat. 314, added item 1130.
 
@@ -32,6 +35,32 @@ Pub. L. 89–534, §1(2), Aug. 11, 1966, 80 Stat. 345, added item 1124, relating
 Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 1965—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
+
+#### Commendation of Members of Armed Forces and Government Civilian Personnel Who Served During Cold War
+
+Pub. L. 105–85, div. A, title X, §1084, Nov. 18, 1997, 111 Stat. 1919, provided that:
+
+“(a)
+
+Findings.—The Congress finds the following:
+
+&emsp;“(1) During the period of the Cold War, from the end of World War II until the collapse of the Soviet Union in 1991, the United States and the Soviet Union engaged in a global military rivalry.
+
+&emsp;“(2) This rivalry, potentially the most dangerous military confrontation in the history of mankind, has come to a close without a direct superpower military conflict.
+
+&emsp;“(3) Military and civilian personnel of the Department of Defense, personnel in the intelligence community, members of the foreign service, and other officers and employees of the United States faithfully performed their duties during the Cold War.
+
+&emsp;“(4) Many such personnel performed their duties while isolated from family and friends and served overseas under frequently arduous conditions in order to protect the United States and achieve a lasting peace.
+
+&emsp;“(5) The discipline and dedication of those personnel were fundamental to the prevention of a superpower military conflict.
+
+“(b)
+
+Congressional Commendation.—The Congress hereby commends the members of the Armed Forces and civilian personnel of the Government who contributed to the historic victory in the Cold War and expresses its gratitude and appreciation for their service and sacrifices.
+
+“(c)
+
+Certificates of Recognition.—The Secretary of Defense shall prepare a certificate recognizing the Cold War service of qualifying members of the Armed Forces and civilian personnel of the Department of Defense and other Government agencies contributing to national security, as determined by the Secretary, and shall provide the certificate to such members and civilian personnel upon request.”
 
 #### Ex. Ord. No. 11448. Meritorious Service Medal
 
@@ -97,7 +126,7 @@ By virtue of the authority vested in me as President of the United States of Ame
 
 Section 1. There is hereby established a Humanitarian Service Medal with accompanying ribbons and appurtenances for award by the Secretary of Defense or the Secretary of Transportation with regard to the Coast Guard when not operating as a Service in the Navy. Individuals eligible for the medal are members of the Armed Forces of the United States (including Reserve Components) who, subsequent to April 1, 1975, distinguished themselves by meritorious participation in a military act or operation of a humanitarian nature. The Secretary of Defense and the Secretary of Transportation for the Coast Guard will determine types of acts or operations that warrant award of the medal.
 
-Sec. 2. The Humanitarian Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretary of Transportation for the Coast Guard under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Humanitarian Service Medal in an order of precedence immediately after the Vietnam Service Medal.
+Sec. 2. The Humanitarian Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretaryof Transportation for the Coast Guard under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Humanitarian Service Medal in an order of precedence immediately after the Vietnam Service Medal.
 
 Sec. 3. No more than one Humanitarian Service Medal shall be awarded to any one person, but for each subsequent participation in a humanitarian act or operation justifying such an award, a suitable device may be awarded to be worn with that medal as prescribed by appropriate regulations of the Military Departments.
 
@@ -161,13 +190,13 @@ Ex. Ord. No. 12985, Jan. 11, 1996, 61 F.R. 1209, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including my authority as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is hereby established the Armed Forces Service Medal with accompanying ribbons and appurtenances, for award to members of the Armed Forces of the United States who, on or after June 1, 1992, in the opinion of the Joint Chiefs of Staff: (a) Participate, or have participated, as members of United States military units in a United States military operation in which personnel of any Armed Force participate that is deemed to be significant activity; and
+Section 1. <i>Establishment</i>. There is hereby established the Armed Forces Service Medal with accompanyingribbons and appurtenances, for award to members of the Armed Forces of the United States who, on or after June 1, 1992, in the opinion of the Joint Chiefs of Staff: (a) Participate, or have participated, as members of United States military units in a United States military operation in which personnel of any Armed Force participate that is deemed to be significant activity; and
 
 (b) Encounter no foreign armed opposition or imminent hostile action.
 
 Sec. 2. <i>Approval and Award</i>. The medal, with ribbons and appurtenances, shall be of an appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Armed Forces Service Medal in an order of precedence immediately before the Humanitarian Service Medal.
 
-Sec. 3. <i>Criteria</i>. The medal shall be awarded only for operations for which no other United States service medal is approved. For operations in which personnel of only one Military Department or the Coast Guard participate, the medal shall be awarded only if there is no other suitable award available to the department or the Coast Guard. No more than one medal shall be awarded to any one person, but for each succeeding operationjustifying such award a suitable device may be awarded to be worn on the medal or ribbon as prescribed by appropriate regulations.
+Sec. 3. <i>Criteria</i>. The medal shall be awarded only for operations for which no other United States service medal is approved. For operations in which personnel of only one Military Department or the Coast Guard participate, the medal shall be awarded only if there is no other suitable award available to the department or the Coast Guard. No more than one medal shall be awarded to any one person, but for each succeeding operation justifying such award a suitable device may be awarded to be worn on the medal or ribbon as prescribed by appropriate regulations.
 
 Sec. 4. <i>Posthumous Provision</i>. The medal may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense or the Secretary of Transportation.
 
@@ -198,3 +227,4 @@ Particular provisions relating to—
 - [&sect; 01128 - Prisoner-of-war medal issue](%C2%A7%2001128%20-%20Prisoner-of-war%20medal%20issue.md)
 - [&sect; 01129 - Purple Heart members killed or wounded in action by friendly fire](%C2%A7%2001129%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20action%20by%20friendly%20fire.md)
 - [&sect; 01130 - Consideration of proposals for decorations not previously submitted in timely fashion procedures for review and recommendation](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review%20and%20recommendation.md)
+- [&sect; 01131 - Purple Heart limitation to members of the armed forces](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md)

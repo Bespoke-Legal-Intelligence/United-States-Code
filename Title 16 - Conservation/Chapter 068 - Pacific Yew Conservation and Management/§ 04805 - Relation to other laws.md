@@ -6,7 +6,7 @@ Nothing in this chapter shall be interpreted as modifying the provisions of the 
 
 #### References in Text
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in text, is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which isclassified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in text, is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 The Federal Land Policy and Management Act of 1976, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 

@@ -12,7 +12,7 @@ A claim in multiple dependent form shall contain a reference, in the alternative
 
 An element in a claim for a combination may be expressed as a means or step for performing a specified function without the recital of structure, material, or acts in support thereof, and such claim shall be construed to cover the corresponding structure, material, or acts described in the specification and equivalents thereof.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; July 24, 1965, Pub. L. 89–83, §9, 79 Stat. 261; Nov. 14, 1975, Pub. L. 94–131, §7, 89 Stat. 691.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 89–83, §9, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §7, Nov. 14, 1975, 89 Stat. 691.)
 
 #### Historical and Revision Notes
 

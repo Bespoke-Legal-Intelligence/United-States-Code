@@ -24,7 +24,7 @@ If the Secretary has reason to believe that any marking or labeling or the size 
 
 The Secretary, consistent with United States international obligations, shall establish standards for the labeling of sheep carcasses, parts of sheep carcasses, sheepmeat, and sheepmeat food products.
 
-(Mar. 4, 1907, ch. 2907, title I, §7, formerly 5th par., 34 Stat. 1262; renumbered §7 and amended Dec. 15, 1967, Pub. L. 90–201, §§1, 3(a), 6, 81 Stat. 584, 588; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Apr. 4, 1996, Pub. L. 104–127, title II, §279, 110 Stat. 979.)
+(Mar. 4, 1907, ch. 2907, title I, §7, formerly 5th par., 34 Stat. 1262; renumbered §7 and amended Pub. L. 90–201, §§1, 3(a), 6, Dec. 15, 1967, 81 Stat. 584, 588; Pub. L. 96–88, title V, §509(b), Oct. 17,1979, 93 Stat. 695; Pub. L. 104–127, title II, §279, Apr. 4, 1996, 110 Stat. 979.)
 
 #### References in Text
 

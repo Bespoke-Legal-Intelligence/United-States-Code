@@ -8,3 +8,7 @@ Notwithstanding any other provision of law, the provisions of subsections (f) an
 
 Section was enacted as part of the Supplemental Appropriations Act, 1985, and not as part of the Food Stamp Act of 1977 which comprises this chapter.
 
+#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+
+Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of Title 42, The Public Health and Welfare.
+

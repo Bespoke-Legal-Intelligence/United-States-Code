@@ -16,7 +16,7 @@ The determinations and decisions provided in subsection (a) of this section to b
 
 The power of the Agency head to make the determinations or decisions specified in paragraphs (12) and (15) of section 2304(a) and section 2307(a) of title 10 <sup>1</sup> shall not be delegable. Each determination or decision required by paragraphs (12) and (15) of section 2304(a), by sections 2306 and 2313, or by section 2307(a) of title 10,<sup>1</sup> shall be based upon written findings made by the official making such determinations, which findings shall be final and shall be available within the Agency for a period of at least six years following the date of the determination.
 
-(June 20, 1949, ch. 227, §3, 63 Stat. 208; Sept. 27, 1982, Pub. L. 97–269, title V, §502(a), 96 Stat. 1145; Feb. 10, 1996, Pub. L. 104–106, div. E, title LVI, §5607(f), 110 Stat. 702.)
+(June 20, 1949, ch. 227, §3, 63 Stat. 208; Pub. L. 97–269, title V, §502(a), Sept. 27, 1982, 96 Stat. 1145; Pub. L. 104–106, div. E, title LVI, §5607(f), Feb. 10, 1996, 110 Stat. 702.)
 
 #### Codification
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–269 effective Sept. 27, 1982, see section 703 of Pub. L. 97–269 set out as an Effective Date note under section 202 of Title 10, Armed Forces.
+Section 703 of title VII of Pub. L. 97–269 provided that: “The provisions of titles IV and V \[enacting former section 202 of Title 10, Armed Forces, and amending this section\] and of this title \[which, except for enacting this note was note classified to the Code\] shall become effective upon the date of the enactment of this Act \[Sept. 27, 1982\].”
 
 #### Procurement of Automatic Data Processing Equipment or Services; Contracts Made Before September 27, 1982
 

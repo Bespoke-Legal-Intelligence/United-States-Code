@@ -18,7 +18,7 @@ The provisions including penalties, of sections 49 and 50 of title 15, shall be 
 
 The Secretary of the Treasury is authorized to require, in such manner and form as he shall prescribe, such reports as are necessary to carry out his powers and duties under this chapter.
 
-(Aug. 29, 1935, ch. 814, title I, §102, formerly §2, 49 Stat. 977; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 7, 1946, ch. 770, §1(46), 60 Stat. 870; renumbered title I, §102, Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(1), (2), 102 Stat. 4517.)
+(Aug. 29, 1935, ch. 814, title I, §102, formerly §2, 49 Stat. 977; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 7, 1946, ch. 770, §1(46), 60 Stat. 870; renumbered title I, §102, Pub. L. 100–690, title VIII, §8001(a)(1), (2), Nov. 18, 1988, 102 Stat. 4517.)
 
 #### Codification
 

@@ -24,7 +24,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 &emsp;&emsp;(B) to train personnel to carry out the activities referred to in subparagraph (A).
 
-(Added Pub. L. 98–94, title XII, §1203(a)(1), Sept. 24, 1983, 97 Stat. 682, §139c; renumbered §2434 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(15), (g)(9), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–661, div. A, title XII, §1208(a)–(c)(1), Nov. 14, 1986, 100 Stat. 3975; Pub. L. 100–26, §7(b)(5), Apr. 21, 1987, 101 Stat. 279; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title V, §525, Sept. 29, 1988, 102 Stat. 1975; Pub. L. 102–190, div. A, title VIII, §801(a), (b)(1), Dec. 5, 1991, 105 Stat. 1412; Pub. L. 103–355, title III, §3004, Oct. 13, 1994, 108 Stat. 3330; Pub. L. 104–106, div. A, title VIII, §814, Feb. 10, 1996, 110 Stat. 395.)
+(Added Pub. L. 98–94, title XII, §1203(a)(1), Sept. 24, 1983, 97 Stat. 682, §139c; renumbered §2434 andamended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(15), (g)(9), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–661, div. A, title XII, §1208(a)–(c)(1), Nov. 14, 1986, 100 Stat. 3975; Pub. L. 100–26, §7(b)(5), Apr. 21, 1987, 101 Stat. 279; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title V, §525, Sept. 29, 1988, 102 Stat. 1975; Pub. L. 102–190, div. A, title VIII, §801(a), (b)(1), Dec. 5, 1991, 105 Stat. 1412; Pub. L. 103–355, title III, §3004, Oct. 13, 1994, 108 Stat. 3330; Pub. L. 104–106, div. A, title VIII, §814, Feb. 10, 1996, 110 Stat. 395.)
 
 #### Amendments
 

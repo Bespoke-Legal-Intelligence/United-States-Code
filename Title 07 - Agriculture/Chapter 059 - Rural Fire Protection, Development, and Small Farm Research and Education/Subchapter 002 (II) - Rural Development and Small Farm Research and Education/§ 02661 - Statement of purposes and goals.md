@@ -16,7 +16,7 @@
 
 &emsp;(1) encourage and support rural United States, in order to help make it a better place to live, work, and enjoy life;
 
-&emsp;(2) increase income and improve employment for persons in rural areas, including theowners or operators of small farms, small businesses, and rural youth;
+&emsp;(2) increase income and improve employment for persons in rural areas, including the owners or operators of small farms, small businesses, and rural youth;
 
 &emsp;(3) improve the quality and availability of essential community services and facilities in rural areas;
 
@@ -138,7 +138,7 @@ Meetings.—
 
 &emsp;“(1)
 
-First meetings.—Five or more members appointed under subsection (a)(1) shall determine the date, time, and place of the first meeting, and shall call the first meeting. At the first meeting, the members of the Commission shall appoint a chairperson from among the members appointed under subsection\(a)(1). The first meeting of the Commission shall be held not later than 45 days after the date of enactment of this Act \[Aug. 26, 1994\].
+First meetings.—Five or more members appointed under subsection (a)(1) shall determine the date, time, and place of the first meeting, and shall call the first meeting. At the first meeting, the members of the Commission shall appoint a chairperson from among the members appointed under subsection (a)(1). The first meeting of the Commission shall be held not later than 45 days after the date of enactment of this Act \[Aug. 26, 1994\].
 
 &emsp;“(2)
 
@@ -246,7 +246,7 @@ Members Appointed by the Secretary.—Each member appointed by the Secretary of 
 
 “(c)
 
-Travel and Other Expenses.—Each member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I ofchapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of services for the Commission. Each member of the Commission shall also be reimbursed by the United States Government for other necessary expenses incurred by the member in the performance of the duties of the member.
+Travel and Other Expenses.—Each member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of services for the Commission. Each member of the Commission shall also be reimbursed by the United States Government for other necessary expenses incurred by the member in the performance of the duties of the member.
 
 #### “SEC. 9. POWERS AND ADMINISTRATIVE PROVISIONS.
 
@@ -272,7 +272,7 @@ Hearings.—The Commission or, on the authorization of the Commission, a member 
 
 “(f)
 
-Information.—The Commission may acquire directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality, information, suggestions, estimates, and statistics for the purpose of this Act. Each department, bureau, agency, board, commission, office, establishment, or instrumentality shall provide, to the extent permitted by law, the information, suggestions, estimates, and statistics directly to the Commission, upon request by the chairperson.
+Information.—The Commission may acquire directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality, information, suggestions, estimates, and statistics for the purpose of this Act. Eachdepartment, bureau, agency, board, commission, office, establishment, or instrumentality shall provide, to the extent permitted by law, the information, suggestions, estimates, and statistics directly to the Commission, upon request by the chairperson.
 
 “(g)
 

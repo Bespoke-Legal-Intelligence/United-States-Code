@@ -40,7 +40,7 @@
 
 #### Amendment of Subsection (b)
 
-<i>Pub. L. 104–150, §2(b)(2), (3), June 3, 1996, 110 Stat. 1380, provided that, effective Oct. 1, 1999,</i><i>subsection (b)(2)(B) is amended by inserting “and” after the semicolon in clause (iv), by striking out clause (v), and by redesignating clause (vi) as (v).</i>
+<i>Pub. L. 104–150, §2(b)(2), (3), June 3, 1996, 110 Stat. 1380, provided that, effective Oct. 1, 1999, subsection (b)(2)(B) is amended by inserting “and” after the semicolon in clause (iv), by striking out clause (v), and by redesignating clause (vi) as (v).</i>
 
 #### Amendments
 

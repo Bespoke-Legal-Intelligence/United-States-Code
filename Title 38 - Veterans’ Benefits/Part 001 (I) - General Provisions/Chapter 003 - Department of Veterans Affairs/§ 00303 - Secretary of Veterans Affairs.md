@@ -1,6 +1,6 @@
 ### §303. Secretary of Veterans Affairs
 
-There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
+There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice andconsent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 379.)
 

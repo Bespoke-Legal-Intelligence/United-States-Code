@@ -16,7 +16,7 @@ The President shall transmit to the Congress not later than January 20 of each y
 
 #### (b) Appendix to report
 
-The President also shall transmit simultaneously as an appendix to such annual report, a report, by agency and department, on the total dollar value of all Federal contracts exceeding $10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned and female-owned businesses.
+The President also shall transmit simultaneously as an appendix to such annual report, a report, by agency and department, on the total dollar value of all Federal contracts exceeding $10,000 in amount and the dollar amount (including the subcontracts thereunder in excess of $10,000) awarded to small, minority-owned, female-owned, and veteran-owned businesses.
 
 #### (c) Supplementary reports
 
@@ -30,21 +30,23 @@ The Report on Small Business and Competition and all supplementary reports trans
 
 The information and data required to be reported pursuant to subsection (a) of this section shall separately detail those portions of such information and data that are relevant to—
 
-&emsp;(1) small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, as defined pursuant to section 637(d) of this title; and
+&emsp;(1) small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, as defined pursuant to section 637(d) of this title;
 
-&emsp;(2) small business concerns owned and controlled by women.
+&emsp;(2) small business concerns owned and controlled by women; and
 
-(Pub. L. 96–302, title III, §303, July 2, 1980, 94 Stat. 848; Pub. L. 100–533, title V, §503, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 100–590, title I, §124, Nov. 3, 1988, 102 Stat. 3000; Pub. L. 101–574, title III, §305, Nov. 15, 1990, 104 Stat. 2829.)
+&emsp;(3) qualified HUBZone small business concern (as defined in section 632(p) of this title).
+
+(Pub. L. 96–302, title III, §303, July 2, 1980, 94 Stat. 848; Pub. L. 100–533, title V, §503, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 100–590, title I, §124, Nov. 3, 1988, 102 Stat. 3000; Pub. L. 101–574, title III, §305, Nov. 15, 1990, 104 Stat. 2829; Pub. L. 105–135, title VI, §604(c), title VII, §705, Dec. 2, 1997, 111 Stat. 2633, 2637.)
 
 #### References in Text
 
 The Internal Revenue Code, referred to in subsec. (a)(4), is classified to Title 26, Internal Revenue Code.
 
-The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For completeclassification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B\(§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Codification
 
@@ -52,9 +54,17 @@ Section was enacted as part of the Small Business Economic Policy Act of 1980, a
 
 #### Amendments
 
+1997—Subsec. (b). Pub. L. 105–135, §705, substituted “, female-owned, and veteran-owned businesses” for “and female-owned businesses”.
+
+Subsec. (e)(3). Pub. L. 105–135, §604(c), added par. (3).
+
 1990—Subsec. (a)(2). Pub. L. 101–574 added par. (2) and struck out former par. (2) which read as follows: “present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;”.
 
 1988—Subsec. (e). Pub. L. 100–533 and Pub. L. 100–590 added subsecs. (e) which were identical, except that the subsec. (e) added by Pub. L. 100–533, which is set out as text of this section, contained the phrase “, by gender,” in par. (1).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
 
 #### Effective Date
 

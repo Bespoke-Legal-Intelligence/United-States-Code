@@ -6,7 +6,7 @@ Whoever, being a Postal Service officer or employee in any post office or statio
 
 Shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 780; Aug. 12, 1970, Pub. L. 91–375, §6(j)(22), 84 Stat. 779; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 780; Aug. 12, 1970, Pub. L. 91–375, §6(j)(22), 84 Stat. 779; Sept. 13,1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

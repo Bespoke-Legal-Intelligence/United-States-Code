@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 100–42, §1(c)(7)(C), amended subsec. (b) generally. Prio
 
 Subsec. (c)(1). Pub. L. 100–42, §1(c)(7)(A), in introductory provisions struck out “or (g)” after “section 8322(c)”.
 
-#### Exemption 7Efor7E Certain7E Electric7E Powerplants7E as Effective Prior to 180 Days After November 9, 1978
+#### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 
 For effectiveness of exemption for certain electric powerplants as prior to 180 days after Nov. 9, 1978, see section 902(a) of Pub. L. 95–620, set out as a note under section 8301 of this title.
 

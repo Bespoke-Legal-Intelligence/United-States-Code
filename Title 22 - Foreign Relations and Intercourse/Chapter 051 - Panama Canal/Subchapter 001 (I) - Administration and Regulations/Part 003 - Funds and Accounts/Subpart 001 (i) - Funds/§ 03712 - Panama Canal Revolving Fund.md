@@ -1,0 +1,106 @@
+### §3712. Panama Canal Revolving Fund
+
+#### (a) Establishment
+
+There is established in the Treasury of the United States a revolving fund to be known as “Panama Canal Revolving Fund”. The Panama Canal Revolving Fund shall, subject to subsection (b) of this section, be available to the Commission to carry out the purposes, functions, and powers authorized by this chapter, including for the following purposes:
+
+&emsp;(1) The hire of passenger motor vehicles and aircraft.
+
+&emsp;(2) Uniforms or allowances therefor.
+
+&emsp;(3) Official receptions and representation expenses of the Board, the Secretary of the Commission, and the Administrator.
+
+&emsp;(4) The operation of guide services.
+
+&emsp;(5) A residence for the Administrator.
+
+&emsp;(6) Disbursements by the Administrator for employee and community projects.
+
+&emsp;(7) The procurement of expert and consultant services.
+
+&emsp;(8) Promotional activities, including the preparation, distribution, or use of any kit, pamphlet, booklet, publication, radio, television, film, or other media presentation designed to promote the Panama Canal as a resource of the world shipping industry.
+
+&emsp;(9) The purchase and transportation to the Republic of Panama of passenger motor vehicles, including large, heavy-duty vehicles.
+
+&emsp;(10) Payment to the Panama Canal Authority, not later than the Canal Transfer Date, of such amount as is computed by the Commission to be the future amount of severance pay to be paid by the Panama Canal Authority to employees whose employment with the Authority is terminated, to the extent that such severance pay is attributable to periods of service performed with the Commission before the Canal Transfer Date (and assuming for purposes of such computation that the Panama Canal Authority, in paying severance pay to terminated employees, will provide for crediting of periods of service with the Commission).
+
+#### (b) Tolls and other receipts into Panama Canal Revolving Fund; restriction on use of funds
+
+(1) There shall be deposited in the Panama Canal Revolving Fund, on a continuing basis, toll receipts (other than amounts of toll receipts deposited into the Panama Canal Commission Dissolution Fund under section 3714a of this title) and all other receipts of the Commission. Except as provided in section 3713 of this title, no funds may be obligated or expended by the Commission in any fiscal year unless such obligation or expenditure has been specifically authorized by law.
+
+(2) No funds may be authorized for the use of the Commission, or obligated or expended by the Commission in any fiscal year; in excess of—
+
+&emsp;(A) the amount of revenues deposited in the Panama Canal Revolving Fund and the Panama Canal Commission Dissolution Fund during such fiscal year; plus
+
+&emsp;(B) the amount of revenues deposited in the Panama Canal Revolving Fund before such fiscal year and remaining unobligated at the beginning of such fiscal year; plus
+
+&emsp;(C) the $100,000,000 borrowing authority provided for in section 3714 of this title.
+
+> Not later than 30 days after the end of each fiscal year, the Secretary of the Treasury shall report to the Congress the amount of revenues deposited in the Panama Canal Revolving Fund during such fiscal year.
+
+#### (c) Authority of Commission to make deposits
+
+With the approval of the Secretary of the Treasury, the Commission may deposit amounts in the Panama Canal Revolving Fund in any Federal Reserve bank, any depositary for public funds, or such other place and in such manner as the Commission and the Secretary may agree.
+
+#### (d) Costs of implementation
+
+(1) It is the sense of the Congress that the additional costs resulting from the implementation of the Panama Canal Treaty of 1977 and related agreements should be kept to the absolute minimum level. To this end, the Congress declares appropriated costs of implementation to be borne by the taxpayers over the life of such Treaty should be kept to a level no greater than the March 1979 estimate of those costs ($870,700,000) presented to the Congress by the executive branch during consideration of this chapter by the Congress, less personnel retirement costs of $205,000,000, which were subtracted and charged to tolls, therefore resulting in net taxpayer cost of approximately $665,700,000, plus appropriate adjustments for inflation.
+
+(2) It is further the sense of the Congress that the actual costs of implementation be consistent with the obligations of the United States to operate the Panama Canal safely and efficiently and keep it secure.
+
+(Pub. L. 96–70, title I, §1302, Sept. 27, 1979, 93 Stat. 477; Pub. L. 99–195, §1(a), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, §5422(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–271, 1330–272; Pub. L. 100–705, §9, Nov. 19, 1988, 102 Stat. 4687; Pub. L. 102–484, div. C, title XXXV, §3521(b)(1), Oct. 23, 1992, 106 Stat. 2657; Pub. L. 104–106, div. C, title XXXV, §3525, Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §3539, Sept. 23, 1996, 110 Stat. 2865; Pub. L. 105–85, div. C, title XXXV, §3528, Nov. 18, 1997, 111 Stat. 2069.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (d)(1), was in the original “this Act”, meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85, §3528(b)(1), substituted “for the following purposes:” for “for—” in introductory provisions.
+
+Subsec. (a)(1) to (7). Pub. L. 105–85, §3528(b)(2), (3), capitalized initial letter of first word and substituted a period for the semicolon at end.
+
+Subsec. (a)(8). Pub. L. 105–85, §3528(b)(2), (4), capitalized initial letter of first word and substituted “industry.” for “industry; and”.
+
+Subsec. (a)(9). Pub. L. 105–85, §3528(b)(2), capitalized initial letter of first word.
+
+Subsec. (a)(10). Pub. L. 105–85, §3528(a), added par. (10).
+
+1996—Pub. L. 104–201 amended section generally, reenacting section catchline without change, revisingand restating former subsecs. (a)(1), (c), (d), and (f) as subsecs. (a) to (d), and striking out provisions of former subsecs. (a)(2), (b), and (e), which related to termination of the Fund, transfer of funds, and congressional review of Commission budgets.
+
+Subsec. (c)(1). Pub. L. 104–106, §3525(1)(A), struck out “and subject to paragraph (2)” after “section 3713 of this title”.
+
+Subsec. (c)(2), (3). Pub. L. 104–106, §3525(1)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “No funds may be obligated or expended by the Commission in any fiscal year for administrative expenses except to the extent or in such amounts as are provided in appropriations Acts.”
+
+Subsec. (e). Pub. L. 104–106, §3525(2), added subsec. (e) and struck out former subsec. (e) which read as follows: “The Committee on Appropriations of each House of Congress shall review the annual budget of the Commission, including operations and capital expenditures.”
+
+1992—Subsec. (c)(1). Pub. L. 102–484, §3521(b)(1)(A), inserted “(other than amounts of toll receipts deposited into the Panama Canal Commission Dissolution Fund under section 3714a of this title)” after “toll receipts”.
+
+Subsec. (c)(3)(A). Pub. L. 102–484, §3521(b)(1)(B), inserted “and the Panama Canal Dissolution Fund” after “Panama Canal Revolving Fund”.
+
+1988—Subsecs. (e), (f). Pub. L. 100–705 redesignated subsec. (e), relating to costs of implementation, as (f).
+
+1987—Pub. L. 100–203, §5422(b)(1), substituted “Panama Canal Revolving Fund” for “Panama Canal Commission Fund” in section catchline.
+
+Subsecs. (a) to (d). Pub. L. 100–203, §5422(a), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to termination of Panama Canal Company Fund on Oct. 1, 1979, subsequent deposit of tolls and other receipts into Panama Canal Commission Fund, restriction on use of funds, and authority of the Commission to enter into contracts, respectively.
+
+Subsec. (e). Pub. L. 100–203, §5422(a), added subsec. (e), directing Appropriations Committee of each House to review annual budget of the Commission.
+
+1985—Subsec. (b). Pub. L. 99–195 provided for deposit of interest receipts as miscellaneous receipts.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–705 effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as a note under section 3612 of this title.
+
+#### Effective Date of 1987 Amendment
+
+Section 5429 of Pub. L. 100–203 provided that: “This part and the amendments made by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988.”
+
+#### Effective Date of 1985 Amendment
+
+Section 2 of Pub. L. 99–195 provided that: “The amendments made by this Act \[amending this section and section 3793 of this title\] shall apply only to tolls and other receipts of the Commission deposited in the Treasury on or after the date of the enactment of this Act \[Dec. 23, 1985\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3713, 3751 of this title.
+

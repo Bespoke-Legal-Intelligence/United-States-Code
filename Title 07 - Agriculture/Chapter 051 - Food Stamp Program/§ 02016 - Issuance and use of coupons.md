@@ -2,7 +2,7 @@
 
 #### (a) Printing
 
-Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
+Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
 
 #### (b) Approved food stores; receipt of cash in change for coupons used to purchase food
 
@@ -14,7 +14,7 @@ Coupons issued to eligible households shall be simple in design and shall includ
 
 #### (d) Coupon level inventories; monitorship; monthly operations report
 
-The Secretary shall develop an appropriate procedure for determining and monitoring the level of coupon inventories in the hands of coupon issuers for the purpose of providing that such inventories are at proper levels (taking into consideration the historical and projected volume of coupon distribution by such issuers). Such procedures shall provide that coupon inventories in the hands of such issuers are not in excess of the reasonable needs of such issuers taking into consideration the ease with which such coupon inventories may be resupplied. The Secretary shall require each coupon issuer at intervals prescribed by the Secretary, but not less often than monthly, to send to the Secretary or the Secretary's designee, which may include the State agency, a written report of the issuer's operations during such period. In addition to other information deemed by the Secretary to be appropriate, the Secretary shall require that the report contain an oath, or affirmation, signed by the coupon issuer, or in the case of a corporation or other entity not a natural person, by an appropriate official of the coupon issuer, certifying that the information contained in the report is true and correct to the best of such person's knowledge and belief.
+The Secretary shall develop an appropriate procedure for determining and monitoring the level of coupon inventories in the hands of coupon issuers for the purpose of providing that such inventories are at proper levels (taking into consideration the historical and projected volume of coupon distribution by such issuers). Such procedures shall provide that coupon inventories in the hands of such issuers are not in excess of the reasonable needs of such issuers taking into consideration the ease with whichsuch coupon inventories may be resupplied. The Secretary shall require each coupon issuer at intervals prescribed by the Secretary, but not less often than monthly, to send to the Secretary or the Secretary's designee, which may include the State agency, a written report of the issuer's operations during such period. In addition to other information deemed by the Secretary to be appropriate, the Secretary shall require that the report contain an oath, or affirmation, signed by the coupon issuer, or in the case of a corporation or other entity not a natural person, by an appropriate official of the coupon issuer, certifying that the information contained in the report is true and correct to the best of such person's knowledge and belief.
 
 #### (e) Delivery and control procedures
 
@@ -148,7 +148,7 @@ Company.—The term “company” has the meaning provided the term in section 1
 
 &emsp;&emsp;(iii)
 
-Electronic benefit transfer service.—The term “electronic benefit transferservice” means the processing of electronic transfers of household benefits, determined under section 2017(a) or 2035 of this title, if the benefits are—
+Electronic benefit transfer service.—The term “electronic benefit transfer service” means the processing of electronic transfers of household benefits, determined under section 2017(a) or 2035 of this title, if the benefits are—
 
 &emsp;&emsp;&emsp;(I) issued from and stored in a central databank;
 
@@ -172,13 +172,61 @@ Restrictions.—A company may not sell or provide electronic benefit transfer se
 
 Consultation with the federal reserve board.—Before promulgating regulations or interpretations of regulations to carry out this paragraph, the Secretary shall consult with the Board of Governors of the Federal Reserve System.
 
-(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324.)
+#### (j) State option to issue benefits to certain individuals made ineligible by welfare reform
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of law, a State agency may, with the approval of the Secretary, issue benefits under this chapter to an individual who is ineligible to participate in the food stamp program solely as a result of section 2015(<i>o</i>)(2) of this title or section 1612 or 1613 of title 8.
+
+#### (2) State payments to Secretary
+
+#### (A) In general
+
+&emsp;&emsp;Not later than the date the State agency issues benefits to individuals under this subsection, the State agency shall pay the Secretary, in accordance with procedures established by the Secretary, an amount that is equal to—
+
+&emsp;&emsp;&emsp;(i) the value of the benefits; and
+
+&emsp;&emsp;&emsp;(ii) the costs of printing, shipping, and redeeming coupons, and other Federal costs, incurred in providing the benefits, as determined by the Secretary.
+
+#### (B) Crediting
+
+&emsp;&emsp;Notwithstanding section 3302(b) of title 31, payments received under subparagraph (A) shall be credited to the food stamp program appropriation account or the account from which the costs were drawn, as appropriate, for the fiscal year in which the payment is received.
+
+#### (3) Reporting
+
+&emsp;To be eligible to issue benefits under this subsection, a State agency shall comply with reporting requirements established by the Secretary to carry out this subsection.
+
+#### (4) Plan
+
+&emsp;To be eligible to issue benefits under this subsection, a State agency shall—
+
+&emsp;&emsp;(A) submit a plan to the Secretary that describes the conditions and procedures under which the benefits will be issued, including eligibility standards, benefit levels, and the methodology the State agency will use to determine amounts due the Secretary under paragraph (2); and
+
+&emsp;&emsp;(B) obtain the approval of the Secretary for the plan.
+
+#### (5) Violations
+
+&emsp;A sanction, disqualification, fine, or other penalty prescribed under Federal law (including sections 2021 and 2024 of this title) shall apply to a violation committed in connection with a coupon issued under this subsection.
+
+#### (6) Ineligibility for administrative reimbursement
+
+&emsp;Administrative and other costs incurred in issuing a benefit under this subsection shall not be eligible for Federal funding under this chapter.
+
+#### (7) Exclusion from enhanced payment accuracy systems
+
+&emsp;Section 2025(c) of this title shall not apply to benefits issued under this subsection.
+
+(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216.)
 
 #### References in Text
 
 Section 2020(e)(20) of this title, referred to in subsec. (f), was redesignated section 2020(e)(19) of this title by Pub. L. 104–193, title VIII, §835(1)(D)(i), Aug. 22, 1996, 110 Stat. 2330.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–18, title VII, \[(a)(1)\], inserted “(except as provided in subsection (j) of this section)” after “necessary, and”.
+
+Subsec. (j). Pub. L. 105–18, title VII, \[(a)(2)\], added subsec. (j).
 
 1996—Subsec. (i). Pub. L. 104–193, §825(a)(1), inserted subsec. heading.
 
@@ -214,7 +262,7 @@ Subsec. (h). Pub. L. 99–198, §1518, added subsec. (h).
 
 Subsec. (g). Pub. L. 97–253, §162, added subsec. (g).
 
-1981—Subsec. (f). Pub. L. 97–98 substituted “strictly liable” for “responsible” and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
+1981—Subsec. (f). Pub. L. 97–98 substituted “strictly liable” for “responsible” and inserted provision including any losses involving failure of a coupon issuer tocomply with the requirements of section 2020(e)(21) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
 
 1977—Pub. L. 95–113 substituted revised provisions relating to issuance and use of coupons for provisions relating to value of the coupon allotment which are now covered by section 2017 of this title.
 
@@ -226,7 +274,7 @@ Pub. L. 93–86 substituted provisions relating to determination of semiannual a
 
 1971—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted “any” before “households”.
 
-Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments withoutcharge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
+Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 
 #### Effective Date of 1990 Amendment
 

@@ -8,7 +8,7 @@
 
 #### (2) One percent allotment for certain territories and possessions
 
-&emsp;Of the funds allocated by the Corporation for provision of assistance under subsections (a) and (b) of section 12571 of this title for a fiscal year, the Corporation shall reserve 1 percent of the allocated funds for grants under section 12571(a) of this title to the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands upon approval of an application by the Corporation under section 12585 of this title. Palau shall also be eligible for a grant under this paragraph from the allotment until such time as the Compact of Free Association with Palau is ratified. The amount allotted as a grant to each such territory or possession under this paragraph for a fiscal year shall be equal to the amount that bears the same ratio to 1 percent of the allocated funds for that fiscal year as the population of the territory or possession bears to the total population of such territories and possessions.
+&emsp;Of the funds allocated by the Corporation for provision of assistance under subsections (a)and (b) of section 12571 of this title for a fiscal year, the Corporation shall reserve 1 percent of the allocated funds for grants under section 12571(a) of this title to the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands upon approval of an application by the Corporation under section 12585 of this title. Palau shall also be eligible for a grant under this paragraph from the allotment until such time as the Compact of Free Association with Palau is ratified. The amount allotted as a grant to each such territory or possession under this paragraph for a fiscal year shall be equal to the amount that bears the same ratio to 1 percent of the allocated funds for that fiscal year as the population of the territory or possession bears to the total population of such territories and possessions.
 
 #### (3) One percent allotment for Indian tribes
 
@@ -52,7 +52,7 @@ From amounts appropriated for a fiscal year pursuant to the authorization of app
 
 #### (A) Reservation
 
-&emsp;&emsp;From amounts appropriated for a fiscal year pursuant to the authorization of appropriation in section 12681(a)(2) of this title, and subject to the limitation in such section, the Chief Executive Officer shall reserve an amount that is not less than 1 percent of such amounts (except that theamount reserved may not exceed $5,000,000), in order to make supplemental grants as provided in subparagraph (B) and outreach grants as provided in subparagraph (C). The amount reserved pursuant to this paragraph shall be available until expended.
+&emsp;&emsp;From amounts appropriated for a fiscal year pursuant to the authorization of appropriation in section 12681(a)(2) of this title, and subject to the limitation in such section, the Chief Executive Officer shall reserve an amount that is not less than 1 percent of such amounts (except that the amount reserved may not exceed $5,000,000), in order to make supplemental grants as provided in subparagraph (B) and outreach grants as provided in subparagraph (C). The amount reserved pursuant to this paragraph shall be available until expended.
 
 #### (B) Grants to assist entities in placing applicants who are individuals with a disability
 

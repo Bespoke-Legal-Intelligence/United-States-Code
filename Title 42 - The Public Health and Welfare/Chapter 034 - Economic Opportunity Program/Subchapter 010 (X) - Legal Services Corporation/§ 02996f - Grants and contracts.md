@@ -70,9 +70,11 @@ No funds made available by the Corporation under this subchapter, either by gran
 
 &emsp;(8) to provide legal assistance with respect to any proceeding or litigation which seeks to procure a nontherapeutic abortion or to compel any individual or institution to perform an abortion, or assist in the performance of an abortion, or provide facilities for the performance of an abortion, contrary to the religious beliefs or moral convictions of such individual or institution;
 
-&emsp;(9) to provide legal assistance with respect to any proceeding or litigation relating to the desegregation of any elementary or secondary school or school system, except that nothing in this paragraph shall prohibit the provision of legal advice to an eligible client with respect to such client's legal rights and responsibilities; or
+&emsp;(9) to provide legal assistance with respect to any proceeding or litigation relating to the desegregation of any elementary or secondary school or school system, except that nothing in this paragraph shall prohibit the provision of legal advice to an eligible client with respect to such client's legal rights and responsibilities;
 
-&emsp;(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 App. U.S.C. 451 et seq.\] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law.
+&emsp;(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 App. U.S.C. 451 et seq.\] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
+
+&emsp;(11) to provide legal assistance in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
 
 #### (c) Recipient organizations
 
@@ -92,7 +94,7 @@ At least thirty days prior to the approval of any grant application or prior to 
 
 #### (g) Staff-attorney program study
 
-The Corporation shall provide for comprehensive, independent study of the existing staff-attorney program under this chapter and, through the use of appropriate demonstration projects, of alternative and supplemental methods of delivery of legal services to eligible clients, including judicare, vouchers, prepaid legal insurance, and contracts with law firms; and, basedupon the results of such study, shall make recommendations to the President and the Congress, not later than two years after the first meeting of the Board, concerning improvements, changes, or alternative methods for the economical and effective delivery of such services.
+The Corporation shall provide for comprehensive, independent study of the existing staff-attorney program under this chapter and, through the use of appropriate demonstration projects, of alternative and supplemental methods of delivery of legal services to eligible clients, including judicare, vouchers, prepaid legal insurance, and contracts with law firms; and, based upon the results of such study, shall make recommendations to the President and the Congress, not later than two years after the first meeting of the Board, concerning improvements, changes, or alternative methods for the economical and effective delivery of such services.
 
 #### (h) Study and report to Congress on special needs of eligible clients
 
@@ -110,15 +112,19 @@ The Corporation shall conduct a study on whether eligible clients who are—
 
 > have special difficulties of access to legal services or special legal problems which are not being met. The Corporation shall report to Congress not later than January 1, 1979, on the extent and nature of any such problems and difficulties and shall include in the report and implement appropriate recommendations.
 
-(Pub. L. 88–452, title X, §1007, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 383; amended Pub. L. 95–222, §§7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, 91 Stat. 1620–1623.)
+(Pub. L. 88–452, title X, §1007, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 383; amended Pub. L. 95–222, §§7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, 91 Stat. 1620–1623; Pub. L. 105–12, §9(<i>o</i>), Apr. 30, 1997, 111 Stat. 28.)
 
 #### References in Text
 
 The Military Selective Service Act, referred to in subsec. (b)(10), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix and Tables.
 
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (b)(11), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
+
 Section 2809 of this title, referred to in subsec. (c), was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
 #### Amendments
+
+1997—Subsec. (b)(11). Pub. L. 105–12 added par. (11).
 
 1977—Subsec. (a)(2)(B)(iv). Pub. L. 95–222, §9(a), substituted provisions setting forth factors which may be included in determining financial ability, for provisions setting forth factors required to be included in determining financial ability.
 
@@ -136,6 +142,10 @@ Subsec. (f). Pub. L. 95–222, §12, inserted provision requiring notice to prin
 
 Subsec. (h). Pub. L. 95–222, §13, added subsec. (h).
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, and also subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
+
 #### Effective Date of 1977 Amendment
 
 Amendment by sections 7(b), 9(a), (b)(1), (c), 10, 12, and 13 of Pub. L. 95–222 effective Dec. 28, 1977, see section 17(b) of Pub. L. 95–222, set out as a note under section 2996 of this title.
@@ -146,7 +156,7 @@ Section 17(a)(1) of Pub. L. 95–222 provided that: “The amendment made by sec
 
 Pub. L. 101–515, title VI, §607 (part), Nov. 5, 1991, 104 Stat. 2153, provided: “That after October 1, 1991, (but not before) the Board of Directors of the Legal Services Corporation shall develop and implement a system for the competitive award of all grants and contracts, including support centers, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence”.
 
-Pub. L. 101–162, title VI, §608 (part), Nov. 21, 1989, 103 Stat. 1036, provided: “That none of the funds appropriated under this Act or under any prior Acts for the Legal Services Corporation shall be used to consider, develop, or implement any system for the competitive award of grants or contracts until such action is authorized pursuant to a majority vote of a Board of Directors of the Legal Services Corporation composed of eleven individuals nominated by the President after January 20, 1989, and subsequently confirmed by the United States Senate, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence; subsequent to confirmation such new Board of Directors shall develop and implement a proposed system for the competitive award of all grants and contracts”.
+Pub. L. 101–162, title VI, §608 (part), Nov. 21, 1989, 103 Stat. 1036, provided: “That none of the funds appropriated under this Act or under any prior Acts for the Legal Services Corporation shall be used to consider, develop, or implement any system for the competitive award of grants or contracts until such action is authorized pursuant to a majority vote of a Board of Directors of the Legal Services Corporation composed of eleven individuals nominated by the President after January 20, 1989, and subsequently confirmed by the United States Senate, except that nothing herein shall prohibit the Corporation Board, members, or staff fromengaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence; subsequent to confirmation such new Board of Directors shall develop and implement a proposed system for the competitive award of all grants and contracts”.
 
 Pub. L. 100–459, title VI, §605, Oct. 1, 1988, 102 Stat. 2227, provided: “That a Board of Directors of the Legal Services Corporation, composed of individuals nominated by the President after January 20, 1989 and subsequently confirmed by the United States Senate, shall develop and implement a system for the competitive award of all grants and contracts, including support centers, to take effect after September 30, 1989.”
 

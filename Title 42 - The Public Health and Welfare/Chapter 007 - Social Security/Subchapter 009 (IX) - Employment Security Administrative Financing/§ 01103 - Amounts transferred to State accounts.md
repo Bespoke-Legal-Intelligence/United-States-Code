@@ -1,0 +1,168 @@
+### §1103. Amounts transferred to State accounts
+
+#### (a) Determination and certification by Secretary of Labor
+
+(1) If as of the close of any fiscal year after the fiscal year ending June 30, 1972, the amount in the extended unemployment compensation account has reached the limit provided in section 1105(b)(2) of this title and the amount in the Federal unemployment account has reached the limit provided in section 1102(a) of this title and all advances and interest pursuant to section 1105(d) of this title and section 1323 of this title have been repaid, and there remains in the employment security administration account any amount over the amount provided in section 1101(f)(3)(A) of this title, such excess amount, except as provided in subsection (b) of this section, shall be transferred (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund.
+
+(2) Each State's share of the funds to be transferred under this subsection as of any October 1—
+
+&emsp;(A) shall be determined by the Secretary of Labor and certified by such Secretary to the Secretary of the Treasury before such date, and
+
+&emsp;(B) shall bear the same ratio to the total amount to be so transferred as—
+
+&emsp;&emsp;(i) the amount of wages subject to tax under section 3301 of the Internal Revenue Code of 1986 during the preceding calendar year which are determined by the Secretary of Labor to be attributable to the State, bears to
+
+&emsp;&emsp;(ii) the total amount of wages subject to such tax during such year.
+
+(3)(A) Notwithstanding any other provision of this section, for purposes of carrying out this subsection with respect to any excess amount (referred to in paragraph (1)) remaining in the employment security administration account as of the close of fiscal year 1999, 2000, or 2001, such amount shall—
+
+&emsp;(i) to the extent of any amounts not in excess of $100,000,000, be subject to subparagraph (B), and
+
+&emsp;(ii) to the extent of any amounts in excess of $100,000,000, be subject to subparagraph (C).
+
+(B) Paragraphs (1) and (2) shall apply with respect to any amounts described in subparagraph (A)(i), except that—
+
+&emsp;(i) in carrying out the provisions of paragraph (2)(B) with respect to such amounts (to determine the portion of such amounts which is to be allocated to a State for a succeeding fiscal year), the ratio to be applied under such provisions shall be the same as the ratio that—
+
+&emsp;&emsp;(I) the amount of funds to be allocated to such State for such fiscal year pursuant to the base allocation formula under subchapter III of this chapter, bears to
+
+&emsp;&emsp;(II) the total amount of funds to be allocated to all States for such fiscal year pursuant to the base allocation formula under subchapter III of this chapter,
+
+> &emsp;as determined by the Secretary of Labor, and
+
+&emsp;(ii) the amounts allocated to a State pursuant to this subparagraph shall be available to such State, subject to the last sentence of subsection (c)(2) of this section.
+
+> Nothing in this paragraph shall preclude the application of subsection (b) of this section with respect to any allocation determined under this subparagraph.
+
+(C) Any amounts described in clause (ii) of subparagraph (A) (remaining in the employment security administration account as of the close of any fiscal year specified in such subparagraph) shall, as of the beginning of the succeeding fiscal year, accrue to the Federal unemployment account, without regard to the limit provided in section 1102(a) of this title.
+
+#### (b) Transfer of funds where State is ineligible
+
+(1) If the Secretary of Labor finds that on October 1 of any fiscal year—
+
+&emsp;(A) a State is not eligible for certification under section 503 of this title, or
+
+&emsp;(B) the law of a State is not approvable under section 3304 of the Federal Unemployment Tax Act \[26 U.S.C. 3304\],
+
+> then the amount available for transfer to such State's account shall, in lieu of being so transferred, be transferred to the Federal unemployment account as of the beginning of such October 1. If, during the fiscal year beginning on such October 1, the Secretary of Labor finds and certifies to the Secretary of the Treasury that such State is eligible for certification under section 503 of this title, that the law of such State is approvable under such section 3304, or both, the Secretary of the Treasury shall transfer such amount from the Federal unemployment account to the account of such State. If the Secretary of Labor does not so find and certify tothe Secretary of the Treasury before the close of such fiscal year then the amount which was available for transfer to such State's account as of October 1 of such fiscal year shall (as of the close of such fiscal year) become unrestricted as to use as part of the Federal unemployment account.
+
+(2) The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title. The sum by which such amount is reduced shall—
+
+&emsp;(A) be transferred to or retained in (as the case may be) the Federal unemployment account, and
+
+&emsp;(B) be credited against, and operate to reduce—
+
+&emsp;&emsp;(i) first, any balance of advances made before September 13, 1960, to the State under section 1321 of this title, and
+
+&emsp;&emsp;(ii) second, any balance of advances made on or after September 13, 1960, to the State under section 1321 of this title.
+
+#### (c) Use of funds
+
+(1) Except as provided in paragraph (2), amounts transferred to the account of a State pursuant to subsections (a) and (b) of this section shall be used only in the payment of cash benefits to individuals with respect to their unemployment, exclusive of expenses of administration.
+
+(2) A State may, pursuant to a specific appropriation made by the legislative body of the State, use money withdrawn from its account in the payment of expenses incurred by it for the administration of its unemployment compensation law and public employment offices if and only if—
+
+&emsp;(A) the purposes and amounts were specified in the law making the appropriation,
+
+&emsp;(B) the appropriation law did not authorize the obligation of such money after the close of the two-year period which began on the date of enactment of the appropriation law,
+
+&emsp;(C) the money is withdrawn and the expenses are incurred after such date of enactment,
+
+&emsp;(D)(i) the appropriation law limits the total amount which may be obligated under such appropriation at any time to an amount which does not exceed, at any such time, the amount by which—
+
+&emsp;&emsp;(I) the aggregate of the amounts transferred to the account of such State pursuant to subsections (a) and (b) of this section, exceeds
+
+&emsp;&emsp;(II) the aggregate of the amounts used by the State pursuant to this subsection and charged against the amounts transferred to the account of such State, and
+
+&emsp;(ii) for purposes of clause (i), amounts used by a State for administration shall be chargeable against transferred amounts at the exact time the obligation is entered into, and
+
+&emsp;(E) the use of the money is accounted for in accordance with standards established by the Secretary of Labor.
+
+> Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and may be so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph.
+
+(3)(A) If—
+
+&emsp;(i) amounts transferred to the account of a State pursuant to subsections (a) and (b) of this section were used in payment of unemployment benefits to individuals; and
+
+&emsp;(ii) the Governor of such State submits a request to the Secretary of Labor that such amounts be restored under this paragraph,
+
+> then the amounts described in clause (i) shall be restored to the status of funds transferred under subsections (a) and (b) of this section which have not been used by eliminating any charge against amounts so transferred for the use of such amounts in the payment of unemployment benefits.
+
+(B) Subparagraph (A) shall apply only to the extent that the amounts described in clause (i) of such subparagraph do not exceed the amount then in the State's account.
+
+(C) Subparagraph (A) shall not apply if the State has a balance of advances made to its account under subchapter XII of this chapter.
+
+(D) If the Secretary of Labor determines that the requirements of this paragraph are met with respect to any request, the Secretary shall notify the Governor of the State that such requirements are met with respect to such request and the amount restored under this paragraph. Such restoration shall be as of the first day of the first month following the month in which the notification is made.
+
+(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Sept. 13, 1960, Pub. L. 86–778, title V, §521, 74 Stat. 974; May 29, 1963, Pub. L. 88–31, §3, 77 Stat. 51; July 26, 1968, Pub. L. 90–430, 82 Stat. 447; Aug. 10, 1970, Pub. L. 91–373, title III, §305(b), 84 Stat. 717; Dec. 29, 1971, Pub. L. 92–224, §1, title II, §204(c), 85 Stat. 810, 814; June 30, 1972, Pub. L. 92–329, §2(d), 86 Stat. 398; Aug. 7, 1974, Pub. L. 93–368, §4(b), 88 Stat. 420; Apr. 21, 1976, Pub. L. 94–273, §§2(20), 3(23), 23, 41, 90 Stat. 375, 377, 379, 381; Sept. 3, 1982, Pub. L. 97–248, title I, §192, 96 Stat. 408; Dec. 22, 1987, Pub. L. 100–203, title IX, §9155(c), 101 Stat. 1330–327; Nov. 5, 1990, Pub. L. 101–508, title V, §5021(a), (b), 104 Stat. 1388–223; Aug. 5, 1997, Pub. L. 105–33, title V, §5403, 111 Stat. 603.)
+
+#### References in Text
+
+The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B)(i), is classified generally to Title 26, Internal Revenue Code.
+
+#### Prior Provisions
+
+A prior section 1103, act Aug. 14, 1935, ch. 531, title IX, §903, 49 Stat. 640, related to approval and certification of State laws. For further details, see Prior Law note set out preceding section 1101 of this title.
+
+#### Amendments
+
+1997—Subsec. (a)(3). Pub. L. 105–33, §5403(a), added par. (3).
+
+Subsec. (c)(2). Pub. L. 105–33, §5403(b), inserted concluding provisions.
+
+1990—Subsec. (a)(2). Pub. L. 101–508, §5021(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each State's share of the funds to be transferred under this subsection as of any October 1—
+
+&emsp;“(A) shall be determined by the Secretary of Labor and certified by him to the Secretary of the Treasury before that date on the basis of reports furnished by the States to the Secretary of Labor before September 1, and
+
+&emsp;“(B) shall bear the same ratio to the total amount to be so transferred as the amount of wages subject to contributions under such State's unemployment compensation law during the preceding calendar year which have been reported to the State before August 1 bears to the total of wages subject to contributions under all State unemployment compensation laws during such calendar year which have been reported to the States before August 1.”
+
+Subsec. (c)(2). Pub. L. 101–508, §5021(b), added subpars. (D) and (E) and struck out former subpar. (D) and last sentence which required a State's appropriation law to limit the total amount which may be obligated during a twelve-month or transitional period from its account.
+
+1987—Subsec. (a)(1). Pub. L. 100–203 inserted “and interest” after “all advances”.
+
+1982—Subsec. (c)(2). Pub. L. 97–248, §192(a), substituted “thirty-four” for “twenty-four” wherever appearing, and “thirty-fourth” for “twenty-fourth” in provisions following subpar. (D).
+
+Subsec. (c)(3). Pub. L. 97–248, §192(b), added par. (3).
+
+1976—Subsec. (a)(2). Pub. L. 94–273, §3(23) substituted “October” for “July”.
+
+Subsec. (a)(2)(A). Pub. L. 94–273, §2(20), substituted “September” for “June”.
+
+Subsec. (a)(2)(B). Pub. L. 94–273, §23, substituted “August” for “May” wherever appearing.
+
+Subsec. (b)(1). Pub. L. 94–273, §3(23), substituted “October” for “July”.
+
+Subsec. (c)(2). Pub. L. 94–273, §41, in subpar. (D) and provisions following subpar. (D) substituted provisions relating to determination based on a twelve-month period (as prescribed in the law of the State), or during a transitional period of less than twelve months caused by a change in the twelve-month period (as prescribed in the law of the State), for provisions relating to determination based on a fiscal year period.
+
+1974—Subsec. (b)(3). Pub. L. 93–368 struck out par. (3) which related to reductions in the amount transferable to the account of any State by reason of emergency compensation paid to any individual for a week of unemployment ending after June 30, 1972.
+
+1972—Subsec. (b)(3). Pub. L. 92–329 inserted provisions relating to reductions in the amount transferable to the account of any State by reason of emergency compensation paid to any individual for a week of unemployment ending after June 30, 1972.
+
+1971—Subsec. (b)(3). Pub. L. 92–224, §204(c), added par. (3).
+
+Subsec. (c)(2). Pub. L. 92–224, §1, substituted “twenty-four preceding fiscal years” and “such twenty-five fiscal years” for “fourteen preceding fiscal years” and “such fifteen fiscal years” in subpar. (D) of first sentence and “twenty-fourth preceding fiscal year” for “fourteenth preceding fiscal year” in second sentence.
+
+1970—Subsec. (a)(1). Pub. L. 91–373 inserted references to the limits provided in sections 1102(a) and 1105(b)(2) of this title, advances pursuant to section 1105(d) of this title, and the amount provided in section 1101(f)(3)(A) of this title.
+
+1968—Subsec. (c). Pub. L. 90–430 substituted in par. (2)(D)(i) “fourteen” for “nine”, in par. (2)(D)(ii) “fifteen” for “ten”, and in provisions following par. (2)(D) “fourteenth” for “ninth”.
+
+1963—Subsec. (c)(2). Pub. L. 88–31 substituted “nine preceding fiscal years” for “four preceding fiscal years”, “ten fiscal years” for “five fiscal years” in cl. (D), and “ninth preceding fiscal year” for “fourth preceding fiscal year” in last sentence.
+
+1960—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
+
+Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted “section 3304 of title 26” for “section 1603 of title 26”, in two places, and “transfer to such States’ account”, “transferred”, and “transfer” for “crediting to such States’ account”, “credited” and “credit”, respectively, except where already reading “shall transfer”, and added par. (2).
+
+Subsec. (c). Pub. L. 86–778 substituted “transferred” for “credited”, wherever appearing, “obligation” for “expenditure” in par. (2)(B), “obligated” for “so used” in par. (2)(D), and “obligated for administration” for “used” in concluding par., inserted references to subsection (b) in pars. (1) and (2)(D), and struck out “any of” before “such five fiscal years” in par. (2)(D).
+
+#### Effective Date of 1990 Amendment
+
+Section 5021(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
+
+#### Effective Date of 1987 Amendment
+
+Section 9155(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1105 and 1323 of this title\] shall apply to advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 503, 1321 of this title; title 26 sections 3304, 3306.
+

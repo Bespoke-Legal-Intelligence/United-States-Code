@@ -1,8 +1,14 @@
 ### SUBCHAPTER IX—FAMILY SUPPORT
 
+#### Repeal of Subchapter
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this subchapter is repealed.</i>
+
 #### Codification
 
 This subchapter is comprised of sections 701 to 716 of title VI of Pub. L. 91–230. Title VII of Pub. L. 91–230 also contains sections 701 to 709 (see Tables for classification to the Code).
+
+<i><sup>1</sup></i><i> Another section 1485 of this title is set out in subchapter IV of this chapter preceding this subchapter.</i>
 
 
 ---

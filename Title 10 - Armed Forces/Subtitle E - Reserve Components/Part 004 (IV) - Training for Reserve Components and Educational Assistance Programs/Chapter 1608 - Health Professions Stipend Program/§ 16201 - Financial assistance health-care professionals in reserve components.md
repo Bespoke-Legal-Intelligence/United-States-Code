@@ -64,7 +64,7 @@ Baccalaureate Students in Nursing or Other Health Professions.—(1) Under the s
 
 &emsp;&emsp;(i) an accredited baccalaureate nursing program; or
 
-&emsp;&emsp;(ii) any other accredited baccalaureate program leading to a degree in a health-careprofession designated by the Secretary concerned as a profession critically needed by that military department in wartime.
+&emsp;&emsp;(ii) any other accredited baccalaureate program leading to a degree in a health-care profession designated by the Secretary concerned as a profession critically needed by that military department in wartime.
 
 (2) Under the agreement—
 

@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 104–201 added subsec. (c).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable to computation of retired pay of any enlisted member who retires on or after Oct. 5, 1994, to computation of retainer pay of any enlisted member who is transferred to Fleet Reserve or Fleet Marine Corps Reserve on or after Oct. 5, 1994, and to recomputation of retired pay of any enlisted member who is advanced on retired list on or after Oct. 5, 1994, see section 635(e) of Pub. L. 103–337, set out as a note under section 1405 of this title.
+Amendment by Pub. L. 103–337 applicable to computation of retired pay of any enlisted member who retires on or after Oct. 5, 1994, to computation of retainer pay of any enlisted member who is transferred to Fleet Reserve or Fleet Marine Corps Reserve on or after Oct. 5,1994, and to recomputation of retired pay of any enlisted member who is advanced on retired list on or after Oct. 5, 1994, see section 635(e) of Pub. L. 103–337, set out as a note under section 1405 of this title.
 
 #### Effective Date
 

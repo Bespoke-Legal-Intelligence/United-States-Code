@@ -40,7 +40,7 @@ Planning grants may be used for activities to develop homeownership programs (wh
 
 &emsp;&emsp;(B) a description of the applicant and a statement of its qualifications;
 
-&emsp;&emsp;(C) identification and description of the eligible property involved, and a description ofthe composition of the tenants, including family size and income;
+&emsp;&emsp;(C) identification and description of the eligible property involved, and a description of the composition of the tenants, including family size and income;
 
 &emsp;&emsp;(D) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
 

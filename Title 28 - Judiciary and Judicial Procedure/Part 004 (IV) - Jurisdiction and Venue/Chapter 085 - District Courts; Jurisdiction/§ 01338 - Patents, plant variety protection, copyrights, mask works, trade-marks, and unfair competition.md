@@ -6,7 +6,7 @@
 
 (c) Subsections (a) and (b) apply to exclusive rights in mask works under chapter 9 of title 17 to the same extent as such subsections apply to copyrights.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Dec. 24, 1970, Pub. L. 91–577, title III, §143(b), 84 Stat. 1559; Nov. 19, 1988, Pub. L. 100–702, title X, §1020(a)(4), 102 Stat. 4671.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 91–577, title III, §143(b), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 100–702, title X, §1020(a)(4), Nov. 19, 1988, 102 Stat. 4671.)
 
 #### Historical and Revision Notes
 
@@ -24,11 +24,11 @@ Subsection (b) is added and is intended to avoid “piecemeal” litigation to e
 
 #### Amendments
 
-1988—Pub. L. 100–702, §1020(a)(4)(B), amended section catchline generally, inserting “mask works,” after “copyrights,”.
+<b>1988</b>—Pub. L. 100–702, §1020(a)(4)(B), amended section catchline generally, inserting “mask works,” after “copyrights,”.
 
 Subsec. (c). Pub. L. 100–702, §1020(a)(4)(A), added subsec. (c).
 
-1970—Pub. L. 91–577 inserted references to “plant variety protection” in section catchline and in subsecs. (a) and (b).
+<b>1970</b>—Pub. L. 91–577 inserted references to “plant variety protection” in section catchline and in subsecs. (a) and (b).
 
 #### Effective Date of 1970 Amendment
 

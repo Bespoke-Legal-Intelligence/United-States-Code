@@ -2,7 +2,7 @@
 
 For the purpose of this chapter, the term—
 
-&emsp;(1) “financial institution” means any office of a bank, savings bank, card issuer as defined in section 1602(n) of title 15, industrial loan company, trust company, savings association, building and loan, or homestead association (including cooperative banks), credit union, or consumer finance institution, located in any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, or the Virgin Islands;
+&emsp;(1) “financial institution” means any office of a bank, savings bank, card issuer as defined in section 1602(n) of title 15, industrial loan company, trust company, savings association,building and loan, or homestead association (including cooperative banks), credit union, or consumer finance institution, located in any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, or the Virgin Islands;
 
 &emsp;(2) “financial record” means an original of, a copy of, or information known to have been derived from, any record held by a financial institution pertaining to a customer's relationship with the financial institution;
 
@@ -76,7 +76,7 @@ Section 1100 of title XI of Pub. L. 95–630 provided that: “This title \[enac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3412 of this title; title 7 section 6f; title 15 sections 78<i>o</i>–5, 78q, 1681u; title 18 section 1030; title 50 section 438.
+This section is referred to in section 3412 of this title; title 7 section 6f; title 15 sections 78<i>o</i>–5, 78q, 1681u; title 18 section 1030; title 42 sections 669a, 1320d–8; title 50 section 438.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “the Director,”.</i>
 

@@ -52,7 +52,7 @@ Any tribal member seeking a loan under this subchapter shall apply for and accep
 
 #### (h) Applications for assistance
 
-Any federally recognized Indian tribe desiring a grant under this subchapter shall submit anapplication to the Secretary of Education at such time, in such manner, and containing such information as the Secretary may reasonably require. Each such application shall—
+Any federally recognized Indian tribe desiring a grant under this subchapter shall submit an application to the Secretary of Education at such time, in such manner, and containing such information as the Secretary may reasonably require. Each such application shall—
 
 &emsp;(1) describe the shortages on the reservation of such Indian tribe of professionally trained tribal members necessary to support economic development initiatives on such reservation;
 

@@ -4,7 +4,7 @@
 
 Nothing in this subpart shall be construed—
 
-&emsp;(1) to prohibit a Federal agency from engaging in activity related to standards-related measures, including any such measure relating to safety, the protection of human, animal, or plant life or health, the environment or consumers; or
+&emsp;(1) to prohibit a Federal agency from engaging in activity related to standards-relatedmeasures, including any such measure relating to safety, the protection of human, animal, or plant life or health, the environment or consumers; or
 
 &emsp;(2) to limit the authority of a Federal agency to determine the level it considers appropriate of safety or of protection of human, animal, or plant life or health, the environment or consumers.
 

@@ -18,7 +18,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 #### (1) Prohibition
 
-&emsp;It shall be unlawful for any member of a national securities exchange or any broker or dealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
+&emsp;It shall be unlawful for any member of a national securities exchange or any broker ordealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
 
 &emsp;&emsp;(A) on any security (other than an exempted security), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the “Board”) shall prescribe under subsections (a) and (b) of this section; and
 
@@ -76,7 +76,7 @@ The provisions of this section or the rules and regulations thereunder shall not
 
 (2) For the purposes of this subsection—
 
-&emsp;(A) The term “United States person” includes a person which is organized or exists under the laws of any State or, in the case of a natural person, a citizen or resident of the United States; a domestic estate; or a trust in which one or more of the foregoing persons has a cumulative direct or indirect beneficial interest in excess of 50 per centum of the value of the trust.
+&emsp;(A) The term “United States person” includes a person which is organized or exists under the laws of any State or, in the case of a natural person, a citizen or resident of theUnited States; a domestic estate; or a trust in which one or more of the foregoing persons has a cumulative direct or indirect beneficial interest in excess of 50 per centum of the value of the trust.
 
 &emsp;(B) The term “United States security” means a security (other than an exempted security) issued by a person incorporated under the laws of any State, or whose principal place of business is within a State.
 
@@ -120,7 +120,7 @@ Act Aug. 23, 1935, substituted “Board of Governors of the Federal Reserve Syst
 
 Amendment by Pub. L. 91–508 effective on first day of seventh calendar month which begins after Oct. 26, 1970, except as otherwise provided in section 401(c) of Pub. L. 91–508, see section 401(a) of Pub. L. 91–508, set out as a note under section 1951 of Title 12, Banks and Banking.
 
-Section 401(c) of Pub. L. 91–508 provided that: “The Board of Governors of the Federal Reserve System may by regulation provide that the amendment made by title III \[amending this section\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenth calendar month which begins after the date of enactment \[Oct. 26, 1970\].”
+Section 401(c) of Pub. L. 91–508 provided that: “The Board of Governors of the Federal Reserve System mayby regulation provide that the amendment made by title III \[amending this section\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenth calendar month which begins after the date of enactment \[Oct. 26, 1970\].”
 
 #### Validity of Rules and Regulations
 

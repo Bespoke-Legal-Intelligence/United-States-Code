@@ -1,8 +1,8 @@
 ### §1474b–1. Transfer of funds from Natural Resource Damage Assessment and Restoration Fund
 
-Notwithstanding any other provision of law, any amounts appropriated or credited in fiscal year 1992 and thereafter, may be transferred to any account to carry out the provisions of negotiated legal settlements or other legal actions for restoration activities and to carry out the provisions of the Comprehensive Environmental Response, Compensation, and Liability Act, as amended (42 U.S.C. 9601, et seq.), Federal Water Pollution Control Act, as amended (33 U.S.C. 1251, et seq.), the Oil Pollution Act of 1990 (Public Law 101–380) \[33 U.S.C. 2701 et seq.\], and the Act of July 27, 1990 (Public Law 101–337) \[16 U.S.C. 19jj et seq.\] for damage assessment activities: <i>Provided further</i>, That sums provided by any party in fiscal year 1996 and thereafter are notlimited to monetary payments and may include stocks, bonds or other personal or real property, which may be retained, liquidated or otherwise disposed of by the Secretary and such sums or properties shall be utilized for the restoration of injured resources, and to conduct new damage assessment activities.
+Notwithstanding any other provision of law, any amounts appropriated or credited in fiscal year 1992 and thereafter, may be transferred to any account, including transfers to Federal trustees and payments to non-Federal trustees, to carry out the provisions of negotiated legal settlements or other legal actions for restoration activities and to carry out the provisions of the Comprehensive Environmental Response, Compensation, and Liability Act, as amended (42 U.S.C. 9601, et seq.), Federal Water Pollution Control Act, as amended (33 U.S.C. 1251, et seq.), the Oil Pollution Act of 1990 (Public Law 101–380) \[33 U.S.C. 2701 et seq.\], and the Act of July 27, 1990 (Public Law 101–337) \[16 U.S.C. 19jj et seq.\] for damage assessment activities: <i>Provided further</i>, That sums provided by any party heretofore and hereafter are not limited to monetary payments and may include stocks, bonds or other personal or real property, which may be retained, liquidated or otherwise disposed of by the Secretary and such sums, to remain available until expended, or properties shall be utilized for the restoration of injured resources, and to conduct new damage assessment activities.
 
-(Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2503; Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–160; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–138, title I, Nov. 11, 1993, 107 Stat. 1383; Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–160; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547.)
 
 #### References in Text
 
@@ -16,11 +16,17 @@ Act of July 27, 1990, referred to in text, is Pub. L. 101–337, July 27, 1990, 
 
 #### Codification
 
-Provisions of this section preceding the proviso are from title I of Pub. L. 103–332, and the proviso is from section 101(c) \[title I\] of Pub. L. 104–134. Provisions similar to those in the proviso were contained in title I of Pub. L. 103–332.
+Provisions of this section preceding the proviso are from title I of Pub. L. 103–138, as amended, and the proviso is from section 101(c) \[title I\] of Pub. L. 104–134, as amended.
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in the following prior appropriation act:
+Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2503.
 
 Pub. L. 103–138, title I, Nov. 11, 1993, 107 Stat. 1383.
+
+#### Amendments
+
+1997—Pub. L. 105–83 inserted “, including transfers to Federal trustees and payments to non-Federal trustees,” after “account” and “, to remain available until expended,” after “and such sums” and substituted “heretofore and hereafter” for “in fiscal year 1996 and thereafter”.
 

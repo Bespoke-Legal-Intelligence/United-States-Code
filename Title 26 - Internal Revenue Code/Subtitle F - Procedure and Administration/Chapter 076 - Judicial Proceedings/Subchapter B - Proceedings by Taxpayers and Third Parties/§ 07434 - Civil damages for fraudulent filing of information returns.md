@@ -1,0 +1,48 @@
+### §7434. Civil damages for fraudulent filing of information returns
+
+#### (a) In general
+
+If any person willfully files a fraudulent information return with respect to payments purported to be made to any other person, such other person may bring a civil action for damages against the person so filing such return.
+
+#### (b) Damages
+
+In any action brought under subsection (a), upon a finding of liability on the part of the defendant, the defendant shall be liable to the plaintiff in an amount equal to the greater of $5,000 or the sum of—
+
+&emsp;(1) any actual damages sustained by the plaintiff as a proximate result of the filing of the fraudulent information return (including any costs attributable to resolving deficiencies asserted as a result of such filing),
+
+&emsp;(2) the costs of the action, and
+
+&emsp;(3) in the court's discretion, reasonable attorneys <sup>1</sup> fees.
+
+#### (c) Period for bringing action
+
+Notwithstanding any other provision of law, an action to enforce the liability created under this section may be brought without regard to the amount in controversy and may be brought only within the later of—
+
+&emsp;(1) 6 years after the date of the filing of the fraudulent information return, or
+
+&emsp;(2) 1 year after the date such fraudulent information return would have been discovered by exercise of reasonable care.
+
+#### (d) Copy of complaint filed with IRS
+
+Any person bringing an action under subsection (a) shall provide a copy of the complaint to the Internal Revenue Service upon the filing of such complaint with the court.
+
+#### (e) Finding of court to include correct amount of payment
+
+The decision of the court awarding damages in an action brought under subsection (a) shall include a finding of the correct amount which should have been reported in the information return.
+
+#### (f) Information return
+
+For purposes of this section, the term “information return” means any statement described in section 6724(d)(1)(A).
+
+(Added Pub. L. 104–168, title VI, §601(a), July 30, 1996, 110 Stat. 1462.)
+
+#### Prior Provisions
+
+A prior section 7434 was renumbered 7437 of this title.
+
+#### Effective Date
+
+Section 601(c) of Pub. L. 104–168 provided that: “The amendments made by this section \[enacting this section and renumbering former section 7434 as 7435 of this title\] shall apply to fraudulent information returns filed after the date of the enactment of this Act \[July 30, 1996\].”
+
+<i><sup>1</sup></i><i> So in original.</i>
+

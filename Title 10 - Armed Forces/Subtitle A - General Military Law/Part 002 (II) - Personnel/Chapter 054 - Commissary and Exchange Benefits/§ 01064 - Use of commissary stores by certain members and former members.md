@@ -2,7 +2,7 @@
 
 Under regulations prescribed by the Secretary of Defense, a person who would be eligible for retired pay under chapter 1223 of this title but for the fact that the person is under 60 years of age shall be authorized to use commissary stores of the Department of Defense for 12 days each calendar year.
 
-(Added Pub. L. 101–510, div. A, title III, §321(b), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 104–106, div. A, title XV, §1501(c)(8), Feb. 10, 1996, 110 Stat. 499.)
+(Added Pub. L. 101–510, div. A, title III, §321(b), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L.104–106, div. A, title XV, §1501(c)(8), Feb. 10, 1996, 110 Stat. 499.)
 
 #### Amendments
 

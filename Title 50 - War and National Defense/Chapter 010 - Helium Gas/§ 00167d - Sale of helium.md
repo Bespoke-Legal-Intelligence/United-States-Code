@@ -28,7 +28,7 @@ All moneys received by the Secretary from the sale or disposition of helium on F
 
 (B) On repayment of all amounts referred to in subsection (c) of this section, the fund established under this section shall be terminated and all moneys received under this chapter shall be deposited in the general fund of the Treasury.
 
-(Mar. 3, 1925, ch. 426, §6, as added Sept. 13, 1960, Pub. L. 86–777, §2, 74 Stat. 921; amended Oct. 9, 1996, Pub. L. 104–273, §4, 110 Stat. 3317.)
+(Mar. 3, 1925, ch. 426, §6, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 921; amended Pub. L. 104–273, §4, Oct. 9, 1996, 110 Stat. 3317.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@ Any person, firm, or corporation who violates any provision of this chapter for 
 
 Nothing in this chapter shall be construed as requiring the Secretary to report for prosecution or for the institution of libel or injunction proceedings, minor violations of this chapter whenever he believes that the public interest will be adequately served by a suitable written notice of warning.
 
-(Mar. 4, 1907, ch. 2907, title IV, §406, as added Dec. 15, 1967, Pub. L. 90–201, §16, 81 Stat. 599; amended Nov. 10, 1986, Pub. L. 99–641, title IV, §403(c), 100 Stat. 3570.)
+(Mar. 4, 1907, ch. 2907, title IV, §406, as added Pub. L. 90–201, §16, Dec. 15, 1967, 81 Stat. 599; amended Pub. L. 99–641, title IV, §403(c), Nov. 10, 1986, 100 Stat. 3570.)
 
 #### Amendments
 
@@ -26,5 +26,5 @@ For provisions relating to construction and effect of temporary amendments by se
 
 #### Federal Rules of Civil Procedure
 
-Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil andadmiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
+Admiralty and maritime rules of practice (which included libel procedures) were superseded, and civil and admiralty procedures in United States district courts were unified, effective July 1, 1966, see rule 1 and Supplemental Rules for Certain Admiralty and Maritime Claims, Title 28, Appendix, Judiciary and Judicial Procedure.
 

@@ -1,5 +1,5 @@
 
-41 U.S.C.<br>United States Code, 1996 Edition<br>Title 41 - PUBLIC CONTRACTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+41 U.S.C.<br>United States Code, 1997 Edition<br>Title 41 - PUBLIC CONTRACTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 41—PUBLIC CONTRACTS
 

@@ -2,7 +2,7 @@
 
 The Marshal of the Supreme Court of the United States, under the general supervision and direction of the Chief Justice of the United States, may designate employees of the Supreme Court as members of the Supreme Court Police, without additional compensation.
 
-(Aug. 18, 1949, ch. 479, §1, 63 Stat. 616; Dec. 29, 1982, Pub. L. 97–390, §1(a), 96 Stat. 1957.)
+(Aug. 18, 1949, ch. 479, §1, 63 Stat. 616; Pub. L. 97–390, §1(a), Dec. 29, 1982, 96 Stat. 1957.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@ For purposes of sections 46 to 48c of this title—
 
 (8) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(June 25, 1938, ch. 697, §5, as added June 23, 1971, Pub. L. 92–28, §1, 85 Stat. 81; amended July 25, 1974, Pub. L. 93–358, §1(3), 88 Stat. 393; Apr. 21, 1976, Pub. L. 94–273, §3(22), 90 Stat. 377.)
+(June 25, 1938, ch. 697, §5, as added Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 81; amended Pub. L. 93–358, §1(3), July 25, 1974, 88 Stat. 393; Pub. L. 94–273, §3(22), Apr. 21, 1976, 90 Stat. 377.)
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 (1) In furtherance of world peace and the security and foreign policy of the United States, the President is authorized to control the import and the export of defense articles and defense services and to provide foreign policy guidance to persons of the United States involved in the export and import of such articles and services. The President is authorized to designate those items which shall be considered as defense articles and defense services for the purposes of this section and to promulgate regulations for the import and export of such articles and services. The items so designated shall constitute the United States Munitions List.
 
-(2) Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency, taking into account the Director's assessment as to whether the export of an article would contribute to an armsrace, aid in the development of weapons of mass destruction, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control or nonproliferation agreements or other arrangements. The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that the issuance of an export license under this section would be detrimental to the national security of the United States, to recommend to the President that such export license be disapproved.
+(2) Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency, taking into account the Director's assessment as to whether the export of an article would contribute to an arms race, aid in the development of weapons of mass destruction, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control or nonproliferation agreements or other arrangements. The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that the issuance of an export license under this section would be detrimental to the national security of the United States, to recommend to the President that such export license be disapproved.
 
 (3) In exercising the authorities conferred by this section, the President may require that any defense article or defense service be sold under this chapter as a condition of its eligibility for export, and may require that persons engaged in the negotiation for the export of defense articles and services keep the President fully and currently informed of the progress and future prospects of such negotiations.
 
@@ -34,7 +34,7 @@
 
 (2) Except as otherwise specifically provided in regulations issued under subsection (a)(1) of this section, no defense articles or defense services designated by the President under subsection (a)(1) of this section may be exported or imported without a license for such export or import, issued in accordance with this chapter and regulations issued under this chapter, except that no license shall be required for exports or imports made by or for an agency of the United States Government (A) for official use by a department or agency of the United States Government, or (B) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
 
-(3)(A) For each of the fiscal years 1988 and 1989, $250,000 of registration fees collected pursuant to paragraph (1) shall be credited to a Department of State account, to be available without fiscalyear limitation. Fees credited to that account shall be available only for the payment of expenses incurred for—
+(3)(A) For each of the fiscal years 1988 and 1989, $250,000 of registration fees collected pursuant to paragraph (1) shall be credited to a Department of State account, to be available without fiscal year limitation. Fees credited to that account shall be available only for the payment of expenses incurred for—
 
 &emsp;(i) contract personnel to assist in the evaluation of munitions control license applications, reduce processing time for license applications, and improve monitoring of compliance with the terms of licenses; and
 
@@ -102,7 +102,7 @@ The President shall periodically review the items on the United States Munitions
 
 &emsp;(A) that an applicant for a license to export under this section is the subject of an indictment for a violation of any of the statutes cited in paragraph (1),
 
-&emsp;(B) that there is reasonable cause to believe that an applicant for a license to export underthis section has violated any of the statutes cited in paragraph (1), or
+&emsp;(B) that there is reasonable cause to believe that an applicant for a license to export under this section has violated any of the statutes cited in paragraph (1), or
 
 &emsp;(C) that an applicant for a license to export under this section is ineligible to contract with, or to receive a license or other form of authorization to import defense articles or defense services from, any agency of the United States Government,
 
@@ -158,7 +158,7 @@ The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act Ju
 
 #### Reference to Section 1934 of This Title Deemed Reference to This Section
 
-Section 212(b)(1) of Pub. L. 94–329 provided in part that: “Any reference to such section \[section 1934 ofthis title\] shall be deemed to be a reference to section 38 of the Arms Export Control Act \[this section\] and any reference to licenses issued under section 38 of the Arms Export Control Act \[this section\] shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
+Section 212(b)(1) of Pub. L. 94–329 provided in part that: “Any reference to such section \[section 1934 of this title\] shall be deemed to be a reference to section 38 of the Arms Export Control Act \[this section\] and any reference to licenses issued under section 38 of the Arms Export Control Act \[this section\] shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
 
 #### Amendments
 
@@ -260,7 +260,7 @@ Findings.—The Congress makes the following findings:
 
 “(b)
 
-Statement of Policy.—(1) It shall be the policy of the United States to seek verifiable international agreements prohibiting the sale, transfer, or export, and further limiting the use, production, possession, and deployment of anti-personnel landmines.
+Statement of Policy.—(1) It shall be the policy of the United States to seek verifiable internationalagreements prohibiting the sale, transfer, or export, and further limiting the use, production, possession, and deployment of anti-personnel landmines.
 
 “(2) It is the sense of the Congress that the President should actively seek to negotiate under United Nations auspices or other auspices an international agreement, or a modification of the Convention, to prohibit the sale, transfer, or export of anti-personnel landmines.
 
@@ -298,7 +298,7 @@ Pub. L. 102–138, title IV, Oct. 28, 1991, 105 Stat. 718, provided that:
 
 &emsp;“(4) the continued proliferation of unconventional weapons, including nuclear, biological, and chemical weapons, as well as delivery systems associated with those weapons, poses an urgent threat to security and stability in the Middle East and Persian Gulf region;
 
-&emsp;“(5) the continued proliferation of ballistic missile technologies and ballistic missile systems that arecapable of delivering conventional, nuclear, biological, or chemical warheads undermines security and stability in the Middle East and Persian Gulf region;
+&emsp;“(5) the continued proliferation of ballistic missile technologies and ballistic missile systems that are capable of delivering conventional, nuclear, biological, or chemical warheads undermines security and stability in the Middle East and Persian Gulf region;
 
 &emsp;“(6) future security and stability in the Middle East and Persian Gulf region would be enhanced by establishing a stable military balance among regional powers by restraining and reducing both conventional and unconventional weapons;
 
@@ -386,7 +386,7 @@ Promotion of regional arms control agreements.—In order to achieve the purpose
 
 &emsp;&emsp;“(A) the maintenance of the military balance within the region, while eliminating nuclear, biological, and chemical weapons and associated delivery systems, and ballistic missiles;
 
-&emsp;&emsp;“(B) the implementation of confidence-building and security-building measures, including advancenotification of certain ground and aerial military exercises in the Middle East and the Persian Gulf; and
+&emsp;&emsp;“(B) the implementation of confidence-building and security-building measures, including advance notification of certain ground and aerial military exercises in the Middle East and the Persian Gulf; and
 
 &emsp;&emsp;“(C) other useful arms control measures.
 
@@ -450,7 +450,7 @@ Annual Reports on Transfers and Regional Military Balance.—Beginning July 15, 
 
 &emsp;“(3) describing the progress in implementing the purposes of the multilateral arms transfer and control regime as described in section 402(b); and
 
-&emsp;“(4) identifying supplier nations that have refused to participate in such a regime or that have engaged in conduct that violates or undermines such a regime.
+&emsp;“(4) identifying supplier nations that have refused to participate in such a regime or that have engagedin conduct that violates or undermines such a regime.
 
 #### “SEC. 405. RELEVANT CONGRESSIONAL COMMITTEES DEFINED.
 
@@ -482,7 +482,7 @@ Ex. Ord. No. 12444, §3, Oct. 14, 1983, 48 F.R. 48215, formerly set out as a not
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2304, 2373, 2415, 2751, 2753, 2767, 2770, 2776, 2779, 2780, 2785, 2791, 2794, 2797a of this title; title 10 sections 2350, 2553, 4543; title 12 section 635; title 18 sections 1956, 2516; title 26 section 5847; title 29 sections 1662d, 1662d–1; title 50 sections 415, 2332; title 50 App. sections 2410, 2410b, 2416.
+This section is referred to in sections 2304, 2373, 2415, 2751, 2753, 2767, 2770, 2776, 2779, 2780, 2785, 2791, 2794, 2797a of this title; title 10 sections 2350, 2553, 4543, 4687; title 12 section 635; title 18 sections 1956, 2516; title 26 section 5847; title 29 sections 1662d, 1662d–1; title 50 sections 415, 2332; title 50 App. sections 2410, 2410b, 2416.
 
 <i><sup>1</sup></i><i> So in original. There are two subpars. designated “(B)”.</i>
 

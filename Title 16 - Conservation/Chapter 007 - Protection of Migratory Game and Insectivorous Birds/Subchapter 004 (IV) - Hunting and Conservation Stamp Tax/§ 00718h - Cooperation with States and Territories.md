@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to cooperate with the several States
 
 #### Transfer of Functions
 
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 718a of this title.
+Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939,see Transfer of Functions note set out under section 718a of this title.
 
 #### Section Referred to in Other Sections
 

@@ -56,7 +56,7 @@ For the purposes of this Act, the term—
 
 &emsp;(27) “person” means an individual, corporation, partnership, association, State, municipality, commission, or political subdivision of a State, or any interstate body;
 
-&emsp;(28) “permittee” means a person holding an authorization, license, or permit for geologicalexploration issued under section 11 of the Outer Continental Shelf Lands Act (43 U.S.C. 1340) or applicable State law;
+&emsp;(28) “permittee” means a person holding an authorization, license, or permit for geological exploration issued under section 11 of the Outer Continental Shelf Lands Act (43 U.S.C. 1340) or applicable State law;
 
 &emsp;(29) “public vessel” means a vessel owned or bareboat chartered and operated by the United States, or by a State or political subdivision thereof, or by a foreign nation, except when the vessel is engaged in commerce;
 
@@ -130,7 +130,7 @@ Pub. L. 104–55, §1, Nov. 20, 1995, 109 Stat. 546, provided that: “This Act 
 
 #### Short Title of 1990 Amendments
 
-Pub. L. 101–537, title II, §2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 101–646, title IV, §4001, Nov. 29, 1990,104 Stat. 4788, as amended by Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title \[amending section 2761 of this title\] may be cited as the ‘Great Lakes Oil Pollution Research and Development Act’.”
+Pub. L. 101–537, title II, §2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 101–646, title IV, §4001, Nov. 29, 1990, 104 Stat. 4788, as amended by Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title \[amending section 2761 of this title\] may be cited as the ‘Great Lakes Oil Pollution Research and Development Act’.”
 
 #### Short Title
 

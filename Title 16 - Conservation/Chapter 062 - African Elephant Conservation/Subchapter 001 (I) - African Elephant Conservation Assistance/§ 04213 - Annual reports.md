@@ -6,7 +6,7 @@ The Secretary shall submit an annual report to the Congress not later than Janua
 
 &emsp;(2) the costs associated with the administration of the Fund;
 
-&emsp;(3) a summary of the projects for which the Secretary has provided assistance under thissubchapter and an evaluation of those projects; and
+&emsp;(3) a summary of the projects for which the Secretary has provided assistance under this subchapter and an evaluation of those projects; and
 
 &emsp;(4) an evaluation of African elephant populations and whether the CITES Ivory Control System is functioning effectively to control the illegal trade in African elephant ivory.
 

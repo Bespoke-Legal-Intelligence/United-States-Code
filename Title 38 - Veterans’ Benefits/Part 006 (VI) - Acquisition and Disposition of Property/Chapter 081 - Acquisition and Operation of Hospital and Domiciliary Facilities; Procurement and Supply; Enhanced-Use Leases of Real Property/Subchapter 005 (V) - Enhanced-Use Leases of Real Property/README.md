@@ -12,5 +12,5 @@
 - [&sect; 08165 - Use of proceeds](%C2%A7%2008165%20-%20Use%20of%20proceeds.md)
 - [&sect; 08166 - Construction standards](%C2%A7%2008166%20-%20Construction%20standards.md)
 - [&sect; 08167 - Exemption from State and local taxes](%C2%A7%2008167%20-%20Exemption%20from%20State%20and%20local%20taxes.md)
-- [&sect; 08168 - Limitation on number of agreements](%C2%A7%2008168%20-%20Limitation%20on%20number%20of%20agreements.md)
+- [&sect; 08168 - Repealed. Pub. L. 105&#8211;114, title II, &sect;205(b)(1), Nov. 21, 1997, 111 Stat. 2288](%C2%A7%2008168%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93114%2C%20title%20II%2C%20%C2%A7205%28b%29%281%29%2C%20Nov.%2021%2C%201997%2C%20111%20Stat.%202288.md)
 - [&sect; 08169 - Expiration](%C2%A7%2008169%20-%20Expiration.md)

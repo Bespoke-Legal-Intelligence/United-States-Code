@@ -70,7 +70,7 @@ Subsec. (a)(1)(D). Pub. L. 101–510, §812(a)(4), inserted before period at end
 
 Subsec. (b). Pub. L. 101–510, §812(b), inserted “or subcontractor” after “contractor” wherever appearing.
 
-1988—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A person who is convicted of fraud or any other felony arising out of a contract with the Department of Defense shall be prohibited from working in a management or supervisory capacity on any defense contract, or serving on the board of directors of any defense contractor, for a period, as determined by the Secretary of Defense, of not less than one year from the date of the conviction.”
+1988—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A person who is convicted of fraud or any other felony arising out of a contract with the Department of Defense shall be prohibited from working in a management or supervisory capacity on any defense contract, or serving on the board of directors of any defense contractor, for a period, as determined by the Secretary ofDefense, of not less than one year from the date of the conviction.”
 
 #### Effective Date of 1994 Amendment
 

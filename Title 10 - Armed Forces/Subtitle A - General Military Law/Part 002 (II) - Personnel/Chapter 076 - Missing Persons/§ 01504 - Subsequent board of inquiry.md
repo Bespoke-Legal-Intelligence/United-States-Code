@@ -2,7 +2,7 @@
 
 (a)
 
-Additional Board.—If information that may result in a change of status of a person covered by a determination under section 1503(i) of this title becomes available within one year after the date of the transmission of a report with respect to the person under section 1502(a)(2) of this title, the Secretary concernedshall appoint a board under this section to conduct an inquiry into the information.
+Additional Board.—If information that may result in a change of status of a person covered by a determination under section 1503(i) of this title becomes available within one year after the date of the transmission of a report with respect to the person under section 1502(a)(2) of this title, the Secretary concerned shall appoint a board under this section to conduct an inquiry into the information.
 
 (b)
 
@@ -14,7 +14,21 @@ Combined Inquiries.—If it appears to the Secretary concerned that the absence 
 
 (d)
 
-Composition.—(1) A board appointed under this section shall be composed of at least three members who are officers having the grade of major or lieutenant commander or above.
+Composition.—(1) A board appointed under this section shall be composed of at least three members as follows:
+
+&emsp;(A) In the case of a board that will inquire into the whereabouts and status of one or more members of the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
+
+&emsp;(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
+
+&emsp;&emsp;(i) not less than three employees of the Department of Defense whose rate of annual pay is equal to or greater than the rate of annual pay payable for grade GS–13 of the General Schedule under section 5332 of title 5; and
+
+&emsp;&emsp;(ii) such members of the armed forces as the Secretary considers advisable.
+
+&emsp;(C) In the case of a board that will inquire into the whereabouts and status of both one or more members of the armed forces and one or more civilians described in subparagraph (B)—
+
+&emsp;&emsp;(i) the board shall include at least one officer described in subparagraph (A) and at least one employee of the Department of Defense described in subparagraph (B)(i); and
+
+&emsp;&emsp;(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board's inquiry to the number of civilians who are subjects of the board's inquiry.
 
 (2) The Secretary concerned shall designate one member of a board appointed under this section as president of the board. The president of the board shall have a security clearance that affords the president access to all information relating to the whereabouts and status of each person covered by the inquiry.
 
@@ -24,7 +38,7 @@ Composition.—(1) A board appointed under this section shall be composed of at 
 
 &emsp;(B) has an understanding of and expertise in the type of official activities that one or more such persons were engaged in at the time such person or persons disappeared.
 
-(4) The Secretary who appoints a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, with the same qualifications as specified in section 1503(c)(3) of this title.
+(4) The Secretary who appoints a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, with the same qualifications as specified in section 1503(c)(4) of this title.
 
 (e)
 
@@ -38,11 +52,11 @@ Duties of Board.—A board appointed under this section to conduct an inquiry in
 
 &emsp;(4) determine on the basis of the activities under paragraphs (1) and (2) whether the status of the person should be continued or changed; and
 
-&emsp;(5) submit to the Secretary concerned a report describing the findings and conclusions of the board, together with a recommendation for a determination by the Secretary concerning the whereabouts and status of the person.
+&emsp;(5) submit to the Secretary concerned a report describing the findings and conclusions ofthe board, together with a recommendation for a determination by the Secretary concerning the whereabouts and status of the person.
 
 (f)
 
-Counsel for Missing Persons.—(1) When the Secretary concerned appoints a board to conduct an inquiry under this section, the Secretary shall appoint counsel to represent each person covered by the inquiry.
+Counsel for Missing Persons.—(1) When the Secretary concerned appoints a board to conduct an inquiry under this section, the Secretary shall appoint counsel to represent each person covered by the inquiry. The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person's primary next of kin and any other previously designated person of the person.
 
 (2) A person appointed as counsel under this subsection shall meet the qualifications and have the duties set forth in section 1503(f) of this title for a missing person's counsel appointed under that section.
 
@@ -92,13 +106,13 @@ Availability of Information to Boards.—(1) In conducting proceedings in an inq
 
 (i)
 
-Recommendation on Status.—(1) Upon completion of an inquiry under this subsection,<sup>1</sup> a board shall make a recommendation as to the current whereabouts and status of each missing person covered by the inquiry.
+Recommendation on Status.—(1) Upon completion of an inquiry under this section, a board shall make a recommendation as to the current whereabouts and status of each missing person covered by the inquiry.
 
 (2) A board may not recommend under paragraph (1) that a person be declared dead unless in making the recommendation the board complies with section 1507 of this title.
 
 (j)
 
-Report.—A board appointed under this section shall submit to the Secretary concerned a report on the inquiry carried out by the board, together with the evidence considered by the board during the inquiry. The report may include a classified annex.
+Report.—A board appointed under this section shall submit to the Secretary concerned areport on the inquiry carried out by the board, together with the evidence considered by the board during the inquiry. The report may include a classified annex.
 
 (k)
 
@@ -126,9 +140,17 @@ Report to Family Members and Other Interested Persons.—Not later than 60 days 
 
 Treatment of Determination.—Any determination of the status of a missing person under subsection (k) shall supersede the determination of the status of the person under section 1503 of this title and shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 341; amended Pub. L. 104–201, div. A, title V, §578(a)(3), Sept. 23, 1996, 110 Stat. 2536.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 341; amended Pub. L. 104–201, div. A, title V, §578(a)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(3), (d)(1), title X, §1073(a)(30), Nov. 18, 1997, 111 Stat. 1767, 1769, 1902.)
 
 #### Amendments
+
+1997—Subsec. (d)(1). Pub. L. 105–85, §599(a)(3)(A), substituted “as follows:” and subpars. (A) to (C) for “who are officers having the grade of major or lieutenant commander or above.”
+
+Subsec. (d)(4). Pub. L. 105–85, §599(a)(3)(B), substituted “section 1503(c)(4)” for “section 1503(c)(3)”.
+
+Subsec. (f)(1). Pub. L. 105–85, §599(d)(1), inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person's primary next of kin and any other previously designated person of the person.”
+
+Subsec. (i)(1). Pub. L. 105–85, §1073(a)(30), substituted “this section” for “this subsection”.
 
 1996—Subsec. (d)(1). Pub. L. 104–201, §578(a)(3)(A), added text of par. (1) and struck out former text of par. (1) which read as follows: “A board appointed under this section shall be composed of at least three members as follows:
 
@@ -151,6 +173,4 @@ Subsec. (d)(4). Pub. L. 104–201, §578(a)(3)(B), substituted “section 1503(c
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1501, 1505, 1507, 1508, 1509 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “this section,”.</i>
 

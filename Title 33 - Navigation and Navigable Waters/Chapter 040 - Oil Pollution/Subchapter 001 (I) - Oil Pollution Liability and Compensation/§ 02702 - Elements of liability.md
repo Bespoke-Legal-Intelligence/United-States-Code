@@ -28,7 +28,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 #### (C) Subsistence use
 
-&emsp;&emsp;Damages for loss of subsistence use of natural resources, which shall be recoverable by any claimant who so uses natural resources which have been injured, destroyed, or lost, without regard to the ownership or management of the resources.
+&emsp;&emsp;Damages for loss of subsistence use of natural resources, which shall be recoverable byany claimant who so uses natural resources which have been injured, destroyed, or lost, without regard to the ownership or management of the resources.
 
 #### (D) Revenues
 
@@ -66,7 +66,7 @@ This subchapter does not apply to any discharge—
 
 &emsp;&emsp;&emsp;(i) in accordance with section 2713 of this title, shall pay removal costs and damages to any claimant; and
 
-&emsp;&emsp;&emsp;(ii) shall be entitled by subrogation to all rights of the United States Governmentand the claimant to recover removal costs or damages from the third party or the Fund paid under this subsection.
+&emsp;&emsp;&emsp;(ii) shall be entitled by subrogation to all rights of the United States Government and the claimant to recover removal costs or damages from the third party or the Fund paid under this subsection.
 
 #### (2) Limitation applied
 

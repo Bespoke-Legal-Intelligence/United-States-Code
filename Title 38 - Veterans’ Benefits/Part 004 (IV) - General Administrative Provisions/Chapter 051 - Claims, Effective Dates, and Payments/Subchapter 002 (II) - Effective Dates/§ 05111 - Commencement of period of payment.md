@@ -42,3 +42,7 @@ Amendment by Pub. L. 98–223 effective Oct. 1, 1983, see section 114 of Pub. L.
 
 Section 401(b) of Pub. L. 97–253 provided that: “Section 3011 \[now 5111\] of title 38, United States Code, as added by subsection (a), shall apply to awards and increased awards the effective dates of which are after September 30, 1982.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1806 of this title.
+

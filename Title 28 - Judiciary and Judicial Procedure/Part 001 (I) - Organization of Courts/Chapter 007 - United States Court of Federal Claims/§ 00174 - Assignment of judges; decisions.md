@@ -4,7 +4,7 @@
 
 (b) All decisions of the Court of Federal Claims shall be preserved and open to inspection.
 
-(June 25, 1948, ch. 646, 62 Stat. 898; Apr. 2, 1982, Pub. L. 97–164, title I, §105(a), 96 Stat. 27; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 898; Pub. L. 97–164, title I, §105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -22,9 +22,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in subsec. (b).
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in subsec. (b).
 
-1982—Pub. L. 97–164 amended section generally, substituting provisions relating to assignment of judges (formerly contained in section 175) for provisions relating to terms of court. See section 173 of this title.
+<b>1982</b>—Pub. L. 97–164 amended section generally, substituting provisions relating to assignment of judges (formerly contained in section 175) for provisions relating to terms of court. See section 173 of this title.
 
 #### Effective Date of 1992 Amendment
 

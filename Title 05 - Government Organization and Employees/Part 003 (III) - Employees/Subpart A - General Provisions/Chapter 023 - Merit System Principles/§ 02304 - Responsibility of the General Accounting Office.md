@@ -2,7 +2,7 @@
 
 If requested by either House of the Congress (or any committee thereof), or if considered necessary by the Comptroller General, the General Accounting Office shall conduct audits and reviews to assure compliance with the laws, rules, and regulations governing employment in the executive branch and in the competitive service and to assess the effectiveness and soundness of Federal personnel management.
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1118; amended Pub. L. 102–378, §2(6),Oct. 2, 1992, 106 Stat. 1346; Pub. L. 104–66, title II, §2181(e), Dec. 21, 1995, 109 Stat. 732.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1118; amended Pub. L. 102–378, §2(6), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 104–66, title II, §2181(e), Dec. 21, 1995, 109 Stat. 732.)
 
 #### Amendments
 

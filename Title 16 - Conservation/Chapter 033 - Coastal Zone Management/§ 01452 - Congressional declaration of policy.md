@@ -12,7 +12,7 @@ The Congress finds and declares that it is the national policy—
 
 &emsp;&emsp;(C) the management of coastal development to improve, safeguard, and restore the quality of coastal waters, and to protect natural resources and existing uses of those waters,
 
-&emsp;&emsp;(D) priority consideration being given to coastal-dependent uses and orderly processesfor siting major facilities related to national defense, energy, fisheries development, recreation, ports and transportation, and the location, to the maximum extent practicable, of new commercial and industrial developments in or adjacent to areas where such development already exists,
+&emsp;&emsp;(D) priority consideration being given to coastal-dependent uses and orderly processes for siting major facilities related to national defense, energy, fisheries development, recreation, ports and transportation, and the location, to the maximum extent practicable, of new commercial and industrial developments in or adjacent to areas where such development already exists,
 
 &emsp;&emsp;(E) public access to the coasts for recreation purposes,
 

@@ -20,7 +20,7 @@
 
 (2) In the case of a child who is eighteen years of age or over and who immediately before becoming eighteen years of age was counted under section 1311(b) of this title in determining the amount of the dependency and indemnity compensation of a surviving spouse, the effective date of an award of dependency and indemnity compensation to such child shall be the date the child attains the age of eighteen years if application therefor is received within one year from such date.
 
-(f) An award of additional compensation on account of dependents based on the establishmentof a disability rating in the percentage evaluation specified by law for the purpose shall be payable from the effective date of such rating; but only if proof of dependents is received within one year from the date of notification of such rating action.
+(f) An award of additional compensation on account of dependents based on the establishment of a disability rating in the percentage evaluation specified by law for the purpose shall be payable from the effective date of such rating; but only if proof of dependents is received within one year from the date of notification of such rating action.
 
 (g) Subject to the provisions of section 5101 of this title, where compensation, dependency and indemnity compensation, or pension is awarded or increased pursuant to any Act or administrative issue, the effective date of such award or increase shall be fixed in accordance with the facts found but shall not be earlier than the effective date of the Act or administrative issue. In no event shall such award or increase be retroactive for more than one year from the date of application therefor or the date of administrative determination of entitlement, whichever is earlier.
 
@@ -124,5 +124,5 @@ Amendment by Pub. L. 87–825 effective first day of second calendar month which
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5111, 5310, 6103 of this title.
+This section is referred to in sections 1806, 5111, 5310, 6103 of this title.
 

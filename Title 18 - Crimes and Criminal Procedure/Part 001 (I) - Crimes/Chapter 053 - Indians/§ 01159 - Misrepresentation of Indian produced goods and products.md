@@ -16,7 +16,7 @@
 
 &emsp;(3) the term “Indian tribe” means—
 
-&emsp;&emsp;(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
+&emsp;&emsp;(A) any Indian tribe, band, nation, Alaska Native village, or other organized group orcommunity which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
 
 &emsp;&emsp;(B) any Indian group that has been formally recognized as an Indian tribe by a State legislature or by a State commission or similar organization legislatively vested with State tribal recognition authority; and
 

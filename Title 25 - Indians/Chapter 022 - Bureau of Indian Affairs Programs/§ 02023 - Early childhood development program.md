@@ -78,5 +78,5 @@ For the purpose of carrying out the provisions of this section, there are author
 
 #### Prior Provisions
 
-A prior section 2023, Pub. L. 95–561, title XI, §1143, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat.2398, related to employee housing, rental rates, and waiver of rentals during non-session periods and non-pay status, prior to repeal by Pub. L. 99–89, §9(a)(2), Aug. 15, 1985, 99 Stat. 383.
+A prior section 2023, Pub. L. 95–561, title XI, §1143, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398, related to employee housing, rental rates, and waiver of rentals during non-session periods and non-pay status, prior to repeal by Pub. L. 99–89, §9(a)(2), Aug. 15, 1985, 99 Stat. 383.
 

@@ -42,7 +42,7 @@ Inspector General Investigation of Underlying Allegations.—Upon receiving an a
 
 (e)
 
-Reports on Investigations.—(1) Not later than 30 days after completion of an investigation under subsection (c) or (d), the Inspector General shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Transportation in the case ofa member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and the member of the armed forces who made the allegation investigated.
+Reports on Investigations.—(1) Not later than 30 days after completion of an investigation under subsection (c) or (d), the Inspector General shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Transportation in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and the member of the armed forces who made the allegation investigated.
 
 (2) In the copy of the report submitted to the member, the Inspector General shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under section 552 of title 5.
 

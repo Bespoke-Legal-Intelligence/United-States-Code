@@ -2,7 +2,7 @@
 
 #### (a) Ensign
 
-Temporary appointment in the grade of ensign may be made by the President alone, provided such temporary appointment will be terminated at the close of the next regular session of the Congress unless confirmed by the Senate.
+Temporary appointment in the grade of ensign may be made by the President alone, providedsuch temporary appointment will be terminated at the close of the next regular session of the Congress unless confirmed by the Senate.
 
 #### (b) Lieutenant junior grade
 
@@ -12,7 +12,7 @@ Officers in the permanent grade of ensign may be temporarily promoted to and app
 
 When determined by the Secretary of Commerce to be in the best interest of the service, officers in any permanent grade may be temporarily promoted one grade by the President alone. Any such temporary promotion terminates upon the transfer of the officer to a new assignment.
 
-(June 3, 1948, ch. 390, §12, as added Sept. 14, 1961, Pub. L. 87–233, §1(d), 75 Stat. 506; amended Oct. 19, 1984, Pub. L. 98–498, title III, §320(b), 98 Stat. 2308.)
+(June 3, 1948, ch. 390, §12, as added Pub. L. 87–233, §1(d), Sept. 14, 1961, 75 Stat. 506; amended Pub. L. 98–498, title III, §320(b), Oct. 19, 1984, 98 Stat. 2308.)
 
 #### Amendments
 

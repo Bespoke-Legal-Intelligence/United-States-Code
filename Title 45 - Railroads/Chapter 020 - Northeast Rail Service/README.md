@@ -17,12 +17,7 @@
 | (b) | Strikes interfering with Amtrak Commuter's rail passenger service. |
 | (c) | Railway Labor Act deemed violated. |
 | [1109\.](%C2%A7%2001109%20-%20Effectuation%20of%20cost%20reductions.md) | Effectuation of cost reductions. |
-| [1110\.](%C2%A7%2001110%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93509%2C%20title%20IV%2C%20%C2%A74033%28c%29%281%29%28C%29%28i%29%28II%29%2C%20Oct.%2021%2C%201986%2C%20100%20Stat.%201908.md) | Repealed. |
-| [1111\.](%C2%A7%2001111%20-%20Northeast%20Corridor%20cost%20dispute.md) | Northeast Corridor cost dispute. |
-| (a) | Determination of costing methodology. |
-| (b) | Effective date of determination or agreement. |
-| (c) | Agreement subsequent to determination. |
-| (d) | Finality of determination. |
+| 1110, 1111. Repealed. |  |
 | [1112\.](%C2%A7%2001112%20-%20Interstate%20Commerce%20Commission%20proceedings.md) | Interstate Commerce Commission proceedings. |
 | (a) | Final decisions involving railroads in bankruptcy. |
 | (b) | Final decisions involving profitable railroads. |
@@ -53,7 +48,7 @@
 - [&sect; 01108 - Concerted economic action](%C2%A7%2001108%20-%20Concerted%20economic%20action.md)
 - [&sect; 01109 - Effectuation of cost reductions](%C2%A7%2001109%20-%20Effectuation%20of%20cost%20reductions.md)
 - [&sect; 01110 - Repealed. Pub. L. 99&#8211;509, title IV, &sect;4033(c)(1)(C)(i)(II), Oct. 21, 1986, 100 Stat. 1908](%C2%A7%2001110%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93509%2C%20title%20IV%2C%20%C2%A74033%28c%29%281%29%28C%29%28i%29%28II%29%2C%20Oct.%2021%2C%201986%2C%20100%20Stat.%201908.md)
-- [&sect; 01111 - Northeast Corridor cost dispute](%C2%A7%2001111%20-%20Northeast%20Corridor%20cost%20dispute.md)
+- [&sect; 01111 - Repealed. Pub. L. 105&#8211;134, title IV, &sect;408, Dec. 2, 1997, 111 Stat. 2586](%C2%A7%2001111%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93134%2C%20title%20IV%2C%20%C2%A7408%2C%20Dec.%202%2C%201997%2C%20111%20Stat.%202586.md)
 - [&sect; 01112 - Interstate Commerce Commission proceedings](%C2%A7%2001112%20-%20Interstate%20Commerce%20Commission%20proceedings.md)
 - [&sect; 01113 - Intercity passenger service](%C2%A7%2001113%20-%20Intercity%20passenger%20service.md)
 - [&sect; 01114 - Repealed. Pub. L. 99&#8211;509, title IV, &sect;4033(c)(1)(C)(i)(III), Oct. 21, 1986, 100 Stat. 1908](%C2%A7%2001114%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93509%2C%20title%20IV%2C%20%C2%A74033%28c%29%281%29%28C%29%28i%29%28III%29%2C%20Oct.%2021%2C%201986%2C%20100%20Stat.%201908.md)

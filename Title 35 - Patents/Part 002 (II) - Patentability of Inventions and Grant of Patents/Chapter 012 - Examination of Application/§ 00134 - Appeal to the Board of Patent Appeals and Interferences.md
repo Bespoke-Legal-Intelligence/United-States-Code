@@ -2,7 +2,7 @@
 
 An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Nov. 8, 1984, Pub. L. 98–622, title II, §204(b)(1), 98 Stat. 3388.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 98–622, title II, §204(b)(1), Nov. 8, 1984, 98 Stat. 3388.)
 
 #### Historical and Revision Notes
 

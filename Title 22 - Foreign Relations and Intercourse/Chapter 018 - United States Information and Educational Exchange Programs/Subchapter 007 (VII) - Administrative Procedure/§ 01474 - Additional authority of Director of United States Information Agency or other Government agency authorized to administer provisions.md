@@ -4,7 +4,7 @@ In carrying out the provisions of this chapter, the Director, or any Government 
 
 &emsp;(1) employ, without regard to the civil service and classification laws, aliens within the United States and abroad for service in the United States relating to the translation or narration of colloquial speech in foreign languages or the preparation and production of foreign language programs when suitably qualified United States citizens are not available when job vacancies occur, and aliens so employed abroad may be admitted to the United States, if otherwise qualified, as nonimmigrants under section 1101(a)(15) of title 8 for such time and under such conditions and procedures as may be established by the Director of the United States Information Agency and the Attorney General;
 
-&emsp;(2) pay travel expenses of aliens employed abroad for service in the United States and their dependents to and from the United States;
+&emsp;(2) pay travel expenses of aliens employed abroad for service in the United States andtheir dependents to and from the United States;
 
 &emsp;(3) incur expenses for entertainment within the United States within such amounts as may be provided in appropriations Acts;
 
@@ -48,7 +48,7 @@ In carrying out the provisions of this chapter, the Director, or any Government 
 
 &emsp;(23) provide allowances as authorized by sections 5921 through 5928 of title 5.
 
-(Jan. 27, 1948, ch. 36, title VIII, §804, as added July 13, 1972, Pub. L. 92–352, title II, §202, 86 Stat. 493; amended July 12, 1976, Pub. L. 94–350, title II, §203, 90 Stat. 830; 1977 Reorg. Plan No. 2,§7(a)(1), 42 F.R. 62461, 91 Stat. 1637; Aug. 15, 1979, Pub. L. 96–60, title II, §§203(b)(2), 204(b), 93 Stat. 398, 400; Aug. 24, 1982, Pub. L. 97–241, title III, §§303(b), 304(c), (d), 96 Stat. 291, 293; Feb. 16, 1990, Pub. L. 101–246, title II, §207, 104 Stat. 53; Oct. 28, 1991, Pub. L. 102–138, title II, §§204, 205, 105 Stat. 692.)
+(Jan. 27, 1948, ch. 36, title VIII, §804, as added Pub. L. 92–352, title II, §202, July 13, 1972, 86 Stat. 493; amended Pub. L. 94–350, title II, §203, July 12, 1976, 90 Stat. 830; 1977 Reorg. Plan No. 2, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 96–60, title II, §§203(b)(2), 204(b), Aug. 15, 1979, 93 Stat. 398, 400; Pub. L. 97–241, title III, §§303(b), 304(c), (d), Aug. 24, 1982, 96 Stat. 291, 293; Pub. L. 101–246, title II, §207, Feb. 16, 1990, 104 Stat. 53; Pub. L. 102–138, title II, §§204, 205, Oct. 28, 1991, 105 Stat. 692.)
 
 #### References in Text
 

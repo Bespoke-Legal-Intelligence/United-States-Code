@@ -20,7 +20,7 @@
 
 &emsp;(9) assess and advise on policies for international cooperation in science and technology which will advance the national and international objectives of the United States;
 
-&emsp;(10) identify and assess emerging and future areas in which science and technology can beused effectively in addressing national and international problems;
+&emsp;(10) identify and assess emerging and future areas in which science and technology can be used effectively in addressing national and international problems;
 
 &emsp;(11) report at least once each year to the President and the Congress on the overall activities and accomplishments of the Office, pursuant to section 6615 of this title;
 
@@ -56,7 +56,7 @@ Functions vested in Office of Science and Technology Policy and Director thereof
 
 #### Abolition of Intergovernmental Science, Engineering, and Technology Advisory Panel; Transfer of Functions
 
-The Intergovernmental Science, Engineering, and Technology Advisory Panel, established pursuant to this section, was abolished and its functions transferred to the President by Reorg. Plan No. 1 of 1977, §5A, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendix to Title 5, effective Feb. 26, 1978, as provided by section 1(b) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
+The Intergovernmental Science, Engineering, and Technology Advisory Panel, established pursuant to this section, was abolished and its functions transferred to the President by Reorg. Plan No. 1 of 1977, §5A, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendixto Title 5, effective Feb. 26, 1978, as provided by section 1(b) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

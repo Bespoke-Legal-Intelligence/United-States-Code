@@ -1,5 +1,5 @@
 
-15 U.S.C.<br>United States Code, 1996 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
+15 U.S.C.<br>United States Code, 1997 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 15—COMMERCE AND TRADE
 
@@ -29,7 +29,7 @@
 | [<b>12.</b>](Chapter%20012%20-%20Discrimination%20Against%20Farmers%E2%80%99%20Cooperative%20Associations%20by%20Boards%20of%20Trade/README.md) | <b>Discrimination Against Farmers’ Cooperative Associations by Boards of Trade</b> | <b>431</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Textile%20Foundation/README.md) | <b>Textile Foundation</b> | <b>501</b> |
 | [<b>13A.</b>](Chapter%20013A%20-%20Fishing%20Industry/README.md) | <b>Fishing Industry</b> | <b>521</b> |
-| <b>14.</b> | <b>Reconstruction Finance Corporation \[Repealed, Omitted, or Transferred\]</b> | <b>601</b> |
+| [<b>14.</b>](Chapter%20014%20-%20Reconstruction%20Finance%20Corporation/README.md) | <b>Reconstruction Finance Corporation \[Repealed, Omitted, or Transferred\]</b> | <b>601</b> |
 | [<b>14A.</b>](Chapter%20014A%20-%20Aid%20to%20Small%20Business/README.md) | <b>Aid to Small Business</b> | <b>631</b> |
 | [<b>14B.</b>](Chapter%20014B%20-%20Small%20Business%20Investment%20Program/README.md) | <b>Small Business Investment Program</b> | <b>661</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Economic%20Recovery/README.md) | <b>Economic Recovery</b> | <b>701</b> |
@@ -65,7 +65,7 @@
 | [<b>39.</b>](Chapter%20039%20-%20Fair%20Packaging%20and%20Labeling%20Program/README.md) | <b>Fair Packaging and Labeling Program</b> | <b>1451</b> |
 | [<b>39A.</b>](Chapter%20039A%20-%20Special%20Packaging%20of%20Household%20Substances%20for%20Protection%20of%20Children/README.md) | <b>Special Packaging of Household Substances for Protection of Children</b> | <b>1471</b> |
 | [<b>40.</b>](Chapter%20040%20-%20Department%20of%20Commerce/README.md) | <b>Department of Commerce</b> | <b>1501</b> |
-| <b>41.</b> | <b>Consumer Credit Protection</b> | <b>1601</b> |
+| [<b>41.</b>](Chapter%20041%20-%20Consumer%20Credit%20Protection/README.md) | <b>Consumer Credit Protection</b> | <b>1601</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Interstate%20Land%20Sales/README.md) | <b>Interstate Land Sales</b> | <b>1701</b> |
 | [<b>43.</b>](Chapter%20043%20-%20Newspaper%20Preservation/README.md) | <b>Newspaper Preservation</b> | <b>1801</b> |
 | [<b>44.</b>](Chapter%20044%20-%20Protection%20of%20Horses/README.md) | <b>Protection of Horses</b> | <b>1821</b> |
@@ -150,6 +150,7 @@
 - [Chapter 012 - Discrimination Against Farmers&#8217; Cooperative Associations by Boards of Trade](Chapter%20012%20-%20Discrimination%20Against%20Farmers%E2%80%99%20Cooperative%20Associations%20by%20Boards%20of%20Trade/README.md)
 - [Chapter 013 - Textile Foundation](Chapter%20013%20-%20Textile%20Foundation/README.md)
 - [Chapter 013A - Fishing Industry](Chapter%20013A%20-%20Fishing%20Industry/README.md)
+- [Chapter 014 - Reconstruction Finance Corporation](Chapter%20014%20-%20Reconstruction%20Finance%20Corporation/README.md)
 - [Chapter 014A - Aid to Small Business](Chapter%20014A%20-%20Aid%20to%20Small%20Business/README.md)
 - [Chapter 014B - Small Business Investment Program](Chapter%20014B%20-%20Small%20Business%20Investment%20Program/README.md)
 - [Chapter 015 - Economic Recovery](Chapter%20015%20-%20Economic%20Recovery/README.md)
@@ -185,6 +186,7 @@
 - [Chapter 039 - Fair Packaging and Labeling Program](Chapter%20039%20-%20Fair%20Packaging%20and%20Labeling%20Program/README.md)
 - [Chapter 039A - Special Packaging of Household Substances for Protection of Children](Chapter%20039A%20-%20Special%20Packaging%20of%20Household%20Substances%20for%20Protection%20of%20Children/README.md)
 - [Chapter 040 - Department of Commerce](Chapter%20040%20-%20Department%20of%20Commerce/README.md)
+- [Chapter 041 - Consumer Credit Protection](Chapter%20041%20-%20Consumer%20Credit%20Protection/README.md)
 - [Chapter 042 - Interstate Land Sales](Chapter%20042%20-%20Interstate%20Land%20Sales/README.md)
 - [Chapter 043 - Newspaper Preservation](Chapter%20043%20-%20Newspaper%20Preservation/README.md)
 - [Chapter 044 - Protection of Horses](Chapter%20044%20-%20Protection%20of%20Horses/README.md)

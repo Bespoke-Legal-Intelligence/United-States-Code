@@ -1,6 +1,6 @@
 ### §5546. Pay for Sunday and holiday work
 
-(a) An employee who performs work during a regularly scheduled 8-hour period of servicewhich is not overtime work as defined by section 5542(a) of this title a part of which is performed on Sunday is entitled to pay for the entire period of service at the rate of his basic pay, plus premium pay at a rate equal to 25 percent of his rate of basic pay.
+(a) An employee who performs work during a regularly scheduled 8-hour period of service which is not overtime work as defined by section 5542(a) of this title a part of which is performed on Sunday is entitled to pay for the entire period of service at the rate of his basic pay, plus premium pay at a rate equal to 25 percent of his rate of basic pay.
 
 (b) An employee who performs work on a holiday designated by Federal Statute, Executive order, or with respect to an employee of the government of the District of Columbia, by order of the District of Columbia Council, is entitled to pay at the rate of his basic pay, plus premium pay at a rate equal to the rate of his basic pay, for that holiday work which is not—
 
@@ -81,6 +81,10 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 #### Transfer of Functions
 
 District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, classified to section 1–211 of the District of Columbia Code, and replaced by Council of District of Columbia, as provided by Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785, classified to section 1–221 of the District of Columbia Code.
+
+#### Condition of Performance
+
+Pub. L. 105–61, title VI, §636, Oct. 10, 1997, 111 Stat. 1316, provided that: “Notwithstanding any other provision of law, no part of any appropriation contained in this Act or any other Act for any fiscal year shall be available for paying Sunday premium pay to any employee unless such employee actually performed work during the time corresponding to such premium pay.”
 
 #### Cross References
 

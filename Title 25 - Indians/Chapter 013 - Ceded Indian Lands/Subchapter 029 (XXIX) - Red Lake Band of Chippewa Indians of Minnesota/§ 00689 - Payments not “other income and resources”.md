@@ -1,6 +1,0 @@
-### §689. Payments not “other income and resources”
-
-Payments made under sections 687 to 689 of this title shall not be held to be “other income and resources” as that term is used in sections 302(a)(7), 602(a)(7), and 1202(a)(8) of title 42.
-
-(Pub. L. 85–794, §3, Aug. 28, 1958, 72 Stat. 958.)
-

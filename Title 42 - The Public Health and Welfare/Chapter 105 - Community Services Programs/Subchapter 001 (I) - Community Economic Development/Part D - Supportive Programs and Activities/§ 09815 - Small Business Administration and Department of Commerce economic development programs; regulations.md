@@ -14,7 +14,7 @@
 
 Section 681(d) of title 15, referred to in subsec. (a)(1), was repealed by Pub. L. 104–208, div. D, title II, §208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Titles I and II of the Public Works and Economic Development Act of 1965 are classified generally to subchapters I (§3131 et seq.) and II (§3141 et seq.), respectively, of chapter 38 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of this title and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–136, Aug.26, 1965, 79 Stat. 552, as amended. Titles I and II of the Public Works and Economic Development Act of 1965 are classified generally to subchapters I (§3131 et seq.) and II (§3141 et seq.), respectively, of chapter 38 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ In this chapter:
 
 &emsp;&emsp;(iii) subject to subparagraph (B), a professional society (or committee thereof) of physicians or other licensed health care practitioners that follows a formal peer review process for the purpose of furthering quality health care (as determined under regulations of the Secretary).
 
-&emsp;(B) The term “health care entity” does not include a professional society (or committee thereof) if, within the previous 5 years, the society has been found by the Federal Trade Commission or any court to have engaged in any anti-competitive practice which had the effect of restricting the practice of licensed health care practitioners.
+&emsp;(B) The term “health care entity” does not include a professional society (or committeethereof) if, within the previous 5 years, the society has been found by the Federal Trade Commission or any court to have engaged in any anti-competitive practice which had the effect of restricting the practice of licensed health care practitioners.
 
 &emsp;(5) The term “hospital” means an entity described in paragraphs (1) and (7) of section 1395x(e) of this title.
 

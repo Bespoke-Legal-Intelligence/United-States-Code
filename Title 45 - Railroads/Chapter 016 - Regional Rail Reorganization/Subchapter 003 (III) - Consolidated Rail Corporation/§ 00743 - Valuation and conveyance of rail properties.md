@@ -44,7 +44,7 @@ Within 10 days after delivery of a certified copy of a final system plan pursuan
 
 > &emsp;except that such death benefits shall not be paid for any such employee in excess of an amount equal to twice the employee's annual salary at the time of retirement or $60,000, whichever is lower.
 
-> The Corporation shall be entitled to a loan pursuant to section 721(h) of this title in an amount required for the payment of insurance premiums and benefits described in this sub- paragraph. For purposes of section 721(h)(4)(A)(iii) of this title, amounts required for the payment of such premiums and benefits shall be deemed to be valid administrative claims against the respective estates of the railroads in reorganization, due and payable as of April 1, 1976, or, in the case of a railroad in reorganization which is not subject to a bankruptcy proceeding, such amounts shall be deemed to be obligations of such railroad, due and payable as of such date, and shall be reimbursable in accordance with the procedures set forth in paragraphs (4) and (5) of such section 721(h) of this title. As used in this subparagraph, the term “railroad in reorganization” includes any railroad which is controlled by a railroad in reorganization but is not itself subject to a bankruptcy proceeding, if such railroad conveyed substantially all of its rail properties to the Corporation pursuant to paragraph (1) of this subsection and conducted operations over such rail properties prior to the date of such conveyance.
+> The Corporation shall be entitled to a loan pursuant to section 721(h) of this title in an amount required for the payment of insurance premiums and benefits described in this subparagraph. For purposes of section 721(h)(4)(A)(iii) of this title, amounts required for the payment of such premiums and benefits shall be deemed to be valid administrative claims against the respective estates of the railroads in reorganization, due and payable as of April 1, 1976, or, in the case of a railroad in reorganization which is not subject to a bankruptcy proceeding, such amounts shall be deemed to be obligations of such railroad, due and payable as of such date, and shall be reimbursable in accordance with the procedures set forth in paragraphs (4) and (5) of such section 721(h) of this title. As used in this subparagraph, the term “railroad in reorganization” includes any railroad which is controlled by a railroad in reorganization but is not itself subject to a bankruptcy proceeding, if such railroad conveyed substantially all of its rail properties to the Corporation pursuant to paragraph (1) of this subsection and conducted operations over such rail properties prior to the date of such conveyance.
 
 #### (c) Findings and distribution
 
@@ -226,7 +226,7 @@ Application of National Environmental Policy Act to actions of Commission not af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 712, 716, 719, 721, 724, 725, 726, 741, 744, 745, 746, 791, 797h of this title; title 49 sections 24505, 24907.
+This section is referred to in sections 712, 716, 719, 721, 724, 725, 726, 741, 744, 745, 746, 791, 797h of this title; title 49 section 24907.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Director is authorized to enter into such agreements with the pool formed or otherwise created under this part as he deems necessary to carry out the purposes of this chapter.
+The Director is authorized to enter into such agreements with the pool formed or otherwisecreated under this part as he deems necessary to carry out the purposes of this chapter.
 
 #### (b) Terms and conditions
 
@@ -12,7 +12,7 @@ Such agreements shall specify—
 
 &emsp;(2) the terms and conditions under which the pool (and the companies and other insurers participating therein) shall participate in premiums received and profits or losses realized or sustained,
 
-&emsp;(3) the maximum amount of profit, established by the Director and set forth in theschedules prescribed under section 4018 of this title, which may be realized by such pool (and the companies and other insurers participating therein),
+&emsp;(3) the maximum amount of profit, established by the Director and set forth in the schedules prescribed under section 4018 of this title, which may be realized by such pool (and the companies and other insurers participating therein),
 
 &emsp;(4) the terms and conditions under which operating costs and allowances set forth in the schedules prescribed under section 4018 of this title may be paid, and
 

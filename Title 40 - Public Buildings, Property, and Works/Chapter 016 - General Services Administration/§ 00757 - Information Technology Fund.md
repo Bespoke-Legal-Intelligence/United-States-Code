@@ -24,7 +24,7 @@
 
 The Fund shall—
 
-&emsp;(1) assume all of the liabilities, obligations, and commitments of the funds described insubparagraphs (A) and (B) of subsection (a)(1) of this section; and
+&emsp;(1) assume all of the liabilities, obligations, and commitments of the funds described in subparagraphs (A) and (B) of subsection (a)(1) of this section; and
 
 &emsp;(2) be available for expenses, including personal services and other costs, and for procurement (by lease, purchase, transfer, or otherwise) for efficiently providing information technology resources to Federal agencies and for the efficient management, coordination, operation, and utilization of such resources.
 
@@ -60,7 +60,7 @@ A report on the operation of the Fund shall be made annually by the Administrato
 
 For purposes of this section, the term “information technology resources” includes any service or equipment which had been acquired or provided under this section or section 759 <sup>4</sup> of this title, including other information processing and transmission equipment, software, systems, operating facilities, supplies, and services related thereto, and maintenance and repair thereof.
 
-(June 30, 1949, ch. 288, title I, §110, as added Oct. 23, 1962, Pub. L. 87–847, 76 Stat. 1117; amended Oct. 18, 1986, Pub. L. 99–500, §101(m) \[title VIII, §821(a)(1)\], 100 Stat. 1783–308, 1783–340, and Oct. 30, 1986, Pub. L. 99–591, §101(m) \[title VIII, §821(a)(1)\], 100 Stat. 3341–308, 3341–340; Nov. 3, 1989, Pub. L. 101–136, title IV, §25, 103 Stat. 808.)
+(June 30, 1949, ch. 288, title I, §110, as added Pub. L. 87–847, Oct. 23, 1962, 76 Stat. 1117; amended Pub. L. 99–500, §101(m) \[title VIII, §821(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–340, and Pub. L. 99–591, §101(m) \[title VIII, §821(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–340; Pub. L. 101–136, title IV, §25, Nov. 3, 1989, 103 Stat. 808.)
 
 #### References in Text
 

@@ -88,5 +88,5 @@ In subsection (d)(1), before clause (A), the words “governments of foreign cou
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 46301, 46316 of this title.
+This section is referred to in section 46301 of this title.
 

@@ -6,7 +6,7 @@ Any action to enforce any cause of action under section 15, 15a, or 15c of this 
 
 #### References in Text
 
-The effective date of this Act, referred to in text, probably refers to the effective date of act July 7, 1955,ch. 283, 69 Stat. 282, which was six months after July 7, 1955.
+The effective date of this Act, referred to in text, probably refers to the effective date of act July 7, 1955, ch. 283, 69 Stat. 282, which was six months after July 7, 1955.
 
 This Act, referred to in text, probably refers to act July 7, 1955.
 

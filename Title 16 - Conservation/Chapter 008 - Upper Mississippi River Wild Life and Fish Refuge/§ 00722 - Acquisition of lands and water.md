@@ -1,6 +1,6 @@
 ### §722. Acquisition of lands and water
 
-The Secretary of the Interior is authorized to acquire, by purchase, gift, or lease, such areas of land, or of land and water, situated between Rock Island, Illinois, and Wabasha, Minnesota, on either side of or upon islands in the Mississippi River which are not used for agricultural purposes, as he determines suitable for the purposes of this chapter, and any such areawhen acquired shall become a part of the Upper Mississippi River Wild Life and Fish Refuge (referred to in this chapter as the “refuge”).
+The Secretary of the Interior is authorized to acquire, by purchase, gift, or lease, such areas of land, or of land and water, situated between Rock Island, Illinois, and Wabasha, Minnesota, on either side of or upon islands in the Mississippi River which are not used for agricultural purposes, as he determines suitable for the purposes of this chapter, and any such area when acquired shall become a part of the Upper Mississippi River Wild Life and Fish Refuge (referred to in this chapter as the “refuge”).
 
 (June 7, 1924, ch. 346, §§2, 3, 43 Stat. 650; June 18, 1934, ch. 602, 48 Stat. 1015; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 

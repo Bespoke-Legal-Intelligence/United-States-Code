@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 94–280, §119(b), excepted from the requirement of a conc
 
 1972—Subsec. (a). Pub. L. 92–361 substituted provisions setting forth maximum expendable amounts for fiscal years ending July 1, 1972 and for fiscal years commencing after June 30, 1972 and an additional amount for fiscal year ending June 30, 1973 for provisions setting forth maximum expendable amount for any fiscal year.
 
-1970—Subsec. (a). Pub. L. 91–605 provided emergency relief for the repair or reconstruction of bridges whichhave been permanently closed to all vehicular traffic by the State after December 31, 1967, and prior to December 31, 1970, because of imminent danger of collapse due to structural deficiencies or physical deterioration.
+1970—Subsec. (a). Pub. L. 91–605 provided emergency relief for the repair or reconstruction of bridges which have been permanently closed to all vehicular traffic by the State after December 31, 1967, and prior to December 31, 1970, because of imminent danger of collapse due to structural deficiencies or physical deterioration.
 
 1968—Subsec. (a). Pub. L. 90–495 permitted the use of the emergency fund for repair or construction caused by other than natural catastrophes.
 

@@ -52,7 +52,7 @@ The date of the enactment of the Veterans’ Benefits Improvements Act of 1996, 
 
 #### Amendments
 
-1996—Subsec. (e)(1). Pub. L. 104–275 inserted at end “Each Regional Administrator appointed after the dateof the enactment of the Veterans’ Benefits Improvements Act of 1996 shall be a veteran.”
+1996—Subsec. (e)(1). Pub. L. 104–275 inserted at end “Each Regional Administrator appointed after the date of the enactment of the Veterans’ Benefits Improvements Act of 1996 shall be a veteran.”
 
 1994—Subsec. (a). Pub. L. 103–446, §701(a), designated existing provisions as par. (1), redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and added par. (2).
 

@@ -32,7 +32,7 @@ Whenever any dispute exists between any war contractor and a subcontractor regar
 
 Any award or decision in such proceedings shall be final and conclusive as to the parties so submitting any such dispute and shall not be questioned by the United States in settling any related claim, in the absence of fraud or collusion.
 
-(July 1, 1944, ch. 358, §13, 58 Stat. 660; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; July 14, 1952, ch. 739, 66 Stat. 627; Apr. 2, 1982, Pub. L. 97–164, title I, §160(a)(14), 96 Stat. 48; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(July 1, 1944, ch. 358, §13, 58 Stat. 660; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; July 14, 1952, ch. 739, 66 Stat. 627; Pub. L. 97–164, title I, §160(a)(14), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### References in Text
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) in the case of an obligation or expenditure in excess of $500,000, but not in excess of $1,000,000, 5 days have elapsed since the date of the notification.
 
-(2) Subparagraph (A) or (B) of paragraph (1) shall not apply to an obligation or expenditure of funds otherwise covered by such subparagraph if the Secretary of Defense determines that the national security objectives of the United States will be compromised by the application of the subparagraph to the obligation or expenditure. If the Secretary makes a determination with respect to an obligation or expenditure under the preceding sentence, the Secretary shall immediately notify the committees referred to in paragraph (1) that such obligation or expenditure is necessary and provide any relevant information (in classified form, if necessary) jointly to the chairman and ranking minority member (or their designees) of such committees.
+(2) Subparagraph (A) or (B) of paragraph (1) shall not apply to an obligation or expenditureof funds otherwise covered by such subparagraph if the Secretary of Defense determines that the national security objectives of the United States will be compromised by the application of the subparagraph to the obligation or expenditure. If the Secretary makes a determination with respect to an obligation or expenditure under the preceding sentence, the Secretary shall immediately notify the committees referred to in paragraph (1) that such obligation or expenditure is necessary and provide any relevant information (in classified form, if necessary) jointly to the chairman and ranking minority member (or their designees) of such committees.
 
 (3) A notification under paragraph (1) and information referred to in paragraph (2) shall include the amount to be obligated or expended, as the case may be, and the purpose of the obligation or expenditure.
 
@@ -42,5 +42,5 @@ Subsec. (c). Pub. L. 98–94 struck out “of this section” after “subsectio
 
 #### Construction Authority of Secretary of Defense Under Declaration of War or National Emergency
 
-Pub. L. 97–99, title IX, §903, Dec. 23, 1981, 95 Stat. 1382, which authorized the Secretary of Defense, in the event of a declaration of war or the declaration of a national emergency by the President, to undertake military construction without regard to any other provisions oflaw, was repealed and restated as section 2808 of this title by Pub. L. 97–214, §§2(a), 7(18), July 12, 1982, 96 Stat. 157, 174, effective Oct. 1, 1982.
+Pub. L. 97–99, title IX, §903, Dec. 23, 1981, 95 Stat. 1382, which authorized the Secretary of Defense, in the event of a declaration of war or the declaration of a national emergency by the President, to undertake military construction without regard to any other provisions of law, was repealed and restated as section 2808 of this title by Pub. L. 97–214, §§2(a), 7(18), July 12, 1982, 96 Stat. 157, 174, effective Oct. 1, 1982.
 

@@ -4,15 +4,17 @@
 
 General.—Subject to section 9503(c)(1) of the Internal Revenue Code of 1986 (26 U.S.C. 9503(c)(1)), the following amounts are available from the Highway Trust Fund (except the Mass Transit Account) for the Secretary of Transportation to incur obligations to carry out section 31102 of this title:
 
-&emsp;(1) not more than $76,000,000 for the fiscal year ending September 30, 1993.
+&emsp;(1) Not more than $76,000,000 for the fiscal year ending September 30, 1993.
 
-&emsp;(2) not more than $80,000,000 for the fiscal year ending September 30, 1994.
+&emsp;(2) Not more than $80,000,000 for the fiscal year ending September 30, 1994.
 
-&emsp;(3) not more than $83,000,000 for the fiscal year ending September 30, 1995.
+&emsp;(3) Not more than $83,000,000 for the fiscal year ending September 30, 1995.
 
-&emsp;(4) not more than $85,000,000 for the fiscal year ending September 30, 1996.
+&emsp;(4) Not more than $85,000,000 for the fiscal year ending September 30, 1996.
 
-&emsp;(5) not more than $90,000,000 for the fiscal year ending September 30, 1997.
+&emsp;(5) Not more than $90,000,000 for the fiscal year ending September 30, 1997.
+
+&emsp;(6) Not more than $45,000,000 for the period of October 1, 1997, through March 31, 1998.
 
 (b)
 
@@ -78,9 +80,9 @@ Improved Allocation Formula.—The Secretary shall prescribe regulations to deve
 
 (j)
 
-Intrastate Compatibility.—The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws and regulations with Government motor carrier safety regulations to be enforcedunder section 31102(a) of this title. To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring the degree of uniformity that will not diminish transportation safety. In reviewing State plans and allocating amounts or making grants under section 153 of title 23, the Secretary shall ensure that the guidelines and standards are applied uniformly.
+Intrastate Compatibility.—The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws and regulations with Government motor carrier safety regulations to be enforced under section 31102(a) of this title. To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring the degree of uniformity that will not diminish transportation safety. In reviewing State plans and allocating amounts or making grants under section 153 of title 23, the Secretary shall ensure that the guidelines and standards are applied uniformly.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559.)
 
 Historical and Revision Notes
 
@@ -160,7 +162,7 @@ Dec. 18, 1991, Pub. L. 102–240, §4002(<i>l</i>), 105 Stat. 2144.
 
 In subsection (a), the text of 49 App.:2304(a)(1) and the references to fiscal years ending September 30, 1987–1992, are omitted as obsolete.
 
-In subsection (b), the text of 49 App.:2304(e) is omitted as superseded by 49 App.:2304(c) restated by section 4002(f) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2142) and restated in this subsection.
+In subsection (b), the text of 49 App.:2304(e) is omitted as superseded by 49 App.:2304(c) restated by section4002(f) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2142) and restated in this subsection.
 
 In subsection (b)(2), the words “Amounts made available under section 404(a)(2) of the Surface Transportation Assistance Act of 1982 before October 1, 1991” are substituted for “Funds made available under this subchapter” for clarity and because of the restatement.
 
@@ -175,6 +177,10 @@ In subsection (j), the words “Not later than 9 months after December 18, 1991�
 #### References in Text
 
 Section 404(a) of the Surface Transportation Assistance Act of 1982, referred to in subsec. (b)(2), is section 404(a) of Pub. L. 97–424, which was classified to section 2304(a) of former Title 49, Transportation, and was repealed and reenacted as subsec. (a) of this section by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 987, 1379.
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–130 substituted “Not more” for “not more” in pars. (1) to (5) and added par. (6).
 
 #### Section Referred to in Other Sections
 

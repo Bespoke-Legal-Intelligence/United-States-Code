@@ -1,0 +1,120 @@
+### §1320b–10. Prohibition of misuse of symbols, emblems, or names in reference to Social Security or Medicare
+
+#### (a) Prohibited acts
+
+(1) No person may use, in connection with any item constituting an advertisement, solicitation, circular, book, pamphlet, or other communication, or a play, motion picture, broadcast, telecast, or other production, alone or with other words, letters, symbols, or emblems—
+
+&emsp;(A) the words “Social Security”, “Social Security Account”, “Social Security System”, “Social Security Administration”, “Medicare”, “Health Care Financing Administration”, “Department of Health and Human Services”, “Health and Human Services”, “Supplemental Security Income Program”, or “Medicaid”, the letters “SSA”, “HCFA”, “DHHS”, “HHS”, or “SSI”, or any other combination or variation of such words or letters, or
+
+&emsp;(B) a symbol or emblem of the Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services (including the design of, or a reasonable facsimile of the design of, the social security card issued pursuant to section 405(c)(2)(F) of this title or the Medicare card,,<sup>1</sup> the check used for payment of benefits under subchapter II of this chapter, or envelopes or other stationery used by the Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services), or any other combination or variation of such symbols or emblems,
+
+> in a manner which such person knows or should know would convey, or in a manner which reasonably could be interpreted or construed as conveying, the false impression that such item is approved, endorsed, or authorized by the Social Security Administration, the Health Care Financing Administration, or the Department of Health and Human Services or that such person has some connection with, or authorization from, the Social Security Administration, the Health Care Financing Administration, or the Department of Health and Human Services. The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.
+
+(2)(A) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Social Security Administration unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Commissioner of Social Security shall prescribe.
+
+(B) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of theDepartment of Health and Human Services unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Secretary shall prescribe.
+
+(3) Any determination of whether the use of one or more words, letters, symbols, or emblems (or any combination or variation thereof) in connection with an item described in paragraph (1) or the reproduction, reprinting, or distribution of an item described in paragraph (2) is a violation of this subsection shall be made without regard to any inclusion in such item (or any so reproduced, reprinted, or distributed copy thereof) of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
+
+#### (b) Civil penalties
+
+The Commissioner or the Secretary (as applicable) may, pursuant to regulations, impose a civil money penalty not to exceed—
+
+&emsp;(1) except as provided in paragraph (2), $5,000, or
+
+&emsp;(2) in the case of a violation consisting of a broadcast or telecast, $25,000,
+
+> against any person for each violation by such person of subsection (a) of this section. In the case of any items referred to in subsection (a)(1) of this section consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) of this section shall represent a separate violation. In the case of any item referred to in subsection (a)(2) of this section, the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.
+
+#### (c) Application of other law; compromise, recovery, and deposit into Treasury of civil money penalties
+
+(1) The provisions of section 1320a–7a of this title (other than subsections (a), (b), (f), (h), and (i) and the first sentence of subsection (c)) shall apply to civil money penalties under subsection (b) of this section in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+
+(2) Penalties imposed against a person under subsection (b) of this section may be compromised by the Commissioner or the Secretary (as applicable) and may be recovered in a civil action in the name of the United States brought in the district court of the United States for the district in which the violation occurred or where the person resides, has its principal office, or may be found, as determined by the Commissioner or the Secretary (as applicable). Amounts recovered under this section shall be paid to the Commissioner or the Secretary (as applicable) and shall be deposited as miscellaneous receipts of the Treasury of the United States, except that (A) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Social Security Administration, such amounts shall be deposited into the Federal Old-Age and Survivors Insurance Trust Fund, and (B) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Department of Health and Human Services, such amounts shall be deposited into the Federal Hospital Insurance Trust Fund or the Federal Supplementary Medical Insurance Trust Fund, as appropriate. The amount of such penalty when finally determined, or the amount agreed upon in compromise, may be deducted from any sum then or later owing by the United States to the person against whom the penalty has been imposed.
+
+#### (d) Enforcement
+
+The preceding provisions of this section may be enforced through the Office of the Inspector General of the Social Security Administration or the Office of the Inspector General of the Department of Health and Human Services (as appropriate).
+
+(Aug. 14, 1935, ch. 531, title XI, §1140, as added July 1, 1988, Pub. L. 100–360, title IV, §428(a), 102 Stat. 815; amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(30)(A), 102 Stat. 2424; Aug. 15, 1994, Pub. L. 103–296, title I, §108(b)(12), title III, §§304(b), 312(a)–(j), 108 Stat. 1484, 1520, 1526, 1527.)
+
+#### Amendments
+
+1994—Subsec. (a). Pub. L. 103–296, §312(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+Subsec. (a)(1). Pub. L. 103–296, §312(c), (d), in closing provisions substituted “convey, or in a manner which reasonably could be interpreted or construed as conveying,” for “convey” and inserted at end “The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.”
+
+Subsec. (a)(1)(A). Pub. L. 103–296, §312(b)(1), substituted “Administration’, ‘Department of Health and Human Services’, ‘Health and Human Services’, ‘Supplemental Security Income Program’, or ‘Medicaid’, the letters ‘SSA’, ‘HCFA’, ‘DHHS’, ‘HHS’, or ‘SSI’,” for “Administration’, the letters ‘SSA’ or ‘HCFA’,”.
+
+Subsec. (a)(1)(B). Pub. L. 103–296, §312(b)(2), substituted “Social Security Administration, Health Care Financing Administration, or Department of Health and Human Services” for “Social Security Administration” in two places, struck out “or of the Health Care Financing Administration” before “, or any other”, and inserted “or the Medicare card,” after “section 405(c)(2)(F) of this title”.
+
+Subsec. (a)(2). Pub. L. 103–296, §304(b), substituted “405(c)(2)(F)” for “405(c)(2)(E)”.
+
+Subsec. (a)(2)(A), (B). Pub. L. 103–296, §108(b)(12)(A), in par. (2) as added by Pub. L. 103–296, §312(a), designated existing provisions as subpar. (A), struck out “or of the Department of Health and Human Services” after “Social Security Administration”, substituted “Commissioner of Social Security” for “Secretary”, and added subpar. (B).
+
+Subsec. (a)(3). Pub. L. 103–296, §312(e), added par. (3).
+
+Subsec. (b). Pub. L. 103–296, §312(g), substituted “The” for “(1) Subject to paragraph (2), the”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted “paragraph (2)” for “subparagraph (B)”, and struck out former par. (2) which read as follows: “The total amount of penalties which may be imposed under paragraph (1) with respect tomultiple violations in any one year period consisting of substantially identical communications or productions shall not exceed $100,000.”
+
+Subsec. (b)(1). Pub. L. 103–296, §312(f) inserted at end “In the case of any items referred to in subsection (a)(1) of this section consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) of this section shall represent a separate violation. In the case of any item referred to in subsection (a)(2) of this section, the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.”
+
+Pub. L. 103–296, §108(b)(12)(B), substituted “the Commissioner or the Secretary (as applicable)” for “the Secretary” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 103–296, §312(h), inserted “and the first sentence of subsection (c)” after “and (i)”.
+
+Subsec. (c)(2). Pub. L. 103–296, §312(i), at end of second sentence substituted comma for period and inserted “except that (A) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Social Security Administration, such amounts shall be deposited into the Federal Old-Age and Survivors Insurance Trust Fund, and (B) to the extent that such amounts are recovered under this section as penalties imposed for misuse of words, letters, symbols, or emblems relating to the Department of Health and Human Services, such amounts shall be deposited into the Federal Hospital Insurance Trust Fund or the Federal Supplementary Medical Insurance Trust Fund, as appropriate.”
+
+Pub. L. 103–296, §108(b)(12)(C), substituted “the Commissioner or the Secretary (as applicable)” for “the Secretary” wherever appearing.
+
+Subsec. (d). Pub. L. 103–296, §312(j), added subsec. (d).
+
+Pub. L. 103–296, §108(b)(12)(D), which in subsec. (d) as added by Pub. L. 103–296, §312(j), directed the substitution of “the Office of the Inspector General of the Social Security Administration or the Office of the Inspector General of the Department of Health and Human Services (as appropriate)” for “the Office of Inspector General of the Department of Health and Human Services”, was executed by making the substitution for “the Office of the Inspector General of the Department of Health and Human Services” to reflect the probable intent of Congress.
+
+1988—Subsec. (c)(1). Pub. L. 100–485 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subsections (c), (d), (e), (g), (j), and (k) of section 1320a–7a of this title shall apply with respect to violations under subsection (a) of this section and penalties imposed under subsection (b) of this section in the same manner and to the same extent as such subsections apply with respect to claims in violation of section 1320a–7a of this title and penalties imposed under section 1320a–7a(a) of this title.”
+
+#### Effective Date of 1994 Amendment
+
+Amendment by section 108(b)(12) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
+
+Amendment by section 312(a)–(j) of Pub. L. 103–296 applicable with respect to violations occurring after Mar. 31, 1995, see section 312(m)(1) of Pub. L. 103–296, set out as an Effective Date note under section 333 of Title 31, Money and Finance.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
+
+#### Effective Date
+
+Section 428(c) of Pub. L. 100–360 provided that: “The amendments made by this section \[enacting this section and amending section 1395ss of this title\] shall take effect on the date of the enactment of this Act \[July 1, 1988\] and shall apply only with respect to violations occurring on or after such date.”
+
+#### Reports on Operation of this Section
+
+Section 312(k) of Pub. L. 103–296 provided that:
+
+“(1)
+
+In general.—The Secretary of Health and Human Services and the Commissioner of Social Security shall each submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate 3 reports on the operation of section 1140 of the Social Security Act \[this section\] with respect to the Social Security Administration or the Department of Health and Human Services during the period covered by the report, which shall specify—
+
+&emsp;“(A) the number of complaints of violations of such section received by the Social Security Administration or the Department of Health and Human Services during the period,
+
+&emsp;“(B) the number of cases in which the Social Security Administration or the Department, during the period, sent a notice of violation of such section requesting that an individual cease activities in violation of such section,
+
+&emsp;“(C) the number of cases in which the Social Security Administration or the Department formally proposed a civil money penalty in a demand letter during the period,
+
+&emsp;“(D) the total amount of civil money penalties assessed by the Social Security Administration or the Department under this section during the period,
+
+&emsp;“(E) the number of requests for hearings filed during the period by the Social Security Administration or the Department pursuant to sections 1140(c)(1) \[subsec. (c)(1) of this section\] and 1128A(c)(2) \[section 1320a–7a(c)(2) of this title\] of the Social Security Act,
+
+&emsp;“(F) the disposition during the period of hearings filed pursuant to sections 1140(c)(1) and 1128A(c)(2) of the Social Security Act, and
+
+&emsp;“(G) the total amount of civil money penalties collected under this section and deposited into the Federal Old-Age and Survivors Insurance Trust Fund or the Health Insurance and Supplementary Medical Insurance Trust Funds, as applicable, during the period.
+
+“(2)
+
+When due.—The reports required by paragraph (1) shall be submitted not later than December 1, 1995, not later than December 1, 1997, and not later than December 1, 1999, respectively.”
+
+#### Consultation by United States Postal Service Regarding Prevention of Deceptive Mailings
+
+United States Postal Service to consult and coordinate functions of Secretary of Department of Health and Human Services in administration of this section, see section 4 of Pub. L. 101–524, set out as a Coordination of Functions With Department of Health and Human Services note under section 3001 of Title 39, Postal Service.
+
+<i><sup>1</sup></i><i> So in original.</i>
+

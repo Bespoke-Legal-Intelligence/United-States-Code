@@ -2,7 +2,7 @@
 
 (a)
 
-Leasing of Commercial Vehicles and Equipment.—The Secretary of Defense may use leasing in the acquisition of commercial vehicles and equipment whenever the Secretary determines that leasing of such vehicles is practicable and efficient.
+Leasing of Commercial Vehicles and Equipment.—The Secretary of Defense may use leasing in the acquisition of commercial vehicles and equipment whenever the Secretary determines that such leasing is practicable and efficient.
 
 (b)
 
@@ -10,7 +10,7 @@ Limitation on Contracts With Terms of 18
 
 Months or More.—The Secretary of Defense or the Secretary of a military department may not enter into any contract with a term of 18 months or more, or extend or renew any contract for a term of 18 months or more, for any vessel, aircraft, or vehicle, through a lease, charter, or similar agreement, unless the Secretary has considered all costs of such contract (including estimated termination liability) and has determined in writing that the contract is in the best interest of the Government.
 
-(Added Pub. L. 103–355, title III, §3065(a)(1), Oct. 13, 1994, 108 Stat. 3337; amended Pub. L. 104–106, div. A, title VIII, §807(a)(1), Feb. 10, 1996, 110 Stat. 391.)
+(Added Pub. L. 103–355, title III, §3065(a)(1), Oct. 13, 1994, 108 Stat. 3337; amended Pub. L. 104–106, div. A, title VIII, §807(a)(1), Feb. 10, 1996, 110 Stat. 391; Pub. L. 105–85, div. A, title X, §1073(a)(52), Nov. 18, 1997, 111 Stat. 1903.)
 
 #### Prior Provisions
 
@@ -19,6 +19,8 @@ Provisions similar to those in subsec. (b) were contained in Pub. L. 101–165, 
 A prior section 2401a was renumbered section 2350f of this title.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85 substituted “such leasing” for “leasing of such vehicles”.
 
 1996—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designated existing text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
 

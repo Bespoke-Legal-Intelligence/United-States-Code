@@ -16,13 +16,15 @@ In this chapter:
 
 &emsp;(4) The term “geospatial information” means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth and includes—
 
-&emsp;&emsp;(A) statistical data and information derived from, among other things, remote sensing, mapping, and surveying technologies;
+&emsp;&emsp;(A) statistical data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
 
-&emsp;&emsp;(B) mapping, charting, and geodetic data; and
+&emsp;&emsp;(B) mapping, charting, geodetic data, and related products.
 
-&emsp;&emsp;(C) geodetic products, as defined in section 455(c) <sup>1</sup> of this title.
+(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2682; amended Pub. L. 105–85, div. A, title IX, §933(b)(2), Nov. 18, 1997, 111 Stat. 1866.)
 
-(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2682.)
+#### Amendments
+
+1997—Par. (4). Pub. L. 105–85 inserted “and” at end of subpar. (A), substituted “geodetic data, and related products.” for “and geodetic data; and” in subpar. (B), and struck out subpar. (C) which read as follows: “geodetic products, as defined in section 455(c) of this title.”
 
 #### Effective Date
 

@@ -48,7 +48,7 @@ In an application submitted under subsection (a) of this section, the State shal
 
 &emsp;&emsp;(iii) The Project shall provide for telephone contact by, mail delivery of forms to and mail return of forms by, and subsequent home or telephone interview with, the elderly persons, physically or mentally handicapped, and persons otherwise unable, solely because of transportation difficulties and similar hardships, to appear in person.
 
-&emsp;&emsp;(iv) An individual who applies to participate in the Project may be represented byanother person in the review process if the other person has been clearly designated as the representative of such individual for that purpose, by such individual or the spouse of such individual, and, in the case of the review process, the representative is an adult who is sufficiently aware of relevant circumstances, except that the State may—
+&emsp;&emsp;(iv) An individual who applies to participate in the Project may be represented by another person in the review process if the other person has been clearly designated as the representative of such individual for that purpose, by such individual or the spouse of such individual, and, in the case of the review process, the representative is an adult who is sufficiently aware of relevant circumstances, except that the State may—
 
 &emsp;&emsp;&emsp;(I) restrict the number of individuals who may be represented by such person; and
 
@@ -116,7 +116,7 @@ If an application submitted under subsection (a) of this section by the State co
 
 #### (e) Waiver
 
-The Secretary shall (with respect to the Project) waive compliance with any requirementcontained in this chapter (other than this section) that (if applied) would prevent the State from carrying out the Project or effectively achieving its purpose.
+The Secretary shall (with respect to the Project) waive compliance with any requirement contained in this chapter (other than this section) that (if applied) would prevent the State from carrying out the Project or effectively achieving its purpose.
 
 #### (f) Construction
 

@@ -12,7 +12,7 @@ Section 493, act Apr. 30, 1900, ch. 339, §1, 31 Stat. 141, defined “the laws 
 
 Section 494, act Apr. 30, 1900, ch. 339, §4, 31 Stat. 141, granted United States citizenship to citizens of former Republic of Hawaii and Territorial citizenship to United States citizens resident in Territory under certain conditions.
 
-Section 495, acts Apr. 30, 1900, ch. 339, §5, 31 Stat. 141; May 27, 1910, ch. 258, §1, 36 Stat. 443; Apr. 12, 1930, ch. 136, §1(a), 46 Stat. 160; June 6, 1932, ch. 209, §116(b), 47Stat. 205, made applicable to Territory the United States Constitution and all other laws of the United States including laws carrying general appropriations.
+Section 495, acts Apr. 30, 1900, ch. 339, §5, 31 Stat. 141; May 27, 1910, ch. 258, §1, 36 Stat. 443; Apr. 12, 1930, ch. 136, §1(a), 46 Stat. 160; June 6, 1932, ch. 209, §116(b), 47 Stat. 205, made applicable to Territory the United States Constitution and all other laws of the United States including laws carrying general appropriations.
 
 Section 496, act Apr. 30, 1900, ch. 339, §6, 31 Stat. 142, continued in force laws of Hawaii not inconsistent with the Constitution or laws of the United States.
 

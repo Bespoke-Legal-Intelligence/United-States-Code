@@ -76,29 +76,5 @@ Pub. L. 102–25, title III, §307, Apr. 6, 1991, 105 Stat. 82, provided that: �
 
 #### Death Gratuity for Certain Participants Who Died Between August 1, 1990, and April 6, 1991
 
-Pub. L. 102–25, title III, §308, Apr. 6, 1991, 105 Stat. 83, provided that:
-
-“(a)
-
-Payment of Death Gratuity.—Subject to subsections (b) and (c), the Secretary of Defense shall pay a death gratuity to each SGLI beneficiary of each deceased member of the uniformed services who died after August 1, 1990, and before the date of the enactment of this Act \[Apr. 6, 1991\], and whose death was in conjunction with or in support of Operation Desert Storm, or attributable to hostile action in regions other than the Persian Gulf, as prescribed in regulations set forth by the Secretary of Defense.
-
-“(b)
-
-Amount and Distribution of Gratuity.—The amount of the death gratuity payable to an SGLI beneficiary in the case of a deceased member of the uniformed services under this section shall be equal to the Servicemen's Group Life Insurance paid or payable to such beneficiary under subchapter III of chapter 19 of title 38, United States Code, by reason of the death of such member.
-
-“(c)
-
-Application for Gratuity Required.—A death gratuity shall be payable to an SGLI beneficiary under this section upon receipt of a written application therefor by the Secretary of Defense within one year after the date of the enactment of this Act \[Apr. 6, 1991\].
-
-“(d)
-
-Regulations.—The Secretary shall prescribe in regulations the form of the application for benefits under this section and any procedures and requirements that the Secretary considers necessary to carry out this section.
-
-“(e)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘SGLI beneficiary’, with respect to a deceased member of the uniformed services, means a person to whom Servicemen's Group Life Insurance is paid or payable under subchapter III of chapter 19 of title 38, United States Code, by reason of the death of such member.
-
-&emsp;“(2) The term ‘Secretary concerned’ has the meaning given that term in section 101(25) of title 38, United States Code.”
+Pub. L. 102–25, title III, §308, Apr. 6, 1991, 105 Stat. 83, required Secretary of Defense to pay death gratuity to each SGLI beneficiary of each deceased member of uniformed services who died after Aug. 1, 1990, and before Apr. 6, 1991, and whose death was in conjunction with or in support of Operation Desert Storm, or attributable to hostile action in regions other than Persian Gulf, as prescribed in regulations set forth by Secretary of Defense.
 

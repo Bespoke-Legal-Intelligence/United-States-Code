@@ -18,7 +18,7 @@ The Secretary may provide for the sale of screwworms under subsection (a) of thi
 
 &emsp;If the Secretary produces and sells screwworms in cooperation with a foreign government or an international organization or association, the proceeds of such sale shall be divided between the United States and such government, organization, or association, as determined by the Secretary, and the United States portion of such proceeds shall be deposited into the Treasury of the United States and be credited to the appropriation from which the operating expenses of the facility producing the screwworms have been paid.
 
-(Feb. 28, 1947, ch. 8, §3, as added Mar. 15, 1990, Pub. L. 101–255, §1(3), 104 Stat. 114.)
+(Feb. 28, 1947, ch. 8, §3, as added Pub. L. 101–255, §1(3), Mar. 15, 1990, 104 Stat. 114.)
 
 #### Prior Provisions
 

@@ -6,7 +6,7 @@ An employee of a contractor may not be discharged, demoted, or otherwise discrim
 
 #### (b) Investigation of complaints
 
-A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) of this section may submit a complaint to the Inspector General of the executive agency. Unless the Inspector General determines that the complaint is frivolous, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor concerned, and the head of the agency. In the case of an executive agency that does not have an Inspector General, the duties of the Inspector General under this sectionshall be performed by an official designated by the head of the executive agency.
+A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) of this section may submit a complaint to the Inspector General of the executive agency. Unless the Inspector General determines that the complaint is frivolous, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor concerned, and the head of the agency. In the case of an executive agency that does not have an Inspector General, the duties of the Inspector General under this section shall be performed by an official designated by the head of the executive agency.
 
 #### (c) Remedy and enforcement authority
 
@@ -18,7 +18,7 @@ A person who believes that the person has been subjected to a reprisal prohibite
 
 &emsp;(C) Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
 
-(2) Whenever a person fails to comply with an order issued under paragraph (1), the head of the executive agency shall file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
+(2) Whenever a person fails to comply with an order issued under paragraph (1), the head of theexecutive agency shall file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief and compensatory and exemplary damages.
 
 (3) Any person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order's conformance with this subsection, and any regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency. Review shall conform to chapter 7 of title 5.
 
@@ -36,7 +36,7 @@ In this section:
 
 &emsp;(3) The term “Inspector General” means an Inspector General appointed under the Inspector General Act of 1978.
 
-(June 30, 1949, ch. 288, title III, §315, as added Oct. 13, 1994, Pub. L. 103–355, title VI, §6006, 108 Stat. 3365; amended Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(e)(8), 110 Stat. 675.)
+(June 30, 1949, ch. 288, title III, §315, as added Pub. L. 103–355, title VI, §6006, Oct. 13, 1994, 108 Stat. 3365; amended Pub. L. 104–106, div. D, title XLIII, §4321(e)(8), Feb. 10, 1996, 110 Stat. 675.)
 
 #### References in Text
 

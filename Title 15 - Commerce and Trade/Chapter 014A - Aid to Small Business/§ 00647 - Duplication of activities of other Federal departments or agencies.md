@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 96–302, §119(c)(2), added par. (1) and designated as par
 
 1976—Pub. L. 94–305 inserted reference to those enterprises engaged in the production of food and fiber, ranching, and raising of livestock, aquaculture, and all other farming and agricultural related industries.
 
-1974—Pub. L. 93–386 inserted provision authorizing the refusal of loan applications and the denial of loans, for purposes of this section, to be deemed nonduplication of activities.
+1974—Pub. L. 93–386 inserted provision authorizing the refusal of loan applications and the denial of loans, forpurposes of this section, to be deemed nonduplication of activities.
 
 #### Effective Date of 1984 Amendment
 

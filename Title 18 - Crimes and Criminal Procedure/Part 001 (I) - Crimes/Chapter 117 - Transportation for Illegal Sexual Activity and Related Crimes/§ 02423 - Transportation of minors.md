@@ -6,7 +6,7 @@ Transportation With Intent To Engage in Criminal Sexual Activity.—A person who
 
 (b)
 
-Travel With Intent To Engage in Sexual Act With a Juvenile.—A person who travels in interstate commerce, or conspires to do so, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, or conspires to do so, for the purpose of engaging in any sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation ofchapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States shall be fined under this title, imprisoned not more than 10 years, or both.
+Travel With Intent To Engage in Sexual Act With a Juvenile.—A person who travels in interstate commerce, or conspires to do so, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, or conspires to do so, for the purpose of engaging in any sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States shall be fined under this title, imprisoned not more than 10 years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 812; Feb. 6, 1978, Pub. L. 95–225, §3(a), 92 Stat. 8; Nov. 7, 1986, Pub. L. 99–628, §5(b)(1), 100 Stat. 3511; Sept. 13, 1994, Pub. L. 103–322, title XVI, §160001(g), 108 Stat. 2037; Dec. 23, 1995, Pub. L. 104–71, §5, 109 Stat. 774; Oct. 11, 1996, Pub. L. 104–294, title VI, §§601(b)(4), 604(b)(33), 110 Stat. 3499, 3508.)
 

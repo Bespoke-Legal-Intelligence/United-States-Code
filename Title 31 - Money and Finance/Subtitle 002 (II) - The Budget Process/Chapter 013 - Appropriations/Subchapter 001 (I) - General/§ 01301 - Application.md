@@ -68,6 +68,8 @@ Pub. L. 103–333, title V, §515, Sept. 30, 1994, 108 Stat. 2574, provided that
 
 Provisions similar to those in section 515 of Pub. L. 103–333 were contained in the following appropriation acts:
 
+Pub. L. 105–78, title V, §511, Nov. 13, 1997, 111 Stat. 1516.
+
 Pub. L. 104–208, div. A, title I, §101(e) \[title V, §509\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–269.
 
 Pub. L. 104–134, title I, §101(d) \[title V, §509\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–244; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.

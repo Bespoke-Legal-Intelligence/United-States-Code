@@ -58,7 +58,7 @@ In general.—In the performance of the functions of the Administrator and the A
 
 &emsp;&emsp;(B)
 
-Approval of secretary of transportation.—(i) The Administrator may not issue a proposed regulation or final regulation that is likely to result in the expenditure by State, local, and tribal governments in the aggregate, or by the private sector, of $100,000,000 or more (adjusted annually for inflation beginning with the year followingthe date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996) in any year, or any regulation which is significant, unless the Secretary of Transportation approves the issuance of the regulation in advance. For purposes of this paragraph, a regulation is significant if the Administrator, in consultation with the Secretary (as appropriate), determines that the regulation is likely to—
+Approval of secretary of transportation.—(i) The Administrator may not issue a proposed regulation or final regulation that is likely to result in the expenditure by State, local, and tribal governments in the aggregate, or by the private sector, of $100,000,000 or more (adjusted annually for inflation beginning with the year following the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996) in any year, or any regulation which is significant, unless the Secretary of Transportation approves the issuance of the regulation in advance. For purposes of this paragraph, a regulation is significant if the Administrator, in consultation with the Secretary (as appropriate), determines that the regulation is likely to—
 
 &emsp;&emsp;&emsp;(I) have an annual effect on the economy of $100,000,000 or more or adversely affect in a material way the economy, a sector of the economy, productivity, competition, jobs, the environment, public health or safety, or State, local, or tribal governments or communities;
 
@@ -98,7 +98,7 @@ Definition of political appointee.—For purposes of this subsection, the term �
 
 Duties and Powers of Administrator.—(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
 
-&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), (c), and (d), 40114(a), 40119, 44501(a) and (c), 44502(a)(1), (b), and (c), 44504, 44505, 44507, 44508, 44511–44513, 44701–44716, 44718(c), 44721(a), 44901, 44902, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, and 44938(a) and (b), chapter 451, sections 45302, 45303,<sup>1</sup> 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
+&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), (c), and (d), 40114(a), 40119, 44501(a) and (c), 44502(a)(1), (b), and (c), 44504, 44505, 44507, 44508, 44511–44513, 44701–44716, 44718(c), 44721(a), 44901, 44902, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, and 44938(a) and (b), chapter 451, sections 45302–45304, 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
 
 &emsp;(B) additional duties and powers prescribed by the Secretary of Transportation.
 
@@ -106,7 +106,7 @@ Duties and Powers of Administrator.—(1) Except as provided in paragraph (2) of
 
 (h) Section 40101(d) of this title applies to duties and powers specified in subsection (g)(1) of this section. Any of those duties and powers may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers is administratively final.
 
-(i) The Deputy Administrator shall carry out duties and powers prescribed by the Administrator. The Deputy Administrator acts for the Administrator when the Administrator is absentor unable to serve, or when the office of the Administrator is vacant.
+(i) The Deputy Administrator shall carry out duties and powers prescribed by the Administrator. The Deputy Administrator acts for the Administrator when the Administrator is absent or unable to serve, or when the office of the Administrator is vacant.
 
 (j) There is established within the Federal Aviation Administration an institute to conduct civil aeromedical research under section 44507 of this title. Such institute shall be known as the “Civil Aeromedical Institute”. Research conducted by the institute should take appropriate advantage of capabilities of other government agencies, universities, or the private sector.
 
@@ -156,7 +156,7 @@ Contracts.—The Administrator is authorized to enter into and perform such cont
 
 (m)
 
-Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, without reimbursement, supplies and equipment other than administrative supplies or equipment.
+Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transferto or to receive from the Administration, without reimbursement, supplies and equipment other than administrative supplies or equipment.
 
 (n)
 
@@ -184,7 +184,7 @@ Title.—Title to any property or interest therein acquired pursuant to this sub
 
 (<i>o</i>)
 
-Transfers of Funds.—The Administrator is authorized to accept transfers of unobligated balances and unexpended balances of funds appropriated to other Federal agencies (as such term is defined in section 551(1) of title 5) to carry out functions transferred by law to the Administrator or functions transferred pursuantto law to the Administrator on or after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996.
+Transfers of Funds.—The Administrator is authorized to accept transfers of unobligated balances and unexpended balances of funds appropriated to other Federal agencies (as such term is defined in section 551(1) of title 5) to carry out functions transferred by law to the Administrator or functions transferred pursuant to law to the Administrator on or after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996.
 
 (p)
 
@@ -254,7 +254,7 @@ Terms of members.—(i) Except as provided in subparagraph (B), members of the C
 
 &emsp;&emsp;(B)
 
-Chairman; vice chairman.—The Council shall elect a chair and a vice chair from among the members appointed under paragraph (2)(C), each of whom shall serve for a term of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
+Chairman; vice chairman.—The Council shall elect a chair and a vice chair fromamong the members appointed under paragraph (2)(C), each of whom shall serve for a term of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
 
 &emsp;&emsp;(C)
 
@@ -286,7 +286,7 @@ General duties and responsibilities.—The Ombudsman shall—
 
 Number of full-time equivalent employees.—The appointment of an Ombudsman under this subsection shall not result in an increase in the number of full-time equivalent employees in the Administration.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L.100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215.)
 
 Historical and Revision Notes
 
@@ -394,7 +394,7 @@ In subsection (d)(1), the words “Nothing in this chapter or other law shall pr
 
 In subsection (d)(2), the word “continue” is omitted as surplus. The words “pay provided by law for the Deputy Administrator” are substituted for “compensation provided for the Deputy Administrator” in 49:1342(b) because the pay provisions were repealed and replaced by 5:5315. The words “(including personal money allowance)” are omitted as being within the meaning of “allowance” in title 37. The words “as the case may be” are omitted as surplus. The words “of the military grade held” are substituted for “military . . . payable to a commissioned officer of his grade and length of service” to eliminate unnecessary words. The words “Administration” and “military” are added for clarity. The words “to defray” are omitted as surplus.
 
-In subsection (d)(3), the words “acceptance of, and” are omitted as unnecessary. The word “held” is substituted for “may occupy or hold” to eliminate unnecessary words. The words “right or benefit” are substituted for “emolument, perquisite, right, privilege, or benefit” to eliminate unnecessary words. The words “incident to or” before “arising” are omitted as surplus.
+In subsection (d)(3), the words “acceptance of, and” are omitted as unnecessary. The word “held” is substituted for “may occupy or hold” to eliminate unnecessary words. The words “right or benefit” are substituted for “emolument, perquisite, right, privilege, orbenefit” to eliminate unnecessary words. The words “incident to or” before “arising” are omitted as surplus.
 
 In subsection (f), the word “Secretary” is substituted for “Administrator” because of the transfer of aviation functions to the Secretary under 49:1655(c)(1). The words “In the exercise of his duties and the discharge of his responsibilities under this chapter” are omitted as surplus.
 
@@ -412,15 +412,15 @@ Section 4(j)(3)(B) amends 49:106(g) to list the duties and powers of the Secreta
 
 The Air Traffic Management System Performance Improvement Act of 1996, referred to in subsec. (f)(2)(A)(iv), is title II of Pub. L. 104–264, Oct. 9, 1996, 110 Stat. 3227. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 40101 of this title and Tables.
 
-The date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996,referred to in subsecs. (f)(3)(B)(i), (C), (<i>o</i>), and (p)(1), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
-
-Section 45303 of this title, referred to in subsec. (g)(1)(A), was renumbered section 45304 of this title and a new section 45303 was added by Pub. L. 104–264, title II, §276(a), Oct. 9, 1996, 110 Stat. 3247.
+The date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996, referred to in subsecs. (f)(3)(B)(i), (C), (<i>o</i>), and (p)(1), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
 
 Section 347 of Public Law 104–50, referred to in subsec. (<i>l</i>)(1), is set out as a note below.
 
 The Federal Advisory Committee Act, referred to in subsec. (p)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1997—Subsec. (g)(1)(A). Pub. L. 105–102 added Pub. L. 104–264, §276(c). See 1996 Amendment note below.
 
 1996—Subsec. (b). Pub. L. 104–287 substituted “August 23, 1994,” for “the date of the enactment of this sentence”.
 
@@ -431,6 +431,8 @@ Subsec. (f). Pub. L. 104–264, §223(a)(2), inserted subsec. heading, designate
 Subsec. (f)(3). Pub. L. 104–264, §224(2), added par. (3). Former par. (3) redesignated (4).
 
 Subsec. (f)(4). Pub. L. 104–264, §224(1), redesignated par. (3) as (4).
+
+Subsec. (g)(1)(A). Pub. L. 104–264, §276(c), as added by Pub. L. 105–102, substituted “45302–45304” for “45302, 45303”.
 
 Subsec. (k). Pub. L. 104–264, §103(a), substituted “$5,158,000,000 for fiscal year 1997 and $5,344,000,000 for fiscal year 1998.” for “$4,088,000,000 for fiscal year 1991, $4,412,600,000 for fiscal year 1992, $4,716,500,000 for fiscal year 1993, $4,576,000,000 for fiscal year 1994, $4,674,000,000 for fiscal year 1995, and $4,810,000,000 for fiscal year 1996.”
 
@@ -476,6 +478,12 @@ Subsec. (k). Pub. L. 101–508 added subsec. (k).
 
 1984—Subsecs. (g)(1), (h). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
+#### Effective Date of 1997 Amendment
+
+Pub. L. 105–102, §3(c), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(c)(3) is effective Oct. 9, 1996.
+
+Pub. L. 105–102, §3(f), Nov. 20, 1997, 111 Stat. 2216, provided that: “The amendments made by subsections (a) through (d) of this section \[amending this section andsections 5302, 30501 to 30504, 45301, 46301, 46316, 47117, and 47128 of this title, renumbering section 40121 of this title as 40124 of this title, and amending provisions set out as notes under sections 5303 and 47117 of this title\] shall take effect as if included in the provisions of the Acts to which the amendments relate.”
+
 #### Effective Date of 1996 Amendment
 
 Section 3 of Pub. L. 104–264 provided that:
@@ -506,7 +514,7 @@ Section 221 of Pub. L. 104–264 provided that: “Congress finds the following:
 
 &emsp;“(6) The aviation community and the employees of the Administration must come together to improve the system. The Administration must continue to recognize who its customers are and what their needs are, and to design and redesign the system to make safety improvements and increase productivity.
 
-&emsp;“(7) The Administration projects that commercial operations will increase by 18 percent and passengertraffic by 35 percent by the year 2002. Without effective airport expansion and system modernization, these needs cannot be met.
+&emsp;“(7) The Administration projects that commercial operations will increase by 18 percent and passenger traffic by 35 percent by the year 2002. Without effective airport expansion and system modernization, these needs cannot be met.
 
 &emsp;“(8) Absent significant and meaningful reform, future challenges and needs cannot be met.
 
@@ -571,6 +579,8 @@ Pub. L. 104–50, title III, §347, Nov. 15, 1995, 109 Stat. 460, as amended by 
 #### Dependents of Federal Aviation Administration Personnel
 
 Provisions authorizing the expenditure of certain funds appropriated for the Federal Aviation Administration for (1) except as otherwise authorized by title VIII of the Elementary and Secondary Education Act of 1965, see 20 U.S.C. 7701 et seq., expenses of primary and secondary schooling for dependents of Federal Aviation Administration personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of such dependents, and (2) transportation of said dependents between schools serving the area which they attend and their places of residence when the Secretary, under such regulations as may be prescribed, determines that such schools are not accessible by public means of transportation on a regular basis, were contained in the following appropriation acts:
+
+Oct. 27, 1997, Pub. L. 105–66, title III, §303, 111 Stat. 1441.
 
 Sept. 30, 1996, Pub. L. 104–205, title III, §303, 110 Stat. 2968.
 
@@ -703,6 +713,4 @@ Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 322, 44507, 50101, 50102, 50105 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

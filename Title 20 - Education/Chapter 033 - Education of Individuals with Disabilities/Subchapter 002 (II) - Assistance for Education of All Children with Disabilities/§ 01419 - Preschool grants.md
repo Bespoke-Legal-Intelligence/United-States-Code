@@ -1,176 +1,194 @@
 ### §1419. Preschool grants
 
-#### (a) Grants for fiscal years 1987 through 1989; amount of grants
+#### (a) In general
 
-(1) For fiscal years 1987 through 1989 (or fiscal year 1990 if the Secretary makes a grant under this paragraph for such fiscal year) the Secretary shall make a grant to any State which—
+The Secretary shall provide grants under this section to assist States to provide special education and related services, in accordance with this subchapter—
 
-&emsp;(A) has met the eligibility requirements of section 1412 of this title,
+&emsp;(1) to children with disabilities aged 3 through 5, inclusive; and
 
-&emsp;(B) has a State plan approved under section 1413 of this title, and
+&emsp;(2) at the State's discretion, to 2-year-old children with disabilities who will turn 3 during the school year.
 
-&emsp;(C) provides special education and related services to children with disabilities aged three to five, inclusive.
+#### (b) Eligibility
 
-(2)(A) For fiscal year 1987 the amount of a grant to a State under paragraph (1) may not exceed—
+A State shall be eligible for a grant under this section if such State—
 
-&emsp;(i) $300 per child with a disability aged three to five, inclusive, who received special education and related services in such State as determined under section 1411(a)(3) of this title, or
+&emsp;(1) is eligible under section 1412 of this title to receive a grant under this subchapter; and
 
-&emsp;(ii) if the amount appropriated under subsection (e) of this section exceeds the product of $300 and the total number of children with disabilities aged three to five, inclusive, who received special education and related services as determined under section 1411(a)(3) of this title—
+&emsp;(2) makes a free appropriate public education available to all children with disabilities, aged 3 through 5, residing in the State.
 
-&emsp;&emsp;(I) $300 per child with a disability aged three to five, inclusive, who received special education and related services in such State as determined under section 1411(a)(3) of this title, plus
+#### (c) Allocations to States
 
-&emsp;&emsp;(II) an amount equal to the portion of the appropriation available after allocating funds to all States under subclause (I) (the excess appropriation) divided by the estimated increase, from the preceding fiscal year, in the number of children with disabilities aged three to five, inclusive, who will be receiving special education and related services in all States multiplied by the estimated increase in the number of such children in such State.
+#### (1) In general
 
-(B) For fiscal year 1988, funds shall be distributed in accordance with clause (i) or (ii) of paragraph (2)(A), except that the amount specified therein shall be $400 instead of $300.
+&emsp;After reserving funds for studies and evaluations under section 1474(e) of this title, the Secretary shall allocate the remaining amount among the States in accordance with paragraph (2) or (3), as the case may be.
 
-(C) For fiscal year 1989, funds shall be distributed in accordance with clause (i) or (ii) of paragraph (2)(A), except that the amount specified therein shall be $500 instead of $300.
+#### (2) Increase in funds
 
-(D) If the Secretary makes a grant under paragraph (1) for fiscal year 1990, the amount of a grant to a State under such paragraph may not exceed $1,000 per child with a disability aged three to five, inclusive, who received special education and related services in such State as determined under section 1411(a)(3) of this title.
+&emsp;If the amount available for allocations to States under paragraph (1) is equal to or greater than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
 
-(E) If the actual number of additional children served in a fiscal year differs from the estimate made under subparagraph (A)(ii)(II), the Secretary shall adjust (upwards or downwards) a State's allotment in the subsequent fiscal year.
+&emsp;&emsp;(A)(i) Except as provided in subparagraph (B), the Secretary shall—
 
-(F)(i) The amount of a grant under subparagraph (A), (B), or (C) to any State for a fiscal year may not exceed $3,800 per estimated child with a disability aged three to five, inclusive, who will be receiving or child with a disability, age three to five, inclusive, who is receiving special education and related services in such State.
+&emsp;&emsp;&emsp;(I) allocate to each State the amount it received for fiscal year 1997;
 
-(ii) If the amount appropriated under subsection (e) of this section for any fiscal year exceeds the amount of grants which may be made to the States for such fiscal year, the excess amount appropriated shall remain available for obligation under this section for 2 succeeding fiscal years.
+&emsp;&emsp;&emsp;(II) allocate 85 percent of any remaining funds to States on the basis of their relative populations of children aged 3 through 5; and
 
-(3) To receive a grant under paragraph (1) a State shall make an application to the Secretary at such time, in such manner, and containing or accompanied by such information as the Secretary may reasonably require.
+&emsp;&emsp;&emsp;(III) allocate 15 percent of those remaining funds to States on the basis of their relative populations of all children aged 3 through 5 who are living in poverty.
 
-#### (b) Grants for fiscal year 1990 and thereafter; amount of grants
+&emsp;&emsp;(ii) For the purpose of making grants under this paragraph, the Secretary shall use the most recent population data, including data on children living in poverty, that are available and satisfactory to the Secretary.
 
-(1) For fiscal year 1990 (or fiscal year 1991 if required by paragraph (2)) and fiscal years thereafter the Secretary shall make a grant to any State which—
+&emsp;&emsp;(B) Notwithstanding subparagraph (A), allocations under this paragraph shall be subject to the following:
 
-&emsp;(A) has met the eligibility requirements of section 1412 of this title, and
+&emsp;&emsp;&emsp;(i) No State's allocation shall be less than its allocation for the preceding fiscal year.
 
-&emsp;(B) has a State plan approved under section 1413 of this title which includes policies and procedures that assure the availability under the State law and practice of such State of a free appropriate public education for all children with disabilities aged three to five, inclusive, and for any two-year-old children provided services by the State under subsection (c)(2)(B)(iii) of this section or by a local educational agency or intermediate educational unit under subsection (f)(2) of this section.
+&emsp;&emsp;&emsp;(ii) No State's allocation shall be less than the greatest of—
 
-(2) The Secretary may make a grant under paragraph (1) only for fiscal year 1990 and fiscal years thereafter, except that if—
+&emsp;&emsp;&emsp;&emsp;(I) the sum of—
 
-&emsp;(A) the aggregate amount that was appropriated under subsection (e) of this section forfiscal years 1987, 1988, and 1989 was less than $656,000,000, or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount it received for fiscal year 1997; and
 
-&emsp;(B) the amount appropriated for fiscal year 1990 under subsection (e) of this section is less than $306,000,000,
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) one third of one percent of the amount by which the amount appropriated under subsection (j) of this section exceeds the amount appropriated under this section for fiscal year 1997;
 
-> the Secretary may not make a grant under paragraph (1) until fiscal year 1991 and shall make a grant under subsection (a)(1) of this section for fiscal year 1990.
+&emsp;&emsp;&emsp;&emsp;(II) the sum of—
 
-(3) The amount of any grant to any State under paragraph (1) for any fiscal year may not exceed $1,500 for each child with a disability in such State aged three to five, inclusive.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount it received for the preceding fiscal year; and
 
-(4) To receive a grant under paragraph (1) a State shall make an application to the Secretary at such time, in such manner, and containing or accompanied by such information as the Secretary may reasonably require.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that amount multiplied by the percentage by which the increase in the funds appropriated from the preceding fiscal year exceeds 1.5 percent; or
 
-#### (c) Distribution by State of funds
+&emsp;&emsp;&emsp;&emsp;(III) the sum of—
 
-(1) For fiscal year 1987, a State which receives a grant under subsection (a)(1) of this section shall—
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount it received for the preceding fiscal year; and
 
-&emsp;(A) distribute at least 70 percent of such grant to local educational agencies and intermediate educational units in such State in accordance with paragraph (3), except that in applying such section only children with disabilities aged three to five, inclusive, shall be considered,
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that amount multiplied by 90 percent of the percentage increase in the amount appropriated from the preceding fiscal year.
 
-&emsp;(B) use not more than 25 percent of such grant for the planning and development of a comprehensive delivery system for which a grant could have been made under section 1423(b) <sup>1</sup> of this title in effect through fiscal year 1987 and for direct and support services for children with disabilities, and
+&emsp;&emsp;&emsp;(iii) Notwithstanding clause (ii), no State's allocation under this paragraph shall exceed the sum of—
 
-&emsp;(C) use not more than 5 percent of such grant for administrative expenses related to the grant.
+&emsp;&emsp;&emsp;&emsp;(I) the amount it received for the preceding fiscal year; and
 
-(2) For fiscal years beginning after fiscal year 1987, a State which receives a grant under subsection (a)(1) or (b)(1) of this section shall—
+&emsp;&emsp;&emsp;&emsp;(II) that amount multiplied by the sum of 1.5 percent and the percentage increase in the amount appropriated.
 
-&emsp;(A) distribute at least 75 percent of such grant to local educational agencies and intermediate educational units in such State in accordance with paragraph (3), except that in applying such section only children with disabilities aged three to five, inclusive, shall be considered,
+&emsp;&emsp;(C) If the amount available for allocations under this paragraph is insufficient to pay those allocations in full, those allocations shall be ratably reduced, subject to subparagraph (B)(i).
 
-&emsp;(B) use not more than 20 percent of such grant—
+#### (3) Decrease in funds
 
-&emsp;&emsp;(i) for planning and development of a comprehensive delivery system,
+&emsp;If the amount available for allocations to States under paragraph (1) is less than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
 
-&emsp;&emsp;(ii) for direct and support services for children with disabilities, aged 3 to 5, inclusive, and
+&emsp;&emsp;(A) If the amount available for allocations is greater than the amount allocated to the States for fiscal year 1997, each State shall be allocated the sum of—
 
-&emsp;&emsp;(iii) at the State's discretion, to provide a free appropriate public education, in accordance with this chapter, to 2-year-old children with disabilities who will reach age 3 during the school year, whether or not such children are receiving, or have received, services under subchapter VIII of this chapter, and
+&emsp;&emsp;&emsp;(i) the amount it received for fiscal year 1997; and
 
-&emsp;(C) use not more than 5 percent of such grant for administrative expenses related to the grant.
+&emsp;&emsp;&emsp;(ii) an amount that bears the same relation to any remaining funds as the increase the State received for the preceding fiscal year over fiscal year 1997 bears to the total of all such increases for all States.
 
-(3) From the amount of funds available to local educational agencies and intermediate educational units in any State under this section, each local educational agency or intermediate educational unit shall be entitled to—
+&emsp;&emsp;(B) If the amount available for allocations is equal to or less than the amount allocated to the States for fiscal year 1997, each State shall be allocated the amount it received for that year, ratably reduced, if necessary.
 
-&emsp;(A) an amount which bears the same ratio to the amount available under subsection (a)(2)(A)(i) of this section or subsection (a)(2)(A)(ii)(I) of this section, as the case may be, as the number of children with disabilities aged three to five, inclusive, who received special education and related services as determined under section 1411(a)(3) of this title in such local educational agency or intermediate educational unit bears to the aggregate number of children with disabilities aged three to five, inclusive, who received special education and related services in all local educational agencies and intermediate educational units in the State entitled to funds under this section, and
+#### (4) Outlying areas
 
-&emsp;(B) to the extent funds are available under subsection (a)(2)(A)(ii)(II) of this section, an amount which bears the same ratio to the amount of such funds as the estimated number of additional children with disabilities aged three to five, inclusive, who will be receiving special education and related services in such local educational agency or intermediate educational unit bears to the aggregate number of such children in all local educational agencies and intermediate educational units in the State entitled to funds under this section.
+&emsp;The Secretary shall increase the fiscal year 1998 allotment of each outlying area under section 1411 of this title by at least the amount that that area received under this section for fiscal year 1997.
 
-#### (d) Insufficiency of appropriated amounts; reduction of maximum amounts receivable by States
+#### (d) Reservation for State activities
 
-If the sums appropriated under subsection (e) of this section for any fiscal year for making payments to States under subsection (a)(1) or (b)(1) of this section are not sufficient to pay in full the maximum amounts which all States may receive under such subsection for such fiscal year, the maximum amounts which all States may receive under such subsection for such fiscal year shall be ratably reduced by first ratably reducing amounts computed under the excess appropriation provision of subsection (a)(2)(A)(ii)(II) of this section. If additional funds become available for making such payments for any fiscal year during which the preceding sentence is applicable, the reduced maximum amounts shall be increased on the same basis as they were reduced.
+#### (1) In general
 
-#### (e) Authorization of appropriations
+&emsp;Each State may retain not more than the amount described in paragraph (2) for administration and other State-level activities in accordance with subsections (e) and (f) of this section.
 
-For grants under subsections (a)(1) and (b)(1) of this section there are authorized to be appropriated such sums as may be necessary.
+#### (2) Amount described
 
-#### (f) Use of appropriated funds
+&emsp;For each fiscal year, the Secretary shall determine and report to the State educationalagency an amount that is 25 percent of the amount the State received under this section for fiscal year 1997, cumulatively adjusted by the Secretary for each succeeding fiscal year by the lesser of—
 
-Each local educational agency or intermediate educational unit receiving funds under this section—
+&emsp;&emsp;(A) the percentage increase, if any, from the preceding fiscal year in the State's allocation under this section; or
 
-&emsp;(1) shall use such funds to provide special education and related services to children with disabilities aged 3 to 5, inclusive, and
+&emsp;&emsp;(B) the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
-&emsp;(2) may, if consistent with State policy, use such funds to provide a free appropriate public education, in accordance with this subchapter, to 2-year-old children with disabilities who will reach age 3 during the school year, whether or not such children are receiving, or have received, services under subchapter VIII of this chapter.
+#### (e) State administration
 
-#### (g) Applicability of subchapter VIII
+#### (1) In general
 
-Subchapter VIII of this chapter does not apply to any child with disabilities receiving a free appropriate public education, in accordance with this subchapter, with funds received under this section.
+&emsp;For the purpose of administering this section (including the coordination of activities under this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities) a State may use not more than 20 percent of the maximum amount it may retain under subsection (d) of this section for any fiscal year.
 
-(Pub. L. 91–230, title VI, §619, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, §§3(b), 9, Dec. 2, 1983, 97 Stat. 1358, 1363; Pub. L. 99–457, title II, §201(a), Oct. 8, 1986, 100 Stat. 1155; Pub. L. 100–630, title I, §102(i), Nov. 7, 1988, 102 Stat. 3296; Pub. L. 101–476, title IX, §901(b)(79)–(93), Oct. 30, 1990, 104 Stat. 1145, 1146; Pub. L. 102–119, §§7, 25(b), Oct. 7, 1991, 105 Stat. 591, 607.)
+#### (2) Administration of subchapter III
+
+&emsp;Funds described in paragraph (1) may also be used for the administration of subchapter III of this chapter, if the State educational agency is the lead agency for the State under that subchapter.
+
+#### (f) Other State-level activities
+
+Each State shall use any funds it retains under subsection (d) of this section and does not use for administration under subsection (e) of this section—
+
+&emsp;(1) for support services (including establishing and implementing the mediation process required by section 1415(e) of this title), which may benefit children with disabilities younger than 3 or older than 5 as long as those services also benefit children with disabilities aged 3 through 5;
+
+&emsp;(2) for direct services for children eligible for services under this section;
+
+&emsp;(3) to develop a State improvement plan under part A of subchapter IV of this chapter;
+
+&emsp;(4) for activities at the State and local levels to meet the performance goals established by the State under section 1412(a)(16) of this title and to support implementation of the State improvement plan under part A of subchapter IV of this chapter if the State receives funds under that part; or
+
+&emsp;(5) to supplement other funds used to develop and implement a Statewide coordinated services system designed to improve results for children and families, including children with disabilities and their families, but not to exceed one percent of the amount received by the State under this section for a fiscal year.
+
+#### (g) Subgrants to local educational agencies
+
+#### (1) Subgrants required
+
+&emsp;Each State that receives a grant under this section for any fiscal year shall distribute any of the grant funds that it does not reserve under subsection (d) of this section to local educational agencies in the State that have established their eligibility under section 1413 of this title, as follows:
+
+#### (A) Base payments
+
+&emsp;&emsp;The State shall first award each agency described in paragraph (1) the amount that agency would have received under this section for fiscal year 1997 if the State had distributed 75 percent of its grant for that year under section 619(c)(3), as then in effect.
+
+#### (B) Allocation of remaining funds
+
+&emsp;&emsp;After making allocations under subparagraph (A), the State shall—
+
+&emsp;&emsp;&emsp;(i) allocate 85 percent of any remaining funds to those agencies on the basis of the relative numbers of children enrolled in public and private elementary and secondary schools within the agency's jurisdiction; and
+
+&emsp;&emsp;&emsp;(ii) allocate 15 percent of those remaining funds to those agencies in accordance with their relative numbers of children living in poverty, as determined by the State educational agency.
+
+#### (2) Reallocation of funds
+
+&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities aged 3 through 5 residing in the area served by that agency with State and local funds, the State educational agency may reallocate any portion of the funds under this section that are not needed by that local agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities aged 3 through 5 residing in the areas they serve.
+
+#### (h) Subchapter III inapplicable
+
+Subchapter III of this chapter does not apply to any child with a disability receiving a free appropriate public education, in accordance with this subchapter, with funds received under this section.
+
+#### (i) “State” defined
+
+For the purpose of this section, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+#### (j) Authorization of appropriations
+
+For the purpose of carrying out this section, there are authorized to be appropriated to the Secretary $500,000,000 for fiscal year 1998 and such sums as may be necessary for each subsequent fiscal year.
+
+(Pub. L. 91–230, title VI, §619, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 102.)
 
 #### References in Text
 
-Section 1423(b) of this title, referred to in subsec. (c)(1)(B), was redesignated section 1423(c) of this title by Pub. L. 102–119, §8(b)(1)(A), Oct. 7, 1991, 105 Stat. 592.
+Section 619(c)(3), as then in effect, referred to in subsec. (g)(1)(A), means section 619 of Pub. L. 91–230, title VI, as added by Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 793, as amended, which was classified to this section prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37.
 
-#### Amendments
+#### Prior Provisions
 
-1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476, §901(b). See 1990 Amendment note below.
+A prior section 1419, Pub. L. 91–230, title VI, §619, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 793;amended Pub. L. 98–199, §§3(b), 9, Dec. 2, 1983, 97 Stat. 1358, 1363; Pub. L. 99–457, title II, §201(a), Oct. 8, 1986, 100 Stat. 1155; Pub. L. 100–630, title I, §102(i), Nov. 7, 1988, 102 Stat. 3296; Pub. L. 101–476, title IX, §901(b)(79)–(93), Oct. 30, 1990, 104 Stat. 1145, 1146; Pub. L. 102–119, §§7, 25(b), Oct. 7, 1991, 105 Stat. 591, 607, related to preschool grants, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-Pub. L. 102–119, §7(1), substituted “Preschool” for “Pre-school” in section catchline.
+A prior section 1420, Pub. L. 91–230, title VI, §620, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 793; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358, which related to payments to States and distribution by States to local educational agencies and intermediate educational units, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-Subsec. (b)(1)(B). Pub. L. 102–119, §7(2)(A), inserted before period at end “, and for any two-year-old children provided services by the State under subsection (c)(2)(B)(iii) of this section or by a local educational agency or intermediate educational unit under subsection (f)(2) of this section”.
+Prior sections 1421 to 1427, which comprised former subchapter III of this chapter, were repealed by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
-Subsec. (b)(3). Pub. L. 102–119, §7(2)(B), substituted “$1,500” for “$1,000”.
+Section 1421, Pub. L. 91–230, title VI, §621, Apr. 13, 1970, 84 Stat. 181; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1363; Pub. L. 99–457, title III, §301, Oct. 8, 1986, 100 Stat. 1159; Pub. L. 100–630, title I, §103(b), Nov. 7, 1988, 102 Stat. 3296; Pub. L. 101–476, title III, §301, title IX, §901(b)(95)–(99), Oct. 30, 1990, 104 Stat. 1117, 1146; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to establishment and operation of regional and Federal resource centers.
 
-Subsec. (c)(2)(B). Pub. L. 102–119, §7(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “use not more than 20 percent of such grant for the planning and development of a comprehensive delivery system for which a grant could have been made under section 1423(b) of this title in effect through fiscal year 1987 and for direct and support services for children with disabilities, and”.
+Section 1422, Pub. L. 91–230, title VI, §622, Apr. 13, 1970, 84 Stat. 182; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1364; Pub. L. 99–457, title III, §302, Oct. 8, 1986, 100 Stat. 1160; Pub. L. 100–630, title I, §103(c), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §302, Oct. 30, 1990, 104 Stat. 1118; Pub. L. 102–119, §25(a)(8), Oct. 7, 1991, 105 Stat. 606; Pub. L. 103–382, title III, §391(f)(3), Oct. 20, 1994, 108 Stat. 4023, related to services for deaf-blind children and youth.
 
-Subsec. (f). Pub. L. 102–119, §7(4), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Notwithstanding any other provision of law, unless enacted in express limitation of this subsection, amounts appropriated under this section for fiscal years 1987 and 1988 and received by a State whose allotment for the succeeding fiscal year is adjusted downwards under subsection (a)(2)(E) of this section shall remain available for obligation by such State, and by local educational agencies and intermediate educational units in such State, during the 2 fiscal years succeeding the fiscal year for which such amounts were appropriated.”
+Section 1423, Pub. L. 91–230, title VI, §623, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1365; Pub. L. 99–457, title III, §303, Oct. 8, 1986, 100 Stat. 1161; Pub. L. 100–630, title I, §103(d), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §303, title IX, §901(b)(100)–(106), Oct. 30, 1990, 104 Stat. 1121, 1146, 1147; Pub. L. 102–119, §§8, 25(a)(9), (b), Oct. 7, 1991, 105 Stat. 592, 606, 607, related to early education for children with disabilities.
 
-Subsec. (g). Pub. L. 102–119, §7(5), added subsec. (g).
+Section 1424, Pub. L. 91–230, title VI, §624, Apr. 13, 1970, 84 Stat. 183; Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1366; Pub. L. 99–457, title III, §304, Oct. 8, 1986, 100 Stat. 1162; Pub. L. 100–630, title I, §103(e), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §304, title IX, §901(b)(107)–(110), Oct. 30, 1990, 104 Stat. 1122, 1147; Pub. L. 102–119, §25(a)(10), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to programs for children with severe disabilities.
 
-1990—Pub. L. 101–476, §901(b), was amended in its directory language by Pub. L. 102–119, §25(b), requiring no change in text.
+Section 1424a, Pub. L. 91–230, title VI, §625, as added Pub. L. 93–380, title VI, §616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, §305, Oct. 8, 1986, 100 Stat. 1162; Pub. L. 100–630, title I, §103(f), Nov. 7, 1988, 102 Stat. 3297; Pub. L. 101–476, title III, §305, title IX, §901(b)(111)–(118), Oct. 30, 1990, 104 Stat. 1123, 1147; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–421, title II, §201(a), Oct. 16, 1992, 106 Stat. 2164, related to programs of postsecondary, vocational, technical, continuing, or adult education for individuals with disabilities.
 
-Subsec. (a)(1)(C). Pub. L. 101–476, §901(b)(79), substituted “children with disabilities” for “handicapped children”.
+Section 1425, Pub. L. 91–230, title VI, §626, formerly §625, Apr. 13, 1970, 84 Stat. 183, renumbered §626, Pub. L. 93–380, title VI, §616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, §306, Oct. 8, 1986, 100 Stat. 1163; Pub. L. 100–630, title I, §103(g), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title III, §306, title IX, §901(b)(119)–(127), Oct. 30, 1990, 104 Stat. 1124, 1147, 1148; Pub. L. 102–119, §25(a)(11), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to secondary education and transitional services for youth with disabilities.
 
-Subsec. (a)(2)(A)(i). Pub. L. 101–476, §901(b)(80), substituted “child with a disability” for “handicapped child”.
+Section 1426, Pub. L. 91–230, title VI, §627, formerly §626, Apr. 13, 1970, 84 Stat. 184, renumbered §627 and amended Pub. L. 93–380, title VI, §§616, 617, Aug. 21, 1974, 88 Stat. 584; Pub. L. 95–49, §2, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, §10, Dec. 2, 1983, 97 Stat. 1368; Pub. L. 101–476, title III, §307, Oct. 30, 1990, 104 Stat. 1127, related to programs for children and youth with serious emotional disturbance.
 
-Subsec. (a)(2)(A)(ii). Pub. L. 101–476, §901(b)(81)–(83), substituted in introductory provisions and in subcl. (II) “children with disabilities” for “handicapped children” and in subcl. (I) “child with a disability” for “handicapped child”.
-
-Subsec. (a)(2)(D), (F)(i). Pub. L. 101–476, §901(b)(84), (85), substituted “child with a disability” for “handicapped child” wherever appearing.
-
-Subsec. (b). Pub. L. 101–476, §901(b)(86), (87), substituted “children with disabilities” for “handicapped children” in par. (1)(B) and “child with a disability” for “handicapped child” in par. (3).
-
-Subsec. (c). Pub. L. 101–476, §901(b)(88)–(93), substituted “children with disabilities” for “handicapped children” in pars. (1)(A), (B), (2)(A), (B), and (3)(B) and in two places in par. (3)(A).
-
-1988—Subsec. (a)(2)(A)(ii)(II). Pub. L. 100–630, §102(i)(1), inserted “increase in the” after “multiplied by the estimated”.
-
-Subsec. (a)(2)(E). Pub. L. 100–630, §102(i)(2), struck out “clause (ii)(II) of the applicable subparagraph,” after “estimate made under”.
-
-Subsec. (b)(2)(A). Pub. L. 100–630, §102(i)(3), substituted “or” for “and” at end.
-
-Subsec. (c)(3)(B). Pub. L. 100–630, §102(i)(4), substituted “amount of such funds” for “amount available under subsection (a)(2)(A)(ii)(II) of this section”, and “aggregate number of such children” for “aggregate number of handicapped children aged three to five, inclusive, who will be receiving special education and related services”.
-
-Subsec. (f). Pub. L. 100–630, §102(i)(5), added subsec. (f).
-
-1986—Pub. L. 99–457 amended section generally, substituting provisions relating to pre-school grants, including provisions for grants for fiscal years 1987 and thereafter and the amount of such grants, distribution by State of funds, insufficiency of appropriated amounts, reduction of maximum amounts receivable by States, and authorization of appropriations for provisions relating to incentive grants, including provisions for authority to make grants, application, payment, ratable reduction or increase of payments, and authorization of appropriations.
-
-1983—Subsecs. (a), (b). Pub. L. 98–199, §3(b), substituted “Secretary” for “Commissioner”.
-
-Subsec. (c). Pub. L. 98–199, §§3(b), 9, authorized use of payments for providing special education and related services for handicapped children from birth to three years of age and substituted “Secretary” for “Commissioner”.
-
-#### Effective Date of 1990 Amendment
-
-Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
-
-#### Effective Date of 1986 Amendment
-
-Section 201(c) of Pub. L. 99–457 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to the school year 1987–1988.”
-
-#### Effective Date of 1983 Amendment
-
-Amendment by Pub. L. 98–199 effective Dec. 2, 1983, see section 18 of Pub. L. 98–199, set out as a note under section 1401 of this title.
+Section 1427, Pub. L. 91–230, title VI, §628, as added Pub. L. 98–199, §10, Dec. 2, 1983, 97 Stat. 1368; amended Pub. L. 99–457, title III, §307, Oct. 8, 1986, 100 Stat. 1165; Pub. L. 101–476, title III, §308, Oct. 30, 1990, 104 Stat. 1128, authorized appropriations.
 
 #### Effective Date
 
-Section effective Oct. 1, 1977, see section 8 of Pub. L. 94–142, set out as an Effective Date of 1975 Amendment note under section 1411 of this title.
+Section effective beginning with funds appropriated for fiscal year 1998, see section 201(a)(2)(D) of Pub. L. 105–17, set out as a note under section 1400 of this title.
 
 #### Preschool Grants
 
@@ -178,7 +196,5 @@ Section 110 of Pub. L. 100–630, as amended by Pub. L. 101–476, title IX, §9
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1408, 1411, 1414a, 1476 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 1411, 1453, 1461, 1476 of this title.
 

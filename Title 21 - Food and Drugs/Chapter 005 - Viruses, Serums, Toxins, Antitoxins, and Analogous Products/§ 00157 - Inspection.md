@@ -2,7 +2,7 @@
 
 Any officer, agent, or employee of the Department of Agriculture duly authorized by the Secretary of Agriculture for the purpose may, at any hour during the daytime or nighttime, enter and inspect any establishment where any virus, serum, toxin, or analogous product for use in the treatment of domestic animals is prepared for sale, barter, exchange, or shipment as aforesaid.
 
-(Mar. 4, 1913, ch. 145, §1 \[part\], 37 Stat. 833; Dec. 23, 1985, Pub. L. 99–198, title XVII, §1768(d), 99 Stat. 1655.)
+(Mar. 4, 1913, ch. 145, §1 \[part\], 37 Stat. 833; Pub. L. 99–198, title XVII, §1768(d), Dec. 23, 1985, 99 Stat. 1655.)
 
 #### Codification
 

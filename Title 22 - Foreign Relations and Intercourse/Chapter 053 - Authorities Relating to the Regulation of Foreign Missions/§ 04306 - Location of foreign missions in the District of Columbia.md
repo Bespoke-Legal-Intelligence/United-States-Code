@@ -28,7 +28,7 @@ The location, replacement, or expansion of chanceries in the District of Columbi
 
 #### (d) Criteria for determination
 
-Any determination concerning the location of a chancery under subsection (b)(2) of this section, or concerning an appeal of an administrative decision with respect to a chancery based inwhole or in part upon any zoning regulation or map, shall be based solely on the following criteria:
+Any determination concerning the location of a chancery under subsection (b)(2) of this section, or concerning an appeal of an administrative decision with respect to a chancery based in whole or in part upon any zoning regulation or map, shall be based solely on the following criteria:
 
 &emsp;(1) The international obligation of the United States to facilitate the provision of adequate and secure facilities for foreign missions in the Nation's Capital.
 
@@ -78,7 +78,7 @@ Approval by the Board of Zoning Adjustment or the Zoning Commission or, except a
 
 Provisions of law (other than this chapter) applicable with respect to the location, replacement, or expansion of real property in the District of Columbia shall apply with respect to chanceries only to the extent that they are consistent with this section.
 
-(Aug. 1, 1956, ch. 841, title II, §206, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 286.)
+(Aug. 1, 1956, ch. 841, title II, §206, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 286.)
 
 #### Codification
 

@@ -14,7 +14,7 @@ The Director of the United States Information Agency is authorized, when he cons
 
 &emsp;(2) cultural exchanges, by financing—
 
-&emsp;&emsp;(i) visits and interchanges between the United States and other countries of leaders, experts in fields of specialized knowledge or skill, and other influential or distinguished persons;
+&emsp;&emsp;(i) visits and interchanges between the United States and other countries of leaders,experts in fields of specialized knowledge or skill, and other influential or distinguished persons;
 
 &emsp;&emsp;(ii) tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups, representing any field of the arts, sports, or any other form of cultural attainment;
 
@@ -38,7 +38,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(5) promoting and supporting medical, scientific, cultural, and educational research and development;
 
-&emsp;(6) promoting modern foreign language training and area studies in United States schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages andtheir knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
+&emsp;(6) promoting modern foreign language training and area studies in United States schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
 
 &emsp;(7) United States representation at international nongovernmental educational, scientific, and technical meetings;
 

@@ -52,7 +52,7 @@
 
 #### (3) Minimum local allocation
 
-&emsp;The Secretary shall allocate funds available for formula allocation to units of general local government that, as of the end of the previous fiscal year, qualified as metropolitan cities, urban counties, and consortia approved by the Secretary in accordance with section 12746(2) of this title so that, when all such funds are initially allocated by formula, only those jurisdictions that are allocated an amount of $500,000 or greater shall receive an allocation. Prior to announcing initial allocations, the Secretary shall successively recalculate the allocations to jurisdictions under this subsection so that the maximum number of such jurisdictions can receive initial allocations, except as provided in paragraph (4).
+&emsp;The Secretary shall allocate funds available for formula allocation to units of general local government that, as of the end of the previous fiscal year, qualified as metropolitan cities, urban counties, and consortia approved by the Secretary in accordance with section 12746(2) of this title so that, when all such funds are initially allocated by formula, jurisdictions that are allocated an amount of $500,000 or more, and participating jurisdictions (other than consortia that fail to renew the membership of all of their member jurisdictions) that are allocated an amount less than $500,000, shall receive an allocation. Prior to announcing initial allocations, the Secretary shall successively recalculate the allocations to jurisdictions under this subsection so that the maximum number of such jurisdictions can receive initial allocations, except as provided in paragraph (4).
 
 #### (4) Threshold reduction
 
@@ -60,7 +60,7 @@
 
 #### (c) Criteria for direct reallocation
 
-The Secretary shall establish objective criteria for making direct reallocations to any participating jurisdiction and other eligible entities. A jurisdiction shall be eligible for a direct reallocation under this subsection only if the jurisdiction, in a form acceptable to the Secretary, submits an application that demonstrates to the satisfaction of the Secretary that the jurisdiction is engaged, or has made good faith efforts to engage, in cooperative efforts between the State and appropriate participating jurisdictions within the State to develop, coordinate, and implement housing strategies under this subchapter. The Secretary shall by regulation establish objective selection criteria for such direct reallocations, which criteria shall take into account—
+The Secretary shall establish objective criteria for making direct reallocations to any participating jurisdiction and other eligible entities. A jurisdiction shall be eligible for a direct reallocation under this subsection only if the jurisdiction, in a form acceptable to the Secretary, submits an application that demonstrates to the satisfaction of the Secretary that the jurisdiction is engaged, or has made good faith efforts to engage, in cooperative efforts between the State and appropriate participating jurisdictions within the State to develop, coordinate, and implement housing strategiesunder this subchapter. The Secretary shall by regulation establish objective selection criteria for such direct reallocations, which criteria shall take into account—
 
 &emsp;(1) the applicant's demonstrated commitment to expand the supply of affordable rental housing, including units developed by public housing agencies, as indicated by the additional number of units of affordable housing made available through production or rehabilitation within the previous 2 years, making adjustment for regional variations in construction and rehabilitation costs and giving special consideration to the number of additional units made available under this subchapter through production or rehabilitation, including units developed by public housing agencies, in relation to the amounts made available under this program;
 
@@ -100,9 +100,11 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 &emsp;Unless otherwise specified in this part, any reallocation of funds from a State shall be made only among all participating States, and any reallocation of funds from units of general local government shall be made only among all participating units of general local government.
 
-(Pub. L. 101–625, title II, §217, Nov. 28, 1990, 104 Stat. 4105; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–230, §1, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–273, §1, Apr. 21, 1992, 106 Stat. 113; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1581; Pub. L. 102–550, title II, §§202(b), 203(b), 211(a)(2), Oct. 28, 1992, 106 Stat. 3751, 3752, 3756; Pub. L. 104–330, title V, §505(a)(1), Oct. 26, 1996, 110 Stat. 4044.)
+(Pub. L. 101–625, title II, §217, Nov. 28, 1990, 104 Stat. 4105; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–230, §1, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–273, §1, Apr. 21, 1992, 106 Stat. 113; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1581; Pub. L. 102–550, title II, §§202(b), 203(b), 211(a)(2), Oct. 28, 1992, 106 Stat. 3751, 3752, 3756; Pub. L. 104–330, title V, §505(a)(1), Oct. 26, 1996, 110 Stat. 4044; Pub. L. 105–65, title II, §214, Oct. 27, 1997, 111 Stat. 1366.)
 
 #### Amendments
+
+1997—Subsec. (b)(3). Pub. L. 105–65, in first sentence, substituted “jurisdictions that are allocated an amount of $500,000 or more, and participating jurisdictions (other than consortia that fail to renew the membership of all of their member jurisdictions) that are allocated an amount less than $500,000, shall receive an allocation” for “only those jurisdictions that are allocated an amount of $500,000 or greater shall receive an allocation”.
 
 1996—Subsec. (a)(1). Pub. L. 104–330, §505(a)(1)(A), struck out “reserving amounts under paragraph (2) for Indian tribes and after” after “After”.
 
@@ -186,7 +188,7 @@ Grant thresholds provided for in subsec. (b) of this section as amended by Pub. 
 
 #### Expedited Issuance of Regulation
 
-Section 211(a)(3) of Pub. L. 102–550 provided that: “The regulation referred to in the amendment made by paragraph (2)(D) \[amending this section\] shall take effect not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulation shall not be subject to the requirements of subsections (b) and (c) of section 553 of title 5, United States Code, or section 7(<i>o</i>) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(<i>o</i>)\].”
+Section 211(a)(3) of Pub. L. 102–550 provided that: “The regulation referred to in the amendment made by paragraph (2)(D) \[amending this section\] shall take effect not later than the expiration of the 90-day periodbeginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulation shall not be subject to the requirements of subsections (b) and (c) of section 553 of title 5, United States Code, or section 7(<i>o</i>) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(<i>o</i>)\].”
 
 #### Section Referred to in Other Sections
 

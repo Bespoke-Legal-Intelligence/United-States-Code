@@ -4,7 +4,7 @@ Colorado constitutes one judicial district.
 
 &emsp;&emsp;Court shall be held at Boulder, Denver, Durango, Grand Junction, Montrose, Pueblo, and Sterling.
 
-(June 25, 1948, ch. 646, 62 Stat. 875; Nov. 8, 1984, Pub. L. 98–620, title IV, §409, 98 Stat. 3362.)
+(June 25, 1948, ch. 646, 62 Stat. 875; Pub. L. 98–620, title IV, §409, Nov. 8, 1984, 98 Stat. 3362.)
 
 #### Historical and Revision Notes
 
@@ -20,7 +20,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1984—Pub. L. 98–620 provided for holding court at Boulder.
+<b>1984</b>—Pub. L. 98–620 provided for holding court at Boulder.
 
 #### Effective Date of 1984 Amendment
 

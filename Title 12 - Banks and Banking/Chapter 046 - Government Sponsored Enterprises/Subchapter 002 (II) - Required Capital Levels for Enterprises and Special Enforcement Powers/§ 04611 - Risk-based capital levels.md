@@ -36,7 +36,7 @@ The Director shall, by regulation, establish a risk-based capital test under thi
 
 #### (D) Different terms to maturity
 
-&emsp;&emsp;Yields of Treasury instruments with other terms to maturity will change relative to the 10-year constant maturity Treasury yield in patterns and for durations that arereasonably related to historical experience and are judged reasonable by the Director.
+&emsp;&emsp;Yields of Treasury instruments with other terms to maturity will change relative to the 10-year constant maturity Treasury yield in patterns and for durations that are reasonably related to historical experience and are judged reasonable by the Director.
 
 #### (E) Large increases in yields
 
@@ -164,7 +164,7 @@ For purposes of this section:
 
 #### (1) Issuance
 
-&emsp;The Director shall issue final regulations establishing the risk-based capital test under this section not later than the expiration of the 18-month period beginning on the date of the appointment of the Director. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5 and shall take effect upon issuance.
+&emsp;The Director shall issue final regulations establishing the risk-based capital test underthis section not later than the expiration of the 18-month period beginning on the date of the appointment of the Director. Such regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5 and shall take effect upon issuance.
 
 #### (2) Contents
 

@@ -18,7 +18,7 @@
 
 (5) The Secretary shall, not later than March 15 of fiscal year 1983 and each succeeding fiscal year, provide preliminary planning estimates and shall, not later than May 15 of each such fiscal year, provide final planning estimates, showing each State's projected allocation for the following year.
 
-(June 6, 1933, ch. 49, §6, as added Oct. 13, 1982, Pub. L. 97–300, title VI, §601(c), formerly title V, §501(c), 96 Stat. 1393; renumbered title VI, §601(c), Nov. 7, 1988, Pub. L. 100–628, title VII, §712(a)(1), (2), 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §6, as added Pub. L. 97–300, title VI, §601(c), formerly title V, §501(c), Oct. 13, 1982, 96 Stat. 1393; renumbered title VI, §601(c), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
 #### Prior Provisions
 

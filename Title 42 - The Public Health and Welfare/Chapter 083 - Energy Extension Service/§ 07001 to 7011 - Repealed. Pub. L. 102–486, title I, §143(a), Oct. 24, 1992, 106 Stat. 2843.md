@@ -26,3 +26,5 @@ Section 7011, Pub. L. 95–39, title V, §513, June 3, 1977, 91 Stat. 202, set o
 
 Section 501 of title V of Pub. L. 95–39, which provided that this title, which enacted this chapter and amended sections 5813 and 5818 of this title, could be cited as the “National Energy Extension Service Act”, was repealed by Pub. L. 102–486, title I, §143(a), Oct. 24, 1992, 106 Stat. 2843.
 
+&nbsp;
+

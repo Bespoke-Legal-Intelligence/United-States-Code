@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(B) in the case of defense services, the full cost to the Government of providing the services.
 
-(July 26, 1947, ch. 343, title V, §505, formerly §503, as added Oct. 27, 1986, Pub. L. 99–569, titleVI, §602(a), 100 Stat. 3203; renumbered §505 and amended Aug. 14, 1991, Pub. L. 102–88, title VI, §§602(a)(1), (c)(2), 604, 105 Stat. 441, 444, 445; Nov. 30, 1993, Pub. L. 103–160, div. A, title VIII, §828(d)(1), 107 Stat. 1715.)
+(July 26, 1947, ch. 343, title V, §505, formerly §503, as added Pub. L. 99–569, title VI, §602(a), Oct. 27, 1986, 100 Stat. 3203; renumbered §505 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(2), 604, Aug. 14, 1991, 105 Stat. 441, 444, 445; Pub. L. 103–160, div. A, title VIII, §828(d)(1), Nov. 30, 1993, 107 Stat. 1715.)
 
 #### References in Text
 

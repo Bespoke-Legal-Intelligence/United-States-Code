@@ -6,7 +6,7 @@ Sharing of Health-Care Resources.—Health-care resources of the Department of D
 
 (b)
 
-Reimbursement From CHAMPUS Funds.—Pursuant to an agreement entered into under section 8111 of title 38 or section 1535 of title 31, the Secretary of a military department may reimburse the Secretary of Veterans Affairs from funds available for that military department for the payment of medical care provided under section 1079 or 1086 of this title.
+Reimbursement From CHAMPUS Funds.—Pursuant to an agreement entered into under section 8111 of title 38 or section 1535 of title 31, the Secretary of a military department may reimburse the Secretary of Veterans Affairs from funds available for that military department forthe payment of medical care provided under section 1079 or 1086 of this title.
 
 (c)
 

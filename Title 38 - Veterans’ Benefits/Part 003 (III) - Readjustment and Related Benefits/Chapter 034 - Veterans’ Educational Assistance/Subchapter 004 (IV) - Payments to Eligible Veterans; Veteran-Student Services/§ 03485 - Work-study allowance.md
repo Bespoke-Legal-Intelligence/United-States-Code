@@ -12,7 +12,7 @@
 
 (e)(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform services of the kind described in clauses (A) through (E) of subsection (a)(1) of this section and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual's participation in a benefits program under this chapter, chapter 30, 31, 32, 35, or 36 (other than an education loan under subchapter III) of this title, or chapter 106 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 <sup>1</sup> of such title).
 
-(2)(A) Subject to subparagraph (B) of this paragraph, the provisions of this section (other than those provisions which are determined by the Secretary to be inapplicable to an agreement under this subsection) shall apply to any agreement authorized under paragraph (1) of this subsection.
+(2)(A) Subject to subparagraph (B) of this paragraph, the provisions of this section (other than those provisions which are determined by the Secretary to be inapplicable to an agreement under this subsection) shall apply to anyagreement authorized under paragraph (1) of this subsection.
 
 (B) For the purposes of this subsection, the Secretary may—
 
@@ -34,7 +34,7 @@
 
 #### References in Text
 
-Section 2135 of title 10, referred to in subsec. (e)(1), was renumbered section 16135 of Title 10, Armed Forces,by Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
+Section 2135 of title 10, referred to in subsec. (e)(1), was renumbered section 16135 of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
 
 #### Amendments
 

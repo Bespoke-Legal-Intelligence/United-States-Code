@@ -26,6 +26,24 @@ Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Offenses Against Minors
+
+Pub. L. 105–119, title I, §115(a)(8)(C), Nov. 26, 1997, 111 Stat. 2466, provided that:
+
+“(i) The Secretary of Defense shall specify categories of conduct punishable under the Uniform Code of Military Justice which encompass a range of conduct comparable to that described in section 170101(a)(3)(A) and (B) of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071(a)(3)(A) and (B)), and such other conduct as the Secretary deems appropriate for inclusion for purposes of this subparagraph.
+
+“(ii) In relation to persons sentenced by a court martial for conduct in the categories specified under clause (i), the Secretary shall prescribe procedures and implement a system to—
+
+&emsp;“(I) provide notice concerning the release from confinement or sentencing of such persons;
+
+&emsp;“(II) inform such persons concerning registration obligations; and
+
+&emsp;“(III) track and ensure compliance with registration requirements by such persons during any period of parole, probation, or other conditional release or supervision related to the offense.
+
+“(iii) The procedures and requirements established by the Secretary under this subparagraph shall, to the maximum extent practicable, be consistent with those specified for Federal offenders under the amendments made by subparagraphs (A) and (B) \[section 115(a)(8)(A), (B) of Pub. L. 105–119, amending sections 3563, 3583, 4042, and 4209 of Title 18, Crimes and Criminal Procedure\].
+
+“(iv) If a person within the scope of this subparagraph is confined in a facility under the control of the Bureau of Prisons at the time of release, the Bureau of Prisons shall provide notice of release and inform the person concerning registration obligations under the procedures specified in section 4042(c) of title 18, United States Code.”
+
 #### Notification of Victims and Witnesses of Status of Prisoners in Military Correctional Facilities
 
 Pub. L. 103–160, div. A, title V, §552, Nov. 30, 1993, 107 Stat. 1662, provided that:

@@ -8,7 +8,7 @@ Insurance and Reinsurance.—(1) Subject to subsection (b) of this section and s
 
 &emsp;(B) between at least 2 places, all of which are outside the United States.
 
-(2) An aircraft may be insured or reinsured for not more than its reasonable value as determined by the Secretary. Insurance or reinsurance may be provided only when the Secretary decides that the insurance cannot be obtained on reasonable terms from an insurance carrier.
+(2) An aircraft may be insured or reinsured for not more than its reasonable value as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. Insurance or reinsurance may be provided only when the Secretary decides that the insurance cannot be obtained on reasonable terms from an insurance carrier.
 
 (b)
 
@@ -22,7 +22,7 @@ Consultation.—The President may require the Secretary to consult with interest
 
 Additional Insurance.—With the approval of the Secretary, a person having an insurable interest in an aircraft may insure with other underwriters in an amount that is more than the amount insured with the Secretary. However, the Secretary may not benefit from the additional insurance. This subsection does not prevent the Secretary from making contracts of coinsurance.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640.)
 
 Historical and Revision Notes
 
@@ -70,6 +70,10 @@ In subsection (c), the words “the Secretary to consult . . . before providin
 
 In subsection (d), the words “However, the Secretary may not benefit from the additional insurance” are substituted for “in that event, the Secretary shall not be entitled to the benefit of such insurance” for clarity.
 
+#### Amendments
+
+1997—Subsec. (a)(2). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
+
 #### Provision of Aviation Insurance Coverage for Commercial Air Carrier Service
 
 Determination of President of the United States, No. 94–39, July 26, 1994, 59 F.R. 38551, provided:
@@ -90,5 +94,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 44303 of this title.
+This section is referred to in sections 44303, 44305 of this title.
 

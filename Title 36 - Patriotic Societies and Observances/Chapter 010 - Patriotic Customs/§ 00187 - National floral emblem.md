@@ -16,7 +16,7 @@ The American people have long held a special place in their hearts for roses. Le
 
 The Congress, by Senate Joint Resolution 159 \[Pub. L. 99–449, 36 U.S.C. 187\], has designated the rose as the National Floral Emblem of the United States and authorized and requested the President to issue a proclamation declaring this fact.
 
-NOW, THEREFORE, I, RONALD REAGAN, President of the United States of America, do hereby proclaimthe rose as the National Floral Emblem of the United States of America.
+NOW, THEREFORE, I, RONALD REAGAN, President of the United States of America, do hereby proclaim the rose as the National Floral Emblem of the United States of America.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of November, in the year of our Lord nineteen hundred and eighty-six, and of the Independence of the United States of America the two hundred and eleventh.
 

@@ -2,7 +2,7 @@
 
 #### (a) Offer and terms
 
-The Secretary shall offer to enter into a production flexibility contract with an eligible owner or producer described in subsection (b) ofthis section on a farm containing eligible cropland. Under the terms of a contract, the owner or producer shall agree, in exchange for annual contract payments, to—
+The Secretary shall offer to enter into a production flexibility contract with an eligible owner or producer described in subsection (b) of this section on a farm containing eligible cropland. Under the terms of a contract, the owner or producer shall agree, in exchange for annual contract payments, to—
 
 &emsp;(1) comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.);
 
@@ -20,7 +20,7 @@ The following producers and owners shall be eligible to enter into a contract:
 
 &emsp;(2) A producer (other than an owner) on eligible cropland with a share-rent lease of the eligible cropland, regardless of the length of the lease, if the owner enters into the same contract.
 
-&emsp;(3) A producer (other than an owner) on eligible cropland who cash rents the eligible cropland under a lease expiring on or after September 30, 2002, in which case the owner is not required to enter into the contract.
+&emsp;(3) A producer (other than an owner) on eligible cropland who cash rents the eligiblecropland under a lease expiring on or after September 30, 2002, in which case the owner is not required to enter into the contract.
 
 &emsp;(4) A producer (other than an owner) on eligible cropland who cash rents the eligible cropland under a lease expiring before September 30, 2002. The owner of the eligible cropland may also enter into the same contract. If the producer elects to enroll less than 100 percent of the eligible cropland in the contract, the consent of the owner is required.
 

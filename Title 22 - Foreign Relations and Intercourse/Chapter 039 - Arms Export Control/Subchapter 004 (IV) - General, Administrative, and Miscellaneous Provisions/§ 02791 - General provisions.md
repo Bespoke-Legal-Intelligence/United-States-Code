@@ -16,7 +16,7 @@ Funds made available under this chapter may be used for procurement outside the 
 
 #### (d) Responsibility of Secretary of Defense with respect to sales and guaranties
 
-(1) With respect to sales and guaranties under sections 2761, 2762, 2763, 2764, 2769 and 2770 of this title, the Secretary of Defense shall, under the direction of the President, have primary responsibility for—
+(1) With respect to sales and guaranties under sections 2761, 2762, 2763, 2764, 2769 and 2770 of thistitle, the Secretary of Defense shall, under the direction of the President, have primary responsibility for—
 
 &emsp;(A) the determination of military end-item requirements;
 
@@ -38,7 +38,7 @@ Funds made available under this chapter may be used for procurement outside the 
 
 (B) Nothing in this paragraph may be construed as limiting the regulatory authority of the President under this chapter.
 
-(3) There are authorized to be appropriated from time to time such sums as may be necessary (A) to refund moneys received from purchasers under contracts of sale entered into under sections 2761, 2762, 2769 and 2770 of this title, or under contracts entered into under section 2767(d) of this title, that are canceled or suspended under this subsection to the extent such moneys have previously been disbursed to private contractors and United States Government agencies for work in progress, and (B) topay such damages and costs that accrue from the corresponding cancellation or suspension of the existing procurement contracts or United States Government agency work orders involved.
+(3) There are authorized to be appropriated from time to time such sums as may be necessary (A) to refund moneys received from purchasers under contracts of sale entered into under sections 2761, 2762, 2769 and 2770 of this title, or under contracts entered into under section 2767(d) of this title, that are canceled or suspended under this subsection to the extent such moneys have previously been disbursed to private contractors and United States Government agencies for work in progress, and (B) to pay such damages and costs that accrue from the corresponding cancellation or suspension of the existing procurement contracts or United States Government agency work orders involved.
 
 #### (f) Use of civilian contract personnel in foreign countries
 

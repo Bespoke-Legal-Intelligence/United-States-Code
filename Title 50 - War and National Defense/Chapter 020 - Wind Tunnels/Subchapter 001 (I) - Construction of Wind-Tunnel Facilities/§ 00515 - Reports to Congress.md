@@ -2,7 +2,7 @@
 
 The Administrator shall submit semi-annual written reports to the Congress covering the selection of institutions and contracts entered into pursuant to section 512 of this title together with other pertinent information relative to the Administrator's activities and accomplishments thereunder.
 
-(Oct. 27, 1949, ch. 766, title I, §105, 63 Stat. 937; July 29, 1958, Pub. L. 85–568, title III, §301(d)(2), 72 Stat. 433.)
+(Oct. 27, 1949, ch. 766, title I, §105, 63 Stat. 937; Pub. L. 85–568, title III, §301(d)(2), July 29, 1958, 72 Stat. 433.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 (d)(1) This section does not apply to a mixed-ownership Government corporation when the corporation has no capital of the Government.
 
-(2) Subsections (a) and (b) of this section do not apply to the Rural Telephone Bank (when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a))), the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, and the Federal Land Banks. However, the head of each of those banks shall consult with the Secretary before taking action of the kind described in subsection (a) or (b). If agreement is not reached, the Secretary may make a written report to the corporation, the President, and Congress on the reasons for the Secretary's disagreement.
+(2) Subsections (a) and (b) of this section do not apply to the Rural Telephone Bank (when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a))), the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, and the Federal Land Banks. However, the head of each of those banks shall consult with the Secretary before taking action of the kind described in subsection (a) or (b). If agreement is not reached, the Secretary may make a written report to the corporation,the President, and Congress on the reasons for the Secretary's disagreement.
 
 (Pub. L. 97–258, §§1, 2(<i>l</i>)(2), Sept. 13, 1982, 96 Stat. 1045, 1062; Pub. L. 97–452, §1(27), Jan. 12, 1983, 96 Stat. 2478.)
 

@@ -24,7 +24,7 @@ The National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281
 
 “(2) The Secretary shall develop and provide to State agencies, for distribution to private elementary schools and to public elementary schools through local educational agencies, model language that bans the sale of competitive foods of minimal nutritional value anywhere on elementary school grounds before the end of the last lunch period.
 
-“(3) The Secretary shall provide to State agencies, for distribution to private secondary schools and to public secondary schools through local educational agencies, a copy of regulations (in existence on the effective date of this paragraph) concerning the sale of competitive foods of minimal nutritional value.
+“(3) The Secretary shall provide to State agencies, for distribution to private secondary schools and topublic secondary schools through local educational agencies, a copy of regulations (in existence on the effective date of this paragraph) concerning the sale of competitive foods of minimal nutritional value.
 
 “(4) Paragraphs (2) and (3) shall not apply to a State that has in effect a ban on the sale of competitive foods of minimal nutritional value in schools in the State.”
 
@@ -36,7 +36,7 @@ The National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281
 
 1972—Pub. L. 92–433 inserted provision that regulations issued under the section shall not prohibit the sale of competitive foods in food service facilities or areas during the time of service of food if the proceeds from the sales of such foods inures to the benefit of the schools or organizations of students approved by the school.
 
-1970—Pub. L. 91–248 provided that regulations under this chapter and under the National School Lunch Act may include provisions relating to the service of food in participating schools and service institutions in competition with programs under this chapter and the National School Lunch Act, provided for transfer offunds by any State between programs authorized under this chapter and under the National School Lunch Act, and provided for a reserve of up to one percent of the funds available for apportionment to any State to carry out special development projects.
+1970—Pub. L. 91–248 provided that regulations under this chapter and under the National School Lunch Act may include provisions relating to the service of food in participating schools and service institutions in competition with programs under this chapter and the National School Lunch Act, provided for transfer of funds by any State between programs authorized under this chapter and under the National School Lunch Act, and provided for a reserve of up to one percent of the funds available for apportionment to any State to carry out special development projects.
 
 #### Effective Date of 1994 Amendment
 

@@ -14,7 +14,7 @@ Health Care Officers Described.—A health care officer referred to in subsectio
 
 &emsp;(1) is a reserve officer on active duty (other than for training) under a call or order to active duty for a period of more than 30 days but less than one year;
 
-&emsp;(2) is involuntarily retained on active duty under section 12305 of title 10, or is recalled to active duty under section 688 of title 10 for a period of more than 30 days; or
+&emsp;(2) is involuntarily retained on active duty under section 12305 of title 10, or is recalled toactive duty under section 688 of title 10 for a period of more than 30 days; or
 
 &emsp;(3) voluntarily agrees to remain on active duty for a period of less than one year at a time when—
 
@@ -64,7 +64,7 @@ Health Care Officers Described.—A health care officer referred to in subsectio
 
 “(c)
 
-Monthly Payments.—Payment of special pay pursuant to this section may be made on a monthly basis. If the service on active duty of an officer described in subsection (b) is terminated before the end of the period for which a payment is made to the officerunder subsection (a), the officer is entitled to special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code (whichever applies), only for the portion of that period that the officer actually served on active duty. The officer shall refund any amount received in excess of the amount that corresponds to the period of active duty of the officer.
+Monthly Payments.—Payment of special pay pursuant to this section may be made on a monthly basis. If the service on active duty of an officer described in subsection (b) is terminated before the end of the period for which a payment is made to the officer under subsection (a), the officer is entitled to special pay under section 302, 302a, 302b, 302e, or 303 of title 37, United States Code (whichever applies), only for the portion of that period that the officer actually served on active duty. The officer shall refund any amount received in excess of the amount that corresponds to the period of active duty of the officer.
 
 “(d)
 

@@ -62,7 +62,7 @@ If at any time the Director determines in writing that an enterprise is engaging
 
 #### (c) Quarterly determination
 
-The Director shall determine the capital classification of the enterprises for purposes of this subchapter on not less than a quarterly basis\(and as appropriate under subsection (b) of this section). The first such determination shall be made during the 3-month period beginning on the appointment of the Director.
+The Director shall determine the capital classification of the enterprises for purposes of this subchapter on not less than a quarterly basis (and as appropriate under subsection (b) of this section). The first such determination shall be made during the 3-month period beginning on the appointment of the Director.
 
 #### (d) Implementation
 

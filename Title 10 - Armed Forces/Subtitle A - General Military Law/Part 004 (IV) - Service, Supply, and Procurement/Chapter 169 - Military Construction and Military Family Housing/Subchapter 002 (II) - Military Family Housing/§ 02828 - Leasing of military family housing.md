@@ -16,11 +16,13 @@
 
 (b)(1) Not more than 10,000 family housing units may be leased at any one time under subsection (a).
 
-(2) Except as provided in paragraph (3), expenditures for the rental of housing units under subsection (a) (including the cost of utilities, maintenance, and operation) may not exceed $12,000 per unit per year.
+(2) Except as provided in paragraphs (3) and (4), expenditures for the rental of housing units under subsection (a) (including the cost of utilities, maintenance, and operation) may not exceed $12,000 per unit per year.
 
 (3) Not more than 500 housing units may be leased under subsection (a) for which the expenditure for the rental of such units (including the cost of utilities, maintenance, and operation) exceeds $12,000 per unit per year but does not exceed $14,000 per unit per year.
 
-(4) At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for under paragraphs (2) and (3) for the previous fiscal year by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.
+(4) The Secretary of the Army may lease not more than eight housing units in the vicinity of Miami, Florida, for key and essential personnel, as designated by the Secretary, for the United States Southern Command for which the expenditure for the rental of such units (including the cost of utilities, maintenance, and operation, including security enhancements) exceeds the expenditure limitations in paragraphs (2) and (3). The total amount for all leases under this paragraph may not exceed $280,000 per year, and no lease on any individual housing unit may exceed $60,000 per year.
+
+(5) At the beginning of each fiscal year, the Secretary concerned shall adjust the maximum lease amount provided for under paragraphs (2), (3), and (4) for the previous fiscal year by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.
 
 (c) The Secretary concerned may lease housing facilities in foreign countries for assignment, without rental charge, as family housing to members of the armed forces and for assignment, with or without rental charge, as family housing to civilian employees of the Department of Defense—
 
@@ -58,7 +60,7 @@
 
 (g) Appropriations available to the Department of Defense for maintenance or construction may be used for the acquisition of interests in land under this section.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, §805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, §801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, §806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, §7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, §1(<i>l</i>)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, §2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, §201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, §2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, §2816, Feb. 10, 1996, 110 Stat. 553.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, §805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, §801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, §806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, §7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, §1(<i>l</i>)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, §2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, §201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, §2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, §2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, §2803, Nov. 18, 1997, 111 Stat. 1990.)
 
 #### Historical and Revision Notes
 
@@ -68,7 +70,15 @@ Subsection (h) of this section and section 2673 of this title are based on Pub. 
 
 #### Amendments
 
-1996—Subsec. (e)(1). Pub. L. 104–106, §2816(1), substituted “450 units” for “300 units” in first sentenceand “350 such units” for “220 such units” in second sentence.
+1997—Subsec. (b)(2). Pub. L. 105–85, §2803(a)(1), substituted “paragraphs (3) and (4)” for “paragraph (3)”.
+
+Subsec. (b)(4). Pub. L. 105–85, §2803(a)(3), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (b)(5). Pub. L. 105–85, §2803(b), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+
+Pub. L. 105–85, §2803(a)(2), redesignated par. (4) as (5).
+
+1996—Subsec. (e)(1). Pub. L. 104–106, §2816(1), substituted “450 units” for “300 units” in first sentence and “350 such units” for “220 such units” in second sentence.
 
 Subsec. (e)(2). Pub. L. 104–106, §2816(2), substituted “450 units” for “300 units”.
 
@@ -158,7 +168,7 @@ Subsec. (g)(9). Pub. L. 99–167, §801(b)(1), substituted “September 30, 1986
 
 #### Effective Date of 1991 Amendment
 
-Section 2806(c) of Pub. L. 102–190 provided that: “Section 2835 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b)(1) \[amending this section\] shall not affect the validity of any contract entered into before that date under section 2828(g) of such title, as in effect on the day before that date.”
+Section 2806(c) of Pub. L. 102–190 provided that: “Section 2835 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b)(1) \[amending this section\] shallnot affect the validity of any contract entered into before that date under section 2828(g) of such title, as in effect on the day before that date.”
 
 #### Effective Date of 1988 Amendment
 

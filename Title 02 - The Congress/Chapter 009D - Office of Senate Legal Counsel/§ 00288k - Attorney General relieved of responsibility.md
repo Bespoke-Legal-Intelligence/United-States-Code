@@ -1,6 +1,6 @@
 ### §288k. Attorney General relieved of responsibility
 
-(a) Upon receipt of written notice that the Counsel has undertaken, pursuant to section288c(a) of this title, to perform any representational service with respect to any designated party in any action or proceeding pending or to be instituted, the Attorney General shall—
+(a) Upon receipt of written notice that the Counsel has undertaken, pursuant to section 288c(a) of this title, to perform any representational service with respect to any designated party in any action or proceeding pending or to be instituted, the Attorney General shall—
 
 &emsp;(1) be relieved of any responsibility with respect to such representational service;
 

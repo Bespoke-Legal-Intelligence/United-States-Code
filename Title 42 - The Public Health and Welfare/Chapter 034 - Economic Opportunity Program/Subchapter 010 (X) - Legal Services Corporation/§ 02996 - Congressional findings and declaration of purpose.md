@@ -6,7 +6,7 @@ The Congress finds and declares that—
 
 &emsp;(2) there is a need to provide high quality legal assistance to those who would be otherwise unable to afford adequate legal counsel and to continue the present vital legal services program;
 
-&emsp;(3) providing legal assistance to those who face an economic barrier to adequate legal counsel will serve best the ends of justice and assist in improving opportunities for low-income persons consistent with the purposes of this chapter;
+&emsp;(3) providing legal assistance to those who face an economic barrier to adequate legal counsel will serve best the ends of justice andassist in improving opportunities for low-income persons consistent with the purposes of this chapter;
 
 &emsp;(4) for many of our citizens, the availability of legal services has reaffirmed faith in our government of laws;
 

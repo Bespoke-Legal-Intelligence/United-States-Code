@@ -32,7 +32,7 @@ The Director of each facility that is maintained as a separate establishment of 
 
 (3) The designation of an employee or representative of a facility of the Retirement Home as personal representative of the estate of a resident of the Retirement Home or as a legatee under the will or codicil of the resident shall not disqualify an employee or staff member of that facility from serving as a competent witness to a will or codicil of the resident.
 
-(4) After the end of the three-year period beginning on the date of the death of a resident of a facility, the Director of the facility shall dispose of all property of the deceased resident that is not otherwise disposed of under this subsection, including personal effects such as decorations, medals, and citations to which a right has not been established under subsection (a) ofthis section. Disposal may be made within the discretion of the Director by—
+(4) After the end of the three-year period beginning on the date of the death of a resident of a facility, the Director of the facility shall dispose of all property of the deceased resident that is not otherwise disposed of under this subsection, including personal effects such as decorations, medals, and citations to which a right has not been established under subsection (a) of this section. Disposal may be made within the discretion of the Director by—
 
 &emsp;(A) retaining such property or effects for the facility;
 
@@ -56,7 +56,7 @@ The net proceeds received by the Directors from the sale of effects under subsec
 
 In the case of property delivered to the Retirement Home under section 2575 of title 10, the Directors shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Directors within two years after the delivery.
 
-(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, §202(j), Oct. 19, 1996, 110 Stat. 3843.)
+(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, titleIII, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, §202(j), Oct. 19, 1996, 110 Stat. 3843.)
 
 #### Amendments
 

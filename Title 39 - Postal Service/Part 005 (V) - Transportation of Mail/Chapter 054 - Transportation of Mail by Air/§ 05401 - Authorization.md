@@ -2,7 +2,7 @@
 
 (a) The Postal Service is authorized to provide for the safe and expeditious transportation of mail by aircraft.
 
-(b) Except as otherwise provided in section 5402 of this title, the Postal Service may make such rules, regulations, and orders consistent with part A of subtitle VII of title 49, or any order, rule, or regulation made by the Secretary of Transportation thereunder, as may be necessary for such transportation.
+(b) Except as otherwise provided in section 5402 of this title, the Postal Service may makesuch rules, regulations, and orders consistent with part A of subtitle VII of title 49, or any order, rule, or regulation made by the Secretary of Transportation thereunder, as may be necessary for such transportation.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(3), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 103–272, §5(k)(3), July 5, 1994, 108 Stat. 1375.)
 

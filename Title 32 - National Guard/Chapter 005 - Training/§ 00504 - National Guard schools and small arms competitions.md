@@ -10,7 +10,7 @@
 
 (b) Activities authorized under subsection (a) for members of the National Guard of a State or territory, Puerto Rico, or the District of Columbia may be held inside or outside its boundaries.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 611; Oct. 3, 1964, Pub. L. 88–621, §1(2), 78 Stat. 999; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 611; Pub. L. 88–621, §1(2), Oct. 3, 1964, 78 Stat. 999; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 
@@ -50,5 +50,5 @@ Pay grades of National Guard personnel on active duty, see section 204 of Title 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 715 of this title; title 5 section 6323; title 10 sections 101, 701, 1054,1089, 1208, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965.
+This section is referred to in sections 101, 715 of this title; title 5 section 6323; title 10 sections 101, 701, 1054, 1089, 1208, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965.
 

@@ -2,7 +2,7 @@
 
 Every person who, directly or indirectly, gives any sum of money or other bribe, present, or reward, or makes any offer of the same to any inspector, deputy inspector, or other employee of the office of any supervisor of a harbor with intent to influence such inspector, deputy inspector, or other employee to permit or overlook any violation of the provisions of this subchapter, shall, on conviction thereof, be fined not less than $500 nor more than $1,000, and be imprisoned not less than six months nor more than one year.
 
-(June 29, 1888, ch. 496, §3, 25 Stat. 209; Aug. 18, 1894, ch. 299, §3, 28 Stat. 360; May 28, 1908, ch. 212, §8, 35 Stat. 428; Aug. 28, 1958, Pub. L. 85–802, §1(4), 72 Stat. 970.)
+(June 29, 1888, ch. 496, §3, 25 Stat. 209; Aug. 18, 1894, ch. 299, §3, 28 Stat. 360; May 28, 1908, ch. 212, §8, 35 Stat. 428; Pub. L. 85–802, §1(4), Aug. 28, 1958, 72 Stat. 970.)
 
 #### Codification
 

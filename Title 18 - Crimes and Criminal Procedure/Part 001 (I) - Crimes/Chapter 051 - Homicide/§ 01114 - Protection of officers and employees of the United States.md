@@ -1,6 +1,6 @@
 ### §1114. Protection of officers and employees of the United States
 
-Whoever kills or attempts to kill any officer or employee of the United States or of any agency in any branch of the United States Government (including any member of the uniformedservices) while such officer or employee is engaged in or on account of the performance of official duties, or any person assisting such an officer or employee in the performance of such duties or on account of that assistance, shall be punished—
+Whoever kills or attempts to kill any officer or employee of the United States or of any agency in any branch of the United States Government (including any member of the uniformed services) while such officer or employee is engaged in or on account of the performance of official duties, or any person assisting such an officer or employee in the performance of such duties or on account of that assistance, shall be punished—
 
 &emsp;(1) in the case of murder, as provided under section 1111;
 
@@ -60,7 +60,7 @@ Pub. L. 101–647, §1205(h), inserted “or any other commonwealth, territory, 
 
 1984—Pub. L. 98–557 substituted reference to Coast Guard member, and Coast Guard employee assigned to perform investigative, inspection or law enforcement functions, for reference to any officer or enlisted man of the Coast Guard.
 
-Pub. L. 98–473 inserted “or attempts to kill” after “Whoever kills”, substituted “or any United Statesprobation or pretrial services officer, or any United States magistrate, or any officer or employee of any department or agency within the Intelligence Community (as defined in section 3.4(F) of Executive Order 12333, December 8, 1981, or successor orders) not already covered under the terms of this section,” for “while engaged in the performance of his official duties or on account of the performance of his official duties”, inserted “, or any other officer, agency, or employee of the United States designated for coverage under this section in regulations issued by the Attorney General”, and inserted “, except that any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years”.
+Pub. L. 98–473 inserted “or attempts to kill” after “Whoever kills”, substituted “or any United States probation or pretrial services officer, or any United States magistrate, or any officer or employee of any department or agency within the Intelligence Community (as defined in section 3.4(F) of Executive Order 12333, December 8, 1981, or successor orders) not already covered under the terms of this section,” for “while engaged in the performance of his official duties or on account of the performance of his official duties”, inserted “, or any other officer, agency, or employee of the United States designated for coverage under this section in regulations issued by the Attorney General”, and inserted “, except that any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years”.
 
 1983—Pub. L. 98–63 inserted “any civilian official or employee of the Army Corps of Engineers assigned to perform investigations, inspections, law or regulatory enforcement functions, or field-level real estate functions,” after “National Park Service,”.
 
@@ -92,7 +92,7 @@ Pub. L. 94–284 inserted “, the Consumer Product Safety Commission,” after
 
 Pub. L. 91–513 substituted “Bureau of Narcotics and Dangerous Drugs” for “Bureau of Narcotics”.
 
-Pub. L. 91–375 substituted “officer or employee of the Postal Service”, for “postal inspector, any postmaster, officer, or employee in the field service of the Post Office Department” after “Department of Justice,”.
+Pub. L. 91–375 substituted “officer or employee of the Postal Service”, for “postal inspector, any postmaster,officer, or employee in the field service of the Post Office Department” after “Department of Justice,”.
 
 1968—Pub. L. 90–449 substituted “any postal inspector, any postmaster, officer, or employee in the field service of the Post Office Department” for “any post-office inspector”.
 

@@ -8,7 +8,7 @@
 
 #### (2) State branch or agency
 
-&emsp;Subject to the provisions of this chapter and with the prior written approval by the Boardand the appropriate State bank supervisor of an application, a foreign bank may establish and operate a State branch or agency in any State outside the home State of such foreign bank to the extent that such establishment and operation would be permitted under section 1828(d)(4) or 1831u of this title if the foreign bank were a State bank whose home State is the same State as the home State of the foreign bank.
+&emsp;Subject to the provisions of this chapter and with the prior written approval by the Board and the appropriate State bank supervisor of an application, a foreign bank may establish and operate a State branch or agency in any State outside the home State of such foreign bank to the extent that such establishment and operation would be permitted under section 1828(d)(4) or 1831u of this title if the foreign bank were a State bank whose home State is the same State as the home State of the foreign bank.
 
 #### (3) Criteria for determination
 
@@ -34,7 +34,7 @@
 
 #### (6) Requirement for a separate subsidiary
 
-&emsp;If the Board or the Comptroller of the Currency, taking into account differing regulatory or accounting standards, finds that adherence by a foreign bank to capital requirements equivalent to those imposed under section 36 of this title and section 1831u of this title could be verified only if the banking activities of such bank in the United States are carried out in a domestic banking subsidiary within the United States, the Board and (in the case of an application under paragraph (1)) the Comptroller of the Currency may approve an application under paragraph (1) or (2) subject to a requirement that the foreign bank or company controlling the foreign bank establish a domestic banking subsidiary in the United States.
+&emsp;If the Board or the Comptroller of the Currency, taking into account differing regulatory or accounting standards, finds that adherence by a foreign bank to capital requirements equivalent to those imposed under section 36 of this title and section 1831u of this title could be verified only if the banking activities of such bank in the United States are carried out in a domestic banking subsidiary within the United States, the Board and (in the case of an application under paragraph (1)) the Comptroller of the Currency may approvean application under paragraph (1) or (2) subject to a requirement that the foreign bank or company controlling the foreign bank establish a domestic banking subsidiary in the United States.
 
 #### (7) Additional authority for interstate branches and agencies of foreign banks
 
@@ -64,7 +64,7 @@
 
 #### (b) Continuance of lawful interstate banking operations previously commenced
 
-Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of this section, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had beenlawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.
+Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of this section, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had been lawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a) of this section, a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.
 
 #### (c) Determination of home State of foreign bank
 

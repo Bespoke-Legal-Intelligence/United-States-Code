@@ -68,7 +68,7 @@ Disability.—(1) Section 4313(a)(3) of chapter 43 of title 38, United States Co
 
 “(e)
 
-Investigations and Subpoenas.—The provisions of section 4326 of title 38, United States Code, as provided in the amendments made by this Act, shall become effective on the date of the enactment of this Act\[Oct. 13, 1994\] and apply to any matter pending with the Secretary of Labor under section 4305 of title 38, United States Code \[set out in a note preceding this subchapter\], as of that date.
+Investigations and Subpoenas.—The provisions of section 4326 of title 38, United States Code, as provided in the amendments made by this Act, shall become effective on the date of the enactment of this Act \[Oct. 13, 1994\] and apply to any matter pending with the Secretary of Labor under section 4305 of title 38, United States Code \[set out in a note preceding this subchapter\], as of that date.
 
 “(f)
 
@@ -82,9 +82,13 @@ Rights and Benefits Relative to Notice of Intent Not To Return.—Section 4316(b
 
 Employer Pension Benefit Plans.—(1) Nothing in this Act shall be construed to relieve an employer of an obligation to provide contributions to a pension plan (or provide pension benefits), or to relieve the obligation of a pension plan to provide pension benefits, which is required by the provisions of chapter 43 of title 38, United States Code, in effect on the day before this Act takes effect \[probably means the day before Oct. 13, 1994\].
 
-“(2) If any employee pension benefit plan is not in compliance with section 4318 of such title or paragraph (1) of this subsection on the date of enactment of this Act \[Oct. 13, 1994\], such plan shall have two years to come into compliance with such section and paragraph.
+“(2) If any employee pension benefit plan is not in compliance with section 4318 of such title or paragraph\(1) of this subsection on the date of enactment of this Act \[Oct. 13, 1994\], such plan shall have two years to come into compliance with such section and paragraph.
 
 “(i)
 
 Definition.—For the purposes of this section, the term ‘service in the uniformed services’ shall have the meaning given such term in section 4303(13) of title 38, United States Code, as provided in the amendments made by this Act.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 46 App. section 1132.
 

@@ -24,7 +24,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (f) Maintenance of records
 
-&emsp;that the Council shall maintain such books and records, which shall be available to the Secretary for inspection and audit, and prepare and submit such reports from time to time, to the Secretary as the Secretary may prescribe, and for appropriate accounting bythe Council, with respect to the receipt and disbursement of all funds entrusted to it;
+&emsp;that the Council shall maintain such books and records, which shall be available to the Secretary for inspection and audit, and prepare and submit such reports from time to time, to the Secretary as the Secretary may prescribe, and for appropriate accounting by the Council, with respect to the receipt and disbursement of all funds entrusted to it;
 
 #### (g) Contracts
 
@@ -32,7 +32,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (h) Investment of assessment funds
 
-&emsp;that the Council, with the approval of the Secretary, may invest, pending disbursement pursuant to a plan or project, funds collected through assessments authorized under this title in, and only in, obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank which is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States;
+&emsp;that the Council, with the approval of the Secretary, may invest, pending disbursement pursuant to a plan or project, funds collected through assessments authorized under this title in, and only in, obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank which is a member of the Federal Reserve System, or inobligations fully guaranteed as to principal and interest by the United States;
 
 #### (i) Lobbying restriction
 

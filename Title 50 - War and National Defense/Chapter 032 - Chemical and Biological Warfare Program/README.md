@@ -15,7 +15,13 @@
 | [1518\.](%C2%A7%2001518%20-%20Disposal%3B%20detoxification%3B%20report%20to%20Congress%3B%20emergencies.md) | Disposal; detoxification; report to Congress; emergencies. |
 | [1519\.](%C2%A7%2001519%20-%20Lethal%20binary%20chemical%20munitions.md) | Lethal binary chemical munitions. |
 | [1519a.](%C2%A7%2001519a%20-%20Limitation%20on%20procurement%20of%20binary%20chemical%20weapons.md) | Limitation on procurement of binary chemical weapons. |
-| [1520\.](%C2%A7%2001520%20-%20Use%20of%20human%20subjects%20for%20testing%20of%20chemical%20or%20biological%20agents%20by%20Department%20of%20Defense%3B%20accounting%20to%20Congressional%20committees%20with%E2%80%A6.md) | Use of human subjects for testing of chemical or biological agents by Department of Defense; accounting to Congressional committees with respect to experiments and studies; notification of local civilian officials. |
+| [1520\.](%C2%A7%2001520%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71078%28g%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201916.md) | Repealed. |
+| [1520a.](%C2%A7%2001520a%20-%20Restrictions%20on%20use%20of%20human%20subjects%20for%20testing%20of%20chemical%20or%20biological%20agents.md) | Restrictions on use of human subjects for testing of chemical or biological agents. |
+| (a) | Prohibited activities. |
+| (b) | Exceptions. |
+| (c) | Informed consent required. |
+| (d) | Prior notice to Congress. |
+| (e) | “Biological agent” defined. |
 | [1521\.](%C2%A7%2001521%20-%20Destruction%20of%20existing%20stockpile%20of%20lethal%20chemical%20agents%20and%20munitions.md) | Destruction of existing stockpile of lethal chemical agents and munitions. |
 | (a) | In general. |
 | (b) | Date for completion. |
@@ -40,6 +46,10 @@
 | [1524\.](%C2%A7%2001524%20-%20Agreements%20to%20provide%20support%20to%20vaccination%20programs%20of%20Department%20of%20Health%20and%20Human%20Services.md) | Agreements to provide support to vaccination programs of Department of Health and Human Services. |
 | (a) | Agreements authorized. |
 | (b) | Report. |
+| [1525\.](%C2%A7%2001525%20-%20Assistance%20for%20facilities%20subject%20to%20inspection%20under%20Chemical%20Weapons%20Convention.md) | Assistance for facilities subject to inspection under Chemical Weapons Convention. |
+| (a) | Assistance authorized. |
+| (b) | Reimbursement requirement. |
+| (c) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -59,8 +69,10 @@
 - [&sect; 01518 - Disposal; detoxification; report to Congress; emergencies](%C2%A7%2001518%20-%20Disposal%3B%20detoxification%3B%20report%20to%20Congress%3B%20emergencies.md)
 - [&sect; 01519 - Lethal binary chemical munitions](%C2%A7%2001519%20-%20Lethal%20binary%20chemical%20munitions.md)
 - [&sect; 01519a - Limitation on procurement of binary chemical weapons](%C2%A7%2001519a%20-%20Limitation%20on%20procurement%20of%20binary%20chemical%20weapons.md)
-- [&sect; 01520 - Use of human subjects for testing of chemical or biological agents by Department of Defense; accounting to Congressional committees with&#8230;](%C2%A7%2001520%20-%20Use%20of%20human%20subjects%20for%20testing%20of%20chemical%20or%20biological%20agents%20by%20Department%20of%20Defense%3B%20accounting%20to%20Congressional%20committees%20with%E2%80%A6.md)
+- [&sect; 01520 - Repealed. Pub. L. 105&#8211;85, div. A, title X, &sect;1078(g), Nov. 18, 1997, 111 Stat. 1916](%C2%A7%2001520%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71078%28g%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201916.md)
+- [&sect; 01520a - Restrictions on use of human subjects for testing of chemical or biological agents](%C2%A7%2001520a%20-%20Restrictions%20on%20use%20of%20human%20subjects%20for%20testing%20of%20chemical%20or%20biological%20agents.md)
 - [&sect; 01521 - Destruction of existing stockpile of lethal chemical agents and munitions](%C2%A7%2001521%20-%20Destruction%20of%20existing%20stockpile%20of%20lethal%20chemical%20agents%20and%20munitions.md)
 - [&sect; 01522 - Conduct of chemical and biological defense program](%C2%A7%2001522%20-%20Conduct%20of%20chemical%20and%20biological%20defense%20program.md)
 - [&sect; 01523 - Annual report on chemical and biological warfare defense](%C2%A7%2001523%20-%20Annual%20report%20on%20chemical%20and%20biological%20warfare%20defense.md)
 - [&sect; 01524 - Agreements to provide support to vaccination programs of Department of Health and Human Services](%C2%A7%2001524%20-%20Agreements%20to%20provide%20support%20to%20vaccination%20programs%20of%20Department%20of%20Health%20and%20Human%20Services.md)
+- [&sect; 01525 - Assistance for facilities subject to inspection under Chemical Weapons Convention](%C2%A7%2001525%20-%20Assistance%20for%20facilities%20subject%20to%20inspection%20under%20Chemical%20Weapons%20Convention.md)

@@ -36,7 +36,7 @@ The head of each executive agency who awards multiple task or delivery order con
 
 This section applies to task and delivery order contracts entered into under sections 253h and 253i of this title.
 
-(June 30, 1949, ch. 288, title III, §303J, as added Oct. 13, 1994, Pub. L. 103–355, title I, §1054(a), 108 Stat. 3264.)
+(June 30, 1949, ch. 288, title III, §303J, as added Pub. L. 103–355, title I, §1054(a), Oct. 13, 1994, 108 Stat. 3264.)
 
 #### Effective Date
 

@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [901\.](%C2%A7%2000901%20-%20Definitions.md) | Definitions. |
 | [902\.](%C2%A7%2000902%20-%20Subject%20matter%20of%20protection.md) | Subject matter of protection. |
-| [903\.](%C2%A7%2000903%20-%20Ownership%2C%20transfer%2C%20licensing%2C%20and%20recordation.md) | Ownership and transfer.<sup>1</sup> |
+| [903\.](%C2%A7%2000903%20-%20Ownership%2C%20transfer%2C%20licensing%2C%20and%20recordation.md) | Ownership, transfer, licensure, and recordation.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -23,6 +23,10 @@
 | [914\.](%C2%A7%2000914%20-%20International%20transitional%20provisions.md) | International transitional provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1997—Pub. L. 105–80, §12(a)(21), Nov. 13, 1997, 111 Stat. 1535, substituted “Ownership, transfer, licensure, and recordation” for “Ownership and transfer” in item 903.
 
 #### Chapter Referred to in Other Sections
 

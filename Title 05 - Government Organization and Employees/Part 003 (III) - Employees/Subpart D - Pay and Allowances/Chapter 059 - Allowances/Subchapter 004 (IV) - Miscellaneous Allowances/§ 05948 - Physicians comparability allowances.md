@@ -20,7 +20,7 @@
 
 (c) The head of an agency, pursuant to such regulations, criteria, and conditions as the President or his designee may prescribe, shall determine categories of positions applicable to physicians in such agency with respect to which there is a significant recruitment and retention problem. Only physicians serving in such positions shall be eligible for an allowance pursuant to this section. The amounts of each such allowance shall be determined by the agency head, subject to such regulations, criteria, and conditions as the President or his designee may prescribe, and shall be the minimum amount necessary to deal with the recruitment and retention problem for each such category of physicians.
 
-(d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service. No agreement shall be entered into under this section later than September 30, 1997, nor shall any agreement cover a period of service extending beyond September 30, 1999.
+(d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service. No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.
 
 (e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(G) section 1202 of the Panama Canal Act of 1979, relating to the Panama Canal Commission;
 
-&emsp;&emsp;(H) section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 402 note), relating to the National Security Agency;
+&emsp;&emsp;(H) section 2 of the Act of May 29, 1959 <sup>2</sup> (Public Law 86–36, as amended, 50 U.S.C. 402 note), relating to the National Security Agency;
 
 &emsp;&emsp;(I) section 5376, relating to certain senior-level positions;
 
@@ -56,7 +56,7 @@
 
 (h)(1) Any allowance paid under this section shall not be considered as basic pay for the purposes of subchapter VI and section 5595 of chapter 55, chapter 81, 83, or 87 of this title, or other benefits related to basic pay.
 
-(2) Any allowance under this section for a Government physician shall be paid in the same manner and at the same time as the physician's basic pay is paid.
+(2) Any allowance under this section for a Government physician shall be paid in the samemanner and at the same time as the physician's basic pay is paid.
 
 (i) Any regulations, criteria, or conditions that may be prescribed under this section by the President or his designee shall not be applicable to the Tennessee Valley Authority, and the Tennessee Valley Authority shall have sole responsibility for administering the provisions of this section with respect to Government physicians employed by the Authority.
 
@@ -74,11 +74,15 @@
 
 (2) In addition to the information required under paragraph (1), the last report due under this subsection before the expiration of the authority to enter into agreements under this section shall include—
 
-&emsp;(A) recommendations as to whether or not such authority should be continued beyond September 30, 1997, and, if so, by what period of time; and
+&emsp;(A) recommendations as to whether or not such authority should be continued beyond September 30, 2000, and, if so, by what period of time; and
 
 &emsp;(B) the reasons for those recommendations.
 
-(Added Pub. L. 95–603, §2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, §2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, §204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, §1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, §1(a), formerly §1, Oct. 12, 1990, 104 Stat. 908, renumbered §1(a), Pub. L. 103–114, §1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, §2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, §3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§1(a)(1), 2(a), Oct. 26, 1993, 107 Stat. 1115, 1116.)
+(Added Pub. L. 95–603, §2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, §2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, §204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, §1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, §1(a), formerly §1, Oct. 12, 1990, 104 Stat. 908, renumbered §1(a), Pub. L. 103–114, §1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, §2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, §3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§1(a)(1), 2(a), Oct. 26, 1993, 107 Stat. 1115, 1116; Pub. L. 105–61, title V, §517(a), Oct. 10, 1997, 111 Stat. 1307.)
+
+#### Repeal of Section
+
+<i>For repeal of section by section 3 of Pub. L. 95–603, see Effective Date of Repeal note set out below.</i>
 
 #### References in Text
 
@@ -90,7 +94,13 @@ The Foreign Service Act of 1980, referred to in subsec. (g)(1)(E), is Pub. L. 96
 
 Section 1202 of the Panama Canal Act of 1979, referred to in subsec. (g)(1)(G), is classified to section 3642 of Title 22, Foreign Relations and Intercourse.
 
+Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 402 note), referred to in subsec. (g)(1)(H), was repealed by Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751.
+
 #### Amendments
+
+1997—Subsec. (d). Pub. L. 105–61, §517(a)(1), substituted “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.” for “No agreement shall be entered into under this section later than September 30, 1997, nor shall any agreement cover a period of service extending beyond September 30, 1999.”
+
+Subsec. (j)(2)(A). Pub. L. 105–61, §517(a)(2), substituted “September 30, 2000” for “September 30, 1997”.
 
 1993—Subsec. (d). Pub. L. 103–114, §1(a)(1), amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995.”
 
@@ -120,7 +130,7 @@ Subsec. (d). Pub. L. 100–140, §1(b), substituted “September 30, 1990” for
 
 1981—Subsec. (d). Pub. L. 97–141, §2(1), substituted “September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985” for “September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983”.
 
-Subsec. (g)(1). Pub. L. 97–141, §2(2), (3), reenacted provisions preceding subpar. (A) without change, and in subpar. (F), substituted “chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)” for “title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)”.
+Subsec. (g)(1). Pub. L. 97–141, §2(2), (3), reenacted provisions preceding subpar. (A) without change, and insubpar. (F), substituted “chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)” for “title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)”.
 
 1979—Subsec. (d). Pub. L. 96–166, §2(1), substituted “September 30, 1981” for “September 30, 1979” and “September 30, 1983” for “September 30, 1981”.
 
@@ -129,6 +139,10 @@ Subsec. (g)(1). Pub. L. 96–166, §2(2)(A), directed the amendment of subsec. (
 Pub. L. 96–166, §2(2)(B)–(E), redesignated subpars. (B) through (G) as (D) through (I), respectively, added subpars. (B) and (C), substituted in subpar. (D) as redesignated, “5371” for “5361”, and substituted in subpar. (H) as redesignated, “section 1202 of the Panama Canal Act of 1979, relating to the Panama Canal Commission; or” for “section 121 of title 2 of the Canal Zone Code, relating to the Canal Zone Government and the Panama Canal Company; or”.
 
 Subsec. (g)(2). Pub. L. 96–166, §2(3), inserted reference to the Library of Congress.
+
+#### Effective Date of 1997 Amendment
+
+Section 517(c) of Pub. L. 105–61 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under this section\] shall take effect on the date of enactment of this Act \[Oct. 10, 1997\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -140,7 +154,7 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 #### Effective Date of Repeal
 
-Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, §4, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §3, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(b), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 100–140, §1(c), as added Pub. L. 103–114, §1(b)(1), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 101–420, §1(b), as added Pub. L. 103–114, §1(b)(2)(B), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 103–114, §1(a)(2), Oct. 26, 1993, 107 Stat. 1115, provided that: “The amendments made by this Act \[enacting this section\] are repealed, unless specifically extended by Act of Congress, effective on September 30, 1999.”
+Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, §4, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, §3, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, §102(b), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 100–140, §1(c), as added Pub. L. 103–114, §1(b)(1), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 101–420, §1(b), as added Pub. L. 103–114, §1(b)(2)(B), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 103–114, §1(a)(2), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 105–61, title V, §517(b), Oct. 10, 1997, 111 Stat. 1307, provided that: “The amendments made by this Act \[enacting this section\] are repealed, unless specifically extended by Act of Congress, effective on September 30, 2002.”
 
 \[Section 1(b)(1) of Pub. L. 103–114 provided that amendment by that section \[adding subsec. (c) to section 1 of Pub. L. 100–140, which amended section 3 of Pub. L. 95–603, set out above\] is effective as of Oct. 27, 1987.\]
 
@@ -186,7 +200,7 @@ Section 103 of Pub. L. 98–168 provided that any individual whose aggregate pay
 
 #### Service Agreements Entered Into On or After December 29, 1981; Advance Authorization; Fiscal Year 1982
 
-Section 4 of Pub. L. 97–141 provided that any service agreement entered into on or after Dec. 29, 1981, pursuant to this section, as amended by section 2 of Pub. L. 97–141, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts, and that the amendments made by Pub. L. 97–141 shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending Sept. 30, 1982.
+Section 4 of Pub. L. 97–141 provided that any service agreement entered into on or after Dec. 29, 1981, pursuant to this section, as amended by section 2 of Pub. L. 97–141, shall be effective only to such extent or in such amounts as are provided in advance in appropriationActs, and that the amendments made by Pub. L. 97–141 shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending Sept. 30, 1982.
 
 #### Service Agreements Entered Into On or After December 29, 1979; Advance Authorization
 

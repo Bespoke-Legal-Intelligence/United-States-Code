@@ -6,7 +6,7 @@ The purpose of this chapter is to provide the Secretary of Agriculture with the 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13,1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

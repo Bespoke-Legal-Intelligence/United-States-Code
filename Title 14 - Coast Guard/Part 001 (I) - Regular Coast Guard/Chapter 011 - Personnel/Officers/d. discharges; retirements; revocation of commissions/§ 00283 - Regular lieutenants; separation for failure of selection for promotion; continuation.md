@@ -36,7 +36,7 @@
 
 #### Retired Pay on or Prior to September 24, 1963
 
-Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 211 of this title.
+Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retiredpay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 211 of this title.
 
 #### Effectiveness of Election, Change, or Revocation of Election of Annuity
 

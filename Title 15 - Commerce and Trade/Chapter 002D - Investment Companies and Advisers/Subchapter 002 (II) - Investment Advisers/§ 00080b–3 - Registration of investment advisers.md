@@ -320,7 +320,7 @@ Subsec. (g). Pub. L. 86–750, §5, substituted “existence” for “business�
 
 #### Effective Date of 1996 Amendment
 
-Amendment by sections 303(b), (d) and 305 of Pub. L. 104–290 effective 180 days after Oct. 11, 1996, see section 308(a) of Pub. L. 104–290 set out as a note under section 80b–2 of this title.
+Amendment by sections 303(b), (d) and 305 of Pub. L. 104–290 effective 270 days after Oct. 11, 1996, see section 308(a) of Pub. L. 104–290, as amended, set out as a note under section 80b–2 of this title.
 
 #### Effective Date of 1995 Amendment
 

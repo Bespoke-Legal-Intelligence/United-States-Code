@@ -2,7 +2,7 @@
 
 Any stock, debentures, bonds, notes, or other obligations issued under the authority of this chapter may be issued in uncertificated form, utilizing a book entry method, or in certificated form under such rules, regulations, or guidelines as the Board of Directors of the Federal Housing Finance Board may provide.
 
-(July 22, 1932, ch. 522, §23, 47 Stat. 739; Aug. 9, 1989, Pub. L. 101–73, title VII, §717, 103 Stat. 422.)
+(July 22, 1932, ch. 522, §23, 47 Stat. 739; Pub. L. 101–73, title VII, §717, Aug. 9, 1989, 103 Stat. 422.)
 
 #### Amendments
 

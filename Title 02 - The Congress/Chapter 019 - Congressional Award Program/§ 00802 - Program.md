@@ -34,7 +34,7 @@ The Board shall prepare and submit an annual report to the Congress before April
 
 &emsp;(1) Specific information regarding the methods used to raise funds for the Congressional Award Program and a list of the sources of all money raised by the Board.
 
-&emsp;(2) Detailed information regarding the expenditures made by the Board, including thepercentage of funds which are used for administrative expenses.
+&emsp;(2) Detailed information regarding the expenditures made by the Board, including the percentage of funds which are used for administrative expenses.
 
 &emsp;(3) A description of the programs formulated by the Director under section 804(b)(1) of this title, including an explanation of the operation of such programs and a list of their sponsors.
 
@@ -62,7 +62,7 @@ The Board shall prepare and submit an annual report to the Congress before April
 
 &emsp;There are authorized to be charged against the Numismatic Public Enterprise Fund such amounts as may be necessary to pay for the cost of the medals struck pursuant to this chapter.
 
-(Pub. L. 96–114, §3, Nov. 16, 1979, 93 Stat. 851; Pub. L. 99–161, §4(a)–(c), Nov. 25, 1985, 99 Stat. 934; Pub. L. 100–674, §2(a), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §3, Nov. 6, 1990, 104 Stat. 2305; Pub. L. 103–329, title VI, §637, Sept. 30, 1994, 108 Stat. 2431.)
+(Pub. L. 96–114, §3, Nov. 16, 1979, 93 Stat. 851; Pub. L. 99–161, §4(a)–(c), Nov. 25, 1985, 99 Stat.934; Pub. L. 100–674, §2(a), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §3, Nov. 6, 1990, 104 Stat. 2305; Pub. L. 103–329, title VI, §637, Sept. 30, 1994, 108 Stat. 2431.)
 
 #### References in Text
 

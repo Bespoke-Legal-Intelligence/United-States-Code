@@ -4,7 +4,7 @@
 
 (b) A civil action to enforce, enjoin, set aside, annul, or suspend, in whole or in part, an order of the Interstate Commerce Commission made pursuant to the referral of a question or issue by a district court or by the United States Court of Federal Claims, shall be brought only in the court which referred the question or issue.
 
-(June 25, 1948, ch. 646, 62 Stat. 936; Aug. 30, 1964, Pub. L. 88–513, §2, 78 Stat. 695; Jan. 2, 1975, Pub. L. 93–584, §2, 88 Stat. 1917; Apr. 2, 1982, Pub. L. 97–164, title I, §130, 96 Stat. 39; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 88–513, §2, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, §2, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, §130, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -24,13 +24,13 @@ The revised section substitutes the words “Except as otherwise provided by law
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1975—Subsec. (a). Pub. L. 93–584 substituted provisions that civil actions under section 1336(a) of this title shall be brought only in a judicial district in which any of the parties bringing the action resides or has its principal office, for provisions that civil actions to enforce, suspend, or set aside in whole or in part orders of the Interstate Commerce Commission shall be brought in such judicial district.
+<b>1975</b>—Subsec. (a). Pub. L. 93–584 substituted provisions that civil actions under section 1336(a) of this title shall be brought only in a judicial district in which any of the parties bringing the action resides or has its principal office, for provisions that civil actions to enforce, suspend, or set aside in whole or in part orders of the Interstate Commerce Commission shall be brought in such judicial district.
 
-1964—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1964</b>—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–584 not applicable to actions commenced on or before last day of first month beginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this amendment becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced, see section 10 of Pub. L. 93–584, set out as a note under section 2321 of this title.
+Amendment by Pub. L. 93–584 not applicable to actions commenced on or before last day of first monthbeginning after Jan. 2, 1975, and actions to enjoin or suspend orders of Interstate Commerce Commission which are pending when this amendment becomes effective shall not be affected thereby, but shall proceed to final disposition under the law existing on the date they were commenced, see section 10 of Pub. L. 93–584, set out as a note under section 2321 of this title.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

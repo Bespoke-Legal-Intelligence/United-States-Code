@@ -14,13 +14,13 @@ Acceptance into a national service program to serve a second term of service und
 
 #### (d) Recruitment and placement
 
-The Corporation and each State Commission shall establish a system to recruit individuals who desire to perform national service and to assist the placement of these individuals in approved national service positions, which may include positions available under titles I and II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq. \[and 5000 et seq.\]). The Corporation and State Commissions shall disseminate information regarding available approved national service positions through cooperation with secondary schools, institutions of higher education, employment service offices, State vocational rehabilitation agencies within the meaning of the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) and other State agencies thatprimarily serve individuals with disabilities, and other appropriate entities, particularly those organizations that provide outreach to disadvantaged youths and youths who are individuals with disabilities.
+The Corporation and each State Commission shall establish a system to recruit individuals who desire to perform national service and to assist the placement of these individuals in approved national service positions, which may include positions available under titles I and II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq. \[and 5000 et seq.\]). The Corporation and State Commissions shall disseminate information regarding available approved national service positions through cooperation with secondary schools, institutions of higher education, employment service offices, State vocational rehabilitation agencies within the meaning of the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) and other State agencies that primarily serve individuals with disabilities, and other appropriate entities, particularly those organizations that provide outreach to disadvantaged youths and youths who are individuals with disabilities.
 
 #### (e) National leadership pool
 
 #### (1) Selection and training
 
-&emsp;From among individuals recruited under subsection (d) of this section, the Corporation may select individuals with significant leadership potential, as determined by the Corporation, to receive special training to enhance their leadership ability. The leadership training shall be provided by the Corporation directly or through a grant or contract.
+&emsp;From among individuals recruited under subsection (d) of this section, the Corporationmay select individuals with significant leadership potential, as determined by the Corporation, to receive special training to enhance their leadership ability. The leadership training shall be provided by the Corporation directly or through a grant or contract.
 
 #### (2) Emphasis on certain individuals
 

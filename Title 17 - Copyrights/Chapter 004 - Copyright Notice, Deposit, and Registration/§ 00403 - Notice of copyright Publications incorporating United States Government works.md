@@ -14,7 +14,7 @@ To make the notice meaningful rather than misleading, section 403 requires that,
 
 #### Amendments
 
-1988—Pub. L. 100–568 amended section generally. Prior to amendment, section read as follows: “Whenever a work is published in copies or phonorecords consisting preponderantly of one or more works of the United States Government, the notice of copyright provided by sections 401 or 402 shall also include a statement identifying, either affirmatively or negatively, those portions of the copies or phonorecords embodying any work or works protected under this title.”
+1988—Pub. L. 100–568 amended section generally. Prior to amendment, section read as follows: “Whenever awork is published in copies or phonorecords consisting preponderantly of one or more works of the United States Government, the notice of copyright provided by sections 401 or 402 shall also include a statement identifying, either affirmatively or negatively, those portions of the copies or phonorecords embodying any work or works protected under this title.”
 
 #### Effective Date of 1988 Amendment
 

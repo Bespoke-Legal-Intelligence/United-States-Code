@@ -44,7 +44,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (a)(3), (5), a
 
 1994—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
 
-“(a) A governmental unit is deemed to have waived sovereign immunity with respect to any claim againstsuch governmental unit that is property of the estate and that arose out of the same transaction or occurrence out of which such governmental unit's claim arose.
+“(a) A governmental unit is deemed to have waived sovereign immunity with respect to any claim against such governmental unit that is property of the estate and that arose out of the same transaction or occurrence out of which such governmental unit's claim arose.
 
 “(b) There shall be offset against an allowed claim or interest of a governmental unit any claim against such governmental unit that is property of the estate.
 

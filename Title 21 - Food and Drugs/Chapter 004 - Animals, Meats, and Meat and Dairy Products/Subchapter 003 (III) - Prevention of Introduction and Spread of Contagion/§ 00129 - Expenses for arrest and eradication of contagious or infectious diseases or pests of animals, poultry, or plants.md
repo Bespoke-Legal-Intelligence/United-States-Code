@@ -2,7 +2,7 @@
 
 In emergencies which threaten any segment of the agricultural production industry of this country, the Secretary may transfer from other appropriations or funds available to the agencies or corporations of the Department such sums as he may deem necessary, to be available only in such emergencies for the arrest and eradication of contagious or infectious disease or pests of animals, poultry, or plants, and for expenses in accordance with sections 114b to 114d–1 of this title and section 147a of title 7, and any unexpended balances of funds transferred for such emergency purposes in the next preceding fiscal year shall be merged with such transferred amounts.
 
-(Aug. 6, 1996, Pub. L. 104–180, title I, 110 Stat. 1576.)
+(Pub. L. 105–86, title I, Nov. 18, 1997, 111 Stat. 2086.)
 
 #### Codification
 
@@ -12,83 +12,85 @@ Section is from the appropriation act cited as the credit to this section.
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Oct. 21, 1995, Pub. L. 104–37, title I, 109 Stat. 307.
+Pub. L. 104–180, title I, Aug. 6, 1996, 110 Stat. 1576.
 
-Sept. 30, 1994, Pub. L. 103–330, title I, 108 Stat. 2443.
+Pub. L. 104–37, title I, Oct. 21, 1995, 109 Stat. 307.
 
-Oct. 21, 1993, Pub. L. 103–111, title I, 107 Stat. 1054.
+Pub. L. 103–330, title I, Sept. 30, 1994, 108 Stat. 2443.
 
-Aug. 14, 1992, Pub. L. 102–341, title I, 106 Stat. 882.
+Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1054.
 
-Oct. 28, 1991, Pub. L. 102–142, title I, 105 Stat. 886.
+Pub. L. 102–341, title I, Aug. 14, 1992, 106 Stat. 882.
 
-Nov. 5, 1990, Pub. L. 101–506, title I, 104 Stat. 1323.
+Pub. L. 102–142, title I, Oct. 28, 1991, 105 Stat. 886.
 
-Nov. 21, 1989, Pub. L. 101–161, title I, 103 Stat. 959.
+Pub. L. 101–506, title I, Nov. 5, 1990, 104 Stat. 1323.
 
-Oct. 1, 1988, Pub. L. 100–460, title I, 102 Stat. 2237.
+Pub. L. 101–161, title I, Nov. 21, 1989, 103 Stat. 959.
 
-Dec. 22, 1987, Pub. L. 100–202, §101(k) \[title I\], 101 Stat. 1329–322, 1329–331.
+Pub. L. 100–460, title I, Oct. 1, 1988, 102 Stat. 2237.
 
-Oct. 18, 1986, Pub. L. 99–500, §101(a) \[title I\], 100 Stat. 1783, 1783–8, and Oct. 30, 1986, Pub. L. 99–591, §101(a) \[title I\], 100 Stat. 3341, 3341–8.
+Pub. L. 100–202, §101(k) \[title I\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–331.
 
-Dec. 19, 1985, Pub. L. 99–190, §101(a) \[H.R. 3037, title I\], 99 Stat. 1185.
+Pub. L. 99–500, §101(a) \[title I\], Oct. 18, 1986, 100 Stat. 1783, 1783–8, and Pub. L. 99–591, §101(a) \[title I\], Oct. 30, 1986, 100 Stat. 3341, 3341–8.
 
-Oct. 12, 1984, Pub. L. 98–473, title I, §101(a) \[H.R. 5743, title I\], 98 Stat. 1837.
+Pub. L. 99–190, §101(a) \[H.R. 3037, title I\], Dec. 19, 1985, 99 Stat. 1185.
 
-Nov. 14, 1983, Pub. L. 98–151, §101(d) \[H.R. 3223, title I\], 97 Stat. 972.
+Pub. L. 98–473, title I, §101(a) \[H.R. 5743, title I\], Oct. 12, 1984, 98 Stat. 1837.
 
-Dec. 18, 1982, Pub. L. 97–370, title I, 96 Stat. 1792.
+Pub. L. 98–151, §101(d) \[H.R. 3223, title I\], Nov. 14, 1983, 97 Stat. 972.
 
-Dec. 23, 1981, Pub. L. 97–103, title I, 95 Stat. 1472.
+Pub. L. 97–370, title I, Dec. 18, 1982, 96 Stat. 1792.
 
-Dec. 15, 1980, Pub. L. 96–528, title I, 94 Stat. 3099.
+Pub. L. 97–103, title I, Dec. 23, 1981, 95 Stat. 1472.
 
-Nov. 9, 1979, Pub. L. 96–108, title I, 93 Stat. 826.
+Pub. L. 96–528, title I, Dec. 15, 1980, 94 Stat. 3099.
 
-Oct. 11, 1978, Pub. L. 95–448, title I, 92 Stat. 1076.
+Pub. L. 96–108, title I, Nov. 9, 1979, 93 Stat. 826.
 
-Aug. 12, 1977, Pub. L. 95–97, title I, 91 Stat. 813.
+Pub. L. 95–448, title I, Oct. 11, 1978, 92 Stat. 1076.
 
-July 12, 1976, Pub. L. 94–351, title I, 90 Stat. 854.
+Pub. L. 95–97, title I, Aug. 12, 1977, 91 Stat. 813.
 
-Oct. 21, 1975, Pub. L. 94–122, title I, 89 Stat. 645.
+Pub. L. 94–351, title I, July 12, 1976, 90 Stat. 854.
 
-Dec. 31, 1974, Pub. L. 93–563, title I, 88 Stat. 1824.
+Pub. L. 94–122, title I, Oct. 21, 1975, 89 Stat. 645.
 
-Oct. 24, 1973, Pub. L. 93–135, title I, 87 Stat. 472.
+Pub. L. 93–563, title I, Dec. 31, 1974, 88 Stat. 1824.
 
-Aug. 22, 1972, Pub. L. 92–399, title I, 86 Stat. 594.
+Pub. L. 93–135, title I, Oct. 24, 1973, 87 Stat. 472.
 
-Aug. 10, 1971, Pub. L. 92–73, title I, 85 Stat. 185.
+Pub. L. 92–399, title I, Aug. 22, 1972, 86 Stat. 594.
 
-Dec. 22, 1970, Pub. L. 91–566, title I, 84 Stat. 1482.
+Pub. L. 92–73, title I, Aug. 10, 1971, 85 Stat. 185.
 
-Nov. 26, 1969, Pub. L. 91–127, title I, 83 Stat. 246.
+Pub. L. 91–566, title I, Dec. 22, 1970, 84 Stat. 1482.
 
-Aug. 8, 1968, Pub. L. 90–463, title I, 82 Stat. 640.
+Pub. L. 91–127, title I, Nov. 26, 1969, 83 Stat. 246.
 
-Oct. 24, 1967, Pub. L. 90–113, title I, 81 Stat. 321.
+Pub. L. 90–463, title I, Aug. 8, 1968, 82 Stat. 640.
 
-Sept. 7, 1966, Pub. L. 89–556, title I, 80 Stat. 690.
+Pub. L. 90–113, title I, Oct. 24, 1967, 81 Stat. 321.
 
-Nov. 2, 1965, Pub. L. 89–316, title I, 79 Stat. 1166.
+Pub. L. 89–556, title I, Sept. 7, 1966, 80 Stat. 690.
 
-Sept. 2, 1964, Pub. L. 88–573, title I, 78 Stat. 863.
+Pub. L. 89–316, title I, Nov. 2, 1965, 79 Stat. 1166.
 
-Dec. 30, 1963, Pub. L. 88–250, title I, 77 Stat. 821.
+Pub. L. 88–573, title I, Sept. 2, 1964, 78 Stat. 863.
 
-Oct. 24, 1962, Pub. L. 87–879, title I, 76 Stat. 1204.
+Pub. L. 88–250, title I, Dec. 30, 1963, 77 Stat. 821.
 
-July 26, 1961, Pub. L. 87–112, title I, 75 Stat. 228.
+Pub. L. 87–879, title I, Oct. 24, 1962, 76 Stat. 1204.
 
-June 29, 1960, Pub. L. 86–532, title I, 74 Stat. 233.
+Pub. L. 87–112, title I, July 26, 1961, 75 Stat. 228.
 
-July 8, 1959, Pub. L. 86–80, title I, 73 Stat. 168.
+Pub. L. 86–532, title I, June 29, 1960, 74 Stat. 233.
 
-June 13, 1958, Pub. L. 85–459, title I, 72 Stat. 189.
+Pub. L. 86–80, title I, July 8, 1959, 73 Stat. 168.
 
-Aug. 2, 1957, Pub. L. 85–118, title I, 71 Stat. 330.
+Pub. L. 85–459, title I, June 13, 1958, 72 Stat. 189.
+
+Pub. L. 85–118, title I, Aug. 2, 1957, 71 Stat. 330.
 
 June 4, 1956, ch. 355, title I, 70 Stat. 230.
 

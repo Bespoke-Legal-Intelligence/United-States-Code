@@ -36,11 +36,11 @@ Minor changes were made in phraseology.
 
 #### References in Text
 
-The immigration laws, referred to in subsec. (a), are classified generally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
+The immigration laws, referred to in subsec. (a), are classified generally to Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
 
 Section 274A(b) of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1324a(b) of Title 8.
 
-Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452,Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, §1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
+Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, §1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a) The President shall prescribe regulations to carry out this subchapter. Those regulations shall, so far as practicable, be uniform for the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service.
 
-(b) Determinations and certifications of eligibility for, and payments of, annuities and other payments or refunds under this subchapter shall be made by the department concerned. However, in the case of a department other than a military department, payments shall be made through the disbursing facilities of the Department of the Treasury.
+(b) Determinations and certifications of eligibility for, and payments of, annuities and other payments or refunds under this subchapter shall be made by the department concerned. However,in the case of a department other than a military department, payments shall be made through the disbursing facilities of the Department of the Treasury.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 111; Oct. 4, 1961, Pub. L. 87–381, §5, 75 Stat. 811; Nov. 2, 1966, Pub. L. 89–718, §8(a), 80 Stat. 1117; Sept. 21, 1972, Pub. L. 92–425, §1(2)(A), (C), 86 Stat. 706; Dec. 12, 1980, Pub. L. 96–513, title V, §511(58), 94 Stat. 2925.)
 

@@ -1,0 +1,28 @@
+### §49109. Nonstop flights
+
+An air carrier may not operate an aircraft nonstop in air transportation between Washington National Airport and another airport that is more than 1,250 statute miles away from Washington National Airport.
+
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+Section
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+49109
+
+(uncodified).
+
+Oct. 18, 1986, Pub. L. 99–500, title VI, §6012, 100 Stat. 1783–385.
+
+&nbsp;
+
+&nbsp;
+
+Oct. 30, 1986, Pub. L. 99–591, title VI, §6012, 100 Stat. 3341–388.
+

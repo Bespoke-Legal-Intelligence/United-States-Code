@@ -10,7 +10,7 @@ This division is comprised of subtitle E, §§151–166, of title I of Pub. L. 1
 
 #### Division Referred to in Other Sections
 
-This division is referred to in sections 12573, 12581, 12681 of this title.
+This division is referred to in sections 12573, 12581, 12681 of this title; title 32 section 509.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(7)”.</i>
 

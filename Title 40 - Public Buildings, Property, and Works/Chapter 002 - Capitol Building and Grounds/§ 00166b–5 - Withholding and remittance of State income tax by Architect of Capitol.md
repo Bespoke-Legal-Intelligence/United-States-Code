@@ -18,7 +18,7 @@ Whenever—
 
 Any agreement entered into under subsection (a) of this section shall not require the Architect to remit such sums more often than once each calendar quarter.
 
-#### (c) Requests by individuals of Secretary for withholding and remittance; amount of withholding; number and effective date of requests; change of designated State; revocation of request; rules and regulations
+#### (c) Requests for withholding and remittance; amount of withholding; number and effective date of requests; change of designated State; revocation of request; rules and regulations
 
 (1) An individual employed by the Office of the Architect of the Capitol, the United States Botanic Garden, or the Senate Restaurant may request the Architect to withhold sums from his pay for remittance to the appropriate authorities of the State that he designates. Amounts of withholdings shall be made in accordance with those provisions of the law of that State which apply generally to withholding by employers.
 
@@ -28,7 +28,7 @@ Any agreement entered into under subsection (a) of this section shall not requir
 
 &emsp;(B) when an individual first receives an appointment, the request shall be effective on the day of appointment, if the individual makes the request at the time of appointment.
 
-(3) An individual may change the State designated by him for the purposes of having withholdings made and request that the withholdings be remitted in accordance with such change, and he may also revoke his request for withholdings. Any change in the State designated or revocation is effective on the first day of the first pay period commencing on or after the day on which the request for change or the revocation is received in the appropriate office.
+(3) An individual may change the State designated by him for the purposes of having withholdings made and request that the withholdings be remitted in accordance with such change, and he may also revoke his request for withholdings. Any change in the State designated or revocation is effective on the firstday of the first pay period commencing on or after the day on which the request for change or the revocation is received in the appropriate office.
 
 (4) The Architect is authorized to issue rules and regulations he considers appropriate in carrying out this subsection.
 

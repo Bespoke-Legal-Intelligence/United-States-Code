@@ -18,7 +18,7 @@ Changes in phraseology were made.
 
 #### Senate Revision Amendment
 
-The text of this section was changed by Senate amendment in view of the act of June 21, 1947, ch. 111,61 Stat. 134, which, by amending section 244 of Title 18, U.S.C., became an additional source of this section. The amendment constitutes the last clause of this section. See Senate Report No. 1620, amendment No. 8, 80th Cong.
+The text of this section was changed by Senate amendment in view of the act of June 21, 1947, ch. 111, 61 Stat. 134, which, by amending section 244 of Title 18, U.S.C., became an additional source of this section. The amendment constitutes the last clause of this section. See Senate Report No. 1620, amendment No. 8, 80th Cong.
 
 #### Amendments
 

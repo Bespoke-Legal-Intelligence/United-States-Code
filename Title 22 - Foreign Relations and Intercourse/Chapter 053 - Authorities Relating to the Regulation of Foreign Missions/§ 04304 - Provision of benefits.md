@@ -50,7 +50,7 @@ Nothing in this chapter shall be deemed to preclude or limit in any way the auth
 
 (B) The authority to spend proceeds received under subparagraph (A) may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
 
-(Aug. 1, 1956, ch. 841, title II, §204, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 284; amended Aug. 16, 1985, Pub. L. 99–93, title I, §§126(b), 127(c), 99 Stat. 418; Feb. 16, 1990, Pub. L. 101–246, title I, §116(b), 104 Stat. 24; Apr. 30, 1994, Pub. L. 103–236, title I, §162(<i>o</i>)(3), 108 Stat. 410; Oct. 25, 1994, Pub. L. 103–415, §1(cc), 108 Stat. 4302.)
+(Aug. 1, 1956, ch. 841, title II, §204, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 99–93, title I, §§126(b), 127(c), Aug. 16, 1985, 99 Stat. 418; Pub. L. 101–246, title I, §116(b), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, §162(<i>o</i>)(3), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, §1(cc), Oct. 25, 1994, 108 Stat. 4302.)
 
 #### References in Text
 

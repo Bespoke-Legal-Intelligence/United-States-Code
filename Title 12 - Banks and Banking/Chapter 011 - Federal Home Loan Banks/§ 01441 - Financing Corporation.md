@@ -132,7 +132,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (4) Pro rata distribution of 1st $1,000,000,000 invested in Financing Corporation by Home Loan Banks
 
-&emsp;Of the first $1,000,000,000 in the aggregate which the Thrift Depositor Protection Oversight Board pursuant to section 1441b of this title or the Federal Housing Finance Board under this section (as the case may be) may require the Federal Home Loan Banks collectively to invest in the stock of the Funding Corporation or invest in the capital stock of the Financing Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board or the Federal Housing Finance Board (as the case may be) by multiplying the aggregate amount of such payment or investment by all Banks by the percentage appearing in the following table for each such Bank:
+&emsp;Of the first $1,000,000,000 in the aggregate which the Thrift Depositor Protection Oversight Board pursuant to section 1441b of thistitle or the Federal Housing Finance Board under this section (as the case may be) may require the Federal Home Loan Banks collectively to invest in the stock of the Funding Corporation or invest in the capital stock of the Financing Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Thrift Depositor Protection Oversight Board or the Federal Housing Finance Board (as the case may be) by multiplying the aggregate amount of such payment or investment by all Banks by the percentage appearing in the following table for each such Bank:
 
 &nbsp;
 
@@ -166,7 +166,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 &emsp;&emsp;If the amount any Federal Home Loan Bank is required to invest in capital stock of the Financing Corporation pursuant to a determination by the Federal Housing Finance Board under paragraph (5) (or under subparagraph (B) of this paragraph) exceeds the maximum investment amount applicable with respect to such bank under paragraph (3) at the time of such determination (hereinafter in this paragraph referred to as the “excess amount”)—
 
-&emsp;&emsp;&emsp;(i) the Federal Housing Finance Board shall require each remaining Federal Home Loan Bank to invest (in addition to the amount determined under paragraph (5) for such remaining bank and subject to the maximum investment amount applicable with respect to such remaining bankunder paragraph (3) at the time of such determination) in such capital stock on behalf of the bank in the amount determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) the Federal Housing Finance Board shall require each remaining Federal Home Loan Bank to invest (in addition to the amount determined under paragraph (5) for such remaining bank and subject to the maximum investment amount applicable with respect to such remaining bank under paragraph (3) at the time of such determination) in such capital stock on behalf of the bank in the amount determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) the Federal Housing Finance Board shall require the bank to subsequently purchase the excess amount of capital stock from the remaining banks in the manner described in subparagraph (C); and
 
@@ -198,7 +198,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 &emsp;&emsp;(A) that portion required to be added to reserves maintained pursuant to the first two sentences of section 1436 of this title; and
 
-&emsp;&emsp;(B) the dollar amounts held by the respective Federal Home Loan Banks in special dividend stabilization reserves on December 31, 1985, as determined under the following table:
+&emsp;&emsp;(B) the dollar amounts held by the respective Federal Home Loan Banks in specialdividend stabilization reserves on December 31, 1985, as determined under the following table:
 
 &nbsp;
 
@@ -254,7 +254,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (6) No full faith and credit of the United States
 
-&emsp;Obligations of the Financing Corporation and the interest payable on such obligationsshall not be obligations of, or guaranteed as to principal or interest by, the Federal Home Loan Banks, the United States, or the FSLIC Resolution Fund and the obligations shall so plainly state.
+&emsp;Obligations of the Financing Corporation and the interest payable on such obligations shall not be obligations of, or guaranteed as to principal or interest by, the Federal Home Loan Banks, the United States, or the FSLIC Resolution Fund and the obligations shall so plainly state.
 
 #### (7) Tax exempt status
 
@@ -284,7 +284,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (2) New assessment authority
 
-&emsp;In addition to the amounts obtained pursuant to paragraph (1), the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each insured depository institution an assessment (in the same manner as assessments are assessed against such institutions by the Federal Deposit Insurance Corporation under section 7 of the Federal Deposit Insurance Act \[12 U.S.C. 1817\]), except that—
+&emsp;In addition to the amounts obtained pursuant to paragraph (1), the Financing Corporation, with the approval of the Board of Directors of the Federal Deposit Insurance Corporation, shall assess against each insured depository institution an assessment (in the same manner as assessments are assessed against such institutions by the Federal Deposit Insurance Corporation under section 7 of theFederal Deposit Insurance Act \[12 U.S.C. 1817\]), except that—
 
 &emsp;&emsp;(A) the assessments imposed on insured depository institutions with respect to any BIF-assessable deposit shall be assessed at a rate equal to 1/5 of the rate of the assessments imposed on insured depository institutions with respect to any SAIF-assessable deposit; and
 
@@ -404,13 +404,13 @@ For purposes of this section, the following definitions shall apply:
 
 #### (A) BIF-assessable deposits
 
-&emsp;&emsp;The term “BIF-assessable deposit” means a deposit that is subject to assessment for purposes of the Bank Insurance Fund underthe Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] (including a deposit that is treated as a deposit insured by the Bank Insurance Fund under section 5(d)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)(3)\]).
+&emsp;&emsp;The term “BIF-assessable deposit” means a deposit that is subject to assessment for purposes of the Bank Insurance Fund under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] (including a deposit that is treated as a deposit insured by the Bank Insurance Fund under section 5(d)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)(3)\]).
 
 #### (B) SAIF-assessable deposit
 
 &emsp;&emsp;The term “SAIF-assessable deposit” has the meaning given to such term in section 2710 of the Deposit Insurance Funds Act of 1996.
 
-(July 22, 1932, ch. 522, §21, as added Aug. 10, 1987, Pub. L. 100–86, title III, §302, 101 Stat. 585; amended Aug. 9, 1989, Pub. L. 101–73, title V, §512, title VII, §§701(b)(2), 713, 103 Stat. 406, 412, 419; Dec. 12, 1991, Pub. L. 102–233, title I, §104, title III, §302(b), 105 Stat. 1762, 1767; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1611(c), 106 Stat. 4090; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2703(a), 110 Stat. 3009–485.)
+(July 22, 1932, ch. 522, §21, as added Pub. L. 100–86, title III, §302, Aug. 10, 1987, 101 Stat. 585; amended Pub. L. 101–73, title V, §512, title VII, §§701(b)(2), 713, Aug. 9, 1989, 103 Stat. 406, 412, 419; Pub. L. 102–233, title I, §104, title III, §302(b), Dec. 12, 1991, 105 Stat. 1762, 1767; Pub. L. 102–550, title XVI, §1611(c), Oct. 28, 1992, 106 Stat. 4090; Pub. L. 104–208, div. A, title II, §2703(a), Sept. 30, 1996, 110 Stat. 3009–485.)
 
 #### References in Text
 
@@ -526,7 +526,7 @@ Subsec. (g)(2). Pub. L. 101–73, §512(15), inserted at end “For purposes of 
 
 Subsec. (i). Pub. L. 101–73, §713, redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to Federal Savings and Loan Insurance Corporation Industry Advisory Committee.
 
-Subsec. (i)(1)(A). Pub. L. 101–73, §512(16), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date by which all stock purchased by the Financing Corporation in the Federal Savings and Loan Insurance Corporation has been retired; or”.
+Subsec. (i)(1)(A). Pub. L. 101–73, §512(16), added subpar. (A) and struck out former subpar. (A) which readas follows: “the date by which all stock purchased by the Financing Corporation in the Federal Savings and Loan Insurance Corporation has been retired; or”.
 
 Subsec. (i)(2). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
 
@@ -622,7 +622,7 @@ In General.—The following provisions shall cease to be effective on the date t
 
 “(b)
 
-Notice of Completion of Net New Borrowing by Financing Corporation.—When the Financing Corporation established pursuant to section 21 of the Federal Home Loan Bank Act \[12 U.S.C. 1441\] has completed all net new borrowing under such section, the Financing Corporation shall publish a notice of such fact in the Federal Register. \[Notice that the Financing Corporation had completed all net new borrowings and would issue no additional obligations after Dec. 12, 1991, was published Mar. 30, 1992, 57 F.R. 10763.\]
+Notice of Completion of Net New Borrowing by Financing Corporation.—When the Financing Corporation established pursuant to section 21 of the Federal Home Loan Bank Act \[12 U.S.C. 1441\] has completed all net new borrowing under such section, the Financing Corporation shall publish a notice of such fact in the Federal Register. \[Notice that the FinancingCorporation had completed all net new borrowings and would issue no additional obligations after Dec. 12, 1991, was published Mar. 30, 1992, 57 F.R. 10763.\]
 
 “(c)
 

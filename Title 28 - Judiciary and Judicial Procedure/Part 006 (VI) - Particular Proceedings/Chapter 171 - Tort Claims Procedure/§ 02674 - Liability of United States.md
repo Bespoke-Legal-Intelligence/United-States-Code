@@ -1,6 +1,6 @@
 ### §2674. Liability of United States
 
-The United States shall be liable, respecting the provisions of this title relating to tortclaims, in the same manner and to the same extent as a private individual under like circumstances, but shall not be liable for interest prior to judgment or for punitive damages.
+The United States shall be liable, respecting the provisions of this title relating to tort claims, in the same manner and to the same extent as a private individual under like circumstances, but shall not be liable for interest prior to judgment or for punitive damages.
 
 If, however, in any case wherein death was caused, the law of the place where the act or omission complained of occurred provides, or has been construed to provide, for damages only punitive in nature, the United States shall be liable for actual or compensatory damages, measured by the pecuniary injuries resulting from such death to the persons respectively, for whose benefit the action was brought, in lieu thereof.
 
@@ -8,7 +8,7 @@ With respect to any claim under this chapter, the United States shall be entitle
 
 With respect to any claim to which this section applies, the Tennessee Valley Authority shall be entitled to assert any defense which otherwise would have been available to the employee based upon judicial or legislative immunity, which otherwise would have been available to the employee of the Tennessee Valley Authority whose act or omission gave rise to the claim as well as any other defenses to which the Tennessee Valley Authority is entitled under this chapter.
 
-(June 25, 1948, ch. 646, 62 Stat. 983; Nov. 18, 1988, Pub. L. 100–694, §§4, 9(c), 102 Stat. 4564, 4567.)
+(June 25, 1948, ch. 646, 62 Stat. 983; Pub. L. 100–694, §§4, 9(c), Nov. 18, 1988, 102 Stat. 4564, 4567.)
 
 #### Historical and Revision Notes
 
@@ -26,7 +26,7 @@ For Senate amendment to this section, see 80th Congress Senate Report No. 1559, 
 
 #### Amendments
 
-1988—Pub. L. 100–694 inserted two pars. at end entitling the United States and the Tennessee Valley Authority to assert any defense based upon judicial or legislative immunity.
+<b>1988</b>—Pub. L. 100–694 inserted two pars. at end entitling the United States and the Tennessee Valley Authority to assert any defense based upon judicial or legislative immunity.
 
 #### Effective Date of 1988 Amendment
 
@@ -38,5 +38,5 @@ Interest on judgments, computation, see section 2411 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 8477.
+This section is referred to in title 5 section 8477; title 8 section 1357.
 

@@ -6,7 +6,7 @@ Reasonableness.—A rate, classification, rule, or practice related to transport
 
 (b)
 
-Nondiscrimination.—A pipeline carrier providing transportation subject to this partmay not discriminate in its rates against a connecting line of any other pipeline, rail, or water carrier providing transportation subject to this subtitle or unreasonably discriminate against that line in the distribution of traffic that is not routed specifically by the shipper.
+Nondiscrimination.—A pipeline carrier providing transportation subject to this part may not discriminate in its rates against a connecting line of any other pipeline, rail, or water carrier providing transportation subject to this subtitle or unreasonably discriminate against that line in the distribution of traffic that is not routed specifically by the shipper.
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 923.)
 

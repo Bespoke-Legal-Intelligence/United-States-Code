@@ -20,7 +20,7 @@
 
 &emsp;(5) such other information as the committees consider necessary.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Nov. 14, 1975, Pub. L. 94–131, §4, 89 Stat. 690; Dec. 12, 1980, Pub. L. 96–517, §3, 94 Stat. 3018; Aug. 27, 1982, Pub. L. 97–247, §3(g), 96 Stat. 319; Sept. 13, 1982, Pub. L. 97–258, §3(i), 96 Stat. 1065; Dec. 10, 1991, Pub. L. 102–204, §§4, 5(e), 105 Stat. 1637, 1640.)
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 94–131, §4, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §3, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, §3(g), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–258, §3(i), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 102–204, §§4, 5(e), Dec. 10, 1991, 105 Stat. 1637, 1640.)
 
 #### Historical and Revision Notes
 

@@ -124,7 +124,7 @@ In general.—In conducting the program under this section, the Secretary may ma
 
 &emsp;“(2)
 
-Use of grants.—A grant received by a State under this subsection may be used by the State only for awarding contracts for engineering and designservices to carry out projects and activities for which Federal funds may be obligated under title 23, United States Code.
+Use of grants.—A grant received by a State under this subsection may be used by the State only for awarding contracts for engineering and design services to carry out projects and activities for which Federal funds may be obligated under title 23, United States Code.
 
 &emsp;“(3)
 
@@ -136,7 +136,7 @@ Report by FHWA.—Not later than 120 days after the date of the enactment of thi
 
 “(d)
 
-Report to Congress.—Not later than 2 years after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall transmit to Congress a report on implementation of the program established under this section.
+Report to Congress.—Not later than 2 years after the date of the enactment of this Act \[Dec. 18,1991\], the Secretary shall transmit to Congress a report on implementation of the program established under this section.
 
 “(e)
 

@@ -1,6 +1,6 @@
 ### §987. Lands to be certified to State within one year
 
-It shall be the duty of the Commissioner of the General Land Office, to certify over to the State of California as swamp and overflowed lands, all the lands represented as such upon the approvedtownship surveys and plats, whether made before or after the 23d day of July 1866, under the authority of the United States.
+It shall be the duty of the Commissioner of the General Land Office, to certify over to the State of California as swamp and overflowed lands, all the lands represented as such upon the approved township surveys and plats, whether made before or after the 23d day of July 1866, under the authority of the United States.
 
 The Supervisor of Surveys shall under the direction of the Commissioner of the General Land Office, examine the segregation maps and surveys of the swamp and overflowed lands, made by said State; and where he shall find them to conform to the system of surveys adopted by the United States, he shall construct and approve township plats accordingly, and forward to the General Land Office for approval.
 

@@ -28,7 +28,7 @@ Section 201 of the Juvenile Justice and Delinquency Prevention Act of 1974, refe
 
 #### Termination Date
 
-Section 5 of Pub. L. 99–87, as amended by Pub. L. 100–202, §101(m) \[title VI, §627(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, §1(2), Oct. 24, 1992, 106 Stat. 3371, provided that: “The amendments made by section 1 \[enacting this section and amending sections 3201 and 3204 of this title and section 733 of Title 44, Public Printing and Documents\] and any guidelines, rules, or regulations prescribed to carry out such amendments shall cease to be effective after December 31, 1997.”
+Section 5 of Pub. L. 99–87, as amended by Pub. L. 100–202, §101(m) \[title VI, §627(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, §1(2), Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, §1(2), Dec. 1, 1997, 111 Stat. 2542, provided that: “The amendments made by section 1 \[enacting this section and amending sections 3201 and 3204 of this title and section 733 of Title 44, Public Printing and Documents\] and any guidelines, rules, or regulations prescribed to carry out such amendments shall cease to be effective after December 31, 2002.”
 
 #### Issuance of Guidelines, Rules, and Regulations
 
@@ -44,11 +44,11 @@ Rules and Regulations.—The regulations described in subsection (a)(2) of secti
 
 #### Reporting Requirements
 
-Section 3 of Pub. L. 99–87, as amended by Pub. L. 100–202, §101(m) \[title VI, §627(b)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, §1(1), Oct. 24, 1992, 106 Stat. 3371, provided that:
+Section 3 of Pub. L. 99–87, as amended by Pub. L. 100–202, §101(m) \[title VI, §627(b)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 102–514, §1(1), Oct. 24, 1992, 106 Stat. 3371; Pub. L. 105–126, §1(1), Dec. 1, 1997, 111 Stat. 2542, provided that:
 
 “(a)
 
-General Requirements.—Not later than June 30, 1997, a written report containing the matter described in subsection (b) shall be prepared by—
+General Requirements.—Not later than June 30, 2002, a written report containing the matter described in subsection (b) shall be prepared by—
 
 &emsp;“(1) the Office of Juvenile Justice and Delinquency Prevention and submitted to the President, the President pro tempore of the Senate, and the Speaker of the House of Representatives;
 

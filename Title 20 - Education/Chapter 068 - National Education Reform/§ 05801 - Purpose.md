@@ -30,7 +30,7 @@ The purpose of this chapter is to provide a framework for meeting the National E
 
 &emsp;&emsp;(E) promoting the use of technology to enable all students to achieve the National Education Goals;
 
-&emsp;(7) stimulating the development and adoption of a voluntary national system of skill standards and certification to serve as a cornerstone of the national strategy to enhance workforce skills; and
+&emsp;(7) stimulating the development and adoption of a voluntary national system of skillstandards and certification to serve as a cornerstone of the national strategy to enhance workforce skills; and
 
 &emsp;(8) assisting every elementary and secondary school that receives funds under this chapter to actively involve parents and families in supporting the academic work of their children at home and in providing parents with skills to advocate for their children at school.
 

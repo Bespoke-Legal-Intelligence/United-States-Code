@@ -184,7 +184,7 @@ Subsec. (j). Pub. L. 96–513, §401(a)(4), struck out subsec. (j) which related
 
 Subsec. (k). Pub. L. 96–513, §401(a)(4), struck out subsec. (k) which related to pay of a woman officer when initially appointed as a rear admiral and while serving as a rear admiral under such appointment or a subsequent appointment.
 
-Pub. L. 96–342 substituted provisions respecting pay when initially appointed as a rear admiral and whileserving as a rear admiral under such appointment or a subsequent appointment for provisions respecting pay while serving under an appointment under section 5767(c) of title 10.
+Pub. L. 96–342 substituted provisions respecting pay when initially appointed as a rear admiral and while serving as a rear admiral under such appointment or a subsequent appointment for provisions respecting pay while serving under an appointment under section 5767(c) of title 10.
 
 Subsec. (<i>l</i>). Pub. L. 96–513, §401(a)(4), struck out subsec. (<i>l</i>) which related to entitlement of an officer of the Navy or Marine Corps serving as Assistant Judge Advocate General of the Navy.
 

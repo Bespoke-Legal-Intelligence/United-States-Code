@@ -2,7 +2,7 @@
 
 #### (a) Diagnosis or treatment by health professional
 
-An owner or operator of a facility which is subject to the requirements of section 11021, 11022, or 11023 of this title shall provide the specific chemical identity, if known, of a hazardous chemical, extremely hazardous substance, or a toxic chemical to any health professional whorequests such information in writing if the health professional provides a written statement of need under this subsection and a written confidentiality agreement under subsection (d) of this section. The written statement of need shall be a statement that the health professional has a reasonable basis to suspect that—
+An owner or operator of a facility which is subject to the requirements of section 11021, 11022, or 11023 of this title shall provide the specific chemical identity, if known, of a hazardous chemical, extremely hazardous substance, or a toxic chemical to any health professional who requests such information in writing if the health professional provides a written statement of need under this subsection and a written confidentiality agreement under subsection (d) of this section. The written statement of need shall be a statement that the health professional has a reasonable basis to suspect that—
 
 &emsp;(1) the information is needed for purposes of diagnosis or treatment of an individual,
 
@@ -28,7 +28,7 @@ An owner or operator of a facility which is subject to the requirements of secti
 
 #### (1) Provision of information
 
-&emsp;An owner or operator of a facility subject to the requirements of section 11021, 11022, or 11023 of this title shall provide the specific chemical identity, if known, of a hazardous chemical, an extremely hazardous substance, or a toxic chemical to any health professional (such as a physician, toxicologist, or epidemiologist)—
+&emsp;An owner or operator of a facility subject to the requirements of section 11021, 11022, or11023 of this title shall provide the specific chemical identity, if known, of a hazardous chemical, an extremely hazardous substance, or a toxic chemical to any health professional (such as a physician, toxicologist, or epidemiologist)—
 
 &emsp;&emsp;(A) who is a local government employee or a person under contract with the local government, and
 

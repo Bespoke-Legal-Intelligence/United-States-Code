@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section, all claims for removal cos
 
 #### (2) Limitation on presenting claim
 
-&emsp;No claim of a person against the Fund may be approved or certified during the pendencyof an action by the person in court to recover costs which are the subject of the claim.
+&emsp;No claim of a person against the Fund may be approved or certified during the pendency of an action by the person in court to recover costs which are the subject of the claim.
 
 #### (c) Election
 

@@ -40,7 +40,7 @@ An appeal may be taken by the permittee or applicant for a permit from any order
 
 No proceeding for the suspension or revocation of a basic permit for violation of any condition thereof relating to compliance with Federal law shall be instituted by the Secretary more than eighteen months after conviction of the violation of Federal law, or, if no conviction has been had, more than three years after the violation occurred; and no basic permit shall be suspended or revoked for a violation of any such condition thereof if the alleged violation of Federal law has been compromised by any officer of the Government authorized to compromise such violation.
 
-(Aug. 29, 1935, ch. 814, title I, §104, formerly §4, 49 Stat. 978; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 28, 1958, Pub. L. 85–791, §14, 72 Stat. 946; renumbered title I, §104, and amended Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), (3), 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, §104, formerly §4, 49 Stat. 978; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §14, Aug. 28, 1958, 72 Stat. 946; renumbered title I, §104, and amended Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), (3), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 #### Codification
 

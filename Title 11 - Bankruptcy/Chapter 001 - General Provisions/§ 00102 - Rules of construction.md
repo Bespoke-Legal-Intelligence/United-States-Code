@@ -24,7 +24,7 @@ In this title—
 
 &emsp;(7) the singular includes the plural;
 
-&emsp;(8) a definition, contained in a section of this title that refers to another section of thistitle, does not, for the purpose of such reference, affect the meaning of a term used in such other section; and
+&emsp;(8) a definition, contained in a section of this title that refers to another section of this title, does not, for the purpose of such reference, affect the meaning of a term used in such other section; and
 
 &emsp;(9) “United States trustee” includes a designee of the United States trustee.
 
@@ -76,5 +76,5 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

@@ -6,7 +6,7 @@ Each United States marshal may employ, with the approval of the judge, not excee
 
 If the position of crier or bailiff is to be filled by the appointment of a person who has not previously served as either crier or bailiff, preference in the appointment shall be given to a person who has served in the military or naval forces of the United States in time of war and who has been honorably discharged therefrom, if in the opinion of the appointing officer such person is as well qualified as any other available person to perform to the satisfaction of the appointing officer all the duties of the position.
 
-(June 25, 1948, ch. 646, 62 Stat. 923; Oct. 21, 1965, Pub. L. 89–281, 79 Stat. 1012; Nov. 18, 1988, Pub. L. 100–690, title VII, §7608(b), 102 Stat. 4515.)
+(June 25, 1948, ch. 646, 62 Stat. 923; Pub. L. 89–281, Oct. 21, 1965, 79 Stat. 1012; Pub. L. 100–690, title VII, §7608(b), Nov. 18, 1988, 102 Stat. 4515.)
 
 #### Historical and Revision Notes
 
@@ -18,9 +18,9 @@ Compensation of criers and other court attendants, except bailiffs under section
 
 #### Amendments
 
-1988—Pub. L. 100–690 struck out third par. which provided each bailiff an allowance of $6 a day for services to be paid only for actual attendance when court was in session or judge or jury was present.
+<b>1988</b>—Pub. L. 100–690 struck out third par. which provided each bailiff an allowance of $6 a day for services to be paid only for actual attendance when court was in session or judge or jury was present.
 
-1965—Pub. L. 89–281 inserted provisions to first par. permitting a crier to perform duties of law clerk if he is qualified to do so and district judge who appointed him designates him to serve as a crier-law clerk, specifying that a crier-law clerk shall receive compensation of a law clerk, and requiring that only so much of that compensation as is in excess of compensation to which he would be entitled as a crier shall be deemed compensation of a law clerk for purposes of any limitation imposed by law upon aggregate salaries of law clerks and secretaries appointed by a district judge.
+<b>1965</b>—Pub. L. 89–281 inserted provisions to first par. permitting a crier to perform duties of law clerk if he is qualified to do so and district judge who appointed him designates him to serve as a crier-law clerk, specifying that a crier-law clerk shall receive compensation of a law clerk, and requiring that only so much of that compensation as is in excess of compensation to which he would be entitled as a crier shall be deemed compensation of a law clerk for purposes of any limitation imposed by law upon aggregate salaries of law clerks and secretaries appointed by a district judge.
 
 #### Cross References
 

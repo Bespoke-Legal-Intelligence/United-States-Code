@@ -80,6 +80,26 @@ A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045;
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
 
+#### Temporary Adjustment of Contribution Levels
+
+Pub. L. 105–33, title VII, §7001(c)(1), (2), Aug. 5, 1997, 111 Stat. 658, provided that:
+
+“(1)
+
+Agency contributions.—Notwithstanding section 211(a)(2) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(2)), during the period beginning on October 1, 1997, through September 30, 2002, the Central Intelligence Agency shall contribute 8.51 percent of the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System in lieu of the agency contribution otherwise required under section 211(a)(2) of such Act.
+
+“(2)
+
+Individual deductions, withholdings, and deposits.—Notwithstanding section 211(a)(1) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(1)) beginning on January 1, 1999, through December 31, 2002, the percentage deducted and withheld from the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System shall be as follows:
+
+&nbsp;
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| &nbsp; | 7\.25 | January 1, 1999, to December 31, 1999. |
+| &nbsp; | 7\.4 | January 1, 2000, to December 31, 2000. |
+| &nbsp; | 7\.5 | January 1, 2001, to December 31, 2002.” |
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2031, 2091, 2111 of this title.

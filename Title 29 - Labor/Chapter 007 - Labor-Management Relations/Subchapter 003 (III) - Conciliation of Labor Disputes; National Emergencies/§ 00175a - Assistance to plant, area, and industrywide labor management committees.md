@@ -26,7 +26,7 @@ The Service shall carry out the provisions of this section through an office est
 
 There are authorized to be appropriated to carry out the provisions of this section $10,000,000 for the fiscal year 1979, and such sums as may be necessary thereafter.
 
-(June 23, 1947, ch. 120, title II, §205A, as added Oct. 27, 1978, Pub. L. 95–524, §6(c)(2), 92 Stat. 2020.)
+(June 23, 1947, ch. 120, title II, §205A, as added Pub. L. 95–524, §6(c)(2), Oct. 27, 1978, 92 Stat. 2020.)
 
 #### Short Title
 

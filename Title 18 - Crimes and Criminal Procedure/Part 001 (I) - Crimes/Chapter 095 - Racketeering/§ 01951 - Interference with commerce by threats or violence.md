@@ -4,7 +4,7 @@
 
 (b) As used in this section—
 
-&emsp;(1) The term “robbery” means the unlawful taking or obtaining of personal property from the person or in the presence of another, against his will, by means of actual or threatened force, or violence, or fear of injury, immediate or future, to his person or property, or property in his custody or possession, or the person or property of a relative or member of his family or of anyone in his company at the time of the taking or obtaining.
+&emsp;(1) The term “robbery” means the unlawful taking or obtaining of personal property from the person or in the presence of another, against his will, by means of actual or threatened force, or violence, or fear of injury, immediate or future, to his person or property, or property in his custody or possession, or theperson or property of a relative or member of his family or of anyone in his company at the time of the taking or obtaining.
 
 &emsp;(2) The term “extortion” means the obtaining of property from another, with his consent, induced by wrongful use of actual or threatened force, violence, or fear, or under color of official right.
 

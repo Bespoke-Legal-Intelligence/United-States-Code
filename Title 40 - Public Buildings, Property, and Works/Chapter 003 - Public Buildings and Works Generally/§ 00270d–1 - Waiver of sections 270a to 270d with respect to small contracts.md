@@ -2,7 +2,7 @@
 
 Sections 270a to 270d of this title do not apply to a contract in an amount that is not greater than $100,000.
 
-(Aug. 24, 1935, ch. 642, §5, as added Oct. 13, 1994, Pub. L. 103–355, title IV, §4104(b)(1)(A), 108 Stat. 3341.)
+(Aug. 24, 1935, ch. 642, §5, as added Pub. L. 103–355, title IV, §4104(b)(1)(A), Oct. 13, 1994, 108 Stat. 3341.)
 
 #### Prior Provisions
 

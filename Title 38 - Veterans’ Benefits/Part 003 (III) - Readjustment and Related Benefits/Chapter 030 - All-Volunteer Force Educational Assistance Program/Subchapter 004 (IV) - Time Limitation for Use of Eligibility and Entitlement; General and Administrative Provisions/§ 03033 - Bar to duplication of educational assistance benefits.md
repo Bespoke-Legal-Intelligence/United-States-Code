@@ -18,7 +18,7 @@ Subsec. (b). Pub. L. 102–16 substituted “chapter 109 of title 10” for “s
 
 1989—Subsecs. (a)(1), (c). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (a)(1). Pub. L. 99–576, §306(a), substituted “chapter 31, 32, or 35 of this title, under chapter 106 or 107 of title 10, or under the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may notreceive assistance under two or more of such programs” for “chapter 31, 34, or 35 of this title or under chapter 106 or 107 of title 10 may not receive assistance under both programs”.
+1986—Subsec. (a)(1). Pub. L. 99–576, §306(a), substituted “chapter 31, 32, or 35 of this title, under chapter 106 or 107 of title 10, or under the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receive assistance under two or more of such programs” for “chapter 31, 34, or 35 of this title or under chapter 106 or 107 of title 10 may not receive assistance under both programs”.
 
 Subsec. (c). Pub. L. 99–576, §306(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An individual who is entitled to educational assistance under chapter 106 of title 10 may not also receive educational assistance under this chapter based on entitlement under section 1412 of this title.”
 

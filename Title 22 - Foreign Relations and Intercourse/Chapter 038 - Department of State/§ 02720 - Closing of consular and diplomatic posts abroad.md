@@ -4,7 +4,7 @@
 
 Except as provided under subsection (d) of this section or in accordance with the procedures under subsections (b) and (c) of this section—
 
-&emsp;(1) no funds authorized to be appropriated to the Department of State shall be available to pay any expense related to the closing of any United States consular or diplomatic post abroad; and
+&emsp;(1) no funds authorized to be appropriated to the Department of State shall be available topay any expense related to the closing of any United States consular or diplomatic post abroad; and
 
 &emsp;(2) no funds authorized to be appropriated to the Department of State may be used to pay for any expense related to the Bureau of Administration of the Department of State (or to carrying out any of its functions) if any United States consular or diplomatic post is closed.
 
@@ -28,7 +28,7 @@ The provisions of this section do not apply with respect to—
 
 As used in this section, the term “consular or diplomatic post” does not include a post to which only personnel of agencies other than the Department of State are assigned.
 
-(Aug. 1, 1956, ch. 841, title I, §48, as added Oct. 28, 1991, Pub. L. 102–138, title I, §112(a)(1), 105 Stat. 654.)
+(Aug. 1, 1956, ch. 841, title I, §48, as added Pub. L. 102–138, title I, §112(a)(1), Oct. 28, 1991, 105 Stat. 654.)
 
 #### Prior Provisions
 

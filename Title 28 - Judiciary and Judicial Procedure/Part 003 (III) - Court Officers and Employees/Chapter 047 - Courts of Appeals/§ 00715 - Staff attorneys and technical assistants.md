@@ -6,7 +6,7 @@
 
 (c) The chief judge of the Court of Appeals for the Federal Circuit, with the approval of the court, may appoint a senior technical assistant who shall be subject to removal by the chief judge with the approval of the court.
 
-(d) The senior technical assistant, with the approval of the court, may appoint necessary technical assistants in such number as the Director of the Administrative Office of the United States Courts may approve, but in no event maythe number of technical assistants in the Court of Appeals for the Federal Circuit exceed the number of circuit judges in regular active service within such circuit. The senior technical assistant may remove such technical assistants with the approval of the court.
+(d) The senior technical assistant, with the approval of the court, may appoint necessary technical assistants in such number as the Director of the Administrative Office of the United States Courts may approve, but in no event may the number of technical assistants in the Court of Appeals for the Federal Circuit exceed the number of circuit judges in regular active service within such circuit. The senior technical assistant may remove such technical assistants with the approval of the court.
 
 (Added Pub. L. 97–164, title I, §120(c)(1), Apr. 2, 1982, 96 Stat. 34.)
 

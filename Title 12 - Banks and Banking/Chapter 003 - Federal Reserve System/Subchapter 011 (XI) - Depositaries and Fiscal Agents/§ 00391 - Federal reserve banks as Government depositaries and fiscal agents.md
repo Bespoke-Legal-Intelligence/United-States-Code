@@ -1,0 +1,28 @@
+### §391. Federal reserve banks as Government depositaries and fiscal agents
+
+The moneys held in the general fund of the Treasury, except the 5 per centum fund for the redemption of outstanding national-bank notes may, upon the direction of the Secretary of the Treasury, be deposited in Federal reserve banks, which banks, when required by the Secretary of the Treasury, shall act as fiscal agents of the United States; and the revenues of the Government or any part thereof may be deposited in such banks, and disbursements may be made by checks drawn against such deposits.
+
+(Dec. 23, 1913, ch. 6, §15 (par.), 38 Stat. 265; Pub. L. 90–269, §2, Mar. 18, 1968, 82 Stat. 50.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+
+#### Codification
+
+Section is comprised of first par. of section 15 of act Dec. 23, 1913. Par. 2 of section 15 and par. 3 of section 15, as added Mar. 4, 1923, ch. 252, title IV, §406, 42 Stat. 1480, are classified to sections 392 and 393, respectively, of this title.
+
+#### Amendments
+
+1968—Pub. L. 90–269 struck out provision which excepted funds provided in this chapter for the redemption of Federal Reserve notes from deposit in Federal reserve banks.
+
+#### Cross References
+
+Inter-American Development Bank, see section 283d of Title 22, Foreign Relations and Intercourse.
+
+International Finance Corporation, see section 282d of Title 22.
+
+International Monetary Fund and Bank for Reconstruction and Rehabilitation, see section 286d of Title 22.
+
+Reimbursement for expenses incident to acting as depositaries and fiscal agents, see section 3302 of Title 31, Money and Finance.
+

@@ -1,6 +1,6 @@
 ### §2673. Reports to Congress
 
-The head of each federal agency shall report annually to Congress all claims paid by it under section 2672 of this title, stating the name of each claimant, the amount claimed, the amount awarded, and a brief description of the claim.
+The head of each federal agency shall report annually to Congress all claims paid by it under section 2672 of this title, stating the name ofeach claimant, the amount claimed, the amount awarded, and a brief description of the claim.
 
 (June 25, 1948, ch. 646, 62 Stat. 983.)
 
@@ -16,5 +16,5 @@ Changes were made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 8477.
+This section is referred to in title 5 section 8477; title 8 section 1357.
 

@@ -12,7 +12,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (1) Civil penalties
 
-&emsp;A person who willfully violates a provision of any order or regulation issued by the Secretary under this chapter, or who fails or refuses to pay, collect, or remit any assessment or fee duly required of the person under such order or regulation, may be assessed a civil penalty by the Secretary of not less than $500 nor more than $5,000 for each such violation. Each violation shall be a separate offense.
+&emsp;A person who willfully violates a provision of any order or regulation issued by the Secretary under this chapter, or who fails or refuses to pay, collect, or remit any assessment or fee duly required of the person under such order or regulation, may be assessed a civil penalty by the Secretary of not less than $500nor more than $5,000 for each such violation. Each violation shall be a separate offense.
 
 #### (2) Cease-and-desist orders
 

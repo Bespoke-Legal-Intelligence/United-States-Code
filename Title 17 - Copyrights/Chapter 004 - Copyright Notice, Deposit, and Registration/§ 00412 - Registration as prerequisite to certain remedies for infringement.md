@@ -24,7 +24,7 @@ In providing that statutory damages and attorney's fees are not recoverable for 
 
 #### Amendments
 
-1990—Pub. L. 101–650 inserted “an action brought for a violation of the rights of the author under section106A(a) or” after “other than” in introductory provisions.
+1990—Pub. L. 101–650 inserted “an action brought for a violation of the rights of the author under section 106A(a) or” after “other than” in introductory provisions.
 
 #### Effective Date of 1990 Amendment
 

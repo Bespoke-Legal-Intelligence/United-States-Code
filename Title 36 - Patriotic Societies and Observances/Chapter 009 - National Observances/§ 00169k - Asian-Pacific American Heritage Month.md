@@ -26,7 +26,7 @@ Section 1 of Pub. L. 102–450 provided that: “The Congress finds that—
 
 &emsp;“(2) on May 10, 1869, Golden Spike Day, the first transcontinental railroad in the United States was completed with significant contributions from Chinese pioneers;
 
-&emsp;“(3) in 1979, at Congress’ direction, the President proclaimed the week beginning on May 4, 1979, asAsian/Pacific American Heritage Week, providing an opportunity for the people of the United States to recognize the history, concerns, contributions, and achievements of Asian and Pacific Americans;
+&emsp;“(3) in 1979, at Congress’ direction, the President proclaimed the week beginning on May 4, 1979, as Asian/Pacific American Heritage Week, providing an opportunity for the people of the United States to recognize the history, concerns, contributions, and achievements of Asian and Pacific Americans;
 
 &emsp;“(4) in 1990, 1991 and 1992, Congress designated and the President proclaimed the month of May as Asian/Pacific American Heritage Month;
 

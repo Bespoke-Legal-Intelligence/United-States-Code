@@ -72,7 +72,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (1) Deposits
 
-&emsp;Amounts received by the Director from assessments under this section (other than anassessment under subsection (d)(2) of this section) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
+&emsp;Amounts received by the Director from assessments under this section (other than an assessment under subsection (d)(2) of this section) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
 
 #### (2) Assessments are not Government funds
 
@@ -98,7 +98,7 @@ The Director is authorized to impose fees and assessments pursuant to subsection
 
 The Director is authorized to use the combined resources retained through fees and assessments imposed pursuant to this section to pay all direct and indirect salary and administrative expenses of the Office, including contracts and purchases of property and services, and the direct and indirect expenses of the examinations and supervisory activities of the Office.
 
-(June 13, 1933, ch. 64, §9, as added Aug. 10, 1987, Pub. L. 100–86, title IV, §402(a), 101 Stat. 605; amended Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 316; Dec. 19, 1991, Pub. L. 102–242, title I, §114(c), 105 Stat. 2248.)
+(June 13, 1933, ch. 64, §9, as added Pub. L. 100–86, title IV, §402(a), Aug. 10, 1987, 101 Stat. 605; amended Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 316; Pub. L. 102–242, title I, §114(c), Dec. 19, 1991, 105 Stat. 2248.)
 
 #### Prior Provisions
 

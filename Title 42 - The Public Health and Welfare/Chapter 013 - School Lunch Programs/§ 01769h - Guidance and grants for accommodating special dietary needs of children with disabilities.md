@@ -42,7 +42,7 @@ As used in this section:
 
 #### (4) Revision of guidance
 
-&emsp;The Secretary, in consultation with the Attorney General and the Secretary of Education, shall periodically update and approvethe guidances to reflect new scientific information and comments and suggestions from persons carrying out covered programs, recognized medical authorities, parents, and other persons.
+&emsp;The Secretary, in consultation with the Attorney General and the Secretary of Education, shall periodically update and approve the guidances to reflect new scientific information and comments and suggestions from persons carrying out covered programs, recognized medical authorities, parents, and other persons.
 
 #### (c) Grants
 

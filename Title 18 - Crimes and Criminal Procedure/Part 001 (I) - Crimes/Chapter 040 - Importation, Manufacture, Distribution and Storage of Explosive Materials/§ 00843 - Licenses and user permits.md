@@ -2,7 +2,7 @@
 
 (a) An application for a user permit or a license to import, manufacture, or deal in explosive materials shall be in such form and contain such information as the Secretary shall by regulation prescribe. Each applicant for a license or permit shall pay a fee to be charged as set by the Secretary, said fee not to exceed $200 for each license or permit. Each license or permit shall be valid for no longer than three years from date of issuance and shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit and upon payment of a renewal fee not to exceed one-half of the original fee.
 
-(b) Upon the filing of a proper application and payment of the prescribed fee, and subject to the provisions of this chapter and other applicable laws, the Secretary shall issue to such applicant the appropriate license or permit if—
+(b) Upon the filing of a proper application and payment of the prescribed fee, and subject to theprovisions of this chapter and other applicable laws, the Secretary shall issue to such applicant the appropriate license or permit if—
 
 &emsp;(1) the applicant (including in the case of a corporation, partnership, or association, any individual possessing, directly or indirectly, the power to direct or cause the direction of the management and policies of the corporation, partnership, or association) is not a person to whom the distribution of explosive materials would be unlawful under section 842(d) of this chapter;
 

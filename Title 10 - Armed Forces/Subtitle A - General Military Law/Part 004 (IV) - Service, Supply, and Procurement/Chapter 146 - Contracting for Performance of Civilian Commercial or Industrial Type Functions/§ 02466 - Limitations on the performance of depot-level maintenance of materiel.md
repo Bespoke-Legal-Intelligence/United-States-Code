@@ -2,7 +2,7 @@
 
 (a)
 
-Percentage Limitation.—Not more than 40 percent of the funds made available in a fiscal year to a military department or a Defense Agency for depot-level maintenance and repair workload may be used to contract for the performance by non-Federal Government personnel of such workload for the military department or the Defense Agency. Any such funds that are not used for such a contract shall be used for the performance of depot-level maintenance and repair workload by employees of the Department of Defense.
+Percentage Limitation.—Not more than 50 percent of the funds made available in a fiscal year to a military department or a Defense Agency for depot-level maintenance and repair workload may be used to contract for the performance by non-Federal Government personnel of such workload for the military department or the Defense Agency. Any such funds that are not used for such a contract shall be used for the performance of depot-level maintenance and repair workload by employees of the Department of Defense.
 
 \[(b) Renumbered §2472(a)\]
 
@@ -16,17 +16,23 @@ Exception.—Subsection (a) shall not apply with respect to the Sacramento Army 
 
 (e)
 
-Report.—Not later than January 15, 1995, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of funds referred to in subsection (a) that was used during fiscal year 1994 to contract for the performance by non-Federal Government personnel of depot-level maintenance and repair workload.
+Report.—(1) Not later than February 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of the funds referred to in subsection (a) that were expended during the preceding fiscalyear for performance of depot-level maintenance and repair workloads by the public and private sectors as required by section 2466 of this title.
 
-(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §312(b), Feb. 10, 1996, 110 Stat. 250.)
+(2) Not later than 90 days after the date on which the Secretary submits the annual report under paragraph (1), the Comptroller General shall submit to Congress the Comptroller General's views on whether the Department of Defense has complied with the requirements of subsection (a) for the fiscal year covered by the report.
 
-#### Repeal of Section
-
-<i>For contingent effective date of repeal of this section by section 311(f)(1) of Pub. L. 104–106, see section 311(f)(3) of Pub. L. 104–106, set out in a Policy Regarding Performance of Depot-Level Maintenance and Repair for Department of Defense note under section 2464 of this title.</i>
+(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702.)
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106, §312(b), redesignated subsec. (b) as section 2472(a) of this title.
+1997—Pub. L. 105–85, §363, repealed Pub. L. 104–106, §311(f)(1). See 1996 Amendment note below.
+
+Subsec. (a). Pub. L. 105–85, §357, substituted “50 percent” for “40 percent”.
+
+Subsec. (e). Pub. L. 105–85, §358, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than January 15, 1995, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of funds referred to in subsection (a) that was used during fiscal year 1994 to contract for the performance by non-Federal Government personnel of depot-level maintenance and repair workload.”
+
+1996—Pub. L. 104–106, §311(f)(1), which directed repeal of this section, was repealed by Pub. L. 105–85, §363.
+
+Subsec. (b). Pub. L. 104–106, §312(b), redesignated subsec. (b) as section 2472(a) of this title.
 
 1994—Subsec. (a). Pub. L. 103–337, §332(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows:
 
@@ -98,7 +104,7 @@ Conditions.—The Secretary shall ensure that activities conducted under this se
 
 #### Continuation of Percentage Limitations on Performance of Depot-Level Maintenance
 
-Pub. L. 103–160, div. A, title III, §343, Nov. 30, 1993, 107 Stat. 1624, provided that: “The Secretary of Defenseshall ensure that the percentage limitations applicable to the depot-level maintenance workload performed by non-Federal Government personnel set forth in section 2466 of title 10, United States Code, are adhered to.”
+Pub. L. 103–160, div. A, title III, §343, Nov. 30, 1993, 107 Stat. 1624, provided that: “The Secretary of Defense shall ensure that the percentage limitations applicable to the depot-level maintenance workload performed by non-Federal Government personnel set forth in section 2466 of title 10, United States Code, are adhered to.”
 
 #### Effect of 1992 Amendments on Existing Contracts
 

@@ -2,7 +2,7 @@
 
 There is hereby created, subject to the direction and supervision of the Secretary of Transportation, a body corporate to be known as the Saint Lawrence Seaway Development Corporation (hereinafter referred to as the “Corporation”).
 
-(May 13, 1954, ch. 201, §1, 68 Stat. 93; Oct. 15, 1966, Pub. L. 89–670, §8(g)(1), 80 Stat. 943.)
+(May 13, 1954, ch. 201, §1, 68 Stat. 93; Pub. L. 89–670, §8(g)(1), Oct. 15, 1966, 80 Stat. 943.)
 
 #### Amendments
 

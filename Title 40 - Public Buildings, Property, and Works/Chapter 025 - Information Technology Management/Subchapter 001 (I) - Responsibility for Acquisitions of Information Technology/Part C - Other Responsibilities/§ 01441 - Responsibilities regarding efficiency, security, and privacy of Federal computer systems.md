@@ -30,7 +30,7 @@ Section is comprised of section 5131 of Pub. L. 104–106. Subsec. (e) of sectio
 
 #### Computer Security
 
-Pub. L. 100–235, §§1, 2, 5–8, Jan. 8, 1988, 101 Stat. 1724, 1729, as amended by Pub. L. 104–106, div. E, title LVI,§5607(b), Feb. 10, 1996, 110 Stat. 701; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that:
+Pub. L. 100–235, §§1, 2, 5–8, Jan. 8, 1988, 101 Stat. 1724, 1729, as amended by Pub. L. 104–106, div. E, title LVI, §5607(b), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(4), Nov. 18, 1997, 111 Stat. 1907, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -84,7 +84,7 @@ Identification of Systems That Contain Sensitive Information.—Within 6 months 
 
 “(b)
 
-Security Plan.—Each such agency shall, consistent with the standards, guidelines, policies, and regulations prescribed pursuant to section 5131 of the Clinger-Cohen Act of 1996 \[40 U.S.C. 1441\], establish a plan for the security and privacy of each Federal computer system identified by that agency pursuant to subsection (a) that is commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of the information contained in such system. Such plan shall be subject to disapproval by the Director of the Office of Management and Budget. Such plan shall be revised annually as necessary.
+Security Plan.—Each such agency shall, consistent with the standards, guidelines, policies, and regulations prescribed pursuant to section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441), establish a plan for the security and privacy of each Federal computer system identified by that agency pursuant to subsection (a) that is commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of the information contained in such system. Such plan shall be subject to disapproval by the Director of the Office of Management and Budget. Such plan shall be revised annually as necessary.
 
 #### “SEC. 7. DEFINITIONS.
 
@@ -106,5 +106,5 @@ Security Plan.—Each such agency shall, consistent with the standards, guidelin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1412 of this title; title 15 section 278g–3.
+This section is referred to in section 1412 of this title; title 15 section 278g–3; title 44 sections 3504, 3518.
 

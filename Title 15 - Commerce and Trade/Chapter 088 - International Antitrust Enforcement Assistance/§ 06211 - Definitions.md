@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 &emsp;(1) The term “antitrust evidence” means information, testimony, statements, documents, or other things that are obtained in anticipation of, or during the course of, an investigation or proceeding under any of the Federal antitrust laws or any of the foreign antitrust laws.
 
-&emsp;(2) The term “antitrust mutual assistance agreement” means a written agreement, or written memorandum of understanding, that is entered into by the United States and a foreign state or regional economic integration organization (with respect to the foreign antitrust authorities of such foreign state or such organization, and such other governmental entities of such foreign state or such organization as the Attorney General and the Commission jointly determine may be necessary in order to provide the assistance described in subparagraph (A)), or jointly by the Attorney General and the Commission and a foreign antitrust authority, for the purpose of conducting investigations under section 6202 of this title, applying for orders under section 6203 of this title, or providing antitrust evidence, on a reciprocal basis and that includes the following:
+&emsp;(2) The term “antitrust mutual assistance agreement” means a written agreement, or written memorandum of understanding, that is entered into by the United States and a foreign state or regional economic integration organization (with respect to the foreign antitrust authorities of such foreign state or such organization, and such other governmental entities of such foreign state or such organization as the Attorney General and the Commission jointly determine may be necessary in order to provide the assistance described in subparagraph (A)), or jointly by the Attorney General and the Commission and a foreignantitrust authority, for the purpose of conducting investigations under section 6202 of this title, applying for orders under section 6203 of this title, or providing antitrust evidence, on a reciprocal basis and that includes the following:
 
 &emsp;&emsp;(A) An assurance that the foreign antitrust authority will provide to the Attorney General and the Commission assistance that is comparable in scope to the assistance the Attorney General and the Commission provide under such agreement or such memorandum.
 
@@ -52,7 +52,7 @@ For purposes of this chapter:
 
 &emsp;(8) The term “person” has the meaning given such term in subsection (a) of section 12 of this title.
 
-&emsp;(9) The term “regional economic integration organization” means an organization that is constituted by, and composed of, foreign states, and on which such foreign states have conferred sovereign authority to make decisions that are binding on such foreign states, and that are directly applicable to and binding on persons within such foreign states, including the decisions with respect to—
+&emsp;(9) The term “regional economic integration organization” means an organization that isconstituted by, and composed of, foreign states, and on which such foreign states have conferred sovereign authority to make decisions that are binding on such foreign states, and that are directly applicable to and binding on persons within such foreign states, including the decisions with respect to—
 
 &emsp;&emsp;(A) administering or enforcing the foreign antitrust laws of such organization, and
 

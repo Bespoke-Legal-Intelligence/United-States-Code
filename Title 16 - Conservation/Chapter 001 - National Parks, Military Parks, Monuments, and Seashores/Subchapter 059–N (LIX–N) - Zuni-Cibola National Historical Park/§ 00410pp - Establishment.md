@@ -16,7 +16,7 @@ This section shall terminate and shall be ineffective 6 years after October 31, 
 
 #### Termination of Section
 
-<i>Section terminated pursuant to subsection (c), and park was not established, because a lease</i><i>hold agreement with the Zuni Tribe was not reached within the mandated time period.</i>
+<i>Section terminated pursuant to subsection (c), and park was not established, because a leasehold agreement with the Zuni Tribe was not reached within the mandated time period.</i>
 
 #### References in Text
 

@@ -82,19 +82,19 @@ The district courts of the United States shall have jurisdiction, for cause show
 
 The Solicitor of Labor may appear for and represent the Secretary on any litigation brought under this section.
 
-(Pub. L. 103–3, title I, §107, Feb. 5, 1993, 107 Stat. 15; Pub. L. 104–1, title II, §202(c)(1)(B), Jan. 23, 1995, 109 Stat. 9.)
-
-#### Enactment of Subsection (f)
-
-<i>Pub. L. 104–1, title II, §202(c)(1)(B), (e)(2), Jan. 23, 1995, 109 Stat. 9, 10, provided that, effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, this section is amended by adding at the end the following:</i>
-
 #### (f) General Accounting Office and Library of Congress
 
 In the case of the General Accounting Office and the Library of Congress, the authority of the Secretary of Labor under this subchapter shall be exercised respectively by the Comptroller General of the United States and the Librarian of Congress.
 
+(Pub. L. 103–3, title I, §107, Feb. 5, 1993, 107 Stat. 15; Pub. L. 104–1, title II, §202(c)(1)(B), Jan. 23, 1995, 109 Stat. 9.)
+
+#### Amendments
+
+1995—Subsec. (f). Pub. L. 104–1 added subsec. (f).
+
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2.
+Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Junk Yard and Salvage Yard Operators.—(1) Beginning at a time established by the Attorney General that is not sooner than the 3d month before the establishment or designation of the National Automobile <sup>1</sup> Title Information System under section 30502 of this title, an individual or entity engaged in the business of operating a junk yard or salvage yard shall file a monthly report with the operator of the System. The report shall contain an inventory of all junk automobiles or salvage automobiles obtained by the junk yard or salvage yard during the prior month. The inventory shall contain—
+Junk Yard and Salvage Yard Operators.—(1) Beginning at a time established by the Attorney General that is not sooner than the 3d month before the establishment or designation of the National Motor Vehicle Title Information System under section 30502 of this title, an individual or entity engaged in the business of operating a junk yard or salvage yard shall file a monthly report with the operator of the System. The report shall contain an inventory of all junk automobiles or salvage automobiles obtained by the junk yard or salvage yard during the prior month. The inventory shall contain—
 
 &emsp;(A) the vehicle identification number of each automobile obtained;
 
@@ -34,7 +34,7 @@ Insurance Carriers.—Beginning at a time established by the Attorney General th
 
 Procedures and Practices.—The Attorney General shall establish by regulation procedures and practices to facilitate reporting in the least burdensome and costly fashion.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 982; Pub. L. 104–152, §3(a), July 2, 1996, 110 Stat. 1384.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 982; Pub. L. 104–152, §§2(c), 3(a), July 2, 1996, 110 Stat. 1384; Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215.)
 
 Historical and Revision Notes
 
@@ -68,11 +68,21 @@ In subsections (b), before clause (1), the words “Beginning at a time establis
 
 #### Amendments
 
-1996—Subsecs. (a)(1), (b), (c). Pub. L. 104–152 substituted “Attorney General” for “Secretary of Transportation” in subsec. (a)(1), and for “Secretary” in subsecs. (b) and (c).
+1997—Subsec. (a)(1). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
+
+1996—Subsec. (a)(1). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary of Transportation”.
+
+Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
+
+Subsecs. (b), (c). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary”.
+
+#### Effective Date of 1997 Amendment
+
+Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(b) is effective July 2, 1996.
+
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 30502 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Motor Vehicle”.</i>
 

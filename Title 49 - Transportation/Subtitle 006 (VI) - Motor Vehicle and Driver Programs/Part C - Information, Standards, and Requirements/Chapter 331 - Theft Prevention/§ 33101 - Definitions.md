@@ -54,7 +54,7 @@ In this chapter—
 
 &emsp;(10) “passenger motor vehicle” includes a multipurpose passenger vehicle or light duty truck when that vehicle or truck is rated at not more than 6,000 pounds gross vehicle weight.
 
-&emsp;(11) “vehicle theft prevention standard” means a minimum performance standard foridentifying major parts of new motor vehicles and major replacement parts by inscribing or affixing numbers or symbols on those parts.
+&emsp;(11) “vehicle theft prevention standard” means a minimum performance standard for identifying major parts of new motor vehicles and major replacement parts by inscribing or affixing numbers or symbols on those parts.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1076; Pub. L. 103–429, §6(44), Oct. 31, 1994, 108 Stat. 4383; Pub. L. 104–287, §6(d)(1)(B), Oct. 11, 1996, 110 Stat. 3399.)
 

@@ -176,7 +176,7 @@ Facility Operation Information Standards.—The Secretary shall prescribe minimu
 
 (e)
 
-Pipe Inventory Standards.—The Secretary shall prescribe minimum standards requiring an operator of a pipeline facility subject to this chapter to maintain for the Secretary, to the extent practicable, an inventory with appropriate information about the types of pipe used for the transportation of gas or hazardous liquid, as appropriate, in the operator's system and additional information, including the material's history and the leak history of the pipe. The inventory—
+Pipe Inventory Standards.—The Secretary shall prescribe minimum standards requiring an operator of a pipeline facility subject to this chapter to maintain for the Secretary, to the extent practicable, an inventory with appropriate information about the types of pipe used for the transportation of gas or hazardous liquid, as appropriate, in the operator's system andadditional information, including the material's history and the leak history of the pipe. The inventory—
 
 &emsp;(1) for a gas pipeline facility, shall include an identification of each facility passing through an area described in regulations prescribed under section 60109 of this title but shall exclude equipment used with the compression of gas; and
 
@@ -200,7 +200,7 @@ Periodic inspections.—Not later than October 24, 1995, the Secretary shall pre
 
 (g)
 
-Effective Dates.—A standard prescribed under this section and section 60110 of this title is effective on the 30th day after the Secretary prescribes the standard. However, the Secretary for good cause may prescribe a different effective date when required because of the time reasonably necessary to comply with the standard.The different date must be specified in the regulation prescribing the standard.
+Effective Dates.—A standard prescribed under this section and section 60110 of this title is effective on the 30th day after the Secretary prescribes the standard. However, the Secretary for good cause may prescribe a different effective date when required because of the time reasonably necessary to comply with the standard. The different date must be specified in the regulation prescribing the standard.
 
 (h)
 
@@ -410,7 +410,7 @@ In subsection (c)(2), the word “prescribe” is substituted for “provide” 
 
 In subsection (c)(3), the words “participate in a public safety program meeting the requirements of paragraph (1) of this subsection” are substituted for 49 App.:2002(e)(1) to eliminate unnecessary words.
 
-In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” is omitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
+In subsection (d), before clause (1), the words “Not later than 1 year after October 31, 1988” are omitted as obsolete. The word “prescribe” is substituted for “establish by regulation” for consistency in the revised title and with other titles of the Code. The word “maintain” is substituted for “provide, and revise as necessary” and “completed and maintained” to eliminate unnecessary words. The words “as the case may be” are omitted as surplus. In clause (2), before subclause (A), the words “map or” and “appropriate” are omitted as surplus. In clause (5)(B), the word “government” isomitted as surplus and for consistency in this chapter. In clause (6), the words “and necessary” are omitted as surplus.
 
 In subsections (e) and (f), the word “prescribe” is substituted for “by regulation, establish” for consistency in the revised title and with other titles of the Code.
 

@@ -2,7 +2,7 @@
 
 The position of Deputy Secretary is established in the Department of the Interior with appointment thereto by the President, by and with the advice and consent of the Senate.
 
-(May 9, 1935, ch. 101, §1, 49 Stat. 177; Nov. 5, 1990, Pub. L. 101–509, title V, §529 \[title I, §112(a)(2)\], 104 Stat. 1427, 1454.)
+(May 9, 1935, ch. 101, §1, 49 Stat. 177; Pub. L. 101–509, title V, §529 \[title I, §112(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1454.)
 
 #### Codification
 

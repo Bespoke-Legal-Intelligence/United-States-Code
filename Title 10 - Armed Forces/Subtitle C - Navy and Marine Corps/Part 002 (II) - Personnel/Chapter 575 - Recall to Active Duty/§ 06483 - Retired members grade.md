@@ -1,6 +1,6 @@
 ### §6483. Retired members: grade
 
-An officer who has been advanced on the retired list or in the Retired Reserve under former section 6150 of this title to a grade above captain in the Navy or above colonel in the Marine Corps, when recalled to active duty, may, in the discretion of the Secretary of the Navy, be recalled either in the grade he holds on the retired list or in the Retired Reserve or in the grade from which he was advanced.
+An officer who has been advanced on the retired list or in the Retired Reserve under formersection 6150 of this title to a grade above captain in the Navy or above colonel in the Marine Corps, when recalled to active duty, may, in the discretion of the Secretary of the Navy, be recalled either in the grade he holds on the retired list or in the Retired Reserve or in the grade from which he was advanced.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 417; May 20, 1958, Pub. L. 85–422, §6(5), 72 Stat. 129; Oct. 2, 1963, Pub. L. 88–132, §5(m), 77 Stat. 215; Oct. 22, 1968, Pub. L. 90–623, §2(10), 82 Stat. 1314; Dec. 12, 1980, Pub. L. 96–513, title III, §363, 94 Stat. 2903.)
 

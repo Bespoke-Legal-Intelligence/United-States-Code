@@ -1,6 +1,6 @@
 ### §1718. Therapeutic and rehabilitative activities
 
-(a) In providing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may use the services of patients and members in Department health care facilities for therapeutic and rehabilitative purposes. Such patients and members shall not under these circumstances be held or considered as employees of the United States for any purpose. The Secretary shall prescribe the conditions for the use of such services.
+(a) In providing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may use the services of patients and members inDepartment health care facilities for therapeutic and rehabilitative purposes. Such patients and members shall not under these circumstances be held or considered as employees of the United States for any purpose. The Secretary shall prescribe the conditions for the use of such services.
 
 (b)(1) In furnishing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may enter into a contract or other arrangement with any appropriate source (whether or not an element of the Department of Veterans Affairs or of any other Federal entity) to provide for therapeutic work for patients and members in Department health care facilities.
 
@@ -106,99 +106,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Demonstration Program of Compensated Work Therapy and Therapeutic Transitional Housing
 
-Section 7 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, §103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(b), Feb. 13, 1996, 110 Stat. 769, provided that:
-
-“(a)
-
-Demonstration Program.—During the period beginning on October 1, 1991, and ending on December 31, 1997,, \[sic\] the Secretary of Veterans Affairs may carry out a compensated work therapy and therapeutic transitional housing demonstration program. The demonstration program shall have two components, as follows:
-
-&emsp;“(1) A component, under subsection (c), which provides for direct operation of therapeutic transitional housing in conjunction with the furnishing of compensated work therapy.
-
-&emsp;“(2) A component, under subsection (d), which provides for the contracting with nonprofit corporations to furnish compensated work therapy in conjunction with the operation of the therapeutic transitional housing.
-
-“(b)
-
-Eligible Veterans.—The veterans for whom therapeutic transitional housing may be provided under this section are veterans—
-
-&emsp;“(1) who are furnishing services to the Department of Veterans Affairs under subsection (a) of section 1718 of title 38, United States Code; or
-
-&emsp;“(2) who are furnished therapeutic work pursuant to subsection (b) of that section.
-
-“(c)
-
-Authority to Operate Residences as Therapeutic Transitional Housing.—Under the demonstration program, the Secretary, in connection with the conduct of compensated work therapy programs, may operate residences as therapeutic transitional housing solely for veterans described in subsection (b) of this section. The Secretary may operate no more than 50 residences as therapeutic transitional housing under this subsection.
-
-“(d)
-
-Contract Authority.—(1) Under the demonstration program, the Secretary may contract with nonprofit corporations to conduct compensated work therapy programs under the demonstration program.
-
-“(2) The Secretary may enter into a contract with a nonprofit corporation under the demonstration program only if the corporation provides assurances satisfactory to the Secretary that it will operate therapeutic transitional housing for eligible veterans in conjunction with an existing compensated work therapy program at a medical center. The contract may remain in effect only as long as the corporation operates the therapeutic transitional housing for eligible veterans in connection with the demonstration program.
-
-“(3) A contract with a nonprofit corporation under this subsection may provide for the Secretary to furnish the corporation (with or without consideration) in-kind services, including—
-
-&emsp;“(A) technical and clinical advice;
-
-&emsp;“(B) supervision of the activities of compensated work therapy participants in the rehabilitation of any property for use as therapeutic transitional housing under the contract and for possible later sale as a private residence; and
-
-&emsp;“(C) minor maintenance of and minor repairs to such property.
-
-“(e)
-
-Procurement Procedures.—The Secretary may use such procurement procedures for the purchase, lease, or other acquisition of residential housing for purposes of this section as the Secretary considers appropriate to expedite the opening and operation of transitional housing and to protect the interests of the United States.
-
-“(f)
-
-Conditions.—A residence may be operated as transitional housing for veterans described in subsection (b) under the following conditions:
-
-&emsp;“(1) Only veterans described in such subsection and a house manager may reside in the residence.
-
-&emsp;“(2) Each resident, other than the house manager, shall pay rent for the period of residence in such housing.
-
-&emsp;“(3) In the establishment and operation of housing under this section, the Secretary shall consult with appropriate representatives of the community in which the housing is established and shall comply with zoning requirements, building permit requirements, and other similar requirements applicable to other real property used for similar purposes in the community.
-
-&emsp;“(4) The residence shall meet State and community fire and safety requirements applicable to other real property used for similar purposes in the community in which the transitional housing is located, but fire and safety requirements applicable to buildings of the Federal Government shall not apply to such property.
-
-“(g)
-
-House Managers.—The Secretary shall prescribe the qualifications for house managers for transitional housing units operated under this section. The Secretary may provide for free room and subsistence for house managers in addition to, or instead of payment of, a fee for such services.
-
-“(h)
-
-Sources of Housing.—(1) The Secretary may operate as transitional housing under this section—
-
-&emsp;“(A) any suitable residential property acquired by the Secretary as the result of a default on a loan made, guaranteed, or insured under chapter 37 of title 38, United States Code; and
-
-&emsp;“(B) any other suitable residential property purchased, leased, or otherwise acquired by the Secretary.
-
-“(2) In the case of any property referred to in paragraph (1)(A), the Secretary shall—
-
-&emsp;“(A) transfer administrative jurisdiction over such property within the Department from the Veterans Benefits Administration to the Veterans Health Services and Research Administration; and
-
-&emsp;“(B) transfer from the General Post Fund of the Department of Veterans Affairs to the Loan Guaranty Revolving Fund under chapter 37 of title 38, United States Code, an amount, not to exceed the amount the Secretary paid for the property, representing the amount the Secretary considers could be obtained by sale of such property to a nonprofit organization or a State for use as a shelter for homeless veterans.
-
-“(3) In the case of any residential property obtained by the Secretary from the Department of Housing and Urban Development under this section, the amount paid by the Secretary to that Department for that property may not exceed the amount that the Secretary of Housing and Urban Development would charge for the sale of that property to a nonprofit organization or a State for use as a shelter for homeless persons. Funds for such charge shall be derived from the General Post Fund.
-
-“(i)
-
-Rent and Length of Residence.—The Secretary shall prescribe—
-
-&emsp;“(1) a procedure for establishing reasonable rental rates for persons residing in transitional housing; and
-
-&emsp;“(2) appropriate limits on the period for which such persons may reside in transitional housing.
-
-“(j)
-
-Disposal of Property.—The Secretary may dispose of any property acquired for the purpose of this section. The proceeds of any such disposal shall be credited to the General Post Fund of the Department of Veterans Affairs.
-
-“(k)
-
-Availability of General Post Fund.—Funds received by the Department under this section shall be deposited in the General Post Fund. The Secretary may distribute out of the fund such amounts as necessary for the acquisition, management, maintenance, and disposition of real property for the purpose of carrying out such program. The operation of the demonstration program and funds received shall be separately accounted for, and shall be stated in the documents accompanying the President's budget for each fiscal year.
-
-“(<i>l</i>)
-
-Report.—After a demonstration program under this section has been in effect for two years, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of the program. The Secretary shall include in the report such recommendations with regard to the program as the Secretary considers appropriate.”
-
-\[Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.\]
+Section 7 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, §103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(b), Feb. 13, 1996, 110 Stat. 769, authorized Secretary of Veterans’ Affairs, between Oct. 1, 1991, and Dec. 31, 1997, to carry out compensated work therapy and therapeutic transitional housing demonstration program, prior to repeal by Pub. L. 105–114, title II, §202(c)(1), Nov. 21, 1997, 111 Stat. 2287.
 
 #### Settlement of Claims
 
@@ -210,5 +118,5 @@ Section 105(b) of Pub. L. 94–581, as amended by Pub. L. 97–258, §4(b), Sept
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 113 of this title.
+This section is referred to in sections 113, 1771 of this title.
 

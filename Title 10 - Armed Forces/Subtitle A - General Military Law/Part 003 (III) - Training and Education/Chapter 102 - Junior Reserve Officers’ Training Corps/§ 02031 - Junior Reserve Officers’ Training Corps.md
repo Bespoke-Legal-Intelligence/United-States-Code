@@ -76,7 +76,7 @@ Section 102 of Pub. L. 88–647 directed that regulations implementing subsec. (
 
 #### Savings Clause
 
-Section 402 of Pub. L. 88–647 provided that: “If a part of this Act \[see Short Title note above\] is invalid, allvalid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.”
+Section 402 of Pub. L. 88–647 provided that: “If a part of this Act \[see Short Title note above\] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.”
 
 #### Reduction in Number of Students Required To Be in Junior Reserve Officers’ Training Corps Units for Period of September 1, 1980, to August 31, 1984
 
@@ -87,4 +87,8 @@ Pub. L. 96–342, title VI, §602, Sept. 8, 1980, 94 Stat. 1087, as amended by P
 &emsp;“(2) the unit meets such other requirements (in addition to the requirements prescribed by section 2031(b) of title 10, United States Code) as may be established by the Secretary of the military department concerned.”
 
 \[Section 702(b) of Pub. L. 97–86 provided that: “The amendment made by subsection (a) \[substituting 1982 for 1981 above\] shall take effect as of August 31, 1981.”\]
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2032 of this title.
 

@@ -24,7 +24,7 @@ Except as provided in subsection (c) of this section, the head of the agency sha
 
 (1) Subsection (b) of this section does not apply with respect to a qualification requirement established by statute prior to October 30, 1984.
 
-(2) Except as provided in paragraph (3), if it is unreasonable to specify the standards for qualification which a prospective offeror or its product must satisfy, a determination to that effect shall be submitted to the advocate for competition of the procuring activity responsible for the purchase of the item subject to the qualification requirement. After considering any comments of the advocate for competition reviewing such determination, the head of the procuring activity may waive the requirements of paragraphs (2) through (5) of subsection (b) of this section for up to two years with respect to the item subject to the qualification requirement.
+(2) Except as provided in paragraph (3), if it is unreasonable to specify the standards for qualification which a prospective offeror or its product must satisfy, a determination to that effectshall be submitted to the advocate for competition of the procuring activity responsible for the purchase of the item subject to the qualification requirement. After considering any comments of the advocate for competition reviewing such determination, the head of the procuring activity may waive the requirements of paragraphs (2) through (5) of subsection (b) of this section for up to two years with respect to the item subject to the qualification requirement.
 
 (3) The waiver authority contained in paragraph (2) shall not apply with respect to any qualified products list.
 
@@ -52,7 +52,7 @@ Within seven years after the establishment of a qualification requirement, the n
 
 Except in an emergency as determined by the head of the agency, whenever the head of the agency determines not to enforce a qualification requirement for a solicitation, the agency may not thereafter enforce that qualification requirement unless the agency complies with the requirements of subsection (b) of this section.
 
-(June 30, 1949, ch. 288, title III, §303C, formerly §303D, as added Oct. 30, 1984, Pub. L. 98–577, title II, §202(a), 98 Stat. 3069; renumbered §303C, Nov. 8, 1985, Pub. L. 99–145, title XIII, §1304(c)(4)(A), 99 Stat. 742.)
+(June 30, 1949, ch. 288, title III, §303C, formerly §303D, as added Pub. L. 98–577, title II, §202(a), Oct. 30, 1984, 98 Stat. 3069; renumbered §303C, Pub. L. 99–145, title XIII, §1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742.)
 
 #### Effective Date
 

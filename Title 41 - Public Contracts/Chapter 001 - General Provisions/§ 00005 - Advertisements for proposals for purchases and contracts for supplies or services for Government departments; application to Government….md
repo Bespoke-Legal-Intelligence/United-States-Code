@@ -4,7 +4,7 @@ Unless otherwise provided in the appropriation concerned or other law, purchases
 
 In the case of wholly owned Government corporations, this section shall apply to their administrative transactions only.
 
-(R.S. §3709; Aug. 2, 1946, ch. 744, §9(a), (c), 60 Stat. 809; June 30, 1949, ch. 288, title VI, §602(f), formerly title V, §502(e), 63 Stat. 403; renumbered Sept. 5, 1950, ch. 849, §§6(a), (b), 8(c), 64 Stat. 583, and amended Aug. 28, 1958, Pub. L. 85–800, §7, 72 Stat. 967; July 25, 1974, Pub. L. 93–356, §1, 88 Stat. 390; Dec. 1, 1983, Pub. L. 98–191, §9(b), 97 Stat. 1332.)
+(R.S. §3709; Aug. 2, 1946, ch. 744, §9(a), (c), 60 Stat. 809; June 30, 1949, ch. 288, title VI, §602(f), formerly title V, §502(e), 63 Stat. 403; renumbered Sept. 5, 1950, ch. 849, §§6(a), (b), 8(c), 64 Stat. 583, and amended Pub. L. 85–800, §7, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–356, §1, July 25, 1974, 88 Stat. 390; Pub. L. 98–191, §9(b), Dec. 1, 1983, 97 Stat. 1332.)
 
 #### References in Text
 

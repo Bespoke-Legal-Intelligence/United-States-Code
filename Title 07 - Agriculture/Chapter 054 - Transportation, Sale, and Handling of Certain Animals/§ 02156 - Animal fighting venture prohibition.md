@@ -10,7 +10,7 @@ It shall be unlawful for any person to knowingly sell, buy, transport, or delive
 
 #### (c) Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture
 
-It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any interstate instrumentality for purposes of promoting or in any othermanner furthering an animal fighting venture except as performed outside the limits of the States of the United States.
+It shall be unlawful for any person to knowingly use the mail service of the United States Postal Service or any interstate instrumentality for purposes of promoting or in any other manner furthering an animal fighting venture except as performed outside the limits of the States of the United States.
 
 #### (d) Violation of State law
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (h) Conflict with State law
 
-The provisions of this chapter shall not supersede or otherwise invalidate any such State, local, or municipal legislation or ordinance relating to animal fighting ventures except in case of a direct and irreconcilable conflict between any requirements thereunder and this chapter or any rule, regulation, or standard hereunder.
+The provisions of this chapter shall not supersede or otherwise invalidate any such State,local, or municipal legislation or ordinance relating to animal fighting ventures except in case of a direct and irreconcilable conflict between any requirements thereunder and this chapter or any rule, regulation, or standard hereunder.
 
 (Pub. L. 89–544, §26(a)–(h)(1), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

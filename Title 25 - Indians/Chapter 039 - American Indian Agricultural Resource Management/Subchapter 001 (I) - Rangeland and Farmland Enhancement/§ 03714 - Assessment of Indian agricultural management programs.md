@@ -10,7 +10,7 @@ The purposes of the assessment shall be—
 
 &emsp;(1) to establish a comprehensive assessment of the improvement, funding, and development needs for all Indian agricultural lands;
 
-&emsp;(2) to establish a comparison of management and funding provided to comparable lands owned or managed by the Federal Government through Federal agencies other than the Bureau; and
+&emsp;(2) to establish a comparison of management and funding provided to comparable landsowned or managed by the Federal Government through Federal agencies other than the Bureau; and
 
 &emsp;(3) to identify any obstacles to Indian access to Federal or private programs relating to agriculture or related rural development programs generally available to the public at large.
 

@@ -1,6 +1,6 @@
 ### §3419. Office of Educational Research and Improvement
 
-There shall be in the Department an Office of Educational Research and Improvement, to beadministered by the Assistant Secretary for Educational Research and Improvement appointed under section 3412(b) of this title. The Assistant Secretary shall administer such functions concerning research, development, demonstration, dissemination, evaluation, and assessment activities as the Secretary shall delegate and such functions as set forth in the Educational Research, Development, Dissemination, and Improvement Act of 1994 \[20 U.S.C. 6001 et seq.\].
+There shall be in the Department an Office of Educational Research and Improvement, to be administered by the Assistant Secretary for Educational Research and Improvement appointed under section 3412(b) of this title. The Assistant Secretary shall administer such functions concerning research, development, demonstration, dissemination, evaluation, and assessment activities as the Secretary shall delegate and such functions as set forth in the Educational Research, Development, Dissemination, and Improvement Act of 1994 \[20 U.S.C. 6001 et seq.\].
 
 (Pub. L. 96–88, title II, §208, formerly §209, Oct. 17, 1979, 93 Stat. 674; Pub. L. 103–227, title IX, §911(b), Mar. 31, 1994, 108 Stat. 213; renumbered §208, Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 

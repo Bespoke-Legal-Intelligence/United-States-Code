@@ -60,7 +60,7 @@
 
 #### (d) Limitation on commitment of resources
 
-After initiation of consultation required under subsection (a)(2) of this section, the Federalagency and the permit or license applicant shall not make any irreversible or irretrievable commitment of resources with respect to the agency action which has the effect of foreclosing the formulation or implementation of any reasonable and prudent alternative measures which would not violate subsection (a)(2) of this section.
+After initiation of consultation required under subsection (a)(2) of this section, the Federal agency and the permit or license applicant shall not make any irreversible or irretrievable commitment of resources with respect to the agency action which has the effect of foreclosing the formulation or implementation of any reasonable and prudent alternative measures which would not violate subsection (a)(2) of this section.
 
 #### (e) Endangered Species Committee
 
@@ -96,7 +96,7 @@ After initiation of consultation required under subsection (a)(2) of this sectio
 
 (D) All meetings and records of the Committee shall be open to the public.
 
-(6) Upon request of the Committee, the head of any Federal agency is authorized to detail, on a nonreimbursable basis, any of the personnel of such agency to the Committee to assist it in carrying out its duties under this section.
+(6) Upon request of the Committee, the head of any Federal agency is authorized to detail, on a nonreimbursable basis, any of the personnel ofsuch agency to the Committee to assist it in carrying out its duties under this section.
 
 (7)(A) The Committee may for the purpose of carrying out its duties under this section hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Committee deems advisable.
 
@@ -214,7 +214,7 @@ An exemption decision by the Committee under this section shall not be a major F
 
 #### (m) Notice requirement for citizen suits not applicable
 
-The 60-day notice requirement of section 1540(g) of this title shall not apply with respectto review of any final determination of the Committee under subsection (h) of this section granting an exemption from the requirements of subsection (a)(2) of this section.
+The 60-day notice requirement of section 1540(g) of this title shall not apply with respect to review of any final determination of the Committee under subsection (h) of this section granting an exemption from the requirements of subsection (a)(2) of this section.
 
 #### (n) Judicial review
 
@@ -232,7 +232,7 @@ Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title, sectio
 
 In any area which has been declared by the President to be a major disaster area under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], the President is authorized to make the determinations required by subsections (g) and (h) of this section for any project for the repair or replacement of a public facility substantially as it existed prior to the disaster under section 405 or 406 of the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5171 or 5172\], and which the President determines (1) is necessary to prevent the recurrence of such a natural disaster and to reduce the potential loss of human life, and (2) to involve an emergency situation which does not allow the ordinary procedures of this section to be followed. Notwithstanding any other provision of this section, the Committee shall accept the determinations of the President under this subsection.
 
-(Pub. L. 93–205, §7, Dec. 28, 1973, 87 Stat. 892; Pub. L. 95–632, §3, Nov. 10, 1978, 92 Stat. 3752; Pub. L. 96–159, §4, Dec. 28, 1979, 93 Stat. 1226; Pub. L. 97–304, §§4(a), 8(b), Oct. 13, 1982, 96 Stat. 1417, 1426; Pub. L. 99–659, title IV, §411(b), (c), Nov. 14, 1986, 100 Stat. 3741, 3742; Pub. L. 100–707, title I, §109(g), Nov. 23, 1988, 102 Stat. 4709.)
+(Pub. L. 93–205, §7, Dec. 28, 1973, 87 Stat. 892; Pub. L. 95–632, §3, Nov. 10, 1978, 92 Stat. 3752; Pub. L. 96–159, §4, Dec. 28, 1979, 93 Stat. 1226; Pub. L. 97–304, §§4(a), 8(b), Oct. 13, 1982, 96 Stat. 1417, 1426; Pub. L. 99–659, title IV, §411(b), (c), Nov. 14,1986, 100 Stat. 3741, 3742; Pub. L. 100–707, title I, §109(g), Nov. 23, 1988, 102 Stat. 4709.)
 
 #### References in Text
 
@@ -268,7 +268,7 @@ Subsec. (g)(2)(A). Pub. L. 97–304, §4(a)(5)(C)(i), substituted “An exemptio
 
 Subsec. (g)(2)(B). Pub. L. 97–304, §4(a)(5)(C)(ii), inserted “(i)” after “the Secretary shall promptly”, struck out “to the review board to be established under paragraph (3) and” after “individuals to be appointed” in cl. (i) as so designated, and added cl. (ii).
 
-Subsec. (g)(3). Pub. L. 97–304, §4(a)(5)(D), (E), redesignated par. (5) as (3) and substituted provisions directing the Secretary, within 20 days after the receipt of an application for exemption, or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, to (A) determine that the Federal agency concerned and the exemption applicant have (i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required by subsection (c) of this section, and (iii) to the extent determinable within the time provided herein, refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, or (B) deny the application for exemption because the Federal agency concerned or the exemption applicant have not met the requirements set forth in subparagraph (A)(i), (ii), and (iii), and providing that the denial of an application under subparagraph (B) shall be considered final agency action for purposes of chapter 7 of title 5, for provisions placing upon the review board appointed under former par. (3) the duty to make a full review of the consultation carried out under subsection (a)(2) of this section, and within 60 days after its appointment or within such longer time as was mutually agreed upon between the exemption applicant and the Secretary, to make a determination, by a majority vote, (A) whether an irresolvable conflict existed and (B) whether the Federal agency concerned and such exemption applicant had (i) carried out its consultation responsibilities as described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required of it by subsection (c) of this section, and (iii) refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, and providing that any determination by the review board that an irresolvable conflict did not exist or that the Federal agency concerned or the exemption applicant had not met its respective requirements under subclause (i), (ii), or (iii) was to be considered final agency action for purposes of chapter 7 of title 5. Former par. (3), providing for the establishment and functions of a review board to consider applications for exemptions and to submit reports to the Endangered Species Committee, was struck out.
+Subsec. (g)(3). Pub. L. 97–304, §4(a)(5)(D), (E), redesignated par. (5) as (3) and substituted provisions directing the Secretary, within 20 days after the receipt of an application for exemption, or within such other period of time as is mutually agreeable to the exemption applicant and the Secretary, to (A) determine that the Federal agency concerned and the exemption applicant have (i) carried out the consultation responsibilities described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required by subsection (c) of this section, and (iii) to the extent determinable within the time provided herein, refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, or (B) deny the application for exemption because the Federal agency concerned or the exemption applicant have not met the requirements set forth in subparagraph (A)(i), (ii), and (iii), and providing that the denial of an application under subparagraph (B) shall be considered final agency action for purposes of chapter 7 of title 5, for provisions placing upon the review board appointed under former par. (3) the duty to make a full review of the consultation carried out under subsection (a)(2) of this section, and within 60 days after its appointment or within such longer time as was mutually agreed upon between the exemption applicant and the Secretary, to make a determination, by a majority vote, (A) whether an irresolvable conflict existed and (B) whether the Federal agency concerned and such exemption applicant had (i) carried out its consultation responsibilities as described in subsection (a) of this section in good faith and made a reasonable and responsible effort to develop and fairly consider modifications or reasonable and prudent alternatives to the proposed agency action which would not violate subsection (a)(2) of this section, (ii) conducted any biological assessment required of it by subsection (c) of this section, and (iii) refrained from making any irreversible or irretrievable commitment of resources prohibited by subsection (d) of this section, and providing that any determination by the review board that an irresolvable conflict did not exist or that the Federal agency concerned or the exemption applicant had not met its respective requirementsunder subclause (i), (ii), or (iii) was to be considered final agency action for purposes of chapter 7 of title 5. Former par. (3), providing for the establishment and functions of a review board to consider applications for exemptions and to submit reports to the Endangered Species Committee, was struck out.
 
 Subsec. (g)(4). Pub. L. 97–304, §4(a)(5)(D), (F), redesignated par. (6) as (4) and substituted “If the Secretary determines that the Federal agency concerned and the exemption applicant have met the requirements set forth in paragraph (3)(A)(i), (ii), and (iii) he shall, in consultation with the Members of the Committee, hold a hearing on the application for exemption in accordance with sections 554, 555, and 556 (other than subsection (b)(1) and (2) thereof) of title 5 and prepare the report to be submitted pursuant to paragraph (5)” for “If the review board determines that an irresolvable conflict exists and makes positive determinations under subclauses (i), (ii), and (iii) of paragraph (5), it shall proceed to prepare the report to be submitted under paragraph (7)”. Former par. (4), directing the Secretary to submit the application to the review board immediately after its appointment under paragraph (3), and to submit to the review board, in writing, his views and recommendations with respect to the application within 60 days after receiving a copy of any application under paragraph (2), was struck out.
 
@@ -288,7 +288,7 @@ Subsec. (g)(11). Pub. L. 97–304, §4(a)(5)(D), struck out par. (11) which had 
 
 Subsec. (g)(12). Pub. L. 97–304, §4(a)(5)(J), redesignated par. (12) as (8).
 
-Subsec. (h)(1). Pub. L. 97–304, §4(a)(6), substituted “within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5) of this section” for “within 90 days of receiving the report of the reviewboard under subsection (g)(7) of this section” in provisions preceding subpar. (A), substituted “report of the Secretary, the record of the hearing held under subsection (g)(4) of this section and on such other testimony” for “report of the review board and on such other testimony” in subpar. (A) preceding cl. (i), and added cl. (iv).
+Subsec. (h)(1). Pub. L. 97–304, §4(a)(6), substituted “within 30 days after receiving the report of the Secretary pursuant to subsection (g)(5) of this section” for “within 90 days of receiving the report of the review board under subsection (g)(7) of this section” in provisions preceding subpar. (A), substituted “report of the Secretary, the record of the hearing held under subsection (g)(4) of this section and on such other testimony” for “report of the review board and on such other testimony” in subpar. (A) preceding cl. (i), and added cl. (iv).
 
 Subsec. (<i>o</i>). Pub. L. 97–304, §4(a)(7), substituted “Notwithstanding sections 1533(d) and 1538(a)(1)(B) and (C) of this title or any regulation promulgated to implement either such section (1) any action for which an exemption is granted under subsection (h) of this section shall not be considered to be a taking of any endangered species or threatened species with respect to any activity which is necessary to carry out such action; and (2) any taking that is in compliance with the terms and conditions specified in a written statement provided under subsection (b)(4)(iii) of this section shall not be considered to be a taking of the species concerned” for “Notwithstanding sections 1533(d) and 1538(a) of this title or any regulations promulgated pursuant to such sections, any action for which an exemption is granted under subsection (h) of this section shall not be considered a taking of any endangered or threatened species with respect to any activity which is necessary to carry out such action”.
 
@@ -306,7 +306,7 @@ Subsecs. (e)(2), (f). Pub. L. 96–159, §4(3), substituted “subsection (a)(2)
 
 Subsec. (g)(1). Pub. L. 96–159, §4(3), (6), substituted in first sentence “subsection (a)(2)” for “subsection (a)” of this section and “agency action would violate subsection (a)(2) of this section” for “agency action may jeopardize the continued existence of any endangered or threatened species or destroy or adversely modify the critical habitat of such species”.
 
-Subsec. (g)(2)(A). Pub. L. 96–159, §4(7), required exemption applicant, to submit a written application, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agency action, for purposes of chapter 7 of Title 5, with respect to the issuance of the permit or license.
+Subsec. (g)(2)(A). Pub. L. 96–159, §4(7), required exemption applicant, to submit a written application, in the case of any agency action involving a permit or license applicant, not later than 90 days after the date on which the Federal agency concerned takes final agencyaction, for purposes of chapter 7 of Title 5, with respect to the issuance of the permit or license.
 
 Subsec. (g)(3). Pub. L. 96–159, §4(8), added subpar. (B), and redesignated former subpar. (B) as (C).
 
@@ -325,6 +325,18 @@ Subsec. (q). Pub. L. 96–159, §4(12), authorized appropriations of $600,000 fo
 1978—Subsec. (a). Pub. L. 95–632 designated existing provision as subsec. (a), inserted reference to agency action, substituted “adverse modification” for “modification”, and provided for the grant of an exemption for agency action by the Endangered Species Committee pursuant to subsec. (h) of this section.
 
 Subsecs. (b) to (q). Pub. L. 95–632 added subsecs. (b) to (q).
+
+#### Deferral of Agency Action
+
+Pub. L. 105–18, title II, §3003, June 12, 1997, 111 Stat. 176, provided that:
+
+“(a)
+
+Consultation and Conferencing.—As provided by regulations issued under the Endangered Species Act (16 U.S.C. 1531 et seq.) for emergency situations, formal consultation or conferencing under section 7(a)(2) or section 7(a)(4) of the Act \[16 U.S.C. 1536(a)(2), (4)\] for any action authorized, funded or carried out by any Federal agency to repair a Federal or non-Federal flood control project, facility or structure may be deferred by the Federal agency authorizing, funding or carrying out the action, if the agency determines that the repair is needed to respond to an emergency causing an imminent threat to human lives and property in 1996 or 1997. Formal consultation or conferencing shall be deferred until the imminent threat to human lives and property has been abated. For purposes of this section, the term repair shall include preventive and remedial measures to restore the project, facility or structure to remove an imminent threat to human lives and property.
+
+“(b)
+
+Reasonable and Prudent Measures.—Any reasonable and prudent measures specified under section 7 of the Endangered Species Act (16 U.S.C. 1536) to minimize the impact of an action taken under this section shall be related both in nature and extent to the effect of the action taken to repair the flood control project, facility or structure.”
 
 #### Translocation of California Sea Otters
 
@@ -372,7 +384,7 @@ Plan Specifications.—The Secretary may develop and implement, in accordance wi
 
 &emsp;“(5) Measures, including an adequate funding mechanism, to isolate and contain the experimental population.
 
-&emsp;“(6) A description of the relationship of the implementation of the plan to the status of the species under the Act and to determinations of the Secretary under section 7 of the Act \[16 U.S.C. 1536\].
+&emsp;“(6) A description of the relationship of the implementation of the plan to the status of the speciesunder the Act and to determinations of the Secretary under section 7 of the Act \[16 U.S.C. 1536\].
 
 “(c)
 

@@ -6,7 +6,7 @@ Basic Grants.—(1) The Secretary of Transportation may make a grant to a State 
 
 &emsp;(A) makes an agreement with the Secretary—
 
-&emsp;&emsp;(i) to adopt and carry out in the fiscal year in which the grant is made a program for testing and ensuring the fitness of individuals who operate commercial motor vehicles under the minimum standards prescribed by the Secretary under section 31305(a) of this title; and
+&emsp;&emsp;(i) to adopt and carry out in the fiscal year in which the grant is made a program fortesting and ensuring the fitness of individuals who operate commercial motor vehicles under the minimum standards prescribed by the Secretary under section 31305(a) of this title; and
 
 &emsp;&emsp;(ii) to require that operators of commercial motor vehicles have passed written and driving tests that meet the minimum standards; and
 

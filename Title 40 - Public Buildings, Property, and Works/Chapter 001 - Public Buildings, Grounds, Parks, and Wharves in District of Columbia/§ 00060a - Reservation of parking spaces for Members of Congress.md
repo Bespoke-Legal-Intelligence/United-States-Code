@@ -2,7 +2,7 @@
 
 On and after June 29, 1956, the Council of the District of Columbia is authorized and directed to designate, reserve, and properly mark appropriate and sufficient parking spaces on the streets adjacent to all public buildings in the District for the use of Members of Congress engaged on public business.
 
-(June 29, 1956, ch. 479, 70 Stat. 447; 1967 Reorg. Plan No. 3, §402(300), eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Dec. 24, 1973, Pub. L. 93–198, title IV, §401, 87 Stat. 785.)
+(June 29, 1956, ch. 479, 70 Stat. 447; 1967 Reorg. Plan No. 3, §402(300), eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785.)
 
 #### Codification
 

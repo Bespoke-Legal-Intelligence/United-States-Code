@@ -6,7 +6,7 @@
 
 &emsp;(1) make an offer for participation in the cooperative work-education program directly to a student and appoint such student to an entry-level position of employment in the laboratory of such director;
 
-&emsp;(2) pay such person a rate of basic pay, not to exceed the maximum rate of pay provided for grade GS–9 under the General Scheduleunder section 5332 of title 5, that is competitive with compensation levels provided for entry-level positions in similar industry-sponsored cooperative work-education programs;
+&emsp;(2) pay such person a rate of basic pay, not to exceed the maximum rate of pay provided for grade GS–9 under the General Schedule under section 5332 of title 5, that is competitive with compensation levels provided for entry-level positions in similar industry-sponsored cooperative work-education programs;
 
 &emsp;(3) pay all travel expenses between the college or university in which the student is enrolled and the laboratory concerned for not more than six round trips per year; and
 

@@ -2,5 +2,5 @@
 
 For the purposes of this section, the term “classified information” means information which, for reasons of national security, is specifically designated by a United States Government agency for limited or restricted dissemination or distribution.
 
-(Sept. 23, 1950, ch. 1024, title III, §304, as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170.)
+(Sept. 23, 1950, ch. 1024, title III, §304, as added Pub. L. 88–290, Mar. 26, 1964, 78 Stat. 170.)
 

@@ -12,7 +12,7 @@ The individual holding the office designated by the President under subsection (
 
 The President may delegate functions of the President under this subchapter (other than under sections 98f and 98h–4 of this title) only to the National Defense Stockpile Manager. Any such delegation made by the President shall remain in effect until specifically revoked by law or Executive order. The President may not delegate functions of the President under sections 98f and 98h–4 of this title.
 
-(June 7, 1939, ch. 190, §16, formerly §6A, as added Nov. 14, 1986, Pub. L. 99–661, div. C, title II, §3202(a), 100 Stat. 4067; amended Dec. 4, 1987, Pub. L. 100–180, div. C, title II, §3203(a), 101 Stat. 1246; renumbered §16 and amended Nov. 29, 1989, Pub. L. 101–189, div. C, title XXXIII, §3313, 103 Stat. 1688; Dec. 5, 1991, Pub. L. 102–190, div. C, title XXXIII, §3314, 105 Stat. 1585.)
+(June 7, 1939, ch. 190, §16, formerly §6A, as added Pub. L. 99–661, div. C, title II, §3202(a), Nov. 14, 1986, 100 Stat. 4067; amended Pub. L. 100–180, div. C, title II, §3203(a), Dec. 4, 1987, 101 Stat. 1246; renumbered §16 and amended Pub. L. 101–189, div. C, title XXXIII, §3313, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 102–190, div. C, title XXXIII, §3314, Dec. 5, 1991, 105 Stat. 1585.)
 
 #### Codification
 

@@ -6,7 +6,7 @@
 
 (2) After the decision of the Court in a proceeding becomes final, the Court may, upon motion of the appellant or the Secretary, permit the withdrawal by the party entitled thereto of originals of books, documents, and records, and of models, diagrams, and other exhibits, submitted to the Court or the Court may, on its own motion, make such other disposition thereof as it considers advisable.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4117, §4068; renumbered §7268, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §8(2), Aug. 6, 1991, 105 Stat. 377.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4117, §4068; renumbered §7268, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–82, §8(2), Aug. 6, 1991, 105 Stat. 377.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ Retirement With At Least 15
 
 Years of Service.—For the purposes of section 12731 of this title, the Secretary concerned may—
 
-&emsp;(1) during the period described in subsection (b), determine to treat a member of the Selected Reserve of a reserve component of the armed force under the jurisdiction of that Secretary as having met the service requirements of subsection (a)(2) of that section and provide the member with the notification required by subsection (d) of that section if the member—
+&emsp;(1) during the period described in subsection (b), determine to treat a member of the Selected Reserve of a reserve component of thearmed force under the jurisdiction of that Secretary as having met the service requirements of subsection (a)(2) of that section and provide the member with the notification required by subsection (d) of that section if the member—
 
 &emsp;&emsp;(A) as of October 1, 1991, has completed at least 15, and less than 20, years of service computed under section 12732 of this title; or
 
@@ -20,7 +20,7 @@ Period of Authority.—The period referred to in subsection (a)(1) is the period
 
 (c)
 
-Applicability Subject to Needs of the Service.—(1) The Secretary concerned may limit the applicability of subsection (a) to any category of personnel defined by the Secretaryin order to meet a need of the armed force under the jurisdiction of the Secretary to reduce the number of members in certain grades, the number of members who have completed a certain number of years of service, or the number of members who possess certain military skills or are serving in designated competitive categories.
+Applicability Subject to Needs of the Service.—(1) The Secretary concerned may limit the applicability of subsection (a) to any category of personnel defined by the Secretary in order to meet a need of the armed force under the jurisdiction of the Secretary to reduce the number of members in certain grades, the number of members who have completed a certain number of years of service, or the number of members who possess certain military skills or are serving in designated competitive categories.
 
 (2) A limitation under paragraph (1) shall be consistent with the purpose set forth in section 4414(a) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2713).
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 #### Effective Date of 1994 Amendment
 
 Amendment by section 1662(j)(1) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 sections 1965, 1968.
 

@@ -24,7 +24,7 @@ The Service is authorized and directed to encourage and support the establishmen
 
 The Service may make its services available to Federal agencies to aid in the resolution of disputes under the provisions of subchapter IV of chapter 5 of title 5. Functions performed by the Service may include assisting parties to disputes related to administrative programs, training persons in skills and procedures employed in alternative means of dispute resolution, and furnishing officers and employees of the Service to act as neutrals. Only officers and employees who are qualified in accordance with section 573 of title 5 may be assigned to act as neutrals. The Service shall consult with the agency designated by, or the interagency committee designated or established by, the President under section 573 of title 5 in maintaining rosters of neutrals and arbitrators, and to adopt such procedures and rules as are necessary to carry out the services authorized in this subsection.
 
-(June 23, 1947, ch. 120, title II, §203, 61 Stat. 153; Oct. 27, 1978, Pub. L. 95–524, §6(c)(1), 92 Stat. 2020; Nov. 15, 1990, Pub. L. 101–552, §7, 104 Stat. 2746; Aug. 26, 1992, Pub. L. 102–354, §5(b)(5), 106 Stat. 946; Oct. 19, 1996, Pub. L. 104–320, §4(c), 110 Stat. 3871.)
+(June 23, 1947, ch. 120, title II, §203, 61 Stat. 153; Pub. L. 95–524, §6(c)(1), Oct. 27, 1978, 92 Stat. 2020; Pub. L. 101–552, §7, Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–354, §5(b)(5), Aug. 26, 1992, 106 Stat. 946; Pub. L. 104–320, §4(c), Oct. 19, 1996, 110 Stat. 3871.)
 
 #### References in Text
 

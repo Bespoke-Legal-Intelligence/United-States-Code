@@ -4,7 +4,7 @@
 
 (b) Effective as of October 21, 1970, the obligations of the Corporation incurred under subsection (a) of this section shall bear no interest, and the obligation of the Corporation to pay the unpaid interest which has accrued on such obligations is terminated.
 
-(May 13, 1954, ch. 201, §5, 68 Stat. 94; July 17, 1957, Pub. L. 85–108, §1(4), 71 Stat. 307; Oct. 21, 1970, Pub. L. 91–469, §43(a), 84 Stat. 1038.)
+(May 13, 1954, ch. 201, §5, 68 Stat. 94; Pub. L. 85–108, §1(4), July 17, 1957, 71 Stat. 307; Pub. L. 91–469, §43(a), Oct. 21, 1970, 84 Stat. 1038.)
 
 #### Codification
 

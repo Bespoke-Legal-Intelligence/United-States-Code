@@ -22,7 +22,7 @@ The words “any other provision of” following “Notwithstanding” are omitt
 
 #### Amendments
 
-1990—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows: “Notwithstanding section 5901 of this title, each of the respective maximum uniform allowances in effect on April 1, 1966, for the respective categories of employees to whom uniform allowances are paid under section 5901 of this titleare increased, subject to the maximum allowance authorized by section 5901 of this title, as follows:
+1990—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows: “Notwithstanding section 5901 of this title, each of the respective maximum uniform allowances in effect on April 1, 1966, for the respective categories of employees to whom uniform allowances are paid under section 5901 of this title are increased, subject to the maximum allowance authorized by section 5901 of this title, as follows:
 
 &emsp;“(1) If the maximum uniform allowance is $100 or more, it is increased by 25 percent.
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5901 of this title; title 22 section 3712; title 33 section 540a.
+This section is referred to in section 5901 of this title; title 33 section 540a.
 

@@ -256,7 +256,7 @@ In order to ensure that programs identified as exemplary or promising are availa
 
 #### (2) Regions
 
-&emsp;The regions served by the regional educational laboratories shall be the 10 geographic regions in existence on the day preceding March 31, 1994, except that in fiscal year 1996, the Assistant Secretary may support not more than 2 additional regional educational laboratories serving regions not in existenceon the day preceding March 31, 1994, provided that—
+&emsp;The regions served by the regional educational laboratories shall be the 10 geographic regions in existence on the day preceding March 31, 1994, except that in fiscal year 1996, the Assistant Secretary may support not more than 2 additional regional educational laboratories serving regions not in existence on the day preceding March 31, 1994, provided that—
 
 &emsp;&emsp;(A) the amount appropriated for the regional educational laboratories in fiscal year 1996 exceeds the amount appropriated for the regional educational laboratories in fiscal year 1995 by not less than $2,000,000;
 
@@ -384,7 +384,7 @@ In order to ensure that programs identified as exemplary or promising are availa
 
 #### (7) Evaluations
 
-&emsp;The Assistant Secretary shall provide for independent evaluations of each of the regional educational laboratories in carrying out the duties described in paragraph (1) in the third year that such laboratory receives assistance under this subsection in accordance with the standards developed by the Assistant Secretary and approved by the Board and shalltransmit the results of such evaluations to the relevant committees of the Congress, the Board, and the appropriate regional educational laboratory board.
+&emsp;The Assistant Secretary shall provide for independent evaluations of each of the regional educational laboratories in carrying out the duties described in paragraph (1) in the third year that such laboratory receives assistance under this subsection in accordance with the standards developed by the Assistant Secretary and approved by the Board and shall transmit the results of such evaluations to the relevant committees of the Congress, the Board, and the appropriate regional educational laboratory board.
 
 #### (8) Invitation regarding competition for awards of assistance
 

@@ -6,7 +6,7 @@ Withholding of Funds for Noncompliance.—
 
 &emsp;(1)
 
-First year.—The Secretary shall withhold 5 per centum of the amount required to be apportioned to any State under each of sections 104(b)(1), 104(b)(2), 104(b)(5), and 104(b)(6) of this title on the first day of the fiscal year succeeding the first fiscal year beginning after September 30, 1985, in which the purchase or public possession in such State of any alcoholic beverage by a person who is less than twenty-one years of age is lawful.
+First year.—The Secretary shall withhold 5 per centum of the amount required tobe apportioned to any State under each of sections 104(b)(1), 104(b)(2), 104(b)(5), and 104(b)(6) of this title on the first day of the fiscal year succeeding the first fiscal year beginning after September 30, 1985, in which the purchase or public possession in such State of any alcoholic beverage by a person who is less than twenty-one years of age is lawful.
 
 &emsp;(2)
 

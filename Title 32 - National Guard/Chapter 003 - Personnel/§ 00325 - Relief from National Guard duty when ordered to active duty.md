@@ -4,7 +4,7 @@
 
 (b) So far as practicable, members, organizations, and units of the Army National Guard of the United States or the Air National Guard of the United States ordered to active duty shall be returned to their National Guard status upon relief from that duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(6), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Pub. L. 100–456, div. A, title XII, §1234(b)(6), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 

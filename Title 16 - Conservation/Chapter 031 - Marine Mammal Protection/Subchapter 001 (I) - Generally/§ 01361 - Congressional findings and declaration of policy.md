@@ -34,6 +34,10 @@ Par. (5). Pub. L. 103–238, §3(2), inserted “and their habitats” before �
 
 Section 4 of Pub. L. 92–522 provided that: “The provisions of this Act \[enacting this chapter\] shall take effect upon the expiration of the sixty-day period following the date of its enactment \[Oct. 21, 1972\].”
 
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–42, §1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: “This Act \[enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of this title, repealing sections 1412 to 1416 and 1418 of this title, and enacting provisions set out as notes under this section and section 1362 of this title\] may be cited as the ‘International Dolphin Conservation Program Act’.”
+
 #### Short Title of 1994 Amendment
 
 Section 1 of Pub. L. 103–238 provided that: “This Act \[enacting sections 1386 to 1389 of this title, amending this section and sections 1362, 1371, 1372, 1374, 1375, 1379, 1380, 1382 to 1384, 1407, 1421 to 1421h, and 4107 of this title, repealing sections 1384 and 1407 of this title, and enacting provisions set out as notes under this section and sections 1362, 1374, 1538, and 1539 of this title\] may be cited as the ‘Marine Mammal Protection Act Amendments of 1994’.”
@@ -55,6 +59,32 @@ Section 1 of Pub. L. 92–522 provided in part that: “This Act \[enacting this
 #### Regulations
 
 Section 15(b) of Pub. L. 103–238 provided that: “Except as provided otherwise in this Act \[see Short Title of 1994 Amendment note above\], or the amendments to the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) made by this Act, the Secretary of Commerce or the Secretary of the Interior, as appropriate, shall, after notice and opportunity for public comment, promulgate regulations to implement this Act and the amendments made by this Act by January 1, 1995.”
+
+#### Purposes and Findings
+
+Pub. L. 105–42, §2, Aug. 15, 1997, 111 Stat. 1122, provided that:
+
+“(a)
+
+Purposes.—The purposes of this Act \[see Short Title of 1997 Amendment note above\] are—
+
+&emsp;“(1) to give effect to the Declaration of Panama, signed October 4, 1995, by the Governments of Belize, Colombia, Costa Rica, Ecuador, France, Honduras, Mexico, Panama, Spain, the United States of America, Vanuatu, and Venezuela, including the establishment of the International Dolphin Conservation Program, relating to the protection of dolphins and other species, and the conservation and management of tuna in the eastern tropical Pacific Ocean;
+
+&emsp;“(2) to recognize that nations fishing for tuna in the eastern tropical Pacific Ocean have achieved significant reductions in dolphin mortality associated with that fishery; and
+
+&emsp;“(3) to eliminate the ban on imports of tuna from those nations that are in compliance with the International Dolphin Conservation Program.
+
+“(b)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) the nations that fish for tuna in the eastern tropical Pacific Ocean have achieved significant reductions in dolphin mortality associated with the purse seine fishery from hundreds of thousands annually to fewer than 5,000 annually;
+
+&emsp;“(2) the provisions of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\] that impose a ban on imports from nations that fish for tuna in the eastern tropical Pacific Ocean have served as an incentive to reduce dolphin mortalities;
+
+&emsp;“(3) tuna canners and processors of the United States have led the canning and processing industry in promoting a dolphin-safe tuna market; and
+
+&emsp;“(4) 12 signatory nations to the Declaration of Panama, including the United States, agreed under thatDeclaration to require that the total annual dolphin mortality in the purse seine fishery for yellowfin tuna in the eastern tropical Pacific Ocean not exceed 5,000 animals, with the objective of progressively reducing dolphin mortality to a level approaching zero through the setting of annual limits and with the goal of eliminating dolphin mortality.”
 
 #### Relationship of Marine Mammal Protection Act Amendments of 1994 to Other Law
 
@@ -80,7 +110,7 @@ Pub. L. 100–711, §7, Nov. 23, 1988, 102 Stat. 4771, directed Secretary of Com
 
 Pub. L. 95–426, title VI, §602, Oct. 7, 1978, 92 Stat. 985, provided that: “It is the sense of the Congress that the President should convey to all countries having an interest in cetacean sea life the serious concern of the Congress regarding the continuing destruction of these marine mammals (highlighted by the recent slaughter of dolphins in the Sea of Japan by Japanese fishermen) and should encourage such countries—
 
-&emsp;“(1) to join in international discussions with other such countries in order to advance general understanding of cetacean life and thereby facilitate an effective use of the living marine resources of the worldwhich does not jeopardize the natural balance of the aquatic environment;
+&emsp;“(1) to join in international discussions with other such countries in order to advance general understanding of cetacean life and thereby facilitate an effective use of the living marine resources of the world which does not jeopardize the natural balance of the aquatic environment;
 
 &emsp;“(2) to participate in an exchange of information with the National Marine Fisheries Service of the United States Department of Commerce, including cooperation in studies of—
 

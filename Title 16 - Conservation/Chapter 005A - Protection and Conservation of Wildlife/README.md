@@ -69,11 +69,17 @@
 | (b) | Administration; public accommodations contracts; acceptance and use of funds; exchange of properties; cash equalization payments. |
 | (c) | Prohibited and permitted activities; application of mining and mineral leasing laws, hunting or fishing regulations, and State laws or regulations. |
 | (d) | Use of areas; administration of migratory bird sanctuaries as game taking areas; rights of way, easements, and reservations; payment of fair market value. |
-| (e) | Penalties. |
-| (f) | Enforcement provision; arrests, searches, and seizures; custody of property; forfeitures; disposition. |
-| (g) | Regulations; continuation, modification, or rescission. |
-| (h) | National conservation recreational area provisions; amendment, repeal, or modification. |
-| (i) | Exemption from State water laws. |
+| (e) | Refuge conservation planning program for non-Alaskan refuge lands. |
+| (f) | Penalties. |
+| (g) | Enforcement provision; arrests, searches, and seizures; custody of property; forfeitures; disposition. |
+| (h) | Regulations; continuation, modification, or rescission. |
+| (i) | National conservation recreational area provisions; amendment, repeal, or modification. |
+| (j) | Exemption from State water laws. |
+| (k) | Emergency power. |
+| (<i>l</i>) | Hunting and fishing on lands and waters not within System. |
+| (m) | State authority. |
+| (n) | Water rights. |
+| (<i>o</i>) | Coordination with State agencies. |
 | [668ee.](Subchapter%20003%20%28III%29%20-%20Endangered%20Species%20of%20Fish%20and%20Wildlife/%C2%A7%2000668ee%20-%20Definitions.md) | Definitions. |
 | 668ff to 668ss. Omitted. |  |
 

@@ -54,5 +54,5 @@ Pub. L. 104–320, §11(e), Oct. 19, 1996, 110 Stat. 3874, provided that: “The
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 1437g.
+This section is referred to in title 25 section 4116; title 42 section 1437g.
 

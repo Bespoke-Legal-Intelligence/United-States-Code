@@ -2,7 +2,7 @@
 
 When traveling on business of the Commission, officers of the Armed Forces serving as members or as Secretary of the Commission may be reimbursed for expenses as provided for civilian members of the Commission.
 
-(Sept. 26, 1996, Pub. L. 104–204, title III, 110 Stat. 2907.)
+(Oct. 27, 1997, Pub. L. 105–65, title III, 111 Stat. 1368.)
 
 #### Codification
 
@@ -11,6 +11,8 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Sept. 26, 1996, Pub. L. 104–204, title III, 110 Stat. 2907.
 
 Apr. 26, 1996, Pub. L. 104–134, title I, §101(e) \[title III\], 110 Stat. 1321–257, 1321–293; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.
 

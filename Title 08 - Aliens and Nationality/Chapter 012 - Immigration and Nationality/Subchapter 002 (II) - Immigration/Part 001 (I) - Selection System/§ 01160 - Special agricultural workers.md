@@ -72,7 +72,7 @@
 
 #### (B) Outside the United States
 
-&emsp;&emsp;The Attorney General, in cooperation with the Secretary of State, shall provide a procedure whereby an alien may apply for adjustment of status under subsection (a)(1) of thissection at an appropriate consular office outside the United States. If the alien otherwise qualifies for such adjustment, the Attorney General shall provide such documentation of authorization to enter the United States and to have the alien's status adjusted upon entry as may be necessary to carry out the provisions of this section.
+&emsp;&emsp;The Attorney General, in cooperation with the Secretary of State, shall provide a procedure whereby an alien may apply for adjustment of status under subsection (a)(1) of this section at an appropriate consular office outside the United States. If the alien otherwise qualifies for such adjustment, the Attorney General shall provide such documentation of authorization to enter the United States and to have the alien's status adjusted upon entry as may be necessary to carry out the provisions of this section.
 
 #### (2) Designation of entities to receive applications
 
@@ -118,7 +118,7 @@
 
 #### (B) Required disclosures
 
-&emsp;&emsp;The Attorney General shall provide information furnished under this section, and any other information derived from such furnished information, to a duly recognized law enforcement entity in connection with a criminal investigation or prosecution, when such information is requested in writing by such entity, or to an official coroner for purposes of affirmatively identifying a deceased individual (whether or not such individual is deceased as a result of a crime).
+&emsp;&emsp;The Attorney General shall provide information furnished under this section, and anyother information derived from such furnished information, to a duly recognized law enforcement entity in connection with a criminal investigation or prosecution, when such information is requested in writing by such entity, or to an official coroner for purposes of affirmatively identifying a deceased individual (whether or not such individual is deceased as a result of a crime).
 
 #### (C) Construction
 
@@ -208,7 +208,7 @@
 
 &emsp;No application fees collected by the Service pursuant to this subsection may be used by the Service to offset the costs of the special agricultural worker legalization program until the Service implements the program consistent with the statutory mandate as follows:
 
-&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization, and provide an “employment authorized” endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status undersubsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
+&emsp;&emsp;(A) During the application period described in subsection (a)(1)(A) of this section the Service may grant temporary admission to the United States, work authorization, and provide an “employment authorized” endorsement or other appropriate work permit to any alien who presents a preliminary application for adjustment of status under subsection (a) of this section at a designated port of entry on the southern land border. An alien who does not enter through a port of entry is subject to deportation and removal as otherwise provided in this chapter.
 
 &emsp;&emsp;(B) During the application period described in subsection (a)(1)(A) of this section any alien who has filed an application for adjustment of status within the United States as provided in subsection (b)(1)(A) of this section pursuant to the provision of 8 CFR section 210.1(j) is subject to paragraph (2) of this subsection.
 
@@ -252,7 +252,7 @@ For all purposes (subject to subsections (a)(5) and (f) of this section) an alie
 
 In this section, the term “seasonal agricultural services” means the performance of field work related to planting, cultural practices, cultivating, growing and harvesting of fruits and vegetables of every kind and other perishable commodities, as defined in regulations by the Secretary of Agriculture.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §210, as added Nov. 6, 1986, Pub. L. 99–603, title III, §302(a)(1), 100 Stat. 3417; amended Dec. 22, 1987, Pub. L. 100–202, §101(a) \[title II, §211\], 101 Stat. 1329, 1329–18; Oct. 24, 1988, Pub. L. 100–525, §2(m), 102 Stat. 2613; Dec. 18, 1989, Pub. L. 101–238, §4, 103 Stat. 2103; Nov. 29, 1990, Pub. L. 101–649, title VI, §603(a)(5), 104 Stat. 5082; Dec. 12, 1991, Pub. L. 102–232, title III, §§307(j), 309(b)(6), 105 Stat. 1756, 1758; Oct. 25, 1994, Pub. L. 103–416, title II, §219(d), (z)(7), 108 Stat. 4316, 4318; Apr. 24, 1996, Pub. L. 104–132, title IV, §431(b), 110 Stat. 1273; Aug. 22, 1996, Pub. L. 104–193, title I, §110(s)(1), 110 Stat. 2175; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), 384(d)(1), title VI, §623(b), 110 Stat. 3009–622, 3009–653, 3009–697.)
+(June 27, 1952, ch. 477, title II, ch. 1, §210, as added Nov. 6, 1986, Pub. L. 99–603, title III, §302(a)(1), 100 Stat. 3417; amended Dec. 22, 1987, Pub. L. 100–202, §101(a) \[title II, §211\], 101 Stat. 1329, 1329–18; Oct. 24, 1988, Pub. L. 100–525, §2(m),102 Stat. 2613; Dec. 18, 1989, Pub. L. 101–238, §4, 103 Stat. 2103; Nov. 29, 1990, Pub. L. 101–649, title VI, §603(a)(5), 104 Stat. 5082; Dec. 12, 1991, Pub. L. 102–232, title III, §§307(j), 309(b)(6), 105 Stat. 1756, 1758; Oct. 25, 1994, Pub. L. 103–416, title II, §219(d), (z)(7), 108 Stat. 4316, 4318; Apr. 24, 1996, Pub. L. 104–132, title IV, §431(b), 110 Stat. 1273; Aug. 22, 1996, Pub. L. 104–193, title I, §110(s)(1), 110 Stat. 2175; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§308(g)(2)(B), 384(d)(1), title VI, §623(b), 110 Stat. 3009–622, 3009–653, 3009–697.)
 
 #### References in Text
 
@@ -322,7 +322,7 @@ Amendment by section 308(g)(2)(B) of Pub. L. 104–208 effective, with certain t
 
 Section 384(d)(2) of div. C of Pub. L. 104–208 provided that: “The amendments made by this subsection \[amending this section and section 1255a of this title\] shall apply to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
@@ -344,9 +344,9 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 
 #### Commission on Agricultural Workers
 
-Section 304 of Pub. L. 99–603, as amended by Pub. L. 101–649, title VII, §704, Nov. 29, 1990, 104 Stat. 5086; Pub.L. 102–232, title III, §308(c), Dec. 12, 1991, 105 Stat. 1757, established Commission on Agricultural Workers to evaluate special agricultural worker provisions and labor markets in agricultural industry, required Commission to report to Congress not later than six years after Nov. 6, 1986, on its reviews, and provided that Commission terminate at the end of the 75-month period beginning with the month after November 1986.
+Section 304 of Pub. L. 99–603, as amended by Pub. L. 101–649, title VII, §704, Nov. 29, 1990, 104 Stat. 5086; Pub. L. 102–232, title III, §308(c), Dec. 12, 1991, 105 Stat. 1757, established Commission on Agricultural Workers to evaluate special agricultural worker provisions and labor markets in agricultural industry, required Commission to report to Congress not later than six years after Nov. 6, 1986, on its reviews, and provided that Commission terminate at the end of the 75-month period beginning with the month after November 1986.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1151, 1182, 1255, 1324b of this title; title 42 sections 408, 602, 672.
+This section is referred to in sections 1151, 1255, 1324b of this title; title 42 sections 408, 672.
 

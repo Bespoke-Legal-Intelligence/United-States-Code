@@ -6,7 +6,7 @@ Maximum Manufacturer Costs.—A standard under section 33102 or 33103 of this ti
 
 &emsp;(1) on a manufacturer of motor vehicles, compliance costs of more than $15 a motor vehicle; or
 
-&emsp;(2) on a manufacturer of major replacement parts, compliance costs for each part of more than the reasonable amount (but less than $15)that the Secretary of Transportation specifies in the standard.
+&emsp;(2) on a manufacturer of major replacement parts, compliance costs for each part of more than the reasonable amount (but less than $15) that the Secretary of Transportation specifies in the standard.
 
 (b)
 

@@ -6,23 +6,51 @@ There shall be, within the National Endowment for the Arts, a National Council o
 
 #### (b) Appointment and composition of Council
 
-The Council shall be composed of the Chairperson of the National Endowment for the Arts, who shall be Chairperson of the Council, and twenty-six other members appointed by the President, by and with the advice and consent of the Senate, who shall be selected—
+(1) The Council shall be composed of members as follows:
 
-&emsp;(1) from among private citizens of the United States who (A) are widely recognized for their broad knowledge of, or expertise in, or for their profound interest in, the arts and (B) have established records of distinguished service, or achieved eminence, in the arts;
+&emsp;(A) The Chairperson of the National Endowment for the Arts, who shall be the chairperson of the Council.
 
-&emsp;(2) so as to include practicing artists, civic cultural leaders, members of the museum profession, and others who are professionally engaged in the arts; and
+&emsp;(B) Members of Congress appointed for a 2-year term beginning on January 1 of each odd-numbered year as follows:
 
-&emsp;(3) so as collectively to provide an appropriate distribution of membership among the major art fields.
+&emsp;&emsp;(i) Two Members of the House of Representatives appointed by the Speaker of the House of Representatives.
 
-> The President is requested, in the making of such appointments, to give consideration to such recommendations as may, from time to time, be submitted to the President by leading national organizations in these fields. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts. Members of the Council shall be appointed so as to represent equitably all geographical areas in the United States.
+&emsp;&emsp;(ii) One Member of the House of Representatives appointed by the Minority Leader of the House of Representatives.
+
+&emsp;&emsp;(iii) One Senator appointed by the Majority Leader of the Senate.
+
+&emsp;&emsp;(iv) One Senator appointed by the Minority Leader of the Senate.
+
+> &emsp;Members of the Council appointed under this subparagraph shall serve ex officio and shall be nonvoting members of the Council.
+
+&emsp;(C) 14 members appointed by the President, by and with the advice and consent of the Senate, who shall be selected—
+
+&emsp;&emsp;(i) from among private citizens of the United States who—
+
+&emsp;&emsp;&emsp;(I) are widely recognized for their broad knowledge of, or expertise in, or for their profound interest in the arts; and
+
+&emsp;&emsp;&emsp;(II) have established records of distinguished service, or achieved eminence, in the arts;
+
+&emsp;&emsp;(ii) so as to include practicing artists, civic cultural leaders, members of the museum profession, and others who are professionally engaged in the arts; and
+
+&emsp;&emsp;(iii) so as collectively to provide an appropriate distribution of membership among major art fields and interested citizens groups.
+
+> In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts and shall make such appointments so as to represent equitably all geographical areas in the United States.
+
+(2)
+
+Transition to the new council composition.—
+
+&emsp;(A) Notwithstanding subsection (b)(1)(B) of this section, members first appointed pursuant to such subsection shall be appointed not later than December 31, 1997. Notwithstanding such subsection, such members shall be appointed to serve until December 31, 1998.
+
+&emsp;(B) Members of the Council serving on the effective date of this subsection may continue to serve on the Council until their current terms expire and new members shall not be appointed under subsection (b)(1)(C) of this section until the number of Presidentially appointed members is less than 14.
 
 #### (c) Terms of office; vacancies
 
-Each member shall hold office for a term of six years, and the terms of office shall be staggered. The terms of office of all Council members shall expire on the third day of September in the year of expiration. No member shall be eligible for reappointment during the two-year period following the expiration of such member's term. Any member appointed to fill a vacancy shall serve for the remainder of the term for which such member's predecessor was appointed. Notwithstanding any other provision of this subsection, a member shall serve after the expiration of such member's term until such member's successor takes office.
+Each member appointed under subsection (b)(1)(C) of this section shall hold office for a term of six years, and the terms of office shall be staggered. The terms of office of all Council members appointed under subsection (b)(1)(C) of this section shall expire on the third day of September in the year of expiration. No member appointed under subsection (b)(1)(C) of this section shall be eligible for reappointment during the two-year period following the expiration of such member's term. Any member appointed under subsection (b)(1)(C) of this section appointed <sup>1</sup> to fill a vacancy shall serve for the remainder of the term for which such member's predecessor was appointed. Notwithstanding any other provision of this subsection, a member appointed under subsection (b)(1)(C) of this section shall serve after the expiration of such member's term until such member's successor takes office.
 
 #### (d) Meetings of Council; quorum; written records
 
-(1) The Council shall meet at the call of the Chairperson but not less often than twice during each calendar year. Fourteen members of the Council shall constitute a quorum. All policy meetings of the Council shall be open to the public.
+(1) The Council shall meet at the call of the Chairperson but not less often than twice during each calendar year. Eight members of the Council shall constitute a quorum. All policy meetings of the Council shall be open to the public.
 
 (2) The Council shall—
 
@@ -48,9 +76,27 @@ The Council shall advise the Chairperson with respect to policies, programs, and
 
 > The Chairperson shall not approve or disapprove any such application until the Chairperson has received the recommendation of the Council on such application. The Chairperson shall have final authority to approve each application, except that the Chairperson may only provide to an applicant the amount of financial assistance recommended by the Council and may not approve an application with respect to which the Council makes a negative recommendation. In the case of an application involving $30,000, or less, the Chairperson may approve or disapprove such request if such action is taken pursuant to the terms of an expressed and direct delegation of authority from the Council to the Chairperson, and provided that each such action by the Chairperson shall be reviewed by the Council, and that such action shall be used with discretion and shall not become a normal practice of providing assistance under such subsections, except that the terms of any such delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year pursuant to subparagraph (A) of paragraph (1) of section 960(a) of this title.
 
-(Pub. L. 89–209, §6, Sept. 29, 1965, 79 Stat. 849; Pub. L. 90–348, §4, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §5(b), July 20, 1970, 84 Stat. 444; Pub. L. 93–133, §2(a)(5), Oct. 19, 1973, 87 Stat. 463; Pub. L. 94–462, title I, §103(a), Oct. 8, 1976, 90 Stat. 1971; Pub. L. 96–496, title I, §103, Dec. 4, 1980, 94 Stat. 2584; renumbered title I, §6, and amended Pub. L. 98–306, §§2, 5(a), May 31, 1984, 98 Stat. 223, 224; renumbered §6 and amended Pub. L. 99–194, title I, §§101(1), 106, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §106\], Nov. 5, 1990, 104 Stat. 1960, 1968.)
+(Pub. L. 89–209, §6, Sept. 29, 1965, 79 Stat. 849; Pub. L. 90–348, §4, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §5(b), July 20, 1970, 84 Stat. 444; Pub. L. 93–133, §2(a)(5), Oct. 19, 1973, 87 Stat. 463; Pub. L. 94–462, title I, §103(a), Oct. 8, 1976, 90 Stat. 1971; Pub. L. 96–496, title I, §103, Dec. 4, 1980, 94 Stat. 2584; renumbered title I, §6, and amended Pub. L. 98–306, §§2, 5(a), May 31, 1984, 98 Stat. 223, 224; renumbered §6 and amended Pub. L. 99–194, title I, §§101(1), 106, Dec. 20, 1985, 99 Stat. 1332, 1335; Pub. L. 101–512, title III, §318 \[title I, §106\], Nov. 5, 1990, 104 Stat. 1960, 1968; Pub. L. 105–83, title III, §346(e), (f), Nov. 14, 1997, 111 Stat. 1605, 1606; Pub. L. 105–119, title VI, §624, Nov. 26, 1997, 111 Stat. 2522.)
+
+#### References in Text
+
+The effective date of this subsection, referred to in subsec. (b)(2)(B), probably means Nov. 14, 1997, the date of enactment of Pub. L. 105–83 which amended subsec. (b) of this section generally.
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–83, §346(e), inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The Council shall be composed of the Chairperson of the National Endowment for the Arts, who shall be Chairperson of the Council, and twenty-six other members appointed by the President, by and with the advice and consent of the Senate, who shall be selected—
+
+&emsp;“(1) from among private citizens of the United States who (A) are widely recognized for their broad knowledge of, or expertise in, or for their profound interest in, the arts and (B) have established records of distinguished service, or achieved eminence, in the arts;
+
+&emsp;“(2) so as to include practicing artists, civic cultural leaders, members of the museum profession, andothers who are professionally engaged in the arts; and
+
+&emsp;“(3) so as collectively to provide an appropriate distribution of membership among the major art fields.
+
+> The President is requested, in the making of such appointments, to give consideration to such recommendations as may, from time to time, be submitted to the President by leading national organizations in these fields. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the arts. Members of the Council shall be appointed so as to represent equitably all geographical areas in the United States.”
+
+Subsec. (c). Pub. L. 105–83, §346(f), inserted “appointed under subsection (b)(1)(C) of this section” after “member” wherever appearing and after “all Council members” in second sentence.
+
+Subsec. (d)(1). Pub. L. 105–119, which directed the substitution of “eight” for “fourteen”, was executed by substituting “Eight” for “Fourteen” to reflect the probable intent of Congress.
 
 1990—Subsec. (b). Pub. L. 101–512, §318 \[title I, §106(a)\], inserted at end “Members of the Council shall be appointed so as to represent equitably all geographical areas in the United States.”
 
@@ -109,4 +155,6 @@ Section 5(d)(2) of Pub. L. 91–346 provided that: “Members appointed to the N
 #### Section Referred to in Other Sections
 
 This section is referred to in section 959 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -4,7 +4,7 @@
 
 (b) The Postal Service may permit the transmission in the mails, under such rules and regulations as it shall prescribe as to preparation and packing, of any such articles which are not outwardly or of their own force dangerous or injurious to life, health, or property.
 
-(c) The Postal Service is authorized and directed to permit the transmission in the mails, under regulations to be prescribed by it, of live scorpions which are to be used for purposes of medical research or for the manufacture of antivenom. Such regulations shall include such provisions with respect to the packaging of such live scorpions for transmission in the mails as the Postal Service deems necessary or desirable for the protection of Postal Service personnel and of the public generally and for ease of handling by such personnel and by any individual connected with such research or manufacture. Nothing contained in this paragraph shall beconstrued to authorize the transmission in the mails of live scorpions by means of aircraft engaged in the carriage of passengers for compensation or hire.
+(c) The Postal Service is authorized and directed to permit the transmission in the mails, under regulations to be prescribed by it, of live scorpions which are to be used for purposes of medical research or for the manufacture of antivenom. Such regulations shall include such provisions with respect to the packaging of such live scorpions for transmission in the mails as the Postal Service deems necessary or desirable for the protection of Postal Service personnel and of the public generally and for ease of handling by such personnel and by any individual connected with such research or manufacture. Nothing contained in this paragraph shall be construed to authorize the transmission in the mails of live scorpions by means of aircraft engaged in the carriage of passengers for compensation or hire.
 
 (d) The transmission in the mails of poisonous drugs and medicines may be limited by the Postal Service to shipments of such articles from the manufacturer thereof or dealer therein to licensed physicians, surgeons, dentists, pharmacists, druggists, cosmetologists, barbers, and veterinarians under such rules and regulations as it shall prescribe.
 
@@ -20,7 +20,7 @@
 
 &emsp;(3) to supply or procurement officers or employees of any State, or any political subdivision of a State or Territory, ordering, procuring, or purchasing such knives in connection with the activities of such government; and
 
-&emsp;(4) to manufacturers of such knives or bona fide dealers therein in connection with any shipment made pursuant to an order from any person designated in paragraphs (1), (2), and (3).
+&emsp;(4) to manufacturers of such knives or bona fide dealers therein in connection with any shipment made pursuant to an order from anyperson designated in paragraphs (1), (2), and (3).
 
 > The Postal Service may require, as a condition of conveying any such knife in the mails, that any person proposing to mail such knife explain in writing to the satisfaction of the Postal Service that the mailing of such knife will not be in violation of this section.
 

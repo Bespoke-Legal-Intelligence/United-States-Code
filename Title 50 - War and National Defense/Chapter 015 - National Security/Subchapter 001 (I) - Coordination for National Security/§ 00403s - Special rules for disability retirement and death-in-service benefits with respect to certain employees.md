@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, in the case of an officer or employe
 
 The annuities provided under subsections (a) and (b) of this section shall be deemed to be annuities under chapter 83 of title 5 for purposes of the other provisions of such chapter and other laws (including title 26) relating to such annuities, and shall be payable from the Central Intelligence Agency Retirement and Disability Fund maintained pursuant to section 2012 of this title.
 
-(June 20, 1949, ch. 227, §19, as added Nov. 30, 1989, Pub. L. 101–193, title III, §307(a), 103 Stat. 1705; amended Oct. 24, 1992, Pub. L. 102–496, title VIII, §803(a)(3), 106 Stat. 3252; Dec. 3, 1993, Pub. L. 103–178, title V, §501(3), 107 Stat. 2038.)
+(June 20, 1949, ch. 227, §19, as added Pub. L. 101–193, title III, §307(a), Nov. 30, 1989, 103 Stat. 1705; amended Pub. L. 102–496, title VIII, §803(a)(3), Oct. 24, 1992, 106 Stat. 3252; Pub. L. 103–178, title V, §501(3), Dec. 3, 1993, 107 Stat. 2038.)
 
 #### Codification
 

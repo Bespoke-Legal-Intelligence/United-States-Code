@@ -2,7 +2,7 @@
 
 #### (a) Nationals of United States; charge on property
 
-A claim under section 1645b of this title based upon an ownership interest in any corporation, association, or other entity which is a national of the United States may not be considered. A claim under section 1645b of this title based upon a debt or other obligation owing by any corporation, association, or other entity organized under the laws of the United States, or of any State, the District of Columbia, or the Commonwealth of Puerto Rico may be considered only if such debt or other obligation is a chargeon property which has been nationalized, expropriated, or otherwise taken by Vietnam.
+A claim under section 1645b of this title based upon an ownership interest in any corporation, association, or other entity which is a national of the United States may not be considered. A claim under section 1645b of this title based upon a debt or other obligation owing by any corporation, association, or other entity organized under the laws of the United States, or of any State, the District of Columbia, or the Commonwealth of Puerto Rico may be considered only if such debt or other obligation is a charge on property which has been nationalized, expropriated, or otherwise taken by Vietnam.
 
 #### (b) Direct ownership
 
@@ -16,5 +16,5 @@ A claim under section 1645b of this title based upon an indirect ownership inter
 
 The amount of any claim covered by subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by the corporation, association, or other entity, with respect to which the claim is made, and shall bear the same proportion to such loss as the ownership interest of the claimant at the time of loss bears to the entire ownership interest thereof.
 
-(Mar. 10, 1950, ch. 54, title VII, §705, as added Dec. 28, 1980, Pub. L. 96–606, 94 Stat. 3535.)
+(Mar. 10, 1950, ch. 54, title VII, §705, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3535.)
 

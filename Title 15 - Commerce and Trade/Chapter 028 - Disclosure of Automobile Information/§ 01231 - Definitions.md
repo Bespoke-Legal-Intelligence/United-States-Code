@@ -14,7 +14,7 @@ For purposes of this chapter—
 
 (f) The term “final assembly point” means—
 
-&emsp;(1) in the case of a new automobile manufactured or assembled in the United States, or in any Territory of the United States, the plant, factory, or other place at which a new automobile is produced or assembled by a manufacturer and from which such automobile is delivered to a dealer in such a condition that all component parts necessary to the mechanical operation of such automobile are included with such automobile, whether or not such component parts are permanently installed in or on such automobile; and
+&emsp;(1) in the case of a new automobile manufactured or assembled in the United States, or in any Territory of the United States, the plant, factory, or other place at which a new automobile is produced or assembled by a manufacturer and from which such automobile is delivered to a dealer in such a condition that all component parts necessary to the mechanical operation of such automobile are includedwith such automobile, whether or not such component parts are permanently installed in or on such automobile; and
 
 &emsp;(2) in the case of a new automobile imported into the United States, the port of importation.
 

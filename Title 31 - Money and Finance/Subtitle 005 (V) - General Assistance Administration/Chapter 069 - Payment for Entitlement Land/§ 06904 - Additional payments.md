@@ -10,7 +10,7 @@
 
 &emsp;(2) was subject to local real property taxes within the 5-year period before the interest is acquired.
 
-(b) The Secretary shall make payments only for the 5 fiscal years after the fiscal year in which the interest in land is acquired. Under guidelines the Secretary prescribes, the unit of general local government receiving the payment from the Secretary shall distribute paymentsproportionally to units and school districts that lost real property taxes because of the acquisition of the interest. A unit receiving a distribution may use a payment for any governmental purpose.
+(b) The Secretary shall make payments only for the 5 fiscal years after the fiscal year in which the interest in land is acquired. Under guidelines the Secretary prescribes, the unit of general local government receiving the payment from the Secretary shall distribute payments proportionally to units and school districts that lost real property taxes because of the acquisition of the interest. A unit receiving a distribution may use a payment for any governmental purpose.
 
 (c) Each yearly payment by the Secretary under this section is equal to one percent of the fair market value of the interest in land on the date the Government acquires the interest. However, a payment may not be more than the amount of real property taxes levied on the property during the last fiscal year before the fiscal year in which the interest is acquired. A decision on fair market value under this section may not include an increase in the value of an interest because the land is rezoned when the rezoning causes the increase after the date of enactment of a law authorizing the acquisition of an interest under subsection (a) of this section.
 
@@ -56,7 +56,7 @@ In subsection (a), before clause (1), the words “the Secretary of the Interior
 
 In subsection (b), the words “The Secretary shall make payments only for the 5 fiscal years after the fiscal year in which the interest in land is acquired” are substituted for 31:1603(b)(1st sentence) and (d) to eliminate unnecessary words. The words “affected” and “for addition to either such systems” are omitted as surplus. The words “receiving a distribution” are added for clarity.
 
-In subsection (c), the words “The amount of . . . made . . . fiscal . . . to any unit of local government and affected school districts” are omitted as surplus. The words “by the Secretary” are added for clarity. The words “made for any fiscal year to a unit of local government under subsection (a) of this section”, “assessed and”, “full”, and “for addition to the National Park System or National Forest Wilderness Areas” are omitted as surplus.
+In subsection (c), the words “The amount of . . . made . . . fiscal . . . to any unit of local government and affected school districts” are omitted as surplus. The words “by the Secretary” are added for clarity.The words “made for any fiscal year to a unit of local government under subsection (a) of this section”, “assessed and”, “full”, and “for addition to the National Park System or National Forest Wilderness Areas” are omitted as surplus.
 
 #### Section Referred to in Other Sections
 

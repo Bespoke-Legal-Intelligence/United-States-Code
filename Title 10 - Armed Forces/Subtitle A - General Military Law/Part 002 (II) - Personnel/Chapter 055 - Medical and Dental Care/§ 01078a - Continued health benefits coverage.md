@@ -40,7 +40,7 @@ Notification of Eligibility.—(1) The Secretary of Defense shall prescribe regu
 
 (3) In the case of a dependent of a member or former member who becomes eligible for continued coverage under subsection (b)(2), the regulations shall provide that—
 
-&emsp;(A) the member or former member may submit to the Secretary concerned a written notice of the dependent's change in status (including the dependent's name, address, andsuch other information as the Secretary of Defense may require); and
+&emsp;(A) the member or former member may submit to the Secretary concerned a written notice of the dependent's change in status (including the dependent's name, address, and such other information as the Secretary of Defense may require); and
 
 &emsp;(B) the Secretary concerned shall, within 14 days after receiving that notice, inform the dependent of the dependent's rights under this section.
 
@@ -114,15 +114,13 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 &emsp;(iii)(I) who is receiving any portion of the retired or retainer pay of the member or former member or an annuity based on the retired or retainer pay of the member; or
 
-&emsp;(II) for whom a court order (as defined in section 1408(a)(2) of this title) has been issued for payment of any portion of the retired or retainer pay or for whom a court order (as defined in section 1447(8) <sup>1</sup> of this title) or a written agreement (whether voluntary or pursuant to a court order) provides for an election by the member or former member to provide an annuity to the former spouse.
+&emsp;(II) for whom a court order (as defined in section 1408(a)(2) of this title) has been issued for payment of any portion of the retired or retainer pay or for whom a court order (as defined in section 1447(13) of this title) or a written agreement (whether voluntary or pursuant to a court order) provides for an election by the member or former member to provide an annuity to the former spouse.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, §201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, §702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, §1074(a)(4), Sept. 23, 1996, 110 Stat. 2658.)
-
-#### References in Text
-
-Section 1447(8) of this title, referred to in subsec. (g)(4)(B)(iii)(II), was subsequently amended, and section 1447(8) no longer defines the term “court order”. However, such term is defined elsewhere in that section.
+(Added Pub. L. 102–484, div. D, title XLIV, §4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, §201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, §702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, §1074(a)(4), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(a)(17), Nov. 18, 1997, 111 Stat. 1901.)
 
 #### Amendments
+
+1997—Subsec. (g)(4)(B)(iii)(II). Pub. L. 105–85 substituted “section 1447(13)” for “section 1447(8)”.
 
 1996—Subsec. (a). Pub. L. 104–201 substituted “The Secretary” for “Beginning on October 1, 1994, the Secretary”.
 
@@ -141,6 +139,4 @@ Subsec. (g)(2). Pub. L. 103–337, §702(c)(6), substituted “dependent” for 
 1993—Subsec. (b)(3)(C). Pub. L. 103–35, §201(g)(1)(A), substituted “subparagraph” for “subparagraphs” after “member under”.
 
 Subsec. (d)(2)(A). Pub. L. 103–35, §201(g)(1)(B), inserted “under” after “coverage”.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

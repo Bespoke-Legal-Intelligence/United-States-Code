@@ -16,7 +16,7 @@
 
 &emsp;(4) willfully and knowingly to engage in any act of physical violence against any person or property in any building, grounds, or area designated or enumerated in paragraph (1).
 
-(b) Violation of this section, and attempts or conspiracies to commit such violations, shall be punishable by a fine under this title or imprisonment not exceeding six months, or both.
+(b) Violation of this section, and attempts or conspiracies to commit such violations, shall bepunishable by a fine under this title or imprisonment not exceeding six months, or both.
 
 (c) Violation of this section, and attempts or conspiracies to commit such violations, shall be prosecuted by the United States attorney in the Federal district court having jurisdiction of the place where the offense occurred.
 

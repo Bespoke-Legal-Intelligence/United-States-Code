@@ -4,9 +4,9 @@ A preference eligible who receives a passing grade in an examination for entranc
 
 &emsp;(1) a preference eligible under section 2108(3)(C)–(G) of this title—10 points; and
 
-&emsp;(2) a preference eligible under section 2108(3)(A) of this title—5 points.
+&emsp;(2) a preference eligible under section 2108(3)(A)–(B) of this title—5 points.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 90–83, §1(8), Sept. 11, 1967, 81 Stat. 197.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 90–83, §1(8), Sept. 11, 1967, 81 Stat. 197; Pub. L. 105–85, div. A, title XI, §1102(b), Nov. 18, 1997, 111 Stat. 1922.)
 
 Historical and Revision Notes
 
@@ -43,6 +43,8 @@ The word “competitive” is added before “service” for clarity. Applicatio
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+1997—Par. (2). Pub. L. 105–85 substituted “section 2108(3)(A)–(B)” for “section 2108(3)(A)”.
 
 1967—Cl. (1). Pub. L. 90–83 substituted “section 2108(3)(C)–(G)” for “section 2108(3)(B)–(F).” See Historical and Revision Notes under section 3305 of this title.
 

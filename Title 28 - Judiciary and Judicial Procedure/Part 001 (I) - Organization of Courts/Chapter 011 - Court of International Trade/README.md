@@ -4,11 +4,12 @@
 | :--- | ---: |
 | [251\.](%C2%A7%2000251%20-%20Appointment%20and%20number%20of%20judges%3B%20offices.md) | Appointment and number of judges; offices. |
 | [252\.](%C2%A7%2000252%20-%20Tenure%20and%20salaries%20of%20judges.md) | Tenure and salaries of judges. |
-| [253\.](%C2%A7%2000253%20-%20Duties%20of%20chief%20judge%3B%20precedence%20of%20judges.md) | Duties of chief judge; precedence of judges. |
+| [253\.](%C2%A7%2000253%20-%20Duties%20of%20chief%20judge.md) | Duties of chief judge. |
 | [254\.](%C2%A7%2000254%20-%20Single-judge%20trials.md) | Single-judge trial. |
 | [255\.](%C2%A7%2000255%20-%20Three-judge%20trials.md) | Three-judge trials. |
 | [256\.](%C2%A7%2000256%20-%20Trials%20at%20ports%20other%20than%20New%20York.md) | Trials at ports other than New York. |
 | [257\.](%C2%A7%2000257%20-%20Publication%20of%20decisions.md) | Publication of decisions. |
+| [258\.](%C2%A7%2000258%20-%20Chief%20judges%3B%20precedence%20of%20judges.md) | Chief judges; precedence of judges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,9 +41,11 @@ R.S. §2727 fixed the salary of the four general appraisers at the sum of $2,500
 
 #### Amendments
 
-1980—Pub. L. 96–417, title V, §501(2), Oct. 10, 1980, 94 Stat. 1742, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in chapter heading.
+<b>1996</b>—Pub. L. 104–317, title V, §501(b)(3), Oct. 19, 1996, 110 Stat. 3856, substituted “Duties of chief judge” for “Duties of chief judge; precedence of judges” in item 253 and added item 258.
 
-1970—Pub. L. 91–271, title I, §123(a), June 2, 1970, 84 Stat. 282, substituted “Single-judge trial” for “Divisions; powers and assignments” in item 254, and “Three-judge trials” for “Publication of decisions” in item 255, and added items 256 and 257.
+<b>1980</b>—Pub. L. 96–417, title V, §501(2), Oct. 10, 1980, 94 Stat. 1742, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in chapter heading.
+
+<b>1970</b>—Pub. L. 91–271, title I, §123(a), June 2, 1970, 84 Stat. 282, substituted “Single-judge trial” for “Divisions; powers and assignments” in item 254 and “Three-judge trials” for “Publication of decisions” in item 255 and added items 256 and 257.
 
 #### Rules of the United States Court of International Trade
 
@@ -59,8 +62,9 @@ Jurisdiction of Court of International Trade, see section 1581 et seq. of this t
 
 - [&sect; 00251 - Appointment and number of judges; offices](%C2%A7%2000251%20-%20Appointment%20and%20number%20of%20judges%3B%20offices.md)
 - [&sect; 00252 - Tenure and salaries of judges](%C2%A7%2000252%20-%20Tenure%20and%20salaries%20of%20judges.md)
-- [&sect; 00253 - Duties of chief judge; precedence of judges](%C2%A7%2000253%20-%20Duties%20of%20chief%20judge%3B%20precedence%20of%20judges.md)
+- [&sect; 00253 - Duties of chief judge](%C2%A7%2000253%20-%20Duties%20of%20chief%20judge.md)
 - [&sect; 00254 - Single-judge trials](%C2%A7%2000254%20-%20Single-judge%20trials.md)
 - [&sect; 00255 - Three-judge trials](%C2%A7%2000255%20-%20Three-judge%20trials.md)
 - [&sect; 00256 - Trials at ports other than New York](%C2%A7%2000256%20-%20Trials%20at%20ports%20other%20than%20New%20York.md)
 - [&sect; 00257 - Publication of decisions](%C2%A7%2000257%20-%20Publication%20of%20decisions.md)
+- [&sect; 00258 - Chief judges; precedence of judges](%C2%A7%2000258%20-%20Chief%20judges%3B%20precedence%20of%20judges.md)

@@ -2,11 +2,11 @@
 
 In cases where real estate has become the property of the United States, by conveyance, extent, or otherwise, in payment of a debt, and such debt is afterward fully paid in money, and the same has been received by the United States, the Administrator of General Services may release by deed or otherwise convey the same real estate to the debtor from whom it was taken, if he is living, or, if such debtor is dead, to his heirs or devisees, or such person as they may appoint: <i>Provided</i>, That this section shall not apply to real estate so acquired by the United States in payment of any debt arising under the internal-revenue laws.
 
-(R.S. §3751; May 10, 1934, ch. 277, §512(b), 48 Stat. 759; June 2, 1965, Pub. L. 89–30, §3, 79 Stat. 119.)
+(R.S. §3751; May 10, 1934, ch. 277, §512(b), 48 Stat. 759; Pub. L. 89–30, §3, June 2, 1965, 79 Stat. 119.)
 
 #### References in Text
 
-The internal revenue laws, referred to in text, are classified generally to Title 26, Internal Revenue Code.
+The internal-revenue laws, referred to in text, are classified generally to Title 26, Internal Revenue Code.
 
 #### Codification
 

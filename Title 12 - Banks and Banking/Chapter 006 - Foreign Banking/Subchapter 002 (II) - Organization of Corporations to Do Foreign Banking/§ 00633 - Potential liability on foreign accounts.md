@@ -14,7 +14,7 @@ A member bank shall not be required to repay any deposit made at a foreign branc
 
 The Board and the Comptroller of the Currency may jointly prescribe such regulations as they deem necessary to implement this section.
 
-(Dec. 23, 1913, ch. 6, §25C, as added Sept. 23, 1994, Pub. L. 103–325, title III, §326(a), 108 Stat. 2229.)
+(Dec. 23, 1913, ch. 6, §25C, as added Pub. L. 103–325, title III, §326(a), Sept. 23, 1994, 108 Stat. 2229.)
 
 #### Codification
 

@@ -26,7 +26,7 @@ In addition, the United States Information Agency may award program grants only 
 
 Funds appropriated for the United States Information Agency may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
 
-(Jan. 27, 1948, ch. 36, title VII, §705, as added Nov. 22, 1983, Pub. L. 98–164, title II, §214, 97 Stat. 1035; amended Aug. 16, 1985, Pub. L. 99–93, title II, §214(a), 99 Stat. 434; Dec. 22, 1987, Pub. L. 100–204, title II, §202, 101 Stat. 1372; Oct. 28, 1991, Pub. L. 102–138, title II, §202, 105 Stat. 692.)
+(Jan. 27, 1948, ch. 36, title VII, §705, as added Pub. L. 98–164, title II, §214, Nov. 22, 1983, 97 Stat. 1035; amended Pub. L. 99–93, title II, §214(a), Aug. 16, 1985, 99 Stat. 434; Pub. L. 100–204, title II, §202, Dec. 22, 1987, 101 Stat. 1372; Pub. L. 102–138, title II, §202, Oct. 28, 1991, 105 Stat. 692.)
 
 #### Amendments
 

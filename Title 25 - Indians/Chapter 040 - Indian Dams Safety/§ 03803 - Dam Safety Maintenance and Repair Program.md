@@ -68,7 +68,7 @@ Work authorized by this chapter shall be for the purpose of dam safety maintenan
 
 #### (g) Technical assistance
 
-To carry out the purposes of this chapter, the Secretary may obtain technical assistance on a nonreimbursable basis from other departments and agencies. Notwithstanding any such technical assistance, the Dam Safety Maintenanceand Repair Program established under subsection (a) of this section shall be under the direction and control of the Bureau.
+To carry out the purposes of this chapter, the Secretary may obtain technical assistance on a nonreimbursable basis from other departments and agencies. Notwithstanding any such technical assistance, the Dam Safety Maintenance and Repair Program established under subsection (a) of this section shall be under the direction and control of the Bureau.
 
 #### (h) Contract authority
 

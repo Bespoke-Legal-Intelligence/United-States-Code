@@ -8,5 +8,5 @@ Subject to the provisions of this subchapter, the Secretary of Defense (hereafte
 
 > unless such employment, detail, assignment, or access to classified information is clearly consistent with the national security.
 
-(Sept. 23, 1950, ch. 1024, title III, §301, as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 168.)
+(Sept. 23, 1950, ch. 1024, title III, §301, as added Pub. L. 88–290, Mar. 26, 1964, 78 Stat. 168.)
 

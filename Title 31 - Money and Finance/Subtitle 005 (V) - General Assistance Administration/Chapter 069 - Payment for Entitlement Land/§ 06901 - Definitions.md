@@ -10,7 +10,7 @@ In this chapter—
 
 &emsp;&emsp;(C) dedicated to the use of the Government for water resource development projects;
 
-&emsp;&emsp;(D) on which are located semi-active or inactive installations (except industrial installations) that the Secretary of the Army keeps for mobilization and for reserve component training;
+&emsp;&emsp;(D) on which are located semi-active or inactive installations (except industrial installations) that the Secretary of the Armykeeps for mobilization and for reserve component training;
 
 &emsp;&emsp;(E) that is a dredge disposal area under the jurisdiction of the Secretary of the Army;
 
@@ -20,7 +20,7 @@ In this chapter—
 
 &emsp;(2)(A) “unit of general local government” means—
 
-&emsp;&emsp;(i) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that—
+&emsp;&emsp;(i) a county (or parish), township, borough, or city (other than in Alaska) where the city is independent of any other unit of general local government, that—
 
 &emsp;&emsp;&emsp;(I) is within the class or classes of such political subdivision in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and
 
@@ -38,7 +38,7 @@ In this chapter—
 
 &emsp;(B) the term “governmental services” includes, but is not limited to, those services that relate to public safety, the environment, housing, social services, transportation, and governmental administration.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1031; Pub. L. 98–63, title I, §101(1), July 30, 1983, 97 Stat. 323; Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1775; Pub. L. 103–272, §4(f)(3), July 5, 1994, 108 Stat. 1364; Pub. L. 104–333, div. I, title X, §1033(a), Nov. 12, 1996, 110 Stat. 4239.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1031; Pub. L. 98–63, title I, §101(1), July 30, 1983, 97 Stat. 323; Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1775; Pub. L. 103–272, §4(f)(3), July 5, 1994, 108 Stat. 1364; Pub. L. 104–333, div. I, title X, §1033(a), Nov. 12, 1996, 110 Stat. 4239; Pub. L. 105–83, title III, §350, Nov. 14, 1997, 111 Stat. 1607.)
 
 Historical and Revision Notes
 
@@ -82,6 +82,8 @@ In clause (2), before subclause (A), the word “general” is added for consist
 
 #### Amendments
 
+1997—Par. (2)(A)(i). Pub. L. 105–83 inserted “(other than in Alaska)” after “borough, or city”.
+
 1996—Par. (2). Pub. L. 104–333 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘unit of general local government’ means:
 
 &emsp;“(A) a county (or parish), township, borough, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration;
@@ -98,7 +100,7 @@ In clause (2), before subclause (A), the word “general” is added for consist
 
 1988—Par. (2)(A). Pub. L. 100–446, as amended by Pub. L. 103–272, struck out “existing in Alaska on October 20, 1976” after “township, borough”.
 
-1983—Par. (2). Pub. L. 98–63 amended par. (2) generally, substituting in subpar. (A) “a county (or parish), township, borough existing in Alaska on October 20, 1976, or city where the city is independent of any other unit of general local government, that: (i) is within the class or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration” for “a county, city, township, borough existing in Alaska on October 20, 1976, or other political subdivision of a State that the Secretary of the Interior, on the same basis that the Secretary of Commerce uses for general statistical purposes, decides is a general purpose political subdivision of a State”; including the District of Columbia in definition; and excluding the Commonwealth of the Northern Mariana Islands from definition.
+1983—Par. (2). Pub. L. 98–63 amended par. (2) generally, substituting in subpar. (A) “a county (or parish), township, borough existing in Alaska on October 20, 1976, or city where the city is independent of any other unit of general local government, that: (i) is within theclass or classes of such political subdivisions in a State that the Secretary of the Interior, in his discretion, determines to be the principal provider or providers of governmental services within the State; and (ii) is a unit of general government as determined by the Secretary of the Interior on the basis of the same principles as were used on January 1, 1983, by the Secretary of Commerce for general statistical purposes. The term ‘governmental services’ includes, but is not limited to, those services that relate to public safety, environment, housing, social services, transportation, and governmental administration” for “a county, city, township, borough existing in Alaska on October 20, 1976, or other political subdivision of a State that the Secretary of the Interior, on the same basis that the Secretary of Commerce uses for general statistical purposes, decides is a general purpose political subdivision of a State”; including the District of Columbia in definition; and excluding the Commonwealth of the Northern Mariana Islands from definition.
 
 #### Effective Date of 1994 Amendment
 

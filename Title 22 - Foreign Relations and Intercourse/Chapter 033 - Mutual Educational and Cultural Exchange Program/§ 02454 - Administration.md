@@ -12,7 +12,7 @@ The President is authorized to employ such other personnel as he deems necessary
 
 #### (d) Extension of benefits
 
-For the purpose of performing functions under this chapter outside the United States, the Director of the United States Information Agency is authorized to provide that any person employed or assigned by a United States Government agency shall be entitled, except to the extent that the Director of the United States Information Agency may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the samebenefits as are provided by section 3950 of this title for individuals appointed to the Foreign Service.
+For the purpose of performing functions under this chapter outside the United States, the Director of the United States Information Agency is authorized to provide that any person employed or assigned by a United States Government agency shall be entitled, except to the extent that the Director of the United States Information Agency may specify otherwise in cases in which the period of employment or assignment exceeds thirty months, to the same benefits as are provided by section 3950 of this title for individuals appointed to the Foreign Service.
 
 #### (e) Grants; use of funds, counseling service; publicity and promotion abroad
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 #### Transfer of Functions
 
-“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsecs. (d) and (e)(1), (3), and (4), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Secretary of State” in subsec. (c) and for “President” in subsecs. (d), (e)(3), (4), pursuant to Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (e)(1), (2), (f), (g) of this section, sections 2452(b)(6), (10), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsec. (b) of this section and sections 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
+“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsecs. (d) and (e)(1), (3), and (4), pursuant to section 303(b) of Pub. L. 97–241, title III,Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Secretary of State” in subsec. (c) and for “President” in subsecs. (d), (e)(3), (4), pursuant to Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (e)(1), (2), (f), (g) of this section, sections 2452(b)(6), (10), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsec. (b) of this section and sections 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
 For transfer of functions and offices (relating to education) of Secretary and Department of Health, Education, and Welfare to Secretary and Department of Education, and termination of certain offices and positions under Ex. Ord. No. 11034, June 25, 1962, as amended, set out under this section, see sections 3441 and 3503 of Title 20, Education.
 
@@ -126,7 +126,7 @@ Sec. 2. <i>United States Information Agency</i>. (a) Subject to the provisions o
 
 (d) The functions so conferred by Sections 104(d) and 108(c) and (d) of the Act \[subsec. (d) of this section and section 2458(c), (d) of this title\] to the extent that they pertain to the functions delegated by the foregoing provisions of this section.
 
-Sec. 3. <i>Department of Commerce</i>. Subject to the provisions of Section 6 of this order, the following functions conferred upon the President by the Act are hereby delegated to the Secretary of Commerce:
+Sec. 3. <i>Department of Commerce</i>. Subject to the provisions of Section 6 of this order, the following functionsconferred upon the President by the Act are hereby delegated to the Secretary of Commerce:
 
 (a) The functions so conferred by Section 102(a)(3) of the Act \[section 2452(a)(3) of this title\] to the extent that they are in respect of fairs, expositions, and demonstrations held in the United States.
 
@@ -224,7 +224,7 @@ Section 101. Executive Order No. 11034 of June 25, 1962 \[set out as a note abov
 
 (3) By adding a new paragraph at the end of section 8(a), reading as follows:
 
-“(15) Any provision of law or limitation of authority to the extent that such provision or limitation wouldlimit or prohibit (i) receipt of admission fees or payments under contracts through advances or otherwise, for concessions, services, space, or other consideration, and the credit of such receipts to the applicable appropriation, and (ii) rental or lease for periods not exceeding ten years of buildings and grounds.”
+“(15) Any provision of law or limitation of authority to the extent that such provision or limitation would limit or prohibit (i) receipt of admission fees or payments under contracts through advances or otherwise, for concessions, services, space, or other consideration, and the credit of such receipts to the applicable appropriation, and (ii) rental or lease for periods not exceeding ten years of buildings and grounds.”
 
 (4) By adding a new paragraph at the end of section 10, reading as follows:
 

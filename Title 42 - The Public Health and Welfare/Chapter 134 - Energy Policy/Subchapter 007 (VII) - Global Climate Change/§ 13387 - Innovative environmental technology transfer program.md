@@ -74,11 +74,11 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 &emsp;(3) consult with government officials in host countries and, as appropriate, with representatives of utilities or other entities in host countries, to determine interest in and support for potential projects; and
 
-&emsp;(4) determine whether each project selected under this section is developmentally sound, as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
+&emsp;(4) determine whether each project selected under this section is developmentally sound,as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
 
 #### (h) Eligible technologies
 
-Not later than 6 months after October 24, 1992, the Secretary shall prepare a list of eligible technologies and services under this section. In preparing such a list, the Secretary shall consider fuel cell powerplants, aeroderivitive gas turbines and catalytic combustion technologies for aeroderivitive gas turbines, ocean thermalenergy conversion technology, anaerobic digester and storage tanks, and other renewable energy and energy efficiency technologies.
+Not later than 6 months after October 24, 1992, the Secretary shall prepare a list of eligible technologies and services under this section. In preparing such a list, the Secretary shall consider fuel cell powerplants, aeroderivitive gas turbines and catalytic combustion technologies for aeroderivitive gas turbines, ocean thermal energy conversion technology, anaerobic digester and storage tanks, and other renewable energy and energy efficiency technologies.
 
 #### (i) Selection of projects
 

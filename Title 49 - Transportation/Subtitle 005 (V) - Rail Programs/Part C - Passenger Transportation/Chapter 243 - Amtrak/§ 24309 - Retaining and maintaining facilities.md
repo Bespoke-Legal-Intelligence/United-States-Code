@@ -10,7 +10,7 @@ Definitions.—In this section—
 
 (b)
 
-Approval Required for Downgrading or Disposal.—A facility of a rail carrier or regional transportation authority that Amtrak used to provide rail passenger transportation on February 1, 1979, may be downgraded or disposed of only after approval by the Secretary of Transportation under this section.
+Approval Required for Downgrading or Disposal.—A facility of a rail carrier or regional transportation authority that Amtrak used to provide rail passenger transportation on February 1, 1979, or on January 1, 1997, may be downgraded or disposed of only after approval by the Secretary of Transportation under this section.
 
 (c)
 
@@ -52,7 +52,7 @@ Approval of Application and Payment of Avoidable Costs.—(1) If Amtrak does not
 
 Compliance With Other Obligations.—Downgrading or disposing of a facility under this section does not relieve a rail carrier from complying with its other common carrier or legal obligations related to the facility.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 913.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 913; Pub. L. 105–134, title I, §162, Dec. 2, 1997, 111 Stat. 2578.)
 
 Historical and Revision Notes
 
@@ -105,4 +105,8 @@ In subsection (c)(2), before clause (A), the words “need for the” are added 
 In subsection (d)(2), before clause (A), the word “timely” is omitted as surplus. In clause (F), the words “rail line” are substituted for “lines of railroad” for consistency in the revised title and with other titles of the Code.
 
 In subsection (e), the words “approval of” are omitted as surplus.
+
+#### Amendments
+
+1997—Subsec. (b). Pub. L. 105–134 inserted “or on January 1, 1997,” after “1979,”.
 

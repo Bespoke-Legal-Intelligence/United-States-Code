@@ -64,7 +64,7 @@ Licensing standards.—A requirement that—
 
 &emsp;&emsp;&emsp;“(iii) any act, omission, or practice which constitutes a breach of a fiduciary duty; or
 
-&emsp;&emsp;&emsp;“(iv) any suspension or removal, by any agency or department of the United States or any State, from participation in the conduct of any federally or State licensed or regulated business,
+&emsp;&emsp;&emsp;“(iv) any suspension or removal, by any agency or department of the United States or any State,from participation in the conduct of any federally or State licensed or regulated business,
 
 &nbsp;&nbsp;may be grounds for the denial of any such license by the appropriate State agency.
 
@@ -180,7 +180,7 @@ Specific Requirements.—In conducting the study required under subsection (a), 
 
 &emsp;&emsp;“(B) what limits are to be imposed on the use of such information; and
 
-&emsp;&emsp;“(C) how information about activities or relationships which involve or are closely associated with the exercise of constitutional rights is to be screened out of the system; and
+&emsp;&emsp;“(C) how information about activities or relationships which involve or are closely associated withthe exercise of constitutional rights is to be screened out of the system; and
 
 &emsp;“(4) the extent to which the operating procedures established for the system provide for the prompt verification of the accuracy and completeness of information entered into the system and the prompt deletion or correction of inaccurate or incomplete information.
 

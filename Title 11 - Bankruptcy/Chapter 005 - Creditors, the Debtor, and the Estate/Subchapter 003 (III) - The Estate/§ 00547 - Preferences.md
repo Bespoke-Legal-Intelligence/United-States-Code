@@ -96,7 +96,7 @@
 
 (2) For the purposes of this section, except as provided in paragraph (3) of this subsection, a transfer is made—
 
-&emsp;(A) at the time such transfer takes effect between the transferor and the transferee, if such transfer is perfected at, or within 10 days after, such time, except as provided in subsection (c)(3)(B);
+&emsp;(A) at the time such transfer takes effect between the transferor and the transferee, if such transfer is perfected at, or within 10 daysafter, such time, except as provided in subsection (c)(3)(B);
 
 &emsp;(B) at the time such transfer is perfected, if such transfer is perfected after such 10 days; or
 
@@ -150,7 +150,7 @@ Subsection (b)(2) of this section in effect exempts from the preference rules pa
 
 Subsection (c) contains exceptions to the trustee's avoiding power. If a creditor can qualify under any one of the exceptions, then he is protected to that extent. If he can qualify under several, he is protected by each to the extent that he can qualify under each.
 
-The first exception is for a transfer that was intended by all parties to be a contemporaneous exchange for new value, and was in fact substantially contemporaneous. Normally, a check is a credit transaction. However, for the purposes of this paragraph, a transfer involving a check is considered to be “intended to be contemporaneous”, and if the check is presented for payment in the normal course of affairs, which the Uniform Commercial Code specifies as 30 days, U.C.C. §3–503(2)(a), that will amount to a transfer that is “in fact substantially contemporaneous.”
+The first exception is for a transfer that was intended by all parties to be a contemporaneous exchange fornew value, and was in fact substantially contemporaneous. Normally, a check is a credit transaction. However, for the purposes of this paragraph, a transfer involving a check is considered to be “intended to be contemporaneous”, and if the check is presented for payment in the normal course of affairs, which the Uniform Commercial Code specifies as 30 days, U.C.C. §3–503(2)(a), that will amount to a transfer that is “in fact substantially contemporaneous.”
 
 The second exception protects transfers in the ordinary course of business (or of financial affairs, where a business is not involved) transfers. For the case of a consumer, the paragraph uses the phrase “financial affairs” to include such nonbusiness activities as payment of monthly utility bills. If the debt on account of which the transfer was made was incurred in the ordinary course of both the debtor and the transferee, if the transfer was made not later than 45 days after the debt was incurred, if the transfer itself was made in the ordinary course of both the debtor and the transferee, and if the transfer was made according to ordinary business terms, then the transfer is protected. The purpose of this exception is to leave undisturbed normal financial relations, because it does not detract from the general policy of the preference section to discourage unusual action by either the debtor or his creditors during the debtor's slide into bankruptcy.
 

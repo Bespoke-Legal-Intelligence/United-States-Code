@@ -1,5 +1,5 @@
 
-22 U.S.C.<br>United States Code, 1996 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+22 U.S.C.<br>United States Code, 1997 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
@@ -11,7 +11,7 @@
 | [<b>4.</b>](Chapter%20004%20-%20Passports/README.md) | <b>Passports</b> | <b>211</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Preservation%20of%20Friendly%20Foreign%20Relations%20Generally/README.md) | <b>Preservation of Friendly Foreign Relations Generally \[Repealed or Transferred\]</b> | <b>231</b> |
 | [<b>6.</b>](Chapter%20006%20-%20Foreign%20Diplomatic%20and%20Consular%20Officers/README.md) | <b>Foreign Diplomatic and Consular Officers</b> | <b>251</b> |
-| <b>7.</b> | <b>International Bureaus, Congresses, etc.</b> | <b>261</b> |
+| [<b>7.</b>](Chapter%20007%20-%20International%20Bureaus%2C%20Congresses%2C%20Etc/README.md) | <b>International Bureaus, Congresses, etc.</b> | <b>261</b> |
 | [<b>8.</b>](Chapter%20008%20-%20Foreign%20Service%20Buildings/README.md) | <b>Foreign Service Buildings</b> | <b>291</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Foreign%20Wars%2C%20War%20Materials%2C%20and%20Neutrality/README.md) | <b>Foreign Wars, War Materials, and Neutrality</b> | <b>401</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Hemispheral%20Relations/README.md) | <b>Hemispheral Relations</b> | <b>501</b> |
@@ -42,7 +42,7 @@
 | [<b>30.</b>](Chapter%20030%20-%20International%20Cooperation%20in%20Health%20and%20Medical%20Research/README.md) | <b>International Cooperation in Health and Medical Research</b> | <b>2101</b> |
 | [<b>31.</b>](Chapter%20031%20-%20International%20Travel/README.md) | <b>International Travel</b> | <b>2121</b> |
 | [<b>31A.</b>](Chapter%20031A%20-%20National%20Tourism%20Organization/README.md) | <b>National Tourism Organization</b> | <b>2141</b> |
-| <b>32.</b> | <b>Foreign Assistance</b> | <b>2151</b> |
+| [<b>32.</b>](Chapter%20032%20-%20Foreign%20Assistance/README.md) | <b>Foreign Assistance</b> | <b>2151</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Mutual%20Educational%20and%20Cultural%20Exchange%20Program/README.md) | <b>Mutual Educational and Cultural Exchange Program</b> | <b>2451</b> |
 | [<b>34.</b>](Chapter%20034%20-%20The%20Peace%20Corps/README.md) | <b>The Peace Corps</b> | <b>2501</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Arms%20Control%20and%20Disarmament/README.md) | <b>Arms Control and Disarmament</b> | <b>2551</b> |
@@ -62,8 +62,8 @@
 | [<b>48.</b>](Chapter%20048%20-%20Taiwan%20Relations/README.md) | <b>Taiwan Relations</b> | <b>3301</b> |
 | [<b>49.</b>](Chapter%20049%20-%20Support%20of%20Peace%20Treaty%20Between%20Egypt%20and%20Israel/README.md) | <b>Support of Peace Treaty Between Egypt and Israel</b> | <b>3401</b> |
 | [<b>50.</b>](Chapter%20050%20-%20Institute%20for%20Scientific%20and%20Technological%20Cooperation/README.md) | <b>Institute for Scientific and Technological Cooperation</b> | <b>3501</b> |
-| <b>51.</b> | <b>Panama Canal</b> | <b>3601</b> |
-| <b>52.</b> | <b>Foreign Service</b> | <b>3901</b> |
+| [<b>51.</b>](Chapter%20051%20-%20Panama%20Canal/README.md) | <b>Panama Canal</b> | <b>3601</b> |
+| [<b>52.</b>](Chapter%20052%20-%20Foreign%20Service/README.md) | <b>Foreign Service</b> | <b>3901</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Authorities%20Relating%20to%20the%20Regulation%20of%20Foreign%20Missions/README.md) | <b>Authorities Relating to the Regulation of Foreign Missions</b> | <b>4301</b> |
 | [<b>53A.</b>](Chapter%20053A%20-%20Disposition%20of%20Personal%20Property%20Abroad/README.md) | <b>Disposition of Personal Property Abroad</b> | <b>4341</b> |
 | [<b>53B.</b>](Chapter%20053B%20-%20Foreign%20Relations%20of%20the%20United%20States%20Historical%20Series/README.md) | <b>Foreign Relations of the United States Historical Series</b> | <b>4351</b> |
@@ -102,6 +102,7 @@
 - [Chapter 004 - Passports](Chapter%20004%20-%20Passports/README.md)
 - [Chapter 005 - Preservation of Friendly Foreign Relations Generally](Chapter%20005%20-%20Preservation%20of%20Friendly%20Foreign%20Relations%20Generally/README.md)
 - [Chapter 006 - Foreign Diplomatic and Consular Officers](Chapter%20006%20-%20Foreign%20Diplomatic%20and%20Consular%20Officers/README.md)
+- [Chapter 007 - International Bureaus, Congresses, Etc](Chapter%20007%20-%20International%20Bureaus%2C%20Congresses%2C%20Etc/README.md)
 - [Chapter 008 - Foreign Service Buildings](Chapter%20008%20-%20Foreign%20Service%20Buildings/README.md)
 - [Chapter 009 - Foreign Wars, War Materials, and Neutrality](Chapter%20009%20-%20Foreign%20Wars%2C%20War%20Materials%2C%20and%20Neutrality/README.md)
 - [Chapter 010 - Hemispheral Relations](Chapter%20010%20-%20Hemispheral%20Relations/README.md)
@@ -132,6 +133,7 @@
 - [Chapter 030 - International Cooperation in Health and Medical Research](Chapter%20030%20-%20International%20Cooperation%20in%20Health%20and%20Medical%20Research/README.md)
 - [Chapter 031 - International Travel](Chapter%20031%20-%20International%20Travel/README.md)
 - [Chapter 031A - National Tourism Organization](Chapter%20031A%20-%20National%20Tourism%20Organization/README.md)
+- [Chapter 032 - Foreign Assistance](Chapter%20032%20-%20Foreign%20Assistance/README.md)
 - [Chapter 033 - Mutual Educational and Cultural Exchange Program](Chapter%20033%20-%20Mutual%20Educational%20and%20Cultural%20Exchange%20Program/README.md)
 - [Chapter 034 - The Peace Corps](Chapter%20034%20-%20The%20Peace%20Corps/README.md)
 - [Chapter 035 - Arms Control and Disarmament](Chapter%20035%20-%20Arms%20Control%20and%20Disarmament/README.md)
@@ -151,6 +153,8 @@
 - [Chapter 048 - Taiwan Relations](Chapter%20048%20-%20Taiwan%20Relations/README.md)
 - [Chapter 049 - Support of Peace Treaty Between Egypt and Israel](Chapter%20049%20-%20Support%20of%20Peace%20Treaty%20Between%20Egypt%20and%20Israel/README.md)
 - [Chapter 050 - Institute for Scientific and Technological Cooperation](Chapter%20050%20-%20Institute%20for%20Scientific%20and%20Technological%20Cooperation/README.md)
+- [Chapter 051 - Panama Canal](Chapter%20051%20-%20Panama%20Canal/README.md)
+- [Chapter 052 - Foreign Service](Chapter%20052%20-%20Foreign%20Service/README.md)
 - [Chapter 053 - Authorities Relating to the Regulation of Foreign Missions](Chapter%20053%20-%20Authorities%20Relating%20to%20the%20Regulation%20of%20Foreign%20Missions/README.md)
 - [Chapter 053A - Disposition of Personal Property Abroad](Chapter%20053A%20-%20Disposition%20of%20Personal%20Property%20Abroad/README.md)
 - [Chapter 053B - Foreign Relations of the United States Historical Series](Chapter%20053B%20-%20Foreign%20Relations%20of%20the%20United%20States%20Historical%20Series/README.md)

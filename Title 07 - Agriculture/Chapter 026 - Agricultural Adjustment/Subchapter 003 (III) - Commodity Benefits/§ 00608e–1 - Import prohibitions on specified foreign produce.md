@@ -6,7 +6,7 @@ Subject to the provisions of subsections (c) and (d) of this section and notwith
 
 #### (b) Extension of time for marketing order; factors; review
 
-(1) The Secretary may provide for a period of time (not to exceed 35 days) in addition to the period of time covered by a marketing order during which the marketing order requirements would be in effect for a particular commodity during any year if the Secretary determines that such additional period of time is necessary—
+(1) The Secretary may provide for a period of time (not to exceed 35 days) in addition to theperiod of time covered by a marketing order during which the marketing order requirements would be in effect for a particular commodity during any year if the Secretary determines that such additional period of time is necessary—
 
 &emsp;(A) to effectuate the purposes of this chapter; and
 
@@ -14,7 +14,7 @@ Subject to the provisions of subsections (c) and (d) of this section and notwith
 
 (2) In making the determination required by paragraph (1), the Secretary, through notice and comment procedures, shall consider—
 
-&emsp;(A) to what extent, during the previous year, imports of a commodity that did not meet therequirements of a marketing order applicable to such commodity were marketed in the United States during the period that such marketing order requirements were in effect for available domestic commodities (or would have been marketed during such time if not for any additional period established by the Secretary);
+&emsp;(A) to what extent, during the previous year, imports of a commodity that did not meet the requirements of a marketing order applicable to such commodity were marketed in the United States during the period that such marketing order requirements were in effect for available domestic commodities (or would have been marketed during such time if not for any additional period established by the Secretary);
 
 &emsp;(B) if the importation into the United States of such commodity did, or was likely to, circumvent the grade, size, quality or maturity standards of a seasonal marketing order applicable to such commodity produced in the United States; and
 

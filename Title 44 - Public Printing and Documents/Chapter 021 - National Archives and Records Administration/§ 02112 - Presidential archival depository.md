@@ -104,7 +104,7 @@
 
 &emsp;(A) the amount which, pursuant to paragraph (3) of this subsection, would have been required to have been available for deposit in such endowment with respect to such depository if such change or addition had been included in such depository on—
 
-&emsp;&emsp;(i) the date on which the Archivist took title to the land, facility, and equipment for such depository under subparagraph (A) of subsection (a)(1); or
+&emsp;&emsp;(i) the date on which the Archivist took title to the land, facility, and equipment forsuch depository under subparagraph (A) of subsection (a)(1); or
 
 &emsp;&emsp;(ii) the date on which the Archivist entered into an agreement for the creation of such depository under subparagraph (B) of such paragraph,
 
@@ -140,7 +140,7 @@ Subsecs. (d) to (g). Pub. L. 98–497, §107(a)(6), substituted “Archivist” 
 
 #### Effective Date of 1986 Amendment
 
-Section 4 of Pub. L. 99–323 provided that: “Paragraphs (3) and (4) of section 2112(g) of title 44, United States Code (as added by the amendment made by section 3(b) of this Act) shall apply with respect to any Presidential archival depository created as a depository for the papers, documents, and other historical materials andFederal records pertaining to any President who takes the oath of office as President for the first time on or after January 20, 1985.”
+Section 4 of Pub. L. 99–323 provided that: “Paragraphs (3) and (4) of section 2112(g) of title 44, United States Code (as added by the amendment made by section 3(b) of this Act) shall apply with respect to any Presidential archival depository created as a depository for the papers, documents, and other historical materials and Federal records pertaining to any President who takes the oath of office as President for the first time on or after January 20, 1985.”
 
 #### Effective Date of 1984 Amendment
 

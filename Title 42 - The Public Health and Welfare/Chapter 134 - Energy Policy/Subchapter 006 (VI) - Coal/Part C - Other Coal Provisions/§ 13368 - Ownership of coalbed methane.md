@@ -56,7 +56,7 @@ Following issuance of an order establishing a spacing unit under subsection (f) 
 
 (1) Each pooling order issued under subsection (g) of this section shall provide for the establishment of an escrow account into which the payment of costs and proceeds attributable to the conflicting interests shall be deposited and held for the interest of the claimants as follows:
 
-&emsp;(A) Each participating working interest owner, except for the unit operator, shall deposit in the escrow account its proportionate share of the costs allocable to the ownership interest claimed by each such participating working interest owner as set forth in thepooling order issued by the Secretary of the Interior.
+&emsp;(A) Each participating working interest owner, except for the unit operator, shall deposit in the escrow account its proportionate share of the costs allocable to the ownership interest claimed by each such participating working interest owner as set forth in the pooling order issued by the Secretary of the Interior.
 
 &emsp;(B) The unit operator shall deposit in the escrow account all proceeds attributable to the conflicting interests of lessees, plus all proceeds in excess of ongoing operational expenses (including reasonable overhead costs) attributable to conflicting working interests.
 
@@ -96,7 +96,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 (4) The consent required under this subsection shall in no way be deemed to impair, abridge, or affect any contractual rights or objections arising out of a coalbed methane gas contract or coalbed methane gas lease in existence as of October 24, 1992,<sup>1</sup> between the coalbed methane operator and the coal operator, and the existence of such lease or contractual agreement and any extensions or renewals of such lease shall be deemed to fully meet the requirements of this section.
 
-(5) Nothing in this subsection precludes either a coal operator or a coalbed methane operatorfrom seeking in the appropriate State forum compensation for the consequences of a determination by the Secretary of the Interior pursuant to paragraph (2).
+(5) Nothing in this subsection precludes either a coal operator or a coalbed methane operator from seeking in the appropriate State forum compensation for the consequences of a determination by the Secretary of the Interior pursuant to paragraph (2).
 
 #### (k) Notice and objection
 
@@ -152,7 +152,7 @@ As used in this section—
 
 &emsp;(2) The term “coalbed methane gas” means occluded natural gas produced (or which may be produced) from coalbeds and rock strata associated therewith.
 
-&emsp;(3) The term “unit operator” means the entity designated in a pooling order to develop a spacing unit by the drilling of one or more wells on the unit.
+&emsp;(3) The term “unit operator” means the entity designated in a pooling order to develop aspacing unit by the drilling of one or more wells on the unit.
 
 &emsp;(4) The term “nonparticipating working interest owner” means a gas or oil owner of a tract included in a spacing unit which elects to share in the operation of the well on a carried basis by agreeing to have its proportionate share of the costs allocable to its interest charged against its share of production of the well in accordance with subsection (f)(3) of this section.
 

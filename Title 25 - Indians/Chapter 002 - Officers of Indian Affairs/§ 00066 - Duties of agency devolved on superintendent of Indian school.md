@@ -4,7 +4,7 @@ The Commissioner of Indian Affairs, with the approval of the Secretary of the In
 
 The pay of any superintendent who performs agency duties in addition to those of his superintendency may be increased by the Commissioner of Indian Affairs, in his discretion, to an extent not exceeding $300 per annum.
 
-(Mar. 1, 1907, ch. 2285, 34 Stat. 1020; June 6, 1972, Pub. L. 92–310, title II, §229(d), 86 Stat. 208.)
+(Mar. 1, 1907, ch. 2285, 34 Stat. 1020; Pub. L. 92–310, title II, §229(d), June 6, 1972, 86 Stat. 208.)
 
 #### Amendments
 

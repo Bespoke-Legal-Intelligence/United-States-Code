@@ -52,7 +52,7 @@
 
 (e)(1) The Comptroller General shall report promptly to the Committee on Governmental Affairs and the Committee on Appropriations of the Senate and to the Committee on Government Reform and Oversight and the Committee on Appropriations of the House of Representatives any case in which a Federal agency fails to implement fully a recommendation of the Comptroller General under subsection (b) or (c). The report shall include—
 
-&emsp;(A) a comprehensive review of the pertinent procurement, including the circumstances of the failure of the Federal agency to implementa recommendation of the Comptroller General; and
+&emsp;(A) a comprehensive review of the pertinent procurement, including the circumstances of the failure of the Federal agency to implement a recommendation of the Comptroller General; and
 
 &emsp;(B) a recommendation regarding whether, in order to correct an inequity or to preserve the integrity of the procurement process, the Congress should consider—
 
@@ -110,7 +110,7 @@ Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Pri
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(d)(3) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by section 4321(d)(3) of Pub. L. 104–106, see section 4401 ofPub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 Amendment by section 5501(2) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
@@ -128,5 +128,5 @@ Section 1403(b)(4) of Pub. L. 103–355 provided that: “Costs to which the Com
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3553, 3555, 3556 of this title; title 10 section 2305; title 41 section 253b.
+This section is referred to in sections 3553, 3555, 3556 of this title; title 10 section 2305; title 22 section 3862; title 41 section 253b.
 

@@ -102,7 +102,7 @@
 
 #### (C) Limitation
 
-&emsp;&emsp;The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (A) is being made.
+&emsp;&emsp;The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
 
 #### (D) Uniform procedures
 
@@ -140,13 +140,15 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 For the purposes of this section, the term “State” includes only the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 97–35, title VI, §658O, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–246; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §613, Aug. 22, 1996, 110 Stat. 2286.)
+(Pub. L. 97–35, title VI, §658O, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–246; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §613, Aug. 22, 1996, 110 Stat. 2286; Pub. L. 105–33, title V, §5602(4), Aug. 5, 1997, 111 Stat. 646.)
 
 #### References in Text
 
 The National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
+
+1997—Subsec. (c)(6)(C). Pub. L. 105–33 substituted “subparagraph (B)” for “subparagraph (A)”.
 
 1996—Subsec. (a)(1). Pub. L. 104–193, §613(1)(A), made technical amendment to heading, inserted “and” before “the Commonwealth of the Northern Marianna Islands”, and struck out “, and the Trust Territory of the Pacific Islands” before “to be allotted in accordance”.
 
@@ -159,6 +161,10 @@ Subsec. (c)(6). Pub. L. 104–193, §613(2)(B), added par. (6).
 Subsec. (e)(4). Pub. L. 104–193, §613(3), added par. (4).
 
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5603 of Pub. L. 105–33, set out as a note under section 618 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -20,7 +20,7 @@
 
 #### (5) Statements
 
-&emsp;An applicant for admission may be required to state under oath any information sought by an immigration officer regarding the purposes and intentions of the applicant in seeking admission to the United States, including the applicant's intended length of stay and whether the applicant intends to remain permanently or become a United States citizen, and whether the applicant is inadmissible.
+&emsp;An applicant for admission may be required to state under oath any information sought byan immigration officer regarding the purposes and intentions of the applicant in seeking admission to the United States, including the applicant's intended length of stay and whether the applicant intends to remain permanently or become a United States citizen, and whether the applicant is inadmissible.
 
 #### (b) Inspection of applicants for admission
 
@@ -80,7 +80,7 @@
 
 #### (v) “Credible fear of persecution” defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “credible fear of persecution” means that there is a significant possibility, taking into account the credibility of the statements made by the alien in support of the alien's claim and such other facts as are known to the officer, that the alien could establish eligibility for asylum under section 1158 of this title.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “credible fear of persecution” meansthat there is a significant possibility, taking into account the credibility of the statements made by the alien in support of the alien's claim and such other facts as are known to the officer, that the alien could establish eligibility for asylum under section 1158 of this title.
 
 #### (C) Limitation on administrative review
 
@@ -160,7 +160,7 @@
 
 #### (1) Authority to search conveyances
 
-&emsp;Immigration officers are authorized to board and search any vessel, aircraft, railway car, or other conveyance or vehicle in which they believe aliens are being brought into the United States.
+&emsp;Immigration officers are authorized to board and search any vessel, aircraft, railway car, orother conveyance or vehicle in which they believe aliens are being brought into the United States.
 
 #### (2) Authority to order detention and delivery of arriving aliens
 
@@ -188,7 +188,7 @@
 
 Pub. L. 104–208, §371(b)(4), substituted “an immigration judge” for “a special inquiry officer”, “immigration judge” for “special inquiry officer”, and “immigration judges” for “special inquiry officers”, wherever appearing in subsecs. (a) to (c).
 
-Subsec. (b). Pub. L. 104–132, §422(a), which directed the general amendment of subsec. (b) by substituting pars. (1) to (3) relating to asylum interviews and hearings, detention for further inquiry, and challenges of favorable decisions, for former subsec. (b) consisting ofsingle par., was repealed by Pub. L. 104–208, §308(d)(5). See Construction of 1996 Amendment note below.
+Subsec. (b). Pub. L. 104–132, §422(a), which directed the general amendment of subsec. (b) by substituting pars. (1) to (3) relating to asylum interviews and hearings, detention for further inquiry, and challenges of favorable decisions, for former subsec. (b) consisting of single par., was repealed by Pub. L. 104–208, §308(d)(5). See Construction of 1996 Amendment note below.
 
 Subsec. (d). Pub. L. 104–132, §423(b), added subsec. (d) which read as follows: “In any action brought for the assessment of penalties for improper entry or re-entry of an alien under section 1325 or section 1326 of this title, no court shall have jurisdiction to hear claims collaterally attacking the validity of orders of exclusion, special exclusion, or deportation entered under this section or sections 1226 and 1252 of this title.”
 

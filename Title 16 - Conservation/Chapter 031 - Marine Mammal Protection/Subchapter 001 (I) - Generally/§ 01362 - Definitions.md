@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 (4) The term “humane” in the context of the taking of a marine mammal means that method of taking which involves the least possible degree of pain and suffering practicable to the mammal involved.
 
-(5) The term “intermediary nation” means a nation that exports yellowfin tuna or yellowfin tuna products to the United States and that imports yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation into the United States pursuant to section 1371(a)(2)(B) of this title.
+(5) The term “intermediary nation” means a nation that exports yellowfin tuna or yellowfintuna products to the United States and that imports yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation into the United States pursuant to section 1371(a)(2)(B) of this title.
 
 (6) The term “marine mammal” means any mammal which (A) is morphologically adapted to the marine environment (including sea otters and members of the orders Sirenia, Pinnipedia and Cetacea), or (B) primarily inhabits the marine environment (such as the polar bear); and, for the purposes of this chapter, includes any part of any such marine mammal, including its raw, dressed, or dyed fur or skin.
 
@@ -76,7 +76,7 @@ For the purposes of this chapter—
 
 &emsp;(A) for which the level of direct human-caused mortality exceeds the potential biological removal level;
 
-&emsp;(B) which, based on the best available scientific information, is declining and is likely to be listed as a threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] within the foreseeable future; or
+&emsp;(B) which, based on the best available scientific information, is declining and is likelyto be listed as a threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] within the foreseeable future; or
 
 &emsp;(C) which is listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), or is designated as depleted under this chapter.
 
@@ -112,7 +112,15 @@ For the purposes of this chapter—
 
 &emsp;(B) provides reasonable assurance that the stock size is equal to or greater than the estimate.
 
-(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621.)
+(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123.)
+
+#### Amendment of Section
+
+<i>Pub. L. 105–42, §§3, 8, Aug. 15, 1997, 111 Stat. 1123, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note below, this section is amended by adding the following new paragraphs:</i>
+
+(28) The term “International Dolphin Conservation Program” means the international program established by the agreement signed in LaJolla, California, in June, 1992, as formalized, modified, and enhanced in accordance with the Declaration of Panama.
+
+(29) The term “Declaration of Panama” means the declaration signed in Panama City, Republic of Panama, on October 4, 1995.
 
 #### References in Text
 
@@ -148,7 +156,7 @@ Par. (15). Pub. L. 102–582 redesignated par. (14), defining waters under the j
 
 Pub. L. 102–523 added par. (15) defining fishery.
 
-Pub. L. 102–251, §304, which directed the general amendment of par. (15) by reenacting the introductory provisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, §405(b)(2).
+Pub. L. 102–251, §304, which directed the general amendment of par. (15) by reenacting the introductoryprovisions and subpars. (A) and (B) without substantial change and adding subpar. (C) which read “the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.”, was repealed by Pub. L. 104–297, §405(b)(2).
 
 Pars. (16), (17). Pub. L. 102–523 added pars. (16) and (17).
 
@@ -167,6 +175,32 @@ Pars. (14), (15). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (14) and (15
 1976—Par. (15)(B). Pub. L. 94–265 substituted “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured” for “the fisheries zone established pursuant to the Act of October 14, 1966”.
 
 1973—Par. (1)(B). Pub. L. 93–205 substituted “Endangered Species Act of 1973” for “Endangered Species Conservation Act of 1969”.
+
+#### Effective Date of 1997 Amendment
+
+Section 8 of Pub. L. 105–42 provided that:
+
+“(a)
+
+Amendments to Take Effect When IDCP in Force.—Sections 3 through 7 of this Act \[enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of this title, and repealing sections 1412 to 1416 and 1418 of this title\] (except for section 304 of the Marine Mammal Protection Act of 1972 as added by section 6 of this Act \[section 1414a of this title\]) shall become effective upon—
+
+&emsp;“(1) certification by the Secretary of Commerce that—
+
+&emsp;&emsp;“(A) sufficient funding is available to complete the first year of the study required under section 304(a) of the Marine Mammal Protection Act of 1972, as so added; and
+
+&emsp;&emsp;“(B) the study has commenced; and
+
+&emsp;“(2) certification by the Secretary of State to Congress that a binding resolution of the Inter-American Tropical Tuna Commission or other legally binding instrument establishing the International Dolphin Conservation Program has been adopted and is in force.
+
+“(b)
+
+Special Effective Date.—Notwithstanding subsection (a), the Secretary of Commerce may issue regulations under—
+
+&emsp;“(1) subsection (f)(2) of the Dolphin Protection Consumer Information Act (16 U.S.C. 1385(f)(2)), as added by section 5(b) of this Act;
+
+&emsp;“(2) section 303(a) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1413(a)), as added by section 6(c) of this Act,
+
+> at any time after the date of enactment of this Act \[Aug. 15, 1997\].”
 
 #### Effective Date of 1996 Amendment
 

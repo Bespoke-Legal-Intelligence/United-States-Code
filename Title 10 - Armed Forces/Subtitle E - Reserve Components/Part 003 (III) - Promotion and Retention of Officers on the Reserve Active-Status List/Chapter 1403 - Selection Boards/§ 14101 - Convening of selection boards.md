@@ -4,7 +4,7 @@
 
 Promotion Boards.—(1) Whenever the needs of the Army, Navy, Air Force, or Marine Corps require, the Secretary concerned shall convene a selection board to recommend for promotion to the next higher grade, under chapter 1405 of this title, officers on the reserve active-status list of that armed force in a permanent grade from first lieutenant through brigadier general or, in the case of the Naval Reserve, lieutenant (junior grade) through rear admiral (lower half). A selection board convened under this subsection shall be known as a “promotion board”.
 
-(2) A promotion board convened to recommend reserve officers of the Army or reserve officers of the Air Force for promotion (A) to fill a position vacancy under section 14315 of this title, or (B) to the grade of brigadier general or major general, shall (except in the case of a board convened to consider officers as provided in section 14301(e) of this title) be known as a “vacancy promotion board”. Any other promotion board convened under this subsection shall be known as a “mandatory promotion board”.
+(2) A promotion board convened to recommend reserve officers of the Army or reserve officers of the Air Force for promotion (A) to fill a position vacancy under section 14315 of this title, or (B) to the grade of brigadier general or major general, shall be known as a “vacancy promotion board”. Any other promotion board convened under this subsection shall be known as a “mandatory promotion board”.
 
 (b)
 
@@ -18,7 +18,11 @@ Continuation Boards.—Whenever the needs of the Army, Navy, Air Force, or Marin
 
 > A selection board convened under this subsection shall be known as a “continuation board”.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2924.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 105–85, div. A, title V, §514(a), Nov. 18, 1997, 111 Stat. 1732.)
+
+#### Amendments
+
+1997—Subsec. (a)(2). Pub. L. 105–85 struck out “(except in the case of a board convened to consider officers as provided in section 14301(e) of this title)” before “be known as a ‘vacancy promotion board’.”
 
 #### Effective Date
 

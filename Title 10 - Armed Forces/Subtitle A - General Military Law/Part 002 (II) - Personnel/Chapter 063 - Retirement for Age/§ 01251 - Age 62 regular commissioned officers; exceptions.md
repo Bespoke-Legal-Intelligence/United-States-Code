@@ -6,11 +6,13 @@
 
 (c)(1) The Secretary concerned may defer the retirement under subsection (a) of a health professions officer if during the period of the deferment the officer will be performing duties consisting primarily of providing patient care or performing other clinical duties.
 
-(2)(A) Except as provided in subparagraph (B), a deferment under this subsection may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age.
+(2) The Secretary concerned may defer the retirement under subsection (a) of an officer who is appointed or designated as a chaplain if the Secretary determines that such deferral is in the best interest of the military department concerned.
 
-(B) The Secretary concerned may extend a deferment under this subsection beyond the dayreferred to in subparagraph (A) if the Secretary determines that extension of the deferment is necessary for the needs of the military department concerned. Such an extension shall be made on a case-by-case basis and shall be for such period as the Secretary considers appropriate.
+(3)(A) Except as provided in subparagraph (B), a deferment under this subsection may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age.
 
-(3) For purposes of this subsection, a health professions officer is—
+(B) The Secretary concerned may extend a deferment under this subsection beyond the day referred to in subparagraph (A) if the Secretary determines that extension of the deferment is necessary for the needs of the military department concerned. Such an extension shall be made on a case-by-case basis and shall be for such period as the Secretary considers appropriate.
+
+(4) For purposes of this subsection, a health professions officer is—
 
 &emsp;(A) a medical officer;
 
@@ -18,9 +20,15 @@
 
 &emsp;(C) an officer in the Army Nurse Corps, an officer in the Navy Nurse Corps, or an officer in the Air Force designated as a nurse.
 
-(Added Pub. L. 96–513, title I, §111, Dec. 12, 1980, 94 Stat. 2875; amended Pub. L. 100–180, div. A, title VII, §719, Dec. 4, 1987, 101 Stat. 1115; Pub. L. 101–189, div. A, title VII, §709, Nov. 29, 1989, 103 Stat. 1476.)
+(d) The Secretary concerned may defer the retirement under subsection (a) of an officer who is the Chief of Chaplains or Deputy Chief of Chaplains of that officer's armed force. Such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age.
+
+(Added Pub. L. 96–513, title I, §111, Dec. 12, 1980, 94 Stat. 2875; amended Pub. L. 100–180, div. A, title VII, §719, Dec. 4, 1987, 101 Stat. 1115; Pub. L. 101–189, div. A, title VII, §709, Nov. 29, 1989, 103 Stat. 1476; Pub. L. 105–85, div. A, title V, §504(a), (b), Nov. 18, 1997, 111 Stat. 1725.)
 
 #### Amendments
+
+1997—Subsec. (c)(2) to (4). Pub. L. 105–85, §504(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (d). Pub. L. 105–85, §504(b), added subsec. (d).
 
 1989—Subsec. (c)(2). Pub. L. 101–189 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), a deferment” for “A deferment” and “68 years of age” for “67 years of age”, and added subpar. (B).
 

@@ -16,7 +16,7 @@ Notwithstanding section 1421(b) of this title, an individual may be granted an e
 
 The Attorney General shall prescribe rules and procedures to ensure that the ceremonies conducted by the Attorney General for the administration of oaths of allegiance under this section are public, conducted frequently and at regular intervals, and are in keeping with the dignity of the occasion.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §337, 66 Stat. 258; Dec. 29, 1981, Pub. L. 97–116, §18(<i>o</i>), 95 Stat. 1621; Nov. 29, 1990, Pub. L. 101–649, title IV,§407(c)(18), (d)(15), 104 Stat. 5041, 5044; Dec. 12, 1991, Pub. L. 102–232, title I, §102(b)(2), title III, §305(i), 105 Stat. 1736, 1750.)
+(June 27, 1952, ch. 477, title III, ch. 2, §337, 66 Stat. 258; Dec. 29, 1981, Pub. L. 97–116, §18(<i>o</i>), 95 Stat. 1621; Nov. 29, 1990, Pub. L. 101–649, title IV, §407(c)(18), (d)(15), 104 Stat. 5041, 5044; Dec. 12, 1991, Pub. L. 102–232, title I, §102(b)(2), title III, §305(i), 105 Stat. 1736, 1750.)
 
 #### Amendments
 

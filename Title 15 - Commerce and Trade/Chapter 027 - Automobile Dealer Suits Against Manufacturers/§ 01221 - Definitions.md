@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-(a) The term “automobile manufacturer” shall mean any person, partnership, corporation, association, or other form of business enterprise engaged in the manufacturing or assembling of passenger cars, trucks, or station wagons, including any person, partnership, or corporation which acts for and is under the control of such manufacturer or assembler in connection with the distribution of said automotive vehicles.
+(a) The term “automobile manufacturer” shall mean any person, partnership, corporation, association, or other form of business enterprise engaged in the manufacturing or assembling ofpassenger cars, trucks, or station wagons, including any person, partnership, or corporation which acts for and is under the control of such manufacturer or assembler in connection with the distribution of said automotive vehicles.
 
 (b) The term “franchise” shall mean the written agreement or contract between any automobile manufacturer engaged in commerce and any automobile dealer which purports to fix the legal rights and liabilities of the parties to such agreement or contract.
 

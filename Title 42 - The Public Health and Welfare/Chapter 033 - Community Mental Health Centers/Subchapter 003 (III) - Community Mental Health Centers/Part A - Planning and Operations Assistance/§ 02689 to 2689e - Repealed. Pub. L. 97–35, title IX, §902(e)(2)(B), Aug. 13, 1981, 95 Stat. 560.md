@@ -8,7 +8,7 @@ Section 2689a, Pub. L. 88–164, title II, §202, as added Pub. L. 94–63, titl
 
 A prior section 202 of Pub. L. 88–164, title II, was classified to section 2682 of this title.
 
-Section 2689b, Pub. L. 88–164, title II, §203, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 312; amended Pub. L. 95–83, title III, §308(b), (h), Aug. 1, 1977, 91 Stat. 396; Pub. L. 95–622, title I, §§102(b), 103(a), (b),formerly §103, §110(b)(1), formerly §110(b), Nov. 9, 1978, 92 Stat. 3412, 3413, 3420, renumbered Pub. L. 96–32, §8(a)(1), (2), July 10, 1979, 93 Stat. 85; amended Pub. L. 96–398, title VII, §701(b), Oct. 7, 1980, 94 Stat. 1605, set forth provisions respecting grants for initial operation of centers and related public or nonprofit private entities.
+Section 2689b, Pub. L. 88–164, title II, §203, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 312; amended Pub. L. 95–83, title III, §308(b), (h), Aug. 1, 1977, 91 Stat. 396; Pub. L. 95–622, title I, §§102(b), 103(a), (b), formerly §103, §110(b)(1), formerly §110(b), Nov. 9, 1978, 92 Stat. 3412, 3413, 3420, renumbered Pub. L. 96–32, §8(a)(1), (2), July 10, 1979, 93 Stat. 85; amended Pub. L. 96–398, title VII, §701(b), Oct. 7, 1980, 94 Stat. 1605, set forth provisions respecting grants for initial operation of centers and related public or nonprofit private entities.
 
 A prior section 203 of Pub. L. 88–164, title II, was classified to section 2683 of this title.
 
@@ -30,5 +30,5 @@ Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as
 
 #### Short Title
 
-Section 245 of title II of Pub. L. 88–164, as added by section 303 of Pub. L. 94–63, title III, July 29, 1975, 89 Stat. 333, which provided that title II of Pub. L. 88–164 \[this subchapter\] was to be cited as the “Community Mental Health Centers Act”, was repealed by section 902(e)(2)(B) of Pub. L. 97–35.
+Section 245 of title II of Pub. L. 88–164, as added by section 303 of Pub. L. 94–63, title III, July 29, 1975, 89Stat. 333, which provided that title II of Pub. L. 88–164 \[this subchapter\] was to be cited as the “Community Mental Health Centers Act”, was repealed by section 902(e)(2)(B) of Pub. L. 97–35.
 

@@ -86,6 +86,8 @@
 
 &emsp;(30) an analysis displaying, by agency, proposed reductions in full-time equivalent positions compared to the current year's level in order to comply with section 5 of the Federal Workforce Restructuring Act of 1994.
 
+&emsp;(32) <sup>1</sup> a statement of the levels of budget authority and outlays for each program assumed to be extended in the baseline as provided in section 257(b)(2)(A) and for excise taxes assumed to be extended under section 257(b)(2)(C) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
 (c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
@@ -170,7 +172,7 @@
 
 &emsp;(iii) Research on basic mathematics or medical, biological, physical, social, psychological, or other phenomena.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711.)
 
 #### Amendment of Section
 
@@ -304,7 +306,7 @@ In subsection (b), the words “for such years” in 31:11(a)(5)(words after 2d 
 
 In subsection (c), the words “new taxes, loans, or other” are omitted as being included in “appropriate action”. The words “in effect” are substituted for “existing” for consistency. The word “aggregate” is omitted as surplus.
 
-In subsection (d), the words “When the President submits a budget or supporting information about a budget, the President” are substituted for “The Budget transmitted pursuant to subsection (a) of this sectionfor any fiscal year, or the supporting detail transmitted in connection therewith” because of the restatement. The word “changes” is substituted for “amendments and revisions” to eliminate unnecessary words.
+In subsection (d), the words “When the President submits a budget or supporting information about a budget, the President” are substituted for “The Budget transmitted pursuant to subsection (a) of this section for any fiscal year, or the supporting detail transmitted in connection therewith” because of the restatement. The word “changes” is substituted for “amendments and revisions” to eliminate unnecessary words.
 
 1983
 
@@ -322,7 +324,7 @@ Act
 
 June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(1); added Sept. 8, 1982, Pub. L. 97–255, §3, 96 Stat. 815.
 
-The words “The President shall include in the supporting detail accompanying each Budget” are omitted as being included in the introductory provisions of 31:1105(a). The words “submitted on or after January 1, 1983” are omitted as executed. The words “by the President” and “if any” are omitted as surplus.
+The words “The President shall include in the supporting detail accompanying each Budget” are omitted as being included in the introductory provisions of 31:1105(a). The words “submitted on or after January 1,1983” are omitted as executed. The words “by the President” and “if any” are omitted as surplus.
 
 #### References in Text
 
@@ -332,9 +334,13 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), 
 
 Section 11(2) of the Inspector General Act of 1978, referred to in subsec. (a)(25), is section 11(2) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is section 5 of Pub. L. 103–226, which is set out as a note under section 3101 of Title 5.
+Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is section 5 of Pub. L. 103–226, which is set out as a note under section 3101 of Title 5, Government Organization and Employees.
+
+Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(32), is classified to section 907(b)(2) of Title 2, The Congress.
 
 #### Amendments
+
+1997—Subsec. (a)(32). Pub. L. 105–33 added par. (32).
 
 1996—Subsecs. (a)(26) to (31). Pub. L. 104–287 redesignated pars. (27) to (31) as (26) to (30), respectively. Former par. (26) previously terminated.
 
@@ -394,7 +400,7 @@ Subsec. (f). Pub. L. 99–177, §§241(b), 275(b), temporarily added subsec. (f)
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective and Termination Dates of 1988 Amendments
 
@@ -532,5 +538,7 @@ Ex. Ord. No. 6715, May 23, 1934, provided:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 665b, 900, 901, 904; title 5 sections 1204, 8472; title 7 section 5603; title 10 sections 113, 114, 119, 139, 168, 179, 221, 222, 226, 1465, 1741, 2006, 2216, 2216a, 2217, 2304a, 2304b, 2350a, 2367, 2431, 2433, 2515, 2703, 2721, 2809, 2835, 2836, 2859, 2884, 7902; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1502, 1505, 1509; title 25 sections 450j–1, 458dd, 1621, 1671, 2012, 2505, 3803, 4043; title 29 section 762a; title 38 sections 312, 712, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908, 1412, 1413, 1425, 1428; title 41 sections 253h, 253i, 433; title 42 sections 1395w–1, 2122a, 2286e, 7271b, 7271c, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 50 sections 404a, 404b, 404d, 1906, 2353.
+This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 7 section 5603; title 10 sections 113, 114, 115, 119, 139, 168, 179, 221, 222, 224, 226, 483, 484, 1465, 1741, 2006, 2216, 2216a, 2217, 2304a, 2304b, 2350a, 2367, 2431, 2433, 2515, 2525, 2703, 2721, 2809, 2835, 2836, 2859, 2884, 7902; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1505, 1509; title 25 sections 450j–1, 458dd, 1621, 1671, 2012, 2505, 3803, 4043; title 29 section 762a; title 38 sections 312, 712, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908, 1412, 1413, 1425, 1428; title 41 sections 253h, 253i, 433; title 42 sections 1395w–1, 2122a, 2286e, 7271b, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 50 sections 404a, 404b, 404d, 1906, 2353.
+
+<i><sup>1</sup></i><i> So in original. There is no par. (31).</i>
 

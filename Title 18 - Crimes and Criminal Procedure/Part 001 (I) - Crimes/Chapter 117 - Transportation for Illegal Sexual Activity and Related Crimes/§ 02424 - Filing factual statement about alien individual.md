@@ -24,7 +24,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §325(1), in first par. substituted “individual, knowing or in reckless disregard of the fact that the individual is an alien” for “alien individual within three years after that individual has entered the United States from any country, party to the arrangement adopted July 25, 1902, for thesuppression of the white-slave traffic” and struck out “alien” after “the name of such”.
+1996—Subsec. (a). Pub. L. 104–208, §325(1), in first par. substituted “individual, knowing or in reckless disregard of the fact that the individual is an alien” for “alien individual within three years after that individual has entered the United States from any country, party to the arrangement adopted July 25, 1902, for the suppression of the white-slave traffic” and struck out “alien” after “the name of such”.
 
 Pub. L. 104–208, §325(2), in second par. substituted “five business” for “thirty” and struck out “within three years after that individual has entered the United States from any country, party to the said arrangement for the suppression of the white-slave traffic,” after “any alien individual”.
 

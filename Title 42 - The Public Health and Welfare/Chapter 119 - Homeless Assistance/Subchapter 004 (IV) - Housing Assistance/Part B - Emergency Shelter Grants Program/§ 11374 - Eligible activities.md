@@ -34,7 +34,7 @@ The Secretary may waive the 20 percent limitation on the use of assistance for e
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–330 struck out “or Indian tribe” after “local government” in subpar. (A) andsubstituted “or local government” for “, local government, or Indian tribe” in subpar. (B).
+1996—Subsec. (a)(2). Pub. L. 104–330 struck out “or Indian tribe” after “local government” in subpar. (A) and substituted “or local government” for “, local government, or Indian tribe” in subpar. (B).
 
 Subsec. (a)(4). Pub. L. 104–330 substituted “or local government” for “, local government, or Indian tribe” in concluding provisions.
 

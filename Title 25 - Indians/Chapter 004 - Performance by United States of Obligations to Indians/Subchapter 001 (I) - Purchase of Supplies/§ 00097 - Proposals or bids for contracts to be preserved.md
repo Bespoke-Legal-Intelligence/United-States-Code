@@ -2,7 +2,7 @@
 
 In all lettings of contracts in connection with the Indian Service, the proposals or bids received shall be filed and preserved..<sup>1</sup>
 
-(Aug. 15, 1876, ch. 289, §3, 19 Stat. 199; June 21, 1906, ch. 3504, 34 Stat. 328; Oct. 19, 1996, Pub. L. 104–316, title I, §112(b), 110 Stat. 3833.)
+(Aug. 15, 1876, ch. 289, §3, 19 Stat. 199; June 21, 1906, ch. 3504, 34 Stat. 328; Pub. L. 104–316, title I, §112(b), Oct. 19, 1996, 110 Stat. 3833.)
 
 #### Amendments
 

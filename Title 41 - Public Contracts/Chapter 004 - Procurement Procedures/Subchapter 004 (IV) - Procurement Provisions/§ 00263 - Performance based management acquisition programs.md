@@ -2,7 +2,7 @@
 
 #### (a) Congressional policy
 
-It is the policy of Congress that the head of each executive agency should achieve, on average, 90 percent of the cost and schedule goals established for major and nonmajor acquisition programs of the agency without reducing the performance or capabilities of the items being acquired.
+It is the policy of Congress that the head of each executive agency should achieve, on average, 90 percent of the cost, performance, and schedule goals established for major acquisition programs of the agency.
 
 #### (b) Establishment of goals
 
@@ -18,7 +18,11 @@ Whenever it is necessary to do so in order to implement the policy set out in su
 
 &emsp;(2) identify suitable actions to be taken, including termination, with respect to such programs.
 
-(June 30, 1949, ch. 288, title III, §313, as added Oct. 13, 1994, Pub. L. 103–355, title V, §5051(a), 108 Stat. 3351.)
+(June 30, 1949, ch. 288, title III, §313, as added Pub. L. 103–355, title V, §5051(a), Oct. 13, 1994, 108 Stat. 3351; amended Pub. L. 105–85, div. A, title VIII, §851(a), Nov. 18, 1997, 111 Stat. 1851.)
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “It is the policy of Congress that the head of each executive agency should achieve, on average, 90 percent of the cost and schedule goals established for major and nonmajor acquisition programs of the agency without reducing the performance or capabilities of the items being acquired.”
 
 #### Enhanced System of Performance Incentives
 

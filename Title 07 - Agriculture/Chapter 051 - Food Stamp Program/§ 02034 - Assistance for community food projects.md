@@ -2,7 +2,7 @@
 
 #### (a) “Community food projects” defined
 
-In this section, the term “community food project” means a community-based project that requires a 1-time infusion of Federal assistance to become self-sustaining and that is designed to—
+In this section, the term “community food project” means a community-based project thatrequires a 1-time infusion of Federal assistance to become self-sustaining and that is designed to—
 
 &emsp;(1) meet the food needs of low-income people;
 
@@ -30,7 +30,7 @@ To be eligible for a grant under subsection (b) of this section, a private nonpr
 
 &emsp;(1) have experience in the area of—
 
-&emsp;&emsp;(A) community food work, particularly concerning small and medium-sized farms,including the provision of food to people in low-income communities and the development of new markets in low-income communities for agricultural producers; or
+&emsp;&emsp;(A) community food work, particularly concerning small and medium-sized farms, including the provision of food to people in low-income communities and the development of new markets in low-income communities for agricultural producers; or
 
 &emsp;&emsp;(B) job training and business development activities for food-related activities in low-income communities;
 

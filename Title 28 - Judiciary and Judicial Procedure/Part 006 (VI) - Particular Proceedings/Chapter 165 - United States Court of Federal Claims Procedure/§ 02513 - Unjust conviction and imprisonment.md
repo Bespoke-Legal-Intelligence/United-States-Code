@@ -14,7 +14,7 @@
 
 (e) The amount of damages awarded shall not exceed the sum of $5,000.
 
-(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, §56, 68 Stat. 1247; Apr. 2, 1982, Pub. L. 97–164, title I, §139(j)(2), 96 Stat. 43; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 978; Sept. 3, 1954, ch. 1263, §56, 68 Stat. 1247; Pub. L. 97–164, title I, §139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -26,11 +26,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (c). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1954—Subsec. (c). Act Sept. 3, 1954, substituted “considered by” for “filed with”.
+<b>1954</b>—Subsec. (c). Act Sept. 3, 1954, substituted “considered by” for “filed with”.
 
 #### Effective Date of 1992 Amendment
 

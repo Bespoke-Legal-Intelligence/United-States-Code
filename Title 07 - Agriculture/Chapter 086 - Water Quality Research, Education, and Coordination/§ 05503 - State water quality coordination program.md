@@ -6,7 +6,7 @@ The Secretary shall require the establishment of a water quality coordination pr
 
 #### (b) Membership
 
-Each State water quality coordination program shall involve those departmental agencies specified in subsection (c) of this section that are operating within the State. For the purpose of coordination, the State water quality coordination program shall include, should they choose to participate, those State agencies with complementary water program authorities and programs. These State agency members should include the State agencies that are members of the respective State's soil and water conservation committees. The program shall also include the education program coordinator designated under section 5832(b) of this title.
+Each State water quality coordination program shall involve those departmental agencies specified in subsection (c) of this section thatare operating within the State. For the purpose of coordination, the State water quality coordination program shall include, should they choose to participate, those State agencies with complementary water program authorities and programs. These State agency members should include the State agencies that are members of the respective State's soil and water conservation committees. The program shall also include the education program coordinator designated under section 5832(b) of this title.
 
 #### (c) Agencies
 
@@ -44,5 +44,5 @@ The water quality coordination program for each State shall request appropriate 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 

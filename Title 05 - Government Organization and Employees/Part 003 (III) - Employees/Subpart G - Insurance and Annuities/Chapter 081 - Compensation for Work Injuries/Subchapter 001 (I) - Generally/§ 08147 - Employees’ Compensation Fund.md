@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 93–416, §25, inserted reference to the United States Pos
 
 Amendment by section 25 of Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974, but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
-Amendment by section 26 of Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any death or injury occurring on or after Sept. 7, 1974, see section 28(a) ofPub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by section 26 of Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any death or injury occurring on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 #### Fiscal Year 1994 Prohibition on Payments to Individuals Convicted of Issuing False Statements or Fraud
 
@@ -80,5 +80,5 @@ Increases authorized under amendment by section 1(71) of Pub. L. 90–83 not app
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 39 section 2003; title 42 sections 1701, 1704, 1705.
+This section is referred to in title 2 section 95d; title 39 section 2003; title 42 sections 1701, 1704, 1705.
 

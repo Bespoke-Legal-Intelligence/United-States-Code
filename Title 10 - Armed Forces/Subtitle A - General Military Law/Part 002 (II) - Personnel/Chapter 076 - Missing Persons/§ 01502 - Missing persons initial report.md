@@ -10,11 +10,17 @@ Preliminary Assessment and Recommendation by Commander.—After receiving inform
 
 (b)
 
+Transmission of Advisory Copy to Theater Component Commander.—When transmitting a report under subsection (a)(2) recommending that a person be placed in a missing status, the commander transmitting that report shall transmit an advisory copy of the report to the theater component commander with jurisdiction over the missing person.
+
+(c)
+
 Safeguarding and Forwarding of Records.—A commander making a preliminary assessment under subsection (a) with respect to a missing person shall (in accordance with procedures prescribed under section 1501 of this title) safeguard and forward for official use any information relating to the whereabouts and status of the missing person that results from the preliminary assessment or from actions taken to locate the person.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L.104–201, div. A, title V, §578(b)(1), Sept. 23, 1996, 110 Stat. 2536.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, §578(b)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(b)(1), Nov. 18, 1997, 111 Stat. 1768.)
 
 #### Amendments
+
+1997—Subsecs. (b), (c). Pub. L. 105–85 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 1996—Subsec. (a)(2). Pub. L. 104–201, §578(b)(1)(A), substituted “10 days” for “48 hours” and “Secretary concerned” for “theater component commander with jurisdiction over the missing person”.
 

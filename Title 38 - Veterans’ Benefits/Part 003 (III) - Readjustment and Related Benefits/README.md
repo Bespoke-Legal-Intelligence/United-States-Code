@@ -1,11 +1,6 @@
 ## PART III—READJUSTMENT AND RELATED BENEFITS
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>30.</b>](Chapter%20030%20-%20All-Volunteer%20Force%20Educational%20Assistance%20Program/README.md) | <b>All-Volunteer Force Educational Assistance Program</b> | <b>3001</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Training%20and%20Rehabilitation%20for%20Veterans%20with%20Service-Connected%20Disabilities/README.md) | <b>Training and Rehabilitation for Veterans with Service-Connected Disabilities</b> | <b>3100</b> |

@@ -4,7 +4,7 @@
 
 (b) It is declared to be the policy of this chapter, through the exercise by Congress of its power to regulate commerce among the several States and with foreign nations, to correct and as rapidly as practicable to eliminate the conditions above referred to in such industries without substantially curtailing employment or earning power.
 
-(June 25, 1938, ch. 676, §2, 52 Stat. 1060; Oct. 26, 1949, ch. 736, §2, 63 Stat. 910; Apr. 8, 1974, Pub. L. 93–259, §7(a), 88 Stat. 62.)
+(June 25, 1938, ch. 676, §2, 52 Stat. 1060; Oct. 26, 1949, ch. 736, §2, 63 Stat. 910; Pub. L. 93–259, §7(a), Apr. 8, 1974, 88 Stat. 62.)
 
 #### Amendments
 

@@ -26,7 +26,7 @@ The Secretary of the Treasury may invest in obligations issued or guaranteed by 
 
 #### (d) Transitional accounts
 
-(1) During the period beginning on November 5, 1990, and ending on September 30, 1994, the Fund shall contain a separate account for eachestablishment of the Retirement Home. During that period, contributions shall be collected under subsection (a) of this section for the account of the Naval Home for the purpose of achieving a trust fund five times the estimated annual operating budget of the Naval Home.
+(1) During the period beginning on November 5, 1990, and ending on September 30, 1994, the Fund shall contain a separate account for each establishment of the Retirement Home. During that period, contributions shall be collected under subsection (a) of this section for the account of the Naval Home for the purpose of achieving a trust fund five times the estimated annual operating budget of the Naval Home.
 
 (2) Beginning on November 5, 1990, funds required for the operation of the United States Soldiers’ and Airmen's Home shall be drawn from the appropriate account. Beginning on October 1, 1991, funds required for the operation of the Naval Home shall be drawn from the account of the Naval Home.
 

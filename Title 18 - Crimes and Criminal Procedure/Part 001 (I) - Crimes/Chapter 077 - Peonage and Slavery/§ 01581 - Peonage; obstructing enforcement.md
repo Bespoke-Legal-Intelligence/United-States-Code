@@ -2,7 +2,7 @@
 
 (a) Whoever holds or returns any person to a condition of peonage, or arrests any person with the intent of placing him in or returning him to a condition of peonage, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(b) Whoever obstructs, or attempts to obstruct, or in any way interferes with or preventsthe enforcement of this section, shall be liable to the penalties prescribed in subsection (a).
+(b) Whoever obstructs, or attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be liable to the penalties prescribed in subsection (a).
 
 (June 25, 1948, ch. 645, 62 Stat. 772; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(K), 108 Stat. 2147; Sept. 30, 1996, Pub. L. 104–208, div. C, title II, §218(a), 110 Stat. 3009–573.)
 

@@ -2,7 +2,7 @@
 
 This chapter may be cited as the “Home Owners’ Loan Act.”
 
-(June 13, 1933, ch. 64, §1, 48 Stat. 128; Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 277.)
+(June 13, 1933, ch. 64, §1, 48 Stat. 128; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 277.)
 
 #### Amendments
 

@@ -16,7 +16,7 @@ In developing admission procedures implementing subsection (b) of this section, 
 
 #### (d) Applicability of admission procedures limitations
 
-The limitations established in subsection (b) of this section shall not apply to dwelling units made available under section 8 \[42 U.S.C. 1437f\] housing assistance contracts for the purpose of preventing displacement, or ameliorating the effects of displacement, including displacement caused by rents exceeding 30 percent of monthly adjusted family income, of low-income families from projects being rehabilitated with assistance from rehabilitation grants under section 1437<i>o</i> <sup>1</sup> of this title and the Secretary shall not otherwise unduly restrict the use of payments under section 8 \[42 U.S.C. 1437f\] housing assistance contracts for this purpose.
+The limitations established in subsection (b) of this section shall not apply to dwelling units made available under section 8 \[42 U.S.C. 1437f\]housing assistance contracts for the purpose of preventing displacement, or ameliorating the effects of displacement, including displacement caused by rents exceeding 30 percent of monthly adjusted family income, of low-income families from projects being rehabilitated with assistance from rehabilitation grants under section 1437<i>o</i> <sup>1</sup> of this title and the Secretary shall not otherwise unduly restrict the use of payments under section 8 \[42 U.S.C. 1437f\] housing assistance contracts for this purpose.
 
 #### (e) Ineligibility of illegal drug users and alcohol abusers
 
@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 104–120, §9(d)(2), added subsec. (e).
 
 Subsec. (e)(3). Pub. L. 104–330, §501(b)(7)(B), struck out heading and text of par. (3). Text read as follows: “This subsection does not apply to any dwelling unit assisted by an Indian housing authority.”
 
-1992—Subsec. (c). Pub. L. 102–550, §105(a), substituted “very low-income families and shall” for “very low-income families, shall” and “. In developing such admission procedures, the Secretary shall” for “, and shall” and inserted “; except that such prohibition shall not apply with respect to families selected for occupancy inpublic housing under the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii) of this title” after “higher income families for residence”.
+1992—Subsec. (c). Pub. L. 102–550, §105(a), substituted “very low-income families and shall” for “very low-income families, shall” and “. In developing such admission procedures, the Secretary shall” for “, and shall” and inserted “; except that such prohibition shall not apply with respect to families selected for occupancy in public housing under the system of preferences established by the agency pursuant to section 1437d(c)(4)(A)(ii) of this title” after “higher income families for residence”.
 
 Subsec. (d)(2). Pub. L. 102–550, §105(b), inserted before period at end “, to scattered site public housing dwelling units sold or intended to be sold to public housing tenants under section 1437c(h) of this title.”
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
-Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996 and 1997, see section 402(f) of Pub. L. 104–99, as amended, set out as a note under section 1437a of this title.
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996, 1997, and 1998, see section 402(f) of Pub. L. 104–99, as amended, set out as a note under section 1437a of this title.
 
 #### Effective Date
 

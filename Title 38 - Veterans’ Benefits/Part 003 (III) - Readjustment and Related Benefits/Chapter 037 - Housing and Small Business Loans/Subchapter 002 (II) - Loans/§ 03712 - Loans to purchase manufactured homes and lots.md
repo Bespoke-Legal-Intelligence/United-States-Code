@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(III) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy the home, a manufactured home on the lot, or the home and the lot, as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, the manufactured home on the lot, or the home and the lot, as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
 
-(B) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purpose specified in clause (F) of paragraph (1) of this subsection without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
+(B) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purposespecified in clause (F) of paragraph (1) of this subsection without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
 
 (C) If a veteran is deceased and if such veteran's surviving spouse was a co-obligor under an existing loan previously guaranteed, insured, or made for purposes specified in this section, such surviving spouse shall, only for the purpose specified in clause (F) of paragraph (1) of this subsection, be deemed to be a veteran eligible for benefits under this chapter.
 
@@ -144,7 +144,7 @@
 
 (2) Any manufactured housing unit properly displaying a certification of conformity to all applicable Federal manufactured home construction and safety standards pursuant to section 616 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5415) shall be deemed to meet the standards required by paragraph (1).
 
-(i) The Secretary shall require the manufacturer to become a warrantor of any new manufactured home which is approved for purchase with financing through the assistance of this chapter and to furnish to the purchaser a written warranty in such form as the Secretary shall require. Such warranty shall include (1) a specific statement that the manufactured home meets the standards prescribed by the Secretary pursuant to the provisions of subsection (h) of this section; and (2) a provision that the warrantor's liability to the purchaser or owner is limited under the warranty to instances of substantial nonconformity to such standards which become evident within one year from date of purchase and as to which the purchaser or owner gives written notice to the warrantor not later than ten days after the end of the warranty period. The warranty prescribed herein shall be in addition to, and not in derogation of, all other rights and privileges which such purchaser or owner may have under any other law or instrument and shall so provide in the warranty document.
+(i) The Secretary shall require the manufacturer to become a warrantor of any new manufactured home which is approved for purchase with financing through the assistance of thischapter and to furnish to the purchaser a written warranty in such form as the Secretary shall require. Such warranty shall include (1) a specific statement that the manufactured home meets the standards prescribed by the Secretary pursuant to the provisions of subsection (h) of this section; and (2) a provision that the warrantor's liability to the purchaser or owner is limited under the warranty to instances of substantial nonconformity to such standards which become evident within one year from date of purchase and as to which the purchaser or owner gives written notice to the warrantor not later than ten days after the end of the warranty period. The warranty prescribed herein shall be in addition to, and not in derogation of, all other rights and privileges which such purchaser or owner may have under any other law or instrument and shall so provide in the warranty document.
 
 (j) Subject to notice and opportunity for a hearing, the Secretary is authorized to deny guaranteed or direct loan financing in the case of—
 
@@ -162,7 +162,7 @@
 
 #### Amendments
 
-1995—Subsecs. (<i>l</i>), (m). Pub. L. 104–66 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows: “The Secretary's annual reportto Congress shall include a report on operations under this section, including experience with compliance with the warranty required by subsection (i) and the experience regarding defaults and foreclosures.”
+1995—Subsecs. (<i>l</i>), (m). Pub. L. 104–66 redesignated subsec. (m) as (<i>l</i>) and struck out former subsec. (<i>l</i>) which read as follows: “The Secretary's annual report to Congress shall include a report on operations under this section, including experience with compliance with the warranty required by subsection (i) and the experience regarding defaults and foreclosures.”
 
 1994—Subsec. (c)(3)(D). Pub. L. 103–446, §1201(e)(14)(A)(i), inserted “of” after “subparagraph (B)” in introductory provisions.
 
@@ -240,7 +240,7 @@ Subsec. (a)(5)(A)(i). Pub. L. 100–198, §8(b)(1), inserted “(except as provi
 
 Subsec. (c)(3). Pub. L. 100–198, §3(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “The Administrator's guaranty may not exceed the lesser of 50 per centum of the loan amount or the maximum loan guaranty entitlement available, not to exceed $20,000.”
 
-Subsec. (c)(4). Pub. L. 100–198, §3(b)(2), amended first sentence generally. Prior to amendment, first sentenceread as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $20,000, less the amount of any such entitlement as may have been used under this section.”
+Subsec. (c)(4). Pub. L. 100–198, §3(b)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “The amount of guaranty entitlement available to a veteran under this section shall not be more than $20,000, less the amount of any such entitlement as may have been used under this section.”
 
 Subsec. (e)(5). Pub. L. 100–198, §8(b)(2), inserted before semicolon at end “; except that the requirement of this clause shall not apply (A) in the case of a guaranteed loan that is for the purpose described in paragraph (1)(F) of subsection (a), or (B) in the case described in section 1804(c)(2)”.
 
@@ -272,7 +272,7 @@ Subsec. (m). Pub. L. 97–306, §406(c)(2)(A), substituted “manufactured” fo
 
 Subsec. (b)(2). Pub. L. 97–72, §303(i), substituted “housing loan benefits” for “loan guaranty benefits”.
 
-Subsec. (d)(1). Pub. L. 97–66 increased from 15 years, 32 days to 20 years, 32 days the allowable maturity of a loan for purchase of a single-wide mobile home or a single-wide mobile home and a lot, from 20 years, 32 days to 23 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home, and from 20 years, 32 days to 25 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home and a lot.
+Subsec. (d)(1). Pub. L. 97–66 increased from 15 years, 32 days to 20 years, 32 days the allowable maturity ofa loan for purchase of a single-wide mobile home or a single-wide mobile home and a lot, from 20 years, 32 days to 23 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home, and from 20 years, 32 days to 25 years, 32 days the allowable maturity of a loan for purchase of a double-wide mobile home and a lot.
 
 1980—Subsec. (a)(1)(F). Pub. L. 96–385, §401(b)(1), added cl. (F).
 

@@ -10,7 +10,7 @@ Actions against the United States seeking compensation for any excessive measure
 
 #### (c) Burden of proof
 
-With respect to intervention for a substance identified pursuant to section 1473(a) of this title, the United States has the burden of establishing that, under the circumstances present at the time of the intervention, the substancecould reasonably pose a grave and imminent danger analogous to that posed by a substance enumerated in the protocol.
+With respect to intervention for a substance identified pursuant to section 1473(a) of this title, the United States has the burden of establishing that, under the circumstances present at the time of the intervention, the substance could reasonably pose a grave and imminent danger analogous to that posed by a substance enumerated in the protocol.
 
 (Pub. L. 93–248, §10, Feb. 5, 1974, 88 Stat. 10; Pub. L. 95–302, §1(4), June 26, 1978, 92 Stat. 345; Pub. L. 97–164, title I, §161(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

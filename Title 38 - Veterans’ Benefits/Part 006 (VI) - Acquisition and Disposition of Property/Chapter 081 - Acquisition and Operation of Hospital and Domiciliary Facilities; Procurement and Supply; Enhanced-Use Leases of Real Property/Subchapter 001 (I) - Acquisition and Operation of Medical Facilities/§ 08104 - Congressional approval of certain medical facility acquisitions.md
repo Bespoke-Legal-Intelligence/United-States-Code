@@ -108,7 +108,7 @@ Subsecs. (d) to (f). Pub. L. 100–322, §422(d), redesignated subsecs. (e) and 
 
 &emsp;“(1) no appropriation may be made for the construction, alteration, or acquisition (not including exchanges) of any medical facility which involves a total expenditure of more than $2,000,000 unless each committee has first adopted a resolution approving such construction, alteration, or acquisition and setting forth the estimated cost thereof; and
 
-&emsp;“(2) no appropriation may be made for the lease of any space for use as a medical facility at an average annual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof.”
+&emsp;“(2) no appropriation may be made for the lease of any space for use as a medical facility at an averageannual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof.”
 
 Subsec. (b)(1). Pub. L. 99–166, §303, inserted “and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase” after “such facility”.
 

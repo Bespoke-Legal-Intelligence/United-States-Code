@@ -18,7 +18,7 @@ Budget.—The Chief of Air Force Reserve is the official within the executive pa
 
 (e)
 
-Full Time Support Program.—(1) <sup>1</sup> The Chief of Air Force Reserve manages, with respect to the Air Force Reserve, the personnel program of the Department of Defense known as the Full Time Support Program.
+Full Time Support Program.—The Chief of Air Force Reserve manages, with respect to the Air Force Reserve, the personnel program of the Department of Defense known as the Full Time Support Program.
 
 (f)
 
@@ -26,9 +26,11 @@ Annual Report.—(1) The Chief of Air Force Reserve shall submit to the Secretar
 
 (2) The Secretary of Defense shall transmit the annual report of the Chief of Air Force Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 
-(Added Pub. L. 90–168, §2(19), Dec. 1, 1967, 81 Stat. 524, §8019; renumbered §8038 and amended Pub. L. 99–433, title V, §§521(a)(2), 522(g)(3), Oct. 1, 1986, 100 Stat. 1055, 1063; Pub. L. 103–337, div. A, title XVI, §1674(c)(1), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–201, div. A, title XII, §1212(d), Sept. 23, 1996, 110 Stat. 2693.)
+(Added Pub. L. 90–168, §2(19), Dec. 1, 1967, 81 Stat. 524, §8019; renumbered §8038 and amended Pub. L. 99–433, title V, §§521(a)(2), 522(g)(3), Oct. 1, 1986, 100 Stat. 1055, 1063; Pub. L. 103–337, div. A, title XVI, §1674(c)(1), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–201, div. A, title XII, §1212(d), Sept. 23, 1996, 110 Stat. 2693; Pub. L. 105–85, div. A, title X, §1073(a)(65), Nov. 18, 1997, 111 Stat. 1904.)
 
 #### Amendments
+
+1997—Subsec. (e). Pub. L. 105–85 struck out “(1)” before “The Chief of Air Force”.
 
 1996—Subsecs. (d) to (f). Pub. L. 104–201 added subsecs. (d) to (f).
 

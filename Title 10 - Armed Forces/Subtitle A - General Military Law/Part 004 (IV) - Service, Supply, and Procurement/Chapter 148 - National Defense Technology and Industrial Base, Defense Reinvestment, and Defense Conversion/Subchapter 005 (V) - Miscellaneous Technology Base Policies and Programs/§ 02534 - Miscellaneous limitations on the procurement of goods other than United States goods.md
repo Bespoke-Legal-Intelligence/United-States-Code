@@ -28,7 +28,7 @@ Components for naval vessels.—(A) The following components:
 
 Valves and machine tools.—Items in the following categories:
 
-&emsp;&emsp;(A) Powered and non-powered valves in Federal Supply Classes 4810 and 4820 used inpiping for naval surface ships and submarines.
+&emsp;&emsp;(A) Powered and non-powered valves in Federal Supply Classes 4810 and 4820 used in piping for naval surface ships and submarines.
 
 &emsp;&emsp;(B) Machine tools in the Federal Supply Classes for metal-working machinery numbered 3405, 3408, 3410 through 3419, 3426, 3433, 3438, 3441 through 3443, 3445, 3446, 3448, 3449, 3460, and 3461.
 
@@ -58,7 +58,7 @@ Manufacturers of chemical weapons antidote.—In the case of a procurement of ch
 
 &emsp;(3)
 
-Manufacturer of vessel propellers.—In the case of a procurement of vessel propellers referred to in subsection (a)(3)(A)(ii),<sup>1</sup> the manufacturer of the propellers meets the requirements of this subsection only if—
+Manufacturer of vessel propellers.—In the case of a procurement of vessel propellers referred to in subsection (a)(3)(A)(iii), the manufacturer of the propellers meets the requirements of this subsection only if—
 
 &emsp;&emsp;(A) the manufacturer meets the requirements set forth in paragraph (1); and
 
@@ -102,9 +102,9 @@ Waiver Authority.—The Secretary of Defense may waive the limitation in subsect
 
 &emsp;(3) Application of the limitation would impede cooperative programs entered into between the Department of Defense and a foreign country, or would impede the reciprocal procurement of defense items under a memorandum of understanding providing for reciprocal procurement of defense items that is entered into under section 2531 of this title, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
 
-&emsp;(4) Satisfactory quality items manufactured by an entity that is part of the national technology and industrial base (as defined in section 2491(1) of this title) are not available.
+&emsp;(4) Satisfactory quality items manufactured by an entity that is part of the national technology and industrial base (as defined in section 2500(1) of this title) are not available.
 
-&emsp;(5) Application of the limitation would result in the existence of only one source for the item that is an entity that is part of the national technology and industrial base (as defined in section 2491(1) of this title).
+&emsp;(5) Application of the limitation would result in the existence of only one source for the item that is an entity that is part of the national technology and industrial base (as defined in section 2500(1) of this title).
 
 &emsp;(6) The procurement is for an amount less than the simplified acquisition threshold and simplified purchase procedures are being used.
 
@@ -152,7 +152,19 @@ Implementation of Naval Vessel Component Limitation.—In implementing subsectio
 
 &emsp;(2) shall use management and oversight techniques that achieve the objective of the subsection without imposing a significant management burden on the Government or the contractor involved.
 
-(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659.)
+(i)
+
+Implementation of Certain Waiver Authority.—(1) The Secretary of Defense may exercise the waiver authority described in paragraph (2) only if the waiver is made for a particular item listed in subsection (a) and for a particular foreign country.
+
+(2) This subsection applies to the waiver authority provided by subsection (d) on the basis of the applicability of paragraph (2) or (3) of that subsection.
+
+(3) The waiver authority described in paragraph (2) may not be delegated below the Under Secretary of Defense for Acquisition and Technology.
+
+(4) At least 15 days before the effective date of any waiver made under the waiver authority described in paragraph (2), the Secretary shall publish in the Federal Register and submit to the congressional defense committees a notice of the determination to exercise the waiver authority.
+
+(5) Any waiver made by the Secretary under the waiver authority described in paragraph (2) shall be in effect for a period not greater than one year, as determined by the Secretary.
+
+(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903.)
 
 Historical and Revision Notes
 
@@ -168,9 +180,15 @@ Historical and Revision Notes
 
 Sept. 20, 1968, Pub. L. 90–500, §404, 82 Stat. 851.
 
-The words “of the United States under the provisions of this Act or the provisions of any other law” are omitted as surplus. The word “acquisition” is substituted for “purchase, lease, rental, or other acquisition” because it is inclusive. The words “this section” are substituted for “this prohibition” because of the restatement.
+The words “of the United States under the provisions of this Act or the provisions of any other law” areomitted as surplus. The word “acquisition” is substituted for “purchase, lease, rental, or other acquisition” because it is inclusive. The words “this section” are substituted for “this prohibition” because of the restatement.
 
 #### Amendments
+
+1997—Subsec. (b)(3). Pub. L. 105–85, §1073(a)(55), substituted “(a)(3)(A)(iii)” for “(a)(3)(A)(ii)”.
+
+Subsec. (d)(4), (5). Pub. L. 105–85, §371(d)(1), substituted “section 2500(1)” for “section 2491(1)”.
+
+Subsec. (i). Pub. L. 105–85, §811(a), added subsec. (i).
 
 1996—Subsec. (a)(3). Pub. L. 104–106, §806(a)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “
 
@@ -244,6 +262,14 @@ Subsec. (d). Pub. L. 100–456, §822, added subsec. (d).
 
 1987—Pub. L. 100–180 substituted “Miscellaneous procurement limitations” for “Limitation on procurement of buses” in section catchline, designated existing provisions as subsec. (a) and added heading, and added subsecs. (b) and (c).
 
+#### Effective Date of 1997 Amendment
+
+Section 811(b) of Pub. L. 105–85 provided that: “Subsection (i) of section 2534 of such title \[10 U.S.C. 2534(i)\], as added by subsection (a), shall apply with respect to—
+
+&emsp;“(1) contracts and subcontracts entered into on or after the date of the enactment of this Act \[Nov. 18, 1997\]; and
+
+&emsp;“(2) options for the procurement of items that are exercised after such date under contracts that are entered into before such date if the option prices are adjusted for any reason other than the application of a waiver granted under subsection (d) of such section 2534, on the basis of the applicability of paragraph (2) or (3) of that subsection.”
+
 #### Effective Date of 1996 Amendment
 
 Section 806(a)(5) of Pub. L. 104–106 provided that: “Subsection (a)(3)(B) of section 2534 of title 10, United States Code, as amended by paragraph (1), shall apply only to contracts entered into after March 31, 1996.”
@@ -259,6 +285,4 @@ Section 833(b) of Pub. L. 102–484 provided that: “Subsection (f) of section 
 #### Effective Date of 1990 Amendment
 
 Section 835(b) of Pub. L. 101–510 provided that subsec. (e) of this section, as added by section 835(a) of Pub. L. 101–510, applied with respect to systems or items procured by or provided to Department of Defense after Nov. 5, 1990.
-
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)(3)(A)(iii),”.</i>
 

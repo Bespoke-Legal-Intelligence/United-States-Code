@@ -12,7 +12,7 @@ The legislature may vest in the local courts jurisdiction over all causes in Gua
 
 The practice and procedure in the local courts and the qualifications and duties of the judges thereof shall be governed by the laws of Guam and the rules of those courts.
 
-(Aug. 1, 1950, ch. 512, §22A, as added Oct. 5, 1984, Pub. L. 98–454, title VIII, §801, 98 Stat. 1742.)
+(Aug. 1, 1950, ch. 512, §22A, as added Pub. L. 98–454, title VIII, §801, Oct. 5, 1984, 98 Stat. 1742.)
 
 #### References in Text
 

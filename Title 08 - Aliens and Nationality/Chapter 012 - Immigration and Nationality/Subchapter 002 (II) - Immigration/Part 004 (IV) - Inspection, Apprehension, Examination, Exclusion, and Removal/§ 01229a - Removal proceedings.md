@@ -220,7 +220,7 @@ In this section and section 1229b of this title:
 
 Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out asan Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
@@ -228,7 +228,7 @@ For purposes of this chapter, any reference in law to an order of removal is dee
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1101, 1155, 1158, 1159, 1182, 1184, 1225, 1228, 1229, 1229c, 1231, 1252, 1256, 1282, 1357, 1368 of this title.
+This section is referred to in sections 1101, 1155, 1158, 1159, 1182, 1184, 1225, 1228, 1229, 1229c, 1231, 1252, 1256, 1282, 1357, 1368 of this title; title 18 section 4113; title 28 section 1821.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

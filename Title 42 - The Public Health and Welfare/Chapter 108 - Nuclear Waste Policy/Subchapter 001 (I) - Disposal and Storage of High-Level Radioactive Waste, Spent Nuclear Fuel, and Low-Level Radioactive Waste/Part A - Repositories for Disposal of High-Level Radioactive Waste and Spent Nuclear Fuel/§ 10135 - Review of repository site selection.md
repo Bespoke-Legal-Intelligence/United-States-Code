@@ -42,7 +42,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 &emsp;&emsp;(i) the procedure with respect to that or other resolutions of the Senate with respect to such site shall be the same as if no resolution from the House with respect to such site had been received; but
 
-&emsp;&emsp;(ii) on any vote on final passage of a resolution of the Senate with respect to suchsite, a resolution from the House with respect to such site where the text is identical shall be automatically substituted for the resolution of the Senate.
+&emsp;&emsp;(ii) on any vote on final passage of a resolution of the Senate with respect to such site, a resolution from the House with respect to such site where the text is identical shall be automatically substituted for the resolution of the Senate.
 
 #### (e) Procedures applicable to House of Representatives
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (g) Information provided to Congress
 
-In considering any notice of disapproval submitted to the Congress under section 10136 or 10138 of this title, the Congress may obtain any comments of the Commission with respect to such notice of disapproval. The provision of such comments by the Commission shall not be construed as binding the Commission with respect to any licensing or authorization action concerning the repository involved.
+In considering any notice of disapproval submitted to the Congress under section 10136 or 10138 of this title, the Congress may obtain any comments of the Commission with respect tosuch notice of disapproval. The provision of such comments by the Commission shall not be construed as binding the Commission with respect to any licensing or authorization action concerning the repository involved.
 
 (Pub. L. 97–425, title I, §115, Jan. 7, 1983, 96 Stat. 2217.)
 

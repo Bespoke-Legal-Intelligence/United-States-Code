@@ -6,7 +6,7 @@ If upon the whole case it finds that the plaintiff is indebted to the United Sta
 
 The transcript of such judgment, filed in the clerk's office of any district court, shall be entered upon the records and shall be enforceable as other judgments.
 
-(June 25, 1948, ch. 646, 62 Stat. 977; July 28, 1953, ch. 253, §10, 67 Stat. 227; Sept. 3, 1954, ch. 1263, §47(a), 68 Stat. 1243; Apr. 2, 1982, Pub. L. 97–164, title I, §139(g), 96 Stat. 42; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; July 28, 1953, ch. 253, §10, 67 Stat. 227; Sept. 3, 1954, ch. 1263, §47(a), 68 Stat. 1243; Pub. L. 97–164, title I, §139(g), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -16,13 +16,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1954—Act Sept. 3, 1954, struck out “United States” from name of Court of Claims in first par.
+<b>1954</b>—Act Sept. 3, 1954, struck out “United States” from name of Court of Claims in first par.
 
-1953—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” in first par., and substituted “shall be enforceable as other judgments” for “be a judgment of such district court and enforceable as such” in third par.
+<b>1953</b>—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” in first par., and substituted “shall be enforceable as other judgments” for “be a judgment of such district court and enforceable as such” in third par.
 
 #### Effective Date of 1992 Amendment
 

@@ -8,7 +8,7 @@ The directors of any national banking association may, quarterly, semiannually o
 
 The approval of the Comptroller of the Currency shall be required if the total of all dividends declared by such association in any calendar year shall exceed the total of its net income of that year combined with its retained net income of the preceding two years, less any required transfers to surplus or a fund for the retirement of any preferred stock.
 
-(R.S. §5199; Aug. 23, 1935, ch. 614, title III, §315, 49 Stat. 712; Sept. 8, 1959, Pub. L. 86–230, §21(a), 73 Stat. 465; Sept. 23, 1994, Pub. L. 103–325, title VI, §602(h)(2), 108 Stat. 2294.)
+(R.S. §5199; Aug. 23, 1935, ch. 614, title III, §315, 49 Stat. 712; Pub. L. 86–230, §21(a), Sept. 8, 1959, 73 Stat. 465; Pub. L. 103–325, title VI, §602(h)(2), Sept. 23, 1994, 108 Stat. 2294.)
 
 #### Codification
 
@@ -20,7 +20,7 @@ R.S. §5199 derived from act June 3, 1864, ch. 106, §33, 13 Stat. 109, which wa
 
 Subsec. (b). Pub. L. 103–325, §602(h)(2)(B), substituted “net income” for “net profits” in two places.
 
-Subsec. (c). Pub. L. 103–325, §602(h)(2)(C), struck out subsec. (c) which read as follows: “For the purpose ofthis section the term ‘net profits’ shall mean the remainder of all earnings from current operations plus actual recoveries on loans and investments and other assets, after deducting from the total thereof all current operating expenses, actual losses, accrued dividends on preferred stock, if any, and all Federal and State taxes.”
+Subsec. (c). Pub. L. 103–325, §602(h)(2)(C), struck out subsec. (c) which read as follows: “For the purpose of this section the term ‘net profits’ shall mean the remainder of all earnings from current operations plus actual recoveries on loans and investments and other assets, after deducting from the total thereof all current operating expenses, actual losses, accrued dividends on preferred stock, if any, and all Federal and State taxes.”
 
 1959—Pub. L. 86–230 designated existing provisions as subsec. (a), authorized the declaration of dividends, quarterly and annually, when at least one-tenth of the bank's net profits of the preceding half year or of the preceding two consecutive half-year periods has been carried to the surplus fund, respectively, and added subsecs. (b) and (c).
 

@@ -24,7 +24,7 @@ For definition of “this chapter”, referred to in subsec. (b), see note set o
 
 Subsec. (b). Pub. L. 104–127, §853(b)(5)(B), struck out “and the Technology Board” before “shall serve without”.
 
-Pub. L. 104–127, §852(b)(4)(B), which directed substitution of “Advisory Board” for “Joint Council, Advisory Board,” was executed by making the substitution for “Joint Council, the Advisory Board,” to reflect the probable intent of Congress.
+Pub. L. 104–127, §852(b)(4)(B), which directed substitution of “Advisory Board” for “Joint Council, Advisory Board,” was executed by making the substitutionfor “Joint Council, the Advisory Board,” to reflect the probable intent of Congress.
 
 1994—Subsec. (d). Pub. L. 103–354 struck out subsec. (d) which read as follows: “The President shall appoint, by and with the advice and consent of the Senate, an Assistant Secretary of Agriculture who shall perform such duties as are necessary to carry out this chapter and who shall receive compensation at the rate now or hereafter prescribed by law for Assistant Secretaries of Agriculture.”
 

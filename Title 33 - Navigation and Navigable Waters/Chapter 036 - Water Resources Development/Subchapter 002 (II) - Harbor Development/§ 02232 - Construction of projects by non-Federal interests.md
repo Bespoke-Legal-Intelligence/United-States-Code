@@ -78,7 +78,7 @@ Section 404 of Pub. L. 101–640 provided that:
 
 “(a)
 
-In General.—For purposes of demonstrating the safety benefits and economic efficiencies which would accrue as a consequence of non-Federal management of harbor improvement projects, the Secretary shall enter into agreements with 2 non-Federal interests pursuant to which the non-Federal interests will undertake part or all of a harbor project authorized by law, by utilizing their own personnel or by procuring outside services, if the cost of doing so will not exceed the cost of the Secretary undertaking the project. If proposals for such agreements meet the criteria of section 204 of the Water Resources Development Act of 1986 \[33 U.S.C. 2232\], the agreements shall be entered into not later than 1 year after the date of the enactment of this Act \[Nov. 28, 1990\].
+In General.—For purposes of demonstrating the safety benefits and economic efficiencies which wouldaccrue as a consequence of non-Federal management of harbor improvement projects, the Secretary shall enter into agreements with 2 non-Federal interests pursuant to which the non-Federal interests will undertake part or all of a harbor project authorized by law, by utilizing their own personnel or by procuring outside services, if the cost of doing so will not exceed the cost of the Secretary undertaking the project. If proposals for such agreements meet the criteria of section 204 of the Water Resources Development Act of 1986 \[33 U.S.C. 2232\], the agreements shall be entered into not later than 1 year after the date of the enactment of this Act \[Nov. 28, 1990\].
 
 “(b)
 

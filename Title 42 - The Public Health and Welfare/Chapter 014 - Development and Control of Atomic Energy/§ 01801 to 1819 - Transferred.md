@@ -36,7 +36,7 @@ Section 1815, acts Aug. 1, 1946, ch. 724, §15, 60 Stat. 772; Oct. 28, 1949, ch.
 
 Section 1816, act Aug. 1, 1946, ch. 724, §16, 60 Stat. 773, related to penalties for violation of certain provisions of this chapter, injunctions, subpoena of witnesses, and production of documents. See sections 2271 to 2281 of this title.
 
-Section 1817, act Aug. 1, 1946, ch. 724, §17, 60 Stat. 774, related to reports and recommendations to Congress. See section 2016 of this title.
+Section 1817, act Aug. 1, 1946, ch. 724, §17, 60 Stat. 774, related to reports and recommendations to Congress.
 
 Section 1818, act Aug. 1, 1946, ch. 724, §18, 60 Stat. 774, related to definitions. See section 2014 of this title.
 

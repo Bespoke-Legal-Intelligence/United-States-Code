@@ -152,7 +152,7 @@ Section 2(b) of Pub. L. 102–578 provided that: “The amendments made by subse
 
 #### Effective Date of 1991 Amendment
 
-Section 104(b) of Pub. L. 102–86 provided that: “No benefit may be paid by reason of the amendment madeby subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\].”
+Section 104(b) of Pub. L. 102–86 provided that: “No benefit may be paid by reason of the amendment made by subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\].”
 
 #### Effective Date of 1988 Amendment
 

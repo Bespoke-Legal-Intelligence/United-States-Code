@@ -80,7 +80,7 @@ Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions a
 
 #### Application of Section to Fishing Vessels in California
 
-Citizen of the United States to include an alien lawfully admitted for permanent residence, for purposes ofapplying this section to vessels operating in waters off the coast of California, subject to United States jurisdiction, see section 317 of Pub. L. 101–595, set out as a note under section 8103 of this title.
+Citizen of the United States to include an alien lawfully admitted for permanent residence, for purposes of applying this section to vessels operating in waters off the coast of California, subject to United States jurisdiction, see section 317 of Pub. L. 101–595, set out as a note under section 8103 of this title.
 
 #### Applicability of Subsection (b)
 

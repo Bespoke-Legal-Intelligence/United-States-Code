@@ -2,7 +2,7 @@
 
 The Secretary of Transportation may waive sections 270a to 270d–1 of this title, with respect to contracts for the construction, alteration, or repair, of vessels of any kind or nature, entered into pursuant to sections 1535 and 1536 of title 31, the Merchant Marine Act, 1936 \[46 App. U.S.C. 1101 et seq.\], or the Merchant Ship Sales Act of 1946 \[50 App. U.S.C. 1735 et seq.\], regardless of the terms of such contracts as to payment or title.
 
-(Apr. 29, 1941, ch. 81, §2, as added Oct. 21, 1970, Pub. L. 91–469, §39, 84 Stat. 1036; amended Aug. 6, 1981, Pub. L. 97–31, §12(12), 95 Stat. 154.)
+(Apr. 29, 1941, ch. 81, §2, as added Pub. L. 91–469, §39, Oct. 21, 1970, 84 Stat. 1036; amended Pub. L. 97–31, §12(12), Aug. 6, 1981, 95 Stat. 154.)
 
 #### References in Text
 

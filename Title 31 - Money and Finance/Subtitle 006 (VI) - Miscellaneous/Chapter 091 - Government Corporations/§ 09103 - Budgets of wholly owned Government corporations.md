@@ -10,7 +10,7 @@
 
 &emsp;(3) provide for emergencies and contingencies and otherwise be flexible so that the corporation may carry out its activities.
 
-(c) The President shall submit the budget programs submitted by wholly owned Government corporations (as changed by the President) as part of the budget submitted to Congress under section 1105 of this title. The President thereafter may submit changes in a budget program of a corporation at any time.
+(c) The President shall submit the budget programs submitted by wholly owned Governmentcorporations (as changed by the President) as part of the budget submitted to Congress under section 1105 of this title. The President thereafter may submit changes in a budget program of a corporation at any time.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1042.)
 

@@ -104,7 +104,7 @@ The Secretary shall establish selection criteria for grants under this section, 
 
 Each public housing agency shall, to the maximum extent practicable, employ public housing residents to provide the services assisted under this section or from other sources. Such persons shall be paid at a rate not less than the highest of—
 
-&emsp;(1) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\], ifsection 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
+&emsp;(1) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\], if section 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
 
 &emsp;(2) the State or local minimum wage for the most nearly comparable covered employment; or
 

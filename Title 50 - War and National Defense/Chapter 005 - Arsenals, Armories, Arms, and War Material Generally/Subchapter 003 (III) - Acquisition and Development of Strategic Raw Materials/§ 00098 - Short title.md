@@ -2,7 +2,7 @@
 
 This subchapter may be cited as the “Strategic and Critical Materials Stock Piling Act”.
 
-(June 7, 1939, ch. 190, §1, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 319.)
+(June 7, 1939, ch. 190, §1, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 319.)
 
 #### Prior Provisions
 

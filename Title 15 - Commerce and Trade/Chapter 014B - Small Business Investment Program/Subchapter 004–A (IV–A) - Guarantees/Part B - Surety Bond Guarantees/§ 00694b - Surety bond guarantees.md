@@ -4,7 +4,7 @@
 
 (1) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any contract up to $1,250,000.
 
-(2) The terms and conditions of said guarantees and commitments may vary from surety tosurety on the basis of the Administration's experience with the particular surety.
+(2) The terms and conditions of said guarantees and commitments may vary from surety to surety on the basis of the Administration's experience with the particular surety.
 
 (3) The Administration may authorize any surety, without further administration approval, to issue, monitor, and service such bonds subject to the Administration's guarantee.
 
@@ -46,7 +46,7 @@ Any guarantee or agreement to indemnify under this section shall obligate the Ad
 
 &emsp;&emsp;(A) the total amount of the contract at the time of execution of the bond or bonds is $100,000 or less, or
 
-&emsp;&emsp;(B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title; or
+&emsp;&emsp;(B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title); or
 
 &emsp;(4) determined pursuant to subsection (b) of this section, if applicable.
 
@@ -86,13 +86,15 @@ The Administration shall administer this part on a prudent and economically just
 
 The provisions of section 693 of this title shall apply in the administration of this section.
 
-(Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738.)
+(Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633.)
 
 #### Termination of Subsection (a)(3)
 
 <i>For termination of subsection (a)(3) of this section, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### Amendments
+
+1997—Subsec. (c)(3)(B). Pub. L. 105–135 inserted “, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title)” before semicolon.
 
 1996—Subsec. (a)(5). Pub. L. 104–208 added par. (5).
 
@@ -124,13 +126,17 @@ Subsecs. (e) to (i). Pub. L. 95–507 added subsecs. (e) to (i).
 
 Subsec. (c). Pub. L. 93–386, §11, inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be done to make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Section 206(b) of div. D of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to applications received (or pending substantive evaluation) on or after October 1, 1995.”
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Section 207 of Pub. L. 100–590, as amended by Pub. L. 101–574, title II, §216(a), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 103–403, title III, §302, Oct. 22, 1994, 108 Stat. 4188; Pub. L. 104–36, §7, Oct. 12, 1995, 109 Stat. 297, provided that: “The provisions contained in section 411(a)(3) of the Small Business Investment Act of 1958 (15 U.S.C. 694b(a)(3)) shall cease to be effective after September 30, 1997.”
+Section 207 of Pub. L. 100–590, as amended by Pub. L. 101–574, title II, §216(a), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 103–403, title III, §302, Oct. 22, 1994, 108 Stat. 4188; Pub. L. 104–36, §7, Oct. 12, 1995, 109 Stat. 297; Pub. L. 105–135, title V, §503, Dec. 2, 1997, 111 Stat. 2624, provided that: “The provisions contained in section 411(a)(3) of the Small Business Investment Act of 1958 (15 U.S.C. 694b(a)(3)) shall cease to be effective after September 30, 2000.”
 
 Section 209 of title II of Pub. L. 100–590 provided that: “Except as otherwise provided in this title, the provisions of this title \[amending this section and section 694c of this title and enacting provisions set out as notes under this section\], shall become effective upon expiration of one hundred and eighty days after the date of its enactment \[Nov. 3, 1988\].”
 

@@ -38,7 +38,9 @@
 
 (4) Upon the request of any person in any action for which interpreting services established pursuant to subsection (d) are not otherwise provided, the clerk of the court, or other court employee designated by the chief judge, upon the request of the presiding judicial officer, shall, where possible, make such services available to that person on a cost-reimbursable basis, but the judicial officer may also require the prepayment of the estimated expenses of providing such services.
 
-(5) Any moneys collected under this subsection may be used to reimburse the appropriations obligated and disbursed in payment for such services.
+(5) If the Director of the Administrative Office of the United States Courts finds it necessary to develop and administer criterion-referenced performance examinations for purposes of certification, or other examinations for the selection of otherwise qualified interpreters, the Director may prescribe for each examination a uniform fee for applicants to take such examination. In determining the rate of the fee for each examination, the Director shall consider the fees charged by other organizations for examinations that are similar in scope or nature. Notwithstanding section 3302(b) of title 31, the Director is authorized to provide in any contract or agreement for the development or administration of examinations and the collection of fees that the contractor may retain all or a portion of the fees in payment for the services. Notwithstanding paragraph (6) of this subsection, all fees collected after the effective date of this paragraph and not retained by a contractor shall be deposited in the fund established under section 1931 of this title and shall remain available until expended.
+
+(6) Any moneys collected under this subsection may be used to reimburse the appropriations obligated and disbursed in payment for such services.
 
 (h) The presiding judicial officer shall approve the compensation and expenses payable to interpreters, pursuant to the schedule of fees prescribed by the Director under subsection (b)(3).
 
@@ -46,9 +48,11 @@
 
 (j) The term “judicial proceedings instituted by the United States” as used in this section refers to all proceedings, whether criminal or civil, including pretrial and grand jury proceedings (as well as proceedings upon a petition for a writ of habeas corpus initiated in the name of the United States by a relator) conducted in, or pursuant to the lawful authority and jurisdiction of a United States district court. The term “United States district court” as used in this subsection includes any court which is created by an Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title.
 
-(k) The interpretation provided by certified or otherwise qualified interpreters pursuant to this section shall be in the simultaneous mode for any party to a judicial proceeding instituted by the United States and in the consecutive mode for witnesses, except that the presiding judicial officer, sua sponte or on the motion of a party, may authorize a simultaneous, or consecutive interpretation when such officer determines after a hearing on the record that such interpretation will aid in the efficient administration of justice. The presiding judicial officer, on such officer's motion or on the motion of a party, may order that special interpretation services as authorized in section 1828 of this title be provided if such officer determines that the provision of such services will aid in the efficient administration of justice.
+(k) The interpretation provided by certified or otherwise qualified interpreters pursuant to thissection shall be in the simultaneous mode for any party to a judicial proceeding instituted by the United States and in the consecutive mode for witnesses, except that the presiding judicial officer, sua sponte or on the motion of a party, may authorize a simultaneous, or consecutive interpretation when such officer determines after a hearing on the record that such interpretation will aid in the efficient administration of justice. The presiding judicial officer, on such officer's motion or on the motion of a party, may order that special interpretation services as authorized in section 1828 of this title be provided if such officer determines that the provision of such services will aid in the efficient administration of justice.
 
-(Added Pub. L. 95–539, §2(a), Oct. 28, 1978, 92 Stat. 2040; amended Pub. L. 100–702, title VII, §§702–710, Nov. 19, 1988, 102 Stat. 4654–4657.)
+(<i>l</i>) Notwithstanding any other provision of this section or section 1828, the presiding judicial officer may appoint a certified or otherwise qualified sign language interpreter to provide services to a party, witness, or other participant in a judicial proceeding, whether or not the proceeding is instituted by the United States, if the presiding judicial officer determines, on such officer's own motion or on the motion of a party or other participant in the proceeding, that such individual suffers from a hearing impairment. The presiding judicial officer shall, subject to the availability of appropriated funds, approve the compensation and expenses payable to sign language interpreters appointed under this section in accordance with the schedule of fees prescribed by the Director under subsection (b)(3) of this section.
+
+(Added Pub. L. 95–539, §2(a), Oct. 28, 1978, 92 Stat. 2040; amended Pub. L. 100–702, title VII, §§702–710, Nov. 19, 1988, 102 Stat. 4654–4657; Pub. L. 104–317, title III, §306, title IV, §402(a), Oct. 19, 1996, 110 Stat. 3852, 3854.)
 
 #### References in Text
 
@@ -56,9 +60,15 @@ The date of the enactment of the Judicial Improvements and Access to Justice Act
 
 The Judicial Improvements and Access to Justice Act, referred to in subsec. (g)(1), is Pub. L. 100–702, Nov. 19, 1988, 102 Stat. 4642. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
+The effective date of this paragraph, referred to in subsec. (g)(5), is the effective date of Pub. L. 104–317, which was approved Oct. 19, 1996.
+
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–702, §702, amended subsec. (a) generally, substituting “certified and otherwise qualified interpreters in judicial proceedings instituted by the United States” for “interpreters in courts of the United States”.
+<b>1996</b>—Subsec. (g)(5), (6). Pub. L. 104–317, §402(a), added par. (5) and redesignated former par. (5) as (6).
+
+Subsec. (<i>l</i>). Pub. L. 104–317, §306, added subsec. (<i>l</i>).
+
+<b>1988</b>—Subsec. (a). Pub. L. 100–702, §702, amended subsec. (a) generally, substituting “certified and otherwise qualified interpreters in judicial proceedings instituted by the United States” for “interpreters in courts of the United States”.
 
 Subsec. (b). Pub. L. 100–702, §703, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director shall prescribe, determine, and certify the qualifications of persons who may serve as certified interpreters in courts of the United States in bilingual proceedings and proceedings involving the hearing impaired (whether or not also speech impaired), and in so doing, the Director shall consider the education, training, and experience of those persons. The Director shall maintain a current master list of all interpreters certified by the Director and shall report annually on the frequency of requests for, and the use and effectiveness of, interpreters. The Director shall prescribe a schedule of fees for services rendered by interpreters.”
 
@@ -101,6 +111,10 @@ Section effective ninety days after Oct. 28, 1978, see section 10(b) of Pub. L. 
 #### Short Title
 
 For short title of Pub. L. 95–539 as “Court Interpreters Act”, see Short Title of 1978 Amendments note set out under section 1 of this title.
+
+#### Payment for Contactual Services
+
+Section 402(b) of Pub. L. 104–317 provided that: “Notwithstanding sections 3302(b), 1341, and 1517 of title 31, United States Code, the Director of the Administrative Office of the United States Courts may include in any contract for the development or administration of examinations for interpreters (including such a contract entered into before the date of the enactment of this Act \[Oct. 19, 1996\]) a provision which permits the contractor to collect and retain fees in payment for contractual services in accordance with section 1827(g)(5) of title 28, United States Code.”
 
 #### Impact on Existing Programs
 

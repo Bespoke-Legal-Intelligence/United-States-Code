@@ -92,7 +92,7 @@ No candidate or political committee shall knowingly accept any contribution or m
 
 #### (g) Attribution of multi-State expenditures to candidate's expenditure limitation in each State
 
-The Commission shall prescribe rules under which any expenditure by a candidate for presidential nominations for use in 2 or more States shall be attributed to such candidate's expenditure limitation in each such State, based on thevoting age population in such State which can reasonably be expected to be influenced by such expenditure.
+The Commission shall prescribe rules under which any expenditure by a candidate for presidential nominations for use in 2 or more States shall be attributed to such candidate's expenditure limitation in each such State, based on the voting age population in such State which can reasonably be expected to be influenced by such expenditure.
 
 #### (h) Senatorial candidates
 

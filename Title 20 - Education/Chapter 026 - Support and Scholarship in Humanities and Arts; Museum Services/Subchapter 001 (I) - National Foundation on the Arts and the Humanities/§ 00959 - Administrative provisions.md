@@ -66,7 +66,7 @@ The National Council on the Arts and the National Council on the Humanities, res
 
 #### (f) Post-award evaluation of assisted projects, productions, and programs; reports; extension of time for compliance; failure to satisfy purposes of assistance
 
-(1) The Chairperson of the National Endowment for the Arts and the Chairperson of the National Endowment for the Humanities shall conduct a post-award evaluation of projects, productions, and programs for which financial assistance is provided by their respective Endowments under sections 954(c) and 956(c) of this title. Such evaluation may include an audit to determine the accuracy of the reports required to be submitted by recipients under clauses (i) and (ii) of paragraph (2)(A). As a condition of receiving such financial assistance, a recipient shall comply with the requirements specified in paragraph (2) that are applicable to the project, production, or program for which such financial assistance is received.
+(1) The Chairperson of the National Endowment for the Arts and the Chairperson of the National Endowment for the Humanities shall conduct a post-award evaluation of projects, productions, and programs for which financial assistance is provided by their respective Endowments under sections 954(c) and 956(c) of this title. Such evaluation may include an audit to determine the accuracy of the reports requiredto be submitted by recipients under clauses (i) and (ii) of paragraph (2)(A). As a condition of receiving such financial assistance, a recipient shall comply with the requirements specified in paragraph (2) that are applicable to the project, production, or program for which such financial assistance is received.
 
 (2)(A) The recipient of financial assistance provided by either of the Endowments shall submit to the Chairperson of the Endowment involved—
 
@@ -96,7 +96,7 @@ The income tax, gift tax, and estate tax laws of the United States, referred to 
 
 #### Codification
 
-In subsec. (a)(5), reference to “section 5703 of title 5” substituted for “law (5 U.S.C. 73b–2)” on authority ofPub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a)(5), reference to “section 5703 of title 5” substituted for “law (5 U.S.C. 73b–2)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

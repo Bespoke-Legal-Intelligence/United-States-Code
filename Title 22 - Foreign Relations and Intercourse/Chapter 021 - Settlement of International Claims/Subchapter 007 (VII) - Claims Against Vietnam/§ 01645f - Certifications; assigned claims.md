@@ -4,5 +4,5 @@
 
 (b) In any case in which a claim under this subchapter is assigned by purchase before the Commission determines the amount due on that claim, the amount so determined shall not exceed the amount of actual consideration paid by the last such assignee.
 
-(Mar. 10, 1950, ch. 54, title VII, §707, as added Dec. 28, 1980, Pub. L. 96–606, 94 Stat. 3536.)
+(Mar. 10, 1950, ch. 54, title VII, §707, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3536.)
 

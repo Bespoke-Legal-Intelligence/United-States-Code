@@ -8,7 +8,7 @@
 
 (2) A facility described in this paragraph is—
 
-&emsp;(A) a Department facility (as defined in section 1701(4) of this title) to which the deceased was properly admitted for hospital, nursing home, or domiciliary care under section 1710 or 1711(a) of this title; or
+&emsp;(A) a facility of the Department (as defined in section 1701(3) of this title) to which the deceased was properly admitted for hospital,nursing home, or domiciliary care under section 1710 or 1711(a) of this title; or
 
 &emsp;(B) an institution at which the deceased veteran was, at the time of death, receiving—
 
@@ -24,9 +24,11 @@
 
 &emsp;(2) if such veteran (other than a veteran whose eligibility for benefits under this subsection is based on being a veteran of any war) is buried in a cemetery, or a section of a cemetery, other than as described in clause (1) of this subsection, the Secretary shall pay a sum not exceeding $150 as a plot or interment allowance to such person as the Secretary prescribes, except that if any part of the plot or interment costs of a burial to which this clause applies has been paid or assumed by a State, an agency or political subdivision of a State, or a former employer of the deceased veteran, no claim for such allowance shall be allowed for more than the difference between the entire amount of the expenses incurred and the amount paid or assumed by any or all of the foregoing entities.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, §903; Pub. L. 86–70, §29(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, §25(b), July 12, 1960, 74 Stat. 418; Pub. L. 87–99, July 21, 1961, 75 Stat. 218; Pub. L. 89–358, §4(i), Mar. 3, 1966, 80 Stat. 24; Pub. L. 93–43, §5(a)(1), June 18, 1973, 87 Stat. 80; Pub. L. 94–581, title II, §204, Oct. 21, 1976, 90 Stat. 2856; Pub. L. 95–476, title II, §202(a), Oct. 18, 1978, 92 Stat. 1503; Pub. L. 95–479, title III, §303(a), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–35, title XX, §2001(b), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–306, title IV, §404(a), Oct. 14, 1982, 96 Stat. 1443; Pub. L. 99–272, title XIX, §19012(c)(4), Apr. 7, 1986, 100 Stat. 382; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8042(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2303 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title II, §212, Oct. 9, 1996, 110 Stat. 3330.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, §903; Pub. L. 86–70, §29(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, §25(b), July 12, 1960, 74 Stat. 418; Pub. L. 87–99, July 21, 1961, 75 Stat. 218; Pub. L. 89–358, §4(i), Mar. 3, 1966, 80 Stat. 24; Pub. L. 93–43, §5(a)(1), June 18, 1973, 87 Stat. 80; Pub. L. 94–581, title II, §204, Oct. 21, 1976, 90 Stat. 2856; Pub. L. 95–476, title II, §202(a), Oct. 18, 1978, 92 Stat. 1503; Pub. L. 95–479, title III, §303(a), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–35, title XX, §2001(b), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–306, title IV, §404(a), Oct. 14, 1982, 96 Stat. 1443; Pub. L. 99–272, title XIX, §19012(c)(4), Apr. 7, 1986, 100 Stat. 382; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, §8042(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2303 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title II, §212, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title IV, §401(a), Nov. 21, 1997, 111 Stat. 2293.)
 
 #### Amendments
+
+1997—Subsec. (a)(2)(A). Pub. L. 105–114 substituted “a facility of the Department (as defined in section 1701(3) of this title)” for “a Department facility (as defined in section 1701(4) of this title)”.
 
 1996—Subsec. (a). Pub. L. 104–275 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “When a veteran dies in a Department facility (as defined in section 1701(4) of this title) to which the deceased was properly admitted for hospital, nursing home, or domiciliary care under section 1710 or 1711(a) of this title or in an institution at which the deceased veteran was receiving hospital care in accordance with section 1703 of this title or nursing home care under section 1720 of this title at the expense of the United States at the time of death, the Secretary—
 
@@ -60,7 +62,7 @@ Subsec. (b). Pub. L. 95–476 substituted provisions requiring Administrator to 
 
 1976—Subsec. (a). Pub. L. 94–581 inserted “, nursing home,” after “hospital” and substituted “611(a)” for “611” in provisions preceding par. (1).
 
-1973—Pub. L. 93–43, in revising text, substituted reference to section “611” for “611(a)” in opening text of subsec. (a), designated existing provisions of subsec. (a) as first part of par. (1) of such subsec. (a), incorporated provisions of former subsec. (c) as second part of par. (1) of subsec. (a), redesignated former subsec. (b) as par. (2) of subsec. (a), and added subsec. (b).
+1973—Pub. L. 93–43, in revising text, substituted reference to section “611” for “611(a)” in opening text of subsec. (a), designated existing provisions of subsec. (a) as first part of par. (1) of such subsec. (a), incorporated provisions of former subsec. (c) as second part of par.\(1) of subsec. (a), redesignated former subsec. (b) as par. (2) of subsec. (a), and added subsec. (b).
 
 1966—Subsec. (b). Pub. L. 89–358 struck out last sentence including the Canal Zone in the term “State” for purposes of subsec. (b), now incorporated in section 101(20) of this title.
 

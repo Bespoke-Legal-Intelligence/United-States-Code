@@ -12,7 +12,7 @@ Whoever—
 
 #### Historical and Revision Notes
 
-Based on title 13, U.S.C., 1952 ed., §§122, 207, 252, and section 1442 of title 42, U.S.C., 1952 ed., The PublicHealth and Welfare (June 18, 1929, ch. 28, §7, 46 Stat. 23; June 19, 1948, ch. 502, §2, 62 Stat. 479; July 15, 1949, ch. 338, title VI, §607, 63 Stat. 441; Sept. 7, 1950, ch. 910, §2, 64 Stat. 784.)
+Based on title 13, U.S.C., 1952 ed., §§122, 207, 252, and section 1442 of title 42, U.S.C., 1952 ed., The Public Health and Welfare (June 18, 1929, ch. 28, §7, 46 Stat. 23; June 19, 1948, ch. 502, §2, 62 Stat. 479; July 15, 1949, ch. 338, title VI, §607, 63 Stat. 441; Sept. 7, 1950, ch. 910, §2, 64 Stat. 784.)
 
 Section consolidates section 207 of title 13, U.S.C., 1952 ed., which was a part of chapter 4 of such title relating to the censuses of population, agriculture, irrigation, etc. (subchapter II of chapter 5 of this revised title), with those parts of sections 122 and 252 of such title which made such section 207 applicable to the censuses of manufactures, the mineral industries, and other businesses, and governments (subchapters I and III of chapter 5 of this revised title), and with that part of subsection (b) of section 1442 of title 42, U.S.C., 1952, ed., which made such section 207 applicable to the censuses of housing (subchapter II of chapter 5 of this revised title). For remainder of sections 122 and 252 of title 13, U.S.C., 1952 ed., and of section 1442 of title 42, U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
 

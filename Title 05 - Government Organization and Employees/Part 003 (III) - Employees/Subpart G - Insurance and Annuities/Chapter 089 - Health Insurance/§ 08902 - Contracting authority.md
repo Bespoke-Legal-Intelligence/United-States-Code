@@ -12,7 +12,7 @@
 
 (d) Each contract under this chapter shall contain a detailed statement of benefits offered and shall include such maximums, limitations, exclusions, and other definitions of benefits as the Office considers necessary or desirable.
 
-(e) The Office may prescribe reasonable minimum standards for health benefits plans described by section 8903 or 8903a of this title and for carriers offering the plans. Approval of a plan may be withdrawn only after notice and opportunity for hearing to the carrier concerned without regard to subchapter II of chapter 5 and chapter 7 of this title. The Office may terminate the contract of a carrier effective at the end of the contract term, if the Office finds that at no time during the preceding two contract terms did the carrier have 300 or more employees and annuitants, exclusive of family members, enrolled in the plan.
+(e) The Office may prescribe reasonable minimum standards for health benefits plans described by section 8903 or 8903a of this title and for carriers offering the plans. Approval of a plan may be withdrawn only after notice and opportunity for hearing to the carrier concerned without regard to subchapter II of chapter 5 and chapter 7 of this title. The Office may terminate the contract of a carrier effective at the end of the contract term, if the Office finds that at notime during the preceding two contract terms did the carrier have 300 or more employees and annuitants, exclusive of family members, enrolled in the plan.
 
 (f) A contract may not be made or a plan approved which excludes an individual because of race, sex, health status, or, at the time of the first opportunity to enroll, because of age.
 
@@ -24,7 +24,7 @@
 
 (j) Each contract under this chapter shall require the carrier to agree to pay for or provide a health service or supply in an individual case if the Office finds that the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title is entitled thereto under the terms of the contract.
 
-(k)(1) When a contract under this chapter requires payment or reimbursement for serviceswhich may be performed by a clinical psychologist, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/clinical specialist, licensed or certified as such under Federal or State law, as applicable, or by a qualified clinical social worker as defined in section 8901(11), an employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title covered by the contract shall be free to select, and shall have direct access to, such a clinical psychologist, qualified clinical social worker, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/nurse clinical specialist without supervision or referral by another health practitioner and shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed.
+(k)(1) When a contract under this chapter requires payment or reimbursement for services which may be performed by a clinical psychologist, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/clinical specialist, licensed or certified as such under Federal or State law, as applicable, or by a qualified clinical social worker as defined in section 8901(11), an employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title covered by the contract shall be free to select, and shall have direct access to, such a clinical psychologist, qualified clinical social worker, optometrist, nurse midwife, nursing school administered clinic, or nurse practitioner/nurse clinical specialist without supervision or referral by another health practitioner and shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed.
 
 (2) The provisions of this subsection shall not apply to comprehensive medical plans as described in section 8903(4) of this title.
 
@@ -50,7 +50,9 @@
 
 &emsp;(2) to establish incentives to encourage compliance with measures under paragraph (1).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765.)
+(<i>o</i>) A contract may not be made or a plan approved which includes coverage for any benefit, item, or service for which funds may not be used under the Assisted Suicide Funding Restriction Act of 1997.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27.)
 
 Historical and Revision Notes
 
@@ -76,11 +78,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 1310(d)(1) of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)), referred to in subsec. (<i>l</i>), probably is intended as a reference to section 300e–9(d) of Title 42, The Public Health and Welfare. Section 300e–9(d) of Title 42 was redesignated section 300e–9(c) of Title 42 by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (<i>o</i>), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42, The Public Health and Welfare, and Tables.
+
 #### Codification
 
 Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sections 2701 to 2706 of Title 44, Public Printing and Documents, and provisions set out as a note under section 2102 of Title 44.
 
 #### Amendments
+
+1997—Subsec. (<i>o</i>). Pub. L. 105–12 added subsec. (<i>o</i>).
 
 1992—Pub. L. 102–393 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
 
@@ -127,6 +133,10 @@ Subsec. (m). Pub. L. 95–368 added subsec. (m).
 1974—Subsec. (j). Pub. L. 93–363 added subsec. (j) covering services performed by a clinical psychologist or optometrist.
 
 Pub. L. 93–246 added subsec. (j) requiring the carrier to pay for or provide a health service or supply in specified cases.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1992 Amendment
 

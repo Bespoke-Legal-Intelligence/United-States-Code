@@ -2,7 +2,7 @@
 
 When the Coast Guard operates as a part of the Navy pursuant to section 3 of title 14, the powers conferred on the Secretary of Transportation by section 191 of this title, shall vest in and be exercised by the Secretary of the Navy.
 
-(Nov. 15, 1941, ch. 471, §2, 55 Stat. 763; Oct. 18, 1962, Pub. L. 87–845, §11, 76A Stat. 699; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938.)
+(Nov. 15, 1941, ch. 471, §2, 55 Stat. 763; Pub. L. 87–845, §11, Oct. 18, 1962, 76A Stat. 699; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### Amendments
 

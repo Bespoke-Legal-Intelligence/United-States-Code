@@ -57,7 +57,7 @@ This chapter is comprised principally of title II (§§201–215) of Pub. L. 98�
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 42 section 9904.
+This chapter is referred to in title 8 section 1615; title 42 section 9904.
 
 
 ---

@@ -86,7 +86,7 @@ Members of the Board appointed pursuant to subsection (a)(1)(A) of this section 
 
 (2) If the President has not transmitted to the Senate a nomination to fill the position of a member covered by such a recommendation within 60 days from the date that the member's term expires, the member shall be deemed to have been reappointed for another full term to the Board, with all the appropriate rights and responsibilities.
 
-(3) This subsection shall not be construed to permit less than 7 members of the Board to be Indians. If an extension of a term under paragraph (2) would result in less than 7 members being Indians, the term of the member covered by paragraph (2) shall be deemed to expire 60 days after the date upon which it would have been deemed to expire without the operation of this subsection, except that the provisions ofsubsection (b)(4) of this section, relating to continuation of service pending replacement, shall continue to apply.
+(3) This subsection shall not be construed to permit less than 7 members of the Board to be Indians. If an extension of a term under paragraph (2) would result in less than 7 members being Indians, the term of the member covered by paragraph (2) shall be deemed to expire 60 days after the date upon which it would have been deemed to expire without the operation of this subsection, except that the provisions of subsection (b)(4) of this section, relating to continuation of service pending replacement, shall continue to apply.
 
 (Pub. L. 99–498, title XV, §1505, Oct. 17, 1986, 100 Stat. 1601; Pub. L. 102–325, title XIII, §1331(a), July 23, 1992, 106 Stat. 805.)
 

@@ -6,7 +6,7 @@ So far as may be practicable Indian labor shall be employed, and purchases of th
 
 &emsp;(2) the terms “protege firm” and “mentor firm” have the meaning given such terms in subsection (c) of such section 831.
 
-(June 25, 1910, ch. 431, §23, 36 Stat. 861; Nov. 1, 1988, Pub. L. 100–581, title II, §206, 102 Stat. 2940; Nov. 2, 1994, Pub. L. 103–435, §14, 108 Stat. 4572.)
+(June 25, 1910, ch. 431, §23, 36 Stat. 861; Pub. L. 100–581, title II, §206, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 103–435, §14, Nov. 2, 1994, 108 Stat. 4572.)
 
 #### References in Text
 

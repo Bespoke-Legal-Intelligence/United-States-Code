@@ -14,7 +14,7 @@ Activities.—(1) A conservation or cultural activity eligible for the program t
 
 &emsp;(C) that can be more effectively managed at the Department of Defense level; and
 
-&emsp;(D) for which no executive ageny <sup>1</sup> has been designated responsible by the Secretary.
+&emsp;(D) for which no executive agency has been designated responsible by the Secretary.
 
 (2) Such activities include the following:
 
@@ -36,7 +36,11 @@ Cooperative Agreements.—The Secretary may negotiate and enter into cooperative
 
 Effect on Other Laws.—Nothing in this section shall be construed or interpreted as preempting any otherwise applicable Federal, State, or local law or regulation relating to the management of natural and cultural resources on military installations.
 
-(Added Pub. L. 104–201, div. A, title III, §332(a)(1), Sept. 23, 1996, 110 Stat. 2484.)
+(Added Pub. L. 104–201, div. A, title III, §332(a)(1), Sept. 23, 1996, 110 Stat. 2484; amended Pub. L. 105–85, div. A, title X, §1073(a)(59), Nov. 18, 1997, 111 Stat. 1903.)
+
+#### Amendments
+
+1997—Subsec. (b)(1)(D). Pub. L. 105–85 substituted “executive agency” for “executive ageny”.
 
 #### Effective Date
 

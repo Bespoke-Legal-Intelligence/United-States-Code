@@ -1,6 +1,6 @@
 ### §635s. Implementation
 
-(a)(1) The National Advisory Council on International Monetary and Financial Policies shallcoordinate the implementation of the tied aid credit programs authorized by sections 635q and 635r of this title.
+(a)(1) The National Advisory Council on International Monetary and Financial Policies shall coordinate the implementation of the tied aid credit programs authorized by sections 635q and 635r of this title.
 
 (2) No financing may be approved under the tied aid credit programs authorized by section 635q or 635r of this title without the unanimous consent of the members of the National Advisory Council on International Monetary and Financial Policies.
 

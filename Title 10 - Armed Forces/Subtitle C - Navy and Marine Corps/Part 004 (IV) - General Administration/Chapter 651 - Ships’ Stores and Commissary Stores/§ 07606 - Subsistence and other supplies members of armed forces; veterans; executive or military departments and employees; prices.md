@@ -14,7 +14,7 @@
 
 (d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to members of the Navy and Marine Corps.
 
-(e) Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged honorably or under honorable conditions from the Navy or Marine Corps, at the prices at which like articles are sold to members of the Navy or Marine Corps. This subsection does not modify sections <sup>1</sup> 772 or 773 of this title.
+(e) Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged honorably or under honorable conditions from the Navy or Marine Corps, at the prices at which like articles are sold to members of the Navy or Marine Corps. This subsection does not modify section 772 or 773 of this title.
 
 (f) Under regulations prescribed by the Secretary, payment for subsistence supplies shall be made in cash or by commercial credit.
 
@@ -28,5 +28,9 @@
 
 (h) Appropriations for subsistence of the Navy or Marine Corps may be applied to the purchase of subsistence supplies for sale to members of the Navy and Marine Corps on active duty for the use of such members and their families.
 
-(Added Pub. L. 104–106, div. A, title III, §375(a)(1), Feb. 10, 1996, 110 Stat. 281.)
+(Added Pub. L. 104–106, div. A, title III, §375(a)(1), Feb. 10, 1996, 110 Stat. 281; amended Pub. L. 105–85, div. A, title X, §1073(a)(63), Nov. 18, 1997, 111 Stat. 1903.)
+
+#### Amendments
+
+1997—Subsec. (e). Pub. L. 105–85 substituted “section” for “sections”.
 

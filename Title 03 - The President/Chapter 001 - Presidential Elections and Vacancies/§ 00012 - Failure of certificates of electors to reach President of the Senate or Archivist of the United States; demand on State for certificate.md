@@ -2,7 +2,7 @@
 
 When no certificate of vote and list mentioned in sections 9 and 11 of this title from any State shall have been received by the President of the Senate or by the Archivist of the United States by the fourth Wednesday in December, after the meeting of the electors shall have been held, the President of the Senate or, if he be absent from the seat of government, the Archivist of the United States shall request, by the most expeditious method available, the secretary of state of the State to send up the certificate and list lodged with him by the electors of such State; and it shall be his duty upon receipt of such request immediately to transmit same by registered mail to the President of the Senate at the seat of government.
 
-(June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, §8, 65 Stat. 712; Oct. 19, 1984, Pub. L. 98–497, title I, §107(e)(1), (2)(B), 98 Stat. 2291.)
+(June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, §8, 65 Stat. 712; Pub. L. 98–497, title I, §107(e)(1), (2)(B), Oct. 19, 1984, 98 Stat. 2291.)
 
 #### Amendments
 

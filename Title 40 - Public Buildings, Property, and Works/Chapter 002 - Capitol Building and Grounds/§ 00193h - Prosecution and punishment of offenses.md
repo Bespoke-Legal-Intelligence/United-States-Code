@@ -6,13 +6,13 @@ Any violation of section 193f(a) of this title, and any attempt to commit any su
 
 #### (b) Other offenses
 
-Any violation of section 193b, 193c, 193d, 193e, 193f(b), or 193g of this title, and any attempt tocommit any such violation, shall be a misdemeanor punishable by a fine not exceeding $500, or imprisonment not exceeding six months, or both.
+Any violation of section 193b, 193c, 193d, 193e, 193f(b), or 193g of this title, and any attempt to commit any such violation, shall be a misdemeanor punishable by a fine not exceeding $500, or imprisonment not exceeding six months, or both.
 
 #### (c) Procedure
 
 Violations of sections 193a to 193m, 212a, 212a–2, and 212b of this title, including attempts or conspiracies to commit such violations, shall be prosecuted by the United States attorney or his assistants in the name of the United States. None of the general laws of the United States and none of the laws of the District of Columbia shall be superseded by any provision of said sections. Where the conduct violating said sections also violates the general laws of the United States or the laws of the District of Columbia, both violations may be joined in a single prosecution. Prosecution for any violation of section 193f(a) of this title or for conduct which constitutes a felony under the general laws of the United States or the laws of the District of Columbia shall be in the United States District Court for the District of Columbia. All other prosecutions for violations of said sections may be in the Superior Court of the District of Columbia. Whenever any person is convicted of a violation of said sections and of the general laws of the United States or the laws of the District of Columbia, in a prosecution under this subsection, the penalty which may be imposed for such violation is the highest penalty authorized by any of the laws for violation of which the defendant is convicted.
 
-(July 31, 1946, ch. 707, §8, 60 Stat. 719; July 8, 1963, Pub. L. 88–60, §§1, 7, 77 Stat. 77, 78; Oct. 20, 1967, Pub. L. 90–108, §1(c), 81 Stat. 277; July 29, 1970, Pub. L. 91–358, title I, §155(a), 84 Stat. 570.)
+(July 31, 1946, ch. 707, §8, 60 Stat. 719; Pub. L. 88–60, §§1, 7, July 8, 1963, 77 Stat. 77, 78; Pub. L. 90–108, §1(c), Oct. 20, 1967, 81 Stat. 277; Pub. L. 91–358, title I, §155(a), July 29, 1970, 84 Stat. 570.)
 
 #### Codification
 
@@ -20,7 +20,7 @@ Section is also set out in D.C. Code, §9–114.
 
 #### Amendments
 
-1967—Pub. L. 90–108 struck out provisions setting a blanket punishment of not exceeding $100 or imprisonment not exceeding 60 days for offenses against sections 193b to 193g of this title, with prosecution for such offenses to be had in the District of Columbia Court of General Sessions upon information by the United States Attorney or any of his assistants and raising the imprisonment to not more than five years in cases where public property is damaged in an amount exceeding $100 and inserted provisions dividing the offenses into felonies and misdemeanors with different punishments for each and setting out the procedures to be followed in the prosecution for such felonies or misdemeanors, including provisions when the conduct involved violates both the general laws of the United States and the District of Columbia in addition to sections 193a to 193m, 212a, 212a–2, and 212b, of this title.
+1967—Pub. L. 90–108 struck out provisions setting a blanket punishment of not exceeding $100 or imprisonment not exceeding 60 days for offenses against sections 193b to 193g of this title, with prosecution for such offenses to be had in the District of Columbia Court of General Sessions upon information by the United States Attorney or any of his assistants and raising the imprisonment to not more than five years in cases where public property is damaged in an amount exceeding $100 and inserted provisions dividing the offensesinto felonies and misdemeanors with different punishments for each and setting out the procedures to be followed in the prosecution for such felonies or misdemeanors, including provisions when the conduct involved violates both the general laws of the United States and the District of Columbia in addition to sections 193a to 193m, 212a, 212a–2, and 212b, of this title.
 
 #### Change of Name
 

@@ -2,7 +2,7 @@
 
 (a) In this section, the current redemption value of an obligation issued on a discount basis and redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
 
-(b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $5,500,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX of the Rules of the House of Representatives or otherwise.
+(b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $5,950,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX of the Rules of the House of Representatives or otherwise.
 
 (c) For purposes of this section, the face amount, for any month, of any obligation issued on a discount basis that is not redeemable before maturity at the option of the holder of the obligation is an amount equal to the sum of—
 
@@ -10,7 +10,7 @@
 
 &emsp;(2) the portion of the discount on the obligation attributable to periods before the beginning of such month (as determined under the principles of section 1272(a) of the Internal Revenue Code of 1986 without regard to any exceptions contained in paragraph (2) of such section).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648.)
 
 Historical and Revision Notes
 
@@ -44,6 +44,8 @@ Section 1272(a) of the Internal Revenue Code of 1986, referred to in subsec. (c)
 
 #### Amendments
 
+1997—Subsec. (b). Pub. L. 105–33 substituted “$5,950,000,000,000” for “$5,500,000,000,000”.
+
 1996—Subsec. (b). Pub. L. 104–121 substituted “$5,500,000,000,000” for “$4,900,000,000,000”.
 
 1993—Subsec. (b). Pub. L. 103–66 substituted “$4,900,000,000,000” for “$4,145,000,000,000”.
@@ -52,7 +54,7 @@ Section 1272(a) of the Internal Revenue Code of 1986, referred to in subsec. (c)
 
 1989—Subsec. (b). Pub. L. 101–140 substituted “$3,122,700,000,000” for “$2,800,000,000,000”.
 
-Subsec. (c). Pub. L. 101–72 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The face amount of beneficial interests and participations (except those held by their issuer) issued under section 302(c) of the National Housing Act (12 U.S.C. 1717(c)) from July 1, 1967, through June 30, 1968, andoutstanding at any time shall be included in the amount taken into account in deciding whether the face amount requirement of subsection (b) of this section has been exceeded. This subsection does not require a change in the budgetary accounting for beneficial interests and participations.”
+Subsec. (c). Pub. L. 101–72 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The face amount of beneficial interests and participations (except those held by their issuer) issued under section 302(c) of the National Housing Act (12 U.S.C. 1717(c)) from July 1, 1967, through June 30, 1968, and outstanding at any time shall be included in the amount taken into account in deciding whether the face amount requirement of subsection (b) of this section has been exceeded. This subsection does not require a change in the budgetary accounting for beneficial interests and participations.”
 
 1987—Subsec. (b). Pub. L. 100–119 substituted “$2,800,000,000,000” for “$2,111,000,000,000”.
 
@@ -102,7 +104,7 @@ Sept. 30, 1981, Pub. L. 97–49, 95 Stat. 956—Increase of $679,800,000,000 for
 
 #### Repeals of Temporary Increases in Public Debt Limit
 
-Pub. L. 103–12, Apr. 6, 1993, 107 Stat. 42, providing for a temporary increase in public debt limit to $4,370,000,000,000 for the period Apr. 6, 1993, to Sept. 30, 1993, was repealed by Pub. L. 103–66, title XIII, §13411(b), Aug. 10, 1993, 107 Stat. 565, effective Aug. 10, 1993.
+Pub. L. 103–12, Apr. 6, 1993, 107 Stat. 42, providing for a temporary increase in public debt limit to$4,370,000,000,000 for the period Apr. 6, 1993, to Sept. 30, 1993, was repealed by Pub. L. 103–66, title XIII, §13411(b), Aug. 10, 1993, 107 Stat. 565, effective Aug. 10, 1993.
 
 Pub. L. 99–509, title VIII, §8201, Oct. 21, 1986, 100 Stat. 1968, providing for a temporary increase in public debt limit of $189,000,000,000 for the period Oct. 21, 1986, to May 15, 1987, was repealed by Pub. L. 100–40, §1(b), May 15, 1987, 101 Stat. 308, effective May 15, 1987.
 
@@ -178,7 +180,7 @@ Pub. L. 87–69, June 30, 1961, 75 Stat. 148, provided for a temporary increase 
 
 Pub. L. 86–564, title I, §101, June 30, 1960, 74 Stat. 290, provided for a temporary increase from $285,000,000,000 to $293,000,000,000 for the period July 1, 1960, to June 30, 1961.
 
-Pub. L. 86–74, §2, June 30, 1959, 73 Stat. 156, provided for a temporary increase from $285,000,000,000 to $295,000,000,000 for the period July 1, 1959, to June 30, 1960.
+Pub. L. 86–74, §2, June 30, 1959, 73 Stat. 156, provided for a temporary increase from $285,000,000,000 to$295,000,000,000 for the period July 1, 1959, to June 30, 1960.
 
 Pub. L. 85–336, Feb. 26, 1958, 72 Stat. 27, provided for a temporary increase from $275,000,000,000 to $280,000,000,000 for the period Feb. 26, 1958, to June 30, 1959.
 

@@ -52,6 +52,10 @@ In subsection (c), before clause (1), the words “After August 23, 1968” afte
 
 1987—Subsec. (c). Pub. L. 100–17 inserted “(other than any project for a park road or parkway under section 204 of title 23)” after “program or project”.
 
+#### Treatment of Military Flight Operations
+
+Pub. L. 105–85, div. A, title X, §1079, Nov. 18, 1997, 111 Stat. 1916, provided that: “No military flight operation (including a military training flight), or designation of airspace for such an operation, may be treated as a transportation program or project for purposes of section 303(c) of title 49, United States Code.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 305 of this title; title 16 section 460kkk; title 23 sections 108, 117; title 45 sections 1116, 1212.

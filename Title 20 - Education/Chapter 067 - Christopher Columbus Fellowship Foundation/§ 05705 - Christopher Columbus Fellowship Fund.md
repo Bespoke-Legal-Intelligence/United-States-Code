@@ -46,7 +46,7 @@ The interest on, and the proceeds from, the sale or redemption of any obligation
 
 #### (2) Expenses
 
-&emsp;The Secretary of the Treasury is authorized to pay to the Foundation from the interest and earnings of the funds such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the provisions of this chapter.
+&emsp;The Secretary of the Treasury is authorized to pay to the Foundation from the interestand earnings of the funds such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the provisions of this chapter.
 
 #### (f) Disbursements
 

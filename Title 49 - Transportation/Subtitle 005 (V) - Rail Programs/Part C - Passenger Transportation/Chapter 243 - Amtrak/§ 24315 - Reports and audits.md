@@ -34,7 +34,7 @@ Amtrak Annual Operations Report.—Not later than February 15 of each year, Amtr
 
 Amtrak General and Legislative Annual Report.—(1) Not later than February 15 of each year, Amtrak shall submit to the President and Congress a complete report of its operations, activities, and accomplishments, including a statement of revenues and expenditures for the prior fiscal year. The report—
 
-&emsp;(A) shall include a discussion and accounting of Amtrak's success in meeting the goal of section 24902(b) of this title; and
+&emsp;(A) shall include a discussion and accounting of Amtrak's success in meeting the goal of section 24902(b) <sup>1</sup> of this title; and
 
 &emsp;(B) may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance.
 
@@ -60,7 +60,11 @@ Availability of Records and Property of Amtrak and Rail Carriers.—Amtrak and, 
 
 Comptroller General's Report to Congress.—The Comptroller General shall submit to Congress a report on each audit, giving comments and information necessary to inform Congress on the financial operations and condition of Amtrak and recommendations related to those operations and conditions. The report also shall specify any financial transaction or undertaking the Comptroller General considers is carried out without authority of law. When the Comptroller General submits a report to Congress, the Comptroller General shall submit a copy of it to the President, the Secretary, and Amtrak at the same time.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 918.)
+(h)
+
+Access to Records and Accounts.—A State shall have access to Amtrak's records, accounts, and other necessary documents used to determine the amount of any payment to Amtrak required of the State.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 918; Pub. L. 105–134, title II, §206, Dec. 2, 1997, 111 Stat. 2584.)
 
 Historical and Revision Notes
 
@@ -126,7 +130,7 @@ Oct. 30, 1970, Pub. L. 91–518, §805(2)(C), 84 Stat. 1340; June 22, 1972, Pub.
 
 In subsection (a)(2), the words “to . . . compensation” and “prescribed” are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the words “(beginning with 1973)” are omitted as executed. The word“complete” is substituted for “comprehensive and detailed” to eliminate unnecessary words. The words “under this chapter” are omitted as surplus. The word “revenues” is substituted for “receipts” for consistency. In clause (B), the words “may include recommendations for legislation” are substituted for “At the time of its annual report, the Corporation shall submit such legislative recommendations as it deems desirable”, the words “the method of computing the assistance” are substituted for “the manner and form in which the amount of such assistance should be computed”, and the words “of the assistance” are substituted for “from which such assistance should be derived”, to eliminate unnecessary words.
+In subsection (b)(1), before clause (A), the words “(beginning with 1973)” are omitted as executed. The word “complete” is substituted for “comprehensive and detailed” to eliminate unnecessary words. The words “under this chapter” are omitted as surplus. The word “revenues” is substituted for “receipts” for consistency. In clause (B), the words “may include recommendations for legislation” are substituted for “At the time of its annual report, the Corporation shall submit such legislative recommendations as it deems desirable”, the words “the method of computing the assistance” are substituted for “the manner and form in which the amount of such assistance should be computed”, and the words “of the assistance” are substituted for “from which such assistance should be derived”, to eliminate unnecessary words.
 
 In subsection (c), the words “(beginning with 1974)” are omitted as executed. The word “prepare” is substituted for “transmit to the President and to the Congress by March 15 of each year” for clarity because the report is now part of the annual report under 49:308(a). The words “Beginning in 1976” are omitted as executed. The word “Secretary” is substituted for “Department of Transportation” because of 49:102(b). The words “submits under section 308(a) of this title” are substituted for “to the Congress” for clarity.
 
@@ -137,4 +141,24 @@ In subsection (e), the word “rules” is omitted as being synonymous with “r
 In subsection (f), the words “if required” are substituted for “To the extent . . . deems necessary” to eliminate unnecessary words. The words “the person conducting”, “The representatives of the Comptroller General”, “his representatives”, “as he may make of the financial transactions of the Corporation”, “things, or”, and “full” are omitted as surplus. The words “may keep” are substituted for “shall remain in possession and custody of” and “shall remain in the possession and custody of” to eliminate unnecessary words.
 
 In subsection (g), the word “giving” is substituted for “The report to the Congress shall contain such” to eliminate unnecessary words. The words “as the Comptroller General may deem”, “as he may deem advisable”, “program, expenditure or other”, “observed in the course of the audit”, and “or made” are omitted as surplus.
+
+#### References in Text
+
+Section 24902(b) of this title, referred to in subsec. (b)(1)(A), was redesignated section 24902(a) and section 24902(e) was redesignated section 24902(b) by Pub. L. 105–134, title IV, §405(b)(1)(A), Dec. 2, 1997, 111 Stat. 2586.
+
+#### Amendments
+
+1997—Subsec. (h). Pub. L. 105–134 added subsec. (h).
+
+#### Amtrak To Notify Congress of Lobbying Relationships
+
+Pub. L. 105–134, title IV, §414, Dec. 2, 1997, 111 Stat. 2589, provided that: “If, at any time, during a fiscal year in which Amtrak receives Federal assistance, Amtrak enters into a consulting contract or similar arrangement, or a contract for lobbying, with a lobbying firm, an individual who is a lobbyist, or who is affiliated with a lobbying firm, as those terms are defined in section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602), Amtrak shall notify the United States Senate Committee on Commerce, Science, and Transportation, and the United States House of Representatives Committee on Transportation and Infrastructure of—
+
+&emsp;“(1) the name of the individual or firm involved;
+
+&emsp;“(2) the purpose of the contract or arrangement; and
+
+&emsp;“(3) the amount and nature of Amtrak's financial obligation under the contract.
+
+> This section applies only to contracts, renewals or extensions of contracts, or arrangements entered into after the date of the enactment of this Act \[Dec. 2, 1997\].”
 

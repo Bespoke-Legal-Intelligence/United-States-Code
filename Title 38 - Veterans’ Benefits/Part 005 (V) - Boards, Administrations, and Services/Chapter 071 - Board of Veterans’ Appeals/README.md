@@ -14,10 +14,13 @@
 | [7108\.](%C2%A7%2007108%20-%20Rejection%20of%20applications.md) | Rejection of applications. |
 | [7109\.](%C2%A7%2007109%20-%20Independent%20medical%20opinions.md) | Independent medical opinions. |
 | \[7110. | Repealed.\] |
+| [7111\.](%C2%A7%2007111%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md) | Revision of decisions on grounds of clear and unmistakable error. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–111, §1(b)(2), Nov. 21, 1997, 111 Stat. 2272, added item 7111.
 
 1994—Pub. L. 103–446, title II, §201(a)(2), Nov. 2, 1994, 108 Stat. 4656, added item 7101A.
 
@@ -48,3 +51,4 @@ Pub. L. 87–666, §2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and subst
 - [&sect; 07108 - Rejection of applications](%C2%A7%2007108%20-%20Rejection%20of%20applications.md)
 - [&sect; 07109 - Independent medical opinions](%C2%A7%2007109%20-%20Independent%20medical%20opinions.md)
 - [&sect; 07110 - Repealed. Pub. L. 103&#8211;271, &sect;7(b)(2), July 1, 1994, 108 Stat. 743](%C2%A7%2007110%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93271%2C%20%C2%A77%28b%29%282%29%2C%20July%201%2C%201994%2C%20108%20Stat.%20743.md)
+- [&sect; 07111 - Revision of decisions on grounds of clear and unmistakable error](%C2%A7%2007111%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md)

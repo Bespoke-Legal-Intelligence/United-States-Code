@@ -45,7 +45,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–324, title XI, §1113(b)(3), Oct. 19, 1996, 110 Stat. 3970, struck out item 31328 “Limitations onparties serving as trustees of mortgaged vessel interests”.
+1996—Pub. L. 104–324, title XI, §1113(b)(3), Oct. 19, 1996, 110 Stat. 3970, struck out item 31328 “Limitations on parties serving as trustees of mortgaged vessel interests”.
 
 #### Chapter Referred to in Other Sections
 

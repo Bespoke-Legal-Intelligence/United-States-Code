@@ -18,7 +18,7 @@ Except as provided in subsection (a)(3) of this section, the list referred to in
 
 &emsp;(1) A provision of law that provides for criminal or civil penalties.
 
-&emsp;(2) A provision of law that specifically refers to this section and provides that, notwithstanding this section, such provision of law shall be applicable to contracts for the procurement of commercial off-the-shelf items.
+&emsp;(2) A provision of law that specifically refers to this section and provides that, notwithstanding this section, such provision of law shall be applicable to contracts for the procurement of commercially available off-the-shelf items.
 
 #### (c) “Commercially available off-the-shelf item” defined
 
@@ -32,11 +32,15 @@ Except as provided in subsection (a)(3) of this section, the list referred to in
 
 (2) The term “commercially available off-the-shelf item” does not include bulk cargo, as defined in section 1702 of title 46, Appendix, such as agricultural products and petroleum products.
 
-(Pub. L. 93–400, §35, as added Pub. L. 104–106, div. D, title XLII, §4203(a), Feb. 10, 1996, 110 Stat. 654.)
+(Pub. L. 93–400, §35, as added Pub. L. 104–106, div. D, title XLII, §4203(a), Feb. 10, 1996, 110 Stat. 654; amended Pub. L. 105–85, div. A, title X, §1073(g)(2)(C), Nov. 18, 1997, 111 Stat. 1906.)
 
 #### Codification
 
 Another section 35 of Pub. L. 93–400 was renumbered §38 and is classified to section 434 of this title.
+
+#### Amendments
+
+1997—Subsec. (b)(2). Pub. L. 105–85 substituted “commercially available” for “commercial”.
 
 #### Effective Date
 

@@ -106,7 +106,7 @@ Study.—The Director of the Office of Technology Assessment shall, in a manner 
 
 &emsp;“(5) the extent to which the Department of Defense or the Department of Veterans Affairs, as the case may be, is assembling and maintaining information on the Persian Gulf theater of operations (including information on troop locations and atmospheric and weather conditions) in a manner that facilitates the usefulness of, maintenance of, and retrieval of information from, the applicable registry; and
 
-&emsp;“(6) the adequacy and compatibility of protocols for the health examinations and counseling provided under section 703 and health examinations provided by the Department of Defense to members of the Armed Forces for the purpose of assessing the health status of members of the Armed Forces who served in the Persian Gulf theater of operations during the Persian Gulf War.
+&emsp;“(6) the adequacy and compatibility of protocols for the health examinations and counseling providedunder section 703 and health examinations provided by the Department of Defense to members of the Armed Forces for the purpose of assessing the health status of members of the Armed Forces who served in the Persian Gulf theater of operations during the Persian Gulf War.
 
 “(b)
 
@@ -186,87 +186,7 @@ Report.—Not later than March 1 of each year, the head of the department or age
 
 #### Services for Homeless Veterans
 
-Pub. L. 102–405, title I, §107, Oct. 9, 1992, 106 Stat. 1976, as amended by Pub. L. 103–446, title X, §1002, Nov. 2, 1994, 108 Stat. 4679, provided that:
-
-“(a)
-
-Program Development.—The Secretary shall assess all programs developed by facilities of the Department of Veterans Affairs which have been designed to assist homeless veterans. To the maximum extent practicable, the Secretary shall seek to replicate at other facilities of the Department those programs that have as a goal the rehabilitation of homeless veterans and which the Secretary has determined to be successful in achieving that goal by fostering reintegration of homeless veterans into the community and employment of such veterans.
-
-“(b)
-
-Assessment and Coordination.—(1) In carrying out subsection (a), the Secretary shall require the director of each medical center or the director of each regional benefits office to make an assessment of the needs of homeless veterans living within the area served by the medical center or regional office, as the case may be.
-
-“(2) Each such assessment shall be made in coordination with representatives of State and local governments, other appropriate departments and agencies of the Federal Government, and nongovernmental organizations that have experience working with homeless persons in that area.
-
-“(3) Each such assessment shall identify the needs of homeless veterans with respect to the following:
-
-&emsp;“(A) Health care.
-
-&emsp;“(B) Education and training.
-
-&emsp;“(C) Employment.
-
-&emsp;“(D) Shelter.
-
-&emsp;“(E) Counseling.
-
-&emsp;“(F) Outreach services.
-
-“(4) Each assessment shall also indicate the extent to which the needs referred to in paragraph (3) are being met adequately by the programs of the Department, of other departments and agencies of the Federal Government, of State and local governments, and of nongovernmental organizations.
-
-“(5) Each assessment shall be carried out in accordance with uniform procedures and guidelines prescribed by the Secretary.
-
-“(6) The Secretary shall require that the directors referred to in paragraph (1) update the assessment required under that paragraph during each of 1995, 1996, and 1997.
-
-“(c)
-
-Planning.—In furtherance of subsection (a), the Secretary shall require the director of each medical center and the director of each regional benefits office, in coordination with representatives of State and local governments, other Federal officials, and nongovernmental organizations that have experience working with homeless persons in the areas served by such facility, to—
-
-&emsp;“(1) develop a list of all public and private programs that provide assistance to homeless persons or homeless veterans in the area concerned, together with a description of the services offered by those programs; and
-
-&emsp;“(2) seek to encourage the development by the representatives of such entities, in coordination with the director, of a plan to coordinate among such public and private programs the provision of services to homeless veterans.
-
-“(d)
-
-Services.—In furtherance of subsection (a), the Secretary shall require the director of each medical center or regional benefits office, in carrying out such director's responsibilities under title 38, United States Code, to take appropriate action to—
-
-&emsp;“(1) meet, to the maximum extent practicable through existing programs and available resources, the needs of homeless veterans that are identified in the assessment conducted under subsection (b); and
-
-&emsp;“(2) attempt to inform homeless veterans whose needs the director cannot meet under paragraph (1) of the services available to such veterans within the area served by such center or office.
-
-“(e)
-
-Authority To Accept Donations for Certain Programs.—The Secretary may accept donations of funds and services for the purposes of providing one-stop, non-residential services and mobile support teams and for expanding the medical services to homeless veterans eligible for such services from the Department of Veterans Affairs.
-
-“(f)
-
-Definitions.—As used in subsections (a) through (e):
-
-&emsp;“(1) The term ‘medical center’ means a medical center of the Department of Veterans Affairs.
-
-&emsp;“(2) The term ‘regional benefits office’ means a regional benefits office of the Department of Veterans Affairs.
-
-&emsp;“(3) The term ‘veteran’ has the meaning given such term in section 101(2) of title 38, United States Code.
-
-&emsp;“(4) The term ‘homeless’ has the meaning given such term in section 103(a), as limited by section 103(c), of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11302(a)).
-
-“(g) \[Amended section 801 of Pub. L. 100–628 which is not classified to the Code.\]
-
-“(h) \[Amended section 115(d) of Pub. L. 100–322, set out as a note under section 1712 of this title.\]
-
-“(i)
-
-Reports.—(1) Not later than February 1, 1993, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing an evaluation of the programs referred to in subsections (a) and (e).
-
-“(2) Not later than December 31, 1994, the Secretary shall submit to such committees a report that—
-
-&emsp;“(A) describes the results of the assessment carried out under subsection (b);
-
-&emsp;“(B) sets forth the lists developed under paragraph (1) of subsection (c); and
-
-&emsp;“(C) describes the progress, if any, made by the directors of the medical centers and the directors of the benefits offices referred to in such subsection (c) in developing the plan referred to in paragraph (2) of such subsection (c).
-
-“(3) Not later than December 31 of each of 1995, 1996, and 1997, the Secretary shall submit to such committees a report that describes the update to the assessment that is carried out under subsection (b)(6) in the year preceding the report.”
+Pub. L. 102–405, title I, §107, Oct. 9, 1992, 106 Stat. 1976, as amended by Pub. L. 103–446, title X, §1002, Nov. 2, 1994, 108 Stat. 4679, required Secretary of Veterans’ Affairs and directors of each medical center or benefits office to assess needs of homeless veterans and programs which have been developed to assist homeless veterans, and to replicate programs which have successfully rehabilitated homeless veterans, prior to repeal by Pub. L. 105–114, title II, §202(c)(2), Nov. 21, 1997, 111 Stat. 2287.
 
 #### Section Referred to in Other Sections
 

@@ -24,7 +24,7 @@ As used in this chapter:
 
 #### (B) Substantial portion
 
-&emsp;&emsp;In any case in which a handler packages cut flowers or cut greens with hard goods in an article (such as a gift basket or similar presentation) for sale to a retailer, the PromoFlor Council may determine, under procedures specified in the order, that the cut flowers or cut greens in the article do not constitute a substantial portion of the value of the article and that, based on the determination, the article shall not be treated as an article of cut flowers or cut greens subject to assessment under the order.
+&emsp;&emsp;In any case in which a handler packages cut flowers or cut greens with hard goods inan article (such as a gift basket or similar presentation) for sale to a retailer, the PromoFlor Council may determine, under procedures specified in the order, that the cut flowers or cut greens in the article do not constitute a substantial portion of the value of the article and that, based on the determination, the article shall not be treated as an article of cut flowers or cut greens subject to assessment under the order.
 
 #### (3) Gross sales price
 

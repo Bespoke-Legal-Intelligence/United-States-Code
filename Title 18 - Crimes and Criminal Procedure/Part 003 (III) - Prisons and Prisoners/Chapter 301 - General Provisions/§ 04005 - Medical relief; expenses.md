@@ -1,10 +1,10 @@
 ### §4005. Medical relief; expenses
 
-(a) Upon request of the Attorney General, the Federal Security Administrator shall detail regular and reserve commissioned officers of the Public Health Service, pharmacists, acting assistant surgeons, and other employees of the Public Health Service to the Department of Justice for the purpose of supervising and furnishing medical, psychiatric, and other technical and scientific services to the Federal penal and correctional institutions.
+(a) Upon request of the Attorney General and to the extent consistent with the Assisted Suicide Funding Restriction Act of 1997, the Federal Security Administrator shall detail regular and reserve commissioned officers of the Public Health Service, pharmacists, acting assistant surgeons, and other employees of the Public Health Service to the Department of Justice for the purpose of supervising and furnishing medical, psychiatric, and other technical and scientific services to the Federal penal and correctional institutions.
 
 (b) The compensation, allowances, and expenses of the personnel detailed under this section may be paid from applicable appropriations of the Public Health Service in accordance with the law and regulations governing the personnel of the Public Health Service, such appropriations to be reimbursed from applicable appropriations of the Department of Justice; or the Attorney General may make allotments of funds and transfer of credit to the Public Health Service in such amounts as are available and necessary, for payment of compensation, allowances, and expenses of personnel so detailed, in accordance with the law and regulations governing the personnel of the Public Health Service.
 
-(June 25, 1948, ch. 645, 62 Stat. 848.)
+(June 25, 1948, ch. 645, 62 Stat. 848; Apr. 30, 1997, Pub. L. 105–12, §9(k), 111 Stat. 28.)
 
 #### Historical and Revision Notes
 
@@ -19,6 +19,18 @@ Functions of the Secretary of the Treasury were transferred to the Federal Secur
 The first part of said section 751, which read “Authorized medical relief under the Department of Justice in Federal penal and correctional institutions shall be supervised and furnished by personnel of the Public Health Service, and” was omitted as surplusage, considering the remainder of the text.
 
 Minor changes of phraseology were made.
+
+#### References in Text
+
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42, The Public Health and Welfare, and Tables.
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–12 inserted “and to the extent consistent with the Assisted Suicide Funding Restriction Act of 1997” after “Upon request of the Attorney General”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
 
 #### Transfer of Functions
 

@@ -38,7 +38,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(v) at least 3 members who have been or are currently under the jurisdiction of the juvenile justice system;
 
-&emsp;&emsp;(B) shall participate in the development and review of the State's juvenile justice plan prior to submission to the supervisory board for final action;
+&emsp;&emsp;(B) shall participate in the development and review of the State's juvenile justiceplan prior to submission to the supervisory board for final action;
 
 &emsp;&emsp;(C) shall be afforded the opportunity to review and comment, not later than 30 days after their submission to the advisory group, on all juvenile justice and delinquency prevention grant applications submitted to the State agency designated under paragraph (1);
 
@@ -80,7 +80,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(C) contain—
 
-&emsp;&emsp;(i) an analysis of services for the prevention and treatment of juvenile delinquency in rural areas, including the need for such services, the types of such services available in rural areas, and geographically unique barriers to providing such services; and
+&emsp;&emsp;(i) an analysis of services for the prevention and treatment of juvenile delinquencyin rural areas, including the need for such services, the types of such services available in rural areas, and geographically unique barriers to providing such services; and
 
 &emsp;&emsp;(ii) a plan for providing needed services for the prevention and treatment of juvenile delinquency in rural areas; and
 
@@ -110,7 +110,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(iii) parents with limited English-speaking ability, particularly in areas where there is a large population of families with limited-English speaking ability;
 
-&emsp;&emsp;(C) comprehensive juvenile justice and delinquency prevention programs that meet the needs of youth through the collaborationof the many local systems before which a youth may appear, including schools, courts, law enforcement agencies, child protection agencies, mental health agencies, welfare services, health care agencies, and private nonprofit agencies offering youth services;
+&emsp;&emsp;(C) comprehensive juvenile justice and delinquency prevention programs that meet the needs of youth through the collaboration of the many local systems before which a youth may appear, including schools, courts, law enforcement agencies, child protection agencies, mental health agencies, welfare services, health care agencies, and private nonprofit agencies offering youth services;
 
 &emsp;&emsp;(D) projects designed to develop and implement programs stressing advocacy activities aimed at improving services for and protecting the rights of youth affected by the juvenile justice system;
 
@@ -170,7 +170,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(11) provide for the development of an adequate research, training, and evaluation capacity within the State;
 
-&emsp;(12)(A) provide within three years after submission of the initial plan that juveniles whoare charged with or who have committed offenses that would not be criminal if committed by an adult or offenses (other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law), or alien juveniles in custody, or such nonoffenders as dependent or neglected children, shall not be placed in secure detention facilities or secure correctional facilities; and
+&emsp;(12)(A) provide within three years after submission of the initial plan that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult or offenses (other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law), or alien juveniles in custody, or such nonoffenders as dependent or neglected children, shall not be placed in secure detention facilities or secure correctional facilities; and
 
 &emsp;(B) provide that the State shall submit annual reports to the Administrator containing a review of the progress made by the State to achieve the deinstitutionalization of juveniles described in subparagraph (A) and a review of the progress made by the State to provide that such juveniles, if placed in facilities, are placed in facilities which (i) are the least restrictive alternatives appropriate to the needs of the child and the community; (ii) are in reasonable proximity to the family and the home communities of such juveniles; and (iii) provide the services described in section 5603(1) of this title;
 
@@ -186,7 +186,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(C) are located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonably safe travel;
 
-&emsp;(15) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraph (12)(A), paragraph (13), and paragraph (14) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraph (12)(A) and paragraph (13), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
+&emsp;(15) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraph (12)(A), paragraph (13), and paragraph (14) are met, and for annual reporting of the results of such monitoring to the Administrator, except thatsuch reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraph (12)(A) and paragraph (13), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
 
 &emsp;(16) provide assurance that youth in the juvenile justice system are treated equitably on the basis of gender, race, family income, and mentally, emotionally, or physically handicapping conditions;
 
@@ -314,7 +314,7 @@ Subsec. (a)(1). Pub. L. 98–473, §626(a)(1), substituted “agency described i
 
 Subsec. (a)(2). Pub. L. 98–473, §626(a)(2), struck out “(hereafter referred to in this part as the ‘State criminal justice council’)” before “has or will have authority”.
 
-Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups as cl. (iv), designated the remainder ofsubpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
+Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
 
 Subsec. (a)(3)(F). Pub. L. 98–473, §626(a)(3)(B)(i), substituted “agency designated under paragraph (1)” for “criminal justice council” in three places.
 
@@ -414,7 +414,7 @@ Subsec. (a)(22). Pub. L. 96–509, §§11(a)(15)(A), 19(g)(10), redesignated for
 
 Subsec. (b). Pub. L. 96–509, §19(g)(12), substituted “criminal justice council” for “planning agency”.
 
-Subsec. (c). Pub. L. 96–509, §11(b), made conforming amendment, redefined “substantial compliance” with regard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
+Subsec. (c). Pub. L. 96–509, §11(b), made conforming amendment, redefined “substantial compliance” withregard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
 
 Subsec. (d). Pub. L. 96–509, §§11(c), 19(g)(13), substituted reference to sections 3783, 3784, and 3785 of this title for reference to sections 3757, 3758, and 3759 of this title and provided that redistributed allotments be used for the purposes of subsections (a)(12)(A), (a)(13) or (a)(14) of this section, and further provided that the Administrator shall make such reallocated funds available on an equitable basis to States that have achieved full compliance with the requirements under subsecs. (a)(12)(A) and (a)(13) of this section.
 
@@ -486,7 +486,7 @@ Section 4(c)(6)(B) of Pub. L. 95–115 provided in part that the amendment of su
 
 #### Savings Provision
 
-Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
+Section 2(f)(3)(B) of Pub. L. 102–586 provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) \[amending this section\], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)), as in effect on the day prior to the date of enactment of this Act \[Nov. 4, 1992\],shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.” On the day prior to Nov. 4, 1992, subsec. (c)(3) of this section read as follows: “Except as provided in paragraph (2), failure to achieve compliance with the requirements of subsection (a)(14) of this section after December 8, 1985, shall terminate any State's eligibility for funding under this part unless the Administrator waives the termination of the State's eligibility on the condition that the State agrees to expend all of the funds to be received under this part by the State (excluding funds required to be expended to comply with subsections (c) and (d) of section 5632 of this title and with subsection (a)(5)(C) of this section), only to achieve compliance with subsection (a)(14) of this section.”
 
 #### Termination of Advisory Committees
 

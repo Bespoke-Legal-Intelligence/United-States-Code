@@ -24,7 +24,7 @@
 
 > Unless otherwise provided by law enacted after August 13, 1981, or by a later report filed by the Board under subsection (a) of this section, regulations issued by the Board under this subsection shall apply beginning with the fiscal year designated by the Board in its written report under subsection (a) of this section. Any Board regulation which becomes effective under this subsection may be modified, rescinded, or superseded in the same manner and to the same extent as in the case of any other Board regulation issued under authority of this subchapter.
 
-(Aug. 29, 1935, ch. 812, §22, as added Aug. 13, 1981, Pub. L. 97–35, title XI, §1126(b), 95 Stat. 639; amended Aug. 12, 1983, Pub. L. 98–76, title I, §105, 97 Stat. 416; Dec. 21, 1995, Pub. L. 104–66, title II, §2221(b), 109 Stat. 733.)
+(Aug. 29, 1935, ch. 812, §22, as added Pub. L. 97–35, title XI, §1126(b), Aug. 13, 1981, 95 Stat. 639; amended Pub. L. 98–76, title I, §105, Aug. 12, 1983, 97 Stat. 416; Pub. L. 104–66, title II, §2221(b), Dec. 21, 1995, 109 Stat. 733.)
 
 #### References in Text
 

@@ -22,7 +22,7 @@ In sections 426e to 426h–1 of this title, the following definitions apply:
 
 &emsp;The term “shore protection project” includes a project for beach nourishment, including the replacement of sand.
 
-(Aug. 13, 1946, ch. 960, §6, as added Oct. 12, 1996, Pub. L. 104–303, title II, §227(e)(1), 110 Stat. 3702.)
+(Aug. 13, 1946, ch. 960, §6, as added Pub. L. 104–303, title II, §227(e)(1), Oct. 12, 1996, 110 Stat. 3702.)
 
 #### Section Referred to in Other Sections
 

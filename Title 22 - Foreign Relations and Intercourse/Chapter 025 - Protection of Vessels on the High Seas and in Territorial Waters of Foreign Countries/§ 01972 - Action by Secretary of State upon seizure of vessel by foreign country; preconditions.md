@@ -22,7 +22,7 @@ If—
 
 &emsp;(iii) to determine the amount of any fine, license, fee, registration fee, or other direct charge reimbursable under section 1973(a) of this title.
 
-(Aug. 27, 1954, ch. 1018, §2, 68 Stat. 883; Oct. 26, 1972, Pub. L. 92–569, §1, 86 Stat. 1182; Apr. 13, 1976, Pub. L. 94–265, title IV, §403(a)(1), 90 Stat. 360; Dec. 22, 1980, Pub. L. 96–561, title II, §238(b), 94 Stat. 3300; July 17, 1984, Pub. L. 98–364, title III, §303(a), 98 Stat. 444; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], 110 Stat. 3009, 3009–41.)
+(Aug. 27, 1954, ch. 1018, §2, 68 Stat. 883; Pub. L. 92–569, §1, Oct. 26, 1972, 86 Stat. 1182; Pub. L. 94–265, title IV, §403(a)(1), Apr. 13, 1976, 90 Stat. 360; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 98–364, title III, §303(a), July 17, 1984, 98 Stat. 444; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 

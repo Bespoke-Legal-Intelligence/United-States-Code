@@ -60,11 +60,11 @@ If—
 
 (1) If within three years after December 2, 1980, a plan has been prepared under subsection (c) of this section which is agreed to by the Secretary and the Governor, the plan shall take effect with respect to the United States and the State.
 
-(2) If the plan prepared pursuant to this section is agreed to by the Secretary and the Governor includes any recommendations regarding\(i) the exchange of State lands, (ii) the management of Federal lands within any conservation system unit, or (iii) any other actions which require the approval of either the Congress or the Alaska State Legislature, then the Secretary and the Governor shall submit to the Congress and the State Legislature as appropriate, their proposals for legislation necessary to carry out the recommendations contained in the plan.
+(2) If the plan prepared pursuant to this section is agreed to by the Secretary and the Governor includes any recommendations regarding (i) the exchange of State lands, (ii) the management of Federal lands within any conservation system unit, or (iii) any other actions which require the approval of either the Congress or the Alaska State Legislature, then the Secretary and the Governor shall submit to the Congress and the State Legislature as appropriate, their proposals for legislation necessary to carry out the recommendations contained in the plan.
 
 #### (f) Transitional provisions
 
-On December 2, 1980, and for a period of three years thereafter, all Federal land within the region (except that land conveyed by title IX of this Act to the State of Alaska and Federal lands located within the boundaries of conservation system units) shall be withdrawn from all forms of appropriation under the public land laws, including selections by the State, and from location and entry under the mining laws and from leasing under the Mineral Leasing Act \[30 U.S.C. 181 et seq.\], and shall be managed by the Bureau of Land Management under its existing statutory authority and consistent with provisions of this section.
+On December 2, 1980, and for a period of three years thereafter, all Federal land within the region (except that land conveyed by title IX of this Act to the State of Alaska and Federal lands located within the boundaries of conservation system units) shall be withdrawn from all forms of appropriation under the public land laws, including selections by the State, and from location and entry under the mining laws and from leasing under the Mineral Leasing Act \[30 U.S.C. 181 et seq.\], and shall be managed bythe Bureau of Land Management under its existing statutory authority and consistent with provisions of this section.
 
 (Pub. L. 96–487, title XII, §1203, Dec. 2, 1980, 94 Stat. 2470.)
 

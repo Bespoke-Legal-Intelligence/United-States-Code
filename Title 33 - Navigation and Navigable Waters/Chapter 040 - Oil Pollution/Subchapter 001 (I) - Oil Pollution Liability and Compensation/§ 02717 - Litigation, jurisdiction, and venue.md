@@ -28,7 +28,7 @@ Nothing in this subchapter shall apply to any cause of action or right of recove
 
 &emsp;&emsp;(A) the date on which the loss and the connection of the loss with the discharge in question are reasonably discoverable with the exercise of due care, or
 
-&emsp;&emsp;(B) in the case of natural resource damages under section 2702(b)(2)(A) of this title, the date of completion of the natural resources damage assessment under section 2706(c) of this title.
+&emsp;&emsp;(B) in the case of natural resource damages under section 2702(b)(2)(A) of this title,the date of completion of the natural resources damage assessment under section 2706(c) of this title.
 
 #### (2) Removal costs
 

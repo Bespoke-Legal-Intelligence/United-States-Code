@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) The term “minimum sustaining rate” means the production rate for each budget year that is necessary to keep production lines open while maintaining a base of responsive vendors and suppliers.
 
-(c) In the case of any weapon system for which procurement funds have not been previously requested and for which funds are first requested by the President in any fiscal year after the Budget for that fiscal year has been submitted to Congress, the same documentation requirements shall be applicable to that system in the same manner and to the same extent as if funds had been requested for that system in that budget.
+(c) In the case of any weapon system for which procurement funds have not been previously requested and for which funds are first requestedby the President in any fiscal year after the Budget for that fiscal year has been submitted to Congress, the same documentation requirements shall be applicable to that system in the same manner and to the same extent as if funds had been requested for that system in that budget.
 
 (Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 614, §139; amended Pub. L. 94–106, title VIII, §805, Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §511(5), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title IX, §909(c), Dec. 1, 1981, 95 Stat. 1120; Pub. L. 97–258, §3(b)(1), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 98–525, title XIV, §1405(3), Oct. 19, 1984, 98 Stat. 2621; renumbered §2431 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(12), (g)(6), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title XIII, §1301(13), title XIV, §1484(f)(3), Nov. 5, 1990, 104 Stat. 1668, 1717; Pub. L. 103–355, title III, §3001, Oct. 13, 1994, 108 Stat. 3327; Pub. L. 104–106, div. D, title XLIII, §4321(b)(18), Feb. 10, 1996, 110 Stat. 673.)
 
@@ -44,7 +44,7 @@ Subsec. (b)(4). Pub. L. 103–355, §3001(b)(5) amended par. (4) generally. Prio
 
 1990—Subsec. (b). Pub. L. 101–510, §1484(f)(3), substituted “covered and shall specifically include” for “covered, and specifically include, but not be limited to” in introductory provisions.
 
-Pub. L. 101–510, §1301(13), redesignated subsec. (c) as (b), struck out “or (b)” after “under subsection (a)”, and struck out former subsec. (b) which read as follows: “The Secretary of Defense shall submit a supplementalreport to Congress not less than 30, or more than 90, days before the award of any contract, or the exercise of any option in a contract, for the procurement of any such weapon system (other than procurement of units for operational testing and evaluation, or long lead-time items, or both), unless—
+Pub. L. 101–510, §1301(13), redesignated subsec. (c) as (b), struck out “or (b)” after “under subsection (a)”, and struck out former subsec. (b) which read as follows: “The Secretary of Defense shall submit a supplemental report to Congress not less than 30, or more than 90, days before the award of any contract, or the exercise of any option in a contract, for the procurement of any such weapon system (other than procurement of units for operational testing and evaluation, or long lead-time items, or both), unless—
 
 &emsp;“(1) the contractor or contractors for that system have not yet been selected and the Secretary of Defense determines that the submission of that report would adversely affect the source selection process and notifies Congress in writing, prior to such award, of that determination, stating his reasons therefor; or
 
@@ -84,9 +84,83 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### National Missile Defense Program
+
+Pub. L. 105–85, div. A, title II, §231, Nov. 18, 1997, 111 Stat. 1661, provided that:
+
+“(a)
+
+Program Structure.—To preserve the option of achieving an initial operational capability in fiscal year 2003, the Secretary of Defense shall ensure that the National Missile Defense Program is structured and programmed for funding so as to support a test, in fiscal year 1999, of an integrated national missile defense system that is representative of the national missile defense system architecture that could achieve initial operational capability in fiscal year 2003.
+
+“(b)
+
+Elements of NMD System.—The national missile defense system architecture specified in subsection (a) shall consist of the following elements:
+
+&emsp;“(1) An interceptor system that optimizes defensive coverage of the continental United States, Alaska, and Hawaii against limited ballistic missile attack (whether accidental, unauthorized, or deliberate).
+
+&emsp;“(2) Ground-based radars.
+
+&emsp;“(3) Space-based sensors.
+
+&emsp;“(4) Battle management, command, control, and communications (BM/C<sup>3</sup>).
+
+“(c)
+
+Plan for NMD System Development and Deployment.—Not later than February 15, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and Committees on National Security and Appropriations of House of Representatives\] a plan for the development and deployment of a national missile defense system that could achieve initial operational capability in fiscal year 2003. The plan shall include the following matters:
+
+&emsp;“(1) A detailed description of the system architecture selected for development.
+
+&emsp;“(2) A discussion of the justification for the selection of that particular architecture.
+
+&emsp;“(3) The Secretary's estimate of the amounts of the appropriations that would be necessary for research, development, test, evaluation, and for procurement for each of fiscal years 1999 through 2003 in order to achieve an initial operational capability of the system architecture in fiscal year 2003.
+
+&emsp;“(4) For each activity necessary for the development and deployment of the national missile defense system architecture selected by the Secretary that would at some point conflict with the terms of the ABM Treaty, if any—
+
+&emsp;&emsp;“(A) a description of the activity;
+
+&emsp;&emsp;“(B) a description of the point at which the activity would conflict with the terms of the ABM Treaty;
+
+&emsp;&emsp;“(C) the legal analysis justifying the Secretary's determination regarding the point at which the activity would conflict with the terms of the ABM Treaty; and
+
+&emsp;&emsp;“(D) an estimate of the time at which such point would be reached in order to achieve a test of an integrated missile defense system in fiscal year 1999 and initial operational capability of such a system in fiscal year 2003.
+
+“(d)
+
+Funding for Fiscal Year 1998.—Of the funds authorized to be appropriated under section 201(4) \[111 Stat. 1655\], $978,091,000 shall be available for the National Missile Defense Program.
+
+“(e)
+
+ABM Treaty Defined.—In this section, the term ‘ABM Treaty’ means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missile Systems, signed at Moscow on May 26, 1972, and includes the Protocol to that treaty, signed at Moscow on July 3, 1974.”
+
+#### Memorandum of Understanding for Use of National Laboratories for Ballistic Missile Defense Programs
+
+Pub. L. 105–85, div. C, title XXXI, §3131, Nov. 18, 1997, 111 Stat. 2034, provided that:
+
+“(a)
+
+Memorandum of Understanding.—The Secretary of Energy and the Secretary of Defense shall enter into a memorandum of understanding for the purpose of improving and facilitating the use by the Secretary of Defense of the expertise of the national laboratories for the ballistic missile defense programs of the Department of Defense.
+
+“(b)
+
+Assistance.—The memorandum of understanding shall provide that the Secretary of Defense shall request such assistance with respect to the ballistic missile defense programs of the Department of Defense as the Secretary of Defense and the Secretary of Energy determine can be provided through the technical skills and experience of the national laboratories, using such financial arrangements as the Secretaries determine are appropriate.
+
+“(c)
+
+Activities.—The memorandum of understanding shall provide that the national laboratories shall carry out those activities necessary to respond to requests for assistance from the Secretary of Defense referred to in subsection (b). Such activities may include the identification of technical modifications and test techniques, the analysis of physics problems, the consolidation of range and test activities, and the analysis and simulation of theater missile defense deployment problems.
+
+“(d)
+
+National Laboratories.—For purposes of this section, the national laboratories are—
+
+&emsp;“(1) the Lawrence Livermore National Laboratory, Livermore, California;
+
+&emsp;“(2) the Los Alamos National Laboratory, Los Alamos, New Mexico; and
+
+&emsp;“(3) the Sandia National Laboratories, Albuquerque, New Mexico.”
+
 #### Ballistic Missile Defense Program
 
-Subtitle C of title II of div. A of Pub. L. 104–106 provided that:
+Subtitle C of title II of div. A of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title II, §236, Nov. 18, 1997, 111 Stat. 1665, provided that:
 
 #### “SEC. 231. SHORT TITLE.
 
@@ -128,15 +202,15 @@ Subtitle C of title II of div. A of Pub. L. 104–106 provided that:
 
 “(a)
 
-Establishment of Core Program.—To implement the policy established in paragraph (1) of section233, the Secretary of Defense shall restructure the core theater missile defense program to consist of the following systems, to be carried out so as to achieve the specified capabilities:
+Establishment of Core Program.—To implement the policy established in paragraph (1) of section 233, the Secretary of Defense shall restructure the core theater missile defense program to consist of the following systems:
 
-&emsp;“(1) The Patriot PAC–3 system, with a first unit equipped (FUE) during fiscal year 1998.
+&emsp;“(1) The Patriot PAC–3 system.
 
-&emsp;“(2) The Navy Lower Tier (Area) system, with a user operational evaluation system (UOES) capability during fiscal year 1997 and an initial operational capability (IOC) during fiscal year 1999.
+&emsp;“(2) The Navy Area Defense system.
 
-&emsp;“(3) The Theater High-Altitude Area Defense (THAAD) system, with a user operational evaluation system (UOES) capability not later than fiscal year 1998 and a first unit equipped (FUE) not later than fiscal year 2000.
+&emsp;“(3) The Theater High-Altitude Area Defense (THAAD) system.
 
-&emsp;“(4) The Navy Upper Tier (Theater Wide) system, with a user operational evaluation system (UOES) capability during fiscal year 1999 and an initial operational capability (IOC) during fiscal year 2001.
+&emsp;“(4) The Navy Theater Wide system.
 
 “(b)
 
@@ -198,7 +272,7 @@ Findings.—(1) Congress hereby reaffirms—
 
 Sense of Congress Concerning Compliance Policy.—It is the sense of Congress that—
 
-&emsp;“(1) unless a missile defense system, system upgrade, or system component (including one that exploits data from space-based or other external sensors) is flight tested in an ABM-qualifying flight test (as defined in subsection (e)), that system, system upgrade, or system component has not, for purposes of the ABM Treaty, been tested in an ABM mode nor been given capabilities to counter strategic ballistic missiles and, therefore, is not subject to any application, limitation, or obligation under the ABM Treaty; and
+&emsp;“(1) unless a missile defense system, system upgrade, or system component (including one that exploits data from space-based or other external sensors) is flight tested in an ABM-qualifying flight test (as defined in subsection (e)), that system, system upgrade, or system component has not, for purposes of the ABM Treaty, been tested in an ABM mode norbeen given capabilities to counter strategic ballistic missiles and, therefore, is not subject to any application, limitation, or obligation under the ABM Treaty; and
 
 &emsp;“(2) any international agreement that would limit the research, development, testing, or deployment of missile defense systems, system upgrades, or system components that are designed to counter modern theater ballistic missiles in a manner that would be more restrictive than the compliance criteria specified in paragraph (1) should be entered into only pursuant to the treaty making powers of the President under the Constitution.
 
@@ -370,7 +444,7 @@ Pub. L. 103–160, div. A, title II, §242(a)–(e), Nov. 30, 1993, 107 Stat. 16
 
 #### Transfer of Follow-On Technology Programs
 
-Pub. L. 103–160, div. A, title II, §243, Nov. 30, 1993, 107 Stat. 1605, as amended by Pub. L. 104–201, div. A, titleX, §1073(e)(1)(E), Sept. 23, 1996, 110 Stat. 2658, provided that:
+Pub. L. 103–160, div. A, title II, §243, Nov. 30, 1993, 107 Stat. 1605, as amended by Pub. L. 104–201, div. A, title X, §1073(e)(1)(E), Sept. 23, 1996, 110 Stat. 2658, provided that:
 
 “(a)
 
@@ -438,35 +512,7 @@ Pub. L. 101–510, div. A, title II, §221, Nov. 5, 1990, 104 Stat. 1511.
 
 #### Stretchout of Major Defense Acquisition Programs
 
-Pub. L. 100–456, div. A, title I, §117, 102 Stat. 1933, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(3), Feb. 10, 1996, 110 Stat. 676, provided that:
-
-“(a)
-
-Stretchout Impact Statement.—The Secretary of Defense shall submit to Congress, at the same time the budget for any fiscal year is submitted to Congress under section 1105 of title 31, United States Code, a statement of what the effect would be during the fiscal year for which the budget is submitted of the stretchout of a major defense acquisition program if either of the following applies with respect to that program:
-
-&emsp;“(1) The final year of procurement scheduled for the program at the time the statement is submitted is more than two years later than the final year of procurement for the program as specified in the most recent annual Selected Acquisition Report for that program.
-
-&emsp;“(2) The proposed procurement quantity for that fiscal year is less than 90 percent of the procurement quantity proposed for the same fiscal year in the most recent annual Selected Acquisition Report for that program.
-
-“(b)
-
-Changes in Certain Costs To Be Included.—A statement under subsection (a) with respect to a major defense acquisition program shall contain an estimate of the projected increase in unit cost and the projected increase in total program cost for the system being procured under the program compared to the program specified in the most recent annual Selected Acquisition Report for that program.
-
-“\[(c) Repealed. Pub. L. 104–106, div. D, title XLIII, §4321(i)(3), Feb. 10, 1996, 110 Stat. 676.\]
-
-“(d)
-
-Limitations.—(1) Subsection (a) shall apply only for major defense acquisition programs for which procurement is proposed at a rate of six or more units per year.
-
-“(2) Subsection (a) shall not apply if the total procurement quantity has been increased, compared to the program specified in the most recent annual Selection Acquisition Report for that program, and subsection (a)(2) does not apply.
-
-“(e)
-
-Report on Establishing Maximum Production Rates.—Not later than March 15, 1989, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the feasibility and effect of establishing maximum production rates by December 1990 for certain major defense acquisition programs. The report shall identify and discuss ten programs, of which seven shall be programs for the procurement of conventional, tactical, or dual-capable systems.
-
-“(f)
-
-Definition.—For purposes of this section, the term ‘major defense acquisition program’ has the meaning given that term in section 2430 of title 10, United States Code.”
+Pub. L. 100–456, div. A, title I, §117, 102 Stat. 1933, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(3), Feb. 10, 1996, 110 Stat. 676, required Secretary of Defense to submit a stretchout impact statement for certain major defense acquisition programs at same time the budget for any fiscal year is submitted to Congress and to submit to Committees on Armed Services of Senate and House of Representatives, no later than Mar. 15, 1989, a report on feasibility and effect of establishing maximum production rates by December 1990 for certain major defense acquisition programs, prior to repeal by Pub. L. 105–85, div. A, title X, §1041(c), Nov. 18, 1997, 111 Stat. 1885.
 
 #### Prohibition of Certain Contracts With Foreign Entities
 
@@ -564,7 +610,7 @@ Requirements Applicable to FFRDC.—The Secretary of Defense shall—
 
 &emsp;“(2) require that at least 5 percent of the total amount of funds available for the new FFRDC shall be set aside for independent research to be performed by the staff of the new FFRDC under the direction of the chief executive officer of the new FFRDC;
 
-&emsp;“(3) impose a limitation on the compensation payable to each senior executive of the new FFRDC for services performed for the new FFRDC so that such compensation shall be comparable to the amount of compensation payable to senior executives of comparable federally funded research and development centers for similar services;
+&emsp;“(3) impose a limitation on the compensation payable to each senior executive of the new FFRDC forservices performed for the new FFRDC so that such compensation shall be comparable to the amount of compensation payable to senior executives of comparable federally funded research and development centers for similar services;
 
 &emsp;“(4) require that the new FFRDC publicly disclose the salary of its chief executive officer;
 
@@ -664,7 +710,7 @@ Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub
 
 #### Requirement for Specific Authorization for Deployment of Strategic Defense Initiative System
 
-Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed as consequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
+Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed as consequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted afterdate of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
 
 #### Annual Report on Ballistic Missile Defense Program
 
@@ -850,7 +896,7 @@ Section 608 of Pub. L. 93–552, title VI, Dec. 27, 1974, 88 Stat. 1763, provide
 
 “(b) The Secretary of Defense shall carry out the provisions of this section through existing Federal programs. The Secretary is authorized to supplement funds made available under such Federal programs to the extent necessary to carry out the provisions of this section, and is authorized to provide financial assistance to communities described in subsection (a) of this section to help such communities pay their share of the costs under such programs. The heads of all departments and agencies concerned shall cooperate fully with the Secretary of Defense in carrying out the provisions of this section on a priority basis.
 
-“(c) In determining the amount of financial assistance to be made available under this section to any local community for any community service or facility, the Secretary of Defense shall consult with the head of the department or agency of the Federal Government concerned with the type of service or facility for which financial assistance is being made availableand shall take into consideration (1) the time lag between the initial impact of increased population in any such community and any increase in the local tax base which will result from such increased population, (2) the possible temporary nature of the increased population and the long-range cost impact on the permanent residents of any such community, and (3) such other pertinent factors as the Secretary of Defense deems appropriate.
+“(c) In determining the amount of financial assistance to be made available under this section to any local community for any community service or facility, the Secretary of Defense shall consult with the head of the department or agency of the Federal Government concerned with the type of service or facility for which financial assistance is being made available and shall take into consideration (1) the time lag between the initial impact of increased population in any such community and any increase in the local tax base which will result from such increased population, (2) the possible temporary nature of the increased population and the long-range cost impact on the permanent residents of any such community, and (3) such other pertinent factors as the Secretary of Defense deems appropriate.
 
 “(d) Any funds appropriated to the Department of Defense for the fiscal year beginning July 1, 1974, for carrying out the TRIDENT Weapon System shall be utilized by the Secretary of Defense in carrying out the provisions of this section to the extent that funds are unavailable under other Federal programs. Funds appropriated to the Department of Defense for any fiscal year beginning after June 30, 1975, for carrying out the TRIDENT Weapon System may, to the extent specifically authorized in an annual Military Construction Authorization Act, be utilized by the Secretary of Defense in carrying out the provision of this section to the extent that funds are unavailable under other Federal programs.
 

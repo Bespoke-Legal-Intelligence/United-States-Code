@@ -2,7 +2,7 @@
 
 #### (a) Authorization; research concerning yellowfin tuna; annual report
 
-(1) The Secretary is authorized to make grants, or to provide financial assistance in such other form as he deems appropriate, to any Federal or State agency, public or private institution, or other person for the purpose of assisting such agency, institution, or person to undertake research in subjects which are relevant to the protection and conservation of marine mammals. In carrying out this subsection, the Secretary shall undertake a program of, and shall provide financial assistance for, research into new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals. The Secretary shall include a description of the annual results of research carried out under this section in the report required under section 1373(f) of this title.
+(1) The Secretary is authorized to make grants, or to provide financial assistance in such other form as he deems appropriate, to any Federal or State agency, public or private institution, or other person for the purpose of assisting such agency, institution, or person to undertake research in subjects which are relevant to the protection and conservation of marine mammals. In carrying out this subsection, the Secretary shall undertake a program of, and shall provide financial assistance for, research into new methods of locating and catching yellowfintuna without the incidental taking of marine mammals. The Secretary shall include a description of the annual results of research carried out under this section in the report required under section 1373(f) of this title.
 
 (2) For purposes of identifying appropriate research into promising new methods of locating and catching yellowfin tuna without the incidental taking of marine mammals, the Secretary shall contract for an independent review of information pertaining to such potential alternative methods to be conducted by the National Academy of Sciences with individuals having scientific, technical, or other expertise that may be relevant to the identification of promising alternative fishing techniques. The Secretary shall request that the independent review be submitted to the Secretary on or before September 8, 1989, and the Secretary shall submit the report of the independent review, together with a proposed plan for research, development, and implementation of alternative fishing techniques, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives on or before December 5, 1989.
 
@@ -26,13 +26,17 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 #### (d) Bering Sea ecosystem protection
 
-(1) The Secretary of Commerce, in consultation with the Secretary of the Interior, the Marine Mammal Commission, the State of Alaska, and Alaska Native organizations, shall, not later than 180 days after April 30, 1994, undertake ascientific research program to monitor the health and stability of the Bering Sea marine ecosystem and to resolve uncertainties concerning the causes of population declines of marine mammals, sea birds, and other living resources of that marine ecosystem. The program shall address the research recommendations developed by previous workshops on Bering Sea living marine resources, and shall include research on subsistence uses of such resources and ways to provide for the continued opportunity for such uses.
+(1) The Secretary of Commerce, in consultation with the Secretary of the Interior, the Marine Mammal Commission, the State of Alaska, and Alaska Native organizations, shall, not later than 180 days after April 30, 1994, undertake a scientific research program to monitor the health and stability of the Bering Sea marine ecosystem and to resolve uncertainties concerning the causes of population declines of marine mammals, sea birds, and other living resources of that marine ecosystem. The program shall address the research recommendations developed by previous workshops on Bering Sea living marine resources, and shall include research on subsistence uses of such resources and ways to provide for the continued opportunity for such uses.
 
 (2) To the maximum extent practicable, the research program undertaken pursuant to paragraph (1) shall be conducted in Alaska. The Secretary of Commerce shall utilize, where appropriate, traditional local knowledge and may contract with a qualified Alaska Native organization to conduct such research.
 
 (3) The Secretary of Commerce, the Secretary of the Interior, and the Commission shall address the status and findings of the research program in their annual reports to Congress required by sections 1373(f) and 1404 of this title.
 
-(Pub. L. 92–522, title I, §110, Oct. 21, 1972, 86 Stat. 1041; Pub. L. 95–136, §1, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, §2, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, §5, Oct. 9, 1981, 95 Stat. 986; Pub. L. 100–711, §4(e), Nov. 23, 1988, 102 Stat. 4768; Pub. L. 103–238, §20, Apr. 30, 1994, 108 Stat. 560.)
+(Pub. L. 92–522, title I, §110, Oct. 21, 1972, 86 Stat. 1041; Pub. L. 95–136, §1, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, §2, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, §5, Oct. 9, 1981, 95 Stat. 986; Pub. L. 100–711, §4(e), Nov. 23, 1988, 102 Stat. 4768; Pub. L. 103–238, §20, Apr. 30, 1994, 108 Stat. 560; Pub. L. 105–42, §4(f), Aug. 15, 1997, 111 Stat. 1125.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 105–42, §§4(f), 8, Aug. 15, 1997, 111 Stat. 1125, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, subsection (a) of this section is amended by striking “(1)” in paragraph (1) and by striking paragraph (2).</i>
 
 #### Amendments
 
@@ -45,6 +49,10 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 1978—Subsec. (c)(4) to (6). Pub. L. 95–316 added pars. (4) to (6).
 
 1977—Subsec. (c). Pub. L. 95–136 incorporated existing provisions into text preceding par. (1) and, as so incorporated, struck out provisions authorizing to be appropriated such sums as may be necessary to carry out this section for the fiscal year in which this section takes effect and the next four years thereafter, limiting appropriations for any one year to $2,500,000, and requiring that one-third of such sums be made available to the Secretary of the Interior and two-thirds of such sums be made available to the Secretary of the department in which the National Oceanic and Atmospheric Administration is operating, and added pars. (1) to (3).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

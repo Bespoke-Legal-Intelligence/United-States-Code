@@ -39,12 +39,17 @@
 | (c) | Criteria for identification. |
 | (d) | Procedure for identification of reallocable bands of frequencies. |
 | (e) | Timetable for reallocation and limitation. |
+| (f) | Additional reallocation report. |
+| (g) | Relocation of Federal Government stations. |
+| (h) | Federal action to expedite spectrum transfer. |
+| (i) | “Federal entity” defined. |
 | [924\.](Subchapter%20002%20%28II%29%20-%20Transfer%20of%20Auctionable%20Frequencies/%C2%A7%2000924%20-%20Withdrawal%20or%20limitation%20of%20assignment%20to%20Federal%20Government%20stations.md) | Withdrawal or limitation of assignment to Federal Government stations. |
 | (a) | In general. |
 | (b) | Exceptions. |
 | [925\.](Subchapter%20002%20%28II%29%20-%20Transfer%20of%20Auctionable%20Frequencies/%C2%A7%2000925%20-%20Distribution%20of%20frequencies%20by%20Commission.md) | Distribution of frequencies by Commission. |
 | (a) | Allocation and assignment of immediately available frequencies. |
 | (b) | Allocation and assignment of remaining available frequencies. |
+| (c) | Allocation and assignment of frequencies identified in second reallocation report. |
 | [926\.](Subchapter%20002%20%28II%29%20-%20Transfer%20of%20Auctionable%20Frequencies/%C2%A7%2000926%20-%20Authority%20to%20recover%20reassigned%20frequencies.md) | Authority to recover reassigned frequencies. |
 | (a) | Authority of President. |
 | (b) | Procedure for reclaiming frequencies. |

@@ -90,7 +90,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Effective Date
 
-Section effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972,except that in the case of employees referred to in subsec. (a)(2)(B) and (C) section effective on first day of first applicable pay period beginning on or after 180th day after Aug. 19, 1972, or on such earlier date (not earlier than 90th day after Aug. 19, 1972) as Civil Service Commission may prescribe, see section 15(a) of Pub. L. 92–392, set out as a note under section 5341 of this title.
+Section effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, except that in the case of employees referred to in subsec. (a)(2)(B) and (C) section effective on first day of first applicable pay period beginning on or after 180th day after Aug. 19, 1972, or on such earlier date (not earlier than 90th day after Aug. 19, 1972) as Civil Service Commission may prescribe, see section 15(a) of Pub. L. 92–392, set out as a note under section 5341 of this title.
 
 #### Abolition of Atomic Energy Commission
 

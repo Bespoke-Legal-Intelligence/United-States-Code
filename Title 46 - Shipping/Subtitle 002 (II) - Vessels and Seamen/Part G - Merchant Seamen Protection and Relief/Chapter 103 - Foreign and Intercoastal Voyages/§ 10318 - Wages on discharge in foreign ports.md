@@ -1,6 +1,6 @@
 ### §10318. Wages on discharge in foreign ports
 
-(a) When a master or seaman applies to a consular officer for the discharge of the seaman, the consular officer shall require the master to pay the seaman's wages if it appears that the seaman has carried out the agreement required by section 10302 of this title or otherwise is entitled to be discharged. Then the consular officer shall discharge the seaman. A consular officer shall require the payment of extra wages only as provided in this section or in chapter 109 of this title.
+(a) When a master or seaman applies to a consular officer for the discharge of the seaman, theconsular officer shall require the master to pay the seaman's wages if it appears that the seaman has carried out the agreement required by section 10302 of this title or otherwise is entitled to be discharged. Then the consular officer shall discharge the seaman. A consular officer shall require the payment of extra wages only as provided in this section or in chapter 109 of this title.
 
 (b) When discharging a seaman, a consular officer who fails to require the payment of the wages due a seaman at the time, and of the extra wages due under subsection (a) of this section, is accountable to the United States Government for the total amount.
 

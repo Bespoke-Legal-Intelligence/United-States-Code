@@ -12,7 +12,7 @@ The Attorney General shall, promptly upon receipt, transmit one copy of every re
 
 The Attorney General is authorized to furnish to departments and agencies in the executive branch and committees of the Congress such information obtained by him in the administration of this subchapter, including the names of registrants under this subchapter, copies of registration statements, or parts thereof, or other documents or information filed under this subchapter, as may be appropriate in the light of the purposes of this subchapter.
 
-(June 8, 1938, ch. 327, §6, 52 Stat. 633; Apr. 29, 1942, ch. 263, §1, 56 Stat. 256; July 4, 1966, Pub. L. 89–486, §6, 80 Stat. 247; Dec. 19, 1995, Pub. L. 104–65, §9(7), 109 Stat. 700.)
+(June 8, 1938, ch. 327, §6, 52 Stat. 633; Apr. 29, 1942, ch. 263, §1, 56 Stat. 256; Pub. L. 89–486, §6, July 4, 1966, 80 Stat. 247; Pub. L. 104–65, §9(7), Dec. 19, 1995, 109 Stat. 700.)
 
 #### Prior Provisions
 

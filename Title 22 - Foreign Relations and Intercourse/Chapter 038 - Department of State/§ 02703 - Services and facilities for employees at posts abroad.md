@@ -2,7 +2,7 @@
 
 #### (a) Non-Government-operated services; applicability of other provisions of law
 
-The Secretary of State may authorize and assist in the establishment, maintenance, and operation by civilian officers and employees of the Government of non-Government-operated services and facilities at posts abroad, including the furnishing of space, utilities, and properties owned or leased by the Government for use by its diplomatic, consular, and other missions and posts abroad. The provisions of the ForeignService Buildings Act, 1926 (22 U.S.C. 292–300) and section 2684 of this title may be utilized by the Secretary in providing such assistance.
+The Secretary of State may authorize and assist in the establishment, maintenance, and operation by civilian officers and employees of the Government of non-Government-operated services and facilities at posts abroad, including the furnishing of space, utilities, and properties owned or leased by the Government for use by its diplomatic, consular, and other missions and posts abroad. The provisions of the Foreign Service Buildings Act, 1926 (22 U.S.C. 292–300) and section 2684 of this title may be utilized by the Secretary in providing such assistance.
 
 #### (b) Emergency commissary and mess services
 
@@ -14,7 +14,7 @@ Services and facilities established under this section shall be made available, 
 
 #### (d) Charges
 
-Charges at any post abroad for a service or facility provided, authorized or assisted under this section shall be at the same rate for all civilian personnel of the Government serviced thereby, and all charges for supplies furnished to such a service or facility abroad by any agency shall be at the same rate as that charged by the furnishing agency to its comparable civilian services and facilities.
+Charges at any post abroad for a service or facility provided, authorized or assisted under thissection shall be at the same rate for all civilian personnel of the Government serviced thereby, and all charges for supplies furnished to such a service or facility abroad by any agency shall be at the same rate as that charged by the furnishing agency to its comparable civilian services and facilities.
 
 #### (e) Child care facilities
 
@@ -28,7 +28,7 @@ The Secretary of State may make grants to child care facilities, to offset in pa
 
 &emsp;(2) whether local child care is available.
 
-(Aug. 1, 1956, ch. 841, title I, §31, as added Oct. 17, 1980, Pub. L. 96–465, title II, §2201(a), 94 Stat. 2156; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; amended Feb. 16, 1990, Pub. L. 101–246, title I, §147, 104 Stat. 38; Oct. 28, 1991, Pub. L. 102–138, title I, §§121, 144, 105 Stat. 658, 668; Apr. 30, 1994, Pub. L. 103–236, title I, §124, 108 Stat. 393.)
+(Aug. 1, 1956, ch. 841, title I, §31, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2156; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; amended Pub. L. 101–246, title I, §147, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§121, 144, Oct. 28, 1991, 105 Stat. 658, 668; Pub. L. 103–236, title I, §124, Apr. 30, 1994, 108 Stat. 393.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ Every witness subpoenaed and in attendance shall be allowed the fees and traveli
 
 A judge of a court whose clerk issued a subpoena may enforce obedience to the process or punish disobedience as in other like cases, on proof that a witness, served with such subpoena, neglected or refused to appear or to testify. No witness shall be deemed guilty of contempt for disobeying such subpoena unless his fees and traveling expenses in going to, and returning from, and one day's attendance at the place of examination, are paid or tendered him at the time of the service of the subpoena; nor for refusing to disclose any secret matter except upon appropriate order of the court which issued the subpoena.
 
-(July 19, 1952, ch. 950, 66 Stat. 795; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 795; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

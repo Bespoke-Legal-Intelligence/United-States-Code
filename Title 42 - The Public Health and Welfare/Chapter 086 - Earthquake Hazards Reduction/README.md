@@ -13,8 +13,7 @@
 | (b) | Standards. |
 | (c) | Consultation. |
 | (d) | Reports. |
-| [7705\.](%C2%A7%2007705%20-%20Office%20of%20Science%20and%20Technology%20Policy%20report.md) | Office of Science and Technology Policy report. |
-| [7705a.](%C2%A7%2007705a%20-%20Advisory%20Committee.md) | Advisory Committee. |
+| 7705, 7705a. Repealed. |  |
 | [7705b.](%C2%A7%2007705b%20-%20Seismic%20standards.md) | Seismic standards. |
 | (a) | Buildings. |
 | (b) | Lifelines. |
@@ -47,8 +46,7 @@ This chapter is referred to in section 7704a of this title.
 - [&sect; 07703 - Definitions](%C2%A7%2007703%20-%20Definitions.md)
 - [&sect; 07704 - National Earthquake Hazards Reduction Program](%C2%A7%2007704%20-%20National%20Earthquake%20Hazards%20Reduction%20Program.md)
 - [&sect; 07704a - Report on seismic safety property standards](%C2%A7%2007704a%20-%20Report%20on%20seismic%20safety%20property%20standards.md)
-- [&sect; 07705 - Office of Science and Technology Policy report](%C2%A7%2007705%20-%20Office%20of%20Science%20and%20Technology%20Policy%20report.md)
-- [&sect; 07705a - Advisory Committee](%C2%A7%2007705a%20-%20Advisory%20Committee.md)
+- [&sect; 07705, 7705a - Repealed. Pub. L. 105&#8211;47, &sect;4, Oct. 1, 1997, 111 Stat. 1164](%C2%A7%2007705%2C%207705a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9347%2C%20%C2%A74%2C%20Oct.%201%2C%201997%2C%20111%20Stat.%201164.md)
 - [&sect; 07705b - Seismic standards](%C2%A7%2007705b%20-%20Seismic%20standards.md)
 - [&sect; 07705c - Acceptance of gifts](%C2%A7%2007705c%20-%20Acceptance%20of%20gifts.md)
 - [&sect; 07705d - Non-Federal cost sharing for supplemental funds](%C2%A7%2007705d%20-%20Non-Federal%20cost%20sharing%20for%20supplemental%20funds.md)

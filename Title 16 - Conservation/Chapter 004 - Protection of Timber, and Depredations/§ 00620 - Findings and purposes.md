@@ -48,6 +48,10 @@ Sections 620 to 620j of this title, referred to in subsec. (b), was in the origi
 
 Section 494 of title IV of Pub. L. 101–382 provided that: “Except as otherwise provided in this title, the provisions of this title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note below\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].”
 
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–83, title VI, §601, Nov. 14, 1997, 111 Stat. 1617, provided that: “This title \[amending sections 620b to 620f of this title\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1997’.”
+
 #### Short Title of 1993 Amendment
 
 Pub. L. 103–45, §1, July 1, 1993, 107 Stat. 223, provided that: “This Act \[amending sections 620c and 620d of this title and enacting provisions set out as a note under section 620c of this title\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Amendments Act of 1993’.”

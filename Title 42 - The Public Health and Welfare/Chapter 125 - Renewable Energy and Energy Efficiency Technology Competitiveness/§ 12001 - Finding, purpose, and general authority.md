@@ -28,7 +28,7 @@ The Secretary, acting in accordance with section 13541 of this title, is authori
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c)(1), was in the original “this Act”, meaning Pub. L. 101–218,Dec. 11, 1989, 103 Stat. 1859, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsecs. (b) and (c)(1), was in the original “this Act”, meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 

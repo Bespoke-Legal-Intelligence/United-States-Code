@@ -8,7 +8,7 @@
 
 #### (b) Records and reports; availability
 
-Handlers and importers responsible for payment of assessments under subsection (a) of thissection shall maintain and make available for inspection by the Secretary such books and records as required by the plan and file reports at the times, in the manner, and having the content prescribed by the plan, to the end that information and data shall be made available to the board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of this chapter or of any plan or regulation issued pursuant to this chapter.
+Handlers and importers responsible for payment of assessments under subsection (a) of this section shall maintain and make available for inspection by the Secretary such books and records as required by the plan and file reports at the times, in the manner, and having the content prescribed by the plan, to the end that information and data shall be made available to the board and to the Secretary which is appropriate or necessary to the effectuation, administration, or enforcement of this chapter or of any plan or regulation issued pursuant to this chapter.
 
 #### (c) Confidential information; disclosure during proceedings; prohibition inapplicable to general statements and publication of violations; penalties; removal from office
 
@@ -18,7 +18,7 @@ All information obtained pursuant to subsections (a) and (b) of this section sha
 
 &emsp;(2) the publication by direction of the Secretary of the name of any person violating any plan together with a statement of the particular provisions of the plan violated by such person.
 
-> Any such officer or employee violating the provisions of this subsection shall upon conviction be subject to a fine of not more than $1,000 or imprisonment for not more than one year, or both, and shall be removed from office.
+> Any such officer or employee violating the provisions of this subsection shall upon convictionbe subject to a fine of not more than $1,000 or imprisonment for not more than one year, or both, and shall be removed from office.
 
 (Pub. L. 91–670, title III, §310, Jan. 11, 1971, 84 Stat. 2044; Pub. L. 101–624, title XIX, §1942, Nov. 28, 1990, 104 Stat. 3867; Pub. L. 102–237, title VIII, §804, Dec. 13, 1991, 105 Stat. 1882.)
 

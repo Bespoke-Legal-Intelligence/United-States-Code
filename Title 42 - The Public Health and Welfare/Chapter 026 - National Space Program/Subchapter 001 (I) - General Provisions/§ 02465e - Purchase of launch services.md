@@ -4,7 +4,7 @@
 
 (1) Contracts to provide launch services to the National Aeronautics and Space Administration under section 2465d of this title shall be awarded on the basis of full, fair, and open competition, consistent with section 2304 of title 10 and section 2459c of this title.
 
-(2) The National Aeronautics and Space Administration shall limit its requirements for submission of cost or pricing data in support ofa bid or proposal to that data which is reasonably required to protect the interests of the United States.
+(2) The National Aeronautics and Space Administration shall limit its requirements for submission of cost or pricing data in support of a bid or proposal to that data which is reasonably required to protect the interests of the United States.
 
 #### (b) Specification systems
 

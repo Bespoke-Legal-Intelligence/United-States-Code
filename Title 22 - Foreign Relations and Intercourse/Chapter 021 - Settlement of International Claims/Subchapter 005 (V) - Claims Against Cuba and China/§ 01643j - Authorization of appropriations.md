@@ -2,7 +2,7 @@
 
 There are hereby authorized to be appropriated such sums as may be necessary to enable the Commission to pay its administrative expenses incurred in carrying out its functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title V, §511, as added Oct. 16, 1964, Pub. L. 88–666, 78 Stat. 1113; amended Oct. 19, 1965, Pub. L. 89–262, §5, 79 Stat. 988.)
+(Mar. 10, 1950, ch. 54, title V, §511, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1113; amended Pub. L. 89–262, §5, Oct. 19, 1965, 79 Stat. 988.)
 
 #### Amendments
 

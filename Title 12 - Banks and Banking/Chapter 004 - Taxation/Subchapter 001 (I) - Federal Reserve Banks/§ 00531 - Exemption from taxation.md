@@ -2,7 +2,7 @@
 
 Federal reserve banks, including the capital stock and surplus therein and the income derived therefrom, shall be exempt from Federal, State, and local taxation, except taxes upon real estate.
 
-(Dec. 23, 1913, ch. 6, §7(c), 38 Stat. 258; Mar. 3, 1919, ch. 101, §1, 40 Stat. 1314; Aug. 10, 1993, Pub. L. 103–66, title III, §3002(c)(2), 107 Stat. 338.)
+(Dec. 23, 1913, ch. 6, §7(c), 38 Stat. 258; Mar. 3, 1919, ch. 101, §1, 40 Stat. 1314; Pub. L. 103–66, title III, §3002(c)(2), Aug. 10, 1993, 107 Stat. 338.)
 
 #### Codification
 

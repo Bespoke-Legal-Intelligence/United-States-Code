@@ -10,7 +10,7 @@ The Attorney General may, under such conditions as he may prescribe, authorize a
 
 &emsp;(4) an alien admitted as a nonimmigrant visitor without a visa under section 1182(<i>l</i>) of this title or section 1187 of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §248, 66 Stat. 218; Sept. 21, 1961, Pub. L. 87–256, §109(d), 75 Stat. 535; Dec. 29, 1981, Pub. L. 97–116, §10, 95 Stat. 1617; Nov. 6, 1986, Pub. L. 99–603, title III, §313(d), 100 Stat. 3439; Sept. 13, 1994, Pub. L. 103–322, titleXIII, §130003(b)(3), 108 Stat. 2025; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §301(b)(2), title VI, §671(a)(2), 110 Stat. 3009–578, 3009–721.)
+(June 27, 1952, ch. 477, title II, ch. 5, §248, 66 Stat. 218; Sept. 21, 1961, Pub. L. 87–256, §109(d), 75 Stat. 535; Dec. 29, 1981, Pub. L. 97–116, §10, 95 Stat. 1617; Nov. 6, 1986, Pub. L. 99–603, title III, §313(d), 100 Stat. 3439; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130003(b)(3), 108 Stat. 2025; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §301(b)(2), title VI, §671(a)(2), 110 Stat. 3009–578, 3009–721.)
 
 #### Amendments
 

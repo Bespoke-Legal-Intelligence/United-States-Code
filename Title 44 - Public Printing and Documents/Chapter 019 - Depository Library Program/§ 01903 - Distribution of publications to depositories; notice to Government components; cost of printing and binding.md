@@ -1,6 +1,6 @@
 ### §1903. Distribution of publications to depositories; notice to Government components; cost of printing and binding
 
-Upon request of the Superintendent of Documents, components of the Government ordering the printing of publications shall either increase or decrease the number of copies of publications furnished for distribution to designated depository libraries and State libraries so that the number of copies delivered to the Superintendent of Documents is equal to the number of libraries on the list. The number thus delivered may not be restricted by any statutory limitation in force on August 9, 1962. Copies of publications furnished the Superintendent of Documents for distribution to designated depository libraries shall include—
+Upon request of the Superintendent of Documents, components of the Government orderingthe printing of publications shall either increase or decrease the number of copies of publications furnished for distribution to designated depository libraries and State libraries so that the number of copies delivered to the Superintendent of Documents is equal to the number of libraries on the list. The number thus delivered may not be restricted by any statutory limitation in force on August 9, 1962. Copies of publications furnished the Superintendent of Documents for distribution to designated depository libraries shall include—
 
 &emsp;the journals of the Senate and House of Representatives;
 

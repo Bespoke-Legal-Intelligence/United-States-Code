@@ -22,7 +22,7 @@
 
 The Administrator, in consultation with the Secretary of Transportation, shall prescribe regulations—
 
-&emsp;(1) requiring that waste sources, receiving facilities, and vessels provide the means and facilities to assure that the waste will not be deposited into coastal waters during loading, offloading, and transport;
+&emsp;(1) requiring that waste sources, receiving facilities, and vessels provide the means and facilities to assure that the waste will not bedeposited into coastal waters during loading, offloading, and transport;
 
 &emsp;(2) requiring, as appropriate, the submission and adoption by each responsible party of an operation and maintenance manual identifying procedures to be used to prevent, report, and clean up any deposit of municipal or commercial waste into coastal waters, including record keeping requirements; and
 

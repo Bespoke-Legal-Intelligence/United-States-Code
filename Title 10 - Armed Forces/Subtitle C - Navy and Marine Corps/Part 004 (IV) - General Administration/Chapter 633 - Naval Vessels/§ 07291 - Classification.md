@@ -62,7 +62,7 @@ Report on Ship Dumping Practices.—The Secretary of Transportation shall prepar
 
 Report on Defense Contracts.—The Secretary of Defense shall prepare a report on—
 
-&emsp;“(1) the amount of Department of Defense contracts that were awarded to companies physically located or headquartered in the countries identified in the Secretary of Transportation's report under subsection (d) for the most recent year for which data is available; and
+&emsp;“(1) the amount of Department of Defense contracts that were awarded to companies physically located orheadquartered in the countries identified in the Secretary of Transportation's report under subsection (d) for the most recent year for which data is available; and
 
 &emsp;“(2) the effect on defense programs of a prohibition of awarding contracts to companies physically located or headquartered in the countries identified in the Secretary of Transportation's report under subsection (d).
 
@@ -222,7 +222,7 @@ Pub. L. 101–189, div. A, title XVI, §1614(a), (b), Nov. 29, 1989, 103 Stat. 1
 
 #### Reports on Effects of Naval Shipbuilding Plans on Maritime Industries
 
-Pub. L. 100–456, div. A, title XII, §1227, Sept. 29, 1988, 102 Stat. 2055, directed Secretary of Defense to submitto Congress in 1989, 1990, and 1991 a report on how, under the current Five-Year Defense Program of Department of Defense, programs for naval shipbuilding and conversion, for naval vessel repair, and for procurement of support equipment for naval vessels could be expected to affect private-sector shipbuilding and ship repair industries of United States in terms of effectiveness and preparedness of those industries for mobilization in their role in the sealift component of the conventional deterrent of the United States.
+Pub. L. 100–456, div. A, title XII, §1227, Sept. 29, 1988, 102 Stat. 2055, directed Secretary of Defense to submit to Congress in 1989, 1990, and 1991 a report on how, under the current Five-Year Defense Program of Department of Defense, programs for naval shipbuilding and conversion, for naval vessel repair, and for procurement of support equipment for naval vessels could be expected to affect private-sector shipbuilding and ship repair industries of United States in terms of effectiveness and preparedness of those industries for mobilization in their role in the sealift component of the conventional deterrent of the United States.
 
 #### Repair of Vessels in Foreign Shipyards
 

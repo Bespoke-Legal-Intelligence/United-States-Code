@@ -4,7 +4,7 @@
 
 (b) This part provides for the University Year for VISTA (UYV) program of full-time volunteer service by students enrolled in institutions of higher education. The purpose of the UYV program is to strengthen and supplement efforts to eliminate poverty and poverty-related human, social, and environmental problems by enabling students at cooperating institutions to perform meaningful and constructive volunteer service in connection with the satisfaction of course-work while attending such institutions. Volunteer service under this part is conducted in agencies, institutions, and situations where the application of human talent and dedication may assist in the solution of poverty and poverty-related problems and secure and exploit opportunities for self-advancement by individuals experiencing such problems.
 
-(Pub. L. 93–113, title I, §111, Oct. 1, 1973, 87 Stat. 399; Pub. L. 98–288, §9, May 21, 1984, 98 Stat. 191; Pub. L. 99–551, §5, Oct. 27, 1986, 100 Stat. 3073; Pub. L. 101–204, title II, §201(2), Dec. 7, 1989, 103Stat. 1813; Pub. L. 103–82, title III, §330(a)(2), (3), Sept. 21, 1993, 107 Stat. 902.)
+(Pub. L. 93–113, title I, §111, Oct. 1, 1973, 87 Stat. 399; Pub. L. 98–288, §9, May 21, 1984, 98 Stat. 191; Pub. L. 99–551, §5, Oct. 27, 1986, 100 Stat. 3073; Pub. L. 101–204, title II, §201(2), Dec. 7, 1989, 103 Stat. 1813; Pub. L. 103–82, title III, §330(a)(2), (3), Sept. 21, 1993, 107 Stat. 902.)
 
 #### Amendments
 

@@ -36,5 +36,5 @@ Amendment by section 354(a)(5) of Pub. L. 104–208 effective as if included in 
 
 #### Effective Date
 
-Subchapter effective Apr. 24, 1996, and applicable to all aliens without regard to date of entry or attemptedentry into United States, see section 401(f) of Pub. L. 104–132, set out as an Effective Date of 1996 Amendment note under section 1326 of this title.
+Subchapter effective Apr. 24, 1996, and applicable to all aliens without regard to date of entry or attempted entry into United States, see section 401(f) of Pub. L. 104–132, set out as an Effective Date of 1996 Amendment note under section 1326 of this title.
 

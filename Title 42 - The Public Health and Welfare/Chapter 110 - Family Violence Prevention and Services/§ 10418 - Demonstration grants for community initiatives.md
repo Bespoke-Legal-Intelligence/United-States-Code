@@ -38,7 +38,7 @@ An organization that desires to receive a grant under this section shall submit 
 
 &emsp;(3) includes a complete description of the applicant's plan for the establishment and operation of the community project, including a description of—
 
-&emsp;&emsp;(A) the method for identification and selection of an administrative committee made up of persons knowledgeable in domestic violence to oversee the project, hire staff, assure compliance with the project outline, and secure annual evaluation of the project;
+&emsp;&emsp;(A) the method for identification and selection of an administrative committee made up of persons knowledgeable in domestic violence to oversee the project, hire staff,assure compliance with the project outline, and secure annual evaluation of the project;
 
 &emsp;&emsp;(B) the method for identification and selection of project staff and a project evaluator;
 

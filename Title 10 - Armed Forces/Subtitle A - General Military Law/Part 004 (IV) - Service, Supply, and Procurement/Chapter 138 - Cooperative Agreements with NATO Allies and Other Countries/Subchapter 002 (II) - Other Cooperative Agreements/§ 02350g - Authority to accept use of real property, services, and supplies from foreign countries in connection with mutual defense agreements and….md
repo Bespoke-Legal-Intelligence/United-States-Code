@@ -20,7 +20,7 @@ Quarterly Reports.—(1) Not later than 30 days after the end of each quarter of
 
 (c)
 
-Authority to Use Property, Services, and Supplies.—Property, services, or supplies referred to in subsection (a) may be used by the Secretary of Defense without specific authorization, except that such property, services, and supplies may not be used in connection with any program, project, or activity if the use of such property, services, or supplies would result in the violation of any prohibition or limitation otherwise applicable to that program, project, or activity.
+Authority to Use Property, Services, and Supplies.—Property, services, or suppliesreferred to in subsection (a) may be used by the Secretary of Defense without specific authorization, except that such property, services, and supplies may not be used in connection with any program, project, or activity if the use of such property, services, or supplies would result in the violation of any prohibition or limitation otherwise applicable to that program, project, or activity.
 
 (d)
 

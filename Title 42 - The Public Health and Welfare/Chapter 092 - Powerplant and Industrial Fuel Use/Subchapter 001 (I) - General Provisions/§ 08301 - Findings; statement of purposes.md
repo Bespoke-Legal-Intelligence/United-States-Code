@@ -54,7 +54,7 @@ Subsec. (b)(7) to (10). Pub. L. 100–42, §1(c)(1)(B), redesignated former pars
 
 #### Effective Date
 
-Section 901 of Pub. L. 95–620 provided that: “Unless otherwise provided in this Act \[see Short Title note set out below\] the provisions of this Act shall take effect 180 days after the date of the enactment of this Act \[Nov. 9, 1978\], except that the Secretary may issue rules pursuant to such provisions at any time after such date of enactment, which rules may take effect no earlier than 180 days after such date of enactment.”
+Section 901 of Pub. L. 95–620 provided that: “Unless otherwise provided in this Act \[see Short Title note setout below\] the provisions of this Act shall take effect 180 days after the date of the enactment of this Act \[Nov. 9, 1978\], except that the Secretary may issue rules pursuant to such provisions at any time after such date of enactment, which rules may take effect no earlier than 180 days after such date of enactment.”
 
 #### Short Title
 

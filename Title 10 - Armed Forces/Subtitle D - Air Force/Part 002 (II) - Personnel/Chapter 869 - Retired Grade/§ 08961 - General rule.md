@@ -2,7 +2,7 @@
 
 (a) The retired grade of a regular commissioned officer of the Air Force who retires other than for physical disability, and the retired grade of a reserve commissioned officer of the Air Force who retires other than for physical disability or for nonregular service under chapter 1223 of this title, is determined under section 1370 of this title.
 
-(b) Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Air Force not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that he holds on the date of his retirement.
+(b) Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Air Force not covered by subsection (a) who retires other than for physicaldisability retires in the regular or reserve grade that he holds on the date of his retirement.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 554; Dec. 12, 1980, Pub. L. 96–513, title V, §504(19), 94 Stat. 2917; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1674(c)(2), 108 Stat. 3016.)
 

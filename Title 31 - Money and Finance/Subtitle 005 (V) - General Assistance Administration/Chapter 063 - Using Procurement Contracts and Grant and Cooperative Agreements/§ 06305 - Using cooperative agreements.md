@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 Feb. 3, 1978, Pub. L. 95–224, §6, 92 Stat. 5.
 
-The words “type of” are omitted as unnecessary. The words “money, property, services” are omitted as being included in “a thing of value”. The words “law of the United States” are substituted for “Federal statute” for consistency.
+The words “type of” are omitted as unnecessary. The words “money, property, services” are omitted as beingincluded in “a thing of value”. The words “law of the United States” are substituted for “Federal statute” for consistency.
 
 #### Implementation of North American Wetlands Conservation Act and North American Waterfowl Management Plan
 

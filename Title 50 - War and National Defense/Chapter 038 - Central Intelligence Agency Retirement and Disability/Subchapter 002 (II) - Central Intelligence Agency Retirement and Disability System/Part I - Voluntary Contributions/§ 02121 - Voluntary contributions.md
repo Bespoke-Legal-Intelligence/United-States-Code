@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Under such regulations as may be prescribed by the Director, a participant may voluntarily contribute additional sums in multiples of one percent of the participant's basic pay, but not in excess of 10 percent of such basic pay.
+&emsp;Under such regulations as may be prescribed by the Director, a participant may voluntarilycontribute additional sums in multiples of one percent of the participant's basic pay, but not in excess of 10 percent of such basic pay.
 
 #### (2) Interest
 

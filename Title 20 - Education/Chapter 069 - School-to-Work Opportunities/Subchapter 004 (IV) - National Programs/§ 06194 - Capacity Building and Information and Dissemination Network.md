@@ -20,7 +20,7 @@ The Secretaries, acting through such mechanisms as the Capacity Building and Inf
 
 #### References in Text
 
-The Educational Research, Development, Dissemination, and Improvement Act of 1994, referred to in text, is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, which is classified principally to subchapter IX (§6001 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
+The Educational Research, Development, Dissemination, and Improvement Act of 1994, referred to in text,is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, which is classified principally to subchapter IX (§6001 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -30,5 +30,5 @@ Section 10301 specifies that vessels on foreign and intercoastal voyages (except
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternatetonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “75 gross tons”.
+1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “75 gross tons”.
 

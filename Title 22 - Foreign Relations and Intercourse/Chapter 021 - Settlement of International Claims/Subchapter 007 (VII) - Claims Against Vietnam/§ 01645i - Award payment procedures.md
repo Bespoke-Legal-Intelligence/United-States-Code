@@ -18,5 +18,5 @@ The Commission shall certify to the Secretary of the Treasury, in terms of Unite
 
 Payments or applications for payments under subsection (b) of this section shall be made in accordance with such regulations as the Secretary of the Treasury may prescribe.
 
-(Mar. 10, 1950, ch. 54, title VII, §710, as added Dec. 28, 1980, Pub. L. 96–606, 94 Stat. 3537.)
+(Mar. 10, 1950, ch. 54, title VII, §710, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
 

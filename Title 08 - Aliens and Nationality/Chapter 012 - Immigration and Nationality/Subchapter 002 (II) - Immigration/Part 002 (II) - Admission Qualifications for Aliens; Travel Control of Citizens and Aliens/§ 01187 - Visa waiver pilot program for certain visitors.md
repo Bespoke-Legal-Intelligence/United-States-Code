@@ -68,7 +68,7 @@ An alien may not be provided a waiver under the pilot program unless the alien h
 
 #### (D) Law enforcement interests
 
-&emsp;&emsp;The Attorney General determines that the United States law enforcement interests would not be compromised by the designation of the country.
+&emsp;&emsp;The Attorney General determines that the United States law enforcement interestswould not be compromised by the designation of the country.
 
 #### (3) Continuing and subsequent qualifications
 
@@ -122,7 +122,7 @@ Notwithstanding any other provision of this section, the Attorney General, in co
 
 #### (f) “Pilot program period” defined
 
-For purposes of this section, the term “pilot program period” means the period beginning on October 1, 1988, and ending on September 30, 1997.
+For purposes of this section, the term “pilot program period” means the period beginning on October 1, 1988, and ending on April 30, 1998.
 
 #### (g) Duration and termination of designation
 
@@ -144,7 +144,7 @@ For purposes of this section, the term “pilot program period” means the peri
 
 #### (A) In general
 
-&emsp;&emsp;If the Attorney General determines at the end of the probationary period described in paragraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section <sup>2</sup> (c)(2)(C) of this section, or has a disqualification rate of 2 percent or more, the Attorney General shall terminate the designation of the country as a pilot program country. If the Attorney General determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Attorney General shall redesignate the country as a pilot program country.
+&emsp;&emsp;If the Attorney General determines at the end of the probationary period described inparagraph (1)(B) that the program country placed in probationary status under such paragraph has failed to develop a machine-readable passport program as required by section <sup>2</sup> (c)(2)(C) of this section, or has a disqualification rate of 2 percent or more, the Attorney General shall terminate the designation of the country as a pilot program country. If the Attorney General determines that the program country has developed a machine-readable passport program and has a disqualification rate of less than 2 percent, the Attorney General shall redesignate the country as a pilot program country.
 
 #### (B) Effective date
 
@@ -166,9 +166,11 @@ For purposes of this section, the term “pilot program period” means the peri
 
 &emsp;&emsp;(B) the total number of nationals of such country who applied for admission as nonimmigrant visitors during such fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Nov. 6, 1986, Pub. L. 99–603, title III, §313(a), 100 Stat. 3435; amended Oct. 24, 1988, Pub. L. 100–525, §2(p)(1), (2), 102 Stat. 2613; Nov. 29, 1990, Pub. L. 101–649, title II, §201(a), 104 Stat. 5012; Dec. 12, 1991, Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), 105 Stat. 1746, 1756; Oct. 25, 1994, Pub. L. 103–415, §1(m), 108 Stat. 4301; Oct. 25, 1994, Pub. L. 103–416, title II, §§210, 211, 108 Stat. 4312, 4313; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Nov. 6, 1986, Pub. L. 99–603, title III, §313(a), 100 Stat. 3435; amended Oct. 24, 1988, Pub. L. 100–525, §2(p)(1), (2), 102 Stat. 2613; Nov. 29, 1990, Pub. L. 101–649, title II, §201(a), 104 Stat. 5012; Dec. 12, 1991, Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), 105 Stat. 1746, 1756; Oct. 25, 1994, Pub. L. 103–415, §1(m), 108 Stat. 4301; Oct. 25, 1994, Pub. L. 103–416, title II, §§210, 211, 108 Stat. 4312, 4313; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Nov. 26, 1997, Pub. L. 105–119, title I, §125, 111 Stat. 2471.)
 
 #### Amendments
+
+1997—Subsec. (f). Pub. L. 105–119 reenacted subsec. heading without change and amended text generally, substituting “April 30, 1998” for “September 30, 1997”.
 
 1996—Subsec. (a). Pub. L. 104–208, §635(a)(1), in introductory provisions, substituted “Attorney General, in consultation with the Secretary of State” for “Attorney General and the Secretary of State, acting jointly”.
 

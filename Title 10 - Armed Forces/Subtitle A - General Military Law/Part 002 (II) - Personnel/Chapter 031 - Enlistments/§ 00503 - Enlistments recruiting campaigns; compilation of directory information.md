@@ -28,6 +28,70 @@ Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions a
 
 Subsec. (b). Pub. L. 97–252, §1114(b)(1)(B), added subsec. (b).
 
+#### Measures To Improve Recruit Quality and Reduce Recruit Attrition
+
+Pub. L. 105–85, div. A, title V, subtitle D, Nov. 18, 1997, 111 Stat. 1738, provided that:
+
+#### “SEC. 531. REFORM OF MILITARY RECRUITING SYSTEMS.
+
+“(a)
+
+In General.—The Secretary of Defense shall carry out reforms in the recruiting systems of the Army, Navy, Air Force, and Marine Corps in order to improve the quality of new recruits and to reduce attrition among recruits.
+
+“(b)
+
+Specific Reforms.—As part of the reforms in military recruiting systems to be undertaken under subsection (a), the Secretary shall take the following steps:
+
+&emsp;“(1) Improve the system of pre-enlistment waivers and separation codes used for recruits by (A) revising and updating those waivers and codes to allow more accurate and useful data collection about those separations, and (B) prescribing regulations to ensure that those waivers and codes are interpreted in a uniform manner by the military services.
+
+&emsp;“(2) Develop a reliable database for (A) analyzing (at both the Department of Defense and service-level) data on reasons for attrition of new recruits, and (B) undertaking Department of Defense or service-specific measures (or both) to control and manage such attrition.
+
+&emsp;“(3) Require that the Secretary of each military department (A) adopt or strengthen incentives for recruiters to thoroughly prescreen potential candidates for recruitment, and (B) link incentives for recruiters, in part, to the ability of a recruiter to screen out unqualified candidates before enlistment.
+
+&emsp;“(4) Require that the Secretary of each military department include as a measurement of recruiter performance the percentage of persons enlisted by a recruiter who complete initial combat training or basic training.
+
+&emsp;“(5) Assess trends in the number and use of waivers over the 1991–1997 period that were issued to permit applicants to enlist with medical or other conditions that would otherwise be disqualifying.
+
+&emsp;“(6) Require the Secretary of each military department to implement policies and procedures (A) to ensure the prompt separation of recruits who are unable to successfully complete basic training, and (B) to remove those recruits from the training environment while separation proceedings are pending.
+
+“(c)
+
+Report.—Not later than March 31, 1998, the Secretary shall submit to Congress a report of the trendsassessed under subsection (b)(5). The information on those trends provided in the report shall be shown by armed force and by category of waiver. The report shall include recommendations of the Secretary for changing, revising, or limiting the use of waivers referred to in that subsection.
+
+#### “SEC. 532. IMPROVEMENTS IN MEDICAL PRESCREENING OF APPLICANTS FOR MILITARY SERVICE.
+
+“(a)
+
+In General.—The Secretary of Defense shall improve the medical prescreening of applicants for entrance into the Army, Navy, Air Force, or Marine Corps.
+
+“(b)
+
+Specific Steps.—As part of those improvements, the Secretary shall take the following steps:
+
+&emsp;“(1) Require that each applicant for service in the Army, Navy, Air Force, or Marine Corps (A) provide to the Secretary the name of the applicant's medical insurer and the names of past medical providers, and (B) sign a release allowing the Secretary to request and obtain medical records of the applicant.
+
+&emsp;“(2) Require that the forms and procedures for medical prescreening of applicants that are used by recruiters and by Military Entrance Processing Commands be revised so as to ensure that medical questions are specific, unambiguous, and tied directly to the types of medical separations most common for recruits during basic training and follow-on training.
+
+&emsp;“(3) Add medical screening tests to the examinations of recruits carried out by Military Entrance Processing Stations, provide more thorough medical examinations to selected groups of applicants, or both, to the extent that the Secretary determines that to do so could be cost effective in reducing attrition at basic training.
+
+&emsp;“(4) Provide for an annual quality control assessment of the effectiveness of the Military Entrance Processing Commands in identifying medical conditions in recruits that existed before enlistment in the Armed Forces, each such assessment to be performed by an agency or contractor other than the Military Entrance Processing Commands.
+
+#### “SEC. 533. IMPROVEMENTS IN PHYSICAL FITNESS OF RECRUITS.
+
+“(a)
+
+In General.—The Secretary of Defense shall take steps to improve the physical fitness of recruits before they enter basic training.
+
+“(b)
+
+Specific Steps.—As part of those improvements, the Secretary shall take the following steps:
+
+&emsp;“(1) Direct the Secretary of each military department to implement programs under which new recruits who are in the Delayed Entry Program are encouraged to participate in physical fitness activities before reporting to basic training.
+
+&emsp;“(2) Develop a range of incentives for new recruits to participate in physical fitness programs, as well as for those recruits who improve their level of fitness while in the Delayed Entry Program, which may include access to Department of Defense military fitness facilities, and access to military medical facilities in the case of a recruit who is injured while participating in physical activities with recruiters or other military personnel.
+
+&emsp;“(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical training programs for new recruits in the Delayed Entry Program.”
+
 #### Denial of Funds for Preventing ROTC Access to Campus or Federal Military Recruiting on Campus; Exceptions
 
 Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, provided that:
@@ -80,7 +144,7 @@ Covered Educational Entity.—For purposes of this section, the term ‘covered 
 
 “(g)
 
-Effective Date.—This section shall take effect upon the expiration of the 180-day period beginning on the date of the enactment of this Act \[Sept. 30, 1996\], bywhich date the Secretary of Defense shall have published final regulations in consultation with the Secretary of Education to carry out this section.”
+Effective Date.—This section shall take effect upon the expiration of the 180-day period beginning on the date of the enactment of this Act \[Sept. 30, 1996\], by which date the Secretary of Defense shall have published final regulations in consultation with the Secretary of Education to carry out this section.”
 
 #### Military Recruiting on Campus
 

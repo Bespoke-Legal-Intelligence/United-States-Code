@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(iii) is determined by the Secretary to be of national significance;
 
-> &emsp;and would be subject to demolition or major alteration in a manner inconsistent with the purpose of this subchapter unless acquired by the Commission.
+> &emsp;and would be subject to demolition or major alteration in a manner inconsistent with thepurpose of this subchapter unless acquired by the Commission.
 
 #### (c) Requirements for plan
 

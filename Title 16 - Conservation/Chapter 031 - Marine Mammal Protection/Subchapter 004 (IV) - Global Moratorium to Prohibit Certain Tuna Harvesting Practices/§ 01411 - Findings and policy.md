@@ -26,9 +26,27 @@ It is the policy of the United States to—
 
 &emsp;(5) encourage observer coverage on purse seine vessels fishing for tuna outside of the eastern tropical Pacific Ocean in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals.
 
-(Pub. L. 92–522, title III, §301, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3425.)
+(Pub. L. 92–522, title III, §301, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3425; amended Pub. L. 105–42, §6(b), Aug. 15, 1997, 111 Stat. 1129.)
+
+#### Amendment of Subsections (a) and (b)
+
+<i>Pub. L. 105–42, §§6(b), 8, Aug. 15, 1997, 111 Stat. 1129, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, this section is amended as follows:</i>
+
+<i>(1) by striking paragraph (4) of subsection (a) and inserting the following:</i>
+
+“(4) Nations harvesting yellowfin tuna in the eastern tropical Pacific Ocean have demonstrated their willingness to participate in appropriate multilateral agreements to reduce dolphin mortality progressively to a level approaching zero through the setting of annual limits, with the goal of eliminating dolphin mortality in that fishery. Recognition of the International Dolphin Conservation Program will assure that the existing trend of reduced dolphin mortality continues; that individual stocks of dolphins are adequately protected; and that the goal of eliminating all dolphin mortality continues to be a priority.”; and
+
+<i>(2) by striking paragraphs (2) and (3) of subsection (b) and inserting the following:</i>
+
+“(2) support the International Dolphin Conservation Program and efforts within the Program to reduce, with the goal of eliminating, the mortality referred to in paragraph (1);
+
+“(3) ensure that the market of the United States does not act as an incentive to the harvest of tuna caught with driftnets or caught by purse seine vessels in the eastern tropical Pacific Ocean not operating in compliance with the International Dolphin Conservation Program;”.
 
 #### Codification
 
 Another section 301 of Pub. L. 92–522 was renumbered section 401 and is classified to section 1421 of this title.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 

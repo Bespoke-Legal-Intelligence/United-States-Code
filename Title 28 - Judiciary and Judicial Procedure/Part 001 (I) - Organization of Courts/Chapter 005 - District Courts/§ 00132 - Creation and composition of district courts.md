@@ -6,7 +6,7 @@
 
 (c) Except as otherwise provided by law, or rule or order of court, the judicial power of a district court with respect to any action, suit or proceeding may be exercised by a single judge, who may preside alone and hold a regular or special session of court at the same time other sessions are held by other judges.
 
-(June 25, 1948, ch. 646, 62 Stat. 895; Nov. 13, 1963, Pub. L. 88–176, §2, 77 Stat. 331.)
+(June 25, 1948, ch. 646, 62 Stat. 895; Pub. L. 88–176, §2, Nov. 13, 1963, 77 Stat. 331.)
 
 #### Historical and Revision Notes
 
@@ -20,7 +20,7 @@ Other portions of section 1 of title 28, U.S.C., 1940 ed., are incorporated in s
 
 #### Amendments
 
-1963—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
+<b>1963</b>—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
 
 #### Continuation of Organization of Court
 

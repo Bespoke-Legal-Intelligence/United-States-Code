@@ -6,7 +6,12 @@
 | [2302\.](%C2%A7%2002302%20-%20Definitions.md) | Definitions. |
 | [2302a.](%C2%A7%2002302a%20-%20Simplified%20acquisition%20threshold.md) | Simplified acquisition threshold. |
 | [2302b.](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md) | Implementation of simplified acquisition procedures. |
-| [2302c.](%C2%A7%2002302c%20-%20Implementation%20of%20FACNET%20capability.md) | Implementation of FACNET capability. |
+| [2302c.](%C2%A7%2002302c%20-%20Implementation%20of%20electronic%20commerce%20capability.md) | Implementation of FACNET capability.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [2302d.](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md) | Major system: definitional threshold amounts. |
 | [2303\.](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md) | Applicability of chapter. |
 | \[2303a. | Repealed.\] |
@@ -20,7 +25,7 @@
 | [2305a.](%C2%A7%2002305a%20-%20Design-build%20selection%20procedures.md) | Design-build selection procedures. |
 | [2306\.](%C2%A7%2002306%20-%20Kinds%20of%20contracts.md) | Kinds of contracts. |
 | [2306a.](%C2%A7%2002306a%20-%20Cost%20or%20pricing%20data%20truth%20in%20negotiations.md) | Cost or pricing data: truth in negotiations. |
-| [2306b.](%C2%A7%2002306b%20-%20Multiyear%20contracts.md) | Multiyear contracts. |
+| [2306b.](%C2%A7%2002306b%20-%20Multiyear%20contracts%20acquisition%20of%20property.md) | Multiyear contracts: acquisition of property. |
 | [2307\.](%C2%A7%2002307%20-%20Contract%20financing.md) | Contract financing. |
 | \[2308. | Repealed.\] |
 | [2309\.](%C2%A7%2002309%20-%20Allocation%20of%20appropriations.md) | Allocation of appropriations. |
@@ -40,7 +45,7 @@
 | [2323\.](%C2%A7%2002323%20-%20Contract%20goal%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%20higher%20education.md) | Contract goal for small disadvantaged businesses and certain institutions of higher education. |
 | [2323a.](%C2%A7%2002323a%20-%20Credit%20for%20Indian%20contracting%20in%20meeting%20certain%20subcontracting%20goals%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%E2%80%A6.md) | Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education. |
 | [2324\.](%C2%A7%2002324%20-%20Allowable%20costs%20under%20defense%20contracts.md) | Allowable costs under defense contracts. |
-| \[2325. | Repealed.\] |
+| [2325\.](%C2%A7%2002325%20-%20Restructuring%20costs.md) | Restructuring costs. |
 | [2326\.](%C2%A7%2002326%20-%20Undefinitized%20contractual%20actions%20restrictions.md) | Undefinitized contractual actions: restrictions. |
 | [2327\.](%C2%A7%2002327%20-%20Contracts%20consideration%20of%20national%20security%20objectives.md) | Contracts: consideration of national security objectives. |
 | [2328\.](%C2%A7%2002328%20-%20Release%20of%20technical%20data%20under%20Freedom%20of%20Information%20Act%20recovery%20of%20costs.md) | Release of technical data under Freedom of Information Act: recovery of costs. |
@@ -50,6 +55,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title VIII, §804(a)(2), title X, §1073(a)(48)(B), Nov. 18, 1997, 111 Stat. 1833, 1903, substituted “contracts: acquisition of property” for “contracts” in item 2306b and added item 2325.
 
 1996—Pub. L. 104–201, div. A, title VIII, §805(b), Sept. 23, 1996, 110 Stat. 2606, added item 2302d.
 
@@ -101,7 +108,11 @@ Particular provisions relating to Navy procurement, see section 7521 et seq. of 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 15 section 637; title 22 section 2761; title 40 section 474; title 41 section 421; title 42 section 13556.
+This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 15 sections 205<i>l</i>, 637; title 22 section 2761; title 40 section 474; title 41 section 421; title 42 section 13556.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 105–85 without corresponding amendment of chapter analysis.</i>
 
 
 ---
@@ -112,7 +123,7 @@ This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 283
 - [&sect; 02302 - Definitions](%C2%A7%2002302%20-%20Definitions.md)
 - [&sect; 02302a - Simplified acquisition threshold](%C2%A7%2002302a%20-%20Simplified%20acquisition%20threshold.md)
 - [&sect; 02302b - Implementation of simplified acquisition procedures](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md)
-- [&sect; 02302c - Implementation of FACNET capability](%C2%A7%2002302c%20-%20Implementation%20of%20FACNET%20capability.md)
+- [&sect; 02302c - Implementation of electronic commerce capability](%C2%A7%2002302c%20-%20Implementation%20of%20electronic%20commerce%20capability.md)
 - [&sect; 02302d - Major system definitional threshold amounts](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md)
 - [&sect; 02303 - Applicability of chapter](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md)
 - [&sect; 02303a - Repealed. Pub. L. 98&#8211;577, title III, &sect;302(c)(1), Oct. 30, 1984, 98 Stat. 3077](%C2%A7%2002303a%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93577%2C%20title%20III%2C%20%C2%A7302%28c%29%281%29%2C%20Oct.%2030%2C%201984%2C%2098%20Stat.%203077.md)
@@ -126,7 +137,7 @@ This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 283
 - [&sect; 02305a - Design-build selection procedures](%C2%A7%2002305a%20-%20Design-build%20selection%20procedures.md)
 - [&sect; 02306 - Kinds of contracts](%C2%A7%2002306%20-%20Kinds%20of%20contracts.md)
 - [&sect; 02306a - Cost or pricing data truth in negotiations](%C2%A7%2002306a%20-%20Cost%20or%20pricing%20data%20truth%20in%20negotiations.md)
-- [&sect; 02306b - Multiyear contracts](%C2%A7%2002306b%20-%20Multiyear%20contracts.md)
+- [&sect; 02306b - Multiyear contracts acquisition of property](%C2%A7%2002306b%20-%20Multiyear%20contracts%20acquisition%20of%20property.md)
 - [&sect; 02307 - Contract financing](%C2%A7%2002307%20-%20Contract%20financing.md)
 - [&sect; 02308 - Repealed. Pub. L. 103&#8211;355, title I, &sect;1503(b)(1), Oct. 13, 1994, 108 Stat. 3297](%C2%A7%2002308%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20I%2C%20%C2%A71503%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203297.md)
 - [&sect; 02309 - Allocation of appropriations](%C2%A7%2002309%20-%20Allocation%20of%20appropriations.md)
@@ -146,7 +157,7 @@ This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 283
 - [&sect; 02323 - Contract goal for small disadvantaged businesses and certain institutions of higher education](%C2%A7%2002323%20-%20Contract%20goal%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%20higher%20education.md)
 - [&sect; 02323a - Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of&#8230;](%C2%A7%2002323a%20-%20Credit%20for%20Indian%20contracting%20in%20meeting%20certain%20subcontracting%20goals%20for%20small%20disadvantaged%20businesses%20and%20certain%20institutions%20of%E2%80%A6.md)
 - [&sect; 02324 - Allowable costs under defense contracts](%C2%A7%2002324%20-%20Allowable%20costs%20under%20defense%20contracts.md)
-- [&sect; 02325 - Repealed. Pub. L. 103&#8211;355, title VIII, &sect;8104(b)(1), Oct. 13, 1994, 108 Stat. 3391](%C2%A7%2002325%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20VIII%2C%20%C2%A78104%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203391.md)
+- [&sect; 02325 - Restructuring costs](%C2%A7%2002325%20-%20Restructuring%20costs.md)
 - [&sect; 02326 - Undefinitized contractual actions restrictions](%C2%A7%2002326%20-%20Undefinitized%20contractual%20actions%20restrictions.md)
 - [&sect; 02327 - Contracts consideration of national security objectives](%C2%A7%2002327%20-%20Contracts%20consideration%20of%20national%20security%20objectives.md)
 - [&sect; 02328 - Release of technical data under Freedom of Information Act recovery of costs](%C2%A7%2002328%20-%20Release%20of%20technical%20data%20under%20Freedom%20of%20Information%20Act%20recovery%20of%20costs.md)

@@ -10,7 +10,7 @@ The Secretary is authorized to appoint and fix the compensation of such officers
 
 (2) At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 3104 of title 5, provide for the establishment in the Office created by section 3419 of this title of a number of scientific, professional, and technical positions outside of the General Schedule equal to the number of such positions which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980.
 
-(3) Appointments to positions provided for under this subsection may be made without regard to the provisions of section 3324 of title 5, if the individual appointed in such position is an individual who is transferred in connection with the transfer of functions and offices under this chapter and, on the day preceding May 4, 1980, holds a position and has duties comparable to those of the position to which appointed hereunder.
+(3) Appointments to positions provided for under this subsection may be made without regard to the provisions of section 3324 of title 5, if the individual appointed in such position is anindividual who is transferred in connection with the transfer of functions and offices under this chapter and, on the day preceding May 4, 1980, holds a position and has duties comparable to those of the position to which appointed hereunder.
 
 (4) The authority under this subsection with respect to any position shall terminate when the person first appointed to fill such position ceases to hold such position.
 
@@ -32,7 +32,7 @@ Nothing in this chapter shall be construed to prevent the application of any Ind
 
 The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
-Section 414(a)(3)(A) of the Civil Service Reform Act of 1978, referred to in subsec. (b)(5), is section 414(a)(3)(A) of Pub. L. 95–454, title IV, Oct. 13, 1978, 92 Stat. 1178,which is set out as a note under sections 3104 and 5108 of Title 5.
+Section 414(a)(3)(A) of the Civil Service Reform Act of 1978, referred to in subsec. (b)(5), is section 414(a)(3)(A) of Pub. L. 95–454, title IV, Oct. 13, 1978, 92 Stat. 1178, which is set out as a note under sections 3104 and 5108 of Title 5.
 
 #### Codification
 

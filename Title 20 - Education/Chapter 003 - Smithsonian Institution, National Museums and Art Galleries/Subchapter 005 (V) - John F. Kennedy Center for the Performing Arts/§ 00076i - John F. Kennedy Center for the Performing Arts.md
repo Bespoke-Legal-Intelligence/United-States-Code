@@ -1,0 +1,38 @@
+### §76i. John F. Kennedy Center for the Performing Arts
+
+#### (a) In general
+
+The Board shall construct for the Smithsonian Institution, with funds raised by voluntary contributions, a building to be designated as the John F. Kennedy Center for the Performing Arts on a site in the District of Columbia bounded by the Inner Loop Freeway on the east, the Theodore Roosevelt Bridge approaches on the south, Rock Creek Parkway on the west, New Hampshire Avenue and F Street on the north, which shall be selected for such purpose by the National Capital Planning Commission. The National Capital Planning Commission shall acquire by purchase, condemnation, or otherwise, lands necessary to provide for the John F. Kennedy Center for the Performing Arts and related facilities. Such building shall be in accordance with plans and specifications approved by the Commission of Fine Arts.
+
+#### (b) Parking garage additions and site improvements
+
+#### (1) In general
+
+&emsp;Substantially in accordance with the plan entitled “Site Master Plan—Drawing Number 1997–2 April 29, 1997,” and map number NCR 844/82571, the Board may design and construct—
+
+&emsp;&emsp;(A) an addition to the parking garage at each of the north and south ends of the John F. Kennedy Center for the Performing Arts; and
+
+&emsp;&emsp;(B) site improvements and modifications.
+
+#### (2) Availability
+
+&emsp;The plan shall be on file and available for public inspection in the office of the Secretary of the Center.
+
+#### (3) Limitation on use of appropriated funds
+
+&emsp;No appropriated funds may be used to pay the costs (including the repayment of obligations incurred to finance costs) of—
+
+&emsp;&emsp;(A) the design and construction of an addition to the parking garage authorized under paragraph (1)(A);
+
+&emsp;&emsp;(B) the design and construction of site improvements and modifications authorized under paragraph (1)(B) that the Board specifically designates will be financed using sources other than appropriated funds; or
+
+&emsp;&emsp;(C) any project to acquire large screen format equipment for an interpretive theater, or to produce an interpretive film, that the Board specifically designates will be financed using sources other than appropriated funds.
+
+(Pub. L. 85–874, §3, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 105–95, §2, Nov. 19, 1997, 111 Stat. 2148.)
+
+#### Amendments
+
+1997—Pub. L. 105–95 substituted section catchline for former section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+
+1964—Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
+

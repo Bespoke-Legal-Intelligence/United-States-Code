@@ -82,7 +82,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1752, 1755, 1758, 1759a, 1760, 1761, 1762a, 1765, 1766, 1769, 1769h, 1776a, 1776bof this title; title 7 sections 2018, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 section 6082.
+This chapter is referred to in sections 1752, 1755, 1758, 1759a, 1760, 1761, 1762a, 1765, 1766, 1769, 1769h, 1776a, 1776b of this title; title 7 sections 2018, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 section 6082.
 
 
 ---

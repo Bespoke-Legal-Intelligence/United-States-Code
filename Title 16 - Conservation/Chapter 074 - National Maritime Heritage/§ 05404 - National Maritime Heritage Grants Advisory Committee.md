@@ -108,7 +108,7 @@ The Secretary shall—
 
 #### (g) Compensation and travel expenses
 
-An individual shall not receive any pay by reason of membership on the Committee. Whileaway from home or regular place of business in the performance of service for the Committee, a member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as a person employed intermittently in the Government service is allowed expenses under section 5703 of title 5.
+An individual shall not receive any pay by reason of membership on the Committee. While away from home or regular place of business in the performance of service for the Committee, a member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as a person employed intermittently in the Government service is allowed expenses under section 5703 of title 5.
 
 #### (h) Staff of Federal agencies
 

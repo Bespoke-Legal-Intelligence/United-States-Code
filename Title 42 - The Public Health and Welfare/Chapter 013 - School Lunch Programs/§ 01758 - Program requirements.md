@@ -16,7 +16,7 @@
 
 &emsp;(B) shall offer students a variety of fluid milk consistent with prior year preferences unless the prior year preference for any such variety of fluid milk is less than 1 percent of the total milk consumed at the school.
 
-(3) Students in senior high schools that participate in the school lunch program under this chapter (and, when approved by the local school district or nonprofit private schools, students in any other grade level) shall not be required to accept offered foods they do not intend to consume, and any such failure to accept offered foods shall not affect the full charge to the student for a lunch meeting the requirements of this subsection or the amount of payments made under this chapter to any such school for such lunch.
+(3) Students in senior high schools that participate in the school lunch program under thischapter (and, when approved by the local school district or nonprofit private schools, students in any other grade level) shall not be required to accept offered foods they do not intend to consume, and any such failure to accept offered foods shall not affect the full charge to the student for a lunch meeting the requirements of this subsection or the amount of payments made under this chapter to any such school for such lunch.
 
 #### (b) Income eligibility guidelines for free and reduced price school lunches; duty of Secretary; time to prescribe; relationship to other poverty guidelines; revision; publication; application, verification and approval; use or disclosure of eligibility information; maximum reduced price; nondiscrimination or identification of recipients
 
@@ -58,7 +58,7 @@
 
 &emsp;(bb) notwithstanding any other provision of law, a Federal, State, or local law enforcement official for the purpose of investigating an alleged violation of any program covered by paragraph (1) or this paragraph.
 
-(iv) Information provided under clause (iii)(II) shall be limited to the income eligibility status of the child for whom application for free or reduced price meal benefits was made or for whom eligibility information was provided under clause (ii), unless the consent of the parent or guardian of the child for whom application for benefits was made is obtained.
+(iv) Information provided under clause (iii)(II) shall be limited to the income eligibility statusof the child for whom application for free or reduced price meal benefits was made or for whom eligibility information was provided under clause (ii), unless the consent of the parent or guardian of the child for whom application for benefits was made is obtained.
 
 (v) A person described in clause (iii) who publishes, divulges, discloses, or makes known in any manner, or to any extent not authorized by Federal law (including a regulation), any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both.
 
@@ -88,7 +88,7 @@ School lunch programs under this chapter shall be operated on a nonprofit basis.
 
 #### (d) Social Security numbers and other documentation required as condition of eligibility
 
-(1) The Secretary shall require as a condition of eligibility for receipt of free or reduced price lunches that the member of the household who executes the application furnish the social security account number of the parent or guardian who is the primary wage earner responsible for the care of the child for whom the application is made, or that of another appropriate adult member of the child's household, as determined by the Secretary. The Secretary shall require that social security account numbers of all adult members of the household be provided if verification of the data contained in the application is sought under subsection (b)(2)(C) of this section.
+(1) The Secretary shall require as a condition of eligibility for receipt of free or reduced price lunches that the member of the household whoexecutes the application furnish the social security account number of the parent or guardian who is the primary wage earner responsible for the care of the child for whom the application is made, or that of another appropriate adult member of the child's household, as determined by the Secretary. The Secretary shall require that social security account numbers of all adult members of the household be provided if verification of the data contained in the application is sought under subsection (b)(2)(C) of this section.
 
 (2) No member of a household may be provided a free or reduced price lunch under this chapter unless—
 
@@ -152,7 +152,7 @@ Not later than 1 year after November 2, 1994, the Secretary shall provide a noti
 
 #### References in Text
 
-The Food Stamp Act of 1977, referred to in subsecs. (b)(2)(C)(ii)(I), (6)(A)(i) and (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsecs. (b)(2)(C)(ii)(I), (6)(A)(i) and (d)(2)(B), is Pub. L. 88–525,Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Social Security Act, referred to in subsecs. (b)(2)(C)(ii)(II), (iii)(II)(bb), (6)(A)(ii), (B) and (d)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV and title XIX of the Act are classified generally to part A (§601 et seq.) of subchapter IV and subchapter XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -200,7 +200,7 @@ Subsec. (f). Pub. L. 104–193, §702(c)(1)–(3), struck out “(2)” designat
 
 &emsp;“(B) the consistency of the lunches and breakfasts with the guidelines contained in the most recent ‘Dietary Guidelines for Americans’ that is published under section 5341 of title 7 (referred to in this subsection as the ‘Guidelines’), including the consistency of the lunches and breakfasts with the guideline for fat content.”
 
-Subsec. (f)(1). Pub. L. 104–193, §702(c)(4), added par. (1) and struck out former par. (1), as redesignated by Pub. L. 104–193, §702(c)(3), which read as follows: “Except as provided in subparagraph (B), not later than the firstday of the 1996–97 school year, schools that are participating in the school lunch or school breakfast program shall serve lunches and breakfasts under the programs that are consistent with the Guidelines (as measured in accordance with subsection (a)(1)(A)(ii) of this section and section 4(e)(1)).”
+Subsec. (f)(1). Pub. L. 104–193, §702(c)(4), added par. (1) and struck out former par. (1), as redesignated by Pub. L. 104–193, §702(c)(3), which read as follows: “Except as provided in subparagraph (B), not later than the first day of the 1996–97 school year, schools that are participating in the school lunch or school breakfast program shall serve lunches and breakfasts under the programs that are consistent with the Guidelines (as measured in accordance with subsection (a)(1)(A)(ii) of this section and section 4(e)(1)).”
 
 Subsec. (f)(2)(D). Pub. L. 104–149 added subpar. (D) and struck out former subpar. (D) which read as follows: “Schools may use any of the approaches described in subparagraph (C) to meet the requirements of this paragraph. In the case of schools that elect to use food-based menu systems to meet the requirements of this paragraph, the Secretary may not require the schools to conduct or use nutrient analysis.”
 

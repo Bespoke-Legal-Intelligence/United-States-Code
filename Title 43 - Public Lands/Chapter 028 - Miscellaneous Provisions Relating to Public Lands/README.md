@@ -156,6 +156,3 @@
 - [Subchapter 011 (XI) - Wisconsin River and Lake Land Titles](Subchapter%20011%20%28XI%29%20-%20Wisconsin%20River%20and%20Lake%20Land%20Titles/README.md)
 - [Subchapter 012 (XII) - Moving Expenses Resulting from Acquisition of Lands by Secretary of the Interior](Subchapter%20012%20%28XII%29%20-%20Moving%20Expenses%20Resulting%20from%20Acquisition%20of%20Lands%20by%20Secretary%20of%20the%20Interior/README.md)
 - [Subchapter 013 (XIII) - State Control of Noxious Plants on Government Lands](Subchapter%20013%20%28XIII%29%20-%20State%20Control%20of%20Noxious%20Plants%20on%20Government%20Lands/README.md)
-- [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
-- [Subchapter 002 (II) - Lands Beneath Navigable Waters Within State Boundaries](Subchapter%20002%20%28II%29%20-%20Lands%20Beneath%20Navigable%20Waters%20Within%20State%20Boundaries/README.md)
-- [Subchapter 003 (III) - Outer Continental Shelf Lands](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/README.md)

@@ -16,7 +16,7 @@ Termination of Liability.—The liability to pay a fine shall terminate the late
 
 (c)
 
-Lien.—A fine imposed pursuant to the provisions of subchapter C of chapter 227 of this title, or an order of restitution made pursuant to sections <sup>1</sup> 2248, 2259, 2264, 2327, 3663, 3663A, or 3664 of this title, is a lien in favor of the UnitedStates on all property and rights to property of the person fined as if the liability of the person fined were a liability for a tax assessed under the Internal Revenue Code of 1986. The lien arises on the entry of judgment and continues for 20 years or until the liability is satisfied, remitted, set aside, or is terminated under subsection (b).
+Lien.—A fine imposed pursuant to the provisions of subchapter C of chapter 227 of this title, or an order of restitution made pursuant to sections <sup>1</sup> 2248, 2259, 2264, 2327, 3663, 3663A, or3664 of this title, is a lien in favor of the United States on all property and rights to property of the person fined as if the liability of the person fined were a liability for a tax assessed under the Internal Revenue Code of 1986. The lien arises on the entry of judgment and continues for 20 years or until the liability is satisfied, remitted, set aside, or is terminated under subsection (b).
 
 (d)
 

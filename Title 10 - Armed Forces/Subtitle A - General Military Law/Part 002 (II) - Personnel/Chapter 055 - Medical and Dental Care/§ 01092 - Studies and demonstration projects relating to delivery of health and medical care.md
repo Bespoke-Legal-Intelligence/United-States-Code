@@ -14,7 +14,7 @@
 
 &emsp;(F) Prepayment for medical care services provided to maintain the health of a defined population.
 
-(2) The Secretary of Defense shall include in the studies conducted under paragraph (1) alternative programs for the provision of dental care to the spouses and dependents of members of the uniformed services who are on active duty, including a program under which dental care would be provided the spouses and dependents of such members under insurance or dental plan contracts. A demonstration project may not be conducted under this section that provides for the furnishing of dental care under an insurance or dental plan contract.
+(2) The Secretary of Defense shall include in the studies conducted under paragraph (1) alternative programs for the provision of dental care to the spouses and dependents of members of the uniformed services who are on active duty, including a program under which dental care would be provided the spouses and dependents ofsuch members under insurance or dental plan contracts. A demonstration project may not be conducted under this section that provides for the furnishing of dental care under an insurance or dental plan contract.
 
 (3) The Secretary of Defense shall submit to Congress from time to time written reports on the results of the studies and demonstration projects conducted under this subsection and shall include in such reports such recommendations for improving the health-care delivery systems of the uniformed services as the Secretary considers appropriate.
 
@@ -60,7 +60,7 @@ Pub. L. 100–180, div. A, title VII, §731, Dec. 4, 1987, 101 Stat. 1117, direc
 
 #### Chiropractic Health Care Demonstration
 
-Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, provided that:
+Pub. L. 103–337, div. A, title VII, §731, Oct. 5, 1994, 108 Stat. 2809, as amended by Pub. L. 105–85, div. A, title VII, §739, Nov. 18, 1997, 111 Stat. 1815, provided that:
 
 “(a)
 
@@ -68,15 +68,15 @@ Requirement for Program.—(1) Not later than 120 days after the date of enactme
 
 “(2) In carrying out the program, the Secretary of Defense shall—
 
-&emsp;“(A) subject to paragraph (3), designate not less than 10 major military medical treatment facilities of the Department of Defense to furnish chiropractic care under the program; and
+&emsp;“(A) subject to paragraph (3), designate the National Naval Medical Center, the Walter Reed Army Medical Center, and not less than 11 other major military medical treatment facilities of the Department of Defense to furnish chiropractic care under the program; and
 
-&emsp;“(B) enter into agreements with such number of chiropractors as the Secretary determines sufficientfor the purposes of the program to furnish chiropractic care at such facilities under the program.
+&emsp;“(B) enter into agreements with such number of chiropractors as the Secretary determines sufficient for the purposes of the program to furnish chiropractic care at such facilities under the program.
 
 “(3) The Secretary may not designate under paragraph (2) any treatment facility that is located on a military installation scheduled for closure or realignment under a base closure law.
 
 “(b)
 
-Program Period.—The Secretary shall carry out the demonstration program in fiscal years 1995 through 1997.
+Program Period.—The Secretary shall carry out the demonstration program in fiscal years 1995 through 1999.
 
 “(c)
 
@@ -88,7 +88,11 @@ Reporting Requirements.—(1) Not later than January 30, 1995, the Secretary of 
 
 “(2) Not later than May 1, 1995, the Secretary of Defense shall submit to the committees referred to in paragraph (1) a plan for evaluating the program, including a schedule for conducting progress reviews and for submitting a final report to the committees.
 
-“(3) The Secretary shall submit to the committees referred to in paragraph (1) a final report in accordance with the plan submitted to such committees pursuant to paragraph (2).
+“(3) Not later than January 30, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report that identifies the additional treatment facilities designated to furnish chiropractic care under the program that were not so designated before the report required by paragraph (1) was prepared, together with the plan for the conduct of the program at the additional treatment facilities.
+
+“(4) Not later than May 1, 1998, the Secretary of Defense shall modify the plan for evaluating the program submitted pursuant to paragraph (2) in order to provide for the evaluation of the program at all of the designated treatment facilities under the program, including the treatment facilities referred to in paragraph (3).
+
+“(5) Not later than May 1, 2000, the Secretary shall submit to the committees referred to in paragraph (3) a final report in accordance with the plan submitted pursuant to paragraph (2).
 
 “(d)
 

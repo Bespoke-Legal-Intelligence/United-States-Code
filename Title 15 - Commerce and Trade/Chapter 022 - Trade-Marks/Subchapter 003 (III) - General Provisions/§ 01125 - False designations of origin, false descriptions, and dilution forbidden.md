@@ -6,7 +6,7 @@
 
 &emsp;(A) is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation, connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person, or
 
-&emsp;(B) in commercial advertising or promotion, misrepresents the nature, characteristics,qualities, or geographic origin of his or her or another person's goods, services, or commercial activities,
+&emsp;(B) in commercial advertising or promotion, misrepresents the nature, characteristics, qualities, or geographic origin of his or her or another person's goods, services, or commercial activities,
 
 > shall be liable in a civil action by any person who believes that he or she is or is likely to be damaged by such act.
 

@@ -90,7 +90,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—LEAVE TRANSFER IN DISASTERS AND EMERGENCIES
+
+|  |  |
+| :--- | ---: |
+| [6391\.](Subchapter%20006%20%28VI%29%20-%20Leave%20Transfer%20in%20Disasters%20and%20Emergencies/%C2%A7%2006391%20-%20Authority%20for%20leave%20transfer%20program%20in%20disasters%20and%20emergencies.md) | Authority for leave transfer program in disasters and emergencies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+1997—Pub. L. 105–18, title II, §9004(b), June 12, 1997, 111 Stat. 197, added heading of subchapter VI and item 6391.
 
 1994—Pub. L. 103–329, title VI, §629(a)(2)(B), Sept. 30, 1994, 108 Stat. 2423, added item 6327 relating to absence in connection with serving as a bone-marrow or organ donor.
 
@@ -118,7 +128,7 @@ Pub. L. 90–367, §2(b), June 29, 1968, 82 Stat. 277, added item 6312.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 4703 of this title; title 24 section 225e; title 25 section 2012.
+This chapter is referred to in section 4703 of this title; title 22 section 3664; title 24 section 225e; title 25 section 2012.
 
 
 ---
@@ -130,3 +140,4 @@ This chapter is referred to in section 4703 of this title; title 24 section 225e
 - [Subchapter 003 (III) - Voluntary Transfers of Leave](Subchapter%20003%20%28III%29%20-%20Voluntary%20Transfers%20of%20Leave/README.md)
 - [Subchapter 004 (IV) - Voluntary Leave Bank Program](Subchapter%20004%20%28IV%29%20-%20Voluntary%20Leave%20Bank%20Program/README.md)
 - [Subchapter 005 (V) - Family and Medical Leave](Subchapter%20005%20%28V%29%20-%20Family%20and%20Medical%20Leave/README.md)
+- [Subchapter 006 (VI) - Leave Transfer in Disasters and Emergencies](Subchapter%20006%20%28VI%29%20-%20Leave%20Transfer%20in%20Disasters%20and%20Emergencies/README.md)

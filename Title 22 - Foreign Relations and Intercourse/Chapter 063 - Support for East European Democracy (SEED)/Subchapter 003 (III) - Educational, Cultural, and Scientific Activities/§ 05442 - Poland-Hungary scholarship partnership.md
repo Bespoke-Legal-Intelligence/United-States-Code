@@ -42,7 +42,7 @@ Prohibitions on the use of foreign assistance funds for assistance for Poland an
 
 #### (k) “State” defined
 
-As used in this section, the term “State” means each of the several States, the District ofColumbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+As used in this section, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
 (Pub. L. 101–179, title IV, §402, Nov. 28, 1989, 103 Stat. 1315.)
 

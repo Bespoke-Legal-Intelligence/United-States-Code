@@ -14,7 +14,7 @@ The provisions of sections 442(a) and 443 <sup>1</sup> of this title shall not 
 
 Sections 442(a) and 443 of this title, referred to in subsecs. (a) and (b), were repealed by act Nov. 17, 1941, ch. 473, §1, 55 Stat. 764.
 
-The immigration laws, referred to in subsec. (b), mean chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality, and all laws, conventions, and treaties of the United States relating to the immigration, exclusion, deportation, or expulsion of aliens. See section 1101(a)(17) of Title 8.
+The immigration laws, referred to in subsec. (b), are classified generally to Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
 
 #### Amendments
 

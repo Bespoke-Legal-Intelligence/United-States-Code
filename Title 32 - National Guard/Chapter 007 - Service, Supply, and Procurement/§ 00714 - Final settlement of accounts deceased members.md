@@ -16,7 +16,7 @@
 
 (b) Designations and changes of designation of beneficiaries under subsection (a)(1) are subject to regulations to be prescribed by the Secretary concerned. So far as practicable, these regulations shall be uniform with those prescribed for the armed forces under section 2771(b) of title 10.
 
-(c) Under such regulations as the Secretary concerned may prescribe, payments under subsection (a) shall be made by the Department of the Army or the Department of the Air Force, as the case may be.
+(c) Under such regulations as the Secretary concerned may prescribe, payments under subsection (a) shall be made by the Department ofthe Army or the Department of the Air Force, as the case may be.
 
 (d) A payment under this section bars recovery by any other person of the amount paid.
 

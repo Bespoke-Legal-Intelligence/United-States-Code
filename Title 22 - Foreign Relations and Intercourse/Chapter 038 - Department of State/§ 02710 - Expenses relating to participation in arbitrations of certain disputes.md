@@ -10,7 +10,7 @@ The Secretary of State may use funds available to the Secretary for the expenses
 
 #### (c) Procurement of services
 
-The Secretary of State may use competitive procedures or procedures other than competitive procedures to procure the services of experts for use in preparing or prosecuting a proceeding before an international tribunal or a claim by or against a foreign government or other foreign entity, whether or not the expert is expected to testify, or to procure other support services forsuch proceedings or claims. The Secretary need not provide any written justification for the use of procedures other than competitive procedures when procuring such services under this subsection and need not furnish for publication in the Commerce Business Daily or otherwise any notice of solicitation or synopsis with respect to such procurement.
+The Secretary of State may use competitive procedures or procedures other than competitive procedures to procure the services of experts for use in preparing or prosecuting a proceeding before an international tribunal or a claim by or against a foreign government or other foreign entity, whether or not the expert is expected to testify, or to procure other support services for such proceedings or claims. The Secretary need not provide any written justification for the use of procedures other than competitive procedures when procuring such services under this subsection and need not furnish for publication in the Commerce Business Daily or otherwise any notice of solicitation or synopsis with respect to such procurement.
 
 #### (d) International Litigation Fund
 
@@ -30,7 +30,7 @@ The Secretary of State may use competitive procedures or procedures other than c
 
 &emsp;Funds deposited in the ILF shall be available only for the purposes of paragraph (1).
 
-(Aug. 1, 1956, ch. 841, title I, §38, as added Aug. 16, 1985, Pub. L. 99–93, title I, §128, 99 Stat. 419; amended Apr. 30, 1994, Pub. L. 103–236, title I, §123, 108 Stat. 392.)
+(Aug. 1, 1956, ch. 841, title I, §38, as added Pub. L. 99–93, title I, §128, Aug. 16, 1985, 99 Stat. 419; amended Pub. L. 103–236, title I, §123, Apr. 30, 1994, 108 Stat. 392.)
 
 #### References in Text
 

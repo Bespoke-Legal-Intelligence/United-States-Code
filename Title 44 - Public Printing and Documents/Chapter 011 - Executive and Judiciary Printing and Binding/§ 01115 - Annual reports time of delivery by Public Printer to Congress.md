@@ -10,3 +10,7 @@ Based on 44 U.S. Code 1964 ed., §212 (part) (R.S. 3810).
 
 This section incorporates only the first sentence of former section 212. The balance will be found in section 1114 of this revision.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 3714b.
+

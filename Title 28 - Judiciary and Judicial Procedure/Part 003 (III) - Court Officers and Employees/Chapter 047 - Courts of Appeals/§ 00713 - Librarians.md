@@ -4,7 +4,7 @@
 
 (b) The librarian, with the approval of the court, may appoint necessary library assistants in such numbers as the Director of the Administrative Office of the United States Courts may approve. The librarian may remove such library assistants with the approval of the court.
 
-(June 25, 1948, ch. 646, 62 Stat. 920; May 24, 1949, ch. 139, §75, 63 Stat. 100; Apr. 2, 1982, Pub. L. 97–164, title I, §120(b)(1), 96 Stat. 33.)
+(June 25, 1948, ch. 646, 62 Stat. 920; May 24, 1949, ch. 139, §75, 63 Stat. 100; Pub. L. 97–164, title I, §120(b)(1), Apr. 2, 1982, 96 Stat. 33.)
 
 #### Historical and Revision Notes
 
@@ -36,7 +36,7 @@ This section corrects typographical errors in section 713 of title 28, U.S.C.
 
 #### Amendments
 
-1982—Pub. L. 97–164 substituted “Librarians” for “Criers, bailiffs, and messengers” in section catchline.
+<b>1982</b>—Pub. L. 97–164 substituted “Librarians” for “Criers, bailiffs, and messengers” in section catchline.
 
 Subsec. (a). Pub. L. 97–164 struck out “and necessary library assistants” after “Each court of appeals may appoint a librarian”.
 
@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 97–164 substituted “The librarian, with the approval of
 
 Subsecs. (c), (d). Pub. L. 97–164 struck out subsecs. (c) and (d) which had provided, respectively, that the Court of Appeals for the District of Columbia could appoint a marshal, who would attend the court at its sessions, be custodian of its courthouse, have supervision over its custodial employees, take charge of all property of the United States used by the court or its employees, and perform such other duties as the court might direct, that the court could also appoint necessary messengers who would be subject to removal by the court, that the United States marshal of the district in which a court of appeals was sitting or in which a circuit judge was present in chambers, could, with the approval of the court or judge, employ necessary bailiffs, that the bailiffs would attend the court, preserve order, and perform such other necessary duties as the court, judge or marshal might direct, and that such bailiffs would receive the same compensation as bailiffs employed for the district courts. See section 714 of this title.
 
-1949—Act May 24, 1949, inserted subsection designation (b) preceding second par. and renumbered former subsecs. (b) and (c) as (c) and (d), respectively.
+<b>1949</b>—Act May 24, 1949, inserted subsection designation (b) preceding second par. and renumbered former subsecs. (b) and (c) as (c) and (d), respectively.
 
 #### Effective Date of 1982 Amendment
 

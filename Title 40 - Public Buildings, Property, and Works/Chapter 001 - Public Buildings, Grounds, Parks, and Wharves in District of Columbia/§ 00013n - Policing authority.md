@@ -36,7 +36,7 @@ As used in sections 13f to 13p of this title, the term—
 
 &emsp;(3) “United States”, when used in a geographical sense, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Aug. 18, 1949, ch. 479, §9, 63 Stat. 617; Dec. 24, 1973, Pub. L. 93–198, title VII, §739(g)(8), 87 Stat. 829; Dec. 29, 1982, Pub. L. 97–390, §1(c), 96 Stat. 1957; Dec. 26, 1985, Pub. L. 99–218, 99 Stat. 1729; Oct. 16, 1986, Pub. L. 99–492, §1, 100 Stat. 1240; Oct. 25, 1990, Pub. L. 101–462, 104 Stat. 1079; Dec. 14, 1993, Pub. L. 103–193, 107 Stat. 2293; Oct. 9, 1996, Pub. L. 104–280, §1, 110 Stat. 3359.)
+(Aug. 18, 1949, ch. 479, §9, 63 Stat. 617; Pub. L. 93–198, title VII, §739(g)(8), Dec. 24, 1973, 87 Stat. 829; Pub. L. 97–390, §1(c), Dec. 29, 1982, 96 Stat. 1957; Pub. L. 99–218, Dec. 26, 1985, 99 Stat. 1729; Pub. L. 99–492, §1, Oct. 16, 1986, 100 Stat. 1240; Pub. L. 101–462, Oct. 25, 1990, 104 Stat. 1079; Pub. L. 103–193, Dec. 14, 1993, 107 Stat. 2293; Pub. L. 104–280, §1, Oct. 9, 1996, 110 Stat. 3359.)
 
 #### Amendments
 

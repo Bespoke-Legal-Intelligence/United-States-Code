@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) the term “employer” as used in the Family and Medical Leave Act of 1993 means any employing office, and
 
-&emsp;&emsp;(B) the term “eligible employee” as used in the Family and Medical Leave Act of 1993 means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.
+&emsp;&emsp;(B) the term “eligible employee” as used in the Family and Medical Leave Act of 1993means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.
 
 #### (b) Remedy
 

@@ -78,10 +78,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Effective Date of Chapter
-
-<i>Chapter effective Oct. 1, 1997, except as otherwise provided, see section 471 of this title.</i>
-
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 28 sections 1296, 1346, 1413, 3901, 3902, 3903, 3904, 3905, 3906, 3907.

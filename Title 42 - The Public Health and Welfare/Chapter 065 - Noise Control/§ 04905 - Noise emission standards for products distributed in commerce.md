@@ -34,7 +34,7 @@
 
 #### (b) Authority to publish regulations not otherwise required
 
-The Administrator may publish proposed regulations, meeting the requirements of subsection (c) of this section, for any product for which he is not required by subsection (a) of this section to prescribe regulations but for which, in his judgment, noise emission standards are feasible and are requisite to protect the public healthand welfare. Not earlier than six months after the date of publication of such proposed regulations respecting such product, he may prescribe regulations, meeting the requirements of subsection (c) of this section, for such product.
+The Administrator may publish proposed regulations, meeting the requirements of subsection (c) of this section, for any product for which he is not required by subsection (a) of this section to prescribe regulations but for which, in his judgment, noise emission standards are feasible and are requisite to protect the public health and welfare. Not earlier than six months after the date of publication of such proposed regulations respecting such product, he may prescribe regulations, meeting the requirements of subsection (c) of this section, for such product.
 
 #### (c) Contents of regulations; appropriate consideration of other standards; participation by interested persons; revision
 
@@ -72,7 +72,7 @@ At any time after the promulgation of regulations respecting a product under thi
 
 The Clean Air Act, referred to in subsec. (c)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (c)(1), is act June 30, 1948, ch. 758, as amendedgenerally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (c)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 #### Codification
 

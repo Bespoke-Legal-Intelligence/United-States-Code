@@ -114,7 +114,6 @@
 | (<i>l</i>) | Guam; waiver of requirements for nonimmigrant visitors; conditions of waiver; acceptance of funds from Guam. |
 | (m) | Requirements for admission of nonimmigrant nurses during five-year period. |
 | (n) | Labor condition application. |
-| (<i>o</i>) | Requirements for receipt of immigrant visa within ninety days following departure. |
 | 1182a to 1182c. Repealed. |  |
 | [1183\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001183%20-%20Admission%20of%20aliens%20on%20giving%20bond%20or%20undertaking%3B%20return%20upon%20permanent%20departure.md) | Admission of aliens on giving bond or undertaking; return upon permanent departure. |
 | [1183a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001183a%20-%20Requirements%20for%20sponsor%27s%20affidavit%20of%20support.md) | Requirements for sponsor's affidavit of support. |
@@ -349,6 +348,7 @@
 | (h) | Application with respect to special immigrants. |
 | (i) | Adjustment in status of certain aliens physically present in United States. |
 | (j) | Adjustment to permanent resident status. |
+| (k) | Inapplicability of certain provisions for certain employment-based immigrants. |
 | [1255a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001255a%20-%20Adjustment%20of%20status%20of%20certain%20entrants%20before%20January%201%2C%201982%2C%20to%20that%20of%20person%20admitted%20for%20lawful%20residence.md) | Adjustment of status of certain entrants before January 1, 1982, to that of person admitted for lawful residence. |
 | (a) | Temporary resident status. |
 | (b) | Subsequent adjustment to permanent residence and nature of temporary resident status. |
@@ -530,7 +530,6 @@
 | (p) | Additional effective dates. |
 | (q) | Land Border Inspection Fee Account. |
 | (r) | Breached Bond/Detention Fund. |
-| (s) | Immigration Detention Account. |
 | [1357\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001357%20-%20Powers%20of%20immigration%20officers%20and%20employees.md) | Powers of immigration officers and employees. |
 | (a) | Powers without warrant. |
 | (b) | Administration of oath; taking of evidence. |
@@ -854,7 +853,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1184a, 1255b, 1367, 1611, 1612, 1621, 1622, 1641 of this title; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 section 278g; title 18 section 1203; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 section 6705; title 46 section 8103; title 50 sections 47c, 47f.
+This chapter is referred to in sections 1184a, 1255b, 1367, 1611, 1612, 1621, 1622, 1641, 1642, 1643 of this title; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 section 278g; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 section 6705; title 46 section 8103; title 50 sections 47c, 47f.
 
 
 ---

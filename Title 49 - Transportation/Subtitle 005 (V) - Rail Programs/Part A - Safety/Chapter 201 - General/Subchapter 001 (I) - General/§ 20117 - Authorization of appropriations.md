@@ -24,11 +24,11 @@ Grade Crossing Safety.—Not more than $1,000,000 may be appropriated to the Sec
 
 (c)
 
-Research and Development, Automated Track Inspection, and State Participation Grants.—Amounts appropriated under this section for research and development, automated track inspection, and grants under section 20105(e) of this title remain available until expended.
+Research and Development, Automated Track Inspection, and State Participation Grants.—Amounts appropriated under this section for research and development, automatedtrack inspection, and grants under section 20105(e) of this title remain available until expended.
 
 (d)
 
-Minimum Available for Certain Purposes.—At least 50 percent of the amounts appropriated to the Secretary for a fiscal year to carry out railroad research and development programs under this chapter or another law shall be available for safety research, improved track inspection and information acquisitiontechnology, improved railroad freight transportation, and improved railroad passenger systems.
+Minimum Available for Certain Purposes.—At least 50 percent of the amounts appropriated to the Secretary for a fiscal year to carry out railroad research and development programs under this chapter or another law shall be available for safety research, improved track inspection and information acquisition technology, improved railroad freight transportation, and improved railroad passenger systems.
 
 (e)
 

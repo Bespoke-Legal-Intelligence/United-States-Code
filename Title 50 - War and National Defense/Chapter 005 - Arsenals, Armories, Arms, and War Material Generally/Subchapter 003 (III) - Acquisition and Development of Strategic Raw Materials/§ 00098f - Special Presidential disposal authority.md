@@ -4,11 +4,11 @@
 
 &emsp;(1) on the order of the President, at any time the President determines the release of such materials is required for purposes of the national defense; and
 
-&emsp;(2) in time of war declared by the Congress or during a national emergency, on the orderof any officer or employee of the United States designated by the President to have authority to issue disposal orders under this subsection, if such officer or employee determines that the release of such materials is required for purposes of the national defense.
+&emsp;(2) in time of war declared by the Congress or during a national emergency, on the order of any officer or employee of the United States designated by the President to have authority to issue disposal orders under this subsection, if such officer or employee determines that the release of such materials is required for purposes of the national defense.
 
 (b) Any order issued under subsection (a) of this section shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
 
-(June 7, 1939, ch. 190, §7, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 322; amended Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(e)(2), 110 Stat. 509.)
+(June 7, 1939, ch. 190, §7, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 104–106, div. A, title XV, §1502(e)(2), Feb. 10, 1996, 110 Stat. 509.)
 
 #### Prior Provisions
 

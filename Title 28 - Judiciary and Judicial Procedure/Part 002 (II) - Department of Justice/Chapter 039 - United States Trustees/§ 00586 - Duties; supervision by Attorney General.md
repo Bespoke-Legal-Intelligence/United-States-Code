@@ -80,11 +80,11 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 #### Amendments
 
-1994—Subsec. (a)(3). Pub. L. 103–394 inserted “12,” after “11,” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “monitoring applications for compensation and reimbursement filed under section 330 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to any of such applications;”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–394 inserted “12,” after “11,” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “monitoring applications for compensation and reimbursement filed under section 330 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to any of such applications;”.
 
-1990—Subsec. (e)(1)(A). Pub. L. 101–509 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a maximum annual compensation for such individual, not to exceed the annual rate of basic pay in effect for step 1 of grade GS–16 of the General Schedule prescribed under section 5332 of title 5; and”.
+<b>1990</b>—Subsec. (e)(1)(A). Pub. L. 101–509 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a maximum annual compensation for such individual, not to exceed the annual rate of basic pay in effect for step 1 of grade GS–16 of the General Schedule prescribed under section 5332 of title 5; and”.
 
-1986—Subsec. (a). Pub. L. 99–554, §113(a)(1), substituted “the region for which such United States trustee is appointed” for “his district” in introductory text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §113(a)(1), substituted “the region for which such United States trustee is appointed” for “his district” in introductory text.
 
 Subsec. (a)(3). Pub. L. 99–554, §113(a)(2), substituted “title 11 by, whenever the United States trustee considers it to be appropriate—” for “title 11;” and added subpars. (A) to (H).
 
@@ -130,7 +130,7 @@ Section 529 \[title I, §110(b)\] of Pub. L. 101–509 provided that: “The ame
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 11 sections 326, 701, 703, 1202, 1302, 1326.
+This section is referred to in title 11 sections 326, 589a, 701, 703, 1202, 1302, 1326.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

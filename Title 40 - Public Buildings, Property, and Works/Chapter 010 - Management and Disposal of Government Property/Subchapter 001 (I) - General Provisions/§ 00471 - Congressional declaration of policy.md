@@ -18,7 +18,7 @@ Section was formerly classified to section 201 of Title 41, Public Contracts.
 
 #### Effective Date
 
-Section 605, formerly §505, of act June 30, 1949, renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat.583, provided that: “This Act \[see Short Title note below\] shall become effective on July 1, 1949, except that the provisions of section 602(a)(2) (repealing prior law relating to the disposition of the affairs of the War Assets Administration) \[repealing note set out under section 1614a of the Appendix to Title 50, War and National Defense\] shall become effective on June 30, 1949.”
+Section 605, formerly §505, of act June 30, 1949, renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583, provided that: “This Act \[see Short Title note below\] shall become effective on July 1, 1949, except that the provisions of section 602(a)(2) (repealing prior law relating to the disposition of the affairs of the War Assets Administration) \[repealing note set out under section 1614a of the Appendix to Title 50, War and National Defense\] shall become effective on June 30, 1949.”
 
 #### Short Title of 1988 Amendment
 
@@ -64,7 +64,7 @@ Pub. L. 103–355, title X, §10005(b)(2), Oct. 13, 1994, 108 Stat. 3408, provid
 
 #### Act Referred to in Other Sections
 
-The Federal Property and Administrative Services Act of 1949 is referred to in sections 304, 311b, 472 to 476, 482, 483b to 484–1, 484d, 485, 485a, 486, 488, 489, 492, 605, 751, 752, 754 to 756, 758 of this title; title 5 section 7342; title 7 sections 15b, 55, 79, 473a, 1736a, 1985, 2279b, 5922; title 10 sections 2552, 2676, 2691, 2854a, 2878, 7305, 9441, 9781; title 12 sections 90, 1701z, 1701z–2, 1788; title 14 sections 92, 93, 641, 685; title 15 sections 205f, 714b; title 16 sections 1a–2, 79c, 160b, 396f, 410r–6, 430a–2, 430h–7, 441<i>l</i>–5, 460m–9, 460x–7, 460bb–2, 460ee, 460ff–1, 460hh–1, 505a, 590q–1, 793, 2106; title 20 sections 196, 3475; title 22 sections 277d–36, 277e, 2358, 2581, 2713, 5422; title 25 sections 190, 293, 450j; title 30 section 4; title 33 section 578; title 41 sections 254, 405; title 42 sections 1592a, 1592d, 2201, 2297b–11, 2473, 4638, 5196, 5919, 12651g; title 43 sections 1702, 1736; title 44 section 311; title 45 section 1212; title 48 section 1685; title 49 section 103; title 50 sections 167a, 415, 1651; title 50 App. section 2393.
+The Federal Property and Administrative Services Act of 1949 is referred to in sections 304, 311b, 472 to 476, 482, 483b to 484–1, 484d, 485, 485a, 486, 488, 489, 492, 605, 751, 752, 754 to 756, 758 of this title; title 5 section 7342; title 7 sections 15b, 55, 79, 473a, 1736a, 1985, 2279b, 5922; title 10 sections 2552, 2676, 2691, 2696, 2854a, 2878, 7305, 9441, 9781; title 12 sections 90, 1701z, 1701z–2, 1788; title 14 sections 92, 93, 641, 685; title 15 sections 205f, 714b; title 16 sections 1a–2, 79c, 160b, 396f, 410r–6, 430a–2, 430h–7, 441<i>l</i>–5, 450ss–6, 460m–9, 460x–7, 460bb–2, 460ee, 460ff–1, 460hh–1, 505a, 590q–1, 793, 2106; title 20 sections 196, 3475; title 22 sections 277d–36, 277e, 2358, 2581, 2713, 5422; title 25 sections 190, 293, 450j; title 30 section 4; title 33 section 578; title 41 sections 254, 405; title 42 sections 1592a, 1592d, 2201, 2297b–11, 2473, 4638, 5196, 5919, 12651g; title 43 sections 1702, 1736; title 44 section 311; title 45 section 1212; title 48 section 1685; title 49 section 103; title 50 sections 167b, 415, 1651; title 50 App. section 2393.
 
 #### Section Referred to in Other Sections
 

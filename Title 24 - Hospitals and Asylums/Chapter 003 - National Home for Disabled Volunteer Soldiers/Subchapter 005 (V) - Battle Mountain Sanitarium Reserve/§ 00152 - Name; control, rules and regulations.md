@@ -2,7 +2,7 @@
 
 Said reserve shall be known as the Battle Mountain Sanitarium Reserve, and shall be under the exclusive control of the Secretary of Veterans Affairs in connection with the Battle Mountain Sanitarium at Hot Springs, South Dakota, whose duty it shall be to prescribe such rules and regulations and establish such service as the Secretary may consider necessary for the care and management of the same.
 
-(Mar. 22, 1906, ch. 1127, §2, 34 Stat. 83; June 13, 1991, Pub. L. 102–54, §13(i)(2), 105 Stat. 276.)
+(Mar. 22, 1906, ch. 1127, §2, 34 Stat. 83; Pub. L. 102–54, §13(i)(2), June 13, 1991, 105 Stat. 276.)
 
 #### Amendments
 

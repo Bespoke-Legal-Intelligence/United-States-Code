@@ -13,6 +13,7 @@
 | [5107\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005107%20-%20Burden%20of%20proof%3B%20benefit%20of%20the%20doubt.md) | Burden of proof; benefit of the doubt. |
 | [5108\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005108%20-%20Reopening%20disallowed%20claims.md) | Reopening disallowed claims. |
 | [5109\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109%20-%20Independent%20medical%20opinions.md) | Independent medical opinions. |
+| [5109A.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109A%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md) | Revision of decisions on grounds of clear and unmistakable error. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,6 +47,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–111, §1(a)(2), Nov. 21, 1997, 111 Stat. 2271, added item 5109A.
 
 1994—Pub. L. 103–446, title III, §301(c), Nov. 2, 1994, 108 Stat. 4658, added items 5124 and 5125.
 

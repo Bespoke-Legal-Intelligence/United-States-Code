@@ -54,7 +54,7 @@
 
 #### (C) Notice
 
-&emsp;&emsp;The Secretary shall provide written notice to the enterprise, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee onBanking, Housing, and Urban Affairs of the Senate, of—
+&emsp;&emsp;The Secretary shall provide written notice to the enterprise, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, of—
 
 &emsp;&emsp;&emsp;(i) each determination that an enterprise has failed, or that there is a substantial probability that the enterprise will fail, to meet a housing goal;
 

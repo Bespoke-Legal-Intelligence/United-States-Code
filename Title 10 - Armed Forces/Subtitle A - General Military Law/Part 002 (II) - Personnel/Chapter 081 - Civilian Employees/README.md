@@ -8,10 +8,12 @@
 | [1583\.](%C2%A7%2001583%20-%20Employment%20of%20certain%20persons%20without%20pay.md) | Employment of certain persons without pay. |
 | [1584\.](%C2%A7%2001584%20-%20Employment%20of%20non-citizens.md) | Employment of non-citizens. |
 | [1585\.](%C2%A7%2001585%20-%20Carrying%20of%20firearms.md) | Carrying of firearms. |
+| [1585a.](%C2%A7%2001585a%20-%20Special%20agents%20of%20the%20Defense%20Criminal%20Investigative%20Service%20authority%20to%20execute%20warrants%20and%20make%20arrests.md) | Special agents of the Defense Criminal Investigative Service: authority to execute warrants and make arrests. |
 | [1586\.](%C2%A7%2001586%20-%20Rotation%20of%20career-conditional%20and%20career%20employees%20assigned%20to%20duty%20outside%20the%20United%20States.md) | Rotation of career-conditional and career employees assigned to duty outside the United States. |
 | [1587\.](%C2%A7%2001587%20-%20Employees%20of%20nonappropriated%20fund%20instrumentalities%20reprisals.md) | Employees of nonappropriated fund instrumentalities: reprisals. |
 | [1588\.](%C2%A7%2001588%20-%20Authority%20to%20accept%20certain%20voluntary%20services.md) | Authority to accept certain voluntary services. |
-| \[1589, 1590. Repealed.\] |  |
+| [1589\.](%C2%A7%2001589%20-%20Participation%20in%20management%20of%20specified%20non-Federal%20entities%20authorized%20activities.md) | Participation in management of specified non-Federal entities: authorized activities. |
+| \[1590. | Repealed.\] |
 | [1591\.](%C2%A7%2001591%20-%20Reimbursement%20for%20travel%20and%20transportation%20expenses%20when%20accompanying%20Members%20of%20Congress.md) | Reimbursement for travel and transportation expenses when accompanying Members of Congress. |
 | [1592\.](%C2%A7%2001592%20-%20Prohibition%20on%20payment%20of%20severance%20pay%20to%20foreign%20nationals%20in%20the%20event%20of%20certain%20overseas%20base%20closures.md) | Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures. |
 | [1593\.](%C2%A7%2001593%20-%20Uniform%20allowance%20civilian%20employees.md) | Uniform allowance: civilian employees. |
@@ -28,6 +30,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §593(b)(2), title X, §1071(b), Nov. 18, 1997, 111 Stat. 1764, 1898, added items 1585a and 1589.
 
 1996—Pub. L. 104–201, div. A, title X, §1074(a)(7), title XVI, §§1604(b), 1614(b)(2), 1615(a)(2), 1633(c)(2), Sept. 23, 1996, 110 Stat. 2659, 2736, 2739, 2741, 2751, struck out items 1589 “Prohibition on payment of lodging expenses when adequate Government quarters are available”, 1590 “Management of civilian intelligence personnel of the military departments”, and 1599 “Postemployment assistance: certain terminated intelligence employees”, struck out “Sec.” at beginning of item 1599a, and added items 1599b and 1599c.
 
@@ -80,10 +84,12 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 - [&sect; 01583 - Employment of certain persons without pay](%C2%A7%2001583%20-%20Employment%20of%20certain%20persons%20without%20pay.md)
 - [&sect; 01584 - Employment of non-citizens](%C2%A7%2001584%20-%20Employment%20of%20non-citizens.md)
 - [&sect; 01585 - Carrying of firearms](%C2%A7%2001585%20-%20Carrying%20of%20firearms.md)
+- [&sect; 01585a - Special agents of the Defense Criminal Investigative Service authority to execute warrants and make arrests](%C2%A7%2001585a%20-%20Special%20agents%20of%20the%20Defense%20Criminal%20Investigative%20Service%20authority%20to%20execute%20warrants%20and%20make%20arrests.md)
 - [&sect; 01586 - Rotation of career-conditional and career employees assigned to duty outside the United States](%C2%A7%2001586%20-%20Rotation%20of%20career-conditional%20and%20career%20employees%20assigned%20to%20duty%20outside%20the%20United%20States.md)
 - [&sect; 01587 - Employees of nonappropriated fund instrumentalities reprisals](%C2%A7%2001587%20-%20Employees%20of%20nonappropriated%20fund%20instrumentalities%20reprisals.md)
 - [&sect; 01588 - Authority to accept certain voluntary services](%C2%A7%2001588%20-%20Authority%20to%20accept%20certain%20voluntary%20services.md)
-- [&sect; 01589, 1590 - Repealed. Pub. L. 104&#8211;201, div. A, title XVI, &sect;&sect;1614(b)(1), 1633(a), Sept. 23, 1996, 110 Stat. 2739, 2751](%C2%A7%2001589%2C%201590%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A7%C2%A71614%28b%29%281%29%2C%201633%28a%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202739%2C%202751.md)
+- [&sect; 01589 - Participation in management of specified non-Federal entities authorized activities](%C2%A7%2001589%20-%20Participation%20in%20management%20of%20specified%20non-Federal%20entities%20authorized%20activities.md)
+- [&sect; 01590 - Repealed. Pub. L. 104&#8211;201, div. A, title XVI, &sect;1633(a), Sept. 23, 1996, 110 Stat. 2751](%C2%A7%2001590%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71633%28a%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202751.md)
 - [&sect; 01591 - Reimbursement for travel and transportation expenses when accompanying Members of Congress](%C2%A7%2001591%20-%20Reimbursement%20for%20travel%20and%20transportation%20expenses%20when%20accompanying%20Members%20of%20Congress.md)
 - [&sect; 01592 - Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures](%C2%A7%2001592%20-%20Prohibition%20on%20payment%20of%20severance%20pay%20to%20foreign%20nationals%20in%20the%20event%20of%20certain%20overseas%20base%20closures.md)
 - [&sect; 01593 - Uniform allowance civilian employees](%C2%A7%2001593%20-%20Uniform%20allowance%20civilian%20employees.md)

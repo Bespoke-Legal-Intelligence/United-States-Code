@@ -2,7 +2,7 @@
 
 Any corporation organized under this subchapter may go into voluntary liquidation and be closed by a vote of its shareholders owning two-thirds of its stock.
 
-(Dec. 23, 1913, ch. 6, §25A (par.), formerly §25(a), as added Dec. 24, 1919, ch. 18, 41 Stat. 378, and renumbered §25A, Dec. 19, 1991, Pub. L. 102–242, title I, §142(e)(2), 105 Stat. 2281.)
+(Dec. 23, 1913, ch. 6, §25A (par.), formerly §25(a), as added Dec. 24, 1919, ch. 18, 41 Stat. 378; renumbered §25A, Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.)
 
 #### References in Text
 

@@ -1,0 +1,118 @@
+### §290cc–22. Purpose of grants
+
+#### (a) In general
+
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that the payments will be expended solely for making grants to political subdivisions of the State, and to nonprofit private entities (including community-based veterans organizations and other community organizations), for the purpose of providing the services specified in subsection (b) of this section to individuals who—
+
+&emsp;(1)(A) are suffering from serious mental illness; or
+
+&emsp;(B) are suffering from serious mental illness and from substance abuse; and
+
+&emsp;(2) are homeless or at imminent risk of becoming homeless.
+
+#### (b) Specification of services
+
+The services referred to in subsection (a) of this section are—
+
+&emsp;(1) outreach services;
+
+&emsp;(2) screening and diagnostic treatment services;
+
+&emsp;(3) habilitation and rehabilitation services;
+
+&emsp;(4) community mental health services;
+
+&emsp;(5) alcohol or drug treatment services;
+
+&emsp;(6) staff training, including the training of individuals who work in shelters, mental health clinics, substance abuse programs, and other sites where homeless individuals require services;
+
+&emsp;(7) case management services, including—
+
+&emsp;&emsp;(A) preparing a plan for the provision of community mental health services to the eligible homeless individual involved, and reviewing such plan not less than once every 3 months;
+
+&emsp;&emsp;(B) providing assistance in obtaining and coordinating social and maintenance services for the eligible homeless individuals, including services relating to daily living activities, personal financial planning, transportation services, and habilitation and rehabilitation services, prevocational and vocational services, and housing services;
+
+&emsp;&emsp;(C) providing assistance to the eligible homeless individual in obtaining income support services, including housing assistance, food stamps, and supplemental security income benefits;
+
+&emsp;&emsp;(D) referring the eligible homeless individual for such other services as may be appropriate; and
+
+&emsp;&emsp;(E) providing representative payee services in accordance with section 1631(a)(2) of the Social Security Act \[42 U.S.C. 1383(a)(2)\] if the eligible homeless individual is receiving aid under title XVI of such act \[42 U.S.C. 1381 et seq.\] and if the applicant is designated by the Secretary to provide such services;
+
+&emsp;(8) supportive and supervisory services in residential settings;
+
+&emsp;(9) referrals for primary health services, job training, educational services, and relevant housing services;
+
+&emsp;(10) subject to subsection (h)(1) of this section—
+
+&emsp;&emsp;(A) minor renovation, expansion, and repair of housing;
+
+&emsp;&emsp;(B) planning of housing;
+
+&emsp;&emsp;(C) technical assistance in applying for housing assistance;
+
+&emsp;&emsp;(D) improving the coordination of housing services;
+
+&emsp;&emsp;(E) security deposits;
+
+&emsp;&emsp;(F) the costs associated with matching eligible homeless individuals with appropriate housing situations; and
+
+&emsp;&emsp;(G) 1-time rental payments to prevent eviction; and
+
+&emsp;(11) other appropriate services, as determined by the Secretary.
+
+#### (c) Coordination
+
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees to make grants pursuant to subsection (a) of this section only to entities that have the capacity to provide, directly or through arrangements, the services specified in subsection (b) of this section, including coordinating the provision of services in order to meet the needs of eligible homeless individuals who are both mentally ill and suffering from substance abuse.
+
+#### (d) Special consideration regarding veterans
+
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that, in making grants to entities pursuant to subsection (a) of this section, the State will give special consideration to entities with a demonstrated effectiveness in serving homeless veterans.
+
+#### (e) Special rules
+
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that grants pursuant to subsection (a) of this section will not be made to any entity that—
+
+&emsp;(1) has a policy of excluding individuals from mental health services due to the existence or suspicion of substance abuse; or
+
+&emsp;(2) has a policy of excluding individuals from substance abuse services due to the existence or suspicion of mental illness.
+
+#### (f) Administrative expenses
+
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that not more than 4 percent of the payments will be expended for administrative expenses regarding the payments.
+
+#### (g) Maintenance of effort
+
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that the State will maintain State expenditures for services specified in subsection (b) of this section at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying to receive such payments.
+
+#### (h) Restrictions on use of funds
+
+The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that—
+
+&emsp;(1) not more than 20 percent of the payments will be expended for housing services under subsection (b)(10) of this section; and
+
+&emsp;(2) the payments will not be expended—
+
+&emsp;&emsp;(A) to support emergency shelters or construction of housing facilities;
+
+&emsp;&emsp;(B) for inpatient psychiatric treatment costs or inpatient substance abuse treatment costs; or
+
+&emsp;&emsp;(C) to make cash payments to intended recipients of mental health or substance abuse services.
+
+(July 1, 1944, ch. 373, title V, §522, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 516; amended Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4726.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (b)(7)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 522 of act July 1, 1944, was renumbered section 543 by section 611(2) of Pub. L. 100–77 and is classified to section 290dd–2 of this title.
+
+#### Amendments
+
+1990—Pub. L. 101–645 amended section generally, substituting provisions relating to purpose of grants for provisions relating to requirement of submission of application containing certain agreements.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 290cc–21, 290cc–23, 290cc–25, 290cc–27, 290cc–31, 290cc–34, 290cc–35 of this title.
+

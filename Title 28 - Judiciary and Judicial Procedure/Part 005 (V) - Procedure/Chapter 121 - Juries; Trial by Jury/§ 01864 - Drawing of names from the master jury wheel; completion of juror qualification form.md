@@ -4,7 +4,7 @@
 
 (b) Any person summoned pursuant to subsection (a) of this section who fails to appear as directed shall be ordered by the district court forthwith to appear and show cause for his failure to comply with the summons. Any person who fails to appear pursuant to such order or who fails to show good cause for noncompliance with the summons may be fined not more than $100 or imprisoned not more than three days, or both. Any person who willfully misrepresents a material fact on a juror qualification form for the purpose of avoiding or securing service as a juror may be fined not more than $100 or imprisoned not more than three days, or both.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; Mar. 27, 1968, Pub. L. 90–274, §101, 82 Stat. 57; Nov. 19, 1988, Pub. L. 100–702, title VIII, §803(a), 102 Stat. 4658.)
+(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 57; Pub. L. 100–702, title VIII, §803(a), Nov. 19, 1988, 102 Stat. 4658.)
 
 #### Historical and Revision Notes
 
@@ -24,9 +24,9 @@ As finally enacted, act July 9, 1947, ch. 211, title IV, 61 Stat. 304, which was
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–702 amended second sentence generally. Prior to amendment, second sentence read as follows: “The clerk or jury commission shall prepare an alphabetical list of the names drawn, which list shall not be disclosed to any person except pursuant to the district court plan and to sections 1867 and 1868 of this title.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 amended second sentence generally. Prior to amendment, second sentence read as follows: “The clerk or jury commission shall prepare an alphabetical list of the names drawn, which list shall not be disclosed to any person except pursuant to the district court plan and to sections 1867 and 1868 of this title.”
 
-1968—Pub. L. 90–274 substituted provisions for the public drawing of names from the master jury wheel, the completion of the jury qualification form, and the penalties for failure to appear and for misrepresentation of material facts for provisions requiring the drawing of names from a jury box, the refilling of the box by the clerk and a jury commissioner, the requirements and compensation of the commissioner, and the alternate placement of names by the clerk and the commissioner.
+<b>1968</b>—Pub. L. 90–274 substituted provisions for the public drawing of names from the master jury wheel, the completion of the jury qualification form, and the penalties for failure to appear and for misrepresentation of material facts for provisions requiring the drawing of names from a jury box, the refilling of the box by the clerk and a jury commissioner, the requirements and compensation of the commissioner, and the alternate placement of names by the clerk and the commissioner.
 
 #### Effective Date of 1968 Amendment
 

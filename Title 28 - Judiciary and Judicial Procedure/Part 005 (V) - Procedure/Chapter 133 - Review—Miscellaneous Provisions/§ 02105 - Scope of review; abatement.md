@@ -8,7 +8,7 @@ There shall be no reversal in the Supreme Court or a court of appeals for error 
 
 Based on title 28, U.S.C., 1940 ed., §879 (R.S. §1011; Feb. 18, 1875, ch. 80, §1, 18 Stat. 318).
 
-The revised language is substituted for the provisions of section 879 of title 28, U.S.C., 1940 ed., to avoid any construction that matters of fact are not reviewable in nonjury cases. Such section 879 related to review upon a writ of error which applied only to actions at law. (See Rule 52(a) of the Federal Rules of Civil Procedure limiting the review of questions of fact which renders unnecessary any statutory limitation.)
+The revised language is substituted for the provisions of section 879 of title 28, U.S.C., 1940 ed., to avoid any construction that matters of fact are not reviewable innonjury cases. Such section 879 related to review upon a writ of error which applied only to actions at law. (See Rule 52(a) of the Federal Rules of Civil Procedure limiting the review of questions of fact which renders unnecessary any statutory limitation.)
 
 Rule 7(c) of the Federal Rules of Civil Procedure abolished all pleas, and the rules adopted the motion as a substitute therefor.
 

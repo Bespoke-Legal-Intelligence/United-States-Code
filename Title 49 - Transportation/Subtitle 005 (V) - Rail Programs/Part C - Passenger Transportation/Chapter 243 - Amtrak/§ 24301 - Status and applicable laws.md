@@ -4,11 +4,11 @@
 
 Status.—Amtrak—
 
-&emsp;(1) is a rail carrier under section 10102 of this title;
+&emsp;(1) is a railroad carrier under section 20102(2) and chapters 261 and 281 of this title;
 
 &emsp;(2) shall be operated and managed as a for-profit corporation; and
 
-&emsp;(3) is not a department, agency, or instrumentality of the United States Government.
+&emsp;(3) is not a department, agency, or instrumentality of the United States Government, and shall not be subject to title 31.
 
 (b)
 
@@ -16,23 +16,7 @@ Principal Office and Place of Business.—The principal office and place of busi
 
 (c)
 
-Application of Subtitle IV.—(1) Part A of subtitle IV of this title applies to Amtrak, except for provisions related to the—
-
-&emsp;(A) regulation of rates;
-
-&emsp;(B) abandonment or extension of rail lines used only for passenger transportation and the abandonment or extension of operations over those lines;
-
-&emsp;(C) regulation of routes and service;
-
-&emsp;(D) discontinuance or change of rail passenger transportation operations; and
-
-&emsp;(E) issuance of securities or the assumption of an obligation or liability related to the securities of others.
-
-(2) Notwithstanding this subsection—
-
-&emsp;(A) section 10721 of this title applies to Amtrak; and
-
-&emsp;(B) on application of an adversely affected motor carrier, the Surface Transportation Board under part A of subtitle IV of this title may hear a complaint about an unfair or predatory rate or marketing practice of Amtrak for a route or service operating at a loss.
+Application of Subtitle IV.—Subtitle IV of this title shall not apply to Amtrak, except for sections 11301, 11322(a), 11502, and 11706. Notwithstanding the preceding sentence, Amtrak shall continue to be considered an employer under the Railroad Retirement Act of 1974, the Railroad Unemployment Insurance Act, and the Railroad Retirement Tax Act.
 
 (d)
 
@@ -40,11 +24,11 @@ Application of Safety and Employee Relations Laws and Regulations.—Laws and re
 
 (e)
 
-Application of Certain Additional Laws.—Section 552 of title 5, this part, and, to the extent consistent with this part, the District of Columbia Business Corporation Act (D.C. Code §29–301 et seq.) apply to Amtrak.
+Application of Certain Additional Laws.—Section 552 of title 5, this part, and, to the extent consistent with this part, the District of Columbia Business Corporation Act (D.C. Code §29–301 et seq.) apply to Amtrak. Section 552 of title 5, United States Code, applies to Amtrak for any fiscal year in which Amtrak receives a Federal subsidy.
 
 (f)
 
-Laws Governing Leases and Contracts.—The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed.
+Tax Exemption for Certain Commuter Authorities.—A commuter authority that was eligible to make a contract with Amtrak Commuter to provide commuter rail passenger transportation but which decided to provide its own rail passenger transportation beginning January 1, 1983, is exempt, effective October 1, 1981, from paying a tax or fee to the same extent Amtrak is exempt.
 
 (g)
 
@@ -78,7 +62,9 @@ Exemption From Additional Taxes.—(1) In this subsection—
 
 (<i>l</i>)
 
-Exemption From Taxes Levied After September 30, 1981.—(1) Amtrak or a rail carrier subsidiary of Amtrak is exempt from a tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it after September 30, 1981. However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982.
+Exemption From Taxes Levied After September 30, 1981.—(1)
+
+In general.—Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are exempt from a tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom after September 30, 1981. In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.
 
 (2) The district courts of the United States have original jurisdiction over a civil action Amtrak brings to enforce this subsection and may grant equitable or declaratory relief requested by Amtrak.
 
@@ -86,7 +72,7 @@ Exemption From Taxes Levied After September 30, 1981.—(1) Amtrak or a rail car
 
 Waste Disposal.—(1) An intercity rail passenger car manufactured after October 14, 1990, shall be built to provide for the discharge of human waste only at a servicing facility. Amtrak shall retrofit each of its intercity rail passenger cars that was manufactured after May 1, 1971, and before October 15, 1990, with a human waste disposal system that provides for the discharge of human waste only at a servicing facility. Subject to appropriations—
 
-&emsp;(A) the retrofit program shall be completed not later than October 15, 1996; and
+&emsp;(A) the retrofit program shall be completed not later than October 15, 2001; and
 
 &emsp;(B) a car that does not provide for the discharge of human waste only at a servicing facility shall be removed from service after that date.
 
@@ -96,7 +82,7 @@ Waste Disposal.—(1) An intercity rail passenger car manufactured after October
 
 Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–134, title I, §§106(b), 110(a), title II, §208, title IV, §§401, 402, 415(d)(1), Dec. 2, 1997, 111 Stat. 2573, 2574, 2584, 2585, 2590.)
 
 Historical and Revision Notes
 
@@ -258,9 +244,47 @@ In subsection (n), the words “uniformed services” are substituted for “Arm
 
 #### References in Text
 
+The Railroad Retirement Act of 1974, referred to in subsec. (c), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+
+The Railroad Unemployment Insurance Act, referred to in subsec. (c), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+
+The Railroad Retirement Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
+
 The District of Columbia Business Corporation Act, referred to in subsec. (e), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which appears in chapter 3 (§29–301 et seq.) of Title 29, Corporations, of the District of Columbia Code.
 
 #### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–134, §401(1), substituted “railroad carrier under section 20102(2) and chapters 261 and 281” for “rail carrier under section 10102”.
+
+Subsec. (a)(3). Pub. L. 105–134, §415(d)(1), inserted “, and shall not be subject to title 31” after “United States Government”.
+
+Subsec. (c). Pub. L. 105–134, §401(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1) Part A of subtitle IV of this title applies to Amtrak, except for provisions related to the—
+
+&emsp;“(A) regulation of rates;
+
+&emsp;“(B) abandonment or extension of rail lines used only for passenger transportation and the abandonment or extension of operations over those lines;
+
+&emsp;“(C) regulation of routes and service;
+
+&emsp;“(D) discontinuance or change of rail passenger transportation operations; and
+
+&emsp;“(E) issuance of securities or the assumption of an obligation or liability related to the securities of others.
+
+“(2) Notwithstanding this subsection—
+
+&emsp;“(A) section 10721 of this title applies to Amtrak; and
+
+&emsp;“(B) on application of an adversely affected motor carrier, the Surface Transportation Board under part A of subtitle IV of this title may hear a complaint about an unfair or predatory rate or marketing practice of Amtrak for a route or service operating at a loss.”
+
+Subsec. (e). Pub. L. 105–134, §110(a), inserted at end “Section 552 of title 5, United States Code, applies to Amtrak for any fiscal year in which Amtrak receives a Federal subsidy.”
+
+Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed.”
+
+Subsec. (<i>l</i>)(1). Pub. L. 105–134, §208, inserted heading and substituted in text “Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are” for “Amtrak or a rail carrier subsidiary of Amtrak is”, “tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom” for“tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it”, and “In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.” for “However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982.”
+
+Subsec. (m)(1)(A). Pub. L. 105–134, §402, substituted “2001” for “1996”.
 
 1995—Subsec. (c)(1). Pub. L. 104–88, §308(g)(1)(A), substituted “Part A of subtitle IV” for “Subtitle IV”.
 
@@ -281,6 +305,14 @@ Pub. L. 101–610, title VI, §601(d), (e), Nov. 16, 1990, 104 Stat. 3186, provi
 “(d) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation, after appropriate notice and comment, and in consultation with the National Railroad Passenger Corporation, the Administrator of the Environmental Protection Agency, the Surgeon General, and State and local officials shall promulgate such regulations as may be necessary to mitigate the impact of the discharge of human waste from railroad passenger cars on areas that may be considered environmentally sensitive.
 
 “(e) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall promulgate regulations directing the National Railroad Passenger Corporation to, where appropriate, publish printed information, and make public address announcements, explaining its existing disposal technology and the retrofit and new equipment program, and encouraging passengers using existing equipment not to dispose of wastes in stations, railroad yards, or while the train is moving through environmentally sensitive areas.”
+
+#### Passenger Choice
+
+Pub. L. 105–134, title I, §109, Dec. 2, 1997, 111 Stat. 2574, provided that: “Federal employees are authorized to travel on Amtrak for official business where total travel cost from office to office is competitive on a total trip or time basis.”
+
+#### Application of Federal Property and Administrative Services Act
+
+Pub. L. 105–134, title I, §110(b), Dec. 2, 1997, 111 Stat. 2574, provided that: “Section 303B(m) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253b(m)) applies to a proposal in the possession or control of Amtrak.”
 
 #### Exemption From Laws Relating to Abandoned or Unclaimed Property
 

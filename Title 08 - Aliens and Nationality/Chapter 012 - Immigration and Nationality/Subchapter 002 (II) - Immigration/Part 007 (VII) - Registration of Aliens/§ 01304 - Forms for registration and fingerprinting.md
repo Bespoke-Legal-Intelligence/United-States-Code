@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the Attorney General is authorized t
 
 #### References in Text
 
-The Alien Registration Act, 1940, referred to in subsec. (d), is act June 28, 1940, ch. 439, 54 Stat. 670, asamended. Title III of that act, which related to register and fingerprinting of aliens, was classified to sections 451 to 460 of this title, was repealed by section 403(a)(39) of act June 27, 1952.
+The Alien Registration Act, 1940, referred to in subsec. (d), is act June 28, 1940, ch. 439, 54 Stat. 670, as amended. Title III of that act, which related to register and fingerprinting of aliens, was classified to sections 451 to 460 of this title, was repealed by section 403(a)(39) of act June 27, 1952.
 
 #### Amendments
 

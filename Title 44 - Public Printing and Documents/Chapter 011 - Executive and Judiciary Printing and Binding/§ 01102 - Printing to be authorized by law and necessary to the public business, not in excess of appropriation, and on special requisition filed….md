@@ -14,3 +14,7 @@ Based on 44 U.S. Code, 1964 ed., §§213, 219 (Jan. 12, 1895, ch. 23, §89, 94, 
 
 This section incorporates the first paragraph of former section 213 and the first clause of former section 219. The balance of former section 213 will be found in sections 1116, 1302, 1308, 1309, 1310, 1336 of the revision; that of former section 219 in section 1113 of the revision.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 3714b.
+

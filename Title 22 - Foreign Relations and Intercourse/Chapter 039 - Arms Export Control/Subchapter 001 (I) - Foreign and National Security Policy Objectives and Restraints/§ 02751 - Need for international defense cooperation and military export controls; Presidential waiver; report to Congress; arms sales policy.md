@@ -2,11 +2,11 @@
 
 As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
-The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
+The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of itslegitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
 Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
-It is the sense of the Congress that all such sales be approved only when they are consistent with the foreign policy interests of the United States, the purposes of the foreign assistanceprogram of the United States as embodied in the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], the extent and character of the military requirement, and the economic and financial capability of the recipient country, with particular regard being given, where appropriate, to proper balance among such sales, grant military assistance, and economic assistance as well as to the impact of the sales on programs of social and economic development and on existing or incipient arms races.
+It is the sense of the Congress that all such sales be approved only when they are consistent with the foreign policy interests of the United States, the purposes of the foreign assistance program of the United States as embodied in the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], the extent and character of the military requirement, and the economic and financial capability of the recipient country, with particular regard being given, where appropriate, to proper balance among such sales, grant military assistance, and economic assistance as well as to the impact of the sales on programs of social and economic development and on existing or incipient arms races.
 
 It shall be the policy of the United States to exert leadership in the world community to bring about arrangements for reducing the international trade in implements of war and to lessen the danger of outbreak of regional conflict and the burdens of armaments. United States programs for or procedures governing the export, sale, and grant of defense articles and defense services to foreign countries and international organizations shall be administered in a manner which will carry out this policy.
 
@@ -146,7 +146,9 @@ Definitions.—As used in this section—
 
 Effective Date.—This section shall take effect 1 year after the date of enactment of this Act \[Apr. 30, 1994\].”
 
-\[Certifications and determinations relating to suspension of application by President under section 564 ofPub. L. 103–236, set out above, were contained in the following:
+\[Memorandum of President of the United States, Apr. 24, 1997, 62 F.R. 24797, delegated to Secretary of State functions of President under section 564 of Public Law 103–236, set out above.\]
+
+\[Certifications and determinations relating to suspension of application by President under section 564 of Pub. L. 103–236, set out above, were contained in the following:
 
 \[Determination of President of the United States, No. 96–23, Apr. 30, 1996, 61 F.R. 26029.
 
@@ -258,7 +260,7 @@ Duties.—The committee shall—
 
 “(d)
 
-Access to Information.—The committee shall have access to information on all programs, projects,and activities of the Department of Defense, the Department of State, the Department of Energy, the intelligence community, and the Arms Control and Disarmament Agency that are pertinent to the purposes and duties of the committee.
+Access to Information.—The committee shall have access to information on all programs, projects, and activities of the Department of Defense, the Department of State, the Department of Energy, the intelligence community, and the Arms Control and Disarmament Agency that are pertinent to the purposes and duties of the committee.
 
 “(e)
 
@@ -320,7 +322,7 @@ Matters To Be Covered.—Each such report shall cover—
 
 Content of Report.—Each such report shall include the following:
 
-&emsp;“(1) The status of missile, aircraft, and other weapons delivery and weaponization programs in any such country, including efforts by such country to acquire MTCR equipment, NBC-capable aircraft, or any other weapon or major weapon component which is dedicated to the delivery of NBC weapons, whose primary use is the delivery of NBC weapons, or that the Secretary has reason to believe could be used to deliver NBC weapons.
+&emsp;“(1) The status of missile, aircraft, and other weapons delivery and weaponization programs in any suchcountry, including efforts by such country to acquire MTCR equipment, NBC-capable aircraft, or any other weapon or major weapon component which is dedicated to the delivery of NBC weapons, whose primary use is the delivery of NBC weapons, or that the Secretary has reason to believe could be used to deliver NBC weapons.
 
 &emsp;“(2) The status of NBC weapons development, manufacture, and deployment programs in any such country, including efforts to acquire essential test equipment, manufacturing equipment and technology, weaponization equipment and technology, and radioactive material, feedstocks or components of feedstocks, and biological cultures and toxins.
 
@@ -338,7 +340,7 @@ Content of Report.—Each such report shall include the following:
 
 &emsp;“(6) An analysis of the effectiveness of the regulatory and enforcement regimes of the United States and other countries that adhere to the MTCR and other agreements affecting the acquisition and delivery of NBC weapons in controlling the export of MTCR and other NBC weapons and delivery system equipment or technology.
 
-&emsp;“(7) A summary of advisory opinions issued under section 11B(b)(4) of the Export Administration Act of1979 (50 U.S.C. App. 2401b(b)(4)) \[50 App. U.S.C. 2410b(b)(4)\] and under section 73(d) of the Arms Export Control Act (22 U.S.C. 2797b(d)).
+&emsp;“(7) A summary of advisory opinions issued under section 11B(b)(4) of the Export Administration Act of 1979 (50 U.S.C. App. 2401b(b)(4)) \[50 App. U.S.C. 2410b(b)(4)\] and under section 73(d) of the Arms Export Control Act (22 U.S.C. 2797b(d)).
 
 &emsp;“(8) An explanation of United States policy regarding the transfer of MTCR equipment or technology to foreign missile programs, including programs involving launches of space vehicles.
 
@@ -386,7 +388,7 @@ Pub. L. 95–92, §23, Aug. 4, 1977, 91 Stat. 624, set forth provisions respecti
 
 #### Study by President of National Security and Military Implications of International Transfers of Technology; Scope of Study; Utilization of Executive Departments and Agencies
 
-Pub. L. 95–92, §24, Aug. 4, 1977, 91 Stat. 624, as amended by Pub. L. 97–113, title VII, §734(a)(13), Dec. 29, 1981, 95 Stat. 1560, directed President to conduct a comprehensive study of policies and practices of United States Government with respect to national security and military implications of international transfers of technology in order to determine whether such policies and practices should be changed, with President to utilize resources and expertise of Arms Control and Disarmament Agency, Department of State, Department of Defense, Department of Commerce, National Science Foundation, Office of Science and Technology Policy, and such other entities within the Executive branch as he deemed necessary.
+Pub. L. 95–92, §24, Aug. 4, 1977, 91 Stat. 624, as amended by Pub. L. 97–113, title VII, §734(a)(13), Dec. 29, 1981, 95 Stat. 1560, directed President to conduct a comprehensive study of policies and practices of United StatesGovernment with respect to national security and military implications of international transfers of technology in order to determine whether such policies and practices should be changed, with President to utilize resources and expertise of Arms Control and Disarmament Agency, Department of State, Department of Defense, Department of Commerce, National Science Foundation, Office of Science and Technology Policy, and such other entities within the Executive branch as he deemed necessary.
 
 #### Statement of Policy Regarding United States Arms Sales to Israel
 
@@ -402,7 +404,7 @@ Section 202(b) of Pub. L. 94–329 set forth provisions respecting study and rep
 
 #### Presidential Report Regarding Sales of Excess Defense Articles to Foreign Governments and International Organizations
 
-Section 217 of Pub. L. 94–329 set forth provisions respecting report by the President of all sales under thischapter of excess defense articles to foreign governments and international organizations, prior to repeal by Pub. L. 95–384, §29(c)(1)(B), Sept. 26, 1978, 92 Stat. 747.
+Section 217 of Pub. L. 94–329 set forth provisions respecting report by the President of all sales under this chapter of excess defense articles to foreign governments and international organizations, prior to repeal by Pub. L. 95–384, §29(c)(1)(B), Sept. 26, 1978, 92 Stat. 747.
 
 #### Study by Secretaries of State and Defense on Consequences of Enactment of Arms Export Control Provisions
 
@@ -446,7 +448,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 
 Section 1. <i>Delegation of Functions</i>. The following functions conferred upon the President by the Arms Export Control Act (22 U.S.C. 2751 et seq.), hereinafter referred to as the Act, and related legislation, are delegated as follows:
 
-(a) Those under Section 3 of the Act \[22 U.S.C. 2753\], with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) to the Secretary of State: <i>Provided</i>, That the Secretary of State, in the implementation of the functions delegated to him under Sections 3(a) and (d) of the Act, is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under Section 3(a)(1) of the Act, whether the proposed transfer will strengthen the security of the United States and promote world peace.
+(a) Those under Section 3 of the Act \[22 U.S.C. 2753\], with the exception of subsections (a)(1), (b), (c)(3),\(c)(4), and (f) to the Secretary of State: <i>Provided</i>, That the Secretary of State, in the implementation of the functions delegated to him under Sections 3(a) and (d) of the Act, is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under Section 3(a)(1) of the Act, whether the proposed transfer will strengthen the security of the United States and promote world peace.
 
 (b) Those under Section 5 \[22 U.S.C. 2755\] to the Secretary of State.
 
@@ -460,7 +462,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (g) Those under Section 25 of the Act \[22 U.S.C. 2765\] to the Secretary of State. The Secretary of Defense and the Director of the Arms Control and Disarmament Agency, within their respective areas of responsibility, shall assist the Secretary of State in the preparation of materials for presentation to the Congress under that Section.
 
-(h) Those under Section 34 of the Act \[22 U.S.C. 2774\] to the Secretary of State. To the extent the standards and criteria for credit and guaranty transactions are based upon national security and financial policies, theSecretary of State shall obtain the prior concurrence of the Secretary of Defense and the Secretary of the Treasury, respectively.
+(h) Those under Section 34 of the Act \[22 U.S.C. 2774\] to the Secretary of State. To the extent the standards and criteria for credit and guaranty transactions are based upon national security and financial policies, the Secretary of State shall obtain the prior concurrence of the Secretary of Defense and the Secretary of the Treasury, respectively.
 
 (i) Those under Section 35(a) of the Act \[22 U.S.C. 2775(a)\] to the Secretary of State.
 

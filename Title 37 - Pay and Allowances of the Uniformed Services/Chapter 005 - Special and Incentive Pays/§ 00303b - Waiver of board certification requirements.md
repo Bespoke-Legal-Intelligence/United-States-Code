@@ -36,7 +36,7 @@ Eligible Members Described.—A member of the Armed Forces referred to in subsec
 
 &emsp;“(2) has completed any required residency training; and
 
-&emsp;“(3) was, except for the board certification requirement, otherwise eligible for special pay under section302(a)(5), 302b(a)(5), 302c(c)(3), or 302c(d)(4) of such title during the duty assignment in connection with Operation Desert Storm.
+&emsp;“(3) was, except for the board certification requirement, otherwise eligible for special pay under section 302(a)(5), 302b(a)(5), 302c(c)(3), or 302c(d)(4) of such title during the duty assignment in connection with Operation Desert Storm.
 
 “(c)
 

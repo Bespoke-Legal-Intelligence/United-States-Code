@@ -36,7 +36,7 @@ There shall be in the Department of State not more than 5 Under Secretaries of S
 
 &emsp;&emsp;(iii) Making recommendations to the Secretary of State and the Administrator of the Agency for International Development regarding compliance with sections 2151n and 2304 of this title, and as part of the Assistant Secretary's overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework under which section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
 
-&emsp;&emsp;(iv) Performing other responsibilities which serve to promote increased observance of internationally recognized human rights by all countries.
+&emsp;&emsp;(iv) Performing other responsibilities which serve to promote increased observanceof internationally recognized human rights by all countries.
 
 #### (d) Deputy Assistant Secretaries
 
@@ -46,7 +46,7 @@ There shall be in the Department of State not more than 66 Deputy Assistant Secr
 
 In addition to officials of the Department of State who are otherwise authorized to be appointed by the President, by and with the advice and consent of the Senate, and to be compensated at level IV of the Executive Schedule of <sup>1</sup> section 5315 of title 5 four other such appointments are authorized.
 
-(Aug. 1, 1956, ch. 841, title I, §1 \[part\], 70 Stat. 890; renumbered title I and amended Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Apr. 30, 1994, Pub. L. 103–236, title I, §161(a), 108 Stat. 402; Oct. 25, 1994, Pub. L. 103–415, §1(f)(1), 108 Stat. 4299.)
+(Aug. 1, 1956, ch. 841, title I, §1 \[part\], 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299.)
 
 #### References in Text
 
@@ -103,6 +103,18 @@ Responsibilities.—The Deputy Assistant Secretary for Burdensharing shall perfo
 &emsp;“(A) The principal duty of negotiating increased in-kind and financial support (including increased payment of basing costs) by countries allied to the United States for Department of Defense military units and personnel assigned to permanent duty ashore outside the United States in support of the security of such countries.
 
 &emsp;“(B) In consultation with the Department of Defense, assist in negotiations with the host governments for the recoupment of funds associated with financial commitments from such countries for paying the United States the residual value of United States facilities in such countries that the United States relinquishes to such countries upon the termination of the use of such facilities by the United States.”
+
+#### Authorization To Redelegate Certain Responsibilities Vested in the President and Delegated to the Secretary of State
+
+Memorandum of President of the United States, Nov. 4, 1997, 62 F.R. 60995, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me by the Constitution and laws of the United States, including section 301 of Title 3 of the United States Code, to the extent that you consider doing so appropriate to facilitate the consolidation of the Arms Control and Disarmament Agency and the Department of State, I hereby authorize you to redelegate to any officer of the executive branch any or all authorities vested in the President that are delegated to the Secretary of State by any act, order, determination, delegation of authority, regulation, or Executive order heretofore or hereinafter enacted or issued and that have been or may be redelegated to the Under Secretary of State for Arms Control and International Security Affairs.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be “under”.</i>
 

@@ -8,7 +8,7 @@ Any person who willfully fails or refuses to comply with any lawful order of the
 
 Whoever violates any provision of this subchapter, or any order issued under this subchapter, shall be liable to a civil penalty of not more than $1,000. Each day a violation continues shall be deemed a separate offense. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of Transportation may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
-(Aug. 2, 1946, ch. 753, title V, §510, 60 Stat. 849; Oct. 15, 1982, Pub. L. 97–322, title I, §108(d), 96 Stat. 1584; Jan. 12, 1983, Pub. L. 97–449, §2(d)(1), 96 Stat. 2440.)
+(Aug. 2, 1946, ch. 753, title V, §510, 60 Stat. 849; Pub. L. 97–322, title I, §108(d), Oct. 15, 1982, 96 Stat. 1584; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440.)
 
 #### Amendments
 

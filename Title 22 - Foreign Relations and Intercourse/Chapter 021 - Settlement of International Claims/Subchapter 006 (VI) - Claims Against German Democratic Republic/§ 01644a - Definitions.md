@@ -16,7 +16,7 @@ As used in this subchapter—
 
 (5) The term “Claims Fund” is the special fund established in the Treasury of the United States composed of such sums as may be paid to the United States by the German Democratic Republic pursuant to the terms of any agreement settling such claims that may be entered into by the Governments of the United States and the German Democratic Republic.
 
-(Mar. 10, 1950, ch. 54, title VI, §601, as added Oct. 18, 1976, Pub. L. 94–542, 90 Stat. 2509.)
+(Mar. 10, 1950, ch. 54, title VI, §601, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2509.)
 
 #### Transfer of Foreign Claims Settlement Commission of the United States as Separate Agency Within Department of Justice
 

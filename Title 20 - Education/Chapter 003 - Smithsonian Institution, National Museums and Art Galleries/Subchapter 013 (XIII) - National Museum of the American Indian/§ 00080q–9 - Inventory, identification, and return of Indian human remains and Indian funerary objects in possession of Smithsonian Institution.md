@@ -14,7 +14,7 @@
 
 #### (b) Notice in case of identification of tribal origin
 
-If the tribal origin of any Indian human remains or Indian funerary object is identified by a preponderance of the evidence, the Secretary shall so notify any affected Indian tribe at the earliest opportunity.
+If the tribal origin of any Indian human remains or Indian funerary object is identified bya preponderance of the evidence, the Secretary shall so notify any affected Indian tribe at the earliest opportunity.
 
 #### (c) Return of Indian human remains and associated Indian funerary objects
 

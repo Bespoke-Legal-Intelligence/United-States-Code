@@ -8,7 +8,7 @@ The Secretary may—
 
 &emsp;(3) submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out the plan.
 
-(Aug. 13, 1946, ch. 960, §4, as added Oct. 12, 1996, Pub. L. 104–303, title II, §227(d)(2), 110 Stat. 3700.)
+(Aug. 13, 1946, ch. 960, §4, as added Pub. L. 104–303, title II, §227(d)(2), Oct. 12, 1996, 110 Stat. 3700.)
 
 #### Prior Provisions
 

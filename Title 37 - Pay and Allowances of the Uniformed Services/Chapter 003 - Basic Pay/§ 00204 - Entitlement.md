@@ -24,7 +24,7 @@
 
 &emsp;(C) while traveling directly to or from such duty or training; or
 
-&emsp;(D) in line of duty while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
+&emsp;(D) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
 
 (2) In the case of a member who receives earned income from nonmilitary employment or self-employment performed in any month in which the member is otherwise entitled to pay and allowances under paragraph (1), the total pay and allowances shall be reduced by the amount of such income. In calculating earned income for the purpose of the preceding sentence, income from an income protection plan, vacation pay, or sick leave which the member elects to receive shall be considered.
 
@@ -36,7 +36,7 @@
 
 &emsp;(C) while traveling directly to or from such duty or training; or
 
-&emsp;(D) in line of duty while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
+&emsp;(D) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
 
 (2) The monthly entitlement may not exceed the member's demonstrated loss of earned income from nonmilitary or self-employment. In calculating such loss of income, income from an income protection plan, vacation pay, or sick leave which the member elects to receive shall be considered.
 
@@ -54,7 +54,7 @@
 
 (j) A member of the uniformed services who is entitled to medical or dental care under section 1074a of title 10 is entitled to travel and transportation allowances, or a monetary allowance in place thereof, for necessary travel incident to such care, and return to his home upon discharge from treatment.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 457; Pub. L. 96–513, title V, §506(4), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 98–94, title X, §1012(b), Sept. 24, 1983, 97 Stat. 665; Pub. L. 99–433, title V, §531(b), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 99–661, div. A, title VI, §604(b), Nov. 14, 1986, 100 Stat. 3875; Pub. L. 100–456, div. A, title VI, §631(a), (b), Sept. 29, 1988, 102 Stat. 1984, 1985; Pub. L. 102–25, title VII, §701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title XVI, §1676(b)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title VII, §702(c), Feb. 10, 1996, 110 Stat. 371.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 457; Pub. L. 96–513, title V, §506(4), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 98–94, title X, §1012(b), Sept. 24, 1983, 97 Stat. 665; Pub. L. 99–433, title V, §531(b), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 99–661, div. A, title VI, §604(b), Nov. 14, 1986, 100 Stat. 3875; Pub. L. 100–456, div. A, title VI, §631(a), (b), Sept. 29, 1988, 102 Stat. 1984, 1985; Pub. L. 102–25, title VII, §701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title XVI, §1676(b)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title VII, §702(c), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(f), Nov. 18, 1997, 111 Stat. 1732.)
 
 Historical and Revision Notes
 
@@ -142,11 +142,13 @@ In subsection (d), the words “for the purposes of this section” are substitu
 
 In subsection (e), the words “or active duty for training” are omitted as covered by the words “active duty” as defined in section 101(18) of this revised title.
 
-In subsection (f), the words “is appointed” are substituted for the words “has been or may be commissioned”. The words “under the laws appointing such graduates to the Army” and the last 16 words of section 308a of existing title 37 are omitted as surplusage. The words “to the date of his acceptance of and qualification under his commission” are omitted, since the member concerned would continue to be entitled to basic pay after that acceptance and qualification. The words “or the United States Naval Academy” are inserted to reflect section 541 of title 10, under which graduates of that Academy may be appointed in the Army or the Air Force.
+In subsection (f), the words “is appointed” are substituted for the words “has been or may be commissioned”. The words “under the laws appointing such graduates to the Army” and the last 16 words of section 308a of existing title 37 are omitted as surplusage. The words “to the date of his acceptance of and qualification under his commission” are omitted, since the member concerned would continue to be entitled tobasic pay after that acceptance and qualification. The words “or the United States Naval Academy” are inserted to reflect section 541 of title 10, under which graduates of that Academy may be appointed in the Army or the Air Force.
 
 In subsection (i), the inclusion of the Coast Guard Reserve is based on the authority contained in section 755(c) of title 14.
 
 #### Amendments
+
+1997—Subsecs. (g)(1)(D), (h)(1)(D). Pub. L. 105–85 inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in line of duty”.
 
 1996—Subsec. (g)(1)(D). Pub. L. 104–106, §702(c)(1), added subpar. (D).
 

@@ -20,7 +20,7 @@
 
 (9) <sup>2</sup> Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.
 
-(8) <sup>1</sup> In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
+(8) <sup>1</sup> In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, withthe consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
 (9) <sup>2</sup> The Attorney General, in support of persons in administrative detention in non-Federal institutions, is authorized—
 
@@ -110,6 +110,10 @@ Amendment by section 308(d)(4)(C), (e)(4) of Pub. L. 104–208 effective, with c
 
 Amendment by Pub. L. 101–649 effective Oct. 1, 1991, and applicable beginning with fiscal year 1992, see section 161(a) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
+#### Fingerprint Cards
+
+Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: “That beginning seven calendar days after the enactment of this Act \[Nov. 26, 1997\] and for each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service may be used by the Immigration and Naturalization Service to accept, for the purpose of conducting criminal background checks on applications for any benefit under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], any FD–258 fingerprint card which has been prepared by or received from any individual or entity other than an office of the Immigration and Naturalization Service with the following exceptions: (1) State and local law enforcement agencies; and (2) United States consular offices at United States embassies and consulates abroad under the jurisdiction of the Department of State or United States military offices under the jurisdiction of the Department of Defense authorized to perform fingerprinting services to prepare FD–258 fingerprint cards for applicants residing abroad applying for immigration benefits”.
+
 #### Improvement of Barriers at Border
 
 Section 102(a)–(c) of div. C of Pub. L. 104–208 provided that:
@@ -144,7 +148,7 @@ Waiver.—The provisions of the Endangered Species Act of 1973 \[16 U.S.C. 1531 
 
 #### Improved Border Equipment and Technology
 
-Section 103 of div. C of Pub. L. 104–208 provided that: “The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft, helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency of the Federal Government upon request of the Attorney General.”
+Section 103 of div. C of Pub. L. 104–208 provided that: “The Attorney General is authorized to acquire and use, for the purpose of detection, interdiction, and reduction of illegal immigration into the United States, any Federal equipment (including fixed wing aircraft,helicopters, four-wheel drive vehicles, sedans, night vision goggles, night vision scopes, and sensor units) determined available for transfer by any other agency of the Federal Government upon request of the Attorney General.”
 
 #### Hiring and Training Standards
 

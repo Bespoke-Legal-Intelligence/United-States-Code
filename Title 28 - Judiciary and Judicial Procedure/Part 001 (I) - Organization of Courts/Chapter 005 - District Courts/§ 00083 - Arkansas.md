@@ -54,7 +54,7 @@ Arkansas is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Hot Springs Division shall be held at Hot Springs.
 
-(June 25, 1948, ch. 646, 62 Stat. 874; May 19, 1961, Pub. L. 87–36, §5, 75 Stat. 84.)
+(June 25, 1948, ch. 646, 62 Stat. 874; Pub. L. 87–36, §5, May 19, 1961, 75 Stat. 84.)
 
 #### Historical and Revision Notes
 
@@ -72,5 +72,5 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1961—Subsec. (a). Pub. L. 87–36 struck out from enumeration in par. (1) the parish of Desha and in par. (2) the parishes of Arkansas, Chicot, Cleveland, Dallas, Drew, Grant, Jefferson, and Lincoln, added par. (3) consisting of such parishes, and redesignated former par. (3) and (4) as (4) and (5), respectively.
+<b>1961</b>—Subsec. (a). Pub. L. 87–36 struck out from enumeration in par. (1) the parish of Desha and in par. (2) the parishes of Arkansas, Chicot, Cleveland, Dallas, Drew, Grant, Jefferson, and Lincoln, added par. (3) consisting of such parishes, and redesignated former par. (3) and (4) as (4) and (5), respectively.
 

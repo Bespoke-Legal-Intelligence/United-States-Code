@@ -4,7 +4,7 @@
 
 (b) Personnel of the United Seamen's Service who are performing duties in connection with the cooperation and assistance under subsection (a) may be furnished—
 
-&emsp;(1) transportation, at the expense of the United States, while traveling to and from, and while performing those duties, in the samemanner as civilian employees of the armed forces;
+&emsp;(1) transportation, at the expense of the United States, while traveling to and from, and while performing those duties, in the same manner as civilian employees of the armed forces;
 
 &emsp;(2) meals and quarters, at their expense or at the expense of the United Seamen's Service, except that where civilian employees of the armed forces are quartered without charge, employees of the United Seamen's Service may also be quartered without charge; and
 

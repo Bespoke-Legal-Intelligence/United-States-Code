@@ -20,7 +20,7 @@ If such service is made by mail, the summons may be served by the marshal or by 
 
 (g) Any person summoned for jury service who fails to appear as directed shall be ordered by the district court to appear forthwith and show cause for his failure to comply with the summons. Any person who fails to show good cause for noncompliance with a summons may be fined not more than $100 or imprisoned not more than three days, or both.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; May 24, 1949, ch. 179, §96, 63 Stat. 103; Mar. 27, 1968, Pub. L. 90–274, §101, 82 Stat. 58; Dec. 11, 1970, Pub. L. 91–543, 84 Stat. 1408; Nov. 2, 1978, Pub. L. 95–572, §2(b), 92 Stat. 2453; Jan. 12, 1983, Pub. L. 97–463, §2, 96 Stat. 2531; Nov. 19, 1988, Pub. L. 100–702, title VIII, §801, 102 Stat. 4657.)
+(June 25, 1948, ch. 646, 62 Stat. 952; May 24, 1949, ch. 179, §96, 63 Stat. 103; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 91–543, Dec. 11, 1970, 84 Stat. 1408; Pub. L. 95–572, §2(b), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 97–463, §2, Jan. 12, 1983, 96 Stat. 2531; Pub. L. 100–702, title VIII, §801, Nov. 19, 1988, 102 Stat. 4657.)
 
 #### Historical and Revision Notes
 
@@ -38,21 +38,21 @@ This section amends section 1866 of title 28, U.S.C., by restoring provision of 
 
 #### Amendments
 
-1988—Subsec. (c)(1). Pub. L. 100–702 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “excused by the court, upon a showing of undue hardship or extreme inconvenience, for such period as the court deems necessary, at the conclusion of which such person shall be summoned again for jury service under subsections (b) and (c) of this section, or”.
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–702 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “excused by the court, upon a showing of undue hardship or extreme inconvenience, for such period as the court deems necessary, at the conclusion of which such person shall be summoned again for jury service under subsections (b) and (c) of this section, or”.
 
-1983—Subsec. (b). Pub. L. 97–463, §2, inserted provision in second par. authorizing service by first-class mail of persons drawn for jury service, substituted in fourth par. “If such service is made by mail, the summons may be served by the marshal or by the clerk, the jury commission or their duly designated deputies, who shall make affidavit of service and shall attach thereto any receipt from the addressee for a registered or certified summons” for “If such service is made by registered or certified mail, the summons may be served by the clerk or jury commission or their duly designated deputies who shall make affidavit of service and shall file with such affidavit the addressee's receipt for the registered or certified summons” and struck out provision requiring the marshal, if service was made by the marshal, to attach to his return the addressee's receipt for the registered or certified mail.
+<b>1983</b>—Subsec. (b). Pub. L. 97–463, §2, inserted provision in second par. authorizing service by first-class mail of persons drawn for jury service, substituted in fourth par. “If such service is made by mail, the summons may be served by the marshal or by the clerk, the jury commission or their duly designated deputies, who shall make affidavit of service and shall attach thereto any receipt from the addressee for a registered or certified summons” for “If such service is made by registered or certified mail, the summons may be served by the clerk or jury commission or their duly designated deputies who shall make affidavit of service and shall file with such affidavit the addressee's receipt for the registered or certified summons” and struck out provision requiring the marshal, if service was made by the marshal, to attach to his return the addressee's receipt for the registered or certified mail.
 
-1978—Subsec. (c). Pub. L. 95–572 struck out introductory text reference to par. (7) of section 1863(b) of this title.
+<b>1978</b>—Subsec. (c). Pub. L. 95–572 struck out introductory text reference to par. (7) of section 1863(b) of this title.
 
-1970—Subsec. (b). Pub. L. 91–543 inserted provisions authorizing duly designated deputies of the clerk or the jury commission to issue summonses, and deliver them to the marshal for service when personal service is to be made, and provisions authorizing, if service is madeby registered or certified mail, the clerk or the jury commission or their duly designated deputies to make service of the summons.
+<b>1970</b>—Subsec. (b). Pub. L. 91–543 inserted provisions authorizing duly designated deputies of the clerk or the jury commission to issue summonses, and deliver them to the marshal for service when personal service is to be made, and provisions authorizing, if service is made by registered or certified mail, the clerk or the jury commission or their duly designated deputies to make service of the summons.
 
-1968—Subsec. (a). Pub. L. 90–274 substituted provisions authorizing the commission or clerk to maintain a jury wheel of qualified jurors and to draw particular panels therefrom for provisions authorizing the marshal to summon talesmen from the bystanders when there is an insufficient number of petit jurors.
+<b>1968</b>—Subsec. (a). Pub. L. 90–274 substituted provisions authorizing the commission or clerk to maintain a jury wheel of qualified jurors and to draw particular panels therefrom for provisions authorizing the marshal to summon talesmen from the bystanders when there is an insufficient number of petit jurors.
 
 Subsec. (b). Pub. L. 90–274 substituted provisions directing the clerk or jury commission to deliver summonses to the marshal for service when the court orders a grand or petit jury to be drawn and setting out the details of service for provisions requiring that, when a special jury was ordered by a district court, it had to be returned by the marshal in the same manner and form as was required in such case by the law of the State in which the district court sat.
 
 Subsecs. (c) to (g). Pub. L. 90–274 added subsecs. (c) to (g).
 
-1949—Act May 24, 1949, divided section into subsections and restored provisions that special juries be impaneled in accordance with State law.
+<b>1949</b>—Act May 24, 1949, divided section into subsections and restored provisions that special juries be impaneled in accordance with State law.
 
 #### Effective Date of 1978 Amendment
 

@@ -14,17 +14,13 @@
 
 &emsp;(3) Whether an appropriate share of the costs of such activities will be paid out of funds derived from non-Federal Government sources.
 
-(c) In this section, the term “defense critical technology” means a technology identified in a defense critical technologies plan submitted to the Congress under section 2506 <sup>1</sup> of this title.
+(c) In this section, the term “defense critical technology” means a technology that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.
 
-(Added Pub. L. 102–190, div. A, title VIII, §828(a), Dec. 5, 1991, 105 Stat. 1444; amended Pub. L. 103–35, title II, §201(c)(3), May 31, 1993, 107 Stat. 98.)
-
-#### References in Text
-
-Section 2506 of this title, referred to in subsec. (c), was amended generally by Pub. L. 104–201, div. A, title VIII, §829(d), Sept. 23, 1996, 110 Stat. 2613, and, as so amended, no longer relates to submission of a defense critical technologies plan.
+(Added Pub. L. 102–190, div. A, title VIII, §828(a), Dec. 5, 1991, 105 Stat. 1444; amended Pub. L. 103–35, title II, §201(c)(3), May 31, 1993, 107 Stat. 98; Pub. L. 105–85, div. A, title X, §1073(a)(39), Nov. 18, 1997, 111 Stat. 1902.)
 
 #### Amendments
 
-1993—Subsec. (c). Pub. L. 103–35 substituted “a defense” for “an annual defense” and “section 2506” for “section 2522”.
+1997—Subsec. (c). Pub. L. 105–85 substituted “that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.” for “identified in a defense critical technologies plan submitted to the Congress under section 2506 of this title.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+1993—Subsec. (c). Pub. L. 103–35 substituted “a defense” for “an annual defense” and “section 2506” for “section 2522”.
 

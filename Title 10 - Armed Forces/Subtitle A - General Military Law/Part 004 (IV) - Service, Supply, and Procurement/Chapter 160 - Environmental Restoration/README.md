@@ -21,13 +21,13 @@
 
 Pub. L. 102–25, title VII, §701(e)(6), Apr. 6, 1991, 105 Stat. 114, substituted “Annual reports to Congress” for “Annual report to Congress” in item 2706.
 
-1989—Pub. L. 101–189, div. A, title III, §357(a)(2)(B), Nov. 29, 1989, 103 Stat. 1427, which directed amendmentof the item relating to section 2706 in the table of sections at the beginning of chapter 106 to read “Annual reports to Congress”, could not be executed because item 2706 is in this chapter and not in chapter 106.
+1989—Pub. L. 101–189, div. A, title III, §357(a)(2)(B), Nov. 29, 1989, 103 Stat. 1427, which directed amendment of the item relating to section 2706 in the table of sections at the beginning of chapter 106 to read “Annual reports to Congress”, could not be executed because item 2706 is in this chapter and not in chapter 106.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 2810 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “agency”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection (a)”.</i>
 
 
 ---

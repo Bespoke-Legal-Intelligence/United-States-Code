@@ -1,0 +1,134 @@
+### §300x–24. Requirements regarding tuberculosis and human immunodeficiency virus
+
+#### (a) Tuberculosis
+
+#### (1) In general
+
+&emsp;A funding agreement for a grant under section 300x–21 of this title is that the State involved will require that any entity receiving amounts from the grant for operating a program of treatment for substance abuse—
+
+&emsp;&emsp;(A) will, directly or through arrangements with other public or nonprofit private entities, routinely make available tuberculosis services to each individual receiving treatment for such abuse; and
+
+&emsp;&emsp;(B) in the case of an individual in need of such treatment who is denied admission to the program on the basis of the lack of the capacity of the program to admit the individual, will refer the individual to another provider of tuberculosis services.
+
+#### (2) Tuberculosis services
+
+&emsp;For purposes of paragraph (1), the term “tuberculosis services”, with respect to an individual, means—
+
+&emsp;&emsp;(A) counseling the individual with respect to tuberculosis;
+
+&emsp;&emsp;(B) testing to determine whether the individual has contracted such disease and testing to determine the form of treatment for the disease that is appropriate for the individual; and
+
+&emsp;&emsp;(C) providing such treatment to the individual.
+
+#### (b) Human immunodeficiency virus
+
+#### (1) Requirement for certain States
+
+&emsp;In the case of a State described in paragraph (2), a funding agreement for a grant under section 300x–21 of this title is that—
+
+&emsp;&emsp;(A) with respect to individuals undergoing treatment for substance abuse, the State will, subject to paragraph (3), carry out 1 or more projects to make available to the individuals early intervention services for HIVdisease at the sites at which the individuals are undergoing such treatment;
+
+&emsp;&emsp;(B) for the purpose of providing such early intervention services through such projects, the State will make available from the grant the percentage that is applicable for the State under paragraph (4); and
+
+&emsp;&emsp;(C) the State will, subject to paragraph (5), carry out such projects only in geographic areas of the State that have the greatest need for the projects.
+
+#### (2) Designated States
+
+&emsp;For purposes of this subsection, a State described in this paragraph is any State whose rate of cases of acquired immune deficiency syndrome is 10 or more such cases per 100,000 individuals (as indicated by the number of such cases reported to and confirmed by the Director of the Centers for Disease Control for the most recent calendar year for which such data are available).
+
+#### (3) Use of existing programs regarding substance abuse
+
+&emsp;With respect to programs that provide treatment services for substance abuse, a funding agreement for a grant under section 300x–21 of this title for a designated State is that each such program participating in a project under paragraph (1) will be a program that began operation prior to the fiscal year for which the State is applying to receive the grant. A program that so began operation may participate in a project under paragraph (1) without regard to whether the program has been providing early intervention services for HIV disease.
+
+#### (4) Applicable percentage regarding expenditures for services
+
+&emsp;(A)(i) For purposes of paragraph (1)(B), the percentage that is applicable under this paragraph for a designated State is, subject to subparagraph (B), the percentage by which the amount of the grant under section 300x–21 of this title for the State for the fiscal year involved is an increase over the amount specified in clause (ii).
+
+&emsp;(ii) The amount specified in this clause is the amount that was reserved by the designated State involved from the allotment of the State under section 300x–1a <sup>1</sup> of this title for fiscal year 1991 in compliance with section 300x–4(c)(6)(A)(ii) <sup>1</sup> of this title (as such sections were in effect for such fiscal year).
+
+&emsp;(B) If the percentage determined under subparagraph (A) for a designated State for a fiscal year is less than 2 percent (including a negative percentage, in the case of a State for which there is no increase for purposes of such subparagraph), the percentage applicable under this paragraph for the State is 2 percent. If the percentage so determined is 2 percent or more, the percentage applicable under this paragraph for the State is the percentage determined under subparagraph (A), subject to not exceeding 5 percent.
+
+#### (5) Requirement regarding rural areas
+
+&emsp;(A) A funding agreement for a grant under section 300x–21 of this title for a designated State is that, if the State will carry out 2 or more projects under paragraph (1), the State will carry out 1 such project in a rural area of the State, subject to subparagraph (B).
+
+&emsp;(B) The Secretary shall waive the requirement established in subparagraph (A) if the State involved certifies to the Secretary that—
+
+&emsp;&emsp;(i) there is insufficient demand in the State to carry out a project under paragraph (1) in any rural area of the State; or
+
+&emsp;&emsp;(ii) there are no rural areas in the State.
+
+#### (6) Manner of providing services
+
+&emsp;With respect to the provision of early intervention services for HIV disease to an individual, a funding agreement for a grant under section 300x–21 of this title for a designated State is that—
+
+&emsp;&emsp;(A) such services will be undertaken voluntarily by, and with the informed consent of, the individual; and
+
+&emsp;&emsp;(B) undergoing such services will not be required as a condition of receiving treatment services for substance abuse or any other services.
+
+#### (7) Definitions
+
+&emsp;For purposes of this subsection:
+
+&emsp;&emsp;(A) The term “designated State” means a State described in paragraph (2).
+
+&emsp;&emsp;(B) The term “early intervention services”, with respect to HIV disease, means—
+
+&emsp;&emsp;&emsp;(i) appropriate pretest counseling;
+
+&emsp;&emsp;&emsp;(ii) testing individuals with respect to such disease, including tests to confirm the presence of the disease, tests to diagnose the extent of the deficiency in the immune system, and tests to provide information on appropriate therapeutic measures for preventing and treating the deterioration of the immune system and for preventing and treating conditions arising from the disease;
+
+&emsp;&emsp;&emsp;(iii) appropriate post-test counseling; and
+
+&emsp;&emsp;&emsp;(iv) providing the therapeutic measures described in clause (ii).
+
+&emsp;&emsp;(C) The term “HIV disease” means infection with the etiologic agent for acquired immune deficiency syndrome.
+
+#### (c) Expenditure of grant for compliance with agreements
+
+#### (1) In general
+
+&emsp;A grant under section 300x–21 of this title may be expended for purposes of compliance with the agreements required in this section, subject to paragraph (2).
+
+#### (2) Limitation
+
+&emsp;A funding agreement for a grant under section 300x–21 of this title for a State is that the grant will not be expended to make payment for any service provided for purposes of compliance with this section to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
+
+&emsp;&emsp;(A) under any State compensation program, under any insurance policy, or under any Federal or State health benefits program (including the program established in title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and the program established in title XIX of such Act \[42 U.S.C. 1396 et seq.\]); or
+
+&emsp;&emsp;(B) by an entity that provides health services on a prepaid basis.
+
+#### (d) Maintenance of effort
+
+With respect to services provided for by a State for purposes of compliance with this section, a funding agreement for a grant under section 300x–21 of this title is that the State will maintain expenditures of non-Federal amounts for such services at a level that is not less than average level of such expenditures maintained by the State for 2-year period preceding the first fiscal year for which the State receives such a grant.
+
+#### (e) Applicability of certain provision
+
+Section 300x–31 of this title applies to this section (and to each other provision of this subpart).
+
+(July 1, 1944, ch. 373, title XIX, §1924, as added July 10, 1992, Pub. L. 102–321, title II, §202, 106 Stat. 391.)
+
+#### References in Text
+
+Section 300x–1a of this title, referred to in subsec. (b)(4)(A)(ii), was repealed by Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 378.
+
+Section 300x–4 of this title, referred to in subsec. (b)(4)(A)(ii), was in the original a reference to section 1916 of act July 1, 1944, which was repealed by Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 378. Section 201(2) of Pub. L. 102–321 enacted new sections 1915 and 1916 of act July 1, 1944, which are classified to sections 300x–4 and 300x–5, respectively, of this title.
+
+The Social Security Act, referred to in subsec. (c)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### Prior Provisions
+
+A prior section 1924 of act July 1, 1944, was classified to section 300x–10 of this title prior to repeal by Pub. L. 102–321.
+
+Another prior section 1924 of act July 1, 1944, was classified to section 300y–3 of this title prior to repeal by Pub. L. 99–280.
+
+#### Change of Name
+
+Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 300x–21 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -24,7 +24,7 @@ In order effectively to regulate interstate and foreign commerce in distilled sp
 
 This section shall not apply to any agency of a State or political subdivision thereof or any officer or employee of any such agency, and no such agency or officer or employee shall be required to obtain a basic permit under this subchapter.
 
-(Aug. 29, 1935, ch. 814, title I, §103, formerly §3, 49 Stat. 978; Feb. 29, 1936, ch. 105, §1, 49 Stat. 1152; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, §103, and amended Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, §103, formerly §3, 49 Stat. 978; Feb. 29, 1936, ch. 105, §1, 49 Stat. 1152; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, §103, and amended Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 #### Codification
 

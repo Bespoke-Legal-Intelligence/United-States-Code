@@ -26,7 +26,7 @@ Minor changes were made in phraseology.
 
 United States commissioners, referred to in text, were replaced by United States magistrates pursuant to Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118. See chapter 43 (§631 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28.
+Reference to United States magistrate or to magistrate deemed to refer to United States magistratejudge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28.
 
 #### Short Title of 1982 Amendment
 

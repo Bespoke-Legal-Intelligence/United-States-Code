@@ -34,5 +34,5 @@ A prior section 390j, Pub. L. 88–74, §9, formerly §11, July 22, 1963, 77 Sta
 
 A prior section 9 of Pub. L. 88–74 was renumbered section 7 and was classified to section 390h of this title, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
-A prior section 390k, Pub. L. 88–74, §12, July 22, 1963, 77 Stat. 92, authorized appropriation of such sums as might be necessary for proper administration of this subchapter, prior to repeal by Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 994, effective Oct. 1, 1977.
+A prior section 390k, Pub. L. 88–74, §12, July 22, 1963, 77 Stat. 92, authorized appropriation of such sums asmight be necessary for proper administration of this subchapter, prior to repeal by Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 994, effective Oct. 1, 1977.
 

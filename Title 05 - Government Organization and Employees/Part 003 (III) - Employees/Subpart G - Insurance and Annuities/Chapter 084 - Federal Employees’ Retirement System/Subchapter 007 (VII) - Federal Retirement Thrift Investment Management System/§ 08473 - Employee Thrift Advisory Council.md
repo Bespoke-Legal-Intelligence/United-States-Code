@@ -16,7 +16,7 @@
 
 &emsp;(6) 1 shall be appointed to represent employee organizations having as a purpose promoting the interests of women in Government service;
 
-&emsp;(7) 1 shall be appointed to represent the organization representing the largest number ofindividuals receiving annuities under this chapter or chapter 83 of this title;
+&emsp;(7) 1 shall be appointed to represent the organization representing the largest number of individuals receiving annuities under this chapter or chapter 83 of this title;
 
 &emsp;(8) 1 shall be appointed to represent the organization representing the largest number of supervisors and management officials (as defined by section 7103(a)); and
 

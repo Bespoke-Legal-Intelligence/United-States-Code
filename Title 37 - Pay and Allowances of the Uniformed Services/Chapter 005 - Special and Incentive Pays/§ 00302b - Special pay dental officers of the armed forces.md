@@ -16,25 +16,25 @@ Variable, Additional, and Board Certification Special Pay.—(1) An officer who�
 
 &emsp;(B) $7,000 per year, if the officer has at least three but less than six years of creditable service and is not undergoing dental internship training.
 
-&emsp;(C) $7,000 per year, if the officer has at least six but less than 10 years of creditable service.
+&emsp;(C) $7,000 per year, if the officer has at least six but less than eight years of creditable service.
 
-&emsp;(D) $6,000 per year, if the officer has at least 10 but less than 14 years of creditable service.
+&emsp;(D) $12,000 per year, if the officer has at least eight but less than 12 years of creditable service.
 
-&emsp;(E) $4,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
+&emsp;(E) $10,000 per year, if the officer has at least 12 but less than 14 years of creditable service.
 
-&emsp;(F) $3,000 per year, if the officer has 18 or more years of creditable service.
+&emsp;(F) $9,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
 
-(3) An officer described in paragraph (1) who is serving in a pay grade above pay grade O–6 is entitled to variable special pay at the rate of $1,000 per year.
+&emsp;(G) $8,000 per year, if the officer has 18 or more years of creditable service.
+
+(3) An officer described in paragraph (1) who is serving in a pay grade above pay grade O–6 is entitled to variable special pay at the rate of $7,000 per year.
 
 (4) Subject to subsection (b), an officer entitled to variable special pay under paragraph (2) or (3) is entitled to additional special pay for any 12-month period during which the officer is not undergoing dental internship or residency training. Such additional special pay shall be paid at the following rates:
 
 &emsp;(A) $4,000 per year, if the officer has less than three years of creditable service.
 
-&emsp;(B) $6,000 per year, if the officer has at least three but less than 14 years of creditable service.
+&emsp;(B) $6,000 per year, if the officer has at least three but less than 10 years of creditable service.
 
-&emsp;(C) $8,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
-
-&emsp;(D) $10,000 per year, if the officer has at least 18 or more years of creditable service.
+&emsp;(C) $15,000 per year, if the officer has 10 or more years of creditable service.
 
 (5) An officer who is entitled to variable special pay under paragraph (2) or (3) and who is board certified is entitled to additional special pay at the following rates:
 
@@ -92,9 +92,29 @@ Reserve Dental Officers Special Pay.—(1) A reserve dental officer described in
 
 &emsp;(B) is on active duty under a call or order to active duty for a period of less than one year.
 
-(Added Pub. L. 93–274, §1(2), May 6, 1974, 88 Stat. 94; amended Pub. L. 96–284, §4(b), June 28, 1980, 94 Stat. 591; Pub. L. 99–145, title VI, §639(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A, title VI, §615(a), (b), (e), Sept. 23, 1996, 110 Stat. 2545, 2547.)
+(Added Pub. L. 93–274, §1(2), May 6, 1974, 88 Stat. 94; amended Pub. L. 96–284, §4(b), June 28, 1980, 94 Stat. 591; Pub. L. 99–145, title VI, §639(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A, title VI, §615(a), (b), (e), Sept. 23, 1996, 110 Stat. 2545, 2547; Pub. L. 105–85, div. A, title VI, §618, Nov. 18, 1997, 111 Stat. 1789.)
 
 #### Amendments
+
+1997—Subsec. (a)(2)(C) to (G). Pub. L. 105–85, §618(a), added subpars. (C) to (G) and struck out former subpars. (C) to (F) which read as follows:
+
+“(C) $7,000 per year, if the officer has at least six but less than 10 years of creditable service.
+
+“(D) $6,000 per year, if the officer has at least 10 but less than 14 years of creditable service.
+
+“(E) $4,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
+
+“(F) $3,000 per year, if the officer has 18 or more years of creditable service.”
+
+Subsec. (a)(3). Pub. L. 105–85, §618(b), substituted “$7,000” for “$1,000”.
+
+Subsec. (a)(4)(B) to (D). Pub. L. 105–85, §618(c), added subpars. (B) and (C) and struck out former subpars. (B) to (D) which read as follows:
+
+“(B) $6,000 per year, if the officer has at least three but less than 14 years of creditable service.
+
+“(C) $8,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
+
+“(D) $10,000 per year, if the officer has at least 18 or more years of creditable service.”
 
 1996—Subsec. (a). Pub. L. 104–201, §615(e)(1), inserted heading.
 
@@ -174,5 +194,5 @@ Section 639(d) of Pub. L. 99–145, as amended by Pub. L. 99–661, div. A, titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 302f, 303a, 303b, 306 of this title.
+This section is referred to in sections 301e, 302f, 303a, 303b, 306 of this title.
 

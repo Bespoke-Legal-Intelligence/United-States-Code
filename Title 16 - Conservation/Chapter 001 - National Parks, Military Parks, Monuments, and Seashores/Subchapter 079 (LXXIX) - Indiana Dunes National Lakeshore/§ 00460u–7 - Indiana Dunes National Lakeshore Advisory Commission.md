@@ -2,7 +2,7 @@
 
 #### (a) Establishment; termination
 
-There is hereby established an Indiana Dunes National Lakeshore Advisory Commission. SaidCommission shall terminate on September 30, 1985.
+There is hereby established an Indiana Dunes National Lakeshore Advisory Commission. Said Commission shall terminate on September 30, 1985.
 
 #### (b) Membership; appointment; term of office; recommendation or designation of appointees
 

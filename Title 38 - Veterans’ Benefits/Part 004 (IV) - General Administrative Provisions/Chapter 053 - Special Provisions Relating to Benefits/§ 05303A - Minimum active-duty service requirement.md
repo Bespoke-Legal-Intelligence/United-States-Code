@@ -68,7 +68,7 @@
 
 (f) Nothing in this section shall be construed to deprive any person of any procedural rights, including any rights to assistance in applying for or claiming a benefit.
 
-(Added Pub. L. 97–66, title VI, §604(a)(1), Oct. 17, 1981, 95 Stat. 1035, §3103A; amended Pub. L. 97–306, title IV, §408(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title III, §321(11), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §102(b)(3), Nov. 18, 1988, 102 Stat. 4163; Pub. L.101–510, div. A, title V, §562(a)(4), Nov. 5, 1990, 104 Stat. 1574; renumbered §5303A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–353, §3, Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–446, title IX, §908, Nov. 2, 1994, 108 Stat. 4678.)
+(Added Pub. L. 97–66, title VI, §604(a)(1), Oct. 17, 1981, 95 Stat. 1035, §3103A; amended Pub. L. 97–306, title IV, §408(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title III, §321(11), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §102(b)(3), Nov. 18, 1988, 102 Stat. 4163; Pub. L. 101–510, div. A, title V, §562(a)(4), Nov. 5, 1990, 104 Stat. 1574; renumbered §5303A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–353, §3, Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–446, title IX, §908, Nov. 2, 1994, 108 Stat. 4678.)
 
 #### References in Text
 
@@ -140,7 +140,7 @@ Section 408(b) of Pub. L. 97–306 provided that:
 
 #### Scope of Exclusion
 
-Section 408(d) of Pub. L. 97–306 provided that: “Section 3103A \[now 5303A\] of title 38, United States Code, as amended by subsection (a), is the law with respect to the matters stated in such section and applies, in accordance with its terms, with respect to benefits under Federal law, regardless of the particular title of the United States Code or other law under which any such benefit is provided or the department, agency, or instrumentality which administers any such benefit.”
+Section 408(d) of Pub. L. 97–306 provided that: “Section 3103A \[now 5303A\] of title 38, United States Code,as amended by subsection (a), is the law with respect to the matters stated in such section and applies, in accordance with its terms, with respect to benefits under Federal law, regardless of the particular title of the United States Code or other law under which any such benefit is provided or the department, agency, or instrumentality which administers any such benefit.”
 
 #### Applicability
 
@@ -148,5 +148,5 @@ Section 604(b) of Pub. L. 97–66 provided that: “Section 5303A \[formerly 310
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3702 of this title; title 12 sections 1709, 1715k.
+This section is referred to in section 3702 of this title; title 8 sections 1612, 1613, 1622; title 12 sections 1709, 1715k.
 

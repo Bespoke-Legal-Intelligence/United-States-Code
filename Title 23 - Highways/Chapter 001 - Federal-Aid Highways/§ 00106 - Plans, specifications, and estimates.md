@@ -20,7 +20,7 @@ Safety considerations.—Safety considerations for projects subject to this subs
 
 (c)
 
-Limitation on Estimates for Construction Engineering.—Items included in all such estimates for construction engineering for a State for a fiscal year shall not exceed, in the aggregate, 15 percent of the total estimated costs of all projects financed within the boundaries of the State with Federal-aid highwayfunds in such fiscal year, after excluding from such total estimate costs, the estimated costs of rights-of-way, preliminary engineering, and construction engineering.
+Limitation on Estimates for Construction Engineering.—Items included in all such estimates for construction engineering for a State for a fiscal year shall not exceed, in the aggregate, 15 percent of the total estimated costs of all projects financed within the boundaries of the State with Federal-aid highway funds in such fiscal year, after excluding from such total estimate costs, the estimated costs of rights-of-way, preliminary engineering, and construction engineering.
 
 (d) In such cases as the Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid system shall be accompanied by a value engineering or other cost reduction analysis.
 

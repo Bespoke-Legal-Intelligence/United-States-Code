@@ -18,7 +18,7 @@
 
 > life insurance, without accidental death and dismemberment insurance, may be continued, under conditions determined by the Office, during the period the employee is receiving compensation and is held by the Secretary of Labor or the Secretary's delegate to be unable to return to duty.
 
-(3) The amount of life insurance continued under paragraph (1) or (2) of this subsection shall be continued, with or without reduction, at the end of each full calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury, in accordance with the employee's written election at the time eligibility tocontinue insurance during retirement or receipt of compensation arises, as follows:
+(3) The amount of life insurance continued under paragraph (1) or (2) of this subsection shall be continued, with or without reduction, at the end of each full calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury, in accordance with the employee's written election at the time eligibility to continue insurance during retirement or receipt of compensation arises, as follows:
 
 &emsp;(A) the employee may elect to have the deductions required by section 8707 of this title withheld from annuity or compensation, and the employee's life insurance shall be reduced each month by 2 percent of the face value until 25 percent of the amount of life insurance in force before the first reduction remains; or
 
@@ -70,7 +70,7 @@ Sept. 23, 1959, Pub. L. 86–377, §4(c), 73 Stat. 701.
 
 Aug. 1, 1956, ch. 837, §501(c)(1) (less applicability to §2(b)), 70 Stat. 882.
 
-In subsection (b), the words “armed forces” are coextensive with and substituted for “Army, Navy, Air Force, and Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101.
+In subsection (b), the words “armed forces” are coextensive with and substituted for “Army, Navy, AirForce, and Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101.
 
 In subsection (c), the word “only” is supplied for clarity and for consistency with subsection (b). The words “under conditions determined by the Commission, without cost to him” are coextensive with and substituted for “as provided in subsection (b) of this section”.
 

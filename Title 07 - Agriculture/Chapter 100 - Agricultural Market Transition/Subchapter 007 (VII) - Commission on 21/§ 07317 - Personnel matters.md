@@ -2,13 +2,13 @@
 
 #### (a) Compensation
 
-Each member of the Commission shall serve without compensation, but shall be allowedtravel expenses including per diem in lieu of subsistence, as authorized by section 5703 of title 5, when engaged in the performance of Commission duties.
+Each member of the Commission shall serve without compensation, but shall be allowed travel expenses including per diem in lieu of subsistence, as authorized by section 5703 of title 5, when engaged in the performance of Commission duties.
 
 #### (b) Staff
 
 #### (1) Appointment
 
-&emsp;The Commission shall appoint a staff director, who shall be paid at a rate not to exceed the maximum rate of basic pay under section 5376 of title 5, and such professional and clerical personnel as may be reasonable and necessary to enable the Commission to carry out its duties under this subchapter without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, or any other provision of law, relating to the number, classification, and General Schedule rates.
+&emsp;The Commission shall appoint a staff director, who shall be paid at a rate not to exceed the maximum rate of basic pay under section 5376 of title 5, and such professional and clerical personnel as may be reasonable and necessary to enable the Commission to carry out its duties under this subchapter without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title,or any other provision of law, relating to the number, classification, and General Schedule rates.
 
 #### (2) Limitation on compensation
 

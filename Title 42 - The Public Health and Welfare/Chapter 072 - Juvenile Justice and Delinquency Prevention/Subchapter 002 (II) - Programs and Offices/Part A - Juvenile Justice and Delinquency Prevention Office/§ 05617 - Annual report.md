@@ -24,7 +24,7 @@ Not later than 180 days after the end of a fiscal year, the Administrator shall 
 
 &emsp;(5) A description of selected exemplary delinquency prevention programs for which assistance is provided under this subchapter, with particular attention to community-based juvenile delinquency prevention programs that involve and assist families of juveniles.
 
-(Pub. L. 93–415, title II, §207, as added Pub. L. 100–690, title VII, §7255, Nov. 18, 1988, 102 Stat. 4437; amended Pub. L. 102–586, §2(e), Nov. 4, 1992, 106 Stat. 4986.)
+(Pub. L. 93–415, title II, §207, as added Pub. L. 100–690, title VII, §7255, Nov. 18, 1988, 102 Stat.4437; amended Pub. L. 102–586, §2(e), Nov. 4, 1992, 106 Stat. 4986.)
 
 #### Prior Provisions
 

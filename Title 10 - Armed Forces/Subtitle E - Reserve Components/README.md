@@ -27,7 +27,7 @@
 | [<b>1211.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201211%20-%20National%20Guard%20Members%20in%20Federal%20Service/README.md) | <b>National Guard Members in Federal Service</b> | <b>12401</b> |
 | [<b>1213.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201213%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>12501</b> |
 | [<b>1214.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201214%20-%20Ready%20Reserve%20Mobilization%20Income%20Insurance/README.md) | <b>Ready Reserve Mobilization Income Insurance</b> | <b>12521</b> |
-| [<b>1215.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201215%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties. \[No present sections\]</b> |  |
+| [<b>1215.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201215%20-%20Miscellaneous%20Prohibitions%20and%20Penalties/README.md) | <b>Miscellaneous Prohibitions and Penalties</b> | <b>12551</b> |
 | [<b>1217.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201217%20-%20Miscellaneous%20Rights%20and%20Benefits/README.md) | <b>Miscellaneous Rights and Benefits</b> | <b>12601</b> |
 | [<b>1219.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201219%20-%20Standards%20and%20Procedures%20for%20Retention%20and%20Promotion/README.md) | <b>Standards and Procedures for Retention and Promotion</b> | <b>12641</b> |
 | [<b>1221.</b>](Part%20002%20%28II%29%20-%20Personnel%20Generally/Chapter%201221%20-%20Separation/README.md) | <b>Separation</b> | <b>12681</b> |
@@ -71,6 +71,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §515(b), Nov. 18, 1997, 111 Stat. 1733, substituted “12551” for “\[No present sections\]” in item for chapter 1215.
 
 1996—Pub. L. 104–201, div. A, title XII, §1211(a)(2), Sept. 23, 1996, 110 Stat. 2691, added item for chapter 1006.
 

@@ -4,5 +4,5 @@ Section, acts June 25, 1948, ch. 646, 62 Stat. 962; Sept. 19, 1962, Pub. L. 87�
 
 #### Effective Date of Repeal
 
-Repeal effective ninety days after June 27, 1988, except that such repeal not to apply to cases pending inSupreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered into before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
+Repeal effective ninety days after June 27, 1988, except that such repeal not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered into before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
 

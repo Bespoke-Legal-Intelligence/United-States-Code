@@ -16,11 +16,25 @@
 
 (2) The Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
 
-(d) Sums appropriated under subsection (a) of this section shall remain available until the end of the second fiscal year following the fiscal year for which they are appropriated. If all funds from a grant under this section have not been utilized by a State for the purpose for which the grant was made within three years after such grant is made, the United States shall be entitled to recover any such unused grant funds from such State.
+(d)(1) In addition to the conditions specified in subsections (b) and (c), any grant made on or after the date of the enactment of this subsection to a State under this section to assist such State in establishing, expanding, or improving a veterans’ cemetery shall be made on the condition described in paragraph (2).
 
-(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223, title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675.)
+(2) For purposes of paragraph (1), the condition described in this paragraph is that, after the date of the receipt of the grant, such State prohibit the interment or memorialization in that cemetery of a person described in section 2411(b) of this title, subject to the receipt of notice described in subsection (a)(2) of such section, except that for purposes of this subsection—
+
+&emsp;(A) such notice shall be furnished to an appropriate official of such State; and
+
+&emsp;(B) a finding described in subsection (b)(3) of such section shall be made by an appropriate official of such State.
+
+(e) Sums appropriated under subsection (a) of this section shall remain available until the end of the second fiscal year following the fiscal year for which they are appropriated. If all funds from a grant under this section have not been utilized by a State for the purpose for which the grant was made within three years after such grant is made, the United States shall be entitled to recover any such unused grant funds from such State.
+
+(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223, title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382.)
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 105–116, which was approved Nov. 21, 1997.
 
 #### Amendments
+
+1997—Subsecs. (d), (e). Pub. L. 105–116 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1994—Subsec. (a)(2). Pub. L. 103–446 substituted “fourteen” for “nine”.
 

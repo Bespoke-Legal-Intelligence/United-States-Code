@@ -6,7 +6,7 @@
 
 (2) No funds paid under this chapter may be used by any State for advertising in newspapers for high paying jobs unless such State submits an annual report to the Secretary beginning in December 1984 concerning such advertising and the justifications therefor, and the justification may include that such jobs are part of a State industrial development effort.
 
-(June 6, 1933, ch. 49, §13, as added Oct. 13, 1982, Pub. L. 97–300, title VI, §601(h), formerly title V, §501(h), 96 Stat. 1397; renumbered title VI, §601(h), Nov. 7, 1988, Pub. L. 100–628, title VII, §712(a)(1), (2), 102 Stat. 3248; amended Dec. 31, 1982, Pub. L. 97–404, §5, 96 Stat. 2027.)
+(June 6, 1933, ch. 49, §13, as added Pub. L. 97–300, title VI, §601(h), formerly title V, §501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, §601(h), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 97–404, §5, Dec. 31, 1982, 96 Stat. 2027.)
 
 #### Prior Provisions
 

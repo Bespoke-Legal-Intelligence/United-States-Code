@@ -76,7 +76,7 @@ Except as otherwise provided in this chapter, if any lands or deposits subject t
 
 &emsp;(E) the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a).
 
-(Feb. 25, 1920, ch. 85, §27, 41 Stat. 448; Apr. 30, 1926, ch. 197, 44 Stat. 373; July 3, 1930, ch. 854, §1, 46 Stat. 1007; Mar. 4, 1931, ch. 506, 46 Stat. 1524; Aug. 8, 1946, ch. 916, §6, 60 Stat. 954; June 1, 1948, ch. 365, 62 Stat. 285; June 3, 1948, ch. 379, §6, 62 Stat. 291; Aug. 2, 1954, ch. 650, 68 Stat. 648; Aug. 13, 1957, Pub. L. 85–122, 71 Stat. 341; Aug. 21, 1958, Pub. L. 85–698, 72 Stat. 688; Sept. 21, 1959, Pub. L. 86–294, §1, 73 Stat. 571; Mar. 18, 1960, Pub. L. 86–391, §1(c), 74 Stat. 8; Sept. 2, 1960, Pub. L. 86–705, §3, 74 Stat. 785; Aug. 31, 1964, Pub. L. 88–526, §1, 78 Stat. 710; Aug. 31, 1964, Pub. L. 88–548, 78 Stat. 754; Aug. 4, 1976, Pub. L. 94–377, §§11, 15, 90 Stat. 1090, 1091; Nov. 16, 1981, Pub. L. 97–78, §1(2), (5), 95 Stat. 1070.)
+(Feb. 25, 1920, ch. 85, §27, 41 Stat. 448; Apr. 30, 1926, ch. 197, 44 Stat. 373; July 3, 1930, ch. 854, §1, 46 Stat. 1007; Mar. 4, 1931, ch. 506, 46 Stat. 1524; Aug. 8, 1946, ch. 916, §6, 60 Stat. 954; June 1, 1948, ch. 365, 62 Stat. 285; June 3, 1948, ch. 379, §6, 62 Stat. 291; Aug. 2, 1954, ch. 650, 68 Stat. 648; Pub. L. 85–122, Aug. 13, 1957, 71 Stat. 341; Pub. L. 85–698, Aug. 21, 1958, 72 Stat. 688; Pub. L. 86–294, §1, Sept. 21, 1959, 73 Stat. 571; Pub. L. 86–391, §1(c), Mar. 18, 1960, 74 Stat. 8; Pub. L. 86–705, §3, Sept. 2, 1960, 74 Stat. 785; Pub. L. 88–526, §1, Aug. 31, 1964, 78 Stat. 710; Pub. L. 88–548, Aug. 31, 1964, 78 Stat. 754; Pub. L. 94–377, §§11, 15, Aug. 4, 1976, 90 Stat. 1090, 1091; Pub. L. 97–78, §1(2), (5), Nov. 16, 1981, 95 Stat. 1070.)
 
 #### References in Text
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) “agency”, “employee”, and “international organization” have the meanings given them by section 3581 of this title; and
 
-&emsp;(2) “detail” means the assignment or loan of an employee to an international organization without a change of position from the agency by which he is employed to an international organization.
+&emsp;(2) “detail” means the assignment or loan of an employee to an international organizationwithout a change of position from the agency by which he is employed to an international organization.
 
 (b) The head of an agency may detail, for a period of not more than 5 years, an employee of his agency to an international organization which requests services, except that under special circumstances, where the President determines it to be in the national interest, he may extend the 5-year period for up to an additional 3 years.
 

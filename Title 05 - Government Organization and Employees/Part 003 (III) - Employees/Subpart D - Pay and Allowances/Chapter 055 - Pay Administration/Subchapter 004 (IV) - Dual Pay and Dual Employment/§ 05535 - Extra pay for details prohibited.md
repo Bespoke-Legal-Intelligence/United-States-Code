@@ -54,5 +54,5 @@ Time limitation on claims against Government employees who received dual compens
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 22 section 3971; title 39 section 1001.
+This section is referred to in title 22 sections 3664, 3971; title 39 section 1001.
 

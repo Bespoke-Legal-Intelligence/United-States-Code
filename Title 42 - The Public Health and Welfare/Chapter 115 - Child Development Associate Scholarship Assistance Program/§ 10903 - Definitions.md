@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 &emsp;(3) the term “Secretary” means the Secretary of Health and Human Services; and
 
-&emsp;(4) the term “State” means each of the several States, the District of Columbia, theCommonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, and Palau.
+&emsp;(4) the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, and Palau.
 
 (Pub. L. 99–425, title VI, §604, Sept. 30, 1986, 100 Stat. 976; Pub. L. 101–501, title V, §502, Nov. 3, 1990, 104 Stat. 1256.)
 

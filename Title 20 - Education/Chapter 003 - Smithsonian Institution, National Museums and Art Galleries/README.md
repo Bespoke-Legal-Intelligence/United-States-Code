@@ -105,7 +105,9 @@
 | (a) | Establishment. |
 | (b) | General trustees. |
 | (c) | Advisory Committee on the Arts. |
-| [76i.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076i%20-%20Construction%20of%20building%3B%20fund%20raising%3B%20designation%20as%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts%3B%20location%20and%20selection%20of%20site%E2%80%A6.md) | Construction of building; fund raising; designation as John F. Kennedy Center for the Performing Arts; location and selection of site; acquisition of lands; plans and specifications. |
+| [76i.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076i%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts.md) | John F. Kennedy Center for the Performing Arts. |
+| (a) | In general. |
+| (b) | Parking garage additions and site improvements. |
 | [76j.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076j%20-%20Duties%20of%20Board.md) | Duties of Board. |
 | (a) | Programs, activities, and goals. |
 | (b) | Restriction on additional memorials. |
@@ -116,6 +118,7 @@
 | (d) | Transfer of personnel. |
 | (e) | Review of Board actions. |
 | (f) | Collective bargaining. |
+| (g) | Pedestrian and vehicular access. |
 | 76<i>l.</i> | Official seal, Board vacancies and quorum, trustee powers and obligations, reports, support services, and review and audit. |
 | (a) | Adoption of seal; Board function notwithstanding vacancies; quorum. |
 | (b) | Powers and obligations of Board in respect of trust funds. |

@@ -52,7 +52,7 @@ Memorandum of President of the United States, Apr. 21, 1994, 59 F.R. 21619, prov
 
 Memorandum for the Secretary of State \[and\] the Secretary of Defense
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 504 and 508 \[22 U.S.C. 5854, 5858\] of the FREEDOM Support Act (Public Law 102–511) (the “Act”), title III of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1994 (Public Law 103–87) \[107 Stat. 941\] and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including sections 504 and 508 \[22 U.S.C. 5854, 5858\] of the FREEDOM Support Act (Public Law 102–511) (the “Act”), title III of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1994 (Public Law 103–87) \[107 Stat. 941\] and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
 
 1\. The authorities and duties vested in the President under section 504 of the Act \[22 U.S.C. 5854\] are hereby delegated to the Secretary of State. These authorities and duties shall be exercised in consultation with the Secretary of Defense and other appropriate agencies. The Secretary of State may, to the extent consistent with law, redelegate such authorities and duties and authorize their successive redelegation.
 

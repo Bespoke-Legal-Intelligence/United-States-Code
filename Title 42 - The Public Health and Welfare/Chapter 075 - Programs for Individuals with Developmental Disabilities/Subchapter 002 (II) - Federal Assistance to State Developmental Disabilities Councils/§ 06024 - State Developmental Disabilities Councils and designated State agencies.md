@@ -8,7 +8,7 @@ Each State that receives assistance under this subchapter shall establish and ma
 
 #### (1) Council appointments
 
-&emsp;The members of the Council of a State shall be appointed by the Governor of the State from among the residents of that State. The Governor shall select members of the Council, at his or her discretion, after soliciting recommendations from organizations representing a broad range of individuals with developmental disabilities and individuals interested in individuals with developmental disabilities, including the non-State agency members of the Council. The Council may, at the request of the Governor, coordinate Council and publicinput to the Governor regarding all recommendations. To the extent feasible, the membership of the Council shall be geographically representative of the State and reflect the diversity of the State with respect to race and ethnicity.
+&emsp;The members of the Council of a State shall be appointed by the Governor of the State from among the residents of that State. The Governor shall select members of the Council, at his or her discretion, after soliciting recommendations from organizations representing a broad range of individuals with developmental disabilities and individuals interested in individuals with developmental disabilities, including the non-State agency members of the Council. The Council may, at the request of the Governor, coordinate Council and public input to the Governor regarding all recommendations. To the extent feasible, the membership of the Council shall be geographically representative of the State and reflect the diversity of the State with respect to race and ethnicity.
 
 #### (2) Membership rotation
 
@@ -92,9 +92,9 @@ A Council, through Council members, staff, consultants, contractors, or subgrant
 
 &emsp;&emsp;The Council may conduct activities to enhance coordination with—
 
-&emsp;&emsp;&emsp;(i) other councils or committees, authorized by Federal or State law, concerning individuals with disabilities (such as the State Interagency Coordinating Council under part H of the Individuals with Disabilities Education Act \[20 U.S.C. 1471 et seq.\], the State Rehabilitation Advisory Council and the Statewide Independent Living Council under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the State Mental Health Planning Council under part B of title XIX of the Public Health Service Act \[42 U.S.C. 300x et seq.\] and other similar councils or committees);
+&emsp;&emsp;&emsp;(i) other councils or committees, authorized by Federal or State law, concerningindividuals with disabilities (such as the State Interagency Coordinating Council under part H <sup>1</sup> of the Individuals with Disabilities Education Act, the State Rehabilitation Advisory Council and the Statewide Independent Living Council under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the State Mental Health Planning Council under part B of title XIX of the Public Health Service Act \[42 U.S.C. 300x et seq.\] and other similar councils or committees);
 
-&emsp;&emsp;&emsp;(ii) parent training and information centers under part D of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\] and other federally funded projects that assist parents of children with disabilities; and
+&emsp;&emsp;&emsp;(ii) parent training and information centers under part D <sup>1</sup> of the Individuals with Disabilities Education Act and other federally funded projects that assist parents of children with disabilities; and
 
 &emsp;&emsp;&emsp;(iii) other groups interested in systemic change, capacity building, and advocacy for individuals with disabilities.
 
@@ -246,7 +246,7 @@ Not later than January 1, 1990, each Council shall complete the reviews, analyse
 
 #### (1) Comprehensive review and analysis
 
-&emsp;Each Council shall conduct a comprehensive review and analysis of the eligibility for services provided, and the extent, scope, and effectiveness of, services provided and functions performed by, all State agencies (including agencies that provide public assistance) that affect or that potentially affect the ability of individuals with developmental disabilities to achieve the goals of independence, productivity, and integration and inclusion into the community, including individuals with developmental disabilities attributable to physicalimpairment, mental impairment, or a combination of physical and mental impairments.
+&emsp;Each Council shall conduct a comprehensive review and analysis of the eligibility for services provided, and the extent, scope, and effectiveness of, services provided and functions performed by, all State agencies (including agencies that provide public assistance) that affect or that potentially affect the ability of individuals with developmental disabilities to achieve the goals of independence, productivity, and integration and inclusion into the community, including individuals with developmental disabilities attributable to physical impairment, mental impairment, or a combination of physical and mental impairments.
 
 #### (2) Consumer satisfaction
 
@@ -272,7 +272,7 @@ Not later than January 1, 1990, each Council shall complete the reviews, analyse
 
 The Rehabilitation Act of 1973, referred to in subsecs. (b)(3) and (c)(4)(F)(i), (11)(B), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (b)(3) and (c)(4)(F), (11)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Parts D and H of the Act are classified generally to subchapters IV (§1431 et seq.) and VIII (§1471 et seq.), respectively, of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (b)(3) and (c)(4)(F), (11)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part D of the Act was classified generally to subchapter IV (§1431 et seq.) of chapter 33 of Title 20 and was omitted in the general amendment of that subchapter by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new part D, which is classified generally to subchapter IV (§1451 et seq.) of chapter 33 of Title 20. Part H of the Act was classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of Title 20, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 The Older Americans Act, referred to in subsec. (b)(3), probably means the Older Americans Act of 1965, Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
@@ -311,4 +311,6 @@ Amendment by Pub. L. 100–146 effective Oct. 1, 1987, see section 601 of Pub. L
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1396u, 6001, 6022, 6025a, 6026 of this title; title 29 sections 725, 2212.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

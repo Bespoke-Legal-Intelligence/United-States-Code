@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The national aviation noise policy established under section 47523 of this title shall provide for establishing by regulation a national program for reviewing airport noise and access restrictions on the operation of stage 2 and stage 3 aircraft. The program shall provide for adequate public noticeand opportunity for comment on the restrictions.
+General Requirements.—The national aviation noise policy established under section 47523 of this title shall provide for establishing by regulation a national program for reviewing airport noise and access restrictions on the operation of stage 2 and stage 3 aircraft. The program shall provide for adequate public notice and opportunity for comment on the restrictions.
 
 (b)
 
@@ -34,7 +34,7 @@ Aircraft.—(1) Except as provided in subsection (d) of this section, an airport
 
 &emsp;(E) any other restriction on stage 3 aircraft.
 
-(2) Not later than 180 days after the Secretary receives an airport or aircraft operator's request for approval of an airport noise or access restriction on the operation of a stage 3 aircraft, the Secretary shall approve or disapprove the restriction. The Secretary may approve the restriction only if the Secretary finds on the basis of substantial evidence that—
+(2) Not later than 180 days after the Secretary receives an airport or aircraft operator's requestfor approval of an airport noise or access restriction on the operation of a stage 3 aircraft, the Secretary shall approve or disapprove the restriction. The Secretary may approve the restriction only if the Secretary finds on the basis of substantial evidence that—
 
 &emsp;(A) the restriction is reasonable, nonarbitrary, and nondiscriminatory;
 

@@ -44,7 +44,7 @@ As used in this chapter—
 
 #### (10) Handle
 
-&emsp;The term “handle” means receipt of in-shell pecans by a sheller or first handler, including pecans produced by such sheller or first handler.
+&emsp;The term “handle” means receipt of in-shell pecans by a sheller or first handler, includingpecans produced by such sheller or first handler.
 
 #### (11) Importer
 

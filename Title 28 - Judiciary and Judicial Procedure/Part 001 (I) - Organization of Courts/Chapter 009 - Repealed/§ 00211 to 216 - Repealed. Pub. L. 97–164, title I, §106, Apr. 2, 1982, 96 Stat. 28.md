@@ -18,5 +18,5 @@ Repeal effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a
 
 #### Transfer of Matters and Petitions Pending in United States Court of Customs and Patent Appeals on October 1, 1982
 
-For provisions that any matter pending before the United States Court of Customs and Patent Appeals on Oct. 1, 1982, and that any petition for rehearing, reconsideration, alteration, modification, or other change in any decision of the United States Court of Customs and Patent Appeals rendered prior to Oct. 1, 1982, that has not been determined on that date or that is filed after that date, be determined by the United States Court of Appeals for the Federal Circuit, see section 403(b), (c) of Pub. L. 97–164, formerly set out as a note under section 171 of this title.
+For provisions that any matter pending before the United States Court of Customs and Patent Appeals onOct. 1, 1982, and that any petition for rehearing, reconsideration, alteration, modification, or other change in any decision of the United States Court of Customs and Patent Appeals rendered prior to Oct. 1, 1982, that has not been determined on that date or that is filed after that date, be determined by the United States Court of Appeals for the Federal Circuit, see section 403(b), (c) of Pub. L. 97–164, formerly set out as a note under section 171 of this title.
 

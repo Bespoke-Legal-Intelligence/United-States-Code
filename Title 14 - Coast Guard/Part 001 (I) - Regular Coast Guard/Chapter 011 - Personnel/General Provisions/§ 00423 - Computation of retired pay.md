@@ -14,7 +14,7 @@
 
 (3) In the case of an enlisted member who served as the master chief petty officer of the Coast Guard, retired pay under paragraph (1) shall be computed at the highest rate of basic pay to which the member was entitled while so serving, if that basic pay is greater than the basic pay of the grade or rate to which the member is otherwise entitled at the time of retirement.
 
-(4) In the case of an officer whose retired pay is computed on the pay of a grade for which basic pay is not based upon years of service, retired pay under paragraph (1) shall be computed on the basis of the number of years of service for which the officer would be entitled to credit in the computation of pay on the active list had the officer been serving in the grade of captain at the time of retirement.
+(4) In the case of an officer whose retired pay is computed on the pay of a grade for which basic pay is not based upon years of service, retired pay under paragraph (1) shall be computed on the basis of the number of years of service forwhich the officer would be entitled to credit in the computation of pay on the active list had the officer been serving in the grade of captain at the time of retirement.
 
 (b) The retired pay of a member who first became a member of a uniformed service (as defined in section 101 of title 10) on or after September 8, 1980, is determined by multiplying—
 
@@ -22,7 +22,7 @@
 
 &emsp;(2) the retired pay multiplier determined under section 1409 of title 10 for the number of years of service that may be credited to the member under section 1405 of such title.
 
-(c)(1) In computing for the purpose of subsection (a) or (b) the number of years of servicethat may be credited to a member under section 1405 of title 10—
+(c)(1) In computing for the purpose of subsection (a) or (b) the number of years of service that may be credited to a member under section 1405 of title 10—
 
 &emsp;(A) each full month of service that is in addition to the number of full years of service creditable to the member shall be counted as 1/12 of a year; and
 

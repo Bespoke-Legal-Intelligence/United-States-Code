@@ -24,18 +24,21 @@
 | [1410\.](%C2%A7%2001410%20-%20Venue%20of%20cases%20ancillary%20to%20foreign%20proceedings.md) | Venue of cases ancillary to foreign proceedings. |
 | [1411\.](%C2%A7%2001411%20-%20Jury%20trials.md) | Jury trials. |
 | [1412\.](%C2%A7%2001412%20-%20Change%20of%20venue.md) | Change of venue. |
+| [1413\.](%C2%A7%2001413%20-%20Venue%20of%20cases%20under%20chapter%205%20of%20title%203.md) | Venue of cases under chapter 5 of title 3. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1988—Pub. L. 100–702, title X, §1001(a), Nov. 19, 1988, 102 Stat. 4664, struck out item 1393 “Divisions; single defendant; defendants in different divisions”.
+<b>1996</b>—Pub. L. 104–331, §3(b)(2)(B), Oct. 26, 1996, 110 Stat. 4069, which directed amendment of table of sections for chapter 37 by adding item 1413 at end, was executed by adding item 1413 at end of table of sections for chapter 87 to reflect the probable intent of Congress.
 
-1984—Pub. L. 98–353, title I, §102(b), July 10, 1984, 98 Stat. 335, added items 1408 to 1412.
+<b>1988</b>—Pub. L. 100–702, title X, §1001(a), Nov. 19, 1988, 102 Stat. 4664, struck out item 1393 “Divisions; single defendant; defendants in different divisions”.
 
-1978—Pub. L. 95–598, title II, §240(b), Nov. 6, 1978, 92 Stat. 2668, directed the addition of item 1408, “Bankruptcy appeals”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1984</b>—Pub. L. 98–353, title I, §102(b), July 10, 1984, 98 Stat. 335, added items 1408 to 1412.
 
-1968—Pub. L. 90–296, §2, Apr. 29, 1968, 82 Stat. 110, added item 1407.
+<b>1978</b>—Pub. L. 95–598, title II, §240(b), Nov. 6, 1978, 92 Stat. 2668, directed the addition of item 1408, “Bankruptcy appeals”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+<b>1968</b>—Pub. L. 90–296, §2, Apr. 29, 1968, 82 Stat. 110, added item 1407.
 
 #### Federal Rules of Criminal Procedure
 
@@ -80,3 +83,4 @@ This chapter is referred to in title 42 section 3612.
 - [&sect; 01410 - Venue of cases ancillary to foreign proceedings](%C2%A7%2001410%20-%20Venue%20of%20cases%20ancillary%20to%20foreign%20proceedings.md)
 - [&sect; 01411 - Jury trials](%C2%A7%2001411%20-%20Jury%20trials.md)
 - [&sect; 01412 - Change of venue](%C2%A7%2001412%20-%20Change%20of%20venue.md)
+- [&sect; 01413 - Venue of cases under chapter 5 of title 3](%C2%A7%2001413%20-%20Venue%20of%20cases%20under%20chapter%205%20of%20title%203.md)

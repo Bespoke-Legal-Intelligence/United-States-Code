@@ -40,7 +40,7 @@ Pub. L. 104–275, title V, §504, Oct. 9, 1996, 110 Stat. 3341, provided that:
 
 “(a)
 
-Authority.—The Secretary of Veterans Affairs, acting through the Under Secretary for Benefits, mayconduct a pilot program under this section under which examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits may be made by persons other than employees of the Department of Veterans Affairs. Any such examination shall be performed pursuant to contracts entered into by the Under Secretary for Benefits with those persons.
+Authority.—The Secretary of Veterans Affairs, acting through the Under Secretary for Benefits, may conduct a pilot program under this section under which examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits may be made by persons other than employees of the Department of Veterans Affairs. Any such examination shall be performed pursuant to contracts entered into by the Under Secretary for Benefits with those persons.
 
 “(b)
 
@@ -56,7 +56,7 @@ Report to Congress.—Not later than three years after the date of the enactment
 
 #### Expedited Treatment of Remanded Claims
 
-Pub. L. 103–446, title III, §302, Nov. 2, 1994, 108 Stat. 4658, provided that: “The Secretary of Veterans Affairs shall take such actions as may be necessary to provide for the expeditious treatment, by the Board of Veterans’ Appeals and by the regional offices of the Veterans Benefits Administration, of any claim that has been remanded by the Board of Veterans’ Appeals or by the United States Court of Veterans Appeals for additional development or other appropriate action.”
+Pub. L. 103–446, title III, §302, Nov. 2, 1994, 108 Stat. 4658, provided that: “The Secretary of Veterans Affairsshall take such actions as may be necessary to provide for the expeditious treatment, by the Board of Veterans’ Appeals and by the regional offices of the Veterans Benefits Administration, of any claim that has been remanded by the Board of Veterans’ Appeals or by the United States Court of Veterans Appeals for additional development or other appropriate action.”
 
 #### Veterans’ Claims Adjudication Commission
 
@@ -234,5 +234,5 @@ Availability.—Any sums appropriated to the commission shall remain available u
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5110 of this title.
+This section is referred to in sections 1806, 5110 of this title.
 

@@ -18,7 +18,7 @@ As used in this chapter—
 
 &emsp;&emsp;(E) the Board, when the order was entered by the Surface Transportation Board.
 
-(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §3, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 100–430, §11(b), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(1), Sept. 3, 1992, 106 Stat. 975 Pub. L. 104–88, title III, §305(d)(1)–(4), Dec. 29, 1995, 109 Stat. 945.)
+(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §3, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 100–430, §11(b), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(1), Sept. 3, 1992, 106 Stat. 975; Pub. L. 104–88, title III, §305(d)(1)–(4), Dec. 29, 1995, 109 Stat. 945.)
 
 Historical and Revision Notes
 
@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1031.
 
@@ -44,15 +46,15 @@ Section 812 of the Fair Housing Act, referred to in par. (3)(D), is classified t
 
 #### Amendments
 
-1995—Par. (3)(A). Pub. L. 104–88, §305(d)(1), struck out “the Interstate Commerce Commission,” after “Maritime Commission,”.
+<b>1995</b>—Par. (3)(A). Pub. L. 104–88, §305(d)(1), struck out “the Interstate Commerce Commission,” after “Maritime Commission,”.
 
 Par. (3)(E). Pub. L. 104–88, §305(d)(2)–(4), added subpar. (E).
 
-1992—Par. (3)(B). Pub. L. 102–365 inserted “or the Secretary of Transportation” after “Secretary of Agriculture”.
+<b>1992</b>—Par. (3)(B). Pub. L. 102–365 inserted “or the Secretary of Transportation” after “Secretary of Agriculture”.
 
-1988—Par. (3)(D). Pub. L. 100–430 added subpar. (D).
+<b>1988</b>—Par. (3)(D). Pub. L. 100–430 added subpar. (D).
 
-1975—Par. (3)(A). Pub. L. 93–584 inserted reference to the Interstate Commerce Commission.
+<b>1975</b>—Par. (3)(A). Pub. L. 93–584 inserted reference to the Interstate Commerce Commission.
 
 #### Effective Date of 1995 Amendment
 
@@ -60,7 +62,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–430 effective on the 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as a note under section 3601 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 100–430 effective on the 180th day beginning after Sept. 13, 1988, see section 13(a) ofPub. L. 100–430, set out as a note under section 3601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1975 Amendment
 

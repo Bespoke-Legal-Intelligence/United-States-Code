@@ -26,7 +26,7 @@
 
 &emsp;The reform and improvement plan shall include, in addition to the requirements described above, specific provisions for—
 
-&emsp;&emsp;(A) review and incorporation of the National Education Goals and the voluntarynational content standards and voluntary national student performance standards, provided that such review shall include the issues of cultural and language differences; and
+&emsp;&emsp;(A) review and incorporation of the National Education Goals and the voluntary national content standards and voluntary national student performance standards, provided that such review shall include the issues of cultural and language differences; and
 
 &emsp;&emsp;(B) provision for coordination of the efforts of the Bureau with the efforts for school improvement of the States and local educational agencies in which the schools funded by the Bureau are located, including the development of the partnerships outlined in section 5886(g)(2) of this title.
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(VI) The organization representing the majority of contract or grant schools funded by the Bureau serving students on the Navajo reservation.
 
-&emsp;&emsp;&emsp;(VII) The organization representing the school boards required by statute for schools operated by the Bureau not serving students on the Navajo reservation.
+&emsp;&emsp;&emsp;(VII) The organization representing the school boards required by statute forschools operated by the Bureau not serving students on the Navajo reservation.
 
 &emsp;&emsp;&emsp;(VIII) The organization representing the school boards required by statute for schools funded by the Bureau serving students on the Navajo reservation.
 
@@ -88,7 +88,7 @@
 
 #### (3) Feasibility study purpose
 
-&emsp;(A) The purpose of the feasibility analysis provided for in paragraph (1)(B) shall be to determine whether it is feasible and desirable for the Bureau to replace or modify the weightedstudent unit formula system in effect on March 31, 1994.
+&emsp;(A) The purpose of the feasibility analysis provided for in paragraph (1)(B) shall be to determine whether it is feasible and desirable for the Bureau to replace or modify the weighted student unit formula system in effect on March 31, 1994.
 
 &emsp;(B) For the purposes of the feasibility analysis described in paragraph (1)(B), the term “school-based budget system” means a system based upon an initial determination, at each school site, of the number of students who shall be served at the site, the needs of those students, the standards which will best meet those needs (including any standards or conditions reflecting local community input and such community's program), the personnel profile necessary to establish such program and the cost (determined on an actual basis) of funding such a program. Such a system shall include procedures to aggregate the determinations for each school site to determine the amount needed to fund all Bureau funded schools, to prepare a budget submission based upon such aggregate, and to provide for a mechanism for distributing such sums as may be appropriated based upon the determination at each school site.
 

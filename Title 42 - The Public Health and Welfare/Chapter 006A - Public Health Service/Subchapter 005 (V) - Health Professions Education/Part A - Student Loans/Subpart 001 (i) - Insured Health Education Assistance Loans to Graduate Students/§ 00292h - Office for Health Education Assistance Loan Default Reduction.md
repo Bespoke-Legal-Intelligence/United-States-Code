@@ -1,0 +1,68 @@
+### §292h. Office for Health Education Assistance Loan Default Reduction
+
+#### (a) Establishment
+
+The Secretary shall establish, within the Division of Student Assistance of the Bureau of Health Professions, an office to be known as the Office for Health Education Assistance Loan Default Reduction (in this section referred to as the “Office”).
+
+#### (b) Purpose and functions
+
+It shall be the purpose of the Office to achieve a reduction in the number and amounts of defaults on loans guaranteed under this subpart. In carrying out such purpose the Office shall—
+
+&emsp;(1) conduct analytical and evaluative studies concerning loans and loan defaults;
+
+&emsp;(2) carry out activities designed to reduce loan defaults;
+
+&emsp;(3) respond to special circumstances that may exist in the financial lending environment that may lead to loan defaults;
+
+&emsp;(4) coordinate with other Federal entities that are involved with student loan programs, including—
+
+&emsp;&emsp;(A) with respect to the Department of Education, in the development of a single student loan application form, a single student loan deferment form, a single disability form, and a central student loan database; and
+
+&emsp;&emsp;(B) with respect to the Department of Justice, in the recovery of payments from health professionals who have defaulted on loans guaranteed under this subpart;
+
+&emsp;(5) provide technical assistance to borrowers, lenders, holders, and institutions concerning deferments and collection activities; and
+
+&emsp;(6) prepare and submit a report not later than March 31, 1993, and annually, thereafter, to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives concerning—
+
+&emsp;&emsp;(A) the default rates for each—
+
+&emsp;&emsp;&emsp;(i) institution described in section 292<i>o</i>(1) of this title that is participating in the loan programs under this subpart;
+
+&emsp;&emsp;&emsp;(ii) lender participating in the loan program under this subpart; and
+
+&emsp;&emsp;&emsp;(iii) loan holder under this subpart;
+
+&emsp;&emsp;(B) the total amounts recovered pursuant to section 292f(b) of this title during the preceding fiscal year; and
+
+&emsp;&emsp;(C) a plan for improving the extent of such recoveries during the current fiscal year.
+
+#### (c) Additional duties
+
+In conjunction with the report submitted under subsection (b) of this section, the Office shall—
+
+&emsp;(1) compile, and publish in the Federal Register, a list of the borrowers who are in default under this subpart; and
+
+&emsp;(2) send the report and notices of default with respect to these borrowers to relevant Federal agencies and to schools, school associations, professional and specialty associations, State licensing boards, hospitals with which such borrowers may be associated, and any other relevant organizations.
+
+#### (d) Allocation of funds for Office
+
+In the case of amounts reserved under section 292i(a)(2)(B) of this title for obligation under this subsection, the Secretary may obligate the amounts for the purpose of administering the Office, including 7 full-time equivalent employment positions for such Office. With respect to such purpose, amounts made available under the preceding sentence are in addition to amounts made available to the Health Resources and Services Administration for program management for the fiscal year involved. With respect to such employment positions, the positions are in addition to the number of full-time equivalent employment positions that otherwise is authorized for the Department of Health and Human Services for the fiscal year involved.
+
+(July 1, 1944, ch. 373, title VII, §709, as added Oct. 13, 1992, Pub. L. 102–408, title I, §102, 106 Stat. 2006.)
+
+#### Prior Provisions
+
+A prior section 292h, act July 1, 1944, ch. 373, title VII, §708, as added Oct. 12, 1976, Pub. L. 94–484, title II, §206, 90 Stat. 2250; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(a), 91 Stat. 389; Nov. 9, 1978, Pub. L. 95–623, §12(a), 92 Stat. 3457; Dec. 11, 1980, Pub. L. 96–511, §4(c), 94 Stat. 2826; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2719, 95 Stat. 914; Oct. 22, 1985, Pub. L. 99–129, title II, §220(b), 99 Stat. 543; Nov. 4, 1988, Pub. L. 100–607, title VI, §§616(c)(1), 626, 102 Stat. 3139, 3144; Nov. 18, 1988, Pub. L. 100–690, title II, §2615(a), 102 Stat. 4239; Aug. 16, 1989, Pub. L. 101–93, §5(m), 103 Stat. 613, related to health professions data, prior to the general revision of this subchapter by Pub. L. 102–408. See section 295k of this title.
+
+Another prior section 292h, act July 1, 1944, ch. 373, title VII, §709, as added July 30, 1956, ch. 779, §2, 70 Stat. 720; amended Sept. 24, 1963, Pub. L. 88–129, §2(a), 77 Stat. 164; Nov. 18, 1971, Pub. L. 92–157, title I, §102(k)(2)(C), 85 Stat. 437, provided for issuance of general, administrative, and other regulations for implementation of grants for construction of health research facilities, prior to repeal by Pub. L. 94–484, title II, §201(a), Oct. 12, 1976, 90 Stat. 2246.
+
+A prior section 709 of act July 1, 1944, was classified to section 292i of this title prior to repeal by Pub. L. 97–35, title XXVII, §2720(a), Aug. 13, 1981, 95 Stat. 915.
+
+#### Change of Name
+
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 292i of this title.
+

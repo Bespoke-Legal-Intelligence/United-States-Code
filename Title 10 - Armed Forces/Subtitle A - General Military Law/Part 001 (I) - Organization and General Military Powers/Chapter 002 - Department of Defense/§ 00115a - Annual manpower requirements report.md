@@ -62,7 +62,7 @@
 
 \[(g) Redesignated (e)\]
 
-(h) In each such report, the Secretary shall include a separate report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reserve component and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following:
+(h) In each such report, the Secretary shall include a separate report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reserve component and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following (displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians):
 
 &emsp;(1) The number of military technicians required to be employed (as specified in accordance with Department of Defense procedures), the number authorized to be employed under Department of Defense personnel procedures, and the number actually employed.
 
@@ -72,15 +72,17 @@
 
 &emsp;&emsp;(B) the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title).
 
-&emsp;(3) Within each of the numbers under paragraph (1), the numbers of military technicians who are not themselves members of a reserve component (so-called “single-status” technicians), with a further display of such numbers as specified in paragraph (2).
-
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 115(b)(1)(D), (3), (c)(2) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments
+
+1997—Subsec. (h). Pub. L. 105–85, §522(i)(2)(A), inserted “(displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians)” after “of the following” in introductory provisions.
+
+Subsec. (h)(3). Pub. L. 105–85, §522(i)(2)(B), struck out par. (3) which read as follows: “Within each of the numbers under paragraph (1), the numbers of military technicians who are not themselves members of a reserve component (so-called ‘single-status’ technicians), with a further display of such numbers as specified in paragraph (2).”
 
 1996—Subsec. (b)(2)(C). Pub. L. 104–106, §1061(d)(1), struck out subpar. (C) which read as follows: “Area of deployment and illustrative areas of potential deployment, including a description of any United States commitment to defend such areas.”
 

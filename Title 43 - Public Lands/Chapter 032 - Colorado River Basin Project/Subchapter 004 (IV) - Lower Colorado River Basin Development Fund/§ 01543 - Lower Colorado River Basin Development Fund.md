@@ -30,7 +30,7 @@ All moneys collected and credited to the development fund pursuant to subsection
 
 #### (e) Appropriation by Congress required for construction of works
 
-Revenues credited to the development fund shall not be available for construction of the works comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
+Revenues credited to the development fund shall not be available for construction of theworks comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
 
 #### (f) Return of costs and interest
 

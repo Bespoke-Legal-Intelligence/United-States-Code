@@ -24,5 +24,5 @@ The words “Before November 1, 1992” are omitted as obsolete. The words “pr
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 46301, 46316 of this title.
+This section is referred to in section 46301 of this title.
 

@@ -2,7 +2,7 @@
 
 The Secretary of Labor shall make reasonable regulations for contractors and subcontractors engaged in the construction, prosecution, completion or repair of public buildings, public works or buildings or works financed in whole or in part by loans or grants from the United States, including a provision that each contractor and subcontractor shall furnish weekly a statement with respect to the wages paid each employee during the preceding week. Section 1001 of title 18 shall apply to such statements.
 
-(June 13, 1934, ch. 482, §2, 48 Stat. 948; May 24, 1949, ch. 139, §134, 63 Stat. 108; Aug. 28, 1958, Pub. L. 85–800, §12, 72 Stat. 967.)
+(June 13, 1934, ch. 482, §2, 48 Stat. 948; May 24, 1949, ch. 139, §134, 63 Stat. 108; Pub. L. 85–800, §12, Aug. 28, 1958, 72 Stat. 967.)
 
 #### Amendments
 

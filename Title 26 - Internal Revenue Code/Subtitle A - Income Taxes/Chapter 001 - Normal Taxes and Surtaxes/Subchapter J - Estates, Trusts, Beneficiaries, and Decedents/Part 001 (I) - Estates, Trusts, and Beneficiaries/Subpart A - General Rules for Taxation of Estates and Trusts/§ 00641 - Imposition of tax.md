@@ -1,0 +1,136 @@
+### §641. Imposition of tax
+
+#### (a) Application of tax
+
+The tax imposed by section 1(e) shall apply to the taxable income of estates or of any kind of property held in trust, including—
+
+&emsp;(1) income accumulated in trust for the benefit of unborn or unascertained persons or persons with contingent interests, and income accumulated or held for future distribution under the terms of the will or trust;
+
+&emsp;(2) income which is to be distributed currently by the fiduciary to the beneficiaries, and income collected by a guardian of an infant which is to be held or distributed as the court may direct;
+
+&emsp;(3) income received by estates of deceased persons during the period of administration or settlement of the estate; and
+
+&emsp;(4) income which, in the discretion of the fiduciary, may be either distributed to the beneficiaries or accumulated.
+
+#### (b) Computation and payment
+
+The taxable income of an estate or trust shall be computed in the same manner as in the case of an individual, except as otherwise provided in this part. The tax shall be computed on such taxable income and shall be paid by the fiduciary. For purposes of this subsection, a foreign trust or foreign estate shall be treated as a nonresident alien individual who is not present in the United States at any time.
+
+#### (c) Exclusion of includible gain from taxable income
+
+#### (1) General rule
+
+&emsp;For purposes of this part, the taxable income of a trust does not include the amount of any includible gain as defined in section 644(b) <sup>1</sup> reduced by any deductions properly allocable thereto.
+
+#### (2) Cross reference
+
+&emsp;&emsp;<b>For the taxation of any includible gain, see section 644.</b><b><sup>1</sup></b>
+
+#### (d) Special rules for taxation of electing small business trusts
+
+#### (1) In general
+
+&emsp;For purposes of this chapter—
+
+&emsp;&emsp;(A) the portion of any electing small business trust which consists of stock in 1 or more S corporations shall be treated as a separate trust, and
+
+&emsp;&emsp;(B) the amount of the tax imposed by this chapter on such separate trust shall be determined with the modifications of paragraph (2).
+
+#### (2) Modifications
+
+&emsp;For purposes of paragraph (1), the modifications of this paragraph are the following:
+
+&emsp;&emsp;(A) Except as provided in section 1(h), the amount of the tax imposed by section 1(e) shall be determined by using the highest rate of tax set forth in section 1(e).
+
+&emsp;&emsp;(B) The exemption amount under section 55(d) shall be zero.
+
+&emsp;&emsp;(C) The only items of income, loss, deduction, or credit to be taken into account are the following:
+
+&emsp;&emsp;&emsp;(i) The items required to be taken into account under section 1366.
+
+&emsp;&emsp;&emsp;(ii) Any gain or loss from the disposition of stock in an S corporation.
+
+&emsp;&emsp;&emsp;(iii) To the extent provided in regulations, State or local income taxes or administrative expenses to the extent allocable to items described in clauses (i) and (ii).
+
+> &emsp;&emsp;No deduction or credit shall be allowed for any amount not described in this paragraph, and no item described in this paragraph shall be apportioned to any beneficiary.
+
+&emsp;&emsp;(D) No amount shall be allowed under paragraph (1) or (2) of section 1211(b).
+
+#### (3) Treatment of remainder of trust and distributions
+
+&emsp;For purposes of determining—
+
+&emsp;&emsp;(A) the amount of the tax imposed by this chapter on the portion of any electing small business trust not treated as a separate trust under paragraph (1), and
+
+&emsp;&emsp;(B) the distributable net income of the entire trust,
+
+> &emsp;the items referred to in paragraph (2)(C) shall be excluded. Except as provided in the preceding sentence, this subsection shall not affect the taxation of any distribution from the trust.
+
+#### (4) Treatment of unused deductions where termination of separate trust
+
+&emsp;If a portion of an electing small business trust ceases to be treated as a separate trust under paragraph (1), any carryover or excess deduction of the separate trust which is referred to in section 642(h) shall be taken into account by the entire trust.
+
+#### (5) Electing small business trust
+
+&emsp;For purposes of this subsection, the term “electing small business trust” has the meaning given such term by section 1361(e)(1).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 215; Dec. 30, 1969, Pub. L. 91–172, title VIII, §803(d)(3), 83 Stat. 684; Oct. 4, 1976, Pub. L. 94–455, title VII, §701(e)(2), 90 Stat. 1579; May 23, 1977, Pub. L. 95–30, title I, §101(d)(8), 91 Stat. 134; Aug. 20, 1996, Pub. L. 104–188, title I, §1302(d), 110 Stat. 1778; Aug. 5, 1997, Pub. L. 105–34, title XVI, §1601(i)(3)(B), 111 Stat. 1093.)
+
+#### References in Text
+
+Section 644 of this title, referred to in subsec. (c), was repealed and section 645 of this title was renumbered section 644 by Pub. L. 105–34, title V, §507(b)(1), Aug. 5, 1997, 111 Stat. 856.
+
+#### Amendments
+
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 inserted at end “For purposes of this subsection, a foreign trust or foreign estate shall be treated as a nonresident alien individual who is not present in the United States at any time.”
+
+<b>1996</b>—Subsec. (d). Pub. L. 104–188 added subsec. (d).
+
+<b>1977</b>—Subsec. (a). Pub. L. 95–30 substituted “section 1(e)” for “section 1(d)” in introductory provisions.
+
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 added subsec. (c).
+
+<b>1969</b>—Subsec. (a). Pub. L. 91–172 substituted “The tax imposed by section 1(d)” for “The taxes imposed by this chapter on individuals”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Section 1317(a) of title I of Pub. L. 104–188 provided that: “Except as otherwise provided in this subtitle \[subtitle C (§§1301–1317) of title I of Pub. L. 104–188\], the amendments made by this subtitle \[amending this section and sections 170, 404, 512, 1042, 1237, 1361, 1362, 1366 to 1368, 1371, 1375, 1377, 1504, 6037, and 6233 of this title and repealing sections 6241 to 6245 of this title\] shall apply to taxable years beginning after December 31, 1996.”
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–455 applicable to transfers in trust made after May 21, 1976, see section 701(h) of Pub. L. 94–455, set out as a note under section 667 of this title.
+
+#### Effective Date of 1969 Amendment
+
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1970, see section 803(f) of Pub. L. 91–172, set out as a note under section 1 of this title.
+
+#### Cross References
+
+Charitable trusts subject to tax, see section 511 of this title.
+
+Income from an interest in an estate or trust as gross income, see section 61 of this title.
+
+Rates of tax on individuals, see section 1 of this title.
+
+Returns—
+
+&emsp;Estates and trusts, see section 6012 of this title.
+
+&emsp;Joint fiduciaries, see section 6012 of this title.
+
+Taxable income defined, see section 63 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1361 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

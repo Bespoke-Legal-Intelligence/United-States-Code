@@ -28,7 +28,7 @@ Except as provided in subsections (b), (c), and (d) of this section and sections
 
 &emsp;This subchapter does not authorize any law enforcement agency or officer—
 
-&emsp;&emsp;(A) to require any specific design of equipment, facilities, services, features, or system configurations to be adopted by any providerof a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services; or
+&emsp;&emsp;(A) to require any specific design of equipment, facilities, services, features, or system configurations to be adopted by any provider of a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services; or
 
 &emsp;&emsp;(B) to prohibit the adoption of any equipment, facility, service, or feature by any provider of a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services.
 

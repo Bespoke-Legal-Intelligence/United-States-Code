@@ -4,7 +4,7 @@ Section 52, Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 634, provided for 
 
 Similar provisions were contained in the following prior appropriations acts:
 
-June 27, 1956, ch. 453, 70 Stat. 359, as amended Sept. 29, 1965, Pub. L. 89–211, §1(b), 79 Stat. 857.
+June 27, 1956, ch. 453, 70 Stat. 359, as amended Pub. L. 89–211, §1(b), Sept. 29, 1965, 79 Stat. 857.
 
 Aug. 5, 1955, ch. 568, 69 Stat. 504.
 
@@ -26,7 +26,7 @@ Section 53, Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 634, provided for 
 
 Similar provisions were contained in the following prior appropriations acts:
 
-June 27, 1956, ch. 453, 70 Stat. 359, as amended July 27, 1965, Pub. L. 89–90, 79 Stat. 269; Dec. 12, 1969, Pub. L. 91–145, 83 Stat. 343.
+June 27, 1956, ch. 453, 70 Stat. 359, as amended Pub. L. 89–90, July 27, 1965, 79 Stat. 269; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 343.
 
 Aug. 5, 1955, ch. 568, 69 Stat. 504.
 

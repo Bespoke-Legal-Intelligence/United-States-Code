@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose the admission of Cuba as a member of such institution until the President submits a determination under section 6063(c)(3) of this title that a democratically elected government in Cuba is in power.
+&emsp;Except as provided in paragraph (2), the Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose the admission of Cuba as a member of such institution until the President submits a determination under section 6063(c)(3) of this title that ademocratically elected government in Cuba is in power.
 
 #### (2) Transition government
 

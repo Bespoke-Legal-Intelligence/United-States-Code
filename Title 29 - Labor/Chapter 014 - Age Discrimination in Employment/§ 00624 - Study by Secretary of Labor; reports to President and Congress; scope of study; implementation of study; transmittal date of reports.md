@@ -8,7 +8,7 @@
 
 &emsp;(C) a determination of the feasibility of raising such limitation above 70 years of age; and
 
-&emsp;(D) an examination of the effect of the exemption contained in section 631(c) of this title, relating to certain executive employees, and the exemption contained in section 631(d) of this title, relating to tenured teaching personnel.
+&emsp;(D) an examination of the effect of the exemption contained in section 631(c) of thistitle, relating to certain executive employees, and the exemption contained in section 631(d) of this title, relating to tenured teaching personnel.
 
 (2) The Secretary may undertake the study required by paragraph (1) of this subsection directly or by contract or other arrangement.
 

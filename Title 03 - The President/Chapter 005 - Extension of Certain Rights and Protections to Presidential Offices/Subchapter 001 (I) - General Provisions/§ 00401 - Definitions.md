@@ -58,7 +58,7 @@ Section 4 of Pub. L. 104–331 provided that:
 
 “(a)
 
-In General.—Each provision of Federal law that is made applicable to the legislative branch under section 102 of the Congressional Accountability Act of 1995 (2 U.S.C. 1302), and that is enacted later than 12 monthsafter the date of the enactment of this Act \[Oct. 26, 1996\], shall be deemed to apply with respect to ‘employing offices’ and ‘covered employees’ (within the meaning of section 401 of title 3, United States Code, as added by this Act), unless such law specifically provides otherwise and expressly cites this section.
+In General.—Each provision of Federal law that is made applicable to the legislative branch under section 102 of the Congressional Accountability Act of 1995 (2 U.S.C. 1302), and that is enacted later than 12 months after the date of the enactment of this Act \[Oct. 26, 1996\], shall be deemed to apply with respect to ‘employing offices’ and ‘covered employees’ (within the meaning of section 401 of title 3, United States Code, as added by this Act), unless such law specifically provides otherwise and expressly cites this section.
 
 “(b)
 

@@ -12,7 +12,7 @@ As a condition of granting or continuing pension under section 1521, 1541, or 15
 
 &emsp;&emsp;(C) in the case of a surviving child, an estimate for the then current year of the annual income of any person with whom such child is residing who is legally responsible for such child's support and of any expected increase in the value of the corpus of the estate of such person;
 
-&emsp;(3) shall require that any such applicant or recipient promptly notify the Secretary whenever there is a material change in the annual income of such applicant or recipient (or of any such spouse or dependent child) or a material change in the value of the corpus of the estate of such applicant or recipient (or of any such spouse or dependent child), and in the case of a surviving child, a material change in the annual income or value of the corpus of the estate of any person with whom such child is residing who is legally responsible for such child's support; and
+&emsp;(3) shall require that any such applicant or recipient promptly notify the Secretary whenever there is a material change in the annual income of such applicant or recipient (or of any such spouse or dependent child) or a material change in the value of the corpus of the estate of such applicant or recipient (or of any such spouse or dependent child), and in the case of a surviving child, a material change inthe annual income or value of the corpus of the estate of any person with whom such child is residing who is legally responsible for such child's support; and
 
 &emsp;(4) shall require that any such applicant or recipient applying for or in receipt of increased pension on account of a person who is a spouse or child of such applicant or recipient promptly notify the Secretary if such person ceases to meet the applicable definition of spouse or child.
 
@@ -50,7 +50,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section802(f) of Pub. L. 96–466, set out as a note under section 5314 of this title.
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as a note under section 5314 of this title.
 
 #### Effective Date of 1978 Amendment
 

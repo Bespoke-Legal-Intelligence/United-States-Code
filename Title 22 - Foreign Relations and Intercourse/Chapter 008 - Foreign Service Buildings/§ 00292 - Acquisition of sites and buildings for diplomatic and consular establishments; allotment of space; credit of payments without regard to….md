@@ -8,7 +8,7 @@ The Secretary of State is empowered to acquire by purchase or construction in th
 
 Payments made for rent or otherwise by the United States from funds other than appropriations made to carry out this chapter may be credited toward the acquisition of property under this chapter without regard to limitations of amounts imposed by this chapter.
 
-(May 7, 1926, ch. 250, §1, 44 Stat. 403; May 29, 1928, ch. 876, §1, 45 Stat. 971; Aug. 12, 1963, Pub. L. 88–94, §2(b), 77 Stat. 122; Oct. 10, 1966, Pub. L. 89–636, §2, 80 Stat. 881; Aug. 17, 1977, Pub. L. 95–105, title I, §106(a), 91 Stat. 845.)
+(May 7, 1926, ch. 250, §1, 44 Stat. 403; May 29, 1928, ch. 876, §1, 45 Stat. 971; Pub. L. 88–94, §2(b), Aug. 12, 1963, 77 Stat. 122; Pub. L. 89–636, §2, Oct. 10, 1966, 80 Stat. 881; Pub. L. 95–105, title I, §106(a), Aug. 17, 1977, 91 Stat. 845.)
 
 #### Amendments
 

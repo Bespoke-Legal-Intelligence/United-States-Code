@@ -60,7 +60,7 @@ Exemptions.—On application of a manufacturer, the Secretary shall exempt the m
 
 (i)
 
-Limitation on Sale or Lease.—(1) If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer has provided to a dealer notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
+Limitation on Sale or Lease.—(1) If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer has provided to a dealer notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time ofnotification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer may sell or lease the motor vehicle or item of replacement equipment only if—
 
 &emsp;(A) the defect or noncompliance is remedied as required by this section before delivery under the sale or lease; or
 

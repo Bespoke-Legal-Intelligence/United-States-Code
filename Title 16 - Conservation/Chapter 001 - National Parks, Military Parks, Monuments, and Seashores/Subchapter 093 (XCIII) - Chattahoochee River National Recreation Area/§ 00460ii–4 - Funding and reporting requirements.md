@@ -2,7 +2,7 @@
 
 #### (a) Amounts authorized for expending for acquisition of lands and interests in lands
 
-From the appropriations authorized for fiscal year 1978 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended \[16 U.S.C. 460<i>l</i>–4 et seq.\], not more than $79,400,000 may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this subchapter and chapter 43 of this title. For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–9(a)(3)), the statutory ceiling on appropriations under this subsection shall be deemed to be a statutory ceiling contained in a provision of law enacted prior to the convening of the Ninety-sixth Congress.
+From the appropriations authorized for fiscal year 1978 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended \[16 U.S.C. 460<i>l</i>–4 et seq.\], not more than $79,400,000 may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this subchapter and chapter 43 of this title. For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–9(a)(3)), the statutory ceiling on appropriations under this subsection shall be deemed to be a statutory ceiling contained in aprovision of law enacted prior to the convening of the Ninety-sixth Congress.
 
 #### (b) Authorization of appropriations for development of essential public services
 

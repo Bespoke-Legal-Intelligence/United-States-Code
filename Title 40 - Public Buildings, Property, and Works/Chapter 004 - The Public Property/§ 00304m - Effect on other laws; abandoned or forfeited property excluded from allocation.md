@@ -12,7 +12,7 @@ The following classes of property shall not be subject to allocation under secti
 
 &emsp;(4) such other classes or kinds of property as the Administrator, with the approval of the Secretary of the Treasury, may deem in the public interest, and may by rules and regulations provide.
 
-(Aug. 27, 1935, ch. 740, title III, §308, 49 Stat. 880; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380; Oct. 27, 1970, Pub. L. 91–513, title III, §1102(<i>o</i>), 84 Stat. 1293.)
+(Aug. 27, 1935, ch. 740, title III, §308, 49 Stat. 880; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380; Pub. L. 91–513, title III, §1102(<i>o</i>), Oct. 27, 1970, 84 Stat. 1293.)
 
 #### References in Text
 
@@ -22,7 +22,7 @@ The Controlled Substances Act, referred to in par. (2), is title II of Pub. L. 9
 
 #### Codification
 
-In par. (3), “section 5845 of title 26” substituted for “section 2733 of title 26” on authority of section 7852(b) of Title 26, Internal Revenue Code, which provides that a reference in other laws to the Internal Revenue Code of 1939 is deemed a reference to corresponding provision of the Internal Revenue Code of 1986.
+In par. (3), “section 5845 of title 26” substituted for “section 2733 of title 26” on authority of section 7852(b)of Title 26, Internal Revenue Code, which provides that a reference in other laws to the Internal Revenue Code of 1939 is deemed a reference to corresponding provision of the Internal Revenue Code of 1986.
 
 #### Amendments
 

@@ -26,7 +26,7 @@
 
 &emsp;(ii) a response within a reasonable time by the person receiving the request for disclosure; and
 
-&emsp;(iii) the submission of the response by the defendant to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the defendant, together with a request for a written statement that the process claimed in any patent disclosed in the response is not used to produce such product.
+&emsp;(iii) the submission of the response by the defendant to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the defendant, together with a request for a written statementthat the process claimed in any patent disclosed in the response is not used to produce such product.
 
 > The failure to perform any acts described in the preceding sentence is evidence of absence of good faith unless there are mitigating circumstances. Mitigating circumstances include the case in which, due to the nature of the product, the number of sources for the product, or like commercial circumstances, a request for disclosure is not necessary or practicable to avoid infringement.
 
@@ -64,7 +64,7 @@
 
 &emsp;(B) the term “medical practitioner” means any natural person who is licensed by a State to provide the medical activity described in subsection (c)(1) or who is acting under the direction of such person in the performance of the medical activity.
 
-&emsp;(C) the term “related health care entity” shall mean an entity with which a medical practitioner has a professional affiliation under which the medical practitioner performs the medical activity, including but not limited to a nursing home, hospital, university, medical school, health maintenance organization, group medical practice, or a medical clinic.
+&emsp;(C) the term “related health care entity” shall mean an entity with which a medicalpractitioner has a professional affiliation under which the medical practitioner performs the medical activity, including but not limited to a nursing home, hospital, university, medical school, health maintenance organization, group medical practice, or a medical clinic.
 
 &emsp;(D) the term “professional affiliation” shall mean staff privileges, medical staff membership, employment or contractual relationship, partnership or ownership interest, academic appointment, or other affiliation under which a medical practitioner provides the medical activity on behalf of, or in association with, the health care entity.
 
@@ -82,7 +82,7 @@
 
 (4) This subsection shall not apply to any patent issued before the date of enactment of this subsection.
 
-(July 19, 1952, ch. 950, 66 Stat. 813; Aug. 23, 1988, Pub. L. 100–418, title IX, §9004(a), 102 Stat. 1564; Dec. 8, 1994, Pub. L. 103–465, title V, §533(b)(5), 108 Stat. 4989; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §616\], 110 Stat. 3009, 3009–67.)
+(July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 100–418, title IX, §9004(a), Aug. 23, 1988, 102 Stat. 1564; Pub. L. 103–465, title V, §533(b)(5), Dec. 8, 1994, 108 Stat. 4989; Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §616\], Sept. 30, 1996, 110 Stat. 3009, 3009–67.)
 
 #### Historical and Revision Notes
 

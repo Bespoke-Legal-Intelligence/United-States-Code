@@ -126,7 +126,7 @@ Pub. L. 95–485, title VI, §602, Oct. 20, 1978, 92 Stat. 1617, prohibited any 
 
 #### Closing of Facilities; Closures or Realignments Publicly Announced After September 30, 1977
 
-Pub. L. 95–82, title VI, §612(c), Aug. 1, 1977, 91 Stat. 380, provided that: “Section 611 of the Military Construction Authorization Act, 1966 (Public Law 89–188; 10 U.S.C. 2662 note), and section 612 of the Military Construction Authorization Act, 1977 (Public Law 94–431; 90 Stat. 1366) \[which was not classified to the Code\], shall be inapplicable in the case of any closure of a military installation, and any realignment with respect to a military installation, which is first publicly announced after September 30, 1977.”
+Pub. L. 95–82, title VI, §612(c), Aug. 1, 1977, 91 Stat. 380, provided that: “Section 611 of the Military Construction Authorization Act, 1966 (Public Law 89–188; 10 U.S.C. 2662 note), and section 612 of the Military Construction Authorization Act, 1977 (Public Law 94–431; 90 Stat. 1366) \[which was not classified to the Code\], shall be inapplicable in the case of any closure of a military installation, and any realignment with respect to amilitary installation, which is first publicly announced after September 30, 1977.”
 
 #### Closing of Facilities; Reports to Congress
 

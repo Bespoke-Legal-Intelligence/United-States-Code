@@ -20,7 +20,7 @@ A sailing vessel underway may, in addition to the lights prescribed in paragraph
 
 (i) A sailing vessel of less than 7 meters in length shall, if practicable, exhibit the lights prescribed in paragraph (a) or (b) of this Rule, but if she does not, she shall have ready at hand an electric torch or lighted lantern showing a white light which shall be exhibited in sufficient time to prevent collision.
 
-(ii) A vessel under oars may exhibit the lights prescribed in this Rule for sailing vessels, but if she does not, she shall have ready at hand an electric torch or lighted lantern showing a white light which shall be exhibited in sufficient time to prevent collision.
+(ii) A vessel under oars may exhibit the lights prescribed in this Rule for sailing vessels, but ifshe does not, she shall have ready at hand an electric torch or lighted lantern showing a white light which shall be exhibited in sufficient time to prevent collision.
 
 #### (e) Vessels proceeding under sail
 

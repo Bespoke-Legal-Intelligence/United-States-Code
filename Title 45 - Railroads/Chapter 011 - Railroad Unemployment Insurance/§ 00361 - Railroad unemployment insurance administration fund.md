@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, all moneys at any time credited to t
 
 So much of the balance in the fund as of September 30 of each year as is in excess of $6,000,000 shall as of such date be transferred from the fund and credited to the account.
 
-(June 25, 1938, ch. 680, §11, 52 Stat. 1105; June 20, 1939, ch. 227, §§14, 15, 53 Stat. 848; Oct. 10, 1940, ch. 842, §22, 54 Stat. 1099; June 23, 1948, ch. 608, §8, 62 Stat. 578; Sept. 6, 1958, Pub. L. 85–927, pt. II, §205, 72 Stat. 1783; Oct. 30, 1966, Pub. L. 89–700, title II, §205, 80 Stat. 1087; Oct. 16, 1974, Pub. L. 93–445, title IV, §404, 88 Stat. 1359; Aug. 9, 1975, Pub. L. 94–92, title I, §1(j), 89 Stat. 464; Apr. 21, 1976, Pub. L. 94–273, §2(22), 90 Stat. 376; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Nov. 10, 1988, Pub. L. 100–647, title VII, §7103(b)(2), 102 Stat. 3770.)
+(June 25, 1938, ch. 680, §11, 52 Stat. 1105; June 20, 1939, ch. 227, §§14, 15, 53 Stat. 848; Oct. 10, 1940, ch. 842, §22, 54 Stat. 1099; June 23, 1948, ch. 608, §8, 62 Stat. 578; Pub. L. 85–927, pt. II, §205, Sept. 6, 1958, 72 Stat. 1783; Pub. L. 89–700, title II, §205, Oct. 30, 1966, 80 Stat. 1087; Pub. L. 93–445, title IV, §404, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–92, title I, §1(j), Aug. 9, 1975, 89 Stat. 464; Pub. L. 94–273, §2(22), Apr. 21, 1976, 90 Stat. 376; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 100–647, title VII, §7103(b)(2), Nov. 10, 1988, 102 Stat. 3770.)
 
 #### References in Text
 

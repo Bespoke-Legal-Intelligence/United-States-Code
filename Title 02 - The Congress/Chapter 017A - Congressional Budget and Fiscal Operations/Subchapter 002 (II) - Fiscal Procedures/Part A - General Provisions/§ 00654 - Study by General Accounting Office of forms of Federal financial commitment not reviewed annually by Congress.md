@@ -1,8 +1,16 @@
 ### §654. Study by General Accounting Office of forms of Federal financial commitment not reviewed annually by Congress
 
-The General Accounting Office shall study those provisions of law which provide spending authority as described by section 651(c)(2) of this title and which provide permanent appropriations, and report to the Congress its recommendations for the appropriate form of financing for activities or programs financed by such provisions not later than eighteen months after December 12, 1985. Such report shall be revised from time to time.
+The General Accounting Office shall study those provisions of law which provide mandatory spending and report to the Congress its recommendations for the appropriate form of financing for activities or programs financed by such provisions not later than eighteen months after December 12, 1985. Such report shall be revised from time to time.
 
-(Pub. L. 93–344, title IV, §405, as added Pub. L. 99–177, title II, §214, Dec. 12, 1985, 99 Stat. 1059.)
+(Pub. L. 93–344, title IV, §404, formerly §405, as added Pub. L. 99–177, title II, §214, Dec. 12, 1985, 99 Stat. 1059; renumbered §404 and amended Pub. L. 105–33, title X, §10116(c)(1), (2), Aug. 5, 1997, 111 Stat. 692.)
+
+#### Prior Provisions
+
+A prior section 404 of Pub. L. 93–344, which is not classified to the Code, was renumbered section 403 by Pub. L. 105–33, title X, §10116(c)(1), Aug. 5, 1997, 111 Stat. 692.
+
+#### Amendments
+
+1997—Pub. L. 105–33, §10116(c)(2), substituted “mandatory spending” for “spending authority as described by section 651(c)(2) of this title and which provide permanent appropriations,”.
 
 #### Effective Date
 

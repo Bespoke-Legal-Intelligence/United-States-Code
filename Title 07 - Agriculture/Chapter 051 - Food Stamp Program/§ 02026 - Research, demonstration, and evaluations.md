@@ -8,7 +8,7 @@
 
 #### (b) Pilot projects
 
-(1)(A) The Secretary may conduct on a trial basis, in one or more areas of the United States,pilot or experimental projects designed to test program changes that might increase the efficiency of the food stamp program and improve the delivery of food stamp benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted.
+(1)(A) The Secretary may conduct on a trial basis, in one or more areas of the United States, pilot or experimental projects designed to testprogram changes that might increase the efficiency of the food stamp program and improve the delivery of food stamp benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted.
 
 (B)
 
@@ -78,9 +78,11 @@ Impermissible projects.—The Secretary may not conduct a project under subparag
 
 &emsp;&emsp;&emsp;(bb) absolving a State from acting with reasonable promptness on substantial reported changes in income or household size (except that this subclause shall not apply with regard to changes related to food stamp deductions);
 
-&emsp;&emsp;(V) is not limited to a specific time period; or
+&emsp;&emsp;(V) is not limited to a specific time period;
 
-&emsp;&emsp;(VI) waives a provision of section 2035 of this title.
+&emsp;&emsp;(VI) waives a provision of section 2035 of this title; or
+
+&emsp;&emsp;(VII) waives a provision of section 2016(j) of this title.
 
 &emsp;(v)
 
@@ -126,13 +128,13 @@ Notice of denial.—On denial of a waiver request under clause (i)(III), the Sec
 
 (3)(A) The Secretary may conduct demonstration projects to test improved consistency or coordination between the food stamp employment and training program and the Job Opportunities and Basic Skills program under title IV of the Social Security Act (42 U.S.C. 601 et seq.).
 
-(B) Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under section 2015(d) of this title to permit a State to operate an employment and training program for food stamp recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F of title IV of the Social Security Act (42 U.S.C. 681 et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) of such Act (42 U.S.C. 682(f)).
+(B) Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under section 2015(d) of this title to permit a State to operate an employment and training program for food stamp recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F <sup>1</sup> of title IV of the Social Security Act (42 U.S.C. 681 et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) <sup>1</sup> of such Act (42 U.S.C. 682(f)).
 
-(C) A State seeking such a waiver shall provide assurances that the resulting employmentand training program shall meet the requirements of subsections (a)(19) and (g) of section 402 of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) \[42 U.S.C. 602(g)(1)(A)\]) and sections 481 through 487 of such Act (42 U.S.C. 681 through 687). Each reference to “aid to families with dependent children” in such sections shall be deemed to be a reference to food stamps for purposes of the demonstration project.
+(C) A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to “aid to families with dependent children” in such sections shall be deemed to be a reference to food stamps for purposes of the demonstration project.
 
 (D) Notwithstanding the other provisions of this paragraph, participation in an employment and training activity in which food stamp benefits are converted to cash shall occur only with the consent of the participant.
 
-(E) For the purposes of any project conducted under this paragraph, the provisions of this chapter affecting the rights of recipients may be waived to the extent necessary to conform to the provisions of section 402, and sections 481 through 487, of the Social Security Act \[42 U.S.C. 602, 681–687\].
+(E) For the purposes of any project conducted under this paragraph, the provisions of this chapter affecting the rights of recipients may be waived to the extent necessary to conform to the provisions of section 402, and sections 481 through 487,<sup>1</sup> of the Social Security Act.
 
 (F) At least 60 days prior to granting final approval of a project under this paragraph, the Secretary shall publish the terms and conditions for any demonstration project conducted under the paragraph for public comment in the Federal Register and shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
@@ -174,7 +176,7 @@ The Secretary shall develop and implement measures for evaluating, on an annual 
 
 &emsp;&emsp;&emsp;(i) cash assistance under this subsection shall be considered to be an allotment; and
 
-&emsp;&emsp;&emsp;(ii) each household receiving cash benefits under this subsection shall not receive any other food stamp benefit during the period for which the cash assistance is provided.
+&emsp;&emsp;&emsp;(ii) each household receiving cash benefits under this subsection shall not receiveany other food stamp benefit during the period for which the cash assistance is provided.
 
 #### (D) Additional payments
 
@@ -224,7 +226,7 @@ In order to assess the effectiveness of the employment and training programs est
 
 #### (h) Demonstration projects for vehicle exclusion limits
 
-The Secretary shall conduct a sufficient number of demonstration projects to evaluate the effects, in both rural and urban areas, of including in financial resources under section 2014(g) of this title the fair market value of licensed vehicles to the extent the value of each vehicle exceeds $4,500, but excluding the value of—
+The Secretary shall conduct a sufficient number of demonstration projects to evaluate the effects, in both rural and urban areas, of including in financial resources under section 2014(g) ofthis title the fair market value of licensed vehicles to the extent the value of each vehicle exceeds $4,500, but excluding the value of—
 
 &emsp;(1) any licensed vehicle that is used to produce earned income, necessary for transportation of an elderly or physically disabled household member, or used as the household's home; and
 
@@ -298,15 +300,19 @@ The Secretary shall conduct, under such terms and conditions as the Secretary sh
 
 The Secretary shall use up to $4,000,000 of the funds provided in advance in appropriations Acts for projects authorized by this section to conduct demonstration projects in which State or local food stamp agencies test innovative ideas for working with State or local law enforcement agencies to investigate and prosecute coupon trafficking.
 
-(Pub. L. 88–525, §17, as added Pub. L. 93–86, §3(n), Aug. 10, 1973, 87 Stat. 248; amended Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 977; Pub. L. 95–400, Sept. 30, 1978, 92 Stat. 856; Pub. L. 96–249, title I, §§130–132(a), 133, May 26, 1980, 94 Stat. 367, 368; Pub. L. 97–98, title XIII, §§1328–1330, Dec. 22, 1981, 95 Stat. 1289, 1290; Pub. L. 97–253, title I, §§152(c), 181, 182, 190(d), Sept. 8, 1982, 96 Stat. 776, 784, 785, 787; Pub. L. 99–114, §4, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §2, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §2, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1540, Dec. 23, 1985, 99 Stat. 1588; Pub. L. 100–435, title V, §§504, 505, Sept. 19, 1988, 102 Stat. 1673; Pub. L. 101–624, title XVII, §§1729(b), 1731, 1754–1759, Nov. 28, 1990, 104 Stat. 3790, 3798–3800, 3802; Pub. L. 102–237, title IX, §941(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13925, Aug. 10, 1993, 107 Stat. 675; Pub. L. 103–225, title II, §204, Mar. 25, 1994, 108 Stat. 109; Pub. L. 104–127, title IV, §401(c), (d), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(d), title VIII, §§815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, 110 Stat. 2169, 2317, 2336–2338, 2342.)
+(Pub. L. 88–525, §17, as added Pub. L. 93–86, §3(n), Aug. 10, 1973, 87 Stat. 248; amended Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 977; Pub. L. 95–400, Sept. 30, 1978, 92 Stat. 856; Pub. L. 96–249, title I, §§130–132(a), 133, May 26, 1980, 94 Stat. 367, 368; Pub. L. 97–98, title XIII, §§1328–1330, Dec. 22, 1981, 95 Stat. 1289, 1290; Pub. L. 97–253, title I, §§152(c), 181, 182, 190(d), Sept. 8, 1982, 96 Stat. 776, 784, 785, 787; Pub. L. 99–114, §4, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §2, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §2, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1540, Dec. 23, 1985, 99 Stat. 1588; Pub. L. 100–435, title V, §§504, 505, Sept. 19, 1988, 102 Stat. 1673; Pub. L. 101–624, title XVII, §§1729(b), 1731, 1754–1759, Nov. 28, 1990, 104 Stat. 3790, 3798–3800, 3802; Pub. L. 102–237, title IX, §941(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13925, Aug. 10, 1993, 107 Stat. 675; Pub. L. 103–225, title II, §204, Mar. 25, 1994, 108 Stat. 109; Pub. L. 104–127, title IV, §401(c), (d), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(d), title VIII, §§815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, 110 Stat. 2169, 2317, 2336–2338, 2342; Pub. L. 105–18, title VII, \[(b)\], June 12, 1997, 111 Stat. 217.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(1)(B)(v), (vi), (3)(A), (B), (I) and (d)(1)(B), (3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV, parts A and F of title IV, and title XVI of the Act are classified generally to subchapter IV (§601 et seq.), parts A (§601 et seq.) and F (§681 et seq.) of subchapter IV, and subchapter XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(1)(B)(v), (vi), (3)(A), (B), (I) and (d)(1)(B), (3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV, part A of title IV, and title XVI of the Act are classified generally to subchapter IV (§601 et seq.), part A (§601 et seq.) of subchapter IV, and subchapter XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Comprehensive Employment and Training Act of 1973, referred to in subsec. (b)(2), is Pub. L. 93–203, Dec. 28, 1973, 87 Stat. 839, as amended. The Act was amended generally by Pub. L. 95–524, Oct. 27, 1978, 92 Stat. 1912, and, as so amended, was known as the Comprehensive Employment and Training Act, which was classified generally to chapter 17 (§801 et seq.) of Title 29, Labor, and was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357. The Job Training Partnership Act is classified principally to chapter 19 (§1501 et seq.) of Title 29, Section 183 of Pub. L. 97–300, classified to section 1592 of title 29, provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act. Sections 821, 845, 848, and 983 of Title 29, also referred to in subsec. (b)(2), are references to sections of the 1973 Act prior to amendment by Pub. L. 95–524. For further details, see the notes set out for those former sections of Title 29.
 
-The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (b)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (b)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+
+Sections 481 to 487 of the Social Security Act, referred to in subsec. (b)(3)(C), (E), were classified to section 681 to 687, respectively, of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+
+Section 402 of the Social Security Act, referred to in subsec. (b)(3)(C), which was classified to section 602 of Title 42, The Public Health and Welfare, was repealed and a new section 402 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains subsecs. (a)(19) and (g).
 
 The Omnibus Budget Reconciliation Act of 1981, referred to in subsec. (e), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357. Part 1 of subtitle A of title I of the Omnibus Budget Reconciliation Act amended this chapter generally. For complete classification of this Act to the Code, see Tables.
 
@@ -317,6 +323,8 @@ The Food Stamp Act Amendments of 1982, referred to in subsec. (e), is subtitle E
 The Federal Advisory Committee Act, referred to in subsec. (i)(3)(A), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1997—Subsec. (b)(1)(B)(iv)(VII). Pub. L. 105–18 added subcl. (VII).
 
 1996—Subsec. (b)(1). Pub. L. 104–193, §§850, 851, in first sentence, substituted “benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted.” along with subpar. (B) heading, cls. (i) to (iv), cl. (v) of subpar. (B) heading, and “A pilot or experimental project may include” for “benefits to eligible households, including”, in subpar. (B)(v), substituted “are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)” for “to aid to families with dependent children under part A of title IV of the Social Security Act”, substituted “coupons.” along with cl. (vi) of subpar. (B) heading and “Any pilot” for “coupons. The Secretary may waive the requirements of this chapter to the degree necessary for such projects to be conducted, except that no project, other than a project involving the payment of the average value of allotments by household size in the form of cash to eligible households or a project conducted under paragraph (3), shall be implemented which would lower or further restrict the income or resource standards or benefit levels provided pursuant to sections 2014 and 2017 of this title. Any pilot”, redesignated former subpar. (B) as (C), and added subpar. (D).
 
@@ -392,7 +400,7 @@ Subsec. (f). Pub. L. 97–98, §1330, added subsec. (f).
 
 1980—Subsec. (b)(1). Pub. L. 96–249, §130, inserted provisions requiring that any pilot or experimental project implemented under this paragraph involving the payment of the value of allotments in the form of cash to eligible households be continued until October 1, 1981, if the State so requests.
 
-Subsec. (b)(2). Pub. L. 96–249, §§131, 132(a), inserted “(ten days in at least one pilot project area designated by the Secretary)” after “thirty days” and substituted “interim reports no later than October 1, 1979, October 1, 1980, and March 30, 1981, shall issue a final report describing the results of such pilot project based upon their operation from their commencement through the fiscal year ending September 30, 1981, and shall pay to the agencies or organizations operating such pilot projects 50 per centum of all administrative costs involved in such operation” for “an interim report no later than October 1, 1979, and shall issue a final report describing the results of such pilot projects no later than October 1, 1980”.
+Subsec. (b)(2). Pub. L. 96–249, §§131, 132(a), inserted “(ten days in at least one pilot project area designated by the Secretary)” after “thirty days” and substituted “interim reports no later than October 1, 1979, October 1, 1980, and March 30, 1981, shall issue a final report describing the results of such pilot project based upon their operation from their commencement through thefiscal year ending September 30, 1981, and shall pay to the agencies or organizations operating such pilot projects 50 per centum of all administrative costs involved in such operation” for “an interim report no later than October 1, 1979, and shall issue a final report describing the results of such pilot projects no later than October 1, 1980”.
 
 Subsec. (e). Pub. L. 96–249, §133, added subsec. (e).
 
@@ -402,7 +410,7 @@ Subsec. (e). Pub. L. 96–249, §133, added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 109(d) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to Stateoptions to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 109(d) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1993 Amendment
 
@@ -477,4 +485,6 @@ Section 912 of Pub. L. 102–237 provided that: “The Secretary of Agriculture 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2016, 2020, 2027, 2035 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

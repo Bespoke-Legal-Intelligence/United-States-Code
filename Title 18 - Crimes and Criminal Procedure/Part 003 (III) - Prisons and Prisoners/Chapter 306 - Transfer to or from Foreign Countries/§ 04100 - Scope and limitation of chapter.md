@@ -6,7 +6,7 @@
 
 (c) An offender shall not be transferred to or from the United States if a proceeding by way of appeal or of collateral attack upon the conviction or sentence be pending.
 
-(d) The United States upon receiving notice from the country which imposed the sentence that the offender has been granted a pardon, commutation, or amnesty, or that there has been an ameliorating modification or a revocation of the sentence shall give the offender the benefit of the action taken by the sentencing country.
+(d) The United States upon receiving notice from the country which imposed the sentence that the offender has been granted a pardon,commutation, or amnesty, or that there has been an ameliorating modification or a revocation of the sentence shall give the offender the benefit of the action taken by the sentencing country.
 
 (Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1212; amended Pub. L. 100–690, title VII, §7101(e), Nov. 18, 1988, 102 Stat. 4416.)
 
@@ -16,7 +16,7 @@
 
 #### Authorization of Appropriations
 
-Section 5(a) of Pub. L. 95–144 provided that: “There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act \[which enacted this chapter and sections 955 of Title 10, ArmedForces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]”.
+Section 5(a) of Pub. L. 95–144 provided that: “There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act \[which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]”.
 
 #### Prisoner Transfer Treaties
 

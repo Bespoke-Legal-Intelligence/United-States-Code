@@ -2,7 +2,7 @@
 
 There is authorized to be appropriated annually (1) for the annual contribution of the United States toward the maintenance of the North Atlantic Assembly, such sum as may be agreed upon by the United States Group and approved by such Assembly, but in no event to exceed for any year an amount equal to 25 per centum of the total annual contributions made for that year by all members of the North Atlantic Treaty Organization toward the maintenance of such Assembly, and (2) $100,000, $50,000 for the House delegation and $50,000 for the Senate delegation, or so much thereof as may be necessary, to assist in meeting the expenses of the United States Group of the North Atlantic Assembly for each fiscal year for which an appropriation is made, such appropriation to be dispersed on voucher to be approved by the Chairman of the House delegation and the Chairman of the Senate delegation.
 
-(July 11, 1956, ch. 562, §2, 70 Stat. 523; June 30, 1958, Pub. L. 85–477, ch. V, §502(d), 72 Stat. 273; Nov. 14, 1967, Pub. L. 90–137, pt. IV, §401(a), 81 Stat. 463; Feb. 7, 1972, Pub. L. 92–226, pt. IV, §405, 86 Stat. 34; Dec. 22, 1987, Pub. L. 100–202, §101(a) \[title III, §303\], 101 Stat. 1329, 1329–23; Dec. 22, 1987, Pub. L. 100–204, title VII, §744(b), 101 Stat. 1396.)
+(July 11, 1956, ch. 562, §2, 70 Stat. 523; Pub. L. 85–477, ch. V, §502(d), June 30, 1958, 72 Stat. 273; Pub. L. 90–137, pt. IV, §401(a), Nov. 14, 1967, 81 Stat. 463; Pub. L. 92–226, pt. IV, §405, Feb. 7, 1972, 86 Stat. 34; Pub. L. 100–202, §101(a) \[title III, §303\], Dec. 22, 1987, 101 Stat. 1329, 1329–23; Pub. L. 100–204, title VII, §744(b), Dec. 22, 1987, 101 Stat. 1396.)
 
 #### Codification
 

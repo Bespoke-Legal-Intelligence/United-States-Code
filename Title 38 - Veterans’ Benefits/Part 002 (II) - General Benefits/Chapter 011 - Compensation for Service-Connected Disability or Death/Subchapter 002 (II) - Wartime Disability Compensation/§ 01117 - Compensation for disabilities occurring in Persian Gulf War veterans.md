@@ -138,7 +138,7 @@ Contracting.—The Secretary shall provide for the conduct of testing and examin
 
 “(e)
 
-Standard Protocols and Guidelines.—The Secretary shall seek to ensure uniform development ofmedical data through the development of standard protocols and guidelines for such testing and examinations. If such protocols and guidelines have not been adopted before the end of the 120-day period beginning on the date of the enactment of this Act \[Nov. 2, 1994\], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such protocols and guidelines have not yet been developed.
+Standard Protocols and Guidelines.—The Secretary shall seek to ensure uniform development of medical data through the development of standard protocols and guidelines for such testing and examinations. If such protocols and guidelines have not been adopted before the end of the 120-day period beginning on the date of the enactment of this Act \[Nov. 2, 1994\], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such protocols and guidelines have not yet been developed.
 
 “(f)
 
@@ -226,7 +226,7 @@ Sec. 2. <i>Functions</i>. (a) The Committee shall report to the President throug
 
 (1) <i>Research</i>: epidemiological, clinical, and other research concerning Gulf War veterans’ illnesses.
 
-(2) <i>Coordinating Efforts</i>: the activities of the Persian Gulf Veterans Coordinating Board, including the Research Coordinating Council, the Clinical WorkingGroup, and the Disability and Compensation Working Group.
+(2) <i>Coordinating Efforts</i>: the activities of the Persian Gulf Veterans Coordinating Board, including the Research Coordinating Council, the Clinical Working Group, and the Disability and Compensation Working Group.
 
 (3) <i>Medical Treatment</i>: medical examinations and treatment in connection with Gulf War veterans’ illnesses, including the Comprehensive Clinical Evaluation Program and the Persian Gulf Registry Medical Examination Program.
 
@@ -257,6 +257,34 @@ Sec. 4. <i>General Provisions</i>. (a) Notwithstanding the provisions of any oth
 (b) The Committee shall terminate 30 days after submitting its final report.
 
 (c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13034. Extension of Presidential Advisory Committee on Gulf War Veterans’ Illnesses
+
+Ex. Ord. No. 13034, Jan. 30, 1997, 62 F.R. 5137, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Extension</i>. The Presidential Advisory Committee on Gulf War Veterans’ Illnesses (the “Committee”), established pursuant to Executive Order 12961 \[set out above\] of May 26, 1995, is hereby extended for the purposes set forth herein. All provisions of that order relating to membership and administration shall remain in effect. All Committee appointments, as well as the President's designation of a Chairperson, shall remain in effect. The limitations set forth in section 2(c)–(e) and section 4(a) of Executive Order 12961 shall also remain in effect. The Committee shall remain subject to the Federal Advisory Committee Act, as amended, 5 U.S.C. App.
+
+Sec. 2. <i>Functions</i>. (a) The Committee shall report to the President through the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Health and Human Services.
+
+(b) The Committee shall have two principal roles:
+
+(1) Oversight of the ongoing investigation being conducted by the Department of Defense with the assistance, as appropriate, of other executive departments and agencies into possible chemical or biological warfare agent exposures during the Gulf War; and
+
+(2) Evaluation of the Federal Government's plan for and progress towards the implementation of the Committee's recommendations contained in its Final Report submitted on December 31, 1996.
+
+(c) The Committee shall provide advice and recommendations related to its oversight and evaluation responsibilities.
+
+(d) The Committee may also provide additional advice and recommendations prompted by any new developments related to its original functions as set forth in section 2(b) of Executive Order 12961.
+
+(e) The Committee shall submit by letter a status report by April 30, 1997, and a final supplemental report by October 31, 1997, unless otherwise directed by the President.
+
+Sec. 3. <i>General Provisions</i>. (a) The Committee shall terminate 30 days after submitting its final supplemental report.
+
+(b) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

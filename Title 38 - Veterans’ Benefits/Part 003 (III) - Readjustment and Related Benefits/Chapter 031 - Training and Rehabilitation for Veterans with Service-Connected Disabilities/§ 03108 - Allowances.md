@@ -1,6 +1,6 @@
 ### §3108. Allowances
 
-(a)(1) Except in the case of a veteran who makes an election under subsection (f) of thissection and subject to the provisions of paragraph (3) of this subsection, each veteran shall be paid a subsistence allowance in accordance with this section during a period determined by the Secretary to be a period of such veteran's participation under this chapter in a rehabilitation program.
+(a)(1) Except in the case of a veteran who makes an election under subsection (f) of this section and subject to the provisions of paragraph (3) of this subsection, each veteran shall be paid a subsistence allowance in accordance with this section during a period determined by the Secretary to be a period of such veteran's participation under this chapter in a rehabilitation program.
 
 (2) In any case in which the Secretary determines, at the conclusion of such veteran's pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title.
 
@@ -29,7 +29,7 @@
 
 (2) With respect to the fiscal year beginning on October 1, 1994, the Secretary shall provide a percentage increase in the monthly rates payable under paragraph (1) of this subsection equal to the percentage by which the Consumer Price Index (all items, United States city average published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1994, exceeds such Consumer Price Index for the 12-month period ending June 30, 1993.
 
-(3) With respect to any fiscal year beginning on or after October 1, 1995, the Secretary shall continue to pay, in lieu of the rates payable under paragraph (1) of this subsection, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
+(3) With respect to any fiscal year beginning on or after October 1, 1995, the Secretary shall continue to pay, in lieu of the rates payable under paragraph (1) of this subsection, themonthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
 
 &emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 

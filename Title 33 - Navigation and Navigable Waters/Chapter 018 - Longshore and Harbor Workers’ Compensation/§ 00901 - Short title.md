@@ -2,7 +2,7 @@
 
 This chapter may be cited as “Longshore and Harbor Workers’ Compensation Act.”
 
-(Mar. 4, 1927, ch. 509, §1, 44 Stat. 1424; Sept. 28, 1984, Pub. L. 98–426, §27(d)(1), 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, §1, 44 Stat. 1424; Pub. L. 98–426, §27(d)(1), Sept. 28, 1984, 98 Stat. 1654.)
 
 #### Amendments
 

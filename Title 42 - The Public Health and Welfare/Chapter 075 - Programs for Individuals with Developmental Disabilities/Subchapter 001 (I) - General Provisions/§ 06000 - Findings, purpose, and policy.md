@@ -68,7 +68,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(8) individuals with developmental disabilities should have access to opportunities and the necessary support to be included in community life, have interdependent relationships, live in homes and communities, and make contributions to their families, community, State, and Nation.
 
-(Pub. L. 88–164, title I, §101, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662; amended Pub. L. 100–146, title I, §101, Oct. 29, 1987, 101 Stat. 840; Pub. L. 101–496, §3, Oct. 31, 1990, 104 Stat. 1191; Pub. L. 103–230, title I, §102, Apr. 6, 1994, 108 Stat. 285.)
+(Pub. L. 88–164, title I, §101, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662; amendedPub. L. 100–146, title I, §101, Oct. 29, 1987, 101 Stat. 840; Pub. L. 101–496, §3, Oct. 31, 1990, 104 Stat. 1191; Pub. L. 103–230, title I, §102, Apr. 6, 1994, 108 Stat. 285.)
 
 #### References in Text
 

@@ -30,7 +30,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 Definitions.—In this section:
 
-&emsp;(1) The term “qualifying adoption expenses” means reasonable and necessary expenses thatare directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency. Such term does not include any expense incurred—
+&emsp;(1) The term “qualifying adoption expenses” means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency. Such term does not include any expense incurred—
 
 &emsp;&emsp;(A) by an adopting parent for travel; or
 
@@ -83,4 +83,8 @@ Reimbursement of Adoption Expenses.—Section 1052 of title 10, United States Co
 “(b)
 
 Time Period for Application.—Subsection (a) shall apply to a person covered by such subsection only if the person applies to the Secretary of Defense or the Secretary of Transportation for the reimbursement of adoption expenses under section 1052 of title 10, United States Code, or section 514 of title 14, United States Code, whichever applies, within one year after the date of the enactment of this Act \[Oct. 23, 1992\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 26 section 137.
 

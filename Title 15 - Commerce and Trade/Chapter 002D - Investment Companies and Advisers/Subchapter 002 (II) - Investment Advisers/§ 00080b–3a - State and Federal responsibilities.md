@@ -48,7 +48,7 @@ Upon request of the securities commissioner (or any agency or officer performing
 
 #### Effective Date
 
-Section effective 180 days after Oct. 11, 1996, see section 308(a) of Pub. L. 104–290, set out as an Effective Date of 1996 Amendment note under section 80b–2 of this title.
+Section effective 270 days after Oct. 11, 1996, see section 308(a) of Pub. L. 104–290, as amended, set out as an Effective Date of 1996 Amendment note under section 80b–2 of this title.
 
 #### Continued State Authority
 

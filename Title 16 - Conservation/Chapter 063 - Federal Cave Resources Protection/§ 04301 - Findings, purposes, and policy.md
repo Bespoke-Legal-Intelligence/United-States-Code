@@ -78,7 +78,7 @@ In General.—In order to protect Lechuguilla Cave or Federal lands within the c
 
 “(b)
 
-No Effect on Pipelines.—Nothing in this title \[Act\] shall have the effect of terminating any validlyissued right-of-way, or customary operation, maintenance, repair, and replacement activities in such right-of-way; prohibiting the upgrading of and construction on existing facilities in such right-of-way for the purpose of increasing capacity of the existing pipeline; or prohibiting the renewal of such right-of-way within the cave protection area referred to in section 3(a).
+No Effect on Pipelines.—Nothing in this title \[Act\] shall have the effect of terminating any validly issued right-of-way, or customary operation, maintenance, repair, and replacement activities in such right-of-way; prohibiting the upgrading of and construction on existing facilities in such right-of-way for the purpose of increasing capacity of the existing pipeline; or prohibiting the renewal of such right-of-way within the cave protection area referred to in section 3(a).
 
 “(c)
 

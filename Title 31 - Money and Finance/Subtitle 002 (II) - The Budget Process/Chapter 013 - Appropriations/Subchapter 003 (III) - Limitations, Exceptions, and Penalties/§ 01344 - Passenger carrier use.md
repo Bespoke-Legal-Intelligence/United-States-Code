@@ -118,7 +118,7 @@ Section 8(a)(1) of the Central Intelligence Agency Act of 1949, referred to in s
 
 Subsection (b)(2)(B) of this section, referred to in subsec. (d)(3), (4), was redesignated subsec. (b)(3)(B) by Pub. L. 100–202. See 1987 Amendment note below.
 
-Section 3502 of title 44, referred to in subsec. (g)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
+Section 3502 of title 44, referred to in subsec. (g)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L.104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
 
 #### Codification
 
@@ -138,7 +138,7 @@ Subsec. (b)(4). Pub. L. 100–180 inserted “the members and Vice Chairman of�
 
 Subsec. (d)(1), (2). Pub. L. 100–202, §101(a) \[title IV, §407(2)(A)\], as amended by Pub. L. 103–272, substituted “subsection (b)(9) of this section” for “paragraph (8) of subsection (b)”.
 
-Subsec. (d)(3). Pub. L. 100–202, §101(a) \[title IV, §407(2)(B)\], as amended by Pub. L. 103–272, substituted“subsections (a)(2) and (b)(3)(B) and (9)” for “subsections (a)(2), (b)(2)(B), and (b)(8)” and “subsection (b)(9)” for “subsection (b)(8)”.
+Subsec. (d)(3). Pub. L. 100–202, §101(a) \[title IV, §407(2)(B)\], as amended by Pub. L. 103–272, substituted “subsections (a)(2) and (b)(3)(B) and (9)” for “subsections (a)(2), (b)(2)(B), and (b)(8)” and “subsection (b)(9)” for “subsection (b)(8)”.
 
 Subsec. (d)(4). Pub. L. 100–202, §101(a) \[title IV, §407(2)(C)\], as amended by Pub. L. 103–272, substituted “subsection (b)(1), (3)(B), and (9) of this section” and “subsection (b)(9), and the expected duration of any authorization under subsection (b)(9)” for “paragraphs (1), (2)(B), and (8) of subsection (b)” and “paragraph (8) of subsection (b), and the expected duration of any authorization under such paragraph”, respectively.
 

@@ -6,36 +6,29 @@
 | :--- | ---: |
 | [1400\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001400%20-%20Congressional%20statements%20and%20declarations.md) | Congressional statements and declarations. |
 | (a) | Short title. |
-| (b) | Findings. |
-| (c) | Purpose. |
+| (b) | Omitted. |
+| (c) | Findings. |
+| (d) | Purposes. |
 | [1401\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001401%20-%20Definitions.md) | Definitions. |
 | [1402\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001402%20-%20Office%20of%20Special%20Education%20Programs.md) | Office of Special Education Programs. |
-| (a) | Establishment; purposes. |
-| (b) | Deputy Assistant Secretary: selection and supervision, compensation; Associate Deputy Assistant Secretary and minimum number of assistants: establishment, compensation. |
+| (a) | Establishment. |
+| (b) | Director. |
+| (c) | Voluntary and uncompensated services. |
 | [1403\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001403%20-%20Abrogation%20of%20State%20sovereign%20immunity.md) | Abrogation of State sovereign immunity. |
-| (a) | State immunity abrogated. |
-| (b) | Availability of remedies. |
+| (a) | In general. |
+| (b) | Remedies. |
 | (c) | Effective date. |
-| [1404\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001404%20-%20Acquisition%20of%20equipment%20and%20construction%20of%20necessary%20facilities.md) | Acquisition of equipment and construction of necessary facilities. |
-| (a) | Authorization for use of funds. |
-| (b) | Recovery of payments under certain conditions. |
+| [1404\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001404%20-%20Acquisition%20of%20equipment%3B%20construction%20or%20alteration%20of%20facilities.md) | Acquisition of equipment; construction or alteration of facilities. |
+| (a) | In general. |
+| (b) | Compliance with certain regulations. |
 | [1405\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001405%20-%20Employment%20of%20individuals%20with%20disabilities.md) | Employment of individuals with disabilities. |
-| [1406\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001406%20-%20Grants%20for%20removal%20of%20architectural%20barriers%3B%20authorization%20of%20appropriations.md) | Grants for removal of architectural barriers; authorization of appropriations. |
-| [1407\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001407%20-%20Regulation%20requirements.md) | Regulation requirements. |
-| (a) | Minimum period for comment before effective date. |
-| (b) | Lessening of procedural or substantive protections as in effect on July 20, 1983, prohibited. |
-| [1408\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001408%20-%20Eligibility%20for%20financial%20assistance.md) | Eligibility for financial assistance. |
-| [1409\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001409%20-%20Administrative%20provisions%20applicable%20to%20subchapters%20III%20through%20VII%20and%20section%201418.md) | Administrative provisions applicable to subchapters III through VII and section 1418. |
-| (a) | Plan for implementation of authorized programs. |
-| (b) | Needs of minority children and youth. |
-| (c) | Transitions facing children with disabilities during years in school. |
-| (d) | Program evaluations. |
-| (e) | Report on program plans and evaluations. |
-| (f) | Acquisition and dissemination of information. |
-| (g) | Dissemination of reports to appropriate networks. |
-| (h) | Evaluation panels. |
-| (i) | Site visits. |
-| (j) | Discretionary program findings. |
+| [1406\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001406%20-%20Requirements%20for%20prescribing%20regulations.md) | Requirements for prescribing regulations. |
+| (a) | Public comment period. |
+| (b) | Protections provided to children. |
+| (c) | Policy letters and statements. |
+| (d) | Correspondence from Department of Education describing interpretations of this chapter. |
+| (e) | Issues of national significance. |
+| (f) | Explanation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -43,191 +36,259 @@
 
 |  |  |
 | :--- | ---: |
-| [1411\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001411%20-%20Entitlements%20and%20allocations.md) | Entitlements and allocations. |
-| (a) | Formula for determining maximum State entitlement. |
-| (b) | Minimum amount of funds to States for fiscal years 1995 to 1999. |
-| (c) | Distribution and use of grant funds by States for fiscal years ending September 30, 1979, and thereafter. |
-| (d) | Allocation of funds within States to local educational agencies and intermediate educational units. |
-| (e) | Territories and possessions. |
-| (f) | Indian reservations. |
-| (g) | Reductions or increases. |
-| (h) | Authorization of appropriations. |
-| [1412\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001412%20-%20Eligibility%20requirements.md) | Eligibility requirements. |
-| [1413\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001413%20-%20State%20plans.md) | State plans. |
-| (a) | Requisite features. |
-| (b) | Additional assurances. |
-| (c) | Notice and hearing prior to disapproval of plan. |
-| (d) | Participation of children with disabilities in private schools; payment of Federal amount; determinations of Secretary: notice and hearing; judicial review: jurisdiction of court of appeals, petition, record, conclusiveness of findings, remand, review by Supreme Court. |
-| (e) | Prohibition on reduction of assistance. |
-| [1414\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001414%20-%20Application.md) | Application. |
-| (a) | Requisite features. |
-| (b) | Approval by State educational agencies of applications submitted by local educational agencies or intermediate educational units; notice and hearing. |
-| (c) | Consolidated applications. |
-| (d) | Special education and related services provided directly by State educational agencies; regional or State centers. |
-| (e) | Reallocation of funds. |
-| (f) | Programs using State or local funds. |
-| [1414a.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001414a%20-%20Treatment%20of%20chapter%201%20State%20agencies.md) | Treatment of chapter 1 State agencies. |
-| (a) | Treatment as local educational agencies. |
-| (b) | Applications. |
-| (c) | Application of section 1411(c)(4). |
-| [1415\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001415%20-%20Procedural%20safeguards.md) | Procedural safeguards. |
-| (a) | Establishment and maintenance. |
-| (b) | Required procedures; hearing. |
-| (c) | Review of local decision by State educational agency. |
-| (d) | Enumeration of rights accorded parties to hearings. |
-| (e) | Civil action; jurisdiction. |
-| (f) | Effect on other laws. |
-| [1416\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001416%20-%20Withholding%20of%20payments.md) | Withholding of payments. |
-| (a) | Failure to comply with this subchapter; limitations; public notice. |
-| (b) | Judicial review. |
-| [1417\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001417%20-%20Administration.md) | Administration. |
-| (a) | Duties of Secretary. |
-| (b) | Rules and regulations. |
-| (c) | Protection of rights and privacy of parents and students. |
-| (d) | Hiring of qualified personnel. |
-| [1418\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001418%20-%20Evaluation%20and%20program%20information.md) | Evaluation and program information. |
-| (a) | Duties of Secretary. |
-| (b) | Collection of data. |
-| (c) | Studies and investigations under grants, contracts, or cooperative agreements. |
-| (d) | Cooperative agreements with State agencies. |
-| (e) | Studies to assess progress of program. |
-| (f) | Integration of information. |
-| (g) | Annual report. |
-| (h) | Authorization of appropriations. |
-| [1419\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001419%20-%20Preschool%20grants.md) | Preschool grants. |
-| (a) | Grants for fiscal years 1987 through 1989; amount of grants. |
-| (b) | Grants for fiscal year 1990 and thereafter; amount of grants. |
-| (c) | Distribution by State of funds. |
-| (d) | Insufficiency of appropriated amounts; reduction of maximum amounts receivable by States. |
-| (e) | Authorization of appropriations. |
-| (f) | Use of appropriated funds. |
-| (g) | Applicability of subchapter VIII. |
-| [1420\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001420%20-%20Payments.md) | Payments. |
-| (a) | Payments to States; distribution by States to local educational agencies and intermediate educational units. |
-| (b) | Advances, reimbursements, and installments. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER III—CENTERS AND SERVICES TO MEET SPECIAL NEEDS OF INDIVIDUALS WITH DISABILITIES
-
-|  |  |
-| :--- | ---: |
-| [1421\.](Subchapter%20003%20%28III%29%20-%20Centers%20and%20Services%20to%20Meet%20Special%20Needs%20of%20Individuals%20with%20Disabilities/%C2%A7%2001421%20-%20Regional%20resource%20and%20Federal%20centers.md) | Regional resource and Federal centers. |
-| (a) | Establishment; functions. |
-| (b) | Considerations governing approval of application. |
-| (c) | Annual report; summaries. |
-| (d) | Coordinating technical assistance center. |
-| (e) | Amounts available for centers. |
-| (f) | Development of operation guidelines and criteria. |
-| [1422\.](Subchapter%20003%20%28III%29%20-%20Centers%20and%20Services%20to%20Meet%20Special%20Needs%20of%20Individuals%20with%20Disabilities/%C2%A7%2001422%20-%20Services%20for%20deaf-blind%20children%20and%20youth.md) | Services for deaf-blind children and youth. |
-| (a) | Grant and contract authority; types and scope of programs; governing considerations. |
-| (b) | Contract authority for regional programs of technical assistance. |
-| (c) | Annual report to Secretary; examination of numbers and services and revision of numbers; annual report to Congress: summary of data. |
-| (d) | National clearinghouse for children and youth with deaf-blindness. |
-| (e) | Country-wide availability of assistance. |
-| (f) | Grants to, or contracts and cooperative agreements with, appropriate organizations and agencies. |
-| [1423\.](Subchapter%20003%20%28III%29%20-%20Centers%20and%20Services%20to%20Meet%20Special%20Needs%20of%20Individuals%20with%20Disabilities/%C2%A7%2001423%20-%20Early%20education%20for%20children%20with%20disabilities.md) | Early education for children with disabilities. |
-| (a) | Contracts, grants, and cooperative agreements; purpose; coordination with community programs; national dispersion in urban and rural areas; Federal share; non-Federal contributions; arrangements with Indian tribes. |
-| (b) | Grants for identifying, tracking, and referring children at-risk of having developmental delays. |
-| (c) | Technical assistance development system. |
-| (d) | Early childhood research institutes. |
-| (e) | Grants or contracts with organizations to identify needs of children with disabilities and for training of personnel. |
-| (f) | Notice in Federal Register of intent to accept applications for grants, contracts, etc. |
-| (g) | “Children with disabilities” defined. |
-| (h) | Organization, integration, and presentation of developed knowledge. |
-| [1424\.](Subchapter%20003%20%28III%29%20-%20Centers%20and%20Services%20to%20Meet%20Special%20Needs%20of%20Individuals%20with%20Disabilities/%C2%A7%2001424%20-%20Programs%20for%20children%20with%20severe%20disabilities.md) | Programs for children with severe disabilities. |
-| (a) | Grant and contract authority. |
-| (b) | Extended school year demonstration programs. |
-| (c) | Coordination of activities with similar activities under other provisions. |
-| (d) | National geographic dispersion of programs in urban and rural areas. |
-| (e) | Priority programs. |
-| [1424a.](Subchapter%20003%20%28III%29%20-%20Centers%20and%20Services%20to%20Meet%20Special%20Needs%20of%20Individuals%20with%20Disabilities/%C2%A7%2001424a%20-%20Postsecondary%20education.md) | Postsecondary education. |
-| [1425\.](Subchapter%20003%20%28III%29%20-%20Centers%20and%20Services%20to%20Meet%20Special%20Needs%20of%20Individuals%20with%20Disabilities/%C2%A7%2001425%20-%20Secondary%20education%20and%20transitional%20services%20for%20youth%20with%20disabilities.md) | Secondary education and transitional services for youth with disabilities. |
-| (a) | Grant and contract authority; statement of purposes; national geographic dispersion in urban and rural areas. |
-| (b) | Description of specific projects. |
-| (c) | Coordination of noneducational agency applicant with State educational agency. |
-| (d) | Applications for assistance; contents. |
-| (e) | Five-year grants to develop systems to provide transition services. |
-| (f) | Development or demonstration of new or improved methods, approaches, or techniques; demonstration models of assistive technology devices and services; evaluation of transition services. |
-| (g) | Coordination of educational programs with vocational rehabilitation projects and vocational education projects. |
-| [1426\.](Subchapter%20003%20%28III%29%20-%20Centers%20and%20Services%20to%20Meet%20Special%20Needs%20of%20Individuals%20with%20Disabilities/%C2%A7%2001426%20-%20Programs%20for%20children%20and%20youth%20with%20serious%20emotional%20disturbance.md) | Programs for children and youth with serious emotional disturbance. |
-| (a) | Grants, contracts, and cooperative agreements to establish projects. |
-| (b) | Grants to provide services. |
-| (c) | Requirements of projects assisted. |
-| [1427\.](Subchapter%20003%20%28III%29%20-%20Centers%20and%20Services%20to%20Meet%20Special%20Needs%20of%20Individuals%20with%20Disabilities/%C2%A7%2001427%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER IV—TRAINING PERSONNEL FOR THE EDUCATION OF INDIVIDUALS WITH DISABILITIES
-
-|  |  |
-| :--- | ---: |
-| [1431\.](Subchapter%20004%20%28IV%29%20-%20Training%20Personnel%20for%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001431%20-%20Grants%20for%20personnel%20training.md) | Grants for personnel training. |
-| (a) | Careers in special education; personnel training standards; costs of courses, fellowships, and traineeships; contract authority for areas of personnel shortages. |
-| (b) | Grants for educational interpreter training programs for personnel educating deaf or deaf-blind students; assurance required; training of regular education teachers. |
-| (c) | Special projects for preservice training, regular educators, and inservice training of special education personnel. |
-| (d) | Career advancement and training for workers at agencies that provide services to children and youth with disabilities. |
-| (e) | Parent training and information programs. |
-| [1432\.](Subchapter%20004%20%28IV%29%20-%20Training%20Personnel%20for%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001432%20-%20Grants%20to%20State%20educational%20agencies%20and%20institutions%20for%20traineeships.md) | Grants to State educational agencies and institutions for traineeships. |
-| (a) | Size and scope of grant. |
-| (b) | Grants on competitive basis. |
-| (c) | Purpose of grants. |
-| (d) | Technical assistance to States. |
-| [1433\.](Subchapter%20004%20%28IV%29%20-%20Training%20Personnel%20for%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001433%20-%20Clearinghouses.md) | Clearinghouses. |
-| (a) | Establishment of national clearinghouses. |
-| (b) | National clearinghouse for children and youth with disabilities. |
-| (c) | National clearinghouse on postsecondary education for individuals with disabilities. |
-| (d) | National clearinghouse on careers in special education. |
-| (e) | Priority consideration of applicants. |
-| (f) | Annual report to Congress. |
-| [1434\.](Subchapter%20004%20%28IV%29%20-%20Training%20Personnel%20for%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001434%20-%20Reports%20to%20the%20Secretary.md) | Reports to the Secretary. |
-| [1435\.](Subchapter%20004%20%28IV%29%20-%20Training%20Personnel%20for%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001435%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1411\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001411%20-%20Authorization%3B%20allotment%3B%20use%20of%20funds%3B%20authorization%20of%20appropriations.md) | Authorization; allotment; use of funds; authorization of appropriations. |
+| (a) | Grants to States. |
+| (b) | Outlying areas and freely associated States. |
+| (c) | Secretary of the Interior. |
+| (d) | Allocations to States. |
+| (e) | Permanent formula. |
+| (f) | State-level activities. |
+| (g) | Subgrants to local educational agencies. |
+| (h) | Definitions. |
+| (i) | Use of amounts by Secretary of the Interior. |
+| (j) | Authorization of appropriations. |
+| [1412\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001412%20-%20State%20eligibility.md) | State eligibility. |
 | (a) | In general. |
-| (b) | Personnel training for careers in special education and early intervention. |
-| [1436\.](Subchapter%20004%20%28IV%29%20-%20Training%20Personnel%20for%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001436%20-%20Omitted.md) | Omitted. |
+| (b) | State educational agency as provider of free appropriate public education or direct services. |
+| (c) | Exception for prior State plans. |
+| (d) | Approval by Secretary. |
+| (e) | Assistance under other Federal programs. |
+| (f) | By-pass for children in private schools. |
+| [1413\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001413%20-%20Local%20educational%20agency%20eligibility.md) | Local educational agency eligibility. |
+| (a) | In general. |
+| (b) | Exception for prior local plans. |
+| (c) | Notification of local educational agency or State agency in case of ineligibility. |
+| (d) | Local educational agency compliance. |
+| (e) | Joint establishment of eligibility. |
+| (f) | Coordinated services system. |
+| (g) | School-based improvement plan. |
+| (h) | Direct services by State educational agency. |
+| (i) | State agency eligibility. |
+| (j) | Disciplinary information. |
+| [1414\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001414%20-%20Evaluations%2C%20eligibility%20determinations%2C%20individualized%20education%20programs%2C%20and%20educational%20placements.md) | Evaluations, eligibility determinations, individualized education programs, and educational placements. |
+| (a) | Evaluations and reevaluations. |
+| (b) | Evaluation procedures. |
+| (c) | Additional requirements for evaluation and reevaluations. |
+| (d) | Individualized education programs. |
+| (e) | Construction. |
+| (f) | Educational placements. |
+| [1415\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001415%20-%20Procedural%20safeguards.md) | Procedural safeguards. |
+| (a) | Establishment of procedures. |
+| (b) | Types of procedures. |
+| (c) | Content of prior written notice. |
+| (d) | Procedural safeguards notice. |
+| (e) | Mediation. |
+| (f) | Impartial due process hearing. |
+| (g) | Appeal. |
+| (h) | Safeguards. |
+| (i) | Administrative procedures. |
+| (j) | Maintenance of current educational placement. |
+| (k) | Placement in alternative educational setting. |
+| (<i>l</i>) | Rule of construction. |
+| (m) | Transfer of parental rights at age of majority. |
+| [1416\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001416%20-%20Withholding%20and%20judicial%20review.md) | Withholding and judicial review. |
+| (a) | Withholding of payments. |
+| (b) | Judicial review. |
+| (c) | Divided State agency responsibility. |
+| [1417\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001417%20-%20Administration.md) | Administration. |
+| (a) | Responsibilities of Secretary. |
+| (b) | Rules and regulations. |
+| (c) | Confidentiality. |
+| (d) | Personnel. |
+| [1418\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001418%20-%20Program%20information.md) | Program information. |
+| (a) | In general. |
+| (b) | Sampling. |
+| (c) | Disproportionality. |
+| [1419\.](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/%C2%A7%2001419%20-%20Preschool%20grants.md) | Preschool grants. |
+| (a) | In general. |
+| (b) | Eligibility. |
+| (c) | Allocations to States. |
+| (d) | Reservation for State activities. |
+| (e) | State administration. |
+| (f) | Other State-level activities. |
+| (g) | Subgrants to local educational agencies. |
+| (h) | Subchapter III inapplicable. |
+| (i) | “State” defined. |
+| (j) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER V—RESEARCH IN THE EDUCATION OF INDIVIDUALS WITH DISABILITIES
+#### SUBCHAPTER III—INFANTS AND TODDLERS WITH DISABILITIES
 
 |  |  |
 | :--- | ---: |
-| [1441\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001441%20-%20Research%20and%20related%20activities.md) | Research and related activities. |
-| (a) | Grants, contracts, and cooperative agreements. |
-| (b) | Qualifications of applicants. |
-| (c) | Publication of proposed priorities. |
-| (d) | Index of projects. |
-| (e) | Coordination with other research; information to other agencies. |
-| (f) | Attention deficit disorder. |
-| (g) | Model demonstration programs. |
-| (h) | Research grants for unique needs, specialized instruction, and progress measurement; family involvement; adult role models. |
-| [1442\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001442%20-%20Research%20and%20demonstration%20projects%20in%20physical%20education%20and%20recreation%20for%20children%20with%20disabilities.md) | Research and demonstration projects in physical education and recreation for children with disabilities. |
-| [1443\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001443%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93476%2C%20title%20V%2C%20%C2%A7503%2C%20Oct.%2030%2C%201990%2C%20104%20Stat.%201138.md) | Repealed. |
-| [1444\.](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/%C2%A7%2001444%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1431\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001431%20-%20Findings%20and%20policy.md) | Findings and policy. |
+| (a) | Findings. |
+| (b) | Policy. |
+| [1432\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001432%20-%20Definitions.md) | Definitions. |
+| [1433\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001433%20-%20General%20authority.md) | General authority. |
+| [1434\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001434%20-%20Eligibility.md) | Eligibility. |
+| [1435\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001435%20-%20Requirements%20for%20statewide%20system.md) | Requirements for statewide system. |
+| (a) | In general. |
+| (b) | Policy. |
+| [1436\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001436%20-%20Individualized%20family%20service%20plan.md) | Individualized family service plan. |
+| (a) | Assessment and program development. |
+| (b) | Periodic review. |
+| (c) | Promptness after assessment. |
+| (d) | Content of plan. |
+| (e) | Parental consent. |
+| [1437\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001437%20-%20State%20application%20and%20assurances.md) | State application and assurances. |
+| (a) | Application. |
+| (b) | Assurances. |
+| (c) | Standard for disapproval of application. |
+| (d) | Subsequent State application. |
+| (e) | Modification of application. |
+| (f) | Modifications required by Secretary. |
+| [1438\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001438%20-%20Uses%20of%20funds.md) | Uses of funds. |
+| [1439\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001439%20-%20Procedural%20safeguards.md) | Procedural safeguards. |
+| (a) | Minimum procedures. |
+| (b) | Services during pendency of proceedings. |
+| [1440\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001440%20-%20Payor%20of%20last%20resort.md) | Payor of last resort. |
+| (a) | Nonsubstitution. |
+| (b) | Reduction of other benefits. |
+| [1441\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001441%20-%20State%20interagency%20coordinating%20council.md) | State interagency coordinating council. |
+| (a) | Establishment. |
+| (b) | Composition. |
+| (c) | Meetings. |
+| (d) | Management authority. |
+| (e) | Functions of council. |
+| (f) | Conflict of interest. |
+| [1442\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001442%20-%20Federal%20administration.md) | Federal administration. |
+| [1443\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001443%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
+| (a) | Reservation of funds for outlying areas. |
+| (b) | Payments to Indians. |
+| (c) | State allotments. |
+| (d) | Reallotment of funds. |
+| [1444\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001444%20-%20Federal%20Interagency%20Coordinating%20Council.md) | Federal Interagency Coordinating Council. |
+| (a) | Establishment and purpose. |
+| (b) | Composition. |
+| (c) | Meetings. |
+| (d) | Functions of Council. |
+| (e) | Conflict of interest. |
+| (f) | Federal Advisory Committee Act. |
+| [1445\.](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001445%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VI—INSTRUCTIONAL MEDIA FOR INDIVIDUALS WITH DISABILITIES
+#### SUBCHAPTER IV—NATIONAL ACTIVITIES TO IMPROVE EDUCATION OF CHILDREN WITH DISABILITIES
+
+#### Part A—State Program Improvement Grants for Children with Disabilities
 
 |  |  |
 | :--- | ---: |
-| [1451\.](Subchapter%20006%20%28VI%29%20-%20Instructional%20Media%20for%20Individuals%20with%20Disabilities/%C2%A7%2001451%20-%20Purposes.md) | Purposes. |
-| [1452\.](Subchapter%20006%20%28VI%29%20-%20Instructional%20Media%20for%20Individuals%20with%20Disabilities/%C2%A7%2001452%20-%20Captioned%20films%2C%20television%2C%20descriptive%20video%2C%20and%20educational%20media%20for%20individuals%20with%20disabilities.md) | Captioned films, television, descriptive video, and educational media for individuals with disabilities. |
-| (a) | Establishment of loan service. |
-| (b) | Authority of Secretary. |
-| (c) | National Theatre of the Deaf; other non-profit organizations. |
-| (d) | Transcribed tapes and cassettes. |
-| [1453\.](Subchapter%20006%20%28VI%29%20-%20Instructional%20Media%20for%20Individuals%20with%20Disabilities/%C2%A7%2001453%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93457%2C%20title%20III%2C%20%C2%A7316%2C%20Oct.%208%2C%201986%2C%20100%20Stat.%201171.md) | Repealed. |
-| [1454\.](Subchapter%20006%20%28VI%29%20-%20Instructional%20Media%20for%20Individuals%20with%20Disabilities/%C2%A7%2001454%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1451\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20A%20-%20State%20Program%20Improvement%20Grants%20for%20Children%20with%20Disabilities/%C2%A7%2001451%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
+| (a) | Findings. |
+| (b) | Purpose. |
+| [1452\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20A%20-%20State%20Program%20Improvement%20Grants%20for%20Children%20with%20Disabilities/%C2%A7%2001452%20-%20Eligibility%20and%20collaborative%20process.md) | Eligibility and collaborative process. |
+| (a) | Eligible applicants. |
+| (b) | Partners. |
+| [1453\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20A%20-%20State%20Program%20Improvement%20Grants%20for%20Children%20with%20Disabilities/%C2%A7%2001453%20-%20Applications.md) | Applications. |
+| (a) | In general. |
+| (b) | Determining child and program needs. |
+| (c) | Improvement strategies. |
+| (d) | Competitive awards. |
+| (e) | Peer review. |
+| (f) | Reporting procedures. |
+| [1454\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20A%20-%20State%20Program%20Improvement%20Grants%20for%20Children%20with%20Disabilities/%C2%A7%2001454%20-%20Use%20of%20funds.md) | Use of funds. |
+| (a) | In general. |
+| (b) | Use of funds for professional development. |
+| (c) | Grants to outlying areas. |
+| [1455\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20A%20-%20State%20Program%20Improvement%20Grants%20for%20Children%20with%20Disabilities/%C2%A7%2001455%20-%20Minimum%20State%20grant%20amounts.md) | Minimum State grant amounts. |
+| (a) | In general. |
+| (b) | Inflation adjustment. |
+| (c) | Factors. |
+| [1456\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20A%20-%20State%20Program%20Improvement%20Grants%20for%20Children%20with%20Disabilities/%C2%A7%2001456%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VII—TECHNOLOGY, EDUCATIONAL MEDIA, AND MATERIALS FOR INDIVIDUALS WITH DISABILITIES
+#### Part B—Coordinated Research, Personnel Preparation, Technical Assistance, Support, and Dissemination of Information
 
 |  |  |
 | :--- | ---: |
-| [1461\.](Subchapter%20007%20%28VII%29%20-%20Technology%2C%20Educational%20Media%2C%20and%20Materials%20for%20Individuals%20with%20Disabilities/%C2%A7%2001461%20-%20Financial%20assistance.md) | Financial assistance. |
-| [1462\.](Subchapter%20007%20%28VII%29%20-%20Technology%2C%20Educational%20Media%2C%20and%20Materials%20for%20Individuals%20with%20Disabilities/%C2%A7%2001462%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1461\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/%C2%A7%2001461%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| (a) | Comprehensive plan. |
+| (b) | Eligible applicants. |
+| (c) | Use of funds by Secretary. |
+| (d) | Special populations. |
+| (e) | Priorities. |
+| (f) | Applicant and recipient responsibilities. |
+| (g) | Application management. |
+| (h) | Program evaluation. |
+| (i) | Minimum funding required. |
+| (j) | Eligibility for financial assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 1—improving early intervention, educational, and transitional services and results for children with disabilities through coordinated research and personnel preparation
+
+|  |  |
+| :--- | ---: |
+| 1471\. | Findings and purpose. |
+| (a) | Findings. |
+| (b) | Purpose. |
+| 1472\. | Research and innovation to improve services and results for children with disabilities. |
+| (a) | In general. |
+| (b) | New knowledge production; authorized activities. |
+| (c) | Integration of research and practice; authorized activities. |
+| (d) | Improving use of professional knowledge; authorized activities. |
+| (e) | Balance among activities and age ranges. |
+| (f) | Applications. |
+| (g) | Authorization of appropriations. |
+| 1473\. | Personnel preparation to improve services and results for children with disabilities. |
+| (a) | In general. |
+| (b) | Low-incidence disabilities; authorized activities. |
+| (c) | Leadership preparation; authorized activities. |
+| (d) | Projects of national significance; authorized activities. |
+| (e) | High-incidence disabilities; authorized activities. |
+| (f) | Applications. |
+| (g) | Selection of recipients. |
+| (h) | Service obligation. |
+| (i) | Scholarships. |
+| (j) | Authorization of appropriations. |
+| 1474\. | Studies and evaluations. |
+| (a) | Studies and evaluations. |
+| (b) | National assessment. |
+| (c) | Annual report. |
+| (d) | Technical assistance to LEA. |
+| (e) | Reservation for studies and technical assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 2—improving early intervention, educational, and transitional services and results for children with disabilities through coordinated technical assistance, support, and dissemination of information
+
+|  |  |
+| :--- | ---: |
+| 1481\. | Findings and purposes. |
+| (a) | In general. |
+| (b) | Purposes. |
+| 1482\. | Parent training and information centers. |
+| (a) | Program authorized. |
+| (b) | Required activities. |
+| (c) | Optional activities. |
+| (d) | Application requirements. |
+| (e) | Distribution of funds. |
+| (f) | Quarterly review. |
+| (g) | “Parent organization” defined. |
+| 1483\. | Community parent resource centers. |
+| (a) | In general. |
+| (b) | Required activities. |
+| (c) | “Local parent organization” defined. |
+| 1484\. | Technical assistance for parent training and information centers. |
+| (a) | In general. |
+| (b) | Authorized activities. |
+| 1485\. | Coordinated technical assistance and dissemination. |
+| (a) | In general. |
+| (b) | Systemic technical assistance; authorized activities. |
+| (c) | Specialized technical assistance; authorized activities. |
+| (d) | National information dissemination; authorized activities. |
+| (e) | Applications. |
+| [1486\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20002%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001486%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1487\.](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/Part%20B%20-%20Coordinated%20Research%2C%20Personnel%20Preparation%2C%20Technical%20Assistance%2C%20Support%2C%20and%20Dissemination%20of%20Information/Subpart%20002%20-%20Improving%20Early%20Intervention%2C%20Educational%2C%20and%20Transitional%20Services%20and%20Results%20for%20Children%20with%20Disabilities%20Through%20Coordinated%E2%80%A6/%C2%A7%2001487%20-%20Technology%20development%2C%20demonstration%2C%20and%20utilization%3B%20and%20media%20services.md) | Technology development, demonstration, and utilization; and media services. |
+| (a) | In general. |
+| (b) | Technology development, demonstration, and utilization; authorized activities. |
+| (c) | Educational media services; authorized activities. |
+| (d) | Applications. |
+| (e) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -235,12 +296,12 @@
 
 |  |  |
 | :--- | ---: |
-| [1471\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001471%20-%20Congressional%20findings%20and%20policy.md) | Congressional findings and policy. |
+| 1471\. | Congressional findings and policy. |
 | (a) | Findings. |
 | (b) | Policy. |
-| [1472\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001472%20-%20Definitions.md) | Definitions. |
-| [1473\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001473%20-%20General%20authority.md) | General authority. |
-| [1474\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001474%20-%20General%20eligibility.md) | General eligibility. |
+| 1472\. | Definitions. |
+| 1473\. | General authority. |
+| 1474\. | General eligibility. |
 | [1475\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001475%20-%20Continuing%20eligibility.md) | Continuing eligibility. |
 | (a) | First two years. |
 | (b) | Third and fourth year. |
@@ -262,10 +323,10 @@
 | (c) | Approval of application and assurances required. |
 | [1479\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001479%20-%20Uses%20of%20funds.md) | Uses of funds. |
 | [1480\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001480%20-%20Procedural%20safeguards.md) | Procedural safeguards. |
-| [1481\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001481%20-%20Payor%20of%20last%20resort.md) | Payor of last resort. |
+| 1481\. | Payor of last resort. |
 | (a) | Nonsubstitution. |
 | (b) | Reduction of other benefits. |
-| [1482\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001482%20-%20State%20Interagency%20Coordinating%20Council.md) | State Interagency Coordinating Council. |
+| 1482\. | State Interagency Coordinating Council. |
 | (a) | Establishment. |
 | (b) | Composition. |
 | (c) | Meetings. |
@@ -273,8 +334,8 @@
 | (e) | Functions of Council. |
 | (f) | Conflict of interest. |
 | (g) | Use of existing Councils. |
-| [1483\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001483%20-%20Federal%20administration.md) | Federal administration. |
-| [1484\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001484%20-%20Allocation%20of%20funds.md) | Allocation of funds. |
+| 1483\. | Federal administration. |
+| 1484\. | Allocation of funds. |
 | (a) | Territories and insular possessions. |
 | (b) | Payments to Secretary of the Interior for assistance to Indians. |
 | (c) | States. |
@@ -285,7 +346,7 @@
 | (c) | Meetings. |
 | (d) | Functions of Council. |
 | (e) | Conflict of interest. |
-| [1485\.](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/%C2%A7%2001485%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| 1485\. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -362,7 +423,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1141, 1203a, 1206a, 2321, 2323, 3441, 4356, 6062, 6143, 6314, 6365, 6493, 6645, 6648, 6649, 7426, 7703, 8921, 8923 of this title; title 5 section 5924; title 10 section 2164; title 25 sections 2503, 2504; title 29 sections 721, 1533, 1645, 2618; title 42 sections 290ff–2, 290ff–4, 300x–1, 1760, 1769h, 6024, 9855d.
+This chapter is referred to in sections 1141, 1203a, 1206a, 2321, 2323, 3441, 4356, 6062, 6143, 6314, 6365, 6493, 6645, 6648, 6649, 7426, 7703, 8921 of this title; title 5 section 5924; title 10 section 2164; title 25 sections 2503, 2504; title 29 sections 721, 1533, 1645, 2618; title 42 sections 290ff–2, 290ff–4, 300x–1, 1760, 1769h, 6024, 9855d.
 
 
 ---
@@ -371,10 +432,7 @@ This chapter is referred to in sections 1141, 1203a, 1206a, 2321, 2323, 3441, 43
 
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - Assistance for Education of All Children with Disabilities](Subchapter%20002%20%28II%29%20-%20Assistance%20for%20Education%20of%20All%20Children%20with%20Disabilities/README.md)
-- [Subchapter 003 (III) - Centers and Services to Meet Special Needs of Individuals with Disabilities](Subchapter%20003%20%28III%29%20-%20Centers%20and%20Services%20to%20Meet%20Special%20Needs%20of%20Individuals%20with%20Disabilities/README.md)
-- [Subchapter 004 (IV) - Training Personnel for the Education of Individuals with Disabilities](Subchapter%20004%20%28IV%29%20-%20Training%20Personnel%20for%20the%20Education%20of%20Individuals%20with%20Disabilities/README.md)
-- [Subchapter 005 (V) - Research in the Education of Individuals with Disabilities](Subchapter%20005%20%28V%29%20-%20Research%20in%20the%20Education%20of%20Individuals%20with%20Disabilities/README.md)
-- [Subchapter 006 (VI) - Instructional Media for Individuals with Disabilities](Subchapter%20006%20%28VI%29%20-%20Instructional%20Media%20for%20Individuals%20with%20Disabilities/README.md)
-- [Subchapter 007 (VII) - Technology, Educational Media, and Materials for Individuals with Disabilities](Subchapter%20007%20%28VII%29%20-%20Technology%2C%20Educational%20Media%2C%20and%20Materials%20for%20Individuals%20with%20Disabilities/README.md)
+- [Subchapter 003 (III) - Infants and Toddlers with Disabilities](Subchapter%20003%20%28III%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/README.md)
+- [Subchapter 004 (IV) - National Activities to Improve Education of Children with Disabilities](Subchapter%20004%20%28IV%29%20-%20National%20Activities%20to%20Improve%20Education%20of%20Children%20with%20Disabilities/README.md)
 - [Subchapter 008 (VIII) - Infants and Toddlers with Disabilities](Subchapter%20008%20%28VIII%29%20-%20Infants%20and%20Toddlers%20with%20Disabilities/README.md)
 - [Subchapter 009 (IX) - Family Support](Subchapter%20009%20%28IX%29%20-%20Family%20Support/README.md)

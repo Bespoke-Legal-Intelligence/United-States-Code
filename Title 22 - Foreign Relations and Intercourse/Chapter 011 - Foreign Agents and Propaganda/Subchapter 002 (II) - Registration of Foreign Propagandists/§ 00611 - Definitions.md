@@ -36,7 +36,7 @@ As used in and for the purposes of this subchapter—
 
 (h) The term “publicity agent” includes any person who engages directly or indirectly in the publication or dissemination of oral, visual, graphic, written, or pictorial information or matter of any kind, including publication by means of advertising, books, periodicals, newspapers, lectures, broadcasts, motion pictures, or otherwise;
 
-(i) The term “information-service employee” includes any person who is engaged in furnishing, disseminating, or publishing accounts, descriptions, information, or data with respect to the political, industrial, employment, economic, social, cultural, or other benefits, advantages, facts, or conditions of any country other than the United States or of any government of a foreign country or of a foreign political party or ofa partnership, association, corporation, organization, or other combination of individuals organized under the laws of, or having its principal place of business in, a foreign country;
+(i) The term “information-service employee” includes any person who is engaged in furnishing, disseminating, or publishing accounts, descriptions, information, or data with respect to the political, industrial, employment, economic, social, cultural, or other benefits, advantages, facts, or conditions of any country other than the United States or of any government of a foreign country or of a foreign political party or of a partnership, association, corporation, organization, or other combination of individuals organized under the laws of, or having its principal place of business in, a foreign country;
 
 (j) Repealed. Pub. L. 104–65, §9(1)(A), Dec. 19, 1995, 109 Stat. 699.
 
@@ -52,7 +52,7 @@ As used in and for the purposes of this subchapter—
 
 (p) The term “political consultant” means any person who engages in informing or advising any other person with reference to the domestic or foreign policies of the United States or the political or public interest, policies, or relations of a foreign country or of a foreign political party.
 
-(June 8, 1938, ch. 327, §1, 52 Stat. 631; Aug. 7, 1939, ch. 521, §1, 53 Stat. 1244; Apr. 29, 1942, ch. 263, §1, 56 Stat. 249; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Sept. 23, 1950, ch. 1024, title I, §20(a), 64 Stat. 1005; Aug. 1, 1956, ch. 849, §1, 70 Stat. 899; Oct. 4, 1961, Pub. L. 87–366, §1, 75 Stat. 784; July 4, 1966, Pub. L. 89–486, §1, 80 Stat. 244; Aug. 12, 1970, Pub. L. 91–375, §6(k), 84 Stat. 782; Dec. 19, 1995, Pub. L. 104–65, §9(1), 109 Stat. 699.)
+(June 8, 1938, ch. 327, §1, 52 Stat. 631; Aug. 7, 1939, ch. 521, §1, 53 Stat. 1244; Apr. 29, 1942, ch. 263, §1, 56 Stat. 249; Proc. No. 2695, July 4, 1946, 11 F.R.7517, 60 Stat. 1352; Sept. 23, 1950, ch. 1024, title I, §20(a), 64 Stat. 1005; Aug. 1, 1956, ch. 849, §1, 70 Stat. 899; Pub. L. 87–366, §1, Oct. 4, 1961, 75 Stat. 784; Pub. L. 89–486, §1, July 4, 1966, 80 Stat. 244; Pub. L. 91–375, §6(k), Aug. 12, 1970, 84 Stat. 782; Pub. L. 104–65, §9(1), Dec. 19, 1995, 109 Stat. 699.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ Subsec. (q). Pub. L. 104–65, §9(1)(D), struck out subsec. (q) which read as f
 
 1970—Subsec. (d). Pub. L. 91–375 substituted “file with the United States Postal Service information in compliance with section 3611 of title 39” for “file with the Postmaster General a sworn statement in compliance with section 2 of the Act of August 24, 1912 (37 Stat. 553), as amended”.
 
-1966—Subsec. (b). Pub. L. 89–486, §1(1), redesignated former pars. (3) and (4) as (2) and (3), substituted in such par. (3) “combination of persons” for “combination of individuals” and struck out from definition of “foreign principal” former pars. (2), (5), and (6) whichincluded “(2) an individual affiliated or associated with, or supervised, directed, controlled, financed, or subsidized, in whole or in part, by any foreign principal defined in clause (1) of this subsection”; “(5) a domestic partnership, association, corporation, organization, or other combination of individuals, subsidized directly or indirectly, in whole or in part, by any foreign principal defined in clause (1), (3), or (4) of this subsection”; and “(6) a domestic partnership, association, corporation, or other combination of individuals, supervised, directed, controlled, or financed, in whole or in substantial part, by any foreign government or foreign political party”.
+1966—Subsec. (b). Pub. L. 89–486, §1(1), redesignated former pars. (3) and (4) as (2) and (3), substituted in such par. (3) “combination of persons” for “combination of individuals” and struck out from definition of “foreign principal” former pars. (2), (5), and (6) which included “(2) an individual affiliated or associated with, or supervised, directed, controlled, financed, or subsidized, in whole or in part, by any foreign principal defined in clause (1) of this subsection”; “(5) a domestic partnership, association, corporation, organization, or other combination of individuals, subsidized directly or indirectly, in whole or in part, by any foreign principal defined in clause (1), (3), or (4) of this subsection”; and “(6) a domestic partnership, association, corporation, or other combination of individuals, supervised, directed, controlled, or financed, in whole or in substantial part, by any foreign government or foreign political party”.
 
 Subsec. (c). Pub. L. 89–486, §1(2), amended provisions generally to redefine “agent of a foreign principal” by specifying four categories of activities creating the agency relationship where person acts as agent, employee, representative, or servant or at the order of, or under the control of, a foreign principal, by requiring a showing not only of foreign connections but also of certain activities performed by the agent for foreign interests, by making change as it relates to problem of indirect control exerted by foreign principals over their agents, by including political activities and actions as political consultant, by excluding attorneys from the relationship, by incorporating provisions of former par. (3) in par. (2) where a person assumes or purports to act as an agent of a foreign principal, and by eliminating the separate category for military or governmental officials contained in former par. (4).
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Effective Date of 1966 Amendment
 
-Section 9 of Pub. L. 89–486 provided that: “This Act \[enacting sections 219 and 613 of Title 18, Crimes and Criminal Procedure, and amending this section and sections 612 to 616 and 618 of this title\] shall take effect ninety days after the date of its enactment \[July 4, 1966\].”
+Section 9 of Pub. L. 89–486 provided that: “This Act \[enacting sections 219 and 613 of Title 18, Crimes and Criminal Procedure, and amending this section and sections 612 to 616 and 618 of this title\] shall take effectninety days after the date of its enactment \[July 4, 1966\].”
 
 #### Effective Date of 1942 Amendment
 

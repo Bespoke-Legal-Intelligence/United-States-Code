@@ -6,7 +6,7 @@ For the purposes of this chapter, examiners appointed by the Director shall—
 
 &emsp;(2) have, in the exercise of functions under this chapter, the same powers and privileges as are vested in such examiners by law.
 
-(June 13, 1933, ch. 64, §13, as added Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 343.)
+(June 13, 1933, ch. 64, §13, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 343.)
 
 #### References in Text
 

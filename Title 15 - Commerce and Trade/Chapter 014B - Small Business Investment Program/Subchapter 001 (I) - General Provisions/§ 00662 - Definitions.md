@@ -40,9 +40,11 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(iii) funds obtained directly or indirectly from any Federal, State, or local government, or any government agency or instrumentality, except for—
 
-&emsp;&emsp;&emsp;&emsp;(I) funds invested by an employee welfare benefit plan or pension plan; and
+&emsp;&emsp;&emsp;&emsp;(I) funds obtained from the business revenues (excluding any governmental appropriation) of any federally chartered or government-sponsored corporation established prior to October 1, 1987;
 
-&emsp;&emsp;&emsp;&emsp;(II) any qualified nonprivate funds (if the investors of the qualified nonprivate funds do not control, directly or indirectly, the management, board of directors, general partners, or members of the licensee);
+&emsp;&emsp;&emsp;&emsp;(II) funds invested by an employee welfare benefit plan or pension plan; and
+
+&emsp;&emsp;&emsp;&emsp;(III) any qualified nonprivate funds (if the investors of the qualified nonprivate funds do not control, directly or indirectly, the management, board of directors, general partners, or members of the licensee);
 
 &emsp;(10) the term “leverage” includes—
 
@@ -82,7 +84,7 @@ As used in this chapter—
 
 &emsp;(16) the term “limited liability company” means a business entity that is organized and operating in accordance with a State limited liability company statute approved by the Administration.
 
-(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739.)
+(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601.)
 
 #### References in Text
 
@@ -90,9 +92,11 @@ For definition of “this chapter”, referred to in text, see References in Tex
 
 The Small Business Act, referred to in par. (5), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified to chapter 14A (§631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables. The term “small-business concern” is defined in section 632 of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in par. (14), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in par. (14), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
+
+1997—Par. (9)(B)(iii). Pub. L. 105–135 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
 1996—Par. (5). Pub. L. 104–208, §208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
 
@@ -120,11 +124,15 @@ Par. (7). Pub. L. 87–341, §2(2), added par. (7).
 
 1960—Par. (4). Pub. L. 86–502 substituted definition of “State” for definition of “United States”.
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
+
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 section 635; title 18 section 20.
+This section is referred to in section 683 of this title; title 12 section 635; title 18 section 20.
 

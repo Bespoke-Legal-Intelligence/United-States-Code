@@ -14,7 +14,7 @@ For each of fiscal years 1996 through 2002, the Secretary shall use the funds of
 
 #### (1) In general
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available $130,000,000 for fiscal year 1996, and $200,000,000 for each of fiscal years 1997 through 2002, forproviding technical assistance, cost-share payments, incentive payments, and education under the environmental quality incentives program under part IV of subchapter IV of this chapter.
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available $130,000,000 for fiscal year 1996, and $200,000,000 for each of fiscal years 1997 through 2002, for providing technical assistance, cost-share payments, incentive payments, and education under the environmental quality incentives program under part IV of subchapter IV of this chapter.
 
 #### (2) Livestock production
 

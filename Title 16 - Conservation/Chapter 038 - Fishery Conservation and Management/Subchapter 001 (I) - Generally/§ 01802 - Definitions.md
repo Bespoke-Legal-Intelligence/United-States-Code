@@ -132,7 +132,7 @@ Sponges
 
 &emsp;(16) The term “fishing community” means a community which is substantially dependent on or substantially engaged in the harvest or processing of fishery resources to meet social and economic needs, and includes fishing vessel owners, operators, and crew and United States fish processors that are based in such community.
 
-&emsp;(17) The term “fishing vessel” means any vessel, boat, ship, or other craft which is usedfor, equipped to be used for, or of a type which is normally used for—
+&emsp;(17) The term “fishing vessel” means any vessel, boat, ship, or other craft which is used for, equipped to be used for, or of a type which is normally used for—
 
 &emsp;&emsp;(A) fishing; or
 
@@ -142,7 +142,7 @@ Sponges
 
 &emsp;(19) The term “high seas” means all waters beyond the territorial sea of the United States and beyond any foreign nation's territorial sea, to the extent that such sea is recognized by the United States.
 
-&emsp;(20) The term “highly migratory species” means tuna species, marlin (Tetrapturus spp. and Makaira spp.), oceanic sharks, sailfishes (Istiophorus spp.), and swordfish (Xiphias gladius).
+&emsp;(20) The term “highly migratory species” means tuna species, marlin (Tetrapturus spp.and Makaira spp.), oceanic sharks, sailfishes (Istiophorus spp.), and swordfish (Xiphias gladius).
 
 &emsp;(21) The term “individual fishing quota” means a Federal permit under a limited access system to harvest a quantity of fish, expressed by a unit or units representing a percentage of the total allowable catch of a fishery that may be received or held for exclusive use by a person. Such term does not include community development quotas as described in section 1855(i) of this title.
 
@@ -304,7 +304,7 @@ Par. (28). Pub. L. 104–297, §102(7), added par. (28) and struck out former pa
 
 &emsp;“(A) which will provide the greatest overall benefit to the Nation, with particular reference to food production and recreational opportunities; and
 
-&emsp;“(B) which is prescribed as such on the basis of the maximum sustainable yield from such fishery, as modified by any relevant economic, social, or ecological factor.”
+&emsp;“(B) which is prescribed as such on the basis of the maximum sustainable yield from such fishery, asmodified by any relevant economic, social, or ecological factor.”
 
 Pub. L. 104–297, §102(5), redesignated par. (27) as (28). Former par. (28) redesignated (29).
 
@@ -494,7 +494,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 917a, 971, 971d, 1383a, 1387, 1854, 3377, 3601 of this title; title 22 sections 1971, 1980; title 46 sections 8103, 8704; title 46 App. section 1271; title 48 section 1904.
+This section is referred to in sections 917a, 971, 971d, 1371, 1383a, 1387, 1854, 3377, 3601 of this title; title 22 sections 1971, 1980; title 46 sections 8103, 8704; title 46 App. section 1271; title 48 section 1904.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

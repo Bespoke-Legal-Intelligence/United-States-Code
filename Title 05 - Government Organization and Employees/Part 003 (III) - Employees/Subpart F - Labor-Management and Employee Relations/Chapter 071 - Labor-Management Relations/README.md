@@ -62,7 +62,7 @@ Labor-management relations in the Foreign Service, see section 4101 et seq. of T
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 4505a, 4703, 5366, 5596, 6121, 8473 of this title; title 2 sections 1302, 1351, 1371, 1434; title 3 sections 402, 431; title 7 section 7011; title 10 section 461; title 20 section 4416; title 22 sections 3701, 4107, 4109; title 31 section 732; title 38 sections 7422, 7461, 7463; title 45 section 1203.
+This chapter is referred to in sections 4505a, 4703, 5366, 5596, 6121, 8473 of this title; title 2 sections 1302, 1351, 1371, 1434; title 3 sections 402, 431; title 7 section 7011; title 10 section 461; title 18 section 205; title 20 section 4416; title 22 sections 3664, 3701, 4107, 4109; title 31 section 732; title 38 sections 7422, 7461, 7463; title 45 section 1203.
 
 
 ---

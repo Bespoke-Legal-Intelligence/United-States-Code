@@ -2,17 +2,13 @@
 
 (a)
 
-Prevailing Wages and Health and Safety Standards.—(1) Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under section 24308(a), 24701(a), or 24704(b)(2) of this title will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5). Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under section 107 of the Contract Work Hours and Safety Standards Act (40 U.S.C. 333) apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
-
-(2) Wage rates in a collective bargaining agreement negotiated under the Railway LaborAct (45 U.S.C. 151 et seq.) are deemed to comply with the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5).
+Prevailing Wages and Health and Safety Standards.—Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under section 24308(a) of this title will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5). Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under section 107 of the Contract Work Hours and Safety Standards Act (40 U.S.C. 333) apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
 
 (b)
 
-Contracting Out.—(1) Amtrak may not contract out work normally performed by an employee in a bargaining unit covered by a contract between a labor organization and Amtrak or a rail carrier that provided intercity rail passenger transportation on October 30, 1970, if contracting out results in the layoff of an employee in the bargaining unit.
+Wage Rates.—Wage rates in a collective bargaining agreement negotiated under theRailway Labor Act (45 U.S.C. 151 et seq.) are deemed to comply with the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5).
 
-(2) This subsection does not apply to food and beverage services provided on trains of Amtrak.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 916.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 916; Pub. L. 105–134, title I, §§101(f), 105(c), 121(a), Dec. 2, 1997, 111 Stat. 2572–2574.)
 
 Historical and Revision Notes
 
@@ -44,7 +40,61 @@ In subsection (b)(1), the words “Except as provided in paragraph (2) of this s
 
 #### References in Text
 
-Act of March 3, 1931, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to section 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+Act of March 3, 1931, referred to in text, is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to section 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
-The Railway Labor Act, referred to in subsec. (a)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+
+#### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–134, §121(a)(2), redesignated par. (1) as subsec. (a).
+
+Pub. L. 105–134, §§101(f), 105(c), struck out “, 24701(a), or 24704(b)(2)” after “24308(a)”.
+
+Subsec. (a)(2). Pub. L. 105–134, §121(a)(3), redesignated par. (2) as subsec. (b).
+
+Subsec. (b). Pub. L. 105–134, §121(a)(1), (3), redesignated subsec. (a)(2) as (b), inserted heading, and struck out former subsec. (b), which read as follows:
+
+“(b)
+
+Contracting Out.—(1) Amtrak may not contract out work normally performed by an employee in a bargaining unit covered by a contract between a labor organization and Amtrak or a rail carrier that provided intercity rail passenger transportation on October 30, 1970, if contracting out results in the layoff of an employee in the bargaining unit.
+
+“(2) This subsection does not apply to food and beverage services provided on trains of Amtrak.”
+
+#### Contracting Out
+
+Pub. L. 105–134, title I, §121(b)–(d), Dec. 2, 1997, 111 Stat. 2574, 2575, provided that:
+
+“(b)
+
+Amendment of Existing Collective Bargaining Agreement.—
+
+&emsp;“(1)
+
+Contracting out.—Any collective bargaining agreement entered into between Amtrak and an organization representing Amtrak employees before the date of enactment of this Act \[Dec. 2, 1997\] is deemed amended to include the language of section 24312(b) of title 49, United States Code, as that section existed on the day before the effective date \[Dec. 2, 1997\] of the amendments made by subsection (a) \[amending this section\].
+
+&emsp;“(2)
+
+Enforceability of amendment.—The amendment to any such collective bargaining agreement deemed to be made by paragraph (1) of this subsection is binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act \[45 U.S.C. 151 et seq.\].
+
+“(c)
+
+Contracting-out Issues To Be Included in Negotiations.—Proposals on the subject matter of contracting out work, other than work related to food and beverage service, which results in the layoff of an Amtrak employee—
+
+&emsp;“(1) shall be included in negotiations under section 6 of the Railway Labor Act (45 U.S.C. 156) between Amtrak and an organization representing Amtrak employees, which shall be commenced by—
+
+&emsp;&emsp;“(A) the date on which labor agreements under negotiation on the date of enactment of this Act \[Dec. 2, 1997\] may be re-opened; or
+
+&emsp;&emsp;“(B) November 1, 1999,
+
+> &emsp;whichever is earlier;
+
+&emsp;“(2) may, at the mutual election of Amtrak and an organization representing Amtrak employees, be included in any negotiation in progress under section 6 of the Railway Labor Act (45 U.S.C. 156) on the date of enactment of this Act; and
+
+&emsp;“(3) may not be included in any negotiation in progress under section 6 of the Railway Labor Act (45 U.S.C. 156) on the date of enactment of this Act, unless both Amtrak and the organization representing Amtrak employees agree to include it in the negotiation.
+
+> No contract between Amtrak and an organization representing Amtrak employees, that is under negotiation on the date of enactment of this Act, may contain a moratorium that extends more than 5 years from the date of expiration of the last moratorium.
+
+“(d)
+
+No Inference.—The amendment made by subsection (a)(1) \[amending this section\] is without prejudice to the power of Amtrak to contract out the provision of food and beverage services on board Amtrak trains or to contract out work not resulting in the layoff of Amtrak employees.”
 

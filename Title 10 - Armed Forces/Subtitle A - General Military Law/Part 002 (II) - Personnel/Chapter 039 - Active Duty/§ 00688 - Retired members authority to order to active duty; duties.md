@@ -32,17 +32,29 @@ Exclusion of Officers Retired on Selective Early Retirement Basis.—The followi
 
 (e)
 
-Limitation of Period of Recall Service.—A member ordered to active duty under subsection (a) may not serve on active duty pursuant to orders under that subsection for more than 12 months within the 24 months following the first day of the active duty to which ordered under that subsection.
+Limitation of Period of Recall Service.—(1) A member ordered to active duty under subsection (a) may not serve on active duty pursuant to orders under that subsection for more than 12 months within the 24 months following the first day of the active duty to which ordered under that subsection.
+
+(2) Paragraph (1) does not apply to the following officers:
+
+&emsp;(A) A chaplain who is assigned to duty as a chaplain for the period of active duty to which ordered.
+
+&emsp;(B) A health care professional (as characterized by the Secretary concerned) who is assigned to duty as a health care professional for the period of active duty to which ordered.
+
+&emsp;(C) An officer assigned to duty with the American Battle Monuments Commission for the period of active duty to which ordered.
 
 (f)
 
 Waiver for Periods of War or National Emergency.—Subsections (d) and (e) do not apply in time of war or of national emergency declared by Congress or the President.
 
-(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2515.)
+(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2515; amended Pub. L. 105–85, div. A, title V, §502, Nov. 18, 1997, 111 Stat. 1724.)
 
 #### Prior Provisions
 
 A prior section 688, added Pub. L. 96–513, title I, §106, Dec. 12, 1980, 94 Stat. 2868; amended Pub. L. 98–94, title X, §1017(b)(1)–(3), Sept. 24, 1983, 97 Stat. 669; Pub. L. 99–145, title V, §516, Nov. 8, 1985, 99 Stat. 630; Pub. L. 102–190, div. A, title V, §506(a), Dec. 5, 1991, 105 Stat. 1359; Pub. L. 103–160, div. A, title V, §563, Nov. 30, 1993, 107 Stat. 1669, provided that certain retired members of the armed forces could be ordered to active duty, prior to repeal by Pub. L. 104–201, div. A, title V, §521(a), (b), Sept. 23, 1996, 110 Stat. 2515, 2517, effective Sept. 30, 1997. See sections 688 to 690 of this title.
+
+#### Amendments
+
+1997—Subsec. (e). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date
 
@@ -50,5 +62,5 @@ Section 521(b) of Pub. L. 104–201 provided that: “The amendments made by thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 689, 690, 12307 of this title; title 37 sections 302f, 403a; title 38 sections 3013, 3231, 3511, 4312; title 50 App. section 592.
+This section is referred to in sections 101, 689, 690, 12307 of this title; title 37 sections 302f, 403; title 38 sections 3013, 3231, 3511, 4312; title 50 App. section 592.
 

@@ -13,10 +13,13 @@
 | [2408\.](%C2%A7%2002408%20-%20Aid%20to%20States%20for%20establishment%2C%20expansion%2C%20and%20improvement%20of%20veterans%E2%80%99%20cemeteries.md) | Aid to States for establishment, expansion, and improvement of veterans’ cemeteries. |
 | [2409\.](%C2%A7%2002409%20-%20Memorial%20areas%20in%20Arlington%20National%20Cemetery.md) | Memorial areas in Arlington National Cemetery. |
 | [2410\.](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md) | Burial of cremated remains in Arlington National Cemetery. |
+| [2411\.](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20System%20or%20Arlington%20National%20Cemetery%20of%20persons%20committing%E2%80%A6.md) | Prohibition against interment or memorialization in the National Cemetery System or Arlington National Cemetery of persons committing Federal or State capital crimes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–116, §1(b), Nov. 21, 1997, 111 Stat. 2382, added item 2411.
 
 1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1000 to 1010 as 2400 to 2410, respectively.
 
@@ -42,3 +45,4 @@
 - [&sect; 02408 - Aid to States for establishment, expansion, and improvement of veterans&#8217; cemeteries](%C2%A7%2002408%20-%20Aid%20to%20States%20for%20establishment%2C%20expansion%2C%20and%20improvement%20of%20veterans%E2%80%99%20cemeteries.md)
 - [&sect; 02409 - Memorial areas in Arlington National Cemetery](%C2%A7%2002409%20-%20Memorial%20areas%20in%20Arlington%20National%20Cemetery.md)
 - [&sect; 02410 - Burial of cremated remains in Arlington National Cemetery](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md)
+- [&sect; 02411 - Prohibition against interment or memorialization in the National Cemetery System or Arlington National Cemetery of persons committing&#8230;](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20System%20or%20Arlington%20National%20Cemetery%20of%20persons%20committing%E2%80%A6.md)

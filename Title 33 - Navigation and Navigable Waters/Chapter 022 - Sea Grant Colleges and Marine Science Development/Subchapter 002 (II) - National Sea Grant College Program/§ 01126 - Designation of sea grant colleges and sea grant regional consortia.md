@@ -44,7 +44,7 @@ The Secretary may, for cause and after an opportunity for hearing, suspend or te
 
 #### References in Text
 
-The National Sea Grant College and Program Act of 1966, referred to in subsec. (a), was the name of title II of Pub. L. 89–454, as added by Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 998, prior to the 1976 amendment thereof by Pub. L. 94–461. Section 204(c) of the National Sea Grant College and Program Act of 1966, referred to in subsec. (a)(2)(A), therefore means section 1123(c) of this title prior to the amendment thereof by Pub. L. 94–461.
+The National Sea Grant College and Program Act of 1966, referred to in subsec. (a), was the name of title IIof Pub. L. 89–454, as added by Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 998, prior to the 1976 amendment thereof by Pub. L. 94–461. Section 204(c) of the National Sea Grant College and Program Act of 1966, referred to in subsec. (a)(2)(A), therefore means section 1123(c) of this title prior to the amendment thereof by Pub. L. 94–461.
 
 #### Amendments
 

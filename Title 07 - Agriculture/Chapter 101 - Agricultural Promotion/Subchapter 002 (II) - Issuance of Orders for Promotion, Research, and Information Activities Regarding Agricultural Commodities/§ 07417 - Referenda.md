@@ -60,7 +60,7 @@ An order may provide for its approval in a referendum—
 
 #### (f) Costs of referenda
 
-The board established under an order with respect to which a referendum is conducted underthis section shall reimburse the Secretary for any expenses incurred by the Secretary to conduct the referendum.
+The board established under an order with respect to which a referendum is conducted under this section shall reimburse the Secretary for any expenses incurred by the Secretary to conduct the referendum.
 
 #### (g) Manner of conducting referenda
 

@@ -12,7 +12,7 @@ Except as otherwise provided in this section, any depository institution which f
 
 &emsp;&emsp;(i) as to each member of the class, no minimum recovery shall be applicable; and
 
-&emsp;&emsp;(ii) the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same depository institutionshall not be more than the lesser of $500,000 or 1 percent of the net worth of the depository institution involved; and
+&emsp;&emsp;(ii) the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same depository institution shall not be more than the lesser of $500,000 or 1 percent of the net worth of the depository institution involved; and
 
 &emsp;(3) in the case of any successful action to enforce any liability under paragraph (1) or (2), the costs of the action, together with a reasonable attorney's fee as determined by the court.
 
@@ -54,7 +54,7 @@ Any action under this section may be brought in any United States district court
 
 #### (f) Reliance on Board rulings
 
-No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any regulation or order, or any interpretation of any regulation or order, of the Board, or in conformity with any interpretation or approval by an official or employee of the Board duly authorized by the Board to issue such interpretation or approval under procedures prescribed by the Board, notwithstanding, the fact that after such act or omission has occurred, such regulation, order, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any regulation or order, or any interpretation of any regulation or order, of the Board, or in conformity with any interpretation or approval by an official or employee of the Board duly authorized by theBoard to issue such interpretation or approval under procedures prescribed by the Board, notwithstanding, the fact that after such act or omission has occurred, such regulation, order, interpretation, or approval is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 #### (g) Notification of and adjustment for errors
 

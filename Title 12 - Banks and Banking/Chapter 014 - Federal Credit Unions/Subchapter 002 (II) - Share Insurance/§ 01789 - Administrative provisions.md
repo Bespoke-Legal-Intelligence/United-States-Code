@@ -30,7 +30,7 @@
 
 &emsp;(2) maintain an integral set of accounts, which shall be audited by the General Accounting Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 <sup>2</sup> of title 31.
 
-(June 26, 1934, ch. 750, title II, §209, as added Oct. 19, 1970, Pub. L. 91–468, §1(3), 84 Stat. 1014; amended Jan. 2, 1975, Pub. L. 93–604, title VII, §706, 88 Stat. 1964; Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681.)
+(June 26, 1934, ch. 750, title II, §209, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1014; amended Pub. L. 93–604, title VII, §706, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681.)
 
 #### References in Text
 

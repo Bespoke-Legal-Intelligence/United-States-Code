@@ -4,7 +4,7 @@
 
 (b) The legislature shall have authority to enact legislation establishing the voting age for residents of the Virgin Islands at an age not lower than eighteen years of age, if a majority of the qualified voters in the Virgin Islands approve in a referendum election held for that purpose.
 
-(July 22, 1954, ch. 558, §4, 68 Stat. 498; Oct. 16, 1970, Pub. L. 91–460, 84 Stat. 978.)
+(July 22, 1954, ch. 558, §4, 68 Stat. 498; Pub. L. 91–460, Oct. 16, 1970, 84 Stat. 978.)
 
 #### Amendments
 

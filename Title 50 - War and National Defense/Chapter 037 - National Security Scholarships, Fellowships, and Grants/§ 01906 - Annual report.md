@@ -26,7 +26,7 @@ Each such report shall contain—
 
 &emsp;(6) the current list of agencies and offices of the Federal Government required to be developed by section 1902(g) of this title; and
 
-&emsp;(7) any legislative changes recommended by the Secretary to facilitate the administrationof the program or otherwise to enhance its objectives.
+&emsp;(7) any legislative changes recommended by the Secretary to facilitate the administration of the program or otherwise to enhance its objectives.
 
 #### (c) Submission of initial report
 

@@ -1,0 +1,34 @@
+### §7479. Definitions
+
+For purposes of this part—
+
+&emsp;(1) The term “major emitting facility” means any of the following stationary sources of air pollutants which emit, or have the potential to emit, one hundred tons per year or more of any air pollutant from the following types of stationary sources: fossil-fuel fired steam electric plants of more than two hundred and fifty million British thermal units per hour heat input, coal cleaning plants (thermal dryers), kraft pulp mills, Portland Cement plants, primary zinc smelters, iron and steel mill plants, primary aluminum ore reduction plants, primary copper smelters, municipal incinerators capable of charging more than fifty tons of refuse per day, hydrofluoric, sulfuric, and nitric acid plants, petroleum refineries, lime plants, phosphate rock processing plants, coke oven batteries, sulfur recovery plants, carbon black plants (furnace process), primary lead smelters, fuel conversion plants, sintering plants, secondary metal production facilities, chemical process plants, fossil-fuel boilers of more than two hundred and fifty million British thermal units per hour heat input, petroleum storage and transfer facilities with a capacity exceeding three hundred thousand barrels, taconite ore processing facilities, glass fiber processing plants, charcoal production facilities. Such term also includes any other source with the potential to emit two hundred and fifty tons per year or more of any air pollutant. This term shall not include new or modified facilities which are nonprofit health or education institutions which have been exempted by the State.
+
+&emsp;(2)(A) The term “commenced” as applied to construction of a major emitting facility means that the owner or operator has obtained all necessary preconstruction approvals or permits required by Federal, State, or local air pollution emissions and air quality laws or regulations and either has (i) begun, or caused to begin, a continuous program of physical on-site construction of the facility or (ii) entered into binding agreements or contractual obligations, which cannot be canceled or modified without substantial loss to the owner or operator, to undertake a program of construction of the facility to be completed within a reasonable time.
+
+&emsp;(B) The term “necessary preconstruction approvals or permits” means those permits or approvals, required by the permitting authority as a precondition to undertaking any activity under clauses (i) or (ii) of subparagraph (A) of this paragraph.
+
+&emsp;(C) The term “construction” when used in connection with any source or facility, includes the modification (as defined in section 7411(a) of this title) of any source or facility.
+
+&emsp;(3) The term “best available control technology” means an emission limitation based on the maximum degree of reduction of each pollutant subject to regulation under this chapter emitted from or which results from any major emitting facility, which the permitting authority, on a case-by-case basis, taking into account energy, environmental, and economic impacts and other costs, determines is achievable for such facility through application of production processes and available methods, systems, and techniques, including fuel cleaning, clean fuels, or treatment or innovative fuel combustion techniques for control of each such pollutant. In no event shall application of “best available control technology” result in emissions of any pollutants which will exceed the emissions allowed by any applicable standard established pursuant to section 7411 or 7412 of this title. Emissions from any source utilizing clean fuels, or any other means, to comply with this paragraph shall not be allowed to increase above levels that would have been required under this paragraph as it existed prior to November 15, 1990.
+
+&emsp;(4) The term “baseline concentration” means, with respect to a pollutant, the ambient concentration levels which exist at the time of the first application for a permit in an area subject to this part, based on air quality data available in the Environmental Protection Agency or a State air pollution control agency and on such monitoring data as the permit applicant is required to submit. Such ambient concentration levels shall take into account all projected emissions in, or which may affect, such area from any major emitting facility on which construction commenced prior to January 6, 1975, but which has not begun operation by the date of the baseline air quality concentration determination. Emissions of sulfur oxides and particulate matter from any major emitting facility on which construction commenced after January 6, 1975, shall not be included in the baseline and shall be counted against the maximum allowable increases in pollutant concentrations established under this part.
+
+(July 14, 1955, ch. 360, title I, §169, as added Aug. 7, 1977, Pub. L. 95–95, title I, §127(a), 91 Stat. 740; amended Nov. 16, 1977, Pub. L. 95–190, §14(a)(54), 91 Stat. 1402; Nov. 15, 1990, Pub. L. 101–549, title III, §305(b), title IV, §403(d), 104 Stat. 2583, 2631.)
+
+#### Amendments
+
+1990—Par. (1). Pub. L. 101–549, §305(b), struck out “two hundred and” after “municipal incinerators capable of charging more than”.
+
+Par. (3). Pub. L. 101–549, §403(d), directed the insertion of “, clean fuels,” after “including fuel cleaning,”, which was executed by making the insertion after “including fuel cleaning” to reflect the probable intent of Congress, and inserted at end “Emissions from anysource utilizing clean fuels, or any other means, to comply with this paragraph shall not be allowed to increase above levels that would have been required under this paragraph as it existed prior to November 15, 1990.”
+
+1977—Par. (2)(C). Pub. L. 95–190 added subpar. (C).
+
+#### Study of Major Emitting Facilities With Potential of Emitting 250 Tons Per Year
+
+Section 127(b) of Pub. L. 95–95 directed Administrator, within 1 year after Aug. 7, 1977, to report to Congress on consequences of that portion of definition of “major emitting facility” under this subpart which applies to facilities with potential to emit 250 tons per year or more.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7412, 7473, 7478, 7511a of this title.
+

@@ -12,5 +12,5 @@ Should the agency head be unable to negotiate a satisfactory contract with the f
 
 Should the agency head be unable to negotiate a satisfactory contract with any of the selected firms, he shall select additional firms in order of their competence and qualification and continue negotiations in accordance with this section until an agreement is reached.
 
-(June 30, 1949, ch. 288, title IX, §904, as added Oct. 27, 1972, Pub. L. 92–582, 86 Stat. 1279.)
+(June 30, 1949, ch. 288, title IX, §904, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279.)
 

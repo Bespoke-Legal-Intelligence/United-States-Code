@@ -10,7 +10,7 @@ This section shall apply only to a forward-looking statement made by—
 
 &emsp;(3) an outside reviewer retained by such issuer making a statement on behalf of such issuer; or
 
-&emsp;(4) an underwriter, with respect to information provided by such issuer or informationderived from information provided by the issuer.
+&emsp;(4) an underwriter, with respect to information provided by such issuer or information derived from information provided by the issuer.
 
 #### (b) Exclusions
 
@@ -176,7 +176,7 @@ Section not to affect or apply to any private action arising under this subchapt
 
 #### Construction
 
-Nothing in section deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
+Nothing in section deemed to create or ratify any implied right of action, or to prevent Commission, by ruleor regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

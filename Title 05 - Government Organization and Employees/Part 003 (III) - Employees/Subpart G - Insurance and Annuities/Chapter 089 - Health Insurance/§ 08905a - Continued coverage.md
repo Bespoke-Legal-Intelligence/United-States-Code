@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(II) if, at the time referred to in subclause (I), the individual was covered as the child of an employee, the employee's employing agency as of such time.
 
-(2) If an individual elects to continue coverage under this section before the end of the applicable period under subsection (c)(2), but after such individual's coverage under this chapter (including any temporary extensions of coverage) expires, coverage shall be restored retroactively, with appropriate contributions (determined in accordance with paragraph (1) or (4), as the case may be) and claims (if any), to the same extent and effect as though no break in coverage had occurred.
+(2) If an individual elects to continue coverage under this section before the end of the applicable period under subsection (c)(2), but after such individual's coverage under this chapter (including any temporary extensions of coverage) expires, coverage shall be restored retroactively, with appropriate contributions (determined inaccordance with paragraph (1) or (4), as the case may be) and claims (if any), to the same extent and effect as though no break in coverage had occurred.
 
 (3)(A) An individual making an election under subsection (c)(2)(B) may, at such individual's option, elect coverage either as an individual or, if appropriate, for self and family.
 
@@ -100,7 +100,7 @@
 
 &emsp;(C) so ceases to meet the requirements referred to in subparagraph (A) before the end of the 18-month period beginning on the date of the former employee's separation from service,
 
-> extended coverage under this section may not extend beyond the date which is 36 months afterthe separation date referred to in subparagraph (C).
+> extended coverage under this section may not extend beyond the date which is 36 months after the separation date referred to in subparagraph (C).
 
 (f)(1) The Office shall prescribe regulations under which, in addition to any individual otherwise eligible for continued coverage under this section, and to the extent practicable, continued coverage may also, upon appropriate written application, be afforded under this section—
 
@@ -130,7 +130,7 @@
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431.)
+(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L.104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431.)
 
 #### References in Text
 

@@ -34,7 +34,7 @@ There is hereby established in the telephone bank a reserve for losses due to in
 
 #### (i) Investment of RTB Equity Fund
 
-(i) The Governor of the telephone bank may invest in obligations of the United States the amounts in the account in the Treasury of the United States numbered 12X8139 (known as the “RTB Equity Fund”).
+The Governor of the telephone bank may invest in obligations of the United States the amounts in the account in the Treasury of the United States numbered 12X8139 (known as the “RTB Equity Fund”).
 
 (May 20, 1936, ch. 432, title IV, §406, as added May 7, 1971, Pub. L. 92–12, §2, 85 Stat. 33; amended May 11, 1973, Pub. L. 93–32, §5, 87 Stat. 70; Apr. 21, 1976, Pub. L. 94–273, §2(2), 90 Stat. 375; Dec. 22, 1981, Pub. L. 97–98, title XVI, §1607, 95 Stat. 1347; Dec. 22, 1987, Pub. L. 100–203, title I, §1413(a), (c), 101 Stat. 1330–26; Nov. 28, 1990, Pub. L. 101–624, title XXIII, §§2364, 2367(a), 104 Stat. 4044; Nov. 1, 1993, Pub. L. 103–129, §2(c)(9), 107 Stat. 1365; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(11), (13), 108 Stat. 3221; Apr. 4, 1996, Pub. L. 104–127, title VII, §772(b)(3), 110 Stat. 1149.)
 

@@ -18,7 +18,7 @@ The Retirement Home Board shall assign specific members of the Retirement Home B
 
 #### (c) Acquisition of real property
 
-The Retirement Home Board may acquire, for the benefit of the Retirement Home, property and facilities for inclusion in the Retirement Home.
+The Retirement Home Board may acquire, for the benefit of the Retirement Home, propertyand facilities for inclusion in the Retirement Home.
 
 #### (d) Limitation on disposal of real property
 

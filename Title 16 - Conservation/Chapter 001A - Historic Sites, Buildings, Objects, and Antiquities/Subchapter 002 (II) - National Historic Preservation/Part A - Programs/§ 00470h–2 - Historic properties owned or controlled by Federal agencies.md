@@ -36,7 +36,7 @@ Consistent with the agency's missions and mandates, all Federal agencies shall c
 
 #### (e) Review of plans of transferees of surplus federally owned historic properties
 
-The Secretary shall review and approve the plans of transferees of surplus federally owned historic properties not later than ninety daysafter his receipt of such plans to ensure that the prehistorical, historical, architectural, or culturally significant values will be preserved or enhanced.
+The Secretary shall review and approve the plans of transferees of surplus federally owned historic properties not later than ninety days after his receipt of such plans to ensure that the prehistorical, historical, architectural, or culturally significant values will be preserved or enhanced.
 
 #### (f) Planning and actions to minimize harm to National Historic Landmarks
 

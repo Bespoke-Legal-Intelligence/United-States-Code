@@ -10,7 +10,7 @@ The Committees on Appropriations of the two Houses are authorized and directed, 
 
 No general appropriation bill or amendment thereto shall be received or considered in either House if it contains a provision reappropriating unexpended balances of appropriations; except that this provision shall not apply to appropriations in continuation of appropriations for public works on which work has commenced.
 
-(Aug. 2, 1946, ch. 753, title I, §139(a), (b), (c), 60 Stat. 833; Oct. 26, 1970, Pub. L. 91–510, title I, §108(d), 84 Stat. 1149.)
+(Aug. 2, 1946, ch. 753, title I, §139(a), (b), (c), 60 Stat. 833; Pub. L. 91–510, title I, §108(d), Oct. 26, 1970, 84 Stat. 1149.)
 
 #### Partial Repeal
 

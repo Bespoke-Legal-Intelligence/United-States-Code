@@ -40,7 +40,7 @@ Pub. L. 95–627, §1, Nov. 10, 1978, 92 Stat. 3603, provided: “That this Act 
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–166, §1, Nov. 10, 1977, 91 Stat. 1325, provided: “That this Act \[enacting sections 1769, 1769a, and 1788 of this title, amending sections 1754 to 1758, 1759a, 1760, 1761, 1762a, 1763, 1766, 1772 to 1774, 1776, 1779, 1784, and 1786 of this title, and enacting provisions set out asnotes under sections 1755 and 1772 of this title\] may be cited as the ‘National School Lunch Act and Child Nutrition Amendments of 1977’.”
+Pub. L. 95–166, §1, Nov. 10, 1977, 91 Stat. 1325, provided: “That this Act \[enacting sections 1769, 1769a, and 1788 of this title, amending sections 1754 to 1758, 1759a, 1760, 1761, 1762a, 1763, 1766, 1772 to 1774, 1776, 1779, 1784, and 1786 of this title, and enacting provisions set out as notes under sections 1755 and 1772 of this title\] may be cited as the ‘National School Lunch Act and Child Nutrition Amendments of 1977’.”
 
 #### Short Title of 1975 Amendment
 

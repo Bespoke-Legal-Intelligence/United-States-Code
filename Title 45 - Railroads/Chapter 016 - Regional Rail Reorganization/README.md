@@ -266,7 +266,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 802, 823, 824, 1101, 1341 of this title; title 49 sections 24506, 24901, 24904, 24907.
+This chapter is referred to in sections 802, 823, 824, 1101, 1341 of this title; title 49 sections 24901, 24904, 24907.
 
 
 ---

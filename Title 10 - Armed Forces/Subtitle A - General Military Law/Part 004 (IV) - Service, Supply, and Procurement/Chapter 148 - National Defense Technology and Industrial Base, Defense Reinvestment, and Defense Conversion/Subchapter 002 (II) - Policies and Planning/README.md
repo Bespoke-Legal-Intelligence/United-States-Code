@@ -20,8 +20,6 @@ Pub. L. 104–106, div. A, title X, §1081(i)(1), Feb. 10, 1996, 110 Stat. 455, 
 
 1993—Pub. L. 103–160, div. A, title XIII, §1312(a)(2), Nov. 30, 1993, 107 Stat. 1786, struck out item 2504 “Center for the Study of Defense Economic Adjustment”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

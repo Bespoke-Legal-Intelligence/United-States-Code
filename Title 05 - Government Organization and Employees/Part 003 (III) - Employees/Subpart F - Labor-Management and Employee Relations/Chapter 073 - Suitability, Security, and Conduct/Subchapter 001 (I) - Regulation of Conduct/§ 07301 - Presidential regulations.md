@@ -24,7 +24,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–94, §1, Oct. 6, 1993, 107 Stat. 1001, provided: “That this Act \[enacting sections 5520a and 7321 to 7326 of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections1973d and 9904 of Title 42, The Public Health and Welfare, omitting former sections 7321 to 7328 of this title, and enacting provisions set out as notes under section 7321 of this title and section 410 of Title 39\] may be cited as the ‘Hatch Act Reform Amendments of 1993’.”
+Pub. L. 103–94, §1, Oct. 6, 1993, 107 Stat. 1001, provided: “That this Act \[enacting sections 5520a and 7321 to 7326 of this title and section 610 of Title 18, Crimes and Criminal Procedure, amending sections 1216, 2302, 3302 and 3303 of this title, sections 602 and 603 of Title 18, section 410 of Title 39, Postal Service, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, omitting former sections 7321 to 7328 of this title, and enacting provisions set out as notes under section 7321 of this title and section 410 of Title 39\] may be cited as the ‘Hatch Act Reform Amendments of 1993’.”
 
 #### Short Title of 1986 Amendment
 
@@ -36,9 +36,11 @@ For assignment of certain emergency preparedness functions to the Director of th
 
 #### Annual Certification of Drug-Free Workplace Plan Administrators
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §623\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–358, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President's Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
+Pub. L. 105–61, title VI, §621, Oct. 10, 1997, 111 Stat. 1313, provided that: “Notwithstanding any provision of law, the President, or his designee, must certify to Congress, annually, that no person or persons with direct or indirect responsibility for administering the Executive Office of the President's Drug-Free Workplace Plan are themselves subject to a program of individual random drug testing.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §623\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–358.
 
 Pub. L. 104–52, title VI, §624, Nov. 19, 1995, 109 Stat. 502.
 
@@ -188,7 +190,7 @@ Drug use is having serious adverse effects upon a significant proportion of the 
 
 The Federal government, as an employer, is concerned with the well-being of its employees, the successful accomplishment of agency missions, and the need to maintain employee productivity;
 
-The Federal government, as the largest employer in the Nation, can and should show the way towards achieving drug-free workplaces through a program designed to offer drug users a helping hand and, at thesame time, demonstrating to drug users and potential drug users that drugs will not be tolerated in the Federal workplace;
+The Federal government, as the largest employer in the Nation, can and should show the way towards achieving drug-free workplaces through a program designed to offer drug users a helping hand and, at the same time, demonstrating to drug users and potential drug users that drugs will not be tolerated in the Federal workplace;
 
 The profits from illegal drugs provide the single greatest source of income for organized crime, fuel violent street crime, and otherwise contribute to the breakdown of our society;
 
@@ -330,7 +332,7 @@ Section 101. <i>Principles of Ethical Conduct</i>. To ensure that every citizen 
 
 (c) Employees shall not engage in financial transactions using nonpublic Government information or allow the improper use of such information to further any private interest.
 
-(d) An employee shall not, except pursuant to such reasonable exceptions as are provided by regulation, solicit or accept any gift or other item of monetary value from any person or entity seeking official action from,doing business with, or conducting activities regulated by the employee's agency, or whose interests may be substantially affected by the performance or nonperformance of the employee's duties.
+(d) An employee shall not, except pursuant to such reasonable exceptions as are provided by regulation, solicit or accept any gift or other item of monetary value from any person or entity seeking official action from, doing business with, or conducting activities regulated by the employee's agency, or whose interests may be substantially affected by the performance or nonperformance of the employee's duties.
 
 (e) Employees shall put forth honest effort in the performance of their duties.
 
@@ -462,7 +464,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12834, Jan. 20, 1993, 58 F.R. 5911, provided:
 
-By the authority vested in me as President of the United States by the Constitution and laws of the United States of America, including section 301 of title 3, United States Code, and sections 3301 and 7301 of title 5, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President of the United States by the Constitution and laws of the United States of America, including section 301 of title3, United States Code, and sections 3301 and 7301 of title 5, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Ethics Pledges</i>. (a) Every senior appointee in every executive agency appointed on or after January 20, 1993, shall sign, and upon signing shall be contractually committed to, the following pledge (“senior appointee pledge”) upon becoming a senior appointee:
 
@@ -476,7 +478,7 @@ Section 1. <i>Ethics Pledges</i>. (a) Every senior appointee in every executive 
 
 “4. I will not, within five years after termination of my personal and substantial participation in a trade negotiation, represent, aid or advise any foreign government, foreign political party or foreign business entity with the intent to influence a decision of any officer or employee of any executive agency, in carrying out his or her official duties.
 
-“5. I acknowledge that the Executive order entitled ‘Ethics Commitments by Executive Branch Appointees,’ issued by the President on January 20, 1993,which I have read before signing this document, defines certain of the terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive order as a part of this agreement and as binding on me. I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Federal Government service.”
+“5. I acknowledge that the Executive order entitled ‘Ethics Commitments by Executive Branch Appointees,’ issued by the President on January 20, 1993, which I have read before signing this document, defines certain of the terms applicable to the foregoing obligations and sets forth the methods for enforcing them. I expressly accept the provisions of that Executive order as a part of this agreement and as binding on me. I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by virtue of Federal Government service.”
 
 (b) Every trade negotiator who is not a senior appointee and is appointed to a position in an executive agency on or after January 20, 1993, shall (prior to personally and substantially participating in a trade negotiation) sign, and upon signing be contractually committed to, the following pledge (“trade negotiator pledge”):
 
@@ -534,7 +536,7 @@ Sec. 2. <i>Definitions</i>. As used herein and in the pledges:
 
 (m) “Foreign business entity” means a partnership, association, corporation, organization or other combination of persons organized under the laws of or having its principal place of business in a foreign country.
 
-(n) Terms that are used herein and in the pledges, and also used in section 207 of title 18, United States Code,shall be given the same meaning as they have in section 207 and any implementing regulations issued or to be issued by the Office of Government Ethics, except to the extent those terms are otherwise defined in this order.
+(n) Terms that are used herein and in the pledges, and also used in section 207 of title 18, United States Code, shall be given the same meaning as they have in section 207 and any implementing regulations issued or to be issued by the Office of Government Ethics, except to the extent those terms are otherwise defined in this order.
 
 Sec. 3. <i>Waiver</i>. (a) The President may grant to any person a waiver of any restrictions contained in the pledge signed by such person if, and to the extent that, the President certifies in writing that it is in the public interest to grant the waiver.
 
@@ -601,6 +603,40 @@ Sec. 6. <i>General Provisions</i>. (a) No prior Executive orders are repealed by
 (b) If any provision of this order or the application of such provision is held to be invalid, the remainder of this order and other dissimilar applications of such provision shall not be affected.
 
 (c) Except as expressly provided in section 5(b)(2) of this order, nothing in the pledges or in this order is intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13058. Protecting Federal Employees and the Public From Exposure to Tobacco Smoke in the Federal Workplace
+
+Ex. Ord. No. 13058, Aug. 9, 1997, 62 F.R. 43451, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America and in order to protect Federal Government employees and members of the public from exposure to tobacco smoke in the Federal workplace, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of the executive branch to establish a smoke-free environment for Federal employees and members of the public visiting or using Federal facilities. The smoking of tobacco products is thus prohibited in all interior space owned, rented, or leased by the executive branch of the Federal Government, and in any outdoor areas under executive branch control in front of air intake ducts.
+
+Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a) The order does not apply in designated smoking areas that are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surrounding spaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
+
+(b) The order does not extend to any residential accommodation for persons voluntarily or involuntarily residing, on a temporary or long-term basis, in a building owned, leased, or rented by the Federal Government.
+
+(c) The order does not extend to those portions of federally owned buildings leased, rented, or otherwise provided in their entirety to nonfederal parties.
+
+(d) The order does not extend to places of employment in the private sector or in other nonfederal governmental units that serve as the permanent or intermittent duty station of one or more Federal employees.
+
+(e) The head of any agency may establish limited and narrow exceptions that are necessary to accomplish agency missions. Such exception shall be in writing, approved by the agency head, and to the fullest extent possible provide protection of nonsmokers from exposure to environmental tobacco smoke. Authority to establish such exceptions may not be delegated.
+
+Sec. 3. <i>Other Locations</i>. The heads of agencies shall evaluate the need to restrict smoking at doorways and in courtyards under executive branch control in order to protect workers and visitors from environmental tobacco smoke, and may restrict smoking in these areas in light of this evaluation.
+
+Sec. 4. <i>Smoking Cessation Programs</i>. The heads of agencies are encouraged to use existing authority to establish programs designed to help employees stop smoking.
+
+Sec. 5. <i>Responsibility for Implementation</i>. The heads of agencies are responsible for implementing and ensuring compliance with the provisions of this order. “Agency” as used in this order means an Executive agency, as defined in 5 U.S.C. 105, and includes any employing unit or authority of the Federal Government, other than those of the legislative and judicial branches. Independent agencies are encouraged to comply with the provisions of this order.
+
+Sec. 6. <i>Phase-In of Implementation</i>. Implementation of the policy set forth in this order shall be achieved no later than 1 year after the date of this order. This 1 year phase-in period is designed to establish a fixed but reasonable time for implementing this policy. Agency heads are directed during this period to inform all employees and visitors to executive branch facilities about the requirements of this order, inform their employees of the health risks of exposure to environmental tobacco smoke, and undertake related activities as necessary.
+
+Sec. 7. <i>Consistency with Other Laws</i>. The provisions of this order shall be implemented consistent with applicable law, including the Federal Service Labor-Management Relations Act (5 U.S.C. 7101 <i>et seq</i>.) and the National Labor Relations Act (29 U.S.C. 151 <i>et seq</i>.)\[.\] Provisions of existing collective bargaining agreements shall be honored and agencies shall consult with employee labor representatives about the implementation of this order. Nothing herein shall be construed to impair or alter the powers and duties of Federal agencies established under law. Nothing herein shall be construed to replace any agency policy currently in effect, if such policy is legally established, in writing, and consistent with the terms of this order. Agencies shall review their current policy to confirm that agency policy comports with this order, and policy found not in compliance shall be revised to comply with the terms of this order.
+
+Sec. 8. <i>Cause of Action</i>. This order does not create any right to administrative or judicial review, or any other right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person or affect in any way the liability of the executive branch under the Federal Tort Claims Act \[28 U.S.C. 2671 et seq.\].
+
+Sec. 9. <i>Construction</i>. Nothing in this order shall limit an agency head from establishing more protective policies on smoking in the Federal workplace for employees and members of the public visiting or using Federal facilities.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -10,7 +10,7 @@
 
 (e) The head of an agency may determine and fix the maximum age limit for an original appointment to a position as a firefighter or law enforcement officer, as defined by section 8401(14) or (17), respectively, of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 92–297, §2(a), May 16, 1972, 86 Stat. 141; Pub. L.93–350, §1, July 12, 1974, 88 Stat. 355; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 100–238, title I, §103(a)(1), Jan. 8, 1988, 101 Stat. 1744.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 92–297, §2(a), May 16, 1972, 86 Stat. 141; Pub. L. 93–350, §1, July 12, 1974, 88 Stat. 355; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 100–238, title I, §103(a)(1), Jan. 8, 1988, 101 Stat. 1744.)
 
 Historical and Revision Notes
 

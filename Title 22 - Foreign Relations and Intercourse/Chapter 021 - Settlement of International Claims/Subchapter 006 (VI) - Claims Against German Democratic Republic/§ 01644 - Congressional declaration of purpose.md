@@ -2,7 +2,7 @@
 
 It is the purpose of this subchapter to provide for the determination of the validity and amounts of outstanding claims against the German Democratic Republic which arose out of the nationalization, expropriation, or other taking of (or special measures directed against) property interests of nationals of the United States. This subchapter shall not be construed as authorizing or as any intention to authorize an appropriation by the United States for the purpose of paying such claims.
 
-(Mar. 10, 1950, ch. 54, title VI, §600, as added Oct. 18, 1976, Pub. L. 94–542, 90 Stat. 2509.)
+(Mar. 10, 1950, ch. 54, title VI, §600, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2509.)
 
 #### Separability
 

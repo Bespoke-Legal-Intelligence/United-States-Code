@@ -4,7 +4,7 @@
 
 (b) Each court of appeals shall consist of the circuit judges of the circuit in regular active service. The circuit justice and justices or judges designated or assigned shall be competent to sit as judges of the court.
 
-(June 25, 1948, ch. 646, 62 Stat. 870; Nov. 13, 1963, Pub. L. 88–176, §1(a), 77 Stat. 331.)
+(June 25, 1948, ch. 646, 62 Stat. 870; Pub. L. 88–176, §1(a), Nov. 13, 1963, 77 Stat. 331.)
 
 #### Historical and Revision Notes
 
@@ -20,7 +20,7 @@ Provision for a quorum of the court is now covered by section 46(d) of this titl
 
 #### Amendments
 
-1963—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
+<b>1963</b>—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
 
 #### Change of Name of Court
 

@@ -1,6 +1,6 @@
 ### §1421. Territory included under name Guam
 
-The territory ceded to the United States in accordance with the provisions of the Treaty of Peace between the United States and Spain,signed at Paris, December 10, 1898, and proclaimed April 11, 1899, and known as the island of Guam in the Marianas Islands, shall continue to be known as Guam.
+The territory ceded to the United States in accordance with the provisions of the Treaty of Peace between the United States and Spain, signed at Paris, December 10, 1898, and proclaimed April 11, 1899, and known as the island of Guam in the Marianas Islands, shall continue to be known as Guam.
 
 (Aug. 1, 1950, ch. 512, §2, 64 Stat. 384.)
 

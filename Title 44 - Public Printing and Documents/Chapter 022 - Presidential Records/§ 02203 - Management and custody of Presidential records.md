@@ -1,6 +1,6 @@
 ### §2203. Management and custody of Presidential records
 
-(a) Through the implementation of records management controls and other necessary actions, the President shall take all such steps as may be necessary to assure that the activities, deliberations, decisions, and policies that reflect the performance of his constitutional, statutory, or other official or ceremonial duties are adequately documented and that such records are maintained as Presidential records pursuant to the requirements of this section and other provisions of law.
+(a) Through the implementation of records management controls and other necessary actions, the President shall take all such steps as may be necessary to assure that the activities, deliberations, decisions, and policies that reflect the performance of his constitutional, statutory, or other official or ceremonial duties are adequately documented and that such records are maintained as Presidential records pursuantto the requirements of this section and other provisions of law.
 
 (b) Documentary materials produced or received by the President, his staff, or units or individuals in the Executive Office of the President the function of which is to advise and assist the President, shall, to the extent practicable, be categorized as Presidential records or personal records upon their creation or receipt and be filed separately.
 

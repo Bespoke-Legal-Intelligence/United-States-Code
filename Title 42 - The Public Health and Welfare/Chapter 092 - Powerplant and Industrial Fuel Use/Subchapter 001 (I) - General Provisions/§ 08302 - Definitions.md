@@ -58,7 +58,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) any electric generating unit subject to the licensing jurisdiction of the Nuclear Regulatory Commission; and
 
-&emsp;&emsp;(ii) any cogeneration facility, less than half of the annual electric power generation of which is sold or exchanged for resale, as determined by the Secretary.
+&emsp;&emsp;(ii) any cogeneration facility, less than half of the annual electric power generationof which is sold or exchanged for resale, as determined by the Secretary.
 
 &emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule, to be appropriate.
 
@@ -86,7 +86,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) any electric powerplant; or
 
-&emsp;&emsp;(ii) any pump or compressor used solely in connection with the production, gathering,transmission, storage, or distribution of gases or liquids, but only if there is certification to the Secretary of such use (in accordance with rules prescribed by the Secretary).
+&emsp;&emsp;(ii) any pump or compressor used solely in connection with the production, gathering, transmission, storage, or distribution of gases or liquids, but only if there is certification to the Secretary of such use (in accordance with rules prescribed by the Secretary).
 
 &emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
 
@@ -186,7 +186,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(27) the term “Mcf” means, when used in relation to natural gas, 1,000 cubic feet of natural gas.
 
-&emsp;(28) The term “mixture”, when used in relation to fuels used in a unit, means a mixture of such fuels or a combination of such fuels used simultaneously or alternately in such unit.
+&emsp;(28) The term “mixture”, when used in relation to fuels used in a unit, means a mixtureof such fuels or a combination of such fuels used simultaneously or alternately in such unit.
 
 &emsp;(29) The term “fluidized bed combustion” means combustion of fuel in connection with a bed of inert material, such as limestone or dolomite, which is held in a fluid-like state by the means of air or other gases being passed through such materials.
 

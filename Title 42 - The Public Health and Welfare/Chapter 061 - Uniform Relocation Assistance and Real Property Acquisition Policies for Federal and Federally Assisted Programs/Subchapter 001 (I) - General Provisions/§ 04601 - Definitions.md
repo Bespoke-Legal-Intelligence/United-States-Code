@@ -46,7 +46,7 @@ As used in this chapter—
 
 (9) The term “mortgage” means such classes of liens as are commonly given to secure advances on, or the unpaid purchase price of, real property, under the laws of the State in which the real property is located, together with the credit instruments, if any, secured thereby.
 
-(10) The term “comparable replacement dwelling” means any dwelling that is (A) decent, safe, and sanitary; (B) adequate in size to accommodate the occupants; (C) within the financial means of the displaced person; (D) functionally equivalent; (E) in an area not subject to unreasonable adverse environmental conditions; and (F) in a location generally not less desirable than the location of the displaced person's dwelling with respect to public utilities, facilities, services, and the displaced person's place of employment.
+(10) The term “comparable replacement dwelling” means any dwelling that is (A) decent, safe, and sanitary; (B) adequate in size to accommodate the occupants; (C) within the financial means of the displaced person; (D) functionally equivalent; (E) in an area not subject to unreasonable adverse environmental conditions; and\(F) in a location generally not less desirable than the location of the displaced person's dwelling with respect to public utilities, facilities, services, and the displaced person's place of employment.
 
 (11) The term “displacing agency” means any Federal agency carrying out a program or project, and any State, State agency, or person carrying out a program or project with Federal financial assistance, which causes a person to be a displaced person.
 

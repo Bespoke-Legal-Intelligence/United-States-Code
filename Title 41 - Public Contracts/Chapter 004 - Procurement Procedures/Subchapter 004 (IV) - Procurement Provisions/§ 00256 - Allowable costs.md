@@ -24,7 +24,7 @@ The Federal Acquisition Regulation shall provide for a penalty under subsection 
 
 &emsp;(3) the contractor demonstrates, to the contracting officer's satisfaction, that—
 
-&emsp;&emsp;(A) it has established appropriate policies and personnel training and an internal control and review system that provide assurances that unallowable costs subject to penalties are precluded from being included in the contractor's proposal for settlement of indirect costs; and
+&emsp;&emsp;(A) it has established appropriate policies and personnel training and an internal control and review system that provide assurances that unallowable costs subject to penalties are precluded from being included inthe contractor's proposal for settlement of indirect costs; and
 
 &emsp;&emsp;(B) the unallowable costs subject to the penalty were inadvertently incorporated into the proposal.
 
@@ -62,7 +62,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 &emsp;(K) Costs incurred in making any payment (commonly known as a ‘golden parachute payment’) which is—
 
-&emsp;&emsp;(i) in an amount in excess of the normal severance pay paid by the contractor to anemployee upon termination of employment; and
+&emsp;&emsp;(i) in an amount in excess of the normal severance pay paid by the contractor to an employee upon termination of employment; and
 
 &emsp;&emsp;(ii) is paid to the employee contingent upon, and following, a change in management control over, or ownership of, the contractor or a substantial portion of the contractor's assets.
 
@@ -73,6 +73,8 @@ An action of an executive agency under subsection (a) or (b) of this section—
 &emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States facility in that country at the request of the government of that country.
 
 &emsp;(O) Costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States or a State, to the extent provided in subsection (k) of this section.
+
+&emsp;(P) Costs of compensation of senior executives of contractors for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds the benchmark compensation amount determined applicable for the fiscal year by the Administrator for Federal Procurement Policy under section 435 of this title.
 
 (2)(A) Pursuant to the Federal Acquisition Regulation and subject to the availability of appropriations, an executive agency, in awarding a covered contract, may waive the application of the provisions of paragraphs (1)(M) and (1)(N) to that contract if the executive agency determines that—
 
@@ -138,7 +140,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 (3) The Federal Acquisition Regulation shall provide that, to the maximum extent practicable, a contract auditor be present at any negotiation or meeting with the contractor regarding a determination of the allowability of indirect costs of the contractor.
 
-(4) The Federal Acquisition Regulation shall require that all categories of costs designated in the report of a contract auditor as questioned with respect to a proposal for settlement be resolved in such a manner that the amount of theindividual questioned costs that are paid will be reflected in the settlement.
+(4) The Federal Acquisition Regulation shall require that all categories of costs designated in the report of a contract auditor as questioned with respect to a proposal for settlement be resolved in such a manner that the amount of the individual questioned costs that are paid will be reflected in the settlement.
 
 #### (g) Applicability of regulations to subcontractors
 
@@ -170,7 +172,7 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 &emsp;(A) In the case of a criminal proceeding, a conviction (including a conviction pursuant to a plea of nolo contendere) by reason of the violation or failure referred to in paragraph (1).
 
-&emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
+&emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud orsimilar misconduct, a determination of contractor liability on the basis of the violation or failure referred to in paragraph (1).
 
 &emsp;(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty by reason of the violation or failure referred to in paragraph (1).
 
@@ -224,7 +226,23 @@ In a proceeding before a board of contract appeals, the United States Court of F
 
 (2) Effective on October 1 of each year that is divisible by five, the amount set forth in paragraph (1) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
-(June 30, 1949, ch. 288, title III, §306, as added Nov. 19, 1988, Pub. L. 100–700, §8(a)(1), 102 Stat. 4634; amended Oct. 13, 1994, Pub. L. 103–355, title II, §2151, 108 Stat. 3309.)
+#### (m) Other definitions
+
+In this section:
+
+&emsp;(1) The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
+
+&emsp;(2) The term “senior executive”, with respect to a contractor, means—
+
+&emsp;&emsp;(A) the chief executive officer of the contractor or any individual acting in a similar capacity for the contractor;
+
+&emsp;&emsp;(B) the four most highly compensated employees in management positions of the contractor other than the chief executive officer; and
+
+&emsp;&emsp;(C) in the case of a contractor that has components which report directly to the contractor's headquarters, the five most highly compensated individuals in management positions at each such component.
+
+&emsp;(3) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
+
+(June 30, 1949, ch. 288, title III, §306, as added Pub. L. 100–700, §8(a)(1), Nov. 19, 1988, 102 Stat.4634; amended Pub. L. 103–355, title II, §2151, Oct. 13, 1994, 108 Stat. 3309; Pub. L. 105–85, div. A, title VIII, §808(b), Nov. 18, 1997, 111 Stat. 1836.)
 
 #### Prior Provisions
 
@@ -232,7 +250,15 @@ A prior section 256, act June 30, 1949, ch. 288, title III, §306, 63 Stat. 396,
 
 #### Amendments
 
+1997—Subsec. (e)(1)(P). Pub. L. 105–85, §808(b)(1), added subpar. (P).
+
+Subsec. (m). Pub. L. 105–85, §808(b)(2), added subsec. (m).
+
 1994—Pub. L. 103–355 amended section generally, substituting present provisions for provisions outlining limitations on allowability of costs incurred by contractors in criminal, civil, or administrative proceedings relating to violations of Federal or State statutes or regulations, which resulted in dispositions against contractors based on such violations.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective on date that is 90 days after Nov. 18, 1997, and applicable with respect to costs of compensation incurred after Jan. 1, 1998, under covered contracts entered into before, on, or after Nov. 18, 1997, see section 808(e) of Pub. L. 105–85, set out as an Effective Date note under section 435 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -267,4 +293,8 @@ Definitions.—In this section:
 “(c)
 
 Effective Date.—Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurred after the date on which the amendments made by section 2101 apply (as provided in section 10001) \[set out as an Effective Date of 1994 Amendment note under section 251 of this title\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 435 of this title.
 

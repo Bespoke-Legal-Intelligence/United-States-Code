@@ -2,7 +2,7 @@
 
 Any judge of the United States Court of Federal Claims may sit at any place within the United States to take evidence and enter judgment.
 
-(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, §54(a), (b), 68 Stat. 1246; Apr. 2, 1982, Pub. L. 97–164, title I, §139(d), 96 Stat. 42; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, §54(a), (b), 68 Stat. 1246; Pub. L. 97–164, title I, §139(d), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -12,11 +12,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims” and “enter judgment” for “report findings”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims” and “enter judgment” for “report findings”.
 
-1954—Act Sept. 3, 1954, substituted “Trial before judges” for “Place of taking evidence” in section catchline and repealed second par. relating to taking of testimony.
+<b>1954</b>—Act Sept. 3, 1954, substituted “Trial before judges” for “Place of taking evidence” in section catchline and repealed second par. relating to taking of testimony.
 
 #### Effective Date of 1992 Amendment
 

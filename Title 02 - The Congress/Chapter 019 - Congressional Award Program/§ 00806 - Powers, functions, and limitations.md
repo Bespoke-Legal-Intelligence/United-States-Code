@@ -20,7 +20,7 @@ Subject to such limitations as may be provided for under this section, the Board
 
 &emsp;(C) conduct of outreach activities to establish new local Congressional Award Councils, particularly in inner-city areas and rural areas;
 
-&emsp;(D) in addition to those activities authorized under subparagraph (C), conduct of outreach activities to encourage, where appropriate, the establishment and development of Statewide Congressional Award Councils;
+&emsp;(D) in addition to those activities authorized under subparagraph (C), conduct of outreachactivities to encourage, where appropriate, the establishment and development of Statewide Congressional Award Councils;
 
 &emsp;(E) fundraising;
 

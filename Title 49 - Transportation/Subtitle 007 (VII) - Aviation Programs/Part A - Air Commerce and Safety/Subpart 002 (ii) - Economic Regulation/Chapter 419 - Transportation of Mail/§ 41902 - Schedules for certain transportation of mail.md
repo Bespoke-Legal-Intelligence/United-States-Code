@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—Except as provided in section 41906 of this title and section 5402 of title 39, an air carrier may transport mail by aircraft in foreign air transportation or between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
+Requirement.—Except as provided in section 41906 of this title and section 5402 of title 39, an air carrier may transport mail by aircraft inforeign air transportation or between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
 
 (b)
 
@@ -42,7 +42,7 @@ Proceedings Preferences.—The Secretary shall give preference to a proceeding u
 
 <i>Pub. L. 103–272, §4(k)(1), July 5, 1994, 108 Stat. 1370, provided that, effective Jan. 1, 1999, subsection (a) of this section is amended by substituting “transportation” for “transportation or between places in Alaska”.</i>
 
-<i>Pub. L. 103–272, §4(k)(3), July 5, 1994, 108 Stat. 1370, as amended by Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389, provided that, effective Jan. 1, 1999, subsection (b) of this section is amended by striking par. (2), redesignating pars. (3) and (4) as (2) and (3), re</i><i>spectively, and in par. (2), as redesignated, substituting “clause (1)” for “clauses (1) and (2)”.</i>
+<i>Pub. L. 103–272, §4(k)(3), July 5, 1994, 108 Stat. 1370, as amended by Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389, provided that, effective Jan. 1, 1999, subsection (b) of this section is amended by striking par. (2), redesignating pars. (3) and (4) as (2) and (3), respectively, and in par. (2), as redesignated, substituting “clause (1)” for “clauses (1) and (2)”.</i>
 
 Historical and Revision Notes
 
@@ -114,7 +114,7 @@ In subsection (d), the word “alter” is omitted as being included in “amend
 
 In subsection (e), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title. The words “appeal the order” are substituted for “apply . . . for a review of such order” for consistency in the revised title and with other titles of the United States Code. The words “The Board may review, and” are omitted as surplus. The words “amend, modify” are substituted for “amend, revise” for consistency in the revised title.
 
-Subsection (f) is substituted for 49 App.:1375(b) (8th sentence) to reflect the transfer of functions of the Civil Aeronautics Board to the Secretary of Transportation.
+Subsection (f) is substituted for 49 App.:1375(b) (8th sentence) to reflect the transfer of functions of theCivil Aeronautics Board to the Secretary of Transportation.
 
 Pub. L. 103–272, §4(k)(1), (3)
 

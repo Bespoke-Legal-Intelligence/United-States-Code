@@ -22,13 +22,13 @@ Agreements under subsection (a) of this section shall—
 
 &emsp;(6) provide that the institution will submit to the Secretary an annual report on the uses made of funds provided under this section and an evaluation of the effectiveness of such program in benefiting the students of such institution.
 
-(Pub. L. 89–329, title IV, §446, formerly title I, §126, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(2), 133(a), Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 94–43, §2, June 28, 1975,89 Stat. 233; Pub. L. 96–374, title IV, §435, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1435, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1435; Pub. L. 100–50, §11(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §445, July 23, 1992, 106 Stat. 566.)
+(Pub. L. 89–329, title IV, §446, formerly title I, §126, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(2), 133(a), Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 94–43, §2, June 28, 1975, 89 Stat. 233; Pub. L. 96–374, title IV, §435, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1435, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1435; Pub. L. 100–50, §11(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §445, July 23, 1992, 106 Stat. 566.)
 
 #### Codification
 
 Section was originally enacted, as section 126 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 516. As such, it had been amended by Pub. L. 89–329, title IV, §441(1), Nov. 8, 1965, 79 Stat. 1249.
 
-Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been struck out. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
+Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, asoriginally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(1) of Pub. L. 89–329 has not been struck out. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
 
 #### Prior Provisions
 

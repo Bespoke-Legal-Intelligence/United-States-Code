@@ -16,7 +16,7 @@ Functions of President respecting certain facilities constructed and maintained 
 
 #### Authority of Director of United States Information Agency
 
-Exercise of authority available under this section by Director of United States Information Agency, see Ex.Ord. No. 10477, Aug. 1, 1953, 18 F.R. 4540, set out as a note under section 1472 of this title.
+Exercise of authority available under this section by Director of United States Information Agency, see Ex. Ord. No. 10477, Aug. 1, 1953, 18 F.R. 4540, set out as a note under section 1472 of this title.
 
 #### Presidential Directive
 
@@ -36,9 +36,11 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996,
 
 #### Reports to War Crimes Tribunal for Former Yugoslavia
 
-Pub. L. 104–208, div. A, title I, §101(c) \[title V, §555\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–160, provided in part: “That 60 days after the date of enactment of this Act \[Sept. 30, 1996\], and every 180 days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia.”
+Pub. L. 105–118, title V, §553, Nov. 26, 1997, 111 Stat. 2422, provided in part: “That 60 days after the date of enactment of this Act \[Nov. 26, 1997\], and every 180 days thereafter, the Secretary of State shall submit a report to the Committees on Appropriations describing the steps the United States Government is taking to collect information regarding allegations of genocide or other violations of international law in the former Yugoslavia and to furnish that information to the United Nations War Crimes Tribunal for the former Yugoslavia.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §555\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–160.
 
 Pub. L. 104–107, title V, §556, Feb. 12, 1996, 110 Stat. 743.
 
@@ -138,7 +140,7 @@ Pub. L. 101–246, title I, §153(a), (b), Feb. 16, 1990, 104 Stat. 43, as amend
 
 “(a)
 
-Findings.—The Congress finds that a primary role of the Department of State is to represent the interests of the American people in foreign affairs and, as such, should strive to represent and include, among its policy and professional employees, the great diversity of the American people.
+Findings.—The Congress finds that a primary role of the Department of State is to represent the interests of the American people in foreign affairs and, as such, should strive to represent and include, among itspolicy and professional employees, the great diversity of the American people.
 
 “(b)
 
@@ -186,7 +188,7 @@ Pub. L. 100–202, §101(a) \[title III, §305\], Dec. 22, 1987, 101 Stat. 1329,
 
 #### Report to Congress on Soviet Breach of Duties Obligations to United States Diplomats or Missions
 
-Pub. L. 99–500, §101(b) \[title III, §300\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–58, and Pub. L. 99–591, §101(b) \[titleIII, §300\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–58, provided: “That beginning on February 1, 1987, the Secretary of State shall report every six months to the Speaker of the House of Representatives and the President of the Senate on any failures during the past six months by Soviet agencies to perform obligations to United States diplomats or United States missions to the Soviet Union and the actions undertaken by the Department of State to redress these failures.”
+Pub. L. 99–500, §101(b) \[title III, §300\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–58, and Pub. L. 99–591, §101(b) \[title III, §300\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–58, provided: “That beginning on February 1, 1987, the Secretary of State shall report every six months to the Speaker of the House of Representatives and the President of the Senate on any failures during the past six months by Soviet agencies to perform obligations to United States diplomats or United States missions to the Soviet Union and the actions undertaken by the Department of State to redress these failures.”
 
 #### Responsibility of United States Missions To Promote Freedom of Press Abroad
 
@@ -248,7 +250,7 @@ Pub. L. 98–164, title I, §134, Nov. 22, 1983, 97 Stat. 1029, provided that: �
 
 Pub. L. 97–241, title I, §103(b), (c), Aug. 24, 1982, 96 Stat. 273, as amended by Pub. L. 98–164, title I, §137, Nov. 22, 1983, 97 Stat. 1030; Pub. L. 103–236, title I, §139(8), Apr. 30, 1994, 108 Stat. 398, provided that:
 
-“(b) None of the funds made available under this \[Pub. L. 97–241\] or any other Act for ‘Administration of Foreign Affairs’ may be used for the establishment or operation of any United States consulate that did not exist on the date of enactment of this Act \[Aug. 24, 1982\] (other than the consulates specified in subsection (c)) until all the United States consulates specified insubsection (c) have been reopened as required by section 108 of the Department of State Authorization Act, Fiscal Years 1980 and 1981 \[section 108 of Pub. L. 96–60, set out as a note below\], to the extent such reopening is authorized by the foreign government involved.
+“(b) None of the funds made available under this \[Pub. L. 97–241\] or any other Act for ‘Administration of Foreign Affairs’ may be used for the establishment or operation of any United States consulate that did not exist on the date of enactment of this Act \[Aug. 24, 1982\] (other than the consulates specified in subsection (c)) until all the United States consulates specified in subsection (c) have been reopened as required by section 108 of the Department of State Authorization Act, Fiscal Years 1980 and 1981 \[section 108 of Pub. L. 96–60, set out as a note below\], to the extent such reopening is authorized by the foreign government involved.
 
 “(c) The consulates referred to in subsections (a) \[section 103(a) of Pub. L. 97–241, which was not classified to the Code\] and (b) of this section are the consulates in the following locations: Turin, Italy; Salzburg, Austria; Goteborg, Sweden; Bremen, Germany; Nice, France; Mandalay, Burma; and Brisbane, Australia.”
 

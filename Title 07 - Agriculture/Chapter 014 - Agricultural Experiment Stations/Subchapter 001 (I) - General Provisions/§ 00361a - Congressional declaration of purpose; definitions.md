@@ -16,7 +16,7 @@ The Bankhead-Jones Act of 1935, referred to in text, is act June 29, 1935, ch. 3
 
 Title I, section 9, of that Act, referred to in text, was classified to section 427h of this title prior to repeal.
 
-The Act approved July 2, 1862 (12 Stat. 503), referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, asamended, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I of chapter 13 (§301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this Act and Tables.
+The Act approved July 2, 1862 (12 Stat. 503), referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I of chapter 13 (§301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this Act and Tables.
 
 #### Codification
 

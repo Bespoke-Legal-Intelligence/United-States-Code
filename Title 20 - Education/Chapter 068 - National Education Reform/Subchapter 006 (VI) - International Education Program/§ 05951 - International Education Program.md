@@ -92,7 +92,7 @@ The Secretary shall award grants for the study, evaluation, and analysis of educ
 
 &emsp;&emsp;&emsp;(iv) translations and adaptations regarding United States civics and government education and economic education curricular programs for students and teachers, and in the case of training programs for teachers translations and adaptations into forms useful in schools in eligible countries, and joint research projects in such areas;
 
-&emsp;&emsp;&emsp;(v) translation of basic documents of United States constitutional government for use in eligible countries, such as The Federalist Papers, selected writings ofPresidents Adams and Jefferson and the Anti-Federalists, and more recent works on political theory, constitutional law and economics; and
+&emsp;&emsp;&emsp;(v) translation of basic documents of United States constitutional government for use in eligible countries, such as The Federalist Papers, selected writings of Presidents Adams and Jefferson and the Anti-Federalists, and more recent works on political theory, constitutional law and economics; and
 
 &emsp;&emsp;&emsp;(vi) research and evaluation assistance to determine—
 

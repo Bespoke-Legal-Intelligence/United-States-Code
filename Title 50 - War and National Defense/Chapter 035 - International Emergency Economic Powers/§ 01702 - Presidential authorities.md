@@ -42,7 +42,7 @@ Section 525(c)(2) and (3) of Pub. L. 103–236 provided that:
 
 “(2) The amendments made by paragraph (1) to section 203(b)(3) of the International Emergency Economic Powers Act \[50 U.S.C. 1702(b)(3)\] apply to actions taken by the President under section 203 of such Act before the date of enactment of this Act \[Apr. 30, 1994\] which are in effect on such date and to actions taken under such section on or after such date.
 
-“(3) Section 203(b)(4) of the International Emergency Economic Powers Act (as added by paragraph (1)) shall not apply to restrictions on the transactions and activities described in section 203(b)(4) in force on the date of enactment of this Act, with respect to countriesembargoed under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] on the date of enactment of this Act.”
+“(3) Section 203(b)(4) of the International Emergency Economic Powers Act (as added by paragraph (1)) shall not apply to restrictions on the transactions and activities described in section 203(b)(4) in force on the date of enactment of this Act, with respect to countries embargoed under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] on the date of enactment of this Act.”
 
 #### Effective Date of 1988 Amendment
 

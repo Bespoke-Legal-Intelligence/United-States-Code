@@ -14,7 +14,7 @@ When a vessel is in any doubt as to whether such a situation exists she shall as
 
 #### (d) Vessel operating on Great Lakes, Western Rivers, or other specified waters, and proceeding downbound with following current
 
-Notwithstanding paragraph (a) of this Rule, a power-driven vessel operating on the GreatLakes, Western Rivers, or waters specified by the Secretary, and proceeding downbound with a following current shall have the right-of-way over an upbound vessel, shall propose the manner of passage, and shall initiate the maneuvering signals prescribed by Rule 34(a)(i), as appropriate.
+Notwithstanding paragraph (a) of this Rule, a power-driven vessel operating on the Great Lakes, Western Rivers, or waters specified by the Secretary, and proceeding downbound with a following current shall have the right-of-way over an upbound vessel, shall propose the manner of passage, and shall initiate the maneuvering signals prescribed by Rule 34(a)(i), as appropriate.
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3421; Pub. L. 98–557, §16(c), Oct. 30, 1984, 98 Stat. 2867.)
 

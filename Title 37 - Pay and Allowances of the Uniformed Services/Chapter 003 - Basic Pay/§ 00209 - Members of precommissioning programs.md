@@ -4,7 +4,7 @@
 
 (b) Except when on active duty, a cadet or midshipman appointed under section 2107 of title 10 is entitled to a monthly subsistence allowance in the amount provided in subsection (a). A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under section 2104 of title 10 as prescribed in subsection (a).
 
-(c) Each cadet or midshipman in the Senior Reserve Officers’ Training Corps, while he is attending training or practice cruises under chapter 103 of title 10 if the training or cruise is of at least four weeks duration and must be completed before the cadet or midshipman is commissioned, and each applicant for membership in the Senior Reserve Officers’ Training Corps, while he is attending field training or practice cruises to satisfy the requirements of section 2104(b)(6)(B) of title 10 for admission to advancedtraining, is entitled, while so attending, to pay at the rate prescribed for cadets and midshipmen at the United States Military, Naval, and Air Force Academies under section 203(c) of this title.
+(c) Each cadet or midshipman in the Senior Reserve Officers’ Training Corps, while he is attending training or practice cruises under chapter 103 of title 10 if the training or cruise is of at least four weeks duration and must be completed before the cadet or midshipman is commissioned, and each applicant for membership in the Senior Reserve Officers’ Training Corps, while he is attending field training or practice cruises to satisfy the requirements of section 2104(b)(6)(B) of title 10 for admission to advanced training, is entitled, while so attending, to pay at the rate prescribed for cadets and midshipmen at the United States Military, Naval, and Air Force Academies under section 203(c) of this title.
 
 (d) Except when serving on active duty, a member who is enrolled in a Marine Corps officer candidate program which requires a baccalaureate degree as a prerequisite to being commissioned as an officer and who is not enrolled in a program established under chapter 103 of title 10 or an academy established under chapter 403, 603, or 903 of title 10 may be paid a subsistence allowance at the same rate as that prescribed by subsection (a) for a member of the Senior Reserve Officers’ Training Corps who is selected for advanced training under section 2104 of title 10.
 
@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 95–79, §302(a)(3)(A), substituted provisions authorizing
 
 Subsec. (b). Pub. L. 92–171, §1(2), substituted “a monthly subsistence allowance in the amount provided in subsection (a) of this section. A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under section 2104 of title 10 as prescribed in subsection (a) of this section.” for “subsistence allowance at the rate of $50 a month beginning on the day that he starts his first term of college work under that section and ending upon the completion of his instruction under that section, but not for more than four years.”
 
-1966—Subsec. (a). Pub. L. 89–718, §51(1), struck out “, United States Code,” after “section 2104 of title 10”, and substituted “20” for “twenty” and “section 456(d)(1) of title 50, appendix” for “section 6(d)(1) of the Universal Military Training and Service Act, as amended (50 U.S.C. App. 456(d)(1))”.
+1966—Subsec. (a). Pub. L. 89–718, §51(1), struck out “, United States Code,” after “section 2104 of title 10”, and substituted “20” for “twenty” and “section456(d)(1) of title 50, appendix” for “section 6(d)(1) of the Universal Military Training and Service Act, as amended (50 U.S.C. App. 456(d)(1))”.
 
 Subsec. (c). Pub. L. 89–718, §51(2), struck out “, United States Code,” after “section 2104(b)(6)(B) of title 10”.
 
@@ -78,7 +78,7 @@ Section 603(b) of Pub. L. 103–337 provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply with respect to months beginning after August 31, 1995.
 
-“(2) Upon the approval of the Secretary of Defense, the Secretary of a military department may implement such amendments at an earlier date with respect to members of the Senior Reserve Officers’ Training Corps under the jurisdiction of the Secretary if funds areavailable for the monthly subsistence allowances authorized by such amendments.”
+“(2) Upon the approval of the Secretary of Defense, the Secretary of a military department may implement such amendments at an earlier date with respect to members of the Senior Reserve Officers’ Training Corps under the jurisdiction of the Secretary if funds are available for the monthly subsistence allowances authorized by such amendments.”
 
 #### Effective Date of 1988 Amendment
 

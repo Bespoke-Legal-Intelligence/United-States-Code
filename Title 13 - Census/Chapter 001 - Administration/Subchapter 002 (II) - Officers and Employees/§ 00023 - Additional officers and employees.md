@@ -18,7 +18,7 @@ Section 122 of title 13, U.S.C., 1952 ed., which related to quinquennial censuse
 
 In subsection (a), “Departmental Service” was substituted for “District of Columbia”, since the Bureau of the Census now has its headquarters in Maryland, and not in the District of Columbia.
 
-In this section, a reference to the Bureau of the Census was changed to a reference to the Department of Commerce, and references to the Director of the Censuswere changed in all but one case to references to the Secretary (of Commerce) to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title. The provision of section 203 of title 13, U.S.C., 1952 ed., that appointments under the particular provisions thereof that have been carried into subsection (a) of this revised section should be made upon the recommendation of the Director of the Census, have been omitted from such subsection (a) for the same reason. Further, words “or to whatever other officer is designated by the Secretary to take the census provided for in sections 141 and 142 of this title” were inserted after “Director of the Census” in par. (1) of subsection (a), to conform with such 1950 Reorganization Plan.
+In this section, a reference to the Bureau of the Census was changed to a reference to the Department of Commerce, and references to the Director of the Census were changed in all but one case to references to the Secretary (of Commerce) to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title. The provision of section 203 of title 13, U.S.C., 1952 ed., that appointments under the particular provisions thereof that have been carried into subsection (a) of this revised section should be made upon the recommendation of the Director of the Census, have been omitted from such subsection (a) for the same reason. Further, words “or to whatever other officer is designated by the Secretary to take the census provided for in sections 141 and 142 of this title” were inserted after “Director of the Census” in par. (1) of subsection (a), to conform with such 1950 Reorganization Plan.
 
 The first paragraph of section 203 of title 13, U.S.C., 1952 ed., which provided for the employment of two assistant directors for each decennial census period, was omitted as obsolete and superseded, in view of section 122 of such title, which made such section 203 applicable to the quinquennial censuses of manufactures and other businesses, and to surveys (see subchapter IV of chapter 5 of this title), thus rendering such first paragraph ineffective and meaningless. See also section 121(b) of title 13, U.S.C., 1952 ed.
 
@@ -56,9 +56,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Temporary Positions Relating to 1990 Decennial Census
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title II, §204\], Sept. 30, 1996, 110 Stat. 3009, 3009–39, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce, shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses paid before October 1, 1992, as authorized by section 8501 of title 5, United States Code, for services performed after April 20, 1990, by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the 1990 decennial census of population.”
+Pub. L. 105–119, title II, §204, Nov. 26, 1997, 111 Stat. 2479, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce, shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses paid before October 1, 1992, as authorized by section 8501 of title 5, United States Code, for services performed after April 20, 1990, by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the 1990 decennial census of population.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §204\], Sept. 30, 1996, 110 Stat. 3009, 3009–39.
 
 Pub. L. 104–134, title I, §101\[(a)\] \[title II, §204\], Apr. 26, 1996, 110 Stat. 1321, 1321–30; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
@@ -88,7 +90,7 @@ Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 215, provided that: “Serv
 
 Pub. L. 101–86, Aug. 16, 1989, 103 Stat. 593, as amended by Pub. L. 101–293, §1, May 17, 1990, 104 Stat. 192, provided that Federal annuitants or former members of the uniformed services who return to Government service under temporary appointments to assist in carrying out the 1990 decennial census of population would be exempt from certain provisions of Title 5, Government Organization and Employees, relating to offsets from pay and other benefits.
 
-\[Section 2 of Pub. L. 101–293 provided that amendment of Pub. L. 101–86 by Pub. L. 101–293 may not be considered to make an exemption under Pub. L. 101–86 applicable to any service performed before May 17, 1990,which was in excess of that allowable under Pub. L. 101–86 (as then in effect).\]
+\[Section 2 of Pub. L. 101–293 provided that amendment of Pub. L. 101–86 by Pub. L. 101–293 may not be considered to make an exemption under Pub. L. 101–86 applicable to any service performed before May 17, 1990, which was in excess of that allowable under Pub. L. 101–86 (as then in effect).\]
 
 #### Policy and Practices of Bureau of Census Regarding Use of Temporary Staff; Publication
 

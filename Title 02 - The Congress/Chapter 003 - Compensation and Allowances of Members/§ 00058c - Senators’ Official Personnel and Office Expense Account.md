@@ -12,9 +12,19 @@
 
 (5) Vouchers shall not be required for the disbursement, from the Senators’ Account, of salaries of employees in the office of a Senator.
 
-(Pub. L. 100–137, §1(a), Oct. 21, 1987, 101 Stat. 814.)
+(6) Effective on and after October 1, 1997, the Senators’ Account shall be available for the payment of franked mail expenses of Senators.
+
+(Pub. L. 100–137, §1(a), Oct. 21, 1987, 101 Stat. 814; Pub. L. 105–55, title I, §3(b), Oct. 7, 1997, 111 Stat. 1180.)
 
 #### References in Text
 
 This section, referred to in pars. (1) and (2), means section 1 of Pub. L. 100–137, Oct. 21, 1987, 101 Stat. 814, which enacted this section, amended sections 58 and 61–1 of this title, and enacted provisions set out as notes under sections 58 and 61–1 of this title.
+
+#### Amendments
+
+1997—Par. (6). Pub. L. 105–55 added par. (6).
+
+#### Construction of 1997 Amendment
+
+Section 3(d) of Pub. L. 105–55 provided that: “Nothing in this section \[amending this section and section 58 of this title, repealing section 58c–1 of this title, and enacting provisions set out as notes under sections 58 and 58c–1 of this title\] affects the authority of the Committee on Rules and Administration of the Senate to prescribe regulations relating to the frank by Senators and officers of the Senate.”
 

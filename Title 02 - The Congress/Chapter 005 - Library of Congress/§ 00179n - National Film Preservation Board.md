@@ -52,7 +52,7 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (1) Terms
 
-&emsp;The term of each member of the Board shall be 4 years, except that there shall be no limitto the number of terms that any individual member may serve.
+&emsp;The term of each member of the Board shall be 4 years, except that there shall be no limit to the number of terms that any individual member may serve.
 
 #### (2) Removal of member or organization
 
@@ -60,7 +60,7 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (3) Vacancies
 
-&emsp;A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a) of this section, except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy before the expiration of the term for which his or her predecessor was appointed shall be appointed for the remainder of such term.
+&emsp;A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a) of this section, except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy beforethe expiration of the term for which his or her predecessor was appointed shall be appointed for the remainder of such term.
 
 #### (d) Quorum
 

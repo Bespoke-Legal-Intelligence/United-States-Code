@@ -50,7 +50,7 @@ The President shall transmit to the Congress at the beginning of each regular se
 
 For the purposes of this section—
 
-&emsp;(1) the term “health research” shall include, but not be limited to, research, investigations, and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
+&emsp;(1) the term “health research” shall include, but not be limited to, research, investigations,and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
 
 &emsp;(2) the term “participating foreign countries” means those foreign countries which cooperate with the United States in carrying out the purposes of this section.
 
@@ -74,7 +74,7 @@ In subsec. (e), “section 3109 of title 5” and “section 5703 of title 5” 
 
 #### Transfer of Functions
 
-Office of Vocational Rehabilitation redesignated Vocational Rehabilitation Administration which by Department of Health, Education, and Welfare reorganization became Rehabilitation Services Administration. The Rehabilitation Act of 1973 (29 U.S.C. §701 et seq.)established Rehabilitation Services Administration in Office of Secretary of Health, Education, and Welfare. Functions and offices of Secretary and Department of Health, Education, and Welfare relating to Rehabilitation Act of 1973 transferred to Secretary and Department of Education by section 3441 of Title 20, Education. The Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 3508(b) of Title 20, Education.
+Office of Vocational Rehabilitation redesignated Vocational Rehabilitation Administration which by Department of Health, Education, and Welfare reorganization became Rehabilitation Services Administration. The Rehabilitation Act of 1973 (29 U.S.C. §701 et seq.) established Rehabilitation Services Administration in Office of Secretary of Health, Education, and Welfare. Functions and offices of Secretary and Department of Health, Education, and Welfare relating to Rehabilitation Act of 1973 transferred to Secretary and Department of Education by section 3441 of Title 20, Education. The Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 3508(b) of Title 20, Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@ The Executive Director of the Council may appoint and fix the compensation of su
 
 #### (d) Appointment and compensation of additional personnel
 
-The Executive Director shall have power to appoint and fix the compensation of such additional personnel as may be necessary to carryout its duties, without regard to the provisions of the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5.
+The Executive Director shall have power to appoint and fix the compensation of such additional personnel as may be necessary to carry out its duties, without regard to the provisions of the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5.
 
 #### (e) Expert and consultant services; procurement
 
@@ -22,7 +22,7 @@ The Executive Director of the Council is authorized to procure expert and consul
 
 #### (f) Financial and administrative services; Department of the Interior
 
-Financial and administrative services (including those related to budgeting, accounting, financial reporting, personnel and procurement) shall be provided the Council by the Department of the Interior, for which payments shall be made in advance, or by reimbursement, from funds of the Council in such amounts as may be agreed upon by the Chairman of the Council and the Secretary of the Interior: <i>Provided</i>, That the regulations of the Department of the Interior for the collection of indebtedness of personnel resulting from erroneous payments (5 U.S.C. 5514(b)) shall apply to the collection of erroneous payments made to or on behalf of a Council employee, and regulations of said Secretary for the administrative control of funds (31 U.S.C. 1513(d), 1514) shall apply to appropriations of the Council: <i>And provided further</i>, That the Council shall not be required to prescribe such regulations.
+Financial and administrative services (including those related to budgeting, accounting, financial reporting, personnel and procurement) shall be provided the Council by the Department of the Interior, for which payments shall be made in advance, or by reimbursement, from funds of the Council in such amounts as may be agreed upon by the Chairman of the Council and the Secretary of the Interior: <i>Provided</i>, That theregulations of the Department of the Interior for the collection of indebtedness of personnel resulting from erroneous payments (5 U.S.C. 5514(b)) shall apply to the collection of erroneous payments made to or on behalf of a Council employee, and regulations of said Secretary for the administrative control of funds (31 U.S.C. 1513(d), 1514) shall apply to appropriations of the Council: <i>And provided further</i>, That the Council shall not be required to prescribe such regulations.
 
 #### (g) Use of funds, personnel, facilities, and services of Council members
 
@@ -66,5 +66,5 @@ Subsec. (g). Pub. L. 94–422 added subsec. (g).
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

@@ -15,10 +15,13 @@
 | [981\.](%C2%A7%2000981%20-%20Limitation%20on%20number%20of%20enlisted%20aides.md) | Limitation on number of enlisted aides. |
 | [982\.](%C2%A7%2000982%20-%20Members%20service%20on%20State%20and%20local%20juries.md) | Members: service on State and local juries. |
 | [983\.](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prohibit%20Senior%20ROTC%20units%20denial%20of%20Department%20of%20Defense%20grants%20and%20contracts.md) | Institutions of higher education that prohibit Senior ROTC units: denial of Department of Defense grants and contracts. |
+| [985\.](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%20denial%20of%20certain%20burial-related%20benefits.md) | Persons convicted of capital crimes: denial of certain burial-related benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title X, §1077(a)(2), Nov. 18, 1997, 111 Stat. 1915, added item 985.
 
 1996—Pub. L. 104–201, div. A, title V, §581(c)(3), Sept. 23, 1996, 110 Stat. 2538, struck out “enlisted” after “count” in item 971.
 
@@ -72,3 +75,4 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 - [&sect; 00981 - Limitation on number of enlisted aides](%C2%A7%2000981%20-%20Limitation%20on%20number%20of%20enlisted%20aides.md)
 - [&sect; 00982 - Members service on State and local juries](%C2%A7%2000982%20-%20Members%20service%20on%20State%20and%20local%20juries.md)
 - [&sect; 00983 - Institutions of higher education that prohibit Senior ROTC units denial of Department of Defense grants and contracts](%C2%A7%2000983%20-%20Institutions%20of%20higher%20education%20that%20prohibit%20Senior%20ROTC%20units%20denial%20of%20Department%20of%20Defense%20grants%20and%20contracts.md)
+- [&sect; 00985 - Persons convicted of capital crimes denial of certain burial-related benefits](%C2%A7%2000985%20-%20Persons%20convicted%20of%20capital%20crimes%20denial%20of%20certain%20burial-related%20benefits.md)

@@ -14,11 +14,11 @@ North Dakota constitutes one judicial district comprising four divisions.
 
 &emsp;&emsp;Court for the Northeastern Division shall be held at Grand Forks.
 
-&emsp;&emsp;(4) The Northwestern Division comprises the counties of Bottineau, Burke, Divide, McHenry, McKenzie, Mountrail, Pierce, Renville, Sheridan, Ward, Wells, and Williams.
+&emsp;&emsp;(4) The Northwestern Division comprises the counties of Bottineau, Burke, Divide,McHenry, McKenzie, Mountrail, Pierce, Renville, Sheridan, Ward, Wells, and Williams.
 
 &emsp;&emsp;Court for the Northwestern Division shall be held at Minot.
 
-(June 25, 1948, ch. 646, 62 Stat. 886; Oct. 2, 1978, Pub. L. 95–408, §3(b), 92 Stat. 883.)
+(June 25, 1948, ch. 646, 62 Stat. 886; Pub. L. 95–408, §3(b), Oct. 2, 1978, 92 Stat. 883.)
 
 #### Historical and Revision Notes
 
@@ -34,7 +34,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1978—Par. (2). Pub. L. 95–408, §3(b)(1), struck out Sheridan and Wells from the counties comprising the Southeastern Division.
+<b>1978</b>—Par. (2). Pub. L. 95–408, §3(b)(1), struck out Sheridan and Wells from the counties comprising the Southeastern Division.
 
 Par. (3). Pub. L. 95–408, §3(b)(2), struck out Bottineau, McHenry and Pierce from the counties comprising the Northeastern Division.
 
@@ -42,5 +42,5 @@ Par. (4). Pub. L. 95–408, §3(b)(3), added Bottineau, McHenry, Pierce, Sherida
 
 #### Effective Date of 1978 Amendment; Savings Provision
 
-Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such amendment not to affect thecomposition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act, see section 5 of Pub. L. 95–408, set out as a note under section 89 of this title.
+Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such amendment not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act, see section 5 of Pub. L. 95–408, set out as a note under section 89 of this title.
 

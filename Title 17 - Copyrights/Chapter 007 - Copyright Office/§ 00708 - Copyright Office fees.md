@@ -24,15 +24,33 @@
 
 > The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Office records, whether or not such copies are certified, on the basis of the cost of such preparation.
 
-(b) In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized.
+(b) In calendar year 1997 and in any subsequent calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) in the following manner:
+
+&emsp;(1) The Register shall conduct a study of the costs incurred by the Copyright Office for the registration of claims, the recordation of documents, and the provision of services. The study shall also consider the timing of any increase in fees and the authority to use such fees consistent with the budget.
+
+&emsp;(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), increase fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the services described in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs.
+
+&emsp;(3) Any fee established under paragraph (2) shall be rounded off to the nearest dollar, or for a fee less than $12, rounded off to the nearest 50 cents.
+
+&emsp;(4) Fees established under this subsection shall be fair and equitable and give due consideration to the objectives of the copyright system.
+
+&emsp;(5) If the Register determines under paragraph (2) that fees should be increased, the Register shall prepare a proposed fee schedule and submit the schedule with the accompanying economic analysis to the Congress. The fees proposed by the Register may be instituted after the end of 120 days after the schedule is submitted to the Congress unless, within that 120-day period, a law is enacted stating in substance that the Congress does not approve the schedule.
 
 (c) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts.
 
-(d) All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section.
+(d)(1) Except as provided in paragraph (2), all fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office. Such fees that are collected shall remain available until expended. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266.)
+(2) In the case of fees deposited against future services, the Register of Copyrights shall request the Secretary of the Treasury to invest in interest-bearing securities in the United States Treasury any portion of the fees that, as determined by the Register, is not required to meet current deposit account demands. Funds from such portion of fees shall be invested in securities that permit funds to be available to the Copyright Office at all times if they are determined to be necessary to meet current deposit account demands. Such investments shall be in public debt securities with maturities suitable to the needs of the Copyright Office, as determined by the Register of Copyrights, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+
+(3) The income on such investments shall be deposited in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, §7, Nov. 13, 1997, 111 Stat. 1532.)
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–80, §7(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized.”
+
+Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section.”
 
 1992—Subsec. (a)(2). Pub. L. 102–307 struck out “in its first term” after “copyright” and substituted “$20” for “$12”.
 
@@ -40,7 +58,7 @@
 
 &emsp;“(1) on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, $10;
 
-&emsp;“(2) on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, $6;
+&emsp;“(2) on filing each application for registration of a claim to renewal of a subsisting copyright in its firstterm under section 304(a), including the issuance of a certificate of registration if registration is made, $6;
 
 &emsp;“(3) for the issuance of a receipt for a deposit under section 407, $2;
 
@@ -48,7 +66,7 @@
 
 &emsp;“(5) for the filing, under section 115(b), of a notice of intention to make phonorecords, $6;
 
-&emsp;“(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of ananonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $10 for a document of six pages or less, covering no more than one title; for each page over six and for each title over one, $1 additional;
+&emsp;“(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $10 for a document of six pages or less, covering no more than one title; for each page over six and for each title over one, $1 additional;
 
 &emsp;“(7) for the issuance, under section 601, of an import statement, $3;
 

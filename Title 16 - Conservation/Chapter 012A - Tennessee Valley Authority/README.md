@@ -87,12 +87,13 @@
 | [831bb.](%C2%A7%2000831bb%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal.md) | Reservation of right to amend or repeal. |
 | [831cc.](%C2%A7%2000831cc%20-%20Separability.md) | Separability. |
 | [831dd.](%C2%A7%2000831dd%20-%20Liberal%20construction%20of%20chapter%3B%20sale%20of%20surplus%20lands.md) | Liberal construction of chapter; sale of surplus lands. |
+| [831ee.](%C2%A7%2000831ee%20-%20Tennessee%20Valley%20Authority.md) | Tennessee Valley Authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 824k of this title; title 7 section 904; title 20 section 7702; title 28 section 1491; title 33 sections 558b, 558c.
+This chapter is referred to in sections 824k, 831ee of this title; title 7 section 904; title 20 section 7702; title 28 section 1491; title 33 sections 558b, 558c.
 
 
 ---
@@ -143,3 +144,4 @@ This chapter is referred to in section 824k of this title; title 7 section 904; 
 - [&sect; 00831bb - Reservation of right to amend or repeal](%C2%A7%2000831bb%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal.md)
 - [&sect; 00831cc - Separability](%C2%A7%2000831cc%20-%20Separability.md)
 - [&sect; 00831dd - Liberal construction of chapter; sale of surplus lands](%C2%A7%2000831dd%20-%20Liberal%20construction%20of%20chapter%3B%20sale%20of%20surplus%20lands.md)
+- [&sect; 00831ee - Tennessee Valley Authority](%C2%A7%2000831ee%20-%20Tennessee%20Valley%20Authority.md)

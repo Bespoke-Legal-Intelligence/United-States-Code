@@ -20,7 +20,7 @@
 
 (c) As used in this section, the term—
 
-&emsp;(1) “Federal law enforcement officer” means any officer, agent, or employee of the United States authorized by law or by a Government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of Federal criminal law;
+&emsp;(1) “Federal law enforcement officer” means any officer, agent, or employee of the UnitedStates authorized by law or by a Government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of Federal criminal law;
 
 &emsp;(2) “immediate family member” of an individual means—
 

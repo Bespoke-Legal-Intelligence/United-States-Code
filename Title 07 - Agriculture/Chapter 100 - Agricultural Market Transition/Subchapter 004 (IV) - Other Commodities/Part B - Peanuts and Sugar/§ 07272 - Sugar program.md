@@ -2,7 +2,7 @@
 
 #### (a) Sugarcane
 
-The Secretary shall make loans available to processors of domestically grown sugarcane at arate equal to 18 cents per pound for raw cane sugar.
+The Secretary shall make loans available to processors of domestically grown sugarcane at a rate equal to 18 cents per pound for raw cane sugar.
 
 #### (b) Sugar beets
 
@@ -16,7 +16,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (2) Extent of reduction
 
-&emsp;The Secretary shall not reduce the loan rate under subsection (a) or (b) of this section below a rate that provides an equal measure of support to that provided by other major sugar growing, producing, and exporting countries, based on an examination of both domestic and export subsidies subject to reduction in the Agreement on Agriculture.
+&emsp;The Secretary shall not reduce the loan rate under subsection (a) or (b) of this sectionbelow a rate that provides an equal measure of support to that provided by other major sugar growing, producing, and exporting countries, based on an examination of both domestic and export subsidies subject to reduction in the Agreement on Agriculture.
 
 #### (3) Announcement of reduction
 
@@ -82,7 +82,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (2) Sugar beets
 
-&emsp;Effective for marketings of beet sugar during the 1996 through 2003 fiscal years, the firstprocessor of sugar beets shall remit to the Commodity Credit Corporation a nonrefundable marketing assessment in an amount equal to—
+&emsp;Effective for marketings of beet sugar during the 1996 through 2003 fiscal years, the first processor of sugar beets shall remit to the Commodity Credit Corporation a nonrefundable marketing assessment in an amount equal to—
 
 &emsp;&emsp;(A) in the case of marketings during fiscal year 1996, 1.1794 percent of the loan rate established under subsection (a) of this section per pound of beet sugar, processed by the processor from domestically produced sugar beets or sugar beet molasses, that has been marketed; and
 

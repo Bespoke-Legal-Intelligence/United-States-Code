@@ -12,7 +12,7 @@ In the event of injury to a person covered under this chapter caused by the negl
 
 In the event that the negligence of a vessel causes injury to a person entitled to receive benefits under this Act by virtue of section 1333 of title 43, then such person, or anyone otherwise entitled to recover damages by reason thereof, may bring an action against such vessel in accordance with the provisions of subsection (b) of this section. Nothing contained in subsection (b) of this section shall preclude the enforcement according to its terms of any reciprocal indemnity provision whereby the employer of a person entitled to receive benefits under this chapter by virtue of section 1333 of title 43 and the vessel agree to defend and indemnify the other for cost of defense and loss or liability for damages arising out of or resulting from death or bodily injury to their employees.
 
-(Mar. 4, 1927, ch. 509, §5, 44 Stat. 1426; Oct. 27, 1972, Pub. L. 92–576, §18(a), 86 Stat. 1263; Sept. 28, 1984, Pub. L. 98–426, §§4(b), 5(a)(1), (b), 98 Stat. 1641.)
+(Mar. 4, 1927, ch. 509, §5, 44 Stat. 1426; Pub. L. 92–576, §18(a), Oct. 27, 1972, 86 Stat. 1263; Pub. L. 98–426, §§4(b), 5(a)(1), (b), Sept. 28, 1984, 98 Stat. 1641.)
 
 #### Amendments
 

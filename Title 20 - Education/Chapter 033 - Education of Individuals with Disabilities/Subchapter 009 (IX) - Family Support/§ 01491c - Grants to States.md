@@ -66,6 +66,10 @@ To the extent practicable, the Secretary shall award grants to States under this
 
 (Pub. L. 91–230, title VI, §704, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3943.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
+
 #### References in Text
 
 For Oct. 1, 1994, as the date the Compact of Free Association between the United States and the Republic of Palau enters into force and effect, referred to in subsec. (c)(4)(B), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.

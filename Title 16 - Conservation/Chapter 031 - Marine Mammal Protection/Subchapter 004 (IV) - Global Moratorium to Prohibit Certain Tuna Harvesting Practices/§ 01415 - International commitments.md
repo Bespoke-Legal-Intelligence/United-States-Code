@@ -60,6 +60,28 @@ The Secretary, in consultation with the Secretary of State, shall—
 
 (Pub. L. 92–522, title III, §305, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3428.)
 
+#### Repeal of Section and Enactment of New Section
+
+<i>Pub. L. 105–42, §§6(c), 8, Aug. 15, 1997, 111 Stat. 1130, 1134, 1139, provided that, effective</i><i>upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, this section is repealed and a new section 1415 is added reading as follows:</i>
+
+#### §1415. Reports by Secretary
+
+Notwithstanding section 1373(f) of this title, the Secretary shall submit annual reports to the Congress which include—
+
+&emsp;(1) results of research conducted pursuant to section 1414a of this title;
+
+&emsp;(2) a description of the status and trends of stocks of tuna;
+
+&emsp;(3) a description of the efforts to assess, avoid, reduce, and minimize the bycatch of juvenile yellowfin tuna and bycatch of nontarget species;
+
+&emsp;(4) a description of the activities of the International Dolphin Conservation Program and of the efforts of the United States in support of the Program's goals and objectives, including the protection of dolphin stocks in the eastern tropical Pacific Ocean, and an assessment of the effectiveness of the Program;
+
+&emsp;(5) actions taken by the Secretary under section 1371(a)(2)(B) of this title and section 1371(d) of this title;
+
+&emsp;(6) copies of any relevant resolutions and decisions of the Inter-American Tropical Tuna Commission, and any regulations promulgated by the Secretary under this subchapter; and
+
+&emsp;(7) any other information deemed relevant by the Secretary.
+
 #### Codification
 
 Another section 305 of Pub. L. 92–522 was renumbered section 405 and is classified to section 1421d of this title.

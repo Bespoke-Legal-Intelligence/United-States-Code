@@ -6,7 +6,7 @@ Offense.—Whoever—
 
 &emsp;(1) travels in interstate or foreign commerce, or uses or causes to be used the mail or any facility in interstate or foreign commerce, for the purpose of causing physical disruption to the functioning of an animal enterprise; and
 
-&emsp;(2) intentionally causes physical disruption to the functioning of an animal enterprise by intentionally stealing, damaging, or causing the loss of, any property (including animals or records) used by the animal enterprise, and thereby causes economic damage exceeding $10,000 to that enterprise, or conspires to do so;
+&emsp;(2) intentionally causes physical disruption to the functioning of an animal enterprise byintentionally stealing, damaging, or causing the loss of, any property (including animals or records) used by the animal enterprise, and thereby causes economic damage exceeding $10,000 to that enterprise, or conspires to do so;
 
 > shall be fined under this title or imprisoned not more than one year, or both.
 

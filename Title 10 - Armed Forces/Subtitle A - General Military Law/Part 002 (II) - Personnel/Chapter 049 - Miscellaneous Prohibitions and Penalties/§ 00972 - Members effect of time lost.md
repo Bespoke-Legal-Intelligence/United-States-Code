@@ -16,7 +16,7 @@ Enlisted Members Required To Make Up Time Lost.—An enlisted member of an armed
 
 (b)
 
-Officers Not Allowed Service Credit for Time Lost.—In the case of an officer of an armed force who after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996—
+Officers Not Allowed Service Credit for Time Lost.—In the case of an officer of an armed force who after February 10, 1996—
 
 &emsp;(1) deserts;
 
@@ -28,7 +28,7 @@ Officers Not Allowed Service Credit for Time Lost.—In the case of an officer o
 
 > the period of such desertion, absence, confinement, or inability to perform duties may not be counted in computing, for any purpose other than basic pay under section 205 of title 37, the officer's length of service.
 
-(Added Pub. L. 85–861, §1(20), Sept. 2, 1958, 72 Stat. 1443; amended Pub. L. 104–106, div. A, title V, §561(a)–(c)(1), Feb. 10, 1996, 110 Stat. 321, 322.)
+(Added Pub. L. 85–861, §1(20), Sept. 2, 1958, 72 Stat. 1443; amended Pub. L. 104–106, div. A, titleV, §561(a)–(c)(1), Feb. 10, 1996, 110 Stat. 321, 322; Pub. L. 105–85, div. A, title X, §1073(a)(14), Nov. 18, 1997, 111 Stat. 1900.)
 
 Historical and Revision Notes
 
@@ -46,11 +46,9 @@ Historical and Revision Notes
 
 July 24, 1956, ch. 692, §1, 70 Stat. 631.
 
-#### References in Text
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1996, referred to in subsec. (b), is the date of enactment of Pub. L. 104–106, which was approved Feb. 10, 1996.
-
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–85 substituted “February 10, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996” in introductory provisions.
 
 1996—Pub. L. 104–106, §561(c)(1), substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” as section catchline.
 

@@ -16,6 +16,14 @@
 
 (2) In a report under subsection (a) of this section or in a special report to Congress when Congress is in session, the Comptroller General shall include recommendations on greater economy and efficiency in public expenditures.
 
+(3) The report under subsection (a) shall also include a statement of the staff hours and estimated cost of work performed on audits, evaluations, investigations, and related work during each of the three fiscal years preceding the fiscal year in which the report is submitted, stated separately for each division of the General Accounting Office by category as follows:
+
+&emsp;(A) A category for work requested by the chairman of a committee of Congress, the chairman of a subcommittee of such a committee, or any other Member of Congress.
+
+&emsp;(B) A category for work required by law to be performed by the Comptroller General.
+
+&emsp;(C) A category for work initiated by the Comptroller General in the performance of the Comptroller General's general responsibilities.
+
 (c) The Comptroller General shall report to Congress—
 
 &emsp;(1) specially on expenditures and contracts an agency makes in violation of law;
@@ -56,7 +64,7 @@
 
 &emsp;(2) in its consideration of proposed legislation.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 894; Pub. L. 104–316, title I, §115(b), Oct. 19, 1996, 110 Stat. 3834.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 894; Pub. L. 104–316, title I, §115(b), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 105–85, div. A, title X, §1044, Nov. 18, 1997, 111 Stat. 1887.)
 
 Historical and Revision Notes
 
@@ -172,9 +180,11 @@ In subsection (i), before clause (1), the words “committee of Congress” are 
 
 #### References in Text
 
-Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were redesignated subsecs. (f) and (g),respectively, by Pub. L. 104–316, title I, §115(b)(2), Oct. 19, 1996, 110 Stat. 3834.
+Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were redesignated subsecs. (f) and (g), respectively, by Pub. L. 104–316, title I, §115(b)(2), Oct. 19, 1996, 110 Stat. 3834.
 
 #### Amendments
+
+1997—Subsec. (b)(3). Pub. L. 105–85 added par. (3).
 
 1996—Subsecs. (d) to (i). Pub. L. 104–316 redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows: “The Comptroller General shall report each year to the Committees on Finance and Governmental Affairs of the Senate, the Committees on Ways and Means and Government Operations of the House of Representatives, and the Joint Committee on Taxation. Each report shall include—
 

@@ -32,7 +32,7 @@ Section 1(b) of Pub. L. 97–387 provided that: “This amendment \[amending thi
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Director of Peace Corps with functions relating to providing health care in government facilities under clause (3) to be exercised in consultation with head ofagency responsible for facility by sections 1–103 and 1–106 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
+Functions of President under this section delegated to Director of Peace Corps with functions relating to providing health care in government facilities under clause (3) to be exercised in consultation with head of agency responsible for facility by sections 1–103 and 1–106 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Appointment to Civilian Career Services
 

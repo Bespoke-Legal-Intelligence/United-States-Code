@@ -28,7 +28,7 @@ Section 704(e) of Pub. L. 102–25 provided that: “The amendments made by this
 
 #### Effective Date
 
-Section 559(b) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(a)(3)(C), Apr. 6, 1991, 105 Stat.118, provided that: “Section 690 \[now 12321\] of title 10, United States Code, as added by subsection (a), shall take effect on September 30, 1991.”
+Section 559(b) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(a)(3)(C), Apr. 6, 1991, 105 Stat. 118, provided that: “Section 690 \[now 12321\] of title 10, United States Code, as added by subsection (a), shall take effect on September 30, 1991.”
 
 #### Waiver of Prohibition on Certain Reserve Service With ROTC Program
 

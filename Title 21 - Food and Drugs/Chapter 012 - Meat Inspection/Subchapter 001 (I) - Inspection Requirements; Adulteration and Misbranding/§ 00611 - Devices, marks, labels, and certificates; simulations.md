@@ -20,7 +20,7 @@ No person, firm, or corporation shall—
 
 &emsp;(6) knowingly represent that any article has been inspected and passed, or exempted, under this chapter when, in fact, it has, respectively, not been so inspected and passed, or exempted.
 
-(Mar. 4, 1907, ch. 2907, title I, §11, formerly 9th par., 34 Stat. 1263; renumbered §11 and amended Dec. 15, 1967, Pub. L. 90–201, §§1, 8, 81 Stat. 584, 589.)
+(Mar. 4, 1907, ch. 2907, title I, §11, formerly 9th par., 34 Stat. 1263; renumbered §11 and amended Pub. L. 90–201, §§1, 8, Dec. 15, 1967, 81 Stat. 584, 589.)
 
 #### Codification
 

@@ -1,6 +1,6 @@
 ### §1863. Trespass on national forest lands
 
-Whoever, without lawful authority or permission, goes upon any national-forest land while it is closed to the public pursuant to lawful regulation of the Secretary of Agriculture, shall be fined under this title or imprisoned not more than six months, or both.
+Whoever, without lawful authority or permission, goes upon any national-forest land while itis closed to the public pursuant to lawful regulation of the Secretary of Agriculture, shall be fined under this title or imprisoned not more than six months, or both.
 
 (Added May 24, 1949, ch. 139, §43, 63 Stat. 95; amended Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
 

@@ -42,7 +42,7 @@ Chapter 158 of title 28 shall apply to judicial review under paragraph (1) of su
 
 &emsp;(2) the provisions of section 2348 of title 28, on the authority of the Attorney General, shall not apply;
 
-&emsp;(3) the petition for review shall be filed not later than 90 days after the entry in the Office of a final decision under section 1406(e) of this title; and
+&emsp;(3) the petition for review shall be filed not later than 90 days after the entry in the Officeof a final decision under section 1406(e) of this title; and
 
 &emsp;(4) the Office shall be an “agency” as that term is used in chapter 158 of title 28.
 

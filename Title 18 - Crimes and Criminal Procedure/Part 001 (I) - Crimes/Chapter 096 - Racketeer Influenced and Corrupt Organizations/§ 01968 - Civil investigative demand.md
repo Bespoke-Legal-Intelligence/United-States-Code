@@ -16,7 +16,7 @@
 
 &emsp;(1) contain any requirement which would be held to be unreasonable if contained in a subpena duces tecum issued by a court of the United States in aid of a grand jury investigation of such alleged racketeering violation; or
 
-&emsp;(2) require the production of any documentary evidence which would be privileged from disclosure if demanded by a subpena duces tecum issued by a court of the United States in aid of a grand jury investigation of such alleged racketeering violation.
+&emsp;(2) require the production of any documentary evidence which would be privileged from disclosure if demanded by a subpena duces tecum issued by a court of the United Statesin aid of a grand jury investigation of such alleged racketeering violation.
 
 (d) Service of any such demand or any petition filed under this section may be made upon a person by—
 
@@ -42,7 +42,7 @@
 
 &emsp;(ii) any case or proceeding arising from such investigation, the custodian shall return to the person who produced such material all such material other than copies thereof made by the Attorney General pursuant to this subsection which has not passed into the control of any court or grand jury through the introduction thereof into the record of such case or proceeding.
 
-(6) When any documentary material has been produced by any person under this section foruse in any racketeering investigation, and no such case or proceeding arising therefrom has been instituted within a reasonable time after completion of the examination and analysis of all evidence assembled in the course of such investigation, such person shall be entitled, upon written demand made upon the Attorney General, to the return of all documentary material other than copies thereof made pursuant to this subsection so produced by such person.
+(6) When any documentary material has been produced by any person under this section for use in any racketeering investigation, and no such case or proceeding arising therefrom has been instituted within a reasonable time after completion of the examination and analysis of all evidence assembled in the course of such investigation, such person shall be entitled, upon written demand made upon the Attorney General, to the return of all documentary material other than copies thereof made pursuant to this subsection so produced by such person.
 
 (7) In the event of the death, disability, or separation from service of the custodian of any documentary material produced under any demand issued under this section or the official relief of such custodian from responsibility for the custody and control of such material, the Attorney General shall promptly—
 

@@ -48,9 +48,11 @@ No grant may be made under subsection (a) of this section unless—
 
 &emsp;(3) the application provides assurances that the human rights of all individuals with developmental disabilities (especially those individuals without familial protection) who are receiving services under projects assisted under this subchapter will be protected consistent with section 6009 of this title (relating to the rights of individuals with developmental disabilities);
 
-&emsp;(4) the applicant demonstrates, where appropriate, how the project will address, in whole or part, the needs of individuals with developmental disabilities from racial and ethnic minority backgrounds; and
+&emsp;(4) the applicant demonstrates, where appropriate, how the project will address, in whole or part, the needs of individuals with developmental disabilities from racial and ethnic minority backgrounds;
 
-&emsp;(5) the Secretary provides to the State Developmental Disabilities Council in such State an opportunity to review the application for such project and to submit its comments on the application.
+&emsp;(5) the Secretary provides to the State Developmental Disabilities Council in such State an opportunity to review the application for such project and to submit its comments on the application; and
+
+&emsp;(6) the applicant provides assurances that the grant will not be used in a manner inconsistent with section 14403 of this title.
 
 #### (d) Priorities for grants
 
@@ -64,9 +66,11 @@ Payments under grants under subsection (a) of this section may be made in advanc
 
 Not later than September 1 of each fiscal year, the Secretary shall publish in the Federal Register a list of the recipients of grants and contracts in each of the areas authorized in subsections (a) and (b) of this section, including a brief description of the project, and the amount of funds granted to each such project. The amounts for such grants and contracts shall total the amount appropriated under this subchapter for such fiscal year.
 
-(Pub. L. 88–164, title I, §162, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2683; amended Pub. L. 100–146, title V, §502, Oct. 29, 1987, 101 Stat. 857; Pub. L. 101–496, §21, Oct. 31, 1990, 104 Stat. 1204; Pub. L. 103–230, title V, §503, Apr. 6, 1994, 108 Stat. 328.)
+(Pub. L. 88–164, title I, §162, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2683; amended Pub. L. 100–146, title V, §502, Oct. 29, 1987, 101 Stat. 857; Pub. L. 101–496, §21, Oct. 31, 1990, 104 Stat. 1204; Pub. L. 103–230, title V, §503, Apr. 6, 1994, 108 Stat. 328; Pub. L. 105–12, §9(<i>l</i>)(4), Apr. 30, 1997, 111 Stat. 28.)
 
 #### Amendments
+
+1997—Subsec. (c)(6). Pub. L. 105–12 added par. (6).
 
 1994—Pub. L. 103–230, §503(a), substituted section catchline for former section catchline.
 
@@ -113,6 +117,10 @@ Subsec. (a)(2). Pub. L. 100–146, §502(a)(3), inserted “the advocacy functio
 Subsec. (b). Pub. L. 100–146, §502(b), substituted “in such State an opportunity” for “for each State in which an applicant's project will be conducted an opportunity”.
 
 Subsecs. (c), (d). Pub. L. 100–146, §502(c), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -114,7 +114,7 @@ Not later than 60 days after the conclusion of the erosion control program, the 
 
 &emsp;There is authorized to be appropriated $21,000,000 to carry out this section.
 
-(Aug. 13, 1946, ch. 960, §5, as added Oct. 12, 1996, Pub. L. 104–303, title II, §227(e)(1), 110 Stat. 3700.)
+(Aug. 13, 1946, ch. 960, §5, as added Pub. L. 104–303, title II, §227(e)(1), Oct. 12, 1996, 110 Stat. 3700.)
 
 #### References in Text
 

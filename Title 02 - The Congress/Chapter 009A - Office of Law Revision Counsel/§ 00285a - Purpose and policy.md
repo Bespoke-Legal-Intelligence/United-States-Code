@@ -1,6 +1,6 @@
 ### §285a. Purpose and policy
 
-The principal purpose of the Office shall be to develop and keep current an official and positivecodification of the laws of the United States. The Office shall maintain impartiality as to issues of legislative policy to be determined by the House.
+The principal purpose of the Office shall be to develop and keep current an official and positive codification of the laws of the United States. The Office shall maintain impartiality as to issues of legislative policy to be determined by the House.
 
 (Pub. L. 93–554, title I, ch. III, §101, Dec. 27, 1974, 88 Stat. 1777.)
 

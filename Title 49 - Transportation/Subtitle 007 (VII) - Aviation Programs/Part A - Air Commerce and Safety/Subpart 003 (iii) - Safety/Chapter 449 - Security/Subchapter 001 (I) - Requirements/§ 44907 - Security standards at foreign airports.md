@@ -76,7 +76,7 @@ Suspensions.—Notwithstanding sections 40105(b) and 40106(b) of this title, the
 
 (f)
 
-Condition of Carrier Authority.—This section is a condition to authority the Secretaryof Transportation grants under this part to an air carrier or foreign air carrier.
+Condition of Carrier Authority.—This section is a condition to authority the Secretary of Transportation grants under this part to an air carrier or foreign air carrier.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1209.)
 

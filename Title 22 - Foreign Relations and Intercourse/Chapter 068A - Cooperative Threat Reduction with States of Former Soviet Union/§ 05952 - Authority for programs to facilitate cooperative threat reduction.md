@@ -96,7 +96,7 @@ Pub. L. 103–337, div. A, title XII, §1205(a)–(c), Oct. 5, 1994, 108 Stat. 2
 
 “(a)
 
-Funding Report to Congress.—The Secretary of Defense shall submit to Congress a report as described in subsection (b) on funding for Cooperative Threat Reduction programs with states of the former Soviet Union. The report shall be submitted at the time of the transmission to Congress of the budget justification materials for the funding request in the fiscal year 1996 budget for such Cooperative Threat Reduction programs.
+Funding Report to Congress.—The Secretary of Defense shall submit to Congress a report as described in subsection (b) on funding for Cooperative Threat Reduction programs with states of the former Soviet Union. The report shall be submitted at the time of the transmission to Congress of the budget justification materials for the funding request in the fiscal year 1996budget for such Cooperative Threat Reduction programs.
 
 “(b)
 

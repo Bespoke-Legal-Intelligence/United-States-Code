@@ -1,0 +1,50 @@
+### §2358. Foreign and domestic excess property
+
+#### (a) Advance acquisition of property; special account for payment of costs; limitation; use of property
+
+It is the sense of the Congress that in furnishing assistance under subchapter I of this chapter excess personal property, or (if a substantial savings would occur) other property already owned by an agency of the United States Government, shall be utilized wherever practicable in lieu of or supplementary to the procurement of new items for United States-assisted projects and programs. The President is authorized to maintain in a separate account, which shall, notwithstanding section 1535(d) of title 31, be free from fiscal year limitation, $5,000,000 of funds made available under part I of subchapter I of this chapter, which may be used to pay costs (including personnel costs) of acquisition, storage, renovation and rehabilitation, packing, crating, handling, transportation, and related costs of property classified as domestic or foreign excess property pursuant to the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.), any property available from an agency of the United States Government, or other property, in advance of known requirements therefor for use infurtherance of the purposes of subchapter I of this chapter: <i>Provided</i>, That the amount of property classified as domestic excess property pursuant to the Federal Property and Administrative Services Act of 1949, as amended, held at any one time pursuant to this section shall not exceed $15,000,000 in total original acquisition cost. Property acquired pursuant to the preceding sentence may be furnished (1) pursuant to any provision of subchapter I of this chapter for which funds are authorized for the furnishing of assistance, in which case the separate account established pursuant to this section shall be repaid from funds made available for such provision for all costs incurred, or (2) pursuant to section 2357 of this title, in which case such separate account shall be repaid in accordance with the provisions of that section for all costs incurred.
+
+#### (b) Transfer of domestic excess property
+
+Property classified as domestic excess property under the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\], shall not be transferred to the agency primarily responsible for administering subchapter I of this chapter for use pursuant to the provisions of subchapter I of this chapter or section 2357 of this title unless (1) such property is transferred for use exclusively by an agency of the United States Government, or (2) it has been determined in the same manner as provided for surplus property in section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 484(j)\], that such property is not needed for donation pursuant to that subsection. The foregoing restrictions shall not apply to the transfer in any fiscal year for use pursuant to the provisions of subchapter I of this chapter of amounts of such property with a total original acquisition cost to the United States Government not exceeding $45,000,000.
+
+(Pub. L. 87–195, pt. III, §608, Sept. 4, 1961, 75 Stat. 441; Pub. L. 89–583, pt. III, §301(c), Sept. 19, 1966, 80 Stat. 804; Pub. L. 90–137, pt. III, §301(b), Nov. 14, 1967, 81 Stat. 458; Pub. L. 95–424, title I, §102(g)(2)(C), Oct. 6, 1978, 92 Stat. 942; Pub. L. 97–113, title VII, §701, Dec. 29, 1981, 95 Stat. 1543.)
+
+#### References in Text
+
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The excess property provisions of that Act are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+
+References to part I of subchapter I of this chapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
+
+#### Codification
+
+In subsec. (a), “section 1535(d) of title 31” substituted for “section 1210 of the General Appropriation Act, 1951 (64 Stat. 765) \[31 U.S.C. 686–1\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Amendments
+
+1981—Subsec. (a). Pub. L. 97–113 authorized for subchapter I assistance use of property already owned by an agency of the United States (if a substantial savings would occur) as supplementary to procurement of new items for United States-assisted projects and programs and use of separate account funds for payment of costs of any property available from an agency of the United States.
+
+1978—Subsec. (a). Pub. L. 95–424 substituted “part 1 of subchapter 1 of this chapter” for “section 2172 of this title”.
+
+1967—Subsec. (a). Pub. L. 90–137 required, in furnishing assistance under subchapter I of this chapter, utilization of excess personal property wherever practicable in lieu of new items for United States-assisted projects and programs.
+
+1966—Subsec. (a). Pub. L. 89–583 permitted personnel costs attributable to the excess property program to be charged to the separate account for the advance acquisition of property.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### Delegation of Functions; Allocation of Funds
+
+Functions of President under this section delegated and funds available under this chapter allocated to Director of United States International Development Cooperation Agency, with certain exceptions, by sections 1–102(a)(1), (e) and 1–801(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2291a, 2357 of this title; title 40 section 483.
+

@@ -32,7 +32,7 @@ Section 60001 of title VI of Pub. L. 103–322 provided that: “This title \[en
 
 #### Applicability to Uniform Code of Military Justice
 
-Section 60004 of title VI of Pub. L. 103–322 provided that: “Chapter 228 of title 18, United States Code, asadded by this title, shall not apply to prosecutions under the Uniform Code of Military Justice (10 U.S.C. 801).”
+Section 60004 of title VI of Pub. L. 103–322 provided that: “Chapter 228 of title 18, United States Code, as added by this title, shall not apply to prosecutions under the Uniform Code of Military Justice (10 U.S.C. 801).”
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@
 
 &emsp;It is unlawful for a person or other entity—
 
-&emsp;&emsp;(A) to hire, or to recruit or refer for a fee, for employment in the United States an alien knowing the alien is an unauthorized alien (as defined in subsection (h)(3) of thissection) with respect to such employment, or
+&emsp;&emsp;(A) to hire, or to recruit or refer for a fee, for employment in the United States an alien knowing the alien is an unauthorized alien (as defined in subsection (h)(3) of this section) with respect to such employment, or
 
 &emsp;&emsp;(B)(i) to hire for employment in the United States an individual without complying with the requirements of subsection (b) of this section or (ii) if the person or entity is an agricultural association, agricultural employer, or farm labor contractor (as defined in section 1802 of title 29), to hire, or to recruit or refer for a fee, for employment in the United States an individual without complying with the requirements of subsection (b) of this section.
 
@@ -68,7 +68,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) of t
 
 #### (A) In general
 
-&emsp;&emsp;The person or entity must attest, under penalty of perjury and on a form designatedor established by the Attorney General by regulation, that it has verified that the individual is not an unauthorized alien by examining—
+&emsp;&emsp;The person or entity must attest, under penalty of perjury and on a form designated or established by the Attorney General by regulation, that it has verified that the individual is not an unauthorized alien by examining—
 
 &emsp;&emsp;&emsp;(i) a document described in subparagraph (B), or
 
@@ -174,7 +174,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (2) Restrictions on changes in system
 
-&emsp;Any change the President proposes to implement under paragraph (1) in the verification system must be designed in a manner so the verification system, as so changed, meets the following requirements:
+&emsp;Any change the President proposes to implement under paragraph (1) in the verificationsystem must be designed in a manner so the verification system, as so changed, meets the following requirements:
 
 #### (A) Reliable determination of identity
 
@@ -220,7 +220,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(iii) two years, in the case of a major change described in clause (i) or (ii) of subparagraph (D),
 
-> &emsp;&emsp;before the date of implementation of the change, the President has prepared andtransmitted to the Committee on the Judiciary of the House of Representatives and to the Committee on the Judiciary of the Senate a written report setting forth the proposed change. If the President proposes to make any change regarding social security account number cards, the President shall transmit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a written report setting forth the proposed change. The President promptly shall cause to have printed in the Federal Register the substance of any major change (described in subparagraph (D)) proposed and reported to Congress.
+> &emsp;&emsp;before the date of implementation of the change, the President has prepared and transmitted to the Committee on the Judiciary of the House of Representatives and to the Committee on the Judiciary of the Senate a written report setting forth the proposed change. If the President proposes to make any change regarding social security account number cards, the President shall transmit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a written report setting forth the proposed change. The President promptly shall cause to have printed in the Federal Register the substance of any major change (described in subparagraph (D)) proposed and reported to Congress.
 
 #### (B) Contents of report
 
@@ -290,7 +290,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (A) In general
 
-&emsp;&emsp;Before imposing an order described in paragraph (4), (5), or (6) against a person orentity under this subsection for a violation of subsection (a) or (g)(1) of this section, the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
+&emsp;&emsp;Before imposing an order described in paragraph (4), (5), or (6) against a person or entity under this subsection for a violation of subsection (a) or (g)(1) of this section, the Attorney General shall provide the person or entity with notice and, upon request made within a reasonable time (of not less than 30 days, as established by the Attorney General) of the date of the notice, a hearing respecting the violation.
 
 #### (B) Conduct of hearing
 
@@ -318,7 +318,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(ii) to take such other remedial action as is appropriate.
 
-> &emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
+> &emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not underthe control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
 
 #### (5) Order for civil money penalty for paperwork violations
 
@@ -344,7 +344,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (1) Criminal penalty
 
-&emsp;Any person or entity which engages in a pattern or practice of violations of subsection (a)(1)(A) or (a)(2) of this section shall be finednot more than $3,000 for each unauthorized alien with respect to whom such a violation occurs, imprisoned for not more than six months for the entire pattern or practice, or both, notwithstanding the provisions of any other Federal law relating to fine levels.
+&emsp;Any person or entity which engages in a pattern or practice of violations of subsection (a)(1)(A) or (a)(2) of this section shall be fined not more than $3,000 for each unauthorized alien with respect to whom such a violation occurs, imprisoned for not more than six months for the entire pattern or practice, or both, notwithstanding the provisions of any other Federal law relating to fine levels.
 
 #### (2) Enjoining of pattern or practice violations
 
@@ -408,7 +408,7 @@ Subsec. (e)(7). Pub. L. 104–208, §379(a)(2), substituted “the final agency 
 
 Pub. L. 104–208, §379(a)(1), substituted “unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations” for “unless, within 30 days, the Attorney General modifies or vacates the decision and order”.
 
-Subsecs. (i) to (n). Pub. L. 104–208, §412(c), struck out subsec. (i) which provided effective dates for implementation of this section, subsec. (j) which required General Accounting Office reports on implementation of this section, subsec. (k) which established a taskforce to review reports, subsec. (<i>l</i>) which provided a termination date for employer sanctions under this section upon finding of widespread discrimination in implementing this section, and subsecs. (m) and (n) whichprovided for expedited procedures in House of Representatives and Senate for considering resolutions to approve findings in the reports.
+Subsecs. (i) to (n). Pub. L. 104–208, §412(c), struck out subsec. (i) which provided effective dates for implementation of this section, subsec. (j) which required General Accounting Office reports on implementation of this section, subsec. (k) which established a taskforce to review reports, subsec. (<i>l</i>) which provided a termination date for employer sanctions under this section upon finding of widespread discrimination in implementing this section, and subsecs. (m) and (n) which provided for expedited procedures in House of Representatives and Senate for considering resolutions to approve findings in the reports.
 
 1994—Subsec. (b)(3). Pub. L. 103–416, §219(z)(4), made technical correction to Pub. L. 102–232, §306(b)(2). See 1991 Amendment note below.
 
@@ -448,15 +448,17 @@ Section 379(b) of div. C of Pub. L. 104–208 provided that: “The amendments m
 
 Section 411(b) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
-Section 412(e) of div. C of Pub. L. 104–208 provided that:
+Section 412(e) of div. C of Pub. L. 104–208, as amended by Pub. L. 105–54, §3(a), Oct. 6, 1997, 111 Stat. 1175, provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to hiring (or recruitment or referral) occurring on or after such date (not later than 12 months after the date of the enactment of this Act \[Sept. 30, 1996\]) as the Attorney General shall designate.
+“(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to hiring (or recruitment or referral) occurring on or after such date (not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\]) as the Attorney General shall designate.
 
 “(2) The amendment made by subsection (b) \[amending this section\] shall apply to individuals hired on or after 60 days after the date of the enactment of this Act.
 
 “(3) The amendment made by subsection (c) \[amending this section\] shall take effect on the date of the enactment of this Act.
 
 “(4) The amendment made by subsection (d) \[amending this section\] applies to hiring occurring before, on, or after the date of the enactment of this Act, but no penalty shall be imposed under subsection (e) or (f) of section 274A of the Immigration and Nationality Act \[subsecs. (e) and (f) of this section\] for such hiring occurring before such date.”
+
+\[Section 3(b) of Pub. L. 105–54 provided that: “The amendment made by subsection (a) \[amending section 412(e) of div. C of Pub. L. 104–208, set out above\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\].”\]
 
 #### Effective Date of 1994 Amendment
 
@@ -490,7 +492,7 @@ Section 205(c)(2)(F) of the Social Security Act (section 405(c)(2)(F) of title 4
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 274A(d)(3)(A) of the Immigration and Nationality Act (the “Act”) (section 1324a(d)(3)(A) of title 8 of the United States Code) and section 301 of title 3 of the United States Code, and in order to provide for the delegation of certain functions under the Act \[8 U.S.C. 1101 et seq.\], I hereby:
 
-(1) Authorize you to prepare and transmit, to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives and to the Committee on the Judiciary and the Committee on Finance of the Senate, a written report regarding the substance of any proposed change in Social Securitynumber cards, to the extent required by section 274A(d)(3)(A) of the Act, and
+(1) Authorize you to prepare and transmit, to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives and to the Committee on the Judiciary and the Committee on Finance of the Senate, a written report regarding the substance of any proposed change in Social Security number cards, to the extent required by section 274A(d)(3)(A) of the Act, and
 
 (2) Authorize you to cause to have printed in the Federal Register the substance of any change in the Social Security number card so proposed and reported to the designated congressional committees, to the extent required by section 274A(d)(3)(A) of the Act.
 
@@ -614,7 +616,7 @@ In general.—Except as provided in subparagraph (B), the Attorney General shall
 
 &emsp;&emsp;“(B)
 
-Rejection of elections.—The Attorney General may reject an election by a person or other entity under this section or limit its applicability tocertain States or places of hiring (or recruitment or referral) if the Attorney General has determined that there are insufficient resources to provide appropriate services under a pilot program for the person's or entity's hiring (or recruitment or referral) in any or all States or places of hiring.
+Rejection of elections.—The Attorney General may reject an election by a person or other entity under this section or limit its applicability to certain States or places of hiring (or recruitment or referral) if the Attorney General has determined that there are insufficient resources to provide appropriate services under a pilot program for the person's or entity's hiring (or recruitment or referral) in any or all States or places of hiring.
 
 &emsp;“(4)
 
@@ -674,7 +676,7 @@ Role of attorney general.—The Attorney General shall assist and coordinate ele
 
 &emsp;&emsp;“(B)
 
-Legislative branch.—Each Member of Congress, each officer of Congress, and the head of each agency of the legislative branch, that conducts hiring in a State in which a pilot program is operating shall elect to participate in a pilot program, may specify which pilot program or programs (if there is more than one) in which the Member, officer, or agency will participate, and shall comply with the terms and conditions of such an election.
+Legislative branch.—Each Member of Congress, each officer of Congress, and the head of each agency of the legislative branch, that conducts hiring in a State in which a pilot program is operating shall elect to participate in a pilot program, mayspecify which pilot program or programs (if there is more than one) in which the Member, officer, or agency will participate, and shall comply with the terms and conditions of such an election.
 
 &emsp;“(2)
 
@@ -732,7 +734,7 @@ Limitation of requirement to examine documentation.—If the Attorney General fi
 
 &emsp;&emsp;&emsp;“(ii) the individual is claiming the identity of another person,
 
-&nbsp;&nbsp;if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B) or (D) of suchsection, the Attorney General may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual's identity.
+&nbsp;&nbsp;if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B) or (D) of such section, the Attorney General may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual's identity.
 
 &emsp;“(3)
 
@@ -772,7 +774,7 @@ Contest.—If the individual does contest the nonconfirmation, the individual sh
 
 &emsp;&emsp;&emsp;“(iv)
 
-Recording of conclusion on form.—If a final confirmation or nonconfirmation is provided by the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual.
+Recording of conclusion on form.—If a final confirmation or nonconfirmation is providedby the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual.
 
 &emsp;&emsp;“(C)
 
@@ -820,7 +822,7 @@ No confirmation required for certain individuals attesting to u.s. citizenship.�
 
 &emsp;&emsp;“(A) the person or entity may fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B)(i) or (D) of such section; and
 
-&emsp;&emsp;“(B) the person or other entity is not required to comply with respect to such individual with theprocedures described in paragraphs (3) and (4) of subsection (a), but only if the person or entity retains the form and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3).
+&emsp;&emsp;“(B) the person or other entity is not required to comply with respect to such individual with the procedures described in paragraphs (3) and (4) of subsection (a), but only if the person or entity retains the form and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3).
 
 &emsp;“(4)
 
@@ -864,7 +866,7 @@ Protection From Liability for Actions Taken on the Basis of Information Provided
 
 In General.—The Attorney General shall establish a pilot program confirmation system through which the Attorney General (or a designee of the Attorney General, which may be a nongovernmental entity)—
 
-&emsp;“(1) responds to inquiries made by electing persons and other entities (including those made by the transmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual's identity and whether the individual is authorized to be employed, and
+&emsp;“(1) responds to inquiries made by electing persons and other entities (including those made by thetransmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual's identity and whether the individual is authorized to be employed, and
 
 &emsp;“(2) maintains records of the inquiries that were made, of confirmations provided (or not provided), and of the codes provided to inquirers as evidence of their compliance with their obligations under the pilot programs.
 
@@ -902,7 +904,7 @@ Responsibilities of the Commissioner of Social Security.—As part of the confir
 
 “(f)
 
-Responsibilities of the Commissioner of the Immigration and Naturalization Service.—As part of the confirmation system, the Commissioner of the Immigration and Naturalization Service, in consultation with the entity responsible for administration of thesystem, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and alien identification or authorization number described in section 403(a)(1)(B) of this division which are provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided, the correspondence of the name and number, and whether the alien is authorized to be employed in the United States.
+Responsibilities of the Commissioner of the Immigration and Naturalization Service.—As part of the confirmation system, the Commissioner of the Immigration and Naturalization Service, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and alien identification or authorization number described in section 403(a)(1)(B) of this division which are provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided, the correspondence of the name and number, and whether the alien is authorized to be employed in the United States.
 
 “(g)
 
@@ -1014,7 +1016,7 @@ Section 402 of Pub. L. 99–603 provided that: “The President shall transmit t
 
 Ex. Ord. No. 12989, Feb. 13, 1996, 61 F.R. 6091, provided:
 
-This order is designed to promote economy and efficiency in Government procurement. Stability and dependability are important elements of economy and efficiency. A contractor whose work force is less stable will be less likely to produce goods and services economically and efficiently than a contractor whose work force is more stable. It remains the policy of this Administration to enforce the immigration laws to the fullest extent, including the detection and deportation of illegal aliens. In these circumstances, contractors cannot rely on the continuing availability and service of illegal aliens, and contractors that choose to employ unauthorized aliens inevitably will have a less stable and less dependable work force than contractors that do not employ such persons. Because of this Administration's vigorous enforcement policy, contractors that employ unauthorized alien workers are necessarily less stable and dependable procurement sources than contractors that do not hire such persons. I find, therefore, that adherence to the general policy of not contracting with providers that knowingly employ unauthorized alien workers will promote economy and efficiency in Federal procurement.
+This order is designed to promote economy and efficiency in Government procurement. Stability and dependability are important elements of economy and efficiency. A contractor whose work force is less stable will be less likely to produce goods and services economically and efficiently than a contractor whose work force is more stable. It remains the policy of this Administration to enforce the immigration laws to thefullest extent, including the detection and deportation of illegal aliens. In these circumstances, contractors cannot rely on the continuing availability and service of illegal aliens, and contractors that choose to employ unauthorized aliens inevitably will have a less stable and less dependable work force than contractors that do not employ such persons. Because of this Administration's vigorous enforcement policy, contractors that employ unauthorized alien workers are necessarily less stable and dependable procurement sources than contractors that do not hire such persons. I find, therefore, that adherence to the general policy of not contracting with providers that knowingly employ unauthorized alien workers will promote economy and efficiency in Federal procurement.
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 486(a) and 3 U.S.C. 301, it is hereby ordered as follows:
 
@@ -1056,7 +1058,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1182, 1186, 1188, 1227, 1255, 1324, 1324b, 1324c of this title; title 18 section 1546; title 20 section 1091; title 29 sections 1813, 1851; title 46 section 8704.
+This section is referred to in sections 1182, 1186, 1188, 1227, 1255, 1324, 1324b, 1324c, 1643 of this title; title 18 sections 982, 1546; title 20 section 1091; title 29 sections 1813, 1851; title 42 section 1436a; title 46 section 8704.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 

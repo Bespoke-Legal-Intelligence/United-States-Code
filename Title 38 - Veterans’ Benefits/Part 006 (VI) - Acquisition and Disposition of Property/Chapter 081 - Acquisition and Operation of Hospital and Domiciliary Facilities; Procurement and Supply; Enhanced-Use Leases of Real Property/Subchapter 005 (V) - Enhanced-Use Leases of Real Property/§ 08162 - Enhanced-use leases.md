@@ -4,7 +4,7 @@
 
 (2) The Secretary may enter into an enhanced-use lease only if the Secretary determines that—
 
-&emsp;(A) at least part of the use of the property under the lease will be to provide appropriate space for an activity contributing to the mission of the Department;
+&emsp;(A) at least part of the use of the property under the lease will be to provide appropriatespace for an activity contributing to the mission of the Department;
 
 &emsp;(B) the lease will not be inconsistent with and will not adversely affect the mission of the Department; and
 

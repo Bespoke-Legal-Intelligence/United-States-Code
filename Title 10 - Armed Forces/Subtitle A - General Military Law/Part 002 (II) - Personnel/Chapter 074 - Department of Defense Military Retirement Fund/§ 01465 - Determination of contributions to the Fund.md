@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) the current estimate of the value of the single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) to be determined under subsection (c)(1)(B) at the time of the next actuarial valuation under subsection (c); and
 
-&emsp;&emsp;(ii) the total amount of basic pay and of compensation (paid pursuant to section 206 of title 37) expected to be paid during thatfiscal year to members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described in subparagraph (A)(ii).
+&emsp;&emsp;(ii) the total amount of basic pay and of compensation (paid pursuant to section 206 of title 37) expected to be paid during that fiscal year to members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described in subparagraph (A)(ii).
 
 (2) The amount determined under paragraph (1) for any fiscal year is the amount needed to be appropriated to the Department of Defense for that fiscal year for payments to be made to the Fund during that year under section 1466(a) of this title. The President shall include not less than the full amount so determined in the budget transmitted to Congress for that fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.
 
@@ -22,7 +22,7 @@
 
 &emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay for members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only); and
 
-&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A).
+&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a singlelevel percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A).
 
 > Such single level percentages shall be used for the purposes of subsection (b) and section 1466(a) of this title.
 
@@ -58,7 +58,7 @@ Subsec. (c)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, §661(a
 
 #### Effective Date of 1986 Amendments
 
-Section 642(c) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) \[title IX, §9131\] of Pub. L. 99–500 and Pub. L. 99–591, and section 661(d) of Pub. L. 99–661, provided respectively that: “The amendments made by this section \[amending this section and section 1466 of this title\] shall take effect on October 1, 1986, or the date of the enactment of this Act \[Oct. 18, 1986\], whichever is later, and shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by this section, for months beginning on or after that effective date.” and “The amendments made by subsections (a) and (b) \[amending this section and section 1466 of this title\] shall apply to payments required to be made under section 1466(a) of title 10, United StatesCode, as amended by subsection (b), for months beginning on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+Section 642(c) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) \[title IX, §9131\] of Pub. L. 99–500 and Pub. L. 99–591, and section 661(d) of Pub. L. 99–661, provided respectively that: “The amendments made by this section \[amending this section and section 1466 of this title\] shall take effect on October 1, 1986, or the date of the enactment of this Act \[Oct. 18, 1986\], whichever is later, and shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by this section, for months beginning on or after that effective date.” and “The amendments made by subsections (a) and (b) \[amending this section and section 1466 of this title\] shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by subsection (b), for months beginning on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 #### Section Referred to in Other Sections
 

@@ -68,6 +68,8 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;To “display” a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially.
 
+&emsp;The term “financial gain” includes receipt, or expectation of receipt, of anything of value, including the receipt of other copyrighted works.
+
 &emsp;A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
 
 &emsp;The terms “including” and “such as” are illustrative and not limitative.
@@ -94,7 +96,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(1) to perform or display it at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered; or
 
-&emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
+&emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it inthe same place or in separate places and at the same time or at different times.
 
 &emsp;“Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including the sounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.
 
@@ -140,7 +142,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678.)
 
 #### Historical and Revision Notes
 
@@ -149,6 +151,10 @@ I74house report no. 94–1476
 The significant definitions in this section will be mentioned or summarized in connection with the provisions to which they are most relevant.
 
 #### Amendments
+
+1997—Pub. L. 105–147 inserted definition of “financial gain”.
+
+Pub. L. 105–80, in definition of to perform or to display a work “publicly”, substituted “process” for “processs” in par. (2).
 
 1995—Pub. L. 104–39 inserted definition of “digital transmission”.
 
@@ -234,13 +240,13 @@ Section 801 of title VIII of Pub. L. 101–650 provided that: “This title \[am
 
 Pub. L. 101–553, §1, Nov. 15, 1990, 104 Stat. 2749, provided that: “This Act \[enacting section 511 of this title, amending sections 501, 910, and 911 of this title, and enacting provisions set out as a note under section 501 of this title\] may be cited as the ‘Copyright Remedy Clarification Act’.”
 
-Pub. L. 101–319, §1, July 3, 1990, 104 Stat. 290, provided that: “This Act \[amending sections 701 and 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 701 of this title\] may be cited as the ‘Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989’.”
+Pub. L. 101–319, §1, July 3, 1990, 104 Stat. 290, provided that: “This Act \[amending sections 701 and 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 701 of this title\] may becited as the ‘Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989’.”
 
 Pub. L. 101–318, §1, July 3, 1990, 104 Stat. 287, provided that: “This Act \[amending sections 106, 111, 704, 708, 801, and 804 of this title and enacting provisions set out as notes under sections 106, 111, 708, and 804 of this title\] may be cited as the ‘Copyright Fees and Technical Amendments Act of 1989’.”
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–667, title II, §201, Nov. 16, 1988, 102 Stat. 3949, provided that: “This title \[enacting section 119 of this title and sections 612 and 613 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notesunder section 119 of this title\] may be cited as the ‘Satellite Home Viewer Act of 1988’.” \[Section ceases to be effective Dec. 31, 1994, see section 207 of Pub. L. 100–667, set out as an Effective and Termination Dates note under section 119 of this title.\]
+Pub. L. 100–667, title II, §201, Nov. 16, 1988, 102 Stat. 3949, provided that: “This title \[enacting section 119 of this title and sections 612 and 613 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under section 119 of this title\] may be cited as the ‘Satellite Home Viewer Act of 1988’.” \[Section ceases to be effective Dec. 31, 1994, see section 207 of Pub. L. 100–667, set out as an Effective and Termination Dates note under section 119 of this title.\]
 
 Section 1(a) of Pub. L. 100–568 provided that: “This Act \[enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Berne Convention Implementation Act of 1988’.”
 

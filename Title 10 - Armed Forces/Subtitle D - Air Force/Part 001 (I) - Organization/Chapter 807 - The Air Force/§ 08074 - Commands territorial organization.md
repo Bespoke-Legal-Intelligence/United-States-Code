@@ -36,7 +36,7 @@ Sept. 19, 1951, ch. 407, §§308, 309, 65 Stat. 332.
 
 In subsection (b), the words “from time to time” are omitted as surplusage.
 
-In subsection (d), the words “have the duties and powers” are substituted for the words “shall performsuch duties and exercise such powers”. The words “of America”, “elements of”, “other provisions of”, and “so assigned” are omitted as surplusage.
+In subsection (d), the words “have the duties and powers” are substituted for the words “shall perform such duties and exercise such powers”. The words “of America”, “elements of”, “other provisions of”, and “so assigned” are omitted as surplusage.
 
 #### Amendments
 

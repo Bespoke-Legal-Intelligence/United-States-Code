@@ -92,7 +92,7 @@ In subsection (f), the words “Soldiers’ Home” are inserted, since, as prov
 
 1990—Subsec. (a)(2). Pub. L. 101–510, §1533(a)(9)(A), substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen's Home”.
 
-Subsec. (f). Pub. L. 101–510, §1533(a)(9)(B), struck out “for transmission to the United States Soldiers’ and Airmen's Home” after “Department of the Air Force”and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
+Subsec. (f). Pub. L. 101–510, §1533(a)(9)(B), struck out “for transmission to the United States Soldiers’ and Airmen's Home” after “Department of the Air Force” and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
 
 1985—Subsec. (d). Pub. L. 99–145 substituted pars. (1) to (6) for former pars. (1) to (9) which read as follows:
 

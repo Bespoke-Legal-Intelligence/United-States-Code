@@ -20,7 +20,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;(2) identification of sources of environmental degradation affecting the Nation's coastal ecosystems;
 
-&emsp;(3) assessment of the impact of governmental programs and management strategies and measures designed to abate or prevent the environmental degradation of the Nation's coastal ecosystems;
+&emsp;(3) assessment of the impact of governmental programs and management strategies and measures designed to abate or prevent theenvironmental degradation of the Nation's coastal ecosystems;
 
 &emsp;(4) assessment of the accumulation of floatables along coastal shorelines;
 
@@ -92,7 +92,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;(C) The National Research Council shall, within 18 months of October 29, 1992, submit a report to the Administrator and the Under Secretary listing areas suitable for intensive monitoring.
 
-&emsp;(D) The Administrator and the Under Secretary, in conjunction with other Federal, State, and local authorities, shall develop and implement multi-year programs of intensive monitoring for Massachusetts and Cape Cod Bays, the Gulf of Maine, the Chesapeake Bay, the Hudson-Raritan Estuary, and each area jointly designated by the Administrator and the Under Secretary pursuant to paragraph (2).
+&emsp;(D) The Administrator and the Under Secretary, in conjunction with other Federal, State, and local authorities, shall develop and implement multi-year programs of intensive monitoring for Massachusetts and Cape Cod Bays, the Gulf of Maine, the Chesapeake Bay, the Hudson-Raritan Estuary, and each area jointly designated by the Administrator andthe Under Secretary pursuant to paragraph (2).
 
 #### (4) Intensive coastal water quality monitoring programs
 
@@ -132,7 +132,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 #### (6) Memorandum of Understanding
 
-&emsp;Prior to implementing any intensive coastal water quality monitoring program under thissubsection, the Administrator and the Under Secretary shall enter into a Memorandum of Understanding to implement the intensive coastal water quality monitoring programs and may extend the memorandum <sup>3</sup> of Understanding to include other appropriate Federal agencies. The Memorandum of Understanding shall identify the monitoring and reporting responsibilities of each agency and shall encourage the coordination of monitoring activities.
+&emsp;Prior to implementing any intensive coastal water quality monitoring program under this subsection, the Administrator and the Under Secretary shall enter into a Memorandum of Understanding to implement the intensive coastal water quality monitoring programs and may extend the memorandum <sup>3</sup> of Understanding to include other appropriate Federal agencies. The Memorandum of Understanding shall identify the monitoring and reporting responsibilities of each agency and shall encourage the coordination of monitoring activities.
 
 #### (7) Implementation
 

@@ -18,7 +18,7 @@ State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionme
 
 (e)
 
-Bridges.—In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on ahighway, other than a highway access to which is fully controlled, on which bicycles are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of bicycles can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
+Bridges.—In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on a highway, other than a highway access to which is fully controlled, on which bicycles are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of bicycles can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
 
 (f)
 
@@ -26,7 +26,7 @@ Federal Share.—For all purposes of this title, construction of a pedestrian wa
 
 (g)
 
-Planning.—Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.
+Planning.—Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Suchplans shall provide due consideration for safety and contiguous routes.
 
 (h)
 
@@ -88,7 +88,7 @@ Pub. L. 95–619, title VI, §682, Nov. 9, 1978, 92 Stat. 3287, set forth findin
 
 #### Bikeway Construction Projects
 
-Section 141(a)–(e), (i) of Pub. L. 95–599, related to establishment by Secretary of design and construction standards for bikeway construction projects and to grants to States for bikeway construction projects,prior to repeal by Pub. L. 100–17, title I, §133(e)(2), Apr. 2, 1987, 101 Stat. 173.
+Section 141(a)–(e), (i) of Pub. L. 95–599, related to establishment by Secretary of design and construction standards for bikeway construction projects and to grants to States for bikeway construction projects, prior to repeal by Pub. L. 100–17, title I, §133(e)(2), Apr. 2, 1987, 101 Stat. 173.
 
 #### Bikeway Demonstration Program
 

@@ -14,7 +14,7 @@
 
 &emsp;(2) The Board shall require that applications inconsistent with an application, notice of which was published under subsection (a) of this section, and applications for inclusion in the transaction, be filed with it by the 90th day after publication of notice under that subsection.
 
-&emsp;(3) The Board must conclude evidentiary proceedings by the end of 1 year after the date of publication of notice under subsection (a) of this section. The Board must issue a final decision by the 90th day after the date on which it concludes the evidentiary proceedings.
+&emsp;(3) The Board must conclude evidentiary proceedings by the end of 1 year after the dateof publication of notice under subsection (a) of this section. The Board must issue a final decision by the 90th day after the date on which it concludes the evidentiary proceedings.
 
 (c) If the application involves a transaction other than the merger or control of at least two Class I railroads, as defined by the Board, which the Board has determined to be of regional or national transportation significance, the following conditions apply:
 

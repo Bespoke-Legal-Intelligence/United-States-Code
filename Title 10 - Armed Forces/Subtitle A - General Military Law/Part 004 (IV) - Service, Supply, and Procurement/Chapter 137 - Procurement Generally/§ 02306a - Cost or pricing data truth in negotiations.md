@@ -22,7 +22,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 &emsp;&emsp;(i) in the case of a subcontract under a prime contract referred to in subparagraph (A)(i), the price of the subcontract is expected to exceed $500,000;
 
-&emsp;&emsp;(ii) in the case of a subcontract entered into after December 5, 1991, under a prime contract that was entered into on or before December 5, 1990, and that has been modified pursuant to paragraph (6), the price of the subcontract is expected to exceed $500,000; and
+&emsp;&emsp;(ii) in the case of a subcontract entered into after December 5, 1991, under a prime contract that was entered into on or before December 5, 1990, and that has been modified pursuant to paragraph (6), the price of thesubcontract is expected to exceed $500,000; and
 
 &emsp;&emsp;(iii) in the case of a subcontract not covered by clause (i) or (ii), the price of the subcontract is expected to exceed $100,000.
 
@@ -42,7 +42,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 (4) Except as provided under subsection (b), this section applies to contracts entered into by the head of an agency on behalf of a foreign government.
 
-(5) For purposes of paragraph (1)(C), a contractor or subcontractor granted a waiver under subsection (b)(1)(B) <sup>1</sup> shall be considered as having been required to make available cost or pricing data under this section.
+(5) For purposes of paragraph (1)(C), a contractor or subcontractor granted a waiver under subsection (b)(1)(C) shall be considered as having been required to make available cost or pricing data under this section.
 
 (6) Upon the request of a contractor that was required to submit cost or pricing data under paragraph (1) in connection with a prime contract entered into on or before December 5, 1990, the head of the agency that entered into such contract shall modify the contract to reflect subparagraphs (B)(ii) and (C)(ii) of paragraph (1). All such modifications shall be made without requiring consideration.
 
@@ -176,11 +176,9 @@ Subcontract.—The term “subcontract” includes a transfer of commercial item
 
 Commercial item.—The term “commercial item” has the meaning provided such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902.)
 
 #### References in Text
-
-Subsection (b), referred to in subsec. (a)(5), was amended generally by Pub. L. 104–106, div. D, title XLII, §4201(a)(1), Feb. 10, 1996, 110 Stat. 649, and, as so amended, provisions formerly appearing in subsec. (b)(1)(B) are contained in subsec. (b)(1)(C).
 
 Section 6621 of the Internal Revenue Code of 1986, referred to in subsec. (f)(1)(A)(ii), is classified to section 6621 of Title 26, Internal Revenue Code.
 
@@ -191,6 +189,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+1997—Subsec. (a)(5). Pub. L. 105–85 substituted “subsection (b)(1)(C)” for “subsection (b)(1)(B)”.
 
 1996—Subsec. (b). Pub. L. 104–106, §4321(a)(2), made technical correction to directory language of Pub. L. 103–355, §1202(a). See 1994 Amendment note below.
 
@@ -220,7 +220,7 @@ Subsec. (a)(1)(A)(ii). Pub. L. 103–355, §1201(a)(2), struck out “or after D
 
 Subsec. (a)(5). Pub. L. 103–355, §1202(b), substituted “subsection (b)(1)(B)” for “subsection (b)(2)”.
 
-Subsec. (a)(6). Pub. L. 103–355, §1201(c), struck out subpar. (A) designation and subpar. (B) which read asfollows: “The head of an agency is not required to modify a contract under subparagraph (A) if that head of an agency determines that the submission of cost or pricing data with respect to that contract should be required under subsection (c).”
+Subsec. (a)(6). Pub. L. 103–355, §1201(c), struck out subpar. (A) designation and subpar. (B) which read as follows: “The head of an agency is not required to modify a contract under subparagraph (A) if that head of an agency determines that the submission of cost or pricing data with respect to that contract should be required under subsection (c).”
 
 Subsec. (a)(7). Pub. L. 103–355, §1201(b), added par. (7).
 
@@ -306,7 +306,7 @@ Subsec. (a)(1)(C)(i). Pub. L. 101–510, §803(a)(1)(C), substituted “$500,000
 
 Subsec. (a)(1)(D). Pub. L. 101–510, §803(a)(1)(D), substituted “$500,000 (or such lesser amount as may be prescribed by the head of the agency) or, in the case of a change or modification to be made after December 31, 1995, $100,000” for “$100,000”.
 
-Subsec. (c). Pub. L. 101–510, §803(d), inserted at end “In any case in which the head of the agency requires such data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement.”
+Subsec. (c). Pub. L. 101–510, §803(d), inserted at end “In any case in which the head of the agency requiressuch data to be submitted under this subsection, the head of the agency shall document in writing the reasons for such requirement.”
 
 1987—Subsec. (a)(5). Pub. L. 100–180, §804(b)(1), substituted “a waiver under subsection (b)(2)” for “such a waiver”, and struck out first sentence authorizing head of an agency to waive requirement under this subsection for contractor, subcontractor, or offeror to submit cost or pricing data.
 
@@ -355,6 +355,4 @@ Section 803(b) of Pub. L. 101–510 provided that (1) after increase in threshol
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2306, 2313, 2343, 2375 of this title; title 15 section 4602; title 41 section 423.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ Contractor Justification for Restrictions.—A contract subject to this section 
 
 Review of Restrictions.—(1) The Secretary of Defense shall ensure that there is a thorough review of the appropriateness of any use or release restriction asserted with respect to technical data by a contractor or subcontractor at any tier under a contract subject to this section.
 
-(2) The review of an asserted use or release restriction under paragraph (1) shall be conductedbefore the end of the three-year period beginning on the later of—
+(2) The review of an asserted use or release restriction under paragraph (1) shall be conducted before the end of the three-year period beginning on the later of—
 
 &emsp;(A) the date on which final payment is made on the contract under which the technical data is required to be delivered; or
 
@@ -70,7 +70,7 @@ Decision by Contracting Officer.—(1) Upon a failure by the contractor or subco
 
 (h)
 
-Claims.—If a claim pertaining to the validity of the asserted restriction is submitted in writing to a contracting officer by a contractor or subcontractor at any tier, such claim shall be considered a claim within the meaning of the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.).
+Claims.—If a claim pertaining to the validity of the asserted restriction is submitted in writing to a contracting officer by a contractoror subcontractor at any tier, such claim shall be considered a claim within the meaning of the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.).
 
 (i)
 

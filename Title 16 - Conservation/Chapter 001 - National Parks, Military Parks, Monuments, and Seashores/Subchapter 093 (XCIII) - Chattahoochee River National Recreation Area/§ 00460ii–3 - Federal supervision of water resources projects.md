@@ -18,7 +18,7 @@ The Secretary is directed to proceed as expeditiously as possible to acquire the
 
 (2) In acquiring replacement lands under paragraph (1) priority shall be given to acquisition of lands within the recreation area boundary and those lands within or adjacent to the 2,000 foot wide corridor referred to in section 460ii of this title. Any lands acquired pursuant to this subsection lying outside the boundaries of the recreation area shall, upon acquisition, be included within the recreation area and transferred to the Secretary for management under this subchapter and chapter 43 of this title. The Secretary shall publish a revised boundary map to include any lands added to the recreation area pursuant to this subsection.
 
-(3) If lands as described in paragraph (2) are not available for acquisition, other lands withinthe State of Georgia may be acquired as replacement lands under paragraph (1) if such lands are transferred to the State of Georgia for permanent management for public outdoor recreation.
+(3) If lands as described in paragraph (2) are not available for acquisition, other lands within the State of Georgia may be acquired as replacement lands under paragraph (1) if such lands are transferred to the State of Georgia for permanent management for public outdoor recreation.
 
 (Pub. L. 95–344, title I, §104, Aug. 15, 1978, 92 Stat. 476; Pub. L. 98–568, §1(d), Oct. 30, 1984, 98 Stat. 2928; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584.)
 

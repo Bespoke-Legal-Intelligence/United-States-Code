@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) after June 30, 1985, serves at least two years of continuous active duty in the Armed Forces, subject to subsection (b) of this section, characterized by the Secretary concerned as honorable service; and
 
-&emsp;&emsp;&emsp;(ii) after June 30, 1985, subject to subsection (b) of this section and beginning within one year after completion of such two years of service, serves at least four continuous years in the Selected Reserve during which the individual participates satisfactorily in training as prescribed by the Secretary concerned;
+&emsp;&emsp;&emsp;(ii) after June 30, 1985, subject to subsection (b) of this section and beginning within one year after completion of suchtwo years of service, serves at least four continuous years in the Selected Reserve during which the individual participates satisfactorily in training as prescribed by the Secretary concerned;
 
 &emsp;(2) who, except as provided in subsection (f) of this section, before completion of the service described in clause (1) of this subsection, has completed the requirements of a secondary school diploma (or an equivalency certificate), except that (i) an individual described in clause (1)(B) of this subsection may meet the requirement of this clause by having successfully completed the equivalent of 12 semester hours in a program of education leading to a standard college degree, and (ii) an individual described in clause (1)(A) of this subsection may meet such requirement by having successfully completed the equivalent of such 12 semester hours before the end of the individual's initial obligated period of active duty; and
 
@@ -56,7 +56,7 @@
 
 (e)(1) An individual described in subclause (I) or (III) of subsection (b)(1)(B)(ii) of this section may elect entitlement to basic educational assistance under section 3011 of this title, based on an initial obligated period of active duty of two years, in lieu of entitlement to assistance under this section.
 
-(2) An individual who makes the election described in paragraph (1) of this subsection shall, for all purposes of this chapter, be consideredentitled to educational assistance under section 3011 of this title and not under this section. Such an election is irrevocable.
+(2) An individual who makes the election described in paragraph (1) of this subsection shall, for all purposes of this chapter, be considered entitled to educational assistance under section 3011 of this title and not under this section. Such an election is irrevocable.
 
 (f) For the purposes of subsection (a)(2) of this section, an individual who was on active duty on August 2, 1990, and who completes the requirements of a secondary school diploma (or equivalency certificate) before October 28, 1994, shall be considered to have completed such requirements within the individual's initial obligated period of active duty.
 

@@ -52,7 +52,7 @@ In subsection (c) references to the “allowances to which enlisted men of the N
 
 #### Amendments
 
-1958—Subsec. (a). Pub. L. 85–583, §1(4), provided for the transfer to the appropriate Retired Reserve of those members of the Fleet Reserve or the Fleet Marine Corps Reserve who had transferred thereto from the Naval Reserve or the Marine Corps Reserve.
+1958—Subsec. (a). Pub. L. 85–583, §1(4), provided for the transfer to the appropriate Retired Reserve of thosemembers of the Fleet Reserve or the Fleet Marine Corps Reserve who had transferred thereto from the Naval Reserve or the Marine Corps Reserve.
 
 Subsec. (b). Pub. L. 85–583, §1(5), struck out “of clause (2)”.
 

@@ -26,7 +26,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 &emsp;&emsp;(A) the identity and current address in the United States of the alien;
 
-&emsp;&emsp;(B) the nonimmigrant classification of the alien and the date on which a visa under theclassification was issued or extended or the date on which a change to such classification was approved by the Attorney General;
+&emsp;&emsp;(B) the nonimmigrant classification of the alien and the date on which a visa under the classification was issued or extended or the date on which a change to such classification was approved by the Attorney General;
 
 &emsp;&emsp;(C) in the case of a student at an approved institution of higher education, the current academic status of the alien, including whether the alien is maintaining status as a full-time student or, in the case of a participant in a designated exchange visitor program, whether the alien is satisfying the terms and conditions of such program; and
 

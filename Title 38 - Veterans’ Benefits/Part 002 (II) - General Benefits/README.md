@@ -1,11 +1,6 @@
 ## PART II—GENERAL BENEFITS
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>11.</b>](Chapter%20011%20-%20Compensation%20for%20Service-Connected%20Disability%20or%20Death/README.md) | <b>Compensation for Service-Connected Disability or Death</b> | <b>1101</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Dependency%20and%20Indemnity%20Compensation%20for%20Service-Connected%20Deaths/README.md) | <b>Dependency and Indemnity Compensation for Service-Connected Deaths</b> | <b>1301</b> |

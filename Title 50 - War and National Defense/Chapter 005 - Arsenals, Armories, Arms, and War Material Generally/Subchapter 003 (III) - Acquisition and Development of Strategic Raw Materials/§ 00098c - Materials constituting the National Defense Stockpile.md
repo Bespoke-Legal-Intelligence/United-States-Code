@@ -34,7 +34,7 @@ Notwithstanding any other provision of law, any material that (1) is under the c
 
 (2) The Secretary of Defense shall determine whether materials are suitable for transfer to the stockpile under this subsection, are suitable for disposal through the stockpile, and are uncontaminated.
 
-(June 7, 1939, ch. 190, §4, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 320; amended Nov. 14, 1986, Pub. L. 99–661, div. C, title II, §3207(a)(1), 100 Stat. 4069; Feb. 10, 1996, Pub. L. 104–106, div. C, title XXXIII, §3311, 110 Stat. 630.)
+(June 7, 1939, ch. 190, §4, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 320; amended Pub. L. 99–661, div. C, title II, §3207(a)(1), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 104–106, div. C, title XXXIII, §3311, Feb. 10, 1996, 110 Stat. 630.)
 
 #### References in Text
 

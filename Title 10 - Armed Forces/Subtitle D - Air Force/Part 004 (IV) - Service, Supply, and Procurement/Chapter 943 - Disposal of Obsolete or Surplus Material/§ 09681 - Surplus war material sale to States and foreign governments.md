@@ -1,6 +1,6 @@
 ### §9681. Surplus war material: sale to States and foreign governments
 
-Subject to regulations under section 205 of the Federal Property and Administrative ServicesAct of 1949 (40 U.S.C. 486), the Secretary of the Air Force may sell surplus war material and supplies, except food, of the Department of the Air Force, for which there is no adequate domestic market, to any State or to any foreign government with which the United States was at peace on June 5, 1920. Sales under this section shall be made upon terms that the Secretary considers expedient.
+Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Air Force may sell surplus war material and supplies, except food, of the Department of the Air Force, for which there is no adequate domestic market, to any State or to any foreign government with which the United States was at peace on June 5, 1920. Sales under this section shall be made upon terms that the Secretary considers expedient.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 583; Dec. 12, 1980, Pub. L. 96–513, title V, §514(18), 94 Stat. 2936.)
 

@@ -34,7 +34,7 @@ The President shall encourage the conservation of domestic sources of any materi
 
 &emsp;(2) more efficient methods of production or use of such material.
 
-(June 7, 1939, ch. 190, §8, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 322; amended Nov. 29, 1989, Pub. L. 101–189, div. C, title XXXIII, §3311, 103 Stat. 1686.)
+(June 7, 1939, ch. 190, §8, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 101–189, div. C, title XXXIII, §3311, Nov. 29, 1989, 103 Stat. 1686.)
 
 #### Prior Provisions
 

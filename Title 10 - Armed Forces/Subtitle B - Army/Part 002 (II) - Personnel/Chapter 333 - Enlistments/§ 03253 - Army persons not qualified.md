@@ -56,7 +56,7 @@ The Immigration and Nationality Act, referred to in text, is act June 27, 1952, 
 
 1968—Pub. L. 90–235 struck out provisions formerly set out as subsec. (a) disqualifying insane persons, intoxicated persons, deserters and convicted felons from Army service, and provisions formerly set out as subsec. (b) disqualifying from reenlistment in the Army persons whose service during their last term of enlistment was not honest and faithful, and redesignated as entire section provisions formerly set out as subsec. (c).
 
-1961—Subsec. (c). Pub. L. 87–143 substituted “a citizen of the United States or has been lawfully admitted to the United States for permanent residence under the applicable provisions of chapter 12 of title 8” for “, or has made a legal declaration of intention to become, a citizen of the United States”.
+1961—Subsec. (c). Pub. L. 87–143 substituted “a citizen of the United States or has been lawfully admitted to the United States for permanent residence under the applicable provisions of chapter 12 of title 8” for “, orhas made a legal declaration of intention to become, a citizen of the United States”.
 
 #### Effective Date of 1980 Amendment
 

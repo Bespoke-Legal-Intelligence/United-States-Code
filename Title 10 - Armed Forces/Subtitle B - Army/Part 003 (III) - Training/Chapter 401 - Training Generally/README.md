@@ -15,10 +15,13 @@
 | [4315\.](%C2%A7%2004315%20-%20The%20Judge%20Advocate%20General%27s%20School%20master%20of%20laws%20in%20military%20law.md) | The Judge Advocate General's School: master of laws in military law. |
 | [4316\.](%C2%A7%2004316%20-%20Reporting%20requirements.md) | Reporting requirements. |
 | [4317\.](%C2%A7%2004317%20-%20Military%20history%20fellowships.md) | Military history fellowships. |
+| [4318\.](%C2%A7%2004318%20-%20Drill%20sergeant%20trainees%20human%20relations%20training.md) | Drill sergeant trainees: human relations training. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §557(a)(2), Nov. 18, 1997, 111 Stat. 1750, added item 4318.
 
 1996—Pub. L. 104–106, div. A, title V, §562(a)(2), title XVI, §1624(a)(2), Feb. 10, 1996, 110 Stat. 324, 522, added item 4303 and struck out items 4307 “Director of civilian marksmanship: detail”, 4308 “Promotion of civilian marksmanship: authority of the Secretary of the Army”, 4310 “Rifle instruction: detail of members of Army”, and 4311 “Rifle instruction: issue of rifles and ammunition”.
 
@@ -49,10 +52,11 @@ This chapter is referred to in title 18 section 925.
 - [&sect; 04306 - Service schools leaves of absence for instructors](%C2%A7%2004306%20-%20Service%20schools%20leaves%20of%20absence%20for%20instructors.md)
 - [&sect; 04307, 4308 - Repealed. Pub. L. 104&#8211;106, div. A, title XVI, &sect;1624(a)(1), Feb. 10, 1996, 110 Stat. 522](%C2%A7%2004307%2C%204308%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71624%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20522.md)
 - [&sect; 04309 - Rifle ranges availability for use by members and civilians](%C2%A7%2004309%20-%20Rifle%20ranges%20availability%20for%20use%20by%20members%20and%20civilians.md)
-- [&sect; 04310, 4311 - Pub. L. 104&#8211;106, div. A, title XVI, &sect;1624(a)(1), Feb. 10, 1996, 110 Stat. 522](%C2%A7%2004310%2C%204311%20-%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71624%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20522.md)
+- [&sect; 04310, 4311 - Repealed. Pub. L. 104&#8211;106, div. A, title XVI, &sect;1624(a)(1), Feb. 10, 1996, 110 Stat. 522](%C2%A7%2004310%2C%204311%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71624%28a%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20522.md)
 - [&sect; 04312 - National rifle and pistol matches small-arms firing school](%C2%A7%2004312%20-%20National%20rifle%20and%20pistol%20matches%20small-arms%20firing%20school.md)
 - [&sect; 04313 - National Matches and small-arms school expenses](%C2%A7%2004313%20-%20National%20Matches%20and%20small-arms%20school%20expenses.md)
 - [&sect; 04314 - United States Army Command and General Staff College degree](%C2%A7%2004314%20-%20United%20States%20Army%20Command%20and%20General%20Staff%20College%20degree.md)
 - [&sect; 04315 - The Judge Advocate General's School master of laws in military law](%C2%A7%2004315%20-%20The%20Judge%20Advocate%20General%27s%20School%20master%20of%20laws%20in%20military%20law.md)
 - [&sect; 04316 - Reporting requirements](%C2%A7%2004316%20-%20Reporting%20requirements.md)
 - [&sect; 04317 - Military history fellowships](%C2%A7%2004317%20-%20Military%20history%20fellowships.md)
+- [&sect; 04318 - Drill sergeant trainees human relations training](%C2%A7%2004318%20-%20Drill%20sergeant%20trainees%20human%20relations%20training.md)

@@ -50,3 +50,7 @@ Subsec. (b). Pub. L. 101–647, §1701, added subsec. (b).
 
 Section 330011(<i>o</i>) of Pub. L. 103–322 provided that the amendment made by that section is effective Nov. 29, 1990.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 13711.
+

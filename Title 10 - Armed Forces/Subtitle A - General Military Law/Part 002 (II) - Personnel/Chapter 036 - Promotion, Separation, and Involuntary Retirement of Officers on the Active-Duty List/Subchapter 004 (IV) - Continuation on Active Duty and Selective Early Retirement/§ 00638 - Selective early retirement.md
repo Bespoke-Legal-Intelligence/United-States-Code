@@ -4,7 +4,7 @@
 
 &emsp;(A) An officer holding the regular grade of lieutenant colonel or commander who has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion.
 
-&emsp;(B) An officer holding the regular grade of colonel or, in the case of an officer of theNavy, captain who has served at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion.
+&emsp;(B) An officer holding the regular grade of colonel or, in the case of an officer of the Navy, captain who has served at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion.
 
 &emsp;(C) An officer holding the regular grade of brigadier general or rear admiral (lower half) who has served at least three and one-half years of active duty in that grade and whose name is not on a list of officers recommended for promotion.
 

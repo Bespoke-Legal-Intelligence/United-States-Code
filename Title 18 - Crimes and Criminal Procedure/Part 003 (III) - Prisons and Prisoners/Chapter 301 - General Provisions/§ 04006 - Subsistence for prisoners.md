@@ -1,6 +1,6 @@
 ### §4006. Subsistence for prisoners
 
-The Attorney General shall allow and pay only the reasonable and actual cost of the subsistence of prisoners in the custody of any marshal of the United States, and shall prescribe such regulations for the government of the marshalsas will enable him to determine the actual and reasonable expenses incurred.
+The Attorney General shall allow and pay only the reasonable and actual cost of the subsistence of prisoners in the custody of any marshal of the United States, and shall prescribe such regulations for the government of the marshals as will enable him to determine the actual and reasonable expenses incurred.
 
 (June 25, 1948, ch. 645, 62 Stat. 848.)
 

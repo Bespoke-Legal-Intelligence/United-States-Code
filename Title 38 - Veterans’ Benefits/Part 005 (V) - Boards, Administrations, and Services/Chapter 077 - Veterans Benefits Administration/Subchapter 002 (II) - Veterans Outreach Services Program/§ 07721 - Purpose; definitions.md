@@ -16,7 +16,7 @@ Provisions similar to those in this section were contained in section 240 of thi
 
 #### Reports on Activities of Department of Veterans Affairs To Assist Homeless Veterans
 
-Pub. L. 103–446, title X, §1001(a), (b), Nov. 2, 1994, 108 Stat. 4678, 4679, provided that:
+Pub. L. 103–446, title X, §1001(a), (b), Nov. 2, 1994, 108 Stat. 4678, 4679, as amended by Pub. L. 105–114, title II, §204, Nov. 21, 1997, 111 Stat. 2288, provided that:
 
 “(a)
 
@@ -26,39 +26,21 @@ Annual Report.—(1) Not later than April 15 of each year, the Secretary of Vete
 
 &emsp;“(A) set forth the number of homeless veterans provided assistance under those programs;
 
-&emsp;“(B) describe the cost to the Department of providing such assistance under those programs; and
+&emsp;“(B) describe the cost to the Department of providing such assistance under those programs;
 
-&emsp;“(C) provide any other information on those programs and on the provision of such assistance that the Secretary considers appropriate.
+&emsp;“(C) provide any other information on those programs and on the provision of such assistance that the Secretary considers appropriate; and
 
-“(b)
+&emsp;“(D) evaluate the effectiveness of the programs of the Department (including residential work-therapy programs, programs combining outreach, community-based residential treatment, and case-management, and contract care programs for alcohol and drug-dependence or abuse disabilities) in providing assistance to homeless veterans; and
 
-Bi-Annual Requirement.—The Secretary shall include in the report submitted under subsection (a)(1) in 1995, and every two years thereafter, an evaluation of the effectiveness of the programs of the Department in providing assistance to homeless veterans.”
+&emsp;“(E) evaluate the effectiveness of programs established by recipients of grants under section 3 of theHomeless Veterans Comprehensive Service Programs Act of 1992 \[Pub. L. 102–590\] (38 U.S.C. 7721 note), and describe the experience of such recipients in applying for and receiving grants from the Secretary of Housing and Urban Development to serve primarily homeless persons who are veterans.
+
+“\[(b) Repealed. Pub. L. 105–114, title II, §204(2), Nov. 21, 1997, 111 Stat. 2288.\]”
 
 #### Homeless Veterans Comprehensive Service Programs
 
-Pub. L. 102–590, §§2–4, Nov. 10, 1992, 106 Stat. 5136–5139, as amended by Pub. L. 103–446, title X, §1003, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(1), (2), Feb. 13, 1996, 110 Stat. 769, provided that:
+Pub. L. 102–590, §§2–4, Nov. 10, 1992, 106 Stat. 5136–5139, as amended by Pub. L. 103–446, title X, §1003, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(1), (2), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, §§202(c)(3), 203(b), Nov. 21, 1997, 111 Stat. 2287, 2288, provided that:
 
-#### “SEC. 2. PILOT PROGRAM.
-
-“(a)
-
-In General.—Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs shall establish and operate, through September 30, 1997, a pilot program under this Act \[see Short Title of 1992 Amendment note set out under section 101 of this title\] to expand and improve the provision of benefits and services by the Department of Veterans Affairs to homeless veterans.
-
-“(b)
-
-Comprehensive Centers.—The pilot program shall include the establishment of no more than eight demonstration programs (in addition to any existing programs providing similar services) at sites under the jurisdiction of the Secretary to be centers for the provision of comprehensive services to homeless veterans. The services to be provided at each site shall include a comprehensive and coordinated array of those specialized services which may be provided under existing law.
-
-“(c)
-
-Placement of VBA Employees.—The pilot program shall also include the services of such employees of the Veterans Benefits Administration as the Secretary determines appropriate at—
-
-&emsp;“(1) no more than 45 sites at which the Secretary provides services to homeless chronically mentally illveterans pursuant to section 115 of Public Law 100–322 (38 U.S.C. 1712 note);
-
-&emsp;“(2) no more than 26 sites at which the Secretary furnishes domiciliary care to homeless veterans pursuant to section 801(b) of Public Law 100–628 (102 Stat. 3257);
-
-&emsp;“(3) no more than 12 centers which provide readjustment counseling services under section 1712A of title 38, United States Code; and
-
-&emsp;“(4) each of the demonstration sites established under subsection (b).
+#### “\[SEC. 2. Repealed. Pub. L. 105–114, title II, §202(c)(3), Nov. 21, 1997, 111 Stat. 2287.\]
 
 #### “SEC. 3. GRANTS.
 
@@ -66,7 +48,7 @@ Placement of VBA Employees.—The pilot program shall also include the services 
 
 Authority To Make Grants.—(1) Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs, during \[sic\] shall make grants to assist eligible entities in establishing new programs to furnish outreach, rehabilitative services, vocational counseling and training, and transitional housing assistance to homeless veterans.
 
-“(2) The authority of the Secretary to make grants under this section expires on September 30, 1997.
+“(2) The authority of the Secretary to make grants under this section expires on September 30, 1999.
 
 “(b)
 
@@ -134,7 +116,7 @@ Service Center Requirements.—In addition to criteria established under subsect
 
 &emsp;“(3) such center shall be equipped and staffed to provide, or to assist in providing, health care, mental health services, hygiene facilities, benefits and employment counseling, meals, transportation assistance, and such other services as the Secretary determines necessary; and
 
-&emsp;“(4) such center may be equipped and staffed to provide, or to assist in providing, job training and jobplacement services (including job readiness, job counseling, and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
+&emsp;“(4) such center may be equipped and staffed to provide, or to assist in providing, job training and job placement services (including job readiness, job counseling, and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
 
 #### “SEC. 4. PER DIEM PAYMENTS.
 

@@ -30,7 +30,7 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 &emsp;(D) such other information as such committee may request.
 
-(2) In the event a statement with respect to a sale or licensed transaction is requested pursuant to paragraph (1) of this subsection but is nottransmitted in accordance therewith within 60 days after receipt of such request, such sale or licensed transaction shall be suspended unless and until such statement is transmitted.
+(2) In the event a statement with respect to a sale or licensed transaction is requested pursuant to paragraph (1) of this subsection but is not transmitted in accordance therewith within 60 days after receipt of such request, such sale or licensed transaction shall be suspended unless and until such statement is transmitted.
 
 (3)(A) In the event a statement with respect to a sale or licensed transaction is transmitted under paragraph (1) of this subsection, the Congress may at any time thereafter adopt a joint resolution terminating or restricting such sale or licensed transaction.
 

@@ -4,11 +4,13 @@
 
 (b) Under regulations prescribed by the Secretary of Defense, or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, a person who voluntarily, or because of his misconduct, does not complete the term of enlistment for which a bonus was paid to him under this section or a member who is not technically qualified in the skill for which a bonus was paid to him under this section (other than a person who is not qualified because of injury, illness, or other impairment not the result of his own misconduct) shall refund that percentage of the bonus that the unexpired part of his enlistment is of the total enlistment period for which the bonus was paid.
 
-(c) No bonus shall be paid under this section with respect to any enlistment or extension of an initial period of active duty in the armed forces made after September 30, 1998.
+(c) No bonus shall be paid under this section with respect to any enlistment or extension of an initial period of active duty in the armed forces made after September 30, 1999.
 
-(Added Pub. L. 92–129, title II, §203(a), Sept. 28, 1971, 85 Stat. 358; amended Pub. L. 93–64, title II, §204, July 9, 1973, 87 Stat. 149; Pub. L. 93–277, §2(2), May 10, 1974, 88 Stat. 120; Pub. L. 95–57, §2, June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(b), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 97–60, title I, §117(b), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 100–180, div. A, title VI, §626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §612(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 102–484, div. A, title VI, §612(b), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(c), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(c), Sept. 23, 1996, 110 Stat. 2544.)
+(Added Pub. L. 92–129, title II, §203(a), Sept. 28, 1971, 85 Stat. 358; amended Pub. L. 93–64, title II, §204, July 9, 1973, 87 Stat. 149; Pub. L. 93–277, §2(2), May 10, 1974, 88 Stat. 120; Pub. L. 95–57, §2,June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(b), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 97–60, title I, §117(b), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 100–180, div. A, title VI, §626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §612(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 102–484, div. A, title VI, §612(b), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(c), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(c), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §613(c), Nov. 18, 1997, 111 Stat. 1786.)
 
 #### Amendments
+
+1997—Subsec. (c). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
 
 1996—Subsec. (c). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
 
@@ -88,7 +90,7 @@ Section effective on a date to be prescribed by Secretary of Defense, but not ea
 
 #### Coverage of Period of Lapsed Authority
 
-For provisions relating to coverage of period of lapsed authority from Oct. 1, 1992, to Oct. 23, 1992, for payment of bonuses or other special pay under this section, see section 612(j)(2) of Pub. L. 102–484, set out as a note under section 301b of this title.
+For provisions relating to coverage of period of lapsed authority from Oct. 1, 1992, to Oct. 23, 1992, forpayment of bonuses or other special pay under this section, see section 612(j)(2) of Pub. L. 102–484, set out as a note under section 301b of this title.
 
 #### Limitation on Payments
 

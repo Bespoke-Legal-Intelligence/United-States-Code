@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;The Corporation shall offer a catastrophic risk protection plan to indemnify producers for crop loss due to loss of yield or prevented planting, if provided by the Corporation, when the producer is unable, because of drought,flood, or other natural disaster (as determined by the Secretary), to plant other crops for harvest on the acreage for the crop year.
+&emsp;The Corporation shall offer a catastrophic risk protection plan to indemnify producers for crop loss due to loss of yield or prevented planting, if provided by the Corporation, when the producer is unable, because of drought, flood, or other natural disaster (as determined by the Secretary), to plant other crops for harvest on the acreage for the crop year.
 
 #### (2) Amount of coverage
 
@@ -106,7 +106,7 @@
 
 #### (iii) Timing of determinations
 
-&emsp;&emsp;&emsp;Not later than 90 days after April 4, 1996, the Secretary shall announce the results of the determinations under clause (i) for policies for the 1997 crop year. For subsequent crop years, the Secretary shall make the announcement not later than April 30 of the year preceding the year in which the crop will be produced, or at such other times during the year as the Secretary finds practicable in consultation with affected crop insurance providers for those States (or portions of States) in which catastrophic coverage remains available through local offices of the Department.
+&emsp;&emsp;&emsp;Not later than 90 days after April 4, 1996, the Secretary shall announce the results of the determinations under clause (i) for policies for the 1997 crop year. For subsequent crop years, the Secretary shall make the announcement not later than April 30 of the year preceding the year in which the crop will be produced, or at such other times during the year as the Secretary finds practicable in consultationwith affected crop insurance providers for those States (or portions of States) in which catastrophic coverage remains available through local offices of the Department.
 
 #### (iv) Current policies
 
@@ -162,7 +162,7 @@
 
 #### (9) Transitional coverage for 1995 crops
 
-&emsp;Effective only for a 1995 crop planted or for which insurance attached prior to January 1, 1995, the Corporation shall allow producers of the crops until not later than the end of the 180-day period beginning on the date of enactment of the Federal Crop Insurance Reform Act of 1994 \[Oct. 13, 1994\] to obtain catastrophic risk protection for the crop. On enactment of such Act, a producer who made timely purchases of a crop insurance policy before the date of enactment of such Act, under the provisions of this chapter then in effect, shall be eligible for the same benefits to which a producer would be entitled under comparable additional coverage under subsection (c) of this section.
+&emsp;Effective only for a 1995 crop planted or for which insurance attached prior to January 1, 1995, the Corporation shall allow producers of the crops until not later than the end of the 180-day period beginning on the date of enactment of the Federal Crop Insurance Reform Act of 1994 \[Oct. 13, 1994\] to obtain catastrophic risk protection for the crop. On enactment of such Act, a producer who made timely purchases of a crop insurance policy before the date of enactment of such Act, under the provisions of this chapter then in effect, shall be eligible for the same benefits towhich a producer would be entitled under comparable additional coverage under subsection (c) of this section.
 
 #### (10) Simplification
 
@@ -188,7 +188,7 @@
 
 #### (2) Transfer of relevant information
 
-&emsp;If a producer has already applied for catastrophic risk protection at the local office of the Department and elects to purchase additional coverage, the relevant information for the crop of the producer shall be transferred tothe approved insurance provider servicing the additional coverage crop policy.
+&emsp;If a producer has already applied for catastrophic risk protection at the local office of the Department and elects to purchase additional coverage, the relevant information for the crop of the producer shall be transferred to the approved insurance provider servicing the additional coverage crop policy.
 
 #### (3) Yield and loss basis
 
@@ -226,7 +226,7 @@
 
 #### (8) State premium subsidies
 
-&emsp;The Corporation may enter into an agreement with any State or agency of a State under which the State or agency may pay to the approved insurance provider an additional premium subsidy to further reduce the portion of the premium paid by producers in the State.
+&emsp;The Corporation may enter into an agreement with any State or agency of a State under which the State or agency may pay to the approved insurance provider an additionalpremium subsidy to further reduce the portion of the premium paid by producers in the State.
 
 #### (9) Limitations on additional coverage
 
@@ -244,7 +244,7 @@
 
 #### (C) Additional fee
 
-&emsp;&emsp;If a producer elects to purchase additional coverage for a crop equal to or exceeding 65percent of the recorded or appraised average yield and 100 percent of the expected market price or an equivalent coverage, the producer shall pay an administrative fee of $10 for the coverage. If a producer has already paid an administrative fee for lesser coverage for the crop, the fee for lesser coverage shall be refunded to the producer unless the producer has paid the maximum fee for lesser coverage and refund of the fee will not reduce the amount to be paid below the maximum amount.
+&emsp;&emsp;If a producer elects to purchase additional coverage for a crop equal to or exceeding 65 percent of the recorded or appraised average yield and 100 percent of the expected market price or an equivalent coverage, the producer shall pay an administrative fee of $10 for the coverage. If a producer has already paid an administrative fee for lesser coverage for the crop, the fee for lesser coverage shall be refunded to the producer unless the producer has paid the maximum fee for lesser coverage and refund of the fee will not reduce the amount to be paid below the maximum amount.
 
 #### (D) Deposit of fees
 
@@ -284,7 +284,7 @@
 
 &emsp;The amount of the premium to be paid by the Corporation shall be as follows:
 
-&emsp;&emsp;(A) In the case of catastrophic risk protection, the amount shall be equivalent to the premium established for catastrophic risk protection under subsection (d)(2)(A) of this section.
+&emsp;&emsp;(A) In the case of catastrophic risk protection, the amount shall be equivalent to the premium established for catastrophic riskprotection under subsection (d)(2)(A) of this section.
 
 &emsp;&emsp;(B) In the case of coverage below 65 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage, but greater than 50 percent of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage, the amount shall be equivalent to the amount of premium established for catastrophic risk protection coverage and the amount of operating and administrative expenses established under subsection (d)(2)(B) of this section.
 
@@ -360,7 +360,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a producer does not provide satisfactory evidence of a yield under paragraph (2)(A),the producer shall be assigned a yield that is at least 80 percent of the transitional yield established by the Corporation (adjusted to reflect the actual production history of the producer) if the Secretary determines that—
+&emsp;&emsp;If a producer does not provide satisfactory evidence of a yield under paragraph (2)(A), the producer shall be assigned a yield that is at least 80 percent of the transitional yield established by the Corporation (adjusted to reflect the actual production history of the producer) if the Secretary determines that—
 
 &emsp;&emsp;&emsp;(i) the producer grows feed or forage primarily for on-farm use in a livestock, dairy, or poultry operation; and
 
@@ -402,7 +402,7 @@
 
 &emsp;&emsp;(A) A proposal submitted to the Board under this subsection shall be considered as confidential commercial or financial information for purposes of section 552(b)(4) of title 5 until approved by the Board. A proposal disapproved by the Board shall remain confidential commercial or financial information.
 
-&emsp;&emsp;(B) The Board shall provide an applicant with the opportunity to present the proposal to the Board in person if the applicant so desires.
+&emsp;&emsp;(B) The Board shall provide an applicant with the opportunity to present the proposalto the Board in person if the applicant so desires.
 
 &emsp;&emsp;(C) The Board shall provide an applicant with notification of intent to disapprove a proposal not later than 30 days prior to making the disapproval. An applicant that receives the notification may modify the application of the applicant. Any modification shall be considered an original application for purposes of this paragraph.
 
@@ -428,7 +428,7 @@
 
 #### (C) Insurable loss
 
-&emsp;&emsp;An insurable loss shall be incurred by a producer if the gross income of the producer\(as determined by the Corporation) is less than an amount determined by the Corporation, as a result of a reduction in yield or price resulting from an insured cause.
+&emsp;&emsp;An insurable loss shall be incurred by a producer if the gross income of the producer (as determined by the Corporation) is less than an amount determined by the Corporation, as a result of a reduction in yield or price resulting from an insured cause.
 
 #### (D) “New producer” defined
 
@@ -514,7 +514,7 @@ The Corporation shall adopt, as soon as practicable, rates and coverages that wi
 
 #### (3) Indemnification
 
-&emsp;The Corporation shall provide approved insurance providers with indemnification, including costs and reasonable attorney fees incurred by the approved insurance provider,due to errors or omissions on the part of the Corporation.
+&emsp;The Corporation shall provide approved insurance providers with indemnification, including costs and reasonable attorney fees incurred by the approved insurance provider, due to errors or omissions on the part of the Corporation.
 
 #### (4) Marketing windows
 
@@ -616,7 +616,7 @@ Subsecs. (k) to (n). Pub. L. 102–237, §601(5), redesignated subsecs. (<i>l</i
 
 1990—Pub. L. 101–624, §2204(b)(1), inserted section catchline and struck out “To carry out the purposes of this chapter the Corporation is authorized and empowered—” before subsec. (a).
 
-Subsec. (a). Pub. L. 101–624, §2205(1), inserted heading, substituted “the Corporation may insure” for “to insure” in first sentence, and inserted provisions relating to amount of insurance to be provided in cases where Agricultural Stabilization and Conservation Service has established adjusted yields, and provisions relating to establishment of a price level for each commodity beginning with the 1992 crop year.
+Subsec. (a). Pub. L. 101–624, §2205(1), inserted heading, substituted “the Corporation may insure” for “to insure” in first sentence, and inserted provisions relating to amount of insurance to be provided in cases where Agricultural Stabilization and Conservation Service has established adjusted yields, and provisions relatingto establishment of a price level for each commodity beginning with the 1992 crop year.
 
 Subsecs. (b) to (d). Pub. L. 101–624, §2204(a)(1), (2), added subsecs. (b) to (d) and redesignated subsecs. (b) to (d) as (e) to (g), respectively.
 
@@ -640,7 +640,7 @@ Subsec. (k). Pub. L. 101–624, §2205(2), struck out subsec. (k) which set out 
 
 Pub. L. 101–624, §2204(a)(1), (b)(6), redesignated subsec. (h) as (k), inserted heading, and substituted “The Corporation may include” for “To include”.
 
-Subsec. (<i>l</i>). Pub. L. 101–624, §2204(a)(1), (b)(7), redesignated subsec. (i) as (<i>l</i>), inserted heading, substituted “The Corporation may conduct” for “To conduct”, and struck out second and third sentences which read as follows: “Beginning in the 1981 crop year and ending after the 1985 crop year, the Corporation shall also conduct a pilot program of individual risk underwriting of crop insurance in not less than twenty-five counties. Under this pilot program, to the extent that appropriate yield data are available, the Corporation shallmake available to producers in such counties crop insurance under this chapter based on personalized rates and with guarantees determined from the producer's actual yield history.”
+Subsec. (<i>l</i>). Pub. L. 101–624, §2204(a)(1), (b)(7), redesignated subsec. (i) as (<i>l</i>), inserted heading, substituted “The Corporation may conduct” for “To conduct”, and struck out second and third sentences which read as follows: “Beginning in the 1981 crop year and ending after the 1985 crop year, the Corporation shall also conduct a pilot program of individual risk underwriting of crop insurance in not less than twenty-five counties. Under this pilot program, to the extent that appropriate yield data are available, the Corporation shall make available to producers in such counties crop insurance under this chapter based on personalized rates and with guarantees determined from the producer's actual yield history.”
 
 Subsec. (m). Pub. L. 101–624, §2204(b)(8), added subsec. (m) and struck out former subsec. (m) which read as follows: “To accumulate, prior to the 1989 crop year, sufficient actuarial data to enable the Corporation to provide crop insurance that meets the differentiated needs of producers of different types of dry edible beans. Commencing with the 1989 crop year, the Corporation shall make such crop insurance available to producers.”
 

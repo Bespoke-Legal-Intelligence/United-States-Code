@@ -20,7 +20,7 @@ Pub. L. 103–403, title V, §501, Oct. 22, 1994, 108 Stat. 4198, provided that:
 
 #### Short Title of 1992 Amendment
 
-Section 401 of title IV of Pub. L. 102–366 provided that: “This Act \[probably means “This title”, amending this section and sections 662, 682, 683, 685 to 687, 687b, and 687<i>l</i> of this title, enacting provisions set out as notes under this section and sections 681 and 687b of this title, and amending provisions set out as a noteunder section 631 of this title\] may be cited as the ‘Small Business Equity Enhancement Act of 1992’.”
+Section 401 of title IV of Pub. L. 102–366 provided that: “This Act \[probably means “This title”, amending this section and sections 662, 682, 683, 685 to 687, 687b, and 687<i>l</i> of this title, enacting provisions set out as notes under this section and sections 681 and 687b of this title, and amending provisions set out as a note under section 631 of this title\] may be cited as the ‘Small Business Equity Enhancement Act of 1992’.”
 
 #### Short Title of 1988 Amendment
 

@@ -12,7 +12,7 @@ Fourth, if none of the above, to the parents of such individual, or the survivor
 
 Fifth, if there be none of the above, to the duly appointed legal representative of the estate of the deceased individual, or if there be none, to the person or persons determined to be entitled thereto under the laws of the domicile of the deceased individual.
 
-(July 2, 1954, ch. 455, title I, §105, 68 Stat. 409; July 23, 1959, Pub. L. 86–102, 73 Stat. 224; Aug. 20, 1996, Pub. L. 104–186, title II, §203(5), 110 Stat. 1725.)
+(July 2, 1954, ch. 455, title I, §105, 68 Stat. 409; Pub. L. 86–102, July 23, 1959, 73 Stat. 224; Pub. L. 104–186, title II, §203(5), Aug. 20, 1996, 110 Stat. 1725.)
 
 #### Amendments
 

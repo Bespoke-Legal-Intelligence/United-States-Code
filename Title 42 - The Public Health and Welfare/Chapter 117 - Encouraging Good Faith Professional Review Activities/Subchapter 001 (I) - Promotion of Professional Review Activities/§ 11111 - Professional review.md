@@ -56,7 +56,7 @@ The Civil Rights Acts, referred to in subsec. (a)(1), are classified generally t
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–177 effective Nov. 14, 1986, see section 402(d) of Pub. L. 100–177, as renumbered and amended, set out as a note under section 11137 of this title.
+Amendment by Pub. L. 100–177 effective Nov. 14, 1986, see section 402(d) of Pub. L. 100–177, as renumbered andamended, set out as a note under section 11137 of this title.
 
 #### Effective Date
 

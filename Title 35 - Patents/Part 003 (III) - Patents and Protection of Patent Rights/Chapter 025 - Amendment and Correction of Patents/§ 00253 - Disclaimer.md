@@ -4,7 +4,7 @@ Whenever, without any deceptive intention, a claim of a patent is invalid the re
 
 In like manner any patentee or applicant may disclaim or dedicate to the public the entire term, or any terminal part of the term, of the patent granted or to be granted.
 
-(July 19, 1952, ch. 950, 66 Stat. 809; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

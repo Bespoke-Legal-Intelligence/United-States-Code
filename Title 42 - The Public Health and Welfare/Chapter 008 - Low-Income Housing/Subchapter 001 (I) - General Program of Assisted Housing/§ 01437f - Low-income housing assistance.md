@@ -14,11 +14,11 @@ For the purpose of aiding low-income families in obtaining a decent place to liv
 
 (1) An assistance contract entered into pursuant to this section shall establish the maximum monthly rent (including utilities and all maintenance and management charges) which the owner is entitled to receive for each dwelling unit with respect to which such assistance payments are to be made. The maximum monthly rent shall not exceed by more than 10 per centum the fair market rental established by the Secretary periodically but not less than annually for existing or newly constructed rental dwelling units of various sizes and types in the market area suitable for occupancy by persons assisted under this section, except that the maximum monthly rent may exceed the fair market rental (A) by more than 10 but not more than 20 per centum where the Secretary determines that special circumstances warrant such higher maximum rent or that such higher rent is necessary to the implementation of a housing strategy as defined in section 12705 of this title, or (B) by such higher amount as may be requested by a tenant and approved by the public housing agency in accordance with paragraph (3)(B). In the case of newly constructed and substantially rehabilitated units, the exception in the preceding sentence shall not apply to more than 20 per centum of the total amount of authority to enter into annual contributions contracts for such units which is allocated to an area and obligated with respect to any fiscal year beginning on or after October 1, 1980. Proposed fair market rentals for an area shall be published in the Federal Register with reasonable time for public comment, and shall become effective upon the date of publication in final form in the Federal Register. Each fair market rental in effect under this subsection shall be adjusted to be effective on October 1 of each year to reflect changes, based on the most recent available data trended so the rentals will be current for the year to which they apply, of rents for existing or newly constructed rental dwelling units, as the case may be, of various sizes and types in the market area suitable for occupancy by persons assisted under this section. Notwithstanding any other provision of this section, after October 12, 1977, the Secretary shall prohibit high-rise elevator projects for families with children unless there is no practical alternative. The Secretary shall establish separate fair market rentals under this paragraph for Westchester County in the State of New York. The Secretary shall also establish separate fair market rentals under this paragraph for Monroe County in the Commonwealth of Pennsylvania. In establishing fair market rentals for the remaining portion of the market area in which Monroe County is located, the Secretary shall establish the fair market rentals as if such portion included Monroe County. If units assisted under this section are exempt from local rent control while they are so assisted or otherwise, the maximum monthly rent for such units shall be reasonable in comparison with other units in the market area that are exempt from local rent control.
 
-(2)(A) The assistance contract shall provide for adjustment annually or more frequently in themaximum monthly rents for units covered by the contract to reflect changes in the fair market rentals established in the housing area for similar types and sizes of dwelling units or, if the Secretary determines, on the basis of a reasonable formula. However, where the maximum monthly rent, for a unit in a new construction, substantial rehabilitation, or moderate rehabilitation project, to be adjusted using an annual adjustment factor exceeds the fair market rental for an existing dwelling unit in the market area, the Secretary shall adjust the rent only to the extent that the owner demonstrates that the adjusted rent would not exceed the rent for an unassisted unit of similar quality, type, and age in the same market area, as determined by the Secretary. The immediately foregoing sentence shall be effective only during fiscal year 1995, fiscal year 1996 prior to April 26, 1996, and fiscal year 1997. Except for assistance under the certificate program, for any unit occupied by the same family at the time of the last annual rental adjustment, where the assistance contract provides for the adjustment of the maximum monthly rent by applying an annual adjustment factor and where the rent for a unit is otherwise eligible for an adjustment based on the full amount of the factor, 0.01 shall be subtracted from the amount of the factor, except that the factor shall not be reduced to less than 1.0. In the case of assistance under the certificate program, 0.01 shall be subtracted from the amount of the annual adjustment factor (except that the factor shall not be reduced to less than 1.0), and the adjusted rent shall not exceed the rent for a comparable unassisted unit of similar quality, type, and age in the market area. The immediately foregoing two sentences shall be effective only during fiscal year 1995, fiscal year 1996 prior to April 26, 1996, and fiscal year 1997.
+(2)(A) The assistance contract shall provide for adjustment annually or more frequently in themaximum monthly rents for units covered by the contract to reflect changes in the fair market rentals established in the housing area for similar types and sizes of dwelling units or, if the Secretary determines, on the basis of a reasonable formula. However, where the maximum monthly rent, for a unit in a new construction, substantial rehabilitation, or moderate rehabilitation project, to be adjusted using an annual adjustment factor exceeds the fair market rental for an existing dwelling unit in the market area, the Secretary shall adjust the rent only to the extent that the owner demonstrates that the adjusted rent would not exceed the rent for an unassisted unit of similar quality, type, and age in the same market area, as determined by the Secretary. The immediately foregoing sentence shall be effective only during fiscal year 1995, fiscal year 1996 prior to April 26, 1996, and fiscal years 1997 and 1998, and during fiscal year 1999 and thereafter. Except for assistance under the certificate program, for any unit occupied by the same family at the time of the last annual rental adjustment, where the assistance contract provides for the adjustment of the maximum monthly rent by applying an annual adjustment factor and where the rent for a unit is otherwise eligible for an adjustment based on the full amount of the factor, 0.01 shall be subtracted from the amount of the factor, except that the factor shall not be reduced to less than 1.0. In the case of assistance under the certificate program, 0.01 shall be subtracted from the amount of the annual adjustment factor (except that the factor shall not be reduced to less than 1.0), and the adjusted rent shall not exceed the rent for a comparable unassisted unit of similar quality, type, and age in the market area. The immediately foregoing two sentences shall be effective only during fiscal year 1995, fiscal year 1996 prior to April 26, 1996, and fiscal years 1997 and 1998, and during fiscal year 1999 and thereafter. In establishing annual adjustment factors for units in new construction and substantial rehabilitation projects, the Secretary shall take into account the fact that debt service is a fixed expense. The immediately foregoing sentence shall be effective only during fiscal year 1998.
 
 (B) The contract shall further provide for the Secretary to make additional adjustments in the maximum monthly rent for units under contract to the extent he determines such adjustments are necessary to reflect increases in the actual and necessary expenses of owning and maintaining the units which have resulted from substantial general increases in real property taxes, utility rates, or similar costs which are not adequately compensated for by the adjustment in the maximum monthly rent authorized by subparagraph (A). The Secretary shall make additional adjustments in the maximum monthly rent for units under contract (subject to the availability of appropriations for contract amendments) to the extent the Secretary determines such adjustments are necessary to reflect increases in the actual and necessary expenses of owning and maintaining the units that have resulted from the expiration of a real property tax exemption. Where the Secretary determines that a project assisted under this section is located in a community where drug-related criminal activity is generally prevalent and the project's operating, maintenance, and capital repair expenses have been substantially increased primarily as a result of the prevalence of such drug-related activity, the Secretary may (at the discretion of the Secretary and subject to the availability of appropriations for contract amendments for this purpose), on a project by project basis, provide adjustments to the maximum monthly rents, to a level no greater than 120 percent of the project rents, to cover the costs of maintenance, security, capital repairs, and reserves required for the owner to carry out a strategy acceptable to the Secretary for addressing the problem of drug-related criminal activity. Any rent comparability standard required under this paragraph may be waived by the Secretary to so implement the preceding sentence. The Secretary may (at the discretion of the Secretary and subject to the availability of appropriations for contract amendments), on a project by project basis for projects receiving project-based assistance, provide adjustments to the maximum monthly rents to cover the costs of evaluating and reducing lead-based paint hazards, as defined in section 4851b of this title.
 
-(C) Adjustments in the maximum rents under subparagraphs (A) and (B) shall not result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, as determined by the Secretary. In implementing the limitation established under the preceding sentence, the Secretary shall establish regulations for conducting comparability studies for projects where the Secretary has reason to believe that the application of the formula adjustments under subparagraph (A) would result in such material differences. The Secretary shall conduct such studies upon the request of any owner of any project, or as the Secretary determines to be appropriate by establishing, to the extent practicable, a modified annual adjustment factor for such market area, as the Secretary shall designate, that is geographically smaller than the applicable housing area used for the establishment of the annual adjustment factor under subparagraph (A). The Secretary shall establish such modified annual adjustment factor on the basis of the results of a study conducted by the Secretary of the rents charged, and any change in such rents over the previous year, for assisted units and unassisted units of similar quality, type, and age in the smaller market area. Where the Secretary determines that such modified annual adjustment factor cannot be established or that such factor when applied to a particular project would result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, the Secretary may apply an alternative methodology for conducting comparability studies in order to establish rents that are not materially different from rents charged for comparable unassisted units. If the Secretary or appropriate State agency does not complete and submit to the project owner a comparability study not later than 60 days before the anniversary date of the assistance contract under this section, the automatic annual adjustment factor shall be applied. The Secretary may not reduce the contract rents in effect on or after April 15, 1987, for newly constructed, substantially rehabilitated, or moderately rehabilitated projects assisted under this section (including projects assisted under this section as in effect prior to November 30, 1983), unless the project has been refinanced in a manner that reduces the periodic paymentsof the owner. Any maximum monthly rent that has been reduced by the Secretary after April 14, 1987, and prior to November 7, 1988, shall be restored to the maximum monthly rent in effect on April 15, 1987. For any project which has had its maximum monthly rents reduced after April 14, 1987, the Secretary shall make assistance payments (from amounts reserved for the original contract) to the owner of such project in an amount equal to the difference between the maximum monthly rents in effect on April 15, 1987, and the reduced maximum monthly rents, multiplied by the number of months that the reduced maximum monthly rents were in effect.
+(C) Adjustments in the maximum rents under subparagraphs (A) and (B) shall not result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, as determined by the Secretary. In implementing the limitation established under the preceding sentence, the Secretary shall establish regulations for conducting comparability studies for projects where the Secretary has reason to believe that the application of the formula adjustments under subparagraph (A) would result in such material differences. The Secretary shall conduct such studies upon the request of any owner of any project, or as the Secretary determines to be appropriate by establishing, to the extent practicable, a modified annual adjustment factor for such market area, as the Secretary shall designate, that is geographically smaller than the applicable housing area used for the establishment of the annual adjustment factor under subparagraph (A). The Secretary shall establish such modified annual adjustment factor on the basis of the results of a study conducted by the Secretary of the rents charged, and any change in such rents over the previous year, for assisted units and unassisted units of similar quality, type, and age in the smaller market area. Where the Secretary determines that such modified annual adjustment factor cannot be established or that such factor when applied to a particular project would result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, the Secretary may apply an alternative methodology for conducting comparability studies in order to establish rents that are not materially different from rents charged for comparable unassisted units. If the Secretary or appropriate State agency does not complete and submit to the project owner a comparability study not later than 60 days before the anniversary date of the assistance contract under this section, the automatic annual adjustment factor shall be applied. The Secretary may not reduce the contract rents in effect on or after April 15, 1987, for newly constructed, substantially rehabilitated, or moderately rehabilitated projects assisted under this section (including projects assisted under this section as in effect prior to November 30, 1983), unless the project has been refinanced in a manner that reduces the periodic payments of the owner. Any maximum monthly rent that has been reduced by the Secretary after April 14, 1987, and prior to November 7, 1988, shall be restored to the maximum monthly rent in effect on April 15, 1987. For any project which has had its maximum monthly rents reduced after April 14, 1987, the Secretary shall make assistance payments (from amounts reserved for the original contract) to the owner of such project in an amount equal to the difference between the maximum monthly rents in effect on April 15, 1987, and the reduced maximum monthly rents, multiplied by the number of months that the reduced maximum monthly rents were in effect.
 
 (3)(A) The amount of the monthly assistance payment with respect to any dwelling unit shall be the difference between the maximum monthly rent which the contract provides that the owner is to receive for the unit and the rent the family is required to pay under section 1437a(a) of this title. Reviews of family income shall be made no less frequently than annually.
 
@@ -42,7 +42,7 @@ For the purpose of aiding low-income families in obtaining a decent place to liv
 
 (8) Each contract under this section (other than a contract for assistance under the certificate or voucher program) shall provide that the owner will notify tenants at least 90 days prior to the expiration of the contract of any rent increase which may occur as a result of the expiration of such contract.
 
-(9) Not less than 1 year prior to terminating any contract under which assistance payments are received under this section, other than a contract under the certificate or voucher program, an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination. The owner's notice shall include a statement that the owner and the Secretary may agree to a renewal of the contract, thus avoiding the termination. The Secretary shall review the owner's notice, shall consider whether there are additional actions that can be taken by the Secretary to avoid the termination, and shall ensure a proper adjustment of the contract rents for the project in conformity with the requirements of paragraph (2). The Secretary shall issue a written finding of the legality of the termination and the reasons for the termination, including the actions considered or taken to avoid the termination. Within 30 days of the Secretary's finding, the owner shall provide written notice to each tenant of the Secretary's decision. For purposes of this paragraph, the term “termination” means the expiration of the assistance contract or an owner's refusal to renew the assistance contract, and such term shall include termination of the contract for business reasons.
+(9) Not less than 180 days prior to terminating any contract under which assistance payments are received under this section, other than a contract under the certificate or voucher program, an owner shall provide written notice to the Secretary and the tenants involved of the proposed termination, specifying the reasons for the termination with sufficient detail to enable the Secretary to evaluate whether the termination is lawful and whether there are additional actions that can be taken by the Secretary to avoid the termination. The owner's notice shall include a statement that the owner and the Secretary may agree to a renewal of the contract, thus avoiding the termination. The Secretary shall review the owner's notice, shall consider whether there are additional actions that can be taken by the Secretary to avoid the termination, and shall ensure a proper adjustment of the contract rents for the project in conformity with the requirements of paragraph (2). The Secretary shall issue a written finding of the legality of the termination and the reasons for the termination, including the actions considered or taken to avoid the termination. Within 30 days of the Secretary's finding, the owner shall provide written notice to each tenant of the Secretary's decision. For purposes of this paragraph, the term “termination” means the expiration of the assistance contract or an owner's refusal to renew the assistance contract, and such term shall include termination of the contract for business reasons.
 
 (10) If an owner provides notice of proposed termination under paragraph (9) and the contract rent is lower than the maximum monthly rent for units assisted under subsection (b)(1) of this section, the Secretary shall adjust the contract rent based on the maximum monthly rent for units assisted under subsection (b)(1) of this section and the value of the low-income housing after rehabilitation.
 
@@ -70,7 +70,7 @@ For the purpose of aiding low-income families in obtaining a decent place to liv
 
 &emsp;(D) the agency and the owner shall carry out such other appropriate terms and conditions as may be mutually agreed to by them.
 
-(2)(A) Each contract for an existing structure entered into under this section shall be for a term of not less than one month nor more than one hundred and eighty months. The Secretary shall permit public housing agencies to enter into contracts for assistance payments of less than 12 months duration in order to avoid disruption in assistance to eligible families if the annual contributions contract is within 1 year of its expiration date. Where the Secretary enters into an annual contributions contract with a public housing agency pursuant to which the agency will enter into a contract for assistance payments with respect to an existing structure, the contract for assistance payments may not be attached to the structure unless (i) the Secretary and the public housing agency approve such action, and (ii) the owner agrees to rehabilitate the structure other than with assistance under this chapter and otherwise complies with the requirements of this section, except that theSecretary shall permit the public housing agency to approve such attachment with respect to not more than 15 percent of the assistance provided by the public housing agency if the requirements of clause (ii) are met. Notwithstanding any other provision of this section, a public housing agency and an applicable State agency may, on a priority basis, attach to structures not more than an additional 15 percent of the assistance provided by the public housing agency or the applicable State agency only with respect to projects assisted under a State program that permits the owner of the projects to prepay a State assisted or subsidized mortgage on the structure, except that attachment of assistance under this sentence shall be for the purpose of (i) providing incentives to owners to preserve such projects for occupancy by lower and moderate income families (for the period that assistance under this sentence is available), and (ii) to assist lower income tenants to afford any increases in rent that may be required to induce the owner to maintain occupancy in the project by lower and moderate income tenants.
+(2)(A) Each contract for an existing structure entered into under this section shall be for a term of not less than one month nor more than one hundred and eighty months. The Secretary shall permit public housing agencies to enter into contracts for assistance payments of less than 12 months duration in order to avoid disruption in assistance to eligible families if the annual contributions contract is within 1 year of its expiration date. Where the Secretary enters into an annual contributions contract with apublic housing agency pursuant to which the agency will enter into a contract for assistance payments with respect to an existing structure, the contract for assistance payments may not be attached to the structure unless (i) the Secretary and the public housing agency approve such action, and (ii) the owner agrees to rehabilitate the structure other than with assistance under this chapter and otherwise complies with the requirements of this section, except that the Secretary shall permit the public housing agency to approve such attachment with respect to not more than 15 percent of the assistance provided by the public housing agency if the requirements of clause (ii) are met. Notwithstanding any other provision of this section, a public housing agency and an applicable State agency may, on a priority basis, attach to structures not more than an additional 15 percent of the assistance provided by the public housing agency or the applicable State agency only with respect to projects assisted under a State program that permits the owner of the projects to prepay a State assisted or subsidized mortgage on the structure, except that attachment of assistance under this sentence shall be for the purpose of (i) providing incentives to owners to preserve such projects for occupancy by lower and moderate income families (for the period that assistance under this sentence is available), and (ii) to assist lower income tenants to afford any increases in rent that may be required to induce the owner to maintain occupancy in the project by lower and moderate income tenants.
 
 (B) The Secretary shall permit any public housing agency to approve the attachment of assistance under subsection (b)(1) of this section with respect to any newly constructed structure if—
 
@@ -90,11 +90,15 @@ For the purpose of aiding low-income families in obtaining a decent place to liv
 
 (G) An assistance contract for project-based assistance under this paragraph shall provide that the owner shall ensure and maintain compliance with subtitle C of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle.
 
-(H) An owner of a covered section 8 housing project (as such term is defined in section 659 of the Housing and Community Development Act of 1992 \[42 U.S.C. 13619\]) may give preference for occupancy of dwelling units in the project, and reserve units for occupancy, in accordance with subtitle D of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13611 et seq.\].
+(H) An owner of a covered section 8 housing project (as such term is defined in section 659 of the Housing and Community Development Act of 1992 \[42 U.S.C. 13619\]) may give preference for occupancy of dwelling units in the project, and reserve units for occupancy, in accordance withsubtitle D of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13611 et seq.\].
 
 (3) Notwithstanding any other provision of law, with the approval of the Secretary the public housing agency administering a contract under this section with respect to existing housing units may exercise all management and maintenance responsibilities with respect to those units pursuant to a contract between such agency and the owner of such units.
 
 (4) A public housing agency that serves more than one unit of general local government may, at the discretion of the agency, in allocating assistance under this section, give priority to disabled families that are not elderly families.
+
+(5)
+
+Calculation of limit.—Any contract entered into under section 514 of the Multifamily Assisted Housing Reform and Affordability Act of 1997 shall be excluded in computing the limit on project-based assistance under this subsection.
 
 #### (e) Restrictions on contracts for assistance payments
 
@@ -190,7 +194,7 @@ In making assistance available under subsections (b)(1) and (e)(2) of this secti
 
 #### (<i>o</i>) Rental vouchers
 
-(1) The Secretary may provide assistance using a payment standard in accordance with this subsection. The payment standard shall be used to determine the monthly assistance which may be paid for any family, as provided in paragraph (2) of this subsection, and shall be based on the fair market rental established under subsection (c) of this section.
+(1) The Secretary may provide assistance using a payment standard in accordance withthis subsection. The payment standard shall be used to determine the monthly assistance which may be paid for any family, as provided in paragraph (2) of this subsection, and shall be based on the fair market rental established under subsection (c) of this section.
 
 (2) The monthly assistance payment for any family shall be the amount by which the payment standard for the area exceeds 30 per centum of the family's monthly adjusted income, except that such monthly assistance payment shall not exceed the amount by which the rent for the dwelling unit (including the amount allowed for utilities in the case of a unit with separate utility metering) exceeds 10 per centum of the family's monthly income.
 
@@ -260,7 +264,7 @@ In order to assist elderly families (as defined in section 1437a(b)(3) of this t
 
 (B) To the extent amounts are provided in appropriation Acts under subparagraph (C), the Secretary shall increase fees under this subsection to provide for the costs of such service coordinators for public housing agencies.
 
-(C) The budget authority available under section 1437c(c) of this title for assistance under this section is authorized to be increased by $5,000,000 on or after October 1, 1992, and by $5,000,000 on or after October 1, 1993. Amounts made available under this subparagraph shall be used to provide additional amounts under annual contributions contracts for increased fees under this subsection, which shall be used only for the purpose of providing service coordinators for public housing agencies described in subparagraph (A).
+(C) The budget authority available under section 1437c(c) of this title for assistance underthis section is authorized to be increased by $5,000,000 on or after October 1, 1992, and by $5,000,000 on or after October 1, 1993. Amounts made available under this subparagraph shall be used to provide additional amounts under annual contributions contracts for increased fees under this subsection, which shall be used only for the purpose of providing service coordinators for public housing agencies described in subparagraph (A).
 
 (4) The Secretary may establish or increase a fee in accordance with this subsection only to such extent or in such amounts as are provided in appropriation Acts.
 
@@ -306,11 +310,11 @@ Not later than 30 days after the beginning of each fiscal year, the Secretary sh
 
 #### (2) Use of funds
 
-&emsp;The amounts made available under this subsection shall be used only in connection with housing certificate assistance under this section on behalf of any family (A) who is otherwise eligible for such assistance, and (B) who the public child welfare agency for the jurisdiction has certified is a family for whom the lack of adequate housing is a primary factor in the imminent placement of the family's child or children in out-of-home care or the delayed discharge of a child or children to the family from out-of-home care.
+&emsp;The amounts made available under this subsection shall be used only in connection with housing certificate assistance under this section on behalf of any family (A) who is otherwise eligible for such assistance, and (B) whothe public child welfare agency for the jurisdiction has certified is a family for whom the lack of adequate housing is a primary factor in the imminent placement of the family's child or children in out-of-home care or the delayed discharge of a child or children to the family from out-of-home care.
 
 #### (3) Allocation
 
-&emsp;The amounts made available under this subsection shall be allocated by the Secretary through a national competition among applicants based on demonstrated need for the assistance under this subsection. To be considered for assistance, an applicant shall submit to the Secretary a written proposal containing a report from the public child welfare agency serving the jurisdiction of the applicant thatdescribes how a lack of adequate housing in the jurisdiction is resulting in the initial or prolonged separation of children from their families, and how the applicant will coordinate with the public child welfare agency to identify eligible families and provide the families with assistance under this subsection.
+&emsp;The amounts made available under this subsection shall be allocated by the Secretary through a national competition among applicants based on demonstrated need for the assistance under this subsection. To be considered for assistance, an applicant shall submit to the Secretary a written proposal containing a report from the public child welfare agency serving the jurisdiction of the applicant that describes how a lack of adequate housing in the jurisdiction is resulting in the initial or prolonged separation of children from their families, and how the applicant will coordinate with the public child welfare agency to identify eligible families and provide the families with assistance under this subsection.
 
 #### (4) Definitions
 
@@ -400,7 +404,7 @@ Not later than 30 days after the beginning of each fiscal year, the Secretary sh
 
 &emsp;&emsp;(B) any other family, as the Secretary may prescribe.
 
-#### (z) Termination of section 1437f Contracts and reuse of recaptured budget authority
+#### (z) Termination of section 1437f contracts and reuse of recaptured budget authority
 
 #### (1) General authority
 
@@ -424,11 +428,17 @@ Not later than 30 days after the beginning of each fiscal year, the Secretary sh
 
 #### (aa) Omitted
 
-#### (bb) Transfer of budget authority
+#### (bb) Transfer, reuse, and rescission of budget authority
 
-If an assistance contract under this section, other than a contract for tenant-based assistance, is terminated or is not renewed, or if the contract expires, the Secretary shall, in order to provide continued assistance to eligible families, including eligible families receiving the benefit of the project-based assistance at the time of the termination, transfer any budget authority remaining in the contract to another contract. The transfer shall be under such terms as the Secretary may prescribe.
+#### (1) Transfer of budget authority
 
-(Sept. 1, 1937, ch. 896, title I, §8, as added Aug. 22, 1974, Pub. L. 93–383, title II, §201(a), 88 Stat. 662; amended Aug. 3, 1976, Pub. L. 94–375, §2(d), (e), (g), 90 Stat. 1068; Apr. 30, 1977, Pub. L. 95–24, title I, §101(c), 91 Stat. 55; Oct. 12, 1977, Pub. L. 95–128, title II, §201(c)–(e), 91 Stat. 1128; Oct. 31, 1978, Pub. L. 95–557, title II, §206(d)(1), (e), (f), 92 Stat. 2091, 2092; Dec. 21, 1979, Pub. L. 96–153, title II, §§202(b), 206(b), 210, 211(b), 93 Stat. 1106, 1108–1110; Oct. 8, 1980, Pub. L. 96–399, title II, §203, title III, §308(c)(3), 94 Stat. 1629, 1641; Aug. 13, 1981, Pub. L. 97–35, title III, §§322(e), 324–326(a), (e)(1), 329H(a), 95 Stat. 402, 405–407, 410; Nov. 30, 1983, Pub. L. 98–181, title II, §§203(b)(1), (2), 207–209(a), 210, 211, 97 Stat. 1178, 1181–1183; Oct. 17, 1984, Pub. L. 98–479, title I, §102(b)(6)–(10), 98 Stat. 2221, 2222; Feb. 5, 1988, Pub. L. 100–242, title I, §§141–149, title II, §262, 101 Stat. 1849–1853, 1890; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; Nov. 7, 1988, Pub. L. 100–628, title X, §§1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, 102 Stat. 3264, 3265, 3269, 3272; Dec. 15, 1989, Pub. L. 101–235, title I, §127, title VIII, §801(c), (g), 103 Stat. 2025, 2058, 2059; Nov. 28, 1990, Pub. L. 101–625, title II, §289(b), title IV, §413, title V, §§541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§603, 613(a), 104 Stat. 4128, 4160, 4216–4224, 4236, 4277, 4280; Oct. 28, 1991, Pub. L. 102–139, title II, 105 Stat. 756; Oct. 28, 1992, Pub. L. 102–550, title I, §§141–148, 185(a), title VI, §§623(b), 660, 674, 675, 682(b), title X, §1012(g), 106 Stat. 3713–3715, 3745, 3819, 3825, 3827, 3828, 3830, 3905; Apr. 11, 1994, Pub. L. 103–233, title I, §101(c)(2), (3), (d), 108 Stat. 357; Sept. 28, 1994, Pub. L. 103–327, title II, 108 Stat. 2315; July 27, 1995, Pub. L. 104–19, title I, §1003, 109 Stat. 236; Jan. 26, 1996, Pub. L. 104–99, title IV, §§402(d)(2), (3), (6)(A)(iii), (iv), 405(c), 110 Stat. 41, 42, 44; Apr. 26, 1996, Pub. L. 104–134, title I, §101(e) \[title II, §§203(a)–(c), 208\], 110 Stat. 1321–257, 1321–281, 1321–284; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327; Aug. 22, 1996, Pub. L. 104–193, title IX, §903(a)(2), 110 Stat. 2348; Sept. 26, 1996, Pub. L. 104–204, title II, §201(g), 110 Stat. 2893.)
+&emsp;If an assistance contract under this section, other than a contract for tenant-based assistance, is terminated or is not renewed, or if the contract expires, the Secretary shall, in order to provide continued assistance to eligible families, including eligible families receiving the benefit of the project-based assistance at the time of the termination, transfer any budget authority remaining in the contract to another contract. The transfer shall be under such terms as the Secretary may prescribe.
+
+#### (2) Reuse and rescission of certain recaptured budget authority
+
+&emsp;Notwithstanding paragraph (1), if a project-based assistance contract for an eligible multifamily housing project subject to actions authorized under this subchapter is terminated or amended as part of restructuring under section 517 of the Multifamily Assisted Housing Reform and Affordability Act of 1997, the Secretary shall recapture the budget authority not required for the terminated or amended contract and use such amounts as are necessary to provide housing assistance for the same number of families covered by such contract for the remaining term of such contract, under a contract providing for project-based or tenant-based assistance. The amount of budget authority saved as a result of the shift to project-based or tenant-based assistance shall be rescinded.
+
+(Sept. 1, 1937, ch. 896, title I, §8, as added Aug. 22, 1974, Pub. L. 93–383, title II, §201(a), 88 Stat. 662; amended Aug. 3, 1976, Pub. L. 94–375, §2(d), (e), (g), 90 Stat. 1068; Apr. 30, 1977, Pub. L. 95–24, title I, §101(c), 91 Stat. 55; Oct. 12, 1977, Pub. L. 95–128, title II, §201(c)–(e), 91 Stat. 1128; Oct. 31, 1978, Pub. L. 95–557, title II, §206(d)(1), (e), (f), 92 Stat. 2091, 2092; Dec. 21, 1979, Pub. L. 96–153, title II,§§202(b), 206(b), 210, 211(b), 93 Stat. 1106, 1108–1110; Oct. 8, 1980, Pub. L. 96–399, title II, §203, title III, §308(c)(3), 94 Stat. 1629, 1641; Aug. 13, 1981, Pub. L. 97–35, title III, §§322(e), 324–326(a), (e)(1), 329H(a), 95 Stat. 402, 405–407, 410; Nov. 30, 1983, Pub. L. 98–181, title II, §§203(b)(1), (2), 207–209(a), 210, 211, 97 Stat. 1178, 1181–1183; Oct. 17, 1984, Pub. L. 98–479, title I, §102(b)(6)–(10), 98 Stat. 2221, 2222; Feb. 5, 1988, Pub. L. 100–242, title I, §§141–149, title II, §262, 101 Stat. 1849–1853, 1890; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; Nov. 7, 1988, Pub. L. 100–628, title X, §§1004(a), 1005(b)(1), (c), 1006, 1014(b), (c), 1029, 102 Stat. 3264, 3265, 3269, 3272; Dec. 15, 1989, Pub. L. 101–235, title I, §127, title VIII, §801(c), (g), 103 Stat. 2025, 2058, 2059; Nov. 28, 1990, Pub. L. 101–625, title II, §289(b), title IV, §413, title V, §§541–545(a), 545(2)\[(b)\], 546–549, 550(a), (c), 551–553, 572, title VI, §§603, 613(a), 104 Stat. 4128, 4160, 4216–4224, 4236, 4277, 4280; Oct. 28, 1991, Pub. L. 102–139, title II, 105 Stat. 756; Oct. 28, 1992, Pub. L. 102–550, title I, §§141–148, 185(a), title VI, §§623(b), 660, 674, 675, 682(b), title X, §1012(g), 106 Stat. 3713–3715, 3745, 3819, 3825, 3827, 3828, 3830, 3905; Apr. 11, 1994, Pub. L. 103–233, title I, §101(c)(2), (3), (d), 108 Stat. 357; Sept. 28, 1994, Pub. L. 103–327, title II, 108 Stat. 2315; July 27, 1995, Pub. L. 104–19, title I, §1003, 109 Stat. 236; Jan. 26, 1996, Pub. L. 104–99, title IV, §§402(d)(2), (3), (6)(A)(iii), (iv), 405(c), 110 Stat. 41, 42, 44; Apr. 26, 1996, Pub. L. 104–134, title I, §101(e) \[title II, §§203(a)–(c), 208\], 110 Stat. 1321–257, 1321–281, 1321–284; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327; Aug. 22, 1996, Pub. L. 104–193, title IX, §903(a)(2), 110 Stat. 2348; Sept. 26, 1996, Pub. L. 104–204, title II, §201(g), 110 Stat. 2893; June 12, 1997, Pub. L. 105–18, title II, §10002, 111 Stat. 201; Aug. 5, 1997, Pub. L. 105–33, title II, §§2003, 2004, 111 Stat. 257; Oct. 27, 1997, Pub. L. 105–65, title II, §§201(c), 205, title V, §523(a), (c), 111 Stat. 1364, 1365, 1406, 1407.)
 
 #### Amendment of Section
 
@@ -448,6 +458,8 @@ The penultimate sentence of subparagraph (A), referred to in subsec. (d)(2)(C), 
 
 The Housing and Community Development Act of 1992, referred to in subsec. (d)(2)(G), (H), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of this title. Subtitle D of title VI of the Act is classified principally to subchapter II (§13611 et seq.) of chapter 135 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of this title and Tables.
 
+Sections 514 and 517 of the Multifamily Assisted Housing Reform and Affordability Act of 1997, referred to in subsecs. (d)(5) and (bb)(2), are sections 514 and 517 of Pub. L. 105–65, and are set out as a note under this section.
+
 The Social Security Act, referred to in subsec. (k), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Food Stamp Act of 1977, referred to in subsec. (k), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under 2011 of Title 7 and Tables.
@@ -462,7 +474,7 @@ The Homeownership and Opportunity Through HOPE Act, referred to in subsec. (y)(5
 
 The Housing and Community Development Act of 1987, referred to in subsec. (y)(5), is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815, as amended. Title II of the Act, also known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, is classified principally to chapter 42 (§4101 et seq.) of Title 12. For complete classification of title II to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
-The National Housing Act, referred to in subsec. (y)(7), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (y)(7), is act June 27, 1934, ch. 847, 48 Stat. 1246, asamended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 Section 1012 of the Stewart B. McKinney Homeless Assistance Amendments Act of 1988, referred to in subsec. (aa)(2)(B), is section 1012 of Pub. L. 100–628, which is set out below.
 
@@ -475,6 +487,16 @@ Section 203(a) of Pub. L. 100–242, as amended, which was formerly set out in a
 A prior section 8 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized promulgation of rules and regulations by the Authority and was classified to section 1408 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
+
+1997—Subsec. (c)(2)(A). Pub. L. 105–65, §§201(c), 205, substituted “fiscal years 1997 and 1998” for “fiscal year 1997” in third and sixth sentences and inserted at end “In establishing annual adjustment factors for units in new construction and substantial rehabilitation projects, the Secretary shall take into account the fact that debt service is a fixed expense. The immediately foregoing sentence shall be effective only during fiscal year 1998.”
+
+Pub. L. 105–33, §§2003, 2004, inserted “, and during fiscal year 1999 and thereafter” before period at end of third and sixth sentences.
+
+Subsec. (c)(9). Pub. L. 105–18, which directed substitution of “Not less than 180 days prior to terminating any contract” for “Not less than one year prior to terminating any contract”, was executed by making the substitution for “Not less than 1 year prior to terminating any contract” to reflect the probable intent of Congress.
+
+Subsec. (d)(5). Pub. L. 105–65, §523(a), added par. (5).
+
+Subsec. (bb). Pub. L. 105–65, §523(c), inserted heading, designated existing provisions as par. (1) and former subsec. heading as par. (1) heading, and added par. (2).
 
 1996—Subsec. (c)(2)(A). Pub. L. 104–204 inserted “, fiscal year 1996 prior to April 26, 1996, and fiscal year 1997” after “fiscal year 1995” in two places, substituted “Except for assistance under the certificate program, for” for “For”, inserted after fourth sentence “In the case of assistance under the certificate program, 0.01 shall be subtracted from the amount of the annual adjustment factor (except that the factor shall not be reduced to less than 1.0), and the adjusted rent shall not exceed the rent for a comparable unassisted unit of similar quality, type, and age in the market area.”, and substituted “The immediately foregoing two sentences” for “The immediately foregoing sentence”.
 
@@ -492,7 +514,7 @@ Subsec. (d)(2)(A). Pub. L. 104–99, §402(d)(6)(A)(iii), (f), temporarily struc
 
 Subsec. (d)(2)(H). Pub. L. 104–99, §402(d)(6)(A)(iv), (f), temporarily substituted “An owner” for “Notwithstanding subsection (d)(1)(A)(i) of this section, an owner”. See Effective and Termination Dates of 1996 Amendments note below.
 
-Subsec. (<i>o</i>)(3)(B). Pub. L. 104–99, §402(d)(3), (f), temporarily amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In selecting families to be assisted, preference shall be given to families which, at the time they are seeking assistance, occupy substandard housing (including families that are homeless or living in a shelter for homeless families), are involuntarily displaced (including displacement because of disposition of a multifamily housing project under section 1701z–11 of title 12), or are paying more than 50 per centum of family income for rent. A public housing agency may provide for circumstances in which families who do not qualify for any preference established in the preceding sentence are provided assistance under this subsection before families who do qualify for such preference, except that not more than 10 percent (or such higher percentage determined by the Secretary to be necessary to ensure that public housing agencies can assist families in accordance with subsection (u)(2) of this section or determined by the Secretary to be appropriate for other good cause) of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this sentence) may be families who do not qualify for such preference. The public housing agency shall in implementing the preceding sentence establish a system of preferences in writing and after public hearing to respond to local housing needs and priorities which may include (i) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities, (ii) assisting families in accordance with subsection (u)(2) of this section; (iii) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification and his or her family; (iv) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; (v) assisting veterans who are eligible and have applied for assistance, will use the assistance for a dwelling unit designed for the handicapped, and, upon discharge or eligibility for discharge from a hospital or nursing home, have physical disability which, because of the configuration of their homes, prevents them from access to or use of their homes; and (vi) achieving other objectives of national housing policy as affirmed by Congress. Any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity (as defined in subsection (f)(5) of this section) shall not be eligible for a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist).” See Effective and Termination Dates of 1996 Amendments note below.
+Subsec. (<i>o</i>)(3)(B). Pub. L. 104–99, §402(d)(3), (f), temporarily amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In selecting families to be assisted, preference shall be given to families which, at the time they are seeking assistance, occupy substandard housing (including families that are homeless or living in a shelter for homeless families), are involuntarily displaced (including displacement because of disposition of a multifamily housing project under section 1701z–11 of title 12), or are paying more than 50 per centum of family income for rent. A public housing agency may provide for circumstances in which families who do not qualify for any preference established in the preceding sentence are provided assistance under this subsection before families who do qualify for such preference, except that not more than 10 percent (or such higher percentage determined by the Secretary to be necessary to ensure that public housing agencies can assist families in accordance with subsection (u)(2) of this section or determined by the Secretary to be appropriate for other good cause) of the families who initially receive assistance in any 1-year period (or such shorter period selected by the public housing agency before the beginning of its first full year subject to this sentence) may be families who do not qualify for such preference. The public housing agency shall in implementing the preceding sentence establish a system of preferences in writing and after public hearing to respond to local housing needs and priorities which may include (i) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities, (ii) assisting families in accordance with subsection (u)(2) of this section; (iii) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification and his or her family; (iv) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; (v) assisting veterans who are eligible and have applied for assistance, will use the assistance for a dwelling unit designed for the handicapped, and, upon discharge or eligibility for discharge from a hospital or nursing home, have physical disability which, because of the configuration of their homes, prevents them from access to or use of their homes; and (vi) achieving other objectives of national housing policy as affirmed by Congress. Any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity\(as defined in subsection (f)(5) of this section) shall not be eligible for a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist).” See Effective and Termination Dates of 1996 Amendments note below.
 
 Subsec. (t). Pub. L. 104–134, §101(e) \[title II, §203(a), (d)\], temporarily repealed subsec. (t) which read as follows:
 
@@ -516,7 +538,7 @@ Subsec. (bb). Pub. L. 104–134, §101\[(e)\] \[title II, §208\], added subsec.
 
 1995—Subsec. (z). Pub. L. 104–19 added subsec. (z).
 
-1994—Subsec. (c)(2)(A). Pub. L. 103–327 inserted at end: “However, where the maximum monthly rent, for a unit in a new construction, substantial rehabilitation, or moderate rehabilitation project, to be adjusted using an annual adjustment factor exceeds the fair market rental for an existing dwelling unit in the market area, the Secretary shall adjust the rent only to the extent that the owner demonstrates that the adjusted rent would not exceed the rent for an unassisted unit of similar quality, type, and age in the same market area, as determined by the Secretary. The immediately foregoing sentence shall be effective only during fiscal year 1995. For any unit occupied by the same family at the time of the last annual rental adjustment, where theassistance contract provides for the adjustment of the maximum monthly rent by applying an annual adjustment factor and where the rent for a unit is otherwise eligible for an adjustment based on the full amount of the factor, 0.01 shall be subtracted from the amount of the factor, except that the factor shall not be reduced to less than 1.0. The immediately foregoing sentence shall be effective only during fiscal year 1995.”
+1994—Subsec. (c)(2)(A). Pub. L. 103–327 inserted at end: “However, where the maximum monthly rent, for a unit in a new construction, substantial rehabilitation, or moderate rehabilitation project, to be adjusted using an annual adjustment factor exceeds the fair market rental for an existing dwelling unit in the market area, the Secretary shall adjust the rent only to the extent that the owner demonstrates that the adjusted rent would not exceed the rent for an unassisted unit of similar quality, type, and age in the same market area, as determined by the Secretary. The immediately foregoing sentence shall be effective only during fiscal year 1995. For any unit occupied by the same family at the time of the last annual rental adjustment, where the assistance contract provides for the adjustment of the maximum monthly rent by applying an annual adjustment factor and where the rent for a unit is otherwise eligible for an adjustment based on the full amount of the factor, 0.01 shall be subtracted from the amount of the factor, except that the factor shall not be reduced to less than 1.0. The immediately foregoing sentence shall be effective only during fiscal year 1995.”
 
 Subsec. (d)(1)(A)(i). Pub. L. 103–233, §101(c)(2), inserted “(including displacement because of disposition of a multifamily housing project under section 1701z–11 of title 12)” after “displaced”.
 
@@ -558,7 +580,7 @@ Subsec. (c)(9). Pub. L. 102–550, §143, inserted before period at end “, an
 
 Subsec. (d)(1)(A)(ii)(V), (VI). Pub. L. 102–550, §144(a), added subcl. (V) and redesignated former subcl. (V) as (VI).
 
-Subsec. (d)(1)(B)(iii). Pub. L. 102–550, §145, inserted “, any criminal activity that threatens the health, safety, or right to peaceful enjoyment of their residences by persons residing in the immediate vicinity of the premises,” before “or any drug-related” and substituted “tenant of any unit” for “public housing tenant”.
+Subsec. (d)(1)(B)(iii). Pub. L. 102–550, §145, inserted “, any criminal activity that threatens the health,safety, or right to peaceful enjoyment of their residences by persons residing in the immediate vicinity of the premises,” before “or any drug-related” and substituted “tenant of any unit” for “public housing tenant”.
 
 Subsec. (d)(2)(F). Pub. L. 102–550, §674, added subpar. (F).
 
@@ -648,7 +670,7 @@ Subsecs. (w), (x). Pub. L. 101–625, §§552(a), 553, added subsecs. (w) and (x
 
 1989—Subsec. (c)(2)(C). Pub. L. 101–235, §702(g), substituted “quality, type, and age” for “quality and age”.
 
-Pub. L. 101–235, §702(c), inserted after first sentence “In implementing the limitation established under the preceding sentence, the Secretary shall establish regulations for conducting comparability studies for projects where the Secretary has reason to believe that the application of the formula adjustments under subparagraph (A) would result in such material differences. The Secretary shall conduct such studies upon the request of any owner of any project, or as the Secretary determines to be appropriate by establishing, to the extent practicable, a modified annual adjustment factor for such market area, as the Secretary shall designate, that is geographically smaller than the applicable housing area used for the establishment of the annual adjustment factor under subparagraph (A). The Secretary shall establish such modified annual adjustment factor on the basis of the results of a study conducted by the Secretary of the rents charged, and any change in such rents over the previous year, for assisted units and unassisted units of similar quality, type, and age in the smaller market area. Where the Secretary determines that such modified annual adjustment factor cannot be established or that such factor when applied to a particular project would result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, the Secretary may apply an alternative methodology for conducting comparability studies in order to establish rents that are not materially different from rents charged for comparable unassisted units.”
+Pub. L. 101–235, §702(c), inserted after first sentence “In implementing the limitation established under the preceding sentence, the Secretary shall establish regulations for conducting comparability studies for projects where the Secretary has reason to believe that the application of the formula adjustments under subparagraph (A) would result in such material differences. The Secretary shall conduct such studies upon the request of any owner of any project, or as the Secretary determines to be appropriate by establishing,to the extent practicable, a modified annual adjustment factor for such market area, as the Secretary shall designate, that is geographically smaller than the applicable housing area used for the establishment of the annual adjustment factor under subparagraph (A). The Secretary shall establish such modified annual adjustment factor on the basis of the results of a study conducted by the Secretary of the rents charged, and any change in such rents over the previous year, for assisted units and unassisted units of similar quality, type, and age in the smaller market area. Where the Secretary determines that such modified annual adjustment factor cannot be established or that such factor when applied to a particular project would result in material differences between the rents charged for assisted units and unassisted units of similar quality, type, and age in the same market area, the Secretary may apply an alternative methodology for conducting comparability studies in order to establish rents that are not materially different from rents charged for comparable unassisted units.”
 
 Subsec. (e)(2). Pub. L. 101–235, §127(1), inserted before period at end of first sentence “, and which shall involve a minimum expenditure of $3,000 for a unit, including its prorated share of work to be accomplished on common areas or systems”.
 
@@ -664,7 +686,7 @@ Pub. L. 100–242, §142(c)(1), inserted at end “If units assisted under this 
 
 Subsec. (c)(2)(C). Pub. L. 100–628, §1004(a)(1), substituted “under subparagraphs (A) and (B)” for “as hereinbefore provided”.
 
-Pub. L. 100–628, §1004(a)(2), inserted at end “Any maximum monthly rent that has been reduced by the Secretary after April 14, 1987, and prior to November 7, 1988, shall be restored to the maximum monthly rent ineffect on April 15, 1987. For any project which has had its maximum monthly rents reduced after April 14, 1987, the Secretary shall make assistance payments (from amounts reserved for the original contract) to the owner of such project in an amount equal to the difference between the maximum monthly rents in effect on April 15, 1987, and the reduced maximum monthly rents, multiplied by the number of months that the reduced maximum monthly rents were in effect.”
+Pub. L. 100–628, §1004(a)(2), inserted at end “Any maximum monthly rent that has been reduced by the Secretary after April 14, 1987, and prior to November 7, 1988, shall be restored to the maximum monthly rent in effect on April 15, 1987. For any project which has had its maximum monthly rents reduced after April 14, 1987, the Secretary shall make assistance payments (from amounts reserved for the original contract) to the owner of such project in an amount equal to the difference between the maximum monthly rents in effect on April 15, 1987, and the reduced maximum monthly rents, multiplied by the number of months that the reduced maximum monthly rents were in effect.”
 
 Pub. L. 100–242, §142(c)(2), substituted “assisted units and unassisted units of similar quality and age in the same market area” for “assisted and comparable unassisted units” and inserted at end “If the Secretary or appropriate State agency does not complete and submit to the project owner a comparability study not later than 60 days before the anniversary date of the assistance contract under this section, the automatic annual adjustment factor shall be applied.”
 
@@ -770,7 +792,7 @@ Subsec. (j)(3). Pub. L. 97–35, §322(e)(6), substituted in par. (3) “the ren
 
 Subsecs. (<i>l</i>) to (n). Pub. L. 97–35, §324(3), added subsecs. (<i>l</i>) to (n).
 
-1980—Subsec. (c)(1). Pub. L. 96–399, §203(a), inserted provision that in the case of newly constructed and substantially rehabilitated units, the exception in the preceding sentence shall not apply to more than 20 per centum of the total amount of authority to enter into annual contributions contracts for such units which is allocated to an area and obligated with respect to any fiscal year beginning on or after Oct. 1, 1980.
+1980—Subsec. (c)(1). Pub. L. 96–399, §203(a), inserted provision that in the case of newly constructed andsubstantially rehabilitated units, the exception in the preceding sentence shall not apply to more than 20 per centum of the total amount of authority to enter into annual contributions contracts for such units which is allocated to an area and obligated with respect to any fiscal year beginning on or after Oct. 1, 1980.
 
 Subsec. (e)(5). Pub. L. 96–399, §203(b), inserted provision relating to the authority of the Secretary, notwithstanding subsec. (c)(1) of this section, to establish monthly rent exceeding fair market rental where cost levels so require or where necessary to the implementation of a local housing assistance plan.
 
@@ -808,9 +830,9 @@ Subsec. (f)(6). Pub. L. 94–375, §2(e), added par. (6).
 
 #### Effective and Termination Dates of 1996 Amendments
 
-Section 101(e) \[title II, §203(d)\] of Pub. L. 104–134, as amended by Pub. L. 104–204, title II, §201(e), Sept. 26, 1996, 110 Stat. 2893, provided that: “The provisions of this section \[amending this section\] shall be effective for fiscal years 1996 and 1997 only.”
+Section 101(e) \[title II, §203(d)\] of Pub. L. 104–134, as amended by Pub. L. 104–204, title II, §201(e), Sept. 26, 1996, 110 Stat. 2893; Pub. L. 105–65, title II, §201(b), Oct. 27, 1997, 111 Stat. 1364, provided that: “The provisions of this section \[amending this section\] shall be effective for fiscal years 1996, 1997, and 1998 only.”
 
-Amendment by section 402(d)(2), (3), (6)(A)(iii), (iv) of Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996 and 1997, see section 402(f) of Pub. L. 104–99, as amended, set out as a note under section 1437a of this title.
+Amendment by section 402(d)(2), (3), (6)(A)(iii), (iv) of Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996, 1997, and 1998, see section 402(f) of Pub. L. 104–99, as amended, set out as a note under section 1437a of this title.
 
 #### Effective and Termination Dates of 1994 Amendment
 
@@ -868,13 +890,1009 @@ Section 149 of Pub. L. 102–550 provided that: “The Secretary of Housing and 
 
 Section 151 of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any final regulations necessary to carry out the provisions of section 555 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625\] (42 U.S.C. 1437f note) not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. The regulations shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section) and shall take effect upon the expiration of the 30-day period beginning upon issuance.”
 
+#### Multifamily Housing Assistance
+
+Subtitles A (§§511–524) and D (§§571–579) of title V of Pub. L. 105–65 provided that:
+
+#### “subtitle a—fha-insured multifamily housing mortgage and housing assistance restructuring
+
+#### “SEC. 511. FINDINGS AND PURPOSES.
+
+“(a)
+
+Findings.—Congress finds that—
+
+&emsp;“(1) there exists throughout the Nation a need for decent, safe, and affordable housing;
+
+&emsp;“(2) as of the date of enactment of this Act \[Oct. 27, 1997\], it is estimated that—
+
+&emsp;&emsp;“(A) the insured multifamily housing portfolio of the Federal Housing Administration consists of 14,000 rental properties, with an aggregate unpaid principal mortgage balance of $38,000,000,000; and
+
+&emsp;&emsp;“(B) approximately 10,000 of these properties contain housing units that are assisted with project-based rental assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\];
+
+&emsp;“(3) FHA-insured multifamily rental properties are a major Federal investment, providing affordable rental housing to an estimated 2,000,000 low- and very low-income families;
+
+&emsp;“(4) approximately 1,600,000 of these families live in dwelling units that are assisted with project-based rental assistance under section 8 of the United States Housing Act of 1937;
+
+&emsp;“(5) a substantial number of housing units receiving project-based assistance have rents that are higher than the rents of comparable, unassisted rental units in the same housing rental market;
+
+&emsp;“(6) many of the contracts for project-based assistance will expire during the several years following the date of enactment of this Act;
+
+&emsp;“(7) it is estimated that—
+
+&emsp;&emsp;“(A) if no changes in the terms and conditions of the contracts for project-based assistance are made before fiscal year 2000, the cost of renewing all expiring rental assistance contracts under section 8 of the United States Housing Act of 1937 for both project-based and tenant-based rental assistance will increase from approximately $3,600,000,000 in fiscal year 1997 to over $14,300,000,000 by fiscal year 2000 and some $22,400,000,000 in fiscal year 2006;
+
+&emsp;&emsp;“(B) of those renewal amounts, the cost of renewing project-based assistance will increase from $1,200,000,000 in fiscal year 1997 to almost $7,400,000,000 by fiscal year 2006; and
+
+&emsp;&emsp;“(C) without changes in the manner in which project-based rental assistance is provided, renewals of expiring contracts for project-based rental assistance will require an increasingly larger portion of the discretionary budget authority of the Department of Housing and Urban Development in each subsequent fiscal year for the foreseeable future;
+
+&emsp;“(8) absent new budget authority for the renewal of expiring rental contracts for project-based assistance, many of the FHA-insured multifamily housing projects that are assisted with project-based assistance are likely to default on their FHA-insured mortgage payments, resulting in substantial claims to the FHA General Insurance Fund and Special Risk Insurance Fund;
+
+&emsp;“(9) more than 15 percent of federally assisted multifamily housing projects are physically or financially distressed, including a number which suffer from mismanagement;
+
+&emsp;“(10) due to Federal budget constraints, the downsizing of the Department of Housing and Urban Development, and diminished administrative capacity, the Department lacks the ability to ensure the continued economic and physical well-being of the stock of federally insured and assisted multifamily housing projects;
+
+&emsp;“(11) the economic, physical, and management problems facing the stock of federally insured and assisted multifamily housing projects will be best served by reforms that—
+
+&emsp;&emsp;“(A) reduce the cost of Federal rental assistance, including project-based assistance, to these projects by reducing the debt service and operating costs of these projects while retaining the low-income affordability and availability of this housing;
+
+&emsp;&emsp;“(B) address physical and economic distress of this housing and the failure of some project managers and owners of projects to comply with management and ownership rules and requirements; and
+
+&emsp;&emsp;“(C) transfer and share many of the loan and contract administration functions and responsibilitiesof the Secretary to and with capable State, local, and other entities; and
+
+&emsp;“(12) the authority and duties of the Secretary, not including the control by the Secretary of applicable accounts in the Treasury of the United States, may be delegated to State, local or other entities at the discretion of the Secretary, to the extent the Secretary determines, and for the purpose of carrying out this Act \[probably means title V of Pub. L. 105–65, see Short Title of 1997 Amendment note set out under section 1701 of Title 12, Banks and Banking\], so that the Secretary has the discretion to be relieved of processing and approving any document or action required by these reforms.
+
+“(b)
+
+Purposes.—Consistent with the purposes and requirements of the Government Performance and Results Act of 1993 \[Pub. L. 103–62, see Short Title of 1993 Amendment note set out under section 1101 of Title 31, Money and Finance\], the purposes of this subtitle are—
+
+&emsp;“(1) to preserve low-income rental housing affordability and availability while reducing the long-term costs of project-based assistance;
+
+&emsp;“(2) to reform the design and operation of Federal rental housing assistance programs, administered by the Secretary, to promote greater multifamily housing project operating and cost efficiencies;
+
+&emsp;“(3) to encourage owners of eligible multifamily housing projects to restructure their FHA-insured mortgages and project-based assistance contracts in a manner that is consistent with this subtitle before the year in which the contract expires;
+
+&emsp;“(4) to reduce the cost of insurance claims under the National Housing Act \[12 U.S.C. 1701 et seq.\] related to mortgages insured by the Secretary and used to finance eligible multifamily housing projects;
+
+&emsp;“(5) to streamline and improve federally insured and assisted multifamily housing project oversight and administration;
+
+&emsp;“(6) to resolve the problems affecting financially and physically troubled federally insured and assisted multifamily housing projects through cooperation with residents, owners, State and local governments, and other interested entities and individuals;
+
+&emsp;“(7) to protect the interest of project owners and managers, because they are partners of the Federal Government in meeting the affordable housing needs of the Nation through the section 8 rental housing assistance program;
+
+&emsp;“(8) to protect the interest of tenants residing in the multifamily housing projects at the time of the restructuring for the housing; and
+
+&emsp;“(9) to grant additional enforcement tools to use against those who violate agreements and program requirements, in order to ensure that the public interest is safeguarded and that Federal multifamily housing programs serve their intended purposes.
+
+#### “SEC. 512. DEFINITIONS.
+
+“In this subtitle:
+
+&emsp;“(1)
+
+Comparable properties.—The term ‘comparable properties’ means properties in the same market areas, where practicable, that—
+
+&emsp;&emsp;“(A) are similar to the eligible multifamily housing project as to neighborhood (including risk of crime), type of location, access, street appeal, age, property size, apartment mix, physical configuration, property and unit amenities, utilities, and other relevant characteristics; and
+
+&emsp;&emsp;“(B) are not receiving project-based assistance.
+
+&emsp;“(2)
+
+Eligible multifamily housing project.—The term ‘eligible multifamily housing project’ means a property consisting of more than 4 dwelling units—
+
+&emsp;&emsp;“(A) with rents that, on an average per unit or per room basis, exceed the rent of comparable properties in the same market area, determined in accordance with guidelines established by the Secretary;
+
+&emsp;&emsp;“(B) that is covered in whole or in part by a contract for project-based assistance under—
+
+&emsp;&emsp;&emsp;“(i) the new construction or substantial rehabilitation program under section 8(b)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(b)(2)\] (as in effect before October 1, 1983);
+
+&emsp;&emsp;&emsp;“(ii) the property disposition program under section 8(b) of the United States Housing Act of 1937;
+
+&emsp;&emsp;&emsp;“(iii) the moderate rehabilitation program under section 8(e)(2) of the United States Housing Act of 1937;
+
+&emsp;&emsp;&emsp;“(iv) the loan management assistance program under section 8 of the United States Housing Act of 1937;
+
+&emsp;&emsp;&emsp;“(v) section 23 of the United States Housing Act of 1937 \[42 U.S.C. 1437u\] (as in effect before January 1, 1975);
+
+&emsp;&emsp;&emsp;“(vi) the rent supplement program under section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\]; or
+
+&emsp;&emsp;&emsp;“(vii) section 8 of the United States Housing Act of 1937, following conversion from assistance under section 101 of the Housing and Urban Development Act of 1965; and
+
+&emsp;&emsp;“(C) financed by a mortgage insured or held by the Secretary under the National Housing Act \[12 U.S.C. 1701 et seq.\].
+
+&emsp;“(3)
+
+Expiring contract.—The term ‘expiring contract’ means a project-based assistance contract attached to an eligible multifamily housing project which, under the terms of the contract, will expire.
+
+&emsp;“(4)
+
+Expiration date.—The term ‘expiration date’ means the date on which an expiring contract expires.
+
+&emsp;“(5)
+
+Fair market rent.—The term ‘fair market rent’ means the fair market rental established under section 8(c) of the United States Housing Act of 1937.
+
+&emsp;“(6)
+
+Low-income families.—The term ‘low-income families’ has the same meaning as provided under section 3(b)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(2)\].
+
+&emsp;“(7)
+
+Mortgage restructuring and rental assistance sufficiency plan.—The term ‘mortgage restructuring and rental assistance sufficiency plan’ means the plan as provided under section 514.
+
+&emsp;“(8)
+
+Nonprofit organization.—The term ‘nonprofit organization’ means any private nonprofit organization that—
+
+&emsp;&emsp;“(A) is organized under State or local laws;
+
+&emsp;&emsp;“(B) has no part of its net earnings inuring to the benefit of any member, founder, contributor, or individual; and
+
+&emsp;&emsp;“(C) has a long-term record of service in providing or financing quality affordable housing for low-income families through relationships with public entities.
+
+&emsp;“(9)
+
+Portfolio restructuring agreement.—The term ‘portfolio restructuring agreement’ means the agreement entered into between the Secretary and a participating administrative entity, as provided under section 513.
+
+&emsp;“(10)
+
+Participating administrative entity.—The term ‘participating administrative entity’ means a public agency (including a State housing finance agency or a local housing agency), a nonprofit organization, or any other entity (including a law firm or an accounting firm) or a combination of such entities, that meets the requirements under section 513(b).
+
+&emsp;“(11)
+
+Project-based assistance.—The term ‘project-based assistance’ means rental assistance described in paragraph (2)(B) of this section that is attached to a multifamily housing project.
+
+&emsp;“(12)
+
+Renewal.—The term ‘renewal’ means the replacement of an expiring Federal rental contract with a new contract under section 8 of the United States Housing Act of 1937, consistent with the requirements of this subtitle.
+
+&emsp;“(13)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Housing and Urban Development.
+
+&emsp;“(14)
+
+State.—The term ‘State’ has the same meaning as in section 104 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12704\].
+
+&emsp;“(15)
+
+Tenant-based assistance.—The term ‘tenant-based assistance’ has the same meaning as in section 8(f) of the United States Housing Act of 1937.
+
+&emsp;“(16)
+
+Unit of general local government.—The term ‘unit of general local government’ has the same meaning as in section 104 of the Cranston-Gonzalez National Affordable Housing Act.
+
+&emsp;“(17)
+
+Very low-income family.—The term ‘very low-income family’ has the same meaning as in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\].
+
+&emsp;“(18)
+
+Qualified mortgagee.—The term ‘qualified mortgagee’ means an entity approved by the Secretary that is capable of servicing, as well as originating, FHA-insured mortgages, and that—
+
+&emsp;&emsp;“(A) is not suspended or debarred by the Secretary;
+
+&emsp;&emsp;“(B) is not suspended or on probation imposed by the Mortgagee Review Board; and
+
+&emsp;&emsp;“(C) is not in default under any Government National Mortgage Association obligation.
+
+#### “SEC. 513. AUTHORITY OF PARTICIPATING ADMINISTRATIVE ENTITIES.
+
+“(a)
+
+Participating Administrative Entities.—
+
+&emsp;“(1)
+
+In general.—Subject to subsection (b)(3), the Secretary shall enter into portfolio restructuring agreements with participating administrative entities for the implementation of mortgage restructuring and rental assistance sufficiency plans to restructure multifamily housing mortgages insured or held by the Secretary under the National Housing Act \[12 U.S.C. 1701 et seq.\], in order to—
+
+&emsp;&emsp;“(A) reduce the costs of expiring contracts for assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\];
+
+&emsp;&emsp;“(B) address financially and physically troubled projects; and
+
+&emsp;&emsp;“(C) correct management and ownership deficiencies.
+
+&emsp;“(2)
+
+Portfolio restructuring agreements.—Each portfolio restructuring agreement entered into under this subsection shall—
+
+&emsp;&emsp;“(A) be a cooperative agreement to establish the obligations and requirements between the Secretary and the participating administrative entity;
+
+&emsp;&emsp;“(B) identify the eligible multifamily housing projects or groups of projects for which the participating administrative entity is responsible for assisting in developing and implementing approved mortgage restructuring and rental assistance sufficiency plans under section 514;
+
+&emsp;&emsp;“(C) require the participating administrative entity to review and certify to the accuracy and completeness of the evaluation of rehabilitation needs required under section 514(e)(3) for each eligible multifamily housing project included in the portfolio restructuring agreement, in accordance with regulations promulgated by the Secretary;
+
+&emsp;&emsp;“(D) identify the responsibilities of both the participating administrative entity and the Secretary in implementing a mortgage restructuring and rental assistance sufficiency plan, including any actions proposed to be taken under section 516 or 517;
+
+&emsp;&emsp;“(E) require each mortgage restructuring and rental assistance sufficiency plan to be prepared in accordance with the requirements of section 514 for each eligible multifamily housing project;
+
+&emsp;&emsp;“(F) include other requirements established by the Secretary, including a right of the Secretary to terminate the contract immediately for failure of the participating administrative entity to comply with any applicable requirement;
+
+&emsp;&emsp;“(G) if the participating administrative entity is a State housing finance agency or a local housing agency, indemnify the participating administrative entity against lawsuits and penalties for actions taken pursuant to the agreement, excluding actions involving willful misconduct or negligence;
+
+&emsp;&emsp;“(H) include compensation for all reasonable expenses incurred by the participating administrative entity necessary to perform its duties under this subtitle; and
+
+&emsp;&emsp;“(I) include, where appropriate, incentive agreements with the participating administrative entity to reward superior performance in meeting the purposes of this Act.
+
+“(b)
+
+Selection of Participating Administrative Entity.—
+
+&emsp;“(1)
+
+Selection criteria.—The Secretary shall select a participating administrative entity based on whether, in the determination of the Secretary, the participating administrative entity—
+
+&emsp;&emsp;“(A) has demonstrated experience in working directly with residents of low-income housing projects and with tenants and other community-based organizations;
+
+&emsp;&emsp;“(B) has demonstrated experience with and capacity for multifamily restructuring and multifamily financing (which may include risk-sharing arrangements and restructuring eligible multifamily housing properties under the fiscal year 1997 Federal Housing Administration multifamily housing demonstration program);
+
+&emsp;&emsp;“(C) has a history of stable, financially sound, and responsible administrative performance (which may include the management of affordable low-income rental housing);
+
+&emsp;&emsp;“(D) has demonstrated financial strength in terms of asset quality, capital adequacy, and liquidity;
+
+&emsp;&emsp;“(E) has demonstrated that it will carry out the specific transactions and other responsibilities under this subtitle in a timely, efficient, and cost-effective manner; and
+
+&emsp;&emsp;“(F) meets other criteria, as determined by the Secretary.
+
+&emsp;“(2)
+
+Selection.—If more than 1 interested entity meets the qualifications and selection criteria for a participating administrative entity, the Secretary may select the entity that demonstrates, as determined by the Secretary, that it will—
+
+&emsp;&emsp;“(A) provide the most timely, efficient, and cost-effective—
+
+&emsp;&emsp;&emsp;“(i) restructuring of the mortgages covered by the portfolio restructuring agreement; and
+
+&emsp;&emsp;&emsp;“(ii) administration of the section 8 project-based assistance contract, if applicable; and
+
+&emsp;&emsp;“(B) protect the public interest (including the long-term provision of decent low-income affordable rental housing and protection of residents, communities, and the American taxpayer).
+
+&emsp;“(3)
+
+Partnerships.—For the purposes of any participating administrative entity applying under this subsection, participating administrative entities are encouraged to develop partnerships with each other and with nonprofit organizations, if such partnerships will further the participating administrative entity's ability to meet the purposes of this Act.
+
+&emsp;“(4)
+
+Alternative administrators.—With respect to any eligible multifamily housing project for which a participating administrative entity is unavailable, or should not be selected to carry out the requirements of this subtitle with respect to that multifamily housing project for reasons relating to the selection criteria under paragraph (1), the Secretary shall—
+
+&emsp;&emsp;“(A) carry out the requirements of this subtitle with respect to that eligible multifamily housing project; or
+
+&emsp;&emsp;“(B) contract with other qualified entities that meet the requirements of paragraph (1) to provide the authority to carry out all or a portion of the requirements of this subtitle with respect to that eligible multifamily housing project.
+
+&emsp;“(5)
+
+Priority for public agencies as participating administrative entities.—The Secretary shall provide a reasonable period during which the Secretary will consider proposals only from State housing finance agencies or local housing agencies, and the Secretary shall select such an agency without considering other applicants if the Secretary determines that the agency is qualified. The period shall be of sufficient duration for the Secretary to determine whether any State housing finance agencies or local housing agencies are interested and qualified. Not later than the end of the period, the Secretary shall notify the State housing finance agency or the local housing agency regarding the status of the proposal and, if the proposal is rejected, the reasons for the rejection and an opportunity for the applicant to respond.
+
+&emsp;“(6)
+
+State and local portfolio requirements.—
+
+&emsp;&emsp;“(A)
+
+In general.—If the housing finance agency of a State is selected as the participating administrative entity, that agency shall be responsible for such eligible multifamily housing projects in that State as may be agreed upon by the participating administrative entity and the Secretary. If a local housing agency is selected as the participating administrative entity, that agency shall be responsible for such eligible multifamily housing projects in the jurisdiction of the agency as may be agreed upon by the participating administrative entity and the Secretary.
+
+&emsp;&emsp;“(B)
+
+Nondelegation.—Except with the prior approval of the Secretary, a participating administrative entity may not delegate or transfer responsibilities and functions under this subtitle to 1 or more entities.
+
+&emsp;“(7)
+
+Private entity requirements.—
+
+&emsp;&emsp;“(A)
+
+In general.—If a for-profit entity is selected as the participating administrative entity, that entity shall be required to enter into a partnership with a public purpose entity (including the Department).
+
+&emsp;&emsp;“(B)
+
+Prohibition.—No private entity shall share, participate in, or otherwise benefit from any equity created, received, or restructured as a result of the portfolio restructuring agreement.
+
+#### “SEC. 514. MORTGAGE RESTRUCTURING AND RENTAL ASSISTANCE SUFFICIENCY PLAN.
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Development of procedures and requirements.—The Secretary shall develop procedures and requirements for the submission of a mortgage restructuring and rental assistance sufficiency plan for each eligible multifamily housing project with an expiring contract.
+
+&emsp;“(2)
+
+Terms and conditions.—Each mortgage restructuring and rental assistance sufficiency plan submitted under this subsection shall be developed by the participating administrative entity, in cooperation with an owner of an eligible multifamily housing project and any servicer for the mortgage that is a qualified mortgagee, under such terms and conditions as the Secretary shall require.
+
+&emsp;“(3)
+
+Consolidation.—Mortgage restructuring and rental assistance sufficiency plans submitted under this subsection may be consolidated as part of an overall strategy for more than 1 property.
+
+“(b)
+
+Notice Requirements.—The Secretary shall establish notice procedures and hearing requirements for tenants and owners concerning the dates for the expiration of project-based assistance contracts for any eligible multifamily housing project.
+
+“(c)
+
+Extension of Contract Term.—Subject to agreement by a project owner, the Secretary may extend the term of any expiring contract or provide a section 8 contract with rent levels set in accordance with subsection (g) for a period sufficient to facilitate the implementation of a mortgage restructuring and rental assistance sufficiency plan, as determined by the Secretary.
+
+“(d)
+
+Tenant Rent Protection.—If the owner of a project with an expiring Federal rental assistance contract does not agree to extend the contract, not less than 12 months prior to terminating the contract, the project owner shall provide written notice to the Secretary and the tenants and the Secretary shall make tenant-based assistance available to tenants residing in units assisted under the expiring contract at the time of expiration.
+
+“(e)
+
+Mortgage Restructuring and Rental Assistance Sufficiency Plan.—Each mortgage restructuring and rental assistance sufficiency plan shall—
+
+&emsp;“(1) except as otherwise provided, restructure the project-based assistance rents for the eligible multifamily housing project in a manner consistent with subsection (g), or provide for tenant-based assistance in accordance with section 515;
+
+&emsp;“(2) allow for rent adjustments by applying an operating cost adjustment factor established under guidelines established by the Secretary;
+
+&emsp;“(3) require the owner or purchaser of an eligible multifamily housing project to evaluate the rehabilitation needs of the project, in accordance with regulations of the Secretary, and notify the participating administrative entity of the rehabilitation needs;
+
+&emsp;“(4) require the owner or purchaser of the project to provide or contract for competent management of the project;
+
+&emsp;“(5) require the owner or purchaser of the project to take such actions as may be necessary to rehabilitate, maintain adequate reserves, and to maintain the project in decent and safe condition, based on housing quality standards established by—
+
+&emsp;&emsp;“(A) the Secretary; or
+
+&emsp;&emsp;“(B) local housing codes or codes adopted by public housing agencies that—
+
+&emsp;&emsp;&emsp;“(i) meet or exceed housing quality standards established by the Secretary; and
+
+&emsp;&emsp;&emsp;“(ii) do not severely restrict housing choice;
+
+&emsp;“(6) require the owner or purchaser of the project to maintain affordability and use restrictions in accordance with regulations promulgated by the Secretary, for a term of not less than 30 years which restrictions shall be—
+
+&emsp;&emsp;“(A) contained in a legally enforceable document recorded in the appropriate records; and
+
+&emsp;&emsp;“(B) consistent with the long-term physical and financial viability and character of the project as affordable housing;
+
+&emsp;“(7) include a certification by the participating administrative entity that the restructuring meets subsidy layering requirements established by the Secretary by regulation for purposes of this subtitle;
+
+&emsp;“(8) require the owner or purchaser of the project to meet such other requirements as the Secretary determines to be appropriate; and
+
+&emsp;“(9) prohibit the owner from refusing to lease a reasonable number of units to holders of certificates and vouchers under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] because of the status of the prospective tenants as certificate and voucher holders.
+
+“(f)
+
+Tenant and Other Participation and Capacity Building.—
+
+&emsp;“(1)
+
+Procedures.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary shall establish procedures to provide an opportunity for tenants of the project, residents of the neighborhood, the local government, and other affected parties to participate effectively and on a timely basis in the restructuring process established by this subtitle.
+
+&emsp;&emsp;“(B)
+
+Coverage.—These procedures shall take into account the need to provide tenants of the project, residents of the neighborhood, the local government, and other affected parties timely notice of proposed restructuring actions and appropriate access to relevant information about restructuring activities. To the extent practicable and consistent with the need to accomplish project restructuring in an efficient manner, the procedures shall give all such parties an opportunity to provide comments to the participating administrative entity in writing, in meetings, or in another appropriate manner (which comments shall be taken into consideration by the participating administrative entity).
+
+&emsp;“(2)
+
+Required consultation.—The procedures developed pursuant to paragraph (1) shall require consultation with tenants of the project, residents of the neighborhood, the local government, and other affected parties, in connection with at least the following:
+
+&emsp;&emsp;“(A) the mortgage restructuring and rental assistance sufficiency plan;
+
+&emsp;&emsp;“(B) any proposed transfer of the project; and
+
+&emsp;&emsp;“(C) the rental assistance assessment plan pursuant to section 515(c).
+
+&emsp;“(3)
+
+Funding.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Secretary may provide not more than $10,000,000 annually in funding from which the Secretary may make obligations to tenant groups, nonprofit organizations, and public entities for building the capacity of tenant organizations, for technical assistance in furthering any of the purposes of this subtitle (including transfer of developments to new owners) and for tenant services, from those amounts made available under appropriations Acts for implementing this subtitle or previously made available for technical assistance in connection with the preservation of affordable rental housing for low-income persons.
+
+&emsp;&emsp;“(B)
+
+Manner of providing.—Notwithstanding any other provision of law restricting the use of preservation technical assistance funds, the Secretary may provide any funds made available under subparagraph (A) through existing technical assistance programs pursuant to any other Federal law, including the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4101 et seq.\] and the Multifamily \[Housing\] Property Disposition Reform Act of 1994 \[Pub. L. 103–233, see Short Title of 1994 Amendment note set out under section 1701 of Title 12, Banks and Banking\], or through any other means that the Secretary considers consistent with the purposes of this subtitle, without regard to any set-aside requirement otherwise applicable to those funds.
+
+&emsp;&emsp;“(C)
+
+Prohibition.—None of the funds made available under subparagraph (A) may be used directly or indirectly to pay for any personal service, advertisement, telegram, telephone, letter, printed or written matter, or other device, intended or designed to influence in any manner a Member of Congress, to favor or oppose, by vote or otherwise, any legislation or appropriation by Congress, whether before or after the introduction of any bill or resolution proposing such legislation or appropriation.
+
+“(g)
+
+Rent Levels.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), each mortgage restructuring and rental assistance sufficiency plan pursuant to the terms, conditions, and requirements of this subtitle shall establish for units assisted with project-based assistance in eligible multifamily housing projects adjusted rent levels that—
+
+&emsp;&emsp;“(A) are equivalent to rents derived from comparable properties, if—
+
+&emsp;&emsp;&emsp;“(i) the participating administrative entity makes the rent determination within a reasonable period of time; and
+
+&emsp;&emsp;&emsp;“(ii) the market rent determination is based on not less than 2 comparable properties; or
+
+&emsp;&emsp;“(B) if those rents cannot be determined, are equal to 90 percent of the fair market rents for the relevant market area.
+
+&emsp;“(2)
+
+Exceptions.—
+
+&emsp;&emsp;“(A)
+
+In general.—A contract under this section may include rent levels that exceed the rent level described in paragraph (1) at rent levels that do not exceed 120 percent of the fair market rent for the market area (except that the Secretary may waive this limit for not more than five percent of all units subject to restructured mortgages in any fiscal year, based on a finding of special need), if the participating administrative entity—
+
+&emsp;&emsp;&emsp;“(i) determines that the housing needs of the tenants and the community cannot be adequately addressed through implementation of the rent limitation required to be established through a mortgage restructuring and rental assistance sufficiency plan under paragraph (1); and
+
+&emsp;&emsp;&emsp;“(ii) follows the procedures under paragraph (3).
+
+&emsp;&emsp;“(B)
+
+Exception rents.—In any fiscal year, a participating administrative entity may approve exception rents on not more than 20 percent of all units covered by the portfolio restructuring agreement with expiring contracts in that fiscal year, except that the Secretary may waive this ceiling upon a finding of special need.
+
+&emsp;“(3)
+
+Rent levels for exception projects.—For purposes of this section, a project eligible for an exception rent shall receive a rent calculated on the actual and projected costs of operating the project, at a level that provides income sufficient to support a budget-based rent that consists of—
+
+&emsp;&emsp;“(A) the debt service of the project;
+
+&emsp;&emsp;“(B) the operating expenses of the project, as determined by the participating administrative entity, including—
+
+&emsp;&emsp;&emsp;“(i) contributions to adequate reserves;
+
+&emsp;&emsp;&emsp;“(ii) the costs of maintenance and necessary rehabilitation; and
+
+&emsp;&emsp;&emsp;“(iii) other eligible costs permitted under section 8 of the United States Housing Act of 1937;
+
+&emsp;&emsp;“(C) an adequate allowance for potential operating losses due to vacancies and failure to collect rents, as determined by the participating administrative entity;
+
+&emsp;&emsp;“(D) an allowance for a reasonable rate of return to the owner or purchaser of the project, as determined by the participating administrative entity, which may be established to provide incentives for owners or purchasers to meet benchmarks of quality for management and housing quality; and
+
+&emsp;&emsp;“(E) other expenses determined by the participating administrative entity to be necessary for the operation of the project.
+
+“(h)
+
+Exemptions From Restructuring.—The following categories of projects shall not be covered by a mortgage restructuring and rental assistance sufficiency plan if—
+
+&emsp;“(1) the primary financing or mortgage insurance for the multifamily housing project that is covered by that expiring contract was provided by a unit of State government or a unit of general local government (or an agency or instrumentality of a unit of a State government or unit of general local government);
+
+&emsp;“(2) the project is a project financed under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] or section 515 of the Housing Act of 1949 \[42 U.S.C. 1485\]; or
+
+&emsp;“(3) the project has an expiring contract under section 8 of the United States Housing Act of 1937 entered into pursuant to section 441 of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11401\].
+
+#### “SEC. 515. SECTION 8 RENEWALS AND LONG-TERM AFFORDABILITY COMMITMENT BY OWNER OF PROJECT.
+
+“(a)
+
+Section 8
+
+Renewals of Restructured Projects.—
+
+&emsp;“(1)
+
+Project-based assistance.—Subject to the availability of amounts provided in advance in appropriations Acts, and to the control of the Secretary of applicable accounts in the Treasury of the United States, with respect to an expiring section 8 contract on an eligible multifamily housing project to be renewed with project-based assistance (based on a determination under subsection (c)), the Secretary shall enter into contracts with participating administrative entities pursuant to which the participating administrative entity shall offer to renew or extend the contract, or the Secretary shall offer to renew such contract, and the owner of the project shall accept the offer, if the initial renewal is in accordance with the terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan and the rental assistance assessment plan.
+
+&emsp;“(2)
+
+Tenant-based assistance.—Subject to the availability of amounts provided in advance in appropriations Acts and to the control of the Secretary of applicable accounts in the Treasury of the United States, with respect to an expiring section 8 contract on an eligible multifamily housing project to be renewed with tenant-based assistance (based on a determination under subsection (c)), the Secretary shall enter into contracts with participating administrative entities pursuant to which the participating administrative entity shall provide for the renewal of section 8 assistance on an eligible multifamily housing project with tenant-based assistance, or the Secretary shall provide for such renewal, in accordance with the terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan and the rental assistance assessment plan.
+
+“(b)
+
+Required Commitment.—After the initial renewal of a section 8 contract pursuant to this section, the owner shall accept each offer made pursuant to subsection (a) to renew the contract, for the term of the affordability and use restrictions required by section 514(e)(6), if the offer to renew is on terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan.
+
+“(c)
+
+Determination of Whether To Renew With Project-Based or Tenant-Based Assistance.—
+
+&emsp;“(1)
+
+Mandatory renewal of project-based assistance.—Section 8 assistance shall be renewed with project-based assistance, if—
+
+&emsp;&emsp;“(A) the project is located in an area in which the participating administrative entity determines, based on housing market indicators, such as low vacancy rates or high absorption rates, that there is not adequate available and affordable housing or that the tenants of the project would not be able to locate suitable units or use the tenant-based assistance successfully;
+
+&emsp;&emsp;“(B) a predominant number of the units in the project are occupied by elderly families, disabled families, or elderly and disabled families;
+
+&emsp;&emsp;“(C) the project is held by a nonprofit cooperative ownership housing corporation or nonprofit cooperative housing trust.
+
+&emsp;“(2)
+
+Rental assistance assessment plan.—
+
+&emsp;&emsp;“(A)
+
+In general.—With respect to any project that is not described in paragraph (1), the participating administrative entity shall, after consultation with the owner of the project, develop a rental assistance assessment plan to determine whether to renew assistance for the project with tenant-based assistance or project-based assistance.
+
+&emsp;&emsp;“(B)
+
+Rental assistance assessment plan requirements.—Each rental assistance assessment plan developed under this paragraph shall include an assessment of the impact of converting to tenant-based assistance and the impact of extending project-based assistance on—
+
+&emsp;&emsp;&emsp;“(i) the ability of the tenants to find adequate, available, decent, comparable, and affordable housing in the local market;
+
+&emsp;&emsp;&emsp;“(ii) the types of tenants residing in the project (such as elderly families, disabled families, large families, and cooperative homeowners);
+
+&emsp;&emsp;&emsp;“(iii) the local housing needs identified in the comprehensive housing affordability strategy, and local market vacancy trends;
+
+&emsp;&emsp;&emsp;“(iv) the cost of providing assistance, comparing the applicable payment standard to the project's adjusted rent levels determined under section 514(g);
+
+&emsp;&emsp;&emsp;“(v) the long-term financial stability of the project;
+
+&emsp;&emsp;&emsp;“(vi) the ability of residents to make reasonable choices about their individual living situations;
+
+&emsp;&emsp;&emsp;“(vii) the quality of the neighborhood in which the tenants would reside; and
+
+&emsp;&emsp;&emsp;“(viii) the project's ability to compete in the marketplace.
+
+&emsp;&emsp;“(C)
+
+Reports to director.—Each participating administrative entity shall report regularly to the Director as defined in subtitle D, as the Director shall require, identifying—
+
+&emsp;&emsp;&emsp;“(i) each eligible multifamily housing project for which the entity has developed a rental assistance assessment plan under this paragraph that determined that the tenants of the project generally supported renewal of assistance with tenant-based assistance, but under which assistance for the project was renewed with project-based assistance; and
+
+&emsp;&emsp;&emsp;“(ii) each project for which the entity has developed such a plan under which the assistance is renewed using tenant-based assistance.
+
+&emsp;“(3)
+
+Eligibility for tenant-based assistance.—Subject to paragraph (4), with respect to any project that is not described in paragraph (1), if a participating administrative entity approves the use of tenant-based assistance based on a rental assistance assessment plan developed under paragraph (2), tenant-based assistance shall be provided to each assisted family (other than a family already receiving tenant-based assistance) residing in the project at the time the assistance described in section 512(2)(B) terminates.
+
+&emsp;“(4)
+
+Rents for families receiving tenant-based assistance.—
+
+&emsp;&emsp;“(A)
+
+In general.—Notwithstanding subsection (c)(1) or (<i>o</i>)(1) of section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f(c)(1), (<i>o</i>)(1)\], in the case of any family described in paragraph (3) that resides in a project described in section 512(2)(B) in which the reasonable rent (which rent shall include any amount allowed for utilities and shall not exceed comparable market rents for the relevant housing market area) exceeds the fair market rent limitation or the payment standard, as applicable, the amount of assistance for the family shall be determined in accordance with subparagraph (B).
+
+&emsp;&emsp;“(B)
+
+Maximum monthly rent; payment standard.—With respect to the certificate program under section 8(b) of the United States Housing Act of 1937, the maximum monthly rent under the contract (plus any amount allowed for utilities) shall be such reasonable rent for the unit. With respect to the voucher program under section 8(<i>o</i>) of the United States Housing Act of 1937, the payment standard shall be deemed to be such reasonable rent for the unit.
+
+&emsp;“(5)
+
+Inapplicability of certain provision.—If a participating administrative entity approves renewal with project-based assistance under this subsection, section 8(d)(2) of the United States Housing Act of 1937 shall not apply.
+
+#### “SEC. 516. PROHIBITION ON RESTRUCTURING.
+
+“(a)
+
+Prohibition on Restructuring.—The Secretary may elect not to consider any mortgage restructuring and rental assistance sufficiency plan or request for contract renewal if the Secretary or the participating administrative entity determines that—
+
+&emsp;“(1)(A) the owner or purchaser of the project has engaged in material adverse financial or managerial actions or omissions with regard to such project; or
+
+&emsp;“(B) the owner or purchaser of the project has engaged in material adverse financial or managerial actions or omissions with regard to other projects of such owner or purchaser that are federally assisted or financed with a loan from, or mortgage insured or guaranteed by, an agency of the Federal Government;
+
+&emsp;“(2) material adverse financial or managerial actions or omissions include—
+
+&emsp;&emsp;“(A) materially violating any Federal, State, or local law or regulation with regard to this project or any other federally assisted project, after receipt of notice and an opportunity to cure;
+
+&emsp;&emsp;“(B) materially breaching a contract for assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], after receipt of notice and an opportunity to cure;
+
+&emsp;&emsp;“(C) materially violating any applicable regulatory or other agreement with the Secretary or a participating administrative entity, after receipt of notice and an opportunity to cure;
+
+&emsp;&emsp;“(D) repeatedly and materially violating any Federal, State, or local law or regulation with regard to the project or any other federally assisted project;
+
+&emsp;&emsp;“(E) repeatedly and materially breaching a contract for assistance under section 8 of the United States Housing Act of 1937;
+
+&emsp;&emsp;“(F) repeatedly and materially violating any applicable regulatory or other agreement with the Secretary or a participating administrative entity;
+
+&emsp;&emsp;“(G) repeatedly failing to make mortgage payments at times when project income was sufficient to maintain and operate the property;
+
+&emsp;&emsp;“(H) materially failing to maintain the property according to housing quality standards after receipt of notice and a reasonable opportunity to cure; or
+
+&emsp;&emsp;“(I) committing any actions or omissions that would warrant suspension or debarment by the Secretary;
+
+&emsp;“(3) the owner or purchaser of the property materially failed to follow the procedures and requirements of this subtitle, after receipt of notice and an opportunity to cure; or
+
+&emsp;“(4) the poor condition of the project cannot be remedied in a cost effective manner, as determined by the participating administrative entity.
+
+> The term ‘owner’ as used in this subsection, in addition to it having the same meaning as in section 8(f) of the United States Housing Act of 1937, also means an affiliate of the owner. The term ‘purchaser’ as used in this subsection means any private person or entity, including a cooperative, an agency of the Federal Government, or a public housing agency, that, upon purchase of the project, would have the legal right to lease or sublease dwelling units in the project, and also means an affiliate of the purchaser. The terms ‘affiliate of the owner’ and ‘affiliate of the purchaser’ means any person or entity (including, but not limited to, a general partner or managing member, or an officer of either) that controls an owner or purchaser, is controlled by an owner or purchaser, or is under common control with the owner or purchaser. The term ‘control’ means the direct or indirect power (under contract, equity ownership, the right to vote or determine a vote, or otherwise) to direct the financial, legal, beneficial or other interests of the owner or purchaser.
+
+“(b)
+
+Opportunity To Dispute Findings.—
+
+&emsp;“(1)
+
+In general.—During the 30-day period beginning on the date on which the owner or purchaser of an eligible multifamily housing project receives notice of a rejection under subsection (a) or of a mortgage restructuring and rental assistance sufficiency plan under section 514, the Secretary or participating administrative entity shall provide that owner or purchaser with an opportunity to dispute the basis for the rejection and an opportunity to cure.
+
+&emsp;“(2)
+
+Affirmation, modification, or reversal.—
+
+&emsp;&emsp;“(A)
+
+In general.—After providing an opportunity to dispute under paragraph (1), the Secretary or the participating administrative entity may affirm, modify, or reverse any rejection under subsection (a) or rejection of a mortgage restructuring and rental assistance sufficiency plan under section 514.
+
+&emsp;&emsp;“(B)
+
+Reasons for decision.—The Secretary or the participating administrative entity, as applicable, shall identify the reasons for any final decision under this paragraph.
+
+&emsp;&emsp;“(C)
+
+Review process.—The Secretary shall establish an administrative review process to appeal any final decision under this paragraph.
+
+“(c)
+
+Final Determination.—Any final determination under this section shall not be subject to judicial review.
+
+“(d)
+
+Displaced Tenants.—Subject to the availability of amounts provided in advance in appropriations Acts, for any low-income tenant that is residing in a project or receiving assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] at the time of rejection under this section, that tenant shall be provided with tenant-based assistance and reasonable moving expenses, as determined by the Secretary.
+
+“(e)
+
+Transfer of Property.—For properties disqualified from the consideration of a mortgage restructuring and rental assistance sufficiency plan under this section in accordance with paragraph (1) or (2) of subsection (a) because of actions by an owner or purchaser, the Secretary shall establish procedures to facilitate the voluntary sale or transfer of a property as part of a mortgage restructuring and rental assistance sufficiency plan, with a preference for tenant organizations and tenant-endorsed community-based nonprofit and public agency purchasers meeting such reasonable qualifications as may be established by the Secretary.
+
+#### “SEC. 517. RESTRUCTURING TOOLS.
+
+“(a)
+
+Mortgage Restructuring.—
+
+&emsp;“(1) In this subtitle, an approved mortgage restructuring and rental assistance sufficiency plan shall include restructuring mortgages in accordance with this subsection to provide—
+
+&emsp;&emsp;“(A) a restructured or new first mortgage that is sustainable at rents at levels that are established in section 514(g); and
+
+&emsp;&emsp;“(B) a second mortgage that is in an amount equal to no more than the difference between the restructured or new first mortgage and the indebtedness under the existing insured mortgage immediately before it is restructured or refinanced, provided that the amount of the second mortgage shall be in an amount that the Secretary or participating administrative entity determines can reasonably be expected to be repaid.
+
+&emsp;“(2) The second mortgage shall bear interest at a rate not to exceed the applicable Federal rate as defined in section 1274(d) of the Internal Revenue Code of 1986 \[26 U.S.C. 1274(d)\]. The term of the second mortgage shall be equal to the term of the restructured or new first mortgage.
+
+&emsp;“(3) Payments on the second mortgage shall be deferred when the first mortgage remains outstanding, except to the extent there is excess project income remaining after payment of all reasonable and necessary operating expenses (including deposits in a reserve for replacement), debt service on the first mortgage, and any other expenditures approved by the Secretary. At least 75 percent of any excess project income shall be applied to payments on the second mortgage, and the Secretary or the participating administrative entity may permit up to 25 percent to be paid to the project owner if the Secretary or participating administrative entity determines that the project owner meets benchmarks for management and housing quality.
+
+&emsp;“(4) The full amount of the second mortgage shall be immediately due and payable if—
+
+&emsp;&emsp;“(A) the first mortgage is terminated or paid in full, except as otherwise provided by the holder of the second mortgage;
+
+&emsp;&emsp;“(B) the project is purchased and the second mortgage is assumed by any subsequent purchaser in violation of guidelines established by the Secretary; or
+
+&emsp;&emsp;“(C) the Secretary provides notice to the project owner that such owner has failed to materially comply with any requirements of this section or the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] as those requirements apply to the project, with a reasonable opportunity for such owner to cure such failure.
+
+&emsp;“(5) The Secretary may modify the terms or forgive all or part of the second mortgage if the Secretary holds the second mortgage and if the project is acquired by a tenant organization or tenant-endorsed community-based nonprofit or public agency, pursuant to guidelines established by the Secretary.
+
+“(b)
+
+Restructuring Tools.—In addition to the requirements of subsection (a) and to the extent these actions are consistent with this section and with the control of the Secretary of applicable accounts in the Treasury of the United States, an approved mortgage restructuring and rental assistance sufficiency plan under this subtitle may include one or more of the following actions:
+
+&emsp;“(1)
+
+Full or partial payment of claim.—making a full payment of claim or partial payment of claim under section 541(b) of the National Housing Act \[12 U.S.C. 1735f–19(b)\], as amended by section 523(b) of this Act. Any payment under this paragraph shall not require the approval of a mortgagee;
+
+&emsp;“(2)
+
+Refinancing of debt.—refinancing of all or part of the debt on a project. If the refinancing involves a mortgage that will continue to be insured under the National Housing Act \[12 U.S.C. 1701 et seq.\], the refinancing shall be documented through amendment of the existing insurance contract and not through a new insurance contract;
+
+&emsp;“(3)
+
+Mortgage insurance.—providing FHA multifamily mortgage insurance, reinsurance or other credit enhancement alternatives, including multifamily risk-sharing mortgage programs, as provided under section 542 of the Housing and Community Development Act of 1992 \[Pub. L. 102–550, 12 U.S.C. 1707 note\]. Any limitations on the number of units available for mortgage insurance under section 542 shall not apply to eligible multifamily housing projects. Any credit subsidy costs of providing mortgage insurance shall be paid from the Liquidating Accounts of the General Insurance Fund or the Special Risk Insurance Fund and shall not be subject to any limitation on appropriations;
+
+&emsp;“(4)
+
+Credit enhancement.—providing any additional State or local mortgage credit enhancements and risk-sharing arrangements that may be established with State or local housing finance agencies, the Federal Housing Finance Board, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation, to a modified or refinanced first mortgage;
+
+&emsp;“(5)
+
+Compensation of third parties.—consistent with the portfolio restructuring agreement, entering into agreements, incurring costs, or making payments, including incentive agreements designed to reward superior performance in meeting the purposes of this Act, as may be reasonably necessary, to compensate the participation of participating administrative entities and other parties in undertaking actions authorized by this subtitle. Upon request to the Secretary, participating administrative entities that are qualified under the United States Housing Act of 1937 to serve as contract administrators shall be the contract administrators under section 8 of the United States Housing Act of 1937 \[12 U.S.C. 1437f\] for purposes of any contracts entered into as part of an approved mortgage restructuring and rental assistance sufficiency plan. Subject to the availability of amounts provided in advance in appropriations Acts for administrative fees under section 8 of the United States Housing Act of 1937, such amounts may be used to compensate participating administrative entities for compliance monitoring costs incurred under section 519;
+
+&emsp;“(6)
+
+Use of project accounts.—applying any residual receipts, replacement reserves, and any other project accounts not required for project operations, to maintain the long-term affordability and physical condition of the property or of other eligible multifamily housing projects. The participating administrative entity may expedite the acquisition of residual receipts, replacement reserves, or other such accounts, by entering into agreements with owners of housing covered by an expiring contract to provide an owner with a share of the receipts, not to exceed 10 percent, in accordance with guidelines established by the Secretary; and
+
+&emsp;“(7)
+
+Rehabilitation needs.—
+
+&emsp;&emsp;“(A)
+
+In general.—Rehabilitation may be paid from the residual receipts, replacement reserves, or any other project accounts not required for project operations, or, as provided in appropriations Acts and subject to the control of the Secretary of applicable accounts in the Treasury of the United States, from budget authority provided for increases in the budget authority for assistance contracts under section 8 of the United States Housing Act of 1937, the rehabilitation grant program established under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\], as amended by section 531 of subtitle B of this Act, or through the debt restructuring transaction. Rehabilitation under this paragraph shall only be for the purpose of restoring the project to a non-luxury standard adequate for the rental market intended at the original approval of the project-based assistance.
+
+&emsp;&emsp;“(B)
+
+Contribution.—Each owner or purchaser of a project to be rehabilitated under an approved mortgage restructuring and rental assistance sufficiency plan shall contribute, from non-project resources, not less than 25 percent of the amount of rehabilitation assistance received, except that the participating administrative entity may provide an exception from the requirement of this subparagraph for housing cooperatives.
+
+“(c)
+
+Role of FNMA and FHLMC.—\[Amended section 4565 of Title 12, Banks and Banking.\]
+
+“(d)
+
+Prohibition on Equity Sharing by the Secretary.—The Secretary is prohibited from participating in any equity agreement or profit-sharing agreement in conjunction with any eligible multifamily housing project.
+
+“(e)
+
+Conflict of Interest Guidelines.—The Secretary may establish guidelines to prevent conflicts of interest by a participating administrative entity that provides, directly or through risk-sharing arrangements, any form of credit enhancement or financing pursuant to subsections \[sic\] (b)(3) or (b)(4) or to prevent conflicts of interest by any other person or entity under this subtitle.
+
+#### “SEC. 518. MANAGEMENT STANDARDS.
+
+“Each participating administrative entity shall establish management standards, including requirements governing conflicts of interest between owners, managers, contractors with an identity of interest, pursuant to guidelines established by the Secretary and consistent with industry standards.
+
+#### “SEC. 519. MONITORING OF COMPLIANCE.
+
+“(a)
+
+Compliance Agreements.—(1) Pursuant to regulations issued by the Secretary under section 522(a), each participating administrative entity, through binding contractual agreements with owners and otherwise, shall ensure long-term compliance with the provisions of this subtitle. Each agreement shall, at a minimum, provide for—
+
+&emsp;“(A) enforcement of the provisions of this subtitle; and
+
+&emsp;“(B) remedies for the breach of those provisions.
+
+“(2) If the participating administrative entity is not qualified under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] to be a section 8 contract administrator or fails to perform its duties under the portfolio restructuring agreement, the Secretary shall have the right to enforce the agreement.
+
+“(b)
+
+Periodic Monitoring.—
+
+&emsp;“(1)
+
+In general.—Not less than annually, each participating administrative entity that is qualified to be the section 8 contract administrator shall review the status of all multifamily housing projects for which a mortgage restructuring and rental assistance sufficiency plan has been implemented.
+
+&emsp;“(2)
+
+Inspections.—Each review under this subsection shall include onsite inspection to determine compliance with housing codes and other requirements as provided in this subtitle and the portfolio restructuring agreements.
+
+&emsp;“(3)
+
+Administration.—If the participating administrative entity is not qualified under the UnitedStates Housing Act of 1937 to be a section 8 contract administrator, either the Secretary or a qualified State or local housing agency shall be responsible for the review required by this subsection.
+
+“(c)
+
+Audit by the Secretary.—The Comptroller General of the United States, the Secretary, and the Inspector General of the Department of Housing and Urban Development may conduct an audit at any time of any multifamily housing project for which a mortgage restructuring and rental assistance sufficiency plan has been implemented.
+
+#### “SEC. 520. REPORTS TO CONGRESS.
+
+“(a)
+
+Annual Review.—In order to ensure compliance with this subtitle, the Secretary shall conduct an annual review and report to the Congress on actions taken under this subtitle and the status of eligible multifamily housing projects.
+
+“(b)
+
+Semiannual Review.—Not less than semiannually during the 2-year period beginning on the date of the enactment of this Act \[Oct. 27, 1997\] and not less than annually thereafter, the Secretary shall submit reports to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate stating, for such periods, the total number of projects identified by participating administrative entities under each of clauses (i) and (ii) of section 515(c)(2)(C).
+
+#### “SEC. 521. GAO AUDIT AND REVIEW.
+
+“(a)
+
+Initial Audit.—Not later than 18 months after the effective date of final regulations promulgated under this subtitle, the Comptroller General of the United States shall conduct an audit to evaluate eligible multifamily housing projects and the implementation of mortgage restructuring and rental assistance sufficiency plans.
+
+“(b)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 18 months after the audit conducted under subsection (a), the Comptroller General of the United States shall submit to Congress a report on the status of eligible multifamily housing projects and the implementation of mortgage restructuring and rental assistance sufficiency plans.
+
+&emsp;“(2)
+
+Contents.—The report submitted under paragraph (1) shall include—
+
+&emsp;&emsp;“(A) a description of the initial audit conducted under subsection (a); and
+
+&emsp;&emsp;“(B) recommendations for any legislative action to increase the financial savings to the Federal Government of the restructuring of eligible multifamily housing projects balanced with the continued availability of the maximum number of affordable low-income housing units.
+
+#### “SEC. 522. REGULATIONS.
+
+“(a)
+
+Rulemaking and Implementation.—
+
+&emsp;“(1)
+
+Interim regulations.—The Director shall issue such interim regulations as may be necessary to implement this subtitle and the amendments made by this subtitle with respect to eligible multifamily housing projects covered by contracts described in section 512(2)(B) that expire in fiscal year 1999 or thereafter. If, before the expiration of such period, the Director has not been appointed, the Secretary shall issue such interim regulations.
+
+&emsp;“(2)
+
+Final regulations.—The Director shall issue final regulations necessary to implement this subtitle and the amendments made by this subtitle with respect to eligible multifamily housing projects covered by contracts described in section 512(2)(B) that expire in fiscal year 1999 or thereafter before the later of: (A) the expiration of the 12-month period beginning upon the date of the enactment of this Act \[Oct. 27, 1997\]; and (B) the 3-month period beginning upon the appointment of the Director under subtitle D.
+
+&emsp;“(3)
+
+Factors for consideration.—Before the publication of the final regulations under paragraph (2), in addition to public comments invited in connection with publication of the interim rule, the Secretary shall—
+
+&emsp;&emsp;“(A) seek recommendations on the implementation of sections 513(b) and 515(c)(1) from organizations representing—
+
+&emsp;&emsp;&emsp;“(i) State housing finance agencies and local housing agencies;
+
+&emsp;&emsp;&emsp;“(ii) other potential participating administering entities;
+
+&emsp;&emsp;&emsp;“(iii) tenants;
+
+&emsp;&emsp;&emsp;“(iv) owners and managers of eligible multifamily housing projects;
+
+&emsp;&emsp;&emsp;“(v) States and units of general local government; and
+
+&emsp;&emsp;&emsp;“(vi) qualified mortgagees; and
+
+&emsp;&emsp;“(B) convene not less than 3 public forums at which the organizations making recommendations under subparagraph (A) may express views concerning the proposed disposition of the recommendations.
+
+“(b)
+
+Transition Provision for Contracts Expiring in Fiscal Year 1998.—Notwithstanding any other provision of law, the Secretary shall apply all the terms of section 211 and section 212 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 \[Pub. L. 104–204, set out below\] (except for section 212(h)(1)(G) and the limitation in section 212(k)) contracts for project-based assistance that expire during fiscal year 1998 (in the same manner that such provisions apply to expiring contracts defined in section 212(a)(3) of such Act), except that section 517(a) of the Act shall apply to mortgages on projects subject to such contracts.
+
+#### “SEC. 523. TECHNICAL AND CONFORMING AMENDMENTS.
+
+“(a)
+
+Calculation of Limit on Project-Based Assistance.—\[Amended this section.\]
+
+“(b)
+
+Partial Payment of Claims on Multifamily Housing Projects.—\[Amended section 1735f–19 of Title 12, Banks and Banking.\]
+
+“(c)
+
+Reuse and Rescission of Certain Recaptured Budget Authority.—\[Amended this section.\]
+
+“(d)
+
+Section 8
+
+Contract Renewals.—\[Amended section 405(a) of Pub. L. 104–99, set out below.\]
+
+“(e)
+
+Renewal Upon Request of Owner.—\[Amended section 211 of Pub. L. 104–204, set out below.\]
+
+“(f)
+
+Extension of Demonstration Contract Period.—\[Amended section 212 of Pub. L. 104–204, set out below.\]
+
+#### “SEC. 524. SECTION 8 CONTRACT RENEWALS.
+
+“(a)
+
+Section 8
+
+Contract Renewal Authority.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding part 24 of title 24 of the Code of Federal Regulations and subject to section 516 of this subtitle, for fiscal year 1999 and henceforth, the Secretary may use amounts available for the renewal of assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], upon termination or expiration of a contract for assistance under section 8 (other than a contract for tenant-based assistance and notwithstanding section 8(v) of such Act for loan management assistance), to provide assistance under section 8 of such Act at rent levels that do not exceed comparable market rents for the market area. The assistance shall be provided in accordance with terms and conditions prescribed by the Secretary.
+
+&emsp;“(2)
+
+Exception projects.—Notwithstanding paragraph (1), upon the request of the owner, the Secretary shall renew an expiring contract in accordance with terms and conditions prescribed by the Secretary at the lesser of: (i) existing rents, adjusted by an operating cost adjustment factor established by the Secretary; (ii) a level that provides income sufficient to support a budget-based rent (including a budget-based rent adjustment if justified by reasonable and expected operating expenses); or (iii) in the case of a contract under the moderate rehabilitation program, other than a moderate rehabilitation contract under section 441 of the Stewart B. McKinneyHomeless Assistance Act \[42 U.S.C. 11401\], the base rent adjusted by an operating cost adjustment factor established by the Secretary, for the following categories of multifamily housing projects—
+
+&emsp;&emsp;“(A) projects for which the primary financing or mortgage insurance was provided by a unit of State government or a unit of general local government (or an agency or instrumentality of either) and is not insured under the National Housing Act \[12 U.S.C. 1701 et seq.\];
+
+&emsp;&emsp;“(B) projects for which the primary financing was provided by a unit of State government or a unit or general local government (or an agency or instrumentality of either) and the financing involves mortgage insurance under the National Housing Act, such that the implementation of a mortgage restructuring and rental assistance sufficiency plan under this Act is in conflict with applicable law or agreements governing such financing;
+
+&emsp;&emsp;“(C) projects financed under section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\] or section 515 of the Housing Act of 1949 \[42 U.S.C. 1485\];
+
+&emsp;&emsp;“(D) projects that have an expiring contract under section 8 of the United States Housing Act of 1937 pursuant to section 441 of the Stewart B. McKinney Homeless Assistance Act; and
+
+&emsp;&emsp;“(E) projects that do not qualify as eligible multifamily housing projects pursuant to section 512(2) of this subtitle.
+
+#### “subtitle d—office of multifamily housing assistance restructuring
+
+#### “SEC. 571. ESTABLISHMENT OF OFFICE OF MULTIFAMILY HOUSING ASSISTANCE RESTRUCTURING.
+
+“There is hereby established an office within the Department of Housing and Urban Development, which shall be known as the Office of Multifamily Housing Assistance Restructuring.
+
+#### “SEC. 572. DIRECTOR.
+
+“(a)
+
+Appointment.—The Office shall be under the management of a Director, who shall be appointed by the President by and with the advice and consent of the Senate, from among individuals who are citizens of the United States and have a demonstrated understanding of financing and mortgage restructuring for affordable multifamily housing. Not later than 60 days after the date of the enactment of this Act \[Oct. 27, 1997\], the President shall submit to the Senate a nomination for initial appointment to the position of Director.
+
+“(b)
+
+Vacancy.—A vacancy in the position of Director shall be filled in the manner in which the original appointment was made under subsection (a).
+
+“(c)
+
+Deputy Director.—
+
+&emsp;“(1)
+
+In general.—The Office shall have a Deputy Director who shall be appointed by the Director from among individuals who are citizens of the United States and have a demonstrated understanding of financing and mortgage restructuring for affordable multifamily housing.
+
+&emsp;“(2)
+
+Functions.—The Deputy Director shall have such functions, powers, and duties as the Director shall prescribe. In the event of the death, resignation, sickness, or absence of the Director, the Deputy Director shall serve as acting Director until the return of the Director or the appointment of a successor pursuant to subsection (b).
+
+#### “SEC. 573. DUTY AND AUTHORITY OF DIRECTOR.
+
+“(a)
+
+Duty.—The Secretary shall, acting through the Director, administer the program of mortgage and rental assistance restructuring for eligible multifamily housing projects under subtitle A. During the period before the Director is appointed, the Secretary may carry out such program.
+
+“(b)
+
+Authority.—The Director is authorized to make such determinations, take such actions, issue such regulations, and perform such functions assigned to the Director under law as the Director determines necessary to carry out such functions, subject to the review and approval of the Secretary. The Director shall semiannually submit a report to the Secretary regarding the activities, determinations, and actions of the Director.
+
+“(c)
+
+Delegation of Authority.—The Director may delegate to officers and employees of the Office (but not to contractors, subcontractors, or consultants) any of the functions, powers, and duties of the Director, as the Director considers appropriate.
+
+“(d)
+
+Independence in Providing Information to Congress.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding subsection (a) or (b), the Director shall not be required to obtain the prior approval, comment, or review of any officer or agency of the United States before submitting to the Congress, or any committee or subcommittee thereof, any reports, recommendations, testimony, or comments if such submissions include a statement indicating that the views expressed therein are those of the Director and do not necessarily represent the views of the Secretary or the President.
+
+&emsp;“(2)
+
+Requirement.—If the Director determines at any time that the Secretary is taking or has taken any action that interferes with the ability of the Director to carry out the duties of the Director under this Act \[probably means title V of Pub. L. 105–65, see Short Title of 1997 Amendment note set out under section 1701 of Title 12, Banks and Banking\] or that affects the administration of the program under subtitle A of this Act in a manner that is inconsistent with the purposes of this Act, including any proposed action by the Director, in the discretion of the Director, that is overruled by the Secretary, the Director shall immediately report directly to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate regarding such action. Notwithstanding subsection (a) or (b), any determination or report under this paragraph by the Director shall not be subject to prior review or approval of the Secretary.
+
+#### “SEC. 574. PERSONNEL.
+
+“(a)
+
+Office Personnel.—The Director may appoint and fix the compensation of such officers and employees of the Office as the Director considers necessary to carry out the functions of the Director and the Office. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification and General Schedule pay rates.
+
+“(b)
+
+Comparability of Compensation With Federal Banking Agencies.—In fixing and directing compensation under subsection (a), the Director shall consult with, and maintain comparability with compensation of officers and employees of the Federal Deposit Insurance Corporation.
+
+“(c)
+
+Personnel of Other Federal Agencies.—In carrying out the duties of the Office, the Director may use information, services, staff, and facilities of any executive agency, independent agency, or department on a reimbursable basis, with the consent of such agency or department.
+
+“(d)
+
+Outside Experts and Consultants.—The Director may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
+
+#### “SEC. 575. BUDGET AND FINANCIAL REPORTS.
+
+“(a)
+
+Financial Operating Plans and Forecasts.—Before the beginning of each fiscal year, the Secretary shall submit a copy of the financial operating plans and forecasts for the Office to the Director of the Office of Management and Budget.
+
+“(b)
+
+Reports of Operations.—As soon as practicable after the end of each fiscal year and each quarter thereof, the Secretary shall submit a copy of the report of the results of the operations of the Office during such period to the Director of the Office of Management and Budget.
+
+“(c)
+
+Inclusion in President's Budget.—The annual plans, forecasts, and reports required under this sectionshall be included: (1) in the Budget of the United States in the appropriate form; and (2) in the congressional justifications of the Department of Housing and Urban Development for each fiscal year in a form determined by the Secretary.
+
+#### “SEC. 576. LIMITATION ON SUBSEQUENT EMPLOYMENT.
+
+“Neither the Director nor any former officer or employee of the Office who, while employed by the Office, was compensated at a rate in excess of the lowest rate for a position classified higher than GS–15 of the General Schedule under section 5107 of title 5, United States Code, may, during the 2-year period beginning on the date of separation from employment by the Office, accept compensation from any party (other than a Federal agency) having any financial interest in any mortgage restructuring and rental assistance sufficiency plan under subtitle A or comparable matter in which the Director or such officer or employee had direct participation or supervision.
+
+#### “SEC. 577. AUDITS BY GAO.
+
+“The Comptroller General shall audit the operations of the Office in accordance with generally accepted Government auditing standards. All books, records, accounts, reports, files, and property belonging to, or used by, the Office shall be made available to the Comptroller General. Audits under this section shall be conducted annually for the first 2 fiscal years following the date of the enactment of this Act \[Oct. 27, 1997\] and as appropriate thereafter.
+
+#### “SEC. 578. SUSPENSION OF PROGRAM BECAUSE OF FAILURE TO APPOINT DIRECTOR.
+
+“(a)
+
+In General.—If, upon the expiration of the 12-month period beginning on the date of the enactment of this Act \[Oct. 27, 1997\], the initial appointment to the office of Director has not been made, the operation of the program under subtitle A shall immediately be suspended and such provisions shall not have any force or effect during the period that ends upon the making of such appointment.
+
+“(b)
+
+Interim applicability of demonstration program.—Notwithstanding any other provision of law, during the period referred to in subsection (a), the Secretary shall carry out sections 211 and 212 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 \[Pub. L. 104–204, set out below\]. For purposes of applying such sections pursuant to the authority under this section, the term ‘expiring contract’ shall have the meaning given in such sections, except that such term shall also include any contract for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] that expires during the period that the program is suspended under subsection (a).
+
+#### “SEC. 579. TERMINATION.
+
+“(a)
+
+Repeal.—Subtitle A (except for section 524) and subtitle D (except for this section) are repealed effective October 1, 2001.
+
+“(b)
+
+Exception.—Notwithstanding the repeal under subsection (a), the provisions of subtitle A (as in effect immediately before such repeal) shall apply with respect to projects and programs for which binding commitments have been entered into under this Act before October 1, 2001.
+
+“(c)
+
+Termination of Director and Office.—The Office of Multifamily Housing Assistance Restructuring and the position of Director of such Office shall terminate upon September 30, 2001.
+
+“(d)
+
+Transfer of Authority.—Effective upon the termination under subsection (c), any authority and responsibilities assigned to the Director that remain applicable after such date pursuant to subsection (b) are transferred to the Secretary.”
+
+#### GAO Report on Section 8 Rental Assistance for Multifamily Housing Projects
+
+Section 532 of Pub. L. 105–65 provided that: “Not later than the expiration of the 18-month period beginning on the date of the enactment of this Act \[Oct. 27, 1997\], the Comptroller General of the United States shall submit a report to the Congress analyzing—
+
+&emsp;“(1) the housing projects for which project-based assistance is provided under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], but which are not subject to a mortgage insured or held by the Secretary under the National Housing Act \[12 U.S.C. 1701 et seq.\];
+
+&emsp;“(2) how State and local housing finance agencies have benefited financially from the rental assistance program under section 8 of the United States Housing Act of 1937, including any benefits from fees, bond financings, and mortgage refinancings; and
+
+&emsp;“(3) the extent and effectiveness of State and local housing finance agencies oversight of the physical and financial management and condition of multifamily housing projects for which project-based assistance is provided under section 8 of the United States Housing Act of 1937.”
+
 #### Administrative Fees for Certificate and Housing Voucher Programs
 
 Section 202 of Pub. L. 104–204 provided that: “Notwithstanding section 8(q) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(q)\], as amended—
 
 “(a) The Secretary shall establish fees for the cost of administering the certificate, voucher and moderate rehabilitation programs.
 
-&emsp;“(1)(A) For fiscal year 1997, the fee for each month for which a dwelling unit is covered by an assistancecontract shall be 7.5 percent of the base amount, adjusted as provided herein, in the case of an agency that, on an annual basis, is administering a program of no more than 600 units, and 7 percent of the base amount, adjusted as provided herein, for each additional unit above 600.
+&emsp;“(1)(A) For fiscal year 1997, the fee for each month for which a dwelling unit is covered by an assistance contract shall be 7.5 percent of the base amount, adjusted as provided herein, in the case of an agency that, on an annual basis, is administering a program of no more than 600 units, and 7 percent of the base amount, adjusted as provided herein, for each additional unit above 600.
 
 &emsp;“(B) The base amount shall be the higher of—
 
@@ -894,7 +1912,7 @@ Section 202 of Pub. L. 104–204 provided that: “Notwithstanding section 8(q) 
 
 &emsp;“(1) the costs of preliminary expenses, in the amount of $500, for a public housing agency, but only in the first year it administers a tenant-based assistance program under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] and only if, immediately before the effective date of this Act \[Sept. 26, 1996\], it was not administering a tenant-based assistance program under the 1937 Act (as in effect immediately before the effective date of this Act), in connection with its initial increment of assistance received;
 
-&emsp;“(2) the costs incurred in assisting families who experience difficulty (as determined by the Secretary) in obtaining appropriate housing under the program; and
+&emsp;“(2) the costs incurred in assisting families who experience difficulty (as determined by the Secretary)in obtaining appropriate housing under the program; and
 
 &emsp;“(3) extraordinary costs approved by the Secretary.”
 
@@ -906,7 +1924,7 @@ Pub. L. 103–120, §11(a), Oct. 27, 1993, 107 Stat. 1151.
 
 #### Contract Renewals
 
-Section 211 of Pub. L. 104–204 provided that:
+Section 211 of Pub. L. 104–204, as amended by Pub. L. 105–18, title II, §10006, June 12, 1997, 111 Stat. 201; Pub. L. 105–65, title V, §523(e), Oct. 27, 1997, 111 Stat. 1407, provided that:
 
 “(a)
 
@@ -930,7 +1948,9 @@ Definitions.—For purposes of this section—
 
 “(b)
 
-Section 8 Contract Renewal Authority.—
+Section 8
+
+Contract Renewal Authority.—
 
 &emsp;“(1)
 
@@ -946,7 +1966,7 @@ Exemption for state and local housing agency projects.—Notwithstanding paragra
 
 &emsp;“(3)
 
-Section 202, section 811, and section 515 projects.—Notwithstanding paragraph (1), for section 202 projects, section 811 projects and section 515 projects, upon the expiration of a section 8 contract, the Secretary shall, at the request of the owner, renew the expiring contract—
+Exemption of certain other projects.—Notwithstanding paragraph (1), for section 202 projects, section 515 projects, projects with contracts entered into pursuant to section 441 of the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11401\], and projects with rents that exceed 100 percent of fair market rent for the market area, but that are less than rents for comparable projects, upon the expiration of a section 8 contract, the Secretary shall, at the request of the owner, renew the expiring contract—
 
 &emsp;&emsp;“(A) for a period of not more than one year; and
 
@@ -962,7 +1982,7 @@ Participation in demonstration.—For a contract covering an FHA-insured multifa
 
 &emsp;&emsp;“(B)
 
-Effect of material adverse actions and omissions.—Notwithstanding paragraph (1) or any other provision of law, the Secretary shall not renew an expiring contract if the Secretary determines that the owner of the multifamily housing project has engaged in material adverse financial or managerial actions or omissions with regard to the project (or with regard to other similar projects if the Secretary determines that such actions or omissions constitute a pattern of mismanagement that would warrant suspension or debarment by the Secretary).
+Effect of material adverse actions and omissions.—Notwithstanding paragraph (1) or any other provision of law, the Secretary shall not renew an expiring contract if the Secretary determines that the owner of the multifamily housing project has engaged in material adverse financial or managerial actions or omissions with regard to the project (or with regard to other similar projects if the Secretary determines that such actions or omissions constitute a pattern of mismanagement that would warrant suspension or debarment by the Secretary). The term ‘owner’, as used in this subparagraph, in addition to it having the same meaning as in section 8(f) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(f)\], also means an affiliate of the owner. The term ‘affiliate of the owner’ means any person or entity (including, but not limited to, a general partner or managing member, or an officer of either) that controls an owner, is controlled by an owner, or is under common control with the owner. The term ‘control’ means the direct or indirect power (under contract, equity ownership, the right to vote or determine a vote, or otherwise) to direct the financial, legal, beneficial, or other interests of the owner.
 
 &emsp;&emsp;“(C)
 
@@ -974,15 +1994,15 @@ Tenant protections.—Any family residing in an assisted unit in a multifamily h
 
 Pub. L. 104–120, §2(a), Mar. 28, 1996, 110 Stat. 834, provided that: “Notwithstanding section 405(b) of the Balanced Budget Downpayment Act, I (Public Law 104–99; 110 Stat. 44) \[set out below\], at the request of the owner of any project assisted under section 8(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(e)(2)\] (as such section existed immediately before October 1, 1991), the Secretary of Housing and Urban Development may renew, for a period of 1 year, the contract for assistance under such section for such project that expires or terminates during fiscal year 1996 at current rent levels.”
 
-Section 405(a), (b) of Pub. L. 104–99 provided that:
+Section 405(a), (b) of Pub. L. 104–99, as amended by Pub. L. 105–65, title V, §523(d), Oct. 27, 1997, 111 Stat. 1407, provided that:
 
-“(a) For fiscal year 1996 and henceforth, the Secretary of Housing and Urban Development may use amounts available for the renewal of assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], upon termination or expiration of a contract for assistance under section 8 of such Act of 1937 (other than a contract for tenant-based assistance and notwithstanding section 8(v) of such Act for loan management assistance), to provide assistance under section 8 of such Act, subject to the Section 8 Existing Fair Market Rents, for the eligible families assisted under the contracts at expiration or termination, which assistance shall be in accordance with terms and conditions prescribed by the Secretary.
+“(a) Notwithstanding part 24 of title 24 of the Code of Federal Regulations, for fiscal year 1996 and henceforth, the Secretary of Housing and Urban Development may use amounts available for the renewal of assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], upon termination or expiration of a contract for assistance under section 8 of such Act of 1937 (other than a contract for tenant-based assistance and notwithstanding section 8(v) of such Act for loan management assistance), to provide assistance under section 8 of such Act, subject to the Section 8 Existing Fair Market Rents, for the eligible families assisted under the contracts at expiration or termination, which assistance shall be in accordance with terms and conditions prescribed by the Secretary.
 
 “(b) Notwithstanding subsection (a) and except for projects assisted under section 8(e)(2) of the United States Housing Act of 1937 (as it existed immediately prior to October 1, 1991), at the request of the owner, the Secretary shall renew for a period of one year contracts for assistance under section 8 that expire or terminate during fiscal year 1996 at the current rent levels.”
 
 #### FHA Multifamily Demonstration Authority
 
-Section 212 of title II of Pub. L. 104–204 provided that:
+Section 212 of title II of Pub. L. 104–204, as amended by Pub. L. 105–65, title V, §523(f), Oct. 27, 1997, 111 Stat. 1407, provided that:
 
 “(a)
 
@@ -1070,7 +2090,7 @@ In general.—The Secretary shall carry out the demonstration program in a manne
 
 &emsp;“(2)
 
-Balance of competing goals.—In determining the manner in which a mortgage is to be restructuredor a subsidy reduced under this subsection, the Secretary may balance competing goals relating to individual projects in a manner that will further the purposes of this section.
+Balance of competing goals.—In determining the manner in which a mortgage is to be restructured or a subsidy reduced under this subsection, the Secretary may balance competing goals relating to individual projects in a manner that will further the purposes of this section.
 
 “(d)
 
@@ -1082,7 +2102,7 @@ In general.—In carrying out the demonstration program, the Secretary may enter
 
 &emsp;“(2)
 
-Designees.—In entering into any arrangement under this subsection, the Secretary shall select state housing finance agencies, housing agencies or nonprofits (separately or in conjunction with each other) to act as designees to the extent such agencies are determined to be qualified by the Secretary. In locations where there is no qualified State housing finance agency, housing agency or nonprofit to act as a designee, the Secretary may act as a designee. Each participation arrangement entered into under this subsection shall include a designee as the primary partner. Any organization selected by the Secretary under this section shall have a long-term record of service in providing low-income housing and meet standards of fiscal responsibility, as determined by the Secretary.
+Designees.—In entering into any arrangement under this subsection, the Secretary shall select state housing finance agencies, housing agencies or nonprofits (separately or in conjunction with each other) to act as designees to the extent such agencies are determined to be qualified by the Secretary. In locations where there is no qualified State housing finance agency, housing agency or nonprofit to act as a designee, the Secretary may act as a designee. Each participation arrangement entered into under this subsection shall include a designee as the primarypartner. Any organization selected by the Secretary under this section shall have a long-term record of service in providing low-income housing and meet standards of fiscal responsibility, as determined by the Secretary.
 
 &emsp;“(3)
 
@@ -1128,9 +2148,15 @@ Notice of participation in demonstration.—Not later than 45 days before the da
 
 Demonstration contract.—Upon receipt of a notice under paragraph (1), the owner and the Secretary or designee shall enter into a demonstration contract, which shall provide for initial section 8 project-based rents at the same rent levels as those under the expiring contract or, if practical, the budget-based rent to cover debt service, reasonable operating expenses (including reasonable and appropriate services), and a reasonable return to the owner, as determined solely by the Secretary. The demonstration contract shall be for the minimum term necessary for the rents and mortgages of the multifamily housing project to be restructured under the demonstration program, but shall not be for a period of time to exceed 180 days, unless extended for good cause by the Secretary.
 
-“(g)
+“(g)(1)
 
-Project-Based Section 8.—The Secretary shall renew all expiring contracts under the demonstration as section 8 project-based contracts, for a period of time not to exceed one year, unless otherwise provided under subsection (h).
+Project-Based Section 8.—The Secretary shall renew all expiring contracts under the demonstration as section 8 project-based contracts, for a period of time not to exceed one year, unless otherwise provided under subsection (h) or in paragraph (2).
+
+“(2) The Secretary may renew a demonstration contract for an additional period of not to exceed 120 days, if—
+
+&emsp;“(A) the contract was originally executed before February 1, 1997, and the Secretary determines, in the sole discretion of the Secretary, that the renewal period for the contract needs to exceed 1 year, due to delay of publication of the Secretary's demonstration program guidelines until January 23, 1997 (not to exceed 21 projects); or
+
+&emsp;“(B) the contract was originally executed before October 1, 1997, in connection with a project that has been identified for restructuring under the joint venture approach described in section VII.B.2. of the Secretary's demonstration program guidelines, and the Secretary determines, in the sole discretion of the Secretary, that the renewal period for the contract needs to exceed 1 year, due to delay in implementation of the joint venture agreement required by the guidelines (not to exceed 25 projects).
 
 “(h)
 
@@ -1162,7 +2188,7 @@ Participation by third parties.—The Secretary or designee may enter into such 
 
 &emsp;&emsp;“(D)
 
-Section 8 administrative fees.—Notwithstanding any other provision of law, the Secretary may make fees available from the section 8 contract renewal appropriation to a designee for contract administration under section 8 of the UnitedStates Housing Act of 1937 \[42 U.S.C. 1437f\] for purposes of any contract restructured or renewed under the demonstration program.
+Section 8 administrative fees.—Notwithstanding any other provision of law, the Secretary may make fees available from the section 8 contract renewal appropriation to a designee for contract administration under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] for purposes of any contract restructured or renewed under the demonstration program.
 
 &emsp;&emsp;“(E)
 
@@ -1554,7 +2580,7 @@ Coordinating Committee.—
 
 &emsp;“(1)
 
-Establishment.—For a public housing agency to be eligible for designation or selection under subsection (d) for participation in the demonstration program, the chief executive officer of each unit of general local government in which the public housingagency is located shall appoint a coordinating committee under this paragraph. The coordinating committee shall participate in developing a plan for implementing the demonstration program, review, monitor, and make recommendations for improvements in activities under the demonstration program, and ensure the coordination and delivery of services under subsection (h).
+Establishment.—For a public housing agency to be eligible for designation or selection under subsection (d) for participation in the demonstration program, the chief executive officer of each unit of general local government in which the public housing agency is located shall appoint a coordinating committee under this paragraph. The coordinating committee shall participate in developing a plan for implementing the demonstration program, review, monitor, and make recommendations for improvements in activities under the demonstration program, and ensure the coordination and delivery of services under subsection (h).
 
 &emsp;“(2)
 
@@ -1856,7 +2882,7 @@ Regulations.—The Secretary shall issue any regulations necessary to carry out 
 
 Termination of Demonstration Program.—The demonstration program under this section shall terminate upon the expiration of the 10-year period beginning on the date of the enactment of this Act \[Nov. 28, 1990\].”
 
-\[Section 402(d)(6)(B) of Pub. L. 104–99, amending section 522(f)(6)(B) of Pub. L. 101–625, set out above, effective Jan. 26, 1996, and only for fiscal years 1996 and 1997, see section 402(f) of Pub. L. 104–99, as amended, set out as an Effective and Termination Dates of 1996 Amendments note under section 1437a of this title.\]
+\[Section 402(d)(6)(B) of Pub. L. 104–99, amending section 522(f)(6)(B) of Pub. L. 101–625, set out above, effective Jan. 26, 1996, and only for fiscal years 1996 and 1997, see section 402(f) of Pub. L. 104–99, as amended, set outas an Effective and Termination Dates of 1996 Amendments note under section 1437a of this title.\]
 
 \[Reference to preferences for assistance under section 1437d(c)(4)(A)(i), 1437f(d)(1)(A)(i), or 1437f(<i>o</i>)(3)(B) of this title (as such sections existed on the day before Jan. 26, 1996) be considered references to the written system of preferences for selection established pursuant to section 1437d(c)(4)(A), 1437f(d)(1)(A), or 1437f(<i>o</i>)(3)(B), respectively, of this title, as amended by section 402 of Pub. L. 104–99. See section 402(d)(6)(D) of Pub. L. 104–99, set out as a note under section 1437d of this title.\]
 
@@ -1910,7 +2936,7 @@ Section 561 of Pub. L. 101–625 directed Secretary of Housing and Urban Develop
 
 #### Study of Private Nonprofit Initiatives
 
-Section 582 of Pub. L. 101–625 directed Secretary of Housing and Urban Development to conduct a study to examine how private nonprofit initiatives to providelow-income housing development in local communities across the country have succeeded, with particular emphasis on how Federal housing policy and tax structures can best promote local private nonprofit organizations involvement in low-income housing development, and submit a report to Congress regarding findings not later than 1-year after Nov. 28, 1990.
+Section 582 of Pub. L. 101–625 directed Secretary of Housing and Urban Development to conduct a study to examine how private nonprofit initiatives to provide low-income housing development in local communities across the country have succeeded, with particular emphasis on how Federal housing policy and tax structures can best promote local private nonprofit organizations involvement in low-income housing development, and submit a report to Congress regarding findings not later than 1-year after Nov. 28, 1990.
 
 #### Preferences for Native Hawaiians on Hawaiian Homelands Under HUD Programs
 
@@ -1992,7 +3018,7 @@ Regulations.—The Secretary shall issue regulations to carry out this section a
 
 #### Prohibition of Reduction of Contract Rents; Budget Compliance
 
-Section 1004(b) of Pub. L. 100–628 provided that: “During fiscal year 1989, the amendment made by subsection (a)(2) \[amending this section\] shall be effective only to such extent or in such amounts as are provided in appropriation Acts. For purposes of section 202 of the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 (Public Law 100–119) \[2 U.S.C. 909\], to the extent that this section has the effect of transferring an outlay of the United States from one fiscal year to an adjacent fiscal year, the transfer is a necessary (but secondary) result of a significant policy change.”
+Section 1004(b) of Pub. L. 100–628 provided that: “During fiscal year 1989, the amendment made by subsection\(a)(2) \[amending this section\] shall be effective only to such extent or in such amounts as are provided in appropriation Acts. For purposes of section 202 of the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 (Public Law 100–119) \[2 U.S.C. 909\], to the extent that this section has the effect of transferring an outlay of the United States from one fiscal year to an adjacent fiscal year, the transfer is a necessary (but secondary) result of a significant policy change.”
 
 #### Project-Based Lower-Income Housing Assistance; Implementation of Program
 
@@ -2094,7 +3120,7 @@ Transition phase.—
 
 &emsp;“(4)
 
-Encouragement of savings.—The public housing agency shall take appropriate actions (including the establishment of an escrow savings account) to encourage each participating family to save funds during the remediation and transition phases.
+Encouragement of savings.—The public housing agency shall take appropriate actions (including the establishment of an escrow savings account) toencourage each participating family to save funds during the remediation and transition phases.
 
 &emsp;“(5)
 
@@ -2174,7 +3200,7 @@ Recovery.—Amounts may be recovered under this paragraph—
 
 #### Study by Secretary Concerning Feasibility of Minimum Rent Payment Requirements
 
-Section 212 of Pub. L. 96–153 directed the Secretary of Housing and Urban Development to conduct a study of the feasibility and financial desirability of requiring minimum rent payments from tenants in low-income housing assisted under this chapter, and to submit a report to the Congress containing the findings and conclusions of such study not later than ten days after the Budget for fiscal year 1981 is transmitted pursuant to section 11 of former Title 31, Money and Finance, and directed the Secretary of Housing and Urban Development to conduct a study to provide detailed comparisons between the rents paid by tenants occupying low-income housing assisted under this chapter and the rents paid by tenants at the same income level who are not in assisted housing and to transmit a report on such study to the Congress not later than Mar. 1, 1980.
+Section 212 of Pub. L. 96–153 directed the Secretary of Housing and Urban Development to conduct a study of the feasibility and financial desirability of requiring minimum rent payments from tenants in low-incomehousing assisted under this chapter, and to submit a report to the Congress containing the findings and conclusions of such study not later than ten days after the Budget for fiscal year 1981 is transmitted pursuant to section 11 of former Title 31, Money and Finance, and directed the Secretary of Housing and Urban Development to conduct a study to provide detailed comparisons between the rents paid by tenants occupying low-income housing assisted under this chapter and the rents paid by tenants at the same income level who are not in assisted housing and to transmit a report on such study to the Congress not later than Mar. 1, 1980.
 
 #### Study of Alternative Means of Encouraging the Development of Housing
 
@@ -2190,7 +3216,7 @@ Section 203 of Pub. L. 93–383 provided that: “The rental or income contribut
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1436a, 1437a, 1437c, 1437d, 1437e, 1437g, 1437j, 1437<i>l</i>, 1437m, 1437n, 1437p, 1437s, 1437u, 1437w, 1437y, 1437z, 1437aaa, 1437aaa–2, 1437aaa–3, 1439, 1472, 1490j, 1490m, 4822, 4851b, 4855, 5302, 5304, 8011, 8012, 8013, 11401, 11403e–1, 11404b, 11405b, 11406b, 11407, 11905, 12742, 12745, 12747, 12839, 12871, 12873, 12874, 12899d, 12908, 12909, 12910, 13603, 13611, 13613, 13614, 13615, 13616, 13617, 13619, 13641 of this title; title 12 sections 1701s, 1701z–11, 1701z–12, 1701z–13, 1709, 1715<i>l</i>, 1715z–1, 1715z–1a, 1715z–1c, 1715z–6, 4105, 4109, 4110, 4111, 4112, 4113, 4116, 4119, 4125; title 26 sections 42, 142, 143, 1250; title 37 section 403a; title 40 App. section 207.
+This section is referred to in sections 1436a, 1437a, 1437c, 1437d, 1437e, 1437g, 1437j, 1437<i>l</i>, 1437m, 1437n, 1437p, 1437s, 1437u, 1437w, 1437y, 1437z, 1437aaa, 1437aaa–2, 1437aaa–3, 1439, 1472, 1490j, 1490m, 4822, 4851b, 4855, 5302, 5304, 8011, 8012, 8013, 11401, 11403e–1, 11404b, 11405b, 11406b, 11407, 11905, 12742, 12745, 12747, 12839, 12871, 12873, 12874, 12899d, 12908, 12909, 12910, 13603, 13611, 13613, 13614, 13615, 13616, 13617, 13619, 13641 of this title; title 12 sections 1701s, 1701z–11, 1701z–12, 1701z–13, 1709, 1715<i>l</i>, 1715z–1, 1715z–1a, 1715z–1c, 1715z–6, 4105, 4109, 4110, 4111, 4112, 4113, 4116, 4119, 4125; title 26 sections 42, 142, 143, 1250; title 40 App. section 207.
 
 <i><sup>1</sup></i><i> Par. (1) designation struck out and par. (2) added by Pub. L. 101–625.</i>
 

@@ -20,15 +20,11 @@ In using simplified acquisition procedures, the head of an executive agency shal
 
 The simplified acquisition procedures contained in the Federal Acquisition Regulation shall include a requirement that a contracting officer consider each responsive offer timely received from an eligible offeror.
 
-#### (e) Special rules for use of simplified acquisition procedures
-
-The simplified acquisition procedures provided in the Federal Acquisition Regulation pursuant to section 2304(g)(1)(A) of title 10, section 253(g)(1)(A) of this title, and subsection (a)(1) of this section may not be used by an agency after December 31, 1999, for contracts in amounts greater than $50,000 and not greater than the simplified acquisition threshold until a certification has been made pursuant to section 426a(a)(2) of this title that the agency has implemented a full FACNET capability.
-
-#### (f) Interim reporting rule
+#### (e) Interim reporting rule
 
 Until October 1, 1999, procuring activities shall continue to report under section 417(d) of this title procurement awards with a dollar value of at least $25,000, but less than $100,000, in conformity with the procedures for the reporting of a contract award greater than $25,000 that were in effect on October 1, 1992.
 
-#### (g) Special rules for commercial items
+#### (f) Special rules for commercial items
 
 The Federal Acquisition Regulation shall provide that, in the case of a purchase of commercial items using special simplified procedures, an executive agency—
 
@@ -38,9 +34,11 @@ The Federal Acquisition Regulation shall provide that, in the case of a purchase
 
 &emsp;(3) shall include in the contract file a written description of the procedures used in awarding the contract and the number of offers received.
 
-(Pub. L. 93–400, §31, as added Pub. L. 103–355, title IV, §4201(a), Oct. 13, 1994, 108 Stat. 3342; amended Pub. L. 104–106, div. D, title XLII, §4202(c), title XLIII, §4302(b), Feb. 10, 1996, 110 Stat. 653, 658; Pub. L. 104–201, div. A, title X, §1074(b)(6), Sept. 23, 1996, 110 Stat. 2660.)
+(Pub. L. 93–400, §31, as added Pub. L. 103–355, title IV, §4201(a), Oct. 13, 1994, 108 Stat. 3342; amended Pub. L. 104–106, div. D, title XLII, §4202(c), title XLIII, §4302(b), Feb. 10, 1996, 110 Stat. 653, 658; Pub. L. 104–201, div. A, title X, §1074(b)(6), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div. A, title VIII, §850(d), Nov. 18, 1997, 111 Stat. 1848.)
 
 #### Amendments
+
+1997—Subsecs. (e) to (g). Pub. L. 105–85 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of subsec. (e). Text read as follows: “The simplified acquisition procedures provided in the Federal Acquisition Regulation pursuantto section 2304(g)(1)(A) of title 10, section 253(g)(1)(A) of this title, and subsection (a)(1) of this section may not be used by an agency after December 31, 1999, for contracts in amounts greater than $50,000 and not greater than the simplified acquisition threshold until a certification has been made pursuant to section 426a(a)(2) of this title that the agency has implemented a full FACNET capability.”
 
 1996—Subsec. (a). Pub. L. 104–106, §4202(c)(1), as amended by Pub. L. 104–201, substituted “shall provide for—” and pars. (1) and (2) for “shall provide for special simplified procedures for contracts for acquisition of property and services that are not greater than the simplified acquisition threshold.”
 
@@ -50,7 +48,7 @@ Pub. L. 104–106, §4302(b)(1), designated subsec. (e)(2)(B) as entire subsec. 
 
 “(1)
 
-Effect of interim facnet capability.—The simplified acquisition procedures provided in the FederalAcquisition Regulation pursuant to this section may not be used by a procuring activity of an agency for contracts in amounts greater than $50,000 and not greater than the simplified acquisition threshold until a certification has been made pursuant to section 426a(a)(1) of this title that the procuring activity has implemented an interim FACNET capability.
+Effect of interim facnet capability.—The simplified acquisition procedures provided in the Federal Acquisition Regulation pursuant to this section may not be used by a procuring activity of an agency for contracts in amounts greater than $50,000 and not greater than the simplified acquisition threshold until a certification has been made pursuant to section 426a(a)(1) of this title that the procuring activity has implemented an interim FACNET capability.
 
 “(2)
 
@@ -63,6 +61,10 @@ Effect of full facnet capability.—(A)(i) In the case of a procuring activity d
 &emsp;“(II) that is in an agency that has excluded the procuring activity from the agency's full FACNET certification under section 426a(a)(2) of this title on the basis that implementation of full FACNET capability would not be cost effective or practicable in that activity.”
 
 Subsec. (g). Pub. L. 104–106, §4202(c)(2), added subsec. (g).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective 180 days after Nov. 18, 1997, see section 850(g) of Pub. L. 105–85, set out as a note under section 2302c of Title 10, Armed Forces.
 
 #### Effective Date of 1996 Amendments
 

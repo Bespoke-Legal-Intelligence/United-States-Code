@@ -20,7 +20,7 @@ For purposes of this section, the term—
 
 &emsp;(C) based on substantiated comments received from small business concerns and the Boards, annually report to Congress and affected agencies evaluating the enforcement activities of agency personnel including a rating of the responsiveness to small business of the various regional and program offices of each agency;
 
-&emsp;(D) coordinate and report annually on the activities, findings and recommendations ofthe Boards to the Administrator and to the heads of affected agencies; and
+&emsp;(D) coordinate and report annually on the activities, findings and recommendations of the Boards to the Administrator and to the heads of affected agencies; and
 
 &emsp;(E) provide the affected agency with an opportunity to comment on draft reports prepared under subparagraph (C), and include a section of the final report in which the affected agency may make such comments as are not addressed by the Ombudsman in revisions to the draft.
 

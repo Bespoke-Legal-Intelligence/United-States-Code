@@ -12,7 +12,7 @@ Considerations and Consultation.—When prescribing a motor vehicle safety stand
 
 &emsp;(2) consult with the agency established under the Act of August 20, 1958 (Public Law 85–684, 72 Stat. 635), and other appropriate State or interstate authorities (including legislative committees);
 
-&emsp;(3) consider whether a proposed standard is reasonable, practicable, and appropriate for the particular type of motor vehicle or motor vehicle equipment for which it is prescribed; and
+&emsp;(3) consider whether a proposed standard is reasonable, practicable, and appropriate forthe particular type of motor vehicle or motor vehicle equipment for which it is prescribed; and
 
 &emsp;(4) consider the extent to which the standard will carry out section 30101 of this title.
 

@@ -2,7 +2,7 @@
 
 The Secretary of Commerce is authorized to pay extra compensation to members of crews of vessels when assigned duties as instrument observer or recorder, and to employees of other Federal agencies while observing tides or currents, or tending seismographs or magnetographs, at such rates as may be specified from time to time by him and without regard to section 5533 of title 5.
 
-(July 22, 1947, ch. 286, §2, 61 Stat. 400; Mar. 28, 1960, Pub. L. 86–397, §1, 74 Stat. 11; Aug. 19, 1964, Pub. L. 88–448, title IV, §401(<i>l</i>), 78 Stat. 491.)
+(July 22, 1947, ch. 286, §2, 61 Stat. 400; Pub. L. 86–397, §1, Mar. 28, 1960, 74 Stat. 11; Pub. L. 88–448, title IV, §401(<i>l</i>), Aug. 19, 1964, 78 Stat. 491.)
 
 #### Codification
 

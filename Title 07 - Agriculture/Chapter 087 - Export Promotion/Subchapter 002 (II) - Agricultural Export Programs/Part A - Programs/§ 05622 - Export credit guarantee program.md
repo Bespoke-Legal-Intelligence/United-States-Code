@@ -132,7 +132,7 @@ Subsec. (k). Pub. L. 104–127, §243(a)(5), added subsec. (k) and struck out he
 
 “(1)
 
-In general.—In issuing export credit guarantees under this section in connection with sales to the independent states of the former Soviet Union, the Commodity Credit Corporation shall, to the extent practicable and subject to paragraph (2), ensure that no less than 35 percent of the total amount of credit guarantees issued for a fiscal year are issued to promote theexport of processed and high-value agricultural products and that the balance are issued to promote the export of bulk or raw agricultural commodities.
+In general.—In issuing export credit guarantees under this section in connection with sales to the independent states of the former Soviet Union, the Commodity Credit Corporation shall, to the extent practicable and subject to paragraph (2), ensure that no less than 35 percent of the total amount of credit guarantees issued for a fiscal year are issued to promote the export of processed and high-value agricultural products and that the balance are issued to promote the export of bulk or raw agricultural commodities.
 
 “(2)
 
@@ -158,7 +158,7 @@ Section 1542 of title XV of Pub. L. 101–624, as amended by Pub. L. 102–237, 
 
 “(a)
 
-Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2002 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
+Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2002 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to theamounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
 
 “(b)
 

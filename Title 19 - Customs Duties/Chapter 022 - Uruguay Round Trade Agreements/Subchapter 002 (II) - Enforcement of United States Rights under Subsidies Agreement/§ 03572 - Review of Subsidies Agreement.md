@@ -46,7 +46,7 @@ The specific objective of the United States under this subchapter shall be to cr
 
 #### (B) Implementing bill
 
-&emsp;&emsp;The implementing bill referred to in subparagraph (A) shall contain only those provisions that are necessary or appropriate to implement an extension of the provisions of section 1677(5B)(B), (C), (D), and (E) of thistitle as in effect on the day before the date of the enactment of the implementing bill or as modified to reflect the determination of the Subsidies Committee to extend Articles 6.1, 8, and 9 of the Subsidies Agreement.
+&emsp;&emsp;The implementing bill referred to in subparagraph (A) shall contain only those provisions that are necessary or appropriate to implement an extension of the provisions of section 1677(5B)(B), (C), (D), and (E) of this title as in effect on the day before the date of the enactment of the implementing bill or as modified to reflect the determination of the Subsidies Committee to extend Articles 6.1, 8, and 9 of the Subsidies Agreement.
 
 #### (C) Supporting information
 

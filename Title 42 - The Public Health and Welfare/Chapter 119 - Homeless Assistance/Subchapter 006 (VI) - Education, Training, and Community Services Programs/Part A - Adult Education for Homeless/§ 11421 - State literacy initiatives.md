@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) include outreach activities; and
 
-&emsp;&emsp;(B) be coordinated with other agencies or organizations, such as community-based organizations, nonprofit literacy-action organizations, and recipients of funds under the Adult Education Act \[20 U.S.C. 1201 et seq.\], title II of the Job Training Partnership Act \[29 U.S.C. 1601 et seq.\], the Youth Fair Chance program under part H of title IV of the Job Training Partnership Act \[29 U.S.C. 1782 et seq.\], the Volunteers in Service to America program under part A of title I of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq.\], part C of this subchapter, or the Job Opportunity and Basic Skills program under part F <sup>1</sup> of title IV of the Social Security Act.
+&emsp;&emsp;(B) be coordinated with other agencies or organizations, such as community-based organizations, nonprofit literacy-action organizations, and recipients of funds under the Adult Education Act \[20 U.S.C. 1201 et seq.\], title II of the Job Training Partnership Act \[29 U.S.C. 1601 et seq.\], the Youth Fair Chance program under part H of title IV of the Job Training Partnership Act \[29 U.S.C. 1782 et seq.\], the Volunteers in Service to America program under part A of title I of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4951 et seq.\], part C of this subchapter, or the Job Opportunity and BasicSkills program under part F <sup>1</sup> of title IV of the Social Security Act.
 
 #### (2) Estimates and amounts
 
@@ -36,7 +36,7 @@ The Job Training Partnership Act, referred to in subsec. (a)(1)(B), is Pub. L. 9
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(1)(B), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Part A of title I of the Act is classified generally to part A (§4951 et seq.) of subchapter I of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (a)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of this title prior to repeal by Pub. L. 104–193,title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of this title prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 For Oct. 1, 1994, as the effective date the Compact of Free Association with the Government of Palau, referred to in subsec. (d), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
@@ -48,5 +48,5 @@ A prior section 701 of Pub. L. 100–77 amended prior sections 1205 and 1207a of
 
 #### Effective Date
 
-Section effective July 1, 1995, see section 3(a)(3)(A) of Pub. L. 103–382, set out as an Effective Date of 1994 Amendment note under section 1411 of Title 20, Education.
+Section effective July 1, 1995, see section 3(a)(3)(A) of Pub. L. 103–382, set out as a note under section 11431 of this title.
 

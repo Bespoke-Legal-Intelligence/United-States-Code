@@ -26,7 +26,7 @@ Authority to enter.—A motor carrier providing transportation or service subjec
 
 &emsp;(2)
 
-Submission of agreement to board; approval.—An agreement entered into under subsection (a) <sup>1</sup> may be submitted by any carrier or carriers that are parties to such agreement to the Board for approval and may be approved by the Board only if it finds that such agreement is in the public interest.
+Submission of agreement to board; approval.—An agreement entered into under paragraph (1) may be submitted by any carrier or carriers that are parties to such agreement to the Board for approval and may be approved by the Board only if it finds that such agreement is in the public interest.
 
 &emsp;(3)
 
@@ -126,7 +126,13 @@ Mileage limitation.—No carrier subject to jurisdiction under subchapter I or I
 
 Single Line Rate Defined.—In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28), Oct. 11, 1996, 110 Stat. 3391.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28),Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 105–102
+
+This amends 49:13703(a)(2) to correct an erroneous cross-reference.
 
 #### References in Text
 
@@ -140,6 +146,8 @@ Provisions similar to those in this section were contained in section 10706 of t
 
 #### Amendments
 
+1997—Subsec. (a)(2). Pub. L. 105–102 substituted “paragraph (1)” for “subsection (a)”.
+
 1996—Subsec. (e). Pub. L. 104–287, §5(28)(A), substituted “December 31, 1995,” for “the day before the effective date of this section” and “January 1, 1996” for “such effective date”.
 
 Subsec. (f)(2). Pub. L. 104–287, §5(28)(B), substituted “December 31, 1995” for “the day before the effective date of this section”.
@@ -151,6 +159,4 @@ Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 13541, 13701, 14706 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
 

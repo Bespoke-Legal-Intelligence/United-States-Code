@@ -120,7 +120,7 @@ Funding.—Of the funds authorized to be appropriated pursuant to section 201 \[
 
 “(g)
 
-Report.—(1) If the Secretary of Defense determines not to establish a women's health center undersubsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives, not later than May 1, 1994, a report on the plans of the Secretary for the use of the funds described in subsection (f).
+Report.—(1) If the Secretary of Defense determines not to establish a women's health center under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives, not later than May 1, 1994, a report on the plans of the Secretary for the use of the funds described in subsection (f).
 
 “(2) If the Secretary determines to establish the Center, the Secretary shall, not less than 60 days before the establishment of the Center, submit to those committees a report describing the planned location for the Center and the competitive process used in the selection of that location.”
 

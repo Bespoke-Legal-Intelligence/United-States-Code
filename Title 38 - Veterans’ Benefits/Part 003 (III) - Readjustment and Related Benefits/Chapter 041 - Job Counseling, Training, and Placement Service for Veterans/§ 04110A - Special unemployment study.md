@@ -28,7 +28,7 @@ The date of the enactment of this section, referred to in subsec. (b), is the da
 
 Prior sections 4111 to 4119 were repealed by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210.
 
-Section 4111, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87–793, §804, Oct. 11, 1962, 76 Stat. 861; Pub. L. 89–785, title I, §108, Nov. 7, 1966, 80 Stat. 1370; Pub. L. 98–160, title II, §206, Nov. 21, 1983, 97 Stat. 1001, related to appointment of additional employees. See section 7408 of this title.
+Section 4111, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 87–793, §804, Oct. 11, 1962, 76 Stat. 861; Pub. L.89–785, title I, §108, Nov. 7, 1966, 80 Stat. 1370; Pub. L. 98–160, title II, §206, Nov. 21, 1983, 97 Stat. 1001, related to appointment of additional employees. See section 7408 of this title.
 
 Section 4112, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1247; Pub. L. 89–785, title I, §109(a), Nov. 7, 1966, 80 Stat. 1370; Pub. L. 93–82, title II, §205(b), Aug. 2, 1973, 87 Stat. 192; Pub. L. 94–581, title I, §110(8), title II, §§209(b)(3), 210(c)(6), Oct. 21, 1976, 90 Stat. 2849, 2861, 2864; Pub. L. 96–151, title III, §305, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 96–330, title I, §115, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 98–223, title II, §209, Mar. 2, 1984, 98 Stat. 44; Pub. L. 100–322, title II, §224, May 20, 1988, 102 Stat. 532, related to special medical advisory group and other advisory bodies. See sections 7312 and 7313 of this title.
 

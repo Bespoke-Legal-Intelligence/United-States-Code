@@ -8,13 +8,13 @@
 
 #### References in Text
 
-The United States Housing Act of 1937 and said Act, referred to in subsec. (a), are act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937 and said Act, referred to in subsec. (a), are act Sept. 1, 1937, ch. 896,as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 Sections 361 to 386 of title 40, referred to in subsec. (b), were repealed by Pub. L. 88–241, §21(b), Dec. 23, 1963, 77 Stat. 627. See chapter 13 (§16–1301 et seq.) of Title 16, Particular Actions, Proceedings and Matters, of the District of Columbia Code.
 
 #### Change of Name
 
-Department of the Air Force inserted to conform to section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61Stat. 501, 502, and Secretary of Defense Transfer Order No. 40 \[App. A(75)\], July 22, 1949. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of such act July 26, 1947. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
+Department of the Air Force inserted to conform to section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61 Stat. 501, 502, and Secretary of Defense Transfer Order No. 40 \[App. A(75)\], July 22, 1949. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of such act July 26, 1947. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of the Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
 
 #### Amendments
 

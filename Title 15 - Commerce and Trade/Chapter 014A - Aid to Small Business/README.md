@@ -12,6 +12,7 @@
 | (g) | Assistance to disaster victims under disaster loan program. |
 | (h) | Assistance to women owned business. |
 | (i) | Prohibition on use of funds for individuals not lawfully within United States. |
+| (j) | Contract bundling. |
 | [631a.](%C2%A7%2000631a%20-%20Congressional%20declaration%20of%20small%20business%20economic%20policy.md) | Congressional declaration of small business economic policy. |
 | (a) | Foster small business. |
 | (b) | Capital availability to small business. |
@@ -36,6 +37,8 @@
 | (<i>l</i>) | “Computer crime” defined. |
 | (m) | “Simplified acquisition threshold” defined. |
 | (n) | “Small business concern owned and controlled by women” defined. |
+| (<i>o</i>) | Definitions of bundling of contract requirements and related terms. |
+| (p) | Definitions relating to HUBZones. |
 | [633\.](%C2%A7%2000633%20-%20Small%20Business%20Administration.md) | Small Business Administration. |
 | (a) | Creation; principal, branch, and regional offices. |
 | (b) | Appointment of Administrator, Deputy Administrator, and Associate Administrators; duties of Administrator: preparation of data base and publication of economic indices and annual report; risk management database; computer security and education program. |
@@ -61,7 +64,7 @@
 | [634g.](%C2%A7%2000634g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [635\.](%C2%A7%2000635%20-%20Deposit%20of%20moneys%3B%20depositaries%2C%20custodians%2C%20and%20fiscal%20agents%3B%20contributions%20to%20employees%E2%80%99%20compensation%20funds.md) | Deposit of moneys; depositaries, custodians, and fiscal agents; contributions to employees’ compensation funds. |
 | [636\.](%C2%A7%2000636%20-%20Additional%20powers.md) | Additional powers. |
-| (a) | Loans to small-business concerns; allowable purposes; qualified business; restrictions and limitations. |
+| (a) | Loans to small business concerns; allowable purposes; qualified business; restrictions and limitations. |
 | (b) | Disaster loans; authorization, scope, terms and conditions, etc. |
 | (c) | Extension or renewal of loans; purchase of participations; assumption of obligations; disaster loans; interest rates; loan amounts. |
 | (d) | Funds for small business development centers under section 648 of this title. |
@@ -73,7 +76,7 @@
 | (j) | Financial assistance for projects providing technical or management assistance; areas of high concentration of unemployment or low-income; preferences; manner and method of payment; accessible services; program evaluations; establishment of development program; coordination of policies. |
 | (k) | Functions relating to loans and financial assistance for projects providing technical or management assistance to individuals or enterprises eligible for assistance as small business concerns located in urban or rural areas with high proportions of unemployed or low-income individuals, or owned by low-income individuals. |
 | (<i>l</i>) | \[RESERVED\]. |
-| (m) | Microloan Demonstration Program. |
+| (m) | Microloan Program. |
 | [636a.](%C2%A7%2000636a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XIX%2C%20%C2%A71917%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20781.md) | Repealed. |
 | [636b.](%C2%A7%2000636b%20-%20Disaster%20loan%20interest%20rates.md) | Disaster loan interest rates. |
 | [636c.](%C2%A7%2000636c%20-%20Age%20of%20applicant%20for%20disaster%20loans.md) | Age of applicant for disaster loans. |
@@ -91,6 +94,7 @@
 | (h) | Award of contracts; procedures other than competitive ones; exceptions. |
 | (i) | Availability; complete solicitation package; fees. |
 | (j) | “Executive agency” defined. |
+| (k) | Notices of subcontracting opportunities. |
 | [637a.](%C2%A7%2000637a%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93409%2C%20%C2%A73%28b%29%2C%20May%202%2C%201966%2C%2080%20Stat.%20133.md) | Repealed. |
 | [637b.](%C2%A7%2000637b%20-%20Availability%20of%20information.md) | Availability of information. |
 | (a) | Requests for information. |
@@ -115,6 +119,8 @@
 | (p) | STTR policy directive. |
 | (q) | Discretionary technical assistance. |
 | (r) | Third phase agreements. |
+| (s) | Outreach. |
+| (t) | Inclusion in strategic plans. |
 | [639\.](%C2%A7%2000639%20-%20Reporting%20requirements%20and%20agency%20cooperation.md) | Reporting requirements and agency cooperation. |
 | (a) | Annual reports to President and Congressional officers and committees. |
 | (b) | Report of expenditures in conduct of activities; contents; information to Congressional committees. |
@@ -138,7 +144,8 @@
 | (b) | Placement of contracts by contracting procurement agency. |
 | (c) | Programs for blind and handicapped individuals. |
 | (d) | Priority. |
-| (e), | (f) Repealed. |
+| (e) | Procurement strategies; contract bundling. |
+| (f) | Repealed. |
 | (g) | Goals for participation of small business concerns in procurement contracts. |
 | (h) | Reports to Administration; submittal of information to Congress. |
 | (i) | Small business set-asides. |
@@ -172,6 +179,7 @@
 | (j) | Small business development center advisory board; establishment; chairman; conferences with director on policy. |
 | (k) | Program examination and certification. |
 | (<i>l</i>) | Contract authority. |
+| (m) | Prohibition on certain fees. |
 | [648a.](%C2%A7%2000648a%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93140%2C%20title%20VI%2C%20%C2%A7609%28e%29%2C%20Oct.%2028%2C%201991%2C%20105%20Stat.%20826.md) | Repealed. |
 | [649\.](%C2%A7%2000649%20-%20Office%20of%20International%20Trade.md) | Office of International Trade. |
 | (a) | Establishment. |
@@ -231,20 +239,27 @@
 | (g) | Final report. |
 | (h) | Authorization of appropriations. |
 | (i) | Funding from other sources; employment of Centers by Federal agencies. |
-| [656\.](%C2%A7%2000656%20-%20Women%27s%20demonstration%20projects.md) | Women's demonstration projects. |
-| (a) | Authorization; purposes. |
-| (b) | Contributions from non-Federal sources. |
-| (c) | Submission of plan; evaluation. |
-| (d) | “Small business concern” defined. |
-| (e) | Authorization of appropriations. |
-| (f) | Annual report. |
-| (g) | Termination of funding for new projects. |
-| (h) | Office of Women's Business Ownership. |
+| [656\.](%C2%A7%2000656%20-%20Women%27s%20business%20center%20program.md) | Women's business center program. |
+| (a) | Definitions. |
+| (b) | Authority. |
+| (c) | Conditions of participation. |
+| (d) | Contract authority. |
+| (e) | Submission of 5-year plan. |
+| (f) | Criteria. |
+| (g) | Office of Women's Business Ownership. |
+| (h) | Program examination. |
+| (i) | Contract authority. |
+| (j) | Report. |
+| (k) | Authorization of appropriations. |
 | [657\.](%C2%A7%2000657%20-%20Oversight%20of%20regulatory%20enforcement.md) | Oversight of regulatory enforcement. |
 | (a) | Definitions. |
 | (b) | SBA Enforcement Ombudsman. |
 | (c) | Regional Small Business Regulatory Fairness Boards. |
 | (d) | Powers of Boards. |
+| [657a.](%C2%A7%2000657a%20-%20HUBZone%20program.md) | HUBZone program. |
+| (a) | In general. |
+| (b) | Eligible contracts. |
+| (c) | Enforcement; penalties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -304,5 +319,6 @@ This chapter is referred to in sections 662, 687 of this title; title 7 section 
 - [&sect; 00653 - Office of Rural Affairs](%C2%A7%2000653%20-%20Office%20of%20Rural%20Affairs.md)
 - [&sect; 00654 - Tourism demonstration program](%C2%A7%2000654%20-%20Tourism%20demonstration%20program.md)
 - [&sect; 00655 - Pilot Technology Access Program](%C2%A7%2000655%20-%20Pilot%20Technology%20Access%20Program.md)
-- [&sect; 00656 - Women's demonstration projects](%C2%A7%2000656%20-%20Women%27s%20demonstration%20projects.md)
+- [&sect; 00656 - Women's business center program](%C2%A7%2000656%20-%20Women%27s%20business%20center%20program.md)
 - [&sect; 00657 - Oversight of regulatory enforcement](%C2%A7%2000657%20-%20Oversight%20of%20regulatory%20enforcement.md)
+- [&sect; 00657a - HUBZone program](%C2%A7%2000657a%20-%20HUBZone%20program.md)

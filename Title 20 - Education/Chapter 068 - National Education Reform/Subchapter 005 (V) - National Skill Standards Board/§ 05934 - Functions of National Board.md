@@ -56,7 +56,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 &emsp;(2) identify and maintain a catalog of skill standards used by other countries and by States and leading firms and industries in the United States;
 
-&emsp;(3) serve as a clearinghouse to facilitate the sharing of information on the development of skill standards and other relevant information among representatives of occupations and industries identified pursuant to subsection (a) of this section, the voluntary partnerships described in subsection (b) of this section, and among education and training providers through such mechanisms as the Capacity Building and Information and Dissemination Network established under section 1733(b) of title 29 and the Educational Resources Information Center Clearinghouses;
+&emsp;(3) serve as a clearinghouse to facilitate the sharing of information on the development of skill standards and other relevant information among representatives of occupations and industries identified pursuant to subsection (a) of this section, the voluntary partnerships described in subsection (b) of this section, and among education and training providers through such mechanisms as the Capacity Building and Information and Dissemination Network established under section 1733(b) oftitle 29 and the Educational Resources Information Center Clearinghouses;
 
 &emsp;(4) develop a common nomenclature relating to skill standards;
 
@@ -102,7 +102,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 &emsp;&emsp;(iv) A system to evaluate the implementation of the skill standards, and assessment and certification systems developed pursuant to this paragraph, and the effectiveness of the information disseminated pursuant to subparagraph (C) for informing the users of such standards and systems of the requirements of relevant civil rights laws.
 
-&emsp;&emsp;(v) A system to periodically revise and update the skill standards, and assessment andcertification systems developed pursuant to this paragraph, which will take into account changes in standards in other countries.
+&emsp;&emsp;(v) A system to periodically revise and update the skill standards, and assessment and certification systems developed pursuant to this paragraph, which will take into account changes in standards in other countries.
 
 #### (2) Endorsement
 

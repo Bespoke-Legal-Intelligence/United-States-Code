@@ -14,7 +14,7 @@ Not later than 18 months before the date on which the Secretary commences offeri
 
 &emsp;(3) if the Secretary determines that selling the crude helium reserves under the formula established in section 167f of this title will have a substantial adverse effect on the United States helium industry, the United States helium market or United States scientific, technological, biomedical, or national security interest, the Secretary shall make recommendations, including recommendations for proposed legislation, as may be necessary to avoid such adverse effects.
 
-(Mar. 3, 1925, ch. 426, §15, as added Sept. 13, 1960, Pub. L. 86–777, §2, 74 Stat. 923; amended Oct. 9, 1996, Pub. L. 104–273, §7, 110 Stat. 3319.)
+(Mar. 3, 1925, ch. 426, §15, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 923; amended Pub. L. 104–273, §7, Oct. 9, 1996, 110 Stat. 3319.)
 
 #### Amendments
 

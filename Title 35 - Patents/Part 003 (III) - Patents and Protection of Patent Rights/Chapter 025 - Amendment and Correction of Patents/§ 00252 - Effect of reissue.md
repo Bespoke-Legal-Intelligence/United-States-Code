@@ -4,7 +4,7 @@ The surrender of the original patent shall take effect upon the issue of the rei
 
 A reissued patent shall not abridge or affect the right of any person or that person's successors in business who, prior to the grant of a reissue, made, purchased, offered to sell, or used within the United States, or imported into the United States, anything patented by the reissued patent, to continue the use of, to offer to sell, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported unless the making, using, offering for sale, or selling of such thing infringes a valid claim of the reissued patent which was in the original patent. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, used, or imported as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made before the grant of the reissue, and the court may also provide for the continued practice of any process patented by the reissue that is practiced, or for the practice of which substantial preparation was made, before the grant of the reissue, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the grant of the reissue.
 
-(July 19, 1952, ch. 950, 66 Stat. 808; Dec. 8, 1994, Pub. L. 103–465, title V, §533(b)(2), 108 Stat. 4989.)
+(July 19, 1952, ch. 950, 66 Stat. 808; Pub. L. 103–465, title V, §533(b)(2), Dec. 8, 1994, 108 Stat. 4989.)
 
 #### Historical and Revision Notes
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may, for each article described in paragraph (2), make available some or all of the commercial export promotion programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice serving as the basis for the proceeding described in paragraph (2).
+&emsp;The Secretary may, for each article described in paragraph (2), make available someor all of the commercial export promotion programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice serving as the basis for the proceeding described in paragraph (2).
 
 #### (2) Commodities specified
 

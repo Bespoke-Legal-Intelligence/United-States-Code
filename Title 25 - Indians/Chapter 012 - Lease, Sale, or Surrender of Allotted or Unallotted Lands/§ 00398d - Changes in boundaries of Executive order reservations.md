@@ -2,7 +2,7 @@
 
 Changes in the boundaries of reservations created by Executive order, proclamation, or otherwise for the use and occupation of Indians shall not be made except by Act of Congress.
 
-(Mar. 3, 1927, ch. 299, §4, 44 Stat. 1347; Oct. 21, 1976, Pub. L. 94–579, title VII, §704(a), 90 Stat. 2792.)
+(Mar. 3, 1927, ch. 299, §4, 44 Stat. 1347; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
 #### Amendments
 

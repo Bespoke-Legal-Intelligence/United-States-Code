@@ -14,7 +14,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 #### (1) Investigation and report to management
 
-&emsp;If, in the course of conducting an audit pursuant to this chapter to which subsection (a) of this section applies, the independent public accountant detects or otherwise becomes aware of information indicating that an illegal act (whether or not perceived to have a material effect on the financial statements of theissuer) has or may have occurred, the accountant shall, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
+&emsp;If, in the course of conducting an audit pursuant to this chapter to which subsection (a)of this section applies, the independent public accountant detects or otherwise becomes aware of information indicating that an illegal act (whether or not perceived to have a material effect on the financial statements of the issuer) has or may have occurred, the accountant shall, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
 
 &emsp;&emsp;(A)(i) determine whether it is likely that an illegal act has occurred; and
 
@@ -78,5 +78,5 @@ Section 301(b) of Pub. L. 104–67 provided that: “The amendment made by subse
 
 #### Construction
 
-Section 203 of Pub. L. 104–67 provided that: “Nothing in this Act \[see Short Title of 1995 Amendment note set out under section 78a of this title\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].”
+Section 203 of Pub. L. 104–67 provided that: “Nothing in this Act \[see Short Title of 1995 Amendment note set out under section 78a of this title\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting orotherwise regulating private actions under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].”
 

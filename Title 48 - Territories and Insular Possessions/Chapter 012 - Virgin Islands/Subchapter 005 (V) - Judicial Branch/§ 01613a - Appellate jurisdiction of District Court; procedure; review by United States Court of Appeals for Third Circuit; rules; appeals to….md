@@ -16,7 +16,7 @@ The United States Court of Appeals for the Third Circuit shall have jurisdiction
 
 Upon the establishment of the appellate court provided for in section 1611(a) of this title all appeals from the decisions of the courts of the Virgin Islands established by local law not previously taken must be taken to that appellate court. The establishment of the appellate court shall not result in the loss of jurisdiction of the district court over any appeal then pending in it. The rulings of the district court on such appeals may be reviewed in the United States Court of Appeals for the Third Circuit and in the Supreme Court notwithstanding the establishment of the appellate court.
 
-(July 22, 1954, ch. 558, §23A, as added Oct. 5, 1984, Pub. L. 98–454, title VII, §705, 98 Stat. 1739.)
+(July 22, 1954, ch. 558, §23A, as added Pub. L. 98–454, title VII, §705, Oct. 5, 1984, 98 Stat. 1739.)
 
 #### References in Text
 

@@ -26,7 +26,7 @@ By Other Means.—Whoever, in the special maritime and territorial jurisdiction 
 
 (c)
 
-With Children.—Whoever crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or knowingly engages in a sexual act under the circumstances described in subsections (a) and (b) with another person who has attained the age of 12 years but has not attained the age of 16 years (and is at least 4 years younger than that person), or attempts to do so, shall be fined under this title, imprisoned for any term of years or life, or both. If the defendant has previously been convicted of another Federal offense under this subsection, or of a State offense that would have been an offense under either such provision had the offense occurred in a Federal prison, unless the death penalty is imposed, the defendant shall be sentenced to life in prison.
+With Children.—Whoever crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or knowingly engages in a sexual act under the circumstances described in subsections (a) and (b) with another person who has attained the age of 12 years but has not attained the age of 16 years (and is at least 4 years younger than that person), or attempts to do so, shall be fined under this title, imprisoned for anyterm of years or life, or both. If the defendant has previously been convicted of another Federal offense under this subsection, or of a State offense that would have been an offense under either such provision had the offense occurred in a Federal prison, unless the death penalty is imposed, the defendant shall be sentenced to life in prison.
 
 (d)
 
@@ -58,5 +58,5 @@ Section 87(a) of Pub. L. 99–646 and section 1 of Pub. L. 99–654 provided, re
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2119, 2244, 3559, 5032 of this title; title 42 section 14071.
+This section is referred to in sections 2119, 2244, 3559, 5032 of this title; title 42 sections 14071, 14072.
 

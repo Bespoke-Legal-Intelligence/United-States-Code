@@ -22,7 +22,7 @@
 
 (5) In the event of default in the payment of any loan guaranteed or insured under this chapter in which a partial payment has been tendered by the veteran concerned and refused by the holder, the holder of the obligation shall notify the Secretary as soon as such payment has been refused. The Secretary may require that any such notification include a statement of the circumstances of the default, the amount tendered, the amount of the indebtedness on the date of the tender, and the reasons for the holder's refusal.
 
-(b) With respect to any loan made under section 3711 which has not been sold as provided in subsection (g) of such section, if the Secretary finds, after there has been a default in the payment of any installment of principal or interest owing on such loan, that the default was due to the fact that the veteran who is obligated under the loan has become unemployed as the result of the closing (in whole or in part) of a Federal installation, the Secretary shall (1) extend the time for curing the default to such time as the Secretary determines is necessary and desirable to enable such veteran to complete payments on such loan, including an extension of time beyond the stated maturity thereof, or (2) modify the terms of such loan for the purpose of changing the amortization provisions thereof by recasting, over the remaining term of the loan, or over such longer period as the Secretary may determine, the total unpaid amount then due with the modification to become effective currently or upon the termination of an agreed-upon extension of the period for curing the default.
+(b) With respect to any loan made under section 3711 which has not been sold as provided in subsection (g) of such section, if the Secretaryfinds, after there has been a default in the payment of any installment of principal or interest owing on such loan, that the default was due to the fact that the veteran who is obligated under the loan has become unemployed as the result of the closing (in whole or in part) of a Federal installation, the Secretary shall (1) extend the time for curing the default to such time as the Secretary determines is necessary and desirable to enable such veteran to complete payments on such loan, including an extension of time beyond the stated maturity thereof, or (2) modify the terms of such loan for the purpose of changing the amortization provisions thereof by recasting, over the remaining term of the loan, or over such longer period as the Secretary may determine, the total unpaid amount then due with the modification to become effective currently or upon the termination of an agreed-upon extension of the period for curing the default.
 
 (c)(1) For purposes of this subsection—
 
@@ -60,7 +60,7 @@
 
 &emsp;(B) the liability of the United States under the loan guaranty under this chapter is as provided in paragraph (6) of this subsection.
 
-(8) If the net value of the property securing a defaulted loan is not greater than the amount ofthe total indebtedness under the loan minus the amount guaranteed under this chapter—
+(8) If the net value of the property securing a defaulted loan is not greater than the amount of the total indebtedness under the loan minus the amount guaranteed under this chapter—
 
 &emsp;(A) the Secretary may not accept conveyance of the property from the holder of the loan; and
 
@@ -84,11 +84,13 @@
 
 (D) For the purpose of determining the liability of the United States under a loan guaranty under clause (B) of paragraphs (5), (6),<sup>1</sup> (7), and (8) of this subsection, the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
-(11) This subsection shall apply to loans closed before October 1, 1998.
+(11) This subsection shall apply to loans closed before October 1, 2002.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, §8013, Aug. 5, 1997, 111 Stat. 664.)
 
 #### Amendments
+
+1997—Subsec. (c)(11). Pub. L. 105–33 substituted “October 1, 2002” for “October 1, 1998”.
 
 1994—Subsec. (c)(6). Pub. L. 103–446, §907(b), struck out “either” after “defaulted loan”, substituted “sale,” for “sale or acquires the property at such sale for an amount that exceeds the lesser of the net value of the property or the total indebtedness under the loan—”, struck out text of subpar. (A) and subpar. (B) designation before “the liability”, and redesignated cls. (i) and (ii) as cls. (A) and (B), respectively. Prior to amendment, subpar. (A) read as follows: “the Secretary may not accept conveyance of the property except as provided in paragraph (7) of this subsection; and”.
 

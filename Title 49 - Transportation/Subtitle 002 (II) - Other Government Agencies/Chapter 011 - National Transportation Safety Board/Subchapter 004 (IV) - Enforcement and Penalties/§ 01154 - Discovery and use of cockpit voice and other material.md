@@ -12,7 +12,7 @@ Transcripts and Recordings.—(1) Except as provided by this subsection, a party
 
 &emsp;(i) the part of the transcript made available to the public under section 1114(c) of this title does not provide the party with sufficient information for the party to receive a fair trial; and
 
-&emsp;(ii) discovery of additional parts of the transcript is necessary to provide the party with sufficient information for the party to receive a fair trial.
+&emsp;(ii) discovery of additional parts of the transcript is necessary to provide the party withsufficient information for the party to receive a fair trial.
 
 (B) A court may allow discovery, or require production for an in camera review, of a cockpit voice recorder transcript that the Board has not made available under section 1114(c) of this title only if the cockpit voice recorder recording is not available.
 

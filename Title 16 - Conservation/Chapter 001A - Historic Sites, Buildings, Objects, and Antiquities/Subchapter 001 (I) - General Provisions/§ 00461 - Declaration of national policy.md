@@ -18,13 +18,13 @@ Allegheny Portage Railroad National Historic Site, Pennsylvania.—Pub. L. 88–
 
 Andersonville National Historic Site, Georgia.—Pub. L. 91–465, Oct. 16, 1970, 84 Stat. 989.
 
-Andrew Johnson National Historic Site.—Aug. 29, 1935, ch. 801, §§1–3, 49 Stat. 958 (16 U.S.C. 450<i>o</i>–450q); Proc. No. 2554, Apr. 27, 1942, 56 Stat. 1955; Pub. L. 88–197, §§1–3, Dec. 11, 1963, 77 Stat. 349, 350.
+Andrew Johnson National Historic Site.—Aug. 29, 1935, ch. 801, 49 Stat. 958 (16 U.S.C. 450<i>o</i>–450q); Proc. No. 2554, Apr. 27, 1942, 56 Stat. 1955; Pub. L. 88–197, Dec. 11, 1963, 77 Stat. 349.
 
 Ansley Wilcox House National Historic Site (see Theodore Roosevelt Inaugural National Historic Site, New York).
 
 Bent's Old Fort National Historic Site, Colorado.—Pub. L. 86–487, June 3, 1960, 74 Stat. 155.
 
-Boston African American National Historic Site, Massachusetts.—Pub. L. 96–430, title I, §§101–106, Oct. 10, 1980, 94 Stat. 1845, 1846.
+Boston African American National Historic Site, Massachusetts.—Pub. L. 96–430, title I, Oct. 10, 1980, 94 Stat. 1845.
 
 Brown v. Board of Education National Historic Site, Kansas.—Pub. L. 102–525, title I, Oct. 26, 1992, 106 Stat. 3438.
 
@@ -60,13 +60,13 @@ Fort Raleigh National Historic Site, North Carolina.—Designated Apr. 5, 1941; 
 
 Fort Saint Marks National Historic Site, Florida.—Pub. L. 87–789, Oct. 10, 1962, 76 Stat. 807.
 
-Fort Scott National Historic Site, Kansas.—Pub. L. 95–484, Oct. 19, 1978, 92 Stat. 1610; Pub. L. 95–625, title XII, §§1201–1205, Nov. 10, 1978, 92 Stat. 3548, 3549.
+Fort Scott National Historic Site, Kansas.—Pub. L. 95–484, Oct. 19, 1978, 92 Stat. 1610; Pub. L. 95–625, title XII, Nov. 10, 1978, 92 Stat. 3548.
 
 Fort Smith National Historic Site, Arkansas.—Pub. L. 87–215, Sept. 13, 1961, 75 Stat. 489.
 
 Fort Union Trading Post National Historic Site, North Dakota and Montana.—Pub. L. 89–458, June 20, 1966, 80 Stat. 211.
 
-Frederick Law Olmsted National Historic Site, Massachusetts.—Pub. L. 96–87, title II, §§201–203, Oct. 12, 1979, 93 Stat. 664, 665.
+Frederick Law Olmsted National Historic Site, Massachusetts.—Pub. L. 96–87, title II, Oct. 12, 1979, 93 Stat. 664.
 
 Friendship Hill National Historic Site, Pennsylvania.—Pub. L. 95–625, title V, §509, Nov. 10, 1978, 92 Stat. 3509.
 
@@ -88,11 +88,11 @@ Hopewell Village National Historic Site, Pennsylvania.—Designated Aug. 3, 1938
 
 Hubbell Trading Post National Historic Site, Arizona.—Pub. L. 89–148, Aug. 28, 1965, 79 Stat. 584.
 
-James A. Garfield National Historic Site, Ohio.—Pub. L. 96–607, title XII, §§1201, 1202, Dec. 28, 1980, 94 Stat. 3545.
+James A. Garfield National Historic Site, Ohio.—Pub. L. 96–607, title XII, Dec. 28, 1980, 94 Stat. 3545.
 
 Jefferson National Expansion Memorial, National Historical Site, Missouri.—Designated Dec. 21, 1935
 
-Jimmy Carter National Historic Site, Georgia.—Pub. L. 100–206, Dec. 23, 1987, 101 Stat. 1434.
+Jimmy Carter National Historic Site, Georgia.—Pub. L. 100–206, Dec. 23, 1987, 101 Stat. 1434; Pub. L. 105–106, §1, Nov. 20, 1997, 111 Stat. 2247.
 
 John Fitzgerald Kennedy National Historic Site, Massachusetts.—Pub. L. 90–20, May 26, 1967, 81 Stat. 29.
 
@@ -102,7 +102,7 @@ Knife River Indian Villages National Historic Site, North Dakota.—Pub. L. 93�
 
 Lincoln Home National Historic Site, Illinois.—Pub. L. 92–127, Aug. 18, 1971, 85 Stat. 347.
 
-Lyndon B. Johnson National Historic Site, Texas \[redesignated Lyndon B. Johnson National Historical Park by Pub. L. 96–607, title VI, §601, Dec. 3, 1980, 94 Stat. 3540 (16 U.S.C. 410kk to 410kk–2).—Pub. L. 91–134, Dec. 2, 1969, 83 Stat. 274.
+Lyndon B. Johnson National Historic Site, Texas \[redesignated Lyndon B. Johnson National Historical Park by Pub. L. 96–607, title VI, Dec. 3, 1980, 94 Stat. 3540 (16 U.S.C. 410kk to 410kk–2).—Pub. L. 91–134, Dec. 2, 1969, 83 Stat. 274.
 
 Longfellow National Historic Site, Massachusetts.—Pub. L. 92–475, Oct. 9, 1972, 86 Stat. 791.
 
@@ -130,13 +130,13 @@ Puukohola Heiau National Historic Site, Hawaii.—Pub. L. 92–388, Aug. 17, 197
 
 Saint Gaudens National Historic Site, New Hampshire.—Pub. L. 88–543, Aug. 31, 1964, 78 Stat. 749.
 
-Salem Maritime National Historic Site, Massachusetts.—Designated Mar. 17, 1938; Pub. L. 100–349, §1, June 27, 1988, 102 Stat. 659; Pub. L. 101–632, §1, Nov. 28, 1990, 104 Stat. 4575.
+Salem Maritime National Historic Site, Massachusetts.—Designated Mar. 17, 1938; Pub. L. 100–349, June 27, 1988, 102 Stat. 659; Pub. L. 101–632, Nov. 28, 1990, 104 Stat. 4575.
 
 San Juan National Historic Site, Puerto Rico.—Designated Feb. 14, 1949.
 
 Saugus Iron Works National Historic Site, Massachusetts.—Pub. L. 90–282, Apr. 5, 1968, 82 Stat. 72.
 
-Sewall-Belmont House National Historic Site, District of Columbia.—Pub. L. 93–486, title II, §§201–204, Oct. 26, 1974, 88 Stat. 1463.
+Sewall-Belmont House National Historic Site, District of Columbia.—Pub. L. 93–486, title II, Oct. 26, 1974, 88 Stat. 1463.
 
 Springfield Armory National Historic Site, Massachusetts.—Pub. L. 93–486, title I, §101(a)(4), Oct. 26, 1974, 88 Stat. 1461.
 
@@ -144,7 +144,7 @@ Steamtown National Historic Site, Pennsylvania.—Pub. L. 99–500, §101(h) \[t
 
 Thaddeus Kosciuszko Home National Historic Site, Pennsylvania.—Pub. L. 92–524, Oct. 21, 1972, 86 Stat. 1046.
 
-Theodore Roosevelt Inaugural \[formerly Ansley Wilcox House\] National Historic Site, New York.—Pub. L. 89–708, Nov. 2, 1966, 80 Stat. 1101; Pub. L. 96–607, title VIII, §801, Dec. 28, 1980, 94 Stat. 3541.
+Theodore Roosevelt Inaugural \[formerly Ansley Wilcox House\] National Historic Site, New York.—Pub. L. 89–708, Nov. 2, 1966, 80 Stat. 1101; Pub. L. 96–607, title VIII, Dec. 28, 1980, 94 Stat. 3541.
 
 Thomas Stone National Historic Site, Maryland.—Pub. L. 95–625, title V, §510, Nov. 10, 1978, 92 Stat. 3510.
 
@@ -198,7 +198,7 @@ Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, tit
 
 Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257.
 
-Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275.
+Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597.
 
 National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243.
 
@@ -214,7 +214,7 @@ America's Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II,
 
 #### Vancouver National Historic Reserve
 
-Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
+Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted byNational Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
 
 #### Great Falls Historic District, New Jersey
 
@@ -272,7 +272,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 &emsp;“(3) make periodic grants, which shall be supplemental to any other funds to which the grantee may be entitled under any other provision of law, to such State or local unit of government for the annual costs of operation and maintenance, including but not limited to, salaries of personnel and the protection, preservation, and rehabilitation of the reserve except that no such grant may exceed 50 per centum of the estimated annual cost, as determined by the Secretary, of such operation and maintenance.
 
-“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of the owner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
+“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of theowner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
 
 “Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[sections 1, 2, 3, and 4 of this title\], as amended and supplemented, and in a manner consistent with the purpose of this section.
 
@@ -304,7 +304,7 @@ Sec. 2. \[Membership; alternate members; compensation\] (a) The Commission shall
 
 &emsp;“(2) five members appointed by the Secretary of the Interior, one of whom shall be the Director of the National Park Service, two of whom shall be appointed from recommendations submitted by the manager of the city of Lowell, and two of whom shall be appointed from recommendations submitted by the Governor of the Commonwealth of Massachusetts. The members appointed pursuant to this paragraph shall have knowledge and experience in one or more of the fields of history, architecture, the arts, recreation planning, city planning, or government.
 
-“(b) Each member of the Commission specified in paragraph (1) of subsection (a) and the Director of the National Park Service may designate an alternate official to serve in his stead. Members appointed pursuant to paragraph (2) of subsection (a) who are officers or employees of the Federal Government, the city of Lowell, or the Commonwealth of Massachusetts, shall serve without compensation as such. Other members, when engaged in activities of the Commission, shall be entitled to compensation at the rate of not to exceed $100 per diem. All members of the Commission shall receivereimbursement for necessary travel and subsistence expenses incurred by them in the performance of the duties of the Commission.
+“(b) Each member of the Commission specified in paragraph (1) of subsection (a) and the Director of the National Park Service may designate an alternate official to serve in his stead. Members appointed pursuant to paragraph (2) of subsection (a) who are officers or employees of the Federal Government, the city of Lowell, or the Commonwealth of Massachusetts, shall serve without compensation as such. Other members, when engaged in activities of the Commission, shall be entitled to compensation at the rate of not to exceed $100 per diem. All members of the Commission shall receive reimbursement for necessary travel and subsistence expenses incurred by them in the performance of the duties of the Commission.
 
 “
 
@@ -368,7 +368,7 @@ WHEREAS the United States and the State of Florida are desirous of cooperating f
 
 WHEREAS by the terms of the Outer Continental Shelf Lands Act the United States has jurisdiction over the lands of the outer Continental Shelf and has the exclusive right to dispose of the natural resources of the sea bed and subsoil thereof; and
 
-WHEREAS section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43,Public Lands\] authorizes the President to withdraw from disposition any of the unleased lands of the outer Continental Shelf; and
+WHEREAS section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43, Public Lands\] authorizes the President to withdraw from disposition any of the unleased lands of the outer Continental Shelf; and
 
 WHEREAS section 5 of the Outer Continental Shelf Lands Act \[section 1334 of Title 43\] authorizes the Secretary of the Interior to prescribe rules and regulations for the conservation of the natural resources of the outer Continental Shelf and to cooperate with the conservation agencies of adjacent States in the enforcement of conservation laws, rules, and regulations:
 
@@ -376,7 +376,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 That portion of the outer Continental Shelf situated seaward of a line three geographic miles from Key Largo, Monroe County, Florida, lying and being within the following described area:
 
-Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”; thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
+Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”; thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing WhiteLight “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
 
 I call upon all persons to join in the effort to protect and preserve this natural wonder for the benefit of future generations.
 
@@ -394,5 +394,5 @@ Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 430f–5, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 459h–4, 460kkk, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244, 3206 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
+This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410pp–2, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 430f–5, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 450ss–2, 450ss–4, 459h–4, 460kkk, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244, 3206 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
 

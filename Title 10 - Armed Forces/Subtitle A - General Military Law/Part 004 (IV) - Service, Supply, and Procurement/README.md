@@ -1,16 +1,12 @@
 ## PART IV—SERVICE, SUPPLY, AND PROCUREMENT
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>131.</b>](Chapter%20131%20-%20Planning%20and%20Coordination/README.md) | <b>Planning and Coordination</b> | <b>2201</b> |
 | [<b>133.</b>](Chapter%20133%20-%20Facilities%20for%20Reserve%20Components/README.md) | <b>Facilities for Reserve Components</b> | <b>2231</b> |
 | [<b>134.</b>](Chapter%20134%20-%20Miscellaneous%20Administrative%20Provisions/README.md) | <b>Miscellaneous Administrative Provisions</b> | <b>2241</b> |
 | <b>\[135.</b> | <b>Repealed.\]</b> |  |
+| [<b>136.</b>](Chapter%20136%20-%20Provisions%20Relating%20to%20Specific%20Programs/README.md) | <b>Provisions Relating to Specific Programs</b> | <b>2281</b> |
 | [<b>137.</b>](Chapter%20137%20-%20Procurement%20Generally/README.md) | <b>Procurement Generally</b> | <b>2301</b> |
 | [<b>138.</b>](Chapter%20138%20-%20Cooperative%20Agreements%20with%20NATO%20Allies%20and%20Other%20Countries/README.md) | <b>Cooperative Agreements with NATO Allies and Other Countries</b> | <b>2341</b> |
 | [<b>139.</b>](Chapter%20139%20-%20Research%20and%20Development/README.md) | <b>Research and Development</b> | <b>2351</b> |
@@ -20,12 +16,12 @@
 | [<b>143.</b>](Chapter%20143%20-%20Production%20by%20Military%20Agencies/README.md) | <b>Production by Military Agencies</b> | <b>2421</b> |
 | [<b>144.</b>](Chapter%20144%20-%20Major%20Defense%20Acquisition%20Programs/README.md) | <b>Major Defense Acquisition Programs</b> | <b>2430</b> |
 | [<b>145.</b>](Chapter%20145%20-%20Cataloging%20and%20Standardization/README.md) | <b>Cataloging and Standardization</b> | <b>2451</b> |
-| [<b>146.</b>](Chapter%20146%20-%20Contracting%20for%20Performance%20of%20Civilian%20Commercial%20or%20Industrial%20Type%20Functions/README.md) | <b>Contracting for Performance of Civilian Commercial or Industrial Type Functions</b> | <b>2461</b> |
-| [<b>147.</b>](Chapter%20147%20-%20Utilities%20and%20Services/README.md) | <b>Utilities and Services</b> | <b>2481</b> |
-| [<b>148.</b>](Chapter%20148%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%2C%20Defense%20Reinvestment%2C%20and%20Defense%20Conversion/README.md) | <b>National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion</b> | <b>2491</b> |
+| [<b>146.</b>](Chapter%20146%20-%20Contracting%20for%20Performance%20of%20Civilian%20Commercial%20or%20Industrial%20Type%20Functions/README.md) | <b>Contracting for Performance of Civilian Commercial or Industrial Type Functions</b> | <b>2460</b> |
+| [<b>147.</b>](Chapter%20147%20-%20Commissaries%20and%20Exchanges%20and%20Other%20Morale%2C%20Welfare%2C%20and%20Recreation%20Activities/README.md) | <b>Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities</b> | <b>2481</b> |
+| [<b>148.</b>](Chapter%20148%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%2C%20Defense%20Reinvestment%2C%20and%20Defense%20Conversion/README.md) | <b>National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion</b> | <b>2500</b> |
 | <b>\[149.</b> | <b>Repealed.\]</b> |  |
 | <b>\[150.</b> | <b>Repealed.\]</b> |  |
-| [<b>152.</b>](Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2540</b> |
+| [<b>152.</b>](Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2541</b> |
 | [<b>153.</b>](Chapter%20153%20-%20Exchange%20of%20Material%20and%20Disposal%20of%20Obsolete%2C%20Surplus%2C%20or%20Unclaimed%20Property/README.md) | <b>Exchange of Material and Disposal of Obsolete, Surplus, or Unclaimed Property</b> | <b>2571</b> |
 | [<b>155.</b>](Chapter%20155%20-%20Acceptance%20of%20Gifts%20and%20Services/README.md) | <b>Acceptance of Gifts and Services</b> | <b>2601</b> |
 | [<b>157.</b>](Chapter%20157%20-%20Transportation/README.md) | <b>Transportation</b> | <b>2631</b> |
@@ -36,12 +32,14 @@
 | [<b>165.</b>](Chapter%20165%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>2771</b> |
 | <b>\[167.</b> | <b>Repealed.\]</b> |  |
 | [<b>169.</b>](Chapter%20169%20-%20Military%20Construction%20and%20Military%20Family%20Housing/README.md) | <b>Military Construction and Military Family Housing</b> | <b>2801</b> |
-| <b>\[171.</b> | <b>Repealed.\]</b> | <b>2891</b> |
+| <b>\[171.</b> | <b>Repealed.\]</b> |  |
 | [<b>172.</b>](Chapter%20172%20-%20Strategic%20Environmental%20Research%20and%20Development%20Program/README.md) | <b>Strategic Environmental Research and Development Program</b> | <b>2901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title III, §§355(c)(2), 371(a)(2), (c)(5), title X, §§1073(a)(2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1900, 1910, added item for chapter 136 and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
 
 1996—Pub. L. 104–201, div. A, title XI, §1123(a)(3), Sept. 23, 1996, 110 Stat. 2688, struck out item for chapter 167 “Defense Mapping Agency”.
 
@@ -100,6 +98,7 @@ Particular provisions relating to—
 - [Chapter 133 - Facilities for Reserve Components](Chapter%20133%20-%20Facilities%20for%20Reserve%20Components/README.md)
 - [Chapter 134 - Miscellaneous Administrative Provisions](Chapter%20134%20-%20Miscellaneous%20Administrative%20Provisions/README.md)
 - [Chapter 135 - Repealed](Chapter%20135%20-%20Repealed/README.md)
+- [Chapter 136 - Provisions Relating to Specific Programs](Chapter%20136%20-%20Provisions%20Relating%20to%20Specific%20Programs/README.md)
 - [Chapter 137 - Procurement Generally](Chapter%20137%20-%20Procurement%20Generally/README.md)
 - [Chapter 138 - Cooperative Agreements with NATO Allies and Other Countries](Chapter%20138%20-%20Cooperative%20Agreements%20with%20NATO%20Allies%20and%20Other%20Countries/README.md)
 - [Chapter 139 - Research and Development](Chapter%20139%20-%20Research%20and%20Development/README.md)
@@ -110,7 +109,7 @@ Particular provisions relating to—
 - [Chapter 144 - Major Defense Acquisition Programs](Chapter%20144%20-%20Major%20Defense%20Acquisition%20Programs/README.md)
 - [Chapter 145 - Cataloging and Standardization](Chapter%20145%20-%20Cataloging%20and%20Standardization/README.md)
 - [Chapter 146 - Contracting for Performance of Civilian Commercial or Industrial Type Functions](Chapter%20146%20-%20Contracting%20for%20Performance%20of%20Civilian%20Commercial%20or%20Industrial%20Type%20Functions/README.md)
-- [Chapter 147 - Utilities and Services](Chapter%20147%20-%20Utilities%20and%20Services/README.md)
+- [Chapter 147 - Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities](Chapter%20147%20-%20Commissaries%20and%20Exchanges%20and%20Other%20Morale%2C%20Welfare%2C%20and%20Recreation%20Activities/README.md)
 - [Chapter 148 - National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion](Chapter%20148%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%2C%20Defense%20Reinvestment%2C%20and%20Defense%20Conversion/README.md)
 - [Chapter 152 - Issue of Supplies, Services, and Facilities](Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md)
 - [Chapter 153 - Exchange of Material and Disposal of Obsolete, Surplus, or Unclaimed Property](Chapter%20153%20-%20Exchange%20of%20Material%20and%20Disposal%20of%20Obsolete%2C%20Surplus%2C%20or%20Unclaimed%20Property/README.md)

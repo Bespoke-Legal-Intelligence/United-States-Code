@@ -52,3 +52,7 @@ Preliminary Market Research.—(1) The head of an agency shall conduct market re
 
 (Added Pub. L. 103–355, title VIII, §8104(a), Oct. 13, 1994, 108 Stat. 3390.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 15 section 205<i>l</i>.
+

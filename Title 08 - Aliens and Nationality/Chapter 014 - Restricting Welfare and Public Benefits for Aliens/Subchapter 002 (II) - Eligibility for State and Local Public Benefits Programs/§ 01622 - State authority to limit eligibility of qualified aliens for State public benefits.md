@@ -14,7 +14,11 @@ Qualified aliens under this subsection shall be eligible for any State public be
 
 &emsp;(B) An alien who is granted asylum under section 208 of such Act \[8 U.S.C. 1158\] until 5 years after the date of such grant of asylum.
 
-&emsp;(C) An alien whose deportation is being withheld under section 243(h) <sup>1</sup> of such Act \[8 U.S.C. 1253\] until 5 years after such withholding.
+&emsp;(C) An alien whose deportation is being withheld under section 243(h) of such Act \[8 U.S.C. 1253\] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act \[8 U.S.C. 1231(b)(3)\] (as amended by section 305(a) of division C of Public Law 104–208) until 5 years after such withholding.
+
+&emsp;(D) An alien who is a Cuban and Haitian entrant as defined in section 501(e) of the Refugee Education Assistance Act of 1980 until 5 years after the alien is granted such status.
+
+&emsp;(E) An alien admitted to the United States as an Amerasian immigrant as described in section 1612(a)(2)(A)(i)(V) of this title.
 
 #### (2) Certain permanent resident aliens
 
@@ -28,29 +32,49 @@ Qualified aliens under this subsection shall be eligible for any State public be
 
 &emsp;An alien who is lawfully residing in any State and is—
 
-&emsp;&emsp;(A) a veteran (as defined in section 101 of title 38) with a discharge characterized as an honorable discharge and not on account of alienage,
+&emsp;&emsp;(A) a veteran (as defined in section 101, 1101, or 1301, or as described in section 107 of title 38) with a discharge characterized as an honorable discharge and not on account of alienage and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38,
 
 &emsp;&emsp;(B) on active duty (other than active duty for training) in the Armed Forces of the United States, or
 
-&emsp;&emsp;(C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B).
+&emsp;&emsp;(C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) <sup>1</sup> who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
 
 #### (4) Transition for those currently receiving benefits
 
 &emsp;An alien who on August 22, 1996, is lawfully residing in any State and is receiving benefits on August 22, 1996, shall continue to be eligible to receive such benefits until January 1, 1997.
 
-(Pub. L. 104–193, title IV, §412, Aug. 22, 1996, 110 Stat. 2269.)
+(Pub. L. 104–193, title IV, §412, Aug. 22, 1996, 110 Stat. 2269; Pub. L. 105–33, title V, §§5302(c)(2), 5306(d), 5562, 5563, 5581(b)(3), Aug. 5, 1997, 111 Stat. 599, 602, 638, 643.)
 
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsecs. (a) and (b)(2)(A), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). Provisions similar to those contained in former subsec. (h) of section 1253 are now contained in section 1231(b)(3) of this title.
+Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+
+Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(1)(D), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
 The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 1632 of this title.
+1997—Subsec. (b)(1)(C). Pub. L. 105–33, §5581(b)(3), substituted “withholding” for “with-holding”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+
+Subsec. (b)(1)(D). Pub. L. 105–33, §5302(c)(2), added subpar. (D).
+
+Subsec. (b)(1)(E). Pub. L. 105–33, §5306(d), added subpar. (E).
+
+Subsec. (b)(3)(A). Pub. L. 105–33, §5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
+
+Pub. L. 105–33, §5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
+
+Subsec. (b)(3)(C). Pub. L. 105–33, §5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by sections 5302(c)(2) and 5306(d) of Pub. L. 105–33 effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
+
+Amendment by sections 5562, 5563, and 5581(b)(3) of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A) or (B)”.</i>
 

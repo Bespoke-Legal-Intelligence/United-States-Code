@@ -6,7 +6,7 @@ Department of Defense Systems.—For purposes of section 2302(5) of this title, 
 
 &emsp;(1) the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $115,000,000 (based on fiscal year 1990 constant dollars); or
 
-&emsp;(2) the eventual total expenditure for procurement of more than $540,000,000 (based on fiscal year 1990 constant dollars).
+&emsp;(2) the eventual total expenditure for procurement for the system is estimated to be more than $540,000,000 (based on fiscal year 1990 constant dollars).
 
 (b)
 
@@ -24,7 +24,11 @@ Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and 
 
 (3) An adjustment under this subsection shall be effective after the Secretary transmits to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a written notification of the adjustment.
 
-(Added Pub. L. 104–201, div. A, title VIII, §805(a)(2), Sept. 23, 1996, 110 Stat. 2605.)
+(Added Pub. L. 104–201, div. A, title VIII, §805(a)(2), Sept. 23, 1996, 110 Stat. 2605; amended Pub. L. 105–85, div. A, title X, §1073(a)(41), Nov. 18, 1997, 111 Stat. 1902.)
+
+#### Amendments
+
+1997—Subsec. (a)(2). Pub. L. 105–85 substituted “procurement for the system is estimated to be” for “procurement of”.
 
 #### Section Referred to in Other Sections
 

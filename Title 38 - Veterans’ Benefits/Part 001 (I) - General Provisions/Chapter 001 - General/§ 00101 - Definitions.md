@@ -326,6 +326,14 @@ Section 405 of Pub. L. 90–77 provided that:
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
+#### Short Title of 1997 Amendments
+
+Pub. L. 105–114, §1(a), Nov. 21, 1997, 111 Stat. 2277, provided that: “This Act \[enacting sections 319, 516, 1771 to 1774, and 7322 of this title, amending sections 1710, 1717, 1720, 1720A, 1720C, 1801, 1804, 1806, 2303, 3015, 3018C, 3680A, 3735, 3761, 3762, 5310, 7618, 8153, and 8169 of this title and sections 11448 and 11450 of Title 42, The Public Health and Welfare, repealing section 8168 of this title, enacting provisions set out as notes under sections 319, 516, 1710, 1801, 7322, and 7611 of this title, amending provisions set out as a note under section 7721 of this title, and repealing provisions set out as notes under sections 527, 1712, 1718, and 7721 of this title\] may be cited as the ‘Veterans’ Benefits Act of 1997’.”
+
+Pub. L. 105–98, §1(a), Nov. 19, 1997, 111 Stat. 2155, provided that: “This Act \[amending sections 1114, 1115, 1162, 1311, 1313, and 1314 of this title and enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Rate Amendments of 1997’.”
+
+Pub. L. 105–33, title VIII, §8001(a), Aug. 5, 1997, 111 Stat. 663, provided that: “This title \[enacting sections 1103, 1303, and 1729A of this title, amending sections 712, 1710, 1722A, 1729, 3720, 3726, 3729, 3732, 5302, 5317, and 5503 of this title, enacting provisions set out as notes under sections 712, 1729, 1729A, and 3726 of this title, and amending provisions set out as a note under section 1710 of this title\] may be cited as the ‘Veterans Reconciliation Act of 1997’.”
+
 #### Short Title of 1996 Amendments
 
 Section 1(a) of Pub. L. 104–275 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Benefits Improvements Act of 1996’.”
@@ -340,7 +348,7 @@ Pub. L. 104–106, div. B, title XXVIII, §2822(a), Feb. 10, 1996, 110 Stat. 556
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–57, §1, Nov. 22, 1995, 109 Stat. 555, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1995’.”
+Pub. L. 104–57, §1, Nov. 22, 1995, 109 Stat. 555, provided that: “This Act \[enacting provisions set out as notesunder section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1995’.”
 
 #### Short Title of 1994 Amendments
 
@@ -614,7 +622,7 @@ Section 5 of Pub. L. 102–83 provided that:
 
 “(a)
 
-Redesignation of Sections To Conform To Chapter Numbers.—Each section contained in any of chapters 11 through 23 is redesignated by replacing the first digit of the section number with the number of the chapter containing that section. Each section contained in any of chapters 24 through 42 is redesignated so that the first two digits of the section number of that section are the same as the chapter number of the chapter containing that section.
+Redesignation of Sections To Conform To Chapter Numbers.—Each section contained in any ofchapters 11 through 23 is redesignated by replacing the first digit of the section number with the number of the chapter containing that section. Each section contained in any of chapters 24 through 42 is redesignated so that the first two digits of the section number of that section are the same as the chapter number of the chapter containing that section.
 
 “(b)
 
@@ -662,5 +670,5 @@ Section 3 of Pub. L. 100–322 provided that: “For purposes of this Act \[see 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2301, 4303, 5302, 8111A of this title; title 5 sections 2108, 3501, 5532, 6303; title 7 section 1983; title 8 sections 1612, 1613, 1622; title 10 sections 2641, 16133; title 26 sections 3121, 6334; title 42 sections 410, 1477, 11448; title 49 section 47112; title 50 App. section 591.
+This section is referred to in sections 2301, 4303, 5302, 8111A of this title; title 5 sections 2108, 3501, 5532, 6303; title 7 section 1983; title 8 sections 1612, 1613, 1622; title 10 section 2641; title 26 sections 3121, 6334; title 42 sections 410, 1477, 11448; title 49 section 47112; title 50 App. section 591.
 

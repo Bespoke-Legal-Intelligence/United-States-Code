@@ -4,7 +4,7 @@ Notwithstanding any other provision of law—
 
 #### (a) Application
 
-Any alien admitted to the United States as a nonimmigrant under the provisions of either section 101(a)(15)(A)(i) or (ii) or 101(a)(15)(G)(i) or (ii) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(A)(i), (ii), (G)(i) or (ii)\], who has failed to maintain a status under any of those provisions, may apply to the Attorney General for adjustment of his status to that of an alien lawfully admitted for permanent residence.
+Any alien admitted to the United States as a nonimmigrant under the provisions of either section 101(a)(15)(A)(i) or (ii) or 101(a)(15)(G)(i) or (ii) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(A)(i), (ii), (G)(i), (ii)\], who has failed to maintain a status under any of those provisions, may apply to the Attorney General for adjustment of his status to that of an alien lawfully admitted for permanent residence.
 
 #### (b) Record of admission
 
@@ -12,7 +12,7 @@ If, after consultation with the Secretary of State, it shall appear to the satis
 
 #### (c) Report to the Congress; resolution not favoring adjustment of status; reduction of quota
 
-A complete and detailed statement of the facts and pertinent provisions of law in the case shall be reported to the Congress with the reasons for such adjustment of status. Such reports shall besubmitted on the first day of each calendar month in which Congress is in session. The Secretary of State shall, if the alien was classifiable as a quota immigrant at the time of his entry, reduce by one the quota of the quota area to which the alien is chargeable under section 202 of the Immigration and Nationality Act \[8 U.S.C. 1152\] for the fiscal year then current or the next following year in which a quota is available. No quota shall be so reduced by more than 50 per centum in any fiscal year.
+A complete and detailed statement of the facts and pertinent provisions of law in the case shall be reported to the Congress with the reasons for such adjustment of status. Such reports shall be submitted on the first day of each calendar month in which Congress is in session. The Secretary of State shall, if the alien was classifiable as a quota immigrant at the time of his entry, reduce by one the quota of the quota area to which the alien is chargeable under section 202 of the Immigration and Nationality Act \[8 U.S.C. 1152\] for the fiscal year then current or the next following year in which a quota is available. No quota shall be so reduced by more than 50 per centum in any fiscal year.
 
 #### (d) Limitations
 
@@ -22,7 +22,7 @@ The number of aliens who may be granted the status of aliens lawfully admitted f
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (b), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Codification
 

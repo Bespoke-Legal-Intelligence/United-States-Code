@@ -22,7 +22,7 @@
 
 (k) All public lands or reservations of the United States which are adjacent to any portion of the interstate and primary systems shall be effectively controlled in accordance with the provisions of this section.
 
-(<i>l</i>) Nothing in this section shall prohibit a State from establishing standards imposingstricter limitations with respect to outdoor junkyards on the Federal-aid highway systems than those established under this section.
+(<i>l</i>) Nothing in this section shall prohibit a State from establishing standards imposing stricter limitations with respect to outdoor junkyards on the Federal-aid highway systems than those established under this section.
 
 (m) There is authorized to be appropriated to carry out this section, out of any money in the Treasury not otherwise appropriated, not to exceed $20,000,000 for the fiscal year ending June 30, 1966, not to exceed $20,000,000 for the fiscal year ending June 30, 1967, not to exceed $3,000,000 for the fiscal year ending June 30, 1970, not to exceed $3,000,000 for the fiscal year ending June 30, 1971, not to exceed $3,000,000 for the fiscal year ending June 30, 1972, and not to exceed $5,000,000 for the fiscal year ending June 30, 1973. The provisions of this chapter relating to the obligation, period of availability, and expenditure of Federal-aid primary highway funds shall apply to the funds authorized to be appropriated to carry out this section after June 30, 1967.
 

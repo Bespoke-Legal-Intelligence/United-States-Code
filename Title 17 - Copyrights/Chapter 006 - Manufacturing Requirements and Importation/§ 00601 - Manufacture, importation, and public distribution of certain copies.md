@@ -1,10 +1,10 @@
 ### §601. Manufacture, importation, and public distribution of certain copies
 
-(a) Prior to July 1, 1986, and except as provided by subsection (b), the importation into or public distribution in the United States of copies of a work consisting preponderantly of nondramtic <sup>1</sup> literary material that is in the English language and is protected under this title is prohibited unless the portions consisting of such material have been manufactured in the United States or Canada.
+(a) Prior to July 1, 1986, and except as provided by subsection (b), the importation into or public distribution in the United States of copies of a work consisting preponderantly of nondramatic literary material that is in the English language and is protected under this title is prohibitedunless the portions consisting of such material have been manufactured in the United States or Canada.
 
 (b) The provisions of subsection (a) do not apply—
 
-&emsp;(1) where, on the date when importation is sought or public distribution in the United States is made, the author of any substantial part of such material is neither a national nor a domiciliary of the United States or, if such author is a national of the United States, he or she has been domiciled outside the United States for a continuous period of at least one year immediately preceding that date; in the case of a work made for hire, the exemption provided by this clause does not apply unless a subsustantial <sup>2</sup> part of the work was prepared for an employer or other person who is not a national or domiciliary of the United States or a domestic corporation or enterprise;
+&emsp;(1) where, on the date when importation is sought or public distribution in the United States is made, the author of any substantial part of such material is neither a national nor a domiciliary of the United States or, if such author is a national of the United States, he or she has been domiciled outside the United States for a continuous period of at least one year immediately preceding that date; in the case of a work made for hire, the exemption provided by this clause does not apply unless a substantial part of the work was prepared for an employer or other person who is not a national or domiciliary of the United States or a domestic corporation or enterprise;
 
 &emsp;(2) where the United States Customs Service is presented with an import statement issued under the seal of the Copyright Office, in which case a total of no more than two thousand copies of any one such work shall be allowed entry; the import statement shall be issued upon request to the copyright owner or to a person designated by such owner at the time of registration for the work under section 408 or at any time thereafter;
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) the author of any substantial part of such material is an individual and receives compensation for the transfer or license of the right to distribute the work in the United States; and
 
-&emsp;&emsp;(B) the first publication of the work has previously taken place outside the United States under a transfer or license granted by such author to a transferee or licensee whowas not a national or domiciliary of the United States or a domestic corporation or enterprise; and
+&emsp;&emsp;(B) the first publication of the work has previously taken place outside the United States under a transfer or license granted by such author to a transferee or licensee who was not a national or domiciliary of the United States or a domestic corporation or enterprise; and
 
 &emsp;&emsp;(C) there has been no publication of an authorized edition of the work of which the copies were manufactured in the United States; and
 
@@ -50,7 +50,7 @@
 
 (e) In any action for infringement of the exclusive rights to reproduce and distribute copies of a work containing material required by this section to be manufactured in the United States or Canada, the copyright owner shall set forth in the complaint the names of the persons or organizations who performed the processes specified by subsection (c) with respect to that material, and the places where those processes were performed.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2588; Pub. L. 97–215, July 13, 1982, 96 Stat. 178.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2588; Pub. L. 97–215, July 13, 1982, 96 Stat. 178;Pub. L. 105–80, §12(a)(15), (16), Nov. 13, 1997, 111 Stat. 1535.)
 
 #### Historical and Revision Notes
 
@@ -74,7 +74,7 @@ The principal arguments for elimination of the manufacturing requirement can be 
 
 The following were the principal arguments in favor of retaining some kind of manufacturing restriction.
 
-1\. The historical reasons for the manufacturing clause were valid originally and still are. It is unrealistic to speak of this as a “free trade” issue or of tariffs as offering any solution, since book tariffs have beenremoved entirely under the Florence Agreement. The manufacturing requirement remains a reasonable and justifiable condition to the granting of a monopoly. There is no problem of international comity, since only works by American authors are affected by section 601. Foreign countries have many kinds of import barriers, currency controls, and similar restrictive devices comparable to a manufacturing requirement.
+1\. The historical reasons for the manufacturing clause were valid originally and still are. It is unrealistic to speak of this as a “free trade” issue or of tariffs as offering any solution, since book tariffs have been removed entirely under the Florence Agreement. The manufacturing requirement remains a reasonable and justifiable condition to the granting of a monopoly. There is no problem of international comity, since only works by American authors are affected by section 601. Foreign countries have many kinds of import barriers, currency controls, and similar restrictive devices comparable to a manufacturing requirement.
 
 2\. The differentials between U.S. and foreign wage rates in book production are extremely broad and are not diminishing: Congress should not create a condition whereby work can be done under the most degraded working conditions in the world, be given free entry, and thus exclude American manufacturers from the market. The manufacturing clause has been responsible for a strong and enduring industry. Repeal could destroy small businesses, bring chaos to the industry, and catch manufacturers, whose labor costs and break-even points are extremely high, in a cost-price squeeze at a time when expenditures for new equipment have reduced profits to a minimum.
 
@@ -102,7 +102,7 @@ The provision adopts a proposal put forward by various segments of both the Unit
 
 <b>Limitations on Importation and Distribution of Copies Manufactured Abroad.</b> The basic purpose of the temporary manufacturing requirements of section 601, like that of the present manufacturing clause, is to induce the manufacture of an edition in the United States if more than a certain limited number of copies are to be distributed in this country. Subsection (a) therefore provides in general that “the importation into or public distribution in the United States” of copies not complying with the manufacturing clause is prohibited. Subsection (b) then sets out the exceptions to this prohibition, and clause (2) of that subsection fixes the importation limit at 2,000 copies.
 
-Additional exceptions to the copies affected by the manufacturing requirements are set out in clauses (3) through (7) of subsection (b). Clause (3) permits importation of copies for governmental use, other than in schools, by the United States or by “any State or political subdivision of a State.” Clause (4) allows importation for personal use of “no more than one copy of any work at any one time,” and also exempts copies in the baggage of persons arriving from abroad and copies intended for the library collection of nonprofit scholarly, educational, or religious organizations. Braille copies are completely exempted under clause (5), and clause (6) permits the public distribution in the United States of copies allowed entry by the other clauses of thatsubsection. Clause (7) is a new exception, covering cases in which an individual American author has, through choice or necessity, arranged for publication of his work by a foreign rather than a domestic publisher.
+Additional exceptions to the copies affected by the manufacturing requirements are set out in clauses (3) through (7) of subsection (b). Clause (3) permits importation of copies for governmental use, other than in schools, by the United States or by “any State or political subdivision of a State.” Clause (4) allows importation for personal use of “no more than one copy of any work at any one time,” and also exempts copies in the baggage of persons arriving from abroad and copies intended for the library collection of nonprofit scholarly, educational, or religious organizations. Braille copies are completely exempted under clause (5), and clause (6) permits the public distribution in the United States of copies allowed entry by the other clauses of that subsection. Clause (7) is a new exception, covering cases in which an individual American author has, through choice or necessity, arranged for publication of his work by a foreign rather than a domestic publisher.
 
 <b>What Constitutes “Manufacture in the United States” or Canada.</b> A difficult problem in the manufacturing clause controversy involves the restrictions to be imposed on foreign typesetting or composition. Under what they regard as a loophole in the present law, a number of publishers have for years been having their manuscripts set in type abroad, importing “reproduction proofs,” and then printing their books from offset plates “by lithographic process \* \* \* wholly performed in the United States.” The language of the statute on this point is ambiguous and, although the publishers’ practice has received some support from the Copyright Office, there is a question as to whether or not it violates the manufacturing requirements.
 
@@ -114,11 +114,15 @@ Under subsection (c) the manufacturing requirement is confined to the following 
 
 Subsection (d) provides a complete defense in any civil action or criminal proceeding for infringement of the exclusive rights of reproduction or distribution of copies where, under certain circumstances, the defendant proves violation of the manufacturing requirements. The defense is limited to infringement of the “nondramatic literary material comprised in the work and any other parts of the work in which the exclusive rights to reproduce and distribute copies are owned by the same person who owns such exclusive rights in the nondramatic literary material.” This means, for example, that the owner of copyright in photographs or illustrations published in a book copyrighted by someone else who would not be deprived of rights against an infringer who proves that there had been a violation of section 601.
 
-Section 601(d) places the full burden for proving violation on the infringer. The infringer's defense must be based on proof that: (1) copies in violation of section 601 have been imported or publicly distributed in the United States “by or with the authority” of the copyright owner; and (2) that the infringing copies complied with the manufacturing requirements; and (3) that the infringement began before an authorized edition complying with the requirements had been registered. The third of these clauses of subsection (d) means, in effect, that a copyright owner can reinstate full exclusive rights by manufacturing an edition in the United States and making registration for it.
+Section 601(d) places the full burden for proving violation on the infringer. The infringer's defense must be based on proof that: (1) copies in violation of section 601have been imported or publicly distributed in the United States “by or with the authority” of the copyright owner; and (2) that the infringing copies complied with the manufacturing requirements; and (3) that the infringement began before an authorized edition complying with the requirements had been registered. The third of these clauses of subsection (d) means, in effect, that a copyright owner can reinstate full exclusive rights by manufacturing an edition in the United States and making registration for it.
 
 Subsection (e) requires the plaintiff in any infringement action involving publishing rights in material subject to the manufacturing clause to identify the manufacturers of the copies in his complaint. Correspondingly, section 409 would require the manufacturers to be identified in applications for registration covering published works subject to the requirements of section 601.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–80, §12(a)(15), substituted “nondramatic” for “nondramtic”.
+
+Subsec. (b)(1). Pub. L. 105–80, §12(a)(16), substituted “substantial” for “subsustantial” before “part of the work”.
 
 1982—Subsec. (a). Pub. L. 97–215 substituted “1986” for “1982”.
 
@@ -131,8 +135,4 @@ Fee for issuance of import statement, see section 708 of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 409, 602 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “nondramatic”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “substantial”.</i>
 

@@ -2,7 +2,7 @@
 
 The salaries and travel allowances of the Governor, Lieutenant Governor, the heads of the executive departments, other officers and employees of the government of Guam, and the members of the legislature, shall be paid by the government of Guam at rates prescribed by the laws of Guam.
 
-(Aug. 1, 1950, ch. 512, §26, 64 Stat. 391; Aug. 1, 1956, ch. 852, §21, 70 Stat. 911; July 30, 1965, Pub. L. 89–100, 79 Stat. 424; Sept. 11, 1968, Pub. L. 90–497, §9, 82 Stat. 847.)
+(Aug. 1, 1950, ch. 512, §26, 64 Stat. 391; Aug. 1, 1956, ch. 852, §21, 70 Stat. 911; Pub. L. 89–100, July 30, 1965, 79 Stat. 424; Pub. L. 90–497, §9, Sept. 11, 1968, 82 Stat. 847.)
 
 #### Amendments
 

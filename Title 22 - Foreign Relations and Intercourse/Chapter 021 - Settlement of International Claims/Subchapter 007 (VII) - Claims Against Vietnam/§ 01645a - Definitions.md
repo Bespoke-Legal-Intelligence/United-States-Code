@@ -30,5 +30,5 @@ As used in this subchapter—
 
 &emsp;(5) the term “Claims Fund” means the special fund established in the Treasury of the United States composed of such sums as may be paid to or realized by the United States pursuant to the terms of any agreement settling those claims described in section 1645b of this title that may be entered into between the Governments of the United States and Vietnam.
 
-(Mar. 10, 1950, ch. 54, title VII, §702, as added Dec. 28, 1980, Pub. L. 96–606, 94 Stat. 3534.)
+(Mar. 10, 1950, ch. 54, title VII, §702, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3534.)
 

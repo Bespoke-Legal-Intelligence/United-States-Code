@@ -1,6 +1,6 @@
 ### §8743. Distinguished-service medal: award
 
-The President may award a distinguished-service medal of appropriate design and a ribbon, together with a rosette or other device to be worn in place thereof, to a person who, while serving in any capacity with the Air Force, distinguishes himself by exceptionally meritorious service to the United States in a duty of great responsibility.
+The President may award a distinguished-service medal of appropriate design and a ribbon, together with a rosette or other device to be worn in place thereof, to a person who, while serving in any capacity with the Air Force, distinguishes himself by exceptionally meritoriousservice to the United States in a duty of great responsibility.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 540.)
 

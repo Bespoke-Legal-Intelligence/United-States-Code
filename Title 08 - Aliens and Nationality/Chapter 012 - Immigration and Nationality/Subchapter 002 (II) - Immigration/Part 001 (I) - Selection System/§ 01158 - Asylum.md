@@ -72,7 +72,7 @@
 
 #### (3) Treatment of spouse and children
 
-&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
+&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) ofan alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
 
 #### (c) Asylum status
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;&emsp;(i) asylum cannot be granted until the identity of the applicant has been checked against all appropriate records or databases maintained by the Attorney General and by the Secretary of State, including the Automated Visa Lookout System, to determine any grounds on which the alien may be inadmissible to or deportable from the United States, or ineligible to apply for or be granted asylum;
 
-&emsp;&emsp;&emsp;(ii) in the absence of exceptional circumstances, the initial interview or hearing on the asylum application shall commence not later than 45 days after the date an application is filed;
+&emsp;&emsp;&emsp;(ii) in the absence of exceptional circumstances, the initial interview or hearing on the asylum application shall commencenot later than 45 days after the date an application is filed;
 
 &emsp;&emsp;&emsp;(iii) in the absence of exceptional circumstances, final administrative adjudication of the asylum application, not including administrative appeal, shall be completed within 180 days after the date an application is filed;
 
@@ -214,7 +214,7 @@ Section 204(d)(2) of Pub. L. 96–212 provided that: “The Attorney General sha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1157, 1182, 1225, 1229a, 1252, 1254a, 1324b, 1324c, 1427, 1534, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 22 section 4703; title 42 sections 602, 615, 1436a.
+This section is referred to in sections 1157, 1182, 1225, 1229a, 1252, 1254a, 1324b, 1324c, 1427, 1534, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 22 section 4703; title 42 section 1436a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

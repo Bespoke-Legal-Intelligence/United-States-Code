@@ -1,6 +1,6 @@
 ### §982. Criminal forfeiture
 
-(a)(1) The court, in imposing sentence on a person convicted of an offense in violation of section 5313(a), 5316, or 5324 of title 31, or of section 1956, 1957, or 1960 of this title, shall order that the person forfeit to the United States any property, real or personal, involved in such offense, or any property traceable to such property. However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.
+(a)(1) The court, in imposing sentence on a person convicted of an offense in violation ofsection 5313(a), 5316, or 5324 of title 31, or of section 1956, 1957, or 1960 of this title, shall order that the person forfeit to the United States any property, real or personal, involved in such offense, or any property traceable to such property. However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.
 
 (2) The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate—
 
@@ -62,7 +62,7 @@
 
 &emsp;(A) in the case of a forfeiture under subsection (a)(1) or (a)(6) <sup>2</sup> of this section, by subsections (c) and (e) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853); and
 
-&emsp;(B) in the case of a forfeiture under subsection (a)(2) of this section, by subsections (b), (c), (e), and (g) through (p) of section 413 of such Act.
+&emsp;(B) in the case of a forfeiture under subsection (a)(2) of this section, by subsections\(b), (c), (e), and (g) through (p) of section 413 of such Act.
 
 (2) The substitution of assets provisions of subsection 413(p) shall not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period.
 
@@ -98,7 +98,7 @@ Subsec. (b)(2). Pub. L. 101–647, §1403, inserted before period at end “unle
 
 1989—Subsec. (a). Pub. L. 101–73, §963(c)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 101–73, §963(c)(2), struck out “The provisions of subsections 413(c) and (e) through (p) ofthe Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(c) and (e)–(p)) shall apply to property subject to forfeiture under this section, to any seizure or disposition thereof, and to any administrative or judicial proceeding in relation thereto, if not inconsistent with this section. However, the”, added par. (1), and inserted “(2) The” before “substitution of assets”.
+Subsec. (b). Pub. L. 101–73, §963(c)(2), struck out “The provisions of subsections 413(c) and (e) through (p) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(c) and (e)–(p)) shall apply to property subject to forfeiture under this section, to any seizure or disposition thereof, and to any administrative or judicial proceeding in relation thereto, if not inconsistent with this section. However, the”, added par. (1), and inserted “(2) The” before “substitution of assets”.
 
 1988—Subsec. (a). Pub. L. 100–690, §6463(c), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The court, in imposing sentence on a person convicted of an offense under section 1956 or 1957 of this title shall order that the person forfeit to the United States any property, real or personal, which represents the gross receipts the person obtained, directly or indirectly, as a result of such offense, or which is traceable to such gross receipts.”
 
@@ -110,7 +110,7 @@ Section 330011(s)(1) of Pub. L. 103–322 provided that the amendment made by th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 sections 1831k, 3412; title 31 section 9703.
+This section is referred to in title 12 sections 1831k, 3412; title 31 section 9703; title 42 section 1395i.
 
 <i><sup>1</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
 

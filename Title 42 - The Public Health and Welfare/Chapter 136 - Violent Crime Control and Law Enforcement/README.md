@@ -576,10 +576,11 @@ I74subpart 1—education and training for judges and court personnel in state co
 | [14071\.](Subchapter%20006%20%28VI%29%20-%20Crimes%20Against%20Children/%C2%A7%2014071%20-%20Jacob%20Wetterling%20Crimes%20Against%20Children%20and%20Sexually%20Violent%20Offender%20Registration%20Program.md) | Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Program. |
 | (a) | In general. |
 | (b) | Registration requirement upon release, parole, supervised release, or probation. |
-| (c) | Penalty. |
-| (d) | Release of information. |
-| (e) | Immunity for good faith conduct. |
-| (f) | Compliance. |
+| (c) | Registration of offender crossing State border. |
+| (d) | Penalty. |
+| (e) | Release of information. |
+| (f) | Immunity for good faith conduct. |
+| (g) | Compliance. |
 | (g) | Fingerprints. |
 | [14072\.](Subchapter%20006%20%28VI%29%20-%20Crimes%20Against%20Children/%C2%A7%2014072%20-%20FBI%20database.md) | FBI database. |
 | (a) | Definitions. |
@@ -828,7 +829,7 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (a) | Violent Crime Reduction Trust Fund. |
 | (b) | Transfers into Fund. |
 | (c) | Appropriations from Fund. |
-| [14212\.](Subchapter%20013%20%28XIII%29%20-%20Violent%20Crime%20Reduction%20Trust%20Fund/%C2%A7%2014212%20-%20Conforming%20reduction%20in%20discretionary%20spending%20limits.md) | Conforming reduction in discretionary spending limits. |
+| [14212\.](Subchapter%20013%20%28XIII%29%20-%20Violent%20Crime%20Reduction%20Trust%20Fund/%C2%A7%2014212%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9333%2C%20title%20X%2C%20%C2%A710204%28b%29%2C%20Aug.%205%2C%201997%2C%20111%20Stat.%20702.md) | Repealed. |
 | [14213\.](Subchapter%20013%20%28XIII%29%20-%20Violent%20Crime%20Reduction%20Trust%20Fund/%C2%A7%2014213%20-%20Extension%20of%20authorizations%20of%20appropriations%20for%20fiscal%20years%20for%20which%20full%20amount%20authorized%20is%20not%20appropriated.md) | Extension of authorizations of appropriations for fiscal years for which full amount authorized is not appropriated. |
 | [14214\.](Subchapter%20013%20%28XIII%29%20-%20Violent%20Crime%20Reduction%20Trust%20Fund/%C2%A7%2014214%20-%20Flexibility%20in%20making%20of%20appropriations.md) | Flexibility in making of appropriations. |
 | (a) | Federal law enforcement. |

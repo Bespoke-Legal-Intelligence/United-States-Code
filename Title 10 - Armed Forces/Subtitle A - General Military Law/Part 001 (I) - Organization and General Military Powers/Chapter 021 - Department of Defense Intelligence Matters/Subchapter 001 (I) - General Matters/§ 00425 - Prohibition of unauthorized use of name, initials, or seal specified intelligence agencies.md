@@ -1,0 +1,32 @@
+### §425. Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies
+
+(a)
+
+Prohibition.—Except with the written permission of both the Secretary of Defense and the Director of Central Intelligence, no person may knowingly use, in connection with any merchandise, retail product, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the Secretary and the Director, any of the following (or any colorable imitation thereof):
+
+&emsp;(1) The words “Defense Intelligence Agency”, the initials “DIA”, or the seal of the Defense Intelligence Agency.
+
+&emsp;(2) The words “National Reconnaissance Office”, the initials “NRO”, or the seal of the National Reconnaissance Office.
+
+&emsp;(3) The words “National Imagery and Mapping Agency”, the initials “NIMA”, or the seal of the National Imagery and Mapping Agency.
+
+&emsp;(4) The words “Defense Mapping Agency”, the initials “DMA”, or the seal of the Defense Mapping Agency.
+
+(b)
+
+Authority To Enjoin Violations.—Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
+
+(Added and amended Pub. L. 105–107, title V, §503(a), (b), Nov. 20, 1997, 111 Stat. 2262.)
+
+#### Codification
+
+The text of section 202(b) of this title, which was transferred to this section by Pub. L. 105–107, §503(b), was based on Pub. L. 97–269, title V, §501(a), Sept. 27, 1982, 96 Stat. 1145, §191; renumbered §201, Pub. L. 99–433, title III, §301(a)(1), Oct. 1, 1986, 100 Stat. 1019; renumbered §202, Pub. L. 102–190, div. A, title IX, §922(a)(1), Dec. 5, 1991, 105 Stat. 1453.
+
+#### Prior Provisions
+
+A prior section 425, added Pub. L. 103–178, title V, §503(a)(1), Dec. 3, 1993, 107 Stat. 2038, related to disclosure of information about personnel at National Reconnaissance Office prior to repeal by Pub. L. 104–201, div. A, title XI, §§1112(d), 1124, Sept. 23, 1996, 110 Stat. 2683, 2688, effective Oct. 1, 1996. See section 424 of this title.
+
+#### Amendments
+
+1997—Subsec. (b). Pub. L. 105–107, §503(b), renumbered section 202(b) of this title as subsec. (b) of this section and inserted heading.
+

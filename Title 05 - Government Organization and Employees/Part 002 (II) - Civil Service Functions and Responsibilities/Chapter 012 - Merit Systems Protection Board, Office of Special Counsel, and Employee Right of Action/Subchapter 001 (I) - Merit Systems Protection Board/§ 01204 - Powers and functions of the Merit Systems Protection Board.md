@@ -10,7 +10,7 @@
 
 &emsp;(4) review, as provided in subsection (f), rules and regulations of the Office of Personnel Management.
 
-(b)(1) Any member of the Merit Systems Protection Board, any administrative law judge appointed by the Board under section 3105 of this title, and any employee of the Board designated by the Board may administer oaths, examine witnesses, take depositions, and receive evidence.
+(b)(1) Any member of the Merit Systems Protection Board, any administrative law judge appointed by the Board under section 3105 of this title, and any employee of the Board designated by the Board may administer oaths, examinewitnesses, take depositions, and receive evidence.
 
 (2) Any member of the Board, any administrative law judge appointed by the Board under section 3105, and any employee of the Board designated by the Board may, with respect to any individual—
 

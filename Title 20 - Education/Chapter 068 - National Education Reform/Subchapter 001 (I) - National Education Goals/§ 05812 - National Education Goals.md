@@ -112,7 +112,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;(B) The objectives for this Goal are that—
 
-&emsp;&emsp;(i) every State will develop policies to assist local schools and local educational agencies to establish programs for increasing partnerships that respond to the varying needs of parents and the home, including parents of children who are disadvantaged or bilingual, or parents of children with disabilities;
+&emsp;&emsp;(i) every State will develop policies to assist local schools and local educational agencies to establish programs for increasing partnerships that respond to the varyingneeds of parents and the home, including parents of children who are disadvantaged or bilingual, or parents of children with disabilities;
 
 &emsp;&emsp;(ii) every school will actively engage parents and families in a partnership which supports the academic work of children at home and shared educational decisionmaking at school; and
 

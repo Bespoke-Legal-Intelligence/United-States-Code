@@ -10,7 +10,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Reservation
 
-&emsp;The term “reservation” means the geographically defined area over which a tribal organization exercises governmental jurisdiction.
+&emsp;The term “reservation” means the geographically defined area over which a tribalorganization exercises governmental jurisdiction.
 
 #### (3) Tribal organization
 

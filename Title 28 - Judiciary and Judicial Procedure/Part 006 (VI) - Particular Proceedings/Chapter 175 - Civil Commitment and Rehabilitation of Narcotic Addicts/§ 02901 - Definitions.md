@@ -38,13 +38,13 @@ This Act, referred to in subsec. (g)(5), probably means Pub. L. 89–793, which 
 
 #### Amendments
 
-1984—Subsec. (e). Pub. L. 98–473, §228(c)(1), substituted “section 3581” for “section 1”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–473, §228(c)(1), substituted “section 3581” for “section 1”.
 
 Subsec. (g)(3). Pub. L. 98–473, §228(c)(2), inserted references to supervised release.
 
-1972—Subsec. (d). Pub. L. 92–420 substituted “by eliminating his dependence on addicting drugs, or by controlling his dependence,” for “by correcting his antisocial tendencies and ending his dependence on addicting drugs”.
+<b>1972</b>—Subsec. (d). Pub. L. 92–420 substituted “by eliminating his dependence on addicting drugs, or by controlling his dependence,” for “by correcting his antisocial tendencies and ending his dependence on addicting drugs”.
 
-1970—Subsec. (a). Pub. L. 91–513 substituted “as defined by section 102(16) of the Controlled Substances Act” for “as defined by section 4731 of the Internal Revenue Code of 1954, as amended,”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–513 substituted “as defined by section 102(16) of the Controlled Substances Act” for “as defined by section 4731 of the Internal Revenue Code of 1954, as amended,”.
 
 #### Effective Date of 1984 Amendment
 
@@ -56,7 +56,7 @@ Section 5 of Pub. L. 92–420 provided that: “This Act \[amending this section
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970,see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
+Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
 
 #### Effective Date
 

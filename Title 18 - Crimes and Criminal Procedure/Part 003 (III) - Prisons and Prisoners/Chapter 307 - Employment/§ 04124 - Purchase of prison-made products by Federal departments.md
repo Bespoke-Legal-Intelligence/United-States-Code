@@ -1,6 +1,6 @@
 ### §4124. Purchase of prison-made products by Federal departments
 
-(a) The several Federal departments and agencies and all other Government institutions ofthe United States shall purchase at not to exceed current market prices, such products of the industries authorized by this chapter as meet their requirements and may be available.
+(a) The several Federal departments and agencies and all other Government institutions of the United States shall purchase at not to exceed current market prices, such products of the industries authorized by this chapter as meet their requirements and may be available.
 
 (b) Disputes as to the price, quality, character, or suitability of such products shall be arbitrated by a board consisting of the Attorney General, the Administrator of General Services, and the President, or their representatives. Their decision shall be final and binding upon all parties.
 
@@ -40,5 +40,5 @@ The date of the enactment of this subsection, referred to in subsec. (d), is the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 41 section 48.
+This section is referred to in title 15 section 657a; title 41 section 48.
 

@@ -4,7 +4,7 @@
 
 (b) All fines and penalties imposed by a court pursuant to this subchapter shall be paid to the court and be remitted from time to time by order of the judge to the Treasury of the United States to be credited to the Railroad Retirement Account.
 
-(Aug. 29, 1935, ch. 812, §13, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I, §101, 88 Stat. 1345.)
+(Aug. 29, 1935, ch. 812, §13, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1345.)
 
 #### Section Referred to in Other Sections
 

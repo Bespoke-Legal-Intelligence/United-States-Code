@@ -94,5 +94,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5307, 5323, 5333, 5336 of this title.
+This section is referred to in sections 5307, 5323, 5333, 5336, 5338 of this title.
 

@@ -36,7 +36,7 @@
 
 #### (D) Use of section 1437f assistance
 
-&emsp;&emsp;In any case where assistance under section 1437f of this title becomes available to a participating jurisdiction, recipients of rental assistance under this subchapter shall qualify for tenant selection preferences to thesame extent as when they received the rental assistance under this subchapter. A rental assistance program under this subchapter shall meet minimum criteria prescribed by the Secretary, such as housing quality standards and standards regarding the reasonableness of the rent.
+&emsp;&emsp;In any case where assistance under section 1437f of this title becomes available to a participating jurisdiction, recipients of rental assistance under this subchapter shall qualify for tenant selection preferences to the same extent as when they received the rental assistance under this subchapter. A rental assistance program under this subchapter shall meet minimum criteria prescribed by the Secretary, such as housing qualitystandards and standards regarding the reasonableness of the rent.
 
 #### (E) Security deposit assistance
 
@@ -106,7 +106,7 @@ A participating jurisdiction may not use more than 5 percent of its allocation u
 
 #### References in Text
 
-Section 1437d(c)(4)(A) of this title, referred to in subsec. (a)(3)(A)(ii), was in the original “section 6(c)(4)(A)of the Housing Act of 1937”, and was translated as reading “section 6(c)(4)(A) of the United States Housing Act of 1937”, act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
+Section 1437d(c)(4)(A) of this title, referred to in subsec. (a)(3)(A)(ii), was in the original “section 6(c)(4)(A) of the Housing Act of 1937”, and was translated as reading “section 6(c)(4)(A) of the United States Housing Actof 1937”, act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
 
 Section 1437<i>l</i> of this title, referred to in subsec. (d)(5), was in the original “section 14 of the Housing Act of 1937”, and was translated as reading “section 14 of the United States Housing Act of 1937”, act Sept. 1, 1937, ch. 896, to reflect the probable intent of Congress.
 

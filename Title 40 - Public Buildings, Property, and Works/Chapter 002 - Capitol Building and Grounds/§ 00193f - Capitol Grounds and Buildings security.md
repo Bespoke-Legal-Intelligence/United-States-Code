@@ -36,7 +36,7 @@ It shall be unlawful for any person or group of persons willfully and knowingly�
 
 Nothing contained in this section shall forbid any act of any Member of the Congress, or any employee of a Member of the Congress, any officer or employee of the Congress or any committee or subcommittee thereof, or any officer or employee of either House of the Congress or any committee or subcommittee thereof, which is performed in the lawful discharge of his official duties.
 
-(July 31, 1946, ch. 707, §6, 60 Stat. 718; Aug. 6, 1962, Pub. L. 87–571, 76 Stat. 307; Oct. 20, 1967, Pub. L. 90–108, §1(b), 81 Stat. 276.)
+(July 31, 1946, ch. 707, §6, 60 Stat. 718; Pub. L. 87–571, Aug. 6, 1962, 76 Stat. 307; Pub. L. 90–108, §1(b), Oct. 20, 1967, 81 Stat. 276.)
 
 #### Codification
 

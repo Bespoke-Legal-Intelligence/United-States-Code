@@ -110,13 +110,13 @@ Subsec. (g). Pub. L. 103–337, §1628(4), struck out subsec. (g) which read as 
 
 1980—Subsec. (b). Pub. L. 96–513, §337(a)(1), substituted “subsection (a) or (f)” for “subsection (a)”.
 
-Subsec. (d). Pub. L. 96–513, §337(a)(2), substituted “as the years of active commissioned service of any regular officer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
+Subsec. (d). Pub. L. 96–513, §337(a)(2), substituted “as the years of active commissioned service of any regularofficer on the active-duty” for “as any officer in the line on the active” and “or any regular officer on the active-duty list of the Marine Corps” for “or any officer on the active list of the Marine Corps”.
 
 Subsec. (e). Pub. L. 96–513, §337(a)(3), substituted “does not apply to” for “applies to women officers appointed under section 5581 of this title, but not to other”.
 
 Subsec. (f). Pub. L. 96–513, §337(a)(4), added subsec. (f).
 
-1960—Subsec. (c). Pub. L. 86–559 empowered the Secretary to defer the retirement or discharge of officersserving in the grade of lieutenant commander in the Ready Reserve, in the permanent grade of lieutenant commander or above in the Naval Reserve, in the permanent grade of major or above in the Marine Corps Reserve, and in the permanent grade of captain or commander in the Medical Corps, Chaplain Corps, or Dental Corps in the Naval Reserve.
+1960—Subsec. (c). Pub. L. 86–559 empowered the Secretary to defer the retirement or discharge of officers serving in the grade of lieutenant commander in the Ready Reserve, in the permanent grade of lieutenant commander or above in the Naval Reserve, in the permanent grade of major or above in the Marine Corps Reserve, and in the permanent grade of captain or commander in the Medical Corps, Chaplain Corps, or Dental Corps in the Naval Reserve.
 
 #### Effective Date of 1996 Amendment
 

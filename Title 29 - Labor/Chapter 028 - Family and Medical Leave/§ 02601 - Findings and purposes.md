@@ -26,7 +26,7 @@ It is the purpose of this Act—
 
 &emsp;(3) to accomplish the purposes described in paragraphs (1) and (2) in a manner that accommodates the legitimate interests of employers;
 
-&emsp;(4) to accomplish the purposes described in paragraphs (1) and (2) in a manner that, consistent with the Equal Protection Clause of the Fourteenth Amendment, minimizes the potential for employment discrimination onthe basis of sex by ensuring generally that leave is available for eligible medical reasons (including maternity-related disability) and for compelling family reasons, on a gender-neutral basis; and
+&emsp;(4) to accomplish the purposes described in paragraphs (1) and (2) in a manner that, consistent with the Equal Protection Clause ofthe Fourteenth Amendment, minimizes the potential for employment discrimination on the basis of sex by ensuring generally that leave is available for eligible medical reasons (including maternity-related disability) and for compelling family reasons, on a gender-neutral basis; and
 
 &emsp;(5) to promote the goal of equal employment opportunity for women and men, pursuant to such clause.
 
@@ -66,5 +66,5 @@ Section 1(a) of Pub. L. 103–3 provided that: “This Act \[enacting this chapt
 
 #### Act Referred to in Other Sections
 
-The Family and Medical Leave Act of 1993 is referred to in title 2 sections 1302, 1312, 1371, 1434; title 3 section 402.
+The Family and Medical Leave Act of 1993 is referred to in title 2 sections 1302, 1312, 1371, 1434; title 3 section 402; title 40 section 207b.
 

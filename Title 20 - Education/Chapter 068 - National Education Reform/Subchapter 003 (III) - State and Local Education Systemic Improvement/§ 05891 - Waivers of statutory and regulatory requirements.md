@@ -20,7 +20,7 @@
 
 #### (2) Application
 
-&emsp;(A)(i) To request a waiver under paragraph (1), a local educational agency or school that receives funds under this subchapter, or a local educational agency or school that does not receive funds under this subchapter but is undertaking school reform efforts that the Secretary determines are comparable to the activities described in section 5886 of this title, shall transmit an application for such a waiver to the State educational agency. The State educational agency then shall submit approved applications for waivers under paragraph (1) to the Secretary.
+&emsp;(A)(i) To request a waiver under paragraph (1), a local educational agency or school thatreceives funds under this subchapter, or a local educational agency or school that does not receive funds under this subchapter but is undertaking school reform efforts that the Secretary determines are comparable to the activities described in section 5886 of this title, shall transmit an application for such a waiver to the State educational agency. The State educational agency then shall submit approved applications for waivers under paragraph (1) to the Secretary.
 
 &emsp;(ii) A State educational agency that receives funds under this subchapter may request a waiver under paragraph (1) by submitting an application for such waiver to the Secretary.
 
@@ -78,7 +78,7 @@ The Secretary may not waive any statutory or regulatory requirement of the progr
 
 &emsp;&emsp;(E) the distribution of funds to States or to local educational agencies; and
 
-&emsp;(2) unless the underlying purposes of the statutory requirements of each program orAct for which a waiver is granted continue to be met to the satisfaction of the Secretary.
+&emsp;(2) unless the underlying purposes of the statutory requirements of each program or Act for which a waiver is granted continue to be met to the satisfaction of the Secretary.
 
 #### (d) Termination of waivers
 
@@ -166,7 +166,7 @@ The Secretary shall periodically review the performance of any State, local educ
 
 #### (f) Accountability
 
-In deciding whether to extend a request for a waiver under subsection (a)(1) of this section, or a State educational agency's authority to issue waivers under subsection (e) of this section, the Secretary shall review the progress of the State educational agency, local educational agency, or school affected by such waiver or authority to determine if such agency or school has made progress toward achieving the desired results described in the application submitted pursuant to subsection (a)(2)(B)(iii) or (e)(5)(A)(ii) of this section.
+In deciding whether to extend a request for a waiver under subsection (a)(1) of this section, or a State educational agency's authority to issue waivers under subsection (e) of this section, theSecretary shall review the progress of the State educational agency, local educational agency, or school affected by such waiver or authority to determine if such agency or school has made progress toward achieving the desired results described in the application submitted pursuant to subsection (a)(2)(B)(iii) or (e)(5)(A)(ii) of this section.
 
 #### (g) Publication
 

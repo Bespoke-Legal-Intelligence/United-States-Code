@@ -92,7 +92,7 @@ A payment that may be made to a producer under this section may be assigned only
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
@@ -126,7 +126,7 @@ Pub. L. 99–198, §1711(a)(2), in fourth sentence of fifth par., struck out “
 
 Pub. L. 99–198, §1711(a)(3), in fifth par., inserted provisions directing that each member of a local committee be elected for a term of 3 years, that each local committee meet (A) once each year and shall receive compensation for such meeting by the Secretary at not less than the level in effect on December 31, 1985, and (B) at the direction of the county committee and with the approval of the State committee, such additional times during the year as may be necessary to carry out this section without compensation, and that the meetings of a local committee shall be held on different days of the year.
 
-Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas thatcontain agricultural producers who might be affected by such changes.
+Pub. L. 99–198, §1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas that contain agricultural producers who might be affected by such changes.
 
 1980—Subsec. (b). Pub. L. 96–294 added applicability to energy conservation as an area of conservation subject to financial assistance, and provisions setting forth authority for financial assistance to agricultural producers for encouraging energy conservation through cost sharing and technical assistance for shelter belts, etc.
 
@@ -198,7 +198,7 @@ Subsec. (c)(6). Act Apr. 7, 1938, added par. (6).
 
 Subsecs. (d) to (g). Act Feb. 16, 1938, added subsecs. (d) to (g).
 
-Subsec. (g). Act Apr. 7, 1938, substituted second and third sentences for sentences which provided “Such assignment shall be acknowledged by the farmer beforethe county agricultural extension agent and filed with such agent. The farmer shall file with such county agricultural extension agent an affidavit stating that the assignment is not made to pay or secure any pre-existing indebtedness.”
+Subsec. (g). Act Apr. 7, 1938, substituted second and third sentences for sentences which provided “Such assignment shall be acknowledged by the farmer before the county agricultural extension agent and filed with such agent. The farmer shall file with such county agricultural extension agent an affidavit stating that the assignment is not made to pay or secure any pre-existing indebtedness.”
 
 1937—Subsec. (a). Act June 28, 1937, substituted “January 1, 1942” for “January 1, 1938” wherever appearing, and “December 31, 1941” for “December 31, 1937”.
 
@@ -232,7 +232,7 @@ Functions respecting lands under jurisdiction of Department of the Interior, tra
 
 #### Local Committee Member Elected Before January 1, 1986; Completion of Unexpired Term in Administrative Area of Residence
 
-Section 1711(b)(2) of Pub. L. 99–198 provided that: “If the number of local administrative areas and local committees in a county increases as a result of a change in the number of local administrative areas in the county under section 8(b) of the Soil Conservation and Domestic Allotment Act \[subsec. (b) of this section\] (as amended by subsection (a)(1)), any member of a local committee in such county elected before January 1, 1986, shall serve the unexpired portion of any term commenced before the date of such increase as a member of the local committee for the administrative area in which such member resides.”
+Section 1711(b)(2) of Pub. L. 99–198 provided that: “If the number of local administrative areas and local committees in a county increases as a result of a change in the number of local administrative areas in the county under section 8(b) of the Soil Conservation and Domestic Allotment Act \[subsec. (b) of this section\] (as amended by subsection (a)(1)), any member of a local committee in such county elected before January 1, 1986, shall serve the unexpired portion of any term commenced before the date of such increase as amember of the local committee for the administrative area in which such member resides.”
 
 #### Congressional Findings Respecting the Agricultural Stabilization and Conservation County and Community Committee System
 

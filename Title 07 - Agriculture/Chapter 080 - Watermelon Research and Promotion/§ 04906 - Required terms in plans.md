@@ -26,7 +26,7 @@ The plan shall provide for the establishment by the Secretary of the National Wa
 
 &emsp;(B) the combined total volume of watermelons handled by the producer from the producer's own production and purchases from other producers’ production is more than 50 percent of the producer's own production.
 
-(3)(A) If importers are subject to the plan, the Board shall also include 1 or more representatives of importers, who shall be appointed by the Secretary from nominations submitted by importers in such manner as may be prescribed by the Secretary.
+(3)(A) If importers are subject to the plan, the Board shall also include 1 or more representatives of importers, who shall be appointed by theSecretary from nominations submitted by importers in such manner as may be prescribed by the Secretary.
 
 (B) Importer representation on the Board shall be proportionate to the percentage of assessments paid by importers to the Board, except that at least 1 representative of importers shall serve on the Board.
 
@@ -62,7 +62,7 @@ The plan shall provide the following:
 
 #### (h) Refunds
 
-(1) Except as provided in paragraph (2), the plan shall provide that, notwithstanding any other provisions of this chapter, any watermelon producer or handler (or importer who is subject to the plan) against whose watermelons an assessment is made and collected under this chapter and who is not in favor of supporting the research, development, advertising, and promotion program provided for under this chapter shall have the right to demand a refund of the assessment from the Board, under regulations, and on a form and within a time period (not less than 90 days), prescribed by the Board and approved by the Secretary. A producer or handler\(or importer who is subject to the plan) who timely makes demand in accord with the regulations, on submission of proof satisfactory to the Board that the producer, handler, or importer paid the assessment for which the refund is sought, shall receive such refund within 60 days after demand therefor.
+(1) Except as provided in paragraph (2), the plan shall provide that, notwithstanding any other provisions of this chapter, any watermelon producer or handler (or importer who is subject to the plan) against whose watermelons an assessment is made and collected under this chapter and who is not in favor of supporting the research, development, advertising, and promotion program provided for under this chapter shall have the right to demand a refund of the assessment from the Board, under regulations, and on a form and within a time period (not less than 90 days), prescribed by the Board and approved by the Secretary. A producer or handler (or importer who is subject to the plan) who timely makes demand in accord with the regulations, on submission of proof satisfactory to the Board that the producer, handler, or importer paid the assessment for which the refund is sought, shall receive such refund within 60 days after demand therefor.
 
 (2) If approved in the referendum required by section 4914(b) of this title relating to the elimination of the assessment refund under paragraph (1), the Secretary shall amend the plan that is in effect on the day before December 14, 1993, to eliminate the refund provision.
 
@@ -72,7 +72,7 @@ The plan shall provide the following:
 
 #### (i) Submission of programs or projects; approval by Secretary
 
-The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g) of this section, shall develop and submit to the Secretary, for the Secretary's approval, any research, development, advertising, or promotion program or project, and that a program or project must be approved by the Secretary before becoming effective.
+The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g) of this section, shall develop and submit to the Secretary, for the Secretary's approval, any research, development, advertising, or promotionprogram or project, and that a program or project must be approved by the Secretary before becoming effective.
 
 #### (j) Contract authority
 

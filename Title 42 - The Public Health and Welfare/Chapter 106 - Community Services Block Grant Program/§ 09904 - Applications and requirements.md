@@ -40,7 +40,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(E) to encourage the use of entities in the private sector of the community in efforts to ameliorate poverty in the community;
 
-&emsp;(2)(A) use, for fiscal year 1985 and for each subsequent fiscal year, not less than 90 percent of the funds allotted to the State under section 9903 of this title to make grants to use for the purposes described in clause (1) to eligible entities (as defined in section 9902(1) of this title) or to organizations serving seasonal or migrant farmworkers, except that no more than 7 percent of the funds available for this subclause shall be granted to organizationswhich were not eligible entities during the previous fiscal year; and
+&emsp;(2)(A) use, for fiscal year 1985 and for each subsequent fiscal year, not less than 90 percent of the funds allotted to the State under section 9903 of this title to make grants to use for the purposes described in clause (1) to eligible entities (as defined in section 9902(1) of this title) or to organizations serving seasonal or migrant farmworkers, except that no more than 7 percent of the funds available for this subclause shall be granted to organizations which were not eligible entities during the previous fiscal year; and
 
 &emsp;(B) if less than 100 percent of the allotment is expended under subparagraph (A), provide assurances that with respect to the remainder of the allotment a reasonable amount shall be used for—
 
@@ -66,7 +66,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(6) prohibit any political activities in accordance with subsection (e) of this section;
 
-&emsp;(7) prohibit any activities to provide voters and prospective voters with transportation to the polls or provide similar assistance in connection with an election or any voter registration activity;
+&emsp;(7) prohibit any activities to provide voters and prospective voters with transportation tothe polls or provide similar assistance in connection with an election or any voter registration activity;
 
 &emsp;(8) provide for coordination between antipoverty programs in each community, where appropriate, with emergency energy crisis intervention programs under subchapter II of chapter 94 of this title (relating to low-income home energy assistance) conducted in such community;
 
@@ -134,7 +134,7 @@ The Comptroller General of the United States shall, from time to time, evaluate 
 
 The Older Americans Act of 1965, referred to in subsec. (c)(5), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-Subchapter II of chapter 105 of this title, referred to in subsec. (c)(5), was in the original “subchapter B of chapter 8 of subtitle A of this title”, meaning subchapter B (§§635 to 657) of chapter 8 of subtitle A oftitle VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+Subchapter II of chapter 105 of this title, referred to in subsec. (c)(5), was in the original “subchapter B of chapter 8 of subtitle A of this title”, meaning subchapter B (§§635 to 657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 Subchapter II of chapter 94 of this title, referred to in subsec. (c)(5), (8), was in the original “title XXVI of this Act”, meaning title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, known as the Low-Income Home Energy Assistance Act of 1981, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of this title and Tables.
 
@@ -182,7 +182,7 @@ Subsec. (c)(11). Pub. L. 99–425, §403(a)(1), inserted “the procedures and�
 
 Subsec. (i). Pub. L. 99–425, §404(b), struck out subsec. (i) which read as follows:
 
-“(1) For purposes of determining compliance with this chapter the Secretary shall conduct, in several States in each fiscal year, evaluations of the uses made of funds received under this chapter by such States.
+“(1) For purposes of determining compliance with this chapter the Secretary shall conduct, in severalStates in each fiscal year, evaluations of the uses made of funds received under this chapter by such States.
 
 “(2) The results of such evaluations shall be submitted annually to the chairman of the Committee on Education and Labor of the House of Representatives and the chairman of the Committee on Labor and Human Resources of the Senate.”
 

@@ -28,7 +28,7 @@ Public Law 95–341, popularly known as the American Indian Religious Freedom Ac
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
+The National Historic Preservation Act, referred to in subsec. (a)(3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16. Forcomplete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act” and was translated as reading “this title”, meaning title XV of Pub. L. 99–498 to reflect the probable intent of Congress.
 

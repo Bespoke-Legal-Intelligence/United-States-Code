@@ -42,7 +42,7 @@ Grants made under this subchapter shall be used to develop, implement, operate, 
 
 &emsp;(4) develop leadership roles for the meaningful involvement of parents in the development, operation, evaluation, and oversight of the programs and services;
 
-&emsp;(5) provide leadership in mobilizing local public and private resources to support theprovision of needed family resource and support program services; and
+&emsp;(5) provide leadership in mobilizing local public and private resources to support the provision of needed family resource and support program services; and
 
 &emsp;(6) participate with other community-based, prevention-focused, family resource and support program grantees in the development, operation and expansion of the Statewide network.
 

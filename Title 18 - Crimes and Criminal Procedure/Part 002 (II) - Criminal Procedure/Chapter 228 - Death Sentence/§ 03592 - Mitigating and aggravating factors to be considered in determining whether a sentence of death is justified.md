@@ -2,7 +2,7 @@
 
 (a)
 
-Mitigating Factors.—In determining whether a sentence of death is to be imposed on a defendant, the finder of fact shall consider any mitigating factor, including the following:
+Mitigating Factors.—In determining whether a sentence of death is to be imposed ona defendant, the finder of fact shall consider any mitigating factor, including the following:
 
 &emsp;(1)
 
@@ -76,7 +76,7 @@ Previous conviction of other serious offenses.—The defendant has previously be
 
 &emsp;(5)
 
-Grave risk of death to additional persons.—The defendant, in the commission ofthe offense, or in escaping apprehension for the violation of the offense, knowingly created a grave risk of death to 1 or more persons in addition to the victim of the offense.
+Grave risk of death to additional persons.—The defendant, in the commission of the offense, or in escaping apprehension for the violation of the offense, knowingly created a grave risk of death to 1 or more persons in addition to the victim of the offense.
 
 &emsp;(6)
 
@@ -162,7 +162,7 @@ Use of firearm.—In committing the offense, or in furtherance of a continuing c
 
 &emsp;(5)
 
-Distribution to persons under 21.—The offense, or a continuing criminal enterprise of which the offense was a part, involved conductproscribed by section 418 of the Controlled Substances Act (21 U.S.C. 859) which was committed directly by the defendant.
+Distribution to persons under 21.—The offense, or a continuing criminal enterprise of which the offense was a part, involved conduct proscribed by section 418 of the Controlled Substances Act (21 U.S.C. 859) which was committed directly by the defendant.
 
 &emsp;(6)
 

@@ -1,0 +1,70 @@
+### §297d. Allotments and payments of Federal capital contributions
+
+#### (a) Application for allotment; reduction or adjustment of amount requested in application; reallotment; continued availability of funds
+
+(1) The Secretary shall from time to time set dates by which schools of nursing must file applications for Federal capital contributions.
+
+(2)(A) If the total of the amounts requested for any fiscal year in such applications exceeds the total amount appropriated under section 297c of this title for that fiscal year, the allotment from such total amount to the loan fund of eachschool of nursing shall be reduced to whichever of the following is the smaller:
+
+&emsp;(i) The amount requested in its application.
+
+&emsp;(ii) An amount which bears the same ratio to the total amount appropriated as the number of students estimated by the Secretary to be enrolled on a full-time basis in such school during such fiscal year bears to the estimated total number of students enrolled in all such schools on a full-time basis during such year.
+
+(B) Amounts remaining after allotment under subparagraph (A) shall be reallotted in accordance with clause (ii) of such subparagraph among schools whose applications requested more than the amounts so allotted to their loan funds, but with such adjustments as may be necessary to prevent the total allotted to any such school's loan fund under this paragraph and paragraph (3) from exceeding the total so requested by it.
+
+(3) Funds which, pursuant to section 297e(c) of this title or pursuant to a loan agreement under section 297a of this title are returned to the Secretary in any fiscal year, shall be available for allotment until expended. Funds described in the preceding sentence shall be allotted among schools of nursing in such manner as the Secretary determines will best carry out this subpart.
+
+#### (b) Installment payment of allotments
+
+Allotments to a loan fund of a school shall be paid to it from time to time in such installments as the Secretary determines will not result in unnecessary accumulations in the loan fund at such school.
+
+#### (c) Manner of payment
+
+The Federal capital contributions to a loan fund of a school under this subpart shall be paid to it from time to time in such installments as the Secretary determines will not result in unnecessary accumulations in the loan fund at such school.
+
+(July 1, 1944, ch. 373, title VIII, §838, formerly §825, as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 915; amended Nov. 3, 1966, Pub. L. 89–751, §6(c), 80 Stat. 1235; Aug. 16, 1968, Pub. L. 90–490, title II, §222(e), 82 Stat. 785; renumbered §838 and amended July 29, 1975, Pub. L. 94–63, title IX, §941(h)(1), (2), (4)(A), (i)(1), (4), 89 Stat. 365, 366; Aug. 16, 1985, Pub. L. 99–92, §8(e), 99 Stat. 398; Nov. 4, 1988, Pub. L. 100–607, title VII, §713(h)(1), 102 Stat. 3161; Oct. 13, 1992, Pub. L. 102–408, title II, §208(a), 106 Stat. 2075.)
+
+#### Amendments
+
+1992—Subsec. (a)(3). Pub. L. 102–408 struck out “(A)” after “(3)”, substituted “available for allotment until expended.” for “available for allotment in such fiscal year and in the fiscal year succeeding the fiscal year.” and “this subpart.” for “this subpart, except that in making such allotments, the Secretary shall give priority to schools of nursing which established student loan funds under this subpart after September 30, 1975.”, and struck out subpar. (B) which read as follows: “With respect to funds available pursuant to subparagraph (A), any such funds returned to the Secretary and not allotted by the Secretary, during the period of availability specified in such subparagraph, shall be available to carry out section 297j of this title and, for such purpose, shall remain available until expended.”
+
+1988—Subsec. (a)(3). Pub. L. 100–607 designated existing provisions as subpar. (A) and added subpar. (B).
+
+1985—Subsec. (a). Pub. L. 99–92 amended subsec. (a) generally, substituting provisions relating to application for allotment, reduction or adjustment of amount requested in application, reallotment, and availability of funds for allotment during fiscal years for provisions relating to determination of amount of allotment.
+
+Subsec. (b). Pub. L. 99–92 amended subsec. (b) generally, substituting provisions relating to payment to a loan fund of a school of allotments for provisions relating to application for allotment, adjustment or reduction of amount requested in application, and reallotment.
+
+1975—Subsec. (a). Pub. L. 94–63, §941(h)(1), (4)(A)(i), (i)(4), substituted “subpart” for “part” wherever appearing, struck out “(whether as Federal capital contributions or as loans to schools under section 297f of this title)” before “which are in excess”, and substituted references to section 847 of the Act for references to section 824, which had previously been translated as section 297c of this title, requiring no further translations in text as a result of renumbering of the Public Health Service Act.
+
+Subsec. (b)(1). Pub. L. 94–63, §941(h)(4)(A)(ii), struck out “, and for loans pursuant to section 297f of this title,” after “contributions”.
+
+Subsec. (b)(2). Pub. L. 94–63, §941(h)(2), struck out “of Health, Education, and Welfare” after “Secretary”.
+
+Subsec. (c). Pub. L. 94–63, §941(h)(1), substituted “subpart” for “part”.
+
+1968—Subsec. (a). Pub. L. 90–490 substituted a new formula for distribution of Federal funds among schools of nursing by providing for allotment of funds among the schools entirely on the basis of their relative enrollments for former provisions which allocated funds among the States, 50 per centum on the basis of relative number of high school graduates, and 50 per centum on the basis of relative number of students enrolled in schools of nursing, and provided for determination of number of persons enrolled in such schools for most recent year for which satisfactory data are available to the Secretary.
+
+1966—Subsec. (a). Pub. L. 89–751, §6(c)(1), authorized allotment of appropriations for payment as Federal capital contributions or as loans to schools under section 297f of this title, and directed that funds available in any fiscal year for payment to schools under this part (whether as Federal capital contributions or as loans to schools under section 297f of this title) which are in excess of the amount appropriated pursuant to section 297c of this title for that year shall be allotted among States and among schools within States in such manner as the Secretary determinates will best carry out the purposes of this part.
+
+Subsec. (b)(1). Pub. L. 89–751, §6(c)(2), substituted “schools of nursing in a State must file applications for Federal capital contributions, and for loans pursuant to section 297f of this title, from the allotment of such State under the first two sentences of subsection (a) of this section” for “schools of nursing with which he has in effect agreements under this part must file applications for Federal capital contributions to their loan funds pursuant to section 297a(b)(2)(A) of this title”.
+
+#### Effective Date of 1988 Amendment
+
+Section 713(h)(2) of Pub. L. 100–607 provided that: “Except as provided in Public Law 100–436 \[Sept. 20, 1988, 102 Stat. 1680, see Tables for classification\], the amendment made by paragraph (1) \[amending this section\] shall take effect as if such amendment had been effective on September 30, 1988, and as if section 843 of the Public Health Service Act, as added by section 715 of this title \[section 297j of this title\], had been effective on such date.”
+
+#### Effective Date of 1985 Amendment
+
+Amendment by Pub. L. 99–92 effective Oct. 1, 1985, see section 10(a) of Pub. L. 99–92, set out as a note under section 296k of this title.
+
+#### Effective Date of 1975 Amendment
+
+Amendment by Pub. L. 94–63 effective July 1, 1975, see section 942 of Pub. L. 94–63, set out as a note under section 296a of this title.
+
+#### Effective Date of 1966 Amendment
+
+Amendment by Pub. L. 89–751 effective in the case of payments to student loan funds made after Nov. 3, 1966, except in the case of payments pursuant to commitments (made prior to Nov. 3, 1966) to make loans under section 297f of this title as in effect prior to Nov. 3, 1966, see section 6(e)(1) of Pub. L. 89–751, set out as a note under section 297c of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 297a, 297c, 298b of this title.
+

@@ -18,7 +18,7 @@ It is the purpose of this subchapter to—
 
 &emsp;(2) assist governments and Indian tribes in performing research and public education tasks associated with natural and cultural resources on eligible service lands;
 
-&emsp;(3) expose young men and women to public service while furthering their understandingand appreciation of the Nation's natural and cultural resources;
+&emsp;(3) expose young men and women to public service while furthering their understanding and appreciation of the Nation's natural and cultural resources;
 
 &emsp;(4) expand educational opportunities by rewarding individuals who participate in national service with an increased ability to pursue higher education or job training; and
 

@@ -1,0 +1,116 @@
+### §504. Civil money penalty
+
+#### (a) First tier
+
+Any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who, violates any provision of section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title, or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
+
+#### (b) Second tier
+
+Notwithstanding subsection (a) of this section, any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who <sup>1</sup>
+
+&emsp;(1)(A) commits any violation described in subsection (a) of this section;
+
+&emsp;(B) recklessly engages in an unsafe or unsound practice in conducting the affairs of such member bank; or
+
+&emsp;(C) breaches any fiduciary duty;
+
+&emsp;(2) which violation, practice, or breach—
+
+&emsp;&emsp;(A) is part of a pattern of misconduct;
+
+&emsp;&emsp;(B) causes or is likely to cause more than a minimal loss to such member bank; or
+
+&emsp;&emsp;(C) results in pecuniary gain or other benefit to such party,
+
+> shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation, practice, or breach continues.
+
+#### (c) Third tier
+
+Notwithstanding subsections (a) and (b) of this section, any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who—
+
+&emsp;(1) knowingly—
+
+&emsp;&emsp;(A) commits any violation described in subsection (a) of this section;
+
+&emsp;&emsp;(B) engages in any unsafe or unsound practice in conducting the affairs of such credit union; <sup>2</sup> or
+
+&emsp;&emsp;(C) breaches any fiduciary duty; and
+
+&emsp;(2) knowingly or recklessly causes a substantial loss to such credit union <sup>2</sup> or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
+
+> shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subsection (d) of this section for each day during which such violation, practice, or breach continues.
+
+#### (d) Maximum amounts of penalties for any violation described in subsection (c)
+
+The maximum daily amount of any civil penalty which may be assessed pursuant to subsection (c) of this section for any violation, practice, or breach described in such subsection is—
+
+&emsp;(1) in the case of any person other than a member bank, an amount to not exceed $1,000,000; and
+
+&emsp;(2) in the case of a member bank, an amount not to exceed the lesser of—
+
+&emsp;&emsp;(A) $1,000,000; or
+
+&emsp;&emsp;(B) 1 percent of the total assets of such member bank.
+
+#### (e) Assessment; etc.
+
+Any penalty imposed under subsection (a), (b), or (c) of this section shall be assessed and collected <sup>3</sup> by
+
+&emsp;(1) in the case of a national bank, by the Comptroller of the Currency; and
+
+&emsp;(2) in the case of a State member bank, by the Board,
+
+> in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+
+#### (f) Hearing
+
+The member bank or other person against whom any penalty is assessed under this section shall be afforded an agency hearing if such member bank or person submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this section.
+
+#### (g) Disbursement
+
+All penalties collected under authority of this paragraph shall be deposited into the Treasury.
+
+#### (h) “Violate” defined
+
+For purposes of this section, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+
+#### (i) Regulations
+
+The Comptroller of the Currency and the Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
+
+#### (m) <sup>4</sup> Notice under this section after separation from service
+
+The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a member bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
+
+(Dec. 23, 1913, ch. 6, §29, as added Pub. L. 95–630, title I, §101, Nov. 10, 1978, 92 Stat. 3641; amended Pub. L. 97–320, title IV, §424(c), (d)(1), (e), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 101–73, title IX, §§905(f), 907(g), Aug. 9, 1989, 103 Stat. 461, 470.)
+
+#### Codification
+
+In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A, or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title. Former subsections (a) to (c) and (h) to (k), which were classified to sections 593 to 599 of this title, were repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948, and the provisions thereof were reenacted as sections 217, 218, 219, 220, 655, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure. Sections 217, 218, 219, and 220 of Title 18 were redesignated as sections 212, 213, 214, and 215 of Title 18 by act Oct. 23, 1962, Pub. L. 87–849, §1(d), 76 Stat. 1125.
+
+#### Amendments
+
+1989—Pub. L. 101–73, §907(g), amended section generally, substituting provisions of subsecs. (a) to (i) for former provisions which related to the following: subsec. (a), making loans, extensions of credit, purchases of securities, etc., respecting affiliates, executive officers, etc.; subsec. (b), amount of penalty; subsec. (c), opportunity for hearing; subsec. (d), review by United States court of appeals; subsec. (e), action by Attorney General for failure to pay assessment; subsec. (f), promulgation of regulations; and subsec. (g), penalties covered into Treasury of United States.
+
+Subsec. (m). Pub. L. 101–73, §905(f), added subsec. (m).
+
+1982—Subsec. (a). Pub. L. 97–320, §424(c), (d)(1), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed under its authority, and substituted “may be assessed” for “shall be assessed”, respectively.
+
+Subsec. (d). Pub. L. 97–320, §424(e), substituted “twenty days from the service” for “ten days from the date”.
+
+#### Effective Date of 1989 Amendment
+
+Amendment by section 907(g) of Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(<i>l</i>) of Pub. L. 101–73, set out as a note under section 93 of this title.
+
+#### Effective Date
+
+Section effective with respect to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub. L. 95–630 set out as an Effective Date of 1978 Amendment note under section 93 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “such member bank”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a dash rather than “by”.</i>
+
+<i><sup>4</sup></i><i> So in original. No subsecs. (j) to (l) have been enacted.</i>
+

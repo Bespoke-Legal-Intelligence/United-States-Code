@@ -8,7 +8,7 @@
 
 (d) For the purpose of construing sections 1821, 1915, 1920, and 1927 of this title, the United States Court of Federal Claims shall be deemed to be a court of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, §53, 68 Stat. 1246; Apr. 2, 1982, Pub. L. 97–164, title I, §139(b)(1), 96 Stat. 42; Oct. 29, 1992, Pub. L. 102–572, title IX, §§902(a), 909, 106 Stat. 4516, 4519.)
+(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, §53, 68 Stat. 1246; Pub. L. 97–164, title I, §139(b)(1), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §§902(a), 909, Oct. 29, 1992, 106 Stat. 4516, 4519.)
 
 #### Historical and Revision Notes
 
@@ -32,13 +32,13 @@ The Federal Rules of Evidence, referred to in subsec. (b), are set out in the Ap
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsecs. (b), (c). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
 
 Subsec. (d). Pub. L. 102–572, §909, added subsec. (d).
 
-1982—Pub. L. 97–164 substituted “Proceedings generally” for “Proceedings before commissioners generally” in section catchline.
+<b>1982</b>—Pub. L. 97–164 substituted “Proceedings generally” for “Proceedings before commissioners generally” in section catchline.
 
 Subsec. (a). Pub. L. 97–164 substituted “Parties to any suit in the United States Claims Court may appear before a judge of that court in person or by attorney, produce evidence, and examine witnesses” for “Parties to any suit in the Court of Claims may appear before a commissioner in person or by attorney, produce evidence and examine witnesses” and redesignated as subsec. (c) provisions that, in accordance with rules and orders of the court, commissioners would fix times for trials, administer oaths or affirmations to and examine witnesses, receive evidence and report findings of fact, that when directed by the court, commissioners would report their recommendations for conclusions of law in cases assigned to them, and that hearings would, if convenient, be held in the counties where the witnesses resided.
 
@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 97–164 substituted “The proceedings of the Claims Court
 
 Subsec. (c). Pub. L. 97–164 redesignated provisions in second and third sentences of former subsec. (a) as (c) and substituted “The judges of the Claims Court” for “In accordance with rules and orders of the court, commissioners” and “enter dispositive judgments” for “report findings of fact and, when directed by the court, their recommendations for conclusions of law in cases assigned to them”.
 
-1954—Act Sept. 3, 1954, designated former first par. subsec. (a), and former second par. subsec. (b), and incorporated in one place provisions relating to function of Commissioners.
+<b>1954</b>—Act Sept. 3, 1954, designated former first par. subsec. (a), and former second par. subsec. (b), and incorporated in one place provisions relating to function of Commissioners.
 
 #### Effective Date of 1992 Amendment
 

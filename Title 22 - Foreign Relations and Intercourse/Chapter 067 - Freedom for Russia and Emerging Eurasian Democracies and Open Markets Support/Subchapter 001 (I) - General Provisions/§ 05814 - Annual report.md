@@ -34,6 +34,8 @@ Pub. L. 103–87, title V, §560(g), Sept. 30, 1993, 107 Stat. 967, provided tha
 
 Similar provisions relating to nonavailability of funds to any government of the new independent states of the former Soviet Union if that government directs any action in violation of the territorial integrity or national sovereignty of any other new independent state, were contained in the following appropriation acts:
 
+Pub. L. 105–118, title II, \[(c)\], Nov. 26, 1997, 111 Stat. 2395.
+
 Pub. L. 104–208, div. A, title I, §101(c) \[title II, \[(d)\]\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–130.
 
 Pub. L. 104–107, title II, \[(d)\], Feb. 12, 1996, 110 Stat. 712.

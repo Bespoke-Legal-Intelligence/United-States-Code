@@ -34,7 +34,7 @@ The Commission shall have a staff director who shall be appointed by the chairpe
 
 The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO.
 
-(Jan. 27, 1948, ch. 36, title VI, §604, as added Aug. 15, 1979, Pub. L. 96–60, title II, §203(f), 93 Stat. 399; amended Dec. 22, 1987, Pub. L. 100–204, title II, §213, 101 Stat. 1376; Feb. 16, 1990, Pub. L. 101–246, title II, §206(a), 104 Stat. 51.)
+(Jan. 27, 1948, ch. 36, title VI, §604, as added Pub. L. 96–60, title II, §203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, §213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II, §206(a), Feb. 16, 1990, 104 Stat. 51.)
 
 #### Amendments
 
@@ -44,7 +44,7 @@ The Commission shall have no authority with respect to the J. William Fulbright 
 
 #### Effective Date
 
-Section 209 of Pub. L. 96–60 provided that: “The amendments made by sections 203 and 204 \[enacting this section and section 1477b of this title, amending sections 1471, 1474, 1475a, 2454, 2458, and 2458a of this title, section 1304 of Title 5, Government Organization and Employees, and section 474 of Title 40, Public Buildings, Property, and Works, and repealing section 1434 of this title\] shall take effect on October 1, 1979, and to the extent that they provide new authorities involving the expenditure of appropriated funds, shall apply only with respect to funds appropriated after the date of enactment of this Act \[Aug. 15, 1979\].”
+Section 209 of Pub. L. 96–60 provided that: “The amendments made by sections 203 and 204 \[enacting this section and section 1477b of this title, amending sections 1471, 1474, 1475a, 2454, 2458, and 2458a of thistitle, section 1304 of Title 5, Government Organization and Employees, and section 474 of Title 40, Public Buildings, Property, and Works, and repealing section 1434 of this title\] shall take effect on October 1, 1979, and to the extent that they provide new authorities involving the expenditure of appropriated funds, shall apply only with respect to funds appropriated after the date of enactment of this Act \[Aug. 15, 1979\].”
 
 #### Termination of Advisory Commissions
 

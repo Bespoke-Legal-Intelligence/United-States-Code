@@ -6,5 +6,5 @@ For the purposes of this subchapter:
 
 &emsp;(2) The term “national emergency” means a general declaration of emergency with respect to the national defense made by the President or by the Congress.
 
-(June 7, 1939, ch. 190, §12, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 324.)
+(June 7, 1939, ch. 190, §12, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 324.)
 

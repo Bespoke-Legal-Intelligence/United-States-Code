@@ -4,7 +4,7 @@
 
 &emsp;(A) a veteran—
 
-&emsp;&emsp;(i) who has been furnished hospital care, nursing home care, or domiciliary care by the Secretary in a facility under the direct jurisdiction of the Secretary; and
+&emsp;&emsp;(i) who has been furnished care by the Secretary in a facility under the direct jurisdiction of the Secretary; and
 
 &emsp;&emsp;(ii) who the Secretary determines—
 
@@ -70,13 +70,15 @@
 
 (2) The Secretary may conduct, at facilities over which the Secretary has direct jurisdiction, programs for the furnishing of adult day health care to veterans who are eligible for such care under paragraph (1) of this subsection, except that necessary travel and incidental expenses (or transportation in lieu thereof) may be furnished under such a program only under the terms and conditions set forth in section 111 of this title. The furnishing of care under any such program shall be subject to the limitations that are applicable to the duration of adult day health care furnished under paragraph (1) of this subsection.
 
-(Added Pub. L. 88–450, §2(a), Aug. 19, 1964, 78 Stat. 500, §620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, §104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, §106, title II, §§202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, §4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, §103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, §108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, §19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered §1720 and amended Pub. L. 102–83, §§4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(8), Oct. 9, 1996, 110 Stat. 3180.)
+(Added Pub. L. 88–450, §2(a), Aug. 19, 1964, 78 Stat. 500, §620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, §104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, §106, title II, §§202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, §4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, §103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, §108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, §19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered §1720 and amended Pub. L. 102–83, §§4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(8), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, §402(c), Nov. 21, 1997, 111 Stat. 2294.)
 
 #### Prior Provisions
 
 Prior section 1720 was renumbered section 3520 of this title.
 
 #### Amendments
+
+1997—Subsec. (a)(1)(A)(i). Pub. L. 105–114 substituted “care” for “hospital care, nursing home care, or domiciliary care”.
 
 1996—Subsec. (f)(1)(A)(ii). Pub. L. 104–262, §101(d)(8)(A), substituted “paragraph (1), (2), or (3) of section 1710(a)” for “section 1712(a)(1)(B)”.
 
@@ -164,7 +166,7 @@ Subsec. (d). Pub. L. 93–82, §104(d), added subsec. (d).
 
 1969—Subsec. (a). Pub. L. 91–101 inserted provision authorizing the furnishing of nursing home care for more than six months in the aggregate in connection with any one transfer in the case of a veteran whose hospitalization was primarily for a service-connected disability.
 
-1968—Subsec. (a). Pub. L. 90–612, §1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals inAlaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
+1968—Subsec. (a). Pub. L. 90–612, §1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals in Alaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
 
 Subsec. (a)(2). Pub. L. 90–429 substituted “40 per centum” for “one-third”.
 

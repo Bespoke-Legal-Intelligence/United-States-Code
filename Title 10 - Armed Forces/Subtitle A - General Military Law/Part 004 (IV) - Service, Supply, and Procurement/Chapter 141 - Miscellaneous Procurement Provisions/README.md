@@ -18,7 +18,7 @@
 | [2394\.](%C2%A7%2002394%20-%20Contracts%20for%20energy%20or%20fuel%20for%20military%20installations.md) | Contracts for energy or fuel for military installations. |
 | [2394a.](%C2%A7%2002394a%20-%20Procurement%20of%20energy%20systems%20using%20renewable%20forms%20of%20energy.md) | Procurement of energy systems using renewable forms of energy. |
 | [2395\.](%C2%A7%2002395%20-%20Availability%20of%20appropriations%20for%20procurement%20of%20technical%20military%20equipment%20and%20supplies.md) | Availability of appropriations for procurement of technical military equipment and supplies. |
-| [2396\.](%C2%A7%2002396%20-%20Advances%20for%20payments%20for%20compliance%20with%20foreign%20laws%2C%20rent%20in%20foreign%20countries%2C%20tuition%2C%20and%20pay%20and%20supplies%20of%20armed%20forces%20of%E2%80%A6.md) | Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, and pay and supplies of armed forces of friendly foreign countries. |
+| [2396\.](%C2%A7%2002396%20-%20Advances%20for%20payments%20for%20compliance%20with%20foreign%20laws%2C%20rent%20in%20foreign%20countries%2C%20tuition%2C%20public%20utility%20services%2C%20and%20pay%20and%20supplies%E2%80%A6.md) | Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, public utility services, and pay and supplies of armed forces of friendly foreign countries. |
 | \[2397 to 2397c. Repealed.\] |  |
 | [2398\.](%C2%A7%2002398%20-%20Procurement%20of%20gasohol%20as%20motor%20vehicle%20fuel.md) | Procurement of gasohol as motor vehicle fuel. |
 | [2399\.](%C2%A7%2002399%20-%20Operational%20test%20and%20evaluation%20of%20defense%20acquisition%20programs.md) | Operational test and evaluation of defense acquisition programs. |
@@ -26,16 +26,14 @@
 | [2401\.](%C2%A7%2002401%20-%20Requirement%20for%20authorization%20by%20law%20of%20certain%20contracts%20relating%20to%20vessels%20and%20aircraft.md) | Requirement for authorization by law of certain contracts relating to vessels and aircraft. |
 | [2401a.](%C2%A7%2002401a%20-%20Lease%20of%20vehicles%2C%20equipment%2C%20vessels%2C%20and%20aircraft.md) | Lease of vehicles, equipment, vessels, and aircraft. |
 | [2402\.](%C2%A7%2002402%20-%20Prohibition%20of%20contractors%20limiting%20subcontractor%20sales%20directly%20to%20the%20United%20States.md) | Prohibition of contractors limiting subcontractor sales directly to the United States. |
-| [2403\.](%C2%A7%2002403%20-%20Major%20weapon%20systems%20contractor%20guarantees.md) | Major weapon systems: contractor guarantees. |
+| \[2403. | Repealed.\] |
 | [2404\.](%C2%A7%2002404%20-%20Acquisition%20of%20petroleum%20and%20natural%20gas%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md) | Acquisition of petroleum and natural gas: authority to waive contract procedures; acquisition by exchange; sales authority. |
-| [2405\.](%C2%A7%2002405%20-%20Limitation%20on%20adjustment%20of%20shipbuilding%20contracts.md) | Limitation on adjustment of shipbuilding contracts. |
-| \[2406. | Repealed.\] |
-| \[2407. | Renumbered.\] |
+| \[2405 to 2407. Repealed or Renumbered.\] |  |
 | [2408\.](%C2%A7%2002408%20-%20Prohibition%20on%20persons%20convicted%20of%20defense-contract%20related%20felonies%20and%20related%20criminal%20penalty%20on%20defense%20contractors.md) | Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors. |
 | [2409\.](%C2%A7%2002409%20-%20Contractor%20employees%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md) | Contractor employees: protection from reprisal for disclosure of certain information. |
 | \[2409a. | Repealed.\] |
 | [2410\.](%C2%A7%2002410%20-%20Requests%20for%20equitable%20adjustment%20or%20other%20relief%20certification.md) | Requests for equitable adjustment or other relief: certification. |
-| [2410a.](%C2%A7%2002410a%20-%20Appropriated%20funds%20availability%20for%20certain%20contracts%20for%2012%20months.md) | Appropriated funds: availability for certain contracts for 12 months. |
+| [2410a.](%C2%A7%2002410a%20-%20Severable%20service%20contracts%20for%20periods%20crossing%20fiscal%20years.md) | Severable service contracts for periods crossing fiscal years. |
 | [2410b.](%C2%A7%2002410b%20-%20Contractor%20inventory%20accounting%20systems%20standards.md) | Contractor inventory accounting systems: standards. |
 | [2410c.](%C2%A7%2002410c%20-%20Preference%20for%20energy%20efficient%20electric%20equipment.md) | Preference for energy efficient electric equipment. |
 | [2410d.](%C2%A7%2002410d%20-%20Subcontracting%20plans%20credit%20for%20certain%20purchases.md) | Subcontracting plans: credit for certain purchases. |
@@ -47,10 +45,13 @@
 | [2410j.](%C2%A7%2002410j%20-%20Displaced%20contractor%20employees%20assistance%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md) | Displaced contractor employees: assistance to obtain certification and employment as teachers or employment as teachers’ aides. |
 | [2410k.](%C2%A7%2002410k%20-%20Defense%20contractors%20listing%20of%20suitable%20employment%20openings%20with%20local%20employment%20service%20office.md) | Defense contractors: listing of suitable employment openings with local employment service office. |
 | 2410<i>l</i>. | Contracts for advisory and assistance services: cost comparison studies. |
+| [2410m.](%C2%A7%2002410m%20-%20Retention%20of%20amounts%20collected%20from%20contractor%20during%20the%20pendency%20of%20contract%20dispute.md) | Retention of amounts collected from contractor during the pendency of contract dispute. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title VIII, §§801(b), 810(a)(2), 831(b), 847(b)(1), title X, §1014(b)(2), Nov. 18, 1997, 111 Stat. 1831, 1839, 1842, 1845, 1875, inserted “public utility services,” after “tuition,” in item 2396, struck out items 2403 “Major weapon systems: contractor guarantees” and 2405 “Limitation on adjustment of shipbuilding contracts”, substituted “Severable service contracts for periods crossing fiscal years” for “Appropriated funds: availability for certain contracts for 12 months” in item 2410a, and added item 2410m.
 
 1996—Pub. L. 104–106, div. A, title VIII, §§803(b), 807(a)(2), div. D, title XLIII, §4304(c)(1), Feb. 10, 1996, 110 Stat. 390, 392, 664, struck out items 2383 “Procurement of critical aircraft and ship spare parts: quality control”, 2397 “Employees or former employees of defense contractors: reports”, 2397a “Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors”, 2397b “Certain former Department of Defense procurement officials: limitations on employment by contractors”, and 2397c “Defense contractors: requirements concerning former Department of Defense officials” and substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” in item 2401a.
 
@@ -58,7 +59,7 @@
 
 Pub. L. 103–337, div. A, title III, §363(a)(2), Oct. 5, 1994, 108 Stat. 2734, added item 2410<i>l</i>.
 
-1993—Pub. L. 103–160, div. A, title VIII, §828(a)(3), (c)(3), (4), Nov. 30, 1993, 107 Stat. 1713, 1714, substituted “Liquid fuels and natural gas: contracts for storage, handling, or distribution” for “Liquid fuels: contracts for storage, handling, and distribution” in item 2388, struck out item 2389 “Contracts for the procurement of milk: price adjustments; purchases from the Commodity Credit Corporation”, and inserted “and naturalgas” and “; acquisition by exchange; sales authority” in item 2404.
+1993—Pub. L. 103–160, div. A, title VIII, §828(a)(3), (c)(3), (4), Nov. 30, 1993, 107 Stat. 1713, 1714, substituted “Liquid fuels and natural gas: contracts for storage, handling, or distribution” for “Liquid fuels: contracts for storage, handling, and distribution” in item 2388, struck out item 2389 “Contracts for the procurement of milk: price adjustments; purchases from the Commodity Credit Corporation”, and inserted “and natural gas” and “; acquisition by exchange; sales authority” in item 2404.
 
 Pub. L. 103–35, title II, §202(a)(18)(B), May 31, 1993, 107 Stat. 102, made technical amendment to directory language of Pub. L. 102–484, §4470(a)(2). See 1992 Amendment note below.
 
@@ -138,7 +139,7 @@ Procurement—
 - [&sect; 02394 - Contracts for energy or fuel for military installations](%C2%A7%2002394%20-%20Contracts%20for%20energy%20or%20fuel%20for%20military%20installations.md)
 - [&sect; 02394a - Procurement of energy systems using renewable forms of energy](%C2%A7%2002394a%20-%20Procurement%20of%20energy%20systems%20using%20renewable%20forms%20of%20energy.md)
 - [&sect; 02395 - Availability of appropriations for procurement of technical military equipment and supplies](%C2%A7%2002395%20-%20Availability%20of%20appropriations%20for%20procurement%20of%20technical%20military%20equipment%20and%20supplies.md)
-- [&sect; 02396 - Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, and pay and supplies of armed forces of&#8230;](%C2%A7%2002396%20-%20Advances%20for%20payments%20for%20compliance%20with%20foreign%20laws%2C%20rent%20in%20foreign%20countries%2C%20tuition%2C%20and%20pay%20and%20supplies%20of%20armed%20forces%20of%E2%80%A6.md)
+- [&sect; 02396 - Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, public utility services, and pay and supplies&#8230;](%C2%A7%2002396%20-%20Advances%20for%20payments%20for%20compliance%20with%20foreign%20laws%2C%20rent%20in%20foreign%20countries%2C%20tuition%2C%20public%20utility%20services%2C%20and%20pay%20and%20supplies%E2%80%A6.md)
 - [&sect; 02397 to 2397c - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4304(b)(1), Feb. 10, 1996, 110 Stat. 664](%C2%A7%2002397%20to%202397c%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74304%28b%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20664.md)
 - [&sect; 02398 - Procurement of gasohol as motor vehicle fuel](%C2%A7%2002398%20-%20Procurement%20of%20gasohol%20as%20motor%20vehicle%20fuel.md)
 - [&sect; 02399 - Operational test and evaluation of defense acquisition programs](%C2%A7%2002399%20-%20Operational%20test%20and%20evaluation%20of%20defense%20acquisition%20programs.md)
@@ -146,16 +147,16 @@ Procurement—
 - [&sect; 02401 - Requirement for authorization by law of certain contracts relating to vessels and aircraft](%C2%A7%2002401%20-%20Requirement%20for%20authorization%20by%20law%20of%20certain%20contracts%20relating%20to%20vessels%20and%20aircraft.md)
 - [&sect; 02401a - Lease of vehicles, equipment, vessels, and aircraft](%C2%A7%2002401a%20-%20Lease%20of%20vehicles%2C%20equipment%2C%20vessels%2C%20and%20aircraft.md)
 - [&sect; 02402 - Prohibition of contractors limiting subcontractor sales directly to the United States](%C2%A7%2002402%20-%20Prohibition%20of%20contractors%20limiting%20subcontractor%20sales%20directly%20to%20the%20United%20States.md)
-- [&sect; 02403 - Major weapon systems contractor guarantees](%C2%A7%2002403%20-%20Major%20weapon%20systems%20contractor%20guarantees.md)
+- [&sect; 02403 - Repealed. Pub. L. 105&#8211;85, div. A, title VIII, &sect;847(a), Nov. 18, 1997, 111 Stat. 1845](%C2%A7%2002403%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7847%28a%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201845.md)
 - [&sect; 02404 - Acquisition of petroleum and natural gas authority to waive contract procedures; acquisition by exchange; sales authority](%C2%A7%2002404%20-%20Acquisition%20of%20petroleum%20and%20natural%20gas%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md)
-- [&sect; 02405 - Limitation on adjustment of shipbuilding contracts](%C2%A7%2002405%20-%20Limitation%20on%20adjustment%20of%20shipbuilding%20contracts.md)
+- [&sect; 02405 - Repealed. Pub. L. 105&#8211;85, div. A, title VIII, &sect;810(a)(1), Nov. 18, 1997, 111 Stat. 1839](%C2%A7%2002405%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7810%28a%29%281%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201839.md)
 - [&sect; 02406 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2201(b)(1), Oct. 13, 1994, 108 Stat. 3318](%C2%A7%2002406%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72201%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203318.md)
 - [&sect; 02407 - Renumbered &sect;2350b](%C2%A7%2002407%20-%20Renumbered%20%C2%A72350b.md)
 - [&sect; 02408 - Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors](%C2%A7%2002408%20-%20Prohibition%20on%20persons%20convicted%20of%20defense-contract%20related%20felonies%20and%20related%20criminal%20penalty%20on%20defense%20contractors.md)
 - [&sect; 02409 - Contractor employees protection from reprisal for disclosure of certain information](%C2%A7%2002409%20-%20Contractor%20employees%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md)
 - [&sect; 02409a - Repealed. Pub. L. 103&#8211;355, title VI, &sect;6005(b)(1), Oct. 13, 1994, 108 Stat. 3365](%C2%A7%2002409a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20VI%2C%20%C2%A76005%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203365.md)
 - [&sect; 02410 - Requests for equitable adjustment or other relief certification](%C2%A7%2002410%20-%20Requests%20for%20equitable%20adjustment%20or%20other%20relief%20certification.md)
-- [&sect; 02410a - Appropriated funds availability for certain contracts for 12 months](%C2%A7%2002410a%20-%20Appropriated%20funds%20availability%20for%20certain%20contracts%20for%2012%20months.md)
+- [&sect; 02410a - Severable service contracts for periods crossing fiscal years](%C2%A7%2002410a%20-%20Severable%20service%20contracts%20for%20periods%20crossing%20fiscal%20years.md)
 - [&sect; 02410b - Contractor inventory accounting systems standards](%C2%A7%2002410b%20-%20Contractor%20inventory%20accounting%20systems%20standards.md)
 - [&sect; 02410c - Preference for energy efficient electric equipment](%C2%A7%2002410c%20-%20Preference%20for%20energy%20efficient%20electric%20equipment.md)
 - [&sect; 02410d - Subcontracting plans credit for certain purchases](%C2%A7%2002410d%20-%20Subcontracting%20plans%20credit%20for%20certain%20purchases.md)
@@ -167,3 +168,4 @@ Procurement—
 - [&sect; 02410j - Displaced contractor employees assistance to obtain certification and employment as teachers or employment as teachers&#8217; aides](%C2%A7%2002410j%20-%20Displaced%20contractor%20employees%20assistance%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md)
 - [&sect; 02410k - Defense contractors listing of suitable employment openings with local employment service office](%C2%A7%2002410k%20-%20Defense%20contractors%20listing%20of%20suitable%20employment%20openings%20with%20local%20employment%20service%20office.md)
 - [&sect; 02410l - Contracts for advisory and assistance services cost comparison studies](%C2%A7%2002410l%20-%20Contracts%20for%20advisory%20and%20assistance%20services%20cost%20comparison%20studies.md)
+- [&sect; 02410m - Retention of amounts collected from contractor during the pendency of contract dispute](%C2%A7%2002410m%20-%20Retention%20of%20amounts%20collected%20from%20contractor%20during%20the%20pendency%20of%20contract%20dispute.md)

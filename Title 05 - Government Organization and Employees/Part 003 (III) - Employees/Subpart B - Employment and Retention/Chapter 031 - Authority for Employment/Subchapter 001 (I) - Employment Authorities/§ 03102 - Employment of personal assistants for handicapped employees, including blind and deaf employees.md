@@ -34,7 +34,7 @@
 
 &emsp;(B) that individual shall be considered an employee, but only for purposes of chapter 81 of this title (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims).
 
-(e) This section may not be held or considered to prevent or limit in any way the assignmentto a handicapped employee (including a blind or deaf employee) by an agency of clerical or secretarial assistance, at the expense of the agency under statutes and regulations currently applicable at the time, if that assistance normally is provided, or authorized to be provided, in that manner under currently applicable statutes and regulations.
+(e) This section may not be held or considered to prevent or limit in any way the assignment to a handicapped employee (including a blind or deaf employee) by an agency of clerical or secretarial assistance, at the expense of the agency under statutes and regulations currently applicable at the time, if that assistance normally is provided, or authorized to be provided, in that manner under currently applicable statutes and regulations.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 414; Pub. L. 90–623, §1(3), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 95–454, title III, §302(a), (b)(2), Oct. 13, 1978, 92 Stat. 1145, 1146; Pub. L. 96–54, §2(a)(11), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–523, §1(a), Dec. 12, 1980, 94 Stat. 3039; Pub. L. 97–258, §3(a)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 

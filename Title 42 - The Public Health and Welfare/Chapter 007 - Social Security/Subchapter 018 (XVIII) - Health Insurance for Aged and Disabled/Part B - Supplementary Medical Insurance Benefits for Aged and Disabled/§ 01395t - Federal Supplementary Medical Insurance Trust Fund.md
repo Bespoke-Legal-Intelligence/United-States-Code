@@ -1,0 +1,136 @@
+### §1395t. Federal Supplementary Medical Insurance Trust Fund
+
+#### (a) Creation; deposits; fund transfers
+
+There is hereby created on the books of the Treasury of the United States a trust fund to be known as the “Federal Supplementary Medical Insurance Trust Fund” (hereinafter in this section referred to as the “Trust Fund”). The Trust Fund shall consist of such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and such amounts as may be deposited in, or appropriated to, such fund as provided in this part.
+
+#### (b) Board of Trustees; composition; meetings; duties
+
+With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Health Care Financing Administration shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
+
+&emsp;(1) Hold the Trust Fund;
+
+&emsp;(2) Report to the Congress not later than the first day of April of each year on the operation and status of the Trust Fund during the preceding fiscal year and on its expected operation and status during the current fiscal year and the next 2 fiscal years;
+
+&emsp;(3) Report immediately to the Congress whenever the Board is of the opinion that the amount of the Trust Fund is unduly small; and
+
+&emsp;(4) Review the general policies followed in managing the Trust Fund, and recommend changes in such policies, including necessary changes in the provisions of law which govern the way in which the Trust Fund is to be managed.
+
+> The report provided for in paragraph (2) shall include a statement of the assets of, and the disbursements made from, the Trust Fund during the preceding fiscal year, an estimate of the expected income to, and disbursements to be made from, the Trust Fund during the current fiscal year and each of the next 2 fiscal years, and a statement of the actuarial status of the Trust Fund. Such report shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable. Such report shall be printed as a House document of the session of the Congress to which the report is made. A person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
+
+#### (c) Investment of Trust Fund by Managing Trustee
+
+It shall be the duty of the Managing Trustee to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of public-debt obligations for purchase by the Trust Fund. Such obligations issued for purchase by the Trust Fund shall have maturities fixed with due regard for the needs of the Trust Fund and shall bear interest at a rate equal to the average market yield (computed by the Managing Trustee on the basis of market quotations as of the end of the calendar month next preceding the date of such issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligations shall be the multiple of one-eighth of 1 per centum nearest such market yield. The Managing Trustee may purchase other interest-bearing obligations of the United States or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price, only where he determines that the purchase of such other obligations is in the public interest.
+
+#### (d) Authority of Managing Trustee to sell obligations
+
+Any obligations acquired by the Trust Fund (except public-debt obligations issued exclusively to the Trust Fund) may be sold by the Managing Trustee at the market price, and such public-debt obligations may be redeemed at par plus accrued interest.
+
+#### (e) Interest on or proceeds from sale or redemption of obligations
+
+The interest on, and the proceeds from the sale or redemption of, any obligations held in the Trust Fund shall be credited to and form a part of the Trust Fund.
+
+#### (f) Transfers to other Funds
+
+There shall be transferred periodically (but not less often than once each fiscal year) to the Trust Fund from the Federal Old-Age and Survivors Insurance Trust Fund and from the Federal Disability Insurance Trust Fund amounts equivalent to the amounts not previously so transferred which the Secretary of Health and Human Services shall have certified as overpayments (other than amounts so certified to the Railroad Retirement Board) pursuant to section 1395gg(b) of this title. There shall be transferred periodically (but not less often than once each fiscal year) to the Trust Fund from the Railroad Retirement Account amounts equivalent to the amounts not previously so transferred which the Secretary of Health and Human Services shall have certified as overpayments to the Railroad Retirement Board pursuant to section 1395gg(b) of this title.
+
+#### (g) Payments from Trust Fund of amounts provided for by this part or with respect to administrative expenses
+
+The Managing Trustee shall pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to make the payments provided for by this part, and the payments with respect to administrative expenses in accordance with section 401(g)(1) of this title.
+
+#### (h) Payments from Trust Fund of costs incurred by Director of Office of Personnel Management
+
+The Managing Trustee shall pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to pay the costs incurred by the Director of the Office of Personnel Management in making deductions pursuant to section 1395s(d) of this title. During each fiscal year, or after the close of such fiscal year, the Director of the Office of Personnel Management shall certify to the Secretary the amount of the costs the Director incurred in making such deductions, and such certified amount shall be the basis for the amount of such costs certified by the Secretary to the Managing Trustee.
+
+#### (i) Payments from Trust Fund of costs incurred by Railroad Retirement Board
+
+The Managing Trustee shall pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to pay the costs incurred by the Railroad Retirement Board for services performed pursuant to section 1395s(b)(1) and section 1395u(g) of this title. During each fiscal year or after the close of such fiscal year, the Railroad Retirement Board shall certify to the Secretary the amount of the costs it incurred in performing such services and such certified amount shall be the basis for the amount of such costs certified by the Secretary to the Managing Trustee.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1841, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 308; amended Jan. 2, 1968, Pub. L. 90–248, title I, §169(a), 81 Stat. 875; Oct. 30, 1972, Pub. L. 92–603, title I, §132(e), title II, §263(d)(4), (e), 86 Stat. 1361, 1449; June 13, 1978, Pub. L. 95–292, §5, 92 Stat. 315; Apr. 20, 1983, Pub. L. 98–21, title I, §154(c), title III, §341(c), 97 Stat. 107, 135; July 18, 1984, Pub. L. 98–369, div. B, title III, §2354(b)(2), (11), (12), title VI, §2663(j)(2)(F)(iii), 98 Stat. 1100, 1101, 1170; Apr. 7, 1986, Pub. L. 99–272, title IX, §9213(b), 100 Stat. 180; July 1, 1988, Pub. L. 100–360, title II, §212(b)(2), (c)(4), 102 Stat. 740, 741; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8005(a), 102 Stat. 3781; Dec. 13, 1989, Pub. L. 101–234, title II, §202(a), 103 Stat. 1981; Aug. 15, 1994, Pub. L. 103–296, title I, §108(c)(3), 108 Stat. 1485.)
+
+#### Amendments
+
+1994—Subsec. (b). Pub. L. 103–296 inserted “the Commissioner of Social Security,” after “composed of” in introductory provisions.
+
+1989—Subsecs. (a), (b). Pub. L. 101–234 repealed Pub. L. 100–360, §212(b)(2), (c)(4), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment notes below.
+
+1988—Subsec. (a). Pub. L. 100–360, §212(b)(2), inserted three sentences at end providing for transfer of supplemental catastrophic coverage premiums into the Federal Supplementary Medical Insurance Trust Fund.
+
+Subsec. (b). Pub. L. 100–647 inserted after first sentence “A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term.”
+
+Pub. L. 100–360, §212(c)(4), inserted after sixth sentence “Such report shall also identify (and treat separately) those receipts and outlays in the Trust Fund which are also receipts and outlays in the Medicare Catastrophic Coverage Account created under section 1395t–2 of this title.”
+
+1986—Subsec. (b). Pub. L. 99–272 struck out provision at end of penultimate sentence that the certification shall not refer to economic assumptions underlying Trustee's report.
+
+1984—Subsec. (c). Pub. L. 98–369, §2354(b)(2), substituted “under chapter 31 of title 31” for “under the Second Liberty Bond Act, as amended”.
+
+Subsecs. (f), (g). Pub. L. 98–369, §2663(j)(2)(F)(iii), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
+
+Subsec. (h). Pub. L. 98–369, §2663(j)(2)(F)(iii), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+
+Pub. L. 98–369, §2354(b)(11), substituted “Director of the Office of Personnel Management” for “Civil Service Commission” in two places.
+
+Pub. L. 98–369, §2354(b)(12), substituted “the Director” for “it”.
+
+Subsec. (i). Pub. L. 98–369, §2663(j)(2)(F)(iii), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+
+1983—Subsec. (b). Pub. L. 98–21, §341(c)(1), substituted “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate” for “Secretary of Health, Education, and Welfare, all ex officio” in provisions preceding par. (1).
+
+Pub. L. 98–21, §154(c), inserted at end provision that the report referred to in par. (2) shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable, and provided further that the certification shall not refer to economic assumptions underlying the Trustee's report.
+
+Pub. L. 98–21, §341(c)(2), inserted at end provision that a person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
+
+1978—Subsec. (b). Pub. L. 95–292 substituted “Administrator of the Health Care Financing Administration” for “Commissioner of Social Security” in provisions preceding par. (1).
+
+1972—Subsec. (a). Pub. L. 92–603, §132(e), inserted “such gifts and bequests as may be made as provided in section 401(i)(1) of this title, and” after “consist of” and before “such amounts”.
+
+Subsec. (h). Pub. L. 92–603, §263(d)(4), substituted “1395s(d)” for “1395s(e)”.
+
+Subsec. (i). Pub. L. 92–603, §263(e), added subsec. (i).
+
+1968—Subsec. (b)(2). Pub. L. 90–248 substituted “April” for “March”.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
+
+#### Effective Date of 1989 Amendment
+
+Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 202(b) of Pub. L. 101–234, set out as a note under section 401 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–647 applicable to members of Board of Trustees of Federal Supplementary Medical Insurance Trust Fund serving on such Board as members of the public on or after Nov. 10, 1988, see section 8005(b) of Pub. L. 100–647, set out as a note under section 401 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by section 2354(b)(2), (11), (12) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+
+Amendment by section 2663(j)(2)(F)(iii) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+
+#### Effective Date of 1983 Amendment
+
+Amendment by sections 154(c) and 341(c) of Pub. L. 98–21 effective Apr. 20, 1983, see sections 154(e) and 341(d) of Pub. L. 98–21, set out as notes under section 401 of this title.
+
+#### Effective Date of 1978 Amendment
+
+Amendment by Pub. L. 95–292 effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as a note under section 426 of this title.
+
+#### Effective Date of 1972 Amendment
+
+Amendment by section 132(e) of Pub. L. 92–603 applicable with respect to gifts and bequests received after Oct. 30, 1972, see section 132(f) of Pub. L. 92–603, set out as a note under section 401 of this title.
+
+Amendment by section 263(d)(4), (e) of Pub. L. 92–603 with respect to collection of premiums applicable to premiums becoming due and payable after the fourth month following the month of enactment of Pub. L. 92–603 which was approved on Oct. 30, 1972, see section 263(f) of Pub. L. 92–603, set out as a note under section 1395s of this title.
+
+#### Disposal of Funds in Federal Hospital Insurance Catastrophic Coverage Reserve Fund
+
+Section 102(c) of Pub. L. 101–234 provided that: “Any balance in the Federal Hospital Insurance Catastrophic Coverage Reserve Fund (created under section 1817A(a) of the Social Security Act \[former section 1395i–1a(a) of this title\], as inserted by section 112(a) of MCCA \[Pub. L. 100–360\]) as of January 1, 1990, shall be transferred into the Federal Supplementary Medical Insurance Trust Fund and any amounts payable due to overpayments into such Trust Fund shall be payable from the Federal Supplementary Medical Insurance Trust Fund.”
+
+#### Due Date for 1983 Report on Operation and Status of Trust Fund
+
+Notwithstanding subsec. (b)(2) of this section, the annual report of the Board of Trustees of the Trust Fund required for calendar year 1983 under this section may be filed at any time not later than forty-five days after Apr. 20, 1983, see section 154(d) of Pub. L. 98–21, set out as a note under section 401 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 910, 1320a–7a, 1320b–12, 1395b–1, 1395gg, 1395vv, 1395ggg, 1396m, 1396u–3 of this title.
+

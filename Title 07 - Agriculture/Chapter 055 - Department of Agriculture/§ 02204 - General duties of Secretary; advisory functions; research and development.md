@@ -14,7 +14,7 @@ Section was formerly classified to section 514 of Title 5 prior to the general r
 
 #### Amendments
 
-1980—Subsec. (b). Pub. L. 96–355 inserted provisions relating to technology appropriate to small- and moderate-sized family farming operations, and struck outprovisions relating to the national rural development program and goals, and accompanying annual report.
+1980—Subsec. (b). Pub. L. 96–355 inserted provisions relating to technology appropriate to small- and moderate-sized family farming operations, and struck out provisions relating to the national rural development program and goals, and accompanying annual report.
 
 1977—Subsec. (a). Pub. L. 95–113 inserted references to aquaculture and human nutrition.
 
@@ -74,7 +74,7 @@ Maintenance of standards and preparedness.—In making recommendations to transf
 
 &emsp;“(5)
 
-Submission of results.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress the results of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
+Submission of results.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress theresults of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
 
 “(b)
 
@@ -102,5 +102,5 @@ Purchase of seeds and plants for distribution, see section 415 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2276 of this title.
+This section is referred to in section 2276 of this title; title 13 section 9.
 

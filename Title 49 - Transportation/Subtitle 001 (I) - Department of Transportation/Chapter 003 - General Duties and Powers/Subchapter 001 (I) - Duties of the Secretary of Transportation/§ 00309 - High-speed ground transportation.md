@@ -68,7 +68,7 @@
 
 &emsp;(C) projections of the costs of designing, constructing, and operating high-speed ground transportation systems, the extent to which such systems can recover their costs (including capital costs), and the alternative methods available for private and public financing;
 
-&emsp;(D) the availability of rights-of-way to serve each market, including the extent to which average and maximum speeds would be limited by the curvature of existing rights-of-way and the prospect of increasing speeds through theacquisition of additional rights-of-way without significant relocation of residential, commercial, or industrial facilities;
+&emsp;(D) the availability of rights-of-way to serve each market, including the extent to which average and maximum speeds would be limited by the curvature of existing rights-of-way and the prospect of increasing speeds through the acquisition of additional rights-of-way without significant relocation of residential, commercial, or industrial facilities;
 
 &emsp;(E) a comparison of the projected costs of the various competing high-speed ground transportation technologies;
 
@@ -136,7 +136,7 @@ Section 1036(b) of Pub. L. 102–240 provided that:
 
 “(1)
 
-Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafterin this subsection referred to as the ‘Assistant Secretary’). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the ‘Maglev Project Office’), which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriate Federal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
+Management of program.—There is hereby established a national magnetic levitation prototype development program to be managed by a program director appointed jointly by the Secretary and the Assistant Secretary of the Army for Civil Works (hereinafter in this subsection referred to as the ‘Assistant Secretary’). To carry out such program, the Secretary and the Assistant Secretary shall establish a national maglev joint project office (hereinafter in this subsection referred to as the ‘Maglev Project Office’),which shall be headed by the program director, and shall enter into such arrangements as may be necessary for funding, staffing, office space, and other requirements that will allow the Maglev Project Office to carry out its functions. In carrying out such program, the program director shall consult with appropriate Federal officials, including the Secretary of Energy and the Administrator of the Environmental Protection Agency.
 
 “(2)
 
@@ -208,7 +208,7 @@ Factors to be considered in selection.—Selection of the detailed design under 
 
 &emsp;“(D)
 
-Additional factors for consideration.—In awarding a grant or contract under this paragraph, the Secretary shall encourage the development of domestic manufacturing capabilities. In selecting among eligible applicants, the Secretary shall consider existing railroads and equipment manufacturers with excess production capacity, including railroadsthat have experience in advanced technologies (including self-propelled cars).
+Additional factors for consideration.—In awarding a grant or contract under this paragraph, the Secretary shall encourage the development of domestic manufacturing capabilities. In selecting among eligible applicants, the Secretary shall consider existing railroads and equipment manufacturers with excess production capacity, including railroads that have experience in advanced technologies (including self-propelled cars).
 
 “(5)
 
@@ -216,7 +216,7 @@ Licensing.—
 
 &emsp;“(A)
 
-Proprietary rights.—No trade secrets or commercial or financial information that is privileged or confidential, under the meaning of section 552(b)(4) of title 5, United States Code, which is obtained from a United States business, research, or education entity as a result of activities under this subsection shall be disclosed.
+Proprietary rights.—No trade secrets or commercial or financial information that is privileged or confidential, under the meaning of section552(b)(4) of title 5, United States Code, which is obtained from a United States business, research, or education entity as a result of activities under this subsection shall be disclosed.
 
 &emsp;“(B)
 

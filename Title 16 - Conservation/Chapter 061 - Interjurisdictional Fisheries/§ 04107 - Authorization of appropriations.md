@@ -112,5 +112,5 @@ Subsec. (c). Pub. L. 101–627, §503(3), substituted “the fiscal years 1989, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1389, 4103, 4104 of this title; title 15 section 632.
+This section is referred to in sections 1389, 4103, 4104 of this title; title 15 section 632; title 46 section 12108.
 

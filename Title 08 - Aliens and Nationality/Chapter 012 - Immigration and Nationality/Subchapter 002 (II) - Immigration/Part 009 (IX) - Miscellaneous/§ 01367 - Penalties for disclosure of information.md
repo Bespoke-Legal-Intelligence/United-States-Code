@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 &emsp;&emsp;(A) a spouse or parent who has battered the alien or subjected the alien to extreme cruelty,
 
-&emsp;&emsp;(B) a member of the spouse's or parent's family residing in the same household as the alien who has battered the alien or subjected the alien to extreme cruelty when the spouse or parent consented to or acquiesced in such battery or cruelty,
+&emsp;&emsp;(B) a member of the spouse's or parent's family residing in the same household as thealien who has battered the alien or subjected the alien to extreme cruelty when the spouse or parent consented to or acquiesced in such battery or cruelty,
 
 &emsp;&emsp;(C) a spouse or parent who has battered the alien's child or subjected the alien's child to extreme cruelty (without the active participation of the alien in the battery or extreme cruelty), or
 
@@ -30,11 +30,13 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 (4) Subsection (a)(2) of this section shall not apply if all the battered individuals in the case are adults and they have all waived the restrictions of such subsection.
 
+(5) The Attorney General is authorized to disclose information, to Federal, State, and local public and private agencies providing benefits, to be used solely in making determinations of eligibility for benefits pursuant to section 1641(c) of this title.
+
 #### (c) Penalties for violations
 
 Anyone who willfully uses, publishes, or permits information to be disclosed in violation of this section shall be subject to appropriate disciplinary action and subject to a civil money penalty of not more than $5,000 for each such violation.
 
-(Pub. L. 104–208, div. C, title III, §§308(g)(8)(D), 384, Sept. 30, 1996, 110 Stat. 3009–624, 3009–652.)
+(Pub. L. 104–208, div. C, title III, §§308(g)(8)(D), 384, Sept. 30, 1996, 110 Stat. 3009–624, 3009–652; Pub. L. 105–33, title V, §5572(b), Aug. 5, 1997, 111 Stat. 641.)
 
 #### References in Text
 
@@ -48,7 +50,13 @@ Section is comprised of section 384 of div. C of Pub. L. 104–208. Subsec. (d) 
 
 #### Amendments
 
-1996—Subsec. (a)(2). Pub. L. 104–208, §308(g)(8)(D), which directed amendment of section 364(a)(2) of div. Cof Pub. L. 104–208 by substituting “240A(a)(3)” for “244(a)(3)”, was executed by making the substitution in subsec. (a)(2) of this section to reflect the probable intent of Congress. Div. C of Pub. L. 104–208 does not contain a section 364.
+1997—Subsec. (b)(5). Pub. L. 105–33 added par. (5).
+
+1996—Subsec. (a)(2). Pub. L. 104–208, §308(g)(8)(D), which directed amendment of section 364(a)(2) of div. C of Pub. L. 104–208 by substituting “240A(a)(3)” for “244(a)(3)”, was executed by making the substitution in subsec. (a)(2) of this section to reflect the probable intent of Congress. Div. C of Pub. L. 104–208 does not contain a section 364.
+
+#### Effective Date of 1997 Amendment
+
+Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments made by this chapter \[chapter 4 (§§5561–5582) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1611 to 1613, 1621, 1622, 1631, 1632, 1641 to 1643, and 1645 of this title, and sections 608, 1383, and 1437y of Title 42, The Public Health and Welfare\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 #### Effective Date of 1996 Amendment
 

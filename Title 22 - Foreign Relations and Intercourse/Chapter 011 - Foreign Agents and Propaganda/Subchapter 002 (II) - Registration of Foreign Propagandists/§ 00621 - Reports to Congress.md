@@ -2,7 +2,7 @@
 
 The Attorney General shall every six months report to the Congress concerning administration of this subchapter, including registrations filed pursuant to the subchapter, and the nature, sources and content of political propaganda disseminated and distributed.
 
-(June 8, 1938, ch. 327, §11, as added Apr. 29, 1942, ch. 263, §1, 56 Stat. 258; amended Dec. 19, 1995, Pub. L. 104–65, §19, 109 Stat. 704.)
+(June 8, 1938, ch. 327, §11, as added Apr. 29, 1942, ch. 263, §1, 56 Stat. 258; amended Pub. L. 104–65, §19, Dec. 19, 1995, 109 Stat. 704.)
 
 #### Amendments
 

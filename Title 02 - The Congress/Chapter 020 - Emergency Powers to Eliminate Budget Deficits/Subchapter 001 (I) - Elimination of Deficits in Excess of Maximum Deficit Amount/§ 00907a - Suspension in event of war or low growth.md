@@ -4,11 +4,11 @@
 
 #### (1) Trigger
 
-&emsp;Whenever CBO issues a low-growth report under section 904(j) of this title, the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the form set forth in paragraph (2)) declaring that the conditions specified in section 904(j) of this title are met and suspending the relevant provisions of this title,<sup>1</sup> titles III and VI of the Congressional Budget Act of 1974 \[2 U.S.C. 631 et seq., 665 et seq.\], and section 1103 of title 31.
+&emsp;Whenever CBO issues a low-growth report under section 254(j),<sup>1</sup> the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the form set forth in paragraph (2)) declaring that the conditions specified in section 254(j) <sup>1</sup> are met and suspending the relevant provisions of this title,<sup>1</sup> titles III and VI <sup>1</sup> of the Congressional Budget Act of 1974 \[2 U.S.C. 631 et seq.\], and section 1103 of title 31.
 
 #### (2) Form of joint resolution
 
-&emsp;(A) The matter after the resolving clause in any joint resolution introduced pursuant to paragraph (1) shall be as follows: “That the Congress declares that the conditions specified in section 254(j) of the Balanced Budget and Emergency Deficit Control Act of 1985 are met, and the implementation of the Congressional Budget and Impoundment Control Act of 1974, chapter 11 of title 31, United States Code, and part C of the Balanced Budget and Emergency Deficit Control Act of 1985 are modified as described in section 258(b) of the Balanced Budget and Emergency Deficit Control Act of 1985.”
+&emsp;(A) The matter after the resolving clause in any joint resolution introduced pursuant to paragraph (1) shall be as follows: “That the Congress declares that the conditions specified in section 254(j) <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 are met, and the implementation of the Congressional Budget and Impoundment Control Act of 1974, chapter 11 of title 31, United States Code, and part C of the Balanced Budget and Emergency Deficit Control Act of 1985 are modified as described in section 258(b) of the Balanced Budget and Emergency Deficit Control Act of 1985.”
 
 &emsp;(B) The title of the joint resolution shall be “Joint resolution suspending certain provisions of law pursuant to section 258(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985.”; and the joint resolution shall not contain any preamble.
 
@@ -42,7 +42,7 @@ Upon the enactment of a declaration of war or a joint resolution described in su
 
 &emsp;(1) the subsequent issuance of any sequestration report or any sequestration order is precluded;
 
-&emsp;(2) sections 302(f), 310(d), 311(a), and title VI of the Congressional Budget Act of 1974 \[2 U.S.C. 633(f), 641(d), 642(a), 665 et seq.\] are suspended; and
+&emsp;(2) sections 302(f), 310(d), 311(a), and title VI <sup>1</sup> of the Congressional Budget Act of 1974 \[2 U.S.C. 633(f), 641(d), 642(a)\] are suspended; and
 
 &emsp;(3) section 1103 of title 31 is suspended.
 
@@ -56,25 +56,27 @@ Upon the enactment of a declaration of war or a joint resolution described in su
 
 #### Termination of Section
 
-<i>For termination of section by section 14002(c)(3)(A) of Pub. L. 103–66, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
 
 #### References in Text
 
+Section 254 and section 254 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(1), (2)(A), mean section 254 of Pub. L. 99–177, which is classified to section 904 of this title, and was amended by Pub. L. 105–33, title X, §10206(1), Aug. 5, 1997, 111 Stat. 704, by redesignating subsecs. (j) and (k) as (i) and (j), respectively.
+
 This title, referred to in subsec. (a)(1), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
-The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III and VI of the Act are classified generally to subchapters I (§631 et seq.) and IV (§665 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title III of the Act is classified generally to subchapter I (§631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
-Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is classified generally to this subchapter. Sections 254 and 258 of the Balanced Budget and Emergency Deficit Control Act of 1985 are classified to sections 904 and 907a, respectively, of this title.
+Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is classified generally to this subchapter. Section 258 of the Act is classified to this section.
 
-#### Codification
+#### Prior Provisions
 
-Another section 258 of Pub. L. 99–177 was added by Pub. L. 100–119 and is classified to section 908 of this title.
+A prior section 258 of Pub. L. 99–177 was classified to section 908 of this title prior to repeal by Pub. L. 105–33, title X, §10210, Aug. 5, 1997, 111 Stat. 711.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 665 of this title.
+This section is referred to in section 643 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -48,7 +48,7 @@ Pub. L. 100–690, title VI, §6254(a), Nov. 18, 1988, 102 Stat. 4363, provided 
 
 &emsp;“(5) the authority and powers of the Forest Service are not intended to be in conflict or interfere with the statutory authority, powers, or responsibilities of any State or political subdivision thereof; and
 
-&emsp;“(6) the Forest Service, in the exercise of its law enforcement powers, should cooperate to every extent possible with any other Federal, State, or local law enforcement authority having jurisdiction in areas where national forests are located, particularly where coordinated investigative and enforcement actions can be effective to control crime which affects multiple agencies.”
+&emsp;“(6) the Forest Service, in the exercise of its law enforcement powers, should cooperate to every extent possible with any other Federal, State, or local law enforcement authority having jurisdiction in areas where national forests are located, particularly wherecoordinated investigative and enforcement actions can be effective to control crime which affects multiple agencies.”
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §7403. Period of appointments; promotions
 
-(a)(1) Appointments under this chapter of health-care professionals to whom this section applies may be made only after qualifications have been satisfactorily established in accordance with regulations prescribed by the Secretary, without regard to civil-service requirements.
+(a)(1) Appointments under this chapter of health-care professionals to whom this sectionapplies may be made only after qualifications have been satisfactorily established in accordance with regulations prescribed by the Secretary, without regard to civil-service requirements.
 
 (2) This section applies to the following persons appointed under this chapter:
 

@@ -30,7 +30,7 @@ The authority of the President under subsection (a) of this section includes the
 
 The President shall include in the reports required under section 98h–2(a) of this title information with respect to activities conducted under this section.
 
-(June 7, 1939, ch. 190, §15, as added Nov. 29, 1989, Pub. L. 101–189, div. C, title XXXIII, §3312(a), 103 Stat. 1687.)
+(June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687.)
 
 #### Section Referred to in Other Sections
 

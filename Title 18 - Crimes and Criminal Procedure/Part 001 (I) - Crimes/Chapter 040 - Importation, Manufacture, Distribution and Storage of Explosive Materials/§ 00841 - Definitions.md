@@ -88,7 +88,7 @@ Section 601 of title VI of Pub. L. 104–132 provided that:
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) plastic explosives were used by terrorists in the bombings of Pan American Airlines flight number 103in December 1988 and UTA flight number 722 in September 1989;
+&emsp;“(1) plastic explosives were used by terrorists in the bombings of Pan American Airlines flight number 103 in December 1988 and UTA flight number 722 in September 1989;
 
 &emsp;“(2) plastic explosives can be used with little likelihood of detection for acts of unlawful interference with civil aviation, maritime navigation, and other modes of transportation;
 
@@ -104,7 +104,7 @@ Purpose.—The purpose of this title \[amending this section, sections 842, 844,
 
 #### Marking, Rendering Inert, and Licensing of Explosive Materials
 
-Section 732 of Pub. L. 104–132, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21, provided that:
+Section 732 of Pub. L. 104–132, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, provided that:
 
 “(a)
 
@@ -158,7 +158,7 @@ In general.—In conducting the study under subsection (a), the Secretary shall 
 
 &emsp;“(2)
 
-Fertilizer research centers.—In conducting any portion of the study under subsection (a) relating to the regulation and use of fertilizer as a pre-explosive material, the Secretary of the Treasury shall consult with and receive input from non-profit fertilizer research centers.
+Fertilizer research centers.—In conducting any portion of the study under subsection (a) relating to the regulation and use of fertilizer as a pre-explosive material, the Secretary of the Treasury shallconsult with and receive input from non-profit fertilizer research centers.
 
 “(c)
 
@@ -230,7 +230,7 @@ Study elements.—The study conducted under this subsection shall—
 
 &emsp;“(3)
 
-Report and costs.—The study conducted under this subsection shall be presented to Congress 12 months after the enactment of this subsection \[enacted Sept. 30, 1996\] and be made available to the public, including any data tapes or data used to form such recommendations. There are authorized to be appropriated such sums as may be necessary to carry out the study.”
+Report and costs.—The study conducted under this subsection shall be presented to Congress 2 years after the enactment of this subsection \[enacted Sept. 30, 1996\] and be made available to the public, including any data tapes or data used to form such recommendations. There are authorized to be appropriated such sums as may be necessary to carry out the study.”
 
 #### Congressional Declaration of Purpose
 
@@ -256,7 +256,7 @@ Section 1105(c) of Pub. L. 91–452 provided that: “Any person (as defined in 
 
 #### Authorization of Appropriations
 
-Section 1107 of title XI of Pub. L. 91–452 provided that: “There are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
+Section 1107 of title XI of Pub. L. 91–452 provided that: “There are hereby authorized to be appropriatedsuch sums as are necessary to carry out the purposes of this title \[enacting this chapter, amending section 2516 of this title, repealing section 837 of this title and sections 121 to 144 of Title 50, War and National Defense, and enacting provisions set as notes under this section\].”
 
 #### Section Referred to in Other Sections
 

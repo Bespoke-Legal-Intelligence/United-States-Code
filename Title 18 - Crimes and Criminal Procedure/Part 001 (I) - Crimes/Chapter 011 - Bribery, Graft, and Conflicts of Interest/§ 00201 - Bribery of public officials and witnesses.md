@@ -46,7 +46,7 @@
 
 &emsp;shall be fined under this title or imprisoned for not more than two years, or both.
 
-(d) Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c) shall not be construed to prohibit the payment or receipt of witness fees provided by law, or the payment, by the party upon whose behalf a witness is called and receipt by a witness, of the reasonable cost of travel and subsistence incurred and the reasonable value of time lost in attendance at any such trial, hearing, or proceeding, or in the case of expert witnesses, a reasonable fee for time spent in the preparation of such opinion, and in appearing and testifying.
+(d) Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c) shall notbe construed to prohibit the payment or receipt of witness fees provided by law, or the payment, by the party upon whose behalf a witness is called and receipt by a witness, of the reasonable cost of travel and subsistence incurred and the reasonable value of time lost in attendance at any such trial, hearing, or proceeding, or in the case of expert witnesses, a reasonable fee for time spent in the preparation of such opinion, and in appearing and testifying.
 
 (e) The offenses and penalties prescribed in this section are separate from and in addition to those prescribed in sections 1503, 1504, and 1505 of this title.
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pu
 
 #### Effective Date
 
-Section 4 of Pub. L. 87–849 provided that: “This Act \[enacting this section and sections 202 to 209 and 218 ofthis title, redesignating sections 214, 215, 217 to 222 as 210, 211, 212 to 217 of this title respectively, repealing sections 223, 282, 284, 434, and 1914 of this title, and section 99 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provisions set out as notes under section 281 and 282 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 23, 1962\]”.
+Section 4 of Pub. L. 87–849 provided that: “This Act \[enacting this section and sections 202 to 209 and 218 of this title, redesignating sections 214, 215, 217 to 222 as 210, 211, 212 to 217 of this title respectively, repealing sections 223, 282, 284, 434, and 1914 of this title, and section 99 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provisions set out as notes under section 281 and 282 of this title\] shall take effect ninety days after the date of its enactment \[Oct. 23, 1962\]”.
 
 #### Short Title of 1996 Amendment
 
@@ -160,7 +160,7 @@ The recruiting problem noted by the Committee generated a major part of the impe
 
 #### Summary of the Main Conflict of Interest Provisions of Public Law 87–849
 
-A regular officer or employee of the Government—that is, one appointed or employed to serve more than130 days in any period of 365 days—is in general subject to the following major prohibitions (the citations are to the new sections of Title 18):
+A regular officer or employee of the Government—that is, one appointed or employed to serve more than 130 days in any period of 365 days—is in general subject to the following major prohibitions (the citations are to the new sections of Title 18):
 
 1\. He may not, except in the discharge of his official duties, represent anyone else before a court or Government agency in a matter in which the United States is a party or has an interest. This prohibition applies both to paid and unpaid representation of another (18 U.S.C. 203 and 205).
 
@@ -242,7 +242,7 @@ Comparing subsection (a) with the antecedent 18 U.S.C. 284 discloses that it fol
 
 It will be seen that subsections (a) and (b) in combination are less restrictive in some respects, and more restrictive in others, than the combination of the prior 18 U.S.C. 284 and 5 U.S.C. 99. Thus, former officers or employees who were outside the Government when the Act came into force on January 21, 1963, will in certain situations be enabled to carry on activities before the Government which were previously barred. For example, the repeal of 5 U.S.C. 99 permits an attorney who left an executive department for private practice a year before to take certain cases against the Government immediately which would be subject to the bar of 5 U.S.C. 99 for another year. On the other hand, former officers or employees became precluded on and after January 21, 1963 from engaging or continuing to engage in certain activities which were permissible until that date. This result follows from the replacement of the 2-year bar of 18 U.S.C. 284 with a lifetime bar of subsection (a) in comparable situations, from the increase in the variety of matters covered by subsection (a) as compared with 18 U.S.C. 284 and from the introduction of the 1-year bar of subsection (b).
 
-Subsection (c) of section 207 pertains to an individual outside the Government who is in a business or professional partnership with someone serving in the executive branch, an independent agency or the District of Columbia. The subsection prevents such individualfrom acting as attorney or agent for anyone other than the United States in any matter, including those in court, in which his partner in the Government is participating or has participated or which are the subject of his partner's official responsibility. Although included in a section dealing largely with post-employment activities, this provision is not directed to the postemployment situation.
+Subsection (c) of section 207 pertains to an individual outside the Government who is in a business or professional partnership with someone serving in the executive branch, an independent agency or the District of Columbia. The subsection prevents such individual from acting as attorney or agent for anyone other than the United States in any matter, including those in court, in which his partner in the Government is participating or has participated or which are the subject of his partner's official responsibility. Although included in a section dealing largely with post-employment activities, this provision is not directed to the postemployment situation.
 
 The paragraph at the end of section 207 also pertains to individuals in a partnership but sets forth no prohibition. This paragraph, which is of importance mainly to lawyers in private practice, rules out the possibility that an individual will be deemed subject to section 203, 205, 207(a) or 207(b) solely because he has a partner who serves or has served in the Government either as a regular or a special Government employee.
 
@@ -352,5 +352,5 @@ Wire or oral communications, authorization for interception, to provide evidence
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1961, 2516 of this title; title 7 section 84; title 12 sections 1441a, 1822, 2245; title 15 section 4805; title 28 section 656; title 43 section 1475a.
+This section is referred to in sections 14, 1961, 2516 of this title; title 5 section 3113; title 7 section 84; title 12 sections 1441a, 1822, 2245; title 15 section 4805; title 28 section 656; title 43 section 1475a.
 

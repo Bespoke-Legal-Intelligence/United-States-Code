@@ -22,7 +22,7 @@ The term of office of a Director shall be five years. A Director may be reappoin
 
 #### (d) Duties of Directors
 
-(1) A Director shall be responsible for the day-to-day operation of the facility of the Retirement Home for which the Director is appointed,including the acceptance of applicants to be residents of that facility.
+(1) A Director shall be responsible for the day-to-day operation of the facility of the Retirement Home for which the Director is appointed, including the acceptance of applicants to be residents of that facility.
 
 (2) The Director shall keep accurate and complete records of the operations of that facility of the Retirement Home.
 

@@ -44,11 +44,13 @@
 
 &emsp;(C) may waive the collection of a fee under section 3729 of this title in any case in which the Secretary determines that such a waiver would be appropriate.
 
-(c) The Secretary may not enter into agreements under subsection (a) after December 31, 1997.
+(c) The Secretary may not enter into agreements under subsection (a) after December 31, 1998.
 
-(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768.)
+(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288.)
 
 #### Amendments
+
+1997—Subsec. (c). Pub. L. 105–114 substituted “December 31, 1999” for “December 31, 1997”.
 
 1996—Subsec. (c). Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
 

@@ -6,7 +6,7 @@ The term of office of each member of the legislature shall be two years. The ter
 
 #### (b) Qualifications of members
 
-No person shall be eligible to be a member of the legislature who is not a citizen of the UnitedStates, who has not attained the age of twenty-one years, who is not a qualified voter in the Virgin Islands, who has not been a bona fide resident of the Virgin Islands for at least three years next preceding the date of his election, or who has been convicted of a felony or of a crime involving moral turpitude and has not received a pardon restoring his civil rights. Federal employees and persons employed in the legislative, executive or judicial branches of the government of the Virgin Islands shall not be eligible for membership in the legislature.
+No person shall be eligible to be a member of the legislature who is not a citizen of the United States, who has not attained the age of twenty-one years, who is not a qualified voter in the Virgin Islands, who has not been a bona fide resident of the Virgin Islands for at least three years next preceding the date of his election, or who has been convicted of a felony or of a crime involving moral turpitude and has not received a pardon restoring his civil rights. Federal employees and persons employed in the legislative, executive or judicial branches of the government of the Virgin Islands shall not be eligible for membership in the legislature.
 
 #### (c) Appointment of electoral officers; popular election of members of boards of election
 
@@ -32,7 +32,7 @@ The legislature shall be the sole judge of the elections and qualifications of i
 
 The Legislature of the Virgin Islands shall by law provide the procedure for filling any vacancy in the office of member of the legislature.
 
-(July 22, 1954, ch. 558, §6, 68 Stat. 499; Sept. 16, 1959, Pub. L. 86–289, §2(a), (b), 73 Stat. 568; July 30, 1965, Pub. L. 89–98, 79 Stat. 423; Aug. 23, 1968, Pub. L. 90–496, §8(b), 82 Stat. 839; Aug. 17, 1972, Pub. L. 92–389, 86 Stat. 563; Oct. 19, 1973, Pub. L. 93–130, §1, 87 Stat. 460.)
+(July 22, 1954, ch. 558, §6, 68 Stat. 499; Pub. L. 86–289, §2(a), (b), Sept. 16, 1959, 73 Stat. 568; Pub. L. 89–98, July 30, 1965, 79 Stat. 423; Pub. L. 90–496, §8(b), Aug. 23, 1968, 82 Stat. 839; Pub. L. 92–389, Aug. 17, 1972, 86 Stat. 563; Pub. L. 93–130, §1, Oct. 19, 1973, 87 Stat. 460.)
 
 #### References in Text
 
@@ -40,7 +40,7 @@ This chapter, referred to in subsec. (g), was in the original “this Act”, me
 
 #### Amendments
 
-1973—Subsec. (h). Pub. L. 93–130 substituted provision authorizing the Legislature of Virgin Islands to provide by law the procedure for filling vacancies in the membership of the Legislature, for provisions authorizing the Governor of the Virgin Islands to fill any such vacancy by appointment of resident of the district from which the member whose office became vacant was elected if the vacancy is that of a Senator and of resident of any part of Virgin Islands if the vacancy is that of a Senator at large, and that such appointee shall serve for the remainder of the unexpired term.
+1973—Subsec. (h). Pub. L. 93–130 substituted provision authorizing the Legislature of Virgin Islands to provideby law the procedure for filling vacancies in the membership of the Legislature, for provisions authorizing the Governor of the Virgin Islands to fill any such vacancy by appointment of resident of the district from which the member whose office became vacant was elected if the vacancy is that of a Senator and of resident of any part of Virgin Islands if the vacancy is that of a Senator at large, and that such appointee shall serve for the remainder of the unexpired term.
 
 1972—Subsec. (b). Pub. L. 92–389 reduced the age qualification for membership of legislature from twenty-five years to twenty-one years.
 

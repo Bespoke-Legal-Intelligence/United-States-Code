@@ -8,7 +8,7 @@ The prohibitions contained in sections 3202 and 3203 of this title shall not app
 
 &emsp;(3) A credit union being served by a management official of another credit union.
 
-&emsp;(4) A depository institution or depository holding company which does not do businesswithin any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands except as an incident to its activities outside the United States.
+&emsp;(4) A depository institution or depository holding company which does not do business within any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands except as an incident to its activities outside the United States.
 
 &emsp;(5) A State-chartered savings and loan guaranty corporation.
 

@@ -1,8 +1,8 @@
 ### §752. Law clerks and secretaries
 
-District judges may appoint necessary law clerks and secretaries subject to any limitation on the aggregate salaries of such employees which may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
+District judges may appoint necessary law clerks and secretaries subject to any limitationon the aggregate salaries of such employees which may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
 
-(June 25, 1948, ch. 646, 62 Stat. 921; Sept. 1, 1959, Pub. L. 86–221, 73 Stat. 452; Nov. 19, 1988, Pub. L. 100–702, title X, §1003(a)(3), 102 Stat. 4665.)
+(June 25, 1948, ch. 646, 62 Stat. 921; Pub. L. 86–221, Sept. 1, 1959, 73 Stat. 452; Pub. L. 100–702, title X, §1003(a)(3), Nov. 19, 1988, 102 Stat. 4665.)
 
 #### Historical and Revision Notes
 
@@ -26,9 +26,9 @@ As finally enacted, sections 374c and 374d of Title 28, U.S.C., 1946 ed., which 
 
 #### Amendments
 
-1988—Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
+<b>1988</b>—Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
 
-1959—Pub. L. 86–221 substituted provision permitting district judges to appoint necessary law clerks and secretaries subject to aggregate salary limitations for provisions permitting a district judge to appoint a secretary and also a law clerk upon certification of necessity by the chief judge of the circuit and permitting the chief judge of a district court having five or more district judges to appoint an assistant secretary.
+<b>1959</b>—Pub. L. 86–221 substituted provision permitting district judges to appoint necessary law clerks and secretaries subject to aggregate salary limitations for provisions permitting a district judge to appoint a secretary and also a law clerk upon certification of necessity by the chief judge of the circuit and permitting the chief judge of a district court having five or more district judges to appoint an assistant secretary.
 
 #### Cross References
 

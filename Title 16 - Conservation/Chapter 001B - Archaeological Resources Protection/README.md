@@ -71,6 +71,3 @@ This chapter is referred to in sections 410pp–5, 410tt–3, 460uu–41, 460ccc
 - [&sect; 00470kk - Savings provisions](%C2%A7%2000470kk%20-%20Savings%20provisions.md)
 - [&sect; 00470ll - Annual report to Congress](%C2%A7%2000470ll%20-%20Annual%20report%20to%20Congress.md)
 - [&sect; 00470mm - Surveying of lands; reporting of violations](%C2%A7%2000470mm%20-%20Surveying%20of%20lands%3B%20reporting%20of%20violations.md)
-- [10](10.md)
-- [Subchapter 001 (I) - Establishment and Administration](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/README.md)
-- [Subchapter 002 (II) - Scenic Areas](Subchapter%20002%20%28II%29%20-%20Scenic%20Areas/README.md)

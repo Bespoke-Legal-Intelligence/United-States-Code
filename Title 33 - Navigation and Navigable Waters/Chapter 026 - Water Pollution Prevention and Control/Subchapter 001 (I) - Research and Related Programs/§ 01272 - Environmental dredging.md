@@ -1,0 +1,68 @@
+### §1272. Environmental dredging
+
+#### (a) Operation and maintenance of navigation projects
+
+Whenever necessary to meet the requirements of the Federal Water Pollution Control Act \[33U.S.C. 1251 et seq.\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, may remove and remediate, as part of operation and maintenance of a navigation project, contaminated sediments outside the boundaries of and adjacent to the navigation channel.
+
+#### (b) Nonproject specific
+
+#### (1) In general
+
+&emsp;The Secretary may remove and remediate contaminated sediments from the navigable waters of the United States for the purpose of environmental enhancement and water quality improvement if such removal and remediation is requested by a non-Federal sponsor and the sponsor agrees to pay 50 percent of the cost of such removal and remediation.
+
+#### (2) Maximum amount
+
+&emsp;The Secretary may not expend more than $20,000,000 in a fiscal year to carry out this subsection.
+
+#### (c) Joint plan requirement
+
+The Secretary may only remove and remediate contaminated sediments under subsection (b) of this section in accordance with a joint plan developed by the Secretary and interested Federal, State, and local government officials. Such plan must include an opportunity for public comment, a description of the work to be undertaken, the method to be used for dredged material disposal, the roles and responsibilities of the Secretary and non-Federal sponsors, and identification of sources of funding.
+
+#### (d) Disposal costs
+
+Costs of disposal of contaminated sediments removed under this section shall be a non-Federal responsibility.
+
+#### (e) Limitation on statutory construction
+
+Nothing in this section shall be construed to affect the rights and responsibilities of any person under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\].
+
+#### (f) Priority work
+
+In carrying out this section, the Secretary shall give priority to work in the following areas:
+
+&emsp;(1) Brooklyn Waterfront, New York.
+
+&emsp;(2) Buffalo Harbor and River, New York.
+
+&emsp;(3) Ashtabula River, Ohio.
+
+&emsp;(4) Mahoning River, Ohio.
+
+&emsp;(5) Lower Fox River, Wisconsin.
+
+(Pub. L. 101–640, title III, §312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §205, Oct. 12, 1996, 110 Stat. 3679.)
+
+#### References in Text
+
+The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+
+#### Codification
+
+Section was formerly set out as a note under section 1252 of this title.
+
+Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–303, §205(1), inserted “and remediate” after “remove”.
+
+Subsec. (b)(1). Pub. L. 104–303, §205(1), (2)(A), inserted “and remediate” after “remove” and inserted “and remediation” after “removal” in two places.
+
+Subsec. (b)(2). Pub. L. 104–303, §205(2)(B), substituted “$20,000,000” for “$10,000,000”.
+
+Subsec. (c). Pub. L. 104–303, §205(1), inserted “and remediate” after “remove”.
+
+Subsec. (f). Pub. L. 104–303, §205(3), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “This section shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any project commenced under this section on or before such last day.”
+

@@ -116,7 +116,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 #### (3) Active duty armed services case
 
-&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but is on active duty (other than activeduty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
 
 #### (4) Certain employment-based immigrants case
 
@@ -224,7 +224,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 “(d)
 
-Annual Reporting Requirement.—Beginning 9 months after the date of implementation of the pilot program, the Attorney General shall submit annually to the Committees on the Judiciary of the House of Representatives and the Senate a report on the effectiveness of the program. The Attorney General shallsubmit a final evaluation of the program not later than 1 year after termination.
+Annual Reporting Requirement.—Beginning 9 months after the date of implementation of the pilot program, the Attorney General shall submit annually to the Committees on the Judiciary of the House of Representatives and the Senate a report on the effectiveness of the program. The Attorney General shall submit a final evaluation of the program not later than 1 year after termination.
 
 “(e)
 

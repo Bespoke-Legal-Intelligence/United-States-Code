@@ -96,7 +96,7 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 
 #### (A) In general
 
-&emsp;&emsp;If the validity of an order of removal has not been judicially decided, a defendant in a criminal proceeding charged with violating section 1253(a) of this title may challenge the validity of the order in the criminal proceeding only by filing a separate motion before trial. The district court, without a jury, shall decide the motion before trial.
+&emsp;&emsp;If the validity of an order of removal has not been judicially decided, a defendant in a criminal proceeding charged with violatingsection 1253(a) of this title may challenge the validity of the order in the criminal proceeding only by filing a separate motion before trial. The district court, without a jury, shall decide the motion before trial.
 
 #### (B) Claims of United States nationality
 
@@ -122,7 +122,7 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 
 &emsp;&emsp;(A) does not prevent the Attorney General, after a final order of removal has been issued, from detaining the alien under section 1231(a) of this title;
 
-&emsp;&emsp;(B) does not relieve the alien from complying with section 1231(a)(4) of this title and section 1253(g) of this title; and
+&emsp;&emsp;(B) does not relieve the alien from complying with section 1231(a)(4) of this title and section 1253(g) <sup>1</sup> of this title; and
 
 &emsp;&emsp;(C) does not require the Attorney General to defer removal of the alien.
 
@@ -174,7 +174,7 @@ A court may review a final order of removal only if—
 
 &emsp;&emsp;&emsp;(i) whether such section, or any regulation issued to implement such section, is constitutional; or
 
-&emsp;&emsp;&emsp;(ii) whether such a regulation, or a written policy directive, written policy guideline, or written procedure issued by or under the authority of the Attorney General to implement such section, is not consistent with applicable provisions of this subchapter or is otherwise in violation of law.
+&emsp;&emsp;&emsp;(ii) whether such a regulation, or a written policy directive, written policy guideline, or written procedure issued by orunder the authority of the Attorney General to implement such section, is not consistent with applicable provisions of this subchapter or is otherwise in violation of law.
 
 #### (B) Deadlines for bringing actions
 
@@ -217,6 +217,8 @@ Except as provided in this section and notwithstanding any other provision of la
 (June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Dec. 29, 1981, Pub. L. 97–116, §18(h)(1), 95 Stat. 1620; Oct. 12, 1984, Pub. L. 98–473, title II, §220(b), 98 Stat. 2028; Nov. 6, 1986, Pub. L. 99–603, title VII, §701, 100 Stat. 3445; Oct. 24, 1988, Pub. L. 100–525, §9(n), 102 Stat. 2620; Nov. 18, 1988, Pub. L. 100–690, title VII, §7343(a), 102 Stat. 4470; Nov. 29, 1990, Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), 104 Stat. 5049, 5066, 5085; Dec. 12, 1991, Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), 105 Stat. 1751, 1753, 1757, 1759; Sept. 13, 1994, Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), 108 Stat. 1823, 2023; Oct. 25, 1994, Pub. L. 103–416, title II, §§219(h), 224(b), 108 Stat. 4317, 4324; Apr. 24, 1996, Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), 110 Stat. 1275, 1277, 1279; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645.)
 
 #### References in Text
+
+Section 1253 of this title, referred to in subsec. (b)(8)(B), was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (g). Provisions similar to those contained in former subsec. (g) of section 1253 are now contained in subsec. (d) of section 1253.
 
 Rule 23 of the Federal Rules of Civil Procedure, referred to in subsec. (e)(1)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -304,7 +306,7 @@ In general.—Subject to paragraph (2), the amendments made by subsections (a) a
 
 “(2)
 
-Limitation.—Paragraph (1) shall not be considered to invalidate or to require the reconsideration of any judgment or order entered under section 106 of theImmigration and Nationality Act \[former 8 U.S.C. 1105a\], as amended by section 440 of Public Law 104–132.”
+Limitation.—Paragraph (1) shall not be considered to invalidate or to require the reconsideration of any judgment or order entered under section 106 of the Immigration and Nationality Act \[former 8 U.S.C. 1105a\], as amended by section 440 of Public Law 104–132.”
 
 \[Section 2 of Pub. L. 104–302 provided that the amendment made by that section to section 306(c)(1) of Pub. L. 104–208, set out above, is effective Sept. 30, 1996.\]
 
@@ -392,7 +394,7 @@ Section 130008 of Pub. L. 103–322 provided that:
 
 “(a)
 
-In General.—Subject to subsection (b) and notwithstanding any other provision of law, the AttorneyGeneral, in the discretion of the Attorney General, may accept, hold, administer, and utilize gifts of property and services (which may not include cash assistance) from State and local governments for the purpose of assisting the Immigration and Naturalization Service in the transportation of deportable aliens who are arrested for misdemeanor or felony crimes under State or Federal law and who are either unlawfully within the United States or willing to submit to voluntary departure under safeguards. Any property acquired pursuant to this section shall be acquired in the name of the United States.
+In General.—Subject to subsection (b) and notwithstanding any other provision of law, the Attorney General, in the discretion of the Attorney General, may accept, hold, administer, and utilize gifts of property and services (which may not include cash assistance) from State and local governments for the purpose of assisting the Immigration and Naturalization Service inthe transportation of deportable aliens who are arrested for misdemeanor or felony crimes under State or Federal law and who are either unlawfully within the United States or willing to submit to voluntary departure under safeguards. Any property acquired pursuant to this section shall be acquired in the name of the United States.
 
 “(b)
 
@@ -432,5 +434,7 @@ Sentences, see section 3551 et seq. of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1228, 1229a, 1255a, 1326 of this title; title 18 section 4113; title 22 sections 618, 2508; title 28 section 1821; title 40 section 613.
+This section is referred to in sections 1228, 1229a, 1255a, 1326 of this title; title 40 section 613.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

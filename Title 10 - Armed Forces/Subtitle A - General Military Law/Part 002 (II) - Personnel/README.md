@@ -44,7 +44,7 @@
 | [<b>76.</b>](Chapter%20076%20-%20Missing%20Persons/README.md) | <b>Missing Persons</b> | <b>1501</b> |
 | [<b>77.</b>](Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md) | <b>Posthumous Commissions and Warrants</b> | <b>1521</b> |
 | [<b>79.</b>](Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md) | <b>Correction of Military Records</b> | <b>1551</b> |
-| <b>\[80.</b> | <b>Repealed.\]</b> |  |
+| [<b>80.</b>](Chapter%20080%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>1561</b> |
 | [<b>81.</b>](Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1581</b> |
 | [<b>83.</b>](Chapter%20083%20-%20Civilian%20Defense%20Intelligence%20Employees/README.md) | <b>Civilian Defense Intelligence Employees</b> | <b>1601</b> |
 | <b>\[85.</b> | <b>Repealed.\]</b> |  |
@@ -55,6 +55,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §591(a)(2), Nov. 18, 1997, 111 Stat. 1762, added item for chapter 80.
 
 1996—Pub. L. 104–201, div. A, title XVI, §1633(c)(3), Sept. 23, 1996, 110 Stat. 2751, substituted “Civilian Defense Intelligence Employees” for “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” in item for chapter 83.
 
@@ -150,7 +152,7 @@ Particular provisions relating to personnel—
 - [Chapter 076 - Missing Persons](Chapter%20076%20-%20Missing%20Persons/README.md)
 - [Chapter 077 - Posthumous Commissions and Warrants](Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md)
 - [Chapter 079 - Correction of Military Records](Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md)
-- [Chapter 080 - Repealed](Chapter%20080%20-%20Repealed/README.md)
+- [Chapter 080 - Miscellaneous Investigation Requirements and Other Duties](Chapter%20080%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md)
 - [Chapter 081 - Civilian Employees](Chapter%20081%20-%20Civilian%20Employees/README.md)
 - [Chapter 083 - Civilian Defense Intelligence Employees](Chapter%20083%20-%20Civilian%20Defense%20Intelligence%20Employees/README.md)
 - [Chapter 087 - Defense Acquisition Workforce](Chapter%20087%20-%20Defense%20Acquisition%20Workforce/README.md)

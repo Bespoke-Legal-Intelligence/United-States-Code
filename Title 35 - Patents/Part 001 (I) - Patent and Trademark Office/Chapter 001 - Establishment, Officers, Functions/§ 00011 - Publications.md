@@ -16,7 +16,7 @@
 
 (b) The Commissioner may exchange any of the publications specified in items 3, 4, 5, and 6 of subsection (a) of this section for publications desirable for the use of the Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 794; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 794; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

@@ -28,15 +28,17 @@
 
 (f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to active duty by the Secretary of the Army to serve in his enlisted grade for such period of time as the Secretary prescribes but not for more than four years.
 
-(g) In computing length of service for any purpose, an officer appointed under this section may not be credited with service as a cadet or with concurrent enlisted service, other than enlisted service performed after August 1, 1979, as a member of Selected <sup>1</sup> Reserve.
+(g) In computing length of service for any purpose, an officer appointed under this section may not be credited with service as a cadet or with concurrent enlisted service, other than enlisted service performed after August 1, 1979, as a member of the Selected Reserve.
 
 (h) The Secretary of the Army shall appoint not more than 208 cadets each year under this section, to include not less than 10 cadets at each military junior college at which there are not less than 10 members of the program eligible under subsection (b) for such an appointment. At any military college at which in any year there are fewer than 10 such members, the Secretary shall appoint each such member as a cadet under this section.
 
 (i) Cadets appointed under this section are in addition to the number appointed under section 2107 of this title.
 
-(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527.)
+(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, §1073(a)(36), Nov. 18, 1997, 111 Stat. 1902.)
 
 #### Amendments
+
+1997—Subsec. (g). Pub. L. 105–85 inserted “the” after “August 1, 1979, as a member of”.
 
 1996—Subsec. (a)(1). Pub. L. 104–201, §555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
 
@@ -65,6 +67,4 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2005, 2108 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
 

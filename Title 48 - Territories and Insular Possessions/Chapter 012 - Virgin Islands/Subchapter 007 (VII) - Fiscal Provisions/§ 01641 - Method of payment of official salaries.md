@@ -2,7 +2,7 @@
 
 The salaries and travel allowances of the Governor, Lieutenant Governor, the heads of the executive departments, other officers and employees of the government of the Virgin Islands, and the members of the legislature shall be paid by the government of the Virgin Islands at rates prescribed by the laws of the Virgin Islands.
 
-(July 22, 1954, ch. 558, §20, formerly §20(c), 68 Stat. 506; Aug. 28, 1958, Pub. L. 85–851, §6(a), 72 Stat. 1095; Aug. 23, 1968, Pub. L. 90–496, §10, 82 Stat. 841.)
+(July 22, 1954, ch. 558, §20, formerly §20(c), 68 Stat. 506; Pub. L. 85–851, §6(a), Aug. 28, 1958, 72 Stat. 1095; Pub. L. 90–496, §10, Aug. 23, 1968, 82 Stat. 841.)
 
 #### Codification
 

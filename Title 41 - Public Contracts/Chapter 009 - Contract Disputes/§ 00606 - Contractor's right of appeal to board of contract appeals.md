@@ -6,5 +6,5 @@ Within ninety days from the date of receipt of a contracting officer's decision 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 256 of this title; title 10 section 2324.
+This section is referred to in section 256 of this title; title 10 sections 2324, 2410m.
 

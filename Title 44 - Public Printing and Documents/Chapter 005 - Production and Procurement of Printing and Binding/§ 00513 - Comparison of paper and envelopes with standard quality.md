@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §9 (Jan. 12, 1895, ch. 23, §7, 28 Stat. 602; 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
 

@@ -24,7 +24,7 @@ Not later than 64 months after January 7, 1983, the Secretary is authorized to, 
 
 The Secretary shall design each test and evaluation facility—
 
-&emsp;(1) to be capable of receiving not more than 100 full-sized canisters of solidified high-level radioactive waste (which canisters shall not exceed an aggregate weight of 100 metric tons), except that spent nuclear fuel may be used instead of such waste if such waste cannot be obtained under reasonable conditions;
+&emsp;(1) to be capable of receiving not more than 100 full-sized canisters of solidified high-level radioactive waste (which canisters shall notexceed an aggregate weight of 100 metric tons), except that spent nuclear fuel may be used instead of such waste if such waste cannot be obtained under reasonable conditions;
 
 &emsp;(2) to permit full retrieval of solidified high-level radioactive waste, or other radioactive material used by the Secretary for testing, upon completion of the technology demonstration activities; and
 
@@ -76,7 +76,7 @@ The system of engineered barriers and selected geology used in a test and evalua
 
 (2) Subject to section 10225 of this title, the test and evaluation facility, and the facilities authorized in this section, shall be constructed and operated as research, development, and demonstration facilities, and shall not be subject to licensing under section 5842 of this title.
 
-(3)(A) The Commission shall carry out a continuing analysis of the activities undertaken under this section to evaluate the adequacy of the consideration of public health and safety issues.
+(3)(A) The Commission shall carry out a continuing analysis of the activities undertaken under this section to evaluate the adequacy ofthe consideration of public health and safety issues.
 
 (B) The Commission shall report to the President, the Secretary, and the Congress as the Commission considers appropriate with respect to the conduct of activities under this section.
 
@@ -98,7 +98,7 @@ The Secretary shall prepare an environmental impact statement under section 102(
 
 > whichever occurs sooner.
 
-(4) Notwithstanding any other provisions of this subsection, as soon as practicable following any determination by the Secretary, with the concurrence of the Commission, that the test and evaluation facility is unsuitable for continued operation, the Secretary shall take suchactions as are necessary to remove from such site any radioactive material placed on such site as a result of testing and evaluation activities conducted under this section. Such requirement may be waived if the Secretary, with the concurrence of the Commission, finds that short-term testing and evaluation activities using radioactive material will not endanger the public health and safety.
+(4) Notwithstanding any other provisions of this subsection, as soon as practicable following any determination by the Secretary, with the concurrence of the Commission, that the test and evaluation facility is unsuitable for continued operation, the Secretary shall take such actions as are necessary to remove from such site any radioactive material placed on such site as a result of testing and evaluation activities conducted under this section. Such requirement may be waived if the Secretary, with the concurrence of the Commission, finds that short-term testing and evaluation activities using radioactive material will not endanger the public health and safety.
 
 (Pub. L. 97–425, title II, §217, Jan. 7, 1983, 96 Stat. 2249.)
 

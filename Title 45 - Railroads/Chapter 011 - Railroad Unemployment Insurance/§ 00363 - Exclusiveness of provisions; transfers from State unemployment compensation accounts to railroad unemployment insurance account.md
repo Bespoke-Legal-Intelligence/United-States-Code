@@ -26,7 +26,7 @@ The transfers described in the provisos contained in the several paragraphs of s
 
 The Social Security Board is authorized and directed to certify to the Secretary of the Treasury for payment, and the Secretary shall pay, into the railroad unemployment insurance account, such amounts as the Social Security Board withholds from certification pursuant to subsection (d) of this section and the appropriations authorized in section 501 of title 42 shall be available for payments authorized by this subsection. The Secretary shall transfer from the account of a State in the unemployment trust fund to the railroad unemployment insurance account in the unemployment trust fund such amounts as the State authorizes and directs him so to transfer pursuant to subsection (d) of this section.
 
-(June 25, 1938, ch. 680, §13(b)–(f), 52 Stat. 1110; June 20, 1939, ch. 227, §17, 53 Stat. 848; July 2, 1940, ch. 530, 54 Stat. 741; June 30, 1942, ch. 463, 56 Stat. 465; July 31, 1946, ch. 709, §324, 60 Stat. 741; Feb. 15, 1968, Pub. L. 90–257, title II, §207, 82 Stat. 25.)
+(June 25, 1938, ch. 680, §13(b)–(f), 52 Stat. 1110; June 20, 1939, ch. 227, §17, 53 Stat. 848; July 2, 1940, ch. 530, 54 Stat. 741; June 30, 1942, ch. 463, 56 Stat. 465; July 31, 1946, ch. 709, §324, 60 Stat. 741; Pub. L. 90–257, title II, §207, Feb. 15, 1968, 82 Stat. 25.)
 
 #### References in Text
 

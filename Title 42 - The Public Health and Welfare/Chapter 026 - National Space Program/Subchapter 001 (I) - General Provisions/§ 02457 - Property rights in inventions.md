@@ -16,7 +16,7 @@ Each contract entered into by the Administrator with any party for the performan
 
 #### (c) Patent application
 
-No patent may be issued to any applicant other than the Administrator for any invention which appears to the Commissioner of Patents and Trademarks to have significant utility in the conduct of aeronautical and space activities unless the applicant files with the Commissioner, with the application or within thirty days after request therefor by the Commissioner, a written statement executed under oath setting forth the full facts concerning the circumstances under which such invention wasmade and stating the relationship (if any) of such invention to the performance of any work under any contract of the Administration. Copies of each such statement and the application to which it relates shall be transmitted forthwith by the Commissioner to the Administrator.
+No patent may be issued to any applicant other than the Administrator for any invention which appears to the Commissioner of Patents and Trademarks to have significant utility in the conduct of aeronautical and space activities unless the applicant files with the Commissioner, with the application or within thirty days after request therefor by the Commissioner, a written statement executed under oath setting forth the full facts concerning the circumstances under which such invention was made and stating the relationship (if any) of such invention to the performance of any work under any contract of the Administration. Copies of each such statement and the application to which it relates shall be transmitted forthwith by the Commissioner to the Administrator.
 
 #### (d) Issuance of patent to applicant; request by Administrator; notice; hearing; determination; review
 
@@ -56,7 +56,7 @@ Any object intended for launch, launched, or assembled in outer space shall be c
 
 #### (<i>l</i>) Use or manufacture of patented inventions incorporated in space vehicles launched for persons other than United States
 
-The use or manufacture of any patented invention incorporated in a space vehicle launched by the United States Government for a person other than the United States shall not be considered to be a use or manufacture by or for the United States within the meaning of section 1498(a) of title 28, unless the Administration gives an express authorization or consent for such use or manufacture.
+The use or manufacture of any patented invention incorporated in a space vehicle launched bythe United States Government for a person other than the United States shall not be considered to be a use or manufacture by or for the United States within the meaning of section 1498(a) of title 28, unless the Administration gives an express authorization or consent for such use or manufacture.
 
 (Pub. L. 85–568, title III, §305, July 29, 1958, 72 Stat. 435; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–517, §7(b), Dec. 12, 1980, 94 Stat. 3027; Pub. L. 97–96, §7, Dec. 21, 1981, 95 Stat. 1210; Pub. L. 97–164, title I, §162(3), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §205(c), Nov. 8, 1984, 98 Stat. 3388.)
 

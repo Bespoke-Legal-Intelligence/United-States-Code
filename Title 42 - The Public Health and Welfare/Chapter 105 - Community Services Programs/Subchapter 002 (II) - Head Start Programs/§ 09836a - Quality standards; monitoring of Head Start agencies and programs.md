@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) past experience with use of the standards in effect under this subchapter on May 18, 1994;
 
-&emsp;&emsp;&emsp;(ii) changes over the period since August 31, 1981, in the circumstances and problems typically facing children and families served by Head Start agencies;
+&emsp;&emsp;&emsp;(ii) changes over the period since August 31, 1981, in the circumstances and problemstypically facing children and families served by Head Start agencies;
 
 &emsp;&emsp;&emsp;(iii) developments concerning best practices with respect to child development, children with disabilities, family services, program administration, and financial management;
 

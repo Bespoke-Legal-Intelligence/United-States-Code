@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) while traveling directly to or from that duty or training (unless such injury, illness, disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member); or
 
-&emsp;&emsp;(C) in line of duty while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
+&emsp;&emsp;(C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
 
 (b) The regulations prescribed under subsection (a) for each uniformed service, the National Guard, and each of the classes of organization of the reserve components within each uniformed service, may be different. The Secretary concerned shall, for the National Guard and each of the classes of organization within each uniformed service, prescribe—
 
@@ -32,7 +32,7 @@
 
 (e) A member of the National Guard or of a reserve component of the uniformed services may not be paid under this section for more than four periods of equivalent training, instruction, duty, or appropriate duties performed during a fiscal year instead of the member's regular period of instruction or regular period of appropriate duty during that fiscal year.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, §1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, §604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, §631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VII, §702(d), Feb. 10, 1996, 110 Stat. 371.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, §1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, §604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, §631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VII, §702(d), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(g), Nov. 18, 1997, 111 Stat. 1732.)
 
 Historical and Revision Notes
 
@@ -88,6 +88,8 @@ Pub. L. 95–457, title VIII, §826, Oct. 13, 1978, 92 Stat. 1248.
 
 #### Amendments
 
+1997—Subsec. (a)(3)(C). Pub. L. 105–85 inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in line of duty”.
+
 1996—Subsec. (a)(3)(C). Pub. L. 104–106 added subpar. (C).
 
 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
@@ -116,5 +118,5 @@ Rations in kind when instruction or duty periods total at least 8 hours in calen
 
 Section Referred to in Other Sections
 
-This section is referred to in sections 101, 204, 301, 301a, 301c, 304, 308d, 316, 402, 433, 707, 1012 of this title; title 10 sections 101, 1465, 1466, 12319; title 26 section 3121; title 31 section 698a; title 32 section 715; title 38 section 101; title 42 section 409.
+This section is referred to in sections 101, 204, 301, 301a, 301c, 304, 308d, 316, 433, 707, 1012 of this title; title 10 sections 101, 1465, 1466, 12319; title 26 section 3121; title 31 section 698a; title 32 section 715; title 38 section 101; title 42 section 409.
 

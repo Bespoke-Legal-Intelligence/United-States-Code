@@ -12,7 +12,7 @@
 
 (c) The summary court-martial may collect debts due the decedent's estate by local debtors, pay undisputed local creditors of the deceased to the extent permitted by money of the deceased in the court's possession, and shall take receipts for those payments, to be filed with the court's final report to the Department of the Army.
 
-(d) As soon as practicable after the collection of the effects and money of the deceased, the summary court-martial shall send them at the expense of the United States to the living personhighest on the following list who can be found by the court:
+(d) As soon as practicable after the collection of the effects and money of the deceased, the summary court-martial shall send them at the expense of the United States to the living person highest on the following list who can be found by the court:
 
 &emsp;(1) The surviving spouse or legal representative.
 

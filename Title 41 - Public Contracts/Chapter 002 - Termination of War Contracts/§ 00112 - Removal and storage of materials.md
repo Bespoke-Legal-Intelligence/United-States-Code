@@ -36,7 +36,7 @@ Nothing in this chapter shall limit or affect the authority of the Department of
 
 Nothing in this section shall be construed to prevent the removal and storage of any termination inventory by any war contractor, at his own risk, at any time after termination of any war contract to which it is allocable.
 
-(July 1, 1944, ch. 358, §12, 58 Stat. 658; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; July 26, 1947, ch. 343, title II, §§205(a), 207(a), (f), 61 Stat. 501–503; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; Aug. 6, 1981, Pub. L. 97–31, §12(18), 95 Stat. 154.)
+(July 1, 1944, ch. 358, §12, 58 Stat. 658; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; July 26, 1947, ch. 343, title II, §§205(a), 207(a), (f), 61 Stat. 501–503; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; Pub. L. 97–31, §12(18), Aug. 6, 1981, 95 Stat. 154.)
 
 #### Amendments
 

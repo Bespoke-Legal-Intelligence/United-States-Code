@@ -14,7 +14,7 @@ The Secretary of State is authorized to—
 
 &emsp;&emsp;(4) Rental of quarters by contract or otherwise.
 
-(Aug. 1, 1956, ch. 841, title I, §5, 70 Stat. 891; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282.)
+(Aug. 1, 1956, ch. 841, title I, §5, 70 Stat. 891; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 
 #### Codification
 

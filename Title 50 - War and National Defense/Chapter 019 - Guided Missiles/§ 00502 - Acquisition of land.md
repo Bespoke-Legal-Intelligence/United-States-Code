@@ -10,7 +10,7 @@ The Secretary of the Air Force is authorized in discharging the authority given 
 
 #### Change of Name
 
-Committee on Armed Services of House of Representatives treated as referring to Committee on NationalSecurity of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

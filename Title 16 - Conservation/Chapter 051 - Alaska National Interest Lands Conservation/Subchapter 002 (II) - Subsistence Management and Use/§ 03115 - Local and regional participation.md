@@ -2,7 +2,7 @@
 
 #### (a) Establishment of subsistence resources regions, local advisory committees, and regional advisory councils; membership, duties, and authority of regional advisory councils
 
-Except as otherwise provided in subsection (d) of this section, one year after December 2, 1980, the Secretary in consultation with the State shall establish—
+Except as otherwise provided in subsection (d) of this section, the Secretary in consultation with the State shall establish—
 
 &emsp;(1) at least six Alaska subsistence resource regions which, taken together, include all public lands. The number and boundaries of the regions shall be sufficient to assure that regional differences in subsistence uses are adequately accommodated;
 
@@ -36,9 +36,13 @@ The Secretary shall assign adequate qualified staff to the regional advisory cou
 
 The Secretary, in performing his monitoring responsibility pursuant to section 3116 of this title and in the exercise of his closure and other administrative authority over the public lands, shall consider the report and recommendations of the regional advisory councils concerning the taking of fish and wildlife on the public lands within their respective regions for subsistence uses. The Secretary may choose not to follow any recommendation which he determines is not supported by substantial evidence, violates recognized principles of fish and wildlife conservation, or would be detrimental to the satisfaction of subsistence needs. If a recommendation is not adopted by the Secretary, he shall set forth the factual basis and the reasons for his decision.
 
-#### (d) Supersedure by enactment and implementation of State laws governing State responsibility; consideration of recommendations by State rulemaking authority
+#### (d) Supersedure by enactment and implementation of State laws governing State responsibility; consideration of recommendations by State rulemaking authority; regional advisory councils
 
-The Secretary shall not implement subsections (a), (b), and (c) of this section if within one year from December 2, 1980, the State enacts and implements laws of general applicability which are consistent with, and which provide for the definition, preference, and participation specified in, sections 3113, 3114, and 3115 of this title, such laws, unless and until repealed, shall supersede such sections insofar as such sections govern State responsibility pursuant to this subchapter for the taking of fish and wildlife on the public lands for subsistence uses. Laws establishing a system of local advisory committees and regional advisory councils consistent with this section shall provide that the State rulemaking authority shall consider the advice and recommendations of the regional councils concerning the taking of fish and wildlife populations on public lands within their respective regions for subsistence uses. The regional councils may present recommendations, and the evidence upon which such recommendations are based, to the State rulemaking authority during the course of the administrative proceedings of such authority. The State rulemaking authority may choose not to follow any recommendation which it determines is not supported by substantial evidence presented during the course of its administrative proceedings, violates recognized principles of fish and wildlife conservation or would be detrimental to the satisfaction of rural subsistence needs. If a recommendation is not adopted by the State rulemaking authority, such authority shall set forth the factual basis and the reasons for its decision.
+(1) Upon certification by the Secretary that the State has enacted and implemented laws of general applicability which are consistent with, and which provide for the definition, preference, and participation specified in sections 3113, 3114, and 3115 of this title, the Secretary shall not implement subsections (a), (b), and (c) of this section, and the State may immediately assume management for the taking of fish and wildlife on the public lands for subsistence uses pursuant to this subchapter. Upon assumption of such management by the State, the Secretary shall not implement subsections (a), (b), and (c) of this section unless a court of competent jurisdiction determines that such laws have been repealed, modified, or implemented in a way that is inconsistent with, or does not provide for, the definition, preference, and participation specified in sections 3113, 3114, and 3115 of this title, or that the State has failed to cure any such inconsistency after such determination. The State laws shall otherwise supercede such sections insofar as such sections govern State responsibility pursuant to this subchapter for the taking of fish and wildlife on the public lands for subsistence uses. The Secretary may bring a judicial action to enforce this subsection.
+
+(2)(A) Laws establishing a system of local advisory committees and regional advisory councils consistent with this section shall provide that the State rulemaking authority shall consider the advice and recommendations of the regional councils concerning the taking of fish and wildlife populations on public lands within their respective regions for subsistence uses. The regional councils may present recommendations, and the evidence upon which such recommendations are based, to the State rulemaking authority during the course of the administrative proceedings of such authority. The State rulemaking authority may choose not to follow any recommendation which it determines is not supported by substantial evidence presented during the course of its administrative proceedings, violates recognized principles of fish and wildlife conservation or would be detrimental to the satisfaction of rural subsistence needs. If a recommendation is not adopted by the State rulemaking authority, such authority shall set forth the factual basis and the reasons for its decision.
+
+(B) The members of each regional advisory council established under this subsection shall be appointed by the Governor of Alaska. Each council shall have ten members, four of whom shall be selected from nominees who reside in the region submitted by tribal councils in the region, and six of whom shall be selected from nominees submitted by local governments and local advisory committees. Three of these six shall be subsistence users who reside in the subsistence resource region and three shall be sport or commercial users who may be residents of any subsistence resource region. Regional council members shall have staggered terms of three years in length, with no limit on the number of terms a member may serve. A quorum shall be a majority of the members of the council.
 
 #### (e) Reimbursement to State; limitation; report to Congress
 
@@ -46,7 +50,21 @@ The Secretary shall not implement subsections (a), (b), and (c) of this section 
 
 (2) Total payments to the State under this subsection shall not exceed the sum of $5,000,000 in any one fiscal year. The Secretary shall advise the Congress at least once in every five years as to whether or not the maximum payments specified in this subsection are adequate to ensure the effectiveness of the program established by the State to provide the preference for subsistence uses of fish and wildlife set forth in section 3114 of this title.
 
-(Pub. L. 96–487, title VIII, §805, Dec. 2, 1980, 94 Stat. 2424.)
+(Pub. L. 96–487, title VIII, §805, Dec. 2, 1980, 94 Stat. 2424; Pub. L. 105–83, title III, §316(b)(6), (d), Nov. 14, 1997, 111 Stat. 1593, 1595.)
+
+#### Amendment of Section
+
+<i>For repeal of amendment by section 316(d) of Pub. L. 105–83, see Effective and Termination Dates of 1997 Amendment note below.</i>
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–83, §316(b)(6)(A), struck out “one year after December 2, 1980,” before “the Secretary in consultation with the State” in introductoryprovisions. See Effective and Termination Dates of 1997 Amendment note below.
+
+Subsec. (d). Pub. L. 105–83, §316(b)(6)(B), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary shall not implement subsections (a), (b), and (c) of this section if within one year from December 2, 1980, the State enacts and implements laws of general applicability which are consistent with, and which provide for the definition, preference, and participation specified in, sections 3113, 3114, and 3115 of this title, such laws, unless and until repealed, shall supersede such sections insofar as such sections govern State responsibility pursuant to this subchapter for the taking of fish and wildlife on the public lands for subsistence uses. Laws establishing a system of local advisory committees and regional advisory councils consistent with this section shall provide that the State rulemaking authority shall consider the advice and recommendations of the regional councils concerning the taking of fish and wildlife populations on public lands within their respective regions for subsistence uses. The regional councils may present recommendations, and the evidence upon which such recommendations are based, to the State rulemaking authority during the course of the administrative proceedings of such authority. The State rulemaking authority may choose not to follow any recommendation which it determines is not supported by substantial evidence presented during the course of its administrative proceedings, violates recognized principles of fish and wildlife conservation or would be detrimental to the satisfaction of rural subsistence needs. If a recommendation is not adopted by the State rulemaking authority, such authority shall set forth the factual basis and the reasons for its decision.” See Effective and Termination Dates of 1997 Amendment note below.
+
+#### Effective and Termination Dates of 1997 Amendment
+
+Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L. 105–83 effective only for purpose of determining whether State's laws provide for such definition, preference, and participation, and such amendment repealed on Dec. 1, 1998, if Secretary has not certified that such laws have been adopted in Alaska by such date, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
 
 #### Termination of Advisory Councils
 
@@ -54,5 +72,5 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3117, 3118, 3120, 3122, 3123 of this title.
+This section is referred to in sections 3117, 3118, 3120, 3122, 3123, 3124 of this title.
 

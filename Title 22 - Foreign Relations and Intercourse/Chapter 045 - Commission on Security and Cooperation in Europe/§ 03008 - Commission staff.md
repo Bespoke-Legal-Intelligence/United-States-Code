@@ -22,7 +22,7 @@ All staff appointments shall be made without regard to the provisions of title 5
 
 (1) For purposes of pay and other employment benefits, rights, and privileges and for all other purposes, any employee of the Commission shall be considered to be a congressional employee as defined in section 2107 of title 5.
 
-(2) For purposes of section 3304(c)(1) of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
+(2) For purposes of section 3304(c)(1) <sup>1</sup> of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
 
 (3) The provisions of paragraphs (1) and (2) of this subsection shall be effective as of June 3, 1976.
 
@@ -32,13 +32,15 @@ All staff appointments shall be made without regard to the provisions of title 5
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
+Section 3304(c) of title 5, referred to in subsec. (d)(2), was repealed and section 3304(d) was redesignated 3304(c) by Pub. L. 104–65, §16(a), (b), Dec. 19, 1995, 109 Stat. 703.
+
 #### Amendments
 
 1996—Subsec. (d)(2). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
 1985—Subsecs. (a), (b). Pub. L. 99–7, in amending section generally, added subsecs. (a) and (b).
 
-Subsec. (c). Pub. L. 99–7, in amending section generally, designated existing provisions as subsec. (c) and substituted “All staff appointments shall be made” for “The Commission may appoint and fix the pay of such staff personnel as it deems desirable,”.
+Subsec. (c). Pub. L. 99–7, in amending section generally, designated existing provisions as subsec. (c) and substituted “All staff appointments shall be made” for“The Commission may appoint and fix the pay of such staff personnel as it deems desirable,”.
 
 Subsec. (d). Pub. L. 99–7, in amending section generally, added subsec. (d).
 
@@ -49,4 +51,6 @@ Amendment by Pub. L. 99–7 effective Apr. 15, 1985, except for enactment of sub
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3007 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

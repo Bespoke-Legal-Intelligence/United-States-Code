@@ -6,5 +6,5 @@ On application for a writ of habeas corpus, evidence may be taken orally or by d
 
 #### Historical and Revision Notes
 
-This section is derived from H.R. 4232 introduced in the first session of the Seventy-ninth Congress byChairman Sumners of the House Committee on the Judiciary. It clarifies existing practice without substantial change.
+This section is derived from H.R. 4232 introduced in the first session of the Seventy-ninth Congress by Chairman Sumners of the House Committee on the Judiciary. It clarifies existing practice without substantial change.
 

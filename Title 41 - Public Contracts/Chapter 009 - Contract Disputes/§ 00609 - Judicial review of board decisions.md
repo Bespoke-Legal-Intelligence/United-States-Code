@@ -44,7 +44,7 @@ In any suit filed pursuant to this chapter involving two or more claims, counter
 
 1982—Subsec. (a)(1). Pub. L. 97–164, §161(10), substituted “Claims Court” for “Court of Claims”.
 
-Subsec. (c). Pub. L. 97–164, §157, struck out “, or, in its discretion and in lieu of remand it may retain the case and take such additional evidence or action as may be necessary for final disposition of the case” after “with such direction as the court considers just and proper”.
+Subsec. (c). Pub. L. 97–164, §157, struck out “, or, in its discretion and in lieu of remand it may retain the case and take such additional evidence or action as may be necessary for final disposition of the case” after“with such direction as the court considers just and proper”.
 
 Subsec. (d). Pub. L. 97–164, §160(a)(15), substituted “United States Claims Court” for “Court of Claims” in two places.
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 603 of this title; title 28 sections 1295, 1346, 1491.
+This section is referred to in section 603 of this title; title 10 section 2410m; title 22 sections 3861, 3862; title 28 sections 1295, 1346, 1491.
 

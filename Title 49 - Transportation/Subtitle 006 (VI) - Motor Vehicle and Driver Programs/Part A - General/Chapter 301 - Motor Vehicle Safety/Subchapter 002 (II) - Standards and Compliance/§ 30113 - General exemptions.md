@@ -28,9 +28,9 @@ Contents of Applications.—A manufacturer applying for an exemption under subse
 
 &emsp;(1) if the application is made under subsection (b)(3)(B)(i) of this section, a complete financial statement describing the economic hardship and a complete description of the manufacturer's good faith effort to comply with each motor vehicle safety standard prescribed under this chapter from which the manufacturer is requesting an exemption.
 
-&emsp;(2) if the application is made under subsection (b)(3)(B)(ii) of this section, a record ofthe research, development, and testing establishing the innovative nature of the safety feature and a detailed analysis establishing that the safety level of the feature at least equals the safety level of the standard.
+&emsp;(2) if the application is made under subsection (b)(3)(B)(ii) of this section, a record of the research, development, and testing establishing the innovative nature of the safety feature and a detailed analysis establishing that the safety level of the feature at least equals the safety level of the standard.
 
-&emsp;(3) if the application is made under subsection (b)(3)(B)(iii) of this section, a record of the research, development, and testing establishing that the motor vehicle is a low-emission motor vehicle and that the safety level of the vehicle is not lowered unreasonably by exemption from the standard.
+&emsp;(3) if the application is made under subsection (b)(3)(B)(iii) of this section, a record ofthe research, development, and testing establishing that the motor vehicle is a low-emission motor vehicle and that the safety level of the vehicle is not lowered unreasonably by exemption from the standard.
 
 &emsp;(4) if the application is made under subsection (b)(3)(B)(iv) of this section, a detailed analysis showing how the vehicle provides an overall safety level at least equal to the overall safety level of nonexempt vehicles.
 

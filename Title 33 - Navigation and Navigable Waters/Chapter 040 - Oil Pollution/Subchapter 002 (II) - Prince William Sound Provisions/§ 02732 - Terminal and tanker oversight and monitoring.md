@@ -142,7 +142,7 @@
 
 &emsp;&emsp;&emsp;(i) For the appointments by the Governor of the State of Alaska, one-third shall serve for 3 years, one-third shall serve for 2 years, and one-third shall serve for one year.
 
-&emsp;&emsp;&emsp;(ii) For the representatives of municipalities required by subsection (d)(2)(A)(vii) of this section, a drawing of lots among the appointees shall determinethat one-third of that group serves for 3 years, one-third serves for 2 years, and the remainder serves for 1 year.
+&emsp;&emsp;&emsp;(ii) For the representatives of municipalities required by subsection (d)(2)(A)(vii) of this section, a drawing of lots among the appointees shall determine that one-third of that group serves for 3 years, one-third serves for 2 years, and the remainder serves for 1 year.
 
 #### (4) Self-governing
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;(iii) modifications of crude oil tanker operations and maintenance in Prince William Sound and Cook Inlet intended to minimize the risk and mitigate the impact of oil spills; and
 
-&emsp;&emsp;&emsp;(iv) modifications to the oil spill prevention and contingency plans for terminal facilities and for crude oil tankers in Prince William Sound and Cook Inlet intended to enhance the ability to prevent and respond to an oil spill; and
+&emsp;&emsp;&emsp;(iv) modifications to the oil spill prevention and contingency plans for terminal facilities and for crude oil tankers inPrince William Sound and Cook Inlet intended to enhance the ability to prevent and respond to an oil spill; and
 
 &emsp;&emsp;(G) create additional committees of the Council as necessary to carry out the above functions, including a scientific and technical advisory committee to the Prince William Sound Council.
 
@@ -268,7 +268,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 &emsp;The owners or operators of terminal facilities or crude oil tankers operating in Prince William Sound shall provide, on an annual basis, an aggregate amount of not more than $2,000,000, as determined by the Secretary. Such amount—
 
-&emsp;&emsp;(A) shall provide for the establishment and operation on the environmental oversightand monitoring program in Prince William Sound;
+&emsp;&emsp;(A) shall provide for the establishment and operation on the environmental oversight and monitoring program in Prince William Sound;
 
 &emsp;&emsp;(B) shall be adjusted annually by the Anchorage Consumer Price Index; and
 
@@ -302,7 +302,7 @@ As used in this section, the term—
 
 &emsp;&emsp;(A) in the case of the Prince William Sound Program, the entire oil terminal complex located in Valdez, Alaska, consisting of approximately 1,000 acres including all buildings, docks (except docks owned by the City of Valdez if those docks are not used for loading of crude oil), pipes, piping, roads, ponds, tanks, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, vehicles, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex; and
 
-&emsp;&emsp;(B) in the case of the Cook Inlet Program, the entire oil terminal complex including all buildings, docks, pipes, piping, roads, ponds, tanks, vessels, vehicles, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, emergency spill response vessels owned or operated by the operator of the terminal, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex;
+&emsp;&emsp;(B) in the case of the Cook Inlet Program, the entire oil terminal complex including all buildings, docks, pipes, piping, roads, ponds, tanks, vessels, vehicles, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator ofthe terminal, emergency spill response vessels owned or operated by the operator of the terminal, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex;
 
 &emsp;(2) “crude oil tanker” means a tanker (as that term is defined under section 2101 of title 46)—
 

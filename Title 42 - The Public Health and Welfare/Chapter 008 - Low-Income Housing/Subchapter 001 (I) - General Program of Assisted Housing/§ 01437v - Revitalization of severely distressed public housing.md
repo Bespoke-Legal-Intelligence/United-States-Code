@@ -126,7 +126,7 @@ The Secretary may make—
 
 &emsp;&emsp;(B) a description of the applicant and a statement of its qualifications;
 
-&emsp;&emsp;(C) identification and description of the project involved, and a description of thecomposition of the tenants, including family size and income;
+&emsp;&emsp;(C) identification and description of the project involved, and a description of the composition of the tenants, including family size and income;
 
 &emsp;&emsp;(D) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located; and
 
@@ -208,7 +208,7 @@ For the purposes of this section:
 
 &emsp;&emsp;(C) complies with standards of financial accountability acceptable to the Secretary; and
 
-&emsp;&emsp;(D) has among its purposes significant activities related to the provision of decenthousing that is affordable to very low-income families.
+&emsp;&emsp;(D) has among its purposes significant activities related to the provision of decent housing that is affordable to very low-income families.
 
 #### (3) Public housing agency
 
@@ -286,7 +286,7 @@ Subsec. (h)(3). Pub. L. 104–330 struck out “, except that it does not inclu
 
 Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
-Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996 and 1997, see section 402(f)of Pub. L. 104–99, as amended, set out as a note under section 1437a of this title.
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, and only for fiscal years 1996, 1997, and 1998, see section 402(f) of Pub. L. 104–99, as amended, set out as a note under section 1437a of this title.
 
 #### Section Referred to in Other Sections
 

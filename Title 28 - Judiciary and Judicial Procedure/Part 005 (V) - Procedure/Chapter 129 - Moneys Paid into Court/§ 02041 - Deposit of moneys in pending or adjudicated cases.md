@@ -4,7 +4,7 @@ All moneys paid into any court of the United States, or received by the officers
 
 This section shall not prevent the delivery of any such money to the rightful owners upon security, according to agreement of parties, under the direction of the court.
 
-(June 25, 1948, ch. 646, 62 Stat. 960; Sept. 13, 1982, Pub. L. 97–258, §2(g)(4)(C), 96 Stat. 1061.)
+(June 25, 1948, ch. 646, 62 Stat. 960; Pub. L. 97–258, §2(g)(4)(C), Sept. 13, 1982, 96 Stat. 1061.)
 
 #### Historical and Revision Notes
 
@@ -14,7 +14,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1982—Pub. L. 97–258 substituted “Deposit of moneys in pending or adjudicated cases” for “Deposit” in section catchline.
+<b>1982</b>—Pub. L. 97–258 substituted “Deposit of moneys in pending or adjudicated cases” for “Deposit” in section catchline.
 
 #### Registry Administration Account
 

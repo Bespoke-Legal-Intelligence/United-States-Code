@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(i) clearinghouses;
 
-&emsp;&emsp;&emsp;(ii) parent centers for the parents of infants, toddlers, children, and youth with disabilities served under section 1431(e) of this title;
+&emsp;&emsp;&emsp;(ii) parent centers for the parents of infants, toddlers, children, and youth withdisabilities served under section 1431(e) <sup>1</sup> of this title;
 
 &emsp;&emsp;&emsp;(iii) other organizations and agencies;
 
@@ -59,4 +59,8 @@ In each fiscal year after the first fiscal year a grantee receives assistance un
 #### References in Text
 
 This chapter, referred to in subsec. (a)(2)(C), was in the original “this Act”, meaning Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+
+Section 1431(e) of this title, referred to in subsec. (a)(2)(H)(ii), was in the original a reference to section 631(e) of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 631 of Pub. L. 91–230 was omitted in the general amendment of subchapters III and IV of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 631 of Pub. L. 91–230, relating to findings and policy regarding infants and toddlers with disabilities, which is classified to section 1431 of this title, and which no longer contains a subsec. (e). Provisions relating to parent training and information centers are now contained in section 1482 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

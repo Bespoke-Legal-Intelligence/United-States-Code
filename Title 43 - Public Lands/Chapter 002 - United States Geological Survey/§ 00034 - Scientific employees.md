@@ -2,7 +2,7 @@
 
 The scientific employees of the United States Geological Survey shall be selected by the Director, subject to the approval of the Secretary of the Interior exclusively for their qualifications as professional experts.
 
-(July 7, 1884, ch. 332, 23 Stat. 212; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000.)
+(July 7, 1884, ch. 332, 23 Stat. 212; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
 #### Change of Name
 

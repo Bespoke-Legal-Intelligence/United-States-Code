@@ -96,7 +96,7 @@ As used in this subchapter—
 
 #### References in Text
 
-Chapter 2 of part I of title 5, referred to in par. (3), probably means chapter 1 of part I of title 5, which is classified to section 101 et seq. of Title 5, Government Organization and Employees, and which relates to organization of agencies.
+Chapter 2 of part I of title 5, referred to in par. (3), probably means chapter 1 of part I of title 5, which isclassified to section 101 et seq. of Title 5, Government Organization and Employees, and which relates to organization of agencies.
 
 #### Amendments
 

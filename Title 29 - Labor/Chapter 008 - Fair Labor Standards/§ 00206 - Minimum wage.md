@@ -60,7 +60,7 @@ Any employee—
 
 (4) This subsection shall only apply to an employee who has not attained the age of 20 years.
 
-(June 25, 1938, ch. 676, §6, 52 Stat. 1062; June 26, 1940, ch. 432, §3(e), (f), 54 Stat. 616; Oct. 26, 1949,ch. 736, §6, 63 Stat. 912; Aug. 12, 1955, ch. 867, §3, 69 Stat. 711; Aug. 8, 1956, ch. 1035, §2, 70 Stat. 1118; May 5, 1961, Pub. L. 87–30, §5, 75 Stat. 67; June 10, 1963, Pub. L. 88–38, §3, 77 Stat. 56; Sept. 23, 1966, Pub. L. 89–601, title III, §§301–305, 80 Stat. 838, 839, 841; Apr. 8, 1974, Pub. L. 93–259, §§2–4, 5(b), 7(b)(1), 88 Stat. 55, 56, 62; Nov. 1, 1977, Pub. L. 95–151, §2(a)–(d)(2), 91 Stat. 1245, 1246; Nov. 17, 1989, Pub. L. 101–157, §§2, 4(b), 103 Stat. 938, 940; Dec. 19, 1989, Pub. L. 101–239, title X, §10208(d)(2)(B)(i), 103 Stat. 2481; Aug. 20, 1996, Pub. L. 104–188, \[title II\], §§2104(b), (c), 2105(c), 110 Stat. 1928, 1929.)
+(June 25, 1938, ch. 676, §6, 52 Stat. 1062; June 26, 1940, ch. 432, §3(e), (f), 54 Stat. 616; Oct. 26, 1949,ch. 736, §6, 63 Stat. 912; Aug. 12, 1955, ch. 867, §3, 69 Stat. 711; Aug. 8, 1956, ch. 1035, §2, 70 Stat. 1118; Pub. L. 87–30, §5, May 5, 1961, 75 Stat. 67; Pub. L. 88–38, §3, June 10, 1963, 77 Stat. 56; Pub. L. 89–601, title III, §§301–305, Sept. 23, 1966, 80 Stat. 838, 839, 841; Pub. L. 93–259, §§2–4, 5(b), 7(b)(1), Apr. 8, 1974, 88 Stat. 55, 56, 62; Pub. L. 95–151, §2(a)–(d)(2), Nov. 1, 1977, 91 Stat. 1245, 1246; Pub. L. 101–157, §§2, 4(b), Nov. 17, 1989, 103 Stat. 938, 940; Pub. L. 101–239, title X, §10208(d)(2)(B)(i), Dec. 19, 1989, 103 Stat. 2481; Pub. L. 104–188, \[title II\], §§2104(b), (c), 2105(c), Aug. 20, 1996, 110 Stat. 1928, 1929.)
 
 #### References in Text
 

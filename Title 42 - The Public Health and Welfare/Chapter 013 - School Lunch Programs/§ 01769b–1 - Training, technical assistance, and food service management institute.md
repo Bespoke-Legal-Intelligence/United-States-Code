@@ -100,11 +100,11 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (B) Additional funding
 
-&emsp;&emsp;In addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out subsection (a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under subparagraph (A), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
+&emsp;&emsp;In addition to amounts made available under subparagraph (A), there are authorizedto be appropriated to carry out subsection (a)(2) of this section such sums as are necessary for fiscal year 1995 and each subsequent fiscal year. The Secretary shall carry out activities under subsection (a)(2) of this section, in addition to the activities funded under subparagraph (A), to the extent provided for, and in such amounts as are provided for, in advance in appropriations Acts.
 
 #### (C) Funding for education, training, or applied research or studies
 
-&emsp;&emsp;In addition to amounts made available under subparagraphs (A) and (B), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional fundingunder this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
+&emsp;&emsp;In addition to amounts made available under subparagraphs (A) and (B), from amounts otherwise appropriated to the Secretary in discretionary appropriations, the Secretary may provide funds to any food service management institute established under subsection (a)(2) of this section for projects specified by the Secretary that will contribute to implementing dietary or nutrition initiatives. Any additional funding under this subparagraph shall be provided noncompetitively in a separate cooperative agreement.
 
 (June 4, 1946, ch. 281, §21, as added Nov. 10, 1989, Pub. L. 101–147, title I, §109, 103 Stat. 887; amended Aug. 7, 1992, Pub. L. 102–337, §1, 106 Stat. 865; Nov. 2, 1994, Pub. L. 103–448, title I, §120, 108 Stat. 4726.)
 

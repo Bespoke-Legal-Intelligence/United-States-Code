@@ -1,6 +1,6 @@
 ### §12311. Active duty agreements
 
-(a) To provide definite terms of active duty (other than for training) for Reserves with their consent, the Secretary concerned may make a standard written agreement with any member of a reserve component under his jurisdiction requiring the member to serve for a period of active duty (other than for training) of not more than five years. When such an agreement expires, a new one may be made. This subsection does not apply in time of war declared by Congress.
+(a) To provide definite terms of active duty (other than for training) for Reserves with their consent, the Secretary concerned may make a standard written agreement with any member of a reserve component under his jurisdiction requiring the member to serve for a period of active duty (other than for training) of not more than five years. When such an agreement expires, a new one may be made. This subsectiondoes not apply in time of war declared by Congress.
 
 (b) An agreement may not be made under subsection (a) unless the specified period of duty is at least 12 months longer than any period of active duty that the member is otherwise required to perform.
 

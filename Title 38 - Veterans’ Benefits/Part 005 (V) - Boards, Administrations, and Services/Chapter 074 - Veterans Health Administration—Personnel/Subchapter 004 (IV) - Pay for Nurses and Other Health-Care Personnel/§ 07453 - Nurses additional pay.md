@@ -4,9 +4,9 @@
 
 (b) A nurse performing service on a tour of duty, any part of which is within the period commencing at 6 postmeridian and ending at 6 antemeridian, shall receive additional pay for each hour of service on such tour at a rate equal to 10 percent of the nurse's hourly rate of basic pay if at least four hours of such tour fall between 6 postmeridian and 6 antemeridian. When less than four hours of such tour fall between 6 postmeridian and 6 antemeridian, the nurse shall be paid the differential for each hour of service performed between those hours.
 
-(c) A nurse performing service on a tour of duty, any part of which is within the period commencing at midnight Friday and ending at midnight Sunday, shall receive additional pay for each hour of service on such tour at a rate equal to 25 percent of such nurse's hourly rate of basic pay.
+(c) A nurse performing service on a tour of duty, any part of which is within the periodcommencing at midnight Friday and ending at midnight Sunday, shall receive additional pay for each hour of service on such tour at a rate equal to 25 percent of such nurse's hourly rate of basic pay.
 
-(d) A nurse performing service on a holiday designated by Federal statute or Executive order shall receive for each hour of such service the nurse's hourly rate of basic pay, plus additional pay at a rate equal to such hourly rate of basic pay, for that holiday service, including overtime service. Any service required to be performed by a nurse on such a designated holidayshall be deemed to be a minimum of two hours in duration.
+(d) A nurse performing service on a holiday designated by Federal statute or Executive order shall receive for each hour of such service the nurse's hourly rate of basic pay, plus additional pay at a rate equal to such hourly rate of basic pay, for that holiday service, including overtime service. Any service required to be performed by a nurse on such a designated holiday shall be deemed to be a minimum of two hours in duration.
 
 (e)(1) A nurse performing officially ordered or approved hours of service in excess of 40 hours in an administrative workweek, or in excess of eight hours in a day, shall receive overtime pay for each hour of such additional service. The overtime rates shall be one and one-half times such nurse's hourly rate of basic pay.
 

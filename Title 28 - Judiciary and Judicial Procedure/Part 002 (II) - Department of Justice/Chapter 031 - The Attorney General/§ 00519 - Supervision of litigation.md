@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 28 U.S.C. 507(b).
 
@@ -68,7 +70,7 @@ Section 1. <i>Guidelines to Promote Just and Efficient Government Civil Litigati
 
 (e) <i>Sanctions</i>. Litigation counsel shall take steps to seek sanctions against opposing counsel and opposing parties where appropriate.
 
-(1) Litigation counsel shall evaluate filings made by opposing parties and, where appropriate, shall petitionthe court to impose sanctions against those responsible for abusive practices.
+(1) Litigation counsel shall evaluate filings made by opposing parties and, where appropriate, shall petition the court to impose sanctions against those responsible for abusive practices.
 
 (2) Prior to filing a motion for sanctions, litigation counsel shall submit the motion for review to the sanctions officer, or his or her designee, within the litigation counsel's agency. Such officer or designee shall be a senior supervising attorney within the agency, and shall be licensed to practice law before a State court, courts of the District of Columbia, or courts of any territory or Commonwealth of the United States. The sanctions officer or designee shall also review motions for sanctions that are filed against litigation counsel, the United States, its agencies, or its officers.
 
@@ -154,7 +156,7 @@ Sec. 3. <i>Principles to Enact Legislation and Promulgate Regulations Which Do N
 
 Sec. 4. <i>Principles to Promote Just and Efficient Administrative Adjudications.</i>
 
-(a) <i>Implementation of Administrative Conference Recommendations</i>. In order to promote just and efficient resolution of disputes, an agency that adjudicates administrative claims shall, to the extent reasonable and practicable, and when not in conflict with other sections of this order, implement the recommendations of the Administrative Conference of the United States, entitled“Case Management as a Tool for Improving Agency Adjudication,” as contained in 1 C.F.R. 305.86-7 (1991).
+(a) <i>Implementation of Administrative Conference Recommendations</i>. In order to promote just and efficient resolution of disputes, an agency that adjudicates administrative claims shall, to the extent reasonable and practicable, and when not in conflict with other sections of this order, implement the recommendations of the Administrative Conference of the United States, entitled “Case Management as a Tool for Improving Agency Adjudication,” as contained in 1 C.F.R. 305.86-7 (1991).
 
 (b) <i>Improvements in Administrative Adjudication</i>. All Federal agencies should review their administrative adjudicatory processes and develop specific procedures to reduce delay in decision-making, to facilitate self-representation where appropriate, to expand non-lawyer counseling and representation where appropriate, and to invest maximum discretion in fact-finding officers to encourage appropriate settlement of claims as early as possible.
 

@@ -64,7 +64,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 &emsp;(3) a payment rate for the type of crop (as determined by the Secretary) that—
 
-&emsp;&emsp;(A) in the case of a crop that is produced with a significant and variable harvestingexpense, reflects the decreasing cost incurred in the production cycle for the crop that is—
+&emsp;&emsp;(A) in the case of a crop that is produced with a significant and variable harvesting expense, reflects the decreasing cost incurred in the production cycle for the crop that is—
 
 &emsp;&emsp;&emsp;(i) harvested;
 

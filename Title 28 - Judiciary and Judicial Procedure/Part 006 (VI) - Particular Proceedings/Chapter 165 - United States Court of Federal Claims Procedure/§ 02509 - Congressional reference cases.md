@@ -12,9 +12,9 @@
 
 (f) Any act or failure to act or other conduct by a party, a witness, or an attorney which would call for the imposition of sanctions under the rules of practice of the Court of Federal Claims shall be noted by the panel or the hearing officer at the time of occurrence thereof and upon failure of the delinquent or offending party, witness, or attorney to make prompt compliance with the order of the panel or the hearing officer a full statement of the circumstances shall be incorporated in the report of the panel.
 
-(g) The Court of Federal Claims is hereby authorized and directed, under such regulations asit may prescribe, to provide the facilities and services of the office of the clerk of the court for the filing, processing, hearing, and dispatch of congressional reference cases and to include within its annual appropriations the costs thereof and other costs of administration, including (but without limitation to the items herein listed) the salaries and traveling expenses of the judges serving as hearing officers and panel members, mailing and service of process, necessary physical facilities, equipment, and supplies, and personnel (including secretaries and law clerks).
+(g) The Court of Federal Claims is hereby authorized and directed, under such regulations as it may prescribe, to provide the facilities and services of the office of the clerk of the court for the filing, processing, hearing, and dispatch of congressional reference cases and to include within its annual appropriations the costs thereof and other costs of administration, including (but without limitation to the items herein listed) the salaries and traveling expenses of the judges serving as hearing officers and panel members, mailing and service of process, necessary physical facilities, equipment, and supplies, and personnel (including secretaries and law clerks).
 
-(June 25, 1948, ch. 646, 62 Stat. 977; Oct. 15, 1966, Pub. L. 89–681, §2, 80 Stat. 958; Apr. 2, 1982, Pub. L. 97–164, title I, §139(h), 96 Stat. 42; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; Pub. L. 89–681, §2, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, title I, §139(h), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -28,11 +28,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsecs. (b), (f), (g). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-1982—Subsec. (a). Pub. L. 97–164, §139(h)(1), substituted “chief judge” for “chief commissioner” wherever appearing, “United States Claims Court” for “Court of Claims”, “judge as hearing officer” for “trial commissioner”, “judges” for “commissioners”, and “presiding officer” for “presiding commissioner”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §139(h)(1), substituted “chief judge” for “chief commissioner” wherever appearing, “United States Claims Court” for “Court of Claims”, “judge as hearing officer” for “trial commissioner”, “judges” for “commissioners”, and “presiding officer” for “presiding commissioner”.
 
 Subsec. (b). Pub. L. 97–164, §139(h)(2)(A)–(C), substituted “chief judge” for “chief commissioner”, “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner”.
 
@@ -46,7 +46,7 @@ Subsec. (f). Pub. L. 97–164, §139(h)(2)(A), (C), substituted “Claims Court�
 
 Subsec. (g). Pub. L. 97–164, §139(h)(2)(C), (E), substituted “Claims Court” for “Court of Claims” and “judges serving as hearing officers” for “commissioners serving as trial commissioners”.
 
-1966—Pub. L. 89–681 substituted provisions for reference of bills to the chief commissioner of the Court of Claims pursuant to section 1492 of this title for provisions calling simply for reference to the Court of Claims, substituted provisions naming the trial commissioner to whom a reference case is assigned by the chief commissioner for provisions simply naming the Court of Claims as the agency by which findings and conclusions are made, and inserted provisions for the designation of a trial commissioner and reviewing body consisting of three other commissioners, the promulgation of rules and regulations for Congressional reference cases by the chief commissioner, the procedure to be followed, and the supplying of facilities and personnel for the dispatch of Congressional reference cases.
+<b>1966</b>—Pub. L. 89–681 substituted provisions for reference of bills to the chief commissioner of the Court of Claims pursuant to section 1492 of this title for provisions calling simply for reference to the Court of Claims, substituted provisions naming the trial commissioner to whom a reference case is assigned by the chief commissioner for provisions simply naming the Court of Claims as the agency by which findings and conclusions are made, and inserted provisions for the designation of a trial commissioner and reviewing body consisting of three other commissioners, the promulgation of rules and regulations for Congressional reference cases by the chief commissioner, the procedure to be followed, and the supplying of facilities and personnel for the dispatch of Congressional reference cases.
 
 #### Effective Date of 1992 Amendment
 

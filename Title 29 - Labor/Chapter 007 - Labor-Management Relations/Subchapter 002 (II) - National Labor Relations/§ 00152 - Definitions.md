@@ -34,7 +34,7 @@ When used in this subchapter—
 
 &emsp;(14) The term “health care institution” shall include any hospital, convalescent hospital, health maintenance organization, health clinic, nursing home, extended care facility, or other institution devoted to the care of sick, infirm, or aged person.
 
-(July 5, 1935, ch. 372, §2, 49 Stat. 450; June 23, 1947, ch. 120, title I, §101, 61 Stat. 137; July 26, 1974, Pub. L. 93–360, §1(a), (b), 88 Stat. 395; Nov. 6, 1978, Pub. L. 95–598, title III, §319, 92 Stat. 2678.)
+(July 5, 1935, ch. 372, §2, 49 Stat. 450; June 23, 1947, ch. 120, title I, §101, 61 Stat. 137; Pub. L. 93–360, §1(a), (b), July 26, 1974, 88 Stat. 395; Pub. L. 95–598, title III, §319, Nov. 6, 1978, 92 Stat. 2678.)
 
 #### References in Text
 

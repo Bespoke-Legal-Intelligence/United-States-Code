@@ -6,13 +6,13 @@ Appointment and Terms.—Amtrak has a President and other officers that are name
 
 (b)
 
-Pay.—The board may fix the pay of the officers of Amtrak. An officer may not be paid more than the general level of pay for officers of rail carriers with comparable responsibility.
+Pay.—The board may fix the pay of the officers of Amtrak. An officer may not be paid more than the general level of pay for officers of rail carriers with comparable responsibility. The preceding sentence shall not apply for any fiscal year for which no Federal assistance is provided to Amtrak.
 
 (c)
 
 Conflicts of Interest.—When employed by Amtrak, an officer may not have a financial or employment relationship with another rail carrier, except that holding securities issued by a rail carrier is not deemed to be a violation of this subsection if the officer holding the securities makes a complete public disclosure of the holdings and does not participate in any decision directly affecting the rail carrier.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 907.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 907; Pub. L. 105–134, title II, §207, Dec. 2, 1997, 111 Stat. 2584.)
 
 Historical and Revision Notes
 
@@ -43,4 +43,8 @@ In subsection (a), the words “of directors of Amtrak” are added for clarity.
 In subsection (b), the words “rates of”, “president and other”, and “at a level” are omitted as surplus.
 
 In subsection (c), the words “direct or indirect” are omitted as surplus. The word “another” is substituted for “any” for clarity.
+
+#### Amendments
+
+1997—Subsec. (b). Pub. L. 105–134 inserted at end “The preceding sentence shall not apply for any fiscal year for which no Federal assistance is provided to Amtrak.”
 

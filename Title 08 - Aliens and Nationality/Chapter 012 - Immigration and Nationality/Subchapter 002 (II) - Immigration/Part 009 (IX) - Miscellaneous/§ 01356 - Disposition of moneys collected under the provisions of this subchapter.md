@@ -98,7 +98,7 @@ In accordance with the provisions of the Federal Advisory Committee Act, the Att
 
 #### (<i>l</i>) Report to Congress
 
-In addition to the reporting requirements established pursuant to subsection (h) of this section, the Attorney General shall prepare and submit annually to the Congress, not later than March 31st of each year, a statement of the financial condition of the “Immigration User Fee Account” including beginning account balance, revenues, withdrawals and their purpose, ending balance, projections for the ensuing fiscal year and a full and complete workload analysis showing on a port by port basis the current and projected need for inspectors. The statement shall indicate the success rate of the Immigration and Naturalization Service in meeting the forty-five minute inspection standard and shall provide detailed statistics regarding the number of passengers inspected within the standard, progress that is being made to expand the utilization ofUnited States citizen by-pass, the number of passengers for whom the standard is not met and the length of their delay, locational breakdown of these statistics and the steps being taken to correct any nonconformity.
+In addition to the reporting requirements established pursuant to subsection (h) of this section, the Attorney General shall prepare and submit annually to the Congress, not later than March 31st of each year, a statement of the financial condition of the “Immigration User Fee Account” including beginning account balance, revenues, withdrawals and their purpose, ending balance, projections for the ensuing fiscal year and a full and complete workload analysis showing on a port by port basis the current and projected need for inspectors. The statement shall indicate the success rate of the Immigration and Naturalization Service in meeting the forty-five minute inspection standard and shall provide detailed statistics regarding the number of passengers inspected within the standard, progress that is being made to expand the utilization of United States citizen by-pass, the number of passengers for whom the standard is not met and the length of their delay, locational breakdown of these statistics and the steps being taken to correct any nonconformity.
 
 #### (m) Immigration Examinations Fee Account
 
@@ -106,7 +106,7 @@ Notwithstanding any other provisions of law, all adjudication fees as are design
 
 #### (n) Reimbursement of administrative expenses; transfer of deposits to General Fund of United States Treasury
 
-All deposits into the “Immigration Examinations Fee Account” shall remain available until expended to the Attorney General to reimburse any appropriation the amount paid out of such appropriation for expenses in providing immigration adjudication and naturalization services and the collection, safeguarding and accounting for fees deposited in and funds reimbursed from the “Immigration Examinations Fee Account”.
+All deposits into the “Immigration Examinations Fee Account” shall remain available untilexpended to the Attorney General to reimburse any appropriation the amount paid out of such appropriation for expenses in providing immigration adjudication and naturalization services and the collection, safeguarding and accounting for fees deposited in and funds reimbursed from the “Immigration Examinations Fee Account”.
 
 #### (<i>o</i>) Annual financial reports to Congress
 
@@ -152,33 +152,21 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 (1) Notwithstanding any other provision of law, there is established in the general fund of the Treasury a separate account which shall be known as the Breached Bond/Detention Fund (in this subsection referred to as the “Fund”).
 
-(2) There shall be deposited as offsetting receipts into the Fund all breached cash and surety bonds, in excess of $8,000,000, posted under this chapter which are recovered by the Department of Justice.
+(2) There shall be deposited as offsetting receipts into the Fund all breached cash and surety bonds, in excess of $8,000,000, posted under this chapter which are recovered by the Department of Justice, and amount <sup>3</sup> described in section 1255(i)(3)(b) <sup>4</sup> of this title.
 
-(3) Such amounts as are deposited into the Fund shall remain available until expended and shall be refunded out of the Fund by the Secretary of the Treasury, at least on a quarterly basis, to the Immigration and Naturalization Service for the following purposes—
+(3) Such amounts as are deposited into the Fund shall remain available until expended and shall be refunded out of the Fund by the Secretary of the Treasury, at least on a quarterly basis, to the Attorney General for the following purposes—
 
 &emsp;(i) for expenses incurred in the collection of breached bonds, and
 
 &emsp;(ii) for expenses associated with the detention of illegal aliens.
 
-(4) The amount required to be refunded from the Fund for fiscal year 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years: <i>Provided</i>, That any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 606 of Public Law 102–395.
+(4) The amounts required to be refunded from the Fund for fiscal year 1998 and thereafter shall be refunded in accordance with estimates made in the budget request of the President for those fiscal years. Any proposed changes in the amounts designated in such budget requests shall only be made after Congressional reprogramming notification in accordance with the reprogramming guidelines for the applicable fiscal year.
 
 (5) The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the Fund, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.
 
 (6) For fiscal year 1993 only, the Attorney General may transfer up to $1,000,000 from the Immigration User Fee Account to the Fund for initial expenses necessary to enhance collection efforts: <i>Provided</i>, That any such transfers shall be refunded from the Fund back to the Immigration User Fee Account by December 31, 1993.
 
-#### (s) Immigration Detention Account
-
-(1) There is established in the general fund of the Treasury a separate account which shall be known as the “Immigration Detention Account”. Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the Immigration Detention Account amounts described in section 1255(i)(3)(B) of this title to remain available until expended.
-
-(2)(A) The Secretary of the Treasury shall refund out of the Immigration Detention Account to any appropriation the amount paid out of such appropriation for expenses incurred by the Attorney General for the detention of aliens under sections 1226(c) and 1231(a) of this title.
-
-(B) The amounts which are required to be refunded under subparagraph (A) shall be refunded at least quarterly on the basis of estimates made by the Attorney General of the expenses referred to in subparagraph (A). Proper adjustments shall be made in the amounts subsequently refunded under subparagraph (A) to the extent prior estimates were in excess of, or less than, the amount required to be refunded under subparagraph (A).
-
-(C) The amounts required to be refunded from the Immigration Detention Account for fiscal year 1997 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years. Any proposed changes in the amounts designated in such budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 605 of Public Law 104–134.
-
-(D) The Attorney General shall prepare and submit annually to the Congress statements of financial condition of the Immigration Detention Account, including beginning account balance, revenues, withdrawals, and ending account balance and projection for the ensuing fiscal year.
-
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Dec. 29, 1981, Pub. L. 97–116, §13, 95 Stat. 1618; Oct. 18, 1986, Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], 100 Stat. 1783–39, 1783–53, renumbered §205(a), Oct. 24, 1988, Pub. L. 100–525, §4(a)(2)(A), 102 Stat. 2615; Oct. 30, 1986, Pub. L. 99–591, §101(b) \[title II, §205\], 100 Stat. 3341–39, 3341–53; Nov. 14, 1986, Pub. L. 99–653, §7(d)(1), as added Oct. 24, 1988, Pub. L. 100–525, §8(f), 102 Stat. 2617; July 11, 1987, Pub. L. 100–71, title I, §1, 101 Stat. 394; Oct. 1, 1988, Pub. L. 100–459, title II, §209(a), 102 Stat. 2203; Oct. 24, 1988, Pub. L. 100–525, §4(a)(1), (d), 102 Stat. 2614, 2615; Nov. 21, 1989, Pub. L. 101–162, title II, 103 Stat. 1000; Nov. 5, 1990, Pub. L. 101–515, title II, §210(a), (d), 104 Stat. 2120, 2121; Dec. 12, 1991, Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), 105 Stat. 1757–1759; Oct. 6, 1992, Pub. L. 102–395, title I, §112, 106 Stat. 1843; Oct. 27, 1993, Pub. L. 103–121, title I, 107 Stat. 1161; Oct. 25, 1994, Pub. L. 103–416, title II, §219(t), 108 Stat. 4317; Sept. 30, 1996, Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Dec. 29, 1981, Pub. L. 97–116, §13, 95 Stat. 1618; Oct. 18, 1986, Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], 100 Stat. 1783–39, 1783–53, renumbered §205(a), Oct. 24, 1988, Pub. L. 100–525, §4(a)(2)(A), 102 Stat. 2615; Oct. 30, 1986, Pub. L. 99–591, §101(b) \[title II, §205\], 100 Stat. 3341–39, 3341–53; Nov. 14, 1986, Pub. L. 99–653, §7(d)(1), as added Oct. 24, 1988, Pub. L. 100–525, §8(f), 102 Stat. 2617; July 11, 1987, Pub. L. 100–71, title I, §1, 101 Stat. 394; Oct. 1, 1988, Pub. L. 100–459, title II, §209(a), 102 Stat. 2203; Oct. 24, 1988, Pub. L. 100–525, §4(a)(1), (d), 102 Stat. 2614, 2615; Nov. 21, 1989, Pub. L. 101–162, title II, 103 Stat. 1000; Nov. 5, 1990, Pub. L. 101–515, title II, §210(a), (d), 104 Stat. 2120, 2121; Dec. 12, 1991, Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), 105 Stat. 1757–1759; Oct. 6, 1992, Pub. L. 102–395, title I, §112, 106 Stat. 1843; Oct. 27, 1993, Pub. L. 103–121, title I, 107 Stat. 1161; Oct. 25, 1994, Pub. L. 103–416, title II, §219(t), 108 Stat. 4317; Sept. 30, 1996, Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Nov. 26, 1997, Pub. L. 105–119, title I, §110(1), (2), 111 Stat. 2457.)
 
 #### References in Text
 
@@ -188,11 +176,15 @@ The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–
 
 Section 606 of Public Law 101–162, referred to in subsec. (q)(3)(B), is section 606 of Pub. L. 101–162, title VI, Nov. 21, 1989, 103 Stat. 1031, which is not classified to the Code.
 
-Section 606 of Public Law 102–395, referred to in subsec. (r)(4), is section 606 of Pub. L. 102–395, 106 Stat. 1873, which is not classified to the Code.
-
-Section 605 of Public Law 104–134, referred to in subsec. (s)(2)(C), is section 101\[(a)\] \[title VI, §605\] of Pub. L. 104–134, title I, Apr. 26, 1996, 110 Stat. 1321, 1321–63, which is not classified to the Code.
-
 #### Amendments
+
+1997—Subsec. (r)(2). Pub. L. 105–119, §110(2)(A), inserted “, and amount described in section 1255(i)(3)(b) of this title” after “recovered by the Department of Justice”.
+
+Subsec. (r)(3). Pub. L. 105–119, §110(2)(B), substituted “Attorney General” for “Immigration and Naturalization Service” in introductory provisions.
+
+Subsec. (r)(4). Pub. L. 105–119, §110(2)(C), added par. (4) and struck out former par. (4) which read as follows: “The amount required to be refunded from the Fund for fiscal year 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years: <i>Provided</i>, That any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 606 of Public Law 102–395.”
+
+Subsec. (s). Pub. L. 105–119, §110(1), struck out heading and text of subsec. (s) which established Immigration Detention Account in general fund of the Treasury to be drawn upon to refund to any appropriation amounts paid out for expenses incurred by Attorney General for detention of aliens.
 
 1996—Subsec. (a). Pub. L. 104–208, §308(g)(1), substituted “section 1223(b)” for “section 1228(b)”.
 
@@ -401,4 +393,8 @@ This section is referred to in sections 1158, 1255, 1372, 1455 of this title.
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be clause “(i)”.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be section “1255(i)(3)(B)”.</i>
 

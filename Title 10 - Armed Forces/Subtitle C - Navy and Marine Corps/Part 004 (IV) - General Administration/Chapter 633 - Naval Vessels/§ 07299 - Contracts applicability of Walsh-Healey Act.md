@@ -10,5 +10,5 @@ The Walsh-Healey Act, referred to in text, is act June 30, 1936, ch. 881, 49 Sta
 
 #### Prior Provisions
 
-A prior section 7299, acts Aug. 10, 1956, ch. 1041, 70A Stat. 449; Aug. 25, 1958, Pub. L. 85–747, 72 Stat. 839; Dec. 12, 1980, Pub. L. 96–513, title V, §513(26), 94 Stat. 2932; Oct. 12, 1982, Pub. L. 97–295, §1(47), 96 Stat. 1298, directed that each contract for construction, alteration, furnishing, or equipping of naval vessel was subject to the Walsh-Healey Act, unless President determined that such requirement was not in interest of national defense, prior to repeal by Pub. L. 103–355, title III, §3023(a), Oct. 13, 1994, 108 Stat. 3333.
+A prior section 7299, acts Aug. 10, 1956, ch. 1041, 70A Stat. 449; Aug. 25, 1958, Pub. L. 85–747, 72 Stat. 839; Dec. 12, 1980, Pub. L. 96–513, title V, §513(26), 94 Stat. 2932; Oct. 12, 1982, Pub. L. 97–295, §1(47), 96 Stat. 1298, directedthat each contract for construction, alteration, furnishing, or equipping of naval vessel was subject to the Walsh-Healey Act, unless President determined that such requirement was not in interest of national defense, prior to repeal by Pub. L. 103–355, title III, §3023(a), Oct. 13, 1994, 108 Stat. 3333.
 

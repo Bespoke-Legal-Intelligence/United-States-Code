@@ -8,11 +8,13 @@
 | \[7474, 7475. Repealed.\] |  |
 | [7476\.](%C2%A7%2007476%20-%20Administration%20of%20oaths%20by%20clerks%20and%20employees.md) | Administration of oaths by clerks and employees. |
 | [7477\.](%C2%A7%2007477%20-%20Transportation%20of%20dependents%20and%20household%20effects%20of%20civilian%20personnel%20stationed%20outside%20the%20United%20States%20payment%20in%20lieu%20of%E2%80%A6.md) | Transportation of dependents and household effects of civilian personnel stationed outside the United States: payment in lieu of transportation. |
-| [7478\.](%C2%A7%2007478%20-%20Naval%20War%20College%20and%20Marine%20Corps%20Command%20and%20Staff%20College%20civilian%20faculty%20members.md) | Naval War College and Marine Corps Command and Staff College: civilian faculty members. |
+| [7478\.](%C2%A7%2007478%20-%20Naval%20War%20College%20and%20Marine%20Corps%20University%20civilian%20faculty%20members.md) | Naval War College and Marine Corps University: civilian faculty members. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title XI, §1109(b)(2), Nov. 18, 1997, 111 Stat. 1927, substituted “Marine Corps University” for “Marine Corps Command and Staff College” in item 7478.
 
 1989—Pub. L. 101–189, div. A, title XI, §1124(c)(2), Nov. 29, 1989, 103 Stat. 1559, substituted “Naval War College and Marine Corps Command and Staff College: civilian faculty members” for “Naval War College: employment of civilian professors; compensation” in item 7478.
 
@@ -34,4 +36,4 @@
 - [&sect; 07475 - Repealed. Pub. L. 86&#8211;148, &sect;1(1), Aug. 7, 1959, 73 Stat. 302](%C2%A7%2007475%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93148%2C%20%C2%A71%281%29%2C%20Aug.%207%2C%201959%2C%2073%20Stat.%20302.md)
 - [&sect; 07476 - Administration of oaths by clerks and employees](%C2%A7%2007476%20-%20Administration%20of%20oaths%20by%20clerks%20and%20employees.md)
 - [&sect; 07477 - Transportation of dependents and household effects of civilian personnel stationed outside the United States payment in lieu of&#8230;](%C2%A7%2007477%20-%20Transportation%20of%20dependents%20and%20household%20effects%20of%20civilian%20personnel%20stationed%20outside%20the%20United%20States%20payment%20in%20lieu%20of%E2%80%A6.md)
-- [&sect; 07478 - Naval War College and Marine Corps Command and Staff College civilian faculty members](%C2%A7%2007478%20-%20Naval%20War%20College%20and%20Marine%20Corps%20Command%20and%20Staff%20College%20civilian%20faculty%20members.md)
+- [&sect; 07478 - Naval War College and Marine Corps University civilian faculty members](%C2%A7%2007478%20-%20Naval%20War%20College%20and%20Marine%20Corps%20University%20civilian%20faculty%20members.md)

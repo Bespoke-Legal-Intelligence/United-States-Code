@@ -14,7 +14,7 @@
 
 (c) In any case where the amount to be received by the United States is not more than $100,000, the Secretary may delegate his authority under this section to any person designated by him.
 
-(d) Upon acceptance of payment by the Secretary, the settlement or compromise of a claim under this section is final and conclusive notwithstanding any other provision of law.
+(d) Upon acceptance of payment by the Secretary, the settlement or compromise of a claimunder this section is final and conclusive notwithstanding any other provision of law.
 
 (e) This section does not apply to any claim while there is pending as to that claim a suit filed by or against the United States.
 

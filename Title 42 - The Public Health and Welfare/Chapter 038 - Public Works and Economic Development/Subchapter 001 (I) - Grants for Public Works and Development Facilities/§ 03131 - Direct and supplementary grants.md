@@ -34,7 +34,7 @@ The Secretary shall prescribe rules, regulations, and procedures to carry out th
 
 The Secretary shall prescribe regulations which will assure that appropriate local governmental authorities have been given a reasonable opportunity to review and comment upon proposed projects under this section.
 
-(Pub. L. 89–136, title I, §101, Aug. 26, 1965, 79 Stat. 552; Pub. L. 91–123, title III, §301(1), Nov. 25, 1969, 83 Stat. 219; Pub. L. 92–65, title I, §102, Aug. 5, 1971, 85 Stat. 166; Pub. L. 94–487, title I, §103, Oct. 12, 1976, 90 Stat. 2331.)
+(Pub. L. 89–136, title I, §101, Aug. 26, 1965, 79 Stat. 552; Pub. L. 91–123, title III, §301(1), Nov. 25,1969, 83 Stat. 219; Pub. L. 92–65, title I, §102, Aug. 5, 1971, 85 Stat. 166; Pub. L. 94–487, title I, §103, Oct. 12, 1976, 90 Stat. 2331.)
 
 #### References in Text
 

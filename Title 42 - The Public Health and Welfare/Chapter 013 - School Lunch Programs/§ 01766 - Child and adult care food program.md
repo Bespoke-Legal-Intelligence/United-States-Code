@@ -56,7 +56,7 @@ For the fiscal year ending September 30, 1979, and for each subsequent fiscal ye
 
 (1) Funds paid to any State under this section shall be disbursed to eligible institutions by the State under agreements approved by the Secretary. Disbursements to any institution shall be made only for the purpose of assisting in providing meals to children attending institutions, or in family or group day care homes. Disbursement to any institution shall not be dependent upon the collection of moneys from participating children. All valid claims from such institutions shall be paid within forty-five days of receipt by the State. The State shall notify the institution within fifteen days of receipt of a claim if the claim as submitted is not valid because it is incomplete or incorrect.
 
-(2)(A) Subject to subparagraph (B) of this paragraph, the disbursement for any fiscal year to any State for disbursement to institutions, other than family or group day care home sponsoring organizations, for meals provided under this section shall be equal to the sum of theproducts obtained by multiplying the total number of each type of meal (breakfast, lunch or supper, or supplement) served in such institution in that fiscal year by the applicable national average payment rate for each such type of meal, as determined under subsection (c) of this section.
+(2)(A) Subject to subparagraph (B) of this paragraph, the disbursement for any fiscal year to any State for disbursement to institutions, other than family or group day care home sponsoring organizations, for meals provided under this section shall be equal to the sum of the products obtained by multiplying the total number of each type of meal (breakfast, lunch or supper, or supplement) served in such institution in that fiscal year by the applicable national average payment rate for each such type of meal, as determined under subsection (c) of this section.
 
 (B) No reimbursement may be made to any institution under this paragraph, or to family or group day care home sponsoring organizations under paragraph (3) of this subsection, for more than two meals and one supplement per day per child, or in the case of an institution (but not in the case of a family or group day care home sponsoring organization), 2 meals and 1 supplement per day per child, for children that are maintained in a child care setting for eight or more hours per day.
 
@@ -116,7 +116,7 @@ Adjustments.—The factors shall be adjusted on July 1, 1997, and each July 1 th
 
 &emsp;&emsp;&emsp;&emsp;(cc)
 
-Reimbursement.—A family or group day care home shall be provided reimbursement factors under this subclause without a requirement for documentation of the costs described in clause (i), except that reimbursement shall not be provided under this subclause for meals or supplements served to the children of a person acting as a family or group day care home provider unless the children meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title.
+Reimbursement.—A family or group day care home shall be provided reimbursement factors under this subclause without a requirement for documentation of the costs described in clause (i), except that reimbursement shall not be provided under this subclause for meals or supplements served to the children of a person acting as a family or group day care home providerunless the children meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -124,7 +124,7 @@ Other factors.—A family or group day care home that does not meet the criteria
 
 &emsp;&emsp;&emsp;&emsp;(aa)
 
-Children eligible for free or reduced price meals.—In the case of meals or supplements served under this subsection to children who are membersof households whose incomes meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title, the family or group day care home shall be provided reimbursement factors set by the Secretary in accordance with clause (ii)(III).
+Children eligible for free or reduced price meals.—In the case of meals or supplements served under this subsection to children who are members of households whose incomes meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title, the family or group day care home shall be provided reimbursement factors set by the Secretary in accordance with clause (ii)(III).
 
 &emsp;&emsp;&emsp;&emsp;(bb)
 
@@ -234,7 +234,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 (B) The Secretary shall provide technical assistance to those institutions participating in the program under this section to assist the institutions and family or group day care home sponsoring organizations in complying with the nutritional requirements prescribed by the Secretary pursuant to subparagraph (A).
 
-(2) No physical segregation or other discrimination against any child shall be made because of his or her inability to pay, nor shall there be any overt identification of any such child byspecial tokens or tickets, different meals or meal service, announced or published lists of names, or other means.
+(2) No physical segregation or other discrimination against any child shall be made because of his or her inability to pay, nor shall there be any overt identification of any such child by special tokens or tickets, different meals or meal service, announced or published lists of names, or other means.
 
 (3) Each institution shall, insofar as practicable, use in its food service foods designated from time to time by the Secretary as being in abundance, either nationally or in the food service area, or foods donated by the Secretary.
 
@@ -280,7 +280,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 #### (<i>o</i>) Participation of older persons and chronically impaired disabled persons
 
-(1) For purposes of this section, adult day care centers shall be considered eligible institutions for reimbursement for meals or supplements served to persons 60 years of age or older or to chronically impaired disabled persons, including victims of Alzheimer's disease and related disorders with neurological and organic brain dysfunction. Reimbursement provided to such institutions for such purposes shall improve the quality of meals or level of services provided or increase participation in the program. Lunches served by each such institution for which reimbursement is claimed under this section shall provide, on the average, approximately 1/3 of the daily recommended dietary allowance established by the Food and Nutrition Board of theNational Research Council of the National Academy of Sciences. Such institutions shall make reasonable efforts to serve meals that meet the special dietary requirements of participants, including efforts to serve foods in forms palatable to participants.
+(1) For purposes of this section, adult day care centers shall be considered eligible institutionsfor reimbursement for meals or supplements served to persons 60 years of age or older or to chronically impaired disabled persons, including victims of Alzheimer's disease and related disorders with neurological and organic brain dysfunction. Reimbursement provided to such institutions for such purposes shall improve the quality of meals or level of services provided or increase participation in the program. Lunches served by each such institution for which reimbursement is claimed under this section shall provide, on the average, approximately 1/3 of the daily recommended dietary allowance established by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences. Such institutions shall make reasonable efforts to serve meals that meet the special dietary requirements of participants, including efforts to serve foods in forms palatable to participants.
 
 (2) For purposes of this subsection—
 
@@ -400,7 +400,7 @@ Subsec. (f)(2)(B). Pub. L. 104–193, §708(d), substituted “2 meals and 1 sup
 
 Subsec. (f)(3). Pub. L. 104–193, §708(e)(1), inserted heading.
 
-Subsec. (f)(3)(A). Pub. L. 104–193, §708(e)(1), added heading and text of subpar. (A) and struck out former subpar. (A) which read as follows: “Institutions that participate in the program under this section as family or group day care home sponsoring organizations shall be provided, for payment to such homes, a reimbursement factor set by the Secretary for the cost of obtaining and preparing food and prescribed labor costs, involved in providing meals under this section, without a requirement for documentation of such costs, except that reimbursement shall not be provided under this subparagraph for meals or supplements served to the children of a person acting as a family or group day care home provider unless such children meet the eligibility standards for free or reduced price meals under section 1758 of this title. The reimbursement factor in effect as of August 13, 1981, shall be reduced by 10 percent. The reimbursement factor under this subparagraph shall be adjusted on July 1 of each year to reflectchanges in the Consumer Price Index for food away from home for the most recent 12-month period for which such data are available. The reimbursement factor under this subparagraph shall be rounded to the nearest one-fourth cent.”
+Subsec. (f)(3)(A). Pub. L. 104–193, §708(e)(1), added heading and text of subpar. (A) and struck out former subpar. (A) which read as follows: “Institutions that participate in the program under this section as family or group day care home sponsoring organizations shall be provided, for payment to such homes, a reimbursement factor set by the Secretary for the cost of obtaining and preparing food and prescribed labor costs, involved in providing meals under this section, without a requirement for documentation of such costs, except that reimbursement shall not be provided under this subparagraph for meals or supplements served to the children of a person acting as a family or group day care home provider unless such children meet the eligibility standards for free or reduced price meals under section 1758 of this title. The reimbursement factor in effect as of August 13, 1981, shall be reduced by 10 percent. The reimbursement factor under this subparagraph shall be adjusted on July 1 of each year to reflect changes in the Consumer Price Index for food away from home for the most recent 12-month period for which such data are available. The reimbursement factor under this subparagraph shall be rounded to the nearest one-fourth cent.”
 
 Subsec. (f)(3)(B). Pub. L. 104–193, §708(f)(1)(A), struck out at end “The maximum allowable levels for administrative expense payments, as in effect as of August 13, 1981, shall be adjusted by the Secretary so as to achieve a 10 percent reduction in the total amount of reimbursement provided to institutions for such administrative expenses. In making the reduction required by the preceding sentence, the Secretary shall increase the economy of scale factors used to distinguish institutions that sponsor a greater number of family or group day care homes from those that sponsor a lesser number of such homes.”
 
@@ -482,7 +482,7 @@ Pub. L. 101–147, §310(a)(4), redesignated subsec. (p) as (<i>o</i>). Former s
 
 Subsec. (p). Pub. L. 101–147, §310(a)(4), redesignated subsec. (q) as (p). Former subsec. (p) redesignated (<i>o</i>).
 
-Pub. L. 101–147, §105(b)(3)(A), inserted at end of par. (1) “Lunches served by each such institution for which reimbursement is claimed under this section shall provide, on the average, approximately 1/3 of the daily recommended dietary allowance established by the Food and Nutrition Board of the National Research Councilof the National Academy of Sciences. Such institutions shall make reasonable efforts to serve meals that meet the special dietary requirements of participants, including efforts to serve foods in forms palatable to participants.”
+Pub. L. 101–147, §105(b)(3)(A), inserted at end of par. (1) “Lunches served by each such institution for which reimbursement is claimed under this section shall provide, on the average, approximately 1/3 of the daily recommended dietary allowance established by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences. Such institutions shall make reasonable efforts to serve meals that meet the special dietary requirements of participants, including efforts to serve foods in forms palatable to participants.”
 
 Pub. L. 101–147, §105(b)(3)(B), added par. (6).
 
@@ -552,7 +552,7 @@ Subsec. (h). Pub. L. 95–627 substituted provisions relating to donations of ag
 
 Subsec. (i). Pub. L. 95–627 substituted provisions relating to information required from State plans for provisions requiring adequate accounts and general record-keeping by States, State educational agencies, and participating institutions.
 
-Subsec. (j). Pub. L. 95–627 substituted provisions relating to the availability of Federal funds to the States for audits of participating institutions for provisions relating to food service equipment assistance and the apportionment of unused funds.
+Subsec. (j). Pub. L. 95–627 substituted provisions relating to the availability of Federal funds to the Statesfor audits of participating institutions for provisions relating to food service equipment assistance and the apportionment of unused funds.
 
 Subsec. (k). Pub. L. 95–627 substituted provisions relating to the use of a standard form of agreement and the issuance of regulations pertaining to such use for provisions relating to the issuance of rules and regulations to carry out this section by the Secretary.
 
@@ -682,7 +682,7 @@ Submission of report.—Not later than 2 years after the date of enactment of th
 
 #### Family or Group Day Care Home Demonstration Project
 
-Section 503 of Pub. L. 100–435, as amended by Pub. L. 101–147, title I, §105(c)(1), Nov. 10, 1989, 103 Stat. 885, directed Secretary of Agriculture to conduct a demonstration project to begin 30 days after Sept. 19, 1988, but in no event earlier than Oct. 1, 1988, in one State\(selected by the Secretary) regarding the Child Care Food Program authorized under 42 U.S.C. 1766 in which day care institutions and family or group day care sponsoring organizations shall receive a reimbursement (in addition to that received under 42 U.S.C. 1766(d) and (f)) for providing one additional meal or supplement for children that are maintained in a day care institution or in a family or group day care home setting for eight or more hours per day, directed Secretary to submit a preliminary report to Congress not later than Aug. 1, 1989, and a final report after the conclusion of such project, with project to terminate Sept. 30, 1990.
+Section 503 of Pub. L. 100–435, as amended by Pub. L. 101–147, title I, §105(c)(1), Nov. 10, 1989, 103 Stat. 885, directed Secretary of Agriculture to conduct a demonstration project to begin 30 days after Sept. 19, 1988, but in no event earlier than Oct. 1, 1988, in one State (selected by the Secretary) regarding the Child Care Food Program authorized under 42 U.S.C. 1766 in which day care institutions and family or group day care sponsoring organizations shall receive a reimbursement (in addition to that received under 42 U.S.C. 1766(d) and (f)) for providing one additional meal or supplement for children that are maintained in a day care institution or in a family or group day care home setting for eight or more hours per day, directed Secretary to submit a preliminary report to Congress not later than Aug. 1, 1989, and a final report after the conclusion of such project, with project to terminate Sept. 30, 1990.
 
 #### Review and Revision of Nutrition Requirements for Meals Served Under Breakfast Program; Promulgation of Regulations
 

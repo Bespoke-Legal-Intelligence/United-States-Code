@@ -40,9 +40,9 @@ Sums deposited in the Fund shall remain in the Fund and be available for expendi
 
 The Fund shall be available as follows:
 
-&emsp;(1) The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.
+&emsp;(1) Repealed. Pub. L. 105–119, title I, §109(a)(1), Nov. 26, 1997, 111 Stat. 2457.
 
-&emsp;(2) the <sup>2</sup> next $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title.
+&emsp;(2) The first $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title.
 
 &emsp;(3) Of the remaining amount deposited in the Fund in a particular fiscal year—
 
@@ -80,9 +80,9 @@ As used in this section, the term “offenses against the United States” does 
 
 &emsp;(B) the investigation and prosecution of cases of child abuse, particularly child sexual abuse.
 
-(2) As used in this subsection, the term “tribe” <sup>3</sup> has the meaning given that term in section 450b(b) <sup>4</sup> of title 25.
+(2) As used in this subsection, the term “tribe” <sup>2</sup> has the meaning given that term in section 450b(b) <sup>3</sup> of title 25.
 
-(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21.)
+(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457.)
 
 #### References in Text
 
@@ -97,6 +97,10 @@ The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classifi
 Section 450b of title 25, referred to in subsec. (g)(2), has been amended, and subsec. (b) of section 450b no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+
+1997—Subsec. (d)(1). Pub. L. 105–119, §109(a)(1), struck out par. (1) which read as follows: “The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch foradministrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.”
+
+Subsec. (d)(2). Pub. L. 105–119, §109(a)(2), substituted “The first” for “the next”.
 
 1996—Subsec. (c). Pub. L. 104–132, §232(c)(1)(A), substituted “under this chapter” for “under this subsection”.
 
@@ -130,7 +134,7 @@ Pub. L. 103–322, §230201(a)(2), added par. (3) and struck out former par. (3)
 
 Subsec. (d)(4). Pub. L. 103–322, §230201(a)(3), added par. (4) and struck out former par. (4) which read as follows: “The next $4,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603(a) of this title.”
 
-Subsec. (d)(5). Pub. L. 103–322, §230201(a)(4), struck out par. (5) which read as follows: “Any deposits in theFund in a particular fiscal year that remain after the funds are distributed under paragraphs (1) through (4) shall be available as follows:
+Subsec. (d)(5). Pub. L. 103–322, §230201(a)(4), struck out par. (5) which read as follows: “Any deposits in the Fund in a particular fiscal year that remain after the funds are distributed under paragraphs (1) through (4) shall be available as follows:
 
 &emsp;“(A) 47.5 percent shall be available for grants under section 10602 of this title.
 
@@ -234,9 +238,13 @@ Section 501 of title V of Pub. L. 101–647 provided that: “This title \[enact
 
 Section 1401 of chapter XIV (§§1401–1411) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting this chapter and sections 3013, 3671 and 3672 of Title 18, Crimes and Criminal Procedure, and amending sections 3150a, 4207, and 4215 of Title 18 and provisions set out as a note under section 1512 of Title 18\] may be cited as the ‘Victims of Crime Act of 1984’.”
 
+#### Transfer of Certain Unobligated Funds
+
+Section 109(b) of Pub. L. 105–119 provided that: “Any unobligated sums hitherto available to the judicial branch pursuant to the paragraph repealed by subsection (a) \[former 42 U.S.C. 10601(d)(1)\] shall be deemed to be deposits into the Crime Victims Fund as of the effective date hereof \[Nov. 26, 1997\] and may be used by the Director of the Office for Victims of Crime to improve services for the benefit of crime victims, including the processing and tracking of criminal monetary penalties and related litigation activities, in the Federal criminal justice system.”
+
 #### Retroactive Transfer to Fund
 
-Section 7130 of Pub. L. 100–690 provided that: “An amount equivalent to those sums which would havebeen placed in the Fund under section 1402(b) of the Victims of Crime Act \[subsec. (b) of this section\], but for the effect of section 1402(c)(2) of such Act, is hereby transferred to the Fund from any sums not appropriated from the general treasury.”
+Section 7130 of Pub. L. 100–690 provided that: “An amount equivalent to those sums which would have been placed in the Fund under section 1402(b) of the Victims of Crime Act \[subsec. (b) of this section\], but for the effect of section 1402(c)(2) of such Act, is hereby transferred to the Fund from any sums not appropriated from the general treasury.”
 
 #### Section Referred to in Other Sections
 
@@ -244,9 +252,7 @@ This section is referred to in sections 10603, 10603a, 10604, 10605 of this titl
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “ ‘Indian tribe’ ”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “ ‘Indian tribe’ ”.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

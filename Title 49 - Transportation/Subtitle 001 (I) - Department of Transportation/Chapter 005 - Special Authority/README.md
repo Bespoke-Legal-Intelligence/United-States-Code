@@ -1,21 +1,16 @@
 ### <b>CHAPTER 5—SPECIAL AUTHORITY</b>
 
-#### SUBCHAPTER I—DUTIES AND POWERS <sup>1</sup>
+#### SUBCHAPTER I—POWERS
 
 | Sec. |  |
 | :--- | ---: |
-| [501\.](Subchapter%20001%20%28I%29%20-%20And%20Powers/%C2%A7%2000501%20-%20Definitions%20and%20application.md) | Definitions and application. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| [502\.](Subchapter%20001%20%28I%29%20-%20And%20Powers/%C2%A7%2000502%20-%20General%20authority.md) | General authority. |
-| [503\.](Subchapter%20001%20%28I%29%20-%20And%20Powers/%C2%A7%2000503%20-%20Service%20of%20notice%20and%20process%20on%20certain%20motor%20carriers%20of%20migrant%20workers%20and%20on%20motor%20private%20carriers.md) | Service of notice and process on certain motor carriers of migrant workers and on motor private carriers. |
-| [504\.](Subchapter%20001%20%28I%29%20-%20And%20Powers/%C2%A7%2000504%20-%20Reports%20and%20records.md) | Reports and records. |
-| [505\.](Subchapter%20001%20%28I%29%20-%20And%20Powers/%C2%A7%2000505%20-%20Arrangements%20and%20public%20records.md) | Arrangements and public records. |
-| [506\.](Subchapter%20001%20%28I%29%20-%20And%20Powers/%C2%A7%2000506%20-%20Authority%20to%20investigate.md) | Authority to investigate. |
-| [507\.](Subchapter%20001%20%28I%29%20-%20And%20Powers/%C2%A7%2000507%20-%20Enforcement.md) | Enforcement. |
+| [501\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000501%20-%20Definitions%20and%20application.md) | Definitions and application. |
+| [502\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000502%20-%20General%20authority.md) | General authority. |
+| [503\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000503%20-%20Service%20of%20notice%20and%20process%20on%20certain%20motor%20carriers%20of%20migrant%20workers%20and%20on%20motor%20private%20carriers.md) | Service of notice and process on certain motor carriers of migrant workers and on motor private carriers. |
+| [504\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000504%20-%20Reports%20and%20records.md) | Reports and records. |
+| [505\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000505%20-%20Arrangements%20and%20public%20records.md) | Arrangements and public records. |
+| [506\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000506%20-%20Authority%20to%20investigate.md) | Authority to investigate. |
+| [507\.](Subchapter%20001%20%28I%29%20-%20Powers/%C2%A7%2000507%20-%20Enforcement.md) | Enforcement. |
 | \[508. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,6 +28,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1997—Pub. L. 105–102, §2(1), Nov. 20, 1997, 111 Stat. 2204, struck out “DUTIES AND” before “POWERS” in item for heading of subchapter I.
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 104 of this title.
@@ -42,5 +41,5 @@ This chapter is referred to in section 104 of this title.
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Subchapter 001 (I) - And Powers](Subchapter%20001%20%28I%29%20-%20And%20Powers/README.md)
+- [Subchapter 001 (I) - Powers](Subchapter%20001%20%28I%29%20-%20Powers/README.md)
 - [Subchapter 002 (II) - Penalties](Subchapter%20002%20%28II%29%20-%20Penalties/README.md)

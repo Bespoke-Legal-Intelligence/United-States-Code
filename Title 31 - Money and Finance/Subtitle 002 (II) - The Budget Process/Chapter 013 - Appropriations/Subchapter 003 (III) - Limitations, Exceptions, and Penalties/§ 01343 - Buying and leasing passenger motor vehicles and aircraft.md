@@ -88,7 +88,7 @@ In subsection (a), the word “agency” is substituted for “department of the
 
 In subsection (b), before clause (1), the words “buy or lease” are substituted for “purchase or hire” for consistency. In clause (1)(C), the words “section 101 of title 5” are used because of section 7(b) of the Act of September 6, 1966 (Pub. L. 89–554, 80 Stat. 631).
 
-In subsection (c)(1), before clause (A), the word “agency” is substituted for “department” for consistency. The words “total cost” are substituted for “cost” because of the restatement. The words “(except costs required only for transportation)” are substituted for “which shall be in addition to the amount required for transportation” for clarity. Clause (A) is substitutedfor “completely equipped for operation” and 31:638a(c)(1)(2d sentence) to eliminate unnecessary words.
+In subsection (c)(1), before clause (A), the word “agency” is substituted for “department” for consistency. The words “total cost” are substituted for “cost” because of the restatement. The words “(except costs required only for transportation)” are substituted for “which shall be in addition to the amount required for transportation” for clarity. Clause (A) is substituted for “completely equipped for operation” and 31:638a(c)(1)(2d sentence) to eliminate unnecessary words.
 
 In subsection (c)(2), the words “Notwithstanding any other provisions of law” are omitted as surplus.
 
@@ -118,87 +118,89 @@ Pub. L. 100–202, §101(b) \[title VIII, §8119\], Dec. 22, 1987, 101 Stat. 132
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
 
-Act Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §604\], 110 Stat. 3009–314, 3009–353, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with section 16 of the Act of August 2, 1946 (60 Stat. 810 \[31 U.S.C. 1343\]), for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement, and undercover surveillance vehicles), is hereby fixed at $8,100 except station wagons for which the maximum shall be $9,100: <i>Provided</i>, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: <i>Provided further</i>, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[15 U.S.C. 2501 et seq.\]: <i>Provided further</i>, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles.”
+Pub. L. 105–61, title VI, §604, Oct. 10, 1997, 111 Stat. 1308, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with section 16 of the Act of August 2, 1946 (60 Stat. 810 \[31 U.S.C. 1343\]), for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement, and undercover surveillance vehicles), is hereby fixed at $8,100 except station wagons for which the maximum shall be $9,100: <i>Provided</i>, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: <i>Provided further</i>, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[15 U.S.C. 2501 et seq.\]: <i>Provided further</i>, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Nov. 19, 1995, Pub. L. 104–52, title VI, §604, 109 Stat. 497.
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §604\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–353.
 
-Sept. 30, 1994, Pub. L. 103–329, title VI, §604, 108 Stat. 2416.
+Pub. L. 104–52, title VI, §604, Nov. 19, 1995, 109 Stat. 497.
 
-Oct. 28, 1993, Pub. L. 103–123, title VI, §604, 107 Stat. 1259.
+Pub. L. 103–329, title VI, §604, Sept. 30, 1994, 108 Stat. 2416.
 
-Oct. 6, 1992, Pub. L. 102–393, title VI, §605, 106 Stat. 1766.
+Pub. L. 103–123, title VI, §604, Oct. 28, 1993, 107 Stat. 1259.
 
-Oct. 28, 1991, Pub. L. 102–141, title VI, §605, 105 Stat. 868.
+Pub. L. 102–393, title VI, §605, Oct. 6, 1992, 106 Stat. 1766.
 
-Nov. 5, 1990, Pub. L. 101–509, title VI, §601, 104 Stat. 1470.
+Pub. L. 102–141, title VI, §605, Oct. 28, 1991, 105 Stat. 868.
 
-Nov. 3, 1989, Pub. L. 101–136, title VI, §601, 103 Stat. 816.
+Pub. L. 101–509, title VI, §601, Nov. 5, 1990, 104 Stat. 1470.
 
-Sept. 22, 1988, Pub. L. 100–440, title VI, §601, 102 Stat. 1751.
+Pub. L. 101–136, title VI, §601, Nov. 3, 1989, 103 Stat. 816.
 
-Dec. 22, 1987, Pub. L. 100–202, §101(m) \[title VI, §601\], 101 Stat. 1329–390, 1329–419.
+Pub. L. 100–440, title VI, §601, Sept. 22, 1988, 102 Stat. 1751.
 
-Oct. 18, 1986, Pub. L. 99–500, §101(m) \[title VI, §601\], 100 Stat. 1783–308, 1783–328, and Oct. 30, 1986, Pub. L. 99–591, §101(m) \[title VI, §601\], 100 Stat. 3341–308, 3341–328.
+Pub. L. 100–202, §101(m) \[title VI, §601\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–419.
 
-Dec. 19, 1985, Pub. L. 99–190, §101(h) \[H.R. 3036, title VI, §601\], 99 Stat. 1291.
+Pub. L. 99–500, §101(m) \[title VI, §601\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–328, and Pub. L. 99–591, §101(m) \[title VI, §601\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–328.
 
-Oct. 12, 1984, Pub. L. 98–473, title I, §101(j) \[H.R. 5798, title VI, §602\], 98 Stat. 1963.
+Pub. L. 99–190, §101(h) \[H.R. 3036, title VI, §601\], Dec. 19, 1985, 99 Stat. 1291.
 
-Nov. 14, 1983, Pub. L. 98–151, §101(f) \[H.R. 4139, title VI, §602\], 97 Stat. 973.
+Pub. L. 98–473, title I, §101(j) \[H.R. 5798, title VI, §602\], Oct. 12, 1984, 98 Stat. 1963.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, §101(a) \[H.R. 7158, title VI, §602\], 96 Stat. 1830.
+Pub. L. 98–151, §101(f) \[H.R. 4139, title VI, §602\], Nov. 14, 1983, 97 Stat. 973.
 
-Dec. 15, 1981, Pub. L. 97–92, §101(a) \[H.R. 4121, title VI, §602\], 95 Stat. 1183.
+Pub. L. 97–377, title I, §101(a) \[H.R. 7158, title VI, §602\], Dec. 21, 1982, 96 Stat. 1830.
 
-Dec. 16, 1980, Pub. L. 96–536, §113, 94 Stat. 3171.
+Pub. L. 97–92, §101(a) \[H.R. 4121, title VI, §602\], Dec. 15, 1981, 95 Stat. 1183.
 
-Sept. 29, 1979, Pub. L. 96–74, title VI, §601, 93 Stat. 573.
+Pub. L. 96–536, §113, Dec. 16, 1980, 94 Stat. 3171.
 
-Oct. 10, 1978, Pub. L. 95–429, title VI, §601, 92 Stat. 1015.
+Pub. L. 96–74, title VI, §601, Sept. 29, 1979, 93 Stat. 573.
 
-July 31, 1977, Pub. L. 95–81, title VI, §601, 91 Stat. 354.
+Pub. L. 95–429, title VI, §601, Oct. 10, 1978, 92 Stat. 1015.
 
-July 14, 1976, Pub. L. 94–363, title VI, §601, 90 Stat. 977.
+Pub. L. 95–81, title VI, §601, July 31, 1977, 91 Stat. 354.
 
-Aug. 9, 1975, Pub. L. 94–91, title VI, §601, 89 Stat. 458.
+Pub. L. 94–363, title VI, §601, July 14, 1976, 90 Stat. 977.
 
-Aug. 21, 1974, Pub. L. 93–381, title VI, §601, 88 Stat. 630.
+Pub. L. 94–91, title VI, §601, Aug. 9, 1975, 89 Stat. 458.
 
-Oct. 30, 1973, Pub. L. 93–143, title VI, §601, 87 Stat. 524.
+Pub. L. 93–381, title VI, §601, Aug. 21, 1974, 88 Stat. 630.
 
-July 13, 1972, Pub. L. 92–351, title VI, §601, 86 Stat. 487.
+Pub. L. 93–143, title VI, §601, Oct. 30, 1973, 87 Stat. 524.
 
-July 9, 1971, Pub. L. 92–49, title VI, §601, 85 Stat. 122.
+Pub. L. 92–351, title VI, §601, July 13, 1972, 86 Stat. 487.
 
-Oct. 7, 1970, Pub. L. 91–439, title V, §501, 84 Stat. 902.
+Pub. L. 92–49, title VI, §601, July 9, 1971, 85 Stat. 122.
 
-Dec. 11, 1969, Pub. L. 91–144, title V, §501, 83 Stat. 336.
+Pub. L. 91–439, title V, §501, Oct. 7, 1970, 84 Stat. 902.
 
-Aug. 12, 1968, Pub. L. 90–479, title V, §501, 82 Stat. 717.
+Pub. L. 91–144, title V, §501, Dec. 11, 1969, 83 Stat. 336.
 
-Nov. 20, 1967, Pub. L. 90–147, title V, §501, 81 Stat. 482.
+Pub. L. 90–479, title V, §501, Aug. 12, 1968, 82 Stat. 717.
 
-Oct. 15, 1966, Pub. L. 89–689, title V, §501, 80 Stat. 1014.
+Pub. L. 90–147, title V, §501, Nov. 20, 1967, 81 Stat. 482.
 
-Oct. 28, 1965, Pub. L. 89–299, title V, §501, 79 Stat. 1108.
+Pub. L. 89–689, title V, §501, Oct. 15, 1966, 80 Stat. 1014.
 
-Aug. 30, 1964, Pub. L. 88–511, title V, §501, 78 Stat. 693.
+Pub. L. 89–299, title V, §501, Oct. 28, 1965, 79 Stat. 1108.
 
-Dec. 31, 1963, Pub. L. 88–257, title V, §501, 77 Stat. 855.
+Pub. L. 88–511, title V, §501, Aug. 30, 1964, 78 Stat. 693.
 
-Oct. 24, 1962, Pub. L. 87–880, title V, §501, 76 Stat. 1227.
+Pub. L. 88–257, title V, §501, Dec. 31, 1963, 77 Stat. 855.
 
-Aug. 3, 1961, Pub. L. 87–125, title V, §501, 75 Stat. 282.
+Pub. L. 87–880, title V, §501, Oct. 24, 1962, 76 Stat. 1227.
 
-July 12, 1960, Pub. L. 86–642, title II, §201, 74 Stat. 476.
+Pub. L. 87–125, title V, §501, Aug. 3, 1961, 75 Stat. 282.
 
-July 8, 1959, Pub. L. 86–79, title II, §201, 73 Stat. 165.
+Pub. L. 86–642, title II, §201, July 12, 1960, 74 Stat. 476.
 
-June 25, 1958, Pub. L. 85–468, title II, §201, 72 Stat. 224.
+Pub. L. 86–79, title II, §201, July 8, 1959, 73 Stat. 165.
 
-June 5, 1957, Pub. L. 85–48, title II, §201, 71 Stat. 53.
+Pub. L. 85–468, title II, §201, June 25, 1958, 72 Stat. 224.
+
+Pub. L. 85–48, title II, §201, June 5, 1957, 71 Stat. 53.
 
 June 13, 1956, ch. 385, title II, §201, 70 Stat. 279.
 

@@ -156,7 +156,7 @@ In subsection (d), the word “agency” is substituted for “departments” be
 
 In subsection (e)(1), the words “if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section” are substituted for “Should there by any delinquency in this regard” for clarity.
 
-In subsection (e)(2), the 1st sentence is substituted for 31:78(3d sentence), and the words “If an account is not submitted to the Comptroller General on time under subsection (b)” are substituted for “Should there be a delay by the administrative departments beyond the aforesaid twenty or sixty days in transmitting accounts”, for clarity and to eliminate unnecessary words. The words “District of Columbia” are substituted for “seat of Government” for consistency. The words “in the particular case” and “of money requested” are omitted as surplus.
+In subsection (e)(2), the 1st sentence is substituted for 31:78(3d sentence), and the words “If an account is notsubmitted to the Comptroller General on time under subsection (b)” are substituted for “Should there be a delay by the administrative departments beyond the aforesaid twenty or sixty days in transmitting accounts”, for clarity and to eliminate unnecessary words. The words “District of Columbia” are substituted for “seat of Government” for consistency. The words “in the particular case” and “of money requested” are omitted as surplus.
 
 #### Section Referred to in Other Sections
 

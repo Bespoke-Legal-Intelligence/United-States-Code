@@ -12,7 +12,7 @@
 
 (2) The Secretary of Transportation may not compromise for less than $500 a penalty under section 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters.
 
-(c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or value is not recovered because of a compromise under this section.
+(c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or valueis not recovered because of a compromise under this section.
 
 (d) The head of an executive, judicial, or legislative agency acts under—
 
@@ -114,7 +114,7 @@
 
 &emsp;(D) refer delinquent debts to the person most appropriate to collect the type or amount of claim involved.
 
-(6) Any agency operating a debt collection center to which nontax claims are referred or transferred under this subsection may charge afee sufficient to cover the full cost of implementing this subsection. The agency transferring or referring the nontax claim shall be charged the fee, and the agency charging the fee shall collect such fee by retaining the amount of the fee from amounts collected pursuant to this subsection. Agencies may agree to pay through a different method, or to fund an activity from another account or from revenue received from the procedure described under section 3720C of this title. Amounts charged under this subsection concerning delinquent claims may be considered as costs pursuant to section 3717(e) of this title.
+(6) Any agency operating a debt collection center to which nontax claims are referred or transferred under this subsection may charge a fee sufficient to cover the full cost of implementing this subsection. The agency transferring or referring the nontax claim shall be charged the fee, and the agency charging the fee shall collect such fee by retaining the amount of the fee from amounts collected pursuant to this subsection. Agencies may agree to pay through a different method, or to fund an activity from another account or from revenue received from the procedure described under section 3720C of this title. Amounts charged under this subsection concerning delinquent claims may be considered as costs pursuant to section 3717(e) of this title.
 
 (7) Notwithstanding any other law concerning the depositing and collection of Federal payments, including section 3302(b) of this title, agencies collecting fees may retain the fees from amounts collected. Any fee charged pursuant to this subsection shall be deposited into an account to be determined by the executive department or agency operating the debt collection center charging the fee (in this subsection referred to in this section <sup>2</sup> as the “Account”). Amounts deposited in the Account shall be available until expended to cover costs associated with the implementation and operation of Governmentwide debt collection activities. Costs properly chargeable to the Account include—
 
@@ -172,7 +172,7 @@
 
 (4)(A) Within one year after the date of enactment of the Debt Collection Improvement Act of 1996, each executive agency with current and delinquent collateralized nontax debts shall report to the Congress on the valuation of its existing portfolio of loans, notes and guarantees, and other collateralized debts based on standards developed by the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury.
 
-(B) The Director of the Office of Management and Budget shall determine what information isrequired to be reported to comply with subparagraph (A). At a minimum, for each financing account and for each liquidating account (as those terms are defined in sections 502(7) and 502(8), respectively, of the Federal Credit Reform Act of 1990) the following information shall be reported:
+(B) The Director of the Office of Management and Budget shall determine what information is required to be reported to comply with subparagraph (A). At a minimum, for each financing account and for each liquidating account (as those terms are defined in sections 502(7) and 502(8), respectively, of the Federal Credit Reform Act of 1990) the following information shall be reported:
 
 &emsp;(i) The cumulative balance of current debts outstanding, the estimated net present value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
 

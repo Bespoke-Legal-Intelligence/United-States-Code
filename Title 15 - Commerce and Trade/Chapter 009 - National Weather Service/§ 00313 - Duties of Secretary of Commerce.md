@@ -12,7 +12,7 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 
 #### Repeals
 
-Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI,§1107(k), 52 Stat. 1029, cited to the credit of this section.
+Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029, cited to the credit of this section.
 
 #### Transfer of Functions
 
@@ -82,7 +82,7 @@ Pub. L. 102–567, title VII, Oct. 29, 1992, 106 Stat. 4303, provided that:
 
 &emsp;“(1) ‘automate’ means to replace employees with automated weather service equipment;
 
-&emsp;“(2) ‘change operations at a field office’ means transfer service responsibility, commission weather observation systems, decommission a National Weather Service radar, change staffing levels significantly, or move a field office to a new location inside the local commuting and service area;
+&emsp;“(2) ‘change operations at a field office’ means transfer service responsibility, commission weather observation systems, decommission a NationalWeather Service radar, change staffing levels significantly, or move a field office to a new location inside the local commuting and service area;
 
 &emsp;“(3) ‘Committee’ means the Modernization Transition Committee established by section 707;
 
@@ -272,7 +272,7 @@ Consultation.—In preparing portions of the report that address Weather Forecas
 
 “\[Amended section 407 of Pub. L. 100–685, set out below, and repealed section 408 of Pub. L. 100–685, formerly set out below.\]”
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
 #### Purchase of Atmospheric Wind Data
 
@@ -328,7 +328,7 @@ Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96�
 
 “
 
-Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expenditures for the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[section 5 of Title 41, Public Contracts\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
+Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expendituresfor the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[section 5 of Title 41, Public Contracts\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
 
 “
 

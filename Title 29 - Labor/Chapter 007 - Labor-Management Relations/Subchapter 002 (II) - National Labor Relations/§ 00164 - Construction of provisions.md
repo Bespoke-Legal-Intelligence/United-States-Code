@@ -14,7 +14,7 @@ Nothing in this subchapter shall be construed as authorizing the execution or ap
 
 (2) Nothing in this subchapter shall be deemed to prevent or bar any agency or the courts of any State or Territory (including the Commonwealth of Puerto Rico, Guam, and the Virgin Islands), from assuming and asserting jurisdiction over labor disputes over which the Board declines, pursuant to paragraph (1) of this subsection, to assert jurisdiction.
 
-(July 5, 1935, ch. 372, §14, 49 Stat. 457; June 23, 1947, ch. 120, title I, §101, 61 Stat. 151; Sept. 14, 1959, Pub. L. 86–257, title VII, §701(a), 73 Stat. 541.)
+(July 5, 1935, ch. 372, §14, 49 Stat. 457; June 23, 1947, ch. 120, title I, §101, 61 Stat. 151; Pub. L. 86–257, title VII, §701(a), Sept. 14, 1959, 73 Stat. 541.)
 
 #### Codification
 

@@ -182,7 +182,7 @@ Additionality.—The Secretary should require each participant in the program to
 
 &emsp;&emsp;“(E)
 
-Independent audits.—If as a result of an evaluation or audit of activities of a participantunder the program, the Secretary determines that a further review is justified in order to ensure compliance with the requirements of the program, the Secretary should require the participant to contract for an independent audit of the program activities, including activities of any subcontractor.
+Independent audits.—If as a result of an evaluation or audit of activities of a participant under the program, the Secretary determines that a further review is justified in order to ensure compliance with the requirements of the program, the Secretary should require the participant to contract for an independent audit of the program activities, including activities of any subcontractor.
 
 &emsp;“(3)
 

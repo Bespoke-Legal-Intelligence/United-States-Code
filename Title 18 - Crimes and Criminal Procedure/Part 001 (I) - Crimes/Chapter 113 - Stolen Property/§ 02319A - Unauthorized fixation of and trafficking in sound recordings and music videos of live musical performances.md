@@ -22,23 +22,41 @@ Seizure and Forfeiture.—If copies or phonorecords of sounds or sounds and imag
 
 (d)
 
+Victim Impact Statement.—(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
+
+(2) Persons permitted to submit victim impact statements shall include—
+
+&emsp;(A) producers and sellers of legitimate works affected by conduct involved in the offense;
+
+&emsp;(B) holders of intellectual property rights in such works; and
+
+&emsp;(C) the legal representatives of such producers, sellers, and holders.
+
+(e)
+
 Definitions.—As used in this section—
 
 &emsp;(1) the terms “copy”, “fixed”, “musical work”, “phonorecord”, “reproduce”, “sound recordings”, and “transmit” mean those terms within the meaning of title 17; and
 
 &emsp;(2) the term “traffic in” means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent to transport, transfer, or dispose of.
 
-(e)
+(f)
 
 Applicability.—This section shall apply to any Act or Acts that occur on or after the date of the enactment of the Uruguay Round Agreements Act.
 
-(Added Pub. L. 103–465, title V, §513(a), Dec. 8, 1994, 108 Stat. 4974.)
+(Added Pub. L. 103–465, title V, §513(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 105–147, §2(e), Dec. 16, 1997, 111 Stat. 2679.)
 
 #### References in Text
 
 The customs laws, referred to in subsec. (c), are classified generally to Title 19, Customs Duties.
 
-The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (c) and (e), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (c) and (f), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+
+The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
+
+#### Amendments
+
+1997—Subsecs. (d) to (f). Pub. L. 105–147 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 #### Section Referred to in Other Sections
 

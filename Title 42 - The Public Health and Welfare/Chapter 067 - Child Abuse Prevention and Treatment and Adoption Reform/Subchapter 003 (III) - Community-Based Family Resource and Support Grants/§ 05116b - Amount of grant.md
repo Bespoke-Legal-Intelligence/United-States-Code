@@ -8,7 +8,7 @@ The Secretary shall reserve 1 percent of the amount appropriated under section 5
 
 #### (1) In general
 
-&emsp;The Secretary shall allot the amount appropriated under section 5116i of this title for afiscal year and remaining after the reservation under subsection (a) of this section among the States as follows:
+&emsp;The Secretary shall allot the amount appropriated under section 5116i of this title for a fiscal year and remaining after the reservation under subsection (a) of this section among the States as follows:
 
 &emsp;&emsp;(A) 70 percent of such amount appropriated shall be allotted among the States by allotting to each State an amount that bears the same proportion to such amount appropriated as the number of children under the age of 18 residing in the State bears to the total number of children under the age of 18 residing in all States (except that no State shall receive less than $175,000 under this subparagraph).
 

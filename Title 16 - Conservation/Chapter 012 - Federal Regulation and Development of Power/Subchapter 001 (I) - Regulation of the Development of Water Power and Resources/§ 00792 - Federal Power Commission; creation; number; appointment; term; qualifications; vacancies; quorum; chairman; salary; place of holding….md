@@ -62,7 +62,7 @@ The functions of the Commission with respect to choosing a chairman from among t
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the ReorganizationAct of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons for transmitting this plan are stated in an accompanying general message.
+I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons for transmitting this plan are stated in an accompanying general message.
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 10 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 

@@ -4,7 +4,7 @@ When any railroad company claiming a grant of land under any Act of Congress, de
 
 For any deposits made by any railroad company hereunder, certificates shall be issued, which may be used by such railroad company, its successors or assigns, to the same extent as cash is now allowed in payment of entries of public lands under existing law and regulations for any public lands of the United States in the States where the surveys were made, or for any survey or office fees due the United States from such railroad company on account of surveys of lands within its grant. The Secretary of the Interior shall provide such rules and regulations as may be necessary for carrying out the foregoing provisions.
 
-(Feb. 27, 1899, ch. 205, 30 Stat. 892; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000.)
+(Feb. 27, 1899, ch. 205, 30 Stat. 892; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
 #### Change of Name
 

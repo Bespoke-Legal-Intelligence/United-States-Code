@@ -14,7 +14,7 @@ As used in this subchapter—
 
 &emsp;(C) such other professional services of an architectural or engineering nature, or incidental services, which members of the architectural and engineering professions (and individuals in their employ) may logically or justifiably perform, including studies, investigations, surveying and mapping, tests, evaluations, consultations, comprehensive planning, program management, conceptual designs, plans and specifications, value engineering, construction phase services, soils engineering, drawing reviews, preparation of operating and maintenance manuals, and other related services.
 
-(June 30, 1949, ch. 288, title IX, §901, as added Oct. 27, 1972, Pub. L. 92–582, 86 Stat. 1278; amended Nov. 15, 1988, Pub. L. 100–656, title VII, §742, 102 Stat. 3897; Nov. 17, 1988, Pub. L. 100–679, §8, 102 Stat. 4068.)
+(June 30, 1949, ch. 288, title IX, §901, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1278; amended Pub. L. 100–656, title VII, §742, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 100–679, §8, Nov. 17, 1988, 102 Stat. 4068.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections were omitted in the general revision of title II of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 36, by Pub. L. 95–561, title II, §201, Nov. 1, 1978, 92 Stat. 2201.
+Sections were omitted in the general revision of title II of the Elementary and Secondary Education Act of1965, Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 36, by Pub. L. 95–561, title II, §201, Nov. 1, 1978, 92 Stat. 2201.
 
 Section 821, Pub. L. 89–10, title II, §201, Apr. 11, 1965, 79 Stat. 36; Pub. L. 89–750, title I, §121, Nov. 3, 1966, 80 Stat. 1199; Pub. L. 90–247, title III, §301(b), Jan. 2, 1968, 81 Stat. 813; Pub. L. 91–230, title I, §121(a), Apr. 13, 1970, 84 Stat. 130; Pub. L. 93–380, title I, §102(a), Aug. 21, 1974, 88 Stat. 501; Pub. L. 95–112, §2(b)(1), Sept. 24, 1977, 91 Stat. 911, authorized appropriations for grants for the acquisition of books and school library resources for fiscal years ending prior to Oct. 1, 1979.
 

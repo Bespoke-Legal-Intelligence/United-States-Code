@@ -2,7 +2,7 @@
 
 (a) Attorney's and proctor's docket fees in courts of the United States may be taxed as costs as follows:
 
-$20 on trial or final hearing (including a default judgment whether entered by the court orby the clerk) in civil, criminal, or admiralty cases, except that in cases of admiralty and maritime jurisdiction where the libellant recovers less than $50 the proctor's docket fee shall be $10;
+$20 on trial or final hearing (including a default judgment whether entered by the court or by the clerk) in civil, criminal, or admiralty cases, except that in cases of admiralty and maritime jurisdiction where the libellant recovers less than $50 the proctor's docket fee shall be $10;
 
 $20 in admiralty appeals involving not over $1,000;
 
@@ -26,7 +26,7 @@ $50 where the amount involved is not over $5,000;
 
 $75 where the amount involved is over $5,000.
 
-(June 25, 1948, ch. 646, 62 Stat. 956; June 18, 1954, ch. 304, 68 Stat. 253; Nov. 6, 1978, Pub. L. 95–598, title II, §245, 92 Stat. 2671.)
+(June 25, 1948, ch. 646, 62 Stat. 956; June 18, 1954, ch. 304, 68 Stat. 253; Pub. L. 95–598, title II, §245, Nov. 6, 1978, 92 Stat. 2671.)
 
 #### Historical and Revision Notes
 
@@ -48,9 +48,9 @@ Section 408(c) of Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2687, as amended by P
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–598 inserted “and United States trustees” after “United States attorneys”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–598 inserted “and United States trustees” after “United States attorneys”.
 
-1954—Subsec. (a). Act June 18, 1954, inserted in first item “including a default judgment whether entered by the court or by the clerk” after “final hearing”.
+<b>1954</b>—Subsec. (a). Act June 18, 1954, inserted in first item “including a default judgment whether entered by the court or by the clerk” after “final hearing”.
 
 #### Effective Date of 1978 Amendment
 

@@ -24,11 +24,11 @@
 
 (4)(A) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of an appeal from an interlocutory order of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, granting or denying, in whole or in part, a motion to transfer an action to the United States Court of Federal Claims under section 1631 of this title.
 
-(B) When a motion to transfer an action to the Court of Federal Claims is filed in a district court, no further proceedings shall be taken in the district court until 60 days after the courthas ruled upon the motion. If an appeal is taken from the district court's grant or denial of the motion, proceedings shall be further stayed until the appeal has been decided by the Court of Appeals for the Federal Circuit. The stay of proceedings in the district court shall not bar the granting of preliminary or injunctive relief, where appropriate and where expedition is reasonably necessary. However, during the period in which proceedings are stayed as provided in this subparagraph, no transfer to the Court of Federal Claims pursuant to the motion shall be carried out.
+(B) When a motion to transfer an action to the Court of Federal Claims is filed in a district court, no further proceedings shall be taken in the district court until 60 days after the court has ruled upon the motion. If an appeal is taken from the district court's grant or denial of the motion, proceedings shall be further stayed until the appeal has been decided by the Court of Appeals for the Federal Circuit. The stay of proceedings in the district court shall not bar the granting of preliminary or injunctive relief, where appropriate and where expedition is reasonably necessary. However, during the period in which proceedings are stayed as provided in this subparagraph, no transfer to the Court of Federal Claims pursuant to the motion shall be carried out.
 
 (e) The Supreme Court may prescribe rules, in accordance with section 2072 of this title, to provide for an appeal of an interlocutory decision to the courts of appeals that is not otherwise provided for under subsection (a), (b), (c), or (d).
 
-(June 25, 1948, ch. 646, 62 Stat. 929; Oct. 31, 1951, ch. 655, §49, 65 Stat. 726; July 7, 1958, Pub. L. 85–508, §12(e), 72 Stat. 348; Sept. 2, 1958, Pub. L. 85–919, 72 Stat. 1770; Apr. 2, 1982, Pub. L. 97–164, §125, 96 Stat. 36; Nov. 8, 1984, Pub. L. 98–620, title IV, §412, 98 Stat. 3362; Nov. 19, 1988, Pub. L. 100–702, title V, §501, 102 Stat. 4652; Oct. 29, 1992, Pub. L. 102–572, title I, §101, title IX, §§902(b), 906(c), 106 Stat. 4506, 4516, 4518.)
+(June 25, 1948, ch. 646, 62 Stat. 929; Oct. 31, 1951, ch. 655, §49, 65 Stat. 726; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 85–919, Sept. 2, 1958, 72 Stat. 1770; Pub. L. 97–164, §125, Apr. 2, 1982, 96 Stat. 36; Pub. L. 98–620, title IV, §412, Nov. 8, 1984, 98 Stat. 3362; Pub. L. 100–702, title V, §501, Nov. 19, 1988, 102 Stat. 4652; Pub. L. 102–572, title I, §101, title IX, §§902(b), 906(c), Oct. 29, 1992, 106 Stat. 4506, 4516, 4518.)
 
 #### Historical and Revision Notes
 
@@ -54,13 +54,13 @@ The provisions of section 227a of title 28, U.S.C., 1940 ed., relating to stay o
 
 The district courts for the districts of Hawaii and Puerto Rico are embraced in the term “district courts of the United States.” (See definitive section 451 of this title.) Consequently the specific reference in section 225 of title 28, U.S.C., 1940 ed., to “the United States district courts for Hawaii” was omitted.
 
-The District Court for the District of Puerto Rico is not enumerated in section 225(b) of title 28, U.S.C., 1940 ed., nevertheless subsection (2) of the revised section does not except such court. Thus in conformity with the last sentence of section 864, title 48, U.S.C., 1940 ed. For distribution of said section 864, see Distribution Table.
+The District Court for the District of Puerto Rico is not enumerated in section 225(b) of title 28, U.S.C., 1940ed., nevertheless subsection (2) of the revised section does not except such court. Thus in conformity with the last sentence of section 864, title 48, U.S.C., 1940 ed. For distribution of said section 864, see Distribution Table.
 
 Section 61 of title 7 of the Canal Zone Code is also incorporated in sections 1291 and 1294 of this title.
 
 #### Amendments
 
-1992—Subsec. (d)(2). Pub. L. 102–572, §§902(b)(1), 906(c), substituted “When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims” for “When any judge of the United States Claims Court”.
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–572, §§902(b)(1), 906(c), substituted “When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims” for “When any judge of the United States Claims Court”.
 
 Subsec. (d)(3). Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in two places.
 
@@ -68,23 +68,23 @@ Subsec. (d)(4). Pub. L. 102–572, §902(b), substituted “United States Court 
 
 Subsec. (e). Pub. L. 102–572, §101, added subsec. (e).
 
-1988—Subsec. (d)(4). Pub. L. 100–702 added par. (4).
+<b>1988</b>—Subsec. (d)(4). Pub. L. 100–702 added par. (4).
 
-1984—Subsec. (b). Pub. L. 98–620, §412(a), inserted “which would have jurisdiction of an appeal of such action” after “The Court of Appeals”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–620, §412(a), inserted “which would have jurisdiction of an appeal of such action” after “The Court of Appeals”.
 
 Subsec. (c)(1). Pub. L. 98–620, §412(b), inserted “or (b)” after “(a)”.
 
-1982—Subsec. (a). Pub. L. 97–164, §125(a)(1), substituted “Except as provided in subsections (c) and (d) of this section, the courts” for “The courts” in introductory provisions.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §125(a)(1), substituted “Except as provided in subsections (c) and (d) of this section, the courts” for “The courts” in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 97–164, §125(a)(2), (3), struck out par. (4) which related to judgments in civil actions for patent infringement which were final except for accounting.
 
 Subsecs. (c), (d). Pub. L. 97–164, §125(b), added subsecs. (c) and (d).
 
-1958—Pub. L. 85–919 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1958</b>—Pub. L. 85–919 designated existing provisions as subsec. (a) and added subsec. (b).
 
 Par. (1). Pub. L. 85–508 struck out reference to District Court for Territory of Alaska. See section 81A of this title which established a United States District Court for the State of Alaska.
 
-1951—Par. (1). Act Oct. 31, 1951, inserted reference to District Court of Guam.
+<b>1951</b>—Par. (1). Act Oct. 31, 1951, inserted reference to District Court of Guam.
 
 #### Effective Date of 1992 Amendment
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc.No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Termination of United States District Court for the District of the Canal Zone
 
@@ -122,5 +122,5 @@ Writs in aid of jurisdiction, power to issue, see section 1651 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 256, 798, 1291, 1294, 1295, 1334, 1452 of this title; title 9 section 15; title 11 section 305; title 15 sections 29, 78aa, 79y, 80a–43, 80b–14; title 16 sections 825p, 1456; title 42 section 2000e–5.
+This section is referred to in sections 256, 798, 1291, 1294, 1295, 1334, 1452 of this title; title 9 section 15; title 11 section 305; title 15 sections 29, 78aa, 79y, 80a–43, 80b–14; title 16 sections 825p, 1456; title 18 section 3626; title 42 section 2000e–5; title 45 sections 719, 743, 1105.
 

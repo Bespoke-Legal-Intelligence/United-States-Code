@@ -2,7 +2,7 @@
 
 Whenever the Board of Governors of the Federal Reserve System shall become satisfied of the insolvency of any corporation organized under this subchapter, it may appoint a receiver who shall take possession of all of the property and assets of the corporation and exercise the same rights, privileges, powers, and authority with respect thereto as are now exercised by receivers of national banks appointed by the Comptroller of the Currency of the United States: <i>Provided, however</i>, That the assets of the corporation subject to the laws of other countries or jurisdictions shall be dealt with in accordance with the terms of such laws.
 
-(Dec. 23, 1913, ch. 6, §25A (par.), formerly §25(a), as added Dec. 24, 1919, ch. 18, 41 Stat. 378; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; renumbered §25A, Dec. 19, 1991, Pub. L. 102–242, title I, §142(e)(2), 105 Stat. 2281.)
+(Dec. 23, 1913, ch. 6, §25A (par.), formerly §25(a), as added Dec. 24, 1919, ch. 18, 41 Stat. 378; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; renumbered §25A, Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.)
 
 #### References in Text
 

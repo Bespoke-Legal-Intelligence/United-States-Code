@@ -92,7 +92,7 @@ The following persons—
 
 &emsp;Mrs. Leo R. Pflaum, Wayzata, Minnesota;
 
-> and their successors, are hereby created and declared to be a body corporate by the name of American Symphony Orchestra League (hereinafter referred to as the corporation) and by such name shall be known and have perpetual succession and the powers, limitations, and restrictions herein contained.
+> and their successors, are hereby created and declared to be a body corporate by the name ofAmerican Symphony Orchestra League (hereinafter referred to as the corporation) and by such name shall be known and have perpetual succession and the powers, limitations, and restrictions herein contained.
 
 (Pub. L. 87–817, §1, Oct. 15, 1962, 76 Stat. 929.)
 

@@ -6,11 +6,11 @@ There is authorized a separate fund in the Treasury of the United States to be k
 
 #### (b) Crediting of appropriations
 
-All appropriations made for the purpose of carrying out the provisions of this chapter, other than section 620g of this title shall be credited to the Basin Fund as advances from the general fund of the Treasury.
+All appropriations made for the purpose of carrying out the provisions of this chapter,other than section 620g of this title shall be credited to the Basin Fund as advances from the general fund of the Treasury.
 
 #### (c) Crediting and availability of revenues
 
-All revenues collected in connection with the operation of the Colorado River storage projectand participating projects shall be credited to the Basin Fund, and shall be available, without further appropriation, for (1) defraying the costs of operation, maintenance, and replacements of, and emergency expenditures for, all facilities of the Colorado River storage project and participating projects, within such separate limitations as may be included in annual appropriation acts: <i>Provided</i>, That with respect to each participating project, such costs shall be paid from revenues received from each such project; (2) payment as required by subsection (d) of this section; and (3) payment as required by subsection (e) of this section. Revenues credited to the Basin Fund shall not be available for appropriation for construction of the units and participating projects authorized by or pursuant to this chapter.
+All revenues collected in connection with the operation of the Colorado River storage project and participating projects shall be credited to the Basin Fund, and shall be available, without further appropriation, for (1) defraying the costs of operation, maintenance, and replacements of, and emergency expenditures for, all facilities of the Colorado River storage project and participating projects, within such separate limitations as may be included in annual appropriation acts: <i>Provided</i>, That with respect to each participating project, such costs shall be paid from revenues received from each such project; (2) payment as required by subsection (d) of this section; and (3) payment as required by subsection (e) of this section. Revenues credited to the Basin Fund shall not be available for appropriation for construction of the units and participating projects authorized by or pursuant to this chapter.
 
 #### (d) Payments of revenues in excess of operating needs to Treasury
 
@@ -40,7 +40,7 @@ The interest rate applicable to each unit of the storage project and each partic
 
 Business-type budgets shall be submitted to the Congress annually for all operations financed by the Basin Fund.
 
-(Apr. 11, 1956, ch. 203, §5, 70 Stat. 107; June 27, 1960, Pub. L. 86–529, §9 (part), 74 Stat. 227; June 13, 1962, Pub. L. 87–483, §18, 76 Stat. 102; June 24, 1974, Pub. L. 93–320, title II, §205(d), 88 Stat. 273; Oct. 30, 1984, Pub. L. 98–569, §4(h), 98 Stat. 2939.)
+(Apr. 11, 1956, ch. 203, §5, 70 Stat. 107; Pub. L. 86–529, §9 (part), June 27, 1960, 74 Stat. 227; Pub. L. 87–483, §18, June 13, 1962, 76 Stat. 102; Pub. L. 93–320, title II, §205(d), June 24, 1974, 88 Stat. 273; Pub. L. 98–569, §4(h), Oct. 30, 1984, 98 Stat. 2939.)
 
 #### References in Text
 
@@ -50,7 +50,7 @@ Act of June 28, 1949, referred to in subsec. (e), is act June 28, 1949, ch. 255,
 
 #### Amendments
 
-1984—Subsec. (d)(5). Pub. L. 98–569 inserted “, the costs of measures to replace incidental fish and wildlifevalues foregone, and the costs of the on-farm measures” before “payable”.
+1984—Subsec. (d)(5). Pub. L. 98–569 inserted “, the costs of measures to replace incidental fish and wildlife values foregone, and the costs of the on-farm measures” before “payable”.
 
 1974—Subsec. (d)(5). Pub. L. 93–320 added par. (5).
 

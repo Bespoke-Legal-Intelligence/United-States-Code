@@ -30,7 +30,7 @@ Subject to subsection (c) of this section, the members of the Commission specifi
 
 #### (c) Membership continuation
 
-If any member of the Commission who was appointed to the Commission under paragraphs (1) through (5) <sup>1</sup> as an officer designated under suchparagraphs leaves such office, such member may continue as a member of the Commission for not longer than the thirty-day period beginning on the date he leaves that office.
+If any member of the Commission who was appointed to the Commission under paragraphs (1) through (5) <sup>1</sup> as an officer designated under such paragraphs leaves such office, such member may continue as a member of the Commission for not longer than the thirty-day period beginning on the date he leaves that office.
 
 #### (d) Vacancies
 

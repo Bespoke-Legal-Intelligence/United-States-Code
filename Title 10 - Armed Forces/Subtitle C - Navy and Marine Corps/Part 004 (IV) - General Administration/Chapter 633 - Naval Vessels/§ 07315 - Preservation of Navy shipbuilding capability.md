@@ -1,0 +1,48 @@
+### §7315. Preservation of Navy shipbuilding capability
+
+(a)
+
+Shipbuilding Capability Preservation Agreements.—The Secretary of the Navy may enter into an agreement, to be known as a “shipbuilding capability preservation agreement”, with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in section 2501(b) of this title.
+
+(b)
+
+Cost Reimbursement Rules.—The cost reimbursement rules applicable under an agreement entered into under subsection (a) are as follows:
+
+&emsp;(1) The Secretary of the Navy shall, in determining the reimbursement due a shipbuilder for its indirect costs of performing a contract for the construction of a ship for the Navy, allow the shipbuilder to allocate indirect costs to its private sector work only to the extent of the shipbuilder's allocable indirect private sector costs, subject to paragraph (3).
+
+&emsp;(2) For purposes of paragraph (1), the allocable indirect private sector costs of a shipbuilder are those costs of the shipbuilder that are equal to the sum of the following:
+
+&emsp;&emsp;(A) The incremental indirect costs attributable to such work.
+
+&emsp;&emsp;(B) The amount by which the revenue attributable to such private sector work exceeds the sum of—
+
+&emsp;&emsp;&emsp;(i) the direct costs attributable to such private sector work; and
+
+&emsp;&emsp;&emsp;(ii) the incremental indirect costs attributable to such private sector work.
+
+&emsp;(3) The total amount of allocable indirect private sector costs for a contract covered by the agreement may not exceed the amount of indirect costs that a shipbuilder would have allocated to its private sector work during the period covered by the agreement in accordance with the shipbuilder's established accounting practices.
+
+(c)
+
+Authority To Modify Cost Reimbursement Rules.—The cost reimbursement rules set forth in subsection (b) may be modified by the Secretary of the Navy for a particular agreement if the Secretary determines that modifications are appropriate to the particular situation to facilitate achievement of the policy set forth in section 2501(b) of this title.
+
+(d)
+
+Applicability.—(1) An agreement entered into with a shipbuilder under subsection (a) shall apply to each of the following Navy contracts with the shipbuilder:
+
+&emsp;(A) A contract that is in effect on the date on which the agreement is entered into.
+
+&emsp;(B) A contract that is awarded during the term of the agreement.
+
+(2) In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector work performed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998 under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
+
+(Added Pub. L. 105–85, div. A, title X, §1027(a)(1), Nov. 18, 1997, 111 Stat. 1878.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+
+#### Procedures for Applications and for Consideration of Agreements
+
+Section 1027(b) of Pub. L. 105–85 provided that: “Not later than 30 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by section 7315 of title 10, United States Code, as added by subsection (a).”
+

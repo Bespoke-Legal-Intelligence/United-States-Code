@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 104–132, §438(b), added subsec. (c).
 
 Subsec. (d). Pub. L. 104–132, §441(a), added subsec. (d).
 
-1994—Subsec. (b). Pub. L. 103–322, in par. (1), inserted “three or more misdemeanors involving drugs, crimes against the person, or both, or” after “commission of”and substituted “10” for “5”, in par. (2), substituted “20” for “15”, and added concluding sentence.
+1994—Subsec. (b). Pub. L. 103–322, in par. (1), inserted “three or more misdemeanors involving drugs, crimes against the person, or both, or” after “commission of” and substituted “10” for “5”, in par. (2), substituted “20” for “15”, and added concluding sentence.
 
 1990—Subsec. (a). Pub. L. 101–649 substituted “shall be fined under title 18, or imprisoned not more than 2 years” for “shall be guilty of a felony, and upon conviction thereof, be punished by imprisonment of not more than two years, or by a fine of not more than $1,000”.
 

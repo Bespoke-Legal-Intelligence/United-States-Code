@@ -20,7 +20,7 @@ The Attorney General is authorized—
 
 &emsp;(9) in concert with the Secretary of Health, Education, and Welfare, to make arrangements with the appropriate authorities of a foreign country and to issue regulations for the transfer and treatment of individuals who are accused of an offense but who have been determined to be mentally ill; the expenses of which shall be paid by the country of which such person is a citizen or national;
 
-&emsp;(10) to designate agents to receive, on behalf of the United States, the delivery by a foreign government of any citizen or national of the United States being transferred to the United States for the purpose of serving a sentence imposed by the courts of the foreign country, and to convey him to the place designated by the Attorney General. Such agent shall have all the powers of a marshal of the United States in the several districts through which it may be necessary for him to pass with the offender, so far as such power is requisite for the offender's transfer and safekeeping; within the territory of a foreign country such agent shall have such powers as the authorities of the foreign country may accord him;
+&emsp;(10) to designate agents to receive, on behalf of the United States, the delivery by a foreign government of any citizen or national of the United States being transferred to the United States for the purpose of serving a sentence imposed by the courts of the foreign country, and to convey him to the place designated by the Attorney General. Such agent shall have all the powers of a marshal of the United States in the several districts through which it may be necessary for him to pass with the offender, so far as such power is requisite forthe offender's transfer and safekeeping; within the territory of a foreign country such agent shall have such powers as the authorities of the foreign country may accord him;
 
 &emsp;(11) to delegate the authority conferred by this chapter to officers of the Department of Justice.
 
@@ -32,5 +32,5 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 
 #### Certification by Attorney General to Secretary of State for Reimbursement of Expenses Incurred Under Transfer Treaty
 
-Section 5(b) of Pub. L. 95–144 provided that: “The Attorney General shall certify to the Secretary of State the expenses of the United States related to the return of an offender to the foreign country of which the offender is a citizen or national for which the UnitedStates is entitled to seek reimbursement from that country under a treaty providing for transfer and reimbursement.”
+Section 5(b) of Pub. L. 95–144 provided that: “The Attorney General shall certify to the Secretary of State the expenses of the United States related to the return of an offender to the foreign country of which the offender is a citizen or national for which the United States is entitled to seek reimbursement from that country under a treaty providing for transfer and reimbursement.”
 

@@ -1,0 +1,288 @@
+### §1445. Withholding of tax on dispositions of United States real property interests
+
+#### (a) General rule
+
+Except as otherwise provided in this section, in the case of any disposition of a United States real property interest (as defined in section 897(c)) by a foreign person, the transferee shall be required to deduct and withhold a tax equal to 10 percent of the amount realized on the disposition.
+
+#### (b) Exemptions
+
+#### (1) In general
+
+&emsp;No person shall be required to deduct and withhold any amount under subsection (a) with respect to a disposition if paragraph (2), (3), (4), (5), or (6) applies to the transaction.
+
+#### (2) Transferor furnishes nonforeign affidavit
+
+&emsp;Except as provided in paragraph (7), this paragraph applies to the disposition if the transferor furnishes to the transferee an affidavit by the transferor stating, under penalty of perjury, the transferor's United States taxpayer identification number and that the transferor is not a foreign person.
+
+#### (3) Nonpublicly traded domestic corporation furnishes affidavit that interests in corporation not United States real property interests
+
+&emsp;Except as provided in paragraph (7), this paragraph applies in the case of a disposition of any interest in any domestic corporation if the domestic corporation furnishes to the transferee an affidavit by the domestic corporation stating, under penalty of perjury, that—
+
+&emsp;&emsp;(A) the domestic corporation is not and has not been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii), or
+
+&emsp;&emsp;(B) as of the date of the disposition, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B).
+
+#### (4) Transferee receives qualifying statement
+
+#### (A) In general
+
+&emsp;&emsp;This paragraph applies to the disposition if the transferee receives a qualifying statement at such time, in such manner, and subject to such terms and conditions as the Secretary may by regulations prescribe.
+
+#### (B) Qualifying statement
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “qualifying statement” means a statement by the Secretary that—
+
+&emsp;&emsp;&emsp;(i) the transferor either—
+
+&emsp;&emsp;&emsp;&emsp;(I) has reached agreement with the Secretary (or such agreement has been reached by the transferee) for the payment of any tax imposed by section 871(b)(1) or 882(a)(1) on any gain recognized by the transferor on the disposition of the United States real property interest, or
+
+&emsp;&emsp;&emsp;&emsp;(II) is exempt from any tax imposed by section 871(b)(1) or 882(a)(1) on any gain recognized by the transferor on the disposition of the United States real property interest, and
+
+&emsp;&emsp;&emsp;(ii) the transferor or transferee has satisfied any transferor's unsatisfied withholding liability or has provided adequate security to cover such liability.
+
+#### (5) Residence where amount realized does not exceed $300,000
+
+&emsp;This paragraph applies to the disposition if—
+
+&emsp;&emsp;(A) the property is acquired by the transferee for use by him as a residence, and
+
+&emsp;&emsp;(B) the amount realized for the property does not exceed $300,000.
+
+#### (6) Stock regularly traded on established securities market
+
+&emsp;This paragraph applies if the disposition is of a share of a class of stock that is regularly traded on an established securities market.
+
+#### (7) Special rules for paragraphs (2) and (3)
+
+&emsp;Paragraph (2) or (3) (as the case may be) shall not apply to any disposition—
+
+&emsp;&emsp;(A) if—
+
+&emsp;&emsp;&emsp;(i) the transferee has actual knowledge that the affidavit referred to in such paragraph is false, or
+
+&emsp;&emsp;&emsp;(ii) the transferee receives a notice (as described in subsection (d)) from a transferor's agent or a transferee's agent that such affidavit is false, or
+
+&emsp;&emsp;(B) if the Secretary by regulations requires the transferee to furnish a copy of such affidavit to the Secretary and the transferee fails to furnish a copy of such affidavit to the Secretary at such time and in such manner as required by such regulations.
+
+#### (c) Limitations on amount required to be withheld
+
+#### (1) Cannot exceed transferor's maximum tax liability
+
+#### (A) In general
+
+&emsp;&emsp;The amount required to be withheld under this section with respect to any disposition shall not exceed the amount (if any) determined under subparagraph (B) as the transferor's maximum tax liability.
+
+#### (B) Request
+
+&emsp;&emsp;At the request of the transferor or transferee, the Secretary shall determine, with respect to any disposition, the transferor's maximum tax liability.
+
+#### (C) Refund of excess amounts withheld
+
+&emsp;&emsp;Subject to such terms and conditions as the Secretary may by regulations prescribe, a transferor may seek and obtain a refund of any amounts withheld under this section in excess of the transferor's maximum tax liability.
+
+#### (2) Authority of Secretary to prescribe reduced amount
+
+&emsp;At the request of the transferor or transferee, the Secretary may prescribe a reduced amount to be withheld under this section if the Secretary determines that to substitute such reduced amount will not jeopardize the collection of the tax imposed by section 871(b)(1) or 882(a)(1).
+
+#### (3) Procedural rules
+
+#### (A) Regulations
+
+&emsp;&emsp;Requests for—
+
+&emsp;&emsp;&emsp;(i) qualifying statements under subsection (b)(4),
+
+&emsp;&emsp;&emsp;(ii) determinations of transferor's maximum tax liability under paragraph (1), and
+
+&emsp;&emsp;&emsp;(iii) reductions under paragraph (2) in the amount required to be withheld,
+
+> &emsp;&emsp;shall be made at the time and manner, and shall include such information, as the Secretary shall prescribe by regulations.
+
+#### (B) Requests to be handled within 90 days
+
+&emsp;&emsp;The Secretary shall take action with respect to any request described in subparagraph (A) within 90 days after the Secretary receives the request.
+
+#### (d) Liability of transferor's agents or transferee's agents
+
+#### (1) Notice of false affidavit; foreign corporations
+
+&emsp;If—
+
+&emsp;&emsp;(A) the transferor furnishes the transferee an affidavit described in paragraph (2) of subsection (b) or a domestic corporation furnishes the transferee an affidavit described in paragraph (3) of subsection (b), and
+
+&emsp;&emsp;(B) in the case of—
+
+&emsp;&emsp;&emsp;(i) any transferor's agent—
+
+&emsp;&emsp;&emsp;&emsp;(I) such agent has actual knowledge that such affidavit is false, or
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of an affidavit described in subsection (b)(2) furnished by a corporation, such corporation is a foreign corporation, or
+
+&emsp;&emsp;&emsp;(ii) any transferee's agent, such agent has actual knowledge that such affidavit is false,
+
+> &emsp;such agent shall so notify the transferee at such time and in such manner as the Secretary shall require by regulations.
+
+#### (2) Failure to furnish notice
+
+#### (A) In general
+
+&emsp;&emsp;If any transferor's agent or transferee's agent is required by paragraph (1) to furnish notice, but fails to furnish such notice at such time or times and in such manner as may be required by regulations, such agent shall have the same duty to deduct and withhold that the transferee would have had if such agent had complied with paragraph (1).
+
+#### (B) Liability limited to amount of compensation
+
+&emsp;&emsp;An agent's liability under subparagraph (A) shall be limited to the amount of compensation the agent derives from the transaction.
+
+#### (3) Transferor's agent
+
+&emsp;For purposes of this subsection, the term “transferor's agent” means any person who represents the transferor—
+
+&emsp;&emsp;(A) in any negotiation with the transferee or any transferee's agent related to the transaction, or
+
+&emsp;&emsp;(B) in settling the transaction.
+
+#### (4) Transferee's agent
+
+&emsp;For purposes of this subsection, the term “transferee's agent” means any person who represents the transferee—
+
+&emsp;&emsp;(A) in any negotiation with the transferor or any transferor's agent related to the transaction, or
+
+&emsp;&emsp;(B) in settling the transaction.
+
+#### (5) Settlement officer not treated as transferor's agent
+
+&emsp;For purposes of this subsection, a person shall not be treated as a transferor's agent ortransferee's agent with respect to any transaction merely because such person performs 1 or more of the following acts:
+
+&emsp;&emsp;(A) The receipt and the disbursement of any portion of the consideration for the transaction.
+
+&emsp;&emsp;(B) The recording of any document in connection with the transaction.
+
+#### (e) Special rules relating to distributions, etc., by corporations, partnerships, trusts, or estates
+
+#### (1) Certain domestic partnerships, trusts, and estates
+
+&emsp;In the case of any disposition of a United States real property interest as defined in section 897(c) (other than a disposition described in paragraph (4) or (5)) by a domestic partnership, domestic trust, or domestic estate, such partnership, the trustee of such trust, or the executor of such estate (as the case may be) shall be required to deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the gain realized to the extent such gain—
+
+&emsp;&emsp;(A) is allocable to a foreign person who is a partner or beneficiary of such partnership, trust, or estate, or
+
+&emsp;&emsp;(B) is allocable to a portion of the trust treated as owned by a foreign person under subpart E of part I of subchapter J.
+
+#### (2) Certain distributions by foreign corporations
+
+&emsp;In the case of any distribution by a foreign corporation on which gain is recognized under subsection (d) or (e) of section 897, the foreign corporation shall deduct and withhold under subsection (a) a tax equal to 35 percent of the amount of gain recognized on such distribution under such subsection.
+
+#### (3) Distributions by certain domestic corporations to foreign shareholders
+
+&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
+
+#### (4) Taxable distributions by domestic or foreign partnerships, trusts, or estates
+
+&emsp;A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
+
+#### (5) Rules relating to dispositions of interest in partnerships, trusts, or estates
+
+&emsp;To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized on the disposition.
+
+#### (6) Regulations
+
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations providing for exceptions from provisions of this subsection and regulations for the application of this subsection in the case of payments through 1 or more entities.
+
+#### (f) Definitions
+
+For purposes of this section—
+
+#### (1) Transferor
+
+&emsp;The term “transferor” means the person disposing of the United States real property interest.
+
+#### (2) Transferee
+
+&emsp;The term “transferee” means the person acquiring the United States real property interest.
+
+#### (3) Foreign person
+
+&emsp;The term “foreign person” means any person other than a United States person.
+
+#### (4) Transferor's maximum tax liability
+
+&emsp;The term “transferor's maximum tax liability” means, with respect to the disposition of any interest, the sum of—
+
+&emsp;&emsp;(A) the maximum amount which the Secretary determines could be imposed as tax under section 871(b)(1) or 882(a)(1) by reason of the disposition, plus
+
+&emsp;&emsp;(B) the amount the Secretary determines to be the transferor's unsatisfied withholding liability with respect to such interest.
+
+#### (5) Transferor's unsatisfied withholding liability
+
+&emsp;The term “transferor's unsatisfied withholding liability” means the withholding obligation imposed by this section on the transferor's acquisition of the United States real property interest or on the acquisition of a predecessor interest, to the extent such obligation has not been satisfied.
+
+(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug.20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835.)
+
+#### Amendments
+
+<b>1997</b>—Subsec. (e)(1). Pub. L. 105–34 substituted “20 percent” for “28 percent” in introductory provisions.
+
+<b>1996</b>—Subsec. (e)(3). Pub. L. 104–188 inserted at end “Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.”
+
+<b>1993</b>—Subsec. (e)(1), (2). Pub. L. 103–66 substituted “35 percent” for “34 percent”.
+
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–647 inserted “(or, to the extent provided in regulations, 28 percent)” after “to 34 percent”.
+
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “it is not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
+
+Subsec. (d)(1)(A). Pub. L. 99–514, §1810(f)(3)(B), substituted “paragraph (2)” for “paragraph (2)(A)”.
+
+Subsec. (d)(1)(B)(i). Pub. L. 99–514, §1810(f)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any transferor's agent, the transferor is a foreign corporation or such agent has actual knowledge that such affidavit is false, or”.
+
+Subsec. (e)(1). Pub. L. 99–514, §311(b)(4), substituted “34 percent” for “28 percent”.
+
+Pub. L. 99–514, §1810(f)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A domestic partnership, the trustee of a domestic trust, or the executor of a domestic estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of any amount of which such partnership, trustee, or executor has custody which is—
+
+&emsp;“(A) attributable to the disposition of a United States real property interest (as defined in section 897(c), other than a disposition described in paragraph (4) or (5)), and
+
+&emsp;“(B) either—
+
+&emsp;&emsp;“(i) includible in the distributive share of a partner of the partnership who is a foreign person,
+
+&emsp;&emsp;“(ii) includible in the income of a beneficiary of the trust or estate who is a foreign person, or
+
+&emsp;&emsp;“(iii) includible in the income of a foreign person under the provisions of section 671.”
+
+Subsec. (e)(2). Pub. L. 99–514, §311(b)(4), substituted “34 percent” for “28 percent”.
+
+Subsec. (e)(3). Pub. L. 99–514, §1810(f)(5), inserted “The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B).”
+
+Subsec. (e)(4). Pub. L. 99–514, §1810(f)(6), substituted “section 897” for “section 897(g)”.
+
+Subsec. (e)(6). Pub. L. 99–514, §1810(f)(8), inserted “and regulations for the application of this subsection in the case of payments through 1 or more entities”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–34 applicable only to amounts paid after Aug. 5, 1997, see section 311(d)(2) of Pub. L. 105–34, set out as a note under section 1 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Section 1704(c)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 20, 1996\].”
+
+#### Effective Date of 1988 Amendment
+
+Section 1003(b)(3) of Pub. L. 100–647 provided that the amendment made by that section is effective for taxable years beginning after Dec. 31, 1987.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by section 311(b)(4) of Pub. L. 99–514 applicable to payments made after Dec. 31, 1986, see section 311(c) of Pub. L. 99–514, as amended, set out as a note under section 1201 of this title.
+
+Amendment by section 1810(f)(2), (3), (5), (6), (8) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+
+Section 1810(f)(4)(B) of Pub. L. 99–514 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to dispositions after the day 30 days after the date of the enactment of this Act \[Oct. 22, 1986\].”
+
+#### Effective Date
+
+Section 129(c)(1) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to any disposition on or after January 1, 1985.”
+
+#### Plan Amendments Not Required Until January 1, 1989
+
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 897, 6039C of this title.
+

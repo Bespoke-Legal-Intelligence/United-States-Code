@@ -34,7 +34,7 @@ Grants under this section may be made only to—
 
 &emsp;&emsp;(B) The sports program shall provide positive sports activities or positive cultural, recreational, or other activities, designed to appeal to youths as alternatives to the drug environment in the public housing project.
 
-&emsp;&emsp;(C) The sports program shall be operated as, in conjunction with, or in furtherance of,an organized program or plan designed to eliminate drugs and drug-related problems in the public housing project or projects within the public housing agency.
+&emsp;&emsp;(C) The sports program shall be operated as, in conjunction with, or in furtherance of, an organized program or plan designed to eliminate drugs and drug-related problems in the public housing project or projects within the public housing agency.
 
 #### (3) Midnight basketball league programs
 
@@ -56,7 +56,7 @@ Any qualified entity that receives a grant under this section may use amounts fr
 
 #### (1) Matching amount
 
-&emsp;The Secretary may not make a grant to any qualified entity that applies for a grant under subsection (f) of this section unless the applicant entity certifies to the Secretary, as the Secretary shall require, that the applicant will supplement the amount provided by the grant with an amount of funds from non-Federal sources equal to or greater than 50 percent of the amount provided by the grant.
+&emsp;The Secretary may not make a grant to any qualified entity that applies for a grant undersubsection (f) of this section unless the applicant entity certifies to the Secretary, as the Secretary shall require, that the applicant will supplement the amount provided by the grant with an amount of funds from non-Federal sources equal to or greater than 50 percent of the amount provided by the grant.
 
 #### (2) Non-Federal funds
 
@@ -360,7 +360,7 @@ This Act, referred to in subsec. (e)(3), is the Cranston-Gonzalez National Affor
 
 Section 1437a(b) of this title, referred to in subsec. (i)(2), was in the original “section 3(6) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b))”, and was translated as reading “section 3(b) of the United States Housing Act of 1937” to reflect the probable intent of Congress.
 
-Section 290aa–8 of this title, referred to in subsec. (<i>l</i>)(9)(B), was in the original a reference to section 509A of the Public Health Service Act. Section 509A of that Act was renumbered section 517 and amended by Pub. L. 102–321, title I, §114, July 10, 1992, 106 Stat. 346, and was transferred to section 290bb–23 of this title.
+Section 290aa–8 of this title, referred to in subsec. (<i>l</i>)(9)(B), was in the original a reference to section 509Aof the Public Health Service Act. Section 509A of that Act was renumbered section 517 and amended by Pub. L. 102–321, title I, §114, July 10, 1992, 106 Stat. 346, and was transferred to section 290bb–23 of this title.
 
 #### Codification
 

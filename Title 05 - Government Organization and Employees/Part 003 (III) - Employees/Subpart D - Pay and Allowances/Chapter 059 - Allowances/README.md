@@ -69,7 +69,7 @@ Pub. L. 95–426, title IV, §411(b), Oct. 7, 1978, 92 Stat. 981, added item 592
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 5307 of this title.
+This chapter is referred to in section 5307 of this title; title 22 section 3664.
 
 
 ---

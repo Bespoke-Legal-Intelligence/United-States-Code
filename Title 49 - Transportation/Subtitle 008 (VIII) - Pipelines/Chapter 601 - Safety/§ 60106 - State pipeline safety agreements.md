@@ -6,7 +6,7 @@ General Authority.—If the Secretary of Transportation does not receive a certi
 
 &emsp;(1) establish an adequate program for record maintenance, reporting, and inspection designed to assist compliance with applicable safety standards prescribed under this chapter; and
 
-&emsp;(2) prescribe procedures for approval of plans of inspection and maintenance substantiallythe same as required under section 60108 (a) and (b) of this title.
+&emsp;(2) prescribe procedures for approval of plans of inspection and maintenance substantially the same as required under section 60108 (a) and (b) of this title.
 
 (b)
 

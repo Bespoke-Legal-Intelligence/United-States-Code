@@ -2,7 +2,7 @@
 
 The Commissioner may supply printed copies of specifications and drawings of patents to public libraries in the United States which shall maintain such copies for the use of the public, at the rate for each year's issue established for this purpose in section 41(d) of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 794; Aug. 27, 1982, Pub. L. 97–247, §15, 96 Stat. 321.)
+(July 19, 1952, ch. 950, 66 Stat. 794; Pub. L. 97–247, §15, Aug. 27, 1982, 96 Stat. 321.)
 
 #### Historical and Revision Notes
 

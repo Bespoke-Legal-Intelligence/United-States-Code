@@ -2,7 +2,7 @@
 
 #### (a) Debt reduction authority
 
-The President may reduce amounts of principle <sup>1</sup> and interest owed by any eligible country to the Bank as a result of loans or guarantees made under this subchapter.
+The President may reduce amounts of principle <sup>1</sup> and interest owed by any eligible countryto the Bank as a result of loans or guarantees made under this subchapter.
 
 #### (b) Limitations
 
@@ -42,7 +42,7 @@ The authority provided by this section may be exercised only with respect to a c
 
 The authority provided by subsection (a) of this section may be exercised only in such amounts or to such extent as is provided in advance in appropriations Acts.
 
-(July 31, 1945, ch. 341, §14, formerly §11, as added Sept. 30, 1993, Pub. L. 103–87, title V, §570(b), 107 Stat. 970; renumbered §14, Oct. 31, 1994, Pub. L. 103–428, §2(b), 108 Stat. 4376.)
+(July 31, 1945, ch. 341, §14, formerly §11, as added Pub. L. 103–87, title V, §570(b), Sept. 30, 1993, 107 Stat. 970; renumbered §14, Pub. L. 103–428, §2(b), Oct. 31, 1994, 108 Stat. 4376.)
 
 #### Delegation of Authority With Respect to Debt Reduction for Poorest Countries
 

@@ -8,7 +8,7 @@ The Director of the United States Geological Survey, which office is established
 
 The authority of the Secretary of the Interior, exercised through the United States Geological Survey of the Department of the Interior, to examine the geological structure, mineral resources, and products of the national domain, is expanded to authorize such examinations outside the national domain where determined by the Secretary to be in the national interest.
 
-(Mar. 3, 1879, ch. 182, 20 Stat. 394; Sept. 5, 1962, Pub. L. 87–626, §§1, 2, 76 Stat. 427; Jan. 2, 1975, Pub. L. 93–608, §2(6), 88 Stat. 1971; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000; Dec. 21, 1995, Pub. L. 104–66, title I, §1081(e), 109 Stat. 721.)
+(Mar. 3, 1879, ch. 182, 20 Stat. 394; Pub. L. 87–626, §§1, 2, Sept. 5, 1962, 76 Stat. 427; Pub. L. 93–608, §2(6), Jan. 2, 1975, 88 Stat. 1971; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 104–66, title I, §1081(e), Dec. 21, 1995, 109 Stat. 721.)
 
 #### Codification
 

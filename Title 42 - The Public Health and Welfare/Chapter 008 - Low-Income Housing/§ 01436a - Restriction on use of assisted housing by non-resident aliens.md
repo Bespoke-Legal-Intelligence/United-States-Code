@@ -62,7 +62,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 > &emsp;In the case of an individual applying for financial assistance on or after September 30, 1996, the Secretary may not provide any such assistance for the benefit of that individual before documentation is presented and verified under paragraph (3) or (4).
 
-&emsp;(3) If the documentation described in paragraph (2)(A) is presented, the applicable Secretary shall utilize the individual's alien file or alien admission number to verify with the Immigration and Naturalization Service the individual's immigration status through an automated or other system (designated by the Service for use with States) that—
+&emsp;(3) If the documentation described in paragraph (2)(A) is presented, the applicable Secretary shall utilize the individual's alien file or alien admission number to verify with theImmigration and Naturalization Service the individual's immigration status through an automated or other system (designated by the Service for use with States) that—
 
 &emsp;&emsp;(A) utilizes the individual's name, file number, admission number, or other means permitting efficient verification, and
 
@@ -110,7 +110,7 @@ The applicable Secretary shall not take any compliance, disallowance, penalty, o
 
 &emsp;(2) because the entity, under subsection (d)(4)(A)(ii) of this section (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)), was required to provide a reasonable opportunity to submit documentation, or
 
-&emsp;(3) because the entity, under subsection (d)(4)(B)(ii) of this section (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law 99–603)), was required to wait for the response of the Immigration and Naturalization Service to the entity's request for official verification of the immigration status of the individual, or the response from the Immigration and Naturalization Service to the appeal of that individual.
+&emsp;(3) because the entity, under subsection (d)(4)(B)(ii) of this section (or under any alternative system for verifying immigration status with the Immigration and Naturalization Service authorized in the Immigration Reform and Control Act of 1986 (Public Law99–603)), was required to wait for the response of the Immigration and Naturalization Service to the entity's request for official verification of the immigration status of the individual, or the response from the Immigration and Naturalization Service to the appeal of that individual.
 
 #### (f) Verification system; liability of State or local government agencies or officials; prior consent agreements, court decrees or court orders unaffected
 

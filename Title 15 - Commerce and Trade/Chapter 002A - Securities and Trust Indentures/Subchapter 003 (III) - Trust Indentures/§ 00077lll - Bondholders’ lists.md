@@ -6,7 +6,7 @@ Each obligor upon the indenture securities shall furnish or cause to be furnishe
 
 #### (b) Access of information to security holders
 
-Within five business days after the receipt by the institutional trustee of a written application by any three or more indenture security holders stating that the applicants desire to communicate with other indenture security holders with respect to their rights under such indenture or under the indenture securities, and accompanied by a copy of the form of proxy or other communication which such applicants propose to transmit, and by reasonable proof that each such applicant has owned an indenture security for a period of at least six months preceding the date of such application, such institutional trustee shall, at its election, either—
+Within five business days after the receipt by the institutional trustee of a written application by any three or more indenture security holders stating that the applicants desire to communicate with other indenture securityholders with respect to their rights under such indenture or under the indenture securities, and accompanied by a copy of the form of proxy or other communication which such applicants propose to transmit, and by reasonable proof that each such applicant has owned an indenture security for a period of at least six months preceding the date of such application, such institutional trustee shall, at its election, either—
 
 &emsp;(1) afford to such applicants access to all information so furnished to or received by such trustee; or
 

@@ -1,6 +1,6 @@
 ### §8714. Employees’ Life Insurance Fund
 
-(a) The amounts withheld from employees under section 8707 of this title and the sums contributed from appropriations and funds under section 8708 of this title shall be deposited in the Treasury of the United States to the credit ofthe Employees’ Life Insurance Fund. The Fund is available without fiscal year limitation for—
+(a) The amounts withheld from employees under section 8707 of this title and the sums contributed from appropriations and funds under section 8708 of this title shall be deposited in the Treasury of the United States to the credit of the Employees’ Life Insurance Fund. The Fund is available without fiscal year limitation for—
 
 &emsp;(1) premium payments under an insurance policy purchased under this chapter; and
 

@@ -50,5 +50,5 @@ Subsecs. (d), (e). Pub. L. 102–245, §503(3), (4), added subsec. (d) and redes
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2123, 6681, 6686, 6687 of this title; title 10 section 2491; title 15 sections 278n, 638; title 22 section 3142.
+This section is referred to in sections 2123, 6681, 6686, 6687 of this title; title 10 section 2500; title 15 sections 278n, 638; title 22 section 3142.
 

@@ -22,7 +22,7 @@ There are hereby transferred to and vested in the Administrator such functions o
 
 &emsp;(1) as relate to or are utilized by the Office of Coal Research established pursuant to the Act of July 1, 1960 (74 Stat. 336; 30 U.S.C. 661–669);
 
-&emsp;(2) as relate to or are utilized in connection with fossil fuel energy research and development programs and related activities conducted by the United States Bureau of Mines “energy centers” and synthane plant to provide greater efficiency in the extraction, processing, and utilization of energy resources for the purpose of conserving those resources, developing alternative energy resources, such as oil and gas secondary and tertiary recovery, oil shale and synthetic fuels, improving methods of managing energy-related wastes and pollutants, and providing technical guidance needed to establish and administer national energy policies; and
+&emsp;(2) as relate to or are utilized in connection with fossil fuel energy research and development programs and related activities conducted by the United States Bureau of Mines“energy centers” and synthane plant to provide greater efficiency in the extraction, processing, and utilization of energy resources for the purpose of conserving those resources, developing alternative energy resources, such as oil and gas secondary and tertiary recovery, oil shale and synthetic fuels, improving methods of managing energy-related wastes and pollutants, and providing technical guidance needed to establish and administer national energy policies; and
 
 &emsp;(3) as relate to or are utilized for underground electric power transmission research.
 
@@ -204,7 +204,7 @@ Section 57 \[42 U.S.C. 2077\] (“Prohibition”).
 
 Section 61 \[42 U.S.C. 2091\] (“Source Material”); provided, that the respective determinations shall be made as indicated in Chapter 2 above).
 
-Subsection 63a. (source material) \[42 U.S.C. 2093(a)\]; provided, that the authority to distribute shall apply only to ERDA and the authority to license shall apply only to NSLC.
+Subsection 63a. (source material) \[42 U.S.C. 2093(a)\]; provided, that the authority to distribute shall applyonly to ERDA and the authority to license shall apply only to NSLC.
 
 Section 65 \[42 U.S.C. 2095\] (“Reporting”).
 

@@ -8,7 +8,7 @@ For the purposes of this subchapter:
 
 &emsp;&emsp;(B) with respect to an asset that is not real property or that is a fixture, when the transfer is so far perfected that a creditor on a simple contract cannot acquire, otherwise than under this subchapter, a judicial lien that is superior to the interest of the transferee.
 
-&emsp;(2) If applicable law permits the transfer to be perfected as approved in paragraph (1) andthe transfer is not so perfected before the commencement of an action or proceeding for relief under this subchapter, the transfer is deemed made immediately before the commencement of the action or proceeding.
+&emsp;(2) If applicable law permits the transfer to be perfected as approved in paragraph (1) and the transfer is not so perfected before the commencement of an action or proceeding for relief under this subchapter, the transfer is deemed made immediately before the commencement of the action or proceeding.
 
 &emsp;(3) If applicable law does not permit the transfer to be perfected as provided in paragraph (1), the transfer is made when it becomes effective between the debtor and the transferee.
 

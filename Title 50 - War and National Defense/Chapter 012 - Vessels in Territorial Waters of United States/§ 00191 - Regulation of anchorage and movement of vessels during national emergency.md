@@ -4,13 +4,13 @@ Whenever the President by proclamation or Executive order declares a national em
 
 Whenever the President finds that the security of the United States is endangered by reason of actual or threatened war, or invasion, or insurrection, or subversive activity, or of disturbances or threatened disturbances of the international relations of the United States, the President is authorized to institute such measures and issue such rules and regulations—
 
-&emsp;(a) to govern the anchorage and movement of any foreign-flag vessels in the territorial waters of the United States, to inspect such vessels at any time, to place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of rights and obligations of the United States, may take for such purposes full possession and control of such vessels and remove therefrom the officers and crew thereof, and all other persons not especially authorized by him to go or remain on board thereof;
+&emsp;(a) to govern the anchorage and movement of any foreign-flag vessels in the territorial waters of the United States, to inspect such vessels at any time, to place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of rights and obligations of the United States, may take for such purposes full possession and control of such vessels and remove therefrom the officers and crew thereof,and all other persons not especially authorized by him to go or remain on board thereof;
 
 &emsp;(b) to safeguard against destruction, loss, or injury from sabotage or other subversive acts, accidents, or other causes of similar nature, vessels, harbors, ports, and waterfront facilities in the United States and all territory and water, continental or insular, subject to the jurisdiction of the United States.
 
 > Any appropriation available to any of the Executive Departments shall be available to carry out the provisions of this title.<sup>1</sup>
 
-(June 15, 1917, ch. 30, title II, §1, 40 Stat. 220; Aug. 9, 1950, ch. 656, §1, 64 Stat. 427; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938; Sept. 27, 1979, Pub. L. 96–70, title III, §3302(a), 93 Stat. 498;Sept. 30, 1996, Pub. L. 104–208, div. C, title VI, §649, 110 Stat. 3009–711.)
+(June 15, 1917, ch. 30, title II, §1, 40 Stat. 220; Aug. 9, 1950, ch. 656, §1, 64 Stat. 427; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938; Pub. L. 96–70, title III, §3302(a), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–208, div. C, title VI, §649, Sept. 30, 1996, 110 Stat. 3009–711.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ WHEREAS, on July 13, 1995, persons in U.S.-registered vessels who entered into C
 
 WHEREAS the entry of U.S.-registered vessels into Cuban territorial waters could again result in injury to, or loss of life of, persons engaged in that conduct, due to the potential use of excessive force, including deadly force, against them by the Cuban military, and could threaten a disturbance in international relations;
 
-NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 1 of title II of Public Law 65-24, ch. 30, June 15, 1917, as amended (50 U.S.C. 191), sections 201 and 301 of the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) \[50 U.S.C. 1621, 1631\], and section 301 of title 3, United States Code, find and do hereby proclaim that a national emergency does exist by reason of a disturbance or threatened disturbance of international relations. In order to address this national emergency and to secure the observance of the rights and obligations of the United States, I hereby authorize and direct the Secretary of Transportation (the “Secretary”) to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of vessels, and delegate to the Secretary my authority to approve such rules and regulations, as authorized by the Act of June 15, 1917 \[see Tables for classification\].
+NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 1 of title II of Public Law 65-24, ch. 30, June 15, 1917, as amended (50 U.S.C. 191), sections 201 and 301 of the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) \[50 U.S.C. 1621, 1631\], and section 301 of title 3, United States Code, find and do hereby proclaim that a national emergency doesexist by reason of a disturbance or threatened disturbance of international relations. In order to address this national emergency and to secure the observance of the rights and obligations of the United States, I hereby authorize and direct the Secretary of Transportation (the “Secretary”) to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of vessels, and delegate to the Secretary my authority to approve such rules and regulations, as authorized by the Act of June 15, 1917 \[see Tables for classification\].
 
 Section 1. The Secretary may make rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, which may be used, or is susceptible of being used, for voyage into Cuban territorial waters and that may create unsafe conditions and threaten a disturbance of international relations. Any rule or regulation issued pursuant to this proclamation may be effective immediately upon issuance as such rule or regulation shall involve a foreign affairs function of the United States.
 
@@ -91,6 +91,20 @@ Sec. 6. This proclamation shall be immediately transmitted to the Congress and p
 IN WITNESS WHEREOF, I have hereunto set my hand this first day of March, in the year of our Lord nineteen hundred and ninety-six, and of the Independence of the United States of America the two hundred and twentieth.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Continuation of National Emergency Declared by Proc. No. 6867
+
+Notice of President of the United States, dated Feb. 25, 1998, 63 F.R. 9923, provided:
+
+On March 1, 1996, by Proclamation 6867 \[set out above\], I declared a national emergency to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Government of Cuba of two unarmed U.S.-registered civilian aircraft in international airspace north of Cuba. In July 1995, the Government of Cuba demonstrated a ready and reckless use of force against U.S.-registered vessels that entered into Cuban territorial waters that resulted in damage and injury to persons on board. In July 1996, the Government of Cuba stated its intent to forcefully defend its sovereignty against any U.S.-registered vessels or aircraft that might enter Cuban territorial waters or airspace while involved in a memorial flotilla and peaceful protest. Since these events, the Government of Cuba has not demonstrated that it will refrain from the future use of reckless and excessive force against U.S. vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Cuba and the emergency authority relating to the regulation of the anchorage and movement of vessels set out in Proclamation 6867.
+
+This notice shall be published in the Federal Register and transmitted to the Congress.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Prior continuation of national emergency declared by Proc. No. 6867 was contained in the following:
+
+Notice of President of the United States, dated Feb. 27, 1997, 62 F.R. 9347.
 
 #### Cross References
 

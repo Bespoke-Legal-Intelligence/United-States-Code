@@ -2,5 +2,5 @@
 
 The Secretary of State is authorized and directed to transfer or otherwise make available to the Commission such records and documents relating to claims authorized by this subchapter as may be required by the Commission in carrying out its functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title IV, §415, as added Aug. 8, 1958, Pub. L. 85–604, §1, 72 Stat. 530.)
+(Mar. 10, 1950, ch. 54, title IV, §415, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 530.)
 

@@ -34,7 +34,7 @@ The Administrator shall prepare and submit directly to the Congress and the Pres
 
 #### (c) Citizen fuel use; summer guidelines
 
-Not later than thirty days after the effective date of this chapter, the Administrator shallissue preliminary summer guidelines for citizen fuel use.
+Not later than thirty days after the effective date of this chapter, the Administrator shall issue preliminary summer guidelines for citizen fuel use.
 
 #### (d) Administrator's interim reports to Congress
 

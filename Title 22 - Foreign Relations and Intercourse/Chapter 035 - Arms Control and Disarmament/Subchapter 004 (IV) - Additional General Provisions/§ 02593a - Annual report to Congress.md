@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than January 31 of each year, the President shall submit to the Speaker of theHouse of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Director, in consultation with the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence, on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
+Not later than January 31 of each year, the President shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Director, in consultation with the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence, on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
 
 &emsp;(1) a detailed statement concerning the arms control and disarmament objectives of the executive branch of Government for the forthcoming year;
 

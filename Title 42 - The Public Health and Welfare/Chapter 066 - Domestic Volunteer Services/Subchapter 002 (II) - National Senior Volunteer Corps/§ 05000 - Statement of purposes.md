@@ -8,7 +8,7 @@ It is the purpose of—
 
 &emsp;(3) part B of this subchapter, the foster grandparent program, to afford low-income older individuals an opportunity to provide supportive, individualized services to children with exceptional or special needs; and
 
-&emsp;(4) part C of this subchapter, the senior companion program, to afford low-income older individuals the opportunity to provide personalassistance and companionship to other older individuals through volunteer service.
+&emsp;(4) part C of this subchapter, the senior companion program, to afford low-income older individuals the opportunity to provide personal assistance and companionship to other older individuals through volunteer service.
 
 (Pub. L. 93–113, title II, §200, as added Pub. L. 101–204, title V, §501, Dec. 7, 1989, 103 Stat. 1815; amended Pub. L. 103–82, title III, §§341(b)(1), 342(b), Sept. 21, 1993, 107 Stat. 904.)
 

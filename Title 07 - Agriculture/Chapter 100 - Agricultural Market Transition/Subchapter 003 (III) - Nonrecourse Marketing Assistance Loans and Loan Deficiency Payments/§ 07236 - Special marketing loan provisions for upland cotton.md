@@ -4,15 +4,15 @@
 
 #### (1) Issuance
 
-&emsp;Subject to paragraph (4), during the period ending July 31, 2003, the Secretary shall issue marketing certificates or cash payments to domestic users and exporters for documented purchases by domestic users and sales for export by exporters made in the week following a consecutive 4-week period in which—
+&emsp;During the period ending July 31, 2003, the Secretary shall issue marketing certificates or cash payments to domestic users and exporters for documented purchases by domestic users and sales for export by exporters made in the week following a consecutive 4-week period in which—
 
 &emsp;&emsp;(A) the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe exceeds the Northern Europe price by more than 1.25 cents per pound; and
 
-&emsp;&emsp;(B) the prevailing world market price for upland cotton (adjusted to United States quality and location) does not exceed 130 percent of the loan rate for upland cotton established under section 7232 of this title.
+&emsp;&emsp;(B) the prevailing world market price for upland cotton (adjusted to United States quality and location) does not exceed 134 percent of the loan rate for upland cotton established under section 7232 of this title.
 
 #### (2) Value of certificates or payments
 
-&emsp;The value of the marketing certificates or cash payments shall be based on the amount of the difference (reduced by 1.25 cents per pound) in the prices during the 4th week of theconsecutive 4-week period multiplied by the quantity of upland cotton included in the documented sales.
+&emsp;The value of the marketing certificates or cash payments shall be based on the amount of the difference (reduced by 1.25 cents per pound) in the prices during the 4th week of the consecutive 4-week period multiplied by the quantity of upland cotton included in the documented sales.
 
 #### (3) Administration of marketing certificates
 
@@ -28,11 +28,7 @@
 
 &emsp;&emsp;Marketing certificates issued to domestic users and exporters of upland cotton may be transferred to other persons in accordance with regulations issued by the Secretary.
 
-#### (4) Exception
-
-&emsp;The Secretary shall not issue marketing certificates or cash payments under paragraph (1) if, for the immediately preceding consecutive 10-week period, the Friday through Thursday average price quotation for the lowest priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under this subsection, exceeds the Northern Europe price by more than 1.25 cents per pound.
-
-#### (5) Limitation on expenditures
+#### (4) Limitation on expenditures
 
 &emsp;Total expenditures under this subsection shall not exceed $701,000,000 during fiscal years 1996 through 2002.
 
@@ -82,7 +78,7 @@
 
 #### (B) Quantity if prior quota
 
-&emsp;&emsp;If a quota has been established under this subsection during the preceding 12 months, the quantity of the quota next establishedunder this subsection shall be the smaller of 21 days of domestic mill consumption calculated under subparagraph (A) or the quantity required to increase the supply to 130 percent of the demand.
+&emsp;&emsp;If a quota has been established under this subsection during the preceding 12 months, the quantity of the quota next established under this subsection shall be the smaller of 21 days of domestic mill consumption calculated under subparagraph (A) or the quantity required to increase the supply to 130 percent of the demand.
 
 #### (C) Preferential tariff treatment
 
@@ -120,7 +116,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) average exports of upland cotton during the preceding 6 marketing years; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) cumulative exports of upland cotton plus outstanding export sales for the marketing year in which the quota is established.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) cumulative exports of upland cotton plus outstanding export salesfor the marketing year in which the quota is established.
 
 #### (iii) Limited global import quota
 
@@ -134,11 +130,21 @@
 
 &emsp;Notwithstanding paragraph (1), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (b) of this section.
 
-(Pub. L. 104–127, title I, §136, Apr. 4, 1996, 110 Stat. 909.)
+(Pub. L. 104–127, title I, §136, Apr. 4, 1996, 110 Stat. 909; Pub. L. 105–86, title VII, §731, Nov. 18, 1997, 111 Stat. 2108.)
 
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(iv), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+
+#### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–86, §731(1), in introductory provisions substituted “During” for “Subject to paragraph (4), during” and in subpar. (B) substituted “134” for “130”.
+
+Subsec. (a)(4), (5). Pub. L. 105–86, §731(2), (3) redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “The Secretary shall not issue marketing certificates or cash payments under paragraph (1) if, for the immediately preceding consecutive 10-week period, the Friday through Thursday average price quotation for the lowest priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under this subsection, exceeds the Northern Europe price by more than 1.25 cents per pound.”
+
+#### Effective Date of 1997 Amendment
+
+Section 731 of Pub. L. 105–86 provided that the amendment made by that section is effective Oct. 1, 1998.
 
 #### Section Referred to in Other Sections
 

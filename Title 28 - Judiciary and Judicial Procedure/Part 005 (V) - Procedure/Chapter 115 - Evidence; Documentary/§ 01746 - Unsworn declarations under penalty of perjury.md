@@ -18,5 +18,5 @@ A prior section 1746 was renumbered section 1745 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 8 section 1357; title 10 section 931; title 18 sections 152, 1546, 1621, 1623; title 25 section 399.
+This section is referred to in title 8 sections 1183a, 1225, 1357; title 10 section 931; title 18 sections 152, 1546, 1621, 1623; title 25 section 399.
 

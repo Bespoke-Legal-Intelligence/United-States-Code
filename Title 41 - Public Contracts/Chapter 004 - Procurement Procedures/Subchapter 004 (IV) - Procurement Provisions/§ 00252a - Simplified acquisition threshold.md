@@ -8,7 +8,7 @@ For purposes of acquisitions by executive agencies, the simplified acquisition t
 
 No law properly listed in the Federal Acquisition Regulation pursuant to section 429 of this title shall apply to or with respect to a contract or subcontract that is not greater than the simplified acquisition threshold.
 
-(June 30, 1949, ch. 288, title III, §302A, as added and amended Oct. 13, 1994, Pub. L. 103–355, title IV, §§4003, 4103(a), 108 Stat. 3338, 3341.)
+(June 30, 1949, ch. 288, title III, §302A, as added and amended Pub. L. 103–355, title IV, §§4003, 4103(a), Oct. 13, 1994, 108 Stat. 3338, 3341.)
 
 #### Amendments
 

@@ -46,7 +46,7 @@ The Congress makes the following findings:
 
 &emsp;(18) Although a signatory state to the 1928 Inter-American Convention on Asylum and the International Covenant on Civil and Political Rights (which protects the right to leave one's own country), Cuba nevertheless surrounds embassies in its capital by armed forces to thwart the right of its citizens to seek asylum and systematically denies that right to the Cuban people, punishing them by imprisonment for seeking to leave the country and killing them for attempting to do so (as demonstrated in the case of the confirmed murder of over 40 men, women, and children who were seeking to leave Cuba on July 13, 1994).
 
-&emsp;(19) The Castro government continues to utilize blackmail, such as the immigration crisis with which it threatened the United States in the summer of 1994, and other unacceptable and illegal forms of conduct to influence the actions of sovereign states in the Western Hemisphere in violation of the Charter of the Organization of American States and other international agreements and international law.
+&emsp;(19) The Castro government continues to utilize blackmail, such as the immigration crisis with which it threatened the United States in the summer of 1994, and other unacceptable and illegal forms of conduct to influence theactions of sovereign states in the Western Hemisphere in violation of the Charter of the Organization of American States and other international agreements and international law.
 
 &emsp;(20) The United Nations Commission on Human Rights has repeatedly reported on the unacceptable human rights situation in Cuba and has taken the extraordinary step of appointing a Special Rapporteur.
 
@@ -74,7 +74,7 @@ The Cuban Democracy Act of 1992, referred to in par. (11), is title XVII of div.
 
 The Foreign Assistance Act of 1961, referred to in par. (12), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The FREEDOM Support Act, referred to in par. (12), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act tothe Code, see Short Title note set out under section 5801 of this title and Tables.
+The FREEDOM Support Act, referred to in par. (12), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Short Title
 

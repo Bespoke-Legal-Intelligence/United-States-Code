@@ -66,7 +66,7 @@ Section 1. <i>Applicability.</i>
 
 Sec. 2–2. <i>Definitions.</i>
 
-2–201. All definitions found in EPCRA and PPA and implementing regulations are incorporated in thisorder by reference, with the following exception: for the purposes of this order, the term “person”, as defined in section 329(7) of EPCRA \[42 U.S.C. 11049(7)\], also includes Federal agencies.
+2–201. All definitions found in EPCRA and PPA and implementing regulations are incorporated in this order by reference, with the following exception: for the purposes of this order, the term “person”, as defined in section 329(7) of EPCRA \[42 U.S.C. 11049(7)\], also includes Federal agencies.
 
 2–202. <i>Federal agency</i> means an Executive agency, as defined in 5 U.S.C. 105. For the purpose of this order, military departments, as defined in 5 U.S.C. 102, are covered under the auspices of the Department of Defense.
 

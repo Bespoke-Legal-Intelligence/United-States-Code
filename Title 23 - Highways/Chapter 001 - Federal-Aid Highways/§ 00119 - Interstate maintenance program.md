@@ -34,7 +34,7 @@ Unconditional.—Notwithstanding paragraph (1), a State may transfer to its appo
 
 (g)
 
-Limitation on New Capacity.—Notwithstanding any other provision of this title, the portion of the cost of any project undertakenpursuant to this section that is attributable to the expansion of the capacity of any Interstate highway or bridge, where such new capacity consists of one or more new travel lanes that are not high-occupancy vehicle lanes or auxiliary lanes, shall not be eligible for funding under this section.
+Limitation on New Capacity.—Notwithstanding any other provision of this title, the portion of the cost of any project undertaken pursuant to this section that is attributable to the expansion of the capacity of any Interstate highway or bridge, where such new capacity consists of one or more new travel lanes that are not high-occupancy vehicle lanes or auxiliary lanes, shall not be eligible for funding under this section.
 
 (Added Pub. L. 95–599, title I, §116(a), Nov. 6, 1978, 92 Stat. 2698; amended Pub. L. 96–106, §18, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–134, §§6, 7, Dec. 29, 1981, 95 Stat. 1701; Pub. L. 97–424, title I, §116(a)(1), (2), (b), (c), Jan. 6, 1983, 96 Stat. 2109; Pub. L. 98–229, §8(b), Mar. 9, 1984, 98 Stat. 56; Pub. L. 99–190, §101(e) \[title III, §327\], Dec. 19, 1985, 99 Stat. 1267, 1289; Pub. L. 100–17, title I, §116(a)–(c)(1), Apr. 2, 1987, 101 Stat. 154, 155; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(b)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1009(a), (b), (e)(1), (3)–(5), Dec. 18, 1991, 105 Stat. 1933, 1934.)
 

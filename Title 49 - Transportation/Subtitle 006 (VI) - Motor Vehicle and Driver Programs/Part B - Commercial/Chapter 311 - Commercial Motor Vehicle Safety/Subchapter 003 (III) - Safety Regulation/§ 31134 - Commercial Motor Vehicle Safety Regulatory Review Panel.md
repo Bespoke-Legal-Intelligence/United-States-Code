@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and General Duty.—The Secretary of Transportation shall establish theCommercial Motor Vehicle Safety Regulatory Review Panel. The Panel shall analyze and review State laws and regulations under sections 31140 and 31141 of this title.
+Establishment and General Duty.—The Secretary of Transportation shall establish the Commercial Motor Vehicle Safety Regulatory Review Panel. The Panel shall analyze and review State laws and regulations under sections 31140 and 31141 of this title.
 
 (b)
 
@@ -28,7 +28,7 @@ Composition, Appointment, and Terms.—(1) The Panel shall be composed of 15 mem
 
 &emsp;(C) 7 individuals appointed by the Secretary from among individuals who represent the interests of business, consumer, labor, and safety groups and whose names have been submitted to the Secretary by the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(2) The Secretary shall select the individuals to be appointed under this subsection on the basis of their knowledge, expertise, or experience related to commercial motor vehicle safety. Half of the appointments shall be made from names submitted by the Committee on Commerce, Science, and Transportation of the Senate, and the other half from names submitted by the Committee on Transportation and Infrastructure of the House of Representatives. Each of these committees shall submit to the Secretary the names of 20 individuals qualified to serve on the Panel.
+(2) The Secretary shall select the individuals to be appointed under this subsection on thebasis of their knowledge, expertise, or experience related to commercial motor vehicle safety. Half of the appointments shall be made from names submitted by the Committee on Commerce, Science, and Transportation of the Senate, and the other half from names submitted by the Committee on Transportation and Infrastructure of the House of Representatives. Each of these committees shall submit to the Secretary the names of 20 individuals qualified to serve on the Panel.
 
 (3) The term of each member of the Panel appointed under paragraph (1)(B) and (C) of this subsection is 7 years.
 

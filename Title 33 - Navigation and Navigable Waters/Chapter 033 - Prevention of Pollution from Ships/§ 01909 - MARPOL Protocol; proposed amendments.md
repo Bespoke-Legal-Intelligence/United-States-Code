@@ -6,7 +6,7 @@ A proposed amendment to the MARPOL Protocol received by the United States from t
 
 #### (b) Action on certain amendments by the Secretary of State
 
-A proposed amendment to Annex I, II, or V to the Convention, appendices to those Annexes, or Protocol I of the Convention received by the United States from the Secretary-General of the International Maritime Organization pursuant to Article VI of the MARPOL Protocol, may be the subject of appropriate action on behalf of the United States by the Secretary of State following consultation with the Secretary, who shall inform the Secretary of State as to what action he considers appropriate at least 30 days prior to the expiration of the period specified in Article VI of the MARPOL Protocol duringwhich objection may be made to any amendment received.
+A proposed amendment to Annex I, II, or V to the Convention, appendices to those Annexes, or Protocol I of the Convention received by the United States from the Secretary-General of the International Maritime Organization pursuant to Article VI of the MARPOL Protocol, may be the subject of appropriate action on behalf of the United States by the Secretary of State following consultation with the Secretary, who shall inform the Secretary of State as to what action he considers appropriate at least 30 days prior to the expiration of the period specified in Article VI of the MARPOL Protocol during which objection may be made to any amendment received.
 
 #### (c) Declaration of nonacceptance by the Secretary of State
 

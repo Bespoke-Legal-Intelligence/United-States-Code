@@ -6,5 +6,5 @@ The Attorney General shall determine whether an individual furnishing informatio
 
 #### Spending Limitations Lifted
 
-Any funds made available to Attorney General before or after July 27, 1995, not subject to spending limitations contained in this section, provided that any reward of $100,000 or more, up to maximum of $2,000,000,not to be made without personal approval of President or Attorney General, with such approval not to be delegated, see section 3001 of Pub. L. 104–19, set out as a note under section 3059 of this title.
+Any funds made available to Attorney General before or after July 27, 1995, not subject to spending limitations contained in this section, provided that any reward of $100,000 or more, up to maximum of $2,000,000, not to be made without personal approval of President or Attorney General, with such approval not to be delegated, see section 3001 of Pub. L. 104–19, set out as a note under section 3059 of this title.
 

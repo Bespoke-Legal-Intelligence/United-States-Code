@@ -88,7 +88,7 @@ Section 101(c) \[title IX, §904(b)\] of Pub. L. 99–500 and Pub. L. 99–591, 
 
 #### Review of Acquisition Program Cycle
 
-Section 5002(a) of Pub. L. 103–355 provided that: “The Secretary of Defense shall review the regulations of the Department of Defense to ensure that acquisition program cycle procedures are focused on achieving the goals that are consistent with the program baseline description established pursuant to section 2435 of title 10, United States Code.”
+Section 5002(a) of Pub. L. 103–355 provided that: “The Secretary of Defense shall review the regulations of theDepartment of Defense to ensure that acquisition program cycle procedures are focused on achieving the goals that are consistent with the program baseline description established pursuant to section 2435 of title 10, United States Code.”
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) emerging issues and promising initiatives in home and community based services, and systems of such services, for individuals with Alzheimer's disease and related dementias and their families; and
 
-&emsp;(4) emerging issues in, and innovative financing mechanisms for, payment for healthcare services and social services for individuals with Alzheimer's disease and related dementias and their families, particularly financing mechanisms in the private sector.
+&emsp;(4) emerging issues in, and innovative financing mechanisms for, payment for health care services and social services for individuals with Alzheimer's disease and related dementias and their families, particularly financing mechanisms in the private sector.
 
 (b) The Panel shall prepare and transmit to the Congress, the Secretary, and the Council, and make available to the public, an annual report. Such report shall contain such recommendations as the Panel considers appropriate for administrative and legislative actions to improve services for individuals with Alzheimer's disease and related dementias and their families and to provide for promising biomedical research relating to Alzheimer's disease and related dementias.
 

@@ -26,7 +26,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Administra
 
 #### Codification
 
-Section was enacted as part of the National Aeronautics and Space Administration Authorization Act of1986, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
+Section was enacted as part of the National Aeronautics and Space Administration Authorization Act of 1986, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Committee on Science, Space, and Technology of House of Representatives treated 
 
 #### Effective Date
 
-Section applicable to flights of the Space Transportation System beginning on and after Oct. 1, 1988, see section 205 of Pub. L. 99–170, set out as a note under section 2466 of this title.
+Section applicable to flights of the Space Transportation System beginning on and after Oct. 1, 1988, seesection 205 of Pub. L. 99–170, set out as a note under section 2466 of this title.
 
 #### Feasibility of Providing Space Shuttle Launch Services on Basis of Royalty Recovery Over Economic Life of Commercial Products Processed in Space
 

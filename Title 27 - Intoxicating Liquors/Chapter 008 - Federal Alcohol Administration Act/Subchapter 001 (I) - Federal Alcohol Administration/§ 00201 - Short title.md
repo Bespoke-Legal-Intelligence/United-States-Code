@@ -2,7 +2,7 @@
 
 This subchapter may be cited as the “Federal Alcohol Administration Act”.
 
-(Aug. 29, 1935, ch. 814, title I, §101, formerly §1, 49 Stat. 977; renumbered title I, §101, and amended Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(1), 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, §101, formerly §1, 49 Stat. 977; renumbered title I, §101, and amended Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(1), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 #### Amendments
 

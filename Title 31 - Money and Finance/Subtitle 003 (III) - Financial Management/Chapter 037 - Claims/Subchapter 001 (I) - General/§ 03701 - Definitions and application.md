@@ -26,7 +26,7 @@
 
 &emsp;(8) “nontax” means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 
-(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
+(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, orentity other than another Federal agency. A claim includes, without limitation—
 
 &emsp;(A) funds owed on account of loans made, insured, or guaranteed by the Government, including any deficiency or any difference between the price obtained by the Government in the sale of a property and the amount owed to the Government on a mortgage on the property,
 
@@ -200,7 +200,7 @@ Subsecs. (e), (f). Pub. L. 104–134, §31001(z)(1)(C), added subsecs. (e) and (
 
 #### Effective Date of 1994 Amendment
 
-Section 5(c) of Pub. L. 103–387, as amended by Pub. L. 104–134, title III, §31001(z)(2)(B), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The amendments made by thissection \[amending this section and section 404 of Title 42, The Public Health and Welfare\] shall apply to collection activities begun on or after the date of the enactment of this Act \[Oct. 22, 1994\].”
+Section 5(c) of Pub. L. 103–387, as amended by Pub. L. 104–134, title III, §31001(z)(2)(B), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The amendments made by this section \[amending this section and section 404 of Title 42, The Public Health and Welfare\] shall apply to collection activities begun on or after the date of the enactment of this Act \[Oct. 22, 1994\].”
 
 #### Short Title of 1996 Amendment
 

@@ -44,7 +44,7 @@ Pub. L. 103–322, §320101(e)(1), which provided for amendment identical to Pub
 
 Subsec. (a). Pub. L. 97–285, §3(a), inserted “(1)” after “Whoever kills” and “or (2) any person appointed under section 105(a)(2)(A) of title 3 employed in the Executive Office of the President or appointed under section 106(a)(1)(A) of title 3 employed in the Office of the Vice President,” after “laws of the United States”.
 
-Subsec. (e). Pub. L. 97–285, §3(b), substituted “(a)(1)” for “(a)” and inserted provision that whoever assaults any person designated in subsec. (a)(2) of this section shall be fined not more than $5,000, or imprisoned notmore than one year, or both; and if personal injury results, shall be fined not more than $10,000, or imprisoned not more than ten years, or both.
+Subsec. (e). Pub. L. 97–285, §3(b), substituted “(a)(1)” for “(a)” and inserted provision that whoever assaults any person designated in subsec. (a)(2) of this section shall be fined not more than $5,000, or imprisoned not more than one year, or both; and if personal injury results, shall be fined not more than $10,000, or imprisoned not more than ten years, or both.
 
 Subsec. (g). Pub. L. 97–285, §3(c), substituted “subsection (a)(1)” for “this section” after “a violation of”.
 

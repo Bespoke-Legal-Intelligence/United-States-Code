@@ -5,7 +5,7 @@
 | [1\.](%C2%A7%2000001%20-%20Creation%2C%20purpose%2C%20and%20composition%20of%20council.md) | Creation, purpose, and composition of council. |
 | [2\.](%C2%A7%2000002%20-%20Advisory%20commission.md) | Advisory commission. |
 | [3\.](%C2%A7%2000003%20-%20Duties%20of%20council.md) | Duties of council. |
-| [4\.](%C2%A7%2000004%20-%20Rules%20and%20regulations%3B%20subordinate%20bodies%20and%20committees.md) | Rules and regulations; subordinate bodies and committees. |
+| [4\.](%C2%A7%2000004%20-%20Rules%20and%20regulations%3B%20subordinate%20bodies%20and%20committees.md) | Rule and regulations; subordinate bodies and committees. |
 | [5\.](%C2%A7%2000005%20-%20Reports%20of%20subordinate%20bodies%20and%20committees%3B%20unvouchered%20expenditures.md) | Reports of subordinate bodies and committees; unvouchered expenditures. |
 | [6\.](%C2%A7%2000006%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20644.md) | Repealed. |
 

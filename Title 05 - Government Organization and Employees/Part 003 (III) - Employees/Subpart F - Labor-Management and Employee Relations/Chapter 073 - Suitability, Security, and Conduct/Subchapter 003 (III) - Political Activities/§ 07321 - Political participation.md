@@ -1,12 +1,12 @@
 ### §7321. Political participation
 
-It is the policy of the Congress that employees should be encouraged to exercise fully, freely,and without fear of penalty or reprisal, and to the extent not expressly prohibited by law, their right to participate or to refrain from participating in the political processes of the Nation.
+It is the policy of the Congress that employees should be encouraged to exercise fully, freely, and without fear of penalty or reprisal, and to the extent not expressly prohibited by law, their right to participate or to refrain from participating in the political processes of the Nation.
 
 (Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1001.)
 
 #### Prior Provisions
 
-A prior section 7321, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, related to political contributions and services of employees in Executive agencies or competitive service, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7321, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, related to political contributions and servicesof employees in Executive agencies or competitive service, prior to the general revision of this subchapter by Pub. L. 103–94.
 
 #### Effective Date; Savings Provision
 

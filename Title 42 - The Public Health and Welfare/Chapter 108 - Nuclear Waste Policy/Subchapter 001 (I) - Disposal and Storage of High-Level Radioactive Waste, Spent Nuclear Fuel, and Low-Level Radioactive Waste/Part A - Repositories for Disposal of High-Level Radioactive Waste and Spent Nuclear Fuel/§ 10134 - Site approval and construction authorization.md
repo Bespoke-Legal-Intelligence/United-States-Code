@@ -22,7 +22,7 @@
 
 (2)(A) If, after recommendation by the Secretary, the President considers the Yucca Mountain site qualified for application for a construction authorization for a repository, the President shall submit a recommendation of such site to Congress.
 
-(B) The President shall submit with such recommendation a copy of the statement for such site prepared by the Secretary under paragraph (1).
+(B) The President shall submit with such recommendation a copy of the statement for suchsite prepared by the Secretary under paragraph (1).
 
 (3)(A) The President may not recommend the approval of the Yucca Mountain site unless the Secretary has recommended to the President under paragraph (1) approval of such site and has submitted to the President a statement for such site as required under such paragraph.
 
@@ -70,7 +70,7 @@ The Commission shall consider an application for a construction authorization fo
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1)(D) and (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1)(D) and (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (f)(4), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 

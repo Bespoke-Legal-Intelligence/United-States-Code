@@ -38,7 +38,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(D) Retained earnings.
 
-> &emsp;The core capital of an enterprise shall not include any amounts that the enterprise could be required to pay, at the option of investors, to retire capital instruments.
+> &emsp;The core capital of an enterprise shall not include any amounts that the enterprise couldbe required to pay, at the option of investors, to retire capital instruments.
 
 #### (5) Director
 
@@ -136,7 +136,7 @@ For purposes of this chapter:
 
 This chapter, referred to in text, was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-This Act, referred to in par. (13)(A), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known as the Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+This Act, referred to in par. (13)(A), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known as the Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Termination of Trust Territory of the Pacific Islands
 

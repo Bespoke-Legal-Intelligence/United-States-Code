@@ -30,7 +30,7 @@ All information obtained under subsections (a) and (b) of this section shall be 
 
 &emsp;(2) the publication by direction of the Secretary of the name of any person violating any plan together with a statement of the particular provisions of the plan violated by such person.
 
-> Any such officer or employee violating the provisions of this subsection shall be subject to afine of not more than $1,000 or imprisonment for not more than one year, or both, and shall be removed from office.
+> Any such officer or employee violating the provisions of this subsection shall be subject to a fine of not more than $1,000 or imprisonment for not more than one year, or both, and shall be removed from office.
 
 (Pub. L. 99–198, title XVI, §1649, Dec. 23, 1985, 99 Stat. 1626; Pub. L. 103–189, §8(g), Dec. 14, 1993, 107 Stat. 2262.)
 

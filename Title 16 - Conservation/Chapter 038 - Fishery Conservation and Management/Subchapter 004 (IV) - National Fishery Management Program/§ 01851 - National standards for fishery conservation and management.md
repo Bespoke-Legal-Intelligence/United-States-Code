@@ -12,7 +12,7 @@ Any fishery management plan prepared, and any regulation promulgated to implemen
 
 &emsp;(4) Conservation and management measures shall not discriminate between residents of different States. If it becomes necessary to allocate or assign fishing privileges among various United States fishermen, such allocation shall be (A) fair and equitable to all such fishermen; (B) reasonably calculated to promote conservation; and (C) carried out in such manner that no particular individual, corporation, or other entity acquires an excessive share of such privileges.
 
-&emsp;(5) Conservation and management measures shall, where practicable, consider efficiency inthe utilization of fishery resources; except that no such measure shall have economic allocation as its sole purpose.
+&emsp;(5) Conservation and management measures shall, where practicable, consider efficiency in the utilization of fishery resources; except that no such measure shall have economic allocation as its sole purpose.
 
 &emsp;(6) Conservation and management measures shall take into account and allow for variations among, and contingencies in, fisheries, fishery resources, and catches.
 
@@ -26,7 +26,7 @@ Any fishery management plan prepared, and any regulation promulgated to implemen
 
 #### (b) Guidelines
 
-The Secretary shall establish advisory guidelines (which shall not have the force and effect of law), based on the national standards, to assist in the development of fishery management plans.
+The Secretary shall establish advisory guidelines (which shall not have the force and effectof law), based on the national standards, to assist in the development of fishery management plans.
 
 (Pub. L. 94–265, title III, §301, Apr. 13, 1976, 90 Stat. 346; Pub. L. 97–453, §4, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 98–623, title IV, §404(3), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 104–297, title I, §106, Oct. 11, 1996, 110 Stat. 3570.)
 
@@ -44,6 +44,10 @@ Subsec. (a)(8) to (10). Pub. L. 104–297, §106(b), added pars. (8) to (10).
 
 1983—Subsec. (b). Pub. L. 97–453 substituted “advisory guidelines (which shall not have the force and effect of law)” for “guidelines”.
 
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act \[repealing section 757g of this title, amending provisions set out as notes under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under this section\] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
+
 #### Restriction on Funding Certain New Fishery Management Plans, Amendments or Regulations
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title II, §§208, 211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–40, 3009–41, provided that: “None of the funds appropriated under this Act or any other Act henceforth may be used to develop new fishery management plans, amendments, or regulations which create new individual fishing quota programs (whether such quotas are transferable or not) or to implement any such plans, amendments or regulations approved by a Regional Fishery Management Council or the Secretary after January 4, 1995, until offsetting fees to pay for the cost of administering such plans, amendments, or regulations are expressly authorized under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.). This restriction shall also apply to any program relating to the Gulf of Mexico commercial red snapper fishery that authorizes the consolidation of licenses, permits or endorsements that result in different trip limits for vessels in the same class. This restriction shall not apply in any way to the North Pacific halibut and sablefish, South Atlantic wreckfish, or the Mid-Atlantic surfclam and ocean (including mahogany) quohog individual fishing quota programs. The term ‘individual fishing quota’ does not include a community development quota.”
@@ -54,111 +58,19 @@ Pub. L. 104–134, title I, §101\[(a)\] \[title II, §210\], Apr. 26, 1996, 110
 
 #### Albemarle Sound-Roanoke River Basin: Striped Bass Study
 
-Pub. L. 100–589, §5, Nov. 3, 1988, 102 Stat. 2984, provided that:
-
-“(a)
-
-Findings.—The Congress finds that:
-
-&emsp;“(1) The anadromous stock of striped bass in the Albemarle Sound-Roanoke River Basin area of North Carolina sustained important commercial and recreational fisheries as recently as the 1960's and 1970's.
-
-&emsp;“(2) This stock has been declining for some time and is severely depressed at present, and may soon reach a level from which recovery will be exceptionally difficult.
-
-&emsp;“(3) The reasons for this decline are thought to include fishing; other human activities and environmental factors, such as unsuitable water flow before, during, and after critical spawning periods; degradation of water quality by pollutants; the impact of eutrophication on the food chain, and the impact of changing land use activities.
-
-&emsp;“(4) Current Federal and interstate efforts to conserve the Atlantic striped bass, while effective in identifying factors contributing to the decline of other important Atlantic coastal migratory stocks of striped bass and steps that will be effective in reversing that decline, have not made a major contribution to the protection and restoration of the Albemarle Sound-Roanoke River stock of striped bass.
-
-&emsp;“(5) Because the striped bass and the aquatic environment of the Albemarle Sound-Roanoke River basin presently are being significantly affected by combined but not fully understood causes, a study should be undertaken to obtain additional biological information to understand the significance of fishing, water flows, and other factors in the decline of the striped bass populations in the Albemarle Sound-Roanoke River basin and, if feasible, develop an effective course of action for restoring these important stocks of striped bass.
-
-“(b)
-
-Study.—
-
-&emsp;“(1)
-
-In general.—The Director of the United States Fish and Wildlife Service, in consultation with the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration shall—
-
-&emsp;&emsp;“(A) immediately undertake a biological study of the striped bass fishery resources and habitats of the Albemarle Sound-Roanoke River basin area;
-
-&emsp;&emsp;“(B) develop short-term and long-term recommendations for Federal and State government agencies for restoring and conserving such resources and habitats; and
-
-&emsp;&emsp;“(C) submit the results of such study and such recommendations to the Congress and to the States of North Carolina and Virginia as soon as practicable, but not later than 36 months after the date of the enactment of this Act \[Nov. 3, 1988\].
-
-&emsp;“(2)
-
-Contents of the study.—The study conducted under this subsection shall, to the extent existingdata are adequate, use such existing data and shall include—
-
-&emsp;&emsp;“(A) a description of the Albemarle Sound-Roanoke River basin area, and an investigation and analysis of the effects of land and water use practices on the striped bass population and habitats of the area;
-
-&emsp;&emsp;“(B) an investigation and analysis of the abundance and age and geographic distribution of the Albemarle Sound-Roanoke River stock of striped bass, including the amount and geographical location of migration and spawning habitat;
-
-&emsp;&emsp;“(C) an investigation and analysis of factors that may affect the abundance and age and geographic distribution of the Albemarle Sound-Roanoke River stock of striped bass, including—
-
-&emsp;&emsp;&emsp;“(i) the extent and causes of mortality at successive stages in the life cycle of striped bass, including mortality due to recreational and commercial fishing; and
-
-&emsp;&emsp;&emsp;“(ii) the combined effects of pollution and other natural and human alterations of the physical environment, including the effects of water withdrawals, discharges, and flows, on striped bass migration and spawning and on the viability and condition of eggs and larval fish;
-
-&emsp;&emsp;“(D) an investigation and analysis of the status and effectiveness of current striped bass management measures implemented by State and Federal authorities, including State fishing regulations and Federal fish stocking activities, reservoir management and water flow regulation, and an analysis of whether any additional State or Federal measures would be effective in halting the decline and initiating the recovery of the Albemarle Sound-Roanoke River stock of striped bass; and
-
-&emsp;&emsp;“(E) a recommendation of whether conservation of the Albermarle \[sic\] Sound-Roanoke River stocks of striped bass could be improved by management of these stocks under the provisions of the Atlantic States Marine Fisheries Commission's Interstate Fisheries Management Plan for Striped Bass and the Atlantic Striped Bass Conservation Act \[Pub. L. 98–613, set out below\].
-
-“(c)
-
-Participation by State Agencies.—
-
-&emsp;“(1) The Director of the North Carolina Division of Marine Fisheries, the Executive Director of the North Carolina Wildlife Resources Commission, the Secretary of the Virginia Department of Natural Resources, and the District Engineer for the Wilmington District of the United States Army Corps of Engineers shall be invited to have their agencies participate in conducting the study and developing recommendations pursuant to subsection (b).
-
-&emsp;“(2) To facilitate participation by the agencies referred to in paragraph (1), should they decide to participate, a Memorandum of Understanding will be executed with such officials setting forth the respective responsibilities of the entities involved in conducting the study and developing those recommendations.
-
-“(d)
-
-Consultation.—In carrying out the study under subsection (b), the Atlantic States Marine Fisheries Commission, other Federal agencies, the Albermarle-Pamlico \[sic\] Estuarine Study, Dominion Resources, Inc./Virginia Power/North Carolina Power, affected local governments in North Carolina and Virginia, appropriate commercial and recreational fishing interests, and other interests shall be consulted, to the maximum extent practicable.
-
-“(e)
-
-Authorization of Appropriations.—There is authorized to be appropriated the sum of $1,000,000 to carry out the requirements of this section. These appropriations will remain available until expended.
-
-“(f)
-
-State Authority.—Nothing in this section shall be construed as authorizing any State to manage fisheries within the jurisdiction of another State.
-
-“(g)
-
-Restriction on Use of Other Funds.—Amounts appropriated pursuant to the authorization contained in section 7(d) of the Anadromous Fish Conservation Act (16 U.S.C. 757g(d)) shall not be used to carry out this section.”
+Pub. L. 100–589, §5, Nov. 3, 1988, 102 Stat. 2984, related to requirement of biological study of striped bass fishery resources and habitats of Albemarle Sound-Roanoke River basin area and development of short-term and long-term recommendations for restoring and conserving these resources and habitats, prior to repeal by Pub. L. 105–146, §3(b), Dec. 16, 1997, 111 Stat. 2677.
 
 #### Exclusive Economic Zone: Atlantic Striped Bass Protection
 
-Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, §4, Oct. 17, 1991, 105 Stat. 627; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
-
-“(a)
-
-Regulation of Fishing in Exclusive Economic Zone.—The Secretary of Commerce shall promulgate regulations governing the fishing for Atlantic striped bass in the exclusive economic zone that the Secretary determines to be consistent with the national standards set forth in section 301 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851) and necessary and appropriate to—
-
-&emsp;“(1) ensure the effectiveness of State regulations or a Federal moratorium on fishing for Atlantic striped bass within the coastal waters of a coastal State; and
-
-&emsp;“(2) achieve conservation and management goals for the Atlantic striped bass resource.
-
-“(b)
-
-Consultation; Periodic Review of Regulations.—In preparing regulations under subsection (a), the Secretary shall consult with the Atlantic States Marine Fisheries Commission, the appropriate Regional Fishery Management Councils, and each affected Federal, State, and local government entity. The Secretary shall periodically review regulations promulgated under subsection (a), and if necessary to ensure their continued consistency with the requirements of subsection (a), shall amend those regulations.
-
-“\[(c) Repealed. Pub. L. 102–130, §4(1), Oct. 17, 1991, 105 Stat. 627.\]
-
-“(d)
-
-Applicability of Magnuson Act Provisions.—The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857, 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations and any plan issued under subsection (a) of this section as if such regulations or plan were issued under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\].
-
-“(e)
-
-Definition.—As used in this section, the term ‘exclusive economic zone’ has the meaning given such term in section 3(6) \[now 3(11)\] of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802(6) \[now 1802(11)\]).”
+Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, §4, Oct. 17, 1991, 105 Stat. 627; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, directed Secretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by Pub. L. 105–146, §3(c), Dec. 16, 1997, 111 Stat. 2677.
 
 #### Atlantic Striped Bass Conservation
 
-Pub. L. 98–613, §§1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended by Pub. L. 99–432, §§1–5, Oct. 1, 1986, 100 Stat. 989, 990; Pub. L. 100–589, §§1, 2, 4, 6(g), Nov. 3, 1988, 102 Stat. 2984, 2987; Pub. L. 102–130, §2, Oct. 17, 1991, 105 Stat. 626; Pub. L. 103–206, title VIII, §812, formerly §810, Dec. 20, 1993, 107 Stat. 2453, renumbered §812, Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat. 3619; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 98–613, §§1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended by Pub. L. 99–432, §§1–5, Oct. 1, 1986, 100 Stat. 989, 990; Pub. L. 100–589, §§1, 2, 4, 6(g), Nov. 3, 1988, 102 Stat. 2984, 2987; Pub. L. 102–130, §2, Oct. 17, 1991, 105 Stat. 626; Pub. L. 103–206, title VIII, §812, formerly §810, Dec. 20, 1993, 107 Stat. 2453, renumbered §812, Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat. 3619; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat. 2672, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
-“This Act \[enacting this note and amending section 757g of this title\] may be cited as the ‘Atlantic Striped Bass Conservation Act’.
+“This Act may be cited as the ‘Atlantic Striped Bass Conservation Act’.
 
 #### “SEC. 2. FINDINGS AND PURPOSES.
 
@@ -168,9 +80,13 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;“(1) Atlantic striped bass are of historic commercial and recreational importance and economic benefit to the Atlantic coastal States and to the Nation.
 
-&emsp;“(2) As a consequence of increased fishing pressure, environmental pollution, the loss and alteration of habitat, and the inadequacy of fishery conservation and management practices and controls, certain stocks of Atlantic striped bass have been severely reduced in number.
+&emsp;“(2) No single government entity has full management authority throughout the range of the Atlantic striped bass.
 
-&emsp;“(3) Because no single government entity has full management authority throughout the range of the Atlantic striped bass, the harvesting and conservation of these fish have been subject to diverse, inconsistent, and intermittent State regulation that has been detrimental to the long-term maintenance of stocks of the species and to the interests of fishermen and the Nation as a whole.
+&emsp;“(3) The population of Atlantic striped bass—
+
+&emsp;&emsp;“(A) has been subject to large fluctuations due to natural causes, fishing pressure, environmental pollution, loss and alteration of habitat, inadequacy of fisheries conservation and management practices, and other causes; and
+
+&emsp;&emsp;“(B) risks potential depletion in the future without effective monitoring and conservation and management measures.
 
 &emsp;“(4) It is in the national interest to implement effective procedures and measures to provide for effective interjurisdictional conservation and management of this species.
 
@@ -182,7 +98,7 @@ Purpose.—It is therefore declared to be the purpose of the Congress in this Ac
 
 “As used in this Act—
 
-&emsp;“(1) The term ‘Magnuson Act’ means the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+&emsp;“(1) the term ‘Magnuson Act’ means the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
 &emsp;“(2) The term ‘Atlantic striped bass’ means members of stocks or populations of the species Morone saxatilis, which ordinarily migrate seaward of the waters described in paragraph (3)(A)(i).
 
@@ -208,7 +124,9 @@ Purpose.—It is therefore declared to be the purpose of the Congress in this Ac
 
 &emsp;“(5) The term ‘Commission’ means the Atlantic States Marine Fisheries Commission established under the interstate compact consented to and approved by the Congress in Public Laws 77–539 \[May 4, 1942, ch. 283, 56 Stat. 267\] and 81–721 \[Aug. 19, 1950, ch. 763, 64 Stat. 467\].
 
-&emsp;“(6) The term ‘fishing’ means—
+&emsp;“(6) The term ‘exclusive economic zone’ has the meaning given such term in section 3(6) of the Magnuson Act (16 U.S.C. 1802(6)).
+
+&emsp;“(7) The term ‘fishing’ means—
 
 &emsp;&emsp;“(A) the catching, taking, or harvesting of Atlantic striped bass, except when incidental to harvesting that occurs in the course of commercial or recreational fish catching activities directed at a species other than Atlantic striped bass;
 
@@ -218,37 +136,39 @@ Purpose.—It is therefore declared to be the purpose of the Congress in this Ac
 
 > &emsp;The term does not include any scientific research authorized by the Federal Government or by any State government.
 
-&emsp;“(7) The term ‘Plan’ means the Interstate Fisheries Management Plan for Striped Bass, dated October 1, 1981, prepared by the Commission, and all amendments thereto related to fishing, including interim restoration measures for Chesapeake Bay striped bass stocks as developed by the Atlantic States Marine Fisheries Commission Striped Bass Management Board in December 1983, whether or not such language is formally adopted as an amendment to the Plan of October 1, 1981.
+&emsp;“(8) The term ‘moratorium area’ means the coastal waters with respect to which a declaration under section 5(a) applies.
 
-&emsp;“(8) The term ‘Secretary’ means the Secretary of Commerce.
+&emsp;“(9) The term ‘moratorium period’ means the period beginning on the day on which moratorium is declared under section 5(a) regarding a coastal State and ending on the day on which the Commission notifies the Secretaries that that State has taken appropriate remedial action with respect to those matters that were the case of the moratorium being declared.
 
-&emsp;“(9) The term ‘Secretaries’ means the Secretary of Commerce and the Secretary of the Interior.
+&emsp;“(10) The term ‘Plan’ means a plan for managing Atlantic striped bass, or an amendment to such plan, that is prepared and adopted by the Commission.
 
-#### “SEC. 4. COMMISSION FUNCTIONS.
+&emsp;“(11) The term ‘Secretary’ means the Secretary of Commerce or a designee of the Secretary of Commerce.
+
+&emsp;“(12) The term ‘Secretaries’ means the Secretary of Commerce and the Secretary of the Interior or their designees.
+
+#### “SEC. 4. MONITORING OF IMPLEMENTATION AND ENFORCEMENT BY COASTAL STATES.
 
 “(a)
 
-Monitoring of Implementation and Enforcement.—(1) During December of fiscal year 1987, and of each fiscal year thereafter, and at any other time it deems necessary, the Commission shall determine:
+Determination.—During December of each fiscal year, and at any other time it deems necessary the Commission shall determine—
 
-&emsp;“(A) whether each coastal State has adopted all regulatory measures necessary to fully implement the Plan in its coastal waters; and
+&emsp;“(1) whether each coastal State has adopted all regulatory measures necessary to fully implement the Plan in its coastal waters; and
 
-&emsp;“(B) whether the enforcement of the Plan by each coastal State is satisfactory. Enforcement by a coastal State shall not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan within its coastal waters is being, or will likely be, substantially and adversely affected.
-
-“(2) The Commission shall immediately notify the Secretaries of each negative determination made by it under this subsection.
+&emsp;“(2) whether the enforcement of the Plan by each coastal State is satisfactory.
 
 “(b)
 
-Secretarial Action After Notification.—Upon receiving notice from the Commission under subsection (a) that a coastal State has not taken the actions described in that subsection, the Secretaries shall determine jointly, within thirty days, whether that coastal State is in compliance with the Plan and, if the State is not in compliance, the Secretaries shall declare jointly a moratorium on fishing for Atlantic striped bass within the coastal waters of that coastal State. In making such a determination, the Secretaries shall carefully consider and review the comments of the Commission and that coastal State in question.
+Satisfactory State Enforcement.—For purposes of subsection (a)(2), enforcement by a coastal State shall not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan within the coastal waters of the State is being, or will likely be, substantially and adversely affected.
+
+“(c)
+
+Notification of Secretaries.—The Commission shall immediately notify the Secretaries of each negative determination made by it under subsection (a).
 
 #### “SEC. 5. MORATORIUM.
 
 “(a)
 
-Definitions.—For purposes of this section—
-
-&emsp;“(1) The term ‘moratorium area’ means the coastal waters with respect to which a declaration under section 4(b) applies.
-
-&emsp;“(2) The term ‘moratorium period’ means the period beginning on the day on which moratorium is declared under section 4(b) regarding a coastal State and ending on the day on which the Commission notifies the Secretaries that that State has taken appropriate remedial action with respect to those matters that were the cause of the moratorium being declared.
+Secretarial Action After Notification.—Upon receiving notice from the Commission under section 4(c) of a negative determination regarding a coastal State, the Secretaries shall determine jointly, within 30 days, whether that coastal State is in compliance with the Plan and, if the State is not in compliance, the Secretaries shall declare jointly a moratorium on fishing for Atlantic striped bass within the coastal waters of that coastal State. In making such a determination, the Secretaries shall carefully consider and review the comments of the Commission and that coastal State in question.
 
 “(b)
 
@@ -258,53 +178,109 @@ Prohibited Acts During Moratorium.—During a moratorium period, it is unlawful 
 
 &emsp;“(2) to land, or attempt to land, Atlantic striped bass that are caught, taken, or harvested in violation of paragraph (1);
 
-&emsp;“(3) to land lawfully harvested Atlantic striped bass within the boundaries of a coastal State when a moratorium declared under section 4(b) applies to that State; or
+&emsp;“(3) to land lawfully harvested Atlantic striped bass within the boundaries of a coastal State when a moratorium declared under subsection (a) applies to that State; or
 
 &emsp;“(4) to fail to return to the water Atlantic striped bass to which the moratorium applies that are caught incidental to harvesting that occurs in the course of commercial or recreational fish catching activities, regardless of the physical condition of the striped bass when caught.
 
 “(c)
 
-Penalties and Forfeitures.—(1) Any person who is found by the Secretaries, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have committed an act that is unlawful under subsection (b), shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $1,000 for each violation. Each day of continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretaries by written notice. In determining the amount of such penalty, the Secretaries shall take into account the nature, circumstances, extent, and gravity of the prohibited act committed and, with respect to the violator, the degree of culpability, any history of prior violations, ability to pay, and such other matters as justice may require.
+Civil Penalties.—
 
-“(2) Subsections (b) through (e) of section 308 of the Magnuson Act (16 U.S.C. 1858(b)–(e); relating to review of civil penalties, action upon failure to pay assessment, compromise, and subpenas) shall apply to penalties assessed under paragraph (1) to the same extent and in the same manner as if those penalties were assessed under subsection (a) of such section 308.
+&emsp;“(1)
+
+Civil penalty.—Any person who commits any act that is unlawful under subsection (b) shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson Act (16 U.S.C. 1858).
+
+&emsp;“(2)
+
+Civil forfeitures.—
+
+&emsp;&emsp;“(A)
+
+In general.—Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (b) shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson Act (16 U.S.C. 1860).
+
+&emsp;&emsp;“(B)
+
+Disposal of fish.—Any fish seized pursuant to this Act may be disposed of pursuant to the order of a court of competent jurisdiction, or, if perishable, in a manner prescribed in regulations.
 
 “(d)
 
-Civil Forfeitures.—(1) Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or the result of, the commission of any act that is unlawful under subsection (b), shall be subject to forfeiture to the United States. All or part of the vessel may, and all such fish (or the fair market value thereof) shall, be forfeited to the United States under a civil proceeding described in paragraph (2). The district courts of the United States have jurisdiction over proceedings under this subsection.
-
-“(2) Subsections (c) through (e) of section 310 of the Magnuson Act (16 U.S.C. 1860(c)–(e); relating to judgment, procedure, and rebuttable presumptions) apply with respect to proceedings for forfeiture commenced under this subsection to the same extent and in the same manner as if the proceeding were commenced under subsection (a) of such section 310.
+Enforcement.—A person authorized by the Secretaries or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (a) that an officer authorized by the Secretary under section 311(b) of the Magnuson Act (16 U.S.C. 1861(b)) may take to enforce that Act (16 U.S.C. 1801 et seq.). The Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
 
 “(e)
 
-Enforcement.—(1) The Secretaries shall enforce a moratorium declared under section 4(b). The Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a coastal State in carrying out that enforcement.
+Regulations.—The Secretaries may issue regulations to implement this section.
 
-“(2)
+#### “SEC. 6. CONTINUING STUDIES OF STRIPED BASS POPULATIONS.
 
-Enforcement authority.—A person authorized by the Secretaries may take any action to enforce a moratorium declared under section 4(b) that an officer authorized by the Secretary under section 311(b) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1861(b)\] may take to enforce that Act \[16 U.S.C. 1801 et seq.\].
+“(a)
 
-“(3)
+In General.—For the purposes of carrying out this Act, the Secretaries shall conduct continuing, comprehensive studies of Atlantic striped bass stocks. These studies shall include, but shall not be limited to, the following:
 
-Regulations.—The Secretaries may issue regulations to implement this subsection.
+&emsp;“(1) Annual stock assessments, using fishery-dependent and fishery-independent data, for the purposes of extending the long-term population record generated by the annual striped bass study conducted by the Secretaries before 1994 and understanding the population dynamics of Atlantic striped bass.
 
-#### “SEC. 6. COMPREHENSIVE ANNUAL SURVEYS.
+&emsp;“(2) Investigations of the causes of fluctuations in Atlantic striped bass populations.
 
-“For the purposes of implementing the provisions of this Act, the Secretary and the Secretary of the Interior shall jointly conduct a comprehensive annual survey of the Atlantic striped bass fisheries. Each survey shall include, but not be limited to, a compilation and assessment of the recreational and commercial landings of that species in the coastal States during the period considered in the survey. The results of each annual survey shall be published in the Federal Register.
+&emsp;“(3) Investigations of the effects of water quality, land use, and other environmental factors on the recruitment, spawning potential, mortality, and abundance of Atlantic striped bass populations, including the Delaware River population.
+
+&emsp;“(4) Investigations of—
+
+&emsp;&emsp;“(A) the interactions between Atlantic striped bass and other fish, including bluefish, menhaden, mackerel, and other forage fish or possible competitors, stock assessments of these species, to the extent appropriate; and
+
+&emsp;&emsp;“(B) the effects of interspecies predation and competition on the recruitment, spawning potential mortality, and abundance of Atlantic striped bass.
+
+“(b)
+
+Socio-Economic Study.—The Secretaries, in consultation with with \[sic\] the Atlantic States Marine Fisheries Commission, shall conduct a study of the socio-economic benefits of the Atlantic striped bass resource. The Secretaries shall issue a report to the Congress concerning the findings of this study no later than September 30, 1998.
+
+“(c)
+
+Reports.—The Secretaries shall make biennial reports to the Congress and to the Commission concerning the progress and findings of studies conducted under subsection (a) and shall make those reports public. Such reports shall, to the extent appropriate, contain recommendations of actions which could be taken to encourage the sustainable management of Atlantic striped bass.
 
 #### “SEC. 7. AUTHORIZATION OF APPROPRIATIONS; COOPERATIVE AGREEMENTS.
 
 “(a)
 
-Authorization.—For each of fiscal years 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, and 1994, there are authorized to be appropriated such sums as may be necessary or appropriate to carry out this Act.
+Authorization.—For each of fiscal years 1998, 1999, and 2000, there are authorized to be appropriated to carry out this Act—
+
+&emsp;“(1) $800,000 to the Secretary of Commerce; and
+
+&emsp;“(2) $250,000 to the Secretary of the Interior.
 
 “(b)
 
-Cooperative Agreements.—The Secretaries may enter into cooperative agreements with the Atlantic States Marine Fisheries Commission for the purpose of using amounts appropriated pursuant to this section to provide financial assistance to the Commission for carrying out its functions under this Act.
+Cooperative Agreements.—The Secretaries may enter into cooperative agreements with the Atlantic States Marine Fisheries Commission or with States, for the purpose of using amounts appropriated pursuant to this section to provide financial assistance for carrying out the purposes of this Act.
 
-#### “SEC. 8. SECRETARIAL STUDY.
+#### “SEC. 8. PUBLIC PARTICIPATION IN PREPARATION OF MANAGEMENT PLANS AND AMENDMENTS.
 
-“Within six months of the date of enactment of this Act \[Oct. 31, 1984\], the Secretaries shall review the existing Plan and shall report to the Commission, the Chairman of the House Committee on Merchant Marine and Fisheries, the Chairman of the Senate Committee on Commerce, Science and Transportation and the Chairman of the Senate Committee on Environment and Public Works on the adequacy of the Plan to achieve the purposes of this Act. Such report shall include recommendations for additional measures that may need to be taken and include recommendations concerning specific State actions regarding the management and conservation of striped bass.
+“(a)
 
-#### “SEC. 9. \[Repealed. Pub. L. 103–206, title VIII, §812, formerly §810, Dec. 20, 1993, 107 Stat. 2453; renumbered §812, Pub. L. 104–297, title IV, §404(c), Oct. 11, 1996, 110 Stat. 3619.\]”
+Standards and Procedures.—In order to ensure the opportunity for public participation in the preparation of management plans and amendments to management plans for Atlantic striped bass, the Commission shall prepare such plans and amendments in accordance with the standards and procedures established under section 805(a)(2) of the Atlantic Coastal Fisheries Cooperative Management Act \[16 U.S.C. 5104(a)(2)\].
+
+“(b)
+
+Application.—Subsection (a) shall apply to management plans and amendments adopted by the Commission after the 6-month period beginning on the date of enactment of the Atlantic Striped Bass Conservation Act Amendments of 1997 \[Dec. 16, 1997\].
+
+#### “SEC. 9. PROTECTION OF STRIPED BASS IN THE EXCLUSIVE ECONOMIC ZONE.
+
+“(a)
+
+Regulation of Fishing in Exclusive Economic Zone.—The Secretary shall promulgate regulations governing fishing for Atlantic striped bass in the exclusive economic zone that the Secretary determines—
+
+&emsp;“(1) are consistent with the national standards set forth in section 301 of the Magnuson Act (16 U.S.C. 1851);
+
+&emsp;“(2) are compatible with the Plan and each Federal moratorium in effect on fishing for Atlantic striped bass within the coastal waters of a coastal State;
+
+&emsp;“(3) ensure the effectiveness of State regulations on fishing for Atlantic striped bass within the coastal waters of a coastal State; and
+
+&emsp;“(4) are sufficient to assure the long-term conservation of Atlantic striped bass populations.
+
+“(b)
+
+Consultation; Periodic Review of Regulations.—In preparing regulations under subsection (a), the Secretary shall consult with the Atlantic States Marine Fisheries Commission, the appropriate Regional Fishery Management Councils, and each affected Federal, State, and local government entity. The Secretary shall periodically review regulations promulgated under subsection (a), and if necessary to ensure their continued consistency with the requirements of subsection (a), shall amend those regulations.
+
+“(c)
+
+Applicability of Magnuson Act Provisions.—The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson Act (16 U.S.C. 1857, 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations and any plan issued under subsection (a) of this section as if such regulations or plan were issued under the Magnuson Act \[16 U.S.C. 1801 et seq.\].”
 
 #### Section Referred to in Other Sections
 

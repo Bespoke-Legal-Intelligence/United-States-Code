@@ -16,7 +16,7 @@ In order to carry out the responsibilities specified in this subchapter, the Sec
 
 &emsp;(6) seize any object, record, or report pursuant to a warrant from a magistrate based on a showing of probable cause to believe that such object, record, or report was used, is being used, or is likely to be used in violation of this chapter or the requirements of a license or regulation issued thereunder; and
 
-&emsp;(7) make investigations and inquiries and administer to or take from any person an oath, affirmation, or affidavit concerning any matter relating to the enforcement of this chapter.
+&emsp;(7) make investigations and inquiries and administer to or take from any person an oath,affirmation, or affidavit concerning any matter relating to the enforcement of this chapter.
 
 #### (b) Review of agency action
 

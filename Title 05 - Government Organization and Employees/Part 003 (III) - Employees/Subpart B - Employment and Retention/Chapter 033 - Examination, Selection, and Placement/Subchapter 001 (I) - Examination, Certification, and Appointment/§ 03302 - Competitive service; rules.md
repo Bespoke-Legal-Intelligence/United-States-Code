@@ -66,7 +66,7 @@ WHEREAS the development of skills is most effectively achieved through a program
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Constitution of the United States, by sections 3301 and 3302 of title 5, United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. (a) Subject to paragraph (b) of this section, the head of an agency may make an excepted appointment, to be known as a “veterans readjustment appointment”, to any position in the competitive serviceup to and including GS–5 or the equivalent thereof, of a veteran or disabled veteran as defined in section 2108(1), (2), of title 5, United States Code, who:
+Section 1. (a) Subject to paragraph (b) of this section, the head of an agency may make an excepted appointment, to be known as a “veterans readjustment appointment”, to any position in the competitive service up to and including GS–5 or the equivalent thereof, of a veteran or disabled veteran as defined in section 2108(1), (2), of title 5, United States Code, who:
 
 (1) served on active duty in the armed forces of the United States during the Vietnam era;
 

@@ -12,7 +12,7 @@
 
 (2) A provisional application filed under section 111(b) of this title may not be relied upon in any proceeding in the Patent and Trademark Office unless the fee set forth in subparagraph (A) or (C) of section 41(a)(1) of this title has been paid and the provisional application was pending on the filing date of the application for patent under section 111(a) or section 363 of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 800; Oct. 3, 1961, Pub. L. 87–333, §1, 75 Stat. 748; July 28, 1972, Pub. L. 92–358, §1, 86 Stat. 501; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Dec. 8, 1994, Pub. L. 103–465, title V, §532(b)(1), 108 Stat. 4985.)
+(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 87–333, §1, Oct. 3, 1961, 75 Stat. 748; Pub. L. 92–358, §1, July 28, 1972, 86 Stat. 501; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 103–465, title V, §532(b)(1), Dec. 8, 1994, 108 Stat. 4985.)
 
 #### Historical and Revision Notes
 

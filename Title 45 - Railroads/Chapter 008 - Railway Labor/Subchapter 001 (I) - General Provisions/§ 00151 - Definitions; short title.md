@@ -20,7 +20,7 @@ Seventh. The term “district court” includes the United States District Court
 
 This chapter may be cited as the “Railway Labor Act.”
 
-(May 20, 1926, ch. 347, §1, 44 Stat. 577; June 7, 1934, ch. 426, 48 Stat. 926; June 21, 1934, ch. 691, §1, 48 Stat. 1185; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 13, 1940, ch. 664, §§2, 3, 54 Stat. 785, 786; June 25, 1948, ch. 646, §32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Dec. 29, 1995, Pub. L. 104–88, title III, §322, 109 Stat. 950; Oct. 9, 1996, Pub. L. 104–264, title XII, §1223, 110 Stat. 3287.)
+(May 20, 1926, ch. 347, §1, 44 Stat. 577; June 7, 1934, ch. 426, 48 Stat. 926; June 21, 1934, ch. 691, §1, 48 Stat. 1185; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 13, 1940, ch. 664, §§2, 3, 54 Stat. 785, 786; June 25, 1948, ch. 646, §32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 104–88, title III, §322, Dec. 29, 1995, 109 Stat. 950; Pub. L. 104–264, title XII, §1223, Oct. 9, 1996, 110 Stat. 3287.)
 
 #### References in Text
 

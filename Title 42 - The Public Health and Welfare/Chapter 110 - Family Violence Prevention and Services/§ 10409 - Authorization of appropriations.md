@@ -24,7 +24,7 @@ Of the amounts appropriated under subsection (a) of this section for each fiscal
 
 #### (d) Grants for State coalitions
 
-Of the amounts appropriated under subsection (a) of this section for each fiscal year, not less than 10 percent of such amounts shall be used by the Secretary for making grants under section 10410 of this title.
+Of the amounts appropriated under subsection (a) of this section for each fiscal year, not less than 10 percent of such amounts shall be used bythe Secretary for making grants under section 10410 of this title.
 
 #### (e) Non-supplanting requirement
 

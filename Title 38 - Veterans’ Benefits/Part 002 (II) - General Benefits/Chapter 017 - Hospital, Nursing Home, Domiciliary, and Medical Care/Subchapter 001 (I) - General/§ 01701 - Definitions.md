@@ -138,7 +138,7 @@ Par. (6)(B). Pub. L. 99–576 amended subpar. (B) generally. Prior to amendment,
 
 &emsp;“(ii) in the discretion of the Administrator, of the non-service-connected disability of a veteran eligible for treatment under section 612(f)(1)(A)(ii) of this title where such services were initiated during the veteran's hospitalization and the provision of such services on an outpatient basis is essential to permit the discharge of the veteran from the hospital,
 
-> for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as may be essential to the effective treatment and rehabilitation of the veteran (including, under the terms and conditions set forth in section 111 of this title, travel and incidental expenses of such family member or individual in the case of a veteran who is receiving care for aservice-connected disability, or in the case of dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title). For the purposes of this paragraph, a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title shall be eligible for the same medical services as a veteran.”
+> for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as may be essential to the effective treatment and rehabilitation of the veteran (including, under the terms and conditions set forth in section 111 of this title, travel and incidental expenses of such family member or individual in the case of a veteran who is receiving care for a service-connected disability, or in the case of dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title). For the purposes of this paragraph, a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title shall be eligible for the same medical services as a veteran.”
 
 Par. (6)(B)(ii). Pub. L. 99–272, §19011(d)(2)(B), substituted “section 612(f)(1)(A)(ii)” for “section 612(f)(1)(B)”.
 
@@ -244,7 +244,7 @@ Section 201(b) of Pub. L. 96–22, which directed Chief Medical Director of the 
 
 #### Hospital Care and Medical Services Furnished by Veterans’ Administration in Puerto Rico and Virgin Islands; Report to President and Congress
 
-Section 8 of Pub. L. 95–520, as amended by Pub. L. 96–330, title IV, §407, Aug. 26, 1980, 94 Stat. 1053, directed Administrator of Veterans’ Affairs, not later than Feb.1, 1981, to submit a report to President and Congress on furnishing by Administration of hospital care and medical services in Puerto Rico and Virgin Islands, and set forth applicable criteria and considerations for the report.
+Section 8 of Pub. L. 95–520, as amended by Pub. L. 96–330, title IV, §407, Aug. 26, 1980, 94 Stat. 1053, directed Administrator of Veterans’ Affairs, not later than Feb. 1, 1981, to submit a report to President and Congress on furnishing by Administration of hospital care and medical services in Puerto Rico and Virgin Islands, and set forth applicable criteria and considerations for the report.
 
 #### Section Referred to in Other Sections
 

@@ -32,5 +32,5 @@ Additional appropriation for agricultural colleges, see section 329 of this titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 326a of this title.
+This section is referred to in section 326a of this title; title 16 section 4741.
 

@@ -20,3 +20,4 @@
 - [&sect; 05107 - Burden of proof; benefit of the doubt](%C2%A7%2005107%20-%20Burden%20of%20proof%3B%20benefit%20of%20the%20doubt.md)
 - [&sect; 05108 - Reopening disallowed claims](%C2%A7%2005108%20-%20Reopening%20disallowed%20claims.md)
 - [&sect; 05109 - Independent medical opinions](%C2%A7%2005109%20-%20Independent%20medical%20opinions.md)
+- [&sect; 05109A - Revision of decisions on grounds of clear and unmistakable error](%C2%A7%2005109A%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md)

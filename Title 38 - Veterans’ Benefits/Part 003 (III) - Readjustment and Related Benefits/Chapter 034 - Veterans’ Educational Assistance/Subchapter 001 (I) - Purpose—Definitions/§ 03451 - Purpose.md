@@ -18,5 +18,5 @@ Section 12(a) of Pub. L. 89–358 provided that: “Except as otherwise specific
 
 #### Savings Provision
 
-Section 4(b) of Pub. L. 89–358 provided that: “Nothing in this Act or any amendment or repeal made by it \[seeTables for classification\], shall affect any right or liability (civil or criminal) which matured under chapter 33 of this title 38 before the date of enactment of this Act \[Mar. 3, 1966\]: and all offenses committed, and all penalties and forfeitures incurred, under any provision of law amended or repealed by this Act, may be punished or recovered, as the case may be, in the same manner and with the same effect as if such amendments or repeals had not been made.”
+Section 4(b) of Pub. L. 89–358 provided that: “Nothing in this Act or any amendment or repeal made by it \[see Tables for classification\], shall affect any right or liability (civil or criminal) which matured under chapter 33 of this title 38 before the date of enactment of this Act \[Mar. 3, 1966\]: and all offenses committed, and all penalties and forfeitures incurred, under any provision of law amended or repealed by this Act, may be punished or recovered, as the case may be, in the same manner and with the same effect as if such amendments or repeals had not been made.”
 

@@ -28,7 +28,7 @@
 
 &emsp;(13) to enter into contracts with public or private agencies, organizations, or individuals, for the performance of any of the functions of the Institute; and
 
-&emsp;(14) to procure the services of experts and consultants in accordance with section 3109 of title 5 of the United States Code, at rates ofcompensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
+&emsp;(14) to procure the services of experts and consultants in accordance with section 3109 of title 5 of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
 
 \[(b) Repealed. Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820.\]
 
@@ -48,7 +48,7 @@
 
 #### Inclusion of National Institute of Corrections in Federal Prison System Salaries and Expenses Budget
 
-Pub. L. 104–208, div. A, title I, §101(a), \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–11, provided in part: “That the National Institute of Corrections hereafter shall be included in the FPS Salaries and Expenses budget, in the Contract Confinement program and shall continue to perform its current functions under 18 U.S.C. 4351, et seq., with the exception of its grant program and shall collect reimbursement for services whenever possible”.
+Pub. L. 104–208, div. A, title I, §101(a), \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–11, provided in part: “Thatthe National Institute of Corrections hereafter shall be included in the FPS Salaries and Expenses budget, in the Contract Confinement program and shall continue to perform its current functions under 18 U.S.C. 4351, et seq., with the exception of its grant program and shall collect reimbursement for services whenever possible”.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

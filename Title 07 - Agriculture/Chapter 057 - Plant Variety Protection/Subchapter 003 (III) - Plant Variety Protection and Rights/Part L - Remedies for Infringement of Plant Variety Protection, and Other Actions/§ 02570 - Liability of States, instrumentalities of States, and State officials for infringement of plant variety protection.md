@@ -4,7 +4,7 @@
 
 (b) In a suit described in subsection (a) of this section for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any private entity. Such remedies include damages, interest, costs, and treble damages under section 2564 of this title, and attorney fees under section 2565 of this title.
 
-(Pub. L. 91–577, title III, §130, as added Pub. L. 102–560, §3(b), Oct. 28, 1992, 106 Stat. 4231; Pub. L. 103–349, §13(w), Oct. 6, 1994, 108 Stat. 3144.)
+(Pub. L. 91–577, title III, §130, as added Pub. L. 102–560, §3(b), Oct. 28, 1992, 106 Stat. 4231; amended Pub. L. 103–349, §13(w), Oct. 6, 1994, 108 Stat. 3144.)
 
 #### Amendments
 

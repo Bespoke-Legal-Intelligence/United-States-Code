@@ -10,7 +10,7 @@ In addition to grants made pursuant to the Land and Water Conservation Fund Act 
 
 #### (c) Costs of maintenance
 
-The Secretary, pursuant to an agreement with the State of Wisconsin, may pay up to 50 percentum of the annual cost of management, protection, maintenance, and rehabilitation of the reserve.
+The Secretary, pursuant to an agreement with the State of Wisconsin, may pay up to 50 per centum of the annual cost of management, protection, maintenance, and rehabilitation of the reserve.
 
 #### (d) Termination of Federal contributions
 
@@ -20,7 +20,7 @@ Whenever the Secretary determines that appropriate management and protection set
 
 #### References in Text
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964,78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
 #### Amendments
 

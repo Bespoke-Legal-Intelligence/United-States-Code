@@ -1,0 +1,46 @@
+### §6248. Period of limitations for making adjustments
+
+#### (a) General rule
+
+Except as otherwise provided in this section, no adjustment under this subpart to any partnership item for any partnership taxable year may be made after the date which is 3 years after the later of—
+
+&emsp;(1) the date on which the partnership return for such taxable year was filed, or
+
+&emsp;(2) the last day for filing such return for such year (determined without regard to extensions).
+
+#### (b) Extension by agreement
+
+The period described in subsection (a) (including an extension period under this subsection) may be extended by an agreement entered into by the Secretary and the partnership before the expiration of such period.
+
+#### (c) Special rule in case of fraud, etc.
+
+#### (1) False return
+
+&emsp;In the case of a false or fraudulent partnership return with intent to evade tax, the adjustment may be made at any time.
+
+#### (2) Substantial omission of income
+
+&emsp;If any partnership omits from gross income an amount properly includible therein which is in excess of 25 percent of the amount of gross income stated in its return, subsection (a) shall be applied by substituting “6 years” for “3 years”.
+
+#### (3) No return
+
+&emsp;In the case of a failure by a partnership to file a return for any taxable year, the adjustment may be made at any time.
+
+#### (4) Return filed by Secretary
+
+&emsp;For purposes of this section, a return executed by the Secretary under subsection (b) of section 6020 on behalf of the partnership shall not be treated as a return of the partnership.
+
+#### (d) Suspension when Secretary mails notice of adjustment
+
+If notice of a partnership adjustment with respect to any taxable year is mailed to the partnership, the running of the period specified in subsection (a) (as modified by the other provisions of this section) shall be suspended—
+
+&emsp;(1) for the period during which an action may be brought under section 6247 (and, if a petition is filed under section 6247 with respect to such notice, until the decision of the court becomes final), and
+
+&emsp;(2) for 1 year thereafter.
+
+(Added Pub. L. 105–34, title XII, §1222(a), Aug. 5, 1997, 111 Stat. 1015.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6241, 6251, 6252 of this title.
+

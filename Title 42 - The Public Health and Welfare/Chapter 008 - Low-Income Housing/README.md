@@ -397,7 +397,7 @@ Omitted.
 
 (bb)
 
-Transfer of budget authority.
+Transfer, reuse, and rescission of budget authority.
 
 |  |  |
 | :--- | ---: |
@@ -898,8 +898,41 @@ Approval by States.
 | :--- | ---: |
 | [1437y.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437y%20-%20Provision%20of%20information%20to%20law%20enforcement%20and%20other%20agencies.md) | Provision of information to law enforcement and other agencies. |
 | [1437z.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437z%20-%20Exchange%20of%20information%20with%20law%20enforcement%20agencies.md) | Exchange of information with law enforcement agencies. |
+| 1437z–1. | Civil money penalties against section 8 owners. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Violations of housing assistance payment contracts for which penalty may be imposed.
+
+(c)
+
+Agency procedures.
+
+(d)
+
+Judicial review of agency determination.
+
+(e)
+
+Remedies for noncompliance.
+
+(f)
+
+Settlement by Secretary.
+
+(g)
+
+Deposit of penalties.
+
+(h)
+
+Definitions.
 
 #### SUBCHAPTER II—ASSISTED HOUSING FOR INDIANS AND ALASKA NATIVES
 
@@ -1197,6 +1230,3 @@ This chapter is referred to in sections 1382a, 1404a, 1434, 1436a, 1436b, 1437a�
 - [Subchapter 002 (II) - Assisted Housing for Indians and Alaska Natives](Subchapter%20002%20%28II%29%20-%20Assisted%20Housing%20for%20Indians%20and%20Alaska%20Natives/README.md)
 - [Subchapter 002&#8211;A (II&#8211;A) - HOPE for Public Housing Homeownership](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20HOPE%20for%20Public%20Housing%20Homeownership/README.md)
 - [Subchapter 003 (III) - Miscellaneous Provisions](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/README.md)
-- [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
-- [Subchapter 002 (II) - Slum Clearance and Urban Renewal](Subchapter%20002%20%28II%29%20-%20Slum%20Clearance%20and%20Urban%20Renewal/README.md)
-- [Subchapter 003 (III) - Farm Housing](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/README.md)

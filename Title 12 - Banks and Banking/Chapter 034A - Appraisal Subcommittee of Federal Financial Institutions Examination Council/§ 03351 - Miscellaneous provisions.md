@@ -18,7 +18,7 @@
 
 #### (b) Reciprocity
 
-The Appraisal Subcommittee shall encourage the States to develop reciprocity agreements that readily authorize appraisers who are licensed or certified in one State (and who are in good standing with their State appraiser certifying or licensing agency) to perform appraisals in other States.
+The Appraisal Subcommittee shall encourage the States to develop reciprocity agreementsthat readily authorize appraisers who are licensed or certified in one State (and who are in good standing with their State appraiser certifying or licensing agency) to perform appraisals in other States.
 
 #### (c) Supplemental funding
 

@@ -24,7 +24,7 @@
 
 Phase I
 
-| Years of aviation service (including flight training) as an officer: | Monthly rate |
+| Years of aviation service (including  flight training) as an officer: | Monthly rate |
 | :--- | ---: |
 | 2 or less | $125 |
 | Over 2 | 156 |
@@ -41,7 +41,7 @@ Phase II
 | Over 22 | 385 |
 | Over 25 | 250 |
 
-> &emsp;An officer is entitled to the rates in phase I of this table until he has completed 18 years of service as an officer, after which his entitlement is as prescribed by the rates in phase II, if he has completed at least 6 years of aviation service as an officer. However, if he has over 18 years of service as an officer, but not at least 6 years of aviation service as an officer, he continues to be subject to the rates set forth in phase I of the table that apply to an officer who has less than 6 years of aviation service as an officer. An officer in a pay grade above O–6 is entitled, until he completes 25 years of service as an officer, to be paid at the rates set forth in this table, except that an officer in pay grade O–7 may not be paid at a rate greater than $200 a month, and an officer in pay grade O–8, or above, may not be paid at a rate greater than $206 a month.
+> &emsp;An officer is entitled to the rates in phase I of this table until he has completed 22 years of service as an officer, after which his entitlement is as prescribed by the rates in phase II, if he has completed at least 6 years of aviation service as an officer. However, if he has over 22 years of service as an officer, but not at least 6 years of aviation service as an officer, he continues to be subject to the rates set forth in phase I of the table that apply to an officer who has less than 6 years of aviation service as an officer. An officer in a pay grade above O–6 is entitled, until he completes 25 years of service as an officer, to be paid at the rates set forth in this table, except that an officer in pay grade O–7 may not be paid at a rate greater than $200 a month, and an officer in pay grade O–8, or above, may not be paid at a rate greater than $206 a month.
 
 &emsp;(2) For a warrant officer who is qualified under subsection (a):
 
@@ -69,11 +69,38 @@ Phase II
 
 &emsp;(2) the number of those officers who continued to receive continuous monthly incentive pay despite their failure to perform the minimum prescribed operational flying duty requirements and the extent to which they failed to perform those requirements; and
 
-&emsp;(3) the reasons for the exercise of the authority under the second sentence of subsection (a)(5) in the case of each officer specified pursuant to paragraph (2).
+&emsp;(3) the reasons for the exercise of the authority under the second sentence of subsection\(a)(5) in the case of each officer specified pursuant to paragraph (2).
 
-(Added Pub. L. 93–294, §2(3), May 31, 1974, 88 Stat. 177; amended Pub. L. 94–273, §3(21), Apr. 21, 1976, 90 Stat. 377; Pub. L. 96–343, §2(b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–513, title V, §516(6), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–60, title I, §112(a), (b), Oct. 14, 1981, 95 Stat. 994; Pub. L. 99–661, div. A, title VI, §632(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–26, §8(e)(3), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, §631(a)–(d), Nov. 29, 1989, 103 Stat. 1449, 1450; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–35, title II, §204(c), May 31, 1993, 107 Stat. 102; Pub. L. 104–106, div. A, title VI, §616, Feb. 10, 1996, 110 Stat. 362.)
+(Added Pub. L. 93–294, §2(3), May 31, 1974, 88 Stat. 177; amended Pub. L. 94–273, §3(21), Apr. 21, 1976, 90 Stat. 377; Pub. L. 96–343, §2(b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–513, title V, §516(6), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–60, title I, §112(a), (b), Oct. 14, 1981, 95 Stat. 994; Pub. L. 99–661, div. A, title VI, §632(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–26, §8(e)(3), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, §631(a)–(d), Nov. 29, 1989, 103 Stat. 1449, 1450; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–35, title II, §204(c), May 31, 1993, 107 Stat. 102; Pub. L. 104–106, div. A, title VI, §616, Feb. 10, 1996, 110 Stat. 362; Pub. L. 105–85, div. A, title VI, §615(a), (b), Nov. 18, 1997, 111 Stat. 1787.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 105–85, div. A, title VI, §615(a), (c), provided that, effective Jan. 1, 1999, and applicable with respect to months beginning on or after that date, the table in subsection (b)(1) of this section is amended—</i>
+
+<i>(1) by inserting at the end of phase I of the table the following:</i>
+
+&nbsp;&nbsp;“<i>Over 14</i>
+
+<i>840”;</i>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+> &emsp;and
+
+<i>(2) by striking out phase II of the table and inserting in lieu thereof the following:</i>
+
+“Phase II
+
+| “Years of service as an officer: | “Monthly rate |
+| :--- | ---: |
+| “Over 22 | 585&nbsp; |
+| “Over 23 | 495&nbsp; |
+| “Over 24 | 385&nbsp; |
+| “Over 25 | 250”. |
 
 #### Amendments
+
+1997—Subsec. (b)(1). Pub. L. 105–85, §615(b), substituted “22 years” for “18 years” in two places in provisions after phase II table.
 
 1996—Subsec. (a)(4). Pub. L. 104–106, §616(a), substituted “8” for “9” before “of the first 12”.
 
@@ -91,7 +118,7 @@ Subsec. (a)(5). Pub. L. 104–106, §616(b), inserted “The Secretary concerned
 
 1989—Subsec. (a)(4). Pub. L. 101–189, §631(a), as amended by Pub. L. 103–35, §204(c), substituted “9 of the first 12, and 12 of the first 18 years of the aviation service of the officer” for “6 of the first 12, and 11 of the first 18, years of his aviation service”, “at least 10 but less than 12 of the first 18 years of the aviation service of the officer, the officer” for “at least 9 but less than 11 of the first 18 years of his aviation service, he”, and “the officer's service as an officer” for “his officer service”.
 
-Subsec. (a)(5). Pub. L. 101–189, §631(b), inserted after first sentence “For the needs of the service, the Secretary concerned may permit, on a case by case basis, an officer to continue to receive continuous monthly incentive pay despite the failure of the officer to perform the prescribed operational flying duty requirements during the prescribed periods of time so long asthe officer has performed those requirements for not less than 6 years of aviation service.”
+Subsec. (a)(5). Pub. L. 101–189, §631(b), inserted after first sentence “For the needs of the service, the Secretary concerned may permit, on a case by case basis, an officer to continue to receive continuous monthly incentive pay despite the failure of the officer to perform the prescribed operational flying duty requirements during the prescribed periods of time so long as the officer has performed those requirements for not less than 6 years of aviation service.”
 
 Subsec. (b)(1). Pub. L. 101–189, §631(c)(1), in phase I table, substituted “650” for “400” in item relating to over 6 years, and in phase II table, struck out “as computed under section 205” after “an officer” in table heading, substituted “$585” for “$370”, “495” for “340”, and “385” for “310”, in items relating to over 18 years, over 20 years, and over 22 years, respectively, and struck out item relating to a monthly rate of $280 for over 24 years.
 
@@ -116,6 +143,10 @@ Subsec. (b)(1). Pub. L. 96–343, §2(b)(1), (2), substituted in phase I table, 
 Subsec. (b)(2). Pub. L. 96–343, §2(b)(3), substituted “$125”, “$138”, and “$250” for “$100”, “$110”, and “$200” in items relating to 2 or less years, over 2 years, and over 6 years, respectively.
 
 1976—Subsec. (e). Pub. L. 94–273 substituted “October” for “July”.
+
+#### Effective Date of 1997 Amendment
+
+Section 615(c) of Pub. L. 105–85 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1999, and shall apply with respect to months beginning on or after that date.”
 
 #### Effective Date of 1993 Amendment
 

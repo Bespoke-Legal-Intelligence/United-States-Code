@@ -1,6 +1,6 @@
 ### §8421. Annuity supplement
 
-(a)(1) Subject to paragraph (3), an individual shall, if and while entitled to an annuity undersubsection (a), (b), (d), or (e) of section 8412, or under section 8414(c), also be entitled to an annuity supplement under this section.
+(a)(1) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under subsection (a), (b), (d), or (e) of section 8412, or under section 8414(c), also be entitled to an annuity supplement under this section.
 
 (2) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under section 8412(f), or under subsection (a) or (b) of section 8414, also be entitled to an annuity supplement under this section if such individual is at least the applicable minimum retirement age under section 8412(h), except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age.
 
@@ -40,7 +40,7 @@
 
 &emsp;(A) the term “benefit computation year” has the meaning provided in section 215(b)(2)(B)(i) of the Social Security Act;
 
-&emsp;(B) the term “average total wages of all workers”, for a year, means the average of the total wages, as defined and computed under section 215(b)(3)(A)(ii)(I) of the Social Security Act for such year; and
+&emsp;(B) the term “average total wages of all workers”, for a year, means the average of the total wages, as defined and computed undersection 215(b)(3)(A)(ii)(I) of the Social Security Act for such year; and
 
 &emsp;(C) the term “service” does not include military service.
 

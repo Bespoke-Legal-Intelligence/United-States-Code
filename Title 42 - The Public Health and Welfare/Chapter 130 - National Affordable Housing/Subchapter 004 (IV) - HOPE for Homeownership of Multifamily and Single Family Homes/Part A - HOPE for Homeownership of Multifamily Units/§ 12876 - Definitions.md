@@ -66,7 +66,7 @@ This title, referred to in par. (8), means title IV of Pub. L. 101–625, known 
 
 1992—Par. (1)(G). Pub. L. 102–550, §181(d), added subpar. (G).
 
-Par. (3)(D). Pub. L. 102–550, §181(e), (h), inserted “the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency,” after “Corporation,” and “or an agency or instrumentality thereof” before period at end.
+Par. (3)(D). Pub. L. 102–550, §181(e), (h), inserted “the Federal Deposit Insurance Corporation, the Secretaryof Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency,” after “Corporation,” and “or an agency or instrumentality thereof” before period at end.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

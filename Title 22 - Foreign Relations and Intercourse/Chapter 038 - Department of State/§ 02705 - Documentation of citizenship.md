@@ -6,7 +6,7 @@ The following documents shall have the same force and effect as proof of United 
 
 &emsp;(2) The report, designated as a “Report of Birth Abroad of a Citizen of the United States”, issued by a consular officer to document a citizen born abroad.
 
-(Aug. 1, 1956, ch. 841, title I, §33, as added and renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title I, §117, title II, §202(a), 96 Stat. 279, 282.)
+(Aug. 1, 1956, ch. 841, title I, §33, as added and renumbered title I, Pub. L. 97–241, title I, §117, title II, §202(a), Aug. 24, 1982, 96 Stat. 279, 282.)
 
 #### Prior Provisions
 

@@ -35,7 +35,7 @@ Section 2 of Pub. L. 91–3 authorized a meeting of the corporation's stockholde
 
 #### Status and Authority of Board Members Elected Prior to March 12, 1969
 
-Section 3 of Pub. L. 91–3 provided that: “The status and authority of the members of the board of directors of the Communications Satellite Corporation who were elected to the board before the date of the enactment of this Act \[March 12, 1969\] and who are serving as members of the board on such date shall not be in any way impaired or affected until their successors have been elected and qualified in accordance with section 2 of this Act \[set out as a note above\].”
+Section 3 of Pub. L. 91–3 provided that: “The status and authority of the members of the board of directors of the Communications Satellite Corporation who were elected to the board before the date of the enactment of this Act \[Mar. 12, 1969\] and who are serving as members of the board on such date shall not be in any way impaired or affected until their successors have been elected and qualified in accordance with section 2 of this Act \[set out as a note above\].”
 
 #### Section Referred to in Other Sections
 

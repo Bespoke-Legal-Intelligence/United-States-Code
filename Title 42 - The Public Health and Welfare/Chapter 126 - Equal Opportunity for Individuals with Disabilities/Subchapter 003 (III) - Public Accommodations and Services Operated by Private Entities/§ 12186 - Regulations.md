@@ -50,7 +50,7 @@ Not later than 1 year after July 26, 1990, the Attorney General shall issue regu
 
 #### (c) Consistency with ATBCB guidelines
 
-Standards included in regulations issued under subsections (a) and (b) of this section shall beconsistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204 of this title.
+Standards included in regulations issued under subsections (a) and (b) of this section shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204 of this title.
 
 #### (d) Interim accessibility standards
 

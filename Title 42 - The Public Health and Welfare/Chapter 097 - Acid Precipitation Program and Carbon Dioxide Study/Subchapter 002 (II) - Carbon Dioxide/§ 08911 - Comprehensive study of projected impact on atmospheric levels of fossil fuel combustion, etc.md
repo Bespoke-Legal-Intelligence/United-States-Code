@@ -8,7 +8,7 @@
 
 #### (b) Final report by Office and Academy; contents; prior clearance or review of work of Academy; recommendations
 
-A report including the major findings and recommendations resulting from the study required under this section shall be submitted to the Congress by the Office and the Academy not later than three years after June 30, 1980. The Academy contribution to such report shall not be subject to any prior clearance or review, nor shall any prior clearance or conditions be imposed on the Academy as part of the agreement made by the Office with the Academy under this section. Such report shall in any event include recommendations regarding—
+A report including the major findings and recommendations resulting from the study required under this section shall be submitted to theCongress by the Office and the Academy not later than three years after June 30, 1980. The Academy contribution to such report shall not be subject to any prior clearance or review, nor shall any prior clearance or conditions be imposed on the Academy as part of the agreement made by the Office with the Academy under this section. Such report shall in any event include recommendations regarding—
 
 &emsp;(1) how a long-term program of domestic and international research, monitoring, modeling, and assessment of the causes and effects of varying levels of atmospheric carbon dioxide should be structured, including comments by the Office on the interagency requirements of such a program and comments by the Secretary of State on the international agreements required to carry out such a program;
 

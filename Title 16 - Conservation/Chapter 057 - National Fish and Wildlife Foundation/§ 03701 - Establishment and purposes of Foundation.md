@@ -24,7 +24,7 @@ The purposes of the Foundation are—
 
 #### Short Title of 1994 Amendment
 
-Section 101 of title I of Pub. L. 103–232 provided that: “This title \[amending this section and sections 3702 and3709 of this title and enacting provisions listed in a table of National Environmental Centers set out under section 668dd of this title and provisions set out as notes under section 3702 of this title\] may be cited as the ‘National Fish and Wildlife Foundation Improvement Act of 1994’.”
+Section 101 of title I of Pub. L. 103–232 provided that: “This title \[amending this section and sections 3702 and 3709 of this title and enacting provisions listed in a table of National Environmental Centers set out under section 668dd of this title and provisions set out as notes under section 3702 of this title\] may be cited as the ‘National Fish and Wildlife Foundation Improvement Act of 1994’.”
 
 #### Short Title of 1990 Amendment
 

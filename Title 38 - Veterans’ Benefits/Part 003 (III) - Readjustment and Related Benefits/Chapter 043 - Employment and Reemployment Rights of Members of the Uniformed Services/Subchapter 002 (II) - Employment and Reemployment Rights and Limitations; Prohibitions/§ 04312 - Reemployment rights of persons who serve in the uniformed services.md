@@ -16,7 +16,7 @@
 
 &emsp;(2) during which such person was unable to obtain orders releasing such person from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such person;
 
-&emsp;(3) performed as required pursuant to section 10147 of title 10, under section 502(a) or 503 of title 32, or to fulfill additional training requirements determined and certified in writing by the Secretary concerned, to be necessary for professional development, or for completion of skill training or retraining; or
+&emsp;(3) performed as required pursuant to section 10147 of title 10, under section 502(a) or 503 oftitle 32, or to fulfill additional training requirements determined and certified in writing by the Secretary concerned, to be necessary for professional development, or for completion of skill training or retraining; or
 
 &emsp;(4) performed by a member of a uniformed service who is—
 
@@ -62,7 +62,7 @@
 
 &emsp;(D) In the case of a person whose period of service in the uniformed services was for more than 180 days, by submitting an application for reemployment with the employer not later than 90 days after the completion of the period of service.
 
-(2)(A) A person who is hospitalized for, or convalescing from, an illness or injury incurred in, or aggravated during, the performance of service in the uniformed services shall, at the end of theperiod that is necessary for the person to recover from such illness or injury, report to the person's employer (in the case of a person described in subparagraph (A) or (B) of paragraph (1)) or submit an application for reemployment with such employer (in the case of a person described in subparagraph (C) or (D) of such paragraph). Except as provided in subparagraph (B), such period of recovery may not exceed two years.
+(2)(A) A person who is hospitalized for, or convalescing from, an illness or injury incurred in, or aggravated during, the performance of service in the uniformed services shall, at the end of the period that is necessary for the person to recover from such illness or injury, report to the person's employer (in the case of a person described in subparagraph (A) or (B) of paragraph (1)) or submit an application for reemployment with such employer (in the case of a person described in subparagraph (C) or (D) of such paragraph). Except as provided in subparagraph (B), such period of recovery may not exceed two years.
 
 (B) Such two-year period shall be extended by the minimum time required to accommodate the circumstances beyond such person's control which make reporting within the period specified in subparagraph (A) impossible or unreasonable.
 

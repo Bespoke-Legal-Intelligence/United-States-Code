@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To be eligible to receive a grant under this subchapter, a local educational agency shall demonstrate in the application submitted pursuant to section 5964(a) of this title that such agency—
+To be eligible to receive a grant under this subchapter, a local educational agency shalldemonstrate in the application submitted pursuant to section 5964(a) of this title that such agency—
 
 &emsp;(1) serves an area in which there is a high rate of—
 

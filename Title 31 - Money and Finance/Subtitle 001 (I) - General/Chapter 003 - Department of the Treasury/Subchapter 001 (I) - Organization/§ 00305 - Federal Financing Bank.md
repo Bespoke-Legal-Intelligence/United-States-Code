@@ -1,6 +1,6 @@
 ### §305. Federal Financing Bank
 
-The Federal Financing Bank, established under section 4 of the Federal Financing BankAct of 1973 (12 U.S.C. 2283), is subject to the direction and supervision of the Secretary of the Treasury.
+The Federal Financing Bank, established under section 4 of the Federal Financing Bank Act of 1973 (12 U.S.C. 2283), is subject to the direction and supervision of the Secretary of the Treasury.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 879.)
 

@@ -1,0 +1,18 @@
+### §497. Use and occupation of lands for hotels, resorts, summer homes, stores, and facilities for industrial, commercial, educational or public uses
+
+The Secretary of Agriculture is authorized, under such regulations as he may make and upon such terms and conditions as he may deem proper, (a) to permit the use and occupancy of suitable areas of land within the national forests, not exceeding eighty acres and for periods not exceeding thirty years, for the purpose of constructing or maintaining hotels, resorts, and any other structures or facilities necessary or desirable for recreation, public convenience, or safety; (b) to permit the use and occupancy of suitable areas of land within the national forests, not exceeding five acres and for periods not exceeding thirty years, for the purpose of constructing or maintaining summer homes and stores; (c) to permit the use and occupancy of suitable areas of land within the national forest, not exceeding eighty acres and for periods not exceeding thirty years, for the purpose of constructing or maintaining buildings, structures, and facilities for industrial or commercial purposes whenever such use is related to or consistent with other uses on the national forests; (d) to permit any State or political subdivision thereof, or any public or nonprofit agency, to use and occupy suitable areas of land within the national forests not exceeding eighty acres and for periods not exceeding thirty years, for the purpose of constructing or maintaining any buildings, structures, or facilities necessary or desirable for education or for any public use or in connection with any public activity. The authority provided by this section shall be exercised in such manner as not to preclude the general public from full enjoyment of the natural, scenic, recreational, and other aspects of the national forests.
+
+(Mar. 4, 1915, ch. 144, 38 Stat. 1101; July 28, 1956, ch. 771, 70 Stat. 708.)
+
+#### Amendments
+
+1956—Act July 28, 1956, increased maximum area of land for each purpose for which permits may be granted from not more than 5 acres to not more than 80 acres, and authorized permits for facilities for public safety, for buildings, structures, and facilities for industrial or commercial purposes whenever such purposes are related to or consistent with other use of the national forests, and for facilities to be used by public or nonprofit agencies for education or public use or in connection with any public activity.
+
+#### Cross References
+
+Contracts for sale of forest products, use of national-forest lands, etc., exempt from requirements of section 20 of Title 41, where amount involved is less than $300, see section 20a of Title 41, Public Contracts.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 460aaa–2, 497b, 497c of this title.
+

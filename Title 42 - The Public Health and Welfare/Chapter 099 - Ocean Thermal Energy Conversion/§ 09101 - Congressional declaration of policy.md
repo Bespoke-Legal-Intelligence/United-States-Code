@@ -2,7 +2,7 @@
 
 (a) It is declared to be the purposes of the Congress in this chapter to—
 
-&emsp;(1) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion facilities connected to the United States by pipeline orcable, or located in whole or in part between the highwater mark and the seaward boundary of the territorial sea of the United States consistent with the Convention on the High Seas, and general principles of international law;
+&emsp;(1) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion facilities connected to the United States by pipeline or cable, or located in whole or in part between the highwater mark and the seaward boundary of the territorial sea of the United States consistent with the Convention on the High Seas, and general principles of international law;
 
 &emsp;(2) authorize and regulate the construction, location, ownership, and operation of ocean thermal energy conversion plantships documented under the laws of the United States, consistent with the Convention on the High Seas and general principles of international law;
 
@@ -32,7 +32,7 @@ The Merchant Marine Act, 1936, referred to in subsec. (a)(6), is act June 29, 19
 
 #### Short Title
 
-Section 1 of Pub. L. 96–320 provided: “That this Act \[enacting this chapter and section 1279c of Title 46, Appendix, Shipping, amending sections 1271, 1273, and 1274 of Title 46, Appendix, and enacting provisions set out as a note under section 1273 of Title 46, Appendix\] may be cited as the ‘Ocean Thermal Energy Conversion Act of 1980’.”
+Section 1 of Pub. L. 96–320 provided: “That this Act \[enacting this chapter and section 1279c of Title 46, Appendix, Shipping, amending sections 1271, 1273, and 1274 of Title 46, Appendix, and enacting provisions set out as a note under section 1273 of Title 46, Appendix\] may becited as the ‘Ocean Thermal Energy Conversion Act of 1980’.”
 
 #### Territorial Sea of United States
 

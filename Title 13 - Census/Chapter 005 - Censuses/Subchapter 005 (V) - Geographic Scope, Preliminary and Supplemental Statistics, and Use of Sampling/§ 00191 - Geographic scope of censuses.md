@@ -1,6 +1,6 @@
 ### §191. Geographic scope of censuses
 
-(a) Each of the censuses authorized by this chapter shall include each State, the District of Columbia, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Commonwealth of Puerto Rico, and as may be determined by the Secretary, such other possessions and areas over which the United States exercises jurisdiction, control, or sovereignty. Inclusion of other areas over which the United States exercises jurisdiction or control shall be subject to the concurrence of the Secretary of State.
+(a) Each of the censuses authorized by this chapter shall include each State, the District ofColumbia, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Commonwealth of Puerto Rico, and as may be determined by the Secretary, such other possessions and areas over which the United States exercises jurisdiction, control, or sovereignty. Inclusion of other areas over which the United States exercises jurisdiction or control shall be subject to the concurrence of the Secretary of State.
 
 (b) For censuses taken in the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or any possession or area not specifically designated in subsection (a) of this section, the Secretary may use census information collected by the Governor or highest ranking Federal official, if such information was obtained in accordance with plans prescribed or approved by the Secretary.
 
@@ -22,7 +22,7 @@ Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L.
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out asa note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
 
 #### Section Referred to in Other Sections
 

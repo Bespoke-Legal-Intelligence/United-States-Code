@@ -32,7 +32,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(D) any weapon that is designed to release radiation or radioactivity at a level dangerous to human life.
 
-(Added Pub. L. 103–322, title VI, §60023(a), Sept. 13, 1994, 108 Stat. 1980; amended Pub. L. 104–132,title V, §511(c), title VII, §725, Apr. 24, 1996, 110 Stat. 1284, 1300; Pub. L. 104–294, title VI, §605(m), Oct. 11, 1996, 110 Stat. 3510.)
+(Added Pub. L. 103–322, title VI, §60023(a), Sept. 13, 1994, 108 Stat. 1980; amended Pub. L. 104–132, title V, §511(c), title VII, §725, Apr. 24, 1996, 110 Stat. 1284, 1300; Pub. L. 104–294, title VI, §605(m), Oct. 11, 1996, 110 Stat. 3510.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 For the purpose of ascertaining whether there has been a violation of section 53 of this title with respect to any prime contract, the General Accounting Office and the inspector general of the contracting agency, or a representative of such contracting agency designated by the head of such agency if the agency does not have an inspector general, shall have access to and may inspect the facilities and audit the books and records, including any electronic data or records, of any prime contractor or subcontractor under a prime contract awarded by such agency. This section does not apply with respect to a prime contract for the acquisition of commercial items (as defined in section 403(12) of this title).
 
-(Mar. 8, 1946, ch. 80, §8, as added Nov. 7, 1986, Pub. L. 99–634, §2(a), 100 Stat. 3525; amended Oct. 13, 1994, Pub. L. 103–355, title VIII, §8301(c)(2), 108 Stat. 3397.)
+(Mar. 8, 1946, ch. 80, §8, as added Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3525; amended Pub. L. 103–355, title VIII, §8301(c)(2), Oct. 13, 1994, 108 Stat. 3397.)
 
 #### Amendments
 

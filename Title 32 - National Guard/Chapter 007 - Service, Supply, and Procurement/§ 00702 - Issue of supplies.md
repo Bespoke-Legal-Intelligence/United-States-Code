@@ -8,7 +8,7 @@
 
 (d) No property may be issued to the National Guard of a State or Territory, Puerto Rico, or the District of Columbia, unless that jurisdiction makes provision, satisfactory to the Secretary concerned, for its protection and care.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 612; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), (4), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 612; Pub. L. 100–456, div. A, title XII, §1234(b)(1), (4), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 

@@ -16,7 +16,7 @@ The Tulalip Tribes may, with the approval of the Secretary of the Interior, exec
 
 Any moneys or credits received or credited to the Tulalip Tribes from the sale, exchange, mortgage, or granting of any security interest in any tribal land may be used for any tribal purpose.
 
-(June 18, 1956, ch. 400, §2, 70 Stat. 290; June 2, 1970, Pub. L. 91–274, §1, 84 Stat. 301.)
+(June 18, 1956, ch. 400, §2, 70 Stat. 290; Pub. L. 91–274, §1, June 2, 1970, 84 Stat. 301.)
 
 #### Amendments
 

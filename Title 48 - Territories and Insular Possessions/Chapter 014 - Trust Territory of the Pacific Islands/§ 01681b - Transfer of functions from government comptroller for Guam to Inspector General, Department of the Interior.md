@@ -16,7 +16,7 @@ The authority granted in paragraph (a) of this section shall extend to all activ
 
 In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for Guam related to its audit function, with respect to the government of the Trust Territory of the Pacific Islands and the government of the Northern Mariana Islands are hereby transferred to the Office of Inspector General, Department of the Interior.
 
-(June 30, 1954, ch. 423, §4, as added Oct. 19, 1982, Pub. L. 97–357, title II, §203(b), 96 Stat. 1707.)
+(June 30, 1954, ch. 423, §4, as added Pub. L. 97–357, title II, §203(b), Oct. 19, 1982, 96 Stat. 1707.)
 
 #### References in Text
 

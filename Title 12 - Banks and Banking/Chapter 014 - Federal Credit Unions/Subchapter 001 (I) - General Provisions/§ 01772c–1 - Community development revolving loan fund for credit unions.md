@@ -20,7 +20,7 @@ Interest earned by the Fund may be allocated by the Board for technical assistan
 
 As used in this section, the term “Fund” means the Community Development Credit Union Revolving Loan Fund.
 
-(June 26, 1934, ch. 750, title I, §130, as added Sept. 23, 1994, Pub. L. 103–325, title I, §120(b), 108 Stat. 2188.)
+(June 26, 1934, ch. 750, title I, §130, as added Pub. L. 103–325, title I, §120(b), Sept. 23, 1994, 108 Stat. 2188.)
 
 #### References in Text
 

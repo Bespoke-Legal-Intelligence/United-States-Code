@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers Home Administration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n) of this section—
+&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers HomeAdministration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n) of this section—
 
 &emsp;&emsp;(A) to provide congregate services programs for eligible project residents to promote and encourage maximum independence within a home environment for such residents capable of self-care with appropriate supportive services; or
 
@@ -72,7 +72,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (1) In general
 
-&emsp;A congregate services program under this section shall provide meal and other servicesfor eligible project residents (and other residents and nonresidents, as provided in subsection (e) of this section), as provided in this section, that are coordinated on site.
+&emsp;A congregate services program under this section shall provide meal and other services for eligible project residents (and other residents and nonresidents, as provided in subsection (e) of this section), as provided in this section, that are coordinated on site.
 
 #### (2) Meal services
 
@@ -128,7 +128,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;Assistance under this section may be provided with respect to the employment of one or more individuals (hereinafter referred to as “service coordinator”) who may be responsible for—
 
-&emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoing basis to assess the service needs of eligible residents;
+&emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoingbasis to assess the service needs of eligible residents;
 
 &emsp;&emsp;(B) working with service providers and the professional assessment committee to tailor the provision of services to the needs and characteristics of eligible residents;
 
@@ -272,7 +272,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (A) Contribution requirement
 
-&emsp;&emsp;In providing contracts under subsection (b) of this section, each Secretary concernedshall provide for the cost of providing the congregate services program assisted under this section to be distributed as follows:
+&emsp;&emsp;In providing contracts under subsection (b) of this section, each Secretary concerned shall provide for the cost of providing the congregate services program assisted under this section to be distributed as follows:
 
 &emsp;&emsp;&emsp;(i) Each State, Indian tribe, unit of general <sup>5</sup> government, or nonprofit housing sponsor that receives amounts under a contract under subsection (b) of this section shall supplement any such amount with amounts sufficient to provide 50 percent of the cost of providing the congregate services program. Any monetary or in-kind contributions received by a congregate services program under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] may be considered for purposes of fulfilling the requirement under this clause. The Secretary concerned shall encourage owners to use excess residual receipts to the extent available to supplement funds for retrofit and supportive services under this section.
 
@@ -402,7 +402,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) describing the activities being carried out with assistance under this section and the population being served by such activities;
 
-&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregate services under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
+&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregateservices under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
 
 &emsp;&emsp;(C) containing any other information that the Secretary concerned considers helpful to the Congress in evaluating the effectiveness of this section.
 
@@ -482,7 +482,7 @@ Interim regulations.—Not later than the expiration of the 30-day period beginn
 
 “(2)
 
-Final regulations.—Not later than the expiration of the 90-day period beginning upon the publication of interim regulations under paragraph (1), each such Secretary shall issue final regulations implementing section 802 of the Cranston-Gonzalez National Affordable Housing Act after notice and opportunity forpublic comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment under such section 553 shall be not less than 60 days, and the final regulations shall take effect upon issuance.
+Final regulations.—Not later than the expiration of the 90-day period beginning upon the publication of interim regulations under paragraph (1), each such Secretary shall issue final regulations implementing section 802 of the Cranston-Gonzalez National Affordable Housing Act after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment under such section 553 shall be not less than 60 days, and the final regulations shall take effect upon issuance.
 
 “(3)
 

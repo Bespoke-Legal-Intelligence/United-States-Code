@@ -9,6 +9,7 @@
 | [6955\.](%C2%A7%2006955%20-%20Midshipmen%20allotment%20upon%20redistricting%20of%20Congressional%20Districts.md) | Midshipmen: allotment upon redistricting of Congressional Districts. |
 | [6956\.](%C2%A7%2006956%20-%20Midshipmen%20nomination%20and%20selection%20to%20fill%20vacancies.md) | Midshipmen: nomination and selection to fill vacancies. |
 | [6957\.](%C2%A7%2006957%20-%20Selection%20of%20persons%20from%20foreign%20countries.md) | Selection of persons from foreign countries. |
+| [6957a.](%C2%A7%2006957a%20-%20Exchange%20program%20with%20foreign%20military%20academies.md) | Exchange program with foreign military academies. |
 | [6958\.](%C2%A7%2006958%20-%20Midshipmen%20qualifications%20for%20admission.md) | Midshipmen: qualifications for admission. |
 | [6959\.](%C2%A7%2006959%20-%20Midshipmen%20agreement%20for%20length%20of%20service.md) | Midshipmen: agreement for length of service. |
 | [6960\.](%C2%A7%2006960%20-%20Midshipmen%20clothing%20and%20equipment%3B%20uniform%20allowance.md) | Midshipmen: clothing and equipment; uniform allowance. |
@@ -27,14 +28,17 @@
 | [6973\.](%C2%A7%2006973%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20Naval%20Academy.md) | Gifts and bequests: acceptance for benefit of Naval Academy. |
 | [6974\.](%C2%A7%2006974%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20museum.md) | Gifts and bequests: acceptance for benefit of museum. |
 | \[6975. | Repealed.\] |
+| [6976\.](%C2%A7%2006976%20-%20Operation%20of%20Naval%20Academy%20dairy%20farm.md) | Operation of Naval Academy dairy farm. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+1997—Pub. L. 105–85, div. A, title V, §542(b)(2), div. B, title XXVIII, §2871(a)(2), Nov. 18, 1997, 111 Stat. 1742, 2015, added items 6957a and 6976.
+
 1996—Pub. L. 104–201, div. A, title III, §370(d), Sept. 23, 1996, 110 Stat. 2499, struck out item 6970 “Storekeeper: detail; returns; inspection of accounts” and substituted “trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts” for “laundry, barber shop, cobbler shop, tailor shop, and dairy: disposition of funds” in item 6971.
 
-1994—Pub. L. 103–337, div. A, title V, §556(b)(2), Oct. 5, 1994, 108 Stat. 2775, which amended analysis by adding item 6975 “Athletics program: athletic director; nonappropriated fund account”, was repealed by Pub. L. 104–106, div. A, title V, §533(b), Feb. 10, 1996, 110 Stat. 315.
+1994—Pub. L. 103–337, div. A, title V, §556(b)(2), Oct. 5, 1994, 108 Stat. 2775, which amended analysis by adding item 6975 “Athletics program: athletic director; nonappropriated fund account”, was repealed by Pub. L. 104–106, div. A, title V, §533(b), Feb. 10, 1996, 110 Stat. 315, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(1)(C), Nov. 18, 1997, 111 Stat. 1905.
 
 1983—Pub. L. 98–94, title X, §1004(b)(2), Sept. 24, 1983, 97 Stat. 659, substituted “Selection of persons from foreign countries” for “Admission of foreigners for instruction: restrictions, conditions” in item 6957.
 
@@ -54,6 +58,7 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 06955 - Midshipmen allotment upon redistricting of Congressional Districts](%C2%A7%2006955%20-%20Midshipmen%20allotment%20upon%20redistricting%20of%20Congressional%20Districts.md)
 - [&sect; 06956 - Midshipmen nomination and selection to fill vacancies](%C2%A7%2006956%20-%20Midshipmen%20nomination%20and%20selection%20to%20fill%20vacancies.md)
 - [&sect; 06957 - Selection of persons from foreign countries](%C2%A7%2006957%20-%20Selection%20of%20persons%20from%20foreign%20countries.md)
+- [&sect; 06957a - Exchange program with foreign military academies](%C2%A7%2006957a%20-%20Exchange%20program%20with%20foreign%20military%20academies.md)
 - [&sect; 06958 - Midshipmen qualifications for admission](%C2%A7%2006958%20-%20Midshipmen%20qualifications%20for%20admission.md)
 - [&sect; 06959 - Midshipmen agreement for length of service](%C2%A7%2006959%20-%20Midshipmen%20agreement%20for%20length%20of%20service.md)
 - [&sect; 06960 - Midshipmen clothing and equipment; uniform allowance](%C2%A7%2006960%20-%20Midshipmen%20clothing%20and%20equipment%3B%20uniform%20allowance.md)
@@ -71,4 +76,5 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 06972 - Chapel crypt and window spaces](%C2%A7%2006972%20-%20Chapel%20crypt%20and%20window%20spaces.md)
 - [&sect; 06973 - Gifts and bequests acceptance for benefit of Naval Academy](%C2%A7%2006973%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20Naval%20Academy.md)
 - [&sect; 06974 - Gifts and bequests acceptance for benefit of museum](%C2%A7%2006974%20-%20Gifts%20and%20bequests%20acceptance%20for%20benefit%20of%20museum.md)
-- [&sect; 06975 - Repealed. Pub. L. 104&#8211;106, div. A, title V, &sect;533(b), Feb. 10, 1996, 110 Stat. 315](%C2%A7%2006975%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7533%28b%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20315.md)
+- [&sect; 06975 - Repealed. Pub. L. 104&#8211;106, div. A, title V, &sect;533(b), Feb. 10, 1996, 110 Stat. 315; Pub. L. 105&#8211;85, div. A, title X, &sect;1073(d)(1)(C)&#8230;](%C2%A7%2006975%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7533%28b%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20315%3B%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71073%28d%29%281%29%28C%29%E2%80%A6.md)
+- [&sect; 06976 - Operation of Naval Academy dairy farm](%C2%A7%2006976%20-%20Operation%20of%20Naval%20Academy%20dairy%20farm.md)

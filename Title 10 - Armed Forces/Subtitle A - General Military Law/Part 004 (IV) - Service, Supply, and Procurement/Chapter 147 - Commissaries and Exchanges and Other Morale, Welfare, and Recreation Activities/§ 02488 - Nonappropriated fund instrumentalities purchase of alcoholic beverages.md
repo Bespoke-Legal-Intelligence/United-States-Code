@@ -1,0 +1,62 @@
+### §2488. Nonappropriated fund instrumentalities: purchase of alcoholic beverages
+
+(a) The Secretary of Defense shall provide that—
+
+&emsp;(1) covered alcoholic beverage purchases made for resale on a military installation located in the United States shall be made from the most competitive source and distributed in the most economical manner, price and other factors considered, except that
+
+&emsp;(2) in the case of malt beverages and wine, such purchases shall be made from, and delivery shall be accepted from, a source within the State in which the military installation concerned is located.
+
+(b) If a military installation located in the contiguous States is located in more than one State, a source of supply in any State in which the installation is located shall be considered for the purposes of subsection (a)(2) to be a source within the State in which the installation is located.
+
+(c)(1) In the case of covered alcoholic beverage purchases of distilled spirits, to determine whether a nonappropriated fund instrumentality of the Department of Defense provides the most economical method of distribution to package stores, the Secretary of Defense shall consider all components of the distribution costs incurred by the nonappropriated fund instrumentality, such as overhead costs (including costs associated with management, logistics, administration, depreciation, and utilities), the costs of carrying inventory, and handling and distribution costs.
+
+(2) If the use of a private distributor would subject covered alcoholic beverage purchases of distilled spirits to direct or indirect State taxation, a nonappropriated fund instrumentality shall be considered to be the most economical method of distribution regardless of the results of the determination under paragraph (1).
+
+(3) The Secretary shall use the agencies performing audit functions on behalf of the armed forces and the Inspector General of the Department of Defense to make determinations under this subsection.
+
+(d) In this section:
+
+&emsp;(1) The term “covered alcoholic beverage purchases” means purchases of alcoholic beverages by a nonappropriated fund instrumentality of the Department of Defense with nonappropriated funds.
+
+&emsp;(2) The term “State” includes the District of Columbia.
+
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3853; amended Pub. L. 100–180, div. A, title III, §312(a), Dec. 4, 1987, 101 Stat. 1073; Pub. L. 104–106, div. A, title III, §333, Feb. 10, 1996, 110 Stat. 261.)
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–106, §333(a), inserted “and distributed in the most economical manner” after “most competitive source”.
+
+Subsecs. (c), (d). Pub. L. 104–106, §333(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+1987—Subsec. (a)(2). Pub. L. 100–180 struck out “purchased for resale on a military installation located in the contiguous States” after “malt beverages and wines”.
+
+#### Effective Date of 1987 Amendment
+
+Section 312(b) of Pub. L. 100–180 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to purchases of malt beverages and wine after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 4, 1987\].”
+
+#### Procurement of Malt Beverages and Wine by Nonappropriated Fund Activity
+
+Pub. L. 104–61, title VIII, §8055, Dec. 1, 1995, 109 Stat. 662, provided that: “None of the funds appropriated by this Act \[see Tables for classification\] shall be used for the support of any nonappropriated funds activity of the Department of Defense that procures malt beverages and wine with nonappropriated funds for resale\(including such alcoholic beverages sold by the drink) on a military installation located in the United States unless such malt beverages and wine are procured within that State, or in the case of the District of Columbia, within the District of Columbia, in which the military installation is located: <i>Provided</i>, That in a case in which the military installation is located in more than one State, purchases may be made in any State in which the installation is located: <i>Provided further</i>, That such local procurement requirements for malt beverages and wine shall apply to all alcoholic beverages only for military installations in States which are not contiguous with another State: <i>Provided further</i>, That alcoholic beverages other than wine and malt beverages, in contiguous States and the District of Columbia shall be procured from the most competitive source, price and other factors considered.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 103–335, title VIII, §8058A, Sept. 30, 1994, 108 Stat. 2632.
+
+Pub. L. 103–139, title VIII, §8099A, Nov. 11, 1993, 107 Stat. 1462.
+
+Pub. L. 102–396, title IX, §9114, Oct. 6, 1992, 106 Stat. 1929.
+
+Pub. L. 102–172, title VIII, §8111A, Nov. 26, 1991, 105 Stat. 1200.
+
+Pub. L. 101–511, title VIII, §8068, Nov. 5, 1990, 104 Stat. 1889.
+
+Pub. L. 101–165, title IX, §9093, Nov. 21, 1989, 103 Stat. 1149.
+
+Pub. L. 100–463, title VIII, §8122, Oct. 1, 1988, 102 Stat. 2270–40.
+
+Pub. L. 100–202, §101(b) \[title VIII, §8081\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–76.
+
+Pub. L. 99–500, §101(c) \[title IX, §9090\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–116, and Pub. L. 99–591, §101(c) \[title IX, §9090\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–116.
+
+Pub. L. 99–190, §101(b) \[title VIII, §8099\], Dec. 19, 1985, 99 Stat. 1185, 1219.
+

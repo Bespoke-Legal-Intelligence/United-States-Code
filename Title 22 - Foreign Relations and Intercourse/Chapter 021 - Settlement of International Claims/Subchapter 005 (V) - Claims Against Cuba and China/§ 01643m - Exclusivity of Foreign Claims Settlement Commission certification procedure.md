@@ -4,7 +4,7 @@
 
 (b) Nothing in subsection (a) of this section shall be construed to detract from or otherwise affect any rights in the shares of capital stock of nationals of the United States owning claims certified by the Commission under section 1643f of this title.
 
-(Mar. 10, 1950, ch. 54, title V, §515, as added Mar. 12, 1996, Pub. L. 104–114, title III, §304, 110 Stat. 821.)
+(Mar. 10, 1950, ch. 54, title V, §515, as added Pub. L. 104–114, title III, §304, Mar. 12, 1996, 110 Stat. 821.)
 
 #### Effective Date
 

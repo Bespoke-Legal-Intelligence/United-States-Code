@@ -29,12 +29,12 @@
 | (a) | Establishment of subsistence resources regions, local advisory committees, and regional advisory councils; membership, duties, and authority of regional advisory councils. |
 | (b) | Assignment of staff and distribution of data. |
 | (c) | Consideration of reports and recommendations of regional advisory councils. |
-| (d) | Supersedure by enactment and implementation of State laws governing State responsibility; consideration of recommendations by State rulemaking authority. |
+| (d) | Supersedure by enactment and implementation of State laws governing State responsibility; consideration of recommendations by State rulemaking authority; regional advisory councils. |
 | (e) | Reimbursement to State; limitation; report to Congress. |
 | [3116\.](Subchapter%20002%20%28II%29%20-%20Subsistence%20Management%20and%20Use/%C2%A7%2003116%20-%20Federal%20monitoring%3B%20reports%20to%20State%20and%20Congressional%20committees.md) | Federal monitoring; reports to State and Congressional committees. |
 | [3117\.](Subchapter%20002%20%28II%29%20-%20Subsistence%20Management%20and%20Use/%C2%A7%2003117%20-%20Judicial%20enforcement.md) | Judicial enforcement. |
 | (a) | Exhaustion of administrative remedies; civil action; parties; preliminary injunctive relief; other relief; costs and attorney's fees. |
-| (b) | Repealed. |
+| (b) | Judicial review and enforcement. |
 | (c) | Section as sole Federal judicial remedy. |
 | [3118\.](Subchapter%20002%20%28II%29%20-%20Subsistence%20Management%20and%20Use/%C2%A7%2003118%20-%20Park%20and%20park%20monument%20subsistence%20resource%20commissions.md) | Park and park monument subsistence resource commissions. |
 | (a) | Appointment of members; development of subsistence hunting program; annual review of program. |
@@ -292,6 +292,10 @@
 | (d) | Other procedures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 668dd of this title.
 
 
 ---

@@ -1,0 +1,122 @@
+### §49111. Relationship to and effect of other laws
+
+(a)
+
+Same Powers and Restrictions Under Other Laws.—To ensure that the Metropolitan Washington Airports Authority has the same proprietary powers and is subject to the same restrictions under United States law as any other airport except as otherwise provided in this chapter, during the period that the lease authorized by section 6005 of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–375; Public Law 99–591; 100 Stat. 3341–378) is in effect—
+
+&emsp;(1) the Metropolitan Washington Airports are deemed to be public airports for purposes of chapter 471 of this title; and
+
+&emsp;(2) the Act of June 29, 1940 (ch. 444, 54 Stat. 686), the First Supplemental Civil Functions Appropriations Act, 1941 (ch. 780, 54 Stat. 1030), and the Act of September 7, 1950 (ch. 905, 64 Stat. 770), do not apply to the operation of the Metropolitan Washington Airports, and the Secretary of Transportation is relieved of all responsibility under those Acts.
+
+(b)
+
+Inapplicability of Certain Laws.—The Metropolitan Washington Airports and the Airports Authority are not subject to the requirements of any law solely by reason of the retention of the United States Government of the fee simple title to those airports.
+
+(c)
+
+Police Power.—Virginia shall have concurrent police power authority over the Metropolitan Washington Airports, and the courts of Virginia may exercise jurisdiction over Washington National Airport.
+
+(d)
+
+Planning.—(1) The authority of the National Capital Planning Commission under section 5 of the Act of June 6, 1924 (40 U.S.C. 71d), does not apply to the Airports Authority.
+
+(2) The Airports Authority shall consult with—
+
+&emsp;(A) the Commission and the Advisory Council on Historic Preservation before undertaking any major alterations to the exterior of the main terminal at Washington Dulles International Airport; and
+
+&emsp;(B) the Commission before undertaking development that would alter the skyline of Washington National Airport when viewed from the opposing shoreline of the Potomac River or from the George Washington Parkway.
+
+(e)
+
+Operation Limitations.—The Administrator of the Federal Aviation Administration may not increase the number of instrument flight rule takeoffs and landings authorized for air carriers by the High Density Rule (14 CFR 93.121 et seq.) at Washington National Airport on October 18, 1986, and may not decrease the number of those takeoffs and landings except for reasons of safety.
+
+(Added Pub. L. 105–102, §2(26), Nov. 20, 1997, 111 Stat. 2213.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+Section
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+49111(a)
+
+(uncodified).
+
+Oct. 18, 1986, Pub. L. 99–500, title VI, §6009(a), 100 Stat. 1783–384.
+
+&nbsp;
+
+&nbsp;
+
+Oct. 30, 1986, Pub. L. 99–591, title VI, §6009(a), 100 Stat. 3341–387.
+
+49111(b)
+
+(uncodified).
+
+Oct. 18, 1986, Pub. L. 99–500, title VI, §6009(b), 100 Stat. 1783–384; Oct. 9, 1996, Pub. L. 104–264, title IX, §904(c)(1), 110 Stat. 3276.
+
+&nbsp;
+
+&nbsp;
+
+Oct. 30, 1986, Pub. L. 99–591, title VI, §6009(b), 100 Stat. 3341–387; Oct. 9, 1996, Pub. L. 104–264, title IX, §904(c)(1), 110 Stat. 3276.
+
+49111(c)
+
+(uncodified).
+
+Oct. 18, 1986, Pub. L. 99–500, title VI, §6009(c), 100 Stat. 1783–384.
+
+&nbsp;
+
+&nbsp;
+
+Oct. 30, 1986, Pub. L. 99–591, title VI, §6009(c), 100 Stat. 3341–387.
+
+49111(d)
+
+(uncodified).
+
+Oct. 18, 1986, Pub. L. 99–500, title VI, §6009(d), 100 Stat. 1783–384.
+
+&nbsp;
+
+&nbsp;
+
+Oct. 30, 1986, Pub. L. 99–591, title VI, §6009(d), 100 Stat. 3341–387.
+
+49111(e)
+
+(uncodified).
+
+Oct. 18, 1986, Pub. L. 99–500, title VI, §6009(e), 100 Stat. 1783–384.
+
+&nbsp;
+
+&nbsp;
+
+Oct. 30, 1986, Pub. L. 99–591, title VI, §6009(e), 100 Stat. 3341–388.
+
+In subsection (a)(1), the word “deemed” is substituted for “considered” for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (e), the text of section 6009(e)(2) of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500, 100 Stat. 1783–385, Public Law 99–591, 100 Stat. 3341–388) is omitted as executed.
+
+#### References in Text
+
+Section 6005 of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (a), is section 6005 of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–375, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–378, which was classified to section 2454 of former Title 49, Transportation, and was repealed and reenacted as this section by Pub. L. 105–102, §§2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217.
+
+Act of June 29, 1940, ch. 444, 54 Stat. 686, referred to in subsec. (a)(2), was classified to subchapter I (§2401 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
+
+The First Supplemental Civil Functions Appropriations Act, 1941, referred to in subsec. (a)(2), is act Oct. 9, 1940, ch. 780, 54 Stat. 1030. For complete classification of this Act to the Code, see Tables.
+
+Act of September 7, 1950, ch. 905, 64 Stat. 770, referred to in subsec. (a)(2), was classified to subchapter II (§2421 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 41714 of this title.
+

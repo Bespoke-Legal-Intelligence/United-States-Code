@@ -8,7 +8,7 @@ Section 909, act Aug. 13, 1946, ch. 957, title V, §514, 60 Stat. 1008, related 
 
 Section 910, acts Aug. 13, 1946, ch. 957, title V, §515, 60 Stat. 1008; Aug. 17, 1977, Pub. L. 95–105, title IV, §404, 91 Stat. 853, related to citizenship requirements of Foreign Service officers.
 
-Section 911, acts Aug. 13, 1946, ch. 957, title V, §516, 60 Stat. 1008; July 28, 1956, ch. 770, §5, 70 Stat. 704; Sept.8, 1960, Pub. L. 86–723, §8, 74 Stat. 832; Aug. 17, 1977, Pub. L. 95–105, title IV, §405, 91 Stat. 853, related to admissions to class 6, 7, or 8 for Foreign Service officers.
+Section 911, acts Aug. 13, 1946, ch. 957, title V, §516, 60 Stat. 1008; July 28, 1956, ch. 770, §5, 70 Stat. 704; Sept. 8, 1960, Pub. L. 86–723, §8, 74 Stat. 832; Aug. 17, 1977, Pub. L. 95–105, title IV, §405, 91 Stat. 853, related to admissions to class 6, 7, or 8 for Foreign Service officers.
 
 #### Effective Date of Repeal
 

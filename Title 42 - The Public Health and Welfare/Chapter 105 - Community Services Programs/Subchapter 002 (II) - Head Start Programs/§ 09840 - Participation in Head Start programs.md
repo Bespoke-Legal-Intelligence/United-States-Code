@@ -22,7 +22,7 @@ The Secretary shall not prescribe any fee schedule or otherwise provide for the 
 
 #### (c) Availability of more than one year of services; children eligible
 
-Each Head Start program operated in a community shall be permitted to provide more than1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.
+Each Head Start program operated in a community shall be permitted to provide more than 1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.
 
 #### (d) Indian tribes
 
@@ -48,7 +48,7 @@ Section 254c of this title, referred to in subsec. (a)(2)(B), was in the origina
 
 #### Amendments
 
-1994—Subsec. (c). Pub. L. 103–252, §111(1), substituted “shall be permitted to provide more than 1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.” for “may provide more than one year of Head Start services to children from age 3 to the age of compulsory school attendance in the State in which the Head Start program is located. The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
+1994—Subsec. (c). Pub. L. 103–252, §111(1), substituted “shall be permitted to provide more than 1 year ofHead Start services to eligible children (age 3 to compulsory school attendance) in the State.” for “may provide more than one year of Head Start services to children from age 3 to the age of compulsory school attendance in the State in which the Head Start program is located. The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
 
 Subsec. (d). Pub. L. 103–252, §111(2), added subsec. (d).
 

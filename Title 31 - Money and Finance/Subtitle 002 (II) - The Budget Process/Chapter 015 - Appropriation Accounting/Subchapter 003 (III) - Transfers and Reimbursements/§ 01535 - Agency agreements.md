@@ -10,7 +10,7 @@
 
 &emsp;(4) the head of the agency decides ordered goods or services cannot be provided by contract as conveniently or cheaply by a commercial enterprise.
 
-(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
+(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment ofamounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
 (c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
@@ -122,7 +122,7 @@ Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) a
 
 #### Economy Act Purchases
 
-Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that the Federal Acquisition Regulation was to be revised to include regulations governing the exercise of authority under this section for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
+Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that the Federal Acquisition Regulation was to be revised to include regulations governing the exercise of authority under this section for Federalagencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
 #### Department of Defense Purchases Through Other Agencies
 
@@ -140,5 +140,5 @@ Pub. L. 101–163, title I, §8, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1536 of this title; title 2 sections 142j, 1385; title 7 section 5922; title 10 sections 377, 1104, 2205, 2684; title 16 section 825k; title 22 section 2358; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 section 1720A; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 section 1471c; title 48 section 1469d; title 50 section 414.
+This section is referred to in section 1536 of this title; title 2 sections 142j, 1385; title 7 section 5922; title 10 sections 377, 1104, 2205, 2684; title 16 sections 670c–1, 825k; title 22 section 2358; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 section 1720A; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 section 1471c; title 48 section 1469d; title 50 section 414.
 

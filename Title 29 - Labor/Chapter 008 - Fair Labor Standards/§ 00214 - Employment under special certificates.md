@@ -46,11 +46,11 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 &emsp;(ii) in the case of an employer which is a retail or service establishment, subparagraph (B) of paragraph (1) shall not apply with respect to the issuance of special certificates for such employer under such paragraph.
 
-> The requirement of this subparagraph shall not apply in the case of the issuance of special certificates under paragraph (3) for the employment of full-time students by institutions of higher education; except that if the Secretary determines that an institution of higher education is employing students under certificates issued under paragraph (3) but in violation of the requirements of that paragraph or of regulations issued thereunder, the requirements of this subparagraph shall apply with respect to the issuance of special certificates under paragraph (3) for the employment of students by such institution.
+> The requirement of this subparagraph shall not apply in the case of the issuance of special certificates under paragraph (3) for the employment of full-time students by institutions of higher education; except that if the Secretary determines that an institution of higher education is employing students under certificates issued under paragraph (3) but in violation ofthe requirements of that paragraph or of regulations issued thereunder, the requirements of this subparagraph shall apply with respect to the issuance of special certificates under paragraph (3) for the employment of students by such institution.
 
 (C) No special certificate may be issued under this subsection unless the employer for whom the certificate is to be issued provides evidence satisfactory to the Secretary of the student status of the employees to be employed under such special certificate.
 
-(D) To minimize paperwork for, and to encourage, small businesses to employ students underspecial certificates issued under paragraphs (1) and (2), the Secretary shall, by regulation or order, prescribe a simplified application form to be used by employers in applying for such a certificate for the employment of not more than six full-time students. Such an application shall require only—
+(D) To minimize paperwork for, and to encourage, small businesses to employ students under special certificates issued under paragraphs (1) and (2), the Secretary shall, by regulation or order, prescribe a simplified application form to be used by employers in applying for such a certificate for the employment of not more than six full-time students. Such an application shall require only—
 
 &emsp;(i) a listing of the name, address, and business of the applicant employer,
 
@@ -98,9 +98,9 @@ The Secretary, to the extent necessary in order to prevent curtailment of opport
 
 #### (d) Employment by schools
 
-The Secretary may by regulation or order provide that sections 206 and 207 of this title shall not apply with respect to the employment by any elementary or secondary school of its students if such employment constitutes, as determined under regulations prescribed by the Secretary, an integral part of the regular education program provided by such school and such employment is in accordance with applicable child labor laws.
+The Secretary may by regulation or order provide that sections 206 and 207 of this title shallnot apply with respect to the employment by any elementary or secondary school of its students if such employment constitutes, as determined under regulations prescribed by the Secretary, an integral part of the regular education program provided by such school and such employment is in accordance with applicable child labor laws.
 
-(June 25, 1938, ch. 676, §14, 52 Stat. 1068; Oct. 26, 1949, ch. 736, §12, 63 Stat. 918; May 5, 1961, Pub. L. 87–30, §11, 75 Stat. 74; Sept. 23, 1966, Pub. L. 89–601, title V, §501, 80 Stat. 842; Apr. 8, 1974,Pub. L. 93–259, §24(a), (b), 88 Stat. 69, 72; Nov. 1, 1977, Pub. L. 95–151, §§12, 13, 91 Stat. 1252; Oct. 16, 1986, Pub. L. 99–486, 100 Stat. 1229; Nov. 17, 1989, Pub. L. 101–157, §4(d), 103 Stat. 941.)
+(June 25, 1938, ch. 676, §14, 52 Stat. 1068; Oct. 26, 1949, ch. 736, §12, 63 Stat. 918; Pub. L. 87–30, §11, May 5, 1961, 75 Stat. 74; Pub. L. 89–601, title V, §501, Sept. 23, 1966, 80 Stat. 842; Pub. L. 93–259, §24(a), (b), Apr. 8, 1974, 88 Stat. 69, 72; Pub. L. 95–151, §§12, 13, Nov. 1, 1977, 91 Stat. 1252; Pub. L. 99–486, Oct. 16, 1986, 100 Stat. 1229; Pub. L. 101–157, §4(d), Nov. 17, 1989, 103 Stat. 941.)
 
 #### References in Text
 

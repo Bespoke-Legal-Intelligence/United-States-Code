@@ -6,7 +6,7 @@ The Architect of the Capitol shall have the care and superintendence of the Capi
 
 #### Codification
 
-Section is based on appropriation for the person in charge of hearing apparatus in act Aug. 15, 1876, popularly known as the “Sundry Civil Appropriation Act”. It was repeated in the similar act Mar. 3, 1877.
+Section is based on appropriation for the person in charge of heating apparatus in act Aug. 15, 1876, popularly known as the “Sundry Civil Appropriation Act”. It was repeated in the similar act Mar. 3, 1877.
 
 #### Amendments
 

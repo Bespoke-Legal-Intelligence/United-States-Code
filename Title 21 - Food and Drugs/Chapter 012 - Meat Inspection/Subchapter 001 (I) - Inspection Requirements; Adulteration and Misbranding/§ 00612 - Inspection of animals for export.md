@@ -2,7 +2,7 @@
 
 The Secretary shall cause to be made a careful inspection of all cattle, sheep, swine, goats, horses, mules, and other equines intended and offered for export to foreign countries at such times and places, and in such manner as he may deem proper, to ascertain whether such cattle, sheep, swine, goats, horses, mules, and other equines are free from disease.
 
-(Mar. 4, 1907, ch. 2907, title I, §12, formerly 10th par., 34 Stat. 1263; renumbered §12 and amended Dec. 15, 1967, Pub. L. 90–201, §§1, 3(b), 12(a), 81 Stat. 584, 588, 592.)
+(Mar. 4, 1907, ch. 2907, title I, §12, formerly 10th par., 34 Stat. 1263; renumbered §12 and amended Pub. L. 90–201, §§1, 3(b), 12(a), Dec. 15, 1967, 81 Stat. 584, 588, 592.)
 
 #### Codification
 

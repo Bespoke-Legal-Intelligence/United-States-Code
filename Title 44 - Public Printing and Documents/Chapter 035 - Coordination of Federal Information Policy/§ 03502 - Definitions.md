@@ -46,7 +46,7 @@ As used in this chapter—
 
 &emsp;(8) the term “information system” means a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information;
 
-&emsp;(9) the term “information technology” has the meaning given that term in section 5002 of the Clinger-Cohen Act of 1996 but does not include national security systems as defined in section 5142 of that Act;
+&emsp;(9) the term “information technology” has the meaning given that term in section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401) but does not include national security systems as defined in section 5142 of that Act (40 U.S.C. 1452);
 
 &emsp;(10) the term “person” means an individual, partnership, association, corporation, business trust, or legal representative, an organized group of individuals, a State, territorial, tribal, or local government or branch thereof, or a political subdivision of a State, territory, tribal, or local government or a branch of a political subdivision;
 
@@ -66,23 +66,19 @@ As used in this chapter—
 
 &emsp;(14) the term “penalty” includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394.)
-
-#### References in Text
-
-Sections 5002 and 5142 of the Clinger-Cohen Act of 1996, referred to in par. (9), are classified to sections 1401 and 1452, respectively, of Title 40, Public Buildings, Property, and Works.
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907.)
 
 #### Prior Provisions
 
-A prior section 3502, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2813; amended Pub. L. 98–443, §9(h), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–500, §101(m) \[title VIII,§812\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §812\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335; Pub. L. 101–73, title VII, §744(e), Aug. 9, 1989, 103 Stat. 438, defined terms used in this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3502, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2813; amended Pub. L. 98–443, §9(h), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–500, §101(m) \[title VIII, §812\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §812\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335; Pub. L. 101–73, title VII, §744(e), Aug. 9, 1989, 103 Stat. 438, defined terms used in this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3502, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302; Pub. L. 93–153, title IV, §409(a), Nov. 16, 1973, 87 Stat. 593, defined “Federal agency”, “person”, and “information”, prior to the general amendment of this chapter by Pub. L. 96–511.
 
 #### Amendments
 
-1996—Par. (9). Pub. L. 104–208 substituted “Clinger-Cohen Act of 1996” for “Information Technology Management Reform Act of 1996”.
+1997—Par. (9). Pub. L. 105–85 substituted “the Clinger-Cohen Act of 1996 (40 U.S.C. 1401)” for “the Information Technology Management Reform Act of 1996” and inserted “(40 U.S.C. 1452)” after “that Act”.
 
-Pub. L. 104–201 added par. (9) and struck out former par. (9) which read as follows: “the term ‘information technology’ has the same meaning as the term ‘automatic data processing equipment’ as defined by section 111(a)(2) and (3)(C)(i) through (v) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2) and (3)(C)(i) through (v));”.
+1996—Par. (9). Pub. L. 104–106 added par. (9) and struck out former par. (9) which read as follows: “the term ‘information technology’ has the same meaning as the term ‘automatic data processing equipment’ as defined by section 111(a)(2) and (3)(C)(i) through (v) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2) and (3)(C)(i) through (v));”.
 
 #### Effective Date of 1996 Amendment
 

@@ -4,7 +4,7 @@
 
 (b) A tort claim against the United States shall be forever barred unless it is presented in writing to the appropriate Federal agency within two years after such claim accrues or unless action is begun within six months after the date of mailing, by certified or registered mail, of notice of final denial of the claim by the agency to which it was presented.
 
-(June 25, 1948, ch. 646, 62 Stat. 971; Apr. 25, 1949, ch. 92, §1, 63 Stat. 62; Sept. 8, 1959, Pub. L. 86–238, §1(3), 73 Stat. 472; July 18, 1966, Pub. L. 89–506, §7, 80 Stat. 307; Nov. 1, 1978, Pub. L. 95–563, §14(b), 92 Stat. 2389.)
+(June 25, 1948, ch. 646, 62 Stat. 971; Apr. 25, 1949, ch. 92, §1, 63 Stat. 62; Pub. L. 86–238, §1(3), Sept. 8, 1959, 73 Stat. 472; Pub. L. 89–506, §7, July 18, 1966, 80 Stat. 307; Pub. L. 95–563, §14(b), Nov. 1, 1978, 92 Stat. 2389.)
 
 #### Historical and Revision Notes
 
@@ -36,13 +36,13 @@ The Contract Disputes Act of 1978, referred to in subsec. (a), is Pub. L. 95–5
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
+<b>1978</b>—Subsec. (a). Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
 
-1966—Subsec. (b). Pub. L. 89–506 struck out provisions dealing with a tort claim of $2,500 or under as a special category of tort claim requiring preliminary administrative action and substituted provisions requiring presentation of all tort claims to the appropriate Federal agency in writing within two years after the claim accrues and commencement of an action within six months of the date of mailing of notice of final denial of the claim by the agency to which it was presented for provisions requiring commencement of an action within two years after the claim accrues.
+<b>1966</b>—Subsec. (b). Pub. L. 89–506 struck out provisions dealing with a tort claim of $2,500 or under as a special category of tort claim requiring preliminary administrative action and substituted provisions requiring presentation of all tort claims to the appropriate Federal agency in writing within two years after the claim accrues and commencement of an action within six months of the date of mailing of notice of final denial of the claim by the agency to which it was presented for provisions requiring commencement of an action within two years after the claim accrues.
 
-1959—Subsec. (b). Pub. L. 86–238 substituted “$2,500” for “$1,000” in two places.
+<b>1959</b>—Subsec. (b). Pub. L. 86–238 substituted “$2,500” for “$1,000” in two places.
 
-1949—Subsec. (b). Act Apr. 25, 1949, the time limitation on bringing tort actions from 1 year to 2 years.
+<b>1949</b>—Subsec. (b). Act Apr. 25, 1949, the time limitation on bringing tort actions from 1 year to 2 years.
 
 #### Effective Date of 1978 Amendment
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 89–506 applicable to claims accruing six months or more a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2671, 2679 of this title; title 41 section 113; title 42 section 2212; title 45 section 1203; title 49 section 44309.
+This section is referred to in sections 2671, 2679 of this title; title 30 section 1724; title 41 section 113; title 42 section 2212; title 45 section 1203; title 49 section 44309.
 

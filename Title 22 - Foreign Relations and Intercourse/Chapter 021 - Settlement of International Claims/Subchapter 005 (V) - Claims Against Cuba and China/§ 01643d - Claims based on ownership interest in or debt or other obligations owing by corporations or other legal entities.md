@@ -16,7 +16,7 @@ A claim under section 1643b(a) of this title based upon an indirect ownership in
 
 The amount of any claim covered by subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant at the time of loss bears to the entire ownership interest thereof.
 
-(Mar. 10, 1950, ch. 54, title V, §505, as added Oct. 16, 1964, Pub. L. 88–666, 78 Stat. 1111; amended Oct. 19, 1965, Pub. L. 89–262, §3, 79 Stat. 988; Nov. 6, 1966, Pub. L. 89–780, §4, 80 Stat. 1365.)
+(Mar. 10, 1950, ch. 54, title V, §505, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1111; amended Pub. L. 89–262, §3, Oct. 19, 1965, 79 Stat. 988; Pub. L. 89–780, §4, Nov. 6, 1966, 80 Stat. 1365.)
 
 #### Amendments
 

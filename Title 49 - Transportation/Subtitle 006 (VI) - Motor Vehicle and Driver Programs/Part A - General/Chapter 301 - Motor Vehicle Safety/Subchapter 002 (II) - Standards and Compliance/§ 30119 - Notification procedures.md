@@ -20,7 +20,7 @@ Contents of Notification.—Notification by a manufacturer required under sectio
 
 (b)
 
-Earliest Remedy Date.—The date specified by a manufacturer in a notification undersubsection (a)(5) of this section or section 30121(c)(2) of this title is the earliest date that parts and facilities reasonably can be expected to be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
+Earliest Remedy Date.—The date specified by a manufacturer in a notification under subsection (a)(5) of this section or section 30121(c)(2) of this title is the earliest date that parts and facilities reasonably can be expected to be available to remedy the defect or noncompliance. The Secretary may disapprove the date.
 
 (c)
 
@@ -32,7 +32,7 @@ Time for Notification.—Notification required under section 30118 of this title
 
 (d)
 
-Means of Providing Notification.—(1) Notification required under section 30118 of this title about a motor vehicle shall be sent by first class mail—
+Means of Providing Notification.—(1) Notification required under section 30118 of thistitle about a motor vehicle shall be sent by first class mail—
 
 &emsp;(A) to each person registered under State law as the owner and whose name and address are reasonably ascertainable by the manufacturer through State records or other available sources; or
 

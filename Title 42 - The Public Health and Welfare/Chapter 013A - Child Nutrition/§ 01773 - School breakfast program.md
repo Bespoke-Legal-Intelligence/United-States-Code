@@ -32,11 +32,11 @@ Free and reduced price policy statement.—After the initial submission, a schoo
 
 &emsp;(ii) 45 cents, which shall be adjusted on an annual basis each July 1 to the nearest one-fourth cent in accordance with changes in the series for food away from home of the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor for the most recent twelve-month period for which such data are available, except that the initial such adjustment shall be made on January 1, 1978, and shall reflect the change in the series of food away from home during the period November 1, 1976, to October 31, 1977.
 
-(C) The maximum payment for each such reduced price breakfast shall be thirty cents less than the maximum payment for each free breakfast as determined under clause (B) of this paragraph.
+(C) The maximum payment for each such reduced price breakfast shall be thirty cents lessthan the maximum payment for each free breakfast as determined under clause (B) of this paragraph.
 
 (3) The Secretary shall increase by 6 cents the annually adjusted payment for each breakfast served under this chapter and section 1766 of this title. These funds shall be used to assist States, to the extent feasible, in improving the nutritional quality of the breakfasts.
 
-(4) Notwithstanding any other provision of law, whenever stocks of agricultural commodities are acquired by the Secretary or the Commodity Credit Corporation and are not likely to be sold by the Secretary or the Commodity Credit Corporation or otherwise used in programs of commodity sale or distribution, the Secretary shall make such commodities available to school food authorities and eligible institutions serving breakfasts under this chapter in a quantity equal in value to not less than 3cents for each breakfast served under this chapter and section 1766 of this title.
+(4) Notwithstanding any other provision of law, whenever stocks of agricultural commodities are acquired by the Secretary or the Commodity Credit Corporation and are not likely to be sold by the Secretary or the Commodity Credit Corporation or otherwise used in programs of commodity sale or distribution, the Secretary shall make such commodities available to school food authorities and eligible institutions serving breakfasts under this chapter in a quantity equal in value to not less than 3 cents for each breakfast served under this chapter and section 1766 of this title.
 
 (5) Expenditures of funds from State and local sources for the maintenance of the breakfast program shall not be diminished as a result of funds or commodities received under paragraph (3) or (4).
 
@@ -64,7 +64,7 @@ Funds apportioned and paid to any State for the purpose of this section shall be
 
 (2) At the option of a local school food authority, a student in a school under the authority that participates in the school breakfast program under this chapter may be allowed to refuse not more than one item of a breakfast that the student does not intend to consume. A refusal of an offered food item shall not affect the full charge to the student for a breakfast meeting the requirements of this section or the amount of payments made under this chapter to a school for the breakfast.
 
-(Pub. L. 89–642, §4, Oct. 11, 1966, 80 Stat. 886; Pub. L. 90–302, §5, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §§6(d), 10, May 14, 1970, 84 Stat. 210, 214; Pub. L. 92–32, §§2–5, June 30, 1971, 85 Stat. 85; Pub. L. 92–433, §3, Sept. 26, 1972, 86 Stat. 724; Pub. L. 93–150, §4, Nov. 7, 1973, 87 Stat. 562; Pub. L. 94–105, §§2, 3, 15(b), 17(a), Oct. 7, 1975, 89 Stat. 511, 522, 525; Pub. L. 95–166, §12, Nov. 10, 1977, 91 Stat. 1337; Pub. L. 95–561, title XIV, §1408(b)(1), Nov. 1, 1978, 92 Stat. 2368; Pub. L. 95–627, §6(c), Nov. 10, 1978, 92 Stat. 3620; Pub. L. 97–35, title VIII, §§801(c), 817(d), 819(b), Aug. 13, 1981, 95 Stat. 522, 532, 533; Pub. L. 99–500, title III, §§330(a), 331, 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–363, 1783–369, and Pub. L. 99–591, title III, §§330(a), 331, 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–366, 3341–372; Pub. L. 99–661, div. D, title II, §§4210(a), 4211, title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4074, 4080; Pub. L. 100–435, title II, §210, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–147, title I, §121, title II, §212(a)(1), (2)(A), (b), title III, §322, Nov. 10, 1989, 103 Stat. 891, 912, 916; Pub. L. 103–448, title II, §201, Nov. 2, 1994, 108 Stat. 4734; Pub. L. 104–193, title VII, §§722–723(b)(1), Aug. 22, 1996, 110 Stat. 2301, 2302.)
+(Pub. L. 89–642, §4, Oct. 11, 1966, 80 Stat. 886; Pub. L. 90–302, §5, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §§6(d), 10, May 14, 1970, 84 Stat. 210, 214; Pub. L. 92–32, §§2–5, June 30, 1971, 85 Stat. 85; Pub. L. 92–433, §3, Sept. 26, 1972, 86 Stat. 724; Pub. L. 93–150, §4, Nov. 7, 1973, 87 Stat. 562; Pub.L. 94–105, §§2, 3, 15(b), 17(a), Oct. 7, 1975, 89 Stat. 511, 522, 525; Pub. L. 95–166, §12, Nov. 10, 1977, 91 Stat. 1337; Pub. L. 95–561, title XIV, §1408(b)(1), Nov. 1, 1978, 92 Stat. 2368; Pub. L. 95–627, §6(c), Nov. 10, 1978, 92 Stat. 3620; Pub. L. 97–35, title VIII, §§801(c), 817(d), 819(b), Aug. 13, 1981, 95 Stat. 522, 532, 533; Pub. L. 99–500, title III, §§330(a), 331, 372(b)(1), Oct. 18, 1986, 100 Stat. 1783–363, 1783–369, and Pub. L. 99–591, title III, §§330(a), 331, 372(b)(1), Oct. 30, 1986, 100 Stat. 3341–366, 3341–372; Pub. L. 99–661, div. D, title II, §§4210(a), 4211, title V, §4502(b)(1), Nov. 14, 1986, 100 Stat. 4074, 4080; Pub. L. 100–435, title II, §210, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–147, title I, §121, title II, §212(a)(1), (2)(A), (b), title III, §322, Nov. 10, 1989, 103 Stat. 891, 912, 916; Pub. L. 103–448, title II, §201, Nov. 2, 1994, 108 Stat. 4734; Pub. L. 104–193, title VII, §§722–723(b)(1), Aug. 22, 1996, 110 Stat. 2301, 2302.)
 
 #### References in Text
 
@@ -142,7 +142,7 @@ Subsec. (g). Pub. L. 94–105, §3, added subsec. (g).
 
 1973—Subsec. (b). Pub. L. 93–150, §4(c), prescribed a minimum payment of 8 cents as the national average payment for all breakfasts served to eligible children, inserted provision for minimum payment of 15 cents for each reduced-price breakfast and for minimum payment of 20 cents for each free breakfast, and authorized, in cases of severe need, a payment of up to 45 cents for each breakfast served to children qualifying for a free breakfast.
 
-Subsec. (c). Pub. L. 93–150, §4(a), (b), substituted in first sentence “State educational agency to assist such schools in financing the costs of operating a breakfast program” for “State educational agency, to assist such schools in financing the cost of obtaining agricultural and other foods for consumption by needy children in a breakfast program” and struck out second sentence which provided that “Such food costs may include, inaddition to the purchase price, the cost of processing, distributing, transporting, storing, and handling.”, respectively.
+Subsec. (c). Pub. L. 93–150, §4(a), (b), substituted in first sentence “State educational agency to assist such schools in financing the costs of operating a breakfast program” for “State educational agency, to assist such schools in financing the cost of obtaining agricultural and other foods for consumption by needy children in a breakfast program” and struck out second sentence which provided that “Such food costs may include, in addition to the purchase price, the cost of processing, distributing, transporting, storing, and handling.”, respectively.
 
 1972—Subsec. (a). Pub. L. 92–433, §3(a), substituted authorization of appropriation of such sums as are necessary for fiscal years ending June 30, 1973, June 30, 1974, and June 30, 1975, for provisions authorizing appropriation of amounts not exceeding $25,000,000 for fiscal years 1972 and 1973 and made amounts available to schools making applications for assistance and agreeing to carry out a nonprofit breakfast program in accordance with this chapter.
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, and no provision therein t
 
 #### Transfer of Functions
 
-For transfer to Secretary of Education of functions of Secretary of Defense and Department of Defense relating to operation of overseas schools for dependents of Department of Defense and under Defense Dependents’ Education Act of 1978, 20 U.S.C. 921 et seq., see section 3442(a) of Title 20, Education.
+For transfer to Secretary of Education of functions of Secretary of Defense and Department of Defense relating to operation of overseas schools for dependents of Department of Defense and under Defense Dependents’Education Act of 1978, 20 U.S.C. 921 et seq., see section 3442(a) of Title 20, Education.
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
 
@@ -214,7 +214,7 @@ Pub. L. 96–499, title II, §210, Dec. 5, 1980, 94 Stat. 2602, provided that: �
 
 &emsp;“(1) no adjustment under such section shall be made on January 1 of such fiscal year; and
 
-&emsp;“(2) the adjustment under such section required to be made on July 1 of such fiscal year shall be computed to the nearest one-fourth cent based on changes, measured over the preceding twelve-monthperiod for which data are available, in the series for food away from home of the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, Department of Labor.”
+&emsp;“(2) the adjustment under such section required to be made on July 1 of such fiscal year shall be computed to the nearest one-fourth cent based on changes, measured over the preceding twelve-month period for which data are available, in the series for food away from home of the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, Department of Labor.”
 
 #### Alternate Foods
 

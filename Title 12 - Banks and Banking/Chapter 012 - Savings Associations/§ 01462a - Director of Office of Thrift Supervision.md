@@ -62,7 +62,7 @@ The Director shall have all powers which—
 
 #### (f) State homestead provisions
 
-No provision of this chapter or any other provision of law administered by the Director shall be construed as superseding any homestead provision of any State constitution, including any implementing State statute, in effect on September 29, 1994, or any subsequent amendment to such a State constitutional or statutory provision in effect on September 29, 1994, that exempts the homestead of any person from foreclosure, or forced sale, for the payment of alldebts, other than a purchase money obligation relating to the homestead, taxes due on the homestead, or an obligation arising from work and material used in constructing improvements on the homestead.
+No provision of this chapter or any other provision of law administered by the Director shall be construed as superseding any homestead provision of any State constitution, including any implementing State statute, in effect on September 29, 1994, or any subsequent amendment to such a State constitutional or statutory provision in effect on September 29, 1994, that exempts the homestead of any person from foreclosure, or forced sale, for the payment of all debts, other than a purchase money obligation relating to the homestead, taxes due on the homestead, or an obligation arising from work and material used in constructing improvements on the homestead.
 
 #### (g) Annual report required
 
@@ -100,7 +100,7 @@ The Director shall make an annual report to the Congress. Such report shall incl
 
 &emsp;&emsp;Notwithstanding subparagraph (A)(ii), the Director shall not, directly or indirectly—
 
-&emsp;&emsp;&emsp;(i) after October 10, 1989, delegate to any Federal home loan bank or to any officer, director, or employee of a Federal home loan bank, any power involving examining, supervising, taking enforcement action with respect to, or otherwise regulating any savings association, savings and loan holding company, or other person subject to regulation by the Director; or
+&emsp;&emsp;&emsp;(i) after October 10, 1989, delegate to any Federal home loan bank or to any officer,director, or employee of a Federal home loan bank, any power involving examining, supervising, taking enforcement action with respect to, or otherwise regulating any savings association, savings and loan holding company, or other person subject to regulation by the Director; or
 
 &emsp;&emsp;&emsp;(ii) delegate the Director's authority to serve as a member of the Corporation's Board of Directors.
 
@@ -112,7 +112,7 @@ The compensation of the Director and other employees of the Office and all other
 
 The Director shall make available to the Comptroller General of the United States all books and records necessary to audit all of the activities of the Office of Thrift Supervision.
 
-(June 13, 1933, ch. 64, §3, as added Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 278; amended Sept. 23, 1994, Pub. L. 103–325, title III, §331(c), 108 Stat. 2232; Sept. 29, 1994, Pub. L. 103–328, title I, §102(b)(5), 108 Stat. 2352.)
+(June 13, 1933, ch. 64, §3, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278; amended Pub. L. 103–325, title III, §331(c), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 103–328, title I, §102(b)(5), Sept. 29, 1994, 108 Stat. 2352.)
 
 #### References in Text
 

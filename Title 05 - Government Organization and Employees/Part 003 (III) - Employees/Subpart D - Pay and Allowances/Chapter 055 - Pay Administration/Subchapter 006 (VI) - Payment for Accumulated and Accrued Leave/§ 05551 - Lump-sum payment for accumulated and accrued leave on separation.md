@@ -88,5 +88,5 @@ Members of armed forces, payments for unused accrued leave, see section 501 of T
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5552, 5596, 6304, 6306, 6335, 6368, 8344, 8468 of this title; title 15 section 2081; title 20 sections 904, 4416; title 25 section 2012; title 38 section 7458; title 45 section 1206.
+This section is referred to in sections 5552, 5596, 6304, 6306, 6335, 6368, 8344, 8468 of this title; title 15 section2081; title 20 sections 904, 4416; title 25 section 2012; title 38 section 7458; title 45 section 1206.
 

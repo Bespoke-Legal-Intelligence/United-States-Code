@@ -64,27 +64,27 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 (1) A notice is not required under subsection (a)(1) of this section if—
 
-&emsp;(A) the proposed procurement is for an amount not greater than the simplified acquisition threshold and is to be made through a system with interim FACNET capability certified pursuant to section 426a(a)(1) of this title or with full FACNET capability certified pursuant to section 426a(a)(2) of this title;
+&emsp;(A) the proposed procurement is for an amount not greater than the simplified acquisition threshold and is to be conducted by—
 
-&emsp;(B)(i) the proposed procurement is for an amount not greater than $250,000 and is to be made through a system with full FACNET capability certified pursuant to section 426a(a)(2) of this title; and
+&emsp;&emsp;(i) using widespread electronic public notice of the solicitation in a form that allows convenient and universal user access through a single, Government-wide point of entry; and
 
-&emsp;(ii) a certification has been made pursuant to section 426a(b) of this title that Government-wide FACNET capability has been implemented;
+&emsp;&emsp;(ii) permitting the public to respond to the solicitation electronically.
 
-&emsp;(C) the notice would disclose the executive agency's needs and the disclosure of such needs would compromise the national security;
+&emsp;(B) the notice would disclose the executive agency's needs and the disclosure of such needs would compromise the national security;
 
-&emsp;(D) the proposed procurement would result from acceptance of—
+&emsp;(C) the proposed procurement would result from acceptance of—
 
 &emsp;&emsp;(i) any unsolicited proposal that demonstrates a unique and innovative research concept and the publication of any notice of such unsolicited research proposal would disclose the originality of thought or innovativeness of the proposal or would disclose proprietary information associated with the proposal; or
 
 &emsp;&emsp;(ii) a proposal submitted under section 638 of title 15;
 
-&emsp;(E) the procurement is made against an order placed under a requirements contract, a task order contract, or a delivery order contract;
+&emsp;(D) the procurement is made against an order placed under a requirements contract, a task order contract, or a delivery order contract;
 
-&emsp;(F) the procurement is made for perishable subsistence supplies;
+&emsp;(E) the procurement is made for perishable subsistence supplies;
 
-&emsp;(G) the procurement is for utility services, other than telecommunication services, and only one source is available; or
+&emsp;(F) the procurement is for utility services, other than telecommunication services, and only one source is available; or
 
-&emsp;(H) the procurement is for the services of an expert for use in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
+&emsp;(G) the procurement is for the services of an expert for use in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
 
 (2) The requirements of subsection (a)(1)(A) of this section do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of section 253(c) of this title or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10.
 
@@ -94,13 +94,21 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a) of this section. An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
 
-(Pub. L. 93–400, §18, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1195; amended Pub. L. 98–577, title III, §303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, §101(c) \[title X, §922(b), (d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §922(b), (d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–151, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, §806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §1055(b)(1), title IV, §§4201(b), (c), 4202(a)–(c), title VIII, §8302, title IX, §9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, div. D, title XLI, §4101(c), title XLII, §4202(d), title XLIII, §§4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675.)
+(Pub. L. 93–400, §18, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1195; amended Pub. L. 98–577, title III, §303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, §101(c) \[title X, §922(b), (d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §922(b), (d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–151, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, §806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §1055(b)(1), title IV, §§4201(b), (c), 4202(a)–(c), title VIII, §8302, title IX, §9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, div. D, title XLI, §4101(c), title XLII, §4202(d), title XLIII, §§4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675; Pub. L. 105–85, div. A, title VIII, §850(e)(2), Nov. 18, 1997, 111 Stat. 1849.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1997—Subsec. (c)(1). Pub. L. 105–85 added subpar. (A), redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) the proposed procurement is for an amount not greater than the simplified acquisition threshold and is to be made through a system with interim FACNET capability certified pursuant to section 426a(a)(1) of this title or with full FACNET capability certified pursuant to section 426a(a)(2) of this title;
+
+“(B)(i) the proposed procurement is for an amount not greater than $250,000 and is to be made through a system with full FACNET capability certified pursuant to section 426a(a)(2) of this title; and
+
+“(ii) a certification has been made pursuant to section 426a(b) of this title that Government-wide FACNET capability has been implemented;”.
 
 1996—Subsec. (a)(1)(B). Pub. L. 104–106, §4101(c)(B), inserted “for a price expected to exceed $10,000, but not to exceed $25,000,” after “property or services”.
 
@@ -140,7 +148,7 @@ Subsec. (c)(1)(G), (H). Pub. L. 103–355, §4202(c)(1), redesignated subpars. (
 
 Subsec. (d). Pub. L. 103–355, §9001(b)(2), substituted “a notice of solicitation under subsection (a)” for “a notice under subsection (e)” in first sentence.
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–510 substituted “the small purchase threshold; or” for “$25,000;” in cl. (i), substituted “the small purchase threshold” for “$25,000” and a comma for “; or” in cl. (ii), and struck out cl. (iii) which read as follows: “solicit bids or proposals for a contract for property or services for a priceexpected to exceed $10,000, if there is not a reasonable expectation that at least two offers will be received from responsive and responsible offerors,”.
+1990—Subsec. (a)(1)(A). Pub. L. 101–510 substituted “the small purchase threshold; or” for “$25,000;” in cl. (i), substituted “the small purchase threshold” for “$25,000” and a comma for “; or” in cl. (ii), and struck out cl. (iii) which read as follows: “solicit bids or proposals for a contract for property or services for a price expected to exceed $10,000, if there is not a reasonable expectation that at least two offers will be received from responsive and responsible offerors,”.
 
 Subsec. (a)(1)(B), (C). Pub. L. 101–510, §806(d)(1), substituted “the small purchase threshold” for “$25,000” wherever appearing.
 
@@ -166,6 +174,10 @@ Subsec. (c)(1)(E). Pub. L. 98–577 added subpar. (E).
 
 Subsec. (d). Pub. L. 98–577 added subsec. (d).
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective 180 days after Nov. 18, 1997, see section 850(g) of Pub. L. 105–85, set out as a note under section 2302c of Title 10, Armed Forces.
+
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
@@ -182,11 +194,15 @@ Section 303(b) of Pub. L. 98–577 provided that: “The amendment made by subse
 
 Section applicable to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of this title.
 
+#### Implementation of Amendment by Pub. L. 105–85
+
+Amendment by Pub. L. 105–85 to be implemented in a manner consistent with any applicable international agreements, see section 850(e)(3) of Pub. L. 105–85, set out as a note under section 637 of Title 15, Commerce and Trade.
+
 #### Applicability to Tennessee Valley Authority
 
 Section 303(c) of Pub. L. 98–577 provided that: “The provisions of the amendments made by subsection (a) of this section \[amending this section\] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 253, 253i, 253j, 426a, 427 of this title; title 10 sections 2304, 2304b, 2304c.
+This section is referred to in sections 253, 253i, 253j, 427 of this title; title 10 sections 2304, 2304b, 2304c.
 

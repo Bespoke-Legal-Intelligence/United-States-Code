@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety,
 
-> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order tobe kept secret in the interest of national defense or the conduct of foreign affairs; or
+> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is notspecifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
 
 &emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
 
@@ -184,5 +184,5 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 2 section 1371; title 7 sections 6932, 6962; title 10 sections 1599c, 1612; title 22 sections 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331.
+This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 2 section 1371; title 7 sections 6932, 6962; title 10 sections 1599c, 1612; title 22 sections 3664, 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331.
 

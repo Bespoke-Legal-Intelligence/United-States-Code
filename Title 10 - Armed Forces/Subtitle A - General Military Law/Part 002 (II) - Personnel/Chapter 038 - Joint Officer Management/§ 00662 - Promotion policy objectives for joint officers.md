@@ -22,7 +22,7 @@ Annual Report.—Not later than January 1 of each year, the Secretary of Defense
 
 Pub. L. 104–201, §510(a), substituted “Annual Report” for “Report” in heading and “Not later than January 1 of each year, the Secretary of Defense shall submit to Congress a report on the promotion rates during the preceding fiscal year” for “The Secretary of Defense shall periodically (and not less often than every six months) report to Congress on the promotion rates” in text.
 
-1990—Subsec. (b). Pub. L. 101–510 substituted “the Secretary shall include in the periodic report required by this subsection information on such failure and on” for “the Secretary shall immediately notify Congress of such failure and of”.
+1990—Subsec. (b). Pub. L. 101–510 substituted “the Secretary shall include in the periodic report requiredby this subsection information on such failure and on” for “the Secretary shall immediately notify Congress of such failure and of”.
 
 1988—Subsec. (a)(1), (3). Pub. L. 100–456 inserted “to the next higher grade” after “promoted”.
 

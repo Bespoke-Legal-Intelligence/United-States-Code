@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title24",
- "package": "USCODE-1996-title24",
+ "package": "USCODE-1997-title24",
  "pieces": [
   {
    "id": "24_",
@@ -1301,7 +1301,7 @@
      56,
      [
       [
-       413,
+       459,
        "[Page 19]"
       ]
      ]
@@ -1327,10 +1327,10 @@
    "marks": [
     [
      "I",
-     14,
+     10,
      [
       [
-       325,
+       96,
        "[Page 20]"
       ]
      ]
@@ -1347,10 +1347,10 @@
    "marks": [
     [
      "I",
-     14,
+     10,
      [
       [
-       95,
+       91,
        "[Page 21]"
       ]
      ]
@@ -1370,7 +1370,7 @@
      10,
      [
       [
-       1429,
+       740,
        "[Page 22]"
       ]
      ]
@@ -1387,10 +1387,10 @@
    "marks": [
     [
      "I",
-     46,
+     40,
      [
       [
-       284,
+       91,
        "[Page 23]"
       ]
      ]
@@ -1407,7 +1407,7 @@
    "marks": [
     [
      "L",
-     38,
+     34,
      "[Page 24]",
      true
     ]
@@ -1458,14 +1458,10 @@
    "id": "24_-ch7",
    "marks": [
     [
-     "I",
-     133,
-     [
-      [
-       417,
-       "[Page 25]"
-      ]
-     ]
+     "L",
+     131,
+     "[Page 25]",
+     true
     ]
    ],
    "path": "Chapter 007 - National Cemeteries/README.md",
@@ -1506,7 +1502,7 @@
    "marks": [
     [
      "L",
-     8,
+     4,
      "[Page 26]",
      true
     ]
@@ -1540,7 +1536,7 @@
    "marks": [
     [
      "L",
-     80,
+     66,
      "[Page 27]",
      true
     ]
@@ -1616,30 +1612,26 @@
   },
   {
    "id": "24_302",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 28]",
+     true
+    ]
+   ],
    "path": "Chapter 008 - Gorgas Hospital/§ 00302 - Change of name as affecting various rights; records, maps, and public documents.md",
    "printed_pages": [
     27,
-    27
+    28
    ]
   },
   {
    "id": "24_-ch9",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       22,
-       "[Page 28]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Hospitalization of Mentally Ill Nationals Returned from Foreign Countries/README.md",
    "printed_pages": [
-    27,
+    28,
     28
    ]
   },
@@ -1669,7 +1661,7 @@
      2,
      [
       [
-       483,
+       385,
        "[Page 29]"
       ]
      ]
@@ -1747,10 +1739,10 @@
    "marks": [
     [
      "I",
-     74,
+     75,
      [
       [
-       27,
+       37,
        "[Page 31]"
       ]
      ]
@@ -1784,10 +1776,14 @@
    "id": "24_411",
    "marks": [
     [
-     "L",
+     "I",
      18,
-     "[Page 32]",
-     true
+     [
+      [
+       179,
+       "[Page 32]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00411 - Establishment of Armed Forces Retirement Home.md",
@@ -1801,7 +1797,7 @@
    "marks": [
     [
      "L",
-     58,
+     62,
      "[Page 33]",
      true
     ]
@@ -1823,52 +1819,56 @@
   },
   {
    "id": "24_414",
-   "marks": [
-    [
-     "L",
-     38,
-     "[Page 34]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00414 - Fees paid by residents.md",
    "printed_pages": [
     33,
-    34
+    33
    ]
   },
   {
    "id": "24_415",
    "marks": [
     [
-     "L",
-     66,
-     "[Page 35]",
-     true
-    ],
-    [
      "I",
-     136,
+     8,
      [
       [
-       161,
+       90,
+       "[Page 34]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     84,
+     "[Page 35]",
+     true
+    ]
+   ],
+   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00415 - Composition and operation of Retirement Home Board.md",
+   "printed_pages": [
+    33,
+    35
+   ]
+  },
+  {
+   "id": "24_416",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       87,
        "[Page 36]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00415 - Composition and operation of Retirement Home Board.md",
-   "printed_pages": [
-    34,
-    36
-   ]
-  },
-  {
-   "id": "24_416",
-   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00416 - Duties of Retirement Home Board.md",
    "printed_pages": [
-    36,
+    35,
     36
    ]
   },
@@ -1876,14 +1876,10 @@
    "id": "24_417",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       140,
-       "[Page 37]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 37]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00417 - Directors and staff.md",
@@ -1903,22 +1899,11 @@
   },
   {
    "id": "24_419",
-   "marks": [
-    [
-     "I",
-     28,
-     [
-      [
-       137,
-       "[Page 38]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00419 - Retirement Home Trust Fund.md",
    "printed_pages": [
     37,
-    38
+    37
    ]
   },
   {
@@ -1926,10 +1911,20 @@
    "marks": [
     [
      "I",
-     34,
+     4,
      [
       [
-       383,
+       90,
+       "[Page 38]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     58,
+     [
+      [
+       103,
        "[Page 39]"
       ]
      ]
@@ -1937,36 +1932,36 @@
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00420 - Disposition of effects of deceased persons; unclaimed property.md",
    "printed_pages": [
-    38,
+    37,
     39
    ]
   },
   {
    "id": "24_421",
+   "marks": [],
+   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00421 - Payment of residents for services.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "24_422",
    "marks": [
     [
      "I",
-     22,
+     14,
      [
       [
-       105,
+       98,
        "[Page 40]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00421 - Payment of residents for services.md",
-   "printed_pages": [
-    39,
-    40
-   ]
-  },
-  {
-   "id": "24_422",
-   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00422 - Authority to accept certain uncompensated services.md",
    "printed_pages": [
-    40,
+    39,
     40
    ]
   },
@@ -1981,18 +1976,11 @@
   },
   {
    "id": "24_431",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 41]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/§ 00431 - Transfer of trust funds relating to Naval Home and Soldiers’ and Airmen's Home.md",
    "printed_pages": [
     40,
-    41
+    40
    ]
   },
   {
@@ -2000,8 +1988,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/README.md",
    "printed_pages": [
-    41,
-    41
+    40,
+    40
    ]
   },
   {
@@ -2009,11 +1997,11 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/§ 00441 - Authorization of appropriations for United States Soldiers’ and Airmen's Home.md",
    "printed_pages": [
-    41,
-    41
+    40,
+    40
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1996-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1997-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 24 - Hospitals and Asylums"
 }

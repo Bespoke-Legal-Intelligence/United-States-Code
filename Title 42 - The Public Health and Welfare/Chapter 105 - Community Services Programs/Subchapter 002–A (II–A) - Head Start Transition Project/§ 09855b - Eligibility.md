@@ -26,7 +26,7 @@ The Follow Through Act, referred to in subsec. (d), is subchapter D (§§661–6
 
 #### Codification
 
-Section enacted as part of the Head Start Transition Project Act, and not as part of chapter 8 of subtitle Aof title VI of Pub. L. 97–35 which comprises this chapter.
+Section enacted as part of the Head Start Transition Project Act, and not as part of chapter 8 of subtitle A of title VI of Pub. L. 97–35 which comprises this chapter.
 
 #### Amendments
 

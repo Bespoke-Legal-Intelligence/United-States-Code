@@ -60,13 +60,15 @@
 
 &emsp;(A) dies; or
 
-&emsp;(B) remarries before becoming 55 years of age.
+&emsp;(B) except as provided in paragraph (3), remarries before becoming 55 years of age.
 
 (2) In the case of a widow or widower whose annuity under this section is terminated because of remarriage before becoming 55 years of age, the annuity shall be restored at the same rate commencing on the day the remarriage is dissolved by death, divorce, or annulment, if—
 
 &emsp;(A) the widow or widower elects to receive this annuity instead of any other survivor benefit to which such widow or widower may be entitled (under this subchapter or section 8424 or under another retirement system for Government employees) by reason of the remarriage; and
 
 &emsp;(B) any lump sum paid on termination of the annuity is returned to the Fund.
+
+(3) Paragraph (1)(B) (relating to termination of a survivor annuity because of a remarriage before age 55) shall not apply if the widow or widower was married for at least 30 years to the individual on whose service the survivor annuity is based.
 
 (e) The requirement in paragraphs (1)(A) and (2)(A) of section 8441 that the widow or widower of an annuitant, employee, or Member, or of a former employee or Member, have been married to such individual for at least 9 months immediately before the death of the individual in order to qualify as the widow or widower of such individual shall be deemed satisfied in any case in which the individual dies within the applicable 9-month period, if—
 
@@ -88,11 +90,11 @@
 
 &emsp;(ii) as if the survivor had attained age 60 and made application for those benefits under subsection (e) or (f) of section 202 of such Act, as the case may be.
 
-(B) Any computation or determination under this paragraph shall be made in accordance with the applicable provisions of the Social Security Act, except that in computing any primary insurance amount under section 215 of such Act for purposes of determining an amount under this subsection, subparagraphs (A) and (C) of section 8421(b)(2) shall apply.
+(B) Any computation or determination under this paragraph shall be made in accordance with the applicable provisions of the Social Security Act, except that in computing any primary insurance amount under section 215 of such Act for purposes of determining an amount underthis subsection, subparagraphs (A) and (C) of section 8421(b)(2) shall apply.
 
 (4) A supplementary annuity under this subsection—
 
-&emsp;(A) shall be payable to a survivor only for calendar months ending before the calendarmonth in which such survivor first satisfies the minimum age requirement under section 202(e)(1)(B)(i) or 202(f)(1)(B)(i) of the Social Security Act, as the case may be;
+&emsp;(A) shall be payable to a survivor only for calendar months ending before the calendar month in which such survivor first satisfies the minimum age requirement under section 202(e)(1)(B)(i) or 202(f)(1)(B)(i) of the Social Security Act, as the case may be;
 
 &emsp;(B) shall not be payable to a survivor who would not be entitled to benefits under subsection (e) or (f) of section 202 of the Social Security Act based on the wages and self-employment income of the deceased annuitant (determined, as of the date of the annuitant's death, as if the survivor had attained age 60 and made appropriate application for benefits, but without regard to any restriction under either such subsection relating to remarriage); and
 
@@ -134,7 +136,7 @@
 
 &emsp;(3) A lump-sum credit under subsection (c)(2) shall be subject to the same terms and conditions as apply with respect to a lump-sum credit under section 8424(b).
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 559; amended Pub. L. 99–556, title I, §120, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §131(b), Jan. 8, 1988, 101 Stat. 1760.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 559; amended Pub. L. 99–556, title I, §120, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §131(b), Jan. 8, 1988, 101 Stat. 1760; Pub. L. 105–61, title V, §518(b)(1), Oct. 10, 1997, 111 Stat. 1307.)
 
 #### References in Text
 
@@ -142,11 +144,19 @@ The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 193
 
 #### Amendments
 
+1997—Subsec. (d)(1)(B). Pub. L. 105–61, §518(b)(1)(B), substituted “except as provided in paragraph (3), remarries” for “remarries”.
+
+Subsec. (d)(3). Pub. L. 105–61, §518(b)(1)(A), added par. (3).
+
 1988—Subsec. (a)(1). Pub. L. 100–238, §131(b)(1), inserted “(or one-half thereof, if designated for this purpose under section 8419 of this title),” after “with respect to the annuitant,”.
 
 Subsec. (g)(1). Pub. L. 100–238, §131(b)(2), inserted “(or one-half thereof if designated for this purpose under section 8419 of this title)” after “paragraph (2)”.
 
 1986—Subsec. (c)(2)(B)(i)(I). Pub. L. 99–556 which directed that subsec. (c)(2)(B)(i)(I) of this section be amended generally was executed to subsec. (c)(2)(B)(i)(I) of this section, as the probable intent of Congress. Prior to the amendment, subcl. (I) read as follows: “on the day after the date on which the former employee or Member would have attained age 62; or”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–61 applicable with respect to remarriages occurring on or after Jan. 1, 1995, see section 518(c) of Pub. L. 105–61, set out as a note under section 8341 of this title.
 
 #### Section Referred to in Other Sections
 

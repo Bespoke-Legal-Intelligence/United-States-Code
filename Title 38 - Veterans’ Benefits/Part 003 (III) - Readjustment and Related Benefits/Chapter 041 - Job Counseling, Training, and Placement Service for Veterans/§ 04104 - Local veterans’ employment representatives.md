@@ -8,11 +8,11 @@
 
 &emsp;(C) the State's administrative expenses associated with the appointment of the number of such representatives for which funding is allocated to the State under clauses (A) and (B) of this paragraph.
 
-(2)(A) The local veterans’ employment representatives allocated to a State pursuant to paragraph (1) of this subsection shall be assigned by the administrative head of the employment service in the State, after consultation with the Director for Veterans’ Employment and Training for the State, so that as nearly as practical\(i) one full-time representative is assigned to each local employment service office at which at least 1,100 eligible veterans and eligible persons are registered for assistance, (ii) one additional full-time representative is assigned to each local employment service office for each 1,500 eligible veterans and eligible persons above 1,100 who are registered at such office for assistance, and (iii) one half-time representative is assigned to each local employment service office at which at least 350 but less than 1,100 eligible veterans and eligible persons are registered for assistance.
+(2)(A) The local veterans’ employment representatives allocated to a State pursuant to paragraph (1) of this subsection shall be assigned by the administrative head of the employment service in the State, after consultation with the Director for Veterans’ Employment and Training for the State, so that as nearly as practical (i) one full-time representative is assigned to each local employment service office at which at least 1,100 eligible veterans and eligible persons are registered for assistance, (ii) one additional full-time representative is assigned to each local employment service office for each 1,500 eligible veterans and eligible persons above 1,100 who are registered at such office for assistance, and (iii) one half-time representative is assigned to each local employment service office at which at least 350 but less than 1,100 eligible veterans and eligible persons are registered for assistance.
 
 (B) In the case of a service delivery point (other than a local employment service office described in subparagraph (A) of this paragraph) at which employment services are offered under the Wagner-Peyser Act, the head of such service delivery point shall be responsible for ensuring compliance with the provisions of this title providing for priority services for veterans and priority referral of veterans to Federal contractors.
 
-(3) For the purposes of this subsection, an individual shall be considered to be registered for assistance with a local employment service office during a program year if the individual—
+(3) For the purposes of this subsection, an individual shall be considered to be registered forassistance with a local employment service office during a program year if the individual—
 
 &emsp;(A) registered, or renewed such individual's registration, for assistance with the office during that program year; or
 
@@ -52,7 +52,7 @@
 
 #### References in Text
 
-The Wagner-Peyser Act, referred to in subsec. (a)(2)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, asamended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+The Wagner-Peyser Act, referred to in subsec. (a)(2)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 The Veterans’ Job Training Act, referred to in subsec. (b)(12), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 1721 of Title 29. For complete classification of this Act to the Code, see Tables.
 

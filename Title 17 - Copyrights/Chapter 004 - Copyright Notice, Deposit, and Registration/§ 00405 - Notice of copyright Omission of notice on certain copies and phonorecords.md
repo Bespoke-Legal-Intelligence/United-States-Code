@@ -12,13 +12,13 @@ Effect of Omission on Copyright.—With respect to copies and phonorecords publi
 
 (b)
 
-Effect of Omission on Innocent Infringers.—Any person who innocently infringes a copyright, in reliance upon an authorized copy or phonorecord from which the copyright notice has been omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, incurs no liability for actual or statutory damages under section 504 for any infringing acts committed before receiving actual notice that registration for the work has been made under section 408, if such person proves that he or she was misled by the omission of notice. In a suit for infringement in such a case the court may allow or disallow recovery of any of the infringer's profits attributable to the infringement, and may enjoin the continuation of the infringing undertaking or may require, as a condition or <sup>1</sup> permitting the continuation of the infringing undertaking, that the infringer pay the copyright owner a reasonable license fee in an amount and on terms fixed by the court.
+Effect of Omission on Innocent Infringers.—Any person who innocently infringes acopyright, in reliance upon an authorized copy or phonorecord from which the copyright notice has been omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, incurs no liability for actual or statutory damages under section 504 for any infringing acts committed before receiving actual notice that registration for the work has been made under section 408, if such person proves that he or she was misled by the omission of notice. In a suit for infringement in such a case the court may allow or disallow recovery of any of the infringer's profits attributable to the infringement, and may enjoin the continuation of the infringing undertaking or may require, as a condition for permitting the continuation of the infringing undertaking, that the infringer pay the copyright owner a reasonable license fee in an amount and on terms fixed by the court.
 
 (c)
 
 Removal of Notice.—Protection under this title is not affected by the removal, destruction, or obliteration of the notice, without the authorization of the copyright owner, from any publicly distributed copies or phonorecords.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, §7(e), Oct. 31, 1988, 102 Stat. 2858.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2578; Pub. L. 100–568, §7(e), Oct. 31, 1988, 102 Stat. 2858; Pub. L. 105–80, §12(a)(10), Nov. 13, 1997, 111 Stat. 1535.)
 
 #### Historical and Revision Notes
 
@@ -44,7 +44,7 @@ The basic notice requirements set forth in sections 401(a) and 402(a) are limite
 
 <b>Effect of Omission on Innocent Infringers.</b> In addition to the possibility that copyright protection will be forfeited under section 405(a)(2) if the notice is omitted, a second major inducement to use of the notice is found in subsection (b) of section 405. That provision, which limits the rights of a copyright owner against innocent infringers under certain circumstances, would be applicable whether the notice has been omitted from a large number or from a “relatively small number” of copies. The general postulates underlying the provision are that a person acting in good faith and with no reason to think otherwise should ordinarily be able to assume that a work is in the public domain if there is no notice on an authorized copy or phonorecord and that, if he relies on this assumption, he should be shielded from unreasonable liability.
 
-Under section 405(b) an innocent infringer who acts “in reliance upon an authorized copy or phonorecord from which the copyright notice has been omitted”, and who proves that he was misled by the omission, is shielded from liability for actual or statutory damages with respect to “any infringing acts committed before receiving actual notice” of registration. Thus, where the infringement is completed before actual notice has been served—as would be the usual case with respect to relatively minor infringements by teachers, librarians, journalists, and the like—liability, if any, would be limited to the profits the infringer realized from the act of infringement. On the other hand, where the infringing enterprise is one running over a period of time, the copyright owner would be able to seek an injunction against continuation of the infringement, and to obtain full monetary recovery for all infringing acts committed after he had served notice of registration. Persons who undertake major enterprises of this sort should check the Copyright Office registration records before starting, even where copies have been published without notice.
+Under section 405(b) an innocent infringer who acts “in reliance upon an authorized copy or phonorecord from which the copyright notice has been omitted”, and who proves that he was misled by the omission, is shielded from liability for actual or statutory damages with respect to “any infringing acts committed before receiving actual notice” of registration. Thus, where the infringement is completed before actual notice has been served—as would be the usual case with respect to relatively minor infringements by teachers, librarians, journalists, and the like—liability, if any, would be limited to the profits the infringer realized from the act of infringement. On the other hand, where the infringing enterprise is one running over a period of time, the copyright owner would be able to seek an injunction against continuation of the infringement, and to obtain full monetary recovery for all infringing acts committed after he had served notice of registration. Persons who undertake major enterprises of this sortshould check the Copyright Office registration records before starting, even where copies have been published without notice.
 
 The purpose of the second sentence of subsection (b) is to give the courts broad discretion to balance the equities within the framework of section 405 \[this section\]. Where an infringer made profits from infringing acts committed innocently before receiving notice from the copyright owner, the court may allow or withhold their recovery in light of the circumstances. The court may enjoin an infringement or may permit its continuation on condition that the copyright owner be paid a reasonable license fee.
 
@@ -52,9 +52,11 @@ The purpose of the second sentence of subsection (b) is to give the courts broad
 
 #### References in Text
 
-The effective date of the Berne Convention Implementation Act of 1988, referred to in subsecs. (a) and (b), is Mar. 1, 1989, see section 13 of Pub. L. 100–568, setout as an Effective Date of 1988 Amendment note under section 101 of this title.
+The effective date of the Berne Convention Implementation Act of 1988, referred to in subsecs. (a) and (b), is Mar. 1, 1989, see section 13 of Pub. L. 100–568, set out as an Effective Date of 1988 Amendment note under section 101 of this title.
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–80 substituted “condition for permitting the continuation” for “condition or permitting the continuation”.
 
 1988—Pub. L. 100–568, §7(e)(3), substituted “notice on certain copies and phonorecords” for “notice” in section catchline.
 
@@ -69,6 +71,4 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 101, 406 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “for”.</i>
 

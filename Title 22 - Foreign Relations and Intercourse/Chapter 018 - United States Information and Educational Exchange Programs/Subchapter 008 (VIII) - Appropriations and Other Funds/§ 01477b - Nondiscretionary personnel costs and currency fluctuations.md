@@ -30,7 +30,7 @@ There are authorized to be appropriated for the United States Information Agency
 
 (D) The authorities contained in this section may only be exercised to such an extent and in such amounts as specifically provided in advance in appropriation Acts.
 
-(Jan. 27, 1948, ch. 36, title VII, §704, as added Aug. 15, 1979, Pub. L. 96–60, title II, §204(e), 93 Stat. 400; amended Aug. 24, 1982, Pub. L. 97–241, title I, §112(b), title III, §303(b), 96 Stat. 278, 291; Apr. 30, 1994, Pub. L. 103–236, title II, §224, 108 Stat. 422.)
+(Jan. 27, 1948, ch. 36, title VII, §704, as added Pub. L. 96–60, title II, §204(e), Aug. 15, 1979, 93 Stat. 400; amended Pub. L. 97–241, title I, §112(b), title III, §303(b), Aug. 24, 1982, 96 Stat. 278, 291; Pub. L. 103–236, title II, §224, Apr. 30, 1994, 108 Stat. 422.)
 
 #### Amendments
 

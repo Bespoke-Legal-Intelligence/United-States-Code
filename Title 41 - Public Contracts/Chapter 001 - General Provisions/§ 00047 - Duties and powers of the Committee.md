@@ -34,7 +34,7 @@ The Committee shall designate a central nonprofit agency or agencies to facilita
 
 The Committee shall make a continuing study and evaluation of its activities under sections 46 to 48c of this title for the purpose of assuring effective and efficient administration of sections 46 to 48c of this title. The Committee may study (on its own or in cooperation with other public or nonprofit private agencies) (1) problems related to the employment of the blind and of other severely handicapped individuals, and (2) the development and adaptation of production methods which would enable a greater utilization of the blind and other severely handicapped individuals.
 
-(June 25, 1938, ch. 697, §2, 52 Stat. 1196; June 23, 1971, Pub. L. 92–28, §1, 85 Stat. 79.)
+(June 25, 1938, ch. 697, §2, 52 Stat. 1196; Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 79.)
 
 #### Amendments
 

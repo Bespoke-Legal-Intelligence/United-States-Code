@@ -24,7 +24,7 @@ In case of the temporary disability or temporary absence of both the Governor an
 
 No additional compensation shall be paid to any person acting as Governor or Lieutenant Governor who does not also assume the office of Governor or Lieutenant Governor under the provisions of this chapter.
 
-(Aug. 1, 1950, ch. 512, §8, 64 Stat. 387; Mar. 16, 1962, Pub. L. 87–419, §1, 76 Stat. 34; Sept. 11, 1968, Pub. L. 90–497, §3, 82 Stat. 844.)
+(Aug. 1, 1950, ch. 512, §8, 64 Stat. 387; Pub. L. 87–419, §1, Mar. 16, 1962, 76 Stat. 34; Pub. L. 90–497, §3, Sept. 11, 1968, 82 Stat. 844.)
 
 #### Amendments
 

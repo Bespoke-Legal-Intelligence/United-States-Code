@@ -2,7 +2,7 @@
 
 (a) The authority of any federal agency to sue and be sued in its own name shall not be construed to authorize suits against such federal agency on claims which are cognizable under section 1346(b) of this title, and the remedies provided by this title in such cases shall be exclusive.
 
-(b)(1) The remedy against the United States provided by sections 1346(b) and 2672 of this titlefor injury or loss of property, or personal injury or death arising or resulting from the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment is exclusive of any other civil action or proceeding for money damages by reason of the same subject matter against the employee whose act or omission gave rise to the claim or against the estate of such employee. Any other civil action or proceeding for money damages arising out of or relating to the same subject matter against the employee or the employee's estate is precluded without regard to when the act or omission occurred.
+(b)(1) The remedy against the United States provided by sections 1346(b) and 2672 of this title for injury or loss of property, or personal injury or death arising or resulting from the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment is exclusive of any other civil action or proceeding for money damages by reason of the same subject matter against the employee whose act or omission gave rise to the claim or against the estate of such employee. Any other civil action or proceeding for money damages arising out of or relating to the same subject matter against the employee or the employee's estate is precluded without regard to when the act or omission occurred.
 
 (2) Paragraph (1) does not extend or apply to a civil action against an employee of the Government—
 
@@ -28,7 +28,7 @@
 
 (e) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677, and with the same effect.
 
-(June 25, 1948, ch. 646, 62 Stat. 984; Sept. 21, 1961, Pub. L. 87–258, §1, 75 Stat. 539; July 18, 1966, Pub. L. 89–506, §5(a), 80 Stat. 307; Nov. 18, 1988, Pub. L. 100–694, §§5, 6, 102 Stat. 4564.)
+(June 25, 1948, ch. 646, 62 Stat. 984; Pub. L. 87–258, §1, Sept. 21, 1961, 75 Stat. 539; Pub. L. 89–506, §5(a), July 18, 1966, 80 Stat. 307; Pub. L. 100–694, §§5, 6, Nov. 18, 1988, 102 Stat. 4564.)
 
 #### Historical and Revision Notes
 
@@ -46,13 +46,13 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(3), are set out
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–694, §5, amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: “The remedy against the United States provided by sections 1346(b) and 2672 of this title for injury or loss of property or personal injury or death, resulting from the operation by any employee of the Government of any motor vehicle while acting within the scope of his office or employment, shall hereafter be exclusive of any other civil action or proceeding by reason of the same subject matter against the employee or his estate whose act or omission gave rise to the claim.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–694, §5, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The remedy against the United States provided by sections 1346(b) and 2672 of this title for injury or loss of property or personal injury or death, resulting from the operation by any employee of the Government of any motor vehicle while acting within the scope of his office or employment, shall hereafter be exclusive of any other civil action or proceeding by reason of the same subject matter against the employee or his estate whose act or omission gave rise to the claim.”
 
 Subsec. (d). Pub. L. 100–694, §6, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Upon a certification by the Attorney General that the defendant employee was acting within the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States for the district and division embracing the place wherein it is pending and the proceedings deemed a tort action brought against the United States under the provisions of this title and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the case so removed is one in which a remedy by suit within the meaning of subsection (b) of this section is not available against the United States, the case shall be remanded to the State court.”
 
-1966—Subsec. (b). Pub. L. 89–506 inserted reference to section 2672 of this title and substituted “remedy” for “remedy by suit”.
+<b>1966</b>—Subsec. (b). Pub. L. 89–506 inserted reference to section 2672 of this title and substituted “remedy” for “remedy by suit”.
 
-1961—Pub. L. 87–258 designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
+<b>1961</b>—Pub. L. 87–258 designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
 
 #### Effective Date of 1988 Amendment
 
@@ -88,5 +88,5 @@ For civil actions for injury or loss of property or personal injury or death aga
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 8477; title 7 section 943; title 19 sections 1920, 2350; title 20 section 1082; title 25 section 450f; title 33 section 2718; title 42 sections 233, 2458a, 3211, 12651d.
+This section is referred to in title 5 section 8477; title 7 section 943; title 8 section 1357; title 19 sections 1920, 2350; title 20 section 1082; title 25 section 450f; title 33 section 2718; title 42 sections 233, 2458a, 3211, 12651d.
 

@@ -6,5 +6,5 @@ The corporation shall report annually to the Congress concerning the activities 
 
 #### References in Text
 
-Section 1101(68) of this title, referred to in text, was in the original “section 11 of this Act”, meaning section 11 of Pub. L. 99–604, which amended section 1101 of this title to include Army and Navy Union of the United States of America within the definition of “private corporations established under Federal law”. Section 1103 of this title requires a report to Congress on the annual audit of private corporations established under Federal law.
+Section 1101(68) of this title, referred to in text, was in the original “section 11 of this Act”, meaning section 11 of Pub. L. 99–604, which amended section 1101 of this title to include Army and Navy Union of theUnited States of America within the definition of “private corporations established under Federal law”. Section 1103 of this title requires a report to Congress on the annual audit of private corporations established under Federal law.
 

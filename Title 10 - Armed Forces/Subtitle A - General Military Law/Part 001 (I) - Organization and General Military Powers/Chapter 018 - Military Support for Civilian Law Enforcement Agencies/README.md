@@ -33,7 +33,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 18 section 831.
+This chapter is referred to in title 18 section 831; title 50 section 2312.
 
 
 ---

@@ -8,5 +8,5 @@ Selection and appointment of expert witnesses by court or parties; compensation,
 
 #### References in Text
 
-Rule 28 of the Federal Rules of Criminal Procedure, referred to in text, was amended in 1972. The subject matter of this reference is covered by Federal Rules of Evidence, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+Rule 28 of the Federal Rules of Criminal Procedure, referred to in text, was amended in 1972. The subject matter of this reference is covered by Federal Rules ofEvidence, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

@@ -2,7 +2,7 @@
 
 The use of any invention in any vessel, aircraft or vehicle of any country which affords similar privileges to vessels, aircraft or vehicles of the United States, entering the United States temporarily or accidentally, shall not constitute infringement of any patent, if the invention is used exclusively for the needs of the vessel, aircraft or vehicle and is not offered for sale or sold in or used for the manufacture of anything to be sold in or exported from the United States.
 
-(July 19, 1952, ch. 950, 66 Stat. 812; Dec. 8, 1994, Pub. L. 103–465, title V, §533(b)(4), 108 Stat. 4989.)
+(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 103–465, title V, §533(b)(4), Dec. 8, 1994, 108 Stat. 4989.)
 
 #### Historical and Revision Notes
 

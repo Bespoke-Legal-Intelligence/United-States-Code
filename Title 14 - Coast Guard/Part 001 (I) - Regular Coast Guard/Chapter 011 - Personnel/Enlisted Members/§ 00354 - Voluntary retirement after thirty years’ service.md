@@ -2,7 +2,7 @@
 
 Any enlisted member who has completed thirty years’ service may, upon his own application, in the discretion of the Commandant, be retired from active service.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 521; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(A), 98 Stat. 2865; July 1,1986, Pub. L. 99–348, title II, §205(b)(8), 100 Stat. 700.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 521; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(A), 98 Stat. 2865; July 1, 1986, Pub. L. 99–348, title II, §205(b)(8), 100 Stat. 700.)
 
 #### Historical and Revision Notes
 

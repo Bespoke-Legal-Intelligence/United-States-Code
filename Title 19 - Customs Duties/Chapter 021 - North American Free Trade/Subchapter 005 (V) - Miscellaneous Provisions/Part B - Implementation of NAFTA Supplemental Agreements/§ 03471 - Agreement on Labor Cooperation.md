@@ -4,7 +4,7 @@
 
 #### (1) Membership
 
-&emsp;The United States is authorized to participate in the Commission for Labor Cooperation in accordance with the North American Agreement on Labor Cooperation.
+&emsp;The United States is authorized to participate in the Commission for Labor Cooperationin accordance with the North American Agreement on Labor Cooperation.
 
 #### (2) Contributions to budget
 

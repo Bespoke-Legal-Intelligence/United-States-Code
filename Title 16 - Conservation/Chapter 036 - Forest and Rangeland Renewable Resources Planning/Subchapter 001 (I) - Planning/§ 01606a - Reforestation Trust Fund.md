@@ -10,7 +10,7 @@ There is established in the Treasury of the United States a trust fund, to be kn
 
 (2) The Secretary shall not transfer more than $30,000,000 to the Trust Fund for any fiscal year.
 
-(3) The amounts required to be transferred to the Trust Fund under paragraph (1) shall be transferred at least quarterly from the general fund of the Treasury to the Trust Fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustment shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
+(3) The amounts required to be transferred to the Trust Fund under paragraph (1) shall be transferred at least quarterly from the general fund of the Treasury to the Trust Fund on thebasis of estimates made by the Secretary of the Treasury. Proper adjustment shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
 
 #### (c) Report to Congress; printing as House and Senate document; investments; sale and redemption of obligations; credits for Trust Fund
 
@@ -26,11 +26,11 @@ There is established in the Treasury of the United States a trust fund, to be kn
 
 The Secretary of Agriculture is on and after December 19, 1985, authorized to obligate such sums as are available in the Trust Fund (including any amounts not obligated in previous fiscal years) for—
 
-&emsp;(1) reforestation and timber stand improvement as specified in section 1601(d) of this title; and
+&emsp;(1) reforestation and timber stand improvement as specified in section 1601(d) of this title and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System; and
 
 &emsp;(2) properly allocable administrative costs of the Federal Government for the activities specified above.
 
-(Pub. L. 96–451, title III, §303, Oct. 14, 1980, 94 Stat. 1991; Pub. L. 97–424, title IV, §422, Jan. 6, 1983, 96 Stat. 2164; Pub. L. 99–190, §101(d) \[title II, §201\], Dec. 19, 1985, 99 Stat. 1224, 1245; Pub. L. 100–418, title I, §1214(r), Aug. 23, 1988, 102 Stat. 1160.)
+(Pub. L. 96–451, title III, §303, Oct. 14, 1980, 94 Stat. 1991; Pub. L. 97–424, title IV, §422, Jan. 6, 1983, 96 Stat. 2164; Pub. L. 99–190, §101(d) \[title II, §201\], Dec. 19, 1985, 99 Stat. 1224, 1245; Pub. L. 100–418, title I, §1214(r), Aug. 23, 1988, 102 Stat. 1160; Pub. L. 105–83, title III, §322, Nov. 14, 1997, 111 Stat. 1596.)
 
 #### References in Text
 
@@ -43,6 +43,8 @@ Section was not enacted as part of the Forest and Rangeland Renewable Resources 
 In subsec. (c)(2)(A), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1997—Subsec. (d)(1). Pub. L. 105–83 inserted before semicolon “and other forest stand improvement activities to enhance forest health and reduce hazardous fuel loads of forest stands in the National Forest System”.
 
 1988—Subsec. (b)(1). Pub. L. 100–418 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to the limitation in paragraph (2), the Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after September 30, 1979, under subparts A and B of part 1 of schedule 2 of the Tariff Schedules of the United States (19 U.S.C. 1202) and under part 3 of such schedule.”
 

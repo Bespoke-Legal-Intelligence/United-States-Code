@@ -4,7 +4,7 @@ Helen Douglass, William H. H. Hart, Francis J. Grimke, May Wright Sewall, Edward
 
 First. To preserve to posterity the memory of the life and character of the late Frederick Douglass.
 
-Second. To collect, collate, and preserve a historical record of the inception, progress, andculmination of the antislavery movement in the United States, and to assemble in the homestead of the late Frederick Douglass, commonly called Cedar Hill, in the village of Anacostia, in the District of Columbia, all such suitable exhibits of records or things illustrative or commemorative of the antislavery movement and history as may be donated to said association or acquired by purchase <sup>1</sup> bequest, or other lawful means.
+Second. To collect, collate, and preserve a historical record of the inception, progress, and culmination of the antislavery movement in the United States, and to assemble in the homestead of the late Frederick Douglass, commonly called Cedar Hill, in the village of Anacostia, in the District of Columbia, all such suitable exhibits of records or things illustrative or commemorative of the antislavery movement and history as may be donated to said association or acquired by purchase <sup>1</sup> bequest, or other lawful means.
 
 (June 6, 1900, ch. 806, §1, 31 Stat. 662.)
 

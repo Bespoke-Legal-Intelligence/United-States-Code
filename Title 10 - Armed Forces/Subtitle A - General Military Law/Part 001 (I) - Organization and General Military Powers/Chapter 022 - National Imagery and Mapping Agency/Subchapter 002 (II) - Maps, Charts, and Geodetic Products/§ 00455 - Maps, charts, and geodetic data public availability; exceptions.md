@@ -6,11 +6,11 @@
 
 &emsp;(A) that was obtained or produced, or that contains information that was provided, pursuant to an international agreement that restricts disclosure of such product or information to government officials of the agreeing parties or that restricts use of such product or information to government purposes only;
 
-&emsp;(B) that contains information that the Secretary of Defense has determined in writing would, if disclosed, reveal sources and methods used to obtain source material for production of the geodetic product; or
+&emsp;(B) that contains information that the Secretary of Defense has determined in writing would, if disclosed, reveal sources and methods, or capabilities, used to obtain source material for production of the geodetic product; or
 
 &emsp;(C) that contains information that the Director of the National Imagery and Mapping Agency has determined in writing would, if disclosed, jeopardize or interfere with ongoing military or intelligence operations or reveal military operational or contingency plans.
 
-(2) In this subsection, the term “geodetic product” means any map, chart, geodetic data, or related product.
+(2) In this subsection, the term “geodetic product” means imagery, imagery intelligence, or geospatial information.
 
 (c)(1) Regulations to implement this section (including any amendments to such regulations) shall be published in the Federal Register for public comment for a period of not less than 30 days before they take effect.
 
@@ -20,9 +20,13 @@
 
 &emsp;(B) in the case of qualified United States contractors (including contractors that are small business concerns) who need such products for use in the performance of contracts with the United States.
 
-(Added Pub. L. 102–88, title V, §502(a)(1), Aug. 14, 1991, 105 Stat. 435, §2796; amended Pub. L. 103–359, title V, §502, Oct. 14, 1994, 108 Stat. 3430; renumbered §455 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682.)
+(Added Pub. L. 102–88, title V, §502(a)(1), Aug. 14, 1991, 105 Stat. 435, §2796; amended Pub. L. 103–359, title V, §502, Oct. 14, 1994, 108 Stat. 3430; renumbered §455 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 105–85, div. A, title IX, §933(a), (b)(1), Nov. 18, 1997, 111 Stat. 1866.)
 
 #### Amendments
+
+1997—Subsec. (b)(1)(B). Pub. L. 105–85, §933(a), inserted “, or capabilities,” after “methods”.
+
+Subsec. (b)(2). Pub. L. 105–85, §933(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In this subsection, the term ‘geodetic product’ means any map, chart, geodetic data, or related product.”
 
 1996—Pub. L. 104–201 renumbered section 2796 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” in subsecs. (a) and (b)(1)(C).
 
@@ -35,8 +39,4 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 #### Regulations
 
 Section 502(b) of Pub. L. 102–88 provided that: “Regulations to implement section 2796 \[now 455\] of title 10, United States Code, as added by subsection (a), shall be published in the Federal Register for public comment in accordance with subsection (c) of that section not later than 90 days after the date of the enactment of this Act \[Aug. 14, 1991\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 467 of this title.
 

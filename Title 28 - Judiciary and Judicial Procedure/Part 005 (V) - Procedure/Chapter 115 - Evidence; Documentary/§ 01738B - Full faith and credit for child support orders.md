@@ -6,7 +6,7 @@ General Rule.—The appropriate authorities of each State—
 
 &emsp;(1) shall enforce according to its terms a child support order made consistently with this section by a court of another State; and
 
-&emsp;(2) shall not seek or make a modification of such an order except in accordance with subsection (e).
+&emsp;(2) shall not seek or make a modification of such an order except in accordance with subsections (e), (f), and (i).
 
 (b)
 
@@ -19,6 +19,8 @@ Definitions.—In this section:
 &emsp;&emsp;(B) a person 18 or more years of age with respect to whom a child support order has been issued pursuant to the laws of a State.
 
 &emsp;“child's State” means the State in which a child resides.
+
+&emsp;“child's home State” means the State in which a child lived with a parent or a person acting as parent for at least 6 consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than 6 months old, the State in which the child lived from birth with any of them. A period of temporary absence of any of them is counted as part of the 6-month period.
 
 &emsp;“child support” means a payment of money, continuing support, or arrearages or the provision of a benefit (including payment of health insurance, child care, and educational expenses) for the support of a child.
 
@@ -52,9 +54,9 @@ Definitions.—In this section:
 
 (c)
 
-Requirements of Child Support Orders.—A child support order made is made consistently with this section if—
+Requirements of Child Support Orders.—A child support order made by a court of a State is made consistently with this section if—
 
-&emsp;(1) a court that makes the order, pursuant to the laws of the State in which the court is located—
+&emsp;(1) a court that makes the order, pursuant to the laws of the State in which the court is located and subsections (e), (f), and (g)—
 
 &emsp;&emsp;(A) has subject matter jurisdiction to hear the matter and enter such an order; and
 
@@ -64,23 +66,37 @@ Requirements of Child Support Orders.—A child support order made is made consi
 
 (d)
 
-Continuing Jurisdiction.—A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child's State or the residence of any contestant unless the court of another State, acting in accordance with subsection (e), has made a modification of the order.
+Continuing Jurisdiction.—A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child's State or the residence of any individual contestant unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
 
 (e)
 
-Authority To Modify Orders.—A court of a State may make a modification of a child support order with respect to a child that is made by a court of another State if—
+Authority To Modify Orders.—A court of a State may modify a child support order issued by a court of another State if—
 
-&emsp;(1) the court has jurisdiction to make such a child support order; and
+&emsp;(1) the court has jurisdiction to make such a child support order pursuant to subsection (i); and
 
-&emsp;(2)(A) the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child's State or the residence of any contestant; or
+&emsp;(2)(A) the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child's State or the residence of any individual contestant; or
 
-&emsp;(B) each contestant has filed written consent to that court's making the modification and assuming continuing, exclusive jurisdiction over the order.
+&emsp;(B) each individual contestant has filed written consent with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume continuing, exclusive jurisdiction over the order.
 
 (f)
 
-Enforcement of Prior Orders.—A court of a State that no longer has continuing, exclusive jurisdiction of a child support order may enforce the order with respect to nonmodifiable obligations and unsatisfied obligations that accrued before the date on which a modification of the order is made under subsection (e).
+Recognition of Child Support Orders.—If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
+
+&emsp;(1) If only 1 court has issued a child support order, the order of that court must be recognized.
+
+&emsp;(2) If 2 or more courts have issued child support orders for the same obligor and child, and only 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
+
+&emsp;(3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current homeState of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
+
+&emsp;(4) If 2 or more courts have issued child support orders for the same obligor and child, and none of the courts would have continuing, exclusive jurisdiction under this section, a court having jurisdiction over the parties shall issue a child support order, which must be recognized.
+
+&emsp;(5) The court that has issued an order recognized under this subsection is the court having continuing, exclusive jurisdiction under subsection (d).
 
 (g)
+
+Enforcement of Modified Orders.—A court of a State that no longer has continuing, exclusive jurisdiction of a child support order may enforce the order with respect to nonmodifiable obligations and unsatisfied obligations that accrued before the date on which a modification of the order is made under subsections (e) and (f).
+
+(h)
 
 Choice of Law.—
 
@@ -90,13 +106,59 @@ In general.—In a proceeding to establish, modify, or enforce a child support o
 
 &emsp;(2)
 
-Law of state of issuance of order.—In interpreting a child support order, a court shall apply the law of the State of the court that issued the order.
+Law of state of issuance of order.—In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply the law of the State of the court that issued the order.
 
 &emsp;(3)
 
-Period of limitation.—In an action to enforce a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
+Period of limitation.—In an action to enforce arrears under a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
 
-(Added Pub. L. 103–383, §3(a), Oct. 20, 1994, 108 Stat. 4064.)
+(i)
+
+Registration for Modification.—If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
+
+(Added Pub. L. 103–383, §3(a), Oct. 20, 1994, 108 Stat. 4064; amended Pub. L. 104–193, title III, §322, Aug. 22, 1996, 110 Stat. 2221; Pub. L. 105–33, title V, §5554, Aug. 5, 1997, 111 Stat. 636.)
+
+#### Amendments
+
+<b>1997</b>—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
+
+Subsec. (f)(5). Pub. L. 105–33, §5554(2), inserted “under subsection (d)” after “jurisdiction”.
+
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–193, §322(1), substituted “subsections (e), (f), and (i)” for “subsection (e)”.
+
+Subsec. (b). Pub. L. 104–193, §322(2), inserted par. defining “child's home State”.
+
+Subsec. (c). Pub. L. 104–193, §322(3), inserted “by a court of a State” before “is made” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 104–193, §322(4), inserted “and subsections (e), (f), and (g)” after “located”.
+
+Subsec. (d). Pub. L. 104–193, §322(5), inserted “individual” before “contestant” and substituted “subsections (e) and (f)” for “subsection (e)”.
+
+Subsec. (e). Pub. L. 104–193, §322(6), substituted “modify a child support order issued” for “make a modification of a child support order with respect to a child that is made” in introductory provisions.
+
+Subsec. (e)(1). Pub. L. 104–193, §322(7), inserted “pursuant to subsection (i)” after “order”.
+
+Subsec. (e)(2). Pub. L. 104–193, §322(8), inserted “individual” before “contestant” in subpars. (A) and (B) and substituted “with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume” for “to that court's making the modification and assuming” in subpar. (B).
+
+Subsec. (f). Pub. L. 104–193, §322(10), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 104–193, §322(11), substituted “Modified” for “Prior” in heading and “subsections (e) and (f)” for “subsection (e)” in text.
+
+Pub. L. 104–193, §322(9), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 104–193, §322(12), inserted “including the duration of current payments and other obligations of support” before comma in par. (2) and “arrears under” after “enforce” in par. (3).
+
+Pub. L. 104–193, §322(9), redesignated subsec. (g) as (h).
+
+Subsec. (i). Pub. L. 104–193, §322(13), added subsec. (i).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective as if included in enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of Title 42, The Public Health and Welfare.
+
+#### Effective Date of 1996 Amendment
+
+For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 
 #### Congressional Findings and Declaration of Purpose
 

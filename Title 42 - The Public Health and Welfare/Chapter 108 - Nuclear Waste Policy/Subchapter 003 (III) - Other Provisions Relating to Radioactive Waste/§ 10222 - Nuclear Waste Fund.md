@@ -66,7 +66,7 @@ The Secretary may make expenditures from the Waste Fund, subject to subsection (
 
 &emsp;(6) the provision of assistance to States, units of general local government, and Indian tribes under sections 10136, 10138, and 10199 of this title.
 
-> No amount may be expended by the Secretary under this subchapter <sup>4</sup> for the construction or expansion of any facility unless such construction or expansion is expressly authorized by this or subsequent legislation. The Secretary hereby is authorized to construct one repository and one test and evaluation facility.
+> No amount may be expended by the Secretary under this subchapter <sup>4</sup> for the construction or expansion of any facility unless such construction or expansion is expressly authorized by this or subsequent legislation. The Secretary herebyis authorized to construct one repository and one test and evaluation facility.
 
 #### (e) Administration of Waste Fund
 

@@ -37,8 +37,6 @@
 
 This subchapter is referred to in title 5 section 7511.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “106(e),”.</i>
-
 
 ---
 

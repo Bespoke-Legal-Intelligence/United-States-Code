@@ -2,7 +2,7 @@
 
 The Secretary of the Interior, acting through the United States Bureau of Mines, is authorized and directed to establish, equip, and maintain a research laboratory at Reno, Nevada, for research, investigation, and as a center for information and assistance in matters pertaining to the mining, preparation, metallurgy, use, and conservation of the rare and precious metals of the Sierra Nevada mining region, and pertaining to other problems affecting the mining industry of that region.
 
-(June 21, 1950, ch. 338, §1, 64 Stat. 248; May 18, 1992, Pub. L. 102–285, §10(b), 106 Stat. 172.)
+(June 21, 1950, ch. 338, §1, 64 Stat. 248; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### Change of Name
 

@@ -28,7 +28,7 @@
 
 #### (ii) Project not timely authorized
 
-&emsp;&emsp;&emsp;If the project that is the subject of the study is not authorized by the date that is 5 years after the completion of the final report of the Chief of Engineers concerning the study or the date that is 2 years after the termination of the study, the non-Federal share of any excess of the cost of the study over the cost estimate (excluding any excess cost described in subparagraph (B)(ii)) shall be payable to the United States on that date.
+&emsp;&emsp;&emsp;If the project that is the subject of the study is not authorized by the date that is5 years after the completion of the final report of the Chief of Engineers concerning the study or the date that is 2 years after the termination of the study, the non-Federal share of any excess of the cost of the study over the cost estimate (excluding any excess cost described in subparagraph (B)(ii)) shall be payable to the United States on that date.
 
 #### (D) Amendment of cost estimate
 

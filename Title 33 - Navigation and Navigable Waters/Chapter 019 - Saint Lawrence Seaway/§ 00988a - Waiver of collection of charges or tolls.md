@@ -1,10 +1,10 @@
 ### §988a. Waiver of collection of charges or tolls
 
-(a) Notwithstanding section 988 of this title or any other provision of law, the Corporation shallnot collect any charge or toll established pursuant to section 988 of this title with respect to a commercial vessel (as defined in section 4462(a)(4) of title 26).
+(a) Notwithstanding section 988 of this title or any other provision of law, the Corporation shall not collect any charge or toll established pursuant to section 988 of this title with respect to a commercial vessel (as defined in section 4462(a)(4) of title 26).
 
 (b) The Corporation will maintain a record of the annual amount of each charge or toll that would have been collected with respect to each such commercial vessel if it were not for paragraph (a) of this section.
 
-(May 13, 1954, ch. 201, §13, as added Nov. 17, 1986, Pub. L. 99–662, title XIV, §805(a)(4), 100 Stat. 4272; amended Sept. 30, 1994, Pub. L. 103–331, title III, §339, 108 Stat. 2496.)
+(May 13, 1954, ch. 201, §13, as added Pub. L. 99–662, title XIV, §805(a)(4), Nov. 17, 1986, 100 Stat. 4272; amended Pub. L. 103–331, title III, §339, Sept. 30, 1994, 108 Stat. 2496.)
 
 #### Amendments
 

@@ -34,7 +34,7 @@ Subsec. (b)(10). Pub. L. 99–401, §103(a)(5), added par. (10).
 
 Subsec. (b)(6). Pub. L. 98–457, §101(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “make a complete and full study and investigation of the national incidence of child abuse and neglect, including a determination of the extent to which incidents of child abuse and neglect are increasing in number or severity; and”.
 
-Subsec. (b)(7). Pub. L. 98–457, §101(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “in consultation with Federal agencies serving on the Advisory Board on Child Abuse and Neglect (established by section 5105 of this title), prepare a comprehensive plan for seeking to bring about maximum coordination of the goals, objectives, and activities of all agencies and organizations which have responsibilities for programs and activities related to child abuse and neglect, and submit such plan to such Advisory Board not later than twelve months after April 24, 1978.”
+Subsec. (b)(7). Pub. L. 98–457, §101(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “in consultation with Federal agencies serving on the Advisory Board on Child Abuse and Neglect (established by section 5105 of this title), prepare a comprehensive plan for seeking to bring about maximum coordination of the goals, objectives, and activities of allagencies and organizations which have responsibilities for programs and activities related to child abuse and neglect, and submit such plan to such Advisory Board not later than twelve months after April 24, 1978.”
 
 Subsec. (c). Pub. L. 98–457, §101(c), substituted “The functions of the Secretary under subsection (b) of this section may be carried out” for “The Secretary may carry out his functions under subsection (b) of this section”.
 
@@ -66,7 +66,7 @@ Pub. L. 102–295, §1(a), May 28, 1992, 106 Stat. 187, provided that: “This A
 
 #### Short Title of 1989 Amendment
 
-Section 1 of Pub. L. 101–126 provided that: “This Act \[amending this section and sections 5102 to 5106h and5116 to 5116g of this title and enacting provisions set out as notes under section 5102 and 5116b of this title\] may be cited as the ‘Child Abuse Prevention Challenge Grants Reauthorization Act of 1989’.”
+Section 1 of Pub. L. 101–126 provided that: “This Act \[amending this section and sections 5102 to 5106h and 5116 to 5116g of this title and enacting provisions set out as notes under section 5102 and 5116b of this title\] may be cited as the ‘Child Abuse Prevention Challenge Grants Reauthorization Act of 1989’.”
 
 #### Short Title of 1988 Amendment
 
@@ -156,7 +156,7 @@ Section 2 of Pub. L. 93–247, as added by Pub. L. 102–295, title I, §102(a),
 
 &emsp;&emsp;“(E) is sensitive to ethnic and cultural diversity;
 
-&emsp;“(4) the failure to coordinate and comprehensively prevent and treat child abuse and neglect threatensthe futures of thousands of children and results in a cost to the Nation of billions of dollars in tangible expenditures, as well as significant intangible costs;
+&emsp;“(4) the failure to coordinate and comprehensively prevent and treat child abuse and neglect threatens the futures of thousands of children and results in a cost to the Nation of billions of dollars in tangible expenditures, as well as significant intangible costs;
 
 &emsp;“(5) all elements of American society have a shared responsibility in responding to this national child and family emergency;
 

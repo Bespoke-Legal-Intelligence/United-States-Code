@@ -30,7 +30,7 @@ The Federal National Mortgage Association and the Federal Home Loan Mortgage Cor
 
 #### (1) Consideration in studies
 
-&emsp;In conducting the studies under this section, the Comptroller General, the Secretary ofHousing and Urban Development, the Secretary of the Treasury, and the Director of the Congressional Budget Office shall each consider the views of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation.
+&emsp;In conducting the studies under this section, the Comptroller General, the Secretary of Housing and Urban Development, the Secretary of the Treasury, and the Director of the Congressional Budget Office shall each consider the views of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation.
 
 #### (2) Direct report
 

@@ -2,7 +2,7 @@
 
 Any attorney or other person admitted to conduct cases in any court of the United States or any Territory thereof who so multiplies the proceedings in any case unreasonably and vexatiously may be required by the court to satisfy personally the excess costs, expenses, and attorneys’ fees reasonably incurred because of such conduct.
 
-(June 25, 1948, ch. 646, 62 Stat. 957; Sept. 12, 1980, Pub. L. 96–349, §3, 94 Stat. 1156.)
+(June 25, 1948, ch. 646, 62 Stat. 957; Pub. L. 96–349, §3, Sept. 12, 1980, 94 Stat. 1156.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1980—Pub. L. 96–349 substituted judicial authorization to require attorneys to satisfy excess costs, expenses, and attorneys’ fees reasonably incurred because of multiplication of proceedings for such prior authority to impose liability for increased costs based on multiplication of proceedings.
+<b>1980</b>—Pub. L. 96–349 substituted judicial authorization to require attorneys to satisfy excess costs, expenses, and attorneys’ fees reasonably incurred because of multiplication of proceedings for such prior authority to impose liability for increased costs based on multiplication of proceedings.
 
 #### Federal Rules of Civil Procedure
 

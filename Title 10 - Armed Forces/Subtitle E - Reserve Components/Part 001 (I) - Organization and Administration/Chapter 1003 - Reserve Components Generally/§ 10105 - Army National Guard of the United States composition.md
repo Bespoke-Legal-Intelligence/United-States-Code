@@ -94,7 +94,7 @@ Availability of Training Positions.—The Secretary of the Army shall ensure tha
 
 “(a)
 
-Establishment of Personnel Account.—The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwise not available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnel readiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
+Establishment of Personnel Account.—The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwisenot available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnel readiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
 
 “(b)
 
@@ -210,7 +210,7 @@ Requirement for Priority System.—The Secretary of the Army shall develop a sys
 
 “(b)
 
-Unit Deployment Designators.—The system shall include the use of Unit Deployment Designators to specify the post-mobilization training days allocated to a unit before deployment. The Secretary shall specify standard designator categories in order to group units according to the timing of deployment after mobilization.
+Unit Deployment Designators.—The system shall include the use of Unit Deployment Designators to specify the post-mobilization training days allocated to a unit before deployment. The Secretary shall specify standard designator categories in order to groupunits according to the timing of deployment after mobilization.
 
 “(c)
 
@@ -226,5 +226,5 @@ Use of Designators.—(1) The Secretary shall establish procedures to link the U
 
 #### “SEC. 1137. STUDY OF IMPLEMENTATION FOR ALL RESERVE COMPONENTS.
 
-“The Secretary of Defense shall conduct an assessment of the feasibility of implementing the provisionsof this title for all reserve components. Not later than December 31, 1993, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing a plan for such implementation.”
+“The Secretary of Defense shall conduct an assessment of the feasibility of implementing the provisions of this title for all reserve components. Not later than December 31, 1993, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing a plan for such implementation.”
 

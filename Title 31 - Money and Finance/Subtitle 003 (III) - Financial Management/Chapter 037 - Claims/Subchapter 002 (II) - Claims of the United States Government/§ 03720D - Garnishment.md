@@ -1,6 +1,6 @@
 ### §3720D. Garnishment
 
-(a) Notwithstanding any provision of State law, the head of an executive, judicial, or legislative agency that administers a program thatgives rise to a delinquent nontax debt owed to the United States by an individual may in accordance with this section garnish the disposable pay of the individual to collect the amount owed, if the individual is not currently making required repayment in accordance with any agreement between the agency head and the individual.
+(a) Notwithstanding any provision of State law, the head of an executive, judicial, or legislative agency that administers a program that gives rise to a delinquent nontax debt owed to the United States by an individual may in accordance with this section garnish the disposable pay of the individual to collect the amount owed, if the individual is not currently making required repayment in accordance with any agreement between the agency head and the individual.
 
 (b) In carrying out any garnishment of disposable pay of an individual under subsection (a), the head of an executive, judicial, or legislative agency shall comply with the following requirements:
 

@@ -16,7 +16,7 @@ The Secretary shall not issue any lease under this chapter or under the Geotherm
 
 In the case of any area of National Forest or public lands subject to this section, nothing in this section shall affect any authority of the Secretary of the Interior (or for National Forest Lands reserved from the public domain, the Secretary of Agriculture) to issue permits for exploration for oil and gas, coal, oil shale, phosphate, potassium, sulphur, gilsonite or geothermal resources by means not requiring construction of roads or improvement of existing roads if such activity is conducted in a manner compatible with the preservation of the wilderness environment.
 
-(Feb. 25, 1920, ch. 85, §43, as added Dec. 22, 1987, Pub. L. 100–203, title V, §5112, 101 Stat. 1330–262; amended Sept. 22, 1988, Pub. L. 100–443, §5(c), 102 Stat. 1768.)
+(Feb. 25, 1920, ch. 85, §43, as added Pub. L. 100–203, title V, §5112, Dec. 22, 1987, 101 Stat. 1330–262; amended Pub. L. 100–443, §5(c), Sept. 22, 1988, 102 Stat. 1768.)
 
 #### References in Text
 

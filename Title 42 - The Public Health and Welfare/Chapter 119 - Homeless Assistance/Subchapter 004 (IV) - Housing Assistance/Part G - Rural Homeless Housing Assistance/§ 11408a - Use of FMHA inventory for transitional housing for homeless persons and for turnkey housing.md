@@ -30,7 +30,7 @@ The priority uses of inventory property under this section shall not have a high
 
 #### (1) Identification of property
 
-&emsp;Upon receipt by the Secretary of written notification from a public agency or nonprofitorganization that it proposes to lease a property for the purpose of providing transitional housing or for the purpose of providing transitional housing and turnkey housing opportunities, the Secretary shall—
+&emsp;Upon receipt by the Secretary of written notification from a public agency or nonprofit organization that it proposes to lease a property for the purpose of providing transitional housing or for the purpose of providing transitional housing and turnkey housing opportunities, the Secretary shall—
 
 &emsp;&emsp;(A) withdraw the property from the market for not more than 30 days for the purpose of negotiations under subparagraph (B);
 
@@ -76,7 +76,7 @@ A public agency or nonprofit organization may lease or purchase property under t
 
 #### (1) In general
 
-&emsp;The Secretary shall, by regulation, require each public agency and nonprofit organization leasing or purchasing property under this section to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policy making entity of such agency or organization, to the extent that such organization or applicant considers and makes policies and decisions regarding any property acquired under this section.
+&emsp;The Secretary shall, by regulation, require each public agency and nonprofit organization leasing or purchasing property under this section to provide for the participation of not lessthan 1 homeless individual or former homeless individual on the board of directors or other equivalent policy making entity of such agency or organization, to the extent that such organization or applicant considers and makes policies and decisions regarding any property acquired under this section.
 
 #### (2) Waiver
 

@@ -2,7 +2,7 @@
 
 The Administrator of General Services is authorized, notwithstanding any other provision of law, to name, rename, or otherwise designate any building under the custody and control of the General Services Administration, regardless of whether it was previously named by statute.
 
-(June 16, 1949, ch. 218, title IV, §410, 63 Stat. 200; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; July 18, 1958, Pub. L. 85–542, 72 Stat. 399.)
+(June 16, 1949, ch. 218, title IV, §410, 63 Stat. 200; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; Pub. L. 85–542, July 18, 1958, 72 Stat. 399.)
 
 #### Amendments
 

@@ -12,7 +12,7 @@ Information contained in such report may be classified to the extent necessary a
 
 For the purposes of this section the term “appropriate committees of the Congress” means the Committee on the Judiciary and the Committee on Foreign Affairs of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate.
 
-(Aug. 1, 1956, ch. 841, title I, §51, as added Oct. 28, 1991, Pub. L. 102–138, title I, §127(a), 105 Stat. 660.)
+(Aug. 1, 1956, ch. 841, title I, §51, as added Pub. L. 102–138, title I, §127(a), Oct. 28, 1991, 105 Stat. 660.)
 
 #### Change of Name
 

@@ -6,7 +6,7 @@ Section 1102 of Pub. L. 99–661, div. A, title XI, §1102, Nov. 14, 1986, 100 S
 
 #### NATO Cooperative Research and Development
 
-Section 1103 of Pub. L. 99–145, title XI, §1103, Nov. 8, 1985, 99 Stat. 712, which urged and requested member nations of NATO to cooperate in research and development of defense equipment and munitions and in the production of defense equipment, was repealed by Pub. L. 101–189, div. A, title IX, §931(d)(1), Nov. 29, 1989, 103 Stat. 1535. See section 2350a of this title.
+Section 1103 of Pub. L. 99–145, title XI, §1103, Nov. 8, 1985, 99 Stat. 712, which urged and requested member nations of NATO to cooperate in research and development of defense equipment and munitions and in the production of defense equipment, was repealed by Pub.L. 101–189, div. A, title IX, §931(d)(1), Nov. 29, 1989, 103 Stat. 1535. See section 2350a of this title.
 
 #### Authority of Secretary of Defense in Connection With NATO AWACS Program
 

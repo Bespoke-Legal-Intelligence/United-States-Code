@@ -8,7 +8,7 @@ As used in sections 49 and 50 of this title the term “defense contractor” me
 
 > under a contract with the United States or under any contract which the President, the Secretary of the Army, the Secretary of the Air Force, the Secretary of the Navy, or the Secretary of Transportation certifies to such employer to be necessary to the national defense.
 
-(June 22, 1942, ch. 432, §2, 56 Stat. 376; July 26, 1947, ch. 343, title II, §§205(a), 207(a), (f), 61 Stat. 501–503; Aug. 6, 1981, Pub. L. 97–31, §12(16), 95 Stat. 154.)
+(June 22, 1942, ch. 432, §2, 56 Stat. 376; July 26, 1947, ch. 343, title II, §§205(a), 207(a), (f), 61 Stat. 501–503; Pub. L. 97–31, §12(16), Aug. 6, 1981, 95 Stat. 154.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) escalated energy costs have had a negative effect on the economics of United States commercial and recreational fisheries;
 
-&emsp;(4) commercial and recreational fisheries are a prominent factor in United States coastaleconomies and the direct and indirect returns to the United States economy from commercial and recreational fishing expenditures are threefold; and
+&emsp;(4) commercial and recreational fisheries are a prominent factor in United States coastal economies and the direct and indirect returns to the United States economy from commercial and recreational fishing expenditures are threefold; and
 
 &emsp;(5) properly designed, constructed, and located artificial reefs in waters covered under this chapter can enhance the habitat and diversity of fishery resources; enhance United States recreational and commercial fishing opportunities; increase the production of fishery products in the United States; increase the energy efficiency of recreational and commercial fisheries; and contribute to the United States and coastal economies.
 

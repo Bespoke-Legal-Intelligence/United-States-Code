@@ -1,6 +1,6 @@
 ### §3804. Subpoena authority
 
-(a) For the purposes of an investigation under section 3803(a)(1) of this title, an investigating official is authorized to require by subpoena the production of all information, documents, reports, answers, records, accounts, papers, and data not otherwise reasonably available to the authority.
+(a) For the purposes of an investigation under section 3803(a)(1) of this title, an investigatingofficial is authorized to require by subpoena the production of all information, documents, reports, answers, records, accounts, papers, and data not otherwise reasonably available to the authority.
 
 (b) For the purposes of conducting a hearing under section 3803(f) of this title, a presiding officer is authorized—
 

@@ -12,7 +12,7 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 #### (1) Transitional provision
 
-&emsp;Until the date that is 3 years after December 18, 1991, a State shall be eligible to receive moneys under this chapter only if such State'sapplication proposes to use the moneys as provided in subsection (e) of this section.
+&emsp;Until the date that is 3 years after December 18, 1991, a State shall be eligible to receive moneys under this chapter only if such State's application proposes to use the moneys as provided in subsection (e) of this section.
 
 #### (2) Permanent provision
 
@@ -110,7 +110,7 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 &emsp;&emsp;(J) construction of new trails on State, county, municipal, or private lands, where a recreational need for such construction is shown; and
 
-&emsp;&emsp;(K) only as otherwise permissible, and where necessary and required by a State Comprehensive Outdoor Recreation plan,<sup>1</sup>construction of new trails crossing Federal lands, where such construction is approved by the administering agency of the State, and the Federal agency or agencies charged with management of all impacted lands, such approval to be contingent upon compliance by the Federal agency with all applicable laws, including the National Environmental Policy Act (42 U.S.C. 4321 et seq.), the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended (16 U.S.C. 1600 et seq.), and the Federal Land Policy and Management Act (43 U.S.C. 1701 et seq.).
+&emsp;&emsp;(K) only as otherwise permissible, and where necessary and required by a State Comprehensive Outdoor Recreation plan,<sup>1</sup> construction of new trails crossing Federal lands, where such construction is approved by the administering agency of the State, and the Federal agency or agencies charged with management of all impacted lands, such approval to be contingent upon compliance by the Federal agency with all applicable laws, including the National Environmental Policy Act (42 U.S.C. 4321 et seq.), the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended (16 U.S.C. 1600 et seq.), and the Federal Land Policy and Management Act (43 U.S.C. 1701 et seq.).
 
 #### (2) Use not permitted
 
@@ -160,7 +160,7 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 #### (A) Requirement
 
-&emsp;&emsp;To the extent practicable and consistent with other requirements of this section, a State shall expend moneys received under this chapter in a manner that gives preference to project proposals which—
+&emsp;&emsp;To the extent practicable and consistent with other requirements of this section, aState shall expend moneys received under this chapter in a manner that gives preference to project proposals which—
 
 &emsp;&emsp;&emsp;(i) provide for the greatest number of compatible recreational purposes including, but not limited to, those described under the definition of “recreational trail” in subsection (g)(5) of this section; or
 
@@ -182,7 +182,7 @@ Moneys made available under this chapter are to be used on trails and trail-rela
 
 #### (9) Return of moneys not expended
 
-&emsp;(A) Except as provided in subparagraph (B), moneys paid to a State that are not expendedor dedicated to a specific project within 4 years after receipt for the purposes stated in this subsection shall be returned to the Fund and shall thereafter be reallocated under the formula stated in subsection (d) of this section.
+&emsp;(A) Except as provided in subparagraph (B), moneys paid to a State that are not expended or dedicated to a specific project within 4 years after receipt for the purposes stated in this subsection shall be returned to the Fund and shall thereafter be reallocated under the formula stated in subsection (d) of this section.
 
 &emsp;(B) If approved by the State recreational trail advisory board satisfying the requirements of subsection (c)(2)(A) of this section, the State may be exempted from the requirements of paragraph (4).
 

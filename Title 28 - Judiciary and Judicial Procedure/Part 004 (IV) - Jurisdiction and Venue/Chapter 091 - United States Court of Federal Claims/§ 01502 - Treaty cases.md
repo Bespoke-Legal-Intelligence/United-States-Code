@@ -2,7 +2,7 @@
 
 Except as otherwise provided by Act of Congress, the United States Court of Federal Claims shall not have jurisdiction of any claim against the United States growing out of or dependent upon any treaty entered into with foreign nations.
 
-(June 25, 1948, ch. 646, 62 Stat. 942; May 24, 1949, ch. 139, §88, 63 Stat. 102; Apr. 2, 1982, Pub. L. 97–164, title I, §133(e)(1), 96 Stat. 40; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 942; May 24, 1949, ch. 139, §88, 63 Stat. 102; Pub. L. 97–164, title I, §133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -22,11 +22,11 @@ This section, in amending section 1502 of title 28, U.S.C., conforms with the pr
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1949—Act May 24, 1949, struck out “or with Indian tribes” after “foreign nations”.
+<b>1949</b>—Act May 24, 1949, struck out “or with Indian tribes” after “foreign nations”.
 
 #### Effective Date of 1992 Amendment
 

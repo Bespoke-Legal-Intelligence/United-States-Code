@@ -54,7 +54,7 @@
 
 (e)(1) Each criminal investigator receiving availability pay under this section and the appropriate supervisory officer, to be designated by the head of the agency, shall make an annual certification to the head of the agency that the investigator has met, and is expected to meet, the requirements of subsection (d). The head of a law enforcement agency may prescribe regulations necessary to administer this subsection.
 
-(2) Involuntary reduction in pay resulting from a denial of certification under paragraph\(1) shall be a reduction in pay for purposes of section 7512(4) of this title.
+(2) Involuntary reduction in pay resulting from a denial of certification under paragraph (1) shall be a reduction in pay for purposes of section 7512(4) of this title.
 
 (f)(1) A criminal investigator who is eligible for availability pay shall receive such pay during any period such investigator is—
 

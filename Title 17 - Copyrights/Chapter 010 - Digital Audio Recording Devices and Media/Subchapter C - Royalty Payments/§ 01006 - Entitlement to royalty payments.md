@@ -6,7 +6,7 @@ Interested Copyright Parties.—The royalty payments deposited pursuant to secti
 
 &emsp;(1) whose musical work or sound recording has been—
 
-&emsp;&emsp;(A) embodied in a digital musical recording or an analog musical recording lawfully made under this title that has been distributed, and
+&emsp;&emsp;(A) embodied in a digital musical recording or an analog musical recording lawfullymade under this title that has been distributed, and
 
 &emsp;&emsp;(B) distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions, during the period to which such payments pertain; and
 
@@ -18,7 +18,7 @@ Allocation of Royalty Payments to Groups.—The royalty payments shall be divide
 
 &emsp;(1)
 
-The sound recordings fund.—662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation <sup>1</sup> Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A).
+The sound recordings fund.—662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A).
 
 &emsp;(2)
 
@@ -38,15 +38,15 @@ Allocation of Royalty Payments Within Groups.—If all interested copyright part
 
 &emsp;(2) for the Musical Works Fund, each musical work was distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions.
 
-(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, §6(b)(3), Dec. 17, 1993, 107 Stat. 2312.)
+(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, §6(b)(3), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, §12(a)(24), Nov. 13, 1997, 111 Stat. 1535.)
 
 #### Amendments
+
+1997—Subsec. (b)(1). Pub. L. 105–80 substituted “Federation of Television” for “Federation Television” before “and Radio Artists or any successor entity)”.
 
 1993—Subsec. (c). Pub. L. 103–198 substituted “Librarian of Congress shall convene a copyright arbitration royalty panel which” for “Copyright Royalty Tribunal” in introductory provisions.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 802, 1007 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Federation of”.</i>
 

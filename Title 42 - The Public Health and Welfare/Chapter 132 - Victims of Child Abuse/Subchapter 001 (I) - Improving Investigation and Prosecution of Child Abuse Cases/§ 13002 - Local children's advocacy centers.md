@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall make grants to developand implement multidisciplinary child abuse investigation and prosecution programs.
+The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall make grants to develop and implement multidisciplinary child abuse investigation and prosecution programs.
 
 #### (b) Grant criteria
 

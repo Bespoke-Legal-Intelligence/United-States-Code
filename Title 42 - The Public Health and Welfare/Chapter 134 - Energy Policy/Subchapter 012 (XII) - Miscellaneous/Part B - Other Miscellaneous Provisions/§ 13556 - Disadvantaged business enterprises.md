@@ -6,9 +6,11 @@ To the extent practicable, the head of each agency shall provide that the obliga
 
 &emsp;(1) small business concerns controlled by socially and economically disadvantaged individuals or women;
 
-&emsp;(2) historically Black colleges and universities; or
+&emsp;(2) historically Black colleges and universities;
 
-&emsp;(3) colleges and universities having a student body in which more than 20 percent of the students are Hispanic Americans or Native Americans.
+&emsp;(3) colleges and universities having a student body in which more than 20 percent of the students are Hispanic Americans or Native Americans; or
+
+&emsp;(4) qualified HUBZone small business concerns.
 
 #### (b) Definitions
 
@@ -18,11 +20,23 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;(2) The term “socially and economically disadvantaged individuals” has the meaning such term has under section 637(d) of title 15 and relevant subcontracting regulations promulgated pursuant thereto.
 
-(Pub. L. 102–486, title XXX, §3021, Oct. 24, 1992, 106 Stat. 3133.)
+&emsp;(3) The term “qualified HUBZone small business concern” has the meaning given that term in section 632(p) of title 15.
+
+(Pub. L. 102–486, title XXX, §3021, Oct. 24, 1992, 106 Stat. 3133; Pub. L. 105–135, title VI, §604(g), Dec. 2, 1997, 111 Stat. 2634.)
 
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to procurement contracts are classified to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+
+#### Amendments
+
+1997—Subsec. (a)(4). Pub. L. 105–135, §604(g)(1), added par. (4).
+
+Subsec. (b)(3). Pub. L. 105–135, §604(g)(2), added par. (3).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of Title 15, Commerce and Trade.
 

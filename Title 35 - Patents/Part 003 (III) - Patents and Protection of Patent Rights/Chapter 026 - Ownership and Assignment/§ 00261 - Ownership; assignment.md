@@ -8,7 +8,7 @@ A certificate of acknowledgment under the hand and official seal of a person aut
 
 An assignment, grant or conveyance shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, without notice, unless it is recorded in the Patent and Trademark Office within three months from its date or prior to the date of such subsequent purchase or mortgage.
 
-(July 19, 1952, ch. 950, 66 Stat. 810; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Aug. 27, 1982, Pub. L. 97–247, §14(b), 96 Stat. 321.)
+(July 19, 1952, ch. 950, 66 Stat. 810; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §14(b), Aug. 27, 1982, 96 Stat. 321.)
 
 #### Historical and Revision Notes
 

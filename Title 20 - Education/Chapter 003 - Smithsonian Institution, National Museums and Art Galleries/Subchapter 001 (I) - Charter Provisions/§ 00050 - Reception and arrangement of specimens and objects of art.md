@@ -8,6 +8,96 @@ Whenever suitable arrangements can be made from time to time for their reception
 
 R.S. §5586 derived from act Aug. 10, 1846, ch. 178, §6, 9 Stat. 105.
 
+#### National Health Museum
+
+Pub. L. 105–78, title VII, Nov. 13, 1997, 111 Stat. 1524, provided that:
+
+#### “SEC. 701. SHORT TITLE.
+
+“This title may be cited as the ‘National Health Museum Development Act’.
+
+#### “SEC. 702. AMENDMENTS TO THE NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1995.
+
+“\[Amended section 1067 of Pub. L. 103–337, set out as a note under section 176 of Title 10, Armed Forces.\]
+
+#### “SEC. 703. NATIONAL HEALTH MUSEUM SITE.
+
+“(a)
+
+Site.—The facility known as the National Health Museum shall be located on or near the Mall on land owned by the Federal Government or the District of Columbia (or both) in the District of Columbia.
+
+“(b)
+
+Rule of Construction.—Nothing in this section shall be construed as limiting the authority or responsibilities of the National Capital Planning Commission or the Commission of Fine Arts.
+
+“(c)
+
+Definition.—In this section, the term ‘the Mall’ means—
+
+&emsp;“(1) the land designated as ‘Union Square’, United States Reservation 6A; and
+
+&emsp;“(2) the land designated as the ‘Mall’, United States Reservations 3, 4, 5, and 6.
+
+#### “SEC. 704. NATIONAL HEALTH MUSEUM COMMISSION.
+
+“(a)
+
+Establishment of Commission.—There is established a commission to be known as the National Health Museum Commission (hereafter referred to in this title as the ‘Commission’) that shall be comprised of eight members.
+
+“(b)
+
+Membership.—
+
+&emsp;“(1)
+
+In general.—The members of the Commission shall be appointed for the life of the Commission as follows:
+
+&emsp;&emsp;“(A) Two members shall be appointed by the President.
+
+&emsp;&emsp;“(B) Two members shall be appointed by the Speaker of the House of Representatives.
+
+&emsp;&emsp;“(C) One member shall be appointed by the Minority Leader of the House of Representatives.
+
+&emsp;&emsp;“(D) Two members shall be appointed by the Majority Leader of the Senate.
+
+&emsp;&emsp;“(E) One member shall be appointed by the Minority Leader of the Senate.
+
+&emsp;“(2)
+
+Persons eligible.—The members of the Commission shall be individuals who have knowledge or expertise in matters to be studied by the Commission.
+
+&emsp;“(3)
+
+Chairperson.—The President shall designate one member as the Chairperson of the Commission.
+
+#### “SEC. 705. DUTIES OF THE COMMISSION.
+
+“(a)
+
+Study.—It shall be the duty of the Commission to conduct a comprehensive study of the appropriate Federal role in the planning and operation of the National Health Museum, as well as any other issues deemed appropriate to the development of the National Health Museum.
+
+“(b)
+
+Report.—Not later than 1 year after the date on which the Commission first meets, the Commission shall submit to the President and Congress a comprehensive report of the Commission's findings and conclusions, together with any recommendations of the Commission.
+
+#### “SEC. 706. COMMISSION ADMINISTRATION MATTERS.
+
+“(a)
+
+Application of FACA.—The National Health Museum, Inc. shall be responsible for administering all Commission activities in accordance with the Federal Advisory Committee Act (5 U.S.C. App.).
+
+“(b)
+
+Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+#### “SEC. 707. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated to carry out this section, $500,000 for fiscal year 1998, to remain available until expended.
+
+#### “SEC. 708. TERMINATION OF THE COMMISSION.
+
+“The Commission shall terminate 60 days after the Commission submits the report required under section 705(b).”
+
 #### West Court of National Museum of Natural History Building
 
 Pub. L. 103–151, Nov. 24, 1993, 107 Stat. 1515, provided that:
@@ -112,7 +202,7 @@ The National Museum was not created by any express statutory provision for that 
 
 #### National Museum Exhibit
 
-Res. Feb. 28, 1922, ch. 86, 42 Stat. 399, authorized Secretary of State to transfer to custody of Secretary of Institution for safekeeping and exhibition in NationalMuseum the sword of George Washington and the staff of Benjamin Franklin, presented by Samuel T. Washington, and the sword of Andrew Jackson, presented by family of General Robert Armstrong.
+Res. Feb. 28, 1922, ch. 86, 42 Stat. 399, authorized Secretary of State to transfer to custody of Secretary of Institution for safekeeping and exhibition in National Museum the sword of George Washington and the staff of Benjamin Franklin, presented by Samuel T. Washington, and the sword of Andrew Jackson, presented by family of General Robert Armstrong.
 
 #### Transportation of Property
 

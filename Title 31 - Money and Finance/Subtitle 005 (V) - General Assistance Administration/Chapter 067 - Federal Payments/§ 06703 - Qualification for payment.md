@@ -44,7 +44,7 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 (b)
 
-Notice to Agency.—Upon receipt of notice under subsection (a) from an eligible unit of general local government, the Secretary shall notify the head of the appropriate Federal agency for each program listed in subsection (a) that is identified in the notice as a program underwhich an activity will be conducted with assistance under this chapter. The notification shall state that the unit has elected to use some or all of its assistance under this chapter for activities under that program. The head of a Federal agency that receives such a notification shall ensure that such use is in compliance with the laws and regulations applicable to that program, except that any requirement to provide matching funds shall not apply to that use.
+Notice to Agency.—Upon receipt of notice under subsection (a) from an eligible unit of general local government, the Secretary shall notify the head of the appropriate Federal agency for each program listed in subsection (a) that is identified in the notice as a program under which an activity will be conducted with assistance under this chapter. The notification shall state that the unit has elected to use some or all of its assistance under this chapter for activities under that program. The head of a Federal agency that receives such a notification shall ensure that such use is in compliance with the laws and regulations applicable to that program, except that any requirement to provide matching funds shall not apply to that use.
 
 (c)
 
@@ -56,7 +56,7 @@ Alternative uses authorized.—In lieu of, or in addition to, use for an activit
 
 &emsp;(2)
 
-Notice deemed to describe consistent use.—Notice by a unit of general local government that it intends to use assistance under this chapter for an activity other than an activity described in subsection (a) is deemed to describe an activity that is consistent with 1 or more of the purposes described in section 6701(a)(2) unless the Secretary provides to the unit, within 30 days after receipt of that notice of intent from the unit, written notice (including an explanation) that the use is not consistent with those purposes.
+Notice deemed to describe consistent use.—Notice by a unit of general local government that it intends to use assistance underthis chapter for an activity other than an activity described in subsection (a) is deemed to describe an activity that is consistent with 1 or more of the purposes described in section 6701(a)(2) unless the Secretary provides to the unit, within 30 days after receipt of that notice of intent from the unit, written notice (including an explanation) that the use is not consistent with those purposes.
 
 (d)
 
@@ -112,7 +112,7 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub.L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See parts A (§6311 et seq.) and B (§6361 et seq.) of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See section 7101 et seq. of Title 20.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See parts A (§6311 et seq.) and B (§6361 et seq.) of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. See section 7101 et seq. of Title 20.
 
 Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), is classified to section 9910c of Title 42, The Public Health and Welfare.
 
@@ -120,7 +120,7 @@ Public Law 101–509, referred to in subsec. (a)(3), is Pub. L. 101–509, Nov. 
 
 The Job Training Partnership Act, referred to in subsec. (a)(4), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended. Titles II and IV of the Act are classified generally to subchapters II (§1601 et seq.) and IV (§1671 et seq.), respectively, of chapter 19 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16,1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 The School to Work Opportunities Act, referred to in subsec. (a)(6), probably means the School-to-Work Opportunities Act of 1994, Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to chapter 69 (§6101 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 20 and Tables.
 
@@ -140,7 +140,7 @@ The Juvenile Justice and Delinquency Prevention Act, referred to in subsec. (a)(
 
 The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (a)(15), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle F of title VII of the Act was classified generally to part F (§11481 et seq.) of subchapter VI of chapter 119 of Title 42 prior to its repeal by Pub. L. 104–235, title I, §142(b), Oct. 3, 1996, 110 Stat. 3089. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
-The Child Care and Development Block Grant Act, referred to in subsec. (a)(16), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§§658A–658R) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Child Care and Development Block Grant Act, referred to in subsec. (a)(16), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 The Child Abuse Prevention and Treatment Act Amendments of 1984, referred to in subsec. (a)(18), probably means the Child Abuse Amendments of 1984, Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1749, as amended. Title III of the Act, relating to family violence programs, is classified generally to chapter 110 (§10401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 5101 of Title 42 and Tables.
 

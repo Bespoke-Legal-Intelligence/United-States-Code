@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition on Use of Funds.—Funds available to the Department of Defense may notbe used to prescribe or enforce any rule that arbitrarily excludes the official flag of any State, territory, or possession of the United States from any display of the flags of the States, territories, and possessions of the United States at an official ceremony of the Department of Defense.
+Prohibition on Use of Funds.—Funds available to the Department of Defense may not be used to prescribe or enforce any rule that arbitrarily excludes the official flag of any State, territory, or possession of the United States from any display of the flags of the States, territories, and possessions of the United States at an official ceremony of the Department of Defense.
 
 (b)
 

@@ -34,7 +34,7 @@ Notwithstanding any other provisions of this chapter except as provided in subse
 
 (7) Such refund shall be made on submission of proof satisfactory to the Egg Board that such producer paid the assessment for which refund is demanded.
 
-(8) If the amount in the escrow account required to be established by paragraph (3) is not sufficient to refund the total amount of assessments demanded by all eligible producers under this subsection and the amendment issued pursuant to paragraph (1) is not approved pursuant to a referendum under section 2708 or 2709(b) of this title, the Egg Board shall prorate theamount of such refunds among all eligible producers who demand such refund.
+(8) If the amount in the escrow account required to be established by paragraph (3) is not sufficient to refund the total amount of assessments demanded by all eligible producers under this subsection and the amendment issued pursuant to paragraph (1) is not approved pursuant to a referendum under section 2708 or 2709(b) of this title, the Egg Board shall prorate the amount of such refunds among all eligible producers who demand such refund.
 
 (Pub. L. 93–428, §13, Oct. 1, 1974, 88 Stat. 1177; Pub. L. 100–575, §3, Oct. 31, 1988, 102 Stat. 2895.)
 

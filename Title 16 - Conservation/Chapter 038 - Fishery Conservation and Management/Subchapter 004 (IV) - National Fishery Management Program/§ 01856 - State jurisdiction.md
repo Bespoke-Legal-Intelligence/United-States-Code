@@ -114,13 +114,13 @@ Section 112(d) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, ti
 
 “(3) With respect to the States of Washington, Oregon, and California—
 
-&emsp;“(A) any State law limiting entry to a fishery subject to regulation under this subsection may not be enforced against a vessel that is operating in the exclusive economic zone off that State and is not registered under the law of that State, if the vessel is otherwise legally fishing in the exclusive economic zone, except that State laws regulating landings may be enforced; and
+&emsp;“(A) any State law limiting entry to a fishery subject to regulation under this subsection may not beenforced against a vessel that is operating in the exclusive economic zone off that State and is not registered under the law of that State, if the vessel is otherwise legally fishing in the exclusive economic zone, except that State laws regulating landings may be enforced; and
 
 &emsp;“(B) no vessel may harvest or process fish which is subject to regulation under this subsection unless under an appropriate State permit or pursuant to a Federal court order.
 
 “(4) The authority provided under this subsection to regulate the Dungeness crab fishery shall terminate on October 1, 1999, or when a fishery management plan is implemented under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) for such fishery, whichever date is earlier.
 
-“(5) Nothing in this subsection shall reduce the authority of any State, as such authority existed on July1, 1996, to regulate fishing, fish processing, or landing of fish.
+“(5) Nothing in this subsection shall reduce the authority of any State, as such authority existed on July 1, 1996, to regulate fishing, fish processing, or landing of fish.
 
 “(6)(A) It is the sense of Congress that the Pacific Fishery Management Council, at the earliest practicable date, should develop and submit to the Secretary fishery management plans for shellfish fisheries conducted in the geographic area of authority of the Council, especially Dungeness crab, which are not subject to a fishery management plan on the date of enactment of this Act \[Oct. 11, 1996\].
 

@@ -55,6 +55,13 @@
 | [1474b.](%C2%A7%2001474b%20-%20Natural%20Resource%20Damage%20Assessment%20and%20Restoration%20Fund%3B%20availability%20of%20assessments.md) | Natural Resource Damage Assessment and Restoration Fund; availability of assessments. |
 | 1474b–1. | Transfer of funds from Natural Resource Damage Assessment and Restoration Fund. |
 | [1474c.](%C2%A7%2001474c%20-%20North%20American%20Wetlands%20Conservation%20Fund%3B%20availability%20of%20fines%20or%20forfeitures.md) | North American Wetlands Conservation Fund; availability of fines or forfeitures. |
+| [1474d.](%C2%A7%2001474d%20-%20Environmental%20Improvement%20and%20Restoration%20Fund.md) | Environmental Improvement and Restoration Fund. |
+| (a) | Fund. |
+| (b) | Investments. |
+| (c) | Transfer and availability of amounts earned. |
+| (d) | Projects. |
+| (e) | Marine research activities. |
+| (f) | Sunset. |
 | [1475\.](%C2%A7%2001475%20-%20Bureau%20of%20Reclamation%20acceptance%20of%20services%20of%20volunteers.md) | Bureau of Reclamation acceptance of services of volunteers. |
 | [1475a.](%C2%A7%2001475a%20-%20Participation%20of%20non-Federal%20entities%20in%20contract%20negotiations%20and%20source%20selection%20proceedings.md) | Participation of non-Federal entities in contract negotiations and source selection proceedings. |
 
@@ -107,5 +114,6 @@
 - [&sect; 01474b - Natural Resource Damage Assessment and Restoration Fund; availability of assessments](%C2%A7%2001474b%20-%20Natural%20Resource%20Damage%20Assessment%20and%20Restoration%20Fund%3B%20availability%20of%20assessments.md)
 - [&sect; 01474b&#8211;1 - Transfer of funds from Natural Resource Damage Assessment and Restoration Fund](%C2%A7%2001474b%E2%80%931%20-%20Transfer%20of%20funds%20from%20Natural%20Resource%20Damage%20Assessment%20and%20Restoration%20Fund.md)
 - [&sect; 01474c - North American Wetlands Conservation Fund; availability of fines or forfeitures](%C2%A7%2001474c%20-%20North%20American%20Wetlands%20Conservation%20Fund%3B%20availability%20of%20fines%20or%20forfeitures.md)
+- [&sect; 01474d - Environmental Improvement and Restoration Fund](%C2%A7%2001474d%20-%20Environmental%20Improvement%20and%20Restoration%20Fund.md)
 - [&sect; 01475 - Bureau of Reclamation acceptance of services of volunteers](%C2%A7%2001475%20-%20Bureau%20of%20Reclamation%20acceptance%20of%20services%20of%20volunteers.md)
 - [&sect; 01475a - Participation of non-Federal entities in contract negotiations and source selection proceedings](%C2%A7%2001475a%20-%20Participation%20of%20non-Federal%20entities%20in%20contract%20negotiations%20and%20source%20selection%20proceedings.md)

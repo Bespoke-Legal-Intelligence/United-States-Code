@@ -240,7 +240,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 917, 971b, 971d, 1432, 1827, 3125, 3373, 3377, 3601, 3607, 3631, 4102, 5103, 5106,5107a, 5107b, 5504, 5609 of this title; title 22 section 1980; title 33 section 1321; title 42 sections 9601, 9603; title 48 section 1904.
+This chapter is referred to in sections 917, 971b, 971d, 1432, 1827, 3125, 3373, 3377, 3601, 3607, 3631, 4102, 5103, 5106, 5107a, 5107b, 5504, 5609 of this title; title 22 section 1980; title 33 section 1321; title 42 sections 9601, 9603; title 46 section 12108; title 48 section 1904.
 
 
 ---

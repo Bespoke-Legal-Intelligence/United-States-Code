@@ -10,7 +10,7 @@ Not later than 90 days after March 12, 1996, the President shall submit to the a
 
 #### (1) Disapproval of credits
 
-&emsp;The Congress expresses its strong disapproval of the extension by Russia of creditsequivalent to $200,000,000 in support of the intelligence facility at Lourdes, Cuba, in November 1994.
+&emsp;The Congress expresses its strong disapproval of the extension by Russia of credits equivalent to $200,000,000 in support of the intelligence facility at Lourdes, Cuba, in November 1994.
 
 #### (2) Omitted
 

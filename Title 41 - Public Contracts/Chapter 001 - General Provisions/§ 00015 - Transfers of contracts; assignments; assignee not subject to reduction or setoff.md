@@ -48,7 +48,7 @@ If a provision described in subsection (e) of this section or a provision to the
 
 Except as herein otherwise provided, nothing in this section shall be deemed to affect or impair rights or obligations heretofore accrued.
 
-(R.S. §3737; Oct. 9, 1940, ch. 779, §1, 54 Stat. 1029; May 15, 1951, ch. 75, 65 Stat. 41; Oct. 13, 1994, Pub. L. 103–355, title II, §2451, 108 Stat. 3324; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(i)(9), 110 Stat. 676.)
+(R.S. §3737; Oct. 9, 1940, ch. 779, §1, 54 Stat. 1029; May 15, 1951, ch. 75, 65 Stat. 41; Pub. L. 103–355, title II, §2451, Oct. 13, 1994, 108 Stat. 3324; Pub. L. 104–106, div. D, title XLIII, §4321(i)(9), Feb. 10, 1996, 110 Stat. 676.)
 
 #### Codification
 
@@ -108,7 +108,7 @@ The provisions of the National Emergencies Act (Pub. L. 94–412, Sept. 14, 1976
 
 #### Moneys Due Under Letters of Commitment Issued in Connection With Disposition of Surplus Agricultural Commodities
 
-Moneys due under letters of commitment issued against funds or guaranties of funds supplied by Commodity Credit Corporation in connection with disposition of surplus agricultural commodities to foreign countries, as assignable under the Assignment of Claims Act of 1940, which constitutes this section and former section 203 of Title 31, Money and Finance, see section 1702 of Title 7, Agriculture.
+Moneys due under letters of commitment issued against funds or guaranties of funds supplied by Commodity Credit Corporation in connection with disposition of surplus agricultural commodities to foreign countries, as assignable under the Assignment of Claims Act of 1940, which constitutes this section andformer section 203 of Title 31, Money and Finance, see section 1702 of Title 7, Agriculture.
 
 #### Cross References
 

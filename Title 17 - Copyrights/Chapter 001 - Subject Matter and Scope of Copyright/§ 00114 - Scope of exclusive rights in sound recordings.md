@@ -38,7 +38,7 @@ Exempt transmissions and retransmissions.—The performance of a sound recording
 
 &emsp;&emsp;&emsp;(iii) the radio station's broadcast transmission was being retransmitted to cable systems (as defined in section 111(f)) by a satellite carrier on January 1, 1995, and that retransmission was being retransmitted by cable systems as a separate and discrete signal, and the satellite carrier obtains the radio station's broadcast transmission in an analog format: <i>Provided</i>, That the broadcast transmission being retransmitted may embody the programming of no more than one radio station; or
 
-&emsp;&emsp;&emsp;(iv) the radio station's broadcast transmission is made by a noncommercial educational broadcast station funded on or after January 1, 1995, under section 396(k) of the Communications Act of 1934 (47U.S.C. 396(k)), consists solely of noncommercial educational and cultural radio programs, and the retransmission, whether or not simultaneous, is a nonsubscription terrestrial broadcast retransmission; or
+&emsp;&emsp;&emsp;(iv) the radio station's broadcast transmission is made by a noncommercial educational broadcast station funded on or after January 1, 1995, under section 396(k) of the Communications Act of 1934 (47 U.S.C. 396(k)), consists solely of noncommercial educational and cultural radio programs, and the retransmission, whether or not simultaneous, is a nonsubscription terrestrial broadcast retransmission; or
 
 &emsp;&emsp;(C) a transmission that comes within any of the following categories—
 
@@ -46,7 +46,7 @@ Exempt transmissions and retransmissions.—The performance of a sound recording
 
 &emsp;&emsp;&emsp;(ii) a transmission within a business establishment, confined to its premises or the immediately surrounding vicinity;
 
-&emsp;&emsp;&emsp;(iii) a retransmission by any retransmitter, including a multichannel video programming distributor as defined in section 602(12) of the Communications Act of 1934 (47 U.S.C. 522(12)), of a transmission by a transmitter licensed to publicly perform the sound recording as a part of that transmission, if the retransmission is simultaneous with the licensed transmission and authorized by the transmitter; or
+&emsp;&emsp;&emsp;(iii) a retransmission by any retransmitter, including a multichannel video programming distributor as defined in section 602(12)<sup>1</sup> of the Communications Act of 1934 (47 U.S.C. 522(12)), of a transmission by a transmitter licensed to publicly perform the sound recording as a part of that transmission, if the retransmission is simultaneous with the licensed transmission and authorized by the transmitter; or
 
 &emsp;&emsp;&emsp;(iv) a transmission to a business establishment for use in the ordinary course of its business: <i>Provided</i>, That the business recipient does not retransmit the transmission outside of its premises or the immediately surrounding vicinity, and that the transmission does not exceed the sound recording performance complement. Nothing in this clause shall limit the scope of the exemption in clause (ii).
 
@@ -86,7 +86,7 @@ Licenses for transmissions by interactive services.—
 
 &emsp;&emsp;(E) For the purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) a “licensor” shall include the licensing entity and any other entity under anymaterial degree of common ownership, management, or control that owns copyrights in sound recordings; and
+&emsp;&emsp;&emsp;(i) a “licensor” shall include the licensing entity and any other entity under any material degree of common ownership, management, or control that owns copyrights in sound recordings; and
 
 &emsp;&emsp;&emsp;(ii) a “performing rights society” is an association or corporation that licenses the public performance of nondramatic musical works on behalf of the copyright owner, such as the American Society of Composers, Authors and Publishers, Broadcast Music, Inc., and SESAC, Inc.
 
@@ -122,9 +122,9 @@ Authority for Negotiations.—
 
 Licenses for Nonexempt Subscription Transmissions.—
 
-&emsp;(1) No later than 30 days after the enactment of the Digital Performance Right in Sound Recordings Act of 1995, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d)(2) of this section during the period beginning on the effective date of such Act and ending on December 31, 2000. Such terms and rates shall distinguish among the different types of digital audio transmission services then in operation. Any copyright owners of sound recordings or any entities performing sound recordings affected by this section may submit to the Librarian of Congress licenses covering such activities with respect to such sound recordings. The parties to each negotiation proceeding shall bear their own costs.
+&emsp;(1) No later than 30 days after the enactment of the Digital Performance Right in Sound Recordings Act of 1995, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d)(2) of this section during the period beginning on the effective date of such Act and ending on December 31, 2000, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel's determination). Such terms and rates shall distinguish among the different types of digital audio transmission services then in operation. Any copyright owners of sound recordings or any entities performing sound recordings affected by this section may submit to the Librarian of Congress licenses covering such activities with respect to such sound recordings. The parties to each negotiation proceeding shall bear their own costs.
 
-&emsp;(2) In the absence of license agreements negotiated under paragraph (1), during the 60-day period commencing 6 months after publication of the notice specified in paragraph (1), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings. In addition to the objectives set forth in section 801(b)(1), in establishing such rates and terms, the copyright arbitration royalty panel may consider the rates and terms for comparable types of digital audio transmission services and comparable circumstances under voluntary license agreements negotiated as provided in paragraph (1). The Librarian of Congress shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings.
+&emsp;(2) In the absence of license agreements negotiated under paragraph (1), during the 60-day period commencing 6 months after publication of the notice specified in paragraph (1), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings. In addition to the objectives set forth in section 801(b)(1), in establishing such rates and terms, the copyright arbitration royalty panel may consider the rates and terms for comparable types of digital audio transmission services and comparable circumstances under voluntary license agreements negotiated as provided in paragraph (1). The Librarian of Congress shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings.
 
 &emsp;(3) License agreements voluntarily negotiated at any time between one or more copyright owners of sound recordings and one or more entities performing sound recordings shall be given effect in lieu of any determination by a copyright arbitration royalty panel or decision by the Librarian of Congress.
 
@@ -208,7 +208,7 @@ Definitions.—As used in this section, the following terms have the following m
 
 &emsp;&emsp;&emsp;(i) by the same featured recording artist; or
 
-&emsp;&emsp;&emsp;(ii) from any set or compilation of phonorecords lawfully distributed together as a unit for public performance or sale in the United States,
+&emsp;&emsp;&emsp;(ii) from any set or compilation of phonorecords lawfully distributed togetheras a unit for public performance or sale in the United States,
 
 > &emsp;&emsp;if no more than three such selections are transmitted consecutively:
 
@@ -218,7 +218,7 @@ Definitions.—As used in this section, the following terms have the following m
 
 &emsp;(9) A “transmission” includes both an initial transmission and a retransmission.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 104–39, §3, Nov. 1, 1995, 109 Stat. 336.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 104–39, §3, Nov. 1, 1995, 109 Stat. 336; Pub. L. 105–80, §3, Nov. 13, 1997, 111 Stat. 1531.)
 
 #### Historical and Revision Notes
 
@@ -238,6 +238,8 @@ Section 114(c) states explicitly that nothing in the provisions of section 114 s
 
 #### References in Text
 
+Section 602(12) of the Communications Act of 1934, referred to in subsec. (d)(1)(C)(iii), was subsequently amended, and section 602(12) no longer defines “multichannel video programming distributor”. However, such term is defined elsewhere in that section.
+
 The date of enactment of the Digital Performance Right in Sound Recordings Act of 1995, referred to in subsecs. (d)(4)(B)(iii), (C) and (f)(1), is the date of enactment of Pub. L. 104–39, which was approved Nov. 1, 1995.
 
 The antitrust laws, referred to in subsec. (e)(1), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
@@ -246,11 +248,15 @@ For effective date of the Digital Performance Right in Sound Recordings Act of 1
 
 #### Amendments
 
+1997—Subsec. (f)(1). Pub. L. 105–80, §3(1), inserted “, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel's determination)” after “December 31, 2000”.
+
+Subsec. (f)(2). Pub. L. 105–80, §3(2), struck out “and publish in the Federal Register” before “a schedule of rates and terms”.
+
 1995—Subsec. (a). Pub. L. 104–39, §3(1), substituted “(3) and (6) of section 106” for “and (3) of section 106”.
 
 Subsec. (b). Pub. L. 104–39, §3(2), substituted “phonorecords or copies” for “phonorecords, or of copies of motion pictures and other audiovisual works,” in first sentence.
 
-Subsec. (d). Pub. L. 104–39, §3(3), added subsec. (d) and struck out former subsec. (d), which read as follows: “On January 3, 1978, the Register of Copyrights, after consulting with representatives of owners of copyrighted materials, representatives of the broadcasting, recording, motion picture, entertainment industries, and arts organizations, representatives of organized labor and performers of copyrighted materials, shall submit to the Congress a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners of copyrighted material any performance rights in such material. The report should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
+Subsec. (d). Pub. L. 104–39, §3(3), added subsec. (d) and struck out former subsec. (d), which read as follows:“On January 3, 1978, the Register of Copyrights, after consulting with representatives of owners of copyrighted materials, representatives of the broadcasting, recording, motion picture, entertainment industries, and arts organizations, representatives of organized labor and performers of copyrighted materials, shall submit to the Congress a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners of copyrighted material any performance rights in such material. The report should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
 
 Subsecs. (e) to (j). Pub. L. 104–39, §3(4), added subsecs. (e) to (j).
 
@@ -267,4 +273,6 @@ Exclusive rights in copyrighted work, see section 106 of this title.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 106, 111, 112, 115, 119, 501, 511, 801, 802, 803 of this title; title 18 section 2319.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

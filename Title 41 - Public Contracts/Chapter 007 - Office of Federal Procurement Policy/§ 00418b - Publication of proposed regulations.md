@@ -34,7 +34,7 @@ Any notice of a proposed procurement policy, regulation, procedure, or form prep
 
 1996—Subsec. (d)(3). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–355, §5092(b). See 1994 Amendment note below.
 
-1994—Subsec. (a). Pub. L. 103–355, §5092(a), substituted “60 days” for “30 days” and inserted at end “Notwithstanding the preceding sentence, such a policy, regulation, procedure, or form may take effect earlier than 60 days after the publication date when there are compelling circumstances for the earlier effective date, but inno event may that effective date be less than 30 days after the publication date.”
+1994—Subsec. (a). Pub. L. 103–355, §5092(a), substituted “60 days” for “30 days” and inserted at end “Notwithstanding the preceding sentence, such a policy, regulation, procedure, or form may take effect earlier than 60 days after the publication date when there are compelling circumstances for the earlier effective date, but in no event may that effective date be less than 30 days after the publication date.”
 
 Subsec. (d). Pub. L. 103–355, §5092(b), as amended by Pub. L. 104–106, designated second sentence of subsec. (d)(2) as subsec. (d)(3).
 
@@ -48,5 +48,5 @@ Section 302(b) of Pub. L. 98–577 provided that: “The procedures required by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 421 of this title; title 38 section 8153; title 42 section 7256a; title 50 App. section 2159.
+This section is referred to in title 38 section 8153; title 42 section 7256a; title 50 App. section 2159.
 

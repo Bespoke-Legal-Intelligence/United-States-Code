@@ -54,7 +54,7 @@ Apr. 1, 1954, ch. 127, §§2, 5, 68 Stat. 47, 48.
 
 In subsection (b), reference to the senior instructors of artillery, cavalry, and infantry, and the master of the sword, in 10:1061, are omitted as obsolete. The names of the other departments are omitted as inapplicable to the Air Force. The departmental names will be established under section 9332 of this title. The words “and one assistant professor”, in 10:1061, are omitted as superseded by section 9333 of this title. 10:1061 (words before colon) is omitted as inapplicable to the Air Force. 10:1854 (less last sentence) is omitted as executed by the inclusion in this chapter of the laws applicable to the Air Force Academy. 10:1087 (proviso) is omitted as inapplicable to the Air Force.
 
-Subsection (b)(3) is based on those laws establishing the various departments at the United States Military Academy (see revision note for section 4331 of this title).
+Subsection (b)(3) is based on those laws establishing the various departments at the United States MilitaryAcademy (see revision note for section 4331 of this title).
 
 #### Amendments
 

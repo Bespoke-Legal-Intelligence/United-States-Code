@@ -9,13 +9,13 @@
 | [2664\.](%C2%A7%2002664%20-%20Acquisition%20of%20property%20for%20lumber%20production.md) | Acquisition of property for lumber production. |
 | [2665\.](%C2%A7%2002665%20-%20Sale%20of%20certain%20interests%20in%20land%3B%20logs.md) | Sale of certain interests in land; logs. |
 | [2666\.](%C2%A7%2002666%20-%20Acquisition%20land%20purchase%20contracts%3B%20limitation%20on%20commission.md) | Acquisition: land purchase contracts; limitation on commission. |
-| [2667\.](%C2%A7%2002667%20-%20Leases%20non-excess%20property.md) | Leases: non-excess property. |
-| \[2667a. | Repealed.\] |
+| [2667\.](%C2%A7%2002667%20-%20Leases%20non-excess%20property%20of%20military%20departments.md) | Leases: non-excess property of military departments. |
+| [2667a.](%C2%A7%2002667a%20-%20Leases%20non-excess%20property%20of%20Defense%20agencies.md) | Leases: non-excess property of Defense agencies. |
 | [2668\.](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md) | Easements for rights-of-way. |
 | [2669\.](%C2%A7%2002669%20-%20Easements%20for%20rights-of-way%20gas%2C%20water%2C%20sewer%20pipe%20lines.md) | Easements for rights-of-way: gas, water, sewer pipe lines. |
 | [2670\.](%C2%A7%2002670%20-%20Licenses%20military%20installations%3B%20erection%20and%20use%20of%20buildings%3B%20American%20National%20Red%20Cross.md) | Licenses: military installations; erection and use of buildings; American National Red Cross. |
 | [2671\.](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md) | Military reservations and facilities: hunting, fishing, and trapping. |
-| [2672\.](%C2%A7%2002672%20-%20Acquisition%20interests%20in%20land%20when%20cost%20is%20not%20more%20than%20%24200%2C000.md) | Acquisition: interests in land when cost is not more than $200,000. |
+| [2672\.](%C2%A7%2002672%20-%20Acquisition%20interests%20in%20land%20when%20cost%20is%20not%20more%20than%20%24500%2C000.md) | Acquisition: interests in land when cost is not more than $500,000. |
 | [2672a.](%C2%A7%2002672a%20-%20Acquisition%20interests%20in%20land%20when%20need%20is%20urgent.md) | Acquisition: interests in land when need is urgent. |
 | [2673\.](%C2%A7%2002673%20-%20Acquisition%20of%20certain%20interests%20in%20land%20availability%20of%20funds.md) | Acquisition of certain interests in land: availability of funds. |
 | [2674\.](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md) | Operation and control of Pentagon Reservation and defense facilities in National Capital Region. |
@@ -30,15 +30,17 @@
 | [2683\.](%C2%A7%2002683%20-%20Relinquishment%20of%20legislative%20jurisdiction%3B%20minimum%20drinking%20age%20on%20military%20installations.md) | Relinquishment of legislative jurisdiction; minimum drinking age on military installations. |
 | [2684\.](%C2%A7%2002684%20-%20Cooperative%20agreements%20for%20management%20of%20cultural%20resources.md) | Cooperative agreements for management of cultural resources. |
 | [2685\.](%C2%A7%2002685%20-%20Adjustment%20of%20or%20surcharge%20on%20selling%20prices%20in%20commissary%20stores%20to%20provide%20funds%20for%20construction%20and%20improvement%20of%20commissary%20store%E2%80%A6.md) | Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities. |
-| \[2686. | Repealed.\] |
+| [2686\.](%C2%A7%2002686%20-%20Utilities%20and%20services%20sale%3B%20expansion%20and%20extension%20of%20systems%20and%20facilities.md) | Utilities and services: sale; expansion and extension of systems and facilities. |
 | [2687\.](%C2%A7%2002687%20-%20Base%20closures%20and%20realignments.md) | Base closures and realignments. |
-| \[2688. | Repealed.\] |
+| [2688\.](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md) | Utility systems: conveyance authority. |
 | [2689\.](%C2%A7%2002689%20-%20Development%20of%20geothermal%20energy%20on%20military%20lands.md) | Development of geothermal energy on military lands. |
 | [2690\.](%C2%A7%2002690%20-%20Fuel%20sources%20for%20heating%20systems%3B%20prohibition%20on%20converting%20certain%20heating%20facilities.md) | Fuel sources for heating systems; prohibition on converting certain heating facilities. |
 | [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease%20from%20other%20agencies.md) | Restoration of land used by permit or lease from other agencies. |
-| [2692\.](%C2%A7%2002692%20-%20Storage%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md) | Storage and disposal of nondefense toxic and hazardous materials. |
+| [2692\.](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md) | Storage, treatment, and disposal of nondefense toxic and hazardous materials. |
 | [2693\.](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property.md) | Conveyance of certain property. |
 | [2694\.](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md) | Conservation and cultural activities. |
+| [2695\.](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md) | Acceptance of funds to cover administrative expenses relating to certain real property transactions. |
+| [2696\.](%C2%A7%2002696%20-%20Screening%20of%20real%20property%20for%20further%20Federal%20use%20before%20conveyance.md) | Screening of real property for further Federal use before conveyance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,6 +51,8 @@
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title III, §§343(g)(3), 371(c)(2), title X, §§1061(c)(2), 1062(b), div. B, title XXVIII, §§2811(b)(2), 2812(b), 2813(b), 2814(a)(2), Nov. 18, 1997, 111 Stat. 1688, 1705, 1891, 1892, 1992–1995, inserted “of military departments” after “property” in item 2667, added item 2667a, substituted “$500,000” for “$200,000” in item 2672, added items 2686 and 2688, substituted “Storage, treatment, and” for “Storage and” in item 2692, and added items 2695 and 2696.
 
 1996—Pub. L. 104–201, div. A, title III, §§332(a)(2), 369(b)(2), div. B, title XXVIII, §2862(b), Sept. 23, 1996, 110 Stat. 2485, 2498, 2805, substituted “of Pentagon Reservation and defense facilities in National Capital Region” for “of the Pentagon Reservation” in item 2674 and added items 2684 and 2694.
 
@@ -68,7 +72,7 @@ Pub. L. 101–510, div. A, title XIV, §1481(h)(2), div. B, title XXVIII, §2804
 
 Pub. L. 100–180, div. A, title XI, §1112(b)(3), Dec. 4, 1987, 101 Stat. 1147, inserted “or security-guard” before “functions” in item 2693.
 
-1986—Pub. L. 99–661, div. A, title XII, §§1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted “Fuel sources for heating systems” for “Restriction on fuel sources for new heating systems” in item 2690 and added item 2693.
+1986—Pub. L. 99–661, div. A, title XII, §§1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted“Fuel sources for heating systems” for “Restriction on fuel sources for new heating systems” in item 2690 and added item 2693.
 
 Pub. L. 98–115, title VIII, §807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, §806(a), Dec. 3, 1985, 99 Stat. 988, struck out item 2667a “Sale and replacement of nonexcess real property”, eff. Oct. 1, 1986.
 
@@ -126,8 +130,6 @@ Real property—
 
 &emsp;&emsp;Army, see section 4771 et seq. of this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 
@@ -140,13 +142,13 @@ Real property—
 - [&sect; 02664 - Acquisition of property for lumber production](%C2%A7%2002664%20-%20Acquisition%20of%20property%20for%20lumber%20production.md)
 - [&sect; 02665 - Sale of certain interests in land; logs](%C2%A7%2002665%20-%20Sale%20of%20certain%20interests%20in%20land%3B%20logs.md)
 - [&sect; 02666 - Acquisition land purchase contracts; limitation on commission](%C2%A7%2002666%20-%20Acquisition%20land%20purchase%20contracts%3B%20limitation%20on%20commission.md)
-- [&sect; 02667 - Leases non-excess property](%C2%A7%2002667%20-%20Leases%20non-excess%20property.md)
-- [&sect; 02667a - Repealed. Pub. L. 98&#8211;115, title VIII, &sect;807(c)(1), Oct. 11, 1983, 97 Stat. 786](%C2%A7%2002667a%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93115%2C%20title%20VIII%2C%20%C2%A7807%28c%29%281%29%2C%20Oct.%2011%2C%201983%2C%2097%20Stat.%20786.md)
+- [&sect; 02667 - Leases non-excess property of military departments](%C2%A7%2002667%20-%20Leases%20non-excess%20property%20of%20military%20departments.md)
+- [&sect; 02667a - Leases non-excess property of Defense agencies](%C2%A7%2002667a%20-%20Leases%20non-excess%20property%20of%20Defense%20agencies.md)
 - [&sect; 02668 - Easements for rights-of-way](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md)
 - [&sect; 02669 - Easements for rights-of-way gas, water, sewer pipe lines](%C2%A7%2002669%20-%20Easements%20for%20rights-of-way%20gas%2C%20water%2C%20sewer%20pipe%20lines.md)
 - [&sect; 02670 - Licenses military installations; erection and use of buildings; American National Red Cross](%C2%A7%2002670%20-%20Licenses%20military%20installations%3B%20erection%20and%20use%20of%20buildings%3B%20American%20National%20Red%20Cross.md)
 - [&sect; 02671 - Military reservations and facilities hunting, fishing, and trapping](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md)
-- [&sect; 02672 - Acquisition interests in land when cost is not more than $200,000](%C2%A7%2002672%20-%20Acquisition%20interests%20in%20land%20when%20cost%20is%20not%20more%20than%20%24200%2C000.md)
+- [&sect; 02672 - Acquisition interests in land when cost is not more than $500,000](%C2%A7%2002672%20-%20Acquisition%20interests%20in%20land%20when%20cost%20is%20not%20more%20than%20%24500%2C000.md)
 - [&sect; 02672a - Acquisition interests in land when need is urgent](%C2%A7%2002672a%20-%20Acquisition%20interests%20in%20land%20when%20need%20is%20urgent.md)
 - [&sect; 02673 - Acquisition of certain interests in land availability of funds](%C2%A7%2002673%20-%20Acquisition%20of%20certain%20interests%20in%20land%20availability%20of%20funds.md)
 - [&sect; 02674 - Operation and control of Pentagon Reservation and defense facilities in National Capital Region](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md)
@@ -161,12 +163,14 @@ Real property—
 - [&sect; 02683 - Relinquishment of legislative jurisdiction; minimum drinking age on military installations](%C2%A7%2002683%20-%20Relinquishment%20of%20legislative%20jurisdiction%3B%20minimum%20drinking%20age%20on%20military%20installations.md)
 - [&sect; 02684 - Cooperative agreements for management of cultural resources](%C2%A7%2002684%20-%20Cooperative%20agreements%20for%20management%20of%20cultural%20resources.md)
 - [&sect; 02685 - Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store&#8230;](%C2%A7%2002685%20-%20Adjustment%20of%20or%20surcharge%20on%20selling%20prices%20in%20commissary%20stores%20to%20provide%20funds%20for%20construction%20and%20improvement%20of%20commissary%20store%E2%80%A6.md)
-- [&sect; 02686 - Repealed. Pub. L. 97&#8211;214, &sect;7(1), July 12, 1982, 96 Stat. 173](%C2%A7%2002686%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93214%2C%20%C2%A77%281%29%2C%20July%2012%2C%201982%2C%2096%20Stat.%20173.md)
+- [&sect; 02686 - Utilities and services sale; expansion and extension of systems and facilities](%C2%A7%2002686%20-%20Utilities%20and%20services%20sale%3B%20expansion%20and%20extension%20of%20systems%20and%20facilities.md)
 - [&sect; 02687 - Base closures and realignments](%C2%A7%2002687%20-%20Base%20closures%20and%20realignments.md)
-- [&sect; 02688 - Repealed. Pub. L. 97&#8211;214, &sect;7(1), July 12, 1982, 96 Stat. 173](%C2%A7%2002688%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93214%2C%20%C2%A77%281%29%2C%20July%2012%2C%201982%2C%2096%20Stat.%20173.md)
+- [&sect; 02688 - Utility systems conveyance authority](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md)
 - [&sect; 02689 - Development of geothermal energy on military lands](%C2%A7%2002689%20-%20Development%20of%20geothermal%20energy%20on%20military%20lands.md)
 - [&sect; 02690 - Fuel sources for heating systems; prohibition on converting certain heating facilities](%C2%A7%2002690%20-%20Fuel%20sources%20for%20heating%20systems%3B%20prohibition%20on%20converting%20certain%20heating%20facilities.md)
 - [&sect; 02691 - Restoration of land used by permit or lease from other agencies](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease%20from%20other%20agencies.md)
-- [&sect; 02692 - Storage and disposal of nondefense toxic and hazardous materials](%C2%A7%2002692%20-%20Storage%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md)
+- [&sect; 02692 - Storage, treatment, and disposal of nondefense toxic and hazardous materials](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md)
 - [&sect; 02693 - Conveyance of certain property](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property.md)
 - [&sect; 02694 - Conservation and cultural activities](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md)
+- [&sect; 02695 - Acceptance of funds to cover administrative expenses relating to certain real property transactions](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md)
+- [&sect; 02696 - Screening of real property for further Federal use before conveyance](%C2%A7%2002696%20-%20Screening%20of%20real%20property%20for%20further%20Federal%20use%20before%20conveyance.md)

@@ -38,7 +38,7 @@
 
 #### (3) Administrative costs
 
-&emsp;Not more than 3 percent of the funds that remain available after carrying out sections 13709, 13710, and 13711 of this title shall be available to the Attorney General for purposes of—
+&emsp;Not more than 3 percent of the funds that remain available after carrying out sections13709, 13710, and 13711 of this title shall be available to the Attorney General for purposes of—
 
 &emsp;&emsp;(A) administration;
 

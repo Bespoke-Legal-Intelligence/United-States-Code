@@ -32,7 +32,7 @@ Countries described in any of the following paragraphs shall be eligible to part
 
 Fellowships under this section shall be provided to permit the recipients to gain knowledge and skills that will—
 
-&emsp;(1) assist eligible countries to develop agricultural systems necessary to meet the foodand fiber needs of their domestic populations; and
+&emsp;(1) assist eligible countries to develop agricultural systems necessary to meet the food and fiber needs of their domestic populations; and
 
 &emsp;(2) strengthen and enhance trade linkages between eligible countries and agricultural interests in the United States.
 
@@ -46,7 +46,7 @@ The Secretary shall consult with other United States Government agencies, United
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated without fiscal year limitation such sums as may be necessary to carry out the program established under this section, except that the amount of such funds in any fiscal year shall not exceed—
+There are authorized to be appropriated without fiscal year limitation such sums as may benecessary to carry out the program established under this section, except that the amount of such funds in any fiscal year shall not exceed—
 
 &emsp;(1) for eligible countries that meet the requirements of subsection (b)(1) of this section, $3,000,000;
 

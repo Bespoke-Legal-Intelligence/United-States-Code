@@ -4,7 +4,7 @@
 
 Section 28, acts Feb. 4, 1874, ch. 22, 18 Stat. 14; June 20, 1874, ch. 328, 18 Stat. 88; Feb. 26, 1925, ch. 339, §3, 43 Stat. 983; Ex. Or. No. 6166, §2, eff. June 10, 1933; Mar. 2, 1934, ch. 38, 48 Stat. 389, related to telegraph lines connecting the Capitol with various departments in Washington.
 
-Section 29, acts Mar. 7, 1874, ch. 50, 18 Stat. 20, restricted use of telegraph lines to certain authorized persons.
+Section 29, act Mar. 7, 1874, ch. 50, 18 Stat. 20, restricted use of telegraph lines to certain authorized persons.
 
 Section 30, acts Mar. 3, 1879, ch. 182, 20 Stat. 388; Feb. 26, 1925, ch. 339, §3, 43 Stat. 983; Ex. Or. No. 6166, §2, eff.June 10, 1933; Mar. 2, 1934, ch. 38, 48 Stat. 389, related to sale of condemned materials or lines.
 

@@ -2,7 +2,7 @@
 
 #### (a) Books and records of account
 
-The association shall keep correct and complete books and records of account and minutes of any proceeding of the association involving any of its members, the board of directors, orany committee having authority under the board of directors.
+The association shall keep correct and complete books and records of account and minutes of any proceeding of the association involving any of its members, the board of directors, or any committee having authority under the board of directors.
 
 #### (b) Names and addresses of members
 

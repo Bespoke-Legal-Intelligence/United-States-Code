@@ -22,7 +22,7 @@ And for general and incidental expenses in connection with the administration of
 
 Notwithstanding any other provision of this section or any other law, postsecondary schools administered by the Secretary of the Interior for Indians, and which meet the definition of an “institution of higher education” under section 1201 of the Higher Education Act of 1965 \[20 U.S.C. 1141\], shall be eligible to participate in and receive appropriated funds under any program authorized by the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 
-(Nov. 2, 1921, ch. 115, 42 Stat. 208; Oct. 12, 1976, Pub. L. 94–482, title IV, §410, 90 Stat. 2233.)
+(Nov. 2, 1921, ch. 115, 42 Stat. 208; Pub. L. 94–482, title IV, §410, Oct. 12, 1976, 90 Stat. 2233.)
 
 #### References in Text
 

@@ -24,13 +24,13 @@
 
 &emsp;(C) publish a copy of the notice for 3 consecutive weeks in a newspaper of general circulation in each county in which each such portion is located;
 
-&emsp;(D) mail a copy of the notice, to the extent practicable, to all shippers that have made significant use (as designated by the Board) of the railroad line during the 12 months preceding the filing of the application; and
+&emsp;(D) mail a copy of the notice, to the extent practicable, to all shippers that have madesignificant use (as designated by the Board) of the railroad line during the 12 months preceding the filing of the application; and
 
 &emsp;(E) attach to the application filed with the Board an affidavit certifying the manner in which subparagraphs (A) through (D) of this paragraph have been satisfied, and certifying that subparagraphs (A) through (D) have been satisfied within the most recent 30 days prior to the date the application is filed.
 
 (b)(1) Except as provided in subsection (d), abandonment and discontinuance may occur as provided in section 10904.
 
-(2) The Board shall require as a condition of any abandonment or discontinuance under this section provisions to protect the interests of employees. The provisions shall be at least as beneficial to those interests as the provisions established under sections 11326(a) and 24706(c) of this title.
+(2) The Board shall require as a condition of any abandonment or discontinuance under this section provisions to protect the interests of employees. The provisions shall be at least as beneficial to those interests as the provisions established under sections 11326(a) and 24706(c) <sup>1</sup> of this title.
 
 (c)(1) In this subsection, the term “potentially subject to abandonment” has the meaning given the term in regulations of the Board. The regulations may include standards that vary by region of the United States and by railroad or group of railroads.
 
@@ -60,6 +60,10 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 823.)
 
+#### References in Text
+
+Section 24706(c) of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 105–134, title I, §142(a), Dec. 2, 1997, 111 Stat. 2576.
+
 #### Prior Provisions
 
 A prior section 10903, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1403; Pub. L. 96–448, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1941; Pub. L. 98–216, §2(14), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(24), July 5, 1994, 108 Stat. 1378, related to authorizing abandonment and discontinuance of railroad lines and rail transportation.
@@ -73,4 +77,6 @@ Pub. L. 97–102, title IV, §402, Dec. 23, 1981, 95 Stat. 1465, as amended by P
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 10904, 10905, 10907, 11702, 11901 of this title; title 45 section 748.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

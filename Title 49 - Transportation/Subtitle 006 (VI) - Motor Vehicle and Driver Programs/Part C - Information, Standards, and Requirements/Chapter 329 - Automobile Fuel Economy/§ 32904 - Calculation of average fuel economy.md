@@ -212,7 +212,7 @@ Oct. 20, 1972, Public Law 92–513, §503(b)(2)(E), (G), as amended Dec. 8, 1993
 
 The text of 49:32904(b)(1) is the text of 49:32904(b)(2), as enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1063), with conforming changes made in the cited cross-references.
 
-The text of subsection (b)(2) is the text of 49:32904(b)(1)(A), as enacted by section 1 of the Act ofJuly 5, 1994 (Public Law 103–272, 108 Stat. 1063), with the amendments of the underlying source provisions of 49:32904(b)(1)(A) made by section 371(b)(1) of the North American Free Trade Implementation Act (Public Law 103–182, 107 Stat. 2128). The words “(except as provided in paragraph (3))” are substituted for “Except as provided in subparagraph (G)” because of the restatement of 15:2003(b)(2)(G) as 49:32904(b)(3).
+The text of subsection (b)(2) is the text of 49:32904(b)(1)(A), as enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1063), with the amendments of the underlying source provisions of 49:32904(b)(1)(A) made by section 371(b)(1) of the North American Free Trade Implementation Act (Public Law 103–182, 107 Stat. 2128). The words “(except as provided in paragraph (3))” are substituted for “Except as provided in subparagraph (G)” because of the restatement of 15:2003(b)(2)(G) as 49:32904(b)(3).
 
 In subsection (b)(3)(A), the words “is imported . . . more than 30 days after” are substituted for “is not imported . . . prior to the expiration of 30 days following” for clarity and consistency with title 49, United States Code.
 

@@ -70,47 +70,7 @@ First Plan.—The first plan under subsection (a) shall be submitted not later t
 
 #### Cost Reimbursement Rules for Indirect Costs Attributable to Private Sector Work of Defense Contractors
 
-Section 808 of Pub. L. 104–106 provided that:
-
-“(a)
-
-Defense Capability Preservation Agreement.—The Secretary of Defense may enter into an agreement, to be known as a ‘defense capability preservation agreement’, with a defense contractor under which the cost reimbursement rules described in subsection (b) shall be applied. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in section 2501(b) of title 10, United States Code.
-
-“(b)
-
-Cost Reimbursement Rules.—(1) The cost reimbursement rules applicable under an agreement entered into under subsection (a) are as follows:
-
-&emsp;“(A) The Department of Defense shall, in determining the reimbursement due a contractor for its indirect costs of performing a defense contract, allow the contractor to allocate indirect costs to its private sector work only to the extent of the contractor's allocable indirect private sector costs, subject to subparagraph (C).
-
-&emsp;“(B) For purposes of subparagraph (A), the allocable indirect private sector costs of a contractor are those costs of the contractor that are equal to the sum of—
-
-&emsp;&emsp;“(i) the incremental indirect costs attributable to such work; and
-
-&emsp;&emsp;“(ii) the amount by which the revenue attributable to such private sector work exceeds the sum of—
-
-&emsp;&emsp;&emsp;“(I) the direct costs attributable to such private sector work; and
-
-&emsp;&emsp;&emsp;“(II) the incremental indirect costs attributable to such private sector work.
-
-&emsp;“(C) The total amount of allocable indirect private sector costs for a contract in any year of the agreement may not exceed the amount of indirect costs that a contractor would have allocated to its private sector work during that year in accordance with the contractor's established accounting practices.
-
-“(2) The cost reimbursement rules set forth in paragraph (1) may be modified by the Secretary of Defense if the Secretary of Defense determines that modifications are appropriate to the particular situation to facilitate achievement of the policy set forth in section 2501(b) of title 10, United States Code.
-
-“(c)
-
-Implementation.—Not later than 90 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary of Defense shall establish application procedures and procedures for expeditious consideration of defense capability preservation agreements as authorized by this section.
-
-“(d)
-
-Contracts Covered.—An agreement entered into with a contractor under subsection (a) shall apply to each Department of Defense contract with the contractor in effect on the date on which the agreement is entered into and each Department of Defense contract that is awarded to the contractor during the term of the agreement.
-
-“(e)
-
-Reports.—Not later than one year after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and Committees on National Security and on Appropriations of the House of Representatives\] a report setting forth—
-
-&emsp;“(1) the number of applications received and the number of applications approved for defense capability preservation agreements; and
-
-&emsp;“(2) any changes to the authority in this section that the Secretary recommends to further facilitate the policy set forth in section 2501(b) of title 10, United States Code.”
+Section 808 of Pub. L. 104–106 authorized Secretary of Defense to enter into agreements with defense contractors under which certain cost reimbursement rules would be applied and required submission of report to congressional defense committees not later than one year after Feb. 10, 1996, prior to repeal by Pub. L. 105–85, div. A, title X, §1027(d), Nov. 18, 1997, 111 Stat. 1880. See section 7315 of this title.
 
 #### Documentation for Awards for Cooperative Agreements or Other Transactions Under Defense Technology Reinvestment Programs
 
@@ -382,7 +342,7 @@ Section 4239 of Pub. L. 102–484 provided that: “Not later than 120 days afte
 
 #### Notice to Contractors and Employees Upon Proposed and Actual Termination or Substantial Reduction in Major Defense Programs
 
-Section 4471 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title XIII, §1372, Nov. 20, 1993, 107 Stat. 1817; Pub. L. 103–337, div. A, title XI, §1142, Oct. 5, 1994, 108 Stat. 2881; Pub. L. 104–201, div. A, title VIII, §824, Sept. 23, 1996, 110 Stat. 2610, provided that:
+Section 4471 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title XIII, §1372, Nov. 20, 1993, 107 Stat. 1817; Pub. L. 103–337, div. A, title XI, §1142, Oct. 5, 1994, 108 Stat. 2881; Pub. L. 104–201, div. A, title VIII, §824, Sept. 23, 1996, 110 Stat. 2610; Pub. L. 105–85, div. A, title X, §1073(d)(2)(C), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
 “(a)
 
@@ -436,5 +396,5 @@ Definitions.—For purposes of this section:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2502, 2505, 2506, 2511, 2514, 2515, 2519, 2525, 2540 of this title.
+This section is referred to in sections 2198, 2500, 2502, 2505, 2506, 2511, 2514, 2515, 2519, 2525, 2540, 7315 of this title.
 

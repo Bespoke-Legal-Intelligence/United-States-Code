@@ -8,7 +8,7 @@ The United States Court of Federal Claims shall have jurisdiction to determine t
 
 &emsp;(3) no suit upon the same has been brought by the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 941; July 28, 1953, ch. 253, §9, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §44(c), 68 Stat. 1242; Apr. 2, 1982, Pub. L. 97–164, title I, §133(c)(1), 96 Stat. 40; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 941; July 28, 1953, ch. 253, §9, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §44(c), 68 Stat. 1242; Pub. L. 97–164, title I, §133(c)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -20,13 +20,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1954—Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
+<b>1954</b>—Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
 
-1953—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims”, inserted “to or from” after “due”, and inserted “and to render judgment thereon,”.
+<b>1953</b>—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims”, inserted “to or from” after “due”, and inserted “and to render judgment thereon,”.
 
 #### Effective Date of 1992 Amendment
 

@@ -10,7 +10,7 @@ Television broadcasting to Cuba under this subchapter shall be in accordance wit
 
 #### (c) USIA Television Marti
 
-Any program of United States Government television broadcasts to Cuba authorized by thissection shall be designated “USIA Television Marti Program”.
+Any program of United States Government television broadcasts to Cuba authorized by this section shall be designated “USIA Television Marti Program”.
 
 #### (d) Frequency assignment
 

@@ -8,7 +8,7 @@ The Secretary of Transportation shall—
 
 &emsp;(3) coordinate Federal policy on intermodal transportation and initiate policies to promote efficient intermodal transportation in the United States;
 
-&emsp;(4) promote and undertake the development, collection, and dissemination of technological, statistical, economic, and other information relevant to domestic and international transportation;
+&emsp;(4) promote and undertake the development, collection, and dissemination of technological, statistical, economic, and other informationrelevant to domestic and international transportation;
 
 &emsp;(5) consult and cooperate with the Secretary of Labor in compiling information regarding the status of labor-management contracts and other labor-management problems and in promoting industrial harmony and stable employment conditions in all modes of transportation;
 
@@ -47,6 +47,52 @@ In clause (4), the word “compiling” is substituted for “gathering” for c
 Par. (6). Pub. L. 102–240, §§5002(a), 6017, redesignated par. (5) as (6) and inserted “, and including basic highway vehicle science”. Former par. (6) redesignated (7).
 
 Pars. (7), (8). Pub. L. 102–240, §5002(a), redesignated pars. (6) and (7) as (7) and (8), respectively.
+
+#### Establishment of Nationwide Differential Global Positioning System
+
+Pub. L. 105–66, title III, §346, Oct. 27, 1997, 111 Stat. 1449, provided that:
+
+“(a) As soon as practicable after the date of enactment of this Act \[Oct. 27, 1997\], the Secretary of Transportation, acting for the Department of Transportation, may take receipt of such equipment and sites of the Ground Wave Emergency Network (referred to in this section as ‘GWEN’) as the Secretary of Transportation determines to be necessary for the establishment of a nationwide system to be known as the ‘Nationwide Differential Global Positioning System’ (referred to in this section as ‘NDGPS’).
+
+“(b) As soon as practicable after the date of enactment of this Act \[Oct. 27, 1997\], the Secretary of Transportation may establish the NDGPS. In establishing the NDGPS, the Secretary of Transportation may—
+
+&emsp;“(1) if feasible, reuse GWEN equipment and sites transferred to the Department of Transportation under subsection (a);
+
+&emsp;“(2) to the maximum extent practicable, use contractor services to install the NDGPS;
+
+&emsp;“(3) modify the positioning system operated by the Coast Guard at the time of the establishment of the NDGPS to integrate the reference stations made available pursuant to subsection (a);
+
+&emsp;“(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integrated into, the Continuously Operating Reference Station (commonly referred to as ‘CORS’) system of the National Geodetic Survey of the Department of Commerce; and
+
+&emsp;“(5) in cooperation with the Secretary of Commerce, investigate the use of the NDGPS reference stations for the Global Positioning System Integrated Precipitable Water Vapor System of the National Oceanic and Atmospheric Administration.
+
+“(c) The Secretary of Transportation may—
+
+&emsp;“(1) manage and operate the NDGPS;
+
+&emsp;“(2) ensure that the service of the NDGPS is provided without the assessment of any user fee; and
+
+&emsp;“(3) in cooperation with the Secretary of Defense, ensure that the use of the NDGPS is denied to any enemy of the United States.
+
+“(d) In any case in which the Secretary of Transportation determines that contracting for the maintenance of 1 or more NDGPS reference stations is cost-effective, the Secretary of Transportation may enter into a contract to provide for that maintenance.
+
+“(e) The Secretary of Transportation may—
+
+&emsp;“(1) in cooperation with appropriate representatives of private industries and universities and officials of State governments—
+
+&emsp;&emsp;“(A) investigate improvements (including potential improvements) to the NDGPS;
+
+&emsp;&emsp;“(B) develop standards for the NDGPS; and
+
+&emsp;&emsp;“(C) sponsor the development of new applications for the NDGPS; and
+
+&emsp;“(2) provide for the continual upgrading of the NDGPS to improve performance and address the needs of—
+
+&emsp;&emsp;“(A) the Federal Government;
+
+&emsp;&emsp;“(B) State and local governments; and
+
+&emsp;&emsp;“(C) the general public.”
 
 #### Intermodal Transportation Advisory Board and Office of Intermodalism
 

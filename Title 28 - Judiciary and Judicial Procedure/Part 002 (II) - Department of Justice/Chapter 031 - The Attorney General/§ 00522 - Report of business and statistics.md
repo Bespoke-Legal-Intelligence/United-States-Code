@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 333.
 
@@ -30,7 +32,7 @@ In paragraph (3), the words “involving the United States” are inserted for c
 
 #### Amendments
 
-1976—Pub. L. 94–273 substituted “by April 1 of each year” for “at the beginning of each regular session of Congress”.
+<b>1976</b>—Pub. L. 94–273 substituted “by April 1 of each year” for “at the beginning of each regular session of Congress”.
 
 #### Report to Congress on Banking Law Offenses
 
@@ -110,5 +112,5 @@ Pub. L. 98–292, §9, May 21, 1984, 98 Stat. 206, provided that: “Beginning o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 1997f.
+This section is referred to in title 18 section 2320; title 42 section 1997f.
 

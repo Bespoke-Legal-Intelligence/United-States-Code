@@ -11,7 +11,7 @@
 | [14\.](%C2%A7%2000014%20-%20Contracts%20filed%20with%20Federal%20Communications%20Commission%3B%20reports%3B%20failure%20to%20make.md) | Contracts filed with Federal Communications Commission; reports; failure to make. |
 | [15\.](%C2%A7%2000015%20-%20Reservation%20of%20power%20to%20alter%2C%20amend%2C%20or%20repeal%20act%3B%20power%20to%20fix%20rates%20and%20purchase%20lines.md) | Reservation of power to alter, amend, or repeal act; power to fix rates and purchase lines. |
 | [16\.](%C2%A7%2000016%20-%20Washington-Alaska%20Military%20Cable%20and%20Telegraph%20System%3B%20money%20transfers%3B%20portion%20of%20receipts%20withheld.md) | Washington-Alaska Military Cable and Telegraph System; money transfers; portion of receipts withheld. |
-| [17\.](%C2%A7%2000017%20-%20Establishment%20of%20telegraph%20or%20cable%20lines%20by%20foreigners%20prohibited.md) | Establishment of telegraph or cable lines by foreigners prohibited. |
+| [17\.](%C2%A7%2000017%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93119%2C%20title%20VI%2C%20%C2%A7620%2C%20Nov.%2026%2C%201997%2C%20111%20Stat.%202519.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,4 +31,4 @@
 - [&sect; 00014 - Contracts filed with Federal Communications Commission; reports; failure to make](%C2%A7%2000014%20-%20Contracts%20filed%20with%20Federal%20Communications%20Commission%3B%20reports%3B%20failure%20to%20make.md)
 - [&sect; 00015 - Reservation of power to alter, amend, or repeal act; power to fix rates and purchase lines](%C2%A7%2000015%20-%20Reservation%20of%20power%20to%20alter%2C%20amend%2C%20or%20repeal%20act%3B%20power%20to%20fix%20rates%20and%20purchase%20lines.md)
 - [&sect; 00016 - Washington-Alaska Military Cable and Telegraph System; money transfers; portion of receipts withheld](%C2%A7%2000016%20-%20Washington-Alaska%20Military%20Cable%20and%20Telegraph%20System%3B%20money%20transfers%3B%20portion%20of%20receipts%20withheld.md)
-- [&sect; 00017 - Establishment of telegraph or cable lines by foreigners prohibited](%C2%A7%2000017%20-%20Establishment%20of%20telegraph%20or%20cable%20lines%20by%20foreigners%20prohibited.md)
+- [&sect; 00017 - Repealed. Pub. L. 105&#8211;119, title VI, &sect;620, Nov. 26, 1997, 111 Stat. 2519](%C2%A7%2000017%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93119%2C%20title%20VI%2C%20%C2%A7620%2C%20Nov.%2026%2C%201997%2C%20111%20Stat.%202519.md)

@@ -1,5 +1,5 @@
 
-49 U.S.C.<br>United States Code, 1996 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+49 U.S.C.<br>United States Code, 1997 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 49—TRANSPORTATION
 
@@ -7120,7 +7120,7 @@ Elim.
 
 2451–2461
 
-Elim.
+49101–49109
 
 2501
 
@@ -7460,6 +7460,32 @@ Pub. L. 100–561, title III, §308, Oct. 31, 1988, 102 Stat. 2817, which provid
 
 #### Legislative Purpose and Construction
 
+Section 4 of Pub. L. 105–102, Nov. 20, 1997, 111 Stat. 2216, provided that:
+
+“(a)
+
+No Substantive Change.—This Act restates, without substantive change, laws enacted before May 1, 1997, that were replaced by this Act. This Act may not be construed as making a substantive change in the laws replaced. Laws enacted after April 30, 1997, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
+
+“(b)
+
+References.—A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
+
+“(c)
+
+Continuing Effect.—An order, rule, or regulation in effect under a law replaced by this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
+
+“(d)
+
+Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
+
+“(e)
+
+Inferences.—An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a caption or catch line of the provision.
+
+“(f)
+
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+
 Section 9 of Pub. L. 104–287, Oct. 11, 1996, 110 Stat. 3400, provided that:
 
 “(a)
@@ -7484,7 +7510,7 @@ Inferences.—An inference of a legislative construction is not to be drawn by r
 
 “(f)
 
-Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severablefrom the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 Section 10 of Pub. L. 103–429, Oct. 31, 1994, 108 Stat. 4391, provided that:
 
@@ -7510,7 +7536,7 @@ Inferences.—An inference of a legislative construction is not to be drawn by r
 
 “(f)
 
-Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severablefrom the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 Section 6 of Pub. L. 103–272, July 5, 1994, 108 Stat. 1378, provided that:
 
@@ -7580,9 +7606,13 @@ Section 3 of Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1466, provided that:
 
 “(e) An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline thereof.
 
-“(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act isheld invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+“(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 #### Repeals and Savings Provisions
+
+Section 5(a) of Pub. L. 105–102, Nov. 20, 1997, 111 Stat. 2216, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+
+Section 5(b) of Pub. L. 105–102, Nov. 20, 1997, 111 Stat. 2217, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 20, 1997.
 
 Section 10(a) of Pub. L. 104–287, Oct. 11, 1996, 110 Stat. 3401, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 

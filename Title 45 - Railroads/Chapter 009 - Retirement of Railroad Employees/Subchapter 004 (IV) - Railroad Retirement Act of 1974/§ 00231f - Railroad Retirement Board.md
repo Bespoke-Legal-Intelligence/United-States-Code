@@ -46,7 +46,7 @@ This subchapter shall be administered by the Railroad Retirement Board establish
 
 #### (d) Hospital insurance benefits; certified beneficiaries; disability insurance benefits; services in Canada; exchange of information
 
-(1) The Board shall, for purposes of this subsection, have the same authority to determine the rights of individuals described in subdivision (2) to have payments made on their behalf for hospital insurance benefits consisting of inpatient hospital services, posthospital extended care services, home health services, hospice care, and outpatient hospital diagnostic services (all hereinafter referred to as “services”) under section 226 \[42 U.S.C. 426\], and parts A and C of title XVIII \[42 U.S.C. 1395c et seq., 1395x et seq.\], of the Social Security Act as the Secretary of Health and Human Services has under such section and such parts with respect to individuals to whom such sections and such parts apply. For purposes of section 231g of this title, a determination with respect to the rights of an individual under this subsection shall, except in the case of a provider of services, be considered to be a decision with respect to an annuity.
+(1) The Board shall, for purposes of this subsection, have the same authority to determine the rights of individuals described in subdivision (2) to have payments made on their behalf for hospital insurance benefits consisting of inpatient hospital services, posthospital extended care services, home health services, hospice care, and outpatient hospital diagnostic services (all hereinafter referred to as “services”) under section 226 \[42 U.S.C. 426\], and parts A and D of title XVIII \[42 U.S.C. 1395c et seq., 1395x et seq.\], of the Social Security Act as the Secretary of Health and Human Services has under such section and such parts with respect to individuals to whom such sections and such parts apply. For purposes of section 231g of this title, a determination with respect to the rights of an individual under this subsection shall, except in the case of a provider of services, be considered to be a decision with respect to an annuity.
 
 (2) Except as otherwise provided in this subsection, every person who—
 
@@ -70,13 +70,13 @@ The Board is authorized to accept on behalf of the United States money gifts and
 
 Whenever the Board submits or transmits any budget estimate, budget request, supplemental budget estimate, or other budget information, legislative recommendation, prepared testimony for congressional hearings, or comment on legislation to the President or to the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Board to submit its budget requests or estimates, legislative recommendations, prepared testimony for congressional hearings, or comments on legislation to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
-(Aug. 29, 1935, ch. 812, §7, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I, §101, 88 Stat. 1338; amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Nov. 4, 1979, Pub. L. 96–101, §10(h), 93 Stat. 742; May 30, 1980, Pub. L. 96–254, title I, §106(f), 94 Stat. 402, as amended Oct. 14, 1980, Pub. L. 96–448, title VII, §701(b)(1), 94 Stat. 1960; June 9, 1980, Pub. L. 96–265, title I, §103(a)(4), 94 Stat. 444; Dec. 5, 1980, Pub. L. 96–499, title IX, §930(r), 94 Stat. 2633; Aug. 13, 1981, Pub. L. 97–35, title XI, §1122, 95 Stat. 638; Sept. 3, 1982, Pub. L. 97–248, title I, §122(a)(2), 96 Stat. 356; Aug. 12, 1983, Pub. L. 98–76, title III, §301(a), title IV, §416, 97 Stat. 430, 436; July 18, 1984, Pub. L. 98–369, div. B, title III, §2349(b)(2), 98 Stat. 1097.)
+(Aug. 29, 1935, ch. 812, §7, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1338; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–101, §10(h), Nov. 4, 1979, 93 Stat. 742; Pub. L. 96–254, title I, §106(f), May 30, 1980, 94 Stat. 402, as amended Pub. L. 96–448, title VII, §701(b)(1), Oct. 14, 1980, 94 Stat. 1960; Pub. L. 96–265, title I, §103(a)(4), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §930(r), Dec. 5, 1980, 94 Stat. 2633; Pub. L. 97–35, title XI, §1122, Aug. 13, 1981, 95 Stat. 638; Pub. L. 97–248, title I, §122(a)(2), Sept. 3, 1982, 96 Stat. 356; Pub. L. 98–76, title III, §301(a), title IV, §416, Aug. 12, 1983, 97 Stat. 430, 436; Pub. L. 98–369, div. B, title III, §2349(b)(2), July 18, 1984, 98 Stat. 1097; Pub. L. 105–33, title IV, §4002(f)(1), Aug. 5, 1997, 111 Stat. 329.)
 
 #### References in Text
 
 The Railroad Retirement Act of 1937, referred to in subsecs. (a) and (d)(2)(ii), is act Aug. 29, 1935, ch. 812, as amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, which was classified principally to subchapter III (§228a et seq.) of this chapter. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305. The Railroad Retirement Act of 1974 is classified generally to this subchapter. For complete classification of these Acts to the Code, see Tables.
 
-The Social Security Act, referred to in subsecs. (b)(2), (7), (c)(2), (4), and (d)(1), (3) to (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. Parts A and C of title XVIII of the Social Security Act are classified generally to Parts A (§1395c et seq.) and C (1395x et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(2), (7), (c)(2), (4), and (d)(1), (3) to (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. Parts A and D of title XVIII of the Social Security Act are classified generally to Parts A (§1395c et seq.) and D (1395x et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (b)(7), (9), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
@@ -104,6 +104,8 @@ August 12, 1983, referred to in subsec. (c)(4), was in the original “the date 
 
 #### Amendments
 
+1997—Subsec. (d)(1). Pub. L. 105–33 substituted “parts A and D of title XVIII” for “parts A and C of title XVIII”.
+
 1984—Subsec. (d)(4). Pub. L. 98–369 struck out “1867,” after “1864,”.
 
 1983—Subsec. (c)(4). Pub. L. 98–76, §301(a), added par. (4).
@@ -116,7 +118,7 @@ Subsec. (f). Pub. L. 98–76, §416, added subsec. (f).
 
 Subsec. (b)(7). Pub. L. 97–35, §1122(a)(2), inserted reference to the Railroad Unemployment Insurance Act.
 
-Subsec. (c)(1). Pub. L. 97–35, §1122(c), inserted provisions relating to payment of annuity amounts from theDual Benefits Payments Account, authorization of Board to prescribe regulations for allocation of annuity amounts, and maximum limits on entitlement of an individual to an annuity amount.
+Subsec. (c)(1). Pub. L. 97–35, §1122(c), inserted provisions relating to payment of annuity amounts from the Dual Benefits Payments Account, authorization of Board to prescribe regulations for allocation of annuity amounts, and maximum limits on entitlement of an individual to an annuity amount.
 
 Subsec. (d)(2)(i)(C). Pub. L. 97–35, §1122(b)(2), added cl. (C).
 

@@ -32,7 +32,7 @@ Responsibilities.—The Council shall have the responsibility to ensure effectiv
 
 Alternative Performance of Responsibilities.—Notwithstanding subsection (c), the President may assign the responsibilities of the Council to another interagency organization of the executive branch that includes among its members the officials specified in paragraphs (1) through (4) of subsection (b).
 
-(Added Pub. L. 102–484, div. D, title XLII, §4212(a), Oct. 23, 1992, 106 Stat. 2664; amended Pub. L. 103–160, div. A, title XIII, §1312(b), Nov. 30, 1993, 107 Stat. 1786; Pub. L. 103–337, div. A, title X, §1070(a)(12), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title X, §1081(b), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(c)(2), (3), Sept. 23, 1996, 110 Stat. 2613.)
+(Added Pub. L. 102–484, div. D, title XLII, §4212(a), Oct. 23, 1992, 106 Stat. 2664; amended Pub. L. 103–160, div. A, title XIII, §1312(b), Nov. 30, 1993, 107 Stat. 1786; Pub. L. 103–337, div. A, title X, §1070(a)(12), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title X, §1081(b), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(c)(2), formerly §829(c)(2), (3), Sept. 23, 1996, 110 Stat. 2613, renumbered Pub. L. 105–85, div. A, title X, §1073(c)(7)(B), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 105–85, div. A, title X, §1073(c)(7)(A), Nov. 18, 1997, 111 Stat. 1904.)
 
 #### Prior Provisions
 
@@ -42,7 +42,9 @@ Another prior section 2502 was renumbered section 2534 of this title.
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–201 which directed the amendment of subsec. (b) by substituting “the responsibility to ensure effective cooperation” for “the following responsibilities:”, striking out “(1) To ensure the effective cooperation” before “among departments”, striking out par. (2), redesignating subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and adjusting margins of such pars., was executed to subsec. (c) to reflect the probable intent of Congress. Prior to repeal, subsec. (c)(2) read as follows: “To prepare the periodic assessment and the periodic plan required by sections 2505 and 2506 of this title, respectively.”
+1997—Subsec. (c). Pub. L. 105–85, §1073(c)(7)(A), made technical correction to directory language of Pub. L. 104–201, §829(c)(2). See 1996 Amendment note below.
+
+1996—Subsec. (c). Pub. L. 104–201, §829(c)(2), formerly §829(c)(2), (3), as renumbered and amended by Pub. L. 105–85, substituted “the responsibility to ensure effective cooperation” for “the following responsibilities:”, struck out “(1) To ensure the effective cooperation” before “among departments”, struck out par. (2), redesignated subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and adjusted margins of such pars. Prior to repeal, par. (2) read as follows: “To prepare the periodic assessment and the periodic plan required by sections 2505 and 2506 of this title, respectively.”
 
 Subsec. (c)(1)(B). Pub. L. 104–106, §1081(b)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “programs for achieving, during a period of reduction in defense expenditures, the defense reinvestment, diversification, and conversion objectives set forth in section 2501(b) of this title; and”.
 
@@ -51,4 +53,8 @@ Subsec. (c)(2), (3). Pub. L. 104–106, §1081(b)(2), (3), redesignated par. (3)
 1994—Subsec. (d). Pub. L. 103–337 substituted “executive” for “Executive”.
 
 1993—Subsec. (d). Pub. L. 103–160 added subsec. (d).
+
+#### Effective Date of 1997 Amendment
+
+Section 1073(c) of Pub. L. 105–85 provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 

@@ -16,5 +16,5 @@ See Transfer of Functions note set out under section 661 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 696 of this title.
+This section is referred to in sections 668ee, 696 of this title.
 

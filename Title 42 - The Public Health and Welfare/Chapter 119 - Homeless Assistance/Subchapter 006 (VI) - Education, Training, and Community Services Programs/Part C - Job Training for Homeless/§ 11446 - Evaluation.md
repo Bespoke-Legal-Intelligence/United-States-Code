@@ -2,7 +2,7 @@
 
 #### (a) Demonstration project responsibility
 
-The Secretary shall evaluate each project assisted under this part at the end of the first fiscal year for which funds are appropriated under this part. The Secretary shall submit the findings of the evaluations to the Interagency Council. Not later than 6 months before the termination date specified in section 11450 of this title, the Secretary shall prepare and submit a final report of the evaluations required by this subsection to the President, to the Congress, and to the Interagency Council.
+The Secretary shall evaluate each project assisted under this part at the end of the first fiscal year for which funds are appropriated underthis part. The Secretary shall submit the findings of the evaluations to the Interagency Council. Not later than 6 months before the termination date specified in section 11450 of this title, the Secretary shall prepare and submit a final report of the evaluations required by this subsection to the President, to the Congress, and to the Interagency Council.
 
 #### (b) Contents of evaluations
 
@@ -28,5 +28,5 @@ Each evaluation required by this section shall include—
 
 #### Termination of Section
 
-<i>For termination of section on Dec. 31, 1997, see section 11450 of this title.</i>
+<i>For termination of section on Dec. 31, 1999, see section 11450 of this title.</i>
 

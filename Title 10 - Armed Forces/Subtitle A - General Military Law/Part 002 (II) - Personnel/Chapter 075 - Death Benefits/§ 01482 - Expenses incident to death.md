@@ -16,7 +16,7 @@
 
 &emsp;(7) Funeral director's services.
 
-&emsp;(8) Transportation of the remains, and roundtrip transportation and prescribed allowances for an escort of one person, to the placeselected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized.
+&emsp;(8) Transportation of the remains, and roundtrip transportation and prescribed allowances for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized.
 
 &emsp;(9) Interment of the remains.
 
@@ -36,7 +36,7 @@
 
 &emsp;(4) If no person covered by clauses (1)–(3) can be found, a person standing in loco parentis to the decedent.
 
-(d) When, as a result of a disaster involving the multiple deaths of persons covered by section 1481 of this title, the Secretary concerned has possession of commingled remains that cannot be individually identified, and burial of those remains in a common grave in a national cemetery is considered necessary, he may, for the interment services of each known decedent, pay the expenses of round-trip transportation to the cemetery of (1) the person who would have been designated under subsection (c) to direct disposition of the remains if individual identification had been made, and (2) two additional persons selected by that person who are closely related to the decedent. The transportation expenses authorized to be paid under this subsection may not exceed the transportation allowances authorized for members of the armed forces for travel on official business, but no per diem allowance may be paid.
+(d) When, as a result of a disaster involving the multiple deaths of persons covered by section 1481 of this title, the Secretary concerned has possession of commingled remains that cannot be individually identified, and burial of those remains in a common grave in a national cemetery is considered necessary, he may, for the interment services of each known decedent, pay the expenses of round-trip transportation to the cemetery of (1) the person who would havebeen designated under subsection (c) to direct disposition of the remains if individual identification had been made, and (2) two additional persons selected by that person who are closely related to the decedent. The transportation expenses authorized to be paid under this subsection may not exceed the transportation allowances authorized for members of the armed forces for travel on official business, but no per diem allowance may be paid.
 
 (e) When the remains of a decedent covered by section 1481 of this title, whose death occurs after January 1, 1961, are determined to be nonrecoverable, the person who would have been designated under subsection (c) to direct disposition of the remains if they had been recovered may be—
 

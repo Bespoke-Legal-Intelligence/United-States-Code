@@ -10,7 +10,7 @@
 
 (b) No correction may be made under subsection (a)(1) unless the claimant or his heir or legal representative files a request for the correction within three years after he discovers the error or injustice. However, a board established under subsection (a)(1) may excuse a failure to file within three years after discovery if it finds it to be in the interest of justice.
 
-(c) The Secretary concerned may pay, from applicable current appropriations, a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be. If the claimant is dead, the money shall be paid, upon demand, to his legal representative. However, if no demand for payment is made by a legal representative, the money shall be paid—
+(c) The Secretary concerned may pay, from applicable current appropriations, a claim for theloss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be. If the claimant is dead, the money shall be paid, upon demand, to his legal representative. However, if no demand for payment is made by a legal representative, the money shall be paid—
 
 &emsp;(1) to the surviving spouse, heir, or beneficiaries, in the order prescribed by the law applicable to that kind of payment;
 
@@ -88,7 +88,7 @@ Aug. 2, 1946, ch. 753, §207; restated Oct. 25, 1951, ch. 588, 65 Stat. 655.
 
 5:275(e).
 
-In subsection (a), the words “and approved by the Secretary of Defense” are substituted for 5:191a(a) (1st proviso). The words “when he considers it” are substituted for the words “where in their judgment such action is”, in 5:191a and 275. The words “officers or employees” and “means of”, in 5:191a and 275, are omittedas surplusage. The word “naval”, in 5:191a and 275, is omitted as covered by the word “military”.
+In subsection (a), the words “and approved by the Secretary of Defense” are substituted for 5:191a(a) (1st proviso). The words “when he considers it” are substituted for the words “where in their judgment such action is”, in 5:191a and 275. The words “officers or employees” and “means of”, in 5:191a and 275, are omitted as surplusage. The word “naval”, in 5:191a and 275, is omitted as covered by the word “military”.
 
 In subsection (b), the words “before October 26, 1961” are substituted for the words “or within ten years after the date of enactment of this section”, in 5:191a and 275. The last sentence of the revised subsection is substituted for 5:191a(a) (last proviso) and 275(a) (last proviso).
 
@@ -100,7 +100,7 @@ In subsection (e), the words “No payment may be made under this section” are
 
 #### References in Text
 
-The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, §1, 64 Stat. 107, which was classified to chapter 22 (§551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, the first section of which enacted this title.
+The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, §1, 64 Stat. 107, which was classified to chapter 22 (§551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47\(§801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, the first section of which enacted this title.
 
 #### Amendments
 

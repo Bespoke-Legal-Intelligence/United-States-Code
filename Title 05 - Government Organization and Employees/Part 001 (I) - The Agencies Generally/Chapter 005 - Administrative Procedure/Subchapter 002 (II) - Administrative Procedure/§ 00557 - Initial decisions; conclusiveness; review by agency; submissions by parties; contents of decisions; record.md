@@ -38,7 +38,7 @@
 
 &emsp;(D) upon receipt of a communication knowingly made or knowingly caused to be made by a party in violation of this subsection, the agency, administrative law judge, or other employee presiding at the hearing may, to the extent consistent with the interests of justice and the policy of the underlying statutes, require the party to show cause why his claim or interest in the proceeding should not be dismissed, denied, disregarded, or otherwise adversely affected on account of such violation; and
 
-&emsp;(E) the prohibitions of this subsection shall apply beginning at such time as the agency may designate, but in no case shall they begin to apply later than the time at which a proceeding is noticed for hearing unless the person responsible for the communication has knowledge that it will be noticed, in which case the prohibitions shall apply beginning at the time of his acquisition of such knowledge.
+&emsp;(E) the prohibitions of this subsection shall apply beginning at such time as the agency may designate, but in no case shall they begin to apply later than the time at which a proceeding is noticed for hearing unless the person responsible for the communication has knowledge that it will be noticed, in whichcase the prohibitions shall apply beginning at the time of his acquisition of such knowledge.
 
 (2) This subsection does not constitute authority to withhold information from Congress.
 
@@ -58,7 +58,7 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §8, 60 Stat. 242.
 
-In subsection (b), the word “employee” is substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The word “either” is added after the word “requires” in the first sentence to eliminate the need for parentheses. The words “the presiding employee or an employee qualified to preside at hearings under section 556 of this title” are substituted for “such officers” in the last sentence. The word “initial” is omitted before “decision”, the final word in the first sentence and the sixth word of the fourth sentence, toavoid confusion between the “initial decision” of the presiding employee and the “initial decision” of the agency.
+In subsection (b), the word “employee” is substituted for “officer” and “officers” in view of the definition of “employee” in section 2105. The word “either” is added after the word “requires” in the first sentence to eliminate the need for parentheses. The words “the presiding employee or an employee qualified to preside at hearings under section 556 of this title” are substituted for “such officers” in the last sentence. The word “initial” is omitted before “decision”, the final word in the first sentence and the sixth word of the fourth sentence, to avoid confusion between the “initial decision” of the presiding employee and the “initial decision” of the agency.
 
 In subsection (c), the word “employees” is substituted for “officers” in view of the definition of “employee” in section 2105.
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 553, 554, 556, 558, 706, 3105 of this title; title 2 sections 501, 502, 1219, 1220, 1405; title 7 sections 86, 87e, 87f–1, 2023, 2707, 4906, 6802, 6804; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 2602, 3636; title 20 section 1234; title 21 section 321; title 30 sections 185, 811, 823, 1415; title 39 sections 404, 3624, 3661; title 41 sections 10b–1, 422; title 42 sections 1395ww, 2241, 7407, 7502, 7511a, 7607, 11504; title 46 sections 7702, 9303; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
+This section is referred to in sections 553, 554, 556, 558, 706, 3105 of this title; title 2 sections 501, 502, 1220, 1405; title 7 sections 86, 87e, 87f–1, 2023, 2707, 4906, 6802, 6804; title 8 section 1375; title 15 sections 57a, 2605, 3412; title 16 sections 796, 839f, 2602, 3636; title 20 section 1234; title 21 section 321; title 30 sections 185, 811, 823, 1415; title 39 sections 404, 3624, 3661; title 41 section 422; title 42 sections 1320a–7c, 1395ww, 1485, 2241, 7407, 7502, 7511a, 7607, 11504; title 46 sections 7702, 9303; title 49 sections 31136, 31317; title 50 App. sections 16, 2159, 2410, 2412.
 

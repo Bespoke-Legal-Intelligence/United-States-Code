@@ -42,7 +42,7 @@ If the person entitled to compensation institutes proceedings within the period 
 
 (2) If no written approval of the settlement is obtained and filed as required by paragraph (1), or if the employee fails to notify the employer of any settlement obtained from or judgment rendered against a third person, all rights to compensation and medical benefits under this chapter shall be terminated, regardless of whether the employer or the employer's insurer has made payments or acknowledged entitlement to benefits under this chapter.
 
-(3) Any payments by the special fund established under section 944 of this title shall be alien upon the proceeds of any settlement obtained from or judgment rendered against a third person referred to under subsection (a) of this section. Notwithstanding any other provision of law, such lien shall be enforceable against such proceeds, regardless of whether the Secretary on behalf of the special fund has agreed to or has received actual notice of the settlement or judgment.
+(3) Any payments by the special fund established under section 944 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment rendered against a third person referred to under subsection (a) of this section. Notwithstanding any other provision of law, such lien shall be enforceable against such proceeds, regardless of whether the Secretary on behalf of the special fund has agreed to or has received actual notice of the settlement or judgment.
 
 (4) Any payments by a trust fund described in section 917 of this title shall be a lien upon the proceeds of any settlement obtained from or judgment recorded against a third person referred to under subsection (a) of this section. Such lien shall have priority over a lien under paragraph (3) of this subsection.
 
@@ -54,7 +54,7 @@ Where the employer is insured and the insurance carrier has assumed the payment 
 
 The right to compensation or benefits under this chapter shall be the exclusive remedy to an employee when he is injured, or to his eligible survivors or legal representatives if he is killed, by the negligence or wrong of any other person or persons in the same employ: <i>Provided</i>, That this provision shall not affect the liability of a person other than an officer or employee of the employer.
 
-(Mar. 4, 1927, ch. 509, §33, 44 Stat. 1440; June 25, 1938, ch. 685, §§12, 13, 52 Stat. 1168; Aug. 18, 1959, Pub. L. 86–171, 73 Stat. 391; Oct. 27, 1972, Pub. L. 92–576, §15(f)–(h), 86 Stat. 1262; Sept. 28, 1984, Pub. L. 98–426, §21, 98 Stat. 1652.)
+(Mar. 4, 1927, ch. 509, §33, 44 Stat. 1440; June 25, 1938, ch. 685, §§12, 13, 52 Stat. 1168; Pub. L. 86–171, Aug. 18, 1959, 73 Stat. 391; Pub. L. 92–576, §15(f)–(h), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, §21, Sept. 28, 1984, 98 Stat. 1652.)
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Subsec. (g). Pub. L. 98–426, §21(d), designated existing provisions as par. (
 
 1972—Subsecs. (b), (e)(1)(A). Pub. L. 92–576, §15(f), (g), inserted “or Board” after “deputy commissioner”.
 
-Subsec. (g). Pub. L. 92–576, §15(h), substituted “if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury or death within thirty days after such compromise is made” for “if such compromise is made with his written approval”.
+Subsec. (g). Pub. L. 92–576, §15(h), substituted “if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form providedby the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury or death within thirty days after such compromise is made” for “if such compromise is made with his written approval”.
 
 1959—Subsec. (a). Pub. L. 86–171 inserted “or a person or persons in his employ” after “employer” and substituted “he need not elect whether” for “he may elect, by giving notice to the deputy commissioner in such manner as the Secretary may provide,”.
 
@@ -90,7 +90,7 @@ Subsecs. (h), (i). Pub. L. 86–171 redesignated subsec. (i) as (h) and struck o
 
 1938—Subsec. (b). Act June 25, 1938, §12, inserted “under an award in a compensation order filed by the deputy commissioner” and struck out “, whether or not the person entitled to compensation has notified the deputy commissioner of his election” at end of sentence.
 
-Subsec. (e). Act June 25, 1938, §12, redesignated par. (1)(C) as par. (1)(C) and (D) and included in said par.\(1)(D) the present value of the cost of benefits furnished.
+Subsec. (e). Act June 25, 1938, §12, redesignated par. (1)(C) as par. (1)(C) and (D) and included in said par. (1)(D) the present value of the cost of benefits furnished.
 
 Subsec. (i). Act June 25, 1938, §13, added subsec. (i).
 

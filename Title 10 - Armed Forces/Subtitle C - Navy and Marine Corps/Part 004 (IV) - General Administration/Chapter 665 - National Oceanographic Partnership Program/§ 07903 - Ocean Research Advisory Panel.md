@@ -2,13 +2,51 @@
 
 (a)
 
-Establishment.—The Council shall establish an Ocean Research Advisory Panel consisting of not less than 10 and not more than 18 members appointed by the Council from among persons eminent in the fields of marine science or marine policy, or related fields, and who are representative, at a minimum, of the interests of government, academia, and industry.
+Establishment.—The Council shall establish an Ocean Research Advisory Panel consisting of not less than 10 and not more than 18 members appointed by the chairman, including the following:
+
+&emsp;(1) One member who will represent the National Academy of Sciences.
+
+&emsp;(2) One member who will represent the National Academy of Engineering.
+
+&emsp;(3) One member who will represent the Institute of Medicine.
+
+&emsp;(4) Members selected from among individuals who will represent the views of ocean industries, State governments, academia, and such other views as the chairman considers appropriate.
+
+&emsp;(5) Members selected from among individuals eminent in the fields of marine science or marine policy, or related fields.
 
 (b)
 
-Responsibilities.—The Council shall assign to the Advisory Panel responsibilities that the Council considers appropriate.
+Responsibilities.—The Council shall assign the following responsibilities to the Advisory Panel:
 
-(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2473.)
+&emsp;(1) To advise the Council on policies and procedures to implement the National Oceanographic Partnership Program.
+
+&emsp;(2) To advise the Council on selection of partnership projects and allocation of funds for partnership projects for implementation under the program.
+
+&emsp;(3) To advise the Council on matters relating to national oceanographic data requirements.
+
+&emsp;(4) Any additional responsibilities that the Council considers appropriate.
+
+(c)
+
+Funding.—The Secretary of the Navy annually shall make funds available to support the activities of the Advisory Panel.
+
+(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2473; amended Pub. L. 105–85, div. A, title II, §241(b)(1), Nov. 18, 1997, 111 Stat. 1666.)
+
+#### Amendments
+
+1997—Pub. L. 105–85 amended text generally. Prior to amendment, text read as follows:
+
+“(a)
+
+Establishment.—The Council shall establish an Ocean Research Advisory Panel consisting of not less than 10 and not more than 18 members appointed by the Council from among persons eminent in the fields of marine science or marine policy, or related fields, and who are representative, at a minimum, of the interests of government, academia, and industry.
+
+“(b)
+
+Responsibilities.—The Council shall assign to the Advisory Panel responsibilities that the Council considers appropriate.”
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective as of Sept. 23, 1996, as if included in section 282 of Pub. L. 104–201, see section 241(d) of Pub. L. 105–85, set out as a note under section 7902 of this title.
 
 #### Termination of Advisory Panels
 
@@ -16,5 +54,5 @@ Advisory panels established after Jan. 5, 1973, to terminate not later than the 
 
 #### Initial Appointments of Panel Members
 
-Section 282(c) of Pub. L. 104–201 provided that: “The National Ocean Research Leadership Council established by section 7902 of title 10, United States Code, as added by subsection (a)(1), shall make the appointments required by section 7903 of such title not later than January 1, 1997.”
+Section 282(b), formerly §282(c), of Pub. L. 104–201, as renumbered and amended by Pub. L. 105–85, div. A, title II, §241(b)(2), (c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that: “The National Ocean Research Leadership Council established by section 7902 of title 10, United States Code, as added by subsection (a)(1), shall make the appointments required by section 7903 of such title not later than January 1, 1998.”
 

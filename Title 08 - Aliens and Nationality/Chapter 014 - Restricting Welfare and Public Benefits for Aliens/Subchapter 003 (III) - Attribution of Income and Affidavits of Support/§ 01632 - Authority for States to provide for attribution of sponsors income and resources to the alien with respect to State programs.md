@@ -2,7 +2,7 @@
 
 #### (a) Optional application to State programs
 
-Except as provided in subsection (b) of this section, in determining the eligibility and the amount of benefits of an alien for any State public benefits (as defined in section 1622(c) <sup>1</sup> of this title), the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
+Except as provided in subsection (b) of this section, in determining the eligibility and the amount of benefits of an alien for any State public benefits, the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
 
 &emsp;(1) the income and resources of any individual who executed an affidavit of support pursuant to section 1183a of this title (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) on behalf of such alien, and
 
@@ -26,7 +26,7 @@ Subsection (a) of this section shall not apply with respect to the following Sta
 
 &emsp;(7) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General of a State, after consultation with appropriate agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
 
-(Pub. L. 104–193, title IV, §422, Aug. 22, 1996, 110 Stat. 2271; Pub. L. 104–208, div. C, title V, §551(b)(1), Sept. 30, 1996, 110 Stat. 3009–679.)
+(Pub. L. 104–193, title IV, §422, Aug. 22, 1996, 110 Stat. 2271; Pub. L. 104–208, div. C, title V, §551(b)(1), Sept. 30, 1996, 110 Stat. 3009–679; Pub. L. 105–33, title V, §5581(b)(2), Aug. 5, 1997, 111 Stat. 643.)
 
 #### References in Text
 
@@ -38,7 +38,13 @@ The Child Nutrition Act of 1966, referred to in subsec. (b)(4), is Pub. L. 89–
 
 #### Amendments
 
+1997—Subsec. (a). Pub. L. 105–33 struck out “(as defined in section 1622(c) of this title)” after “public benefits” in introductory provisions.
+
 1996—Subsec. (a)(1). Pub. L. 104–208 inserted “and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996” after “section 423”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
 #### Effective Date of 1996 Amendment
 

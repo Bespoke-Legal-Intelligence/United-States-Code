@@ -18,7 +18,7 @@ Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance the development of human potential, to strengthen the Nation's capacity to provide high-quality education, and to increase opportunities for Hispanic Americans to participate in and benefit from Federal education programs, it is hereby ordered as follows:
 
-Section 1. There shall be established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans (Commission). The Commission shall consist of not more than 25 members, who shall be appointed by the President and shall report to the Secretary of Education (Secretary). The Commission shall comprise representatives who: (a) have a history of involvement with the Hispanic community; (b) are from the education, civil rights, and business communities; or (c) are from civic associations representing the diversity within the Hispanic community. In addition, the President may appoint other representatives as he deems appropriate.
+Section 1. There shall be established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans (Commission). The Commission shall consist of not more than 25 members, who shall be appointed by thePresident and shall report to the Secretary of Education (Secretary). The Commission shall comprise representatives who: (a) have a history of involvement with the Hispanic community; (b) are from the education, civil rights, and business communities; or (c) are from civic associations representing the diversity within the Hispanic community. In addition, the President may appoint other representatives as he deems appropriate.
 
 Sec. 2. The Commission shall provide advice to the President and the Secretary on: (a) the progress of Hispanic Americans toward achievement of the National Education Goals and other standards of educational accomplishment; (b) the development, monitoring, and coordination of Federal efforts to promote high-quality education for Hispanic Americans; (c) ways to increase State, private sector, and community involvement in improving education; and (d) ways to expand and complement Federal education initiatives. The Commission shall provide advice to the President through the Secretary.
 
@@ -44,7 +44,9 @@ Sec. 10. Executive Order No. 12729 is revoked.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Extension of Term of President's Advisory Commission on Education Excellence for Hispanic Americans
+#### Extension of Term of President's Advisory Commission on Educational Excellence for Hispanic Americans
 
-Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

@@ -18,7 +18,7 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 &emsp;(A) In the Senate, debate on a joint resolution introduced under subsection (a) of this section, amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
 
-&emsp;(B) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the joint resolution is agreed to or disagreed to is not in order, and a motion to recommit the joint resolution is not in order.
+&emsp;(B) A motion to postpone, or a motion to proceed to the consideration of other businessis not in order. A motion to reconsider the vote by which the joint resolution is agreed to or disagreed to is not in order, and a motion to recommit the joint resolution is not in order.
 
 &emsp;(C)(i) No amendment that is not germane to the provisions of the joint resolution or to the order issued under section 904 of this title shall be in order in the Senate. In the Senate, an amendment, any amendment to an amendment, or any debatable motion or appeal is debatable for not to exceed 30 minutes to be equally divided between, and controlled by, the mover and the majority leader (or their designees), except that in the event that the majority leader favors the amendment, motion, or appeal, the minority leader (or the minority leader's designee) shall control the time in opposition to the amendment, motion, or appeal.
 
@@ -34,7 +34,7 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 #### (6) Conference reports
 
-&emsp;In the Senate, points of order under titles III, IV, and VI of the Congressional Budget Act of 1974 \[2 U.S.C. 631 et seq., 651 et seq., 665 et seq.\] are applicable to a conference report on the joint resolution or any amendments in disagreement thereto.
+&emsp;In the Senate, points of order under titles III, IV, and VI <sup>1</sup> of the Congressional Budget Act of 1974 \[2 U.S.C. 631 et seq., 651 et seq.\] are applicable to a conference report on the joint resolution or any amendments in disagreement thereto.
 
 #### (7) Resolution from other House
 
@@ -60,9 +60,11 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 #### Termination of Section
 
-<i>For termination of section by section 14002(c)(3)(A) of Pub. L. 103–66, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
 
 #### References in Text
 
-The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III, IV, and VI of the Act are classified generally to subchapters I (§631et seq.), II (§651 et seq.), and IV (§665 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to subchapters I (§631 et seq.) and II (§651 et seq.), respectively, of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

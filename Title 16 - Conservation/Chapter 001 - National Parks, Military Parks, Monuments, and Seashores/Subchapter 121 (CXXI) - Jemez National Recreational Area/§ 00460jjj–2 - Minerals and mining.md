@@ -32,6 +32,8 @@ Mineral leasing laws, referred to in subsec. (b), have been defined in sections 
 
 Geothermal leasing laws, referred to in subsec. (b), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
+For mineral material disposal laws, referred to in subsec. (b), see the Materials Act of July 31, 1947, act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
+
 #### Change of Name
 
 References to United States Claims Court deemed to refer to United States Court of Federal Claims, see section 902(b) of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.

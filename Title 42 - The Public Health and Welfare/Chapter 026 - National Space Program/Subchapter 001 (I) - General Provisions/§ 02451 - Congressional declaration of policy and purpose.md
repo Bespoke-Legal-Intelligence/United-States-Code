@@ -6,7 +6,7 @@ The Congress declares that it is the policy of the United States that activities
 
 #### (b) Aeronautical and space activities for welfare and security of United States; control by civilian agency; exceptions
 
-The Congress declares that the general welfare and security of the United States require that adequate provision be made for aeronautical and space activities. The Congress further declares that such activities shall be the responsibility of, and shall be directed by, a civilian agency exercising control over aeronautical and space activities sponsored by the United States, except that activities peculiar to or primarily associated with the development of weapons systems, military operations, or the defense of the United States (including the research and development necessary to make effective provision for the defense of the United States) shall be the responsibility of, and shall be directed by, the Department of Defense; and that determination as to which such agency has responsibility for and direction of any such activity shall be made by the President in conformity with section 2471(e) of this title.
+The Congress declares that the general welfare and security of the United States require that adequate provision be made for aeronautical and space activities. The Congress further declares that such activities shall be the responsibility of, and shall be directed by, a civilian agency exercising control over aeronautical and space activities sponsored by the United States, except that activities peculiar to or primarily associated with the development of weapons systems, military operations, or the defense of the United States (including the research and developmentnecessary to make effective provision for the defense of the United States) shall be the responsibility of, and shall be directed by, the Department of Defense; and that determination as to which such agency has responsibility for and direction of any such activity shall be made by the President in conformity with section 2471(e) of this title.
 
 #### (c) Commercial use of space
 
@@ -326,7 +326,7 @@ Section 101 of Pub. L. 100–685 provided that: “Congress finds that—
 
 &emsp;&emsp;“(D) to reduce the costs of space transportation and related services;
 
-&emsp;“(17) recognizing that communications advancements are critical to all United States space activities, the Administration should continue research and development efforts for future advances in space communications technologies;
+&emsp;“(17) recognizing that communications advancements are critical to all United States space activities, the Administration should continue researchand development efforts for future advances in space communications technologies;
 
 &emsp;“(18) the goal of aeronautical research and technology development and validation activities should be to contribute to a national technology base that will enhance United States preeminence in civil and military aviation and improve the safety and efficiency of the United States air transportation system; and
 
@@ -524,7 +524,7 @@ Sec. 111. No later than September 30, 1988, the Administrator shall submit a det
 
 “
 
-Sec. 112. The Intergovernmental Agreement currently being negotiated between the United States Government and Canada, Japan, and member governments of the European Space Agency, and the Memorandum of Understanding currently being negotiated between the National Aeronautics and Space Administration and its counterpart agencies in Canada, Japan, and Europe concerning the detailed design, development, construction, operation, or utilization of the space station shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of theHouse of Representatives. No such agreement shall take effect until 30 days have passed after the receipt by such committees of the agreement.”
+Sec. 112. The Intergovernmental Agreement currently being negotiated between the United States Government and Canada, Japan, and member governments of the European Space Agency, and the Memorandum of Understanding currently being negotiated between the National Aeronautics and Space Administration and its counterpart agencies in Canada, Japan, and Europe concerning the detailed design, development, construction, operation, or utilization of the space station shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. No such agreement shall take effect until 30 days have passed after the receipt by such committees of the agreement.”
 
 #### Feasibility Study on Flight Opportunities for Diverse Segment of American Public
 
@@ -630,7 +630,7 @@ Sec. 3. <i>Responsibilities of the Chairman</i>. (a) The Chairman shall serve as
 
 Sec. 4. <i>National Space Policy Planning Process</i>. (a) The Council will establish a process for developing and monitoring the implementation of national space policy and strategy.
 
-(b) To implement this process, each agency represented on the Council shall provide such information regarding its current and planned space activities as the Chairman shall request.
+(b) To implement this process, each agency represented on the Council shall provide such informationregarding its current and planned space activities as the Chairman shall request.
 
 (c) The head of each executive department and agency shall ensure that its space-related activities conform to national space policy and strategy.
 

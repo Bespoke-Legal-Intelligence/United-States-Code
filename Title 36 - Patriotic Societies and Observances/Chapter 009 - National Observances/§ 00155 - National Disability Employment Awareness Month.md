@@ -10,5 +10,5 @@ The President is hereby requested to issue a suitable proclamation each year, an
 
 1988—Pub. L. 100–630 substituted “the month of October in” for “the first week in October of”, “National Disability Employment Awareness Month” for “National Employ the Handicapped Week”, “such month” for “such week”, and “workers with disabilities” for “handicapped workers”.
 
-1970—Pub. L. 91–442 changed the designation “National Employ the Physically Handicapped Week” to “National Employ the Handicapped Week” and changedthe purposes from enlisting public support for and interest in the employment of otherwise qualified but physically handicapped workers to enlisting public support for and interest in the employment of otherwise qualified but handicapped workers.
+1970—Pub. L. 91–442 changed the designation “National Employ the Physically Handicapped Week” to “National Employ the Handicapped Week” and changed the purposes from enlisting public support for and interest in the employment of otherwise qualified but physically handicapped workers to enlisting public support for and interest in the employment of otherwise qualified but handicapped workers.
 

@@ -14,7 +14,7 @@ General.—In this subchapter—
 
 (b)
 
-Major Contraction.—The Secretary may find a reduction of less than 7.5 percent of the number of full-time employees is part of a major contraction if the Secretary decides another reduction is likely to occur within the 12-month period in which the first reduction occurs that, when included with the first reduction, will result in a total reduction of more than 7.5 percent.
+Major Contraction.—The Secretary may find a reduction of less than 7.5 percent of thenumber of full-time employees is part of a major contraction if the Secretary decides another reduction is likely to occur within the 12-month period in which the first reduction occurs that, when included with the first reduction, will result in a total reduction of more than 7.5 percent.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1157.)
 

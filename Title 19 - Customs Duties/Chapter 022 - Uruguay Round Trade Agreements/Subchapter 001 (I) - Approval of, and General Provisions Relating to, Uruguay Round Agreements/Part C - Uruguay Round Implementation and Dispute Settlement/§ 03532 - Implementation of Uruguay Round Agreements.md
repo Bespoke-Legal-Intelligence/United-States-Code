@@ -26,7 +26,7 @@ In furtherance of the objective set forth in subsection (a) of this section, the
 
 #### (1) In general
 
-&emsp;Not later than 30 days after the end of any calendar year in which the Ministerial Conference or the General Council adopts by vote any decision to take any action described inparagraph (1), (2), (4), or (6) of subsection (b) of this section, the Trade Representative shall submit a report to the appropriate congressional committees describing—
+&emsp;Not later than 30 days after the end of any calendar year in which the Ministerial Conference or the General Council adopts by vote any decision to take any action described in paragraph (1), (2), (4), or (6) of subsection (b) of this section, the Trade Representative shall submit a report to the appropriate congressional committees describing—
 
 &emsp;&emsp;(A) the nature of the decision;
 

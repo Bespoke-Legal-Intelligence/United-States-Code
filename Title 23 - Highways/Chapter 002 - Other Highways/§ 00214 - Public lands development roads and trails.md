@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1983—Subsec. (c). Pub. L. 97–424 struck out subsec. (c) which provided for prior approval by the Secretary of all projects for public lands development roads and trails and for general supervision by the Secretary of their construction.
+1983—Subsec. (c). Pub. L. 97–424 struck out subsec. (c) which provided for prior approval by the Secretary ofall projects for public lands development roads and trails and for general supervision by the Secretary of their construction.
 

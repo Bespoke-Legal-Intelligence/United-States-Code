@@ -2,19 +2,33 @@
 
 A prisoner in custody under sentence of a court established by Act of Congress claiming the right to be released upon the ground that the sentence was imposed in violation of the Constitution or laws of the United States, or that the court was without jurisdiction to impose such sentence, or that the sentence was in excess of the maximum authorized by law, or is otherwise subject to collateral attack, may move the court which imposed the sentence to vacate, set aside or correct the sentence.
 
-A motion for such relief may be made at any time.
-
 Unless the motion and the files and records of the case conclusively show that the prisoner is entitled to no relief, the court shall cause notice thereof to be served upon the United States attorney, grant a prompt hearing thereon, determine the issues and make findings of fact and conclusions of law with respect thereto. If the court finds that the judgment was rendered without jurisdiction, or that the sentence imposed was not authorized by law or otherwise open to collateral attack, or that there has been such a denial or infringement of the constitutional rights of the prisoner as to render the judgment vulnerable to collateral attack, the court shall vacate and set the judgment aside and shall discharge the prisoner or resentence him or grant a new trial or correct the sentence as may appear appropriate.
 
 A court may entertain and determine such motion without requiring the production of the prisoner at the hearing.
-
-The sentencing court shall not be required to entertain a second or successive motion for similar relief on behalf of the same prisoner.
 
 An appeal may be taken to the court of appeals from the order entered on the motion as from a final judgment on application for a writ of habeas corpus.
 
 An application for a writ of habeas corpus in behalf of a prisoner who is authorized to apply for relief by motion pursuant to this section, shall not be entertained if it appears that the applicant has failed to apply for relief, by motion, to the court which sentenced him, or that such court has denied him relief, unless it also appears that the remedy by motion is inadequate or ineffective to test the legality of his detention.
 
-(June 25, 1948, ch. 646, 62 Stat. 967; May 24, 1949, ch. 139, §114, 63 Stat. 105.)
+A 1-year period of limitation shall apply to a motion under this section. The limitation period shall run from the latest of—
+
+&emsp;(1) the date on which the judgment of conviction becomes final;
+
+&emsp;(2) the date on which the impediment to making a motion created by governmental action in violation of the Constitution or laws of the United States is removed, if the movant was prevented from making a motion by such governmental action;
+
+&emsp;(3) the date on which the right asserted was initially recognized by the Supreme Court, if that right has been newly recognized by the Supreme Court and made retroactively applicable to cases on collateral review; or
+
+&emsp;(4) the date on which the facts supporting the claim or claims presented could have been discovered through the exercise of due diligence.
+
+Except as provided in section 408 of the Controlled Substances Act, in all proceedings brought under this section, and any subsequent proceedings on review, the court may appoint counsel, except as provided by a rule promulgated by the Supreme Court pursuant to statutory authority. Appointment of counsel under this section shall be governed by section 3006A of title 18.
+
+A second or successive motion must be certified as provided in section 2244 by a panel of the appropriate court of appeals to contain—
+
+&emsp;(1) newly discovered evidence that, if proven and viewed in light of the evidence as a whole, would be sufficient to establish by clear and convincing evidence that no reasonable factfinder would have found the movant guilty of the offense; or
+
+&emsp;(2) a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.
+
+(June 25, 1948, ch. 646, 62 Stat. 967; May 24, 1949, ch. 139, §114, 63 Stat. 105; Pub. L. 104–132, title I, §105, Apr. 24, 1996, 110 Stat. 1220.)
 
 #### Historical and Revision Notes
 
@@ -26,13 +40,19 @@ This section restates, clarifies and simplifies the procedure in the nature of t
 
 This amendment conforms language of section 2255 of title 28, U.S.C., with that of section 1651 of such title and makes it clear that the section is applicable in the district courts in the Territories and possessions.
 
+#### References in Text
+
+Section 408 of the Controlled Substances Act, referred to in text, is classified to section 848 of Title 21, Food and Drugs.
+
 #### Amendments
 
-1949—Act May 24, 1949, substituted “court established by Act of Congress” for “court of the United States” in first par.
+<b>1996</b>—Pub. L. 104–132 inserted at end three new undesignated paragraphs beginning “A 1-year period of limitation”, “Except as provided in section 408 of the Controlled Substances Act”, and “A second or successive motion must be certified” and struck out second and fifth undesignated pars. providing, respectively, that “A motion for such relief may be made at any time.” and “The sentencing court shall not be required to entertain a second or successive motion for similar relief on behalf of the same prisoner.”
+
+<b>1949</b>—Act May 24, 1949, substituted “court established by Act of Congress” for “court of the United States” in first par.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 753, 1825 of this title; title 18 section 3006A; title 21 section 848.
+This section is referred to in sections 753, 1825, 2244, 2253, 2266 of this title; title 18 section 3006A; title 21 section 848.
 
 #### Approval and Effective Date of Rules Governing Section 2254 Cases and Section 2255 Proceedings For United States District Courts
 
@@ -44,7 +64,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective February 1, 1977, as amended to January 16, 1996)</i>
+#### (<i>Effective February 1, 1977, as amended to January 26, 1998)</i>
 
 Rule
 
@@ -160,11 +180,11 @@ Under these rules the application for relief is in the form of a motion rather t
 
 If the movant is attacking a federal judgment which will subject him to future custody, he must be in present custody (see rule 1 and advisory committee note) as the result of a state or federal governmental action. He need not alter the nature of the motion by trying to include the government officer who presently has official custody of him as a psuedo-respondent, or third-party plaintiff, or other fabrication. The court hearing his motion attacking the future custody can exercise jurisdiction over those having him in present custody without the use of artificial pleading devices.
 
-There is presently a split among the courts as to whether a person currently in state custody may use a §2255 motion to obtain relief from a federal judgment under which he will be subjected to custody in the future. Negative, see <i>Newton v. United States</i>, 329 F.Supp. 90 (S.D. Texas 1971); affirmative, see <i>Desmond v. The United States Board of Parole</i>, 397 F.2d 386 (1st Cir. 1968), cert. denied, 393 U.S. 919 (1968); and <i>Paalino v. United States</i>, 314 F.Supp. 875 (C.D.Cal. 1970). It is intended that these rules settle the matter in favor of the prisoner's being able to file a §2255 motion for relief under those circumstances. The proper district in which to file such a motion is the one in which is situated the court which rendered the sentence under attack.
+There is presently a split among the courts as to whether a person currently in state custody may use a §2255 motion to obtain relief from a federal judgment under which he will be subjected to custody in the future. Negative, see <i>Newton v. United States</i>, 329 F.Supp. 90 (S.D. Texas 1971); affirmative, see <i>Desmond v. The United States Board of Parole</i>, 397 F.2d 386 (1st Cir. 1968),cert. denied, 393 U.S. 919 (1968); and <i>Paalino v. United States</i>, 314 F.Supp. 875 (C.D.Cal. 1970). It is intended that these rules settle the matter in favor of the prisoner's being able to file a §2255 motion for relief under those circumstances. The proper district in which to file such a motion is the one in which is situated the court which rendered the sentence under attack.
 
 Under rule 35, Federal Rules of Criminal Procedure, the court may correct an illegal sentence or a sentence imposed in an illegal manner, or may reduce the sentence. This remedy should be used, rather than a motion under these §2255 rules, whenever applicable, but there is some overlap between the two proceedings which has caused the courts difficulty.
 
-The movant should not be barred from an appropriate remedy because he has misstyled his motion. See <i>United States v. Morgan</i>, 346 U.S. 502, 505 (1954). The court should construe it as whichever one is proper under the circumstances and decide it on its merits. For a §2255 motion construed as a rule 35 motion, see <i>Heflin v. United States</i>, 358 U.S. 415 (1959); and <i>United States v. Coke</i>, 404 F.2d 836 (2d Cir. 1968). For writ of error coram nobis treated as a rule 35 motion, see <i>Hawkins v. United States</i>, 324 F.Supp. 223 (E.D.Texas, Tyler Division 1971). For a rule 35 motion treated as a §2255motion, see <i>Moss v. United States</i>, 263 F.2d 615 (5th Cir. 1959); <i>Jones v. United States</i>, 400 F.2d 892 (8th Cir. 1968), cert. denied 394 U.S. 991 (1969); and <i>United States v. Brown</i>, 413 F.2d 878 (9th Cir. 1969), cert. denied, 397 U.S. 947 (1970).
+The movant should not be barred from an appropriate remedy because he has misstyled his motion. See <i>United States v. Morgan</i>, 346 U.S. 502, 505 (1954). The court should construe it as whichever one is proper under the circumstances and decide it on its merits. For a §2255 motion construed as a rule 35 motion, see <i>Heflin v. United States</i>, 358 U.S. 415 (1959); and <i>United States v. Coke</i>, 404 F.2d 836 (2d Cir. 1968). For writ of error coram nobis treated as a rule 35 motion, see <i>Hawkins v. United States</i>, 324 F.Supp. 223 (E.D.Texas, Tyler Division 1971). For a rule 35 motion treated as a §2255 motion, see <i>Moss v. United States</i>, 263 F.2d 615 (5th Cir. 1959); <i>Jones v. United States</i>, 400 F.2d 892 (8th Cir. 1968), cert. denied 394 U.S. 991 (1969); and <i>United States v. Brown</i>, 413 F.2d 878 (9th Cir. 1969), cert. denied, 397 U.S. 947 (1970).
 
 One area of difference between §2255 and rule 35 motions is that for the latter there is no requirement that the movant be “in custody.” <i>Heflin v. United States</i>, 358 U.S. 415, 418, 422 (1959); <i>Duggins v. United States</i>, 240 F.2d 479, 483 (6th Cir. 1957). Compare with rule 1 and advisory committee note for §2255 motions. The importance of this distinction has decreased since <i>Peyton v. Rowe</i>, 391 U.S. 54 (1968), but it might still make a difference in particular situations.
 
@@ -196,7 +216,7 @@ The courts have made even greater use of §2255 in these types of situations. In
 
 In <i>United States v. McCarthy</i>, 433 F.2d 591, 592 (1st Cir. 1970), the court allowed a prisoner who was past the time limit for a proper rule 35 motion to use §2255 to attack the sentence which he received upon a plea of guilty on the ground that it was induced by an unfulfilled promise of the prosecutor to recommend leniency. The court specifically noted that under §2255 this was a proper collateral attack on the sentence and there was no need to attack the conviction as well.
 
-The court in <i>United States v. Malcolm</i>, 432 F.2d 809, 814, 818 (2d Cir. 1970), allowed a prisoner to challenge his sentence under §2255 without attacking the conviction. It held rule 35 inapplicable because the sentence was not illegal on its face, but the manner in which the sentence was imposed raised a question of the denial of due process in the sentencing itself which was cognizable under §2255.
+The court in <i>United States v. Malcolm</i>, 432 F.2d 809, 814, 818 (2d Cir. 1970), allowed a prisoner to challenge his sentence under §2255 without attacking the conviction. It held rule 35 inapplicable because the sentence was not illegal on its face, but the manner in which the sentence was imposed raised a question of the denial of dueprocess in the sentencing itself which was cognizable under §2255.
 
 The flexible approach taken by the courts in the above cases seems to be the reasonable way to handle these situations in which rule 35 and §2255 appear to overlap. For a further discussion of this problem, see C. Wright, Federal Practice and Procedure; Criminal §§581–587 (1969, Supp. 1975).
 
@@ -208,7 +228,7 @@ Subdivision (b). The amendment takes into account 28 U.S.C. §1746, enacted afte
 
 #### Amendments
 
-1976—Subd. (b). Pub. L. 94–426, §2(3), inserted “substantially” after “The motion shall be in”, and struck out requirement that the motion follow the prescribed form.
+<b>1976</b>—Subd. (b). Pub. L. 94–426, §2(3), inserted “substantially” after “The motion shall be in”, and struck out requirement that the motion follow the prescribed form.
 
 Subd. (d). Pub. L. 94–426, §2(4), inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a motion for noncompliance without a judge so directing.
 
@@ -252,7 +272,7 @@ Reference to judge; dismissal or order to answer. The original motion shall be p
 
 (b)
 
-Initial consideration by judge. The motion, together with all the files, records, transcripts, and correspondence relating to the judgment under attack, shall be examined promptly by the judge to whom it is assigned. If it plainly appears from the face of the motion and any annexed exhibits and the prior proceedings in the case that the movant is not entitled to relief in the district court, the judge shall make an order for its summary dismissal and cause the movant to be notified. Otherwise, the judge shall order the United States Attorney to file an answer or other pleading within the period of time fixed by the court or to take such other action as the judge deems appropriate.
+Initial consideration by judge. The motion, together with all the files, records, transcripts, and correspondence relating to the judgment under attack, shall be examined promptly by the judge to whom it is assigned. If it plainly appears from the face of the motion and any annexed exhibits and the prior proceedings in the case that the movant is not entitled to relief in the district court, the judge shall make an orderfor its summary dismissal and cause the movant to be notified. Otherwise, the judge shall order the United States Attorney to file an answer or other pleading within the period of time fixed by the court or to take such other action as the judge deems appropriate.
 
 #### Advisory Committee Note
 
@@ -308,7 +328,7 @@ There is no requirement that the movant exhaust his remedies prior to seeking re
 
 There is nothing in §2255 which corresponds to the §2248 requirement of a traverse to the answer. Numerous cases have held that the government's answer and affidavits are not conclusive against the movant, and if they raise disputed issues of fact a hearing must be held. <i>Machibroda v. United States</i>, 368 U.S. 487, 494, 495 (1962); <i>United States v. Salerno</i>, 290 F.2d 105, 106 (2d Cir. 1961); <i>Romero v. United States</i>, 327 F.2d 711, 712 (5th Cir. 1964); <i>Scott v. United States</i>, 349 F.2d 641, 642, 643 (6th Cir. 1965); <i>Schiebelhut v. United States</i>, 357 F.2d 743, 745 (6th Cir. 1966); and <i>Del Piano v. United States</i>, 362 F.2d 931, 932, 933 (3d Cir. 1966). None of these cases make any mention of a traverse by the movant to the government's answer. As under rule 5 of the §2254 rules, there is no intention here that such a traverse be required, except under special circumstances. See advisory committee note to rule 9.
 
-Subdivision (b) provides for the government to supplement its answers with appropriate copies of transcripts or briefs if for some reason the judge does not already have them under his control. This is becausethe government will in all probability have easier access to such papers than the movant, and it will conserve the court's time to have the government produce them rather than the movant, who would in most instances have to apply in forma pauperis for the government to supply them for him anyway.
+Subdivision (b) provides for the government to supplement its answers with appropriate copies of transcripts or briefs if for some reason the judge does not already have them under his control. This is because the government will in all probability have easier access to such papers than the movant, and it will conserve the court's time to have the government produce them rather than the movant, who would in most instances have to apply in forma pauperis for the government to supply them for him anyway.
 
 For further discussion, see the advisory committee note to rule 5 of the §2254 rules.
 
@@ -376,7 +396,7 @@ Function of the magistrate.
 
 (c)
 
-Appointment of counsel; time for hearing. If an evidentiary hearing is required, the judge shall appoint counsel for a movant who qualifies for the appointment of counsel under 18 U.S.C. §3006A(g) and the hearing shall be conducted as promptly as practicable, having regard for the need of counsel for both parties for adequate time for investigation and preparation. These rules do not limit the appointment of counsel under 18 U.S.C. §3006A at any stage of the proceeding if the interest of justice so requires.
+Appointment of counsel; time for hearing. If an evidentiary hearing is required, thejudge shall appoint counsel for a movant who qualifies for the appointment of counsel under 18 U.S.C. §3006A(g) and the hearing shall be conducted as promptly as practicable, having regard for the need of counsel for both parties for adequate time for investigation and preparation. These rules do not limit the appointment of counsel under 18 U.S.C. §3006A at any stage of the proceeding if the interest of justice so requires.
 
 (d)
 
@@ -402,7 +422,7 @@ The amendment to Rule 8 is one of a series of parallel amendments to Federal Rul
 
 #### Amendments
 
-1976—Subd. (b). Pub. L. 94–577, §2(a)(2), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
+<b>1976</b>—Subd. (b). Pub. L. 94–577, §2(a)(2), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
 
 Subd. (c). Pub. L. 94–577, §2(b)(2), substituted “and the hearing shall be conducted” for “and shall conduct the hearing.”
 
@@ -454,7 +474,7 @@ Other courts have recognized that delay may have a negative effect on the movant
 
 #### 423 F.2d at 531
 
-In <i>Aiken v. United States</i>, 191 F.Supp. 43, 50 (M.D.N.Car. 1961), aff'd 296 F.2d 604 (4th Cir. 1961), the court said: “While motions under 28 U.S.C. §2255 may be made at any time, the lapse of time affects the good faith and credibility of the moving party.” For similar conclusions, see: <i>Parker v. United States</i>, 358 F.2d 50, 54 n. 4 (7th Cir. 1965), cert. denied, 386 U.S. 916 (1967); <i>Le Clair v. United States</i>, 241 F.Supp. 819, 824 (N.D. Ind. 1965); <i>Malone v. United States</i>, 299 F.2d 254, 256 (6th Cir.1962), cert. denied, 371 U.S. 863 (1962); <i>Howell v. United States</i>, 442 F.2d 265, 274 (7th Cir. 1971); and <i>United States v. Wiggins</i>, 184 F. Supp. 673, 676 (D.C.Cir. 1960).
+In <i>Aiken v. United States</i>, 191 F.Supp. 43, 50 (M.D.N.Car. 1961), aff'd 296 F.2d 604 (4th Cir. 1961), the court said: “While motions under 28 U.S.C. §2255 may be made at any time, the lapse of time affects the good faith and credibility of the moving party.” For similar conclusions, see: <i>Parker v. United States</i>, 358 F.2d 50, 54 n. 4 (7th Cir. 1965), cert. denied, 386 U.S. 916 (1967); <i>Le Clair v. United States</i>, 241 F.Supp. 819, 824 (N.D. Ind. 1965); <i>Malone v. United States</i>, 299 F.2d 254, 256 (6th Cir. 1962), cert. denied, 371 U.S. 863 (1962); <i>Howell v. United States</i>, 442 F.2d 265, 274 (7th Cir. 1971); and <i>United States v. Wiggins</i>, 184 F. Supp. 673, 676 (D.C.Cir. 1960).
 
 There have been holdings by some courts that a delay in filing a §2255 motion operates to increase the burden of proof which the movant must meet to obtain relief. The reasons for this, as expressed in <i>United States v. Bostic</i>, 206 F.Supp. 855 (D.C.Cir. 1962), are equitable in nature.
 
@@ -492,7 +512,7 @@ For further discussion applicable to this rule, see the advisory committee note 
 
 #### Amendments
 
-1976—Subd. (a). Pub. L. 94–426, §2(9), struck out provision which established a rebuttable presumption of prejudice to government if the petition was filed more than five years after conviction.
+<b>1976</b>—Subd. (a). Pub. L. 94–426, §2(9), struck out provision which established a rebuttable presumption of prejudice to government if the petition was filed more than five years after conviction.
 
 Subd. (b). Pub. L. 94–426, §2(10), substituted “constituted an abuse of the procedure governed by these rules” for “is not excusable”.
 
@@ -512,7 +532,7 @@ This amendment conforms the rule to 18 U.S.C. §636. See Advisory Committee Note
 
 #### Amendments
 
-1976—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties,” after “rule of the district court”.
+<b>1976</b>—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties,” after “rule of the district court”.
 
 #### Change of Name
 
@@ -520,7 +540,7 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 ### Rule 11. Time for Appeal
 
-The time for appeal from an order entered on a motion for relief made pursuant to these rules is as provided in Rule 4(a) of the Federal Rules of Appellate Procedure. Nothing in these rules shall be construed as extending the time to appeal from the original judgment of conviction in the district court.
+The time for appeal from an order entered on a motion for relief made pursuant to these rules is as provided in Rule 4(a) of the Federal Rulesof Appellate Procedure. Nothing in these rules shall be construed as extending the time to appeal from the original judgment of conviction in the district court.
 
 (As amended Apr. 30, 1979, eff. Aug. 1, 1979.)
 
@@ -530,7 +550,7 @@ Rule 11 is intended to make clear that, although a §2255 action is a continuati
 
 #### 1979 Amendment
 
-Prior to the promulgation of the Rules Governing Section 2255 Proceedings, the courts consistently held that the time for appeal in a section 2255 case is as provided in Fed.R.App.P. 4(a), that is, 60 days when the government is a party, rather than as provided in appellate rule 4(b), which says that the time is 10 days in criminal cases. This result has often been explained on the ground that rule 4(a) has to do with civil cases and that “proceedings under section 2255 are civil in nature.” E.g., <i>Rothman v. United States</i>, 508 F.2d 648 (3d Cir. 1975). Because the new section 2255 rules are based upon the premise “that a motion under §2255 is a further step in the movant's criminal case rather than a separate civil action,” see Advisory Committee Note torule 1, the question has arisen whether the new rules have the effect of shortening the time for appeal to that provided in appellate rule 4(b). A sentence has been added to rule 11 in order to make it clear that this is not the case.
+Prior to the promulgation of the Rules Governing Section 2255 Proceedings, the courts consistently held that the time for appeal in a section 2255 case is as provided in Fed.R.App.P. 4(a), that is, 60 days when the government is a party, rather than as provided in appellate rule 4(b), which says that the time is 10 days in criminal cases. This result has often been explained on the ground that rule 4(a) has to do with civil cases and that “proceedings under section 2255 are civil in nature.” E.g., <i>Rothman v. United States</i>, 508 F.2d 648 (3d Cir. 1975). Because the new section 2255 rules are based upon the premise “that a motion under §2255 is a further step in the movant's criminal case rather than a separate civil action,” see Advisory Committee Note to rule 1, the question has arisen whether the new rules have the effect of shortening the time for appeal to that provided in appellate rule 4(b). A sentence has been added to rule 11 in order to make it clear that this is not the case.
 
 Even though section 2255 proceedings are a further step in the criminal case, the added sentence correctly states current law. In <i>United States v. Hayman</i>, 342 U.S. 205 (1952), the Supreme Court noted that such appeals “are governed by the civil rules applicable to appeals from final judgments in habeas corpus actions.” In support, the Court cited <i>Mercado v. United States</i>, 183 F.2d 486 (1st Cir. 1950), a case rejecting the argument that because §2255 proceedings are criminal in nature the time for appeal is only 10 days. The <i>Mercado</i> court concluded that the situation was governed by that part of 28 U.S.C. §2255 which reads: “An appeal may be taken to the court of appeals from the order entered on the motion as from a final judgment on application for a writ of habeas corpus.” Thus, because appellate rule 4(a) is applicable in habeas cases, it likewise governs in §2255 cases even though they are criminal in nature.
 
@@ -568,7 +588,7 @@ The Federal Rules of Civil Procedure, referred to in text, are classified genera
 
 #### v.
 
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### (full name of movant)
 
@@ -982,7 +1002,7 @@ Signature of Attorney (if any)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on \_\_\_\_\_\_\_\_\_\_.
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(date)
+> &nbsp;&nbsp;&nbsp;(date)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -990,7 +1010,7 @@ Signature of Movant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### IN FORMA PAUPERIS DECLARATION
 
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### \[Insert appropriate court\]
 
@@ -1082,7 +1102,7 @@ I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, declare that I am t
 
 I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on \_\_\_\_\_\_\_\_\_\_.
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(date)
+> &nbsp;&nbsp;&nbsp;(date)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1212,7 +1232,7 @@ Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on \_\_\_\_\_\_\_\_\_\_.
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(date)
+> &nbsp;&nbsp;&nbsp;(date)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

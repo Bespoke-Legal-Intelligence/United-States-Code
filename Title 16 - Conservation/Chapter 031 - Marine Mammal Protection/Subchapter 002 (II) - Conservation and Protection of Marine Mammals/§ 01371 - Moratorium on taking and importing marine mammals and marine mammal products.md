@@ -22,7 +22,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;&emsp;(II) the average rate of the incidental taking by vessels of the harvesting nation is no more than 2.0 times that of United States vessels during the same period by the end of the 1989 fishing season and no more than 1.25 times that of United States vessels during the same period by the end of the 1990 fishing season and thereafter;
 
-&emsp;&emsp;&emsp;(III) the total number of eastern spinner dolphin (Stenella longirostris) incidentally taken by vessels of the harvesting nation during the 1989 and subsequent fishing seasons does not exceed 15 percent of the total number of all marine mammals incidentally taken by such vessels in such year and the total number of coastal spotted dolphin (Stenella attenuata) incidentally taken by such vessels in such seasons does not exceed 2 percent of the total number of all marine mammals incidentally taken by such vessels in such year;
+&emsp;&emsp;&emsp;(III) the total number of eastern spinner dolphin (Stenella longirostris) incidentallytaken by vessels of the harvesting nation during the 1989 and subsequent fishing seasons does not exceed 15 percent of the total number of all marine mammals incidentally taken by such vessels in such year and the total number of coastal spotted dolphin (Stenella attenuata) incidentally taken by such vessels in such seasons does not exceed 2 percent of the total number of all marine mammals incidentally taken by such vessels in such year;
 
 &emsp;&emsp;&emsp;(IV) the rate of incidental taking of marine mammals by the vessels of the harvesting nation during the 1989 and subsequent fishing seasons is monitored by the porpoise mortality observer program of the Inter-American Tropical Tuna Commission or an equivalent international program in which the United States participates and is based upon observer coverage that is equal to that achieved for United States vessels during the same period, except that the Secretary may approve an alternative observer program if the Secretary determines, no less than sixty days after publication in the Federal Register of the Secretary's proposal and reasons therefor, that such an alternative observer program will provide sufficiently reliable documentary evidence of the average rate of incidental taking by a harvesting nation; and
 
@@ -40,7 +40,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(3)(A) The Secretary, on the basis of the best scientific evidence available and in consultation with the Marine Mammal Commission, is authorized and directed, from time to time, having due regard to the distribution, abundance, breeding habits, and times and lines of migratory movements of such marine mammals, to determine when, to what extent, if at all, and by what means, it is compatible with this chapter to waive the requirements of this section so as to allow taking, or importing of any marine mammal, or any marine mammal product, and to adopt suitable regulations, issue permits, and make determinations in accordance with sections 1372, 1373, 1374, and 1381 of this title permitting and governing such taking and importing, in accordance with such determinations: <i>Provided, however</i>, That the Secretary, in making such determinations must be assured that the taking of such marine mammal is in accord with sound principles of resource protection and conservation as provided in the purposes and policies of this chapter: <i>Provided, further, however</i>, That no marine mammal or no marine mammal product may be imported into the United States unless the Secretary certifies that the program for taking marine mammals in the country of origin is consistent with the provisions and policies of this chapter. Products of nations not so certified may not be imported into the United States for any purpose, including processing for exportation.
 
-&emsp;(B) Except for scientific research purposes, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock as provided for inparagraph (1) of this subsection, or as provided for under paragraph (5) of this subsection, during the moratorium no permit may be issued for the taking of any marine mammal which has been designated by the Secretary as depleted, and no importation may be made of any such mammal.
+&emsp;(B) Except for scientific research purposes, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock as provided for in paragraph (1) of this subsection, or as provided for under paragraph (5) of this subsection, during the moratorium no permit may be issued for the taking of any marine mammal which has been designated by the Secretary as depleted, and no importation may be made of any such mammal.
 
 &emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the provisions of this chapter shall not apply to the use of measures—
 
@@ -120,7 +120,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(6)(A) A marine mammal product may be imported into the United States if the product—
 
-&emsp;&emsp;(i) was legally possessed and exported by any citizen of the United States in conjunction with travel outside the United States, provided that the product is imported intothe United States by the same person upon the termination of travel;
+&emsp;&emsp;(i) was legally possessed and exported by any citizen of the United States in conjunction with travel outside the United States, provided that the product is imported into the United States by the same person upon the termination of travel;
 
 &emsp;&emsp;(ii) was acquired outside of the United States as part of a cultural exchange by an Indian, Aleut, or Eskimo residing in Alaska; or
 
@@ -148,7 +148,61 @@ Except as provided in section 1379 of this title, the provisions of this chapter
 
 It shall not be a violation of this chapter to take a marine mammal if such taking is imminently necessary in self-defense or to save the life of a person in immediate danger, and such taking is reported to the Secretary within 48 hours. The Secretary may seize and dispose of any carcass.
 
-(Pub. L. 92–522, title I, §101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, §13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, §101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, §411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§4(a), 5(c), (e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, §901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, §103, title IV, §401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, §4, Apr. 30, 1994, 108 Stat. 532; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+#### (d) Good Samaritan exemption
+
+It shall not be a violation of this chapter to take a marine mammal if—
+
+&emsp;(1) such taking is imminently necessary to avoid serious injury, additional injury, or death to a marine mammal entangled in fishing gear or debris;
+
+&emsp;(2) reasonable care is taken to ensure the safe release of the marine mammal, taking into consideration the equipment, expertise, and conditions at hand;
+
+&emsp;(3) reasonable care is exercised to prevent any further injury to the marine mammal; and
+
+&emsp;(4) such taking is reported to the Secretary within 48 hours.
+
+(Pub. L. 92–522, title I, §101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, §13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, §101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, §411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§4(a), 5(c), (e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, §901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, §103, title IV, §401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, §4, Apr. 30, 1994, 108 Stat. 532; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–18, title II, §2003, June 12, 1997, 111 Stat. 174; Pub. L. 105–42, §4(a)–(c), Aug. 15, 1997, 111 Stat. 1123, 1124.)
+
+#### Amendment of Subsections (a)(2) and (e)
+
+<i>Pub. L. 105–42, §§4(a)–(c), 8, Aug. 15, 1997, 111 Stat. 1123, 1124, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, this section is amended as follows:</i>
+
+<i>Subsec. (a)(2) is amended—</i>
+
+<i>(1) by inserting after the first sentence “Such authorizations may be granted under subchapter IV of this chapter with respect to purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean, subject to regulations prescribed under that subchapter by the Secretary without regard to section 1373 of this title.”;</i>
+
+<i>(2) by striking the semicolon in the second sentence and all that follows through “practicable”;</i>
+
+<i>(3) by striking subparagraph (B) and inserting the following:</i>
+
+“(B) in the case of yellowfin tuna harvested with purse seine nets in the eastern tropical Pacific Ocean, and products therefrom, to be exported to the United States, shall require that the government of the exporting nation provide documentary evidence that—
+
+&emsp;“(i)(I) the tuna or products therefrom were not banned from importation under this paragraph before the effective date of section 4 of the International Dolphin Conservation Program Act; or
+
+&emsp;“(II) the tuna or products therefrom were harvested after the effective date of section 4 of the International Dolphin Conservation Program Act by vessels of a nation which participates in the International Dolphin Conservation Program, and such harvesting nation is either a member of the Inter-American Tropical Tuna Commission or has initiated (and within 6 months thereafter completed) all steps required of applicant nations, in accordance with article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
+
+&emsp;“(ii) such nation is meeting the obligations of the International Dolphin Conservation Program and the obligations of membership in the Inter-American Tropical Tuna Commission, including all financial obligations; and
+
+&emsp;“(iii) the total dolphin mortality limits, and per-stock per-year dolphin mortality limits permitted for that nation's vessels under the International Dolphin Conservation Program do not exceed the limits determined for 1997, or for any year thereafter, consistent with the objective of progressively reducing dolphin mortality to a level approaching zero through the setting of annual limits and the goal of eliminating dolphin mortality, and requirements of the International Dolphin Conservation Program;”;
+
+<i>(4) by redesignating subparagraphs (C), (D), and (E) as subparagraphs (D), (E), and (F), respectively, and by inserting after subparagraph (B) the following:</i>
+
+“(C) shall not accept such documentary evidence if—
+
+&emsp;“(i) the government of the harvesting nation does not provide directly or authorize the Inter-American Tropical Tuna Commission to release complete and accurate information to the Secretary in a timely manner—
+
+&emsp;&emsp;“(I) to allow determination of compliance with the International Dolphin Conservation Program; and
+
+&emsp;&emsp;“(II) for the purposes of tracking and verifying compliance with the minimum requirements established by the Secretary in regulations promulgated under section 1385(f) of this title; or
+
+&emsp;“(ii) after taking into consideration such information, findings of the Inter-American Tropical Tuna Commission, and any other relevant information, including information that a nation is consistently failing to take enforcement actions on violations which diminish the effectiveness of the International Dolphin Conservation Program, the Secretary, in consultation with the Secretary of State, finds that the harvesting nation is not in compliance with the International Dolphin Conservation Program.”; and
+
+<i>(5) by striking “subparagraph (E)” in the matter after subparagraph (F), as redesignated, and inserting “subparagraph (F)”.</i>
+
+<i>Subsec. (e) is added reading as follows:</i>
+
+#### (e) Chapter not to apply to incidental takings by United States citizens employed on foreign vessels outside United States EEZ
+
+The provisions of this chapter shall not apply to a citizen of the United States who incidentally takes any marine mammal during fishing operations outside the United States exclusive economic zone (as defined in section 1802 of this title) when employed on a foreign fishing vessel of a harvesting nation which is in compliance with the International Dolphin Conservation Program.
 
 #### References in Text
 
@@ -158,9 +212,11 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(4)(B), (5)(E)(i),
 
 The Whaling Convention Act of 1949, referred to in subsec. (a)(5)(A)(i), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, as amended, which is classified generally to subchapter II (§916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
 
-Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title and enacted provisionsset out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
+Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1997—Subsec. (d). Pub. L. 105–18 added subsec. (d).
 
 1996—Subsec. (a)(5)(E)(i). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1824(b) of this title.
 
@@ -222,7 +278,7 @@ Subsec. (a)(5)(A)(ii)(I). Pub. L. 99–659, §411(a)(3), inserted “, and on t
 
 1984—Subsec. (a)(2). Pub. L. 98–364 amended last sentence generally, restating existing provisions in cl. (A) and adding cl. (B).
 
-1981—Subsec. (a)(2). Pub. L. 97–58, §2(1)(A), provided that the immediate goal of reducing to insignificantlevels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
+1981—Subsec. (a)(2). Pub. L. 97–58, §2(1)(A), provided that the immediate goal of reducing to insignificant levels approaching a zero mortality and serious injury rate the incidental kill or serious injury of marine mammals permitted in the course of commercial fishing operations be satisfied in the case of purse seine fishing for yellowfin tuna by a continuation of the application of the best marine mammal safety techniques and equipment that are economically and technologically practicable.
 
 Subsec. (a)(3)(B). Pub. L. 97–58, §2(1)(B), struck out “is classified as belonging to an endangered species or threatened species pursuant to the Endangered Species Act of 1973 or” after “the taking of any marine mammal which”.
 
@@ -231,6 +287,10 @@ Subsec. (a)(4), (5). Pub. L. 97–58, §2(1)(C), added pars. (4) and (5).
 Subsec. (b). Pub. L. 97–58, §2(2), substituted “Except as provided in section 1379 of this title, the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and” for “The provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo” in provisions preceding par. (1) and, in par. (1), substituted “is for subsistence purposes; or” for “is for subsistence purposes by Alaskan natives who reside in Alaska, or”.
 
 1973—Subsec. (a)(3)(B). Pub. L. 93–205 substituted “or threatened species pursuant to the Endangered Species Act of 1973” for “pursuant to the Endangered Species Conservation Act of 1969”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -246,5 +306,5 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1362, 1372, 1373, 1374, 1379, 1381, 1383a, 1386, 1387, 1415, 1536 of this title.
+This section is referred to in sections 1362, 1372, 1373, 1374, 1379, 1381, 1383a, 1386, 1387, 1415, 1417, 1536 of this title.
 

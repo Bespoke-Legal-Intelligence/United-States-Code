@@ -32,7 +32,7 @@
 
 (d)(1) Unless the Board, within 15 days after the expiration of the 4-month period described in subsection (c), finds that one or more financially responsible persons (including a governmental authority) have offered financial assistance regarding that part of the railroad line to be abandoned or over which all rail transportation is to be discontinued, abandonment or discontinuance may be carried out in accordance with section 10903.
 
-(2) If the Board finds that such an offer or offers of financial assistance has been made withinsuch period, abandonment or discontinuance shall be postponed until—
+(2) If the Board finds that such an offer or offers of financial assistance has been made within such period, abandonment or discontinuance shall be postponed until—
 
 &emsp;(A) the carrier and a financially responsible person have reached agreement on a transaction for subsidy or sale of the line; or
 

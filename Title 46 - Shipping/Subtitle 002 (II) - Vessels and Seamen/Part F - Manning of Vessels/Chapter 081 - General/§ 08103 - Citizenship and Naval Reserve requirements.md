@@ -30,7 +30,7 @@
 
 (2) An individual not required by this subsection to be a citizen of the United States may be engaged only if the individual has a declaration of intention to become a citizen of the United States or other evidence of admission to the United States for permanent residence. An alien may be employed only in the steward's department of the passenger vessel.
 
-(e) If a documented vessel is deprived for any reason of the services of an individual (except the master and the radio officer) when on a foreign voyage and a vacancy consequently occurs, until the vessel's return to a port at which in the most expeditious manner a replacement who is a citizen of the United States can be obtained,an individual not a citizen of the United States may serve in—
+(e) If a documented vessel is deprived for any reason of the services of an individual (except the master and the radio officer) when on a foreign voyage and a vacancy consequently occurs, until the vessel's return to a port at which in the most expeditious manner a replacement who is a citizen of the United States can be obtained, an individual not a citizen of the United States may serve in—
 
 &emsp;(1) the vacancy; or
 

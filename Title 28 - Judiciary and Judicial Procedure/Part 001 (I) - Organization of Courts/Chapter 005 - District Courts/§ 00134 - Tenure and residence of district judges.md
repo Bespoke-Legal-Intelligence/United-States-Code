@@ -2,11 +2,11 @@
 
 (a) The district judges shall hold office during good behavior.
 
-(b) Each district judge, except in the District of Columbia, shall reside in the district or one of the districts for which he is appointed.
+(b) Each district judge, except in the District of Columbia, the Southern District of New York, and the Eastern District of New York, shall reside in the district or one of the districts for which he is appointed. Each district judge of the Southern District of New York and the Eastern District of New York may reside within 20 miles of the district to which he or she is appointed.
 
 (c) If the public interest and the nature of the business of a district court require that a district judge should maintain his abode at or near a particular place for holding court in the district or within a particular part of the district the judicial council of the circuit may so declare and may make an appropriate order. If the district judges of such a district are unable to agree as to which of them shall maintain his abode at or near the place or within the area specified in such an order the judicial council of the circuit may decide which of them shall do so.
 
-(June 25, 1948, ch. 646, 62 Stat. 896; Aug. 3, 1949, ch. 387, §2(b)(1), 63 Stat. 495; Feb. 10, 1954, ch. 6, §2(b)(13)(a), 68 Stat. 12; Mar. 18, 1959, Pub. L. 86–3, §9(c), 73 Stat. 8; May 19, 1961, Pub. L. 87–36, §2(e)(3), 75 Stat. 83; Sept. 12, 1966, Pub. L. 89–571, §1, 80 Stat. 764; Dec. 18, 1971, Pub. L. 92–208, §3(e), 85 Stat. 742.)
+(June 25, 1948, ch. 646, 62 Stat. 896; Aug. 3, 1949, ch. 387, §2(b)(1), 63 Stat. 495; Feb. 10, 1954, ch. 6, §2(b)(13)(a), 68 Stat. 12; Pub. L. 86–3, §9(c), Mar. 18, 1959, 73 Stat. 8; Pub. L. 87–36, §2(e)(3), May 19, 1961, 75 Stat. 83; Pub. L. 89–571, §1, Sept. 12, 1966, 80 Stat. 764; Pub. L. 92–208, §3(e), Dec. 18, 1971, 85 Stat. 742; Pub. L. 104–317, title VI, §607, Oct. 19, 1996, 110 Stat. 3860.)
 
 #### Historical and Revision Notes
 
@@ -24,21 +24,23 @@ The clause in said last paragraph of section 1 of title 28 providing that any di
 
 #### Amendments
 
-1971—Subsec. (c). Pub. L. 92–208 struck out provision requiring that one of the district judges for the Eastern District of Louisiana reside in East Baton Rouge Parish, Louisiana.
+<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted “the Southern District of New York, and the Eastern District of New York,” after “the District of Columbia,” and inserted “Each district judge of the Southern District of New York and the Eastern District of New York may reside within 20 miles of the district to which he or she is appointed.” at end.
 
-1966—Subsec. (a). Pub. L. 89–571 struck out provisions which excepted district judges in Puerto Rico from tenure during good behavior and which instead set eight-year terms for them to be served until their successors were appointed and qualified.
+<b>1971</b>—Subsec. (c). Pub. L. 92–208 struck out provision requiring that one of the district judges for the Eastern District of Louisiana reside in East Baton Rouge Parish, Louisiana.
 
-1961—Subsec. (c). Pub. L. 87–36 required the residence of one of the district judges for the Eastern District of Louisiana to be in East Baton Rouge Parish, Louisiana.
+<b>1966</b>—Subsec. (a). Pub. L. 89–571 struck out provisions which excepted district judges in Puerto Rico from tenure during good behavior and which instead set eight-year terms for them to be served until their successors were appointed and qualified.
 
-1959—Subsec. (a). Pub. L. 86–3 struck out provisions which limited district judges in Hawaii to a term of six years.
+<b>1961</b>—Subsec. (c). Pub. L. 87–36 required the residence of one of the district judges for the Eastern District of Louisiana to be in East Baton Rouge Parish, Louisiana.
 
-1954—Subsecs. (a) and (b) reenacted without change by act Feb. 10, 1954.
+<b>1959</b>—Subsec. (a). Pub. L. 86–3 struck out provisions which limited district judges in Hawaii to a term of six years.
+
+<b>1954</b>—Subsecs. (a) and (b) reenacted without change by act Feb. 10, 1954.
 
 Subsec. (c). Act Feb. 10, 1954, substituted entirely new provisions giving the judicial council of the circuit the authority to determine residence of district judges when it is in the public interest and the nature of the business of the district court necessitates the presence of a judge at or near a particular place for holding court in the district or within a particular part of the district, for former provisions relating to residence of one of the district judges for the District of Kansas.
 
 Subsecs. (d), (e). Act Feb. 10, 1954, struck out subsecs. (d) and (e) which related to residence of one of the district judges for the Southern District of California and one of the district judges for the Southern District of Texas.
 
-1949—Subsecs. (c) to (e). Act Aug. 3, 1949, added subsecs. (c) to (e).
+<b>1949</b>—Subsecs. (c) to (e). Act Aug. 3, 1949, added subsecs. (c) to (e).
 
 #### Effective Date of 1971 Amendment
 

@@ -50,5 +50,5 @@ Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsecti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 1060.
+This section is referred to in title 10 section 1060; title 22 section 3622.
 

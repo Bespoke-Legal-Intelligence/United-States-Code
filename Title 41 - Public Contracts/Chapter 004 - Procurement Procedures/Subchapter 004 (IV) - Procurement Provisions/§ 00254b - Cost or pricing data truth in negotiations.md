@@ -66,7 +66,7 @@
 
 #### (2) Modifications of contracts and subcontracts for commercial items
 
-&emsp;In the case of a modification of a contract or subcontract for a commercial item that is notcovered by the exception to the submission of certified cost or pricing data in paragraph (1)(A) or (1)(B), submission of certified cost or pricing data shall not be required under subsection (a) of this section if—
+&emsp;In the case of a modification of a contract or subcontract for a commercial item that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1)(A) or (1)(B), submission of certified cost or pricing data shall not be required under subsection (a) of this section if—
 
 &emsp;&emsp;(A) the contract or subcontract being modified is a contract or subcontract for which submission of certified cost or pricing data may not be required by reason of paragraph (1)(A) or (1)(B); and
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
 
-&emsp;&emsp;(C) A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
+&emsp;&emsp;(C) A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b)of title 5 shall not be disclosed by the Federal Government.
 
 #### (e) Price reductions for defective cost or pricing data
 
@@ -120,7 +120,7 @@
 
 &emsp;(B) the contracting officer should have known that the cost or pricing data in issue were defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
 
-&emsp;(C) the contract was based on an agreement between the contractor and the United Statesabout the total cost of the contract and there was no agreement about the cost of each item procured under such contract; or
+&emsp;(C) the contract was based on an agreement between the contractor and the United States about the total cost of the contract and there was no agreement about the cost of each item procured under such contract; or
 
 &emsp;(D) the prime contractor or subcontractor did not submit a certification of cost or pricing data relating to the contract as required under subsection (a)(2) of this section.
 
@@ -160,7 +160,7 @@ In this section:
 
 #### (1) Cost or pricing data
 
-&emsp;The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with subsection (e)(1)(B) of this section, another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
+&emsp;The term “cost or pricing data” means all facts that, as of the date of agreement on theprice of a contract (or the price of a contract modification) or, if applicable consistent with subsection (e)(1)(B) of this section, another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
 
 #### (2) Subcontract
 
@@ -170,7 +170,7 @@ In this section:
 
 &emsp;The term “commercial item” has the meaning provided such term by section 403(12) of this title.
 
-(June 30, 1949, ch. 288, title III, §304A, as added Oct. 13, 1994, Pub. L. 103–355, title I, §1251(a)(2), 108 Stat. 3278; amended Feb. 10, 1996, Pub. L. 104–106, div. D, title XLII, §4201(b), title XLIII, §4321(e)(3), (4), 110 Stat. 651, 675.)
+(June 30, 1949, ch. 288, title III, §304A, as added Pub. L. 103–355, title I, §1251(a)(2), Oct. 13, 1994, 108 Stat. 3278; amended Pub. L. 104–106, div. D, title XLII, §4201(b), title XLIII, §4321(e)(3), (4), Feb. 10, 1996, 110 Stat. 651, 675.)
 
 #### References in Text
 

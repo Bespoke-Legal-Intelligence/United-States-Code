@@ -274,7 +274,3 @@ I74part 1—definitions
 - [Subtitle 002 (II) - Free List](Subtitle%20002%20%28II%29%20-%20Free%20List/README.md)
 - [Subtitle 003 (III) - Special Provisions](Subtitle%20003%20%28III%29%20-%20Special%20Provisions/README.md)
 - [Subtitle 004 (IV) - Customs Administration](Subtitle%20004%20%28IV%29%20-%20Customs%20Administration/README.md)
-- [Subtitle 001 (I) - Harmonized Tariff Schedule of the United States](Subtitle%20001%20%28I%29%20-%20Harmonized%20Tariff%20Schedule%20of%20the%20United%20States/README.md)
-- [Subtitle 002 (II) - Special Provisions](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/README.md)
-- [Subtitle 003 (III) - Administrative Provisions](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/README.md)
-- [Subtitle 004 (IV) - Countervailing and Antidumping Duties](Subtitle%20004%20%28IV%29%20-%20Countervailing%20and%20Antidumping%20Duties/README.md)

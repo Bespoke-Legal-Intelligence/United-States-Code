@@ -32,7 +32,7 @@ Any permit issued under this section shall—
 
 &emsp;(ii) is registered or holds a license issued under 7 U.S.C. 2131 et seq.; and
 
-&emsp;(iii) maintains facilities for the public display of marine mammals that are open to the public on a regularly scheduled basis and that access to such facilities is not limited or restricted other than by charging of an admission fee.
+&emsp;(iii) maintains facilities for the public display of marine mammals that are open to the public on a regularly scheduled basis and thataccess to such facilities is not limited or restricted other than by charging of an admission fee.
 
 (B) A permit under this paragraph shall grant to the person to which it is issued the right, without obtaining any additional permit or authorization under this chapter, to—
 
@@ -98,7 +98,7 @@ Any permit issued under this section shall—
 
 > The Secretary may allow the public display of such a marine mammal only if the Secretary determines that such display is incidental to the authorized maintenance and will not interfere with the attainment of the survival or recovery objectives.
 
-(5)(A) The Secretary may issue a permit for the importation of polar bear parts (other than internal organs) taken in sport hunts in Canada, including polar bears taken but not imported prior to April 30, 1994, to an applicant which submits with its permit application proof that the polar bear was legally harvested in Canada by the applicant. Such a permit shall be issued if the Secretary, in consultation with the Marine Mammal Commission and after notice and opportunity for public comment, finds that—
+(5)(A) The Secretary may issue a permit for the importation of polar bear parts (other than internal organs) taken in sport hunts in Canada to an applicant which submits with its permit application proof that the polar bear was legally harvested in Canada by the applicant. Such a permit shall be issued if the Secretary, in consultation with the Marine Mammal Commission and after notice and opportunity for public comment, finds that—
 
 &emsp;(i) Canada has a monitored and enforced sport hunting program consistent with the purposes of the Agreement on the Conservation of Polar Bears;
 
@@ -113,6 +113,8 @@ Any permit issued under this section shall—
 (C)(i) The Secretary shall undertake a scientific review of the impact of permits issued under this paragraph on the polar bear population stocks in Canada within 2 years after April 30, 1994. The Secretary shall provide an opportunity for public comment during the course of such review, and shall include a response to such public comment in the final report on such review.
 
 (ii) The Secretary shall not issue permits under this paragraph after September 30, 1996, if the Secretary determines, based on the scientific review, that the issuance of permits under this paragraph is having a significant adverse impact on the polar bear population stocks in Canada. The Secretary may review such determination annually thereafter, in light of the best scientific information available, and shall complete the review not later than January 31 in any year a review is undertaken. The Secretary may issue permits under this paragraph whenever the Secretary determines, on the basis of such annual review, that the issuance of permits under this paragraph is not having a significant adverse impact on the polar bear population stocks in Canada.
+
+(D) The Secretary of the Interior shall, expeditiously after the expiration of the applicable 30 day period under subsection (d)(2) of this section, issue a permit for the importation of polar bear parts (other than internal organs) from polar bears taken in sport hunts in Canada before April 30, 1994, to each applicant who submits, with the permit application, proof that the polar bear was legally harvested in Canada by the applicant. The Secretary shall issue such permits without regard to the provisions of subparagraphs (A) and (C)(ii) of this paragraph, subsection (d)(3) of this section, and sections 1371 and 1372 of this title. This subparagraph shall not apply to polar bear parts that were imported before June 12, 1997.
 
 (6) A permit may be issued for photography for educational or commercial purposes involving marine mammals in the wild only to an applicant which submits with its permit application information indicating that the taking will be limited to Level B harassment, and the manner in which the products of such activities will be made available to the public.
 
@@ -232,7 +234,7 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 &emsp;&emsp;(II) all certificate holders on observed trips if the Secretary determines that such restriction is not necessary because all certificate holders have developed and are utilizing fishing techniques and equipment that assure that the incidental marine mammal mortality rate during sundown sets will be no higher than such rate during daylight sets.
 
-&emsp;(v) The Secretary may authorize, after public notice and opportunity for comment, designated certificate holders to conduct experimental fishing operations on observed trips, under such terms and conditions as the Secretary may prescribe, for the purpose of testing proposed improvements in fishing techniques and equipment that may reduce the incidental mortality of marine mammals in the course of commercial yellowfin tuna fishing operations, and the Secretary may waive such terms and conditions of the general permit and this section, other than the quotas on incidental taking of marine mammals and the prohibition against encircling pure schools of certain species of marine mammals, as the Secretary determines to be necessary and appropriate for the conduct of such experimental fishing.
+&emsp;(v) The Secretary may authorize, after public notice and opportunity for comment, designated certificate holders to conduct experimental fishing operations on observed trips, under such terms and conditions as the Secretary may prescribe, for the purpose of testing proposed improvements in fishing techniques and equipment that may reduce the incidental mortality of marine mammals in the course of commercial yellowfin tuna fishing operations, and the Secretary may waive such terms and conditions of the general permit and this section, other than the quotas on incidental taking of marine mammals and the prohibition against encircling pure schools ofcertain species of marine mammals, as the Secretary determines to be necessary and appropriate for the conduct of such experimental fishing.
 
 &emsp;(vi) The Secretary, after public notice and opportunity for comment and consultation with the skippers’ panel of experts established pursuant to the general permit, shall develop and implement by not later than the beginning of the 1990 fishing season a system of performance standards to maintain the diligence and proficiency of certificate holders in the use of the best marine mammal safety techniques and equipment that are economically and technologically practicable. The system shall include such arrangements as are necessary for the identification of certificate holders whose incidental marine mammal mortality rate is consistently and substantially higher than the average rate of the fleet, and for the supplemental training and observation of such certificate holders, and provisions for suspension or revocation of certificates of inclusion of those certificate holders whose unacceptably high rate of incidental taking reflects a lack of diligence or proficiency in the use of the best marine mammal safety techniques and equipment.
 
@@ -254,15 +256,29 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 (C) For each year after 1984, the Secretary shall include in his annual report to the public and the Congress under section 1373(f) of this title a discussion of the proposed activities to be conducted each year as part of the monitoring program required by subparagraph (A).
 
-(D) There are authorized to be appropriated to the Department of Commerce for purposes of carrying out the monitoring program required under this paragraph not to exceed $4,000,000 forthe period beginning October 1, 1984, and ending September 30, 1988.
+(D) There are authorized to be appropriated to the Department of Commerce for purposes of carrying out the monitoring program required under this paragraph not to exceed $4,000,000 for the period beginning October 1, 1984, and ending September 30, 1988.
 
-(Pub. L. 92–522, title I, §104, Oct. 21, 1972, 86 Stat. 1034; Pub. L. 98–364, title I, §102, July 17, 1984, 98 Stat. 440; Pub. L. 100–711, §§4(d), 5(d), Nov. 23, 1988, 102 Stat. 4767, 4769; Pub. L. 103–238, §5(b), Apr. 30, 1994, 108 Stat. 537.)
+(Pub. L. 92–522, title I, §104, Oct. 21, 1972, 86 Stat. 1034; Pub. L. 98–364, title I, §102, July 17, 1984, 98 Stat. 440; Pub. L. 100–711, §§4(d), 5(d), Nov. 23, 1988, 102 Stat. 4767, 4769; Pub. L. 103–238, §5(b), Apr. 30, 1994, 108 Stat. 537; Pub. L. 105–18, title V, §5004, June 12, 1997, 111 Stat. 187; Pub. L. 105–42, §4(d), Aug. 15, 1997, 111 Stat. 1125.)
+
+#### Amendment of Subsection (h)
+
+<i>Pub. L. 105–42, §§4(d), 8, Aug. 15, 1997, 111 Stat. 1125, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, subsection (h) of this section is amended to read as follows:</i>
+
+#### (h) General permits
+
+(1) Consistent with the regulations prescribed pursuant to section 1373 of this title and to the requirements of section 1371 of this title, the Secretary may issue an annual permit to a United States purse seine fishing vessel for the taking of such marine mammals, and shall issue regulations to cover the use of any such annual permits.
+
+(2) Such annual permits for the incidental taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean shall be governed by section 1416 of this title, subject to the regulations issued pursuant to section 1413 of this title.
 
 #### References in Text
 
 7 U.S.C. 2131 et seq., referred to in subsec. (c)(2)(A)(ii), is the classification for Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, known as the Animal Welfare Act, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
 
 #### Amendments
+
+1997—Subsec. (c)(5)(A). Pub. L. 105–18, §5004(1), struck out “, including polar bears taken but not imported prior to April 30, 1994,” after “sport hunts in Canada”.
+
+Subsec. (c)(5)(D). Pub. L. 105–18, §5004(2), added subpar. (D).
 
 1994—Subsec. (a). Pub. L. 103–238, §5(b)(1), inserted at end “Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections 1371(a)(5) or 1416 of this title, or subsection (h) of this section.”
 
@@ -282,6 +298,10 @@ Subsec. (h)(2)(B). Pub. L. 100–711, §4(d), added cls. (iv) to (ix).
 
 1984—Subsec. (h). Pub. L. 98–364 designated existing provisions as par. (1), and added pars. (2) and (3).
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
+
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
@@ -292,7 +312,7 @@ Section 5(c) of Pub. L. 103–238 provided that: “Any permit issued under sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 973g, 1371, 1372, 1373, 1383a, 1384, 1387, 1416, 1421d of this title; title 19 section 1466.
+This section is referred to in sections 973g, 1371, 1372, 1373, 1383a, 1384, 1387, 1421d of this title; title 19 section 1466.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -12,7 +12,7 @@ There are hereby transferred to the Institute of American Indian and Alaska Nati
 
 #### (c) References in other laws
 
-All laws and regulations relating to the Institute of American Indian Arts established by theSecretary in 1962 shall, insofar as such laws and regulations are appropriate, and not inconsistent with the provisions of this chapter, remain in full force and effect and apply with respect to the Institute. All references in any other Federal law to the Institute of American Indian Arts, or any officer transferred to the Institute of American Indian and Alaska Native Culture and Arts Development under subsection (b) of this section, shall be deemed to refer to the Institute of American Indian and Alaska Native Culture and Arts Development or an officer of the Institute of American Indian and Alaska Native Culture and Arts Development.
+All laws and regulations relating to the Institute of American Indian Arts established by the Secretary in 1962 shall, insofar as such laws and regulations are appropriate, and not inconsistent with the provisions of this chapter, remain in full force and effect and apply with respect to the Institute. All references in any other Federal law to the Institute of American Indian Arts, or any officer transferred to the Institute of American Indian and Alaska Native Culture and Arts Development under subsection (b) of this section, shall be deemed to refer to the Institute of American Indian and Alaska Native Culture and Arts Development or an officer of the Institute of American Indian and Alaska Native Culture and Arts Development.
 
 #### (d) Forgiveness of amounts owed; hold harmless
 

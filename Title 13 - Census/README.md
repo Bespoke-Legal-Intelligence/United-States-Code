@@ -1,5 +1,5 @@
 
-13 U.S.C.<br>United States Code, 1996 Edition<br>Title 13 - CENSUS<br>From the U.S. Government Publishing Office, www.gpo.gov
+13 U.S.C.<br>United States Code, 1997 Edition<br>Title 13 - CENSUS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 13—CENSUS
 
@@ -290,7 +290,7 @@ Section 7 of act Aug. 31, 1954, ch. 1158, 68 Stat. 1024, provided that: “The s
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 5 sections 552a, 7201; title 22 section 3142; title 42 section 3013.
+This title is referred to in title 5 sections 552a, 7201; title 7 section 2204g; title 22 section 3142; title 42 section 3013.
 
 
 ---

@@ -54,7 +54,7 @@ Director.—The Secretary shall appoint a director for the grant program authori
 
 (6)
 
-Participation in Grant Process.—In seeking proposals for grants under this subsection and in performing peer review evaluations of such proposals, the Secretary shall seek the widest participation of qualified scientists inthe Federal Government, colleges and universities, State agricultural experiment stations, and the private sector.
+Participation in Grant Process.—In seeking proposals for grants under this subsection and in performing peer review evaluations of such proposals, the Secretary shall seek the widest participation of qualified scientists in the Federal Government, colleges and universities, State agricultural experiment stations, and the private sector.
 
 (7)
 
@@ -132,7 +132,7 @@ Set Asides.—Of amounts appropriated for a fiscal year to carry out this subsec
 
 The Secretary of Agriculture shall make annual grants to support the renovation and refurbishment (including energy retrofitting) of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces. Such grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations. Such grants shall be made to—
 
-&emsp;(1) each State agricultural experiment station in an amount of $100,000 or an amount which is equal to 10 per centum of the funds received by such station under the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), and the Act of October 10, 1962 (76 Stat. 806–807, as amended; 16 U.S.C. 582a, 582a–1—582a–7), whichever is greater: <i>Provided</i>, That of any amount in excess of $50,000 made available under this paragraph duringany year for allotment to a State agricultural experiment station, no payment thereof shall be made in excess of the amount which the station makes available during that year for the purposes for which grants under this paragraph are made available;
+&emsp;(1) each State agricultural experiment station in an amount of $100,000 or an amount which is equal to 10 per centum of the funds received by such station under the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), and the Act of October 10, 1962 (76 Stat. 806–807, as amended; 16 U.S.C. 582a, 582a–1—582a–7), whichever is greater: <i>Provided</i>, That of any amount in excess of $50,000 made available under this paragraph during any year for allotment to a State agricultural experiment station, no payment thereof shall be made in excess of the amount which the station makes available during that year for the purposes for which grants under this paragraph are made available;
 
 &emsp;(2) each accredited college of veterinary medicine and State agricultural experiment station which receives funds from the Federal Government for animal health research, in an amount which is equal to 10 per centum of the animal health research funds received by such college or experiment station from the Federal Government during the previous fiscal year;
 
@@ -182,7 +182,7 @@ The Secretary of Agriculture shall make annual grants to support the renovation 
 
 #### (f) Record keeping
 
-Each recipient of assistance under this section shall keep such records as the Secretary of Agriculture shall, by regulation, prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grants, the total cost of the project or undertaking in connection with which such funds are given or used, and the amount of that portion of the costs of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit. The Secretary of Agriculture and the Comptroller General of the United States or any of their duly authorized representatives shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this section.
+Each recipient of assistance under this section shall keep such records as the Secretary of Agriculture shall, by regulation, prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grants, the total cost of the project or undertaking in connection with which such funds are given or used, and the amount of that portion of the costs of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit. The Secretary of Agriculture and the Comptroller General of the United States or any of their duly authorized representatives shall have access for the purpose of audit and examination to anybooks, documents, papers, and records of the recipients that are pertinent to the grants received under this section.
 
 #### (g) Limits on overhead costs
 

@@ -60,7 +60,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(2) The remaining authorizations for the Navy under subsection (a) shall be distributed among such other staff corps as are established by theSecretary of the Navy under the authority provided by section 5150(b) of this title, except that—
+(2) The remaining authorizations for the Navy under subsection (a) shall be distributed among such other staff corps as are established by the Secretary of the Navy under the authority provided by section 5150(b) of this title, except that—
 
 &emsp;(A) if the Secretary has established a Supply Corps, the authorized strength for the Supply Corps shall be seven; and
 
@@ -70,7 +70,7 @@
 
 (d) The authorized strength of the Marine Corps under subsection (a) is exclusive of those counted under section 526 of this title.
 
-(e)(1) A reserve general officer of the Army or Air Force may not be reduced in grade because of a reduction in the number of general officers authorized under subsection (a).
+(e)(1) A reserve general officer of the Army or Air Force may not be reduced in grade becauseof a reduction in the number of general officers authorized under subsection (a).
 
 (2) An officer of the Naval Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
 

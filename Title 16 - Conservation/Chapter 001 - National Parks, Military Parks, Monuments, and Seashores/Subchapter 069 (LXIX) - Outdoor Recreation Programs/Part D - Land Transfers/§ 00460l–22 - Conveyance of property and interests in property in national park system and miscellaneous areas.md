@@ -30,7 +30,7 @@ The proceeds received from any conveyance under this section shall be credited t
 
 #### Cross References
 
-Uniform application of this section to all areas of national park system when not in conflict with specificprovisions applicable to an area, see section 1c of this title.
+Uniform application of this section to all areas of national park system when not in conflict with specific provisions applicable to an area, see section 1c of this title.
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@
 
 > shall be considered to be satisfied if the spouse of the veteran occupies the property as the spouse's home and the spouse makes the certification required by paragraph (1) of this subsection.
 
-(d) Subject to notice and opportunity for a hearing, whenever the Secretary finds with respect to guaranteed or insured loans that any lender or holder has failed to maintain adequate loan accounting records, or to demonstrate proper ability to service loans adequately or to exercise proper credit judgment or has willfully or negligently engaged in practices otherwise detrimental to the interest of veterans or of the Government, the Secretary may refuse either temporarily or permanently to guarantee or insure any loans made by such lender or holder and may bar such lender or holder from acquiring loans guaranteed or insured under this chapter; however, the Secretary shall not refuse to pay a guaranty or insurance claim on loans theretofore entered into in good faith between a veteran and such lender. The Secretary may also refuse either temporarily or permanently to guarantee or insure any loans made by a lender or holder refused the benefits of participation under the National Housing Act pursuant to a determination of the Secretary of Housing and Urban Development.
+(d) Subject to notice and opportunity for a hearing, whenever the Secretary finds with respect to guaranteed or insured loans that any lender or holder has failed to maintain adequate loan accounting records, or to demonstrate proper ability to service loans adequately or to exercise proper credit judgment or has willfully or negligently engaged in practices otherwise detrimental to the interest of veterans or of the Government, the Secretary may refuse either temporarily or permanently to guarantee or insure any loans made by such lender or holder and may bar such lender or holder from acquiring loans guaranteed or insured under this chapter; however, the Secretary shall not refuse to pay a guaranty or insurance claim on loans theretofore entered into in good faith between a veteran and such lender. The Secretary may also refuse either temporarily or permanently toguarantee or insure any loans made by a lender or holder refused the benefits of participation under the National Housing Act pursuant to a determination of the Secretary of Housing and Urban Development.
 
 (e) Any housing loan which is financed through the assistance of this chapter and to which section 3714 of this chapter applies shall include a provision that the loan is immediately due and payable upon transfer of the property securing such loan to any transferee unless the acceptability of the assumption of the loan is established pursuant to such section 3714.
 
@@ -54,7 +54,7 @@ Subsec. (f). Pub. L. 100–322, §415(c)(3)(C), substituted “section 1814” f
 
 Subsec. (f). Pub. L. 100–198, §10(b), added subsec. (f).
 
-1982—Subsec. (e). Pub. L. 97–295 inserted “(12 U.S.C. 1749aa et seq.)” after “the National Housing Act”, andsubstituted “August 10, 1965” for “the date of the enactment of the Housing and Urban Development Act of 1965”.
+1982—Subsec. (e). Pub. L. 97–295 inserted “(12 U.S.C. 1749aa et seq.)” after “the National Housing Act”, and substituted “August 10, 1965” for “the date of the enactment of the Housing and Urban Development Act of 1965”.
 
 1976—Subsec. (c). Pub. L. 94–324, §7(7), substituted “the veteran” for “he” in six places and “the veteran's” for “his” wherever appearing.
 

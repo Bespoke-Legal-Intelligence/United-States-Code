@@ -2,7 +2,7 @@
 
 #### (a) Direct substitution
 
-(1) Except as provided in subsection (c) of this section, no person may purchase directly from any department or agency of the United States unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if—
+(1) Except as provided in paragraph (3) and subsection (c) of this section, no person may purchase directly from any department or agency of the United States unprocessed timber originating from Federal lands west of the 100th meridian in the contiguous 48 States if—
 
 &emsp;(A) such unprocessed timber is to be used in substitution for exported unprocessed timber originating from private lands; or
 
@@ -23,6 +23,14 @@
 &emsp;&emsp;(ii) certifies to the Secretary concerned, within 3 months after August 20, 1990, that the person will, within 6 months after August 20, 1990, cease exporting unprocessed timber originating from private lands; and
 
 &emsp;&emsp;(iii) ceases exports in accordance with such certification.
+
+(3)
+
+Applicability.—In the case of the purchase by a person of unprocessed timber originating from Federal lands west of the 119th meridian in the State of Washington, paragraph (1) shall apply only if—
+
+&emsp;(A) the private lands referred to in paragraph (1) are owned by the person; or
+
+&emsp;(B) the person has the exclusive right to harvest timber from the private lands described in paragraph (1) during a period of more than 7 years, and may exercise that right at any time of the person's choosing.
 
 #### (b) Indirect substitution
 
@@ -46,7 +54,7 @@
 
 &emsp;(D) Federal timber purchased from Federal lands described in subparagraph (B) pursuant to a contract entered into between the purchaser and the Secretary of Agriculture before the date on which regulations to carry out this subsection are issued under section 620f of this title shall be governed by the regulations of the Secretary of Agriculture in effect before such date that restrict the substitution of unprocessed timber originating from Federal lands for exported timber originating from private lands.
 
-#### (c) Approval of sourcing areas
+#### (c) Sourcing areas
 
 #### (1) In general
 
@@ -58,21 +66,39 @@
 
 > &emsp;The Secretary concerned may waive the 24-month requirement set forth in subparagraph (A) for any person who, within 3 months after August 20, 1990, certifies that, within 6 months after August 20, 1990, such person will, for a period of not less than 3 years, cease exporting unprocessed timber originating from private lands within the sourcing area.
 
-#### (2) Requirements for application
+#### (2) Requirements for application for sourcing areas for processing facilities located outside the northwestern private timber open market area
 
 &emsp;The Secretaries concerned shall, not later than 3 months after August 20, 1990, prescribe procedures to be used by a person applying for approval of a sourcing area under paragraph (1). Such procedures shall require, at a minimum, the applicant to provide—
 
-&emsp;&emsp;(A) information regarding the location of private lands from which such person has, within the previous year, harvested or otherwise acquired unprocessed timber which has been exported from the United States; and
+&emsp;&emsp;(A) information regarding the location of private lands (except private land located in the northwestern private timber open market area) from which such person has, within the previous year, harvested or otherwise acquired unprocessed timber which has been exported from the United States; and
 
 &emsp;&emsp;(B) information regarding the location of each timber manufacturing facility owned or operated by such person within the proposed sourcing area boundaries at which the applicant proposes to process timber originating from Federal lands.
 
 > &emsp;The prohibition contained in subsection (a) of this section shall not apply to a person before the date which is 1 month after the procedures referred to in this paragraph are prescribed. With respect to any person who submits an application in accordance with such procedures by the end of the time period set forth in the preceding sentence, the prohibition contained in subsection (a) of this section shall not apply to such person before the date on which the Secretary concerned approves or disapproves such application.
 
-#### (3) Grant of approval
+#### (3) Grant of approval for sourcing areas for processing facilities located outside of the northwestern private timber open market area
 
-&emsp;For each applicant, the Secretary concerned shall, on the record and after an opportunity for a hearing, not later than 4 months after receipt of the application for a sourcing area, either approve or disapprove the application. The Secretary concerned may approve such application only if the Secretary determines that the area that is the subject of the application, in which the timber manufacturing facilities at which the applicant desires to process timber originating from Federal lands are located, is geographically and economically separate from any geographic area from which that person harvests for export any unprocessed timber originating from private lands. In making a determination referred to in this paragraph, the Secretary concerned shall consider equally the timber purchasing patterns, on private and Federal lands, of the applicantas well as other persons in the same local vicinity as the applicant, and the relative similarity of such purchasing patterns.
+#### (A) In general
 
-#### (4) Denial of application
+&emsp;&emsp;For each applicant, the Secretary concerned shall, on the record and after an opportunity for a hearing, not later than 4 months after receipt of the application for a sourcing area, either approve or disapprove the application. The Secretary concerned may approve such application only if the Secretary determines that the area that is the subject of the application, in which the timber manufacturing facilities at which the applicant desires to process timber originating from Federal lands are located, is geographically and economically separate from any geographic area from which that person harvests for export any unprocessed timber originating from private lands.
+
+#### (B) For timber manufacturing facilities located in Idaho
+
+&emsp;&emsp;Except as provided in subparagraph (D), in making a determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export and the private and Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the private and Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such private and Federal timber sourcing patterns.
+
+#### (C) For timber manufacturing facilities located in States other than Idaho
+
+&emsp;&emsp;Except as provided in subparagraph (D), in making the determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export and the Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such Federal timber sourcing patterns. Private timber sourcing patterns shall not be a factor in such determinations in States other than Idaho.
+
+#### (D) Area not included
+
+&emsp;&emsp;In deciding whether to approve or disapprove an application, the Secretary shall not—
+
+&emsp;&emsp;&emsp;(i) consider land located in the northwestern private timber open market area; or
+
+&emsp;&emsp;&emsp;(ii) condition approval of the application on the inclusion of any such land in the applicant's sourcing area, such land beingincludable in the sourcing area only to the extent requested by the applicant.
+
+#### (4) Denial of application for sourcing areas for processing facilities located outside the northwestern private timber open market area
 
 &emsp;(A) Subject to subparagraph (B), and notwithstanding any other provision of law, in the 9-month period after receiving disapproval of an application submitted pursuant to this subsection, the applicant may purchase unprocessed timber originating from Federal lands in the area which is the subject of the application in an amount not to exceed 75 percent of the annual average of such person's purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application. In the subsequent 6-month period, such person may purchase not more than 25 percent of such annual average, after which time the prohibitions contained in subsection (a) of this section shall fully apply.
 
@@ -80,17 +106,95 @@
 
 &emsp;(C) Any person to whom subparagraph (B) applies may not, during the 15-month period after the person's application for sourcing area boundaries is denied, export unprocessed timber originating from private lands in the geographic area determined by the Secretary concerned for which the application would have been approved in amounts that exceed 125 percent of the annual average of such person's exports of unprocessed timber from such private lands during the 5 full fiscal years immediately prior to submission of the application.
 
-#### (5) Review of determinations
+#### (5) Review of determinations for sourcing areas for processing facilities located outside the northwestern private timber open market area
 
 &emsp;Determinations made under paragraph (3) shall be reviewed, in accordance with the procedures prescribed in sections 620 to 620j of this title, not less often than every 5 years.
 
-(Pub. L. 101–382, title IV, §490, Aug. 20, 1990, 104 Stat. 715.)
+#### (6) Sourcing areas for processing facilities located in the northwestern private timber open market area
+
+#### (A) Establishment
+
+&emsp;&emsp;In the northwestern private timber open market area—
+
+&emsp;&emsp;&emsp;(i) a sourcing area boundary shall be a circle around the processing facility of the sourcing area applicant or holder;
+
+&emsp;&emsp;&emsp;(ii) the radius of the circle—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall be the furthest distance that the sourcing area applicant or holder proposes to haul Federal timber for processing at the processing facility; and
+
+&emsp;&emsp;&emsp;&emsp;(II) shall be determined solely by the sourcing area applicant or holder;
+
+&emsp;&emsp;&emsp;(iii) a sourcing area shall become effective on written notice to the Regional Forester for Region 6 of the Forest Service of the location of the boundary of the sourcing area;
+
+&emsp;&emsp;&emsp;(iv) the 24-month requirement in paragraph (1)(A) shall not apply;
+
+&emsp;&emsp;&emsp;(v) a sourcing area holder—
+
+&emsp;&emsp;&emsp;&emsp;(I) may adjust the radius of the sourcing area not more frequently than once every 24 months; and
+
+&emsp;&emsp;&emsp;&emsp;(II) shall provide written notice to the Regional Forester for Region 6 of the adjusted boundary of its sourcing area before using the adjusted sourcing area; and
+
+&emsp;&emsp;&emsp;(vi) a sourcing area holder that relinquishes a sourcing area may not reestablish a sourcing area for that processing facility before the date that is 24 months after the date on which the sourcing area was relinquished.
+
+#### (B) Transition
+
+&emsp;&emsp;With respect to a portion of a sourcing area established before November 14, 1997, that contains Federal timber under contract before November 14, 1997, and is outside the boundary of a new sourcing area established under subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) that portion shall continue to be a sourcing area only until unprocessed Federal timber from the portion is no longer in the possession of the sourcing area holder; and
+
+&emsp;&emsp;&emsp;(ii) unprocessed timber from private land in that portion shall be exportable immediately after unprocessed timber from Federal land in the portion is no longer in the possession of the sourcing area holder.
+
+#### (7) Relinquishment and termination of sourcing areas
+
+#### (A) In general
+
+&emsp;&emsp;A sourcing area may be relinquished at any time.
+
+#### (B) Effective date
+
+&emsp;&emsp;A relinquishment of a sourcing area shall be effective as of the date on which written notice is provided by the sourcing area holder to the Regional Forester with jurisdiction over the sourcing area where the processing facility of the holder is located.
+
+#### (C) Exportability
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;On relinquishment or termination of a sourcing area, unprocessed timber from private land within the former boundary of the relinquished or terminated sourcing area is exportable immediately after unprocessed timber from Federal land from within that area is no longer in the possession of the former sourcing area holder.
+
+#### (ii) No restriction
+
+&emsp;&emsp;&emsp;The exportability of unprocessed timber from private land located outside of a sourcing area shall not be restricted or in any way affected by relinquishment or termination of a sourcing area.
+
+#### (d) Domestic transportation and processing of private timber
+
+Nothing in this section restricts or authorizes any restriction on the domestic transportation or processing of timber harvested from private land, except that the Secretary may prohibit processing facilities located in the State of Idaho that have sourcing areas from processing timber harvested from private land outside of the boundaries of those sourcing areas.
+
+(Pub. L. 101–382, title IV, §490, Aug. 20, 1990, 104 Stat. 715; Pub. L. 105–83, title VI, §602(a), Nov. 14, 1997, 111 Stat. 1618.)
 
 #### References in Text
 
 August 20, 1990, referred to in subsec. (a)(2)(B), was in the original “the effective date of this title”, which is the date of enactment of title IV of Pub. L. 101–382, approved Aug. 20, 1990, except as otherwise provided in sections 620 to 620j of this title, see section 494 of Pub. L. 101–382, set out as an Effective Date note under section 620 of this title.
 
+#### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–83, §602(a)(1)(A), inserted “paragraph (3) and” after “Except as provided in”.
+
+Subsec. (a)(3). Pub. L. 105–83, §602(a)(1)(B), added par. (3).
+
+Subsec. (c). Pub. L. 105–83, §602(a)(2)(A), struck out “Approval of” before “Sourcing areas” in heading.
+
+Subsec. (c)(2). Pub. L. 105–83, §602(a)(2)(B)(i), inserted “for sourcing areas for processing facilities located outside the northwestern private timber open market area” after “application” in heading.
+
+Subsec. (c)(2)(A). Pub. L. 105–83, §602(a)(2)(B)(ii), inserted “(except private land located in the northwestern private timber open market area)” after “private lands”.
+
+Subsec. (c)(3). Pub. L. 105–83, §602(a)(2)(C), inserted “for sourcing areas for processing facilities located outside of the northwestern private timber open market area” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “In making a determination referred to in this paragraph, the Secretary concerned shall consider equally the timber purchasing patterns, on private and Federal lands, of the applicant as well as other persons in the same local vicinity as the applicant, and the relative similarity of such purchasing patterns.”, and added subpars. (B) to (D).
+
+Subsec. (c)(4), (5). Pub. L. 105–83, §602(a)(2)(D), (E), inserted “for sourcing areas for processing facilities located outside the northwestern private timber open market area” in headings.
+
+Subsec. (c)(6), (7). Pub. L. 105–83, §602(a)(2)(F), added pars. (6) and (7).
+
+Subsec. (d). Pub. L. 105–83, §602(a)(3), added subsec. (d).
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 620d of this title.
+This section is referred to in sections 620d, 620f of this title.
 

@@ -2,7 +2,7 @@
 
 Sections 5, 8, and 13 of this title shall not apply to the procurement of property or services made by an executive agency pursuant to this subchapter. Any provision of law which authorizes an executive agency (other than an executive agency which is exempted from the provisions of this subchapter by section 252(a) of this title), to procure any property or services without advertising or without regard to said section 5 of this title shall be construed to authorize the procurement of such property or services pursuant to the provisions of this subchapter relating to procedures other than sealed-bid procedures.
 
-(June 30, 1949, ch. 288, title III, §310, 63 Stat. 397; July 12, 1952, ch. 703, §1(m), (n), 66 Stat. 594; Aug. 28, 1958, Pub. L. 85–800, §6, 72 Stat. 967; Nov. 8,1965, Pub. L. 89–343, §5, 79 Stat. 1303; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2714(a)(6), 98 Stat. 1185.)
+(June 30, 1949, ch. 288, title III, §310, 63 Stat. 397; July 12, 1952, ch. 703, §1(m), (n), 66 Stat. 594; Pub. L. 85–800, §6, Aug. 28, 1958, 72 Stat. 967; Pub. L. 89–343, §5, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 98–369, div. B, title VII, §2714(a)(6), July 18, 1984, 98 Stat. 1185.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ There is established in the executive branch of the Government an independent ag
 
 #### (b) Membership of Board; designation of Chairman
 
-The Board shall consist of three members, who are broadly representative of the public interest, appointed by the President, by and with the advice and consent of the Senate. In appointingthe members of the Board, the President shall designate the Chairman. Not more than two members of the Board shall be members of the same political party.
+The Board shall consist of three members, who are broadly representative of the public interest, appointed by the President, by and with the advice and consent of the Senate. In appointing the members of the Board, the President shall designate the Chairman. Not more than two members of the Board shall be members of the same political party.
 
 #### (c) Term of office
 
@@ -24,7 +24,7 @@ The Chairman of the Board shall be the spokesman for the Board and shall represe
 
 The financial transactions of the Administration shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
 
-(June 26, 1934, ch. 750, title I, §102, formerly §3, as added Sept. 22, 1959, Pub. L. 86–354, §1, 73 Stat. 628; amended Mar. 10, 1970, Pub. L. 91–206, §3, 84 Stat. 49; renumbered title I, §102, Oct. 19, 1970, Pub. L. 91–468, §1(2), 84 Stat. 994; amended Nov. 10, 1978, Pub. L. 95–630, title V, §501, 92 Stat. 3680; Oct. 15, 1982, Pub. L. 97–320, title V, §502, 96 Stat. 1528.)
+(June 26, 1934, ch. 750, title I, §102, formerly §3, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, §102, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, §502, Oct. 15, 1982, 96 Stat. 1528.)
 
 #### Prior Provisions
 
@@ -94,7 +94,7 @@ Study.—
 
 In general.—The Secretary, in consultation with the Board, the Corporation, the Comptroller of the Currency, and the Administration, shall conduct a study and evaluation of—
 
-&emsp;&emsp;“(A) the oversight and supervisory practices of the Administration concerning the Fund, including the treatment of amounts deposited in the Fund pursuant to section 202(c) of the Federal Credit Union Act \[12 U.S.C. 1782(c)\], including analysis of—
+&emsp;&emsp;“(A) the oversight and supervisory practices of the Administration concerning the Fund, includingthe treatment of amounts deposited in the Fund pursuant to section 202(c) of the Federal Credit Union Act \[12 U.S.C. 1782(c)\], including analysis of—
 
 &emsp;&emsp;&emsp;“(i) whether those amounts should be—
 

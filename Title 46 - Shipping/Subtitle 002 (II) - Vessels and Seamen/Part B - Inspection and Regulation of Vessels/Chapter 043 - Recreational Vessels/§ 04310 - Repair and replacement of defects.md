@@ -10,7 +10,7 @@
 
 &emsp;(B) by certified mail to subsequent purchasers if known to the manufacturer.
 
-&emsp;(C) by certified mail or other more expeditious means to the dealers and distributors of the recreational vessels or associated equipment.
+&emsp;(C) by certified mail or other more expeditious means to the dealers and distributors ofthe recreational vessels or associated equipment.
 
 (2) The notification required by subsection (b) of this section is required to be given only for a defect or failure of compliance discovered by the recreational vessel manufacturer within a reasonable time after the manufacturer has discovered the defect or failure, except that the manufacturer's duty of notification under paragraph (1)(A) and (B) of this subsection applies only to a defect or failure of compliance discovered by the manufacturer within one of the following appropriate periods:
 

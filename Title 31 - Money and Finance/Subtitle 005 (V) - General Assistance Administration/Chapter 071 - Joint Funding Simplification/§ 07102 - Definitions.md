@@ -8,7 +8,7 @@ In this chapter—
 
 &emsp;(3) “local government” means a county, city, political subdivision of a county or city, or other general purpose political subdivision of a State, a school district, a council of governments, or other instrumentality of a local government.
 
-&emsp;(4) “project” means an undertaking that includes components that contribute materiallyto carrying out one purpose or closely related purposes and are proposed or approved for assistance under—
+&emsp;(4) “project” means an undertaking that includes components that contribute materially to carrying out one purpose or closely related purposes and are proposed or approved for assistance under—
 
 &emsp;&emsp;(A) more than one United States Government program; or
 

@@ -12,7 +12,7 @@ The Secretary is authorized to make urban development action grants to cities an
 
 &emsp;(A) in the case of a city with a population of fifty thousand persons or more or an urban county, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups, as defined by the United States Bureau of the Census, having at least a population of ten thousand persons or 10 per centum of the population of the city or urban county; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city or urban county; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level; or
 
-&emsp;(B) in the case of a city with a population of less than fifty thousand persons, contains an area (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups or other areas defined by the United States Bureau of the Census or for which data certified by the United States Bureau of the Census are available having at least a population of two thousand five hundred persons or 10 per centum of the population of the city, whichever is greater; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level.
+&emsp;(B) in the case of a city with a population of less than fifty thousand persons, contains anarea (i) composed of one or more contiguous census tracts, enumeration districts, neighborhood statistics areas, or block groups or other areas defined by the United States Bureau of the Census or for which data certified by the United States Bureau of the Census are available having at least a population of two thousand five hundred persons or 10 per centum of the population of the city, whichever is greater; (ii) in which at least 70 per centum of the residents have incomes below 80 per centum of the median income of the city; and (iii) in which at least 30 per centum of the residents have incomes below the national poverty level.
 
 > The Secretary shall use up to, but not more than, 20 per centum of the funds appropriated for use in any fiscal year under this section for the purpose of making grants to cities and urban counties eligible under this paragraph.
 
@@ -26,7 +26,7 @@ Applications for assistance under this section shall—
 
 &emsp;(3) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has held public hearings to obtain the views of citizens, particularly residents of the area in which the proposed activities are to be carried out; (B) has analyzed the impact of these proposed activities on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood in which they are to be carried out; and (C) has made available the analysis described in clause (B) to any interested person or organization residing or located in the neighborhood in which the proposed activities are to be carried out; and
 
-&emsp;(4) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has identified all properties, if any, which are included on the National Register of Historic Places andwhich, as determined by the applicant, will be affected by the project for which the application is made; (B) has identified all other properties, if any, which will be affected by such project and which, as determined by the applicant, may meet the criteria established by the Secretary of the Interior for inclusion on such Register, together with documentation relating to the inclusion of such properties on the Register; (C) has determined the effect, as determined by the applicant, of the project on the properties identified pursuant to clauses (A) and (B); and (D) will comply with the requirements of section 5320 of this title.
+&emsp;(4) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has identified all properties, if any, which are included on the National Register of Historic Places and which, as determined by the applicant, will be affected by the project for which the application is made; (B) has identified all other properties, if any, which will be affected by such project and which, as determined by the applicant, may meet the criteria established by the Secretary of the Interior for inclusion on such Register, together with documentation relating to the inclusion of such properties on the Register; (C) has determined the effect, as determined by the applicant, of the project on the properties identified pursuant to clauses (A) and (B); and (D) will comply with the requirements of section 5320 of this title.
 
 #### (d) Mandatory selection criteria; award of points; distribution of funds; number of competitions per year; use of distress conditions data by urban counties
 
@@ -110,7 +110,7 @@ The Secretary may not approve any grant to a city or urban county eligible under
 
 &emsp;(1) the grant will be used in connection with a project located in an area described in subsection (b)(2) of this section, except that the Secretary may waive this requirement where the Secretary determines (A) that there is no suitable site for the project within that area, (B) the project will be located directly adjacent to that area, and (C) the project will contribute substantially to the economic development of that area;
 
-&emsp;(2) the city or urban county has demonstrated to the satisfaction of the Secretary that basic services supplied by the city or urban county to the area described in subsection (b)(2) of this section are at least equivalent, as measured by per capita expenditures, to those supplied to other areas within the city or urban county which are similar in population size and physical characteristics and which have median incomes above the median income for the city or urban county;
+&emsp;(2) the city or urban county has demonstrated to the satisfaction of the Secretary that basic services supplied by the city or urban county to the area described in subsection (b)(2) of this section are at least equivalent, as measured by per capita expenditures, to those supplied to other areas within the city or urban county which are similar in population size and physical characteristics andwhich have median incomes above the median income for the city or urban county;
 
 &emsp;(3) the grant will be used in connection with a project which will directly benefit the low- and moderate-income families and individuals residing in the area described in subsection (b)(2) of this section; and
 
@@ -128,7 +128,7 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (1) Speculative projects
 
-&emsp;No assistance may be provided under this section for projects intended to facilitate the relocation of industrial or commercial plants or facilities from one area to another, unlessthe Secretary finds that the relocation does not significantly and adversely affect the unemployment or economic base of the area from which the industrial or commercial plant or facility is to be relocated. The provisions of this paragraph shall apply only to projects that do not have identified intended occupants.
+&emsp;No assistance may be provided under this section for projects intended to facilitate the relocation of industrial or commercial plants or facilities from one area to another, unless the Secretary finds that the relocation does not significantly and adversely affect the unemployment or economic base of the area from which the industrial or commercial plant or facility is to be relocated. The provisions of this paragraph shall apply only to projects that do not have identified intended occupants.
 
 #### (2) Projects with identified intended occupants
 
@@ -180,7 +180,7 @@ A grant may be made under this section only where the Secretary determines that 
 
 #### (k) Duty of Secretary to minimize amount
 
-In making grants under this section, the Secretary shall take such steps as the Secretary deems appropriate to assure that the amount ofthe grant provided is the least necessary to make the project feasible.
+In making grants under this section, the Secretary shall take such steps as the Secretary deems appropriate to assure that the amount of the grant provided is the least necessary to make the project feasible.
 
 #### (<i>l</i>) Power of Secretary to waive requirement that town or township be closely settled
 
@@ -256,7 +256,7 @@ Subsec. (t). Pub. L. 103–233, §232(c)(1), added subsec. (t).
 
 1988—Subsec. (a). Pub. L. 100–242, §501(c), substituted “There are authorized to be appropriated to carry out this section $225,000,000 for fiscal year 1988, and $225,000,000 for fiscal year 1989. Any amount appropriated under this subsection shall remain available until expended.” for “Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1982 and 1983, not more than $500,000,000 shall be available for each of the fiscal years 1982 and 1983 for grants under this section. There are authorized to be appropriated to carry out the provisions of this section not to exceed $440,000,000 for each of the fiscal years 1984, 1985, and 1986, and any amount appropriated under this sentence shall remain available until expended.”
 
-Subsec. (d)(1). Pub. L. 100–242, §515(a), inserted dash before “(A)”, indented subpars. (A) and (B), struck out “as the primary criterion,” in subpar. (A) and “and” at end of subpar. (B), added subpars. (C) and (D), and struck out former subpar. (C) which read as follows: “at least the following other criteria: demonstrated performance of the city or urban county in housing and community development programs; the extent to which the grant will stimulate economic recovery by leveraging private investment; the number of permanent jobs to be created and their relation to the amount of grant funds requested; the proportion of permanent jobs accessible to lower income persons and minorities, including persons who are unemployed; the impact of the proposed activities on the fiscal base of the city or urban county and its relation to the amount of grant funds requested; the extent to which State or local government funding or special economic incentives have been committed; and the feasibility of accomplishing the proposed activities in a timely fashion within the grant amount available.”
+Subsec. (d)(1). Pub. L. 100–242, §515(a), inserted dash before “(A)”, indented subpars. (A) and (B), struck out “as the primary criterion,” in subpar. (A) and “and” at end of subpar. (B), added subpars. (C) and (D), and struck out former subpar. (C) which read as follows: “at least the following other criteria: demonstrated performance of the city or urban county in housing and community development programs; the extent to which the grant will stimulate economic recovery by leveraging private investment; the number of permanent jobs to be created and their relation to the amount of grant funds requested; the proportion of permanent jobs accessible to lower income persons and minorities, including persons who are unemployed; the impact of the proposed activities on the fiscal base of the city orurban county and its relation to the amount of grant funds requested; the extent to which State or local government funding or special economic incentives have been committed; and the feasibility of accomplishing the proposed activities in a timely fashion within the grant amount available.”
 
 Subsec. (d)(3) to (5). Pub. L. 100–242, §515(b), added pars. (3) to (5).
 
@@ -378,7 +378,7 @@ Pub. L. 102–550, title XI, Oct. 28, 1992, 106 Stat. 3927, provided that:
 
 #### “SEC. 1101. AUTHORITY.
 
-“To provide for the revitalization and renewal of inner city neighborhoods in the areas of Los Angeles,California, that were damaged by the civil disturbances during April and May of 1992, and to demonstrate the effectiveness of new town developments in revitalizing and restoring depressed and underprivileged inner city neighborhoods, the Secretary of Housing and Urban Development shall, to the extent or in such amounts as are provided in appropriation Acts, make any assistance authorized under this title available under this title to units of general local government, governing boards, and eligible mortgagors in accordance with the provisions of this title.
+“To provide for the revitalization and renewal of inner city neighborhoods in the areas of Los Angeles, California, that were damaged by the civil disturbances during April and May of 1992, and to demonstrate the effectiveness of new town developments in revitalizing and restoring depressed and underprivileged inner city neighborhoods, the Secretary of Housing and Urban Development shall, to the extent or in such amounts as are provided in appropriation Acts, make any assistance authorized under this title available under this title to units of general local government, governing boards, and eligible mortgagors in accordance with the provisions of this title.
 
 #### “SEC. 1102. NEW TOWN PLAN.
 
@@ -432,7 +432,7 @@ Housing units.—A description of the number, size, location, cost, style, and c
 
 &emsp;“(6)
 
-Jobs.—A description of the number, types, and duration of any new jobs that will be created in the new town demonstration area and surrounding areas as a result of the demonstration program, and of any job training activities and apprenticeship programs to be made available in connection with the program.
+Jobs.—A description of the number, types, and duration of any new jobs that will be created in thenew town demonstration area and surrounding areas as a result of the demonstration program, and of any job training activities and apprenticeship programs to be made available in connection with the program.
 
 &emsp;“(7)
 
@@ -476,7 +476,7 @@ Approval.—For a plan to be eligible for assistance available under this title,
 
 &emsp;“(3)
 
-Amendment.—An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtaining approval of the amendment in the manner provided under this subsection for approval of plans. If thechief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended plan shall be considered to be approved for purposes of this subsection.
+Amendment.—An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtaining approval of the amendment in the manner provided under this subsection for approval of plans. If the chief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended plan shall be considered to be approved for purposes of this subsection.
 
 #### “SEC. 1103. NEW TOWN DEVELOPMENT DEMONSTRATION PROGRAM REQUIREMENTS.
 

@@ -26,7 +26,7 @@ For the purposes of subsection (b) of this section, an activity shall be conside
 
 In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], of the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or of the Bacon-Davis Act \[40 U.S.C. 276a et seq.\], in determining the time for which an employer employs an employee with respect to walking, riding, traveling, or other preliminary or postliminary activities described in subsection (a) of this section, there shall be counted all that time, but only that time, during which the employee engages in any such activity which is compensable within the meaning of subsections (b) and (c) of this section.
 
-(May 14, 1947, ch. 52, §4, 61 Stat. 86; Aug. 20, 1996, Pub. L. 104–188, \[title II\], §2102, 110 Stat. 1928.)
+(May 14, 1947, ch. 52, §4, 61 Stat. 86; Pub. L. 104–188, \[title II\], §2102, Aug. 20, 1996, 110 Stat. 1928.)
 
 #### References in Text
 

@@ -16,7 +16,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (2) Separate offense
 
-&emsp;Each violation and each day during which there is a failure to comply with an order orregulation issued by the Secretary shall be considered to be a separate offense.
+&emsp;Each violation and each day during which there is a failure to comply with an order or regulation issued by the Secretary shall be considered to be a separate offense.
 
 #### (3) Cease-and-desist orders
 

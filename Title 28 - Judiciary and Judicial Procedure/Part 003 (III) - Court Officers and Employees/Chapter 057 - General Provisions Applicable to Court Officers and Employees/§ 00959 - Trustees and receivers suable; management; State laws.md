@@ -4,7 +4,7 @@
 
 (b) Except as provided in section 1166 of title 11, a trustee, receiver or manager appointed in any cause pending in any court of the United States, including a debtor in possession, shall manage and operate the property in his possession as such trustee, receiver or manager according to the requirements of the valid laws of the State in which such property is situated, in the same manner that the owner or possessor thereof would be bound to do if in possession thereof.
 
-(June 25, 1948, ch. 646, 62 Stat. 926; Nov. 6, 1978, Pub. L. 95–598, title II, §235, 92 Stat. 2667.)
+(June 25, 1948, ch. 646, 62 Stat. 926; Pub. L. 95–598, title II, §235, Nov. 6, 1978, 92 Stat. 2667.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +18,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1978—Subsec. (b). Pub. L. 95–598 substituted “Except as provided in section 1166 of title 11, a trustee” for “A trustee”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–598 substituted “Except as provided in section 1166 of title 11, a trustee” for “A trustee”.
 
 #### Effective Date of 1978 Amendment
 

@@ -1,0 +1,18 @@
+### §6406. Prohibition of administrative review of decisions
+
+In the absence of fraud or mistake in mathematical calculation, the findings of fact in and the decision of the Secretary upon the merits of any claim presented under or authorized by the internal revenue laws and the allowance or non-allowance by the Secretary of interest on any credit or refund under the internal revenue laws shall not, except as provided in subchapters C and D of chapter 76 (relating to the Tax Court), be subject to review by any other administrative or accounting officer, employee, or agent of the United States.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 792; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834.)
+
+#### References in Text
+
+The internal revenue laws, referred to in text, are classified generally to this title.
+
+#### Amendments
+
+<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6611 of this title; title 31 section 713.
+

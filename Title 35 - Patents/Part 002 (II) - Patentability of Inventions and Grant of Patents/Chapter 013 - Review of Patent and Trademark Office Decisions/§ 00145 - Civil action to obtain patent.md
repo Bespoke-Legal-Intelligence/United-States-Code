@@ -2,7 +2,7 @@
 
 An applicant dissatisfied with the decision of the Board of Patent Appeals and Interferences in an appeal under section 134 of this title may, unless appeal has been taken to the United States Court of Appeals for the Federal Circuit, have remedy by civil action against the Commissioner in the United States District Court for the District of Columbia if commenced within such time after such decision, not less than sixty days, as the Commissioner appoints. The court may adjudge that such applicant is entitled to receive a patent for his invention, as specified in any of his claims involved in the decision of the Board of Patent Appeals and Interferences, as the facts in the case may appear and such adjudication shall authorize the Commissioner to issue such patent on compliance with the requirements of law. All the expenses of the proceedings shall be paid by the applicant.
 
-(July 19, 1952, ch. 950, 66 Stat. 803; Apr. 2, 1982, Pub. L. 97–164, title I, §163(a)(7), 96 Stat. 49; Nov. 8, 1984, Pub. L. 98–622, title II, §203(b), 98 Stat. 3387.)
+(July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §203(b), Nov. 8, 1984, 98 Stat. 3387.)
 
 #### Historical and Revision Notes
 

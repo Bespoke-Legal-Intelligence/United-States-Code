@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—Except as provided in subsection (b) of this section and section 47530 of this title, a person may operate after December 31, 1999, a civil subsonic turbojet with a maximum weight of more than 75,000 pounds to orfrom an airport in the United States only if the Secretary of Transportation finds that the aircraft complies with the stage 3 noise levels.
+Prohibition.—Except as provided in subsection (b) of this section and section 47530 of this title, a person may operate after December 31, 1999, a civil subsonic turbojet with a maximum weight of more than 75,000 pounds to or from an airport in the United States only if the Secretary of Transportation finds that the aircraft complies with the stage 3 noise levels.
 
 (b)
 

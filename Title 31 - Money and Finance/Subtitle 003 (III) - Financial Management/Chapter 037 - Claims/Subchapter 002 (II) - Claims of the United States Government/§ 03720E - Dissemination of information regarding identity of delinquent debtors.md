@@ -1,6 +1,6 @@
 ### §3720E. Dissemination of information regarding identity of delinquent debtors
 
-(a) The head of any agency may, with the review of the Secretary of the Treasury, for the purpose of collecting any delinquent nontax debt owed by any person, publish or otherwise publicly disseminate information regarding theidentity of the person and the existence of the nontax debt.
+(a) The head of any agency may, with the review of the Secretary of the Treasury, for the purpose of collecting any delinquent nontax debt owed by any person, publish or otherwise publicly disseminate information regarding the identity of the person and the existence of the nontax debt.
 
 (b)(1) The Secretary of the Treasury, in consultation with the Director of the Office of Management and Budget and the heads of other appropriate Federal agencies, shall issue regulations establishing procedures and requirements the Secretary considers appropriate to carry out this section.
 

@@ -2,7 +2,7 @@
 
 If any entity of the Government intends to procure any commodity or service on the procurement list, that entity shall, in accordance with rules and regulations of the Committee, procure such commodity or service, at the price established by the Committee, from a qualified nonprofit agency for the blind or such an agency for other severely handicapped if the commodity or service is available within the period required by that Government entity; except that this section shall not apply with respect to the procurement of any commodity which is available for procurement from an industry established under chapter 307 of title 18, and which, under section 4124 of such title 18, is required to be procured from such industry.
 
-(June 25, 1938, ch. 697, §3, 52 Stat. 1196; June 23, 1971, Pub. L. 92–28, §1, 85 Stat. 80.)
+(June 25, 1938, ch. 697, §3, 52 Stat. 1196; Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 80.)
 
 #### Amendments
 

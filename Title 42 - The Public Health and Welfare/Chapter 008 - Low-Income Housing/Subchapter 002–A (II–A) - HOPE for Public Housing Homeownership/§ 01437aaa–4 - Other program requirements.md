@@ -42,7 +42,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (2) 6 years or less
 
-&emsp;In the case of a transfer within 6 years of the acquisition under the program, the homeownership program shall provide for appropriate restrictions to assure that an eligible family may not receive any undue profit. The plan shall provide for limiting the family's consideration for its interest in the property to the total of—
+&emsp;In the case of a transfer within 6 years of the acquisition under the program, the homeownership program shall provide for appropriate restrictions to assure that an eligible family may not receive any undue profit. Theplan shall provide for limiting the family's consideration for its interest in the property to the total of—
 
 &emsp;&emsp;(A) the contribution to equity paid by the family;
 

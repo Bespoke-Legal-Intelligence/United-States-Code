@@ -4,7 +4,7 @@
 
 (b) Any member of the Metropolitan Police force appointed to the United States Secret Service Uniformed Division shall continue to be subject to the provisions of section 12 of such Act, and appointment of such member to the United States Secret Service Uniformed Division or transfer of such member to his former organization shall not affect any right, privilege, or duty of such member under the provisions of such section of such Act.
 
-(June 25, 1948, ch. 644, 62 Stat. 681; Mar. 19, 1970, Pub. L. 91–217, §1(1), 84 Stat. 74; Nov. 15, 1977, Pub. L. 95–179, 91 Stat. 1371.)
+(June 25, 1948, ch. 644, 62 Stat. 681; Pub. L. 91–217, §1(1), Mar. 19, 1970, 84 Stat. 74; Pub. L. 95–179, Nov. 15, 1977, 91 Stat. 1371.)
 
 #### References in Text
 

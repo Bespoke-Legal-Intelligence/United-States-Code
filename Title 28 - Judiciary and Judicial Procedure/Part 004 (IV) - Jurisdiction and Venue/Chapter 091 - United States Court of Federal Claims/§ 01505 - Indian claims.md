@@ -2,7 +2,7 @@
 
 The United States Court of Federal Claims shall have jurisdiction of any claim against the United States accruing after August 13, 1946, in favor of any tribe, band, or other identifiable group of American Indians residing within the territorial limits of the United States or Alaska whenever such claim is one arising under the Constitution, laws or treaties of the United States, or Executive orders of the President, or is one which otherwise would be cognizable in the Court of Federal Claims if the claimant were not an Indian tribe, band or group.
 
-(Added May 24, 1949, ch. 139, §89(a), 63 Stat. 102; amended Apr. 2, 1982, Pub. L. 97–164, title I, §133(g), 96 Stat. 41; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a), 106 Stat. 4516.)
+(Added May 24, 1949, ch. 139, §89(a), 63 Stat. 102; amended Pub. L. 97–164, title I, §133(g), Apr. 2, 1982, 96 Stat. 41; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -18,9 +18,9 @@ The omitted language is as follows: “In any suit brought under the jurisdictio
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”.
 
-1982—Pub. L. 97–164 substituted “The United States Claims Court shall have jurisdiction” for “The Court of Claims shall have jurisdiction” and “cognizable in the Claims Court” for “cognizable in the Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “The United States Claims Court shall have jurisdiction” for “The Court of Claims shall have jurisdiction” and “cognizable in the Claims Court” for “cognizable in the Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 

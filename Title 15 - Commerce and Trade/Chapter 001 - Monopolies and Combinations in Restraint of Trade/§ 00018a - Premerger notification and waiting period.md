@@ -10,7 +10,7 @@ Except as exempted pursuant to subsection (c) of this section, no person shall a
 
 &emsp;(B) any voting securities or assets of a person not engaged in manufacturing which has total assets of $10,000,000 or more are being acquired by any person which has total assets or annual net sales of $100,000,000 or more; or
 
-&emsp;(C) any voting securities or assets of a person with annual net sales or total assets of $100,000,000 or more are being acquired by any person with total assets or annual net sales of $10,000,000 or more; and
+&emsp;(C) any voting securities or assets of a person with annual net sales or total assets of$100,000,000 or more are being acquired by any person with total assets or annual net sales of $10,000,000 or more; and
 
 &emsp;(3) as a result of such acquisition, the acquiring person would hold—
 
@@ -88,7 +88,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 (1) The Federal Trade Commission or the Assistant Attorney General may, prior to the expiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to the proposed acquisition, from a person required to file notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
 
-(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 20 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such requestis not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2) of this section.
+(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 20 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2) of this section.
 
 #### (f) Preliminary injunctions; hearings
 
@@ -120,7 +120,7 @@ Any information or documentary material filed with the Assistant Attorney Genera
 
 #### (j) Report to Congress; legislative recommendations
 
-Beginning not later than January 1, 1978, the Federal Trade Commission, with the concurrence of the Assistant Attorney General, shall annually report to the Congress on the operation of this section. Such report shall include an assessment of the effects of this section, of the effects, purpose, and need for any rules promulgated pursuant thereto, and any recommendations for revisions of this section.
+Beginning not later than January 1, 1978, the Federal Trade Commission, with the concurrence of the Assistant Attorney General, shall annually report to the Congress on the operation of this section. Such report shall include an assessment of the effects of this section, ofthe effects, purpose, and need for any rules promulgated pursuant thereto, and any recommendations for revisions of this section.
 
 (Oct. 15, 1914, ch. 323, §7A, as added Sept. 30, 1976, Pub. L. 94–435, title II, §201, 90 Stat. 1390; amended Nov. 8, 1984, Pub. L. 98–620, title IV, §402(10)(A), 98 Stat. 3358; Aug. 9, 1989, Pub. L. 101–73, title XII, §1214, 103 Stat. 529.)
 

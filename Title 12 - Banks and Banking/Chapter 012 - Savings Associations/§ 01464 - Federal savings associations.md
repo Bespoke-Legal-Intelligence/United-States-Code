@@ -8,7 +8,7 @@ In order to provide thrift institutions for the deposit of funds and for the ext
 
 &emsp;(2) to issue charters therefor,
 
-> giving primary consideration of the best practices of thrift institutions in the United States.The lending and investment powers conferred by this section are intended to encourage such institutions to provide credit for housing safely and soundly.
+> giving primary consideration of the best practices of thrift institutions in the United States. The lending and investment powers conferred by this section are intended to encourage such institutions to provide credit for housing safely and soundly.
 
 #### (b) Deposits and related powers
 
@@ -34,7 +34,7 @@ In order to provide thrift institutions for the deposit of funds and for the ext
 
 &emsp;(E) Accounts may be subject to check or to withdrawal or transfer on negotiable or transferable or other order or authorization to the Federal savings association, as the Director may by regulation provide.
 
-&emsp;(F) A Federal savings association may establish remote service units for the purpose of crediting savings or demand accounts, debiting such accounts, crediting payments on loans, and the disposition of related financial transactions, as provided in regulations prescribed by the Director.
+&emsp;(F) A Federal savings association may establish remote service units for the purpose of crediting savings or demand accounts, debiting such accounts, crediting payments onloans, and the disposition of related financial transactions, as provided in regulations prescribed by the Director.
 
 #### (2) Other liabilities
 
@@ -108,7 +108,7 @@ To the extent specified in regulations of the Director, a Federal savings associ
 
 #### (J) Home improvement and manufactured home loans
 
-&emsp;&emsp;Loans made to repair, equip, alter, or improve any residential real property, and loans made for manufactured home financing.
+&emsp;&emsp;Loans made to repair, equip, alter, or improve any residential real property, andloans made for manufactured home financing.
 
 #### (K) Insured loans to finance the purchase of fee simple
 
@@ -154,7 +154,7 @@ To the extent specified in regulations of the Director, a Federal savings associ
 
 &emsp;&emsp;&emsp;(i) is registered with the Securities and Exchange Commission under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], and
 
-&emsp;&emsp;&emsp;(ii) the portfolio of which is restricted by such management company's investment policy (changeable only if authorized byshareholder vote) solely to investments that a Federal savings association by law or regulation may, without limitation as to percentage of assets, invest in, sell, redeem, hold, or otherwise deal in.
+&emsp;&emsp;&emsp;(ii) the portfolio of which is restricted by such management company's investment policy (changeable only if authorized by shareholder vote) solely to investments that a Federal savings association by law or regulation may, without limitation as to percentage of assets, invest in, sell, redeem, hold, or otherwise deal in.
 
 #### (R) Mortgage-backed securities
 
@@ -190,7 +190,7 @@ To the extent specified in regulations of the Director, a Federal savings associ
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Loans on the security of liens upon nonresidential real property. Except as provided in clause (ii), the aggregate amount of such loans shall not exceed 400 percent of the Federal savings association's capital, as determined under subsection (t) of this section.
+&emsp;&emsp;&emsp;Loans on the security of liens upon nonresidential real property. Except as provided in clause (ii), the aggregate amount of such loans shall not exceed 400 percentof the Federal savings association's capital, as determined under subsection (t) of this section.
 
 #### (ii) Exception
 
@@ -290,7 +290,7 @@ To the extent specified in regulations of the Director, a Federal savings associ
 
 #### (A) Enforcement
 
-&emsp;&emsp;The Director shall have power to enforce this section, section 8 of the Federal DepositInsurance Act \[12 U.S.C. 1818\], and regulations prescribed hereunder. In enforcing any provision of this section, regulations prescribed under this section, or any other law or regulation, or in any other action, suit, or proceeding to which the Director is a party or in which the Director is interested, and in the administration of conservatorships and receiverships, the Director may act in the Director's own name and through the Director's own attorneys. Except as otherwise provided, the Director shall be subject to suit (other than suits on claims for money damages) by any Federal savings association or director or officer thereof with respect to any matter under this section or any other applicable law, or regulation thereunder, in the United States district court for the judicial district in which the savings association's home office is located, or in the United States District Court for the District of Columbia, and the Director may be served with process in the manner prescribed by the Federal Rules of Civil Procedure.
+&emsp;&emsp;The Director shall have power to enforce this section, section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], and regulations prescribed hereunder. In enforcing any provision of this section, regulations prescribed under this section, or any other law or regulation, or in any other action, suit, or proceeding to which the Director is a party or in which the Director is interested, and in the administration of conservatorships and receiverships, the Director may act in the Director's own name and through the Director's own attorneys. Except as otherwise provided, the Director shall be subject to suit (other than suits on claims for money damages) by any Federal savings association or director or officer thereof with respect to any matter under this section or any other applicable law, or regulation thereunder, in the United States district court for the judicial district in which the savings association's home office is located, or in the United States District Court for the District of Columbia, and the Director may be served with process in the manner prescribed by the Federal Rules of Civil Procedure.
 
 #### (B) Ancillary provisions
 
@@ -336,7 +336,7 @@ To the extent specified in regulations of the Director, a Federal savings associ
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A conservator shall have all the powers of the members, the stockholders, the directors, and the officers of the association and shall be authorized to operate the association in its own name or to conserve its assets in the manner and to the extent authorized by the Director.
+&emsp;&emsp;&emsp;A conservator shall have all the powers of the members, the stockholders, the directors, and the officers of the association and shall be authorized to operate the association in its own name or to conserveits assets in the manner and to the extent authorized by the Director.
 
 #### (ii) FDIC or RTC as conservator or receiver
 
@@ -404,7 +404,7 @@ A charter may be granted only—
 
 #### (f) Federal home loan bank membership
 
-Each Federal savings association, upon receiving its charter, shall become automatically a member of the Federal home loan bank of the district in which it is located, or if convenience requires and the Director approves, shall become a member of a Federal home loan bank of an adjoining district. Such associations shall qualify for such membership in the manner provided in the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] with respect to other members.
+Each Federal savings association, upon receiving its charter, shall become automatically amember of the Federal home loan bank of the district in which it is located, or if convenience requires and the Director approves, shall become a member of a Federal home loan bank of an adjoining district. Such associations shall qualify for such membership in the manner provided in the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] with respect to other members.
 
 #### (g) Preferred shares
 
@@ -458,7 +458,7 @@ No State, county, municipal, or local taxing authority may impose any tax on Fed
 
 &emsp;(A) To the extent authorized by the Director, but subject to section 18(m)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1828(m)(3)\]—
 
-&emsp;&emsp;(i) any Federal savings bank chartered as such prior to October 15, 1982, may continue to make any investment or engage in any activity not otherwise authorized under this section, to the degree it was permitted to do so as a Federal savings bank prior to October 15, 1982; and
+&emsp;&emsp;(i) any Federal savings bank chartered as such prior to October 15, 1982, may continueto make any investment or engage in any activity not otherwise authorized under this section, to the degree it was permitted to do so as a Federal savings bank prior to October 15, 1982; and
 
 &emsp;&emsp;(ii) any Federal savings bank in existence on August 9, 1989, and formerly organized as a mutual savings bank under State law may continue to make any investment or engage in any activity not otherwise authorized under this section, to the degree it was authorized to do so as a mutual savings bank under State law.
 
@@ -504,7 +504,7 @@ A Federal savings association is authorized to act as trustee of any trust creat
 
 #### (4) Separate lien
 
-&emsp;In the event of the failure of a Federal savings association, the owners of the funds held in trust for investment shall have a lien on the bonds or other securities so set apart in addition to their claim against the estate of the association.
+&emsp;In the event of the failure of a Federal savings association, the owners of the funds heldin trust for investment shall have a lien on the bonds or other securities so set apart in addition to their claim against the estate of the association.
 
 #### (5) Deposits
 
@@ -538,7 +538,7 @@ A Federal savings association is authorized to act as trustee of any trust creat
 
 &emsp;(B) Upon receipt of such resolution, the Director, if satisfied that such Federal savings association has been relieved in accordance with State law of all duties as trustee, executor, administrator, guardian or other fiduciary, may in the Director's discretion, issue to such association a certificate that such association is no longer authorized to exercise the powers granted by this subsection.
 
-&emsp;(C) Upon the issuance of such a certificate by the Director, such Federal savings association (i) shall no longer be subject to the provisions of this section or the regulations of the Director made pursuant thereto, (ii) shall beentitled to have returned to it any securities which it may have deposited with State authorities, and (iii) shall not exercise thereafter any of the powers granted by this section without first applying for and obtaining a new permit to exercise such powers pursuant to the provisions of this section.
+&emsp;(C) Upon the issuance of such a certificate by the Director, such Federal savings association (i) shall no longer be subject to the provisions of this section or the regulations of the Director made pursuant thereto, (ii) shall be entitled to have returned to it any securities which it may have deposited with State authorities, and (iii) shall not exercise thereafter any of the powers granted by this section without first applying for and obtaining a new permit to exercise such powers pursuant to the provisions of this section.
 
 &emsp;(D) The Director may prescribe regulations necessary to enforce compliance with the provisions of this subsection.
 
@@ -702,7 +702,7 @@ Exceptions.—The Director may, by regulation or order, permit such exceptions t
 
 #### (C) Risk-based capital requirement
 
-&emsp;&emsp;Notwithstanding paragraph (1)(C), the risk-based capital requirement prescribed under paragraph (1) may deviate from the risk-based capital standards applicable tonational banks to reflect interest-rate risk or other risks, but such deviations shall not, in the aggregate, result in materially lower levels of capital being required of savings associations under the risk-based capital requirement than would be required under the risk-based capital standards applicable to national banks.
+&emsp;&emsp;Notwithstanding paragraph (1)(C), the risk-based capital requirement prescribed under paragraph (1) may deviate from the risk-based capital standards applicable to national banks to reflect interest-rate risk or other risks, but such deviations shall not, in the aggregate, result in materially lower levels of capital being required of savings associations under the risk-based capital requirement than would be required under the risk-based capital standards applicable to national banks.
 
 #### (3) Transition rule
 
@@ -752,7 +752,7 @@ Exceptions.—The Director may, by regulation or order, permit such exceptions t
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraphs (1)(C) and (9), the standards prescribed under paragraph (1) may permit a savings association to include in calculating capital for the purpose of the leverage limit and risk-based capital requirement prescribed under paragraph (1), on terms no less stringent than under both the capital standards applicable to State nonmember banks and (except as to the amount that may be included in calculating capital) the capital standards applicable to national banks, 90 percent of the fair market value of readily marketable purchased mortgage servicing rights.
+&emsp;&emsp;Notwithstanding paragraphs (1)(C) and (9), the standards prescribed under paragraph (1) may permit a savings association to include in calculating capital for the purpose of theleverage limit and risk-based capital requirement prescribed under paragraph (1), on terms no less stringent than under both the capital standards applicable to State nonmember banks and (except as to the amount that may be included in calculating capital) the capital standards applicable to national banks, 90 percent of the fair market value of readily marketable purchased mortgage servicing rights.
 
 #### (B) Tangible capital requirement
 
@@ -852,7 +852,7 @@ Exceptions.—The Director may, by regulation or order, permit such exceptions t
 
 #### (iii) Agency discretion to prescribe greater percentage
 
-&emsp;&emsp;&emsp;Subject to clauses (iv), (v), and (vi), the Director may prescribe by order, with respect to a particular qualified savings association, an applicable percentage greater than that provided in clause (ii) if the Director determines, in the Director's sole discretion, that the use of the greater percentage, under the circumstances—
+&emsp;&emsp;&emsp;Subject to clauses (iv), (v), and (vi), the Director may prescribe by order, with respect to a particular qualified savings association, an applicable percentage greater than that provided in clause (ii) if the Director determines, in the Director's solediscretion, that the use of the greater percentage, under the circumstances—
 
 &emsp;&emsp;&emsp;&emsp;(I) would not constitute an unsafe or unsound practice;
 
@@ -910,7 +910,7 @@ Exceptions.—The Director may, by regulation or order, permit such exceptions t
 
 #### (ix) FDIC's discretion to prescribe lesser percentage
 
-&emsp;&emsp;&emsp;The Corporation may prescribe by order, with respect to a particular savings association, an applicable percentage less than that provided in clause (ii) or prescribed under clause (iii) if the Corporation determines, in its sole discretion, that the useof a greater percentage would, under the circumstances, constitute an unsafe or unsound practice or be likely to result in the association's being in an unsafe or unsound condition.
+&emsp;&emsp;&emsp;The Corporation may prescribe by order, with respect to a particular savings association, an applicable percentage less than that provided in clause (ii) or prescribed under clause (iii) if the Corporation determines, in its sole discretion, that the use of a greater percentage would, under the circumstances, constitute an unsafe or unsound practice or be likely to result in the association's being in an unsafe or unsound condition.
 
 #### (E) Consolidation of subsidiaries not separately capitalized
 
@@ -1218,7 +1218,7 @@ Exceptions.—The Director may, by regulation or order, permit such exceptions t
 
 &emsp;The term “senior executive officer” has the same meaning as in regulations prescribed under section 32(f) of the Federal Deposit Insurance Act \[12 U.S.C. 1831i(f)\].
 
-(June 13, 1933, ch. 64, §5, 48 Stat. 132; Apr. 27, 1934, ch. 168, §§5, 6, 48 Stat. 645, 646; May 28, 1935, ch. 150, §18, 49 Stat. 297; Aug. 10, 1939, ch. 666, title IX, §909, 53 Stat. 1402; Aug. 6, 1947, ch. 503, 61 Stat. 786; July 3, 1948, ch. 825, §1, 62 Stat. 1239; Oct. 20, 1951, ch. 521, title III, §313(d), 65 Stat. 490; July 14, 1952, ch. 723, §12, 66 Stat. 604; Aug. 2, 1954, ch. 649, title II, §204(b), title V, §503, 68 Stat. 622, 634; Aug. 11, 1955, ch. 783, title I, §110, 69 Stat. 641; Aug. 7, 1956, ch. 1029, title VI, §604, 70 Stat. 1114; Sept. 2, 1958, Pub. L. 85–857, §13(f), 72 Stat. 1264; Sept. 23, 1959, Pub. L. 86–372, title VIII, §805, 73 Stat. 687; June 11, 1960, Pub. L. 86–507, §1(11), 74 Stat. 200; June 30, 1961, Pub. L. 87–70, title IX, §901, 75 Stat. 189; Oct. 9, 1962, Pub. L. 87–779, §1, 76 Stat. 778; Oct. 16, 1962, Pub. L.87–834, §6(e)(1), 76 Stat. 984; Sept. 2, 1964, Pub. L. 88–560, title IX, §§901(a), 902–905, 907, 908, 910, 78 Stat. 804–806; Aug. 10, 1965, Pub. L. 89–117, title II, §201(b)(3), title XI, §1110(a)–(c), 79 Stat. 465, 507; Oct. 16, 1966, Pub. L. 89–695, title I, §101(a), 80 Stat. 1028; Aug. 1, 1968, Pub. L. 90–448, title III, §304(b), title IV, §416(c), title VIII, §§804(e), 807(m), title XVII, §1716, 82 Stat. 508, 518, 543, 545, 608; Sept. 21, 1968, Pub. L. 90–505, §5, 82 Stat. 858; Oct. 16, 1968, Pub. L. 90–575, title I, §118(b), 82 Stat. 1026; Dec. 24, 1969, Pub. L. 91–152, title IV, §416(b), 83 Stat. 401; July 24, 1970, Pub. L. 91–351, title VII, §§706, 708, 709, 84 Stat. 462, 463; Dec. 31, 1970, Pub. L. 91–609, title VII, §727(d), title IX, §907(b), (c), 84 Stat. 1803, 1811; June 23, 1972, Pub. L. 92–318, title I, §133(c)(3), 86 Stat. 270; Aug. 16, 1973, Pub. L. 93–100, §5(b), 87 Stat. 343; Aug. 22, 1974, Pub. L. 93–383, title VII, §§702–706, title VIII, §§802(i)(2), 805(c)(4), 88 Stat. 715, 716, 725, 727; Oct. 18, 1974, Pub. L. 93–449, §4(d), 88 Stat. 1367; Oct. 28, 1974, Pub. L. 93–495, title I, §101(e), 88 Stat. 1502; July 25, 1975, Pub. L. 94–60, 89 Stat. 301; Aug. 3, 1976, Pub. L. 94–375, §22, 90 Stat. 1078; Oct. 12, 1977, Pub. L. 95–128, title IV, §§401–405, 91 Stat. 1136, 1137; Oct. 28, 1977, Pub. L. 95–147, §2(a), 91 Stat. 1227; Nov. 10, 1978, Pub. L. 95–630, title I, §§107(a)(3), (c)(3), (d)(3), (e)(3), 111(c), title II, §208(b), title XII, §§1202, 1204, title XVII, §1701, 92 Stat. 3651, 3655, 3659, 3662, 3668, 3675, 3710, 3711, 3714; Dec. 21, 1979, Pub. L. 96–153, title III, §§325, 326, 93 Stat. 1121; Dec. 28, 1979, Pub. L. 96–161, title I, §102, 93 Stat. 1233; Mar. 31, 1980, Pub. L. 96–221, title III, §§304, 307, title IV, §§401–404, 407(a), 408, 94 Stat. 146, 147, 151, 155, 156, 158–160; Oct. 15, 1982, Pub. L. 97–320, title I, §§112, 114(b), (c), 121, 141(a)(2), (5), title II, §202(b), title III, §§311–313, 321–325, 328–331, 334, 351, title IV, §§424(a), (d)(8), (e), 427(a), 96 Stat. 1471, 1475, 1479, 1489, 1492, 1496, 1497, 1499–1504, 1507, 1522–1524; Jan. 12, 1983, Pub. L. 97–457, §§2, 12, 14(a)(1), (b), 96 Stat. 2507, 2508; Oct. 3, 1984, Pub. L. 98–440, title I, §105(a), 98 Stat. 1691; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(9), 98 Stat. 3357; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Oct. 27, 1986, Pub. L. 99–570, title I, §1359(b), 100 Stat. 3207–27; Aug. 10, 1987, Pub. L. 100–86, title IV, §§406(a), 413(a), title V, §509(a), 101 Stat. 614, 621, 635; Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 282; Dec. 19, 1991, Pub. L. 102–242, title I, §§131(d), 133(d), title IV, §441, title V, §501(c), 105 Stat. 2267, 2271, 2381, 2391; July 1, 1992, Pub. L. 102–310, 106 Stat. 276; Oct. 28, 1992, Pub. L. 102–550, title IX, §953, title XV, §1502(b), title XVI, §§1603(d)(8), 1606(f)(1)–(3), 106 Stat. 3893, 4046, 4080, 4088; Sept. 23, 1994, Pub. L. 103–325, title II, §206(a), title III, §322(b), title IV, §411(c)(2)(D), 108 Stat. 2199, 2227, 2253; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §§2216(b), 2303(a)–(d), (f), 2704(d)(12)(A), 110 Stat. 3009–413, 3009–424, 3009–490.)
+(June 13, 1933, ch. 64, §5, 48 Stat. 132; Apr. 27, 1934, ch. 168, §§5, 6, 48 Stat. 645, 646; May 28, 1935, ch. 150, §18, 49 Stat. 297; Aug. 10, 1939, ch. 666, title IX, §909, 53 Stat. 1402; Aug. 6, 1947, ch. 503, 61 Stat. 786; July 3, 1948, ch. 825, §1, 62 Stat. 1239; Oct. 20, 1951, ch. 521, title III, §313(d), 65 Stat. 490; July 14, 1952, ch. 723, §12, 66 Stat. 604; Aug. 2, 1954, ch. 649, title II, §204(b), title V, §503, 68 Stat. 622, 634; Aug. 11, 1955, ch. 783, title I, §110, 69 Stat. 641; Aug. 7, 1956, ch. 1029, title VI, §604, 70 Stat. 1114; Pub. L. 85–857, §13(f), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 86–372, title VIII, §805, Sept. 23, 1959, 73 Stat. 687; Pub. L. 86–507, §1(11), June 11, 1960, 74 Stat. 200; Pub. L. 87–70, title IX, §901, June 30, 1961, 75 Stat. 189; Pub. L. 87–779, §1, Oct. 9, 1962, 76 Stat. 778; Pub. L. 87–834, §6(e)(1), Oct. 16, 1962, 76 Stat. 984; Pub. L. 88–560, title IX, §§901(a), 902–905, 907, 908, 910, Sept. 2, 1964, 78 Stat. 804–806; Pub. L. 89–117, title II, §201(b)(3), title XI, §1110(a)–(c), Aug. 10, 1965, 79 Stat. 465, 507; Pub. L. 89–695, title I, §101(a), Oct. 16, 1966, 80 Stat. 1028; Pub. L. 90–448, title III, §304(b), title IV, §416(c), title VIII, §§804(e), 807(m), title XVII, §1716, Aug. 1, 1968, 82 Stat. 508, 518, 543, 545, 608; Pub. L. 90–505, §5, Sept. 21, 1968, 82 Stat. 858; Pub. L. 90–575, title I, §118(b), Oct. 16, 1968, 82 Stat. 1026; Pub. L. 91–152, title IV, §416(b), Dec. 24, 1969, 83 Stat. 401; Pub. L. 91–351, title VII, §§706, 708, 709, July 24, 1970, 84 Stat. 462, 463; Pub. L. 91–609, title VII, §727(d), title IX, §907(b), (c), Dec. 31, 1970, 84 Stat. 1803, 1811; Pub. L. 92–318, title I, §133(c)(3), June 23, 1972, 86 Stat. 270; Pub. L. 93–100, §5(b), Aug. 16, 1973, 87 Stat. 343; Pub. L. 93–383, title VII, §§702–706, title VIII, §§802(i)(2), 805(c)(4), Aug. 22, 1974, 88 Stat. 715, 716, 725, 727; Pub. L. 93–449, §4(d), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 93–495, title I, §101(e), Oct. 28, 1974, 88 Stat. 1502; Pub. L. 94–60, July 25, 1975, 89 Stat. 301; Pub. L. 94–375, §22, Aug. 3, 1976, 90 Stat. 1078; Pub. L. 95–128, title IV, §§401–405, Oct. 12, 1977, 91 Stat. 1136, 1137; Pub. L. 95–147, §2(a), Oct. 28, 1977, 91 Stat. 1227; Pub. L. 95–630, title I, §§107(a)(3), (c)(3), (d)(3), (e)(3), 111(c), title II, §208(b), title XII, §§1202, 1204, title XVII, §1701, Nov. 10, 1978, 92 Stat. 3651, 3655, 3659, 3662, 3668, 3675, 3710, 3711, 3714; Pub. L. 96–153, title III, §§325, 326, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–161, title I, §102, Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§304, 307, title IV, §§401–404, 407(a), 408, Mar. 31, 1980, 94 Stat. 146, 147, 151, 155, 156, 158–160; Pub. L. 97–320, title I, §§112, 114(b), (c), 121, 141(a)(2), (5), title II, §202(b), title III, §§311–313, 321–325, 328–331, 334, 351, title IV, §§424(a), (d)(8), (e), 427(a), Oct. 15, 1982, 96 Stat. 1471, 1475, 1479, 1489, 1492, 1496, 1497, 1499–1504, 1507, 1522–1524; Pub. L. 97–457, §§2, 12, 14(a)(1), (b), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–440, title I, §105(a), Oct. 3, 1984, 98 Stat. 1691; Pub. L. 98–620, title IV, §402(9), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1359(b), Oct. 27, 1986, 100 Stat. 3207–27; Pub. L. 100–86, title IV, §§406(a), 413(a), title V, §509(a), Aug. 10, 1987, 101 Stat. 614, 621, 635; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282; Pub. L. 102–242, title I, §§131(d), 133(d), title IV, §441, title V, §501(c), Dec. 19, 1991, 105 Stat. 2267, 2271, 2381, 2391; Pub. L. 102–310, July 1, 1992, 106 Stat. 276; Pub. L. 102–550, title IX, §953, title XV, §1502(b), title XVI, §§1603(d)(8), 1606(f)(1)–(3), Oct.28, 1992, 106 Stat. 3893, 4046, 4080, 4088; Pub. L. 103–325, title II, §206(a), title III, §322(b), title IV, §411(c)(2)(D), Sept. 23, 1994, 108 Stat. 2199, 2227, 2253; Pub. L. 104–208, div. A, title II, §§2216(b), 2303(a)–(d), (f), 2704(d)(12)(A), Sept. 30, 1996, 110 Stat. 3009–413, 3009–424, 3009–490.)
 
 #### Amendment of Section
 
@@ -1252,7 +1252,7 @@ Section 802 of the Housing and Community Development Act of 1974, referred to in
 
 The Investment Company Act of 1940, referred to in subsec. (c)(1)(Q)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (c)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Actis classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (c)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
 Section 224 of such Act \[22 U.S.C. 2184\], referred to in subsec. (c)(4)(C), means section 224 of the Foreign Assistance Act of 1961, which related to housing projects in Latin American countries and was eliminated in the general amendment made by section 105 of the Foreign Assistance Act of 1969 (Pub. L. 91–175). See section 222 of such Act \[22 U.S.C. 2182\].
 
@@ -1276,7 +1276,7 @@ Subsec. (c)(3). Pub. L. 104–208, §2303(d), redesignated subpars. (B) to (D) a
 
 Subsec. (q)(6). Pub. L. 104–208, §2216(b), added par. (6).
 
-Subsec. (r)(1). Pub. L. 104–208, §2303(f)(1), in first sentence, substituted “subparagraph (C) of that section” for “subparagraph (c) of that section” and inserted before period at end “, or qualifies as a qualified thrift lender, as determined under section 1467a(m) of this title” and, in second sentence, inserted before period at end “or as a qualified thrift lender, as determined under section 1467a(m) of this title, as applicable”.
+Subsec. (r)(1). Pub. L. 104–208, §2303(f)(1), in first sentence, substituted “subparagraph (C) of that section” for “subparagraph (c) of that section” and inserted before period at end “, or qualifies as a qualified thriftlender, as determined under section 1467a(m) of this title” and, in second sentence, inserted before period at end “or as a qualified thrift lender, as determined under section 1467a(m) of this title, as applicable”.
 
 Subsec. (r)(2)(C). Pub. L. 104–208, §2303(f)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “the law of the State where the branch would be located would permit the branch to be established if the branch were a Federal savings association chartered by the State in which its home office is located; or”.
 
@@ -1452,7 +1452,7 @@ Subsec. (d)(2). Pub. L. 95–630, §107(a)(3), in subpar. (A) extended coverage 
 
 Subsec. (d)(3). Pub. L. 95–630, §107(c)(3), in subpars. (A) and (B) inserted references to any director, officer, employee, agent, or other person participating in the conduct of the affairs of the association and in subpar. (A) inserted “prior to the completion of the proceedings conducted pursuant to paragraph (2)(A) of this sub-subsection” after “savings account holders” and “and to take affirmative action to prevent such insolvency, dissipation, condition or prejudice pending completion of such proceedings” after “violation or practice”.
 
-Subsec. (d)(4)(A). Pub. L. 95–630, §107(d)(3), inserted “or that the director or officer has received financial gain by reason of such violation or practice or breach of fiduciary duty” before “, and that such violation”, “, or a willful or continuing disregard for the safety orsoundness of the association” after “the part of such director or officer”, and “or to prohibit his further participation in any manner in the conduct of the affairs of the association” after “remove him from office”.
+Subsec. (d)(4)(A). Pub. L. 95–630, §107(d)(3), inserted “or that the director or officer has received financial gain by reason of such violation or practice or breach of fiduciary duty” before “, and that such violation”, “, or a willful or continuing disregard for the safety or soundness of the association” after “the part of such director or officer”, and “or to prohibit his further participation in any manner in the conduct of the affairs of the association” after “remove him from office”.
 
 Subsec. (d)(4)(B). Pub. L. 95–630, §107(d)(3), inserted references to a willful or continuing disregard for its safety and soundness in two places.
 
@@ -1532,7 +1532,7 @@ Pub. L. 90–448, §804(e), inserted paragraph authorizing any such association 
 
 Pub. L. 90–448, §807(m), amended first par. to authorize investments in obligations, participations, or other instruments of or issued by, or guaranteed as to principal and interest by, the Government National Mortgage Association, and in stock of the Federal National Mortgage Association.
 
-Pub. L. 90–448, §1716(b), in first par., substituted “security of their savings accounts” for “security of their shares”, and inserted provisions authorizing investment in time deposits, certificates, or accounts of any bank the deposits of which are insured by the Federal Deposit Insurance Corporation.
+Pub. L. 90–448, §1716(b), in first par., substituted “security of their savings accounts” for “security of theirshares”, and inserted provisions authorizing investment in time deposits, certificates, or accounts of any bank the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
 Pub. L. 90–448, §1716(c), inserted provisions in second par. permitting loans for the construction of new structures related to residential use of the property.
 
@@ -1558,7 +1558,7 @@ Section 904 added par. which defined “real property” and “real estate”.
 
 Section 905 added par. which authorized an association to invest its assets in a corporation organized in the State where the association's home office is located, if the entire capital stock of such corporation is available for purchase only by savings and loan associations chartered in that State and Federal associations having their home offices therein but limited the aggregate of such investments to 1 per centum of its assets.
 
-Section 907 inserted in second proviso of first par. “, or fully guaranteed as to principal and interest by,”,authorized an association to invest in participations or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National Mortgage Association or any other agency of the United States, and defined term “State”.
+Section 907 inserted in second proviso of first par. “, or fully guaranteed as to principal and interest by,”, authorized an association to invest in participations or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National Mortgage Association or any other agency of the United States, and defined term “State”.
 
 Section 908 substituted in first sentence of second par. “20 per centum” and “$5,000” for “15 per centum” and “$3,500”, respectively.
 
@@ -1568,7 +1568,7 @@ Section 910 inserted after second par. the paragraph which authorized the associ
 
 Subsec. (h). Pub. L. 87–834 struck out provisions which exempted such associations, including their franchises, capital, reserves, and surplus, and their loans and income, and all shares of such associations both as to their value and the income therefrom, from all taxation imposed by the United States.
 
-1961—Pub. L. 87–70 inserted provisions in second par. authorizing investments in home improvement loans insured under subchapter II of chapter 13 of this title, and added former fourth, fifth, sixth and seventh par. (now sixth, seventh, eighth, and ninth) authorizing investments in non-amortized loans which are made on the security of first liens upon homes or combinations of homes and business property, in amortized loans or participating interests therein which are secured by first liens upon improved real estate used to provide housing facilities for the aging, in certificates of beneficial interest issued by any urban renewal investment trust, and permitting associations to invest in, to lend to, or to commit themselves to lend to any business development credit corporation incorporated in the State in which the head office of the association is situated.
+1961—Pub. L. 87–70 inserted provisions in second par. authorizing investments in home improvement loans insured under subchapter II of chapter 13 of this title,and added former fourth, fifth, sixth and seventh par. (now sixth, seventh, eighth, and ninth) authorizing investments in non-amortized loans which are made on the security of first liens upon homes or combinations of homes and business property, in amortized loans or participating interests therein which are secured by first liens upon improved real estate used to provide housing facilities for the aging, in certificates of beneficial interest issued by any urban renewal investment trust, and permitting associations to invest in, to lend to, or to commit themselves to lend to any business development credit corporation incorporated in the State in which the head office of the association is situated.
 
 1960—Subsec. (d)(1). Pub. L. 86–507 inserted “or by certified mail,” after “registered mail,”.
 
@@ -1638,7 +1638,7 @@ Prior to its repeal by section 509(a) of Pub. L. 100–86, section 141 of Pub. L
 
 &emsp;“(3) the provision of law amended by section 116 of this Act \[section 1823(f) of this title\] shall be amended to read as it would without such amendment;
 
-&emsp;“(4) the provisions of law amended by subsections (a) \[section 1843(c)(8) of this title\] and (c) \[section 1842(d) of this title\] of section 118 shall be amended to read as they would without such amendments;
+&emsp;“(4) the provisions of law amended by subsections (a) \[section 1843(c)(8) of this title\] and (c) \[section1842(d) of this title\] of section 118 shall be amended to read as they would without such amendments;
 
 &emsp;“(5) the provision of law amended by section 121 of this Act \[section 1464(p) of this title\] shall be amended to read as it would without such amendment;
 
@@ -1692,7 +1692,7 @@ Section 6(g)(4) of Pub. L. 87–834, as amended by Pub. L. 99–514, §2, Oct. 2
 
 “Subsection (e) of this section \[amending this section and section 4382 of Title 26, Internal Revenue Code\] shall become effective on January 1, 1963, except that—
 
-&emsp;“(A) in the case of the tax imposed by section 4251 of the Internal Revenue Code of 1986 \[formerly I.R.C.1954, section 4251 of title 26\], such subsection shall apply only with respect to amounts paid pursuant to bills rendered after December 31, 1962; and
+&emsp;“(A) in the case of the tax imposed by section 4251 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4251 of title 26\], such subsection shall apply only with respect to amounts paid pursuant to bills rendered after December 31, 1962; and
 
 &emsp;“(B) in the case of the tax imposed by section 4261 of such Code \[section 4261 of title 26\], such subsection shall apply only with respect to transportation beginning after December 31, 1962.”
 
@@ -1710,7 +1710,7 @@ Section 615 of act Oct. 20, 1951, provided that: “No amendment made by this Ac
 
 Section 701 of title VII of Pub. L. 93–383 provided that: “This title \[amending this section and sections 371, 1757, 1759, 1761b, 1761d, 1763, 1772, 1782, 1786, and 1788 of this title\] may be cited as the ‘Consumer Home Mortgage Assistance Act of 1974’.”
 
-#### Short Title
+#### Short Title of 1966 Amendment
 
 Section 1 of Pub. L. 89–695 provided: “That this Act \[amending this section and sections 1724, 1728, 1730, 1730a, 1813, and 1817 to 1821 of this title, repealing section 77 of this title, and enacting provisions set out as notes under this section and sections 1724, 1730, and 1813 of this title\] may be cited as the ‘Financial Institutions Supervisory Act of 1966’.”
 

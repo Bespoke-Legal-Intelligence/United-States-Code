@@ -26,7 +26,7 @@ Illinois is divided into three judicial districts to be known as the Northern, C
 
 &emsp;&emsp;Court for the Southern District shall be held at Alton, Benton, Cairo, and East Saint Louis.
 
-(June 25, 1948, ch. 646, 62 Stat. 878; Aug. 10, 1950, ch. 675, §1, 64 Stat. 438; May 19, 1961, Pub. L. 87–36, §3(c), 75 Stat. 83; June 2, 1970, Pub. L. 91–272, §8, 84 Stat. 297; Oct. 2, 1978, Pub. L. 95–408, §4(b)(1), 92 Stat. 884; Nov. 2, 1978, Pub. L. 95–573, §1, 92 Stat. 2458; Nov. 8, 1984, Pub. L. 98–620, title IV, §406(a), (c), 98 Stat. 3361.)
+(June 25, 1948, ch. 646, 62 Stat. 878; Aug. 10, 1950, ch. 675, §1, 64 Stat. 438; Pub. L. 87–36, §3(c), May 19, 1961, 75 Stat. 83; Pub. L. 91–272, §8, June 2, 1970, 84 Stat. 297; Pub. L. 95–408, §4(b)(1), Oct. 2, 1978, 92 Stat. 884; Pub. L. 95–573, §1, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 98–620, title IV, §406(a), (c), Nov. 8, 1984, 98 Stat. 3361.)
 
 #### Historical and Revision Notes
 
@@ -38,13 +38,13 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1984—Subsec. (a)(1). Pub. L. 98–620, §406(a)(1), struck out De Kalb and McHenry from the counties comprising the Eastern Division of the Northern District.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–620, §406(a)(1), struck out De Kalb and McHenry from the counties comprising the Eastern Division of the Northern District.
 
 Subsec. (a)(2). Pub. L. 98–620, §406(a)(2), added De Kalb and McHenry to the counties comprising the Western Division of the Northern District.
 
 Subsec. (b). Pub. L. 98–620, §406(c), provided for holding court at Champaign/Urbana.
 
-1978—Pub. L. 95–408 substituted in introductory provisions “Northern, Central, and Southern Districts of Illinois” for “Northern, Southern, and Eastern Districts of Illinois”.
+<b>1978</b>—Pub. L. 95–408 substituted in introductory provisions “Northern, Central, and Southern Districts of Illinois” for “Northern, Southern, and Eastern Districts of Illinois”.
 
 Subsec. (a)(1). Pub. L. 95–573, §1(1), struck out Kankakee from the counties comprising the Eastern Division of the Northern District.
 
@@ -52,15 +52,15 @@ Pub. L. 95–408 added Kankakee to the counties comprising the Eastern Division 
 
 Subsec. (b). Pub. L. 95–573, §1(2), added Kankakee to the counties comprising the Central District.
 
-Pub. L. 95–408 substituted “Central District” for “Southern District” in heading, struck out subsec. (b)(1) and (2) designations, which divided Southern District into a Northern and Southern Division, and in such newly created Central District, added counties of Champaign, Coles, Douglas, Edgar, Ford, Iroquois, Moultrie, Piatt, Shelby, and Vermilion to, and struck out counties of Bond, Calhoun, Jersey, and Madison from, those counties comprising the new Central District, and substituted provisions for holding of a term of Court for Central District at Danville, Peoria, Quincy, Rock Island, and Springfield for provisions for holding of a term of Court for Northern Division of the former Southern District at Peoria and Rock Island and for Southern Division of former Southern District at Alton, Quincy, and Springfield.
+Pub. L. 95–408 substituted “Central District” for “Southern District” in heading, struck out subsec. (b)(1) and (2) designations, which divided Southern District into a Northern and Southern Division, and in such newly created Central District, added counties of Champaign, Coles, Douglas, Edgar, Ford, Iroquois, Moultrie, Piatt, Shelby, and Vermilion to, and struck out counties of Bond, Calhoun, Jersey, and Madisonfrom, those counties comprising the new Central District, and substituted provisions for holding of a term of Court for Central District at Danville, Peoria, Quincy, Rock Island, and Springfield for provisions for holding of a term of Court for Northern Division of the former Southern District at Peoria and Rock Island and for Southern Division of former Southern District at Alton, Quincy, and Springfield.
 
 Subsec. (c). Pub. L. 95–408 substituted “Southern District” for “Eastern District” in heading, and in such Southern District added counties of Bond, Calhoun, Jersey, and Madison to, and struck out counties of Champaign, Coles, Douglas, Edgar, Ford, Iroquois, Kankakee, Moultrie, Piatt, Shelby and Vermilion from, those counties comprising Southern District, and substituted provisions for holding of a term of Court for Southern District at Alton, Benton, Cairo, and East Saint Louis for provisions for holding of a term of Court for Eastern District at Benton, Cairo, Danville, and East Saint Louis.
 
-1970—Subsec. (a)(2). Pub. L. 91–272 provided for holding court at Rockford.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–272 provided for holding court at Rockford.
 
-1961—Subsec. (b)(2). Pub. L. 87–36 provided for holding court at Alton.
+<b>1961</b>—Subsec. (b)(2). Pub. L. 87–36 provided for holding court at Alton.
 
-1950—Subsec. (b)(1). Act Aug. 10, 1950, provided for holding court at Rock Island.
+<b>1950</b>—Subsec. (b)(1). Act Aug. 10, 1950, provided for holding court at Rock Island.
 
 #### Effective Date of 1984 Amendment
 

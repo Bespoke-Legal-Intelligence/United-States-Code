@@ -40,7 +40,7 @@
 
 (c) The Court of Appeals for the Federal Circuit shall review the matter referred in accordance with the standards specified in section 10(b) of the Contract Disputes Act of 1978. The court shall proceed with judicial review on the administrative record made before the board of contract appeals on matters so referred as in other cases pending in such court, shall determine the issue of finality of the appeal decision, and shall, if appropriate, render judgment thereon, or remand the matter to any administrative or executive body or official with such direction as it may deem proper and just.
 
-(Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, §205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516.)
+(Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, §205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418,title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516.)
 
 #### References in Text
 
@@ -56,15 +56,15 @@ Section 523 of the Energy Policy and Conservation Act, referred to in subsec. (a
 
 #### Amendments
 
-1992—Subsec. (a)(3). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (a)(11) to (14). Pub. L. 102–572, §102(c), added pars. (11) to (14).
 
-1988—Subsec. (a)(1). Pub. L. 100–702 inserted “, exclusive rights in mask works,” after “copyrights”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–702 inserted “, exclusive rights in mask works,” after “copyrights”.
 
 Subsec. (a)(7). Pub. L. 100–418 substituted “U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States” for “headnote 6 to schedule 8, part 4, of the Tariff Schedules of the United States”.
 
-1984—Subsec. (a)(4)(A). Pub. L. 98–622 substituted “Patent Appeals and” for “Appeals or the Board of Patent”.
+<b>1984</b>—Subsec. (a)(4)(A). Pub. L. 98–622 substituted “Patent Appeals and” for “Appeals or the Board of Patent”.
 
 #### Effective Date of 1992 Amendment
 
@@ -102,7 +102,7 @@ Pending Cases.—(1) Any appeal which, before the effective date of abolition de
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 # Printed pages - Title 04 - Flag and Seal, Seat of Government, and the States
 
-GPO's 1996 edition (laws in effect as of 1997-01-06), from its printed page marks. The exact position of
+GPO's 1997 edition (laws in effect as of 1998-01-26), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title4.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -39,4 +39,4 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00143 - Employment and utilization of other personnel; cost of copy reading and indexing](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000143%20-%20Employment%20and%20utilization%20of%20other%20personnel%3B%20cost%20of%20copy%20reading%20and%20indexing.md) | 9 |
 | [&sect; 00144 - Cooperation of departments and agencies](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000144%20-%20Cooperation%20of%20departments%20and%20agencies.md) | 9 |
 | [&sect; 00145 - Printing and distribution](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000145%20-%20Printing%20and%20distribution.md) | 9 |
-| [&sect; 00146 - Authorization of appropriations](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000146%20-%20Authorization%20of%20appropriations.md) | 9 |
+| [&sect; 00146 - Authorization of appropriations](Chapter%20005%20-%20Official%20Territorial%20Papers/%C2%A7%2000146%20-%20Authorization%20of%20appropriations.md) | 9–10 |

@@ -8,7 +8,7 @@
 
 &emsp;(2) the Chaplains;
 
-> in general officers on the active-duty list of the Regular Army is 5/1,000 of the authorized strength of the branch concerned in commissioned officers on the active-duty list of the Regular Army. Not more than one-half of the authorized strength in general officers in such a branch may be in a regular grade above brigadier general.
+> in general officers on the active-duty list of the Regular Army is 5/1,000 of the authorized strength of the branch concerned in commissioned officers on the active-duty list of the Regular Army. Not more than one-half of the authorized strength in general officers in such abranch may be in a regular grade above brigadier general.
 
 (c) When the application of the percentages and ratios specified in this section results in a fraction, a fraction of one-half or more is counted as one, and a fraction of less than one-half is disregarded.
 
@@ -100,7 +100,7 @@ In subsection (c)(2), the figures “3” and “2” result from the allocation
 
 In subsection (c)(3), the figure “1” results from the allocation of the original figure “1”. None was allocated to the Air Force.
 
-In subsection (c)(4), the figure “1” results from the allocation of the original figures “2” and “1”. (Themajor general was allocated to the Army, the brigadier general to the Air Force.)
+In subsection (c)(4), the figure “1” results from the allocation of the original figures “2” and “1”. (The major general was allocated to the Army, the brigadier general to the Air Force.)
 
 In subsection (c)(5), the figures “188” and “94” result from the allocation of the original figures “334” and “167”. The allocation of 188 corresponds to the allotment made by the Secretary of War between the Air Corps and the Army exclusive of the Air Corps, the Medical Department, and the Chaplains, under 10:506a(a) (3d proviso). That proviso is omitted as executed.
 
@@ -146,7 +146,7 @@ In subsection (a), the words “Subject to section 3202(a) of this title” are 
 
 Subsec. (b). Pub. L. 96–513, §502(5)(A), (C), substituted “active-duty list” for “active list” wherever appearing and substituted paragraphed references to “(1) each corps of the Army Medical Department” and “(2) the Chaplains” for former paragraphed references to “(1) The Medical Corps”, “(2) the Dental Corps”, “(3) the Veterinary Corps”, and “(4) the Chaplains”.
 
-Subsecs. (d), (e). Pub. L. 96–513, §502(5)(D), struck out subsec. (d) which provided that general officers on the active list of the Regular Army who were specifically authorized by law to hold a civil office under the United States or any instrumentality thereof were not counted in determining authorized strength under this section and subsec. (e) which had provided that the authorized strength of the Medical Service Corps in general officers on the active list of the Regular Army was one commissioned officer in the regular grade of brigadier general.
+Subsecs. (d), (e). Pub. L. 96–513, §502(5)(D), struck out subsec. (d) which provided that general officers on the active list of the Regular Army who were specifically authorized by law to hold a civil office under theUnited States or any instrumentality thereof were not counted in determining authorized strength under this section and subsec. (e) which had provided that the authorized strength of the Medical Service Corps in general officers on the active list of the Regular Army was one commissioned officer in the regular grade of brigadier general.
 
 1968—Subsec. (a). Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service”.
 

@@ -1,0 +1,20 @@
+### §561. Scrambling of sexually explicit adult video service programming
+
+#### (a) Requirement
+
+In providing sexually explicit adult programming or other programming that is indecent on any channel of its service primarily dedicated to sexually-oriented programming, a multichannel video programming distributor shall fully scramble or otherwise fully block the video and audio portion of such channel so that one not a subscriber to such channel or programming does not receive it.
+
+#### (b) Implementation
+
+Until a multichannel video programming distributor complies with the requirement set forth in subsection (a) of this section, the distributor shall limit the access of children to the programming referred to in that subsection by not providing such programming during the hours of the day (as determined by the Commission) when a significant number of children are likely to view it.
+
+#### (c) “Scramble” defined
+
+As used in this section, the term “scramble” means to rearrange the content of the signal of the programming so that the programming cannot be viewed or heard in an understandable manner.
+
+(June 19, 1934, ch. 652, title VI, §641, as added Pub. L. 104–104, title V, §505(a), Feb. 8, 1996, 110 Stat. 136.)
+
+#### Effective Date
+
+Section 505(b) of Pub. L. 104–104 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect 30 days after the date of enactment of this Act \[Feb. 8, 1996\].”
+

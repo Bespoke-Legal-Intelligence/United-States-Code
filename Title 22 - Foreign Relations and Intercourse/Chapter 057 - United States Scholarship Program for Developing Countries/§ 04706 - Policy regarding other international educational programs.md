@@ -2,7 +2,7 @@
 
 #### (a) AID-funded programs
 
-The Congress urges the administrator of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], in implementing programs authorized under that part, to increase assistance for undergraduate scholarships for students of limited financial means from developing countries to study in the United States at United States institutions of higher education. To the maximum extent practicable, such scholarship assistance shall be furnished in accordance with the guidelines contained in section 4704 of this title.
+The Congress urges the administrator of the agency primarily responsible for administeringpart I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], in implementing programs authorized under that part, to increase assistance for undergraduate scholarships for students of limited financial means from developing countries to study in the United States at United States institutions of higher education. To the maximum extent practicable, such scholarship assistance shall be furnished in accordance with the guidelines contained in section 4704 of this title.
 
 #### (b) USIA-funded postgraduate study in the United States
 
@@ -16,5 +16,5 @@ The Congress urges the President to take such steps as are necessary to expand t
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, asamended. Part I of the Act is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–228, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Part I of the Act is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–228, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 

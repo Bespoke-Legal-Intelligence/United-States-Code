@@ -10,7 +10,7 @@
 
 (B) The first Counsel and the first Deputy Counsel shall be appointed, approved, and begin service within ninety days after January 3, 1979, and thereafter the Counsel and Deputy Counsel shall be appointed, approved, and begin service within thirty days after the beginning of the session of the Congress immediately following the termination of a Counsel's or Deputy Counsel's term of service or within sixty days after a vacancy occurs in either position.
 
-(4) The Counsel shall receive compensation at a rate equal to the annual rate of basic pay for level III of the Executive Schedule under section 5314 of title 5. The Deputy Counsel shall receive compensation at a rate equal to the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of title 5.
+(4) The Counsel shall receive compensation at a rate equal to the annual rate of basic pay for level III of the Executive Schedule under section 5314 of title 5. The Deputy Counsel shall receivecompensation at a rate equal to the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of title 5.
 
 #### (b) Assistant counsels and other personnel; compensation; appointment; removal
 

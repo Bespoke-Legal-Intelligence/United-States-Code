@@ -46,7 +46,7 @@ States eligible to receive a grant under this section may conduct a variety of a
 
 #### (2) State contribution
 
-&emsp;To be eligible to receive a grant under this section, a State shall agree to pay, from Stateappropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c) of this section.
+&emsp;To be eligible to receive a grant under this section, a State shall agree to pay, from State appropriated funds, other State revenue, or from private contributions received by the State, not less than 50 percent of the cost of the establishment or enhancement of the sustainable agriculture program under an approved plan under subsection (c) of this section.
 
 (Pub. L. 101–624, title XVI, §1623, Nov. 28, 1990, 104 Stat. 3738.)
 

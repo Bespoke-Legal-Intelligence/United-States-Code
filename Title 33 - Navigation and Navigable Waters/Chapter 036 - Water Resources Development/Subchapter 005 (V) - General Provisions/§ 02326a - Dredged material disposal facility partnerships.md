@@ -34,7 +34,7 @@
 
 #### (A) Agreements
 
-&emsp;&emsp;In carrying out this subsection, the Secretary may enter into an agreement with a non-Federal interest with respect to a project, a private entity, or both for the acquisition, design, construction, management, or operation of a dredged material disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material) using funds provided in whole or in part by the private entity.
+&emsp;&emsp;In carrying out this subsection, the Secretary may enter into an agreement with a non-Federal interest with respect to a project, a private entity, or both for the acquisition, design, construction, management, or operation of a dredged material disposal facility (including any facility used todemonstrate potential beneficial uses of dredged material) using funds provided in whole or in part by the private entity.
 
 #### (B) Reimbursement
 

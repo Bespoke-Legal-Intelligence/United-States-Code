@@ -18,7 +18,7 @@ Each such purchase contract shall include such provisions as the Administrator o
 
 &emsp;(1) amortize—
 
-&emsp;&emsp;(A) the cost of improvements to be constructed plus the fair market value, on the date of the agreement, of the site, if owned or acquired by the contractor; or
+&emsp;&emsp;(A) the cost of improvements to be constructed plus the fair market value, on thedate of the agreement, of the site, if owned or acquired by the contractor; or
 
 &emsp;&emsp;(B) the fair market value, on the date of the agreement, of completed improvements together with the site thereof; or
 
@@ -52,7 +52,7 @@ If any provision of this section or the application thereof to any person or cir
 
 (2) Except as provided by paragraph (1) of this subsection, sections 34, 37a,<sup>1</sup> 259,<sup>1</sup> 267 <sup>1</sup> and 304c of this title; and sections 12 and 14 of title 41; and any other provision of law (except applicable labor standards provisions) relating to the acquisition of real property, construction of buildings, or leasing of space, shall not apply to purchase contract agreements executed under this section.
 
-(June 16, 1949, ch. 218, title IV, §411, as added July 22, 1954, ch. 560, title I, §101, 68 Stat. 518; amended July 9, 1956, ch. 525, §1, 70 Stat. 510; Aug. 12, 1970, Pub. L. 91–375, §§4(a), 6(m)(1), (<i>o</i>), 84 Stat. 773, 782, 783.)
+(June 16, 1949, ch. 218, title IV, §411, as added July 22, 1954, ch. 560, title I, §101, 68 Stat. 518; amended July 9, 1956, ch. 525, §1, 70 Stat. 510; Pub. L. 91–375, §§4(a), 6(m)(1), (<i>o</i>), Aug. 12, 1970, 84 Stat. 773, 782, 783.)
 
 #### References in Text
 
@@ -80,7 +80,7 @@ A prior section 411 of act June 16, 1949, was renumbered section 413 and is set 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by theBoard of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Short Title
 

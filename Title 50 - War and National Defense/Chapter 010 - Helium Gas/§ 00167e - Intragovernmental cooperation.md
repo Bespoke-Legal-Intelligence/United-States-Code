@@ -2,7 +2,7 @@
 
 The Secretary of Defense and the Chairman of the Atomic Energy Commission may each designate representatives to cooperate with the Secretary in carrying out the purposes of this chapter, and shall have complete right of access to plants, data, and accounts.
 
-(Mar. 3, 1925, ch. 426, §7, as added Sept. 13, 1960, Pub. L. 86–777, §2, 74 Stat. 921.)
+(Mar. 3, 1925, ch. 426, §7, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 921.)
 
 #### Transfer of Functions
 

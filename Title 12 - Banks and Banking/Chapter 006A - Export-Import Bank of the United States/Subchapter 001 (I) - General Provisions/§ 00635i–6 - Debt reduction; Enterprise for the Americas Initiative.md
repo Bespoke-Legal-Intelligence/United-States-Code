@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps; or
 
-&emsp;&emsp;(B) a debt buy-back by an eligible country of its own qualified debt, only if the eligible country uses an additional amount of the local currency of the eligible country, equal to not less than 40 percent of the price paid for such debt by such eligible country, or the difference between the price paid for such debt and the face value of such debt, to support activities that link conservation and sustainable use of natural resources with local community development, and child survival and other child development activities, in a manner consistent with sections 1738f through 1738k of title 7,
+&emsp;&emsp;(B) a debt buy-back by an eligible country of its own qualified debt, only if the eligible country uses an additional amount of the local currency of the eligible country, equal to not less than 40 percent of the price paid for such debt by such eligible country, or the difference between the price paid for suchdebt and the face value of such debt, to support activities that link conservation and sustainable use of natural resources with local community development, and child survival and other child development activities, in a manner consistent with sections 1738f through 1738k of title 7,
 
 > &emsp;if the sale, reduction, or cancellation would not contravene any term or condition of any prior agreement relating to such loan.
 
@@ -66,7 +66,7 @@ The proceeds from the sale, reduction, or cancellation of any loan sold, reduced
 
 #### (e) Eligible purchasers
 
-A loan may be sold pursuant to subsection (c)(1)(A) of this section only to a purchaser whopresents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
+A loan may be sold pursuant to subsection (c)(1)(A) of this section only to a purchaser who presents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
 
 #### (f) Debtor consultation
 
@@ -76,7 +76,7 @@ Before the sale to any eligible purchaser, or any reduction or cancellation purs
 
 For the sale, reduction, and cancellation of loans or portions thereof pursuant to this section, there are authorized to be appropriated to the President such sums as may be necessary, which are authorized to remain available until expended.
 
-(July 31, 1945, ch. 341, §12, formerly §18, as added and renumbered §12, Oct. 21, 1992, Pub. L. 102–429, title I, §§108, 121(c)(6), 106 Stat. 2191, 2199.)
+(July 31, 1945, ch. 341, §12, formerly §18, as added and renumbered §12, Pub. L. 102–429, title I, §§108, 121(c)(6), Oct. 21, 1992, 106 Stat. 2191, 2199.)
 
 #### References in Text
 

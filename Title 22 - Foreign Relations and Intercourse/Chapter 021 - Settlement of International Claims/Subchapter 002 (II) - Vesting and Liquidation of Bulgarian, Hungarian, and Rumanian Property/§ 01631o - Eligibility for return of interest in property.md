@@ -2,7 +2,7 @@
 
 #### (a) Persons eligible; determination; prerequisites
 
-Notwithstanding any other provision of this chapter or any provision of the Trading With the Enemy Act, as amended, any person (1) who was formerly a national of Bulgaria, Hungary, or Rumania, and (2) who, as a consequence of any law, decree, or regulation of the nation of which he was a national discriminating against political, racial or religious groups, at no time between December 7, 1941, and the time when such law, decree, or regulation was abrogated enjoyed full rights of citizenship under the law of such nation, shall be eligible hereunder to receive the return of his interest in property which was vested under section 1631a(a) of this title or under the Trading With the Enemy Act, as amended, as the property of a corporation organized under the laws of Bulgaria, Hungary, or Rumania if 25 per centum or more of the outstanding capital stock of such corporation was owned at the date of vesting by such persons and nationals of countries other than Bulgaria, Hungary, Rumania, Germany, or Japan, or if such corporation was subjected after December 7, 1941, under the laws of its country, to special wartime measures directed against it because of the enemy character of some or all of its stockholders; and no certificate by the Department of State as provided under section 1631f(c) of this title shall be required for such persons.
+Notwithstanding any other provision of this chapter or any provision of the Trading With the Enemy Act, as amended, any person (1) who was formerly a national of Bulgaria, Hungary, or Rumania, and (2) who, as a consequence of any law, decree, or regulation of the nation of which he was a national discriminating against political, racial or religious groups, at no time between December 7, 1941, and the time when such law, decree, or regulation was abrogated enjoyed full rights of citizenship under the law of such nation, shall be eligible hereunder to receive the return of his interest in property which was vested under section 1631a(a) of this title or under the Trading With the Enemy Act, as amended, as the property of a corporation organized under the laws of Bulgaria, Hungary, or Rumania if 25 per centum or more of the outstanding capital stock of such corporation was owned at the date of vesting by such persons andnationals of countries other than Bulgaria, Hungary, Rumania, Germany, or Japan, or if such corporation was subjected after December 7, 1941, under the laws of its country, to special wartime measures directed against it because of the enemy character of some or all of its stockholders; and no certificate by the Department of State as provided under section 1631f(c) of this title shall be required for such persons.
 
 #### (b) Notice of claim; time of claim; fund for payment
 
@@ -12,7 +12,7 @@ An interest in property vested under the Trading With the Enemy Act, as amended,
 
 Determinations by the designee of the President or any other officer or agency with respect to claims under this section, including the allowance or disallowance thereof, shall be final and shall not be subject to review by any court.
 
-(Mar. 10, 1950, ch. 54, title II, §216, as added July 24, 1968, Pub. L. 90–421, §1(7), 82 Stat. 421.)
+(Mar. 10, 1950, ch. 54, title II, §216, as added Pub. L. 90–421, §1(7), July 24, 1968, 82 Stat. 421.)
 
 #### References in Text
 

@@ -16,5 +16,5 @@ A claim under section 1644b of this title for losses based upon an indirect owne
 
 The amount of any claim covered by subsections (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant at the time of loss bears to the entire ownership interest thereof.
 
-(Mar. 10, 1950, ch. 54, title VI, §604, as added Oct. 18, 1976, Pub. L. 94–542, 90 Stat. 2510.)
+(Mar. 10, 1950, ch. 54, title VI, §604, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2510.)
 

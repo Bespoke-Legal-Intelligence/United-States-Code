@@ -1,6 +1,6 @@
 ### §620. Federal Judicial Center
 
-(a) There is established within the judicial branch of the Government a Federal JudicialCenter, whose purpose it shall be to further the development and adoption of improved judicial administration in the courts of the United States.
+(a) There is established within the judicial branch of the Government a Federal Judicial Center, whose purpose it shall be to further the development and adoption of improved judicial administration in the courts of the United States.
 
 (b) The Center shall have the following functions:
 
@@ -20,15 +20,15 @@
 
 #### Amendments
 
-1992—Subsec. (b)(6). Pub. L. 102–572 added par. (6).
+<b>1992</b>—Subsec. (b)(6). Pub. L. 102–572 added par. (6).
 
-1988—Subsec. (b)(3). Pub. L. 100–702 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government, including, but not limited to, judges, clerks of court, probation officers, and United States magistrates;”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–702 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government, including, but not limited to, judges, clerks of court, probation officers, and United States magistrates;”.
 
-1986—Subsec. (b)(3). Pub. L. 99–336 struck out “referees,” after “judges,” and substituted “magistrates” for “commissioners”.
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–336 struck out “referees,” after “judges,” and substituted “magistrates” for “commissioners”.
 
-1984—Subsec. (b)(5). Pub. L. 98–620 added par. (5).
+<b>1984</b>—Subsec. (b)(5). Pub. L. 98–620 added par. (5).
 
-1978—Subsec. (b)(3). Pub. L. 95–598 directed the amendment of par. (3) by striking out “referees,” and by substituting “magistrates” for “commissioners”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsec. (b)(3). Pub. L. 95–598 directed the amendment of par. (3) by striking out “referees,” and by substituting “magistrates” for “commissioners”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 #### Change of Name
 

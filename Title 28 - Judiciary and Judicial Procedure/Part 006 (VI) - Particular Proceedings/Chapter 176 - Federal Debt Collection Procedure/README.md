@@ -1,12 +1,7 @@
 ### <b>CHAPTER 176—FEDERAL DEBT COLLECTION PROCEDURE</b>
 
-| Subchapter | Sec.<sup>1</sup> |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| Subchapter |  | Sec.<sup>1</sup> |
+| :--- | ---: | ---: |
 | [<b>A.</b>](Subchapter%20A%20-%20Definitions%20and%20General%20Provisions/README.md) | <b>Definitions and general provisions</b> | <b>3001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,6 +18,10 @@
 | [<b>D.</b>](Subchapter%20D%20-%20Fraudulent%20Transfers%20Involving%20Debts/README.md) | <b>Fraudulent transfers </b><b><sup>2</sup></b> | <b>3301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> Editorially supplied.</i>
+
+<i><sup>2</sup></i><i> So in original. Does not conform to subchapter heading.</i>
 
 
 ---

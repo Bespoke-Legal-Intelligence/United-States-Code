@@ -72,6 +72,52 @@ A prior section 5013 was renumbered section 5063 of this title.
 
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
 
+#### Navy Higher Education Pilot Program Regarding Administration of Business Relationships Between Government and Private Sector
+
+Pub. L. 105–85, div. A, title XI, §1108, Nov. 18, 1997, 111 Stat. 1926, provided that:
+
+“(a)
+
+Pilot Project Authorized.—During fiscal years 1998 through 2002, the Secretary of the Navy may establish and conduct a pilot program of graduate-level higher education regarding the administration of business relationships between the Government and the private sector.
+
+“(b)
+
+Purpose.—The purpose of the pilot program is to make available to employees of the Naval Undersea Warfare Center, employees of the Naval Sea Systems Command, and employees of the Acquisition Center for Excellence of the Navy (upon establishment of such Acquisition Center), a curriculum of graduate-level higher education leading to the award of a graduate degree designed to prepare participants effectively to meet the challenges of administering Government contracting and other business relationships between the United States and private sector businesses in the context of constantly changing or newly emerging industries, technologies, governmental organizations, policies, and procedures (including governmental organizations, policies, and procedures recommended in the National Performance Review).
+
+“(c)
+
+Partnership With Institution of Higher Education.—(1) The Secretary of the Navy may enter into an agreement with an institution of higher education to assist the Naval Undersea Warfare Center with the development of the curriculum for the pilot program, to offer courses and provide instruction and materials to participants to the extent provided for in the agreement, to provide such other assistance in support of the program as may be provided for in the agreement, and to award a graduate degree under the program.
+
+“(2) To be eligible to enter into an agreement under paragraph (1), an institution of higher education must have an established program of graduate-level education that is relevant to the purpose of the pilot program.
+
+“(d)
+
+Curriculum.—The curriculum offered under the pilot program shall—
+
+&emsp;“(1) be designed specifically to achieve the purpose of the pilot program; and
+
+&emsp;“(2) include courses that are—
+
+&emsp;&emsp;“(A) typically offered under curricula leading to award of the degree of Master of Business Administration by institutions of higher education; and
+
+&emsp;&emsp;“(B) necessary for meeting educational qualification requirements for certification as an acquisition program manager.
+
+“(e)
+
+Distance Learning Option.—The Secretary of the Navy may include as part of the pilot program policies and procedures for offering distance learning instruction by means of telecommunications, correspondence, or other methods for off-site receipt of instruction.
+
+“(f)
+
+Report.—Not later than 90 days after the termination of the pilot program, the Secretary of the Navy shall submit to Congress a report containing—
+
+&emsp;“(1) an assessment by the Secretary of the value of the program for meeting the purpose of the program and the desirability of permanently establishing a similar program for other employees of the Department of Defense; and
+
+&emsp;“(2) such other information and recommendations regarding the program as the Secretary considers appropriate.
+
+“(g)
+
+Limitation on Funding Source.—Any funds required for the pilot program for a fiscal year shall be derived only from the appropriation ‘Operation and Maintenance, Navy’ for that fiscal year.”
+
 #### Use of Naval Installations for Employment Training of Nonviolent Offenders in State Penal Systems
 
 Pub. L. 103–160, div. A, title XIII, §1374, Nov. 30, 1993, 107 Stat. 1821, as amended by Pub. L. 103–337, div. A, title X, §1064, Oct. 5, 1994, 108 Stat. 2848, provided that:
@@ -108,7 +154,7 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 “(f)
 
-Report.—Not later than two years after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall submit to Congress a report evaluating the success of the demonstration project and containing such recommendations with regard to the termination, continuation, or expansion of the demonstration project as the Secretary considers to be appropriate.”
+Report.—Not later than two years after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall submit to Congress a report evaluating thesuccess of the demonstration project and containing such recommendations with regard to the termination, continuation, or expansion of the demonstration project as the Secretary considers to be appropriate.”
 
 #### Order of Succession
 

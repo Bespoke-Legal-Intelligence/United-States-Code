@@ -50,7 +50,7 @@ If an alien is permitted to depart voluntarily under this section and fails volu
 
 #### (e) Additional conditions
 
-The Attorney General may by regulation limit eligibility for voluntary departure under thissection for any class or classes of aliens. No court may review any regulation issued under this subsection.
+The Attorney General may by regulation limit eligibility for voluntary departure under this section for any class or classes of aliens. No court may review any regulation issued under this subsection.
 
 #### (f) Judicial review
 
@@ -64,5 +64,5 @@ Section effective, with certain transitional provisions, on the first day of the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1229a, 1231, 1252, 1330 of this title.
+This section is referred to in sections 1229a, 1231, 1252, 1330 of this title; title 18 section 4113.
 

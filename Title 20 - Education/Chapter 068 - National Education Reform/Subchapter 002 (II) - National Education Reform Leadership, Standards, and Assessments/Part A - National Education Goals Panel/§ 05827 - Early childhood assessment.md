@@ -18,7 +18,7 @@ The Groups shall—
 
 #### (c) Advice
 
-The Groups shall advise and assist the Congress, the Secretary, the Goals Panel, and othersregarding how to improve the assessment of young children and how such assessments can improve services to children.
+The Groups shall advise and assist the Congress, the Secretary, the Goals Panel, and others regarding how to improve the assessment of young children and how such assessments can improve services to children.
 
 #### (d) Report
 

@@ -32,7 +32,7 @@ Funding of projects and activities under this subchapter shall be subject to the
 
 &emsp;&emsp;(C) except as provided in subsection (e) of this section, not less than 84 percent shall be set aside to be awarded to qualified applicants who file project applications with, or respond to requests for proposals from, the Corporation under sections 5904 and 5905 of this title.
 
-&emsp;(2) Any funds remaining uncommitted at the end of a fiscal year shall be credited to theFund and added to the total program funds available to the Corporation for the next fiscal year.
+&emsp;(2) Any funds remaining uncommitted at the end of a fiscal year shall be credited to the Fund and added to the total program funds available to the Corporation for the next fiscal year.
 
 #### (d) Authorized administrative expenses
 

@@ -1,6 +1,6 @@
 ### §3521. Witness relocation and protection
 
-(a)(1) The Attorney General may provide for the relocation and other protection of a witness or a potential witness for the Federal Government or for a State government in an official proceeding concerning an organized criminal activity or other serious offense, if the Attorney General determines that an offense involving a crime of violence directed at the witness with respect to that proceeding, an offense set forth in chapter 73 of this title directed at the witness, or a State offense that is similar in nature to either such offense, is likely to be committed.The Attorney General may also provide for the relocation and other protection of the immediate family of, or a person otherwise closely associated with, such witness or potential witness if the family or person may also be endangered on account of the participation of the witness in the judicial proceeding.
+(a)(1) The Attorney General may provide for the relocation and other protection of a witness or a potential witness for the Federal Government or for a State government in an official proceeding concerning an organized criminal activity or other serious offense, if the Attorney General determines that an offense involving a crime of violence directed at the witness with respect to that proceeding, an offense set forth in chapter 73 of this title directed at the witness, or a State offense that is similar in nature to either such offense, is likely to be committed. The Attorney General may also provide for the relocation and other protection of the immediate family of, or a person otherwise closely associated with, such witness or potential witness if the family or person may also be endangered on account of the participation of the witness in the judicial proceeding.
 
 (2) The Attorney General shall issue guidelines defining the types of cases for which the exercise of the authority of the Attorney General contained in paragraph (1) would be appropriate.
 
@@ -20,9 +20,11 @@
 
 &emsp;(F) provide other services necessary to assist the person in becoming self-sustaining;
 
-&emsp;(G) disclose or refuse to disclose the identity or location of the person relocated or protected, or any other matter concerning the person or the program after weighing the danger such a disclosure would pose to the person, the detriment it would cause to the general effectiveness of the program, and the benefit it would afford to the public or to the person seeking the disclosure, except that the Attorney General shall, upon the request of State or local law enforcement officials or pursuant to a court order, without undue delay, disclose to such officials the identity, location, criminal records, and fingerprints relating to the person relocated or protected when the Attorney General knows or the request indicates that the person is under investigation for or has been arrested for or charged with an offense that is punishable by more than one year in prison or that is a crime of violence; and
+&emsp;(G) disclose or refuse to disclose the identity or location of the person relocated or protected, or any other matter concerning the person or the program after weighing the danger such a disclosure would pose to the person, the detriment it would cause to the general effectiveness of the program, and the benefit it would afford to the public or to the person seeking the disclosure, except that the Attorney General shall, upon the request of State or local law enforcement officials or pursuant to a court order, without undue delay, disclose to such officials the identity, location, criminal records, and fingerprints relating to the person relocated or protected when the Attorney General knows or the request indicates that the person is under investigation for or has been arrested for or charged with an offense that is punishable by more than one year in prison or that is a crime of violence;
 
-&emsp;(H) exempt procurement for services, materials, and supplies, and the renovation and construction of safe sites within existing buildings from other provisions of law as may be required to maintain the security of protective witnesses and the integrity of the Witness Security Program.
+&emsp;(H) protect the confidentiality of the identity and location of persons subject to registration requirements as convicted offenders under Federal or State law, including prescribing alternative procedures to those otherwise provided by Federal or State law for registration and tracking of such persons; and
+
+&emsp;(I) exempt procurement for services, materials, and supplies, and the renovation and construction of safe sites within existing buildings from other provisions of law as may be required to maintain the security of protective witnesses and the integrity of the Witness Security Program.
 
 > The Attorney General shall establish an accurate, efficient, and effective system of records concerning the criminal history of persons provided protection under this chapter in order to provide the information described in subparagraph (G).
 
@@ -62,9 +64,11 @@
 
 (f) The Attorney General may terminate the protection provided under this chapter to any person who substantially breaches the memorandum of understanding entered into between the Attorney General and that person pursuant to subsection (d), or who provides false information concerning the memorandum of understanding or the circumstances pursuant to which the person was provided protection under this chapter, including information with respect to the nature and circumstances concerning child custody and visitation. Before terminating such protection, the Attorney General shall send notice to the person involved of the termination of the protection provided under this chapter and the reasons for the termination. The decision of the Attorney General to terminate such protection shall not be subject to judicial review.
 
-(Added Pub. L. 98–473, title II, §1208, Oct. 12, 1984, 98 Stat. 2153; amended Pub. L. 101–647, title XXXV, §3582, Nov. 29, 1990, 104 Stat. 4929.)
+(Added Pub. L. 98–473, title II, §1208, Oct. 12, 1984, 98 Stat. 2153; amended Pub. L. 101–647, title XXXV, §3582, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 105–119, title I, §115(a)(9), Nov. 26, 1997, 111 Stat. 2467.)
 
 #### Amendments
+
+1997—Subsec. (b)(1)(H), (I). Pub. L. 105–119 added subpar. (H) and redesignated former subpar. (H) as (I).
 
 1990—Subsec. (b)(1). Pub. L. 101–647, §3582(1), inserted “(G)” after “subparagraph” in last sentence.
 

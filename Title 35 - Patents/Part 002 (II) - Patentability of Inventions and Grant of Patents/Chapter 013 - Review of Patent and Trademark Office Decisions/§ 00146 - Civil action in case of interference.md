@@ -4,7 +4,7 @@ Any party to an interference dissatisfied with the decision of the Board of Pate
 
 Such suit may be instituted against the party in interest as shown by the records of the Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there be adverse parties residing in a plurality of districts not embraced within the same state, or an adverse party residing in a foreign country, the United States District Court for the District of Columbia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs. The Commissioner shall not be a necessary party but he shall be notified of the filing of the suit by the clerk of the court in which it is filed and shall have the right to intervene. Judgment of the court in favor of the right of an applicant to a patent shall authorize the Commissioner to issue such patent on the filing in the Patent and Trademark Office of a certified copy of the judgment and on compliance with the requirements of law.
 
-(July 19, 1952, ch. 950, 66 Stat. 803; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Apr. 2, 1982, Pub. L. 97–164, title I, §163(a)(7), 96 Stat. 49; Nov. 8, 1984, Pub. L. 98–622, title II, §203(c), 98 Stat. 3387.)
+(July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §203(c), Nov. 8, 1984, 98 Stat. 3387.)
 
 #### Historical and Revision Notes
 

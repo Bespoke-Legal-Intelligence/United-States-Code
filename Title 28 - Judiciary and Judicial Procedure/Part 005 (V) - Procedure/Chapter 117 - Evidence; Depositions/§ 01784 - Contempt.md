@@ -6,9 +6,9 @@
 
 (c) A copy of the order to show cause shall be served on the person in accordance with section 1783(b) of this title.
 
-(d) On the return day of the order to show cause or any later day to which the hearing may be continued, proof shall be taken. If the person is found in contempt, the court, notwithstanding any limitation upon its power generally to punish for contempt, may fine him not more than $100,000 and direct that the fine and costs of the proceedings be satisfied by a sale of the property levied upon or seized, conducted upon the notice required and in the manner provided for sales upon execution.
+(d) On the return day of the order to show cause or any later day to which the hearing may be continued, proof shall be taken. If the person is found in contempt, the court, notwithstanding any limitation upon its power generally to punish for contempt, may fine him not more than $100,000 and direct that the fine and costsof the proceedings be satisfied by a sale of the property levied upon or seized, conducted upon the notice required and in the manner provided for sales upon execution.
 
-(June 25, 1948, ch. 646, 62 Stat. 949; Oct. 3, 1964, Pub. L. 88–619, §11, 78 Stat. 998.)
+(June 25, 1948, ch. 646, 62 Stat. 949; Pub. L. 88–619, §11, Oct. 3, 1964, 78 Stat. 998.)
 
 #### Historical and Revision Notes
 
@@ -22,7 +22,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1964—Pub. L. 88–619 amended section generally, and among other changes, authorized the court to order a person to show cause for failing to produce a document or other thing in subsec. (a), provided that a copy of the order to show cause shall be served in accordance with section 1783(b) of this title, and struck out provisions requiring the marshal making levy or seizure to forward to any United States consul in the country where the witness may be, a copy of the order and a request for its personal service, and to cause publication of the order in the district where the issuing court sits, in subsec. (c), and struck out provisions in subsec. (d) permitting any judgment rendered upon service by publication only to be opened for answer within one year.
+<b>1964</b>—Pub. L. 88–619 amended section generally, and among other changes, authorized the court to order a person to show cause for failing to produce a document or other thing in subsec. (a), provided that a copy of the order to show cause shall be served in accordance with section 1783(b) of this title, and struck out provisions requiring the marshal making levy or seizure to forward to any United States consul in the country where the witness may be, a copy of the order and a request for its personal service, and to cause publication of the order in the district where the issuing court sits, in subsec. (c), and struck out provisions in subsec. (d) permitting any judgment rendered upon service by publication only to be opened for answer within one year.
 
 #### Federal Rules of Civil Procedure
 

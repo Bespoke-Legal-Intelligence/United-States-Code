@@ -2,7 +2,7 @@
 
 In the preparation of projects under this and subsequent river and harbor acts and after the project becomes operational, unless otherwise expressed, the channel depths referred to shall be understood to signify the depth at mean lower low water, as defined by the Department of Commerce for nautical charts and tidal predictions, in tidal waters tributary to the Atlantic and Gulf coasts and at mean lower low water, as defined by the Department of Commerce for nautical charts and tidal predictions, in tidal waters tributary to the Pacific coast and the mean depth for a continuous period of fifteen days of the lowest water, as defined by the Department of Commerce for nautical charts and tidal predictions, in the navigation season of any year in rivers and nontidal channels, and and <sup>1</sup> after the project becomes operational the channel dimensions specified shall be understood to admit of such increase at the entrances, bends, sidings, and turning places as may be necessary to allow of the free movement of boats.
 
-(Mar. 4, 1915, ch. 142, §5, 38 Stat. 1053; Oct. 31, 1992, Pub. L. 102–580, title II, §224, 106 Stat. 4837.)
+(Mar. 4, 1915, ch. 142, §5, 38 Stat. 1053; Pub. L. 102–580, title II, §224, Oct. 31, 1992, 106 Stat. 4837.)
 
 #### Codification
 

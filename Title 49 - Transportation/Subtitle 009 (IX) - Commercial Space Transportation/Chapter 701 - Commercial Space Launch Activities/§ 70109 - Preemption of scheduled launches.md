@@ -2,7 +2,7 @@
 
 (a)
 
-General.—With the cooperation of the Secretary of Defense and the Administrator of the National Aeronautics and Space Administration, the Secretary of Transportation shall act to ensure that a launch of a payload is not preempted from access to a United States Government launch site or launch property, except for imperative national need, when a launch date commitment from the Government has been obtained for a launch licensed under this chapter. A licensee or transferee preempted from access to a launch site or launch property does not have to pay the Government any amount for launch services attributable only to the scheduled launch prevented by the preemption.
+General.—With the cooperation of the Secretary of Defense and the Administrator ofthe National Aeronautics and Space Administration, the Secretary of Transportation shall act to ensure that a launch of a payload is not preempted from access to a United States Government launch site or launch property, except for imperative national need, when a launch date commitment from the Government has been obtained for a launch licensed under this chapter. A licensee or transferee preempted from access to a launch site or launch property does not have to pay the Government any amount for launch services attributable only to the scheduled launch prevented by the preemption.
 
 (b)
 

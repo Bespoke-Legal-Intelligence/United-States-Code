@@ -1,10 +1,16 @@
 ### §3726. Withholding of payments, benefits, etc.
 
-No officer, employee, department, or agency of the United States shall set off against, or otherwise withhold from, any veteran or the surviving spouse of any veteran any payments (other than benefit payments under any law administered by the Department of Veterans Affairs) which such veteran or surviving spouse would otherwise be entitled to receive because of any liability to the Secretary allegedly arising out of any loan made to, assumed by, or guaranteed or insured on account of, such veteran or surviving spouse under this chapter, unless (1) there is first received the consent in writing of such veteran or surviving spouse, as the case may be, or (2) such liability and the amount thereof was determined by a court of competent jurisdiction in a proceeding to which such veteran or surviving spouse was a party.
+(a) No officer, employee, department, or agency of the United States shall set off against, or otherwise withhold from, any veteran or the surviving spouse of any veteran any payments (other than benefit payments under any law administered by the Department of Veterans Affairs) which such veteran or surviving spouse would otherwise be entitled to receive because of any liability to the Secretary allegedly arising out of any loan made to, assumed by, or guaranteed or insured on account of, such veteran or surviving spouse under this chapter, unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.
 
-(Added Pub. L. 89–358, §5(f)(1), Mar. 3, 1966, 80 Stat. 26, §1826; amended Pub. L. 94–324, §7(30), June 30, 1976, 90 Stat. 722; Pub. L. 97–66, title V, §504, Oct. 17, 1981, 95 Stat. 1033; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered §3726, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(b) If the Secretary does not waive the entire amount of the liability, the Secretary shall then determine whether the veteran or surviving spouse should be released from liability under section 3713(b) of this title.
+
+(c) If the Secretary determines that the veteran or surviving spouse should not be released from liability, the Secretary shall notify the veteran or surviving spouse of that determination and provide a notice of the procedure for appealing that determination, unless the Secretary has previously made such determination and notified the veteran or surviving spouse of the procedure for appealing the determination.
+
+(Added Pub. L. 89–358, §5(f)(1), Mar. 3, 1966, 80 Stat. 26, §1826; amended Pub. L. 94–324, §7(30), June 30, 1976, 90 Stat. 722; Pub. L. 97–66, title V, §504, Oct. 17, 1981, 95 Stat. 1033; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered §3726, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–33, title VIII, §8033(a), Aug. 5, 1997, 111 Stat. 669.)
 
 #### Amendments
+
+1997—Pub. L. 105–33 designated existing provisions as subsec. (a), substituted “unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.” for “unless (1) there is first received the consent in writing of such veteran or surviving spouse, as the case may be, or (2) such liability and the amount thereof was determined by a court of competent jurisdiction in a proceeding to which such veteran or surviving spouse was a party.”, and added subsecs. (b) and (c).
 
 1991—Pub. L. 102–83 renumbered section 1826 of this title as this section.
 
@@ -15,6 +21,10 @@ No officer, employee, department, or agency of the United States shall set off a
 1976—Subsec. (a). Pub. L. 94–324 substituted “the Administrator” for “he”.
 
 Subsec. (b). Pub. L. 94–324 substituted “surviving spouse” for “widow” wherever appearing.
+
+#### Effective Date of 1997 Amendment
+
+Section 8033(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and section 5302 of this title\] shall apply with respect to any indebtedness to the United States arising pursuant to chapter 37 of title 38, United States Code, before, on, or after the date of enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1981 Amendment
 

@@ -34,7 +34,7 @@ By virtue of the authority vested in me by section 12 of the act of March 4, 192
 
 2\. The Department of the Army shall have the right to re-enter any of such cemeteries subsequent to the effective date of the transfer of functions with respect thereto for the purpose of making exhumations or reinterments should any such action become necessary.
 
-3\. There shall be transferred to the American Battle Monuments Commission so much of the unexpended balances of appropriations now, or which may become, available to the Department of the Army for the performance of the functions transferred by the provisions of this order as the Director of the Bureau of the Budget may deem necessary for use prior to July 1, 1950, in connection with such functions.
+3\. There shall be transferred to the American Battle Monuments Commission so much of the unexpended balances of appropriations now, or which may become,available to the Department of the Army for the performance of the functions transferred by the provisions of this order as the Director of the Bureau of the Budget may deem necessary for use prior to July 1, 1950, in connection with such functions.
 
 #### Ex. Ord. No. 12115. Permanent American Cemetery in Republic of Panama
 

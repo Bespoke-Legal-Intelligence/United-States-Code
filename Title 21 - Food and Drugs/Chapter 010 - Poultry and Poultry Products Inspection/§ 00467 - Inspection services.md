@@ -10,7 +10,7 @@ Upon the withdrawal of inspection service from any official establishment for fa
 
 #### (c) Finality and conclusiveness of determination; judicial review; record
 
-The determination and order of the Secretary when made after opportunity for hearing, with respect to withdrawal or refusal of inspection service under this chapter shall be final and conclusive unless the affected applicant for, or recipient of, inspection service files application for judicial review within thirty days after the effective date of such order in the United States Court of Appeals as provided in section 457 of this title. Judicial review of any such order shall be upon the record upon which the determination and order are based. The provisions of section 194 of title 7 shall be applicable to appeals taken under this section.
+The determination and order of the Secretary when made after opportunity for hearing, with respect to withdrawal or refusal of inspection service under this chapter shall be final and conclusive unless the affected applicant for, or recipient of, inspection service files application for judicial review within thirty days after the effective date of such order in the United StatesCourt of Appeals as provided in section 457 of this title. Judicial review of any such order shall be upon the record upon which the determination and order are based. The provisions of section 194 of title 7 shall be applicable to appeals taken under this section.
 
 (Pub. L. 85–172, §18, Aug. 28, 1957, 71 Stat. 448; Pub. L. 90–492, §16, Aug. 18, 1968, 82 Stat. 805.)
 

@@ -28,11 +28,11 @@
 
 (3) Nothing in this section shall be considered to authorize an agency to pay any amount to reimburse an employee for any repayments made by such employee prior to the agency's entering into an agreement under this section with such employee.
 
-(c)(1) An employee selected to receive benefits under this section must agree in writing, before receiving any such benefit, that the employee will—
+(c)(1) An employee selected to receive benefits under this section must agree in writing, beforereceiving any such benefit, that the employee will—
 
 &emsp;(A) remain in the service of the agency for a period specified in the agreement (not less than 3 years), unless involuntarily separated; and
 
-&emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end ofthe period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
+&emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
 
 (2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into the service of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of such employee's entrance into the service of the other agency that payment will be required under this subsection.
 

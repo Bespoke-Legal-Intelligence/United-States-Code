@@ -12,7 +12,7 @@ Records, Reports, and Information.—To enable the Secretary to decide whether a
 
 &emsp;(2) make the records, reports, and information available when the Secretary requests.
 
-> The Secretary may require owners and operators of gathering lines to provide the Secretaryinformation pertinent to the Secretary's ability to make a determination as to whether and to what extent to regulate gathering lines.
+> The Secretary may require owners and operators of gathering lines to provide the Secretary information pertinent to the Secretary's ability to make a determination as to whether and to what extent to regulate gathering lines.
 
 (c)
 

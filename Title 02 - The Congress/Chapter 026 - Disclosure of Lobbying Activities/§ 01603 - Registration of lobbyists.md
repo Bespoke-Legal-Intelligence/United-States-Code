@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;No later than 45 days after a lobbyist first makes a lobbying contact or is employed orretained to make a lobbying contact, whichever is earlier, such lobbyist (or, as provided under paragraph (2), the organization employing such lobbyist), shall register with the Secretary of the Senate and the Clerk of the House of Representatives.
+&emsp;No later than 45 days after a lobbyist first makes a lobbying contact or is employed or retained to make a lobbying contact, whichever is earlier, such lobbyist (or, as provided under paragraph (2), the organization employing such lobbyist), shall register with the Secretary of the Senate and the Clerk of the House of Representatives.
 
 #### (2) Employer filing
 
@@ -46,7 +46,7 @@ Each registration under this section shall contain—
 
 &emsp;&emsp;(B) in whole or in major part plans, supervises, or controls such lobbying activities.
 
-&emsp;(4) the name, address, principal place of business, amount of any contribution of more than $10,000 to the lobbying activities of the registrant, and approximate percentage of equitable ownership in the client (if any) of any foreign entity that—
+&emsp;(4) the name, address, principal place of business, amount of any contribution of more than$10,000 to the lobbying activities of the registrant, and approximate percentage of equitable ownership in the client (if any) of any foreign entity that—
 
 &emsp;&emsp;(A) holds at least 20 percent equitable ownership in the client or any organization identified under paragraph (3);
 

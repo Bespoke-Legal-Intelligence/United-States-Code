@@ -46,7 +46,7 @@ Basic responsibility.—The Secretary shall carry out (in accordance with the pr
 
 &emsp;(2)
 
-Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 of CERCLA (relating to settlements).
+Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsibleperson in accordance with section 122 of CERCLA (relating to settlements).
 
 &emsp;(3)
 
@@ -82,7 +82,7 @@ Removal of Unsafe Buildings and Debris Before Release From Federal Control.—In
 
 (h)
 
-Surety-Contractor Relationship.—Any surety which provides a bid, performance, or payment bond in connection with any direct Federal procurement for a response action contract under the Defense Environmental Restoration Program and begins activities to meet itsobligations under such bond, shall, in connection with such activities or obligations, be entitled to any indemnification and the same standard of liability to which its principal was entitled under the contract or under any applicable law or regulation.
+Surety-Contractor Relationship.—Any surety which provides a bid, performance, or payment bond in connection with any direct Federal procurement for a response action contract under the Defense Environmental Restoration Program and begins activities to meet its obligations under such bond, shall, in connection with such activities or obligations, be entitled to any indemnification and the same standard of liability to which its principal was entitled under the contract or under any applicable law or regulation.
 
 (i)
 
@@ -110,7 +110,7 @@ Applicability.—(1) Subsections (h) and (i) shall not apply to bonds executed b
 
 (2) Subsections (h) and (i) shall not apply to bonds to which section 119(g) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9619(g)) applies.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35),Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483.)
 
 #### References in Text
 
@@ -170,6 +170,82 @@ Section 1504(a) of Pub. L. 104–106 provided that the amendment made by that se
 
 For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
+#### Recovery and Sharing of Costs of Environmental Restoration at Department of Defense Sites
+
+Pub. L. 105–85, div. A, title III, §348, Nov. 18, 1997, 111 Stat. 1689, provided that:
+
+“(a)
+
+Regulations.—Not later than March 1, 1998, the Secretary of Defense shall prescribe regulations containing the guidelines and requirements described in subsections (b) and (c).
+
+“(b)
+
+Guidelines.—(1) The regulations prescribed under subsection (a) shall contain uniform guidelines for the military departments and defense agencies concerning the cost-recovery and cost-sharing activities of those departments and agencies.
+
+“(2) The Secretary shall take appropriate actions to ensure the implementation of the guidelines.
+
+“(c)
+
+Requirements.—The regulations prescribed under subsection (a) shall contain requirements for the Secretaries of the military departments and the heads of defense agencies to—
+
+&emsp;“(1) obtain all data that is relevant for purposes of cost-recovery and cost-sharing activities; and
+
+&emsp;“(2) identify any negligence or other misconduct that may preclude indemnification or reimbursement by the Department of Defense for the costs of environmental restoration at a Department site or justify the recovery or sharing of costs associated with such restoration.
+
+“(d)
+
+Definition.—In this section, the term ‘cost-recovery and cost-sharing activities’ means activities concerning—
+
+&emsp;“(1) the recovery of the costs of environmental restoration at Department of Defense sites from contractors of the Department and other private parties that contribute to environmental contamination at such sites; and
+
+&emsp;“(2) the sharing of the costs of such restoration with such contractors and parties.”
+
+#### Pilot Program for Sale of Air Pollution Emission Reduction Incentives
+
+Pub. L. 105–85, div. A, title III, §351, Nov. 18, 1997, 111 Stat. 1692, provided that:
+
+“(a)
+
+Authority.—(1) The Secretary of Defense may, in consultation with the Administrator of General Services, carry out a pilot program to assess the feasibility and advisability of the sale of economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department.
+
+“(2) The Secretary may carry out the pilot program during the period beginning on the date of the enactment of this Act \[Nov. 18, 1997\] and ending two years after such date.
+
+“(b)
+
+Incentives Available for Sale.—(1) Under the pilot program, the Secretary may sell economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department only if such incentives are not otherwise required for the activities or operations of the military department.
+
+“(2) The Secretary may not, under the pilot program, sell economic incentives attributable to the closure or realignment of a military installation under a base closure law.
+
+“(3) If the Secretary determines that additional sales of economic incentives are likely to result in amounts available for allocation under subsection (c)(2) in a fiscal year in excess of the limitation set forth in subparagraph (B) of that subsection, the Secretary shall not carry out such additional sales in that fiscal year.
+
+“(c)
+
+Use of Proceeds.—(1) The proceeds of sale of economic incentives attributable to a facility of a military department shall be credited to the funds available to the facility for the costs of identifying, quantifying, or valuing economic incentives for the reduction of emission of air pollutants. The amount credited shall be equal to the cost incurred in identifying, quantifying, or valuing the economic incentives sold.
+
+“(2)(A)(i) If after crediting under paragraph (1) a balance remains, the amount of such balance shall be available to the Department of Defense for allocation by the Secretary to the military departments for programs, projects, and activities necessary for compliance with Federal environmental laws, including the purchase of economic incentives for the reduction of emission of air pollutants.
+
+“(ii) To the extent practicable, amounts allocated to the military departments under this subparagraph shall be made available to the facilities that generated the economic incentives providing the basis for the amounts.
+
+“(B) The total amount allocated under this paragraph in a fiscal year from sales of economic incentives may not equal or exceed $500,000.
+
+“(3) If after crediting under paragraph (1) a balance remains in excess of an amount equal to the limitation set forth in paragraph (2)(B), the amount of the excess shall be covered over into the Treasury as miscellaneous receipts.
+
+“(4) Funds credited under paragraph (1) or allocated under paragraph (2) shall be merged with the funds to which credited or allocated, as the case may be, and shall be available for the same purposes and for the same period as the funds with which merged.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘base closure law’ means the following:
+
+&emsp;&emsp;“(A) Section 2687 of title 10, United States Code.
+
+&emsp;&emsp;“(B) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+
+&emsp;&emsp;“(C) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+
+&emsp;“(2) The term ‘economic incentives for the reduction of emission of air pollutants’ means any transferable economic incentives (including marketable permits and emission rights) necessary or appropriate to meet air quality requirements under the Clean Air Act (42 U.S.C. 7401 et seq.).”
+
 #### Authority To Develop and Implement Land Use Plans for Defense Environmental Restoration Program
 
 Section 325 of Pub. L. 104–201 provided that:
@@ -214,9 +290,9 @@ Savings Provisions.—(1) Nothing in this section, or in a land use plan develop
 
 #### Fiscal Year 1996 Restrictions on Reimbursements Under Agreements for Services of Other Agencies
 
-Section 321(a)(2) of Pub. L. 104–106 provided that:
+Section 321(a)(2) of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(1)(A), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
-“(A) Except as provided in subparagraph (B), the total amount of funds available for reimbursements under agreements entered into under section 2710(d) \[2701(d)\] of title 10, United States Code, as amended by paragraph (1), in fiscal year 1996 may not exceed $10,000,000.
+“(A) Except as provided in subparagraph (B), the total amount of funds available for reimbursements under agreements entered into under section 2701(d) of title 10, United States Code, as amended by paragraph (1), in fiscal year 1996 may not exceed $10,000,000.
 
 “(B) The Secretary of Defense may pay in fiscal year 1996 an amount for reimbursements under agreements referred to in subparagraph (A) in excess of the amount specified in that subparagraph for that fiscal year if—
 
@@ -306,7 +382,7 @@ Elements of Education and Training Program.—In establishing or conducting an e
 
 &emsp;“(5) To the extent practicable, the institution of higher education shall select instructors for the education and training program from institutions of higher education, appropriate community programs, and industry and labor.
 
-&emsp;“(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose of achieving coordination between such programs and the education and training program conducted by the consortium.
+&emsp;“(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose of achieving coordination between such programs andthe education and training program conducted by the consortium.
 
 “(f)
 
@@ -446,7 +522,7 @@ Eligible Individuals.—Individuals eligible for scholarships under the program 
 
 “(e)
 
-Award of Scholarship.—(1)(A) The Secretary of Defense shall award scholarships under this section to such eligible individuals as the Secretary determines appropriate pursuant to regulations or policies promulgated by the Secretary.
+Award of Scholarship.—(1)(A) The Secretary of Defense shall award scholarships under this section tosuch eligible individuals as the Secretary determines appropriate pursuant to regulations or policies promulgated by the Secretary.
 
 “(B) In awarding a scholarship under this section, the Secretary shall—
 
@@ -714,7 +790,7 @@ Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in s
 
 #### Grants to Institutions of Higher Education To Provide Training in Environmental Restoration and Hazardous Waste Management
 
-Section 4452 of Pub. L. 102–484 authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in section 1141(a) of Title 20, Education, to provide education and training in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by Pub. L. 103–160, div. A, title XIII, §1333(j), Nov. 30, 1993, 107 Stat. 1800. See section 1333 of Pub. L. 103–160, set out above.
+Section 4452 of Pub. L. 102–484 authorized the Secretary of Defense to establish a program to assist institutions of higher education, as defined in section 1141(a) of Title 20, Education, to provide education andtraining in environmental restoration and hazardous waste management and to award grants to such institutions, prior to repeal by Pub. L. 103–160, div. A, title XIII, §1333(j), Nov. 30, 1993, 107 Stat. 1800. See section 1333 of Pub. L. 103–160, set out above.
 
 #### Policies and Report on Overseas Environmental Compliance
 
@@ -726,7 +802,7 @@ Section 342(b) of Pub. L. 101–510 provided that:
 
 “(3) The Secretary of Defense shall develop a policy and strategy to ensure adequate oversight of compliance with applicable environmental requirements and responsibilities of the Department of Defense determined under the policies developed under paragraphs (1) and (2). In developing the policy, the Secretary shall consider using the Inspector General of the Department of Defense to ensure active and forceful oversight.
 
-“(4) At the same time the President submits to Congress his budget for fiscal year 1993 pursuant to section1105 of title 31, United States Code, the Secretary of Defense shall submit to Congress a report describing the policies developed under paragraphs (1), (2), and (3). The report also shall include a discussion of the role of the Inspector General of the Department of Defense in overseeing environmental compliance at military installations outside the United States.
+“(4) At the same time the President submits to Congress his budget for fiscal year 1993 pursuant to section 1105 of title 31, United States Code, the Secretary of Defense shall submit to Congress a report describing the policies developed under paragraphs (1), (2), and (3). The report also shall include a discussion of the role of the Inspector General of the Department of Defense in overseeing environmental compliance at military installations outside the United States.
 
 “(5) For purposes of this subsection, the term ‘military installation’ means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department which is located outside the United States and outside any territory, commonwealth, or possession of the United States.”
 
@@ -796,7 +872,7 @@ DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—(1) In additio
 
 “(2) Within 120 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that specify the use of methyl chloroform, HCFCs, or carbon tetrachloride.
 
-“(3) Within 150 days after the date of the enactment of this Act, the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that do not specify use of methyl chloroform, HCFCs, or carbon tetrachloride but cannot be met without the use of one or more of such substances.
+“(3) Within 150 days after the date of the enactment of this Act, the Secretary shall provide the Committeewith a list of all military specifications, standards, and other requirements that do not specify use of methyl chloroform, HCFCs, or carbon tetrachloride but cannot be met without the use of one or more of such substances.
 
 “(b)
 
@@ -818,7 +894,7 @@ Pub. L. 101–189, div. A, title III, §352, Nov. 29, 1989, 103 Stat. 1423, prov
 
 “(a)
 
-Environmental Data Base.—The Secretary of Defense shall develop and maintain a comprehensive data base on environmental activities carried out by the Department of Defense pursuant to, and environmental compliance obligations to which the Department is subject under, chapter 160 of title 10, United States Code, and all other applicable Federal and Stateenvironmental laws. At a minimum, the information in the data base shall include all the fines and penalties assessed against the Department of Defense pursuant to environmental laws and paid by the Department, all notices of violations of environmental laws received by the Department, and all obligations of the Department for compliance with environmental laws. The Secretary may include any other information he considers appropriate.
+Environmental Data Base.—The Secretary of Defense shall develop and maintain a comprehensive data base on environmental activities carried out by the Department of Defense pursuant to, and environmental compliance obligations to which the Department is subject under, chapter 160 of title 10, United States Code, and all other applicable Federal and State environmental laws. At a minimum, the information in the data base shall include all the fines and penalties assessed against the Department of Defense pursuant to environmental laws and paid by the Department, all notices of violations of environmental laws received by the Department, and all obligations of the Department for compliance with environmental laws. The Secretary may include any other information he considers appropriate.
 
 “(b)
 

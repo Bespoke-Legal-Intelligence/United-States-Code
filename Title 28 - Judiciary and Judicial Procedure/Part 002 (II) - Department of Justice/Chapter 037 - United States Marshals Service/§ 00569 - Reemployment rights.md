@@ -1,6 +1,6 @@
 ### §569. Reemployment rights
 
-(a) A United States marshal for a judicial district who was appointed from a position in the competitive service (as defined in section 2102 of title 5) in the United States Marshals Service and who, for reasons other than misconduct, neglect of duty, or malfeasance, is removed from such office, is entitled to be reemployed in any vacant position in the competitive service in the United States Marshals Service at the same grade or pay level, or lower, as the individual's former position if—
+(a) A United States marshal for a judicial district who was appointed from a position in the competitive service (as defined in section 2102 of title 5) in the United States Marshals Service and who, for reasons other than misconduct, neglect of duty, or malfeasance, is removed from such office, is entitled to be reemployed in any vacant position in the competitive service in the United States Marshals Service at the samegrade or pay level, or lower, as the individual's former position if—
 
 &emsp;(1) the individual is qualified for the vacant position; and
 
@@ -22,7 +22,7 @@ A prior section 569, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620
 
 #### Amendments
 
-1988—Pub. L. 100–690 renumbered section 576 of this title as this section.
+<b>1988</b>—Pub. L. 100–690 renumbered section 576 of this title as this section.
 
 #### Effective Date
 

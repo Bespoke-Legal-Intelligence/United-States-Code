@@ -50,7 +50,7 @@
 
 (i) Notwithstanding a contract, the representative of a claimant may not receive more than 10 percent of a payment of a claim made under this section for services related to the claim. A person violating this subsection shall be fined not more than $1,000.
 
-(j) The President may prescribe policies to carry out this section (except subsection (b) to the extent that subsection (b) applies to the military departments, the Department of Defense, and the Coast Guard). Subject to thosepolicies, the head of each agency shall prescribe regulations to carry out this section.
+(j) The President may prescribe policies to carry out this section (except subsection (b) to the extent that subsection (b) applies to the military departments, the Department of Defense, and the Coast Guard). Subject to those policies, the head of each agency shall prescribe regulations to carry out this section.
 
 (k) Settlement of a claim under this section is final and conclusive.
 
@@ -216,7 +216,7 @@ July 28, 1982, Pub. L. 97–226, §1(a), 96 Stat. 245.
 
 1988—Subsec. (b). Pub. L. 100–565, §1(1), substituted “$40,000” for “$25,000”.
 
-Subsec. (c). Pub. L. 100–565, §1(2), in amending subsec. (c) generally, redesignated former subsec. (c)(2) as (c) and substituted “section” for “subsection”, struck outpar. (1) which authorized agency head to pay claim against Government for not more than $40,000 to member of uniformed services, or officer or employee of agency, for damage to, or loss of, personal property in foreign country, incurred after December 30, 1978, incident to service, after evacuation from foreign country, and struck out par. (3) which limited amounts to be obligated or expended for claims to extent provided in advance in appropriation laws.
+Subsec. (c). Pub. L. 100–565, §1(2), in amending subsec. (c) generally, redesignated former subsec. (c)(2) as (c) and substituted “section” for “subsection”, struck out par. (1) which authorized agency head to pay claim against Government for not more than $40,000 to member of uniformed services, or officer or employee of agency, for damage to, or loss of, personal property in foreign country, incurred after December 30, 1978, incident to service, after evacuation from foreign country, and struck out par. (3) which limited amounts to be obligated or expended for claims to extent provided in advance in appropriation laws.
 
 1983—Subsec. (b). Pub. L. 97–452 substituted “$25,000” for “$15,000”.
 

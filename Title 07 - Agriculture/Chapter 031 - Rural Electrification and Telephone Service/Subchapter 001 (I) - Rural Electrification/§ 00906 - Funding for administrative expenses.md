@@ -2,7 +2,7 @@
 
 For the purpose of administering this chapter and for the purpose of making the studies, investigations, publications, and reports herein provided for, there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as shall be necessary.
 
-(May 20, 1936, ch. 432, title I, §6, 49 Stat. 1365; Oct. 28, 1949, ch. 776, §2, 63 Stat. 948; Nov. 4, 1975, Pub. L. 94–124, §3, 89 Stat. 677; Nov. 2, 1994, Pub.L. 103–437, §4(a)(3), 108 Stat. 4581; Apr. 4, 1996, Pub. L. 104–127, title VII, §775, 110 Stat. 1150.)
+(May 20, 1936, ch. 432, title I, §6, 49 Stat. 1365; Oct. 28, 1949, ch. 776, §2, 63 Stat. 948; Nov. 4, 1975, Pub. L. 94–124, §3, 89 Stat. 677; Nov. 2, 1994, Pub. L. 103–437, §4(a)(3), 108 Stat. 4581; Apr. 4, 1996, Pub. L. 104–127, title VII, §775, 110 Stat. 1150.)
 
 #### Amendments
 

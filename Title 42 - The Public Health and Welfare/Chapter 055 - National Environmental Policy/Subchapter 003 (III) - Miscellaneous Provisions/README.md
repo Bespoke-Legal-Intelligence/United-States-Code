@@ -27,3 +27,4 @@
 - [&sect; 04370b - Availability of fees and charges to carry out Agency programs](%C2%A7%2004370b%20-%20Availability%20of%20fees%20and%20charges%20to%20carry%20out%20Agency%20programs.md)
 - [&sect; 04370c - Environmental Protection Agency fees](%C2%A7%2004370c%20-%20Environmental%20Protection%20Agency%20fees.md)
 - [&sect; 04370d - Percentage of Federal funding for organizations owned by socially and economically disadvantaged individuals](%C2%A7%2004370d%20-%20Percentage%20of%20Federal%20funding%20for%20organizations%20owned%20by%20socially%20and%20economically%20disadvantaged%20individuals.md)
+- [&sect; 04370e - Working capital fund in Treasury](%C2%A7%2004370e%20-%20Working%20capital%20fund%20in%20Treasury.md)

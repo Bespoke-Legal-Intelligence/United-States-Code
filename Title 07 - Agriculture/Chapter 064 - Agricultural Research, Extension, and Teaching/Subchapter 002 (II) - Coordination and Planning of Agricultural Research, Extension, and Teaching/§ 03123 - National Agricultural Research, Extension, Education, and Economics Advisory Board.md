@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish within the Department of Agriculture a board to be known as the “National Agricultural Research, Extension, Education, and Economics Advisory Board”.
+The Secretary shall establish within the Department of Agriculture a board to be known asthe “National Agricultural Research, Extension, Education, and Economics Advisory Board”.
 
 #### (b) Membership
 
@@ -88,7 +88,7 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 #### (6) Executive committee
 
-&emsp;The Advisory Board shall establish an executive committee charged with the responsibility of working with the Secretary and officersand employees of the Department of Agriculture to summarize and disseminate the recommendations of the Advisory Board.
+&emsp;The Advisory Board shall establish an executive committee charged with the responsibility of working with the Secretary and officers and employees of the Department of Agriculture to summarize and disseminate the recommendations of the Advisory Board.
 
 #### (c) Duties
 
@@ -102,7 +102,7 @@ The Advisory Board shall—
 
 &emsp;(4) review the mechanisms of the Department of Agriculture for technology assessment (which should be conducted by qualified professionals) for the purposes of—
 
-&emsp;&emsp;(A) performance measurement and evaluation of the implementation by the Secretary of the strategic plan required under section 306 of title 5;
+&emsp;&emsp;(A) performance measurement and evaluation of the implementation by the Secretaryof the strategic plan required under section 306 of title 5;
 
 &emsp;&emsp;(B) implementation of the national research policies and priorities set forth in section 3101 of this title; and
 

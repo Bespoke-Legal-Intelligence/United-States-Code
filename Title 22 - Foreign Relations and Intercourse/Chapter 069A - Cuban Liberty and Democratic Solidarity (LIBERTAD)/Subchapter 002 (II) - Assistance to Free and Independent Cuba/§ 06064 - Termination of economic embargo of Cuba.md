@@ -38,7 +38,7 @@ On the date on which the President submits a determination under section 6063(c)
 
 #### (1) Review
 
-&emsp;If the President takes action under subsection (a) of this section to suspend the economic embargo of Cuba, the President shall immediately so notify the Congress. The President shall report to the Congress no less frequently than every 6 months thereafter,until he submits a determination under section 6063(c)(3) of this title that a democratically elected government in Cuba is in power, on the progress being made by Cuba toward the establishment of such a democratically elected government. The action of the President under subsection (a) of this section shall cease to be effective upon the enactment of a joint resolution described in paragraph (2).
+&emsp;If the President takes action under subsection (a) of this section to suspend the economic embargo of Cuba, the President shall immediately so notify the Congress. The President shall report to the Congress no less frequently than every 6 months thereafter, until he submits a determination under section 6063(c)(3) of this title that a democratically elected government in Cuba is in power, on the progress being made by Cuba toward the establishment of such a democratically elected government. The action of the President under subsection (a) of this section shall cease to be effective upon the enactment of a joint resolution described in paragraph (2).
 
 #### (2) Joint resolutions
 
@@ -54,7 +54,7 @@ On the date on which the President submits a determination under section 6063(c)
 
 &emsp;(B) For the purpose of expediting the consideration and enactment of joint resolutions, a motion to proceed to the consideration of any joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-&emsp;(C) Not more than 1 joint resolution may be considered in the House of Representatives and the Senate in the 6-month period beginning on the date on which the President notifies the Congress under paragraph (1) of the action taken under subsection (a) of this section, and in each 6-month period thereafter.
+&emsp;(C) Not more than 1 joint resolution may be considered in the House of Representativesand the Senate in the 6-month period beginning on the date on which the President notifies the Congress under paragraph (1) of the action taken under subsection (a) of this section, and in each 6-month period thereafter.
 
 (Pub. L. 104–114, title II, §204, Mar. 12, 1996, 110 Stat. 810.)
 

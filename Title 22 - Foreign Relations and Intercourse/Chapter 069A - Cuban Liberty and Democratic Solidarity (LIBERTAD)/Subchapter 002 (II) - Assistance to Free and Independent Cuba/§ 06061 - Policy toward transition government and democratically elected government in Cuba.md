@@ -30,7 +30,7 @@ The policy of the United States is as follows:
 
 &emsp;(11) To assist a transition government in Cuba and a democratically elected government in Cuba to prepare the Cuban military forces for an appropriate role in a democracy.
 
-&emsp;(12) To be prepared to enter into negotiations with a democratically elected government in Cuba either to return the UnitedStates Naval Base at Guantanamo to Cuba or to renegotiate the present agreement under mutually agreeable terms.
+&emsp;(12) To be prepared to enter into negotiations with a democratically elected government in Cuba either to return the United States Naval Base at Guantanamo to Cuba or to renegotiate the present agreement under mutually agreeable terms.
 
 &emsp;(13) To consider the restoration of diplomatic recognition and support the reintegration of the Cuban Government into Inter-American organizations when the President determines that there exists a democratically elected government in Cuba.
 

@@ -14,7 +14,7 @@
 
 &emsp;(B) the owner or operator of a vessel or any other person who has been issued or has applied for a permit under section 5503 of this title has acted in violation of section 5505 of this title; or
 
-&emsp;(C) any amount in settlement of a civil forfeiture imposed on a high seas fishing vessel or other property, or any civil penalty or criminal fine imposed on a high seas fishing vesselor on an owner or operator of such a vessel or on any other person who has been issued or has applied for a permit under any fishery resource statute enforced by the Secretary, has not been paid and is overdue, the Secretary may—
+&emsp;(C) any amount in settlement of a civil forfeiture imposed on a high seas fishing vessel or other property, or any civil penalty or criminal fine imposed on a high seas fishing vessel or on an owner or operator of such a vessel or on any other person who has been issued or has applied for a permit under any fishery resource statute enforced by the Secretary, has not been paid and is overdue, the Secretary may—
 
 &emsp;&emsp;(i) revoke any permit issued to or applied for by such vessel or person under this chapter, with or without prejudice to the issuance of subsequent permits;
 
@@ -38,7 +38,7 @@
 
 #### (c) Hearing
 
-For the purposes of conducting any hearing under this section, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contempt or refusal to obey a subpoena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+For the purposes of conducting any hearing under this section, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case ofcontempt or refusal to obey a subpoena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (d) Judicial review
 

@@ -1,0 +1,18 @@
+### §14407. Application to District of Columbia
+
+For purposes of this chapter, the term “funds appropriated by Congress” includes funds appropriated to the District of Columbia pursuant to an authorization of appropriations under title V of the District of Columbia Home Rule Act and the term “Federal government” includes the government of the District of Columbia.
+
+(Pub. L. 105–12, §8, Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
+
+#### References in Text
+
+The District of Columbia Home Rule Act, referred to in text, is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, asamended. Title V of the Act was classified to the District of Columbia Code prior to repeal by Pub. L. 105–33, title XI, §11601, Aug. 5, 1997, 111 Stat. 777.
+
+#### Amendments
+
+1997—Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
+

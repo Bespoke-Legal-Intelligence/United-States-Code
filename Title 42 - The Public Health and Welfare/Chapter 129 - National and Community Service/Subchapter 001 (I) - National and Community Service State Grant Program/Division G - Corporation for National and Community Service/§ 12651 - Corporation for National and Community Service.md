@@ -86,7 +86,7 @@ Transfer of functions.—There are transferred to the Corporation the functions 
 
 “(3)
 
-Determinations of certain functions by the office of management and budget.—If necessary, theOffice of Management and Budget shall make any determination of the functions that are transferred under paragraph (2).
+Determinations of certain functions by the office of management and budget.—If necessary, the Office of Management and Budget shall make any determination of the functions that are transferred under paragraph (2).
 
 “(4)
 
@@ -98,7 +98,7 @@ Transfer and allocations of appropriations and personnel.—Except as otherwise 
 
 “(6)
 
-Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
+Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available inconnection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
 
 “(7)
 
@@ -160,7 +160,7 @@ Transition.—Prior to, or after, any transfer of a function under this subsecti
 
 #### Continuing Performance of Certain Functions by Commission on National and Community Service
 
-Section 202(d) of Pub. L. 103–82 provided that: “The individuals who, on the day before the date of enactment of this Act \[Sept. 21, 1993\], are performing any of the functions required by section 190 of the National and Community Service Act of 1990 (42 U.S.C. 12651), as in effect on such date, to be performed by the membersof the Board of Directors of the Commission on National and Community Service may, subject to section 193A of the National and Community Service Act of 1990 \[42 U.S.C. 12651d\], as added by subsection (a) of this section, continue to perform such functions until the date on which the Board of Directors of the Corporation for National and Community Service conducts the first meeting of the Board. The service of such individuals as members of the Board of Directors of such Commission, and the employment of such individuals as special Government employees, shall terminate on such date.”
+Section 202(d) of Pub. L. 103–82 provided that: “The individuals who, on the day before the date of enactment of this Act \[Sept. 21, 1993\], are performing any of the functions required by section 190 of the National and Community Service Act of 1990 (42 U.S.C. 12651), as in effect on such date, to be performed by the members of the Board of Directors of the Commission on National and Community Service may, subject to section 193A of the National and Community Service Act of 1990 \[42 U.S.C. 12651d\], as added by subsection (a) of this section, continue to perform such functions until the date on which the Board of Directors of the Corporation for National and Community Service conducts the first meeting of the Board. The service of such individuals as members of the Board of Directors of such Commission, and the employment of such individuals as special Government employees, shall terminate on such date.”
 
 #### Business Plan for Corporation for National and Community Service
 
@@ -176,7 +176,7 @@ In general.—The Corporation for National and Community Service (referred to in
 
 &emsp;“(2)
 
-Computation.—For purposes of the computation of the 20-day period referred to in paragraph (1), continuity of a session of the Congress shall be considered to be broken only by—
+Computation.—For purposes of the computation of the 20-day period referred to in paragraph (1),continuity of a session of the Congress shall be considered to be broken only by—
 
 &emsp;&emsp;“(A) an adjournment of the Congress sine die; and
 

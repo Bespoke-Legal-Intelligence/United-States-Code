@@ -28,7 +28,7 @@ For purposes of this section, the term “extended trails” means trails or tra
 
 Subsec. (a)(2). Pub. L. 98–11, §203(3), inserted provision authorizing the location of national scenic trails so as to represent desert, marsh, grassland, mountain, canyon, river, forest, and other areas, as well as landforms which exhibit significant characteristics of the physiographic regions of the Nation.
 
-Subsec. (a)(3). Pub. L. 98–11, §203(4), (5), substituted “in this chapter are included as Federal” for “in thischapter, are established as initial Federal” in fourth sentence and struck out “subsequently” after “The appropriate Secretary may” in fifth sentence.
+Subsec. (a)(3). Pub. L. 98–11, §203(4), (5), substituted “in this chapter are included as Federal” for “in this chapter, are established as initial Federal” in fourth sentence and struck out “subsequently” after “The appropriate Secretary may” in fifth sentence.
 
 Subsecs. (b), (c). Pub. L. 98–11, §203(6), added subsecs. (b) and (c).
 

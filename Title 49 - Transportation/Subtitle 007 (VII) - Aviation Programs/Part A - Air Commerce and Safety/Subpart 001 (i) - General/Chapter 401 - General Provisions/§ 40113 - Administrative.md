@@ -112,7 +112,11 @@ Pub. L. 104–205, title I, Sept. 30, 1996, 110 Stat. 2957, provided in part tha
 
 #### Aircraft Purchase Loan Guarantee Program
 
-Pub. L. 104–205, title I, Sept. 30, 1996, 110 Stat. 2957, provided in part that: “None of the funds in this Act \[see Tables for classification\] shall be available for activities under this heading during fiscal year 1997.” Similar provisions were contained in the following prior appropriation Acts, certain of which also authorized Secretary of Transportation to issue notes or other obligations to Secretary of the Treasury to pay any necessary expenses required pursuant to any guarantee issued under Public Law 85–307, as amended:
+Pub. L. 105–66, title I, Oct. 27, 1997, 111 Stat. 1431, provided in part that: “Except as specifically provided elsewhere in this Act \[see Tables for classification\], none of the funds in this Act shall be available for activities under this heading during fiscal year 1998.”
+
+Similar provisions were contained in the following prior appropriation Acts, certain of which also authorized Secretary of Transportation to issue notes or other obligations to Secretary of the Treasury to pay any necessary expenses required pursuant to any guarantee issued under Public Law 85–307, as amended:
+
+Pub. L. 104–205, title I, Sept. 30, 1996, 110 Stat. 2957.
 
 Pub. L. 104–50, title I, Nov. 15, 1995, 109 Stat. 442.
 

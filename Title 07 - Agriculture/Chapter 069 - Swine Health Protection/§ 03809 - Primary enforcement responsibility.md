@@ -20,7 +20,7 @@ Whenever the Secretary determines that a State having primary enforcement respon
 
 #### (1) In general
 
-&emsp;On request of the Governor or other appropriate official of a State, the Secretary may terminate, effective as soon as the Secretary determines is practicable, the primary enforcement responsibility of a State under subsection (a) of this section. In terminating the primary enforcement responsibility under this subsection, the Secretary shall work with the appropriate State official to determine the level of support to be provided to the Secretary by the State under this chapter.
+&emsp;On request of the Governor or other appropriate official of a State, the Secretary may terminate, effective as soon as the Secretary determines is practicable, the primary enforcement responsibility of a State under subsection (a) of this section. In terminating the primary enforcement responsibility under thissubsection, the Secretary shall work with the appropriate State official to determine the level of support to be provided to the Secretary by the State under this chapter.
 
 #### (2) Reassumption
 

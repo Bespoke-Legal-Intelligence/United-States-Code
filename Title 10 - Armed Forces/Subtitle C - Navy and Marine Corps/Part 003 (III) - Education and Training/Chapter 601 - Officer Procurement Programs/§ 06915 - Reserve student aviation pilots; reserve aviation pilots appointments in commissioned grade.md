@@ -10,7 +10,7 @@
 
 (e) Under regulations prescribed by the Secretary, a student aviation pilot of the Naval Reserve or the Marine Corps Reserve may be designated an aviation pilot upon successfully completing flight training.
 
-(f) In time of peace, an aviation pilot who is obligated under subsection (b) to serve on active duty for a period of two years may serve, with his consent, for an additional period of not more than two years.
+(f) In time of peace, an aviation pilot who is obligated under subsection (b) to serve on activeduty for a period of two years may serve, with his consent, for an additional period of not more than two years.
 
 (g) An aviation pilot of the Naval Reserve or the Marine Corps Reserve may be released from active duty or discharged at any time by any administrative authority prescribed by the Secretary.
 

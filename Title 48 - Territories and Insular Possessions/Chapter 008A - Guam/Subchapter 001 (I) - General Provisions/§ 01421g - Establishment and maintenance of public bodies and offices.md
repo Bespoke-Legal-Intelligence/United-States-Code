@@ -12,7 +12,7 @@ The Government of Guam shall provide an adequate public educational system of Gu
 
 The Government of Guam may by law establish an Office of Public Prosecutor and an Office of Public Auditor. The Public Prosecutor and Public Auditor may be removed as provided by the laws of Guam.
 
-(Aug. 1, 1950, ch. 512, §29, 64 Stat. 392; Aug. 27, 1986, Pub. L. 99–396, §§5, 13, 100 Stat. 839, 842.)
+(Aug. 1, 1950, ch. 512, §29, 64 Stat. 392; Pub. L. 99–396, §§5, 13, Aug. 27, 1986, 100 Stat. 839, 842.)
 
 #### Amendments
 

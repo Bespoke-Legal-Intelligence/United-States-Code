@@ -4,7 +4,7 @@
 
 For purposes of this section, the term “emergency condition” means, with respect to any archaeological or ethnological material of any State Party, that such material is—
 
-&emsp;(1) a newly discovered type of material which is of importance for the understanding of the history of mankind and is in jeopardy from pillage, dismantling, dispersal, or fragmentation;
+&emsp;(1) a newly discovered type of material which is of importance for the understanding of the history of mankind and is in jeopardyfrom pillage, dismantling, dispersal, or fragmentation;
 
 &emsp;(2) identifiable as coming from any site recognized to be of high cultural significance if such site is in jeopardy from pillage, dismantling, dispersal, or fragmentation which is, or threatens to be, of crisis proportions; or
 
@@ -24,7 +24,7 @@ Subject to subsection (c) of this section, if the President determines that an e
 
 (3) No import restrictions set forth in section 2606 of this title may be applied under this section to the archaeological or ethnological materials of any State Party for more than five years after the date on which the request of a State Party under section 2602(a) of this title is made to the United States. This period may be extended by the President for three more years if the President determines that the emergency condition continues to apply with respect to the archaeological or ethnological material. However, before taking such action, the President shall request and consider, if received within ninety days, a report of the Committee setting forth its recommendations, together with the reasons therefor, as to whether such import restrictions shall be extended.
 
-(4) The import restrictions under this section may continue to apply in whole or in part, if before their expiration under paragraph (3), there has entered into force with respect to the archaeological or ethnological materials an agreement under section 2602 of this title or an agreement with a State Party to which the Senate has given its advice and consent to ratification.Such import restrictions may continue to apply for the duration of the agreement.
+(4) The import restrictions under this section may continue to apply in whole or in part, if before their expiration under paragraph (3), there has entered into force with respect to the archaeological or ethnological materials an agreement under section 2602 of this title or an agreement with a State Party to which the Senate has given its advice and consent to ratification. Such import restrictions may continue to apply for the duration of the agreement.
 
 (Pub. L. 97–446, title III, §304, Jan. 12, 1983, 96 Stat. 2354.)
 

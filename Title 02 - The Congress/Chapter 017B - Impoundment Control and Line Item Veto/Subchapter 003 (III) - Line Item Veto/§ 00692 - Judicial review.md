@@ -4,7 +4,7 @@
 
 (1) Any Member of Congress or any individual adversely affected by part C of title X of the Congressional Budget and Impoundment Control Act of 1974 \[2 U.S.C. 691 et seq.\] may bring an action, in the United States District Court for the District of Columbia, for declaratory judgment and injunctive relief on the ground that any provision of this part violates the Constitution.
 
-(2) A copy of any complaint in an action brought under paragraph (1) shall be promptlydelivered to the Secretary of the Senate and the Clerk of the House of Representatives, and each House of Congress shall have the right to intervene in such action.
+(2) A copy of any complaint in an action brought under paragraph (1) shall be promptly delivered to the Secretary of the Senate and the Clerk of the House of Representatives, and each House of Congress shall have the right to intervene in such action.
 
 (3) Nothing in this section or in any other law shall infringe upon the right of the House of Representatives to intervene in an action brought under paragraph (1) without the necessity of adopting a resolution to authorize such intervention.
 
@@ -18,6 +18,10 @@ It shall be the duty of the District Court for the District of Columbia and the 
 
 (Pub. L. 104–130, §3, Apr. 9, 1996, 110 Stat. 1211.)
 
+#### Termination of Section
+
+<i>For termination of section by section 5 of Pub. L. 104–130, see Effective and Termination Dates note set out under section 691 of this title.</i>
+
 #### References in Text
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(1), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Part C of title X of the Act is classified generally to subchapter III (§691 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
@@ -25,8 +29,4 @@ The Congressional Budget and Impoundment Control Act of 1974, referred to in sub
 #### Codification
 
 Section was enacted as part of the Line Item Veto Act, and not as part of the Line Item Veto Act of 1996 which comprises this subchapter.
-
-#### Termination of Section
-
-<i>For termination of section by section 5 of Pub. L. 104–130, see Effective and Termination Dates note set out under section 691 of this title.</i>
 

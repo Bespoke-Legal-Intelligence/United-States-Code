@@ -14,7 +14,7 @@ When authorized by an appropriate tribal resolution establishing a general polic
 
 &emsp;(1) shall provide a preference to Indian operators in the issuance and renewal of agricultural leases and permits so long as the lessor receives fair market value for his property;
 
-&emsp;(2) shall waive or modify the requirement that a lessee post a surety or performancebond on agricultural leases and permits issued by the Secretary;
+&emsp;(2) shall waive or modify the requirement that a lessee post a surety or performance bond on agricultural leases and permits issued by the Secretary;
 
 &emsp;(3) shall provide for posting of other collateral or security in lieu of surety or other bonds;
 

@@ -1,6 +1,6 @@
 ### §4041. Bureau of Prisons; director and employees
 
-The Bureau of Prisons shall be in charge of a director appointed by and serving directly underthe Attorney General at a salary of $10,000 a year. The Attorney General may appoint such additional officers and employees as he deems necessary.
+The Bureau of Prisons shall be in charge of a director appointed by and serving directly under the Attorney General at a salary of $10,000 a year. The Attorney General may appoint such additional officers and employees as he deems necessary.
 
 (June 25, 1948, ch. 645, 62 Stat. 849.)
 

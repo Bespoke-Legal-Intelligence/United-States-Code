@@ -1,0 +1,32 @@
+### §1356. Documentary, registry and manning requirements
+
+#### (a) Regulations
+
+Within six months after September 18, 1978, the Secretary of the Department in which the Coast Guard is operating shall issue regulations which require that any vessel, rig, platform, or other vehicle or structure—
+
+&emsp;(1) which is used at any time after the one-year period beginning on the effective date of such regulations for activities pursuant to this subchapter and which is built or rebuilt at any time after such one-year period, when requiredto be documented by the laws of the United States, be documented under the laws of the United States;
+
+&emsp;(2) which is used for activities pursuant to this subchapter, comply, except as provided in subsection (b) of this section, with such minimum standards of design, construction, alteration, and repair as the Secretary or the Secretary of the Department in which the Coast Guard is operating establishes; and
+
+&emsp;(3) which is used at any time after the one-year period beginning on the effective date of such regulations for activities pursuant to this subchapter, be manned or crewed, except as provided in subsection (c) of this section, by citizens of the United States or aliens lawfully admitted to the United States for permanent residence.
+
+#### (b) Exceptions from design, construction, alteration, and repair requirements
+
+The regulations issued under subsection (a)(2) of this section shall not apply to any vessel, rig, platform, or other vehicle or structure built prior to September 18, 1978, until such time after such date as such vehicle or structure is rebuilt.
+
+#### (c) Exceptions from manning requirements
+
+The regulations issued under subsection (a)(3) of this section shall not apply—
+
+&emsp;(1) to any vessel, rig, platform, or other vehicle or structure if—
+
+&emsp;&emsp;(A) specific contractual provisions or national registry manning requirements in effect on September 18, 1978, provide to the contrary;
+
+&emsp;&emsp;(B) there are not a sufficient number of citizens of the United States, or aliens lawfully admitted to the United States for permanent residence, qualified and available for such work; or
+
+&emsp;&emsp;(C) the President makes a specific finding, with respect to the particular vessel, rig, platform, or other vehicle or structure, that application would not be consistent with the national interest; and
+
+&emsp;(2) to any vessel, rig, platform, or other vehicle or structure, over 50 percent of which is owned by citizens of a foreign nation or with respect to which the citizens of a foreign nation have the right effectively to control, except to the extent and to the degree that the President determines that the government of such foreign nation or any of its political subdivisions has implemented, by statute, regulation, policy, or practice, a national manning requirement for equipment engaged in the exploration, development, or production of oil and gas in its offshore areas.
+
+(Aug. 7, 1953, ch. 345, §30, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 669.)
+

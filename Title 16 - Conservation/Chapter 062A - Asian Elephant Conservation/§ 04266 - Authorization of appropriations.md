@@ -1,0 +1,6 @@
+### §4266. Authorization of appropriations
+
+There are authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 1998, 1999, 2000, 2001, and 2002 to carry out this chapter, which may remain available until expended.
+
+(Pub. L. 105–96, §7, Nov. 19, 1997, 111 Stat. 2153.)
+

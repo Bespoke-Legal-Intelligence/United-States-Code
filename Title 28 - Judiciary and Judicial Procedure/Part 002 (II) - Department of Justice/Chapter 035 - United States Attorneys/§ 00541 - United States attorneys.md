@@ -16,7 +16,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -40,7 +42,7 @@ In subsection (c), the word “is” is substituted for “shall be”.
 
 #### 1948 Act
 
-<i>Prior section 501.—</i>Based on title 28, U.S.C., 1940 ed., §481, sections 643 and 863 of title 48, U.S.C., 1940 ed.,Territories and Insular Possessions, and section 11–1001, District of Columbia Code, 1940 ed. (R.S., §767; June 26, 1876, ch. 147, §§1, 4, 19 Stat. 61, 62; Feb. 24, 1879, ch. 97, §8, 20 Stat. 320; Mar. 3, 1881, ch. 144, §7, 21 Stat. 507; Apr. 25, 1882, ch. 87, §§1, 3, 22 Stat. 47; July 20, 1882, ch. 312, §3, 22 Stat. 172; Aug. 5, 1886, ch. 928, §7, 24 Stat. 309; Feb. 22, 1889, ch. 180, §21, 25 Stat. 682; July 3, 1890, ch. 656, §16, 26 Stat. 217; July 10, 1890, ch. 664, §16, 26 Stat. 225; Mar. 3, 1893, ch. 220, 27 Stat. 745; July 16, 1894, ch. 138, §§14, 16, 28 Stat. 110, 111; June 24, 1898, ch. 495, §1, 30 Stat. 487; Apr. 12, 1900, ch. 191, §34, 31 Stat. 85; Apr. 30, 1900, ch. 339, §86, 31 Stat. 158; May 12, 1900, ch. 391, §9, 31 Stat. 176; Jan. 22, 1901, ch. 105, §§4, 7, 31 Stat. 736, 737; Feb. 12, 1901, ch. 355, §§5, 7, 31 Stat. 782; Mar. 2, 1901, ch. 801, §§3, 5, 31 Stat. 881; Mar. 3, 1901, ch. 854, §183, 31 Stat. 1220; Mar. 11, 1902, ch. 183, §§5, 6, 32 Stat. 66; June 30, 1902, ch. 1329, 32 Stat. 527; Mar. 2, 1905, ch. 1305, §§4, 6, 33 Stat. 824; Mar. 3, 1905, ch. 1427, §§13, 15, 19, 33 Stat. 995, 996; June 16, 1906, ch. 3335, §13, 34 Stat. 275; Mar. 3, 1909, ch. 269, §1, 35 Stat. 838; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 3, 1915, ch. 100, §§3, 4, 38 Stat. 961; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; July 9, 1921, ch. 42, §313, 42 Stat. 119; May 28, 1926, ch. 414, §2(b), 44 Stat. 672; Apr. 21, 1928, ch. 393, 45 Stat. 437; Mar. 26, 1928, ch. 51, §2, 52 Stat. 118).
+<i>Prior section 501.—</i>Based on title 28, U.S.C., 1940 ed., §481, sections 643 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 11–1001, District of Columbia Code, 1940 ed. (R.S., §767; June 26, 1876, ch. 147, §§1, 4, 19 Stat. 61, 62; Feb. 24, 1879, ch. 97, §8, 20 Stat. 320; Mar. 3, 1881, ch. 144, §7, 21 Stat. 507; Apr. 25, 1882, ch. 87, §§1, 3, 22 Stat. 47; July 20, 1882, ch. 312, §3, 22 Stat. 172; Aug. 5, 1886, ch. 928, §7, 24 Stat. 309; Feb. 22, 1889, ch. 180, §21, 25 Stat. 682; July 3, 1890, ch. 656, §16, 26 Stat. 217; July 10, 1890, ch. 664, §16, 26 Stat. 225; Mar. 3, 1893, ch. 220, 27 Stat. 745; July 16, 1894, ch. 138, §§14, 16, 28 Stat. 110, 111; June 24, 1898, ch. 495, §1, 30 Stat. 487; Apr. 12, 1900, ch. 191, §34, 31 Stat. 85; Apr. 30, 1900, ch. 339, §86, 31 Stat. 158; May 12, 1900, ch. 391, §9, 31 Stat. 176; Jan. 22, 1901, ch. 105, §§4, 7, 31 Stat. 736, 737; Feb. 12, 1901, ch. 355, §§5, 7, 31 Stat. 782; Mar. 2, 1901, ch. 801, §§3, 5, 31 Stat. 881; Mar. 3, 1901, ch. 854, §183, 31 Stat. 1220; Mar. 11, 1902, ch. 183, §§5, 6, 32 Stat. 66; June 30, 1902, ch. 1329, 32 Stat. 527; Mar. 2, 1905, ch. 1305, §§4, 6, 33 Stat. 824; Mar. 3, 1905, ch. 1427, §§13, 15, 19, 33 Stat. 995, 996; June 16, 1906, ch. 3335, §13, 34 Stat. 275; Mar. 3, 1909, ch. 269, §1, 35 Stat. 838; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 3, 1915, ch. 100, §§3, 4, 38 Stat. 961; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; July 9, 1921, ch. 42, §313, 42 Stat. 119; May 28, 1926, ch. 414, §2(b), 44 Stat. 672; Apr. 21, 1928, ch. 393, 45 Stat. 437; Mar. 26, 1928, ch. 51, §2, 52 Stat. 118).
 
 Section consolidates section 481 of title 28, U.S.C., 1940 ed., and section 11–1001 of the District of Columbia Code, 1940 ed., with parts of sections 643 and 863 of title 48, U.S.C., 1940 ed., relating to appointment of United States attorneys.
 

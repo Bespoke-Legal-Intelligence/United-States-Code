@@ -16,11 +16,11 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a)(1
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–356 designated existing provisions as par. (1), substituted “Subject to paragraph (2), effective” for “Effective”, and added par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–356 designated existing provisions as par. (1), substituted “Subject to paragraph (2), effective” for “Effective”, and added par. (2).
 
-1990—Subsec. (a). Pub. L. 101–509 substituted “5303” for “5305”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–509 substituted “5303” for “5305”.
 
-1989—Subsec. (a). Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustments in the rates of pay under such Schedule.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustments in the rates of pay under such Schedule.”
 
 #### Effective Date of 1994 Amendment
 
@@ -36,7 +36,9 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub
 
 #### Salary Adjustments
 
-Pub. L. 102–395, title III, §304, Oct. 6, 1992, 106 Stat. 1859, provided that: “Pursuant to section 140 of PublicLaw 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 1993, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+Pub. L. 105–119, title III, §306, Nov. 26, 1997, 111 Stat. 2493, provided in part that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], justices and judges of the United States are authorized during fiscal year 1998, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
+
+Pub. L. 102–395, title III, §304, Oct. 6, 1992, 106 Stat. 1859, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 1993, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
 Pub. L. 102–140, title III, §305, Oct. 28, 1991, 105 Stat. 810, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 1992, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
@@ -60,15 +62,15 @@ Pub. L. 97–92, §140, Dec. 15, 1981, 95 Stat. 1200, provided that: “Notwiths
 
 #### Salary Rate Limitations On Use of Funds
 
-1982—Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of Title 5, Government Organization and Employees.
+<b>1982</b>—Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of Title 5, Government Organization and Employees.
 
-1981—Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of Title 5.
+<b>1981</b>—Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay thesalary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of Title 5.
 
-1980—Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
+<b>1980</b>—Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
 
-1979—Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of Title 5.
+<b>1979</b>—Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of Title 5.
 
-1978—Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of Title 5.
+<b>1978</b>—Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of Title 5.
 
 #### 1977 Comparability Adjustment Not Effective for Justices, Judges, Commissioners, and Referees
 

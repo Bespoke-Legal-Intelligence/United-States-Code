@@ -8,7 +8,7 @@ The corporation shall have power—
 
 &emsp;(3) to choose such officers, managers, agents, and employees as the business of the corporation may require;
 
-&emsp;(4) to adopt, amend, and alter bylaws and regulations, not inconsistent with the laws of the United States or any State in which such corporation is to operate, for the management of its property and the regulation of its affairs, including the establishment and maintenance of local and State conferences on citizenship;
+&emsp;(4) to adopt, amend, and alter bylaws and regulations, not inconsistent with the laws ofthe United States or any State in which such corporation is to operate, for the management of its property and the regulation of its affairs, including the establishment and maintenance of local and State conferences on citizenship;
 
 &emsp;(5) to contract and be contracted with;
 

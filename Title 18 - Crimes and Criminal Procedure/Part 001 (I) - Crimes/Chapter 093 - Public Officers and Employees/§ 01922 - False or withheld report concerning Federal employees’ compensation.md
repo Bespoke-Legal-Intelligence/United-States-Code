@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Sept. 13, 1960, Pub. L. 86–767, §206, 74 Stat. 908.
 
-The words “the reports of the immediate superior specified in section 8120 of title 5” are substituted for “the reports specified in subsection (a) of this section” to reflect the codification of that subsection in title 5, United States Code.
+The words “the reports of the immediate superior specified in section 8120 of title 5” are substituted for“the reports specified in subsection (a) of this section” to reflect the codification of that subsection in title 5, United States Code.
 
 The words “subchapter I of chapter 81 of title 5” and “that subchapter” are substituted for “sections 751–756, 757–781, 783–791, and 793 of this title” and “said sections”, respectively, to reflect the codification of the sections in title 5, United States Code.
 

@@ -68,7 +68,7 @@ No individual may be covered by a health benefits plan under this section during
 
 For purposes of this section the term “health benefits plan” means an approved health benefits plan under chapter 89 of title 5.
 
-(June 20, 1949, ch. 227, §16, as added Oct. 27, 1986, Pub. L. 99–569, title III, §303(a), 100 Stat. 3194; amended Aug. 14, 1991, Pub. L. 102–88, title III, §307(c), 105 Stat. 433; Dec. 3, 1993, Pub. L. 103–178, title II, §203(c), 107 Stat. 2031.)
+(June 20, 1949, ch. 227, §16, as added Pub. L. 99–569, title III, §303(a), Oct. 27, 1986, 100 Stat. 3194; amended Pub. L. 102–88, title III, §307(c), Aug. 14, 1991, 105 Stat. 433; Pub. L. 103–178, title II, §203(c), Dec. 3, 1993, 107 Stat. 2031.)
 
 #### Codification
 

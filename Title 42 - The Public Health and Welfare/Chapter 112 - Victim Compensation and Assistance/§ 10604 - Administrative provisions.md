@@ -22,7 +22,7 @@ No person shall on the ground of race, color, religion, national origin, handica
 
 #### (f) Failure to comply with provisions; notice and hearing; power of Director
 
-If, after reasonable notice and opportunity for a hearing on the record, the Director finds thata State has failed to comply substantially with any provision of this chapter or a rule, regulation, guideline, or procedure issued under this chapter, or an application submitted in accordance with this chapter or the provisions of any other applicable law, the Director shall—
+If, after reasonable notice and opportunity for a hearing on the record, the Director finds that a State has failed to comply substantially with any provision of this chapter or a rule, regulation, guideline, or procedure issued under this chapter, or an application submitted in accordance with this chapter or the provisions of any other applicable law, the Director shall—
 
 &emsp;(1) terminate payments to such State;
 

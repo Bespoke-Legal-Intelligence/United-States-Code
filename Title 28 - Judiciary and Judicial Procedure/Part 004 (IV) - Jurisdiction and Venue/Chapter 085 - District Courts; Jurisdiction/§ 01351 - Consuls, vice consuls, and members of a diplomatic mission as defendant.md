@@ -6,7 +6,7 @@ The district courts shall have original jurisdiction, exclusive of the courts of
 
 &emsp;(2) members of a mission or members of their families (as such terms are defined in section 2 of the Diplomatic Relations Act).
 
-(June 25, 1948, ch. 646, 62 Stat. 934; May 24, 1949, ch. 139, §80(c), 63 Stat. 101; Sept. 30, 1978, Pub. L. 95–393, §8(a)(1), 92 Stat. 810.)
+(June 25, 1948, ch. 646, 62 Stat. 934; May 24, 1949, ch. 139, §80(c), 63 Stat. 101; Pub. L. 95–393, §8(a)(1), Sept. 30, 1978, 92 Stat. 810.)
 
 #### Historical and Revision Notes
 
@@ -22,9 +22,9 @@ Section 2 of the Diplomatic Relations Act, referred to in par. (2), is classifie
 
 #### Amendments
 
-1978—Pub. L. 95–393 substituted “Consuls, vice consuls, and members of a diplomatic mission as defendant” for “Consuls and vice consuls as defendants” in section catchline, designated existing provisions as introductory provision preceding par. (1), and in such introductory provision as so designated, substituted “civil actions and proceedings against—” for “actions and proceedings against consuls or vice consuls of foreign states”, and added pars. (1) and (2).
+<b>1978</b>—Pub. L. 95–393 substituted “Consuls, vice consuls, and members of a diplomatic mission as defendant” for “Consuls and vice consuls as defendants” in section catchline, designated existing provisions as introductory provision preceding par. (1), and in such introductory provision as so designated, substituted “civil actions and proceedings against—” for “actions and proceedings against consuls or vice consuls of foreign states”, and added pars. (1) and (2).
 
-1949—Act May 24, 1949, substituted “of all actions and proceedings” for “of any civil action”.
+<b>1949</b>—Act May 24, 1949, substituted “of all actions and proceedings” for “of any civil action”.
 
 #### Effective Date of 1978 Amendment
 

@@ -12,7 +12,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (3) Mortgage
 
-&emsp;The term “mortgage” means a deed of trust, mortgage, deed to secure debt, security agreement, or any other form of instrument underwhich any property (real, personal or mixed), or any interest in property (including leaseholds, life estates, reversionary interests, and any other estates under applicable State law), is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subject to a lien for the purpose of securing the payment of money or the performance of an obligation.
+&emsp;The term “mortgage” means a deed of trust, mortgage, deed to secure debt, security agreement, or any other form of instrument under which any property (real, personal or mixed), or any interest in property (including leaseholds, life estates, reversionary interests, and any other estates under applicable State law), is conveyed in trust, mortgaged, encumbered, pledged, or otherwise rendered subject to a lien for the purpose of securing the payment of money or the performance of an obligation.
 
 #### (4) Mortgage agreement
 

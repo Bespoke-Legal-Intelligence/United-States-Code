@@ -36,7 +36,7 @@ The Congress finds and declares the following:
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101–614 provided that: “This Act \[enacting sections 7705a to 7705e, amending this sectionand sections 7702 to 7705, and 7706 of this title, and enacting provisions set out as notes under sections 7704, 7705b, and 7705e of this title\] may be cited as the ‘National Earthquake Hazards Reduction Program Reauthorization Act’.”
+Section 1 of Pub. L. 101–614 provided that: “This Act \[enacting sections 7705a to 7705e, amending this section and sections 7702 to 7705, and 7706 of this title, and enacting provisions set out as notes under sections 7704, 7705b, and 7705e of this title\] may be cited as the ‘National Earthquake Hazards Reduction Program Reauthorization Act’.”
 
 #### Short Title
 

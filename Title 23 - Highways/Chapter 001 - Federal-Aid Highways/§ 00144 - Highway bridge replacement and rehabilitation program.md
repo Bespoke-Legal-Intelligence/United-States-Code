@@ -4,13 +4,13 @@
 
 (b) The Secretary, in consultation with the States, shall (1) inventory all those highway bridges on any Federal-aid system which are bridges over waterways, other topographical barriers, other highways, and railroads; (2) classify them according to serviceability, safety, and essentiality for public use; (3) based on that classification, assign each a priority for replacement or rehabilitation; and (4) determine the cost of replacing each such bridge with a comparable facility or of rehabilitating such bridge.
 
-(c)(1) The Secretary, in consultation with the States, shall (1) inventory all those highway bridges on public roads, other than those on any Federal-aid system, which are bridges over waterways, other topographical barriers, otherhighways, and railroads, (2) classify them according to serviceability, safety, and essentiality for public use, (3) based on the classification, assign each a priority for replacement or rehabilitation and (4) determine the cost of replacing each such bridge with a comparable facility or of rehabilitating such bridge.
+(c)(1) The Secretary, in consultation with the States, shall (1) inventory all those highway bridges on public roads, other than those on any Federal-aid system, which are bridges over waterways, other topographical barriers, other highways, and railroads, (2) classify them according to serviceability, safety, and essentiality for public use, (3) based on the classification, assign each a priority for replacement or rehabilitation and (4) determine the cost of replacing each such bridge with a comparable facility or of rehabilitating such bridge.
 
 (2) The Secretary may, at the request of a State, inventory bridges, on and off the Federal-aid system, for historic significance.
 
 (3)
 
-Inventory of indian reservation and park bridges.—As part of the activities carried out under paragraph (1), the Secretary, in consultation with the Secretary of the Interior, shall (A) inventory all those highway bridges on Indian reservation roads and park roads which are bridges over waterways, other topographical barriers, other highways, and railroads, (B) classify them according to serviceability, safety, and essentiality for public use, (C) based on the classification, assign each a priority for replacement or rehabilitation, and (D) determine the cost of replacing each such bridge with a comparable facility or of rehabilitating such bridge.
+Inventory of indian reservation and park bridges.—As part of the activities carried out under paragraph (1), the Secretary, in consultation with the Secretary of the Interior, shall (A) inventory all those highway bridges on Indian reservation roads and park roads which are bridges over waterways, other topographical barriers, other highways, and railroads, (B) classify them according to serviceability, safety, and essentiality for public use, (C) based on theclassification, assign each a priority for replacement or rehabilitation, and (D) determine the cost of replacing each such bridge with a comparable facility or of rehabilitating such bridge.
 
 (d) Whenever any State or States make application to the Secretary for assistance in replacing or rehabilitating a highway bridge which the priority system established under subsection (b) and (c) of this section shows to be eligible, the Secretary may approve Federal participation in replacing such bridge with a comparable facility or in rehabilitating such bridge. Whenever any State makes application to the Secretary for assistance in painting and seismic retrofit, or applying calcium magnesium acetate to, the structure of a highway bridge, the Secretary may approve Federal participation in the painting or seismic retrofit of, or application of such acetate to, such structure. The Secretary shall determine the eligibility of highway bridges for replacement or rehabilitation for each State based upon the unsafe highway bridges in such State, except that a State may carry out a project for seismic retrofit of a bridge under this section without regard to whether the bridge is eligible for replacement or rehabilitation under this section. In approving projects (other than projects for bridge structure painting or seismic retrofit or application of such acetate) under this section, the Secretary shall give consideration to those projects which will remove from service those highway bridges most in danger of failure.
 
@@ -36,7 +36,7 @@ Eligible discretionary projects.—Subject to section 149(d) of the Federal-Aid 
 
 &emsp;(3)
 
-Off-system bridges.—Not less than 15 percent nor more than 35 percent of the amount apportioned to each State in each offiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, and 1997, shall be expended for projects to replace, rehabilitate, paint or seismic retrofit, or apply calcium magnesium acetate to highway bridges located on public roads, other than those on a Federal-aid system. The Secretary, after consultation with State and local officials, may, with respect to such State, reduce the requirement for expenditure for bridges not on a Federal-aid system when the Secretary determines that such State has inadequate needs to justify such expenditure.
+Off-system bridges.—Not less than 15 percent nor more than 35 percent of the amount apportioned to each State in each of fiscal years 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, and 1997, shall be expended for projects to replace, rehabilitate, paint or seismic retrofit, or apply calcium magnesium acetate to highway bridges located on public roads, other than those on a Federal-aid system. The Secretary, after consultation with State and local officials, may, with respect to such State, reduce the requirement for expenditure for bridges not on a Federal-aid system when the Secretary determines that such State has inadequate needs to justify such expenditure.
 
 &emsp;(4)
 
@@ -152,13 +152,13 @@ The date of the enactment of this subsection, referred to in subsec. (n), is the
 
 Subsec. (<i>l</i>). Pub. L. 104–59, §318, inserted at end “Any non-Federal funds expended for the seismic retrofit of the bridge may be credited toward the non-Federal share required as a condition of receipt of any Federal funds for seismic retrofit of the bridge made available after the date of the expenditure.”
 
-1994—Subsec. (d). Pub. L. 103–220, §1(1), inserted before period at end of third sentence “, except that aState may carry out a project for seismic retrofit of a bridge under this section without regard to whether the bridge is eligible for replacement or rehabilitation under this section”.
+1994—Subsec. (d). Pub. L. 103–220, §1(1), inserted before period at end of third sentence “, except that a State may carry out a project for seismic retrofit of a bridge under this section without regard to whether the bridge is eligible for replacement or rehabilitation under this section”.
 
 Subsec. (e). Pub. L. 103–220, §1(2), inserted at end “The use of funds authorized under this section to carry out a project for the seismic retrofit of a bridge shall not affect the apportionment of funds under this section.”
 
 1991—Subsec. (c)(3). Pub. L. 102–240, §1028(a), added par. (3).
 
-Subsec. (d). Pub. L. 102–240, §1028(b), inserted “Whenever any State makes application to the Secretary for assistance in painting and seismic retrofit, or applying calcium magnesium acetate to, the structure of a highway bridge, the Secretary may approve Federal participation in the painting or seismic retrofit of, or application of such acetate to, such structure.” after first sentence and “(other than projects for bridge structure painting or seismic retrofit or application of such acetate)” after “projects” in last sentence.
+Subsec. (d). Pub. L. 102–240, §1028(b), inserted “Whenever any State makes application to the Secretary for assistance in painting and seismic retrofit, or applying calcium magnesium acetate to, the structure of a highway bridge, the Secretary may approve Federal participation in the painting or seismic retrofit of, or application of such acetate to, such structure.” after first sentence and “(other than projects for bridge structurepainting or seismic retrofit or application of such acetate)” after “projects” in last sentence.
 
 Subsec. (f). Pub. L. 102–240, §1028(c), substituted “project” for “highway bridge replaced or rehabilitated”.
 
@@ -324,7 +324,7 @@ Transportation research board.—The Secretary shall make appropriate arrangemen
 
 “(B)
 
-Report.—Not later than 1 year after entering into appropriate arrangements under subparagraph (A), the Transportation Research Board shall submit to the Secretary and the Committee on Environment andPublic Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives a report on the results of the study conducted under subparagraph (A) and on the recommendations developed pursuant to subparagraph (A).”
+Report.—Not later than 1 year after entering into appropriate arrangements under subparagraph (A), the Transportation Research Board shall submit to the Secretary and the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives a report on the results of the study conducted under subparagraph (A) and on the recommendations developed pursuant to subparagraph (A).”
 
 #### Study of Highway Bridges Which Cross Rail Lines; Report
 
@@ -366,7 +366,7 @@ Section 147 of Pub. L. 95–599, as amended by Pub. L. 96–106, §15, Nov. 19, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 104, 115, 140, 151, 157, 204, 303, 307, 409 of this title.
+This section is referred to in sections 104, 115, 140, 151, 157, 204, 303, 307, 409 of this title; title 49 section 104.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

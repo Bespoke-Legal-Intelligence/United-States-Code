@@ -14,7 +14,7 @@ Advance Payments.—The authority provided under subsection (a) may be exercised
 
 (d)
 
-Recovery of Funds.—(1) A cooperative agreement for performance of basic, applied, or advanced research authorized by section 2358 of this title and a transaction authorized by subsection (a) may include a clause that requires a person or other entity to make payments to the Department of Defense or any other department or agency of the Federal Government as a condition for receiving support under the agreement or other transaction.
+Recovery of Funds.—(1) A cooperative agreement for performance of basic, applied, oradvanced research authorized by section 2358 of this title and a transaction authorized by subsection (a) may include a clause that requires a person or other entity to make payments to the Department of Defense or any other department or agency of the Federal Government as a condition for receiving support under the agreement or other transaction.
 
 (2) The amount of any payment received by the Federal Government pursuant to a requirement imposed under paragraph (1) may be credited, to the extent authorized by the Secretary of Defense, to the appropriate account established under subsection (f). Amounts so credited shall be merged with other funds in the account and shall be available for the same purposes and the same period for which other funds in such account are available.
 
@@ -58,13 +58,29 @@ Annual Report.—(1) Not later than 90 days after the end of each fiscal year, t
 
 &emsp;(D) The total amount of payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause described in subsection (d) that was included in the cooperative agreements and other transactions, and the amount of such payments, if any, that were credited to each account established under subsection (f).
 
-(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658.)
+(i)
+
+Protection of Certain Information From Disclosure.—(1) Disclosure of information described in paragraph (2) is not required, and may not be compelled, under section 552 of title 5 for five years after the date on which the information is received by the Department of Defense.
+
+(2)(A) Paragraph (1) applies to information described in subparagraph (B) that is in the records of the Department of Defense if the information was submitted to the Department in a competitive or noncompetitive process having the potential for resulting in an award, to the party submitting the information, of a cooperative agreement that includes a clause described in subsection (d) or another transaction authorized by subsection (a).
+
+(B) The information referred to in subparagraph (A) is the following:
+
+&emsp;(i) A proposal, proposal abstract, and supporting documents.
+
+&emsp;(ii) A business plan submitted on a confidential basis.
+
+&emsp;(iii) Technical information submitted on a confidential basis.
+
+(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842.)
 
 #### Amendments
 
+1997—Subsec. (i). Pub. L. 105–85 added subsec. (i).
+
 1996—Subsec. (b). Pub. L. 104–201, §1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
 
-Subsec. (e). Pub. L. 104–201, §267(a), inserted “(1)” before “The Secretary of Defense”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “and” after semicolon at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), added par. (2), and struck out par. (3) which read as follows: “a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
+Subsec. (e). Pub. L. 104–201, §267(a), inserted “(1)” before “The Secretary of Defense”, redesignated formerpars. (1) and (2) as subpars. (A) and (B), respectively, inserted “and” after semicolon at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), added par. (2), and struck out par. (3) which read as follows: “a cooperative agreement containing a clause under subsection (d) or a transaction authorized under subsection (a) is used for a research project only when the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.”
 
 Subsec. (f). Pub. L. 104–201, §1073(e)(1)(B), inserted “Defense” before “Advanced Research Projects Agency”.
 
@@ -82,9 +98,9 @@ Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and a
 
 Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-Subsec. (i). Pub. L. 104–201, §267(c)(1)(A), renumbered subsec. (i) of this section as section 2371a of this title.
+Subsec. (i). Pub. L. 104–201, §1073(e)(1)(B), which directed amendment of subsec. (i) by inserting “Defense” before “Advanced Research Projects Agency”, could not be executed because of the renumbering of subsec. (i) as section 2371a of this title by Pub. L. 104–201, §267(c)(1)(A). See below.
 
-Pub. L. 104–201, §1073(e)(1)(B), which directed amendment of subsec. (i) by inserting “Defense” before “Advanced Research Projects Agency”, was executed to subsec. (i) prior to its renumbering as section 2371a of this title by Pub. L. 104–201, §267(c)(1)(A), to reflect the probable intent of Congress.
+Pub. L. 104–201, §267(c)(1)(A), renumbered subsec. (i) of this section as section 2371a of this title.
 
 1994—Pub. L. 103–355 amended section generally. Prior to amendment section related to cooperative agreements and other transactions for advanced research projects.
 
@@ -140,7 +156,7 @@ Section 845 of Pub. L. 103–160, as amended by Pub. L. 104–201, div. A, title
 
 “(a)
 
-Authority.—The Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense.
+Authority.—The Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry outprototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense.
 
 “(b)
 

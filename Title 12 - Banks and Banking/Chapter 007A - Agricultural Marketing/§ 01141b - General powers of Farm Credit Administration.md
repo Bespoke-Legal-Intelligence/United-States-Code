@@ -16,7 +16,7 @@ The Farm Credit Administration—
 
 &emsp;(7) may sell at public or private sale to the highest responsible bidder, upon such terms and after such public advertisement as the Farm Credit Administration may deem in the public interest, any property, real or personal, or any interest therein, acquired by the United States on account of or as a result of any loans made from the revolving fund authorized by section 1141d of this title; may lease any such property, pending its sale, on such terms and for such period, not in excess of five years, as the Farm Credit Administration may deem in the public interest; and may incur and pay, from the said revolving fund, obligations and expenses for the operation, upkeep, maintenance, repair, disposition, insurance, and protection of any such property: <i>Provided</i>, That section 5 of title 41 shall not be construed to apply to any purchase or service on account of such property.
 
-(June 15, 1929, ch. 24, §4, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 19, 1937, ch. 704, §37, 50 Stat. 717; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Dec. 24, 1980, Pub. L. 96–592, title V, §510, 94 Stat. 3451.)
+(June 15, 1929, ch. 24, §4, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 19, 1937, ch. 704, §37, 50 Stat. 717; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 96–592, title V, §510, Dec. 24, 1980, 94 Stat. 3451.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Poli
 
 #### References in Text
 
-The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in text, whichwas contained in this section (section 1 of Pub. L. 94–241), is set out as a note below.
+The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in text, which was contained in this section (section 1 of Pub. L. 94–241), is set out as a note below.
 
 #### Codification
 
@@ -66,7 +66,7 @@ Section 102. The relations between the Northern Mariana Islands and the United S
 
 “
 
-Section 103. The people of the Northern Mariana Islands will have the right of local self-government and will govern themselves with respect to internal affairsin accordance with a Constitution of their own adoption.
+Section 103. The people of the Northern Mariana Islands will have the right of local self-government and will govern themselves with respect to internal affairs in accordance with a Constitution of their own adoption.
 
 “
 
@@ -158,7 +158,7 @@ I74“applicability of laws
 
 “
 
-Section 501. (a) To the extent that they are not applicable of their own force, the following provisions of the Constitution of the United States will be applicable within the Northern Mariana Islands as if the Northern Mariana Islands were one of the several States: Article I, Section 9, Clauses 2, 3, and 8; Article I, Section 10, Clauses 1 and 3; Article IV, Section 1 and Section 2, Clauses 1 and 2; Amendments 1 through 9, inclusive; Amendment 13; Amendment 14, Section 1; Amendment 15; Amendment 19; and Amendment 26; provided, however, that neither trial by jury nor indictment by grand jury shall be required in any civil action or criminal prosecution based on local law, except where required by local law. Other provisions of or amendments to the Constitution of the United States, which do not apply of their own force within the Northern Mariana Islands, will be applicable within the Northern Mariana Islands only with approval of the Government of the Northern Mariana Islands and of the Government of the United States.
+Section 501. (a) To the extent that they are not applicable of their own force, the following provisions of the Constitution of the United States will be applicable within the Northern Mariana Islands as if the Northern Mariana Islands were one of the several States: Article I, Section 9, Clauses 2, 3, and 8; Article I, Section 10, Clauses 1 and 3; Article IV, Section 1 and Section 2, Clauses 1 and 2; Amendments 1 through 9, inclusive; Amendment 13; Amendment 14, Section 1; Amendment 15; Amendment 19; and Amendment 26; provided, however, that neither trial by jury nor indictment by grand jury shall be required in any civil action or criminal prosecution based on local law, except where requiredby local law. Other provisions of or amendments to the Constitution of the United States, which do not apply of their own force within the Northern Mariana Islands, will be applicable within the Northern Mariana Islands only with approval of the Government of the Northern Mariana Islands and of the Government of the United States.
 
 “(b) The applicability of certain provisions of the Constitution of the United States to the Northern Mariana Islands will be without prejudice to the validity of and the power of the Congress of the United States to consent to Sections 203, 506 and 805 and the proviso in Subsection (a) of this Section.
 
@@ -272,7 +272,7 @@ Section 702. Approval of this Covenant by the United States will constitute a co
 
 &emsp;“(a) $8.25 million for budgetary support for government operations, of which $250,000 each year will be reserved for a special education training fund connected with the change in the political status of the Northern Mariana Islands;
 
-&emsp;“(b) $4 million for capital improvement projects, of which $500,000 each year will be reserved for such projects on the Island of Tinian and $500,000 each year will be reserved for such projects on the Island of Rota; and
+&emsp;“(b) $4 million for capital improvement projects, of which $500,000 each year will be reserved for suchprojects on the Island of Tinian and $500,000 each year will be reserved for such projects on the Island of Rota; and
 
 &emsp;“(c) $1.75 million for an economic development loan fund, of which $500,000 each year will be reserved for small loans to farmers and fishermen and to agricultural and marine cooperatives, and of which $250,000 each year will be reserved for a special program of low interest housing loans for low income families.
 
@@ -384,7 +384,7 @@ I74“approval, effective dates, and definitions
 
 “
 
-Section 1001. (a) This Covenant will be submitted to the Mariana Islands District Legislature for its approval. After its approval by the Mariana Islands District Legislature, this Covenant will be submitted to the people of the Northern Mariana Islands for approval in a plebiscite to be called by the United States. Only persons who are domiciled exclusively in the Northern Mariana Islands and who meet such other qualifications, including timely registration, as are promulgated by the United States as administering authority will be eligible to vote in the plebiscite. Approval must be by a majority of at least 55% of the valid votes cast in the plebiscite. The results of the plebiscite will be certified to the President of the United States.
+Section 1001. (a) This Covenant will be submitted to the Mariana Islands District Legislature for its approval. After its approval by the Mariana Islands District Legislature, this Covenant will be submitted tothe people of the Northern Mariana Islands for approval in a plebiscite to be called by the United States. Only persons who are domiciled exclusively in the Northern Mariana Islands and who meet such other qualifications, including timely registration, as are promulgated by the United States as administering authority will be eligible to vote in the plebiscite. Approval must be by a majority of at least 55% of the valid votes cast in the plebiscite. The results of the plebiscite will be certified to the President of the United States.
 
 “(b) This Covenant will be approved by the United States in accordance with its constitutional processes and will thereupon become law.
 
@@ -550,7 +550,7 @@ On May 28, 1986, the Trusteeship Council of the United Nations concluded that th
 
 On October 15, 1986, the Government of the United States and the Government of the Republic of the Marshall Islands agreed, pursuant to Section 411 of the Compact of Free Association, that as between the United States and the Republic of the Marshall Islands, the effective date of the Compact shall be October 21, 1986.
 
-On October 24, 1986, the Government of the United States and the Government of the Federated States of Micronesia agreed, pursuant to Section 411 of the Compact of Free Association, that as between the United States and the Federated States of Micronesia, the effective date of the Compact shall be November 3, 1986.
+On October 24, 1986, the Government of the United States and the Government of the Federated States of Micronesia agreed, pursuant to Section 411 of the Compact of Free Association, that as between the UnitedStates and the Federated States of Micronesia, the effective date of the Compact shall be November 3, 1986.
 
 On October 24, 1986, the United States advised the Secretary General of the United Nations that, as a consequence of consultations held between the United States Government and the Government of the Marshall Islands, agreement had been reached that the Compact of Free Association with the Marshall Islands entered fully into force on October 21, 1986. The United States further advised the Secretary General that, as a result of consultations with their governments, agreement had been reached that the Compact of Free Association with the Federated States of Micronesia and the Covenant with the Commonwealth of the Northern Mariana Islands would enter into force on November 3, 1986.
 

@@ -20,7 +20,7 @@
 
 (b) The reports of inspections under subsection (a) are the basis for determining whether the National Guard is entitled to the issue of military property as authorized under this title and to retain that property; and for determining which organizations and persons constitute units and members of the National Guard; and for determining which units of the National Guard meet deployability standards.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 598; July 30, 1977, Pub. L. 95–79, title VIII, §804(a), 91 Stat. 333; Oct. 23, 1992, Pub. L. 102–484, div. A, title XI, §1122, 106 Stat. 2540.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 598; Pub. L. 95–79, title VIII, §804(a), July 30, 1977, 91 Stat. 333; Pub. L. 102–484, div. A, title XI, §1122, Oct. 23, 1992, 106 Stat. 2540.)
 
 Historical and Revision Notes
 

@@ -54,7 +54,7 @@ Copyrights in Their Renewal Term or Registered for Renewal Before January 1, 197
 
 (c)
 
-Termination of Transfers and Licenses Covering Extended Renewal Term.—In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by the <sup>1</sup> subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:
+Termination of Transfers and Licenses Covering Extended Renewal Term.—In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:
 
 &emsp;(1) In the case of a grant executed by a person or persons other than the author, termination of the grant may be effected by the surviving person or persons who executed it. In the case of a grant executed by one or more of the authors of the work, termination of the grant may be effected, to the extent of a particular author's share in the ownership of the renewal copyright, by the author who executed it or, if such author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest.
 
@@ -80,9 +80,9 @@ Termination of Transfers and Licenses Covering Extended Renewal Term.—In the c
 
 &emsp;&emsp;(A) A derivative work prepared under authority of the grant before its termination may continue to be utilized under the terms of the grant after its termination, but this privilege does not extend to the preparation after the termination of other derivative works based upon the copyrighted work covered by the terminated grant.
 
-&emsp;&emsp;(B) The future rights that will revert upon termination of the grant become vested on the date the notice of termination has been served as provided by clause (4) of this subsection.
+&emsp;&emsp;(B) The future rights that will revert upon termination of the grant become vested onthe date the notice of termination has been served as provided by clause (4) of this subsection.
 
-&emsp;&emsp;(C) Where the author's rights revert to two or more persons under clause (2) of this subsection, they shall vest in those persons in the proportionate shares provided by that clause. In such a case, and subject to the provisions of subclause (D) of this clause, a further grant, or agreement to make a further grant, of a particular author's share with respect to any right covered by a terminated grant is valid only if it is signed by the same number and proportion of the owners, in whom the right has vested under this clause, as are required to terminate the grant under clause (2) of this subsection. Such further grant or agreement is effective with respect to all of the persons in whom the right it covers has vested under this subclause, including those who did not join in signing it. If any person dies after rightsunder a terminated grant have vested in him or her, that person's legal representatives, legatees, or heirs at law represent him or her for purposes of this subclause.
+&emsp;&emsp;(C) Where the author's rights revert to two or more persons under clause (2) of this subsection, they shall vest in those persons in the proportionate shares provided by that clause. In such a case, and subject to the provisions of subclause (D) of this clause, a further grant, or agreement to make a further grant, of a particular author's share with respect to any right covered by a terminated grant is valid only if it is signed by the same number and proportion of the owners, in whom the right has vested under this clause, as are required to terminate the grant under clause (2) of this subsection. Such further grant or agreement is effective with respect to all of the persons in whom the right it covers has vested under this subclause, including those who did not join in signing it. If any person dies after rights under a terminated grant have vested in him or her, that person's legal representatives, legatees, or heirs at law represent him or her for purposes of this subclause.
 
 &emsp;&emsp;(D) A further grant, or agreement to make a further grant, of any right covered by a terminated grant is valid only if it is made after the effective date of the termination. As an exception, however, an agreement for such a further grant may be made between the author or any of the persons provided by the first sentence of clause (6) of this subsection, or between the persons provided by subclause (C) of this clause, and the original grantee or such grantee's successor in title, after the notice of termination has been served as provided by clause (4) of this subsection.
 
@@ -90,7 +90,7 @@ Termination of Transfers and Licenses Covering Extended Renewal Term.—In the c
 
 &emsp;&emsp;(F) Unless and until termination is effected under this subsection, the grant, if it does not provide otherwise, continues in effect for the remainder of the extended renewal term.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 102–307, title I, §102(a), (d), June 26, 1992, 106 Stat. 264, 266.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 102–307, title I, §102(a), (d), June 26, 1992, 106 Stat. 264, 266; Pub. L. 105–80, §12(a)(9), Nov. 13, 1997, 111 Stat. 1535.)
 
 #### Historical and Revision Notes
 
@@ -112,7 +112,7 @@ Subsection (c) of section 304 is a close but not exact counterpart of section 20
 
 The bill distinguishes between the persons who can terminate a grant under section 203 and those entitled to terminate a grant covering an extended term under section 304. Instead of being limited to transfers and licenses executed by the author, the right of termination under section 304(c) also extends to grants executed by those beneficiaries of the author who can claim renewal under the present law: his or her widow or widower, children, executors, or next of kin.
 
-There is good reason for this difference. Under section 203, an author's widow or widower and children are given rights of termination if the author is dead, but these rights apply only to grants by the author, and any effort by a widow, widower, or child to transfer contingent future interests under a termination would be ineffective. In contrast, under the present renewal provisions, any statutory beneficiary of the author can make a valid transfer or license of future renewal rights, which is completely binding if the author is dead and the person who executed the grant turns out to be the proper renewal claimant. Because of this, a great many contingent transfers of future renewal rights have been obtained from widows, widowers, children, and next of kin, and a substantial number of these will be binding. After the present 28-year renewal period has ended, a statutory beneficiary who has signed a disadvantageous grant of this sort should have the opportunity to reclaim the extended term.
+There is good reason for this difference. Under section 203, an author's widow or widower and children aregiven rights of termination if the author is dead, but these rights apply only to grants by the author, and any effort by a widow, widower, or child to transfer contingent future interests under a termination would be ineffective. In contrast, under the present renewal provisions, any statutory beneficiary of the author can make a valid transfer or license of future renewal rights, which is completely binding if the author is dead and the person who executed the grant turns out to be the proper renewal claimant. Because of this, a great many contingent transfers of future renewal rights have been obtained from widows, widowers, children, and next of kin, and a substantial number of these will be binding. After the present 28-year renewal period has ended, a statutory beneficiary who has signed a disadvantageous grant of this sort should have the opportunity to reclaim the extended term.
 
 As explained above in connection with section 203, the bill adopts the principle that, where a transfer or license by the author is involved, termination may be effected by a per stirpes majority of those entitled to terminate, and this principle also applies to the ownership of rights under a termination and to the making of further grants of reverted rights. In general, this principle has also been adopted with respect to the termination of rights under an extended renewal copyright in section 304, but with several differences made necessary by the differences between the legal status of transfers and licenses made after the effective date of the new law \[Jan. 1, 1978\] (governed by section 203) and that of grants of renewal rights made earlier and governed by section 304(c). The following are the most important distinctions between the termination rights under the two sections:
 
@@ -127,6 +127,8 @@ Nothing contained in this section or elsewhere in this legislation is intended t
 Section 304(c)(6)(E) provides that, unless and until termination is effected under this section, the grant, “if it does not provide otherwise,” continues for the term of copyright. This section means that, if the agreement does not contain provisions specifying its term or duration, and the author has not terminated the agreement under this section, the agreement continues for the term of the copyright, subject to any right of termination under circumstances which may be specified therein. If, however, an agreement does contain provisions governing its duration—for example, a term of sixty years—and the author has not exercised his or her right of termination under the statute, the agreement will continue according to its terms—in this example, for only sixty years. The quoted language is not to be construed as requiring agreements to reserve the right of termination.
 
 #### Amendments
+
+1997—Subsec. (c). Pub. L. 105–80 substituted “subsection (a)(1)(C)” for “the subsection (a)(1)(C)” in introductory provisions.
 
 1992—Subsec. (a). Pub. L. 102–307, §102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “
 
@@ -148,7 +150,7 @@ Section 102(c) of Pub. L. 102–307 provided that: “The renewal and extension 
 
 #### Ad Interim Copyrights Subsisting or Capable of Being Secured Under Predecessor Provisions
 
-Section 107 of Pub. L. 94–553 provided that: “In the case of any work in which an ad interim copyright is subsisting or is capable of being secured on December 31, 1977, under section 22 of title 17 as it existed on that date, copyright protection is hereby extended to endurefor the term or terms provided by section 304 of title 17 as amended by the first section of this Act \[this section\].”
+Section 107 of Pub. L. 94–553 provided that: “In the case of any work in which an ad interim copyright is subsisting or is capable of being secured on December 31, 1977, under section 22 of title 17 as it existed on that date, copyright protection is hereby extended to endure for the term or terms provided by section 304 of title 17 as amended by the first section of this Act \[this section\].”
 
 #### Copyright Granted to “Science and Health with Key to the Scriptures” for Term of 75 Years
 
@@ -187,6 +189,4 @@ Fee for registration of claim to renewal of subsisting copyright in first term, 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 305, 408, 409, 708 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

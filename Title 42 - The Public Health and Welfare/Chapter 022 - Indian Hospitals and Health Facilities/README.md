@@ -37,5 +37,3 @@
 
 - [Subchapter 001 (I) - Maintenance and Operation](Subchapter%20001%20%28I%29%20-%20Maintenance%20and%20Operation/README.md)
 - [Subchapter 002 (II) - Construction of Health Facilities and Community Hospitals](Subchapter%20002%20%28II%29%20-%20Construction%20of%20Health%20Facilities%20and%20Community%20Hospitals/README.md)
-- [Division A - Atomic Energy](Division%20A%20-%20Atomic%20Energy/README.md)
-- [Division B - United States Enrichment Corporation](Division%20B%20-%20United%20States%20Enrichment%20Corporation/README.md)

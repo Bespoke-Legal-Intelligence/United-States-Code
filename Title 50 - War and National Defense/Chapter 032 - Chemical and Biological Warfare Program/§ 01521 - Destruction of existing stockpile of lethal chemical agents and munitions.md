@@ -74,7 +74,7 @@ Funds for carrying out this section, including funds for military construction p
 
 #### (g) Periodic reports
 
-(1) Except as provided by paragraph (3),<sup>1</sup> the Secretary shall transmit, by December 15 of each year, a report to the Congress on the activities carried out under this section during the fiscal year ending on September 30 of the calendar year in which the report is to be made.
+(1) Except as provided by paragraph (3), the Secretary shall transmit, by December 15 of each year, a report to the Congress on the activities carried out under this section during the fiscal year ending on September 30 of the calendar year in which the report is to be made.
 
 (2) Each annual report shall include the following:
 
@@ -102,9 +102,7 @@ Funds for carrying out this section, including funds for military construction p
 
 &emsp;&emsp;(iii) a description of the steps taken (to the date of the report) to monitor the safety status of the stockpile and to mitigate any further deterioration of that status.
 
-(3) The Secretary shall transmit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a quarterly report containing an accounting of all funds expended (during the quarter covered by the report) for travel and associated travel costs for Citizens’ Advisory Commissioners under section 172(g) of Public Law 102–484 (50 U.S.C. 1521 note). The quarterly report for the final quarter of the period covered by a report under paragraph (1) may be included in that report.
-
-(4) The Secretary shall transmit the final report under paragraph (1) not later than 120 days following the completion of activities under this section. No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).
+(3) The Secretary shall transmit the final report under paragraph (1) not later than 120 days following the completion of activities under this section.
 
 #### (h) Prohibition on acquiring certain lethal chemical agents and munitions
 
@@ -124,7 +122,7 @@ For purposes of this section:
 
 &emsp;(1) The term “chemical agent and munition” means an agent or munition that, through its chemical properties, produces lethal or other damaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
 
-&emsp;(2) The term “lethal chemical agent and munition” means a chemical agent or munition that is designed to cause death, through its chemical properties, to human beings in field concentrations.
+&emsp;(2) The term “lethal chemical agent and munition” means a chemical agent or munition that is designed to cause death, through itschemical properties, to human beings in field concentrations.
 
 &emsp;(3) The term “destruction” means, with respect to chemical munitions or agents—
 
@@ -134,13 +132,13 @@ For purposes of this section:
 
 #### (k) Operational verification
 
-(1) Until the Secretary of the Army successfully completes (through the prove-out work tobe conducted at Johnston Atoll) operational verification of the technology to be used for the destruction of live chemical agents and munitions under this section, the Secretary may not conduct any activity for equipment prove out and systems test before live chemical agents are introduced at a facility (other than the Johnston Atoll facility) at which the destruction of chemical agent <sup>2</sup> and munitions weapons is to take place under this section. The limitation in the preceding sentence shall not apply with respect to the Chemical Agent Munition Disposal System in Tooele, Utah.
+(1) Until the Secretary of the Army successfully completes (through the prove-out work to be conducted at Johnston Atoll) operational verification of the technology to be used for the destruction of live chemical agents and munitions under this section, the Secretary may not conduct any activity for equipment prove out and systems test before live chemical agents are introduced at a facility (other than the Johnston Atoll facility) at which the destruction of chemical agent <sup>2</sup> and munitions weapons is to take place under this section. The limitation in the preceding sentence shall not apply with respect to the Chemical Agent Munition Disposal System in Tooele, Utah.
 
 (2) Upon the successful completion of the prove out of the equipment and facility at Johnston Atoll, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report certifying that the prove out is completed.
 
 (3) If the Secretary determines at any time that there will be a delay in meeting the deadline of December 31, 1990, scheduled by the Department of Defense for completion of the operational verification at Johnston Atoll referred to in paragraph (1), the Secretary shall immediately notify the Committees of that projected delay.
 
-(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661.)
+(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885.)
 
 #### References in Text
 
@@ -151,6 +149,8 @@ Paragraph (3), referred to in subsec. (g)(1), was redesignated par. (4) by Pub. 
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+
+1997—Subsec. (g)(3), (4). Pub. L. 105–85 struck out “No quarterly report is required under paragraph (3) after the transmittal of the final report under paragraph (1).” at end of par. (4), redesignated par. (4) as (3), and struck out former par. (3) which read as follows: “The Secretary shall transmit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives a quarterly report containing an accounting of all funds expended (during the quarter covered by the report) for travel and associated travel costs for Citizens’ Advisory Commissioners under section 172(g) of Public Law 102–484 (50 U.S.C. 1521 note). The quarterly report for the final quarter of the period covered by a report under paragraph (1) may be included in that report.”
 
 1996—Subsec. (b)(4). Pub. L. 104–106, §1502(c)(6), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
@@ -262,7 +262,7 @@ Assistance for Chemical Weapons Stockpile Communities Affected by Base Closure.�
 
 &emsp;“(A) An analysis of the economic impacts on these communities and the unique reuse problems facing local communities associated with ongoing chemical weapons programs.
 
-&emsp;“(B) Recommendations of the Secretary on methods for expeditious and cost-effective transfer orlease of these facilities to local communities for reuse by those communities.
+&emsp;“(B) Recommendations of the Secretary on methods for expeditious and cost-effective transfer or lease of these facilities to local communities for reuse by those communities.
 
 “(3) The Secretary shall submit to the congressional defense committees a report on the review and evaluation under this subsection. The report shall be submitted not later than 90 days after the date of the enactment of this Act \[Feb. 10, 1996\].
 
@@ -308,7 +308,7 @@ Membership.—(1) Each commission established for a State pursuant to subsection
 
 “(d)
 
-Conflicts of Interest.—For a period of five years after the termination of any commission, no corporation, partnership, or other organization in which a member of that commission, a spouse of a member of that commission, or a natural or adopted child of a member of that commission has an ownership interest may be awarded—
+Conflicts of Interest.—For a period of five years after the termination of any commission, no corporation, partnership, or other organization in which a member of that commission, a spouse of a member of that commission, or a natural or adopted child of amember of that commission has an ownership interest may be awarded—
 
 &emsp;“(1) a contract related to the disposal of lethal chemical agents or munitions in the stockpile referred to in section 1412(a)(1) of the Department of Defense Authorization Act, 1986 (50 U.S.C. 1521(a)(1)); or
 
@@ -392,7 +392,7 @@ Environmental Impact Statement.—The Secretary of Defense shall issue the final
 
 “(c)
 
-Disposal Technologies.—(1) Funds appropriated pursuant to this Act \[see Tables for classification\] or otherwise made available for fiscal year 1988 for the chemical stockpile demilitarization program may not be obligated for procurement or for an Army military construction project at a military installation or facility inside the continental United States until the Secretary of Defense certifies to Congress in writing that the concept plan under the program includes the following:
+Disposal Technologies.—(1) Funds appropriated pursuant to this Act \[see Tables for classification\] or otherwise made available for fiscal year 1988 for the chemical stockpile demilitarization program may not be obligated for procurement or for an Army militaryconstruction project at a military installation or facility inside the continental United States until the Secretary of Defense certifies to Congress in writing that the concept plan under the program includes the following:
 
 &emsp;“(A) Evaluation of alternate technologies for disposal of the existing stockpile and selection of the technology or technologies to be used for such purpose.
 
@@ -419,8 +419,6 @@ Surveillance and Assessment Program.—The Secretary of Defense shall conduct an
 &emsp;“(1) surveillance of the existing United States stockpile of chemical weapons; and
 
 &emsp;“(2) assessment of the condition of the stockpile.”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “agents”.</i>
 

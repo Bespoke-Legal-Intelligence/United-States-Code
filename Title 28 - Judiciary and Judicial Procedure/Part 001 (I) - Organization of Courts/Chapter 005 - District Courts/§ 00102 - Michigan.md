@@ -18,7 +18,7 @@ Michigan is divided into two judicial districts to be known as the Eastern and W
 
 (b) The Western District comprises two divisions.
 
-&emsp;&emsp;(1) The Southern Division comprises the counties of Allegan, Antrim, Barry, Benzie, Berrien, Branch, Calhoun, Cass, Charlevoix, Clinton, Eaton, Emmet, Grand Traverse, Hillsdale, Ingham, Ionia, Kalamazoo, Kalkaska, Kent, Lake, Leelanau, Manistee, Mason, Mecosta, Missaukee, Montcalm, Muskegon, Newaygo, Oceana, Osceola, Ottawa, Saint Joseph, Van Buren, and Wexford.
+&emsp;&emsp;(1) The Southern Division comprises the counties of Allegan, Antrim, Barry, Benzie, Berrien, Branch, Calhoun, Cass, Charlevoix, Clinton, Eaton, Emmet,Grand Traverse, Hillsdale, Ingham, Ionia, Kalamazoo, Kalkaska, Kent, Lake, Leelanau, Manistee, Mason, Mecosta, Missaukee, Montcalm, Muskegon, Newaygo, Oceana, Osceola, Ottawa, Saint Joseph, Van Buren, and Wexford.
 
 &emsp;&emsp;Court for the Southern Division shall be held at Grand Rapids, Kalamazoo, Lansing, and Traverse City.
 
@@ -26,7 +26,7 @@ Michigan is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Northern Division shall be held at Marquette and Sault Sainte Marie.
 
-(June 25, 1948, ch. 646, 62 Stat. 882; Feb. 10, 1954, ch. 6 §2(b)(8), 68 Stat. 11; May 19, 1961, Pub. L. 87–36, §3(d), 75 Stat. 83; Oct. 6, 1964, Pub. L. 88–627, 78 Stat. 1003; June 2, 1970, Pub. L. 91–272, §11, 84 Stat. 298.)
+(June 25, 1948, ch. 646, 62 Stat. 882; Feb. 10, 1954, ch. 6 §2(b)(8), 68 Stat. 11; Pub. L. 87–36, §3(d), May 19, 1961, 75 Stat. 83; Pub. L. 88–627, Oct. 6, 1964, 78 Stat. 1003; Pub. L. 91–272, §11, June 2, 1970, 84 Stat. 298.)
 
 #### Historical and Revision Notes
 
@@ -44,13 +44,13 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1970—Subsec. (b)(1). Pub. L. 91–272 provided for holding court at Traverse City.
+<b>1970</b>—Subsec. (b)(1). Pub. L. 91–272 provided for holding court at Traverse City.
 
-1964—Subsec. (a). Pub. L. 88–627 transferred counties of Genesee and Shiawassee from Northern Division to Southern Division, added Ann Arbor and Flint as places of court for Southern Division, and struck out Flint as a place for holding court.
+<b>1964</b>—Subsec. (a). Pub. L. 88–627 transferred counties of Genesee and Shiawassee from Northern Division to Southern Division, added Ann Arbor and Flint as places of court for Southern Division, and struck out Flint as a place for holding court.
 
-1961—Subsec. (b)(1). Pub. L. 87–36 provided for holding court at Lansing instead of Mason.
+<b>1961</b>—Subsec. (b)(1). Pub. L. 87–36 provided for holding court at Lansing instead of Mason.
 
-1954—Subsec. (a)(1). Act Feb. 10, 1954, §2(b)(8)(a), struck out counties of Branch, Calhoun, Clinton, Hillsdale, and Ingham, with respect to Southern Division of Eastern District.
+<b>1954</b>—Subsec. (a)(1). Act Feb. 10, 1954, §2(b)(8)(a), struck out counties of Branch, Calhoun, Clinton, Hillsdale, and Ingham, with respect to Southern Division of Eastern District.
 
 Subsec. (a)(2). Act Feb. 10, 1954, §2(b)(8)(b), substituted “Flint” for “Port Huron”, as a place for holding court.
 

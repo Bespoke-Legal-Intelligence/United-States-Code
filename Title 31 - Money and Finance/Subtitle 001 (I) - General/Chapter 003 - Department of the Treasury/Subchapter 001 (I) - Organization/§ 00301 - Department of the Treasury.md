@@ -164,6 +164,24 @@ The provisions of title 5 governing appointment in the competitive service, refe
 
 1984—Subsec. (e). Pub. L. 98–594 substituted “7” for “5”.
 
+#### Office of Secretary of the Treasury; Compensation
+
+Pub. L. 105–61, title I, §116, Oct. 10, 1997, 111 Stat. 1284, provided that:
+
+“(a)(1) Effective beginning on the date determined under paragraph (2), the compensation and other emoluments attached to the Office of Secretary of the Treasury shall be those that would then apply if Public Law 103–2 (107 Stat. 4; 31 U.S.C. 301 note) had never been enacted.
+
+“(2) Paragraph (1) shall become effective on the later of—
+
+&emsp;“(A) the day after the date on which the individual holding the Office of Secretary of the Treasury on January 1, 1997, ceases to hold that office; or
+
+&emsp;“(B) the date of the enactment of this Act \[Oct. 10, 1997\].
+
+“(3) Nothing in this subsection shall be considered to affect the compensation or emoluments due to any individual in connection with any period preceding the date determined under paragraph (2).
+
+“(b) Subsection (b) of the first section of the public law referred to in subsection (a)(1) of this section shall not apply in the case of any appointment the consent of the Senate to which occurs on or after the date of the enactment of this Act.
+
+“(c) This section shall not be limited (for purposes of determining whether a provision of this section applies or continues to apply) to fiscal year 1998.”
+
 #### Establishment of Office of the Undersecretary for Enforcement
 
 Pub. L. 103–123, title I, §105, Oct. 28, 1993, 107 Stat. 1234, provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury shall establish an Office of the Undersecretary for Enforcement within the Department of the Treasury by no later than February 15, 1994.”

@@ -10,7 +10,7 @@ Repeal effective on date of transfer of Alaska Railroad to State \[Jan. 5, 1985\
 
 #### Rental of Alaska Railroad Lands; Report to Congress
 
-Pub. L. 95–611, §6, Nov. 8, 1978, 92 Stat. 3090, authorized the Secretary of Transportation to conduct an investigation and study to determine equitable rates to be charged for the rental of Alaska Railroad lands, required submission by the Secretary of a report on the results of such study to the Congress not later than one year after Nov. 8, 1978, and provided that, prior to 180days after the receipt by Congress of such report, rental charges on lands rented by the Alaska Railroad were not to be increased by more than 100 per centum of the amount charged for such land on Jan. 1, 1977.
+Pub. L. 95–611, §6, Nov. 8, 1978, 92 Stat. 3090, authorized the Secretary of Transportation to conduct an investigation and study to determine equitable rates to be charged for the rental of Alaska Railroad lands, required submission by the Secretary of a report on the results of such study to the Congress not later than one year after Nov. 8, 1978, and provided that, prior to 180 days after the receipt by Congress of such report, rental charges on lands rented by the Alaska Railroad were not to be increased by more than 100 per centum of the amount charged for such land on Jan. 1, 1977.
 
 #### Appropriations
 

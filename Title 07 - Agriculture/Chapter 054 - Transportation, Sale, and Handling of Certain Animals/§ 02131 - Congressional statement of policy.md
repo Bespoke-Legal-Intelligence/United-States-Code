@@ -28,7 +28,7 @@ Section 23 of Pub. L. 91–579 provided that: “The amendments made by this Act
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–279 provided: “That this Act \[enacting section 2156 of this title, amending this section, sections 2132, 2134, 2136, 2139 to 2146, 2149, 2153 to 2155 of this title, and section 3001 of Title 39, PostalService, repealing section 2150 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Animal Welfare Act Amendments of 1976’.”
+Section 1 of Pub. L. 94–279 provided: “That this Act \[enacting section 2156 of this title, amending this section, sections 2132, 2134, 2136, 2139 to 2146, 2149, 2153 to 2155 of this title, and section 3001 of Title 39, Postal Service, repealing section 2150 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Animal Welfare Act Amendments of 1976’.”
 
 #### Short Title of 1970 Amendment
 

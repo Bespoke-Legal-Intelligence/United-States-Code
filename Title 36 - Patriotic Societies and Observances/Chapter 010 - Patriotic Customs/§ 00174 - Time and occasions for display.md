@@ -32,7 +32,7 @@ The flag should be displayed during school days in or near every schoolhouse.
 
 #### Codification
 
-“Veterans Day” substituted for “Armistice Day” in subsec. (d) to conform to the provisions of act June 1,1954, ch. 250, 68 Stat. 168. See section 6103 of Title 5, Government Organization and Employees.
+“Veterans Day” substituted for “Armistice Day” in subsec. (d) to conform to the provisions of act June 1, 1954, ch. 250, 68 Stat. 168. See section 6103 of Title 5, Government Organization and Employees.
 
 #### Amendments
 

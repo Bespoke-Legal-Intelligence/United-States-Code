@@ -43,7 +43,7 @@ Assimilation of pay and allowances, see section 1003 of this title.
 
 Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 402, 406, 1003 of this title; title 26 section 3121; title 42 section 409.
+This chapter is referred to in sections 406, 1003 of this title; title 26 section 3121; title 42 section 409.
 
 
 ---

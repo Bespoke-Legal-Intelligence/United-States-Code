@@ -58,7 +58,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;(14) The term “supplies” includes material, equipment, and stores of all kinds.
 
-&emsp;(15) The term “pay” includes basic pay, special pay, retainer pay, incentive pay, retiredpay, and equivalent pay, but does not include allowances.
+&emsp;(15) The term “pay” includes basic pay, special pay, retainer pay, incentive pay, retired pay, and equivalent pay, but does not include allowances.
 
 (b)
 
@@ -138,7 +138,7 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 &emsp;(3) The term “active service” means service on active duty or full-time National Guard duty.
 
-&emsp;(4) The term “active status” means the status of a member of a reserve componentwho is not in the inactive Army National Guard or inactive Air National Guard, on an inactive status list, or in the Retired Reserve.
+&emsp;(4) The term “active status” means the status of a member of a reserve component who is not in the inactive Army National Guard or inactive Air National Guard, on an inactive status list, or in the Retired Reserve.
 
 &emsp;(5) The term “full-time National Guard duty” means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of title 32 for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
 
@@ -602,6 +602,10 @@ Authority vested by this title in “military departments”, “the Secretary c
 
 Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
+#### Coordination of Section 1073 of Pub. L. 105–85 With Other Provisions of Pub. L. 105–85
+
+Pub. L. 105–85, div. A, title X, §1073(i), Nov. 18, 1997, 111 Stat. 1907, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+
 #### Coordination of Section 1074 of Pub. L. 104–201 With Other Provisions of Pub. L. 104–201
 
 Section 1074(e) of Pub. L. 104–201 provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
@@ -644,5 +648,5 @@ Partial mobilization, see section 10207 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 sections 8331, 8401; title 14 section 423; title 18 section 232; title 31 section 3711; title 33 sections 853<i>o</i>, 857–1; title 37 section 101; title 39 section 3401; title 42 sections 5170b, 7235, 12639; title 50 App. section 592.
+This section is referred to in sections 3750, 6246, 8750 of this title; title 5 sections 8331, 8401; title 14 section 423; title 18 section 232; title 31 section 3711; title 33 sections 853<i>o</i>, 857–1; title 37 section 101; title 39 section 3401; title 41 section 259; title 42 sections 2651, 5170b, 7235, 12639; title 46 App. section 1187b; title 50 App. section 592.
 

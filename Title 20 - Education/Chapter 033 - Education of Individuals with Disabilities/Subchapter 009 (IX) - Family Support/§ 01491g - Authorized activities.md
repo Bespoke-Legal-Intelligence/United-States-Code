@@ -14,7 +14,7 @@ A State that receives a grant under section 1491c of this title may use the fund
 
 &emsp;&emsp;(C) Develop or strengthen family-centered and family-directed approaches to services, including service coordination services, service planning services, and respite care services.
 
-&emsp;&emsp;(D) Assist families of children with disabilities in accessing natural <sup>1</sup> and communitysupports and in obtaining benefits and services.
+&emsp;&emsp;(D) Assist families of children with disabilities in accessing natural <sup>1</sup> and community supports and in obtaining benefits and services.
 
 #### (2) Interagency coordination
 
@@ -28,7 +28,7 @@ A State that receives a grant under section 1491c of this title may use the fund
 
 #### (3) Local or regional councils
 
-&emsp;The State may support the development or enhancement of local or regional councils to review the status of family support for families of children with disabilities in the local or regional area, to advise and assist with the planning, development, implementation, and evaluation of family support for families of children with disabilities in such local or regional area, and to provide recommendations to the State regarding improvements and plans.
+&emsp;The State may support the development or enhancement of local or regional councils to review the status of family support for families of children with disabilities in the local or regional area, to advise and assist with the planning, development, implementation, andevaluation of family support for families of children with disabilities in such local or regional area, and to provide recommendations to the State regarding improvements and plans.
 
 #### (4) Outreach
 
@@ -67,6 +67,10 @@ A State that receives a grant under section 1491c of this title may use the fund
 In carrying out activities authorized under this subchapter, a State shall ensure that such programs and activities address the needs of families who are economically disadvantaged.
 
 (Pub. L. 91–230, title VI, §708, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3949.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), not later than 6 months after the effective date of rules promulgated by the Federal Trade Commission under subsection (a) ofthis section, the Securities and Exchange Commission shall promulgate, or require any national securities exchange or registered securities association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by persons described in paragraph (2).
+&emsp;&emsp;Except as provided in subparagraph (B), not later than 6 months after the effective date of rules promulgated by the Federal Trade Commission under subsection (a) of this section, the Securities and Exchange Commission shall promulgate, or require any national securities exchange or registered securities association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by persons described in paragraph (2).
 
 #### (B) Exception
 
@@ -52,7 +52,7 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 &emsp;&emsp;For purposes of subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) the terms “broker”, “dealer”, “transfer agent”, “municipal securities dealer”, “municipal securities broker”, “government securities broker”, and “government securities dealer” have the meanings given such terms by paragraphs (4), (5), (25), (30), (31), (43), and (44) of section 78c(a) of this title;
+&emsp;&emsp;&emsp;(i) the terms “broker”, “dealer”, “transfer agent”, “municipal securities dealer”,“municipal securities broker”, “government securities broker”, and “government securities dealer” have the meanings given such terms by paragraphs (4), (5), (25), (30), (31), (43), and (44) of section 78c(a) of this title;
 
 &emsp;&emsp;&emsp;(ii) the term “investment adviser” has the meaning given such term by section 80b–2(a)(11) of this title; and
 

@@ -1,14 +1,16 @@
 ### §1351. Nonimmigrant visa fees
 
-The fees for the furnishing and verification of applications for visas by nonimmigrants of each foreign country and for the issuance of visas to nonimmigrants of each foreign country shall be prescribed by the Secretary of State, if practicable, in amounts corresponding to the total of all visa, entry, residence, or other similar fees, taxes, or charges assessed or levied against nationals of the United States by the foreign countries of which such nonimmigrants are nationals or stateless residents: <i>Provided,</i> That nonimmigrant visas issued to aliens coming to the United States in transit to and from the headquarters district of the United Nations in accordance with the provisions of the Headquarters Agreement shall be gratis.
+The fees for the furnishing and verification of applications for visas by nonimmigrants of each foreign country and for the issuance of visas to nonimmigrants of each foreign country shall be prescribed by the Secretary of State, if practicable, in amounts corresponding to the total of all visa, entry, residence, or other similar fees, taxes, or charges assessed or levied against nationals of the United States by the foreign countries of which such nonimmigrants are nationals or stateless residents: <i>Provided,</i> That nonimmigrant visas issued to aliens coming to the United States in transit to and from the headquarters district of the United Nations in accordance with the provisions of the Headquarters Agreement shall be gratis. Subject to such criteria as the Secretary of State may prescribe, including the duration of stay of the alien and the financial burden upon the charitable organization, the Secretary of State shall waive or reduce the fee for application and issuance of a nonimmigrant visa for any alien coming to the United States primarily for, or in activities related to, a charitable purpose involving health or nursing care, the provision of food or housing, job training, or any other similar direct service or assistance to poor or otherwise needy individuals in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §281, 66 Stat. 230; Oct. 3, 1965, Pub. L. 89–236, §14, 79 Stat. 919; Oct. 21, 1968, Pub. L. 90–609, §1, 82 Stat. 1199.)
+(June 27, 1952, ch. 477, title II, ch. 9, §281, 66 Stat. 230; Oct. 3, 1965, Pub. L. 89–236, §14, 79 Stat. 919; Oct. 21, 1968, Pub. L. 90–609, §1, 82 Stat. 1199; Oct. 6, 1997, Pub. L. 105–54, §2(a), 111 Stat. 1175.)
 
 #### References in Text
 
 The Headquarters Agreement, referred to in text, is set out as a note under section 287 of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1997—Pub. L. 105–54 inserted at end “Subject to such criteria as the Secretary of State may prescribe, including the duration of stay of the alien and the financial burden upon the charitable organization, the Secretary of State shall waive or reduce the fee for application and issuance of a nonimmigrant visa for any alien coming to the United States primarily for, or in activities related to, a charitable purpose involving health or nursing care, the provision of food or housing, job training, or any other similar direct service or assistance to poor or otherwise needy individuals in the United States.”
 
 1968—Pub. L. 90–609 struck out provisions fixing statutory fees for specified immigration and nationality benefits and services rendered, including those pertaining to immigrant visas, reentry permits, adjustments of status to permanent residence, creation of record of admission for permanent residence, suspension of deportation, extension of stay to nonimmigrants, and application for admission to practice as attorney or representative before the Service.
 
@@ -18,15 +20,23 @@ Subsec. (b). Pub. L. 89–236, §14(c), added subsec. (b).
 
 Subsec. (c). Pub. L. 89–236, §14(d), designated closing provision consisting of the paragraph beginning “The fees for the furnishing” as subsec. (c).
 
+#### Effective Date of 1997 Amendment
+
+Section 2(b) of Pub. L. 105–54 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 6, 1997\].”
+
 #### Effective Date of 1965 Amendment
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
 #### Surcharge for Processing Machine Readable Nonimmigrant Visas
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title IV\], Sept. 30, 1996, 110 Stat. 3009, 3009–46, provided: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) \[set out below\], not to exceed $150,000,000 of fees may be collected during fiscal year 1997 under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal year 1997 as an offsetting collection to appropriations made under this heading to recover the costs of providing consular services and shall remain available until expended”.
+Pub. L. 105–119, title IV, Nov. 26, 1997, 111 Stat. 2494, provided in part: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) \[set out below\], fees may be collected during fiscal years 1998 and 1999 under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal years 1998 and 1999 as an offsetting collection to appropriations made under this heading to recover costs as set forth under section 140(a)(2) of that Act and shall remain available until expended.”
 
-Similar provisions were contained in the following prior appropriations act:
+Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 105–46, §116, Sept. 30, 1997, 111 Stat. 1157.
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title IV\], Sept. 30, 1996, 110 Stat. 3009, 3009–46.
 
 Pub. L. 104–134, title I, §101\[(a)\] \[title IV\], Apr. 26, 1996, 110 Stat. 1321, 1321–36; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 

@@ -4,7 +4,7 @@
 
 (b)(1) This subsection applies to any career appointee who has successfully completed the probationary period prescribed under section 3393(d) of this title.
 
-(2) Except as provided in paragraphs (4) and (5), a career appointee may not be removed fromthe Senior Executive Service due to a reduction in force within an agency.
+(2) Except as provided in paragraphs (4) and (5), a career appointee may not be removed from the Senior Executive Service due to a reduction in force within an agency.
 
 (3) A career appointee who, but for this subsection, would be removed from the Senior Executive Service due to a reduction in force within an agency—
 
@@ -72,5 +72,5 @@ Section 1704(e) of Pub. L. 97–35 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3151, 3393, 3593, 3594, 7542 of this title; title 10 sections 1606, 1610.
+This section is referred to in sections 3151, 3393, 3593, 3594, 7542 of this title; title 10 sections 1606, 1610; title 42 sections 616, 7237.
 

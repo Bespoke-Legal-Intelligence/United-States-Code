@@ -22,7 +22,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;&emsp;(ii) the determination required under clause (i) is final and implemented under State law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1) of this section, such as agreement is implemented;
 
-&emsp;(D) does not permit the taking of a number of animals of the species that exceeds themaximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
+&emsp;(D) does not permit the taking of a number of animals of the species that exceeds the maximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
 
 &emsp;(E) does not permit the taking of the species for scientific research, public display, or enhancing the survival or recovery of a species or stock, except for taking for such purposes that is undertaken by, or on behalf of, the State;
 
@@ -44,7 +44,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;(B) the Secretary shall regulate, without regard to this section other than the allocations specified under such an agreement, the taking of the species—
 
-&emsp;&emsp;(i) incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activities provided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) <sup>1</sup> of this title, and
+&emsp;&emsp;(i) incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activitiesprovided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) <sup>1</sup> of this title, and
 
 &emsp;&emsp;(ii) for scientific research, public display, or enhancing the survival or recovery of a species or stock (other than by, or on behalf of, the State), except that any taking authorized under a permit issued pursuant to section 1371(a)(1) of this title after October 9, 1981, allowing the removal of live animals from habitat within the State shall not be effective if the State agency disapproves, on or before the date of issuance of the permit, such taking as being inconsistent with the State program; and
 
@@ -72,7 +72,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 (1) If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) of this section is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under section 1852 of this title) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b) of this section, as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under section 1371(a) of this title within the zone described in section 1362(14)(B) <sup>2</sup> of this title.
 
-(2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>1</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act,<sup>1</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
+(2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>2</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act,<sup>2</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
 
 #### (e) Revocation of transfer of management authority
 
@@ -116,7 +116,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 (2) For purposes of paragraph (1), the term “subsistence uses” means the customary and traditional uses by rural Alaska residents of marine mammals for direct personal or family consumption as food, shelter, fuel, clothing, tools, or transportation; for the making and selling of handicraft articles out of nonedible byproducts of marine mammals taken for personal or family consumption; and for barter, or sharing for personal or family consumption. As used in this paragraph—
 
-&emsp;(A) The term “family” means all persons related by blood, marriage, or adoption, or anyperson living within a household on a permanent basis.
+&emsp;(A) The term “family” means all persons related by blood, marriage, or adoption, or any person living within a household on a permanent basis.
 
 &emsp;(B) The term “barter” means the exchange of marine mammals or their parts, taken for subsistence uses—
 

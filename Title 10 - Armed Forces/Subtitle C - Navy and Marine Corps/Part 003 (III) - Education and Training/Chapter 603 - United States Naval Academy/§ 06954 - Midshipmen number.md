@@ -20,7 +20,7 @@
 
 &emsp;(9) One from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
-&emsp;(10) One from the Commonwealth of the Northern Marianas <sup>1</sup> Islands, nominated by the resident representative from the commonwealth.
+&emsp;(10) One from the Commonwealth of the Northern Mariana Islands, nominated by the resident representative from the commonwealth.
 
 > Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.
 
@@ -50,7 +50,7 @@
 
 (f) The Secretary of the Navy shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Sept. 7, 1962, Pub. L. 87–651, title I, §124, 76 Stat. 514; Sept. 14, 1962, Pub. L. 87–663, §1(3), 76 Stat. 547; Mar. 3, 1964, Pub. L. 88–276, §2, 78 Stat. 150; Oct. 13, 1966, Pub. L. 89–650, §1(1)–(3), 80 Stat. 896; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Oct. 22, 1968, Pub. L. 90–623, §2(8), 82 Stat. 1314; Sept. 22, 1970, Pub. L. 91–405, title II, §204(c), 84 Stat. 852; Aug. 7, 1972, Pub. L. 92–365, §1(2), 86 Stat. 505; Nov. 29, 1973, Pub. L. 93–171, §2(1)–(3), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(1), 89 Stat. 538; Dec. 24, 1980, Pub. L. 96–600, §2(b), 94 Stat. 3493; Oct. 14, 1981, Pub. L. 97–60, title II, §203(b)(2), 95 Stat. 1006; Oct. 12, 1982, Pub. L. 97–295, §1(44), 96 Stat. 1298; Sept. 24, 1983, Pub. L. 98–94, title X, §1005(a)(2), (b)(2), 97 Stat. 660; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(b)(1), 104 Stat. 1563; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §531, 107 Stat. 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1673(c), 108 Stat. 3016; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §532(b), 110 Stat. 314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Sept. 7, 1962, Pub. L. 87–651, title I, §124, 76 Stat. 514; Sept. 14, 1962, Pub. L. 87–663, §1(3), 76 Stat. 547; Mar. 3, 1964, Pub. L. 88–276, §2, 78 Stat. 150; Oct. 13, 1966, Pub. L. 89–650, §1(1)–(3), 80 Stat. 896; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Oct. 22, 1968, Pub. L. 90–623, §2(8), 82 Stat. 1314; Sept. 22, 1970, Pub. L. 91–405, title II, §204(c), 84 Stat. 852; Aug. 7, 1972, Pub. L. 92–365, §1(2), 86 Stat. 505; Nov. 29, 1973, Pub. L. 93–171, §2(1)–(3), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(1), 89 Stat. 538; Dec. 24, 1980, Pub. L. 96–600, §2(b), 94 Stat. 3493; Oct. 14, 1981, Pub. L. 97–60, title II, §203(b)(2), 95 Stat. 1006; Oct. 12, 1982, Pub. L. 97–295, §1(44), 96 Stat. 1298; Sept. 24, 1983, Pub. L. 98–94, title X, §1005(a)(2), (b)(2), 97 Stat. 660; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(b)(1), 104 Stat. 1563; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §531, 107 Stat. 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1673(c), 108 Stat. 3016; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §532(b), 110 Stat. 314; Nov. 18, 1997, Pub. L. 105–85, div. A, title X, §1073(a)(62), 111 Stat. 1903.)
 
 Historical and Revision Notes<br>1956
 
@@ -141,6 +141,8 @@ In 10:6954(f), the word “The” is substituted for “Effective beginning with
 Section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (b)(1)(B), means section 1331 of this title prior to its renumbering as section 12731 of this title and its general revision by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 2999. A new section 1331 was added by section 1662(j)(7) of Pub. L. 103–337.
 
 #### Amendments
+
+1997—Subsec. (a)(10). Pub. L. 105–85 substituted “Mariana” for “Marianas”.
 
 1996—Subsec. (a)(10). Pub. L. 104–106 added par. (10).
 
@@ -235,6 +237,4 @@ Secretary to continue to exercise the authority granted under this chapter and c
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6956, 6957, 6958 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Mariana”.</i>
 

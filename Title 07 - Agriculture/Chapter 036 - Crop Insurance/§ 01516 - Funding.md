@@ -70,7 +70,7 @@ Subsec. (b)(2)(B). Pub. L. 104–127, §193(e)(2)(B), struck out “subject to p
 
 Subsecs. (c), (d). Pub. L. 96–365, §110, added subsecs. (c) and (d).
 
-1956—Subsec. (a). Act Aug. 3, 1956, added to list of costs which may be considered as nonadministrative ornonoperating, the direct cost of loss adjusters for crop inspections and loss adjustment, and authorized use of premium income for administrative and operating costs within limits prescribed by applicable appropriation.
+1956—Subsec. (a). Act Aug. 3, 1956, added to list of costs which may be considered as nonadministrative or nonoperating, the direct cost of loss adjusters for crop inspections and loss adjustment, and authorized use of premium income for administrative and operating costs within limits prescribed by applicable appropriation.
 
 1941—Subsec. (a). Act June 21, 1941, substituted “the agricultural commodity” for “wheat”, and “$12,000,000” for “$6,000,000”.
 

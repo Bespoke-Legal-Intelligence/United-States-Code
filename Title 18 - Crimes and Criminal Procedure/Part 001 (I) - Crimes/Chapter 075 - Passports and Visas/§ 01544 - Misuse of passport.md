@@ -8,7 +8,7 @@ Whoever willfully and knowingly furnishes, disposes of, or delivers a passport t
 
 Shall be fined under this title, imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility <sup>1</sup> such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130009(a)(2), title XXXIII, §330016(1)(I), 108 Stat. 2030, 2147; Sept. 30, 1996, Pub. L. 104–208, div. C, title II, §211(a)(2), 110 Stat. 3009–569.)
+(June 25, 1948, ch. 645, 62 Stat. 771; Sept. 13, 1994, Pub. L. 103–322, title XIII, §130009(a)(2), titleXXXIII, §330016(1)(I), 108 Stat. 2030, 2147; Sept. 30, 1996, Pub. L. 104–208, div. C, title II, §211(a)(2), 110 Stat. 3009–569.)
 
 #### Historical and Revision Notes
 

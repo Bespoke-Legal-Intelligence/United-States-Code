@@ -6,7 +6,7 @@ Any agency of the Federal Government is authorized, upon request of the Commissi
 
 #### (b) Functions of Secretary of Commerce
 
-In carrying out the provisions of the Convention and this chapter, the Secretary of Commerce may arrange for cooperation with agencies of the United States, the States, private institutions and organizations, and agencies of thegovernment of any Party, to conduct scientific and other programs, and may execute such memoranda as may be necessary to reflect such agreements.
+In carrying out the provisions of the Convention and this chapter, the Secretary of Commerce may arrange for cooperation with agencies of the United States, the States, private institutions and organizations, and agencies of the government of any Party, to conduct scientific and other programs, and may execute such memoranda as may be necessary to reflect such agreements.
 
 (Pub. L. 102–567, title VIII, §808, Oct. 29, 1992, 106 Stat. 4312; Pub. L. 102–587, title VIII, §8008, Nov. 4, 1992, 106 Stat. 5101.)
 

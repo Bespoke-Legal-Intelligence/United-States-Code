@@ -50,5 +50,5 @@ Pub. L. 100–180, div. A, title VII, §711(c)(2), Dec. 4, 1987, 101 Stat. 1111,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2005, 2127, 16201 of this title; title 37 sections 415, 1006.
+This section is referred to in sections 2005, 2127, 2173, 16201 of this title; title 37 sections 415, 1006.
 

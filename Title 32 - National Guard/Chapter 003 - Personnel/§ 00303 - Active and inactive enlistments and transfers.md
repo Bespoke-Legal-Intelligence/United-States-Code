@@ -6,7 +6,7 @@
 
 (c) In time of peace, no enlisted member may be required to serve for a period longer than that for which he enlisted in the active or inactive National Guard.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 601; Sept. 7, 1962, Pub. L. 87–649, §14e(1), 76 Stat. 502; Dec. 12, 1980, Pub. L. 96–513, title V, §515(2), 94 Stat. 2937.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 601; Pub. L. 87–649, §14e(1), Sept. 7, 1962, 76 Stat. 502; Pub. L. 96–513, title V, §515(2), Dec. 12, 1980, 94 Stat. 2937.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ In subsection (d), the words “under any enlistment” are omitted as surplusag
 
 1980—Subsecs. (c), (d). Pub. L. 96–513 redesignated subsec. (d) as (c).
 
-1962—Subsec. (c). Pub. L. 87–649 repealed subsec. (c) which provided that a person enlisted in inactive ArmyNational Guard or inactive Air National Guard is not entitled to pay under section 301 of title 37.
+1962—Subsec. (c). Pub. L. 87–649 repealed subsec. (c) which provided that a person enlisted in inactive Army National Guard or inactive Air National Guard is not entitled to pay under section 301 of title 37.
 
 #### Effective Date of 1980 Amendment
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Persons enlisted in inactive National Guard not entitled to pay, see section 206 of Title 37, Pay and Allowances of Uniformed Services.
 
-Transfer of enlisted members from Army National Guard of United States and Air National Guard of United States to Army Reserve and Air Force Reserve, see section 12105 of Title 10, Armed Forces.
+Transfer of enlisted members from Army National Guard of United States and Air National Guard ofUnited States to Army Reserve and Air Force Reserve, see section 12105 of Title 10, Armed Forces.
 

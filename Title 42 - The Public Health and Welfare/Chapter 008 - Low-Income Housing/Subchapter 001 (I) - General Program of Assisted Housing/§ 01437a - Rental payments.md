@@ -34,7 +34,7 @@ Persons and families.—
 
 &emsp;(A)
 
-Single persons.—The term “families” includes families consisting of a single personin the case of (i) an elderly person, (ii) a disabled person, (iii) a displaced person, (iv) the remaining member of a tenant family, and (v) any other single persons. In no event may any single person under clause (v) of the first sentence be provided a housing unit assisted under this chapter of 2 or more bedrooms. In determining priority for admission to housing under this chapter, the Secretary shall give preference to single persons who are elderly, disabled, or displaced persons before single persons who are eligible under clause (v) of the first sentence.
+Single persons.—The term “families” includes families consisting of a single person in the case of (i) an elderly person, (ii) a disabled person, (iii) a displaced person, (iv) the remaining member of a tenant family, and (v) any other single persons. In no event may anysingle person under clause (v) of the first sentence be provided a housing unit assisted under this chapter of 2 or more bedrooms. In determining priority for admission to housing under this chapter, the Secretary shall give preference to single persons who are elderly, disabled, or displaced persons before single persons who are eligible under clause (v) of the first sentence.
 
 &emsp;(B)
 
@@ -96,7 +96,7 @@ Near-elderly person.—The term “near-elderly person” means a person who is 
 
 When used in reference to public housing:
 
-(1) The term “development” means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housingproject. The term “development cost” comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the development of such project. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
+(1) The term “development” means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housing project. The term “development cost” comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the developmentof such project. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
 
 (2) The term “operation” means any or all undertakings appropriate for management, operation, services, maintenance, security (including the cost of security personnel), or financing in connection with a low-income housing project. The term also means the financing of tenant programs and services for families residing in low-income housing projects, particularly where there is maximum feasible participation of the tenants in the development and operation of such tenant programs and services. As used in this paragraph, the term “tenant programs and services” includes the development and maintenance of tenant organizations which participate in the management of low-income housing projects; the training of tenants to manage and operate such projects and the utilization of their services in project management and operation; counseling on household management, housekeeping, budgeting, money management, child care, and similar matters; advice as to resources for job training and placement, education, welfare, health, and other community services; services which are directly related to meeting tenant needs and providing a wholesome living environment; and referral to appropriate agencies in the community when necessary for the provision of such services. To the maximum extent available and appropriate, existing public and private agencies in the community shall be used for the provision of such services.
 
@@ -230,7 +230,7 @@ Subsec. (a)(2)(B). Pub. L. 101–235, §302(2), substituted “5-year limitation
 
 1988—Subsec. (a). Pub. L. 100–242, §102(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), a” for “A”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
-Subsec. (b)(3). Pub. L. 100–242, §170(c), in cl. (A), substituted “sixty-two years of age,” for “sixty-two yearsof age or”, and “, has a developmental disability as defined in section 6001(7) of this title” for “or in section 102 of the Developmental Disabilities Services and Facilities Construction Amendments of 1970”.
+Subsec. (b)(3). Pub. L. 100–242, §170(c), in cl. (A), substituted “sixty-two years of age,” for “sixty-two years of age or”, and “, has a developmental disability as defined in section 6001(7) of this title” for “or in section 102 of the Developmental Disabilities Services and Facilities Construction Amendments of 1970”.
 
 Pub. L. 100–242, §111, inserted provisions relating to determination of priority admission to public housing projects designed for elderly families.
 
@@ -268,7 +268,7 @@ Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substitu
 
 Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
-Section 402(f) of Pub. L. 104–99, as amended by Pub. L. 104–204, title II, §201(c)(2), Sept. 26, 1996, 110 Stat. 2893, provided that: “This section \[amending this section, sections 1437d to 1437f, 1437n, 1437v, and 13615 of this title, and section 1701s of Title 12, Banks and Banking, enacting provisions set out as notes under this section and sections 1437 and 1437d of this title, and amending provisions set out as a note under section 1437f of this title\] shall be effective upon the enactment of this Act \[Jan. 26, 1996\] and only for fiscal years 1996 and 1997.”
+Section 402(f) of Pub. L. 104–99, as amended by Pub. L. 104–204, title II, §201(c)(2), Sept. 26, 1996, 110 Stat. 2893; Pub. L. 105–65, title II, §201(d)(2), Oct. 27, 1997, 111 Stat. 1364, provided that: “This section \[amending this section, sections 1437d to 1437f, 1437n, 1437v, and 13615 of this title, and section 1701s of Title 12, Banks and Banking, enacting provisions set out as notes under this section and sections 1437 and 1437d of this title, and amending provisions set out as a note under section 1437f of this title\] shall be effective upon the enactment of this Act \[Jan. 26, 1996\] and only for fiscal years 1996, 1997, and 1998.”
 
 #### Effective Date of 1992 Amendment
 

@@ -1,6 +1,6 @@
 ### §1516. Obstruction of Federal audit
 
-(a) Whoever, with intent to deceive or defraud the United States, endeavors to influence, obstruct, or impede a Federal auditor in the performance of official duties relating to a person receiving in excess of $100,000, directly or indirectly, from the United States in any 1 year period under a contract or subcontract, shall be fined under this title, or imprisoned not more than 5 years, or both.
+(a) Whoever, with intent to deceive or defraud the United States, endeavors to influence, obstruct, or impede a Federal auditor in the performance of official duties relating to a person receiving in excess of $100,000, directly or indirectly, from the United States in any 1 year period under a contract or subcontract, or relating to any property that is security for a mortgage note that is insured, guaranteed, acquired, or held by the Secretary of Housing and Urban Development pursuant to any Act administered by the Secretary, shall be fined under this title, or imprisoned not more than 5 years, or both.
 
 (b) For purposes of this section—
 
@@ -8,9 +8,11 @@
 
 &emsp;(2) the term “in any 1 year period” has the meaning given to the term “in any one-year period” in section 666.
 
-(Added Pub. L. 100–690, title VII, §7078(a), Nov. 18, 1988, 102 Stat. 4406; amended Pub. L. 103–322, title XXXII, §320609, Sept. 13, 1994, 108 Stat. 2120; Pub. L. 104–294, title VI, §604(b)(43), Oct. 11, 1996, 110 Stat. 3509.)
+(Added Pub. L. 100–690, title VII, §7078(a), Nov. 18, 1988, 102 Stat. 4406; amended Pub. L. 103–322, title XXXII, §320609, Sept. 13, 1994, 108 Stat. 2120; Pub. L. 104–294, title VI, §604(b)(43), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 105–65, title V, §564, Oct. 27, 1997, 111 Stat. 1420.)
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–65 inserted “or relating to any property that is security for a mortgage note that is insured, guaranteed, acquired, or held by the Secretary of Housing and Urban Development pursuant to any Act administered by the Secretary,” after “under a contract or subcontract,”.
 
 1996—Subsec. (b)(1). Pub. L. 104–294 inserted “and” after semicolon at end.
 

@@ -10,7 +10,7 @@ The Congress finds that to help achieve these objectives, and to assure a coordi
 
 #### (c) Creation of Federal Energy Administration
 
-The sole purpose of this chapter is to create an administration in the executive branch, called the Federal Energy Administration, to vest in the Administration certain functions as provided in this chapter, and to transfer to such Administration certain executive branch functions authorized by other laws, where such transfer is necessary on an interim basis to deal with the Nation's energy shortages.
+The sole purpose of this chapter is to create an administration in the executive branch, called the Federal Energy Administration, to vest in the Administration certain functions as provided in this chapter, and to transfer to such Administration certain executive branch functions authorized by other laws, where such transfer isnecessary on an interim basis to deal with the Nation's energy shortages.
 
 (Pub. L. 93–275, §2, May 7, 1974, 88 Stat. 97.)
 
@@ -90,7 +90,7 @@ Section 29 of Pub. L. 93–275, as amended by Pub. L. 94–385, title I, §110, 
 
 &emsp;“(2) no amounts authorized to be appropriated in such paragraph may be used to carry out the functions identified as assigned to the Office of Nuclear Affairs as of January 1, 1976.
 
-“(c) No amounts authorized to be appropriated in paragraphs (5) (B) and (7) of subsection (a) may be usedto carry out solar energy research, development, or demonstration activities.
+“(c) No amounts authorized to be appropriated in paragraphs (5) (B) and (7) of subsection (a) may be used to carry out solar energy research, development, or demonstration activities.
 
 “(d) Subject to the provisions of any other law enacted after the date of the enactment of this subsection \[July 21, 1977\], if any function for which funds are authorized to be appropriated by this section is transferred by or pursuant to any such provision of law to any department, agency, or office, the unexpended balances of appropriations, authorizations, allocations, and other funds, held, used, arising from, available to, or to be made available in connection with such function shall be transferred to such department, agency, or office, but shall continue to be subject to any restriction to which they were subject before such transfer.”
 

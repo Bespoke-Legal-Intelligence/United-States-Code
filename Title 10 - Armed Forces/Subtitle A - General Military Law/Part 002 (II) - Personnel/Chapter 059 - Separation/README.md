@@ -48,7 +48,7 @@ Pub. L. 104–106, div. A, title V, §§563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01161 - Commissioned officers limitations on dismissal](%C2%A7%2001161%20-%20Commissioned%20officers%20limitations%20on%20dismissal.md)
-- [&sect; 01162, 1163 - Repealed Pub. L. 103&#8211;337, div. A, title XVI, &sect;1662(i)(2), Oct. 5, 1994, 108 Stat. 2998](%C2%A7%2001162%2C%201163%20-%20Repealed%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71662%28i%29%282%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202998.md)
+- [&sect; 01162, 1163 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1662(i)(2), Oct. 5, 1994, 108 Stat. 2998](%C2%A7%2001162%2C%201163%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71662%28i%29%282%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202998.md)
 - [&sect; 01164 - Warrant officers separation for age](%C2%A7%2001164%20-%20Warrant%20officers%20separation%20for%20age.md)
 - [&sect; 01165 - Regular warrant officers separation during three-year probationary period](%C2%A7%2001165%20-%20Regular%20warrant%20officers%20separation%20during%20three-year%20probationary%20period.md)
 - [&sect; 01166 - Regular warrant officers elimination for unfitness or unsatisfactory performance](%C2%A7%2001166%20-%20Regular%20warrant%20officers%20elimination%20for%20unfitness%20or%20unsatisfactory%20performance.md)

@@ -96,7 +96,7 @@ Sec. 2. To the extent the States, in consultation with local general purpose gov
 
 (b) Communicate with State and local elected officials as early in the program planning cycle as is reasonably feasible to explain specific plans and actions.
 
-(c) Make efforts to accommodate State and local elected officials’ concerns with proposed Federal financial assistance and direct Federal development that are communicated through the designated State process. For those cases where the concerns cannot be accommodated, Federal officials shall explain the bases for their decision in a timely manner.
+(c) Make efforts to accommodate State and local elected officials’ concerns with proposed Federal financial assistance and direct Federal development that arecommunicated through the designated State process. For those cases where the concerns cannot be accommodated, Federal officials shall explain the bases for their decision in a timely manner.
 
 (d) Allow the States to simplify and consolidate existing Federally required State plan submissions. Where State planning and budgeting systems are sufficient and where permitted by law, the substitution of State plans for Federally required State plans shall be encouraged by the agencies.
 

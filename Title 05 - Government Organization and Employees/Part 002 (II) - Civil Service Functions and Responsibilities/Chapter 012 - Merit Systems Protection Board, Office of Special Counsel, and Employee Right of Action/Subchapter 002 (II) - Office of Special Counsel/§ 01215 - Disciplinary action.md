@@ -24,7 +24,7 @@
 
 (3) A final order of the Board may impose disciplinary action consisting of removal, reduction in grade, debarment from Federal employment for a period not to exceed 5 years, suspension, reprimand, or an assessment of a civil penalty not to exceed $1,000.
 
-(4) There may be no administrative appeal from an order of the Board. An employee subject to a final order imposing disciplinary action under this subsection may obtain judicial review of the order by filing a petition therefor with such court, and within such time, as provided for under section 7703(b).
+(4) There may be no administrative appeal from an order of the Board. An employee subject to a final order imposing disciplinary action under this subsection may obtain judicial reviewof the order by filing a petition therefor with such court, and within such time, as provided for under section 7703(b).
 
 (5) In the case of any State or local officer or employee under chapter 15, the Board shall consider the case in accordance with the provisions of such chapter.
 

@@ -48,7 +48,7 @@ The purposes of the conservation farm option pilot programs shall include—
 
 #### (2) Duration of contract
 
-&emsp;The contract shall be for a period of 10 years. The contract may be renewed for a period ofnot to exceed 5 years on mutual agreement of the Secretary and the owner or producer.
+&emsp;The contract shall be for a period of 10 years. The contract may be renewed for a period of not to exceed 5 years on mutual agreement of the Secretary and the owner or producer.
 
 #### (3) Consideration
 

@@ -1,6 +1,6 @@
 ### §580f. Telephones for official use in private residences
 
-Notwithstanding the provisions of section 1348 of title 31, appropriations for the protection andmanagement of the national forests and other lands administered by the Forest Service shall be available to pay for telephone service installed in residences of employees and of persons cooperating with the Forest Service who reside within or near such lands when such installation is determined by the Secretary of Agriculture to be needed in protecting such lands: <i>Provided</i>, That in addition to the monthly local service charge, the Government may pay only such tolls or other charges as are required strictly for the public business.
+Notwithstanding the provisions of section 1348 of title 31, appropriations for the protection and management of the national forests and other lands administered by the Forest Service shall be available to pay for telephone service installed in residences of employees and of persons cooperating with the Forest Service who reside within or near such lands when such installation is determined by the Secretary of Agriculture to be needed in protecting such lands: <i>Provided</i>, That in addition to the monthly local service charge, the Government may pay only such tolls or other charges as are required strictly for the public business.
 
 (Apr. 24, 1950, ch. 97, §10, 64 Stat. 85; June 20, 1958, Pub. L. 85–464, §6, 72 Stat. 217.)
 

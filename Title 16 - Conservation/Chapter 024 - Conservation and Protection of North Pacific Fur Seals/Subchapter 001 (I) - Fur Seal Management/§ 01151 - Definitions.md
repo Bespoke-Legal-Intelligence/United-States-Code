@@ -32,7 +32,7 @@
 
 <i>Pub. L. 102–251, title III, §§303, 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (f) to (m) as (g) to (n), respectively, and by inserting after subsection (e) the following new subsection:</i>
 
-(f) “Jurisdiction of the United States” includes jurisdiction over the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
+(f) “Jurisdiction of the United States” includes jurisdiction over the areas referred to as easternspecial areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
 #### Amendments
 
@@ -50,5 +50,5 @@ Section 1 of Pub. L. 98–129 provided: “That this Act \[amending this chapter
 
 #### Short Title
 
-Pub. L. 89–702, which is classified principally to this chapter, is popularly known as the “Fur Seal Act of1966”. Prior to the general amendment of Pub. L. 89–702 by Pub. L. 98–129, section 1 of Pub. L. 89–702 had provided: “That this Act \[enacting this chapter, amending section 2254(g) of former Title 5, Executive Departments and Government Officers and Employees, repealing sections 631a to 631q of this title, and amending provisions set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\] may be cited as the ‘Fur Seal Act of 1966’.”
+Pub. L. 89–702, which is classified principally to this chapter, is popularly known as the “Fur Seal Act of 1966”. Prior to the general amendment of Pub. L. 89–702 by Pub. L. 98–129, section 1 of Pub. L. 89–702 had provided: “That this Act \[enacting this chapter, amending section 2254(g) of former Title 5, Executive Departments and Government Officers and Employees, repealing sections 631a to 631q of this title, and amending provisions set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\] may be cited as the ‘Fur Seal Act of 1966’.”
 

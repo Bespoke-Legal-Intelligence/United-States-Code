@@ -12,7 +12,7 @@
 
 #### (b) Federal financial assistance
 
-Any assistance provided under this subchapter shall constitute Federal financial assistance for purposes of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), and the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), and shall constitute Federal financial assistance to an education program or activity for purposes of theEducation Amendments of 1972 (20 U.S.C. 1681 et seq.).
+Any assistance provided under this subchapter shall constitute Federal financial assistance for purposes of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), and the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.), and shall constitute Federal financial assistance to an education program or activity for purposes of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.).
 
 #### (c) Religious discrimination
 
@@ -22,7 +22,7 @@ Any assistance provided under this subchapter shall constitute Federal financial
 
 #### (2) Exception
 
-&emsp;Paragraph (1) shall not apply to the employment, with assistance provided under this subchapter, of any member of the staff, of a project that receives assistance under this subchapter, who was employed with the organization operating the project on the date the grant under this subchapter was awarded.
+&emsp;Paragraph (1) shall not apply to the employment, with assistance provided under this subchapter, of any member of the staff, of aproject that receives assistance under this subchapter, who was employed with the organization operating the project on the date the grant under this subchapter was awarded.
 
 #### (d) Rules and regulations
 

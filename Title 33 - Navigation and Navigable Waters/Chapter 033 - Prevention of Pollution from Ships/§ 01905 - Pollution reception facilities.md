@@ -4,7 +4,7 @@
 
 (1) The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall establish regulations setting criteria for determining the adequacy of a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances and shall establish procedures whereby a person in charge of a port or terminal may request the Secretary to certify that the port's or terminal's facilities for receiving the residues and mixtures containing oil or noxious liquid substance from seagoing ships are adequate.
 
-(2) The Secretary, after consulting with appropriate Federal agencies, shall establish regulations setting criteria for determining the adequacy of reception facilities for garbage at a port or terminal, and stating such additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that such facilities are available, for receiving garbage in accordance with those regulations.
+(2) The Secretary, after consulting with appropriate Federal agencies, shall establish regulations setting criteria for determining the adequacy of reception facilities for garbage at a port or terminal, and stating such additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge ofports and terminals shall provide reception facilities, or ensure that such facilities are available, for receiving garbage in accordance with those regulations.
 
 #### (b) Traffic considerations
 
@@ -94,7 +94,7 @@ Subsec. (c). Pub. L. 100–220, §2103(c), amended subsec. (c) generally. Prior 
 
 > The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by him in the manner prescribed by regulation.”
 
-Subsec. (e). Pub. L. 100–220, §2103(d), designated existing provisions as par. (1), redesignated former pars. (1)and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
+Subsec. (e). Pub. L. 100–220, §2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
 
 #### Effective Date of 1987 Amendment
 

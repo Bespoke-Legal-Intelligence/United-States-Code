@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 46:65m
 
-Section 12110 provides that a vessel is limited to the trade covered by its certificate of documentation; exempts certain barges from documentation; requires that the person in charge be a citizen of the United States; and provides for a penalty for violation.
+Section 12110 provides that a vessel is limited to the trade covered by its certificate of documentation; exempts certain barges from documentation; requiresthat the person in charge be a citizen of the United States; and provides for a penalty for violation.
 
 #### Amendments
 

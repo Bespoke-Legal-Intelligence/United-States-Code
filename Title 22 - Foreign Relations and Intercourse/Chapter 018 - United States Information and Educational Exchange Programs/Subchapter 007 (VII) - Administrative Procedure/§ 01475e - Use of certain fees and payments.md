@@ -2,7 +2,7 @@
 
 (a) <sup>1</sup> Notwithstanding section 3302 of title 31 or any other law or limitation of authority, fees received by or for the use of the United States Information Agency from or in connection with English-teaching and library services, and Agency-produced publications, and not to exceed $100,000 of payments from motion picture and television programs, produced or conducted by or on behalf of the Agency under the authority of this chapter or the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\] is authorized to be credited each fiscal year to the appropriate appropriation of the United States Information Agency to such extent as may be provided in advance in an appropriation Act.
 
-(Jan. 27, 1948, ch. 36, title VIII, §810, as added Aug. 24, 1982, Pub. L. 97–241, title III, §304(e), 96 Stat. 293; amended Dec. 22, 1987, Pub. L. 100–204, title II, §203, Dec. 22, 1987, 101 Stat. 1373; Feb. 16, 1990, Pub. L. 101–246, title II, §208, 104 Stat. 53.)
+(Jan. 27, 1948, ch. 36, title VIII, §810, as added Pub. L. 97–241, title III, §304(e), Aug. 24, 1982, 96 Stat. 293; amended Pub. L. 100–204, title II, §203, Dec. 22, 1987, 101 Stat. 1373; Pub. L. 101–246, title II, §208, Feb. 16, 1990, 104 Stat. 53.)
 
 #### References in Text
 

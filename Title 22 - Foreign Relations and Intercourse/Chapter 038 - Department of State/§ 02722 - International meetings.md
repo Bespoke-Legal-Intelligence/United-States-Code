@@ -8,5 +8,5 @@ If the United States Government hosts an international meeting or conference in 
 
 To the extent provided in an appropriation Act, transfers of funds or other reimbursements for payments under subsection (a) of this section are authorized to be retained and credited to the appropriate appropriation account of the Department of State which is available.
 
-(Aug. 1, 1956, ch. 841, title I, §50, as added Oct. 28, 1991, Pub. L. 102–138, title I, §119, 105 Stat. 658.)
+(Aug. 1, 1956, ch. 841, title I, §50, as added Pub. L. 102–138, title I, §119, Oct. 28, 1991, 105 Stat. 658.)
 

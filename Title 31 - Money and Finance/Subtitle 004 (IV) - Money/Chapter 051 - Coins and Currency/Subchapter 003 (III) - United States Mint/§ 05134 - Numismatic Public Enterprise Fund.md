@@ -46,7 +46,7 @@ Deposit of receipts.—All receipts from numismatic operations and programs shal
 
 &emsp;(3)
 
-Transfer of seigniorage.—The Secretary shall transfer monthly from the Fundto the general fund of the Treasury an amount equal to the total amount on the seigniorage of numismatic items sold since the date of any preceding transfer.
+Transfer of seigniorage.—The Secretary shall transfer monthly from the Fund to the general fund of the Treasury an amount equal to the total amount on the seigniorage of numismatic items sold since the date of any preceding transfer.
 
 &emsp;(4)
 
@@ -280,7 +280,7 @@ Requirements.—Each report submitted under paragraph (1) shall include, with re
 
 #### References in Text
 
-Section 221(b) of the United States Mint Reauthorization and Reform Act of 1992, referred to in subsec. (b), is section 221(b) of Pub. L. 102–390, which is set out below.
+Section 221(b) of the United States Mint Reauthorization and Reform Act of 1992, referred to in subsec. (b),is section 221(b) of Pub. L. 102–390, which is set out below.
 
 The date of enactment of the Treasury, Postal Service, and General Government Appropriations Act, 1997, referred to in subsec. (g)(1), is the date of enactment of section 101(f) of title I of div. A of Pub. L. 104–208, which was approved Sept. 30, 1996.
 
@@ -334,7 +334,7 @@ Numismatic profit.—The term ‘numismatic profit’ means the amount which is 
 
 &emsp;“(B)
 
-Numismatic receivable.—The term ‘numismatic receivable’ means any account receivable fromnumismatic operations and programs, including chargebacks, returned checks, amounts due from special order sales, and amounts due from consignment sales.
+Numismatic receivable.—The term ‘numismatic receivable’ means any account receivable from numismatic operations and programs, including chargebacks, returned checks, amounts due from special order sales, and amounts due from consignment sales.
 
 &emsp;“(C)
 
@@ -342,7 +342,7 @@ Other terms.—The terms ‘Fund’ and ‘numismatic item’ have the meaning g
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5132, 5135, 5136 of this title.
+This section is referred to in sections 5112, 5132, 5135, 5136 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

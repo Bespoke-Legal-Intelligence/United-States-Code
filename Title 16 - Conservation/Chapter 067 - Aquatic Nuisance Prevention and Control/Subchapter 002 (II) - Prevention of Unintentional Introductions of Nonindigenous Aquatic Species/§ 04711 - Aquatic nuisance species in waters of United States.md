@@ -32,7 +32,7 @@
 
 &emsp;The regulations issued under this subsection shall—
 
-&emsp;&emsp;(A) apply to all vessels equipped with ballast water tanks that enter a United Statesport on the Great Lakes after operating on the waters beyond the exclusive economic zone;
+&emsp;&emsp;(A) apply to all vessels equipped with ballast water tanks that enter a United States port on the Great Lakes after operating on the waters beyond the exclusive economic zone;
 
 &emsp;&emsp;(B) require a vessel to—
 
@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after October 26, 1996, and after providing notice and an opportunity for public comment, the Secretary shall issue voluntary guidelines to prevent the introduction and spread of nonindigenous species in waters of the United States by ballast water operations and other operations of vessels equipped with ballast water tanks.
+&emsp;Not later than 1 year after October 26, 1996, and after providing notice and an opportunity for public comment, the Secretary shall issuevoluntary guidelines to prevent the introduction and spread of nonindigenous species in waters of the United States by ballast water operations and other operations of vessels equipped with ballast water tanks.
 
 #### (2) Content of guidelines
 
@@ -200,7 +200,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (3) International regulations
 
-&emsp;The Secretary shall revise regulations promulgated under this subsection to the extentrequired to make such regulations consistent with the treatment of a particular matter in any international agreement, agreed to by the United States, governing management of the transfer of nonindigenous aquatic species by vessel.
+&emsp;The Secretary shall revise regulations promulgated under this subsection to the extent required to make such regulations consistent with the treatment of a particular matter in any international agreement, agreed to by the United States, governing management of the transfer of nonindigenous aquatic species by vessel.
 
 #### (g) Sanctions
 
@@ -234,7 +234,7 @@ In developing the guidelines issued and regulations promulgated under this secti
 
 #### (j) International cooperation
 
-The Secretary, in cooperation with the International Maritime Organization of the United Nations and the Commission on Environmental Cooperation established pursuant to the North American Free Trade Agreement, is encouraged to enter into negotiations with the governments of foreign countries to develop and implement an effective international program for preventing the unintentional introduction and spread of nonindigenous species.
+The Secretary, in cooperation with the International Maritime Organization of the United Nations and the Commission on EnvironmentalCooperation established pursuant to the North American Free Trade Agreement, is encouraged to enter into negotiations with the governments of foreign countries to develop and implement an effective international program for preventing the unintentional introduction and spread of nonindigenous species.
 
 #### (k) Safety exemption
 
@@ -266,7 +266,7 @@ The Secretary shall ensure that vessels registered outside of the United States 
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(C) and (c)(2)(J), is act June 30, 1948, ch.758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(C) and (c)(2)(J), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 This chapter, referred to in subsecs. (e)(1)(A), (g)(4)(B), and (<i>l</i>), was in the original “this Act” or “the Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 

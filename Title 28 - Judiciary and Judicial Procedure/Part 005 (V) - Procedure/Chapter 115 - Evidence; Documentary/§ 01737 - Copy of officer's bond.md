@@ -8,7 +8,7 @@ Any person to whose custody the bond of any officer of the United States has bee
 
 Based on title 28, U.S.C., 1940 ed., §§326, 499, 513, and 514 (R.S. §§783, 795; Feb. 22, 1875, ch. 95, §3, 18 Stat. 333; Mar. 3, 1911, ch. 231, §§220, 291, 36 Stat. 1152, 1167).
 
-Sections 326, 499, 513, and 514 of title 28, U.S.C., 1940 ed., were consolidated. They related to the bonds of particular officers, namely the Clerk of the Supreme Court, the United States marshals, and the clerks ofthe district courts. The revised section eliminates all inconsistent provisions of such sections.
+Sections 326, 499, 513, and 514 of title 28, U.S.C., 1940 ed., were consolidated. They related to the bonds of particular officers, namely the Clerk of the Supreme Court, the United States marshals, and the clerks of the district courts. The revised section eliminates all inconsistent provisions of such sections.
 
 The requirement that certified copies be furnished is new.
 

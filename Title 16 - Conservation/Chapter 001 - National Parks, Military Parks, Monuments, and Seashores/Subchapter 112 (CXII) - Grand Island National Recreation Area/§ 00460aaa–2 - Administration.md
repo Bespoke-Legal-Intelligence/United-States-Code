@@ -8,7 +8,7 @@ Subject to valid existing rights, the Secretary of Agriculture (hereafter in thi
 
 The national recreation area also shall be administered according to the following special management requirements:
 
-&emsp;(1) Subject to such terms and conditions as may be prescribed by the Secretary, including the protection of threatened and endangered species and the protection of other natural, cultural, and scenic values, owners of privately owned land and homes within the national recreation area shall be afforded access across National Forest System lands.
+&emsp;(1) Subject to such terms and conditions as may be prescribed by the Secretary, includingthe protection of threatened and endangered species and the protection of other natural, cultural, and scenic values, owners of privately owned land and homes within the national recreation area shall be afforded access across National Forest System lands.
 
 &emsp;(2) Consistent with section 460aaa–6 of this title, and the purposes of this subchapter, the Secretary shall provide for and maintain traditional public access, including vehicular roads for general recreational activities such as camping, hiking, hunting, fishing, and trapping.
 
@@ -30,7 +30,7 @@ The national recreation area also shall be administered according to the followi
 
 &emsp;&emsp;(C) The Secretary shall collect fees on an annual basis based on the fair market value of the occupancy permitted.
 
-&emsp;&emsp;(D) The expansion, remodeling, or reconstruction of such homes shall be subject to approval of and regulation by the Secretary. No expansion, remodeling, or reconstruction may increase the height of structure or result in an increase of more than 25 percent of the sum of the exterior dimensions of astructure as it existed on May 17, 1990. Any expansion, remodeling, or reconstruction shall be consistent with the criteria developed pursuant to section 460aaa–6(b)(4) of this title and shall be subject to such other terms and conditions as the Secretary may prescribe.
+&emsp;&emsp;(D) The expansion, remodeling, or reconstruction of such homes shall be subject to approval of and regulation by the Secretary. No expansion, remodeling, or reconstruction may increase the height of structure or result in an increase of more than 25 percent of the sum of the exterior dimensions of a structure as it existed on May 17, 1990. Any expansion, remodeling, or reconstruction shall be consistent with the criteria developed pursuant to section 460aaa–6(b)(4) of this title and shall be subject to such other terms and conditions as the Secretary may prescribe.
 
 &emsp;&emsp;(E) Any such home may be purchased at the fair market value of the structure and improvements by the Secretary on a willing seller basis.
 

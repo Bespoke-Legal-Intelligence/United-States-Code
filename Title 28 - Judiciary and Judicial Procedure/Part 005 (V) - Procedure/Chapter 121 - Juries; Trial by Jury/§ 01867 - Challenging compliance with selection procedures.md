@@ -2,7 +2,7 @@
 
 (a) In criminal cases, before the voir dire examination begins, or within seven days after the defendant discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the defendant may move to dismiss the indictment or stay the proceedings against him on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
 
-(b) In criminal cases, before the voir dire examination begins, or within seven days after the Attorney General of the United States discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the Attorney General may move to dismiss the indictment or stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
+(b) In criminal cases, before the voir dire examination begins, or within seven days after the Attorney General of the United States discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever isearlier, the Attorney General may move to dismiss the indictment or stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
 
 (c) In civil cases, before the voir dire examination begins, or within seven days after the party discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, any party may move to stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the petit jury.
 
@@ -12,7 +12,7 @@
 
 (f) The contents of records or papers used by the jury commission or clerk in connection with the jury selection process shall not be disclosed, except pursuant to the district court plan or as may be necessary in the preparation or presentation of a motion under subsection (a), (b), or (c) of this section, until after the master jury wheel has been emptied and refilled pursuant to section 1863(b)(4) of this title and all persons selected to serve as jurors before the master wheel was emptied have completed such service. The parties in a case shall be allowed to inspect, reproduce, and copy such records or papers at all reasonable times during the preparation and pendency of such a motion. Any person who discloses the contents of any record or paper in violation of this subsection may be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 646, 62 Stat. 953; Sept. 2, 1957, Pub. L. 85–259, 71 Stat. 583; Mar. 27, 1968, Pub. L. 90–274, §101, 82 Stat. 59.)
+(June 25, 1948, ch. 646, 62 Stat. 953; Pub. L. 85–259, Sept. 2, 1957, 71 Stat. 583; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 59.)
 
 #### Historical and Revision Notes
 
@@ -34,9 +34,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1968—Pub. L. 90–274 substituted provisions by which a defendant may assert noncompliance with the selection procedures of the jury for provisions covering the issuance of summonses for jurors and service thereof upon jurors.
+<b>1968</b>—Pub. L. 90–274 substituted provisions by which a defendant may assert noncompliance with the selection procedures of the jury for provisions covering the issuance of summonses for jurors and service thereof upon jurors.
 
-1957—Pub. L. 85–259 inserted “or certified” in second and third sentences.
+<b>1957</b>—Pub. L. 85–259 inserted “or certified” in second and third sentences.
 
 #### Effective Date of 1968 Amendment
 

@@ -8,7 +8,7 @@ utilize or employ the services, personnel, equipment, or facilities of any other
 
 #### (b) Employment of personnel
 
-appoint officers and employees, including attorneys, for the Agency in accordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates,except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities, appoint and fix the compensation of employees possessing specialized technical expertise without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, if the Director ensures that—
+appoint officers and employees, including attorneys, for the Agency in accordance with the provisions of title 5 governing appointment in the competitive service, and fix their compensation in accordance with chapter 51 and with subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities, appoint and fix the compensation of employees possessing specialized technical expertise without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, if the Director ensures that—
 
 &emsp;(1) any employee who is appointed under this exception is not paid at a rate—
 
@@ -36,7 +36,7 @@ establish advisory boards to advise with and make recommendations to the Directo
 
 #### (g) Travel and subsistence expenses from private sources; reimbursement
 
-permit, under such terms and conditions as he may prescribe, any officer or employee of the Agency, in connection with the attendance by such officer or employee at meetings or in performing advisory services concerned with the functions or activities of the Agency, to accept payment, in cash or in kind, from any private agency or organization, or from any individual affiliated with such agency or organization, for travel and subsistence expenses, such payment to be retained by such officer or employee to cover the cost thereof or to be deposited to the credit of the appropriation from which the cost thereof is paid;
+permit, under such terms and conditions as he may prescribe, any officer or employee of the Agency, in connection with the attendance by such officer or employee at meetings or in performing advisory services concerned with the functions or activities of the Agency, to accept payment, in cash or in kind, from any private agency or organization, or from any individualaffiliated with such agency or organization, for travel and subsistence expenses, such payment to be retained by such officer or employee to cover the cost thereof or to be deposited to the credit of the appropriation from which the cost thereof is paid;
 
 #### (h) Oaths and sworn statements
 

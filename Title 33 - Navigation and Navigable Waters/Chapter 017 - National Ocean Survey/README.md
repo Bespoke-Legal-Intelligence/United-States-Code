@@ -26,7 +26,7 @@
 | (a) | Authorization of payment. |
 | (b) | Amount of pay; five or more years; three to five years. |
 | (c) | Determination of officer's years of service. |
-| (d) | Previously received pay excluded from determination of years of creditable service; limitation on total payment. |
+| (d) | Previously received pay excluded from determination of years of creditable service. |
 | (e) | Deduction from retired pay of amount of prior payments; deduction from disability compensation of amount of separation pay; exception. |
 | [853i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853i%20-%20Appointments%20and%20promotions%20made%20by%20President%3B%20suspension%20during%20war%20or%20emergency.md) | Appointments and promotions made by President; suspension during war or emergency. |
 | [853j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853j%20-%20Examinations%20for%20promotion.md) | Examinations for promotion. |

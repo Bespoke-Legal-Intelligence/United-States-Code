@@ -26,7 +26,7 @@ The Secretary shall from time to time certify to the Secretary of the Treasury f
 
 (B) There are authorized to be appropriated such additional sums as may be necessary to carry out the provisions of this paragraph for the transition to program year funding.
 
-(June 6, 1933, ch. 49, §5, 48 Stat. 114; May 10, 1935, ch. 102, 49 Stat. 216; June 29, 1938, ch. 816, 52 Stat. 1244; Sept. 8, 1950, ch. 933, §2, 64 Stat. 822; Aug. 1, 1956, ch. 852, §17(b), 70 Stat. 910; Sept. 13, 1960, Pub. L. 86–778, title V, §543(c), 74 Stat. 987; Oct. 20, 1976, Pub. L. 94–566, title I, §116(c), 90 Stat. 2672; Aug. 13, 1981, Pub. L. 97–35, title VII, §702, 95 Stat. 521; Oct. 13, 1982, Pub. L. 97–300, title VI, §601(b), formerly title V, §501(b), 96 Stat. 1392; renumbered title VI, §601(b), Nov. 7, 1988, Pub. L. 100–628, title VII, §712(a)(1), (2), 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §5, 48 Stat. 114; May 10, 1935, ch. 102, 49 Stat. 216; June 29, 1938, ch. 816, 52 Stat. 1244; Sept. 8, 1950, ch. 933, §2, 64 Stat. 822; Aug. 1, 1956, ch. 852, §17(b), 70 Stat. 910; Pub. L. 86–778, title V, §543(c), Sept. 13, 1960, 74 Stat. 987; Pub. L. 94–566, title I, §116(c), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 97–35, title VII, §702, Aug. 13, 1981, 95 Stat. 521; Pub. L. 97–300, title VI, §601(b), formerly title V, §501(b), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(b), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
 #### References in Text
 

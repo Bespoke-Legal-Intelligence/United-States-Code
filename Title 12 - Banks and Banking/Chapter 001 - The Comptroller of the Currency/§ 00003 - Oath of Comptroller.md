@@ -2,7 +2,7 @@
 
 The Comptroller of the Currency shall, within fifteen days from the time of notice of his appointment, take and subscribe the oath of office.
 
-(R.S. §326; Sept. 9, 1959, Pub. L. 86–251, §1(d), 73 Stat. 488; June 6, 1972, Pub. L. 92–310, title II, §223(a), 86 Stat. 206.)
+(R.S. §326; Pub. L. 86–251, §1(d), Sept. 9, 1959, 73 Stat. 488; Pub. L. 92–310, title II, §223(a), June 6, 1972, 86 Stat. 206.)
 
 #### Codification
 

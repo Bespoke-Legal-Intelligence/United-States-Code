@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, act Mar. 3, 1925, ch. 462, 43 Stat. 1144, which abolished office of surveyor general and transferred itsfunctions to Field Surveying Service under Supervisor of Surveys, was superseded by Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100. See note set out under section 1 of this title.
+Section, act Mar. 3, 1925, ch. 462, 43 Stat. 1144, which abolished office of surveyor general and transferred its functions to Field Surveying Service under Supervisor of Surveys, was superseded by Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100. See note set out under section 1 of this title.
 
 The office of surveyor general abolished in certain States by acts July 31, 1876, ch. 246, 19 Stat. 121, and Oct. 2, 1888, ch. 1069, 25 Stat. 525, and discontinued in others pursuant to R.S. §2218.
 

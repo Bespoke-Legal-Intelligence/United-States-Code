@@ -2,15 +2,15 @@
 
 #### (a) Content of concurrent resolution on the budget
 
-On or before April 15 of each year, the Congress shall complete action on a concurrent resolution on the budget for the fiscal year beginning on October 1 of such year. The concurrent resolution shall set forth appropriate levels for the fiscal year beginning on October 1 of such year, and planning levels for each of the two ensuing fiscal years, for the following—
+On or before April 15 of each year, the Congress shall complete action on a concurrent resolution on the budget for the fiscal year beginning on October 1 of such year. The concurrent resolution shall set forth appropriate levels for the fiscal year beginning on October 1 of such year and for at least each of the 4 ensuing fiscal years for the following—
 
-&emsp;(1) totals of new budget authority, budget outlays, direct loan obligations, and primary loan guarantee commitments;
+&emsp;(1) totals of new budget authority and outlays;
 
 &emsp;(2) total Federal revenues and the amount, if any, by which the aggregate level of Federal revenues should be increased or decreased by bills and resolutions to be reported by the appropriate committees;
 
 &emsp;(3) the surplus or deficit in the budget;
 
-&emsp;(4) new budget authority, budget outlays, direct loan obligations, and primary loan guarantee commitments for each major functional category, based on allocations of the total levels set forth pursuant to paragraph (1);
+&emsp;(4) new budget authority and outlays for each major functional category, based on allocations of the total levels set forth pursuant to paragraph (1);
 
 &emsp;(5) the public debt;
 
@@ -36,17 +36,11 @@ The concurrent resolution on the budget may—
 
 &emsp;(6) include a heading entitled “Display of Federal Retirement Trust Fund Balances” in which the concurrent resolution shall set forth the balances of the Federal retirement trust funds;
 
-&emsp;(7) set forth pay-as-you-go procedures for the Senate whereby—
+&emsp;(7) set forth procedures in the Senate whereby committee allocations, aggregates, and other levels can be revised for legislation if that legislation would not increase the deficit, or would not increase the deficit when taken with other legislation enacted after the adoption of the resolution, for the first fiscal year or the total period of fiscal years covered by the resolution;
 
-&emsp;&emsp;(A) budget authority and outlays may be allocated to a committee for legislation that increases funding for entitlement and mandatory spending programs within its jurisdiction if that committee or the committee of conference on such legislation reports such legislation, if, to the extent that the costs of such legislation are not included in the concurrent resolution on the budget, the enactment of such legislation will not increase the deficit (by virtue of either deficit reduction in the bill or previously passed deficit reduction) in the resolution for the first fiscal year covered by the concurrent resolution on the budget, and will not increase the total deficit for the period of fiscal years covered by the concurrent resolution on the budget;
+&emsp;(8) set forth procedures to effectuate pay-as-you-go in the House of Representatives; and
 
-&emsp;&emsp;(B) upon the reporting of legislation pursuant to subparagraph (A), and again upon the submission of a conference report on such legislation (if a conference report is submitted), the chairman of the Committee on the Budget of the Senate may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this paragraph;
-
-&emsp;&emsp;(C) such revised allocations, functional levels, and aggregates shall be considered for the purposes of this Act as allocations, functional levels, and aggregates contained in the concurrent resolution on the budget; and
-
-&emsp;&emsp;(D) the appropriate committee shall report appropriately revised allocations pursuant to section 633(b) of this title to carry out this paragraph; and
-
-&emsp;(8) set forth procedures to effectuate pay-as-you-go in the House of Representatives.
+&emsp;(9) set forth direct loan obligation and primary loan guarantee commitment levels.
 
 #### (c) Consideration of procedures or matters which have effect of changing any rule of House
 
@@ -54,29 +48,43 @@ If the Committee on the Budget of the House of Representatives reports any concu
 
 #### (d) Views and estimates of other committees
 
-Within 6 weeks after the President submits a budget under section 1105(a) of title 31, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within its jurisdiction or functions. Any Committee <sup>3</sup> of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
+Within 6 weeks after the President submits a budget under section 1105(a) of title 31, or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) of this section which relate to matters within its jurisdiction or functions. Any Committee <sup>3</sup> of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
 
 #### (e) Hearings and report
 
-In developing the concurrent resolution on the budget referred to in subsection (a) of this section for each fiscal year, the Committee on the Budget of each House shall hold hearings and shall receive testimony from Members of Congress and such appropriate representatives of Federal departments and agencies, the general public, and national organizations as the committee deems desirable. Each of the recommendations as to short-term and medium-term goals set forth in the report submitted by the members of the Joint Economic Committee under subsection (d) of this section may be considered by the Committee on the Budget of each House as part of its consideration of such concurrent resolution, and its report may reflect its views thereon, including its views on how the estimates of revenues and levels of budget authority and outlays set forth in such concurrent resolution are designed to achieve any goals it is recommending. The report accompanying such concurrent resolution shall include, but not be limited to—
+#### (1) In general
 
-&emsp;(1) a comparison of revenues estimated by the committee with those estimated in the budget submitted by the President;
+&emsp;In developing the concurrent resolution on the budget referred to in subsection (a) of this section for each fiscal year, the Committee on the Budget of each House shall hold hearings and shall receive testimony from Members of Congress and such appropriate representatives of Federal departments and agencies, the general public, and national organizations as the committee deems desirable. Each of the recommendations as to short-term and medium-term goals set forth in the report submitted by the members of the Joint Economic Committee under subsection (d) of this section may be considered by the Committee on the Budget of each House as part of its consideration of such concurrent resolution, and its report may reflect its views thereon, including its views on how the estimates of revenues and levels of budget authority and outlays set forth in such concurrent resolution are designed to achieve any goals it is recommending.
 
-&emsp;(2) a comparison of the appropriate levels of total budget outlays and total new budget authority, total direct loan obligations, total primary loan guarantee commitments, as set forth in such concurrent resolution, with those estimated or requested in the budget submitted by the President;
+#### (2) Required contents of report
 
-&emsp;(3) with respect to each major functional category, an estimate of budget outlays and an appropriate level of new budget authority for all proposed programs and for all existing programs (including renewals thereof), with the estimate and level for existing programs being divided between permanent authority and funds provided in appropriation Acts, and with each such division being subdivided between controllable amounts and all other amounts;
+&emsp;The report accompanying the resolution shall include—
 
-&emsp;(4) an allocation of the level of Federal revenues recommended in the concurrent resolution among the major sources of such revenues;
+&emsp;&emsp;(A) a comparison of the levels of total new budget authority, total outlays, total revenues, and the surplus or deficit for each fiscal year set forth in the resolution with those requested in the budget submitted by the President;
 
-&emsp;(5) the economic assumptions and objectives which underlie each of the matters set forth in such concurrent resolution and any alternative economic assumptions and objectives which the committee considered;
+&emsp;&emsp;(B) with respect to each major functional category, an estimate of total new budget authority and total outlays, with the estimates divided between discretionary and mandatory amounts;
 
-&emsp;(6) projections (not limited to the following), for the period of five fiscal years beginning with such fiscal year, of the estimated levels of total budget outlays and total new budget authority, the estimated revenues to be received, and the estimated surplus or deficit, if any, for each fiscal year in such period, and the estimated levels of tax expenditures (the tax expenditures budget) by major functional categories;
+&emsp;&emsp;(C) the economic assumptions that underlie each of the matters set forth in the resolution and any alternative economic assumptions and objectives the committee considered;
 
-&emsp;(7) a statement of any significant changes in the proposed levels of Federal assistance to State and local governments;
+&emsp;&emsp;(D) information, data, and comparisons indicating the manner in which, and the basis on which, the committee determined each of the matters set forth in the resolution;
 
-&emsp;(8) information, data, and comparisons indicating the manner in which, and the basis on which, the committee determined each of the matters set forth in the concurrent resolution; and
+&emsp;&emsp;(E) the estimated levels of tax expenditures (the tax expenditures budget) by major items and functional categories for the President's budget and in the resolution; and
 
-&emsp;(9) allocations described in section 633(a) of this title.
+&emsp;&emsp;(F) allocations described in section 633(a) of this title.
+
+#### (3) Additional contents of report
+
+&emsp;The report accompanying the resolution may include—
+
+&emsp;&emsp;(A) a statement of any significant changes in the proposed levels of Federal assistance to State and local governments;
+
+&emsp;&emsp;(B) an allocation of the level of Federal revenues recommended in the resolution among the major sources of such revenues;
+
+&emsp;&emsp;(C) information, data, and comparisons on the share of total Federal budget outlays and of gross domestic product devoted to investment in the budget submitted by the President and in the resolution;
+
+&emsp;&emsp;(D) the assumed levels of budget authority and outlays for public buildings, with a division between amounts for construction and repair and for rental payments; and
+
+&emsp;&emsp;(E) other matters, relating to the budget and to fiscal policy, that the committee deems appropriate.
 
 #### (f) Achievement of goals for reducing unemployment
 
@@ -98,11 +106,11 @@ In developing the concurrent resolution on the budget referred to in subsection 
 
 The Committee on the Budget of the House of Representatives shall consult with the committees of its House having legislative jurisdiction during the preparation, consideration, and enforcement of the concurrent resolution on the budget with respect to all matters which relate to the jurisdiction or functions of such committees.
 
-#### (i) Social Security revenues; excess over outlays; prohibition on decrease
+#### (i) Social security point of order
 
-It shall not be in order in the Senate to consider any concurrent resolution on the budget as reported to the Senate that would decrease the excess of social security revenues over social security outlays in any of the fiscal years covered by the concurrent resolution. No change in chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
+It shall not be in order in the Senate to consider any concurrent resolution on the budget (or amendment, motion, or conference report on the resolution) that would decrease the excess of social security revenues over social security outlays in any of the fiscal years covered by the concurrent resolution. No change in chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
 
-(Pub. L. 93–344, title III, §301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 100–119, title I, §106(d), title II, §208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, §5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, §102(2), Mar. 22, 1995, 109 Stat. 62.)
+(Pub. L. 93–344, title III, §301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 100–119, title I, §106(d), title II, §208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, §5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, §102(2), Mar. 22, 1995, 109 Stat. 62; Pub. L. 105–33, title X, §10105(a)–(f)(1), Aug. 5, 1997, 111 Stat. 679, 680.)
 
 #### References in Text
 
@@ -110,7 +118,7 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a) and (i), is classified generally to Title 26, Internal Revenue Code.
 
-This Act, referred to in subsec. (b)(4), (7)(C), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 The Employment Act of 1946, referred to in subsec. (d), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of Title 15 and Tables.
 
@@ -121,6 +129,20 @@ The Congressional Budget Act of 1974, referred to in subsec. (g)(3), is titles I
 Section was formerly classified to section 1322 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–33, §10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
+
+Subsec. (a)(1), (4). Pub. L. 105–33, §10105(b), substituted “and outlays” for “, budget outlays, direct loan obligations, and primary loan guarantee commitments”.
+
+Subsec. (b)(7). Pub. L. 105–33, §10105(c)(1), added par. (7) and struck out former par. (7) which related to setting forth pay-as-you-go procedures for the Senate.
+
+Subsec. (b)(9). Pub. L. 105–33, §10105(c)(2), (3), added par. (9).
+
+Subsec. (d). Pub. L. 105–33, §10105(d), in first sentence, inserted “or at such time as may be requested by the Committee on the Budget,” after “title 31,”.
+
+Subsec. (e). Pub. L. 105–33, §10105(e), designated existing provisions as par. (1), inserted par. heading, added pars. (2) and (3), and struck out former last sentence consisting of pars. (1) to (9) which contained requirements for contents of report to accompany the concurrent resolution on the budget.
+
+Subsec. (i). Pub. L. 105–33, §10105(f)(1), inserted heading and substituted “(or amendment, motion, or conference report on the resolution)” for “as reported to the Senate”.
 
 1995—Subsec. (d). Pub. L. 104–4 inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
 
@@ -196,7 +218,7 @@ Section 13302 of Pub. L. 101–508 provided that:
 
 In General.—It shall not be in order in the House of Representatives to consider any bill or joint resolution, as reported, or any amendment thereto or conference report thereon, if, upon enactment—
 
-&emsp;“(1)(A) such legislation under consideration would provide for a net increase in OASDI benefits of at least 0.02 percent of the present value of future taxable payroll for the 75-year period utilized in themost recent annual report of the Board of Trustees provided pursuant to section 201(c)(2) of the Social Security Act \[42 U.S.C. 401(c)(2)\], and (B) such legislation under consideration does not provide at least a net increase, for such 75-year period, in OASDI taxes of the amount by which the net increase in such benefits exceeds 0.02 percent of the present value of future taxable payroll for such 75-year period,
+&emsp;“(1)(A) such legislation under consideration would provide for a net increase in OASDI benefits of at least 0.02 percent of the present value of future taxable payroll for the 75-year period utilized in the most recent annual report of the Board of Trustees provided pursuant to section 201(c)(2) of the Social Security Act \[42 U.S.C. 401(c)(2)\], and (B) such legislation under consideration does not provide at least a net increase, for such 75-year period, in OASDI taxes of the amount by which the net increase in such benefits exceeds 0.02 percent of the present value of future taxable payroll for such 75-year period,
 
 &emsp;“(2)(A) such legislation under consideration would provide for a net increase in OASDI benefits (for the 5-year estimating period for such legislation under consideration), (B) such net increase, together with the net increases in OASDI benefits resulting from previous legislation enacted during that fiscal year or any of the previous 4 fiscal years (as estimated at the time of enactment) which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, exceeds $250,000,000, and (C) such legislation under consideration does not provide at least a net increase, for the 5-year estimating period for such legislation under consideration, in OASDI taxes which, together with net increases in OASDI taxes resulting from such previous legislation which are attributable to those portions of the 5-year estimating periods for such previous legislation that fall within the 5-year estimating period for such legislation under consideration, equals the amount by which the net increase derived under subparagraph (B) exceeds $250,000,000;
 
@@ -228,21 +250,13 @@ Definitions.—For purposes of this subsection:
 
 &emsp;“(6) No provision of any bill or resolution, or any amendment thereto or conference report thereon, involving a change in chapter 1 of the Internal Revenue Code of 1986 shall be treated as affecting the amount of OASDI taxes referred to in paragraph (2)(B) unless such provision changes the income tax treatment of OASDI benefits.”
 
-#### Senate Waiver of Maximum Deficit Amount Provision
-
-Waiver or suspension of subsec. (i) of this section only by affirmative vote of three-fifths of the Senate, except with regard to joint resolutions reported or discharged pursuant to section 904(a) of this title, see section 271(b) of Pub. L. 99–177, set out as a Waivers and Suspensions in the Senate note under section 901 of this title.
-
-#### Appeals of Rulings
-
-Appeal of ruling of the Chair on point of order raised under subsec. (i) of this section sustained only by affirmative vote of three-fifths of the Senate, see section 271(c) of Pub. L. 99–177, set out as a note under section 901 of this title.
-
 #### Balanced Federal Budgets; Congressional Budget Committee Reports by April 15, 1979, 1980, and 1981, of Balanced Fiscal Year Budgets for 1981 and 1982
 
 Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 #### Application of Congressional Budget Process to Fiscal Year Beginning July 1, 1975
 
-Section 906 of Pub. L. 93–344 provided that: “If the Committees on the Budget of the House of Representatives and the Senate both agree that it is feasible to report and act on a concurrent resolution on the budget referred to in section 301(a) \[subsec. (a) of this section\], or to apply any provision of title III \[this subchapter\] or section 401 or 402 \[sections 651 or 652 of this title\], for the fiscal year beginning on July 1, 1975, and submit reports of such agreement to their respective Houses, then to the extent and in the manner specified in such reports, the provisions so specified and section 202(f) \[section 602(f) of this title\] shall apply with respect to such fiscal year. If any provision so specified contains a date, such reports shall also specify a substitute date.”
+Section 906 of Pub. L. 93–344 provided for application of provisions of this subchapter and sections 602(f), 651, and 652 of this title with respect to the fiscal year beginning July 1, 1975, to the extent agreed to by the Committees on the Budget of the House of Representatives and the Senate, prior to repeal by Pub. L. 105–33, title X, §10120(a), Aug. 5, 1997, 111 Stat. 696.
 
 #### Cross References
 
@@ -250,7 +264,7 @@ Budget to include separate statement on each of items referred to in subsec. (a)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 622, 633, 634, 635, 636, 641, 655, 665a, 665e, 907d of this title; title 31 section 1105.
+This section is referred to in sections 622, 633, 635, 636, 641, 655, 907d of this title; title 31 section 1105.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

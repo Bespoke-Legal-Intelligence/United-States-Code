@@ -22,3 +22,7 @@ Amendment by Pub. L. 91–96 effective first day of second calendar month which 
 
 For limitation on increases in dependency and indemnity compensation payable under this chapter, see section 8005 of Pub. L. 101–508, set out as a note under section 1101 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 8 sections 1612, 1613, 1622.
+

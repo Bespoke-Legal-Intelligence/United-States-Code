@@ -17,6 +17,7 @@
 | [1738\.](%C2%A7%2001738%20-%20State%20and%20Territorial%20statutes%20and%20judicial%20proceedings%3B%20full%20faith%20and%20credit.md) | State and Territorial statutes and judicial proceedings; full faith and credit. |
 | [1738A.](%C2%A7%2001738A%20-%20Full%20faith%20and%20credit%20given%20to%20child%20custody%20determinations.md) | Full faith and credit given to child custody determinations. |
 | [1738B.](%C2%A7%2001738B%20-%20Full%20faith%20and%20credit%20for%20child%20support%20orders.md) | Full faith and credit for child support orders. |
+| [1738C.](%C2%A7%2001738C%20-%20Certain%20acts%2C%20records%2C%20and%20proceedings%20and%20the%20effect%20thereof.md) | Certain acts, records, and proceedings and the effect thereof. |
 | [1739\.](%C2%A7%2001739%20-%20State%20and%20Territorial%20nonjudicial%20records%3B%20full%20faith%20and%20credit.md) | State and Territorial nonjudicial records; full faith and credit. |
 | [1740\.](%C2%A7%2001740%20-%20Copies%20of%20consular%20papers.md) | Copies of consular papers. |
 | [1741\.](%C2%A7%2001741%20-%20Foreign%20official%20documents.md) | Foreign official documents. |
@@ -30,17 +31,19 @@
 
 #### Amendments
 
-1994—Pub. L. 103–383, §3(b), Oct. 20, 1994, 108 Stat. 4066, added item 1738B.
+<b>1996</b>—Pub. L. 104–199, §2(b), Sept. 21, 1996, 110 Stat. 2419, added item 1738C.
 
-1980—Pub. L. 96–611, §8(b), Dec. 28, 1980, 94 Stat. 3571, added item 1738A.
+<b>1994</b>—Pub. L. 103–383, §3(b), Oct. 20, 1994, 108 Stat. 4066, added item 1738B.
 
-1976—Pub. L. 94–550, §1(b), Oct. 18, 1976, 90 Stat. 2534, added item 1746.
+<b>1980</b>—Pub. L. 96–611, §8(b), Dec. 28, 1980, 94 Stat. 3571, added item 1738A.
 
-1964—Pub. L. 88–619, §§5(b), 6(b), 7(b), Oct. 3, 1964, 78 Stat. 996, substituted “official documents” for “documents generally; copies” in item 1741, inserted “\[Repealed\]” in item 1742, and substituted “documents” for “specifications and drawings” in item 1745.
+<b>1976</b>—Pub. L. 94–550, §1(b), Oct. 18, 1976, 90 Stat. 2534, added item 1746.
 
-1951—Act Aug. 28, 1951, ch. 351, §2, 65 Stat. 206, inserted “; photographic copies” in item 1732.
+<b>1964</b>—Pub. L. 88–619, §§5(b), 6(b), 7(b), Oct. 3, 1964, 78 Stat. 996, substituted “official documents” for “documents generally; copies” in item 1741, inserted “\[Repealed\]” in item 1742, and substituted “documents” for “specifications and drawings” in item 1745.
 
-1949—Act May 24, 1949, ch. 139, §92(a), 63 Stat. 103, struck out item 1745 “Printed copies of patient specifications and drawings” and renumbered item 1746 as 1745.
+<b>1951</b>—Act Aug. 28, 1951, ch. 351, §2, 65 Stat. 206, inserted “; photographic copies” in item 1732.
+
+<b>1949</b>—Act May 24, 1949, ch. 139, §92(a), 63 Stat. 103, struck out item 1745 “Printed copies of patient specifications and drawings” and renumbered item 1746 as 1745.
 
 #### Federal Rules of Civil Procedure
 
@@ -75,6 +78,7 @@ Criminal cases—
 - [&sect; 01738 - State and Territorial statutes and judicial proceedings; full faith and credit](%C2%A7%2001738%20-%20State%20and%20Territorial%20statutes%20and%20judicial%20proceedings%3B%20full%20faith%20and%20credit.md)
 - [&sect; 01738A - Full faith and credit given to child custody determinations](%C2%A7%2001738A%20-%20Full%20faith%20and%20credit%20given%20to%20child%20custody%20determinations.md)
 - [&sect; 01738B - Full faith and credit for child support orders](%C2%A7%2001738B%20-%20Full%20faith%20and%20credit%20for%20child%20support%20orders.md)
+- [&sect; 01738C - Certain acts, records, and proceedings and the effect thereof](%C2%A7%2001738C%20-%20Certain%20acts%2C%20records%2C%20and%20proceedings%20and%20the%20effect%20thereof.md)
 - [&sect; 01739 - State and Territorial nonjudicial records; full faith and credit](%C2%A7%2001739%20-%20State%20and%20Territorial%20nonjudicial%20records%3B%20full%20faith%20and%20credit.md)
 - [&sect; 01740 - Copies of consular papers](%C2%A7%2001740%20-%20Copies%20of%20consular%20papers.md)
 - [&sect; 01741 - Foreign official documents](%C2%A7%2001741%20-%20Foreign%20official%20documents.md)

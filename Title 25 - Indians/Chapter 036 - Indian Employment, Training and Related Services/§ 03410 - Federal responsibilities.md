@@ -2,7 +2,7 @@
 
 #### (a) Responsibilities of Department of the Interior
 
-Within 180 days following October 23, 1992, the Secretary of the Interior, the Secretary of Labor, the Secretary of Health and Human Services and the Secretary of Education shall enter into an interdepartmental memorandum of agreement providing for the implementation of the demonstration projects authorized under this chapter. The lead agency for a demonstration program under this chapter shall be the Bureau of Indian Affairs, Department of the Interior. The responsibilities of the lead agency shall include—
+Within 180 days following October 23, 1992, the Secretary of the Interior, the Secretary of Labor, the Secretary of Health and Human Services and the Secretary of Education shall enter into an interdepartmental memorandum of agreement providing for the implementation of the demonstration projects authorized underthis chapter. The lead agency for a demonstration program under this chapter shall be the Bureau of Indian Affairs, Department of the Interior. The responsibilities of the lead agency shall include—
 
 &emsp;(1) the use of a single report format related to the plan for the individual project which shall be used by a tribal government to report on the activities undertaken under the project;
 

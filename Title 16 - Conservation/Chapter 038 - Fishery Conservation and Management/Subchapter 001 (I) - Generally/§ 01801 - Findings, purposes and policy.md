@@ -50,7 +50,7 @@ It is further declared to be the policy of the Congress in this chapter—
 
 &emsp;(2) to authorize no impediment to, or interference with, recognized legitimate uses of the high seas, except as necessary for the conservation and management of fishery resources, as provided for in this chapter;
 
-&emsp;(3) to assure that the national fishery conservation and management program utilizes, and is based upon, the best scientific information available; involves, and is responsive to the needs of, interested and affected States and citizens; considers efficiency; draws upon Federal, State, and academic capabilities in carrying out research, administration, management, and enforcement; considers the effects of fishing on immature fish and encourages development of practical measures that minimize bycatch and avoid unnecessary waste of fish; and is workable and effective;
+&emsp;(3) to assure that the national fishery conservation and management program utilizes,and is based upon, the best scientific information available; involves, and is responsive to the needs of, interested and affected States and citizens; considers efficiency; draws upon Federal, State, and academic capabilities in carrying out research, administration, management, and enforcement; considers the effects of fishing on immature fish and encourages development of practical measures that minimize bycatch and avoid unnecessary waste of fish; and is workable and effective;
 
 &emsp;(4) to permit foreign fishing consistent with the provisions of this chapter;
 
@@ -116,7 +116,7 @@ Subsec. (b)(6). Pub. L. 95–354, §2(b), inserted requirement for development b
 
 #### References to Magnuson Fishery Conservation and Management Act Redesignated as References to Magnuson-Stevens Fishery Conservation and Management Act
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Effective 15 days after the enactment of the Sustainable Fisheries Act \[Pub. L. 104–297, enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, providedthat: “Effective 15 days after the enactment of the Sustainable Fisheries Act \[Pub. L. 104–297, enacted Oct. 11, 1996\], all references to the Magnuson Fishery Conservation and Management Act \[see Short Title note below\] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
 
 #### References to Fishery Conservation and Management Act of 1976 Redesignated as References to Magnuson Fishery Conservation and Management Act
 

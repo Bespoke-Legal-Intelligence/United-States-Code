@@ -86,7 +86,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
 
-&emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitationand (ii) acquisition (I) of the property, where applicable, by a resident council or other entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
+&emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the property, where applicable, by a resident council or other entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 
 &emsp;&emsp;(H) if the applicant is not a public housing agency, the proposed sales price, if any, the basis for such price determination, and terms to the applicant;
 
@@ -144,7 +144,7 @@ The Civil Rights Act of 1964, referred to in subsec. (d)(2)(M), is Pub. L. 88–
 
 The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(M), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (f)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks andBanking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (f)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title III of the Act enacted subchapter III (§12851 et seq.) of chapter 130 of this title and sections 1735f–17 and 1735f–18 of Title 12, Banks and Banking, amended sections 1703, 1708, 1709, 1715d, 1715z–20, 1721, and 1735f–9 of Title 12, and enacted provisions set out as notes under sections 1703, 1709, 1713, and 1735f–18 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 #### Amendments
 

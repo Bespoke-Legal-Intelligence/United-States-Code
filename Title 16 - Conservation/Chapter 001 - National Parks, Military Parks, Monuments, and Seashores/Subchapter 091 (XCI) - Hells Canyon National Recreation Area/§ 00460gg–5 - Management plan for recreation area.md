@@ -10,7 +10,7 @@ In the development of such plan, the Secretary shall consider the historic, arch
 
 #### (c) Scenic roads and other means of transit
 
-The Secretary shall, as a part of his comprehensive planning process, conduct a detailed study of the need for, and alternative routes of, scenic roads and other means of transit to and within the recreation area. In conducting such study the Secretary shall consider the alternative for upgrading existing roads and shall, in particular, study the need for and alternativeroutes of roads or other means of transit providing access to scenic views of and from the Western rim of Hells Canyon.
+The Secretary shall, as a part of his comprehensive planning process, conduct a detailed study of the need for, and alternative routes of, scenic roads and other means of transit to and within the recreation area. In conducting such study the Secretary shall consider the alternative for upgrading existing roads and shall, in particular, study the need for and alternative routes of roads or other means of transit providing access to scenic views of and from the Western rim of Hells Canyon.
 
 #### (d) Wilderness areas; review by Secretary; recommendations of President to Congress; notice of hearings and meetings
 
@@ -18,7 +18,7 @@ The Secretary shall review, as to their suitability or nonsuitability for preser
 
 #### (e) Public participation in reviews and preparation of plan; cooperation of other Federal agencies
 
-In conducting the reviews and preparing the comprehensive management plan required by this section, the Secretary shall provide for full public participation and shall consider the views of all interested agencies, organizations, and individuals including but not limited to, the Nez Perce Tribe of Indians, and the States of Idaho, Oregon, and Washington. The Secretaries or Directors of all Federal departments, agencies, and commissions having a relevant expertise are hereby authorized and directed to cooperate with the Secretary in his review and to make such studies as the Secretary may request on a cost reimbursable basis.
+In conducting the reviews and preparing the comprehensive management plan required by this section, the Secretary shall provide for full public participation and shall consider the views of all interested agencies, organizations, and individuals including but not limited to, the Nez Perce Tribe of Indians, and the States of Idaho,Oregon, and Washington. The Secretaries or Directors of all Federal departments, agencies, and commissions having a relevant expertise are hereby authorized and directed to cooperate with the Secretary in his review and to make such studies as the Secretary may request on a cost reimbursable basis.
 
 #### (f) Continuation of ongoing activities
 

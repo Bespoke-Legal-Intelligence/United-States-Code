@@ -2,7 +2,7 @@
 
 On and after August 24, 1912 teachers in schools operated by the Bureau of Indian Affairs may be allowed, in addition to annual leave, educational leave not to exceed thirty workdays per calendar year, or sixty workdays in every alternate year, for attendance at educational gatherings, conventions, institutions, or training schools, if the interest of the Government requires, under such regulations as the Secretary of the Interior may prescribe; and no additional salary or expense on account of such leave of absence shall be incurred.
 
-(Aug. 24, 1912, ch. 388, §1, 37 Stat. 519; Aug. 24, 1922, ch. 286, 42 Stat. 829; May 8, 1928, ch. 510, 45 Stat. 493; July 10, 1957, Pub. L. 85–89, 71 Stat. 282.)
+(Aug. 24, 1912, ch. 388, §1, 37 Stat. 519; Aug. 24, 1922, ch. 286, 42 Stat. 829; May 8, 1928, ch. 510, 45 Stat. 493; Pub. L. 85–89, July 10, 1957, 71 Stat. 282.)
 
 #### Amendments
 

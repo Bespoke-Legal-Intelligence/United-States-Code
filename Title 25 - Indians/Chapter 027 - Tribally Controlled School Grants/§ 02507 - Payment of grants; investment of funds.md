@@ -50,3 +50,7 @@ For the purposes of underrecovery and overrecovery determinations by any Federal
 
 Subsec. (a)(3). Pub. L. 100–427, §13(b), added par. (3).
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 20 section 8064.
+

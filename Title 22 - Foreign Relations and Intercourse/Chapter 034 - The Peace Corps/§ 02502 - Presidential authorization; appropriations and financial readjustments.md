@@ -38,7 +38,7 @@ This chapter, referred to in subsecs. (a) to (c), was in the original “this Ac
 
 1985—Subsec. (b). Pub. L. 99–83 substituted provisions authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of not to exceed $105,000,000 for fiscal years 1982 and 1983, and struck out provisos limiting use of funds in fiscal year 1967, and limiting contracts and agreements for research.
 
-1981—Subsec. (b). Pub. L. 97–113, §602(a), substituted “the fiscal year 1982 not to exceed $105,000,000 and for the fiscal year 1983 not to exceed $105,000,000” for “fiscal year 1981 not to exceed $118,000,000”.
+1981—Subsec. (b). Pub. L. 97–113, §602(a), substituted “the fiscal year 1982 not to exceed $105,000,000 and forthe fiscal year 1983 not to exceed $105,000,000” for “fiscal year 1981 not to exceed $118,000,000”.
 
 Subsec. (c). Pub. L. 97–113, §602(b), substituted “each fiscal year” for “fiscal year 1981”.
 
@@ -60,7 +60,7 @@ Subsec. (c). Pub. L. 96–533, §601(b), substituted “1981” for “1980”.
 
 Subsec. (c). Pub. L. 96–53, §301(2), substituted “1980” for “1978, $1,069,000, and for fiscal year 1979”.
 
-1978—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscalyear 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
+1978—Subsec. (b). Pub. L. 95–331, §3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
 
 Subsec. (c). Pub. L. 95–331, §3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to $1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
 
@@ -126,7 +126,7 @@ Functions of President under this section delegated to and funds available to Pr
 
 #### Applicability of Pub. L. 97–113 to Actions Prior to December 29, 1981
 
-Section 601(e)(2) of Pub. L. 97–113 provided that: “The amendment made by paragraph (1) of this subsection \[redesignating former subsec. (g) as (d) and striking out subsecs. (d) to (f) of this section\] shall not alter or affect (A) the validity of any action taken before the date of the enactment of this Act \[Dec. 29, 1981\] under those provisions of law repealed by that amendment, or (B) the liability of any person for any payment described in section 3(f) of the Peace Corps Act \[former subsec. (f) of this section\] as in effect immediately before the date of the enactment of this Act.”
+Section 601(e)(2) of Pub. L. 97–113 provided that: “The amendment made by paragraph (1) of this subsection\[redesignating former subsec. (g) as (d) and striking out subsecs. (d) to (f) of this section\] shall not alter or affect (A) the validity of any action taken before the date of the enactment of this Act \[Dec. 29, 1981\] under those provisions of law repealed by that amendment, or (B) the liability of any person for any payment described in section 3(f) of the Peace Corps Act \[former subsec. (f) of this section\] as in effect immediately before the date of the enactment of this Act.”
 
 #### Payment of Readjustment Allowances From Amount Appropriated for Fiscal Year 1977; Limitation on Amount Available
 

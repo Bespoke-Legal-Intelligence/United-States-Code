@@ -6,7 +6,7 @@ As used in this subchapter:
 
 &emsp;(2) The term “energy crisis” means weather-related and supply shortage emergencies and other household energy-related emergencies.
 
-&emsp;(3) The term “highest home energy needs” means the home energy requirements of a household determined by taking into account both the energy burden of such household and the unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
+&emsp;(3) The term “highest home energy needs” means the home energy requirements of a household determined by taking into accountboth the energy burden of such household and the unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
 
 &emsp;(4) The term “household” means any individual or group of individuals who are living together as one economic unit for whom residential energy is customarily purchased in common or who make undesignated payments for energy in the form of rent.
 
@@ -42,7 +42,7 @@ Pars. (5) to (9). Pub. L. 103–252, §304(b)(1), redesignated pars. (3) to (7) 
 
 1984—Par. (1). Pub. L. 98–558, §602(a), struck out “intervention” after “energy crisis” and inserted “and other household energy-related emergencies” at the end.
 
-Par. (4). Pub. L. 98–558, §602(b), substituted “the income poverty line as prescribed and revised at least annually pursuant to section 9902(2) of this title,” for“the income poverty guidelines for the nonfarm population of the United States as prescribed by the Office of Management and Budget (and as adjusted annually pursuant to section 9902(2) of this title)”.
+Par. (4). Pub. L. 98–558, §602(b), substituted “the income poverty line as prescribed and revised at least annually pursuant to section 9902(2) of this title,” for “the income poverty guidelines for the nonfarm population of the United States as prescribed by the Office of Management and Budget (and as adjusted annually pursuant to section 9902(2) of this title)”.
 
 1981—Pub. L. 97–115 designated par. (2)(A) as par. (2), substituted provisions including individuals and groups of individuals who are living together as one economic unit for whom residential energy is customarily purchased in the form of rent in the definition of household, for provisions including individuals who occupy a housing unit in such definition, and struck out par. (2)(B), which provided that for purposes of subpar. (A), one or more rooms shall be treated as a housing unit when occupied as a separate living quarters.
 

@@ -82,5 +82,3 @@ In subsection (d), the words “the defendant may demand a jury trial” are sub
 
 In subsection (e), the words “any act or transaction constituting” are omitted as surplus. The word “resides” is substituted for “is an inhabitant” for consistency and to eliminate unnecessary words.
 
-start
-

@@ -72,7 +72,7 @@ General.—In this chapter—
 
 Authority To Modify “Handicapped Individual”.—The Secretary of Transportation by regulation may modify the definition of subsection (a)(5) of this section as it applies to section 5307(d)(1)(D) of this title.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov. 15, 1995, 109 Stat. 457; Pub. L. 104–287, §6(c), Oct. 11, 1996, 110 Stat. 3398.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov. 15, 1995, 109 Stat. 457; Pub. L. 104–287, §6(c), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–102, §3(a), Nov. 20, 1997, 111 Stat. 2214.)
 
 Historical and Revision Notes
 
@@ -170,13 +170,21 @@ Subsection (b) applies to section 5307(d)(1)(D) of the revised title because of 
 
 #### Amendments
 
+1997—Subsec. (a)(1)(B), (C). Pub. L. 105–102 made technical correction to directory language of Pub. L. 104–50, §333(a). See 1995 Amendment notes below.
+
 1996—Subsec. (a)(1). Pub. L. 104–287 made technical correction to directory language of Pub. L. 103–331, §335A. See 1994 Amendment note below.
 
-1995—Subsec. (a)(1)(B). Pub. L. 104–50, §333(a)(1), which directed the amendment of this section by striking out “that extends the economic life of the bus for at least 5 years” after “rehabilitating a bus”, was executed by striking out “that extends the economic life of a bus for at least 5 years” to reflect the probable intent of Congress.
+1995—Subsec. (a)(1)(B). Pub. L. 104–50, §333(a)(1), as amended by Pub. L. 105–102, §3(a)(1), struck out “that extends the economic life of a bus for at least 5 years” after “rehabilitating a bus”.
 
-Subsec. (a)(1)(C). Pub. L. 104–50, §333(a)(2), which directed the amendment of this section by striking out “that extends the economic life of the bus for at least 8 years” after “remanufacturing a bus”, was executed by striking out “that extends the economic life of a bus for at least 8 years” to reflect the probable intent of Congress.
+Subsec. (a)(1)(C). Pub. L. 104–50, §333(a)(2), as amended by Pub. L. 105–102, §3(a)(2), struck out “that extends the economic life of a bus for at least 8 years” after “remanufacturing a bus”.
 
 1994—Subsec. (a)(1). Pub. L. 103–331, §335A, as amended by Pub. L. 104–287, inserted “payments for the capital portions of rail trackage rights agreements,” after “rights of way),”.
+
+#### Effective Date of 1997 Amendment
+
+Pub. L. 105–102, §3(a), Nov. 20, 1997, 111 Stat. 2214, provided that the amendment made by section 3(a) is effective Nov. 15, 1995.
+
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 

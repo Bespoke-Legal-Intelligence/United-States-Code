@@ -14,7 +14,7 @@ Section 141 of Pub. L. 91–577 provided that: “This Act \[this chapter\] shal
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–349, §1(a), Oct. 6, 1994, 108 Stat. 3136, provided that: “This Act \[amending sections 2327, 2330,2353, 2354, 2357, 2401, 2402, 2404, 2422, 2423, 2424, 2425, 2442, 2461, 2462, 2463, 2482, 2483, 2486, 2501, 2504, 2532, 2541, 2542, 2543, 2561, 2566, 2567, 2568, and 2570 of this title, repealing sections 2463, 2502 and 2503 of this title, and enacting provisions set out as notes under section 2401 of this title\] may be cited as the ‘Plant Variety Protection Act Amendments of 1994’.”
+Pub. L. 103–349, §1(a), Oct. 6, 1994, 108 Stat. 3136, provided that: “This Act \[amending sections 2327, 2330, 2353, 2354, 2357, 2401, 2402, 2404, 2422, 2423, 2424, 2425, 2442, 2461, 2462, 2463, 2482, 2483, 2486, 2501, 2504, 2532, 2541, 2542, 2543, 2561, 2566, 2567, 2568, and 2570 of this title, repealing sections 2463, 2502 and 2503 of this title, and enacting provisions set out as notes under section 2401 of this title\] may be cited as the ‘Plant Variety Protection Act Amendments of 1994’.”
 
 #### Short Title of 1992 Amendment
 

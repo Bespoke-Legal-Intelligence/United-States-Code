@@ -24,7 +24,7 @@ Grants for Regional Transportation Centers.—(1) The Secretary of Transportatio
 
 &emsp;(i) infrastructure research on transportation.
 
-&emsp;(ii) research and training on transportation safety and the transportation of passengersand property and the interpretation, publication, and dissemination of the results of the research.
+&emsp;(ii) research and training on transportation safety and the transportation of passengers and property and the interpretation, publication, and dissemination of the results of the research.
 
 (B) Each transportation center—
 

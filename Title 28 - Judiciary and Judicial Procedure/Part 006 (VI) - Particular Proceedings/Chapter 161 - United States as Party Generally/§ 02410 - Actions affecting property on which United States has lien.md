@@ -26,9 +26,9 @@
 
 &emsp;(3) the amount (if any) equal to the excess of (A) the expenses necessarily incurred in connection with such property, over (B) the income from such property plus (to the extent such property is used by the purchaser) a reasonable rental value of such property.
 
-(e) Whenever any person has a lien upon any real or personal property, duly recorded in the jurisdiction in which the property is located, and a junior lien, other than a tax lien, in favor of the United States attaches to such property, such person may make a written request to the officer charged with the administration of the laws in respect of which the lien of the United States arises, to have the same extinguished. If after appropriate investigation, it appears to such officer that the proceeds from the sale of the property would be insufficient to wholly or partly satisfy the lien of the United States, or that the claim of the United States has been satisfied or by lapse of time or otherwise has become unenforceable, such officer shall so report to the Comptroller General who may issue a certificate releasing the property from such lien.
+(e) Whenever any person has a lien upon any real or personal property, duly recorded in the jurisdiction in which the property is located, and a junior lien, other than a tax lien, in favor of the United States attaches to such property, such person may make a written request to the officer charged with the administration of the laws in respect of which the lien of the United States arises, to have the same extinguished. If after appropriate investigation, it appears to such officer that the proceeds from the sale of the property would be insufficient to wholly or partly satisfy the lien of the United States, or that the claim of the United States has been satisfied or by lapse of time or otherwise has become unenforceable, such officer may issue a certificate releasing the property from such lien.
 
-(June 25, 1948, ch. 646, 62 Stat. 972; May 24, 1949, ch. 139, §119, 63 Stat. 105; July 7, 1958, Pub. L. 85–508, §12(h), 72 Stat. 348; June 11, 1960, Pub. L. 86–507, §1(20), 74 Stat. 201; Nov. 2, 1966, Pub. L. 89–719, title II, §201, 80 Stat. 1147; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Nov. 29, 1990, Pub. L. 101–647, title XXXVI, §3630, 104 Stat. 4966; Aug. 6, 1991, Pub. L. 102–83, §5(c)(2), 105 Stat. 406.)
+(June 25, 1948, ch. 646, 62 Stat. 972; May 24, 1949, ch. 139, §119, 63 Stat. 105; Pub. L. 85–508, §12(h), July 7, 1958, 72 Stat. 348; Pub. L. 86–507, §1(20), June 11, 1960, 74 Stat. 201; Pub. L. 89–719, title II, §201, Nov. 2, 1966, 80 Stat. 1147; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–647, title XXXVI, §3630, Nov. 29, 1990, 104 Stat. 4966; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–316, title I, §114, Oct. 19, 1996, 110 Stat. 3834.)
 
 #### Historical and Revision Notes
 
@@ -54,13 +54,15 @@ Section 7425 of the Internal Revenue Code of 1986, referred to in subsec. (d), i
 
 #### Amendments
 
-1991—Subsec. (c). Pub. L. 102–83 substituted “section 3720 of title 38” for “section 1820 of title 38”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–316 struck out “shall so report to the Comptroller General who” after “unenforceable, such officer” in second sentence.
 
-1990—Subsec. (c). Pub. L. 101–647 inserted at end “In any case where the United States is a bidder at the judicial sale, it may credit the amount determined to be due it against the amount it bids at such sales.”
+<b>1991</b>—Subsec. (c). Pub. L. 102–83 substituted “section 3720 of title 38” for “section 1820 of title 38”.
 
-1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–647 inserted at end “In any case where the United States is a bidder at the judicial sale, it may credit the amount determined to be due it against the amount it bids at such sales.”
 
-1966—Subsec. (a). Pub. L. 89–719 substituted “subject matter—
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+<b>1966</b>—Subsec. (a). Pub. L. 89–719 substituted “subject matter—
 
 &emsp;“(1) to quiet title to,
 
@@ -80,11 +82,11 @@ Subsec. (c). Pub. L. 89–719 substituted “judgment or decree in such action�
 
 Subsecs. (d), (e). Pub. L. 89–719 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1960—Subsec. (b). Pub. L. 86–507 inserted “or by certified mail,” after “registered mail,”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–507 inserted “or by certified mail,” after “registered mail,”.
 
-1958—Subsec. (a). Pub. L. 85–508 struck out provisions which extended section to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Subsec. (a). Pub. L. 85–508 struck out provisions which extended section to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1949—Subsec. (b). Act May 24, 1949, conformed section with that of prior law with respect to service of process and complaint upon the United States in suits brought in State courts.
+<b>1949</b>—Subsec. (b). Act May 24, 1949, conformed section with that of prior law with respect to service of process and complaint upon the United States in suits brought in State courts.
 
 #### Effective Date of 1990 Amendment
 

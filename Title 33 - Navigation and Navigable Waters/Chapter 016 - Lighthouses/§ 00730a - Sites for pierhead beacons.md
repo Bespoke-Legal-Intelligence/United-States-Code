@@ -2,7 +2,7 @@
 
 The Secretary of Transportation is authorized whenever he shall deem it advisable, to acquire, by donation or purchase in behalf of the United States, the right to use and occupy sites for pierhead beacons the establishment of which has been, or shall hereafter be, authorized by Congress.
 
-(Mar. 3, 1875, ch. 130, §1, 18 Stat. 372; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938.)
+(Mar. 3, 1875, ch. 130, §1, 18 Stat. 372; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### Codification
 

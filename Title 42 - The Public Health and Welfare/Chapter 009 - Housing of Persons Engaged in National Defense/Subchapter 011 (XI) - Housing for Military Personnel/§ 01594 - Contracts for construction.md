@@ -6,7 +6,7 @@ The Secretary of Defense or his designee is authorized to enter into contracts w
 
 #### (b) “Eligible bidder” defined
 
-For the purposes of this subchapter, the term “eligible bidder” means a person, partnership,firm, or corporation determined by the Secretary of Defense after consultation with the Secretary of Housing and Urban Development (1) to be qualified by experience and financial responsibility to construct housing of the type described in subsection (a) of this section, and (2) to have submitted the lowest acceptable bid.
+For the purposes of this subchapter, the term “eligible bidder” means a person, partnership, firm, or corporation determined by the Secretary of Defense after consultation with the Secretary of Housing and Urban Development (1) to be qualified by experience and financial responsibility to construct housing of the type described in subsection (a) of this section, and (2) to have submitted the lowest acceptable bid.
 
 #### (c) Acquisition of capital stock of property covered by mortgage
 
@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 90–19, §12(h)(3), substituted “Secretary of Defense”
 
 1959—Subsec. (d). Pub. L. 86–149 added subsec. (d).
 
-1956—Subsec. (a). Act Aug. 7, 1956, §§506(b), (c), (d), and 507, substituted “eligible bidder” for “eligible builder” in first sentence; substituted “the mortgagor” for “the builder” in two places in third sentence; inserted provision before last sentence, relating to furnishing by contractor of a performance bond and a payment bond with surety satisfactory to Secretary; and struck out from last sentence “with any builder” after “Before the Secretary shall enter into any contract”.
+1956—Subsec. (a). Act Aug. 7, 1956, §§506(b), (c), (d), 507, substituted “eligible bidder” for “eligible builder” in first sentence; substituted “the mortgagor” for “the builder” in two places in third sentence; inserted provision before last sentence, relating to furnishing by contractor of a performance bond and a payment bond with surety satisfactory to Secretary; and struck out from last sentence “with any builder” after “Before the Secretary shall enter into any contract”.
 
 Subsec. (b). Act Aug. 7, 1956, §506(b), substituted “eligible bidder” for “eligible builder”.
 

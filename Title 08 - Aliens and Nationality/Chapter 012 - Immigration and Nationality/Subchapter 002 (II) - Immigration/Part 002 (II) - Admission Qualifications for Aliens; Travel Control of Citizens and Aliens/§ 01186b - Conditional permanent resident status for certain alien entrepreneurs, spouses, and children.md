@@ -40,7 +40,7 @@
 
 #### (2) Hearing in removal proceeding
 
-&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may requesta review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
+&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
 
 #### (c) Requirements of timely petition and interview for removal of condition
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(ii) the alien entrepreneur appears at any interview described in paragraph (1)(B),
 
-> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of the such filing or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true with respect to the qualifying commercial enterprise.
+> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of the such filing <sup>1</sup> or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true with respect to the qualifying commercial enterprise.
 
 #### (B) Removal of conditional basis if favorable determination
 
@@ -116,7 +116,7 @@
 
 #### (C) Filing of petitions during removal
 
-&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure tofile a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
+&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
 
 #### (3) Personal interview
 
@@ -165,4 +165,6 @@ Section effective Oct. 1, 1991, and applicable beginning with fiscal year 1992, 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1227, 1255 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

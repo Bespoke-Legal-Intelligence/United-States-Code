@@ -6,7 +6,7 @@ As used in this chapter, except where the context otherwise requires:
 
 (b) “Authorized inspector” means any employee of the Department of Agriculture, or any employee of any other agency of the Federal Government or of any State or other governmental agency which is cooperating with the Department in administration of any provisions of this chapter, who is authorized by the Secretary to perform assigned duties under this chapter.
 
-(c) “Noxious weed” means any living stage (including but not limited to, seeds and reproductive parts) of any parasitic or other plant of a kind, or subdivision of a kind, which is of foreign origin, is new to or not widely prevalent in the United States, and can directly or indirectly injure crops, other useful plants, livestock, or poultry or other interests of agriculture, including irrigation, or navigation or the fish and wildlife resources of the United States or the public health.
+(c) “Noxious weed” means any living stage (including but not limited to, seeds and reproductive parts) of any parasitic or other plant of a kind, or subdivision of a kind, which is of foreign origin, is new to or not widely prevalent in the United States, and can directly or indirectly injure crops, other useful plants, livestock, or poultry or other interests of agriculture, including irrigation, or navigation or the fish and wildlife resources of the United States or the public health, and includes kudzu (Pueraria lobata Dc).
 
 (d) “United States” means any of the States, territories, or districts of the United States.
 
@@ -16,7 +16,11 @@ As used in this chapter, except where the context otherwise requires:
 
 (g) “Move” means deposit for transmission in the mails, ship, offer for shipment, offer for entry, import, receive for transportation, carry, or otherwise transport or move, or allow to be moved, by mail or otherwise.
 
-(Pub. L. 93–629, §3, Jan. 3, 1975, 88 Stat. 2148.)
+(Pub. L. 93–629, §3, Jan. 3, 1975, 88 Stat. 2148; Pub. L. 105–86, title VII, §728, Nov. 18, 1997, 111 Stat. 2108.)
+
+#### Amendments
+
+1997—Subsec. (c). Pub. L. 105–86 inserted “, and includes kudzu (Pueraria lobata Dc)” before period at end.
 
 #### Section Referred to in Other Sections
 

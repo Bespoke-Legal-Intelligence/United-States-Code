@@ -10,7 +10,7 @@ Funds made available pursuant to sections 12662 and 12681(b) of this title shall
 
 #### (b) Interest earned on accounts
 
-Notwithstanding any other provision of law, the Foundation may hold funds granted to it pursuant to this subchapter in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a) of this section, and may retain for such purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
+Notwithstanding any other provision of law, the Foundation may hold funds granted to itpursuant to this subchapter in interest-bearing accounts, prior to the disbursement of such funds for purposes specified in subsection (a) of this section, and may retain for such purposes any interest earned on such deposits without returning such interest to the Treasury of the United States and without further appropriation by the Congress.
 
 (Pub. L. 101–610, title III, §304, Nov. 16, 1990, 104 Stat. 3181.)
 

@@ -12,7 +12,7 @@ The General Accounting Office, the Government Printing Office, and the Library o
 
 #### (3) Report to Congress
 
-&emsp;The chief official of each instrumentality of the Congress shall, after establishing remediesand procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
+&emsp;The chief official of each instrumentality of the Congress shall, after establishing remedies and procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
 
 #### (4) Definition of instrumentalities
 
@@ -20,7 +20,7 @@ The General Accounting Office, the Government Printing Office, and the Library o
 
 #### (5) Enforcement of employment rights
 
-&emsp;The remedies and procedures set forth in section 2000e–16 of this title shall be available to any employee of an instrumentality of the Congress who alleges a violation of the rights and protections under sections 12112 through 12114 of this title that are made applicable by this section, except that the authorities of the Equal Employment Opportunity Commission shall be exercised by the chief official of the instrumentality of the Congress.
+&emsp;The remedies and procedures set forth in section 2000e–16 of this title shall be available to any employee of an instrumentality of the Congress who alleges a violation of the rights and protections under sections 12112 through 12114 of this title that are made applicable by this section, except that the authorities of theEqual Employment Opportunity Commission shall be exercised by the chief official of the instrumentality of the Congress.
 
 #### (6) Enforcement of rights to public services and accommodations
 

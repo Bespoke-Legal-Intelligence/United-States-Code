@@ -20,7 +20,7 @@ The Secretary of Labor may not issue a certification under subsection (a) of thi
 
 &emsp;(B) No employer may be denied certification under subparagraph (A) for more than three years for any violation described in such subparagraph.
 
-&emsp;(3) The employer has not provided the Secretary with satisfactory assurances that if the employment for which the certification is sought is not covered by State workers’ compensation law, the employer will provide, at no cost to the worker, insurance covering injury and disease arising out of and in the course of the worker's employment which will provide benefits at least equal to those provided under the State workers’ compensation law for comparable employment.
+&emsp;(3) The employer has not provided the Secretary with satisfactory assurances that if theemployment for which the certification is sought is not covered by State workers’ compensation law, the employer will provide, at no cost to the worker, insurance covering injury and disease arising out of and in the course of the worker's employment which will provide benefits at least equal to those provided under the State workers’ compensation law for comparable employment.
 
 &emsp;(4) The Secretary determines that the employer has not made positive recruitment efforts within a multi-state region of traditional or expected labor supply where the Secretary finds that there are a significant number of qualified United States workers who, if recruited, would be willing to make themselves available for work at the time and place needed. Positive recruitment under this paragraph is in addition to, and shall be conducted within the same time period as, the circulation through the interstate employment service system of the employer's job offer. The obligation to engage in positive recruitment under this paragraph shall terminate on the date the H–2A workers depart for the employer's place of employment.
 
@@ -88,7 +88,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (A) Member's violation does not necessarily disqualify association or other members
 
-&emsp;&emsp;If an individual producer member of a joint employer association is determined tohave committed an act that under subsection (b)(2) of this section results in the denial of certification with respect to the member, the denial shall apply only to that member of the association unless the Secretary determines that the association or other member participated in, had knowledge of, or reason to know of, the violation.
+&emsp;&emsp;If an individual producer member of a joint employer association is determined to have committed an act that under subsection (b)(2) of this section results in the denial of certification with respect to the member, the denial shall apply only to that member of the association unless the Secretary determines that the association or other member participated in, had knowledge of, or reason to know of, the violation.
 
 #### (B) Association's violation does not necessarily disqualify members
 
@@ -100,7 +100,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 (1) Regulations shall provide for an expedited procedure for the review of a denial of certification under subsection (a)(1) of this section or a revocation of such a certification or, at the applicant's request, for a de novo administrative hearing respecting the denial or revocation.
 
-(2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the time a new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is on the employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
+(2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the time a new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is onthe employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
 
 #### (f) Violators disqualified for 5 years
 
@@ -182,7 +182,7 @@ Regulations.—The Attorney General, in consultation with the Secretary of Labor
 
 #### Sense of Congress Respecting Consultation With Mexico
 
-Section 301(f) of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(<i>l</i>)(4), Oct. 24, 1988, 102 Stat. 2612, provided that: “It is the sense of Congress that the President should establish an advisory commission which shall consult with the Governments of Mexico and of other appropriate countries and advise the Attorney General regarding the operation of the alien temporary worker program established under section 218 of the Immigration and Nationality Act \[8 U.S.C. 1188\].”
+Section 301(f) of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(<i>l</i>)(4), Oct. 24, 1988, 102 Stat. 2612, providedthat: “It is the sense of Congress that the President should establish an advisory commission which shall consult with the Governments of Mexico and of other appropriate countries and advise the Attorney General regarding the operation of the alien temporary worker program established under section 218 of the Immigration and Nationality Act \[8 U.S.C. 1188\].”
 
 #### Reports on H–2A Program
 

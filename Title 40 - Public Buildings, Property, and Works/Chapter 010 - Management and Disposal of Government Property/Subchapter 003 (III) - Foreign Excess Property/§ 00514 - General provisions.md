@@ -6,7 +6,7 @@ The President may prescribe such policies, not inconsistent with the provisions 
 
 #### (b) Delegation of authority
 
-Any authority conferred upon any executive agency or the head thereof by the provisions of this subchapter may be delegated, and successive redelegation thereof may be authorized, by such head to any official in such agency or to the head of any other executive agency.
+Any authority conferred upon any executive agency or the head thereof by the provisions ofthis subchapter may be delegated, and successive redelegation thereof may be authorized, by such head to any official in such agency or to the head of any other executive agency.
 
 #### (c) Employment of personnel
 
@@ -16,7 +16,7 @@ The head of each executive agency responsible for the disposal of foreign excess
 
 There shall be transferred from the Department of State to each other executive agency affected by this subchapter such records, property, personnel, obligations, commitments, and unexpended balances of appropriations, allocations, and other funds, available or to be made available, as the Director of the Office of Management and Budget shall determine to relate to functions of such agency under this subchapter which have heretofore been administered by the Department of State.
 
-(June 30, 1949, ch. 288, title IV, §404, 63 Stat. 398; July 12, 1960, Pub. L. 86–624, §27(c), 74 Stat. 418; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Oct. 19, 1980, Pub. L. 96–470, title I, §101(a), 94 Stat. 2237.)
+(June 30, 1949, ch. 288, title IV, §404, 63 Stat. 398; Pub. L. 86–624, §27(c), July 12, 1960, 74 Stat. 418; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 96–470, title I, §101(a), Oct. 19, 1980, 94 Stat. 2237.)
 
 #### References in Text
 

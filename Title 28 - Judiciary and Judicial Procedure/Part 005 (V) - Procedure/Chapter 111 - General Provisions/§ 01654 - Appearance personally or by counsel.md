@@ -20,5 +20,5 @@ This section restores in section 1654 of title 28, U.S.C., language of the origi
 
 #### Amendments
 
-1949—Act May 24, 1949, inserted “as, by the rules of such courts, respectively, are permitted to manage and conduct causes therein”.
+<b>1949</b>—Act May 24, 1949, inserted “as, by the rules of such courts, respectively, are permitted to manage and conduct causes therein”.
 

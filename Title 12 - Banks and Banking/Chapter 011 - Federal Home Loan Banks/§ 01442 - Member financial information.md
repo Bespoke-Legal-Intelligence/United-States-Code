@@ -20,7 +20,7 @@ Every member of a Federal Home Loan Bank shall, as a condition precedent thereto
 
 &emsp;(3) to agree to give the Bank or the Federal agency, upon request, such information as they may need to compile and publish cost of funds indices and to publish other reports or statistical summaries pertaining to the activities of Bank members.
 
-(July 22, 1932, ch. 522, §22, 47 Stat. 739; Aug. 9, 1989, Pub. L. 101–73, title VII, §719, 103 Stat. 422.)
+(July 22, 1932, ch. 522, §22, 47 Stat. 739; Pub. L. 101–73, title VII, §719, Aug. 9, 1989, 103 Stat. 422.)
 
 #### Amendments
 

@@ -10,5 +10,5 @@ The Register of Copyrights shall receive all royalty payments deposited under th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1006, 1009 of this title.
+This section is referred to in sections 801, 1006, 1009 of this title.
 

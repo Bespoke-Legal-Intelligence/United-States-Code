@@ -14,7 +14,7 @@ Placement Program.—The Secretary of Defense, and the Secretary of Transportati
 
 (b)
 
-States with Alternative Certification Requirements and Teacher and Teacher's Aide Shortages.—Upon the establishment of the placement program authorized by subsection (a), the Secretary of Defense and the Secretary of Transportation, in consultation with the Secretary of Education, shall—
+States With Alternative Certification Requirements and Teacher and Teacher's Aide Shortages.—Upon the establishment of the placement program authorized by subsection (a), the Secretary of Defense and the Secretary of Transportation, in consultation with the Secretary of Education, shall—
 
 &emsp;(1) conduct a survey of States to identify those States that have alternative certification or licensure requirements for teachers, including those States that grant credit for service in the armed forces toward satisfying certification or licensure requirements for teachers;
 
@@ -158,7 +158,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “alternative certification or licensure requirements” means State or local teacher certification or licensure requirements that permit a demonstrated competence in appropriate subject areas gained in careers outside of education to be substituted for traditional teacher training course work.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4441(a)(1), Oct. 23, 1992, 106 Stat. 2725; amended Pub. L. 103–35, title II, §201(f)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title V, §561(k), title XIII, §1331(a)–(c)(1), (d)–(g), Nov. 30, 1993, 107 Stat. 1668, 1791–1793; Pub. L. 103–337, div. A, title V, §543(c), title X, §1070(a)(7), title XI, §1131(a), (b), Oct. 5, 1994, 108 Stat. 2769, 2855, 2871; Pub. L. 103–382, title III, §391(b)(1), (2), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(10), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §576(a), Sept. 23, 1996, 110 Stat. 2535.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4441(a)(1), Oct. 23, 1992, 106 Stat. 2725; amended Pub. L. 103–35, title II, §201(f)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title V, §561(k), title XIII, §1331(a)–(c)(1), (d)–(g), Nov. 30, 1993, 107 Stat. 1668, 1791–1793; Pub. L. 103–337, div. A, title V, §543(c), title X, §1070(a)(7), title XI, §1131(a), (b), Oct. 5, 1994, 108 Stat. 2769, 2855, 2871; Pub. L. 103–382, title III, §391(b)(1), (2), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(10), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §576(a), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 105–85, div. A, title X, §1073(a)(19), Nov. 18, 1997, 111 Stat. 1901.)
 
 #### References in Text
 
@@ -167,6 +167,8 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2
 The Higher Education Act of 1965, referred to in subsec. (g)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–85 substituted “With” for “with” in heading.
 
 1996—Subsec. (b)(2)(A), (3)(A). Pub. L. 104–106, §1503(a)(10)(A), substituted “(20 U.S.C. 6301 et seq.)” for “(20 U.S.C. 2701 et seq.)”.
 
@@ -206,7 +208,7 @@ Subsec. (c)(4). Pub. L. 103–337, §1131(a)(2), struck out par. (4) which read 
 
 Subsec. (d). Pub. L. 103–337, §543(c)(4), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-Subsec. (e)(1). Pub. L. 103–337, §543(c)(5), inserted “, and the Secretary of Transportation with respect tothe Coast Guard,” after “Secretary of Defense” in first sentence and substituted “Secretaries” for “Secretary” before “may” in second sentence.
+Subsec. (e)(1). Pub. L. 103–337, §543(c)(5), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in first sentence and substituted “Secretaries” for “Secretary” before “may” in second sentence.
 
 Pub. L. 103–337, §1131(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Selection of members to participate in the placement program authorized by subsection (a) shall be made on the basis of applications submitted to the Secretary of Defense not later than one year after the date of the discharge or release of the members from active duty or, in the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (c)(2), not later than one year after the date on which the applicant becomes educationally qualified. In the case of members referred to in subsection (c)(3), the Secretary shall establish a reasonable time period after October 23, 1992, for the submission of applications. An application shall be in such form and contain such information as the Secretary may require.”
 

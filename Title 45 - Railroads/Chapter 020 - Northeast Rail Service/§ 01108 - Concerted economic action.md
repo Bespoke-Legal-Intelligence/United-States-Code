@@ -2,7 +2,7 @@
 
 #### (a) Strikes interfering with rail freight service of Conrail
 
-Any person engaging in concerted economic action over disputes with Amtrak Commuter orany commuter authority shall not be entitled to engage in any strike against, or otherwise to induce any employee of, Conrail, where an effect thereof is to interfere with rail freight service provided by Conrail.
+Any person engaging in concerted economic action over disputes with Amtrak Commuter or any commuter authority shall not be entitled to engage in any strike against, or otherwise to induce any employee of, Conrail, where an effect thereof is to interfere with rail freight service provided by Conrail.
 
 #### (b) Strikes interfering with Amtrak Commuter's rail passenger service
 

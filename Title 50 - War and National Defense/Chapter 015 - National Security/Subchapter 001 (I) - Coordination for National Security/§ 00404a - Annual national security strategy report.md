@@ -24,7 +24,7 @@ Each national security strategy report shall set forth the national security str
 
 Each national security strategy report shall be transmitted in both a classified and an unclassified form.
 
-(July 26, 1947, ch. 343, title I, §108, formerly §104, as added Oct. 1, 1986, Pub. L. 99–433, title VI, §603(a)(1), 100 Stat. 1074; renumbered §108, Oct. 24, 1992, Pub. L. 102–496, title VII, §705(a)(2), 106 Stat. 3190.)
+(July 26, 1947, ch. 343, title I, §108, formerly §104, as added Pub. L. 99–433, title VI, §603(a)(1), Oct. 1, 1986, 100 Stat. 1074; renumbered §108, Pub. L. 102–496, title VII, §705(a)(2), Oct. 24, 1992, 106 Stat. 3190.)
 
 #### National Commission on the Future Role of United States Nuclear Weapons, Problems of Command, Control, and Safety of Soviet Nuclear Weapons, and Reduction of Nuclear Weapons
 

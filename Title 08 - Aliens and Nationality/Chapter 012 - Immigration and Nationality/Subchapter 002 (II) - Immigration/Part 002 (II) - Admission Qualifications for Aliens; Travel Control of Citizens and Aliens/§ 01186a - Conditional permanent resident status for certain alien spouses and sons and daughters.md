@@ -46,7 +46,7 @@
 
 &emsp;In order for the conditional basis established under subsection (a) of this section for an alien spouse or an alien son or daughter to be removed—
 
-&emsp;&emsp;(A) the alien spouse and the petitioning spouse (if not deceased) jointly must submit to the Attorney General, during the period described in subsection (d)(2) of this section,a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1) of this section, and
+&emsp;&emsp;(A) the alien spouse and the petitioning spouse (if not deceased) jointly must submit to the Attorney General, during the period described in subsection (d)(2) of this section, a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1) of this section, and
 
 &emsp;&emsp;(B) in accordance with subsection (d)(3) of this section, the alien spouse and the petitioning spouse (if not deceased) must appear for a personal interview before an officer or employee of the Service respecting the facts and information described in subsection (d)(1) of this section.
 
@@ -150,7 +150,7 @@
 
 #### (e) Treatment of period for purposes of naturalization
 
-For purposes of subchapter III of this chapter, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
+For purposes of subchapter III of this chapter, in the case of an alien who is in the UnitedStates as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
 
 #### (f) Treatment of certain waivers
 

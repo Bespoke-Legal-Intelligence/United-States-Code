@@ -14,3 +14,4 @@
 - [&sect; 00512 - Delegation of authority; assignment of functions and duties](%C2%A7%2000512%20-%20Delegation%20of%20authority%3B%20assignment%20of%20functions%20and%20duties.md)
 - [&sect; 00513 - Contracts and personal services](%C2%A7%2000513%20-%20Contracts%20and%20personal%20services.md)
 - [&sect; 00515 - Administrative settlement of tort claims](%C2%A7%2000515%20-%20Administrative%20settlement%20of%20tort%20claims.md)
+- [&sect; 00516 - Equal employment responsibilities](%C2%A7%2000516%20-%20Equal%20employment%20responsibilities.md)

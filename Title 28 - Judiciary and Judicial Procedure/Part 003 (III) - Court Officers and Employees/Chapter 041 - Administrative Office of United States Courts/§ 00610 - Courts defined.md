@@ -1,8 +1,8 @@
 ### §610. Courts defined
 
-As used in this chapter the word “courts” includes the courts of appeals and district courtsof the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, the United States Court of Federal Claims, and the Court of International Trade.
+As used in this chapter the word “courts” includes the courts of appeals and district courts of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, the United States Court of Federal Claims, and the Court of International Trade.
 
-(June 25, 1948, ch. 646, 62 Stat. 915; Oct. 31, 1951, ch. 655, §44, 65 Stat. 725; July 7, 1958, Pub. L. 85–508, §12(e), 72 Stat. 348; Nov. 6, 1978, Pub. L. 95–598, title II, §226, 92 Stat. 2665; Oct. 10, 1980, Pub. L. 96–417, title V, §501(15), 94 Stat. 1742; Apr. 2, 1982, Pub. L. 97–164, title I, §120(a), 96 Stat. 33; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 915; Oct. 31, 1951, ch. 655, §44, 65 Stat. 725; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, §226, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–417, title V, §501(15), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §120(a), Apr. 2, 1982, 96 Stat. 33; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -28,17 +28,17 @@ Those provisions of this section which related to the Tax Court were eliminated 
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “the United States Claims Court” for “the Court of Claims, the Court of Customs and Patent Appeals”.
+<b>1982</b>—Pub. L. 97–164 substituted “the United States Claims Court” for “the Court of Claims, the Court of Customs and Patent Appeals”.
 
-1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1978—Pub. L. 95–598 directed the amendment of section by substituting “, district courts, and bankruptcy courts” for “and district courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the amendment of section by substituting “, district courts, and bankruptcy courts” for “and district courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1958—Pub. L. 85–508 struck out provisions which included District Court for Territory of Alaska within definition of court. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Pub. L. 85–508 struck out provisions which included District Court for Territory of Alaska within definition of court. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1951—Act Oct. 31, 1951, inserted reference to the District Court of Guam.
+<b>1951</b>—Act Oct. 31, 1951, inserted reference to the District Court of Guam.
 
 #### Effective Date of 1992 Amendment
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ Plan and Program Factors.—In developing plans and programs under this section 
 
 &emsp;(6) the effects of all transportation projects to be undertaken in the metropolitan area, without regard to whether the projects are publicly financed.
 
-&emsp;(7) international border crossings and access to ports, airports, intermodal transportationfacilities, major freight distribution routes, national parks, recreation areas, monuments and historic sites, and military installations.
+&emsp;(7) international border crossings and access to ports, airports, intermodal transportation facilities, major freight distribution routes, national parks, recreation areas, monuments and historic sites, and military installations.
 
 &emsp;(8) the need for connecting roads in the metropolitan area with roads outside the area.
 
@@ -44,7 +44,7 @@ Plan and Program Factors.—In developing plans and programs under this section 
 
 (c)
 
-Designating Metropolitan Planning Organizations.—(1) To carry out the planning process required by this section, a metropolitan planning organization shall be designated for each urbanized area with a population of more than 50,000—
+Designating Metropolitan Planning Organizations.—(1) To carry out the planning process required by this section and sections 5304–5306 of this title, a metropolitan planning organization shall be designated for each urbanized area with a population of more than 50,000—
 
 &emsp;(A) by agreement of the chief executive officer of a State and units of general local government representing at least 75 percent of the affected population (including the central city as defined by the Secretary of Commerce); or
 
@@ -56,7 +56,7 @@ Designating Metropolitan Planning Organizations.—(1) To carry out the planning
 
 (4) A designation is effective until—
 
-&emsp;(A) the organization is redesignated under paragraph (3) of this subsection; or
+&emsp;(A) the organization is redesignated under paragraph (5) of this subsection; or
 
 &emsp;(B) revoked—
 
@@ -64,7 +64,7 @@ Designating Metropolitan Planning Organizations.—(1) To carry out the planning
 
 &emsp;&emsp;(ii) as otherwise provided by State or local procedures.
 
-(5)(A) The chief executive officer and units of general local government representing at least 75 percent of the affected population (including the central city as defined by the Secretary of Commerce) may redesignate by agreement a metropolitan planning organization when appropriate to carry out this section.
+(5)(A) The chief executive officer and units of general local government representing at least 75 percent of the affected population (including the central city as defined by the Secretary of Commerce) may redesignate by agreement a metropolitan planning organization when appropriate to carry out this section and sections 5304–5306 of this title.
 
 (B) A metropolitan planning organization shall be redesignated on request of one or more units of general local government representing at least 25 percent of the affected population (including the central city as defined by the Secretary of Commerce) in an urbanized area with a population of more than 5,000,000, but less than 10,000,000 or that is an extreme nonattainment area for ozone or carbon monoxide (as defined in the Clean Air Act (42 U.S.C. 7401 et seq.)).
 
@@ -86,7 +86,7 @@ Coordination.—(1) The Secretary of Transportation shall establish requirements
 
 (2) Congress consents to at least 2 States making an agreement, not in conflict with a law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under this section related to interstate areas and localities in the States and establishing authorities the States consider desirable for making the agreement effective.
 
-(3) If more than one metropolitan planning organization has authority in a metropolitan area or an area designated a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each organization shall consult with the other organizations designated for the area and the State to coordinate plans and projects required by this section and sections 5304–5306 of this title.
+(3) If more than one metropolitan planning organization has authority in a metropolitan areaor an area designated a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each organization shall consult with the other organizations designated for the area and the State to coordinate plans and projects required by this section and sections 5304–5306 of this title.
 
 (f)
 
@@ -152,7 +152,7 @@ Balanced and Comprehensive Planning.—(1) To the extent practicable, the Secret
 
 (B) Amounts under this paragraph shall be allocated under a formula that reflects the additional cost of carrying out planning, programming, and project selection responsibilities under this section and sections 5304–5306 of this title in those areas.
 
-(4) To the maximum extent practicable, the Secretary of Transportation shall ensure that nometropolitan planning organization is allocated less than the amount it received by administrative formula under this section in the fiscal year that ended September 30, 1991. To carry out this subsection, the Secretary may make a proportionate reduction in other amounts made available to carry out section 5338(g) of this title.
+(4) To the maximum extent practicable, the Secretary of Transportation shall ensure that no metropolitan planning organization is allocated less than the amount it received by administrative formula under this section in the fiscal year that ended September 30, 1991. To carry out this subsection, the Secretary may make a proportionate reduction in other amounts made available to carry out section 5338(g) of this title.
 
 (5) Amounts available for an activity under this subsection are for 80 percent of the cost of the activity unless the Secretary of Transportation decides it is in the interests of the Government not to require a State or local match.
 
@@ -162,7 +162,7 @@ Balanced and Comprehensive Planning.—(1) To the extent practicable, the Secret
 
 &emsp;(B) that is unobligated at the end of the 3-year period shall be reapportioned among the States for the next fiscal year.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 788; Pub. L. 104–287, §5(10), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–102, §2(4), Nov. 20, 1997, 111 Stat. 2204.)
 
 Historical and Revision Notes
 
@@ -258,11 +258,29 @@ In subsection (h)(6)(A), the words “for obligation”, “a period of”, and 
 
 This amends 49:5303(f)(2) and (h)(4) to correct erroneous cross-references.
 
+#### Pub. L. 105–102, §2(4)(A)
+
+This amends 49:5303(c)(1) to correct an erroneous cross-reference.
+
+#### Pub. L. 105–102, §2(4)(B)
+
+This amends 49:5303(c)(4)(A) to correct an erroneous cross-reference.
+
+#### Pub. L. 105–102, §2(4)(C)
+
+This amends 49:5303(c)(5)(A) to correct an erroneous cross-reference.
+
 #### References in Text
 
 The Clean Air Act, referred to in subsecs. (c)(5)(B), (d), (e)(3), and (f)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments
+
+1997—Subsec. (c)(1). Pub. L. 105–102, §2(4)(A), inserted “and sections 5304–5306 of this title” after “this section”.
+
+Subsec. (c)(4)(A). Pub. L. 105–102, §2(4)(B), substituted “paragraph (5)” for “paragraph (3)”.
+
+Subsec. (c)(5)(A). Pub. L. 105–102, §2(4)(C), inserted “and sections 5304–5306 of this title” after “this section”.
 
 1996—Subsec. (f)(2). Pub. L. 104–287, §5(10)(A), substituted “subsection (b)” for “subsection (e)”.
 
@@ -270,7 +288,7 @@ Subsec. (h)(4). Pub. L. 104–287, §5(10)(B), substituted “section 5338(g)”
 
 #### Effective Date of 1996 Amendment
 
-Section 8(1) of Pub. L. 104–287 provided that: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77), (78), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994.”
+Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994.”
 
 #### Section Referred to in Other Sections
 

@@ -17,7 +17,8 @@
 | [9104\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009104%20-%20Deputy%20Directors.md) | Deputy Directors. |
 | [9105\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009105%20-%20Personnel.md) | Personnel. |
 | (a) | In general. |
-| (b) | Voluntary services. |
+| (b) | Appointment and compensation of technical and professional employees. |
+| (c) | Voluntary services. |
 | [9106\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009106%20-%20Contributions.md) | Contributions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,10 +83,10 @@ I74subpart a—state requirements
 
 |  |  |
 | :--- | ---: |
-| [9161\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009161%20-%20Services%20for%20Indian%20tribes.md) | Services for Indian tribes. |
-| [9162\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009162%20-%20National%20leadership%20grants%20or%20contracts.md) | National leadership grants or contracts. |
+| [9161\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009161%20-%20Services%20for%20Native%20Americans.md) | Services for Native Americans. |
+| [9162\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009162%20-%20National%20leadership%20grants%2C%20contracts%2C%20or%20cooperative%20agreements.md) | National leadership grants, contracts, or cooperative agreements. |
 | (a) | In general. |
-| (b) | Grants or contracts. |
+| (b) | Grants, contracts, or cooperative agreements. |
 | (c) | Special rule. |
 | [9163\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/Part%20003%20-%20Administrative%20Provisions/Subpart%20b%20-%20Federal%20Requirements/%C2%A7%2009163%20-%20State%20and%20local%20initiatives.md) | State and local initiatives. |
 

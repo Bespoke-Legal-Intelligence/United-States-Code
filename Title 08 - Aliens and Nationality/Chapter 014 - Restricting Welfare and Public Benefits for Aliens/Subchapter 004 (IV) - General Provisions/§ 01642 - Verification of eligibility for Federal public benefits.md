@@ -2,9 +2,11 @@
 
 #### (a) In general
 
-(1) Not later than 18 months after August 22, 1996, the Attorney General of the United States, after consultation with the Secretary of Health and Human Services, shall promulgate regulations requiring verification that a person applying for a Federal public benefit (as defined in section 1611(c) of this title), to which the limitation under section 1611 of this title applies, is a qualified alien and is eligible to receive such benefit. Such regulations shall, to the extent feasible, require that information requested and exchanged be similar in form and manner to information requested and exchanged under section 1320b–7 of title 42.
+(1) Not later than 18 months after August 22, 1996, the Attorney General of the United States, after consultation with the Secretary of Health and Human Services, shall promulgate regulations requiring verification that a person applying for a Federal public benefit (as defined in section 1611(c) of this title), to which the limitation under section 1611 of this title applies, is a qualified alien and is eligible to receive such benefit. Such regulations shall, to the extent feasible, require that information requested and exchanged be similar in form and manner to information requested and exchanged under section 1320b–7 of title 42. Not later than 90 days after August 5, 1997, the Attorney General of the United States, after consultation with the Secretary of Health and Human Services, shall issue interim verification guidance.
 
 (2) Not later than 18 months after August 22, 1996, the Attorney General, in consultation with the Secretary of Health and Human Services, shall also establish procedures for a person applying for a Federal public benefit (as defined in section 1611(c) of this title) to provide proof of citizenship in a fair and nondiscriminatory manner.
+
+(3) Not later than 90 days after August 5, 1997, the Attorney General shall promulgate regulations which set forth the procedures by which a State or local government can verify whether an alien applying for a State or local public benefit is a qualified alien, a nonimmigrant under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], or an alien paroled into the United States under section 212(d)(5) of the Immigration and Nationality Act \[8 U.S.C. 1182(d)(5)\] for less than 1 year, for purposes of determining whether the alien is ineligible for benefits under section 1621 of this title.
 
 #### (b) State compliance
 
@@ -18,11 +20,23 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Subject to subsection (a) of this section, a nonprofit charitable organization, in providing any Federal public benefit (as defined in section 1611(c) of this title) or any State or local public benefit (as defined in section 1621(c) of this title), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
 
-(Pub. L. 104–193, title IV, §432, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title V, §§504, 508, Sept. 30, 1996, 110 Stat. 3009–672, 3009–673.)
+(Pub. L. 104–193, title IV, §432, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title V, §§504,508, Sept. 30, 1996, 110 Stat. 3009–672, 3009–673; Pub. L. 105–33, title V, §5572(a), Aug. 5, 1997, 111 Stat. 641.)
+
+#### References in Text
+
+The Immigration and Nationality Act, referred to in subsec. (a)(3), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–33, §5572(a)(1), inserted at end “Not later than 90 days after August 5, 1997, the Attorney General of the United States, after consultation with the Secretary of Health and Human Services, shall issue interim verification guidance.”
+
+Subsec. (a)(3). Pub. L. 105–33, §5572(a)(2), added par. (3).
 
 1996—Subsec. (a). Pub. L. 104–208, §504, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d). Pub. L. 104–208, §508, added subsec. (d).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 

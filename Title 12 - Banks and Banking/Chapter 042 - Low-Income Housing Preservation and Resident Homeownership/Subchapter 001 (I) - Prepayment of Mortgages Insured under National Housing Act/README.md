@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 4125, 4143, 4146 of this title; title 42 section 1437f.
+This subchapter is referred to in sections 4125, 4143, 4146 of this title.
 
 
 ---

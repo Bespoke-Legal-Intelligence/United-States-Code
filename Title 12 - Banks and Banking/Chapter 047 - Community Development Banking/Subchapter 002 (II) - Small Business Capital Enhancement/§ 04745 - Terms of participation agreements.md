@@ -92,7 +92,7 @@ In enrolling a loan under the Program, the participating State shall contribute 
 
 &emsp;If a participating financial institution charges off all or part of an enrolled loan, such participating financial institution may file a claim for reimbursement with the participating State by submitting a form that—
 
-&emsp;&emsp;(A) includes the representation by the participating financial institution that it is filing the claim in accordance with the termsof the applicable participation agreement; and
+&emsp;&emsp;(A) includes the representation by the participating financial institution that it is filing the claim in accordance with the terms of the applicable participation agreement; and
 
 &emsp;&emsp;(B) contains such other information as may be required by the participating State.
 
@@ -112,7 +112,7 @@ A claim filed by a participating financial institution may include the amount of
 
 #### (2) Insufficient reserve funds
 
-&emsp;If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participating financial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
+&emsp;If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participatingfinancial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
 
 &emsp;&emsp;(A) is not an early loan, such payment shall be deemed fully to satisfy the claim, and the participating financial institution shall have no other or further right to receive any amount from the reserve fund with respect to such claim; or
 
@@ -162,7 +162,7 @@ If, subsequent to payment of a claim by the participating State, a participating
 
 #### (2) Definitions
 
-&emsp;For purposes of this subsection, the terms “executive officer”, “director”, “principal shareholder”, “immediate family”, and “related interest” refer to the same relationship to a participating financial institution as the relationship described in part 215 of title 12 ofthe Code of Federal Regulations, or any successor to such part.
+&emsp;For purposes of this subsection, the terms “executive officer”, “director”, “principal shareholder”, “immediate family”, and “related interest” refer to the same relationship to a participating financial institution as the relationship described in part 215 of title 12 of the Code of Federal Regulations, or any successor to such part.
 
 #### (q) Termination clause
 

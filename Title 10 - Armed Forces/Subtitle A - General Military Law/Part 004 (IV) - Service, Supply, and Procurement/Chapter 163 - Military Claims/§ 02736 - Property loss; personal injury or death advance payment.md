@@ -4,7 +4,7 @@
 
 (2) Payments under this subsection are limited to payments which would otherwise be payable under section 2733 or 2734 of this title or section 715 of title 32.
 
-(3) The Secretary of a military department may delegate the authority to make payments under this subsection to the Judge Advocate General of an armed force under the jurisdiction of the Secretary. The Secretary may delegate such authority to any other officer or employee under the jurisdiction of the Secretary, but onlywith respect to the payment of amounts of $25,000 or less.
+(3) The Secretary of a military department may delegate the authority to make payments under this subsection to the Judge Advocate General of an armed force under the jurisdiction of the Secretary. The Secretary may delegate such authority to any other officer or employee under the jurisdiction of the Secretary, but only with respect to the payment of amounts of $25,000 or less.
 
 (4) Payments under this subsection shall be made under regulations prescribed by the Secretary of the military department concerned.
 

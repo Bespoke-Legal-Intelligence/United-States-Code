@@ -4,7 +4,7 @@
 
 (b) If the head of a department, bureau, agency, or independent establishment which has made any contract containing the provision required by subsection (a) of this section finds that in the performance of such contract there has been a failure to comply with such provisions, he shall make public his findings, including therein the name of the contractor obligated under such contract, and no other contract for the construction, alteration, or repair of any public building or public work in the United States or elsewhere shall be awarded to such contractor, subcontractors, material men, or suppliers with which such contractor is associated or affiliated, within a period of three years after such findings is made public.
 
-(Mar. 3, 1933, ch. 212, title III, §3, 47 Stat. 1520; Aug. 23, 1988, Pub. L. 100–418, title VII, §7005(c), 102 Stat. 1553.)
+(Mar. 3, 1933, ch. 212, title III, §3, 47 Stat. 1520; Pub. L. 100–418, title VII, §7005(c), Aug. 23, 1988, 102 Stat. 1553.)
 
 #### Amendments
 

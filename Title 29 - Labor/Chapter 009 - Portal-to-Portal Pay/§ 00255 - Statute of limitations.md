@@ -10,7 +10,7 @@ Any action commenced on or after May 14, 1947, to enforce any cause of action fo
 
 &emsp;(d) with respect to any cause of action brought under section 216(b) of this title against a State or a political subdivision of a State in a district court of the United States on or before April 18, 1973, the running of the statutory periods of limitation shall be deemed suspended during the period beginning with the commencement of any such action and ending one hundred and eighty days after the effective date of the Fair Labor Standards Amendments of 1974, except that such suspension shall not be applicable if in such action judgment has been entered for the defendant on the grounds other than State immunity from Federal jurisdiction.
 
-(May 14, 1947, ch. 52, §6, 61 Stat. 87; Sept. 23, 1966, Pub. L. 89–601, title VI, §601(b), 80 Stat. 844; Apr. 8, 1974, Pub. L. 93–259, §6(d)(2)(A), 88 Stat. 61.)
+(May 14, 1947, ch. 52, §6, 61 Stat. 87; Pub. L. 89–601, title VI, §601(b), Sept. 23, 1966, 80 Stat. 844; Pub. L. 93–259, §6(d)(2)(A), Apr. 8, 1974, 88 Stat. 61.)
 
 #### References in Text
 

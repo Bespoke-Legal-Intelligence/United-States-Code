@@ -20,7 +20,7 @@
 
 <i>Rights and duties of successors to lessees</i>—Any successor in interest or assignee of any lease granted under this section, whether by voluntary transfer, judicial sale, foreclosure sale, or otherwise, shall be subject to all the conditions of the lease under which such rights are held and also subject to all the provisions and conditions of this section to the same extent as though such successor or assign were the original lessee hereunder.
 
-<i>Forfeiture of leases; notice</i>—Any lease granted under this section may be forfeited and canceled by appropriate proceedings in the United States district court for the district in which said property or some part thereof is situated whenever the lessee, after reasonable notice in writing, as prescribed in the lease, shall fail to comply with the terms of this section or with such conditions not inconsistent herewith as may be specifically recited in the lease.
+<i>Forfeiture of leases; notice</i>—Any lease granted under this section may be forfeited and canceledby appropriate proceedings in the United States district court for the district in which said property or some part thereof is situated whenever the lessee, after reasonable notice in writing, as prescribed in the lease, shall fail to comply with the terms of this section or with such conditions not inconsistent herewith as may be specifically recited in the lease.
 
 <i>Royalties payable by lessees</i>—For the privilege of mining or extracting the mineral deposits in the ground covered by the lease the lessee shall pay to the United States, for the benefit of the Indians, a royalty which shall not be less than 5 per centum of the net value of the output of the minerals at the mine, due and payable at the end of each month succeeding that of the extraction of the minerals from the mine, and an annual rental, payable at the date of such lease and annually thereafter on the area covered by such lease, at the rate of not less than 25 cents per acre for the first calendar year thereafter; not less than 50 cents per acre for the second, third, fourth, and fifth years, respectively; and not less than $1 per acre for each and every year thereafter during the continuance of the lease, except that such rental for any year shall be credited against the royalties as they accrue for that year.
 
@@ -40,7 +40,7 @@
 
 <i>“Metalliferous” defined</i>—Wherever the term “metalliferous” is used in this section it shall be defined and construed by the Secretary of the Interior to include magnesite, gypsum, limestone, and asbestos.
 
-(June 30, 1919, ch. 4, §26, 41 Stat. 31; Mar. 3, 1921, ch. 119, 41 Stat. 1231; Dec. 16, 1926, ch. 12, 44 Stat. 922; Oct. 18, 1976, Pub. L. 94–550, §10, 90 Stat. 2536.)
+(June 30, 1919, ch. 4, §26, 41 Stat. 31; Mar. 3, 1921, ch. 119, 41 Stat. 1231; Dec. 16, 1926, ch. 12, 44 Stat. 922; Pub. L. 94–550, §10, Oct. 18, 1976, 90 Stat. 2536.)
 
 #### References in Text
 

@@ -22,5 +22,5 @@ State jurisdiction over offenses committed by or against Indians in the Indian c
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1162, 3598, 5032 of this title; title 25 sections 1725, 2442, 2802.
+This section is referred to in sections 1162, 3598, 4042, 5032 of this title; title 25 sections 1725, 2442, 2802.
 

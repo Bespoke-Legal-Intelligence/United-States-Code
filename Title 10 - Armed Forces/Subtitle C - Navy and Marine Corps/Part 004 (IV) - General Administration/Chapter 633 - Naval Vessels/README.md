@@ -26,10 +26,13 @@
 | \[7312. | Repealed.\] |
 | [7313\.](%C2%A7%2007313%20-%20Ship%20overhaul%20work%20availability%20of%20appropriations%20for%20unusual%20cost%20overruns%20and%20for%20changes%20in%20scope%20of%20work.md) | Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work. |
 | [7314\.](%C2%A7%2007314%20-%20Overhaul%20of%20naval%20vessels%20competition%20between%20public%20and%20private%20shipyards.md) | Overhaul of naval vessels: competition between public and private shipyards. |
+| [7315\.](%C2%A7%2007315%20-%20Preservation%20of%20Navy%20shipbuilding%20capability.md) | Preservation of Navy shipbuilding capability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title X, §1027(a)(2), Nov. 18, 1997, 111 Stat. 1879, added item 7315.
 
 1996—Pub. L. 104–106, div. A, title VIII, §815(b), Feb. 10, 1996, 110 Stat. 396, added item 7299.
 
@@ -92,3 +95,4 @@ Property records, basis, reports, see section 2721 of this title.
 - [&sect; 07312 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2001(j)(1), Oct. 13, 1994, 108 Stat. 3303](%C2%A7%2007312%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72001%28j%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203303.md)
 - [&sect; 07313 - Ship overhaul work availability of appropriations for unusual cost overruns and for changes in scope of work](%C2%A7%2007313%20-%20Ship%20overhaul%20work%20availability%20of%20appropriations%20for%20unusual%20cost%20overruns%20and%20for%20changes%20in%20scope%20of%20work.md)
 - [&sect; 07314 - Overhaul of naval vessels competition between public and private shipyards](%C2%A7%2007314%20-%20Overhaul%20of%20naval%20vessels%20competition%20between%20public%20and%20private%20shipyards.md)
+- [&sect; 07315 - Preservation of Navy shipbuilding capability](%C2%A7%2007315%20-%20Preservation%20of%20Navy%20shipbuilding%20capability.md)

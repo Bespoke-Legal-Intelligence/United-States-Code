@@ -76,7 +76,7 @@ Authorized changes.—
 
 &emsp;&emsp;(A)
 
-Election in favor of spouse or child.—A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject to paragraph (2), change that election and provide an annuity to his spouse or dependent child.
+Election in favor of spouse or child.—A person who elects to provide an annuity to a person designated by him under section 1448(b) of this title may, subject toparagraph (2), change that election and provide an annuity to his spouse or dependent child.
 
 &emsp;&emsp;(B)
 
@@ -84,7 +84,7 @@ Notice.—The Secretary concerned shall notify the former spouse or other natura
 
 &emsp;&emsp;(C)
 
-Procedures, effective date, etc.—Any such change of election is subject to the same rules with respect to execution, revocation, and effectiveness as are set forth in section 1448(a)(5) of this title (without regard to the eligibility of the person making the change of election to make such an election under that section).
+Procedures, effective date, etc.—Any such change of election is subject to the same rules with respect to execution, revocation, and effectiveness as are set forth in section 1448(a)(5) of this title (without regard to the eligibility of the person making the change of election to make such an election under that section). Notwithstanding the preceding sentence, a change of election under this subsection to provide an annuity to a spouse instead of a former spouse may (subject to paragraph (2)) be made at any time after the person providing the annuity remarries without regard to the time limitation in section 1448(a)(5)(B) of this title.
 
 &emsp;(2)
 
@@ -160,7 +160,7 @@ Exceptions.—Paragraph (1) does not apply to—
 
 (h)
 
-Treatment of Annuities Under Other Laws.—Except as provided in section 1451 of this title, an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Such annuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
+Treatment of Annuities Under Other Laws.—Except as provided in section 1451 of thistitle, an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Such annuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
 
 (i)
 
@@ -268,9 +268,11 @@ Collection from participant of annuity amounts erroneously paid.—A debt under 
 
 Collection from beneficiary.—If the participant dies before the full recovery of the amount of annuity payments described in subparagraph (A)(ii) has been made by the United States, the remaining amount of such annuity payments may be collected from the participant's beneficiary under the Plan if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 94–496, §1(3), (4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §§203, 207(b), (c), Sept. 30, 1978, 92 Stat. 845, 848; Pub. L. 97–22, §11(a)(3), July 10, 1981, 95 Stat. 137; Pub. L. 97–252, title X, §1003(c), (d), Sept. 8, 1982, 96 Stat. 736; Pub. L. 98–94, title IX, §941(a)(3), (c)(3), Sept. 24, 1983, 97 Stat. 653; Pub. L. 98–525, title VI, §§642(b), 644, Oct. 19, 1984, 98 Stat. 2546, 2548; Pub. L. 99–145, title VII, §§713(b), 717, 718, 719(4)–(6), (8)(A), 722, 723(a), (b)(1), title XIII, §1303(a)(11), Nov. 8, 1985, 99 Stat. 672, 674–677, 739; Pub. L. 99–661, div. A, title VI, §§641(a), (b)(2), (3), 643(a), title XIII, §1343(a)(8)(C), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 100–26, §3(3), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VI, §636(a), Dec. 4, 1987, 101 Stat. 1106; Pub. L. 100–224, §5(b)(1), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 101–189, div. A, title XIV, §1407(a)(2)–(4), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 103–337, div. A, title X, §1070(e)(3), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2561; Pub. L. 105–85, div. A, title VI, §642(a), Nov. 18, 1997, 111 Stat. 1799.)
 
 #### Amendments
+
+1997—Subsec. (f)(1)(C). Pub. L. 105–85 inserted at end “Notwithstanding the preceding sentence, a change of election under this subsection to provide an annuity to a spouse instead of a former spouse may (subject to paragraph (2)) be made at any time after the person providing the annuity remarries without regard to the time limitation in section 1448(a)(5)(B) of this title.”
 
 1996—Pub. L. 104–201 amended section generally, revising and restating provisions relating to payment of annuities and beneficiaries and inserting subsec., par., and subpar. headings.
 
@@ -382,6 +384,10 @@ Subsecs. (j), (k). Pub. L. 95–397, §203(2), added subsecs. (j) and (k).
 
 Subsec. (f). Pub. L. 94–496, §1(4), substituted “(a)(4)” for “(a)(3)”.
 
+#### Effective Date of 1997 Amendment
+
+Section 642(b) of Pub. L. 105–85 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to marriages occurring before, on, or after the date of the enactment of this Act \[Nov. 18, 1997\].”
+
 #### Effective Date of 1987 Amendments
 
 Section 636(b) of Pub. L. 100–180 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as if included in the amendments made by section 643(a) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3886) \[amending this section\].”
@@ -412,5 +418,5 @@ Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1448, 1451, 1452, 1455, 1457, 1458, 1460a of this title; title 38 section 1318.
+This section is referred to in sections 1448, 1448a, 1451, 1452, 1455, 1457, 1458, 1460a of this title; title 38 section 1318.
 

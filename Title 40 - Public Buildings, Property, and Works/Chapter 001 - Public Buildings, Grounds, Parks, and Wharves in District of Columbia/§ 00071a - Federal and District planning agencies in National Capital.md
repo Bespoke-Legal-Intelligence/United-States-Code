@@ -52,7 +52,7 @@ The Commission may establish, with the consent of each agency concerned as to it
 
 As hereinafter more specifically described in sections 71c to 71g of this title, it shall be among the principal duties of the Commission to (1) prepare, adopt, and amend a comprehensive plan for the Federal activities in the National Capital and make related recommendations to the appropriate developmental agencies; (2) serve as the central planning agency for the Federal Government within the National Capital region, and in such capacity to review their development programs in order to advise as to consistency with the comprehensive plan; and (3) be the representative of the Federal and District Governments for collaboration with the Regional Planning Council, as hereinafter provided.
 
-(June 6, 1924, ch. 270, §2, as added July 19, 1952, ch. 949, §1, 66 Stat. 782; amended Sept. 25, 1962, Pub. L. 87–683, 76 Stat. 575; 1967 Reorg. Plan No. 3, §401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Dec. 24, 1973, Pub. L. 93–198, title II, §203(a), (b), title IV, §§401, 421, 87 Stat. 779, 782, 785, 789.)
+(June 6, 1924, ch. 270, §2, as added July 19, 1952, ch. 949, §1, 66 Stat. 782; amended Pub. L. 87–683, Sept. 25, 1962, 76 Stat. 575; 1967 Reorg. Plan No. 3, §401, eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Pub. L. 93–198, title II, §203(a), (b), title IV, §§401, 421, Dec. 24, 1973, 87 Stat. 779, 782, 785, 789.)
 
 #### References in Text
 
@@ -104,13 +104,17 @@ Committee on the District of Columbia of House of Representatives abolished by H
 
 National Capital Regional Planning Council abolished by Reorg. Plan No. 5 of 1966, eff. Sept. 8, 1966, 31 F.R. 11857, 80 Stat. 1611, set out as a note under section 71b of this title.
 
-#### Definitions
-
-The definitions in section 1–202 of the District of Columbia Code apply to this section as amended by Pub. L. 93–198.
-
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Geographic Information System Fees
+
+Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1589, provided in part: “That beginning in fiscal year 1998 and thereafter, the Commission is authorized to charge fees to cover the full costs of Geographic Information System products and services supplied by the Commission, and such fees shall be credited to this account as an offsetting collection, to remain available until expended.”
+
+#### Definitions
+
+The definitions in section 1–202 of the District of Columbia Code apply to this section as amended by Pub. L. 93–198.
 
 #### Section Referred to in Other Sections
 

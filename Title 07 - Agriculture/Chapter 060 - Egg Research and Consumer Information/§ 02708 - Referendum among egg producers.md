@@ -16,7 +16,7 @@ The Secretary shall conduct a referendum among egg producers not exempt hereunde
 
 &emsp;(ii) a majority of the producers voting in the referendum, if the majority produced not less than two-thirds of all the commercial eggs produced by the producers voting during a representative period defined by the Secretary.
 
-(3)(A) In the case of the order in effect on December 14, 1993, the Egg Board shall determineunder paragraph (1), as soon as practicable after December 14, 1993, whether to request that the Secretary conduct a referendum under paragraph (2).
+(3)(A) In the case of the order in effect on December 14, 1993, the Egg Board shall determine under paragraph (1), as soon as practicable after December 14, 1993, whether to request that the Secretary conduct a referendum under paragraph (2).
 
 (B) If the Egg Board makes such a request on the basis of competent evidence, as provided in paragraph (1), the Secretary shall conduct the referendum as soon as practicable, but not later than—
 

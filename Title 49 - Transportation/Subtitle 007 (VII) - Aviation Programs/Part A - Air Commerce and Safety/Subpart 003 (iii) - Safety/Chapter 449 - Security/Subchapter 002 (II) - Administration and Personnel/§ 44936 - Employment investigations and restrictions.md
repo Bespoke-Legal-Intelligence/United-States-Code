@@ -104,7 +104,7 @@ Records of Employment of Pilot Applicants.—
 
 &emsp;(1)
 
-In general.—Before hiring an individual as a pilot, an air carrier shall request and receive the following information:
+In general.—Subject to paragraph (14), before allowing an individual to begin service as a pilot, an air carrier shall request and receive the following information:
 
 &emsp;&emsp;(A)
 
@@ -116,7 +116,7 @@ FAA records.—From the Administrator of the Federal Aviation Administration, re
 
 &emsp;&emsp;(B)
 
-Air carrier and other records.—From any air carrier or other person that has employed the individual at any time during the 5-year period preceding the date of the employment application of the individual, or from the trustee in bankruptcy for such air carrier or person—
+Air carrier and other records.—From any air carrier or other person that has employed the individual as a pilot of a civil or public aircraft at any time during the 5-year period preceding the date of the employment application of the individual, or from the trustee in bankruptcy for such air carrier or person—
 
 &emsp;&emsp;&emsp;(i) records pertaining to the individual that are maintained by an air carrier (other than records relating to flight time, duty time, or rest time) under regulations set forth in—
 
@@ -140,7 +140,7 @@ Air carrier and other records.—From any air carrier or other person that has e
 
 &emsp;&emsp;(C)
 
-National driver register records.—In accordance with section 30305(b)(7),<sup>1</sup> from the chief driver licensing official of a State, information concerning the motor vehicle driving record of the individual.
+National driver register records.—In accordance with section 30305(b)(8) of this title, from the chief driver licensing official of a State, information concerning the motor vehicle driving record of the individual.
 
 &emsp;(2)
 
@@ -156,11 +156,11 @@ year reporting period.—A person shall not furnish a record in response to a re
 
 &emsp;(4)
 
-Requirement to maintain records.—The Administrator shall maintain pilot records described in paragraph (1)(A) for a period of at least 5 years.
+Requirement to maintain records.—The Administrator and air carriers shall maintain pilot records described in paragraphs (1)(A) and (1)(B) for a period of at least 5 years.
 
 &emsp;(5)
 
-Receipt of consent; provision of information.—A person shall not furnish a record in response to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested. A person who receives a request for records under this paragraph shall furnish a copy of all of such requested records maintained by the person not later than 30 days after receiving the request.
+Receipt of consent; provision of information.—A person shall not furnish a record in response to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested. A person who receives a request for records under this subsection shall furnish a copy of all of such requested records maintained by the person not later than 30 days after receiving the request.
 
 &emsp;(6)
 
@@ -196,7 +196,7 @@ Right to correct inaccuracies.—An air carrier that maintains or requests and r
 
 &emsp;(10)
 
-Right of pilot to review certain records.—Notwithstanding any other provision of law or agreement, an air carrier shall, upon written request from a pilot employed by such carrier, make available, within a reasonable time of the request, to the pilot for review, any and all employment records referred to in paragraph (1)(B)(i) or (ii) pertaining to the employment of the pilot.
+Right of pilot to review certain records.—Notwithstanding any other provision of law or agreement, an air carrier shall, upon written request from a pilot who is or has been employed by such carrier, make available, within a reasonable time, but not later than 30 days after the date of the request, to the pilot for review, any and all employment records referred to in paragraph (1)(B)(i) or (ii) pertaining to the employment of the pilot.
 
 &emsp;(11)
 
@@ -223,6 +223,18 @@ Regulations.—The Administrator may prescribe such regulations as may be necess
 &emsp;&emsp;(B) to preclude the further dissemination of records received under paragraph (1) by the person who requested those records; and
 
 &emsp;&emsp;(C) to ensure prompt compliance with any request made under paragraph (1).
+
+&emsp;(14)
+
+Special rules with respect to certain pilots.—
+
+&emsp;&emsp;(A)
+
+Pilots of certain small aircraft.—Notwithstanding paragraph (1), an air carrier, before receiving information requested about an individual under paragraph (1), may allow the individual to begin service for a period not to exceed 90 days as a pilot of an aircraft with a maximum payload capacity (as defined in section 119.3 of title 14, Code of Federal Regulations) of 7,500 pounds or less, or a helicopter, on a flight that is not a scheduled operation (as defined in such section). Before the end of the 90-day period, the air carrier shall obtain and evaluate such information. The contract between the carrier and the individual shall contain a term that provides that the continuation of the individual's employment, after the last day of the 90-day period, depends on a satisfactory evaluation.
+
+&emsp;&emsp;(B)
+
+Good faith exception.—Notwithstanding paragraph (1), an air carrier, without obtaining information about an individual under paragraph (1)(B) from an air carrier or other person that no longer exists, may allow the individual to begin service as a pilot if the air carrier required to request the information has made a documented good faith attempt to obtain such information.
 
 (g)
 
@@ -258,9 +270,11 @@ Provision of knowingly false information.—Paragraphs (1) and (2) shall not app
 
 Limitation on Statutory Construction.—Nothing in subsection (f) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1218; Pub. L. 104–264, title III, §§304(a), 306, title V, §502(a), Oct. 9, 1996, 110 Stat. 3251, 3252, 3259.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1218; Pub. L. 104–264, title III, §§304(a), 306, title V, §502(a), Oct. 9, 1996, 110 Stat. 3251, 3252, 3259; Pub. L. 105–102, §2(25), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–142, §1, Dec. 5, 1997, 111 Stat. 2650.)
 
 Historical and Revision Notes
+
+Pub. L. 103–272
 
 <i>Revised</i>
 
@@ -312,13 +326,29 @@ In subsection (c)(2), before clause (A), the words “For purposes of administer
 
 In subsection (e), the words “a law of a foreign country” are substituted for “applicable laws of a foreign government” for clarity and consistency in the revised title and with other titles of the United States Code.
 
-#### References in Text
+#### Pub. L. 105–102
 
-Section 30305(b)(7) of this title, referred to in subsec. (f)(1)(C), was redesignated section 30305(b)(8) and a new section 30305(b)(7) added by Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908.
+This amends 49:44936(f)(1)(C) to reflect the redesignation of 49:30305(b)(7) as 49:30305(b)(8) by section 207(b) of the Coast Guard Authorization Act of 1996 (Public Law 104–324, 110 Stat. 3908).
+
+#### References in Text
 
 The date of the enactment of the Pilot Records Improvement Act of 1996, referred to in subsec. (f)(12), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
 
 #### Amendments
+
+1997—Subsec. (f)(1). Pub. L. 105–142, §1(1), substituted “Subject to paragraph (14), before allowing an individual to begin service” for “Before hiring an individual” in introductory provisions.
+
+Subsec. (f)(1)(B). Pub. L. 105–142, §1(2), inserted “as a pilot of a civil or public aircraft” before “at any time” in introductory provisions.
+
+Subsec. (f)(1)(C). Pub. L. 105–102 substituted “section 30305(b)(8) of this title” for “section 30305(b)(7)”.
+
+Subsec. (f)(4). Pub. L. 105–142, §1(3), inserted “and air carriers” after “Administrator” and substituted “paragraphs (1)(A) and (1)(B)” for “paragraph (1)(A)”.
+
+Subsec. (f)(5). Pub. L. 105–142, §1(4), substituted “this subsection” for “this paragraph”.
+
+Subsec. (f)(10). Pub. L. 105–142, §1(5), inserted “who is or has been” before “employed” and “, but not later than 30 days after the date” after “reasonable time”.
+
+Subsec. (f)(14). Pub. L. 105–142, §1(6), added par. (14).
 
 1996—Subsec. (a)(1). Pub. L. 104–264, §304(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, and added subpars. (B) to (D).
 
@@ -337,6 +367,4 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 106, 40109, 40119, 44915, 44937 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

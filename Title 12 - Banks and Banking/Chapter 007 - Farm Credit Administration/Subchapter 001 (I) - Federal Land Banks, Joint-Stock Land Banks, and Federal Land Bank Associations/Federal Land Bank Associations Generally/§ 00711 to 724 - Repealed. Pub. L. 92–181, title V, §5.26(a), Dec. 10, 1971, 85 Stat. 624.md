@@ -18,7 +18,7 @@ Section 718, act July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Ex. Ord. No
 
 Section 719, acts July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 19, 1937, ch. 704, §8, 50 Stat. 707; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, covered grant or refusal of charters to land bank associations. See section 2031 et seq. of this title.
 
-Section 720, acts July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, authorized receipt of funds to be loaned to members. See section 2033 of this title.
+Section 720, acts July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73Stat. 387, authorized receipt of funds to be loaned to members. See section 2033 of this title.
 
 Section 721, acts July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, covered subscriptions to land bank stock as collateral and retirement of stock. See section 2034 of this title.
 

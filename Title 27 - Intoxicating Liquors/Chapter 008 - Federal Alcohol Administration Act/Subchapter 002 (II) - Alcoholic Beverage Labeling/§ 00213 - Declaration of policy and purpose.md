@@ -12,7 +12,7 @@ The Congress finds that the American public should be informed about the health 
 
 &emsp;&emsp;(C) protected from the adverse effects that would result from a noncomprehensive program covering alcoholic beverage containers sold in interstate commerce, but not alcoholic beverage containers manufactured and sold within a single State.
 
-(Aug. 29, 1935, ch. 814, title II, §202, as added Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(3), 102 Stat. 4518.)
+(Aug. 29, 1935, ch. 814, title II, §202, as added Pub. L. 100–690, title VIII, §8001(a)(3), Nov. 18, 1988, 102 Stat. 4518.)
 
 #### Effective Date
 

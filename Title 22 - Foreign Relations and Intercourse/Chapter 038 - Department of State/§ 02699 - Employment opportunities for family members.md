@@ -8,7 +8,7 @@
 
 &emsp;(2) could, as certified in writing by the United States chief of mission to such country, damage the interests of the United States.
 
-(Aug. 1, 1956, ch. 841, title I, §27, as added Oct. 17, 1980, Pub. L. 96–465, title II, §2201(a), 94 Stat. 2154; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282.)
+(Aug. 1, 1956, ch. 841, title I, §27, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2154; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 
 #### Effective Date
 

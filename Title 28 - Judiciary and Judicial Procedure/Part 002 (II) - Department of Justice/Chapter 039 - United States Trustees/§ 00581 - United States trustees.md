@@ -56,7 +56,7 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–554, §111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
 
 &emsp;“(1) District of Maine, District of New Hampshire, District of Massachusetts, and District of Rhode Island.
 
@@ -254,7 +254,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;&emsp;“(ii) apply to cases while pending in such district before,
 
-> &emsp;such district elects to be included in a bankruptcy region established in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, or October 1, 2002, whichever occurs first, except that the amendment to section 105(a) of title 11, United States Code, shall become effective as of the date of the enactment of the Federal Courts Study Committee Implementation Act of 1990 \[Dec. 1, 1990\].
+> &emsp;such district elects to be included in a bankruptcy region established in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, or October 1, 2002, whichever occurs first, except that the amendment to section 105(a) of title 11, UnitedStates Code, shall become effective as of the date of the enactment of the Federal Courts Study Committee Implementation Act of 1990 \[Dec. 1, 1990\].
 
 &emsp;“(B) Any election under subparagraph (A) shall be made upon a majority vote of the chief judge of such district and each bankruptcy judge in such judicial district in favor of such election.
 
@@ -290,7 +290,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;“(I) In any judicial district in the State of Alabama or the State of North Carolina that has not made the election described in subparagraph (A), any person who is appointed under regulations issued by the Judicial Conference of the United States to administer estates in cases under title 11 of the United States Code may—
 
-&emsp;&emsp;“(i) establish, maintain, and supervise a panel of private trustees that are eligible and available toserve as trustees in cases under title 11, United States Code, and
+&emsp;&emsp;“(i) establish, maintain, and supervise a panel of private trustees that are eligible and available to serve as trustees in cases under title 11, United States Code, and
 
 &emsp;&emsp;“(ii) supervise the administration of cases and trustees in cases under chapters 7, 11, 12, and 13 of title 11, United States Code,
 
@@ -392,7 +392,7 @@ of Title 11.—The rules prescribed under section 2075 of title 28, United State
 
 “(a)
 
-Temporary Delay of Repeal of United States Trustee System.—Effective immediately before November 10, 1986, section 408(c) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2687), is amended by striking out ‘November 10, 1986’ and inserting in lieuthereof ‘30 days after the effective date of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 \[Pub. L. 99–554\]’.
+Temporary Delay of Repeal of United States Trustee System.—Effective immediately before November 10, 1986, section 408(c) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2687), is amended by striking out ‘November 10, 1986’ and inserting in lieu thereof ‘30 days after the effective date of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 \[Pub. L. 99–554\]’.
 
 “(b)
 
@@ -492,7 +492,7 @@ Availability to Certain Governmental Entities.—Unlimited access to information
 
 “(g)
 
-Fees for Other Users.—(1) The entity which is awarded a contract to provide the electronic case management system demonstrated under this project may,under guidelines established by the Director of the Executive Office for the United States Trustees in the provisions of such contract, collect reasonable fees from assets of the estate of the debtor in bankruptcy for providing notices and services to the court and trustees under the demonstration project.
+Fees for Other Users.—(1) The entity which is awarded a contract to provide the electronic case management system demonstrated under this project may, under guidelines established by the Director of the Executive Office for the United States Trustees in the provisions of such contract, collect reasonable fees from assets of the estate of the debtor in bankruptcy for providing notices and services to the court and trustees under the demonstration project.
 
 “(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
 

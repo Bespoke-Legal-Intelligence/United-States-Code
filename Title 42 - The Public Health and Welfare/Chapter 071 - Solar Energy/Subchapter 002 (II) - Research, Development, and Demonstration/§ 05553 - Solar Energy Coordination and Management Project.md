@@ -22,7 +22,7 @@ There is hereby established the Solar Energy Coordination and Management Project
 
 (2) The President shall designate one member of the Project to serve as Chairman of the Project.
 
-(3) If the individual designated under paragraph (1)(F) is an officer or employee of the Federal Government, he shall receive no additional pay on account of his service as a member of the Project. If such individual is not an officer or employee of the Federal Government, he shall be entitled to receive the daily equivalent of the annual rate of basic pay in effect for level IV of the Executive Schedule (5 U.S.C. 5315) for each day (including traveltime) during which he isengaged in the actual performance of duties vested in the Project.
+(3) If the individual designated under paragraph (1)(F) is an officer or employee of the Federal Government, he shall receive no additional pay on account of his service as a member of the Project. If such individual is not an officer or employee of the Federal Government, he shall be entitled to receive the daily equivalent of the annual rate of basic pay in effect for level IV of the Executive Schedule (5 U.S.C. 5315) for each day (including traveltime) during which he is engaged in the actual performance of duties vested in the Project.
 
 #### (c) Responsibilities
 
@@ -62,7 +62,7 @@ The National Aeronautics and Space Administration is authorized to undertake and
 
 #### Transfer of Functions
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of this title.
+Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred toSecretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of this title.
 
 For transfer of functions of Federal Power Commission, with certain reservations, to chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1,2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 

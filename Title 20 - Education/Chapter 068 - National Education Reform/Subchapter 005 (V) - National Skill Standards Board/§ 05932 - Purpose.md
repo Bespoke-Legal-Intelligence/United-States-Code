@@ -28,7 +28,7 @@ It is the purpose of this subchapter to establish a National Skill Standards Boa
 
 &emsp;&emsp;(G) by training providers and educators, to determine appropriate training services to offer;
 
-&emsp;&emsp;(H) by government, to evaluate whether publicly funded training assists participants to meet skill standards where such standards exist and thereby protect the integrity of public expenditures;
+&emsp;&emsp;(H) by government, to evaluate whether publicly funded training assists participantsto meet skill standards where such standards exist and thereby protect the integrity of public expenditures;
 
 &emsp;&emsp;(I) to facilitate the transition to high performance work organizations;
 

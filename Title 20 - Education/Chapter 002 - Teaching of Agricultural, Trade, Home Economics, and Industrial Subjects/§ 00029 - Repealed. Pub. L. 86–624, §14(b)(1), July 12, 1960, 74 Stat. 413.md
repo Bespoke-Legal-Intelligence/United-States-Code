@@ -4,5 +4,5 @@ Section, act Mar. 10, 1924, ch. 46, §4, 43 Stat. 18, extended benefits of chapt
 
 #### Effective Date of Repeal
 
-Repeal applicable in the case of fiscal years beginning after June 30, 1960, see section 47(c) of Pub. L. 86–624, set out as an Effective Date of 1960 Amendment note under section 12 of this title.
+Section 47(c) of Pub. L. 86–624 provided that: “The amendment made by paragraphs (1) and (2) of subsection (b) and paragraphs (1), (2), and (3) of subsection (d) of section 14 \[amending sections 12, 14, and 238 of this title and repealing this section\] shall be applicable in the case of fiscal years beginning after June 30, 1960.”
 

@@ -8,13 +8,13 @@
 
 #### (b) Report to Congress
 
-The Secretary of Defense shall submit to Congress a report on the amount of Department of Defense purchases from foreign entities in fiscal year 1997. Such report shall separately indicate the dollar value of items for which the Buy American Act was waived pursuant to any agreement described in subsection (a)(2) of this section, the Trade Agreement Act of 1979 (19 U.S.C. 2501 et seq.), or any international agreement to which the United States is a party.
+The Secretary of Defense shall submit to Congress a report on the amount of Department of Defense purchases from foreign entities in fiscal year 1998. Such report shall separately indicate the dollar value of items for which the Buy American Act was waived pursuant to any agreement described in subsection (a)(2) of this section, the Trade Agreement Act of 1979 (19 U.S.C. 2501 et seq.), or any international agreement to which the United States is a party.
 
 #### (c) “Buy American Act” defined
 
 For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933 (41 U.S.C. 10a et seq.).
 
-(Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8042\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–97.)
+(Pub. L. 105–56, title VIII, §8040, Oct. 8, 1997, 111 Stat. 1229.)
 
 #### References in Text
 
@@ -25,6 +25,8 @@ The Trade Agreement Act of 1979, referred to in subsec. (b), probably means the 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior acts:
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8042\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–97.
 
 Pub. L. 104–61, title VIII, §8051, Dec. 1, 1995, 109 Stat. 662.
 
@@ -52,5 +54,5 @@ Buy American Act Waiver Rescissions.—(1) If the Secretary of Defense, after co
 
 “(d)
 
-Definition.—For purposes of this section, the term ‘Buy American Act’ means title III of the Act entitled ‘An Act making appropriations for the Treasuryand Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes’, approved March 3, 1933 (41 U.S.C. 10a et seq.).”
+Definition.—For purposes of this section, the term ‘Buy American Act’ means title III of the Act entitled ‘An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes’, approved March 3, 1933 (41 U.S.C. 10a et seq.).”
 

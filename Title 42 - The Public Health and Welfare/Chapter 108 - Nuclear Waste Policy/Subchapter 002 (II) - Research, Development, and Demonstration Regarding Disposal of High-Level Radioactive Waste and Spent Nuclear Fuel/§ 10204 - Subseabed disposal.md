@@ -8,7 +8,7 @@
 
 (2) The Director of the Office of Subseabed Disposal Research shall be responsible for carrying out research, development, and demonstration activities on all aspects of subseabed disposal of high-level radioactive waste and spent nuclear fuel, subject to the general supervision of the Secretary. The Director of the Office shall be directly responsible to the Director of the Office of Energy Research, and the first such Director shall be appointed within 30 days of December 22, 1987.
 
-(3) In carrying out his responsibilities under this chapter, the Secretary may make grants to, or enter into contracts with, the Subseabed Consortium described in subsection (d) of this section, and other persons.
+(3) In carrying out his responsibilities under this chapter, the Secretary may make grants to,or enter into contracts with, the Subseabed Consortium described in subsection (d) of this section, and other persons.
 
 (4)(A) Within 60 days of December 22, 1987, the Secretary shall establish a university-based Subseabed Consortium involving leading oceanographic universities and institutions, national laboratories, and other organizations to investigate the technical and institutional feasibility of subseabed disposal.
 

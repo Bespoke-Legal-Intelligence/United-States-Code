@@ -30,7 +30,7 @@ The statements or information required to be included in a prospectus by or unde
 
 #### (f) Prospectus consisting of radio or television broadcast
 
-In any case where a prospectus consists of a radio or television broadcast, copies thereof shall be filed with the Commission under such rules and regulations as it shall prescribe. The Commission may by rules and regulations require the filing with it of forms and prospectuses used in connection with the offer or sale of securities registered under this subchapter.
+In any case where a prospectus consists of a radio or television broadcast, copies thereof shall be filed with the Commission under suchrules and regulations as it shall prescribe. The Commission may by rules and regulations require the filing with it of forms and prospectuses used in connection with the offer or sale of securities registered under this subchapter.
 
 (May 27, 1933, ch. 38, title I, §10, 48 Stat. 81; June 6, 1934, ch. 404, title II, §205, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §8, 68 Stat. 685.)
 

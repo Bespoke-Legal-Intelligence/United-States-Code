@@ -36,7 +36,7 @@ Programs that receive assistance under this division may carry out activities th
 
 &emsp;&emsp;(A) State, local, and regional governmental agencies;
 
-&emsp;&emsp;(B) nursing homes, hospices, senior centers, hospitals, local libraries, parks, recreational facilities, child and adult day carecenters, programs serving individuals with disabilities, and schools;
+&emsp;&emsp;(B) nursing homes, hospices, senior centers, hospitals, local libraries, parks, recreational facilities, child and adult day care centers, programs serving individuals with disabilities, and schools;
 
 &emsp;&emsp;(C) law enforcement agencies,<sup>1</sup> and penal and probation systems;
 

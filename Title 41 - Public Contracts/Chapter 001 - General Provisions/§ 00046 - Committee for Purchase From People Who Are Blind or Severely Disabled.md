@@ -68,7 +68,7 @@ The Administrator of General Services shall provide to the Committee on a reimbu
 
 The Committee shall, not later than December 31 of each year, transmit to the President and to the Congress a report which shall include the names of the Committee members serving in the preceding fiscal year, the dates of Committee meetings in that year, a description of its activities under sections 46 to 48c of this title in that year, and any recommendations for changes in sections 46 to 48c of this title which it determines are necessary.
 
-(June 25, 1938, ch. 697, §1, 52 Stat. 1196; June 23, 1971, Pub. L. 92–28, §1, 85 Stat. 77; July 25, 1974, Pub. L. 93–358, §1(1), (2), 88 Stat. 392, 393; Apr. 21, 1976, Pub. L. 94–273, §8(2), 90 Stat. 378; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; June 13, 1991, Pub. L. 102–54, §13(p), 105 Stat. 278; Oct. 29, 1992, Pub. L. 102–569, title IX, §911(a), 106 Stat. 4486; Aug. 11, 1993, Pub. L. 103–73, title III, §301, 107 Stat. 736.)
+(June 25, 1938, ch. 697, §1, 52 Stat. 1196; Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 77; Pub. L. 93–358, §1(1), (2), July 25, 1974, 88 Stat. 392, 393; Pub. L. 94–273, §8(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–54, §13(p), June 13, 1991, 105 Stat. 278; Pub. L. 102–569, title IX, §911(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, §301, Aug. 11, 1993, 107 Stat. 736.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Act Referred to in Other Sections
 
-The Javits-Wagner-O'Day Act is referred to in section 253 of this title; title 10 sections 2304, 2461; title 29 section 721; title 40 sections 481, 490c.
+The Javits-Wagner-O'Day Act is referred to in section 253 of this title; title 10 sections 2304, 2461; title 15 section 657a; title 29 section 721; title 40 sections 481, 490c.
 
 #### Section Referred to in Other Sections
 

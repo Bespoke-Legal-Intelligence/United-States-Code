@@ -13,6 +13,8 @@
 
 1966—Pub. L. 89–718, §12(a)(2), Nov. 2, 1966, 80 Stat. 1117, added item 1524.
 
+<i><sup>1</sup></i><i> So in original. Probably should be section “1509(a)(1)”.</i>
+
 
 ---
 

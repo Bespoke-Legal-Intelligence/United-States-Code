@@ -6,7 +6,7 @@ There is authorized to be appropriated to carry out this part—
 
 &emsp;(1) the sum of $10,000,000 for the fiscal year ending on September 30, 1981; and
 
-&emsp;(2) the sum equal to $10,000,000 minus the amount appropriated for the fiscal year ending on September 30, 1981, under the authorization contained in this section, for the fiscal year ending on September 30, 1982.
+&emsp;(2) the sum equal to $10,000,000 minus the amount appropriated for the fiscal year endingon September 30, 1981, under the authorization contained in this section, for the fiscal year ending on September 30, 1982.
 
 #### (b) Availability
 

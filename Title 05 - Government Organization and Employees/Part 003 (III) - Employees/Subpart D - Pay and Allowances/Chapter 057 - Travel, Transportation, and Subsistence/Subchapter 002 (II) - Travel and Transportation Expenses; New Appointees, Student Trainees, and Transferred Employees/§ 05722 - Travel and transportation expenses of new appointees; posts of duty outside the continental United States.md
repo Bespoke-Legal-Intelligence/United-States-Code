@@ -72,5 +72,5 @@ Section 1724 of title XVII of div. A of Pub. L. 104–201 provided that: “No l
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5724, 5726, 5727 of this title; title 22 section 3650.
+This section is referred to in sections 5724, 5726, 5727 of this title.
 

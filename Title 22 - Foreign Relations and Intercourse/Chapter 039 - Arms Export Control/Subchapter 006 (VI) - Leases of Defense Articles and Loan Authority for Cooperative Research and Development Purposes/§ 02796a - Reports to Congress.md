@@ -20,7 +20,7 @@ The President may waive the requirements of this section (and in the case of an 
 
 The certification required by subsection (a) of this section shall be transmitted—
 
-&emsp;(1) not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North Atlantic Treaty Organization, any member country of that Organization or Australia, Japan, or New Zealand; and
+&emsp;(1) not less than 15 calendar days before the agreement is entered into or renewed in the case of an agreement with the North AtlanticTreaty Organization, any member country of that Organization or Australia, Japan, or New Zealand; and
 
 &emsp;(2) not less than 30 calendar days before the agreement is entered into or renewed in the case of an agreement with any other organization or country.
 

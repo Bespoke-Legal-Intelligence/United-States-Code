@@ -2,7 +2,7 @@
 
 This subchapter may be cited as the “Railroad Retirement Act of 1974”.
 
-(Aug. 29, 1935, ch. 812, §21, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I, §101, 88 Stat. 1351.)
+(Aug. 29, 1935, ch. 812, §21, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1351.)
 
 #### References in Text
 

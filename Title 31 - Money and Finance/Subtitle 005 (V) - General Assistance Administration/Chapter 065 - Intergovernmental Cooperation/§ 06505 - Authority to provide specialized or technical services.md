@@ -50,9 +50,17 @@ In the section, the words “executive agency” are substituted for “Federal 
 
 In subsection (a), the source provisions are consolidated to eliminate an unnecessary definition. The word “President” is substituted for “Director of the Office of Management and Budget” in 42:4222(proviso, words after proviso) because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “rules and regulations” are omitted as unnecessary.
 
-In subsection (b), the word “may” is substituted for “is authorized within his discretion” for clarity and to omit unnecessary words. The words “specialized ortechnical services” are omitted because of consolidation of the source provisions. The words “direct or indirect” are omitted as surplus.
+In subsection (b), the word “may” is substituted for “is authorized within his discretion” for clarity and to omit unnecessary words. The words “specialized or technical services” are omitted because of consolidation of the source provisions. The words “direct or indirect” are omitted as surplus.
 
 In subsection (c), the word “Payment” is substituted for “moneys” for consistency in the section. The words “All” and “or any bureau or other administrative division thereof” are omitted as surplus.
 
 In subsection (d), the words “and does not supersede” are omitted as unnecessary. The words “authority under another law in effect on October 16, 1968” are substituted for “authority now possessed” for clarity. The words “by any Federal department or agency with respect to furnishing services, whether on a reimbursable or nonreimbursable basis, to State and local units of government” are omitted as unnecessary.
+
+#### Transportation of State Prisoners
+
+Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2444, provided in part: “That, for fiscal year 1998 and thereafter, the service of maintaining and transporting State, local, or territorial prisoners shall be considered a specialized or technical service for purposes of 31 U.S.C. 6505, and any prisoners so transported shall be considered persons (transported for other than commercial purposes) whose presence is associated with the performance of a governmental function for purposes of 49 U.S.C. 40102.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–5.
 

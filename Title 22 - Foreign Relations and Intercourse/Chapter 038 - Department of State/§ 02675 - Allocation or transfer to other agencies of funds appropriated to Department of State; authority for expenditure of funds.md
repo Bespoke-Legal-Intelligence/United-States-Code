@@ -2,7 +2,7 @@
 
 The Secretary of State may allocate or transfer to any department, agency, or independent establishment of the United States Government (with the consent of the head of such department, agency, or establishment) any funds appropriated to the Department of State, for direct expenditure by such department, agency, or independent establishment for the purposes for which the funds were appropriated in accordance with authority granted in this Act or under authority governing the activities of such department, agency, or independent establishment.
 
-(Aug. 1, 1956, ch. 841, title I, §8, 70 Stat. 891; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Nov. 22, 1983, Pub. L. 98–164, title I, §121, 97 Stat. 1023.)
+(Aug. 1, 1956, ch. 841, title I, §8, 70 Stat. 891; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–164, title I, §121, Nov. 22, 1983, 97 Stat. 1023.)
 
 #### References in Text
 

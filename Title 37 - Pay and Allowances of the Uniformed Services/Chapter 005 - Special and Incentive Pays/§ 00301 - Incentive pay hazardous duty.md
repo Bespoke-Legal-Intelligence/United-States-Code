@@ -16,7 +16,7 @@
 
 &emsp;(7) as a human test subject in thermal stress experiments;
 
-&emsp;(8) involving frequent and regular participation in flight operations on the flight deck ofan aircraft carrier or of a ship other than an aircraft carrier from which aircraft are launched;
+&emsp;(8) involving frequent and regular participation in flight operations on the flight deck of an aircraft carrier or of a ship other than an aircraft carrier from which aircraft are launched;
 
 &emsp;(9) involving frequent and regular exposure to highly toxic pesticides or involving laboratory work that utilizes live dangerous viruses or bacteria;
 
@@ -32,19 +32,19 @@ Monthly Rate
 
 &nbsp;&nbsp;O–10
 
-$110&nbsp;&nbsp;
+$150&nbsp;&nbsp;
 
 &nbsp;&nbsp;O–9
 
-110&nbsp;&nbsp;
+150&nbsp;&nbsp;
 
 &nbsp;&nbsp;O–8
 
-110&nbsp;&nbsp;
+150&nbsp;&nbsp;
 
 &nbsp;&nbsp;O–7
 
-110&nbsp;&nbsp;
+150&nbsp;&nbsp;
 
 &nbsp;&nbsp;O–6
 
@@ -68,7 +68,7 @@ $110&nbsp;&nbsp;
 
 &nbsp;&nbsp;O–1
 
-125&nbsp;&nbsp;
+150&nbsp;&nbsp;
 
 &nbsp;&nbsp;W–5
 
@@ -88,7 +88,7 @@ $110&nbsp;&nbsp;
 
 &nbsp;&nbsp;W–1
 
-125&nbsp;&nbsp;
+150&nbsp;&nbsp;
 
 &nbsp;&nbsp;E–9
 
@@ -112,23 +112,23 @@ $110&nbsp;&nbsp;
 
 &nbsp;&nbsp;E–4
 
-125&nbsp;&nbsp;
+150&nbsp;&nbsp;
 
 &nbsp;&nbsp;E–3
 
-110&nbsp;&nbsp;
+150&nbsp;&nbsp;
 
 &nbsp;&nbsp;E–2
 
-110&nbsp;&nbsp;
+150&nbsp;&nbsp;
 
 &nbsp;&nbsp;E–1
 
-110&nbsp;&nbsp;
+150&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(c)(1) For the performance of hazardous duty described in clauses (2) through (10) of subsection (a), a member is entitled to $110 a month. However, a member performing hazardous duty described in clause (3) of that subsection who also performs as an essential part of such duty parachute jumping in military free fall operations involving parachute deployment by the jumper without the use of a static line is entitled to $165 a month.
+(c)(1) For the performance of hazardous duty described in clauses (2) through (10) of subsection (a), a member is entitled to $150 a month. However, a member performing hazardous duty described in clause (3) of that subsection who also performs as an essential part of such duty parachute jumping in military free fall operations involving parachute deployment by the jumper without the use of a static line is entitled to $225 a month.
 
 (2)(A) For the performance of hazardous duty described in clause (11) of subsection (a), a member is entitled to monthly incentive pay based upon his years of service as an air weapons controller as follows:
 
@@ -141,25 +141,25 @@ $110&nbsp;&nbsp;
 | O–6 | 225 | 250 | 300 | 325 | 350 | 350 | 350 | 350 |
 | O–5 | 200 | 250 | 300 | 325 | 350 | 350 | 350 | 350 |
 | O–4 | 175 | 225 | 275 | 300 | 350 | 350 | 350 | 350 |
-| O–3 | 125 | 156 | 188 | 206 | 350 | 350 | 350 | 350 |
-| O–2 | 125 | 156 | 188 | 206 | 250 | 300 | 300 | 300 |
-| O–1 | 125 | 156 | 188 | 206 | 250 | 250 | 250 | 250 |
+| O–3 | 150 | 156 | 188 | 206 | 350 | 350 | 350 | 350 |
+| O–2 | 150 | 156 | 188 | 206 | 250 | 300 | 300 | 300 |
+| O–1 | 150 | 156 | 188 | 206 | 250 | 250 | 250 | 250 |
 | W–4 | 200 | 225 | 275 | 300 | 325 | 325 | 325 | 325 |
 | W–3 | 175 | 225 | 275 | 300 | 325 | 325 | 325 | 325 |
 | W–2 | 150 | 200 | 250 | 275 | 325 | 325 | 325 | 325 |
-| W–1 | 100 | 125 | 150 | 175 | 325 | 325 | 325 | 325 |
+| W–1 | 150 | 150 | 150 | 175 | 325 | 325 | 325 | 325 |
 | E–9 | 200 | 225 | 250 | 275 | 300 | 300 | 300 | 300 |
 | E–8 | 200 | 225 | 250 | 275 | 300 | 300 | 300 | 300 |
 | E–7 | 175 | 200 | 225 | 250 | 275 | 275 | 275 | 300 |
 | E–6 | 156 | 175 | 200 | 225 | 250 | 250 | 250 | 300 |
-| E–5 | 125 | 156 | 175 | 188 | 200 | 200 | 200 | 250 |
-| E–4 and below | 125 | 156 | 175 | 188 | 200 | 200 | 200 | 200 |
+| E–5 | 150 | 156 | 175 | 188 | 200 | 200 | 200 | 250 |
+| E–4 and below | 150 | 156 | 175 | 188 | 200 | 200 | 200 | 200 |
 |  |  |  |  |  |  |  |  |  |
 | &nbsp; | Over | Over | Over | Over | Over | Over | Over |  |
 | &nbsp; | 14 | 16 | 18 | 20 | 22 | 24 | 25 |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
-| O–7 and above | $200 | $200 | $200 | $200 | $200 | $200 | $110 | &nbsp; |
+| O–7 and above | $200 | $200 | $200 | $200 | $200 | $200 | $150 | &nbsp; |
 | O–6 | 350 | 350 | 350 | 300 | 250 | 250 | 225 | &nbsp; |
 | O–5 | 350 | 350 | 350 | 300 | 250 | 250 | 225 | &nbsp; |
 | O–4 | 350 | 350 | 350 | 300 | 250 | 250 | 225 | &nbsp; |
@@ -175,7 +175,7 @@ $110&nbsp;&nbsp;
 | E–7 | 300 | 300 | 300 | 265 | 230 | 200 | 200 | &nbsp; |
 | E–6 | 300 | 300 | 300 | 265 | 230 | 200 | 200 | &nbsp; |
 | E–5 | 250 | 250 | 250 | 225 | 200 | 175 | 150 | &nbsp; |
-| E–4 and below | 200 | 200 | 200 | 175 | 150 | 125 | 125 | &nbsp; |
+| E–4 and below | 200 | 200 | 200 | 175 | 150 | 150 | 150 | &nbsp; |
 
 (B) For purposes of this paragraph, the years of service of a member as an air weapons controller shall be computed, under regulations prescribed by the Secretary concerned, from the date the member begins training leading to a designation as an air weapons controller, but there shall be excluded from such computation any period of more than 90 days during which the member performs primary duties other than as an air weapons controller.
 
@@ -191,7 +191,7 @@ $110&nbsp;&nbsp;
 
 (C) In this paragraph, the term,<sup>1</sup> “units” means the significant increments of performance prescribed as qualifying standards in regulations promulgated by the President pursuant to this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–132, §§6–8, Oct. 2, 1963, 77 Stat. 215, 216; Pub. L. 89–149, §§1–3, Aug. 28, 1965, 79 Stat. 585; Pub. L. 89–278, Oct. 20, 1965, 79 Stat. 1011; Pub. L. 89–718, §52, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–436, title VI, §605, Sept. 26, 1972, 86 Stat. 740; Pub. L. 93–294, §2(1), (2), May 31, 1974, 88 Stat. 177; Pub. L. 96–343, §2(a), Sept. 8, 1980, 94 Stat. 1123; Pub. L. 96–513, title V, §516(5), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §3(a)–(c), Dec. 23, 1980, 94 Stat. 3360; Pub. L. 97–60, title I, §111(a)–(c), Oct. 14, 1981, 95 Stat. 992, 993; Pub. L. 98–94, title IX, §903(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §624(a), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 99–145, title VI, §§635(a), 647(a), title XIII, §1303(b)(2), Nov. 8, 1985, 99 Stat. 647, 655, 740; Pub. L. 99–661, div. A, title XIII, §1342(a), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–26, §8(d)(1), (e)(2), Apr. 21, 1987, 101 Stat. 285, 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §614, title XI, §1111(d)(1), Dec. 5, 1991, 105 Stat. 1377, 1492; Pub. L. 104–106, div. A, title VI, §615, Feb. 10, 1996, 110 Stat. 361.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–132, §§6–8, Oct. 2, 1963, 77 Stat. 215, 216; Pub. L. 89–149, §§1–3, Aug. 28, 1965, 79 Stat. 585; Pub. L. 89–278, Oct. 20, 1965, 79 Stat. 1011; Pub. L. 89–718, §52, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–436, title VI, §605, Sept. 26, 1972, 86 Stat. 740; Pub. L. 93–294, §2(1), (2), May 31, 1974, 88 Stat. 177; Pub. L. 96–343, §2(a), Sept. 8, 1980, 94 Stat. 1123; Pub. L. 96–513, title V, §516(5), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §3(a)–(c), Dec. 23, 1980, 94 Stat. 3360; Pub. L. 97–60, title I, §111(a)–(c), Oct. 14, 1981, 95 Stat. 992, 993; Pub. L. 98–94, title IX, §903(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §624(a), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 99–145, title VI, §§635(a), 647(a), title XIII, §1303(b)(2), Nov. 8, 1985, 99 Stat. 647, 655, 740; Pub. L. 99–661, div. A, title XIII, §1342(a), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–26, §8(d)(1), (e)(2), Apr. 21, 1987, 101 Stat. 285, 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §614, title XI, §1111(d)(1), Dec. 5, 1991, 105 Stat. 1377, 1492; Pub. L. 104–106, div. A, title VI, §615, Feb. 10, 1996, 110 Stat. 361; Pub. L. 105–85, div. A, title VI, §614, Nov. 18, 1997, 111 Stat. 1786.)
 
 Historical and Revision Notes
 
@@ -249,13 +249,21 @@ In subsection (g), the words “entitled to incentive pay under section 301(a)(1
 
 #### Amendments
 
+1997—Subsec. (b). Pub. L. 105–85, §614(a)(2), in table substituted “150” for “125” as monthly rate for pay grades O–1, W–1, and E–4.
+
+Pub. L. 105–85, §614(a)(1), in table substituted “150” for “110” as monthly rate for pay grades O–7 to O–10 and E–1 to E–3.
+
+Subsec. (c)(1). Pub. L. 105–85, §614(c), substituted “$150” for “$110” and “$225” for “$165”.
+
+Subsec. (c)(2)(A). Pub. L. 105–85, §614(b), in table substituted “150” for “100” in first column for pay grade W–1, “150” for “110” in last column for pay grade O–7 and above, and “150” for “125” in first column for pay grades O–1 to O–3, E–4 and below, and E–5, in second column for pay grade W–1, and in fourteenth and fifteenth columns for pay grade E–4 and below.
+
 1996—Subsec. (a)(11). Pub. L. 104–106, §615(a), substituted “a member” for “an officer (other than a warrant officer)”.
 
 Subsec. (c)(2)(A). Pub. L. 104–106, §615(c)(1), substituted “a member” for “an officer” in provisions before table.
 
 Pub. L. 104–106, §615(b), amended table generally, adding provisions relating to pay grades W–1 through W–4 and E–4 and below through E–9.
 
-Subsec. (c)(2)(B). Pub. L. 104–106, §615(c) substituted “a member” for “an officer” and substituted “the member” for “the officer” in two places.
+Subsec. (c)(2)(B). Pub. L. 104–106, §615(c), substituted “a member” for “an officer” and substituted “the member” for “the officer” in two places.
 
 1991—Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
 
@@ -311,7 +319,7 @@ Subsec. (a)(3). Pub. L. 96–579, §3(a), redesignated cl. (5) as (3) and struck
 
 Subsec. (a)(4) to (12). Pub. L. 96–579, §3(a), redesignated cls. (4) to (12) as (2) to (10), respectively.
 
-Subsec. (b). Pub. L. 96–579, §3(b), struck out par. (1) designation for provision relating to monthly flight incentive pay for enlisted members and struck out par. (2) relating to monthly incentive pay for commissioned officers, warrant officers, and enlisted members for hazardous duty as crew member involving frequent and regular participation in aerial flight, submarine duty, and duty as an operator or crew member of an operational, self-propelled submersible, including undersea exploration and research vehicles, now reflected as to enlisted members in currently upgraded scale in subsec. (b) table and covered in section 301c(b) table reflecting currently upgraded scale for submarine duty by enlisted members, commissioned officers, and warrant officers.
+Subsec. (b). Pub. L. 96–579, §3(b), struck out par. (1) designation for provision relating to monthly flight incentive pay for enlisted members and struck out par. (2) relating to monthly incentive pay for commissioned officers, warrant officers, and enlisted members for hazardous duty as crew member involving frequent and regular participation in aerial flight, submarine duty,and duty as an operator or crew member of an operational, self-propelled submersible, including undersea exploration and research vehicles, now reflected as to enlisted members in currently upgraded scale in subsec. (b) table and covered in section 301c(b) table reflecting currently upgraded scale for submarine duty by enlisted members, commissioned officers, and warrant officers.
 
 Pub. L. 96–343 redesignated existing provision as par. (2), substituted “(2) or (3)” for “(1), (2), or (3)”, and added par. (1).
 
@@ -345,7 +353,7 @@ Amendment by section 1111(d)(1) of Pub. L. 102–190 effective Feb. 1, 1992, see
 
 #### Effective Date of 1986 Amendment
 
-Section 1342(h)(1) of Pub. L. 99–661 provided that: “The amendments made by subsections (a) through (d) \[amending this section and section 302 of this title and provisions set out as notes under sections 302b and 403a of this title\] shall take effect on October 1, 1986, or the date of the enactment of this Act \[Nov. 14, 1986\], whichever is later.”
+Section 1342(h)(1) of Pub. L. 99–661 provided that: “The amendments made by subsections (a) through (d) \[amending this section and section 302 of this title and provisions set out as notes under sections 302b and 403 of this title\] shall take effect on October 1, 1986, or the date of the enactment of this Act \[Nov. 14, 1986\], whichever is later.”
 
 #### Effective Date of 1985 Amendment
 
@@ -387,7 +395,7 @@ Ex. Ord. No. 10152, Aug. 17, 1950, 15 F.R. 5489, as amended by Ex. Ord. No. 1061
 
 #### Ex. Ord. No. 11157. Regulations Relating to Incentive Pay, Special Pay, and Allowances
 
-Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No. 12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, provided:
+Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex.Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No. 12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, provided:
 
 By virtue of the authority vested in me by sections 301(a) and (f), 305(a), 402(f), and 403(g) of title 37 of the United States Code, and as President of the United States and Commander in Chief of the armed forces of the United States, it is hereby ordered as follows:
 
@@ -445,7 +453,7 @@ Sec. 104. Under such regulations as the Secretary concerned may prescribe, membe
 
 (ii) on active-duty and inactive-duty training, if the inactive-duty flight requirement for such month has been met.
 
-Sec. 105. Members shall not be entitled to receive incentive pay for participation in aerial flights for any period while suspended from such participation, unless such suspension is subsequently removed and the minimum flight requirements prescribed in section 104 hereof have been complied with, except as otherwise provided in section 110 and 114 hereof.
+Sec. 105. Members shall not be entitled to receive incentive pay for participation in aerial flights for any period while suspended from such participation, unlesssuch suspension is subsequently removed and the minimum flight requirements prescribed in section 104 hereof have been complied with, except as otherwise provided in section 110 and 114 hereof.
 
 Sec. 106. (a) As determined by the Secretary of the Navy, a member who is entitled to basic pay, who holds or is in training leading to a submarine duty designator, and who is in and remains in the submarine service on a career basis, is entitled to continuous monthly submarine duty incentive pay, subject to the performance of the required number of years of operational submarine duty (37 U.S.C. 301c(a)(3)–(4)), except as provided by 37 U.S.C. 301c(c).
 
@@ -481,9 +489,9 @@ Sec. 109. As used in section 301(a) of title 37 of the United States Code—
 
 (e) The term “duty as human test subject in thermal stress experiments” shall be construed to mean duty performed by members exposed as human thermal experimental subjects in thermal stress experiments conducted under the supervision of any laboratory designated by the Secretary concerned.
 
-(f) The term “duty involving frequent and regular participation in flight operations on the flight deck of an aircraft carrier or of a ship other than an aircraft carrier from which aircraft are launched” shall be construed to mean duty performed by members who are designated for and ordered to such duty by competent authority from among the crew of a ship from which aircraft are launched or an aviation unit operating from that type of ship, and who, in any calendar month (1) participate in flight operations on the flight deck during a minimum of four days, or (2) participate, on the flight deck, in a minimum number of aircraft launches or recoveries, or both, that is prescribed by the Secretary concerned as the equivalent of participation under clause (1). No member shall be entitled, however, to receive the pay provided for in this subsection if, during any month or portion thereof, he is also eligible to receive incentive pay for other hazardous duty under the provisions of Section 301 of Title 37, United States Code.
+(f) The term “duty involving frequent and regular participation in flight operations on the flight deck of an aircraft carrier or of a ship other than an aircraft carrier from which aircraft are launched” shall be construed to mean duty performed by members who are designated for and ordered to such duty by competent authority from among the crew of a ship from which aircraft are launched or an aviation unit operating from that type of ship, and who, in any calendar month (1) participate in flight operations on the flight deck during a minimum of four days, or (2) participate, onthe flight deck, in a minimum number of aircraft launches or recoveries, or both, that is prescribed by the Secretary concerned as the equivalent of participation under clause (1). No member shall be entitled, however, to receive the pay provided for in this subsection if, during any month or portion thereof, he is also eligible to receive incentive pay for other hazardous duty under the provisions of Section 301 of Title 37, United States Code.
 
-(g) The term “duty involving the servicing of aircraft or missiles with highly toxic fuels or propellants or the testing of aircraft or missile systems (or components of such systems) during which highly toxic fuels or propellants are used” shall be construed to mean duty performed by members as a primary duty that requires (1) removal, replacement, and servicing of the emergency power unit of an aircraft with H–70 propellant (30 percent water, 70 percent hydrazine); (2) participation by those personnel performing duties described in (g)(1) who must also participate in an emergency response force, spill containment, or spill cleanup involving H–70 propellant (30 percent water, 70 percent hydrazine); (3) handling and maintaining the liquid propellants (liquid oxidizer-nitrogen tetroxide; unsymmetrical dimethyl hydrazine) used in the Titan weapon system, if such duty requires qualification in the use of the Rocket Fuel Handler's Clothing Outfit and involves (A) launch duct operations, including flow, pressurization, on-load, set-up or tear down involving propellant transfer operations; (B) set-up, installation or tear down for fuel/oxidizer flow; (C) decontamination of equipment, including, but not limited to, the Rocket Fuel Handler's Clothing Outfit; (D) venting or pressurizing missile fuel or oxidizer tanks; (E) removing or replacing missile components while missile fuel and oxidizer tanks are loaded with such propellants; (F) transferring propellants between commercial and military holding trailers, or between holding trailers and fuel/oxidizer pump rooms; or normal preventive maintenance activities including, but not limited to, seal changes; (4) handling and maintaining the propellants, unsymmetrical dimethyl hydrazine and inhibited red-fuming nitric acid, used in the LANCE missile system; (5) handling, transporting or working with toxic fuels/propellants by members assigned to the Air Force Rocket Propulsion Lab (AFRPL) who (A) directly manage and inspect the activities of crew members conducting operations involving experimental rocket propulsion systems and components; (B) directly monitor and set up measurement instruments in operational areas where contamination is suspected or may be physically present; (C) install and remove instrumentation devices from propulsion systems and components; (D) perform final test preparation and immediate safety inspection duties around pressurized, active systems during prerun and postrun test periods; or, (E) install and repair electrical systems; (6) handling, loading/unloading and transporting toxic fuels and oxidizers at the precision sled track while working with the liquid rocket sled, which uses JP–X (a mixture of jet fuel (JP–4) and unsymmetrical dimethyl hydrazine) and red-fuming nitric acid and a propulsion; or (7) involvement with other toxic substances contained in missile or aircraft weapon system fuels or propellants as determined by the Secretary concerned. The entitlement to the pay provided for in this subsection is based upon the performance of suchduty which has the potential for accidental or inadvertent exposure to highly toxic fuels or propellants or related substances and not upon actual quantifiable exposure to such substances. Therefore, neither this construction of the term nor the receipt of the pay provided for in this subsection may be construed as indicating that any person entitled to such pay has been actually exposed to highly toxic fuels or propellants or related substances contrary to the provisions of any statute, Executive order, rule, or regulation relating to health or safety which is applicable to the uniformed services.
+(g) The term “duty involving the servicing of aircraft or missiles with highly toxic fuels or propellants or the testing of aircraft or missile systems (or components of such systems) during which highly toxic fuels or propellants are used” shall be construed to mean duty performed by members as a primary duty that requires (1) removal, replacement, and servicing of the emergency power unit of an aircraft with H–70 propellant (30 percent water, 70 percent hydrazine); (2) participation by those personnel performing duties described in (g)(1) who must also participate in an emergency response force, spill containment, or spill cleanup involving H–70 propellant (30 percent water, 70 percent hydrazine); (3) handling and maintaining the liquid propellants (liquid oxidizer-nitrogen tetroxide; unsymmetrical dimethyl hydrazine) used in the Titan weapon system, if such duty requires qualification in the use of the Rocket Fuel Handler's Clothing Outfit and involves (A) launch duct operations, including flow, pressurization, on-load, set-up or tear down involving propellant transfer operations; (B) set-up, installation or tear down for fuel/oxidizer flow; (C) decontamination of equipment, including, but not limited to, the Rocket Fuel Handler's Clothing Outfit; (D) venting or pressurizing missile fuel or oxidizer tanks; (E) removing or replacing missile components while missile fuel and oxidizer tanks are loaded with such propellants; (F) transferring propellants between commercial and military holding trailers, or between holding trailers and fuel/oxidizer pump rooms; or normal preventive maintenance activities including, but not limited to, seal changes; (4) handling and maintaining the propellants, unsymmetrical dimethyl hydrazine and inhibited red-fuming nitric acid, used in the LANCE missile system; (5) handling, transporting or working with toxic fuels/propellants by members assigned to the Air Force Rocket Propulsion Lab (AFRPL) who (A) directly manage and inspect the activities of crew members conducting operations involving experimental rocket propulsion systems and components; (B) directly monitor and set up measurement instruments in operational areas where contamination is suspected or may be physically present; (C) install and remove instrumentation devices from propulsion systems and components; (D) perform final test preparation and immediate safety inspection duties around pressurized, active systems during prerun and postrun test periods; or, (E) install and repair electrical systems; (6) handling, loading/unloading and transporting toxic fuels and oxidizers at the precision sled track while working with the liquid rocket sled, which uses JP–X (a mixture of jet fuel (JP–4) and unsymmetrical dimethyl hydrazine) and red-fuming nitric acid and a propulsion; or (7) involvement with other toxic substances contained in missile or aircraft weapon system fuels or propellants as determined by the Secretary concerned. The entitlement to the pay provided for in this subsection is based upon the performance of such duty which has the potential for accidental or inadvertent exposure to highly toxic fuels or propellants or related substances and not upon actual quantifiable exposure to such substances. Therefore, neither this construction of the term nor the receipt of the pay provided for in this subsection may be construed as indicating that any person entitled to such pay has been actually exposed to highly toxic fuels or propellants or related substances contrary to the provisions of any statute, Executive order, rule, or regulation relating to health or safety which is applicable to the uniformed services.
 
 (h) The term “duty involving frequent and regular exposure to highly toxic pesticides” shall be construed to mean duty performed by members who, while under competent orders assigning such members to the entomology, pest control, pest management, or preventive medicine functions of a uniformed service for a period of 30 consecutive days or more, are required to perform in any calendar month a fumigation task utilizing (1) phosphine, sulfuryl fluoride, hydrogen cyanide, methyl bromide, or (2) a fumigant of comparable high acute toxicity and hazard potential. The use of solid fumigant formulations, such as aluminum phosphide, magnesium phosphide and calcium cyanide, in the outdoor control of burrowing animals does not qualify a member for incentive pay under this subsection.
 
@@ -515,7 +523,7 @@ Sec. 201. (a) The following members of a uniformed service who are entitled to r
 
 (b) The period of sea duty shall include the date of reporting and the date of detachment as stated in orders. Career sea pay shall be at the rates prescribed in Section 305a of Title 37 of the United States Code.
 
-Sec. 202. A member of a uniformed service who is entitled to career sea pay and who has served 36 consecutive months of sea duty as such period is computed under regulations of the Secretary concerned, is entitled to a monthly career sea pay premium for the thirty-seventh consecutive month and each subsequent consecutive month of sea duty service by such member when such member is entitled to career sea pay. In the regulations published by the Secretary concerned, the term “consecutive months of sea duty” may be defined to include periods during which a member is serving in or under orders to duties, service in which qualifies the member for career sea pay, either periodically or continuously during assignment to such duties. Examplesof such periods are periods of service as a member of a two crewed submarine or fleet aviation units assigned to ships, or periods for training, hospitalization, or other periods of a similar nature.
+Sec. 202. A member of a uniformed service who is entitled to career sea pay and who has served 36 consecutive months of sea duty as such period is computed under regulations of the Secretary concerned, is entitled to a monthly career sea pay premium for the thirty-seventh consecutive month and each subsequent consecutive month of sea duty service by such member when such member is entitled to career sea pay. In the regulations published by the Secretary concerned, the term “consecutive months of sea duty” may be defined to include periods during which a member is serving in or under orders to duties, service in which qualifies the member for career sea pay, either periodically or continuously during assignment to such duties. Examples of such periods are periods of service as a member of a two crewed submarine or fleet aviation units assigned to ships, or periods for training, hospitalization, or other periods of a similar nature.
 
 Sec. 203. The Secretaries concerned (within the meaning of section 101(5) of title 37, United States Code) with respect to personnel of the uniformed service within their respective departments, are hereby authorized to prescribe such supplementary regulations, not inconsistent herewith, as they may deem necessary or desirable for carrying out the provisions of sections 305 and 305a of title 37 and this Executive Order. Such regulations shall be uniform for all the services to the fullest extent possible.
 
@@ -535,7 +543,7 @@ Sec. 302. The Secretary of Defense, the Secretary of Transportation, the Secreta
 
 Sec. 303. As used in regulations prescribed pursuant to section 302 hereof, those terms of the said section 402 of title 37 of the United States Code which are quoted in the subsections of this section shall have the meaning or application stated with respect thereto:
 
-(a) The term “entitled to receive basic pay” shall be considered applicable to members while they are on the active list or while they are required to perform duty in accordance with law for which they are entitled to basic pay: <i>Provided</i>, that such term shall not be applicable to any member while absent from duty under conditions which, under laws governing the particular service concerned, would prevent him from receiving full basic pay.
+(a) The term “entitled to receive basic pay” shall be considered applicable to members while they are on the active list or while they are required to perform dutyin accordance with law for which they are entitled to basic pay: <i>Provided</i>, that such term shall not be applicable to any member while absent from duty under conditions which, under laws governing the particular service concerned, would prevent him from receiving full basic pay.
 
 (b) The term “when rations in kind are not available” shall be considered applicable in the case of enlisted members on duty at stations where it is determined, in accordance with regulations prescribed pursuant to section 302 hereof, that it is impracticable for subsistence in kind to be furnished by the United States.
 

@@ -66,7 +66,7 @@ Subsec. (a)(6). Pub. L. 104–324, §732(2), inserted “as measured under secti
 
 1990—Subsec. (a)(3). Pub. L. 101–595, §602(e)(2)(A), substituted “vessel (except a fish tender vessel engaged in the Aleutian trade)” for “vessel”.
 
-Subsec. (b)(2). Pub. L. 101–595, §602(e)(2)(B), inserted provisions authorizing reduction to 50 percent of the deck crew in the case of a fish tender vessel engaged in the Aleutian trade.
+Subsec. (b)(2). Pub. L. 101–595, §602(e)(2)(B), inserted provisions authorizing reduction to 50 percent of thedeck crew in the case of a fish tender vessel engaged in the Aleutian trade.
 
 Subsec. (e). Pub. L. 101–380 substituted “$10,000” for “$500”.
 

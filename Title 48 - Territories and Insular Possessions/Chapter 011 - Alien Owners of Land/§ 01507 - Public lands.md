@@ -1,6 +1,6 @@
 ### §1507. Public lands
 
-This chapter shall not in any manner be construed to authorize aliens to acquire title from the United States to any of the public lands ofthe United States or to in any manner affect or change the laws regulating the disposal of the public lands of the United States.
+This chapter shall not in any manner be construed to authorize aliens to acquire title from the United States to any of the public lands of the United States or to in any manner affect or change the laws regulating the disposal of the public lands of the United States.
 
 (Mar. 3, 1887, ch. 340, §7, as added Mar. 2, 1897, ch. 363, 29 Stat. 619; amended Feb. 23, 1905, ch. 733, §1, 33 Stat. 733.)
 

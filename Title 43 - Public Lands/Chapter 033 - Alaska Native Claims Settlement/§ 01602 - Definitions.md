@@ -1,0 +1,84 @@
+### §1602. Definitions
+
+For the purposes of this chapter, the term—
+
+(a) “Secretary” means the Secretary of the Interior;
+
+(b) “Native” means a citizen of the United States who is a person of one-fourth degree or more Alaska Indian (including Tsimshian Indians not enrolled in the Metlaktla <sup>1</sup> Indian Community) Eskimo, or Aleut blood, or combination thereof. The term includes any Native as so defined either or both of whose adoptive parents are not Natives. It also includes, in the absence of proof of a minimum blood quantum, any citizen of the United States who is regarded as an Alaska Native by the Native village or Native group of which he claims to be a member and whose father or mother is (or, if deceased, was) regarded as Native by any village or group. Any decision of the Secretary regarding eligibility for enrollment shall be final;
+
+(c) “Native village” means any tribe, band, clan, group, village, community, or association in Alaska listed in sections 1610 and 1615 of this title, or which meets the requirements of this chapter, and which the Secretary determines was, on the 1970 census enumeration date (as shown by the census or other evidence satisfactory to the Secretary, who shall make findings of fact in each instance), composed of twenty-five or more Natives;
+
+(d) “Native group” means any tribe, band, clan, village, community, or village association of Natives in Alaska composed of less than twenty-five Natives, who comprise a majority of the residents of the locality;
+
+(e) “Public lands” means all Federal lands and interests therein located in Alaska except: (1) the smallest practicable tract, as determined by the Secretary, enclosing land actually used in connection with the administration of any Federal installation, and (2) land selections of the State of Alaska which have been patented or tentatively approved under section 6(g) of the Alaska Statehood Act, as amended (72 Stat. 341, 77 Stat. 223), or identified for selection by the State prior to January 17, 1969;
+
+(f) “State” means the State of Alaska;
+
+(g) “Regional Corporation” means an Alaska Native Regional Corporation established under the laws of the State of Alaska in accordance with the provisions of this chapter;
+
+(h) “Person” means any individual, group, firm, corporation, association, or partnership;
+
+(i) “Municipal Corporation” means any general unit of municipal government under the laws of the State of Alaska;
+
+(j) “Village Corporation” means an Alaska Native Village Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of a Native village in accordance with the terms of this chapter.<sup>2</sup>
+
+(k) “Fund” means the Alaska Native Fund in the Treasury of the United States established by section 1605 of this title;
+
+(<i>l</i>) “Planning Commission” means the Joint Federal-State Land Use Planning Commission established by section 1616 of this title;
+
+(m) “Native Corporation” means any Regional Corporation, any Village Corporation, any Urban Corporation, and any Group Corporation;
+
+(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manageand/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
+
+(<i>o</i>) “Urban Corporation” means an Alaska Native Urban Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of an urban community of Natives in accordance with the terms of this chapter;
+
+(p) “Settlement Common Stock” means stock of a Native Corporation issued pursuant to section 1606(g)(1) of this title that carries with it the rights and restrictions listed in section 1606(h)(1) of this title;
+
+(q) “Replacement Common Stock” means stock of a Native Corporation issued in exchange for Settlement Common Stock pursuant to section 1606(h)(3) of this title;
+
+(r) “Descendant of a Native” means—
+
+&emsp;(1) a lineal descendant of a Native or of an individual who would have been a Native if such individual were alive on December 18, 1971, or
+
+&emsp;(2) an adoptee of a Native or of a descendant of a Native, whose adoption—
+
+&emsp;&emsp;(A) occurred prior to his or her majority, and
+
+&emsp;&emsp;(B) is recognized at law or in equity;
+
+(s) “Alienability restrictions” means the restrictions imposed on Settlement Common Stock by section 1606(h)(1)(B) of this title;
+
+(t) “Settlement Trust” means a trust—
+
+&emsp;(1) established and registered by a Native Corporation under the laws of the State of Alaska pursuant to a resolution of its shareholders, and
+
+&emsp;(2) operated for the sole benefit of the holders of the corporation's Settlement Common Stock in accordance with section 1629e of this title and the laws of the State of Alaska.
+
+(Pub. L. 92–203, §3, Dec. 18, 1971, 85 Stat. 689; Pub. L. 96–487, title XIV, §1401(d), Dec. 2, 1980, 94 Stat. 2492; Pub. L. 100–241, §3, Feb. 3, 1988, 101 Stat. 1789.)
+
+#### References in Text
+
+Section 6(g) of the Alaska Statehood Act, as amended, referred to in subsec. (e), is section 6(g) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
+
+#### Amendments
+
+1988—Subsec. (h). Pub. L. 100–241, §3(1), inserted “group,” after “individual,”.
+
+Subsec. (k). Pub. L. 100–241, §3(2), struck out “and” at end.
+
+Subsec. (<i>l</i>). Pub. L. 100–241, §3(3), substituted semicolon for period.
+
+Subsec. (m). Pub. L. 100–241, §3(4), substituted “Group Corporation;” for “Native Group.”
+
+Subsecs. (n) to (t). Pub. L. 100–241, §3(5), added subsecs. (n) to (t).
+
+1980—Subsec. (m). Pub. L. 96–487 added subsec. (m).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1615, 1626, 1641 of this title; title 16 sections 470w, 620e, 1722, 3102; title 20 sections 1106b, 7938; title 25 sections 472a, 1903, 2012, 3103; title 38 section 3764; title 42 sections 300f, 6949a, 9832, 10101, 12511, 12584; title 45 section 1202.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Metlakatla”.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+

@@ -4,7 +4,7 @@
 
 (b)(1) If any State fails or declines to create or designate a State approving agency, or fails to enter into an agreement under section 3674(a), the provisions of this chapter which refer to the State approving agency shall, with respect to such State, be deemed to refer to the Secretary.
 
-(2) In the case of courses subject to approval by the Secretary under section 3672 of this title, the provisions of this chapter which refer to a State approving agency shall be deemed to refer to the Secretary.
+(2) In the case of courses subject to approval by the Secretary under section 3672 of this title, the provisions of this chapter which refer to aState approving agency shall be deemed to refer to the Secretary.
 
 (Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 158, §1771; amended Pub. L. 89–358, §3(a)(6), Mar. 3, 1966, 80 Stat. 20; Pub. L. 92–540, title IV, §403(2), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, §513(a)(1), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 100–323, §13(b)(4), May 20, 1988, 102 Stat. 573; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3671 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

@@ -48,7 +48,7 @@
 
 #### (A) Publication of regulations
 
-&emsp;&emsp;Before designating any area as an enterprise zone, the Secretary shall prescribe byregulation not later than 4 months following February 5, 1988, after consultation with the officials described in paragraph (1)(B)—
+&emsp;&emsp;Before designating any area as an enterprise zone, the Secretary shall prescribe by regulation not later than 4 months following February 5, 1988, after consultation with the officials described in paragraph (1)(B)—
 
 &emsp;&emsp;&emsp;(i) the procedures for nominating an area under paragraph (1)(A);
 
@@ -156,7 +156,7 @@
 
 #### (2) Course of action
 
-&emsp;The course of action under paragraph (1) may be implemented by both such governments and private nongovernmental entities, may be funded from proceeds of any program administered by the Secretary of Housing and Urban Development or of any program administered by the Secretary of Agriculture under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], and may include, but is not limited to—
+&emsp;The course of action under paragraph (1) may be implemented by both such governments and private nongovernmental entities, may be funded from proceeds of any program administered by the Secretary of Housing and Urban Development or of any program administered by the Secretary of Agriculture under title V of the Housing Act of 1949 \[42 U.S.C.1471 et seq.\], and may include, but is not limited to—
 
 &emsp;&emsp;(A) a reduction of tax rates or fees applying within the enterprise zone;
 

@@ -20,7 +20,7 @@ If the Director of the United States Information Agency determines that the proh
 
 &emsp;(2) the efforts made by the Voice of America to recruit such individuals for employment.
 
-(Jan. 27, 1948, ch. 36, title V, §506, as added Feb. 16, 1990, Pub. L. 101–246, title II, §232, 104 Stat. 57.)
+(Jan. 27, 1948, ch. 36, title V, §506, as added Pub. L. 101–246, title II, §232, Feb. 16, 1990, 104 Stat. 57.)
 
 #### Change of Name
 

@@ -1,6 +1,6 @@
 ### §1391. Venue generally
 
-(a) A civil action wherein jurisdiction is founded only on diversity of citizenship may, except as otherwise provided by law, be brought only in (1) a judicial district where any defendant resides, if all defendants reside in the same State, (2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part ofproperty that is the subject of the action is situated, or (3) a judicial district in which any defendant is subject to personal jurisdiction at the time the action is commenced, if there is no district in which the action may otherwise be brought.
+(a) A civil action wherein jurisdiction is founded only on diversity of citizenship may, except as otherwise provided by law, be brought only in (1) a judicial district where any defendant resides, if all defendants reside in the same State, (2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3) a judicial district in which any defendant is subject to personal jurisdiction at the time the action is commenced, if there is no district in which the action may otherwise be brought.
 
 (b) A civil action wherein jurisdiction is not founded solely on diversity of citizenship may, except as otherwise provided by law, be brought only in (1) a judicial district where any defendant resides, if all defendants reside in the same State, (2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3) a judicial district in which any defendant may be found, if there is no district in which the action may otherwise be brought.
 
@@ -22,7 +22,7 @@ The summons and complaint in such an action shall be served as provided by the F
 
 &emsp;(4) in the United States District Court for the District of Columbia if the action is brought against a foreign state or political subdivision thereof.
 
-(June 25, 1948, ch. 646, 62 Stat. 935; Oct. 5, 1962, Pub. L. 87–748, §2, 76 Stat. 744; Dec. 23, 1963, Pub. L. 88–234, 77 Stat. 473; Nov. 2, 1966, Pub. L. 89–714, §§1, 2, 80 Stat. 1111; Oct. 21, 1976, Pub. L. 94–574, §3, 90 Stat. 2721; Oct. 21, 1976, Pub. L. 94–583, §5, 90 Stat. 2897; Nov. 19, 1988, Pub. L. 100–702, title X, §1013(a), 102 Stat. 4669; Dec. 1, 1990, Pub. L. 101–650, title III, §311, 104 Stat. 5114; Dec. 9, 1991, Pub. L. 102–198, §3, 105 Stat. 1623; Oct. 29, 1992, Pub. L. 102–572, title V, §504, 106 Stat. 4513; Oct. 3, 1995, Pub. L. 104–34, §1, 109 Stat. 293.)
+(June 25, 1948, ch. 646, 62 Stat. 935; Pub. L. 87–748, §2, Oct. 5, 1962, 76 Stat. 744; Pub. L. 88–234, Dec. 23, 1963, 77 Stat. 473; Pub. L. 89–714, §§1, 2, Nov. 2, 1966, 80 Stat. 1111; Pub. L. 94–574, §3, Oct. 21, 1976, 90 Stat. 2721; Pub. L. 94–583, §5, Oct. 21, 1976, 90 Stat. 2897; Pub. L. 100–702, title X, §1013(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §311, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §3, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 102–572, title V, §504, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 104–34, §1, Oct. 3, 1995, 109 Stat. 293.)
 
 #### Historical and Revision Notes
 
@@ -52,33 +52,33 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in
 
 #### Amendments
 
-1995—Subsec. (a)(3). Pub. L. 104–34 substituted “any defendant is” for “the defendants are”.
+<b>1995</b>—Subsec. (a)(3). Pub. L. 104–34 substituted “any defendant is” for “the defendants are”.
 
-1992—Subsec. (a)(3). Pub. L. 102–572 inserted before period at end “, if there is no district in which the action may otherwise be brought”.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–572 inserted before period at end “, if there is no district in which the action may otherwise be brought”.
 
-1991—Subsec. (b). Pub. L. 102–198 substituted “in (1)” for “if (1)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–198 substituted “in (1)” for “if (1)”.
 
-1990—Subsec. (a). Pub. L. 101–650, §311(1), substituted cls. (1) to (3) for “the judicial district where all plaintiffs or all defendants reside, or in which the claim arose”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–650, §311(1), substituted cls. (1) to (3) for “the judicial district where all plaintiffs or all defendants reside, or in which the claim arose”.
 
 Subsec. (b). Pub. L. 101–650, §311(2), substituted “may, except as otherwise provided by law, be brought only if” and cls. (1) to (3) for “may be brought only in the judicial district where all defendants reside, or in which the claim arose, except as otherwise provided by law”.
 
 Subsec. (e). Pub. L. 101–650, §311(3), substituted “(2) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3)” for “or (2) the cause of action arose, or (3) any real property involved in the action is situated, or (4)”.
 
-1988—Subsec. (c). Pub. L. 100–702 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A corporation may be sued in any judicial district in which it is incorporated or licensed to do business or is doing business, and such judicial district shall be regarded as the residence of such corporation for venue purposes.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–702 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A corporation may be sued in any judicial district in which it is incorporated or licensed to do business or is doing business, and such judicial district shall be regarded as the residence of such corporation for venue purposes.”
 
-1976—Subsec. (e). Pub. L. 94–574 provided that, in actions against the United States, its agencies, or officers or employees in their official capacities, additional persons may be joined in accordance with the Federal Rules of Civil Procedure and with other venue requirements which would be applicable if the United States, its agencies, or one of its officers or employees were not a party.
+<b>1976</b>—Subsec. (e). Pub. L. 94–574 provided that, in actions against the United States, its agencies, or officers or employees in their official capacities, additional persons may be joined in accordance with the Federal Rules of Civil Procedure and with other venue requirements which would be applicable if the United States, its agencies, or one of its officers or employees were not a party.
 
 Subsec. (f). Pub. L. 94–583 added subsec. (f).
 
-1966—Subsec. (a). Pub. L. 89–714, §1, authorized a civil action to be brought in the judicial district in which the claim arose.
+<b>1966</b>—Subsec. (a). Pub. L. 89–714, §1, authorized a civil action to be brought in the judicial district in which the claim arose.
 
 Subsec. (b). Pub. L. 89–714, §1, authorized a civil action to be brought in the judicial district in which the claim arose.
 
 Subsec. (f). Pub. L. 89–714, §2, repealed subsec. (f) which permitted a civil action on a tort claim arising out of the manufacture, assembly, repair, ownership, maintenance, use, or operation of an automobile to be brought in the judicial district wherein the act or omission complained of occurred. Present provisions are now contained in subsecs. (a) and (b) of this section.
 
-1963—Subsec. (f). Pub. L. 88–234 added subsec. (f)
+<b>1963</b>—Subsec. (f). Pub. L. 88–234 added subsec. (f)
 
-1962—Subsec. (e). Pub. L. 87–748 added subsec. (e).
+<b>1962</b>—Subsec. (e). Pub. L. 87–748 added subsec. (e).
 
 #### Effective Date of 1992 Amendment
 
@@ -122,5 +122,5 @@ Waiver of venue, see section 1406 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 53, 6103, 6104; title 19 section 1337; title 22 section 290<i>l</i>–5; title 42 section 1973aa–2.
+This section is referred to in title 15 sections 53, 6103, 6104; title 19 section 1337; title 22 sections 290<i>l</i>–5, 290<i>o</i>–5; title 42 section 1973aa–2.
 

@@ -1,0 +1,160 @@
+### §7671c. Phase-out of production and consumption of class I substances
+
+#### (a) Production phase-out
+
+Effective on January 1 of each year specified in Table 2, it shall be unlawful for any person to produce any class I substance in an annual quantity greater than the relevant percentage specified in Table 2. The percentages in Table 2 refer to a maximum allowable production as a percentage of the quantity of the substance produced by the person concerned in the baseline year.
+
+Table 2
+
+Date
+
+Carbon tetrachloride
+
+Methyl chloroform
+
+Other class I substances
+
+1991
+
+100%
+
+100%
+
+85%
+
+1992
+
+&nbsp;90%
+
+100%
+
+80%
+
+1993
+
+&nbsp;80%
+
+&nbsp;90%
+
+75%
+
+1994
+
+&nbsp;70%
+
+&nbsp;85%
+
+65%
+
+1995
+
+&nbsp;15%
+
+&nbsp;70%
+
+50%
+
+1996
+
+&nbsp;15%
+
+&nbsp;50%
+
+40%
+
+1997
+
+&nbsp;15%
+
+&nbsp;50%
+
+15%
+
+1998
+
+&nbsp;15%
+
+&nbsp;50%
+
+15%
+
+1999
+
+&nbsp;15%
+
+&nbsp;50%
+
+15%
+
+2000
+
+&nbsp;20%
+
+&nbsp;
+
+2001
+
+&nbsp;20%
+
+&nbsp;
+
+#### (b) Termination of production of class I substances
+
+Effective January 1, 2000 (January 1, 2002 in the case of methyl chloroform), it shall be unlawful for any person to produce any amount of a class I substance.
+
+#### (c) Regulations regarding production and consumption of class I substances
+
+The Administrator shall promulgate regulations within 10 months after November 15, 1990, phasing out the production of class I substances in accordance with this section and other applicable provisions of this subchapter. The Administrator shall also promulgate regulations to insure that the consumption of class I substances in the United States is phased out and terminated in accordance with the same schedule (subject to the same exceptions and other provisions) as is applicable to the phase-out and termination of production of class I substances under this subchapter.
+
+#### (d) Exceptions for essential uses of methyl chloroform, medical devices, and aviation safety
+
+#### (1) Essential uses of methyl chloroform
+
+&emsp;Notwithstanding the termination of production required by subsection (b) of this section, during the period beginning on January 1, 2002, and ending on January 1, 2005, the Administrator, after notice and opportunity for public comment, may, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of methyl chloroform solely for use in essential applications (such as nondestructive testing for metal fatigue and corrosion of existing airplane engines and airplane parts susceptible to metal fatigue) for which no safe and effective substitute is available. Notwithstanding this paragraph, the authority to produce methylchloroform for use in medical devices shall be provided in accordance with paragraph (2).
+
+#### (2) Medical devices
+
+&emsp;Notwithstanding the termination of production required by subsection (b) of this section, the Administrator, after notice and opportunity for public comment, shall, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of class I substances solely for use in medical devices if such authorization is determined by the Commissioner, in consultation with the Administrator, to be necessary for use in medical devices.
+
+#### (3) Aviation safety
+
+&emsp;(A) Notwithstanding the termination of production required by subsection (b) of this section, the Administrator, after notice and opportunity for public comment, may, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of halon-1211 (bromochlorodifluoromethane), halon-1301 (bromotrifluoromethane), and halon-2402 (dibromotetrafluoroethane) solely for purposes of aviation safety if the Administrator of the Federal Aviation Administration, in consultation with the Administrator, determines that no safe and effective substitute has been developed and that such authorization is necessary for aviation safety purposes.
+
+&emsp;(B) The Administrator of the Federal Aviation Administration shall, in consultation with the Administrator, examine whether safe and effective substitutes for methyl chloroform or alternative techniques will be available for nondestructive testing for metal fatigue and corrosion of existing airplane engines and airplane parts susceptible to metal fatigue and whether an exception for such uses of methyl chloroform under this paragraph will be necessary for purposes of airline safety after January 1, 2005 and provide a report to Congress in 1998.
+
+#### (4) Cap on certain exceptions
+
+&emsp;Under no circumstances may the authority set forth in paragraphs (1), (2), and (3) of subsection (d) of this section be applied to authorize any person to produce a class I substance in annual quantities greater than 10 percent of that produced by such person during the baseline year.
+
+#### (e) Developing countries
+
+#### (1) Exception
+
+&emsp;Notwithstanding the phase-out and termination of production required under subsections (a) and (b) of this section, the Administrator, after notice and opportunity for public comment, may, consistent with the Montreal Protocol, authorize the production of limited quantities of a class I substance in excess of the amounts otherwise allowable under subsection (a) or (b) of this section, or both, solely for export to, and use in, developing countries that are Parties to the Montreal Protocol and are operating under article 5 of such Protocol. Any production authorized under this paragraph shall be solely for purposes of satisfying the basic domestic needs of such countries.
+
+#### (2) Cap on exception
+
+&emsp;(A) Under no circumstances may the authority set forth in paragraph (1) be applied to authorize any person to produce a class I substance in any year for which a production percentage is specified in Table 2 of subsection (a) of this section in an annual quantity greater than the specified percentage, plus an amount equal to 10 percent of the amount produced by such person in the baseline year.
+
+&emsp;(B) Under no circumstances may the authority set forth in paragraph (1) be applied to authorize any person to produce a class I substance in the applicable termination year referred to in subsection (b) of this section, or in any year thereafter, in an annual quantity greater than 15 percent of the baseline quantity of such substance produced by such person.
+
+&emsp;(C) An exception authorized under this subsection shall terminate no later than January 1, 2010 (2012 in the case of methyl chloroform).
+
+#### (f) National security
+
+The President may, to the extent such action is consistent with the Montreal Protocol, issue such orders regarding production and use of CFC–114 (chlorofluorocarbon-114), halon-1211, halon-1301, and halon-2402, at any specified site or facility or on any vessel as may be necessary to protect the national security interests of the United States if the President finds that adequate substitutes are not available and that the production and use of such substance are necessary to protect such national security interest. Such orders may include, where necessary to protect such interests, an exemption from any prohibition or requirement contained in this subchapter. The President shall notify the Congress within 30 days of the issuance of an order under this paragraph providing for any such exemption. Such notification shall include a statement of the reasons for the granting of the exemption. An exemption under this paragraph shall be for a specified period which may not exceed one year. Additional exemptions may be granted, each upon the President's issuance of a new order under this paragraph. Each such additional exemption shall be for a specified period which may not exceed one year. No exemption shall be granted under this paragraph due to lack of appropriation unless the President shall have specifically requested such appropriation as a part of the budgetary process and the Congress shall have failed to make available such requested appropriation.
+
+#### (g) Fire suppression and explosion prevention
+
+(1) Notwithstanding the production phase-out set forth in subsection (a) of this section, the Administrator, after notice and opportunity for public comment, may, to the extent such action is consistent with the Montreal Protocol, authorize the production of limited quantities of halon-1211, halon-1301, and halon-2402 in excess of the amount otherwise permitted pursuant to the schedule under subsection (a) of this section solely for purposes of fire suppression or explosion prevention if the Administrator, in consultation with the Administrator of the United States Fire Administration, determines that no safe and effective substitute has been developed and that such authorization is necessary for fire suppression or explosion prevention purposes. The Administrator shall not authorize production under this paragraph for purposes of fire safety or explosion prevention training or testing of fire suppression or explosion prevention equipment. In no event shall the Administrator grant an exception under this paragraph that permits production after December 31, 1999.
+
+(2) The Administrator shall periodically monitor and assess the status of efforts to obtain substitutes for the substances referred to in paragraph (1) for purposes of fire suppression or explosion prevention and the probability of such substitutes being available by December 31, 1999. The Administrator, as part of such assessment, shall consider any relevant assessments under the Montreal Protocol and the actions of the Parties pursuant to Article 2B of the Montreal Protocol in identifying essential uses and in permitting a level of production or consumption that is necessary to satisfy such uses for which no adequate alternatives are available after December 31, 1999. The Administrator shall report to Congress the results of such assessment in 1994 and again in 1998.
+
+(3) Notwithstanding the termination of production set forth in subsection (b) of this section, the Administrator, after notice and opportunity for public comment, may, to the extent consistent with the Montreal Protocol, authorize the production of limited quantities of halon-1211, halon-1301, and halon-2402 in the period after December 31, 1999, and before December 31, 2004, solely for purposes of fire suppression or explosion prevention in association with domestic production of crude oil and natural gas energy supplies on the North Slope of Alaska, if the Administrator, in consultation with the Administrator of the United States Fire Administration, determines that no safe and effective substitute has been developed and that such authorization is necessary for fire suppression and explosion prevention purposes. The Administrator shall not authorize production under the paragraph for purposes of fire safety or explosion prevention training or testing of fire suppression or explosion prevention equipment. In no event shall the Administrator authorize under this paragraph any person to produce any such halon in an amount greater than 3 percent of that produced by such person during the baseline year.
+
+(July 14, 1955, ch. 360, title VI, §604, as added Nov. 15, 1990, Pub. L. 101–549, title VI, §602(a), 104 Stat. 2655.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7671a, 7671e of this title.
+

@@ -10,7 +10,7 @@ The corporation shall have power—
 
 &emsp;(4) to charge and collect membership dues;
 
-&emsp;(5) to adopt, amend, and alter a constitution and bylaws, not inconsistent with the laws of the United States or any State in which the corporation is to operate, for the management of its property and the regulation of its affairs;
+&emsp;(5) to adopt, amend, and alter a constitution and bylaws, not inconsistent with the laws ofthe United States or any State in which the corporation is to operate, for the management of its property and the regulation of its affairs;
 
 &emsp;(6) to contract and be contracted with;
 

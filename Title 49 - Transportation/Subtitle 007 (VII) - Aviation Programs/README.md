@@ -66,7 +66,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### PART D—RESERVED
+#### PART D—PUBLIC AIRPORTS
+
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>491.</b>](Part%20D%20-%20Public%20Airports/Chapter%20491%20-%20Metropolitan%20Washington%20Airports/README.md) | <b>METROPOLITAN WASHINGTON AIRPORTS</b> | <b>49101</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### PART E—MISCELLANEOUS
 
@@ -77,6 +83,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–102, §2(20), Nov. 20, 1997, 111 Stat. 2205, substituted “PUBLIC AIRPORTS” for “RESERVED” in item for part D and added item for chapter 491.
 
 1996—Pub. L. 104–287, §5(64), Oct. 11, 1996, 110 Stat. 3395, substituted “RESERVED” for “MISCELLANEOUS” in item for part D, struck out item for chapter 491 “Buy-American Preferences”, and added items for part E and chapter 501.
 
@@ -90,5 +98,5 @@ Pub. L. 104–264, title II, §277(b), Oct. 9, 1996, 110 Stat. 3248, added item 
 - [Part A - Air Commerce and Safety](Part%20A%20-%20Air%20Commerce%20and%20Safety/README.md)
 - [Part B - Airport Development and Noise](Part%20B%20-%20Airport%20Development%20and%20Noise/README.md)
 - [Part C - Financing](Part%20C%20-%20Financing/README.md)
-- [Part D - Reserved](Part%20D%20-%20Reserved/README.md)
+- [Part D - Public Airports](Part%20D%20-%20Public%20Airports/README.md)
 - [Part E - Miscellaneous](Part%20E%20-%20Miscellaneous/README.md)

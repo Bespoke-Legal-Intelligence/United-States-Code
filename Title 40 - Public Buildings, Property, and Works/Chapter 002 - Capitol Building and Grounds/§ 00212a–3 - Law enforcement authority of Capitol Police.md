@@ -6,7 +6,7 @@ Subject to such regulations as may be prescribed by the Capitol Police Board and
 
 &emsp;(1) within the District of Columbia, with respect to any crime of violence committed within the United States Capitol Grounds;
 
-&emsp;(2) within the District of Columbia, with respect to any crime of violence committed in the presence of the member, if the member is in the performance of official duties when the crime is committed;
+&emsp;(2) within the District of Columbia, with respect to any crime of violence committed inthe presence of the member, if the member is in the performance of official duties when the crime is committed;
 
 &emsp;(3) within the District of Columbia, to prevent imminent loss of life or injury to person or property, if the officer is in the performance of official duties when the authority is exercised; and
 
@@ -24,7 +24,7 @@ This section does not affect the authority of the Metropolitan Police force of t
 
 As used in this section, the term “crime of violence” has the meaning given that term in section 16 of title 18.
 
-(July 31, 1946, ch. 707, §9B, as added Oct. 6, 1992, Pub. L. 102–397, title I, §101, 106 Stat. 1949; amended Aug. 20, 1996, Pub. L. 104–186, title II, §221(13), 110 Stat. 1750.)
+(July 31, 1946, ch. 707, §9B, as added Pub. L. 102–397, title I, §101, Oct. 6, 1992, 106 Stat. 1949; amended Pub. L. 104–186, title II, §221(13), Aug. 20, 1996, 110 Stat. 1750.)
 
 #### Codification
 

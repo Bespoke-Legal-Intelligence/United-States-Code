@@ -40,7 +40,7 @@ In carrying out subsection (a) of this section, the Council may—
 
 #### (c) Reports
 
-(1) Within 90 days after July 22, 1987, and annually thereafter, the head of each Federal agencythat is a member of the Council shall prepare and transmit to the Congress and the Council a report that describes—
+(1) Within 90 days after July 22, 1987, and annually thereafter, the head of each Federal agency that is a member of the Council shall prepare and transmit to the Congress and the Council a report that describes—
 
 &emsp;(A) each program to assist homeless individuals administered by such agency and the number of homeless individuals served by such program;
 
@@ -72,7 +72,7 @@ Not later than 90 days after November 7, 1988, the head of each Federal agency t
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(4)(B) and (e), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the Stewart B. McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsecs. (a)(4)(B) and (e), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the Stewart B.McKinney Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
 

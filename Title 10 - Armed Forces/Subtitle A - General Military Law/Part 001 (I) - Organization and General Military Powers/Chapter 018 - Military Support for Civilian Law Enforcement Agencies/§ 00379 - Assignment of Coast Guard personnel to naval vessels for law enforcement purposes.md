@@ -8,7 +8,7 @@
 
 &emsp;(2) as are otherwise within the jurisdiction of the Coast Guard.
 
-(c) No fewer than 500 active duty personnel of the Coast Guard shall be assigned each fiscalyear to duty under this section. However, if at any time the Secretary of Transportation, after consultation with the Secretary of Defense, determines that there are insufficient naval vessels available for purposes of this section, such personnel may be assigned other duty involving enforcement of laws listed in section 374(b)(4)(A) of this title.
+(c) No fewer than 500 active duty personnel of the Coast Guard shall be assigned each fiscal year to duty under this section. However, if at any time the Secretary of Transportation, after consultation with the Secretary of Defense, determines that there are insufficient naval vessels available for purposes of this section, such personnel may be assigned other duty involving enforcement of laws listed in section 374(b)(4)(A) of this title.
 
 (d) In this section, the term “drug-interdiction area” means an area outside the land area of the United States (as defined in section 374(b)(4)(B) of this title) in which the Secretary of Defense (in consultation with the Attorney General) determines that activities involving smuggling of drugs into the United States are ongoing.
 
@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1988—Pub. L. 100–456 amended section generally, substituting “every appropriate surface naval vessel” for “appropriate surface naval vessels” in subsec. (a), substituting “section 374(b)(4)(A)” for “section 374(a)(1)” in subsec. (c), and inserting “(as defined in section 374(b)(4)(B) of this title)” in subsec. (d).
+1988—Pub. L. 100–456 amended section generally, substituting “every appropriate surface naval vessel” for“appropriate surface naval vessels” in subsec. (a), substituting “section 374(b)(4)(A)” for “section 374(a)(1)” in subsec. (c), and inserting “(as defined in section 374(b)(4)(B) of this title)” in subsec. (d).
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ No interest or other income on any funds made available under this subchapter sh
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the Secretary shall make payments to grantees under this subchapter in two payments—
+&emsp;Except as otherwise provided in this subsection, the Secretary shall make payments tograntees under this subchapter in two payments—
 
 &emsp;&emsp;(A) one payment to be made no later than October 1 of each fiscal year in an amount equal to one-half the amount paid during the preceding fiscal year to the grantee or a contractor that has elected to have the provisions of this subchapter apply, and
 
@@ -38,7 +38,7 @@ No interest or other income on any funds made available under this subchapter sh
 
 #### (e) Recoveries
 
-For the purposes of under recovery and over recovery determinations by any Federal agencyfor any other funds, from whatever source derived, funds received under this subchapter shall not be taken into consideration.
+For the purposes of under recovery and over recovery determinations by any Federal agency for any other funds, from whatever source derived, funds received under this subchapter shall not be taken into consideration.
 
 (Pub. L. 102–325, title XIII, §1316, July 23, 1992, 106 Stat. 801.)
 

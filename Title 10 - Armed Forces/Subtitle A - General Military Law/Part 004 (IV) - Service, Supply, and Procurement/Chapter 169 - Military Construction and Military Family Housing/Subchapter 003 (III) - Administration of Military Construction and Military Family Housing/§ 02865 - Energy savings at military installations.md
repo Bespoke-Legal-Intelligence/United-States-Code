@@ -20,11 +20,11 @@ Energy Performance Goal and Plan.—(1) The Secretary of Defense shall designate
 
 (b)
 
-Use of Energy Cost Savings.—(1) Two-thirds of the portion of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts and financial incentives described in subsection (d)(2), shall remain available for obligation under paragraph (2) through the end of the fiscal year following the fiscal year for which the funds were appropriated, without additional authorization or appropriation.
+Use of Energy Cost Savings.—(1) Two-thirds of the portion of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts, shall remain available for obligation under paragraph (2) through the end of the fiscal year following the fiscal year for which the funds were appropriated, without additional authorization or appropriation.
 
-(2) The Secretary shall provide that the amount that remains available for obligation under paragraph (1) and section 2866(b) of this title, and the funds made available under section 2483(b)(2) of this title, shall be used as follows:
+(2) The Secretary shall provide that the amount that remains available for obligation under paragraph (1) and section 2866(a)(3) of this title, and the funds made available under section 2867(b)(2) of this title, shall be used as follows:
 
-&emsp;(A) One-half of the amount shall be used for the implementation of additional energy conservation measures and for water conservation activities at such buildings, facilities, or installations of the Department of Defense as may be designated (in accordance with regulations prescribed by the Secretary of Defense) by the head of the department, agency, or instrumentality that realized the savings referred to in paragraph (1) or in section 2866(b) of this title.
+&emsp;(A) One-half of the amount shall be used for the implementation of additional energy conservation measures and for water conservation activities at such buildings, facilities, or installations of the Department of Defense as may be designated (in accordance with regulations prescribed by the Secretary of Defense) by the head of the department, agency, or instrumentality that realized the savings referred to in paragraph (1) or in section 2866(a)(3) of this title.
 
 &emsp;(B) One-half of the amount shall be used at the installation at which the savings were realized, as determined by the commanding officer of such installation consistent with applicable law and regulations, for—
 
@@ -33,6 +33,8 @@ Use of Energy Cost Savings.—(1) Two-thirds of the portion of the funds appropr
 &emsp;&emsp;(ii) any unspecified minor construction project that will enhance the quality of life of personnel; or
 
 &emsp;&emsp;(iii) any morale, welfare, or recreation facility or service.
+
+(3) Financial incentives received from gas or electric utilities under subsection (d)(2), and from utilities for management of water demand or water conservation under section 2866(a)(2) of this title, shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
 
 (c)
 
@@ -72,11 +74,21 @@ Energy Conservation Construction Projects.—(1) The Secretary of Defense may ca
 
 (f)
 
-Annual Report.—Not later than December 31 of each year, the Secretary of Defense shall transmit an annual report to the Congress containing a description of the actions taken to carry out this section, and the savings realized from such actions, during the fiscal year ending in the year in which the report is made.
+Annual Report.—Not later than December 31 of each year, the Secretary of Defense shall transmit an annual report to the Congress containing a description of the actions taken to carry out this section, and the savings realized from such actions, during the fiscal year ending in the year in which the report is made. The Secretary shall also include in each report the types and amount of financial incentives received under subsection (d)(2) and section 2866(a)(2) of this title during the period covered by the report and the appropriation account or accounts to which the incentives were credited.
 
-(Added Pub. L. 101–510, div. B, title XXVIII, §2851(a), Nov. 5, 1990, 104 Stat. 1803; amended Pub. L. 102–484, div. B, title XXVIII, §2801, Oct. 23, 1992, 106 Stat. 2604; Pub. L. 103–160, div. B, title XXVIII, §2804, Nov. 30, 1993, 107 Stat. 1885; Pub. L. 103–337, div. A, title X, §1070(a)(14), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, §1502(a)(27), div. B, title XXVIII, §2819, Feb. 10, 1996, 110 Stat. 506, 555.)
+(Added Pub. L. 101–510, div. B, title XXVIII, §2851(a), Nov. 5, 1990, 104 Stat. 1803; amended Pub. L. 102–484, div. B, title XXVIII, §2801, Oct. 23, 1992, 106 Stat. 2604; Pub. L. 103–160, div. B, title XXVIII, §2804, Nov. 30, 1993, 107 Stat. 1885; Pub. L. 103–337, div. A, title X, §1070(a)(14), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, §1502(a)(27), div. B, title XXVIII, §2819, Feb. 10, 1996, 110 Stat. 506, 555; Pub. L. 105–85, div. A, title III, §371(d)(2), div. B, title XXVIII, §2804(a), Nov. 18, 1997, 111 Stat. 1706, 1990.)
 
 #### Amendments
+
+1997—Subsec. (b)(1). Pub. L. 105–85, §2804(a)(1)(A), struck out “and financial incentives described in subsection (d)(2)” after “savings contracts”.
+
+Subsec. (b)(2). Pub. L. 105–85, §2804(a)(1)(B), substituted “section 2866(a)(3)” for “section 2866(b)” in introductory provisions and in subpar. (A).
+
+Pub. L. 105–85, §371(d)(2), substituted “section 2867(b)(2)” for “section 2483(b)(2)” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 105–85, §2804(a)(1)(C), added par. (3).
+
+Subsec. (f). Pub. L. 105–85, §2804(a)(2), inserted at end “The Secretary shall also include in each report the types and amount of financial incentives received under subsection (d)(2) and section 2866(a)(2) of this title during the period covered by the report and the appropriation account or accounts to which the incentives were credited.”
 
 1996—Subsec. (a)(3). Pub. L. 104–106, §2819(a), substituted “energy efficient maintenance or water efficient maintenance” for “energy efficient maintenance”.
 
@@ -96,7 +108,7 @@ Subsec. (a)(4). Pub. L. 103–160, §2804(a)(2), added par. (4).
 
 Subsec. (b)(1). Pub. L. 103–160, §2804(b)(1), substituted “Two-thirds” for “The Secretary shall provide that two-thirds” and struck out “for any fiscal year beginning after fiscal year 1990” after “described in subsection (d)(2),”.
 
-Subsec. (b)(2). Pub. L. 103–160, §2804(b)(2), added introductory provisions and subpar. (A) and struck out former introductory provisions and subpar. (A) which read as follows: “The amount that remains available for obligation under paragraph (1) shall be utilized as follows:
+Subsec. (b)(2). Pub. L. 103–160, §2804(b)(2), added introductory provisions and subpar. (A) and struck out former introductory provisions and subpar. (A) which read as follows: “The amount that remains availablefor obligation under paragraph (1) shall be utilized as follows:
 
 &emsp;“(A) One-half of the amount shall be used for the implementation of additional energy conservation measures at such buildings, facilities, or installations of the Department of Defense as the head of the department, agency, or instrumentality that realized the savings may designate in accordance with regulations prescribed by the Secretary of Defense.”
 
@@ -126,5 +138,5 @@ For provisions requiring Director of Office of Management and Budget to develop 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2483, 2866 of this title.
+This section is referred to in sections 2866, 2867 of this title.
 

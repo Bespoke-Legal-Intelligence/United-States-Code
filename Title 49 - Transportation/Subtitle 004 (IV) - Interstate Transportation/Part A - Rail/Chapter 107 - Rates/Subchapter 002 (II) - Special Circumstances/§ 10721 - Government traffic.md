@@ -1,6 +1,6 @@
 ### §10721. Government traffic
 
-A rail carrier providing transportation or service for the United States Government may transport property or individuals for the United States Government without charge or at a rate reduced from the applicable commercial rate.Section 3709 of the Revised Statutes (41 U.S.C. 5) does not apply when transportation for the United States Government can be obtained from a rail carrier lawfully operating in the area where the transportation would be provided.
+A rail carrier providing transportation or service for the United States Government may transport property or individuals for the United States Government without charge or at a rate reduced from the applicable commercial rate. Section 3709 of the Revised Statutes (41 U.S.C. 5) does not apply when transportation for the United States Government can be obtained from a rail carrier lawfully operating in the area where the transportation would be provided.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 819.)
 
@@ -10,5 +10,5 @@ A prior section 10721, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383; Pub. L. 9
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 24301 of this title; title 31 section 3726.
+This section is referred to in title 31 section 3726.
 

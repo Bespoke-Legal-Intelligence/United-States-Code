@@ -24,7 +24,7 @@ Amounts apportioned to States under section 777c of this title may be used to pa
 
 For effective date of this subsection, referred to in subsec. (c), see Effective Date of 1984 Amendment note below.
 
-The Clean Vessel Act of 1992, referred to in subsec. (d), is subtitle F of title V of Pub. L. 102–587, Nov. 4, 1992, 106 Stat. 5086, which amended this section and section 777c of this title and enacted provisions set out as a note under section 1322 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1322 of Title 33 and Tables.
+The Clean Vessel Act of 1992, referred to in subsec. (d), is subtitle F of title V of Pub. L. 102–587, Nov. 4, 1992, 106 Stat. 5086, which amended this section and section 777c of this title and enacted provisions set out as a note under section 1322 of Title 33, Navigation andNavigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1322 of Title 33 and Tables.
 
 #### Amendments
 

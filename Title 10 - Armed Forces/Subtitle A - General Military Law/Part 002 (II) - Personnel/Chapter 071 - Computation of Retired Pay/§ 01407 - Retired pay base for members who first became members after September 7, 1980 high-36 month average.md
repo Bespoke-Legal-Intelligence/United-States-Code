@@ -64,7 +64,7 @@ High-36 months.—The high-36 months of a member or former member whose retired 
 
 Limitation for Enlisted Members Retiring With Less Than 30
 
-Years’ Service.—In the case of a member who is retired under section 3914 or 8914 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under section 6330 of this title, the member's high-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
+Years’ Service.—In the case of a member who is retired under section 3914 or 8914 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under section 6330 of this title, the member'shigh-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
 
 (Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 689; amended Pub. L. 101–189, div. A, title VI, §651(a), (b)(2), Nov. 29, 1989, 103 Stat. 1459, 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(5), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 104–106, div. A, title XV, §1501(c)(15), Feb. 10, 1996, 110 Stat. 499.)
 

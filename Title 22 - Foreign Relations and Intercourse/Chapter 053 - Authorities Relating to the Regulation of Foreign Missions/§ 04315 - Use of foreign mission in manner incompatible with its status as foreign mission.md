@@ -28,7 +28,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(B) is not a member, or a family member of a member, of a foreign mission of that foreign country.
 
-(Aug. 1, 1956, ch. 841, title II, §215, as added Dec. 22, 1987, Pub. L. 100–204, title I, §128(a), 101 Stat. 1343.)
+(Aug. 1, 1956, ch. 841, title II, §215, as added Pub. L. 100–204, title I, §128(a), Dec. 22, 1987, 101 Stat. 1343.)
 
 #### Codification
 
@@ -44,7 +44,7 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 Section 128(b) of Pub. L. 100–204 provided that:
 
-“(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[enacting this section\] shall apply to any foreign mission beginning on the date of enactment of this Act \[Dec. 22, 1987\].
+“(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[enacting this section\]shall apply to any foreign mission beginning on the date of enactment of this Act \[Dec. 22, 1987\].
 
 “(2)(A) The amendment made by subsection (a) shall apply beginning 6 months after the date of enactment of this Act with respect to any nonimmigrant alien who is using a foreign mission as a residence or a place of business on the date of enactment of this Act.
 

@@ -1,6 +1,6 @@
 ### §731. General
 
-(a) The Comptroller General may appoint, pay, assign, and remove officers (except the Deputy Comptroller General) and employees the Comptroller General decides are necessary to carry out the duties and powers of the General Accounting Office.
+(a) The Comptroller General may appoint, pay, assign, and remove officers (except the DeputyComptroller General) and employees the Comptroller General decides are necessary to carry out the duties and powers of the General Accounting Office.
 
 (b) The Comptroller General may establish for appropriate officers and employees a merit pay system consistent with section 5401 of title 5, as in effect on October 31, 1993.
 

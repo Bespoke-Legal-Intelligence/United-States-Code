@@ -40,15 +40,19 @@
 
 \[(f) Repealed. Pub. L. 104–106, div. A, title X, §1061(c)(3), Feb. 10, 1996, 110 Stat. 442.\]
 
-(g) Congress shall authorize for each fiscal year the end strength for military technicians for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title.
+(g) Congress shall authorize for each fiscal year the end strength for military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the end strength requested for military technicians (dual status) for each reserve component of the Army and Air Force shall be specifically set forth.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amendedPub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736.)
 
 #### Prior Provisions
 
 A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114; Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115 Pub. L. 99–433, title I, §§101(a)(2), 110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
 
 #### Amendments
+
+1997—Subsec. (g). Pub. L. 105–85, §522(i)(1), inserted “(dual status)” after “military technicians” in first sentence and after “military technician” in second sentence.
+
+Pub. L. 105–85, §413(b), inserted at end “In each budget submitted by the President to Congress under section 1105 of title 31, the end strength requested for military technicians (dual status) for each reserve component of the Army and Air Force shall be specifically set forth.”
 
 1996—Subsec. (a)(3). Pub. L. 104–106, §1061(c)(1), struck out par. (3) which read as follows: “The average military training student loads for each of the armed forces (other than the Coast Guard).”
 
@@ -100,25 +104,21 @@ Effect on End Strengths.—The end-strength authorizations in section 401 \[set 
 
 #### Minimum Number of Military Technicians
 
-Pub. L. 104–201, div. A, title IV, §413(a), Sept. 23, 1996, 110 Stat. 2507, provided that: “The minimum number of military technicians as of the last day of fiscal year 1997 for the reserve components of the Army and the Air Force (notwithstanding section 129 of title 10, United States Code) shall be the following:
+Section 413(a) of Pub. L. 105–85 provided that: “The minimum number of military technicians (dual status) as of the last day of fiscal year 1998 for the reserve components of the Army and the Air Force (notwithstanding section 129 of title 10, United States Code) shall be the following:
 
-&emsp;“(1) For the Army Reserve, 6,799.
+&emsp;“(1) For the Army Reserve, 5,503.
 
-&emsp;“(2) For the Army National Guard of the United States, 25,500.
+&emsp;“(2) For the Army National Guard of the United States, 23,125.
 
 &emsp;“(3) For the Air Force Reserve, 9,802.
 
-&emsp;“(4) For the Air National Guard of the United States, 23,299.”
+&emsp;“(4) For the Air National Guard of the United States, 22,853.”
 
-Section 513(b) of Pub. L. 104–106 provided that: “For each of fiscal years 1996 and 1997, the minimum number of military technicians, as of the last day of that fiscal year, for the Army and the Air Force (notwithstanding section 129 of title 10, United States Code) shall be the following:
+Similar provisions were contained in the following prior authorization acts:
 
-&emsp;“(1) Army National Guard, 25,500.
+Pub. L. 104–201, div. A, title IV, §413(a), Sept. 23, 1996, 110 Stat. 2507.
 
-&emsp;“(2) Army Reserve, 6,630.
-
-&emsp;“(3) Air National Guard, 22,906.
-
-&emsp;“(4) Air Force Reserve, 9,802.”
+Pub. L. 104–106, div. A, title V, §513(b), Feb. 10, 1996, 110 Stat. 305.
 
 #### Comptroller General Review of Proposed Army End Strength Allocations
 
@@ -148,17 +148,19 @@ Pub. L. 103–337, div. A, title XIII, §1316(c), Oct. 5, 1994, 108 Stat. 2899, 
 
 #### End Strengths for Active Forces
 
-Pub. L. 104–201, div. A, title IV, §401, Sept. 23, 1996, 110 Stat. 2503, provided that: “The Armed Forces are authorized strengths for active duty personnel as of September 30, 1997, as follows:
+Section 401 of Pub. L. 105–85 provided that: “The Armed Forces are authorized strengths for active duty personnel as of September 30, 1998, as follows:
 
 &emsp;“(1) The Army, 495,000.
 
-&emsp;“(2) The Navy, 407,318.
+&emsp;“(2) The Navy, 390,802.
 
 &emsp;“(3) The Marine Corps, 174,000.
 
-&emsp;“(4) The Air Force, 381,100.”
+&emsp;“(4) The Air Force, 371,577.”
 
 Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 104–201, div. A, title IV, §401, Sept. 23, 1996, 110 Stat. 2503.
 
 Pub. L. 104–106, div. A, title IV, §401(a), Feb. 10, 1996, 110 Stat. 285.
 

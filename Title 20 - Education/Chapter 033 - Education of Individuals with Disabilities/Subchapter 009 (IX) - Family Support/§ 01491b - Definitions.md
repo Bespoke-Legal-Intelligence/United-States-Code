@@ -156,3 +156,7 @@ For the purposes of this subchapter, only the following definitions shall apply:
 
 (Pub. L. 91–230, title VI, §703, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3939.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
+

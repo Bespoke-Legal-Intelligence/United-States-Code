@@ -1,11 +1,6 @@
 ## PART V—BOARDS, ADMINISTRATIONS, AND SERVICES
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>71.</b>](Chapter%20071%20-%20Board%20of%20Veterans%E2%80%99%20Appeals/README.md) | <b>Board of Veterans’ Appeals</b> | <b>7101</b> |
 | [<b>72.</b>](Chapter%20072%20-%20United%20States%20Court%20of%20Veterans%20Appeals/README.md) | <b>United States Court of Veterans Appeals</b> | <b>7251</b> |

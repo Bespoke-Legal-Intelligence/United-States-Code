@@ -24,7 +24,7 @@
 
 &emsp;(3) the additional resources for the offices of the United States Attorneys which would be necessary to achieve compliance with the time limits of subsections (b) and (c) of section 3161;
 
-&emsp;(4) suggested changes in the guidelines or other rules implementing this chapter or statutory amendments which the Department of Justice deems necessary to further improvethe administration of justice and meet the objectives of this chapter; and
+&emsp;(4) suggested changes in the guidelines or other rules implementing this chapter or statutory amendments which the Department of Justice deems necessary to further improve the administration of justice and meet the objectives of this chapter; and
 
 &emsp;(5) the impact of compliance with the time limits of subsections (b) and (c) of section 3161 upon the litigation of civil cases by the offices of the United States Attorneys and the rule changes, statutory amendments, and resources necessary to assure that such litigation is not prejudiced by full compliance with this chapter.
 

@@ -2,7 +2,7 @@
 
 The salary and traveling expenses of the Resident Commissioner from Puerto Rico to the United States shall be paid by the Chief Administrative Officer of the House of Representatives in the same manner as the salaries of the members of the House of Representatives are paid.
 
-(June 22, 1906, ch. 3514, §1, 34 Stat. 417; May 17, 1932, ch. 190, 47 Stat. 158; Aug. 20, 1996, Pub. L. 104–186, title II, §224(1), 110 Stat. 1752.)
+(June 22, 1906, ch. 3514, §1, 34 Stat. 417; May 17, 1932, ch. 190, 47 Stat. 158; Pub. L. 104–186, title II, §224(1), Aug. 20, 1996, 110 Stat. 1752.)
 
 #### Codification
 

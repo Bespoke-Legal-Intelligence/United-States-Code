@@ -1,0 +1,40 @@
+### §3642. Appointment and compensation; duties
+
+#### (a) Officers and employees
+
+In accordance with this part, the Commission may appoint, fix the compensation of, and define the authority and duties of officers and employees (other than the Administrator and Deputy Administrator) necessary for the management, operation, and maintenance of the Panama Canal and its complementary works, installations, and equipment.
+
+#### (b) Eligibility to serve as officer or employee of Commission
+
+Individuals serving in any Executive agency (other than the Commission) or the Smithsonian Institution, including individuals in the uniformed services, may, if appointed under this section or section 3614 of this title, serve as officers or employees of the Commission.
+
+#### (c) Salary protection
+
+In the case of an individual who is an officer or employee of the Commission on the day before the date of the enactment of the Panama Canal Transition Facilitation Act of 1997 and who has not had a break in service with the Commission since that date, the rate of basic pay for that officer or employee on or after that date may not be less than the rate in effect for that officer or employee on the day before that date of enactment except—
+
+&emsp;(1) as provided in a collective bargaining agreement;
+
+&emsp;(2) as a result of an adverse action against the officer or employee; or
+
+&emsp;(3) pursuant to a voluntary demotion.
+
+(Pub. L. 96–70, title I, §1202, Sept. 27, 1979, 93 Stat. 461; Pub. L. 104–201, div. C, title XXXV, §3526, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, §3523(b), Nov. 18, 1997, 111 Stat. 2065.)
+
+#### References in Text
+
+The date of the enactment of the Panama Canal Transition Facilitation Act of 1997, referred to in subsec. (c), is the date of enactment of Pub. L. 105–85 which was approved Nov. 18, 1997.
+
+#### Amendments
+
+1997—Subsec. (c). Pub. L. 105–85 added subsec. (c).
+
+1996—Pub. L. 104–201 amended text generally. Prior to amendment, text read as follows:
+
+“(a) In accordance with this part, the Panama Canal Commission may appoint without regard to the provisions of title 5, relating to appointments in the competitive service, fix the compensation of, and define the authority and duties of, officers, agents, attorneys, and employees (other than the Administrator, Deputy Administrator, and Chief Engineer) necessary for the management, operation, and maintenance of the Panama Canal and its complementary works, installations, and equipment.
+
+“(b) Individuals serving in any Executive agency (other than the Commission) or the Smithsonian Institution, including individuals serving in the uniformed services, may, if appointed under this section or section 3613 or 3614 of this title, serve as officers or employees of the Commission.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3656, 3658 of this title; title 5 section 5948.
+

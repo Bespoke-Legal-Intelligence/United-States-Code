@@ -10,13 +10,17 @@
 
 &emsp;(B) to a veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title.
 
-(b) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical-Care Cost Recovery Fund.
+(b) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
 
-(c) The provisions of subsection (a) expire on September 30, 1998.
+(c) The provisions of subsection (a) expire on September 30, 2002.
 
-(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685.)
+(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667.)
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–33, §8023(b)(3), substituted “Medical Care Collections Fund” for “Medical-Care Cost Recovery Fund”.
+
+Subsec. (c). Pub. L. 105–33, §8021(b), substituted “September 30, 2002” for “September 30, 1998”.
 
 1994—Subsec. (a)(1). Pub. L. 103–446 substituted “veteran to pay” for “veteran) to pay”.
 
@@ -32,6 +36,10 @@ Subsec. (c). Pub. L. 102–568, §606(a), inserted at end “Notwithstanding the
 
 Subsec. (c). Pub. L. 102–139, as amended by Pub. L. 102–229, substituted “September 30, 1992” for “September 30, 1991”.
 
+#### Effective Date of 1997 Amendment
+
+Amendment by section 8023(b)(3) of Pub. L. 105–33 effective Oct. 1, 1997, see section 8023(g) of Pub. L. 105–33, set out as a note under section 712 of this title.
+
 #### Effective Date of 1992 Amendment
 
 Section 605(b) of Pub. L. 102–568 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to medication furnished after the date of the enactment of this Act \[Oct. 29, 1992\].”
@@ -46,5 +54,5 @@ Section 8012(b) of Pub. L. 101–508 provided that: “The amendments made by su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1729 of this title.
+This section is referred to in section 1729A of this title.
 

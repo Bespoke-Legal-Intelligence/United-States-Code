@@ -10,7 +10,7 @@
 
 (e) Construction of each project shall be performed by contract awarded by competitive bidding, unless the Secretary or the Secretary of the Interior shall affirmatively find that, under the circumstances relating to such project, some other method is in the public interest. Notwithstanding the foregoing, the provisions of section 23 of the “Buy Indian” Act of June 25, 1910 (36 Stat. 891), and the provisions of section 7(b) of the Indian Self-Determination and Education Assistance Act (88 Stat. 2205) shall apply to all funds administered by the Secretary of the Interior which are appropriated for the construction and improvement of Indian reservation roads.
 
-(f) All appropriations for the construction and improvement of each class of Federal lands highways shall be administered in conformitywith regulations and agreements jointly approved by the Secretary and the Secretary of the appropriate Federal land managing agency.
+(f) All appropriations for the construction and improvement of each class of Federal lands highways shall be administered in conformity with regulations and agreements jointly approved by the Secretary and the Secretary of the appropriate Federal land managing agency.
 
 (g) The Secretary shall transfer to the Secretary of Agriculture from appropriations for forest highways such amounts as may be needed to cover necessary administrative expenses of the Forest Service in connection with forest highways.
 
@@ -72,11 +72,11 @@ Subsecs. (a), (b). Pub. L. 97–424 added subsec. (a), redesignated former subse
 
 Subsec. (c). Pub. L. 97–424 added subsec. (c). Former subsec. (c) redesignated (e).
 
-Subsec. (d). Pub. L. 97–424 redesignated former subsec. (b) as (d) and substituted provision that cooperation may be accepted in construction and improvement, and that any funds received from a State, county, or local subdivision be credited to appropriations available for the class of Federal lands highways to which such funds were contributed, for provision that cooperation maybe accepted but may not be required by the Secretary. Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 97–424 redesignated former subsec. (b) as (d) and substituted provision that cooperation may be accepted in construction and improvement, and that any funds received from a State, county, or local subdivision be credited to appropriations available for the class of Federal lands highways to which such funds were contributed, for provision that cooperation may be accepted but may not be required by the Secretary. Former subsec. (d) redesignated (f).
 
 Subsec. (e). Pub. L. 97–424 redesignated former subsec. (c) as (e) and substituted provisions relating to competitive bidding and preference for Indians for provisions that construction estimated to cost $5,000 or more per mile, exclusive of bridges, was to be advertised and let to contract, that if such estimated cost was less than $5,000 per mile or if, after proper advertising, no acceptable bid was received or the bids deemed excessive, the work might be done by the Secretary on his own account, and that for such purpose, the Secretary might purchase, lease, hire, rent, or otherwise obtain all necessary supplies, materials, tools, equipment, and facilities required to perform the work, and might pay wages, salaries, and other expenses for help employed in connection with such work. Former subsec. (e) redesignated (g).
 
-Subsec. (f). Pub. L. 97–424 redesignated former subsec. (d) as (f), inserted reference to each class of Federal lands highways and to agreements, and substituted reference to the Secretary of the appropriate Federal land management agency for reference to the Secretary of Agriculture. Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 97–424 redesignated former subsec. (d) as (f), inserted reference to each class of Federal lands highways and to agreements, and substituted reference to the Secretary of the appropriate Federal landmanagement agency for reference to the Secretary of Agriculture. Former subsec. (f) redesignated (h).
 
 Subsec. (g). Pub. L. 97–424 redesignated former subsec. (e) as (g) and substituted “forest highways” for “forest-highway program”.
 

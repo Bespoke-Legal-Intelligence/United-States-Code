@@ -4,7 +4,7 @@
 
 #### (1) State Commission
 
-&emsp;Except as provided in paragraph (2), to be eligible to receive a grant or allotment under division B or C of this subchapter or to receive a distribution of approved national service positions under division C of this subchapter, aState shall maintain a State Commission on National and Community Service that satisfies the requirements of this section.
+&emsp;Except as provided in paragraph (2), to be eligible to receive a grant or allotment under division B or C of this subchapter or to receive a distribution of approved national service positions under division C of this subchapter, a State shall maintain a State Commission on National and Community Service that satisfies the requirements of this section.
 
 #### (2) Alternative administrative entity
 
@@ -80,7 +80,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (4) Compensation
 
-&emsp;A member of a State Commission or alternative administrative entity shall not receive any additional compensation by reason of service on the State Commission or alternative administrative entity, except that the State may authorize the reimbursement of travel expenses, including a per diem in lieu ofsubsistence, in the same manner as other employees serving intermittently in the service of the State.
+&emsp;A member of a State Commission or alternative administrative entity shall not receive any additional compensation by reason of service on the State Commission or alternative administrative entity, except that the State may authorize the reimbursement of travel expenses, including a per diem in lieu of subsistence, in the same manner as other employees serving intermittently in the service of the State.
 
 #### (5) Chairperson
 
@@ -156,7 +156,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 #### (f) Activity ineligible for assistance
 
-A State Commission or alternative administrative entity may not directly carry out anynational service program that receives assistance under section 12571 of this title.
+A State Commission or alternative administrative entity may not directly carry out any national service program that receives assistance under section 12571 of this title.
 
 #### (g) Delegation
 

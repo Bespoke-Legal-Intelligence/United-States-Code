@@ -62,7 +62,7 @@ In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c))
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–510 effective immediately prior to noon on June. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 72a of Title 2, The Congress.
+Amendment by Pub. L. 91–510 effective immediately prior to noon on June. 3, 1971, see section 601(1) of Pub.L. 91–510, set out as a note under section 72a of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 102–575, §4010(2), (3), substituted “as the Secretary 
 
 Subsecs. (c), (d). Pub. L. 96–515, §203(b), added subsecs. (c) and (d).
 
-1976—Subsec. (a). Pub. L. 94–422 struck out proviso that amount granted to any one State shall not exceed 50 per centum of total cost of comprehensive statewidehistoric survey and plan for that State, as determined by Secretary.
+1976—Subsec. (a). Pub. L. 94–422 struck out proviso that amount granted to any one State shall not exceed 50 per centum of total cost of comprehensive statewide historic survey and plan for that State, as determined by Secretary.
 
 #### Section Referred to in Other Sections
 

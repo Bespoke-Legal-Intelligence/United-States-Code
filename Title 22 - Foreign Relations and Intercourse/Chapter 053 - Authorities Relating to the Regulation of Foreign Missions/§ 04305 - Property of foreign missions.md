@@ -32,7 +32,7 @@ If a foreign mission has ceased conducting diplomatic, consular, and other gover
 
 (1) After December 22, 1987, real property in the United States may not be acquired (by sale, lease, or other means) by or on behalf of the foreign mission of a foreign country described in paragraph (4) if, in the judgment of the Secretary of Defense (after consultation with the Secretary of State), the acquisition of that property might substantially improve the capability of that country to intercept communications involving United States Government diplomatic, military, or intelligence matters.
 
-(2) After December 22, 1987, real property in the United States may not be acquired (by sale,lease, or other means) by or on behalf of the foreign mission of a foreign country described in paragraph (4) if, in the judgment of the Director of the Federal Bureau of Investigation (after consultation with the Secretary of State), the acquisition of that property might substantially improve the capability of that country to engage in intelligence activities directed against the United States Government, other than the intelligence activities described in paragraph (1).
+(2) After December 22, 1987, real property in the United States may not be acquired (by sale, lease, or other means) by or on behalf of the foreign mission of a foreign country described in paragraph (4) if, in the judgment of the Director of the Federal Bureau of Investigation (after consultation with the Secretary of State), the acquisition of that property might substantially improve the capability of that country to engage in intelligence activities directed against the United States Government, other than the intelligence activities described in paragraph (1).
 
 (3) The Secretary of State shall inform the Secretary of Defense and the Director of the Federal Bureau of Investigation immediately upon notice being given pursuant to subsection (a) of this section of a proposed acquisition of real property by or on behalf of the foreign mission of a foreign country described in paragraph (4).
 
@@ -50,7 +50,7 @@ If a foreign mission has ceased conducting diplomatic, consular, and other gover
 
 &emsp;(B) with respect to a city in the United States, did not maintain a mission in that city.
 
-(Aug. 1, 1956, ch. 841, title II, §205, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 285; amended Aug. 16, 1985, Pub. L. 99–93, title I, §127(d), (e), 99 Stat. 418; Dec. 22, 1987, Pub. L. 100–204, title I, §161, 101 Stat. 1356; Apr. 30, 1994, Pub. L. 103–236, title I, §162(<i>o</i>)(5), 108 Stat. 410.)
+(Aug. 1, 1956, ch. 841, title II, §205, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 285; amended Pub. L. 99–93, title I, §127(d), (e), Aug. 16, 1985, 99 Stat. 418; Pub. L. 100–204, title I, §161, Dec. 22, 1987, 101 Stat. 1356; Pub. L. 103–236, title I, §162(<i>o</i>)(5), Apr. 30, 1994, 108 Stat. 410.)
 
 #### Codification
 

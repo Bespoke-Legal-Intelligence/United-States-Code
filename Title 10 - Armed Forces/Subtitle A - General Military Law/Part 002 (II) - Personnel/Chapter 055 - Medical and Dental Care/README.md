@@ -10,6 +10,8 @@
 | [1074b.](%C2%A7%2001074b%20-%20Transitional%20medical%20and%20dental%20care%20members%20on%20active%20duty%20in%20support%20of%20contingency%20operations.md) | Transitional medical and dental care: members on active duty in support of contingency operations. |
 | [1074c.](%C2%A7%2001074c%20-%20Medical%20care%20authority%20to%20provide%20a%20wig.md) | Medical care: authority to provide a wig. |
 | [1074d.](%C2%A7%2001074d%20-%20Certain%20primary%20and%20preventive%20health%20care%20services.md) | Certain primary and preventive health care services. |
+| [1074e.](%C2%A7%2001074e%20-%20Medical%20care%20certain%20Reserves%20who%20served%20in%20Southwest%20Asia%20during%20the%20Persian%20Gulf%20Conflict.md) | Medical care: certain Reserves who served in Southwest Asia during the Persian Gulf Conflict. |
+| [1074f.](%C2%A7%2001074f%20-%20Medical%20tracking%20system%20for%20members%20deployed%20overseas.md) | Medical tracking system for members deployed overseas. |
 | [1075\.](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md) | Officers and certain enlisted members: subsistence charges. |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20Dependents%E2%80%99%20dental%20program.md) | Dependents’ dental program. |
@@ -48,11 +50,14 @@
 | [1103\.](%C2%A7%2001103%20-%20Contracts%20for%20medical%20and%20dental%20care%20State%20and%20local%20preemption.md) | Contracts for medical and dental care: State and local preemption. |
 | [1104\.](%C2%A7%2001104%20-%20Sharing%20of%20health-care%20resources%20with%20the%20Department%20of%20Veterans%20Affairs.md) | Sharing of health-care resources with the Department of Veterans Affairs. |
 | [1105\.](%C2%A7%2001105%20-%20Specialized%20treatment%20facility%20program.md) | Specialized treatment facility program. |
-| [1106\.](%C2%A7%2001106%20-%20Submittal%20of%20claims%20under%20CHAMPUS.md) | Submittal of claims under CHAMPUS. |
+| [1106\.](%C2%A7%2001106%20-%20Submittal%20of%20claims%20standard%20form%3B%20time%20limits.md) | Submittal of claims: standard form; time limits. |
+| [1107\.](%C2%A7%2001107%20-%20Notice%20of%20use%20of%20an%20investigational%20new%20drug%20or%20a%20drug%20unapproved%20for%20its%20applied%20use.md) | Notice of use of an investigational new drug or a drug unapproved for its applied use. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title VII, §§738(b), 764(b), 765(a)(2), 766(b), Nov. 18, 1997, 111 Stat. 1815, 1826–1828, added items 1074e, 1074f, 1106, and 1107 and struck out former item 1106 “Submittal of claims under CHAMPUS”.
 
 1996—Pub. L. 104–201, div. A, title VII, §§701(a)(2)(B), 703(a)(2), 733(a)(2), Sept. 23, 1996, 110 Stat. 2587, 2590, 2598, substituted “Certain primary and preventive health care services” for “Primary and preventive health care services for women” in item 1074d and added items 1076c and 1079a.
 
@@ -104,7 +109,7 @@ Third party tort liability to United States for hospital and medical care, see s
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 129c, 1490 of this title; title 14 sections 668, 705; title 38 sections 1713, 7423, 8111; title 42 sections 248c, 248d.
+This chapter is referred to in sections 129c, 1490 of this title; title 14 sections 668, 705; title 26 sections 9801, 9805; title 29 sections 1181, 1191b; title 38 sections 1713, 7423, 8111; title 42 sections 300gg, 300gg–91.
 
 
 ---
@@ -119,6 +124,8 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01074b - Transitional medical and dental care members on active duty in support of contingency operations](%C2%A7%2001074b%20-%20Transitional%20medical%20and%20dental%20care%20members%20on%20active%20duty%20in%20support%20of%20contingency%20operations.md)
 - [&sect; 01074c - Medical care authority to provide a wig](%C2%A7%2001074c%20-%20Medical%20care%20authority%20to%20provide%20a%20wig.md)
 - [&sect; 01074d - Certain primary and preventive health care services](%C2%A7%2001074d%20-%20Certain%20primary%20and%20preventive%20health%20care%20services.md)
+- [&sect; 01074e - Medical care certain Reserves who served in Southwest Asia during the Persian Gulf Conflict](%C2%A7%2001074e%20-%20Medical%20care%20certain%20Reserves%20who%20served%20in%20Southwest%20Asia%20during%20the%20Persian%20Gulf%20Conflict.md)
+- [&sect; 01074f - Medical tracking system for members deployed overseas](%C2%A7%2001074f%20-%20Medical%20tracking%20system%20for%20members%20deployed%20overseas.md)
 - [&sect; 01075 - Officers and certain enlisted members subsistence charges](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - Dependents&#8217; dental program](%C2%A7%2001076a%20-%20Dependents%E2%80%99%20dental%20program.md)
@@ -157,4 +164,5 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01103 - Contracts for medical and dental care State and local preemption](%C2%A7%2001103%20-%20Contracts%20for%20medical%20and%20dental%20care%20State%20and%20local%20preemption.md)
 - [&sect; 01104 - Sharing of health-care resources with the Department of Veterans Affairs](%C2%A7%2001104%20-%20Sharing%20of%20health-care%20resources%20with%20the%20Department%20of%20Veterans%20Affairs.md)
 - [&sect; 01105 - Specialized treatment facility program](%C2%A7%2001105%20-%20Specialized%20treatment%20facility%20program.md)
-- [&sect; 01106 - Submittal of claims under CHAMPUS](%C2%A7%2001106%20-%20Submittal%20of%20claims%20under%20CHAMPUS.md)
+- [&sect; 01106 - Submittal of claims standard form; time limits](%C2%A7%2001106%20-%20Submittal%20of%20claims%20standard%20form%3B%20time%20limits.md)
+- [&sect; 01107 - Notice of use of an investigational new drug or a drug unapproved for its applied use](%C2%A7%2001107%20-%20Notice%20of%20use%20of%20an%20investigational%20new%20drug%20or%20a%20drug%20unapproved%20for%20its%20applied%20use.md)

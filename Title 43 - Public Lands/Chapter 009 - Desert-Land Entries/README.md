@@ -33,6 +33,7 @@
 - [&sect; 00321 - Entry right generally; extent of right to appropriate waters](%C2%A7%2000321%20-%20Entry%20right%20generally%3B%20extent%20of%20right%20to%20appropriate%20waters.md)
 - [&sect; 00322 - Desert lands defined; question how determined](%C2%A7%2000322%20-%20Desert%20lands%20defined%3B%20question%20how%20determined.md)
 - [&sect; 00323 - Application to certain States](%C2%A7%2000323%20-%20Application%20to%20certain%20States.md)
+- [&sect; 00316l - Stock driveways and free grazing](%C2%A7%2000316l%20-%20Stock%20driveways%20and%20free%20grazing.md)
 - [&sect; 00324 - Assignment of entries](%C2%A7%2000324%20-%20Assignment%20of%20entries.md)
 - [&sect; 00325 - Resident citizenship of State as qualification for entry](%C2%A7%2000325%20-%20Resident%20citizenship%20of%20State%20as%20qualification%20for%20entry.md)
 - [&sect; 00326 - Unsurveyed lands not subject to entry; preferential right of entry after survey](%C2%A7%2000326%20-%20Unsurveyed%20lands%20not%20subject%20to%20entry%3B%20preferential%20right%20of%20entry%20after%20survey.md)

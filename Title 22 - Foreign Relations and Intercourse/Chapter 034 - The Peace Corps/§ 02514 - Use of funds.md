@@ -72,7 +72,7 @@ Subsec. (d)(4). Pub. L. 89–572, §3(b), substituted “2506(c)” for “2506(
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of this title.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

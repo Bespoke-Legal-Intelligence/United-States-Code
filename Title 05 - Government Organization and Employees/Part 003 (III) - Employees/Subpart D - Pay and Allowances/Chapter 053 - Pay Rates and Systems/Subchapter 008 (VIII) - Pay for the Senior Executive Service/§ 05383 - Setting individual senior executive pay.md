@@ -46,7 +46,7 @@
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
+Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, seesection 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
 #### Senior Executive Service; Maximum Aggregate Amount Payable, Etc.; Report
 

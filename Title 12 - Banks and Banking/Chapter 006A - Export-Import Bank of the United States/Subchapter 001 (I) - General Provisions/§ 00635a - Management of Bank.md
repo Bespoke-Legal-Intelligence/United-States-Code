@@ -52,7 +52,9 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 (B) Such members shall be broadly representative of production, commerce, finance, agriculture, labor, services, and State government.
 
-(2) Not less than three members appointed to the Advisory Committee shall be representative of the small business community.
+(2)(A) Not less than three members appointed to the Advisory Committee shall be representative of the small business community.
+
+(B) Not less than 2 members appointed to the Advisory Committee shall be representative of the labor community, except that no 2 representatives of the labor community shall be selected from the same labor union.
 
 (3) The Advisory Committee shall meet at least once each quarter.
 
@@ -60,15 +62,21 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 #### (e) Conflicting personal interests
 
-No director, officer, attorney, agent, or employee of the Bank shall in any manner, directly or indirectly, participate in the deliberation upon or the determination of any question affecting such individual's personal interests, or the interests of any corporation, partnership or association in which such individual is directly or indirectly personally interested.
+(1) No director, officer, attorney, agent, or employee of the Bank shall in any manner, directly or indirectly, participate in the deliberation upon or the determination of any question affecting such individual's personal interests, or the interests of any corporation, partnership orassociation in which such individual is directly or indirectly personally interested.
 
-(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Mar. 13, 1968, Pub. L. 90–267, §1(a), (d), 82 Stat. 47, 49; Nov. 30, 1983,Pub. L. 98–181, title VI, §§613, 614(a), 620(b), 97 Stat. 1255, 1261; Oct. 15, 1986, Pub. L. 99–472, §18, 100 Stat. 1205; Oct. 21, 1992, Pub. L. 102–429, title I, §113, 106 Stat. 2195.)
+(2) The General Counsel of the Bank shall ensure that the directors, officers, and employees of the Bank have available appropriate legal counsel for advice on, and oversight of, issues relating to personnel matters and other administrative law matters by designating an attorney to serve as Assistant General Counsel for Administration, whose duties, under the supervision of the General Counsel, shall be concerned solely or primarily with such issues.
+
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title VI, §§613, 614(a), 620(b), Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; (As amended Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530.)
 
 #### Codification
 
 Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1997—Subsec. (d)(2). Pub. L. 105–121, §8, designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (e). Pub. L. 105–121, §6, designated existing provisions as par. (1) and added par. (2).
 
 1992—Subsec. (d)(1)(A). Pub. L. 102–429 substituted “15 members” for “twelve members”.
 
@@ -118,9 +126,11 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 104–208, div. A, title I, §101(c) \[title I\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–122, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 1997.”
+\[Pub. L. 105–118, title I, Nov. 26, 1997, 111 Stat. 2387, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 1998.”
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 104–208, div. A, title I, §101(c) \[title I\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–122.
 
 \[Pub. L. 104–107, title I, Feb. 12, 1996, 110 Stat. 705.
 
@@ -132,7 +142,7 @@ Section 118 of Pub. L. 102–429 directed Export-Import Bank, not later than 1 y
 
 #### Appointment of Member of Board To Represent Interests of Small Business Community
 
-Section 614(b) of Pub. L. 98–181 provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30, 1983\] shall be selected from among the small business community and shall represent the interests of small business.”
+Section 614(b) of Pub. L. 98–181 provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30,1983\] shall be selected from among the small business community and shall represent the interests of small business.”
 
 #### Board of Directors; Advisory Committee
 

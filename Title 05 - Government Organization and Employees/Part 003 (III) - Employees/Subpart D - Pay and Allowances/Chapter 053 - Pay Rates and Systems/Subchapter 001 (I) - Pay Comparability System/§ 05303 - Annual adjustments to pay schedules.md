@@ -24,7 +24,7 @@
 
 (f) Pay may not be paid, by reason of any provision of this section (disregarding any comparability payment payable), at a rate in excess of the rate of basic pay payable for level V of the Executive Schedule.
 
-(g) Any rate of pay under this section shall be initially adjusted, effective on the effective date of the rate of pay, under conversion rules prescribed by the President or by such agency or agencies as the President may designate.
+(g) Any rate of pay under this section shall be initially adjusted, effective on the effective dateof the rate of pay, under conversion rules prescribed by the President or by such agency or agencies as the President may designate.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 90–206, title II, §207, Dec. 16, 1967, 81 Stat. 631; Pub. L. 91–375, §6(c)(10), Aug. 12, 1970, 84 Stat. 776; Pub. L. 94–183, §2(16), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(2), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1430.)
 
@@ -106,7 +106,7 @@ Section 529 \[title I, §101(e)\] of Pub. L. 101–509 provided that: “It is t
 
 #### Federal Employee Pay Adjustments
 
-1996—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §637\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–364, providedthat: “For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1997 in the rates of basic pay for the statutory pay systems.”
+1996—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §637\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–364, provided that: “For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1997 in the rates of basic pay for the statutory pay systems.”
 
 1995—Pub. L. 104–52, title VI, §633, Nov. 19, 1995, 109 Stat. 507, provided that: “For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1996 in the rates of basic pay for the statutory pay systems.”
 
@@ -202,7 +202,7 @@ Adjustments in Rates of Pay.—Notwithstanding any other provision of law (inclu
 
 &emsp;“(A) the percentage increase that would have taken effect in fiscal year 1988 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) were applied to the rate of pay of each such office and position in effect on January 1, 1988 without regard to section 108 of the resolution entitled ‘Joint resolution making further continuing appropriations for the fiscal year 1988, and for other purposes’, approved December 22, 1987 \[Pub. L. 100–202\]; (101 Stat. 1329–434; 5 U.S.C. 5305 note \[set out below\]);
 
-&emsp;“(B) the percentage increase that would have taken effect in fiscal year 1989 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) were applied to the rate of pay of each such office and position in effect on January 1, 1989 (as adjusted under subparagraph (A) of this paragraph) without regard to subsection (b) of section 620 of the Treasury, Postal Service and General Government Appropriations Act, 1989 (Public Law 100–440; 102 Stat. 1756; 5 U.S.C. 5305 note \[set out below\]); and
+&emsp;“(B) the percentage increase that would have taken effect in fiscal year 1989 if the provisions of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) were applied to the rate of pay of each such office and position in effect on January 1, 1989 (as adjusted under subparagraph (A) of this paragraph) without regard to subsection (b) of section 620of the Treasury, Postal Service and General Government Appropriations Act, 1989 (Public Law 100–440; 102 Stat. 1756; 5 U.S.C. 5305 note \[set out below\]); and
 
 &emsp;“(C) the percentage increase that would take effect in fiscal year 1990 by the application of section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) (as adjusted under subparagraphs (A) and (B) of this paragraph) without regard to subsection (b) of section 619 of the Treasury, Postal Service and General Government Appropriations Act, 1990 (Public Law 101–136) \[set out below\].
 
@@ -330,7 +330,7 @@ Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat. 332, provided th
 
 1978—Pub. L. 95–429, title VI, §614, Oct. 10, 1978, 92 Stat. 1018, provided that:
 
-“(a) No part of any of the funds appropriated for the fiscal year ending September 30, 1979, by this Act or any other Act, may be used to pay the salary or pay of any individual in any office or position in an amount which exceeds the rate of salary or basic pay payablefor such office or position on September 30, 1978, by more than 5.5 percent, as a result of any adjustments which take effect during such fiscal year under—
+“(a) No part of any of the funds appropriated for the fiscal year ending September 30, 1979, by this Act or any other Act, may be used to pay the salary or pay of any individual in any office or position in an amount which exceeds the rate of salary or basic pay payable for such office or position on September 30, 1978, by more than 5.5 percent, as a result of any adjustments which take effect during such fiscal year under—
 
 &emsp;“(1) section 5305 of title 5, United States Code;
 

@@ -44,7 +44,7 @@ The board of directors shall meet at least once a month and shall have the gener
 
 &emsp;(21) do all other things that are necessary and proper to carry out all the purposes and powers of the Federal credit union, subject to regulations issued by the Board.
 
-(June 26, 1934, ch. 750, title I, §113, formerly §14, as added Sept. 22, 1959, Pub. L. 86–354, §1, 73 Stat. 632; amended July 2, 1964, Pub. L. 88–353, §3, 78 Stat. 269; July 5, 1968, Pub. L. 90–375, §1(4), 82 Stat. 284; Mar. 10, 1970, Pub. L. 91–206, §2(1), 84 Stat. 49; renumbered title I, §113, Oct. 19, 1970, Pub. L. 91–468, §1(2), 84 Stat. 994; amended Aug. 22, 1974, Pub. L. 93–383, title VII, §723, 88 Stat. 719; Apr. 19, 1977, Pub. L. 95–22, title III, §309, 91 Stat. 53; Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681; Oct. 15, 1982, Pub. L. 97–320, title V, §522, 96 Stat. 1532; Jan. 12, 1983, Pub. L. 97–457, §28, 96 Stat. 2510; Aug. 10, 1987, Pub. L. 100–86, title VII, §§704(b), 705, 101 Stat. 652.)
+(June 26, 1934, ch. 750, title I, §113, formerly §14, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 632; amended Pub. L. 88–353, §3, July 2, 1964, 78 Stat. 269; Pub. L. 90–375, §1(4), July 5, 1968, 82 Stat. 284; Pub. L. 91–206, §2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §113, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, §723, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–22, title III, §309, Apr. 19, 1977, 91 Stat. 53; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §522, Oct. 15, 1982, 96 Stat. 1532; Pub. L. 97–457, §28, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 100–86, title VII, §§704(b), 705, Aug. 10, 1987, 101 Stat. 652.)
 
 #### Prior Provisions
 
@@ -68,7 +68,7 @@ Par. (15). Pub. L. 97–457, §28(4), substituted “meeting” for “meetings�
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator” in two places.
 
-1977—Pub. L. 95–22 substituted “and share certificates and the classes of shares and share certificates that may be held” for “that may be held by an individual” and “, the security, and the maximum amount which may be loaned or provided in lines of credit” for “and the maximum amount which may be loaned with or without security to any member”.
+1977—Pub. L. 95–22 substituted “and share certificates and the classes of shares and share certificates thatmay be held” for “that may be held by an individual” and “, the security, and the maximum amount which may be loaned or provided in lines of credit” for “and the maximum amount which may be loaned with or without security to any member”.
 
 1974—Pub. L. 93–383 inserted provisions authorizing designation of a committee of not less than two to act as an investment committee and provisions relating to denial of a membership application, substituted “one or more membership officers” for “a membership officer”, and substituted provisions relating to exercise of authority by the executive committee for provisions setting forth specified functions of the executive committee.
 

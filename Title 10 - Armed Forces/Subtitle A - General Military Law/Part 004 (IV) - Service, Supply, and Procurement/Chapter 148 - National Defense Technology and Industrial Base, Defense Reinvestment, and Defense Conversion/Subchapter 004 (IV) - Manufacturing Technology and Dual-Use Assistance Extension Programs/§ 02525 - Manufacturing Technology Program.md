@@ -28,7 +28,7 @@ Purpose of Program.—The Secretary of Defense shall use the program—
 
 Execution.—(1) The Secretary may carry out projects under the program through the Secretaries of the military departments and the heads of the Defense Agencies.
 
-(2) The Secretary shall seek, to the extent practicable, the participation of manufacturers of manufacturing equipment in the projects under the program.
+(2) In order to promote increased dissemination and use of manufacturing technology throughout the national defense technology and industrial base, the Secretary shall seek, to the maximum extent practicable, the participation of manufacturers of manufacturing equipment in the projects under the program.
 
 (d)
 
@@ -46,7 +46,19 @@ Competition and Cost Sharing.—(1) Competitive procedures shall be used for awa
 
 (4) If the requirement of paragraph (3) cannot be met by July 15 of a fiscal year, the Under Secretary of Defense for Acquisition and Technology may waive the requirement and obligate the balance of the funds available for the program for that fiscal year on a cost-share basis under which the ratio of recipient cost to Government cost is less than two to one. Before implementing any such waiver, the Under Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the reasons for the waiver.
 
-(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700; amendedPub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512.)
+(e)
+
+Five-Year Plan.—(1) The Secretary of Defense shall prepare a five-year plan for the program which establishes—
+
+&emsp;(A) the overall manufacturing technology goals, milestones, priorities, and investment strategy for the program; and
+
+&emsp;(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the program by, each military department and each Defense Agency participating in the program.
+
+(2) The plan shall include an assessment of the effectiveness of the program.
+
+(3) The plan shall be updated annually and shall be included in the budget justification documents submitted in support of the budget of the Department of Defense for a fiscal year (as included in the budget of the President submitted to Congress under section 1105 of title 31).
+
+(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657.)
 
 #### Prior Provisions
 
@@ -55,6 +67,10 @@ A prior section 2525 was renumbered section 2517 of this title.
 A prior section 2526 was renumbered section 2518 of this title.
 
 #### Amendments
+
+1997—Subsec. (c)(2). Pub. L. 105–85, §211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall seek, to the extent practicable, the participation of manufacturers of manufacturing equipment in the projects under the program.”
+
+Subsec. (e). Pub. L. 105–85, §211(b), added subsec. (e).
 
 1996—Pub. L. 104–106, §276(a)(1), amended section catchline, as amended by Pub. L. 104–106, §§1503(a)(28), 1506, by striking out “Science and” after “Manufacturing”.
 
@@ -73,4 +89,8 @@ Subsec. (d)(2)(C). Pub. L. 104–106, §276(a)(4)(A), added subpar. (C).
 Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
 
 1994—Pub. L. 103–337 substituted “Manufacturing science and technology program” for “Industrial Preparedness Manufacturing Technology Program” as section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
+
+#### Deadline for First Plan
+
+Section 211(c) of Pub. L. 105–85 provided that: “The Secretary of Defense shall prepare the first five-year plan required under section 2525(e) of such title \[10 U.S.C. 2525(e)\], as added by subsection (b), within 60 days after the date of the enactment of this Act \[Nov. 18, 1997\].”
 

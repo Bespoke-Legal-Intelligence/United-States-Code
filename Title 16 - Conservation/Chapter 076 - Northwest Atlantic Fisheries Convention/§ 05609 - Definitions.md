@@ -32,7 +32,7 @@ In this chapter the following definitions apply:
 
 #### (8) Person
 
-&emsp;The term “person” means any individual (whether or not a citizen or national of theUnited States), and any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State).
+&emsp;The term “person” means any individual (whether or not a citizen or national of the United States), and any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State).
 
 #### (9) Representative
 

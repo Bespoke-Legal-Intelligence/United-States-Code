@@ -1,4 +1,4 @@
 ### §302. Repealed. Oct. 31, 1951, ch. 654, §1(95), 65 Stat. 705
 
-Section, R.S. §3749, related to renting or selling of unproductive lands, or other property of United Statesacquired under judicial process or otherwise in collection of debts. See sections 483 and 484 of this title.
+Section, R.S. §3749, related to renting or selling of unproductive lands, or other property of United States acquired under judicial process or otherwise in collection of debts. See sections 483 and 484 of this title.
 

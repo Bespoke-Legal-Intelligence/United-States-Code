@@ -12,7 +12,7 @@ The Secretary of the Interior and the Secretary of Agriculture shall jointly est
 
 &emsp;(B) such other information as the Secretaries may jointly by regulation prescribe.
 
-(2) The Secretaries may approve applications which they determine (A) to meet the requirements of paragraph (1), and (B) are for projectswhich will further the development, preservation, or maintenance of non-Federal public lands or waters within the jurisdiction of the applicant.
+(2) The Secretaries may approve applications which they determine (A) to meet the requirements of paragraph (1), and (B) are for projects which will further the development, preservation, or maintenance of non-Federal public lands or waters within the jurisdiction of the applicant.
 
 #### (c) Limitation on the amount of grant
 
@@ -24,7 +24,7 @@ The Secretary of the Interior and the Secretary of Agriculture shall jointly est
 
 Thirty per centum of the sums appropriated under section 1706 of this title for any fiscal year shall be made available for grants under this section for such fiscal year.
 
-(Pub. L. 91–378, title I, §104, formerly §4, Aug. 13, 1970, 84 Stat. 796; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1320; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, §104, and amended Pub. L. 103–82, title I, §105(1), (3), (5), Sept. 21, 1993, 107 Stat. 848.)
+(Pub. L. 91–378, title I, §104, formerly §4, Aug. 13, 1970, 84 Stat. 796; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1320; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, §104, and amended Pub.L. 103–82, title I, §105(1), (3), (5), Sept. 21, 1993, 107 Stat. 848.)
 
 #### Amendments
 

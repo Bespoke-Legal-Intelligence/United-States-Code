@@ -2,7 +2,7 @@
 
 (a)
 
-Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defense shall prescribe regulations governing information furnished to selection boards convened under section 14101(a) of this title. Those regulations shall apply uniformly among the military departments. Any regulations prescribed by the Secretary of a military department to supplement those regulations may not take effect without the approval of the Secretary of Defense in writing.
+Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defense shall prescribe regulations governing information furnished to selection boards convenedunder section 14101(a) of this title. Those regulations shall apply uniformly among the military departments. Any regulations prescribed by the Secretary of a military department to supplement those regulations may not take effect without the approval of the Secretary of Defense in writing.
 
 (2) No information concerning a particular eligible officer may be furnished to a selection board except for the following:
 

@@ -1,5 +1,5 @@
 
-42 U.S.C.<br>United States Code, 1996 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
+42 U.S.C.<br>United States Code, 1997 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
@@ -13,11 +13,11 @@
 | [<b>4.</b>](Chapter%20004%20-%20Viruses%2C%20Serums%2C%20Toxins%2C%20Antitoxins%2C%20Etc/README.md) | <b>Viruses, Serums, Toxins, Antitoxins, etc. \[Repealed\]</b> | <b>141</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Maternity%20and%20Infancy%20Welfare%20and%20Hygiene/README.md) | <b>Maternity and Infancy Welfare and Hygiene \[Repealed\]</b> | <b>161</b> |
 | [<b>6.</b>](Chapter%20006%20-%20The%20Children%27s%20Bureau/README.md) | <b>The Children's Bureau</b> | <b>191</b> |
-| <b>6A.</b> | <b>Public Health Service</b> | <b>201</b> |
-| <b>7.</b> | <b>Social Security</b> | <b>301</b> |
+| [<b>6A.</b>](Chapter%20006A%20-%20Public%20Health%20Service/README.md) | <b>Public Health Service</b> | <b>201</b> |
+| [<b>7.</b>](Chapter%20007%20-%20Social%20Security/README.md) | <b>Social Security</b> | <b>301</b> |
 | [<b>7A.</b>](Chapter%20007A%20-%20Temporary%20Unemployment%20Compensation%20Program/README.md) | <b>Temporary Unemployment Compensation Program \[Omitted\]</b> | <b>1400</b> |
 | [<b>8.</b>](Chapter%20008%20-%20Low-Income%20Housing/README.md) | <b>Low-Income Housing</b> | <b>1401</b> |
-| <b>8A.</b> | <b>Slum Clearance, Urban Renewal, and Farm Housing</b> | <b>1441</b> |
+| [<b>8A.</b>](Chapter%20008A%20-%20Slum%20Clearance%2C%20Urban%20Renewal%2C%20and%20Farm%20Housing/README.md) | <b>Slum Clearance, Urban Renewal, and Farm Housing</b> | <b>1441</b> |
 | [<b>8B.</b>](Chapter%20008B%20-%20Public%20Works%20or%20Facilities/README.md) | <b>Public Works or Facilities \[Omitted\]</b> | <b>1491</b> |
 | [<b>8C.</b>](Chapter%20008C%20-%20Open-Space%20Land/README.md) | <b>Open-Space Land \[Omitted or Repealed\]</b> | <b>1500</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Housing%20of%20Persons%20Engaged%20in%20National%20Defense/README.md) | <b>Housing of Persons Engaged in National Defense</b> | <b>1501</b> |
@@ -40,11 +40,11 @@
 | [<b>19B.</b>](Chapter%20019B%20-%20Water%20Resources%20Planning/README.md) | <b>Water Resources Planning</b> | <b>1962</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Elective%20Franchise/README.md) | <b>Elective Franchise</b> | <b>1971</b> |
 | [<b>20A.</b>](Chapter%20020A%20-%20Civil%20Rights%20Commission/README.md) | <b>Civil Rights Commission</b> | <b>1975</b> |
-| <b>21.</b> | <b>Civil Rights</b> | <b>1981</b> |
+| [<b>21.</b>](Chapter%20021%20-%20Civil%20Rights/README.md) | <b>Civil Rights</b> | <b>1981</b> |
 | [<b>21A.</b>](Chapter%20021A%20-%20Privacy%20Protection/README.md) | <b>Privacy Protection</b> | <b>2000aa</b> |
 | [<b>21B.</b>](Chapter%20021B%20-%20Religious%20Freedom%20Restoration/README.md) | <b>Religious Freedom Restoration</b> | <b>2000bb</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Indian%20Hospitals%20and%20Health%20Facilities/README.md) | <b>Indian Hospitals and Health Facilities</b> | <b>2001</b> |
-| <b>23.</b> | <b>Development and Control of Atomic Energy</b> | <b>2011</b> |
+| [<b>23.</b>](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md) | <b>Development and Control of Atomic Energy</b> | <b>2011</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md) | <b>Disposal of Atomic Energy Communities</b> | <b>2301</b> |
 | [<b>25.</b>](Chapter%20025%20-%20Federal%20Flood%20Insurance/README.md) | <b>Federal Flood Insurance</b> | <b>2401</b> |
 | [<b>26.</b>](Chapter%20026%20-%20National%20Space%20Program/README.md) | <b>National Space Program</b> | <b>2451</b> |
@@ -58,7 +58,7 @@
 | [<b>32.</b>](Chapter%20032%20-%20Third%20Party%20Liability%20for%20Hospital%20and%20Medical%20Care/README.md) | <b>Third Party Liability for Hospital and Medical Care</b> | <b>2651</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Community%20Mental%20Health%20Centers/README.md) | <b>Community Mental Health Centers \[Omitted, Transferred, or Repealed\]</b> | <b>2661</b> |
 | [<b>34.</b>](Chapter%20034%20-%20Economic%20Opportunity%20Program/README.md) | <b>Economic Opportunity Program</b> | <b>2701</b> |
-| <b>35.</b> | <b>Programs for Older Americans</b> | <b>3001</b> |
+| [<b>35.</b>](Chapter%20035%20-%20Programs%20for%20Older%20Americans/README.md) | <b>Programs for Older Americans</b> | <b>3001</b> |
 | [<b>35A.</b>](Chapter%20035A%20-%20Community%20Service%20Employment%20for%20Older%20Americans/README.md) | <b>Community Service Employment for Older Americans \[Repealed\]</b> | <b>3061</b> |
 | [<b>36.</b>](Chapter%20036%20-%20Compensation%20of%20Condemnees%20in%20Development%20Programs/README.md) | <b>Compensation of Condemnees in Development Programs \[Repealed\]</b> | <b>3071</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Community%20Facilities%20and%20Advance%20Land%20Acquisition/README.md) | <b>Community Facilities and Advance Land Acquisition</b> | <b>3101</b> |
@@ -70,7 +70,7 @@
 | [<b>43.</b>](Chapter%20043%20-%20Department%20of%20Health%20and%20Human%20Services/README.md) | <b>Department of Health and Human Services</b> | <b>3501</b> |
 | [<b>44.</b>](Chapter%20044%20-%20Department%20of%20Housing%20and%20Urban%20Development/README.md) | <b>Department of Housing and Urban Development</b> | <b>3531</b> |
 | [<b>45.</b>](Chapter%20045%20-%20Fair%20Housing/README.md) | <b>Fair Housing</b> | <b>3601</b> |
-| <b>46.</b> | <b>Justice System Improvement</b> | <b>3701</b> |
+| [<b>46.</b>](Chapter%20046%20-%20Justice%20System%20Improvement/README.md) | <b>Justice System Improvement</b> | <b>3701</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Juvenile%20Delinquency%20Prevention%20and%20Control/README.md) | <b>Juvenile Delinquency Prevention and Control \[Omitted or Repealed\]</b> | <b>3801</b> |
 | [<b>48.</b>](Chapter%20048%20-%20Guarantees%20for%20Financing%20New%20Community%20Land%20Development/README.md) | <b>Guarantees for Financing New Community Land Development \[Repealed or Omitted\]</b> | <b>3901</b> |
 | [<b>49.</b>](Chapter%20049%20-%20National%20Housing%20Partnerships/README.md) | <b>National Housing Partnerships</b> | <b>3931</b> |
@@ -103,15 +103,15 @@
 | [<b>74.</b>](Chapter%20074%20-%20Nonnuclear%20Energy%20Research%20and%20Development/README.md) | <b>Nonnuclear Energy Research and Development</b> | <b>5901</b> |
 | [<b>75.</b>](Chapter%20075%20-%20Programs%20for%20Individuals%20with%20Developmental%20Disabilities/README.md) | <b>Programs for Individuals With Developmental Disabilities</b> | <b>6000</b> |
 | [<b>76.</b>](Chapter%20076%20-%20Age%20Discrimination%20in%20Federally%20Assisted%20Programs/README.md) | <b>Age Discrimination in Federally Assisted Programs</b> | <b>6101</b> |
-| <b>77.</b> | <b>Energy Conservation</b> | <b>6201</b> |
+| [<b>77.</b>](Chapter%20077%20-%20Energy%20Conservation/README.md) | <b>Energy Conservation</b> | <b>6201</b> |
 | [<b>78.</b>](Chapter%20078%20-%20National%20Petroleum%20Reserve%20in%20Alaska/README.md) | <b>National Petroleum Reserve in Alaska</b> | <b>6501</b> |
 | [<b>79.</b>](Chapter%20079%20-%20Science%20and%20Technology%20Policy%2C%20Organization%20and%20Priorities/README.md) | <b>Science and Technology Policy, Organization and Priorities</b> | <b>6601</b> |
 | [<b>80.</b>](Chapter%20080%20-%20Public%20Works%20Employment/README.md) | <b>Public Works Employment</b> | <b>6701</b> |
 | [<b>81.</b>](Chapter%20081%20-%20Energy%20Conservation%20and%20Resource%20Renewal/README.md) | <b>Energy Conservation and Resource Renewal</b> | <b>6801</b> |
-| <b>82.</b> | <b>Solid Waste Disposal</b> | <b>6901</b> |
+| [<b>82.</b>](Chapter%20082%20-%20Solid%20Waste%20Disposal/README.md) | <b>Solid Waste Disposal</b> | <b>6901</b> |
 | [<b>83.</b>](Chapter%20083%20-%20Energy%20Extension%20Service/README.md) | <b>Energy Extension Service</b> | <b>7001</b> |
-| <b>84.</b> | <b>Department of Energy</b> | <b>7101</b> |
-| <b>85.</b> | <b>Air Pollution Prevention and Control</b> | <b>7401</b> |
+| [<b>84.</b>](Chapter%20084%20-%20Department%20of%20Energy/README.md) | <b>Department of Energy</b> | <b>7101</b> |
+| [<b>85.</b>](Chapter%20085%20-%20Air%20Pollution%20Prevention%20and%20Control/README.md) | <b>Air Pollution Prevention and Control</b> | <b>7401</b> |
 | [<b>86.</b>](Chapter%20086%20-%20Earthquake%20Hazards%20Reduction/README.md) | <b>Earthquake Hazards Reduction</b> | <b>7701</b> |
 | [<b>87.</b>](Chapter%20087%20-%20Water%20Research%20and%20Development/README.md) | <b>Water Research and Development \[Repealed or Transferred\]</b> | <b>7801</b> |
 | [<b>88.</b>](Chapter%20088%20-%20Uranium%20Mill%20Tailings%20Radiation%20Control/README.md) | <b>Uranium Mill Tailings Radiation Control</b> | <b>7901</b> |
@@ -165,6 +165,8 @@
 | [<b>135.</b>](Chapter%20135%20-%20Residency%20and%20Service%20Requirements%20in%20Federally%20Assisted%20Housing/README.md) | <b>Residency and Service Requirements in Federally Assisted Housing</b> | <b>13601</b> |
 | [<b>136.</b>](Chapter%20136%20-%20Violent%20Crime%20Control%20and%20Law%20Enforcement/README.md) | <b>Violent Crime Control and Law Enforcement</b> | <b>13701</b> |
 | [<b>137.</b>](Chapter%20137%20-%20Management%20of%20Rechargeable%20Batteries%20and%20Batteries%20Containing%20Mercury/README.md) | <b>Management of Rechargeable Batteries and Batteries Containing Mercury</b> | <b>14301</b> |
+| [<b>138.</b>](Chapter%20138%20-%20Assisted%20Suicide%20Funding%20Restriction/README.md) | <b>Assisted Suicide Funding Restriction</b> | <b>14401</b> |
+| [<b>139.</b>](Chapter%20139%20-%20Volunteer%20Protection/README.md) | <b>Volunteer Protection</b> | <b>14501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -181,8 +183,11 @@
 - [Chapter 004 - Viruses, Serums, Toxins, Antitoxins, Etc](Chapter%20004%20-%20Viruses%2C%20Serums%2C%20Toxins%2C%20Antitoxins%2C%20Etc/README.md)
 - [Chapter 005 - Maternity and Infancy Welfare and Hygiene](Chapter%20005%20-%20Maternity%20and%20Infancy%20Welfare%20and%20Hygiene/README.md)
 - [Chapter 006 - The Children's Bureau](Chapter%20006%20-%20The%20Children%27s%20Bureau/README.md)
+- [Chapter 006A - Public Health Service](Chapter%20006A%20-%20Public%20Health%20Service/README.md)
+- [Chapter 007 - Social Security](Chapter%20007%20-%20Social%20Security/README.md)
 - [Chapter 007A - Temporary Unemployment Compensation Program](Chapter%20007A%20-%20Temporary%20Unemployment%20Compensation%20Program/README.md)
 - [Chapter 008 - Low-Income Housing](Chapter%20008%20-%20Low-Income%20Housing/README.md)
+- [Chapter 008A - Slum Clearance, Urban Renewal, and Farm Housing](Chapter%20008A%20-%20Slum%20Clearance%2C%20Urban%20Renewal%2C%20and%20Farm%20Housing/README.md)
 - [Chapter 008B - Public Works or Facilities](Chapter%20008B%20-%20Public%20Works%20or%20Facilities/README.md)
 - [Chapter 008C - Open-Space Land](Chapter%20008C%20-%20Open-Space%20Land/README.md)
 - [Chapter 009 - Housing of Persons Engaged in National Defense](Chapter%20009%20-%20Housing%20of%20Persons%20Engaged%20in%20National%20Defense/README.md)
@@ -205,9 +210,11 @@
 - [Chapter 019B - Water Resources Planning](Chapter%20019B%20-%20Water%20Resources%20Planning/README.md)
 - [Chapter 020 - Elective Franchise](Chapter%20020%20-%20Elective%20Franchise/README.md)
 - [Chapter 020A - Civil Rights Commission](Chapter%20020A%20-%20Civil%20Rights%20Commission/README.md)
+- [Chapter 021 - Civil Rights](Chapter%20021%20-%20Civil%20Rights/README.md)
 - [Chapter 021A - Privacy Protection](Chapter%20021A%20-%20Privacy%20Protection/README.md)
 - [Chapter 021B - Religious Freedom Restoration](Chapter%20021B%20-%20Religious%20Freedom%20Restoration/README.md)
 - [Chapter 022 - Indian Hospitals and Health Facilities](Chapter%20022%20-%20Indian%20Hospitals%20and%20Health%20Facilities/README.md)
+- [Chapter 023 - Development and Control of Atomic Energy](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md)
 - [Chapter 024 - Disposal of Atomic Energy Communities](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md)
 - [Chapter 025 - Federal Flood Insurance](Chapter%20025%20-%20Federal%20Flood%20Insurance/README.md)
 - [Chapter 026 - National Space Program](Chapter%20026%20-%20National%20Space%20Program/README.md)
@@ -221,6 +228,7 @@
 - [Chapter 032 - Third Party Liability for Hospital and Medical Care](Chapter%20032%20-%20Third%20Party%20Liability%20for%20Hospital%20and%20Medical%20Care/README.md)
 - [Chapter 033 - Community Mental Health Centers](Chapter%20033%20-%20Community%20Mental%20Health%20Centers/README.md)
 - [Chapter 034 - Economic Opportunity Program](Chapter%20034%20-%20Economic%20Opportunity%20Program/README.md)
+- [Chapter 035 - Programs for Older Americans](Chapter%20035%20-%20Programs%20for%20Older%20Americans/README.md)
 - [Chapter 035A - Community Service Employment for Older Americans](Chapter%20035A%20-%20Community%20Service%20Employment%20for%20Older%20Americans/README.md)
 - [Chapter 036 - Compensation of Condemnees in Development Programs](Chapter%20036%20-%20Compensation%20of%20Condemnees%20in%20Development%20Programs/README.md)
 - [Chapter 037 - Community Facilities and Advance Land Acquisition](Chapter%20037%20-%20Community%20Facilities%20and%20Advance%20Land%20Acquisition/README.md)
@@ -232,6 +240,7 @@
 - [Chapter 043 - Department of Health and Human Services](Chapter%20043%20-%20Department%20of%20Health%20and%20Human%20Services/README.md)
 - [Chapter 044 - Department of Housing and Urban Development](Chapter%20044%20-%20Department%20of%20Housing%20and%20Urban%20Development/README.md)
 - [Chapter 045 - Fair Housing](Chapter%20045%20-%20Fair%20Housing/README.md)
+- [Chapter 046 - Justice System Improvement](Chapter%20046%20-%20Justice%20System%20Improvement/README.md)
 - [Chapter 047 - Juvenile Delinquency Prevention and Control](Chapter%20047%20-%20Juvenile%20Delinquency%20Prevention%20and%20Control/README.md)
 - [Chapter 048 - Guarantees for Financing New Community Land Development](Chapter%20048%20-%20Guarantees%20for%20Financing%20New%20Community%20Land%20Development/README.md)
 - [Chapter 049 - National Housing Partnerships](Chapter%20049%20-%20National%20Housing%20Partnerships/README.md)
@@ -264,11 +273,15 @@
 - [Chapter 074 - Nonnuclear Energy Research and Development](Chapter%20074%20-%20Nonnuclear%20Energy%20Research%20and%20Development/README.md)
 - [Chapter 075 - Programs for Individuals with Developmental Disabilities](Chapter%20075%20-%20Programs%20for%20Individuals%20with%20Developmental%20Disabilities/README.md)
 - [Chapter 076 - Age Discrimination in Federally Assisted Programs](Chapter%20076%20-%20Age%20Discrimination%20in%20Federally%20Assisted%20Programs/README.md)
+- [Chapter 077 - Energy Conservation](Chapter%20077%20-%20Energy%20Conservation/README.md)
 - [Chapter 078 - National Petroleum Reserve in Alaska](Chapter%20078%20-%20National%20Petroleum%20Reserve%20in%20Alaska/README.md)
 - [Chapter 079 - Science and Technology Policy, Organization and Priorities](Chapter%20079%20-%20Science%20and%20Technology%20Policy%2C%20Organization%20and%20Priorities/README.md)
 - [Chapter 080 - Public Works Employment](Chapter%20080%20-%20Public%20Works%20Employment/README.md)
 - [Chapter 081 - Energy Conservation and Resource Renewal](Chapter%20081%20-%20Energy%20Conservation%20and%20Resource%20Renewal/README.md)
+- [Chapter 082 - Solid Waste Disposal](Chapter%20082%20-%20Solid%20Waste%20Disposal/README.md)
 - [Chapter 083 - Energy Extension Service](Chapter%20083%20-%20Energy%20Extension%20Service/README.md)
+- [Chapter 084 - Department of Energy](Chapter%20084%20-%20Department%20of%20Energy/README.md)
+- [Chapter 085 - Air Pollution Prevention and Control](Chapter%20085%20-%20Air%20Pollution%20Prevention%20and%20Control/README.md)
 - [Chapter 086 - Earthquake Hazards Reduction](Chapter%20086%20-%20Earthquake%20Hazards%20Reduction/README.md)
 - [Chapter 087 - Water Research and Development](Chapter%20087%20-%20Water%20Research%20and%20Development/README.md)
 - [Chapter 088 - Uranium Mill Tailings Radiation Control](Chapter%20088%20-%20Uranium%20Mill%20Tailings%20Radiation%20Control/README.md)
@@ -322,3 +335,5 @@
 - [Chapter 135 - Residency and Service Requirements in Federally Assisted Housing](Chapter%20135%20-%20Residency%20and%20Service%20Requirements%20in%20Federally%20Assisted%20Housing/README.md)
 - [Chapter 136 - Violent Crime Control and Law Enforcement](Chapter%20136%20-%20Violent%20Crime%20Control%20and%20Law%20Enforcement/README.md)
 - [Chapter 137 - Management of Rechargeable Batteries and Batteries Containing Mercury](Chapter%20137%20-%20Management%20of%20Rechargeable%20Batteries%20and%20Batteries%20Containing%20Mercury/README.md)
+- [Chapter 138 - Assisted Suicide Funding Restriction](Chapter%20138%20-%20Assisted%20Suicide%20Funding%20Restriction/README.md)
+- [Chapter 139 - Volunteer Protection](Chapter%20139%20-%20Volunteer%20Protection/README.md)

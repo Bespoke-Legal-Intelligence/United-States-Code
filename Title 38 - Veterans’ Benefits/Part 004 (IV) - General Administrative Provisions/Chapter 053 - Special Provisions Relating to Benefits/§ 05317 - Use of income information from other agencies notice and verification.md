@@ -22,19 +22,21 @@
 
 (d) In the case of compensation described in subsection (c)(4) of this section, the Secretary may independently verify or otherwise act upon wage or self-employment information referred to in subsection (b) of this section only if the Secretary finds that the amount and duration of the earnings reported in that information clearly indicate that the individual may no longer be qualified for a rating of total disability.
 
-(e) The Secretary shall inform the individual of the findings made by the Secretary on the basis of verified information under subsection (b) of this section, and shall give the individual an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility for the benefit or service involved.
+(e) The Secretary shall inform the individual of the findings made by the Secretary on the basis of verified information under subsection\(b) of this section, and shall give the individual an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility for the benefit or service involved.
 
 (f) The Secretary shall pay the expenses of carrying out this section from amounts available to the Department for the payment of compensation and pension.
 
-(g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Secretary of Health and Human Services under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 1998.
+(g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Secretary of Health and Human Services under section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2002.
 
-(Added Pub. L. 101–508, title VIII, §8051(b)(1), Nov. 5, 1990, 104 Stat. 1388–350, §3117; renumbered §5317, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XII, §12004, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(e)(3), Oct. 9, 1996, 110 Stat. 3181.)
+(Added Pub. L. 101–508, title VIII, §8051(b)(1), Nov. 5, 1990, 104 Stat. 1388–350, §3117; renumbered §5317, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XII, §12004, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(e)(3), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 105–33, title VIII, §8014, Aug. 5, 1997, 111 Stat. 664.)
 
 #### References in Text
 
 Section 6103(<i>l</i>)(7)(D)(viii) of the Internal Revenue Code, referred to in subsecs. (a), (b), and (g), is classified to section 6103(<i>l</i>)(7)(D)(viii) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1997—Subsec. (g). Pub. L. 105–33 substituted “September 30, 2002” for “September 30, 1998”.
 
 1996—Subsec. (c)(3). Pub. L. 104–262 substituted “subsections (a)(2)(G), (a)(3), and (b) of section 1710” for “sections 1710(a)(1)(I), 1710(a)(2), 1710(b), and 1712(a)(2)(B)”.
 

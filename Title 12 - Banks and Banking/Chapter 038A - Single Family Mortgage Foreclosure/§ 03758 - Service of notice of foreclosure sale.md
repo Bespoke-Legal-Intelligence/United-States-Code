@@ -44,7 +44,7 @@ The foreclosure commissioner shall serve the notice of default and foreclosure s
 
 #### (C) Effectiveness of notice
 
-&emsp;&emsp;Notice by mail pursuant to this section or section 3756(c) of this title shall be deemedduly given upon mailing, whether or not received by the addressee and whether or not a return receipt is received or the notice is returned.
+&emsp;&emsp;Notice by mail pursuant to this section or section 3756(c) of this title shall be deemed duly given upon mailing, whether or not received by the addressee and whether or not a return receipt is received or the notice is returned.
 
 #### (3) Publication
 

@@ -78,5 +78,5 @@ Clause (2) is added to distinguish between railroad transportation and the entit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 12181.
+This section is referred to in section 24301 of this title; title 42 section 12181.
 

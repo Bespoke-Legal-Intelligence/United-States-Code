@@ -18,7 +18,7 @@ After the establishment of a board under subsection (a) of this section and for 
 
 There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(June 23, 1947, ch. 120, title II, §213, as added July 26, 1974, Pub. L. 93–360, §2, 88 Stat. 396.)
+(June 23, 1947, ch. 120, title II, §213, as added Pub. L. 93–360, §2, July 26, 1974, 88 Stat. 396.)
 
 #### Effective Date
 

@@ -4,7 +4,7 @@ Under regulations prescribed by the Secretary of the Senate, a person serving as
 
 Section 50 of the Revised Statutes <sup>1</sup> shall not be effective as to persons included within the foregoing.
 
-(Jan. 6, 1951, ch. 1213, Ch. I, §1, 64 Stat. 1224; Oct. 31, 1972, Pub. L. 92–607, ch. V, §503, 86 Stat. 1505.)
+(Jan. 6, 1951, ch. 1213, Ch. I, §1, 64 Stat. 1224; Pub. L. 92–607, ch. V, §503, Oct. 31, 1972, 86 Stat. 1505.)
 
 #### References in Text
 

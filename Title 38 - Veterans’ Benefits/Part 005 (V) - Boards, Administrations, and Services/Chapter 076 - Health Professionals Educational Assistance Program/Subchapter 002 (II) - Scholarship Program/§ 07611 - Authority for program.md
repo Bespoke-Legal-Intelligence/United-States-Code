@@ -10,6 +10,10 @@ As part of the Educational Assistance Program, the Secretary shall carry out a s
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department of Veterans Affairs” for “Veterans’ Administration”.
 
+#### Submission of Overdue Report
+
+Pub. L. 105–114, title II, §207(b), Nov. 21, 1997, 111 Stat. 2289, provided that: “The Secretary of Veterans Affairs shall submit to Congress not later than 180 days after the date of the enactment of this Act \[Nov. 21, 1997\] the report evaluating the operation of the health professional scholarship program required to be submitted not later than March 31, 1997, under section 202(b) of Public Law 104–110 (110 Stat. 770) \[set out below\].”
+
 #### Health Professional Scholarship Program
 
 Pub. L. 104–110, title II, §202(b), Feb. 13, 1996, 110 Stat. 770, provided that:

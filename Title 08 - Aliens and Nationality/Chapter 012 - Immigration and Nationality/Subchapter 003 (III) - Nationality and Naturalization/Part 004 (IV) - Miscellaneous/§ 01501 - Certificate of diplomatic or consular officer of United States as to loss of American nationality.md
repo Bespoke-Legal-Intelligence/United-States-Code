@@ -28,3 +28,7 @@ Definition of the term—
 
 &emsp;&emsp;National of the United States, see section 1101(a)(22) of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 26 section 6039F.
+

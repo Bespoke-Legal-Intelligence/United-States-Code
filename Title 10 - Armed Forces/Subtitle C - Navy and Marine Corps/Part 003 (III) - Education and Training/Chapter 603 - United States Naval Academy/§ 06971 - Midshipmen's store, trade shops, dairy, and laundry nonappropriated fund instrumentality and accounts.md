@@ -16,7 +16,7 @@ Covered Activities.—The nonappropriated fund instrumentality required under su
 
 &emsp;(4) The tailor shop.
 
-&emsp;(5) The dairy.
+&emsp;(5) The dairy (if any).
 
 &emsp;(6) The laundry.
 
@@ -32,7 +32,7 @@ Crediting of Revenue.—The Superintendent shall credit all revenue received fro
 
 Regulations.—This section shall be carried out under regulations prescribed by the Secretary of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 435; Nov. 2, 1966, Pub. L. 89–718, §38, 80 Stat. 1120; Oct. 5, 1994, Pub. L. 103–337, div. A, title III, §376, 108 Stat. 2736; Sept. 23, 1996, Pub. L. 104–201, div. A, title III, §370(a), 110 Stat. 2498.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 435; Nov. 2, 1966, Pub. L. 89–718, §38, 80 Stat. 1120; Oct. 5, 1994, Pub. L. 103–337, div. A, title III, §376, 108 Stat. 2736; Sept. 23, 1996, Pub. L. 104–201, div. A, title III, §370(a), 110 Stat. 2498; Nov. 18, 1997, Pub. L. 105–85, div. B, title XXVIII, §2871(c)(1), 111 Stat. 2015.)
 
 Historical and Revision Notes
 
@@ -60,6 +60,8 @@ In subsection (b) the words “including midshipmen” are omitted as surplusage
 
 #### Amendments
 
+1997—Subsec. (b)(5). Pub. L. 105–85 inserted “(if any)” before period at end.
+
 1996—Pub. L. 104–201 substituted “trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts” for “laundry, barber shop, cobbler shop, tailor shop, and dairy: disposition of funds” in section catchline and amended text generally. Prior to amendment, text consisted of one undesignated par. providing for deposit and expenditure of funds from operation of midshipmen's store, including barber shop, cobbler shop, and tailor shop at Naval Academy, Academy dairy, and Academy laundry.
 
 1994—Pub. L. 103–337 struck out “(a)” before “Funds collected from the operation of the midshipmen's”, substituted “the Academy dairy, and the Academy laundry” for “and the Academy dairy”, and struck out subsec. (b) which read as follows: “Funds collected from the operation of the Academy laundry shall be accounted for as public funds and are available for the maintenance of necessary laundry service for Academy activities and personnel.”
@@ -69,4 +71,8 @@ In subsection (b) the words “including midshipmen” are omitted as surplusage
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 370(e) of Pub. L. 104–201, set out as a note under section 2105 of Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6976 of this title.
 

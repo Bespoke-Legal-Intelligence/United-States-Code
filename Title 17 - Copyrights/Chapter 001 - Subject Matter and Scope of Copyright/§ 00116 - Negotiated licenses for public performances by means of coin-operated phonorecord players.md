@@ -14,19 +14,49 @@ Authority for negotiations.—Any owners of copyright in works to which this sec
 
 &emsp;(2)
 
-Arbitration.—Parties to such a negotiation, within such time as may be specified by the Librarian of Congress by regulation, may determine the result of the negotiation by arbitration. Such arbitration shall be governedby the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice to the Librarian of Congress of any determination reached by arbitration and any such determination shall, as between the parties to the arbitration, be dispositive of the issues to which it relates.
+Arbitration.—Parties not subject to such a negotiation may determine, by arbitration in accordance with the provisions of chapter 8, the terms and rates and the division of fees described in paragraph (1).
 
 (c)
 
 License Agreements Superior to Copyright Arbitration Royalty Panel Determinations.—License agreements between one or more copyright owners and one or more operators of coin-operated phonorecord players, which are negotiated in accordance with subsection (b), shall be given effect in lieu of any otherwise applicable determination by a copyright arbitration royalty panel.
 
-(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amended Pub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309.)
+(d)
+
+Definitions.—As used in this section, the following terms mean the following:
+
+&emsp;(1) A “coin-operated phonorecord player” is a machine or device that—
+
+&emsp;&emsp;(A) is employed solely for the performance of nondramatic musical works by means of phonorecords upon being activated by the insertion of coins, currency, tokens, or other monetary units or their equivalent;
+
+&emsp;&emsp;(B) is located in an establishment making no direct or indirect charge for admission;
+
+&emsp;&emsp;(C) is accompanied by a list which is comprised of the titles of all the musical works available for performance on it, and is affixed to the phonorecord player or posted in the establishment in a prominent position where it can be readily examined by the public; and
+
+&emsp;&emsp;(D) affords a choice of works available for performance and permits the choice to be made by the patrons of the establishment in which it is located.
+
+&emsp;(2) An “operator” is any person who, alone or jointly with others—
+
+&emsp;&emsp;(A) owns a coin-operated phonorecord player;
+
+&emsp;&emsp;(B) has the power to make a coin-operated phonorecord player available for placementin an establishment for purposes of public performance; or
+
+&emsp;&emsp;(C) has the power to exercise primary control over the selection of the musical works made available for public performance on a coin-operated phonorecord player.
+
+(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amended Pub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309; Pub. L. 105–80, §5, Nov. 13, 1997, 111 Stat. 1531.)
 
 #### Prior Provisions
 
 A prior section 116, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2562; Pub. L. 100–568, §4(b)(1), Oct. 31, 1988, 102 Stat. 2857, related to scope of exclusive rights in nondramatic musical works and compulsory licenses for public performances by means of coin-operated phonorecord players, prior to repeal by Pub. L. 103–198, §3(a), Dec. 17, 1993, 107 Stat. 2309.
 
 #### Amendments
+
+1997—Subsec. (b)(2). Pub. L. 105–80, §5(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+
+“(2)
+
+Arbitration.—Parties to such a negotiation, within such time as may be specified by the Librarian of Congress by regulation, may determine the result of the negotiation by arbitration. Such arbitration shall be governed by the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice to the Librarian of Congress of any determination reached by arbitration and any such determination shall, as between the parties to the arbitration, be dispositive of the issues to which it relates.”
+
+Subsec. (d). Pub. L. 105–80, §5(2), added subsec. (d).
 
 1993—Pub. L. 103–198, §3(b)(1)(A), renumbered section 116A of this title as this section.
 

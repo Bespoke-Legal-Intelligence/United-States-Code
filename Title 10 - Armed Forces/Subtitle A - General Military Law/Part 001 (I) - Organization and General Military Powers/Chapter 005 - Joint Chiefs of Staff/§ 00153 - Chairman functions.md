@@ -68,55 +68,17 @@ Report on Assignment of Roles and Missions.—(1) Not less than once every three
 
 (Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007.)
 
-#### Annual Assessment of Force Readiness
+#### Common Measurement of Operations Tempo and Personnel Tempo
 
-Pub. L. 103–160, div. A, title III, §376, Nov. 30, 1993, 107 Stat. 1637, provided that:
+Pub. L. 105–85, div. A, title III, §326, Nov. 18, 1997, 111 Stat. 1679, provided that:
 
 “(a)
 
-Annual Assessment Required.—Not later than March 1 of each of 1994, 1995, and 1996, the Chairman of the Joint Chiefs of Staff shall submit to the Congress an assessment of—
-
-&emsp;“(1) the readiness and capability of the Armed Forces to carry out the full range of the missions assigned to the Armed Forces; and
-
-&emsp;“(2) the associated level or degree of risk for the Armed Forces in responding to current and anticipated threats to national security interests of the United States.
+Means for Measurement.—The Chairman of the Joint Chiefs of Staff shall, to the maximum extent practicable, develop (1) a common means of measuring the operations tempo (OPTEMPO) of each of the Armed Forces, and (2) a common means of measuring the personnel tempo (PERSTEMPO) of each of the Armed Forces. The Chairman shall consult with the other members of the Joint Chiefs of Staff in developing those common means of measurement.
 
 “(b)
 
-Content of Assessment.—Each assessment shall include, for the five-year period described in subsection (c), the following matters:
-
-&emsp;“(1) An unclassified description of the current and projected readiness and capability of the Armed Forces taking into consideration each of the following areas:
-
-&emsp;&emsp;“(A) Personnel.
-
-&emsp;&emsp;“(B) Training and exercises.
-
-&emsp;&emsp;“(C) Logistics, including equipment maintenance and supply availability.
-
-&emsp;&emsp;“(D) Equipment modernization.
-
-&emsp;&emsp;“(E) Installations, real property, and facilities.
-
-&emsp;&emsp;“(F) Munitions.
-
-&emsp;&emsp;“(G) Mobility.
-
-&emsp;&emsp;“(H) Wartime sustainability.
-
-&emsp;“(2) The personal assessment of the Chairman of the Joint Chiefs of Staff regarding the readiness and capabilities of the Armed Forces, together with the Chairman's personal judgment on whether there are significant problems or risks regarding the readiness and capabilities of the Armed Forces.
-
-&emsp;“(3) Any factors that the Chairman or any other member of the Joint Chiefs of Staff believes may lead to a decrease in force readiness or a degradation in the overall capability of the Armed Forces.
-
-&emsp;“(4) Any recommended actions that the Chairman of the Joint Chiefs of Staff considers appropriate.
-
-&emsp;“(5) Any classified annexes that the Chairman of the Joint Chiefs of Staff considers appropriate.
-
-“(c)
-
-Period Assessed.—The assessment shall include information for the fiscal year in which the assessment is submitted, the three preceding fiscal years, and projections for the subsequent fiscal year.
-
-“(d)
-
-Interim Assessments.—If, at any time between submissions of assessments to the Congress under subsection (a), the Chairman of the Joint Chiefs of Staff determines that there is a significant change in the projected readiness or capability of the Armed Forces from the readiness or capability projected in the most recent annual assessment, the Chairman shall submit to the Congress a revised assessment that reflects each such significant change.”
+PERSTEMPO Measurement.—The measurement of personnel tempo developed by the Chairman shall include a means of identifying the rate of deployment for individual members of the Armed Forces in addition to the rate of deployment for units.”
 
 #### Annual Assessment of Force Readiness
 
@@ -207,4 +169,8 @@ Preparedness Evaluation System.—The uniform system of evaluating the preparedn
 “(b)
 
 Date for First Report.—The first report under section 153(b) of title 10, United States Code, as added by section 201 of this Act, shall be submitted by the Chairman of the Joint Chiefs of Staff not later than two years after the date of the enactment of this Act \[Oct. 1, 1986\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2464 of this title.
 

@@ -12,7 +12,7 @@ As used in this chapter—
 
 &emsp;(2) the term “toxin” means the toxic material of plants, animals, microorganisms, viruses, fungi, or infectious substances, or a recombinant molecule, whatever its origin or method of production, including—
 
-&emsp;&emsp;(A) any poisonous substance or biological product that may be engineered as a resultof biotechnology produced by a living organism; or
+&emsp;&emsp;(A) any poisonous substance or biological product that may be engineered as a result of biotechnology produced by a living organism; or
 
 &emsp;&emsp;(B) any poisonous isomer or biological product, homolog, or derivative of such a substance;
 

@@ -2,11 +2,11 @@
 
 The United States Information Agency shall assume all obligations of the Reconstruction Finance Corporation covering operations of said facilities, equipment, and appurtenant property outstanding at the date of transfer.
 
-(July 9, 1949, ch. 301, §3, 63 Stat. 408; 1977 Reorg. Plan No. 2, §7(a)(19), 42 F.R. 62461, 91 Stat. 1637; Aug. 24, 1982, Pub. L. 97–241, title III, §303(b), 96 Stat. 291.)
+(July 9, 1949, ch. 301, §3, 63 Stat. 408; 1977 Reorg. Plan No. 2, §7(a)(19), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
 
 #### Codification
 
-Section was formerly classified to section 170c of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 170c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Transfer of Functions
 

@@ -10,11 +10,11 @@ The Secretary of Agriculture is authorized and directed to quarantine any State,
 
 1983—Pub. L. 97–432 struck out provision directing Secretary to hold a hearing before promulgating a determination of necessity to quarantine.
 
-1978—Pub. L. 95–439 struck out provisions requiring the Secretary of Agriculture to give notice of the establishment of a quarantine to common carriers doing business in or through the quarantined area, to publish notice of the establishment of the quarantine in newspapers in the quarantined area, and to give notice of the rules and regulations provided for in this section for the notice of establishment of quarantine.
+1978—Pub. L. 95–439 struck out provisions requiring the Secretary of Agriculture to give notice of the establishment of a quarantine to common carriers doing business in or through the quarantined area, to publishnotice of the establishment of the quarantine in newspapers in the quarantined area, and to give notice of the rules and regulations provided for in this section for the notice of establishment of quarantine.
 
 1926—Act Apr. 13, 1926, inserted last three provisos.
 
-1917—Act Mar. 4, 1917, substituted “that such quarantine is necessary to prevent the spread of” for “thefact that,” in first sentence, inserted “or any class of stone or quarry products, or any other article of any character whatsoever, capable of carrying any dangerous plant disease or insect infection” after the first three references to “seeds, or other plant products,”, and inserted “when the public interest will permit” after “That it shall be the duty of the Secretary of Agriculture”.
+1917—Act Mar. 4, 1917, substituted “that such quarantine is necessary to prevent the spread of” for “the fact that,” in first sentence, inserted “or any class of stone or quarry products, or any other article of any character whatsoever, capable of carrying any dangerous plant disease or insect infection” after the first three references to “seeds, or other plant products,”, and inserted “when the public interest will permit” after “That it shall be the duty of the Secretary of Agriculture”.
 
 #### Transfer of Functions
 

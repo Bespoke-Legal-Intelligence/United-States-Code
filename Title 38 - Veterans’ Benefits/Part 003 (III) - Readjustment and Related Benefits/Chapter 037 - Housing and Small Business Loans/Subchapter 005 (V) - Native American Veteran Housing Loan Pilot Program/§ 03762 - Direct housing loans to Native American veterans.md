@@ -66,11 +66,57 @@
 
 (C) Paragraphs (2) and (3) of such section 3710(e) shall apply to any loan made under this subsection, except that for the purposes of this subsection the reference to subsection (a)(8) of section 3710 of this title in such paragraphs (2) and (3) shall be deemed to be a reference to this subsection.
 
-(i) The Secretary shall carry out an outreach program to inform and educate tribal organizations and Native American veterans of the pilot program provided for under this subchapter and the availability of direct housing loans for Native American veterans who live on trust lands.
+(i)(1) The Secretary shall, in consultation with tribal organizations (including the National Congress of American Indians and the National American Indian Housing Council), carry out an outreach program to inform and educate Native American veterans of the pilot program provided for under this subchapter and the availability of direct housing loans for Native American veterans who live on trust lands.
 
-(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, §202(a), Oct. 9, 1996, 110 Stat. 3330.)
+(2) Activities under the outreach program shall include the following:
+
+&emsp;(A) Attending conferences and conventions conducted by the National Congress of American Indians in order to work with the National Congress in providing information and training to tribal organizations and Native American veterans regarding the availability of housing benefits under the pilot program and in assisting such organizations and veterans in participating in the pilot program.
+
+&emsp;(B) Attending conferences and conventions conducted by the National American Indian Housing Council in order to work with the Housing Council in providing information and training to tribal organizations and tribal housing entities regarding the availability of such benefits.
+
+&emsp;(C) Attending conferences and conventions conducted by the Department of Hawaiian Homelands in order to work with the Department of Hawaiian Homelands in providing information and training to tribal housing entities in Hawaii regarding the availability of such benefits.
+
+&emsp;(D) Producing and disseminating information to tribal governments, tribal veterans service organizations, and tribal organizations regarding the availability of such benefits.
+
+&emsp;(E) Assisting tribal organizations and Native American veterans in participating in the pilot program.
+
+&emsp;(F) Outstationing loan guarantee specialists in tribal facilities on a part-time basis if requested by the tribal government.
+
+(j) Not later than February 1 of each year through 2002, the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report relating to the implementation of the pilot program under this subchapter during the fiscal year preceding the date of the report. Each such report shall include the following:
+
+&emsp;(1) The Secretary's exercise during such fiscal year of the authority provided under subsection (c)(1)(B) to make loans exceeding the maximum loan amount.
+
+&emsp;(2) The appraisals performed for the Secretary during such fiscal year under the authority of subsection (d)(2), including a description of—
+
+&emsp;&emsp;(A) the manner in which such appraisals were performed;
+
+&emsp;&emsp;(B) the qualifications of the appraisers who performed such appraisals; and
+
+&emsp;&emsp;(C) the actions taken by the Secretary with respect to such appraisals to protect the interests of veterans and the United States.
+
+&emsp;(3) The outreach activities undertaken under subsection (i) during such fiscal year, including—
+
+&emsp;&emsp;(A) a description of such activities on a region-by-region basis; and
+
+&emsp;&emsp;(B) an assessment of the effectiveness of such activities in encouraging the participation of Native American veterans in the pilot program.
+
+&emsp;(4) The pool of Native American veterans who are eligible for participation in the pilot program, including—
+
+&emsp;&emsp;(A) a description and analysis of the pool, including income demographics;
+
+&emsp;&emsp;(B) a description and assessment of the impediments, if any, to full participation in the pilot program of the Native American veterans in the pool; and
+
+&emsp;&emsp;(C) the impact of low-cost housing programs operated by the Department of Housing and Urban Development and other Federal or State agencies on the demand for direct loans under this section.
+
+&emsp;(5) The Secretary's recommendations, if any, for additional legislation regarding the pilot program.
+
+(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, §202(a), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title II, §201(b), (c), Nov. 21, 1997, 111 Stat. 2282, 2283.)
 
 #### Amendments
+
+1997—Subsec. (i). Pub. L. 105–114, §201(b), designated existing provisions as par. (1), inserted “, in consultation with tribal organizations (including the National Congress of American Indians and the National American Indian Housing Council),” after “the Secretary shall”, struck out “tribal organizations and” after “educate”, and added par. (2).
+
+Subsec. (j). Pub. L. 105–114, §201(c), added subsec. (j).
 
 1996—Subsecs. (h), (i). Pub. L. 104–275 added subsec. (h) and redesignated former subsec. (h) as (i).
 

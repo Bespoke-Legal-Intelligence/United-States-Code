@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Fund may provide assistance for the purpose of providing capital to organizations to purchase loans or otherwise enhance the liquidity of community development financial institutions, if—
+&emsp;The Fund may provide assistance for the purpose of providing capital to organizationsto purchase loans or otherwise enhance the liquidity of community development financial institutions, if—
 
 &emsp;&emsp;(A) the primary purpose of such organizations is to promote community development; and
 

@@ -64,5 +64,9 @@ Subsecs. (f) to (h). Pub. L. 103–82, §104(g), added subsecs. (f) and (g) and 
 
 Amendment by section 104(b), (g) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 32 section 509.
+
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the period.</i>
 

@@ -90,7 +90,7 @@ Subsec. (b)(1)(D). Pub. L. 104–208, §308(g)(8)(A)(i), substituted “section 
 
 Pub. L. 104–208, §308(e)(5), substituted “removal is canceled” for “deportation is suspended”.
 
-Subsec. (c)(1)(A)(ii). Pub. L. 104–208, §603(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: “the number computed under paragraph (2), plus”.
+Subsec. (c)(1)(A)(ii). Pub. L. 104–208, §603(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the number computed under paragraph (2), plus”.
 
 Subsec. (c)(4), (5). Pub. L. 104–208, §603(2), added pars. (4) and (5).
 
@@ -156,7 +156,19 @@ Amendment by Pub. L. 94–571 effective on first day of first month which begins
 
 #### Effective Date of 1965 Amendment
 
-Section 20 of Pub. L. 89–236 provided that: “This Act \[amending this section and sections 1101, 1152 to 1156,1181, 1182, 1201, 1202, 1204, 1251, 1253, 1254, 1255, 1259, 1322, and 1351 of this title, repealing section 1157 of this title, and enacting provisions set out as a note under this section\] shall become effective on the first day of the first month after the expiration of thirty days following the date of its enactment \[Oct. 3, 1965\] except as provided herein.”
+Section 20 of Pub. L. 89–236 provided that: “This Act \[amending this section and sections 1101, 1152 to 1156, 1181, 1182, 1201, 1202, 1204, 1251, 1253, 1254, 1255, 1259, 1322, and 1351 of this title, repealing section 1157 of this title, and enacting provisions set out as a note under this section\] shall become effective on the first day of the first month after the expiration of thirty days following the date of its enactment \[Oct. 3, 1965\] except as provided herein.”
+
+#### Temporary Reduction in Diversity Visas
+
+Pub. L. 105–100, title II, §203(d), Nov. 19, 1997, 111 Stat. 2199, as amended by Pub. L. 105–139, §1(d), Dec. 2, 1997, 111 Stat. 2644, provided that:
+
+“(1) Beginning in fiscal year 1999, subject to paragraph (2), the number of visas available for a fiscal year under section 201(e) of the Immigration and Nationality Act \[8 U.S.C. 1151(e)\] shall be reduced by 5,000 from the number of visas otherwise available under that section for such fiscal year.
+
+“(2) In no case shall the reduction under paragraph (1) for a fiscal year exceed the amount by which—
+
+&emsp;“(A) one-half of the total number of individuals described in subclauses (I), (II), (III), and (IV) of section 309(c)(5)(C)(i) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, set out as a note under section 1101 of this title\] who have adjusted their status to that of aliens lawfully admitted for permanent residence under the Nicaraguan Adjustment and Central American Relief Act \[title II of Pub. L. 105–100, see Short Title of 1997 Amendments note set out under section 1101 of this title\] as of the end of the previous fiscal year; exceeds
+
+&emsp;“(B) the total of the reductions in available visas under this subsection for all previous fiscal years.”
 
 #### Transition Relating to Death of Citizen Spouse
 

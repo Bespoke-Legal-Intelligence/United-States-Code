@@ -28,7 +28,7 @@ The right to amend or repeal the provisions of this subchapter is expressly rese
 
 If any provision of this subchapter, or the application of such provision to any person or circumstance, is held invalid, the remainder of the chapter and the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(Aug. 29, 1935, ch. 814, title I, §117, formerly §17, 49 Stat. 989; 1940 Reorg. Plan No. III, §2, eff. June30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, §117, and amended Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, §117, formerly §17, 49 Stat. 989; 1940 Reorg. Plan No. III, §2, eff. June30, 1940, 5 F.R. 2108, 54 Stat. 1232; renumbered title I, §117, and amended Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 #### References in Text
 

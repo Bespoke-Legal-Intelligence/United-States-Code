@@ -1,12 +1,12 @@
 ### §740. Duties and taxes to constitute fund for benefit of Puerto Rico; ports of entry
 
-The duties and taxes collected in Puerto Rico in pursuance of the provisions of this Act, less the cost of collecting the same, and the gross amount of all collections of duties and taxes in the United States upon articles of merchandise coming from Puerto Rico, shall be paid into the treasury of Puerto Rico to be expended as required by law for the government and benefit thereof, and the Secretary of the Treasury shall designate the several ports and subports of entry in Puerto Rico and shall make such rules and regulations and appoint such agents as may be necessary to collect the duties and taxes authorized to be levied, collected, and paid in Puerto Rico by the provisions of this Act, and he shall fix the compensation and provide for the payment thereof of all such officers, agents, and assistants as he may find it necessary to employ to carry out the provisions of law.
+The duties and taxes collected in Puerto Rico in pursuance of the provisions of this Act, less the cost of collecting the same, and the gross amount of all collections of duties and taxes in the United States upon articles of merchandise coming from Puerto Rico, shall be paid into the treasury of Puerto Rico to be expended as required by law for the government and benefit thereof, and the Secretary of the Treasury shall designate the several ports and subports of entryin Puerto Rico and shall make such rules and regulations and appoint such agents as may be necessary to collect the duties and taxes authorized to be levied, collected, and paid in Puerto Rico by the provisions of this Act, and he shall fix the compensation and provide for the payment thereof of all such officers, agents, and assistants as he may find it necessary to employ to carry out the provisions of law.
 
 (Apr. 12, 1900, ch. 191, §4, 31 Stat. 78; May 17, 1932, ch. 190, 47 Stat. 158.)
 
 #### References in Text
 
-This Act, referred to in text, means act Apr. 12, 1900, ch. 191, 31 Stat. 77, as amended, popularly known as theForaker Act, which, insofar as is classified to the Code, enacted sections 733, 736, 738 to 740, 743, 744, 755, 864, and 866 of this title and amended sections 1 and 11 of former Title 11, Bankruptcy. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act Apr. 12, 1900, ch. 191, 31 Stat. 77, as amended, popularly known as the Foraker Act, which, insofar as is classified to the Code, enacted sections 733, 736, 738 to 740, 743, 744, 755, 864, and 866 of this title and amended sections 1 and 11 of former Title 11, Bankruptcy. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

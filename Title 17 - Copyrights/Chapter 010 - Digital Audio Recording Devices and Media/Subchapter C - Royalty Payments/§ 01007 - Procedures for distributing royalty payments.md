@@ -6,7 +6,7 @@ Filing of Claims and Negotiations.—
 
 &emsp;(1)
 
-Filing of claims.—During the first 2 months of each calendar year after the calendar year in which this chapter takes effect, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Librarian of Congress a claim for payments collected during the preceding year in such form and manner as the Librarian of Congress shall prescribe by regulation.
+Filing of claims.—During the first 2 months of each calendar year after calendar year 1992, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Librarian of Congress a claim for payments collected during the preceding year in such form and manner as the Librarian of Congress shall prescribe by regulation.
 
 &emsp;(2)
 
@@ -14,19 +14,19 @@ Negotiations.—Notwithstanding any provision of the antitrust laws, for purpose
 
 (b)
 
-Distribution of Payments in the Absence of a Dispute.—Within 30 days after the period established for the filing of claims under subsection (a), in each year after the year in which this section takes effect, the Librarian of Congress shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Librarian of Congress determines that no such controversy exists, the Librarian of Congress shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a), after deducting its reasonable administrative costs under this section.
+Distribution of Payments in the Absence of a Dispute.—After the period established for the filing of claims under subsection (a), in each year after 1992, the Librarian of Congress shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Librarian of Congress determines that no such controversy exists, the Librarian of Congress shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a), after deducting its reasonable administrative costs under this section.
 
 (c)
 
 Resolution of Disputes.—If the Librarian of Congress finds the existence of a controversy, the Librarian shall, pursuant to chapter 8 of this title, convene a copyright arbitration royalty panel to determine the distribution of royalty payments. During the pendency of such a proceeding, the Librarian of Congress shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Librarian of Congress shall, before authorizing the distribution of such royalty payments, deduct the reasonable administrative costs incurred by the Librarian under this section.
 
-(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4244; amended Pub. L. 103–198, §6(b)(4), Dec. 17, 1993, 107 Stat. 2312.)
-
-#### References in Text
-
-The calendar year in which this chapter takes effect, and the year in which this section takes effect, referred to in subsecs. (a)(1) and (b), respectively, are 1992. See Effective Date note set out under section 1001 of this title.
+(Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4244; amended Pub. L. 103–198, §6(b)(4), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, §§9, 12(a)(25), Nov. 13, 1997, 111 Stat. 1534, 1535.)
 
 #### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–80, §12(a)(25)(A), substituted “calendar year 1992” for “the calendar year in which this chapter takes effect”.
+
+Subsec. (b). Pub. L. 105–80, §§9, 12(a)(25)(B), substituted “After the period established” for “Within 30 days after the period established” and “each year after 1992” for “each year after the year in which this section takes effect”.
 
 1993—Subsec. (a)(1). Pub. L. 103–198, §6(b)(4)(A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “a claim for” and for “Tribunal” before “shall prescribe”.
 
@@ -36,5 +36,5 @@ Subsec. (c). Pub. L. 103–198, §6(b)(4)(C), substituted first sentence for “
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 803, 1005, 1006 of this title.
+This section is referred to in sections 801, 803, 1005, 1006 of this title.
 

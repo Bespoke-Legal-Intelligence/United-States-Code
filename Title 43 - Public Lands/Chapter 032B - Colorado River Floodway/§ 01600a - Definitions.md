@@ -1,6 +1,6 @@
 ### §1600a. Definitions
 
-(a) The term “Committees” refers to the Committee on Natural Resources of the UnitedStates House of Representatives and the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the United States Senate.
+(a) The term “Committees” refers to the Committee on Natural Resources of the United States House of Representatives and the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the United States Senate.
 
 (b) The term “financial assistance” means any form of loan, grant, guaranty, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance other than—
 
@@ -26,7 +26,7 @@
 
 #### References in Text
 
-Chapter 67 of title 31, including section 6702, referred to in subsec. (b)(1), was repealed by Pub. L. 99–272, title XIV, §1400(a)(1), Apr. 7, 1986, 100 Stat. 327. See also Codification note below.
+Chapter 67 of title 31, including section 6702, referred to in subsec. (b)(1), was repealed by Pub. L. 99–272, titleXIV, §1400(a)(1), Apr. 7, 1986, 100 Stat. 327. See also Codification note below.
 
 The dates on which the provisions of sections 4029(a) and (b) of title 42 become effective, referred to in subsec. (b), is Oct. 8, 1986, the date of enactment of Pub. L. 99–450 which enacted section 4029(a), (b) of Title 42, The Public Health and Welfare.
 

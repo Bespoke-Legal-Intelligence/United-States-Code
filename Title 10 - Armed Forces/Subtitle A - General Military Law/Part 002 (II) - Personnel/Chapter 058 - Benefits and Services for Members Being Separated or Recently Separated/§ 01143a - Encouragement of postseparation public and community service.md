@@ -6,7 +6,7 @@ In General.—The Secretary of Defense shall implement a program to encourage me
 
 (b)
 
-Personnel Registry.—The Secretary shall maintain a registry of members and former members of the armed forces discharged or released from active duty who request registration for assistance in pursuing public and community service job opportunities. The registry shall include information on the particular job skills,qualifications, and experience of the registered personnel.
+Personnel Registry.—The Secretary shall maintain a registry of members and former members of the armed forces discharged or released from active duty who request registration for assistance in pursuing public and community service job opportunities. The registry shall include information on the particular job skills, qualifications, and experience of the registered personnel.
 
 (c)
 
@@ -22,7 +22,7 @@ Assistance To Be Provided.—(1) The Secretary shall actively attempt to match p
 
 &emsp;(B) procedures and techniques for qualifying for and applying for jobs in such organizations.
 
-(3) The Secretary may provide personnel registered under subsection (b) with access to the interstate job bank program of the United States Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
+(3) The Secretary may provide personnel registered under subsection (b) with access to theinterstate job bank program of the United States Employment Service if the Secretary determines that such program meets the needs of separating members of the armed forces for job placement.
 
 (e)
 

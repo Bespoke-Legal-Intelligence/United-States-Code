@@ -34,7 +34,7 @@ In the section, the word “President” is substituted for “Director of the O
 
 #### Amendments
 
-1990—Pub. L. 101–510 substituted “General: reports” for “General reports” in section catchline and amendedtext generally. Prior to amendment, text read as follows:
+1990—Pub. L. 101–510 substituted “General: reports” for “General reports” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) In carrying out audit responsibilities, the Comptroller General shall report on operations under this subchapter to—
 

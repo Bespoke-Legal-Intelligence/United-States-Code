@@ -56,7 +56,7 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 (B) A State or unit of general local government may review and approve newly constructed covered multifamily dwellings for the purpose of making determinations as to whether the design and construction requirements of paragraph (3)(C) are met.
 
-(C) The Secretary shall encourage, but may not require, States and units of local government to include in their existing procedures for the review and approval of newly constructed covered multifamily dwellings, determinations as to whether the design and construction of such dwellings are consistent with paragraph (3)(C), and shall provide technical assistance to States and units of local government and otherpersons to implement the requirements of paragraph (3)(C).
+(C) The Secretary shall encourage, but may not require, States and units of local government to include in their existing procedures for the review and approval of newly constructed covered multifamily dwellings, determinations as to whether the design and construction of such dwellings are consistent with paragraph (3)(C), and shall provide technical assistance to States and units of local government and other persons to implement the requirements of paragraph (3)(C).
 
 (D) Nothing in this subchapter shall be construed to require the Secretary to review or approve the plans, designs or construction of all covered multifamily dwellings, to determine whether the design and construction of such dwellings are consistent with the requirements of paragraph 3(C).
 

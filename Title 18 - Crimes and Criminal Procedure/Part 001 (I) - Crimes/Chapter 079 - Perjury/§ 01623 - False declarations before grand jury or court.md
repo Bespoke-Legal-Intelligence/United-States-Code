@@ -4,7 +4,7 @@
 
 (b) This section is applicable whether the conduct occurred within or without the United States.
 
-(c) An indictment or information for violation of this section alleging that, in any proceedings before or ancillary to any court or grand jury of the United States, the defendant under oath has knowingly made two or more declarations, which are inconsistent to the degree that one of them is necessarily false, need not specify which declaration is false if—
+(c) An indictment or information for violation of this section alleging that, in any proceedings before or ancillary to any court or grand jury of the United States, the defendant under oath hasknowingly made two or more declarations, which are inconsistent to the degree that one of them is necessarily false, need not specify which declaration is false if—
 
 &emsp;(1) each declaration was material to the point in question, and
 

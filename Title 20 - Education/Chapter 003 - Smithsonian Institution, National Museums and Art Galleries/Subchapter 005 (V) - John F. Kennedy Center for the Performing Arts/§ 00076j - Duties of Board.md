@@ -24,13 +24,15 @@
 
 &emsp;&emsp;(F) develop, and update annually, a comprehensive building needs plan for the features of the John F. Kennedy Center for the Performing Arts in existence on July 21, 1994;
 
-&emsp;&emsp;(G) with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature; and
+&emsp;&emsp;(G) with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;
 
 &emsp;&emsp;(H) provide—
 
 &emsp;&emsp;&emsp;(i) information and interpretation; and
 
-&emsp;&emsp;&emsp;(ii) with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a buildingwalkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations.
+&emsp;&emsp;&emsp;(ii) with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations; and
+
+&emsp;&emsp;(I) ensure that safe and convenient access to the site of the John F. Kennedy Center for the Performing Arts is provided for pedestrians and vehicles.
 
 #### (2) Administrative powers and duties
 
@@ -56,7 +58,7 @@
 
 #### (F) Maintenance of grounds
 
-&emsp;&emsp;The Board shall manage and operate the grounds of the John F. Kennedy Center for the Performing Arts in a manner consistent with National Park Service regulations and agreements in effect on July 21, 1994. No change in the management and operation of the grounds may be made without the express approval of Congress and of the Secretary of the Interior.
+&emsp;&emsp;The Board shall manage and operate the grounds of the John F. Kennedy Center for the Performing Arts in a manner consistentwith National Park Service regulations and agreements in effect on July 21, 1994. No change in the management and operation of the grounds may be made without the express approval of Congress and of the Secretary of the Interior.
 
 #### (b) Restriction on additional memorials
 
@@ -74,9 +76,11 @@
 
 (3) For purposes of this subsection, testimonials and benefit performances shall not be construed to be memorials.
 
-(Pub. L. 85–874, §4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, §4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, §3, July 21, 1994, 108 Stat. 1411.)
+(Pub. L. 85–874, §4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, §4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, §3, July 21, 1994, 108 Stat. 1411; Pub. L. 105–95, §3(a), Nov. 19, 1997, 111 Stat. 2149.)
 
 #### Amendments
+
+1997—Subsec. (a)(1)(I). Pub. L. 105–95 added subpar. (I).
 
 1994—Pub. L. 103–279 substituted section catchline for former section catchline, added heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “The Board shall—
 
@@ -96,5 +100,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 76r of this title.
+This section is referred to in sections 76k, 76r of this title.
 

@@ -12,7 +12,7 @@ The review required by subsection (a) of this section shall include consideratio
 
 A complainant who alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with this section may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining (1) whether the Central Intelligence Agency has conducted the review required by subsection (a) of this section within ten years of enactment of this title or within ten years after the last review, and (2) whether the Central Intelligence Agency, in fact, considered the criteria set forth in subsection (b) of this section in conducting the required review.
 
-(July 26, 1947, ch. 343, title VII, §702, as added Oct. 15, 1984, Pub. L. 98–477, §2(a), 98 Stat. 2211.)
+(July 26, 1947, ch. 343, title VII, §702, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2211.)
 
 #### Effective Date
 

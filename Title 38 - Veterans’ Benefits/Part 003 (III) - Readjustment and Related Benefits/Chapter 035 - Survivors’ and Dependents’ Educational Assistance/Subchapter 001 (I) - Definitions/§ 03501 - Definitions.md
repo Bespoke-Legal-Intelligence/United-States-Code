@@ -24,7 +24,7 @@
 
 &emsp;(3) The term “duty with the Armed Forces” as used in section 3512 of this title means (A) active duty, (B) active duty for training for a period of six or more consecutive months, or (C) active duty for training required by section 12103(d) of title 10.
 
-&emsp;(4) The term “guardian” includes a fiduciary legally appointed by a court of competent jurisdiction, or any other person who has beenappointed by the Secretary under section 5502 of this title to receive payment of benefits for the use and benefit of the eligible person.
+&emsp;(4) The term “guardian” includes a fiduciary legally appointed by a court of competent jurisdiction, or any other person who has been appointed by the Secretary under section 5502 of this title to receive payment of benefits for the use and benefit of the eligible person.
 
 &emsp;(5) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill the requirements for the attainment of a predetermined and identified educational, professional, or vocational objective.
 
@@ -140,7 +140,7 @@ Subsec. (d). Pub. L. 86–785, §3, substituted “the Korean conflict, or the i
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, seesection 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date of 1980 Amendment
 

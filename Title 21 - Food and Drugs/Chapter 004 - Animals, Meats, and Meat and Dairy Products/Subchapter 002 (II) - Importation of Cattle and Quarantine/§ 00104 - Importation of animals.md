@@ -14,7 +14,7 @@ The Secretary of Agriculture may by regulation prohibit or restrict the importat
 
 &emsp;Any person who violates any such provision or any such regulation may be assessed a civil penalty by the Secretary of Agriculture not exceeding $1,000. The Secretary may issue an order assessing the civil penalty only after notice and an opportunity for an agency hearing on the record. The order shall be treated as a final order reviewable under chapter 158 of title 28. The validity of the order may not be reviewed in an action to collect such civil penalty.
 
-(Aug. 30, 1890, ch. 839, §6, 26 Stat. 416; June 28, 1926, ch. 700, §2, 44 Stat. 775; Feb. 28, 1931, ch. 348, 46 Stat. 1460; July 22, 1954, ch. 558, §32, 68 Stat. 510; Jan. 28, 1956, ch. 12, §1, 70 Stat. 5; Jan. 12, 1983, Pub. L. 97–461, §4, 96 Stat. 2524; Dec. 8, 1993, Pub. L. 103–182, title III, §361(b), 107 Stat. 2122; Dec. 8, 1994, Pub. L. 103–465, title IV, §431(h), 108 Stat. 4969.)
+(Aug. 30, 1890, ch. 839, §6, 26 Stat. 416; June 28, 1926, ch. 700, §2, 44 Stat. 775; Feb. 28, 1931, ch. 348, 46 Stat. 1460; July 22, 1954, ch. 558, §32, 68 Stat. 510; Jan. 28, 1956, ch. 12, §1, 70 Stat. 5; Pub. L. 97–461, §4, Jan. 12, 1983, 96 Stat. 2524; Pub. L. 103–182, title III, §361(b), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title IV, §431(h), Dec. 8, 1994, 108 Stat. 4969.)
 
 #### Amendments
 

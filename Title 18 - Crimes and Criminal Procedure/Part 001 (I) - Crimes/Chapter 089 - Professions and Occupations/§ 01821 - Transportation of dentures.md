@@ -6,7 +6,7 @@ Whoever transports by mail or otherwise to or within the District of Columbia, t
 
 &emsp;(2) the construction or supply of dentures by a person other than, or without the authorization or prescription of, a person licensed under such laws to practice dentistry; or
 
-&emsp;(3) the construction or supply of dentures from impressions or casts made by a personnot licensed under such laws to practice dentistry—
+&emsp;(3) the construction or supply of dentures from impressions or casts made by a person not licensed under such laws to practice dentistry—
 
 Shall be fined under this title or imprisoned not more than one year, or both.
 

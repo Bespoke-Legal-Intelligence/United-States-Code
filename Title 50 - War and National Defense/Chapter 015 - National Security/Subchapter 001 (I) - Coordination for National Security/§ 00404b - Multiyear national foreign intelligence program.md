@@ -10,7 +10,7 @@ The Director shall submit the report required by subsection (a) of this section 
 
 #### (c) Consistency with budget estimates
 
-The Director of Central Intelligence and the Secretary of Defense shall ensure that the estimates referred to in subsection (a) of this section are consistent with the budget estimates submitted to Congress pursuant to section1105(a) of title 31 for the fiscal year concerned and with the estimated expenditures and proposed appropriations for the multiyear defense program submitted pursuant to section 114a <sup>1</sup> of title 10.
+The Director of Central Intelligence and the Secretary of Defense shall ensure that the estimates referred to in subsection (a) of this section are consistent with the budget estimates submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year concerned and with the estimated expenditures and proposed appropriations for the multiyear defense program submitted pursuant to section 114a <sup>1</sup> of title 10.
 
 #### (d) Specified congressional committees
 

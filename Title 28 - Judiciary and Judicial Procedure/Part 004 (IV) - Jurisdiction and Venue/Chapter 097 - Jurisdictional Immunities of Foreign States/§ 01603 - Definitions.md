@@ -22,5 +22,5 @@ For purposes of this chapter—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1330, 1332, 1391, 1441, 1610 of this title; title 15 section 15.
+This section is referred to in sections 1330, 1332, 1391, 1441, 1610 of this title; title 12 section 635; title 15 section 15; title 22 sections 2295b, 6003, 6023.
 

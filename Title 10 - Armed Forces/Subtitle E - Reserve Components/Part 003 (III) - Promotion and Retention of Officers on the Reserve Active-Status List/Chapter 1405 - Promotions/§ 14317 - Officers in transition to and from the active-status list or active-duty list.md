@@ -16,23 +16,25 @@ Effect of Placement on Active-Duty List.—A reserve officer who is on a promoti
 
 (c)
 
-Officers on a Promotion List Removed From Active-Duty List.—An officer who is on the active-duty list and is on a promotion list as the result of selection for promotion by a selection board convened under chapter 36 of this title and who before being promoted is removed from the active-duty list and placed on the reserve active-status list of the same armed force and in the same competitive category (includinga regular officer who on removal from the active-duty list is appointed as a reserve officer and placed on the reserve active-status list) shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list established under this chapter.
+Officers on a Promotion List Removed From Active-Duty List.—An officer who is on the active-duty list and is on a promotion list as the result of selection for promotion by a selection board convened under chapter 36 of this title and who before being promoted is removed from the active-duty list and placed on the reserve active-status list of the same armed force and in the same competitive category (including a regular officer who on removal from the active-duty list is appointed as a reserve officer and placed on the reserve active-status list) shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list established under this chapter.
 
 (d)
 
-Officers Selected for Position Vacancies.—If a reserve officer is ordered to active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only) after being recommended for promotion under section 14314 of this title to fill a position vacancy or examined for Federal recognition under title 32, and before being promoted to fill that vacancy, the officer shall not be promoted while serving such active duty or full-time National Guard duty unless the officer is ordered to active duty as a member of the unit in which the vacancy exists when that unit is ordered to active duty. If, under this subsection, the name of an officer is removed from a list of officers recommended for promotion, the officer shall be treated as if the officer had not been considered for promotion or examined for Federal recognition.
+Officers Selected for Position Vacancies.—If a reserve officer is ordered to active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only) after being recommended for promotion under section 14315 of this title to fill a position vacancy or examined for Federal recognition under title 32, and before being promoted to fill that vacancy, the officer shall not be promoted while serving such active duty or full-time National Guard duty unless the officer is ordered to active duty as a member of the unit in which the vacancy exists when that unit is ordered to active duty. If, under this subsection, the name of an officer is removed from a list of officers recommended for promotion, the officer shall be treated as if the officer had not been considered for promotion or examined for Federal recognition.
 
 (e)
 
 Officers Ordered to Active Duty in Time of War or National Emergency.—Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is not on the active-duty list and who is ordered to active duty in time of war or national emergency may, if eligible, be considered for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title for not more than two years from the date the officer is ordered to active duty unless the President suspends the operation of this section under the provisions of section 123 or 10213 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2945; amended Pub. L. 104–106, div. A, title XV, §1501(b)(26), Feb. 10, 1996, 110 Stat. 497.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2945; amended Pub. L. 104–106, div. A, title XV, §1501(b)(26), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title X, §1073(a)(68), Nov. 18, 1997, 111 Stat. 1904.)
 
 #### Prior Provisions
 
-Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 ofthis title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+
+1997—Subsec. (d). Pub. L. 105–85 substituted “section 14315” for “section 14314”.
 
 1996—Subsec. (e). Pub. L. 104–106 inserted heading and substituted “123 or 10213” for “10213 or 644”.
 

@@ -1,6 +1,6 @@
 ### §462. Court accommodations
 
-(a) Sessions of courts of the United States (except the Supreme Court) shall be held only at places where the Director of the AdministrativeOffice of the United States Courts provides accommodations, or where suitable accommodations are furnished without cost to the judicial branch.
+(a) Sessions of courts of the United States (except the Supreme Court) shall be held only at places where the Director of the Administrative Office of the United States Courts provides accommodations, or where suitable accommodations are furnished without cost to the judicial branch.
 
 (b) The Director of the Administrative Office of the United States Courts shall provide accommodations, including chambers and courtrooms, only at places where regular sessions of court are authorized by law to be held, but only if the judicial council of the appropriate circuit has approved the accommodations as necessary.
 
@@ -16,9 +16,9 @@
 
 #### Amendments
 
-1992—Subsec. (d). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (d). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1988—Subsec. (c). Pub. L. 100–702 substituted “within the circuit other than where regular sessions of court are authorized by law to be held,” for “where Federal facilities are available”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–702 substituted “within the circuit other than where regular sessions of court are authorized by law to be held,” for “where Federal facilities are available”.
 
 #### Effective Date of 1992 Amendment
 

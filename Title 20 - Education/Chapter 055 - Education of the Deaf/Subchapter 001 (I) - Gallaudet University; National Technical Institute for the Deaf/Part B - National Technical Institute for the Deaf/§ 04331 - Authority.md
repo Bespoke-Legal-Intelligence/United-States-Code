@@ -14,7 +14,7 @@ Section is also set out in D.C. Code, §31–1841.4a.
 
 #### Prior Provisions
 
-A prior section 111 of Pub. L. 99–371, title I, Aug. 4, 1986, 100 Stat. 783, as amended, authorized GallaudetUniversity to operate Kendall Demonstration Elementary School and was classified to section 4311 of this title, prior to repeal by Pub. L. 102–421.
+A prior section 111 of Pub. L. 99–371, title I, Aug. 4, 1986, 100 Stat. 783, as amended, authorized Gallaudet University to operate Kendall Demonstration Elementary School and was classified to section 4311 of this title, prior to repeal by Pub. L. 102–421.
 
 Provisions similar to this section were contained in section 681 of this title prior to repeal by Pub. L. 99–371.
 

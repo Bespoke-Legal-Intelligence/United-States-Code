@@ -12,7 +12,7 @@ Until January 1, 1921, any national banking association, without regard to the a
 
 Such application shall specify the name and capital of the banking association filing it, the powers applied for, and the place or places where the banking or financial operations proposed are to be carried on. The Board of Governors of the Federal Reserve System shall have power to approve or to reject such application in whole or in part if for any reason the granting of such application is deemed inexpedient, and shall also have power from time to time to increase or decrease the number of places where such banking operations may be carried on.
 
-(Dec. 23, 1913, ch. 6, §25 (pars.), 38 Stat. 273; Sept. 7, 1916, ch. 461, 39 Stat. 755; Sept. 17, 1919, ch. 60, §§1, 2, 41 Stat. 285, 286; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; July 1, 1966, Pub. L. 89–485, §12(b), 80 Stat. 241.)
+(Dec. 23, 1913, ch. 6, §25 (pars.), 38 Stat. 273; Sept. 7, 1916, ch. 461, 39 Stat. 755; Sept. 17, 1919, ch. 60, §§1, 2, 41 Stat. 285, 286; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 89–485, §12(b), July 1, 1966, 80 Stat. 241.)
 
 #### References in Text
 

@@ -14,7 +14,7 @@ Any person appointed under authority of this section shall be placed on the line
 
 (2) If a person appointed under this section is entitled to credit for the purpose of basic pay under other provision of law which would exceed that authorized by subsection (c)(1) of this section he shall be credited with that service in lieu of the credit provided by subsection (c)(1) of this section.
 
-(June 3, 1948, ch. 390, §23, as added Sept. 14, 1961, Pub. L. 87–233, §1(h), 75 Stat. 506.)
+(June 3, 1948, ch. 390, §23, as added Pub. L. 87–233, §1(h), Sept. 14, 1961, 75 Stat. 506.)
 
 #### Delegation of Functions
 

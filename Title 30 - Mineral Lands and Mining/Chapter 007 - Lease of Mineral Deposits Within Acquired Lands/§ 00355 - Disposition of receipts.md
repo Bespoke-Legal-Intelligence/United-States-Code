@@ -4,7 +4,7 @@
 
 (b) Notwithstanding any other provision of law, any payment to a State under this section shall be made by the Secretary of the Interior and shall be made not later than the last business day of the month following the month in which such moneys or associated reports are received by the Secretary of the Interior, whichever is later. The Secretary shall pay interest to a State on any amount not paid to the State within that time at the rate prescribed under section 1721 <sup>1</sup> of this title from the date payment was required to be made under this subsection until the date payment is made.
 
-(Aug. 7, 1947, ch. 513, §6, 61 Stat. 915; Dec. 17, 1981, Pub. L. 97–94, §1, 95 Stat. 1205; Oct. 24, 1992, Pub. L. 102–486, title XXV, §2506(a), 106 Stat. 3106; Aug. 10, 1993, Pub. L. 103–66, title X, §10202(a), 107 Stat. 408.)
+(Aug. 7, 1947, ch. 513, §6, 61 Stat. 915; Pub. L. 97–94, §1, Dec. 17, 1981, 95 Stat. 1205; Pub. L. 102–486, title XXV, §2506(a), Oct. 24, 1992, 106 Stat. 3106; Pub. L. 103–66, title X, §10202(a), Aug. 10, 1993, 107 Stat. 408.)
 
 #### References in Text
 

@@ -16,7 +16,7 @@
 
 #### (b) Maximum number of adjustments; recordkeeping
 
-Not more than 10,000 of the refugee admissions authorized under section 1157(a) of this title in any fiscal year may be made available by theAttorney General, in the Attorney General's discretion and under such regulations as the Attorney General may prescribe, to adjust to the status of an alien lawfully admitted for permanent residence the status of any alien granted asylum who—
+Not more than 10,000 of the refugee admissions authorized under section 1157(a) of this title in any fiscal year may be made available by the Attorney General, in the Attorney General's discretion and under such regulations as the Attorney General may prescribe, to adjust to the status of an alien lawfully admitted for permanent residence the status of any alien granted asylum who—
 
 &emsp;(1) applies for such adjustment,
 

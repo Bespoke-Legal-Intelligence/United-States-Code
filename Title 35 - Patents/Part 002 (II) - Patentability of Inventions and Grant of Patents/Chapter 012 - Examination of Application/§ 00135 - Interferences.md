@@ -12,7 +12,7 @@ Any discretionary action of the Commissioner under this subsection shall be revi
 
 (d) Parties to a patent interference, within such time as may be specified by the Commissioner by regulation, may determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9 to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Commissioner, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Commissioner from determining patentability of the invention involved in the interference.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Oct. 15, 1962, Pub. L. 87–831, 76 Stat. 958; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Nov. 8, 1984, Pub. L. 98–622, title I, §105, title II, §202, 98 Stat. 3385, 3386.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 87–831, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–622, title I, §105, title II, §202, Nov. 8, 1984, 98 Stat. 3385, 3386.)
 
 #### Historical and Revision Notes
 

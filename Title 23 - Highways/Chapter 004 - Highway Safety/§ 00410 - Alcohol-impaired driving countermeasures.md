@@ -10,13 +10,13 @@ Maintenance of Effort.—No grant may be made to a State under this section in a
 
 (c)
 
-Maximum Period of Eligibility; Federal Share for Grants.—No State may receive grants under this section in more than 5 fiscal years beginning after September 30, 1992. The Federal share payable for any grant under this section shall not exceed—
+Maximum Period of Eligibility; Federal Share for Grants.—No State may receive grants under this section in more than 6 fiscal years beginning after September 30, 1992. The Federal share payable for any grant under this section shall not exceed—
 
 &emsp;(1) in the first fiscal year the State receives a grant under this section, 75 percent of the cost of implementing and enforcing in such fiscal year a program adopted by the State pursuant to subsection (a);
 
 &emsp;(2) in the second fiscal year the State receives a grant under this section, 50 percent of the cost of implementing and enforcing in such fiscal year such program; and
 
-&emsp;(3) in the third, fourth, and fifth fiscal years the State receives a grant under this section, 25 percent of the cost of implementing and enforcing in such fiscal year such program.
+&emsp;(3) in the third, fourth, fifth, and sixth fiscal years the State receives a grant under this section, 25 percent of the cost of implementing and enforcing in such fiscal year such program.
 
 (d)
 
@@ -42,7 +42,7 @@ Basic Grant Eligibility.—A State is eligible for a basic grant under this sect
 
 &emsp;(2)(A) For each of the first three fiscal years in which a grant is received, any person with a blood alcohol concentration of 0.10 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated; and
 
-&emsp;(B) For each of the last two fiscal years in which a grant is received, any person with a blood alcohol concentration of 0.08 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated.
+&emsp;(B) For each of the last 3 fiscal years in which a grant is received, any person with a blood alcohol concentration of 0.08 percent or greater when driving a motor vehicle shall be deemed to be driving while intoxicated.
 
 &emsp;(3)(A) A statewide program for stopping motor vehicles on a nondiscriminatory, lawful basis for the purpose of determining whether or not the operators of such motor vehicles are driving while under the influence of alcohol.
 
@@ -78,7 +78,7 @@ Open container laws.—Subject to subsection (c), a State shall be eligible to r
 
 &emsp;&emsp;(A) as allowed in the passenger area, by persons (other than the driver), of any motor vehicle designed to transport more than 10 passengers (including the driver) while being used to provide charter transportation of passengers; or
 
-&emsp;&emsp;(B) as otherwise specifically allowed by such State, with the approval of the Secretary, but in no event may the driver ofsuch motor vehicle be allowed to possess or consume an alcoholic beverage in the passenger area.
+&emsp;&emsp;(B) as otherwise specifically allowed by such State, with the approval of the Secretary, but in no event may the driver of such motor vehicle be allowed to possess or consume an alcoholic beverage in the passenger area.
 
 &emsp;(2)
 
@@ -128,7 +128,7 @@ Drugged driving prevention.—Subject to subsection (c), a State shall be eligib
 
 &emsp;&emsp;&emsp;(i) the detection of driving under the influence of controlled substances;
 
-&emsp;&emsp;&emsp;(ii) the administration of a chemical test or tests to any driver who a law enforcement officer has probable cause underState law to believe has committed a traffic offense relating to controlled substances use; and
+&emsp;&emsp;&emsp;(ii) the administration of a chemical test or tests to any driver who a law enforcement officer has probable cause under State law to believe has committed a traffic offense relating to controlled substances use; and
 
 &emsp;&emsp;&emsp;(iii) in instances where such probable cause exists, the prosecution of (I) those persons who are determined, on the basis of 1 or more chemical tests, to have been operating a motor vehicle while under the influence of controlled substances and (II) those persons who refuse to submit to such a test as proposed by a law enforcement officer; and
 
@@ -204,9 +204,9 @@ Open alcoholic beverage container.—The term “open alcoholic beverage contain
 
 (j)
 
-Authorization of Appropriations.—For purposes of carrying out this section, there is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) $25,000,000 for each of fiscal years 1994 through 1997. Amounts made available to carry out this section are authorized to remain available until expended.
+Authorization of Appropriations.—For purposes of carrying out this section, there is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) $25,000,000 for each of fiscal years 1994 through 1997, an additional $500,000 for fiscal year 1997, and $12,500,000 for the period of October 1, 1997, through March 31, 1998. Amounts made available to carry out this section are authorized to remain available until expended.
 
-(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6,1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591.)
+(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558.)
 
 #### References in Text
 
@@ -215,6 +215,16 @@ The date of the enactment of the Intermodal Surface Transportation Efficiency Ac
 Section 154 of this title, referred to in subsec. (i)(3), was repealed by Pub. L. 104–59, title II, §205(d)(1)(B), Nov. 28, 1995, 109 Stat. 577.
 
 #### Amendments
+
+1997—Subsec. (c). Pub. L. 105–130, §6(b)(1)(A), substituted “6 fiscal years” for “5 fiscal years” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 105–130, §6(b)(1)(B), substituted “fifth, and sixth fiscal years” for “and fifth fiscal years”.
+
+Subsec. (d)(2)(B). Pub. L. 105–130, §6(b)(2), substituted “3 fiscal years” for “two fiscal years”.
+
+Subsec. (j). Pub. L. 105–130, §6(b)(3), substituted “1997,” for “1997, and” and inserted before period at end “, and $12,500,000 for the period of October 1, 1997, through March 31, 1998”.
+
+Pub. L. 105–18 inserted “, and an additional $500,000 for fiscal year 1997” after “1997”.
 
 1995—Subsec. (d)(1)(E). Pub. L. 104–59, §324(a), substituted “December 18, 1991” for “the date of enactment of this section” in introductory provisions.
 
@@ -290,7 +300,7 @@ Study.—Not later than 30 days after the date of enactment of this Act \[Nov. 1
 
 &emsp;“(2)
 
-Report.—In entering into any arrangement with the National Academy of Sciences for conducting the study under this subsection, the Secretary shall request the National Academy of Sciences tosubmit, not later than 15 months after the date of the enactment of this Act, to the Secretary a report on the results of such study. Upon its receipt, the Secretary shall immediately transmit the report to Congress.
+Report.—In entering into any arrangement with the National Academy of Sciences for conducting the study under this subsection, the Secretary shall request the National Academy of Sciences to submit, not later than 15 months after the date of the enactment of this Act, to the Secretary a report on the results of such study. Upon its receipt, the Secretary shall immediately transmit the report to Congress.
 
 “(b)
 

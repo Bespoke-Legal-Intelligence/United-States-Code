@@ -10,7 +10,7 @@
 
 (e) The members of the Trademark Trial and Appeal Board of the Patent and Trademark Office shall each be paid at a rate not to exceed the maximum rate of basic pay payable for GS–16 of the General Schedule under section 5332 of title 5.
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Sept. 6, 1958, Pub. L. 85–933, §1, 72 Stat. 1793; Sept. 23, 1959, Pub. L. 86–370, §1(a), 73 Stat. 650; Aug. 14, 1964, Pub. L. 88–426, title III, §305(26), 78 Stat. 425; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Jan. 2, 1975, Pub. L. 93–601, §1, 88 Stat. 1956; Aug. 27, 1982, Pub. L. 97–247, §4, 96 Stat. 319; Oct. 25, 1982, Pub. L. 97–366, §4, 96 Stat. 1760; Nov. 8, 1984, Pub. L. 98–622, title IV, §405, 98 Stat. 3392.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 85–933, §1, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, §1(a), Sept. 23, 1959, 73 Stat. 650; Pub. L. 88–426, title III, §305(26), Aug. 14, 1964, 78 Stat. 425; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, §1, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 97–247, §4, Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–366, §4, Oct. 25, 1982, 96 Stat. 1760; Pub. L. 98–622, title IV, §405, Nov. 8, 1984, 98 Stat. 3392.)
 
 #### Historical and Revision Notes
 

@@ -16,11 +16,11 @@ Section 401 of the Housing and Community Development Act of 1974, referred to in
 
 #### Capacity Building for Community Development and Affordable Housing
 
-Pub. L. 103–120, §4, Oct. 27, 1993, 107 Stat. 1148, provided that:
+Pub. L. 103–120, §4, Oct. 27, 1993, 107 Stat. 1148, as amended by Pub. L. 105–18, title II, §10004, June 12, 1997, 111 Stat. 201, provided that:
 
 “(a)
 
-In General.—The Secretary is authorized to provide assistance through the National Community Development Initiative to develop the capacity and ability of community development corporations and community housing development organizations to undertake community development and affordable housing projects and programs.
+In General.—The Secretary is authorized to provide assistance through the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA to develop the capacity and ability of community development corporations and community housing development organizations to undertake community development and affordable housing projects and programs.
 
 “(b)
 
@@ -30,7 +30,7 @@ Form of Assistance.—Assistance under this section may be used for—
 
 &emsp;“(2) loans, grants, or predevelopment assistance to community development corporations and community housing development organizations to carry out community development and affordable housing activities that benefit low-income families; and
 
-&emsp;“(3) such other activities as may be determined by the National Community Development Initiative in consultation with the Secretary.
+&emsp;“(3) such other activities as may be determined by the National Community Development Initiative, Local Initiatives Support Corporation, The Enterprise Foundation, Habitat for Humanity, and Youthbuild USA in consultation with the Secretary.
 
 “(c)
 

@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §704 (less 2d sentence), 66 Stat. 502.
 
-In subsection (a), the words “by regulations” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words “as an officer of the Army National Guard to any person” are substituted for the words “to any officer of the National Guard or Air National Guard”. The second sentence is inserted for clarity. The words “successfully”, “final determination ofhis eligibility for, and”, “in the grade concerned”, and “automatically” are omitted as surplusage. 50:1114 (proviso of last sentence) is omitted as surplusage.
+In subsection (a), the words “by regulations” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words “as an officer of the Army National Guard to any person” are substituted for the words “to any officer of the National Guard or Air National Guard”. The second sentence is inserted for clarity. The words “successfully”, “final determination of his eligibility for, and”, “in the grade concerned”, and “automatically” are omitted as surplusage. 50:1114 (proviso of last sentence) is omitted as surplusage.
 
 In subsection (b), the words “To be eligible for temporary Federal recognition under subsection (a), a person” are substituted for the words “However, a temporary extension of Federal recognition shall be granted only when the officer”. The words “the period of temporary recognition” are substituted for the words “such recognition”. The words “and obligations required of him” and “in the same grade” are omitted as surplusage.
 

@@ -18,10 +18,13 @@
 | [129b.](%C2%A7%2000129b%20-%20Experts%20and%20consultants%20authority%20to%20procure%20services%20of.md) | Experts and consultants: authority to procure services of. |
 | [129c.](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md) | Medical personnel: limitations on reductions. |
 | [130\.](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md) | Authority to withhold from public disclosure certain technical data. |
+| [130a.](%C2%A7%2000130a%20-%20Management%20headquarters%20and%20headquarters%20support%20activities%20personnel%20limitation.md) | Management headquarters and headquarters support activities personnel: limitation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title IX, §911(a)(2), Nov. 18, 1997, 111 Stat. 1858, added item 130a.
 
 1996—Pub. L. 104–106, div. A, title XV, §1504(a)(8), Feb. 10, 1996, 110 Stat. 513, made technical correction to directory language of Pub. L. 103–337, §1312(a)(2). See 1994 Amendment note below.
 
@@ -68,3 +71,4 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 - [&sect; 00129b - Experts and consultants authority to procure services of](%C2%A7%2000129b%20-%20Experts%20and%20consultants%20authority%20to%20procure%20services%20of.md)
 - [&sect; 00129c - Medical personnel limitations on reductions](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md)
 - [&sect; 00130 - Authority to withhold from public disclosure certain technical data](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md)
+- [&sect; 00130a - Management headquarters and headquarters support activities personnel limitation](%C2%A7%2000130a%20-%20Management%20headquarters%20and%20headquarters%20support%20activities%20personnel%20limitation.md)

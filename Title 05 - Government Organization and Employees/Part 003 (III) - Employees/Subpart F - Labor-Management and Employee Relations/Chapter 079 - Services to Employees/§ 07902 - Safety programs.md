@@ -120,7 +120,7 @@ Heads of Agencies
 
 Occupational Safety and Health Committees
 
-1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the national level and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equalnumber of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
+1–301. Agency heads may establish occupational safety and health committees. If committees are established, they shall be established at both the national level and, for agencies with field or regional offices, other appropriate levels. The committees shall be composed of representatives of management and an equal number of nonmanagement employees or their representatives. Where there are exclusive bargaining representatives for employees at the national or other level in an agency, such representatives shall select the appropriate nonmanagement members of the committee.
 
 1–302. The committees shall, except where prohibited by law,
 
@@ -192,33 +192,15 @@ General Provisions
 
 1–701. Employees shall be authorized official time to participate in the activities provided for by this order.
 
-1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alter any other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (50 U.S.C. 403(d)(3)).
+1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alterany other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (50 U.S.C. 403(d)(3)).
 
 1–703. Executive Order No. 11807 of September 28, 1974, is revoked.
 
 1–704. This order is effective October 1, 1980.
 
-#### Ex. Ord. No. 12566. Safety Belt Use Requirements for Federal Employees
+#### Executive Order No. 12566
 
-Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, provided:
-
-Each year, thousands of lives could be saved and injuries prevented if motorists would use their safety belts. The annual cost to society of these needless deaths and injuries is currently in excess of $32 billion. Taxpayers bear a large share of this cost. The estimated annual cost to Federal, State, and local governments as a result of auto accidents is $11 billion. I have determined that an on-the-job safety belt use policy for Federal employees will reduce human pain and suffering, set an example for the private sector, and reduce the burden on the taxpayers caused by motor vehicle accidents.
-
-Accordingly, by the authority vested in me as President by the Constitution and laws of the United States of America, including Section 7902(c) of Title 5 of the United States Code and Section 19 of the Occupational Safety and Health Act of 1970, as amended (29 U.S.C. 668), it is hereby ordered as follows:
-
-Section 1. <i>Policy</i>. Each Federal employee occupying the front seat of a motor vehicle on official business, whose seat is equipped with a safety belt, shall have the safety belt properly fastened at all times when the vehicle is in motion.
-
-Sec. 2. <i>Scope of Order</i>. All agencies of the Executive branch are directed to promulgate rules and take all appropriate measures within their existing employee occupational safety and health programs to carry out the purposes of this Order. This includes, but is not limited to, conducting an education program for employees about the requirements of this Order. The term “agency” as used in this Order means an Executive Department, as defined in 5 U.S.C. 101, or any employing unit or authority of the Federal government, other than those of the Legislative and Judicial branches. The Secretary of Labor shall cooperate and consult with the heads of agencies in the Legislative and Judicial branches of the Government to encourage and help them adopt safety belt use programs. The Secretary of Labor shall also submit an annual report to the President that includes the status of on-the-job belt use by Federal employees.
-
-Sec. 3. <i>Coordination</i>. The Secretary of Transportation shall provide leadership and guidance to the heads of agencies to assist them with the employee safety belt programs established pursuant to this Order.
-
-Sec. 4. <i>Other Powers and Duties</i>. (a) Nothing in this Order shall be construed to impair or alter the powers and duties of the heads of the various Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\], or to Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to affect any right, duty, or procedure under the National Labor Relations Act \[29 U.S.C. 151 et seq.\].
-
-(b) The Secretary of Defense shall be responsible for implementation of all provisions of this Order insofar as they apply to military personnel of the Department of Defense.
-
-Sec. 5. <i>Causes of Action</i>. Nothing in this Order shall be construed to create a new cause of action against the United States or to alter in any way the United States’ liability under the Federal Tort Claims Act \[28 U.S.C. 2671 et seq.\].
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt use by Federal employees, was revoked by Ex. Ord. No. 13043, §6, Apr. 16, 1997, 62 F.R. 19218, set out as a note under section 402 of Title 23, Highways.
 
 #### Extension of Term of Federal Advisory Council on Occupational Safety and Health
 
@@ -242,7 +224,9 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 #### Section Referred to in Other Sections
 

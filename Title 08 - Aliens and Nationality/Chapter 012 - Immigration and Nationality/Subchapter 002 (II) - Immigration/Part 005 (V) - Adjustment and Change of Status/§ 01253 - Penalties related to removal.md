@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) willfully fails or refuses to present himself or herself for removal at the time and place required by the Attorney General pursuant to such order,
 
-> &emsp;shall be fined under title 18, or imprisoned not more than four years (or 10 years if the alien is a member of any of the classes described in paragraph (1)(E), (2), (3), or (4) of section 1227(a) of this title), or both.
+> &emsp;shall be fined under title 18, or imprisoned not more than four years (or 10 years if the alienis a member of any of the classes described in paragraph (1)(E), (2), (3), or (4) of section 1227(a) of this title), or both.
 
 #### (2) Exception
 
@@ -156,5 +156,5 @@ Peace Corps programs, deportation of foreign participants pursuant to provisions
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1228, 1252, 1324d, 1330, 1356, 1612, 1613, 1622, 1641 of this title; title 22 sections 618, 2508; title 42 section 1436a.
+This section is referred to in sections 1228, 1252, 1324d, 1330, 1356, 1612, 1613, 1622, 1641 of this title.
 

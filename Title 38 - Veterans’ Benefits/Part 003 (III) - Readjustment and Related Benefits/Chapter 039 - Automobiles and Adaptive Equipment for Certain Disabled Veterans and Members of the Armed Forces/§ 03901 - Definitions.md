@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(ii) The loss or permanent loss of use of one or both hands;
 
-&emsp;&emsp;(iii) The permanent impairment of vision of both eyes of the following status: central visual acuity of 20/200 or less in the better eye, with corrective glasses, or central visual acuity of more than 20/200 if there is a field defect in which the peripheral field has contracted to such an extent that the widest diameter of visual field subtends an angular distance no greater than twenty degrees in the better eye; or
+&emsp;&emsp;(iii) The permanent impairment of vision of both eyes of the following status: central visual acuity of 20/200 or less in the better eye, with corrective glasses, or central visual acuity of more than 20/200 if there is a field defect in which the peripheral field hascontracted to such an extent that the widest diameter of visual field subtends an angular distance no greater than twenty degrees in the better eye; or
 
 &emsp;(B) any member of the Armed Forces serving on active duty who is suffering from any disability described in subclause (i), (ii), or (iii) of clause (A) of this paragraph if such disability is the result of an injury incurred or disease contracted in or aggravated by active military, naval, or air service.
 

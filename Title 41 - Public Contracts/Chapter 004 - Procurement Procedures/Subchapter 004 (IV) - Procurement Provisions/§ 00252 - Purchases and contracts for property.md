@@ -18,7 +18,7 @@ It is the declared policy of the Congress that a fair proportion of the total pu
 
 (2) Section 253(a)(2)(A) of this title does not require the use of sealed-bid procedures in cases in which section 204(e) of title 23 applies.
 
-(June 30, 1949, ch. 288, title III, §302, 63 Stat. 393; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Aug. 28, 1958, Pub. L. 85–800, §§1–3, 72 Stat. 966; Nov. 8, 1965, Pub. L. 89–343, §§1, 2, 79 Stat. 1303; Nov. 8, 1965, Pub. L. 89–348, §1(2), 79 Stat. 1310; Mar. 16, 1968, Pub. L. 90–268, §4, 82 Stat. 50; July 25, 1974, Pub. L. 93–356, §3, 88 Stat. 390; Dec. 1, 1983, Pub. L. 98–191, §9(a)(1), 97 Stat. 1331; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2714(a)(1), 98 Stat. 1184.)
+(June 30, 1949, ch. 288, title III, §302, 63 Stat. 393; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 85–800, §§1–3, Aug. 28, 1958, 72 Stat. 966; Pub. L. 89–343, §§1, 2, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 89–348, §1(2), Nov. 8, 1965, 79 Stat. 1310; Pub. L. 90–268, §4, Mar. 16, 1968, 82 Stat. 50; Pub. L. 93–356, §3, July 25, 1974, 88 Stat. 390; Pub. L. 98–191, §9(a)(1), Dec. 1, 1983, 97 Stat. 1331; Pub. L. 98–369, div. B, title VII, §2714(a)(1), July 18, 1984, 98 Stat. 1184.)
 
 #### Amendments
 

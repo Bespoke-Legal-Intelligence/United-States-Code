@@ -26,7 +26,7 @@ The Federal Acquisition Regulation shall provide that—
 
 &emsp;(3) the information technology provided for in a contract for acquisition of information technology should be delivered within 18 months after the date on which the solicitation resulting in award of the contract was issued.
 
-(Pub. L. 93–400, §38, formerly §35, as added Pub. L. 104–106, div. E, title LII, §5202(a), Feb. 10, 1996,110 Stat. 690; renumbered §38, Pub. L. 104–201, div. A, title X, §1074(d)(1), Sept. 23, 1996, 110 Stat. 2660.)
+(Pub. L. 93–400, §38, formerly §35, as added Pub. L. 104–106, div. E, title LII, §5202(a), Feb. 10, 1996, 110 Stat. 690; renumbered §38, Pub. L. 104–201, div. A, title X, §1074(d)(1), Sept. 23, 1996, 110 Stat. 2660.)
 
 #### Effective Date
 

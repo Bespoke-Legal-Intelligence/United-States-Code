@@ -12,7 +12,7 @@ Section 15eee, act Aug. 1, 1946, ch. 725, title III, §305, as added Sept. 2, 19
 
 Section 15fff, act Aug. 1, 1946, ch. 725, title III, §306, as added Sept. 2, 1958, Pub. L. 85–864, title VIII, §802, 72 Stat. 1600, authorized appropriations to administer sections 15aaa to 15ggg of this title.
 
-Section 15ggg, act Aug. 1, 1946, ch. 725, title III, §307, as added Sept. 2, 1958, Pub. L. 85–864, title VIII, §802, 72Stat. 1600; amended June 25, 1959, Pub. L. 86–70, §18(b)(3), 73 Stat. 144; July 12, 1960, Pub. L. 86–624, §14(b)(4), 74 Stat. 414, defined terms as used in sections 15aaa to 15ggg of this title.
+Section 15ggg, act Aug. 1, 1946, ch. 725, title III, §307, as added Sept. 2, 1958, Pub. L. 85–864, title VIII, §802, 72 Stat. 1600; amended June 25, 1959, Pub. L. 86–70, §18(b)(3), 73 Stat. 144; July 12, 1960, Pub. L. 86–624, §14(b)(4), 74 Stat. 414, defined terms as used in sections 15aaa to 15ggg of this title.
 
 For general subject matter of sections 15aaa to 15ggg, see section 1241 et seq. of this title.
 

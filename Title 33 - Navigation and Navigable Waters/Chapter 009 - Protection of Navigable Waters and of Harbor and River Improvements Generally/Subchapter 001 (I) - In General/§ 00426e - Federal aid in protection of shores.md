@@ -76,7 +76,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 &emsp;&emsp;In constructing a shore protection project or separable element under this paragraph, the Secretary shall, to the extent practicable, coordinate the project or element with any complementary project identified under paragraph (2)(C).
 
-(Aug. 13, 1946, ch. 960, §1, 60 Stat. 1056; July 28, 1956, ch. 768, 70 Stat. 702; Oct. 23, 1962, Pub. L. 87–874, title I, §103(a)(1)–(3), 76 Stat. 1178; Nov. 7, 1963, Pub. L. 88–172, §1, 77 Stat. 304; Dec. 31, 1970, Pub. L. 91–611, title II, §208, 84 Stat. 1829; Oct. 12, 1996, Pub. L. 104–303, title II, §227(a), (b), (e)(2)(A), (B), 110 Stat. 3698, 3703.)
+(Aug. 13, 1946, ch. 960, §1, 60 Stat. 1056; July 28, 1956, ch. 768, 70 Stat. 702; Pub. L. 87–874, title I, §103(a)(1)–(3), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 88–172, §1, Nov. 7, 1963, 77 Stat. 304; Pub. L. 91–611, title II, §208, Dec. 31, 1970, 84 Stat. 1829; Pub. L. 104–303, title II, §227(a), (b), (e)(2)(A), (B), Oct. 12, 1996, 110 Stat. 3698, 3703.)
 
 #### Codification
 

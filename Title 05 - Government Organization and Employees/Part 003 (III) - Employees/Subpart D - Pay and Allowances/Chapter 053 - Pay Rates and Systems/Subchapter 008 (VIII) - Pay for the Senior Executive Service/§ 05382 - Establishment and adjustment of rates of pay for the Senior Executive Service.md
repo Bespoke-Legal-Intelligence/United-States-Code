@@ -28,35 +28,37 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Pay Increases
 
-1997—The President, under Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of this title, adjusted the rates of basic pay for the Senior Executive Service effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1997, as follows:
+1998—The President, under Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of this title, adjusted the rates of basic pay for the Senior Executive Service effective on the first day of the first applicable pay period beginning on or after Jan. 1, 1998, as follows:
 
 ES–1
 
-$97,000&nbsp;&nbsp;
+$99,200&nbsp;&nbsp;
 
 ES–2
 
-101,600&nbsp;&nbsp;
+103,900&nbsp;&nbsp;
 
 ES–3
 
-106,200&nbsp;&nbsp;
+108,600&nbsp;&nbsp;
 
 ES–4
 
-111,900&nbsp;&nbsp;
+114,500&nbsp;&nbsp;
 
 ES–5
 
-115,700&nbsp;&nbsp;
+118,400&nbsp;&nbsp;
 
 ES–6
 
-115,700.
+118,400.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-1996—Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of this title.
+1997—Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for adjustment of pay rates effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of this title.
+
+1996—Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987.
 
 1995—Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which continued pay rates, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237.
 
@@ -80,7 +82,7 @@ ES–6
 
 1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
 
-Maximum rate payable after Dec. 17, 1982, increased from $58,500 to $67,200, see Pub. L. 97–377, title I, §129(b)–(d), set out as a note under section 5318 of this title.
+Maximum rate payable after Dec. 17, 1982, increased from $58,500 to $67,200, see Pub. L. 97–377, title I,§129(b)–(d), set out as a note under section 5318 of this title.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
 

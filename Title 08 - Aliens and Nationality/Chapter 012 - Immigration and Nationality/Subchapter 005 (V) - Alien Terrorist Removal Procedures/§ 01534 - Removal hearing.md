@@ -186,7 +186,7 @@ Section 1254a(e) of this title, referred to in subsec. (k)(4), was in the origin
 
 1996—Subsec. (e)(1)(A). Pub. L. 104–208, §354(b)(1)(A)(ii), substituted “pursuant to such Act” for “pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.)”.
 
-Pub. L. 104–208, §354(b)(1)(A)(i), inserted “the Government is authorized to use in a removal proceedings the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act and” before “discovery of information”.
+Pub. L. 104–208, §354(b)(1)(A)(i), inserted “the Government is authorized to use in a removal proceedings the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign IntelligenceSurveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act and” before “discovery of information”.
 
 Subsec. (e)(3)(A). Pub. L. 104–208, §354(b)(1)(B), substituted “and neither the alien nor the public shall be informed of such evidence or its sources other than through reference to the summary provided pursuant to this paragraph. Notwithstanding the previous sentence, the Department of Justice may, in its discretion and, in the case of classified information, after coordination with the originating agency, elect to introduce such evidence in open session.” for period at end.
 

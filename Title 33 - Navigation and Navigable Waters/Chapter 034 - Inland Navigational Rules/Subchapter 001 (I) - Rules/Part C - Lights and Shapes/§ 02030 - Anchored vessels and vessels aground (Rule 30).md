@@ -10,7 +10,7 @@ A vessel at anchor shall exhibit where it can best be seen:
 
 #### (b) Vessels of less than 50 meters in length; alternative light
 
-A vessel of less than 50 meters in length may exhibit an all-round white light where it can best be seen instead of the lights prescribed in paragraph (a) of this Rule.
+A vessel of less than 50 meters in length may exhibit an all-round white light where it canbest be seen instead of the lights prescribed in paragraph (a) of this Rule.
 
 #### (c) Illumination of decks
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) empower the agency to dispose of those records in accordance with regulations promulgated under section 3302 of this title.
 
-(b) Authorizations granted under lists and schedules submitted to the Archivist under section 3303 of this title, and schedules promulgated by the Archivist under subsection (d) of this section, shall be mandatory, subject to section 2909 of this title. As between an authorization granted under lists and schedules submitted to the Archivist under section 3303 of this title and an authorization contained in a schedulepromulgated under subsection (d) of this section, application of the authorization providing for the shorter retention period shall be required, subject to section 2909 of this title.
+(b) Authorizations granted under lists and schedules submitted to the Archivist under section 3303 of this title, and schedules promulgated by the Archivist under subsection (d) of this section, shall be mandatory, subject to section 2909 of this title. As between an authorization granted under lists and schedules submitted to the Archivist under section 3303 of this title and an authorization contained in a schedule promulgated under subsection (d) of this section, application of the authorization providing for the shorter retention period shall be required, subject to section 2909 of this title.
 
 (c) The Archivist may request advice and counsel from the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives with respect to the disposal of any particular records under this chapter whenever he considers that—
 
@@ -36,7 +36,7 @@ Pub. L. 98–497, §204, inserted “, after publication of notice in the Feder
 
 Subsecs. (b) to (f). Pub. L. 98–497, §107(b)(24)(B), substituted “Archivist” for “Administrator” wherever appearing.
 
-1978—Subsec. (b). Pub. L. 95–440, §1(a), made schedules promulgated by Administrator under subsec. (d) of this section mandatory; inserted provision for application of authorization providing for shorter retention period as between an authorization granted under lists and schedules submitted under section 3303 of this title and an authorization in a schedule promulgated under subsec. (d) of this section; and struck out provision making permissive authorizations granted under subsec. (d) schedules.
+1978—Subsec. (b). Pub. L. 95–440, §1(a), made schedules promulgated by Administrator under subsec. (d) of this section mandatory; inserted provision for application of authorization providing for shorter retention periodas between an authorization granted under lists and schedules submitted under section 3303 of this title and an authorization in a schedule promulgated under subsec. (d) of this section; and struck out provision making permissive authorizations granted under subsec. (d) schedules.
 
 Subsec. (d). Pub. L. 95–440, §1(b), (c), substituted “shall” for “may” in first sentence and authorized Federal agencies to request changes in disposal schedules for its records pursuant to section 2909 of this title.
 

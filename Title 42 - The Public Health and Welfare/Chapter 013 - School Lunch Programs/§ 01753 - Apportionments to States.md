@@ -2,7 +2,7 @@
 
 (a) The sums appropriated for any fiscal year pursuant to the authorizations contained in section 1752 of this title shall be available to the Secretary for supplying agricultural commodities and other food for the program in accordance with the provisions of this chapter.
 
-(b)(1) The Secretary shall make food assistance payments to each State educational agency each fiscal year, at such times as the Secretary may determine, from the sums appropriated for such purpose, in a total amount equal to the product obtained by multiplying—
+(b)(1) The Secretary shall make food assistance payments to each State educational agency each fiscal year, at such times as the Secretarymay determine, from the sums appropriated for such purpose, in a total amount equal to the product obtained by multiplying—
 
 &emsp;(A) the number of lunches (consisting of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under section 1758(a) of this title) served during such fiscal year in schools in such State which participate in the school lunch program under this chapter under agreements with such State educational agency; by
 
@@ -58,7 +58,7 @@ Section 820(a) of title VIII of Pub. L. 97–35 provided that: “The provisions
 
 “(6) The amendments made by the following provisions shall take effect January 1, 1982: subsections (b), (c), (d), and (e) of section 810 \[amending section 1766 of this title\], except that—
 
-&emsp;“(A) the amendment made by section 810(c) pertaining to the reimbursement rate for supplements shall take effect as provided under paragraph (1) of this subsection;
+&emsp;“(A) the amendment made by section 810(c) pertaining to the reimbursement rate for supplements shalltake effect as provided under paragraph (1) of this subsection;
 
 &emsp;“(B) the amendment made by section 810(d)(1) pertaining to the limitation on the number of meals for which reimbursement may be made shall take effect as provided under paragraph (1) of this subsection; and
 

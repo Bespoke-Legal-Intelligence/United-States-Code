@@ -4,7 +4,7 @@
 
 (b)(1) The defense sites of the United States established in the Marshall Islands or the Federated States of Micronesia in accordance with the Compact of Free Association and its related agreements are within the special maritime and territorial jurisdiction of the United States as set forth in section 7, title 18.
 
-(2) Any person referred to in subsection (a) of this section who within or upon such defense sites is guilty of any act or omission which, although not made punishable by any enactment of Congress, would be punishable if committed or omitted within the jurisdiction of the State of Hawaii by the laws thereof, in force at the time of such act or omission, shall be guilty of a like offense and subject to a like punishment.
+(2) Any person referred to in subsection (a) of this section who within or upon such defensesites is guilty of any act or omission which, although not made punishable by any enactment of Congress, would be punishable if committed or omitted within the jurisdiction of the State of Hawaii by the laws thereof, in force at the time of such act or omission, shall be guilty of a like offense and subject to a like punishment.
 
 (3) The United States District Court for the District of Hawaii shall have jurisdiction to try all criminal offenses against the United States, including the laws of the State of Hawaii made applicable to the defense sites in the Marshall Islands or the Federated States of Micronesia by virtue of paragraph (2) of this subsection, committed by any person referred to in subsection (a) of this section.
 

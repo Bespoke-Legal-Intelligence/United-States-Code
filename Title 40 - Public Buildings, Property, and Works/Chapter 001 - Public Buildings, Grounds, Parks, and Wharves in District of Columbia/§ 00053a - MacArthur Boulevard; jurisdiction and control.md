@@ -2,7 +2,7 @@
 
 Jurisdiction and control over MacArthur Boulevard for its full width in the District of Columbia between Foxhall Road and the District line, excepting a strip nineteen feet wide within the lines of said road, the center of which is coincident with the center of the water supply conduit, is transferred from the Secretary of the Army to the Council of the District of Columbia, and property abutting thereon shall be subject to any and all lawful assessments which may be levied by the said council for public improvements, the same as other private property in the District of Columbia: <i>Provided</i>, That all municipal laws and regulations shall apply to the entire width of the said road in the District of Columbia in the same degree that they apply to other streets and highways in the said District.
 
-(May 22, 1926, ch. 372, 44 Stat. 627; Mar. 4, 1942, ch. 129, 56 Stat. 123; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; 1967 Reorg. Plan No. 3, §402(172), eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Dec. 24, 1973, Pub. L. 93–198, title IV, §401, 87 Stat. 785.)
+(May 22, 1926, ch. 372, 44 Stat. 627; Mar. 4, 1942, ch. 129, 56 Stat. 123; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; 1967 Reorg. Plan No. 3, §402(172), eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Pub. L. 93–198, title IV, §401, Dec. 24, 1973, 87 Stat. 785.)
 
 #### Codification
 

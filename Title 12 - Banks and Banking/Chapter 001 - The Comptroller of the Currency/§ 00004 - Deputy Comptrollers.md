@@ -2,7 +2,7 @@
 
 The Secretary of the Treasury shall appoint no more than four Deputy Comptrollers of the Currency, one of whom shall be designated First Deputy Comptroller of the Currency, and shall fix their salaries. Each Deputy Comptroller shall take the oath of office and shall perform such duties as the Comptroller shall direct. During a vacancy in the office or during the absence or disability of the Comptroller, each Deputy Comptroller shall possess the power and perform the duties attached by law to the office of theComptroller under such order of succession following the First Deputy Comptroller as the Comptroller shall direct.
 
-(R.S. §327; Mar. 4, 1923, ch. 252, §209(b), 42 Stat. 1467; Sept. 9, 1959, Pub. L. 86–251, §1(a), 73 Stat. 487; June 6, 1972, Pub. L. 92–310, title II, §223(b), 86 Stat. 206.)
+(R.S. §327; Mar. 4, 1923, ch. 252, §209(b), 42 Stat. 1467; Pub. L. 86–251, §1(a), Sept. 9, 1959, 73 Stat. 487; Pub. L. 92–310, title II, §223(b), June 6, 1972, 86 Stat. 206.)
 
 #### Codification
 

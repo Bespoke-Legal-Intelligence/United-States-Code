@@ -1,0 +1,38 @@
+### §1379g. Authority to facilitate transition
+
+(a) The Secretary is authorized to take such action as he determines to be necessary to facilitate the transition from the program currently in effect to the program provided for in this part. Notwithstanding any other provision of this part, such authority shall include, but shall not be limited to, the authority to exempt all or a portion of the wheat or food products made therefrom in the channels of trade on the effective date of the program under this part from the marketing restrictions in subsection (b) of section 1379d of this title, or to sell certificates to persons owning such wheat or food products at such prices as the Secretary may determine. Any such certificate shall be issued by Commodity Credit Corporation.
+
+(b) Whenever the face value per bushel of domestic marketing certificates for a marketing year is substantially different from the face value of domestic marketing certificates for the preceding marketing year, the Secretary is authorized to take such action as he determines necessary to facilitate the transition between marketing years. Notwithstanding any other provision of this part, such authority shall include, but shall not be limited to, the authority to sell certificates to persons engaged in the processing of wheat into food products covering such quantities of wheat, at such prices, and under such terms and conditions as the Secretary may by regulation provide. Any such certificate shall be issued by Commodity Credit Corporation.
+
+(c) The Secretary is authorized to take such action as he determines to be necessary to facilitate the transition from the certificate program provided for under section 1379d of this title to a program under which no certificates are required. Notwithstanding any other provision of law, such authority shall include, but shall not be limited to the authority to exempt all or a portion of wheat or food products made therefrom in the channels of trade on July 1, 1973, from the marketing restrictions in subsection (b) of section 1379d of this title, or to sell certificates to persons owning such wheat or food products made therefrom at such price and under such terms and conditions as the Secretary may determine. Any such certificate shall be issued by the Commodity Credit Corporation. Nothing herein shall authorize the Secretary to require certificates on wheat processed after June 30, 1973.
+
+(Feb. 16, 1938, ch. 30, title III, §379g as added Sept. 27, 1962, Pub. L. 87–703, title III, §324(2), 76 Stat. 629; amended Nov. 3, 1965, Pub. L. 89–321, title V, §504(d), 79 Stat. 1203; Nov. 30, 1970, Pub. L. 91–524, title IV, §403(b), as added Aug. 10, 1973, Pub. L. 93–86, §1(10), 87 Stat. 228.)
+
+#### References in Text
+
+This part, referred to in subsecs. (a) and (b), commences with section 1379a of this title.
+
+#### Amendments
+
+1973—Subsec. (c). Pub. L. 91–524, §403(b), as added by Pub. L. 93–86, added subsec. (c).
+
+1965—Pub. L. 89–321 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable tomilk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
+
+Section inapplicable to wheat processors or exporters during period June 1, 1991, through May 31, 1996, see section 302 of Pub. L. 101–624, set out as a note under section 1379d of this title.
+
+Section inapplicable to wheat processors or exporters during period June 1, 1986, through May 31, 1991, see section 309 of Pub. L. 99–198, set out as a note under section 1379d of this title.
+
+Section inapplicable to wheat processors or exporters during period June 1, 1982, through May 31, 1986, see section 302 of Pub. L. 97–98, set out as a note under section 1379d of this title.
+
+Section inapplicable to wheat processors or exporters during period July 1, 1973, through May 31, 1982, see section 403 of Pub. L. 95–113, set out as a note under section 1379d of this title.
+
+Section inapplicable to wheat processed or exported during period July 1, 1973, through June 30, 1978, see section 403(b) of Pub. L. 91–524, as added by section 1(10) of Pub. L. 93–86, set out as a note under section 1379d of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1379a, 1379b, 1379d, 1379h, 1379i, 1379j of this title.
+

@@ -86,7 +86,7 @@ Section 14305(b) provides that if a vessel is measured under the regulatory tonn
 
 #### References in Text
 
-Section 4 of the Bridge to Bridge Radiotelephone Act (33 U.S.C. 1203(a)), referred to in subsec. (a)(3), probably means section 4(a) of the Vessel Bridge-to-Bridge Radiotelephone Act, which is classified to section 1203(a) of Title 33, Navigation and Navigable Waters.
+Section 4 of the Bridge to Bridge Radiotelephone Act (33 U.S.C. 1203(a)), referred to in subsec. (a)(3), probablymeans section 4(a) of the Vessel Bridge-to-Bridge Radiotelephone Act, which is classified to section 1203(a) of Title 33, Navigation and Navigable Waters.
 
 Act of July 14, 1956 (46 App. U.S.C. 883a), referred to in subsec. (a)(7), probably means section 2 of Act July 14, 1956, ch. 600, 70 Stat. 544, as amended, which is classified to section 883a of the Appendix to this title. For complete classification of this Act to the Code, see References in Text note set out under section 883a of the Appendix to this title and Tables.
 

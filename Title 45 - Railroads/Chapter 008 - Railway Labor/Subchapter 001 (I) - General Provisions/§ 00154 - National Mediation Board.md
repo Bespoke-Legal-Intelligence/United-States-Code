@@ -26,7 +26,7 @@ All officers and employees of the Board of Mediation (except the members thereof
 
 All unexpended appropriations for the operation of the Board of Mediation that are available at the time of the abolition of the Board of Mediation shall be transferred to the Mediation Board and shall be available for its use for salaries and other authorized expenditures.
 
-(May 20, 1926, ch. 347, §4, 44 Stat. 579; June 21, 1934, ch. 691, §4, 48 Stat. 1193; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 31, 1964, Pub. L. 88–542, 78 Stat. 748.)
+(May 20, 1926, ch. 347, §4, 44 Stat. 579; June 21, 1934, ch. 691, §4, 48 Stat. 1193; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 88–542, Aug. 31, 1964, 78 Stat. 748.)
 
 #### References in Text
 

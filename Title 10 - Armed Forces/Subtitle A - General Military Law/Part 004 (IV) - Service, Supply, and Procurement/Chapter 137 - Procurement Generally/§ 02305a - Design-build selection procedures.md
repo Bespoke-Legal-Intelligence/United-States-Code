@@ -2,7 +2,7 @@
 
 (a)
 
-Authorization.—Unless the traditional acquisition approach of design-bid-build established under the Brooks Architect-Engineers Act (41 U.S.C. 541 et seq.) <sup>1</sup> is used or another acquisition procedure authorized by law is used, the head of an agency shall use the two-phase selection procedures authorized in this section for entering into a contract for the design and construction of a public building, facility, or work when a determination is made under subsection (b) that the procedures are appropriate for use.
+Authorization.—Unless the traditional acquisition approach of design-bid-build established under the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.) is used or another acquisition procedure authorized by law is used, the head of an agency shall use the two-phase selection procedures authorized in this section for entering into a contract for the design and construction of a public building, facility, or work when a determination is made under subsection (b) that the procedures are appropriate for use.
 
 (b)
 
@@ -40,7 +40,7 @@ Procedures Described.—Two-phase selection procedures consist of the following:
 
 &emsp;&emsp;&emsp;(ii) cost or price information.
 
-&emsp;(3) The evaluation factors to be used in evaluating phase-one proposals are stated in the solicitation and include specialized experience and technical competence, capability to perform, past performance of the offeror's team (including the architect-engineer and construction members of the team) and other appropriate factors, except that cost-related or price-related evaluation factors are not permitted. Each solicitation establishes the relative importance assigned to the evaluation factors and subfactors that must be considered in the evaluation of phase-one proposals. The agency evaluates phase-one proposals on the basis of the phase-one evaluation factors set forth in the solicitation.
+&emsp;(3) The evaluation factors to be used in evaluating phase-one proposals are stated in thesolicitation and include specialized experience and technical competence, capability to perform, past performance of the offeror's team (including the architect-engineer and construction members of the team) and other appropriate factors, except that cost-related or price-related evaluation factors are not permitted. Each solicitation establishes the relative importance assigned to the evaluation factors and subfactors that must be considered in the evaluation of phase-one proposals. The agency evaluates phase-one proposals on the basis of the phase-one evaluation factors set forth in the solicitation.
 
 &emsp;(4) The contracting officer selects as the most highly qualified the number of offerors specified in the solicitation to provide the property or services under the contract and requests the selected offerors to submit phase-two competitive proposals that include technical proposals and cost or price information. Each solicitation establishes with respect to phase two—
 
@@ -66,7 +66,7 @@ Requirement for Guidance and Regulations.—The Federal Acquisition Regulation s
 
 &emsp;(3) providing for a uniform approach to be used Government-wide.
 
-(Added Pub. L. 104–106, div. D, title XLI, §4105(a)(1), Feb. 10, 1996, 110 Stat. 645.)
+(Added Pub. L. 104–106, div. D, title XLI, §4105(a)(1), Feb. 10, 1996, 110 Stat. 645; amended Pub. L. 105–85, div. A, title X, §1073(a)(44), Nov. 18, 1997, 111 Stat. 1902.)
 
 #### References in Text
 
@@ -76,9 +76,11 @@ The Brooks Architect-Engineers Act, referred to in subsecs. (a) and (c)(1), is t
 
 A prior section 2305a was renumbered section 2438 of this title.
 
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85 substituted “(40 U.S.C.” for “(41 U.S.C.”
+
 #### Effective Date
 
 For effective date and applicability of section, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 251 of Title 41, Public Contracts.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@
 
 &emsp;(B) any issue of discrimination prohibited under any provision of law described in paragraph (1)(B) of this subsection;
 
-> the agency shall resolve such matter within 120 days. The decision of the agency in any such matter shall be a judicially reviewable action unless the employee appeals the matter to the Board under paragraph (1) of this subsection.
+> the agency shall resolve such matter within 120 days. The decision of the agency in any such matter shall be a judicially reviewable actionunless the employee appeals the matter to the Board under paragraph (1) of this subsection.
 
 (3) Any decision of the Board under paragraph (1) of this subsection shall be a judicially reviewable action as of—
 

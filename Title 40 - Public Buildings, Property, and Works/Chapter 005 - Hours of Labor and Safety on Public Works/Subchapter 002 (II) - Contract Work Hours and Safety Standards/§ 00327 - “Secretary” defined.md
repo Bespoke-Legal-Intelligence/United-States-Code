@@ -14,7 +14,7 @@ Section 204 of Pub. L. 87–581 provided that: “This Act \[see Short Title not
 
 #### Short Title
 
-Section 1 of Pub. L. 87–581, as amended by Pub. L. 91–54, §2, Aug. 9, 1969, 83 Stat. 98, provided: “That thisAct \[enacting this section and sections 328 to 333 of this title, amending section 673c of former Title 5, Executive Departments and Government Officers and Employees, and section 1499 of Title 28, Judiciary and Judicial Procedure, repealing sections 321, 322, and 324 to 326 of this title, and enacting provisions set out as notes under this section, section 321 of this title, and section 1499 of Title 28\] may be cited as the ‘Work Hours and Safety Act of 1962’ and title I \[enacting this section and sections 328 to 333 of this title\] may be cited as the ‘Contract Work Hours and Safety Standards Act’.”
+Section 1 of Pub. L. 87–581, as amended by Pub. L. 91–54, §2, Aug. 9, 1969, 83 Stat. 98, provided: “That this Act \[enacting this section and sections 328 to 333 of this title, amending section 673c of former Title 5, Executive Departments and Government Officers and Employees, and section 1499 of Title 28, Judiciary and Judicial Procedure, repealing sections 321, 322, and 324 to 326 of this title, and enacting provisions set out as notes under this section, section 321 of this title, and section 1499 of Title 28\] may be cited as the ‘Work Hours and Safety Act of 1962’ and title I \[enacting this section and sections 328 to 333 of this title\] may be cited as the ‘Contract Work Hours and Safety Standards Act’.”
 
 #### Definition of “This Act”
 

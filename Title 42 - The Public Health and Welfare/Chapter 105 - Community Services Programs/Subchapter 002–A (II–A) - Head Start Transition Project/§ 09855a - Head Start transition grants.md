@@ -4,7 +4,7 @@
 
 With funds made available under section 9834(b) of this title to carry out this subchapter, the Secretary may make demonstration grants to Head Start agencies and local educational agencies to develop and operate programs that assist low-income elementary school students grades kindergarten through 3 (giving priority to students entering their first year of elementary school) and their families in—
 
-&emsp;(1) obtaining supportive services that build on the strength of families, including health, immunization, mental health, nutrition, parenting education, literacy, and social services (including substance abuse treatment, education, and prevention services); and
+&emsp;(1) obtaining supportive services that build on the strength of families, including health, immunization, mental health, nutrition,parenting education, literacy, and social services (including substance abuse treatment, education, and prevention services); and
 
 &emsp;(2) supporting the active involvement of parents in the education of their children.
 

@@ -19,7 +19,7 @@
 | :--- | ---: |
 | [481\.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000481%20-%20Procurement%2C%20warehousing%2C%20and%20related%20activities.md) | Procurement, warehousing, and related activities. |
 | (a) | Policies and methods of procurement and supply; operation of warehouses. |
-| (b) | Extension of services to Federal agencies and mixed ownership corporations and the District of Columbia; cooperative purchasing. |
+| (b) | Extension of services. |
 | (c) | Exchange or sale of similar items. |
 | (d) | Utilization of services by executive agencies without reimbursement or transfer of funds. |
 | (e) | Exchange or transfer of excess property. |
@@ -53,8 +53,9 @@
 | (m) | Possession of abandoned or unclaimed property on Government premises; disposal; claims by former owners. |
 | (n) | Cooperative agreements with State agencies. |
 | (<i>o</i>) | Biennial reports to Congress by Administrator; copies to Comptroller General. |
-| (p) | Transfer or conveyance of property for correctional facility use; consideration-free transfers; reimbursement for interim transfers; reversion option; terms and conditions. |
+| (p) | Transfer or conveyance of property for correctional facility use; consideration-free transfers; reimbursement for interim transfers; law enforcement or emergency management response purposes; reversion option; terms and conditions. |
 | (q) | Military installation closures or realignments. |
+| (r) | Donation of surplus law enforcement canines to their handlers. |
 | 484–1. | Transfer of miscellaneous books to District Public Library. |
 | 484a, 484b. Omitted or Repealed. |  |
 | [484c.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000484c%20-%20Transfer%20of%20personnel%20and%20other%20resources%20from%20Department%20of%20Health%2C%20Education%2C%20and%20Welfare%20to%20General%20Services%20Administration%20by%E2%80%A6.md) | Transfer of personnel and other resources from Department of Health, Education, and Welfare to General Services Administration by Director of Office of Management and Budget. |
@@ -124,6 +125,7 @@
 | [490f.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490f%20-%20Lease%20space%20rent%20rates%20and%20payments%3B%20appropriations.md) | Lease space rent rates and payments; appropriations. |
 | [490g.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490g%20-%20Receipt%20of%20revenues%20related%20to%20energy%20savings%20or%20materials%20recycling%20efforts.md) | Receipt of revenues related to energy savings or materials recycling efforts. |
 | [490h.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490h%20-%20Flexiplace%20work%20telecommuting%20centers%3B%20revenues%20to%20defray%20costs.md) | Flexiplace work telecommuting centers; revenues to defray costs. |
+| [490i.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490i%20-%20Buildings%20considered%20to%20be%20federally%20owned.md) | Buildings considered to be federally owned. |
 | [491\.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000491%20-%20Motor%20vehicle%20pools%20and%20transportation%20systems.md) | Motor vehicle pools and transportation systems. |
 | (a) | Establishment. |
 | (b) | Determinations by Administrator. |

@@ -22,7 +22,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 28 U.S.C. 506.
 
@@ -48,5 +50,5 @@ A prior section 546, act June 25, 1948, ch. 646, 62 Stat. 911, related to death 
 
 #### Amendments
 
-1986—Pub. L. 99–646 amended section generally. Prior to amendment, section read as follows: “The district court for a district in which the office of United States attorney is vacant may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.”
+<b>1986</b>—Pub. L. 99–646 amended section generally. Prior to amendment, section read as follows: “The district court for a district in which the office of United States attorney is vacant may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.”
 

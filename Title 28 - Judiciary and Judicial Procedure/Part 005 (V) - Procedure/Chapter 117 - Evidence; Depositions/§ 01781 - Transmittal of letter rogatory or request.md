@@ -12,7 +12,7 @@
 
 &emsp;(2) the transmittal of a letter rogatory or request directly from a tribunal in the United States to the foreign or international tribunal, officer, or agency to whom it is addressed and its return in the same manner.
 
-(June 25, 1948, ch. 646, 62 Stat. 948; Oct. 3, 1964, Pub. L. 88–619, §8(a), 78 Stat. 996.)
+(June 25, 1948, ch. 646, 62 Stat. 948; Pub. L. 88–619, §8(a), Oct. 3, 1964, 78 Stat. 996.)
 
 #### Historical and Revision Notes
 
@@ -32,7 +32,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1964—Pub. L. 88–619 substituted provisions authorizing the Department of State to transmit a letter rogatory or request by a foreign or international tribunal, or by a tribunal in the United States, to the tribunal, officer or agency in the United States or its foreign or international counterpart, to whom addressed, and to return it after execution, and providing that this section does not preclude direct transmission of letters rogatory or requests between interested tribunals, officers or agencies of foreign, international and of United States origin, for provisions authorizing United States ministers or consuls, whenever a United States court issues letters rogatory or a commission to take a deposition, to receive the executed letters or commissions from foreign courts or officers, endorse them with the place and date of receipt and any change in the deposition, and transmit it to the clerk of the issuing court in the same manner as his official dispatches, in text and “Transmittal of letter rogatory or request” for “Foreign witnesses” in section catchline.
+<b>1964</b>—Pub. L. 88–619 substituted provisions authorizing the Department of State to transmit a letter rogatory or request by a foreign or international tribunal, or by a tribunal in the United States, to the tribunal, officer or agency in the United States or its foreign or international counterpart, to whom addressed, and to return it after execution, and providing that this section does not preclude direct transmission of letters rogatory or requests between interested tribunals, officers or agencies of foreign, international and of United States origin, for provisions authorizing United States ministers or consuls, whenever a United States court issues letters rogatory or a commission to take a deposition, to receive the executed letters or commissions from foreign courts or officers, endorse them with the place and date of receipt and any change in the deposition, and transmit it to the clerk of the issuing court in the same manner as his official dispatches, in text and “Transmittal of letter rogatory or request” for “Foreign witnesses” in section catchline.
 
 #### Federal Rules of Civil Procedure
 

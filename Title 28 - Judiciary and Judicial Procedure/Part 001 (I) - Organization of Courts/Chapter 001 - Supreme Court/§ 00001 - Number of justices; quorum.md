@@ -10,13 +10,17 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–317, §1(a), Oct. 19, 1996, 110 Stat. 3847, provided that: “This Act \[enacting sections 258 and 1932 of this title, amending sections 112, 125, 134, 251, 253, 331, 332, 371, 376, 601, 621, 627, 636, 753, 954, 1332, 1404, 1406, 1442, 1446, 1827, 1914, 1931, and 1963 of this title, sections 3154, 3401, and 3603 of Title 18, Crimes and Criminal Procedure, sections 1983 and 1988 of Title 42, The Public Health and Welfare, and sections 719, 743, 745, 1104, and 1105 of Title 45, Railroads, enacting provisions set out as notes under sections 258, 1332, 1404, 1827, 1914, 1931, and 2412 of this title and section 719 of Title 45, and amending provisions set out as notes under sections 133, 152, 471, and 1913 of this title\] may be cited as the ‘Federal Courts Improvement Act of 1996’.”
+
 #### Short Title of 1994 Amendments
 
 Pub. L. 103–420, §1, Oct. 25, 1994, 108 Stat. 4343, provided that: “This Act \[amending section 612 of this title, amending provisions set out as notes under sections 471 and 651 of this title, and repealing provisions set out as a note under section 651 of this title\] may be cited as the ‘Judicial Amendments Act of 1994’.”
 
 Pub. L. 103–383, §1, Oct. 20, 1994, 108 Stat. 4063, provided that: “This Act \[enacting section 1738B of this title and provisions set out as a note under section 1738B of this title\] may be cited as the ‘Full Faith and Credit for Child Support Orders Act’.”
 
-Pub. L. 103–270, §1, June 30, 1994, 108 Stat. 732, provided that: “This Act \[amending sections 591 to 596 and 599 of this title and enacting provisions set out as notes under section 591 of this title and section 113 of Title 3, The President\] may be cited as the ‘Independent Counsel Reauthorization Act of 1994’.”
+Pub. L. 103–270, §1, June 30, 1994, 108 Stat. 732, provided that: “This Act \[amending sections 591 to 596 and 599 of this title and enacting provisions set out as notes under section 591 of this title and section 113 of Title 3,The President\] may be cited as the ‘Independent Counsel Reauthorization Act of 1994’.”
 
 #### Short Title of 1992 Amendments
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of carrying out this chapter, there are authorized to be appropriated $15,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 6 succeeding fiscal years.
+&emsp;For the purpose of carrying out this chapter, there are authorized to be appropriated$15,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 6 succeeding fiscal years.
 
 #### (2) Availability
 

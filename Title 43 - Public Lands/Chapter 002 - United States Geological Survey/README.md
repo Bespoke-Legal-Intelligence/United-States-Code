@@ -11,7 +11,7 @@
 | [31b.](%C2%A7%2000031b%20-%20Definitions.md) | Definitions. |
 | [31c.](%C2%A7%2000031c%20-%20Geologic%20mapping%20program.md) | Geologic mapping program. |
 | (a) | Establishment. |
-| (b) | Responsibilities of USGS. |
+| (b) | Responsibilities of the Survey. |
 | (c) | Program objectives. |
 | (d) | Program components. |
 | [31d.](%C2%A7%2000031d%20-%20Advisory%20committee.md) | Advisory committee. |

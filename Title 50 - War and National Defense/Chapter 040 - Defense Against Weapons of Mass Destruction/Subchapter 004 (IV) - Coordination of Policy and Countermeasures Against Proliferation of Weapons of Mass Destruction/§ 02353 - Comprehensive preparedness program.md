@@ -20,7 +20,7 @@ The program set forth in the report shall include specific plans as follows:
 
 &emsp;(6) Plans for establishing in the United States appropriate legal controls and authorities relating to the exporting of nuclear, radiological, biological, and chemical weapons, and related materials and technologies.
 
-&emsp;(7) Plans for encouraging and assisting governments of foreign countries to implement and enforce laws that set forth appropriate penalties for offenses regarding the smuggling of weapons of mass destruction and related materials and technologies.
+&emsp;(7) Plans for encouraging and assisting governments of foreign countries to implement and enforce laws that set forth appropriatepenalties for offenses regarding the smuggling of weapons of mass destruction and related materials and technologies.
 
 &emsp;(8) Plans for building the confidence of the United States and Russia in each other's controls over United States and Russian nuclear weapons and fissile materials, including plans for verifying the dismantlement of nuclear weapons.
 

@@ -28,7 +28,7 @@ Each report under this section shall set forth the national emergency planning a
 
 #### (c) Period within which to replace or replenish materials
 
-The stockpile requirements shall be based on those strategic and critical materials necessary for the United States to replenish or replace, within three years of the end of the military conflict scenario required under subsection (b) of this section, all munitions, combat support items, and weapons systems that would be required after such a military conflict.
+The stockpile requirements shall be based on those strategic and critical materials necessaryfor the United States to replenish or replace, within three years of the end of the military conflict scenario required under subsection (b) of this section, all munitions, combat support items, and weapons systems that would be required after such a military conflict.
 
 #### (d) Effect of alternative mobilization periods
 
@@ -38,7 +38,7 @@ The Secretary shall also include in each report under this section an examinatio
 
 The President shall submit with each report under this section a statement of the plans of the President for meeting the recommendations of the Secretary set forth in the report.
 
-(June 7, 1939, ch. 190, §14, as added Dec. 4, 1987, Pub. L. 100–180, div. C, title II, §3202(c), 101 Stat. 1246; amended Dec. 5, 1991, Pub. L. 102–190, div. C, title XXXIII, §3313(b)(1), (2), 105 Stat. 1585; Nov. 30, 1993, Pub. L. 103–160, div. C, title XXXIII, §3314, 107 Stat. 1962; Sept. 23, 1996, Pub. L. 104–201, div. C, title XXXIII, §3313(a), 110 Stat. 2856.)
+(June 7, 1939, ch. 190, §14, as added Pub. L. 100–180, div. C, title II, §3202(c), Dec. 4, 1987, 101 Stat. 1246; amended Pub. L. 102–190, div. C, title XXXIII, §3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, §3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, §3313(a), Sept. 23, 1996, 110 Stat. 2856.)
 
 #### Amendments
 

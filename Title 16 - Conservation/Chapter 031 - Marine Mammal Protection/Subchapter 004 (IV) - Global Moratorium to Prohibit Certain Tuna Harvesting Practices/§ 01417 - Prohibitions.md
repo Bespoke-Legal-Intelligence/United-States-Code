@@ -26,7 +26,7 @@ It is unlawful—
 
 #### (1) Civil penalty
 
-&emsp;A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of this section shall be subject to a civil penalty under section 1375(a) of this title.
+&emsp;A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of thissection shall be subject to a civil penalty under section 1375(a) of this title.
 
 #### (2) Criminal penalty
 
@@ -48,7 +48,23 @@ For purposes of this section, tuna or a tuna product is dolphin safe if—
 
 &emsp;(4) in the case of tuna or a product that contains tuna harvested outside the eastern tropical Pacific Ocean by a purse seine vessel in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals, it is accompanied by a written statement executed by the captain of the vessel and by an observer, certifying that no purse seine net was intentionally deployed on or to encircle marine mammals during the particular voyage on which the tuna was harvested.
 
-(Pub. L. 92–522, title III, §307, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3431; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 92–522, title III, §307, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3431; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–42, §6(d), Aug. 15, 1997, 111 Stat. 1136.)
+
+#### Amendment of Section
+
+<i>Pub. L. 105–42, §§6(d), 8, Aug. 15, 1997, 111 Stat. 1130, 1136, 1139, provided that, effective as provided by section 8 of Pub. L. 105–42, see Effective Date of 1997 Amendment note below, this section is amended as follows:</i>
+
+<i>(1) by striking paragraphs (1), (2), and (3) of subsection (a) and inserting the following:</i>
+
+“(1) for any person to sell, purchase, offer for sale, transport, or ship, in the United States, any tuna or tuna product unless the tuna or tuna product is either dolphin safe or has been harvested in compliance with the International Dolphin Conservation Program by a country that is a member of the Inter-American Tropical Tuna Commission or has initiated and within 6 months thereafter completed all steps required of applicant nations in accordance with Article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
+
+“(2) except as provided for in subsection 1371(d) of this title, for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and
+
+“(3) for any person to import any yellowfin tuna or yellowfin tuna product or any other fish or fish product in violation of a ban on importation imposed under section 1371(a)(2) of this title;”;
+
+<i>(2) by inserting “(a)(5) or” before “(a)(6)” in subsection (b)(2); and</i>
+
+<i>(3) by striking subsection (d).</i>
 
 #### References in Text
 
@@ -62,7 +78,15 @@ Another section 307 of Pub. L. 92–522 was renumbered section 407 and is classi
 
 1996—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1860 of this title.
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–42, effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as a note under section 1362 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1416 of this title.
 

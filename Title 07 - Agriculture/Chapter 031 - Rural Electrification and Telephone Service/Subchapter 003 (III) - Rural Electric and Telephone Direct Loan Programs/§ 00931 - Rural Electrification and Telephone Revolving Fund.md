@@ -8,7 +8,7 @@ There is hereby established in the Treasury of the United States a fund, to be k
 
 &emsp;(3) all collections of principal and interest received on and after July 1, 1972, on notes, bonds, judgments, or other obligations made or held under subchapters I and II of this chapter and under this subchapter, except for net collection proceeds previously appropriated for the purchase of class A stock in the Rural Telephone Bank, which shall be paid into and be assets of the fund;
 
-&emsp;(4) all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congress and the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts;
+&emsp;(4) all appropriations for interest subsidies and losses required under this subchapter which may hereafter be made by the Congressand the unobligated balances of any funds made available for loans under the item “Rural Electrification Administration” in the Department of Agriculture and Agriculture-Environmental and Consumer Protection Appropriations Acts;
 
 &emsp;(5) moneys borrowed from the Secretary of the Treasury pursuant to section 934(a) of this title;
 

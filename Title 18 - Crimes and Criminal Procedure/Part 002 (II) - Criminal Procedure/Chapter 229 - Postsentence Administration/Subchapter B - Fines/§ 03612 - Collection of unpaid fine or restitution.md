@@ -24,9 +24,9 @@ Information to be Included in Judgment; Judgment to be Transmitted to Attorney G
 
 &emsp;(E) a description of any modification or remission;
 
-&emsp;(F) if other than immediate payment is permitted, a requirement that, until the fine or restitution order is paid in full, the defendant notify the Attorney General of any change in the mailing address or residence address of the defendant not later than thirty days after the change occurs; and
+&emsp;(F) if other than immediate payment is permitted, a requirement that, until the fine or restitution order is paid in full, the defendant notify the Attorney General of any change in the mailing address or residence address of thedefendant not later than thirty days after the change occurs; and
 
-&emsp;(G) in the case of a restitution order, information sufficient to identify each victim towhom restitution is owed. It shall be the responsibility of each victim to notify the Attorney General, or the appropriate entity of the court, by means of a form to be provided by the Attorney General or the court, of any change in the victim's mailing address while restitution is still owed the victim. The confidentiality of any information relating to a victim shall be maintained.
+&emsp;(G) in the case of a restitution order, information sufficient to identify each victim to whom restitution is owed. It shall be the responsibility of each victim to notify the Attorney General, or the appropriate entity of the court, by means of a form to be provided by the Attorney General or the court, of any change in the victim's mailing address while restitution is still owed the victim. The confidentiality of any information relating to a victim shall be maintained.
 
 (2) Not later than ten days after entry of the judgment or order, the court shall transmit a certified copy of the judgment or order to the Attorney General.
 
@@ -118,7 +118,7 @@ Subsec. (d). Pub. L. 104–132, §207(c)(2)(D)(ii), which directed substitution 
 
 Pub. L. 104–132, §207(c)(2)(D)(i), inserted “or restitution” after “Within ten working days after a fine”.
 
-Subsec. (e). Pub. L. 104–132, §207(c)(2)(E), inserted “or restitution” after “days after a fine” and substituted“the person that the fine or restitution is in default” for “him that the fine is in default”.
+Subsec. (e). Pub. L. 104–132, §207(c)(2)(E), inserted “or restitution” after “days after a fine” and substituted “the person that the fine or restitution is in default” for “him that the fine is in default”.
 
 Subsec. (f). Pub. L. 104–132, §207(c)(2)(F)(i), which directed amendment of heading by inserting “and restitution” after “on fines”, was executed by inserting the material after “on fines” to reflect the probable intent of Congress.
 

@@ -6,7 +6,7 @@ Subchapter is based on subchapter B of chapter 8 of subtitle A of title VI of Pu
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 280d, 290bb–23, 1758, 1766, 4953, 5011, 9855, 9855d, 9904, 12653,12653c of this title; title 8 section 1613; title 20 sections 1087ee, 6493, 7472, 8102; title 29 section 1605; title 31 section 6703.
+This subchapter is referred to in sections 280d, 290bb–23, 1396r–1a, 1758, 1766, 4953, 5011, 9855, 9855d, 9904, 12653, 12653c of this title; title 8 section 1613; title 20 sections 1087ee, 6493, 7472, 8102; title 29 section 1605; title 31 section 6703.
 
 
 ---

@@ -2,7 +2,7 @@
 
 #### (a) Functions, powers, and duties transferred
 
-The following functions, powers, and duties heretofore vested in the government comptrollerfor Guam are hereby transferred to the Inspector General, Department of the Interior, for the purpose of establishing an organization which will maintain a satisfactory level of independent audit oversight of the government of Guam:
+The following functions, powers, and duties heretofore vested in the government comptroller for Guam are hereby transferred to the Inspector General, Department of the Interior, for the purpose of establishing an organization which will maintain a satisfactory level of independent audit oversight of the government of Guam:
 
 &emsp;(1) The authority to audit all accounts pertaining to the revenue and receipts of the government of Guam, and of funds derived from bond issues, and the authority to audit, in accordance with law and administrative regulations, all expenditures of funds and property pertaining to the government of Guam including those pertaining to trust funds held by the government of Guam.
 
@@ -16,7 +16,7 @@ The authority granted in paragraph (a) of this section shall extend to all activ
 
 In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for Guam related to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
-(Aug. 1, 1950, ch. 512, §9–A, as added Oct. 19, 1982, Pub. L. 97–357, title I, §104(b), 96 Stat. 1706.)
+(Aug. 1, 1950, ch. 512, §9–A, as added Pub. L. 97–357, title I, §104(b), Oct. 19, 1982, 96 Stat. 1706.)
 
 #### References in Text
 

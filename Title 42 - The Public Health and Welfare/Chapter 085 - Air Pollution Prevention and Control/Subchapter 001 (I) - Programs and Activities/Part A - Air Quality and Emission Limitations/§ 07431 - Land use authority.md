@@ -1,0 +1,6 @@
+### §7431. Land use authority
+
+Nothing in this chapter constitutes an infringement on the existing authority of counties and cities to plan or control land use, and nothing in this chapter provides or transfers authority over such land use.
+
+(July 14, 1955, ch. 360, title I, §131, as added Nov. 15, 1990, Pub. L. 101–549, title VIII, §805, 104 Stat. 2689.)
+

@@ -1,26 +1,20 @@
 ### §3214. Mailing privilege of former President; surviving spouse of former President
 
-(a) Subject to subsection (b), a former President and the surviving spouse of a former President may send nonpolitical mail within the United States and its territories and possessions as franked mail. Such mail of a former President and of the surviving spouse of a former President marked “Postage and Fees Paid” in the manner prescribed by the Postal Service shall be accepted by the Postal Service for transmission in the international mails.
+A former President and the surviving spouse of a former President may send nonpolitical mail within the United States and its territories and possessions as franked mail. Such mail of a former President and of the surviving spouse of a former President marked “Postage and Fees Paid” in the manner prescribed by the Postal Service shall be accepted by the Postal Service for transmission in the international mails.
 
-(b) Subsection (a) shall cease to apply—
-
-&emsp;(1) 5 years after the effective date of this subsection, in the case of any individual who, on such effective date—
-
-&emsp;&emsp;(A) is a former President (including any individual who might become entitled to the mailing privilege under subsection (a) as the surviving spouse of such a former President); or
-
-&emsp;&emsp;(B) is the surviving spouse of a former President; and
-
-&emsp;(2) 4 years and 6 months after the expiration of the period for which services and facilities are authorized to be provided under section 4 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), in the case of an individual who becomes a former President after such effective date (including any surviving spouse of such individual, as described in the parenthetical matter in paragraph (1)(A)).
-
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, §4(a), Dec. 18, 1973, 87 Stat. 742; Pub. L. 103–123, title IV, §6(b), Oct. 28, 1993, 107 Stat. 1246.)
-
-#### References in Text
-
-The effective date of this subsection, referred to in subsec. (b)(1), is Oct. 1, 1993. See Effective Date of 1993 Amendment note below.
-
-Section 4 of the Presidential Transition Act of 1963, referred to in subsec. (b)(2), is section 4 of Pub. L. 88–277, which is set out as a note under section 102 of Title 3, The President.
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, §4(a), Dec. 18, 1973, 87 Stat. 742; Pub. L. 103–123, title IV, §6(b), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 105–61, title IV, §409(b), Oct. 10, 1997, 111 Stat. 1299.)
 
 #### Amendments
+
+1997—Pub. L. 105–61 struck out subsec. (a) designation, substituted “A former President” for “Subject to subsection (b), a former President”, and struck out subsec. (b) which read as follows: “Subsection (a) shall cease to apply—
+
+&emsp;“(1) 5 years after the effective date of this subsection, in the case of any individual who, on such effective date—
+
+&emsp;&emsp;“(A) is a former President (including any individual who might become entitled to the mailing privilege under subsection (a) as the surviving spouse of such a former President); or
+
+&emsp;&emsp;“(B) is the surviving spouse of a former President; and
+
+&emsp;“(2) 4 years and 6 months after the expiration of the period for which services and facilities are authorized to be provided under section 4 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), in the case of an individual who becomes a former President after such effective date (including any surviving spouse of such individual, as described in the parenthetical matter in paragraph (1)(A)).”
 
 1993—Pub. L. 103–123 designated existing provisions as subsec. (a), substituted “Subject to subsection (b), a former” for “A former”, and added subsec. (b).
 

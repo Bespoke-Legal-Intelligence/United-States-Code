@@ -24,7 +24,7 @@ Subject to subsection (c)(1) of this section, it shall be considered discriminat
 
 #### (A) General rule
 
-&emsp;&emsp;If a public entity operates a fixed route system any segment of which is included on the National Register of Historic Places and if making a vehicle of historic character to be used solely on such segment readily accessible to and usable by individuals withdisabilities would significantly alter the historic character of such vehicle, the public entity only has to make (or to purchase or lease a remanufactured vehicle with) those modifications which are necessary to meet the requirements of paragraph (1) and which do not significantly alter the historic character of such vehicle.
+&emsp;&emsp;If a public entity operates a fixed route system any segment of which is included on the National Register of Historic Places and if making a vehicle of historic character to be used solely on such segment readily accessible to and usable by individuals with disabilities would significantly alter the historic character of such vehicle, the public entity only has to make (or to purchase or lease a remanufactured vehicle with) those modifications which are necessary to meet the requirements of paragraph (1) and which do not significantly alter the historic character of such vehicle.
 
 #### (B) Vehicles of historic character defined by regulations
 

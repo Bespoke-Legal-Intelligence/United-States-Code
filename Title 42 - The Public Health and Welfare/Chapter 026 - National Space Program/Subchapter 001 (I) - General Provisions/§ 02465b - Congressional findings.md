@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(7) it is the general policy of the Federal Government to purchase needed goods and services, including launch services, from the private sector to the fullest extent feasible; and
 
-&emsp;(8) predictable access to National Aeronautics and Space Administration launch markets would encourage continuing UnitedStates private sector investment in space and related activities.
+&emsp;(8) predictable access to National Aeronautics and Space Administration launch markets would encourage continuing United States private sector investment in space and related activities.
 
 (Pub. L. 101–611, title II, §202, Nov. 16, 1990, 104 Stat. 3205.)
 

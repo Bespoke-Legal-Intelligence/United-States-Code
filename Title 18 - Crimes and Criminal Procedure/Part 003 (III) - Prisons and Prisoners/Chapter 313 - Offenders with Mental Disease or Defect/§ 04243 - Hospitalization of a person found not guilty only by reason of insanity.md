@@ -14,7 +14,7 @@ Hearing.—A hearing shall be conducted pursuant to the provisions of section 42
 
 (d)
 
-Burden of Proof.—In a hearing pursuant to subsection (c) of this section, a person foundnot guilty only by reason of insanity of an offense involving bodily injury to, or serious damage to the property of, another person, or involving a substantial risk of such injury or damage, has the burden of proving by clear and convincing evidence that his release would not create a substantial risk of bodily injury to another person or serious damage of property of another due to a present mental disease or defect. With respect to any other offense, the person has the burden of such proof by a preponderance of the evidence.
+Burden of Proof.—In a hearing pursuant to subsection (c) of this section, a person found not guilty only by reason of insanity of an offense involving bodily injury to, or serious damage to the property of, another person, or involving a substantial risk of such injury or damage, has the burden of proving by clear and convincing evidence that his release would not create a substantial risk of bodily injury to another person or serious damage of property of another due to a present mental disease or defect. With respect to any other offense, the person has the burden of such proof by a preponderance of the evidence.
 
 (e)
 
@@ -60,7 +60,7 @@ Certain Persons Found Not Guilty by Reason of Insanity in the District of Columb
 
 &emsp;(1)
 
-Transfer to custody of the attorney general.—Notwithstanding section 301(h) of title 24 of the District of Columbia Code, and notwithstanding subsection 4247(j) of thistitle, all persons who have been committed to a hospital for the mentally ill pursuant to section 301(d)(1) of title 24 of the District of Columbia Code, and for whom the United States has continuing financial responsibility, may be transferred to the custody of the Attorney General, who shall hospitalize the person for treatment in a suitable facility.
+Transfer to custody of the attorney general.—Notwithstanding section 301(h) of title 24 of the District of Columbia Code, and notwithstanding subsection 4247(j) of this title, all persons who have been committed to a hospital for the mentally ill pursuant to section 301(d)(1) of title 24 of the District of Columbia Code, and for whom the United States has continuing financial responsibility, may be transferred to the custody of the Attorney General, who shall hospitalize the person for treatment in a suitable facility.
 
 &emsp;(2)
 

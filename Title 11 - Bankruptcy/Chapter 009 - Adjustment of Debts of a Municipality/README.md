@@ -57,7 +57,3 @@ This chapter is referred to in sections 101, 103, 109, 347, 362, 365, 502, 503 o
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - Administration](Subchapter%20002%20%28II%29%20-%20Administration/README.md)
 - [Subchapter 003 (III) - The Plan](Subchapter%20003%20%28III%29%20-%20The%20Plan/README.md)
-- [Subchapter 001 (I) - Officers and Administration](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/README.md)
-- [Subchapter 002 (II) - The Plan](Subchapter%20002%20%28II%29%20-%20The%20Plan/README.md)
-- [Subchapter 003 (III) - Postconfirmation Matters](Subchapter%20003%20%28III%29%20-%20Postconfirmation%20Matters/README.md)
-- [Subchapter 004 (IV) - Railroad Reorganization](Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/README.md)

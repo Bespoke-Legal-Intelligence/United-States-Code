@@ -68,7 +68,7 @@ A city shall not be denied assistance under this part solely on the basis of its
 
 #### (f) Transmission of notification to Committee chairmen
 
-Notification of grants and contracts made under this part (and the applications submitted for such grants and contracts) shall, upon being made, be transmitted by the Administrator,<sup>1</sup> tothe chairman of the Committee on Education and Labor of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate.
+Notification of grants and contracts made under this part (and the applications submitted for such grants and contracts) shall, upon being made, be transmitted by the Administrator,<sup>1</sup> to the chairman of the Committee on Education and Labor of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate.
 
 (Pub. L. 93–415, title II, §262, as added Pub. L. 100–690, title VII, §7263(a)(2)(F), Nov. 18, 1988, 102 Stat. 4445; amended Pub. L. 102–586, §2(h), Nov. 4, 1992, 106 Stat. 5001.)
 

@@ -24,7 +24,7 @@ Notwithstanding the provisions of subsections (a), (b), and (c) of this section�
 
 &emsp;(4) If and to the extent that an annuity or other benefit payable to a person by reason of the provisions of subsection (a), (b), or (c) of this section duplicates an annuity or other benefit then payable to such person under other provisions of this subchapter, such annuity or other benefit then payable under other provisions of this subchapter shall be reduced (but not below zero) by the amount of the annuity or other benefit payable by reason of subsection (a), (b), or (c) of this section.
 
-(Aug. 29, 1935, ch. 812, §19, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I, §101, 88 Stat. 1350; amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(Aug. 29, 1935, ch. 812, §19, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1350; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### References in Text
 

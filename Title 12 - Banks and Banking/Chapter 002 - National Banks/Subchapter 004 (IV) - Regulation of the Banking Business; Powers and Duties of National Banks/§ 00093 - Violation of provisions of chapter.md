@@ -60,7 +60,7 @@ If the directors of any national banking association shall knowingly violate, or
 
 #### (5) Assessment; etc.
 
-&emsp;Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by theComptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
 #### (6) Hearing
 
@@ -130,7 +130,7 @@ The resignation, termination of employment or participation, or separation of an
 
 The Comptroller of the Currency may act in the Comptroller's own name and through the Comptroller's own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
 
-(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Nov. 10, 1978, Pub. L. 95–630, title I, §103, 92 Stat. 3643; Oct. 15, 1982, Pub. L. 97–320, title IV, §424(d)(3), (f), (g), 96 Stat. 1523; Jan. 12, 1983, Pub. L. 97–457, §24, 96 Stat. 2510; Aug. 9, 1989, Pub. L. 101–73, title IX, §§905(e), 907(e), 103 Stat. 460, 469;Oct. 28, 1992, Pub. L. 102–550, title XV, §1502(a), 106 Stat. 4045; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330017(b)(2), 108 Stat. 2149; Sept. 23, 1994, Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), 108 Stat. 2232, 2253, 2254.)
+(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469; Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
 
 #### References in Text
 

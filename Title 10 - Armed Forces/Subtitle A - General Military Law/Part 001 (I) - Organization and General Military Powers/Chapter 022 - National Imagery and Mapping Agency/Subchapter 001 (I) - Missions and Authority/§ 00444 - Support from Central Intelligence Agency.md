@@ -14,7 +14,7 @@ Administrative and Contract Services.—(1) In furtherance of the national intel
 
 (c)
 
-Detail of Personnel.—The Director of Central Intelligence may detail personnel of the Central Intelligence Agency indefinitely to the National Imagery and Mapping Agency without regard to any limitation on the duration of interagency details of Federal Government personnel.
+Detail of Personnel.—The Director of Central Intelligence may detail personnel of theCentral Intelligence Agency indefinitely to the National Imagery and Mapping Agency without regard to any limitation on the duration of interagency details of Federal Government personnel.
 
 (d)
 

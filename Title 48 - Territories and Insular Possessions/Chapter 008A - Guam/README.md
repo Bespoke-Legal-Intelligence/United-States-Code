@@ -150,7 +150,7 @@
 
 #### Constitutions for Virgin Islands and Guam: Establishment; Congressional Authorization
 
-Authorization for the peoples of the Virgin Islands and Guam to call constitutional conventions to draft constitutions for local self-government, see Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, set out as a note under section 1541 of this title.
+Authorization for the peoples of the Virgin Islands and Guam to call constitutional conventions to draftconstitutions for local self-government, see Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, set out as a note under section 1541 of this title.
 
 #### Delegate to Congress From Guam
 

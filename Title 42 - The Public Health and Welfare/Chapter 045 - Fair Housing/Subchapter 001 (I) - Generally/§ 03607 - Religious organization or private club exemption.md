@@ -46,7 +46,7 @@ September 13, 1988, referred to in subsec. (b)(3)(A), was in the original “the
 
 #### Amendments
 
-1995—Subsec. (b)(2)(C). Pub. L. 104–76, §2, amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “intended and operated for occupancy by at least one person 55 years of age or older per unit. In determining whether housing qualifies as housing for older persons under this subsection, the Secretary shall develop regulations which require at least the following factors:
+1995—Subsec. (b)(2)(C). Pub. L. 104–76, §2, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “intended and operated for occupancy by at least one person 55 years of age or older per unit. In determining whether housing qualifies as housing for older persons under this subsection, the Secretary shall develop regulations which require at least the following factors:
 
 &emsp;“(i) the existence of significant facilities and services specifically designed to meet the physical or social needs of older persons, or if the provision of such facilities and services is not practicable, that such housing is necessary to provide important housing opportunities for older persons; and
 

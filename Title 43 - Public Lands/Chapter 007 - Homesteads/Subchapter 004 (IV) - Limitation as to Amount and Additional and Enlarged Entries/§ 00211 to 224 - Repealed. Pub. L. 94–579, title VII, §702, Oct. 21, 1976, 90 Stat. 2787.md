@@ -26,11 +26,11 @@ Section 222, act Mar. 4, 1923, ch. 245, §1, 42 Stat. 1445, authorized additiona
 
 Section 223, acts May 14, 1880, ch. 89, §3, 21 Stat. 141; June 6, 1900, ch. 821, 31 Stat. 683; Aug. 9, 1912, ch. 280, 37 Stat. 267, authorized preference of settlers to entries under Enlarged Homestead Act for lands covered by former sections 218 and 219 of this title.
 
-Section 224, acts Apr. 28, 1904, ch. 1801, §§1–3, 33 Stat. 547, 548; Mar. 2, 1907, ch. 2527, §§1–3, 34 Stat. 1224; May 29, 1908, ch. 220, §7, 35 Stat. 466; Aug. 24, 1912, ch. 371, 37Stat. 499, extended limitation on entries within certain boundaries in Nebraska.
+Section 224, acts Apr. 28, 1904, ch. 1801, §§1–3, 33 Stat. 547, 548; Mar. 2, 1907, ch. 2527, §§1–3, 34 Stat. 1224; May 29, 1908, ch. 220, §7, 35 Stat. 466; Aug. 24, 1912, ch. 371, 37 Stat. 499, extended limitation on entries within certain boundaries in Nebraska.
 
 #### Effective Date of Repeal
 
-Section 702 of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
+Section 702 of Pub. L. 94–579 provided that the repeal made by that section is effective on and after Oct. 21,1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.
 
 #### Savings Provision
 

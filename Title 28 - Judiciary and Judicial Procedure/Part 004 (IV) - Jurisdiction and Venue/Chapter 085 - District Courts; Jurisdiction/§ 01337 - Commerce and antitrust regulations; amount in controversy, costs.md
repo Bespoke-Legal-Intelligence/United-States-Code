@@ -6,7 +6,7 @@
 
 (c) The district courts shall not have jurisdiction under this section of any matter within the exclusive jurisdiction of the Court of International Trade under chapter 95 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Oct. 20, 1978, Pub. L. 95–486, §9(a), 92 Stat. 1633; Oct. 10, 1980, Pub. L. 96–417, title V, §505, 94 Stat. 1743; Jan. 12, 1983, Pub. L. 97–449, §5(f), 96 Stat. 2442; Dec. 29, 1995, Pub. L. 104–88, title III, §305(a)(3), 109 Stat. 944.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 95–486, §9(a), Oct. 20, 1978, 92 Stat. 1633; Pub. L. 96–417, title V, §505, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–449, §5(f), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 104–88, title III, §305(a)(3), Dec. 29, 1995, 109 Stat. 944.)
 
 #### Historical and Revision Notes
 
@@ -18,13 +18,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1995—Subsecs. (a), (b). Pub. L. 104–88 substituted “11706 or 14706” for “11707”.
+<b>1995</b>—Subsecs. (a), (b). Pub. L. 104–88 substituted “11706 or 14706” for “11707”.
 
-1983—Pub. L. 97–449 substituted “section 11707 of title 49” for “section 20(11) of part I of the Interstate Commerce Act (49 U.S.C. 20(11)) or section 219 of part II of such Act (49 U.S.C. 319)” wherever appearing.
+<b>1983</b>—Pub. L. 97–449 substituted “section 11707 of title 49” for “section 20(11) of part I of the Interstate Commerce Act (49 U.S.C. 20(11)) or section 219 of part II of such Act (49 U.S.C. 319)” wherever appearing.
 
-1980—Subsec. (c). Pub. L. 96–417 added subsec. (c).
+<b>1980</b>—Subsec. (c). Pub. L. 96–417 added subsec. (c).
 
-1978—Pub. L. 95–486 designated existing provisions as subsec. (a), inserted proviso giving the district courts original jurisdiction of actions brought under sections 20(11) and 219 of the Interstate Commerce Act when the amounts in controversy for each receipt exceed $10,000, exclusive of interests and costs, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–486 designated existing provisions as subsec. (a), inserted proviso giving the district courts original jurisdiction of actions brought under sections 20(11) and 219 of the Interstate Commerce Act when the amounts in controversy for each receipt exceed $10,000, exclusive of interests and costs, and added subsec. (b).
 
 #### Effective Date of 1995 Amendment
 

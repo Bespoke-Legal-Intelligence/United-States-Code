@@ -8,7 +8,7 @@
 
 (d) Attorneys of the Department, when assigned to assist in the trial of cases, and employees of the Department when ordered in writing by the Secretary to appear as witnesses, shall be paid the regular travel and subsistence allowance paid to other employees when on official travel status.
 
-(e) Part-time and fee-basis employees of the Department, in addition to their regular travel and subsistence allowance, when ordered in writing by the Secretary to appear as witnessesin suits under this section, may be allowed, within the discretion and under written orders of the Secretary, a fee in an amount not to exceed $50 per day.
+(e) Part-time and fee-basis employees of the Department, in addition to their regular travel and subsistence allowance, when ordered in writing by the Secretary to appear as witnesses in suits under this section, may be allowed, within the discretion and under written orders of the Secretary, a fee in an amount not to exceed $50 per day.
 
 (f) Employees of the Department who are subpenaed to attend the trial of any suit, under the provisions of this section, as witnesses for a party to such suit shall be granted court leave or authorized absence, as applicable, for the period they are required to be away from the Department in answer to such subpenas.
 

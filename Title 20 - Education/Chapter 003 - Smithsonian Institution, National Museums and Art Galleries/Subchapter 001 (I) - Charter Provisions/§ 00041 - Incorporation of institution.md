@@ -1,6 +1,6 @@
 ### §41. Incorporation of institution
 
-The President, the Vice President, the Chief Justice, and the heads of executive departments are constituted an establishment by the name of the Smithsonian Institution for the increase and diffusion of knowledge among men, and by that name shall be known and have perpetual succession with the powers, limitations, and restrictions hereinafter contained, and no other.
+The President, the Vice President, the Chief Justice, and the heads of executive departments are constituted an establishment by the name ofthe Smithsonian Institution for the increase and diffusion of knowledge among men, and by that name shall be known and have perpetual succession with the powers, limitations, and restrictions hereinafter contained, and no other.
 
 (R.S. §5579; Feb. 27, 1877, ch. 69, 19 Stat. 253; Mar. 12, 1894, ch. 36, 28 Stat. 41.)
 

@@ -2,7 +2,7 @@
 
 The Chief of Engineers shall, as superintendent of the Washington Aqueduct, annually submit to the Secretary of the Army, within nine months after the end of the fiscal year, a report of the Chief of Engineers’ operations for that year and a report of the condition, progress, repairs, casualties, and expenditures of the Washington Aqueduct and other public works under the Chief of Engineers’ charge.
 
-(R.S. §1812; Feb. 26, 1925, ch. 339, §3, 43 Stat. 983; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Oct. 19, 1980, Pub. L. 96–470, title II, §202(a), 94 Stat. 2242.)
+(R.S. §1812; Feb. 26, 1925, ch. 339, §3, 43 Stat. 983; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 96–470, title II, §202(a), Oct. 19, 1980, 94 Stat. 2242.)
 
 #### Codification
 

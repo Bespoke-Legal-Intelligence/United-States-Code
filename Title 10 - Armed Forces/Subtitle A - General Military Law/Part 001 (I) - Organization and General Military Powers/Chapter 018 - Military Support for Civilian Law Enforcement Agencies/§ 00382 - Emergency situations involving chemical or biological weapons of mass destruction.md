@@ -56,15 +56,15 @@ Delegations of Authority.—(1) Except to the extent otherwise provided by the S
 
 (g)
 
-Relationship to Other Authority.—Nothing in this section shall be construed to restrict any executive branch authority regarding use of members of the armed forces or equipment of the Department of Defense that was in effect before the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997.
+Relationship to Other Authority.—Nothing in this section shall be construed to restrict any executive branch authority regarding use of members of the armed forces or equipment of the Department of Defense that was in effect before September 23, 1996.
 
-(Added Pub. L. 104–201, div. A, title XIV, §1416(a)(1), Sept. 23, 1996, 110 Stat. 2721.)
+(Added Pub. L. 104–201, div. A, title XIV, §1416(a)(1), Sept. 23, 1996, 110 Stat. 2721; amended Pub. L. 105–85, div. A, title X, §1073(a)(6), Nov. 18, 1997, 111 Stat. 1900.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (g), is the date of enactment of Pub. L. 104–201, which was approved Sept. 23, 1996.
+1997—Subsec. (g). Pub. L. 105–85 substituted “September 23, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 372 of this title.
+This section is referred to in section 372 of this title; title 18 sections 175a, 2332e.
 

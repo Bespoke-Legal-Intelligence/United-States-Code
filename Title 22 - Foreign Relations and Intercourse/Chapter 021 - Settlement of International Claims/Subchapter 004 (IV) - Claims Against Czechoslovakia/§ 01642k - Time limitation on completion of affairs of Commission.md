@@ -2,5 +2,5 @@
 
 The Commission shall complete its affairs in connection with the settlement of claims pursuant to this subchapter not later than three years following the final date for the filing of claims as provided in section 1642j of this title or following the enactment of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under this subchapter, whichever date is later.
 
-(Mar. 10, 1950, ch. 54, title IV, §412, as added Aug. 8, 1958, Pub. L. 85–604, §1, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title IV, §412, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 529.)
 

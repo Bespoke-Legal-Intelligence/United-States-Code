@@ -22,29 +22,24 @@
 | [40118\.](%C2%A7%2040118%20-%20Government-financed%20air%20transportation.md) | Government-financed air transportation. |
 | [40119\.](%C2%A7%2040119%20-%20Security%20and%20research%20and%20development%20activities.md) | Security and research and development activities. |
 | [40120\.](%C2%A7%2040120%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
-| 40121\.<sup>1</sup> | Interstate agreements for airport facilities. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 40121\.<sup>1</sup> | Air traffic control modernization reviews. |
+| [40121\.](%C2%A7%2040121%20-%20Air%20traffic%20control%20modernization%20reviews.md) | Air traffic control modernization reviews. |
 | [40122\.](%C2%A7%2040122%20-%20Federal%20Aviation%20Administration%20personnel%20management%20system.md) | Federal Aviation Administration personnel management system. |
 | [40123\.](%C2%A7%2040123%20-%20Protection%20of%20voluntarily%20submitted%20information.md) | Protection of voluntarily submitted information. |
+| [40124\.](%C2%A7%2040124%20-%20Interstate%20agreements%20for%20airport%20facilities.md) | Interstate agreements for airport facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1996—Pub. L. 104–287, §5(69)(B), Oct. 11, 1996, 110 Stat. 3396, inserted item 40121 “Interstate agreements for airport facilities”.
+1997—Pub. L. 105–102, §3(d)(1)(B), Nov. 20, 1997, 111 Stat. 2215, amended Pub. L. 104–287, §5(69)(B). See 1996 Amendment note below.
+
+1996—Pub. L. 104–287, §5(69)(B), Oct. 11, 1996, 110 Stat. 3396, as amended by Pub. L. 105–102, §3(d)(1)(B), Nov. 20, 1997, 111 Stat. 2215, added item 40124.
 
 Pub. L. 104–264, title II, §254, title IV, §§401(b)(2), 402(b), Oct. 9, 1996, 110 Stat. 3238, 3255, 3256, inserted “safety of” before “air commerce” in item 40104 and added item 40121 “Air traffic control modernization reviews” and items 40122 and 40123.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 46301, 46316 of this title.
-
-<i><sup>1</sup></i><i> So in original. Two sections 40121 have been enacted and appear in a different order in this chapter.</i>
 
 
 ---
@@ -71,7 +66,7 @@ This chapter is referred to in sections 46301, 46316 of this title.
 - [&sect; 40118 - Government-financed air transportation](%C2%A7%2040118%20-%20Government-financed%20air%20transportation.md)
 - [&sect; 40119 - Security and research and development activities](%C2%A7%2040119%20-%20Security%20and%20research%20and%20development%20activities.md)
 - [&sect; 40120 - Relationship to other laws](%C2%A7%2040120%20-%20Relationship%20to%20other%20laws.md)
-- [&sect; 40121 - 1 Air traffic control modernization reviews](%C2%A7%2040121%20-%201%20Air%20traffic%20control%20modernization%20reviews.md)
+- [&sect; 40121 - Air traffic control modernization reviews](%C2%A7%2040121%20-%20Air%20traffic%20control%20modernization%20reviews.md)
 - [&sect; 40122 - Federal Aviation Administration personnel management system](%C2%A7%2040122%20-%20Federal%20Aviation%20Administration%20personnel%20management%20system.md)
 - [&sect; 40123 - Protection of voluntarily submitted information](%C2%A7%2040123%20-%20Protection%20of%20voluntarily%20submitted%20information.md)
-- [&sect; 40121 - 1 Interstate agreements for airport facilities](%C2%A7%2040121%20-%201%20Interstate%20agreements%20for%20airport%20facilities.md)
+- [&sect; 40124 - Interstate agreements for airport facilities](%C2%A7%2040124%20-%20Interstate%20agreements%20for%20airport%20facilities.md)

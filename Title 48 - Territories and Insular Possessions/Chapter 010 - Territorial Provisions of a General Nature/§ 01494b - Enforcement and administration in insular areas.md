@@ -86,7 +86,7 @@
 
 #### References in Text
 
-The Controlled Substances Import and Export Act, referred to in subsecs. (a)(1)(C), (c)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsecs. (a)(1)(C), (c)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended,which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 Sections 1494 to 1494c of this title, referred to in subsecs. (a)(3), (b)(2), (c)(3), (d)(1), (e)(1), and (f)(1), (2), was in the original “this Act”, and was translated as reading “this subtitle” meaning subtitle A of title V of Pub. L. 99–570 to reflect the probable intent of Congress. See Short Title note set out under section 1494 of this title.
 
@@ -104,7 +104,7 @@ Subsec. (b)(2). Pub. L. 100–690, §9303(2), substituted “$500,000 for fiscal
 
 Subsec. (b)(3). Pub. L. 100–690, §9303(3), added par. (3).
 
-Subsec. (c)(2). Pub. L. 100–690, §9304(1), substituted “The Attorney General and the Secretaries of Education and Health and Human Services of the United States, as appropriate, are authorized to and, upon request of the Government of the Northern Mariana Islands, shall” for “The Attorney General of the UnitedStates and the Secretary of Health and Human Services, as appropriate, are authorized to” in introductory provisions, inserted “and other personnel” after “officers” in subpar. (A), and inserted “or other substance” after “drug” in subpar. (B).
+Subsec. (c)(2). Pub. L. 100–690, §9304(1), substituted “The Attorney General and the Secretaries of Education and Health and Human Services of the United States, as appropriate, are authorized to and, upon request of the Government of the Northern Mariana Islands, shall” for “The Attorney General of the United States and the Secretary of Health and Human Services, as appropriate, are authorized to” in introductory provisions, inserted “and other personnel” after “officers” in subpar. (A), and inserted “or other substance” after “drug” in subpar. (B).
 
 Subsec. (c)(3). Pub. L. 100–690, §9304(2), substituted “$125,000 for fiscal year 1989 and annually thereafter for grants to the Government of the Northern Mariana Islands to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services” for “$250,000” and “sections 1494 to 1494c of this title” for “this subsection”.
 

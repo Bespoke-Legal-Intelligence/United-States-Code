@@ -1,6 +1,6 @@
 ### §3733. Property management
 
-(a)(1) Of the number of purchases made during any fiscal year of real property acquired by the Secretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
+(a)(1) Of the number of purchases made during any fiscal year of real property acquired by the Secretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary inorder to maintain the effective functioning of the loan guaranty program.
 
 (2) After September 30, 1990, the percentage limitations described in paragraph (1) of this subsection shall have no effect.
 
@@ -50,7 +50,7 @@ Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “3710(a)” for “18
 
 Subsec. (a)(2). Pub. L. 102–54, §2(a), added par. (2) and struck out former par. (2) which read as follows: “In carrying out paragraph (1) of this subsection, the Secretary, to the maximum extent consistent with that paragraph and with maintaining the effective functioning of the loan guaranty program under this chapter, shall minimize the number of loans made by the Secretary to finance purchases of real property from the Secretary described in that paragraph.”
 
-Subsec. (a)(3). Pub. L. 102–54, §2(a), added par. (3) and struck out former par. (3) which authorized sales before Oct. 1, 1990, of notes for loans under subsec. (a)(1) andrequired Secretary to make reports of such sales to Committees on Veterans’ Affairs of Senate and House of Representatives.
+Subsec. (a)(3). Pub. L. 102–54, §2(a), added par. (3) and struck out former par. (3) which authorized sales before Oct. 1, 1990, of notes for loans under subsec. (a)(1) and required Secretary to make reports of such sales to Committees on Veterans’ Affairs of Senate and House of Representatives.
 
 Subsec. (a)(6). Pub. L. 102–83, §5(c)(1), substituted “3724(a)” for “1824(a)”.
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, see section 2512(c) of Pub
 
 #### Rule for Construction of Duplicate Provisions
 
-Section 7004(b) of title VII of Pub. L. 100–203 provided that: “In applying the provisions of this title \[title VII of Pub. L. 100–203\] and the provisions of the Veterans’ Home Loan Program Improvements and Property Rehabilitation Act of 1987 \[Pub. L. 100–198\] which make the same amendments as the provisions of this title \[amending sections 1816 \[now 3733\] and 1829 \[now 3729\] of this title\]—
+Section 7004(b) of title VII of Pub. L. 100–203 provided that: “In applying the provisions of this title \[title VIIof Pub. L. 100–203\] and the provisions of the Veterans’ Home Loan Program Improvements and Property Rehabilitation Act of 1987 \[Pub. L. 100–198\] which make the same amendments as the provisions of this title \[amending sections 1816 \[now 3733\] and 1829 \[now 3729\] of this title\]—
 
 &emsp;“(1) the identical provisions of title 38, United States Code, amended by the provisions of this title and the provisions of such Act shall be treated as having been amended only once; and
 

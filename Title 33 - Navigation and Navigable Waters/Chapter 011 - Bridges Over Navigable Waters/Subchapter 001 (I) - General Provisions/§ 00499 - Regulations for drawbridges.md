@@ -12,7 +12,7 @@ No vessel owner or operator shall signal a drawbridge to open for any nonstructu
 
 Whoever violates any rule or regulation issued under subsection (a) or (b) of this section, shall be liable to a civil penalty of not more than $1,000. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of Transportation may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
-(Aug. 18, 1894, ch. 299, §5, 28 Stat. 362; June 13, 1902, ch. 1079, §6, 32 Stat. 374; Oct. 17, 1968, Pub. L. 90–578, title IV, §402(b)(2), 82 Stat. 1118; Oct. 15, 1982, Pub. L. 97–322, title I, §108(a), 96 Stat. 1582; Jan. 12, 1983, Pub. L. 97–449, §2(d)(1), 96 Stat. 2440; Sept. 28, 1988, Pub. L. 100–448, §21, 102 Stat. 1846; Dec. 1, 1990, Pub. L. 101–650, title III, §321, 104 Stat. 5117.)
+(Aug. 18, 1894, ch. 299, §5, 28 Stat. 362; June 13, 1902, ch. 1079, §6, 32 Stat. 374; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 97–322, title I, §108(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 100–448, §21, Sept. 28, 1988, 102 Stat. 1846; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Codification
 

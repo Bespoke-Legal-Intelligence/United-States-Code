@@ -6,6 +6,7 @@
 | :--- | ---: |
 | [1101\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001101%20-%20Definitions.md) | Definitions. |
 | [1102\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001102%20-%20Special%20provisions%20relating%20to%20surviving%20spouses.md) | Special provisions relating to surviving spouses. |
+| [1103\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001103%20-%20Cost-of-living%20adjustments.md) | Cost-of-living adjustments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,6 +76,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–33, title VIII, §8031(a)(2), Aug. 5, 1997, 111 Stat. 668, added item 1103.
 
 1994—Pub. L. 103–446, title I, §106(a)(2), Nov. 2, 1994, 108 Stat. 4651, added item 1117.
 

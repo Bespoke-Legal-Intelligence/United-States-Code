@@ -40,15 +40,15 @@ Pub. L. 104–208, div. A, title I, §101(d) \[title I, §113\], Sept. 30, 1996,
 
 #### Department of the Treasury Franchise Fund Pilot
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title I\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–316, provided in part that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for expenses and equipment necessary for the maintenance and operation of such financial and administrative support services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with the payments, including advanced payments, from applicable appropriations and funds available to the Department and other Federal agencies for which such administrative and financial services are performed, at rates which will recover all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automatic Data Processing (ADP) software and systems, and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Treasury financial management, ADP, and other support systems: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title I\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–316, provided in part that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for expenses and equipment necessary for the maintenance and operation of such financial and administrative support services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to beprovided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with the payments, including advanced payments, from applicable appropriations and funds available to the Department and other Federal agencies for which such administrative and financial services are performed, at rates which will recover all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automatic Data Processing (ADP) software and systems, and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Treasury financial management, ADP, and other support systems: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
 
 #### Department of Veterans Affairs Franchise Fund Pilot
 
-Pub. L. 104–204, title I, Sept. 26, 1996, 110 Stat. 2880, provided in part that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for expenses andequipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment and other assets pertaining to the services to be provided by the franchise fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize the franchise fund: <i>Provided further</i>, That the franchise fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That the franchise fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Departmental financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
+Pub. L. 104–204, title I, Sept. 26, 1996, 110 Stat. 2880, provided in part that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment and other assets pertaining to the services to be provided by the franchise fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize the franchise fund: <i>Provided further</i>, That the franchise fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That the franchise fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Departmental financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
 
 #### Environmental Protection Agency Franchise Fund Pilot
 
-Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2912, provided in part that: “There is hereby established in the Treasury a franchise fund pilot to be known as the ‘Working capital fund’, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for expenses and equipment necessary for the maintenance and operation of such administrative services as the Administrator determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the Agency and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Administrator: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Agency financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
+Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2912, as amended, formerly set out as a note under this section, was transferred and is classified to section 4370e of Title 42, The Public Health and Welfare.
 
 #### Federal Emergency Management Agency Franchise Fund Pilot
 
@@ -260,7 +260,7 @@ My proposed reorganization creates a new entity to deal with each of these funct
 
 &emsp;—It establishes an Office of Management and Budget, which would be the President's principal arm for the exercise of his managerial functions.
 
-The Domestic Council will be primarily concerned with what we do; the Office of Management and Budgetwill be primarily concerned with <i>how</i> we do it, and <i>how well</i> we do it.
+The Domestic Council will be primarily concerned with what we do; the Office of Management and Budget will be primarily concerned with <i>how</i> we do it, and <i>how well</i> we do it.
 
 #### DOMESTIC COUNCIL
 
@@ -306,7 +306,7 @@ The new Office of Management and Budget will place much greater emphasis on the 
 
 The new Office will expand efforts to improve interagency cooperation in the field. Washington-based coordinators will help work out interagency problems at the operating level, and assist in developing efficient coordinating mechanisms throughout the country. The success of these efforts depends on the experience, persuasion, and understanding of an Office which will be an expediter and catalyst. The Office will also respond to requests from State and local governments for assistance on intergovernmental programs. It will work closely with the Vice President and the Office of Intergovernmental Relations.
 
-Improvement of Government organization, information and management systems will be a major function of the Office of Management and Budget. It will maintain a continuous review of the organizational structures and management processes of the Executive Branch, and recommend needed changes. It will take the lead in developing new information systems to provide the President with the performance and other data that he needs but does not now get. When new programs are launched, it will seek to ensure that they arenot simply forced into or grafted onto existing organizational structures that may not be appropriate. Resistance to organizational change is one of the chief obstacles to effective government; the new Office will seek to ensure that organization keeps abreast of program needs.
+Improvement of Government organization, information and management systems will be a major functionof the Office of Management and Budget. It will maintain a continuous review of the organizational structures and management processes of the Executive Branch, and recommend needed changes. It will take the lead in developing new information systems to provide the President with the performance and other data that he needs but does not now get. When new programs are launched, it will seek to ensure that they are not simply forced into or grafted onto existing organizational structures that may not be appropriate. Resistance to organizational change is one of the chief obstacles to effective government; the new Office will seek to ensure that organization keeps abreast of program needs.
 
 The new Office will also take the lead in devising programs for the development of career executive talent throughout the Government. Not the least of the President's needs as Chief Executive is direct capability in the Executive Office for insuring that talented executives are used to the full extent of their abilities. Effective, coordinated efforts for executive manpower development have been hampered by the lack of a system for forecasting the needs for executive talent and appraising leadership potential. Both are crucial to the success of an enterprise—whether private or public.
 
@@ -350,7 +350,7 @@ Section 1. (a) All functions transferred to the President of the United States b
 
 (b) All outstanding delegations, rules, regulations, orders, circulars, bulletins, or other forms of Executive or administrative action issued or taken by or relating to the Bureau of the Budget or the Director of the Bureau of the Budget prior to the effective date of this order shall, until amended or revoked, remain in full force and effect as if issued or taken by or relating to the Office of Management and Budget or the Director of the Office of Management and Budget.
 
-(c) The delegation to the Director of the Office of Management and Budget, pursuant to subsection (a) of this Section, of the functions vested in the Director of the Bureau of the Budget by Section 103 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 18b) \[31 U.S.C. 1104(d)\] and subsequently transferred to the President by Part I of Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), shall be implemented in accord with Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), to the extent that provision is applicable.
+(c) The delegation to the Director of the Office of Management and Budget, pursuant to subsection (a) ofthis Section, of the functions vested in the Director of the Bureau of the Budget by Section 103 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 18b) \[31 U.S.C. 1104(d)\] and subsequently transferred to the President by Part I of Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), shall be implemented in accord with Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), to the extent that provision is applicable.
 
 (d) The delegation to the Director of the Office of Management and Budget of the following executive development and personnel functions (which have been transferred to the Office of Personnel Management) is terminated on December 4, 1977:
 
@@ -478,7 +478,7 @@ Ex. Ord. No. 12314, July 22, 1981, 46 F.R. 38329, which established Federal Regi
 
 Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833, provided:
 
-By virtue of the authority vested in me as President by the Constitution and statutes of the United States, including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], Section 3(a) of the Paperwork Reduction Act of 1980 (Public Law 96–511, 94 Stat. 2825, 44 U.S.C. 3503 note), and Section 301 of Title 3 of the United States Code, and in order to transfer, redelegate, and reassign certain statistical policy functions from the Secretary of Commerce to the Director of the Office of Management and Budget, and to require redelegation of certain functions to the Administrator for the Office of Information and Regulatory Affairs, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and statutes of the United States,including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], Section 3(a) of the Paperwork Reduction Act of 1980 (Public Law 96–511, 94 Stat. 2825, 44 U.S.C. 3503 note), and Section 301 of Title 3 of the United States Code, and in order to transfer, redelegate, and reassign certain statistical policy functions from the Secretary of Commerce to the Director of the Office of Management and Budget, and to require redelegation of certain functions to the Administrator for the Office of Information and Regulatory Affairs, it is hereby ordered as follows:
 
 Section 1. Sec. 1(c) of Executive Order No. 11541 of July 1, 1970, as amended \[set out as a note above\], is amended by deleting the last phrase “is terminated on October 9, 1977” and substituting therefor “shall be implemented in accord with Section 3(a) of the Paperwork Reduction Act of 1980 (94 Stat. 2825; 44 U.S.C. 3503 note), to the extent that provision is applicable”.
 
@@ -520,11 +520,11 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12479
 
-Ex. Ord. No. 12479, May 24, 1984, 49 F.R. 22243, which established President's Council on Management Improvement, assigned functions of Council and responsibilities of Chairman, and provided for administrative support, was revoked by Ex. Ord. No. 12816, Oct. 14, 1992, 57 F.R. 47562, set out below.
+Ex. Ord. No. 12479, May 24, 1984, 49 F.R. 22243, which established President's Council on Management Improvement, assigned functions of Council and responsibilities of Chairman, and provided for administrative support, was revoked by Ex. Ord. No. 12816, Oct. 14, 1992, 57 F.R. 47562, formerly set below.
 
 #### Executive Order No. 12552
 
-Ex. Ord. No. 12552, Feb. 25, 1986, 51 F.R. 7041, which provided for establishment of a comprehensive program for improvement of productivity throughout all Executive departments and agencies, was superseded by Ex. Ord. No. 12637, Apr. 27, 1988, 53 F.R. 15349, set out below.
+Ex. Ord. No. 12552, Feb. 25, 1986, 51 F.R. 7041, which provided for establishment of a comprehensive program for improvement of productivity throughout all Executive departments and agencies, was superseded by Ex. Ord. No. 12637, Apr. 27, 1988, 53 F.R. 15349, formerly set out below, and was revoked by Ex. Ord. No. 13048, §5, June 10, 1997, 62 F.R. 32469, set out below.
 
 #### Ex. Ord. No. 12615. Performance of Commercial Activities
 
@@ -552,7 +552,7 @@ Section 1. The head of each Executive department and agency shall, to the extent
 
 Sec. 2. The Director of the Office of Management and Budget shall, to the extent permitted by law:
 
-(a) Issue guidance to departments and agencies to implement this Order. Such guidance shall be designed toensure an equitable cost comparison of government-operated commercial activities with private industry performance of the same activities, and to improve the efficiency in the conduct of studies;
+(a) Issue guidance to departments and agencies to implement this Order. Such guidance shall be designed to ensure an equitable cost comparison of government-operated commercial activities with private industry performance of the same activities, and to improve the efficiency in the conduct of studies;
 
 (b) Publish for public review (i) not later than 30 days after its completion, the inventory of commercial activities identified pursuant to section 1(b) and the activities scheduled for study by departments and agencies in Fiscal Year 1988 pursuant to section 1(c); and (ii) not later than 30 days before the start of each successive fiscal year, the list of activities to be reviewed during that year pursuant to section 1(d); and
 
@@ -570,83 +570,9 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12625, Jan. 27, 1988, 53 F.R. 2812, which established President's Council on Integrity and Efficiency as an interagency committee, was revoked by Ex. Ord. No. 12805, May 11, 1992, 57 F.R. 20627, set out below.
 
-#### Ex. Ord. No. 12637. Productivity Improvement Program for the Federal Government
+#### Executive Order No. 12637
 
-Ex. Ord. No. 12637, Apr. 27, 1988, 53 F.R. 15349, provided:
-
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Budget and Accounting Act of 1921, as amended \[now 31 U.S.C. 1101 et seq.\], and in order to further improve a comprehensive program for the improvement of productivity throughout all Executive departments and agencies, it is hereby ordered as follows:
-
-Section 1. There is hereby established a government-wide program to improve the quality, timeliness, and efficiency of services provided by the Federal Government. The goal of the program shall be to improve the quality and timeliness of service to the public and to achieve an annual average productivity increase of 3 percent in appropriate functions. Each Executive department and agency will gradually include appropriate functions in the Productivity Improvement Program, so that by 1991 all appropriate functions are covered.
-
-Sec. 2. As used in this Order, the term:
-
-(a) “Productivity” means the efficiency with which resources are used to produce a government service or product at specified levels of quality and timeliness;
-
-(b) “Appropriate functions” means those agency program functions that produce measurable outputs in the form of services to the public;
-
-(c) “Public” means a customer outside the organization, such as citizens, businesses, State and local governments, other countries and/or their citizens, other agencies, the military;
-
-(d) “Outputs” means products or services delivered to the public;
-
-(e) “Measurement system” means both the specific measures used to determine whether standards of quality, timeliness, and efficiency of services are being met, and the procedures for the collection and reporting of data resulting from application of productivity measures;
-
-(f) “Organizational performance standard” means a statement that quantifies and describes the desired level of quality, timeliness, and efficiency of services to be provided by an organization;
-
-(g) “Management review” means the review by the Director of the Office of Management and Budget, as part of the budget process of agency accomplishments and plans for management and productivity improvements.
-
-Sec. 3. The head of each Executive department and agency shall:
-
-(a) Develop a complete inventory of all appropriate functions to be included in the productivity program, use the agency's planning process to review current functions, and develop agency goals and objectives for improvement in services to the public.
-
-(b) Develop and submit annually to the Office of Management and Budget a productivity plan. Each plan shall conform to the policy guidance issued by the Director of the Office of Management and Budget, pursuant to Section 5 of this Order, and shall:
-
-(1) set forth the agency's productivity goals and objectives;
-
-(2) target priorities for the year and expand coverage each subsequent year to additional appropriate functions, with the objective of complete coverage of all appropriate functions by 1991;
-
-(3) describe the proposed actions designed to make the agency's operations and delivery of services more efficient and responsive;
-
-(4) describe the methods, including efficiency reviews and cost comparisons with the private sector, that the agency will use either to improve its own service, or to make use of commercial services available in the private sector when it is economical to do so; and
-
-(5) describe the measurement systems to be used by the agency to gauge quality, timeliness, and efficiency.
-
-(c) Implement the productivity program after the Management review by the Director of the Office of Management and Budget as provided in Section 6.
-
-(d) Assess annually the agency's progress toward achieving objectives and priorities, including documented gains and cost savings. This assessment will form the basis of the agency's report to the President as required by Section 4.
-
-(e) Designate a senior official responsible for guiding the agency's productivity improvement program.
-
-(f) Inform agency managers and employees that they are expected to be responsible for improvements in the quality, timeliness, and efficiency of services.
-
-(g) Include productivity and quality improvement goals in the performance appraisals of managers and supervisors.
-
-(h) Encourage employee participation in the productivity program through employee training, employee involvement in work-related decisions, incentives, recognition, and rewards and by taking actions to minimize negative impacts on employees that may occur as a result of the productivity program.
-
-Sec. 4. The head of each Executive department and agency shall report annually to the President through the Domestic Policy Council on accomplishments achieved under the plan. The annual report will form the basis of the Management Report to the Congress.
-
-Sec. 5. The Director of the Office of Management and Budget is authorized to:
-
-(a) Develop and promulgate goals, policies, principles, standards, and guidelines for the effective administration of this Order by Executive departments and agencies; and
-
-(b) Identify and propose the elimination of statutory and regulatory barriers that inhibit opportunities to make improvements in productivity.
-
-Sec. 6. The Director shall review, through the management review process, each agency's productivity plan based upon the requirements and guidance issuedpursuant to Section 5 of this Order. Nothing in this Section shall be construed as displacing agency responsibilities delegated by law.
-
-Sec. 7. The Director of the Office of Management and Budget shall submit to the Congress, in conjunction with the President's budget, a report on productivity plans and accomplishments of the agencies and the government as a whole.
-
-Sec. 8. The Director of the Office of Personnel Management shall:
-
-(a) Review Federal personnel policies and programs and make or recommend such changes as are appropriate to support productivity improvement;
-
-(b) Review incentive policies and programs for Federal employees and make or recommend such changes as are appropriate to increase the productivity of the Federal Government;
-
-(c) Develop and implement training programs for Federal employees in support of productivity improvements;
-
-(d) Review policies and programs for Federal employees who may be displaced by productivity improvements and make or recommend such changes as are appropriate to ensure that such policies and programs will minimize any adverse impact on Federal employees.
-
-Sec. 9. Executive Order No. 12552 of February 25, 1986, is hereby superseded.
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12637, Apr. 27, 1988, 53 F.R. 15349, which established a productivity improvement program for the Federal Government, was revoked by Ex. Ord. No. 13048, §5, June 10, 1997, 62 F.R. 32469, set out below.
 
 #### Ex. Ord. No. 12803. Infrastructure Privatization
 
@@ -686,7 +612,7 @@ Sec. 4. <i>Criteria</i>. To the extent permitted by law, the head of an executiv
 
 (b) Demonstrates that a market mechanism, legally enforceable agreement, or regulatory mechanism will ensure that: (i) the infrastructure asset or assets will continue to be used for their originally authorized purposes, as long as needed for those purposes, even if the purchaser becomes insolvent or is otherwise hindered from fulfilling the originally authorized purposes; and (ii) user charges will be consistent with any current Federal conditions that protect users and the public by limiting the charges.
 
-Sec. 5. <i>Government-wide Coordination and Review</i>. In implementing Executive Order Nos. 12291 and 12498 \[formerly set out under section 601 of Title 5, Government Organization and Employees\] and OMB Circular No.A–19, the Office of Management and Budget, to the extent permitted by law and consistent with the provisions of those authorities, shall take action to ensure that the policies of the executive department and agencies are consistent with the principles, criteria, and requirements of this order. The Office of Management and Budget shall review the results of implementing this order and report thereon to the President 1 year after the date of this order.
+Sec. 5. <i>Government-wide Coordination and Review</i>. In implementing Executive Order Nos. 12291 and 12498 \[formerly set out under section 601 of Title 5, Government Organization and Employees\] and OMB Circular No. A–19, the Office of Management and Budget, to the extent permitted by law and consistent with the provisions of those authorities, shall take action to ensure that the policies of the executive department and agencies are consistent with the principles, criteria, and requirements of this order. The Office of Management and Budget shall review the results of implementing this order and report thereon to the President 1 year after the date of this order.
 
 Sec. 6. <i>Preservation of Existing Authority</i>. Nothing in this order is in any way intended to limit any existing authority of the heads of executive departments and agencies to approve privatization proposals that are otherwise consistent with law.
 
@@ -788,143 +714,15 @@ Sec. 6. <i>Revocation</i>. Executive Order No. 12625 of January 27, 1988, entitl
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 12816. Management Improvement in the Federal Government
+#### Executive Order No. 12816
 
-Ex. Ord. No. 12816, Oct. 14, 1992, 57 F.R. 47562, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to coordinate and implement policies with respect to management improvement in the Federal Government, it is hereby ordered as follows:
-
-Section 1. <i>Establishment and Membership of the President's Council on Management Improvement.</i>
-
-(a) There is established as an interagency committee the President's Council on Management Improvement (“Council”).
-
-(b) The Council shall be composed of the Deputy Director for Management of the Office of Management and Budget, who shall serve as Chairman, and one senior official, who is a full-time officer or employee of the Federal Government and who is responsible for management or administration, from each of the following agencies as selected by the heads of those agencies:
-
-&emsp;(1) Department of State;
-
-&emsp;(2) Department of the Treasury;
-
-&emsp;(3) Department of Defense;
-
-&emsp;(4) Department of Justice;
-
-&emsp;(5) Department of the Interior;
-
-&emsp;(6) Department of Agriculture;
-
-&emsp;(7) Department of Commerce;
-
-&emsp;(8) Department of Labor;
-
-&emsp;(9) Department of Health and Human Services;
-
-&emsp;(10) Department of Housing and Urban Development;
-
-&emsp;(11) Department of Transportation;
-
-&emsp;(12) Department of Energy;
-
-&emsp;(13) Department of Education;
-
-&emsp;(14) Department of Veterans Affairs;
-
-&emsp;(15) Agency for International Development;
-
-&emsp;(16) Environmental Protection Agency;
-
-&emsp;(17) Equal Employment Opportunity Commission;
-
-&emsp;(18) Federal Communications Commission;
-
-&emsp;(19) Federal Deposit Insurance Corporation;
-
-&emsp;(20) Federal Emergency Management Agency;
-
-&emsp;(21) Federal Energy Regulatory Commission;
-
-&emsp;(22) Federal Reserve Board;
-
-&emsp;(23) General Services Administration;
-
-&emsp;(24) Interstate Commerce Commission;
-
-&emsp;(25) National Aeronautics and Space Administration;
-
-&emsp;(26) National Archives and Records Administration;
-
-&emsp;(27) Nuclear Regulatory Commission;
-
-&emsp;(28) Office of Personnel Management;
-
-&emsp;(29) Resolution Trust Corporation;
-
-&emsp;(30) Securities and Exchange Commission;
-
-&emsp;(31) Small Business Administration;
-
-&emsp;(32) Tennessee Valley Authority; and
-
-&emsp;(33) United States Information Agency.
-
-(c) The Council membership also shall include the following officials:
-
-&emsp;(1) Deputy Director, Office of Personnel Management;
-
-&emsp;(2) Deputy Administrator, General Services Administration;
-
-&emsp;(3) Assistant to the President for Policy Development or a full-time officer or employee of the Federal Government designated by that official;
-
-&emsp;(4) Assistant to the President for Presidential Personnel or a full-time officer or employee of the Federal Government designated by that official;
-
-&emsp;(5) Assistant Director for General Management, Office of Management and Budget; and
-
-&emsp;(6) At-large members appointed by the Chairman pursuant to section 3(e) of this order.
-
-(d) The Council shall have a Vice Chairman selected by the Chairman from among the Council membership.
-
-Sec. 2. <i>Functions of the Council.</i>
-
-(a) The Council shall serve as an interagency forum to discuss problems and recommend improvements in Government management and operations and to provide advice to the Chairman on matters pertaining to the management of the Federal Government. The Council shall:
-
-&emsp;(1) assist in the formulation of short- and long-range plans to promote improvements in the management and administrative systems and operations of the Federal Government;
-
-&emsp;(2) identify specific department and agency management solutions that may have Governmentwide application and assist in the dissemination of this information and the implementation of these solutions;
-
-&emsp;(3) serve as a resource to assist in an advisory capacity in the development, review, revision, and implementation of Governmentwide policies in support of the central management agencies of the Federal Government, including the Office of Management and Budget, the Office of Personnel Management, and the General Services Administration; and
-
-&emsp;(4) serve as a forum to recommend solutions to interagency management problems.
-
-(b) In conducting these functions, the Council shall not interfere with existing lines of authority and responsibility in the departments and agencies.
-
-Sec. 3. <i>Responsibilities of the Chairman</i>. The Chairman shall:
-
-(a) establish, in consultation with the Council membership as he deems appropriate, procedures and agenda topics for the Council;
-
-(b) report, on behalf of the Council and as appropriate, to the President, the Director of the Office of Management and Budget, the agency heads, and the Cabinet on the goals and accomplishments of the Council;
-
-(c) establish such committees or working groups of the Council, including an executive committee, as the Chairman may find necessary or appropriate for the efficient conduct of Council functions;
-
-(d) appoint a Vice Chairman from among the Council's membership to assist the Chairman in representing the Council and to perform duties as determined by the Chairman;
-
-(e) appoint other full-time officers or employees of the Federal Government to the Council as at-large members for specific terms to provide special expertise to the Council and to perform duties as determined by the Chairman; and
-
-(f) be supported by the Assistant Director for General Management of the Office of Management and Budget, who shall advise and assist the Chairman in the execution of the responsibilities set forth above and act for the Chairman in his or her absence.
-
-Sec. 4. <i>Administrative Provisions.</i>
-
-(a) The Director of the Office of Management and Budget shall provide the Council with administrative support as may be necessary for the performance of its functions.
-
-(b) To the extent permitted by law, the head of each agency represented on the Council shall provide its representative with such administrative support as necessary to enable the agency representative to carry out his or her responsibilities and to support the Governmentwide activities of the Council.
-
-Sec. 5. <i>Revocation</i>. Executive Order No. 12479 is revoked.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12816, Oct. 14, 1992, 57 F.R. 47562, which established the President's Council on Management Improvement and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 13048, §5, June 10, 1997, 62 F.R. 32469, set out below.
 
 #### Ex. Ord. No. 12837. Deficit Control and Productivity Improvement in the Administration of the Federal Government
 
 Ex. Ord. No. 12837, Feb. 10, 1993, 58 F.R. 8205, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Budget and Accounting Act of 1921, as amended (31 U.S.C. 1101 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to assist inthe control of the Federal deficit and improve the administrative productivity of the Federal Government, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Budget and Accounting Act of 1921, as amended (31 U.S.C. 1101 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to assist in the control of the Federal deficit and improve the administrative productivity of the Federal Government, it is hereby ordered as follows:
 
 Section 1. All executive departments and agencies shall include a separate category for “administrative expenses” when submitting their appropriation requests to the Office of Management and Budget (OMB) for fiscal years 1994 through 1997. The Director of OMB (Director), in consultation with the agencies, shall establish and revise as necessary a definition of administrative expenses for the agencies. All questions regarding the definition of administrative expenses shall be resolved by the Director.
 
@@ -1114,7 +912,7 @@ Each executive department and agency with infrastructure responsibilities (herei
 
 (a) <i>Systematic Analysis of Expected Benefits and Costs</i>. Infrastructure investments shall be based on systematic analysis of expected benefits and costs, including both quantitative and qualitative measures, in accordance with the following:
 
-&emsp;(1) Benefits and costs should be quantified and monetized to the maximum extent practicable. All types of benefits and costs, both market and nonmarket, should be considered. To the extent that environmental and other nonmarket benefits and costs canbe quantified, they shall be given the same weight as quantifiable market benefits and costs.
+&emsp;(1) Benefits and costs should be quantified and monetized to the maximum extent practicable. All types of benefits and costs, both market and nonmarket, should be considered. To the extent that environmental and other nonmarket benefits and costs can be quantified, they shall be given the same weight as quantifiable market benefits and costs.
 
 &emsp;(2) Benefits and costs should be measured and appropriately discounted over the full life cycle of each project. Such analysis will enable informed tradeoffs among capital outlays, operating and maintenance costs, and nonmonetary costs borne by the public.
 
@@ -1145,6 +943,98 @@ Sec. 5. <i>Application to Legislative Proposals</i>. Beginning March 15, 1994, a
 Sec. 6. <i>Guidance</i>. The Office of Management and Budget shall provide guidance to the agencies on the implementation of this order.
 
 Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13048. Improving Administrative Management in the Executive Branch
+
+Ex. Ord. No. 13048, June 10, 1997, 62 F.R. 32467, provided:
+
+Improvement of Government operations is a continuing process that benefits from interagency activities. One group dedicated to such activities is the President's Council on Management Improvement (PCMI), established by Executive Order 12479 in 1984, reestablished by Executive Order 12816 in 1992. In the intervening years, some activities of the PCMI have been assumed by the President's Management Council, the Chief Financial Officers Council, and the Chief Information Officers Council. These organizations are alsofocussed on improving agencies’ use of quality management principles. Other functions have been assigned to individual agencies. Nonetheless, remaining administrative management matters deserve attention across agency lines.
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America and in order to improve agency administrative and management practices throughout the executive branch, I hereby direct the following:
+
+Section 1. <i>Interagency Council on Administrative Management.</i>
+
+(a) <i>Purpose and Membership</i>. An Interagency Council on Administrative Management (“Council”) is established as an interagency coordination mechanism. The Council shall be composed of the Deputy Director for Management of the Office of Management and Budget, who shall serve as Chair, and one senior administrative management official from each of the following agencies:
+
+1\. Department of State;
+
+2\. Department of the Treasury;
+
+3\. Department of Defense;
+
+4\. Department of Justice;
+
+5\. Department of the Interior;
+
+6\. Department of Agriculture;
+
+7\. Department of Commerce;
+
+8\. Department of Labor;
+
+9\. Department of Health and Human Services;
+
+10\. Department of Housing and Urban Development;
+
+11\. Department of Transportation;
+
+12\. Department of Energy;
+
+13\. Department of Education;
+
+14\. Department of Veterans Affairs;
+
+15\. Environmental Protection Agency;
+
+16\. Federal Emergency Management Agency;
+
+17\. Central Intelligence Agency;
+
+18\. Small Business Administration;
+
+19\. Department of the Army;
+
+20\. Department of the Navy;
+
+21\. Department of the Air Force;
+
+22\. National Aeronautics and Space Administration;
+
+23\. Agency for International Development;
+
+24\. General Services Administration;
+
+25\. National Science Foundation; and
+
+26\. Office of Personnel Management.
+
+Department and agency heads shall advise the Chair of their selections for membership on the Council. Council membership shall also include representatives of the Chief Financial Officers Council, the Chief Information Officers Council, the Federal Procurement Council, the Interagency Advisory Group of Federal Personnel Directors, and the Small Agency Council, as well as at-large members appointed by the Chair, as he deems appropriate. The Chair shall invite representatives of the Social Security Administration to participate in the Council's work, as appropriate. The Council shall select a Vice Chair from among the Council's membership.
+
+(b) The Council shall plan, promote, and recommend improvements in Government administration and operations and provide advice to the Chair on matters pertaining to the administrative management of the Federal Government. The Council shall:
+
+&emsp;(1) explore opportunities for more effective use of Government resources;
+
+&emsp;(2) support activities and initiatives of the President's Management Council, the Chief Financial Officers Council, the Chief Information Officers Council, the Federal Procurement Council, and the Interagency Advisory Group of Federal Personnel Directors designed to develop, review, revise, and implement Governmentwide administrative management policies; and
+
+&emsp;(3) identify successful administrative management practices, including quality management practices, and assist in their Governmentwide dissemination and implementation.
+
+Sec. 2. <i>Responsibilities of the Chair</i>. The Chair or, if the Chair chooses, the Vice Chair shall:
+
+&emsp;(1) convene meetings of the Council;
+
+&emsp;(2) preside at formal council meetings;
+
+&emsp;(3) establish committees or working groups of the Council, as necessary for efficient conduct of Council functions; and
+
+&emsp;(4) appoint, to the extent permitted by law and consistent with personnel practices, other full-time officers or employees of the Federal Government to the Council as at-large members for specific terms, not exceeding 2 years, to provide expertise to the Council.
+
+Sec. 3. <i>Responsibilities of Agency Heads</i>. To the extent permitted by law, heads of departments or agencies represented on the Council shall provide their representatives with administrative support needed to support Council activities.
+
+Sec. 4. <i>Judicial Review</i>. This order is for the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+Sec. 5. <i>Revocation</i>. Executive Order 12816 (creating the President's Council on Management Improvement), Executive Order 12552 (establishing the executive branch productivity improvement program) and Executive Order 12637 (revising the executive branch productivity improvement program) are revoked.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

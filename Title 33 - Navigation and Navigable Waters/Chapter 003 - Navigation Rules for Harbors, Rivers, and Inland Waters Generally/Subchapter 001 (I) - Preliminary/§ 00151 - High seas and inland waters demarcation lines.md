@@ -12,7 +12,7 @@ The Secretary shall also establish appropriate identifiable lines dividing inlan
 
 For the purposes of this section, the term “United States” includes the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other Commonwealth, territory, or possession of the United States.
 
-(Feb. 19, 1895, ch. 102, §2, 28 Stat. 672; Aug. 8, 1980, Pub. L. 96–324, §1, 94 Stat. 1020; Oct. 3, 1980, Pub. L. 96–376, §13, 94 Stat. 1511; Dec. 24, 1980, Pub. L. 96–591, §9, 94 Stat. 3436.)
+(Feb. 19, 1895, ch. 102, §2, 28 Stat. 672; Pub. L. 96–324, §1, Aug. 8, 1980, 94 Stat. 1020; Pub. L. 96–376, §13, Oct. 3, 1980, 94 Stat. 1511; Pub. L. 96–591, §9, Dec. 24, 1980, 94 Stat. 3436.)
 
 #### References in Text
 

@@ -40,7 +40,7 @@ The new Council shall be composed of—
 
 &emsp;(1) a majority of members who are—
 
-&emsp;&emsp;(A) individuals who are family members of children with disabilities, are eligible forfamily support, and represent the diversity of families within the State, including those families from unserved and underserved populations; and
+&emsp;&emsp;(A) individuals who are family members of children with disabilities, are eligible for family support, and represent the diversity of families within the State, including those families from unserved and underserved populations; and
 
 &emsp;&emsp;(B) children with disabilities, from age 18 to 21, and are representative of the demographics of the State;
 
@@ -103,6 +103,10 @@ No member of the new Council shall cast a vote on any matter that would provide 
 The new Council may, consistent with State law, use such resources to reimburse members of the new Council for reasonable and necessary expenses of attending the new Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the new Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing Council duties.
 
 (Pub. L. 91–230, title VI, §707, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3946.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 (d) All functions of other officers and employees of the Administrative Office and all functions of organizational units of the Administrative Office are vested in the Director. The Director may delegate any of the Director's functions, powers, duties, and authority (except the authority to promulgate rules and regulations) to such officers and employees of the judicial branch of Government as the Director may designate, and subject to such terms and conditions as the Director may consider appropriate; and may authorize the successive redelegation of such functions, powers, duties, and authority as the Director may deem desirable. All official acts performed by such officers and employees shall have the same force and effect as though performed by the Director in person.
 
-(June 25, 1948, ch. 646, 62 Stat. 913; Oct. 28, 1978, Pub. L. 95–539, §5, 92 Stat. 2044; Oct. 30, 1990, Pub. L. 101–474, §5(a), (q), 104 Stat. 1099, 1101; Dec. 1, 1990, Pub. L. 101–650, title III, §325(b)(4), 104 Stat. 5121.)
+(June 25, 1948, ch. 646, 62 Stat. 913; Pub. L. 95–539, §5, Oct. 28, 1978, 92 Stat. 2044; Pub. L. 101–474, §5(a), (q), Oct. 30, 1990, 104 Stat. 1099, 1101; Pub. L. 101–650, title III, §325(b)(4), Dec. 1, 1990, 104 Stat. 5121.)
 
 #### Historical and Revision Notes
 
@@ -28,11 +28,11 @@ The Administrative Office of the United States Courts Personnel Act of 1990, ref
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–474, §5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–474, §5(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.”
 
 Subsec. (b). Pub. L. 101–474, §5(q), and Pub. L. 101–650 amended subsec. (b) identically, substituting “604(a)(16)(B)” for “604(a)(15)(B)”.
 
-1978—Pub. L. 95–539, among other changes, substituted provision authorizing the Director to appoint and fix the compensation of necessary employees in accordance with chapter 51 and subchapter III of chapter 53 of title 5 for provision authorizing the Director, subject to the provisions of the civil service laws, to appoint necessary employees for the Administrative Office and inserted provisions relating to appointing and fixing the compensation of certified interpreters, to obtaining personal services as authorized by section 3109 of title 5, and to transferring to the Director all of the functions of the officers and employees of the Administrative Office and all the functions of the organizational units of the Administrative Office with power in the Director to delegate his authority.
+<b>1978</b>—Pub. L. 95–539, among other changes, substituted provision authorizing the Director to appoint and fix the compensation of necessary employees in accordance with chapter 51 and subchapter III of chapter 53 of title 5 for provision authorizing the Director, subject to the provisions of the civil service laws, to appoint necessary employees for the Administrative Office and inserted provisions relating to appointing and fixing the compensation of certified interpreters, to obtaining personal services as authorized by section 3109 of title 5, and to transferring to the Director all of the functions of the officers and employees of the Administrative Office and all the functions of the organizational units of the Administrative Office with power in the Director to delegate his authority.
 
 #### Effective Date of 1978 Amendment
 
@@ -44,7 +44,7 @@ Section 10 of Pub. L. 95–539 provided that:
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Administrative Office of United States Courts Personnel
 

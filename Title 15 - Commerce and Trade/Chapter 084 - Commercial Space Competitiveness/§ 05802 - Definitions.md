@@ -38,7 +38,7 @@ For the purpose of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title V of Pub. L. 102–588, Nov. 4, 1992, 106 Stat. 5122, which enacted this chapter and amended section 2454 of Title 42, The Public Health andWelfare, and section 2615 of former Title 49, Transportation. For complete classification of title V to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title V of Pub. L. 102–588, Nov. 4, 1992, 106 Stat. 5122, which enacted this chapter and amended section 2454 of Title 42, The Public Health and Welfare, and section 2615 of former Title 49, Transportation. For complete classification of title V to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

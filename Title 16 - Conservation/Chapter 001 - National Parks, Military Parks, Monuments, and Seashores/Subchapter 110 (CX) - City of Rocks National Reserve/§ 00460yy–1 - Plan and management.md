@@ -30,7 +30,7 @@ At such time as the State or appropriate units of local government having jurisd
 
 (2) Lands and waters, and interests therein, within the boundaries of the reserve which were administered by the Forest Service, United States Department of Agriculture or the Bureau of Land Management, Department of the Interior prior to November 18, 1988, are hereby transferred to the administrative jurisdiction of the Secretary to be administered by the National Park Service in accordance with this subchapter.
 
-(3) Lands and interest therein so acquired shall, so long as responsibility for managementand administration remains with the United States, be administered by the Secretary subject to the provisions of sections 1, 2, 3, and 4 of this title, and in a manner consistent with the purpose of this subchapter.
+(3) Lands and interest therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of sections 1, 2, 3, and 4 of this title, and in a manner consistent with the purpose of this subchapter.
 
 #### (e) Withdrawal of management and administration from State or local units of government
 
@@ -42,7 +42,7 @@ Congress finds that there are unique circumstances with respect to the water and
 
 #### (g) Withdrawal of lands from disposition under other laws
 
-Subject to valid existing rights, Federal lands and interests therein, within the reserve, are hereby withdrawn from disposition under the public land laws and from entry or appropriation under the mining laws of the United States, from the operation of the mineral leasing laws of the United States, and from operation of the Geothermal Steam Act of 1970, as amended \[30 U.S.C. 1001 et seq.\].
+Subject to valid existing rights, Federal lands and interests therein, within the reserve, arehereby withdrawn from disposition under the public land laws and from entry or appropriation under the mining laws of the United States, from the operation of the mineral leasing laws of the United States, and from operation of the Geothermal Steam Act of 1970, as amended \[30 U.S.C. 1001 et seq.\].
 
 #### (h) Authorization of appropriations
 

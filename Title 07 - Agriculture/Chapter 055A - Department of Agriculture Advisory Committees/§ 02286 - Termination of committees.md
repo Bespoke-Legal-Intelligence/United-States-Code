@@ -2,7 +2,7 @@
 
 The Secretary shall terminate any advisory committee upon a finding that any such advisory committee—
 
-&emsp;(1) has expended funds in excess of its estimated annual operating costs by more than 10per centum or $500, whichever is greater, without the prior approval of the Secretary pursuant to the provisions of section 2285 of this title;
+&emsp;(1) has expended funds in excess of its estimated annual operating costs by more than 10 per centum or $500, whichever is greater, without the prior approval of the Secretary pursuant to the provisions of section 2285 of this title;
 
 &emsp;(2) has failed to file all reports required under the provisions of the Federal Advisory Committee Act or this chapter;
 

@@ -12,7 +12,7 @@ To provide charts and related information for the safe navigation of marine and 
 
 (5) Geomagnetic, seismological, gravity, and related geophysical measurements and investigations, and observations for the determination of variation in latitude and longitude.
 
-(Aug. 6, 1947, ch. 504, §1, 61 Stat. 787; Apr. 5, 1960, Pub. L. 86–409, 74 Stat. 16; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
+(Aug. 6, 1947, ch. 504, §1, 61 Stat. 787; Pub. L. 86–409, Apr. 5, 1960, 74 Stat. 16; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
 
 #### Amendments
 
@@ -34,7 +34,7 @@ Pub. L. 100–220, title III, subtitle B, Dec. 29, 1987, 101 Stat. 1475, as amen
 
 “(a)
 
-Preparation of Plan.—Not later than nine months after the date of the enactment of this subtitle \[Dec. 29, 1987\], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
+Preparation of Plan.—Not later than nine months after the date of the enactment of this subtitle\[Dec. 29, 1987\], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
 
 “(b)
 

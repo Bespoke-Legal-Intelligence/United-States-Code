@@ -68,5 +68,5 @@ Section 401 of title IV of Pub. L. 91–648, as amended by Pub. L. 95–454, tit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3372 of this title; title 22 sections 2122, 2124c.
+This section is referred to in section 3372 of this title; title 22 section 2124c.
 

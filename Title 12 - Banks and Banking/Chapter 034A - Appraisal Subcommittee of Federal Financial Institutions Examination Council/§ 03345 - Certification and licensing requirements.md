@@ -18,7 +18,7 @@ Nothing in this chapter shall be construed to prevent any Federal agency or inst
 
 #### (e) Authority of Appraisal Subcommittee
 
-The Appraisal Subcommittee shall not set qualifications or experience requirements forthe States in licensing real estate appraisers, including a de minimus <sup>1</sup> standard. Recommendations of the Subcommittee shall be nonbinding on the States.
+The Appraisal Subcommittee shall not set qualifications or experience requirements for the States in licensing real estate appraisers, including a de minimus <sup>1</sup> standard. Recommendations of the Subcommittee shall be nonbinding on the States.
 
 (Pub. L. 101–73, title XI, §1116, Aug. 9, 1989, 103 Stat. 515; Pub. L. 102–233, title VII, §701(a), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, §472(a), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, §1617(a), Oct. 28, 1992, 106 Stat. 4096.)
 

@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section, “period for which he receives pay” means the full calendar period for which a retired officer of a regular component of a uniformed service receives the pay of a position when employed on a full-time basis, but only the days for which he actually receives that pay when employed on a part-time or intermittent basis.
 
-(b) A retired officer of a regular component of a uniformed service who holds a position is entitled to receive the full pay of the position, but during the period for which he receives pay, his retired or retainer pay shall be reduced to an annual rate equal to the first $2,000 of the retired or retainer pay plus one-half of the remainder, if any. In the operation of the formula for the reduction of retired or retainer pay under this subsection, the amount of $2,000 shall be increased, from time to time, by appropriate percentage, in direct proportion to each increase in retired or retainer pay under section 1401a(b) of title 10 to reflect changes in the Consumer Price Index.
+(b) A retired officer of a regular component of a uniformed service who holds a position is entitled to receive the full pay of the position, but during the period for which he receives pay, his retired or retainer pay shall be reduced to an annual rate equal to the first $2,000 of the retired or retainer pay plus one-half of the remainder, if any. In the operation of the formula for the reduction of retired or retainer pay under this subsection, the amount of $2,000 shall be increased, from time to time, by appropriate percentage, in direct proportion to each increase in retired orretainer pay under section 1401a(b) of title 10 to reflect changes in the Consumer Price Index.
 
 (c)(1) If any member or former member of a uniformed service is receiving retired or retainer pay and is employed in a position the annual rate of basic pay for which, when combined with the member's annual rate of retired or retainer pay (reduced as provided under subsection (b) of this section), exceeds the rate of basic pay then currently paid for level V of the Executive Schedule, such member's retired or retainer pay shall be reduced by an amount computed under paragraph (2) of this subsection. The amounts of the reductions shall be deposited to the general fund of the Treasury of the United States.
 
@@ -46,21 +46,21 @@
 
 (2) Authority under this subsection may not be exercised with respect to a justice or judge of the United States, as defined in section 451 of title 28.
 
-(i)(1) If warranted by circumstances described in subsection (g)(1)(A) or (B) (as applicable), an official or committee designated in paragraph (2) shall, with respect to the employees specified in the applicable subparagraph of such paragraph, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (g) with respect to an employee of an Executive agency.
+(i)(1) If warranted by circumstances described in subsection (g)(1)(A) or (B) (as applicable), an official or committee designated in paragraph (2) shall, with respect to the employees specified in the applicable subparagraph of such paragraph, have the same waiver authority as wouldbe available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (g) with respect to an employee of an Executive agency.
 
 (2) Authority under this subsection may be exercised—
 
 &emsp;(A) with respect to an employee of an agency in the legislative branch, by the head of such agency;
 
-&emsp;(B) with respect to an employee of the House of Representatives, by the Speaker of the House of Representatives; and
+&emsp;(B) with respect to an employee of the House of Representatives, by the Committee on House Oversight of the House of Representatives; and
 
 &emsp;(C) with respect to an employee of the Senate, by the Committee on Rules and Administration of the Senate.
 
-(3) Any exercise of authority under this subsection shall be in conformance with such written policies and procedures as the agency head, the Speaker of the House of Representatives, or the Committee on Rules and Administration of the Senate (as applicable) shall prescribe, consistent with the provisions of this subsection.
+(3) Any exercise of authority under this subsection shall be in conformance with such written policies and procedures as the agency head, the Committee on House Oversight of the House of Representatives, or the Committee on Rules and Administration of the Senate (as applicable) shall prescribe, consistent with the provisions of this subsection.
 
 (j) For the purpose of subsections (g) through (i), “Executive agency” shall not include the General Accounting Office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 482; Pub. L. 95–454, title III, §308(a), (c)–(f)(1), Oct. 13, 1978, 92 Stat. 1149–1151; Pub. L. 97–276, §151(b), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–396, title III, §306, Aug. 22, 1984, 98 Stat. 1424; Pub. L. 98–525, title XV, §1537(b), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(<i>l</i>), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat. 3341–308; Pub. L. 100–202, §§101(<i>l</i>) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–509, title V, §529 \[title I, §108(a)\], Nov. 5, 1990, 104 Stat. 1427, 1449; Pub. L. 101–510, div. A, title XII, §1206(j)(1), Nov. 5, 1990, 104 Stat. 1663; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–190, div. A, title VI, §655(a)(1), Dec. 5, 1991, 105 Stat. 1390; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 482; Pub. L. 95–454, title III, §308(a), (c)–(f)(1), Oct. 13, 1978, 92 Stat. 1149–1151; Pub. L. 97–276, §151(b), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–396, title III, §306, Aug. 22, 1984, 98 Stat. 1424; Pub. L. 98–525, title XV, §1537(b), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(<i>l</i>), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat. 3341–308; Pub. L. 100–202, §§101(<i>l</i>) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–509, title V, §529 \[title I, §108(a)\], Nov. 5, 1990, 104 Stat. 1427, 1449; Pub. L. 101–510, div. A, title XII, §1206(j)(1), Nov. 5, 1990, 104 Stat. 1663; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–190, div. A, title VI, §655(a)(1), Dec. 5, 1991, 105 Stat. 1390; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184.)
 
 Historical and Revision Notes
 
@@ -95,6 +95,8 @@ Amendment of subsec. (f)(2) by Pub. L. 99–500 and 99–591 is based on provisi
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1997—Subsec. (i)(2)(B), (3). Pub. L. 105–55 substituted “the Committee on House Oversight of the House of Representatives” for “the Speaker of the House of Representatives”.
 
 1992—Subsec. (g). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(1). See 1990 Amendment note below.
 
@@ -140,7 +142,7 @@ Amendment by Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pu
 
 #### Effective and Termination Dates of 1990 Amendments
 
-Section 1206(j)(4) of Pub. L. 101–510 provided that (A) unless sections 5532(g), 8344(i), and 8468(f) of this title did not take effect as provided in subpar. (B), such sections would cease to be in effect on the earlier of Oct. 1, 1992, or the date of the enactment of the Federal Employees Pay Comparability Act of 1990 \[Nov. 5, 1990\], and (B) sections 5532(g), 8344(i), and 8468(f) of this title would not take effect if the Federal Employees Pay Comparability Act of 1990 \[Pub. L. 101–509\] was enacted before the date of the enactment of this Act \[Nov. 5, 1990\]. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(4), and provided that this title shall read as if section 1206(j)(4) had not been enacted.
+Section 1206(j)(4) of Pub. L. 101–510 provided that (A) unless sections 5532(g), 8344(i), and 8468(f) of this titledid not take effect as provided in subpar. (B), such sections would cease to be in effect on the earlier of Oct. 1, 1992, or the date of the enactment of the Federal Employees Pay Comparability Act of 1990 \[Nov. 5, 1990\], and (B) sections 5532(g), 8344(i), and 8468(f) of this title would not take effect if the Federal Employees Pay Comparability Act of 1990 \[Pub. L. 101–509\] was enacted before the date of the enactment of this Act \[Nov. 5, 1990\]. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(4), and provided that this title shall read as if section 1206(j)(4) had not been enacted.
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
@@ -200,5 +202,5 @@ Time limitation on claims against Government employees who received dual compens
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5531, 8116, 8339, 8344 of this title; title 10 section 2113; title 20 section 4512; title 22 sections 2584, 4048; title 24 sections 417, 421; title 28 section 371; title 38 section 7426; title 39 sections 410, 1005; title 42 sections 2038, 12619.
+This section is referred to in sections 5531, 8116, 8339, 8344 of this title; title 10 section 2113; title 20 section 4512; title 22 sections 2584, 3664, 4048; title 24 sections 417, 421; title 28 section 371; title 38 section 7426; title 39 sections 410, 1005; title 42 sections 2038, 12619.
 

@@ -18,7 +18,7 @@ This section corrects a typographical error by eliminating from section 1449 of 
 
 #### Amendments
 
-1949—Act May 24, 1949, substituted “and the clerk of such State court, upon” for “any attachment or sequestration of the”.
+<b>1949</b>—Act May 24, 1949, substituted “and the clerk of such State court, upon” for “any attachment or sequestration of the”.
 
 #### Federal Rules of Civil Procedure
 

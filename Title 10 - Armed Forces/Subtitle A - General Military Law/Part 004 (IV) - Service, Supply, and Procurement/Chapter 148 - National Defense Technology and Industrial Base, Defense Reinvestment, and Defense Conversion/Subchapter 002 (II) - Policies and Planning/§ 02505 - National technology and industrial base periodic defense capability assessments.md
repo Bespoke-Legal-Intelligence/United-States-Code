@@ -44,5 +44,5 @@ Section 4219 of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §2
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2410g, 2491, 2503, 2504 of this title.
+This section is referred to in sections 2198, 2410g, 2500, 2503, 2504 of this title.
 

@@ -64,7 +64,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “medical quality assurance record” means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Department of Defense as part of a medical quality assurance program.
 
-&emsp;(3) The term “health care provider” means any military or civilian health care professional who, under regulations of a military department, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
+&emsp;(3) The term “health care provider” means any military or civilian health care professional who, under regulations of a military department, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility orwho is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
 
 (k)
 
@@ -80,5 +80,5 @@ Penalty.—Any person who willfully discloses a medical quality assurance record
 
 #### Effective Date
 
-Section 705(b) of Pub. L. 99–661 provided that: “Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before,on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program.”
+Section 705(b) of Pub. L. 99–661 provided that: “Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program.”
 

@@ -8,7 +8,7 @@ The Secretary of the Army and the Secretary of the Air Force shall jointly devel
 
 &emsp;(3) Ensuring that units and members of the Army National Guard and the Air National Guard are trained by the States in accordance with approved programs and policies of, and guidance from, the Chief, the Secretary of the Army, and the Secretary of the Air Force.
 
-&emsp;(4) Monitoring and assisting the States in the organization, maintenance, and operationof National Guard units so as to provide well-trained and well-equipped units capable of augmenting the active forces in time of war or national emergency.
+&emsp;(4) Monitoring and assisting the States in the organization, maintenance, and operation of National Guard units so as to provide well-trained and well-equipped units capable of augmenting the active forces in time of war or national emergency.
 
 &emsp;(5) Planning and administering the budget for the Army National Guard of the United States and the Air National Guard of the United States.
 

@@ -10,7 +10,7 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 &emsp;(4) At any time if the mark is registered under the Act of March 3, 1881, or the Act of February 20, 1905, and has not been published under the provisions of subsection (c) of section 1062 of this title.
 
-&emsp;(5) At any time in the case of a certification mark on the ground that the registrant (A) does not control, or is not able legitimately to exercise control over, the use of such mark, or (B) engages in the production or marketing of any goods or services to which the certification mark is applied, or (C) permits the use of the certification mark for purposes other than to certify, or (D) discriminately refuses to certify or to continue to certify the goods or services of any person who maintains the standards or conditions which such mark certifies:
+&emsp;(5) At any time in the case of a certification mark on the ground that the registrant (A) does not control, or is not able legitimately toexercise control over, the use of such mark, or (B) engages in the production or marketing of any goods or services to which the certification mark is applied, or (C) permits the use of the certification mark for purposes other than to certify, or (D) discriminately refuses to certify or to continue to certify the goods or services of any person who maintains the standards or conditions which such mark certifies:
 
 > <i>Provided</i>, That the Federal Trade Commission may apply to cancel on the grounds specified in paragraphs (3) and (5) of this section any mark registered on the principal register established by this chapter, and the prescribed fee shall not be required.
 
@@ -38,7 +38,7 @@ Par. (4). Pub. L. 100–667, §115(5), substituted “(4) At” for “(d) at”
 
 Par. (5). Pub. L. 100–667, §115(6), substituted “(5) At” for “(e) at” and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively.
 
-1984—Par. (c). Pub. L. 98–620 inserted provision that a registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify aunique product or service, and that the primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used.
+1984—Par. (c). Pub. L. 98–620 inserted provision that a registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service, and that the primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used.
 
 1982—Pub. L. 97–247 struck out “verified” before “petition to cancel” in provision preceding par. (a).
 

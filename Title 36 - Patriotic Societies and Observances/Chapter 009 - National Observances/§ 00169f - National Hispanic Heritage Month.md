@@ -10,5 +10,5 @@ The President is hereby authorized and requested to issue annually a proclamatio
 
 #### Effective Date of 1988 Amendment
 
-Section 2 of Pub. L. 100–402 provided that: “The amendments made by section 1 \[amending this section\] shall take effect on January 1 of the first year beginning after the date of the enactment of this Act \[Aug. 17, 1988\].”
+Section 2 of Pub. L. 100–402 provided that: “The amendments made by section 1 \[amending this section\]shall take effect on January 1 of the first year beginning after the date of the enactment of this Act \[Aug. 17, 1988\].”
 

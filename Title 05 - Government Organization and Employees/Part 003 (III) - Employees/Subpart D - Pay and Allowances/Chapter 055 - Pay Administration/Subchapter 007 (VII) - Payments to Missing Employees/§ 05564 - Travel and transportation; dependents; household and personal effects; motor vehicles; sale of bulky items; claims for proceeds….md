@@ -12,7 +12,7 @@
 
 (c) When an employee described in subsection (b) of this section is in an injured status, transportation of dependents and household and personal effects may be provided under this section only when prolonged hospitalization or treatment is anticipated.
 
-(d) Transportation on request of a dependent may be authorized under this section only whenthere is a reasonable relationship between the circumstances of the dependent and the destination requested.
+(d) Transportation on request of a dependent may be authorized under this section only when there is a reasonable relationship between the circumstances of the dependent and the destination requested.
 
 (e) Instead of providing transportation for dependents under this section, when the travel has been completed the head of the agency concerned may authorize—
 

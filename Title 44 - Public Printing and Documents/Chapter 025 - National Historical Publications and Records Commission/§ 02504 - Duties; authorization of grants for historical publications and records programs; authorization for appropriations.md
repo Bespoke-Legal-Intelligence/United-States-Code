@@ -54,7 +54,7 @@ Based on 44 U.S. Code, 1964 ed., §393(d) (June 30, 1949, ch. 288, title V, §50
 
 Subsec. (b). Pub. L. 98–497, §107(b)(10)(E), substituted “National Archives and Records Administration” for “General Services Administration”.
 
-1983—Subsec. (b). Pub. L. 98–189 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1984, and for each of the four succeeding fiscal years, for provisions authorizing appropriations for fiscal year ending Sept. 30, 1981.
+1983—Subsec. (b). Pub. L. 98–189 substituted provisions authorizing appropriations for fiscal year endingSept. 30, 1984, and for each of the four succeeding fiscal years, for provisions authorizing appropriations for fiscal year ending Sept. 30, 1981.
 
 1979—Subsec. (b). Pub. L. 96–98 substituted provisions authorizing appropriations for fiscal year ending Sept. 30, 1981, for provisions authorizing appropriations for fiscal year ending June 30, 1975, and for each of four succeeding fiscal years.
 

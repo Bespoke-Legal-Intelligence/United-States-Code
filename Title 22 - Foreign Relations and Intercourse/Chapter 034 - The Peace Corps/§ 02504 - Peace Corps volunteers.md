@@ -2,11 +2,11 @@
 
 #### (a) Persons eligible; terms and conditions of service; Federal employee status; racial, sex, religious, or color discrimination
 
-The President may enroll in the Peace Corps for service abroad qualified citizens and nationals of the United States (referred to in this chapter as “volunteers”). The terms and conditions of the enrollment, training, compensation, hours of work, benefits, leave, termination, and all other terms and conditions of the service of volunteers shall be exclusively those set forth in this chapter and those consistent therewith which the President may prescribe; and, except as provided in this chapter, volunteers shall not be deemed officers or employees or otherwise in the service or employment of, or holding office under, the United States for any purpose. In carrying out this subsection, there shall be no discrimination against any person on account of race, sex, creed, or color.
+The President may enroll in the Peace Corps for service abroad qualified citizens and nationals of the United States (referred to in thischapter as “volunteers”). The terms and conditions of the enrollment, training, compensation, hours of work, benefits, leave, termination, and all other terms and conditions of the service of volunteers shall be exclusively those set forth in this chapter and those consistent therewith which the President may prescribe; and, except as provided in this chapter, volunteers shall not be deemed officers or employees or otherwise in the service or employment of, or holding office under, the United States for any purpose. In carrying out this subsection, there shall be no discrimination against any person on account of race, sex, creed, or color.
 
 #### (b) Living allowances, travel, leave and related items; transfers of supplies and equipment
 
-Volunteers shall be provided with such living, travel, and leave allowances, and such housing, transportation, supplies, equipment, subsistence, and clothing as the President may determine to be necessary for their maintenance and to insure their health and their capacity to serve effectively. Supplies or equipment provided volunteers to insure their capacity to serve effectively may be transferred to the government or to other entities of the country or area with which they have been serving, when no longer necessary for such purpose, and when such transfers would further the purposes of this chapter. Transportation and travel allowances may also be provided, in such circumstances asthe President may determine, for applicants for enrollment to or from places of training and places of enrollment, and for former volunteers from places of termination to their homes in the United States.
+Volunteers shall be provided with such living, travel, and leave allowances, and such housing, transportation, supplies, equipment, subsistence, and clothing as the President may determine to be necessary for their maintenance and to insure their health and their capacity to serve effectively. Supplies or equipment provided volunteers to insure their capacity to serve effectively may be transferred to the government or to other entities of the country or area with which they have been serving, when no longer necessary for such purpose, and when such transfers would further the purposes of this chapter. Transportation and travel allowances may also be provided, in such circumstances as the President may determine, for applicants for enrollment to or from places of training and places of enrollment, and for former volunteers from places of termination to their homes in the United States.
 
 #### (c) Readjustment allowances
 
@@ -16,7 +16,7 @@ Volunteers shall be entitled to receive a readjustment allowance at a rate not l
 
 #### (e) Health care
 
-Volunteers shall receive such health care during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment who have accepted an invitation to begin a period of training under section 2507(a) of this title shall receive such immunization and dental care preparatory to their service, and former volunteers shall receive such health examinations within six months after termination of their service, as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter.
+Volunteers shall receive such health care during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment who have accepted an invitation to begin a period of training under section 2507(a) of this title shall receive such immunization and dental care preparatory to their service, and former volunteers shall receive such health examinations within six months after termination of their service, as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter. Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
 
 #### (f) Retirement and other credits based upon length of service
 
@@ -46,7 +46,7 @@ Upon enrollment in the Peace Corps, every volunteer shall take the oath prescrib
 
 #### (k) Counseling programs for returned volunteers
 
-In order to assure that the skills and experience which former volunteers have derived from their training and their service abroad are best utilized in the national interest, the Presidentmay, in cooperation with agencies of the United States, private employers, educational institutions and other entities of the United States, undertake programs under which volunteers would be counseled with respect to opportunities for further education and employment.
+In order to assure that the skills and experience which former volunteers have derived from their training and their service abroad are best utilized in the national interest, the President may, in cooperation with agencies of the United States, private employers, educational institutions and other entities of the United States, undertake programs under which volunteers would be counseled with respect to opportunities for further education and employment.
 
 #### (<i>l</i>) Legal expenses of defendant in judicial or administrative proceedings
 
@@ -68,13 +68,15 @@ The minor children of a volunteer living with the volunteer may receive—
 
 The costs of packing and unpacking, transporting to and from a place of storage, and storing the furniture and household and personal effects of a volunteer who has one or more minor children at the time of his entering a period of pre-enrollment training may be paid from the date of his departure from his place of residence to enter training until no later than three months after termination of his service.
 
-(Pub. L. 87–293, title I, §5, Sept. 22, 1961, 75 Stat. 613; Pub. L. 88–200, §2, Dec. 13, 1963, 77 Stat. 359; Pub. L. 89–134, §2, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661, 662; Pub. L. 89–572, §2(a), Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–99, §2, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §3, July 24, 1970, 84 Stat. 464; Pub. L. 94–130, §§4, 6, Nov. 14, 1975, 89 Stat. 684; Pub. L. 95–331, §4, Aug. 2, 1978, 92 Stat. 414; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–465, title II, §2202(a), Oct. 17, 1980, 94 Stat. 2157; Pub. L. 97–113, title VI, §§604(b), 606, Dec. 29, 1981, 95 Stat. 1543; Pub. L. 99–83, title XI, §1105(b), Aug. 8, 1985, 99 Stat. 276; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 87–293, title I, §5, Sept. 22, 1961, 75 Stat. 613; Pub. L. 88–200, §2, Dec. 13, 1963, 77 Stat. 359; Pub. L. 89–134, §2, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661, 662; Pub. L. 89–572, §2(a), Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–99, §2, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §3, July 24, 1970, 84 Stat. 464; Pub. L. 94–130, §§4, 6, Nov. 14, 1975, 89 Stat. 684; Pub. L. 95–331, §4, Aug. 2, 1978, 92 Stat. 414; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–465, title II, §2202(a), Oct. 17, 1980, 94 Stat. 2157; Pub. L. 97–113, title VI, §§604(b), 606, Dec. 29, 1981, 95 Stat. 1543; Pub. L. 99–83, title XI, §1105(b), Aug. 8, 1985, 99 Stat. 276; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–12, §9(j), Apr. 30, 1997, 111 Stat. 27.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (e) to (h), and (m), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c), is classified generally to Title 26, Internal Revenue Code.
+
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
 The Foreign Service Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
@@ -89,6 +91,8 @@ In subsec. (h), “section 3342(a), (b), and (c)(1) of title 31” substituted f
 In subsec. (j), “section 3331 of title 5” substituted for “section 1757 of the Revised Statutes of the United States, as amended (5 U.S.C. 16)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1997—Subsec. (e). Pub. L. 105–12 inserted at end “Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997.”
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -146,6 +150,10 @@ Subsec. (h). Pub. L. 88–200, §2(e), provided that volunteers shall be deemed 
 
 Subsec. (k). Pub. L. 88–200, §2(f), added subsec. (k).
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
@@ -196,7 +204,7 @@ Definitions.—For purposes of this section—
 
 #### Legal Expenses Incurred Prior to Sept. 13, 1966
 
-Section 2(b) of Pub. L. 89–572 provided that: “The authority contained in subsection (a) \[adding subsec. (<i>l</i>)to this section\] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act \[Sept. 13, 1966\].”
+Section 2(b) of Pub. L. 89–572 provided that: “The authority contained in subsection (a) \[adding subsec. (<i>l</i>) to this section\] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act \[Sept. 13, 1966\].”
 
 #### Ex. Ord. No. 11103. Appointment of Former Volunteers to Civilian Career Services
 

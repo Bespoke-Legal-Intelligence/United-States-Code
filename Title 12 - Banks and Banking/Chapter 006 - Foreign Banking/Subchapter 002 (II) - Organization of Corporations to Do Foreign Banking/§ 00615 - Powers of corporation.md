@@ -16,7 +16,7 @@ With the consent of the Board of Governors of the Federal Reserve System to purc
 
 Nothing contained herein shall prevent corporations organized under this subchapter from purchasing and holding stock in any corporation where such purchase shall be necessary to prevent a loss upon a debt previously contracted in good faith; and stock so purchased or acquired in corporations organized under this subchapter shall, within six months from such purchase, be sold or disposed of at public or private sale, unless the time to so dispose of same is extended by the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, §25A (pars.), formerly §25(a), as added Dec. 24, 1919, ch. 18, 41 Stat. 378; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Sept. 17, 1978, Pub. L. 95–369, §3(d), (e), 92 Stat. 609; renumbered §25A, Dec. 19, 1991, Pub. L. 102–242, title I, §142(e)(2), 105 Stat. 2281.)
+(Dec. 23, 1913, ch. 6, §25A (pars.), formerly §25(a), as added Dec. 24, 1919, ch. 18, 41 Stat. 378; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 95–369, §3(d), (e), Sept. 17, 1978, 92 Stat. 609; renumbered §25A, Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.)
 
 #### References in Text
 

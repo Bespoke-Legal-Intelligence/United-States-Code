@@ -96,7 +96,7 @@ For purposes of this chapter:
 
 &emsp;(30) The term “Yucca Mountain site” means the candidate site in the State of Nevada recommended by the Secretary to the President under section 10132(b)(1)(B) of this title on May 27, 1986.
 
-&emsp;(31) The term “affected unit of local government” means the unit of local government with jurisdiction over the site of a repositoryor a monitored retrievable storage facility. Such term may, at the discretion of the Secretary, include units of local government that are contiguous with such unit.
+&emsp;(31) The term “affected unit of local government” means the unit of local government with jurisdiction over the site of a repository or a monitored retrievable storage facility. Such term may, at the discretion of the Secretary, include units of local government that are contiguous with such unit.
 
 &emsp;(32) The term “Negotiator” means the Nuclear Waste Negotiator.
 
@@ -140,7 +140,7 @@ Preparation and Submission of Report.—The Secretary of Energy, in consultation
 
 “(b)
 
-Opportunity for Public Comment.—In preparation of the report required under subsection (a), the Secretary of Energy shall offer members of the public an opportunity to provide information and comment and shall solicit the views of the Nuclear Regulatory Commission, the Environmental Protection Agency, and other interested parties.
+Opportunity for Public Comment.—In preparation of the report required under subsection (a), theSecretary of Energy shall offer members of the public an opportunity to provide information and comment and shall solicit the views of the Nuclear Regulatory Commission, the Environmental Protection Agency, and other interested parties.
 
 “(c)
 

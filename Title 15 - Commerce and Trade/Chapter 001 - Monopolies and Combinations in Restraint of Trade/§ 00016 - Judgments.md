@@ -32,7 +32,7 @@ The United States shall also cause to be published, commencing at least 60 days 
 
 #### (d) Consideration of public comments by Attorney General and publication of response
 
-During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments.
+During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of thissubsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments.
 
 #### (e) Public interest determination
 
@@ -76,7 +76,7 @@ The antitrust laws, referred to in subsecs. (a), (b), and (g) to (i), are define
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “under said laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
+1980—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “undersaid laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
 
 1976—Pub. L. 94–435 substituted “private or State right of action” for “private right of action” and “section 15 or 15c” for “section 15”.
 

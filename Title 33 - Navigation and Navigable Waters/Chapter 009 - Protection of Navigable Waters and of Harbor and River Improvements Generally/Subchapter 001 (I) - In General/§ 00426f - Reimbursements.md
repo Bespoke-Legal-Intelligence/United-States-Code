@@ -18,7 +18,7 @@ The Secretary is authorized to reimburse non-Federal interests for work done by 
 
 &emsp;&emsp;(B) ensure that the Federal Government and the non-Federal interest will cooperate in carrying out the project or separable element.
 
-(Aug. 13, 1946, ch. 960, §2, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Oct. 23, 1962, Pub. L. 87–874, title I, §103(a)(4), 76 Stat. 1178; Oct. 12, 1996, Pub. L. 104–303, title II, §227(c)(1), 110 Stat. 3699.)
+(Aug. 13, 1946, ch. 960, §2, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, §103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 104–303, title II, §227(c)(1), Oct. 12, 1996, 110 Stat. 3699.)
 
 #### Amendments
 

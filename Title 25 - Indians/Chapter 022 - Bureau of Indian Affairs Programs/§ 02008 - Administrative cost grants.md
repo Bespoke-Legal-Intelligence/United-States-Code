@@ -246,5 +246,5 @@ Section 2008a, Pub. L. 95–561, title XI, §1128A, as added Pub. L. 100–297, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 458cc, 2019, 2503, 2504, 2511 of this title; title 20 sections 1411, 1484.
+This section is referred to in sections 458cc, 2019, 2503, 2504, 2511 of this title; title 20 section 1484.
 

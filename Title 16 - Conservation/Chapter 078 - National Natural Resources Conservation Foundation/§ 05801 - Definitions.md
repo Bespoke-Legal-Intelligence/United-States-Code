@@ -22,5 +22,5 @@ In this chapter (unless the context otherwise requires):
 
 #### Short Title
 
-Section 351 of title III of Pub. L. 104–127 provided that: “This subtitle \[subtitle F (§§351–360) of title III of Pub. L. 104–127, enacting this chapter and amendingsection 1101 of Title 36, Patriotic Societies and Observances\] may be cited as the ‘National Natural Resources Conservation Foundation Act’.”
+Section 351 of title III of Pub. L. 104–127 provided that: “This subtitle \[subtitle F (§§351–360) of title III of Pub. L. 104–127, enacting this chapter and amending section 1101 of Title 36, Patriotic Societies and Observances\] may be cited as the ‘National Natural Resources Conservation Foundation Act’.”
 

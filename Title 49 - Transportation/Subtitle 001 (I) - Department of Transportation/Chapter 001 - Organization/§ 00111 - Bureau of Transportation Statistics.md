@@ -100,13 +100,15 @@ Transportation Statistics Annual Report.—On or before January 1, 1994, and ann
 
 Performance of Functions of Director Pending Confirmation.—An individual who, on December 18, 1991, is performing any function required by this section to be performed by the Director may continue to perform such function until such function is undertaken by the Director.
 
-(Added Pub. L. 102–240, title VI, §6006\[(a)\], Dec. 18, 1991, 105 Stat. 2172; amended Pub. L. 104–287, §5(2), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–324, title XI, §1131, Oct. 19, 1996, 110 Stat. 3985.)
+(Added Pub. L. 102–240, title VI, §6006(a), Dec. 18, 1991, 105 Stat. 2172; amended Pub. L. 104–287, §5(2), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–324, title XI, §1131, Oct. 19, 1996, 110 Stat. 3985; Pub. L. 105–130, §4(b)(1), Dec. 1, 1997, 111 Stat. 2556.)
 
 #### References in Text
 
 The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and enacted notes set out under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
 #### Amendments
+
+1997—Pub. L. 105–130 made technical amendment to directory language of Pub. L. 102–240, §6006(a), which enacted this section.
 
 1996—Subsec. (b)(4). Pub. L. 104–324 inserted at end “The Director may continue to serve after the expiration of the term until a successor is appointed and confirmed.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Creation; use of fund
 
-There is hereby created in the Treasury of the United States a National Credit Union Share Insurance Fund which shall be used by the Board as a revolving fund for carrying out the purposes of this subchapter. Money in the fund shall be available upon requisition by the Board, without fiscal year limitation, for making payments of insurance under section 1787 of this title, for providing assistance and making expendituresunder section 1788 of this title in connection with the liquidation or threatened liquidation of insured credit unions, and for such administrative and other expenses incurred in carrying out the purposes of this subchapter as it may determine to be proper.
+There is hereby created in the Treasury of the United States a National Credit Union Share Insurance Fund which shall be used by the Board as a revolving fund for carrying out the purposes of this subchapter. Money in the fund shall be available upon requisition by the Board, without fiscal year limitation, for making payments of insurance under section 1787 of this title, for providing assistance and making expenditures under section 1788 of this title in connection with the liquidation or threatened liquidation of insured credit unions, and for such administrative and other expenses incurred in carrying out the purposes of this subchapter as it may determine to be proper.
 
 #### (b) Deposit of deposits and premium charges, fees and penalties
 
@@ -18,7 +18,7 @@ The Board may authorize the Secretary of the Treasury to invest and reinvest suc
 
 (2) Interest shall accrue to the Treasury on the amount of any outstanding loans made to the fund pursuant to paragraph (1) of this subsection on the basis of the average daily amount of such outstanding loans determined at the close of each fiscal year with respect to such year, and the Board shall pay the interest so accruing into the Treasury as miscellaneous receipts annually from the fund. The Secretary of the Treasury shall determine the applicable interest rate in advance by calculating the average yield to maturity (on the basis of daily closing market bid quotations during the month of September of the preceding fiscal year) on outstanding marketable public debt obligations of the United States having a maturity date of five or less years from the first day of such month of September and by adjusting such yield to the nearest one-eighth of 1 per centum.
 
-(3) For the purpose of making loans under paragraph (1) of this subsection, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are hereby extended to include such loans. All loans and repayments under this section shall be treated as public debt transactions of the United States.
+(3) For the purpose of making loans under paragraph (1) of this subsection, the Secretaryof the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are hereby extended to include such loans. All loans and repayments under this section shall be treated as public debt transactions of the United States.
 
 #### (e) Excess funds credited against loans
 
@@ -28,7 +28,7 @@ So long as any loans to the fund are outstanding, the Board shall from time to t
 
 In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d) of this section, if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.
 
-(June 26, 1934, ch. 750, title II, §203, as added Oct. 19, 1970, Pub. L. 91–468, §1(3), 84 Stat. 999; amended Apr. 21, 1976, Pub. L. 94–273, §2(4), 90 Stat. 375; Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681; Oct. 15, 1982, Pub. L. 97–320, title V, §530, 96 Stat. 1535; July 18, 1984, Pub. L. 98–369, div. B, title VIII, §2811, 98 Stat. 1206.)
+(June 26, 1934, ch. 750, title II, §203, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 999; amended Pub. L. 94–273, §2(4), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §530, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 98–369, div. B, title VIII, §2811, July 18, 1984, 98 Stat. 1206.)
 
 #### Codification
 

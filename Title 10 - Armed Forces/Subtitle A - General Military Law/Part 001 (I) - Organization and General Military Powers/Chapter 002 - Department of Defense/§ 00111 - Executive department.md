@@ -70,6 +70,24 @@ Section 1(a) of Pub. L. 99–433 provided that: “This Act \[see Tables for cla
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Applicability of Certain Pay Authorities to Members of Specified Independent Study Organizations
+
+Pub. L. 105–85, div. A, title X, §1081, Nov. 18, 1997, 111 Stat. 1916, provided that:
+
+“(a)
+
+Applicability of Certain Pay Authorities.—(1) An individual who is a member of a commission or panel specified in subsection (b) and is an annuitant otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the commission or panel is not subject to the provisions of that section with respect to such membership.
+
+“(2) An individual who is a member of a commission or panel specified in subsection (b) and is a member or former member of a uniformed service is not subject to the provisions of subsections (b) and (c) of section 5532 of such title with respect to membership on the commission or panel.
+
+“(b)
+
+Specified Entities.—Subsection (a) applies—
+
+&emsp;“(1) effective as of September 23, 1996, to members of the National Defense Panel established by section 924 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2626) \[formerly set out below\]; and
+
+&emsp;“(2) effective as of October 9, 1996, to members of the Commission on Servicemembers and Veterans Transition Assistance established by section 701 of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104–275; 110 Stat. 3346; 38 U.S.C. 545 note).”
+
 #### Mission of White House Communications Agency
 
 Pub. L. 104–201, div. A, title IX, §912, Sept. 23, 1996, 110 Stat. 2623, provided that:
@@ -92,7 +110,7 @@ Report on Issues Raised by DOD Inspector General Review of White House Communica
 
 “(e)
 
-Quarterly Reports During Fiscal Year 1997.—Not later than 30 days after the end of each quarter of fiscal year 1997, the Secretary of Defense shall submit to Congress a report describing the support services other than telecommunications support services described in subsection (a) that were provided during the preceding quarter by the Department of Defense for thePresident through the White House Communications Agency.
+Quarterly Reports During Fiscal Year 1997.—Not later than 30 days after the end of each quarter of fiscal year 1997, the Secretary of Defense shall submit to Congress a report describing the support services other than telecommunications support services described in subsection (a) that were provided during the preceding quarter by the Department of Defense for the President through the White House Communications Agency.
 
 “(f)
 
@@ -100,201 +118,7 @@ Effective Date.—This section takes effect on October 1, 1997, and applies to f
 
 #### Military Force Structure Review
 
-Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623, provided that:
-
-#### “SEC. 921. SHORT TITLE.
-
-“This subtitle may be cited as the ‘Military Force Structure Review Act of 1996’.
-
-#### “SEC. 922. FINDINGS.
-
-“Congress makes the following findings:
-
-&emsp;“(1) Since the collapse of the Soviet Union in 1991, the United States has conducted two substantial assessments of the force structure of the Armed Forces necessary to meet United States defense requirements.
-
-&emsp;“(2) The assessment by the Bush Administration (known as the ‘Base Force’ assessment) and the assessment by the Clinton Administration (known as the ‘Bottom-Up Review’) were intended to reassess the force structure of the Armed Forces in light of the changing realities of the post-Cold War world.
-
-&emsp;“(3) Both assessments served an important purpose in focusing attention on the need to reevaluate the military posture of the United States, but the pace of global change necessitates a new, comprehensive assessment of the defense strategy of the United States and the force structure of the Armed Forces required to meet the threats to the United States in the twenty-first century.
-
-&emsp;“(4) The Bottom-Up Review has been criticized on several points, including—
-
-&emsp;&emsp;“(A) the assumptions underlying the strategy of planning to fight and win two nearly simultaneous major regional conflicts;
-
-&emsp;&emsp;“(B) the force levels recommended to carry out that strategy; and
-
-&emsp;&emsp;“(C) the funding proposed for such recommended force levels.
-
-&emsp;“(5) In response to the recommendations of the Commission on Roles and Missions of the Armed Forces, the Secretary of Defense endorsed the concept of conducting a quadrennial review of the defense program at the beginning of each newly elected Presidential administration, and the Department intends to complete the first such review in 1997.
-
-&emsp;“(6) The review is to involve a comprehensive examination of defense strategy, the force structure of the active, guard, and reserve components, force modernization plans, infrastructure, and other elements of the defense program and policies in order to determine and express the defense strategy of the United States and to establish a revised defense program through the year 2005.
-
-&emsp;“(7) In order to ensure that the force structure of the Armed Forces is adequate to meet the challenges to the national security interests of the United States in the twenty-first century, to assist the Secretary of Defense in conducting the review referred to in paragraph (5), and to assess the appropriate force structure of the Armed Forces through the year 2010 and beyond (if practicable), it is important to provide for the conduct of an independent, nonpartisan review of the force structure that is more comprehensive than prior assessments of the force structure, extends beyond the quadrennial defense review, and explores innovative and forward-thinking ways of meeting such challenges.
-
-#### “SEC. 923. QUADRENNIAL DEFENSE REVIEW.
-
-“(a)
-
-Requirement in 1997.—The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall complete in 1997 a review of the defense program of the United States intended to satisfy the requirements for a Quadrennial Defense Review as identified in the recommendations of the Commission on Roles and Missions of the Armed Forces. The review shall include a comprehensive examination of the defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of the defense program and policies with a view toward determining and expressing the defense strategy of the United States and establishing a revised defense program through the year 2005.
-
-“(b)
-
-Involvement of National Defense Panel.—(1) The Secretary shall apprise the National Defense Panel established under section 924, on an ongoing basis, of the work undertaken in the conduct of the review.
-
-“(2) Not later than March 14, 1997, the Chairman of the National Defense Panel shall submit to the Secretary the Panel's assessment of work undertaken in the conduct of the review as of that date and shall include in the assessment the recommendations of the Panel for improvements to the review, including recommendations for additional matters to be covered in the review.
-
-“(c)
-
-Assessments of Review.—Upon completion of the review, the Chairman of the Joint Chiefs of Staff and the Chairman of the National Defense Panel, on behalf of the Panel, shall each prepare and submit to the Secretary such Chairman's assessment of the review in time for the inclusion of the assessment in its entirety in the report under subsection (d).
-
-“(d)
-
-Report.—Not later than May 15, 1997, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a comprehensive report on the review. The report shall include the following:
-
-&emsp;“(1) The results of the review, including a comprehensive discussion of the defense strategy of the United States and the force structure best suited to implement that strategy.
-
-&emsp;“(2) The threats examined for purposes of the review and the scenarios developed in the examination of such threats.
-
-&emsp;“(3) The assumptions used in the review, including assumptions relating to the cooperation of allies and mission-sharing, levels of acceptable risk, warning times, and intensity and duration of conflict.
-
-&emsp;“(4) The effect on the force structure of preparations for and participation in peace operations and military operations other than war.
-
-&emsp;“(5) The effect on the force structure of the utilization by the Armed Forces of technologies anticipated to be available by the year 2005, including precision guided munitions, stealth, night vision, digitization, and communications, and the changes in doctrine and operational concepts that would result from the utilization of such technologies.
-
-&emsp;“(6) The manpower and sustainment policies required under the defense strategy to support engagement in conflicts lasting more than 120 days.
-
-&emsp;“(7) The anticipated roles and missions of the reserve components in the defense strategy and the strength, capabilities, and equipment necessary to assure that the reserve components can capably discharge those roles and missions.
-
-&emsp;“(8) The appropriate ratio of combat forces to support forces (commonly referred to as the ‘tooth-to-tail’ ratio) under the defense strategy, including, in particular, the appropriate number and size of headquarter units and Defense Agencies for that purpose.
-
-&emsp;“(9) The air-lift and sea-lift capabilities required to support the defense strategy.
-
-&emsp;“(10) The forward presence, pre-positioning, and other anticipatory deployments necessary under the defense strategy for conflict deterrence and adequate military response to anticipated conflicts.
-
-&emsp;“(11) The extent to which resources must be shifted among two or more theaters under the defense strategy in the event of conflict in such theaters.
-
-&emsp;“(12) The advisability of revisions to the Unified Command Plan as a result of the defense strategy.
-
-&emsp;“(13) Any other matter the Secretary considers appropriate.
-
-#### “SEC. 924. NATIONAL DEFENSE PANEL.
-
-“(a)
-
-Establishment.—Not later than December 1, 1996, the Secretary of Defense shall establish a nonpartisan, independent panel to be known as the National Defense Panel (in this section referred to as the ‘Panel’). The Panel shall have the duties set forth in this section.
-
-“(b)
-
-Membership.—The Panel shall be composed of a chairman and eight other individuals appointed by the Secretary, in consultation with the chairman and ranking member of the Committee on Armed Services of the Senate and the chairman and ranking member of the Committee on National Security of the House of Representatives, from among individuals in the private sector who are recognized experts in matters relating to the national security of the United States.
-
-“(c)
-
-Duties.—The Panel shall—
-
-&emsp;“(1) conduct and submit to the Secretary the assessment of the review under section 923 that is required by subsection (b)(2) of that section;
-
-&emsp;“(2) conduct and submit to the Secretary the comprehensive assessment of the review that is required by subsection (c) of that section upon completion of the review; and
-
-&emsp;“(3) conduct the assessment of alternative force structures for the Armed Forces required under subsection (d).
-
-“(d)
-
-Alternative Force Structure Assessment.—(1) The Panel shall submit to the Secretary an independent assessment of a variety of possible force structures of the Armed Forces through the year 2010 and beyond, including the force structure identified in the report on the review under section 923(d). The purpose of the assessment is to develop proposals for an ‘above the line’ force structure of the Armed Forces and to provide the Secretary and Congress recommendations regarding the optimal force structure to meet anticipated threats to the national security of the United States through the time covered by the assessment.
-
-“(2) In conducting the assessment, the Panel shall examine a variety of potential threats (including near-term threats and long-term threats) to the national security interests of the United States, including the following:
-
-&emsp;“(A) Conventional threats across a spectrum of conflicts.
-
-&emsp;“(B) The proliferation of weapons of mass destruction and the means of delivering such weapons, and the illicit transfer of technology relating to such weapons.
-
-&emsp;“(C) The vulnerability of United States technology to nontraditional threats, including information warfare.
-
-&emsp;“(D) Domestic and international terrorism.
-
-&emsp;“(E) The emergence of a major potential adversary having military capabilities similar to those of the United States.
-
-&emsp;“(F) Any other significant threat, or combination of threats, identified by the Panel.
-
-“(3) For purposes of the assessment, the Panel shall develop a variety of scenarios requiring a military response by the United States, including the following:
-
-&emsp;“(A) Scenarios developed in light of the threats examined under paragraph (2).
-
-&emsp;“(B) Scenarios developed in light of a continuum of conflicts ranging from a conflict of lesser magnitude than the conflict described in the Bottom-Up Review to a conflict of greater magnitude than the conflict so described.
-
-“(4) As part of the assessment, the Panel shall also—
-
-&emsp;“(A) develop recommendations regarding a variety of force structures for the Armed Forces that permit the forward deployment of sufficient air, land, and sea-based forces to provide an effective deterrent to conflict and to permit a military response by the United States to the scenarios developed under paragraph (3);
-
-&emsp;“(B) to the extent practicable, estimate the funding required by fiscal year, in constant fiscal year 1997 dollars, to organize, equip, and support the forces contemplated under the force structures assessed in the assessment; and
-
-&emsp;“(C) comment on each of the matters also to be included by the Secretary in the report required by section 923(d).
-
-“(e)
-
-Report.—(1) Not later than December 1, 1997, the Panel shall submit to the Secretary a report setting forth the activities and the findings and recommendations of the Panel under subsection (d), including any recommendations for legislation that the Panel considers appropriate.
-
-“(2) Not later than December 15, 1997, the Secretary shall, after consultation with the Chairman of the Joint Chiefs of Staff, submit to the committees referred to in subsection (b) a copy of the report under paragraph (1), together with the Secretary's comments on the report.
-
-“(f)
-
-Information From Federal Agencies.—The Panel may secure directly from the Department of Defense and any of its components and from any other Federal department and agency such information as the Panel considers necessary to carry out its duties under this section. The head of the department or agency concerned shall ensure that information requested by the Panel under this subsection is promptly provided.
-
-“(g)
-
-Personnel Matters.—(1) Each member of the Panel shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Panel.
-
-“(2) The members of the Panel shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Panel.
-
-“(3)(A) The chairman of the Panel may, without regard to the civil service laws and regulations, appoint and terminate an executive director, and a staff of not more than four additional individuals, if the Panel determines that an executive director and staff are necessary in order for the Panel to perform its duties effectively. The employment of an executive director shall be subject to confirmation by the Panel.
-
-“(B) The chairman may fix the compensation of the executive director without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
-
-“(4) Any Federal Government employee may be detailed to the Panel without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege. The Secretary shall ensure that sufficient personnel are detailed to the Panel to enable the Panel to carry out its duties effectively.
-
-“(5) To the maximum extent practicable, the members and employees of the Panel shall travel on military aircraft, military ships, military vehicles, or other military conveyances when travel is necessary in the performance of a duty of the Panel, except that no such aircraft, ship, vehicle, or other conveyance may be scheduled primarily for the transportation of any such member or employee when the cost of commercial transportation is less expensive.
-
-“(h)
-
-Administrative Provisions.—(1) The Panel may use the United States mails and obtain printing and binding services in the same manner and under the same conditions as other departments and agencies of the Federal Government.
-
-“(2) The Secretary shall furnish the Panel any administrative and support services requested by the Panel.
-
-“(3) The Panel may accept, use, and dispose of gifts or donations of services or property.
-
-“(i)
-
-Payment of Panel Expenses.—The compensation, travel expenses, and per diem allowances of members and employees of the Panel shall be paid out of funds available to the Department of Defense for the payment of compensation, travel allowances, and per diem allowances, respectively, of civilian employees of the Department. The other expenses of the Panel shall be paid out of funds available to the Department for the payment of similar expenses incurred by the Department.
-
-“(j)
-
-Termination.—The Panel shall terminate 30 days after the date on which the Panel submits its report to the Secretary under subsection (e).
-
-#### “SEC. 925. POSTPONEMENT OF DEADLINES.
-
-“If the Presidential election in 1996 results in the election of a new President, each deadline set forth in this subtitle shall be postponed by three months.
-
-#### “SEC. 926. DEFINITIONS.
-
-“In this subtitle:
-
-&emsp;“(1) The term ‘ “above the line” force structure of the Armed Forces’ means the force structure (including numbers, strengths, and composition and major items of equipment) for the Armed Forces at the following unit levels:
-
-&emsp;&emsp;“(A) In the case of the Army, the division.
-
-&emsp;&emsp;“(B) In the case of the Navy, the battle group.
-
-&emsp;&emsp;“(C) In the case of the Air Force, the wing.
-
-&emsp;&emsp;“(D) In the case of the Marine Corps, the expeditionary force.
-
-&emsp;&emsp;“(E) In the case of special operations forces of the Army, Navy, or Air Force, the major operating unit.
-
-&emsp;&emsp;“(F) In the case of the strategic forces, the ballistic missile submarine fleet, the heavy bomber force, and the intercontinental ballistic missile force.
-
-&emsp;“(2) The term ‘Commission on Roles and Missions of the Armed Forces’ means the Commission on Roles and Missions of the Armed Forces established by subtitle E of title IX of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1738; 10 U.S.C. 111 note).
-
-&emsp;“(3) The term ‘military operation other than war’ means any operation other than war that requires the utilization of the military capabilities of the Armed Forces, including peace operations, humanitarian assistance operations and activities, counter-terrorism operations and activities, disaster relief activities, and counter-drug operations and activities.
-
-&emsp;“(4) The term ‘peace operations’ means military operations in support of diplomatic efforts to reach long-term political settlements of conflicts and includes peacekeeping operations and peace enforcement operations.”
+Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623, directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies with view toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not later than Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
 
 #### Commission on Roles and Missions of Armed Forces
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The cancellation of any dollar amount of discretionary budget authority, item of new direct spending, or limited tax benefit shall take effect upon receipt in the House of Representatives and the Senate of the special message notifying the Congress of the cancellation. If a disapproval bill for such special message is enacted into law, then all cancellations disapproved in that law shall be null and void and any such dollar amount of discretionary budget authority, item of new direct spending, or limited tax benefit shall be effective as of the original date provided in the law to which the cancellation applied.
+The cancellation of any dollar amount of discretionary budget authority, item of new directspending, or limited tax benefit shall take effect upon receipt in the House of Representatives and the Senate of the special message notifying the Congress of the cancellation. If a disapproval bill for such special message is enacted into law, then all cancellations disapproved in that law shall be null and void and any such dollar amount of discretionary budget authority, item of new direct spending, or limited tax benefit shall be effective as of the original date provided in the law to which the cancellation applied.
 
 #### (b) Commensurate reductions in discretionary budget authority
 

@@ -36,7 +36,7 @@ For the purposes of this subchapter:
 
 &emsp;(10) The term “pattern of activities” requires a series of acts with a common purpose or objective.
 
-(July 26, 1947, ch. 343, title VI, §606, as added June 23, 1982, Pub. L. 97–200, §2(a), 96 Stat. 123.)
+(July 26, 1947, ch. 343, title VI, §606, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 123.)
 
 #### Termination of Trust Territory of the Pacific Islands
 

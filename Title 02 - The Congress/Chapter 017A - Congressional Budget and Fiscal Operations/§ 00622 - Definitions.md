@@ -34,7 +34,7 @@ New budget authority.—The term “new budget authority” means, with respect 
 
 > &emsp;&emsp;and includes a change in the estimated level of new budget authority provided in indefinite amounts by existing law.
 
-&emsp;(3) The term “tax expenditures” means those revenue losses attributable to provisionsof the Federal tax laws which allow a special exclusion, exemption, or deduction from gross income or which provide a special credit, a preferential rate of tax, or a deferral of tax liability; and the term “tax expenditures budget” means an enumeration of such tax expenditures.
+&emsp;(3) The term “tax expenditures” means those revenue losses attributable to provisions of the Federal tax laws which allow a special exclusion, exemption, or deduction from gross income or which provide a special credit, a preferential rate of tax, or a deferral of tax liability; and the term “tax expenditures budget” means an enumeration of such tax expenditures.
 
 &emsp;(4) The term “concurrent resolution on the budget” means—
 
@@ -68,11 +68,15 @@ New budget authority.—The term “new budget authority” means, with respect 
 
 &emsp;&emsp;(iii) has employees whose salaries and expenses are paid by the enterprise and are not Federal employees subject to title 5.
 
-&emsp;(9) The term “entitlement authority” means spending authority described by section 651(c)(2)(C) of this title.
+&emsp;(9) The term “entitlement authority” means—
+
+&emsp;&emsp;(A) the authority to make payments (including loans and grants), the budget authority for which is not provided for in advance by appropriation Acts, to any person or government if, under the provisions of the law containing that authority, the United States is obligated to make such payments to persons or governments who meet the requirements established by that law; and
+
+&emsp;&emsp;(B) the food stamp program.
 
 &emsp;(10) The term “credit authority” means authority to incur direct loan obligations or to incur primary loan guarantee commitments.
 
-(Pub. L. 93–344, §3, July 12, 1974, 88 Stat. 299; Aug. 1, 1946, ch. 724, title I, §302(c), as added Aug. 30, 1954, ch. 1073, §1, as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884, renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 99–177, title II, §§201(a), 232(b), Dec. 12, 1985, 99 Stat. 1039, 1062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–119, title I, §106(a), Sept. 29, 1987, 101 Stat. 780; Pub. L. 100–203, title VIII, §8003(c), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, 104 Stat. 1388–607, 1388–614, 1388–620.)
+(Pub. L. 93–344, §3, July 12, 1974, 88 Stat. 299; Aug. 1, 1946, ch. 724, title I, §302(c), as added Aug. 30, 1954, ch. 1073, §1, as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884, renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 99–177, title II, §§201(a), 232(b), Dec. 12, 1985, 99 Stat. 1039, 1062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–119, title I, §106(a), Sept. 29, 1987, 101 Stat. 780; Pub. L. 100–203, title VIII, §8003(c), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, 104 Stat. 1388–607, 1388–614, 1388–620; Pub. L. 105–33, title X, §10101, Aug. 5, 1997, 111 Stat. 678.)
 
 #### References in Text
 
@@ -83,6 +87,8 @@ This Act, referred to in text, means Pub. L. 93–344, July 12, 1974, 88 Stat. 2
 Section was formerly classified to section 1302 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+
+1997—Par. (9). Pub. L. 105–33 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘entitlement authority’ means spending authority described by section 651(c)(2)(C) of this title.”
 
 1990—Par. (2). Pub. L. 101–508, §13211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘budget authority’ means authority provided by law to enter into obligations which will result in immediate or future outlays involving Government funds or to collect offsetting receipts., except that such term does not include authority to insure or guarantee the repayment of indebtedness incurred by another person or government. The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
 
@@ -122,7 +128,7 @@ Amendment by sections 201(a)(1) and 232(b) of Pub. L. 99–177 effective Dec. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 652, 900, 1602 of this title; title 39 section 2009a.
+This section is referred to in sections 900, 1602 of this title; title 39 section 2009a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “as”.</i>
 

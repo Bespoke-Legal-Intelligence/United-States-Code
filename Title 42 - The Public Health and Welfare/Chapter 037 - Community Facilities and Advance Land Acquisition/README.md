@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [3101\.](%C2%A7%2003101%20-%20Congressional%20declaration%20of%20purpose.md) | Congressional declaration of purpose. |
 | 3102, 3103. Omitted. |  |
-| [3104\.](%C2%A7%2003104%20-%20Advance%20acquisition%20of%20land%20for%20public%20purposes.md) | Advance acquisition of land for public purposes. |
+| 3104\. | Advance acquisition of land for public purposes. |
 | (a) | Authority to make grants. |
 | (b) | Maximum amount of grants. |
 | (c) | Utilization of land for public purpose within reasonable period of time. |
@@ -24,7 +24,6 @@
 
 - [&sect; 03101 - Congressional declaration of purpose](%C2%A7%2003101%20-%20Congressional%20declaration%20of%20purpose.md)
 - [&sect; 03102, 3103 - Omitted](%C2%A7%2003102%2C%203103%20-%20Omitted.md)
-- [&sect; 03104 - Advance acquisition of land for public purposes](%C2%A7%2003104%20-%20Advance%20acquisition%20of%20land%20for%20public%20purposes.md)
 - [&sect; 03105 - Powers and duties of Secretary](%C2%A7%2003105%20-%20Powers%20and%20duties%20of%20Secretary.md)
 - [&sect; 03106 - Definitions](%C2%A7%2003106%20-%20Definitions.md)
 - [&sect; 03107 - Labor standards](%C2%A7%2003107%20-%20Labor%20standards.md)

@@ -42,7 +42,7 @@ Final Decision Defined.—For purposes of subsection (b), a final decision shall
 
 Use of Existing Stocks.—Notwithstanding the prohibitions contained in sections 4 and 5 \[sections 2403 and 2404 of this title\], the Administrator, not later than 90 days after the date of the enactment of this Act \[June 16, 1988\], shall provide reasonable times—
 
-&emsp;“(1) not to exceed 180 days after the date of the enactment of this Act, for the continued sale, delivery,purchase, and receipt of any antifouling paints containing organotin and organotin additives that exist before the date of the enactment of this Act; and
+&emsp;“(1) not to exceed 180 days after the date of the enactment of this Act, for the continued sale, delivery, purchase, and receipt of any antifouling paints containing organotin and organotin additives that exist before the date of the enactment of this Act; and
 
 &emsp;“(2) not to exceed one year after the date of the enactment of this Act, for the application of any antifouling paints containing organotin and organotin additives that exist before the date of the enactment of this Act.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment and membership
 
-There is established a commission to be known as the National Afro-American Historyand Culture Commission (hereinafter in this chapter referred to as the “Commission”) which shall be composed of fifteen members, as specified in section 3702 of this title.
+There is established a commission to be known as the National Afro-American History and Culture Commission (hereinafter in this chapter referred to as the “Commission”) which shall be composed of fifteen members, as specified in section 3702 of this title.
 
 #### (b) Duties
 

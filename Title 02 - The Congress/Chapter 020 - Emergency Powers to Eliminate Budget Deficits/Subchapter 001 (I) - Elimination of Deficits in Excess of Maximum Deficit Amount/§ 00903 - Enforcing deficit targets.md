@@ -44,9 +44,9 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;(ii) the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title),
 
-> &emsp;and the uniform percent applicable to all other programs under this subsection shall be increased (if necessary) to a level sufficient to achieve the required reduction in non-defense outlays.
+> &emsp;and the uniform percent applicable to all other programs under this subsection shall be increased (if necessary) to a level sufficient toachieve the required reduction in non-defense outlays.
 
-&emsp;(B) For purposes of determining reductions under subparagraph (A), outlay reduction (as aresult of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
+&emsp;(B) For purposes of determining reductions under subparagraph (A), outlay reduction (as a result of sequestration of Commodity Credit Corporation commodity price support contracts in the fiscal year of a sequestration) that would occur in the following fiscal year shall be credited as outlay reductions in the fiscal year of the sequestration.
 
 #### (f) Baseline assumptions; part-year appropriations
 
@@ -68,19 +68,19 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;(A) When the President submits the budget for fiscal year 1992, the maximum deficit amounts for fiscal years 1992, 1993, 1994, and 1995 shall be adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions. When the President submits the budget for fiscal year 1993, the maximum deficit amounts for fiscal years 1993, 1994, and 1995 shall be further adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions.
 
-&emsp;&emsp;(B) When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) and 901(b)(2)(E) of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
+&emsp;&emsp;(B) When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) <sup>1</sup> and 901(b)(2)(E) <sup>1</sup> of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
 
 &emsp;&emsp;(C) When the budget for fiscal year 1994 or 1995 is submitted and the sequestration reports for those years under section 904 of this title are made (as applicable), if the President does not choose to make the adjustments set forth in subparagraph (B), the maximum deficit amount for that fiscal year shall be adjusted by the amount of the adjustment to discretionary spending limits first applicable for that year (if any) under section 901(b) of this title.
 
 &emsp;&emsp;(D) For each fiscal year the adjustments required to be made with the submission of the President's budget for that year shall also be made when OMB submits the sequestration update report and the final sequestration report for that year, but OMB shall continue to use the economic and technical assumptions in the President's budget for that year.
 
-> &emsp;Each adjustment shall be made by increasing or decreasing the maximum deficit amounts set forth in section 665 of this title.
+> &emsp;Each adjustment shall be made by increasing or decreasing the maximum deficit amounts set forth in section 665 <sup>1</sup> of this title.
 
 #### (2) Calculations of adjustments
 
 &emsp;The required increase or decrease shall be calculated as follows:
 
-&emsp;&emsp;(A) The baseline deficit or surplus shall be calculated using up-to-date economic and technical assumptions, using up-to-date concepts and definitions, and, in lieu of the baseline levels of discretionary appropriations, using the discretionary spending limits set forth in section 665 of this title as adjusted under section 901 of this title.
+&emsp;&emsp;(A) The baseline deficit or surplus shall be calculated using up-to-date economic and technical assumptions, using up-to-date concepts and definitions, and, in lieu of the baseline levels of discretionary appropriations, using the discretionary spending limits set forth in section 665 <sup>1</sup> of this title as adjusted under section 901 of this title.
 
 &emsp;&emsp;(B) The net deficit increase or decrease caused by all direct spending and receipts legislation enacted after November 5, 1990 (after adjusting for any sequestration of direct spending accounts) shall be calculated for each fiscal year by adding—
 
@@ -90,7 +90,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;(C) The amount calculated under subparagraph (B) shall be subtracted from the amount calculated under subparagraph (A).
 
-&emsp;&emsp;(D) The maximum deficit amount set forth in section 665 of this title shall be subtracted from the amount calculated under subparagraph (C).
+&emsp;&emsp;(D) The maximum deficit amount set forth in section 665 <sup>1</sup> of this title shall be subtracted from the amount calculated under subparagraph (C).
 
 &emsp;&emsp;(E) The amount calculated under subparagraph (D) shall be the amount of the adjustment required by paragraph (1).
 
@@ -98,7 +98,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (1) Initial estimates
 
-&emsp;The initial estimates of the net costs of federal deposit insurance for fiscal year 1994 and fiscal year 1995 (assuming full funding of, andcontinuation of, the deposit insurance guarantee commitment in effect on the date of the submission of the budget for fiscal year 1993) shall be set forth in that budget.
+&emsp;The initial estimates of the net costs of federal deposit insurance for fiscal year 1994 and fiscal year 1995 (assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of the submission of the budget for fiscal year 1993) shall be set forth in that budget.
 
 #### (2) Reestimates
 
@@ -109,6 +109,12 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 #### Termination of Section
 
 <i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
+
+#### References in Text
+
+Section 901 of this title, referred to in subsec. (g)(1)(B), was amended by Pub. L. 105–33, title X, §10203(a)(4), Aug. 5, 1997, 111 Stat. 699, by striking out subsec. (b) and adding a new subsec. (b). In the new subsec. (b), par. (1) does not contain a subpar. (C) and par. (2)(E) relates to allowance for international arrearages. Prior to amendment, section 901(b)(2)(E) related to special allowance for discretionary new budget authority.
+
+Section 665 of this title, referred to in subsec. (g)(1), (2)(A), (D), was repealed by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695.
 
 #### Codification
 
@@ -122,5 +128,7 @@ November 5, 1990, referred to in subsec. (g)(2)(B), was in the original “the d
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 665, 900, 901, 902, 904, 906, 907d of this title.
+This section is referred to in sections 901, 902, 904, 906, 907, 907d of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

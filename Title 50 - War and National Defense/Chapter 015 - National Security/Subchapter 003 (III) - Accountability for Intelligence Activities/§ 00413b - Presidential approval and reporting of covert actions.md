@@ -52,7 +52,7 @@ As used in this subchapter, the term “covert action” means an activity or ac
 
 No covert action may be conducted which is intended to influence United States political processes, public opinion, policies, or media.
 
-(July 26, 1947, ch. 343, title V, §503, as added Aug. 14, 1991, Pub. L. 102–88, title VI, §602(a)(2), 105 Stat. 442.)
+(July 26, 1947, ch. 343, title V, §503, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442.)
 
 #### Prior Provisions
 

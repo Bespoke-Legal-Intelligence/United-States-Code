@@ -12,7 +12,11 @@ Funding Assistance.—The Secretary of Defense may provide funds to the Governor
 
 (b)
 
-Use of Personnel Performing Full-Time National Guard Duty.—Under regulations prescribed by the Secretary of Defense, personnel of the National Guard of a State may, in accordance with the State drug interdiction and counter-drug activities plan referred to in subsection (c), be ordered to perform full-time National Guard duty under section 502(f) of this title for the purpose of carrying out drug interdiction and counter-drug activities.
+Use of Personnel Performing Full-Time National Guard Duty.—(1) Under regulations prescribed by the Secretary of Defense, personnel of the National Guard of a State may, in accordance with the State drug interdiction and counter-drug activities plan referred to in subsection (c), be ordered to perform full-time National Guard duty under section 502(f) of this title for the purpose of carrying out drug interdiction and counter-drug activities.
+
+(2) To ensure that the use of units and personnel of the National Guard of a State pursuant to a State drug interdiction and counter-drug activities plan is not detrimental to the training and readiness of such units and personnel, the requirements of section 2012(d) of title 10 shall apply in determining the drug interdiction and counter-drug activities that units and personnel of the National Guard of a State may perform.
+
+(3) Section 508 of this title, regarding the provision of assistance to certain specified youth and charitable organizations, shall apply in any case in which a unit or member of the National Guard of a State is proposed to be used pursuant to a State drug interdiction and counter-drug activities plan to provide to an organization specified in subsection (d) of such section any of the services described in subsection (b) of such section or services regarding counter-drug education.
 
 (c)
 
@@ -24,9 +28,11 @@ Plan Requirements.—A State drug interdiction and counter-drug activities plan 
 
 &emsp;(3) certify that participation by National Guard personnel in those operations is service in addition to training required under section 502 of this title;
 
-&emsp;(4) include a certification by the Attorney General of the State (or, in the case of a State with no position of Attorney General, a civilian official of the State equivalent to a State attorney general) that the use of the National Guard of the State for the activities proposed under the plan is authorized by, and is consistent with, State law; and
+&emsp;(4) certify that any engineer-type activities (as defined by the Secretary of Defense) under the plan will be performed only by units and members of the National Guard;
 
-&emsp;(5) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determined that any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
+&emsp;(5) include a certification by the Attorney General of the State (or, in the case of a State with no position of Attorney General, a civilian official of the State equivalent to a State attorney general) that the use of the National Guard of the State for the activities proposed under the plan is authorized by, and is consistent with, State law; and
+
+&emsp;(6) certify that the Governor of the State or a civilian law enforcement official of the State designated by the Governor has determined that any activities included in the plan that are carried out in conjunction with Federal law enforcement agencies serve a State law enforcement purpose.
 
 (d)
 
@@ -42,9 +48,7 @@ Examination of Plan.—(1) Before funds are provided to the Governor of a State 
 
 (e)
 
-Exclusion From End-Strength Computation.—(1) Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.
-
-(2) The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths.
+Exclusion From End-Strength Computation.—Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.
 
 (f)
 
@@ -58,9 +62,21 @@ End Strength Limitation.—(1) Except as provided in paragraph (2), at the end o
 
 (g)
 
-Statutory Construction.—Nothing in this section shall be construed as a limitation on the authority of any unit of the National Guard of a State, when such unit is not in Federal service, to perform law enforcement functions authorized to be performed by the National Guard by the laws of the State concerned.
+Annual Report.—The Secretary of Defense shall submit to Congress an annual report regarding assistance provided and activities carried out under this section during the preceding fiscal year. The report shall include the following:
+
+&emsp;(1) The number of members of the National Guard excluded under subsection (e) from the computation of end strengths.
+
+&emsp;(2) A description of the drug interdiction and counter-drug activities conducted under State drug interdiction and counter-drug activities plans referred to in subsection (c) with funds provided under this section.
+
+&emsp;(3) An accounting of the amount of funds provided to each State.
+
+&emsp;(4) A description of the effect on military training and readiness of using units and personnel of the National Guard to perform activities under the State drug interdiction and counter-drug activities plans.
 
 (h)
+
+Statutory Construction.—Nothing in this section shall be construed as a limitation on the authority of any unit of the National Guard of a State, when such unit is not in Federal service, to perform law enforcement functions authorized to be performed by the National Guard by the laws of the State concerned.
+
+(i)
 
 Definitions.—For purposes of this section:
 
@@ -70,13 +86,21 @@ Definitions.—For purposes of this section:
 
 &emsp;(3) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 
-(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720.)
+(Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, §1031, Nov. 18, 1997, 111 Stat. 1880.)
 
 #### Prior Provisions
 
 Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, which was set out as a note under section 374 of Title 10, Armed Forces, prior to repeal by Pub. L. 101–189, §1207(b).
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–85, §1031(a), designated existing provisions as par. (1) and added pars. (2) and (3).
+
+Subsec. (c)(4) to (6). Pub. L. 105–85, §1031(b)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (e). Pub. L. 105–85, §1031(d), designated par. (1) as subsec. (e) and struck out par. (2) which read as follows: “The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths.”
+
+Subsecs. (g) to (i). Pub. L. 105–85, §1031(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 1996—Subsec. (a). Pub. L. 104–106, §1021(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense may provide to the Governor of a State who submits a plan to the Secretary under subsection (b) sufficient funds for—
 

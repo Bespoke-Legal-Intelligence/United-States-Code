@@ -34,7 +34,7 @@ The parcel of land referred to in subsection (a) of this section is all those ce
 
 &emsp;Containing an area of 331 acres, more or less.
 
-(Mar. 3, 1925, ch. 426, §12, as added Sept. 13, 1960, Pub. L. 86–777, §2, 74 Stat. 923; amended Oct. 9, 1996, Pub. L. 104–273, §6, 110 Stat. 3318.)
+(Mar. 3, 1925, ch. 426, §12, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 923; amended Pub. L. 104–273, §6, Oct. 9, 1996, 110 Stat. 3318.)
 
 #### Amendments
 

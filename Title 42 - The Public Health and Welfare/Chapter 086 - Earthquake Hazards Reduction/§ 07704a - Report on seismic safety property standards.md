@@ -20,7 +20,7 @@ In carrying out this section, the Secretary shall consult with the Director of t
 
 #### (2) Initial submission
 
-&emsp;The first report required under this subsection shall be submitted not later than theexpiration of the 18-month period beginning on November 28, 1990.
+&emsp;The first report required under this subsection shall be submitted not later than the expiration of the 18-month period beginning on November 28, 1990.
 
 (Pub. L. 101–625, title IX, §947, Nov. 28, 1990, 104 Stat. 4416.)
 

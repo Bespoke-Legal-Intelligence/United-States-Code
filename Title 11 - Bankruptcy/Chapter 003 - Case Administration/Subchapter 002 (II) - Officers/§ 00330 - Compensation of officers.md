@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(II) necessary to the administration of the case.
 
-(B) In a chapter 12 or chapter 13 case in which the debtor is an individual, the court may allow reasonable compensation to the debtor's attorney for representing the interests of the debtor in connection with the bankruptcy case based on a consideration of the benefit and necessity of such services to the debtor and the other factors set forth in this section.
+(B) In a chapter 12 or chapter 13 case in which the debtor is an individual, the court may allowreasonable compensation to the debtor's attorney for representing the interests of the debtor in connection with the bankruptcy case based on a consideration of the benefit and necessity of such services to the debtor and the other factors set forth in this section.
 
 (5) The court shall reduce the amount of compensation awarded under this section by the amount of any interim compensation awarded under section 331, and, if the amount of such interim compensation exceeds the amount of compensation awarded under this section, may order the return of the excess to the estate.
 

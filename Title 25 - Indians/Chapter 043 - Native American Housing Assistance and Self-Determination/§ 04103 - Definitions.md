@@ -158,7 +158,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (18) Recipient
 
-&emsp;The term “recipient” means an Indian tribe or the entity for one or more Indian tribesthat is authorized to receive grant amounts under this chapter on behalf of the tribe or tribes.
+&emsp;The term “recipient” means an Indian tribe or the entity for one or more Indian tribes that is authorized to receive grant amounts under this chapter on behalf of the tribe or tribes.
 
 #### (19) Secretary
 
@@ -204,7 +204,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 The Alaska Native Claims Settlement Act, referred to in par. (12)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination and Education Assistance Act of 1975, referred to in par. (12)(B), probably means the Indian Self-Determination and Education Assistance Act which is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, and is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act of 1975, referred to in par. (12)(B), probablymeans the Indian Self-Determination and Education Assistance Act which is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, and is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 For the effective date under section 107, referred to in par. (12)(C)(i)(II), as Oct. 1, 1997, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of this title.
 

@@ -62,7 +62,7 @@ In subsection (a)(2), the words “back to the Foreign Currency Fluctuations, De
 
 In subsection (b)(1), the words “the sum of”, “which shall be derived”, and “to appropriations and funds” are omitted as surplus. The word “only” is added for clarity. The words “for those appropriations or funds” are omitted as surplus. The words “available during fiscal year 1980, or thereafter” are omitted as executed. The words “Department of Defense” are substituted for “military departments and Defense agencies” because of 10:101(5).
 
-In subsection (b)(2), the words “or fund” are omitted as surplus. The words “now or on and after November 30, 1979” are omitted as executed. The words “containedwithin appropriations or other provisions of law”, “hereby”, and “applicable” are omitted as surplus.
+In subsection (b)(2), the words “or fund” are omitted as surplus. The words “now or on and after November 30, 1979” are omitted as executed. The words “contained within appropriations or other provisions of law”, “hereby”, and “applicable” are omitted as surplus.
 
 In subsection (b)(3), the words “contracts or other . . . entered into” are omitted as surplus.
 

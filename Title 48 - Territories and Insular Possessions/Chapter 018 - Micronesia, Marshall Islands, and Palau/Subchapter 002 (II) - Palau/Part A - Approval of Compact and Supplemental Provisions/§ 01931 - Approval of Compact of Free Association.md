@@ -240,7 +240,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 144
 
-“(a) A citizen or national of the United States who, after notification to the Government of the United States of an intention to employ such person by the Government of Palau, commences employment with that Government shall not be deprived of his United States nationality pursuant to Section 349(a)(2) and (a)(4) of the Immigration and Nationality Act, 8 U.S.C. 1481(a)(2) and (a)(4).
+“(a) A citizen or national of the United States who, after notification to the Government of the United States of an intention to employ such person by theGovernment of Palau, commences employment with that Government shall not be deprived of his United States nationality pursuant to Section 349(a)(2) and (a)(4) of the Immigration and Nationality Act, 8 U.S.C. 1481(a)(2) and (a)(4).
 
 “(b) Upon such notification by the Government of Palau, the Government of the United States may consult with or provide information to the notifying Government concerning the prospective employee, subject to the provisions of the Privacy Act, 5 U.S.C. 552a.
 
@@ -276,7 +276,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 162
 
-“(a) The Government of the United States and the Government of Palau agree that with respect to the activities of the Government of the United States inPalau, and with respect to substantively equivalent activities of the Government of Palau, each of the Governments shall be bound by such environmental protection standards as may be mutually agreed for the purpose of carrying out the policy set forth in this Compact.
+“(a) The Government of the United States and the Government of Palau agree that with respect to the activities of the Government of the United States in Palau, and with respect to substantively equivalent activities of the Government of Palau, each of the Governments shall be bound by such environmental protection standards as may be mutually agreed for the purpose of carrying out the policy set forth in this Compact.
 
 #### “Section 163
 
@@ -302,7 +302,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 171
 
-“Except as provided in this Compact or its related agreements, the application of the laws of the United States to the Trust Territory of the Pacific Islands by virtue of the Trusteeship Agreement ceases with respect to Palau as of the effective date of this Compact.
+“Except as provided in this Compact or its related agreements, the application of the laws of the UnitedStates to the Trust Territory of the Pacific Islands by virtue of the Trusteeship Agreement ceases with respect to Palau as of the effective date of this Compact.
 
 #### “Section 172
 
@@ -330,7 +330,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(c) Any claim not referred to in Section 174(b) and arising from an act or omission of the Government of the Trust Territory of the Pacific Islands or the Government of the United States prior to the effective date of this Compact shall be adjudicated in the same manner as a claim adjudicated according to Section 174(d). In any claim against the Government of the Trust Territory of the Pacific Islands, the Government of the United States shall stand in the place of the Government of the Trust Territory of the Pacific Islands. A judgment on any claim referred to in Section 174(b) or this subsection, not otherwise satisfied by the Government of the United States, may be presented for certification to the United States Court of Appeals for the Federal Circuit, or its successor court, which shall have jurisdiction therefor, notwithstanding the provisions of 28 U.S.C. 1502, and which court's decisions shall be reviewable as provided by the laws of the United States. The United States Court of Appeals for the Federal Circuit shall certify such judgment, and order payment thereof, unless it finds, after a hearing, that such judgment is manifestly erroneous as to law or fact, or manifestly excessive. In either of such cases the United States Court of Appeals for the Federal Circuit shall have jurisdiction to modify such judgment.
 
-“(d) The Government of Palau, shall not be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall not be immune from the jurisdiction of the courts of Palau in any case in which the action is based on a commercialactivity of the defendant Government carried out where the action is brought, or in a case in which damages are sought for personal injury or death or damage to or loss of property occurring where the action is brought. This subsection shall apply only to actions based on commercial activities entered into or injuries or losses suffered on or after the effective date of this Compact.
+“(d) The Government of Palau, shall not be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall not be immune from the jurisdiction of the courts of Palau in any case in which the action is based on a commercial activity of the defendant Government carried out where the action is brought, or in a case in which damages are sought for personal injury or death or damage to or loss of property occurring where the action is brought. This subsection shall apply only to actions based on commercial activities entered into or injuries or losses suffered on or after the effective date of this Compact.
 
 #### “Section 175
 
@@ -424,7 +424,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 &emsp;“(1) the annual amount of $2 million which shall be allocated in accordance with the provisions of the separate agreement referred to in Section 232; and
 
-&emsp;“(2) the sums of $4.3 million, $2.9 million and $1.5 million, respectively, during the first, second and third years after the effective date of this Compact, which sums shall be used by the Government of Palau as current account funds to finance programs similar to those programs of the United States that applied to Palau prior to the effective date of this Compact and that provided financial assistance for education to any institution, agency, organization or permanent resident of Palau or to the College of Micronesia.
+&emsp;“(2) the sums of $4.3 million, $2.9 million and $1.5 million, respectively, during the first, second and third years after the effective date of this Compact, which sums shall be used by the Government of Palau as current account funds to finance programs similar to those programs of the United States that applied to Palau prior to the effective date of this Compactand that provided financial assistance for education to any institution, agency, organization or permanent resident of Palau or to the College of Micronesia.
 
 “(c) The Government of the United States shall make available to Palau such alternate energy development projects, studies and conservation measures as are applicable to the Trust Territory of the Pacific Islands on the day preceding the effective date of this Compact, for the purposes and duration provided in the laws of the United States.
 
@@ -486,7 +486,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “The President of the United States shall proclaim the following tariff treatment for articles imported from Palau which shall apply during the period of effectiveness of this Title:
 
-“(a) Unless otherwise excluded, articles imported from Palau, subject to the limitations imposed under sections 503(b) and 504(c) of title 5 of the Trade Act of 1974 (19 U.S.C. 2463(b): 2464(c)), shall be exempt from duty.
+“(a) Unless otherwise excluded, articles imported from Palau, subject to the limitations imposed undersections 503(b) and 504(c) of title 5 of the Trade Act of 1974 (19 U.S.C. 2463(b): 2464(c)), shall be exempt from duty.
 
 “(b) Only canned tuna provided for in item 112.30 of the Tariff Schedules of the United States that is imported from the Federated States of Micronesia, the Marshall Islands and Palau during any calendar year not to exceed 10 percent of the United States consumption of canned tuna during the immediately preceding calendar year, as reported by the National Marine Fisheries Service, shall be exempt from duty; but the quantity of tuna given duty free treatment under this paragraph for any calendar year shall be counted against the aggregate quantity of canned tuna that is dutiable under rate column numbered 1 of such item 112.30 for that calendar year.
 
@@ -524,7 +524,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 254
 
-“(a) In determining any income tax imposed by the Government of Palau, the Government of Palau shallhave authority to impose tax upon income derived by a resident of Palau from sources without Palau in the same manner and to the same extent as the Government of Palau imposes tax upon income derived from within its jurisdiction. If the Government of Palau exercises such authority as provided in this subsection, any individual resident of Palau who is subject to tax by the Government of the United States on income which is also taxed by the Government of Palau shall be relieved of liability to the Government of the United States for the tax which, but for this subsection, would otherwise be imposed by the Government of the United States on such income. For purposes of this Section, the term ‘resident of Palau’ shall be deemed to include any person who was physically present in Palau for a period of 183 or more days during any taxable year. The relief from liability referred to in this subsection means only:
+“(a) In determining any income tax imposed by the Government of Palau, the Government of Palau shall have authority to impose tax upon income derived by a resident of Palau from sources without Palau in the same manner and to the same extent as the Government of Palau imposes tax upon income derived from within its jurisdiction. If the Government of Palau exercises such authority as provided in this subsection, any individual resident of Palau who is subject to tax by the Government of the United States on income which is also taxed by the Government of Palau shall be relieved of liability to the Government of the United States for the tax which, but for this subsection, would otherwise be imposed by the Government of the United States on such income. For purposes of this Section, the term ‘resident of Palau’ shall be deemed to include any person who was physically present in Palau for a period of 183 or more days during any taxable year. The relief from liability referred to in this subsection means only:
 
 &emsp;“(1) relief in the form of the foreign tax credit (or deduction in lieu thereof) available with respect to the income taxes of a possession of the United States, and
 
@@ -680,7 +680,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 423
 
-“If a dispute between the Government of the United States and the Government of Palau cannot be resolvedwithin 90 days of written notification in the manner provided in Section 422, either party to the dispute may refer it to arbitration in accordance with Section 424.
+“If a dispute between the Government of the United States and the Government of Palau cannot be resolved within 90 days of written notification in the manner provided in Section 422, either party to the dispute may refer it to arbitration in accordance with Section 424.
 
 #### “Section 424
 
@@ -706,7 +706,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 432
 
-“Upon the fifteenth and thirtieth and fortieth anniversaries of the effective date of this Compact, the Government of the United States and the Government of Palau shall formally review the terms of this Compact and its related agreements and shall consider the overall nature and development of their relationship. In these formal reviews, the governments shall consider the operating requirements of the Government of Palau and its progress in meeting the development objectives set forth in the plan referred to in Section 231(a). The governments commit themselves to take specific measures in relation to the findings of conclusions resulting from the review. Any alteration to the terms of this Compact or its related agreements shall be made by mutual agreement and the terms of this Compact and its related agreements shall remain in force until otherwise amended or terminated pursuant to Title Four of this Compact.
+“Upon the fifteenth and thirtieth and fortieth anniversaries of the effective date of this Compact, the Government of the United States and the Government of Palau shall formally review the terms of this Compact and its related agreements and shall consider the overall nature and development of their relationship. In these formal reviews, the governments shall consider the operating requirements of the Government of Palau and its progress in meeting the development objectives set forth in the plan referred to in Section 231(a). The governments commit themselves to take specific measures in relation to the findings of conclusions resulting from the review. Any alteration to the terms of this Compact or its related agreements shall be made by mutual agreement and the terms of this Compact andits related agreements shall remain in force until otherwise amended or terminated pursuant to Title Four of this Compact.
 
 #### “Article IV
 
@@ -864,7 +864,7 @@ On January 10, 1986, the Government of the United States and the Government of P
 
 In Palau the Compact has been approved by the Government in accordance with its constitutional processes and by a United Nations-observed plebiscite on November 9, 1993, a sovereign act of self-determination. In the United States the Compact was approved by Public Law 99–658 of November 14, 1986 \[48 U.S.C. 1931 et seq.\], and Public Law 101–219 of December 12, 1989 \[48 U.S.C. 1951 et seq.\].
 
-On May 25, 1994, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of Palau had freely exercised their right to self-determination and considered that it was appropriate for the Trusteeship Agreement to be terminated. The Council asked the United States to consult with the Government of Palau and to agree on a date, on or about October 1, 1994, for entry into force of their new status agreement.
+On May 25, 1994, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of Palau had freely exercised their right to self-determination and considered that it was appropriate for theTrusteeship Agreement to be terminated. The Council asked the United States to consult with the Government of Palau and to agree on a date, on or about October 1, 1994, for entry into force of their new status agreement.
 
 On July 15, 1994, the Government of the United States and the Government of the Republic of Palau agreed, pursuant to section 411 of the Compact of Free Association, that as between the United States and the Republic of Palau, the effective date of the Compact shall be October 1, 1994.
 
@@ -884,7 +884,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1951, 1955, 1972 of this title; title 20 sections 1102, 1201a, 1401, 2322, 2471.
+This section is referred to in sections 1951, 1955, 1972 of this title; title 20 sections 1102, 1201a, 2322, 2471.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

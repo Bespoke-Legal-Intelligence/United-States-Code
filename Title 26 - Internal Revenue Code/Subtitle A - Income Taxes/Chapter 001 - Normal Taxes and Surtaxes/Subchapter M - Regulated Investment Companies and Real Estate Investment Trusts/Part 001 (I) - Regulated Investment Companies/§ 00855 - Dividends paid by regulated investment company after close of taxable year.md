@@ -1,0 +1,62 @@
+### §855. Dividends paid by regulated investment company after close of taxable year
+
+#### (a) General rule
+
+For purposes of this chapter, if a regulated investment company—
+
+&emsp;(1) declares a dividend prior to the time prescribed by law for the filing of its return for a taxable year (including the period of any extension of time granted for filing such return), and
+
+&emsp;(2) distributes the amount of such dividend to shareholders in the 12-month period following the close of such taxable year and not later than the date of the first regular dividend payment made after such declaration,
+
+> the amount so declared and distributed shall, to the extent the company elects in such return in accordance with regulations prescribed by the Secretary, be considered as having been paid during such taxable year, except as provided in subsections (b), (c) and (d).
+
+#### (b) Receipt by shareholder
+
+Except as provided in section 852(b)(7), amounts to which subsection (a) is applicable shall be treated as received by the shareholder in the taxable year in which the distribution is made.
+
+#### (c) Notice to shareholders
+
+In the case of amounts to which subsection (a) is applicable, any notice to shareholders required under this part with respect to such amounts shall be made not later than 60 days after the close of the taxable year in which the distribution is made.
+
+#### (d) Foreign tax election
+
+If an investment company to which section 853 is applicable for the taxable year makes a distribution as provided in subsection (a) of this section, the shareholders shall consider the amounts described in section 853(b)(2) allocable to such distribution as paid or received, as the case may be, in the taxable year in which the distribution is made.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 274; Sept. 14, 1960, Pub. L. 86–779, §10(b)(2), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §229(a)(5), 78 Stat. 99; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Oct. 22, 1986, Pub. L. 99–514, title VI, §§651(b)(1)(B), 655(a)(5), 100 Stat. 2296, 2299; Nov. 10, 1988, Pub. L. 100–647, title I, §1006(<i>l</i>)(1)(B), 102 Stat. 3413.)
+
+#### Amendments
+
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted “section 852(b)(7)” for “section 852(b)(6)”.
+
+<b>1986</b>—Subsec. (b). Pub. L. 99–514, §651(b)(1)(B), substituted “Except as provided in section 852(b)(6), amounts” for “Amounts”.
+
+Subsec. (c). Pub. L. 99–514, §655(a)(5), substituted “60 days” for “45 days”.
+
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+<b>1964</b>—Subsec. (c). Pub. L. 88–272 substituted “45 days” for “30 days”.
+
+<b>1960</b>—Subsec. (c). Pub. L. 86–779 substituted “this part” for “this subchapter”.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+
+#### Effective Date of 1986 Amendment
+
+Amendment by section 651(b)(1)(B) of Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 651(d) of Pub. L. 99–514, set out as an Effective Date note under section 4982 of this title.
+
+Amendment by section 655(a)(5) of Pub. L. 99–514 applicable to taxable years beginning after Oct. 22, 1986, see section 655(b) of Pub. L. 99–514, set out as a note under section 852 of this title.
+
+#### Effective Date of 1964 Amendment
+
+Amendment by Pub. L. 88–272 applicable to taxable years of regulated investment companies ending on or after Feb. 26, 1964, see section 229(c) of Pub. L. 88–272, set out as a note under section 852 of this title.
+
+#### Effective Date of 1960 Amendment
+
+Amendment by Pub. L. 86–779 applicable with respect to taxable years of real estate investment trusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as an Effective Date note under section 856 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 265, 852, 860, 4982 of this title.
+

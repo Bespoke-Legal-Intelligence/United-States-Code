@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture is authorized to quarantine by regulation any State or Territory or the District of Columbia, or any portion of any State or Territory or the District of Columbia, when he shall determine the fact that any animals or live poultry in such State or Territory or District of Columbia are affected with any contagious, infectious, or communicable disease of livestock or poultry or that the contagion of any such disease exists or that vectors which may disseminate any such disease exist in such State or Territory or the District of Columbia.
 
-(Mar. 3, 1905, ch. 1496, §1, 33 Stat. 1264; Feb. 7, 1928, ch. 30, 45 Stat. 59; July 2, 1962, Pub. L. 87–518, §8(a), 76 Stat. 131; Oct. 10, 1978, Pub. L. 95–439, §2, 92 Stat. 1061.)
+(Mar. 3, 1905, ch. 1496, §1, 33 Stat. 1264; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, §8(a), July 2, 1962, 76 Stat. 131; Pub. L. 95–439, §2, Oct. 10, 1978, 92 Stat. 1061.)
 
 #### Amendments
 

@@ -40,7 +40,7 @@ Section 208 of the Act of July 10, 1952, referred to in subsec. (a), is section 
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Subsecs. (c) to (n). Pub. L. 99–598 added subsecs. (c) and (h) to (m), redesignated former subsecs. (c), (d), (e), (f), and (g) as (d), (e), (f), (g), and (n), respectively, and inserted “, except for an action brought by a State,” in subsec. (g).
 

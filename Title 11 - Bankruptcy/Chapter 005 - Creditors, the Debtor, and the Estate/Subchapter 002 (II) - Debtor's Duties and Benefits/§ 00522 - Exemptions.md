@@ -148,7 +148,7 @@
 
 &emsp;(2) any costs and expenses of avoiding a transfer under subsection (f) or (h) of this section, or of recovery of property under subsection (i)(1) of this section, that the debtor has not paid.
 
-<i>(l)</i> The debtor shall file a list of property that the debtor claims as exempt under subsection (b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
+(<i>l</i>) The debtor shall file a list of property that the debtor claims as exempt under subsection (b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
 
 (m) Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
 

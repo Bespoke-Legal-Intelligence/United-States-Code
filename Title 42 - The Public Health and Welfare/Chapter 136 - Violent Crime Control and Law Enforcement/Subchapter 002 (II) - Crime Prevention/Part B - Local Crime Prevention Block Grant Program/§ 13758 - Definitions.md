@@ -14,7 +14,7 @@ For purposes of this part:
 
 &emsp;(4) The term “children” means persons who are not younger than 5 and not older than 18 years old.
 
-&emsp;(5) The term “part 1 violent crimes” means murder and non-negligent manslaughter, forcible rape, robbery, and aggravated assault as reported to the Federal Bureau of Investigation for purposes of the Uniform Crime Reports.
+&emsp;(5) The term “part 1 violent crimes” means murder and non-negligent manslaughter, forcible rape, robbery, and aggravated assault asreported to the Federal Bureau of Investigation for purposes of the Uniform Crime Reports.
 
 (Pub. L. 103–322, title III, §30208, Sept. 13, 1994, 108 Stat. 1844.)
 

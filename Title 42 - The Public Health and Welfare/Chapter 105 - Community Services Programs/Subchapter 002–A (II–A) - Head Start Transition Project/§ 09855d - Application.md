@@ -48,7 +48,7 @@ Each Head Start agency or local educational agency desiring a grant under this s
 
 &emsp;&emsp;(B) a description of the manner in which activities funded under this subchapter and activities funded with assistance provided under the Follow Through Act will be coordinated within the elementary school;
 
-&emsp;(14) assurances that the supportive services team described in paragraph (4) will be equipped to assist children and families with limited English proficiency and disabilities, if appropriate;
+&emsp;(14) assurances that the supportive services team described in paragraph (4) will be equipped to assist children and families withlimited English proficiency and disabilities, if appropriate;
 
 &emsp;(15) a plan describing how the program assisted under this subchapter will be sustained, with chapter 1 <sup>1</sup> funding or other Federal and non-Federal funding sources, after the grant has expired;
 

@@ -114,7 +114,7 @@ Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act
 
 Amendment by Pub. L. 92–191 effective at beginning of third calendar month following Dec. 15, 1971, or on the date that this section becomes effective pursuant to section 15(a) of Pub. L. 91–375, which is set out as and Effective Date note preceding section 101 of this title, whichever is later, see section 3 of Pub. L. 92–191, set out as a note under section 1716 of Title 18, Crimes and Criminal Procedure.
 
-Section 6 of Pub. L. 91–662 provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for section 3001of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
+Section 6 of Pub. L. 91–662 provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
 
 #### Effective Date
 

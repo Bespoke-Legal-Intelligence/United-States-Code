@@ -2,15 +2,15 @@
 
 (a) Notwithstanding any other provision of law, an individual who—
 
-&emsp;(1) is a participant on the date of the enactment of the Veterans’ Benefits Improvements Act of 1996 in the educational benefits program provided by chapter 32 of this title;
+&emsp;(1) is a participant on October 9, 1996, in the educational benefits program provided by chapter 32 of this title;
 
 &emsp;(2) is serving on active duty (excluding the periods referred to in section 3202(1)(C) of this title) on such date;
 
 &emsp;(3) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
-&emsp;(4) if discharged or released from active duty during the one-year period specified in paragraph (5), is discharged or released therefrom with an honorable discharge; and
+&emsp;(4) if discharged or released from active duty after the date on which the individual makes the election described in paragraph (5), is discharged or released therefrom with an honorable discharge; and
 
-&emsp;(5) during the one-year period beginning on the date of the enactment of the Veterans’ Benefits Improvements Act of 1996, makes an irrevocable election to receive benefits under this section in lieu of benefits under chapter 32 of this title, pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Transportation shall provide for such purpose with respect to the Coast Guard when it is not operating as a service in the Navy;
+&emsp;(5) during the one-year period beginning on October 9, 1996, makes an irrevocable election to receive benefits under this section in lieu of benefits under chapter 32 of this title, pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Transportation shall provide for such purpose with respect to the Coast Guard when it is not operating as a service in the Navy;
 
 > may elect to become entitled to basic educational assistance under this chapter.
 
@@ -32,11 +32,15 @@
 
 (d) The procedures provided in regulations referred to in subsection (a) shall provide for notice of the requirements of subparagraphs (B), (C), and (D) of section 3011(a)(3) and of subparagraph (A) of section 3012(a)(3) of this title. Receipt of such notice shall be acknowledged in writing.
 
-(Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327.)
+(Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327; amended Pub. L. 105–114, title IV, §401(c), Nov. 21, 1997, 111 Stat. 2293.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of the Veterans’ Benefits Improvements Act of 1996, referred to in subsec. (a)(1), (2), (5), is the date of enactment of Pub. L. 104–275, which was approved Oct. 9, 1996.
+1997—Subsec. (a)(1). Pub. L. 105–114, §401(c)(1), substituted “October 9, 1996,” for “the date of the enactment of the Veterans’ Benefits Improvements Act of 1996”.
+
+Subsec. (a)(4). Pub. L. 105–114, §401(c)(2), substituted “after the date on which the individual makes the election described” for “during the one-year period specified”.
+
+Subsec. (a)(5). Pub. L. 105–114, §401(c)(3), substituted “October 9, 1996” for “the date of the enactment of the Veterans’ Benefits Improvements Act of 1996”.
 
 #### Section Referred to in Other Sections
 

@@ -314,5 +314,5 @@ Functions of President under subsec. (c) of this section delegated to United Sta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 24 section 225h; title 28 sections 1581, 2631, 2636, 2640; title 49 section 49102.
+This section is referred to in title 24 section 225h; title 28 sections 1581, 2631, 2636, 2640; title 49 section 50102.
 

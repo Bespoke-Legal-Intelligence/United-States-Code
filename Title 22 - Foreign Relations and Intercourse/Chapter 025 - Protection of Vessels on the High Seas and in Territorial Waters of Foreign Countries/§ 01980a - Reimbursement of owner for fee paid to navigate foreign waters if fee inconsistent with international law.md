@@ -30,7 +30,7 @@ The Secretary of State shall take such action as the Secretary deems appropriate
 
 For purposes of this section, the term “owner” includes any charterer of a vessel of the United States.
 
-(Aug. 27, 1954, ch. 1018, §11, as added Nov. 3, 1995, Pub. L. 104–43, title IV, §402(a), 109 Stat. 389.)
+(Aug. 27, 1954, ch. 1018, §11, as added Pub. L. 104–43, title IV, §402(a), Nov. 3, 1995, 109 Stat. 389.)
 
 #### Congressional Findings
 
@@ -56,7 +56,7 @@ Section 401 of Pub. L. 104–43 provided that: “The Congress finds that—
 
 &emsp;“(10) the President should ensure that, consistent with international law, the United States Coast Guard has available adequate resources in the Pacific Northwest and Alaska to provide for the safety of United States citizens, the enforcement of United States law, and to protect the rights of the United States and keep the peace among vessels operating in disputed waters;
 
-&emsp;“(11) the President should continue to review all agreements between the United States and Canada to identify other actions that may be taken to convinceCanada that any reinstatement of the transit license fee would be against Canada's long-term interests, and should immediately implement any actions which the President deems appropriate if Canada reinstates the fee;
+&emsp;“(11) the President should continue to review all agreements between the United States and Canada to identify other actions that may be taken to convince Canada that any reinstatement of the transit license fee would be against Canada's long-term interests, and should immediately implement any actions which the President deems appropriate if Canada reinstates the fee;
 
 &emsp;“(12) the President should continue to convey to Canada in the strongest terms that the United States will not now, nor at any time in the future, tolerate any action by Canada which would impede or otherwise restrict the right of passage of vessels of the United States in a manner inconsistent with international law; and
 

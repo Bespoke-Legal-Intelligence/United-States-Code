@@ -8,7 +8,7 @@
 
 #### (2) Standards for approval
 
-&emsp;In acting on any application under this paragraph to establish a representative office, theBoard shall take into account the standards contained in section 3105(d)(2) of this title and may impose any additional requirements that the Board determines to be necessary to carry out the purposes of this chapter.
+&emsp;In acting on any application under this paragraph to establish a representative office, the Board shall take into account the standards contained in section 3105(d)(2) of this title and may impose any additional requirements that the Board determines to be necessary to carry out the purposes of this chapter.
 
 #### (b) Termination of representative offices
 

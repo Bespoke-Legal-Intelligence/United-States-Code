@@ -72,11 +72,9 @@
 
 &emsp;&emsp;(A) a drug described in section 1927(k)(7)(A)(ii) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act;
 
-&emsp;&emsp;(B) a drug described in section 1927(k)(7)(A)(iv) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act;
+&emsp;&emsp;(B) a drug described in section 1927(k)(7)(A)(iv) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act; or
 
-&emsp;&emsp;(C) any biological product identified under section 600.3 of title 21, Code of Federal Regulations; or
-
-&emsp;&emsp;(D) insulin certified under section 506 of the Federal Food, Drug, and Cosmetic Act.
+&emsp;&emsp;(C) any biological product identified under section 600.3 of title 21, Code of Federal Regulations.
 
 &emsp;(3) The term “depot” means a centralized commodity management system through which covered drugs procured by an agency of the Federal Government are—
 
@@ -116,7 +114,7 @@
 
 (2) In this subsection, the term “contract year” means any one-year period for which a multi-year contract described in subsection (d) is in effect.
 
-(Added Pub. L. 102–585, title VI, §603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, §1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, §1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 104–106, div. A, title VII, §737(a), Feb. 10, 1996, 110 Stat. 383.)
+(Added Pub. L. 102–585, title VI, §603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, §1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, §1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 104–106, div. A, title VII, §737(a), Feb. 10, 1996, 110 Stat. 383; Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.)
 
 #### References in Text
 
@@ -126,9 +124,9 @@ The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 
 
 Enactment of this section, referred to in subsec. (g)(2), means enactment of Pub. L. 102–585, which enacted this section and was approved Nov. 4, 1992.
 
-Section 506 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (h)(2)(D), is classified to section 356 of Title 21, Food and Drugs.
-
 #### Amendments
+
+1997—Subsec. (h)(2). Pub. L. 105–115 inserted “or” at end of subpar. (B), substituted a period for “; or” at end of subpar. (C), and struck out subpar. (D), which read as follows: “insulin certified under section 506 of the Federal Food, Drug, and Cosmetic Act.”
 
 1996—Subsec. (b)(4). Pub. L. 104–106 added par. (4).
 

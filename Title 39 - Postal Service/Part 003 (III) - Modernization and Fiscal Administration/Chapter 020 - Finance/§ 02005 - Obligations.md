@@ -38,7 +38,7 @@
 
 &emsp;(2) contain a recital that they are issued under this section, and such recital shall be conclusive evidence of the regularity of the issuance and sale of such obligations and of their validity;
 
-&emsp;(3) be lawful investments and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of any officer or agency of the Government of the United States, and the Secretary of the Treasury or any other officer or agency having authority over or control of any such fiduciary,trust, or public funds, may at any time sell any of the obligations of the Postal Service acquired under this section;
+&emsp;(3) be lawful investments and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of any officer or agency of the Government of the United States, and the Secretary of the Treasury or any other officer or agency having authority over or control of any such fiduciary, trust, or public funds, may at any time sell any of the obligations of the Postal Service acquired under this section;
 
 &emsp;(4) be exempt both as to principal and interest from all taxation now or hereafter imposed by any State or local taxing authority except estate, inheritance, and gift taxes; and
 

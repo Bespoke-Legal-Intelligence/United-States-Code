@@ -44,7 +44,7 @@
 
 (i) As used in this section, an “offer for sale” or an “offer to sell” by a person other than the patentee, or any designee of the patentee, is that in which the sale will occur before the expiration of the term of the patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 811; Sept. 24, 1984, Pub. L. 98–417, title II, §202, 98 Stat. 1603; Nov. 8, 1984, Pub. L. 98–622, title I, §101(a), 98 Stat. 3383; Aug. 23, 1988, Pub. L. 100–418, title IX, §9003, 102 Stat. 1563; Nov. 16, 1988, Pub. L. 100–670, title II, §201(i), 102 Stat. 3988; Nov. 19, 1988, Pub. L. 100–703, title II, §201, 102 Stat. 4676; Oct. 28, 1992, Pub. L. 102–560, §2(a)(1), 106 Stat. 4230; Dec. 8, 1994, Pub. L. 103–465, title V, §533(a), 108 Stat. 4988.)
+(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, §202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, §101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, §9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, §201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, §201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, §2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L. 103–465, title V, §533(a), Dec. 8, 1994, 108 Stat. 4988.)
 
 #### Historical and Revision Notes
 
@@ -60,7 +60,7 @@ Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, c
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–465, §533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into the United States any patented invention” after “the United States”.
+1994—Subsec. (a). Pub. L. 103–465, §533(a)(1), inserted “, offers to sell,” after “uses” and “or imports into theUnited States any patented invention” after “the United States”.
 
 Subsec. (c). Pub. L. 103–465, §533(a)(2), substituted “offers to sell or sells within the United States or imports into the United States” for “sells”.
 

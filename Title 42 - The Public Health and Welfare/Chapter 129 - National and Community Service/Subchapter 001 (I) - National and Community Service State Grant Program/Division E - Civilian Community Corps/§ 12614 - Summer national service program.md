@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Under the summer national service program of the Civilian Community Corps Demonstration Program authorized by section 12612(a) of this title, a diverse group of youth aged 14 through 18 years who are from urban or rural areas shall work in teams on Civilian Community Corps projects.
+Under the summer national service program of the Civilian Community Corps Demonstration Program authorized by section 12612(a) of thistitle, a diverse group of youth aged 14 through 18 years who are from urban or rural areas shall work in teams on Civilian Community Corps projects.
 
 #### (b) Necessary participants
 

@@ -32,7 +32,7 @@ In carrying out subsection (a) of this section, the Chief Administrative Officer
 
 &emsp;(1) to collect fees for child care services;
 
-&emsp;(2) to accept such gifts of money and property as may be approved by the Chairman and the ranking minority party member of the Committee on House Oversight of the House of Representatives, acting jointly; and
+&emsp;(2) to accept such gifts of money and property as may be approved by the Chairman and the ranking minority party member of theCommittee on House Oversight of the House of Representatives, acting jointly; and
 
 &emsp;(3) to employ a director and other employees for the center.
 
@@ -53,10 +53,6 @@ As used in this section—
 &emsp;(3) the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
 (Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749.)
-
-#### References in Text
-
-This Act, referred to in subsec. (d)(2), is Pub. L. 102–90, Aug. 14, 1991, 105 Stat. 447, known as the Legislative Branch Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

@@ -106,7 +106,7 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1991 Amendment
 
-Section 102(c) of title I of Pub. L. 102–232 provided that: “The amendments made by this title \[amending this section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\].”
+Section 102(c) of title I of Pub. L. 102–232 provided that: “The amendments made by this title \[amendingthis section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\].”
 
 Amendment by section 305(a) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 

@@ -2,7 +2,7 @@
 
 Employees required for the performance of the provisions of section 13a(a) of this title shall be (a) appointed by the Architect of the Capitol with the approval of the Chief Justice of the United States; (b) compensated in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5; and (c) be subject to the provisions of subchapter III of chapter 83 of title 5.
 
-(May 7, 1934, ch. 222, §2, 48 Stat. 668; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1978, Pub. L. 95–431, title IV, 92 Stat. 1036.)
+(May 7, 1934, ch. 222, §2, 48 Stat. 668; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 95–431, title IV, Oct. 10, 1978, 92 Stat. 1036.)
 
 #### Codification
 

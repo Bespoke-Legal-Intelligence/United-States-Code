@@ -46,7 +46,7 @@ Pending disbursement of assessments under a budget approved by the Secretary, a 
 
 #### (1) Escrow account
 
-&emsp;During the period beginning on the effective date of an order and ending on the date theSecretary announces the results of a referendum that is conducted under section 7417(b)(1) of this title with respect to the order, the board established under the order shall—
+&emsp;During the period beginning on the effective date of an order and ending on the date the Secretary announces the results of a referendum that is conducted under section 7417(b)(1) of this title with respect to the order, the board established under the order shall—
 
 &emsp;&emsp;(A) establish and maintain an escrow account of the kind described in subsection (f)(3) of this section to be used to refund assessments; and
 

@@ -1,6 +1,6 @@
 ### §1641b. Claims of nationals of the United States against Bulgaria, Hungary, and Rumania
 
-The Commission shall receive and determine in accordance with applicable substantive law,including international law, the validity and amounts of claims of nationals of the United States against the Governments of Bulgaria, Hungary, and Rumania, or any of them, arising out of the failure to—
+The Commission shall receive and determine in accordance with applicable substantive law, including international law, the validity and amounts of claims of nationals of the United States against the Governments of Bulgaria, Hungary, and Rumania, or any of them, arising out of the failure to—
 
 &emsp;(1) restore or pay compensation for property of nationals of the United States as required by article 23 of the treaty of peace with Bulgaria, articles 26 and 27 of the treaty of peace with Hungary, and articles 24 and 25 of the treaty of peace with Rumania. Awards under this paragraph shall be in amounts not to exceed two-thirds of the loss or damage actually sustained;
 
@@ -12,7 +12,7 @@ The Commission shall receive and determine in accordance with applicable substan
 
 &emsp;(5) pay effective compensation for the nationalization, compulsory liquidation, or other taking of property of nationals of the United States in Hungary, between August 9, 1955, and the date the United States-Hungarian Claims Agreement of March 6, 1973, enters into force.
 
-(Mar. 10, 1950, ch. 54, title III, §303, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 571; amended July 24, 1968, Pub. L. 90–421, §1(9), (10), 82 Stat. 422; Oct. 20, 1974, Pub. L. 93–460, §1(2), (3), 88 Stat. 1386.)
+(Mar. 10, 1950, ch. 54, title III, §303, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 571; amended Pub. L. 90–421, §1(9), (10), July 24, 1968, 82 Stat. 422; Pub. L. 93–460, §1(2), (3), Oct. 20, 1974, 88 Stat. 1386.)
 
 #### Amendments
 

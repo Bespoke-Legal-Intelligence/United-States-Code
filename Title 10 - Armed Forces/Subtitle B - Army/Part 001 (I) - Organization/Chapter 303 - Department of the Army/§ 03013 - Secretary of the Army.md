@@ -1,6 +1,6 @@
 ### §3013. Secretary of the Army
 
-(a)(1) There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary is the head of the Department of the Army.
+(a)(1) There is a Secretary of the Army, appointed from civilian life by the President, byand with the advice and consent of the Senate. The Secretary is the head of the Department of the Army.
 
 (2) A person may not be appointed as Secretary of the Army within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
@@ -42,7 +42,7 @@
 
 &emsp;(5) effective cooperation and coordination between the Department of the Army and the other military departments and agencies of the Department of Defense to provide for more effective, efficient, and economical administration and to eliminate duplication;
 
-&emsp;(6) the presentation and justification of the positions of the Department of the Army onthe plans, programs, and policies of the Department of Defense; and
+&emsp;(6) the presentation and justification of the positions of the Department of the Army on the plans, programs, and policies of the Department of Defense; and
 
 &emsp;(7) the effective supervision and control of the intelligence activities of the Department of the Army.
 
@@ -86,7 +86,7 @@ Sources of Training.—The Secretary may enter into a cooperative agreement with
 
 “(c)
 
-Use of Facilities.—Under a cooperative agreement entered into under subsection (b), the Secretary may lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding section 2667(b)(4) of title 10, United States Code, the use of such real property or facilities may be permitted with or without reimbursement.
+Use of Facilities.—Under a cooperative agreement entered into under subsection (b), the Secretary may lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding section 2667(b)(4) of title 10, United StatesCode, the use of such real property or facilities may be permitted with or without reimbursement.
 
 “(d)
 

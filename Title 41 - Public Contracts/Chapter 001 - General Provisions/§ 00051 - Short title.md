@@ -2,7 +2,7 @@
 
 Sections 51 to 58 of this title may be cited as the “Anti-Kickback Act of 1986”.
 
-(Mar. 8, 1946, ch. 80, §1, 60 Stat. 37; Sept. 2, 1960, Pub. L. 86–695, 74 Stat. 740; Nov. 7, 1986, Pub. L. 99–634, §2(a), 100 Stat. 3523.)
+(Mar. 8, 1946, ch. 80, §1, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3523.)
 
 #### Amendments
 

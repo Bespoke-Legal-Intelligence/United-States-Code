@@ -2,7 +2,7 @@
 
 In return for a contract entered into by an owner or operator under section 3832 of this title, the Secretary shall—
 
-&emsp;(1) share the cost of carrying out the conservation measures and practices set forth inthe contract for which the Secretary determines that cost sharing is appropriate and in the public interest;
+&emsp;(1) share the cost of carrying out the conservation measures and practices set forth in the contract for which the Secretary determines that cost sharing is appropriate and in the public interest;
 
 &emsp;(2) for a period of years not in excess of the term of the contract, pay an annual rental payment in an amount necessary to compensate for—
 

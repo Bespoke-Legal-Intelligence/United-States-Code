@@ -2,7 +2,7 @@
 
 Each State and Territory, Puerto Rico, and the District of Columbia shall, upon receiving new property issued to its National Guard to replace obsolete or condemned issues of property, return the replaced property to the Department of the Army or the Department of the Air Force, as the case may be, or otherwise dispose of it, as the Secretary concerned directs. No money credit may be allowed for property disposed of under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 616; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 616; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 

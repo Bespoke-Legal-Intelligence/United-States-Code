@@ -20,7 +20,7 @@
 
 (h) Notwithstanding subsections (a) and (b) of section 3324 of title 31, the Secretary concerned may, when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, authorize the payment of pay and allowances to members of uniformed service under his jurisdiction on the preceding workday but not more than three days before the last day of that pay period. If a member dies after he has received an advance payment under this subsection, but before the last day of the pay period for which the payment is made, no part of the amount so advance is recoverable by the United States.
 
-(i) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Armed Forces Health Professions Scholarship program upon reporting for a period of active duty required by section 2121(c) of title 10.
+(i) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Armed Forces Health Professions Scholarshipprogram upon reporting for a period of active duty required by section 2121(c) of title 10.
 
 (j) Under regulations prescribed by the Secretary concerned, not more than one month's pay may be paid in advance to a member of the Senior Reserve Officers’ Training Corps who is ordered to field training or a practice required under section 2109 of title 10.
 
@@ -78,7 +78,7 @@ In subsection (d), the words “If a” are substituted for the words “In the 
 
 1993—Subsec. (c). Pub. L. 103–160 substituted “the Secretary of Defense” for “the President” in first sentence.
 
-1992—Subsec. (c). Pub. L. 102–484 inserted first four sentences and struck out former first and second sentences which read as follows: “Under regulations prescribed by the Secretary concerned, an advance of pay to a member of a uniformed service who is on duty outside the United States, or other place designated by the President, of not more than two months’ basic pay maybe made directly to his previously designated dependents who are ordered evacuated by competent authority. An advance of pay under this subsection is not subject to the conditions under which advances of pay may be made under subsection (a) or (b), and may be made only if all dependents of members of the uniformed services are ordered evacuated from the place where the member's dependents are located.”
+1992—Subsec. (c). Pub. L. 102–484 inserted first four sentences and struck out former first and second sentences which read as follows: “Under regulations prescribed by the Secretary concerned, an advance of pay to a member of a uniformed service who is on duty outside the United States, or other place designated by the President, of not more than two months’ basic pay may be made directly to his previously designated dependents who are ordered evacuated by competent authority. An advance of pay under this subsection is not subject to the conditions under which advances of pay may be made under subsection (a) or (b), and may be made only if all dependents of members of the uniformed services are ordered evacuated from the place where the member's dependents are located.”
 
 1991—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsection (a) or (b)”.
 
@@ -118,7 +118,7 @@ Subsec. (f). Pub. L. 90–623, §3(1), substituted “Secretary of Transportatio
 
 1966—Subsec. (h). Pub. L. 89–718 redesignated as subsec. (h) the subsection relating to advance payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday, formerly designated as subsec. (g).
 
-1965—Subsec. (c). Pub. L. 89–26, §1(6)(A), empowered the Secretary concerned or his designee to waive any right of recovery of not more than one month's basic pay advanced if he finds that recovery of the advance would be against equity and good conscience or against the public interest.
+1965—Subsec. (c). Pub. L. 89–26, §1(6)(A), empowered the Secretary concerned or his designee to waive anyright of recovery of not more than one month's basic pay advanced if he finds that recovery of the advance would be against equity and good conscience or against the public interest.
 
 Subsec. (g). Pub. L. 89–193 added subsec. (g) relating to the payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday.
 

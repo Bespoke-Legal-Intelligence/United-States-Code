@@ -118,7 +118,7 @@ Pub. L. 100–204, title I, §155, Dec. 22, 1987, 101 Stat. 1353, provided that:
 
 “(a)
 
-Special Security Program.—The Secretary of State shall develop and implement, within three months after the date of enactment of this Act \[Dec. 22, 1987\], a special personnel security program for personnel of the Department of State assigned to United States diplomatic and consular posts in high intelligence threat countries who are responsible for security at those posts and for any individuals performing guard functions at those posts. Such program shall include—
+Special Security Program.—The Secretary of State shall develop and implement, within three months after the date of enactment of this Act \[Dec. 22, 1987\], a special personnel security program for personnel of the Department of State assigned to United States diplomatic and consular posts in high intelligence threat countries who are responsible for security at those posts and for any individuals performingguard functions at those posts. Such program shall include—
 
 &emsp;“(1) selection criteria and screening to ensure suitability for assignment to high intelligence threat countries;
 

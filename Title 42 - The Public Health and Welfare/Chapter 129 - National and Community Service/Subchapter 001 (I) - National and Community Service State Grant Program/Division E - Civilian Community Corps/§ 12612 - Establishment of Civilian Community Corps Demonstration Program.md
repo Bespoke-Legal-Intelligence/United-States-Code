@@ -16,7 +16,7 @@ Under the Civilian Community Corps Demonstration Program authorized by subsectio
 
 Both program components are residential programs. The members of the Corps in each program shall reside with other members of the Corps in Corps housing during the periods of the members’ agreed service.
 
-(Pub. L. 101–610, title I, §152, formerly §195A, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2523; renumbered §152 andamended Pub. L. 103–82, title I, §104(b), title IV, §402(b)(2), Sept. 21, 1993, 107 Stat. 840, 919.)
+(Pub. L. 101–610, title I, §152, formerly §195A, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2523; renumbered §152 and amended Pub. L. 103–82, title I, §104(b), title IV, §402(b)(2), Sept. 21, 1993, 107 Stat. 840, 919.)
 
 #### Codification
 

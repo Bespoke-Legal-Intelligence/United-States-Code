@@ -70,7 +70,7 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;(B) Amounts received under this section for forfeitures and costs imposed under paragraph (2) shall be used to pay the reasonable and necessary costs incurred by the Secretary to provide temporary storage, care, maintenance, and disposal of any sanctuary resource or other property seized in connection with a violation of this chapter or any regulation or permit issued under this chapter.
 
-&emsp;(C) Amounts received under this section as civil penalties and any amounts remaining after the operation of subparagraph (B) shall be used, in order of priority, to—
+&emsp;(C) Amounts received under this section as civil penalties and any amounts remainingafter the operation of subparagraph (B) shall be used, in order of priority, to—
 
 &emsp;&emsp;(i) manage and improve the national marine sanctuary with respect to which the violation occurred that resulted in the penalty or forfeiture;
 

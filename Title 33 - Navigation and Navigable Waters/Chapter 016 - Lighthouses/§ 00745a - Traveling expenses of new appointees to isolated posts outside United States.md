@@ -2,7 +2,7 @@
 
 In all appropriations hereafter made for “General expenses, Coast Guard,” there is authorized to be made available not exceeding $1,500 in any fiscal year, under rules prescribed by the Secretary of Transportation, for paying the actual and necessary traveling expenses of new appointees from ports of embarkation in the United States to first post of duty at isolated light stations, in districts outside the continental limits of the United States.
 
-(May 13, 1938, ch. 215, §1, 52 Stat. 353; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938.)
+(May 13, 1938, ch. 215, §1, 52 Stat. 353; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### Transfer of Functions
 

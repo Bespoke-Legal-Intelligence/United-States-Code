@@ -776,7 +776,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12656. Assignment of Emergency Preparedness Responsibilities
 
-Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, provided:
+Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, as amended by Ex. Ord. No. 13074, Feb. 9, 1998, 63 F.R. 7277, provided:
 
 WHEREAS our national security is dependent upon our ability to assure continuity of government, at every level, in any national security emergency situation that might confront the Nation; and
 
@@ -1006,7 +1006,9 @@ Sec. 501. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 (14) In cooperation with the Secretary of Commerce and other Federal departments and agencies, analyze potential effects of national security emergencies on actual production capability, taking into account the entire production complex, including shortages of resources, and develop preparedness measures to strengthen capabilities for production increases in national security emergencies;
 
-(15) With the assistance of the heads of other Federal departments and agencies, provide management direction for the stockpiling of strategic and critical materials, conduct storage, maintenance, and quality assurance operations for the stockpile of strategic and critical materials, and formulate plans, programs, and reports relating to the stockpiling of strategic and critical materials.
+(15) With the assistance of the heads of other Federal departments and agencies, provide management direction for the stockpiling of strategic and critical materials, conduct storage, maintenance, and quality assurance operations for the stockpile of strategic and critical materials, and formulate plans, programs, and reports relating to the stockpiling of strategic and critical materials.\[;\]
+
+(16) Subject to the direction of the President, and pursuant to procedures to be developed jointly by the Secretary of Defense and the Secretary of State, be responsible for the deployment and use of military forces for the protection of United States citizens and nationals and, in connection therewith, designated other persons or categories of persons, in support of their evacuation from threatened areas overseas.
 
 Sec. 502. <i>Support Responsibilities</i>. The Secretary of Defense shall:
 
@@ -1098,7 +1100,7 @@ Sec. 801. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 (3) Develop national plans to set priorities and allocate health, mental health, and medical services’ resources among civilian and military claimants;
 
-(4) Develop health and medical survival information programs and a nationwide program to train health and mental health professionals and paraprofessionals in special knowledge and skills that would be useful in national security emergencies;
+(4) Develop health and medical survival information programs and a nationwide program to train health andmental health professionals and paraprofessionals in special knowledge and skills that would be useful in national security emergencies;
 
 (5) Develop programs to reduce or eliminate adverse health and mental health effects produced by hazardous agents (biological, chemical, or radiological), and, in coordination with appropriate Federal agencies, develop programs to minimize property and environmental damage associated with national security emergencies;
 
@@ -1272,7 +1274,7 @@ Sec. 1402. <i>Support Responsibility</i>. The Secretary of Transportation shall 
 
 Sec. 1501. <i>Lead Responsibilities</i>. In addition to the applicable responsibilities covered in Parts 1 and 2, the Secretary of the Treasury shall:
 
-(1) Develop plans to maintain stable economic conditions and a market economy during national security emergencies; emphasize measures to minimize inflationand disruptions; and, minimize reliance on direct controls of the monetary, credit, and financial systems. These plans will include provisions for:
+(1) Develop plans to maintain stable economic conditions and a market economy during national security emergencies; emphasize measures to minimize inflation and disruptions; and, minimize reliance on direct controls of the monetary, credit, and financial systems. These plans will include provisions for:
 
 (a) Increasing capabilities to minimize economic dislocations by carrying out appropriate fiscal, monetary, and regulatory policies and reducing susceptibility to manipulated economic pressures;
 
@@ -1342,7 +1344,7 @@ Sec. 1701. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 (3) Coordinate the development of plans, in cooperation with the Secretary of Defense, for mutual civil-military support during national security emergencies;
 
-(4) Guide and assist State and local governments and private sector organizations in achieving preparedness for national security emergencies, including development of plans and procedures for assuring continuity of government, and support planning for prompt and coordinated Federal assistance to States and localities in responding to national security emergencies;
+(4) Guide and assist State and local governments and private sector organizations in achieving preparednessfor national security emergencies, including development of plans and procedures for assuring continuity of government, and support planning for prompt and coordinated Federal assistance to States and localities in responding to national security emergencies;
 
 (5) Provide the President a periodic assessment of Federal, State, and local capabilities to respond to national security emergencies;
 
@@ -1508,8 +1510,6 @@ Sec. 2801. In addition to the applicable responsibilities covered in Parts 1 and
 
 Sec. 2901. Executive Order Nos. 10421 and 11490, as amended, are hereby revoked. This Order shall be effective immediately.
 
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Ex. Ord. No. 12657. Federal Emergency Management Agency Assistance in Emergency Preparedness Planning at Commercial Nuclear Power Plants
 
 Ex. Ord. No. 12657, Nov. 18, 1988, 53 F.R. 47513, provided:
@@ -1558,7 +1558,7 @@ Sec. 4. <i>Evaluation of Plans</i>. (a) FEMA shall consider and evaluate all pla
 
 (b) FEMA shall take all actions necessary to carry out the evaluation referred to in the preceding Subsection and to permit the NRC to conduct its evaluation of radiological emergency preparedness plans including, but not limited to, planning, participating in, and evaluating exercises, drills, and tests, on a timely basis, as necessary to satisfy NRC requirements for demonstrations of off-site radiological emergency preparedness.
 
-Sec. 5. <i>Response to a Radiological Emergency</i>. (a) In the event of an actual radiological emergency or disaster, FEMA shall take all steps necessary to ensure the implementation of the plans developed under this Order and shall coordinate the actions of other Federal agencies to achieve the maximum effectiveness of Federal efforts in responding to the emergency.
+Sec. 5. <i>Response to a Radiological Emergency</i>. (a) In the event of an actual radiological emergency or disaster, FEMA shall take all steps necessary to ensure the implementation of the plans developed under this Orderand shall coordinate the actions of other Federal agencies to achieve the maximum effectiveness of Federal efforts in responding to the emergency.
 
 (b) FEMA shall coordinate Federal response activities to ensure that adequate resources are directed, when an initial response is needed, to activities hindered by the absence or inadequacy of advance State and local commitments. FEMA shall also coordinate with State and local governmental authorities and turn over response functions as appropriate when State and local governments do exercise their authority.
 
@@ -1606,7 +1606,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13010. Critical Infrastructure Protection
 
-Ex. Ord. No. 13010, July 15, 1996, 61 F.R. 37347, as amended by Ex. Ord. No. 13025, Nov. 13, 1996, 61 F.R. 58623, provided:
+Ex. Ord. No. 13010, July 15, 1996, 61 F.R. 37347, as amended by Ex. Ord. No. 13025, Nov. 13, 1996, 61 F.R. 58623; Ex. Ord. No. 13041, Apr. 3, 1997, 62 F.R. 17039; Ex. Ord. No. 13064, Oct. 11, 1997, 62 F.R. 53711; Ex. Ord. No. 13077, Mar. 10, 1998, 63 F.R. 12381, provided:
 
 Certain national infrastructures are so vital that their incapacity or destruction would have a debilitating impact on the defense or economic security of the United States. These critical infrastructures include telecommunications, electrical power systems, gas and oil storage and transportation, banking and finance, transportation, water supply systems, emergency services (including medical, police, fire, and rescue), and continuity of government. Threats to these critical infrastructures fall into two categories: physical threats to tangible property (“physical threats”), and threats of electronic, radio-frequency, or computer-based attacks on the information or communications components that control critical infrastructures (“cyber threats”). Because many of these critical infrastructures are owned and operated by the private sector, it is essential that the government and private sector work together to develop a strategy for protecting them and assuring their continued operation.
 
@@ -1662,7 +1662,11 @@ Sec. 2. <i>The Principals Committee</i>. The Commission shall report to the Pres
 
 (x) Assistant to the President for National Security Affairs;
 
-(xi) Assistant to the Vice President for National Security Affairs.
+(xi) Assistant to the Vice President for National Security Affairs.\[;\]
+
+(xii) Assistant to the President for Economic Policy and Director of the National Economic Council; and
+
+(xiii) Assistant to the President and Director of the Office of Science and Technology Policy.
 
 Sec. 3. <i>The Steering Committee of the President's Commission on Critical Infrastructure Protection</i>. A Steering Committee (“Steering Committee”) shall oversee the work of the Commission on behalf of the Principals Committee. The Steering Committee shall comprise \[sic\] five members. Four of the members shall be appointed by the President, and the fifth member shall be the Chair of the Commission. Two of the members of the Committee shall be employees of the Executive Office of the President. The Steering Committee will receive regular reports on the progress of the Commission's work and approve the submission of reports to the Principals Committee.
 
@@ -1680,9 +1684,9 @@ Sec. 4. <i>Mission</i>. The Commission shall: (a) within 30 days of this order, 
 
 (g) produce reports and recommendations to the Steering Committee as they become available; it shall not limit itself to producing one final report.
 
-Sec. 5. <i>Advisory Committee to the President's Commission on Critical Infrastructure Protection</i>. (a) The Commission shall receive advice from an advisory committee (“Advisory Committee”) composed of no more than 15 individuals appointed by the President from the private sector who are knowledgeable about critical infrastructures. The Advisory Committee shall advise the Commission on the subjects of the Commission's mission in whatever manner the Advisory Committee, the Commission Chair, and the Steering Committee deem appropriate.
+Sec. 5. <i>Advisory Committee to the President's Commission on Critical Infrastructure Protection</i>. (a) The Commission shall receive advice from an advisory committee (“Advisory Committee”) composed of no more than 20 individuals appointed by the President from the private and public sectors who are knowledgeable about critical infrastructures. The Advisory Committee shall advise the Commission on the subjects of the Commission's mission in whatever manner the Advisory Committee, the Commission Chair, and the Steering Committee deem appropriate.
 
-(b) A Chair shall be designated by the President from among the members of the Advisory Committee.
+(b) A Chair or Co-Chairs shall be designated by the President from among the members of the Advisory Committee.
 
 (c) The Advisory Committee shall be established in compliance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.). The Department of Defense shall perform the functions of the President under the Federal Advisory Committee Act for the Advisory Committee, except that of reporting to the Congress, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
@@ -1696,9 +1700,15 @@ Sec. 6. <i>Administration</i>. (a) All executive departments and agencies shall 
 
 (e) In order to augment the expertise of the Commission, the Department of Defense may, at the Commission's request, contract for the services of nongovernmental consultants who may prepare analyses, reports, background papers, and other materials for consideration by the Commission. In addition, at the Commission's request, executive departments and agencies shall request that existing Federal advisory committees consider and provide advice on issues of critical infrastructure protection, to the extent permitted by law.
 
-(f) The Commission, the Principals Committee, the Steering Committee, and the Advisory Committee shall terminate 1 year from the date of this order, unless extended by the President prior to that date.
+(f) The Commission shall terminate 1 year and 90 days from the date of this order, unless extended by the President prior to that date. The Principals Committee, the Steering Committee, and the Advisory Committee shall terminate no later than September 30, 1998, and, upon submission of the Commission's report, shall review the report and prepare appropriate recommendations to the President.
 
-Sec. 7. <i>Interim Coordinating Mission</i>. (a) While the Commission is conducting its analysis and until the President has an opportunity to consider and act on its recommendations, there is a need to increase coordination of existing infrastructure protection efforts in order to better address, and prevent, crises that would have a debilitating regional or national impact. There is hereby established an Infrastructure Protection Task Force (“IPTF”) within the Department of Justice, chaired by the Federal Bureau of Investigation, to undertake this interim coordinating mission.
+(g) The person who served as Chair of the Commission may continue to be a member of the Steering Committee after termination of the Commission.
+
+Sec. 7. <i>Review of Commission's Report</i>. (a) Upon the termination of the Commission as set out in section 6(f) of this order, certain of the Commission's staff may be retained no later than September 30, 1998, solely to assist the Principals, Steering, and Advisory Committees in reviewing the Commission's report and preparing recommendations to the President. They shall act underthe direction of the Steering Committee or its designated agent. The Department of Defense shall continue to provide funding and administrative support for the retained Commission staff.
+
+(b) Pursuant to Executive Order 12958 \[50 U.S.C. 435 note\], I hereby designate the Executive Secretary of the National Security Council to exercise the authority to classify information originally as “Top Secret” with respect to the work of the Commission staff, the Principals Committee, the Steering Committee, the Advisory Committee, and the Infrastructure Protection Task Force.
+
+Sec. 8. <i>Interim Coordinating Mission</i>. (a) While the Commission is conducting its analysis and until the President has an opportunity to consider and act on its recommendations, there is a need to increase coordination of existing infrastructure protection efforts in order to better address, and prevent, crises that would have a debilitating regional or national impact. There is hereby established an Infrastructure Protection Task Force (“IPTF”) within the Department of Justice, chaired by the Federal Bureau of Investigation, to undertake this interim coordinating mission.
 
 (b) The IPTF will not supplant any existing programs or organizations.
 
@@ -1724,7 +1734,7 @@ Sec. 7. <i>Interim Coordinating Mission</i>. (a) While the Commission is conduct
 
 (h) The IPTF shall terminate no later than 180 days after the termination of the Commission, unless extended by the President prior to that date.
 
-Sec. 8. <i>General</i>. (a) This order is not intended to change any existing statutes or Executive orders.
+Sec. 9. <i>General</i>. (a) This order is not intended to change any existing statutes or Executive orders.
 
 (b) This order is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 

@@ -14,7 +14,7 @@ The Secretary is authorized and directed to assist and cooperate with other Fede
 
 #### Effective Date of 1984 Amendment
 
-Section 3(c) of Pub. L. 98–363 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 402 of this title\] shall apply to fiscal years beginning after the date of enactment of this Act \[July 17, 1984\].”
+Section 3(c) of Pub. L. 98–363 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section and section 402 of this title\] shall apply to fiscal years beginning after the date of enactment of this Act \[July 17, 1984\].”
 
 #### Short Title of 1991 Amendment
 
@@ -106,9 +106,9 @@ Demonstration activities.—In conducting the study under paragraph (1), the Sec
 
 “(3)
 
-Cooperative agreement.—The Secretary shall conduct the study under paragraph (1) by entering into a cooperative agreement with an institution that has demonstrated competencies in gerontological research, population demographics, human factors related to transportation, and advanced technology applied to transportation.”
+Cooperative agreement.—The Secretary shall conduct the study under paragraph (1) by entering into a cooperative agreement with an institution that hasdemonstrated competencies in gerontological research, population demographics, human factors related to transportation, and advanced technology applied to transportation.”
 
-Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>) \[title III, §348(h)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation's roads, and\(2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
+Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>) \[title III, §348(h)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation's roads, and (2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
 
 #### Annual Report by Secretary of Transportation on Highway Safety Performance of Each State
 
@@ -140,11 +140,11 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 “(h) For the purpose of carrying out subsections (d), (e), (f), and (g) of this section, there is authorized to be appropriated out of the Highway Trust Fund, $10,000,000, to remain available until expended. None of the amounts authorized by this subsection shall be available for obligation for any education or information program conducted in connection with the implementation of Federal Motor Vehicle Safety Standard 208 (49 C.F.R. 571.208).
 
-“(i) All provisions of chapter 1 of title 23, United States Code, that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that the funds authorized to be appropriated to carry out this section shall not be subject to any obligation limitation.”
+“(i) All provisions of chapter 1 of title 23, United States Code, that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that the funds authorized to be appropriated tocarry out this section shall not be subject to any obligation limitation.”
 
 #### Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations
 
-Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity ofhighway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
+Section 211 of Pub. L. 93–87 directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
 
 #### Highway Safety Citizen Participation Study
 

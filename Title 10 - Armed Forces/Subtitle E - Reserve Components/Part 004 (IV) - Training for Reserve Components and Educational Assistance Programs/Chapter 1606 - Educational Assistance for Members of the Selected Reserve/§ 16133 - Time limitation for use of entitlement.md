@@ -14,17 +14,17 @@
 
 (3) The provisions of section 3031(d) of title 38 shall apply to the period of entitlement prescribed by subsection (a) in the case of a disability incurred in or aggravated by service in the Selected Reserve.
 
-(4)(A) In the case of a member of the Selected Reserve of the Ready Reserve who, during the Persian Gulf War, serves on active duty pursuant to an order to active duty issued under section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title—
+(4) In the case of a member of the Selected Reserve of the Ready Reserve who serves on active duty pursuant to an order to active duty issued under section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title—
 
-&emsp;(i) the period of such active duty service plus four months shall not be considered in determining the expiration date applicable to such member under subsection (a); and
+&emsp;(A) the period of such active duty service plus four months shall not be considered in determining the expiration date applicable to such member under subsection (a); and
 
-&emsp;(ii) the member may not be considered to have been separated from the Selected Reserve for the purposes of clause (2) of such subsection by reason of the commencement of such active duty service.
+&emsp;(B) the member may not be considered to have been separated from the Selected Reserve for the purposes of clause (2) of such subsection by reason of the commencement of such active duty service.
 
-(B) For the purposes of this paragraph, the term “Persian Gulf War” shall have the meaning given such term in section 101(33) of title 38.
-
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 329, §2133; amended Pub. L. 96–107, title IV, §402(b), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title V, §511(70), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–456, div. A, title XII, §1233(g)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 100–689, title I, §111(b)(5), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 102–127, §3, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–484, div. D, title XLIV, §4419(a), Oct. 23, 1992, 106 Stat. 2717; Pub. L. 102–568, title III, §320(a)(2), Oct. 29, 1992, 106 Stat. 4335; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; renumbered §16133 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (5), Oct. 5, 1994, 108 Stat. 3006, 3007.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 329, §2133; amended Pub. L. 96–107, title IV, §402(b), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title V, §511(70), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–456, div. A, title XII, §1233(g)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 100–689, title I, §111(b)(5), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 102–127, §3, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–484, div. D, title XLIV, §4419(a), Oct. 23, 1992, 106 Stat. 2717; Pub. L. 102–568, title III, §320(a)(2), Oct. 29, 1992, 106 Stat. 4335; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; renumbered §16133 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (5), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 105–85, div. A, title V, §553(b), Nov. 18, 1997, 111 Stat. 1748.)
 
 #### Amendments
+
+1997—Subsec. (b)(4). Pub. L. 105–85 struck out “(A)” before “In the case of”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, struck out “, during the Persian Gulf War,” after “Ready Reserve who”, and struck out former subpar. (B) which read as follows: “For the purposes of this paragraph, the term ‘Persian Gulf War’ shall have the meaning given such term in section 101(33) of title 38.”
 
 1994—Pub. L. 103–337, §1663(b)(2), renumbered section 2133 of this title as this section.
 

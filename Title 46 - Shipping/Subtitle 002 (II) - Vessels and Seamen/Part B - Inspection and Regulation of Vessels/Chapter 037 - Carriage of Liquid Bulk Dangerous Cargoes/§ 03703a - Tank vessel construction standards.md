@@ -102,13 +102,45 @@
 
 (d) The operation of barges described in subsection (b)(5) outside waters described in that subsection shall be on any conditions as the Secretary may require.
 
-(Added Pub. L. 101–380, title IV, §4115(a), Aug. 18, 1990, 104 Stat. 517; amended Pub. L. 104–324, title VII, §715, title XI, §1103, Oct. 19, 1996, 110 Stat. 3937, 3966.)
+(e)(1) For the purposes of this section and except as otherwise provided in paragraphs (2) and (3) of this subsection, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on July 1, 1997, as the tonnage measured under section 14502 of this title, or as an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
+
+(2)(A) The Secretary may waive the application of paragraph (1) to a tank vessel if—
+
+&emsp;(i) the owner of the tank vessel applies to the Secretary for the waiver before January 1, 1998;
+
+&emsp;(ii) the Secretary determines that—
+
+&emsp;&emsp;(I) the owner of the tank vessel has entered into a binding agreement to alter the tank vessel in a shipyard in the United States to reduce the gross tonnage of the tank vessel by converting a portion of the cargo tanks of the tank vessel into protectively located segregated ballast tanks; and
+
+&emsp;&emsp;(II) that conversion will result in a significant reduction in the risk of a discharge of oil;
+
+&emsp;(iii) at least 60 days before the date of the issuance of the waiver, the Secretary—
+
+&emsp;&emsp;(I) publishes notice that the Secretary has received the application and made the determinations required by clause (ii), including a description of the agreement entered into pursuant to clause (ii)(I); and
+
+&emsp;&emsp;(II) provides an opportunity for submission of comments regarding the application; and
+
+&emsp;(iv) the alterations referred to in clause (ii)(I) are completed before the later of—
+
+&emsp;&emsp;(I) the date by which the first special survey of the tank vessel is required to be completed after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998; or
+
+&emsp;&emsp;(II) July 1, 1999.
+
+(B) A waiver under subparagraph (A) shall not be effective after the expiration of the 3-year period beginning on the first date on which the tank vessel would have been prohibited by subsection (c) from operating if the alterations referred to in subparagraph (A)(ii)(I) were not made.
+
+(3) This subsection does not apply to a tank vessel that, before July 1, 1997, had undergone, or was the subject of a contract for, alterations that reduce the gross tonnage of the tank vessel, as shown by reliable evidence acceptable to the Secretary.
+
+(Added Pub. L. 101–380, title IV, §4115(a), Aug. 18, 1990, 104 Stat. 517; amended Pub. L. 104–324, title VII, §715, title XI, §1103, Oct. 19, 1996, 110 Stat. 3937, 3966; Pub. L. 105–85, div. C, title XXXVI, §3606, Nov. 18, 1997, 111 Stat. 2077.)
 
 #### References in Text
 
 The Deepwater Port Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
 
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (e)(2)(A)(iv)(I), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+
 #### Amendments
+
+1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
 
 1996—Subsec. (b)(2). Pub. L. 104–324, §715(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons”.
 
@@ -156,5 +188,5 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3715 of this title.
+This section is referred to in section 3715 of this title; title 50 App. section 1744.
 

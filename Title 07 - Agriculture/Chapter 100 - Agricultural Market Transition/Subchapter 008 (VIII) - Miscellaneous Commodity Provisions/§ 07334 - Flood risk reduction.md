@@ -48,7 +48,7 @@ Amounts made available for production flexibility contracts under section 7213 o
 
 #### References in Text
 
-The Agricultural Market Transition Act, referred to in subsecs. (a), (b)(1), and (c), is title I of Pub. L.104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
+The Agricultural Market Transition Act, referred to in subsecs. (a), (b)(1), and (c), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (b)(4), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 

@@ -72,7 +72,7 @@
 
 #### References in Text
 
-Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433(f) by Pub. L. 103–226, §9(b)(2), Mar. 30, 1994, 108 Stat. 119.)
+Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433(f) by Pub. L. 103–226, §9(b)(2), Mar. 30, 1994, 108 Stat. 119.
 
 #### Effective Date
 

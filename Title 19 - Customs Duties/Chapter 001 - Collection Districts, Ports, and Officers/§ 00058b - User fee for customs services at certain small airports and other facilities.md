@@ -64,5 +64,5 @@ Section effective on 15th day after Oct. 30, 1984, see section 214(a), (b) of Pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 58c of this title.
+This section is referred to in sections 58b–1, 58c of this title.
 

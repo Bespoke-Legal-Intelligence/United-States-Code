@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) was not extended on the basis of the regulatory review period for use in non-food-producing animals,
 
-> &emsp;the permission for the commercial marketing or use of the drug or product after the regulatory review period for use in food-producinganimals is the first permitted commercial marketing or use of the drug or product for administration to a food-producing animal.
+> &emsp;the permission for the commercial marketing or use of the drug or product after the regulatory review period for use in food-producing animals is the first permitted commercial marketing or use of the drug or product for administration to a food-producing animal.
 
 > The product referred to in paragraphs (4) and (5) is hereinafter in this section referred to as the “approved product”.
 
@@ -120,7 +120,7 @@
 
 &emsp;(i) in the case of a patent which claims a product, be limited to any use then under regulatory review;
 
-&emsp;(ii) in the case of a patent which claims a method of using a product, be limited to any use claimed by the patent then under regulatory review; and
+&emsp;(ii) in the case of a patent which claims a method of using a product, be limited to anyuse claimed by the patent then under regulatory review; and
 
 &emsp;(iii) in the case of a patent which claims a method of manufacturing a product, be limited to the method of manufacturing as used to make the product then under regulatory review.
 
@@ -148,7 +148,7 @@
 
 &emsp;(4)(A) Any reference to section 351 is a reference to section 351 of the Public Health Service Act.
 
-&emsp;(B) Any reference to section 503, 505, 507, 512, or 515 is a reference to section 503, 505, 507, 512, or 515 of the Federal Food, Drug, and Cosmetic Act.
+&emsp;(B) Any reference to section 503, 505, 512, or 515 is a reference to section 503, 505, 512, or 515 of the Federal Food, Drug, and Cosmetic Act.
 
 &emsp;(C) Any reference to the Virus-Serum-Toxin Act is a reference to the Act of March 4, 1913 (21 U.S.C. 151–158).
 
@@ -166,15 +166,15 @@
 
 &emsp;(B) The regulatory review period for a new drug, antibiotic drug, or human biological product is the sum of—
 
-&emsp;&emsp;(i) the period beginning on the date an exemption under subsection (i) of section 505 or subsection (d) of section 507 became effective for the approved product and ending on the date an application was initially submitted for such drug product under section 351, 505, or 507, and
+&emsp;&emsp;(i) the period beginning on the date an exemption under subsection (i) of section 505 or subsection (d) of section 507 <sup>3</sup> became effective for the approved product and ending on the date an application was initially submitted for such drug product under section 351, 505, or 507,<sup>3</sup> and
 
-&emsp;&emsp;(ii) the period beginning on the date the application was initially submitted for the approved product under section 351, subsection (b) of section 505, or section 507 and ending on the date such application was approved under such section.
+&emsp;&emsp;(ii) the period beginning on the date the application was initially submitted for the approved product under section 351, subsection (b) of section 505, or section 507 <sup>3</sup> and ending on the date such application was approved under such section.
 
 &emsp;(2)(A) In the case of a product which is a food additive or color additive, the term means the period described in subparagraph (B) to which the limitation described in paragraph (6) applies.
 
 &emsp;(B) The regulatory review period for a food or color additive is the sum of—
 
-&emsp;&emsp;(i) the period beginning on the date a major health or environmental effects teston the additive was initiated and ending on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and
+&emsp;&emsp;(i) the period beginning on the date a major health or environmental effects test on the additive was initiated and ending on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and
 
 &emsp;&emsp;(ii) the period beginning on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and ending on the date such regulation became effective or, if objections were filed to such regulation, ending on the date such objections were resolved and commercial marketing was permitted or, if commercial marketing was permitted and later revoked pending further proceedings as a result of such objections, ending on the date such proceedings were finally resolved and commercial marketing was permitted.
 
@@ -220,7 +220,7 @@
 
 (h) The Commissioner may establish such fees as the Commissioner determines appropriate to cover the costs to the Office of receiving and acting upon applications under this section.
 
-(Added Pub. L. 98–417, title II, §201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, §201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987; Pub. L. 103–179, §§5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, §532(c)(1), Dec. 8, 1994, 108 Stat. 4987.)
+(Added Pub. L. 98–417, title II, §201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, §201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987; Pub. L. 103–179, §§5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, §532(c)(1), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 105–115, title I, §125(b)(2)(P), Nov. 21, 1997, 111 Stat. 2326.)
 
 #### References in Text
 
@@ -230,7 +230,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii),
 
 The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i) and (f)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-Sections 503, 505, 507, 512, and 515 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B) and (g)(1)(B)(i), (ii), (3)(B)(i), (ii), are classified, respectively, to sections 353, 355, 357, 360b, and 360e of Title 21, Food and Drugs.
+Sections 503, 505, 512, and 515 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B) and (g)(1)(B), (3)(B), are classified, respectively, to sections 353, 355, 360b, and 360e of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to section 357 of Title 21, prior to repeal by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
 
 Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(5), which is classified to section 321 of Title 21, was subsequently amended, and section 201(y) no longer defines the term “informal hearing”. However, such term is defined elsewhere in that section.
 
@@ -241,6 +241,8 @@ The date of enactment of the Generic Animal Drug and Patent Term Restoration Act
 The date of the enactment of this section, referred to in subsec. (g)(6), is the date of the enactment of Pub. L. 98–417, which was approved Sept. 24, 1984.
 
 #### Amendments
+
+1997—Subsec. (f)(4)(B). Pub. L. 105–115, §125(b)(2)(P), struck out “507,” after “505,” in two places.
 
 1994—Subsec. (a)(2). Pub. L. 103–465 inserted “under subsection (e)(1) of this section” after “extended”.
 
@@ -288,7 +290,7 @@ Subsec. (f)(1)(A). Pub. L. 100–670, §201(g)(1), struck out “human” before
 
 Subsec. (f)(2). Pub. L. 100–670, §201(g)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘human drug product’ means the active ingredient of a new drug, antibiotic drug, or human biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act) including any salt or ester of the active ingredient, as a single entity or in combination with another active ingredient.”
 
-Subsec. (f)(4)(B), (C). Pub. L. 100–670, §201(g)(2), which directed general amendment of subpars. (B) and (C) of par. (4), was executed by amending subpar. (B) generally, and adding subpar. (C) as probable intent of Congress in light of absence of subpar. (C) in par. (4). Prior to amendment, subpar. (B) read as follows: “Any reference to section 503, 505, 507, or 515 is a reference to section 503, 505, 507, or 515 of the Federal Food, Drug, and Cosmetic Act.”
+Subsec. (f)(4)(B), (C). Pub. L. 100–670, §201(g)(2), which directed general amendment of subpars. (B) and (C) of par. (4), was executed by amending subpar. (B) generally, and adding subpar. (C) as probable intent of Congress in light of absence of subpar. (C) in par. (4). Priorto amendment, subpar. (B) read as follows: “Any reference to section 503, 505, 507, or 515 is a reference to section 503, 505, 507, or 515 of the Federal Food, Drug, and Cosmetic Act.”
 
 Subsec. (f)(7), (8). Pub. L. 100–670, §201(g)(3), added pars. (7) and (8).
 

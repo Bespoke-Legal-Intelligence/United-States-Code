@@ -14,7 +14,7 @@ The Secretary is authorized to construct and maintain markers and other interpre
 
 #### (d) Additional roads
 
-The study specified in subsection (a) of this section shall designate what additional roads are appropriate and necessary for full utilizationof the area for the purposes of this subchapter and to connect with all roads of ingress to, and egress from the recreation area.
+The study specified in subsection (a) of this section shall designate what additional roads are appropriate and necessary for full utilization of the area for the purposes of this subchapter and to connect with all roads of ingress to, and egress from the recreation area.
 
 #### (e) Report to Congress
 

@@ -22,7 +22,7 @@
 
 #### (b) Appointment and terms
 
-(1) Except as provided in paragraphs (2) and (3), the term of office of a member of the Council appointed under subsections (a)(1)(C) and (a)(1)(D) of this section is three years.
+(1) Except as provided in paragraphs (2) and (3), the term of office of a member of the Councilappointed under subsections (a)(1)(C) and (a)(1)(D) of this section is three years.
 
 (2) Of the Council members first appointed under subsection (a)(1)(C) of this section after December 13, 1989, one shall be appointed for a term of one year, one shall be appointed for a term of two years, and two shall be appointed for a term of three years.
 

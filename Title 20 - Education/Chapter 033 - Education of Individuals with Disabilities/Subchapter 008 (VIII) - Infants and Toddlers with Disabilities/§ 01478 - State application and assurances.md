@@ -48,6 +48,10 @@ No State may receive a grant under section 1473 of this title unless the Secreta
 
 (Pub. L. 91–230, title VI, §678, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1150; amended Pub. L. 100–630, title I, §108(g), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(177), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§15, 25(b), Oct. 7, 1991, 105 Stat. 597, 607.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, provided that, effective July 1, 1998, this section is repealed.</i>
+
 #### Amendments
 
 1991—Pub. L. 102–119, §25(b), amended directory language of Pub. L. 101–476. See 1990 Amendment note below.

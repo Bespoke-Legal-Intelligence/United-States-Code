@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [1031\.](%C2%A7%2001031%20-%20Administration%20of%20oath.md) | Administration of oath. |
 | [1032\.](%C2%A7%2001032%20-%20Disability%20and%20death%20compensation%20dependents%20of%20members%20held%20as%20captives.md) | Disability and death compensation: dependents of members held as captives. |
-| \[1033. | Repealed.\] |
+| [1033\.](%C2%A7%2001033%20-%20Participation%20in%20management%20of%20specified%20non-Federal%20entities%20authorized%20activities.md) | Participation in management of specified non-Federal entities: authorized activities. |
 | [1034\.](%C2%A7%2001034%20-%20Protected%20communications%3B%20prohibition%20of%20retaliatory%20personnel%20actions.md) | Protected communications; prohibition of retaliatory personnel actions. |
 | [1035\.](%C2%A7%2001035%20-%20Deposits%20of%20savings.md) | Deposits of savings. |
 | [1036\.](%C2%A7%2001036%20-%20Escorts%20for%20dependents%20of%20members%20transportation%20and%20travel%20allowances.md) | Escorts for dependents of members: transportation and travel allowances. |
@@ -40,6 +40,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §593(a)(2), Nov. 18, 1997, 111 Stat. 1763, added item 1033.
 
 1996—Pub. L. 104–106, div. A, title VII, §749(a)(2), Feb. 10, 1996, 110 Stat. 389, added item 1044c.
 
@@ -110,7 +112,7 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 - [&sect; 01031 - Administration of oath](%C2%A7%2001031%20-%20Administration%20of%20oath.md)
 - [&sect; 01032 - Disability and death compensation dependents of members held as captives](%C2%A7%2001032%20-%20Disability%20and%20death%20compensation%20dependents%20of%20members%20held%20as%20captives.md)
-- [&sect; 01033 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1662(g)(2), Oct. 5, 1994, 108 Stat. 2996](%C2%A7%2001033%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71662%28g%29%282%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202996.md)
+- [&sect; 01033 - Participation in management of specified non-Federal entities authorized activities](%C2%A7%2001033%20-%20Participation%20in%20management%20of%20specified%20non-Federal%20entities%20authorized%20activities.md)
 - [&sect; 01034 - Protected communications; prohibition of retaliatory personnel actions](%C2%A7%2001034%20-%20Protected%20communications%3B%20prohibition%20of%20retaliatory%20personnel%20actions.md)
 - [&sect; 01035 - Deposits of savings](%C2%A7%2001035%20-%20Deposits%20of%20savings.md)
 - [&sect; 01036 - Escorts for dependents of members transportation and travel allowances](%C2%A7%2001036%20-%20Escorts%20for%20dependents%20of%20members%20transportation%20and%20travel%20allowances.md)

@@ -554,6 +554,12 @@ Compensation.—If the Secretary makes a determination under subsection (b) that
 
 #### Consent to Amendment of Hawaiian Homes Commission Act, 1920
 
+Pub. L. 105–21, June 27, 1997, 111 Stat. 235, provided: “That, as required by section 4 of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 (73 Stat. 4) \[set out as a note above\], the United States consents to the following amendments to the Hawaiian Homes Commission Act, 1920, adopted by the State of Hawaii in the manner required for State legislation:
+
+&emsp;“(1) Act 339 of the Session Laws of Hawaii, 1993.
+
+&emsp;“(2) Act 37 of the Session Laws of Hawaii, 1994.”
+
 Pub. L. 102–398, Oct. 6, 1992, 106 Stat. 1953, provided: “That, as required by section 4 of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 (73 Stat. 4) \[set out as a note above\], the United States hereby consents to the following amendments to the Hawaiian Homes Commission Act, 1920, as amended, adopted by the State of Hawaii in the manner required for State legislation:
 
 &emsp;“Act 16 of Session Laws of Hawaii, 1986;
@@ -664,7 +670,7 @@ Sec. 13. \[Criminal Code; amendments.\] (a) Title 18, United States Code, sectio
 
 Sec. 14. \[Education.\] (a)(1) Subsection (a) of section 103 of the National Defense Education Act of 1958, relating to definition of State, is amended by striking out ‘Hawaii,’ each time it appears therein.
 
-“(2)(A) Paragraph (2), and subparagraph (C) of paragraph (3), of subsection (a) of section 302 of such Act, relating to allotments for science, mathematics, and foreign language instruction equipment, are each amended by striking out ‘continental United States’ each time it appears therein and inserting in lieu thereof ‘United States’.
+“(2)(A) Paragraph (2), and subparagraph (C) of paragraph (3), of subsection (a) of section 302 of such Act, relating to allotments for science, mathematics, and foreign language instruction equipment, are eachamended by striking out ‘continental United States’ each time it appears therein and inserting in lieu thereof ‘United States’.
 
 “(B) Effective in the case of promulgations of allotment ratios made, under section 302 of such Act, after enactment of this Act and before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska, subparagraph B of such paragraph (3) is amended to read:
 
@@ -722,7 +728,7 @@ Sec. 17. \[Highways.\] (a) The definition of the term ‘State’ in title 23, U
 
 “(d) Notwithstanding any other provision of law, for the purpose of expediting the construction, reconstruction, or improvement, inclusive of necessary bridges and tunnels, of the Interstate System, including extensions thereof through urban areas, designated in accordance with section 103(d) of title 23, United States Code, as amended by section 1 of this Act, the sum of $12,375,000 shall be apportioned to the State of Hawaii out of the sum authorized to be appropriated for the Interstate System for the fiscal year ending June 30, 1962, under the provisions of section 108(b) of the Federal-Aid Highway Act of 1956 (70 Stat. 374), as amended by section 7(a) of the Federal-Aid Highway Act of 1958 (72 Stat. 89), such apportionment to be made at the same time such funds are apportioned to other States. The total sum to be apportioned under section 104(b)(5) of title 23, United States Code, for the fiscal year ending June 30, 1962, among the States other than Hawaii, shall be reduced by said sum apportioned to the State of Hawaii under this section. The Secretary of Commerce shall apportion funds to the State of Hawaii for the Interstate System for the fiscal year 1963 and subsequent fiscal years pursuant to the provisions of said section 104(b)(5) of title 23, United States Code, and, in preparing the estimates required by that section, he shall take into account the apportionment made to the State of Hawaii under this section.
 
-“(e) Section 127 of title 23, United States Code, is amended by adding at the end thereof the following sentence: ‘With respect to the State of Hawaii, laws or regulations in effect on February 1, 1960, shall be applicable for the purposes of this section in lieu of those in effect on July 1, 1956.’
+“(e) Section 127 of title 23, United States Code, is amended by adding at the end thereof the following sentence: ‘With respect to the State of Hawaii, laws orregulations in effect on February 1, 1960, shall be applicable for the purposes of this section in lieu of those in effect on July 1, 1956.’
 
 “
 
@@ -730,7 +736,7 @@ Sec. 18. \[Internal Revenue.\] (a) Section 4262(c)(1) of the Internal Revenue Co
 
 &emsp;“ ‘(1) Continental United States.—The term “continental United States” means the District of Columbia and the States other than Alaska and Hawaii.’
 
-“(b) Section 2202 of the Internal Revenue Code of 1986 (relating to missionaries in foreign service) is amendedby striking out ‘the State, the District of Columbia, or Hawaii’ and inserting in lieu thereof ‘the State or the District of Columbia’.
+“(b) Section 2202 of the Internal Revenue Code of 1986 (relating to missionaries in foreign service) is amended by striking out ‘the State, the District of Columbia, or Hawaii’ and inserting in lieu thereof ‘the State or the District of Columbia’.
 
 “(c) Section 3121(e)(1) of the Internal Revenue Code of 1986 (relating to a special definition of ‘State’) is amended by striking out ‘Hawaii,’.
 
@@ -822,7 +828,7 @@ Sec. 27. \[Federal Property and Administrative Services Act; amendment.\] The Fe
 
 &emsp;“(b) striking out the words ‘continental United States, its Territories, and possessions’ in section 211(j) and inserting in lieu thereof the words ‘States of the Union, the District of Columbia, Puerto Rico, and the possessions of the United States’;
 
-&emsp;“(c) striking out the words ‘continental limits of the United States’ in section 404(c) and inserting inlieu thereof the words ‘States of the Union and the District of Columbia’; and
+&emsp;“(c) striking out the words ‘continental limits of the United States’ in section 404(c) and inserting in lieu thereof the words ‘States of the Union and the District of Columbia’; and
 
 &emsp;“(d) striking out the words ‘and the Territory of Hawaii’ in section 702(a).
 
@@ -894,7 +900,7 @@ Sec. 32. \[Congressional Record.\] Section 73 of the Act of January 12, 1895 (28
 
 “
 
-Sec. 33. \[Federal Register.\] Section 8 of the Federal Register Act (49 Stat. 502), as amended, is further amended by striking out the words ‘continental United States (including Alaska)’ and inserting in lieu thereof the words ‘States of the Union and the District of Columbia’ \[Repealed by Pub. L. 90–620, §3, Oct. 22, 1968, 82 Stat. 1310\].
+Sec. 33. \[Federal Register.\] Section 8 of the Federal Register Act (49 Stat. 502), as amended, is further amended by striking out the words ‘continental UnitedStates (including Alaska)’ and inserting in lieu thereof the words ‘States of the Union and the District of Columbia’ \[Repealed by Pub. L. 90–620, §3, Oct. 22, 1968, 82 Stat. 1310\].
 
 “
 
@@ -1018,7 +1024,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 IN WITNESS WHEREOF, I have hereunto set my hand and caused the Seal of the United States of America to be affixed.
 
-&nbsp;DONE at the City of Washington at four p.m. E.D.T. on this twenty-first day of August in the year of our Lord nineteen hundred and fifty-nine, and of the Independence of the United States of America the one hundred and eighty-fourth.
+&nbsp;DONE at the City of Washington at four p.m. E.D.T. on this twenty-first day of August in the year of our Lord nineteen hundred and fifty-nine, andof the Independence of the United States of America the one hundred and eighty-fourth.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1034,7 +1040,7 @@ By virtue of the authority vested in me by section 48 of the Hawaii Omnibus Act 
 
 #### Part I—Wake Island
 
-Section 101. The Secretary of the Interior shall be responsible for the civil administration of Wake Islandand all executive and legislative authority necessary for that administration, and all judicial authority respecting Wake Island other than the authority contained in the act of June 15, 1950 (64 Stat. 217), as amended (48 U.S.C. 644a), shall be vested in the Secretary of the Interior.
+Section 101. The Secretary of the Interior shall be responsible for the civil administration of Wake Island and all executive and legislative authority necessary for that administration, and all judicial authority respecting Wake Island other than the authority contained in the act of June 15, 1950 (64 Stat. 217), as amended (48 U.S.C. 644a), shall be vested in the Secretary of the Interior.
 
 Sec. 102. The executive, legislative, and judicial authority provided for in section 101 of this order (1) may be exercised through such agency or agencies of the Department of the Interior, or through such officers or employees under the jurisdiction of the Secretary of the Interior, as the Secretary may direct or authorize, (2) may be exercised through such agency or agencies, other than or not in the Department of the Interior, or through such officers or employees of the United States not under the administrative supervision of the Secretary, for such time and under such conditions as may be agreed upon between the Secretary and such agency, agencies, officers or employees of the United States, and (3) shall be exercised in such manner as the Secretary, or any person or persons acting under the authority of the Secretary, may direct or authorize.
 

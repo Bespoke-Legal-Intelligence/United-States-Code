@@ -6,7 +6,7 @@
 
 &emsp;(A) leading to the arrest or conviction, in any country, of any individual for the commission of an act of international terrorism, or
 
-&emsp;(B) leading to the arrest or conviction, in any country, of any individual for conspiringor attempting to commit an act of international terrorism, or
+&emsp;(B) leading to the arrest or conviction, in any country, of any individual for conspiring or attempting to commit an act of international terrorism, or
 
 &emsp;(C) leading to the prevention, frustration, or favorable resolution of an act of international terrorism,
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) the killing or kidnapping outside the territorial jurisdiction of the United States of—
 
-&emsp;&emsp;&emsp;(I) any officer, employee, or contract employee of the United States Government while such individual is engaged in official duties, or on account of that individual's official duties, in connection with the enforcement of United States drug laws or the implementing of United States drug control objectives; or
+&emsp;&emsp;&emsp;(I) any officer, employee, or contract employee of the United States Governmentwhile such individual is engaged in official duties, or on account of that individual's official duties, in connection with the enforcement of United States drug laws or the implementing of United States drug control objectives; or
 
 &emsp;&emsp;&emsp;(II) a member of the immediate family of any such individual on account of that individual's official duties in connection with the enforcement of United States drug laws or the implementation of United States drug control objectives; or
 
@@ -86,11 +86,11 @@ As used in this section—
 
 &emsp;&emsp;(C) any other person living in the individual's household and related to the individual by blood or marriage.
 
-(Aug. 1, 1956, ch. 841, title I, §36, as added Oct. 19, 1984, Pub. L. 98–533, title I, §102, 98 Stat. 2708; amended Aug. 27, 1986, Pub. L. 99–399, title V, §502, 100 Stat. 869; Nov. 18, 1988, Pub. L. 100–690, title IV, §4602, 102 Stat. 4287; Dec. 13, 1989, Pub. L. 101–231, §13(a), 103 Stat. 1963; Feb. 16, 1990, Pub. L. 101–246, title X, §1001, 104 Stat. 86; Apr. 30, 1994, Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, 108 Stat. 395, 519; Apr. 26, 1996, Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], 110 Stat. 1321, 1321–45; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.)
+(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (i), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (i), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat.1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Prior Provisions
 

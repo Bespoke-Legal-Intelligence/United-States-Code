@@ -16,7 +16,7 @@
 
 #### (3) Allotment formula
 
-&emsp;Except as provided in paragraph (4), from the amount available under paragraph (2)(B) for each fiscal year, a State shall be allottedan amount that bears the same ratio to the amount appropriated for such fiscal year as the population of the State that is under the age of 21 bears to the population of all States that is under the age of 21.
+&emsp;Except as provided in paragraph (4), from the amount available under paragraph (2)(B) for each fiscal year, a State shall be allotted an amount that bears the same ratio to the amount appropriated for such fiscal year as the population of the State that is under the age of 21 bears to the population of all States that is under the age of 21.
 
 #### (4) Exceptions
 
@@ -26,7 +26,7 @@
 
 #### (B) Limitation on allotment
 
-&emsp;&emsp;Notwithstanding subparagraph (A), Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than $75,000 under the formula established under paragraph (2).
+&emsp;&emsp;Notwithstanding subparagraph (A), Guam, the Virgin Islands, the Trust Territory ofthe Pacific Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands shall each be allotted not less than $75,000 under the formula established under paragraph (2).
 
 #### (b) Determination of age
 

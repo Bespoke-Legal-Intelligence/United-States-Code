@@ -42,7 +42,7 @@ Not later than 1 year after December 21, 1995, and thereafter as part of the rep
 
 #### Codification
 
-December 21, 1995, referred to in subsec. (d), was in the original “the date of enactment of this subsection”, which was translated as meaning the date of enactment of Pub. L. 104–66, which amended subsec. (d) generally, to reflect the probable intent of Congress.
+December 21, 1995, referred to in subsec. (d), was in the original “the date of enactment of this subsection”, which was translated as meaning the date of enactmentof Pub. L. 104–66, which amended subsec. (d) generally, to reflect the probable intent of Congress.
 
 #### Amendments
 

@@ -8,7 +8,7 @@ Alaska constitutes one judicial district.
 
 #### Amendments
 
-1959—Pub. L. 86–70 inserted “Ketchikan,”.
+<b>1959</b>—Pub. L. 86–70 inserted “Ketchikan,”.
 
 #### Effective Date of 1959 Amendment
 
@@ -18,7 +18,7 @@ Section 12 of Pub. L. 85–508 provided in part that this section, and the amend
 
 Section 13 of Pub. L. 85–508 provided that: “No writ, action, indictment, cause, or proceeding pending in the District Court for the Territory of Alaska on the date when said Territory shall become a State, and no case pending in an appellate court upon appeal from the District Court for the Territory of Alaska at the time said Territory shall become a State, shall abate by the admission of the State of Alaska into the Union, but the same shall be transferred and proceeded with as hereinafter provided.
 
-“All civil causes of action and all criminal offenses which shall have arisen or been committed prior to the admission of said State, but as to which no suit, action, or prosecution shall be pending at the date of such admission, shall be subject to prosecution in the appropriate State courts or in the United States District Court for the District of Alaska in like manner, to the same extent, and with like right of appellate review, as if said State had been created and said courts had been established prior to the accrual of said causes of action or the commission of such offenses; and such of said criminal offenses as shall have been committed against the laws of the Territory shall be tried and punished by the appropriate courts of said State, and such as shall have been committed against the laws of the United States shall be tried and punished in the United States District Court for the District of Alaska.”
+“All civil causes of action and all criminal offenses which shall have arisen or been committed prior to the admission of said State, but as to which no suit, action, or prosecution shall be pending at the date of such admission, shall be subject to prosecution in the appropriate State courts or in the United States District Court for the District of Alaska in like manner, to the same extent, and with like right of appellate review, as if said State had been created and said courts had been established prior to the accrual of said causes of action or the commission of such offenses; and such of said criminal offenses as shall have been committed againstthe laws of the Territory shall be tried and punished by the appropriate courts of said State, and such as shall have been committed against the laws of the United States shall be tried and punished in the United States District Court for the District of Alaska.”
 
 #### Appeals
 
@@ -26,7 +26,7 @@ Section 14 of Pub. L. 85–508 provided that: “All appeals taken from the Dist
 
 #### Transfer of Cases
 
-Section 15 of Pub. L. 85–508 provided that: “All causes pending or determined in the District Court for theTerritory of Alaska at the time of the admission of Alaska as a State which are of such nature as to be within the jurisdiction of a district court of the United States shall be transferred to the United States District Court for the District of Alaska for final disposition and enforcement in the same manner as is now provided by law with reference to the judgments and decrees in existing United States district courts. All other causes pending or determined in the District Court for the Territory of Alaska at the time of the admission of Alaska as a State shall be transferred to the appropriate State court of Alaska. All final judgments and decrees rendered upon such transferred cases in the United States District Court for the District of Alaska may be reviewed by the Supreme Court of the United States or by the United States Court of Appeals for the Ninth Circuit in the same manner as is now provided by law with reference to the judgments and decrees in existing United States district courts.”
+Section 15 of Pub. L. 85–508 provided that: “All causes pending or determined in the District Court for the Territory of Alaska at the time of the admission of Alaska as a State which are of such nature as to be within the jurisdiction of a district court of the United States shall be transferred to the United States District Court for the District of Alaska for final disposition and enforcement in the same manner as is now provided by law with reference to the judgments and decrees in existing United States district courts. All other causes pending or determined in the District Court for the Territory of Alaska at the time of the admission of Alaska as a State shall be transferred to the appropriate State court of Alaska. All final judgments and decrees rendered upon such transferred cases in the United States District Court for the District of Alaska may be reviewed by the Supreme Court of the United States or by the United States Court of Appeals for the Ninth Circuit in the same manner as is now provided by law with reference to the judgments and decrees in existing United States district courts.”
 
 #### Succession of Courts
 

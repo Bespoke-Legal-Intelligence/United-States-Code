@@ -10,7 +10,7 @@ Interagency Coordination and Support.—Any such activity shall—
 
 &emsp;(1) be coordinated with, and (where appropriate) be supported by, the Director of Central Intelligence; and
 
-&emsp;(2) to the extent the activity takes place within the United States, be coordinated with,and (where appropriate) be supported by, the Director of the Federal Bureau of Investigation.
+&emsp;(2) to the extent the activity takes place within the United States, be coordinated with, and (where appropriate) be supported by, the Director of the Federal Bureau of Investigation.
 
 (c)
 

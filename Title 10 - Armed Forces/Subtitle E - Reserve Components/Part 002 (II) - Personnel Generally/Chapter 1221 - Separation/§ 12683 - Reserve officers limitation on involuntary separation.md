@@ -6,17 +6,33 @@
 
 &emsp;(2) by the approved sentence of a court-martial.
 
-(b) Subsection (a) does not apply—
+(b) Subsection (a) does not apply to any of the following:
 
-&emsp;(1) to a separation under section 12684, 14901, or 14907 of this title;
+&emsp;(1) A separation under section 12684, 14901, or 14907 of this title.
 
-&emsp;(2) to a dismissal under section 1161(a) of this title; or
+&emsp;(2) A dismissal under section 1161(a) of this title.
 
-&emsp;(3) to a transfer under section 12213, 12214, 14514, or 14515 of this title.
+&emsp;(3) A transfer under section 12213, 12214, 14514, or 14515 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(i)(1), Oct. 5, 1994, 108 Stat. 2997.)
+&emsp;(4) A separation of an officer who is in an inactive status in the Standby Reserve and who is not qualified for transfer to the Retired Reserve or is qualified for transfer to the Retired Reserve and does not apply for such a transfer.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1662(i)(1), Oct. 5, 1994, 108 Stat. 2997; amended Pub. L. 105–85, div. A, title V, §516, Nov. 18, 1997, 111 Stat. 1733.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 1163(a) of this title, prior to repeal by Pub. L. 103–337, §1662(i)(2).
+
+#### Amendments
+
+1997—Subsec. (b). Pub. L. 105–85, §516(a)(1), substituted “apply to any of the following:” for “apply—” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 105–85, §516(b)(1), (2), substituted “A” for “to a” and “title.” for “title;”.
+
+Subsec. (b)(2). Pub. L. 105–85, §516(b)(3), which directed substitution of a period for “; and” at end of par. (2), was executed by making the substitution for “; or” at end of par. (2) to reflect the probable intent of Congress.
+
+Pub. L. 105–85, §516(b)(1), substituted “A” for “to a”.
+
+Subsec. (b)(3). Pub. L. 105–85, §516(b)(1), substituted “A” for “to a”.
+
+Subsec. (b)(4). Pub. L. 105–85, §516(a)(2), added par. (4).
 

@@ -58,7 +58,7 @@ The Director shall make grants under subsection (a) of this section to support o
 
 (1) In order for an applicant to be eligible to receive a grant under subsection (a) of this section, such applicant shall demonstrate to the Director that such grant will be used to increase the total number of volunteers supported by such applicant.
 
-(2) Funds made available under subsection (d) of this section shall be used to supplement and not supplant the number of volunteers engagedin activities under parts A, B, and C of this subchapter (without regard to this section) addressing the problem for which such funds are awarded unless such sums are an extension of funds previously provided under this section.
+(2) Funds made available under subsection (d) of this section shall be used to supplement and not supplant the number of volunteers engaged in activities under parts A, B, and C of this subchapter (without regard to this section) addressing the problem for which such funds are awarded unless such sums are an extension of funds previously provided under this section.
 
 #### (d) Amount of funds available for grants
 

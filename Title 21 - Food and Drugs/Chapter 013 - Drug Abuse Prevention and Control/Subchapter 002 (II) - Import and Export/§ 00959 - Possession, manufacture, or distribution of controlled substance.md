@@ -1,0 +1,42 @@
+### §959. Possession, manufacture, or distribution of controlled substance
+
+#### (a) Manufacture or distribution for purpose of unlawful importation
+
+It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or listed chemical—
+
+&emsp;(1) intending that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States; or
+
+&emsp;(2) knowing that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States.
+
+#### (b) Possession, manufacture, or distribution by person on board aircraft
+
+It shall be unlawful for any United States citizen on board any aircraft, or any person on board an aircraft owned by a United States citizen or registered in the United States, to—
+
+&emsp;(1) manufacture or distribute a controlled substance or listed chemical; or
+
+&emsp;(2) possess a controlled substance or listed chemical with intent to distribute.
+
+#### (c) Acts committed outside territorial jurisdiction of United States; venue
+
+This section is intended to reach acts of manufacture or distribution committed outside theterritorial jurisdiction of the United States. Any person who violates this section shall be tried in the United States district court at the point of entry where such person enters the United States, or in the United States District Court for the District of Columbia.
+
+(Pub. L. 91–513, title III, §1009, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 99–570, title III, §3161(a), Oct. 27, 1986, 100 Stat. 3207–94; Pub. L. 104–237, title I, §102(a), (b), Oct. 3, 1996, 110 Stat. 3100; Pub. L. 104–305, §2(b)(2)(A), Oct. 13, 1996, 110 Stat. 3807.)
+
+#### References in Text
+
+Schedules I and II, referred to in subsec. (a), are set out in section 812(c) of this title.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–305 inserted “or flunitrazepam” after “schedule I or II” in introductory provisions.
+
+Pub. L. 104–237, §102(a), inserted “or listed chemical” after “schedule I or II” in introductory provisions and “or chemical” after “substance” in pars. (1) and (2).
+
+Subsec. (b). Pub. L. 104–237, §102(b), inserted “or listed chemical” after “controlled substance” in pars. (1) and (2).
+
+1986—Pub. L. 99–570 designated first sentence as subsec. (a) and inserted “or into waters within a distance of 12 miles of the coast of the United States” in pars. (1) and (2), added subsec. (b), and designated last two sentences as subsec. (c).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 960 of this title; title 18 sections 5032, 5038; title 28 section 994.
+

@@ -2,7 +2,7 @@
 
 As used in this chapter:
 
-The words “war material” include arms, armament, ammunition, livestock, forage, forest products and standing timber, stores of clothing, air, water, food, foodstuffs, fuel, supplies,munitions, and all articles, parts or ingredients, intended for, adapted to, or suitable for the use of the United States or any associate nation, in connection with the conduct of war or defense activities.
+The words “war material” include arms, armament, ammunition, livestock, forage, forest products and standing timber, stores of clothing, air, water, food, foodstuffs, fuel, supplies, munitions, and all articles, parts or ingredients, intended for, adapted to, or suitable for the use of the United States or any associate nation, in connection with the conduct of war or defense activities.
 
 The words “war premises” include all buildings, grounds, mines, or other places wherein such war material is being produced, manufactured, repaired, stored, mined, extracted, distributed, loaded, unloaded, or transported, together with all machinery and appliances therein contained; and all forts, arsenals, navy yards, camps, prisons, or other installations of the Armed Forces of the United States, or any associate nation.
 

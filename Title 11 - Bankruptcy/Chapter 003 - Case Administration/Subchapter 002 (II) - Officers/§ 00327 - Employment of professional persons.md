@@ -38,7 +38,7 @@ Subsection (e) permits the trustee, subject to the court's approval, to employ f
 
 #### house report no. 95–595
 
-Subsection (c) is an additional exception. The trustee may employ as his counsel a nondisinterested person ifthe only reason that the attorney is not disinterested is because of his representation of an unsecured creditor.
+Subsection (c) is an additional exception. The trustee may employ as his counsel a nondisinterested person if the only reason that the attorney is not disinterested is because of his representation of an unsecured creditor.
 
 #### Amendments
 

@@ -8,7 +8,7 @@
 
 (b) Notwithstanding the provisions of law referred to in subsection (a)(1) of this section, an employee shall not be entitled to be compensated for credit hours worked except to the extent authorized under section 6126 of this title or to the extent such employee is allowed to have such hours taken into account with respect to the employee's basic work requirement.
 
-(c)(1) Notwithstanding section 5545(a) of this title, premium pay for nightwork will not bepaid to an employee otherwise subject to such section solely because the employee elects to work credit hours, or elects a time of arrival or departure, at a time of day for which such premium pay is otherwise authorized, except that—
+(c)(1) Notwithstanding section 5545(a) of this title, premium pay for nightwork will not be paid to an employee otherwise subject to such section solely because the employee elects to work credit hours, or elects a time of arrival or departure, at a time of day for which such premium pay is otherwise authorized, except that—
 
 &emsp;(A) if an employee is on a flexible schedule under which—
 

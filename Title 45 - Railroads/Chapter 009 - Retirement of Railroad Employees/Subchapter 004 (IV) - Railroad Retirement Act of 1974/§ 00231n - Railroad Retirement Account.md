@@ -58,7 +58,7 @@ There are hereby authorized to be appropriated from time to time such sums as ma
 
 (4) A benefit check bearing a current date may be issued to an individual who did not negotiate the original benefit check and who surrenders such check for cancellation if the Secretary of the Treasury determines it is necessary to effect proper payment of benefits.
 
-(Aug. 29, 1935, ch. 812, §15, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I, §101, 88 Stat. 1346; amended Aug. 9, 1975, Pub. L. 94–92, title II, §201(a)–(d), 89 Stat. 464, 465; Oct. 18, 1976, Pub. L. 94–547, §3(a), 90 Stat. 2525; Aug. 13, 1981, Pub. L. 97–34, title VII, §742, 95 Stat. 348; Aug. 13, 1981, Pub. L. 97–35, title XI, §§1124, 1127(a), 95 Stat. 639, 641; Aug. 12, 1983, Pub. L. 98–76, title III, §301(b), title IV, §§401(a), 417(a), 97 Stat. 431, 433, 437.)
+(Aug. 29, 1935, ch. 812, §15, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1346; amended Pub. L. 94–92, title II, §201(a)–(d), Aug. 9, 1975, 89 Stat. 464, 465; Pub. L. 94–547, §3(a), Oct. 18, 1976, 90 Stat. 2525; Pub. L. 97–34, title VII, §742, Aug. 13, 1981, 95 Stat. 348; Pub. L. 97–35, title XI, §§1124, 1127(a), Aug. 13, 1981, 95 Stat. 639, 641; Pub. L. 98–76, title III, §301(b), title IV, §§401(a), 417(a), Aug. 12, 1983, 97 Stat. 431, 433, 437.)
 
 #### References in Text
 

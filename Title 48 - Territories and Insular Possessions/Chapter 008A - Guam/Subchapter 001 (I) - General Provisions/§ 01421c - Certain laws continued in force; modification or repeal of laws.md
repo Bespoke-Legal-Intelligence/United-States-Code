@@ -4,11 +4,11 @@
 
 (b) Repealed. Pub. L. 90–497, §7, Sept. 11, 1968, 82 Stat. 847.
 
-(Aug. 1, 1950, ch. 512, §25, 64 Stat. 390; Sept. 11, 1968, Pub. L. 90–497, §7, 82 Stat. 847.)
+(Aug. 1, 1950, ch. 512, §25, 64 Stat. 390; Pub. L. 90–497, §7, Sept. 11, 1968, 82 Stat. 847.)
 
 #### Amendments
 
-1968—Subsec. (b). Pub. L. 90–497 repealed subsec. (b) which prohibited the application to Guam of laws of the United States not specifically made applicable to Guam and established a commission to determine which laws were applicable to Guam and which were not.
+1968—Subsec. (b). Pub. L. 90–497 repealed subsec. (b) which prohibited the application to Guam of laws of the United States not specifically made applicable toGuam and established a commission to determine which laws were applicable to Guam and which were not.
 
 #### Effective Date of 1968 Amendment
 

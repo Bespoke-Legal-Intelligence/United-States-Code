@@ -21,7 +21,7 @@
 | (a) | In general. |
 | (b) | Exceptions. |
 | (c) | Application of term Federal means-tested public benefit. |
-| (d) | Special rule for refugee and entrant assistance for Cuban and Haitian entrants. |
+| (d) | SSI and medicaid benefits for certain Indians. |
 | [1614\.](Subchapter%20001%20%28I%29%20-%20Eligibility%20for%20Federal%20Benefits/%C2%A7%2001614%20-%20Notification%20and%20information%20reporting.md) | Notification and information reporting. |
 | [1615\.](Subchapter%20001%20%28I%29%20-%20Eligibility%20for%20Federal%20Benefits/%C2%A7%2001615%20-%20Requirements%20relating%20to%20provision%20of%20benefits%20based%20on%20citizenship%2C%20alienage%2C%20or%20immigration%20status%20under%20the%20National%20School%20Lunch%20Act%E2%80%A6.md) | Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the National School Lunch Act, the Child Nutrition Act of 1966, and certain other acts. |
 | (a) | School lunch and breakfast programs. |
@@ -47,6 +47,7 @@
 | [1624\.](Subchapter%20002%20%28II%29%20-%20Eligibility%20for%20State%20and%20Local%20Public%20Benefits%20Programs/%C2%A7%2001624%20-%20Authority%20of%20States%20and%20political%20subdivisions%20of%20States%20to%20limit%20assistance%20to%20aliens%20and%20to%20distinguish%20among%20classes%20of%20aliens%20in%E2%80%A6.md) | Authority of States and political subdivisions of States to limit assistance to aliens and to distinguish among classes of aliens in providing general cash public assistance. |
 | (a) | In general. |
 | (b) | Limitation. |
+| [1625\.](Subchapter%20002%20%28II%29%20-%20Eligibility%20for%20State%20and%20Local%20Public%20Benefits%20Programs/%C2%A7%2001625%20-%20Authorization%20for%20verification%20of%20eligibility%20for%20State%20and%20local%20public%20benefits.md) | Authorization for verification of eligibility for State and local public benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -82,10 +83,12 @@
 | (d) | No verification requirement for nonprofit charitable organizations. |
 | [1643\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001643%20-%20Statutory%20construction.md) | Statutory construction. |
 | (a) | Limitation. |
-| (b) | Not applicable to foreign assistance. |
-| (c) | Severability. |
+| (b) | Benefit eligibility limitations applicable only with respect to aliens present in United States. |
+| (c) | Not applicable to foreign assistance. |
+| (d) | Severability. |
 | [1644\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001644%20-%20Communication%20between%20State%20and%20local%20government%20agencies%20and%20Immigration%20and%20Naturalization%20Service.md) | Communication between State and local government agencies and Immigration and Naturalization Service. |
 | [1645\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001645%20-%20Qualifying%20quarters.md) | Qualifying quarters. |
+| [1646\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/%C2%A7%2001646%20-%20Derivative%20eligibility%20for%20benefits.md) | Derivative eligibility for benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

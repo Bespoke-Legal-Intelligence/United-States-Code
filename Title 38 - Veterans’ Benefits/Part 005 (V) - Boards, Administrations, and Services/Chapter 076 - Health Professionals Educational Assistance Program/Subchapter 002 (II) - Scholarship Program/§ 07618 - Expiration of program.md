@@ -1,10 +1,12 @@
 ### §7618. Expiration of program
 
-The Secretary may not furnish scholarships to new participants in the Scholarship Program after December 31, 1997.
+The Secretary may not furnish scholarships to new participants in the Scholarship Program after December 31, 1998.
 
-(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 525, §4318; renumbered §7618, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title V, §523(a), Nov. 4, 1992, 106 Stat. 4959; Pub. L. 104–110, title I, §101(j), Feb. 13, 1996, 110 Stat. 769.)
+(Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 525, §4318; renumbered §7618, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title V, §523(a), Nov. 4, 1992, 106 Stat. 4959; Pub. L. 104–110, title I, §101(j), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, §207(a), Nov. 21, 1997, 111 Stat. 2289.)
 
 #### Amendments
+
+1997—Pub. L. 105–114 substituted “December 31, 1998” for “December 31, 1997”.
 
 1996—Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
 

@@ -2,7 +2,7 @@
 
 An application for patent for an invention disclosed in the manner provided by the first paragraph of section 112 of this title in an application previously filed in the United States, or as provided by section 363 of this title, which is filed by an inventor or inventors named in the previously filed application shall have the same effect, as to such invention, as though filed on the date of the prior application, if filed before the patenting or abandonment of or termination of proceedings on the first application or on an application similarly entitled to the benefit of the filing date of the first application and if it contains or is amended to contain a specific reference to the earlier filed application.
 
-(July 19, 1952, ch. 950, 66 Stat. 800; Nov. 14, 1975, Pub. L. 94–131, §9, 89 Stat. 691; Nov. 8, 1984, Pub. L. 98–622, title I, §104(b), 98 Stat. 3385.)
+(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 94–131, §9, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title I, §104(b), Nov. 8, 1984, 98 Stat. 3385.)
 
 #### Historical and Revision Notes
 

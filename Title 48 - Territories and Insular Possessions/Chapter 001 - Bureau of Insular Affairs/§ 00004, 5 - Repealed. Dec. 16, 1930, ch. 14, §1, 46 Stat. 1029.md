@@ -4,5 +4,3 @@ Section 4, acts Mar. 2, 1907, ch. 2511, 34 Stat. 1162; Mar. 23, 1910, ch. 115, 3
 
 Section 5, act Mar. 23, 1910, ch. 115, 36 Stat. 248, authorized Secretary of War to detail one additional Army officer as assistant to Chief of Bureau of Insular Affairs under same provisions in regard to vacancies and return as provided in section 4 of this title.
 
-Chap. 2
-

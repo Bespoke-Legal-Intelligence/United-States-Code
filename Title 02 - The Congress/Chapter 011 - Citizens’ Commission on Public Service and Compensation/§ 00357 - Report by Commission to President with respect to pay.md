@@ -12,7 +12,7 @@ The Commission shall submit to the President a report of the results of each rev
 
 #### 1985 Fiscal Year Recommendations on Pay Rates of Offices and Positions
 
-Section 135(g) of Pub. L. 99–190 provided that: “Notwithstanding section 225(g) of such Act (2 U.S.C. 357), the Commission on Executive, Legislative, and JudicialSalaries shall not make recommendations on the rates of pay of offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 225(f) of such Act (2 U.S.C. 356) in connection with the review of rates of pay of such offices and positions conducted by the Commission in fiscal year 1985.”
+Section 135(g) of Pub. L. 99–190 provided that: “Notwithstanding section 225(g) of such Act (2 U.S.C. 357), the Commission on Executive, Legislative, and Judicial Salaries shall not make recommendations on the rates of pay of offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 225(f) of such Act (2 U.S.C. 356) in connection with the review of rates of pay of such offices and positions conducted by the Commission in fiscal year 1985.”
 
 #### Section Referred to in Other Sections
 

@@ -58,7 +58,7 @@ Availability of Statements.—The Secretary of Transportation shall make a regis
 
 Fees.—(1) The Secretary of Transportation may establish, impose, and collect from a person required to file a registration statement under subsection (a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
 
-(2)(A) In addition to a fee established under paragraph (1) of this subsection, the Secretaryof Transportation shall establish and impose by regulation and collect an annual fee. Subject to subparagraph (B) of this paragraph, the fee shall be at least $250 but not more than $5,000 from each person required to file a registration statement under this section. The Secretary shall determine the amount of the fee under this paragraph on at least one of the following:
+(2)(A) In addition to a fee established under paragraph (1) of this subsection, the Secretary of Transportation shall establish and impose by regulation and collect an annual fee. Subject to subparagraph (B) of this paragraph, the fee shall be at least $250 but not more than $5,000 from each person required to file a registration statement under this section. The Secretary shall determine the amount of the fee under this paragraph on at least one of the following:
 
 &emsp;(i) gross revenue from transporting hazardous material.
 
@@ -94,9 +94,11 @@ Relationship to Other Laws.—(1) Chapter 35 of title 44 does not apply to an ac
 
 (B) Subsections (a)–(h) of this section do not apply to a department, agency, or instrumentality of the United States Government, an authority of a State or political subdivision of a State, or an employee of a department, agency, instrumentality, or authority carrying out official duties.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 765; Pub. L. 103–311, title I, §§104, 117(a)(3), 119(d)(1), Aug. 26, 1994, 108 Stat. 1673, 1678, 1680.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 765; Pub. L. 103–311, title I, §§104, 117(a)(3), 119(d)(1), Aug. 26, 1994, 108 Stat. 1673, 1678, 1680; Pub. L. 105–102, §2(3), Nov. 20, 1997, 111 Stat. 2204.)
 
 Historical and Revision Notes
+
+Pub. L. 103–272
 
 <i>Revised</i>
 
@@ -172,7 +174,13 @@ In subsection (i)(1), the words “(relating to coordination of Federal informat
 
 In subsection (i)(2)(A), the words “Notwithstanding any other provisions of this subsection” are omitted as surplus.
 
+#### Pub. L. 105–102
+
+This amends 49:5108(f) to correct an erroneous cross-reference.
+
 #### Amendments
+
+1997—Subsec. (f). Pub. L. 105–102 which directed substitution of “section 552(b)” for “section 522(f)” could not be executed because “section 522(f)” did not appear.
 
 1994—Subsec. (a)(1)(D). Pub. L. 103–311, §117(a)(3), substituted “a bulk packaging” for “a bulk package” and “the bulk packaging” for “the package”.
 
@@ -184,5 +192,5 @@ Subsec. (g)(2)(A)(viii). Pub. L. 103–311, §119(d)(1), struck out “5107(e),�
 
 This section is referred to in sections 5107, 5108, 5116, 5127 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section 552(b).</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section “552(b)”.</i>
 

@@ -34,7 +34,7 @@ Retention after qualifications for retired pay, see section 12308 of this title.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1053, 1064, 1065, 1076, 1076c, 1331, 1370, 1407, 1409, 1447, 1452, 1463, 3961, 8961, 10153, 12307, 12308, 12319, 14901, 14905 of this title; title 5 sections 8332, 8411; title 38 sections 1965, 1968, 2301, 2306; title 50 section 2082.
+This chapter is referred to in sections 1053, 1064, 1065, 1076, 1076c, 1331, 1370, 1407, 1409, 1447, 1452, 1463, 3961, 8961, 10153, 12307, 12308, 12319, 14901, 14905 of this title; title 5 sections 8332, 8411; title 38 sections 1965, 2301, 2306; title 50 section 2082.
 
 
 ---

@@ -6,7 +6,7 @@ Volunteers serving under this part shall be enrolled for periods of service as p
 
 #### (b) Participation of student volunteers and educational institutions
 
-Grants to and contracts with institutions to administer programs under this part shall provide that prospective student volunteers shall participate substantially in the planning of such programs and that such institutions shall makeavailable to the poor in the surrounding community all available facilities, including human resources, of such institutions in order to assist in meeting the needs of such poor persons.
+Grants to and contracts with institutions to administer programs under this part shall provide that prospective student volunteers shall participate substantially in the planning of such programs and that such institutions shall make available to the poor in the surrounding community all available facilities, including human resources, of such institutions in order to assist in meeting the needs of such poor persons.
 
 #### (c) Financial assistance limitation; commitment stipulations; monitoring of compliance with commitment; compliance information to Secretary
 

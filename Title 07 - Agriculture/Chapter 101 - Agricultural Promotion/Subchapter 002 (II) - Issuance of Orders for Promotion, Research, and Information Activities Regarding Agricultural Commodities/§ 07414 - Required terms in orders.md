@@ -80,7 +80,7 @@ Each order shall specify the powers and duties of the board established under th
 
 &emsp;(1) to administer the order in accordance with its terms and conditions and to collect assessments;
 
-&emsp;(2) to develop and recommend to the Secretary for approval such bylaws as may be necessary for the functioning of the board and such rules as may be necessary to administerthe order, including activities authorized to be carried out under the order;
+&emsp;(2) to develop and recommend to the Secretary for approval such bylaws as may be necessary for the functioning of the board and such rules as may be necessary to administer the order, including activities authorized to be carried out under the order;
 
 &emsp;(3) to meet, organize, and select from among the members of the board a chairperson, other officers, and committees and subcommittees, as the board determines to be appropriate;
 
@@ -92,7 +92,7 @@ Each order shall specify the powers and duties of the board established under th
 
 &emsp;(7) to borrow funds necessary for the startup expenses of the order;
 
-&emsp;(8) subject to subsection (f) of this section, to enter into contracts or agreements to develop and carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order;
+&emsp;(8) subject to subsection (f) of this section, to enter into contracts or agreements to develop and carry out generic promotion, research, and information activities relating tothe agricultural commodity covered by the order;
 
 &emsp;(9) to pay the cost of the activities with assessments collected under section 7416 of this title, earnings from invested assessments, and other funds;
 
@@ -154,7 +154,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 &emsp;Each contract or agreement shall provide that any person who enters into the contract or agreement with the board shall—
 
-&emsp;&emsp;(A) develop and submit to the board a proposed activity together with a budget thatspecifies the cost to be incurred to carry out the activity;
+&emsp;&emsp;(A) develop and submit to the board a proposed activity together with a budget that specifies the cost to be incurred to carry out the activity;
 
 &emsp;&emsp;(B) keep accurate records of all of its transactions relating to the contract or agreement;
 

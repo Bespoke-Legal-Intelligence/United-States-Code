@@ -1,0 +1,130 @@
+### §354. Exchanges of stock and securities in certain reorganizations
+
+#### (a) General rule
+
+#### (1) In general
+
+&emsp;No gain or loss shall be recognized if stock or securities in a corporation a party to a reorganization are, in pursuance of the plan of reorganization, exchanged solely for stock or securities in such corporation or in another corporation a party to the reorganization.
+
+#### (2) Limitation
+
+#### (A) Excess principal amount
+
+&emsp;&emsp;Paragraph (1) shall not apply if—
+
+&emsp;&emsp;&emsp;(i) the principal amount of any such securities received exceeds the principal amount of any such securities surrendered, or
+
+&emsp;&emsp;&emsp;(ii) any such securities are received and no such securities are surrendered.
+
+#### (B) Property attributable to accrued interest
+
+&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shall apply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
+
+#### (C) Nonqualified preferred stock
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Nonqualified preferred stock (as defined in section 351(g)(2)) received in exchange for stock other than nonqualified preferred stock (as so defined) shall not be treated as stock or securities.
+
+#### (ii) Recapitalizations of family-owned corporations
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Clause (i) shall not apply in the case of a recapitalization under section 368(a)(1)(E) of a family-owned corporation.
+
+#### (II) Family-owned corporation
+
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, except as provided in regulations, the term “family-owned corporation” means any corporation which is described in clause (i) of section 447(d)(2)(C) throughout the 8-year period beginning on the date which is 5 years before the date of the recapitalization. For purposes of the preceding sentence, stock shall not be treated as owned by a family member during any period described in section 355(d)(6)(B).
+
+#### (3) Cross references
+
+&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (2)(B) applies), see section 356.</b>
+
+&emsp;&emsp;<b>(B) For treatment of accrued interest in the case of an exchange described in paragraph (2)(B), see section 61.</b>
+
+#### (b) Exception
+
+#### (1) In general
+
+&emsp;Subsection (a) shall not apply to an exchange in pursuance of a plan of reorganization within the meaning of subparagraph (D) or (G) of section 368(a)(1), unless—
+
+&emsp;&emsp;(A) the corporation to which the assets are transferred acquires substantially all of the assets of the transferor of such assets; and
+
+&emsp;&emsp;(B) the stock, securities, and other properties received by such transferor, as well as the other properties of such transferor, are distributed in pursuance of the plan of reorganization.
+
+#### (2) Cross reference
+
+&emsp;&emsp;<b>For special rules for certain exchanges in pursuance of plans of reorganization within the meaning of subparagraph (D) or (G) of section 368(a)(1), see section 355.</b>
+
+#### (c) Certain railroad reorganizations
+
+Notwithstanding any other provision of this subchapter, subsection (a)(1) (and so much ofsection 356 as relates to this section) shall apply with respect to a plan of reorganization (whether or not a reorganization within the meaning of section 368(a)) for a railroad confirmed under section 1173 of title 11 of the United States Code, as being in the public interest.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 112; Mar. 31, 1976, Pub. L. 94–253, §1(c), 90 Stat. 296; Oct. 17, 1978, Pub. L. 95–473, §2(a)(2)(F), 92 Stat. 1465; Dec. 24, 1980, Pub. L. 96–589, §§4(e)(1), (h)(1), 6(i)(2), 94 Stat. 3403, 3404, 3410; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(c)(8)(D), 104 Stat. 1388–524; Dec. 29, 1995, Pub. L. 104–88, title III, §304(c), 109 Stat. 944; Aug. 5, 1997, Pub. L. 105–34, title X, §1014(b), (e)(1), (2), 111 Stat. 920, 921.)
+
+#### Amendments
+
+<b>1997</b>—Subsec. (a)(2)(B). Pub. L. 105–34, §1014(e)(1), inserted “(including nonqualified preferred stock, as defined in section 351(g)(2))” after “stock”.
+
+Subsec. (a)(2)(C). Pub. L. 105–34, §1014(b), added subpar. (C).
+
+Subsec. (a)(3)(A). Pub. L. 105–34, §1014(e)(2), inserted “nonqualified preferred stock and” after “subsection (including”.
+
+<b>1995</b>—Subsec. (c). Pub. L. 104–88 struck out “or approved by the Interstate Commerce Commission under subchapter IV of chapter 113 of title 49,” after “Code,”.
+
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) “Exchanges under the final system plan for ConRail” which read as follows: “No gain or loss shall be recognized if stock or securities in a corporation are, in pursuance of an exchange to which paragraph (1) or (2) of section 374(c) applies, exchanged solely for stock of the Consolidated Rail Corporation, securities of such Corporation, certificates of value of the United States Railway Association, or any combination thereof.”
+
+<b>1980</b>—Subsec. (a)(2). Pub. L. 96–589, §4(e)(1), redesignated existing pars. (A) and (B) as par. (A)(i), (ii), and added par. (B).
+
+Subsec. (a)(3). Pub. L. 96–589, §4(e)(1), designated existing provisions as subpar. (A), inserted provisions excluding property to which paragraph (2)(B) applies, and added subpar. (B).
+
+Subsec. (b). Pub. L. 96–589, §4(h)(1), substituted “subparagraph (D) or (G) of section 368(a)(1)” for “section 368(a)(1)(D)”, wherever appearing.
+
+Subsec. (c). Pub. L. 96–589, §6(i)(2), substituted “confirmed under section 1173 of title 11 of the United States Code, or approved by the Interstate Commerce Commission” for “approved by the Interstate Commerce Commission under section 77 of the Bankruptcy Act, or”.
+
+<b>1978</b>—Subsec. (c). Pub. L. 95–473 substituted “subchapter IV of chapter 113 of title 49” for “section 20b of the Interstate Commerce Act”.
+
+<b>1976</b>—Subsec. (d). Pub. L. 94–253 added subsec. (d).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–34 applicable, with certain exceptions, to transactions after June 8, 1997, see section 1014(f) of Pub. L. 105–34, set out as a note under section 351 of this title.
+
+#### Effective Date of 1995 Amendment
+
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by section 4(e)(1) of Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commencing after Dec. 31, 1980, and to exchanges which occur after Dec. 31, 1980, and which do not occur in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11, Bankruptcy, commenced on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to such cases, proceedings or exchanges commencing after Sept. 30, 1979, see section 7(c), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
+
+Amendment by section 4(h)(1) of Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commencing after Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to such cases or proceedings commencing after Sept. 30, 1979, see section 7(c)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
+
+Amendment by section 6(i)(2) of Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to any proceeding under Title 11 commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Section 2 of Pub. L. 94–253 provided that: “The amendments made by section 1 \[amending this section and sections 356, 358, and 374 of this title\] shall apply to taxable years ending after March 31, 1976.”
+
+#### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+
+#### Abolition of United States Railway Association and Transfer of Functions
+
+United States Railway Association abolished effective Apr. 1, 1987, all powers, duties, rights, and obligations of Association relating to Consolidated Rail Corporation under Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) transferred to Secretary of Transportation on Jan. 1, 1987, and any securities of Corporation held by Association transferred to Secretary of Transportation on Oct. 21, 1986, see section 1341 of Title 45, Railroads.
+
+#### Cross References
+
+Basis to distributees, see section 358 of this title.
+
+Carryovers in corporate acquisitions, see section 381 of this title.
+
+Complete liquidations of subsidiaries, liquidations to which section applies, see section 332 of this title.
+
+Foreign corporations, see section 367 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 83, 108, 332, 338, 351, 355, 356, 358, 367, 368, 381, 382, 424, 953, 1276, 6038B of this title.
+

@@ -48,7 +48,7 @@ Authority Subject to Appropriations.—The authority of the Secretary of Defense
 
 (h)
 
-Care Outside the United States.—The Secretary may exercise the authority provided under subsection (a) to establish basic dental benefits plans for the provision of dental benefits outside the United States for the eligible dependents of members of the uniformed services accompanying the members on permanent assignments to duty outside the United States.
+Care Outside the United States.—The Secretary of Defense may exercise the authority provided under subsection (a) to establish basic dental benefits plans for the provision of dental benefits outside the United States for the eligible dependents of members of the uniformed services accompanying the members on permanent assignments to duty outside the United States. In the case of such an overseas dental plan, the Secretary may waive or reduce the copayments otherwise required by subsection (e) to the extent the Secretary determines appropriate for the effective and efficient operation of the plan.
 
 (i)
 
@@ -56,9 +56,11 @@ Eligible Dependent Defined.—(1) In this section, the term “eligible dependen
 
 (2) The term includes a dependent described in such subparagraphs of a member who dies while on active duty for a period of more than 30 days if the dependent is enrolled on the date of the death of the member in a dental benefits plan established under subsection (a), except that the term does not include the dependent after the end of the one-year period beginning on the date of the member's death. The Secretary of Defense may waive (in whole or in part) any requirements of the plan as the Secretary determines necessary for the effective administration of the plan for a dependent covered by this paragraph.
 
-(Added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800.)
+(Added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812.)
 
 #### Amendments
+
+1997—Subsec. (h). Pub. L. 105–85 substituted “The Secretary of Defense may” for “The Secretary may” and inserted at end “In the case of such an overseas dental plan, the Secretary may waive or reduce the copayments otherwise required by subsection (e) to the extent the Secretary determines appropriate for the effective and efficient operation of the plan.”
 
 1994—Subsec. (a)(1). Pub. L. 103–337, §702(b)(1), substituted “eligible dependents” for “spouses and children (as described in section 1072(2)(D) of this title)”.
 
@@ -80,7 +82,7 @@ Subsec. (b)(2). Pub. L. 102–484, §701(b)(1), substituted “$20” for “$10
 
 Subsec. (b)(3). Pub. L. 102–484, §701(a)(2), (b)(2), added par. (3) and struck out former par. (3) which read as follows: “A member enrolled in a supplemental dental benefits plan shall pay a supplemental monthly premium of not more than $15 for the member and the family of the member. The supplemental monthly premium shall be in addition to the premium payable under paragraph (2) for the member's basic dental benefits plan.”
 
-Subsec. (d). Pub. L. 102–484, §701(a)(3), (c), struck out “(1)” before “A basic dental”, struck out “only” before “the following benefits”, redesignated subpars. (A) and\(B) as pars. (1) and (2), respectively, added par. (3), and struck out former par. (2) which read as follows: “In addition to the benefits available under a basic dental benefits plan, a supplemental dental benefits plan established under subsection (a) may provide such dental care benefits as the Secretary of Defense, after consultation with the other administering Secretaries, considers to be appropriate.”
+Subsec. (d). Pub. L. 102–484, §701(a)(3), (c), struck out “(1)” before “A basic dental”, struck out “only” before “the following benefits”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, added par. (3), and struck out former par. (2) which read as follows: “In addition to the benefits available under a basic dental benefits plan, a supplemental dental benefits plan established under subsection (a) may provide such dental care benefits as the Secretary of Defense, after consultation with the other administering Secretaries, considers to be appropriate.”
 
 Subsec. (e). Pub. L. 102–484, §701(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “
 
@@ -98,7 +100,7 @@ Limitations on Expenditures.—The Secretary of Defense may not spend more than 
 
 1991—Subsec. (a). Pub. L. 102–190, §701(e)(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 102–190, §701(a), substituted “basic and supplemental dental benefits plans” for “dental benefit plans” in first sentence and inserted at end “A member may not enroll in a supplemental dental benefits plan unless the member is also a member of a basic dental benefits plan.”
+Subsec. (a)(1). Pub. L. 102–190, §701(a), substituted “basic and supplemental dental benefits plans” for“dental benefit plans” in first sentence and inserted at end “A member may not enroll in a supplemental dental benefits plan unless the member is also a member of a basic dental benefits plan.”
 
 Subsec. (b). Pub. L. 102–190, §701(c)(1), inserted heading.
 
@@ -180,5 +182,5 @@ Section 701(f) of Pub. L. 102–484 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1077 of this title.
+This section is referred to in sections 1076c, 1077 of this title.
 

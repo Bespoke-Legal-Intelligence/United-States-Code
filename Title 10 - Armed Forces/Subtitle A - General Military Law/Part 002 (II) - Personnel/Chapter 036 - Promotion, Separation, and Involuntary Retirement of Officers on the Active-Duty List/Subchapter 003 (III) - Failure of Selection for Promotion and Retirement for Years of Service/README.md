@@ -11,11 +11,13 @@
 | [633\.](%C2%A7%2000633%20-%20Retirement%20for%20years%20of%20service%20regular%20lieutenant%20colonels%20and%20commanders.md) | Retirement for years of service: regular lieutenant colonels and commanders. |
 | [634\.](%C2%A7%2000634%20-%20Retirement%20for%20years%20of%20service%20regular%20colonels%20and%20Navy%20captains.md) | Retirement for years of service: regular colonels and Navy captains. |
 | [635\.](%C2%A7%2000635%20-%20Retirement%20for%20years%20of%20service%20regular%20brigadier%20generals%20and%20rear%20admirals%20%28lower%20half%29.md) | Retirement for years of service: regular brigadier generals and rear admirals (lower half). |
-| [636\.](%C2%A7%2000636%20-%20Retirement%20for%20years%20of%20service%20regular%20major%20generals%20and%20rear%20admirals.md) | Retirement for years of service: regular major generals and rear admirals. |
+| [636\.](%C2%A7%2000636%20-%20Retirement%20for%20years%20of%20service%20regular%20officers%20in%20grades%20above%20brigadier%20general%20and%20rear%20admiral%20%28lower%20half%29.md) | Retirement for years of service: regular officers in grades above brigadier general and rear admiral (lower half). |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §506(c), Nov. 18, 1997, 111 Stat. 1726, substituted “regular officers in grades above brigadier general and rear admiral (lower half)” for “regular major generals and rear admirals” in item 636.
 
 1985—Pub. L. 99–145, title V, §514(b)(5)(B), Nov. 8, 1985, 99 Stat. 628, substituted “rear admirals (lower half)” for “commodores” in item 635.
 
@@ -35,4 +37,4 @@
 - [&sect; 00633 - Retirement for years of service regular lieutenant colonels and commanders](%C2%A7%2000633%20-%20Retirement%20for%20years%20of%20service%20regular%20lieutenant%20colonels%20and%20commanders.md)
 - [&sect; 00634 - Retirement for years of service regular colonels and Navy captains](%C2%A7%2000634%20-%20Retirement%20for%20years%20of%20service%20regular%20colonels%20and%20Navy%20captains.md)
 - [&sect; 00635 - Retirement for years of service regular brigadier generals and rear admirals (lower half)](%C2%A7%2000635%20-%20Retirement%20for%20years%20of%20service%20regular%20brigadier%20generals%20and%20rear%20admirals%20%28lower%20half%29.md)
-- [&sect; 00636 - Retirement for years of service regular major generals and rear admirals](%C2%A7%2000636%20-%20Retirement%20for%20years%20of%20service%20regular%20major%20generals%20and%20rear%20admirals.md)
+- [&sect; 00636 - Retirement for years of service regular officers in grades above brigadier general and rear admiral (lower half)](%C2%A7%2000636%20-%20Retirement%20for%20years%20of%20service%20regular%20officers%20in%20grades%20above%20brigadier%20general%20and%20rear%20admiral%20%28lower%20half%29.md)

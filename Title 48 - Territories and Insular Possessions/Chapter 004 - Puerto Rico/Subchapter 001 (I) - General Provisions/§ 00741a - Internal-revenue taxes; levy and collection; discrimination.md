@@ -18,5 +18,5 @@ Section is comprised of last part of section 3 of act Mar. 2, 1917, as added by 
 
 #### Cross References
 
-All articles of merchandise of United States manufacture coming into Puerto Rico to be entered at port of entry upon payment of tax equal in rate and amount to the internal revenue tax imposed in Puerto Rico upon like articles of Puerto Rican manufacture, see section 7653 of Title 26, Internal Revenue Code.
+All articles of merchandise of United States manufacture coming into Puerto Rico to be entered at port of entry upon payment of tax equal in rate and amount to the internal revenue tax imposed in Puerto Rico uponlike articles of Puerto Rican manufacture, see section 7653 of Title 26, Internal Revenue Code.
 

@@ -1,6 +1,6 @@
 ### §5702. Per diem; employees traveling on official business
 
-(a)(1) Under regulations prescribed pursuant to section 5707 of this title, an employee, when traveling on official business away from the employee's designated post of duty, or away fromthe employee's home or regular place of business (if the employee is described in section 5703 of this title), is entitled to any one of the following:
+(a)(1) Under regulations prescribed pursuant to section 5707 of this title, an employee, when traveling on official business away from the employee's designated post of duty, or away from the employee's home or regular place of business (if the employee is described in section 5703 of this title), is entitled to any one of the following:
 
 &emsp;(A) a per diem allowance at a rate not to exceed that established by the Administrator of General Services for travel within the continental United States, and by the President or his designee for travel outside the continental United States;
 
@@ -72,7 +72,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1986—Subsec. (a). Pub. L. 99–234, §102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under regulations prescribed under section 5707 of this title, an employee while traveling on official business away from his designated post of duty, or in the case of an individual described under section 5703 of this title, his home or regular place of business, is entitled to (1) a per diem allowance for travel inside the continental United States at a rate not to exceed $50, and (2) a per diem allowance for travel outside the continental United States, that may not exceed the rate established by the President, or his designee, for each locality where travel is to be performed. For travel consuming less than a full day, such rate may be allocated proportionately.”
 
-Subsec. (b). Pub. L. 99–234, §102(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed under section 5707 of this title, an employee who, while traveling on official business away from his designated post of duty or, in the case of an individual described under section 5703 of this title, his home or regular place of business, becomes incapacitated by illness or injury not due to his own misconduct, is entitled to the per diem allowance and appropriate transportation expenses to his designated post of duty, or home or regular place of business, as the case may be.”
+Subsec. (b). Pub. L. 99–234, §102(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed under section 5707 of this title, an employee who, while traveling on official business away from his designated post of duty or, in the case of an individual described under section 5703 of this title, his home or regular place of business, becomes incapacitated by illness or injury not due tohis own misconduct, is entitled to the per diem allowance and appropriate transportation expenses to his designated post of duty, or home or regular place of business, as the case may be.”
 
 Subsec. (c). Pub. L. 99–234, §102, redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “Under regulations prescribed under section 5707 of this title, the Administrator of General Services, or his designee, may prescribe conditions under which an employee may be reimbursed for the actual and necessary expenses of official travel when the maximum per diem allowance would be less than these expenses, except that such reimbursement shall not exceed $75 for each day in a travel status within the continental United States when the per diem otherwise allowable is determined to be inadequate (1) due to the unusual circumstances of the travel assignment, or (2) for travel to high rate geographical areas designated as such in regulations prescribed under section 5707 of this title.”
 
@@ -120,7 +120,7 @@ Pub. L. 103–355, title VI, §6008, Oct. 13, 1994, 108 Stat. 3367, provided tha
 
 “(a)
 
-Guidelines.—The Administrator of the General Services Administration shall issue guidelines to ensure that agencies promote, encourage, and facilitate the use of frequent traveler programs offered by airlines, hotels, and car rental vendors by Federal employees who engage in official air travel, for the purpose ofrealizing to the maximum extent practicable cost savings for official travel.
+Guidelines.—The Administrator of the General Services Administration shall issue guidelines to ensure that agencies promote, encourage, and facilitate the use of frequent traveler programs offered by airlines, hotels, and car rental vendors by Federal employees who engage in official air travel, for the purpose of realizing to the maximum extent practicable cost savings for official travel.
 
 “(b)
 
@@ -156,5 +156,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5569, 5707, 5724a, 8474 of this title; title 2 section 476; title 7 sections 3128, 5843; title 12 section 1834a; title 15 sections 1341, 4603; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 18 section 4285; title 22 sections 1474, 2396, 2704; title 24 section 415; title 25 sections 3006, 3505; title 26 section 4941; title 28 sections 456, 604, 1821; title 29 section 2215; title 31 section 326; title 33 section 2732; title 36 section 121; title 38 section 111; title 42 sections 1873, 2210, 2477, 10163, 10265, 11221, 13458, 14195.
+This section is referred to in sections 5569, 5707, 5724a, 8474 of this title; title 2 section 476; title 7 sections 3128, 5843; title 12 section 1834a; title 15 sections 1341, 4603; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 18 section 4285; title 22 sections 1474, 2396, 2704; title 24 section 415; title 25 sections 3006, 3505; title 26 section 4941; title 28 sections 456, 604, 1821; title 29 section 2215; title 31 section 326; title 33 section 2732; title 36 section 121; title 38 section 111; title 42 sections 1873, 2210, 2477, 7238, 10163, 10265, 11221, 13458, 14195.
 

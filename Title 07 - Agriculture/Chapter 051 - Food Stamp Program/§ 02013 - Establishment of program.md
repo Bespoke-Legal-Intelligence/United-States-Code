@@ -6,7 +6,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 #### (b) Distribution of federally donated foods
 
-Distribution of commodities, with or without the food stamp program, shall be made whenevera request for concurrent or separate food program operations, respectively, is made by a tribal organization. In the event of distribution on all or part of an Indian reservation, the appropriate agency of the State government in the area involved shall be responsible for such distribution, except that, if the Secretary determines that the tribal organization is capable of effectively and efficiently administering such distribution, then such tribal organizations shall administer such distribution: <i>Provided</i>, That the Secretary shall not approve any plan for such distribution which permits any household on any Indian reservation to participate simultaneously in the food stamp program and the distribution of federally donated foods. The Secretary is authorized to pay such amounts for administrative costs of such distribution on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.
+Distribution of commodities, with or without the food stamp program, shall be made whenever a request for concurrent or separate food program operations, respectively, is made by a tribal organization. In the event of distribution on all or part of an Indian reservation, the appropriate agency of the State government in the area involved shall be responsible for such distribution, except that, if the Secretary determines that the tribal organization is capable of effectively and efficiently administering such distribution, then such tribal organizations shall administer such distribution: <i>Provided</i>, That the Secretary shall not approve any plan for such distribution which permits any household on any Indian reservation to participate simultaneously in the food stamp program and the distribution of federally donated foods. The Secretary is authorized to pay such amounts for administrative costs of such distribution on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.
 
 #### (c) Regulations; transmittal of copy of regulations to Congressional committees prior to issuance
 
@@ -44,5 +44,5 @@ Section 1301 of Pub. L. 95–113 provided that the amendment made by that sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2012, 2014, 4004a, 7509 of this title; title 42 section 1769.
+This section is referred to in sections 2012, 2014, 4004a, 7509 of this title; title 8 section 1615; title 42 section 1769.
 

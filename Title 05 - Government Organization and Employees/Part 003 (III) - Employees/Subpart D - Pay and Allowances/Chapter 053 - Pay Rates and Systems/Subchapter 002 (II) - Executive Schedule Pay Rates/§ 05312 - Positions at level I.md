@@ -124,7 +124,9 @@ Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacti
 
 #### Salary Increases
 
-1997—Salaries of positions at level I continued at $148,400 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of this title.
+1998—Salaries of positions at level I increased to $151,800 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1998, as provided by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of this title.
+
+1997—Salaries of positions at level I continued at $148,400 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987.
 
 1996—Salaries of positions at level I continued at $148,400 per annum by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237.
 
@@ -142,7 +144,7 @@ Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacti
 
 1988—Salaries of positions at level I continued at $99,500 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
 
-1987—Salaries of positions at level I increased to $99,500 per annum, on recommendation of the Presidentof the United States, see note set out under section 358 of Title 2, The Congress.
+1987—Salaries of positions at level I increased to $99,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
 Salaries of positions at level I increased to $88,800 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1987, as provided by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
 
@@ -194,5 +196,5 @@ Provisions of Pub. L. 93–178, §1, Dec. 10, 1973, 87 Stat. 697, which fixed th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5315, 5377, 5380, 8432 of this title; title 2 section 362; title 10 sections 973, 1603; title 12 section 1723a; title 18 section 207; title 22 section 4606; title 26 sections 162, 3121; title 28 section591; title 31 section 1344; title 38 section 7432; title 39 section 1003; title 42 sections 410, 7211, 7291; title 47 section 396; title 49 section 24315; title 50 App. section 2074.
+This section is referred to in sections 5315, 5377, 5380, 8432 of this title; title 2 section 362; title 10 sections 973, 1603; title 12 section 1723a; title 18 section 207; title 22 section 4606; title 26 sections 162, 3121; title 28 section 591; title 31 section 1344; title 38 section 7432; title 39 section 1003; title 42 sections 410, 7211, 7291; title 47 section 396; title 49 sections 106, 24315; title 50 App. section 2074.
 

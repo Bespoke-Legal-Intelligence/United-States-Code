@@ -14,7 +14,7 @@
 
 &emsp;(E) photographs and fingerprints of such prisoners; and
 
-&emsp;(F) the nature of the offenses against the United States of which each such prisoner has been convicted and the factual circumstances relating to such offenses.
+&emsp;(F) the nature of the offenses against the United States of which each such prisoner hasbeen convicted and the factual circumstances relating to such offenses.
 
 (2) Any law enforcement agency which receives information under this subsection shall not disseminate such information outside of such agency.
 

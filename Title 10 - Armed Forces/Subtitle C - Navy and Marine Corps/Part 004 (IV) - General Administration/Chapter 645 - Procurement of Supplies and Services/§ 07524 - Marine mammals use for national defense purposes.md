@@ -14,7 +14,7 @@ Protection for Endangered Species.—A mammal may not be taken under this sectio
 
 (d)
 
-Application of Other Act.—This section applies without regard to the provisions of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.).
+Application of Other Act.—This section applies without regard to the provisions of theMarine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.).
 
 (Added Pub. L. 99–661, div. A, title XIII, §1354(a), Nov. 14, 1986, 100 Stat. 3996.)
 

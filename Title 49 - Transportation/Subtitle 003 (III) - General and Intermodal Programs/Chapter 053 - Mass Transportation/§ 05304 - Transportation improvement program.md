@@ -2,7 +2,7 @@
 
 (a)
 
-Development and Update.—In cooperation with the State and affected mass transportation operators, a metropolitan planning organization designated for a metropolitan area shall develop a transportation improvement program for the area. In developing the program, the organization shall provide citizens, affected public agencies, representatives of transportation authority employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed program. The program shall be updated at least once every 2 years and shall be approved by the organization and the chief executive officer of the State.
+Development and Update.—In cooperation with the State and affected mass transportationoperators, a metropolitan planning organization designated for a metropolitan area shall develop a transportation improvement program for the area. In developing the program, the organization shall provide citizens, affected public agencies, representatives of transportation authority employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed program. The program shall be updated at least once every 2 years and shall be approved by the organization and the chief executive officer of the State.
 
 (b)
 
@@ -16,7 +16,7 @@ Contents.—A transportation improvement program for a metropolitan area shall i
 
 &emsp;&emsp;(B) indicates resources from public and private sources that reasonably are expected to be made available to carry out the plan; and
 
-&emsp;&emsp;(C) recommends innovative financing techniques, including value capture, tolls, andcongestion pricing, to finance needed projects.
+&emsp;&emsp;(C) recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects.
 
 (c)
 

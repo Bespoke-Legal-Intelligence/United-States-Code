@@ -4,7 +4,7 @@
 
 From funds reserved in each fiscal year under section 5884(a)(2)(A) of this title, the Secretary may, directly or through grants or contracts—
 
-&emsp;(1) provide technical assistance to States, local educational agencies, and tribal agenciesdeveloping or implementing school improvement plans, in a manner that ensures that such assistance is broadly available;
+&emsp;(1) provide technical assistance to States, local educational agencies, and tribal agencies developing or implementing school improvement plans, in a manner that ensures that such assistance is broadly available;
 
 &emsp;(2) gather data on, conduct research on, and evaluate systemic education improvement and how such improvement affects student learning, including the programs assisted under this subchapter;
 

@@ -32,13 +32,13 @@
 
 (3) Except in a case in which an employee, former employee, or applicant for employment has the right to appeal directly to the Merit Systems Protection Board under any law, rule, or regulation, any such employee, former employee, or applicant shall seek corrective action from the Special Counsel before seeking corrective action from the Board. An employee, former employee, or applicant for employment may seek corrective action from the Board under section 1221, if such employee, former employee, or applicant seeks corrective action for a prohibited personnel practice described in section 2302(b)(8) from the Special Counsel and—
 
-&emsp;(A)(i) the Special Counsel notifies such employee, former employee, or applicant that an investigation concerning such employee, former employee, or applicant has been terminated; and
+&emsp;(A)(i) the Special Counsel notifies such employee, former employee, or applicant that aninvestigation concerning such employee, former employee, or applicant has been terminated; and
 
 &emsp;(ii) no more than 60 days have elapsed since notification was provided to such employee, former employee, or applicant for employment that such investigation was terminated; or
 
 &emsp;(B) 120 days after seeking corrective action from the Special Counsel, such employee, former employee, or applicant has not been notified by the Special Counsel that the Special Counsel shall seek corrective action on behalf of such employee, former employee, or applicant.
 
-(4) If an employee, former employee, or applicant seeks a corrective action from the Boardunder section 1221, pursuant to the provisions of paragraph (3)(B), the Special Counsel may continue to seek corrective action personal to such employee, former employee, or applicant only with the consent of such employee, former employee, or applicant.
+(4) If an employee, former employee, or applicant seeks a corrective action from the Board under section 1221, pursuant to the provisions of paragraph (3)(B), the Special Counsel may continue to seek corrective action personal to such employee, former employee, or applicant only with the consent of such employee, former employee, or applicant.
 
 (5) In addition to any authority granted under paragraph (1), the Special Counsel may, in the absence of an allegation, conduct an investigation for the purpose of determining whether there are reasonable grounds to believe that a prohibited personnel practice (or a pattern of prohibited personnel practices) has occurred, exists, or is to be taken.
 
@@ -80,13 +80,13 @@
 
 (B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure described under section 2302(b)(8) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
 
-(ii) Corrective action under clause (i) may not be ordered if the agency demonstrates by clear and convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
+(ii) Corrective action under clause (i) may not be ordered if the agency demonstrates by clearand convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
 
 (c)(1) Judicial review of any final order or decision of the Board under this section may be obtained by any employee, former employee, or applicant for employment adversely affected by such order or decision.
 
 (2) A petition for review under this subsection shall be filed with such court, and within such time, as provided for under section 7703(b).
 
-(d)(1) If, in connection with any investigation under this subchapter, the Special Counsel determines that there is reasonable cause to believe that a criminal violation has occurred, the Special Counsel shall report the determination to the Attorney General and to the head of theagency involved, and shall submit a copy of the report to the Director of the Office of Personnel Management and the Director of the Office of Management and Budget.
+(d)(1) If, in connection with any investigation under this subchapter, the Special Counsel determines that there is reasonable cause to believe that a criminal violation has occurred, the Special Counsel shall report the determination to the Attorney General and to the head of the agency involved, and shall submit a copy of the report to the Director of the Office of Personnel Management and the Director of the Office of Management and Budget.
 
 (2) In any case in which the Special Counsel determines that there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken, the Special Counsel shall proceed with any investigation or proceeding unless—
 

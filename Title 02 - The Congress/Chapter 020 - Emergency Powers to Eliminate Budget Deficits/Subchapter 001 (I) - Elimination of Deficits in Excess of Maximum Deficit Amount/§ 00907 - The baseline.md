@@ -14,11 +14,15 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (2) Exceptions
 
-&emsp;(A) No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.
+&emsp;(A)(i) No program established by a law enacted on or before August 5, 1997, with estimated current year outlays greater than $50,000,000 shall be assumed to expire in the budget year or the outyears. The scoring of new programs with estimated outlays greater than $50,000,000 a year shall be based on scoring by the Committees on Budget or OMB, as applicable. OMB, CBO, and the Budget Committees shall consult on the scoring of such programs where there are differenes <sup>1</sup> between CBO and OMB.
+
+&emsp;(ii) On the expiration of the suspension of a provision of law that is suspended under section 7301 of title 7 and that authorizes a program with estimated fiscal year outlays that are greater than $50,000,000, for purposes of clause (i), the program shall be assumed to continue to operate in the same manner as the program operated immediately before the expiration of the suspension.
 
 &emsp;(B) The increase for veterans’ compensation for a fiscal year is assumed to be the same as that required by law for veterans’ pensions unless otherwise provided by law enacted in that session.
 
 &emsp;(C) Excise taxes dedicated to a trust fund, if expiring, are assumed to be extended at current rates.
+
+&emsp;(D) If any law expires before the budget year or any outyear, then any program with estimated current year outlays greater than $50,000,000 that operates under that law shall be assumed to continue to operate under that law as in effect immediately before its expiration.
 
 #### (3) Hospital Insurance Trust Fund
 
@@ -38,7 +42,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (3) Social insurance administrative expenses
 
-&emsp;Budgetary resources for the administrative expenses of the following trust funds shall beadjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
+&emsp;Budgetary resources for the administrative expenses of the following trust funds shall be adjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
 
 #### (4) Pay annualization; offset to pay absorption
 
@@ -46,7 +50,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (5) Inflators
 
-&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnel shall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross national product fixed-weight price index for that fiscal year differs from the average of such estimated index for the current year.
+&emsp;The inflator used in paragraph (1) to adjust budgetary resources relating to personnel shall be the percent by which the average of the Bureau of Labor Statistics Employment Cost Index (wages and salaries, private industry workers) for that fiscal year differs from such index for the current year. The inflator used in paragraph (1) to adjust all other budgetary resources shall be the percent by which the average of the estimated gross domestic product chain-type price index for that fiscal year differs from the average of such estimated index for the current year.
 
 #### (6) Current-year appropriations
 
@@ -56,15 +60,15 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 In deriving the baseline for any budget year or outyear, current-year amounts shall be calculated using the concepts and definitions that are required for that budget year.
 
-#### (e) Sale of assets or prepayment of loans
+#### (e) Asset sales
 
-The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986; <sup>1</sup>
+Amounts realized from the sale of an asset shall not be included in estimates under section 901, 902, or 903 of this title if that sale would result in a financial cost to the Federal Government as determined pursuant to scorekeeping guidelines.
 
-(Pub. L. 99–177, title II, §257, formerly §§251(a)(6)(I), 257, Dec. 12, 1985, 99 Stat. 1092; Pub. L. 100–119, title I, §§102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, 101 Stat. 754, 773, 774, 777, 780; renumbered §257 and amended Pub. L. 101–508, title XIII, §13101(b), (e)(1), (2), Nov. 5, 1990, 104 Stat. 1388–589, 1388–591, 1388–593.)
+(Pub. L. 99–177, title II, §257, formerly §§251(a)(6)(I), 257, Dec. 12, 1985, 99 Stat. 1092; Pub. L. 100–119, title I, §§102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, 101 Stat. 754, 773, 774, 777, 780; renumbered §257 and amended Pub. L. 101–508, title XIII, §13101(b), (e)(1), (2), Nov. 5, 1990, 104 Stat. 1388–589, 1388–591, 1388–593; Pub. L. 105–33, title X, §10209(a), Aug. 5, 1997, 111 Stat. 710.)
 
 #### Termination of Section
 
-<i>For termination of section by section 14002(c)(3)(A) of Pub. L. 103–66, see Effective and Termination Dates note set out under section 900 of this title.</i>
+<i>For termination of section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates note set out under section 900 of this title.</i>
 
 #### References in Text
 
@@ -72,11 +76,19 @@ This Act, referred to in subsec. (b)(3), means Pub. L. 99–177, Dec. 12, 1985, 
 
 #### Codification
 
-Pub. L. 101–508, §13101(b), redesignated former par. (12) of this section as section 250(c)(21) of Pub. L. 99–177, which is classified to section 900(c)(21) of this title.
+Pub. L. 101–508, §13101(b), redesignated former par. (12) of this section as section 250(c)(21) (now 250(c)(19)) of Pub. L. 99–177, which is classified to section 900(c)(19) of this title.
 
 Pub. L. 101–508, §13101(e)(2), transferred section 251(a)(6)(I) of Pub. L. 99–177, which was classified to section 901(a)(6)(I) of this title, to subsec. (e) of this section.
 
 #### Amendments
+
+1997—Subsec. (b)(2)(A). Pub. L. 105–33, §10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
+
+Subsec. (b)(2)(D). Pub. L. 105–33, §10209(a)(2), added subpar. (D).
+
+Subsec. (c)(5). Pub. L. 105–33, §10209(a)(3), substituted “domestic product chain-type price index” for “national product fixed-weight price index”.
+
+Subsec. (e). Pub. L. 105–33, §10209(a)(4), added subsec. (e) and struck out former subsec. (e) which read as follows: “The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986;”.
 
 1990—Pub. L. 101–508, §13101(e)(1), amended section generally, substituting provisions relating to baseline for provisions relating to definitions.
 
@@ -132,9 +144,9 @@ Pars. (13), (14). Pub. L. 100–119, §102(b)(8), added pars. (13) and (14).
 
 #### Definition of Terms Used in Balanced Budget and Emergency Deficit Control Act of 1985
 
-Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 901 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
+Pub. L. 101–163, title III, §315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
 
-Pub. L. 100–202, §101(i) \[title III, §306\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that: “Hereafter, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 901 of this title\], the term ‘program, project, and activity’ shall be synonymous with each appropriation account in this Act \[see Tables for classification\], except that the accounts under the general heading ‘House of Representatives’ shall be considered one appropriation account and one ‘program, project, and activity’, and the accounts under the general heading ‘Senate’ shall be considered one appropriation account and one ‘program, project, and activity’.”
+Pub. L. 100–202, §101(i) \[title III, §306\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that: “Hereafter, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended \[see Short Title note set out under section 900 of this title\], the term ‘program, project, and activity’ shall be synonymous with each appropriation account in this Act \[see Tables for classification\], except that the accounts under the general heading ‘House of Representatives’ shall be considered one appropriation account and one ‘program, project, and activity’, and the accounts under the general heading ‘Senate’ shall be considered one appropriation account and one ‘program, project, and activity’.”
 
 #### Cost-of-Living Adjustments in Certain Federal Benefits
 
@@ -142,7 +154,7 @@ Pub. L. 99–509, title VII, §7001, Oct. 21, 1986, 100 Stat. 1948, provided tha
 
 “(a)
 
-In General.—Benefits which are payable in calendar year 1987, 1988, 1989, 1990, or 1991, under programs listed in section 257(1)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), \[2 U.S.C. 907(1)(A)\], including any cost-of-living adjustment in such benefits, shall not be subject to modification, suspension, or reduction in such calendar year pursuant to a Presidential order issued under such Act \[see Short Title note set out under 2 U.S.C. 901\].
+In General.—Benefits which are payable in calendar year 1987, 1988, 1989, 1990, or 1991, under programs listed in section 257(1)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), \[2 U.S.C. 907(1)(A)\], including any cost-of-living adjustment in such benefits, shall not be subject to modification, suspension, or reduction in such calendar year pursuant to a Presidential order issued under such Act \[see Short Title note set out under 2 U.S.C. 900\].
 
 “(b)
 
@@ -150,7 +162,7 @@ Definition.—For purposes of this section, the term ‘cost-of-living adjustmen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 691e, 900, 905, 922 of this title; title 7 section 7251.
+This section is referred to in sections 602, 691e, 900 of this title; title 7 section 7251; title 31 section 1105; title 38 section 1729A; title 42 section 603.
 
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “differences”.</i>
 

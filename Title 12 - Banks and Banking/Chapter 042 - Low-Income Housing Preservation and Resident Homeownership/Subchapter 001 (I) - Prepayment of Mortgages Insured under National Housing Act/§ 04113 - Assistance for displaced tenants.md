@@ -6,7 +6,7 @@ Each low-income family that is displaced as a result of the prepayment of the mo
 
 #### (b) Relocation assistance
 
-The Secretary shall coordinate with public housing agencies to ensure that any very low- or low-income family displaced from eligible low-income housing as the result of the prepayment of the mortgage (or termination of the mortgage insurance contract) on such housing is able to acquire a suitable, affordable dwelling unit in the area of the housing from which the family is displaced. The Secretary shall require the owner of such housing to pay 50 percent of the movingexpenses of each family relocated, except that such percentage shall be increased to the extent that State or local law of general applicability requires a higher payment by the owner.
+The Secretary shall coordinate with public housing agencies to ensure that any very low- or low-income family displaced from eligible low-income housing as the result of the prepayment of the mortgage (or termination of the mortgage insurance contract) on such housing is able to acquire a suitable, affordable dwelling unit in the area of the housing from which the family is displaced. The Secretary shall require the owner of such housing to pay 50 percent of the moving expenses of each family relocated, except that such percentage shall be increased to the extent that State or local law of general applicability requires a higher payment by the owner.
 
 #### (c) Continued occupancy
 
@@ -32,7 +32,7 @@ An owner who prepays the mortgage (or terminates the mortgage insurance contract
 
 #### (e) Regional pools
 
-In providing assistance under this section, the Secretary shall allocate the assistance on a regional basis through the regional offices of the Department of Housing and Urban Development. The Secretary shall allocate assistance under this section in a manner so that the total number of assisted units in each such region available for occupancy by, and affordable to, lower income families and persons does not decrease because of the prepayment or payment of a mortgage on eligible low-income housing or the termination of an insurance contract on such housing.
+In providing assistance under this section, the Secretary shall allocate the assistance on a regional basis through the regional offices of the Department of Housing and Urban Development. The Secretary shall allocate assistance under this section in a manner so that the total number of assisted units in each such region available for occupancy by, and affordable to, lowerincome families and persons does not decrease because of the prepayment or payment of a mortgage on eligible low-income housing or the termination of an insurance contract on such housing.
 
 (Pub. L. 100–242, title II, §223, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4264.)
 

@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(5) negative resource transfers at present levels severely depress both investment and growth in the debtor countries, and force debtor countries to reduce imports and expand exports in order to meet their debt service obligations;
 
-&emsp;(6) current adjustment policies in debtor countries, which depress domestic demand and increase production for export, help to depress world commodity prices and limit the growth of export markets for United States industries;
+&emsp;(6) current adjustment policies in debtor countries, which depress domestic demand andincrease production for export, help to depress world commodity prices and limit the growth of export markets for United States industries;
 
 &emsp;(7) the United States has borne a disproportionate share of the burden of absorbing increased exports from debtor countries, while other industrialized countries have increased their imports from developing countries only slightly;
 

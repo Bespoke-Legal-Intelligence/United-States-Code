@@ -46,11 +46,11 @@ Pub. L. 103–160, div. A, title VIII, §838, Nov. 30, 1993, 107 Stat. 1718, as 
 
 #### Defense Acquisition Pilot Program
 
-Pub. L. 104–201, div. A, title VIII, §803, Sept. 23, 1996, 110 Stat. 2604, provided that:
+Pub. L. 104–201, div. A, title VIII, §803, Sept. 23, 1996, 110 Stat. 2604, as amended by Pub. L. 105–85, div. A, title VIII, §847(b)(2), Nov. 18, 1997, 111 Stat. 1845, provided that:
 
 “(a)
 
-Authority.—The Secretary of Defense may waive sections 2399, 2403, 2432, and 2433 of title 10, United States Code, in accordance with this section for any defense acquisition program designated by the Secretary of Defense for participation in the defense acquisition pilot program authorized by section 809 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2430 note).
+Authority.—The Secretary of Defense may waive sections 2399, 2432, and 2433 of title 10, United States Code, in accordance with this section for any defense acquisition program designated by the Secretary of Defense for participation in the defense acquisition pilot program authorized by section 809 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2430 note).
 
 “(b)
 
@@ -65,10 +65,6 @@ Operational Test and Evaluation.—The Secretary of Defense may waive the requir
 &emsp;“(4) submits to the congressional defense committees \[Committees on Armed Services and on Appropriations of the Senate and Committees on National Security and on Appropriations of the House of Representatives\] a report containing the determination that was made under paragraph (1), a justification for that determination, and a copy of the plan required by paragraph (3).
 
 “(c)
-
-Contractor Guarantees for Major Weapons Systems.—The Secretary of Defense may waive the requirements of section 2403 of title 10, United States Code, for such a defense acquisition program if an alternative guarantee is used that ensures high quality weapons systems.
-
-“(d)
 
 Selected Acquisition Reports.—The Secretary of Defense may waive the requirements of sections 2432 and 2433 of title 10, United States Code, for such a defense acquisition program if the Secretary provides a single annual report to Congress at the end of each fiscal year that describes the status of the program in relation to the baseline description for the program established under section 2435 of such title.”
 
@@ -100,7 +96,7 @@ Commercial-derivative aircraft (cda).—
 
 &emsp;&emsp;&emsp;“(i) Any aircraft (including spare parts, support services, support equipment, technical manuals, and data related thereto) that is or was of a type customarily used in the course of normal business operations for other than Federal Government purposes, that has been issued a type certificate by the Administrator of the Federal Aviation Administration, and that has been sold or leased for use in the commercial marketplace or that has been offered for sale or lease for use in the commercial marketplace.
 
-&emsp;&emsp;&emsp;“(ii) Any aircraft that, but for modifications of a type customarily available in the commercial marketplace, or minor modifications made to meet Federal Government requirements, would satisfy or would have satisfied the criteria in subclause (I).
+&emsp;&emsp;&emsp;“(ii) Any aircraft that, but for modifications of a type customarily available in the commercial marketplace, or minor modifications made tomeet Federal Government requirements, would satisfy or would have satisfied the criteria in subclause (I).
 
 &emsp;&emsp;&emsp;“(iii) For purposes of a potential complement or alternative to the C–17 program, any nondevelopmental airlift aircraft, other than the C–17 or any aircraft derived from the C–17, shall be considered a commercial-derivative aircraft.
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A).
 
-(b) In order to avoid or minimize the need for involuntary separations due to a reduction inforce, base closure, reorganization, transfer of function, or other similar action affecting 1 or more defense agencies, the Secretary shall establish a program under which separation pay may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation).
+(b) In order to avoid or minimize the need for involuntary separations due to a reduction in force, base closure, reorganization, transfer of function, or other similar action affecting 1 or more defense agencies, the Secretary shall establish a program under which separation pay may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation).
 
 (c) Under the program, separation pay may be offered by a defense agency only—
 
@@ -34,7 +34,7 @@
 
 &emsp;(4) shall not be taken into account for purposes of determining the amount of any severance pay to which an individual may be entitled under section 5595 based on any other separation.
 
-(e) No amount shall be payable under this section based on any separation occurring after September 30, 1999.
+(e) No amount shall be payable under this section based on any separation occurring after September 30, 2001.
 
 (f) The Secretary shall prescribe such regulations as may be necessary to carry out this section.
 
@@ -48,13 +48,31 @@
 
 (5) If the employment is without compensation, the appointing official may waive the repayment.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4436(a)(1), Oct. 23, 1992, 106 Stat. 2723; amended Pub. L. 103–226, §8(a), Mar. 30, 1994, 108 Stat. 118; Pub. L. 103–337, div. A, title III, §341(b)(1), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–201, div. A, title XVI, §1612(a), Sept. 23, 1996, 110 Stat. 2739.)
+(h)(1)(A) In addition to any other payment that it is required to make under subchapter III of chapter 83 or chapter 84, the Department of Defense shall remit to the Office of Personnel Management an amount equal to 15 percent of the final basic pay of each covered employee.
+
+(B) If the employee is one with respect to whom a remittance would otherwise be required under section 4(a) of the Federal Workforce Restructuring Act of 1994 based on the separation involved, the remittance under this subsection shall be instead of the remittance otherwise required under such section 4(a).
+
+(2) Amounts remitted under paragraph (1) shall be deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund.
+
+(3) For the purposes of this subsection—
+
+&emsp;(A) the term “covered employee” means an employee who is subject to subchapter III of chapter 83 or chapter 84 and to whom a voluntary separation incentive has been paid under this section on the basis of a separation occurring on or after October 1, 1997; and
+
+&emsp;(B) the term “final basic pay” has the meaning given such term in section 4(a)(2) of the Federal Workforce Restructuring Act of 1994.
+
+(Added Pub. L. 102–484, div. D, title XLIV, §4436(a)(1), Oct. 23, 1992, 106 Stat. 2723; amended Pub. L. 103–226, §8(a), Mar. 30, 1994, 108 Stat. 118; Pub. L. 103–337, div. A, title III, §341(b)(1), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–201, div. A, title XVI, §1612(a), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–85, div. A, title XI, §1106(a), (b)(1), Nov. 18, 1997, 111 Stat. 1923, 1924.)
 
 #### References in Text
 
 The date of the enactment of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 103–226, which was approved Mar. 30, 1994.
 
+Section 4(a) of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (h)(1)(B), (3)(B), is section 4(a) of Pub. L. 103–226, as amended, which is set out as a note under section 8331 of this title.
+
 #### Amendments
+
+1997—Subsec. (e). Pub. L. 105–85, §1106(b)(1), substituted “September 30, 2001” for “September 30, 1999”.
+
+Subsec. (h). Pub. L. 105–85, §1106(a), added subsec. (h).
 
 1996—Subsec. (g)(5). Pub. L. 104–201 added par. (5).
 
@@ -68,7 +86,7 @@ Section 1612(b) of Pub. L. 104–201 provided that: “The amendment made by sub
 
 #### Voluntary Separation Incentives
 
-Pub. L. 104–208, div. A, title I, §101(e) \[title V, §520\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–272, provided that:
+Pub. L. 104–208, div. A, title I, §101(e) \[title V, §520\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–272, as amended by Pub. L. 105–78, title V, §517, Nov. 13, 1997, 111 Stat. 1519, provided that:
 
 “(a)
 
@@ -116,7 +134,7 @@ Authority To Provide Voluntary Separation Incentive Payments.—
 
 &emsp;“(1)
 
-In general.—A voluntary separation incentive payment under this section may be paid by an agency to any employee only to the extent necessary to eliminate the positions and functions identified by the strategic plan.
+In general.—A voluntary separation incentive payment under this section may be paid by an agencyto any employee only to the extent necessary to eliminate the positions and functions identified by the strategic plan.
 
 &emsp;“(2)
 
@@ -132,7 +150,7 @@ Amount and treatment of payments.—A voluntary separation incentive payment—
 
 &emsp;&emsp;&emsp;“(ii) an amount determined by the agency head not to exceed $25,000;
 
-&emsp;&emsp;“(D) may not be made except in the case of any qualifying employee who voluntarily separates (whether by retirement or resignation) before September 30, 1997;
+&emsp;&emsp;“(D) may not be made except in the case of any qualifying employee who voluntarily separates (whether by retirement or resignation) before December 31, 1997;
 
 &emsp;&emsp;“(E) shall not be a basis for payment, and shall not be included in the computation, of any other type of Government benefit; and
 
@@ -438,7 +456,7 @@ Incentive Payments.—In order to receive a voluntary separation incentive payme
 
 Effect of Subsequent Employment With the Government.—
 
-&emsp;“(1) An individual who has received a voluntary separation incentive payment under this section and accepts any employment with the Government of the United States within five years after the date of the separation on which the payment is based shall be required to repay, prior to the individual's first day ofemployment, the entire amount of the incentive payment to NASA.
+&emsp;“(1) An individual who has received a voluntary separation incentive payment under this section and accepts any employment with the Government of the United States within five years after the date of the separation on which the payment is based shall be required to repay, prior to the individual's first day of employment, the entire amount of the incentive payment to NASA.
 
 &emsp;“(2) If the employment under paragraph (1) above is with an executive agency (as defined by section 105 of title 5, United States Code), the United States Postal Service, or the Postal Rate Commission, the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 

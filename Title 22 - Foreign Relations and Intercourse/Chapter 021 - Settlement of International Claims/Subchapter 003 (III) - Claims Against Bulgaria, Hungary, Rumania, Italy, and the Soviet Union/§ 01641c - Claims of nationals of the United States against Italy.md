@@ -24,7 +24,7 @@ The Commission shall certify awards on claims determined pursuant to subsections
 
 After payment in full of all awards certified to the Secretary of the Treasury pursuant to subsections (a) and (e) of this section, the Secretary of the Treasury is authorized and directed to transfer the unobligated balance in the Italian Claims Fund into the War Claims Fund created by section 2012 of title 50 Appendix.
 
-(Mar. 10, 1950, ch. 54, title III, §304, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 572; amended Aug. 8, 1958, Pub. L. 85–604, §2, 72 Stat. 531; July 24, 1968, Pub. L. 90–421, §1(11), 82 Stat. 422.)
+(Mar. 10, 1950, ch. 54, title III, §304, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 572; amended Pub. L. 85–604, §2, Aug. 8, 1958, 72 Stat. 531; Pub. L. 90–421, §1(11), July 24, 1968, 82 Stat. 422.)
 
 #### Amendments
 

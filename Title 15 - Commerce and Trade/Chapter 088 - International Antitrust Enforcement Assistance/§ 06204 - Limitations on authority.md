@@ -8,7 +8,7 @@ Sections 6201, 6202, and 6203 of this title shall not apply with respect to the 
 
 &emsp;&emsp;(A) a foreign antitrust authority with respect to which a particularized need for such antitrust evidence is shown shall be considered to be an appropriate official of any of the several States, and
 
-&emsp;&emsp;(B) a foreign antitrust law administered or enforced by the foreign antitrust authority shall be considered to be a State criminal law.
+&emsp;&emsp;(B) a foreign antitrust law administered or enforced by the foreign antitrust authorityshall be considered to be a State criminal law.
 
 &emsp;(3) Antitrust evidence that is specifically authorized under criteria established by Executive Order 12356, or any successor to such order, to be kept secret in the interest of national defense or foreign policy, and—
 

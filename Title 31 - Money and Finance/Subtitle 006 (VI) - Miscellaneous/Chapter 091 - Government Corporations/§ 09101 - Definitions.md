@@ -6,29 +6,27 @@ In this chapter—
 
 &emsp;(2) “mixed-ownership Government corporation” means—
 
-&emsp;&emsp;(A) Amtrak.
+&emsp;&emsp;(A) the Central Bank for Cooperatives.
 
-&emsp;&emsp;(B) the Central Bank for Cooperatives.
+&emsp;&emsp;(B) the Federal Deposit Insurance Corporation.
 
-&emsp;&emsp;(C) the Federal Deposit Insurance Corporation.
+&emsp;&emsp;(C) the Federal Home Loan Banks.
 
-&emsp;&emsp;(D) the Federal Home Loan Banks.
+&emsp;&emsp;(D) the Federal Intermediate Credit Banks.
 
-&emsp;&emsp;(E) the Federal Intermediate Credit Banks.
+&emsp;&emsp;(E) the Federal Land Banks.
 
-&emsp;&emsp;(F) the Federal Land Banks.
+&emsp;&emsp;(F) the National Credit Union Administration Central Liquidity Facility.
 
-&emsp;&emsp;(G) the National Credit Union Administration Central Liquidity Facility.
+&emsp;&emsp;(G) the Regional Banks for Cooperatives.
 
-&emsp;&emsp;(H) the Regional Banks for Cooperatives.
+&emsp;&emsp;(H) the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).
 
-&emsp;&emsp;(I) the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).
+&emsp;&emsp;(I) the Financing Corporation.
 
-&emsp;&emsp;(J) the Financing Corporation.
+&emsp;&emsp;(J) the Resolution Trust Corporation.
 
-&emsp;&emsp;(K) the Resolution Trust Corporation.
-
-&emsp;&emsp;(L) the Resolution Funding Corporation.
+&emsp;&emsp;(K) the Resolution Funding Corporation.
 
 &emsp;(3) “wholly owned Government corporation” means—
 
@@ -66,7 +64,7 @@ In this chapter—
 
 &emsp;&emsp;(Q) the Alternative Agricultural Research and Commercialization Corporation.
 
-(Pub. L. 97–258, §§1, 2(<i>l</i>)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, §1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, §303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, §307(e), title V, §§501(d), 511(b)(1), Aug. 9, 1989, 103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, §902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, §202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, §4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, §104(e), Sept. 23, 1994, 108 Stat. 2168; Pub. L. 104–106, div. C, title XXXV, §3530, Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–127, title VII, §722(b), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 104–134, title III, §3117(a), Apr. 26, 1996, 110 Stat. 1321–350; Pub. L. 104–287, §4(2), Oct. 11, 1996, 110 Stat. 3388.)
+(Pub. L. 97–258, §§1, 2(<i>l</i>)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, §1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, §303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, §307(e), title V, §§501(d), 511(b)(1), Aug. 9, 1989, 103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, §902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, §202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, §4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, §104(e), Sept. 23, 1994, 108 Stat. 2168; Pub. L. 104–106, div. C, title XXXV, §3530, Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–127, title VII, §722(b), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 104–134, title III, §3117(a), Apr. 26, 1996, 110 Stat. 1321–350; Pub. L. 104–287, §4(2), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–134, title IV, §415(d)(2), Dec. 2, 1997, 111 Stat. 2590.)
 
 #### Amendment of Paragraph (3)
 
@@ -113,6 +111,8 @@ In clause (3)(J), the words “until the ownership, control, and operation of th
 This amends 31:9101(2) because the National Consumer Cooperative Bank is no longer a mixed-ownership Government corporation. Section 396(h)(1) and (i) of the Omnibus Budget Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 440) provided that the Bank would cease being a mixed-ownership Government corporation on the day after the Final Government Equity Redemption Date. Section 501(36) of the Act of December 23, 1981 (Pub. L. 97–101, 95 Stat. 1440), provided that the Redemption Date was December 31, 1981.
 
 #### Amendments
+
+1997—Par. (2). Pub. L. 105–134 redesignated subpars. (B) to (L) as (A) to (K), respectively, and struck out former subpar. (A) which read: “Amtrak.”
 
 1996—Par. (2)(J) to (M). Pub. L. 104–287, §4(2)(A), (B), redesignated subpars. (K) to (M) as (J) to (L), respectively, and struck out former subpar. (J), which read: “the United States Railway Association”.
 

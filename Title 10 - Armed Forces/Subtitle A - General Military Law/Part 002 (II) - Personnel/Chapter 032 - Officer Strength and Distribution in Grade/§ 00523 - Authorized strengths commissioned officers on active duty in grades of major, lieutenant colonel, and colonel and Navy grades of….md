@@ -112,7 +112,7 @@
 
 &emsp;(7) Reserve or retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
 
-(c) Whenever the number of officers serving in any grade is less than the number authorized forthat grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
+(c) Whenever the number of officers serving in any grade is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 
 (d) An officer may not be reduced in grade, or have his pay or allowances reduced, because of a reduction in the number of commissioned officers authorized for his grade under this section.
 
@@ -176,7 +176,7 @@ Pub. L. 100–456, div. A, title IV, §403, Sept. 29, 1988, 102 Stat. 1963, prov
 
 #### Ceilings on Commissioned Officers on Active Duty
 
-Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, §817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, §1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, §602, Dec. 1, 1981, 95 Stat. 1110, which provided that after Oct. 1, 1981, the total number of commissioned officers on active duty in the Army, Air Force, and Marine Corps above the grade of colonel, and on active duty in the Navy above the grade of captain, could not exceed 1,073, and that in time of war, or of national emergency declared by Congress, the President could suspend the operation of this provision, was repealed and restated insection 526 of this title by Pub. L. 100–370, §1(b)(1)(B), (4).
+Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, §817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, §1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, §602, Dec. 1, 1981, 95 Stat. 1110, which provided that after Oct. 1, 1981, the total number of commissioned officers on active duty in the Army, Air Force, and Marine Corps above the grade of colonel, and on active duty in the Navy above the grade of captain, could not exceed 1,073, and that in time of war, or of national emergency declared by Congress, the President could suspend the operation of this provision, was repealed and restated in section 526 of this title by Pub. L. 100–370, §1(b)(1)(B), (4).
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

@@ -60,7 +60,7 @@
 
 #### References in Text
 
-The Act and this Act, referred to in subsec. (a), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186, 2457, and 5908 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 14 and 41 of thistitle. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 41 of this title and Tables.
+The Act and this Act, referred to in subsec. (a), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186, 2457, and 5908 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 14 and 41 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 41 of this title and Tables.
 
 Section 12 of the National Science Foundation Act of 1950 (42 U.S.C. 1871(a); 82 Stat. 360), referred to in subsec. (a)(5), was amended by Pub. L. 99–159, title I, §109(c), Nov. 22, 1985, 99 Stat. 889, by striking out subsec. (b) and designating subsec. (a) as the entire section.
 

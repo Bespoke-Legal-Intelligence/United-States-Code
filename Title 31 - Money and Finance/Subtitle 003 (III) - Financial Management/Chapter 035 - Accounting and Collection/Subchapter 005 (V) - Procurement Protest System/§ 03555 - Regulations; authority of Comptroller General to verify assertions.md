@@ -34,5 +34,5 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3553, 3554 of this title.
+This section is referred to in sections 3553, 3554 of this title; title 22 section 3862.
 

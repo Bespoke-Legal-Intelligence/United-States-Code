@@ -6,13 +6,13 @@ General Authorities.—The Secretary of Defense and the Secretary of each milita
 
 &emsp;(1) provide for insurance of official motor vehicles in a foreign country when the laws of such country require such insurance; and
 
-&emsp;(2) purchase right-hand drive vehicles at a cost of not more than $12,000 each.
+&emsp;(2) purchase right-hand drive vehicles at a cost of not more than $30,000 each.
 
 (b)
 
 Hire of Passenger Vehicles.—Amounts appropriated to the Department of Defense for operation and maintenance of the active forces may be used for the hire of passenger motor vehicles.
 
-(Added Pub. L. 100–370, §1(e)(1), July 19, 1988, 102 Stat. 845.)
+(Added Pub. L. 100–370, §1(e)(1), July 19, 1988, 102 Stat. 845; amended Pub. L. 105–85, div. A, title VIII, §805, Nov. 18, 1997, 111 Stat. 1834.)
 
 #### Historical and Revision Notes
 
@@ -21,4 +21,8 @@ Subsection (a)(1) of this section and sections 2241(b) and 2242(1), (4) of this 
 Subsection (a)(2) is based on Pub. L. 99–190, §101(b) \[title VIII, §8005(i)\], Dec. 19, 1985, 99 Stat. 1185, 1202.
 
 Subsection (b) of this section and sections 2241(a) and 2661(a) of this title are based on Pub. L. 98–212, title VII, §735, Dec. 8, 1983, 97 Stat. 1444, as amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621.
+
+#### Amendments
+
+1997—Subsec. (a)(2). Pub. L. 105–85 substituted “$30,000” for “$12,000”.
 

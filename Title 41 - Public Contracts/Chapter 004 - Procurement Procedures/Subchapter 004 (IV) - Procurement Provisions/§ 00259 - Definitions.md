@@ -8,7 +8,7 @@ As used in this subchapter—
 
 &emsp;(1) procurement of architectural or engineering services conducted in accordance with title IX of this Act (40 U.S.C. 541 et seq.);
 
-&emsp;(2) the competitive selection of basic research proposals resulting from a general solicitation and the peer review or scientific review (as appropriate) of such proposals; and <sup>1</sup>
+&emsp;(2) the competitive selection of basic research proposals resulting from a general solicitation and the peer review or scientific review (as appropriate) of such proposals;
 
 &emsp;(3) the procedures established by the Administrator for the multiple awards schedule program of the General Services Administration if—
 
@@ -60,13 +60,15 @@ As used in this subchapter—
 
 (e) The term “Federal Acquisition Regulation” means the Federal Acquisition Regulation issued pursuant to section 421(c)(1) of this title.
 
-(June 30, 1949, ch. 288, title III, §309, 63 Stat. 397; July 12, 1952, ch. 703, §1(h), 66 Stat. 593; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(3), 98 Stat. 1180; Oct. 30, 1984, Pub. L. 98–577, title V, §504(a)(3), (4), 98 Stat. 3086; Oct. 13, 1994, Pub. L. 103–355, title I, §1551, 108 Stat. 3298; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §807(b), 110 Stat. 2606.)
+(June 30, 1949, ch. 288, title III, §309, 63 Stat. 397; July 12, 1952, ch. 703, §1(h), 66 Stat. 593; Pub. L. 98–369, div. B, title VII, §2711(a)(3), July 18, 1984, 98 Stat. 1180; Pub. L. 98–577, title V, §504(a)(3), (4), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 103–355, title I, §1551, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 104–201, div. A, title VIII, §807(b), Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title X, §1073(g)(1), Nov. 18, 1997, 111 Stat. 1906.)
 
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), is the Federal Property and Administrative Services Act of 1949, approved June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of this Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Amendments
+
+1997—Subsec. (b)(2). Pub. L. 105–85 struck out “and” at end.
 
 1996—Subsec. (d). Pub. L. 104–201 designated existing provisions as par. (1), inserted “or a humanitarian or peacekeeping operation” after “contingency operation”, and added par. (2).
 
@@ -101,6 +103,4 @@ Amendment to this section by section 2711(a)(3) of Pub. L. 98–369 not to affec
 #### Definitions
 
 The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
-
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -64,7 +64,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (3) Employing office responsible for correction
 
-&emsp;The regulations issued under paragraph (1) shall include a method of identifying, for purposes of this section and for different categories of violations of subsection (a) of thissection, the employing office responsible for correction of a particular violation.
+&emsp;The regulations issued under paragraph (1) shall include a method of identifying, for purposes of this section and for different categories of violations of subsection (a) of this section, the employing office responsible for correction of a particular violation.
 
 #### (e) Periodic inspections; report to Congress
 

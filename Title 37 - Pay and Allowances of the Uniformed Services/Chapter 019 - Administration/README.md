@@ -10,7 +10,7 @@
 | [1006\.](%C2%A7%2001006%20-%20Advance%20payments.md) | Advance payments. |
 | [1007\.](%C2%A7%2001007%20-%20Deductions%20from%20pay.md) | Deductions from pay. |
 | [1008\.](%C2%A7%2001008%20-%20Presidential%20recommendations%20concerning%20adjustments%20and%20changes%20in%20pay%20and%20allowances.md) | Presidential recommendations concerning adjustments and changes in pay and allowances. |
-| [1009\.](%C2%A7%2001009%20-%20Adjustments%20of%20compensation.md) | Adjustments of compensation. |
+| [1009\.](%C2%A7%2001009%20-%20Adjustments%20of%20monthly%20basic%20pay.md) | Adjustments of monthly basic pay. |
 | [1010\.](%C2%A7%2001010%20-%20Commissioned%20officers%20promotion%3B%20effective%20date%20for%20pay%20and%20allowances.md) | Commissioned officers: promotions; effective date for pay and allowances.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,6 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title VI, §604(a)(2), Nov. 18, 1997, 111 Stat. 1784, substituted “monthly basic pay” for “compensation” in item 1009.
 
 1990—Pub. L. 101–510, div. A, title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
@@ -59,7 +61,7 @@ Pub. L. 99–399, title VIII, §806(e)(2), Aug. 27, 1986, 100 Stat. 889, added i
 - [&sect; 01006 - Advance payments](%C2%A7%2001006%20-%20Advance%20payments.md)
 - [&sect; 01007 - Deductions from pay](%C2%A7%2001007%20-%20Deductions%20from%20pay.md)
 - [&sect; 01008 - Presidential recommendations concerning adjustments and changes in pay and allowances](%C2%A7%2001008%20-%20Presidential%20recommendations%20concerning%20adjustments%20and%20changes%20in%20pay%20and%20allowances.md)
-- [&sect; 01009 - Adjustments of compensation](%C2%A7%2001009%20-%20Adjustments%20of%20compensation.md)
+- [&sect; 01009 - Adjustments of monthly basic pay](%C2%A7%2001009%20-%20Adjustments%20of%20monthly%20basic%20pay.md)
 - [&sect; 01010 - Commissioned officers promotion; effective date for pay and allowances](%C2%A7%2001010%20-%20Commissioned%20officers%20promotion%3B%20effective%20date%20for%20pay%20and%20allowances.md)
 - [&sect; 01011 - Mess operation reimbursement of expenses](%C2%A7%2001011%20-%20Mess%20operation%20reimbursement%20of%20expenses.md)
 - [&sect; 01012 - Disbursement and accounting pay of enlisted members of the National Guard](%C2%A7%2001012%20-%20Disbursement%20and%20accounting%20pay%20of%20enlisted%20members%20of%20the%20National%20Guard.md)

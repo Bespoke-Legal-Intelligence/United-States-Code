@@ -20,7 +20,7 @@ In the case of information furnished under a provision of law referred to in sub
 
 #### (c) Violations; penalties
 
-Any person who shall publish, cause to be published, or otherwise publicly release informationcollected pursuant to a provision of law referred to in subsection (d) of this section, in any manner or for any purpose prohibited in section <sup>1</sup> (a) of this section, shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
+Any person who shall publish, cause to be published, or otherwise publicly release information collected pursuant to a provision of law referred to in subsection (d) of this section, in any manner or for any purpose prohibited in section <sup>1</sup> (a) of this section, shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
 
 #### (d) Specific provisions for collection of information
 
@@ -40,11 +40,23 @@ For purposes of this section, a provision of law referred to in this subsection 
 
 &emsp;(7) section 42 of title 13;
 
-&emsp;(8) section 4 of the Act entitled “An Act to establish the Department of Commerce and Labor”, approved February 14, 1903 (15 U.S.C. 1516); or
+&emsp;(8) section 4 of the Act entitled “An Act to establish the Department of Commerce and Labor”, approved February 14, 1903 (15 U.S.C. 1516);
 
-&emsp;(9) section 2 of the joint resolution entitled “Joint resolution relating to the publication of economic and social statistics for Americans of Spanish origin or descent”, approved June 16, 1976 (15 U.S.C. 1516a).
+&emsp;(9) section 2 of the joint resolution entitled “Joint resolution relating to the publication of economic and social statistics for Americans of Spanish origin or descent”, approved June 16, 1976 (15 U.S.C. 1516a); or
 
-(Pub. L. 99–198, title XVII, §1770, Dec. 23, 1985, 99 Stat. 1657.)
+&emsp;(10) section 2204g of this title.
+
+#### (e) Information provided to Secretary of Commerce
+
+This section shall not prohibit the release of information under section 2204g(f)(2) of this title.
+
+(Pub. L. 99–198, title XVII, §1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, §4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276.)
+
+#### Amendments
+
+1997—Subsec. (d)(10). Pub. L. 105–113, §4(a)(2), added par. (10).
+
+Subsec. (e). Pub. L. 105–113, §4(b), added subsec. (e).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

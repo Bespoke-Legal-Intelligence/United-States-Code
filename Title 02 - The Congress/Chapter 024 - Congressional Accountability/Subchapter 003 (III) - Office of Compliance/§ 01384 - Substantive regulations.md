@@ -74,7 +74,7 @@ The Board shall adopt the regulations referred to in subsection (a)(1) of this s
 
 #### (3) Effective date
 
-&emsp;Regulations shall become effective not less than 60 days after the regulations are issued, except that the Board may provide for an earlier effective date for good cause found (within the meaning of section 553(d)(3) of title 5) and published with the regulation.
+&emsp;Regulations shall become effective not less than 60 days after the regulations are issued,except that the Board may provide for an earlier effective date for good cause found (within the meaning of section 553(d)(3) of title 5) and published with the regulation.
 
 #### (e) Amendment of regulations
 

@@ -4,5 +4,5 @@ Sections, act Aug. 24, 1949, ch. 505, §§1–3, 63 Stat. 630, authorized the cr
 
 #### Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions
 
-Continuation in full force and effect, and applicability to the appropriate provisions of the Mutual Educational and Cultural Exchange Act of 1961, set out in section 2451 et seq. of Title 22, Foreign Relations and Intercourse, until modified or superseded by appropriate authority, of all Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of these sections, see section 111(b) of Pub. L. 87–256, set out as a note under section 2451 of Title 22.
+Continuation in full force and effect, and applicability to the appropriate provisions of the Mutual Educational and Cultural Exchange Act of 1961, set out in section 2451 et seq. of Title 22, Foreign Relations andIntercourse, until modified or superseded by appropriate authority, of all Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of these sections, see section 111(b) of Pub. L. 87–256, set out as a note under section 2451 of Title 22.
 

@@ -12,7 +12,7 @@
 
 &emsp;(iii) local voluntary agency activities should be conducted in close cooperation and advance consultation with State and local governments.
 
-(2)(A) The Director and the Federal agency administering subsection (b)(1) of this section shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerning the sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
+(2)(A) The Director and the Federal agency administering subsection (b)(1) of this section shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerningthe sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
 
 (B) The Director shall develop and implement, in consultation with representatives of voluntary agencies and State and local governments, policies and strategies for the placement and resettlement of refugees within the United States.
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(v) for the identification of refugees who at the time of resettlement in the State are determined to have medical conditions requiring, or medical histories indicating a need for, treatment or observation and such monitoring of such treatment or observation as may be necessary;
 
-&emsp;(B) meet standards, goals, and priorities, developed by the Director, which assure the effective resettlement of refugees and which promote their economic self-sufficiency as quickly as possible and the efficient provision of services; and
+&emsp;(B) meet standards, goals, and priorities, developed by the Director, which assure the effective resettlement of refugees and whichpromote their economic self-sufficiency as quickly as possible and the efficient provision of services; and
 
 &emsp;(C) submit to the Director, within a reasonable period of time after the end of each fiscal year, a report on the uses of funds provided under this subchapter which the State is responsible for administering.
 
@@ -182,7 +182,7 @@
 
 &emsp;(i) primarily for the purpose of facilitating refugee employment and achievement of self-sufficiency,
 
-&emsp;(ii) in a manner that does not supplant other refugee program funds and that assures that not less than 95 percent of the amount of the grant award is made available to the county or other local entity.
+&emsp;(ii) in a manner that does not supplant other refugee program funds and that assures thatnot less than 95 percent of the amount of the grant award is made available to the county or other local entity.
 
 #### (d) Assistance for refugee children
 
@@ -190,7 +190,7 @@
 
 (2)(A) The Director is authorized to provide assistance, reimbursement to States, and grants to and contracts with public and private nonprofit agencies, for the provision of child welfare services, including foster care maintenance payments and services and health care, furnished to any refugee child (except as provided in subparagraph (B)) during the thirty-six month period beginning with the first month in which such refugee child is in the United States.
 
-(B)(i) In the case of a refugee child who is unaccompanied by a parent or other close adult relative (as defined by the Director), the services described in subparagraph (A) may be furnished until the month after the child attains eighteen years of age (or such higher age as the State's child welfare services plan under part B of title IV of the Social Security Act \[42 U.S.C.620 et seq.\] prescribes for the availability of such services to any other child in that State).
+(B)(i) In the case of a refugee child who is unaccompanied by a parent or other close adult relative (as defined by the Director), the services described in subparagraph (A) may be furnished until the month after the child attains eighteen years of age (or such higher age as the State's child welfare services plan under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] prescribes for the availability of such services to any other child in that State).
 
 (ii) The Director shall attempt to arrange for the placement under the laws of the States of such unaccompanied refugee children, who have been accepted for admission to the United States, before (or as soon as possible after) their arrival in the United States. During any interim period while such a child is in the United States or in transit to the United States but before the child is so placed, the Director shall assume legal responsibility (including financial responsibility) for the child, if necessary, and is authorized to make necessary decisions to provide for the child's immediate care.
 
@@ -234,7 +234,7 @@
 
 (6) As a condition for receiving assistance, reimbursement, or a contract under this subsection and notwithstanding any other provision of law, a State or agency must provide assurances that whenever a refugee applies for cash or medical assistance for which assistance or reimbursement is provided under this subsection, the State or agency must notify promptly the agency (or local affiliate) which provided for the initial resettlement of the refugee under subsection (b) of this section of the fact that the refugee has so applied.
 
-(7)(A) The Secretary shall develop and implement alternative projects for refugees who have been in the United States less than thirty-six months, under which refugees are provided interim support, medical services, support services, and case management, as needed, in a manner that encourages self-sufficiency, reduces welfare dependency, and fosters greater coordination among the resettlement agencies and service providers. The Secretary may permit alternative projects to cover specific groups of refugees who have been in the United States 36 months or longer if the Secretary determinesthat refugees in the group have been significantly and disproportionately dependent on welfare and need the services provided under the project in order to become self-sufficient and that their coverage under the projects would be cost-effective.
+(7)(A) The Secretary shall develop and implement alternative projects for refugees who have been in the United States less than thirty-six months, under which refugees are provided interim support, medical services, support services, and case management, as needed, in a manner that encourages self-sufficiency, reduces welfare dependency, and fosters greater coordination among the resettlement agencies and service providers. The Secretary may permit alternative projects to cover specific groups of refugees who have been in the United States 36 months or longer if the Secretary determines that refugees in the group have been significantly and disproportionately dependent on welfare and need the services provided under the project in order to become self-sufficient and that their coverage under the projects would be cost-effective.
 
 (B) Refugees covered under such alternative projects shall be precluded from receiving cash or medical assistance under any other paragraph of this subsection or under title XIX or part A of title IV of the Social Security Act \[42 U.S.C. 1396 et seq., 601 et seq.\].
 
@@ -276,7 +276,7 @@
 
 #### References in Text
 
-The Renegotiation Act of 1951, referred to in subsec. (b)(3), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See note preceding section 1211 of Title 50, Appendix.
+The Renegotiation Act of 1951, referred to in subsec. (b)(3), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, priorto its omission from the Code. See note preceding section 1211 of Title 50, Appendix.
 
 The Social Security Act, referred to in subsecs. (d)(2)(B)(i), (e)(4), (5), (7)(B), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title IV of the Social Security Act are classified generally to part A (§601 et seq.) and part B (§620 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI and XIX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -368,7 +368,7 @@ Subsec. (e)(6). Pub. L. 97–363, §6(c), added par. (6).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office ofAssistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendments
 
@@ -384,7 +384,7 @@ Section 6(c) of Pub. L. 100–525 provided that: “The amendments made by this 
 
 Section 5(d) of Pub. L. 99–605 provided that:
 
-“(1) Section 412(b)(7) (other than subparagraphs (B)(i), (C), and (D)) of the Immigration and NationalityAct \[8 U.S.C. 1522(b)(7)\], as added by subsection (b)(1) of this section, shall apply to grants and contracts made or renewed after the end of the 30-day period beginning on the date of the enactment of this Act \[Nov. 6, 1986\].
+“(1) Section 412(b)(7) (other than subparagraphs (B)(i), (C), and (D)) of the Immigration and Nationality Act \[8 U.S.C. 1522(b)(7)\], as added by subsection (b)(1) of this section, shall apply to grants and contracts made or renewed after the end of the 30-day period beginning on the date of the enactment of this Act \[Nov. 6, 1986\].
 
 “(2) Section 412(b)(7)(D) of the Immigration and Nationality Act \[8 U.S.C. 1522(b)(7)\], as added by subsection (b)(1) of this section, shall apply to grants and contracts made or renewed after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 6, 1986\].
 
@@ -518,7 +518,7 @@ I74“definitions
 
 #### “withholding
 
-“Sec. 105. Whenever the Secretary, after reasonable notice and opportunity for a hearing to any State educational agency, finds that there is a failure to meet the requirements of any title of this Act, the Secretary shall notify that agency that further payments will not be made to the agency under such title, or in the discretion of the Secretary, that the State educational agency shall not make further payments under such title to specified local education agencies or other entities (in the case of funds under title IV) whose actions cause or are involved in such failure until the Secretary is satisfied that there is no longer any such failure to comply. Until the Secretary is so satisfied, no further payments shall be made to the State educational agency under such title, or payments by the State educational agency under such title shall be limited to local educational agencies or other entities (in the case of funds under title IV) whose actions did not cause or were not involved in the failure, as the case may be.
+“Sec. 105. Whenever the Secretary, after reasonable notice and opportunity for a hearing to any State educational agency, finds that there is a failure to meet the requirements of any title of this Act, the Secretary shall notify that agency that further payments will notbe made to the agency under such title, or in the discretion of the Secretary, that the State educational agency shall not make further payments under such title to specified local education agencies or other entities (in the case of funds under title IV) whose actions cause or are involved in such failure until the Secretary is satisfied that there is no longer any such failure to comply. Until the Secretary is so satisfied, no further payments shall be made to the State educational agency under such title, or payments by the State educational agency under such title shall be limited to local educational agencies or other entities (in the case of funds under title IV) whose actions did not cause or were not involved in the failure, as the case may be.
 
 #### “consultation with other agencies
 
@@ -620,7 +620,7 @@ I74“state entitlements
 
 “Sec. 303. (a) No State educational agency shall be entitled to any payment under this title for any period unless that agency submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
 
-&emsp;“(1) provide that the educational programs, services and activities for which payments under this title are made will be administered by or under the supervision of the agency;
+&emsp;“(1) provide that the educational programs, services and activities for which payments under this title aremade will be administered by or under the supervision of the agency;
 
 &emsp;“(2) provide assurances that payments under this title will be used for purposes set forth in section 302;
 
@@ -740,7 +740,7 @@ I74“authorities for other programs and activities
 
 \[Pub. L. 96–424, Oct. 10, 1980, 94 Stat. 1820, provided in part that the repeal of section 501(c)(5) of Pub. L. 96–422, set out above, is effective Oct. 11, 1980.\]
 
-\[Pub. L. 97–35, title V, subtitle C, §547, Aug. 13, 1981, 95 Stat. 463, provided that: “This subtitle \[repealing sections 239a and 1211b of Title 20, Education, amending the Refugee Assistance Act of 1980, set out above, and repealing provisions set out as a note under section 1211b of Title 20\] shall take effect on October 1, 1981.”\]
+\[Pub. L. 97–35, title V, subtitle C, §547, Aug. 13, 1981, 95 Stat. 463, provided that: “This subtitle \[repealing sections 239a and 1211b of Title 20, Education, amending the Refugee Assistance Act of 1980, set out above, andrepealing provisions set out as a note under section 1211b of Title 20\] shall take effect on October 1, 1981.”\]
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 

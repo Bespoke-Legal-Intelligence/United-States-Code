@@ -34,7 +34,7 @@ The notice required by section 416 of this title and section 637(e) of title 15 
 
 #### (f) Contract modifications
 
-(1) A task order may not increase the scope, period, or maximum value of the task order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
+(1) A task order may not increase the scope, period, or maximum value of the task order contract under which the order is issued. The scope, period, or maximum value of the contract maybe increased only by modification of the contract.
 
 (2) Unless use of procedures other than competitive procedures is authorized by an exception in subsection (c) of section 253 of this title and approved in accordance with subsection (f) of such section, competitive procedures shall be used for making such a modification.
 
@@ -58,7 +58,7 @@ This section does not apply to a contract for the acquisition of property or ser
 
 In this section, the term “advisory and assistance services” has the meaning given such term in section 1105(g) of title 31.
 
-(June 30, 1949, ch. 288, title III, §303I, as added Oct. 13, 1994, Pub. L. 103–355, title I, §1054(a), 108 Stat. 3262.)
+(June 30, 1949, ch. 288, title III, §303I, as added Pub. L. 103–355, title I, §1054(a), Oct. 13, 1994, 108 Stat. 3262.)
 
 #### Effective Date
 

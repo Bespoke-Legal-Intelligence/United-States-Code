@@ -24,7 +24,7 @@ The objectives of the program established under this section are—
 
 For purposes of this section—
 
-&emsp;(1) The term “eligible institution” means an accredited institution of higher education determined by the Secretary to be able to meetthe objectives identified in subsection (b) of this section.
+&emsp;(1) The term “eligible institution” means an accredited institution of higher education determined by the Secretary to be able to meet the objectives identified in subsection (b) of this section.
 
 &emsp;(2) The term “communications network” refers to television or cable television origination or distribution equipment, signal conversion equipment (including both modulators and demodulators), computer hardware and software, programs or terminals, or related devices, used to process and exchange data through a telecommunications system in which signals are generated, modified, or prepared for transmission, or received, via telecommunications terminal equipment or via telecommunications transmission.
 

@@ -16,7 +16,7 @@ An arbitrator rendering an arbitration award involving the employees of an inter
 
 &emsp;(6) The interests and welfare of the employees in the bargaining unit, including—
 
-&emsp;&emsp;(A) the overall compensation presently received by the employees, having regard notonly for wage rates but also for wages for time not worked, including vacations, holidays, and other excused absences;
+&emsp;&emsp;(A) the overall compensation presently received by the employees, having regard not only for wage rates but also for wages for time not worked, including vacations, holidays, and other excused absences;
 
 &emsp;&emsp;(B) all benefits received by the employees, including previous bonuses, insurance, and pensions; and
 

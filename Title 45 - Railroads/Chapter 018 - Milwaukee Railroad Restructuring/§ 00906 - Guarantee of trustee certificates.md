@@ -20,7 +20,7 @@ The Commission shall immediately make available to the Secretary of Transportati
 
 #### (h) Cancellation of United States obligations
 
-(1) All obligations to the United States or any agency or instrumentality of the United Statesincurred pursuant to this section by the Milwaukee Railroad or the trustee of the property of the Milwaukee Railroad shall be waived and canceled when—
+(1) All obligations to the United States or any agency or instrumentality of the United States incurred pursuant to this section by the Milwaukee Railroad or the trustee of the property of the Milwaukee Railroad shall be waived and canceled when—
 
 &emsp;(A) the Milwaukee Railroad is reorganized as an operating rail carrier; or
 

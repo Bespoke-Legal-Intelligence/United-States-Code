@@ -2,7 +2,7 @@
 
 (a)
 
-General.—(1) Not more than $2,313,000,000 may be appropriated to the Secretary of Transportation to achieve the goals of section 24902(a)(1) of this title. From this amount, the following amounts shall be expended by Amtrak:
+General.—(1) Not more than $2,313,000,000 may be appropriated to the Secretary of Transportation to achieve the goals of section 24902(a)(1) <sup>1</sup> of this title. From this amount, the following amounts shall be expended by Amtrak:
 
 &emsp;(A) at least $27,000,000 for equipment modification and replacement that a State or a local or regional transportation authority must bear because of the electrification conversion system of the Northeast Corridor under this chapter.
 
@@ -64,7 +64,7 @@ General.—(1) Not more than $2,313,000,000 may be appropriated to the Secretary
 
 (2) The following additional amounts may be appropriated to the Secretary for expenditure by Amtrak:
 
-&emsp;(A) not more than $150,000,000 to achieve the goal of section 24902(a)(3) of this title.
+&emsp;(A) not more than $150,000,000 to achieve the goal of section 24902(a)(3) <sup>1</sup> of this title.
 
 &emsp;(B) not more than $120,000,000 to acquire interests in property in the Northeast Corridor.
 
@@ -72,7 +72,7 @@ General.—(1) Not more than $2,313,000,000 may be appropriated to the Secretary
 
 &emsp;(D) not more than $20,000,000 to acquire and improve interests in rail property designated under section 206(c)(1)(D) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 716(c)(1)(D)).
 
-&emsp;(E) not more than $37,000,000 to carry out section 24902(a)(7) and (j) of this title.
+&emsp;(E) not more than $37,000,000 to carry out section 24902(a)(7) and (j) <sup>1</sup> of this title.
 
 (b)
 
@@ -80,7 +80,7 @@ Emergency Maintenance.—Not more than $25,000,000 of the amount appropriated un
 
 (c)
 
-Priority in Using Certain Amounts.—Amounts appropriated under subsection (a)(2)(B) and (D) of this section shall be used first to repay, with interest, obligations guaranteed under section 602 of the Rail Passenger Service Act, if the proceeds of those obligations were used to pay the expenses of acquiring interests in property referred to in subsection (a)(2)(B) and (D).
+Priority in Using Certain Amounts.—Amounts appropriated under subsection (a)(2)(B) and (D) of this section shall be used first to repay, with interest, obligations guaranteed under section 602 of the Rail Passenger ServiceAct, if the proceeds of those obligations were used to pay the expenses of acquiring interests in property referred to in subsection (a)(2)(B) and (D).
 
 (d)
 
@@ -206,9 +206,11 @@ In subsection (c), the words “that portion of . . . issued by the National R
 
 In subsection (e)(1), the words “to be appropriated”, “undertaken or viewed as”, “entitled”, and “prepared for the United States Department of Transportation, Federal Railroad Administration, Northeast Corridor Improvement Project, in cooperation with the Federal Railroad Administration and the National Railroad Passenger Corporation (Amtrak), by Deleuw, Cather/Parsons, NECIP architect/engineer” are omitted as surplus. The words “for which amounts are authorized under” are substituted for “described in” for clarity. The words “for expenditure” are omitted as surplus.
 
-In subsection (g), the text of 45:854(a) (3d, 5th, and last sentences) is omitted as executed. The words “An amount greater than that authorized for a fiscal year” are substituted for “Funds . . . in excess of limitations imposed under the preceding sentence with respect to a fiscal year, or for fiscal years after the fiscal year ending September 30, 1983” to eliminate unnecessary and obsolete words. The words “under this section” are omitted as surplus. The words “amount authorized” are substituted for “limitation under such sentence” for consistency.
+In subsection (g), the text of 45:854(a) (3d, 5th, and last sentences) is omitted as executed. The words “Anamount greater than that authorized for a fiscal year” are substituted for “Funds . . . in excess of limitations imposed under the preceding sentence with respect to a fiscal year, or for fiscal years after the fiscal year ending September 30, 1983” to eliminate unnecessary and obsolete words. The words “under this section” are omitted as surplus. The words “amount authorized” are substituted for “limitation under such sentence” for consistency.
 
 #### References in Text
+
+Section 24902 of this title, referred to in subsecs. (a)(1), (2)(A), (E), was amended by Pub. L. 105–134, title IV, §405(b)(1), Dec. 2, 1997, 111 Stat. 2586, and, as so amended, subsec. (a) of that section was repealed and subsecs. (b), (j), and (m) were redesignated (a), (g), and (j), respectively.
 
 Act of February 28, 1975 (Public Law 94–6, 89 Stat. 11), referred to in subsec. (b), provided appropriations for interim operating assistance for Federal Railroad Administration of Department of Transportation in chapter II which is not classified to the Code.
 
@@ -216,5 +218,5 @@ Section 602 of the Rail Passenger Service Act, referred to in subsec. (c), was c
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24104, 24902 of this title; title 40 section 819.
+This section is referred to in title 40 section 819.
 

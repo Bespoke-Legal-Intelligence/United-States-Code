@@ -6,6 +6,7 @@
 | :--- | :---: | ---: |
 | [855\.](%C2%A7%2000855%20-%20Art.%2055.%20Cruel%20and%20unusual%20punishments%20prohibited.md) | 55\. | Cruel and unusual punishments prohibited. |
 | [856\.](%C2%A7%2000856%20-%20Art.%2056.%20Maximum%20limits.md) | 56\. | Maximum limits. |
+| [856a.](%C2%A7%2000856a%20-%20Art.%2056a.%20Sentence%20of%20confinement%20for%20life%20without%20eligibility%20for%20parole.md) | 56a. | Sentence of confinement for life without eligibility for parole. |
 | [857\.](%C2%A7%2000857%20-%20Art.%2057.%20Effective%20date%20of%20sentences.md) | 57\. | Effective date of sentences. |
 | [857a.](%C2%A7%2000857a%20-%20Art.%2057a.%20Deferment%20of%20sentences.md) | 57a. | Deferment of sentences. |
 | [858\.](%C2%A7%2000858%20-%20Art.%2058.%20Execution%20of%20confinement.md) | 58\. | Execution of confinement. |
@@ -13,6 +14,8 @@
 | [858b.](%C2%A7%2000858b%20-%20Art.%2058b.%20Sentences%20forfeiture%20of%20pay%20and%20allowances%20during%20confinement.md) | 58b. | Sentences: forfeiture of pay and allowances during confinement. |
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §581(a)(2), Nov. 18, 1997, 111 Stat. 1760, added item 856a.
 
 1996—Pub. L. 104–106, div. A, title XI, §§1122(a)(2), 1123(b), Feb. 10, 1996, 110 Stat. 463, 464, added items 857a and 858b.
 
@@ -25,6 +28,7 @@
 
 - [&sect; 00855 - Art. 55. Cruel and unusual punishments prohibited](%C2%A7%2000855%20-%20Art.%2055.%20Cruel%20and%20unusual%20punishments%20prohibited.md)
 - [&sect; 00856 - Art. 56. Maximum limits](%C2%A7%2000856%20-%20Art.%2056.%20Maximum%20limits.md)
+- [&sect; 00856a - Art. 56a. Sentence of confinement for life without eligibility for parole](%C2%A7%2000856a%20-%20Art.%2056a.%20Sentence%20of%20confinement%20for%20life%20without%20eligibility%20for%20parole.md)
 - [&sect; 00857 - Art. 57. Effective date of sentences](%C2%A7%2000857%20-%20Art.%2057.%20Effective%20date%20of%20sentences.md)
 - [&sect; 00857a - Art. 57a. Deferment of sentences](%C2%A7%2000857a%20-%20Art.%2057a.%20Deferment%20of%20sentences.md)
 - [&sect; 00858 - Art. 58. Execution of confinement](%C2%A7%2000858%20-%20Art.%2058.%20Execution%20of%20confinement.md)

@@ -4,7 +4,7 @@
 
 (1) There is established a commission to be known as the Federal Election Commission. The Commission is composed of the Secretary of the Senate and the Clerk of the House of Representatives or their designees, ex officio and without the right to vote, and 6 members appointed by the President, by and with the advice and consent of the Senate. No more than 3 members of the Commission appointed under this paragraph may be affiliated with the same political party.
 
-(2)(A) Members of the Commission shall serve for terms of 6 years, except that of the members first appointed—
+(2)(A) Members of the Commission shall serve for a single term of 6 years, except that of the members first appointed—
 
 &emsp;(i) two of the members, not affiliated with the same political party, shall be appointed for terms ending on April 30, 1977;
 
@@ -44,7 +44,7 @@ The Commission shall prepare written rules for the conduct of its activities, sh
 
 #### (f) Staff director and general counsel; appointment and compensation; appointment and compensation of personnel and procurement of intermittent services by staff director; use of assistance, personnel, and facilities of Federal agencies and departments; counsel for defense of actions
 
-(1) The Commission shall have a staff director and a general counsel who shall be appointed by the Commission. The staff director shall be paid at a rate not to exceed the rate of basic pay in effect for level IV of the Executive Schedule (5 U.S.C. 5315). The general counsel shall be paid at a rate not to exceed the rate of basic pay in effect for level V of the Executive Schedule (5 U.S.C. 5316). With the approval of the Commission, the staff director may appoint and fix the pay of such additional personnel as he or she considers desirable without regard to the provisions of title 5 governing appointments in the competitive service.
+(1) The Commission shall have a staff director and a general counsel who shall be appointed bythe Commission. The staff director shall be paid at a rate not to exceed the rate of basic pay in effect for level IV of the Executive Schedule (5 U.S.C. 5315). The general counsel shall be paid at a rate not to exceed the rate of basic pay in effect for level V of the Executive Schedule (5 U.S.C. 5316). With the approval of the Commission, the staff director may appoint and fix the pay of such additional personnel as he or she considers desirable without regard to the provisions of title 5 governing appointments in the competitive service.
 
 (2) With the approval of the Commission, the staff director may procure temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay in effect for grade GS–15 of the General Schedule (5 U.S.C. 5332).
 
@@ -52,7 +52,7 @@ The Commission shall prepare written rules for the conduct of its activities, sh
 
 (4) Notwithstanding the provisions of paragraph (2), the Commission is authorized to appear in and defend against any action instituted under this Act, either (A) by attorneys employed in its office, or (B) by counsel whom it may appoint, on a temporary basis as may be necessary for such purpose, without regard to the provisions of title 5 governing appointments in the competitive service, and whose compensation it may fix without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. The compensation of counsel so appointed on a temporary basis shall be paid out of any funds otherwise available to pay the compensation of employees of the Commission.
 
-(Pub. L. 92–225, title III, §306, formerly §310, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1280; renumbered §309 and amendedPub. L. 94–283, title I, §§101(a)–(d), 105, May 11, 1976, 90 Stat. 475, 476, 481; renumbered §306 and amended Pub. L. 96–187, title I, §§105(3), (6), 112(b), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 92–225, title III, §306, formerly §310, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1280; renumbered §309 and amended Pub. L. 94–283, title I, §§101(a)–(d), 105, May 11, 1976, 90 Stat. 475, 476, 481; renumbered §306 and amended Pub. L. 96–187, title I, §§105(3), (6), 112(b), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–61, title V, §512(a), Oct. 10, 1997, 111 Stat. 1305.)
 
 #### References in Text
 
@@ -61,6 +61,8 @@ This Act, referred to in subsecs. (b), (c), and (f)(3), (4), means the Federal E
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1), (4), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1997—Subsec. (a)(2)(A). Pub. L. 105–61 substituted “for a single term of 6 years” for “for terms of 6 years” in introductory provisions.
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -86,6 +88,10 @@ Subsec. (c). Pub. L. 94–283, §101(c)(3), provided that the affirmative vote o
 
 Subsec. (f)(1). Pub. L. 94–283, §101(d), provided that the appointment and the fixing of pay of additional personnel by the staff director may be done without regard to the provisions of title 5 governing appointments in the competitive service.
 
+#### Effective Date of 1997 Amendment
+
+Section 512(b) of Pub. L. 105–61, as amended by Pub. L. 105–119, title VI, §631, Nov. 26, 1997, 111 Stat. 2523, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals nominated by the President to be members of the Federal Election Commission after December 31, 1997 unless the President announced his intent to nominate the individual prior to November 30, 1997.”
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of this title.
@@ -100,7 +106,7 @@ Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Fede
 
 #### Transitional Provision Pending Appointment and Qualification of Members and General Counsel of Federal Election Commission and Transfer of Records, Documents, Memorandums, and Other Papers
 
-Section 208(b) of Pub. L. 93–443 provided transitional authority for the Comptroller General, the Secretary of the Senate, and the Clerk of the House of Representatives pending the appointment and qualification of themembers and general counsel of the Federal Election Commission and authority for transfer of records, documents, memorandums, and other papers to the Commission.
+Section 208(b) of Pub. L. 93–443 provided transitional authority for the Comptroller General, the Secretary of the Senate, and the Clerk of the House of Representatives pending the appointment and qualification of the members and general counsel of the Federal Election Commission and authority for transfer of records, documents, memorandums, and other papers to the Commission.
 
 #### Section Referred to in Other Sections
 

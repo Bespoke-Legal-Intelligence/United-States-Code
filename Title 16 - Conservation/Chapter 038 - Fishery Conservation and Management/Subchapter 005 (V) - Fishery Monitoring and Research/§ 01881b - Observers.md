@@ -28,7 +28,7 @@ An observer on a vessel and under contract to carry out responsibilities under t
 
 #### References in Text
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat.1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
 The Federal Employee Compensation Act, referred to in subsec. (c), is act Sept. 7, 1916, ch. 458, 39 Stat. 742, as amended, which was repealed and the provisions thereof were reenacted as subchapter I (§8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 

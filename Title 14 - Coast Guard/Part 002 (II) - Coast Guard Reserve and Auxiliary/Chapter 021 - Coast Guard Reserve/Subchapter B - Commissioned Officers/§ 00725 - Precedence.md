@@ -1,6 +1,6 @@
 ### §725. Precedence
 
-(a) Reserve officers rank and take precedence in their respective grades among themselves and with officers of the same grade on the active duty promotion list and the permanent commissioned teaching staff in accordance with their dates of rank. When Reserve officers and officers on the active duty promotion list or the permanent commissioned teaching staff have the same date of rank in a grade, they take precedence as determined by the Secretary.
+(a) Reserve officers rank and take precedence in their respective grades among themselves and with officers of the same grade on the active duty promotion list and the permanent commissioned teaching staff in accordance with their dates of rank. When Reserve officers and officerson the active duty promotion list or the permanent commissioned teaching staff have the same date of rank in a grade, they take precedence as determined by the Secretary.
 
 (b) Notwithstanding any other law, a Reserve officer shall not lose precedence when transferred to or from the active duty promotion list, nor shall that officer's date of rank be changed due to the transfer.
 

@@ -14,7 +14,7 @@ The Secretary of Agriculture shall, within ten years after September 3, 1964, re
 
 #### (c) Review by Secretary of the Interior of roadless areas of national park system and national wildlife refuges and game ranges and suitability of areas for preservation as wilderness; authority of Secretary of the Interior to maintain roadless areas in national park system unaffected
 
-Within ten years after September 3, 1964 the Secretary of the Interior shall review every roadless area of five thousand contiguous acres or more in the national parks, monuments and other units of the national park system and every such area of, and every roadless island within the national wildlife refuges and game ranges, under his jurisdiction on September 3, 1964 and shall report to the President his recommendation as to the suitability or nonsuitability of each such area or island for preservation as wilderness. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendation with respect to the designation as wilderness of each such area or island on which review has been completed, together with a map thereof and a definition of its boundaries. Such advice shall be given with respect to not less than one-third of the areas and islands to be reviewed under this subsection within three years after September 3, 1964, not less than two-thirds within seven years of September 3, 1964 and the remainder within ten years of September 3, 1964. A recommendation of the President for designation as wilderness shall become effective only if so provided by an Act of Congress. Nothing contained herein shall, by implication or otherwise,be construed to lessen the present statutory authority of the Secretary of the Interior with respect to the maintenance of roadless areas within units of the national park system.
+Within ten years after September 3, 1964 the Secretary of the Interior shall review every roadless area of five thousand contiguous acres or more in the national parks, monuments and other units of the national park system and every such area of, and every roadless island within the national wildlife refuges and game ranges, under his jurisdiction on September 3, 1964 and shall report to the President his recommendation as to the suitability or nonsuitability of each such area or island for preservation as wilderness. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendation with respect to the designation as wilderness of each such area or island on which review has been completed, together with a map thereof and a definition of its boundaries. Such advice shall be given with respect to not less than one-third of the areas and islands to be reviewed under this subsection within three years after September 3, 1964, not less than two-thirds within seven years of September 3, 1964 and the remainder within ten years of September 3, 1964. A recommendation of the President for designation as wilderness shall become effective only if so provided by an Act of Congress. Nothing contained herein shall, by implication or otherwise, be construed to lessen the present statutory authority of the Secretary of the Interior with respect to the maintenance of roadless areas within units of the national park system.
 
 #### (d) Conditions precedent to administrative recommendations of suitability of areas for preservation as wilderness; publication in Federal Register; public hearings; views of State, county, and Federal officials; submission of views to Congress
 
@@ -72,7 +72,7 @@ Apache Creek Wilderness, Prescott National Forest, Arizona.—Pub. L. 98–406, 
 
 Apache Kid Wilderness, Cibola National Forest, New Mexico.—Pub. L. 96–550, title I, §102(a)(2), Dec. 19, 1980, 94 Stat. 3221.
 
-Aravaipa Canyon Wilderness, Graham and Pinal Counties, Arizona.—Pub. L. 98–406, title II, §201–205, Aug. 28, 1984, 98 Stat. 1491, 1492; Pub. L. 101–628, title I, §101(a)(39), Nov. 28, 1990, 104 Stat. 4472.
+Aravaipa Canyon Wilderness, Graham and Pinal Counties, Arizona.—Pub. L. 98–406, title II, Aug. 28, 1984, 98 Stat. 1491; Pub. L. 101–628, title I, §101(a)(39), Nov. 28, 1990, 104 Stat. 4472.
 
 Arc Dome Wilderness, Toiyabe National Forest, Nevada.—Pub. L. 101–195, §2(2), Dec. 5, 1989, 103 Stat. 1784.
 
@@ -364,7 +364,7 @@ Dry Creek Wilderness, Ouachita National Forest, Arkansas.—Pub. L. 98–508, §
 
 Eagle Cap Wilderness, Wallowa and Whitman National Forests, Oregon.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 92–521, Oct. 21, 1972, 86 Stat. 1026; Pub. L. 98–328, §3(28), June 26, 1984, 98 Stat. 275.
 
-Eagles Nest Wilderness, Arapaho and White River National Forests, Colorado.—Pub. L. 94–352, July 12, 1976, 90 Stat. 870.
+Eagles Nest Wilderness, Arapaho and White River National Forests, Colorado.—Pub. L. 94–352, July 12, 1976, 90 Stat. 870; Pub. L. 105–75, §1, Nov. 12, 1997, 111 Stat. 1462.
 
 Eagletail Mountains Wilderness, La Paz, Yuma, and Maricopa Counties, Arizona.—Pub. L. 101–628, title I, §101(a)(13), Nov. 28, 1990, 104 Stat. 4470.
 
@@ -386,9 +386,7 @@ Endicott River Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, 
 
 Escudilla Wilderness, Apache-Sitgreaves National Forest, Arizona.—Pub. L. 98–406, title I, §101(a)(30), Aug. 28, 1984, 98 Stat. 1488.
 
-Everglades Wilderness, Everglades National Park, Florida.—Pub. L. 95–625, title IV, §401(3), Nov. 10, 1978, 92 Stat. 3490.
-
-Farallon Wilderness, Farallon National Wildlife Refuge, California.—Pub. L. 93–550, title I, §§101, 102, Dec. 26, 1974, 88 Stat. 1744.
+Farallon Wilderness, Farallon National Wildlife Refuge, California.—Pub. L. 93–550, title I, Dec. 26, 1974, 88 Stat. 1744.
 
 Fire Island Wilderness, Fire Island National Seashore, New York.—Pub. L. 96–585, §1(a)–(d), Dec. 23, 1980, 94 Stat. 3379.
 
@@ -616,7 +614,7 @@ Kobuk Valley Wilderness, Kobuk Valley National Park, Alaska.—Pub. L. 96–487,
 
 Kofa Wilderness, Kofa National Wildlife Refuge, Arizona.—Pub. L. 101–628, title III, §301(a)(3), Nov. 28, 1990, 104 Stat. 4478.
 
-Kootznoowoo Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(a)(1), (c)(2), Dec. 2, 1980, 94 Stat. 2418; Pub. L. 101–378, title II, §205(a), Aug. 17, 1990, 104 Stat. 470; Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429.
+Kootznoowoo Wilderness, Tongass National Forest, Alaska.—Pub. L. 96–487, title VII, §703(a)(1), (c)(2), Dec. 2, 1980, 94 Stat. 2418; Pub. L. 101–378, title II, §205(a), Aug. 17, 1990, 104 Stat. 470; Pub. L. 101–626, title II, §202, Nov. 28, 1990, 104 Stat. 4429; Pub. L. 105–60, Oct. 10, 1997, 111 Stat. 1269.
 
 Koyukuk Wilderness, Koyukuk National Wildlife Refuge, Alaska.—Pub. L. 96–487, title VII, §702(8), Dec. 2, 1980, 94 Stat. 2418.
 
@@ -689,6 +687,8 @@ Manly Peak Wilderness, California Desert Conservation Area, of Bureau of Land Ma
 Manzano Mountain Wilderness, Cibola National Forest, New Mexico.—Pub. L. 95–237, §2(f), Feb. 24, 1978, 92 Stat. 42.
 
 Marble Mountain Wilderness, Klamath National Forest, California.—Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891; Pub. L. 98–425, title I, §101(a)(14), Sept. 28, 1984, 98 Stat. 1621.
+
+Marjory Stoneman Douglas Wilderness (former Everglades Wilderness), Everglades National Park, Florida.—Pub. L. 95–625, title IV, §401(3), Nov. 10, 1978, 92 Stat. 3490; Pub. L. 105–82, §3, Nov. 13, 1997, 111 Stat. 1541.
 
 Mark O. Hatfield Wilderness (former Columbia Wilderness), Mount Hood National Forest, Oregon.—Pub. L. 98–328, §3(1), June 26, 1984, 98 Stat. 273; Pub. L. 104–208, div. A, title I, §101(d) \[title III, §328\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–227.
 
@@ -946,7 +946,7 @@ Pusch Ridge Wilderness, Coronado National Forest, Arizona.—Pub. L. 95–237, �
 
 Quinn Canyon Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(8), Dec. 5, 1989, 103 Stat. 1785.
 
-Raggeds Wilderness, Gunnison and White River National Forests, Colorado.—Pub. L. 96–560, title I, §102(a)(16), Dec. 22, 1980, 94 Stat. 3267; Pub. L. 103–77, §2(a)(9), Aug. 13, 1993, 107 Stat. 757.
+Raggeds Wilderness, Gunnison and White River National Forests, Colorado.—Pub. L. 96–560, title I, §102(a)(16), Dec. 22, 1980, 94 Stat. 3267; Pub. L. 103–77, §2(a)(9), Aug. 13, 1993, 107 Stat. 757; Pub. L. 105–76, §1, Nov. 12, 1997, 111 Stat. 1463.
 
 Rainbow Lake Wilderness, Chequamegon National Forest, Wisconsin.—Pub. L. 93–622, §3(a)(15), Jan. 3, 1975, 88 Stat. 2098.
 

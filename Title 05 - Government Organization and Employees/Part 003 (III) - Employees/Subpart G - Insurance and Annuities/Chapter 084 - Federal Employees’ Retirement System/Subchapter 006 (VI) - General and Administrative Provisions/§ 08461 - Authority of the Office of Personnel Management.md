@@ -40,7 +40,7 @@
 
 (k)(1) The Director of Central Intelligence, in consultation with the Executive Director of the Federal Retirement Thrift Investment Board, may—
 
-&emsp;(A) maintain exclusive records relating to elections, contributions, and accounts under the Thrift Savings Plan provided in subchapter III of this chapter in the case of employees of the Central Intelligence Agency;
+&emsp;(A) maintain exclusive records relating to elections, contributions, and accounts underthe Thrift Savings Plan provided in subchapter III of this chapter in the case of employees of the Central Intelligence Agency;
 
 &emsp;(B) provide that contributions by, or on behalf of, such employees to the Thrift Savings Plan be accounted for by such Executive Director in aggregate amounts;
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is notdescribed in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Regulations; Effective Date of 1996 Amendment
 

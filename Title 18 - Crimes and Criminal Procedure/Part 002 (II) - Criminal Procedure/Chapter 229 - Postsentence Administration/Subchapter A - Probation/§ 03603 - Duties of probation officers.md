@@ -12,7 +12,7 @@ A probation officer shall—
 
 &emsp;(5) keep a record of his work, and make such reports to the Director of the Administrative Office of the United States Courts as the Director may require;
 
-&emsp;(6) upon request of the Attorney General or his designee, assist in the supervision of andfurnish information about, a person within the custody of the Attorney General while on work release, furlough, or other authorized release from his regular place of confinement, or while in prerelease custody pursuant to the provisions of section 3624(c);
+&emsp;(6) upon request of the Attorney General or his designee, assist in the supervision of and furnish information about, a person within the custody of the Attorney General while on work release, furlough, or other authorized release from his regular place of confinement, or while in prerelease custody pursuant to the provisions of section 3624(c);
 
 &emsp;(7) keep informed concerning the conduct, condition, and compliance with any condition of probation, including the payment of a fine or restitution of each probationer under his supervision and report thereon to the court placing such person on probation and report to the court any failure of a probationer under his supervision to pay a fine in default within thirty days after notification that it is in default so that the court may determine whether probation should be revoked;
 

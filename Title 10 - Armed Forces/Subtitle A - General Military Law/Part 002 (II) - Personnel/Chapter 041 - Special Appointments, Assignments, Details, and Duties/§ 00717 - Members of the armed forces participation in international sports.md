@@ -20,7 +20,7 @@
 
 (d) Appropriations available to the Department of Defense or to the Department of Transportation, as the case may be, may be used to carry out this section.
 
-(Added Pub. L. 85–861, §1(17), Sept. 2, 1958, 72 Stat. 1442, §716; renumbered §717, Pub. L. 87–651, title I, §103(a), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 89–718, §7, Nov. 2, 1966, 80 Stat. 1117;Pub. L. 96–513, title V, §511(22), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–525, title XV, §1534, Oct. 19, 1984, 98 Stat. 2632.)
+(Added Pub. L. 85–861, §1(17), Sept. 2, 1958, 72 Stat. 1442, §716; renumbered §717, Pub. L. 87–651, title I, §103(a), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 89–718, §7, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §511(22), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–525, title XV, §1534, Oct. 19, 1984, 98 Stat. 2632.)
 
 Historical and Revision Notes<br>1958
 
@@ -42,7 +42,7 @@ Act
 
 Mar. 14, 1955, ch. 11 (less last 2 pars.), 69 Stat. 11.
 
-In subsection (a), the first 27 words are substituted for section 1 of the source statute. The reference to the Second Pan-American Games, the Seventh Olympic Winter Games, and the Games of the XVI Olympiad are omitted as covered by clause (1) of the revised subsection. The words “subject to the limitation contained in subsection (b) herein” are omitted as covered by revised subsection (b). The words “any other” are substituted for the words “other \* \* \* not specified in (1) above”.
+In subsection (a), the first 27 words are substituted for section 1 of the source statute. The reference to the Second Pan-American Games, the Seventh Olympic Winter Games, and the Games of the XVI Olympiad are omitted as covered by clause (1) of the revised subsection. The words “subject to the limitation containedin subsection (b) herein” are omitted as covered by revised subsection (b). The words “any other” are substituted for the words “other \* \* \* not specified in (1) above”.
 
 In subsection (b), the word “entry” is substituted for the word “commitment” for clarity. The words “or the Secretary of the Treasury, as the case may be” are inserted since, under subsection (a), the Secretary of the Treasury has the prescribed authority with respect to members of the Coast Guard when it is not operating as a service in the Navy.
 

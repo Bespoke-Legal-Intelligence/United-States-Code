@@ -1,6 +1,6 @@
 ### §1657. Corruption of seamen and confederating with pirates
 
-Whoever attempts to corrupt any commander, master, officer, or mariner to yield up or to run away with any vessel, or any goods, wares, or merchandise, or to turn pirate or to go over toor confederate with pirates, or in any wise to trade with any pirate, knowing him to be such; or
+Whoever attempts to corrupt any commander, master, officer, or mariner to yield up or to run away with any vessel, or any goods, wares, or merchandise, or to turn pirate or to go over to or confederate with pirates, or in any wise to trade with any pirate, knowing him to be such; or
 
 Whoever furnishes such pirate with any ammunition, stores, or provisions of any kind; or
 

@@ -6,7 +6,7 @@ Any challenge to a listing on an eligibility list prepared by an examiner shall 
 
 #### (b) Rules and regulations by Director of the Office of Personnel Management
 
-The times, places, procedures, and form for application and listing pursuant to subchapters I–A to I–C of this chapter and removals from the eligibility lists shall be prescribed by regulations promulgated by the Director of the Office of Personnel Management and the Director shall, after consultation with the Attorney General, instruct examiners concerning applicable State law not inconsistent with the Constitution and laws of the United States with respect to (1) the qualifications required for listing, and (2) loss of eligibility to vote.
+The times, places, procedures, and form for application and listing pursuant to subchapters I–A to I–C of this chapter and removals from the eligibility lists shall be prescribed by regulations promulgated by the Director of the Office of Personnel Management and the Director shall, after consultation with the Attorney General, instruct examiners concerning applicable State law not inconsistent with the Constitution and laws of the United States with respectto (1) the qualifications required for listing, and (2) loss of eligibility to vote.
 
 #### (c) Subpena power of Director of the Office of Personnel Management; contempt
 
@@ -16,7 +16,7 @@ Upon the request of the applicant or the challenger or on its own motion the Dir
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management”, “Director”, and “the Director” substituted in text for “Civil Service Commission”, “Commission”, and “it”, respectively, pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwisespecified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management”, “Director”, and “the Director” substituted in text for “Civil Service Commission”, “Commission”, and “it”, respectively, pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Section Referred to in Other Sections
 

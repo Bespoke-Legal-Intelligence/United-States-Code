@@ -20,7 +20,7 @@
 
 &emsp;(6) Other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad when the President directs that such protection be provided.
 
-&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidentialcandidates” means those individuals identified as such by the Secretary of the Treasury after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee.
+&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term “major Presidential and Vice Presidential candidates” means those individuals identified as such by the Secretary of the Treasury after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee.
 
 > The protection authorized in paragraphs (2) through (7) may be declined.
 
@@ -166,7 +166,7 @@ Pub. L. 103–1, Jan. 15, 1993, 107 Stat. 3, provided: “That—
 
 &emsp;“(2) protection of any such person, pursuant to the authority provided in paragraph (1), shall continue only for such period as the President determines, except that such protection shall not continue beyond July 20, 1993, unless otherwise permitted by law.”
 
-Pub. L. 96–503, Dec. 5, 1980, 94 Stat. 2740, provided: “That the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to (a) the person occupying the Office of Vice President of the United States immediately preceding January 20, 1981, or (b) his spouse, if the President determines that such person may thereafter be in significant danger: <i>Provided, however</i>, That protection of any such person shall continue only for such period as the President determines and shall not continue beyond July 20, 1981, unless otherwise permitted by law.”
+Pub. L. 96–503, Dec. 5, 1980, 94 Stat. 2740, provided: “That the United States Secret Service, in addition to other duties now provided by law, is authorized to furnish protection to (a) the person occupying the Office of Vice President of the United States immediately preceding January 20, 1981, or (b) his spouse, if the President determines that such person may thereafter be in significant danger: <i>Provided, however</i>, That protection of any such person shall continue only for such period as the President determines and shall not continuebeyond July 20, 1981, unless otherwise permitted by law.”
 
 #### Secret Service Protection of Former Federal Officials
 

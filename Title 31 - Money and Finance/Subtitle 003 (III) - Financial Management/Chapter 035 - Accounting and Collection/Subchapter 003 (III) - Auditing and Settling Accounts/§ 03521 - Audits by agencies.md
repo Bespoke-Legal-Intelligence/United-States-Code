@@ -2,7 +2,7 @@
 
 (a) Each account of an agency shall be audited administratively before being submitted to the Comptroller General. The head of each agency shall prescribe regulations for conducting the audit and designate a place at which the audit is to be conducted. However, a disbursing official of an executive agency may not administratively audit vouchers for which the official is responsible. With the consent of the Comptroller General, the head of the agency may waive any part of an audit.
 
-(b) The head of an agency may prescribe a statistical sampling procedure to audit vouchers of the agency when the head of the agency decideseconomies will result from using the procedure. The Comptroller General—
+(b) The head of an agency may prescribe a statistical sampling procedure to audit vouchers of the agency when the head of the agency decides economies will result from using the procedure. The Comptroller General—
 
 &emsp;(1) may prescribe the maximum amount of a voucher that may be audited under this subsection; and
 

@@ -30,9 +30,9 @@ Except as provided by subsection (b) of this section, any information reported t
 
 &emsp;(B) any data reported to, or otherwise obtained by, the Administrator from a health and safety study which relates to a chemical substance or mixture described in clause (i) or (ii) of subparagraph (A).
 
-> This paragraph does not authorize the release of any data which discloses processes used in the manufacturing or processing of a chemical substance or mixture or, in the case of a mixture,the release of data disclosing the portion of the mixture comprised by any of the chemical substances in the mixture.
+> This paragraph does not authorize the release of any data which discloses processes used in the manufacturing or processing of a chemical substance or mixture or, in the case of a mixture, the release of data disclosing the portion of the mixture comprised by any of the chemical substances in the mixture.
 
-(2) If a request is made to the Administrator under subsection (a) of section 552 of title 5 for information which is described in the first sentence of paragraph (1) and which is not information described in the second sentence of such paragraph, the Administrator may not deny such request on the basis of subsection (b)(4) of such section.
+(2) If a request is made to the Administrator under subsection (a) of section 552 of title 5 forinformation which is described in the first sentence of paragraph (1) and which is not information described in the second sentence of such paragraph, the Administrator may not deny such request on the basis of subsection (b)(4) of such section.
 
 #### (c) Designation and release of confidential data
 

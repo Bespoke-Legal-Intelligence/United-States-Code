@@ -10,5 +10,5 @@
 
 Funds collected under the authority of subsection (a) of this section shall be deposited as an offsetting collection to any Department of State appropriation to recover the costs of providing commercial services.
 
-(Aug. 1, 1956, ch. 841, title I, §52, as added Apr. 30, 1994, Pub. L. 103–236, title I, §136, 108 Stat. 396.)
+(Aug. 1, 1956, ch. 841, title I, §52, as added Pub. L. 103–236, title I, §136, Apr. 30, 1994, 108 Stat. 396.)
 

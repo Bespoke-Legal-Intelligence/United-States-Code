@@ -10,23 +10,21 @@ Authority To Sell Vessel.—If the Secretary considers that the sale of the vess
 
 (c)
 
-Procedures for Sale.—(1) A vessel stricken from the Naval Vessel Register and not subject to disposal under any other law may be sold under this section. In such a case, the Secretary may sell the vessel to the highest acceptable bidder, regardless of the appraised value of the vessel, after the vessel is publicly advertised for sale for a period of not less than 30 days.
+Procedures for Sale.—(1) A vessel stricken from the Naval Vessel Register and not subject to disposal under any other law may be sold under this section.
 
-(2) If the Secretary determines that the bid prices for a vessel received after advertising under paragraph (1) are not acceptable and that readvertising will serve no useful purpose, the Secretary may sell the vessel by negotiation to the highest acceptable bidder if—
+(2) In such a case, the Secretary may—
 
-&emsp;(A) each responsible bidder has been notified of intent to negotiate and has been given a reasonable opportunity to negotiate; and
+&emsp;(A) sell the vessel to the highest acceptable bidder, regardless of the appraised value of the vessel, after publicly advertising the sale of the vessel for a period of not less than 30 days; or
 
-&emsp;(B) the negotiated price is—
+&emsp;(B) subject to paragraph (3), sell the vessel by competitive negotiation to the acceptable offeror who submits the offer that is most advantageous to the United States (taking into account price and such other factors as the Secretary determines appropriate).
 
-&emsp;&emsp;(i) higher than the highest rejected price of any responsible bidder; or
-
-&emsp;&emsp;(ii) reasonable and in the national interest.
+(3) Before entering into negotiations to sell a vessel under paragraph (2)(B), the Secretary shall publish notice of the intention to do so in the Commerce Business Daily sufficiently in advance of initiating the negotiations that all interested parties are given a reasonable opportunity to prepare and submit proposals. The Secretary shall afford an opportunity to participate in the negotiations to all acceptable offerors submitting proposals that the Secretary considers as having the potential to be the most advantageous to the United States (taking into account price and such other factors as the Secretary determines appropriate).
 
 (d)
 
 Applicability.—This section does not apply to a vessel the disposal of which is authorized by the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), if it is to be disposed of under that Act.
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1708.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1708; amended Pub. L. 105–85, div. A, title X, §1021, Nov. 18, 1997, 111 Stat. 1875.)
 
 #### References in Text
 
@@ -35,6 +33,24 @@ The Federal Property and Administrative Services Act of 1949, as amended, referr
 #### Prior Provisions
 
 A prior section 7305, acts Aug. 10, 1956, ch. 1041, 70A Stat. 451; Dec. 12, 1980, Pub. L. 96–513, title V, §513(27), 94 Stat. 2933, related to sale of vessels stricken from Naval Vessel Register, prior to repeal by Pub. L. 103–160, §824(b).
+
+#### Amendments
+
+1997—Subsec. (c). Pub. L. 105–85 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+
+“(c)
+
+Procedures for Sale.—(1) A vessel stricken from the Naval Vessel Register and not subject to disposal under any other law may be sold under this section. In such a case, the Secretary may sell the vessel to the highest acceptable bidder, regardless of the appraised value of the vessel, after the vessel is publicly advertised for sale for a period of not less than 30 days.
+
+“(2) If the Secretary determines that the bid prices for a vessel received after advertising under paragraph (1) are not acceptable and that readvertising will serve no useful purpose, the Secretary may sell the vessel by negotiation to the highest acceptable bidder if—
+
+&emsp;“(A) each responsible bidder has been notified of intent to negotiate and has been given a reasonable opportunity to negotiate; and
+
+&emsp;“(B) the negotiated price is—
+
+&emsp;&emsp;“(i) higher than the highest rejected price of any responsible bidder; or
+
+&emsp;&emsp;“(ii) reasonable and in the national interest.”
 
 #### Executive Order No. 11765
 

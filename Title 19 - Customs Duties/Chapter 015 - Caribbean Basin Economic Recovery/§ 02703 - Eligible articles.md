@@ -6,7 +6,7 @@
 
 &emsp;(A) that article is imported directly from a beneficiary country into the customs territory of the United States; and
 
-&emsp;(B) the sum of (i) the cost or value of the materials produced in a beneficiary country or two or more beneficiary countries, plus (ii) the direct costs of processing operations performed in a beneficiary country or countries is not less than 35 per centum of the appraised value of such article at the time it is entered.
+&emsp;(B) the sum of (i) the cost or value of the materials produced in a beneficiary country ortwo or more beneficiary countries, plus (ii) the direct costs of processing operations performed in a beneficiary country or countries is not less than 35 per centum of the appraised value of such article at the time it is entered.
 
 > For purposes of determining the percentage referred to in subparagraph (B), the term “beneficiary country” includes the Commonwealth of Puerto Rico and the United States Virgin Islands. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 per centum of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
 
@@ -146,7 +146,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 #### (h) Duty reduction for certain leather-related products
 
-(1) Subject to paragraph (2), the President shall proclaim reductions in the rates of duty onhandbags, luggage, flat goods, work gloves, and leather wearing apparel that—
+(1) Subject to paragraph (2), the President shall proclaim reductions in the rates of duty on handbags, luggage, flat goods, work gloves, and leather wearing apparel that—
 
 &emsp;(A) are the product of any beneficiary country; and
 
@@ -218,7 +218,7 @@ Subsec. (f)(5)(A). Pub. L. 100–418, §1214(q)(2)(D)(i), amended subpar. (A) ge
 
 Subsec. (f)(5)(B). Pub. L. 100–418, §1214(q)(2)(D)(ii), substituted “headings 0701 through 0709 (except subheading 0709.52.00) and heading 0714 of the HTS” for “items 135.10 through 138.46 of the TSUS”.
 
-Subsec. (f)(5)(C). Pub. L. 100–418, §1214(q)(2)(D)(iv), as amended by Pub. L. 100–647, §9001(a)(14), redesignated subpar. (D) as (C) and substituted “subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00,tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and” for “items 146.10, 146.20, 146.30, 146.50 through 146.62, 146.90, 146.91, 147.03 through 147.33, 147.50 through 149.21 and 149.50 of the TSUS;”.
+Subsec. (f)(5)(C). Pub. L. 100–418, §1214(q)(2)(D)(iv), as amended by Pub. L. 100–647, §9001(a)(14), redesignated subpar. (D) as (C) and substituted “subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and” for “items 146.10, 146.20, 146.30, 146.50 through 146.62, 146.90, 146.91, 147.03 through 147.33, 147.50 through 149.21 and 149.50 of the TSUS;”.
 
 Pub. L. 100–418, §1214(q)(2)(D)(iii), struck out subpar. (C) “fresh mushrooms provided for in item 144.10 of the TSUS;”.
 
@@ -374,7 +374,7 @@ Definitions.—For purposes of this section \[amending this section and General 
 
 &emsp;&emsp;“(ii) The term ‘local feedstock’ means hydrous ethyl alcohol which is wholly produced or manufactured in any insular possession or beneficiary country.
 
-&emsp;&emsp;“(iii) The term ‘local feedstock requirement’ means the minimum percent, by volume, of local feedstock that must be included in dehydrated alcohol and mixtures.
+&emsp;&emsp;“(iii) The term ‘local feedstock requirement’ means the minimum percent, by volume, of localfeedstock that must be included in dehydrated alcohol and mixtures.
 
 &emsp;“(4) The term ‘beneficiary country’ has the meaning given to such term under section 212 of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2702).
 

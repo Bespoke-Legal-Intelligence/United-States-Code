@@ -14,10 +14,6 @@
 
 1996—Pub. L. 104–294, title VI, §604(a)(3), Oct. 11, 1996, 110 Stat. 3506, added analysis.
 
-#### Effective Date of Chapter
-
-<i>Chapter effective 3 years after Sept. 13, 1994, with provisions relating to implementation of section 2721(b)(11) and (12) of this title and further provision that prior to effective date, personal information covered by this chapter may be released consistent with State law or practice, see section 300003 of Pub. L. 103–322, set out as an Effective Date note under section 2721 of this title.</i>
-
 
 ---
 

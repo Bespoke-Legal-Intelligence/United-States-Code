@@ -2,7 +2,7 @@
 
 The United States Bureau of Mines is further authorized, under the general direction of the Secretary of the Interior, to erect such plants, construct and purchase such machinery and equipment, and to take such other steps as it may deem necessary and proper to effectuate the purposes of section 4c of this title.
 
-(May 15, 1936, ch. 397, §2, 49 Stat. 1275; May 18, 1992, Pub. L. 102–285, §10(b), 106 Stat. 172.)
+(May 15, 1936, ch. 397, §2, 49 Stat. 1275; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### Change of Name
 

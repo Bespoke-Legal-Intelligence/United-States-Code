@@ -2,7 +2,7 @@
 
 #### (a) Reservations for eligible States and units of local government
 
-(1) The Secretary shall reserve one-third of the amounts appropriated pursuant to authorization under section 6722 of this title for each calendar quarter for the purpose of making payments to eligible State governments under subsection (b) of this section.
+(1) The Secretary shall reserve one-third of the amounts appropriated pursuant to authorizationunder section 6722 of this title for each calendar quarter for the purpose of making payments to eligible State governments under subsection (b) of this section.
 
 (2) The Secretary shall reserve two-thirds of such amounts for the purpose of making payments to eligible units of local government under subsection (c) of this section.
 
@@ -24,7 +24,7 @@
 
 &emsp;(C) the State unemployment rate is equal to the rate of unemployment in the State during the appropriate calendar quarter, as determined by the Secretary of Labor and reported to the Secretary; and
 
-&emsp;(D) the State revenue sharing amount is the amount determined under sections 6705–6707(a) of title 31 <sup>1</sup> for the most recently completedentitlement period, as defined under section 6701(a)(1) of title 31.
+&emsp;(D) the State revenue sharing amount is the amount determined under sections 6705–6707(a) of title 31 <sup>1</sup> for the most recently completed entitlement period, as defined under section 6701(a)(1) of title 31.
 
 #### (c) Local government allocation; percentage; definitions; special limitation
 
@@ -66,7 +66,7 @@ Chapter 67 of title 31, including sections 6701 and 6705 to 6712, referred to in
 
 #### Codification
 
-In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” substituted for “section 107 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1226\]”, “sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31” substituted for “section 108 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1227\], and “section 6701(a)(1) of title 31” substituted for “section 141(b) of such Act \[31 U.S.C. 1261(b)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
+In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” substituted for “section 107 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1226\]”, “sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31” substituted for “section 108 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C.1227\], and “section 6701(a)(1) of title 31” substituted for “section 141(b) of such Act \[31 U.S.C. 1261(b)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
 
 #### Amendments
 

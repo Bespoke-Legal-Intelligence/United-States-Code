@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—To ensure the development, coordination, and preservation of a transportation system that meets the transportation needs of the United States, including the national defense, it is the policy of the United States Government to oversee of <sup>1</sup> the modes of transportation and in overseeing those modes—
+In General.—To ensure the development, coordination, and preservation of a transportation system that meets the transportation needs of the United States, including the national defense, it is the policy of the United States Government to oversee the modes of transportation and in overseeing those modes—
 
 &emsp;(1) to recognize and preserve the inherent advantage of each mode of transportation;
 
@@ -20,11 +20,21 @@ In General.—To ensure the development, coordination, and preservation of a tra
 
 Administration To Carry Out Policy.—This part shall be administered and enforced to carry out the policy of this section.
 
-(Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 921.)
+(Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 921; amended Pub. L. 105–102, §2(13), Nov. 20, 1997, 111 Stat. 2205.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 105–102
+
+This amends 49:15101(a) to correct a grammatical error.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10101 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–102 struck out “of” after “Government to oversee”.
 
 #### Effective Date
 
@@ -37,6 +47,4 @@ Section 106(b) of Pub. L. 104–88 provided that: “Within 3 years after the ef
 #### Section Referred to in Other Sections
 
 This section is referred to in section 15302 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

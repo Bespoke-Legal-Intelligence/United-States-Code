@@ -34,7 +34,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “single family property” means a 1- to 4-family residence, including a manufactured home.
 
-(July 22, 1932, ch. 522, §27, as added Dec. 17, 1993, Pub. L. 103–204, §18, 107 Stat. 2401.)
+(July 22, 1932, ch. 522, §27, as added Pub. L. 103–204, §18, Dec. 17, 1993, 107 Stat. 2401.)
 
 #### Prior Provisions
 

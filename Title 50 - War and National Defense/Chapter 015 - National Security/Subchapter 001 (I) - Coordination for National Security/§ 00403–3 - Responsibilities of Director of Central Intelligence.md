@@ -24,7 +24,7 @@
 
 &emsp;(A) produce national intelligence estimates for the Government, including, whenever the Council considers appropriate, alternative views held by elements of the intelligence community;
 
-&emsp;(B) evaluate community-wide collection and production of intelligence by the intelligence community and the requirements and resources of such collection and production; and
+&emsp;(B) evaluate community-wide collection and production of intelligence by the intelligencecommunity and the requirements and resources of such collection and production; and
 
 &emsp;(C) otherwise assist the Director in carrying out the responsibilities described in subsection (a) of this section.
 
@@ -72,7 +72,7 @@ In the Director's capacity as head of the Central Intelligence Agency, the Direc
 
 &emsp;(5) perform such other functions and duties related to intelligence affecting the national security as the President or the National Security Council may direct.
 
-(July 26, 1947, ch. 343, title I, §103, as added Oct. 24, 1992, Pub. L. 102–496, title VII, §705(a)(3), 106 Stat. 3190; amended Dec. 3, 1993, Pub. L. 103–178, title V, §502, 107 Stat. 2038; Oct. 11, 1996, Pub. L. 104–293, title VIII, §§806, 807(a), 110 Stat. 3479, 3480.)
+(July 26, 1947, ch. 343, title I, §103, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24, 1992, 106 Stat. 3190; amended Pub. L. 103–178, title V, §502, Dec. 3, 1993, 107 Stat. 2038; Pub. L. 104–293, title VIII, §§806, 807(a), Oct. 11, 1996, 110 Stat. 3479, 3480.)
 
 #### Prior Provisions
 
@@ -96,6 +96,46 @@ Subsec. (c)(3) to (7). Pub. L. 104–293, §807(a)(2), (3), added par. (3) and r
 
 1993—Subsec. (d)(3). Pub. L. 103–178 substituted “provide” for “providing”.
 
+#### Standards for Spelling of Foreign Names and Places and for Use of Geographic Coordinates
+
+Pub. L. 105–107, title III, §309, Nov. 20, 1997, 111 Stat. 2253, provided that:
+
+“(a)
+
+Survey of Current Standards.—
+
+&emsp;“(1)
+
+Survey.—The Director of Central Intelligence shall carry out a survey of current standards for the spelling of foreign names and places, and the use of geographic coordinates for such places, among the elements of the intelligence community.
+
+&emsp;“(2)
+
+Report.—Not later than 90 days after the date of enactment of this Act \[Nov. 20, 1997\], the Director shall submit to the congressional intelligence committees a report on the survey carried out under paragraph (1). The report shall be submitted in unclassified form, but may include a classified annex.
+
+“(b)
+
+Guidelines.—
+
+&emsp;“(1)
+
+Issuance.—Not later than 180 days after the date of enactment of this Act, the Director shall issue guidelines to ensure the use of uniform spelling of foreign names and places and the uniform use of geographic coordinates for such places. The guidelines shall apply to all intelligence reports, intelligence products, and intelligence databases prepared and utilized by the elements of the intelligence community.
+
+&emsp;“(2)
+
+Basis.—The guidelines under paragraph (1) shall, to the maximum extent practicable, be based on current United States Government standards for the transliteration of foreign names, standards for foreign place names developed by the Board on Geographic Names, and a standard set of geographic coordinates.
+
+&emsp;“(3)
+
+Submittal to congress.—The Director shall submit a copy of the guidelines to the congressional intelligence committees.
+
+“(c)
+
+Congressional Intelligence Committees Defined.—In this section, the term ‘congressional intelligence committees’ means the following:
+
+&emsp;“(1) The Select Committee on Intelligence of the Senate.
+
+&emsp;“(2) The Permanent Select Committee on Intelligence of the House of Representatives.”
+
 #### Periodic Reports on Expenditures
 
 Section 807(c) of Pub. L. 104–293 provided that: “Not later than January 1, 1997, the Director of Central Intelligence and the Secretary of Defense shall prescribe guidelines to ensure prompt reporting to the Director and the Secretary on a periodic basis of budget execution data for all national, defense-wide, and tactical intelligence activities.”
@@ -110,5 +150,5 @@ Pub. L. 103–359, title VI, §603, Oct. 14, 1994, 108 Stat. 3433, provided that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 401a, 403–1, 403–5, 403f, 403g, 404d–1, 411, 2011 of this title.
+This section is referred to in sections 401a, 403–1, 403–5, 403f, 403g, 404g, 411, 2011 of this title.
 

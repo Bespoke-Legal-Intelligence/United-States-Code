@@ -1,5 +1,5 @@
 
-17 U.S.C.<br>United States Code, 1996 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+17 U.S.C.<br>United States Code, 1997 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 17—COPYRIGHTS
 
@@ -12,31 +12,18 @@
 | [<b>3.</b>](Chapter%20003%20-%20Duration%20of%20Copyright/README.md) | <b>Duration of Copyright</b> | <b>301</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Copyright%20Notice%2C%20Deposit%2C%20and%20Registration/README.md) | <b>Copyright Notice, Deposit, and Registration</b> | <b>401</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Copyright%20Infringement%20and%20Remedies/README.md) | <b>Copyright Infringement and Remedies</b> | <b>501</b> |
-| [<b>6.</b>](Chapter%20006%20-%20Manufacturing%20Requirements%20and%20Importation/README.md) | <b>Manufacturing Requirement </b><b><sup>1</sup></b> <b>and Importation</b> | <b>601</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>6.</b>](Chapter%20006%20-%20Manufacturing%20Requirements%20and%20Importation/README.md) | <b>Manufacturing Requirements and Importation</b> | <b>601</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Copyright%20Office/README.md) | <b>Copyright Office</b> | <b>701</b> |
-| <b>8.</b> | <b>Copyright Royalty Tribunal </b><b><sup>1</sup></b> | <b>801</b> |
-| [<b>9.</b>](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/README.md) | <b>Protection of semiconductor chip products </b><b><sup>2</sup></b> | <b>901</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
-| [<b>10.</b>](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/README.md) | <b>Digital Audio Recording Devices and Media</b> | <b><sup>3</sup></b><b> 1001</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>8.</b>](Chapter%20008%20-%20Copyright%20Arbitration%20Royalty%20Panels/README.md) | <b>Copyright Arbitration Royalty Panels</b> | <b>801</b> |
+| [<b>9.</b>](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/README.md) | <b>Protection of Semiconductor Chip Products</b> | <b>901</b> |
+| [<b>10.</b>](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/README.md) | <b>Digital Audio Recording Devices and Media</b> | <b>1001</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Sound%20Recordings%20and%20Music%20Videos/README.md) | <b>Sound Recordings and Music Videos</b> | <b>1101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–80, §12(a)(1), Nov. 13, 1997, 111 Stat. 1534, substituted “Requirements” for “Requirement” in item relating to chapter 6, “Arbitration Royalty Panels” for “Royalty Tribunal” in item relating to chapter 8, and “Semiconductor Chip Products” for “semiconductor chip products” in item relating to chapter 9, and added item relating to chapter 10.
 
 1994—Pub. L. 103–465, title V, §512(b), Dec. 8, 1994, 108 Stat. 4974, added item relating to chapter 11.
 
@@ -620,6 +607,7 @@ This title is referred to in title 2 section 179p; title 11 section 101; title 1
 - [Chapter 005 - Copyright Infringement and Remedies](Chapter%20005%20-%20Copyright%20Infringement%20and%20Remedies/README.md)
 - [Chapter 006 - Manufacturing Requirements and Importation](Chapter%20006%20-%20Manufacturing%20Requirements%20and%20Importation/README.md)
 - [Chapter 007 - Copyright Office](Chapter%20007%20-%20Copyright%20Office/README.md)
+- [Chapter 008 - Copyright Arbitration Royalty Panels](Chapter%20008%20-%20Copyright%20Arbitration%20Royalty%20Panels/README.md)
 - [Chapter 009 - Protection of Semiconductor Chip Products](Chapter%20009%20-%20Protection%20of%20Semiconductor%20Chip%20Products/README.md)
 - [Chapter 010 - Digital Audio Recording Devices and Media](Chapter%20010%20-%20Digital%20Audio%20Recording%20Devices%20and%20Media/README.md)
 - [Chapter 011 - Sound Recordings and Music Videos](Chapter%20011%20-%20Sound%20Recordings%20and%20Music%20Videos/README.md)

@@ -152,7 +152,7 @@ Subsecs. (b), (d). Pub. L. 94–169, §106(45), substituted “such person” fo
 
 1963—Subsec. (a). Pub. L. 88–77 inserted references to the Coast Guard.
 
-1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of section 561 of this title,” after “Medal of Honor roll”, and increased pension from $10 to $100.
+1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to himunder subsection (c) of section 561 of this title,” after “Medal of Honor roll”, and increased pension from $10 to $100.
 
 #### Effective Date of 1993 Amendment
 
@@ -168,5 +168,5 @@ Section 106 of Pub. L. 94–169 provided that the amendment made by that section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1560, 1561 of this title; title 26 sections 137, 6334.
+This section is referred to in sections 1560, 1561 of this title; title 26 sections 139, 6334.
 

@@ -12,7 +12,7 @@ The objects and purposes of the corporation are as follows:
 
 &emsp;&emsp;(c) To promote and improve the administration of justice, including the study of means for the improved handling of the legal business of the several Federal departments and establishments;
 
-&emsp;&emsp;(d) To facilitate the cultivation and diffusion of knowledge and understanding of the law and the promotion of the study of the law and the science of jurisprudence and research therein, through the maintenance of a law library, the establishment of seminars, lectures, and studies devoted to the law, and the publication of addresses, essays, treatises, reports and other literary works by students, practitioners, and teachers of the law; and
+&emsp;&emsp;(d) To facilitate the cultivation and diffusion of knowledge and understanding of the law and the promotion of the study of the law and the science of jurisprudence and research therein, through the maintenance ofa law library, the establishment of seminars, lectures, and studies devoted to the law, and the publication of addresses, essays, treatises, reports and other literary works by students, practitioners, and teachers of the law; and
 
 &emsp;&emsp;(e) To provide for the acquisition, preservation and exhibition of rare books and documents, sculptures, paintings and other objects of art and historical interest relating to the law, the courts and the legal profession,
 

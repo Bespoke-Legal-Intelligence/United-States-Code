@@ -24,7 +24,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) The term “inactive duty training” means—
 
-&emsp;&emsp;(A) duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corpsof the Public Health Service) which duty is scheduled in advance by competent authority to begin at a specific time and place; and
+&emsp;&emsp;(A) duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps of the Public Health Service) which duty is scheduled in advance by competent authority to begin at a specific time and place; and
 
 &emsp;&emsp;(B) in the case of a member of the National Guard or Air National Guard of any State, such term means duty (other than full-time duty) which is scheduled in advance by competent authority to begin at a specific time and place under sections 316, 502, 503, 504, or 505 of title 32, United States Code.
 

@@ -4,7 +4,7 @@
 
 (b) When the day, or the last day, for taking any action or paying any fee in the UnitedStates Patent and Trademark Office falls on Saturday, Sunday, or a Federal holiday within the District of Columbia, the action may be taken, or the fee paid, on the next succeeding secular or business day.
 
-(July 19, 1952, ch. 950, 66 Stat. 794; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Aug. 27, 1982, Pub. L. 97–247, §12, 96 Stat. 321.)
+(July 19, 1952, ch. 950, 66 Stat. 794; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §12, Aug. 27, 1982, 96 Stat. 321.)
 
 #### Historical and Revision Notes
 

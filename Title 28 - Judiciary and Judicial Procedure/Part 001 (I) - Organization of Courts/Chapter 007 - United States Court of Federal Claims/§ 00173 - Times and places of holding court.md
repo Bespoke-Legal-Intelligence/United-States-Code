@@ -2,7 +2,7 @@
 
 The principal office of the United States Court of Federal Claims shall be in the District of Columbia, but the Court of Federal Claims may hold court at such times and in such places as it may fix by rule of court. The times and places of the sessions of the Court of Federal Claims shall be prescribed with a view to securing reasonable opportunity to citizens to appear before the Court of Federal Claims with as little inconvenience and expense to citizens as is practicable.
 
-(June 25, 1948, ch. 646, 62 Stat. 898; Mar. 2, 1955, ch. 9, §1(d), 69 Stat. 10; Aug. 14, 1964, Pub. L. 88–426, title IV, §403(d), 78 Stat. 434; Aug. 9, 1975, Pub. L. 94–82, title II, §205(b)(4), 89 Stat. 422; Apr. 2, 1982, Pub. L. 97–164, title I, §105(a), 96 Stat. 27; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 898; Mar. 2, 1955, ch. 9, §1(d), 69 Stat. 10; Pub. L. 88–426, title IV, §403(d), Aug. 14, 1964, 78 Stat. 434; Pub. L. 94–82, title II, §205(b)(4), Aug. 9, 1975, 89 Stat. 422; Pub. L. 97–164, title I, §105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -18,15 +18,15 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court” in three places.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court” in three places.
 
-1982—Pub. L. 97–164 amended section generally, substituting provisions relating to times and places of holding court (formerly contained in section 174) for provisions relating to the tenure and salaries of judges of the Court of Claims. See section 172 of this title.
+<b>1982</b>—Pub. L. 97–164 amended section generally, substituting provisions relating to times and places of holding court (formerly contained in section 174) for provisions relating to the tenure and salaries of judges of the Court of Claims. See section 172 of this title.
 
-1975—Pub. L. 94–82 substituted provision that the chief judge and associate judges receive a salary at anannual rate determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provision granting each such judge a salary of $33,000 a year.
+<b>1975</b>—Pub. L. 94–82 substituted provision that the chief judge and associate judges receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967, as adjusted by section 461 of this title, for provision granting each such judge a salary of $33,000 a year.
 
-1964—Pub. L. 88–426 increased salaries of judges from $25,500 to $33,000 a year.
+<b>1964</b>—Pub. L. 88–426 increased salaries of judges from $25,500 to $33,000 a year.
 
-1955—Act Mar. 2, 1955, increased salaries of judges from $17,500 to $25,500 a year.
+<b>1955</b>—Act Mar. 2, 1955, increased salaries of judges from $17,500 to $25,500 a year.
 
 #### Effective Date of 1992 Amendment
 

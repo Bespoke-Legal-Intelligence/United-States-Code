@@ -10,6 +10,7 @@
 | [1704\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001704%20-%20Preventive%20health%20services%20annual%20report.md) | Preventive health services: annual report. |
 | [1705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md) | Management of health care: patient enrollment system. |
 | [1706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md) | Management of health care: other requirements. |
+| [1707\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001707%20-%20Restriction%20on%20use%20of%20funds%20for%20assisted%20suicide%2C%20euthanasia%2C%20or%20mercy%20killing.md) | Restriction on use of funds for assisted suicide, euthanasia, or mercy killing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,9 +31,9 @@
 | [1718\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001718%20-%20Therapeutic%20and%20rehabilitative%20activities.md) | Therapeutic and rehabilitative activities. |
 | [1719\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001719%20-%20Repair%20or%20replacement%20of%20certain%20prosthetic%20and%20other%20appliances.md) | Repair or replacement of certain prosthetic and other appliances. |
 | [1720\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720%20-%20Transfers%20for%20nursing%20home%20care%3B%20adult%20day%20health%20care.md) | Transfers for nursing home care; adult day health care. |
-| [1720A.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720A%20-%20Treatment%20and%20rehabilitation%20for%20alcohol%20or%20drug%20dependence%20or%20abuse%20disabilities.md) | Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities. |
+| [1720A.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720A%20-%20Treatment%20and%20rehabilitative%20services%20for%20persons%20with%20drug%20or%20alcohol%20dependency.md) | Treatment and rehabilitative services for persons with drug or alcohol dependency. |
 | [1720B.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720B%20-%20Respite%20care.md) | Respite care. |
-| [1720C.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720C%20-%20Noninstitutional%20alternatives%20to%20nursing%20home%20care%20pilot%20program.md) | Noninstitutional alternatives to nursing home care: pilot program. |
+| [1720C.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720C%20-%20Noninstitutional%20alternatives%20to%20nursing%20home%20care.md) | Noninstitutional alternatives to nursing home care. |
 | [1720D.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720D%20-%20Counseling%20and%20treatment%20for%20sexual%20trauma.md) | Counseling and treatment for sexual trauma. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,6 +51,7 @@
 | [1727\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001727%20-%20Persons%20eligible%20under%20prior%20law.md) | Persons eligible under prior law. |
 | [1728\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001728%20-%20Reimbursement%20of%20certain%20medical%20expenses.md) | Reimbursement of certain medical expenses. |
 | [1729\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729%20-%20Recovery%20by%20the%20United%20States%20of%20the%20cost%20of%20certain%20care%20and%20services.md) | Recovery by the United States of the cost of certain care and services. |
+| [1729A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729A%20-%20Department%20of%20Veterans%20Affairs%20Medical%20Care%20Collections%20Fund.md) | Department of Veterans Affairs Medical Care Collections Fund. |
 | [1730\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730%20-%20Community%20residential%20care.md) | Community residential care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -84,18 +86,28 @@
 | [1752\.](Subchapter%20006%20%28VI%29%20-%20Sickle%20Cell%20Anemia/%C2%A7%2001752%20-%20Research.md) | Research. |
 | [1753\.](Subchapter%20006%20%28VI%29%20-%20Sickle%20Cell%20Anemia/%C2%A7%2001753%20-%20Voluntary%20participation%3B%20confidentiality.md) | Voluntary participation; confidentiality. |
 | [1754\.](Subchapter%20006%20%28VI%29%20-%20Sickle%20Cell%20Anemia/%C2%A7%2001754%20-%20Reports.md) | Reports. |
+| \[1761 to 1764. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### \[SUBCHAPTER VII—REPEALED\]
+#### SUBCHAPTER VII—TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOMELESS VETERANS
 
-|  |
-| :--- |
-| \[1761 to 1764. Repealed.\] |
+|  |  |
+| :--- | ---: |
+| [1771\.](Subchapter%20007%20%28VII%29%20-%20Treatment%20and%20Rehabilitation%20for%20Seriously%20Mentally%20Ill%20and%20Homeless%20Veterans/%C2%A7%2001771%20-%20General%20treatment.md) | General treatment. |
+| [1772\.](Subchapter%20007%20%28VII%29%20-%20Treatment%20and%20Rehabilitation%20for%20Seriously%20Mentally%20Ill%20and%20Homeless%20Veterans/%C2%A7%2001772%20-%20Therapeutic%20housing.md) | Therapeutic housing. |
+| [1773\.](Subchapter%20007%20%28VII%29%20-%20Treatment%20and%20Rehabilitation%20for%20Seriously%20Mentally%20Ill%20and%20Homeless%20Veterans/%C2%A7%2001773%20-%20Additional%20services%20at%20certain%20locations.md) | Additional services at certain locations. |
+| [1774\.](Subchapter%20007%20%28VII%29%20-%20Treatment%20and%20Rehabilitation%20for%20Seriously%20Mentally%20Ill%20and%20Homeless%20Veterans/%C2%A7%2001774%20-%20Coordination%20with%20other%20agencies%20and%20organizations.md) | Coordination with other agencies and organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–114, title II, §§202(d), 206(b)(3), Nov. 21, 1997, 111 Stat. 2287, 2289, substituted “Treatment and rehabilitative services for persons with drug or alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in item 1720A, struck out “: pilot program” after “home care” in item 1720C, and added item for subchapter VII and items 1771 to 1774.
+
+Pub. L. 105–33, title VIII, §8023(a)(2), Aug. 5, 1997, 111 Stat. 667, added item 1729A.
+
+Pub. L. 105–12, §9(i)(2), Apr. 30, 1997, 111 Stat. 27, added item 1707.
 
 1996—Pub. L. 104–262, title I, §§101(c)(2)(B), 104(a)(2), Oct. 9, 1996, 110 Stat. 3179, 3184, added items 1705 and 1706 and substituted “Dental care; drugs and medicines for certain disabled veterans; vaccines” for “Eligibility for outpatient services” in item 1712.
 
@@ -157,7 +169,7 @@ Third party tort liability to United States for hospital and medical care, excep
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5315, 5503, 7333, 8107, 8153 of this title; title 31 section 3803; title 42 section 2651.
+This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5315, 5503, 7333, 8107, 8153 of this title; title 31 section 3803; title 42 sections 1320d, 2651, 14402.
 
 
 ---
@@ -170,4 +182,4 @@ This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5
 - [Subchapter 004 (IV) - Hospital Care and Medical Treatment for Veterans in the Republic of the Philippines](Subchapter%20004%20%28IV%29%20-%20Hospital%20Care%20and%20Medical%20Treatment%20for%20Veterans%20in%20the%20Republic%20of%20the%20Philippines/README.md)
 - [Subchapter 005 (V) - Payments to State Homes](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/README.md)
 - [Subchapter 006 (VI) - Sickle Cell Anemia](Subchapter%20006%20%28VI%29%20-%20Sickle%20Cell%20Anemia/README.md)
-- [Subchapter 007 (VII) - Repealed](Subchapter%20007%20%28VII%29%20-%20Repealed/README.md)
+- [Subchapter 007 (VII) - Treatment and Rehabilitation for Seriously Mentally Ill and Homeless Veterans](Subchapter%20007%20%28VII%29%20-%20Treatment%20and%20Rehabilitation%20for%20Seriously%20Mentally%20Ill%20and%20Homeless%20Veterans/README.md)

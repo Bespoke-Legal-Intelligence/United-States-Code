@@ -14,7 +14,7 @@ Section 1905, acts June 6, 1933, ch. 49, §5, 48 Stat. 114; May 10, 1935, ch. 10
 
 Section 1906, act June 6, 1933, ch. 49, §6, 48 Stat. 115; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to apportionment among States, was transferred to section 49e of Title 29.
 
-Section 1907, act June 6, 1933, ch. 49, §7, 48 Stat. 115; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §4, eff. July16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to ascertainment of amount due to States and certification thereof to Secretary of the Treasury, was transferred to section 49f of Title 29.
+Section 1907, act June 6, 1933, ch. 49, §7, 48 Stat. 115; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to ascertainment of amount due to States and certification thereof to Secretary of the Treasury, was transferred to section 49f of Title 29.
 
 Section 1908, act June 6, 1933, ch. 49, §8, 48 Stat. 115; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to submission of State plans, was transferred to section 49g of Title 29.
 

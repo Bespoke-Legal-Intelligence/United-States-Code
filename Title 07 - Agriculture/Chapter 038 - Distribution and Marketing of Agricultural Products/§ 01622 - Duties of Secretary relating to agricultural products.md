@@ -12,7 +12,7 @@ To determine costs of marketing agricultural products in their various forms and
 
 #### (c) Improvement of standards of quality, condition, etc.; standard of quality for ice cream
 
-To develop and improve standards of quality, condition, quantity, grade, and packaging, and recommend and demonstrate such standards in order to encourage uniformity and consistency in commercial practices. Within thirty days after September 29, 1977, the Secretary shall by regulation adopt a standard of quality for ice cream which shall provide that ice cream shall contain at least 1.6 pounds of total solids to the gallon, weigh not less than 4.5 pounds to the gallon and contain not less than 20 percent total milk solids, constituted of not less than 10 percent milkfat. In no case shall the content of milk solids not fat be less than 6 percent. Whey shall not, by weight, be more than 25 percent of the milk solids not fat. Only those products which meet the standard issued by the Secretary may bear a symbol thereon indicating that they meet the Department of Agriculture standard for “ice cream”.
+To develop and improve standards of quality, condition, quantity, grade, and packaging, andrecommend and demonstrate such standards in order to encourage uniformity and consistency in commercial practices. Within thirty days after September 29, 1977, the Secretary shall by regulation adopt a standard of quality for ice cream which shall provide that ice cream shall contain at least 1.6 pounds of total solids to the gallon, weigh not less than 4.5 pounds to the gallon and contain not less than 20 percent total milk solids, constituted of not less than 10 percent milkfat. In no case shall the content of milk solids not fat be less than 6 percent. Whey shall not, by weight, be more than 25 percent of the milk solids not fat. Only those products which meet the standard issued by the Secretary may bear a symbol thereon indicating that they meet the Department of Agriculture standard for “ice cream”.
 
 #### (d) Elimination of artificial barriers to free movement
 
@@ -28,7 +28,7 @@ To conduct and cooperate in consumer education for the more effective utilizatio
 
 #### (g) Collection and dissemination of marketing information
 
-To collect and disseminate marketing information, including adequate outlook informationon a market-area basis, for the purpose of anticipating and meeting consumer requirements, aiding in the maintenance of farm income, and bringing about a balance between production and utilization of agricultural products.
+To collect and disseminate marketing information, including adequate outlook information on a market-area basis, for the purpose of anticipating and meeting consumer requirements, aiding in the maintenance of farm income, and bringing about a balance between production and utilization of agricultural products.
 
 #### (h) Inspection and certification of products in interstate commerce; credit and future availability of funds; investment; certificates as evidence; penalties
 
@@ -44,7 +44,7 @@ To assist in improving transportation services and facilities and in obtaining e
 
 #### (k) Collection and dissemination of marketing statistics
 
-To collect, tabulate, and disseminate statistics on marketing agricultural products, including, but not restricted to statistics on market supplies, storage stocks, quantity, quality, and condition of such products in various positions in the marketing channel, utilization of such products, and shipments and unloads thereof.
+To collect, tabulate, and disseminate statistics on marketing agricultural products, including, but not restricted to statistics on marketsupplies, storage stocks, quantity, quality, and condition of such products in various positions in the marketing channel, utilization of such products, and shipments and unloads thereof.
 
 #### (<i>l</i>) Development of procurement standards and specifications
 
@@ -89,6 +89,26 @@ Section 304 of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat
 United States Maritime Commission abolished by 1950 Reorg. Plan No. 21, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix of Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, such Board having created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of such Commission's functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, head of Maritime Administration, which likewise was established by Plan in Department of Commerce with provision that chairman of said Federal Maritime Board should, ex officio, be such Administrator.
 
 Executive and administrative functions of Maritime Commission transferred to Chairman of Maritime Commission by 1949 Reorg. Plan No. 6, eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1069, set out in the Appendix to Title 5.
+
+#### Collection and Dissemination of Information on Prices Received for Bulk Cheese
+
+Pub. L. 105–18, title II, §1001, June 12, 1997, 111 Stat. 172, provided that:
+
+“(a)
+
+In General.—Not later than 30 days after the date of enactment of this Act \[June 12, 1997\], the Secretary of Agriculture shall collect and disseminate, on a weekly basis, statistically reliable information, obtained from cheese manufacturing areas in the United States on prices received and terms of trade involving bulk cheese, including information on the national average price for bulk cheese sold through spot and forward contract transactions. To the maximum extent practicable, the Secretary shall report the prices and terms of trade for spot and forward contract transactions separately.
+
+“(b)
+
+Confidentiality.—All information provided to, or acquired by, the Secretary under subsection (a) shall be kept confidential by each officer and employee of the Department of Agriculture except that general weekly statements may be issued that are based on the information and that do not identify the information provided by any person.
+
+“(c)
+
+Report.—Not later than 150 days after the date of enactment of this Act \[June 12, 1997\], the Secretary shall report to the Committee on Agriculture, and the Committee on Appropriations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, and the Committee on Appropriations, of the Senate, on the rate of reporting compliance by cheese manufacturers with respect to the information collected under subsection (a). At the time of the report, the Secretary may submit legislative recommendations to improve the rate of reporting compliance.
+
+“(d)
+
+Termination of Effectiveness.—The authority provided by subsection (a) terminates effective April 5, 1999.”
 
 #### Lamb Price and Supply Reporting Services Report and System
 

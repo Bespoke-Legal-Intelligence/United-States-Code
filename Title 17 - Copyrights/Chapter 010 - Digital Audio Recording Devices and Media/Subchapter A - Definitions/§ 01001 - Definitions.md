@@ -6,7 +6,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;(2) A “digital audio interface device” is any machine or device that is designed specifically to communicate digital audio information and related interface data to a digital audio recording device through a nonprofessional interface.
 
-&emsp;(3) A “digital audio recording device” is any machine or device of a type commonly distributed to individuals for use by individuals, whether or not included with or as part of some other machine or device, the digital recording function of which is designed or marketed for the primary purpose of, and that is capable of, making a digital audio copied recording for private use, except for—
+&emsp;(3) A “digital audio recording device” is any machine or device of a type commonly distributed to individuals for use by individuals,whether or not included with or as part of some other machine or device, the digital recording function of which is designed or marketed for the primary purpose of, and that is capable of, making a digital audio copied recording for private use, except for—
 
 &emsp;&emsp;(A) professional model products, and
 
@@ -44,7 +44,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(A) the owner of the exclusive right under section 106(1) of this title to reproduce a sound recording of a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
 
-&emsp;&emsp;(B) the legal or beneficial owner of, or the person that controls, the right to reproduce in a digital musical recording or analog musical recording a musical work that has beenembodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
+&emsp;&emsp;(B) the legal or beneficial owner of, or the person that controls, the right to reproduce in a digital musical recording or analog musical recording a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;
 
 &emsp;&emsp;(C) a featured recording artist who performs on a sound recording that has been distributed; or
 

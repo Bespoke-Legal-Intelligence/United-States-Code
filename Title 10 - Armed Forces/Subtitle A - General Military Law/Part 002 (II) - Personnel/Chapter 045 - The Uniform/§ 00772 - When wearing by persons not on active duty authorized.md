@@ -130,7 +130,7 @@ In subsection (c), the words “bear the title”, in 34:43g(i), applicable only
 
 In subsection (e), the words between the second and third semicolons of the first proviso of the first paragraph of 10:1393 are omitted as superseded by 10:1028b and 34:399d, which authorize the wearing of the uniform by members who are discharged honorably or under honorable conditions. The words “when authorized by regulations prescribed by” are substituted for the words “occasions authorized by regulations of”.
 
-In subsection (f), the words “while portraying a member of the Army, Navy, Air Force, or Marine Corps, anactor in a theatrical or motion-picture production” are substituted for the words “any person from wearing the uniform of the United States Army, Navy, or Marine Corps, in any playhouse or theater or in moving-picture films while actually engaged in representing therein a military or naval character”.
+In subsection (f), the words “while portraying a member of the Army, Navy, Air Force, or Marine Corps, an actor in a theatrical or motion-picture production” are substituted for the words “any person from wearing the uniform of the United States Army, Navy, or Marine Corps, in any playhouse or theater or in moving-picture films while actually engaged in representing therein a military or naval character”.
 
 In subsection (g), the word “resident” is substituted for the word “members”, since the word “members” related to members of the now disbanded National Home for disabled volunteer soldiers to which were admitted “members” of an organization called the “Disabled Volunteer Soldiers”. The words “veterans’ home” are substituted for the words “national home for veterans”, since there are now no “national homes” administered by the Veterans’ Administration.
 

@@ -18,3 +18,15 @@ Assistance under programs referred to in subsection (a) of this section may (not
 
 Section 301, referred to in subsec. (b), is section 301 of Pub. L. 104–201, div. A, title III, Sept. 23, 1996, 110 Stat. 2475, which is not classified to the Code.
 
+#### Delegation of Authority
+
+Memorandum of President of the United States, July 24, 1997, 62 F.R. 40727, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to you, in consultation with the Secretary of State, the authority vested in the President under section 1424(c) of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201) \[50 U.S.C. 2333(c)\].
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

@@ -90,7 +90,9 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Defense Experimental Program To Stimulate Competitive Research
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465, provided that:
+Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
+
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667, provided that:
 
 “(a)
 
@@ -128,7 +130,11 @@ Coordination With Similar Federal Programs.—(1) The Secretary shall consult wi
 
 “(2) All solicitations under the Defense Experimental Program to Stimulate Competitive Research shall be made to, and all awards shall be made through, the State committees established for purposes of the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation.
 
-“(3) A State committee referred to in paragraph (2) shall ensure that activities carried out in the State of that committee under the Defense Experimental Program to Stimulate Competitive Research are coordinated with the activities carried out in the State under other similar initiatives of the Federal Government to stimulate competitive research.”
+“(3) A State committee referred to in paragraph (2) shall ensure that activities carried out in the State of that committee under the Defense Experimental Program to Stimulate Competitive Research are coordinated with the activities carried out in the State under other similar initiatives of the Federal Government to stimulate competitive research.
+
+“(f)
+
+State Defined.—In this section, the term ‘State’ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.”
 
 #### Inclusion of Women and Minorities in Clinical Research Projects
 
@@ -166,7 +172,7 @@ Establishment.—The Secretary of Defense, through the Director of Defense Resea
 
 “(b)
 
-Purpose.—Under the program, the Director may award grants and contracts to eligible institutions of higher education to support the conduct of research and development relevant to requirements of the Department of Defense.
+Purpose.—Under the program, the Director may award grants and contracts to eligible institutions ofhigher education to support the conduct of research and development relevant to requirements of the Department of Defense.
 
 “(c)
 

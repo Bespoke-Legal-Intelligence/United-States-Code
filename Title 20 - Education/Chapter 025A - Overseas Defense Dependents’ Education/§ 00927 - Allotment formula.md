@@ -30,7 +30,7 @@ Any regulation under subsection (a) of this section shall be issued, and shall b
 
 #### (2) Infants and toddlers with disabilities
 
-&emsp;The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 677 of the Individuals with Disabilities Education Act \[20 U.S.C. 1477\] and to comply with the procedural safeguards set forth in part H of such Act \[20 U.S.C. 1471 et seq.\] shall apply with respect to all eligible dependents overseas.
+&emsp;The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 677 <sup>1</sup> of the Individuals with Disabilities Education Act and to comply with the procedural safeguards set forth in part H <sup>1</sup> of such Act shall apply with respect to all eligible dependents overseas.
 
 #### (3) Implementation timelines
 
@@ -48,7 +48,7 @@ Any regulation under subsection (a) of this section shall be issued, and shall b
 
 Section 1232 of this title, referred to in subsec. (b), was in the original a reference to section 431 of the General Education Provisions Act. Sections 422 and 431 of that Act were renumbered sections 431 and 437, respectively, by Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and are classified to sections 1231a and 1232, respectively, of this title.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), (2), is title VI of Pub. L., 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and H of the Act are classified generally to subchapters II (§1411 et seq.) and VIII (§1471 et seq.), respectively, of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), (2), is title VI of Pub. L., 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. Part H of the Act and section 677 of the Act were classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of this title and section 1477 of this title, respectively, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Amendments
 

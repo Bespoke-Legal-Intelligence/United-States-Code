@@ -38,7 +38,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(6), is Pub. L. 92
 
 1990—Pub. L. 101–627 amended last sentence generally. Prior to amendment, last sentence read as follows: “On approval by the United States Commissioners—
 
-&emsp;“(A) if not more than three members of the advisory committee are designated by the committee to attend any meeting of the Commission, Council, or advisory committee, or of any Panel, each of such members shall be paid for his actual transportation expenses and per diem incident to his attendance; and
+&emsp;“(A) if not more than three members of the advisory committee are designated by the committee to attend any meeting of the Commission, Council, or advisory committee, or of any Panel, each of suchmembers shall be paid for his actual transportation expenses and per diem incident to his attendance; and
 
 &emsp;“(B) in any case in which more than three members are designated by the advisory committee to attend any such meeting, each such member to whom subparagraph (A) does not apply may be paid for his actual transportation expenses and per diem incident to his attendance.”
 

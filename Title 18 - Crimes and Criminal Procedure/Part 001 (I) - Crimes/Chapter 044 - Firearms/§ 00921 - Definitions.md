@@ -46,7 +46,7 @@
 
 (12) The term “pawnbroker” means any person whose business or occupation includes the taking or receiving, by way of pledge or pawn, of any firearm as security for the payment or repayment of money.
 
-(13) The term “collector” means any person who acquires, holds, or disposes of firearms as curios or relics, as the Secretary shall by regulation define, and the term “licensed collector” means any such person licensed under the provisions of this chapter.
+(13) The term “collector” means any person who acquires, holds, or disposes of firearms ascurios or relics, as the Secretary shall by regulation define, and the term “licensed collector” means any such person licensed under the provisions of this chapter.
 
 (14) The term “indictment” includes an indictment or information in any court under which a crime punishable by imprisonment for a term exceeding one year may be prosecuted.
 
@@ -78,7 +78,7 @@
 
 (20) The term “crime punishable by imprisonment for a term exceeding one year” does not include—
 
-&emsp;(A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices,restraints of trade, or other similar offenses relating to the regulation of business practices, or
+&emsp;(A) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices, or
 
 &emsp;(B) any State offense classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
 
@@ -228,7 +228,7 @@
 
 For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The date of enactment of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec.\(a)(31)(A), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
+The date of enactment of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (a)(31)(A), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 #### Amendments
 
@@ -306,7 +306,7 @@ Section 110 of Pub. L. 99–308 provided that:
 
 “(a)
 
-In General.—The amendments made by this Act \[enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section\] shall become effective one hundred and eighty days after the date of the enactment of this Act \[May 19, 1986\]. Upon their becoming effective, the Secretary shall publish and provide to all licensees a compilation of the State laws and published ordinances ofwhich licensees are presumed to have knowledge pursuant to chapter 44 of title 18, United States Code, as amended by this Act. All amendments to such State laws and published ordinances as contained in the aforementioned compilation shall be published in the Federal Register, revised annually, and furnished to each person licensed under chapter 44 of title 18, United States Code, as amended by this Act.
+In General.—The amendments made by this Act \[enacting section 926A of this title, amending this section, sections 922 to 926 and 929 of this title, and section 5845 of Title 26, Internal Revenue Code, repealing title VII of Pub. L. 90–351, set out in the Appendix to this title, and enacting provisions set out as notes under this section\] shall become effective one hundred and eighty days after the date of the enactment of this Act \[May 19, 1986\]. Upon their becoming effective, the Secretary shall publish and provide to all licensees a compilation of the State laws and published ordinances of which licensees are presumed to have knowledge pursuant to chapter 44 of title 18, United States Code, as amended by this Act. All amendments to such State laws and published ordinances as contained in the aforementioned compilation shall be published in the Federal Register, revised annually, and furnished to each person licensed under chapter 44 of title 18, United States Code, as amended by this Act.
 
 “(b)
 
@@ -412,7 +412,7 @@ Section 901 of title IV of Pub. L. 90–351 provided that:
 
 &emsp;“(6) that there is a casual relationship between the easy availability of firearms other than a rifle or shotgun and juvenile and youthful criminal behavior, and that such firearms have been widely sold by federally licensed importers and dealers to emotionally immature, or thrill-bent juveniles and minors prone to criminal behavior;
 
-&emsp;“(7) that the United States has become the dumping ground of the castoff surplus military weapons of other nations, and that such weapons, and the large volume of relatively inexpensive pistols and revolvers (largely worthless for sporting purposes), imported into the United States in recent years, has contributed greatly to lawlessness and to the Nation's law enforcement problems;
+&emsp;“(7) that the United States has become the dumping ground of the castoff surplus military weapons ofother nations, and that such weapons, and the large volume of relatively inexpensive pistols and revolvers (largely worthless for sporting purposes), imported into the United States in recent years, has contributed greatly to lawlessness and to the Nation's law enforcement problems;
 
 &emsp;“(8) that the lack of adequate Federal control over interstate and foreign commerce in highly destructive weapons (such as bazookas, mortars, antitank guns, and so forth, and destructive devices such as explosive or incendiary grenades, bombs, missiles, and so forth) has allowed such weapons and devices to fall into the hands of lawless persons, including armed groups who would supplant lawful authority, thus creating a problem of national concern;
 
@@ -450,5 +450,5 @@ Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 845, 923, 925, 1791, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 section 2722; title 20 sections 1415, 3351, 8921, 8922; title 21 section 881; title 22 section 2778; title 26 section 5845.
+This section is referred to in sections 845, 923, 925, 1791, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 sections 2722, 4687; title 20 sections 1415, 3351, 8921, 8922; title 21 section 881; title 22 section 2778; title 26 section 5845.
 

@@ -18,7 +18,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 &emsp;(1) with or without warrant or other process, arrest any person committing in his presence or view a violation of this subchapter or the regulations issued thereunder;
 
-&emsp;(2) with a warrant or other process, or without a warrant if he has reasonable cause to believe that a vessel or other conveyance subject to the jurisdiction of the United States or any person on board is in violation of any provision of this subchapter or the regulations issued thereunder, search such vessel or conveyance and arrest such person;
+&emsp;(2) with a warrant or other process, or without a warrant if he has reasonable cause to believe that a vessel or other conveyance subject to the jurisdiction of the United States or anyperson on board is in violation of any provision of this subchapter or the regulations issued thereunder, search such vessel or conveyance and arrest such person;
 
 &emsp;(3) seize the cargo of any vessel or other conveyance subject to the jurisdiction of the United States used or employed contrary to the provisions of this subchapter or the regulations issued hereunder or which reasonably appears to have been so used or employed; and
 

@@ -16,11 +16,11 @@ He shall make returns thereof to the Director of the Administrative Office of th
 
 (f) When the Court of International Trade is sitting in a judicial district, other than the Southern District or Eastern District of New York, the clerk of the district court of such judicial district or an authorized deputy clerk, upon the request of the chief judge of the Court of International Trade and with the approval of such district court, shall act in the district as clerk of the Court of International Trade, as prescribed by the rules and orders of the Court of International Trade for all purposes relating to the civil action then pending before such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 920; Oct. 10, 1980, Pub. L. 96–417, title V, §504, 94 Stat. 1743.)
+(June 25, 1948, ch. 646, 62 Stat. 920; Pub. L. 96–417, title V, §504, Oct. 10, 1980, 94 Stat. 1743.)
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§6, 7, 8, 524, 557, 567, 568, and 569, sections 644 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 11–401 of the District of Columbia Code, 1940 ed. (R.S. §833; June 20, 1874, ch. 328, §2, 18 Stat. 109; May 28, 1896, ch. 252, §8, 29 Stat. 181; Apr. 12, 1900, ch. 191, §34, 31 Stat. 84; Apr. 30, 1900, ch. 339, §86, 31 Stat. 158; Mar. 3, 1901, ch. 854, §174, 31 Stat. 1218; June 28, 1902, ch. 1301, §1, 32 Stat. 475; June 30, 1902, ch. 1329, 32 Stat. 527; June 30, 1906, ch. 3914, §1, 34 Stat. 754; Mar. 3, 1909, ch. 269, §1, 35 Stat. 838; Mar. 3, 1911, ch. 231, §§3, 4, 291, 36 Stat. 1087, 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; Feb. 26, 1919, ch. 49, §§1, 4, 9, 40 Stat. 1182, 1183; Feb. 11, 1921, ch. 46, 41 Stat. 1099; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412, 1413; June 10, 1921, ch. 18, §§301, 310, 42 Stat. 23, 25; June 16, 1921, ch. 23, §1, 42 Stat. 41; July 9, 1921, ch. 42, §313, 42 Stat. 119; June 1, 1922, ch. 204, Title II, 42 Stat. 614, 616; Jan. 3, 1923, ch. 21 title II, 42 Stat. 1084; Feb. 12, 1925, ch. 220, 43 Stat. 890; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118; June 16, 1938, ch. 465, 52 Stat. 752; June 14, 1941, ch. 203, §§1, 2, 55 Stat. 251).
+Based on title 28, U.S.C., 1940 ed., §§6, 7, 8, 524, 557, 567, 568, and 569, sections 644 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 11–401 of the District of Columbia Code, 1940 ed. (R.S. §833; June 20, 1874, ch. 328, §2, 18 Stat. 109; May 28, 1896, ch. 252, §8, 29 Stat. 181; Apr. 12, 1900, ch. 191, §34, 31 Stat. 84; Apr. 30, 1900, ch. 339, §86, 31 Stat. 158; Mar. 3, 1901, ch. 854, §174, 31 Stat. 1218; June 28, 1902, ch. 1301, §1, 32 Stat. 475; June 30, 1902, ch. 1329, 32 Stat. 527; June 30, 1906, ch. 3914, §1, 34 Stat. 754; Mar. 3, 1909, ch. 269, §1, 35 Stat. 838; Mar. 3, 1911, ch. 231, §§3, 4, 291, 36 Stat. 1087, 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; Feb. 26, 1919, ch. 49, §§1, 4, 9, 40 Stat. 1182, 1183; Feb. 11, 1921, ch. 46, 41 Stat. 1099; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412, 1413; June 10, 1921, ch. 18, §§301, 310, 42 Stat. 23, 25; June 16, 1921, ch. 23, §1, 42 Stat. 41; July 9, 1921, ch. 42, §313, 42 Stat. 119; June 1, 1922, ch. 204, Title II, 42 Stat. 614, 616; Jan. 3, 1923, ch. 21 title II, 42 Stat. 1084; Feb. 12, 1925, ch. 220, 43 Stat. 890; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; May 17, 1932, ch. 190, 47 Stat.158; June 25, 1936, ch. 804, 49 Stat. 1921; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118; June 16, 1938, ch. 465, 52 Stat. 752; June 14, 1941, ch. 203, §§1, 2, 55 Stat. 251).
 
 This section consolidates provisions of section 11–401 of the District of Columbia Code, 1940 ed., sections 644 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and title 28, U.S.C., 1940 ed., sections 6, 7, 8, 524, 557, 567, 568, and 569 relating to district court clerks. Other provisions of such sections 8 and 524 are incorporated in sections 505 \[now 545\], 541 \[see 561\], and 954 of this title and other provisions of such section 11–401 of the District of Columbia Code have been retained in such Code.
 
@@ -36,7 +36,7 @@ Words in sections 6 and 7 of title 28, U.S.C., 1940 ed., “Except as otherwise 
 
 References in section 7 of title 28, U.S.C., 1940 ed., that the clerk recommend appointment of deputies and clerical assistants were omitted as unnecessary.
 
-The provision that each clerk shall be subject to removal by the court is new. No tenure was provided for by title 28, U.S.C., 1940 ed., but said title contained provisions that other clerks should hold office during the pleasure of the courts which appointed them, and that deputies should hold office during the pleasure of the clerks. The Supreme Court held, in 1839, that a judge of a district court could remove the clerk thereof atpleasure in absence of any law fixing the clerk's tenure. <i>In re Hennen</i>, 38 U.S. 230, 13 Pet. 230, 10 L.Ed. 138. (See also, <i>Meyers v. U.S</i>., 47 S.Ct. 21, 272 U.S. 52, 71 L.Ed. 160.)
+The provision that each clerk shall be subject to removal by the court is new. No tenure was provided for by title 28, U.S.C., 1940 ed., but said title contained provisions that other clerks should hold office during the pleasure of the courts which appointed them, and that deputies should hold office during the pleasure of the clerks. The Supreme Court held, in 1839, that a judge of a district court could remove the clerk thereof at pleasure in absence of any law fixing the clerk's tenure. <i>In re Hennen</i>, 38 U.S. 230, 13 Pet. 230, 10 L.Ed. 138. (See also, <i>Meyers v. U.S</i>., 47 S.Ct. 21, 272 U.S. 52, 71 L.Ed. 160.)
 
 Words “circuit or” after “Every clerk of the” in section 524 of title 28, U.S.C., 1940 ed., were omitted because of the abolition of the circuit courts by act Mar. 3, 1911, ch. 231, §289, 36 Stat. 1167, title 28, U.S.C., 1940 ed., §430.
 
@@ -68,7 +68,7 @@ Section 742 of Title 8, referred to in subsec. (e), was repealed by act June 27,
 
 #### Amendments
 
-1980—Subsec. (f). Pub. L. 96–417 added subsec. (f).
+<b>1980</b>—Subsec. (f). Pub. L. 96–417 added subsec. (f).
 
 #### Change of Name
 

@@ -14,7 +14,7 @@ Any alien or any parent or legal guardian of any alien, who files an application
 
 #### (d) Counterfeiting
 
-Any person who with unlawful intent photographs, prints, or in any other manner makes, orexecutes, any engraving, photograph, print, or impression in the likeness of any certificate of alien registration or an alien registration receipt card or any colorable imitation thereof, except when and as authorized under such rules and regulations as may be prescribed by the Attorney General, shall upon conviction be fined not to exceed $5,000 or be imprisoned not more than five years, or both.
+Any person who with unlawful intent photographs, prints, or in any other manner makes, or executes, any engraving, photograph, print, or impression in the likeness of any certificate of alien registration or an alien registration receipt card or any colorable imitation thereof, except when and as authorized under such rules and regulations as may be prescribed by the Attorney General, shall upon conviction be fined not to exceed $5,000 or be imprisoned not more than five years, or both.
 
 (June 27, 1952, ch. 477, title II, ch. 7, §266, 66 Stat. 225; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(e)(2)(G), (g)(9)(A), 110 Stat. 3009–620, 3009–624.)
 

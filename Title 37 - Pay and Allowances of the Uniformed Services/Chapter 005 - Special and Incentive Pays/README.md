@@ -7,6 +7,7 @@
 | [301b.](%C2%A7%2000301b%20-%20Special%20pay%20aviation%20career%20officers%20extending%20period%20of%20active%20duty.md) | Special pay: aviation career officers extending period of active duty. |
 | [301c.](%C2%A7%2000301c%20-%20Incentive%20pay%20submarine%20duty.md) | Incentive pay: submarine duty. |
 | [301d.](%C2%A7%2000301d%20-%20Multiyear%20retention%20bonus%20medical%20officers%20of%20the%20armed%20forces.md) | Multiyear retention bonus: medical officers of the armed forces. |
+| [301e.](%C2%A7%2000301e%20-%20Multiyear%20retention%20bonus%20dental%20officers%20of%20the%20armed%20forces.md) | Multiyear retention bonus: dental officers of the armed forces. |
 | [302\.](%C2%A7%2000302%20-%20Special%20pay%20medical%20officers%20of%20the%20armed%20forces.md) | Special pay: medical officers of the armed forces. |
 | [302a.](%C2%A7%2000302a%20-%20Special%20pay%20optometrists.md) | Special pay: optometrists. |
 | [302b.](%C2%A7%2000302b%20-%20Special%20pay%20dental%20officers%20of%20the%20armed%20forces.md) | Special pay: dental officers of the armed forces. |
@@ -20,7 +21,7 @@
 | [303a.](%C2%A7%2000303a%20-%20Special%20pay%20health%20professionals%3B%20general%20provisions.md) | Special pay: health professionals; general provisions. |
 | [303b.](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md) | Waiver of board certification requirements. |
 | [304\.](%C2%A7%2000304%20-%20Special%20pay%20diving%20duty.md) | Special pay: diving duty. |
-| [305\.](%C2%A7%2000305%20-%20Special%20pay%20while%20on%20duty%20at%20certain%20places.md) | Special pay: while on duty at certain places. |
+| [305\.](%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20location%20pay.md) | Special pay: hardship duty location pay. |
 | [305a.](%C2%A7%2000305a%20-%20Special%20pay%20career%20sea%20pay.md) | Special pay: career sea pay. |
 | [306\.](%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md) | Special pay: officers holding positions of unusual responsibility and of critical nature. |
 | [306a.](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md) | Special pay: members assigned to international military headquarters. |
@@ -43,7 +44,7 @@
 | [312b.](%C2%A7%2000312b%20-%20Special%20pay%20nuclear%20career%20accession%20bonus.md) | Special pay: nuclear career accession bonus. |
 | [312c.](%C2%A7%2000312c%20-%20Special%20pay%20nuclear%20career%20annual%20incentive%20bonus.md) | Special pay: nuclear career annual incentive bonus. |
 | \[313. | Repealed.\] |
-| [314\.](%C2%A7%2000314%20-%20Special%20pay%20qualified%20enlisted%20members%20extending%20duty%20at%20designated%20locations%20overseas.md) | Special pay: qualified enlisted members extending duty at designated locations overseas. |
+| [314\.](%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20enlisted%20members%20extending%20duty%20at%20designated%20locations%20overseas.md) | Special pay or bonus: qualified enlisted members extending duty at designated locations overseas. |
 | [315\.](%C2%A7%2000315%20-%20Special%20pay%20engineering%20and%20scientific%20career%20continuation%20pay.md) | Special pay: engineering and scientific career continuation pay. |
 | [316\.](%C2%A7%2000316%20-%20Special%20pay%20foreign%20language%20proficiency%20pay.md) | Special pay: foreign language proficiency pay. |
 | [316a.](%C2%A7%2000316a%20-%20Waiver%20of%20certification%20requirement.md) | Waiver of certification requirement. |
@@ -52,6 +53,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title VI, §§617(b), 619(c)(2), 625(a)(2), Nov. 18, 1997, 111 Stat. 1789, 1790, 1795, added item 301e and substituted “hardship duty location pay” for “while on duty at certain places” in item 305 and “Special pay or bonus:” for “Special pay:” in item 314.
 
 1996—Pub. L. 104–201, div. A, title VI, §615(c)(2), Sept. 23, 1996, 110 Stat. 2546, added item 302h.
 
@@ -125,6 +128,7 @@ This chapter is referred to in sections 907, 1003 of this title; title 42 sectio
 - [&sect; 00301b - Special pay aviation career officers extending period of active duty](%C2%A7%2000301b%20-%20Special%20pay%20aviation%20career%20officers%20extending%20period%20of%20active%20duty.md)
 - [&sect; 00301c - Incentive pay submarine duty](%C2%A7%2000301c%20-%20Incentive%20pay%20submarine%20duty.md)
 - [&sect; 00301d - Multiyear retention bonus medical officers of the armed forces](%C2%A7%2000301d%20-%20Multiyear%20retention%20bonus%20medical%20officers%20of%20the%20armed%20forces.md)
+- [&sect; 00301e - Multiyear retention bonus dental officers of the armed forces](%C2%A7%2000301e%20-%20Multiyear%20retention%20bonus%20dental%20officers%20of%20the%20armed%20forces.md)
 - [&sect; 00302 - Special pay medical officers of the armed forces](%C2%A7%2000302%20-%20Special%20pay%20medical%20officers%20of%20the%20armed%20forces.md)
 - [&sect; 00302a - Special pay optometrists](%C2%A7%2000302a%20-%20Special%20pay%20optometrists.md)
 - [&sect; 00302b - Special pay dental officers of the armed forces](%C2%A7%2000302b%20-%20Special%20pay%20dental%20officers%20of%20the%20armed%20forces.md)
@@ -138,7 +142,7 @@ This chapter is referred to in sections 907, 1003 of this title; title 42 sectio
 - [&sect; 00303a - Special pay health professionals; general provisions](%C2%A7%2000303a%20-%20Special%20pay%20health%20professionals%3B%20general%20provisions.md)
 - [&sect; 00303b - Waiver of board certification requirements](%C2%A7%2000303b%20-%20Waiver%20of%20board%20certification%20requirements.md)
 - [&sect; 00304 - Special pay diving duty](%C2%A7%2000304%20-%20Special%20pay%20diving%20duty.md)
-- [&sect; 00305 - Special pay while on duty at certain places](%C2%A7%2000305%20-%20Special%20pay%20while%20on%20duty%20at%20certain%20places.md)
+- [&sect; 00305 - Special pay hardship duty location pay](%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20location%20pay.md)
 - [&sect; 00305a - Special pay career sea pay](%C2%A7%2000305a%20-%20Special%20pay%20career%20sea%20pay.md)
 - [&sect; 00306 - Special pay officers holding positions of unusual responsibility and of critical nature](%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md)
 - [&sect; 00306a - Special pay members assigned to international military headquarters](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md)
@@ -161,7 +165,7 @@ This chapter is referred to in sections 907, 1003 of this title; title 42 sectio
 - [&sect; 00312b - Special pay nuclear career accession bonus](%C2%A7%2000312b%20-%20Special%20pay%20nuclear%20career%20accession%20bonus.md)
 - [&sect; 00312c - Special pay nuclear career annual incentive bonus](%C2%A7%2000312c%20-%20Special%20pay%20nuclear%20career%20annual%20incentive%20bonus.md)
 - [&sect; 00313 - Repealed. Pub. L. 96&#8211;513, title IV, &sect;414(a), Dec. 12, 1980, 94 Stat. 2906](%C2%A7%2000313%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20IV%2C%20%C2%A7414%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202906.md)
-- [&sect; 00314 - Special pay qualified enlisted members extending duty at designated locations overseas](%C2%A7%2000314%20-%20Special%20pay%20qualified%20enlisted%20members%20extending%20duty%20at%20designated%20locations%20overseas.md)
+- [&sect; 00314 - Special pay or bonus qualified enlisted members extending duty at designated locations overseas](%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20enlisted%20members%20extending%20duty%20at%20designated%20locations%20overseas.md)
 - [&sect; 00315 - Special pay engineering and scientific career continuation pay](%C2%A7%2000315%20-%20Special%20pay%20engineering%20and%20scientific%20career%20continuation%20pay.md)
 - [&sect; 00316 - Special pay foreign language proficiency pay](%C2%A7%2000316%20-%20Special%20pay%20foreign%20language%20proficiency%20pay.md)
 - [&sect; 00316a - Waiver of certification requirement](%C2%A7%2000316a%20-%20Waiver%20of%20certification%20requirement.md)

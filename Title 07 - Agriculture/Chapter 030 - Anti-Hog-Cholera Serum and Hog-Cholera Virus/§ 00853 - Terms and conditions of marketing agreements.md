@@ -14,5 +14,5 @@ Section 851 of this title, referred to in clause (b), was in the original “thi
 
 #### Amendments
 
-1958—Cl. (b). Pub. L. 85–574 substituted “in inventory in his own possession on April 1” for “available on May 1”, inserted exception provision for changing minimum inventory date under certain terms and conditions, and inserted prohibition against reusing serum in computation of required reserve supply for different manufacturers.
+1958—Cl. (b). Pub. L. 85–574 substituted “in inventory in his own possession on April 1” for “available on May 1”, inserted exception provision for changing minimuminventory date under certain terms and conditions, and inserted prohibition against reusing serum in computation of required reserve supply for different manufacturers.
 

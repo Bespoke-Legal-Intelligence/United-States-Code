@@ -42,7 +42,7 @@ Missouri is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Southern Division shall be held at Springfield.
 
-(June 25, 1948, ch. 646, 62 Stat. 884; May 31, 1962, Pub. L. 87–461, 76 Stat. 85; Oct. 15, 1980, Pub. L. 96–462, §4(a), 94 Stat. 2053.)
+(June 25, 1948, ch. 646, 62 Stat. 884; Pub. L. 87–461, May 31, 1962, 76 Stat. 85; Pub. L. 96–462, §4(a), Oct. 15, 1980, 94 Stat. 2053.)
 
 #### Historical and Revision Notes
 
@@ -58,11 +58,11 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1980—Subsec. (a)(1). Pub. L. 96–462, §4(a)(1), struck out references to Audrain and Montgomery counties in the list of counties comprising the Eastern Division of the Eastern District.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–462, §4(a)(1), struck out references to Audrain and Montgomery counties in the list of counties comprising the Eastern Division of the Eastern District.
 
 Subsec. (a)(2). Pub. L. 96–462, §4(a)(2), added Audrain and Montgomery counties to the Northern Division of the Eastern District.
 
-1962—Subsec. (b). Pub. L. 87–461 transferred the counties of Caldwell, Grundy, Livingston, Mercer, Putnam, and Sullivan from the Western Division to the Saint Joseph Division, and omitted Chillicothe as a place for holding court.
+<b>1962</b>—Subsec. (b). Pub. L. 87–461 transferred the counties of Caldwell, Grundy, Livingston, Mercer, Putnam, and Sullivan from the Western Division to the Saint Joseph Division, and omitted Chillicothe as a place for holding court.
 
 #### Effective Date of 1980 Amendment; Savings Provision
 

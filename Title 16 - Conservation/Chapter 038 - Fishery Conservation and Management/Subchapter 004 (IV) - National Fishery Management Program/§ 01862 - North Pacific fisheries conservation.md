@@ -44,7 +44,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 (1) Within 60 days after receiving a plan or plan amendment from the North Pacific Council under this section, the Secretary shall review such plan or plan amendment and either (A) remand such plan or plan amendment to the Council with comments if it does not meet the requirements of this section, or (B) publish in the Federal Register proposed regulations for implementing such plan or plan amendment.
 
-(2) During the 60-day public comment period, the Secretary shall conduct a public hearing ineach State represented on the Council for the purpose of receiving public comments on the proposed regulations.
+(2) During the 60-day public comment period, the Secretary shall conduct a public hearing in each State represented on the Council for the purpose of receiving public comments on the proposed regulations.
 
 (3) Within 45 days of the close of the public comment period, the Secretary, in consultation with the Council, shall analyze the public comment received and publish final regulations for implementing such plan.
 

@@ -16,7 +16,7 @@ For purposes of this subchapter—
 
 &emsp;(7) the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States.
 
-(July 26, 1947, ch. 343, title VIII, §804, as added Oct. 14, 1994, Pub. L. 103–359, title VIII, §802(a), 108 Stat. 3438.)
+(July 26, 1947, ch. 343, title VIII, §804, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994, 108 Stat. 3438.)
 
 #### References in Text
 

@@ -16,9 +16,11 @@ For purposes of this chapter, the term “qualified alien” means an alien who,
 
 &emsp;(4) an alien who is paroled into the United States under section 212(d)(5) of such Act \[8 U.S.C. 1182(d)(5)\] for a period of at least 1 year,
 
-&emsp;(5) an alien whose deportation is being withheld under section 243(h) <sup>1</sup> of such Act \[8 U.S.C. 1253\], or
+&emsp;(5) an alien whose deportation is being withheld under section 243(h) of such Act \[8 U.S.C. 1253\] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act \[8 U.S.C. 1231(b)(3)\] (as amended by section 305(a) of division C of Public Law 104–208),
 
-&emsp;(6) an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act \[8 U.S.C. 1153(a)(7)\] as in effect prior to April 1, 1980.
+&emsp;(6) an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act \[8 U.S.C. 1153(a)(7)\] as in effect prior to April 1, 1980; <sup>1</sup> or
+
+&emsp;(7) an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980).
 
 #### (c) Treatment of certain battered aliens as qualified aliens
 
@@ -26,7 +28,7 @@ For purposes of this chapter, the term “qualified alien” includes—
 
 &emsp;(1) an alien who—
 
-&emsp;&emsp;(A) has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented to, or acquiesced in, such battery or cruelty, but only if (in the opinion of the Attorney General, which opinion is not subject to review by any court) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
+&emsp;&emsp;(A) has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented to, or acquiesced in, such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
 
 &emsp;&emsp;(B) has been approved or has a petition pending which sets forth a prima facie case for—
 
@@ -34,19 +36,29 @@ For purposes of this chapter, the term “qualified alien” includes—
 
 &emsp;&emsp;&emsp;(ii) classification pursuant to clause (ii) or (iii) of section 204(a)(1)(B) of the Act \[8 U.S.C. 1154(a)(1)(B)(ii), (iii)\],
 
-&emsp;&emsp;&emsp;(iii) cancellation of removal under section 240A of such Act \[8 U.S.C. 1229b\], or
+&emsp;&emsp;&emsp;(iii) cancellation of removal under section 240A of such Act \[8 U.S.C. 1229b\] (as in effect prior to April 1, 1997),
 
-&emsp;&emsp;&emsp;(iv) status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act \[8 U.S.C. 1154(a)(1)(A)(i)\], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act \[8 U.S.C. 1154(a)(1)(B)(i)\]; or
+&emsp;&emsp;&emsp;(iv) status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act \[8 U.S.C. 1154(a)(1)(A)(i)\], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act \[8 U.S.C. 1154(a)(1)(B)(i)\]; <sup>2</sup>
+
+&emsp;&emsp;&emsp;(v) cancellation of removal pursuant to section 240A(b)(2) of such Act \[8 U.S.C. 1229b(b)(2)\];
 
 &emsp;(2) an alien—
 
-&emsp;&emsp;(A) whose child has been battered or subjected to extreme cruelty in the United States by a spouse or a parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented or acquiesced to such battery or cruelty, and the alien did not actively participate in such battery or cruelty, but only if (in the opinion of the Attorney General, which opinion is not subject to review by any court) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
+&emsp;&emsp;(A) whose child has been battered or subjected to extreme cruelty in the United States by a spouse or a parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented or acquiesced to such battery or cruelty, and the alien did not actively participate in such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
 
-&emsp;&emsp;(B) who meets the requirement of clause (ii) <sup>2</sup> of subparagraph (A).
+&emsp;&emsp;(B) who meets the requirement of subparagraph (B) of paragraph (1); or
 
-> This subsection shall not apply to an alien during any period in which the individual responsible for such battery or cruelty resides in thesame household or family eligibility unit as the individual subjected to such battery or cruelty.
+&emsp;(3) an alien child who—
 
-(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670.)
+&emsp;&emsp;(A) resides in the same household as a parent who has been battered or subjected to extreme cruelty in the United States by that parent's spouse or by a member of the spouse's family residing in the same household as the parent and the spouse consented or acquiesced to such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
+
+&emsp;&emsp;(B) who meets the requirement of subparagraph (B) of paragraph (1).
+
+> This subsection shall not apply to an alien during any period in which the individual responsible for such battery or cruelty resides in the same household or family eligibility unit as the individual subjected to such battery or cruelty.
+
+After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General's sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms “battery” and “extreme cruelty”, and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual's need for benefits under a specific Federal, State, or local program.
+
+(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643.)
 
 #### References in Text
 
@@ -54,15 +66,41 @@ This chapter, referred to in text, was in the original “this title” meaning 
 
 The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). Provisions similar to those contained in former subsec. (h) of section 1253 are now contained in section 1231(b)(3) of this title.
+Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-Section 203(a)(7) of such Act as in effect prior to April 1, 1980, referred to in subsec. (b)(6), means section 203(a)(7) of act June 27, 1952, which was classified to section 1153(a)(7) of this title. Section 1153(a)(7) of this title was repealed and section 1153(a)(8) was redesignated section 1153(a)(7) by Pub. L. 96–212, title II, §203(c)(3), (6), Mar. 17, 1980, 94 Stat. 107, effective Apr. 1, 1980.
+Section 203(a)(7) of such Act as in effect prior to April 1, 1980, referred to in subsec. (b)(6), means section 203(a)(7) of act June 27, 1952, which was classified to section 1153(a)(7) of this title. Section 1153(a)(7) of this title was repealed and section 1153(a)(8) was redesignated section 1153(a)(7) by Pub. L. 96–212, title II,§203(c)(3), (6), Mar. 17, 1980, 94 Stat. 107, effective Apr. 1, 1980.
+
+Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(7), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
 #### Amendments
+
+1997—Subsec. (b)(5). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+
+Subsec. (b)(7). Pub. L. 105–33, §5302(c)(3), added par. (7).
+
+Subsec. (c). Pub. L. 105–33, §5571(b), inserted at end “After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General's sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms ‘battery’ and ‘extreme cruelty’, and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual's need for benefits under a specific Federal, State, or local program.”
+
+Subsec. (c)(1)(A). Pub. L. 105–33, §5571(a), substituted “agency providing such benefits)” for “Attorney General, which opinion is not subject to review by any court)”.
+
+Subsec. (c)(1)(B)(iii). Pub. L. 105–33, §5581(b)(7)(A), substituted “(as in effect prior to April 1, 1997),” for “, or”.
+
+Subsec. (c)(1)(B)(v). Pub. L. 105–33, §5581(b)(7)(B), added cl. (v).
+
+Subsec. (c)(2)(A). Pub. L. 105–33, §5571(a), substituted “agency providing such benefits)” for “Attorney General, which opinion is not subject to review by any court)”.
+
+Subsec. (c)(2)(B). Pub. L. 105–33, §5581(b)(6), substituted “subparagraph (B) of paragraph (1)” for “clause (ii) of subparagraph (A)”.
+
+Subsec. (c)(3). Pub. L. 105–33, §5571(c), added par. (3).
 
 1996—Subsec. (c). Pub. L. 104–208, §501, added subsec. (c).
 
 Subsec. (c)(1)(B)(iii). Pub. L. 104–208, §308(g)(8)(E), substituted “cancellation of removal under section 240A of such Act” for “suspension of deportation and adjustment of status pursuant to section 244(a)(3) of such Act”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by section 5302(c)(3) of Pub. L. 105–33 effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
+
+Amendment by sections 5562, 5571(a)–(c), 5581(b)(6), (7) of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -72,9 +110,9 @@ Amendment by section 501 of Pub. L. 104–208 effective Sept. 30, 1996, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1611, 1612, 1613, 1615, 1622 of this title.
+This section is referred to in sections 1367, 1611, 1612, 1613, 1615, 1622 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Subpar. (A) does not contain a cl. (ii).</i>
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be “, or”.</i>
 

@@ -6,23 +6,29 @@
 
 &emsp;(1) For the Army, 495,000.
 
-&emsp;(2) For the Navy, 395,000.
+&emsp;(2) For the Navy, 390,802.
 
 &emsp;(3) For the Marine Corps, 174,000.
 
-&emsp;(4) For the Air Force, 381,000.
+&emsp;(4) For the Air Force, 371,577.
 
 (c) The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
 (d) No funds appropriated to the Department of Defense may be used to implement a reduction of the active duty end strength for any of the armed forces (other than the Coast Guard) for any fiscal year below the level specified in subsection (b) unless the reduction in end strength for that armed force for that fiscal year is specifically authorized by law.
 
-(e) For a fiscal year for which the active duty end strength authorized by law pursuant to section 115(a)(1)(A) of this title for any of the armed forces is identical to the number applicable to that armed force under subsection (b), the Secretary of Defense may reduce that number by not more than 1 percent.
+(e) For a fiscal year for which the active duty end strength authorized by law pursuant to section 115(a)(1)(A) of this title for any of the armed forces is identical to the number applicable to that armed force under subsection (b), the Secretary of Defense may reduce that number by not more than 1 percent or, in the case of the Army, by not more than 1.5 percent.
 
 (f) The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under section 115(a)(1) of this title.
 
-(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503.)
+(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719.)
 
 #### Amendments
+
+1997—Subsec. (b)(2). Pub. L. 105–85, §402(a)(1), substituted “390,802” for “395,000”.
+
+Subsec. (b)(4). Pub. L. 105–85, §402(a)(2), substituted “371,577” for “381,000”.
+
+Subsec. (e). Pub. L. 105–85, §402(b), inserted “or, in the case of the Army, by not more than 1.5 percent” before period at end.
 
 1996—Subsec. (c). Pub. L. 104–201, §402(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “No funds appropriated to the Department of Defense may be used to implement a reduction of the active duty end strength for any of the armed forces for any fiscal year below the level specified in subsection (b) unless the Secretary of Defense submits to Congress notice of the proposed lower end strength levels and a justification for those levels. No action may then be taken to implement such a reduction for that fiscal year until the end of the six-month period beginning on the date of the receipt of such notice by Congress.”
 

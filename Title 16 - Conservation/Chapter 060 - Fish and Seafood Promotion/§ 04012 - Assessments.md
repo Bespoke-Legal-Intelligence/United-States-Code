@@ -30,7 +30,7 @@ All funds collected or received by a council under this section shall be deposit
 
 #### (f) Information
 
-(1) Sector participants shall make available to the Secretary such information and data as isnecessary for the effectuation, administration or enforcement of this chapter or any order or regulation issued pursuant to this chapter. Except as provided in paragraphs (2) and (3) of this subsection, any information obtained in carrying out this subsection shall be kept confidential by all officers and employees of the Department of Commerce, independent accountants and other persons who have access to such information.
+(1) Sector participants shall make available to the Secretary such information and data as is necessary for the effectuation, administration or enforcement of this chapter or any order or regulation issued pursuant to this chapter. Except as provided in paragraphs (2) and (3) of this subsection, any information obtained in carrying out this subsection shall be kept confidential by all officers and employees of the Department of Commerce, independent accountants and other persons who have access to such information.
 
 (2) If the Secretary or an employee of the United States Government is a party to a suit or administrative action involving an assessment, order, or regulation issued under this chapter, the Secretary may disclose information obtained under paragraph (1) of this subsection to the extent allowed by the judicial or administrative officer presiding over such suit or action.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) the effective merchandising of agricultural commodities and food products thereof and the financing of its operations;
 
-&emsp;(2) the construction or acquisition by purchase or lease, or refinancing the cost of such construction or acquisition, of physical facilities.
+&emsp;(2) the construction or acquisition by purchase or lease, or refinancing the cost of suchconstruction or acquisition, of physical facilities.
 
 (b) No loan shall be made to any cooperative association unless, in the judgment of the administration, the loan is in furtherance of the policy declared in section 1141 of this title, and the cooperative association applying for the loan has an organization and management, and business policies, of such character as to insure the reasonable safety of the loan and the furtherance of such policy.
 

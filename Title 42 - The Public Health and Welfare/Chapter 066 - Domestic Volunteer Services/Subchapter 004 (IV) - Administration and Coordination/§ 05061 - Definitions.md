@@ -28,7 +28,7 @@ For the purposes of this chapter—
 
 &emsp;(13) the term “national senior volunteer” means a volunteer in the National Senior Volunteer Corps;
 
-&emsp;(14) the term “National Senior Volunteer Corps” means the programs established underparts A, B, C, and E of subchapter II of this chapter;
+&emsp;(14) the term “National Senior Volunteer Corps” means the programs established under parts A, B, C, and E of subchapter II of this chapter;
 
 &emsp;(15) the term “Retired and Senior Volunteer Program” means the program established under part A of subchapter II of this chapter;
 

@@ -176,7 +176,7 @@ For the purpose of this chapter—
 
 #### References in Text
 
-The Social Security Act, referred to in par. (11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IIof the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Chapter 21 of the Internal Revenue Code of 1986, referred to in par. (11), is classified to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code.
 
@@ -258,7 +258,7 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, as added by section 101 of this Act, shall take effect on the date of the enactment of this Act \[June 6, 1986\].
 
-“(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
+“(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26,and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
 
 “(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
 
@@ -324,7 +324,7 @@ Section 702(c) of Pub. L. 99–335 provided that:
 
 “(1) For purposes of the first adjustment under subsection (b) of section 8462 of title 5, United States Code (as added by section 101 of this Act), the base quarter ending on September 30, 1986, shall be considered to have been the base quarter for a year in which an adjustment under such subsection was made.
 
-“(2) As used in paragraph (1), the term ‘base quarter’ has the meaning provided by section 8462(a)(1) of title5, United States Code (as added by section 101 of this Act).”
+“(2) As used in paragraph (1), the term ‘base quarter’ has the meaning provided by section 8462(a)(1) of title 5, United States Code (as added by section 101 of this Act).”
 
 #### Cross References
 

@@ -8,7 +8,7 @@ To carry out the provisions of this subchapter, there are authorized to be appro
 
 The Administrator may use not more than 5 percent of the amount appropriated for a fiscal year under subsection (a) of this section to conduct an evaluation of the effectiveness of the programs and activities established and operated under this subchapter.
 
-(Pub. L. 93–415, title IV, §408, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2129; renumbered §407 and amended Pub. L. 100–690, title VII, §§7289, 7290(a), Nov. 18, 1988, 102 Stat. 4461; Pub. L. 101–204, title X, §1001(e)(3), Dec. 7, 1989, 103 Stat. 1827; Pub. L. 102–586, §4, Nov. 4, 1992, 106 Stat. 5027; renumbered §408, Pub. L.103–322, title XVII, §170303(1), Sept. 13, 1994, 108 Stat. 2043; Pub. L. 104–235, title II, §231(a), Oct. 3, 1996, 110 Stat. 3092.)
+(Pub. L. 93–415, title IV, §408, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2129; renumbered §407 and amended Pub. L. 100–690, title VII, §§7289, 7290(a), Nov. 18, 1988, 102 Stat. 4461; Pub. L. 101–204, title X, §1001(e)(3), Dec. 7, 1989, 103 Stat. 1827; Pub. L. 102–586, §4, Nov. 4, 1992, 106 Stat. 5027; renumbered §408, Pub. L. 103–322, title XVII, §170303(1), Sept. 13, 1994, 108 Stat. 2043; Pub. L. 104–235, title II, §231(a), Oct. 3, 1996, 110 Stat. 3092.)
 
 #### Prior Provisions
 

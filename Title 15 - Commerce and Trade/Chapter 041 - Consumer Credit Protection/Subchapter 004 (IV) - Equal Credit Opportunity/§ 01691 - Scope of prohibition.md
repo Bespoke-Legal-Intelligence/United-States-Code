@@ -1,0 +1,88 @@
+### §1691. Scope of prohibition
+
+#### (a) Activities constituting discrimination
+
+It shall be unlawful for any creditor to discriminate against any applicant, with respect to any aspect of a credit transaction—
+
+&emsp;(1) on the basis of race, color, religion, national origin, sex or marital status, or age (provided the applicant has the capacity to contract);
+
+&emsp;(2) because all or part of the applicant's income derives from any public assistance program; or
+
+&emsp;(3) because the applicant has in good faith exercised any right under this chapter.
+
+#### (b) Activities not constituting discrimination
+
+It shall not constitute discrimination for purposes of this subchapter for a creditor—
+
+&emsp;(1) to make an inquiry of marital status if such inquiry is for the purpose of ascertaining the creditor's rights and remedies applicable to the particular extension of credit and not to discriminate in a determination of credit-worthiness; <sup>1</sup>
+
+&emsp;(2) to make an inquiry of the applicant's age or of whether the applicant's income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of credit-worthiness <sup>1</sup> as provided in regulations of the Board;
+
+&emsp;(3) to use any empirically derived credit system which considers age if such system is demonstrably and statistically sound in accordance with regulations of the Board, except that in the operation of such system the age of an elderly applicant may not be assigned a negative factor or value; or
+
+&emsp;(4) to make an inquiry or to consider the age of an elderly applicant when the age of such applicant is to be used by the creditor in the extension of credit in favor of such applicant.
+
+#### (c) Additional activities not constituting discrimination
+
+It is not a violation of this section for a creditor to refuse to extend credit offered pursuant to—
+
+&emsp;(1) any credit assistance program expressly authorized by law for an economically disadvantaged class of persons;
+
+&emsp;(2) any credit assistance program administered by a nonprofit organization for its members or an economically disadvantaged class of persons; or
+
+&emsp;(3) any special purpose credit program offered by a profit-making organization to meet special social needs which meets standards prescribed in regulations by the Board;
+
+> if such refusal is required by or made pursuant to such program.
+
+#### (d) Reason for adverse action; procedure applicable; “adverse action” defined
+
+(1) Within thirty days (or such longer reasonable time as specified in regulations of the Board for any class of credit transaction) after receipt of a completed application for credit, acreditor shall notify the applicant of its action on the application.
+
+(2) Each applicant against whom adverse action is taken shall be entitled to a statement of reasons for such action from the creditor. A creditor satisfies this obligation by—
+
+&emsp;(A) providing statements of reasons in writing as a matter of course to applicants against whom adverse action is taken; or
+
+&emsp;(B) giving written notification of adverse action which discloses (i) the applicant's right to a statement of reasons within thirty days after receipt by the creditor of a request made within sixty days after such notification, and (ii) the identity of the person or office from which such statement may be obtained. Such statement may be given orally if the written notification advises the applicant of his right to have the statement of reasons confirmed in writing on written request.
+
+(3) A statement of reasons meets the requirements of this section only if it contains the specific reasons for the adverse action taken.
+
+(4) Where a creditor has been requested by a third party to make a specific extension of credit directly or indirectly to an applicant, the notification and statement of reasons required by this subsection may be made directly by such creditor, or indirectly through the third party, provided in either case that the identity of the creditor is disclosed.
+
+(5) The requirements of paragraph (2), (3), or (4) may be satisfied by verbal statements or notifications in the case of any creditor who did not act on more than one hundred and fifty applications during the calendar year preceding the calendar year in which the adverse action is taken, as determined under regulations of the Board.
+
+(6) For purposes of this subsection, the term “adverse action” means a denial or revocation of credit, a change in the terms of an existing credit arrangement, or a refusal to grant credit in substantially the amount or on substantially the terms requested. Such term does not include a refusal to extend additional credit under an existing credit arrangement where the applicant is delinquent or otherwise in default, or where such additional credit would exceed a previously established credit limit.
+
+#### (e) Appraisals; copies of reports to applicants; costs
+
+Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant's application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.
+
+(Pub. L. 90–321, title VII, §701, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94–239, §2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, §223(d), Dec. 19, 1991, 105 Stat. 2306.)
+
+#### Amendments
+
+1991—Subsec. (e). Pub. L. 102–242 added subsec. (e).
+
+1976—Subsec. (a). Pub. L. 94–239 designated existing provisions as cl. (1), expanded prohibition against discrimination to include race, color, religion, national origin and age, and added cls. (2) and (3).
+
+Subsec. (b). Pub. L. 94–239 designated existing provisions as cl. (1) and added cls. (2) to (4).
+
+Subsecs. (c), (d). Pub. L. 94–239 added subsecs. (c) and (d).
+
+#### Effective Date
+
+Section 708, formerly §707, of title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1525, renumbered and amended by Pub. L. 94–239, §§7, 8, Mar. 23, 1976, 90 Stat. 255, provided that: “This title \[enacting this subchapter and provisions set out as notes under section 1691 of this title\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\]. The amendments made by the Equal Credit Opportunity Act Amendments of 1976 \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, and 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section\] shall take effect on the date of enactment thereof \[Mar. 23, 1976\] and shall apply to any violation occurring on or after such date, except that the amendments made to section 701 of the Equal Credit Opportunity Act \[this section\] shall take effect 12 months after the date of enactment \[Mar. 23, 1976\].”
+
+#### Short Title
+
+This subchapter known as the “Equal Credit Opportunity Act”, see Short Title note set out under section 1601 of this title.
+
+#### Congressional Findings and Statement of Purpose
+
+Section 502 of Pub. L. 93–495 provided that: “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act \[see Short Title note set out under section 1601 of this title\] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1681a, 1691d, 1691e of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be hyphenated.</i>
+

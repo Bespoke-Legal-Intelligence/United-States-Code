@@ -44,9 +44,11 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) any person who acts, directly or indirectly, in the interest of an employer to any of the employees of such employer; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any successor in interest of an employer; and
+&emsp;&emsp;&emsp;&emsp;(II) any successor in interest of an employer;
 
-&emsp;&emsp;&emsp;(iii) includes any “public agency”, as defined in section 203(x) of this title.
+&emsp;&emsp;&emsp;(iii) includes any “public agency”, as defined in section 203(x) of this title; and
+
+&emsp;&emsp;&emsp;(iv) includes the General Accounting Office and the Library of Congress.
 
 #### (B) Public agency
 
@@ -102,15 +104,13 @@ As used in this subchapter:
 
 (Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, §202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9.)
 
-#### Amendment of Paragraph (4)(A)
+#### Amendments
 
-<i>Pub. L. 104–1, title II, §202(c)(1)(A), (e)(2), Jan. 23, 1995, 109 Stat. 9, 10, provided that, effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, paragraph (4)(A) of this section is amended by striking “and” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “; and”, and by adding after clause (iii) the following:</i>
-
-(iv) includes the General Accounting Office and the Library of Congress.
+1995—Par. (4)(A)(iv). Pub. L. 104–1 added cl. (iv).
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2.
+Amendment by Pub. L. 104–1 effective one year after transmission to Congress of the study under section 1371 of Title 2, The Congress, see section 1312(e)(2) of Title 2. The study required under section 1371 of Title 2, dated Dec. 31, 1996, was transmitted to Congress by the Board of Directors of the Office of Compliance on Dec. 30, 1996.
 
 #### Effective Date
 

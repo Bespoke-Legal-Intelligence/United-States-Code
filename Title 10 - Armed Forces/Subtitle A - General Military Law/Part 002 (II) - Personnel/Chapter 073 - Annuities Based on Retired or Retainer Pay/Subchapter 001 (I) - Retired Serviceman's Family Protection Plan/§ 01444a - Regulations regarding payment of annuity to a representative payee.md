@@ -6,15 +6,13 @@
 
 &emsp;(2) a minor, mentally incompetent, or otherwise legally disabled person for whom a guardian or other fiduciary has not been appointed.
 
-(b) Those regulations may include the provisions set out in section 1455(c) <sup>1</sup> of this title.
+(b) Those regulations may include the provisions set out in section 1455(d)(2) of this title.
 
 (c) An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to subsection (a) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
 
-(Added Pub. L. 102–190, div. A, title VI, §654(b)(1), Dec. 5, 1991, 105 Stat. 1390.)
+(Added Pub. L. 102–190, div. A, title VI, §654(b)(1), Dec. 5, 1991, 105 Stat. 1390; amended Pub. L. 105–85, div. A, title X, §1073(a)(26), Nov. 18, 1997, 111 Stat. 1901.)
 
-#### References in Text
+#### Amendments
 
-Section 1455 of this title, referred to in subsec. (b), was amended generally by Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2577, and, as so amended, provisions similar to those formerly appearing in subsec. (c) of that section are contained in subsec. (d)(2).
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+1997—Subsec. (b). Pub. L. 105–85 substituted “section 1455(d)(2)” for “section 1455(c)”.
 

@@ -14,7 +14,7 @@ It is the purpose of this section to provide for the demonstration of solar ener
 
 #### (b) Implementation of renewable energy projects by Secretary
 
-(1) The Secretary of State shall implement projects for the application of solar energy or other forms of renewable energy in buildings acquired under subsection (a) section 292 of this title.
+(1) The Secretary of State shall implement projects for the application of solar energy orother forms of renewable energy in buildings acquired under subsection (a) section 292 of this title.
 
 (2) The Secretary of State shall select projects under paragraph (1) in consultation with the Secretary of Energy. Such projects shall apply available solar energy and other renewable energy technologies, including those for—
 

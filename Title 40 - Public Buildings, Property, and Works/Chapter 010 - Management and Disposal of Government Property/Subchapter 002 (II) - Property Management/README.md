@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 513, 752, 758, 1502 of this title; title 10 sections 2535, 9781; title 29 sections 1511, 1551; title 42 section 12651g; title 49 section 40110.
+This subchapter is referred to in sections 513, 752, 758, 1502 of this title; title 10 sections 2535, 2696, 9781; title 29 sections 1511, 1551; title 42 section 12651g; title 49 section 40110.
 
 
 ---
@@ -39,6 +39,7 @@ This subchapter is referred to in sections 513, 752, 758, 1502 of this title; ti
 - [&sect; 00490f - Lease space rent rates and payments; appropriations](%C2%A7%2000490f%20-%20Lease%20space%20rent%20rates%20and%20payments%3B%20appropriations.md)
 - [&sect; 00490g - Receipt of revenues related to energy savings or materials recycling efforts](%C2%A7%2000490g%20-%20Receipt%20of%20revenues%20related%20to%20energy%20savings%20or%20materials%20recycling%20efforts.md)
 - [&sect; 00490h - Flexiplace work telecommuting centers; revenues to defray costs](%C2%A7%2000490h%20-%20Flexiplace%20work%20telecommuting%20centers%3B%20revenues%20to%20defray%20costs.md)
+- [&sect; 00490i - Buildings considered to be federally owned](%C2%A7%2000490i%20-%20Buildings%20considered%20to%20be%20federally%20owned.md)
 - [&sect; 00491 - Motor vehicle pools and transportation systems](%C2%A7%2000491%20-%20Motor%20vehicle%20pools%20and%20transportation%20systems.md)
 - [&sect; 00492 - Reports to Congress](%C2%A7%2000492%20-%20Reports%20to%20Congress.md)
 - [&sect; 00493 - Repealed. Pub. L. 100&#8211;612, &sect;8, Nov. 5, 1988, 102 Stat. 3182](%C2%A7%2000493%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93612%2C%20%C2%A78%2C%20Nov.%205%2C%201988%2C%20102%20Stat.%203182.md)

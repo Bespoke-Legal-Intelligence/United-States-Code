@@ -2,7 +2,7 @@
 
 (a)
 
-Training Program.—The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees inthe Military Department Civilian Intelligence Personnel Management System that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Act of 1959 (50 U.S.C. 402 note) for civilian employees of the National Security Agency.
+Training Program.—The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees in the Military Department Civilian Intelligence Personnel Management System that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Act of 1959 (50 U.S.C. 402 note) for civilian employees of the National Security Agency.
 
 (b)
 

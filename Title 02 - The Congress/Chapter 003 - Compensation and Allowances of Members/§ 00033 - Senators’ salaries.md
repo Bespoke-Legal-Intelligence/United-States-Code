@@ -2,7 +2,7 @@
 
 Senators elected, whose term of office begins on the 3d day of January, and whose credentials in due form of law shall have been presented in the Senate, may receive their compensation from the beginning of their term.
 
-(June 19, 1934, ch. 648, title I, §1, 48 Stat. 1022; Oct. 1, 1981, Pub. L. 97–51, §112(b)(2), 95 Stat. 963.)
+(June 19, 1934, ch. 648, title I, §1, 48 Stat. 1022; Pub. L. 97–51, §112(b)(2), Oct. 1, 1981, 95 Stat. 963.)
 
 #### Prior Provisions
 

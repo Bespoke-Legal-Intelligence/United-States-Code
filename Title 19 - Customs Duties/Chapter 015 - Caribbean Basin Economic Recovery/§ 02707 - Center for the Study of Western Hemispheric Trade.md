@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Commissioner of Customs, after consultation with appropriate officials in the State of Texas, is authorized and directed to make grants to an institution (or a consortium of suchinstitutions) to assist such institution in planning, establishing, and operating a Center for the Study of Western Hemispheric Trade (hereafter in this section referred to as the “Center”). The Commissioner of Customs shall make the first grant not later than December 1, 1994, and the Center shall be established not later than February 1, 1995.
+The Commissioner of Customs, after consultation with appropriate officials in the State of Texas, is authorized and directed to make grants to an institution (or a consortium of such institutions) to assist such institution in planning, establishing, and operating a Center for the Study of Western Hemispheric Trade (hereafter in this section referred to as the “Center”). The Commissioner of Customs shall make the first grant not later than December 1, 1994, and the Center shall be established not later than February 1, 1995.
 
 #### (b) Scope of Center
 
@@ -32,7 +32,7 @@ The Center shall conduct the following activities:
 
 &emsp;(3) Publish materials, disseminate information, and conduct seminars and conferences to support and educate representatives from countries in the Western Hemisphere who seek to do business with or invest in other Western Hemisphere countries.
 
-&emsp;(4) Provide grants, fellowships, endowed chairs, and financial assistance to outstanding scholars and authorities from Western Hemisphere countries.
+&emsp;(4) Provide grants, fellowships, endowed chairs, and financial assistance to outstandingscholars and authorities from Western Hemisphere countries.
 
 &emsp;(5) Provide grants, fellowships, and other financial assistance to qualified graduate students, from Western Hemisphere countries, to study at the Center.
 
@@ -70,7 +70,7 @@ The Commissioner of Customs shall, no later than July 1, 1994, and annually ther
 
 > Each subsequent report shall include information with respect to the operations of the Center, the collaboration of the Center with, and dissemination of information to, Government policymakers and the business community with respect to the study of Western Hemispheric trade by the Center, and the plan and efforts of the Center to continue operations after grants under this section have expired.
 
-(Pub. L. 98–67, title II, §219, as added Pub. L. 103–182, title V, §515(a), Dec. 8, 1993, 107 Stat.2158; amended Pub. L. 104–295, §21(d), Oct. 11, 1996, 110 Stat. 3530.)
+(Pub. L. 98–67, title II, §219, as added Pub. L. 103–182, title V, §515(a), Dec. 8, 1993, 107 Stat. 2158; amended Pub. L. 104–295, §21(d), Oct. 11, 1996, 110 Stat. 3530.)
 
 #### Amendments
 

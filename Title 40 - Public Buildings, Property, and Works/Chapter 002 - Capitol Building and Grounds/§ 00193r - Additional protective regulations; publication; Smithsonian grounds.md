@@ -4,7 +4,7 @@
 
 (b) All regulations promulgated under the authority of this section shall be printed in the Federal Register and shall not become effective until the expiration of ten days after the date of such publication.
 
-(Oct. 24, 1951, ch. 559, §5, 65 Stat. 634; Aug. 1, 1964, Pub. L. 88–391, §1, 78 Stat. 365; July 21, 1994, Pub. L. 103–279, §9(a), 108 Stat. 1416.)
+(Oct. 24, 1951, ch. 559, §5, 65 Stat. 634; Pub. L. 88–391, §1, Aug. 1, 1964, 78 Stat. 365; Pub. L. 103–279, §9(a), July 21, 1994, 108 Stat. 1416.)
 
 #### Amendments
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) a subcontractor performing any cost-reimbursement, incentive, time-and-materials, labor-hour, or price-redeterminable subcontract or any combination of such subcontracts under a contract referred to in subparagraph (A).
 
-(2) The head of an executive agency, acting through an authorized representative, is authorized, for the purpose of evaluating the accuracy, completeness, and currency of certified cost orpricing data required to be submitted pursuant to section 254b of this title with respect to a contract or subcontract, to examine all records of the contractor or subcontractor related to—
+(2) The head of an executive agency, acting through an authorized representative, is authorized, for the purpose of evaluating the accuracy, completeness, and currency of certified cost or pricing data required to be submitted pursuant to section 254b of this title with respect to a contract or subcontract, to examine all records of the contractor or subcontractor related to—
 
 &emsp;(A) the proposal for the contract or subcontract;
 
@@ -74,7 +74,7 @@ An executive agency shall not require a contractor or subcontractor to provide o
 
 In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(June 30, 1949, ch. 288, title III, §304C, as added and amended Oct. 13, 1994, Pub. L. 103–355, titleII, §2251(a), title IV, §4103(d), 108 Stat. 3318, 3341; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(e)(5), 110 Stat. 675; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §808(b), 110 Stat. 2607.)
+(June 30, 1949, ch. 288, title III, §304C, as added and amended Pub. L. 103–355, title II, §2251(a), title IV, §4103(d), Oct. 13, 1994, 108 Stat. 3318, 3341; Pub. L. 104–106, div. D, title XLIII, §4321(e)(5), Feb. 10, 1996, 110 Stat. 675; Pub. L. 104–201, div. A, title VIII, §808(b), Sept. 23, 1996, 110 Stat. 2607.)
 
 #### References in Text
 

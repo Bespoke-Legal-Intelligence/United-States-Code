@@ -44,7 +44,7 @@
 
 &emsp;(2) such further sums as may be necessary in each of the fiscal years ending September 30, 1984, and September 30, 1985, for adjustments required by law in salaries, pay, retirement, and employee benefits incurred in the conduct of activities for which funds are authorized by paragraph (1) of this subsection.
 
-> The funds authorized under this subsection shall be in addition to funds authorized in any otherlaw for research and development at the Fire Research Center of the National Institute of Standards and Technology.
+> The funds authorized under this subsection shall be in addition to funds authorized in any other law for research and development at the Fire Research Center of the National Institute of Standards and Technology.
 
 (f) Except as otherwise specifically provided with respect to the payment of claims under section 2210 of this title, to carry out the purposes of this chapter, there are authorized to be appropriated $22,037,000 for the fiscal year ending September 30, 1986 and $18,300,000 for the fiscal year ending September 30, 1987.
 
@@ -58,9 +58,13 @@
 
 &emsp;(D) $25,550,000 for the fiscal year ending September 30, 1992;
 
-&emsp;(E) $26,521,000 for the fiscal year ending September 30, 1993; and
+&emsp;(E) $26,521,000 for the fiscal year ending September 30, 1993;
 
-&emsp;(F) $27,529,000 for the fiscal year ending September 30, 1994.
+&emsp;(F) $27,529,000 for the fiscal year ending September 30, 1994;
+
+&emsp;(G) $29,664,000 for the fiscal year ending September 30, 1998; and
+
+&emsp;(H) $30,554,000 for the fiscal year ending September 30, 1999.
 
 (2) Of the amounts referred to in paragraph (1), not more than $4,150,000 is authorized to be appropriated for each fiscal year for National Emergency Training Center site administration.
 
@@ -74,7 +78,7 @@
 
 &emsp;(4) $250,000 for each of the fiscal years 1995 and 1996 for salaries and expenses for carrying out section 2221 of this title.
 
-(Pub. L. 93–498, §17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, §1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, §1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, §201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, §201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, §201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, §1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, §1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, §101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, §7, May 19, 1994, 108 Stat. 682.)
+(Pub. L. 93–498, §17, Oct. 29, 1974, 88 Stat. 1545; Pub. L. 94–411, §1(a), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §1(a), Oct. 5, 1978, 92 Stat. 932; Pub. L. 96–121, §1, Nov. 16, 1979, 93 Stat. 863; Pub. L. 96–472, title II, §201, Oct. 19, 1980, 94 Stat. 2260; Pub. L. 97–80, title II, §201, Nov. 20, 1981, 95 Stat. 1081; Pub. L. 98–241, title II, §201, Mar. 22, 1984, 98 Stat. 95; Pub. L. 99–97, Sept. 26, 1985, 99 Stat. 465; Pub. L. 99–359, §1, July 8, 1986, 100 Stat. 764; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–476, §1, Oct. 6, 1988, 102 Stat. 2304; Pub. L. 102–522, title I, §101, Oct. 26, 1992, 106 Stat. 3410; Pub. L. 103–254, §7, May 19, 1994, 108 Stat. 682; Pub. L. 105–108, §2, Nov. 20, 1997, 111 Stat. 2264.)
 
 #### References in Text
 
@@ -83,6 +87,8 @@ Reorganization Plan Numbered 3 of 1978, referred to in subsec. (b), is set out i
 The National Bureau of Standards Authorization Act for fiscal years 1981 and 1982, referred to in subsec. (d)(1)(A), is Pub. L. 96–461, Oct. 15, 1980, 94 Stat. 2049, which enacted section 278g of this title, amended sections 278d and 278h of this title, and enacted provisions set out as notes under section 278g of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1997—Subsec. (g)(1)(G), (H). Pub. L. 105–108 added subpars. (G) and (H).
 
 1994—Subsec. (h). Pub. L. 103–254 added subsec. (h).
 

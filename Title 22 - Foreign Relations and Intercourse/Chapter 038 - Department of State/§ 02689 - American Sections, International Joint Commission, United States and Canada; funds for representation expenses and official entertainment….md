@@ -2,7 +2,7 @@
 
 Each fiscal year (beginning with fiscal year 1977), the Secretary of State may use funds appropriated for the American Sections, International Joint Commission, United States and Canada, for representation expenses and official entertainment within the United States for such American Sections.
 
-(Aug. 1, 1956, ch. 841, title I, §19, as added July 12, 1976, Pub. L. 94–350, title I, §104, 90 Stat. 824; amended Oct. 7, 1978, Pub. L. 95–426, title I, §110(a), 92 Stat. 967; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282.)
+(Aug. 1, 1956, ch. 841, title I, §19, as added Pub. L. 94–350, title I, §104, July 12, 1976, 90 Stat. 824; amended Pub. L. 95–426, title I, §110(a), Oct. 7, 1978, 92 Stat. 967; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 
 #### Amendments
 

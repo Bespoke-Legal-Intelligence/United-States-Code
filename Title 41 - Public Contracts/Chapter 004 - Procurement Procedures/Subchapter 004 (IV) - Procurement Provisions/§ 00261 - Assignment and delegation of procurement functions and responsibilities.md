@@ -14,7 +14,7 @@ Subject to subsection (a) of this section, to facilitate the procurement of prop
 
 &emsp;(3) the heads of two or more executive agencies may establish joint or combined offices to exercise procurement functions and responsibilities.
 
-(June 30, 1949, ch. 288, title III, §311, as added Oct. 13, 1994, Pub. L. 103–355, title I, §1552, 108 Stat. 3299.)
+(June 30, 1949, ch. 288, title III, §311, as added Pub. L. 103–355, title I, §1552, Oct. 13, 1994, 108 Stat. 3299.)
 
 #### References in Text
 

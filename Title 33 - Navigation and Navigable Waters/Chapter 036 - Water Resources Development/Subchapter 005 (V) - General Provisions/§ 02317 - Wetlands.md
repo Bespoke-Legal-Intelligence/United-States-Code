@@ -58,7 +58,7 @@ For the project conducted under subsection (b) of this section, the non-Federal 
 
 #### (2) Goal
 
-&emsp;The goal of the program under this subsection shall be to establish a limited number of demonstration wetlands restoration, enhancement, and creation areas in districts of the Corps of Engineers for the purpose of evaluating the technical and scientific long-termfeasibility of such areas as a means of contributing to the attainment of the goals established by subsection (a) of this section. Federal and State land-owning agencies and private parties may contribute to such areas.
+&emsp;The goal of the program under this subsection shall be to establish a limited number of demonstration wetlands restoration, enhancement, and creation areas in districts of the Corps of Engineers for the purpose of evaluating the technical and scientific long-term feasibility of such areas as a means of contributing to the attainment of the goals established by subsection (a) of this section. Federal and State land-owning agencies and private parties may contribute to such areas.
 
 #### (3) Factors to consider
 

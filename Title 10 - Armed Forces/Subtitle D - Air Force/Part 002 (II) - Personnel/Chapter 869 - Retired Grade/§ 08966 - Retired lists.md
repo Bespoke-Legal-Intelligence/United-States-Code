@@ -44,7 +44,7 @@ June 29, 1948, ch. 708, §§201, 301(a), 62 Stat. 1084, 1087.
 
 In subsections (a), (b), and (d), the word “maintain” is substituted for the word “establish”, and in subsection (c) the word “maintain” is substituted for the word “established”, since the lists have been established and are published annually.
 
-In subsection (a), the words “Effective upon June 29, 1948” are omitted as executed. 10:1001 (last 12 words of 1st sentence, and last sentence) is omitted as no longerrequired, since, upon enactment of this title, laws referring to the limited or unlimited retired list will be expressly repealed.
+In subsection (a), the words “Effective upon June 29, 1948” are omitted as executed. 10:1001 (last 12 words of 1st sentence, and last sentence) is omitted as no longer required, since, upon enactment of this title, laws referring to the limited or unlimited retired list will be expressly repealed.
 
 In subsection (b), the word “shall” is substituted for the word “may”, since 10:1036 further requires that such a list be published annually in the Register. The requirement as to publication necessarily implies that the list must be maintained.
 

@@ -28,9 +28,9 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 (7) An individual who is an officer, chief warrant officer, or enlisted member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment of any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Commandant of the Coast Guard. The Commandant may receive the information and shall make the information available to the individual. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
-(8) An individual who is seeking employment by an air carrier as a pilot may request the chief driver licensing official of a State to provide information about the individual under paragraph (2) to the prospective employer of the individual or to the Secretary of Transportation. Information may not be obtained from the National Driver Register under this subsection if the information was entered in the Register more than 5 years before the request unless the information is about a revocation or suspension still in effect on the date of the request.
+(8) An individual who is seeking employment by an air carrier as a pilot may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the prospective employer of the individual or to the Secretary of Transportation. Information may not be obtained from the National Driver Register under this subsection if the information was entered in the Register more than 5 years before the request unless the information is about a revocation or suspension still in effect on the date of the request.
 
-(8) <sup>1</sup> A request under this subsection shall be made in the form and way the Secretary of Transportation prescribes by regulation.
+(9) A request under this subsection shall be made in the form and way the Secretary of Transportation prescribes by regulation.
 
 (c)
 
@@ -46,9 +46,11 @@ Relationship to Other Laws.—A request for, or receipt of, information from the
 
 Availability of Information Provided Under Prior Law.—Information provided by a State under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), and under this chapter, shall be available under this section during the transition from the register maintained under that Act to the Register maintained under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976; Pub. L. 104–264, title V, §502(b), Oct. 9, 1996, 110 Stat. 3262; Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976; Pub. L. 104–264, title V, §502(b), Oct. 9, 1996, 110 Stat. 3262; Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–102, §2(18), Nov. 20, 1997, 111 Stat. 2205.)
 
 Historical and Revision Notes
+
+Pub. L. 103–272
 
 <i>Revised</i>
 
@@ -70,11 +72,25 @@ In subsection (b)(1), the word “Administrator” is substituted for “Bureau 
 
 Subsection (d) is substituted for the last 2 sentences (added twice by mistake) in paragraphs (1) and (2) and for the last sentence in paragraphs (3), (4), and (7)(C) of section 206(b) of the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1744) for clarity and to avoid repeating the provision unnecessarily.
 
+#### Pub. L. 105–102, §2(18)(A)
+
+This amends 49:30305(b)(8), as redesignated by section 207(b) of the Coast Guard Authorization Act of 1996 (Public Law 104–324, 110 Stat. 3908), to correct an erroneous cross-reference.
+
+#### Pub. L. 105–102, §2(18)(B)
+
+This amends 49:30305(b) to redesignate paragraph (8), as redesignated by section 502(b)(1) of the Federal Aviation Reauthorization Act of 1996 (Public Law 104–264, 110 Stat. 3262), as paragraph (9), because section 207(b) of the Coast Guard Authorization Act of 1996 (Public Law 104–324, 110 Stat. 3908), redesignated paragraph (7) as paragraph (8) but did not redesignate paragraph (8) as paragraph (9).
+
 #### References in Text
 
 Act of July 14, 1960, referred to in subsec. (d), is set out as a note under section 30302 of this title.
 
 #### Amendments
+
+1997—Subsec. (b)(8). Pub. L. 105–102, §2(18)(B), redesignated par. (8), relating to request, as (9).
+
+Pub. L. 105–102, §2(18)(A), in par. (8), relating to individual seeking employment as pilot, substituted “subsection (a) of this section” for “paragraph (2)”.
+
+Subsec. (b)(9). Pub. L. 105–102, §2(18)(B), redesignated par. (8), relating to request, as (9).
 
 1996—Subsec. (b)(7). Pub. L. 104–324, §207(b), added par. (7). Former par. (7), relating to individual seeking employment as pilot, redesignated (8).
 
@@ -93,6 +109,4 @@ Section 502(d) of Pub. L. 104–264 provided that: “The amendments made by thi
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 20135, 30301, 30302, 30307, 44936 of this title; title 14 section 93.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(9)”.</i>
 

@@ -34,7 +34,7 @@
 
 The Secretary may store, transport, and sell helium only in accordance with this chapter.
 
-(Mar. 3, 1925, ch. 426, §3, as added Sept. 13, 1960, Pub. L. 86–777, §2, 74 Stat. 918; amended Oct. 9, 1996, Pub. L. 104–273, §3, 110 Stat. 3315.)
+(Mar. 3, 1925, ch. 426, §3, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 918; amended Pub. L. 104–273, §3, Oct. 9, 1996, 110 Stat. 3315.)
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@ In the management of lands in the area, the Secretary shall utilize and develop 
 
 The policy set forth in subsection (a) of this section implies—
 
-&emsp;(1) that there will be a comprehensive, balanced, and coordinated plan of land use, development, and management of the Area, and that such plan will be based on an inventory and evaluation of the available resources andrequirements for such resources, and on the topography and other features of the Area.
+&emsp;(1) that there will be a comprehensive, balanced, and coordinated plan of land use, development, and management of the Area, and that such plan will be based on an inventory and evaluation of the available resources and requirements for such resources, and on the topography and other features of the Area.
 
 &emsp;(2) that the plan will indicate the primary or dominant uses which will be permitted on various portions of the Area.
 

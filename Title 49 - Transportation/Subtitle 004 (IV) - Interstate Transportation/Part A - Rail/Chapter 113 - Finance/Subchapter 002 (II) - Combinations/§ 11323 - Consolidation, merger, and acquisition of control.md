@@ -2,7 +2,7 @@
 
 (a) The following transactions involving rail carriers providing transportation subject to the jurisdiction of the Board under this part may be carried out only with the approval and authorization of the Board:
 
-&emsp;(1) Consolidation or merger of the properties or franchises of at least 2 rail carriers into one corporation for the ownership, management,and operation of the previously separately owned properties.
+&emsp;(1) Consolidation or merger of the properties or franchises of at least 2 rail carriers into one corporation for the ownership, management, and operation of the previously separately owned properties.
 
 &emsp;(2) A purchase, lease, or contract to operate property of another rail carrier by any number of rail carriers.
 

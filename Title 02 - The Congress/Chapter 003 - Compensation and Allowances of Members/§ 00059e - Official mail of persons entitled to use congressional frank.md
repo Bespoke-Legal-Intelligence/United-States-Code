@@ -10,7 +10,7 @@ Except as otherwise provided in this section, funds appropriated by this Act or 
 
 &emsp;(B) with respect to the Senate, allocation of funds for official mail to be made to each such person with respect to each session of Congress (with no transfer to any other session, other than transfers from the first session of a Congress to the second session of that Congress, or to any other such person); and
 
-&emsp;(3) with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Commission on Congressional Mailing Standards or otherwise) regarding the use of the frank, the Chief Administrative Officer of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Oversight of the House of Representatives and the House Commission on Congressional Mailing Standards) of costscharged against the Official Mail Allowance for each person entitled to use the congressional frank.
+&emsp;(3) with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Commission on Congressional Mailing Standards or otherwise) regarding the use of the frank, the Chief Administrative Officer of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Oversight of the House of Representatives and the House Commission on Congressional Mailing Standards) of costs charged against the Official Mail Allowance for each person entitled to use the congressional frank.
 
 #### (b) Postmaster General functions
 
@@ -32,7 +32,7 @@ Expenses of official mail of the Senate and the House of Representatives may be 
 
 #### (d) Maintenance or use of unofficial office accounts or defrayal of official expenses from certain funds prohibited
 
-No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses from—
+No Senator or Member of the House of Representatives may maintain or use, directly orindirectly, an unofficial office account or defray official expenses from—
 
 &emsp;(1) funds received from a political committee or derived from a contribution or expenditure (as such terms are defined in section 431 of this title);
 
@@ -80,7 +80,7 @@ As used in subsections (a) through (f) of this section—
 
 #### (i) Effective date
 
-This section and the amendments made by this section shall apply with respect to sessionsof Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) of this section shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
+This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) of this section shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
 
 (Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, §203(22), Aug. 20, 1996, 110 Stat. 1728.)
 

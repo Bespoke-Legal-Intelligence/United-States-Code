@@ -156,7 +156,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (5) Authority to borrow
 
-&emsp;To meet the expenses referred to in paragraph (3), the Board shall have the authorityto borrow funds, as approved by the Secretary, for capital outlays and startup costs.
+&emsp;To meet the expenses referred to in paragraph (3), the Board shall have the authority to borrow funds, as approved by the Secretary, for capital outlays and startup costs.
 
 #### (e) Contracts and agreements
 
@@ -172,7 +172,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 &emsp;&emsp;(B) the program or project shall become effective on the approval of the Secretary; and
 
-&emsp;&emsp;(C) the contracting party shall keep accurate records of all transactions, account for funds received and expended, make periodic reports to the Board of activities conducted, and make such other reports as the Board or the Secretary may require.
+&emsp;&emsp;(C) the contracting party shall keep accurate records of all transactions, account forfunds received and expended, make periodic reports to the Board of activities conducted, and make such other reports as the Board or the Secretary may require.
 
 #### (3) Producer organizations
 

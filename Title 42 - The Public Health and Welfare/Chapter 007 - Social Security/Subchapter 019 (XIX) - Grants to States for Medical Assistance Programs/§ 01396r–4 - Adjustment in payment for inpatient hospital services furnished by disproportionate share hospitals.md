@@ -1,0 +1,461 @@
+### §1396r–4. Adjustment in payment for inpatient hospital services furnished by disproportionate share hospitals
+
+#### (a) Implementation of requirement
+
+(1) A State plan under this subchapter shall not be considered to meet the requirement of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs), as of July 1, 1988, unless the State has submitted to the Secretary, by not later than such date, an amendment to such plan that—
+
+&emsp;(A) specifically defines the hospitals so described (and includes in such definition any disproportionate share hospital described in subsection (b)(1) of this section which meets the requirements of subsection (d) of this section), and
+
+&emsp;(B) provides, effective for inpatient hospital services provided not later than July 1, 1988, for an appropriate increase in the rate or amount of payment for such services provided by such hospitals, consistent with subsection (c) of this section.
+
+(2)(A) In order to be considered to have met such requirement of section 1396a(a)(13)(A) of this title as of July 1, 1989, the State must submit to the Secretary by not later than April 1, 1989, the State plan amendment described in paragraph (1), consistent with subsection (c) of this section, effective for inpatient hospital services provided on or after July 1, 1989.
+
+(B) In order to be considered to have met such requirement of section 1396a(a)(13)(A) of this title as of July 1, 1990, the State must submit to the Secretary by not later than April 1, 1990, the State plan amendment described in paragraph (1), consistent with subsections (c) and (f) of this section, effective for inpatient hospital services provided on or after July 1, 1990.
+
+(C) If a State plan under this subchapter provides for payments for inpatient hospital services on a prospective basis (whether per diem, per case, or otherwise), in order for the plan to be considered to have met such requirement of section 1396a(a)(13)(A) of this title as of July 1, 1989, the State must submit to the Secretary by not later than April 1, 1989, a State plan amendment that provides, in the case of hospitals defined by the State as disproportionate share hospitals under paragraph (1)(A), for an outlier adjustment in payment amounts for medically necessary inpatient hospital services provided on or after July 1, 1989, involving exceptionally high costs or exceptionally long lengths of stay for individuals under one year of age.
+
+(D) A State plan under this subchapter shall not be considered to meet the requirements of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals that serve a disproportionate number of low-income patients with special needs), as of October 1, 1998, unless the State has submitted to the Secretary by such date a description of the methodology used by the State to identify and to make payments to disproportionate share hospitals, including children's hospitals, on the basis of the proportion of low-income and medicaid patients served by such hospitals. The State shall provide an annual report to the Secretary describing the disproportionate share payments to each such disproportionate share hospital.
+
+(3) The Secretary shall, not later than 90 days after the date a State submits an amendment under this subsection, review each such amendment for compliance with such requirement and by such date shall approve or disapprove each such amendment. If the Secretary disapproves such an amendment, the State shall immediately submit a revised amendment which meets such requirement.
+
+(4) The requirement of this subsection may not be waived under section 1396n(b)(4) of this title.
+
+#### (b) Hospitals deemed disproportionate share
+
+(1) For purposes of subsection (a)(1) of this section, a hospital which meets the requirements of subsection (d) of this section is deemed to be a disproportionate share hospital if—
+
+&emsp;(A) the hospital's medicaid inpatient utilization rate (as defined in paragraph (2)) is at least one standard deviation above the mean medicaid inpatient utilization rate for hospitals receiving medicaid payments in the State; or
+
+&emsp;(B) the hospital's low-income utilization rate (as defined in paragraph (3)) exceeds 25 percent.
+
+(2) For purposes of paragraph (1)(A), the term “medicaid inpatient utilization rate” means, for a hospital, a fraction (expressed as a percentage), the numerator of which is the hospital's number of inpatient days attributable to patients who (for such days) were eligible for medical assistance under a State plan approved under this subchapter in a period, and the denominator of which is the total number of the hospital's inpatient days in that period. In this paragraph, the term “inpatient day” includes each day in which an individual (including a newborn) is an inpatient in the hospital, whether or not the individual is in a specialized wardand whether or not the individual remains in the hospital for lack of suitable placement elsewhere.
+
+(3) For purposes of paragraph (1)(B), the term “low-income utilization rate” means, for a hospital, the sum of—
+
+&emsp;(A) the fraction (expressed as a percentage)—
+
+&emsp;&emsp;(i) the numerator of which is the sum (for a period) of (I) the total revenues paid the hospital for patient services under a State plan under this subchapter and (II) the amount of the cash subsidies for patient services received directly from State and local governments, and
+
+&emsp;&emsp;(ii) the denominator of which is the total amount of revenues of the hospital for patient services (including the amount of such cash subsidies) in the period; and
+
+&emsp;(B) a fraction (expressed as a percentage)—
+
+&emsp;&emsp;(i) the numerator of which is the total amount of the hospital's charges for inpatient hospital services which are attributable to charity care in a period, less the portion of any cash subsidies described in clause (i)(II) of subparagraph (A) in the period reasonably attributable to inpatient hospital services, and
+
+&emsp;&emsp;(ii) the denominator of which is the total amount of the hospital's charges for inpatient hospital services in the hospital in the period.
+
+> The numerator under subparagraph (B)(i) shall not include contractual allowances and discounts (other than for indigent patients not eligible for medical assistance under a State plan approved under this subchapter).
+
+(4) The Secretary may not restrict a State's authority to designate hospitals as disproportionate share hospitals under this section. The previous sentence shall not be construed to affect the authority of the Secretary to reduce payments pursuant to section 1396b(w)(1)(A)(iii) of this title if the Secretary determines that, as a result of such designations, there is in effect a hold harmless provision described in section 1396b(w)(4) of this title.
+
+#### (c) Payment adjustment
+
+Subject to subsections (f) and (g) of this section, in order to be consistent with this subsection, a payment adjustment for a disproportionate share hospital must either—
+
+&emsp;(1) be in an amount equal to at least the product of (A) the amount paid under the State plan to the hospital for operating costs for inpatient hospital services (of the kind described in section 1395ww(a)(4) of this title), and (B) the hospital's disproportionate share adjustment percentage (established under section 1395ww(d)(5)(F)(iv) of this title);
+
+&emsp;(2) provide for a minimum specified additional payment amount (or increased percentage payment) and (without regard to whether the hospital is described in subparagraph (A) or (B) of subsection (b)(1) of this section) for an increase in such a payment amount (or percentage payment) in proportion to the percentage by which the hospital's medicaid utilization rate (as defined in subsection (b)(2) of this section) exceeds one standard deviation above the mean medicaid inpatient utilization rate for hospitals receiving medicaid payments in the State or the hospital's low-income utilization rate (as defined in paragraph <sup>1</sup> (b)(3) of this section); or
+
+&emsp;(3) provide for a minimum specified additional payment amount (or increased percentage payment) that varies according to type of hospital under a methodology that—
+
+&emsp;&emsp;(A) applies equally to all hospitals of each type; and
+
+&emsp;&emsp;(B) results in an adjustment for each type of hospital that is reasonably related to the costs, volume, or proportion of services provided to patients eligible for medical assistance under a State plan approved under this subchapter or to low-income patients.<sup>2</sup>
+
+> except that, for purposes of paragraphs (1)(B) and (2)(A) of subsection (a) of this section, the payment adjustment for a disproportionate share hospital is consistent with this subsection if the appropriate increase in the rate or amount of payment is equal to at least one-third of the increase otherwise applicable under this subsection (in the case of such paragraph (1)(B)) and at least two-thirds of such increase (in the case of paragraph (2)(A)). In the case of a hospital described in subsection (d)(2)(A)(i) of this section (relating to children's hospitals), in computing the hospital's disproportionate share adjustment percentage for purposes of paragraph (1)(B) of this subsection, the disproportionate patient percentage (defined in section 1395ww(d)(5)(F)(vi) of this title) shall be computed by substituting for the fraction described in subclause (I) of such section the fraction described in subclause (II) of that section. If a State elects in a State plan amendment under subsection (a) of this section to provide the payment adjustment described in paragraph (2), the State must include in the amendment a detailed description of the specific methodology to be used in determining the specified additional payment amount (or increased percentage payment) to be made to each hospital qualifying for such a payment adjustment and must publish at least annually the name of each hospital qualifying for such a payment adjustment and the amount of such payment adjustment made for each such hospital.
+
+#### (d) Requirements to qualify as disproportionate share hospital
+
+(1) Except as provided in paragraph (2), no hospital may be defined or deemed as a disproportionate share hospital under a State plan under this subchapter or under subsection (b) of this section unless the hospital has at least 2 obstetricians who have staff privileges at the hospital and who have agreed to provide obstetric services to individuals who are entitled to medical assistance for such services under such State plan.
+
+(2)(A) Paragraph (1) shall not apply to a hospital—
+
+&emsp;(i) the inpatients of which are predominantly individuals under 18 years of age; or
+
+&emsp;(ii) which does not offer nonemergency obstetric services to the general population as of December 22, 1987.
+
+(B) In the case of a hospital located in a rural area (as defined for purposes of section 1395ww of this title), in paragraph (1) the term “obstetrician” includes any physician with staff privileges at the hospital to perform nonemergency obstetric procedures.
+
+(3) No hospital may be defined or deemed as a disproportionate share hospital under a State plan under this subchapter or under subsection (b) or (e) of this section unless the hospital has a medicaid inpatient utilization rate (as defined in subsection (b)(2) of this section) of not less than 1 percent.
+
+#### (e) Special rule
+
+(1) A State plan shall be considered to meet the requirement of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals which serve a disproportionate number of low income patients with special needs) without regard to the requirement of subsection (a) of this section if (A)(i) the plan provided for payment adjustments based on a pooling arrangement involving a majority of the hospitals participating under the plan for disproportionate share hospitals as of January 1, 1984, or (ii) the plan as of January 1, 1987, provided for payment adjustments based on a statewide pooling arrangement involving all acute care hospitals and the arrangement provides for reimbursement of the total amount of uncompensated care provided by each participating hospital, (B) the aggregate amount of the payment adjustments under the plan for such hospitals is not less than the aggregate amount of such adjustments otherwise required to be made under such subsection, and (C) the plan meets the requirement of subsection (d)(3) of this section and such payment adjustments are made consistent with the last sentence of subsection (c) of this section.
+
+(2) In the case of a State that used a health insuring organization before January 1, 1986, to administer a portion of its plan on a statewide basis, beginning on July 1, 1988—
+
+&emsp;(A) the requirements of subsections (b) and (c) of this section (other than the last sentence of subsection (c) of this section) shall not apply if the aggregate amount of the payment adjustments under the plan for disproportionate share hospitals (as defined under the State plan) is not less than the aggregate amount of payment adjustments otherwise required to be made if such subsections applied,
+
+&emsp;(B) subsection (d)(2)(B) of this section shall apply to hospitals located in urban areas, as well as in rural areas,
+
+&emsp;(C) subsection (d)(3) of this section shall apply, and
+
+&emsp;(D) subsection (g) of this section shall apply.
+
+#### (f) Limitation on Federal financial participation
+
+#### (1) In general
+
+&emsp;Payment under section 1396b(a) of this title shall not be made to a State with respect to any payment adjustment made under this section for hospitals in a State for quarters in a fiscal year in excess of the disproportionate share hospital (in this subsection referred to as “DSH”) allotment for the State for the fiscal year, as specified in paragraphs (2) and (3).
+
+#### (2) State DSH allotments for fiscal years 1998 through 2002
+
+&emsp;The DSH allotment for a State for each fiscal year during the period beginning with fiscal year 1998 and ending with fiscal year 2002 is determined in accordance with the following table:
+
+&nbsp;
+
+| <b>State or District</b> | <b>DSH Allotment (in millions of dollars)</b> |  |  |  |  |
+| :--- | :---: | :---: | :---: | :---: | ---: |
+| FY 98 | FY 99 | FY 00 | FY 01 | FY 02 |  |
+| &nbsp;Alabama | 293 | 269 | 248 | 246 | 246 |
+| &nbsp;Alaska | 10 | 10 | 10 | 9 | 9 |
+| &nbsp;Arizona | 81 | 81 | 81 | 81 | 81 |
+| &nbsp;Arkansas | 2 | 2 | 2 | 2 | 2 |
+| &nbsp;California | 1,085 | 1,068 | 986 | 931 | 877 |
+| &nbsp;Colorado | 93 | 85 | 79 | 74 | 74 |
+| &nbsp;Connecticut | 200 | 194 | 164 | 160 | 160 |
+| &nbsp;Delaware | 4 | 4 | 4 | 4 | 4 |
+| &nbsp;District of Columbia | 23 | 23 | 23 | 23 | 23 |
+| &nbsp;Florida | 207 | 203 | 197 | 188 | 160 |
+| &nbsp;Georgia | 253 | 248 | 241 | 228 | 215 |
+| &nbsp;Hawaii | 0 | 0 | 0 | 0 | 0 |
+| &nbsp;Idaho | 1 | 1 | 1 | 1 | 1 |
+| &nbsp;Illinois | 203 | 199 | 193 | 182 | 172 |
+| &nbsp;Indiana | 201 | 197 | 191 | 181 | 171 |
+| &nbsp;Iowa | 8 | 8 | 8 | 8 | 8 |
+| &nbsp;Kansas | 51 | 49 | 42 | 36 | 33 |
+| &nbsp;Kentucky | 137 | 134 | 130 | 123 | 116 |
+| &nbsp;Louisiana | 880 | 795 | 713 | 658 | 631 |
+| &nbsp;Maine | 103 | 99 | 84 | 84 | 84 |
+| &nbsp;Maryland | 72 | 70 | 68 | 64 | 61 |
+| &nbsp;Massachusetts | 288 | 282 | 273 | 259 | 244 |
+| &nbsp;Michigan | 249 | 244 | 237 | 224 | 212 |
+| &nbsp;Minnesota | 16 | 16 | 16 | 16 | 16 |
+| &nbsp;Mississippi | 143 | 141 | 136 | 129 | 122 |
+| &nbsp;Missouri | 436 | 423 | 379 | 379 | 379 |
+| &nbsp;Montana | 0\.2 | 0\.2 | 0\.2 | 0\.2 | 0\.2 |
+| &nbsp;Nebraska | 5 | 5 | 5 | 5 | 5 |
+| &nbsp;Nevada | 37 | 37 | 37 | 37 | 37 |
+| &nbsp;New Hampshire | 140 | 136 | 130 | 130 | 130 |
+| &nbsp;New Jersey | 600 | 582 | 515 | 515 | 515 |
+| &nbsp;New Mexico | 5 | 5 | 5 | 5 | 5 |
+| &nbsp;New York | 1,512 | 1,482 | 1,436 | 1,361 | 1,285 |
+| &nbsp;North Carolina | 278 | 272 | 264 | 250 | 236 |
+| &nbsp;North Dakota | 1 | 1 | 1 | 1 | 1 |
+| &nbsp;Ohio | 382 | 374 | 363 | 344 | 325 |
+| &nbsp;Oklahoma | 16 | 16 | 16 | 16 | 16 |
+| &nbsp;Oregon | 20 | 20 | 20 | 20 | 20 |
+| &nbsp;Pennsylvania | 529 | 518 | 502 | 476 | 449 |
+| &nbsp;Rhode Island | 62 | 60 | 58 | 55 | 52 |
+| &nbsp;South Carolina | 313 | 303 | 262 | 262 | 262 |
+| &nbsp;South Dakota | 1 | 1 | 1 | 1 | 1 |
+| &nbsp;Tennessee | 0 | 0 | 0 | 0 | 0 |
+| &nbsp;Texas | 979 | 950 | 806 | 765 | 765 |
+| &nbsp;Utah | 3 | 3 | 3 | 3 | 3 |
+| &nbsp;Vermont | 18 | 18 | 18 | 18 | 18 |
+| &nbsp;Virginia | 70 | 68 | 66 | 63 | 59 |
+| &nbsp;Washington | 174 | 171 | 166 | 157 | 148 |
+| &nbsp;West Virginia | 64 | 63 | 61 | 58 | 54 |
+| &nbsp;Wisconsin | 7 | 7 | 7 | 7 | 7 |
+| &nbsp;Wyoming | 0 | 0 | 0 | 0 | 0\. |
+
+#### (3) State DSH allotments for fiscal year 2003 and thereafter
+
+#### (A) In general
+
+&emsp;&emsp;The DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year isequal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraph (B), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
+
+#### (B) Limitation
+
+&emsp;&emsp;The DSH allotment for a State shall not be increased under subparagraph (A) for a fiscal year to the extent that such an increase would result in the DSH allotment for the year exceeding the greater of—
+
+&emsp;&emsp;&emsp;(i) the DSH allotment for the previous year, or
+
+&emsp;&emsp;&emsp;(ii) 12 percent of the total amount of expenditures under the State plan for medical assistance during the fiscal year.
+
+#### (4) “State” defined
+
+&emsp;In this subsection, the term “State” means the 50 States and the District of Columbia.
+
+#### (g) Limit on amount of payment to hospital
+
+#### (1) Amount of adjustment subject to uncompensated costs
+
+#### (A) In general
+
+&emsp;&emsp;A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) of this section with respect to a hospital if the payment adjustment exceeds the costs incurred during the year of furnishing hospital services (as determined by the Secretary and net of payments under this subchapter, other than under this section, and by uninsured patients) by the hospital to individuals who either are eligible for medical assistance under the State plan or have no health insurance (or other source of third party coverage) for services provided during the year. For purposes of the preceding sentence, payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party payment.
+
+#### (B) Limit to public hospitals during transition period
+
+&emsp;&emsp;With respect to payment adjustments during a State fiscal year that begins before January 1, 1995, subparagraph (A) shall apply only to hospitals owned or operated by a State (or by an instrumentality or a unit of government within a State).
+
+#### (C) Modifications for private hospitals
+
+&emsp;&emsp;With respect to hospitals that are not owned or operated by a State (or by an instrumentality or a unit of government within a State), the Secretary may make such modifications to the manner in which the limitation on payment adjustments is applied to such hospitals as the Secretary considers appropriate.
+
+#### (2) Additional amount during transition period for certain hospitals with high disproportionate share
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a hospital with high disproportionate share (as defined in subparagraph (B)), a payment adjustment during a State fiscal year that begins before January 1, 1995, shall be considered consistent with subsection (c) of this section if the payment adjustment does not exceed 200 percent of the costs of furnishing hospital services described in paragraph (1)(A) during the year, but only if the Governor of the State certifies to the satisfaction of the Secretary that the hospital's applicable minimum amount is used for health services during the year. In determining the amount that is used for such services during a year, there shall be excluded any amounts received under the Public Health Service Act \[42 U.S.C. 201 et seq.\], subchapter V of this chapter, subchapter XVIII of this chapter, or from third party payors (not including the State plan under this subchapter) that are used for providing such services during the year.
+
+#### (B) “Hospital with high disproportionate share” defined
+
+&emsp;&emsp;In subparagraph (A), a hospital is a “hospital with high disproportionate share” if—
+
+&emsp;&emsp;&emsp;(i) the hospital is owned or operated by a State (or by an instrumentality or a unit of government within a State); and
+
+&emsp;&emsp;&emsp;(ii) the hospital—
+
+&emsp;&emsp;&emsp;&emsp;(I) meets the requirement described in subsection (b)(1)(A) of this section, or
+
+&emsp;&emsp;&emsp;&emsp;(II) has the largest number of inpatient days attributable to individuals entitled to benefits under the State plan of any hospital in such State for the previous State fiscal year.
+
+#### (C) “Applicable minimum amount” defined
+
+&emsp;&emsp;In subparagraph (A), the “applicable minimum amount” for a hospital for a fiscal year is equal to the difference between the amount of the hospital's payment adjustment for the fiscal year and the costs to the hospital of furnishing hospital services described in paragraph (1)(A) during the fiscal year.
+
+#### (h) Limitation on certain State DSH expenditures
+
+#### (1) In general
+
+&emsp;Payment under section 1396b(a) of this title shall not be made to a State with respect to any payment adjustments made under this section for quarters in a fiscal year (beginning with fiscal year 1998) to institutions for mental diseases or other mental health facilities, to the extent the aggregate of such adjustments in the fiscal year exceeds the lesser of the following:
+
+#### (A) 1995 IMD DSH payment adjustments
+
+&emsp;&emsp;The total State DSH expenditures that are attributable to fiscal year 1995 for payments to institutions for mental diseases and other mental health facilities (based on reporting data specified by the State on HCFA Form 64 as mental health DSH, and as approved by the Secretary).
+
+#### (B) Applicable percentage of 1995 total DSH payment allotment
+
+&emsp;&emsp;The amount of such payment adjustments which are equal to the applicable percentageof the Federal share of payment adjustments made to hospitals in the State under subsection (c) of this section that are attributable to the 1995 DSH allotment for the State for payments to institutions for mental diseases and other mental health facilities (based on reporting data specified by the State on HCFA Form 64 as mental health DSH, and as approved by the Secretary).
+
+#### (2) Applicable percentage
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (1), the applicable percentage with respect to—
+
+&emsp;&emsp;&emsp;(i) each of fiscal years 1998, 1999, and 2000, is the percentage determined under subparagraph (B); or
+
+&emsp;&emsp;&emsp;(ii) a succeeding fiscal year is the lesser of the percentage determined under subparagraph (B) or the following percentage:
+
+&emsp;&emsp;&emsp;&emsp;(I) For fiscal year 2001, 50 percent.
+
+&emsp;&emsp;&emsp;&emsp;(II) For fiscal year 2002, 40 percent.
+
+&emsp;&emsp;&emsp;&emsp;(III) For each succeeding fiscal year, 33 percent.
+
+#### (B) 1995 percentage
+
+&emsp;&emsp;The percentage determined under this subparagraph is the ratio (determined as a percentage) of—
+
+&emsp;&emsp;&emsp;(i) the Federal share of payment adjustments made to hospitals in the State under subsection (c) of this section that are attributable to the 1995 DSH allotment for the State (as reported by the State not later than January 1, 1997, on HCFA Form 64, and as approved by the Secretary) for payments to institutions for mental diseases and other mental health facilities, to
+
+&emsp;&emsp;&emsp;(ii) the State 1995 DSH spending amount.
+
+#### (C) State 1995 DSH spending amount
+
+&emsp;&emsp;For purposes of subparagraph (B)(ii), the “State 1995 DSH spending amount”, with respect to a State, is the Federal medical assistance percentage (for fiscal year 1995) of the payment adjustments made under subsection (c) of this section under the State plan that are attributable to the fiscal year 1995 DSH allotment for the State (as reported by the State not later than January 1, 1997, on HCFA Form 64, and as approved by the Secretary).
+
+#### (i) Requirement for direct payment
+
+#### (1) In general
+
+&emsp;No payment may be made under section 1396b(a)(1) of this title with respect to a payment adjustment made under this section, for services furnished by a hospital on or after October 1, 1997, with respect to individuals eligible for medical assistance under the State plan who are enrolled with a managed care entity (as defined in section 1396u–2(a)(1)(B) of this title) or under any other managed care arrangement unless a payment, equal to the amount of the payment adjustment—
+
+&emsp;&emsp;(A) is made directly to the hospital by the State; and
+
+&emsp;&emsp;(B) is not used to determine the amount of a prepaid capitation payment under the State plan to the entity or arrangement with respect to such individuals.
+
+#### (2) Exception for current arrangements
+
+&emsp;Paragraph (1) shall not apply to a payment adjustment provided pursuant to a payment arrangement in effect on July 1, 1997.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended July 1, 1988, Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), 102 Stat. 752, 792–794; Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), 102 Stat. 2417, 2421, 2422; Dec. 19, 1989, Pub. L. 101–239, title VI, §6411(c)(1), 103 Stat. 2270; Nov. 5, 1990, Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), 104 Stat. 1388–171; Dec. 12, 1991, Pub. L. 102–234, §§3(b)(1), (2)(A), (c), 105 Stat. 1799, 1802, 1803; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), 107 Stat. 629–631; Aug. 5, 1997, Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), 111 Stat. 508, 511, 513, 514.)
+
+#### References in Text
+
+The Public Health Service Act, referred to in subsec. (g)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+
+#### Codification
+
+Prior to redesignation by Pub. L. 100–360, section 4112 of Pub. L. 100–203, cited in the credits to this section, was classified as a note under section 1396a of this title.
+
+#### Prior Provisions
+
+A prior section 1923 of act Aug. 14, 1935, was renumbered section 1928 and is classified to section 1396s of this title.
+
+#### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–33, §4711(c)(2), substituted “1396a(a)(13)(A)(iv)” for “1396a(a)(13)(A)”.
+
+Subsec. (a)(2)(D). Pub. L. 105–33, §4721(c), added subpar. (D).
+
+Subsec. (e)(1). Pub. L. 105–33, §4711(c)(2), substituted “1396a(a)(13)(A)(iv)” for “1396a(a)(13)(A)”.
+
+Subsec. (f). Pub. L. 105–33, §4721(a)(1), amended heading and text of subsec. (f) generally. Prior to amendment, subsec. (f) related to denial of Federal financial participation for payments in excess of certain limits.
+
+Subsec. (h). Pub. L. 105–33, §4721(b), added subsec. (h).
+
+Subsec. (i). Pub. L. 105–33, §4721(d), added subsec. (i).
+
+1993—Subsec. (a)(1)(A). Pub. L. 103–66, §13621(a)(1)(A), substituted “requirements” for “requirement”.
+
+Subsec. (b)(1). Pub. L. 103–66, §13621(a)(1)(B), substituted “requirements” for “requirement” in introductory provisions.
+
+Subsec. (c). Pub. L. 103–66, §13621(b)(2)(A), substituted “subsections (f) and (g)” for “subsection (f)” in introductory provisions.
+
+Subsec. (d). Pub. L. 103–66, §13621(a)(1)(C), substituted “Requirements” for “Requirement” in heading.
+
+Subsec. (d)(3). Pub. L. 103–66, §13621(a)(1)(D), added par. (3).
+
+Subsec. (e)(1)(C). Pub. L. 103–66, §13621(a)(1)(E), added cl. (C).
+
+Subsec. (e)(2)(A). Pub. L. 103–66, §13621(a)(1)(F)(i), inserted “(other than the last sentence of subsection (c) of this section)” before “shall not apply”.
+
+Subsec. (e)(2)(C). Pub. L. 103–66, §13621(a)(1)(F)(ii)–(iv), added subpar. (C).
+
+Subsec. (e)(2)(D). Pub. L. 103–66, §13621(b)(2)(B), added subpar. (D).
+
+Subsec. (g). Pub. L. 103–66, §13621(b)(1), added subsec. (g).
+
+1991—Subsec. (a)(2)(B). Pub. L. 102–234, §3(b)(2)(A)(i), substituted “subsections (c) and (f)” for “subsection (c)”.
+
+Subsec. (b)(4). Pub. L. 102–234, §3(c), added par. (4).
+
+Subsec. (c). Pub. L. 102–234, §3(b)(2)(A)(ii), substituted “Subject to subsection (f) of this section, in order” for “In order”.
+
+Subsec. (f). Pub. L. 102–234, §3(b)(1), added subsec. (f).
+
+1990—Subsec. (b)(2). Pub. L. 101–508, §4702(a), inserted at end “In this paragraph, the term ‘inpatient day’ includes each day in which an individual (including a newborn) is an inpatient in the hospital, whether or not the individual is in a specialized ward and whether or not the individual remains in the hospital for lack of suitable placement elsewhere.”
+
+Subsec. (c)(2). Pub. L. 101–508, §4703(c), inserted before semicolon at end “or the hospital's low-income utilization rate (as defined in paragraph (b)(3) of this section)”.
+
+Subsec. (c)(3). Pub. L. 101–508, §4703(a), added par. (3).
+
+Subsec. (e)(2). Pub. L. 101–508, §4703(b), struck out “during the 3-year period” before “beginning on”.
+
+1989—Subsec. (e)(1). Pub. L. 101–239 designated portion of existing provisions as cls. (A) and (B), and in cl. (A) designated existing provisions as subcl. (i) and added subcl. (ii).
+
+1988—Pub. L. 100–360, §411(k)(6)(A)–(B)(ix), as amended by Pub. L. 100–485, §608(d)(26)(F), amended Pub. L. 100–203, §4112, so as to redesignate section 4112 of Pub. L. 100–203 as this section.
+
+Subsec. (a). Pub. L. 100–360, §411(k)(6)(B)(iv), struck out “of Health and Human Services” after “to the Secretary” wherever appearing in pars. (1) and (2).
+
+Subsec. (a)(1). Pub. L. 100–360, §411(k)(6)(B)(ii), (iii), substituted “A State plan under this subchapter” for “A State's plan under title XIX of the Social Security Act”, and made technical amendment to reference to section 1396a(a)(13)(A) of this title involving underlying provisions of original act.
+
+Subsec. (a)(2)(A). Pub. L. 100–360, §411(k)(6)(A)(i), substituted “April 1, 1989” for “such date” and inserted before period at end “, effective for inpatient hospital services provided on or after July 1, 1989”.
+
+Subsec. (a)(2)(B). Pub. L. 100–360, §411(k)(6)(A)(ii), substituted “April 1, 1990” for “such date” and inserted before period at end “, effective for inpatient hospital services provided on or after July 1, 1990”.
+
+Subsec. (a)(2)(C). Pub. L. 100–485, §608(d)(15)(C), realigned the margin of subpar. (C).
+
+Pub. L. 100–360, §302(b)(2), added subpar. (C).
+
+Subsec. (a)(3). Pub. L. 100–360, §411(k)(6)(A)(iii), inserted par. (3) designation and substituted “90 days after the date a State submits an amendment” for “June 30 of each year in which the State is required to submit an amendment”.
+
+Subsec. (a)(4). Pub. L. 100–360, §411(k)(6)(A)(iii)(II), (III), (B)(v), inserted par. (4) designation and made technical amendment to reference to section 1396n(b)(4) of this title involving underlying provisions of original act.
+
+Subsec. (b)(2). Pub. L. 100–360, §411(k)(6)(A)(iv), substituted “a State plan” for “the State plan”.
+
+Pub. L. 100–360, §411(k)(6)(B)(vi), as amended by Pub. L. 100–485, §608(d)(26)(F), substituted “under this subchapter” for “under subchapter XIX of this chapter”.
+
+Subsec. (b)(3). Pub. L. 100–360, §411(k)(6)(B)(vi), as amended by Pub. L. 100–485, §608(d)(26)(F), substituted “under this subchapter” for “under subchapter XIX of this chapter” in last sentence.
+
+Subsec. (b)(3)(A)(i). Pub. L. 100–360, §411(k)(6)(B)(vi), as amended by Pub. L. 100–485, §608(d)(26)(F), substituted “under this subchapter” for “under subchapter XIX of this chapter”.
+
+Subsec. (b)(3)(B)(i). Pub. L. 100–485, §608(d)(26)(D), inserted “of subparagraph (A)” after “clause (i)(II)”.
+
+Pub. L. 100–360, §411(k)(6)(A)(v), inserted “, less the portion of any cash subsidies described in clause (i)(II) in the period reasonably attributable to inpatient hospital services” after “charity care in a period”.
+
+Subsec. (c). Pub. L. 100–485, §608(d)(26)(E), substituted “this subsection” for “subsection (c)” in concluding provisions.
+
+Pub. L. 100–360, §411(k)(6)(A)(vi)(I), (II), (V), in concluding provisions, substituted “paragraphs (1)(B) and (2)(A) of subsection (a) of this section” for “paragraphs (2)(A) and (2)(B)”, “such paragraph (1)(B)” for “paragraph (2)(A)”, and “such paragraph (2)(A)” for “paragraph (2)(B)” and inserted “at least” before “one-third” and “two-thirds”.
+
+Pub. L. 100–360, §411(k)(6)(A)(vi)(VI), inserted at end “In the case of a hospital described in subsection (d)(2)(A)(i) of this section (relating to children's hospitals), in computing the hospital's disproportionate share adjustment percentage for purposes of paragraph (1)(B) of this subsection, the disproportionate patient percentage (defined in section 1395ww(d)(5)(F)(vi) of this title) shall be computed by substituting for the fraction described in subclause (I) of such section the fraction described in subclause (II) of that section. If a State elects in a State plan amendment under subsection (a) of this section to provide the payment adjustment described in paragraph (2), the State must include in the amendment a detailed description of the specific methodology to be used in determining the specified additional payment amount (or increased percentage payment) to be made to each hospital qualifying for such a payment adjustment and must publish at least annually the name of each hospital qualifying for such a payment adjustment and the amount of such payment adjustment made for each such hospital.”
+
+Subsec. (c)(1). Pub. L. 100–360, §411(k)(6)(A)(vi)(III), inserted “at least” after “equal to”.
+
+Subsec. (c)(2). Pub. L. 100–360, §411(k)(6)(A)(vi)(IV), as amended by Pub. L. 100–485, §608(d)(26)(A), inserted “(without regard to whether the hospital is described in subparagraph (A) or (B) of subsection (b)(1) of this section)” after “payment) and”.
+
+Subsec. (d)(1). Pub. L. 100–360, §411(k)(6)(B)(vi), as amended by Pub. L. 100–485, §608(d)(26)(F), substituted “under this subchapter” for “under subchapter XIX of this chapter”.
+
+Subsec. (d)(2)(B). Pub. L. 100–360, §411(k)(6)(B)(vii), made technical amendment to reference to section 1395ww of this title involving underlying provisions of original Act.
+
+Subsec. (e). Pub. L. 100–360, §411(k)(6)(A)(vii), as amended by Pub. L. 100–485, §608(d)(26)(B), (C), designated existing provisions as par. (1), inserted “based on a pooling arrangement involving a majority of the hospitals participating under the plan” after first reference to “payment adjustments”, added par. (2) and substituted “statewide” for “Statewide” in par. (2).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by section 4711(c)(2) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to payment for items and services furnished on or after Oct. 1, 1997, see section 4711(d) of Pub. L. 105–33, set out as a note under 1396a of this title.
+
+Section 4721(a)(2) of Pub. L. 105–33 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to payment adjustments attributable to DSH allotments for fiscal years beginning with fiscal year 1998.”
+
+#### Effective Date of 1993 Amendment
+
+Section 13621(a)(2) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section\] shall apply to payments to States under section 1903(a) of the Social Security Act \[section 1396b(a) of this title\] for payments to hospitals made under State plans after—
+
+&emsp;“(A) the end of the State fiscal year that ends during 1994, or
+
+&emsp;“(B) in the case of a State with a State legislature which is not scheduled to have a regular legislative session in 1994, the end of the State fiscal year that ends during 1995;
+
+> without regard to whether or not final regulations to carry out such amendments have been promulgated by either such date.”
+
+Section 13621(b)(3) of Pub. L. 103–66 provided that:
+
+“(A)
+
+In general.—Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section\] shall apply to payments to States under section 1903(a) of the Social Security Act \[section 1396b(a) of this title\] for payments to hospitals made under State plans after—
+
+&emsp;“(i) the end of the State fiscal year that ends during 1994, or
+
+&emsp;“(ii) in the case of a State with a State legislature which is not scheduled to have a regular legislative session in 1994, the end of the State fiscal year that ends during 1995;
+
+> without regard to whether or not final regulations to carry out such amendments have been promulgated by either such date.
+
+“(B)
+
+Delay in implementation for private hospitals.—With respect to a hospital that is not owned or operated by a State (or by an instrumentality or a unit of government within a State), the amendments made by this subsection shall apply to payments to States under section 1903(a) for payments to hospitals made under State plans for State fiscal years that begin during or after 1995, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.”
+
+#### Effective Date of 1991 Amendment
+
+Amendments by Pub. L. 102–234 effective Jan. 1, 1992, see section 3(e)(1) of Pub. L. 102–234, set out as a note under section 1396a of this title.
+
+#### Effective Date of 1990 Amendment
+
+Section 4702(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 1990.”
+
+Section 4703(d) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 412(a)(2)\[4112(a)(2)\] of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203, enacting this section\].”
+
+#### Effective Date of 1988 Amendments
+
+Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
+
+Amendment by section 302(b)(2) of Pub. L. 100–360 effective July 1, 1988, see section 302(f)(2) of Pub. L. 100–360, set out as a note under section 1396a of this title.
+
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(k)(6)(A)–(B)(ix) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+
+#### DSH Allotments for 1998
+
+Pub. L. 105–78, title VI, §601, Nov. 13, 1997, 111 Stat. 1519, provided that: “The amount of the DSH allotment for the State of Minnesota for fiscal year 1998, specified in the table under section 1923(f)(2) of the Social Security Act \[subsection (f)(2) of this section\] (as amended by section 4721(a)(1) of Public Law 105–33) is deemed to be $33,000,000.”
+
+Pub. L. 105–78, title VI, §602, Nov. 13, 1997, 111 Stat. 1519, provided that: “Notwithstanding section 1923(f)(2) of the Social Security Act (42 U.S.C. 1396r–4(f)(2)) (as amended by section 4721(a)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 511)), the amount of the DSH allotment for Wyoming for fiscal year 1998 is deemed to be $67,000.”
+
+#### California Transition Rule
+
+Section 4721(e) of Pub. L. 105–33 provided that: “Effective July 1, 1997, section 1923(g)(2)(A) of the Social Security Act (42 U.S.C. 1396r–4(g)(2)(A)) shall be applied to the State of California as though—
+
+&emsp;“(1) ‘(or that begins on or after July 1, 1997, and before July 1, 1999)’ were inserted in such section after ‘January 1, 1995,’; and
+
+&emsp;“(2) ‘(or 175 percent in the case of a State fiscal year that begins on or after July 1, 1997, and before July 1, 1999)’ were inserted in such section after ‘200 percent’.”
+
+#### Study of DSH Payment Adjustments
+
+Section 3(d) of Pub. L. 102–234 directed Prospective Payment Assessment Commission to conduct a study concerning feasibility and desirability of establishing maximum and minimum payment adjustments under subsec. (c) of this section for hospitals deemed disproportionate share hospitals under State medicaid plans, and criteria (other than criteria described in clause (i) or (ii) of subsec. (f)(1)(D)) that are appropriate for the designation of disproportionate share hospitals under this section, specified items to be included in study, and directed that, not later than Jan. 1, 1994, Commission submit a report on the study to Committee on Finance of Senate and Committee on Energy and Commerce of House of Representatives, such report to include such recommendations respecting designation of disproportionate share hospitals and the establishment of maximum and minimum payment adjustments for such hospitals under this section as may be appropriate.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1396a, 1396b, 1396n, 1397ee of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+

@@ -6,13 +6,15 @@ Commercial Practices.—The Secretary of Transportation may carry out this chapt
 
 (b)
 
-Issuance of Policies and Disposition of Claims.—(1) The Secretary may issue insurance policies to carry out this chapter. The Secretary may prescribe the forms, amounts insured underthe policies, and premiums charged. The Secretary may change an amount of insurance or a premium for an existing policy only with the consent of the insured.
+Issuance of Policies and Disposition of Claims.—(1) The Secretary may issue insurance policies to carry out this chapter. The Secretary may prescribe the forms, amounts insured under the policies, and premiums charged. Any such policy may authorize the binding arbitration of claims made thereunder in such manner as may be agreed to by the Secretary and any commercial insurer that may be responsible for any part of a loss to which such policy relates. The Secretary may change an amount of insurance or a premium for an existing policy only with the consent of the insured.
 
 (2) For a claim under insurance authorized by this chapter, the Secretary may—
 
-&emsp;(A) settle and pay the claim made for or against the United States Government; and
+&emsp;(A) settle and pay the claim made for or against the United States Government;
 
-&emsp;(B) pay the amount of a judgment entered against the Government.
+&emsp;(B) pay the amount of a binding arbitration award made under paragraph (1); and
+
+&emsp;(C) pay the amount of a judgment entered against the Government.
 
 (c)
 
@@ -30,7 +32,7 @@ Budget.—The Secretary shall submit annually a budget program for carrying out 
 
 Accounts.—The Secretary shall maintain a set of accounts for audit under chapter 35 of title 31. Notwithstanding chapter 35, the Comptroller General shall allow credit for expenditures under this chapter made consistent with commercial practices in the aviation insurance business when shown to be necessary because of the business activities authorized by this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1171; Pub. L. 104–316, title I, §127(e), Oct. 19, 1996, 110 Stat. 3840.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1171; Pub. L. 104–316, title I, §127(e), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–137, §4, Dec. 2, 1997, 111 Stat. 2640.)
 
 Historical and Revision Notes
 
@@ -101,6 +103,10 @@ In subsection (d), the word “prepare” is omitted as being included in “sub
 In subsection (e), the words “under chapter 35 of title 31” are substituted for “in accordance with the provisions of the Accounting and Auditing Act of 1950” in section 1307(f) of the Act of August 23, 1958 (Public Law 85–726, 72 Stat. 804) because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067). The words “<i>Provided</i>, That . . . the Secretary may exercise the powers conferred in said subchapter, perform the duties and functions” are omitted as surplus. The words “Notwithstanding chapter 35” are added for clarity. The words “Comptroller General” are substituted for “General Accounting Office” because of 31:702.
 
 #### Amendments
+
+1997—Subsec. (b)(1). Pub. L. 105–137, §4(a), inserted after second sentence “Any such policy may authorize the binding arbitration of claims made thereunder in such manner as may be agreed to by the Secretary and any commercial insurer that may be responsible for any part of a loss to which such policy relates.”
+
+Subsec. (b)(2). Pub. L. 105–137, §4(b), struck out “and” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
 1996—Subsec. (e). Pub. L. 104–316 substituted “for audit” for “. The Comptroller General shall audit those accounts”.
 

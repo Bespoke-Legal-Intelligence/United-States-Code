@@ -44,7 +44,7 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 #### (g) Action in case of fraud
 
-(1) In any case in which the remedy coordination official of an executive agency finds thatthere is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that executive agency is based on fraud, the remedy coordination official shall recommend that the executive agency reduce or suspend further payments to such contractor.
+(1) In any case in which the remedy coordination official of an executive agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that executive agency is based on fraud, the remedy coordination official shall recommend that the executive agency reduce or suspend further payments to such contractor.
 
 (2) The head of an executive agency receiving a recommendation under paragraph (1) in the case of a contractor's request for payment under a contract shall determine whether there is substantial evidence that the request is based on fraud. Upon making such a determination, the head of the executive agency may reduce or suspend further payments to the contractor under such contract.
 
@@ -66,7 +66,7 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 (9) In this subsection, the term “remedy coordination official”, with respect to an executive agency, means the person or entity in that executive agency who coordinates within that executive agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(June 30, 1949, ch. 288, title III, §305, 63 Stat. 396; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Aug. 28, 1958, Pub. L. 85–800, §4, 72 Stat. 966; Oct. 13, 1994, Pub. L. 103–355, title II, §2051(a)–(e), 108 Stat. 3303, 3304; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(a)(4), 110 Stat. 671.)
+(June 30, 1949, ch. 288, title III, §305, 63 Stat. 396; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 85–800, §4, Aug. 28, 1958, 72 Stat. 966; Pub. L. 103–355, title II, §2051(a)–(e), Oct. 13, 1994, 108 Stat. 3303, 3304; Pub. L. 104–106, div. D, title XLIII, §4321(a)(4), Feb. 10, 1996, 110 Stat. 671.)
 
 #### References in Text
 

@@ -1,6 +1,6 @@
 ### §3414. Special procedures
 
-(a)(1) Nothing in this chapter (except sections 3415, 3417, 3418, and 3421 <sup>1</sup> of this title) shall applyto the production and disclosure of financial records pursuant to requests from—
+(a)(1) Nothing in this chapter (except sections 3415, 3417, 3418, and 3421 <sup>1</sup> of this title) shall apply to the production and disclosure of financial records pursuant to requests from—
 
 &emsp;(A) a Government authority authorized to conduct foreign counter- or foreign positive-intelligence activities for purposes of conducting such activities; or
 

@@ -24,7 +24,7 @@
 
 #### (b) Subsistence
 
-The minimum level of an allowance for subsistence required under section 4955(b)(2) of this title, to be provided to each volunteer under subchapter I of this chapter, may not be reduced or limited in order to provide for an increase in the number of volunteer service years under part A of subchapter I of this chapter.
+The minimum level of an allowance for subsistence required under section 4955(b)(2) of thistitle, to be provided to each volunteer under subchapter I of this chapter, may not be reduced or limited in order to provide for an increase in the number of volunteer service years under part A of subchapter I of this chapter.
 
 #### (c) Limitation
 
@@ -44,7 +44,7 @@ Amounts appropriated for part A of subchapter I of this chapter shall remain ava
 
 &emsp;If the Director determines that funds appropriated to carry out part A, B, or C of subchapter I of this chapter are insufficient to provide for the years of volunteer service required by paragraph (1), the Director shall submit a plan to the relevant authorizing and appropriations committees of Congress that will detail what is necessary to fully meet this requirement.
 
-(Pub. L. 93–113, title V, §501, Oct. 1, 1973, 87 Stat. 415; Pub. L. 94–293, §6(a), May 27, 1976, 90 Stat. 526; Pub. L. 96–143, §15(a), (b), Dec. 13, 1979, 93 Stat. 1082; Pub. L. 97–35, title VI, §607(a), Aug. 13, 1981, 95 Stat. 486; Pub. L. 98–288, §27(a), May 21, 1984, 98 Stat. 196; Pub. L. 99–551, §9(a), Oct. 27, 1986, 100 Stat. 3076; Pub. L. 99–570, title IV, §4301(2), Oct. 27, 1986, 100 Stat. 3207–153; Pub. L.100–690, title III, §3402, Nov. 18, 1988, 102 Stat. 4253; Pub. L. 101–204, title VIII, §§801, 802, Dec. 7, 1989, 103 Stat. 1823, 1824; Pub. L. 102–73, title VII, §701(b), July 25, 1991, 105 Stat. 359; Pub. L. 103–82, title III, §381, Sept. 21, 1993, 107 Stat. 913.)
+(Pub. L. 93–113, title V, §501, Oct. 1, 1973, 87 Stat. 415; Pub. L. 94–293, §6(a), May 27, 1976, 90 Stat. 526; Pub. L. 96–143, §15(a), (b), Dec. 13, 1979, 93 Stat. 1082; Pub. L. 97–35, title VI, §607(a), Aug. 13, 1981, 95 Stat. 486; Pub. L. 98–288, §27(a), May 21, 1984, 98 Stat. 196; Pub. L. 99–551, §9(a), Oct. 27, 1986, 100 Stat. 3076; Pub. L. 99–570, title IV, §4301(2), Oct. 27, 1986, 100 Stat. 3207–153; Pub. L. 100–690, title III, §3402, Nov. 18, 1988, 102 Stat. 4253; Pub. L. 101–204, title VIII, §§801, 802, Dec. 7, 1989, 103 Stat. 1823, 1824; Pub. L. 102–73, title VII, §701(b), July 25, 1991, 105 Stat. 359; Pub. L. 103–82, title III, §381, Sept. 21, 1993, 107 Stat. 913.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ Subsec. (d)(1). Pub. L. 99–551 added par. (1) and struck out former par. (1) w
 
 &emsp;“(C) 2,400 years of volunteer service in fiscal year 1986.”
 
-1984—Pub. L. 98–288 designated existing provisions as subsec. (a), substituted “There is authorized to be appropriated to carry out part A of subchapter I of this chapter $17,000,000 for fiscal year 1984, $20,000,000 for fiscal year 1985, and $25,000,000 for fiscal year 1986” for “There is authorized to be appropriated to carry out subchapter I of this chapter $25,763,000 for fiscal year 1982 and $15,391,000 for fiscal year 1983. Of the amounts appropriated under this section, not less than $16,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1982, and not less than $8,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1983”, and added subsecs. (b) to (e).
+1984—Pub. L. 98–288 designated existing provisions as subsec. (a), substituted “There is authorized to be appropriated to carry out part A of subchapter I of this chapter $17,000,000 for fiscal year 1984, $20,000,000 for fiscal year 1985, and $25,000,000 for fiscal year 1986” for “There is authorized to be appropriated to carry out subchapter I of this chapter $25,763,000 for fiscal year 1982 and $15,391,000 for fiscal year 1983. Of the amountsappropriated under this section, not less than $16,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1982, and not less than $8,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1983”, and added subsecs. (b) to (e).
 
 1981—Pub. L. 97–35 substituted provisions relating to authorization and availability of funds for fiscal years 1982 and 1983, for provisions relating to authorization and availability of funds for fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
 

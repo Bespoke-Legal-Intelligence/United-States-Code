@@ -22,3 +22,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 3862.
+

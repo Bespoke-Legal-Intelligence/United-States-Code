@@ -14,7 +14,7 @@ The requests and specifications referred to in subsection (a) of this section ar
 
 &emsp;(1) any request, under Article VII(1) of the Convention, that the Scientific Council consider and report on a question pertaining to the scientific basis for the management and conservation of fishery resources in waters under the jurisdiction of the United States within the Convention Area; and
 
-&emsp;(2) any specification, under Article VIII(2) of the Convention, of the terms of reference for the consideration of a question referred to theScientific Council pursuant to Article VII(1) of the Convention.
+&emsp;(2) any specification, under Article VIII(2) of the Convention, of the terms of reference for the consideration of a question referred to the Scientific Council pursuant to Article VII(1) of the Convention.
 
 (Pub. L. 104–43, title II, §203, Nov. 3, 1995, 109 Stat. 378.)
 

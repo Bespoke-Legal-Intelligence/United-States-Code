@@ -26,11 +26,11 @@ General Authority.—(1) The Secretary of Transportation may make grants and loa
 
 (b)
 
-Loans for Real Property Interests.—(1) The Secretary of Transportation may make loans under this section to State and local governmental authorities to acquire interests in real property for use on urban mass transportation systems as rights of way, station sites, and related purposes, including reconstruction, renovation, the net cost of property management, and relocation payments made under section 5324(a) of this title.
+Loans for Real Property Interests.—(1) The Secretary of Transportation may makeloans under this section to State and local governmental authorities to acquire interests in real property for use on urban mass transportation systems as rights of way, station sites, and related purposes, including reconstruction, renovation, the net cost of property management, and relocation payments made under section 5324(a) of this title.
 
 (2) The Secretary of Transportation may make a loan under paragraph (1) of this subsection for an approved project only after finding that the property reasonably is expected to be required for a mass transportation system and that it will be used for that system within a reasonable time.
 
-(3) An applicant for a loan under this subsection shall provide a copy of the application tothe planning agency for the community affected by the project at the same time the application is submitted to the Secretary of Transportation. If the planning agency submits comments to the Secretary not later than 30 days after the application is submitted, or, if the agency requests more time within those 30 days, within a period the Secretary establishes, the Secretary shall consider those comments before taking final action on the application.
+(3) An applicant for a loan under this subsection shall provide a copy of the application to the planning agency for the community affected by the project at the same time the application is submitted to the Secretary of Transportation. If the planning agency submits comments to the Secretary not later than 30 days after the application is submitted, or, if the agency requests more time within those 30 days, within a period the Secretary establishes, the Secretary shall consider those comments before taking final action on the application.
 
 (4) A loan agreement under this subsection shall provide that a capital project on the property will be started not later than 10 years after the fiscal year in which the agreement is made. If an interest in property acquired under this subsection is not used for the purpose for which it was acquired, an appraisal of the current value of the property or interest shall be made when a decision is made about the use. The decision shall be made within the 10-year period. Two-thirds of the increase in value shall be paid to the Secretary of Transportation for deposit in the Treasury as miscellaneous receipts.
 
@@ -90,7 +90,7 @@ Criteria for Grants and Loans for Fixed Guideway Systems.—(1) This subsection 
 
 &emsp;(ii) each proposed local source of capital and operating financing is stable, reliable, and available within the proposed project timetable; and
 
-&emsp;(iii) local resources are available to operate the overall proposed mass transportation system (including essential feeder bus and other services necessary to achieve the projected ridership levels) without requiring a reduction in existing mass transportation services to operate the proposed project.
+&emsp;(iii) local resources are available to operate the overall proposed mass transportation system (including essential feeder bus and otherservices necessary to achieve the projected ridership levels) without requiring a reduction in existing mass transportation services to operate the proposed project.
 
 (D) In assessing the stability, reliability, and availability of proposed sources of local financing, the Secretary of Transportation shall consider—
 
@@ -100,7 +100,7 @@ Criteria for Grants and Loans for Fixed Guideway Systems.—(1) This subsection 
 
 &emsp;(iii) any debt obligation that exists or is proposed by the recipient for the proposed project or other mass transportation purpose.
 
-(5) A proposed project may advance from alternatives analysis to preliminary engineering onlyif the Secretary of Transportation finds that the project meets the requirements of this section and there is a reasonable chance that the project will continue to meet the requirements at the end of preliminary engineering.
+(5) A proposed project may advance from alternatives analysis to preliminary engineering only if the Secretary of Transportation finds that the project meets the requirements of this section and there is a reasonable chance that the project will continue to meet the requirements at the end of preliminary engineering.
 
 (6)(A) A new fixed guideway system or extension of an existing fixed guideway system is not subject to the requirements of this subsection, and the simultaneous evaluation of similar projects in at least 2 corridors in a metropolitan area may not be limited, if—
 
@@ -150,7 +150,7 @@ Letters of Intent, Full Financing Grant Agreements, and Early Systems Work Agree
 
 &emsp;(iv) make timely and efficient management of the project easier according to the law of the United States.
 
-(B) An agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law. The agreement shall state that the contingent commitment is not an obligation of the Government. Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full financing grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary of Transportation, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. The amount stipulated in an agreement under this paragraph for a fixed guideway project shall be sufficient to complete at least an operable segment.
+(B) An agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law. The agreement shall state that the contingent commitment is not an obligation of the Government. Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full financing grant agreement,except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary of Transportation, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. The amount stipulated in an agreement under this paragraph for a fixed guideway project shall be sufficient to complete at least an operable segment.
 
 (3)(A) The Secretary of Transportation may make an early systems work agreement with an applicant if a record of decision under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) has been issued on the project and the Secretary finds there is reason to believe—
 
@@ -188,7 +188,7 @@ Fiscal Capacity Considerations.—If the Secretary of Transportation gives prior
 
 (m)
 
-Allocating Amounts.—(1) Of the amounts available for grants and loans under this section for each of the fiscal years ending September 30, 1993–1997—
+Allocating Amounts.—(1) Of the amounts available for grants and loans under this section for each of the fiscal years ending September 30, 1993–1997, and for the period of October 1, 1997, through March 31, 1998—
 
 &emsp;(A) 40 percent is available for rail fixed guideway modernization;
 
@@ -198,7 +198,7 @@ Allocating Amounts.—(1) Of the amounts available for grants and loans under th
 
 (2) At least 5.5 percent of the amounts available in each fiscal year under paragraph (1)(C) of this subsection is available for areas other than urbanized areas.
 
-(3) Not later than January 20 of each year, the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a proposal on the allocation of amounts to be made available to finance grants and loans for capital projects for newfixed guideway systems and extensions to existing fixed guideway systems among applicants for those amounts.
+(3) Not later than January 20 of each year, the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a proposal on the allocation of amounts to be made available to finance grants and loans for capital projects for new fixed guideway systems and extensions to existing fixed guideway systems among applicants for those amounts.
 
 (4) A person applying for, or receiving, assistance for a project described in clause (A), (B), or (C) of paragraph (1) of this subsection may receive assistance for a project described in another of those clauses.
 
@@ -220,7 +220,7 @@ Undertaking Projects in Advance.—(1) The Secretary of Transportation may pay t
 
 Use of Deobligated Amounts.—An amount available under this section that is deobligated may be used for any purpose under this section.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559.)
 
 Historical and Revision Notes
 
@@ -284,7 +284,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(a)(5); added Jan. 6, 1983, Pub
 
 5309(d)
 
-49 App.:1602(a) (2)(A).
+49 App.:1602(a)(2)(A).
 
 July 9, 1964, Pub. L. 88–365, §3(a)(2)(A), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, §2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§102, 104, 106, 88 Stat. 1566, 1571, 1572; Nov. 6, 1978, Pub. L. 95–599, §302(a), 92 Stat. 2736; Jan. 6, 1983, Pub. L. 97–424, §304(a), 96 Stat. 2149; restated Apr. 2, 1987, Pub. L. 100–17, §309(e), 101 Stat. 227.
 
@@ -412,7 +412,7 @@ In subsection (g)(2)(A)(i), the words “and conditions” are omitted as being 
 
 In subsection (g)(4), the word “issued” is omitted as surplus. The text of 49 App.:1602(a)(4)(E) (3d sentence) is omitted as executed. The text of 49 App.:1602(a)(4)(E) (4th and last sentences) is omitted as obsolete.
 
-In subsection (h), the words “nature and extent of” are omitted as surplus. The words “net project cost” are substituted for “what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called ‘net project cost’ ” because of the definition of “net project cost” in section 5302(a) of the revised title. The words “Except as provided in paragraph (2) of this subsection” are added for clarity. The words “Such remainder may be provided in whole or in part from other than public sources and any public or private”, “solely”, and “at any time” are omitted as surplus. The words “shall be deemed” are omitted as unnecessary since the text is a statement of a legal conclusion.
+In subsection (h), the words “nature and extent of” are omitted as surplus. The words “net project cost”are substituted for “what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called ‘net project cost’ ” because of the definition of “net project cost” in section 5302(a) of the revised title. The words “Except as provided in paragraph (2) of this subsection” are added for clarity. The words “Such remainder may be provided in whole or in part from other than public sources and any public or private”, “solely”, and “at any time” are omitted as surplus. The words “shall be deemed” are omitted as unnecessary since the text is a statement of a legal conclusion.
 
 In subsection (i), before clause (1), the words “Except for a loan under subsection (b) of this section” are added for clarity. The words “made under this section” and “at a rate” are omitted as surplus. In clause (1), the word “market” is omitted as surplus. In clause (2), the words “under the program” are omitted as surplus.
 
@@ -451,6 +451,8 @@ Subsection (a)(5) of this section, referred to in subsec. (f)(1), (2), was redes
 The National Environmental Policy Act of 1969, referred to in subsec. (g)(3)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+1997—Subsec. (m)(1). Pub. L. 102–240, §3049(a), as added by Pub. L. 105–130, inserted “, and for the period of October 1, 1997, through March 31, 1998” after “1997”.
 
 1996—Subsec. (a). Pub. L. 104–287, §5(12)(A), designated existing provisions as par. (1), redesignated former pars. (1) to (7) as subpars. (A) to (G) of par. (1), respectively, and former subpars. (A) and (B) of par. (5) as subcls. (i) and (ii) of subpar. (E), respectively, and added par. (2).
 

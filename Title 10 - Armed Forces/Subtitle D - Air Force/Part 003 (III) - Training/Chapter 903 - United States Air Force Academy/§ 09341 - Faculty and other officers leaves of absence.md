@@ -1,6 +1,6 @@
 ### §9341. Faculty and other officers: leaves of absence
 
-The Superintendent of the Academy may grant a leave of absence for the period of the suspension of the ordinary academic studies, without deduction of pay or allowances, to aprofessor, assistant professor, instructor, or other officer of the Academy.
+The Superintendent of the Academy may grant a leave of absence for the period of the suspension of the ordinary academic studies, without deduction of pay or allowances, to a professor, assistant professor, instructor, or other officer of the Academy.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 563.)
 

@@ -24,21 +24,33 @@ Covered Institutions.—This section applies with respect to the following insti
 
 (d)
 
-Application to Faculty Members at NDU.—(1) In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
-
-(2) For purposes of this section, the National Defense University includes the National War College, the Armed Forces Staff College, the Institute for National Strategic Study, and the Industrial College of the Armed Forces.
+Application to Faculty Members at NDU.—In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
 
 (e)
 
-Application to Director and Deputy Director at George C. Marshall Center.—In the case of the George C. Marshall European Center for Security Studies, this section also applies with respect to the Director and the Deputy Director.
+Applicability to Director and Deputy Director at Certain Institutions.—In addition to the persons specified in subsection (a), this section also applies with respect to the Director and the Deputy Director of the following:
 
-(f)
+&emsp;(1) The George C. Marshall European Center for Security Studies.
 
-Application to Director and Deputy Director at Asia-Pacific Center for Security Studies.—In the case of the Asia-Pacific Center for Security Studies, this section also applies with respect to the Director and the Deputy Director.
+&emsp;(2) The Asia-Pacific Center for Security Studies.
 
-(Added Pub. L. 101–189, div. A, title XI, §1124(a)(1), Nov. 29, 1989, 103 Stat. 1558; amended Pub. L. 102–25, title VII, §701(h)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title IX, §911, Dec. 5, 1991, 105 Stat. 1452; Pub. L. 102–484, div. A, title IX, §923(a)(1), (2)(A), Oct. 23, 1992, 106 Stat. 2474; Pub. L. 103–160, div. A, title IX, §923(a)(1), Nov. 30, 1993, 107 Stat. 1731; Pub. L. 104–201, div. A, title XVI, §1607, Sept. 23, 1996, 110 Stat. 2737.)
+&emsp;(3) The Center for Hemispheric Defense Studies.
+
+(Added Pub. L. 101–189, div. A, title XI, §1124(a)(1), Nov. 29, 1989, 103 Stat. 1558; amended Pub. L. 102–25, title VII, §701(h)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title IX, §911, Dec. 5, 1991, 105 Stat. 1452; Pub. L. 102–484, div. A, title IX, §923(a)(1), (2)(A), Oct. 23, 1992, 106 Stat. 2474; Pub. L. 103–160, div. A, title IX, §923(a)(1), Nov. 30, 1993, 107 Stat. 1731; Pub. L. 104–201, div. A, title XVI, §1607, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title IX, §§921(c), 922(b), Nov. 18, 1997, 111 Stat. 1863.)
 
 #### Amendments
+
+1997—Subsec. (d). Pub. L. 105–85, §921(c), struck out “(1)” before “In the case of” and struck out par. (2) which read as follows: “For purposes of this section, the National Defense University includes the National War College, the Armed Forces Staff College, the Institute for National Strategic Study, and the Industrial College of the Armed Forces.”
+
+Subsecs. (e), (f). Pub. L. 105–85, §922(b), added subsec. (e) and struck out former subsecs. (e) and (f) which read as follows:
+
+“(e)
+
+Application to Director and Deputy Director at George C. Marshall Center.—In the case of the George C. Marshall European Center for Security Studies, this section also applies with respect to the Director and the Deputy Director.
+
+“(f)
+
+Application to Director and Deputy Director at Asia-Pacific Center for Security Studies.—In the case of the Asia-Pacific Center for Security Studies, this section also applies with respect to the Director and the Deputy Director.”
 
 1996—Subsec. (c)(4), (5). Pub. L. 104–201, §1607(a), added pars. (4) and (5).
 

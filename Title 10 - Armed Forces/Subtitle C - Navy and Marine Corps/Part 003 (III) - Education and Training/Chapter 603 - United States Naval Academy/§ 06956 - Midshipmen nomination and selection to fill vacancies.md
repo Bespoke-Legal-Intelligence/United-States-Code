@@ -14,7 +14,7 @@
 
 (c) The failure of a member of a graduating class to complete the course with his class does not delay the appointment of his successor.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 430; Mar. 3, 1964, Pub. L. 88–276, §3, 78 Stat. 151; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Nov. 29, 1973, Pub. L. 93–171, §2(4), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(2), 89 Stat. 538; Oct. 14, 1981, Pub. L. 97–60, title II, §206, 95 Stat. 1007; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(b)(2), title XIII, §1322(a)(14), 104 Stat. 1563, 1671.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 430; Mar. 3, 1964, Pub. L. 88–276, §3, 78 Stat. 151; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Nov. 29, 1973, Pub. L.93–171, §2(4), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(2), 89 Stat. 538; Oct. 14, 1981, Pub. L. 97–60, title II, §206, 95 Stat. 1007; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(b)(2), title XIII, §1322(a)(14), 104 Stat. 1563, 1671.)
 
 Historical and Revision Notes
 

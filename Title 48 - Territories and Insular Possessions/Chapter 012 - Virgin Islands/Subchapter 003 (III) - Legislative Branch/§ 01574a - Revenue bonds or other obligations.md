@@ -12,7 +12,11 @@ The legislature of the government of the Virgin Islands may provide, in connecti
 
 Except to the extent inconsistent with the provisions of this Act, the provisions of section 1574(b)(ii) of this title (other than the limitation contained in the proviso to the first sentence of subparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a) of this section.
 
-(Pub. L. 94–392, §1, Aug. 19, 1976, 90 Stat. 1193.)
+#### (d) Short term borrowing
+
+The legislature of the Government of the Virgin Islands may cause to be issued notes in anticipation of the collection of the taxes and revenues for the current fiscal year. Such notes shall mature and be paid within one year from the date they are issued. No extension of such notes shall be valid and no additional notes shall be issued under this section until all notes issued during a preceding year shall have been paid.
+
+(Pub. L. 94–392, §1, Aug. 19, 1976, 90 Stat. 1193; Pub. L. 105–83, title I, §124(c), Nov. 14, 1997, 111 Stat. 1567.)
 
 #### References in Text
 
@@ -23,6 +27,10 @@ This Act, referred to in subsec. (c), is Pub. L. 94–392, Aug. 19, 1976, 90 Sta
 In subsec. (a), “section 7652(b)(3) of title 26” substituted for “section 28(b) of such Act (26 U.S.C. 7652)”, meaning section 28(b) of the Revised Organic Act of the Virgin Islands (68 Stat. 508), which was classified to section 3350(c) of former Title 26, Internal Revenue Code, on authority of section 7852(b) of Title 26, Internal Revenue Code, which provided that any reference in any other law to a provision of the Internal Revenue Code of 1939 shall be deemed a reference to the corresponding provision of the Internal Revenue Code of 1986.
 
 Section was not enacted as part of the Revised Organic Act of the Virgin Islands which comprises this chapter.
+
+#### Amendments
+
+1997—Subsec. (d). Pub. L. 105–83 added subsec. (d).
 
 #### Authorization of Appropriations
 

@@ -148,7 +148,7 @@ Pub. L. 100–238, title I, §124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, a
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8440a, 8440d, 8901 of this title; title 2 section 92; title 10 section 942; title 20 section 4416; title 22 sections 3951, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 797; title 31 section 772; title 38 sections 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 10704; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157.
+This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8440a, 8440d, 8901 of this title; title 2 section 92; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3951, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 753, 797; title 31 section 772; title 38 sections 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 7237, 10704; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157.
 
 
 ---

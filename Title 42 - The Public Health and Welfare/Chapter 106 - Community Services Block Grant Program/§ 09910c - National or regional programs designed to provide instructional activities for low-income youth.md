@@ -20,7 +20,7 @@ The Secretary of Health and Human Services is authorized to make a grant to an e
 
 #### (c) Eligible providers
 
-A national private nonprofit organization, a coalition of such organizations, or a private nonprofit organization applying jointly with a business concern shall be eligible for a grant under this subsection if—
+A national private nonprofit organization, a coalition of such organizations, or a privatenonprofit organization applying jointly with a business concern shall be eligible for a grant under this subsection if—
 
 &emsp;(1) the applicant has demonstrated experience in operating a program providing instruction to low-income youth;
 

@@ -42,7 +42,7 @@ Pub. L. 101–189, §413(a)(1), in table, increased fiscal year limitation on nu
 
 Pub. L. 100–180, §413(a)(1), in table, increased fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 175 and 390 from 165 and 381, respectively; Air Force, to 125 and 425 from 80 and 358, respectively; Marine Corps, to 13 and 74 from 9 and 74, respectively. Army figures remained unchanged.
 
-1985—Subsec. (b). Pub. L. 99–145 in table, changed fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reservecomponents of the armed forces: Navy, to 165 and 381 from 156 and 381, respectively; Air Force, to 80 and 358 from 87 and 455, respectively. Army and Marine Corps figures remained unchanged.
+1985—Subsec. (b). Pub. L. 99–145 in table, changed fiscal year limitation on number of enlisted men in pay grades E–8 and E–9 on active duty affecting reserve components of the armed forces: Navy, to 165 and 381 from 156 and 381, respectively; Air Force, to 80 and 358 from 87 and 455, respectively. Army and Marine Corps figures remained unchanged.
 
 1984—Subsec. (b). Pub. L. 98–525, §414(a)(2), inserted “(other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training)” and substituted “or the National Guard” for “of the armed forces” and “for that grade and armed force” for “prescribed for the grade and the armed force”.
 

@@ -10,7 +10,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;Except as otherwise provided in this subsection with respect to individuals who use wheelchairs, it shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchase or lease any new rail passenger cars for use in intercity rail transportation, and for which a solicitation is made later than 30 days after July 26, 1990, unless all such rail cars are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+&emsp;&emsp;Except as otherwise provided in this subsection with respect to individuals who use wheelchairs, it shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchase or lease any new rail passenger cars for use in intercity rail transportation,and for which a solicitation is made later than 30 days after July 26, 1990, unless all such rail cars are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (B) Special rule for single-level passenger coaches for individuals who use wheelchairs
 

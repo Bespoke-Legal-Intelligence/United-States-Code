@@ -54,11 +54,11 @@
 
 &emsp;&emsp;(II) is postmarked fewer than 90 days immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member or Member-elect is a candidate for any other public office.
 
-(B) Any mass mailing which is mailed by the chairman of any organization referred to in the last sentence of section 3215 of this title which relates to the normal and regular business of theorganization may be mailed without regard to the provisions of this paragraph.
+(B) Any mass mailing which is mailed by the chairman of any organization referred to in the last sentence of section 3215 of this title which relates to the normal and regular business of the organization may be mailed without regard to the provisions of this paragraph.
 
 (C) No Member of the Senate may mail any mass mailing as franked mail if such mass mailing is postmarked fewer than 60 days immediately before the date of any primary election or general election (whether regular, special, or runoff) for any national, State or local office in which such Member is a candidate for election.
 
-(D) The Select Committee on Ethics of the Senate and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations, and shall take other action as the Committee or the Commission considers necessary and proper for Members and Members-elect to comply with the provisions of this paragraph and applicable rules and regulations. The rules and regulations shall include provisions prescribing the time within which mailings shall be mailed at or delivered to any postal facility and the time when the mailings shall be deemed to have been mailed or delivered to comply with the provisions of this paragraph.
+(D) The Select Committee on Ethics of the Senate and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations,and shall take other action as the Committee or the Commission considers necessary and proper for Members and Members-elect to comply with the provisions of this paragraph and applicable rules and regulations. The rules and regulations shall include provisions prescribing the time within which mailings shall be mailed at or delivered to any postal facility and the time when the mailings shall be deemed to have been mailed or delivered to comply with the provisions of this paragraph.
 
 (E) As used in this section, the term “mass mailing” means, with respect to a session of Congress, any mailing of newsletters or other pieces of mail with substantially identical content (whether such mail is deposited singly or in bulk, or at the same time or different times), totaling more than 500 pieces in that session, except that such term does not include any mailing—
 
@@ -160,7 +160,7 @@ Subsecs. (f), (g). Pub. L. 97–69, §4(b), added subsec. (f) and redesignated f
 
 1978—Subsec. (b)(1), (2). Pub. L. 95–521 inserted reference to Senate Legal Counsel.
 
-1975—Subsec. (b)(1). Pub. L. 94–177, §1(a), struck out “and” before “each of the elected officers”, and “untilthe 1st day of April following the expiration of their respective terms of office” after “(other than a Member of the House)”.
+1975—Subsec. (b)(1). Pub. L. 94–177, §1(a), struck out “and” before “each of the elected officers”, and “until the 1st day of April following the expiration of their respective terms of office” after “(other than a Member of the House)”.
 
 Subsec. (b)(3). Pub. L. 94–177, §1(b), added par. (3).
 

@@ -4,7 +4,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(1) “teaching position” means those duties and responsibilities which—
 
-&emsp;&emsp;(A) are performed on a school-year basis principally in a school operated by the Department of Defense in an overseas area for dependents of members of the Armed Forces and dependents of civilian employees of the Department of Defense,,<sup>1</sup> or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense <sup>1</sup> and
+&emsp;&emsp;(A) are performed on a school-year basis principally in a school operated by the Department of Defense in an overseas area for dependents of members of the Armed Forces and dependents of civilian employees of the Department of Defense, or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense; and
 
 &emsp;&emsp;(B) involve—
 
@@ -26,7 +26,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(4) “United States”, when used in a geographical sense, means the several States of the United States of America, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, the Canal Zone, and the possessions of the United States (excluding the Trust Territory of the Pacific Islands and Midway Islands).
 
-(Pub. L. 86–91, §2, July 17, 1959, 73 Stat. 213; Pub. L. 104–201, div. A, title XVI, §1606(a), Sept. 23, 1996, 110 Stat. 2736.)
+(Pub. L. 86–91, §2, July 17, 1959, 73 Stat. 213; Pub. L. 104–201, div. A, title XVI, §1606(a), Sept. 23, 1996, 110 Stat. 2736; Pub. L. 105–85, div. A, title X, §1073(c)(9)(A), Nov. 18, 1997, 111 Stat. 1904.)
 
 #### References in Text
 
@@ -38,9 +38,15 @@ Section was formerly classified to section 2351 of Title 5 prior to the general 
 
 #### Amendments
 
-1996—Par. (1)(A). Pub. L. 104–201, §1606(a)(1), inserted “, or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense” after “Defense,”.
+1997—Par. (1)(A). Pub. L. 105–85 made technical corrections to Pub. L. 104–201, §1606(a)(1). See 1996 Amendment note below.
+
+1996—Par. (1)(A). Pub. L. 104–201, §1606(a)(1), as amended by Pub. L. 105–85, inserted “or are performed by an individual who carried out certain teaching activities identified in regulations prescribed by the Secretary of Defense;” after “Defense,”.
 
 Par. (2)(C). Pub. L. 104–201, §1606(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “whose services are required on a school-year basis in a teaching position.”
+
+#### Effective Date of 1997 Amendment
+
+Section 1073(c) of Pub. L. 105–85 provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 #### Short Title
 
@@ -53,6 +59,4 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 sections 5102, 5334, 5541, 6301, 8331, 8701.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Defense,”.</i>
 

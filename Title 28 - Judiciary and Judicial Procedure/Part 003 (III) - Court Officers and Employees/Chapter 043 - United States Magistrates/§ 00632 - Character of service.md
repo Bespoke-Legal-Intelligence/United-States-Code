@@ -4,11 +4,11 @@
 
 (b) Part-time United States magistrates shall render such service as judicial officers as is required by law. While so serving they may engage in the practice of law, but may not serve as counsel in any criminal action in any court of the United States, nor act in any capacity that is, under such regulations as the conference may establish, inconsistent with the proper discharge of their office. Within such restrictions, they may engage in any other business, occupation, or employment which is not inconsistent with the expeditious, proper, and impartial performance of their duties as judicial officers.
 
-(June 25, 1948, ch. 646, 62 Stat. 916; Oct. 17, 1968, Pub. L. 90–578, title I, §101, 82 Stat. 1110.)
+(June 25, 1948, ch. 646, 62 Stat. 916; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1110.)
 
 #### Amendments
 
-1968—Pub. L. 90–578 substituted provisions as to character of service of full-time and part-time United States magistrates for former provisions prescribing jurisdiction and powers of national park commissioners and practice and procedure before such officers. See section 636 of this title.
+<b>1968</b>—Pub. L. 90–578 substituted provisions as to character of service of full-time and part-time United States magistrates for former provisions prescribing jurisdiction and powers of national park commissioners and practice and procedure before such officers. See section 636 of this title.
 
 #### Change of Name
 

@@ -4,7 +4,7 @@ Wyoming and those portions of Yellowstone National Park situated in Montana and 
 
 &emsp;&emsp;Court shall be held at Casper, Cheyenne, Evanston, Lander, Jackson, and Sheridan.
 
-(June 25, 1948, ch. 646, 62 Stat. 895; July 10, 1984, Pub. L. 98–353, title II, §203(a), 98 Stat. 350.)
+(June 25, 1948, ch. 646, 62 Stat. 895; Pub. L. 98–353, title II, §203(a), July 10, 1984, 98 Stat. 350.)
 
 #### Historical and Revision Notes
 
@@ -18,5 +18,5 @@ Provisions of section 196 of title 28, U.S.C., 1940 ed., for appointment of depu
 
 #### Amendments
 
-1984—Pub. L. 98–353 provided for holding court at Jackson.
+<b>1984</b>—Pub. L. 98–353 provided for holding court at Jackson.
 

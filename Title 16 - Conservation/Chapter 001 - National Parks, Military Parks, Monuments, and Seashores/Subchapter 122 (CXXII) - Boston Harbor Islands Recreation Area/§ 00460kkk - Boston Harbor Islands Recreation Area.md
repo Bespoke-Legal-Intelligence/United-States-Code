@@ -60,7 +60,7 @@ For the purposes of this section—
 
 #### (6) Relationship of recreation area to Boston-Logan International Airport
 
-&emsp;With respect to the recreation area, the present and future maintenance, operation,improvement and use of Boston-Logan International Airport and associated flight patterns from time to time in effect shall not be deemed to constitute the use of publicly owned land of a public park, recreation area, or other resource within the meaning of section 303(c) of title 49, and shall not be deemed to have a significant effect on natural, scenic, and recreation assets within the meaning of section 47101(h)(2) of title 49.
+&emsp;With respect to the recreation area, the present and future maintenance, operation, improvement and use of Boston-Logan International Airport and associated flight patterns from time to time in effect shall not be deemed to constitute the use of publicly owned land of a public park, recreation area, or other resource within the meaning of section 303(c) of title 49, and shall not be deemed to have a significant effect on natural, scenic, and recreation assets within the meaning of section 47101(h)(2) of title 49.
 
 #### (7) Management in accordance with integrated management plan
 
@@ -132,7 +132,7 @@ For the purposes of this section—
 
 #### (10) Hearings
 
-&emsp;The Partnership may hold such hearings, sit and act at such times and places, take suchtestimony, and receive such evidence as the Partnership may deem appropriate.
+&emsp;The Partnership may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Partnership may deem appropriate.
 
 #### (11) Donations
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Administrator; terms; vesting of title; application of installment payments to purchase price; procedures; report of negotiations to Congressional committees; solicitation of proposals
 
-Whenever the Administrator of General Services determines that the best interests of the United States will be served by taking action hereunder, he is authorized to provide space by entering into purchase contracts, the terms of which shall not be more than thirty years and which shall provide in each case that title to the property shall vest in the United States at or before the expiration of the contract term and upon fulfillment of the terms and conditions stipulated in each of such purchase contracts. Such terms and conditions shall include provision for the application to the purchase price agreed upon therein of installment payments made thereunder. Each purchase contract authorized by this section shall be entered into pursuant to the provisions of title III of the Federal Property and Administrative Services Act of 1949, as amended \[41 U.S.C. 251 et seq.\]. If any such contract is negotiated, the determination and findings supporting such negotiation shall be promptly reported in writing to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives. Proposals for purchase contracts shall be solicited from the maximum number of qualified sources consistent with the nature and requirements of the facility to be procured.
+Whenever the Administrator of General Services determines that the best interests of the United States will be served by taking action hereunder, he is authorized to provide space by entering into purchase contracts, the terms of which shall not be more than thirty years and which shall provide in each case that title to the property shall vest in the United States at or before the expiration of the contract term and upon fulfillment of the terms and conditions stipulated in each of such purchase contracts. Such terms and conditions shall include provision for the application to the purchase priceagreed upon therein of installment payments made thereunder. Each purchase contract authorized by this section shall be entered into pursuant to the provisions of title III of the Federal Property and Administrative Services Act of 1949, as amended \[41 U.S.C. 251 et seq.\]. If any such contract is negotiated, the determination and findings supporting such negotiation shall be promptly reported in writing to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives. Proposals for purchase contracts shall be solicited from the maximum number of qualified sources consistent with the nature and requirements of the facility to be procured.
 
 #### (b) Contract provisions; limitations on amount of payments
 
@@ -44,7 +44,7 @@ No space shall be provided pursuant to this section until after the expiration o
 
 The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 393, as amended. Title III of the Federal Property and Administrative Services Act of 1949 is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 
-This chapter, referred to in subsec. (e), was in the original “the Public Buildings Act of 1959, as amended (40 U.S.C. 601 et seq.)”, meaning Pub. L. 86–249. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+This chapter, referred to in subsec. (e), was in the original “the Public Buildings Act of 1959, as amended\(40 U.S.C. 601 et seq.)”, meaning Pub. L. 86–249. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 #### Codification
 
@@ -65,4 +65,8 @@ Section effective June 16, 1972, see section 11 of Pub. L. 92–313, set out as 
 #### Issuance of Regulations Pursuant to Public Buildings Amendments of 1972; Approval of Rates for Space and Services Furnished
 
 Administrator to issue and coordinate regulations with Office of Management and Budget and Director of such Office to approve rates for space and services furnished, see section 7 of Pub. L. 92–313, set out as a note under section 603 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 490i of this title.
 

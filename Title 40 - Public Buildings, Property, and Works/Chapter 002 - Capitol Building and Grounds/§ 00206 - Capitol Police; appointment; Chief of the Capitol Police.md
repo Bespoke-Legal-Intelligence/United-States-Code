@@ -1,8 +1,8 @@
 ### §206. Capitol Police; appointment; Chief of the Capitol Police
 
-There shall be a Capitol police. There shall be a captain of the Capitol police and such other members with such rates of compensation, respectively, as may be appropriated for by Congress from year to year. The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives. The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.
+There shall be a Capitol police. There shall be a captain of the Capitol police and such other members with such rates of compensation, respectively, as may be appropriated for by Congress from year to year. The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Armsof the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives. The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.
 
-(R.S. §1821; Apr. 28, 1902, ch. 594, 32 Stat. 124; June 28, 1943, ch. 173, title I, 57 Stat. 230; Dec. 20, 1979, Pub. L. 96–152, §1(a), 93 Stat. 1099.)
+(R.S. §1821; Apr. 28, 1902, ch. 594, 32 Stat. 124; June 28, 1943, ch. 173, title I, 57 Stat. 230; Pub. L. 96–152, §1(a), Dec. 20, 1979, 93 Stat. 1099.)
 
 #### Codification
 
@@ -138,7 +138,7 @@ July 1, 1946, ch. 530, 60 Stat. 395.
 
 #### Capitol Police Civilian Support Positions With Respect to the House of Representatives
 
-House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended by Pub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight to prescribe regulations to carry out this provision.
+House Resolution No. 199, One Hundred Second Congress, Aug. 1, 1991, made permanent law Pub. L. 102–392, title I, §102, Oct. 6, 1992, 106 Stat. 1710, and amended byPub. L. 104–186, title II, §221(9)(B), Aug. 20, 1996, 110 Stat. 1749, authorized Committee on House Oversight of the House of Representatives to establish 114 civilian support positions for the Capitol Police, provided for functions, compensation, and classification of positions, provided procedures for appointments to positions and that as each position was filled there would be abolished one position of private on Capitol Police, provided that positions would be filled by individuals in Capitol Police positions so abolished, that all positions would be filled by the end of the One Hundred Second Congress, and that at least 50 of such positions would be filled not later than the end of the first session of such Congress, and authorized Committee on House Oversight to prescribe regulations to carry out this provision.
 
 #### Director of Employment Practices Under Capitol Police Board
 

@@ -142,5 +142,3 @@ This chapter is referred to in sections 321, 392 of this title; title 7 sections
 - [Subchapter 003 (III) - Federal and State Cooperation](Subchapter%20003%20%28III%29%20-%20Federal%20and%20State%20Cooperation/README.md)
 - [Subchapter 004 (IV) - Auxiliary Provisions](Subchapter%20004%20%28IV%29%20-%20Auxiliary%20Provisions/README.md)
 - [Subchapter 005 (V) - Miscellaneous Provisions](Subchapter%20005%20%28V%29%20-%20Miscellaneous%20Provisions/README.md)
-- [Subchapter 001 (I) - Control and Enforcement](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/README.md)
-- [Subchapter 002 (II) - Import and Export](Subchapter%20002%20%28II%29%20-%20Import%20and%20Export/README.md)

@@ -16,7 +16,7 @@ Section 910, Pub. L. 93–203, title IV, §434, as added Pub. L. 95–524, §2, 
 
 Provisions similar to those comprising this section were contained in former section 894c of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 911, Pub. L. 93–203, title IV, §435, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1985, related toeligible participants for youth employment and training programs.
+Section 911, Pub. L. 93–203, title IV, §435, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1985, related to eligible participants for youth employment and training programs.
 
 A prior section 911, Pub. L. 93–203, title IV, §401, Dec. 28, 1973, 87 Stat. 863, provided for a congressional statement of purpose with regard to the Job Corps, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

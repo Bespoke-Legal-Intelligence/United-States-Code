@@ -6,7 +6,7 @@
 
 (2) No corporation, firm, or individual may be employed under the authority of paragraph (1) of this subsection on a permanent basis.
 
-(c) Notwithstanding any other provision of this section, the Secretary shall be responsible for all construction authorized under this subchapter, including the interpretation of construction contracts, the approval of materials and workmanship supplied pursuant to a construction contract, approval of changes in the construction contract, certification of vouchers for payments due the contractor, and final settlement of the contract.
+(c) Notwithstanding any other provision of this section, the Secretary shall be responsible for all construction authorized under this subchapter, including the interpretation of construction contracts, the approval of materials and workmanship supplied pursuant to a construction contract, approval of changes in the construction contract, certification of vouchersfor payments due the contractor, and final settlement of the contract.
 
 (Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 58, §5006; renumbered §8106, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 

@@ -30,7 +30,7 @@ Recipients of Payments.—In the case of any individual described in subsection 
 
 &emsp;(1) If the individual was married at the time of the commission of the dependent-abuse offense resulting in the separation, such compensation shall (except as otherwise provided in this subsection) be paid to the spouse or former spouse to whom the individual was married at that time.
 
-&emsp;(2) If there is a spouse or former spouse who (but for subsection (g)) would be eligible for compensation under this section and if there is a dependent child of the individual described in subsection (b) who does not reside in the same household as that spouse or former spouse, such compensation shall be paid to each such dependent child of the individual described in subsection (b) who does not reside in that household.
+&emsp;(2) If there is a spouse or former spouse who (but for subsection (g)) would be eligible for compensation under this section and if there is a dependent child of the individual describedin subsection (b) who does not reside in the same household as that spouse or former spouse, such compensation shall be paid to each such dependent child of the individual described in subsection (b) who does not reside in that household.
 
 &emsp;(3) If there is no spouse or former spouse who is (or but for subsection (g) would be) eligible under paragraph (1), such compensation shall be paid to the dependent children of the individual described in subsection (b).
 
@@ -40,7 +40,7 @@ Recipients of Payments.—In the case of any individual described in subsection 
 
 Commencement and Duration of Payment.—(1) Payment of transitional compensation under this section—
 
-&emsp;(A) in the case of a member convicted by a court-martial for a dependent-abuse offense,shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
+&emsp;(A) in the case of a member convicted by a court-martial for a dependent-abuse offense, shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
 
 &emsp;(B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 

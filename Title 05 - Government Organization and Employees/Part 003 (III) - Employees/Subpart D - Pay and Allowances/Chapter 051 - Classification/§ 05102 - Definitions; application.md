@@ -196,7 +196,7 @@ July 25, 1958, Pub. L. 85–550, §16(a), (b)(1), 72 Stat. 411.
 
 &nbsp;
 
-Sept. 2, 1958, Pub. L. 85–857, §13(o), 72 Stat. 1266.
+Sept. 2, 1958, Pub. L. 85–857, §13(<i>o</i>), 72 Stat. 1266.
 
 &nbsp;
 
@@ -300,7 +300,7 @@ Pub. L. 104–201, §1122(a)(1), substituted “National Imagery and Mapping Age
 
 Subsec. (c)(12). Pub. L. 104–201, §3548(a)(2)(B), struck out par. (12) which read as follows: “any Executive agency to the extent of any election under section 1212(b)(2) (relating to the Panama Canal Employment System) of the Panama Canal Act of 1979;”.
 
-1994—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end which could not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
+1994—Subsec. (a)(1)(ix) to (xi). Pub. L. 103–359 directed the amendment of cl. (ix) by striking “or” at end whichcould not be executed because par. (1) does not contain a cl. (ix), directed the substitution of “; or” for period at end of cl. (x) which was executed by inserting “or” at end of cl. (x) to reflect the probable intent of Congress because a semicolon already exists at end of cl. (x), and added cl. (xi).
 
 Subsec. (c)(3). Pub. L. 103–446 struck out comma after “Department of Veterans Affairs”.
 

@@ -6,7 +6,7 @@ The Administrator and the Secretary shall promptly initiate and carry out a prog
 
 #### (b) Time for determination, prescription and publishing of interim performance criteria; selection of designs for suitable dwellings
 
-(1) Within 120 days after September 3, 1974, the Secretary, utilizing the services of the Directorof the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy, shall determine, prescribe, and publish—
+(1) Within 120 days after September 3, 1974, the Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy, shall determine, prescribe, and publish—
 
 &emsp;(A) interim performance criteria for solar heating components and systems to be used in residential dwellings, and
 

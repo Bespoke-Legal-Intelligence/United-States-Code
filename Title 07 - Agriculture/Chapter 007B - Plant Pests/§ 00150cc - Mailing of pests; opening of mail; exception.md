@@ -24,7 +24,7 @@ Subsecs. (b) to (d). Pub. L. 100–449, §301(f)(2)(B), (C), added subsec. (b) a
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as anEffective Date note under section 3601 of Title 19, Customs Duties.
 
 #### Effective and Termination Dates of 1988 Amendment
 

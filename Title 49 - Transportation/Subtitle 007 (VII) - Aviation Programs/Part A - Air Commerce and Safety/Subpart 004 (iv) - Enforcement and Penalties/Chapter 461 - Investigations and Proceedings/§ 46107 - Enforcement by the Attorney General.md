@@ -6,7 +6,7 @@ Civil Actions To Enforce Section 40106(b).—The Attorney General may bring a ci
 
 (b)
 
-Civil Actions To Enforce This Part.—(1) On request of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried outby the Administrator), the Attorney General may bring a civil action in an appropriate court—
+Civil Actions To Enforce This Part.—(1) On request of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator), the Attorney General may bring a civil action in an appropriate court—
 
 &emsp;(A) to enforce this part or a requirement or regulation prescribed, or an order or any term of a certificate or permit issued, under this part; and
 

@@ -28,7 +28,7 @@
 
 &emsp;(C) establish and publish priorities for research, development, and demonstration through a process that allows for public input.
 
-(2) To the extent possible, the elementary and secondary education programs shall provide the services required under paragraph (1) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(b) of the Individuals with Disabilities Education Act \[20 U.S.C. 1418(b)\]. Such educational environments shall include—
+(2) To the extent possible, the elementary and secondary education programs shall provide the services required under paragraph (1) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(b) <sup>1</sup> of the Individuals with Disabilities Education Act. Such educational environments shall include—
 
 &emsp;(A) regular classes;
 
@@ -62,7 +62,7 @@
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. Section 618 of the Act was classified to section 1418 of this title and was omitted in the general amendment of subchapter II of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 618 of the Act, which is classified to section 1418 of this title. Provisions similar to those formerly appearing in subsec. (b) of that section are now contained in subsec. (a). For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Codification
 
@@ -81,4 +81,6 @@ Subsec. (b)(4). Pub. L. 103–73, §203(d)(4), substituted “program” for “
 #### Effective Date
 
 Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

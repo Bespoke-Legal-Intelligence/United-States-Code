@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) this paragraph shall not be held to preclude a licensed importer, licensed manufacturer, or licensed dealer from depositing a firearm for conveyance in the mails to any officer, employee, agent, or watchman who, pursuant to the provisions of section 1715 of this title, is eligible to receive through the mails pistols, revolvers, and other firearms capable of being concealed on the person, for use in connection with his official duty; and
 
-&emsp;&emsp;(C) nothing in this paragraph shall be construed as applying in any manner in the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States differently than it would apply if the District of Columbia, the Commonwealth of Puerto Rico, or the possession were in fact a State of the United States;
+&emsp;&emsp;(C) nothing in this paragraph shall be construed as applying in any manner in the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States differently than it would apply if theDistrict of Columbia, the Commonwealth of Puerto Rico, or the possession were in fact a State of the United States;
 
 &emsp;(3) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector to transport into or receive in the State where he resides (or if the person is a corporation or other business entity, the State where it maintains a place of business) any fire arm purchased or otherwise obtained by such person outside that State, except that this paragraph (A) shall not preclude any person who lawfully acquires a firearm by bequest or intestate succession in a State other than his State of residence from transporting the firearm into or receiving it in that State, if it is lawful for such person to purchase or possess such firearm in that State, (B) shall not apply to the transportation or receipt of a firearm obtained in conformity with subsection (b)(3) of this section, and (C) shall not apply to the transportation of any firearm acquired in any State prior to the effective date of this chapter;
 
@@ -26,7 +26,7 @@
 
 &emsp;(7) for any person to manufacture or import armor piercing ammunition, except that this paragraph shall not apply to—
 
-&emsp;&emsp;(A) the manufacture or importation of such ammunition for the use of the UnitedStates or any department or agency thereof or any State or any department, agency, or political subdivision thereof;
+&emsp;&emsp;(A) the manufacture or importation of such ammunition for the use of the United States or any department or agency thereof or any State or any department, agency, or political subdivision thereof;
 
 &emsp;&emsp;(B) the manufacture of such ammunition for the purpose of exportation; and
 
@@ -48,7 +48,7 @@
 
 &emsp;(2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation of any State law or any published ordinance applicable at the place of sale, delivery or other disposition, unless the licensee knows or has reasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance;
 
-&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
+&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both States), and (B) shall notapply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
 &emsp;(4) to any person any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Secretary consistent with public safety and necessity; and
 
@@ -186,7 +186,7 @@
 
 (3) Under such rules and regulations as the Secretary shall prescribe, this subsection shall not apply to the manufacture, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer or any person acting pursuant to a contract with a licensed manufacturer, for the purpose of examining and testing such firearm to determine whether paragraph (1) applies to such firearm. The Secretary shall ensure that rules and regulations adopted pursuant to this paragraph do not impair the manufacture of prototype firearms or the development of new technology.
 
-(4) The Secretary shall permit the conditional importation of a firearm by a licensed importer or licensed manufacturer, for examination andtesting to determine whether or not the unconditional importation of such firearm would violate this subsection.
+(4) The Secretary shall permit the conditional importation of a firearm by a licensed importer or licensed manufacturer, for examination and testing to determine whether or not the unconditional importation of such firearm would violate this subsection.
 
 (5) This subsection shall not apply to any firearm which—
 
@@ -216,7 +216,7 @@
 
 &emsp;(I) the Congress has the power, under the interstate commerce clause and other provisions of the Constitution, to enact measures to ensure the integrity and safety of the Nation's schools by enactment of this subsection.
 
-(2)(A) It shall be unlawful for any individual knowingly to possess a firearm that has moved in or that otherwise affects interstate or foreign commerce at a place that the individual knows, or has reasonable cause to believe, is a school zone.
+(2)(A) It shall be unlawful for any individual knowingly to possess a firearm that has movedin or that otherwise affects interstate or foreign commerce at a place that the individual knows, or has reasonable cause to believe, is a school zone.
 
 (B) Subparagraph (A) does not apply to the possession of a firearm—
 
@@ -284,7 +284,7 @@
 
 &emsp;&emsp;(II) was issued not more than 5 years earlier by the State in which the transfer is to take place; and
 
-&emsp;(ii) the law of the State provides that such a permit is to be issued only after an authorized government official has verified that the information available to such official does not indicate that possession of a handgun by the transferee would be in violation of the law;
+&emsp;(ii) the law of the State provides that such a permit is to be issued only after an authorizedgovernment official has verified that the information available to such official does not indicate that possession of a handgun by the transferee would be in violation of the law;
 
 &emsp;(D) the law of the State requires that, before any licensed importer, licensed manufacturer, or licensed dealer completes the transfer of a handgun to an individual who is not licensed under section 923, an authorized government official verify that the information available to such official does not indicate that possession of a handgun by the transferee would be in violation of law;
 
@@ -350,7 +350,7 @@
 
 &emsp;(B) for preventing such a sale or transfer to a person who may lawfully receive or possess a handgun.
 
-(8) For purposes of this subsection, the term “chief law enforcement officer” means the chief of police, the sheriff, or an equivalent officer or the designee of any such individual.
+(8) For purposes of this subsection, the term “chief law enforcement officer” means the chiefof police, the sheriff, or an equivalent officer or the designee of any such individual.
 
 (9) The Secretary shall take necessary actions to ensure that the provisions of this subsection are published and disseminated to licensed dealers, law enforcement officials, and the public.
 
@@ -1914,7 +1914,7 @@ Subsec. (d)(8). Pub. L. 103–322, §110401(b), added par. (8).
 
 Subsec. (g)(8). Pub. L. 103–322, §110401(c), added par. (8).
 
-Subsec. (j). Pub. L. 103–322, §110511, amended subsec. (j) generally. Prior to amendment, subsec. (j) read asfollows: “It shall be unlawful for any person to receive, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.”
+Subsec. (j). Pub. L. 103–322, §110511, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “It shall be unlawful for any person to receive, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.”
 
 Subsec. (q). Pub. L. 103–322, §320904, added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
@@ -2020,7 +2020,7 @@ Subsec. (a)(6). Pub. L. 90–618 added licensed collectors to the enumerated lis
 
 Subsec. (b). Pub. L. 90–618, in provision preceding par. (1), added licensed collectors to the enumerated list of licensees.
 
-Subsec. (b)(1). Pub. L. 90–618 substituted provisions making it unlawful to sell or deliver any firearm or ammunition to any individual who the licensee knows or has reasonable cause to believe is less than 18, and to sell or deliver any firearm, other than a rifle or shotgun, or ammunition, other than ammunition for a rifle or shotgun, to any individual who the licensee knows or has reasonable cause to believe is less than 21, for provisions making it unlawful to sell or deliver any firearm to any individual who the licensee knows or has reasonable cause to believe is less than 21, if the firearm is other than a shotgun or rifle.
+Subsec. (b)(1). Pub. L. 90–618 substituted provisions making it unlawful to sell or deliver any firearm or ammunition to any individual who the licensee knows or has reasonable cause to believe is less than 18, and to sell or deliver any firearm, other than a rifle or shotgun, or ammunition, other than ammunition for a rifle or shotgun, to any individual who the licensee knows or has reasonable cause to believe is less than 21, for provisions making it unlawful to sell or deliver anyfirearm to any individual who the licensee knows or has reasonable cause to believe is less than 21, if the firearm is other than a shotgun or rifle.
 
 Subsec. (b)(2). Pub. L. 90–618 extended the prohibition to include the sale or delivery of ammunition to any person where the purchase or possession by such person of such ammunition would be unlawful, and struck out “or in the locality in which such person resides” after “or other disposition,”.
 
@@ -2226,7 +2226,7 @@ Additional Study of Other Persons Ineligible To Purchase Firearms.—The Attorne
 
 “(d)
 
-Definitions.—As used in this section, the terms ‘firearm’ and ‘dealer’ shall have the meanings givensuch terms in section 921(a) of title 18, United States Code.”
+Definitions.—As used in this section, the terms ‘firearm’ and ‘dealer’ shall have the meanings given such terms in section 921(a) of title 18, United States Code.”
 
 #### Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One's Person
 

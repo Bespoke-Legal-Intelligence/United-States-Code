@@ -1,6 +1,6 @@
 ### §4505. Certification of organizations
 
-(a) The eligibility of any organization to represent milk producers, and to participate in themaking of nominations under section 4504 of this title shall be certified by the Secretary. The Secretary shall certify any organization that the Secretary determines meets the eligibility criteria established by the Secretary under this section and the Secretary's determination as to eligibility shall be final.
+(a) The eligibility of any organization to represent milk producers, and to participate in the making of nominations under section 4504 of this title shall be certified by the Secretary. The Secretary shall certify any organization that the Secretary determines meets the eligibility criteria established by the Secretary under this section and the Secretary's determination as to eligibility shall be final.
 
 (b) Certification shall be based, in addition to other available information, on a factual report submitted by the organization, which shall contain information deemed relevant and specified by the Secretary, including, but not limited to, the following:
 

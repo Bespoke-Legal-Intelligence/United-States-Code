@@ -10,7 +10,7 @@
 
 (2) A member may not be granted a leave of absence under this section until he has completed any extension of enlistment or reenlistment, or any period of obligated service, incurred by reason of any previous leave of absence granted under this section.
 
-(c)(1) While on a leave of absence under this section, a member shall be paid basic pay but may not receive basic allowance for quarters or basic allowance for subsistence or any other pay and allowances to which he would otherwise be entitled for such period.
+(c)(1) While on a leave of absence under this section, a member shall be paid basic pay but may not receive basic allowance for housing under section 403 of title 37, basic allowance for subsistence under section 402 of such title, or any other pay and allowances to which he would otherwise be entitled for such period.
 
 (2) A period during which a member is on a leave of absence under this section shall be counted for the purposes of computing the amount of the member's basic pay, for the purpose of determining the member's eligibility for retired pay, and for the purpose of determining the member's time in grade for promotion purposes, but may not be counted for the purposes of completion of the term of enlistment of the member (in the case of an enlisted member) or for purposes of section 3021 of title 38, relating to entitlement to supplemental educational assistance.
 
@@ -24,15 +24,21 @@
 
 &emsp;(2) in the case of an officer, has completed the officer's initial period of obligated service on active duty.
 
-(Added Pub. L. 98–525, title VII, §707(a)(1), Oct. 19, 1984, 98 Stat. 2571; amended Pub. L. 100–26, §7(i)(2), (k)(3), Apr. 21, 1987, 101 Stat. 282, 284; Pub. L. 103–337, div. A, title X, §1070(e)(2), Oct. 5, 1994, 108 Stat. 2859.)
+(Added Pub. L. 98–525, title VII, §707(a)(1), Oct. 19, 1984, 98 Stat. 2571; amended Pub. L. 100–26, §7(i)(2), (k)(3), Apr. 21, 1987, 101 Stat. 282, 284; Pub. L. 103–337, div. A, title X, §1070(e)(2), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 105–85, div. A, title VI, §603(d)(2)(A), Nov. 18, 1997, 111 Stat. 1782.)
 
 #### Amendments
+
+1997—Subsec. (c)(1). Pub. L. 105–85 substituted “basic allowance for housing under section 403 of title 37, basic allowance for subsistence under section 402 of such title,” for “basic allowance for quarters or basic allowance for subsistence”.
 
 1994—Subsec. (c)(2). Pub. L. 103–337 substituted “section 3021 of title 38” for “section 1421 of title 38”.
 
 1987—Subsec. (d)(1). Pub. L. 100–26, §7(i)(2), substituted “October 19, 1984” for “the date of the enactment of this section”.
 
 Subsec. (e). Pub. L. 100–26, §7(k)(3), inserted “the term” after “In this section,”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

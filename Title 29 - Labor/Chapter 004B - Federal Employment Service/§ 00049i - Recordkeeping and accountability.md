@@ -22,7 +22,7 @@ Each State receiving funds under this chapter shall—
 
 &emsp;(2) establish and maintain a management information system in accordance with guidelines established by the Secretary designed to facilitate the compilation and analysis of programmatic and financial data necessary for reporting, monitoring, and evaluating purposes.
 
-(June 6, 1933, ch. 49, §10, 48 Stat. 116; Oct. 13, 1982, Pub. L. 97–300, title VI, §601(f), formerly title V, §501(f), 96 Stat. 1396; renumbered title VI, §601(f), Nov. 7, 1988, Pub. L. 100–628, title VII, §712(a)(1), (2), 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §10, 48 Stat. 116; Pub. L. 97–300, title VI, §601(f), formerly title V, §501(f), Oct. 13, 1982, 96 Stat. 1396; renumbered title VI, §601(f), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 Employees of the Library of Congress who perform special functions for the performance of which funds have been entrusted to the board or the librarian, or in connection with cooperative undertakings in which the Library of Congress is engaged, shall not be subject to section 209 of title 18; and section 5533 of title 5 shall not apply to any additional compensation so paid to such employees.
 
-(Mar. 3, 1925, ch. 423, §6, 43 Stat. 1108; Jan. 27, 1926, ch. 6, §2, 44 Stat. 2; Aug. 19, 1964, Pub. L. 88–448, title IV, §401(j), 78 Stat. 491.)
+(Mar. 3, 1925, ch. 423, §6, 43 Stat. 1108; Jan. 27, 1926, ch. 6, §2, 44 Stat. 2; Pub. L. 88–448, title IV, §401(j), Aug. 19, 1964, 78 Stat. 491.)
 
 #### Codification
 

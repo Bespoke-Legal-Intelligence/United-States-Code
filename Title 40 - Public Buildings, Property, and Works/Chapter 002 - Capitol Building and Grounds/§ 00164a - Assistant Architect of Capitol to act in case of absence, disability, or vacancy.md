@@ -12,17 +12,17 @@ Section is from Pub. L. 91–382, popularly known as the “Legislative Branch A
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Oct. 2, 1962, Pub. L. 87–730, 76 Stat. 688.
+Pub. L. 87–730, Oct. 2, 1962, 76 Stat. 688.
 
-Aug. 10, 1961, Pub. L. 87–130, 75 Stat. 329.
+Pub. L. 87–130, Aug. 10, 1961, 75 Stat. 329.
 
-July 12, 1960, Pub. L. 86–628, 74 Stat. 455.
+Pub. L. 86–628, July 12, 1960, 74 Stat. 455.
 
-Aug. 21, 1959, Pub. L. 86–176, 73 Stat. 407.
+Pub. L. 86–176, Aug. 21, 1959, 73 Stat. 407.
 
-July 31, 1958, Pub. L. 85–570, 72 Stat. 448.
+Pub. L. 85–570, July 31, 1958, 72 Stat. 448.
 
-July 1, 1957, Pub. L. 85–75, 71 Stat. 251.
+Pub. L. 85–75, July 1, 1957, 71 Stat. 251.
 
 June 27, 1956, ch. 453, 70 Stat. 365.
 

@@ -2,7 +2,7 @@
 
 The Secretary of Defense and the Secretary of Commerce shall jointly prescribe regulations governing the duties to be performed by the National Oceanic and Atmospheric Administration in time of war, and for the cooperation of that service with the military departments in time of peace in preparation for its duties in war, which regulations shall not be effective unless approved by each of those Secretaries, and included therein may be rules and regulations for making reports and communications between a military department and the National Oceanic and Atmospheric Administration.
 
-(May 22, 1917, ch. 20, §16, 40 Stat. 88; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Oct. 14, 1966, Pub. L. 89–657, §1(2), 80 Stat. 907; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(May 22, 1917, ch. 20, §16, 40 Stat. 88; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 89–657, §1(2), Oct. 14, 1966, 80 Stat. 907; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 #### Codification
 
@@ -14,7 +14,7 @@ Section is part of section 16 of act May 22, 1917. Section 16 is also classified
 
 #### Change of Name
 
-The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued the Department of the Army under the administrative supervision of a Secretary of the Army.
+The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued the Department of theArmy under the administrative supervision of a Secretary of the Army.
 
 #### Transfer of Functions
 

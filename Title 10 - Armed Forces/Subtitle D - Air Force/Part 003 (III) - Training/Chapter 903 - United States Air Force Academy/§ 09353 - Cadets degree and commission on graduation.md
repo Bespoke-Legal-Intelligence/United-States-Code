@@ -1,10 +1,10 @@
 ### §9353. Cadets: degree and commission on graduation
 
-(a) After the date of the accrediting of the Academy, the Superintendent of the Academy may, under such conditions as the Secretary ofthe Air Force may prescribe, confer the degree of bachelor of science upon graduates of the Academy.
+(a) The Superintendent of the Academy may, under such conditions as the Secretary of the Air Force may prescribe, confer the degree of bachelor of science upon graduates of the Academy.
 
 (b) Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force under section 531 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 567; Sept. 2, 1958, Pub. L. 85–861, §§1(201), 33(a)(43), 72 Stat. 1541, 1567; Dec. 12, 1980, Pub. L. 96–513, title V, §504(25), 94 Stat. 2917.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 567; Sept. 2, 1958, Pub. L. 85–861, §§1(201), 33(a)(43), 72 Stat. 1541, 1567; Dec. 12, 1980, Pub. L. 96–513, title V, §504(25), 94 Stat. 2917; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §542(d), 111 Stat. 1743.)
 
 Historical and Revision Notes<br>1956
 
@@ -57,6 +57,8 @@ It is unnecessary to include a reference to section 541 of title 10, since that 
 The change reflects the opinion of the Judge Advocate General of the Air Force (July 19, 1957) that the words “from and after the date of the accrediting of said academies” in the source law for section 9353(a) (Act of May 25, 1933, ch. 37 (48 Stat. 73), as amended) were a condition precedent to the authority to grant degrees and should not have been omitted.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85 substituted “The” for “After the date of the accrediting of the Academy, the”.
 
 1980—Subsec. (b). Pub. L. 96–513 inserted “under section 531 of this title” after “Regular Air Force”.
 

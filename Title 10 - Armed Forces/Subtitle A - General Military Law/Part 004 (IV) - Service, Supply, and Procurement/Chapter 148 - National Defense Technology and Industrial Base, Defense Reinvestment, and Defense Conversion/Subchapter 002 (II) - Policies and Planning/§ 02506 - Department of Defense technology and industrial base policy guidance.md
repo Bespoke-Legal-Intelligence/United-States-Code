@@ -24,5 +24,5 @@ Section 4220 of Pub. L. 102–484 set forth requirements for the initial regulat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2198, 2372, 2491, 2504 of this title; title 22 section 3142; title 42 section 2123.
+This section is referred to in sections 2372, 2504 of this title; title 22 section 3142; title 42 section 2123.
 

@@ -38,7 +38,7 @@ In determining whether a franchise shall be forfeited under subsection (a) of th
 
 This section shall not apply to a successor to the interests of, or a person who acquires, a credit union that violated a provision of law described in subsection (a) of this section, if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this section or regulations prescribed under this section.
 
-(June 26, 1934, ch. 750, title I, §131, as added Oct. 28, 1992, Pub. L. 102–550, title XV, §1502(c), 106 Stat. 4047; amended Sept. 23, 1994, Pub. L. 103–325, title IV, §411(c)(2)(B), 108 Stat. 2253.)
+(June 26, 1934, ch. 750, title I, §131, as added Pub. L. 102–550, title XV, §1502(c), Oct. 28, 1992, 106 Stat. 4047; amended Pub. L. 103–325, title IV, §411(c)(2)(B), Sept. 23, 1994, 108 Stat. 2253.)
 
 #### Amendments
 

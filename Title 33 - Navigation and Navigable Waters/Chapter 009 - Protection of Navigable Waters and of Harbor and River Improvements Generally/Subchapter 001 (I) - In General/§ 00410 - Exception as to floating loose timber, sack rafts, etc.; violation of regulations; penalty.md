@@ -6,7 +6,7 @@ The Secretary of the Army shall have power, and he is authorized and directed to
 
 The right to alter, amend, or repeal this section at any time is reserved.
 
-(May 9, 1900, ch. 387, §§1–3, 31 Stat. 172; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Oct. 17, 1968, Pub. L. 90–578, title IV, §402(b)(2), 82 Stat. 1118; Dec. 1, 1990, Pub. L. 101–650, title III, §321, 104 Stat. 5117.)
+(May 9, 1900, ch. 387, §§1–3, 31 Stat. 172; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Change of Name
 

@@ -50,7 +50,7 @@ To be eligible to receive assistance under this section, an entity shall submit 
 
 &emsp;&emsp;(B) programs receiving financial assistance under the Comprehensive Child Development Act, as in effect on such date; and
 
-&emsp;(3) other public entities, and nonprofit private entities, capable of providing child and family services that meet the standards for participation in programs under this subchapter and meet such other appropriate requirements relating to the activities under this section as the Secretary may establish.
+&emsp;(3) other public entities, and nonprofit private entities, capable of providing child andfamily services that meet the standards for participation in programs under this subchapter and meet such other appropriate requirements relating to the activities under this section as the Secretary may establish.
 
 #### (e) Time-limited priority for certain entities
 
@@ -100,7 +100,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 &emsp;&emsp;(A) in consultation with experts in early childhood development, experts in health, and experts in family services; and
 
-&emsp;&emsp;(B) taking into consideration the knowledge and experience gained from other earlychildhood programs, including programs under the Comprehensive Child Development Act, and from migrant Head Start programs that serve a large number of infants and toddlers.
+&emsp;&emsp;(B) taking into consideration the knowledge and experience gained from other early childhood programs, including programs under the Comprehensive Child Development Act, and from migrant Head Start programs that serve a large number of infants and toddlers.
 
 #### (2) Standards
 

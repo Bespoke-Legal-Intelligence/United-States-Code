@@ -20,7 +20,7 @@ If, after review, the Attorney General concludes that the information contained 
 
 #### (d) Notice of pendency of investigation or proceeding
 
-If the Attorney General has not provided the declarant with notice under subsection (b) ofthis section or a notice of invalidity pursuant to section 4204 of this title within the time period set forth in subsection (e) of this section, the Attorney General shall notify the declarant in writing that—
+If the Attorney General has not provided the declarant with notice under subsection (b) of this section or a notice of invalidity pursuant to section 4204 of this title within the time period set forth in subsection (e) of this section, the Attorney General shall notify the declarant in writing that—
 
 &emsp;(1) there is a pending investigation or proceeding in the course of which the declarant's allegations are being addressed; or
 

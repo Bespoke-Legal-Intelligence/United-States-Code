@@ -18,7 +18,7 @@ A multiyear contract entered into under the authority of this section shall incl
 
 #### (c) Cancellation ceiling notice
 
-Before any contract described in subsection (a) of this section that contains a clause setting forth a cancellation ceiling in excess of $10,000,000 may be awarded, the executive agency shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Congress, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+Before any contract described in subsection (a) of this section that contains a clause settingforth a cancellation ceiling in excess of $10,000,000 may be awarded, the executive agency shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Congress, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
 
 #### (d) Multiyear contract defined
 
@@ -28,7 +28,7 @@ For the purposes of this section, a multiyear contract is a contract for the pur
 
 Nothing in this section is intended to modify or affect any other provision of law that authorizes multiyear contracts.
 
-(June 30, 1949, ch. 288, title III, §304B, as added Oct. 13, 1994, Pub. L. 103–355, title I, §1072, 108 Stat. 3270.)
+(June 30, 1949, ch. 288, title III, §304B, as added Pub. L. 103–355, title I, §1072, Oct. 13, 1994, 108 Stat. 3270.)
 
 #### Effective Date
 
@@ -36,5 +36,5 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 7274n.
+This section is referred to in section 253<i>l</i>–1 of this title; title 42 section 7274n.
 

@@ -18,11 +18,11 @@
 
 &emsp;(8) other expenses of the National Guard authorized by law.
 
-(b) The expenses of enlisted members of the Regular Army or the Regular Air Force on duty with the National Guard shall be paid from appropriations for the Army National Guard or the Air National Guard, as the case may be, but not from the allotment of a State or Territory, Puerto Rico, or the District of Columbia. Payable expenses include allowances for subsistence and quarters under sections 402 and 403 of title 37 and expenses for medicine and medical attendance.
+(b) The expenses of enlisted members of the Regular Army or the Regular Air Force on duty with the National Guard shall be paid from appropriations for the Army National Guard or the Air National Guard, as the case may be, but not from the allotment of a State or Territory, Puerto Rico, or the District of Columbia. Payable expenses include allowances for subsistence and housing under sections 402 and 403 of title 37 and expenses for medicine and medical attendance.
 
 (c) The pay and allowances for the Chief of the National Guard Bureau and officers of the Army National Guard of the United States or the Air National Guard of the United States called to active duty under section 12402 of title 10 shall be paid from appropriations for the pay of the Army National Guard or Air National Guard.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 599; Sept. 11, 1967, Pub. L. 90–83, §4, 81 Stat. 220; Aug. 13, 1971, Pub. L. 92–119, §1(a), 85 Stat. 340; Sept. 13, 1982, Pub. L. 97–258, §2(h), 96 Stat. 1061; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1676(a)(1), 108 Stat. 3019.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 599; Pub. L. 90–83, §4, Sept. 11, 1967, 81 Stat. 220; Pub. L. 92–119, §1(a), Aug. 13, 1971, 85 Stat. 340; Pub. L. 97–258, §2(h), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–337, div. A, title XVI, §1676(a)(1), Oct. 5, 1994, 108 Stat. 3019; (As amended Pub. L. 105–85, div. A, title VI, §603(d)(4), Nov. 18, 1997, 111 Stat. 1783.)
 
 Historical and Revision Notes<br>1956
 
@@ -80,6 +80,8 @@ The work “appropriations” is substituted for “funds appropriated” for co
 
 #### Amendments
 
+1997—Subsec. (b). Pub. L. 105–85 substituted “and housing” for “and quarters”.
+
 1994—Subsec. (c). Pub. L. 103–337 substituted “12402” for “3496 or 8496”.
 
 1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
@@ -93,6 +95,10 @@ Subsec. (a). Pub. L. 92–119, §1(a)(2), (3), (4), redesignated subsec. (b) as 
 Subsecs. (b), (c). Pub. L. 92–119, §1(a)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a) and amended.
 
 1967—Subsec. (c). Pub. L. 90–83 substituted “402 and 403” for “251 and 252”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1994 Amendment
 

@@ -38,7 +38,7 @@ Sec. 2. The Director of the Office of Management and Budget shall examine each r
 
 (a) the policy and programs of the President;
 
-(b) the Economic and Environmental Principles and Guidelines for Water and Related Land Resources Implementation Studies or other such planning guidelinesfor water and related land resources planning, as shall hereafter be issued; and
+(b) the Economic and Environmental Principles and Guidelines for Water and Related Land Resources Implementation Studies or other such planning guidelines for water and related land resources planning, as shall hereafter be issued; and
 
 (c) other applicable laws, regulations, and requirements relevant to the planning process.
 

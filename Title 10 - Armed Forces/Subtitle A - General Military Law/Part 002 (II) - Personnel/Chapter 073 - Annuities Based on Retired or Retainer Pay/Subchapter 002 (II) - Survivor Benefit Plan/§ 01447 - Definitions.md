@@ -188,7 +188,7 @@ Effective Date.—Except as otherwise provided in this title, the amendments mad
 
 “(b)
 
-Prospective Benefits Only.—No benefit shall accrue to any person by reason of the enactment of thistitle for any period before the effective date under subsection (a).”
+Prospective Benefits Only.—No benefit shall accrue to any person by reason of the enactment of this title for any period before the effective date under subsection (a).”
 
 #### Effective Date of 1982 Amendment; Transition Provisions
 
@@ -224,7 +224,7 @@ Section 1 of Pub. L. 96–402 provided: “That this Act \[amending this section
 
 #### End of 90-Day Period With Respect to Certain Individuals
 
-Section 208 of Pub. L. 95–397, as amended by Pub. L. 96–107, title VIII, §816, Nov. 9, 1979, 93 Stat. 818, provided that the 90-day period referred to in former sections 1447(2)(C) and 1448(a)(2) and (4)(B) of this title was to be considered to end on Mar. 31, 1980, for an individual who would have been eligible for retired pay under former chapter 67 of this title on the effective date of title II of Pub. L. 95–397 (see Effective Date of 1978 Amendment note above), but for the fact such individual was under 60 years of age, or for an individual who received before Jan. 1, 1980, a notification that such individual had completed the years of service required for eligibility for such retired pay.
+Section 208 of Pub. L. 95–397, as amended by Pub. L. 96–107, title VIII, §816, Nov. 9, 1979, 93 Stat. 818, providedthat the 90-day period referred to in former sections 1447(2)(C) and 1448(a)(2) and (4)(B) of this title was to be considered to end on Mar. 31, 1980, for an individual who would have been eligible for retired pay under former chapter 67 of this title on the effective date of title II of Pub. L. 95–397 (see Effective Date of 1978 Amendment note above), but for the fact such individual was under 60 years of age, or for an individual who received before Jan. 1, 1980, a notification that such individual had completed the years of service required for eligibility for such retired pay.
 
 #### Section Referred to in Other Sections
 

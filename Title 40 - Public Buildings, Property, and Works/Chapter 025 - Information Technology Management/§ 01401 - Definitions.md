@@ -46,7 +46,7 @@ Section 5701 of title LVII of div. E of Pub. L. 104–106 provided that: “This
 
 #### Short Title
 
-Section 5001 of div. E of Pub. L. 104–106, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that: “This division \[div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\] and division D\[§§4001–4402 of Pub. L. 104–106, see Tables for classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
+Section 5001 of div. E of Pub. L. 104–106, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that: “This division \[div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\] and division D \[§§4001–4402 of Pub. L. 104–106, see Tables for classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
 
 #### Savings Provision
 
@@ -126,7 +126,7 @@ Sec. 2. <i>Responsibilities of Agency Heads</i>. The head of each executive agen
 
 (b) strengthen the quality of decisions about the employment of information resources to meet mission needs through integrated analysis, planning, budgeting, and evaluation processes, including:
 
-(1) determining, before making investments in new information systems, whether the Government should be performing the function, if the private sector or another agency should support the function, and if the function needs to be or has been appropriately redesigned to improve its efficiency;
+(1) determining, before making investments in new information systems, whether the Government shouldbe performing the function, if the private sector or another agency should support the function, and if the function needs to be or has been appropriately redesigned to improve its efficiency;
 
 (2) establishing mission-based performance measures for information systems investments, aligned with agency performance plans prepared pursuant to the Government Performance and Results Act of 1993 (Public Law 103–62);
 
@@ -228,9 +228,9 @@ Sec. 4. <i>Government Information Technology Services Board.</i>
 
 (3) creating and utilizing affinity groups for particular business or technology areas; and
 
-(4) developing with the National Institute of Standards and Technology and with established standardsbodies, standards and guidelines pertaining to Federal information systems, consistent with the limitations contained in the Computer Security Act of 1987 (40 U.S.C. 759 note), as amended by the Information Technology Act.
+(4) developing with the National Institute of Standards and Technology and with established standards bodies, standards and guidelines pertaining to Federal information systems, consistent with the limitations contained in the Computer Security Act of 1987 (40 U.S.C. 759 note), as amended by the Information Technology Act.
 
-(b) <i>Membership</i>. The Services Board shall be composed of individuals from agencies based on their proven expertise or accomplishments in fields necessary to achieve its goals. Major government mission areas such as electronic benefits, electronic commerce, law enforcement, environmental protection, national defense, and health care may be represented on the Services Board to provide a program operations perspective. Initial selection of members will be made by OMB in consultation with other agencies as appropriate. The CIO Council may nominate two members. The Services Board shall recommend new members to OMB for consideration. The Chair will be elected by the Services Board.
+(b) <i>Membership</i>. The Services Board shall be composed of individuals from agencies based on their proven expertise or accomplishments in fields necessary to achieve its goals. Major government mission areas such as electronic benefits, electronic commerce, law enforcement, environmental protection, national defense, and health care may be represented on the Services Board to provide a program operations perspective. Initial selection of members will be made by OMB in consultation with other agencies as appropriate. The CIOCouncil may nominate two members. The Services Board shall recommend new members to OMB for consideration. The Chair will be elected by the Services Board.
 
 Sec. 5. <i>Information Technology Resources Board.</i>
 
@@ -297,4 +297,8 @@ The heads of executive agencies shall apply the policies and procedures establis
 Sec. 12. <i>Judicial Review</i>. Nothing in this Executive order shall affect any otherwise available judicial review of agency action. This Executive order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 44 section 3502.
 

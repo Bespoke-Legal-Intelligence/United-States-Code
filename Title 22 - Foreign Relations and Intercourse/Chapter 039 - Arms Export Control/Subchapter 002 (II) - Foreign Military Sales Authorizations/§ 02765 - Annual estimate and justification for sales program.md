@@ -2,7 +2,7 @@
 
 #### (a) Report to Congress; contents
 
-Except as provided in subsection (d) <sup>1</sup> of this section, no later than February 1 of each year, the President shall transmit to the Congress, as a part of the annual presentation materials for security assistance programs proposed for the next fiscal year, a report which sets forth—
+Except as provided in subsection (d) <sup>1</sup> of this section, no later than February 1 of each year, the President shall transmit to the appropriate congressional committees, as a part of the annual presentation materials for security assistance programs proposed for the next fiscal year, a report which sets forth—
 
 &emsp;(1) an arms sales proposal covering all sales and licensed commercial exports under this chapter of major weapons or weapons-related defense equipment for $7,000,000 or more, or of any other weapons or weapons-related defense equipment for $25,000,000 or more, which are considered eligible for approval during the current calendar year, together with an indication of which sales and licensed commercial exports are deemed most likely actually to result in the issuance of a letter of offer or of an export license during such year;
 
@@ -14,7 +14,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(5)(A) an estimate of the aggregate dollar value and quantity of defense articles and defense services, military education and training, grant military assistance, and credits and guarantees, to be furnished by the United States to each foreign country and international organization in the next fiscal year; and
 
-&emsp;(B) for each country that is proposed to be furnished credits or guaranties under this chapter in the next fiscal year and that has been approved for cash flow financing (as defined in subsection (d) <sup>1</sup> of this section) in excess of $100,000,000 as of October 1 of the current fiscal year—
+&emsp;(B) for each country that is proposed to be furnished credits or guaranties under this chapter in the next fiscal year and that hasbeen approved for cash flow financing (as defined in subsection (d) <sup>1</sup> of this section) in excess of $100,000,000 as of October 1 of the current fiscal year—
 
 &emsp;&emsp;(i) the amount of such approved cash flow financing,
 
@@ -32,7 +32,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(10) the amount and nature of Soviet military assistance to the armed forces of Cuba during the preceding fiscal year and the military capabilities of those armed forces;
 
-&emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, or any Act authorizing international security assistance, with respect to which there remainsoutstanding any unpaid obligation or potential liability; the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
+&emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, or any Act authorizing international security assistance, with respect to which there remains outstanding any unpaid obligation or potential liability; the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
 
 &emsp;(12)(A) a detailed accounting of all articles, services, credits, guarantees, or any other form of assistance furnished by the United States to each country and international organization, including payments to the United Nations, during the preceding fiscal year for the detection and clearance of landmines, including activities relating to the furnishing of education, training, and technical assistance for the detection and clearance of landmines; and
 
@@ -42,7 +42,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 #### (b) Congressional request for additional information
 
-Not later than thirty days following the receipt of a request made by the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives for additional information with respect to any information submitted pursuant to subsection (a) of this section, the President shall submit such information to such committee.
+Not later than thirty days following the receipt of a request made by any of the congressional committees described in subsection (e) of this section for additional information with respect to any information submitted pursuant to subsection (a) of this section, the President shall submit such information to such committee.
 
 #### (c) Submission of information in unclassified form or classified addendum with unclassified summary
 
@@ -56,7 +56,11 @@ For the purposes of subsection (a)(5)(B) of this section, the term “cash flow 
 
 The information required by subsection (a)(4) of this section shall be transmitted to the Congress no later than April 1 of each year.
 
-(Pub. L. 90–629, ch. 2, §25, as added Pub. L. 94–329, title II, §209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, §18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113, title VII, §732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, §102(d), July 21, 1996, 110 Stat. 1423.)
+#### (e) “Appropriate congressional committees” defined
+
+As used in this section, the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
+
+(Pub. L. 90–629, ch. 2, §25, as added Pub. L. 94–329, title II, §209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, §18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113,title VII, §732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, §102(d), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §519, Nov. 26, 1997, 111 Stat. 2411.)
 
 #### References in Text
 
@@ -67,6 +71,12 @@ Subsection (d) of this section, referred to in subsec. (a)(5)(B), probably means
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–118, §519(1), substituted “appropriate congressional committees” for “Congress” in introductory provisions.
+
+Subsec. (b). Pub. L. 105–118, §519(2), substituted “any of the congressional committees described in subsection (e) of this section” for “the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives”.
+
+Subsec. (e). Pub. L. 105–118, §519(3), added subsec. (e).
 
 1996—Subsec. (a)(12), (13). Pub. L. 104–164 added par. (12) and redesignated former par. (12) as (13).
 
@@ -117,10 +127,6 @@ Subsec. (e). Pub. L. 96–92, §14, added subsec. (e).
 1978—Subsec. (c). Pub. L. 95–384, §18(b), substituted “subsection (a) or (b) of this section” for “this section”.
 
 Subsec. (d). Pub. L. 95–384, §18(a), added subsec. (d).
-
-#### Change of Name
-
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 

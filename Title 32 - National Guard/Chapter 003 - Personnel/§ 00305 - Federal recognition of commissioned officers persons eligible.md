@@ -18,7 +18,7 @@
 
 (b) To be eligible for Federal recognition under this section with a view to serving as a nurse, a person must be a graduate of a hospital or university training school and a registered nurse.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Sept. 2, 1958, Pub. L. 85–861, §2(5), 72 Stat. 1543; Nov. 8, 1967, Pub. L. 90–130, §2(1), 81 Stat. 383.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Pub. L. 85–861, §2(5), Sept. 2, 1958, 72 Stat. 1543; Pub. L. 90–130, §2(1), Nov. 8, 1967, 81 Stat. 383.)
 
 Historical and Revision Notes<br>1956
 
@@ -44,7 +44,7 @@ In clause (2), the words “reserve officers” are omitted as covered by the wo
 
 In clause (4), the words “under honorable conditions” are inserted for clarity.
 
-In clause (5), the words “the United States Air Force Academy” are inserted to reflect the establishment of that institution by the Air Force Academy Act (68 Stat. 47).
+In clause (5), the words “the United States Air Force Academy” are inserted to reflect the establishment ofthat institution by the Air Force Academy Act (68 Stat. 47).
 
 In clause (7), the words “staff branch” are substituted for the words “Staff Corps and departments”.
 

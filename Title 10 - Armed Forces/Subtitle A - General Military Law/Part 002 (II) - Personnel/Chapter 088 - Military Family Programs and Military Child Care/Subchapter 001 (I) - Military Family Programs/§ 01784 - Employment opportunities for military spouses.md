@@ -40,5 +40,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1599c, 1792 of this title.
+This section is referred to in sections 1143, 1599c, 1792 of this title.
 

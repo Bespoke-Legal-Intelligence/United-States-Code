@@ -20,7 +20,7 @@
 
 Each State shall repay to the United States amounts found not to have been expended in accordance with this chapter. No such finding shall be made except after notice and opportunity for a fair hearing. The Secretary may offset such amounts against any other amount to which the recipient is or may be entitled under this chapter.
 
-(June 6, 1933, ch. 49, §9, 48 Stat. 116; Oct. 18, 1982, Pub. L. 97–300, title VI, §601(e), formerly title V, §501(e), 96 Stat. 1396; renumbered title VI, §601(e), Nov. 7, 1988, Pub. L. 100–628, title VII, §712(a)(1), (2), 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §9, 48 Stat. 116; Pub. L. 97–300, title VI, §601(e), formerly title V, §501(e), Oct. 18, 1982, 96 Stat. 1396; renumbered title VI, §601(e), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
 #### References in Text
 

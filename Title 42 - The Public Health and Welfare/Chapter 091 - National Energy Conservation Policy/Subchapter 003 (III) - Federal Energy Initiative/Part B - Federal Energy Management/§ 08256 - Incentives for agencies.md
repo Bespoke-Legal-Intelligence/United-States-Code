@@ -22,7 +22,7 @@
 
 &emsp;(D) The extent that a proposal leverages financing from other non-Federal sources.
 
-&emsp;(E) Any other factor which the Secretary determines will result in the greatest amount of energy and cost savings to the Federal Government.
+&emsp;(E) Any other factor which the Secretary determines will result in the greatest amount ofenergy and cost savings to the Federal Government.
 
 (4) There are authorized to be appropriated, to remain available to be expended, to carry out this subsection not more than $10,000,000 for fiscal year 1994, $50,000,000 for fiscal year 1995, and such sums as may be necessary for fiscal years thereafter.
 
@@ -42,7 +42,7 @@
 
 #### (d) Financial incentive program for facility energy managers
 
-(1) The Secretary shall, in consultation with the Task Force established pursuant to section8257 of this title, establish a financial bonus program to reward, with funds made available for such purpose, outstanding Federal facility energy managers in agencies and the United States Postal Service.
+(1) The Secretary shall, in consultation with the Task Force established pursuant to section 8257 of this title, establish a financial bonus program to reward, with funds made available for such purpose, outstanding Federal facility energy managers in agencies and the United States Postal Service.
 
 (2) Not later than June 1, 1993, the Secretary shall issue procedures for implementing and conducting the award program, including the criteria to be used in selecting outstanding energy managers and contributors who have—
 

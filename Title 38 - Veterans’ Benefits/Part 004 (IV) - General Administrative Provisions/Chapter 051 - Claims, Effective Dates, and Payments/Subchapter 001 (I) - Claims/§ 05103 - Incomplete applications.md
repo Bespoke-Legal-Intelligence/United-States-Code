@@ -6,7 +6,7 @@
 
 (c) Benefits under laws administered by the Secretary may not be denied an applicant on the basis that the applicant does not have a mailing address.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, §3003; Pub. L. 99–570, title XI, §11007(a)(1), Oct. 27, 1986, 100 Stat. 3207–170; renumbered §5103, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, §3003; Pub. L. 99–570, title XI, §11007(a)(1), Oct. 27, 1986,100 Stat. 3207–170; renumbered §5103, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 #### Prior Provisions
 

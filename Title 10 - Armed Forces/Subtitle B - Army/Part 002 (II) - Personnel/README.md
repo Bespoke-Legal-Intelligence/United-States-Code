@@ -43,7 +43,7 @@
 
 Pub. L. 90–235, §8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 347 “The Uniform”.
 
-1960—Pub. L. 86–616, §§2(b), 3(b), July 12, 1960, 74 Stat. 388, 390, substituted “Substandard Performance ofDuty” for “Failure to Meet Standards” in item for chapter 359 and added item for chapter 360.
+1960—Pub. L. 86–616, §§2(b), 3(b), July 12, 1960, 74 Stat. 388, 390, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 359 and added item for chapter 360.
 
 1958—Pub. L. 85–861, §1(95), Sept. 2, 1958, 72 Stat. 1487, substituted “3841” for “\[No present sections\]” in item for chapter 363.
 

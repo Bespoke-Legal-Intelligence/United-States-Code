@@ -36,7 +36,7 @@
 
 #### (b) Hardship exemptions
 
-(1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangeredspecies pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
+(1) If any person enters into a contract with respect to a species of fish or wildlife or plant before the date of the publication in the Federal Register of notice of consideration of that species as an endangered species and the subsequent listing of that species as an endangered species pursuant to section 1533 of this title will cause undue economic hardship to such person under the contract, the Secretary, in order to minimize such hardship, may exempt such person from the application of section 1538(a) of this title to the extent the Secretary deems appropriate if such person applies to him for such exemption and includes with such application such information as the Secretary may require to prove such hardship; except that (A) no such exemption shall be for a duration of more than one year from the date of publication in the Federal Register of notice of consideration of the species concerned, or shall apply to a quantity of fish or wildlife or plants in excess of that specified by the Secretary; (B) the one-year period for those species of fish or wildlife listed by the Secretary as endangered prior to December 28, 1973, shall expire in accordance with the terms of section 668cc–3 <sup>1</sup> of this title; and (C) no such exemption may be granted for the importation or exportation of a specimen listed in Appendix I of the Convention which is to be used in a commercial activity.
 
 (2) As used in this subsection, the term “undue economic hardship” shall include, but not be limited to:
 
@@ -132,7 +132,7 @@ The Secretary may grant exceptions under subsections (a)(1)(A) and (b) of this s
 
 &emsp;(B) immunize any person from prosecution for any such act.
 
-(8)(A)(i) <sup>2</sup> Any valid certificate of exemption which was renewed after October 13, 1982, and was in effect on March 31, 1988, shall be deemed to be renewed for a six-month period beginning on October 7, 1988. Any person holding such a certificate may apply to the Secretary for oneadditional renewal of such certificate for a period not to exceed 5 years beginning on October 7, 1988.
+(8)(A)(i) <sup>2</sup> Any valid certificate of exemption which was renewed after October 13, 1982, and was in effect on March 31, 1988, shall be deemed to be renewed for a six-month period beginning on October 7, 1988. Any person holding such a certificate may apply to the Secretary for one additional renewal of such certificate for a period not to exceed 5 years beginning on October 7, 1988.
 
 (B) If the Secretary approves any application for renewal of an exemption under this paragraph, he shall issue to the applicant a certificate of renewal of such exemption which shall provide that all terms, conditions, prohibitions, and other regulations made applicable by the previous certificate shall remain in effect during the period of the renewal.
 
@@ -262,7 +262,7 @@ Pub. L. 103–238, §18, Apr. 30, 1994, 108 Stat. 559, provided that: “Notwith
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1538 of this title.
+This section is referred to in sections 471j, 1538 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

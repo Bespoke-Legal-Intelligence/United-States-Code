@@ -24,19 +24,19 @@ Inapplicability of Certain Property Management Laws.—The conveyance or lease o
 
 &emsp;(3) Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (40 U.S.C. 303b).
 
-&emsp;(4) Section 501 of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11401).<sup>1</sup>
+&emsp;(4) Section 501 of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11411).
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903.)
 
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
-Section 501 of the Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (d)(4), is classified to section 11411 of Title 42, The Public Health and Welfare.
+#### Amendments
+
+1997—Subsec. (d)(4). Pub. L. 105–85 substituted “11411” for “11401”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2883, 2884 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

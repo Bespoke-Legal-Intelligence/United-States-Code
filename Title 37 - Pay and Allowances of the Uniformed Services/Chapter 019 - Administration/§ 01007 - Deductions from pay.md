@@ -4,7 +4,7 @@
 
 (b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported. An amount due the United States from an enlisted member of the Army or the Air Force for tobacco sold to him by the United States under section 4623 or 9623 of title 10 shall be deducted from his pay in the manner provided for the settlement of clothing accounts.
 
-(c) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from his pay in monthly installments. However, after the deduction of pay forfeited by the sentence of a court-martial, if any, or otherwise authorized bylaw to be withheld, the deductions authorized by this section may not reduce the pay actually received for any month to less than one-third of his pay for that month.
+(c) Under regulations prescribed by the Secretary concerned, an amount that a member of the uniformed services is administratively determined to owe the United States or any of its instrumentalities may be deducted from his pay in monthly installments. However, after the deduction of pay forfeited by the sentence of a court-martial, if any, or otherwise authorized by law to be withheld, the deductions authorized by this section may not reduce the pay actually received for any month to less than one-third of his pay for that month.
 
 (d) Subject to subsection (c), an amount due the United States from an enlisted member of the Army or the Air Force may be deducted from his pay on final statement, or from his savings on his clothing allowance.
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 Section 343(b) of Pub. L. 101–189 provided that:
 
-“(1) Except as provided in paragraph (2), subsection (i) of section 1007 of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].
+“(1) Except as provided in paragraph (2), subsection (i) of section 1007 of title 37, United States Code, asadded by subsection (a), shall take effect on the first day of the first month beginning after the date of the enactment of this Act \[Nov. 29, 1989\].
 
 “(2) With respect to deductions from the pay of an enlisted member or warrant officer in the Navy, Marine Corps, or Coast Guard (when it is operating as a service in the Navy), such subsection shall take effect on October 1, 1990.”
 

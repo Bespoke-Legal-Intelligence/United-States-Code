@@ -2,7 +2,7 @@
 
 It is the sense of the Congress that the Secretary of State should, and he is authorized to, establish within the Department of State a bureau which shall be responsible for continuously reviewing (1) the supply, demand, and price, throughout the world, of basic raw and processed materials (including agricultural commodities), and (2) the effect of United States Government programs and policies (including tax policy) in creating or alleviating, or assisting in creating or alleviating, shortages of such materials. In conducting such review, the bureau should obtain information with respect to—
 
-&emsp;(A) the supply, demand, and price of each such material in each major importing, exporting, and producing country and region of the world in order to understand long-termand short-term trends in the supply, demand, and price of such materials;
+&emsp;(A) the supply, demand, and price of each such material in each major importing, exporting, and producing country and region of the world in order to understand long-term and short-term trends in the supply, demand, and price of such materials;
 
 &emsp;(B) projected imports and exports of such materials on a country-by-country basis;
 

@@ -14,7 +14,7 @@ General Powers of Secretary.—The Secretary of the Treasury may (except under s
 
 &emsp;(5) exempt from the requirements of this subchapter any class of transactions within any State if the Secretary determines that—
 
-&emsp;&emsp;(A) under the laws of such State, that class of transactions is subject to requirements substantially similar to those imposed under this subchapter; and
+&emsp;&emsp;(A) under the laws of such State, that class of transactions is subject to requirementssubstantially similar to those imposed under this subchapter; and
 
 &emsp;&emsp;(B) there is adequate provision for the enforcement of such requirements; and
 
@@ -118,7 +118,7 @@ In general.—In requiring reports under paragraph (1) of suspicious transaction
 
 &emsp;&emsp;(B)
 
-Duty of designee.—The officer or agency of the United States designated by the Secretary of the Treasury pursuant to subparagraph (A) shall refer any report of a suspicious transaction to any appropriate law enforcement or supervisory agency.
+Duty of designee.—The officer or agency of the United States designated by the Secretary of the Treasury pursuant tosubparagraph (A) shall refer any report of a suspicious transaction to any appropriate law enforcement or supervisory agency.
 
 &emsp;&emsp;(C)
 
@@ -226,7 +226,7 @@ Time for submitting reports.—The 1st report required under paragraph (1) shall
 
 #### Designation Required To Be Made Expeditiously
 
-Section 403(c) of Pub. L. 103–325 provided that: “The initial designation of an officer or agency of the United States pursuant to the amendment made by subsection (a) \[amending this section\] shall be made before the end of the 180-day period beginning on the date of enactment of this Act \[Sept. 23, 1994\].”
+Section 403(c) of Pub. L. 103–325 provided that: “The initial designation of an officer or agency of the UnitedStates pursuant to the amendment made by subsection (a) \[amending this section\] shall be made before the end of the 180-day period beginning on the date of enactment of this Act \[Sept. 23, 1994\].”
 
 #### Improvement of Identification of Money Laundering Schemes
 

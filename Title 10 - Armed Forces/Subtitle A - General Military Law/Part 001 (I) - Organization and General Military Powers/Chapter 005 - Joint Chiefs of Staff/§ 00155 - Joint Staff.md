@@ -16,7 +16,7 @@ Appointment of Officers to Joint Staff.—(1) There is a Joint Staff under the C
 
 (b)
 
-Director.—The Chairman of the Joint Chiefs of Staff, after consultation with the other members of the Joint Chiefs of Staff and with the approval of the Secretary of Defense, may select an officer to serve as Director of the Joint Staff.
+Director.—The Chairman of the Joint Chiefs of Staff, after consultation with the other members of the Joint Chiefs of Staff and withthe approval of the Secretary of Defense, may select an officer to serve as Director of the Joint Staff.
 
 (c)
 
@@ -81,6 +81,58 @@ Subsec. (g)(2)(B). Pub. L. 100–180, §1314(b)(2)(B), inserted “the President
 #### Effective Date of 1993 Amendment
 
 Section 202(b) of Pub. L. 103–35 provided that: “The amendments made by this section \[amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of Title 36, Patriotic Societies and Observances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and section 5611 of Title 15, Commerce and Trade\] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484).”
+
+#### Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters
+
+Pub. L. 105–85, div. A, title IX, §901, Nov. 18, 1997, 111 Stat. 1853, provided that:
+
+“(a)
+
+Establishment of Positions.—The Secretary of Defense shall establish the following positions within the Joint Staff:
+
+&emsp;“(1) Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters.
+
+&emsp;“(2) Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters.
+
+“(b)
+
+Selection.—(1) The Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters shall be selected by the Chairman from officers of the Army National Guard of the United States or the Air Guard of the United States who—
+
+&emsp;“(A) are recommended for such selection by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard;
+
+&emsp;“(B) have had at least 10 years of federally recognized commissioned service in the National Guard; and
+
+&emsp;“(C) are in a grade above the grade of colonel.
+
+“(2) The Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters shall be selected by the Chairman from officers of the Army Reserve, the Naval Reserve, the Marine Corps Reserve, or the Air Force Reserve who—
+
+&emsp;“(A) are recommended for such selection by the Secretary of the military department concerned;
+
+&emsp;“(B) have had at least 10 years of commissioned service in their reserve component; and
+
+&emsp;“(C) are in a grade above the grade of colonel or, in the case of the Naval Reserve, captain.
+
+“(c)
+
+Term of Office.—Each Assistant to the Chairman under subsection (a) serves at the pleasure of the Chairman for a term of two years and may be continued in that assignment in the same manner for one additional term. However, in time of war there is no limit on the number of terms.
+
+“(d)
+
+Grade.—Each Assistant to the Chairman, while so serving, holds the grade of major general or, in thecase of the Naval Reserve, rear admiral. Each such officer shall be considered to be serving in a position external to that officer's Armed Force for purposes of section 721 of title 10, United States Code, as added by section 501(a).
+
+“(e)
+
+Duties.—The Assistant to the Chairman for National Guard Matters is an adviser to the Chairman on matters relating to the National Guard and performs the duties prescribed for that position by the Chairman. The Assistant to the Chairman for Reserve Matters is an adviser to the Chairman on matters relating to the reserves and performs the duties prescribed for that position by the Chairman.
+
+“(f)
+
+Other Reserve Component Representation on Joint Staff.—(1) The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs, shall develop appropriate policy guidance to ensure that, to the maximum extent practicable, the level of reserve component officer representation within the Joint Staff is commensurate with the significant role of the reserve components within the Total Force.
+
+“(2) Not later than March 1, 1998, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report describing the steps taken and being taken to implement this subsection.
+
+“(g)
+
+Effective Date.—The positions specified in subsection (a) shall be established by the Secretary of Defense not later than 60 days after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
 #### Section Referred to in Other Sections
 

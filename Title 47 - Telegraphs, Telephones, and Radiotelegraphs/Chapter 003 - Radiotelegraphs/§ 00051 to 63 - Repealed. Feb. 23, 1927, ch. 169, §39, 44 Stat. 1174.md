@@ -1,6 +1,6 @@
 ### §§51 to 63. Repealed. Feb. 23, 1927, ch. 169, §39, 44 Stat. 1174
 
-Section 51, act Aug. 13, 1912, ch. 287, §1, 37 Stat. 302, required license for operation of apparatus for radio communication and transmission of radiograms or signals, revocable for cause, described its interstate, foreign and local aspects, exempted the United States from its requirement and provided for special call letters for every Government station and penalties and forfeiture of offending apparatus. See sections 301, 305, 312, 501, and 503 of this title.
+Section 51, act Aug. 13, 1912, ch. 287, §1, 37 Stat. 302, required license for operation of apparatus for radio communication and transmission of radiograms or signals, revocable for cause, described its interstate, foreign and local aspects, exempted the United Statesfrom its requirement and provided for special call letters for every Government station and penalties and forfeiture of offending apparatus. See sections 301, 305, 312, 501, and 503 of this title.
 
 Section 52, act Aug. 13, 1912, ch. 287, §2, 37 Stat. 303, related to form of license, United States citizenship of licensee, and contents of license, including statement of restrictions, ownership, location, purpose, wave length, and hours for work of station, subjection to rules and regulations and to closing by the President in time of war, public peril or disaster or Government use or control with payment of just compensation. See sections 307 to 309 of this title.
 

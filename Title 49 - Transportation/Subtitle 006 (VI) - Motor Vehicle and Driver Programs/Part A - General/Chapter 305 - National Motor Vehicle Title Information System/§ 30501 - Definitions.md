@@ -20,7 +20,7 @@ In this chapter—
 
 &emsp;&emsp;(B) rebuilding, restoration, or crushing.
 
-&emsp;(6) “operator” means the individual or entity authorized or designated as the operator of the National Automobile <sup>1</sup> Title Information System under section 30502(b) of this title, or the Attorney General, if there is no authorized or designated individual or entity.
+&emsp;(6) “operator” means the individual or entity authorized or designated as the operator of the National Motor Vehicle Title Information System under section 30502(b) of this title, or the Attorney General, if there is no authorized or designated individual or entity.
 
 &emsp;(7) “salvage automobile” means an automobile that is damaged by collision, fire, flood, accident, trespass, or other event, to the extent that its fair salvage value plus the cost of repairing the automobile for legal operation on public streets, roads, and highways would be more than the fair market value of the automobile immediately before the event that caused the damage.
 
@@ -32,7 +32,7 @@ In this chapter—
 
 &emsp;(9) “State” means a State of the United States or the District of Columbia.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 979; Pub. L. 104–152, §3(a), July 2, 1996, 110 Stat. 1384.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 979; Pub. L. 104–152, §§2(c), 3(a), July 2, 1996, 110 Stat. 1384; Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215.)
 
 Historical and Revision Notes
 
@@ -64,7 +64,15 @@ The text of 15:2041(9) is omitted because the complete title of the Secretary of
 
 #### Amendments
 
-1996—Par. (6). Pub. L. 104–152 substituted “Attorney General” for “Secretary of Transportation”.
+1997—Par. (6). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Motor Vehicle”.</i>
+1996—Par. (6). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary of Transportation”.
+
+Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, §3(b), substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
+
+#### Effective Date of 1997 Amendment
+
+Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(b) is effective July 2, 1996.
+
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 

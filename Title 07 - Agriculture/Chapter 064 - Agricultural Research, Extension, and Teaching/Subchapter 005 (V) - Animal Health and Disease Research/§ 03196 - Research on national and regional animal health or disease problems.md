@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such funds as Congress may determine necessary to support research on specific national or regional animal health or disease problems, or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being, but notto exceed $35,000,000 for each of the fiscal years 1991 through 1997, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year.
+There are authorized to be appropriated such funds as Congress may determine necessary to support research on specific national or regional animal health or disease problems, or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being, but not to exceed $35,000,000 for each of the fiscal years 1991 through 1997, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year.
 
 #### (b) Duration of grants
 
@@ -10,7 +10,7 @@ Notwithstanding the provisions of section 3197 of this title, funds appropriated
 
 #### (c) Establishment of annual priority lists for allocation of funds
 
-In order to establish a rational allocation of funds appropriated under this section, the Secretary shall establish annually priority lists of animal health and disease, food safety, and animal well-being problems of national or regional significance. Such lists shall be prepared after consultation with the Advisory Board and the Board. Any recommendations made in connection with such consultation shall not be controlling on the Secretary's determination of priorities. In establishing such priorities, the Secretary, the Advisory Board, and the Board shall consider the following factors:
+In order to establish a rational allocation of funds appropriated under this section, the Secretary shall establish annually priority lists of animal health and disease, food safety, and animal well-being problems of national or regional significance. Such lists shall be prepared afterconsultation with the Advisory Board and the Board. Any recommendations made in connection with such consultation shall not be controlling on the Secretary's determination of priorities. In establishing such priorities, the Secretary, the Advisory Board, and the Board shall consider the following factors:
 
 &emsp;(1) any health or disease problem which causes or may cause significant economic losses to any part of the livestock production industry;
 

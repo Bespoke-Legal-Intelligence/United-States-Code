@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(A) provide technical assistance and training to enable Head Start agencies to establish such positions;
 
-&emsp;&emsp;(B) give priority consideration, in providing assistance pursuant to subparagraph (A), to Head Start programs that have substantial numbers of new classroom staff, that are experiencing difficulty in meeting applicable education standards, or that lack staff of a similar cultural background to that of the participating children and their families;
+&emsp;&emsp;(B) give priority consideration, in providing assistance pursuant to subparagraph (A),to Head Start programs that have substantial numbers of new classroom staff, that are experiencing difficulty in meeting applicable education standards, or that lack staff of a similar cultural background to that of the participating children and their families;
 
 &emsp;&emsp;(C) encourage Head Start programs to give priority consideration for such positions to Head Start teachers at the appropriate level of career advancement in such programs; and
 

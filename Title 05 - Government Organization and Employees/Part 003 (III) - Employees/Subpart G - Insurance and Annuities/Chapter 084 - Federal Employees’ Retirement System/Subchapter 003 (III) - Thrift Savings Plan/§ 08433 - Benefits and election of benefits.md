@@ -1,6 +1,6 @@
 ### §8433. Benefits and election of benefits
 
-(a) An employee or Member who separates from Government employment is entitled to the amount of the balance in the employee's or Member's account (except for the portion of such amount forfeited under section 8432(g) of this title, if any) as provided in this section.
+(a) An employee or Member who separates from Government employment is entitled to theamount of the balance in the employee's or Member's account (except for the portion of such amount forfeited under section 8432(g) of this title, if any) as provided in this section.
 
 (b) Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect to withdraw from the Thrift Savings Fund the balance of the employee's or Member's account as—
 
@@ -194,5 +194,5 @@ Section 101(f) \[title VI, §659 \[title II, §203(b)\]\] of Pub. L. 104–208 p
 
 This section is referred to in sections 8351, 8434, 8432b, 8435, 8436, 8437, 8440a, 8440b, 8440c, 8440d of this title; title 22 section 4071j; title 50 section 2154.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (2)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)”.</i>
 

@@ -66,7 +66,7 @@ Section 245(b) of Pub. L. 101–246 provided that: “A reference in any provisi
 
 #### Continued Service of Board Members
 
-Section 245(c) of Pub. L. 101–246 provided that: “Each member of the Advisory Board for Radio Broadcasting to Cuba as in existence on the day before the effective date of the amendment made by subsection (a) \[Feb. 16,1990\] shall continue to serve for the remainder of the term to which such member was appointed as a member of the Advisory Board for Cuba Broadcasting.”
+Section 245(c) of Pub. L. 101–246 provided that: “Each member of the Advisory Board for Radio Broadcasting to Cuba as in existence on the day before the effective date of the amendment made by subsection (a) \[Feb. 16, 1990\] shall continue to serve for the remainder of the term to which such member was appointed as a member of the Advisory Board for Cuba Broadcasting.”
 
 #### Staff Director
 

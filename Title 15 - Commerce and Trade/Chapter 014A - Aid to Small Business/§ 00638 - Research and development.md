@@ -2,7 +2,7 @@
 
 #### (a) Declaration of policy
 
-Research and development are major factors in the growth and progress of industry and the national economy. The expense of carrying on research and development programs is beyond the means of many small-business concerns, and such concerns are handicapped in obtaining the benefits of research and development programs conducted at Government expense. These small-business concerns are thereby placed at a competitive disadvantage. This weakens the competitive free enterprise system and prevents the orderly development of the national economy. It is the policy of the Congress that assistance be given to small-business concerns to enable them to undertake and to obtain the benefits of research and development in order to maintain and strengthen the competitive free enterprise system and the national economy.
+Research and development are major factors in the growth and progress of industry and thenational economy. The expense of carrying on research and development programs is beyond the means of many small-business concerns, and such concerns are handicapped in obtaining the benefits of research and development programs conducted at Government expense. These small-business concerns are thereby placed at a competitive disadvantage. This weakens the competitive free enterprise system and prevents the orderly development of the national economy. It is the policy of the Congress that assistance be given to small-business concerns to enable them to undertake and to obtain the benefits of research and development in order to maintain and strengthen the competitive free enterprise system and the national economy.
 
 #### (b) Assistance to small-business concerns
 
@@ -50,15 +50,15 @@ The Administration is authorized to consult and cooperate with all Government ag
 
 For the purpose of this section—
 
-&emsp;(1) the term “extramural budget” means the sum of the total obligations minus amounts obligated for such activities by employees of the agency in or through Government-owned, Government-operated facilities, except that for the Department of Energy it shall not include amounts obligated for atomic energy defense programs solely for weapons activities or for naval reactor programs, and except that for the Agency for International Development it shall not include amounts obligated solely for general institutional support of international research centers or for grants to foreign countries;
+&emsp;(1) the term “extramural budget” means the sum of the total obligations minus amounts obligated for such activities by employees of the agency in or through Government-owned, Government-operated facilities, except thatfor the Department of Energy it shall not include amounts obligated for atomic energy defense programs solely for weapons activities or for naval reactor programs, and except that for the Agency for International Development it shall not include amounts obligated solely for general institutional support of international research centers or for grants to foreign countries;
 
 &emsp;(2) the term “Federal agency” means an executive agency as defined in section 105 of title 5 or a military department as defined in section 102 of such title, except that it does not include any agency within the Intelligence Community (as the term is defined in section 3.4(f) of Executive Order 12333 or its successor orders);
 
 &emsp;(3) the term “funding agreement” means any contract, grant, or cooperative agreement entered into between any Federal agency and any small business for the performance of experimental, developmental, or research work funded in whole or in part by the Federal Government;
 
-&emsp;(4) the term “Small Business Innovation Research Program” or “SBIR” means a program under which a portion of a Federal agency'sresearch or research and development effort is reserved for award to small business concerns through a uniform process having—
+&emsp;(4) the term “Small Business Innovation Research Program” or “SBIR” means a program under which a portion of a Federal agency's research or research and development effort is reserved for award to small business concerns through a uniform process having—
 
-&emsp;&emsp;(A) a first phase for determining, insofar as possible, the scientific and technical merit and feasibility of ideas that appear to have commercial potential, as described in subparagraph (B)(ii), submitted pursuant to SBIR program solicitations;
+&emsp;&emsp;(A) a first phase for determining, insofar as possible, the scientific and technical merit and feasibility of ideas that appear to have commercial potential, as described in subparagraph (B), submitted pursuant to SBIR program solicitations;
 
 &emsp;&emsp;(B) a second phase, to further develop proposals which meet particular program needs, in which awards shall be made based on the scientific and technical merit and feasibility of the proposals, as evidenced by the first phase, considering, among other things, the proposal's commercial potential, as evidenced by—
 
@@ -166,7 +166,7 @@ Each Federal agency required by this section to have an SBIR program or to estab
 
 &emsp;&emsp;(D) minimizing regulatory burden associated with participation in the SBIR program for the small business concern which will stimulate the cost-effective conduct of Federal research and development and the likelihood of commercialization of the results of research and development conducted under the SBIR program;
 
-&emsp;&emsp;(E) simplified, standardized, and timely annual report on the SBIR program to theSmall Business Administration and the Office of Science and Technology Policy;
+&emsp;&emsp;(E) simplified, standardized, and timely annual report on the SBIR program to the Small Business Administration and the Office of Science and Technology Policy;
 
 &emsp;&emsp;(F) standardized and orderly withdrawal from program participation by an agency having a SBIR program; at the discretion of the Administration, such directives may require a phased withdrawal over a period of time sufficient in duration to minimize any adverse impact on small business concerns; and
 
@@ -222,15 +222,7 @@ The authorization to carry out the Small Business Innovation Research Program un
 
 #### (1) Required expenditure amounts
 
-&emsp;Each Federal agency which has an extramural budget for research or research and development in excess of $1,000,000,000 in fiscal year 1994, 1995, or 1996, is authorized to expend with small business concerns—
-
-&emsp;&emsp;(A) not less than 0.05 percent of such budget in fiscal year 1994;
-
-&emsp;&emsp;(B) not less than 0.1 percent of such budget in fiscal year 1995; and
-
-&emsp;&emsp;(C) not less than 0.15 percent of such budget in fiscal years 1996 and 1997,
-
-> &emsp;specifically in connection with STTR programs which meet the requirements of this section, policy directives, and regulations issued under this section.
+&emsp;With respect to fiscal years 1998, 1999, 2000, and 2001, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, is authorized to expend with small business concerns not less than 0.15 percent of that extramural budget specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.
 
 #### (2) Limitations
 
@@ -266,11 +258,15 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;(7) make payments to recipients of STTR funding agreements on the basis of progress toward or completion of the funding agreement requirements and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the last day of the 12-month period beginning on the date of the completion of such requirements;
 
-&emsp;(8) submit an annual report on the STTR program to the Administration and the Office of Science and Technology Policy;
+&emsp;(8) include, as part of its annual performance plan as required by subsections (a) and (b) of section 1115 of title 31, a section on its STTR program, and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
 
-&emsp;(9) develop a model agreement not later than July 31, 1993, to be approved by the Administration, for allocating between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
+&emsp;(9) collect such data from awardees as is necessary to assess STTR program outputs and outcomes;
 
-&emsp;(10) develop, in consultation with the Office of Federal Procurement Policy and the Office of Government Ethics, procedures to ensure that federally funded research and development centers (as defined in subsection (e)(8) of this section) that participate in STTR agreements—
+&emsp;(10) submit an annual report on the STTR program to the Administration and the Office of Science and Technology Policy;
+
+&emsp;(11) develop a model agreement not later than July 31, 1993, to be approved by the Administration, for allocating between small business concerns and research institutions intellectual property rights and rights, if any, to carry out follow-on research, development, or commercialization;
+
+&emsp;(12) develop, in consultation with the Office of Federal Procurement Policy and the Office of Government Ethics, procedures to ensure that federally funded research and development centers (as defined in subsection (e)(8) of this section) that participate in STTR agreements—
 
 &emsp;&emsp;(A) are free from organizational conflicts of interests relative to the STTR program;
 
@@ -278,7 +274,7 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;&emsp;(C) use outside peer review, as appropriate; and
 
-&emsp;(11) not later than July 31, 1993, develop procedures for assessing the commercial merit and feasibility of STTR proposals, as evidenced by—
+&emsp;(13) not later than July 31, 1993, develop procedures for assessing the commercial merit and feasibility of STTR proposals, as evidenced by—
 
 &emsp;&emsp;(A) the small business concern's record of successfully commercializing STTR or other research;
 
@@ -380,7 +376,51 @@ Each Federal agency required to establish an STTR program in accordance with sub
 
 &emsp;Each funding agreement under an SBIR or STTR program shall include provisions setting forth the respective rights of the United States and the small business concern with respect to intellectual property rights and with respect to any right to carry out follow-on research.
 
-(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, titleXLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733.)
+#### (s) Outreach
+
+#### (1) “Eligible State” defined
+
+&emsp;In this subsection, the term “eligible State” means a State—
+
+&emsp;&emsp;(A) if the total value of contracts awarded to the State during fiscal year 1995 under this section was less than $5,000,000; and
+
+&emsp;&emsp;(B) that certifies to the Administration described in paragraph (2) that the State will, upon receipt of assistance under this subsection, provide matching funds from non-Federal sources in an amount that is not less than 50 percent of the amount provided under this subsection.
+
+#### (2) Program authority
+
+&emsp;Of amounts made available to carry out this section for fiscal year 1998, 1999, 2000, or 2001 the Administrator may expend with eligible States not more than $2,000,000 in each such fiscal year in order to increase the participation of small business concerns located in those States in the programs under this section.
+
+#### (3) Amount of assistance
+
+&emsp;The amount of assistance provided to an eligible State under this subsection in any fiscal year—
+
+&emsp;&emsp;(A) shall be equal to twice the total amount of matching funds from non-Federal sources provided by the State; and
+
+&emsp;&emsp;(B) shall not exceed $100,000.
+
+#### (4) Use of assistance
+
+&emsp;Assistance provided to an eligible State under this subsection shall be used by the State, in consultation with State and local departments and agencies, for programs and activities to increase the participation of small business concerns located in the State in the programs under this section, including—
+
+&emsp;&emsp;(A) the establishment of quantifiable performance goals, including goals relating to—
+
+&emsp;&emsp;&emsp;(i) the number of program awards under this section made to small business concerns in the State; and
+
+&emsp;&emsp;&emsp;(ii) the total amount of Federal research and development contracts awarded to small business concerns in the State;
+
+&emsp;&emsp;(B) the provision of competition outreach support to small business concerns in the State that are involved in research and development; and
+
+&emsp;&emsp;(C) the development and dissemination of educational and promotional information relating to the programs under this section to small business concerns in the State.
+
+#### (t) Inclusion in strategic plans
+
+Program information relating to the SBIR and STTR programs shall be included by each Federal agency in any update or revision required of the Federal agency under section 306(b) of title 5.
+
+(Pub. L. 85–536, §2\[9\], July 18, 1958, 72 Stat. 391; Pub. L. 97–219, §§3–5, July 22, 1982, 96 Stat. 217, 218, 221; Pub. L. 99–443, §§1, 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–590, title I, §108, Nov. 3, 1988, 102 Stat. 2994; Pub. L. 102–484, div. D, title XLII, §4237(d), Oct. 23, 1992, 106 Stat. 2692; Pub. L. 102–564, title I, §§103, 104, title II, §202(a)–(c), title III, §§301(a), 305, Oct. 28, 1992, 106 Stat. 4250, 4254, 4256, 4257, 4261, 4262; Pub. L. 103–403, title VI, §607, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 104–208, div. D, title I, §110, Sept. 30, 1996, 110 Stat. 3009–733; Pub. L. 105–135, title V, §501, Dec. 2, 1997, 111 Stat. 2620.)
+
+#### Repeal of Subsection (s)
+
+<i>Pub. L. 105–135, title V, §501(b)(2), Dec. 2, 1997, 111 Stat. 2622, provided that, effective October 1, 2001, subsection (s) of this section is repealed.</i>
 
 #### References in Text
 
@@ -401,6 +441,22 @@ Section 105 of the Small Business Research and Development Enhancement Act of 19
 Section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, was previously classified to this section. See section 645 of this title and Codification note set out under section 631 of this title.
 
 #### Amendments
+
+1997—Subsec. (e)(4)(A). Pub. L. 105–135, §501(b)(1)(B), substituted “subparagraph (B)” for “subparagraph (B)(ii)”.
+
+Subsec. (n)(1). Pub. L. 105–135, §501(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Each Federal agency which has an extramural budget for research or research and development in excess of $1,000,000,000 in fiscal year 1994, 1995, or 1996, is authorized to expend with small business concerns—
+
+&emsp;“(A) not less than 0.05 percent of such budget in fiscal year 1994;
+
+&emsp;“(B) not less than 0.1 percent of such budget in fiscal year 1995; and
+
+&emsp;“(C) not less than 0.15 percent of such budget in fiscal years 1996 and 1997,
+
+> specifically in connection with STTR programs which meet the requirements of this section, policy directives, and regulations issued under this section.”
+
+Subsec. (<i>o</i>)(8) to (13). Pub. L. 105–135, §501(b)(1)(A), added pars. (8) and (9) and redesignated former pars. (8) to (11) as (10) to (13), respectively.
+
+Subsecs. (s), (t). Pub. L. 105–135, §501(b)(1)(C), added subsecs. (s) and (t).
 
 1996—Subsec. (n)(1)(C). Pub. L. 104–208 substituted “fiscal years 1996 and 1997” for “fiscal year 1996”.
 
@@ -465,6 +521,12 @@ Subsecs. (e) to (k). Pub. L. 97–219, §4, added subsecs. (e) to (k).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 104–208, set out as a note under section 633 of this title.
+
+#### Effective and Termination Dates of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
+
+Section 501(b)(2) of Pub. L. 105–135 provided that: “Effective October 1, 2001, section 9(s) of the Small Business Act \[15 U.S.C. 638(s)\] (as added by paragraph (1) of this subsection) is repealed.”
 
 #### Effective and Termination Dates of 1992 Amendment
 
@@ -534,7 +596,7 @@ Purchase of American-Made Equipment and Products.—It is the sense of the Congr
 
 “(b)
 
-Notice to SBIR Awardees.—Each Federal agency that awards funding agreements under the SBIR program shall provide to each recipient of such an award a notice describing the sense of the Congress, as set forth in subsection (a).”
+Notice to SBIR Awardees.—Each Federal agency that awards funding agreements under the SBIRprogram shall provide to each recipient of such an award a notice describing the sense of the Congress, as set forth in subsection (a).”
 
 #### Small Business Innovation Research Program in Department of Defense
 
@@ -755,7 +817,7 @@ Section 6 of Pub. L. 97–219, as amended by Pub. L. 99–443, §3, Oct. 6, 1986
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 637, 645, 649 of this title; title 10 sections 2302, 2304, 2320, 2491; title 41 sections 253, 259, 416.
+This section is referred to in sections 637, 645, 649 of this title; title 10 sections 2302, 2304, 2320, 2500; title 41 sections 253, 259, 416.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -6,7 +6,7 @@ The Office shall allocate 20 per centum of the total amount available for grants
 
 #### (b) Weighted formula; minimum allocation; reallocation; “State” defined
 
-(1) The Office shall allocate 80 per centum of the total amount available for grants under this chapter among the States on a weighted formulataking into consideration such factors as the size of population and the number of State and local government employees affected.
+(1) The Office shall allocate 80 per centum of the total amount available for grants under this chapter among the States on a weighted formula taking into consideration such factors as the size of population and the number of State and local government employees affected.
 
 (2) The amount allocated for each State under paragraph (1) of this subsection shall be further allocated by the Office to meet the needs of both the State government and the local governments within the State on a weighted formula taking into consideration such factors as the number of State and local government employees and the amount of State and local government expenditures. The Office shall determine the categories of employees and expenditures to be included or excluded, as the case may be, in the number of employees and amount of expenditures. The minimum allocation for meeting needs of local governments in each State (other than the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Virgin Islands) shall be 50 per centum of the amount allocated for the State under paragraph (1) of this subsection.
 

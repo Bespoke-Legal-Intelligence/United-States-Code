@@ -16,7 +16,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 The preamble to act Oct. 11, 1949, provided that:
 
-“Whereas the national forests of the United States contain approximately eighty million acres of the Nation's commercial timber lands and approximatelyeighty-three million acres of the Nation's important grazing lands; and
+“Whereas the national forests of the United States contain approximately eighty million acres of the Nation's commercial timber lands and approximately eighty-three million acres of the Nation's important grazing lands; and
 
 “Whereas these national-forest lands comprise the principal source of water supply for domestic, irrigation, and industrial purposes for thousands of communities, farms, and industries, and good forest and other vegetative cover is essential for watershed protection; and
 

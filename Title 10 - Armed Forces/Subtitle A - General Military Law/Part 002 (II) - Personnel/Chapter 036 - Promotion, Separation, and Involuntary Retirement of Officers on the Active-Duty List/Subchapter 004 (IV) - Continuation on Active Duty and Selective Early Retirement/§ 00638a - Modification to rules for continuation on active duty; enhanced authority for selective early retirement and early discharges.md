@@ -16,7 +16,7 @@
 
 &emsp;(3) Suspending section 638(c) of this title.
 
-&emsp;(4) Convening selection boards under section 611(b) of this title to consider for discharge regular officers on the active-duty list in a grade below lieutenant colonel or commander—
+&emsp;(4) Convening selection boards under section 611(b) of this title to consider for dischargeregular officers on the active-duty list in a grade below lieutenant colonel or commander—
 
 &emsp;&emsp;(A) who have served at least one year of active duty in the grade currently held;
 

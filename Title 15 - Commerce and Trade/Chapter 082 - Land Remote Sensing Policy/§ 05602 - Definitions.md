@@ -4,7 +4,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(1) The term “Administrator” means the Administrator of the National Aeronautics and Space Administration.
 
-&emsp;(2) The term “cost of fulfilling user requests” means the incremental costs associated with providing product generation, reproduction, and distribution of unenhanced data in response to user requests and shall not include any acquisition, amortization, or depreciation of capital assets originally paid for by the United States Government or other costs not specifically attributable to fulfilling user requests.
+&emsp;(2) The term “cost of fulfilling user requests” means the incremental costs associated with providing product generation, reproduction, and distribution of unenhanced datain response to user requests and shall not include any acquisition, amortization, or depreciation of capital assets originally paid for by the United States Government or other costs not specifically attributable to fulfilling user requests.
 
 &emsp;(3) The term “data continuity” means the continued acquisition and availability of unenhanced data which are, from the point of view of the user—
 

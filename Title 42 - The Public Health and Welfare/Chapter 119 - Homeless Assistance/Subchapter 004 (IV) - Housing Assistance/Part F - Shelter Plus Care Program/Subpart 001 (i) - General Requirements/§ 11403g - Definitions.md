@@ -6,7 +6,7 @@ For purposes of this part:
 
 &emsp;(2) The term “applicant” means a State, unit of general local government or public housing agency.
 
-&emsp;(3) The term “eligible person” means a homeless person with disabilities (primarily persons who are seriously mentally ill, have chronic problems with alcohol, drugs, or both, or have acquired immunodeficiency syndromeand related diseases) and the family of such a person.
+&emsp;(3) The term “eligible person” means a homeless person with disabilities (primarily persons who are seriously mentally ill, have chronic problems with alcohol, drugs, or both, or have acquired immunodeficiency syndrome and related diseases) and the family of such a person.
 
 &emsp;(4) Repealed. Pub. L. 104–330, title V, §506(a)(9)(B), Oct. 26, 1996, 110 Stat. 4045.
 

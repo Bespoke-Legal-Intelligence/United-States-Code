@@ -2,7 +2,7 @@
 
 The Librarian of Congress shall be appointed by the President, by and with the advice and consent of the Senate. He shall make rules and regulations for the government of the Library.
 
-(Feb. 19, 1897, ch. 265, §1, 29 Stat. 544, 546; June 6, 1972, Pub. L. 92–310, title II, §220(f), 86 Stat. 204.)
+(Feb. 19, 1897, ch. 265, §1, 29 Stat. 544, 546; Pub. L. 92–310, title II, §220(f), June 6, 1972, 86 Stat. 204.)
 
 #### Prior Provisions
 

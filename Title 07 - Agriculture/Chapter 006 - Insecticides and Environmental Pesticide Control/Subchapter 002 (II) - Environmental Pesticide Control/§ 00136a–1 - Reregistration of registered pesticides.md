@@ -122,7 +122,7 @@ Reregistrations of pesticides under this section shall be carried out in the fol
 
 &emsp;&emsp;(II) no such registrant complies with paragraph (3)(A); or
 
-&emsp;&emsp;(III) no such registrant makes a commitment under paragraph (3)(B) to replace or submit all data described in clauses (ii) and (iii) of paragraph (3)(A);
+&emsp;&emsp;(III) no such registrant makes a commitment under paragraph (3)(B) to replace orsubmit all data described in clauses (ii) and (iii) of paragraph (3)(A);
 
 > &emsp;the Administrator shall publish in the Federal Register a notice of intent to remove the active ingredient from the list established under subsection (c)(2) of this section and a notice of intent to cancel the registrations of all pesticides containing such active ingredient and shall provide 60 days for comment on such notice.
 
@@ -152,7 +152,7 @@ Reregistrations of pesticides under this section shall be carried out in the fol
 
 &emsp;&emsp;(D) where data described in subparagraph (C) are not required for the active ingredient by regulations issued under section 136a of this title, a reformat of acute and subchronic dosing data submitted by the registrant to the Administrator before January 1, 1982, that the registrant considers to be adequate to meet the requirements of section 136a of this title and the regulations issued under such section;
 
-&emsp;&emsp;(E) an identification of data that are required to be submitted to the Administratorunder section 136d(a)(2) of this title, indicating an adverse effect of the pesticide;
+&emsp;&emsp;(E) an identification of data that are required to be submitted to the Administrator under section 136d(a)(2) of this title, indicating an adverse effect of the pesticide;
 
 &emsp;&emsp;(F) an identification of any other information available that in the view of the registrant supports the registration;
 

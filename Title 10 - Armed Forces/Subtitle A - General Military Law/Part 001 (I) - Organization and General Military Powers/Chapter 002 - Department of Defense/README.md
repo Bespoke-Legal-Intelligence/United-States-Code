@@ -22,7 +22,7 @@
 
 1992—Pub. L. 102–484, div. A, title X, §1002(d)(1), Oct. 23, 1992, 106 Stat. 2480, struck out item 114a “Multiyear Defense Program: submission to Congress; consistency in budgeting”.
 
-1990—Pub. L. 101–510, div. A, title XIV, §1402(a)(3)(B), Nov. 5, 1990, 104 Stat. 1674, which directed amendmentof item 114a by substituting “Multiyear” for “Five-year”, was executed by substituting “Multiyear” for “Five-Year” as the probable intent of Congress.
+1990—Pub. L. 101–510, div. A, title XIV, §1402(a)(3)(B), Nov. 5, 1990, 104 Stat. 1674, which directed amendment of item 114a by substituting “Multiyear” for “Five-year”, was executed by substituting “Multiyear” for “Five-Year” as the probable intent of Congress.
 
 Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 5, 1990, 104 Stat. 1673, 1715, substituted “Personnel strengths: requirement for annual authorization” for “Annual authorization of personnel strengths; annual manpower requirements report” in item 115, added items 115a and 115b, and struck out items 117 “Annual report on North Atlantic Treaty Organization readiness” and 118 “Sale or transfer of defense articles: reports to Congress”.
 

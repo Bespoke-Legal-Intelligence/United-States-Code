@@ -2,7 +2,7 @@
 
 #### (a) Immigrants; nonimmigrants
 
-Under the conditions hereinafter prescribed and subject to the limitations prescribed in this chapter or regulations issued thereunder, a consular officer may issue (1) to an immigrant who has made proper application therefor, an immigrant visa which shall consist of the application provided for in section 1202 of this title, visaed by such consular officer, and shall specify the foreign state, if any, to which the immigrant is charged, the immigrant's particular status under such foreign state, the preference, immediate relative, or special immigrant classification to which the alien is charged, the date on which the validity of the visa shall expire, and such additional information as may be required; and (2) to a nonimmigrant who has made proper application therefor, a nonimmigrant visa, which shall specify the classification under section 1101(a)(15) of this title of the nonimmigrant, the period during which the nonimmigrant visa shall be valid, and such additional information as may be required.
+Under the conditions hereinafter prescribed and subject to the limitations prescribed in thischapter or regulations issued thereunder, a consular officer may issue (1) to an immigrant who has made proper application therefor, an immigrant visa which shall consist of the application provided for in section 1202 of this title, visaed by such consular officer, and shall specify the foreign state, if any, to which the immigrant is charged, the immigrant's particular status under such foreign state, the preference, immediate relative, or special immigrant classification to which the alien is charged, the date on which the validity of the visa shall expire, and such additional information as may be required; and (2) to a nonimmigrant who has made proper application therefor, a nonimmigrant visa, which shall specify the classification under section 1101(a)(15) of this title of the nonimmigrant, the period during which the nonimmigrant visa shall be valid, and such additional information as may be required.
 
 #### (b) Registration; photographs; waiver of requirement
 
@@ -26,7 +26,7 @@ Each nonimmigrant shall present or surrender to the immigration officer at the p
 
 #### (g) Nonissuance of visas or other documents
 
-No visa or other documentation shall be issued to an alien if (1) it appears to the consular officer, from statements in the application, or in the papers submitted therewith, that such alien is ineligible to receive a visa or such other documentation under section 1182 of this title, or any other provision of law, (2) the application fails to comply with the provisions of this chapter, or the regulations issued thereunder, or (3) the consular officer knows or has reason to believe that such alien is ineligible to receive a visa or such other documentation under section 1182 of this title, or any other provision of law: <i>Provided</i>, That a visa or other documentation may be issued to an alien who is within the purview of section 1182(a)(4) of this title, if such alien is otherwise entitled to receive a visa or other documentation, upon receipt of notice by the consular officer from the Attorney General of the giving of a bond or undertaking providing indemnity as in the case of aliens admitted under section 1183 of this title: <i>Provided further</i>, That a visa may be issued to an alien defined in section 1101(a)(15)(B) or (F) of this title, if such alien is otherwise entitled to receive a visa, upon receipt of a notice by the consular officer from the Attorney General of the giving of a bond with sufficient surety in such sum and containing such conditions as the consular officer shall prescribe, to insure that at the expiration of the time for which such alien has been admitted by the Attorney General, as provided in section 1184(a) of this title, or upon failure to maintain the status under which he was admitted, or to maintain any status subsequently acquired under section 1258 of this title, such alien will depart from the United States.
+No visa or other documentation shall be issued to an alien if (1) it appears to the consular officer, from statements in the application, or in the papers submitted therewith, that such alien is ineligible to receive a visa or such other documentation under section 1182 of this title, or any other provision of law, (2) the application fails to comply with the provisions of this chapter, or the regulations issued thereunder, or (3) the consular officer knows or has reason to believe that such alien is ineligible to receive a visa or such other documentation under section 1182 of this title, or any other provision of law: <i>Provided</i>, That a visa or other documentation may be issued to an alien who is within the purview of section 1182(a)(4) of this title, if such alien is otherwise entitled to receive a visa or other documentation, upon receipt of notice by the consular officer from the Attorney General of the giving of a bond or undertaking providing indemnity as in the case of aliens admitted under section 1183 of this title: <i>Provided further</i>, That a visa may be issued to an alien defined in section1101(a)(15)(B) or (F) of this title, if such alien is otherwise entitled to receive a visa, upon receipt of a notice by the consular officer from the Attorney General of the giving of a bond with sufficient surety in such sum and containing such conditions as the consular officer shall prescribe, to insure that at the expiration of the time for which such alien has been admitted by the Attorney General, as provided in section 1184(a) of this title, or upon failure to maintain the status under which he was admitted, or to maintain any status subsequently acquired under section 1258 of this title, such alien will depart from the United States.
 
 #### (h) Nonadmission upon arrival
 
@@ -52,7 +52,7 @@ Subsec. (h). Pub. L. 104–208, §308(f)(2)(B), substituted “be admitted” fo
 
 1988—Subsecs. (a) to (c). Pub. L. 100–525 made technical correction to Pub. L. 99–653, §5. See 1986 Amendment note below.
 
-1986—Subsec. (a). Pub. L. 99–653, §5(a)(1), formerly §5(a)(a), as redesignated by Pub. L. 100–525, in cl. (1)substituted “specify the foreign state” for “specify the quota”, “under such foreign state” for “under such quota”, “special immigrant classification” for “special immigration classification”, and struck out “one copy of” after “shall consist of”.
+1986—Subsec. (a). Pub. L. 99–653, §5(a)(1), formerly §5(a)(a), as redesignated by Pub. L. 100–525, in cl. (1) substituted “specify the foreign state” for “specify the quota”, “under such foreign state” for “under such quota”, “special immigrant classification” for “special immigration classification”, and struck out “one copy of” after “shall consist of”.
 
 Subsec. (b). Pub. L. 99–653, §5(a)(2), formerly §5(a)(b), as redesignated by Pub. L. 100–525, amended subsec. (b) generally, striking out “and fingerprinted” after “shall be registered” and substituting “sections 1101(a)(15)(A) and 1101(a)(15)(G) of this title” for “section 1101(a)(15)(A) and (G) of this title”.
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 101–649 applicable to individuals entering United States 
 
 #### Effective Date of 1986 Amendment
 
-Section 23(b) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 5, 6, 8, 9, and 10 \[amending this section and sections 1202, 1301, 1302, and 1304 of this title and repealing section 1201a of this title\] apply to applications for immigrant visas made, and visas issued, on or after November 14, 1986.”
+Section 23(b) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendments made by sections 5, 6, 8, 9, and 10 \[amending this section and sections 1202, 1301, 1302, and 1304 of this title and repealing section 1201a of thistitle\] apply to applications for immigrant visas made, and visas issued, on or after November 14, 1986.”
 
 #### Effective Date of 1981 Amendment
 
@@ -140,7 +140,7 @@ Aliens covered.—An alien is described in this paragraph if the alien—
 
 &emsp;&emsp;“(A) is an employee of the Foreign Broadcast Information Service in Hong Kong, or
 
-&emsp;&emsp;“(B) is the spouse or child (as defined in subsection (d)) of an alien described in subparagraph\(A), if accompanying or following to join the alien in coming to the United States.
+&emsp;&emsp;“(B) is the spouse or child (as defined in subsection (d)) of an alien described in subparagraph (A), if accompanying or following to join the alien in coming to the United States.
 
 &emsp;“\[(3) Repealed. Pub. L. 102–232, title III, §302(d)(4)(C), Dec. 12, 1991, 105 Stat. 1745.\]
 

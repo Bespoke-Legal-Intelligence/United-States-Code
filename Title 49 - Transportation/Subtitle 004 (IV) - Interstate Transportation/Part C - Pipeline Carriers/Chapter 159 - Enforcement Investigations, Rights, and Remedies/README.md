@@ -5,12 +5,7 @@
 | [15901\.](%C2%A7%2015901%20-%20General%20authority.md) | General authority. |
 | [15902\.](%C2%A7%2015902%20-%20Enforcement%20by%20the%20Board.md) | Enforcement by the Board. |
 | [15903\.](%C2%A7%2015903%20-%20Enforcement%20by%20the%20Attorney%20General.md) | Enforcement by the Attorney General. |
-| [15904\.](%C2%A7%2015904%20-%20Rights%20and%20remedies%20of%20persons%20injured%20by%20pipeline%20carriers.md) | Rights and remedies of persons injured by certain carriers.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [15904\.](%C2%A7%2015904%20-%20Rights%20and%20remedies%20of%20persons%20injured%20by%20pipeline%20carriers.md) | Rights and remedies of persons injured by pipeline carriers. |
 | [15905\.](%C2%A7%2015905%20-%20Limitation%20on%20actions%20by%20and%20against%20pipeline%20carriers.md) | Limitation on actions by and against pipeline carriers. |
 | [15906\.](%C2%A7%2015906%20-%20Liability%20of%20pipeline%20carriers%20under%20receipts%20and%20bills%20of%20lading.md) | Liability of pipeline carriers under receipts and bills of lading. |
 
@@ -18,11 +13,13 @@
 
 #### Amendments
 
+1997—Pub. L. 105–102, §3(d)(1)(A), Nov. 20, 1997, 111 Stat. 2215, which directed technical correction of directory language of Pub. L. 104–287, §5(45)(A), by substituting “ENFORCEMENT:” for “ENFORCEMENT,”, could not be executed because “ENFORCEMENT,” does not appear in section 5(45)(A).
+
+Pub. L. 105–102, §2(14), Nov. 20, 1997, 111 Stat. 2205, substituted “pipeline” for “certain” in item 15904.
+
 1996—Pub. L. 104–287, §5(45)(B), Oct. 11, 1996, 110 Stat. 3393, struck out item 15907 “Liability when property is delivered in violation of routing instructions”.
 
 Pub. L. 104–287, §5(45)(A), Oct. 11, 1996, 110 Stat. 3393, which directed amendment of chapter analysis by striking “CHAPTER 159—ENFORCEMENT; INVESTIGATIONS, RIGHTS, AND REMEDIES”, was executed by striking the duplicative chapter heading which read “CHAPTER 159—ENFORCEMENT: INVESTIGATIONS, RIGHTS, AND REMEDIES” to reflect the probable intent of Congress.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

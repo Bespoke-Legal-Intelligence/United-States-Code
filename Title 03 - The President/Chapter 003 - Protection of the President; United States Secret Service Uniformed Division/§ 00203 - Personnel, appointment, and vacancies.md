@@ -4,7 +4,7 @@
 
 (b) Members of the United States Secret Service Uniformed Division shall be recruited under the civil service laws and regulations on a nationwide basis. Members of such Service may also be appointed from the members of the Metropolitan Police force and the United States Park Police force from lists furnished by the officers in charge of such forces. Whenever any vacancy is created in the Metropolitan Police force or the United States Park Police force as the result of an appointment to the United States Secret Service Uniformed Division, such vacancy shall be filled in the manner provided by law. In the period of time which follows the date of enactment of this sentence and precedes January 1, 1975, not more than thirty members of the Metropolitan Police force may be appointed annually to the United States Secret Service Uniformed Division.
 
-(June 25, 1948, ch. 644, 62 Stat. 680; Aug. 15, 1950, ch. 715, §2, 64 Stat. 448; June 28, 1952, ch. 481, 66 Stat. 283; June 8, 1962, Pub. L. 87–481, §2, 76 Stat. 95; Mar. 19, 1970, Pub. L. 91–217, §1(1), (4)–(6), 84 Stat. 74, 75; Dec. 31, 1975, Pub. L. 94–196, §1(c), 89 Stat. 1109; Nov. 15, 1977, Pub. L. 95–179, 91 Stat. 1371; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title I\], 110 Stat. 3009–314, 3009–324.)
+(June 25, 1948, ch. 644, 62 Stat. 680; Aug. 15, 1950, ch. 715, §2, 64 Stat. 448; June 28, 1952, ch. 481, 66 Stat. 283; Pub. L. 87–481, §2, June 8, 1962, 76 Stat. 95; Pub. L. 91–217, §1(1), (4)–(6), Mar. 19, 1970, 84 Stat. 74, 75; Pub. L. 94–196, §1(c), Dec. 31, 1975, 89 Stat. 1109; Pub. L. 95–179, Nov. 15, 1977, 91 Stat. 1371; Pub. L. 104–208, div. A, title I, §101(f) \[title I\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–324.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ Subsec. (b). Pub. L. 91–217, §1(6), substituted “Executive Protective Servi
 
 #### Temporary Exceptions to Limitation
 
-Acts Aug. 11, 1951, ch. 301, title I, 65 Stat. 185; June 30, 1952, ch. 523, title I, 66 Stat. 290, made appropriations for salaries and expenses of the White House Police force for fiscal years 1952 and 1953, and provided that the appropriations should be available for additional personnel without regard for the limitation containedin this section. The provisions were not repeated in the Treasury Department Appropriation Act, 1954, act June 18, 1953, ch. 132, title I, 67 Stat. 67.
+Acts Aug. 11, 1951, ch. 301, title I, 65 Stat. 185; June 30, 1952, ch. 523, title I, 66 Stat. 290, made appropriations for salaries and expenses of the White House Police force for fiscal years 1952 and 1953, and provided that the appropriations should be available for additional personnel without regard for the limitation contained in this section. The provisions were not repeated in the Treasury Department Appropriation Act, 1954, act June 18, 1953, ch. 132, title I, 67 Stat. 67.
 
 #### Section Referred to in Other Sections
 

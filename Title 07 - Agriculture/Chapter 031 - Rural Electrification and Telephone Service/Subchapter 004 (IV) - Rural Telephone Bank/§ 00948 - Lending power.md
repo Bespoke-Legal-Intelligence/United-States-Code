@@ -32,7 +32,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;&emsp;(i) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class A stock, multiplied by the rate of return payable by the telephone bank during the fiscal year, as specified in section 946(c) of this title, to holders of class A stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year.
 
-&emsp;&emsp;(ii) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class B stock, multiplied by the rate at which dividends are payable by the telephone bank during the fiscalyear, as specified in section 946(d) of this title, to holders of class B stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year. For purposes of the calculation under this subparagraph, such rate shall be zero.
+&emsp;&emsp;(ii) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class B stock, multiplied by the rate at which dividends are payable by the telephone bank during the fiscal year, as specified in section 946(d) of this title, to holders of class B stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year. For purposes of the calculation under this subparagraph, such rate shall be zero.
 
 &emsp;&emsp;(iii) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class C stock, multiplied by the rate at which dividends are payable by the telephone bank during the fiscal year, under section 946(e) of this title, to holders of class C stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year.
 
@@ -246,7 +246,7 @@ Section 1411(a) of Pub. L. 100–203 provided that: “Congress finds that—
 
 &emsp;“(2) borrowers will be able to seek redress under section 408(b)(3)(G) of the Rural Electrification Act of 1936 \[subsec. (b)(3)(G) of this section\], as added by subsection (c), or may leave the Rural Telephone Bank, but in no case may the Governor of the Bank issue regulations requiring any penalty from borrowers seeking to retire debt prior to maturity; and
 
-&emsp;“(3) any reduction in Federal Government expenditures in the operation of the Rural Telephone Bank,from borrowers’ conduct resulting from the implementation of the amendments made by subsections (b) and (c) \[amending this section\], should be included in all calculations of the budget of the United States Government, authorized under the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 \[title I of Pub. L. 100–119, see Short Title of 1987 Amendment note set out under section 901 of Title 2, The Congress\].”
+&emsp;“(3) any reduction in Federal Government expenditures in the operation of the Rural Telephone Bank, from borrowers’ conduct resulting from the implementation of the amendments made by subsections (b) and (c) \[amending this section\], should be included in all calculations of the budget of the United States Government, authorized under the Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987 \[title I of Pub. L. 100–119, see Short Title of 1987 Amendment note set out under section 901 of Title 2, The Congress\].”
 
 #### Prepayment Regulations
 

@@ -16,7 +16,7 @@ Each facility of the Retirement Home maintained as a separate establishment of t
 
 (1) The Retirement Home shall consist of such property and facilities as may be transferred to the Retirement Home or acquired by the Retirement Home Board for inclusion in the Retirement Home.
 
-(2) On the effective date specified in section 1541(a), the property and facilities known and operated as the Naval Home and the United States Soldiers’ and Airmen's Home shall be transferred to, and made a part of, the Retirement Home.
+(2) On the effective date specified in section 1541(a), the property and facilities known and operated as the Naval Home and the United States Soldiers’ and Airmen's Home shall betransferred to, and made a part of, the Retirement Home.
 
 #### (e) Department of Defense support
 

@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings
 
-The Congress hereby finds that the imposition and application of the durational residency requirement as a precondition to voting for the offices of President and Vice President, and the lack of sufficient opportunities for absentee registration and absentee balloting in presidential elections—
+The Congress hereby finds that the imposition and application of the durational residency requirement as a precondition to voting for the offices of President and Vice President, and thelack of sufficient opportunities for absentee registration and absentee balloting in presidential elections—
 
 &emsp;(1) denies or abridges the inherent constitutional right of citizens to vote for their President and Vice President;
 

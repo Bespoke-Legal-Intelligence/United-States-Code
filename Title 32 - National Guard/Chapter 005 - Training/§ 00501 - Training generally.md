@@ -4,7 +4,7 @@
 
 (b) The training of the National Guard shall be conducted by the several States and Territories, Puerto Rico, and the District of Columbia in conformity with this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 609; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 609; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 
@@ -54,7 +54,7 @@ Maintenance of Effort.—The Chief of the National Guard Bureau shall ensure tha
 
 “(e)
 
-Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief ofthe National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose of ensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
+Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose of ensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
 
 “(f)
 
@@ -92,7 +92,7 @@ Termination.—The authority under subsection (a) of section 1091 of the Nationa
 
 Limitation on Number of Programs.—During the period beginning on the date of the enactment of this Act and ending on the termination of the pilot program under subsection (a), the number of programs carried out under subsection (d) of that section as part of the pilot program may not exceed the number of such programs as of September 30, 1995.”
 
-Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, §104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(<i>o</i>), Oct. 20, 1994, 108 Stat. 4024, provided that:
+Pub. L. 102–484, div. A, title X, §1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, §104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, §1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, §391(<i>o</i>), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 105–85, div. A, title X, §1073(d)(2)(B), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
 “(a)
 
@@ -158,7 +158,7 @@ Program Personnel.—(1) Personnel of the National Guard of a State in which a N
 
 &emsp;“(B) section 524 \[now 12011\] of title 10, United States Code, relating to the number of reserve component officers who may be on active duty or full-time National Guard duty in certain grades.
 
-“(3) A Governor participating in the pilot program and the commanding general of the District of Columbia National Guard (if the District of Columbia National Guard is participating in the pilot program) mayprocure by contract the temporary full time services of such civilian personnel as may be necessary to augment National Guard personnel in carrying out a National Guard civilian youth opportunities program under the pilot program.
+“(3) A Governor participating in the pilot program and the commanding general of the District of Columbia National Guard (if the District of Columbia National Guard is participating in the pilot program) may procure by contract the temporary full time services of such civilian personnel as may be necessary to augment National Guard personnel in carrying out a National Guard civilian youth opportunities program under the pilot program.
 
 “(4) Civilian employees of the National Guard performing services for such a program and contractor personnel performing such services may be required, when appropriate to achieve a program objective, to be members of the National Guard and to wear the military uniform.
 
@@ -206,7 +206,7 @@ Definitions.—In this section:
 
 &emsp;“(2) The term ‘State’ includes the Commonwealth of Puerto Rico, the territories (as defined in section 101(1) of title 32, United States Code), and the District of Columbia.
 
-&emsp;“(3) The term ‘school dropout’ has the meaning established for the term by the Secretary of Education pursuant to section 6201(a) of the Elementary and Secondary Education Act of 1965 (as such section was in effect on the day preceding the date of enactment of this Act \[probably means the date of enactment of Pub. L. 103–382, which was approved Oct. 20, 1994\]) (20 U.S.C. 3271(a)).
+&emsp;“(3) The term ‘school dropout’ has the meaning established for the term by the Secretary of Education pursuant to section 6201(a) of the Elementary and Secondary Education Act of 1965 (as such section was in effect on October 19, 1994) (20 U.S.C. 3271(a)).
 
 &emsp;“(4) The term ‘full-time National Guard duty’ has the meaning given that term in section 101 of title 32, United States Code.
 

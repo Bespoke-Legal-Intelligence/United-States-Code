@@ -42,7 +42,7 @@ Intercity Bus Transportation.—(1) A State shall expend at least 10 percent of 
 
 (g)
 
-Government's Share of Costs.—(1) In this subsection, “amounts of the Government or revenues” do not include amounts received under a service agreement with a State or local social service agency or a private social service organization.
+Government's Share of Costs.—(1) In this subsection, “amounts of the Government or revenues” do not include amounts received under a service agreement with a State or local socialservice agency or a private social service organization.
 
 (2) A grant of the Government for a capital project under this section may not be more than 80 percent of the net cost of the project, as determined by the Secretary of Transportation. A grant to pay a subsidy for operating expenses may not be more than 50 percent of the net cost of the operating expense project. At least 50 percent of the remainder shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation. Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
 
@@ -178,5 +178,5 @@ In subsection (j)(1), the text of 49 App.:1614(f) (1st sentence) is omitted as u
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5310, 5319, 5323, 5327, 5331, 5333, 5334, 5336, 5338, 31138 of this title; title 42 section 3035<i>l.</i>
+This section is referred to in sections 5310, 5319, 5323, 5327, 5331, 5333, 5334, 5336, 5338, 24305, 31138 of this title; title 42 section 3035<i>l.</i>
 

@@ -4,7 +4,7 @@
 
 (b) The owner, lessee, or operator of such vessel, boat, watercraft, raft, or other obstruction as described in this section shall be liable to the United States for the cost of removal or destruction and disposal as described which exceeds the costs recovered under subsection (a) of this section. Any amount recovered from the owner, lessee, or operator of such vessel pursuant to this subsection to recover costs in excess of the proceeds from the sale or disposition of such vessel shall be deposited in the general fund of the Treasury of the United States.
 
-(Mar. 3, 1899, ch. 425, §19, 30 Stat. 1154; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Nov. 17, 1986, Pub. L. 99–662, title IX, §939(b), 100 Stat. 4199.)
+(Mar. 3, 1899, ch. 425, §19, 30 Stat. 1154; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 99–662, title IX, §939(b), Nov. 17, 1986, 100 Stat. 4199.)
 
 #### Codification
 

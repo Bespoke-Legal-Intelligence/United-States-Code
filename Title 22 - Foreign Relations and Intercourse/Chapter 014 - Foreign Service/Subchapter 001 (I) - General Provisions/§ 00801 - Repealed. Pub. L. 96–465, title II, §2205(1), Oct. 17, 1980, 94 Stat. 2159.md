@@ -34,5 +34,5 @@ Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 o
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–308, §1, Oct. 31, 1965, 79 Stat. 1129, which provided that Pub. L. 89–308 be cited as the “Foreign Service Annuity Adjustment Act of 1965”, was repealed by Pub. L. 96–465, title II, §2205(16) Oct. 17, 1980, 94 Stat. 2160.
+Pub. L. 89–308, §1, Oct. 31, 1965, 79 Stat. 1129, which provided that Pub. L. 89–308 be cited as the “Foreign Service Annuity Adjustment Act of 1965”, was repealedby Pub. L. 96–465, title II, §2205(16) Oct. 17, 1980, 94 Stat. 2160.
 

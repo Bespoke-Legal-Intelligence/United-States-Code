@@ -26,7 +26,7 @@ Subsection (b) is in conformity with Rule 21 of the Supreme Court Admiralty Rule
 
 #### Federal Civil Penalties Inflation Adjustment
 
-Pub. L. 101–410, Oct. 5, 1990, 104 Stat. 890, provided that:
+Pub. L. 101–410, Oct. 5, 1990, 104 Stat. 890, as amended by Pub. L. 104–134, title III, §31001(s)(1), Apr. 26, 1996, 110 Stat. 1321–373, provided that:
 
 #### “short title
 
@@ -76,27 +76,17 @@ Purpose.—The purpose of this Act is to establish a mechanism that shall—
 
 #### “civil monetary penalty inflation adjustment reports
 
-“Sec. 4. Within 6 months after the date of the enactment of this Act \[Oct. 5, 1990\], and on January 1 of each fifth calendar year thereafter, the President shall submit a report on civil monetary penalty inflation adjustment to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations \[now Committee on Government Reform and Oversight\] of the House of Representatives. Such report shall include—
+“Sec. 4. The head of each agency shall, not later than 180 days after the date of enactment of the Debt Collection Improvement Act of 1996 \[Apr. 26, 1996\], and at least once every 4 years thereafter—
 
-&emsp;“(1) each civil monetary penalty as defined under section 3(2);
+&emsp;“(1) by regulation adjust each civil monetary penalty provided by law within the jurisdiction of the Federal agency, except for any penalty (including any addition to tax and additional amount) under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\], or the Social Security Act \[42 U.S.C. 301 et seq.\], by the inflation adjustment described under section 5 of this Act; and
 
-&emsp;“(2) the date each civil monetary penalty was most recently set pursuant to law;
-
-&emsp;“(3) the maximum amount of each civil monetary penalty or, if applicable, the range of the minimum and maximum amounts of each civil monetary penalty in effect on the date of the submission of such report;
-
-&emsp;“(4) the amount of each civil monetary penalty described under paragraph (3) other than any such penalty for which inflation adjustment is provided by law, if each such penalty is increased by the adjustment described under section 5; and
-
-&emsp;“(5) a listing of the modifications to Federal law that would be required to—
-
-&emsp;&emsp;“(A) increase each penalty described in paragraph (1) by the adjustments described under section 5, excluding any penalty for which inflation adjustment is provided by law or that has been increased within the 5-year period immediately preceding the date of the submission of such report; and
-
-&emsp;&emsp;“(B) provide that any increase in any civil monetary penalty shall apply only to violations which occur after the date any such increase takes effect.
+&emsp;“(2) publish each such regulation in the Federal Register.
 
 #### “cost-of-living adjustments of civil monetary penalties
 
 “Sec. 5. (a)
 
-Adjustment.—The adjustment described under paragraphs (4) and (5)(A) of section 4 shall be determined by increasing the maximum civil monetary penalty or the range of minimum and maximum civil monetary penalties, as applicable, for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this subsection shall be rounded to the nearest—
+Adjustment.—The inflation adjustment under section 4 shall be determined by increasing the maximum civil monetary penalty or the range of minimum and maximum civil monetary penalties, as applicable, for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this subsection shall be rounded to the nearest—
 
 &emsp;“(1) multiple of $10 in the case of penalties less than or equal to $100;
 
@@ -132,9 +122,13 @@ Definition.—For purposes of subsection (a), the term ‘cost-of-living adjustm
 
 &emsp;&emsp;“(B) modify the amount of any civil monetary penalty; or
 
-&emsp;&emsp;“(C) make any other legislative modifications concerning civil monetary penalties.”
+&emsp;&emsp;“(C) make any other legislative modifications concerning civil monetary penalties.
 
-\[Memorandum of President of the United States, May 3, 1991, 56 F.R. 21911, delegated to Director of Office of Management and Budget responsibility of President for submitting reports on civil monetary penalties to Committee on Governmental Affairs of the Senate and Committee on Government Operations of the House of Representatives and to Congress as required by sections 4 and 6 of the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above.\]
+“Sec. 7. Any increase under this Act in a civil monetary penalty shall apply only to violations which occur after the date the increase takes effect.”
+
+\[Pub. L. 104–134, title III, §31001(s)(2), Apr. 26, 1996, 110 Stat. 1321–373, provided that: “The first adjustment of a civil monetary penalty made pursuant to the amendment made by paragraph (1) \[amending Pub. L. 101–410, set out above\] may not exceed 10 percent of such penalty.”\]
+
+\[Memorandum of President of the United States, May 3, 1991, 56 F.R. 21911, delegated to Director of Office of Management and Budget responsibility of President for submitting reports on civil monetary penalties to Committee on Governmental Affairs of the Senate and Committee on Government Operations of the House of Representatives and to Congress as required by section 6 of the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above.\]
 
 \[For authority of the Director of the Office of Management and Budget to consolidate reports required under the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 101–410, set out above, to be submitted between Jan. 1, 1995, and Sept. 30, 1997, or to adjust their frequency and due dates, see section 404 of Pub. L. 103–356, set out as a note under section 501 of Title 31, Money and Finance.\]
 

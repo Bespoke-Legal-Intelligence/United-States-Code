@@ -50,6 +50,10 @@ Minor changes were made in phraseology.
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–147, §1, Dec. 16, 1997, 111 Stat. 2678, provided that: “This Act \[amending sections 2319 to 2320 of this title, sections 101, 506, and 507 of Title 17, Copyrights, and section 1498 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 994 of Title 28\] may be cited as the ‘No Electronic Theft (NET) Act’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–153, §1, July 2, 1996, 110 Stat. 1386, provided that: “This Act \[amending sections 1961, 2318, and 2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, section 603 of Title 17, Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties, and section 80302 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of Title 19\] may be cited as the ‘Anticounterfeiting Consumer Protection Act of 1996’.”

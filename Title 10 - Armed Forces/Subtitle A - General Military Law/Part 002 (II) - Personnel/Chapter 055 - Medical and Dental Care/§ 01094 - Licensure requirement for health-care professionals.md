@@ -14,7 +14,15 @@
 
 &emsp;(B) a reference to a claimant in subsection (e) of that section is deemed a reference to the person described in paragraph (1).
 
-(d) In this section:
+(d)(1) Notwithstanding any law regarding the licensure of health care providers, a health-care professional described in paragraph (2) may practice the health profession or professions of the health-care professional in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, regardless of whether the practice occurs in a health care facility of the Department of Defense, a civilian facility affiliated with the Department of Defense, or any other location authorized by the Secretary of Defense.
+
+(2) A health-care professional referred to in paragraph (1) is a member of the armed forces who—
+
+&emsp;(A) has a current license to practice medicine, osteopathic medicine, dentistry, or another health profession; and
+
+&emsp;(B) is performing authorized duties for the Department of Defense.
+
+(e) In this section:
 
 &emsp;(1) The term “license”—
 
@@ -24,9 +32,11 @@
 
 &emsp;(2) The term “health-care professional” means a physician, dentist, clinical psychologist, or nurse and any other person providing direct patient care as may be designated by the Secretary of Defense in regulations.
 
-(Added Pub. L. 99–145, title VI, §653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, §653(e)(1), title XVI, §1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605.)
+(Added Pub. L. 99–145, title VI, §653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, §653(e)(1), title XVI, §1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, §737, Nov. 18, 1997, 111 Stat. 1814.)
 
 #### Amendments
+
+1997—Subsecs. (d), (e). Pub. L. 105–85 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1989—Subsec. (c)(2). Pub. L. 101–189, §653(e)(1), substituted “subsections (c) and (e) through (h)” for “subsections (b) and (d) through (g)”.
 

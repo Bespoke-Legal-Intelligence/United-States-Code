@@ -36,7 +36,7 @@ When used in this chapter—
 
 &emsp;(8) The term “State” includes a Territory and the District of Columbia.
 
-&emsp;(9) The term “United States” when used in a geographical sense means the several States and Territories and the District of Columbia, including the territorial waters thereof.
+&emsp;(9) The term “United States” when used in a geographical sense means the several Statesand Territories and the District of Columbia, including the territorial waters thereof.
 
 &emsp;(10) “Disability” means incapacity because of injury to earn the wages which the employee was receiving at the time of injury in the same or any other employment; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in section 910(d)(2) of this title.
 
@@ -44,7 +44,7 @@ When used in this chapter—
 
 &emsp;(12) “Compensation” means the money allowance payable to an employee or to his dependents as provided for in this chapter, and includes funeral benefits provided therein.
 
-&emsp;(13) The term “wages” means the money rate at which the service rendered by an employee is compensated by an employer under the contract of hiring in force at the time of the injury, including the reasonable value of any advantage which is received from the employer and included for purposes of any withholding of tax under subtitle C of title 26 (relating to employment taxes). The term wagesdoes not include fringe benefits, including (but not limited to) employer payments for or contributions to a retirement, pension, health and welfare, life insurance, training, social security or other employee or dependent benefit plan for the employee's or dependent's benefit, or any other employee's dependent entitlement.
+&emsp;(13) The term “wages” means the money rate at which the service rendered by an employee is compensated by an employer under the contract of hiring in force at the time of the injury, including the reasonable value of any advantage which is received from the employer and included for purposes of any withholding of tax under subtitle C of title 26 (relating to employment taxes). The term wages does not include fringe benefits, including (but not limited to) employer payments for or contributions to a retirement, pension, health and welfare, life insurance, training, social security or other employee or dependent benefit plan for the employee's or dependent's benefit, or any other employee's dependent entitlement.
 
 &emsp;(14) “Child” shall include a posthumous child, a child legally adopted prior to the injury of the employee, a child in relation to whom the deceased employee stood in loco parentis for at least one year prior to the time of injury, and a stepchild or acknowledged illegitimate child dependent upon the deceased, but does not include married children unless wholly dependent on him. “Grandchild” means a child as above defined of a child as above defined. “Brother” and “sister” includes stepbrothers and stepsisters, half brothers and half sisters, and brothers and sisters by adoption, but does not include married brothers nor married sisters unless wholly dependent on the employee. “Child”, “grandchild”, “brother”, and “sister” include only a person who is under eighteen years of age, or who, though eighteen years of age or over, is (1) wholly dependent upon the employee and incapable of self-support by reason of mental or physical disability, or (2) a student as defined in paragraph (19) of this section.
 
@@ -74,7 +74,7 @@ When used in this chapter—
 
 &emsp;(22) The singular includes the plural and the masculine includes the feminine and neuter.
 
-(Mar. 4, 1927, ch. 509, §2, 44 Stat. 1424; June 25, 1938, ch. 685, §1, 52 Stat. 1164; Oct. 27, 1972, Pub. L. 92–576, §§2(a), (b), 3, 5(b), 15(c), 18(b), 20(c)(1), 86 Stat. 1251, 1253, 1262, 1263, 1265; Sept. 28, 1984, Pub. L. 98–426, §§2, 5(a)(2), 27(a)(1), 98 Stat. 1639, 1641, 1654.)
+(Mar. 4, 1927, ch. 509, §2, 44 Stat. 1424; June 25, 1938, ch. 685, §1, 52 Stat. 1164; Pub. L. 92–576, §§2(a), (b), 3, 5(b), 15(c), 18(b), 20(c)(1), Oct. 27, 1972, 86 Stat. 1251, 1253, 1262, 1263, 1265; Pub. L. 98–426, §§2, 5(a)(2), 27(a)(1), Sept. 28, 1984, 98 Stat. 1639, 1641, 1654.)
 
 #### References in Text
 

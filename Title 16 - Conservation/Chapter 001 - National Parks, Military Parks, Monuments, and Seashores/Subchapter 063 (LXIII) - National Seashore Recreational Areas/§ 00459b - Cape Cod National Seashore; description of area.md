@@ -54,7 +54,7 @@
 
 &emsp;thence crossing Mill Creek in a northeasterly direction to the 20-foot contour level near to and northeast of the confluence of Mill Creek and Herring River;
 
-&emsp;thence following generally northerly and easterly along the easterly edge of the Herring River marshes on the 20-foot contour to a point north of which the easterly right-of-way line of a medium duty road, as depicted on said Wellfleet quadrangle sheet, crosses northward across a marshy stream near the juncture of said medium duty road with Bound Brook Island Road;
+&emsp;thence following generally northerly and easterly along the easterly edge of the Herring River marshes on the 20-foot contour to apoint north of which the easterly right-of-way line of a medium duty road, as depicted on said Wellfleet quadrangle sheet, crosses northward across a marshy stream near the juncture of said medium duty road with Bound Brook Island Road;
 
 &emsp;thence crossing said marshy stream along said easterly right-of-way line of said medium duty road and continuing in a northerly direction to the 20-foot contour level on the north side of said marshy stream;
 

@@ -24,7 +24,7 @@
 
 &emsp;(8) each marriage on board, with the names and ages of the parties.
 
-&emsp;(9) the name of each seaman who ceases to be a crewmember (except by death), with theplace, time, manner, and the cause why the seaman ceased to be a crewmember.
+&emsp;(9) the name of each seaman who ceases to be a crewmember (except by death), with the place, time, manner, and the cause why the seaman ceased to be a crewmember.
 
 &emsp;(10) the wages due to a seaman who dies during the voyage and the gross amount of all deductions to be made from the wages.
 

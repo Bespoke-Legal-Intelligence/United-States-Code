@@ -14,7 +14,7 @@
 
 (e) Subject to the provisions of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Secretary of Transportation may make, enter into, and perform such contracts, grants, leases, cooperative agreements, and other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and make such payments, by way of advance or reimbursement, as the Secretary may determine to be necessary or appropriate to carry out functions of the Federal Railroad Administration. The authority of the Secretary granted by this subsection shall be carried out by the Administrator. Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subsection shall be effective, except as provided for in appropriations Acts.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L.103–272, §5(m)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 103–440, title II, §216, Nov. 2, 1994, 108 Stat. 4624.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 103–440, title II, §216, Nov. 2, 1994, 108 Stat. 4624.)
 
 Historical and Revision Notes
 

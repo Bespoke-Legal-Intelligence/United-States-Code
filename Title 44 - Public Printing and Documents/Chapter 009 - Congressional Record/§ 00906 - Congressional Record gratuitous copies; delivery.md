@@ -10,7 +10,7 @@ of the bound edition—
 
 &emsp;to the Joint Committee on Printing not to exceed one hundred copies;
 
-&emsp;to the House of Representatives Publications Distribution Service, three copies for each Representative and Resident Commissioner in Congress; and
+&emsp;to the House of Representatives Publications Distribution Service, three copies foreach Representative and Resident Commissioner in Congress; and
 
 &emsp;to the Clerk and the Sergeant at Arms of the House of Representatives, each, two copies;
 
@@ -84,7 +84,7 @@ In unstitched form, and held in reserve by the Public Printer, as many copies of
 
 &emsp;to the library of the Supreme Court of the United States, two copies of the daily, two semi-monthly copies, and not to exceed five bound copies;
 
-&emsp;to the library of each United States Court of Appeals, each United States District Court, the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Veterans Appeals, and the United States Court of Appeals for the Armed Forces, upon request to the Public Printer,one copy of the daily, one semimonthly copy, and one bound copy;
+&emsp;to the library of each United States Court of Appeals, each United States District Court, the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Veterans Appeals, and the United States Court of Appeals for the Armed Forces, upon request to the Public Printer, one copy of the daily, one semimonthly copy, and one bound copy;
 
 &emsp;to the Public Printer for official use, not to exceed seventy-five copies of the daily, ten semimonthly copies, and two bound copies;
 
@@ -144,7 +144,7 @@ Provisions respecting National Homes for Disabled Volunteer Soldiers, referred t
 
 1980—Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
 
-1977—Pub. L. 95–94 substituted “to the Vice President, one hundred copies; to each Senator, fifty copies\(which may be transferred only to public agencies and institutions);” for “to the Vice President and each Senator, one hundred copies:” and “to each Member of the House of Representatives, the Resident Commissioner from Puerto Rico, the Delegate from the District of Columbia, the Delegate from Guam, and the Delegate from the Virgin Islands, thirty-four copies (which may be transferred only to public agencies and institutions);” for “to each Representative and Resident Commissioner in Congress, sixty-eight copies”.
+1977—Pub. L. 95–94 substituted “to the Vice President, one hundred copies; to each Senator, fifty copies (which may be transferred only to public agencies and institutions);” for “to the Vice President and each Senator, one hundred copies:” and “to each Member of the House of Representatives, the Resident Commissioner from Puerto Rico, the Delegate from the District of Columbia, the Delegate from Guam, and the Delegate from the Virgin Islands, thirty-four copies (which may be transferred only to public agencies and institutions);” for “to each Representative and Resident Commissioner in Congress, sixty-eight copies”.
 
 1974—Pub. L. 93–314 struck out subscriptions from section catchline, and struck out last paragraph which authorized the Public Printer to furnish the daily Record to subscribers at a price determined by him to be based upon the cost of printing and distribution, with the price to be payable in advance. See section 910 of this title.
 

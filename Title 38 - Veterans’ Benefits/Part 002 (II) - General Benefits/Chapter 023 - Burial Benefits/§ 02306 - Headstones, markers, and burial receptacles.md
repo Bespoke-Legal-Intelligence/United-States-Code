@@ -70,7 +70,7 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “2403” for “1003” 
 
 1989—Subsecs. (a) to (c). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator”.
 
-Subsec. (d). Pub. L. 101–237, §501, substituted “cost of acquiring” for “actual costs incurred by or on behalf of such person in acquiring” in first sentence, inserted after first sentence “The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be.”, and substituted “this subsection” for “the preceding sentence” in last sentence.
+Subsec. (d). Pub. L. 101–237, §501, substituted “cost of acquiring” for “actual costs incurred by or on behalf ofsuch person in acquiring” in first sentence, inserted after first sentence “The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be.”, and substituted “this subsection” for “the preceding sentence” in last sentence.
 
 Pub. L. 101–237, §313(b)(1), substituted “Secretary” and “Secretary's” for “Administrator” and “Administrator's”, respectively, wherever appearing.
 

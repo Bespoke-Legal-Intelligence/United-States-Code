@@ -6,7 +6,7 @@ The Director of the United States Information Agency shall establish within the 
 
 #### (b) Use of existing facilities of USIA
 
-To assure consistency of presentation and efficiency of operations in conducting the activities authorized under this subchapter, the Television Marti Service shall make maximum feasible utilization of Agency facilities and managementsupport, including Voice of America: Cuba Service, Voice of America, and the United States Information Agency Television Service.
+To assure consistency of presentation and efficiency of operations in conducting the activities authorized under this subchapter, the Television Marti Service shall make maximum feasible utilization of Agency facilities and management support, including Voice of America: Cuba Service, Voice of America, and the United States Information Agency Television Service.
 
 #### (c) USIA authority
 

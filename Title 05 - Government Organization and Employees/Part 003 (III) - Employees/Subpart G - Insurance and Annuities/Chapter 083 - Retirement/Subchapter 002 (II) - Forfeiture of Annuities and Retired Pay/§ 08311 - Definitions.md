@@ -24,7 +24,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(E) that portion of an annuity awarded under section 228b or 228e of title 45 after September 25, 1961, which would be payable without taking into account military service creditable under section 228c–1 of title 45;
 
-&emsp;&emsp;(F) a retirement benefit, including a disability insurance benefit and a dependent'sor survivor's benefit under subchapter II of chapter 7 of title 42, awarded before September 1, 1954, to an individual or his survivor or beneficiary, insofar as the individual, before September 1, 1954—
+&emsp;&emsp;(F) a retirement benefit, including a disability insurance benefit and a dependent's or survivor's benefit under subchapter II of chapter 7 of title 42, awarded before September 1, 1954, to an individual or his survivor or beneficiary, insofar as the individual, before September 1, 1954—
 
 &emsp;&emsp;&emsp;(i) was convicted of an offense named by subsection (b) of section 8312 of this title, to the extent provided by that subsection; or
 

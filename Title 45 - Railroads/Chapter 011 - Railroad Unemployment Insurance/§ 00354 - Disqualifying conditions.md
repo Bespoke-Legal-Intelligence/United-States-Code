@@ -50,7 +50,7 @@ In determining, within the limitations of subsection (c) of this section, whethe
 
 For the purposes of subsection (a–2)(i) of this section, no voluntary leaving of work shall be deemed to have been without good cause if the Board finds that such work would not have been suitable for the purposes of subsection (a–2)(ii) of this section.
 
-(June 25, 1938, ch. 680, §4, 52 Stat. 1098; June 20, 1939, ch. 227, §11, 53 Stat. 846; Oct. 10, 1940, ch. 842, §§14–18, 54 Stat. 1097, 1098; July 31, 1946, ch. 709, §§309, 310, 60 Stat. 737, 738; Oct. 30, 1951, ch. 632, §27, 65 Stat. 691; Sept. 6, 1958, Pub. L. 85–927, pt. II, §202, 72 Stat. 1782; May 19, 1959, Pub. L. 86–28, pt. III, §305, 73 Stat. 31; Oct. 5, 1963, Pub. L. 88–133, title III, §302(a), 77 Stat. 222; Feb. 15, 1968, Pub. L. 90–257, title II, §204, 82 Stat. 24; Oct. 16, 1974, Pub. L. 93–445, title IV, §402, 88 Stat. 1359; Aug. 12, 1983, Pub. L. 98–76, title IV, §411(a)(3), 97 Stat. 436; Nov. 10, 1988, Pub. L. 100–647, title VII, §7101(d), 102 Stat. 3758.)
+(June 25, 1938, ch. 680, §4, 52 Stat. 1098; June 20, 1939, ch. 227, §11, 53 Stat. 846; Oct. 10, 1940, ch. 842, §§14–18, 54 Stat. 1097, 1098; July 31, 1946, ch. 709, §§309, 310, 60 Stat. 737, 738; Oct. 30, 1951, ch. 632, §27, 65 Stat. 691; Pub. L. 85–927, pt. II, §202, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–28, pt. III, §305, May 19, 1959, 73 Stat. 31; Pub. L. 88–133, title III, §302(a), Oct. 5, 1963, 77 Stat. 222; Pub. L. 90–257, title II, §204, Feb. 15, 1968, 82 Stat. 24; Pub. L. 93–445, title IV, §402, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 98–76, title IV, §411(a)(3), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §7101(d), Nov. 10, 1988, 102 Stat. 3758.)
 
 #### References in Text
 

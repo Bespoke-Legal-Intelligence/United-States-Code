@@ -77,12 +77,14 @@
 | [8165\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008165%20-%20Use%20of%20proceeds.md) | Use of proceeds. |
 | [8166\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008166%20-%20Construction%20standards.md) | Construction standards. |
 | [8167\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008167%20-%20Exemption%20from%20State%20and%20local%20taxes.md) | Exemption from State and local taxes. |
-| [8168\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008168%20-%20Limitation%20on%20number%20of%20agreements.md) | Limitation on number of agreements. |
+| \[8168. | Repealed.\] |
 | [8169\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008169%20-%20Expiration.md) | Expiration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–114, title II, §205(b)(2), Nov. 21, 1997, 111 Stat. 2289, struck out item 8168 “Limitation on number of agreements”.
 
 1996—Pub. L. 104–262, title III, §301(d)(2), Oct. 9, 1996, 110 Stat. 3193, substituted “Sharing of health-care resources” for “Specialized medical resources” in item 8153.
 
@@ -96,7 +98,7 @@ Pub. L. 102–405, title I, §103(a)(2), Oct. 9, 1992, 106 Stat. 1975, added ite
 
 Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “Department and” for “Veterans’ Administration and” in item 8111.
 
-Pub. L. 102–54, §14(f)(1), June 13, 1991, 105 Stat. 287, amended the table of sections as in effect immediately before the enactment of Pub. L. 102–40 by transferringitem 5016 so as to appear immediately after item 5015 and by substituting “payments” for “Payments” in item 5035.
+Pub. L. 102–54, §14(f)(1), June 13, 1991, 105 Stat. 287, amended the table of sections as in effect immediately before the enactment of Pub. L. 102–40 by transferring item 5016 so as to appear immediately after item 5015 and by substituting “payments” for “Payments” in item 5035.
 
 Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 5001 to 5056 as 8101 to 8156, respectively.
 

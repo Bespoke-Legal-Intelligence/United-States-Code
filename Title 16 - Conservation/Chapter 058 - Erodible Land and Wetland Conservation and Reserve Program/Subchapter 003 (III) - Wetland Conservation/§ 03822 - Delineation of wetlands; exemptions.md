@@ -42,7 +42,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;&emsp;(C) A wet area created by a water delivery system, irrigation, irrigation system, or application of water for irrigation.
 
-&emsp;&emsp;(D) A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production is possible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
+&emsp;&emsp;(D) A wetland on which the owner or operator of a farm or ranch uses normal cropping or ranching practices to produce an agricultural commodity in a manner that is consistent for the area where the production ispossible as a result of a natural condition, such as drought, and is without action by the producer that destroys a natural wetland characteristic.
 
 &emsp;&emsp;(E) Land that is an artificial lake or pond created by excavating or diking land (that is not a wetland) to collect and retain water and that is used primarily for livestock watering, fish production, irrigation, wildlife, fire control, flood control, cranberry growing, or rice production, or as a settling pond.
 
@@ -86,7 +86,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;&emsp;&emsp;(i) the wetland was determined by the Natural Resources Conservation Service to have been manipulated for the production of an agricultural commodity or forage prior to December 23, 1985, and was returned to wetland conditions through a voluntary restoration, enhancement, or creation action subsequent to that determination;
 
-&emsp;&emsp;&emsp;(ii) technical determinations regarding the prior site conditions and the restoration, enhancement, or creation actionhave been adequately documented by the Natural Resources Conservation Service;
+&emsp;&emsp;&emsp;(ii) technical determinations regarding the prior site conditions and the restoration, enhancement, or creation action have been adequately documented by the Natural Resources Conservation Service;
 
 &emsp;&emsp;&emsp;(iii) the proposed conversion action is approved by the Natural Resources Conservation Service prior to implementation; and
 
@@ -154,7 +154,7 @@ A person shall be afforded the right to appeal, under section 3843 <sup>1</sup>
 
 #### (2) Period for compliance
 
-&emsp;The Secretary shall provide a person who the Secretary determines has acted in good faith and without intent to violate this subchapter with a reasonable period, but not toexceed 1 year, during which to implement the measures and practices necessary to be considered to <sup>2</sup> actively restoring the subject wetland.
+&emsp;The Secretary shall provide a person who the Secretary determines has acted in good faith and without intent to violate this subchapter with a reasonable period, but not to exceed 1 year, during which to implement the measures and practices necessary to be considered to <sup>2</sup> actively restoring the subject wetland.
 
 #### (i) Restoration
 
@@ -172,7 +172,7 @@ Using authorities available to the Secretary, the Secretary may operate a pilot 
 
 #### References in Text
 
-Section 3843 of this title, referred to in subsec. (g), was omitted and a new section 3843 was added in the general amendment of subchapter V of this chapter by Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008. The new section 3843 does not relate to appeal procedures.
+Section 3843 of this title, referred to in subsec. (g), was omitted and a new section 3843 was added in thegeneral amendment of subchapter V of this chapter by Pub. L. 104–127, title III, §341, Apr. 4, 1996, 110 Stat. 1008. The new section 3843 does not relate to appeal procedures.
 
 #### Amendments
 

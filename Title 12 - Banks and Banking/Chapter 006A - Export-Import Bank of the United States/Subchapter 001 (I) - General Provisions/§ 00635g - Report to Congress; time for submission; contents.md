@@ -26,7 +26,7 @@ The report shall contain a description of actions taken by the Bank in pursuance
 
 &emsp;(F) any recommendations for increasing the participation of banks and other institutions in the programs authorized under section 635(b)(1)(E) of this title.
 
-(3) For the purpose of this subsection, the Bank's report shall be transmitted to the Committee on Small Business of the Senate and theCommittee on Small Business of the House of Representatives.
+(3) For the purpose of this subsection, the Bank's report shall be transmitted to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives.
 
 #### (d) Actions taken by Bank to aid industries, preserve and create highly skilled jobs, and enhance opportunity for business growth and expansion; comments of Advisory Committee
 
@@ -44,7 +44,7 @@ The report shall contain a description of actions taken by the Bank in pursuance
 
 (2) Such report shall include the comments of the Advisory Committee regarding the objectives specified in paragraph (1).
 
-(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Mar. 13, 1968, Pub. L. 90–267, §1(a), 82 Stat. 47; Jan. 4, 1975, Pub. L. 93–646, §10, 88 Stat. 2336; Nov. 10, 1978, Pub. L. 95–630, title XIX, §1907(b), 92 Stat. 3725; Nov. 30, 1983, Pub. L. 98–181, title VI, §§618(b), 623, 97 Stat. 1259, 1262; Oct. 15, 1986, Pub. L. 99–472, §20(b), (c), 100 Stat. 1209, 1210; renumbered §8, Oct. 21, 1992, Pub. L. 102–429, title I, §121(c)(2), 106 Stat. 2199.)
+(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title VI, §§618(b), 623, Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199.)
 
 #### References in Text
 

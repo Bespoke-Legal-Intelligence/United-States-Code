@@ -52,6 +52,7 @@
 | (a) | Authorization for issuance; use of proceeds; legislative initiative and binding referendum vote. |
 | (b) | Federal guarantee. |
 | (c) | Limitations on issuance. |
+| (d) | Short term borrowing. |
 | [1574b.](Subchapter%20003%20%28III%29%20-%20Legislative%20Branch/%C2%A7%2001574b%20-%20Federal%20guarantee%20for%20issuance%20of%20revenue%20bonds%20or%20other%20obligations.md) | Federal guarantee for issuance of revenue bonds or other obligations. |
 | (a) | Application to Secretary of the Interior; contents. |
 | (b) | Terms and conditions of guarantee or commitment to guarantee; determination by Secretary of approval. |
@@ -168,7 +169,7 @@ Sec. 2. \[Constitutional conventions and draft provisions\] (a) The Legislatures
 
 “(b) Such constitutions shall—
 
-&emsp;“(1) recognize, and be consistent with, the sovereignty of the United States over the Virgin Islands and Guam, respectively, and the supremacy of the provisions of the Constitution, treaties, and laws ofthe United States applicable to the Virgin Islands and Guam, respectively, including, but not limited to, those provisions of the Organic Act \[section 1405 et seq. of this title\] and Revised Organic Act of the Virgin Islands \[this chapter\] and the Organic Act of Guam \[section 1421 et seq. of this title\] which do not relate to local self-government.
+&emsp;“(1) recognize, and be consistent with, the sovereignty of the United States over the Virgin Islands and Guam, respectively, and the supremacy of the provisions of the Constitution, treaties, and laws of the United States applicable to the Virgin Islands and Guam, respectively, including, but not limited to, those provisions of the Organic Act \[section 1405 et seq. of this title\] and Revised Organic Act of the Virgin Islands \[this chapter\] and the Organic Act of Guam \[section 1421 et seq. of this title\] which do not relate to local self-government.
 
 &emsp;“(2) provide for a republican form of government, consisting of three branches: executive, legislative, and judicial;
 

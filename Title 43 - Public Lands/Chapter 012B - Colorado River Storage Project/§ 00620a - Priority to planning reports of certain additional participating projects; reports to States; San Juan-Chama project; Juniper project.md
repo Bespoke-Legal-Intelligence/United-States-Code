@@ -4,7 +4,7 @@ In carrying out further investigations of projects under the Federal reclamation
 
 The Secretary, concurrently with the investigations directed by the preceding paragraph, shall also give priority to completion of a planning report on the Juniper project.
 
-(Apr. 11, 1956, ch. 203, §2, 70 Stat. 106; June 13, 1962, Pub. L. 87–483, §18, 76 Stat. 102; Sept. 2, 1964, Pub. L. 88–568, §1, 78 Stat. 852; Sept. 30, 1968, Pub. L. 90–537, title V, §501(a), 82 Stat. 897.)
+(Apr. 11, 1956, ch. 203, §2, 70 Stat. 106; Pub. L. 87–483, §18, June 13, 1962, 76 Stat. 102; Pub. L. 88–568, §1, Sept. 2, 1964, 78 Stat. 852; Pub. L. 90–537, title V, §501(a), Sept. 30, 1968, 82 Stat. 897.)
 
 #### References in Text
 

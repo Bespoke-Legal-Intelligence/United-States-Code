@@ -50,13 +50,13 @@ Pub. L. 101–429, title V, §501, Oct. 15, 1990, 104 Stat. 951, provided that: 
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: “This Act \[enacting sections 78t–1, 78u–1, and 80b–4a of this title, amending sections 78c, 78<i>o</i>, 78u, 78ff, and 78kk of this title, and enacting provisions set out as notes under sections 78b, 78<i>o</i>, and 78u–1 of this title\] may be cited as the ‘Insider Trading and Securities Fraud Enforcement Act of 1988’.”
+Pub. L. 100–704, §1, Nov. 19, 1988, 102 Stat. 4677, provided that: “This Act \[enacting sections 78t–1, 78u–1,and 80b–4a of this title, amending sections 78c, 78<i>o</i>, 78u, 78ff, and 78kk of this title, and enacting provisions set out as notes under sections 78b, 78<i>o</i>, and 78u–1 of this title\] may be cited as the ‘Insider Trading and Securities Fraud Enforcement Act of 1988’.”
 
 Pub. L. 100–418, title V, §5001, Aug. 23, 1988, 102 Stat. 1415, provided that: “This part \[part I (§§5001–5003) of subtitle A of title I of Pub. L. 100–418, amending sections 78m, 78dd–1, 78dd–2, and 78ff of this title and enacting provisions set out as a note under section 78dd–1 of this title\] may be cited as the ‘Foreign Corrupt Practices Act Amendments of 1988’.”
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–181, §1, Dec. 4, 1987, 101 Stat. 1249, provided that: “This Act \[enacting sections 78d–1, 78d–2, and 78<i>ll</i>of this title, amending sections 77b, 77c, 77f, 77i, 77s, 77t, 77v, 77ccc, 78c, 78d, 78f, 78k–1, 78<i>l</i>, 78m, 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78q–1, 78u, 78w, 78aa, 78bb, 78kk, 78<i>lll</i>, 79h, 79r, 79x, 79y, 79z–4, 80a–2, 80a–3, 80a–5, 80a–6, 80a–9, 80a–12, 80a–15, 80a–17, 80a–18, 80a–20, 80a–21, 80a–22, 80a–24, 80a–26, 80a–28, 80a–35, 80a–41, 80a–52, 80a–53, 80a–54, 80a–56, 80b–2, 80b–3, 80b–5, 80b–9, 80b–11, 80b–13, and 80b–14 of this title, and repealing sections 78d–1, 78d–2, and 78jj of this title\] may be cited as the ‘Securities and Exchange Commission Authorization Act of 1987’.”
+Pub. L. 100–181, §1, Dec. 4, 1987, 101 Stat. 1249, provided that: “This Act \[enacting sections 78d–1, 78d–2, and 78<i>ll</i> of this title, amending sections 77b, 77c, 77f, 77i, 77s, 77t, 77v, 77ccc, 78c, 78d, 78f, 78k–1, 78<i>l</i>, 78m, 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78q–1, 78u, 78w, 78aa, 78bb, 78kk, 78<i>lll</i>, 79h, 79r, 79x, 79y, 79z–4, 80a–2, 80a–3, 80a–5, 80a–6, 80a–9, 80a–12, 80a–15, 80a–17, 80a–18, 80a–20, 80a–21, 80a–22, 80a–24, 80a–26, 80a–28, 80a–35, 80a–41, 80a–52, 80a–53, 80a–54, 80a–56, 80b–2, 80b–3, 80b–5, 80b–9, 80b–11, 80b–13, and 80b–14 of this title, and repealing sections 78d–1, 78d–2, and 78jj of this title\] may be cited as the ‘Securities and Exchange Commission Authorization Act of 1987’.”
 
 #### Short Title of 1986 Amendment
 

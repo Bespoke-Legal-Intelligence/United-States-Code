@@ -32,5 +32,5 @@ The Mexican Border Act, referred to in subsec. (i), is act Jan. 31, 1942, ch. 31
 
 #### Short Title
 
-Section 101 of Pub. L. 85–36 provided that: “This title \[enacting this chapter and provisions set out as a note under section 147a of this title, amending section 149 of this title and repealing sections 141 to 144 and 441 ofthis title\] may be cited as the ‘Federal Plant Pest Act’.”
+Section 101 of Pub. L. 85–36 provided that: “This title \[enacting this chapter and provisions set out as a note under section 147a of this title, amending section 149 of this title and repealing sections 141 to 144 and 441 of this title\] may be cited as the ‘Federal Plant Pest Act’.”
 

@@ -16,7 +16,7 @@
 
 &emsp;(A) any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and
 
-&emsp;(B) the terms of office of members first taking office shall expire, as designated by the exofficio members of the Council at the time of the appointment, two at the end of two years and two at the end of four years.
+&emsp;(B) the terms of office of members first taking office shall expire, as designated by the ex officio members of the Council at the time of the appointment, two at the end of two years and two at the end of four years.
 
 (3) The Council shall elect a chairman from among its members.
 
@@ -38,7 +38,7 @@
 
 &emsp;(4) accept, hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation;
 
-&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for the purpose of carrying out the functions of the Foundation;
+&emsp;(5) enter into contracts with individuals, public or private organizations, professional societies, and government agencies for thepurpose of carrying out the functions of the Foundation;
 
 &emsp;(6) enter into such other contracts, leases, cooperative agreements, and other transactions as the Executive Director considers appropriate to conduct the activities of the Foundation; and
 

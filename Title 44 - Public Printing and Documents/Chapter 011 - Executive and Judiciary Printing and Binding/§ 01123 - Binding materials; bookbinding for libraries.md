@@ -18,3 +18,7 @@ This section incorporates all but the first sentence of former section 116. The 
 
 Binding of journals, documents, and books of either house of Congress, see section 145 of Title 2, The Congress.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 3714b.
+

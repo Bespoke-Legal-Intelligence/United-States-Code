@@ -30,7 +30,7 @@ For the protection of the Fund, the Board, without regard to the Federal Propert
 
 Money received by the Board in carrying out this section shall be paid into the Fund.
 
-(June 26, 1934, ch. 750, title II, §208, as added Oct. 19, 1970, Pub. L. 91–468, §1(3), 84 Stat. 1013; amended Dec. 23, 1971, Pub. L. 92–221, §3, 85 Stat. 797; Aug. 22, 1974, Pub. L. 93–383, title VII, §729, 88 Stat. 721; Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681; Aug. 10, 1987, Pub. L. 100–86, title VII, §714(b), (c), 101 Stat. 655.)
+(June 26, 1934, ch. 750, title II, §208, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1013; amended Pub. L. 92–221, §3, Dec. 23, 1971, 85 Stat. 797; Pub. L. 93–383, title VII, §729, Aug. 22, 1974, 88 Stat. 721; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 100–86, title VII, §714(b), (c), Aug. 10, 1987, 101 Stat. 655.)
 
 #### References in Text
 

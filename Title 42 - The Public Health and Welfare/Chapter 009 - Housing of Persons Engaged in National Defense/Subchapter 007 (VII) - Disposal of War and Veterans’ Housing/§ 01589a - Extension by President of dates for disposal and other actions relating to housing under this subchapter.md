@@ -32,7 +32,7 @@ Ex. Ord. No. 10339, Apr. 7, 1952, 17 F.R. 3012, as amended by Ex. Ord. No. 10425
 
 6\. \[Superseded. Ex. Ord. No. 10425, Jan. 16, 1953, 18 F.R. 405.\]
 
-7\. The time stipulated in section 606(a)(3) of the Act \[section 1586(a)(3) of this title\] on or before which the governing body of the municipality or county must enter into an agreement with the public housing agency satisfactory to the Public Housing Administration providing for local cooperation and payments in lieu of taxes and on or before which the public housing agency must enter into an agreement with the Public Housing Administration for the administration of any project requested under section 606(a) of the Act \[section 1586(a) of this title\] is extended to June 30, 1953.
+7\. The time stipulated in section 606(a)(3) of the Act \[section 1586(a)(3) of this title\] on or before which thegoverning body of the municipality or county must enter into an agreement with the public housing agency satisfactory to the Public Housing Administration providing for local cooperation and payments in lieu of taxes and on or before which the public housing agency must enter into an agreement with the Public Housing Administration for the administration of any project requested under section 606(a) of the Act \[section 1586(a) of this title\] is extended to June 30, 1953.
 
 This order supersedes Executive Order 10284, dated September 1, 1951.
 

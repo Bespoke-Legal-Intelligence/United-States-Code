@@ -26,7 +26,7 @@ Provisions similar to those in this section were contained in section 11303 of t
 
 A prior section 11301, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1428; Pub. L. 103–429, §6(16), Oct. 31, 1994, 108 Stat. 4379, related to authority of certain carriers to issue securities and assume obligations and liabilities, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-A prior section 11302, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1430; Pub. L. 96–296, §18(a), July 1, 1980, 96 Stat. 811, provided that section 11301 of this title applied tomotor carriers and corporations subject to jurisdiction of Interstate Commerce Commission under former subchapter II of chapter 105 of this title, but did not apply to corporations under a certain capitalization, and that this section did not apply to Federal, State, or local governments, prior to repeal by Pub. L. 97–261, §§19(a), 31(a), Sept. 20, 1982, 96 Stat. 1121, 1129, effective on the 60th day after Sept. 20, 1982.
+A prior section 11302, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1430; Pub. L. 96–296, §18(a), July 1, 1980, 96 Stat. 811, provided that section 11301 of this title applied to motor carriers and corporations subject to jurisdiction of Interstate Commerce Commission under former subchapter II of chapter 105 of this title, but did not apply to corporations under a certain capitalization, and that this section did not apply to Federal, State, or local governments, prior to repeal by Pub. L. 97–261, §§19(a), 31(a), Sept. 20, 1982, 96 Stat. 1121, 1129, effective on the 60th day after Sept. 20, 1982.
 
 Prior sections 11303 and 11304 were omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
@@ -48,5 +48,5 @@ Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 45 sections 726, 791.
+This section is referred to in section 24301 of this title; title 45 sections 726, 791.
 

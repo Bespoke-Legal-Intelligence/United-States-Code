@@ -12,7 +12,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (1) In general
 
-&emsp;The Secretary shall use funds made available under this subsection to conduct, through contracts with private nonprofit fair housing enforcement organizations, investigations of violations of the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], and such enforcement activities as appropriate to remedy such violations. The Secretary may enter into multiyear contracts and take such other action as is appropriate to enhance the effectiveness of such investigations and enforcement activities.
+&emsp;The Secretary shall use funds made available under this subsection to conduct, through contracts with private nonprofit fair housingenforcement organizations, investigations of violations of the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], and such enforcement activities as appropriate to remedy such violations. The Secretary may enter into multiyear contracts and take such other action as is appropriate to enhance the effectiveness of such investigations and enforcement activities.
 
 #### (2) Activities
 
@@ -20,7 +20,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 &emsp;&emsp;(A) carry out testing and other investigative activities in accordance with subsection (b)(1) of this section, including building the capacity for housing investigative activities in unserved or underserved areas;
 
-&emsp;&emsp;(B) discover and remedy discrimination in the public and private real estate marketsand real estate-related transactions, including, but not limited to, the making or purchasing of loans or the provision of other financial assistance sales and rentals of housing and housing advertising;
+&emsp;&emsp;(B) discover and remedy discrimination in the public and private real estate markets and real estate-related transactions, including, but not limited to, the making or purchasing of loans or the provision of other financial assistance sales and rentals of housing and housing advertising;
 
 &emsp;&emsp;(C) carry out special projects, including the development of prototypes to respond to new or sophisticated forms of discrimination against persons protected under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\];
 
@@ -134,7 +134,7 @@ None of the funds authorized under this section may be used by the Secretary for
 
 #### (j) Reporting requirements
 
-Not later than 180 days after the close of each fiscal year in which assistance under this section is furnished, the Secretary shall prepareand submit to the Congress a comprehensive report which shall contain—
+Not later than 180 days after the close of each fiscal year in which assistance under this section is furnished, the Secretary shall prepare and submit to the Congress a comprehensive report which shall contain—
 
 &emsp;(1) a description of the progress made in accomplishing the objectives of this section;
 
@@ -192,7 +192,7 @@ Section 905(a) of Pub. L. 102–550 provided that: “The Congress finds that—
 
 &emsp;“(2) in response to evidence of continuing housing discrimination, the Congress passed the Fair Housing Act Amendments of 1988 \[probably should be the Fair Housing Amendments Act of 1988, Pub. L. 100–430, see Short Title of 1988 Amendment note set out under section 3601 of this title\], to provide for more effective enforcement of fair housing rights through judicial and administrative avenues and to expand the number of protected classes covered under Federal fair housing laws;
 
-&emsp;“(3) in the Financial Institutions Reform, Recovery and Enforcement Act of 1989 \[Pub. L. 101–73, see Short Title of 1989 Amendment note set out under 12 U.S.C. 1811\], the Congress expanded the disclosure provisions under the Home Mortgage Disclosure Act \[probably should be the Home Mortgage Disclosure Act of 1975; 12 U.S.C. 2801 et seq.\] to provide increased information on the mortgage lending patterns of financial institutions;
+&emsp;“(3) in the Financial Institutions Reform, Recovery and Enforcement Act of 1989 \[Pub. L. 101–73, see Short Title of 1989 Amendment note set out under 12 U.S.C. 1811\], the Congress expanded the disclosure provisions under the Home Mortgage Disclosure Act \[probablyshould be the Home Mortgage Disclosure Act of 1975; 12 U.S.C. 2801 et seq.\] to provide increased information on the mortgage lending patterns of financial institutions;
 
 &emsp;“(4) in the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\], the Congress provided a clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities;
 
@@ -200,7 +200,7 @@ Section 905(a) of Pub. L. 102–550 provided that: “The Congress finds that—
 
 &emsp;“(6) the Housing Discrimination Survey, released by the Department of Housing and Urban Development in 1991, found that Hispanic and African-American homeseekers experience some form of discrimination in at least half of their encounters with sales and rental agents;
 
-&emsp;“(7) the Fair Housing Initiatives Program should be revised and expanded to reflect the significant changes in the fair housing and fair lending area that have taken place since the Program's initial authorization in the Housing and Community DevelopmentAct of 1987 \[Pub. L. 100–242, see Short Title of 1988 Amendment note under section 5301 of this title\];
+&emsp;“(7) the Fair Housing Initiatives Program should be revised and expanded to reflect the significant changes in the fair housing and fair lending area that have taken place since the Program's initial authorization in the Housing and Community Development Act of 1987 \[Pub. L. 100–242, see Short Title of 1988 Amendment note under section 5301 of this title\];
 
 &emsp;“(8) continuing educational efforts by the real estate industry are a useful way to increase understanding by the public of their fair housing rights and responsibilities; and
 

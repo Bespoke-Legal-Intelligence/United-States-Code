@@ -6,13 +6,13 @@ Except as otherwise provided in subchapters II to VII of this chapter, the Secre
 
 #### References in Text
 
-Subchapters III and VI of this chapter, referred to in text, were comprised of sections 1531 to 1536 and 1571 to 1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
+Subchapters III and VI of this chapter, referred to in text, were comprised of sections 1531 to 1536 and 1571 to1576, respectively, of this title and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
 
 The provisions of Public Law 781, and Public Laws 9, 73, 353, referred to in text, are not classified to the Code. For further details, see note set out under section 1524 of this title.
 
 #### Amendments
 
-1950—Act Apr. 20, 1950, substituted “December 31, 1952 or by such later date as may be required because of extensions of time in accordance with section 1584 of this title, with the exception only of such housing as the Administrator, after consultation with local communities, finds is still urgently needed because of a particularly acute housing shortage in the area” for “January 1, 1951, with the exception only of such housing as the Administrator, after consultation with local communities finds is still needed in the interest of orderlydemobilization of the war effort,” and inserted last sentence.
+1950—Act Apr. 20, 1950, substituted “December 31, 1952 or by such later date as may be required because of extensions of time in accordance with section 1584 of this title, with the exception only of such housing as the Administrator, after consultation with local communities, finds is still urgently needed because of a particularly acute housing shortage in the area” for “January 1, 1951, with the exception only of such housing as the Administrator, after consultation with local communities finds is still needed in the interest of orderly demobilization of the war effort,” and inserted last sentence.
 
 1949—Act Oct. 25, 1949, inserted “January 1, 1951” for “January 1, 1950”.
 

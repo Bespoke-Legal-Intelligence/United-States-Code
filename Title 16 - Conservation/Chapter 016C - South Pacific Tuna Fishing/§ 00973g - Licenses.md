@@ -6,7 +6,7 @@ Licenses to fish in the Licensing Area, to be issued by the Administrator in acc
 
 #### (b) Forwarding and transmittal of vessel license application
 
-Except as provided in subsections (e), (f), and (g) of this section, the Secretary shall forward a vessel license application to the Secretary of State for transmittal to the Administrator whenever such application is in accordance with application procedures established by the Secretary, includes a complete application form as required by Annex II of the Treaty, and is accompanied by the required license fee.
+Except as provided in subsections (e), (f), and (g) of this section, the Secretary shall forward avessel license application to the Secretary of State for transmittal to the Administrator whenever such application is in accordance with application procedures established by the Secretary, includes a complete application form as required by Annex II of the Treaty, and is accompanied by the required license fee.
 
 #### (c) Fees and fee schedules
 

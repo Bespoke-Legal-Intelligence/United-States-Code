@@ -62,7 +62,7 @@ The advisory committee shall present to the Secretary an annual report on its ac
 
 #### (h) Reimbursement for expenses
 
-Nongovernmental members of the advisory committee shall serve without pay, but, to the extent funds are available pursuant to section 1261(d)(1)(B) of this title, shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
+Nongovernmental members of the advisory committee shall serve without pay, but, to theextent funds are available pursuant to section 1261(d)(1)(B) of this title, shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
 #### (i) Report to Congress
 
@@ -82,7 +82,7 @@ Subsec. (i). Pub. L. 104–59, §325(h), substituted “Transportation and Infra
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case ofa committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -1,10 +1,10 @@
 ### §460. Application to other courts
 
-(a) Sections 452 through 459 and section 462 of this chapter shall also apply to the United States Court of Federal Claims, to each court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States, and to the judges thereof.
+(a) Sections 452 through 459 and section 462 of this chapter shall also apply to the UnitedStates Court of Federal Claims, to each court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States, and to the judges thereof.
 
 (b) The official duty station of each judge referred to in subsection (a) which is not otherwise established by law shall be that place where the court holds regular sessions at or near which the judge performs a substantial portion of his judicial work, which is nearest the place where he maintains his actual abode in which he customarily lives.
 
-(June 25, 1948, ch. 646, 62 Stat. 908; Oct. 31, 1951, ch. 655, §43(a), 65 Stat. 725; July 7, 1958, Pub. L. 85–508, §12(e), 72 Stat. 348; Nov. 6, 1978, Pub. L. 95–598, title II, §217(a), 92 Stat. 2661; Apr. 2, 1982, Pub. L. 97–164, title I, §115(b)(1), 96 Stat. 31; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 908; Oct. 31, 1951, ch. 655, §43(a), 65 Stat. 725; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, §217(a), Nov. 6, 1978, 92 Stat. 2661; Pub. L. 97–164, title I, §115(b)(1), Apr. 2, 1982, 96 Stat. 31; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -12,15 +12,15 @@ This section was included to make clear that the provisions of this chapter are 
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “Application to other courts” for “Application to Canal Zone, Guam and Virgin Islands” in section catchline, designated existingprovisions as subsec. (a), substituted “Sections 452 through 459 and section 462 of this chapter shall also apply to the United States Claims Court, to each court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States, and to the judges thereof” for “Sections 452–459 of this chapter shall also apply to the United States District Court for the District of the Canal Zone, the District Court of Guam and the District Court of the Virgin Islands and the judges thereof”, and added subsec. (b).
+<b>1982</b>—Pub. L. 97–164 substituted “Application to other courts” for “Application to Canal Zone, Guam and Virgin Islands” in section catchline, designated existing provisions as subsec. (a), substituted “Sections 452 through 459 and section 462 of this chapter shall also apply to the United States Claims Court, to each court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States, and to the judges thereof” for “Sections 452–459 of this chapter shall also apply to the United States District Court for the District of the Canal Zone, the District Court of Guam and the District Court of the Virgin Islands and the judges thereof”, and added subsec. (b).
 
-1978—Pub. L. 95–598 struck out “Alaska,” after “Application to” in section catchline.
+<b>1978</b>—Pub. L. 95–598 struck out “Alaska,” after “Application to” in section catchline.
 
-1958—Pub. L. 85–508 struck out provisions which made sections 452 to 459 applicable to the District Court for the Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Pub. L. 85–508 struck out provisions which made sections 452 to 459 applicable to the District Court for the Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1951—Act Oct. 31, 1951, inserted “, Guam” in section catchline, and inserted reference to the District Court of Guam in text.
+<b>1951</b>—Act Oct. 31, 1951, inserted “, Guam” in section catchline, and inserted reference to the District Court of Guam in text.
 
 #### Effective Date of 1992 Amendment
 

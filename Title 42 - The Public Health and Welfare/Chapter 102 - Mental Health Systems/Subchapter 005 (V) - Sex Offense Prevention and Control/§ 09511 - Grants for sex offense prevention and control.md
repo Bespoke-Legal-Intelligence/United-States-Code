@@ -22,7 +22,7 @@ The Secretary, acting through the National Center for the Prevention and Control
 
 &emsp;&emsp;(F) sexual assaults in correctional institutions;
 
-&emsp;&emsp;(G) the estimated actual incidence of forcible sex offenses as compared to the reportedincidence of forcible sex offenses and the reasons for any difference between the two; and
+&emsp;&emsp;(G) the estimated actual incidence of forcible sex offenses as compared to the reported incidence of forcible sex offenses and the reasons for any difference between the two; and
 
 &emsp;&emsp;(H) the effectiveness of existing private and local and State government educational, counseling, and other programs designed to prevent and control sex offenses.
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub.L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

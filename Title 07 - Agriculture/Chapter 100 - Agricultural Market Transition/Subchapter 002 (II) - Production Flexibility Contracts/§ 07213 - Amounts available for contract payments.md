@@ -48,7 +48,7 @@ The Secretary shall adjust the amounts allocated for each contract commodity und
 
 #### (d) Additional rice allocation
 
-In addition to the adjustments required under subsection (c) of this section, the amount allocated under subsection (b) of this section forrice contract payments shall be increased by $8,500,000 for each of fiscal years 1997 through 2002.
+In addition to the adjustments required under subsection (c) of this section, the amount allocated under subsection (b) of this section for rice contract payments shall be increased by $8,500,000 for each of fiscal years 1997 through 2002.
 
 #### (e) Exclusion of certain amounts from contract payments
 
@@ -62,7 +62,7 @@ The amount available under subsection (a) of this section for a fiscal year shal
 
 #### References in Text
 
-Sections 101B, 103B, 105B, and 107B of the Agricultural Act of 1949, referred to in subsec. (c)(3), were classified to sections 1441–2, 1444–2, 1444f, and 1445b–3a, respectively, of this title by section 7301(b)(2)(A)–(D) of this title.
+Sections 103B, 105B, and 107B of the Agricultural Act of 1949, referred to in subsec. (c)(3), were classified to sections 1444–2, 1444f, and 1445b–3a, respectively, of this title prior to repeal by section 7301(b)(2)(A)–(D) of this title.
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@ Not later than 540 days after November 28, 1990, the Secretary shall issue propo
 
 #### (1) Technical and other assistance
 
-&emsp;The Secretary shall provide technical, administrative, and Extension Service assistanceto assist States in the implementation of an organic certification program under this chapter.
+&emsp;The Secretary shall provide technical, administrative, and Extension Service assistance to assist States in the implementation of an organic certification program under this chapter.
 
 #### (2) Financial assistance
 

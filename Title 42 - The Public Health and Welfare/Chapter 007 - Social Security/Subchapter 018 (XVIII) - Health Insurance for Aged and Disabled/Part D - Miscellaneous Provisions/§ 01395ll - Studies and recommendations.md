@@ -1,0 +1,102 @@
+### §1395<i>ll</i>. Studies and recommendations
+
+#### (a) Health care of the aged and disabled
+
+The Secretary shall carry on studies and develop recommendations to be submitted from time to time to the Congress relating to health care of the aged and the disabled, including studies and recommendations concerning (1) the adequacy of existing personnel and facilities for health care for purposes of the programs under parts A and B of this subchapter; (2) methods for encouraging the further development of efficient and economical forms of health care which are a constructive alternative to inpatient hospital care; and (3) the effects of the deductibles and coinsurance provisions upon beneficiaries, persons who provide health services, and the financing of the program.
+
+#### (b) Operation and administration of insurance programs
+
+The Secretary shall make a continuing study of the operation and administration of the insurance programs under parts A and B of this subchapter (including a validation of the accreditation process of the Joint Commission on Accreditation of Hospitals, the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972 \[42 U.S.C. 1395mm\], the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1\] and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972 \[42 U.S.C. 1395b–1 note\]), and shall transmit to the Congress annually a report concerning the operation of such programs.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1875, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 332; amended Jan. 2, 1968, Pub. L. 90–248, title IV, §402(c), 81 Stat. 931; Oct. 30, 1972, Pub. L. 92–603, title II, §§201(c)(7), 222(c), 226(d), 244(d), 86 Stat. 1373, 1393, 1404, 1423; July 18, 1984, Pub. L. 98–369, div. B, title III, §2354(b)(17), 98 Stat. 1101; Oct. 21, 1986, Pub. L. 99–509, title IX, §9316(a), 100 Stat. 2006; Dec. 22, 1987, Pub. L. 100–203, title IV, §4085(i)(20), 101 Stat. 1330–133; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8413, 102 Stat. 3801; Dec. 13, 1989, Pub. L. 101–234, title III, §301(b)(5), (d)(2), 103 Stat. 1985, 1986; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(b)(3)(A), 103 Stat. 2199.)
+
+#### References in Text
+
+Parts A and B of this subchapter, referred to in text, are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+
+Section 226 of the Social Security Amendments of 1972, referred to in subsec. (b), is section 226 of Pub. L. 92–603, which enacted section 1395mm of this title and provisions set out as notes under that section and amended this section and sections 1395f, 1395<i>l</i>, and 1396b of this title.
+
+Section 402 of the Social Security Amendments of 1967, referred to in subsec. (b), is section 402 of Pub. L. 90–248, which enacted section 1395b–1 of this title and amended this section.
+
+Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b), is section 222(a) of Pub. L. 92–603, which enacted provisions set out as note under section 1395b–1 of this title.
+
+#### Amendments
+
+1989—Subsec. (c). Pub. L. 101–239 struck out subsec. (c) which related to patient outcome assessment research program.
+
+Subsec. (c)(7). Pub. L. 101–234, §301(b)(5), (d)(2), amended par. (7) identically, substituting “date of the enactment of this section” for “date of the enactment of this Act”.
+
+1988—Subsec. (c)(3). Pub. L. 100–647 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of carrying out the research program, there are authorized to be appropriated—
+
+&emsp;“(A) from the Federal Hospital Insurance Trust Fund $4,000,000 for fiscal year 1987 and $5,000,000 for each of fiscal years 1988 and 1989, and
+
+&emsp;“(B) from the Federal Supplementary Medical Insurance Trust Fund $2,000,000 for fiscal year 1987 and $2,500,000 for each of fiscal years 1988 and 1989.”
+
+1987—Subsec. (c)(3)(B). Pub. L. 100–203 substituted “fiscal year 1987” for “fiscal years 1987”.
+
+1986—Subsec. (c). Pub. L. 99–509 added subsec. (c).
+
+1984—Subsec. (b). Pub. L. 98–369 struck out “the” after “Joint Commission on”.
+
+1972—Subsec. (a). Pub. L. 92–603, §201(c)(7), inserted “and the disabled” after “aged”.
+
+Subsec. (b). Pub. L. 92–603, §§222(c), 226(d)(1), 244(d), substituted “(including a validation of the accreditation process of the Joint Commission on the Accreditation of Hospitals, the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972, the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972)” for “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967)”. Pub. L. 92–603, §226(d)(2), which directed the substitution of “1972” for “1971”, could not be executed because “1971” did not appear.
+
+1968—Subsec. (b). Pub. L. 90–248 inserted “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967” after “under parts A and B of this subchapter”.
+
+#### Effective Date of 1989 Amendment
+
+Section 6103(b)(3)(A) of Pub. L. 101–239 provided that the amendment made by that section is effective for fiscal years beginning after fiscal year 1990.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+
+#### Effective Date of 1972 Amendment
+
+Amendment by section 226(d) of Pub. L. 92–603 effective with respect to services provided on or after July 1, 1973, see section 226(f) of Pub. L. 92–603, set out as an Effective Date note under section 1395mm of this title.
+
+#### Study of Adult Day Care Services
+
+Pub. L. 100–360, title II, §208, July 1, 1988, 102 Stat. 732, as amended by Pub. L. 100–485, title VI, §608(d)(8), Oct. 13, 1988, 102 Stat. 2415, directed Secretary of Health and Human Services to conduct a survey of adult day care services in United States and to report to Congress, by not later than 1 year after July 1, 1988, on the information collected in the survey, prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+
+#### Study To Develop a Strategy for Quality Review and Assurance
+
+Section 9313(d) of Pub. L. 99–509, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(A), Dec. 22, 1987, 101 Stat. 1330–133, directed Secretary of Health and Human Services to arrange, with the National Academy of Sciences or other appropriate nonprofit private entity, for a study to design a strategy for reviewing and assuring the quality of care for which payment may be made under this subchapter, specified items to be included in the study, and directed Secretary to submit to Congress, not later than Jan. 1, 1990, a report on the study with recommendations with respect to strengthening quality assurancees and review activities for services furnished under the medicare program.
+
+#### Special Treatment of States Formerly Under Waiver
+
+For treatment of hospitals in States which have had a waiver approved under this section, upon termination of waiver, see section 9202(j) of Pub. L. 99–272, as amended, set out as a note under section 1395ww of this title.
+
+#### Drug Detoxification Medicare Coverage and Facility Incentives
+
+Pub. L. 96–499, title IX, §931(f), Dec. 5, 1980, 94 Stat. 2634, which related to a study of medicare coverage of certain additional detoxification-related services, was repealed by Pub. L. 97–35, title XXI, §2121(h), Aug. 13, 1981, 95 Stat. 796.
+
+#### Legislative Recommendations Regarding Reimbursement for Optometrists’ Services
+
+Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursement under title XVIII of the Social Security Act \[this subchapter\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
+
+#### Demonstration Projects, Studies, and Reports: Nutritional Therapy, Second Opinion Cost-Sharing, Services of Registered Dietitians, Services of Clinical Social Workers, Orthopedic Shoes, Respiratory Therapy Services, and Foot Conditions; Grants, Payments, and Expenditures
+
+Pub. L. 96–499, title IX, §958, Dec. 5, 1980, 94 Stat. 2648, directed Secretary of Health and Human Services to carry out certain demonstration projects and conduct certain studies as follows: (a) a demonstration project to determine extent to which nutritional therapy in early renal failure could retard the disease with resultant substantive deferment of dialysis, and aspects of making such therapy available under this subchapter, report to Congress to be submitted within twenty-four months of Dec. 5, 1980; (b) demonstration projects with respect to waiving the applicable cost sharing amounts which beneficiaries under this subchapter had to pay for obtaining a second opinion on having surgery, report to be submitted within one year after Dec. 5, 1980; (c) a study of conditions under which services of registered dietitians could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (d) demonstration projects to determine aspects of making services of clinical social workers more generally available under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; (e) a study of methods for providing coverage under part B of this subchapter for orthopedic shoes for individuals with disabling or deforming conditions requiring special fitting considerations, or requiring special shoes in conjunction with the use of an orthosis or foot support, report to be submitted no later than July 1, 1981; (f) a study of conditions under which services with respect to respiratory therapy could be covered as a home health benefit under this subchapter, report to be submitted within twenty-four months of Dec. 5, 1980; and (g) a study analyzing cost effects of alternative approaches to improving coverage under this subchapter for treatment of various types of foot conditions, report to be submitted within twenty-four months of Dec. 5, 1980. Payments and expenditures for such studies and projects were to be made in appropriate part from the Federal Hospital Insurance Trust Fund established by section 1395i of this title, and the Federal Supplemental Medical Insurance Trust Fund established by section 1395t of this title.
+
+#### Demonstration Project Relating to the Terminally Ill
+
+Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secretary of Health and Human Services to provide for participation, by Social Security Administration, in a demonstration project relating to the terminally ill then being conducted within the Department of Health and Human Services, the purpose of such participation to be to study impact on terminally ill of provisions of disability programs administered by Social Security Administration and to determine how best to provide services needed by persons who were terminally ill through programs over which the Social Security Administration had administrative responsibility, and authorized to be appropriated necessary sums not in excess of $2,000,000 for any fiscal year.
+
+#### Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than June 13, 1978
+
+Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
+
+#### Study and Review by Comptroller General of Administrative Structure for Processing Medicare Claims; Report to Congress
+
+Pub. L. 95–142, §12, Oct. 25, 1977, 91 Stat. 1197, directed Comptroller General to conduct a comprehensive study and review of administrative structure established for processing of claims under this subchapter for purpose of determining whether and to what extent more efficient claims administration under this subchapter could be achieved and directed Comptroller General to submit to Congress no later than July 1, 1979, a complete report with respect to such study and review.
+
+#### Report by Secretary of Health, Education, and Welfare on Delivery of Home Health and Other In-Home Services; Contents; Consultation Requirements; Submission to Congress
+
+Pub. L. 95–142, §18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Health, Education, and Welfare, not later than one year after Oct. 25, 1977, to submit to appropriate committees of Congress a report analyzing, evaluating, and making recommendations with respect to all aspects of delivery of home health and other in–home services authorized to be provided under subchapters XVIII, XIX, and XX of this chapter.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 45 section 231f.
+

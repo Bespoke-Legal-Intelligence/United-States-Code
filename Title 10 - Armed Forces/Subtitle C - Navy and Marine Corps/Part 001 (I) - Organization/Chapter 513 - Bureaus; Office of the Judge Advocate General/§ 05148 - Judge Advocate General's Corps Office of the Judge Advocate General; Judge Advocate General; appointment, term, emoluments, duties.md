@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 103–337, §504(b)(1)(B), added subsec. (c) and struck out
 
 1967—Pub. L. 90–179, §2(1)(A), inserted reference to Judge Advocate General's Corps in section catchline.
 
-Subsecs. (a) to (d). Pub. L. 90–179, §2(1)(B), (C), added subsec. (a), redesignated existing subsecs. (a) to (c) as\(b) to (d), respectively, and in subsec. (b) as so redesignated substituted “judge advocates” for “officers”.
+Subsecs. (a) to (d). Pub. L. 90–179, §2(1)(B), (C), added subsec. (a), redesignated existing subsecs. (a) to (c) as (b) to (d), respectively, and in subsec. (b) as so redesignated substituted “judge advocates” for “officers”.
 
 1962—Subsec. (b). Pub. L. 87–649 struck out “, pay, allowances,” after “same rank”. See Title 37, Pay and Allowances of the Uniformed Services.
 

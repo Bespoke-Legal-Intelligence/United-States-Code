@@ -20,7 +20,7 @@ Minor changes of phraseology were made.
 
 #### 1949 Act
 
-This section \[section 61\] corrects the third paragraph of section 4008 of title 18, U.S.C., by redesignating the “War Department” as the “Department of the Army”, to conform to such redesignation by act of July 26, 1947 (ch. 343, title II, §205(a), 61 Stat. 501), and by inserting a reference to the Department of the Air Force, in view of the creation of such Department by the same act.
+This section \[section 61\] corrects the third paragraph of section 4008 of title 18, U.S.C., by redesignating the“War Department” as the “Department of the Army”, to conform to such redesignation by act of July 26, 1947 (ch. 343, title II, §205(a), 61 Stat. 501), and by inserting a reference to the Department of the Air Force, in view of the creation of such Department by the same act.
 
 #### Amendments
 

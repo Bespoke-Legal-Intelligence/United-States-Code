@@ -2,7 +2,7 @@
 
 For the purposes of any tax law enacted under authority of the United States or any State, a national bank shall be treated as a bank organized and existing under the laws of the State or other jurisdiction within which its principal office is located.
 
-(R.S. §5219; Mar. 4, 1923, ch. 267, 42 Stat. 1499; Mar. 25, 1926, ch. 88, 44 Stat. 223; Dec. 24, 1969, Pub. L. 91–156, §§1(a), 2(a), 83 Stat. 434.)
+(R.S. §5219; Mar. 4, 1923, ch. 267, 42 Stat. 1499; Mar. 25, 1926, ch. 88, 44 Stat. 223; Pub. L. 91–156, §§1(a), 2(a), Dec. 24, 1969, 83 Stat. 434.)
 
 #### Codification
 
@@ -48,7 +48,7 @@ Pub. L. 93–100, §7, Aug. 16, 1973, 87 Stat. 347, eff. on the 30th day after A
 
 #### Study by Board of Governors of Federal Reserve System; Report by June 22, 1972
 
-Section 4(b) of Pub. L. 92–213 required the Board of Governors of the Federal Reserve System to make a study of the probable impact on the revenues of State and local governments of the extension until Jan. 1, 1973, under subsection (a), of the termination date of interim provisions regarding intangible personal property taxes of State and local governments on nationalbanks and to report the results of its study to the Congress not later than six months after Dec. 22, 1971.
+Section 4(b) of Pub. L. 92–213 required the Board of Governors of the Federal Reserve System to make a study of the probable impact on the revenues of State and local governments of the extension until Jan. 1, 1973, under subsection (a), of the termination date of interim provisions regarding intangible personal property taxes of State and local governments on national banks and to report the results of its study to the Congress not later than six months after Dec. 22, 1971.
 
 #### Study by Board of Governors of Federal Reserve System; Report by Dec. 31, 1970
 

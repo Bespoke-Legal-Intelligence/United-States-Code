@@ -10,7 +10,7 @@ The national student officers of the corporation shall comprise a board of stude
 
 #### (c) Election
 
-The national officers of the corporation shall be elected annually by a majority vote of the delegates assembled in the annual national convention from among qualified members of the corporation, except that the national advisor shall be the Secretary of Education, the executive secretary shall be a member of the Department of Education, and the treasurer shall be an employee or member of a State agency that directs or supervises a State program of agricultural education under the provisions of the Smith-Hughes Vocational Education Act \[20 U.S.C. 11 et seq.\] or the Vocational Education Act of 1946.
+The national officers of the corporation shall be elected annually by a majority vote of the delegates assembled in the annual national convention from among qualified members of the corporation, except that the national advisor shall be the Secretary of Education, the executive secretary shall be a member of the Department of Education, and the treasurer shall be an employee or member of a State agency that directs or supervises a State program of agricultural education under the provisions of the Smith-Hughes Vocational Education Act or the Vocational Education Act of 1946.
 
 #### (d) Vote at national convention
 
@@ -20,9 +20,9 @@ In the conduct of the business of the annual national convention each qualified 
 
 #### References in Text
 
-The Smith-Hughes Vocational Education Act, referred to in subsec. (c), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, as amended, which is classified to sections 11 to 15 and 16 to 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
+The Smith-Hughes Vocational Education Act, referred to in subsec. (c), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, as amended, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by Pub. L. 105–33, title VI, §6201, Aug. 5, 1997, 111 Stat. 653. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
 
-The Vocational Education Act of 1946, referred to in subsec. (c), is act June 8, 1936, ch. 541, 49 Stat. 1488, as amended, which was classified to sections 15h to 15q, 15aa to 15jj, and 15aaa to 15ggg of Title 20, and was repealed by section 103 of Pub. L. 90–576, title I, Oct. 16, 1968, 82 Stat. 1091.
+The Vocational Education Act of 1946, referred to in subsec. (c), is act June 8, 1936, ch. 541, 49 Stat. 1488, as amended, which was classified to sections 15h to 15q, 15aa to 15jj, and 15aaa to 15ggg of Title 20, prior to repeal by section 103 of Pub. L. 90–576, title I, Oct. 16, 1968, 82 Stat. 1091.
 
 #### Transfer of Functions
 

@@ -26,7 +26,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(12) The term “obligor”, when used with respect to any such indenture security, means every person (including a guarantor) who is liable thereon, and, if such security is a certificate of interest or participation, such term means also every person (including a guarantor) who is liable upon the security or securities in which such certificate evidences an interest or participation; but such term shall not include the trustee under an indenture under which certificates of interest or participation, equipment trust certificates, or like securities are outstanding.
 
-&emsp;(13) The term “paying agent”, when used with respect to any such indenture security, means any person authorized by an obligor thereon (A) to pay the principal of or intereston such security on behalf of such obligor, or (B) if such security is a certificate of interest or participation, equipment trust certificate, or like security, to make such payment on behalf of the trustee.
+&emsp;(13) The term “paying agent”, when used with respect to any such indenture security, means any person authorized by an obligor thereon (A) to pay the principal of or interest on such security on behalf of such obligor, or (B) if such security is a certificate of interest or participation, equipment trust certificate, or like security, to make such payment on behalf of the trustee.
 
 &emsp;(14) The term “State” means any State of the United States.
 

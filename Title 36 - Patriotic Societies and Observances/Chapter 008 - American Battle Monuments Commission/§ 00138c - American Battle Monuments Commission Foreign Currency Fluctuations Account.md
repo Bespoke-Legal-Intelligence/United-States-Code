@@ -6,7 +6,7 @@ There is hereby established in the Treasury an account to be known as the “For
 
 #### (b) Merger and availability of transferred funds; increase in permissible obligations of funds
 
-Funds transferred under subsection (a) of this section shall be merged with and available for the same time period as the appropriation to which they are applied. A provision of law limiting the amount of funds the Commission may obligate in any fiscal year shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
+Funds transferred under subsection (a) of this section shall be merged with and available for the same time period as the appropriation to which they are applied. A provision of law limiting the amount of funds the Commission mayobligate in any fiscal year shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
 
 #### (c) Recording of obligations and fluctuations in exchange rates
 

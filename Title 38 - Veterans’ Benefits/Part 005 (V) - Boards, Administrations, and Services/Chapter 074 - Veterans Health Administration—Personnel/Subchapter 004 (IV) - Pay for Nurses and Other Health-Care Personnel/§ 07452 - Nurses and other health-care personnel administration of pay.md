@@ -14,11 +14,11 @@
 
 (2) Such a determination may be made by the director of a health-care facility only in order to recruit employees in covered positions with specialized skills, especially employees with skills which are especially difficult or demanding.
 
-(3) A rate of pay referred to in paragraph (1) is a rate of basic pay in excess of the minimum rate of basic pay applicable to the grade in which the appointment is made (but not in excess of the maximum rate of basic pay for that grade).
+(3) A rate of pay referred to in paragraph (1) is a rate of basic pay in excess of the minimumrate of basic pay applicable to the grade in which the appointment is made (but not in excess of the maximum rate of basic pay for that grade).
 
 (4) Whenever the director of a health-care facility makes an appointment described in paragraph (1) without prior approval at a higher level of authority within the Department, the director shall—
 
-&emsp;(A) state in a document the reasons for employing the employee in a covered position at a rate of pay in excess of the minimum rate of basic pay applicable to the grade in which theemployee is appointed (and retain that document on file); and
+&emsp;(A) state in a document the reasons for employing the employee in a covered position at a rate of pay in excess of the minimum rate of basic pay applicable to the grade in which the employee is appointed (and retain that document on file); and
 
 &emsp;(B) in the first budget documents submitted to the Secretary by the director after the employee is employed, include documentation for the need for such increased rates of basic pay described in clause (A).
 

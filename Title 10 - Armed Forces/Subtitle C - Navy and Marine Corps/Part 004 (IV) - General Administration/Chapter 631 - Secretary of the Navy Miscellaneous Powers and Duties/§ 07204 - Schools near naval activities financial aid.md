@@ -1,6 +1,6 @@
 ### §7204. Schools near naval activities: financial aid
 
-(a) The Secretary of the Navy may contribute, out of funds specifically appropriated for thepurpose, to the support of schools in any locality where a naval activity is located if he finds that the schools available in the locality are inadequate for the welfare of the dependents of—
+(a) The Secretary of the Navy may contribute, out of funds specifically appropriated for the purpose, to the support of schools in any locality where a naval activity is located if he finds that the schools available in the locality are inadequate for the welfare of the dependents of—
 
 &emsp;(1) members of the naval service;
 

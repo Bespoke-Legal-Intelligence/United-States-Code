@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) while attached under competent orders to a submarine, while serving as an operator or crew member of an operational submersible (including an undersea exploration or research vehicle), while undergoing training preliminary to assignment to a nuclear-powered submarine, while undergoing rehabilitation after assignment to a nuclear-powered submarine, or, in the case of a member qualified in submarines, while attached as a member of a submarine operational command staff whose duties require serving on a submarine during underway operations—
 
-&emsp;&emsp;&emsp;(I) during one calendar month: 48 hours, except that hours served underway in excess of 48 as a member of a submarine operational command staff during any ofthe immediately preceding five calendar months and not already used to qualify for incentive pay may be applied to satisfy the underway time requirements for the current month;
+&emsp;&emsp;&emsp;(I) during one calendar month: 48 hours, except that hours served underway in excess of 48 as a member of a submarine operational command staff during any of the immediately preceding five calendar months and not already used to qualify for incentive pay may be applied to satisfy the underway time requirements for the current month;
 
 &emsp;&emsp;&emsp;(II) during any two consecutive calendar months when the requirements of subclause (I) of this clause have not been met: 96 hours; or
 
@@ -134,7 +134,7 @@ Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added p
 
 Subsec. (a)(5). Pub. L. 100–26 substituted “In this section:” for “For the purposes of this section, the term—”, inserted “The term” at beginning of subpars. (A) and (B), and substituted “operational” for “Operational” and “submarine” for “Submarine” in subpars. (A) and (B), respectively.
 
-Subsec. (b). Pub. L. 100–224 struck out, preceding table for enlisted members, “(b) The monthly rates for special pay under subsection (a) are as follows:” which had inadvertently been inserted as a second subsec. (b) by Pub. L. 100–180, §623(b).
+Subsec. (b). Pub. L. 100–224 struck out, preceding table for enlisted members, “(b) The monthly rates forspecial pay under subsection (a) are as follows:” which had inadvertently been inserted as a second subsec. (b) by Pub. L. 100–180, §623(b).
 
 Pub. L. 100–180, §623(b), amended tables generally so as to reflect an upward adjustment in monthly incentive pay rates for enlisted members, commissioned officers, and warrant officers of all pay grades and years of service encompassed by tables.
 

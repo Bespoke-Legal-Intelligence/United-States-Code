@@ -26,7 +26,7 @@ Section 645(a) of div. C of Pub. L. 104–208 provided that: “The Congress fin
 
 &emsp;“(3) such mutilation infringes upon the guarantees of rights secured by Federal and State law, both statutory and constitutional;
 
-&emsp;“(4) the unique circumstances surrounding the practice of female genital mutilation place it beyondthe ability of any single State or local jurisdiction to control;
+&emsp;“(4) the unique circumstances surrounding the practice of female genital mutilation place it beyond the ability of any single State or local jurisdiction to control;
 
 &emsp;“(5) the practice of female genital mutilation can be prohibited without abridging the exercise of any rights guaranteed under the first amendment to the Constitution or under any other law; and
 

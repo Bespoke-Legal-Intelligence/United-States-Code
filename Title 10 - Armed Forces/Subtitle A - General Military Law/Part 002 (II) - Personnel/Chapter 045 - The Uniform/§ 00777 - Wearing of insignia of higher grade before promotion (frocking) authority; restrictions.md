@@ -36,11 +36,19 @@ Limitation on Number of Officers Frocked to Specified Grades.—(1) The total nu
 
 &emsp;(C) After fiscal year 1998, 35.
 
-(2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
+(2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
 
-(Added Pub. L. 104–106, div. A, title V, §503(a)(1), Feb. 10, 1996, 110 Stat. 294.)
+(Added Pub. L. 104–106, div. A, title V, §503(a)(1), Feb. 10, 1996, 110 Stat. 294; amended Pub. L. 105–85, div. A, title V, §505, Nov. 18, 1997, 111 Stat. 1726.)
+
+#### Amendments
+
+1997—Subsec. (d)(2). Pub. L. 105–85 inserted “, or, for the grades of colonel and Navy captain, 2 percent,” after “1 percent”.
 
 #### Temporary Variation of Limitations on Numbers of Frocked Officers
 
 Section 503(b) of Pub. L. 104–106 provided that: “In the administration of section 777(d)(2) of title 10, United States Code (as added by subsection (a)), the percent limitation applied under that section for fiscal year 1996 shall be 2 percent (instead of 1 percent).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 721 of this title.
 

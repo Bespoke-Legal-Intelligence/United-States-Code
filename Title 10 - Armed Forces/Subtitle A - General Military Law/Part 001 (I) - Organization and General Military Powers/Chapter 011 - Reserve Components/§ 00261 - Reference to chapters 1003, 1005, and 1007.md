@@ -10,7 +10,7 @@ Prior sections 261 to 265 were repealed by Pub. L. 103–337, div. A, title XVI,
 
 Section 261, act Aug. 10, 1956, ch. 1041, 70A Stat. 10, named the reserve components of the armed forces. See sections 10101 and 10213 of this title.
 
-Section 262, acts Aug. 10, 1956, ch. 1041, 70A Stat. 10; Dec. 1, 1967, Pub. L. 90–168, §2(5), 81 Stat. 521, related topurpose of reserve components. See section 10102 of this title.
+Section 262, acts Aug. 10, 1956, ch. 1041, 70A Stat. 10; Dec. 1, 1967, Pub. L. 90–168, §2(5), 81 Stat. 521, related to purpose of reserve components. See section 10102 of this title.
 
 Section 263, act Aug. 10, 1956, ch. 1041, 70A Stat. 11, related to basic policy for ordering Army National Guard of the United States and Air National Guard of the United States into Federal service. See section 10103 of this title.
 

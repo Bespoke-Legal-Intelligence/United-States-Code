@@ -30,7 +30,7 @@ Veterans’ Preference Defined.—(1) In this section, the term “veterans’ p
 
 &emsp;(E) Section 3(a)(11) of the Administrative Office of the United States Courts Personnel Act of 1990 (28 U.S.C. 602 note).
 
-&emsp;(F) Sections 106(f),<sup>1</sup> 7281(e), and 7802(5) of title 38.
+&emsp;(F) Sections 106(e), 7281(e), and 7802(5) of title 38.
 
 &emsp;(G) Section 1005(a) of title 39.
 
@@ -42,11 +42,15 @@ Veterans’ Preference Defined.—(1) In this section, the term “veterans’ p
 
 Personnel Action Defined.—In this section, the term “personnel action” has the meaning given that term in section 2302 of title 5.
 
-(Added Pub. L. 104–201, div. A, title XVI, §1615(a)(1), Sept. 23, 1996, 110 Stat. 2740.)
+(Added Pub. L. 104–201, div. A, title XVI, §1615(a)(1), Sept. 23, 1996, 110 Stat. 2740; amended Pub. L. 105–85, div. A, title X, §1073(a)(31), Nov. 18, 1997, 111 Stat. 1902.)
 
 #### References in Text
 
 Section 3(a)(11) of the Administrative Office of the United States Courts Personnel Act of 1990, referred to in subsec. (c)(1)(E), is section 3(a)(11) of Pub. L. 101–474, which is set out in a note under section 602 of Title 28, Judiciary and Judicial Procedure.
+
+#### Amendments
+
+1997—Subsec. (c)(1)(F). Pub. L. 105–85 substituted “Sections 106(e)” for “Sections 106(f)”.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@
 
 (c) This section does not apply to cases, actions, and proceedings to which the Federal Rules of Evidence apply.
 
-(June 25, 1948, ch. 646, 62 Stat. 946; Jan. 2, 1975, Pub. L. 93–595, §2(c), 88 Stat. 1949.)
+(June 25, 1948, ch. 646, 62 Stat. 946; Pub. L. 93–595, §2(c), Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 
@@ -28,7 +28,7 @@ The Federal Rules of Evidence, referred to in subsec. (c), are set out in the Ap
 
 #### Amendments
 
-1975—Subsec. (c). Pub. L. 93–595 added subsec. (c).
+<b>1975</b>—Subsec. (c). Pub. L. 93–595 added subsec. (c).
 
 #### Federal Rules of Civil Procedure
 

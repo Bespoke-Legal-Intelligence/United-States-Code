@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) 3.0 percent shall be allocated to each State that meets the requirements of section 13703(c) of this title, except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, if eligible under such subsection, shall each be allocated 0.03 percent.
 
-&emsp;&emsp;(B) The amount remaining after application of subparagraph (A) shall be allocated to each State that meets the requirements of section 13703(c) of this title, in the ratio that the number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made, bears to the average annual number of part 1 violent crimes reported by all States that meet the requirements of section 13702(c) of this title to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made.
+&emsp;&emsp;(B) The amount remaining after application of subparagraph (A) shall be allocated to each State that meets the requirements of section 13703(c) of this title, in the ratio that the number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made, bears to the average annual number of part 1 violent crimes reported by all States thatmeet the requirements of section 13702(c) of this title to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made.
 
 #### (b) Allocation of truth-in-sentencing grants under section 13704
 

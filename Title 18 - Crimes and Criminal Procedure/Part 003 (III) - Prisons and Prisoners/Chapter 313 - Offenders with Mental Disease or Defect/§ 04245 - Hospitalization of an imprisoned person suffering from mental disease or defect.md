@@ -14,7 +14,7 @@ Hearing.—The hearing shall be conducted pursuant to the provisions of section 
 
 (d)
 
-Determination and Disposition.—If, after the hearing, the court finds by a preponderance of the evidence that the person is presently suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility, the court shall commit the person to the custody ofthe Attorney General. The Attorney General shall hospitalize the person for treatment in a suitable facility until he is no longer in need of such custody for care or treatment or until the expiration of the sentence of imprisonment, whichever occurs earlier.
+Determination and Disposition.—If, after the hearing, the court finds by a preponderance of the evidence that the person is presently suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility, the court shall commit the person to the custody of the Attorney General. The Attorney General shall hospitalize the person for treatment in a suitable facility until he is no longer in need of such custody for care or treatment or until the expiration of the sentence of imprisonment, whichever occurs earlier.
 
 (e)
 

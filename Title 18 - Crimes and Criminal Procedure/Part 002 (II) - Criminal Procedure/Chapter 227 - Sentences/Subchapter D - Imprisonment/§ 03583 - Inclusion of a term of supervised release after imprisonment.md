@@ -20,7 +20,7 @@ Factors To Be Considered in Including a Term of Supervised Release.—The court,
 
 (d)
 
-Conditions of Supervised Release.—The court shall order, as an explicit condition of supervised release, that the defendant not commit another Federal, State, or local crime during the term of supervision and that the defendant not unlawfully possess a controlled substance.The court shall order as an explicit condition of supervised release for a defendant convicted for the first time of a domestic violence crime as defined in section 3561(b) that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant. The court shall also order, as an explicit condition of supervised release, that the defendant refrain from any unlawful use of a controlled substance and submit to a drug test within 15 days of release on supervised release and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the court as provided in section 3563(a)(4).<sup>1</sup> The results of a drug test administered in accordance with the preceding subsection shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3583(g) when considering any action against a defendant who fails a drug test. The court may order, as a further condition of supervised release, to the extent that such condition—
+Conditions of Supervised Release.—The court shall order, as an explicit condition of supervised release, that the defendant not commit another Federal, State, or local crime during the term of supervision and that the defendant not unlawfully possess a controlled substance. The court shall order as an explicit condition of supervised release for a defendant convicted for the first time of a domestic violence crime as defined in section 3561(b) that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant. The court shall order, as an explicit condition of supervised release for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994). The court shall also order, as an explicit condition of supervised release, that the defendant refrain from any unlawful use of a controlled substance and submit to a drug test within 15 days of release on supervised release and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the court as provided in section 3563(a)(4).<sup>1</sup> The results of a drug test administered in accordance with the preceding subsection shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3583(g) when considering any action against a defendant who fails a drug test. The court may order, as a further condition of supervised release, to the extent that such condition—
 
 &emsp;(1) is reasonably related to the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), and (a)(2)(D);
 
@@ -56,7 +56,7 @@ Mandatory Revocation for Possession of Controlled Substance or Firearm or for Re
 
 &emsp;(3) refuses to comply with drug testing imposed as a condition of supervised release;
 
-> the court shall revoke the term of supervised release and require the defendant to serve a termof imprisonment not to exceed the maximum term of imprisonment authorized under subsection (e)(3).
+> the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment not to exceed the maximum term of imprisonment authorized under subsection (e)(3).
 
 (h)
 
@@ -66,9 +66,11 @@ Supervised Release Following Revocation.—When a term of supervised release is 
 
 Delayed Revocation.—The power of the court to revoke a term of supervised release for violation of a condition of supervised release, and to order the defendant to serve a term of imprisonment and, subject to the limitations in subsection (h), a further term of supervised release, extends beyond the expiration of the term of supervised release for any period reasonably necessary for the adjudication of matters arising before its expiration if, before its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1999; amended Pub. L. 99–570, title I, §1006(a)(1)–(3), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 99–646, §14(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§8, 9, 12, 25, Dec. 7, 1987, 101 Stat. 1267, 1268, 1272; Pub. L. 100–690, title VII, §§7108, 7303(b), 7305(b), Nov. 18, 1988, 102 Stat. 4418, 4464, 4465; Pub. L. 101–647, title XXXV, §3589, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title II, §20414(c), title XI, §110505, title XXXII, §320921(c), Sept. 13, 1994, 108 Stat. 1831, 2016, 2130.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1999; amended Pub. L. 99–570, title I, §1006(a)(1)–(3), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 99–646, §14(a), Nov. 10, 1986, 100 Stat. 3594;Pub. L. 100–182, §§8, 9, 12, 25, Dec. 7, 1987, 101 Stat. 1267, 1268, 1272; Pub. L. 100–690, title VII, §§7108, 7303(b), 7305(b), Nov. 18, 1988, 102 Stat. 4418, 4464, 4465; Pub. L. 101–647, title XXXV, §3589, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title II, §20414(c), title XI, §110505, title XXXII, §320921(c), Sept. 13, 1994, 108 Stat. 1831, 2016, 2130; Pub. L. 105–119, title I, §115(a)(8)(B)(iv), Nov. 26, 1997, 111 Stat. 2466.)
 
 #### References in Text
+
+Section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (d), is classified to section 14071(a)(3) of Title 42, The Public Health and Welfare.
 
 Section 3563(a)(4), referred to in subsec. (d), probably means the par. (4) of section 3563(a) added by section 20414(b)(3) of Pub. L. 103–322, which was renumbered par. (5) by Pub. L. 104–132, title II, §203(1)(C), Apr. 24, 1996, 110 Stat. 1227.
 
@@ -77,6 +79,8 @@ Section 3563(b), referred to in subsec. (d), was amended by Pub. L. 104–132, t
 The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), (2), (3), are set out in the Appendix to this title.
 
 #### Amendments
+
+1997—Subsec. (d). Pub. L. 105–119 inserted after second sentence “The court shall order, as an explicit condition of supervised release for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994).”
 
 1994—Subsec. (a). Pub. L. 103–322, §320921(c)(1), inserted before period at end “or if the defendant has been convicted for the first time of a domestic violence crime as defined in section 3561(b)”.
 
@@ -149,6 +153,10 @@ Subsec. (e). Pub. L. 99–570, §1006(a)(3)(A), and Pub. L. 99–646, §14(a)(1)
 Subsec. (e)(1). Pub. L. 99–646, §14(a)(2), struck out “previously ordered” before “and discharge”.
 
 Subsec. (e)(4). Pub. L. 99–570, §224(a)(3)(B)–(D), added par. (4).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 14071 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1988 Amendment
 

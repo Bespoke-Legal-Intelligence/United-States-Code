@@ -26,7 +26,7 @@ There is established in the Institute a National Museum Services Board.
 
 #### (3) Geographic and other representation
 
-&emsp;Members of the Museum Board shall be appointed to reflect persons from various geographic regions of the United States. The Museum Board may not include, at any time, more than 3 members from a single State. In making such appointments, the President shall give due regard to equitable representation of women, minorities, and persons with disabilities who are involved with museums.
+&emsp;Members of the Museum Board shall be appointed to reflect persons from various geographic regions of the United States. The Museum Board may not include, at any time, more than 3 members from a single State. Inmaking such appointments, the President shall give due regard to equitable representation of women, minorities, and persons with disabilities who are involved with museums.
 
 #### (c) Terms
 

@@ -22,5 +22,5 @@ References to “mobile homes”, wherever appearing in text, changed to “manu
 
 1980—Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
 
-1978—Subsec. (a). Pub. L. 95–557 substituted “July 1 of every other year beginning with calendar year 1978”, for “March 1, of each year”, “two preceding calendar years” for “preceding calendar year”, and “such years” for “such year” in cls. (1), (2), and (5) and “the year” in cl. (6), respectively.
+1978—Subsec. (a). Pub. L. 95–557 substituted “July 1 of every other year beginning with calendar year 1978”, for “March 1, of each year”, “two preceding calendaryears” for “preceding calendar year”, and “such years” for “such year” in cls. (1), (2), and (5) and “the year” in cl. (6), respectively.
 

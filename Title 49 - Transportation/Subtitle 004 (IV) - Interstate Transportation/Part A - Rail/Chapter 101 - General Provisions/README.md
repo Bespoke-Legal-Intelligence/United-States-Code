@@ -9,9 +9,7 @@
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 22101, 22107, 24301, 24501 of this title; title 26 sections 168, 281, 3231, 7701; title 29 section 213; title 45 sections 231, 351, 661, 702, 741, 744, 802, 1207.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
+This part is referred to in sections 22101, 22107 of this title; title 26 sections 168, 281, 3231, 7701; title 29 section 213; title 45 sections 231, 351, 661, 702, 741, 744, 802, 1207.
 
 
 ---

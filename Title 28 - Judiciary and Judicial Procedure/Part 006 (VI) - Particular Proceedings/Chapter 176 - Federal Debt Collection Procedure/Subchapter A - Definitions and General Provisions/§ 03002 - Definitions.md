@@ -32,7 +32,7 @@ As used in this chapter:
 
 &emsp;(10) “Person” includes a natural person (including an individual Indian), a corporation, a partnership, an unincorporated association, a trust, or an estate, or any other public or private entity, including a State or local government or an Indian tribe.
 
-&emsp;(11) “Prejudgment remedy” means the remedy of attachment, receivership, garnishment, or sequestration authorized by this chapter to be granted before judgment on the merits of a claim for a debt.
+&emsp;(11) “Prejudgment remedy” means the remedy of attachment, receivership, garnishment,or sequestration authorized by this chapter to be granted before judgment on the merits of a claim for a debt.
 
 &emsp;(12) “Property” includes any present or future interest, whether legal or equitable, in real, personal (including choses in action), or mixed property, tangible or intangible, vested or contingent, wherever located and however held (including community property and property held in trust (including spendthrift and pension trusts)), but excludes—
 

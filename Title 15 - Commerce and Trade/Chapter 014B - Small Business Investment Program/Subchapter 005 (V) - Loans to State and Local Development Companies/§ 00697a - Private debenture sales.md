@@ -42,13 +42,13 @@
 
 #### Regulations
 
-Small Business Administration to promulgate final rules and regulations to implement this section within 60 days of Apr. 7, 1986, see section 18008(d)(2) of Pub. L. 99–272, set out as a note under section 697b of this title.
+Small Business Administration to promulgate final rules and regulations to implement this section within60 days of Apr. 7, 1986, see section 18008(d)(2) of Pub. L. 99–272, set out as a note under section 697b of this title.
 
 #### Pilot Program Report
 
-Section 18008(b) of Pub. L. 99–272 provided that: “The Administration shall report to the President and theCongress on the conduct of the pilot program established under subsection (a) \[enacting this section\] not later than 90 days after the date on which the last sale is made pursuant to such subsection in each fiscal year, and unless a report has been made not later than October 1 of 1986 and 1987, the Administration shall make an interim report by such dates.”
+Section 18008(b) of Pub. L. 99–272 provided that: “The Administration shall report to the President and the Congress on the conduct of the pilot program established under subsection (a) \[enacting this section\] not later than 90 days after the date on which the last sale is made pursuant to such subsection in each fiscal year, and unless a report has been made not later than October 1 of 1986 and 1987, the Administration shall make an interim report by such dates.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 697, 697d, 697f of this title.
+This section is referred to in sections 697, 697d, 697e, 697f of this title.
 

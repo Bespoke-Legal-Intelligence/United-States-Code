@@ -120,5 +120,5 @@ Section 10388, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358; Pub. L. 96–73, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 501, 41713 of this title; title 45 section 1344.
+This section is referred to in section 501 of this title; title 45 section 1344.
 

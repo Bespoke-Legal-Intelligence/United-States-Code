@@ -12,7 +12,7 @@
 
 (f) When the head of the agency concerned officially reports that an employee in a missing status is alive, an allotment under subsections (a)–(d) of this section may be paid, subject to section 5562 of this title, until the date the head of the agency concerned receives evidence that the employee is dead or has returned to the controllable jurisdiction of the agency concerned.
 
-(g) When an employee in a missing status is continued in that status under section 5565 ofthis title, an allotment under subsections (a)–(d) of this section may be continued, increased, or initiated.
+(g) When an employee in a missing status is continued in that status under section 5565 of this title, an allotment under subsections (a)–(d) of this section may be continued, increased, or initiated.
 
 (h) When the head of the agency concerned considers it essential for the well-being and protection of the dependents of an employee in active service (other than an employee in a missing status), he may, with or without the consent of the employee and subject to termination on specific request of the employee—
 
@@ -120,7 +120,7 @@ In subsection (c), the words “in effect” are omitted as surplusage. The word
 
 In subsection (d), the words “United States” are substituted for “Government” to conform to the style of this title. The word “employee” is substituted for “person” to conform to the definition in section 5561(2).
 
-In subsection (e), the words “head of the agency concerned or his designee” are substituted for “head of the department concerned, or such subordinates as he may designate”. The words “employee in a missing status” are substituted for “person entitled to receive or be credited with pay and allowances under section 2 of this Act” to conform to the definitions in section 5561(2) and (5). The words “United States” are substituted for “Government” to conform to the style of this title.
+In subsection (e), the words “head of the agency concerned or his designee” are substituted for “head of the department concerned, or such subordinates as he may designate”. The words “employee in a missing status” are substituted for “person entitled to receive or becredited with pay and allowances under section 2 of this Act” to conform to the definitions in section 5561(2) and (5). The words “United States” are substituted for “Government” to conform to the style of this title.
 
 In subsections (f) and (g), the words “employee in a missing status” are substituted for “person missing under the conditions specified in section 2 of this Act” to conform to the definitions in section 5561(2) and (5).
 

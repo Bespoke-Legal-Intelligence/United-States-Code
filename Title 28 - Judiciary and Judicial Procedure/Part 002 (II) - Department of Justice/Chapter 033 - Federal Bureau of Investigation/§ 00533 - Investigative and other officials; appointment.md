@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 299, 300 (less applicability to acquisition etc. of identification and other records).
 
@@ -32,15 +34,19 @@ In paragraph (2), the words “to assist in” are added for clarity and in reco
 
 The last sentence is added because in various areas the authority to investigate certain criminal offenses has been specifically assigned by statute to departments and agencies other than the Federal Bureau of Investigation. For example, the enforcement of the internal revenue laws is specifically a function of the Secretary of the Treasury and he is authorized to employ such number of persons as he deems proper for the enforcement of such laws (26 U.S.C. 7801, 7803). The Secretary of the Treasury is specifically authorized to direct the collection of duties on imports and to appoint such employees for that purpose as he deems necessary (19 U.S.C. 3, 6). The U.S. Coast Guard is specifically authorized to enforce or assist in enforcing the Federal laws upon the high seas and waters subject to the jurisdiction of the United States (14 U.S.C. 2). Subject to the direction of the Secretary of the Treasury, the Secret Service is specifically authorized to detect and arrest persons committing offenses against the laws of the United States relating to coins and obligations and securities of the United States and foreign governments (18 U.S.C. 3056).
 
+#### Department of Justice Exemption Authority
+
+Pub. L. 104–132, title VIII, §815(d), Apr. 24, 1996, 110 Stat. 1315, provided that: “Notwithstanding any other provision of law, section 102(b) of the Department of Justice and Related Agencies Appropriations Act, 1993 (Public Law 102–395) \[section 102(b)(5)–(6) of Pub. L. 102–395 is set out as a note below\], shall remain in effect until specifically repealed, subject to any limitation on appropriations contained in any Department of Justice Appropriation Authorization Act.”
+
 #### FBI Investigations of Espionage by Persons Employed by or Assigned to United States Diplomatic Missions Abroad
 
 Pub. L. 101–193, title VI, §603, Nov. 30, 1989, 103 Stat. 1710, provided that: “Subject to the authority of the Attorney General, the FBI shall supervise the conduct of all investigations of violations of the espionage laws of the United States by persons employed by or assigned to United States diplomatic missions abroad. All departments and agencies shall report immediately to the FBI any information concerning such a violation. All departments and agencies shall provide appropriate assistance to the FBI in the conduct of such investigations. Nothing in this provision shall be construed as establishing a defense to any criminal, civil, or administrative action.”
 
 #### Undercover Investigative Operations Conducted by Federal Bureau of Investigation or Drug Enforcement Administration; Annual Report to Congress; Financial Audit
 
-Pub. L. 102–395, title I, §102(b)(5), (6), Oct. 6, 1992, 106 Stat. 1840, provided that:
+Pub. L. 102–395, title I, §102(b)(5), (6), Oct. 6, 1992, 106 Stat. 1840, as amended by section 112(3) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37, provided that:
 
-“(5)(A) The Federal Bureau of Investigation or the Drug Enforcement Administration, as the case may be, shall conduct a detailed financial audit of each undercover investigative operation which is closed in fiscal years 1993, 1994, and 1995—
+“(5)(A) The Federal Bureau of Investigation or the Drug Enforcement Administration, as the case may be, shall conduct a detailed financial audit of each undercover investigative operation which is closed in fiscal year 1996—
 
 &emsp;“(i) submit the results of such audit in writing to the Attorney General, and
 
@@ -52,7 +58,7 @@ Pub. L. 102–395, title I, §102(b)(5), (6), Oct. 6, 1992, 106 Stat. 1840, prov
 
 &emsp;“(ii) the number, by programs, of undercover investigative operations commenced in the one-year period preceding the period for which such report is submitted, and
 
-&emsp;“(iii) the number, by programs, of undercover investigative operations closed in the one-year period preceding the period for which such report is submitted and, with respect to each such closed undercover operation, the results obtained. With respect to each such closed undercover operation which involves anyof the sensitive circumstances specified in the Attorney General's Guidelines on Federal Bureau of Investigation Undercover Operations, such report shall contain a detailed description of the operation and related matters, including information pertaining to—
+&emsp;“(iii) the number, by programs, of undercover investigative operations closed in the one-year period preceding the period for which such report is submitted and, with respect to each such closed undercover operation, the results obtained. With respect to each such closed undercover operation which involves any of the sensitive circumstances specified in the Attorney General's Guidelines on Federal Bureau of Investigation Undercover Operations, such report shall contain a detailed description of the operation and related matters, including information pertaining to—
 
 &emsp;&emsp;“(I) the results,
 

@@ -18,5 +18,5 @@ Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 39 section 405.
+This section is referred to in title 22 section 3714b; title 39 section 405.
 

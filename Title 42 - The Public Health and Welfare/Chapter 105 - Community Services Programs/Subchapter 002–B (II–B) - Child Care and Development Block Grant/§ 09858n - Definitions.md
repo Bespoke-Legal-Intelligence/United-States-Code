@@ -68,7 +68,7 @@ As used in this subchapter:
 
 #### (13) State
 
-&emsp;The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
+&emsp;The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (14) Tribal organization
 
@@ -78,9 +78,9 @@ As used in this subchapter:
 
 #### (B) Other organizations
 
-&emsp;&emsp;Such term includes a Native Hawaiian Organization, as defined in section 4909(4) <sup>1</sup> of title 20 and a private nonprofit organizationestablished for the purpose of serving youth who are Indians or Native Hawaiians.
+&emsp;&emsp;Such term includes a Native Hawaiian Organization, as defined in section 4909(4) <sup>1</sup> of title 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
 
-(Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, §614, Aug. 22, 1996, 110 Stat. 2287.)
+(Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, §614, Aug. 22, 1996, 110 Stat. 2287; Pub. L. 105–33, title V, §5602(5), Aug. 5, 1997, 111 Stat. 646.)
 
 #### References in Text
 
@@ -89,6 +89,8 @@ Section 9858 of this title, referred to in par. (8), does not contain a subsec. 
 Section 4909 of title 20, referred to in par. (14)(B), was repealed by Pub. L. 103–382, title III, §363, Oct. 20, 1994, 108 Stat. 3975.
 
 #### Amendments
+
+1997—Par. (13). Pub. L. 105–33 substituted “and” for “or” after “American Samoa,”.
 
 1996—Par. (2). Pub. L. 104–193, §614(1), in first sentence, inserted “or as a deposit for child care services if such a deposit is required of other children being cared for by the provider” after “payment for child care services”.
 
@@ -115,6 +117,10 @@ Pub. L. 102–401, §3(b)(1), substituted “section 450b(e) of title 25” for 
 Par. (14). Pub. L. 102–586, §8(c)(2)(B), as amended by Pub. L. 103–171, which directed the amendment of par. (14) by substituting “section 450b(<i>l</i>) of title 25” for “section 450b(c) of title 25”, could not be executed because the words “section 450b(c) of title 25” did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(2). See below.
 
 Pub. L. 102–401, §3(b)(2), substituted “section 450b(<i>l</i>) of title 25” for “section 450b(c) of title 25”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5603 of Pub. L. 105–33, set out as a note under section 618 of this title.
 
 #### Effective Date of 1996 Amendment
 

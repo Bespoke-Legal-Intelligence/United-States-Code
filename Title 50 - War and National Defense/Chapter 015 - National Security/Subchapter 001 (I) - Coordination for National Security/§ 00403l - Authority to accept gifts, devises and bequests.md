@@ -20,7 +20,7 @@ For purposes of Federal income, estate, and gift taxes, gifts accepted by the Di
 
 For the purposes of this section, the term “gift” includes a bequest or devise.
 
-(June 20, 1949, ch. 227, §12, as added Oct. 14, 1980, Pub. L. 96–450, title IV, §404, 94 Stat. 1979.)
+(June 20, 1949, ch. 227, §12, as added Pub. L. 96–450, title IV, §404, Oct. 14, 1980, 94 Stat. 1979.)
 
 #### Codification
 

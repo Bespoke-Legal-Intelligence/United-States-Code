@@ -1,6 +1,6 @@
 ### §4151. Annual allocation
 
-For each fiscal year, the Secretary shall allocate any amounts made available for assistance under this chapter for the fiscal year, in accordance with the formula established pursuant to section 4152 of this title, among Indian tribes that comply with the requirements under this chapter for a grant under this chapter.
+For each fiscal year, the Secretary shall allocate any amounts made available for assistance under this chapter for the fiscal year, in accordance with the formula established pursuant tosection 4152 of this title, among Indian tribes that comply with the requirements under this chapter for a grant under this chapter.
 
 (Pub. L. 104–330, title III, §301, Oct. 26, 1996, 110 Stat. 4036.)
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) negotiate or bargain with any person concerning the terms or conditions of service of any member of the armed forces,
 
-&emsp;&emsp;(B) recognize any military labor organization as a representative of individual members of the armed forces in connection with any complaint or grievance of any such member arising out of the terms or conditions of service of such member in the armed forces, or
+&emsp;&emsp;(B) recognize any military labor organization as a representative of individual members of the armed forces in connection withany complaint or grievance of any such member arising out of the terms or conditions of service of such member in the armed forces, or
 
 &emsp;&emsp;(C) make any change with respect to the terms or conditions of service in the armed forces of individual members of the armed forces; or
 
@@ -52,7 +52,7 @@
 
 > Nothing in this subsection shall prevent commanders or supervisors from giving consideration to the views of any member of the armed forces presented individually or as a result of participation on command-sponsored or authorized advisory councils, committees, or organizations.
 
-(f) Whoever violates subsection (b), (c), or (d) shall, in the case of an individual, be fined not more than $10,000 or imprisoned not more than five years, or both, and in the case of an organization or association, be fined not less than $25,000 and not more than $250,000.
+(f) Whoever violates subsection (b), (c), or (d) shall be fined under title 18 or imprisoned not more than 5 years, or both, except that, in the case of an organization (as defined in section 18 of such title), the fine shall not be less than $25,000.
 
 (g) Nothing in this section shall limit the right of any member of the armed forces—
 
@@ -68,9 +68,11 @@
 
 &emsp;(6) to take such other administrative action to seek such administrative or judicial relief, as is authorized by applicable laws and regulations.
 
-(Added Pub. L. 95–610, §2(a), Nov. 8, 1978, 92 Stat. 3085, §975; renumbered §976, Pub. L. 96–107, title VIII, §821(a), Nov. 9, 1979, 93 Stat. 820; amended Pub. L. 98–525, title IV, §414(a)(6), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 99–661, div. A, title XIII, §1343(a)(2), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284.)
+(Added Pub. L. 95–610, §2(a), Nov. 8, 1978, 92 Stat. 3085, §975; renumbered §976, Pub. L. 96–107, title VIII, §821(a), Nov. 9, 1979, 93 Stat. 820; amended Pub. L. 98–525, title IV, §414(a)(6), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 99–661, div. A, title XIII, §1343(a)(2), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 105–85, div. A, title X, §1073(a)(15), Nov. 18, 1997, 111 Stat. 1900.)
 
 #### Amendments
+
+1997—Subsec. (f). Pub. L. 105–85 substituted “shall be fined under title 18 or imprisoned not more than 5 years, or both, except that, in the case of an organization (as defined in section 18 of such title), the fine shall not be less than $25,000.” for “shall, in the case of an individual, be fined not more than $10,000 or imprisoned not more than five years, or both, and in the case of an organization or association, be fined not less than $25,000 and not more than $250,000.”
 
 1987—Subsec. (a)(1) to (3). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each paragraph and substituted lowercase letter.
 

@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(2) the use of large-scale driftnets is expanding into new regions of the world's oceans, including the Atlantic Ocean and Caribbean Sea;
 
-&emsp;(3) there is a pressing need for detailed and reliable information on the number of seabirds, sea turtles, nontarget fish, and marine mammals that become entangled and die in actively fished large-scale driftnets and inlarge-scale driftnets that are lost, abandoned, or discarded;
+&emsp;(3) there is a pressing need for detailed and reliable information on the number of seabirds, sea turtles, nontarget fish, and marine mammals that become entangled and die in actively fished large-scale driftnets and in large-scale driftnets that are lost, abandoned, or discarded;
 
 &emsp;(4) increased efforts, including reliable observer data and enforcement mechanisms, are needed to monitor, assess, control, and reduce the adverse impact of large-scale driftnet fishing on living marine resources;
 
@@ -66,7 +66,7 @@ Not later than January 1, 1991, and every year thereafter until the purposes of 
 
 &emsp;(3) containing a list and description of any new fisheries developed by nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation; and
 
-&emsp;(4) containing a list of the nations that conduct, or authorize their nationals to conduct,large-scale driftnet fishing beyond the exclusive economic zone of any nation in a manner that diminishes the effectiveness of or is inconsistent with any international agreement governing large-scale driftnet fishing to which the United States is a party or otherwise subscribes.
+&emsp;(4) containing a list of the nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation in a manner that diminishes the effectiveness of or is inconsistent with any international agreement governing large-scale driftnet fishing to which the United States is a party or otherwise subscribes.
 
 #### (f) Certification
 
@@ -80,7 +80,7 @@ This section shall not serve or be construed to expand or diminish the sovereign
 
 As used in this section, the term “living marine resources” includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.
 
-(Pub. L. 94–265, title II, §206, as added Pub. L. 95–6, §3(1), Feb. 21, 1977, 91 Stat. 15; amended Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §107(a), Nov. 28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, §105(f), Oct. 11, 1996, 110 Stat. 3569.)
+(Pub. L. 94–265, title II, §206, as added Pub. L. 95–6, §3(1), Feb. 21, 1977, 91 Stat. 15; amended Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §107(a), Nov.28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, §105(f), Oct. 11, 1996, 110 Stat. 3569.)
 
 #### References in Text
 

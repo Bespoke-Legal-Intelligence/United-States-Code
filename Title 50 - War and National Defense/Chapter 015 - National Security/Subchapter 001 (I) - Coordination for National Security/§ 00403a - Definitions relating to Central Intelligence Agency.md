@@ -8,7 +8,7 @@ When used in sections 403a to 403s of this title, the term—
 
 (c) “Government agency” means any executive department, commission, council, independent establishment, corporation wholly or partly owned by the United States which is an instrumentality of the United States, board, bureau, division, service, office, officer, authority, administration, or other establishment, in the executive branch of the Government.
 
-(June 20, 1949, ch. 227, §1, 63 Stat. 208; Sept. 6, 1960, Pub. L. 86–707, title V, §511(a)(3), (c)(1), 74 Stat. 800, 801.)
+(June 20, 1949, ch. 227, §1, 63 Stat. 208; Pub. L. 86–707, title V, §511(a)(3), (c)(1), Sept. 6, 1960, 74 Stat. 800, 801.)
 
 #### Codification
 

@@ -46,7 +46,7 @@ Terms and Conditions.—The Secretary may approve an application under subsectio
 
 &emsp;&emsp;(A) by at least 65 percent of the air carriers serving the airport; and
 
-&emsp;&emsp;(B) by air carriers whose aircraft landing at the airport during the preceding calendaryear had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year.
+&emsp;&emsp;(B) by air carriers whose aircraft landing at the airport during the preceding calendar year had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year.
 
 &emsp;(5) The percentage increase in fees imposed on general aviation aircraft at the airport will not exceed the percentage increase in fees imposed on air carriers at the airport.
 
@@ -80,7 +80,7 @@ Interests of General Aviation Users.—In approving an application of an airport
 
 (g)
 
-Passenger Facility Fees; Apportionments; Service Charges.—Notwithstanding that the sponsor of an airport receiving an exemption under subsection (b) is not a public agency, the sponsor shall not be prohibited from—
+Passenger Facility Fees; Apportionments; Service Charges.—Notwithstandingthat the sponsor of an airport receiving an exemption under subsection (b) is not a public agency, the sponsor shall not be prohibited from—
 
 &emsp;(1) imposing a passenger facility fee under section 40117 of this title;
 

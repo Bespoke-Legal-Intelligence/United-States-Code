@@ -1,6 +1,6 @@
 ### §11322. Limitation on pooling and division of transportation or earnings
 
-(a) A rail carrier providing transportation subject to the jurisdiction of the Board under this part may not agree or combine with another of those rail carriers to pool or divide traffic or services or any part of their earnings without the approval of the Board under this section or section 11123 of this title. The Board may approve and authorize the agreement or combination if the rail carriers involved assent to the pooling or division and the Board finds that a pooling or division of traffic, services, or earnings—
+(a) A rail carrier providing transportation subject to the jurisdiction of the Board under this part may not agree or combine with another of those rail carriers to pool or divide traffic or services or any part of their earnings without the approval of the Board under this section orsection 11123 of this title. The Board may approve and authorize the agreement or combination if the rail carriers involved assent to the pooling or division and the Board finds that a pooling or division of traffic, services, or earnings—
 
 &emsp;(1) will be in the interest of better service to the public or of economy of operation; and
 
@@ -20,5 +20,5 @@ A prior section 11322, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1433, related t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 11327 of this title.
+This section is referred to in sections 11327, 24301, 24305 of this title.
 

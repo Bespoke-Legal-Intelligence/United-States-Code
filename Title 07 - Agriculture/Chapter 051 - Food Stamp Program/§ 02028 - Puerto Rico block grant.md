@@ -46,7 +46,7 @@
 
 Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fraud, false statement, or forgery, any funds, assets, or property provided or financed under this section shall be fined not more than $10,000 or imprisoned for not more than five years, or both, but if the value of the funds, assets or property involved is not over $200, the penalty shall be a fine of not more than $1,000 or imprisonment for not more than one year, or both.
 
-(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L.104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026.)
+(Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026.)
 
 #### Amendments
 
@@ -130,7 +130,7 @@ Study of Nutritional Needs of Puerto Ricans.—The Comptroller General of the Un
 
 &emsp;&emsp;“(B) increasing the benefits provided under the nutrition assistance program to the aggregate value of food stamp coupons that would be distributed to households in the Commonwealth if the Commonwealth were to participate in the food stamp program; and
 
-&emsp;&emsp;“(C) the usefulness of adjustments to standards of eligibility and other factors appropriate to the circumstances of the Commonwealth comparable tothose adjustments made under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.) for Alaska, Hawaii, Guam, and the Virgin Islands of the United States.
+&emsp;&emsp;“(C) the usefulness of adjustments to standards of eligibility and other factors appropriate to the circumstances of the Commonwealth comparable to those adjustments made under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.) for Alaska, Hawaii, Guam, and the Virgin Islands of the United States.
 
 “(d)
 

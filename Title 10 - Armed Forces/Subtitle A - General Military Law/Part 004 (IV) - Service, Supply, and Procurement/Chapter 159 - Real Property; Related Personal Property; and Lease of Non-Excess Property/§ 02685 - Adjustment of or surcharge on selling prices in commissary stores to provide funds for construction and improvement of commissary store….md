@@ -1,16 +1,44 @@
 ### §2685. Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities
 
-(a) Notwithstanding any other provision of law, the Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may, for the purposes of this section, provide for an adjustment of, or surcharge on, sales prices of goods and services sold in commissary store facilities.
+(a)
 
-(b) The Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may use the proceeds from the adjustments or surcharges authorized by subsection (a) to acquire, construct, convert, expand, install, or otherwise improve commissary store facilities at defense installations and for related environmental evaluation and construction costs, including surveys, administration, overhead, planning, and design.
+Adjustment or Surcharge Authorized.—Notwithstanding any other provision of law, the Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may, for the purposes of this section, provide for an adjustment of, or surcharge on, sales prices of goods and services sold in commissary store facilities.
 
-(c) The Secretary of a military department, with the approval of the Secretary of Defense and the Director of the Office of Management and Budget, may obligate anticipated proceeds from the adjustments or surcharges authorized by subsection (a) for any use specified in subsection (b) or (d), without regard to fiscal year limitations, if the Secretary of the military department determines that such obligation is necessary to carry out any use of such adjustments or surcharges specified in subsection (b) or (d).
+(b)
 
-(d)(1) The Secretary of a military department may authorize a nonappropriated fund instrumentality of the United States to enter into a contract for construction of a shopping mall or similar facility for a commissary store and one or more nonappropriated fund instrumentality activities. The Secretary may use the proceeds of adjustments or surcharges authorized by subsection (a) to reimburse the nonappropriated fund instrumentality for the portion of the cost of the contract that is attributable to construction of the commissary store or to pay the contractor directly for that portion of such cost.
+Use for Construction and Improvement of Facilities.—The Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may use the proceeds from the adjustments or surcharges authorized by subsection (a) to acquire, construct, convert, expand, install, or otherwise improve commissary store facilities at defense installations and for related environmental evaluation and construction costs, including surveys, administration, overhead, planning, and design.
+
+(c)
+
+Advance Obligation.—The Secretary of a military department, with the approval of the Secretary of Defense and the Director of the Office of Management and Budget, may obligate anticipated proceeds from the adjustments or surcharges authorized by subsection (a) for any use specified in subsection (b) or (d), without regard to fiscal year limitations, if the Secretary of the military department determines that such obligation is necessary to carry out any use of such adjustments or surcharges specified in subsection (b) or (d).
+
+(d)
+
+Cooperation With Nonappropriated Fund Instrumentalities.—(1) The Secretary of a military department may authorize a nonappropriated fund instrumentality of the United States to enter into a contract for construction of a shopping mall or similar facility for a commissary store and one or more nonappropriated fund instrumentality activities. The Secretary may use the proceeds of adjustments or surcharges authorized by subsection (a) to reimburse the nonappropriated fund instrumentality for the portion of the cost of the contract that is attributable to construction of the commissary store or to pay the contractor directly for that portion of such cost.
 
 (2) In paragraph (1), the term “construction”, with respect to a facility, includes acquisition, conversion, expansion, installation, or other improvement of the facility.
 
-(Added Pub. L. 93–552, title VI, §611, Dec. 27, 1974, 88 Stat. 1765; amended Pub. L. 95–82, title VI, §614, Aug. 1, 1977, 91 Stat. 380; Pub. L. 97–321, title VIII, §804, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 103–337, div. B, title XXVIII, §2851, Oct. 5, 1994, 108 Stat. 3072.)
+(e)
+
+Other Sources of Funds for Construction and Improvements.—Revenues received by the Secretary of Defense from the following sources or activities of commissary store facilities shall be available for the purposes set forth in subsections (b), (c), and (d):
+
+&emsp;(1) Sale of recyclable materials.
+
+&emsp;(2) Sale of excess and surplus property.
+
+&emsp;(3) License fees.
+
+&emsp;(4) Royalties.
+
+&emsp;(5) Fees paid by sources of products in order to obtain favorable display of the products for resale, known as business related management fees.
+
+(Added Pub. L. 93–552, title VI, §611, Dec. 27, 1974, 88 Stat. 1765; amended Pub. L. 95–82, title VI, §614, Aug. 1, 1977, 91 Stat. 380; Pub. L. 97–321, title VIII, §804, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 103–337, div. B, title XXVIII, §2851, Oct. 5, 1994, 108 Stat. 3072; Pub. L. 105–85, div. A, title III, §374, Nov. 18, 1997, 111 Stat. 1707.)
+
+#### Amendments
+
+1997—Subsecs. (a) to (d). Pub. L. 105–85, §374(b), inserted subsec. headings.
+
+Subsec. (e). Pub. L. 105–85, §374(a), added subsec. (e).
 
 1994—Subsec. (c). Pub. L. 103–337, §2851(b), inserted “or (d)” after “subsection (b)” in two places.
 

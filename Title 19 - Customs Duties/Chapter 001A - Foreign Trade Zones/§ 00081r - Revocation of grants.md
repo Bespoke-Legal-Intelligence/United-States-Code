@@ -6,7 +6,7 @@ In the event of repeated willful violations of any of the provisions of this cha
 
 #### (b) Attendance of witnesses and production of evidence
 
-In the conduct of any proceeding under this section for the revocation of a grant the Board may compel the attendance of witnesses and the giving of testimony and the production of documentary evidence, and for such purpose may invoke the aid of the district courts of the United States.
+In the conduct of any proceeding under this section for the revocation of a grant the Boardmay compel the attendance of witnesses and the giving of testimony and the production of documentary evidence, and for such purpose may invoke the aid of the district courts of the United States.
 
 #### (c) Nature of order of revocation; appeal
 
@@ -16,7 +16,7 @@ An order under the provisions of this section revoking the grant issued by the B
 
 #### Amendments
 
-1958—Subsec. (c). Pub. L. 85–791 substituted “thereupon file in the court” for “forthwith prepare, certify,and file in the court a full and accurate transcript of” and “as provided in section 2112 of title 28” for “the charges, the evidence, and the order revoking the grant” in third sentence.
+1958—Subsec. (c). Pub. L. 85–791 substituted “thereupon file in the court” for “forthwith prepare, certify, and file in the court a full and accurate transcript of” and “as provided in section 2112 of title 28” for “the charges, the evidence, and the order revoking the grant” in third sentence.
 
 #### Change of Name
 

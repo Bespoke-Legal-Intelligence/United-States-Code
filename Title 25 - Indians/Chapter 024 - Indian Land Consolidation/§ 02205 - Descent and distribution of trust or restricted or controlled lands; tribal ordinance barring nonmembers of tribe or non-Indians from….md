@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, any Indian tribe, subject to approva
 
 &emsp;(1) if an Indian dies intestate, the surviving non-Indian or nonmember spouse and/or children may elect to receive a life estate in as much of the trust or restricted lands as such person or persons would have been entitled to take in the absence of such restriction on eligibility for inheritance and the remainder shall vest in the Indians or tribal members who would have been heirs in the absence of a qualified person taking a life estate;
 
-&emsp;(2) if an intestate Indian descendent has no heir to whom interests in trust or restrictedlands may pass, such interests shall escheat to the tribe, subject to any non-Indian or nonmember spouse and/or children's rights as described in paragraph (1) of this section;
+&emsp;(2) if an intestate Indian descendent has no heir to whom interests in trust or restricted lands may pass, such interests shall escheat to the tribe, subject to any non-Indian or nonmember spouse and/or children's rights as described in paragraph (1) of this section;
 
 &emsp;(3) if an Indian decedent has devised interests in trust or restricted lands to persons who are ineligible for such an inheritance by reason of a tribal ordinance enacted pursuant to this section, the devise shall be voided only if, while the estate is pending before the Secretary for probate, the tribe acquires such interests by paying to the Secretary, on behalf of the devisees, the fair market value of such interests as determined by the Secretary as of the date of the decedent's death: <i>Provided</i>, That any non-Indian or nonmember spouse and/or children of such decedent who have been devised such interests may retain, at their option, a life estate in such interests.
 

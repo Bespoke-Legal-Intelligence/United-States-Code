@@ -16,7 +16,7 @@
 
 &emsp;(3) for future fiscal years, information on estimated expenditures of balances carried over from the fiscal year for which the budget is submitted.
 
-(b) Before July 16 of each year, the President shall submit to Congress a statement of changes in budget authority requested, estimated budget outlays, and estimated receipts for the fiscalyear for which the budget is submitted (including prior changes proposed for the executive branch of the Government) that the President decides are necessary and appropriate based on current information. The statement shall include the effect of those changes on the information submitted under section 1105(a)(1)–(14) and (b) of this title and shall include supporting information as practicable. The statement submitted before July 16 may be included in the information submitted under subsection (a)(1) of this section.
+(b) Before July 16 of each year, the President shall submit to Congress a statement of changes in budget authority requested, estimated budget outlays, and estimated receipts for the fiscal year for which the budget is submitted (including prior changes proposed for the executive branch of the Government) that the Presidentdecides are necessary and appropriate based on current information. The statement shall include the effect of those changes on the information submitted under section 1105(a)(1)–(14) and (b) of this title and shall include supporting information as practicable. The statement submitted before July 16 may be included in the information submitted under subsection (a)(1) of this section.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 911; Pub. L. 99–177, title II, §242, Dec. 12, 1985, 99 Stat. 1063.)
 

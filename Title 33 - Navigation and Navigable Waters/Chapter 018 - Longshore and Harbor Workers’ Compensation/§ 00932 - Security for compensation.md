@@ -8,7 +8,7 @@
 
 (b) In granting authorization to any carrier to insure payment of compensation under this chapter the Secretary may take into consideration the recommendation of any State authority having supervision over carriers or over workmen's compensation, and may authorize any carrier to insure the payment of compensation under this chapter in a limited territory. Any marine protection and indemnity mutual insurance corporation or association, authorized to write insurance against liability for loss or damage from personal injury and death, and for other losses and damages, incidental to or in respect of the ownership, operation, or chartering of vessels on a mutual assessment plan, shall be deemed a qualified carrier to insure compensation under this chapter. The Secretary may suspend or revoke any such authorization for good cause shown after a hearing at which the carrier shall be entitled to be heard in person or by counsel and to present evidence. No suspension or revocation shall affect the liability of any carrier already incurred.
 
-(Mar. 4, 1927, ch. 509, §32, 44 Stat. 1439; Sept. 28, 1984, Pub. L. 98–426, §§20, 27(a)(2), 98 Stat. 1652, 1654.)
+(Mar. 4, 1927, ch. 509, §32, 44 Stat. 1439; Pub. L. 98–426, §§20, 27(a)(2), Sept. 28, 1984, 98 Stat. 1652, 1654.)
 
 #### Amendments
 

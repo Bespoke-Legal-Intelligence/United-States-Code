@@ -56,7 +56,7 @@ As private industry reasonably demonstrates its capability under subsection (a) 
 
 &emsp;The Secretary may enter into a contract for the maintenance and crewing of any Federal hopper dredge retained in a ready reserve status. The capital costs (including depreciation costs) of any dredge retained in such status shall be paid for out of funds made available from the Harbor Maintenance Trust Fund and shall not be charged against the Corps of Engineers’ Revolving Fund Account or any individual project cost unless the dredge is specifically used in connection with that project.
 
-(Aug. 11, 1888, ch. 860, §3, 25 Stat. 423; July 25, 1912, ch. 253, §1, 37 Stat. 222; Mar. 2, 1919, ch. 95, §3, 40 Stat. 1287; Apr. 26, 1978, Pub. L. 95–269, §1, 92 Stat. 218; Oct. 12, 1996, Pub. L. 104–303, title II, §237, 110 Stat. 3705.)
+(Aug. 11, 1888, ch. 860, §3, 25 Stat. 423; July 25, 1912, ch. 253, §1, 37 Stat. 222; Mar. 2, 1919, ch. 95, §3, 40 Stat. 1287; Pub. L. 95–269, §1, Apr. 26, 1978, 92 Stat. 218; Pub. L. 104–303, title II, §237, Oct. 12, 1996, 110 Stat. 3705.)
 
 #### References in Text
 

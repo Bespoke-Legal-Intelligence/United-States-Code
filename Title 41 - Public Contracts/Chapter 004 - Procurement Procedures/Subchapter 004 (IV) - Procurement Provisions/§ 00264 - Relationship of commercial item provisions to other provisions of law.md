@@ -8,7 +8,7 @@ Unless otherwise specifically provided, nothing in this section, section 264a of
 
 No contract for the procurement of a commercial item entered into by the head of an executive agency shall be subject to any law properly listed in the Federal Acquisition Regulation (pursuant to section 430 of this title).
 
-(June 30, 1949, ch. 288, title III, §314, as added Oct. 13, 1994, Pub. L. 103–355, title VIII, §8201, 108 Stat. 3394.)
+(June 30, 1949, ch. 288, title III, §314, as added Pub. L. 103–355, title VIII, §8201, Oct. 13, 1994, 108 Stat. 3394.)
 
 #### Effective Date
 
@@ -32,7 +32,7 @@ Contract Clauses.—(1) The regulations prescribed under subsection (a) shall co
 
 “(2) Such regulations shall provide that a prime contractor shall not be required by the Federal Government to apply to any of its divisions, subsidiaries, affiliates, subcontractors, or suppliers that are furnishing commercial items any contract clause except those—
 
-&emsp;“(A) that are required to implement provisions of law or executive orders applicable to subcontractorsfurnishing commercial items or commercial components, as the case may be; or
+&emsp;“(A) that are required to implement provisions of law or executive orders applicable to subcontractors furnishing commercial items or commercial components, as the case may be; or
 
 &emsp;“(B) that are determined to be consistent with standard commercial practice.
 

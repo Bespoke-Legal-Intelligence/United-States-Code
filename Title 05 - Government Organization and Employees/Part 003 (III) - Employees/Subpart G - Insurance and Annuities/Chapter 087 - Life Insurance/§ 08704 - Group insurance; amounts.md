@@ -115,7 +115,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 | 28,000&nbsp;&nbsp; | 29,000&nbsp;&nbsp; | 31,000&nbsp;&nbsp; | 31,000&nbsp;&nbsp; |
 | 29,000&nbsp;&nbsp; | &nbsp; | 32,000&nbsp;&nbsp; | 32,000&nbsp;&nbsp; |
 
-Subsec. (b). Pub. L. 96–427, §2(c), inserted provision that an employee eligible for insurance is entitled to beinsured for group accidental death and dismemberment insurance in accordance with this subsection and substituted reference to employee's basic insurance amount for reference to the amount shown in the schedule in subsec. (a) of this section in four places.
+Subsec. (b). Pub. L. 96–427, §2(c), inserted provision that an employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance with this subsection and substituted reference to employee's basic insurance amount for reference to the amount shown in the schedule in subsec. (a) of this section in four places.
 
 Subsec. (c). Pub. L. 96–427, §2(d), expanded definition of “annual pay” to include premium pay under section 5545(c)(2) of this title with respect to a law enforcement officer as defined in section 8331(20) of this title.
 
@@ -167,7 +167,7 @@ Section 220(b) of Pub. L. 90–206 provided that: “For the purposes of determi
 
 &emsp;“(1) all changes in rates of pay which result from the enactment of this title \[see Short Title Note under section 5332 of this title\] except Postal Field Service Schedule II, Rural Carrier Schedule II, and sections 207, 212, 213(d) and (e), 215, 219, and 225) shall be held and considered to become effective as of the date of such enactment \[Dec. 16, 1967\]; and
 
-&emsp;“(2) all changes in rates of pay which result from the enactment of section 212 of this title \[enacting provisions set out as a note under section 5303 of this title\] and which take effect retroactively from the date on which the adjustments thereof are actually ordered under such section, shall be held and considered to become effective on the date on which such adjustments are actually ordered.”
+&emsp;“(2) all changes in rates of pay which result from the enactment of section 212 of this title \[enacting provisions set out as a note under section 5303 of thistitle\] and which take effect retroactively from the date on which the adjustments thereof are actually ordered under such section, shall be held and considered to become effective on the date on which such adjustments are actually ordered.”
 
 \[Section 220(b) of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a) (1) of Pub. L. 90–206, set out as an Effective Date note under section 3110 of this title.\]
 

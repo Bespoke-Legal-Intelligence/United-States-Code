@@ -10,7 +10,7 @@ In any contract made and entered into by any executive department, independent e
 
 (d) That no part of such contract will be performed nor will any of the materials, supplies, articles, or equipment to be manufactured or furnished under said contract be manufactured or fabricated in any plants, factories, buildings, or surroundings or under working conditions which are unsanitary or hazardous or dangerous to the health and safety of employees engaged in the performance of said contract. Compliance with the safety, sanitary, and factory inspection laws of the State in which the work or part thereof is to be performed shall be prima-facie evidence of compliance with this subsection.
 
-(June 30, 1936, ch. 881, §1, 49 Stat. 2036; May 13, 1942, ch. 306, 56 Stat. 277; Pub. L. 90–351, title I, §819(b), formerly §827(b), as added Dec. 27, 1979, Pub. L. 96–157, §2, 93 Stat. 1215; renumbered Oct. 12, 1984, Pub. L. 98–473, title II, §609B(f), 98 Stat. 2093; Nov. 8, 1985, Pub. L. 99–145, title XII, §1241(b), 99 Stat. 734; Oct. 13, 1994, Pub. L. 103–355, title VII, §7201(1), 108 Stat. 3378.)
+(June 30, 1936, ch. 881, §1, 49 Stat. 2036; May 13, 1942, ch. 306, 56 Stat. 277; Pub. L. 90–351, title I, §819(b), formerly §827(b), as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1215; renumbered Pub. L. 98–473, title II, §609B(f), Oct. 12, 1984, 98 Stat. 2093; Pub. L. 99–145, title XII, §1241(b), Nov. 8, 1985, 99 Stat. 734; Pub. L. 103–355, title VII, §7201(1), Oct. 13, 1994, 108 Stat. 3378.)
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Section 14, formerly section 12, of act June 30, 1936, as added by Pub. L. 103�
 
 #### Exemptions to Federal Restrictions on Marketability of Prison Made Goods
 
-Provisions of this section creating exemptions to Federal regulations on marketability of prison made goods are not applicable unless representatives of local union central bodies or similar labor union organizations have been consulted prior to the initiation of anyproject qualifying of any exemption created by this section and such paid inmate employment will not result in the displacement of employed workers, or be applied in skills, crafts, or trades in which there is a surplus of available gainful labor in the locality, or impair existing contracts for services, see section 819(c) of Pub. L. 90–351, set out as a note under section 1761 of Title 18, Crimes and Criminal Procedure.
+Provisions of this section creating exemptions to Federal regulations on marketability of prison madegoods are not applicable unless representatives of local union central bodies or similar labor union organizations have been consulted prior to the initiation of any project qualifying of any exemption created by this section and such paid inmate employment will not result in the displacement of employed workers, or be applied in skills, crafts, or trades in which there is a surplus of available gainful labor in the locality, or impair existing contracts for services, see section 819(c) of Pub. L. 90–351, set out as a note under section 1761 of Title 18, Crimes and Criminal Procedure.
 
 #### Exceptions and Exemptions
 

@@ -12,7 +12,7 @@ There are excepted from the transfer made by subsection (a) hereof—
 
 &emsp;(ii) all submerged lands adjacent to property owned by the United States above the line of mean high tide;
 
-&emsp;(iii) all submerged lands adjacent to property above the line of mean high tide acquired by the United States by eminent domain proceedings, purchase, exchange, or gift, after October 5, 1974, as required for completion of the Department of the Navy Land AcquisitionProject relative to the construction of the Ammunition Pier authorized by the Military Construction Authorization Act, 1971 (84 Stat. 1204), as amended by section 201 of the Military Construction Act, 1973 (86 Stat. 1135);
+&emsp;(iii) all submerged lands adjacent to property above the line of mean high tide acquired by the United States by eminent domain proceedings, purchase, exchange, or gift, after October 5, 1974, as required for completion of the Department of the Navy Land Acquisition Project relative to the construction of the Ammunition Pier authorized by the Military Construction Authorization Act, 1971 (84 Stat. 1204), as amended by section 201 of the Military Construction Act, 1973 (86 Stat. 1135);
 
 &emsp;(iv) all submerged lands filled in, built up, or otherwise reclaimed by the United States, before October 5, 1974, for its own use;
 
@@ -30,7 +30,7 @@ There are excepted from the transfer made by subsection (a) hereof—
 
 &emsp;(xi) all submerged lands within the Buck Island Reef National Monument as described in Presidential Proclamation 3448 dated December 28, 1961.
 
-> Upon request of the Governor of Guam, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any of the lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
+> Upon request of the Governor of Guam, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any ofthe lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
 
 #### (c) Submittal to Congressional committees of proposals for conveyance of retained lands or rights
 

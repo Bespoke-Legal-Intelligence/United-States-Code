@@ -34,11 +34,11 @@ Subsec. (d). Pub. L. 101–649, §407(b)(1)(B), substituted “within a State or
 
 1958—Subsec. (b). Pub. L. 85–697 inserted provision relating to persons performing religious duties.
 
-#### Requirements for Citizenship for Staff of United States Army Russian Institute
+#### Requirements for Citizenship for Staff of George C. Marshall European Center for Security Studies
 
-Pub. L. 101–193, title V, §506, Nov. 30, 1989, 103 Stat. 1709, as amended by Pub. L. 104–208, div. C, title VI, §671(g)(1), Sept. 30, 1996, 110 Stat. 3009–724, provided that:
+Pub. L. 101–193, title V, §506, Nov. 30, 1989, 103 Stat. 1709, as amended by Pub. L. 104–208, div. C, title VI, §671(g)(1), Sept. 30, 1996, 110 Stat. 3009–724; Pub. L. 105–85, div. A, title IX, §923, Nov. 18, 1997, 111 Stat. 1863, provided that:
 
-“(a) For purposes of section 319(c) of the Immigration and Nationality Act (8 U.S.C. 1430(c)), the United States Army Russian Institute, located in Garmisch, Federal Republic of Germany, shall be considered to be an organization described in clause (1) of such section.
+“(a) For purposes of section 319(c) of the Immigration and Nationality Act (8 U.S.C. 1430(c)), the George C. Marshall European Center for Security Studies, located in Garmisch, Federal Republic of Germany, shall be considered to be an organization described in clause (1) of such section.
 
 “(b) Subsection (a) shall apply with respect to periods of employment before, on, or after the date of the enactment of this Act \[Nov. 30, 1989\].
 

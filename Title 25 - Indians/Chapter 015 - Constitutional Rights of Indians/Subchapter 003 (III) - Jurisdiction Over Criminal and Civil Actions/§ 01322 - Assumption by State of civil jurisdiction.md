@@ -16,5 +16,5 @@ Any tribal ordinance or custom heretofore or hereafter adopted by an Indian trib
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 736, 1300b–15, 1300g–4 of this title.
+This section is referred to in sections 736, 1300b–15, 1300g–4 of this title; title 42 section 654.
 

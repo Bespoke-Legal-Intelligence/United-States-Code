@@ -40,5 +40,5 @@ Section 6323(f) of the Internal Revenue Code of 1986, referred to in subsec. (a)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3102, 3105 of this title; title 12 section 3758.
+This section is referred to in sections 3102, 3105 of this title; title 8 section 1183a; title 12 section 3758; title 18 section 3613.
 

@@ -24,7 +24,7 @@ The Corporation, in consultation with the Secretary of Education, is authorized 
 
 &emsp;(4) facilitating the integration of community service carried out under the program into academic curricula, including integration of clinical programs into the curriculum for students in professional schools, so that students can obtain credit for their community service projects;
 
-&emsp;(5) supplementing the funds available to carry out work-study programs under part C of title IV of the Higher Education Act of 1965\(42 U.S.C. 2751 et seq.) to support service-learning and community service through the community service program;
+&emsp;(5) supplementing the funds available to carry out work-study programs under part C of title IV of the Higher Education Act of 1965 (42 U.S.C. 2751 et seq.) to support service-learning and community service through the community service program;
 
 &emsp;(6) strengthening the service infrastructure within institutions of higher education in the United States through the program; and
 

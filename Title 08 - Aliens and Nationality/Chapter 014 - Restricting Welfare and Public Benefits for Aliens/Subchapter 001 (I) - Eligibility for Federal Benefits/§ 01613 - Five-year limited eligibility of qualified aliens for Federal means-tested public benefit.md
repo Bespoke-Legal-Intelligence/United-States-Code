@@ -14,17 +14,21 @@ The limitation under subsection (a) of this section shall not apply to the follo
 
 &emsp;(B) An alien who is granted asylum under section 208 of such Act \[8 U.S.C. 1158\].
 
-&emsp;(C) An alien whose deportation is being withheld under section 243(h) <sup>1</sup> of such Act \[8 U.S.C. 1253\].
+&emsp;(C) An alien whose deportation is being withheld under section 243(h) of such Act \[8 U.S.C. 1253\] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act \[8 U.S.C. 1231(b)(3)\] (as amended by section 305(a) of division C of Public Law 104–208).
+
+&emsp;(D) An alien who is a Cuban and Haitian entrant as defined in section 501(e) of the Refugee Education Assistance Act of 1980.
+
+&emsp;(E) An alien admitted to the United States as an Amerasian immigrant as described in section 1612(a)(2)(A)(i)(V) of this title.
 
 #### (2) Veteran and active duty exception
 
 &emsp;An alien who is lawfully residing in any State and is—
 
-&emsp;&emsp;(A) a veteran (as defined in section 101 of title 38) with a discharge characterized as an honorable discharge and not on account of alienage,
+&emsp;&emsp;(A) a veteran (as defined in section 101, 1101, or 1301, or as described in section 107 of title 38) with a discharge characterized as an honorable discharge and not on account of alienage and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38,
 
 &emsp;&emsp;(B) on active duty (other than active duty for training) in the Armed Forces of the United States, or
 
-&emsp;&emsp;(C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B).
+&emsp;&emsp;(C) the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) <sup>1</sup> who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
 
 #### (c) Application of term Federal means-tested public benefit
 
@@ -54,15 +58,17 @@ The limitation under subsection (a) of this section shall not apply to the follo
 
 &emsp;(K) Benefits under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\].
 
-#### (d) Special rule for refugee and entrant assistance for Cuban and Haitian entrants
+#### (d) SSI and medicaid benefits for certain Indians
 
-The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.
+Notwithstanding any other provision of law, the limitations under section 1611(a) of this title and subsection (a) of this section shall not apply to an individual described in section 1612(a)(2)(G) of this title, but only with respect to the programs specified in subsections (a)(3)(A) and (b)(3)(C) of section 1612 of this title.
 
-(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265.)
+(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638.)
 
 #### References in Text
 
-Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). Provisions similar to those contained in former subsec. (h) of section 1253 are now contained in section 1231(b)(3) of this title.
+Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+
+Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(1)(D), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
 The National School Lunch Act, referred to in subsec. (c)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
@@ -80,13 +86,33 @@ The Head Start Act, referred to in subsec. (c)(2)(J), is subchapter B (§§635�
 
 The Job Training Partnership Act, referred to in subsec. (c)(2)(K), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (d), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Title IV of the Act is classified principally to subchapter IV (§1521 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+#### Amendments
 
-Section 501 of the Refugee Education Assistance Act of 1980, referred to in subsec. (d), is section 501 of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
+1997—Subsec. (b)(1)(C). Pub. L. 105–33, §5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+
+Subsec. (b)(1)(D). Pub. L. 105–33, §5302(c)(1)(A), added subpar. (D).
+
+Subsec. (b)(1)(E). Pub. L. 105–33, §5306(c), added subpar. (E).
+
+Subsec. (b)(2)(A). Pub. L. 105–33, §5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
+
+Pub. L. 105–33, §5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
+
+Subsec. (b)(2)(C). Pub. L. 105–33, §5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
+
+Subsec. (d). Pub. L. 105–33, §5303(c), added subsec. (d).
+
+Pub. L. 105–33, §5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
+
+#### Effective Date of 1997 Amendment
+
+Amendment by sections 5302(c)(1), 5303(c), and 5306(c) of Pub. L. 105–33 effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
+
+Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1183a, 1612, 1614, 1622, 1631, 1645 of this title.
+This section is referred to in sections 1183a, 1612, 1614, 1622, 1631, 1645 of this title; title 7 section 2016.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A) or (B)”.</i>
 

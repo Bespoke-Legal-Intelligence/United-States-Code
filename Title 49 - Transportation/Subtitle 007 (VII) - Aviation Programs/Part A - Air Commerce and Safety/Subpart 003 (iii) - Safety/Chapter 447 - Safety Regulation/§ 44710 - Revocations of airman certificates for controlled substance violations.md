@@ -40,7 +40,7 @@ Appeals.—(1) An individual whose certificate is revoked by the Administrator u
 
 &emsp;(B) the Board shall make a final disposition of the appeal not later than 60 days after the Administrator so advises the Board.
 
-(3) An individual substantially affected by an order of the Board under this subsection, or the Administrator when the Administrator decides that an order of the Board will have a significant adverse effect on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+(3) An individual substantially affected by an order of the Board under this subsection, or theAdministrator when the Administrator decides that an order of the Board will have a significant adverse effect on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
 (e)
 

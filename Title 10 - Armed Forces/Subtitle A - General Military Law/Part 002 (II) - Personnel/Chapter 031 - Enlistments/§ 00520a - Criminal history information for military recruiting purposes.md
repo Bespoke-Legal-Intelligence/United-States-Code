@@ -16,7 +16,7 @@
 
 (c) Criminal history information received under this section shall be confidential, and a person who has had access to any information received under this section may not disclose such information except to facilitate military recruiting.
 
-(d) The Secretaries concerned shall prescribe regulations, which shall be as uniform as practicable, to carry out this section. Regulationsprescribed under this section shall be submitted to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
+(d) The Secretaries concerned shall prescribe regulations, which shall be as uniform as practicable, to carry out this section. Regulations prescribed under this section shall be submitted to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
 
 (Added Pub. L. 97–252, title XI, §1114(c)(1), Sept. 8, 1982, 96 Stat. 749; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502.)
 

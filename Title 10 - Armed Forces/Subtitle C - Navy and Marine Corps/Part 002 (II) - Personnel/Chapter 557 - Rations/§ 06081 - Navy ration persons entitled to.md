@@ -1,12 +1,12 @@
 ### §6081. Navy ration: persons entitled to
 
-(a) Except when entitled to a basic allowance for subsistence or to a per diem in place of subsistence, each enlisted member of the naval service is entitled to a Navy ration for each day that he is on active duty, including each day that he is on leave.
+(a) Each enlisted member of the naval service is entitled to a Navy ration for each day that he is on active duty, including each day that he is on leave.
 
 (b) Each midshipman is entitled to a Navy ration for each day that he is on active duty, including each day that he is on leave.
 
 (c) The Secretary of the Navy may prescribe regulations stating the conditions under which the ration shall be allowed under subsection (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 379; Sept. 7, 1962, Pub. L. 87–649, §5(c), 76 Stat. 494.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 379; Sept. 7, 1962, Pub. L. 87–649, §5(c), 76 Stat. 494; Nov. 18, 1997, Pub. L. 105–85, div. A, title VI, §602(b)(2), 111 Stat. 1772.)
 
 Historical and Revision Notes
 
@@ -38,9 +38,15 @@ In subsection (c) the words “prescribed by law” and “in accordance with la
 
 #### Amendments
 
+1997—Subsec. (a). Pub. L. 105–85 substituted “Each enlisted member” for “Except when entitled to a basic allowance for subsistence or to a per diem in place of subsistence, each enlisted member”.
+
 1962—Subsec. (b). Pub. L. 87–649 struck out provisions which permitted payment of the commuted value of the ration in money. See section 422(b) of Title 37, Pay and Allowances of the Uniformed Services.
 
 Subsec. (c). Pub. L. 87–649 struck out provisions which permitted the Secretary to prescribe regulations for the allowance of the commuted value of the ration. See section 422(b) of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 602(g) of Pub. L. 105–85, set out as a note under section 402 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1962 Amendment
 

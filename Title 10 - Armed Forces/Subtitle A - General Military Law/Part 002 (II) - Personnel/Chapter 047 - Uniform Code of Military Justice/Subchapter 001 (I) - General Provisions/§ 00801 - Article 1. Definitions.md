@@ -18,7 +18,7 @@ In this chapter:
 
 &emsp;(8) The term “military” refers to any or all of the armed forces.
 
-&emsp;(9) The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person whohas an interest other than an official interest in the prosecution of the accused.
+&emsp;(9) The term “accuser” means a person who signs and swears to charges, any person who directs that charges nominally be signed and sworn to by another, and any other person who has an interest other than an official interest in the prosecution of the accused.
 
 &emsp;(10) The term “military judge” means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26).
 
@@ -64,7 +64,7 @@ The words “In this chapter” are substituted for the introductory clause.
 
 In the introductory clause and throughout the revised chapter the word “chapter” is substituted for the word “code”.
 
-Clauses (1), (2), and (5) of 50:551 are omitted as respectively covered by the definitions in clauses (4), (6), and (14) of section 101 of this title. The words “commissioned officer” are substituted for the word “officer” for clarity throughout this chapter, since the latter term was defined in the limited sense of commissioned officer in clause (5) of 50:551, and is now covered by section 101(14) of this title.
+Clauses (1), (2), and (5) of 50:551 are omitted as respectively covered by the definitions in clauses (4), (6), and (14) of section 101 of this title. The words “commissioned officer” are substituted for the word “officer” for clarity throughout this chapter, since the latterterm was defined in the limited sense of commissioned officer in clause (5) of 50:551, and is now covered by section 101(14) of this title.
 
 In clauses (1), (4)–(7), and (9)–(12) of the revised section, the word “means” is substituted for the words “shall be construed to refer to” and “shall be construed to refer \* \* \* to”.
 
@@ -144,7 +144,7 @@ Section 1(a) of Pub. L. 98–209 provided that: “This Act \[enacting sections 
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–81, §1(a), Nov. 20, 1981, 95 Stat. 1085, provided that: “This Act \[enacting sections 706, 707, and 876a of this title, amending sections 701, 813, 832, 838, 867, and 869 of this title, and enacting provisions set out as a note under section 706 of this title\] may be cited as the ‘Military Justice Amendments of 1981’.”
+Pub. L. 97–81, §1(a), Nov. 20, 1981, 95 Stat. 1085, provided that: “This Act \[enacting sections 706, 707, and876a of this title, amending sections 701, 813, 832, 838, 867, and 869 of this title, and enacting provisions set out as a note under section 706 of this title\] may be cited as the ‘Military Justice Amendments of 1981’.”
 
 #### Short Title of 1968 Amendment
 

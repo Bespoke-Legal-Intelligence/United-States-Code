@@ -32,7 +32,7 @@ Cooperative Opportunities Document.—(1)(A) In order to ensure that opportuniti
 
 &emsp;(A) A statement indicating whether or not a project similar to the one under consideration by the Department of Defense is in development or production by one or more of the major allies of the United States or NATO organizations.
 
-&emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more major allies of the United States or NATO organizations, an assessment by the Under Secretary of Defense for Acquisition and Technology as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the projectof the United States under consideration by the Department of Defense.
+&emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more major allies of the United States or NATO organizations, an assessment by the Under Secretary of Defense for Acquisition and Technology as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
 
 &emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more major allies of the United States or NATO organizations.
 
@@ -96,7 +96,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term “NATO organization” means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L.101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504.)
+(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX,§904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504.)
 
 #### Prior Provisions
 
@@ -126,5 +126,5 @@ Section 843(c) of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, �
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2349, 2540 of this title.
+This section is referred to in sections 2349, 2540 of this title; title 22 section 2349aa–10.
 

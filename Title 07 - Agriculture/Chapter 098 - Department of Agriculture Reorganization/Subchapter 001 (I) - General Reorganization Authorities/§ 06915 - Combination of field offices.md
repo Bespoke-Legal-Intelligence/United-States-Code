@@ -6,7 +6,7 @@ Where practicable and to the extent consistent with efficient, effective, and im
 
 #### (b) Joint use of resources and offices required
 
-When two or more agencies of the Department share a common field office, the Secretary shallrequire the agencies to jointly use office space, equipment, office supplies, administrative personnel, and clerical personnel associated with that field office.
+When two or more agencies of the Department share a common field office, the Secretary shall require the agencies to jointly use office space, equipment, office supplies, administrative personnel, and clerical personnel associated with that field office.
 
 (Pub. L. 103–354, title II, §215, Oct. 13, 1994, 108 Stat. 3211.)
 

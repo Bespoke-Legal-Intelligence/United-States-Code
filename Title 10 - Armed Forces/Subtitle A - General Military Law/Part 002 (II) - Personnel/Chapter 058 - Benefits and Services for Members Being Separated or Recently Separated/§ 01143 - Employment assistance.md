@@ -2,7 +2,7 @@
 
 (a)
 
-Employment Skills Verification.—The Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
+Employment Skills Verification.—The Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skillsand experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
 
 (b)
 
@@ -14,15 +14,13 @@ Information to Civilian Entities.—For the purpose of assisting members covered
 
 (d)
 
-Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 806(a)(2) of the Military Family Act of 1985,<sup>1</sup> except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Transportation shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
+Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Transportation shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767.)
-
-#### References in Text
-
-Section 806(a)(2) of the Military Family Act of 1985 \[Pub. L. 99–145\], referred to in subsec. (d), was set out in a note under section 113 of this title, prior to repeal by Pub. L. 104–106, div. A, title V, §568(e)(1), Feb. 10, 1996, 110 Stat. 336. See section 1784(a)(2) of this title.
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901.)
 
 #### Amendments
+
+1997—Subsec. (d). Pub. L. 105–85 substituted “section 1784(a)(2) of this title” for “section 806(a)(2) of the Military Family Act of 1985”.
 
 1994—Pub. L. 103–337, §542(a)(2)(A), struck out “: Department of Defense” after “assistance” in section catchline.
 
@@ -60,7 +58,7 @@ Grant Eligibility Criteria.—An organization is eligible to receive a grant fro
 
 &emsp;“(5) demonstrates actual experience in providing training for veterans under an agreement referred to in paragraph (2);
 
-&emsp;“(6) agrees to make, along with all subgrantees, a substantial in-kind contribution (as determined bythe Secretary of Defense) from non-Federal sources to the demonstration program under this section; and
+&emsp;“(6) agrees to make, along with all subgrantees, a substantial in-kind contribution (as determined by the Secretary of Defense) from non-Federal sources to the demonstration program under this section; and
 
 &emsp;“(7) gives its assurances, to the satisfaction of the Secretary, that full time, permanent jobs will be available for individuals successfully completing the training program, with a special emphasis on jobs with employers in construction and hazardous waste remediation on Department of Defense facilities.
 
@@ -82,7 +80,7 @@ Preference.—In carrying out the demonstration program under this section, the 
 
 “(e)
 
-Hazardous Waste Operations Training Goal.—It is the sense of Congress that at least 20 percent of the total number of veterans completing training under the demonstration program under this section should complete the training required—
+Hazardous Waste Operations Training Goal.—It is the sense of Congress that at least 20 percent ofthe total number of veterans completing training under the demonstration program under this section should complete the training required—
 
 &emsp;“(1) for certification under section 126 of the Superfund Amendments and Reauthorization Act of 1986 \[Pub. L. 99–499\] (29 U.S.C. 655 note); and
 
@@ -174,7 +172,7 @@ Use of Assistance.—A member of the Armed Forces who is selected to participate
 
 “(f)
 
-Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of the costs to provide services to a participant, the Secretary shall reimburse the upward bound project submitting the request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.). Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
+Reimbursement.—Upon submission to the Secretary of Defense of a request for reimbursement of the costs to provide services to a participant, the Secretary shall reimburse the upward bound project submittingthe request for the actual cost of providing services (including a stipend) to the member, not to exceed the amount provided under subsection (d)(1). Funds provided under this subsection shall be in addition to the funds otherwise provided to the project under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.). Not more than 10 percent of the funds provided under this subsection may be used for administrative costs.
 
 “(g)
 
@@ -240,7 +238,7 @@ State Agencies.—(1) The implementing official may enter into contracts or agre
 
 “(c)
 
-Expeditious Implementation.—A requirement in this subtitle to issue regulations shall not be the basisfor a delay in carrying out this program within the time limit established by subsection (a).
+Expeditious Implementation.—A requirement in this subtitle to issue regulations shall not be the basis for a delay in carrying out this program within the time limit established by subsection (a).
 
 #### “SEC. 4485. ELIGIBILITY FOR PROGRAM; PERIOD OF TRAINING.
 
@@ -474,7 +472,7 @@ Rate of Completion.—(1) If the implementing official determines that the rate 
 
 “(a)
 
-Records.—The records and accounts of employers pertaining to eligible persons on behalf of whom assistance has been paid under this subtitle, as well asother records that the implementing official determines to be necessary to ascertain compliance with the requirements established under this subtitle, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
+Records.—The records and accounts of employers pertaining to eligible persons on behalf of whom assistance has been paid under this subtitle, as well as other records that the implementing official determines to be necessary to ascertain compliance with the requirements established under this subtitle, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
 
 “(b)
 
@@ -492,7 +490,7 @@ Department of Labor.—Functions may be administered under subsections (b) and (
 
 “(a)
 
-Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
+Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer onbehalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
 
 “(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of job training of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
 
@@ -552,7 +550,7 @@ In General.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secr
 
 &emsp;“(B) to inform private industry and business concerns (including small business concerns), public agencies and organizations, educational institutions, trade associations, and labor unions about the job training opportunities available under, and the advantages of participating in, the program established by this subtitle.
 
-“(2) The Secretary, in consultation with the Secretary of Labor and the Secretary of Veterans Affairs,shall promote the development of employment and job training opportunities for eligible persons by encouraging potential employers to make programs of job training under this subtitle available for eligible persons, by advising other appropriate Federal departments and agencies of the program established by this subtitle, and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to eligible persons.
+“(2) The Secretary, in consultation with the Secretary of Labor and the Secretary of Veterans Affairs, shall promote the development of employment and job training opportunities for eligible persons by encouraging potential employers to make programs of job training under this subtitle available for eligible persons, by advising other appropriate Federal departments and agencies of the program established by this subtitle, and by advising employers of applicable responsibilities under chapters 41 and 42 of title 38, United States Code, with respect to eligible persons.
 
 “(b)
 
@@ -562,7 +560,7 @@ Coordination.—The Secretary, the Secretary of Veterans Affairs, and the Secret
 
 Agency Resources.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secretary of Labor shall make available such personnel as are necessary to facilitate the effective implementation of this subtitle.
 
-“(2) In carrying out the responsibilities of the Secretary of Labor under this subtitle, the Secretary of Labor shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices, appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. To the extent that the implementing official withholds approval of eligible persons’ applications under this subtitle pursuant to section 4485(b)(2)(B), the Secretary of Labor shall take steps to assist such eligible persons in taking advantage of opportunities that may be available to them under any other program carried out with funds provided by the Secretary of Labor.
+“(2) In carrying out the responsibilities of the Secretary of Labor under this subtitle, the Secretary of Labor shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices, appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. To the extent that the implementing official withholds approval of eligible persons’ applications under this subtitle pursuant to section 4485(b)(2)(B), the Secretary of Labor shall takesteps to assist such eligible persons in taking advantage of opportunities that may be available to them under any other program carried out with funds provided by the Secretary of Labor.
 
 “(d)
 
@@ -613,6 +611,4 @@ Publication in the Federal Register.—If the transfer described in subsection (
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1144 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

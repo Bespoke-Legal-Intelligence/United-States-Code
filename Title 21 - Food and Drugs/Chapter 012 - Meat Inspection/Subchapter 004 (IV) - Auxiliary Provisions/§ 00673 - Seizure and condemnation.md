@@ -32,11 +32,11 @@
 
 The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
 
-(Mar. 4, 1907, ch. 2907, title IV, §403, as added Dec. 15, 1967, Pub. L. 90–201, §16, 81 Stat. 598; amended Dec. 7, 1989, Pub. L. 101–205, §1, 103 Stat. 1829.)
+(Mar. 4, 1907, ch. 2907, title IV, §403, as added Pub. L. 90–201, §16, Dec. 15, 1967, 81 Stat. 598; amended Pub. L. 101–205, §1, Dec. 7, 1989, 103 Stat. 1829.)
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence as par. (2) and inserted “(A) to be distributed in accordance with paragraph (5), or (B)” after “entry of the decree,”, designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).
+1989—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence aspar. (2) and inserted “(A) to be distributed in accordance with paragraph (5), or (B)” after “entry of the decree,”, designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).
 
 #### Federal Rules of Civil Procedure
 

@@ -12,7 +12,7 @@ General.—(1) A person may file a complaint in writing with the Secretary of Tr
 
 (3) The Secretary of Transportation or Administrator may dismiss a complaint without a hearing when the Secretary or Administrator is of the opinion that the complaint does not state facts that warrant an investigation or action.
 
-(4) After notice and an opportunity for a hearing and subject to section 40105(b) of this title,the Secretary of Transportation or Administrator shall issue an order to compel compliance with this part if the Secretary or Administrator finds in an investigation under this subsection that a person is violating this part.
+(4) After notice and an opportunity for a hearing and subject to section 40105(b) of this title, the Secretary of Transportation or Administrator shall issue an order to compel compliance with this part if the Secretary or Administrator finds in an investigation under this subsection that a person is violating this part.
 
 (b)
 

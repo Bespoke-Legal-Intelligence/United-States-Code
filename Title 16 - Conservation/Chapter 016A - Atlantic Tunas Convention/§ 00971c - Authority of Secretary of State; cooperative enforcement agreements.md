@@ -16,7 +16,7 @@ The Secretary of State, in consultation with the Secretary and the Secretary of 
 
 #### Management of Atlantic Yellowfin Tuna
 
-Section 309(b) of Pub. L. 104–43, as amended by Pub. L. 104–297, title IV, §406, Oct. 11, 1996, 110 Stat. 3621, provided that: “Not later than July 1, 1997, the Secretary of Commerce shall implement the recommendations of the International Commission for the Conservation of Atlantic Tunas regarding yellowfin tuna made pursuant to Article VIII of the International Convention for the Conservation of Atlantic Tunas and acted upon favorably by the Secretary of State under section 5(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971c(a)).”
+Section 309(b) of Pub. L. 104–43, as amended by Pub. L. 104–297, title IV, §406, Oct. 11, 1996, 110 Stat. 3621, provided that: “Not later than July 1, 1997, the Secretary of Commerce shall implement the recommendations ofthe International Commission for the Conservation of Atlantic Tunas regarding yellowfin tuna made pursuant to Article VIII of the International Convention for the Conservation of Atlantic Tunas and acted upon favorably by the Secretary of State under section 5(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971c(a)).”
 
 #### Section Referred to in Other Sections
 

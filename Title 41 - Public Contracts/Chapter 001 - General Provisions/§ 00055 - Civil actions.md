@@ -10,7 +10,7 @@
 
 (b) A civil action under this section shall be barred unless the action is commenced within 6 years after the later of (1) the date on which the prohibited conduct establishing the cause of action occurred, and (2) the date on which the United States first knew or should reasonably have known that the prohibited conduct had occurred.
 
-(Mar. 8, 1946, ch. 80, §5, as added Nov. 7, 1986, Pub. L. 99–634, §2(a), 100 Stat. 3524.)
+(Mar. 8, 1946, ch. 80, §5, as added Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3524.)
 
 #### Effective Date
 

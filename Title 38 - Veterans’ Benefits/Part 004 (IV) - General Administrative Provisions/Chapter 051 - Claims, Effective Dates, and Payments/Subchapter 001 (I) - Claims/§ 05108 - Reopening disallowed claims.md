@@ -1,6 +1,6 @@
 ### §5108. Reopening disallowed claims
 
-If new and material evidence is presented or secured with respect to a claim which has beendisallowed, the Secretary shall reopen the claim and review the former disposition of the claim.
+If new and material evidence is presented or secured with respect to a claim which has been disallowed, the Secretary shall reopen the claim and review the former disposition of the claim.
 
 (Added Pub. L. 100–687, div. A, title I, §103(a)(1), Nov. 18, 1988, 102 Stat. 4107, §3008; renumbered §5108, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 

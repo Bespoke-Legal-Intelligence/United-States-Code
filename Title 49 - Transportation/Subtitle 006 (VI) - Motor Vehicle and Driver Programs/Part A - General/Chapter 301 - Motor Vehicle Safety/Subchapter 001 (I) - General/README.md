@@ -1,7 +1,5 @@
 ### SUBCHAPTER I—GENERAL
 
-<i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 104–152 without corresponding amendment of subtitle analysis.</i>
-
 
 ---
 

@@ -1,0 +1,16 @@
+### §1474.<sup>1</sup> General eligibility
+
+In order to be eligible for a grant under section 1473 of this title for any fiscal year, a State shall demonstrate to the Secretary (in its application under section 1478 of this title) that the State has established a State Interagency Coordinating Council which meets the requirements of section 1482 of this title.
+
+(Pub. L. 91–230, title VI, §674, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1147.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, provided that, effective July 1, 1998, this section is repealed.</i>
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1478 of this title.
+
+<i><sup>1</sup></i><i> Another section 1474 of this title is set out in subchapter IV of this chapter preceding this subchapter.</i>
+

@@ -30,7 +30,7 @@ Section 903 of Pub. L. 100–702 provided that:
 
 “(a)
 
-Annual Report by Director of Administrative Office of the United States Courts.—The Director of the Administrative Office of the United States Courts shall include in the annual report of the activities ofthe Administrative Office required under section 604(a)(3) \[28 U.S.C. 604(a)(3)\], statistical information about the implementation of chapter 44, as added by section 901 of this Act.
+Annual Report by Director of Administrative Office of the United States Courts.—The Director of the Administrative Office of the United States Courts shall include in the annual report of the activities of the Administrative Office required under section 604(a)(3) \[28 U.S.C. 604(a)(3)\], statistical information about the implementation of chapter 44, as added by section 901 of this Act.
 
 “(b)
 
@@ -52,7 +52,7 @@ Section 904 of title IX of Pub. L. 100–702 provided that: “Nothing in this t
 
 #### Authorization of Appropriations
 
-Section 905 of Pub. L. 100–702, as amended by Pub. L. 103–192, §1(b), Dec. 14, 1993, 107 Stat. 2292; Pub. L. 103–420, §3(a), Oct. 25, 1994, 108 Stat. 4345, provided that: “There are authorized to be appropriated for each of the fiscal years 1994 through 1997 to the judicial branch such sums as may be necessary to carry out the purposes of chapter 44, as added by section 901 of this Act. Funds appropriated under this section shall be allocated by the Administrative Office of the United States Courts to Federal judicial districts and the Federal Judicial Center. The funds so appropriated are authorized to remain available until expended.”
+Section 905 of Pub. L. 100–702, as amended by Pub. L. 103–192, §1(b), Dec. 14, 1993, 107 Stat. 2292; Pub. L. 103–420, §3(a), Oct. 25, 1994, 108 Stat. 4345; Pub. L. 105–53, §1, Oct. 6, 1997, 111 Stat. 1173, provided that: “There are authorized to be appropriated for each fiscal year to the judicial branch such sums as may be necessary to carry out the purposes of chapter 44, as added by section 901 of this Act. Funds appropriated under this section shall be allocated by the Administrative Office of the United States Courts to Federal judicial districts and the Federal Judicial Center. The funds so appropriated are authorized to remain available until expended.”
 
 #### Section Referred to in Other Sections
 

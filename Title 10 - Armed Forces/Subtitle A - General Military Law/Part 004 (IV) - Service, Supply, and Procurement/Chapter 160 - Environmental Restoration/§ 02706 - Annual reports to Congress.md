@@ -54,6 +54,20 @@ Report on Environmental Compliance Activities.—(1) The Secretary of Defense sh
 
 &emsp;(G) A statement of the funding levels and personnel required for the Department of Defense to comply with applicable environmental requirements for military installations located outside the United States during the fiscal year for which the budget is submitted.
 
+&emsp;(H) A statement of the fines and penalties imposed or assessed against the Department of Defense under Federal, State, or local environmental law during the fiscal year preceding the fiscal year in which the report is submitted, setting forth each Federal environmental statute under which a fine or penalty was imposed or assessed during the fiscal year, and, with respect to each such statute—
+
+&emsp;&emsp;(i) the aggregate amount of fines and penalties imposed or assessed during the fiscal year;
+
+&emsp;&emsp;(ii) the aggregate amount of fines and penalties paid during the fiscal year;
+
+&emsp;&emsp;(iii) the total amount required for environmental projects to be carried out by the Department of Defense in lieu of the payment of fines or penalties; and
+
+&emsp;&emsp;(iv) the number of fines and penalties imposed or assessed during the fiscal year that were—
+
+&emsp;&emsp;&emsp;(I) $100,000 or less; and
+
+&emsp;&emsp;&emsp;(II) more than $100,000.
+
 (c)
 
 Report on Contractor Reimbursement Costs.—(1) The Secretary of Defense shall submit to the Congress each year, not later than 30 days after the date on which the President submits to the Congress the budget for a fiscal year, a report on payments made by the Secretary to defense contractors for the costs of environmental response actions.
@@ -65,6 +79,18 @@ Report on Contractor Reimbursement Costs.—(1) The Secretary of Defense shall s
 &emsp;(B) A statement of the amount and current status of any pending requests by any defense contractor (other than a response action contractor) for payment of the costs of environmental response actions at facilities owned or operated by the defense contractor or at which the defense contractor is liable in whole or in part for the environmental response action.
 
 (d)
+
+Report on Environmental Activities Overseas.—(1) The Secretary of Defense shall submit to Congress each year, not later than 30 days after the date on which the President submits to Congress the budget for a fiscal year, a report on the environmental activities of the Department of Defense overseas.
+
+(2) Each such report shall include a statement of the funding levels during such fiscal year for each of the following categories:
+
+&emsp;(A) Compliance by the Department of Defense with requirements under a treaty, law, contract, or other agreement for environmental restoration or compliance activities.
+
+&emsp;(B) Performance by the Department of Defense of other environmental restoration and compliance activities overseas.
+
+&emsp;(C) Performance by the Department of Defense of any other overseas activities related to the environment, including conferences, meetings, and studies for pilot programs, and travel related to such activities.
+
+(e)
 
 Definitions.—In this section:
 
@@ -84,9 +110,13 @@ Definitions.—In this section:
 
 &emsp;(3) The term “response action contractor” has the meaning given such term in section 119(e)(2) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9619(e)(2)).
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 101–189, div. A, title III, §357(a)(1), (2)(A), Nov. 29, 1989, 103 Stat. 1426, 1427; Pub. L. 101–510, div. A, title III, §§341, 342(a), Nov. 5, 1990, 104 Stat. 1536, 1537; Pub. L. 103–160, div. A, title X, §1001(a)–(d), Nov. 30, 1993, 107 Stat. 1742–1744; Pub. L. 103–337, div. A, title X, §1070(b)(9), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 104–106, div. A, title III, §324(f), Feb. 10, 1996, 110 Stat. 254; Pub. L. 104–201, div. A, title III, §321, Sept. 23, 1996, 110 Stat. 2477.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 101–189, div. A, title III, §357(a)(1), (2)(A), Nov. 29, 1989, 103 Stat. 1426, 1427; Pub. L. 101–510, div. A, title III, §§341, 342(a), Nov. 5, 1990, 104 Stat. 1536, 1537; Pub. L. 103–160, div. A, title X, §1001(a)–(d), Nov. 30, 1993, 107 Stat. 1742–1744; Pub. L. 103–337, div. A, title X, §1070(b)(9), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 104–106, div. A, title III, §324(f), Feb. 10, 1996, 110 Stat. 254; Pub. L. 104–201, div. A, title III, §321, Sept. 23, 1996, 110 Stat. 2477; Pub. L. 105–85, div. A, title III, §§344(a), 345, Nov. 18, 1997, 111 Stat. 1688.)
 
 #### Amendments
+
+1997—Subsec. (b)(2)(H). Pub. L. 105–85, §344(a), added subpar. (H).
+
+Subsecs. (d), (e). Pub. L. 105–85, §345, added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1996—Subsec. (a)(2)(J). Pub. L. 104–106 added subpar. (J).
 
@@ -120,7 +150,7 @@ Pub. L. 101–510, §341, amended subsec. (b) generally. Prior to amendment, sub
 
 Environmental Budget Report.—(1) Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31), the Secretary of Defense shall submit to Congress a report on—
 
-&emsp;“(A) the funding levels required for the Department of Defense to comply with applicable environmentallaws during the fiscal year for which the budget is submitted; and
+&emsp;“(A) the funding levels required for the Department of Defense to comply with applicable environmental laws during the fiscal year for which the budget is submitted; and
 
 &emsp;“(B) the funding levels requested for such purposes in the budget as submitted by the President.
 
@@ -138,13 +168,27 @@ Section 1070(b) of Pub. L. 103–337 provided that the amendment made by that se
 
 Section 357(b) of Pub. L. 101–189 provided that: “The first environmental budget report under subsection (b) of section 2706 of such title \[10 U.S.C. 2706(b)\] (as added by subsection (a)) shall be submitted at the same time the President submits the budget for fiscal year 1992.”
 
-#### Report on Compliance With Annex V to the International Convention for the Prevention of Pollution From Ships, 1973
+#### Report in Fiscal Year 1998
 
-Section 324(c) of Pub. L. 104–201 provided that: “The Secretary of Defense shall include in each report on environmental compliance activities submitted to Congress under section 2706(b) of title 10, United States Code, the following information:
+Section 344(b) of Pub. L. 105–85 provided that: “The statement submitted by the Secretary of Defense under subparagraph (H) of section 2706(b)(2) of title 10, United States Code, as added by subsection (a), in 1998 shall, to the maximum extent practicable, include the information required by that subparagraph for each of fiscal years 1994 through 1997.”
+
+#### Compliance With Annex V to the International Convention for the Prevention of Pollution From Ships, 1973
+
+Section 324(b), (c) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(1), Nov. 18, 1997, 111 Stat. 1904, provided that:
+
+“(b)
+
+Sense of Congress.—(1) It is the sense of Congress that it should be an objective of the Navy to achieve full compliance with Annex V to the Convention as part of the Navy's development of ships that are environmentally sound.
+
+“(2) In this subsection and subsection (c), the terms ‘Convention’ and ‘ship’ have the meanings given such terms in section 2(a) of the Act to Prevent Pollution from Ships (33 U.S.C. 1901(a)).
+
+“(c)
+
+Report on Compliance With Annex V to the Convention.—The Secretary of Defense shall include in each report on environmental compliance activities submitted to Congress under section 2706(b) of title 10, United States Code, the following information:
 
 &emsp;“(1) A list of the ship types, if any, for which the Secretary of the Navy has made the determination referred to in paragraph (2)(C) of section 3(c) of the Act to Prevent Pollution from Ships \[33 U.S.C. 1902(c)(2)(C)\], as amended by subsection (a)(2) of this section.
 
-&emsp;“(2) A list of ship types which the Secretary of the Navy has determined can comply with Regulation 5 of Annex V to the Convention \[probably means International Convention for the Prevention of Pollution from Ships, 1973\].
+&emsp;“(2) A list of ship types which the Secretary of the Navy has determined can comply with Regulation 5 of Annex V to the Convention.
 
 &emsp;“(3) A summary of the progress made by the Navy in implementing the requirements of paragraphs (2) and (3) of such section 3(c), as so amended.
 

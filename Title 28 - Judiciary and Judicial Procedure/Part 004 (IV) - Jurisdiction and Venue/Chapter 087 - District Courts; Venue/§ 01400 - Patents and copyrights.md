@@ -4,7 +4,7 @@
 
 (b) Any civil action for patent infringement may be brought in the judicial district where the defendant resides, or where the defendant has committed acts of infringement and has a regular and established place of business.
 
-(June 25, 1948, ch. 646, 62 Stat. 936; Nov. 19, 1988, Pub. L. 100–702, title X, §1020(a)(5), 102 Stat. 4671.)
+(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 100–702, title X, §1020(a)(5), Nov. 19, 1988, 102 Stat. 4671.)
 
 #### Historical and Revision Notes
 
@@ -30,7 +30,7 @@ Title 17 of the United States Code was enacted into positive law by act July 30,
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–702 inserted “or exclusive rights in mask works” after “copyrights”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted “or exclusive rights in mask works” after “copyrights”.
 
 #### Federal Rules of Civil Procedure
 

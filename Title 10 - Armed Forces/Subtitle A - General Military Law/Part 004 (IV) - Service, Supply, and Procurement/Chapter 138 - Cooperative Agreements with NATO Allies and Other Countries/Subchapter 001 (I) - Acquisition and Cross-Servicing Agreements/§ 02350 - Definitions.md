@@ -2,7 +2,7 @@
 
 In this subchapter:
 
-&emsp;(1) The term “logistic support, supplies, and services” means food, billeting, transportation (including airlift), petroleum, oils, lubricants, clothing, communications services, medical services, ammunition, base operations support (and construction incident to base operations support), storage services, use of facilities, training services, spare parts and components, repair and maintenance services, calibration services, and port services. Such term includes temporary use of general purpose vehicles and other items of military equipment not designated as part of the United States Munitions List pursuant to section 38(a)(1) of the Arms Export Control Act.
+&emsp;(1) The term “logistic support, supplies, and services” means food, billeting, transportation (including airlift), petroleum, oils, lubricants, clothing, communications services, medical services, ammunition, base operations support (and construction incident to base operations support), storage services, use of facilities, training services, spare parts and components, repair and maintenance services, calibration services, and port services. Such term includes temporary use of general purpose vehicles and other nonlethal items of military equipment which are not designated as significant military equipment on the United States Munitions List promulgated pursuant to section 38(a)(1) of the Arms Export Control Act.
 
 &emsp;(2) The term “North Atlantic Treaty Organization subsidiary bodies” means—
 
@@ -14,13 +14,15 @@ In this subchapter:
 
 &emsp;(4) The term “transfer” means selling (whether for payment in currency, replacement-in-kind, or exchange of supplies or services of equal value), leasing, loaning, or otherwise temporarily providing logistic support, supplies, and services under the terms of a cross-servicing agreement.
 
-(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1019, §2331; renumbered §2350, Pub. L. 99–145, title XIII, §1304(a)(3), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, §1104(f), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, §1317(h), Oct. 5, 1994, 108 Stat. 2901.)
+(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1019, §2331; renumbered §2350, Pub. L. 99–145, title XIII, §1304(a)(3), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, §1104(f), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 103–337, div. A, title XIII, §1317(h), Oct. 5, 1994, 108 Stat. 2901; Pub. L. 105–85, div. A, title XII, §1222, Nov. 18, 1997, 111 Stat. 1937.)
 
 #### References in Text
 
 Section 38(a)(1) of the Arms Export Control Act, referred to in par. (1), is classified to section 2778(a)(1) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1997—Par. (1). Pub. L. 105–85, in second sentence, substituted “other nonlethal items of military equipment which are not designated as significant military equipment on the United States Munitions List promulgated” for “other items of military equipment not designated as part of the United States Munitions List”.
 
 1994—Par. (1). Pub. L. 103–337, §1317(h)(1), inserted “(including airlift)” after “transportation”, “calibration services,” after “maintenance services,”, and “Such term includes temporary use of general purpose vehicles and other items of military equipment not designated as part of the United States Munitions List pursuant to section 38(a)(1) of the Arms Export Control Act.” at end.
 

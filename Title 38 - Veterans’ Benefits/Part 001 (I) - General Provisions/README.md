@@ -1,11 +1,6 @@
 ## PART I—GENERAL PROVISIONS
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20General/README.md) | <b>General</b> | <b>101</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Department%20of%20Veterans%20Affairs/README.md) | <b>Department of Veterans Affairs</b> | <b>301</b> |

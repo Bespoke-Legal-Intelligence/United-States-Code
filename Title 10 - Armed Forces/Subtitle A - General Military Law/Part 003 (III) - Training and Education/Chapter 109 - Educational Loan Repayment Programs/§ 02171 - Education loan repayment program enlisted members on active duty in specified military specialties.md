@@ -54,7 +54,7 @@ Subsec. (b). Pub. L. 103–337, §1663(e)(3), amended subsec. (b) generally. Pri
 
 &emsp;“(2) 331/3 percent or $1,500, whichever is greater, for each year of service, in the case of service described in subsection (a)(2)(B).”
 
-Subsec. (e). Pub. L. 103–337, §1663(e)(4), substituted “A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 16301 of this title (as described in subsection (a)(2) of that section)” for “Any individual who transfers from service described in clause (A) or (B) of subsection (a)(2) to service described in the other clause of such subsection”.
+Subsec. (e). Pub. L. 103–337, §1663(e)(4), substituted “A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 16301 of this title (as described in subsection (a)(2) of that section)” for “Any individual who transfers from service described in clause (A) or (B) of subsection (a)(2)to service described in the other clause of such subsection”.
 
 Subsec. (f). Pub. L. 103–337, §1663(e)(5), inserted “and section 16301 of this title” after “this section” and “and section 16301(a) of this title” after “subsection (a)”.
 

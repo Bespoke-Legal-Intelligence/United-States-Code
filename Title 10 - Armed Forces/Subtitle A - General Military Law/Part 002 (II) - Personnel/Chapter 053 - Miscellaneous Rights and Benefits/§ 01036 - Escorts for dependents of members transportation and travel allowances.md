@@ -30,7 +30,7 @@ Sec. 4. Travel and transportation allowances paid before the effective date of t
 
 “
 
-Sec. 5. Any person who was ordered by competent authority after January 1, 1950, and before the effective date of this Act \[Aug. 14, 1959\] to escort dependents of members of the uniformed services and who has not been paid travel and transportation allowances, or who has repaid the United States the amount so paid to him, is entitled to be paid the amount otherwise authorized by section 1 of this Act \[enacting this section\], if application for such payment is made not later than one year after the effective date of this Act \[Aug. 14, 1959\].
+Sec. 5. Any person who was ordered by competent authority after January 1, 1950, and before the effectivedate of this Act \[Aug. 14, 1959\] to escort dependents of members of the uniformed services and who has not been paid travel and transportation allowances, or who has repaid the United States the amount so paid to him, is entitled to be paid the amount otherwise authorized by section 1 of this Act \[enacting this section\], if application for such payment is made not later than one year after the effective date of this Act \[Aug. 14, 1959\].
 
 “
 
@@ -38,7 +38,7 @@ Sec. 6. The Comptroller General of the United States, or his designee, shall rel
 
 “
 
-Sec. 7. No regulations under section 1 of this Act \[enacting this section\] relating to the military departments shall be prescribed by the Secretary of a military department unless such regulations are first approved under procedures prescribed by the Secretary of Defense. Regulations of the Secretaries of the Treasury, Commerce, and Health, Education, and Welfare \[now Health and Human Services\] under section 1, 2, or 3 of this Act \[enacting this section and amending section 857a of Title 33, Navigation and Navigable Waters,and section 213a of Title 42, The Public Health and Welfare\] shall, to the extent practicable, agree with regulations so approved.”
+Sec. 7. No regulations under section 1 of this Act \[enacting this section\] relating to the military departments shall be prescribed by the Secretary of a military department unless such regulations are first approved under procedures prescribed by the Secretary of Defense. Regulations of the Secretaries of the Treasury, Commerce, and Health, Education, and Welfare \[now Health and Human Services\] under section 1, 2, or 3 of this Act \[enacting this section and amending section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare\] shall, to the extent practicable, agree with regulations so approved.”
 
 #### Public Health Service
 

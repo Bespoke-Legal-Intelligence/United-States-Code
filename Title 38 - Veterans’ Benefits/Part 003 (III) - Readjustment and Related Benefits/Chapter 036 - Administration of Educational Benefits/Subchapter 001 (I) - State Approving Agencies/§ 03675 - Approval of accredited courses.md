@@ -4,7 +4,7 @@
 
 &emsp;(A) such courses have been accredited and approved by a nationally recognized accrediting agency or association;
 
-&emsp;(B) such courses are conducted under the Act of February 23, 1917 (20 U.S.C. 11 et seq.);
+&emsp;(B) such courses are conducted under the Act of February 23, 1917 (20 U.S.C. 11 et seq.); <sup>1</sup>
 
 &emsp;(C) such courses are accepted by the State department of education for credit for a teacher's certificate or a teacher's degree; or
 
@@ -36,7 +36,7 @@
 
 #### References in Text
 
-Act of February 23, 1917, referred to in subsec. (a)(1)(B), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, as amended, known as the Smith-Hughes Vocational Education Act, which is classified to sections 11 to 15 and 16 to 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
+Act of February 23, 1917, referred to in subsec. (a)(1)(B), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, as amended, known as the Smith-Hughes Vocational Education Act, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by Pub. L. 105–33, title VI, §6201, Aug. 5, 1997, 111 Stat. 653. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Act of February 23, 1917, referred to in subsec. (a)(1)(B), is act Feb. 23, 1917
 
 1994—Subsec. (a)(2)(B). Pub. L. 103–446 substituted “Except as provided in section 3672(e) of this title, a State” for “A State”.
 
-1992—Subsec. (a). Pub. L. 102–568 designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), redesignated former par. (2) as subpar. (B), substituted “the Act of February 23, 1917 (20 U.S.C. 11 et seq.);” for “sections 11–28 of title 20; or”, redesignated former par. (3) as subpar. (C), added subpar. (D) and pars. (2) and (3), and struck out former concluding provisions which read as follows: “For the purposes of this chapter the Secretary of Education shall publish a list of nationally recognized accrediting agencies and associations which the Secretary determines to be reliable authority as to the quality of training offered by an educational institution and the State approvingagencies may, upon concurrence, utilize the accreditation of such accrediting associations or agencies for approval of the courses specifically accredited and approved by such accrediting association or agency. In making application for approval, the institution shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the school. The catalog or bulletin must specifically state its progress requirements for graduation and must include as a minimum the information required by sections 3676(b)(6) and (7) of this title.”
+1992—Subsec. (a). Pub. L. 102–568 designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A), redesignated former par. (2) as subpar. (B), substituted “the Act of February 23, 1917 (20 U.S.C. 11 et seq.);” for “sections 11–28 of title 20; or”, redesignated former par. (3) as subpar. (C), added subpar. (D) and pars. (2) and (3), and struck out former concluding provisions which read as follows: “For the purposes of this chapter the Secretary of Education shall publish a list of nationally recognized accrediting agencies and associations which the Secretary determines to be reliable authority as to the quality of training offered by an educational institution and the State approving agencies may, upon concurrence, utilize the accreditation of such accrediting associations or agencies for approval of the courses specifically accredited and approved by such accrediting association or agency. In making application for approval, the institution shall transmit to the State approving agency copies of its catalog or bulletin which must be certified as true and correct in content and policy by an authorized representative of the school. The catalog or bulletin must specifically state its progress requirements for graduation and must include as a minimum the information required by sections 3676(b)(6) and (7) of this title.”
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1775 of this title as this section.
 
@@ -79,4 +79,6 @@ Amendment by sections 504 and 513(a)(2) of Pub. L. 94–502 effective Dec. 1, 19
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3452, 3501, 3676 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

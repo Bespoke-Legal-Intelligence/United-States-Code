@@ -28,7 +28,7 @@ As used in this chapter—
 
 1996—Par. (4)(C). Pub. L. 104–106 substituted “section 12301(a), (d), or (g), 12302, or 12304 of title 10” for “section 672(a), (d), or (g), 673, or 673b of title 10”.
 
-1992—Par. (2). Pub. L. 102–568 substituted “The term” for “(A) Subject to subparagraph (B) of this paragraph,the term” and struck out subpar. (B) which read as follows: “No veteran may be considered to be a veteran of the Vietnam era under this paragraph after December 31, 1994, except for purposes of section 4214 of this title.”
+1992—Par. (2). Pub. L. 102–568 substituted “The term” for “(A) Subject to subparagraph (B) of this paragraph, the term” and struck out subpar. (B) which read as follows: “No veteran may be considered to be a veteran of the Vietnam era under this paragraph after December 31, 1994, except for purposes of section 4214 of this title.”
 
 1991—Pub. L. 102–83, §5(a), renumbered section 2011 of this title as this section.
 
@@ -48,7 +48,7 @@ Par. (4). Pub. L. 102–127 amended par. (4) generally. Prior to amendment, par.
 
 1989—Par. (2)(B). Pub. L. 101–237 inserted before period at end “except for purposes of section 2014 of this title”.
 
-1984—Par. (1). Pub. L. 98–223 expanded term “special disabled veteran” to include a veteran with a disability rated at 10 to 20 percent in the case of a veteran who has been determined under section 1506 of this title to have a serious employment handicap.
+1984—Par. (1). Pub. L. 98–223 expanded term “special disabled veteran” to include a veteran with a disability rated at 10 to 20 percent in the case of a veteran whohas been determined under section 1506 of this title to have a serious employment handicap.
 
 1982—Pars. (1), (3). Pub. L. 97–306, §309(1), inserted “(or who but for the receipt of military retired pay would be entitled to compensation)” after “compensation”.
 
@@ -80,5 +80,5 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4101, 4214 of this title; title 15 section 1022a; title 42 section 6706.
+This section is referred to in sections 4101, 4214 of this title; title 15 sections 636, 637, 1022a; title 42 section 6706.
 

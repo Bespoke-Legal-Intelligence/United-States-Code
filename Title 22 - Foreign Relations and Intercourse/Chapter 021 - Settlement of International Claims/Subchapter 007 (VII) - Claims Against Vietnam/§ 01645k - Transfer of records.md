@@ -2,5 +2,5 @@
 
 The Secretary of State, the Secretary of the Treasury, and the Secretary of Defense shall transfer or otherwise make available to the Commission such records and documents relating to claims authorized by this subchapter as may be required by the Commission in carrying out its functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title VII, §712, as added Dec. 28, 1980, Pub. L. 96–606, 94 Stat. 3537.)
+(Mar. 10, 1950, ch. 54, title VII, §712, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
 

@@ -86,7 +86,7 @@ It shall not be an unfair labor practice under subsections (a) and (b) of this s
 
 A labor organization before engaging in any strike, picketing, or other concerted refusal to work at any health care institution shall, not less than ten days prior to such action, notify the institution in writing and the Federal Mediation and Conciliation Service of that intention, except that in the case of bargaining for an initial agreement following certification or recognition the notice required by this subsection shall not be given until the expiration of the period specified in clause (B) of the last sentence of subsection (d) of this section. The notice shall state the date and time that such action will commence. The notice, once given, may be extended by the written agreement of both parties.
 
-(July 5, 1935, ch. 372, §8, 49 Stat. 452; June 23, 1947, ch. 120, title I, §101, 61 Stat. 140; Oct. 22, 1951, ch. 534, §1(b), 65 Stat. 601; Sept. 14, 1959, Pub. L. 86–257, title II, §201(e), title VII, §§704(a)–(c), 705(a), 73 Stat. 525, 542–545; July 26, 1974, Pub. L. 93–360, §1(c)–(e), 88 Stat. 395, 396.)
+(July 5, 1935, ch. 372, §8, 49 Stat. 452; June 23, 1947, ch. 120, title I, §101, 61 Stat. 140; Oct. 22, 1951, ch. 534, §1(b), 65 Stat. 601; Pub. L. 86–257, title II, §201(e), title VII, §§704(a)–(c), 705(a), Sept. 14, 1959, 73 Stat. 525, 542–545; Pub. L. 93–360, §1(c)–(e), July 26, 1974, 88 Stat. 395, 396.)
 
 #### Amendments
 

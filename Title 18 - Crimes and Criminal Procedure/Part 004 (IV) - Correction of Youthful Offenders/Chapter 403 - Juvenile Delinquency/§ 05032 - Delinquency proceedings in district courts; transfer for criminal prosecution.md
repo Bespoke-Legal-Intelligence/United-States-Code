@@ -46,7 +46,7 @@ Pub. L. 103–322, §§110201(c)(2)(B), 150002(2), inserted “or section 922(x)
 
 Pub. L. 103–322, §150002(3), inserted at end of fifth par. “In considering the nature of the offense, as required by this paragraph, the court shall consider the extent to which the juvenile played a leadership role in an organization, or otherwise influenced other persons to take part in criminal activities, involving the use or distribution of controlled substances or firearms. Such a factor, if found to exist, shall weigh in favor of a transfer to adult status, but the absence of this factor shall not preclude such a transfer.”
 
-Pub. L. 103–322, §140002, substituted “A juvenile shall not be transferred to adult prosecution nor shall a hearing be held under section 5037 (disposition after afinding of juvenile delinquency) until” for “Any proceedings against a juvenile under this chapter or as an adult shall not be commenced until” in tenth par.
+Pub. L. 103–322, §140002, substituted “A juvenile shall not be transferred to adult prosecution nor shall a hearing be held under section 5037 (disposition after a finding of juvenile delinquency) until” for “Any proceedings against a juvenile under this chapter or as an adult shall not be commenced until” in tenth par.
 
 1990—Pub. L. 101–647 inserted definition of “State” at end of second par., struck out “or the District of Columbia” after “to the authorities of a State” in third par., and substituted “offenses set forth in this paragraph” for “offenses set forth in this subsection” in fourth par.
 

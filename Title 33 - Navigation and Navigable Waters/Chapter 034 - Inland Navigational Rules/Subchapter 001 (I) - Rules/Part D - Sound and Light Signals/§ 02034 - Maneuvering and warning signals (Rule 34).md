@@ -4,7 +4,7 @@
 
 When power-driven vessels are in sight of one another and meeting or crossing at a distance within half a mile of each other, each vessel underway, when maneuvering as authorized or required by these Rules:
 
-&emsp;(i) shall indicate that maneuver by the following signals on her whistle: one short blast to mean “I intend to leave you on my port side”; two short blasts to mean “I intend to leave you on my starboard side”; and three short blasts to mean “I am operating astern propulsion”.
+&emsp;(i) shall indicate that maneuver by the following signals on her whistle: one short blast to mean “I intend to leave you on my port side”; two short blasts to mean “I intend to leave you on my starboard side”; and threeshort blasts to mean “I am operating astern propulsion”.
 
 &emsp;(ii) upon hearing the one or two blast signal of the other shall, if in agreement, sound the same whistle signal and take the steps necessary to effect a safe passing. If, however, from any cause, the vessel doubts the safety of the proposed maneuver, she shall sound the danger signal specified in paragraph (d) of this Rule and each vessel shall take appropriate precautionary action until a safe passing agreement is made.
 
@@ -32,7 +32,7 @@ When vessels in sight of one another are approaching each other and from any cau
 
 #### (e) Vessels in areas of obscured visibility due to intervening obstructions
 
-A vessel nearing a bend or an area of a channel or fairway where other vessels may be obscuredby an intervening obstruction shall sound one prolonged blast. This signal shall be answered with a prolonged blast by any approaching vessel that may be within hearing around the bend or behind the intervening obstruction.
+A vessel nearing a bend or an area of a channel or fairway where other vessels may be obscured by an intervening obstruction shall sound one prolonged blast. This signal shall be answered with a prolonged blast by any approaching vessel that may be within hearing around the bend or behind the intervening obstruction.
 
 #### (f) Use of one whistle only on a vessel
 

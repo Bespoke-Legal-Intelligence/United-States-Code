@@ -18,7 +18,7 @@ Section 1407g, acts June 30, 1949, ch. 285, §8, 63 Stat. 354; Sept. 2, 1958, Pu
 
 Section 1407h, acts June 30, 1949, ch. 285, §9, 63 Stat. 354; Sept. 2, 1958, Pub. L. 85–913, §6, 72 Stat. 1760, related to Board of Directors of Corporation.
 
-Section 1407i, act June 30, 1949, ch. 285, §10, 63 Stat. 355; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, related to transfer of functions, assets, and property of Virgin Islands Company to Corporation.
+Section 1407i, act June 30, 1949, ch. 285, §10, 63 Stat. 355; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R.7959, 84 Stat. 2085, related to transfer of functions, assets, and property of Virgin Islands Company to Corporation.
 
 #### Effective Date
 
@@ -26,7 +26,7 @@ Act June 30, 1949, ch. 285, §14, 63 Stat. 356, which provided that act June 30,
 
 #### Short Title
 
-Act June 30, 1949, ch. 285, §15, 63 Stat. 356, provided that act June 30, 1949, enacting sections 1407 to 1407i ofthis title and amending section 1401d of this title and section 846 of former Title 31, Money and Finance, could be cited as the “Virgin Islands Corporation Act”, prior to repeal by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
+Act June 30, 1949, ch. 285, §15, 63 Stat. 356, provided that act June 30, 1949, enacting sections 1407 to 1407i of this title and amending section 1401d of this title and section 846 of former Title 31, Money and Finance, could be cited as the “Virgin Islands Corporation Act”, prior to repeal by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
 
 #### Savings Provision
 

@@ -8,7 +8,7 @@ Except as otherwise provided in this section, the Secretary may acquire, by dona
 
 #### (1) Contribution toward construction
 
-&emsp;The Secretary may enter into an agreement with the City of Natchez under which the Secretary agrees to pay not to exceed $3,000,000toward the planning and construction by the City of Natchez of a structure to be partially used by the Secretary as an administrative headquarters, administrative site, and visitors’ center for Natchez National Historical Park.
+&emsp;The Secretary may enter into an agreement with the City of Natchez under which the Secretary agrees to pay not to exceed $3,000,000 toward the planning and construction by the City of Natchez of a structure to be partially used by the Secretary as an administrative headquarters, administrative site, and visitors’ center for Natchez National Historical Park.
 
 #### (2) Use for satisfaction of matching requirements
 

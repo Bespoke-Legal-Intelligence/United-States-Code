@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 &emsp;(3) the term “controlled substance” means a controlled substance in schedules I through V of section 812 of title 21;
 
-&emsp;(4) the term “conviction” means a finding of guilt (including a plea of nolo contendere) or imposition of sentence, or both, by any judicial body charged with the responsibility todetermine violations of the Federal or State criminal drug statutes;
+&emsp;(4) the term “conviction” means a finding of guilt (including a plea of nolo contendere) or imposition of sentence, or both, by any judicial body charged with the responsibility to determine violations of the Federal or State criminal drug statutes;
 
 &emsp;(5) the term “criminal drug statute” means a criminal statute involving manufacture, distribution, dispensation, use, or possession of any controlled substance;
 

@@ -6,7 +6,7 @@ The President may appoint, by and with the advice and consent of the Senate, a D
 
 #### (b) Exercise of functions by Director
 
-The President may exercise any functions vested in him by this chapter through the Director of the Peace Corps. The Director of thePeace Corps may promulgate such rules and regulations as he may deem necessary or appropriate to carry out such functions, and may delegate to any of his subordinates authority to perform any of such functions.
+The President may exercise any functions vested in him by this chapter through the Director of the Peace Corps. The Director of the Peace Corps may promulgate such rules and regulations as he may deem necessary or appropriate to carry out such functions, and may delegate to any of his subordinates authority to perform any of such functions.
 
 #### (c) Powers and functions of Secretary of State; coordination of activities; responsibility for supervision and direction of programs
 

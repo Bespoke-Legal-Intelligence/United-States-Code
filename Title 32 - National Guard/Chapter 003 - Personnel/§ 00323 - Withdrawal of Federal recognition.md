@@ -20,7 +20,7 @@
 
 > shall, if not sooner withdrawn, be withdrawn on the date of such involuntary transfer or discharge.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Sept. 2, 1958, Pub. L. 85–861, §§2(11), 33(c)(2), 72 Stat. 1546, 1567; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1630(2), 1676(a)(3), 108 Stat. 2964, 3019.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Pub. L. 85–861, §§2(11), 33(c)(2), Sept. 2, 1958, 72 Stat. 1546, 1567; Pub. L. 103–337, div. A, title XVI, §§1630(2), 1676(a)(3), Oct. 5, 1994, 108 Stat. 2964, 3019.)
 
 Historical and Revision Notes<br>1956
 

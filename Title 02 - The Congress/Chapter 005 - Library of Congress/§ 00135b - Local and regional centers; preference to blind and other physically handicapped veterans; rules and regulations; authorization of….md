@@ -4,7 +4,7 @@
 
 (b) There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
-(Mar. 3, 1931, ch. 400, §2, 46 Stat. 1487; July 30, 1966, Pub. L. 89–522, §1, 80 Stat. 330.)
+(Mar. 3, 1931, ch. 400, §2, 46 Stat. 1487; Pub. L. 89–522, §1, July 30, 1966, 80 Stat. 330.)
 
 #### Amendments
 

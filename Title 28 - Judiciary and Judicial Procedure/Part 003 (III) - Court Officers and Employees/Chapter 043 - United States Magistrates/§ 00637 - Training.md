@@ -2,11 +2,11 @@
 
 The Federal Judicial Center shall conduct periodic training programs and seminars for both full-time and part-time United States magistrates, including an introductory training program for new magistrates, to be held within one year after initial appointment.
 
-(June 25, 1948, ch. 646, 62 Stat. 917; Oct. 17, 1968, Pub. L. 90–578, title I, §101, 82 Stat. 1114.)
+(June 25, 1948, ch. 646, 62 Stat. 917; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1114.)
 
 #### Amendments
 
-1968—Pub. L. 90–578 substituted provisions for periodic training programs and seminars for United States magistrates for prior authorization of United States commissioners to administer oaths and take bail, acknowledgements, affidavits, and depositions, now incorporated in section 636(a)(2) of this title.
+<b>1968</b>—Pub. L. 90–578 substituted provisions for periodic training programs and seminars for United States magistrates for prior authorization of United States commissioners to administer oaths and take bail, acknowledgements, affidavits, and depositions, now incorporated in section 636(a)(2) of this title.
 
 #### Change of Name
 

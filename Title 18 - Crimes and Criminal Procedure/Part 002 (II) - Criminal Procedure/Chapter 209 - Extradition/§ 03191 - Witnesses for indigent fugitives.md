@@ -1,6 +1,6 @@
 ### §3191. Witnesses for indigent fugitives
 
-On the hearing of any case under a claim of extradition by a foreign government, upon affidavit being filed by the person charged setting forth that there are witnesses whose evidence is material to his defense, that he cannot safely go to trial without them, what he expects to prove by each of them, and that he is not possessed of sufficient means, and is actually unable to pay the fees of such witnesses, the judge or magistrate hearing the matter may order that such witnesses be subpenaed; and the costs incurredby the process, and the fees of witnesses, shall be paid in the same manner as in the case of witnesses subpenaed in behalf of the United States.
+On the hearing of any case under a claim of extradition by a foreign government, upon affidavit being filed by the person charged setting forth that there are witnesses whose evidence is material to his defense, that he cannot safely go to trial without them, what he expects to prove by each of them, and that he is not possessed of sufficient means, and is actually unable to pay the fees of such witnesses, the judge or magistrate hearing the matter may order that such witnesses be subpenaed; and the costs incurred by the process, and the fees of witnesses, shall be paid in the same manner as in the case of witnesses subpenaed in behalf of the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 825; Oct. 17, 1968, Pub. L. 90–578, title III, §301(a)(3), 82 Stat. 1115.)
 
@@ -20,7 +20,7 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L.90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Federal Rules of Criminal Procedure
 

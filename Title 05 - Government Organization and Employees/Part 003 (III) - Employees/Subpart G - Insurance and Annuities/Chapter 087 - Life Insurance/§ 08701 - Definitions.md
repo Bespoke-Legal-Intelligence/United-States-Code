@@ -38,7 +38,7 @@
 
 &emsp;(2) $10,000,
 
-> except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of this title, rounded to the next higher multiple of $1,000, plus $2,000. In the case of any former employee entitled to coverage under this chapter, the term means the basic insurance amount applicable for the employee at the time the insurance to which the employee is entitled as an employee under this chapter stops pursuant to section 8706(a) of this title.
+> except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of this title, rounded to the next higher multiple of $1,000, plus $2,000. In the case of any former employee entitled to coverage under this chapter, the term means the basic insurance amount applicable for the employee at the time the insurance to which the employee is entitled as an employee under thischapter stops pursuant to section 8706(a) of this title.
 
 (d)(1) For the purpose of this chapter, “family member”, when used with respect to any individual, means—
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–409, §1, Oct. 25, 1994, 108 Stat. 4230, provided that: “This Act \[enacting section 8714d of thistitle and provisions set out as notes under this section and sections 8704, 8714, and 8901 of this title\] may be cited as the ‘FEGLI Living Benefits Act’.”
+Pub. L. 103–409, §1, Oct. 25, 1994, 108 Stat. 4230, provided that: “This Act \[enacting section 8714d of this title and provisions set out as notes under this section and sections 8704, 8714, and 8901 of this title\] may be cited as the ‘FEGLI Living Benefits Act’.”
 
 #### Short Title of 1980 Amendment
 

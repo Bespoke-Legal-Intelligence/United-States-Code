@@ -20,9 +20,9 @@
 
 &emsp;(1) refunds to the limit of liability of an individual tax account; and
 
-&emsp;(2) refunds due from credit provisions of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) enacted before January 1, 1978.
+&emsp;(2) refunds due from credit provisions of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–34, title I, §101(d)(1), Aug. 5, 1997, 111 Stat. 799.)
 
 Historical and Revision Notes
 
@@ -52,9 +52,17 @@ In subsection (b), the words “appropriation made by this section” are substi
 
 Act of March 30, 1928, referred to in subsec. (a)(2)(C), is act Mar. 30, 1928, ch. 302, 45 Stat. 398, which is not classified to the Code.
 
+The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+
 #### Amendments
 
+1997—Subsec. (b)(2). Pub. L. 105–34 inserted before period at end “, or enacted by the Taxpayer Relief Act of 1997”.
+
 1986—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 101(e) of Pub. L. 105–34, set out as a note under section 24 of Title 26, Internal Revenue Code.
 
 #### Coordination With Refund Provision
 

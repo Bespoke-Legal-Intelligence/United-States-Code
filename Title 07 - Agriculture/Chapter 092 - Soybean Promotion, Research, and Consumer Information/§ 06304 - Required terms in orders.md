@@ -72,7 +72,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (II) Combined units
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall solicit nominations for each subsequent appointment to the Board to which a combined unit is entitled in such manner as the Secretary determines appropriate, taking into consideration the recommendations of any qualified State soybean board operating in the unit.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall solicit nominations for each subsequent appointmentto the Board to which a combined unit is entitled in such manner as the Secretary determines appropriate, taking into consideration the recommendations of any qualified State soybean board operating in the unit.
 
 #### (iii) Rejection
 
@@ -148,7 +148,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (i) Assessment level
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), each unit shall be allotted one vote for each percent, or portion of a percent, of the total amount of assessments remitted to the Board that was remitted from the unit (net of any refunds made under subsection (<i>l</i>)(2) of this section), on the average, during each of the 3 previous fiscal years of the Board.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), each unit shall be allotted one vote for each percent, or portion of a percent, of the total amount of assessments remitted to the Board that was remitted from the unit\(net of any refunds made under subsection (<i>l</i>)(2) of this section), on the average, during each of the 3 previous fiscal years of the Board.
 
 #### (ii) First three fiscal years
 
@@ -284,7 +284,7 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (2) Coordination
 
-&emsp;To enhance coordination, the Board, when entering into contracts or agreements for theimplementation and carrying out of activities authorized by this chapter, shall ensure that all plans or projects implemented for consumer information, industry information, promotion, or research are each implemented by a single entity. There shall not be in force, at any one time, more than one contract or agreement for implementation of plans or projects for consumer information, for industry information, for promotion, or for research, except that, upon approval of the Secretary, the Board may contract with qualified State soybean boards to implement plans or projects within their respective States.
+&emsp;To enhance coordination, the Board, when entering into contracts or agreements for the implementation and carrying out of activities authorized by this chapter, shall ensure that all plans or projects implemented for consumer information, industry information, promotion, or research are each implemented by a single entity. There shall not be in force, at any one time, more than one contract or agreement for implementation of plans or projects for consumer information, for industry information, for promotion, or for research, except that, upon approval of the Secretary, the Board may contract with qualified State soybean boards to implement plans or projects within their respective States.
 
 #### (3) Terms
 
@@ -380,7 +380,7 @@ The order shall require the Board to—
 
 #### (ii) No qualified State soybean board
 
-&emsp;&emsp;&emsp;In each State in which there is no qualified State soybean board, producers shall submit demands for refunds of assessments directly to the Board.
+&emsp;&emsp;&emsp;In each State in which there is no qualified State soybean board, producers shallsubmit demands for refunds of assessments directly to the Board.
 
 #### (D) Time limit for making refund
 
@@ -466,7 +466,7 @@ The order shall require the Board to—
 
 #### (m) Credit for certain costs to States
 
-The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessmentscollected and remitted to the Board under subsection (<i>l</i>) of this section.
+The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (<i>l</i>) of this section.
 
 #### (n) Minimum level of assessments to States
 

@@ -14,8 +14,13 @@
 | [12530\.](%C2%A7%2012530%20-%20Payment%20of%20benefits.md) | Payment of benefits. |
 | [12531\.](%C2%A7%2012531%20-%20Purchase%20of%20insurance.md) | Purchase of insurance. |
 | [12532\.](%C2%A7%2012532%20-%20Termination%20for%20nonpayment%20of%20premiums%3B%20forfeiture.md) | Termination for nonpayment of premiums; forfeiture. |
+| [12533\.](%C2%A7%2012533%20-%20Termination%20of%20program.md) | Termination of program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §512(b), Nov. 18, 1997, 111 Stat. 1729, added item 12533.
 
 
 ---
@@ -34,3 +39,4 @@
 - [&sect; 12530 - Payment of benefits](%C2%A7%2012530%20-%20Payment%20of%20benefits.md)
 - [&sect; 12531 - Purchase of insurance](%C2%A7%2012531%20-%20Purchase%20of%20insurance.md)
 - [&sect; 12532 - Termination for nonpayment of premiums; forfeiture](%C2%A7%2012532%20-%20Termination%20for%20nonpayment%20of%20premiums%3B%20forfeiture.md)
+- [&sect; 12533 - Termination of program](%C2%A7%2012533%20-%20Termination%20of%20program.md)

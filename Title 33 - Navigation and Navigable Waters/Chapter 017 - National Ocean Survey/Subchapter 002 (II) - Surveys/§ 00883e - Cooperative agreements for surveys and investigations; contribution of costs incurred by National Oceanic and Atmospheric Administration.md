@@ -4,7 +4,7 @@
 
 (2) The Secretary of Commerce is authorized to establish the terms of any cooperative agreement entered into under this section, including the amount of funds to be received, and may contribute that portion of the costs incurred by the National Oceanic and Atmospheric Administration, including shiptime and personnel expenses, which the Secretary determines represents the amount of benefits derived by the Administration from the cooperative agreement.
 
-(Aug. 6, 1947, ch. 504, §5, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Apr. 7, 1986, Pub. L. 99–272, title VI, §6085, 100 Stat. 138.)
+(Aug. 6, 1947, ch. 504, §5, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 99–272, title VI, §6085, Apr. 7, 1986, 100 Stat. 138.)
 
 #### Amendments
 

@@ -6,9 +6,9 @@ Criminal Penalty.—Except as provided by subsection (b) of this section, when a
 
 (b)
 
-Nonapplication.—Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), chapter 445, chapter 447 (except sections 44717–44723), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title.
+Nonapplication.—Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), chapter 445, chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1240; Pub. L. 104–287, §5(79), Oct. 11, 1996, 110 Stat. 3397.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1240; Pub. L. 104–287, §5(79), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(D), Nov. 20, 1997, 111 Stat. 2215.)
 
 Historical and Revision Notes
 
@@ -50,7 +50,19 @@ This amends 49:46316(b) to make it easier to include future sections in the cros
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–287 substituted “chapter 447 (except sections 44717–44723), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “and sections 44701(a) and (b), 44702–44716, 44901, 44903(b) and (c), 44905, 44906, 44912–44915, and 44932–44938”.
+1997—Subsec. (b). Pub. L. 105–102 amended directory language of Pub. L. 104–287. See 1996 Amendment note below.
+
+1996—Subsec. (b). Pub. L. 104–287, as amended by Pub. L. 105–102, substituted “chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “and sections 44701(a) and (b), 44702–44716, 44901, 44903(b) and (c), 44905, 44906, 44912–44915, and 44932–44938”.
+
+#### Effective Date of 1997 Amendment
+
+Pub. L. 105–102, §3(d), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(d)(1)(D) is effective Oct. 11, 1996.
+
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Section Referred to in Other Sections
 

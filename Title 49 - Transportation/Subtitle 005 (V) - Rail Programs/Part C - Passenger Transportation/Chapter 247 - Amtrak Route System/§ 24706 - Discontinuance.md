@@ -2,13 +2,13 @@
 
 (a)
 
-Notice of Discontinuance.—(1) Except as provided in subsection (b) of this section, at least 90 days before a discontinuance under section 24704 or 24707(a) or (b) of this title, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share the cost of any part of the train, route, or service to be discontinued.
+Notice of Discontinuance.—(1) Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 <sup>1</sup> or or <sup>2</sup> discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
 
-(2) Notice of the discontinuance under section 24704 or 24707(a) or (b) of this title shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
+(2) Notice of the discontinuance under section 24704 <sup>1</sup> or paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
 
 (b)
 
-Discontinuance for Lack of Appropriations.—(1) Amtrak may discontinue service under section 24704 or 24707(a) or (b) of this title during—
+Discontinuance for Lack of Appropriations.—(1) Amtrak may discontinue service under section 24704 <sup>1</sup> or subsection (a)(1) during—
 
 &emsp;(A) the first month of a fiscal year if the authorization of appropriations and the appropriations for Amtrak are not enacted at least 90 days before the beginning of the fiscal year; and
 
@@ -16,31 +16,7 @@ Discontinuance for Lack of Appropriations.—(1) Amtrak may discontinue service 
 
 (2) Amtrak shall notify each affected State or regional or local transportation authority of a discontinuance under this subsection as soon as possible after Amtrak decides to discontinue the service.
 
-(c)
-
-Employee Protective Arrangements.—(1) Amtrak or a rail carrier (including a terminal company) shall provide fair and equitable arrangements to protect the interests of employees of Amtrak or a rail carrier, as the case may be, affected by a discontinuance of intercity rail passenger service, including a discontinuance of service provided by a rail carrier under a facility or service agreement under section 24308(a) of this title under a modification or ending of the agreement or because Amtrak begins providing that service. Arrangements shall include provisions that may be necessary for—
-
-&emsp;(A) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective bargaining agreements or otherwise;
-
-&emsp;(B) the continuation of collective bargaining rights;
-
-&emsp;(C) the protection of individual employees against a worsening of their positions related to employment;
-
-&emsp;(D) assurances of priority of reemployment of employees whose employment is ended or who are laid off; and
-
-&emsp;(E) paid training and retraining programs.
-
-(2) With respect to Amtrak's obligations under this subsection and in an agreement to carry out this subsection involving only Amtrak and its employees, a discontinuance of intercity rail passenger service does not include an adjustment in frequency, or seasonal suspension of intercity rail passenger trains that causes a temporary suspension of service, unless the adjustment or suspension reduces passenger train operations on a particular route to fewer than 3 round trips a week at any time during a calendar year.
-
-(3) Arrangements under this subsection shall provide benefits at least equal to benefits established under section 11347 of this title.
-
-(4) A contract under this chapter or section 24308(a) of this title shall specify the terms of protective arrangements.
-
-(5) This subsection does not impose on Amtrak an obligation of a rail carrier related to a right, privilege, or benefit earned by an employee because of previous service performed for the carrier.
-
-(6) This subsection does not apply to Amtrak Commuter.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 927.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 927; Pub. L. 105–134, title I, §§101(c), 142(a), Dec. 2, 1997, 111 Stat. 2572, 2576.)
 
 Historical and Revision Notes
 
@@ -122,7 +98,89 @@ In subsection (c)(3), the words “section 11347 of this title” are substitute
 
 In subsection (c)(5), the words “be construed to” are omitted as surplus. The text of 45:565(c) (last sentence) is omitted as executed.
 
+#### References in Text
+
+Section 24704 of this title, referred to in text, was repealed by Pub. L. 105–134, title I, §105(a), Dec. 2, 1997, 111 Stat. 2573.
+
+#### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–134, §101(c)(1)–(3), substituted “180 days” for “90 days” and “or discontinuing service over a route,” for “24707(a) or (b) of this title,” and inserted “or assume” after “agree to share”.
+
+Subsec. (a)(2). Pub. L. 105–134, §101(c)(4), which directed substitution of “paragraph (1)” for “section 24707(a) or (b) of this title”, was executed by making the substitution for “24707(a) or (b) of this title” to reflect the probable intent of Congress.
+
+Subsec. (b)(1). Pub. L. 105–134, §101(c)(5), which directed substitution of “subsection (a)(1)” for “section 24707(a) or (b) of this title”, was executed by making the substitution for “24707(a) or (b) of this title” to reflect the probable intent of Congress.
+
+Subsec. (c). Pub. L. 105–134, §142(a), struck out subsec. (c) which related to employee protective arrangements.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by section 142(a) of Pub. L. 105–134 effective 180 days after Dec. 2, 1997, see section 142(c) of Pub. L. 105–134, set out in an Employee Protection Reforms note below.
+
+#### Employee Protection Reforms
+
+Pub. L. 105–134, title I, §§141, 142, Dec. 2, 1997, 111 Stat. 2575, 2576, provided that:
+
+#### “SEC. 141. RAILWAY LABOR ACT PROCEDURES.
+
+“(a)
+
+Notices.—Notwithstanding any arrangement in effect before the date of the enactment of this Act \[Dec. 2, 1997\], notices under section 6 of the Railway Labor Act (45 U.S.C. 156) with respect to all issues relating to employee protective arrangements and severance benefits which are applicable to employees of Amtrak, including all provisions of Appendix C–2 to the National Railroad Passenger Corporation Agreement, signed July 5, 1973, shall be deemed served and effective on the date which is 45 days after the date of the enactment of this Act. Amtrak, and each affected labor organization representing Amtrak employees, shall promptly supply specific information and proposals with respect to each such notice.
+
+“(b)
+
+National Mediation Board Efforts.—Except as provided in subsection (c), the National Mediation Board shall complete all efforts, with respect to the dispute described in subsection (a), under section 5 of the Railway Labor Act (45 U.S.C. 155) not later than 120 days after the date of the enactment of this Act \[Dec. 2, 1997\].
+
+“(c)
+
+Railway Labor Act Arbitration.—The parties to the dispute described in subsection (a) may agree to submit the dispute to arbitration under section 7 of the Railway Labor Act (45 U.S.C. 157), and any award resulting therefrom shall be retroactive to the date which is 120 days after the date of the enactment of this Act \[Dec. 2, 1997\].
+
+“(d)
+
+Dispute Resolution.—(1) With respect to the dispute described in subsection (a) which—
+
+&emsp;“(A) is unresolved as of the date which is 120 days after the date of the enactment of this Act \[Dec. 2, 1997\]; and
+
+&emsp;“(B) is not submitted to arbitration as described in subsection (c),
+
+> Amtrak shall, and the labor organization parties to such dispute shall, within 127 days after the date of the enactment of this Act, each select an individual from the entire roster of arbitrators maintained by the National Mediation Board. Within 134 days after the date of the enactment of this Act, the individuals selected under the preceding sentence shall jointly select an individual from such roster to make recommendations with respect to such dispute under this subsection. If the National Mediation Board is not informed of the selection under the preceding sentence 134 days after the date of enactment of this Act, the Board shall immediately select such individual.
+
+“(2) No individual shall be selected under paragraph (1) who is pecuniarily or otherwise interested in any organization of employees or any railroad.
+
+“(3) The compensation of individuals selected under paragraph (1) shall be fixed by the National Mediation Board. The second paragraph of section 10 of the Railway Labor Act \[45 U.S.C. 160\] shall apply to the expenses of such individuals as if such individuals were members of a board created under such section 10.
+
+“(4) If the parties to a dispute described in subsection (a) fail to reach agreement within 150 days after the date of the enactment of this Act, the individual selected under paragraph (1) with respect to such dispute shall make recommendations to the parties proposing contract terms to resolve the dispute.
+
+“(5) If the parties to a dispute described in subsection (a) fail to reach agreement, no change shall be made by either of the parties in the conditions out of which the dispute arose for 30 days after recommendations are made under paragraph (4).
+
+“(6) Section 10 of the Railway Labor Act (45 U.S.C. 160) shall not apply to a dispute described in subsection (a).
+
+“(e)
+
+No Precedent for Freight.—Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 20101 of this title\], or in any amendment made by this Act, shall affect the level of protection provided to freight railroad employees and mass transportation employees as it existed on the day before the date of enactment of this Act \[Dec. 2, 1997\].
+
+#### “SEC. 142. SERVICE DISCONTINUANCE.
+
+“(a)
+
+Repeal.—Section 24706(c) is repealed.
+
+“(b)
+
+Existing Contracts.—Any provision of a contract entered into before the date of the enactment of this Act \[Dec. 2, 1997\] between Amtrak and a labor organization representing Amtrak employees relating to employee protective arrangements and severance benefits applicable to employees of Amtrak is extinguished, including all provisions of Appendix C–2 to the National Railroad Passenger Corporation Agreement, signed July 5, 1973.
+
+“(c)
+
+Special Effective Date.—Subsections (a) \[amending this section\] and (b) of this section shall take effect 180 days after the date of the enactment of this Act \[Dec. 2, 1997\].
+
+“(d)
+
+Nonapplication of Bankruptcy Law Provision.—Section 1172(c) of title 11, United States Code, shall not apply to Amtrak and its employees.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10903, 11326, 24704 of this title.
+This section is referred to in sections 10903, 11326 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

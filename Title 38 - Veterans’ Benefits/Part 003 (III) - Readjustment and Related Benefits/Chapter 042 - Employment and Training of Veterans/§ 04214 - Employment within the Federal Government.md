@@ -1,6 +1,6 @@
 ### §4214. Employment within the Federal Government
 
-(a)(1) The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy ofthe United States and the purpose of this section to promote the maximum of employment and job advancement opportunities within the Federal Government for disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era who are qualified for such employment and advancement.
+(a)(1) The United States has an obligation to assist veterans of the Armed Forces in readjusting to civilian life since veterans, by virtue of their military service, have lost opportunities to pursue education and training oriented toward civilian careers. The Federal Government is also continuously concerned with building an effective work force, and veterans constitute a major recruiting source. It is, therefore, the policy of the United States and the purpose of this section to promote the maximum of employment and job advancement opportunities within the Federal Government for disabled veterans and certain veterans of the Vietnam era and of the post-Vietnam era who are qualified for such employment and advancement.
 
 (2) For the purposes of this section, the term “agency” means a department, agency, or instrumentality in the executive branch.
 
@@ -54,7 +54,7 @@
 
 &emsp;(B) The number of individuals receiving appointments under such subsection whose appointments were converted to career or career-conditional appointments, or whose employment under such an appointment has terminated, since the last such report, together with a complete listing of categories of causes of appointment terminations and the number of such individuals whose employment has terminated falling into each such category.
 
-&emsp;(C) The number of such terminations since the last such report that were initiated by theagency involved and the number of such terminations since the last such report that were initiated by the individual involved.
+&emsp;(C) The number of such terminations since the last such report that were initiated by the agency involved and the number of such terminations since the last such report that were initiated by the individual involved.
 
 &emsp;(D) A description of the education and training programs in which individuals appointed under such subsection are participating at the time of such report.
 
@@ -66,7 +66,7 @@
 
 (f) Notwithstanding section 4211 of this title, the terms “veteran” and “disabled veteran” as used in subsection (a) of this section shall have the meaning provided for under generally applicable civil service law and regulations.
 
-(g) To further the policy stated in subsection (a) of this section, the Secretary may give preference to qualified special disabled veterans and qualified veterans of the Vietnam era for employment in the Department as veterans’ benefits counselors and veterans’ claims examiners and in positions to provide the outreach services required under section 7722 of this title, to serve as veterans’ representatives at certain educational institutions as provided in section 7724 of this title, or to provide readjustment counseling under section 1712A of this title to veterans of the Vietnam era.
+(g) To further the policy stated in subsection (a) of this section, the Secretary may give preference to qualified special disabled veterans and qualified veterans of the Vietnam era for employment in the Department as veterans’ benefits counselors and veterans’ claims examiners and in positions to provide the outreach services required under section 7722 of this title, to serveas veterans’ representatives at certain educational institutions as provided in section 7724 of this title, or to provide readjustment counseling under section 1712A of this title to veterans of the Vietnam era.
 
 (Added Pub. L. 93–508, title IV, §403(a), Dec. 3, 1974, 88 Stat. 1593, §2014; amended Pub. L. 95–202, title III, §308, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 95–520, §6(b), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §510, title VIII, §801(<i>l</i>), Oct. 17, 1980, 94 Stat. 2207, 2217; Pub. L. 97–72, title II, §202(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–543, title II, §211, Oct. 24, 1984, 98 Stat. 2743; Pub. L. 99–576, title III, §332, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §407(a)(1), (b), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §9(a), (b), Mar. 22, 1991, 105 Stat. 54; renumbered §4214 and amended Pub. L. 102–83, §§2(c)(5), 4(a)(1), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 102–127, §4, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §505, Oct. 29, 1992, 106 Stat. 4340.)
 
@@ -192,7 +192,7 @@ Subsec. (f). Pub. L. 95–520, §6(b)(3), substituted “as used in subsection (
 
 Section 9(d) of Pub. L. 102–16, as amended by Pub. L. 102–86, title V, §506(c), Aug. 14, 1991, 105 Stat. 426; Pub. L. 103–353, §6(a), Oct. 13, 1994, 108 Stat. 3174, provided that: “The amendments made by this section \[amending this section\] shall apply only to appointments made after the date of the enactment of this Act \[Mar. 22, 1991\].”
 
-\[Section 6(b) of Pub. L. 103–353 provided that: “The amendment made by subsection (a) \[amending section9(d) of Pub. L. 102–16, set out above\] shall take effect as if included in Public Law 102–16 to which such amendment relates.”\]
+\[Section 6(b) of Pub. L. 103–353 provided that: “The amendment made by subsection (a) \[amending section 9(d) of Pub. L. 102–16, set out above\] shall take effect as if included in Public Law 102–16 to which such amendment relates.”\]
 
 \[Section 506(c) of Pub. L. 102–86 provided that the amendment made by that section to section 9(d) of Pub. L. 102–16, set out above, is effective as of Mar. 22, 1991.\]
 

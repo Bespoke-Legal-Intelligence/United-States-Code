@@ -12,7 +12,7 @@ Authority To Provide Services and Support.—Under regulations prescribed by the
 
 Scope of Covered Activities Subject to Section.—This section does not—
 
-&emsp;(1) apply to the provision by the Secretary concerned, under regulations prescribed by theSecretary of Defense, of customary community relations and public affairs activities conducted in accordance with Department of Defense policy; or
+&emsp;(1) apply to the provision by the Secretary concerned, under regulations prescribed by the Secretary of Defense, of customary community relations and public affairs activities conducted in accordance with Department of Defense policy; or
 
 &emsp;(2) prohibit the Secretary concerned from encouraging members of the armed forces under the Secretary's jurisdiction to provide volunteer support for community relations activities under regulations prescribed by the Secretary of Defense.
 
@@ -68,13 +68,19 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 (g)
 
+Treatment of Member's Participation in Provision of Support or Services.—(1) The Secretary of a military department may not require or request a member of the armed forces to submit for consideration by a selection board (including a promotion board, command selection board, or any other kind of selection board) evidence of the member's participation in the provision of support and services to non-Department of Defense organizations and activities under this section or the member's involvement in, or support of, other community relations and public affairs activities of the armed forces.
+
+(2) Paragraph (1) does not prevent a selection board from considering material submitted voluntarily by a member of the armed forces which provides evidence of the participation of that member or another member in activities described in that paragraph.
+
+(h)
+
 Advisory Councils.—(1) The Secretary of Defense shall encourage the establishment of advisory councils at regional, State, and local levels, as appropriate, in order to obtain recommendations and guidance concerning assistance under this section from persons who are knowledgeable about regional, State, and local conditions and needs.
 
 (2) The advisory councils should include officials from relevant military organizations, representatives of appropriate local, State, and Federal agencies, representatives of civic and social service organizations, business representatives, and labor representatives.
 
 (3) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to such councils.
 
-(h)
+(i)
 
 Construction of Provision.—Nothing in this section shall be construed as authorizing—
 
@@ -82,11 +88,15 @@ Construction of Provision.—Nothing in this section shall be construed as autho
 
 &emsp;(2) the use of Department of Defense personnel or resources for any program, project, or activity that is prohibited by law.
 
-(Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353.)
+(Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, §594, Nov. 18, 1997, 111 Stat. 1764.)
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (g)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1997—Subsecs. (g) to (i). Pub. L. 105–85 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 #### Termination of Funding for Office of Civil-Military Programs in Office of the Secretary of Defense
 

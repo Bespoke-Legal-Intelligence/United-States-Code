@@ -19,10 +19,14 @@
 | [2864\.](%C2%A7%2002864%20-%20Military%20construction%20contracts%20on%20Guam.md) | Military construction contracts on Guam. |
 | [2865\.](%C2%A7%2002865%20-%20Energy%20savings%20at%20military%20installations.md) | Energy savings at military installations. |
 | [2866\.](%C2%A7%2002866%20-%20Water%20conservation%20at%20military%20installations.md) | Water conservation at military installations. |
+| [2867\.](%C2%A7%2002867%20-%20Sale%20of%20electricity%20from%20alternate%20energy%20and%20cogeneration%20production%20facilities.md) | Sale of electricity from alternate energy and cogeneration production facilities. |
+| [2868\.](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md) | Utility services: furnishing for certain buildings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title III, §371(c)(3), Nov. 18, 1997, 111 Stat. 1705, added items 2867 and 2868.
 
 1996—Pub. L. 104–106, div. B, title XXVIII, §2818(a)(2), Feb. 10, 1996, 110 Stat. 555, added item 2854a.
 
@@ -62,3 +66,5 @@
 - [&sect; 02864 - Military construction contracts on Guam](%C2%A7%2002864%20-%20Military%20construction%20contracts%20on%20Guam.md)
 - [&sect; 02865 - Energy savings at military installations](%C2%A7%2002865%20-%20Energy%20savings%20at%20military%20installations.md)
 - [&sect; 02866 - Water conservation at military installations](%C2%A7%2002866%20-%20Water%20conservation%20at%20military%20installations.md)
+- [&sect; 02867 - Sale of electricity from alternate energy and cogeneration production facilities](%C2%A7%2002867%20-%20Sale%20of%20electricity%20from%20alternate%20energy%20and%20cogeneration%20production%20facilities.md)
+- [&sect; 02868 - Utility services furnishing for certain buildings](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md)

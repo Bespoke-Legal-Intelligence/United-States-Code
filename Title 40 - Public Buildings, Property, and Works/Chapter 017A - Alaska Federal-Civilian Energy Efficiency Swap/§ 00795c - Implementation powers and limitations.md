@@ -2,7 +2,7 @@
 
 #### (a) Accommodation of needs of non-Federal person for electric energy
 
-Nothing in this chapter shall be construed as requiring or authorizing any department, agency, or instrumentality of the United States to construct any new electric generating facility or related facility, to modify any existing facility, or to employ reserve or standby equipment in order to accommodate the needs of any non-Federal person for electric energy.
+Nothing in this chapter shall be construed as requiring or authorizing any department, agency, or instrumentality of the United States toconstruct any new electric generating facility or related facility, to modify any existing facility, or to employ reserve or standby equipment in order to accommodate the needs of any non-Federal person for electric energy.
 
 #### (b) Availability of revenues from sales
 

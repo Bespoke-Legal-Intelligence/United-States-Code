@@ -202,7 +202,7 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 &emsp;(3) does not include job specific training.
 
-(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1, 63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; May 5, 1961, Pub. L. 87–30, §6, 75 Stat. 69; Sept. 23, 1966, Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, 80 Stat. 835–837, 841, 842; Apr. 8, 1974, Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), 88 Stat. 60, 62, 64, 66, 68; Nov. 13, 1985, Pub. L. 99–150, §§2(a), 3(a)–(c)(1), 99 Stat. 787, 789; Nov. 17, 1989, Pub. L. 101–157, §7, 103 Stat. 944; Sept. 6, 1995, Pub. L. 104–26, §2, 109 Stat. 264.)
+(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1, 63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; Pub. L. 87–30, §6, May 5, 1961, 75 Stat. 69; Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, Sept. 23, 1966, 80 Stat. 835–837, 841, 842; Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, 88 Stat. 60, 62, 64, 66, 68; Pub. L. 99–150, §§2(a), 3(a)–(c)(1), Nov. 13, 1985, 99 Stat. 787, 789; Pub. L. 101–157, §7, Nov. 17, 1989, 103 Stat. 944; Pub. L. 104–26, §2, Sept. 6, 1995, 109 Stat. 264.)
 
 #### References in Text
 

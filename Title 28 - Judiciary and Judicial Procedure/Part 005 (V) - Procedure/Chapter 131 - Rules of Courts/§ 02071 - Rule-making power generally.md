@@ -14,7 +14,7 @@
 
 (f) No rule may be prescribed by a district court other than under this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, §102, 63 Stat. 104; Nov. 19, 1988, Pub. L. 100–702, title IV, §403(a)(1), 102 Stat. 4650.)
+(June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, ch. 139, §102, 63 Stat. 104; Pub. L. 100–702, title IV, §403(a)(1), Nov. 19, 1988, 102 Stat. 4650.)
 
 #### Historical and Revision Notes
 
@@ -44,9 +44,9 @@ This amendment clarifies section 2071 of title 28, U.S.C., by giving express rec
 
 #### Amendments
 
-1988—Pub. L. 100–702 designated existing provisions as subsec. (a), substituted “under section 2072 of this title” for “by the Supreme Court”, and added subsecs. (b) to (f).
+<b>1988</b>—Pub. L. 100–702 designated existing provisions as subsec. (a), substituted “under section 2072 of this title” for “by the Supreme Court”, and added subsecs. (b) to (f).
 
-1949—Act May 24, 1949, expressed recognition to the Supreme Court's power to prescribe its own rules and give a better description of its procedural rules.
+<b>1949</b>—Act May 24, 1949, expressed recognition to the Supreme Court's power to prescribe its own rules and give a better description of its procedural rules.
 
 #### Effective Date of 1988 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Recourse loans available
 
-Under such reasonable terms and conditions as the Secretary may prescribe, the Secretary shallmake recourse loans available to commercial processors of eligible dairy products to assist the processors to manage inventories of eligible dairy products and assure a greater degree of price stability for the dairy industry during the year. The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this section.
+Under such reasonable terms and conditions as the Secretary may prescribe, the Secretary shall make recourse loans available to commercial processors of eligible dairy products to assist the processors to manage inventories of eligible dairy products and assure a greater degree of price stability for the dairy industry during the year. The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this section.
 
 #### (b) Amount of loan
 

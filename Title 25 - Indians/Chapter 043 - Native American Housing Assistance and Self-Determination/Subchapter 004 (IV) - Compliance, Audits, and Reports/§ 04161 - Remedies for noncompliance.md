@@ -38,7 +38,7 @@ If the Secretary makes a finding under subsection (a) of this section, but deter
 
 #### (1) In general
 
-&emsp;Any recipient who receives notice under subsection (a) of this section of the termination,reduction, or limitation of payments under this chapter—
+&emsp;Any recipient who receives notice under subsection (a) of this section of the termination, reduction, or limitation of payments under this chapter—
 
 &emsp;&emsp;(A) may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the circuit in which such State is located, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
 

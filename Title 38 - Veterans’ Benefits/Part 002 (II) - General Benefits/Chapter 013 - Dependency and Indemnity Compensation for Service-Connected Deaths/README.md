@@ -6,6 +6,7 @@
 | :--- | ---: |
 | [1301\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001301%20-%20Definitions.md) | Definitions. |
 | [1302\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001302%20-%20Determination%20of%20pay%20grade.md) | Determination of pay grade. |
+| [1303\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001303%20-%20Cost-of-living%20adjustments.md) | Cost-of-living adjustments. |
 | [1304\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001304%20-%20Special%20provisions%20relating%20to%20surviving%20spouses.md) | Special provisions relating to surviving spouses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,6 +38,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–33, title VIII, §8031(b)(2), Aug. 5, 1997, 111 Stat. 669, added item 1303.
 
 1991—Pub. L. 102–83, §§4(b)(3)(B), 5(b)(1), Aug. 6, 1991, 105 Stat. 405, 406, renumbered items 401 to 423 as 1301 to 1323, respectively, and in item 1323 substituted “with respect to circumstances of death” for “by Administrator”.
 

@@ -58,7 +58,7 @@ For the purpose of carrying out the provisions of this section, there are author
 
 This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title XI (§§1101–1152) of Pub. L. 95–561, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 
-The Tribally Controlled Community College Assistance Act of 1978, referred to in subsec. (c)(1)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Tribally Controlled Community College Assistance Act of 1978, referred to in subsec. (c)(1)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

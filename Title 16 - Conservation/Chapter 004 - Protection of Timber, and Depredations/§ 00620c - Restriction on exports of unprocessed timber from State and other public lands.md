@@ -12,11 +12,7 @@ Except as provided in subsection (g) of this section, the Secretary of Commerce 
 
 #### (2) States with annual sales of greater than 400,000,000 board feet
 
-&emsp;With respect to any State with an annual sales volume greater than 400,000,000 board feet, the following shall apply:
-
-&emsp;&emsp;(A) The Secretary of Commerce shall issue an order referred to in subsection (a) of this section to prohibit, notwithstanding any other provision of law, the export of unprocessed timber originating from public lands, effective during the period beginning on June 1, 1993, and ending on December 31, 1995.
-
-&emsp;&emsp;(B) For all periods on or after January 1, 1996, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than September 30, 1995. Such order shall prohibit the export of the lesser of 400,000,000 board feet or the annual sales volume in that State of unprocessed timber originating from public lands.
+&emsp;With respect to any State with an annual sales volume greater than 400,000,000 board feet, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section to prohibit, notwithstanding any other provision of law, the export of unprocessed timber originating from public lands, effective as of November 14, 1997.
 
 #### (3) Prohibition on substitution
 
@@ -102,7 +98,7 @@ Nothing in this section shall apply to—
 
 &emsp;&emsp;(B) January 1, 1991, with respect to States with annual sales volumes greater than 400,000,000 board feet; or
 
-&emsp;(2) any contract under which exports of unprocessed timber were permitted pursuant to an order of the Secretary of Commerce in effect under this section before October 23, 1992.
+&emsp;(2) any contract under which exports of unprocessed timber were permitted pursuant toan order of the Secretary of Commerce in effect under this section before October 23, 1992.
 
 #### (f) Western red cedar
 
@@ -132,9 +128,11 @@ Notwithstanding any other provision of this section, beginning on January 1, 199
 
 Nothing in sections 620 to 620j of this title shall be construed to limit the authority of the President or the United States Trade Representative to take action authorized by law to respond appropriately to any measures taken by a foreign government in connection with sections 620 to 620j of this title.
 
-(Pub. L. 101–382, title IV, §491, Aug. 20, 1990, 104 Stat. 719; Pub. L. 103–45, §2, July 1, 1993, 107 Stat. 223.)
+(Pub. L. 101–382, title IV, §491, Aug. 20, 1990, 104 Stat. 719; Pub. L. 103–45, §2, July 1, 1993, 107 Stat. 223; Pub. L. 105–83, title VI, §602(b), Nov. 14, 1997, 111 Stat. 1620.)
 
 #### Amendments
+
+1997—Subsec. (b)(2). Pub. L. 105–83 struck out “the following shall apply:” in introductory provisions, substituted “the Secretary” for “(A) The Secretary” and “as of November 14, 1997” for “during the period beginning on June 1, 1993, and ending on December 31, 1995”, and struck out subpar. (B) which read as follows: “For all periods on or after January 1, 1996, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than September 30, 1995. Such order shall prohibit the export of the lesser of 400,000,000 board feet or the annual sales volume in that State of unprocessed timber originating from public lands.”
 
 1993—Subsec. (a). Pub. L. 103–45, §2(1), substituted “(g)” for “(e)” and “as provided” for “in the amounts specified”.
 
@@ -158,9 +156,7 @@ Section 4 of Pub. L. 103–45 provided that: “If any provision of this Act \[a
 
 #### Extension and Issuance of Order Under Subsection (b)(2)
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title III\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–223, provided in part that: “The Secretary of Commerce shall extend untilSeptember 30, 1997, the order issued under section 491(b)(2)(A) of Public Law 101–382 \[16 U.S.C. 620c(b)(2)(A)\] and shall issue an order under section 491(b)(2)(B) of such law that will be effective October 1, 1997.”
-
-Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–208, div. A, title I, §101(d) \[title III\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–223, which in part directed Secretary of Commerce to extend until Sept. 30, 1997, the order issued under subsec. (b)(2)(A) of this section and to issue an order under subsec. (b)(2)(B) of this section effective Oct. 1, 1997, was from the Department of the Interior and Related Agencies Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 104–134, title I, §101(c) \[title III, §333\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–210; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
@@ -168,5 +164,5 @@ Pub. L. 104–99, title I, §130, Jan. 26, 1996, 110 Stat. 34.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 620d of this title.
+This section is referred to in sections 620d, 620f of this title.
 

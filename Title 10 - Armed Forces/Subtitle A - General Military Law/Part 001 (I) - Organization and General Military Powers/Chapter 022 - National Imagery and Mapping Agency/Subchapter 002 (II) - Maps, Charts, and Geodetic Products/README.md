@@ -13,9 +13,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 442 of this title.
-
-<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
+This subchapter is referred to in section 442 of this title; title 14 section 82.
 
 
 ---

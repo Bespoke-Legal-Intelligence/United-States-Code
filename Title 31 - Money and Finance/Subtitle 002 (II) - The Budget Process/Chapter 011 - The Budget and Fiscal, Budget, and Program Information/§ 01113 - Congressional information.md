@@ -130,6 +130,34 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 
 1983—Subsec. (a). Pub. L. 97–452 redesignated existing provision as par. (1) and added par. (2).
 
+#### Oversight of Counterterrorism and Antiterrorism Activities; Report
+
+Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, provided that:
+
+“(a)
+
+Oversight of Counterterrorism and Antiterrorism Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Director of the Office of Management and Budget shall—
+
+&emsp;“(1) establish a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities; and
+
+&emsp;“(2) using such reporting system, collect information on—
+
+&emsp;&emsp;“(A) the budget and expenditure of funds by executive agencies during the current fiscal year for purposes of carrying out counterterrorism and antiterrorism programs and activities; and
+
+&emsp;&emsp;“(B) the specific programs and activities for which such funds were expended.
+
+“(b)
+
+Report.—Not later that March 1 of each year, the President shall submit to Congress a report in classified and unclassified form (using the information described in subsection (a)(2)) describing, for each executive agency and for the executive branch as a whole, the following:
+
+&emsp;“(1) The amounts proposed to be expended for counterterrorism and antiterrorism programs and activities for the fiscal year beginning in the calendar year in which the report is submitted.
+
+&emsp;“(2) The amounts proposed to be expended for counterterrorism and antiterrorism programs and activities for the fiscal year in which the report is submitted and the amounts that have already been expended for such programs and activities for that fiscal year.
+
+&emsp;“(3) The specific counterterrorism and antiterrorism programs and activities being implemented, any priorities with respect to such programs and activities, and whether there has been any duplication of efforts in implementing such programs and activities.”
+
+\[Memorandum of President of the United States, Mar. 5, 1998, 63 F.R. 12377, delegated to Director of the Office of Management and Budget reporting functions of President under section 1051(b) of Public Law 105–85 set out above.\]
+
 #### Termination of Reporting Requirements
 
 Pub. L. 104–66, title III, §3003, Dec. 21, 1995, 109 Stat. 734, provided that:

@@ -5,9 +5,9 @@
 | [1201\.](%C2%A7%2001201%20-%20Regulars%20and%20members%20on%20active%20duty%20for%20more%20than%2030%20days%20retirement.md) | Regulars and members on active duty for more than 30 days: retirement. |
 | [1202\.](%C2%A7%2001202%20-%20Regulars%20and%20members%20on%20active%20duty%20for%20more%20than%2030%20days%20temporary%20disability%20retired%20list.md) | Regulars and members on active duty for more than 30 days: temporary disability retired list. |
 | [1203\.](%C2%A7%2001203%20-%20Regulars%20and%20members%20on%20active%20duty%20for%20more%20than%2030%20days%20separation.md) | Regulars and members on active duty for more than 30 days: separation. |
-| [1204\.](%C2%A7%2001204%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20retirement.md) | Members on active duty for 30 days or less: retirement. |
+| [1204\.](%C2%A7%2001204%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20or%20on%20inactive-duty%20training%20retirement.md) | Members on active duty for 30 days or less or on inactive-duty training: retirement. |
 | [1205\.](%C2%A7%2001205%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20temporary%20disability%20retired%20list.md) | Members on active duty for 30 days or less: temporary disability retired list. |
-| [1206\.](%C2%A7%2001206%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20separation.md) | Members on active duty for 30 days or less: separation. |
+| [1206\.](%C2%A7%2001206%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20or%20on%20inactive-duty%20training%20separation.md) | Members on active duty for 30 days or less or on inactive-duty training: separation. |
 | [1207\.](%C2%A7%2001207%20-%20Disability%20from%20intentional%20misconduct%20or%20willful%20neglect%20separation.md) | Disability from intentional misconduct or willful neglect: separation. |
 | [1208\.](%C2%A7%2001208%20-%20Computation%20of%20service.md) | Computation of service. |
 | [1209\.](%C2%A7%2001209%20-%20Transfer%20to%20inactive%20status%20list%20instead%20of%20separation.md) | Transfer to inactive status list instead of separation. |
@@ -27,6 +27,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title V, §513(d)(3), Nov. 18, 1997, 111 Stat. 1731, inserted “or on inactive-duty training” after “Members on active duty for 30 days or less” in items 1204 and 1206.
 
 1986—Pub. L. 99–661, div. A, title VI, §604(d)(4), Nov. 14, 1986, 100 Stat. 3876, struck out “; disability from injury” after “30 days or less” in items 1204, 1205, 1206.
 
@@ -58,9 +60,9 @@ This chapter is referred to in sections 1142, 1370, 1401a, 1402, 1402a, 1408, 14
 - [&sect; 01201 - Regulars and members on active duty for more than 30 days retirement](%C2%A7%2001201%20-%20Regulars%20and%20members%20on%20active%20duty%20for%20more%20than%2030%20days%20retirement.md)
 - [&sect; 01202 - Regulars and members on active duty for more than 30 days temporary disability retired list](%C2%A7%2001202%20-%20Regulars%20and%20members%20on%20active%20duty%20for%20more%20than%2030%20days%20temporary%20disability%20retired%20list.md)
 - [&sect; 01203 - Regulars and members on active duty for more than 30 days separation](%C2%A7%2001203%20-%20Regulars%20and%20members%20on%20active%20duty%20for%20more%20than%2030%20days%20separation.md)
-- [&sect; 01204 - Members on active duty for 30 days or less retirement](%C2%A7%2001204%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20retirement.md)
+- [&sect; 01204 - Members on active duty for 30 days or less or on inactive-duty training retirement](%C2%A7%2001204%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20or%20on%20inactive-duty%20training%20retirement.md)
 - [&sect; 01205 - Members on active duty for 30 days or less temporary disability retired list](%C2%A7%2001205%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20temporary%20disability%20retired%20list.md)
-- [&sect; 01206 - Members on active duty for 30 days or less separation](%C2%A7%2001206%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20separation.md)
+- [&sect; 01206 - Members on active duty for 30 days or less or on inactive-duty training separation](%C2%A7%2001206%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20or%20on%20inactive-duty%20training%20separation.md)
 - [&sect; 01207 - Disability from intentional misconduct or willful neglect separation](%C2%A7%2001207%20-%20Disability%20from%20intentional%20misconduct%20or%20willful%20neglect%20separation.md)
 - [&sect; 01208 - Computation of service](%C2%A7%2001208%20-%20Computation%20of%20service.md)
 - [&sect; 01209 - Transfer to inactive status list instead of separation](%C2%A7%2001209%20-%20Transfer%20to%20inactive%20status%20list%20instead%20of%20separation.md)

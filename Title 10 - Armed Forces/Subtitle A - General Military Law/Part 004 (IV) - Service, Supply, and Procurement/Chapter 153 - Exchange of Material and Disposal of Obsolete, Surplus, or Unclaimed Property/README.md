@@ -12,10 +12,13 @@
 | [2577\.](%C2%A7%2002577%20-%20Disposal%20of%20recyclable%20materials.md) | Disposal of recyclable materials. |
 | [2578\.](%C2%A7%2002578%20-%20Vessels%20transfer%20between%20departments.md) | Vessels: transfer between departments. |
 | [2579\.](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md) | War booty: procedures for handling and retaining battlefield objects. |
+| [2580\.](%C2%A7%2002580%20-%20Donation%20of%20excess%20chapel%20property.md) | Donation of excess chapel property. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title X, §1063(b), Nov. 18, 1997, 111 Stat. 1893, added item 2580.
 
 1996—Pub. L. 104–201, div. A, title X, §1033(a)(2), Sept. 23, 1996, 110 Stat. 2640, added item 2576a.
 
@@ -60,3 +63,4 @@ Property records, basis and reports, see section 2721 of this title.
 - [&sect; 02577 - Disposal of recyclable materials](%C2%A7%2002577%20-%20Disposal%20of%20recyclable%20materials.md)
 - [&sect; 02578 - Vessels transfer between departments](%C2%A7%2002578%20-%20Vessels%20transfer%20between%20departments.md)
 - [&sect; 02579 - War booty procedures for handling and retaining battlefield objects](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md)
+- [&sect; 02580 - Donation of excess chapel property](%C2%A7%2002580%20-%20Donation%20of%20excess%20chapel%20property.md)

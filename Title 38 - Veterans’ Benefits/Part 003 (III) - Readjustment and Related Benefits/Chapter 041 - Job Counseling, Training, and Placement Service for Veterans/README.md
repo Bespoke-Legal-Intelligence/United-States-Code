@@ -26,7 +26,7 @@
 
 Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory Committee on Veterans Employment and Training” for “Secretary of Labor's Committee on Veterans’ Employment” in item 2010.
 
-1988—Pub. L. 100–323, §§2(e)(3)(B), 3(c), 4(b), 6(b)(2)(B), 8(b), 9(b), 15(c)(3)(B), May 20, 1988, 102 Stat. 559, 562–564,566, 574, inserted “and Training; Regional Administrators” after “for Veterans’ Employment” in item 2002A, substituted “Directors and Assistant Directors for Veterans’ Employment and Training” for “State and Assistant State Directors for Veterans’ Employment” in item 2003, substituted “Local veterans’ employment representatives” for “Employees of local offices” in item 2004, added item 2004A, struck out “with the Veterans’ Administration” after “Cooperation and coordination” in item 2008, substituted “National Veterans’ Employment and Training Services Institute” for “National veterans’ employment and training programs” in item 2009, and added item 2010A.
+1988—Pub. L. 100–323, §§2(e)(3)(B), 3(c), 4(b), 6(b)(2)(B), 8(b), 9(b), 15(c)(3)(B), May 20, 1988, 102 Stat. 559, 562–564, 566, 574, inserted “and Training; Regional Administrators” after “for Veterans’ Employment” in item 2002A, substituted “Directors and Assistant Directors for Veterans’ Employment and Training” for “State and Assistant State Directors for Veterans’ Employment” in item 2003, substituted “Local veterans’ employment representatives” for “Employees of local offices” in item 2004, added item 2004A, struck out “with the Veterans’ Administration” after “Cooperation and coordination” in item 2008, substituted “National Veterans’ Employment and Training Services Institute” for “National veterans’ employment and training programs” in item 2009, and added item 2010A.
 
 1982—Pub. L. 97–306, title III, §§301(b)(1), 304(a)(2), 308(b), Oct. 14, 1982, 96 Stat. 1437, 1438, 1441, added item 2000, substituted “State and Assistant State Directors for Veterans’ Employment” for “Assignment of veterans’ employment representative” in item 2003 and added items 2009 and 2010.
 
@@ -34,7 +34,7 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 
 1976—Pub. L. 94–502, title VI, §601(b)(2), Oct. 15, 1976, 90 Stat. 2404, added item 2002A.
 
-1972—Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094, in chapter heading substituted “, TRAINING AND” for “AND EMPLOYMENT”, redesignated former items 2001 to 2005 as items 2002 to 2006, and added items 2001, 2007, and 2008, and in redesignated item 2006 “authorization of appropriations”.
+1972—Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094, in chapter heading substituted “, TRAININGAND” for “AND EMPLOYMENT”, redesignated former items 2001 to 2005 as items 2002 to 2006, and added items 2001, 2007, and 2008, and in redesignated item 2006 “authorization of appropriations”.
 
 1966—Pub. L. 89–358, §6(a), Mar. 3, 1966, 80 Stat. 27, substituted “JOB COUNSELING AND EMPLOYMENT PLACEMENT SERVICE FOR VETERANS” for “UNEMPLOYMENT BENEFITS FOR VETERANS” in chapter heading.
 

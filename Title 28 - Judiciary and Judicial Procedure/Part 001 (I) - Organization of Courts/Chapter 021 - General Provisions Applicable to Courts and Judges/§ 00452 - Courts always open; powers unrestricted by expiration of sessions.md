@@ -4,7 +4,7 @@ All courts of the United States shall be deemed always open for the purpose of f
 
 The continued existence or expiration of a session of a court in no way affects the power of the court to do any act or take any proceeding.
 
-(June 25, 1948, ch. 646, 62 Stat. 907; Oct. 16, 1963, Pub. L. 88–139, §2, 77 Stat. 248.)
+(June 25, 1948, ch. 646, 62 Stat. 907; Pub. L. 88–139, §2, Oct. 16, 1963, 77 Stat. 248.)
 
 #### Historical and Revision Notes
 
@@ -22,7 +22,7 @@ Rules 6(c) and 77(a) of the Federal Rules of Civil Procedure contain provisions 
 
 #### Amendments
 
-1963—Pub. L. 88–139 substituted “expiration of sessions” for “terms” in section catchline, and “session” for “term” in text.
+<b>1963</b>—Pub. L. 88–139 substituted “expiration of sessions” for “terms” in section catchline, and “session” for “term” in text.
 
 #### Federal Rules of Civil Procedure
 

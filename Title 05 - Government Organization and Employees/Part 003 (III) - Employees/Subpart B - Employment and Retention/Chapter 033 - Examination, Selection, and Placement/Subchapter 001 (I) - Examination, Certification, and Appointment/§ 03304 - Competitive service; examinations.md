@@ -8,15 +8,7 @@
 
 (b) An individual may be appointed in the competitive service only if he has passed an examination or is specifically excepted from examination under section 3302 of this title. This subsection does not take from the President any authority conferred by section 3301 of this title that is consistent with the provisions of this title governing the competitive service.
 
-(c) Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
-
-&emsp;(1) for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; or
-
-&emsp;(2) for at least 4 years as a secretary or law clerk, or both, to a justice or judge of the United States;
-
-> acquires a competitive status for transfer to the competitive service if he is involuntarily separated without prejudice from the legislative or judicial branch, passes a suitable noncompetitive examination, and transfers to the competitive service within 1 year of the separation from the legislative or judicial branch. For the purpose of this subsection, an individual who has served for at least 2 years in a position in the legislative branch described by paragraph (1) of this subsection and who is separated from that position to enter the armed forces is deemed to have held that position during his service in the armed forces.
-
-(d)(1) For the purpose of this subsection, the term “technician” has the meaning given such term by section 8337(h)(1) of this title.
+(c)(1) For the purpose of this subsection, the term “technician” has the meaning given such term by section 8337(h)(1) of this title.
 
 (2) Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served for at least 3 years as a technician acquires a competitive status for transfer to the competitive service if such individual—
 
@@ -26,17 +18,11 @@
 
 &emsp;(C) transfers to the competitive service within 1 year after separating from service as a technician.
 
+(d) The Office of Personnel Management shall promulgate regulations on the manner and extent that experience of an individual in a position other than the competitive service, such as the excepted service (as defined under section 2103) in the legislative or judicial branch, or in any private or nonprofit enterprise, may be considered in making appointments to a position in the competitive service (as defined under section 2102). In promulgating such regulations OPM shall not grant any preference based on the fact of service in the legislative or judicial branch. The regulations shall be consistent with the principles of equitable competition and merit based appointments.
+
 (e) Employees at any place outside the District of Columbia where the President or the Office of Personnel Management directs that examinations be held shall allow the reasonable use of public buildings for, and in all proper ways facilitate, holding the examinations.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745.)
-
-#### Amendment of Section
-
-<i>Pub. L. 104–65, §16, Dec. 19, 1995, 109 Stat. 703, provided that, effective 2 years after Dec. 19, 1995, this section is amended by repealing subsection (c) of this section and redesignating subsection (d) as (c).</i>
-
-<i>Pub. L. 104–65, §17, Dec. 19, 1995, 109 Stat. 703, provided that, effective 2 years after Dec. 19, 1995, with certain exceptions, this section is amended by adding at the end thereof the following new subsection:</i>
-
-(d) The Office of Personnel Management shall promulgate regulations on the manner and extent that experience of an individual in a position other than the competitive service, such as the excepted service (as defined under section 2103) in the legislative or judicial branch, or in any private or nonprofit enterprise, may be considered in making appointments to a position in the competitive service (as defined under section 2102). In promulgating such regulations OPM shall not grant any preference based on the fact of service in the legislative or judicial branch. The regulations shall be consistent with the principles of equitable competition and merit based appointments.
 
 Historical and Revision Notes
 
@@ -101,6 +87,18 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### Amendments
 
 1996—Subsec. (c)(1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+
+1995—Subsec. (c). Pub. L. 104–65, §16(a), (b), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Notwithstanding a contrary provision of this title or of the rules and regulations prescribed under this title for the administration of the competitive service, an individual who served—
+
+&emsp;“(1) for at least 3 years in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; or
+
+&emsp;“(2) for at least 4 years as a secretary or law clerk, or both, to a justice or judge of the United States;
+
+> acquires a competitive status for transfer to the competitive service if he is involuntarily separated without prejudice from the legislative or judicial branch, passes a suitable noncompetitive examination, and transfers to the competitive service within 1 year of the separation from the legislative or judicial branch. For the purpose of this subsection, an individual who has served for at least 2 years in a position in the legislative branch described by paragraph (1) of this subsection and who is separated from that position to enter the armed forces is deemed to have held that position during his service in the armed forces.”
+
+Subsec. (d). Pub. L. 104–65, §17(a), which directed amendment of this section by adding subsec. (d) at the end thereof, was executed by adding subsec. (d) after subsec. (c) to reflect the probable intent of Congress.
+
+Pub. L. 104–65, §16(b), redesignated subsec. (d) as (c).
 
 1986—Subsecs. (d), (e). Pub. L. 99–586 added subsec. (d) and redesignated former subsec. (d) as (e).
 

@@ -16,7 +16,7 @@ Two-thirds of the members of an industry committee shall constitute a quorum, an
 
 The Administrator shall submit to an industry committee from time to time such data as he may have available on the matters referred to it, and shall cause to be brought before it in connection with such matters any witnesses whom he deems material. An industry committee may summon other witnesses or call upon the Administrator to furnish additional information to aid it in its deliberations.
 
-(June 25, 1938, ch. 676, §5, 52 Stat. 1062; June 26, 1940, ch. 432, §3(c), 54 Stat. 615; Oct. 26, 1949, ch. 736, §5, 63 Stat. 911; Aug. 12, 1955, ch. 867, §5(a), 69 Stat. 711; May 5, 1961, Pub. L. 87–30, §4, 75 Stat. 67; Apr. 8, 1974, Pub. L. 93–259, §5(a), 88 Stat. 56; Nov. 17, 1989, Pub. L. 101–157, §4(a), 103 Stat. 939.)
+(June 25, 1938, ch. 676, §5, 52 Stat. 1062; June 26, 1940, ch. 432, §3(c), 54 Stat. 615; Oct. 26, 1949, ch. 736, §5, 63 Stat. 911; Aug. 12, 1955, ch. 867, §5(a), 69 Stat. 711; Pub. L. 87–30, §4, May 5, 1961, 75 Stat. 67; Pub. L. 93–259, §5(a), Apr. 8, 1974, 88 Stat. 56; Pub. L. 101–157, §4(a), Nov. 17, 1989, 103 Stat. 939.)
 
 #### Amendments
 

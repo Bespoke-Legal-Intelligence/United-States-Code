@@ -10,9 +10,7 @@
 
 &emsp;&emsp;(A) The number of such positions in the Department during that fiscal year that are filled by employees whose salaries and benefits are paid primarily from funds other than appropriated funds.
 
-&emsp;&emsp;(B) The number of such positions held during that fiscal year by persons involved in medical care cost recovery activities under section 1729 of this title.
-
-&emsp;&emsp;(C) The number of such positions in the Department during that fiscal year held by persons involved in providing health-care resources under section 8111 or 8153 of this title or under section 201 of the Veterans Health Care Act of 1992 (Public Law 102–585; 106 Stat. 4949; 38 U.S.C. 8111 note).
+&emsp;&emsp;(B) The number of such positions in the Department during that fiscal year held by persons involved in providing health-care resources under section 8111 or 8153 of this title or under section 201 of the Veterans Health Care Act of 1992 (Public Law 102–585; 106 Stat. 4949; 38 U.S.C. 8111 note).
 
 (c) The Secretary shall not be required to make a reduction in the number of full-time equivalent positions in the Department unless such reduction—
 
@@ -22,7 +20,7 @@
 
 (d) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report, through the year 2000, on the number and type of full-time equivalent positions in the Department that are reduced under this section. The report shall include a justification for the reductions and shall be submitted with the materials provided in support of the budget for the Department contained in the President's budget submitted to Congress for a fiscal year pursuant to section 1105 of title 31.
 
-(Added Pub. L. 103–446, title XI, §1102(a), Nov. 2, 1994, 108 Stat. 4680; amended Pub. L. 104–262, title III, §303, Oct. 9, 1996, 110 Stat. 3194.)
+(Added Pub. L. 103–446, title XI, §1102(a), Nov. 2, 1994, 108 Stat. 4680; amended Pub. L. 104–262, title III, §303, Oct. 9, 1996, 110 Stat. 3194; Pub. L. 105–33, title VIII, §8023(e), Aug. 5, 1997, 111 Stat. 667.)
 
 #### References in Text
 
@@ -30,11 +28,21 @@ The date of the enactment of this section, referred to in subsecs. (a) and (c)(2
 
 #### Amendments
 
+1997—Subsec. (b)(2)(B), (C). Pub. L. 105–33 redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The number of such positions held during that fiscal year by persons involved in medical care cost recovery activities under section 1729 of this title.”
+
 1996—Subsec. (b)(2). Pub. L. 104–262, §303(1), substituted “the sum of the following:” for “the sum of—” in introductory provisions.
 
 Subsec. (b)(2)(A), (B). Pub. L. 104–262, §303(2), (3), substituted “The number” for “the number” in subpars. (A) and (B) and substituted a period for “; and” at end of subpar. (A).
 
 Subsec. (b)(2)(C). Pub. L. 104–262, §303(4), added subpar. (C).
+
+#### Effective Date of 1997 Amendment
+
+Section 8023(g) of Pub. L. 105–33 provided that:
+
+“(1) Except as provided in paragraph (2), this section \[enacting section 1729A of this title, amending this section and sections 1710, 1722A, and 1729 of this title, and enacting provisions set out as notes under sections 1729 and 1729A of this title\] and the amendments made by this section shall take effect on October 1, 1997.
+
+“(2) The amendments made by subsection (d) \[amending section 1729 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Congressional Findings
 

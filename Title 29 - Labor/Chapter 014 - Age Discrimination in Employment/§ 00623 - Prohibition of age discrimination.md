@@ -180,7 +180,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;(F) If an employer that has implemented a deduction pursuant to subparagraph (A) fails to fulfill the obligation described in subparagraph (E), any aggrieved individual may bring an action for specific performance of the obligation described in subparagraph (E). The relief shall be in addition to any other remedies provided under Federal or State law.
 
-&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employeebenefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
 &emsp;&emsp;(A) paid to the individual that the individual voluntarily elects to receive; or
 
@@ -272,7 +272,7 @@ Section 105 of title I of Pub. L. 101–433, as amended by Pub. L. 102–236, §
 
 “(a)
 
-In General.—Except as otherwise provided in this section, this title \[amending this section and section 630 of this title and enacting provisions set out asnotes under this section and section 621 of this title\] and the amendments made by this title shall apply only to—
+In General.—Except as otherwise provided in this section, this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title shall apply only to—
 
 &emsp;“(1) any employee benefit established or modified on or after the date of enactment of this Act \[Oct. 16, 1990\]; and
 
@@ -360,7 +360,7 @@ Discrimination in Employee Pension Benefit Plans.—Nothing in this title \[amen
 
 “(e)
 
-Continued Benefit Payments.—Notwithstanding any other provision of this section, on and after the effective date of this title and the amendments made by this title (as determined in accordance with subsections (a), (b), and (c)), this title and the amendments made by this title shall not apply to a series of benefit payments made to an individual or the individual's representative that began prior to the effective date and that continue after the effective date pursuant to an arrangement that was in effect on the effective date, except that no substantial modification to such arrangement may be made after the date of enactment of this Act \[Oct. 16, 1990\] if the intent of the modification is to evade the purposes of this Act.”
+Continued Benefit Payments.—Notwithstanding any other provision of this section, on and after the effective date of this title and the amendments made by this title (as determined in accordance with subsections (a), (b), and (c)), this title and the amendmentsmade by this title shall not apply to a series of benefit payments made to an individual or the individual's representative that began prior to the effective date and that continue after the effective date pursuant to an arrangement that was in effect on the effective date, except that no substantial modification to such arrangement may be made after the date of enactment of this Act \[Oct. 16, 1990\] if the intent of the modification is to evade the purposes of this Act.”
 
 #### Effective Date of 1989 Amendment
 
@@ -448,7 +448,7 @@ Section 116(c) of Pub. L. 97–248 provided that: “The amendment made by subse
 
 #### Effective Date of 1978 Amendment
 
-Section 2(b) of Pub. L. 95–256 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Apr. 6, 1978\], except that, in the case of employees covered by a collective bargaining agreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 \[section 206(d)(4) of this title\]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act \[amending section 631 of this title\], the amendment made by subsection (a) of this section \[amending this section\] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
+Section 2(b) of Pub. L. 95–256 provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Apr. 6, 1978\], except that, in the case of employees covered by a collective bargaining agreement which is in effect on September 1, 1977, which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 \[section 206(d)(4) of this title\]), and which would otherwise be prohibited by the amendment made by section 3(a) of this Act \[amending section 631 of this title\], the amendment made by subsection (a) of thissection \[amending this section\] shall take effect upon the termination of such agreement or on January 1, 1980, whichever occurs first.”
 
 #### Regulations
 

@@ -2,7 +2,7 @@
 
 #### (a) Time to file
 
-Except as otherwise provided in this section, the right to compensation for disability or death under this chapter shall be barred unless a claim therefore is filed within one year after the injury or death. If payment of compensation has been made without an award on account of such injury or death, a claim may be filed within one year after the date of the last payment. Such claim shall be filed with the deputy commissioner in the compensation district in which such injury or death occurred. The time for filing a claim shall not begin to run until the employee or beneficiary is aware, or by the exercise of reasonable diligence should have been aware, of the relationship between the injury or death and the employment.
+Except as otherwise provided in this section, the right to compensation for disability or death under this chapter shall be barred unless a claim therefore is filed within one year after the injury or death. If payment of compensation hasbeen made without an award on account of such injury or death, a claim may be filed within one year after the date of the last payment. Such claim shall be filed with the deputy commissioner in the compensation district in which such injury or death occurred. The time for filing a claim shall not begin to run until the employee or beneficiary is aware, or by the exercise of reasonable diligence should have been aware, of the relationship between the injury or death and the employment.
 
 #### (b) Failure to file
 
@@ -12,13 +12,13 @@ Except as otherwise provided in this section, the right to compensation for disa
 
 #### (c) Effect on incompetents and minors
 
-If a person who is entitled to compensation under this chapter is mentally incompetent or a minor, the provisions of subsection (a) of thissection shall not be applicable so long as such person has no guardian or other authorized representative, but shall be applicable in the case of a person who is mentally incompetent or a minor from the date of appointment of such guardian or other representative, or in the case of a minor, if no guardian is appointed before he becomes of age, from the date he becomes of age.
+If a person who is entitled to compensation under this chapter is mentally incompetent or a minor, the provisions of subsection (a) of this section shall not be applicable so long as such person has no guardian or other authorized representative, but shall be applicable in the case of a person who is mentally incompetent or a minor from the date of appointment of such guardian or other representative, or in the case of a minor, if no guardian is appointed before he becomes of age, from the date he becomes of age.
 
 #### (d) Tolling provision
 
 Where recovery is denied to any person, in a suit brought at law or in admiralty to recover damages in respect of injury or death, on the ground that such person was an employee and that the defendant was an employer within the meaning of this chapter and that such employer had secured compensation to such employee under this chapter, the limitation of time prescribed in subsection (a) of this section shall begin to run only from the date of termination of such suit.
 
-(Mar. 4, 1927, ch. 509, §13, 44 Stat. 1432; Oct. 27, 1972, Pub. L. 92–576, §12(b), 86 Stat. 1259; Sept. 28, 1984, Pub. L. 98–426, §12, 98 Stat. 1649.)
+(Mar. 4, 1927, ch. 509, §13, 44 Stat. 1432; Pub. L. 92–576, §12(b), Oct. 27, 1972, 86 Stat. 1259; Pub. L. 98–426, §12, Sept. 28, 1984, 98 Stat. 1649.)
 
 #### Amendments
 

@@ -40,7 +40,7 @@ Subsecs. (h), (i). Pub. L. 102–572, §103(2), added subsecs. (h) and (i).
 
 1988—Subsec. (g). Amendment by Pub. L. 100–690 directing that “and section 4216” be struck out after “under chapter 402” in subsec. (g), was executed to subsec. (g) applicable to offenses committed prior to Nov. 1, 1987, as the probable intent of Congress, in view of the amendment by section 223(j) of Pub. L. 98–473. See 1984 Amendment notes below.
 
-1984—Subsecs. (g), (h). Pub. L. 98–473, §223(j)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to powers of magistrate in case involving youthful offender. Former subsec. (g), as amended by Pub. L. 100–690, read as follows: “The magistrate may, in a case involving a youth offender in which consent to trial before a magistrate has been filed under subsection (b) of this section, impose sentence and exercise the other powers granted to the district court under chapter 402 of this title, except that—
+1984—Subsecs. (g), (h). Pub. L. 98–473, §223(j)(1), redesignated subsec. (h) as (g) and struck out former subsec.\(g) which related to powers of magistrate in case involving youthful offender. Former subsec. (g), as amended by Pub. L. 100–690, read as follows: “The magistrate may, in a case involving a youth offender in which consent to trial before a magistrate has been filed under subsection (b) of this section, impose sentence and exercise the other powers granted to the district court under chapter 402 of this title, except that—
 
 &emsp;“(1) the magistrate may not sentence the youth offender to the custody of the Attorney General pursuant to such chapter for a period in excess of 1 year for conviction of a misdemeanor or 6 months for conviction of a petty offense;
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, whichis the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1958 Amendment
 

@@ -8,7 +8,7 @@ For purposes of this subchapter:
 
 #### (2) Community referral services
 
-&emsp;The term “community referral services” means services provided under contract orthrough interagency agreements to assist families in obtaining needed information, mutual support and community resources, including respite care services, health and mental health services, employability development and job training, and other social services, including early developmental screening of children, through help lines or other methods.
+&emsp;The term “community referral services” means services provided under contract or through interagency agreements to assist families in obtaining needed information, mutual support and community resources, including respite care services, health and mental health services, employability development and job training, and other social services, including early developmental screening of children, through help lines or other methods.
 
 #### (3) Family resource and support program
 

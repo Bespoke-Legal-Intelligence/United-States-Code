@@ -4,7 +4,7 @@
 
 (b) If any special disabled veteran or veteran of the Vietnam era believes any contractor of the United States has failed to comply or refuses to comply with the provisions of the contractor's contract relating to the employment of veterans, the veteran may file a complaint with the Secretary of Labor, who shall promptly investigate such complaint and take appropriate action in accordance with the terms of the contract and applicable laws and regulations.
 
-(c) The Secretary of Labor shall include as part of the annual report required by section4107(c) of this title the number of complaints filed pursuant to subsection (b) of this section, the actions taken thereon and the resolutions thereof. Such report shall also include the number of contractors listing suitable employment openings, the nature, types, and number of positions listed and the number of veterans receiving priority pursuant to subsection (a)(2) of this section.
+(c) The Secretary of Labor shall include as part of the annual report required by section 4107(c) of this title the number of complaints filed pursuant to subsection (b) of this section, the actions taken thereon and the resolutions thereof. Such report shall also include the number of contractors listing suitable employment openings, the nature, types, and number of positions listed and the number of veterans receiving priority pursuant to subsection (a)(2) of this section.
 
 (d)(1) Each contractor to whom subsection (a) of this section applies shall, in accordance with regulations which the Secretary of Labor shall prescribe, report at least annually to the Secretary of Labor on—
 
@@ -72,7 +72,7 @@ Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, provided:
 
 On June 16, 1971, I issued Executive Order No. 11598 to facilitate the employment of returning veterans by requiring Federal agencies and Federal contractors and their subcontractors to list employment openings with the employment service systems. Section 503 of the Vietnam Era Veterans’ Readjustment Assistance Act of 1972 (Public Law 92–540; 86 Stat. 1097) added a new section 2012 \[now 4212\] to Title 38 of the United States Code which, in effect, provides statutory authority to extend the program developed under that order with respect to Government contractors and their subcontractors.
 
-NOW, THEREFORE, by virtue of the authority vested in me by section 301 of Title 3 of the United States Codeand as President of the United States, it is hereby ordered as follows:
+NOW, THEREFORE, by virtue of the authority vested in me by section 301 of Title 3 of the United States Code and as President of the United States, it is hereby ordered as follows:
 
 Section 1. The Secretary of Labor shall issue rules and regulations requiring each department and agency of the executive branch of the Federal Government to list suitable employment openings with the appropriate office of the State Employment Service or the United States Employment Service. This section shall not be construed as requiring the employment of individuals referred by such office or as superseding any requirements of the Civil Service Laws. Rules, regulations, and orders to implement this section shall be developed in consultation with the Civil Service Commission.
 
@@ -80,7 +80,7 @@ Sec. 2. The Secretary of Labor is hereby designated and empowered to exercise, w
 
 Sec. 3. The Secretary of Labor shall gather information on the effectiveness of the program established under this order and Section 2012 \[now 4212\] of Title 38 of the United States Code and of the extent to which the employment service system is fulfilling the employment needs of veterans. The Secretary of Labor shall, from time to time, report to the President concerning his evaluation of the effectiveness of this order along with his recommendations for further action which the Secretary believes to be appropriate.
 
-Sec. 4. Appropriate departments and agencies shall, in consultation with the Secretary of Labor, issue such amendments or additions to procurement rules and regulations as may be necessary to carry out the purposes of this order and Section 2012 \[now 4212\] of Title 38 of the United States Code. Except as otherwise provided by law, all executive departments and agencies are directed to cooperate with the Secretary of Labor, to furnish the Secretary of Labor with such information and assistance as he may require in the performance of his functions under this order, and to comply with rules, regulations, and orders of the Secretary.
+Sec. 4. Appropriate departments and agencies shall, in consultation with the Secretary of Labor, issue such amendments or additions to procurement rules and regulations as may be necessary to carry out the purposes of this order and Section 2012 \[now 4212\] of Title 38 of the United States Code. Except as otherwise provided by law, all executive departments and agencies are directed to cooperate with the Secretary of Labor, to furnish the Secretary of Labor with such information andassistance as he may require in the performance of his functions under this order, and to comply with rules, regulations, and orders of the Secretary.
 
 Sec. 5. Executive Order No. 11598 of June 16, 1971, is hereby superseded.
 

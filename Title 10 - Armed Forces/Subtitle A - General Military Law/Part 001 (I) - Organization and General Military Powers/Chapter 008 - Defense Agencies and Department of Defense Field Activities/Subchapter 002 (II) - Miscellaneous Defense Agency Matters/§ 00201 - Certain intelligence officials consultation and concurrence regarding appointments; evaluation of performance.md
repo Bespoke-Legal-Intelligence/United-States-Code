@@ -32,7 +32,7 @@ Performance Evaluations.—(1) The Director of Central Intelligence shall provid
 
 #### Prior Provisions
 
-A prior section 201 was renumbered section 202 of this title.
+A prior section 201 was renumbered section 202 of this title and subsequently repealed.
 
 #### Amendments
 

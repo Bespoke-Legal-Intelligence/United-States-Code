@@ -116,5 +116,5 @@ Deductions from salaries of officers and crews of vessels of the Fish and Wildli
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 section 754; title 25 section 450j; title 42 section 12655n.
+This section is referred to in title 16 sections 17<i>o</i>, 754; title 25 section 450j; title 42 section 12655n.
 

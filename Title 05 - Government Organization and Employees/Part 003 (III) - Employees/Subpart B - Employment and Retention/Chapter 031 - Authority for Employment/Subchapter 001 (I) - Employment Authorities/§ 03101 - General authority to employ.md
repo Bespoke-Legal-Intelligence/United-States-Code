@@ -134,91 +134,93 @@ Memorandum of the President of the United States, dated Jan. 20, 1981, 46 F.R. 9
 
 #### Citizenship Requirement for Employees Compensated From Appropriated Funds
 
-Act Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §606\], 110 Stat. 3009–314, 3009–354, provided that: “Unless otherwise specified during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person (1) is a citizen of the United States, (2) is a person in the service of the United States on the date of enactment of this Act \[Sept. 30, 1996\] who, being eligible for citizenship, has filed a declaration of intention to become a citizen of the United States prior to such date and is actually residing in the United States, (3) is a person who owes allegiance to the United States, (4) is an alien from Cuba, Poland, South Vietnam, the countries of the former Soviet Union, or the Baltic countries lawfully admitted to the United States for permanent residence, (5) is a South Vietnamese, Cambodian, or Laotian refugee paroled in the United States after January 1, 1975, or (6) is a national of the People's Republic of China who qualifys for adjustment of status pursuant to the Chinese Student Protection Act of 1992 \[Pub. L. 102–404; 8 U.S.C. 1255 note\]: <i>Provided</i>, That for the purpose of this section, an affidavit signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status have been complied with: <i>Provided further</i>, That any person making a false affidavit shall be guilty of a felony, and, upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: <i>Provided further</i>, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: <i>Provided further</i>, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government. This section shall not apply to citizens of Ireland, Israel, or the Republic of the Philippines, or to nationals of those countries allied with the United States in the current defense effort, or to international broadcasters employed by the United States Information Agency, or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies.”
+Pub. L. 105–61, title VI, §606, Oct. 10, 1997, 111 Stat. 1309, provided that: “Unless otherwise specified during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person in the service of the United States on the date of enactment of this Act \[Oct. 10, 1997\] who, being eligible for citizenship, has filed a declaration of intention to become a citizen of the United States prior to such date and is actually residing in the United States; (3) is a person who owes allegiance to the United States; (4) is an alien from Cuba, Poland, South Vietnam, the countries of the former Soviet Union, or the Baltic countries lawfully admitted to the United States for permanent residence; (5) is a South Vietnamese, Cambodian, or Laotian refugee paroled in the United States after January 1, 1975; or (6) is a national of the People's Republic of China who qualifies for adjustment of status pursuant to the Chinese Student Protection Act of 1992 \[Pub. L. 102–44; 8 U.S.C. 1255 note\]: <i>Provided</i>, That for the purpose of this section, an affidavit signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status have been complied with: <i>Provided further</i>, That any person making a false affidavit shall be guilty of a felony, and, upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: <i>Provided further</i>, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: <i>Provided further</i>, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government. This section shall not apply to citizens of Ireland, Israel, or the Republic of the Philippines, or to nationals of those countries allied with the United States in a current defense effort, or to international broadcasters employed by the United States Information Agency, or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Nov. 19, 1995, Pub. L. 104–52, title VI, §606, 109 Stat. 497.
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §606\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–354.
 
-Sept. 30, 1994, Pub. L. 103–329, title VI, §606, 108 Stat. 2416.
+Pub. L. 104–52, title VI, §606, Nov. 19, 1995, 109 Stat. 497.
 
-Oct. 28, 1993, Pub. L. 103–123, title VI, §606, 107 Stat. 1259.
+Pub. L. 103–329, title VI, §606, Sept. 30, 1994, 108 Stat. 2416.
 
-Oct. 6, 1992, Pub. L. 102–393, title VI, §607, 106 Stat. 1766.
+Pub. L. 103–123, title VI, §606, Oct. 28, 1993, 107 Stat. 1259.
 
-Oct. 28, 1991, Pub. L. 102–141, title VI, §607, 105 Stat. 868.
+Pub. L. 102–393, title VI, §607, Oct. 6, 1992, 106 Stat. 1766.
 
-Nov. 5, 1990, Pub. L. 101–509, title VI, §603, 104 Stat. 1471.
+Pub. L. 102–141, title VI, §607, Oct. 28, 1991, 105 Stat. 868.
 
-Nov. 3, 1989, Pub. L. 101–136, title VI, §603, 103 Stat. 816.
+Pub. L. 101–509, title VI, §603, Nov. 5, 1990, 104 Stat. 1471.
 
-Sept. 22, 1988, Pub. L. 100–440, title VI, §603, 102 Stat. 1751.
+Pub. L. 101–136, title VI, §603, Nov. 3, 1989, 103 Stat. 816.
 
-Dec. 22, 1987, Pub. L. 100–202, §101(m) \[title VI, §603\], 101 Stat. 1329–390, 1329–419.
+Pub. L. 100–440, title VI, §603, Sept. 22, 1988, 102 Stat. 1751.
 
-Oct. 18, 1986, Pub. L. 99–500, §101(m) \[title VI, §603\], 100 Stat. 1783–308, 1783–328, and Oct. 30, 1986, Pub. L. 99–591, §101(m) \[title VI, §603\], 100 Stat. 3341–308, 3341–328.
+Pub. L. 100–202, §101(m) \[title VI, §603\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–419.
 
-Dec. 19, 1985, Pub. L. 99–190, title I, §101(h) \[H.R. 3036, title VI, §603\], 99 Stat. 1291.
+Pub. L. 99–500, §101(m) \[title VI, §603\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–328, and Pub. L. 99–591, §101(m) \[title VI, §603\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–328.
 
-Oct. 12, 1984, Pub. L. 98–473, title I, §101(j) \[H.R. 5798, title VI, §604\], 98 Stat. 1963.
+Pub. L. 99–190, title I, §101(h) \[H.R. 3036, title VI, §603\], Dec. 19, 1985, 99 Stat. 1291.
 
-Nov. 14, 1983, Pub. L. 98–151, §101(f) \[H.R. 4139, title VI, §603\], 97 Stat. 973.
+Pub. L. 98–473, title I, §101(j) \[H.R. 5798, title VI, §604\], Oct. 12, 1984, 98 Stat. 1963.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, §101(a) \[incorporating H.R. 4121, title VI, §603, for FY 1982\], 96 Stat. 1830.
+Pub. L. 98–151, §101(f) \[H.R. 4139, title VI, §603\], Nov. 14, 1983, 97 Stat. 973.
 
-Dec. 15, 1981, Pub. L. 97–92, §101(a) \[H.R. 4121, title VI, §603\], 95 Stat. 1183.
+Pub. L. 97–377, title I, §101(a) \[incorporating H.R. 4121, title VI, §603, for FY 1982\], Dec. 21, 1982, 96 Stat. 1830.
 
-Dec. 16, 1980, Pub. L. 96–536, §101(a) \[incorporating Pub. L. 96–74, title VI, §602\], 94 Stat. 3166.
+Pub. L. 97–92, §101(a) \[H.R. 4121, title VI, §603\], Dec. 15, 1981, 95 Stat. 1183.
 
-Sept. 29, 1979, Pub. L. 96–74, title VI, §602, 93 Stat. 574.
+Pub. L. 96–536, §101(a) \[incorporating Pub. L. 96–74, title VI, §602\], Dec. 16, 1980, 94 Stat. 3166.
 
-Oct. 10, 1978, Pub. L. 95–429, title VI, §602, 92 Stat. 1015.
+Pub. L. 96–74, title VI, §602, Sept. 29, 1979, 93 Stat. 574.
 
-July 31, 1977, Pub. L. 95–81, title VI, §602, 91 Stat. 354.
+Pub. L. 95–429, title VI, §602, Oct. 10, 1978, 92 Stat. 1015.
 
-Sept. 22, 1976, Pub. L. 94–419, title VII, §750, 90 Stat. 1299.
+Pub. L. 95–81, title VI, §602, July 31, 1977, 91 Stat. 354.
 
-July 14, 1976, Pub. L. 94–363, title VI, §602, 90 Stat. 977.
+Pub. L. 94–419, title VII, §750, Sept. 22, 1976, 90 Stat. 1299.
 
-Feb. 9, 1976, Pub. L. 94–212, title VII, §753, 90 Stat. 177.
+Pub. L. 94–363, title VI, §602, July 14, 1976, 90 Stat. 977.
 
-Aug. 9, 1975, Pub. L. 94–91, title VI, §602, 89 Stat. 458.
+Pub. L. 94–212, title VII, §753, Feb. 9, 1976, 90 Stat. 177.
 
-Aug. 21, 1974, Pub. L. 93–381, title VI, §602, 88 Stat. 630.
+Pub. L. 94–91, title VI, §602, Aug. 9, 1975, 89 Stat. 458.
 
-Oct. 30, 1973, Pub. L. 93–143, title VI, §602, 87 Stat. 524.
+Pub. L. 93–381, title VI, §602, Aug. 21, 1974, 88 Stat. 630.
 
-July 13, 1972, Pub. L. 92–351, title VI, §602, 86 Stat. 487.
+Pub. L. 93–143, title VI, §602, Oct. 30, 1973, 87 Stat. 524.
 
-July 9, 1971, Pub. L. 92–49, title VI, §602, 85 Stat. 122.
+Pub. L. 92–351, title VI, §602, July 13, 1972, 86 Stat. 487.
 
-Oct. 7, 1970, Pub. L. 91–439, title V, §502, 84 Stat. 902.
+Pub. L. 92–49, title VI, §602, July 9, 1971, 85 Stat. 122.
 
-Dec. 11, 1969, Pub. L. 91–144, title V, §502, 83 Stat. 336.
+Pub. L. 91–439, title V, §502, Oct. 7, 1970, 84 Stat. 902.
 
-Aug. 12, 1968, Pub. L. 90–479, title V, §502, 82 Stat. 717.
+Pub. L. 91–144, title V, §502, Dec. 11, 1969, 83 Stat. 336.
 
-Nov. 20, 1967, Pub. L. 90–147, title V, §502, 81 Stat. 483.
+Pub. L. 90–479, title V, §502, Aug. 12, 1968, 82 Stat. 717.
 
-Oct. 15, 1966, Pub. L. 89–689, title V, §502, 80 Stat. 1014.
+Pub. L. 90–147, title V, §502, Nov. 20, 1967, 81 Stat. 483.
 
-Oct. 28, 1965, Pub. L. 89–299, title V, §502, 79 Stat. 1108.
+Pub. L. 89–689, title V, §502, Oct. 15, 1966, 80 Stat. 1014.
 
-Aug. 30, 1964, Pub. L. 88–511, title V, §502, 78 Stat. 693.
+Pub. L. 89–299, title V, §502, Oct. 28, 1965, 79 Stat. 1108.
 
-Dec. 31, 1963, Pub. L. 88–257, title V, §502, 77 Stat. 855.
+Pub. L. 88–511, title V, §502, Aug. 30, 1964, 78 Stat. 693.
 
-Oct. 24, 1962, Pub. L. 87–880, title V, §502, 76 Stat. 1227.
+Pub. L. 88–257, title V, §502, Dec. 31, 1963, 77 Stat. 855.
 
-Aug. 3, 1961, Pub. L. 87–125, title V, §502, 75 Stat. 282.
+Pub. L. 87–880, title V, §502, Oct. 24, 1962, 76 Stat. 1227.
 
-July 12, 1960, Pub. L. 86–642, title II, §202, 74 Stat. 476.
+Pub. L. 87–125, title V, §502, Aug. 3, 1961, 75 Stat. 282.
 
-July 8, 1959, Pub. L. 86–79, title II, §202, 73 Stat. 165.
+Pub. L. 86–642, title II, §202, July 12, 1960, 74 Stat. 476.
 
-June 25, 1958, Pub. L. 85–468, title II, §202, 72 Stat. 224.
+Pub. L. 86–79, title II, §202, July 8, 1959, 73 Stat. 165.
 
-June 5, 1957, Pub. L. 85–48, title II, §202, 71 Stat. 53.
+Pub. L. 85–468, title II, §202, June 25, 1958, 72 Stat. 224.
+
+Pub. L. 85–48, title II, §202, June 5, 1957, 71 Stat. 53.
 
 June 13, 1956, ch. 385, title II, §202, 70 Stat. 280.
 
@@ -286,5 +288,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 3 section 107; title 25 section 2a.
+This section is referred to in title 3 section 107; title 10 section 10216; title 25 section 2a.
 

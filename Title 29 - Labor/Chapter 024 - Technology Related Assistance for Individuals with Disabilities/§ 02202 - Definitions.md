@@ -162,5 +162,5 @@ Pub. L. 103–218, §4(1), redesignated par. (8) as (14).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 706, 771a of this title; title 20 section 1431.
+This section is referred to in sections 706, 771a of this title.
 

@@ -4,7 +4,7 @@
 
 The Secretary may approve any plan developed by a State or local government, for the establishment of a prototype residential energy efficiency program, which is designed to demonstrate the feasibility, economics, and energy conserving potential of such program, if an application for such plan is submitted pursuant to section 8235b of this title, the application is approved pursuant to section 8235c of this title, and the plan provides for—
 
-&emsp;(1) the entering into a contract by a public utility with one or more persons not under the control of, and not affiliates or subsidiaries of, such utility for the implementation of a program to encourage energy conservation, including the supply and installation of the energy conservation measures as specified in such contract in residential buildings located in the portion of the utility's service area designated by the contract, which contract includes the provisions described in subsection (b) of this section;
+&emsp;(1) the entering into a contract by a public utility with one or more persons not under thecontrol of, and not affiliates or subsidiaries of, such utility for the implementation of a program to encourage energy conservation, including the supply and installation of the energy conservation measures as specified in such contract in residential buildings located in the portion of the utility's service area designated by the contract, which contract includes the provisions described in subsection (b) of this section;
 
 &emsp;(2) the selection by the public utility in a fair, open, and nondiscriminatory manner of the person or persons to contract with pursuant to paragraph (1);
 

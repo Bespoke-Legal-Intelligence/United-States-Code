@@ -2,7 +2,7 @@
 
 #### (a) Appointment of employees by Secretary of Senate to assist; termination of employment
 
-Upon the recommendation of a Senator-elect (other than an incumbent Senator or a Senator elected to fill a vacancy), the Secretary of the Senate shall appoint two employees to assist such Senator-elect. Any employee so appointed shall serve through the day before the date on which the Senator-elect recommending his appointment commences his service as a Senator, except that his employment may be terminated before such day upon recommendation of such Senator-elect.
+Upon the recommendation of a Senator-elect (other than an incumbent Senator or a Senator elected to fill a vacancy), the Secretary of theSenate shall appoint two employees to assist such Senator-elect. Any employee so appointed shall serve through the day before the date on which the Senator-elect recommending his appointment commences his service as a Senator, except that his employment may be terminated before such day upon recommendation of such Senator-elect.
 
 #### (b) Payment of salaries of appointed employees; funding; maximum amount
 
@@ -33,6 +33,4 @@ This section shall take effect on October 1, 1978.
 #### Senators’ Official Personnel and Office Expense Account
 
 References in any law, rule, regulation, or order to Senate appropriation account for Administrative, Clerical, and Legislative Assistance Allowance to Senators deemed references to the “Senators’ Official Personnel and Office Expense Account”, see section 58c(2) of this title.
-
-—
 

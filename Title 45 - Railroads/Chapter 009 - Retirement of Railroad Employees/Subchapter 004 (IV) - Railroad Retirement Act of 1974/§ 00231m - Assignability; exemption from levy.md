@@ -6,7 +6,7 @@
 
 (2) This section shall not operate to prohibit the characterization or treatment of that portion of an annuity under this subchapter which is not computed under section 231b(a), 231c(a), or 231c(f) of this title, or any portion of a supplemental annuity under this subchapter, as community property for the purposes of, or property subject to, distribution in accordance with a court decree of divorce, annulment, or legal separation or the terms of any court-approved property settlement incident to any such court decree. The Board shall make payments of such portions in accordance with any such characterization or treatment or any such decree or settlement.
 
-(Aug. 29, 1935, ch. 812, §14, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I, §101, 88 Stat. 1345; amended Aug. 12, 1983, Pub. L. 98–76, title IV, §419(a), 97 Stat. 438; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095.)
+(Aug. 29, 1935, ch. 812, §14, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1345; amended Pub. L. 98–76, title IV, §419(a), Aug. 12, 1983, 97 Stat. 438; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### Amendments
 

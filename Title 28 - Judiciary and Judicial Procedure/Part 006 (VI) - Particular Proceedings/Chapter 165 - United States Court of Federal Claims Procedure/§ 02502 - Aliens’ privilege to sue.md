@@ -1,10 +1,10 @@
 ### §2502. Aliens’ privilege to sue
 
-(a) Citizens or subjects of any foreign government which accords to citizens of the United States the right to prosecute claims against their government in its courts may sue the United States in the United States Court of Federal Claims if the subject matter of the suit is otherwise within such court's jurisdiction.
+(a) Citizens or subjects of any foreign government which accords to citizens of the UnitedStates the right to prosecute claims against their government in its courts may sue the United States in the United States Court of Federal Claims if the subject matter of the suit is otherwise within such court's jurisdiction.
 
 (b) See section 7422(f) of the Internal Revenue Code of 1986 for exception with respect to suits involving internal revenue taxes.
 
-(June 25, 1948, ch. 646, 62 Stat. 976; Nov. 2, 1966, Pub. L. 89–713, §3(b), 80 Stat. 1108; Apr. 2, 1982, Pub. L. 97–164, title I, §139(a), 96 Stat. 42; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 976; Pub. L. 89–713, §3(b), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 97–164, title I, §139(a), Apr. 2, 1982, 96 Stat. 42; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -18,13 +18,13 @@ Section 7422(f) of the Internal Revenue Code of 1986, referred to in subsec. (b)
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1982—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1966—Pub. L. 89–713 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1966</b>—Pub. L. 89–713 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 

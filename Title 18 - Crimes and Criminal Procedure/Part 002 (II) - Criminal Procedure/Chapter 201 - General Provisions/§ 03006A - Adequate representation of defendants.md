@@ -54,11 +54,11 @@ Payment for Representation.—
 
 (1)
 
-Hourly Rate.—Any attorney appointed pursuant to this section or a bar association or legal aid agency or community defender organization which has provided the appointed attorney shall, at the conclusion of the representation or any segment thereof, be compensated at a rate not exceeding $60 per hour for time expended in court or before a United States magistrate and $40 per hour for time reasonably expended out of court, unless the Judicial Conference determines that a higher rate of not in excess of $75 per hour is justified for a circuit or for particular districts within a circuit, for time expended in court or before a United States magistrate and for time expended out of court. The Judicial Conference shall develop guidelines for determining the maximum hourly rates for each circuit in accordance with the preceding sentence, with variations by district, where appropriate, taking into account such factors as the minimum range of the prevailing hourly rates for qualified attorneys in the district in which the representation is provided and the recommendations of the judicial councils of the circuits. Not less than 3 years after the effective date of the Criminal Justice Act Revision of 1986, the Judicial Conference is authorized to raise the maximum hourly rates specified in this paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay under the General Schedule made pursuant to section 5305 <sup>1</sup> of title 5 on or aftersuch effective date. After the rates are raised under the preceding sentence, such maximum hourly rates may be raised at intervals of not less than 1 year each, up to the aggregate of the overall average percentages of such adjustments made since the last raise was made under this paragraph. Attorneys shall be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court.
+Hourly Rate.—Any attorney appointed pursuant to this section or a bar association or legal aid agency or community defender organization which has provided the appointed attorney shall, at the conclusion of the representation or any segment thereof, be compensated at a rate not exceeding $60 per hour for time expended in court or before a United States magistrate and $40 per hour for time reasonably expended out of court, unless the Judicial Conference determines that a higher rate of not in excess of $75 per hour is justified for a circuit or for particular districts within a circuit, for time expended in court or before a United States magistrate and for time expended out of court. The Judicial Conference shall develop guidelines for determining the maximum hourly rates for each circuit in accordance with the preceding sentence, with variations by district, where appropriate, taking into account such factors as the minimum range of the prevailing hourly rates for qualified attorneys in the district in which the representation is provided and the recommendations of the judicial councils of the circuits. Not less than 3 years after the effective date of the Criminal Justice Act Revision of 1986, the Judicial Conference is authorized to raise the maximum hourly rates specified in this paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay under the General Schedule made pursuant to section 5305 <sup>1</sup> of title 5 on or after such effective date. After the rates are raised under the preceding sentence, such maximum hourly rates may be raised at intervals of not less than 1 year each, up to the aggregate of the overall average percentages of such adjustments made since the last raise was made under this paragraph. Attorneys shall be reimbursed for expenses reasonably incurred, including the costs of transcripts authorized by the United States magistrate or the court.
 
 (2)
 
-Maximum Amounts.—For representation of a defendant before the United States magistrate or the district court, or both, the compensation to be paid to an attorney or to a bar association or legal aid agency or community defender organization shall not exceed $3,500 for each attorney in a case in which one or more felonies are charged, and $1,000 for each attorney in a case in which only misdemeanors are charged. For representation of a defendant in an appellate court, the compensation to be paid to an attorney or to a bar association or legal aid agency or community defender organization shall not exceed $2,500 for each attorney in each court. For representation of an offender before the United States Parole Commission in a proceeding under section 4106A of this title, the compensation shall not exceed $750 for each attorney in each proceeding; for representation of an offender in an appeal from a determination of such Commission under such section, the compensation shall not exceed $2,500 for each attorney in each court. For any other representation required or authorized by this section, the compensation shall not exceed $750 for each attorney in each proceeding.
+Maximum Amounts.—For representation of a defendant before the United States magistrate or the district court, or both, the compensation to be paid to an attorney or to a bar association or legal aid agency or community defender organization shall not exceed $3,500 for each attorney in a case in which one or more felonies are charged, and $1,000 for each attorney in a case inwhich only misdemeanors are charged. For representation of a defendant in an appellate court, the compensation to be paid to an attorney or to a bar association or legal aid agency or community defender organization shall not exceed $2,500 for each attorney in each court. For representation of an offender before the United States Parole Commission in a proceeding under section 4106A of this title, the compensation shall not exceed $750 for each attorney in each proceeding; for representation of an offender in an appeal from a determination of such Commission under such section, the compensation shall not exceed $2,500 for each attorney in each court. For any other representation required or authorized by this section, the compensation shall not exceed $750 for each attorney in each proceeding.
 
 (3)
 
@@ -66,7 +66,79 @@ Waiving Maximum Amounts.—Payment in excess of any maximum amount provided in p
 
 (4)
 
-Disclosure of fees.—The amounts paid under this subsection, for representation in any case, shall be made available to the public.
+Disclosure of fees.—
+
+&emsp;(A)
+
+In general.—Subject to subparagraphs (B) through (E), the amounts paid under this subsection for services in any case shall be made available to the public by the court upon the court's approval of the payment.
+
+&emsp;(B)
+
+Pre-trial or trial in progress.—If a trial is in pre-trial status or still in progress and after considering the defendant's interests as set forth in subparagraph (D), the court shall—
+
+&emsp;&emsp;(i) redact any detailed information on the payment voucher provided by defense counsel to justify the expenses to the court; and
+
+&emsp;&emsp;(ii) make public only the amounts approved for payment to defense counsel by dividing those amounts into the following categories:
+
+&emsp;&emsp;&emsp;(I) Arraignment and or plea.
+
+&emsp;&emsp;&emsp;(II) Bail and detention hearings.
+
+&emsp;&emsp;&emsp;(III) Motions.
+
+&emsp;&emsp;&emsp;(IV) Hearings.
+
+&emsp;&emsp;&emsp;(V) Interviews and conferences.
+
+&emsp;&emsp;&emsp;(VI) Obtaining and reviewing records.
+
+&emsp;&emsp;&emsp;(VII) Legal research and brief writing.
+
+&emsp;&emsp;&emsp;(VIII) Travel time.
+
+&emsp;&emsp;&emsp;(IX) Investigative work.
+
+&emsp;&emsp;&emsp;(X) Experts.
+
+&emsp;&emsp;&emsp;(XI) Trial and appeals.
+
+&emsp;&emsp;&emsp;(XII) Other.
+
+&emsp;(C)
+
+Trial completed.—
+
+&emsp;&emsp;(i)
+
+In general.—If a request for payment is not submitted until after the completion of the trial and subject to consideration of the defendant's interests as set forth in subparagraph (D), the court shall make available to the public an unredacted copy of the expense voucher.
+
+&emsp;&emsp;(ii)
+
+Protection of the rights of the defendant.—If the court determines that defendant's interests as set forth in subparagraph (D) require a limited disclosure, the court shall disclose amounts as provided in subparagraph (B).
+
+&emsp;(D)
+
+Considerations.—The interests referred to in subparagraphs (B) and (C) are—
+
+&emsp;&emsp;(i) to protect any person's 5th amendment right against self-incrimination;
+
+&emsp;&emsp;(ii) to protect the defendant's 6th amendment rights to effective assistance of counsel;
+
+&emsp;&emsp;(iii) the defendant's attorney-client privilege;
+
+&emsp;&emsp;(iv) the work product privilege of the defendant's counsel;
+
+&emsp;&emsp;(v) the safety of any person; and
+
+&emsp;&emsp;(vi) any other interest that justice may require.
+
+&emsp;(E)
+
+Notice.—The court shall provide reasonable notice of disclosure to the counsel of the defendant prior to the approval of the payments in order to allow the counsel to request redaction based on the considerations set forth in subparagraph (D). Upon completion of the trial, the court shall release unredacted copies of the vouchers provided by defense counsel to justify the expenses to the court. If there is an appeal, the court shall not release unredacted copies of the vouchers provided by defense counsel to justify the expenses to the court until such time as the appeals process is completed, unless the court determines that none of the defendant's interests set forth in subparagraph (D) will be compromised.
+
+&emsp;(F)
+
+Effective date.—The amendment made by paragraph (4) shall become effective 60 days after enactment of this Act, will apply only to cases filed on or after the effective date, and shall be in effect for no longer than 24 months after the effective date.
 
 (5)
 
@@ -104,7 +176,7 @@ Disclosure of fees.—The amounts paid under this subsection for services in any
 
 (f)
 
-Receipt of Other Payments.—Whenever the United States magistrate or the court findsthat funds are available for payment from or on behalf of a person furnished representation, it may authorize or direct that such funds be paid to the appointed attorney, to the bar association or legal aid agency or community defender organization which provided the appointed attorney, to any person or organization authorized pursuant to subsection (e) to render investigative, expert, or other services, or to the court for deposit in the Treasury as a reimbursement to the appropriation, current at the time of payment, to carry out the provisions of this section. Except as so authorized or directed, no such person or organization may request or accept any payment or promise of payment for representing a defendant.
+Receipt of Other Payments.—Whenever the United States magistrate or the court finds that funds are available for payment from or on behalf of a person furnished representation, it may authorize or direct that such funds be paid to the appointed attorney, to the bar association or legal aid agency or community defender organization which provided the appointed attorney, to any person or organization authorized pursuant to subsection (e) to render investigative, expert, or other services, or to the court for deposit in the Treasury as a reimbursement to the appropriation, current at the time of payment, to carry out the provisions of this section. Except as so authorized or directed, no such person or organization may request or accept any payment or promise of payment for representing a defendant.
 
 (g)
 
@@ -136,7 +208,7 @@ Malpractice and Negligence Suits.—The Director of the Administrative Office of
 
 (h)
 
-Rules and Reports.—Each district court and court of appeals of a circuit shall submit a report on the appointment of counsel within its jurisdiction to the Administrative Office of the United States Courts in such form and at such times as the Judicial Conference of the UnitedStates may specify. The Judicial Conference of the United States may, from time to time, issue rules and regulations governing the operation of plans formulated under this section.
+Rules and Reports.—Each district court and court of appeals of a circuit shall submit a report on the appointment of counsel within its jurisdiction to the Administrative Office of the United States Courts in such form and at such times as the Judicial Conference of the United States may specify. The Judicial Conference of the United States may, from time to time, issue rules and regulations governing the operation of plans formulated under this section.
 
 (i)
 
@@ -150,7 +222,7 @@ Districts Included.—As used in this section, the term “district court” mea
 
 Applicability in the District of Columbia.—The provisions of this section shall apply in the United States District Court for the District of Columbia and the United States Court of Appeals for the District of Columbia Circuit. The provisions of this section shall not apply to the Superior Court of the District of Columbia and the District of Columbia Court of Appeals.
 
-(Added Pub. L. 88–455, §2, Aug. 20, 1964, 78 Stat. 552; amended Pub. L. 90–578, title III, §301(a)(1), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 91–447, §1, Oct. 14, 1970, 84 Stat. 916; Pub. L. 93–412, §3, Sept. 3, 1974, 88 Stat. 1093; Pub. L. 97–164, title II, §206(a), (b), Apr. 2, 1982, 96 Stat. 53; Pub. L. 98–473, title II, §§223(e), 405, 1901, Oct. 12, 1984, 98 Stat. 2028, 2067, 2185; Pub. L. 99–651, title I, §§102, 103, Nov. 14, 1986, 100 Stat. 3642, 3645; Pub. L. 100–182, §19, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 100–690, title VII, §7101(f), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 104–132, title IX, §903(a), Apr. 24, 1996, 110 Stat. 1318.)
+(Added Pub. L. 88–455, §2, Aug. 20, 1964, 78 Stat. 552; amended Pub. L. 90–578, title III, §301(a)(1), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 91–447, §1, Oct. 14, 1970, 84 Stat. 916; Pub. L. 93–412, §3, Sept. 3, 1974, 88 Stat. 1093; Pub. L. 97–164, title II, §206(a), (b), Apr. 2, 1982, 96 Stat. 53; Pub. L. 98–473, title II, §§223(e), 405, 1901, Oct. 12, 1984, 98 Stat. 2028, 2067, 2185; Pub. L. 99–651, title I, §§102, 103, Nov. 14, 1986, 100 Stat. 3642, 3645; Pub. L. 100–182, §19, Dec. 7, 1987, 101 Stat. 1270; Pub. L. 100–690, title VII, §7101(f), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 104–132, title IX, §903(a), Apr. 24, 1996, 110 Stat. 1318; Pub. L. 105–119, title III, §308, Nov. 26, 1997, 111 Stat. 2493.)
 
 #### References in Text
 
@@ -158,9 +230,15 @@ The effective date of the Criminal Justice Act Revision of 1986, referred to in 
 
 Section 5305 of title 5, referred to in subsec. (d)(1), was amended generally by Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1436, and, as so amended, does not relate to adjustments in the rate of pay under the General Schedule. See section 5303 of Title 5, Government Organization and Employees.
 
+The amendment made by paragraph (4), referred to in subsec. (d)(4)(F), probably means the amendment by section 308 of Pub. L. 105–119, which struck out former par. (4) of subsec. (d) and inserted the new par. (4).
+
+Enactment of this Act, referred to in subsec. (d)(4)(F), probably means the date of enactment of Pub. L. 105–119, which enacted subsec. (d)(4) of this section and was approved Nov. 26, 1997.
+
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g)(2)(A), are classified to section 3301 et seq. of Title 5.
 
 #### Amendments
+
+1997—Subsec. (d)(4). Pub. L. 105–119 reenacted par. heading without change and amended text generally. Prior to amendment, text read as follows: “The amounts paid under this subsection, for representation in any case, shall be made available to the public.”
 
 1996—Subsec. (d)(4) to (7). Pub. L. 104–132, §903(a)(1), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
@@ -168,7 +246,7 @@ Subsec. (e)(4). Pub. L. 104–132, §903(a)(2), added par. (4).
 
 1988—Subsec. (a)(1)(J). Pub. L. 100–690, §7101(f)(1), added subpar. (J).
 
-Subsec. (d)(2). Pub. L. 100–690, §7101(f)(2), inserted provisions at end to representation of offender before United States Parole Commission, and in appeal from determination of such Commission.
+Subsec. (d)(2). Pub. L. 100–690, §7101(f)(2), inserted provisions at end to representation of offender beforeUnited States Parole Commission, and in appeal from determination of such Commission.
 
 1987—Subsec. (a)(1)(E) to (I). Pub. L. 100–182 added subpar. (E) and redesignated former subpars. (E) to (H) as (F) to (I), respectively.
 
@@ -184,7 +262,7 @@ Subsec. (b). Pub. L. 99–651, §102(a)(2), substituted “In every case in whic
 
 Subsec. (d)(1). Pub. L. 99–651, §102(a)(3)(A), substituted “court, unless the Judicial Conference determines that a higher rate of not in excess of $75 per hour is justified for a circuit or for particular districts within a circuit, for time expended in court or before a United States magistrate and for time expended out of court. The Judicial Conference shall develop guidelines for determining the maximum hourly rates for each circuit in accordance with the preceding sentence, with variations by district, where appropriate, taking into account such factors as the minimum range of the prevailing hourly rates for qualified attorneys in the district in which the representation is provided and the recommendations of the judicial councils of the circuits. Not less than 3 years after the effective date of the Criminal Justice Act Revision of 1986, the Judicial Conference is authorized to raise the maximum hourly rates specified in this paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay under the General Schedule made pursuant to section 5305 of title 5 on or after such effective date. After the rates are raised under the preceding sentence, such maximum hourly rates may be raised at intervals of not less than 1 year each, up to the aggregate of the overall average percentages of such adjustments made since the last raise was made under this paragraph. Attorneys” for “court. Such attorney”.
 
-Subsec. (d)(2). Pub. L. 99–651, §102(a)(3)(B), substituted “$3,500” for “$2,000”, “$1,000” for “$800”, “$2,500” for“$2,000”, and substituted provision that for any other representation required or authorized by this section, the compensation shall not exceed $750 for each attorney in each proceeding, for provision that for representation in connection with a post-trial motion made after the entry of judgment or in a probation revocation proceeding or for representation provided under subsection (g) the compensation could not exceed $500 for each attorney in each proceeding in each court.
+Subsec. (d)(2). Pub. L. 99–651, §102(a)(3)(B), substituted “$3,500” for “$2,000”, “$1,000” for “$800”, “$2,500” for “$2,000”, and substituted provision that for any other representation required or authorized by this section, the compensation shall not exceed $750 for each attorney in each proceeding, for provision that for representation in connection with a post-trial motion made after the entry of judgment or in a probation revocation proceeding or for representation provided under subsection (g) the compensation could not exceed $500 for each attorney in each proceeding in each court.
 
 Subsec. (d)(3). Pub. L. 99–651, §102(a)(3)(C), inserted provision that the chief judge of the circuit may delegate such approval authority to an active circuit judge.
 
@@ -238,7 +316,7 @@ Subsec. (b). Pub. L. 91–447, §1(a), provided for appointment of counsel from 
 
 Subsec. (c). Pub. L. 91–447, §1(a), expanded the scope of representation by appointed counsel to include ancillary matters appropriate to the proceedings.
 
-Subsec. (d). Pub. L. 91–447, §1(a), raised the rate of compensation not to exceed $30 per hour for time expended in court and $20 per hour for time reasonably expended out of court, increased the limit to $1,000 for each attorney in a case involving one or more alleged felonies and $400 for each attorney in a case in which one or more misdemeanors are charged, established a $1,000 maximum for each attorney in each court for cases on appeal and provided a $250 maximum for each attorney for representation in connection with a post-trial motion, probation revocation proceedings and matters covered by subsec. (g) such as parole revocation and collateral relief proceedings, provided for waiver of maximum amounts and payment in excess of those amounts for extended or complex representation upon approval of the chief judge of the circuit, provided for separate claims of compensation to be submitted to the appropriate court, thus a U.S. magistrate fixes compensation in cases before him, appellate court fixescompensation in cases before it and in all other instances claims are to be made to the district court, provided a court order granting a new trial is deemed to initiate a new case for the purpose of compensation, and facilitate appellate proceedings by allowing a defendant for whom counsel is appointed to appeal or petition for a writ of certiorari without prepayment of fees and cost of security therefore and without filing the affidavit required by section 1915(a).
+Subsec. (d). Pub. L. 91–447, §1(a), raised the rate of compensation not to exceed $30 per hour for time expended in court and $20 per hour for time reasonably expended out of court, increased the limit to $1,000 for each attorney in a case involving one or more alleged felonies and $400 for each attorney in a case in which one or more misdemeanors are charged, established a $1,000 maximum for each attorney in each court for cases on appeal and provided a $250 maximum for each attorney for representation in connection with a post-trial motion, probation revocation proceedings and matters covered by subsec. (g) such as parole revocation and collateral relief proceedings, provided for waiver of maximum amounts and payment in excess of those amounts for extended or complex representation upon approval of the chief judge of the circuit, provided for separate claims of compensation to be submitted to the appropriate court, thus a U.S. magistrate fixes compensation in cases before him, appellate court fixes compensation in cases before it and in all other instances claims are to be made to the district court, provided a court order granting a new trial is deemed to initiate a new case for the purpose of compensation, and facilitate appellate proceedings by allowing a defendant for whom counsel is appointed to appeal or petition for a writ of certiorari without prepayment of fees and cost of security therefore and without filing the affidavit required by section 1915(a).
 
 Subsec. (e). Pub. L. 91–447, §1(a), limited to $150, plus reasonable expenses, subject to later review and approval by the court, the cost of investigative, expert, or other services necessary for an adequate defense where these services are obtained without prior authorization because circumstances prevented counsel from securing prior court authorization, maintained existing limit on payment for authorized services at a $300 maximum but permitted waiver of that maximum if the court certifies that payment in excess of that limit is necessary to provide fair compensation, and provided that the amount of any excess payment must be approved by the chief judge of the circuit.
 
@@ -268,7 +346,7 @@ Section 26 of Pub. L. 100–182 provided that: “The amendments made by this Ac
 
 #### Effective Date of 1986 Amendment
 
-Section 105 of title I of Pub. L. 99–651 provided that: “This title and the amendments made by this title \[amending this section and section 1825 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect one hundred and twenty days after the date of enactment of this Act \[Nov. 14, 1986\]. The maximum hourly rates provided in section 3006A(d)(1) of title 18, United States Code, as amended by section 102(a)(3)(A) of this Act, shall apply only to services performed on or after the effective date of this title. The maximum allowed for compensation for a case, as provided in section 3006A(d)(2) of title 18, United States Code, as amended by section 102(a)(3)(B) of this Act, shall apply only to compensation claims in which some portion of the claim is for services performed on or after the effective date of this title. The maximum compensation allowed pursuant to section 3006A(e) of title 18, United States Code, as amended by subparagraphs (B) and (C) of section 102(a)(4) of this Act, shall apply only to services obtained on or after the effective date of this title.”
+Section 105 of title I of Pub. L. 99–651 provided that: “This title and the amendments made by this title \[amending this section and section 1825 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect one hundred and twenty days after the date of enactment of this Act \[Nov. 14, 1986\]. The maximum hourly rates provided in section 3006A(d)(1) of title 18, United States Code, as amended by section 102(a)(3)(A) of this Act, shall apply only to services performed on or after the effective date of this title. The maximum allowed for compensation for a case, as provided in section 3006A(d)(2) of title 18, United States Code, as amended by section 102(a)(3)(B) of this Act, shall apply only tocompensation claims in which some portion of the claim is for services performed on or after the effective date of this title. The maximum compensation allowed pursuant to section 3006A(e) of title 18, United States Code, as amended by subparagraphs (B) and (C) of section 102(a)(4) of this Act, shall apply only to services obtained on or after the effective date of this title.”
 
 #### Effective Date of 1984 Amendment
 
@@ -306,9 +384,13 @@ Section 1 of Pub. L. 88–455 provided: “That this Act \[enacting this section
 
 Section 206(c) of Pub. L. 97–164 provided that: “The amendments made by subsection (a) of this section \[amending subsec. (h)(2)(A) of this section\] shall not affect the term of existing appointments.”
 
+#### Award of Attorney's Fees and Litigation Expenses to Defense
+
+Section 617 of Pub. L. 105–119 provided that: “During fiscal year 1998 and in any fiscal year thereafter, the court, in any criminal case (other than a case in which the defendant is represented by assigned counsel paid for by the public) pending on or after the date of the enactment of this Act \[Nov. 26, 1997\], may award to a prevailing party, other than the United States, a reasonable attorney's fee and other litigation expenses, where the court finds that the position of the United States was vexatious, frivolous, or in bad faith, unless the court finds that special circumstances make such an award unjust. Such awards shall be granted pursuant to the procedures and limitations (but not the burden of proof) provided for an award under section 2412 of title 28, United States Code. To determine whether or not to award fees and costs under this section, the court, for good cause shown, may receive evidence ex parte and in camera (which shall include the submission of classified evidence or evidence that reveals or might reveal the identity of an informant or undercover agent or matters occurring before a grand jury) and evidence or testimony so received shall be kept under seal. Fees and other expenses awarded under this provision to a party shall be paid by the agency over which the party prevails from any funds made available to the agency by appropriation. No new appropriations shall be made as a result of this provision.”
+
 #### Government Rates of Travel for Criminal Justice Act Attorneys and Experts
 
-Pub. L. 102–572, title VII, §702, Oct. 29, 1992, 106 Stat. 4515, provided that: “The Administrator of General Services, in entering into contracts providing for special rates to be charged by Federal Government sources of supply, including common carriers and hotels (orother commercial providers of lodging) for official travel and accommodation of Federal Government employees, shall provide for charging the same rates for attorneys, experts, and other persons traveling primarily in connection with carrying out responsibilities under section 3006A of title 18, United States Code, including community defender organizations established under subsection (g) of that section.”
+Pub. L. 102–572, title VII, §702, Oct. 29, 1992, 106 Stat. 4515, provided that: “The Administrator of General Services, in entering into contracts providing for special rates to be charged by Federal Government sources of supply, including common carriers and hotels (or other commercial providers of lodging) for official travel and accommodation of Federal Government employees, shall provide for charging the same rates for attorneys, experts, and other persons traveling primarily in connection with carrying out responsibilities under section 3006A of title 18, United States Code, including community defender organizations established under subsection (g) of that section.”
 
 #### Study of Federal Defender Program
 
@@ -324,7 +406,7 @@ Section 5(c) of Pub. L. 95–144, Oct. 28, 1977, 91 Stat. 1222, provided that: �
 
 #### Power and Function of a United States Commissioner
 
-Section 2 of Pub. L. 91–447 provided that: “A United States commissioner \[now magistrate judge\] for a district may exercise any power, function, or duty authorized to be performed by a United States magistrate \[now magistrate judge\] under the amendments made by section 1 of this Act \[amending this section\] if such commissioner had authority to perform such power, function, or duty prior to the enactment of such amendments.”
+Section 2 of Pub. L. 91–447 provided that: “A United States commissioner \[now magistrate judge\] for a district may exercise any power, function, or duty authorized to be performed by a United States magistrate \[now magistrate judge\] under the amendments made bysection 1 of this Act \[amending this section\] if such commissioner had authority to perform such power, function, or duty prior to the enactment of such amendments.”
 
 #### Submission of Plans
 
@@ -332,7 +414,7 @@ Section 3 of Pub. L. 88–455 directed each district court to submit a plan in a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3162, 3626, 4109, 4247 of this title; title 8 section 1534; title 10 section 876b; title 28 sections 753, 1825, 1875, 2254, 2255; title 48 section 1824.
+This section is referred to in sections 3162, 3626, 4109, 4247 of this title; title 8 section 1534; title 10 section 876b; title 28 sections 753, 1825, 1875, 2254, 2255; title 42 section 1997e; title 48 section 1824.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

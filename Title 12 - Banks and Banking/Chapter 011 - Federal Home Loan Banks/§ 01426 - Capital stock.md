@@ -2,7 +2,7 @@
 
 #### (a) Par value of shares
 
-The capital stock of each Federal Home Loan Bank shall be divided into shares of a par value of $100 each. The minimum capital stock shall be issued at par. Stock issued thereafter shall beissued at such price not less than par as may be fixed by the Board.
+The capital stock of each Federal Home Loan Bank shall be divided into shares of a par value of $100 each. The minimum capital stock shall be issued at par. Stock issued thereafter shall be issued at such price not less than par as may be fixed by the Board.
 
 #### (b) Minimum subscriptions; retirement of oversubscriptions; limitations; cancellation of oversubscriptions; aggregate unpaid loan principal; reports and information
 
@@ -18,7 +18,7 @@ The capital stock of each Federal Home Loan Bank shall be divided into shares of
 
 #### (c) Payments for stock
 
-Stock subscriptions other than by the United States shall be paid for in cash, and shall be paid for at the time of application therefor, or, at the election of the subscriber, in installments, but not less than one-fourth of the total amount payable shall be paid at the time of filing application, and a further sum of not less than one-fourth of such total shall have been paid at the end of each succeeding period of four months.
+Stock subscriptions other than by the United States shall be paid for in cash, and shall be paidfor at the time of application therefor, or, at the election of the subscriber, in installments, but not less than one-fourth of the total amount payable shall be paid at the time of filing application, and a further sum of not less than one-fourth of such total shall have been paid at the end of each succeeding period of four months.
 
 #### (d) Transfer or hypothecation of stock
 
@@ -30,7 +30,7 @@ Any member other than a Federal savings and loan association may withdraw from m
 
 #### (f) Disposal of stock
 
-A Federal Home Loan Bank may, with the approval of the Board, permit the disposal of stock to another member, or to an institution eligibleto become a member, but only to enable such an institution to become a member.
+A Federal Home Loan Bank may, with the approval of the Board, permit the disposal of stock to another member, or to an institution eligible to become a member, but only to enable such an institution to become a member.
 
 #### (g) Dividends
 
@@ -40,7 +40,7 @@ All stock of any Federal Home Loan Bank shall share in dividend distributions wi
 
 Notwithstanding any other provision of this chapter, an institution which withdraws from membership may acquire membership in any Federal Home Loan Bank only after the expiration of a period of 10 years thereafter, except where such withdrawal is a consequence of a transfer of membership on a non-interrupted basis between banks or in connection with obtaining a charter as a Federal savings association (as defined in section 1813 of this title).
 
-(July 22, 1932, ch. 522, §6, 47 Stat. 727; June 27, 1934, ch. 847, §509, 48 Stat. 1264; May 28, 1935, ch. 150, §2, 49 Stat. 293; June 27, 1950, ch. 369, §2, 64 Stat. 257; Aug. 11, 1955, ch. 783, title I, §109(a)(1), 69 Stat. 640; Sept. 8, 1961, Pub. L. 87–210, §§1, 2, 75 Stat. 482, 483; Dec. 21, 1979, Pub. L. 96–153, title III, §327, 93 Stat. 1121; Oct. 15, 1982, Pub. L. 97–320, title III, §§353, 355, 96 Stat. 1507, 1508; Jan. 12, 1983, Pub. L. 97–457, §16, 96 Stat. 2509; Aug. 9, 1989, Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 706, 710(b)(2), (3), 715, 103 Stat. 412, 416, 418, 421.)
+(July 22, 1932, ch. 522, §6, 47 Stat. 727; June 27, 1934, ch. 847, §509, 48 Stat. 1264; May 28, 1935, ch. 150, §2, 49 Stat. 293; June 27, 1950, ch. 369, §2, 64 Stat. 257; Aug. 11, 1955, ch. 783, title I, §109(a)(1), 69 Stat. 640; Pub. L. 87–210, §§1, 2, Sept. 8, 1961, 75 Stat. 482, 483; Pub. L. 96–153, title III, §327, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 97–320, title III, §§353, 355, Oct. 15, 1982, 96 Stat. 1507, 1508; Pub. L. 97–457, §16, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 706, 710(b)(2), (3), 715, Aug. 9, 1989, 103 Stat. 412, 416, 418, 421.)
 
 #### Amendments
 
@@ -56,7 +56,7 @@ Pub. L. 101–73, §710(b)(2), struck out “or nonmember borrower” after “s
 
 Pub. L. 101–73, §706(2), substituted “If any member's membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the Federal Home Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment.” for “In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment.”
 
-Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted “Board” for “board” wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
+Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted “Board” for “board”wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
 
 Subsec. (f). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (j) as (f), substituted “Board” for “board”, and struck out former subsec. (f) which related to subscription by United States, maximum amounts, and payments.
 

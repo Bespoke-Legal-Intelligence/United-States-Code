@@ -24,7 +24,7 @@ The Secretary shall establish a wetlands reserve program to assist owners of eli
 
 #### (B) Temporary easements
 
-&emsp;&emsp;Effective beginning October 1, 1996, the Secretary shall not enroll acres in the wetlands reserve program through the use of new permanent easements until the Secretary has enrolled at least 75,000 acres in the program through the use of temporary easements.
+&emsp;&emsp;Effective beginning October 1, 1996, the Secretary shall not enroll acres in the wetlands reserve program through the use of new permanent easements until the Secretary has enrolled at least 75,000 acres inthe program through the use of temporary easements.
 
 #### (c) Eligibility
 
@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 104–127, §333(c), in introductory provisions, inserted �
 
 1993—Subsec. (b). Pub. L. 103–66, §1402(c)(1), added subsec. (b) and struck out former subsec. (b) “
 
-Number of Acres” which read as follows: “To the extent practicable, the Secretary shall attempt to enroll into the wetlands reserve program, 1,000,000 acres of land during the 1991 through 1995 calendar years; except that the Secretary may not enroll more than 200,000 acres in1991, 400,000 acres in the 1991 to 1992 period, 600,000 acres in the 1991 to 1993 period, 800,000 acres in the 1991 to 1994 period, and 1,000,000 acres in the 1991 to 1995 period.”
+Number of Acres” which read as follows: “To the extent practicable, the Secretary shall attempt to enroll into the wetlands reserve program, 1,000,000 acres of land during the 1991 through 1995 calendar years; except that the Secretary may not enroll more than 200,000 acres in 1991, 400,000 acres in the 1991 to 1992 period, 600,000 acres in the 1991 to 1993 period, 800,000 acres in the 1991 to 1994 period, and 1,000,000 acres in the 1991 to 1995 period.”
 
 Subsec. (c). Pub. L. 103–66, §1402(c)(2), substituted “2000” for “1995”.
 

@@ -2,5 +2,5 @@
 
 There are authorized to be appropriated such sums as may be necessary to enable the Commission and the Treasury Department to pay their administrative expenses incurred in carrying out their functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title IV, §417, as added Aug. 8, 1958, Pub. L. 85–604, §1, 72 Stat. 530.)
+(Mar. 10, 1950, ch. 54, title IV, §417, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 530.)
 

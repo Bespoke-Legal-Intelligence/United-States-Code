@@ -90,7 +90,7 @@ Not earlier than five years after December 2, 1980, and not later than five year
 
 &emsp;(5) an evaluation of how such oil and gas relates to the national need for additional domestic sources of oil and gas; and
 
-&emsp;(6) the recommendations of the Secretary with respect to whether further exploration for, and the development and production of, oil and gas within the coastal plain should bepermitted and, if so, what additional legal authority is necessary to ensure that the adverse effects of such activities on fish and wildlife, their habitats, and other resources are avoided or minimized.
+&emsp;(6) the recommendations of the Secretary with respect to whether further exploration for, and the development and production of, oil and gas within the coastal plain should be permitted and, if so, what additional legal authority is necessary to ensure that the adverse effects of such activities on fish and wildlife, their habitats, and other resources are avoided or minimized.
 
 #### (i) Effect of other laws
 

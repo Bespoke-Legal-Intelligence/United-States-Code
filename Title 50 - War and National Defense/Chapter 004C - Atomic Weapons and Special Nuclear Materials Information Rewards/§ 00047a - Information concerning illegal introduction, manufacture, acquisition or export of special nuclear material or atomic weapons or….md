@@ -10,7 +10,7 @@ Any person who furnishes original information to the United States—
 
 > shall be rewarded by the payment of an amount not to exceed $500,000.
 
-(July 15, 1955, ch. 372, §2, 69 Stat. 365; Aug. 17, 1974, Pub. L. 93–377, §1(b), 88 Stat. 472.)
+(July 15, 1955, ch. 372, §2, 69 Stat. 365; Pub. L. 93–377, §1(b), Aug. 17, 1974, 88 Stat. 472.)
 
 #### Amendments
 

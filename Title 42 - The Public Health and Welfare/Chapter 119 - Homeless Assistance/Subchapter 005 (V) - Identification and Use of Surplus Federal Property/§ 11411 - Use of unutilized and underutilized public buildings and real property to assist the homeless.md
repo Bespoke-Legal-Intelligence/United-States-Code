@@ -46,7 +46,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (C) The Secretary shall make available to the public upon request all information in the possession of the Department of Housing and Urban Development (other than valuation information), regardless of format, about all properties reviewed and not identified as being suitable for use to assist the homeless, including the reasons such properties were not so identified.
 
-(D) The Secretary shall publish separately, on an annual basis, all properties identified as being suitable for use to assist the homeless, but reported to be unavailable, and the reasons such properties were unavailable.
+(D) The Secretary shall publish separately, on an annual basis, all properties identified asbeing suitable for use to assist the homeless, but reported to be unavailable, and the reasons such properties were unavailable.
 
 (2)(A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1) of this section, the Secretary shall transmit a copy of the list of available properties published under paragraph (1)(A)(ii) to the Interagency Council on the Homeless. The Council shall immediately distribute to all State and regional homeless coordinators area-relevant portions of the list.
 
@@ -198,7 +198,7 @@ Report.—The Secretary of Housing and Urban Development shall submit to the Con
 
 #### Unutilized and Underutilized Property for Purposes of 1990 Amendment
 
-Section 401(c) of Pub. L. 101–645 provided that: “For purposes of section 501 of the Stewart B. McKinneyHomeless Assistance Act (42 U.S.C. 11411) (as amended by this Act) the terms ‘unutilized’ and ‘underutilized’ when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501.”
+Section 401(c) of Pub. L. 101–645 provided that: “For purposes of section 501 of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11411) (as amended by this Act) the terms ‘unutilized’ and ‘underutilized’ when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501.”
 
 #### Section Referred to in Other Sections
 

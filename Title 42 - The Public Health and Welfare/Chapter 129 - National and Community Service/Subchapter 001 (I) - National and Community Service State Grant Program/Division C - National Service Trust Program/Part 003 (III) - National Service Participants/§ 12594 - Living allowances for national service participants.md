@@ -52,11 +52,11 @@ A professional corps program described in section 12572(a)(8) of this title that
 
 #### (1) In general
 
-&emsp;A State or other recipient of assistance under section 12571 of this title shall provide a basic health care policy for each full-time participant in a national service program carried out or supported using the assistance, if the participant is not otherwise covered by a health care policy. Not more than 85 percent of the cost of a premium shall be provided bythe Corporation, with the remaining cost paid by the entity receiving assistance under section 12571 of this title. The Corporation shall establish minimum standards that all plans must meet in order to qualify for payment under this part, any circumstances in which an alternative health care policy may be substituted for the basic health care policy, and mechanisms to prohibit participants from dropping existing coverage.
+&emsp;A State or other recipient of assistance under section 12571 of this title shall provide a basic health care policy for each full-time participant in a national service program carried out or supported using the assistance, if the participant is not otherwise covered by a health care policy. Not more than 85 percent of the cost of a premium shall be provided by the Corporation, with the remaining cost paid by the entity receiving assistance under section 12571 of this title. The Corporation shall establish minimum standards that all plans must meet in order to qualify for payment under this part, any circumstances in which an alternative health care policy may be substituted for the basic health care policy, and mechanisms to prohibit participants from dropping existing coverage.
 
 #### (2) Option
 
-&emsp;A State or other recipient of assistance under section 12571 of this title may elect to provide from its own funds a health care policy for participants that does not meet all of the standards established by the Corporation if the fair market value of such policy is equal to or greater than the fair market value of a plan that meets the minimum standards established by the Corporation, and is consistent with other applicable laws.
+&emsp;A State or other recipient of assistance under section 12571 of this title may elect toprovide from its own funds a health care policy for participants that does not meet all of the standards established by the Corporation if the fair market value of such policy is equal to or greater than the fair market value of a plan that meets the minimum standards established by the Corporation, and is consistent with other applicable laws.
 
 #### (e) Child care
 

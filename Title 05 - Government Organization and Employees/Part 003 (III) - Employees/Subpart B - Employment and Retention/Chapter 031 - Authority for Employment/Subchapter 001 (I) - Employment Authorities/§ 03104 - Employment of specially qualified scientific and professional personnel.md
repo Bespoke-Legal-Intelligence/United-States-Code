@@ -78,7 +78,7 @@ July 5, 1966, Pub. L. 89–492 §5, 80 Stat. 262.
 
 The amendment to 5 U.S.C. 3104(a)(5) reflects Public Law 89–492, section 5.
 
-The other amendments to 5 U.S.C. 3104 are based on section 302 of the act of July 20, 1958, Public Law 85–568 (72 Stat. 433), 42 U.S.C. 2453, and transfer plan, effective March 15, 1960, 25 Federal Register 2151, section (2)(a)(2), (b) of which in effect transferred from the Department of Defense to the National Aeronautics and Space Administration 12 of the 450 scientific and professional positions authorized by section 2 of Public Law 86–377 (10 U.S.C. 1581). Provisions relating to the date for reporting to Congress are based on 10 U.S.C. 1582.
+The other amendments to 5 U.S.C. 3104 are based on section 302 of the act of July 20, 1958, Public Law 85–568\(72 Stat. 433), 42 U.S.C. 2453, and transfer plan, effective March 15, 1960, 25 Federal Register 2151, section (2)(a)(2), (b) of which in effect transferred from the Department of Defense to the National Aeronautics and Space Administration 12 of the 450 scientific and professional positions authorized by section 2 of Public Law 86–377 (10 U.S.C. 1581). Provisions relating to the date for reporting to Congress are based on 10 U.S.C. 1582.
 
 #### Amendments
 
@@ -105,6 +105,34 @@ Amendment by section 414(a)(2)(B), (C) of Pub. L. 95–454 effective 180 days af
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+#### FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury
+
+Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, provided that:
+
+“(a) Notwithstanding any other provision of law relating to position classification or employee pay or performance, during the 3-year period beginning on the date of enactment of this Act \[Nov. 26, 1997\], the Director of the Federal Bureau of Investigation may, with the approval of the Attorney General, establish a personnel management system providing for the compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in the Federal Bureau of Investigation.
+
+“(b) Except as otherwise provided by law, no employee compensated under any system established under this section may be paid at a rate in excess of the rate payable for a position at level III of the Executive Schedule \[5 U.S.C. 5314\].
+
+“(c) Total payments to employees under any system established under this section shall be subject to the limitation on payments to employees set forth in section 5307 of title 5, United States Code.
+
+“(d) Not later than 90 days after the date of enactment of this Act \[Nov. 26, 1998\], the Director of the Federal Bureau of Investigation shall submit to the Committees on Appropriations and the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on Government Reform and Oversight of the House of Representatives, and the Committee on Governmental Affairs of the Senate, an operating plan describing the Director's intended use of the authority under this section, and identifying any provisions of title 5, United States Code, being waived for purposes of any personnel management system to be established by the Director under this section.
+
+“(e) Any performance management system established under this section shall have not less than 2 levels of performance above a retention standard.
+
+“(f) Not later than March 31, 2000, the Director of the Federal Bureau of Investigation shall submit to Congress an evaluation of the performance management system established under this section, which shall include—
+
+&emsp;“(1) a comparison of—
+
+&emsp;&emsp;“(A) the compensation, benefits, and performance management provisions governing personnel of similar employment classification series in other departments and agencies of the Federal Government; and
+
+&emsp;&emsp;“(B) the costs, consistent with standards prescribed in Office of Management and Budget Circular A–76, of contracting for any services provided through those departments and agencies; and
+
+&emsp;“(2) if appropriate, a recommendation for legislation to extend the authority under this section.
+
+“(g) Notwithstanding any other provision of law, the Secretary of the Treasury shall have the same authority provided to the Office of Personnel Management under section 4703 of title 5, United States Code, to establish, in the discretion of the Secretary, demonstration projects for a period of 3 years, for not to exceed a combined total of 950 employees, to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in the Bureau of Alcohol, Tobacco and Firearms, the United States Customs Service, and the United States Secret Service.
+
+“(h) The authority under this section shall terminate 3 years after the date of enactment of this Act \[Nov. 26, 1997\].”
 
 #### Termination of Authority To Establish Scientific or Professional Positions Outside the General Schedule
 

@@ -20,7 +20,7 @@ Nothing in this section shall be construed to limit the authority of any contrac
 
 Every performance bond required under this section shall specifically provide coverage for taxes imposed by the United States which are collected, deducted, or withheld from wages paid by the contractor in carrying out the contract with respect to which such bond is furnished. However, the United States shall give the surety or sureties on such bond written notice, with respect to any such unpaid taxes attributable to any period, within ninety days after the date when such contractor files a return for such period, except that no such notice shall be given more than one hundred and eighty days from the date when a return for the period was required to be filed under title 26. No suit on such bond for such taxes shall be commenced by the United States unless notice is given as provided in the preceding sentence, and no such suit shall be commenced after the expiration of one year after the day on which such notice is given.
 
-(Aug. 24, 1935, ch. 642, §1, 49 Stat. 793; Nov. 2, 1966, Pub. L. 89–719, title I, §105(b), 80 Stat. 1139; Nov. 2, 1978, Pub. L. 95–585, 92 Stat. 2484; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Oct. 13, 1994, Pub. L. 103–355, title IV, §4104(b)(1)(B), 108 Stat. 3342.)
+(Aug. 24, 1935, ch. 642, §1, 49 Stat. 793; Pub. L. 89–719, title I, §105(b), Nov. 2, 1966, 80 Stat. 1139; Pub. L. 95–585, Nov. 2, 1978, 92 Stat. 2484; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–355, title IV, §4104(b)(1)(B), Oct. 13, 1994, 108 Stat. 3342.)
 
 #### Amendments
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 89–719 applicable to contract entered into pursuant to in
 
 #### Effective Date
 
-Section 7, formerly §5 of act Aug. 24, 1935, as renumbered by Pub. L. 104–106, div. D, title XLIII, §4321(i)(8), Feb. 10, 1996, 110 Stat. 676, provided in part: “That this act \[enacting this section and sections 270b to 270d of this title\] shall take effect upon the expiration of sixty days after the date of its enactment \[Aug. 24, 1935\], but shall not apply to any contract awarded pursuant to any invitation for bids issued on or before the date it takes effect, or to any persons or bonds in respect of any such contract.”
+Section 7, formerly §5, of act Aug. 24, 1935, as renumbered by Pub. L. 104–106, div. D, title XLIII, §4321(i)(8), Feb. 10, 1996, 110 Stat. 676, provided in part: “That this act \[enacting this section and sections 270b to 270d of this title\] shall take effect upon the expiration of sixty days after the date of its enactment \[Aug. 24, 1935\], but shall not apply to any contract awarded pursuant to any invitation for bids issued on or before the date it takes effect, or to any persons or bonds in respect of any such contract.”
 
 #### Short Title
 

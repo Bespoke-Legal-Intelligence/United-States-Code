@@ -90,7 +90,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 &emsp;&emsp;(i) in the case of a contract for an amount exceeding $500,000 (but equal to or less than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii); and
 
-&emsp;&emsp;(ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the head of the procuring activity or a delegate who, if a member of the armed forces, is a general or flag officer or, if a civilian, is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
+&emsp;&emsp;(ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the head of the procuring activity or a delegate who, if a member of the armed forces, is a general or flag officer or, if a civilian, is serving in a positionin grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
 
 &emsp;&emsp;(iii) in the case of a contract for an amount exceeding $50,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of this title (without further delegation); and
 
@@ -146,7 +146,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 (4) In using the simplified procedures, an executive agency shall promote competition to the maximum extent practicable.
 
-(5) An executive agency shall comply with the Federal Acquisition Regulation provisions referred to in section 427(g) of this title.
+(5) An executive agency shall comply with the Federal Acquisition Regulation provisions referred to in section 427(f) of this title.
 
 #### (h) Efficient implementation of requirement
 
@@ -168,7 +168,7 @@ The Federal Acquisition Regulation shall ensure that the requirement to obtain f
 
 (4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to the Congress or any agency of the Federal Government.
 
-(June 30, 1949, ch. 288, title III, §303, 63 Stat. 395; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Mar. 16, 1968, Pub. L. 90–268, §2, 82 Stat. 49; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(1), 98 Stat. 1175; Oct. 30, 1984, Pub. L. 98–577, title V, §504(a)(1), (2), 98 Stat. 3086; Nov. 8, 1985, Pub. L. 99–145, title IX, §961(a)(2), title XIII, §1304(c)(2), (3), 99 Stat. 703, 742; Nov. 5, 1990, Pub. L. 101–510, div. A, title VIII, §806(c), 104 Stat. 1592; Oct. 13, 1994, Pub. L. 103–355, title I, §§1051–1053, 1055(a),title IV, §4402(a), title VII, §7203(b)(1), 108 Stat. 3260, 3261, 3265, 3348, 3380; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLI, §§4101(b), 4102(b), title XLII, §4202(b)(1), title XLIII, §4321(e)(2), 110 Stat. 642, 643, 653, 674; Oct. 19, 1996, Pub. L. 104–320, §§7(a)(2), 11(c)(2), 110 Stat. 3871, 3873.)
+(June 30, 1949, ch. 288, title III, §303, 63 Stat. 395; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 90–268, §2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 98–577, title V, §504(a)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(2), title XIII, §1304(c)(2), (3), Nov. 8, 1985, 99 Stat. 703, 742; Pub. L. 101–510, div. A, title VIII, §806(c), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §§1051–1053, 1055(a), title IV, §4402(a), title VII, §7203(b)(1), Oct. 13, 1994, 108 Stat. 3260, 3261, 3265, 3348, 3380; Pub. L. 104–106, div. D, title XLI, §§4101(b), 4102(b), title XLII, §4202(b)(1), title XLIII, §4321(e)(2), Feb. 10, 1996, 110 Stat. 642, 643, 653, 674; Pub. L. 104–320, §§7(a)(2), 11(c)(2), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §850(f)(4)(B), Nov. 18, 1997, 111 Stat. 1850.)
 
 #### References in Text
 
@@ -177,6 +177,8 @@ Subsection (h) of this section, referred to in subsec. (c)(5), was redesignated 
 The Javits-Wagner-O'Day Act, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+1997—Subsec. (g)(5). Pub. L. 105–85 substituted “section 427(f)” for “section 427(g)”.
 
 1996—Subsec. (c)(3)(C). Pub. L. 104–320 substituted “agency, or to procure the services of an expert or neutral for use” for “agency, or” and inserted “or negotiated rulemaking” after “alternative dispute resolution”.
 
@@ -245,6 +247,10 @@ Subsec. (f)(2). Pub. L. 98–577, §504(a)(2), designated the final sentence as 
 1968—Subsec. (a). Pub. L. 90–268 inserted provision that no advertisement or invitation to bid for carriage of Government property in other than Government-owned cargo containers shall specify carriage of such property in cargo containers of any stated length, height, or width.
 
 1952—Subsec. (a). Act July 12, 1952, substituted “property” for “supplies”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective 180 days after Nov. 18, 1997, see section 850(g) of Pub. L. 105–85, set out as a note under section 2302c of Title 10, Armed Forces.
 
 #### Effective Date of 1996 Amendment
 

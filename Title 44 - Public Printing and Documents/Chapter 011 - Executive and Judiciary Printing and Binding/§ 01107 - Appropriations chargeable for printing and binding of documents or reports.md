@@ -4,7 +4,7 @@ The cost of printing and binding of documents or reports emanating from executiv
 
 &emsp;(1) the cost of illustrations, composition, stereotyping, and other work involved in the actual preparation for printing, apart from the creation of the manuscript, to the appropriation for printing and binding of the agency in which the document or report originates.
 
-&emsp;(2) the balance of cost, to congressional printing and binding appropriations or to appropriations for printing and binding of the executive departments, independent agenciesor establishments in proportion to the number of copies delivered to each.
+&emsp;(2) the balance of cost, to congressional printing and binding appropriations or to appropriations for printing and binding of the executive departments, independent agencies or establishments in proportion to the number of copies delivered to each.
 
 &emsp;(3) the cost of copies distributed other than through Congress or executive agencies or independent offices, as otherwise provided.
 
@@ -18,5 +18,5 @@ A proviso in the 1906 resolution, requiring annual estimates of probable costs f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 717 of this title.
+This section is referred to in section 717 of this title; title 22 section 3714b.
 

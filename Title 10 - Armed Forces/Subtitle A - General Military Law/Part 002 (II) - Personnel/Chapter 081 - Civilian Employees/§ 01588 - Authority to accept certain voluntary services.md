@@ -94,7 +94,7 @@ Reimbursement of Incidental Expenses.—The Secretary concerned may provide for 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
+Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986,see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
 
 #### Effective Date of 1985 Amendment
 

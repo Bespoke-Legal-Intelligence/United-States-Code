@@ -10,7 +10,7 @@
 
 (e) The Chief Justice of the United States may designate and assign temporarily any district judge to serve as a judge of the Court of International Trade upon presentation to him of a certificate of necessity by the chief judge of the court.
 
-(June 25, 1948, ch. 646, 62 Stat. 901; July 28, 1953, ch. 253, §3, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §39(c), 68 Stat. 1240; July 9, 1956, ch. 517, §1(b), 70 Stat. 497; July 14, 1956, ch. 589, §2, 70 Stat. 532; Aug. 25, 1958, Pub. L. 85–755, §3, 72 Stat. 848; July 29, 1970, Pub. L. 91–358, title I, §172(e), 84 Stat. 591; Nov. 6, 1978, Pub. L. 95–598, title II, §§203, 204, 92 Stat. 2660; Oct. 10, 1980, Pub. L. 96–417, title V, §501(7), 94 Stat. 1742; Apr. 2, 1982, Pub. L. 97–164, title I, §109, 96 Stat. 28.)
+(June 25, 1948, ch. 646, 62 Stat. 901; July 28, 1953, ch. 253, §3, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §39(c), 68 Stat. 1240; July 9, 1956, ch. 517, §1(b), 70 Stat. 497; July 14, 1956, ch. 589, §2, 70 Stat. 532; Pub. L. 85–755, §3, Aug. 25, 1958, 72 Stat. 848; Pub. L. 91–358, title I, §172(e), July 29, 1970, 84 Stat. 591; Pub. L. 95–598, title II, §§203, 204, Nov. 6, 1978, 92 Stat. 2660; Pub. L. 96–417, title V, §501(7), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, §109, Apr. 2, 1982, 96 Stat. 28.)
 
 #### Historical and Revision Notes
 
@@ -24,7 +24,7 @@ Sections 17 and 21 of title 28, U.S.C., 1940 ed., were inconsistent insofar as t
 
 The provision of said section 17, that designation of a district judge to another circuit should be from an adjacent circuit if practicable, was omitted as an unnecessary restriction on the discretion of the Chief Justice.
 
-Section 19 of title 28, U.S.C., 1940 ed., is omitted as unnecessary. It authorized the Chief Justice of the United States to designate and assign any district judge to a district upon receiving a certificate from the clerk of the district that all circuit judges and the circuit justice were absent from the circuit, or were unable to appoint a substitute judge for the district,or where the district judge actually designated was disabled or neglected to hold court.
+Section 19 of title 28, U.S.C., 1940 ed., is omitted as unnecessary. It authorized the Chief Justice of the United States to designate and assign any districtjudge to a district upon receiving a certificate from the clerk of the district that all circuit judges and the circuit justice were absent from the circuit, or were unable to appoint a substitute judge for the district,or where the district judge actually designated was disabled or neglected to hold court.
 
 For omission of reference in said section 17 to senior Associate Justice, see reviser's note under section 291 of this title.
 
@@ -38,15 +38,15 @@ Many changes were made in phraseology.
 
 #### Amendments
 
-1982—Subsec. (e). Pub. L. 97–164 struck out “the Court of Claims, the Court of Customs and Patent Appeals or” after “to serve as a judge of” and “in which the need arises” after “chief judge of the court”.
+<b>1982</b>—Subsec. (e). Pub. L. 97–164 struck out “the Court of Claims, the Court of Customs and Patent Appeals or” after “to serve as a judge of” and “in which the need arises” after “chief judge of the court”.
 
-1980—Subsec. (e). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Subsec. (e). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1978—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting “to hold a district court or a bankruptcy court” for “to hold a district court” and the amendment of subsec. (d) by substituting “in a bankruptcy court, district court, or court of appeals” for “either in a district court or court of appeals”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting “to hold a district court or a bankruptcy court” for “to hold a district court” and the amendment of subsec. (d) by substituting “in a bankruptcy court, district court, or court of appeals” for “either in a district court or court of appeals”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1970—Subsecs. (c) to (e). Pub. L. 91–358 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+<b>1970</b>—Subsecs. (c) to (e). Pub. L. 91–358 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1958—Subsecs. (a) to (c). Pub. L. 85–755 reenacted subsecs. (a) to (c) without change.
+<b>1958</b>—Subsecs. (a) to (c). Pub. L. 85–755 reenacted subsecs. (a) to (c) without change.
 
 Subsec. (d). Pub. L. 85–755 incorporated provisions for assignment of district judges to the Court of Customs and Patent Appeals and the Customs Court, formerly contained in section 293 of this title and subsec. (f) of this section.
 
@@ -54,13 +54,13 @@ Subsec. (e). Pub. L. 85–755 struck out subsec. (e) which provided for assignme
 
 Subsec. (f). Pub. L. 85–755 struck out subsec. (f) which provided for assignment of district judges to the Customs Court. See subsec. (d) of this section.
 
-1956—Subsec. (e). Act July 9, 1956, added subsec. (e).
+<b>1956</b>—Subsec. (e). Act July 9, 1956, added subsec. (e).
 
 Subsec. (f). Act July 14, 1956, added subsec. (f).
 
-1954—Subsec. (d). Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
+<b>1954</b>—Subsec. (d). Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
 
-1953—Subsec. (d). Act July 28, 1953, added subsec. (d).
+<b>1953</b>—Subsec. (d). Act July 28, 1953, added subsec. (d).
 
 #### Effective Date of 1982 Amendment
 

@@ -56,7 +56,7 @@ Grants under this section shall be used—
 
 The Coordinator of Education of Homeless Children and Youth established in each State shall—
 
-&emsp;(1) estimate the number of homeless children and youth in the State and the number of such children and youth served with assistance provided under the grants or contracts under this part;
+&emsp;(1) estimate the number of homeless children and youth in the State and the number of suchchildren and youth served with assistance provided under the grants or contracts under this part;
 
 &emsp;(2) gather, to the extent possible, reliable, valid, and comprehensive information on the nature and extent of the problems homeless children and youth have in gaining access to public preschool programs and to public elementary and secondary schools, the difficulties in identifying the special needs of such children and youth, any progress made by the State educational agency and local educational agencies in the State in addressing such problems and difficulties, and the success of the program under this part in allowing homeless children and youth to enroll in, attend, and succeed in, school;
 
@@ -124,7 +124,7 @@ The Coordinator of Education of Homeless Children and Youth established in each 
 
 &emsp;(B) In determining the best interests of the child or youth under subparagraph (A), the local educational agency shall comply, to the extent feasible, with the request made by a parent or guardian regarding school selection.
 
-&emsp;(C) For purposes of this paragraph, the term “school of origin” means the school that the child or youth attended when permanently housed, or the school in which the child or youth was last enrolled.
+&emsp;(C) For purposes of this paragraph, the term “school of origin” means the school that thechild or youth attended when permanently housed, or the school in which the child or youth was last enrolled.
 
 &emsp;(D) The choice regarding placement shall be made regardless of whether the child or youth lives with the homeless parents or has been temporarily placed elsewhere by the parents.
 
@@ -166,7 +166,7 @@ The Coordinator of Education of Homeless Children and Youth established in each 
 
 #### (8) Review and revisions
 
-&emsp;Each State educational agency and local educational agency that receives assistanceunder this part shall review and revise any policies that may act as barriers to the enrollment of homeless children and youth in schools selected in accordance with paragraph (3). In reviewing and revising such policies, consideration shall be given to issues concerning transportation, immunization, residency, birth certificates, school records, and other documentation, and guardianship. Special attention shall be given to ensuring the enrollment and attendance of homeless children and youth who are not currently attending school.
+&emsp;Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the enrollment of homeless children and youth in schools selected in accordance with paragraph (3). In reviewing and revising such policies, consideration shall be given to issues concerning transportation, immunization, residency, birth certificates, school records, and other documentation, and guardianship. Special attention shall be given to ensuring the enrollment and attendance of homeless children and youth who are not currently attending school.
 
 #### (9) Coordination
 
@@ -190,7 +190,7 @@ The Runaway and Homeless Youth Act, referred to in subsec. (g)(6), is title III 
 
 #### Prior Provisions
 
-A prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
+A prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 101 Stat. 525; Pub. L. 100–628, title VII, §702(a), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(b), Nov. 29, 1990, 104 Stat. 4735, related to grants for State and local activities for education of homelesschildren and youth, prior to the general amendment of this part by Pub. L. 103–382.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 Active service of commissioned officers of the National Oceanic and Atmospheric Administration shall be deemed to be active military service for the purposes of all laws administered by the Secretary of Veterans Affairs (except the Servicemen's Indemnity Act of 1951) and section 417 of title 42, and for the purposes of section 410 of title 42 as in effect prior to the Social Security Act Amendments of 1950.
 
-(May 22, 1917, ch. 20, §16, 40 Stat. 88; Aug. 1, 1956, ch. 837, title V, §501(d)(1), 70 Stat. 883; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; June 13, 1991, Pub. L. 102–54, §13(m)(2), 105 Stat. 277.)
+(May 22, 1917, ch. 20, §16, 40 Stat. 88; Aug. 1, 1956, ch. 837, title V, §501(d)(1), 70 Stat. 883; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–54, §13(m)(2), June 13, 1991, 105 Stat. 277.)
 
 #### References in Text
 

@@ -30,7 +30,7 @@
 
 (c) Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Nov. 8, 1984, Pub. L. 98–622, title I, §103, 98 Stat. 3384; Nov. 1, 1995, Pub. L. 104–41, §1, 109 Stat. 351.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 98–622, title I, §103, Nov. 8, 1984, 98 Stat. 3384; Pub. L. 104–41, §1, Nov. 1, 1995, 109 Stat. 351.)
 
 #### Historical and Revision Notes
 

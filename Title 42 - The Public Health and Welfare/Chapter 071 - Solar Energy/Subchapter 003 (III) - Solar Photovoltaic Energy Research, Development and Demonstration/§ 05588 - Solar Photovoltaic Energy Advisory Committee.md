@@ -18,7 +18,7 @@ The Committee shall be composed of thirteen members, including eleven members ap
 
 #### (c) Cooperation from executive departments, agencies, and instrumentalities
 
-The heads of the departments, agencies, and instrumentalities of the executive branch of theFederal Government shall cooperate with the Committee in carrying out the requirements of this section, and shall furnish to the Committee such information as the Committee deems necessary to carry out this section.
+The heads of the departments, agencies, and instrumentalities of the executive branch of the Federal Government shall cooperate with the Committee in carrying out the requirements of this section, and shall furnish to the Committee such information as the Committee deems necessary to carry out this section.
 
 #### (d) Application of section 7234 of this title
 

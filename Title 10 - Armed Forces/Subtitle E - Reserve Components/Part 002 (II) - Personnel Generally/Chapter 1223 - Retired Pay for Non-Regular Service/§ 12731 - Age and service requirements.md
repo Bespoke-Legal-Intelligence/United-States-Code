@@ -1,6 +1,6 @@
 ### §12731. Age and service requirements
 
-(a) Except as provided in subsection (c), a person is entitled, upon application, to retired pay computed under section 12739 of this title, if the person—
+(a) Except as provided in subsection (c), a person is entitled, upon application, to retired paycomputed under section 12739 of this title, if the person—
 
 &emsp;(1) is at least 60 years of age;
 

@@ -238,7 +238,7 @@ The National Capital Park and Planning Commission, referred to in subsec. (a)(53
 
 The Rock Creek and Potomac Parkway Commission, referred to in subsec. (a)(54), was abolished and its functions transferred to the Office of National Parks, Buildings, and Reservations, Department of the Interior, by Ex. Ord. No. 6166, §2, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees.
 
-The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(57), probably means theDistrict of Columbia Unemployment Compensation Act which is act Aug. 28, 1935, ch. 794, 49 Stat. 946, as amended, and appears in chapter 1 (§46–101 et seq.) of Title 46, Social Security, of the District of Columbia Code.
+The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(57), probably means the District of Columbia Unemployment Compensation Act which is act Aug. 28, 1935, ch. 794, 49 Stat. 946, as amended, and appears in chapter 1 (§46–101 et seq.) of Title 46, Social Security, of the District of Columbia Code.
 
 #### Amendments
 

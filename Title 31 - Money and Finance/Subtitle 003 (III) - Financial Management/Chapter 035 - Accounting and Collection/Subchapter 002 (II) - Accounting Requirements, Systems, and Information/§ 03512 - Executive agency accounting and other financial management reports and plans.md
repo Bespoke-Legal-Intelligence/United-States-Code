@@ -202,7 +202,7 @@ In subsection (b)(1), before clause (A), the words “the head of” are added f
 
 In subsection (c)(1)(A), the words “the head of each executive agency shall follow” are substituted for “agencies” for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c)(2), before clause (A), the words “beginning in” are substituted for “succeeding” because ofthe restatement. The words “on whether the systems of the agency comply with subsection (b) of this section” are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word “related” is omitted as surplus.
+In subsection (c)(2), before clause (A), the words “beginning in” are substituted for “succeeding” because of the restatement. The words “on whether the systems of the agency comply with subsection (b) of this section” are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word “related” is omitted as surplus.
 
 In subsection (c)(3)(A), the words “provision of” are omitted as surplus.
 
@@ -288,7 +288,7 @@ Purpose\[.\]—The purposes of this Act \[title\] are to—
 
 “(a)
 
-In General.—Each agency shall implement and maintain financial management systems that complysubstantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
+In General.—Each agency shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
 
 “(b)
 

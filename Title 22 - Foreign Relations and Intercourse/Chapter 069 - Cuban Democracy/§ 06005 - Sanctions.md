@@ -22,7 +22,7 @@
 
 #### (3) Inapplicability of ship stores general license
 
-&emsp;No commodities which may be exported under a general license described in section 771.9 of title 15, Code of Federal Regulations, as in effect on May 1, 1992, may be exported under a general license to any vessel carryinggoods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has an interest.
+&emsp;No commodities which may be exported under a general license described in section 771.9 of title 15, Code of Federal Regulations, as in effect on May 1, 1992, may be exported under a general license to any vessel carrying goods or passengers to or from Cuba or carrying goods in which Cuba or a Cuban national has an interest.
 
 #### (4) Definitions
 

@@ -80,15 +80,15 @@ The Administrator shall require use of a process with the following aspects for 
 
 &emsp;A selection process consisting of the following:
 
-&emsp;&emsp;(A) Identification of the most qualified source, and ranking of alternative sources, primarily on the basis of the oral proposals, presentations, and discussions, and written proposals submitted in accordance with paragraph (7).
+&emsp;&emsp;(A) Identification of the most qualified source or sources, primarily on the basis of the oral proposals, presentations, and discussions, and written proposals submitted in accordance with paragraph (7).
 
-&emsp;&emsp;(B) Conduct for 30 to 60 days of a program definition phase (funded, in the case of the source ultimately awarded the contract, by the Federal Government)—
+&emsp;&emsp;(B) Conduct for 30 to 60 days (or a longer period, if approved by the Administrator) of a program definition phase (funded, in the case of the source ultimately awarded the contract, by the Federal Government)—
 
-&emsp;&emsp;&emsp;(i) during which the selected source, in consultation with one or more intended users, develops a conceptual system design and technical approach, defines logical phases for the project, and estimates the total cost and the cost for each phase; and
+&emsp;&emsp;&emsp;(i) during which the selected source or sources, in consultation with one or more intended users, develops a conceptual system design and technical approach, defines logical phases for the project, and estimates the total cost and the cost for each phase; and
 
-&emsp;&emsp;&emsp;(ii) after which a contract for performance of the work may be awarded to that source on the basis of cost, the responsiveness, reasonableness, and quality of the proposed performance, and a sharing of risk and benefits between the source and the Government.
+&emsp;&emsp;&emsp;(ii) after which a contract for performance of the work may be awarded to the source whose offer is determined to be most advantageous to the Government on the basis of cost, the responsiveness, reasonableness, and quality of the proposed performance, and a sharing of risk and benefits between the source and the Government.
 
-&emsp;&emsp;(C) Conduct of as many successive program definition phases with alternative sources (in the order ranked) as is necessary in order to award a contract in accordance with subparagraph (B).
+&emsp;&emsp;(C) Conduct of as many successive program definition phases as is necessary in order to award a contract in accordance with subparagraph (B).
 
 #### (10) System implementation phasing
 
@@ -100,13 +100,13 @@ The Administrator shall require use of a process with the following aspects for 
 
 #### (12) Time management discipline
 
-&emsp;Application of a standard for awarding a contract within 105 to 120 days after issuance of the solicitation.
+&emsp;Application of a standard for awarding a contract within 105 to 120 days after issuance of the solicitation, except that the Administrator may approve the application of a longer standard period.
 
 #### (d) Pilot program design
 
 #### (1) Joint public-private working group
 
-&emsp;The Administrator, in consultation with the Administrator for the Office of Informationand Regulatory Affairs, shall establish a joint working group of Federal Government personnel and representatives of the information technology industry to design a plan for conduct of any pilot program carried out under this section.
+&emsp;The Administrator, in consultation with the Administrator for the Office of Information and Regulatory Affairs, shall establish a joint working group of Federal Government personnel and representatives of the information technology industry to design a plan for conduct of any pilot program carried out under this section.
 
 #### (2) Content of plan
 
@@ -132,7 +132,21 @@ The Comptroller General of the United States shall—
 
 &emsp;(2) submit to Congress periodic reports containing the views of the Comptroller General on the activities, results, and findings under the pilot program.
 
-(Pub. L. 104–106, div. E, title LIII, §5312, Feb. 10, 1996, 110 Stat. 692.)
+(Pub. L. 104–106, div. E, title LIII, §5312, Feb. 10, 1996, 110 Stat. 692; Pub. L. 105–85, div. A, title VIII, §852, Nov. 18, 1997, 111 Stat. 1851.)
+
+#### Amendments
+
+1997—Subsec. (c)(9)(A). Pub. L. 105–85, §852(a)(1), substituted “or sources,” for “, and ranking of alternative sources,”.
+
+Subsec. (c)(9)(B). Pub. L. 105–85, §852(a)(2)(A), inserted “(or a longer period, if approved by the Administrator)” after “30 to 60 days” in introductory provisions.
+
+Subsec. (c)(9)(B)(i). Pub. L. 105–85, §852(a)(2)(B), inserted “or sources” after “source”.
+
+Subsec. (c)(9)(B)(ii). Pub. L. 105–85, §852(a)(2)(C), substituted “the source whose offer is determined to be most advantageous to the Government” for “that source”.
+
+Subsec. (c)(9)(C). Pub. L. 105–85, §852(a)(3), struck out “with alternative sources (in the order ranked)” after “definition phases”.
+
+Subsec. (c)(12). Pub. L. 105–85, §852(b), inserted before period at end “, except that the Administrator may approve the application of a longer standard period”.
 
 #### Section Referred to in Other Sections
 

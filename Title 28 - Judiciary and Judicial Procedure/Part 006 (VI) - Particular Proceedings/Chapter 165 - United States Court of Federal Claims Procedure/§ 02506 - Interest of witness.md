@@ -2,7 +2,7 @@
 
 A witness in a suit in the United States Court of Federal Claims shall not be exempt or disqualified because he is a party to or interested in such suit.
 
-(June 25, 1948, ch. 646, 62 Stat. 977; Apr. 2, 1982, Pub. L. 97–164, title I, §139(e), 96 Stat. 42; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 977; Pub. L. 97–164, title I, §139(e), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -16,9 +16,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 

@@ -2,7 +2,7 @@
 
 Whoever knowingly and willfully deposits any mailable matter such as statements of accounts, circulars, sale bills, or other like matter, on which no postage has been paid, in any letter box established, approved, or accepted by the Postal Service for the receipt or delivery of mail matter on any mail route with intent to avoid payment of lawful postage thereon, shall for each such offense be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 784; Aug. 12, 1970, Pub. L. 91–375, §6(j)(33), 84 Stat. 780; Sept. 13,1994, Pub. L. 103–322, title XXXIII, §330016(1)(F), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 784; Aug. 12, 1970, Pub. L. 91–375, §6(j)(33), 84 Stat. 780; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(F), 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -20,5 +20,5 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 
 #### Effective Date
 
-Section 2512(c)(3) of Pub. L. 98–369 provided that: “The amendments made by subsection (b) \[enactingthis section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+Section 2512(c)(3) of Pub. L. 98–369 provided that: “The amendments made by subsection (b) \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 

@@ -26,7 +26,7 @@
 
 (d)(1) A person adversely affected or aggrieved by a final order or decision of the Merit Systems Protection Board under subsection (c) may petition the United States Court of Appeals for the Federal Circuit to review the final order or decision. Such petition and review shall be in accordance with the procedures set forth in section 7703 of title 5.
 
-(2) Such person may be represented in the Federal Circuit proceeding by the Special Counsel unless the person was not represented by the Special Counsel before the Merit Systems Protection Board regarding such order or decision.
+(2) Such person may be represented in the Federal Circuit proceeding by the Special Counselunless the person was not represented by the Special Counsel before the Merit Systems Protection Board regarding such order or decision.
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3166; amended Pub. L. 104–275, title III, §311(11), Oct. 9, 1996, 110 Stat. 3336.)
 

@@ -12,7 +12,7 @@ Each infant or toddler with a disability and the infant's or toddler's family sh
 
 #### (b) Periodic review
 
-The individualized family service plan shall be evaluated once a year and the family shall be provided a review of the plan at 6-month intervals (or more often where appropriate based on infant or toddler and family needs).
+The individualized family service plan shall be evaluated once a year and the family shall beprovided a review of the plan at 6-month intervals (or more often where appropriate based on infant or toddler and family needs).
 
 #### (c) Promptness after assessment
 
@@ -43,6 +43,10 @@ The individualized family service plan shall be in writing and contain—
 The contents of the individualized family service plan shall be fully explained to the parents or guardian and informed written consent from such parents or guardian shall be obtained prior to the provision of early intervention services described in such plan. If such parents or guardian do not provide such consent with respect to a particular early intervention service, then the early intervention services to which such consent is obtained shall be provided.
 
 (Pub. L. 91–230, title VI, §677, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1149; amended Pub. L. 100–630, title I, §108(f), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, §901(b)(174)–(176), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§14, 25(b), Oct. 7, 1991, 105 Stat. 597, 607.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, provided that, effective July 1, 1998, this section is repealed.</i>
 
 #### Amendments
 

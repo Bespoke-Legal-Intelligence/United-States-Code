@@ -240,13 +240,15 @@ Term of the President's Committee on Mental Retardation extended until Sept. 30,
 
 Term of the President's Committee on Mental Retardation extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as anote under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on Mental Retardation extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Committee on Mental Retardation extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Committee on Mental Retardation extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on Mental Retardation extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on Mental Retardation extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Executive Order No. 11973
 
@@ -254,7 +256,7 @@ Ex. Ord. No. 11973, Feb. 17, 1977, 42 F.R. 10677, which related to the President
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 217a–1, 300a–7, 3013, 3509 of this title; title 20 section 1484a; title 29 sections 705, 761a, 781, 794e, 2212, 2231; title 40 App. section 202.
+This chapter is referred to in sections 217a–1, 300a–7, 3013, 3509 of this title; title 20 sections 1444, 1484a; title 29 sections 705, 761a, 781, 794e, 2212, 2231; title 40 App. section 202.
 
 
 ---

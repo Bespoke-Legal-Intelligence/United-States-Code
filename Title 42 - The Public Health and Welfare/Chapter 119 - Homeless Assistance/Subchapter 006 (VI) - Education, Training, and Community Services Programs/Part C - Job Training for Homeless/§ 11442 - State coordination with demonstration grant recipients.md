@@ -6,5 +6,5 @@ A State shall describe in the comprehensive plan required under section 11361 of
 
 #### Termination of Section
 
-<i>For termination of section on Dec. 31, 1997, see section 11450 of this title.</i>
+<i>For termination of section on Dec. 31, 1999, see section 11450 of this title.</i>
 

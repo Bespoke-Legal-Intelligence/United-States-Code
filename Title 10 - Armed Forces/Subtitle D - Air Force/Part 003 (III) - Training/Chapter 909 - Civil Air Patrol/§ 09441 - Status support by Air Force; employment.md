@@ -20,7 +20,7 @@
 
 &emsp;(5) detail or assign any member of the Air Force or any officer or employee of the Department of the Air Force to any liaison office at the National, State, or Territorial headquarters, and at not more than eight regional headquarters, of the Civil Air Patrol;
 
-&emsp;(6) detail any member of the Air Force or any officer or employee of the Department of the Air Force to any unit or installation of theCivil Air Patrol to assist in the training program of the Civil Air Patrol;
+&emsp;(6) detail any member of the Air Force or any officer or employee of the Department of the Air Force to any unit or installation of the Civil Air Patrol to assist in the training program of the Civil Air Patrol;
 
 &emsp;(7) in time of war, or of national emergency declared after May 27, 1954, by Congress or the President, authorize the payment of travel expenses and allowances, in accordance with subchapter I of chapter 57 of title 5, to members of the Civil Air Patrol while carrying out any mission specifically assigned by the Air Force;
 
@@ -34,7 +34,7 @@
 
 &emsp;(12) furnish articles of the Air Force uniform to Civil Air Patrol cadets without cost to such cadets.
 
-(c) The Secretary may use the services of the Civil Air Patrol in fulfilling the noncombat mission of the Department of the Air Force, and for purposes of determining the civil liability of the Civil Air Patrol (or any member thereof) with respect to any act or omission committed by the Civil Air Patrol (or any member thereof) in fulfilling such mission, the Civil Air Patrol shall be deemed to be an instrumentality of the United States.
+(c) The Secretary may use the services of the Civil Air Patrol in fulfilling the noncombat mission of the Department of the Air Force, and for purposes of determining the civil liability of theCivil Air Patrol (or any member thereof) with respect to any act or omission committed by the Civil Air Patrol (or any member thereof) in fulfilling such mission, the Civil Air Patrol shall be deemed to be an instrumentality of the United States.
 
 (d)(1) The Secretary of the Air Force may authorize the Civil Air Patrol to employ, as administrators and liaison officers, persons retired from service in the Air Force whose qualifications are approved under regulations prescribed by the Secretary and who request such employment.
 
@@ -124,7 +124,7 @@ Regulations.—Within 45 days, the Secretary of the Air Force shall issue such r
 
 “(b)
 
-Reports.—The Secretary of the Air Force shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives, quarterly reports which include a detailed description of the activities of the Civil Air Patrol in support of the Federal, State, and local government agencies’ drug interdiction and eradication programs. The first report shall be submitted on the last day of the first quarter ending not less than 150 days after the date of the enactment \[Nov. 18, 1988\].”
+Reports.—The Secretary of the Air Force shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and theCommittee on National Security and the Committee on Appropriations of the House of Representatives, quarterly reports which include a detailed description of the activities of the Civil Air Patrol in support of the Federal, State, and local government agencies’ drug interdiction and eradication programs. The first report shall be submitted on the last day of the first quarter ending not less than 150 days after the date of the enactment \[Nov. 18, 1988\].”
 
 #### Participation in Drug Interdiction Efforts
 

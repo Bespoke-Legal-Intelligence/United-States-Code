@@ -2,7 +2,7 @@
 
 As used in this subchapter the term:
 
-(a) “Convention” means the Convention between the United States of America and Canadafor the Preservation of the Halibut Fishery of the Northern Pacific Ocean and Bering Sea, signed at Ottawa, Canada on March 2, 1953, as amended by the Protocol Amending the Convention, signed at Washington March 29, 1979, and includes the regulations promulgated thereunder.
+(a) “Convention” means the Convention between the United States of America and Canada for the Preservation of the Halibut Fishery of the Northern Pacific Ocean and Bering Sea, signed at Ottawa, Canada on March 2, 1953, as amended by the Protocol Amending the Convention, signed at Washington March 29, 1979, and includes the regulations promulgated thereunder.
 
 (b) “Commission” means the International Pacific Halibut Commission provided for by article III of the Convention.
 
@@ -34,7 +34,7 @@ As used in this subchapter the term:
 
 #### References in Text
 
-Section 1811 of this title, referred to in subsec. (c), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
+Section 1811 of this title, referred to in subsec. (c), which established the fishery conservation zone, wasamended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
 Proclamation Numbered 5030, referred to in subsec. (c), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under section 1453 of this title.
 

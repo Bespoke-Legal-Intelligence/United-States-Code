@@ -6,7 +6,7 @@ When the Secretary of Agriculture determines that sufficient lands, waters, or i
 
 #### (b) Whiskeytown
 
-When the Secretary of the Interior determines that sufficient lands, waters, or interest therein are owned or have been acquired by the UnitedStates within the boundaries of the Whiskeytown unit to permit efficient initial development and administration for the purposes of this subchapter, he shall publish in the Federal Register a notice to that effect and a detailed description of the boundaries of the unit.
+When the Secretary of the Interior determines that sufficient lands, waters, or interest therein are owned or have been acquired by the United States within the boundaries of the Whiskeytown unit to permit efficient initial development and administration for the purposes of this subchapter, he shall publish in the Federal Register a notice to that effect and a detailed description of the boundaries of the unit.
 
 #### (c) Acquisition of property
 

@@ -846,7 +846,7 @@ Section 551 of title III (§§301–553) of Pub. L. 98–353 provided that: “I
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 362, 546 of this title; title 7 section 6; title 12 sections 1787, 1821; title 15 sections 78eee, 78fff–1; title 28 section 1930.
+This section is referred to in sections 362, 546 of this title; title 7 section 6; title 12 sections 1787, 1821; title 15 sections 78eee, 78fff–1; title 28 section 1930; title 33 section 2716; title 42 section 656.
 
 <i><sup>1</sup></i><i> So in original. There is no par. (3).</i>
 

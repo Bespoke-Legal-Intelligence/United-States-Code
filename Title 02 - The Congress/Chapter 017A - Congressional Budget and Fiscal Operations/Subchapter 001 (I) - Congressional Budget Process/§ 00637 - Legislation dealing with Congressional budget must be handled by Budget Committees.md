@@ -18,15 +18,7 @@ Section was formerly classified to section 1327 of Title 31 prior to the general
 
 Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
 
-#### Appeals of Rulings
-
-Appeal of ruling of the Chair on point of order raised under this section sustained only by affirmative vote of three-fifths of the Senate, see section 271(c) of Pub. L. 99–177, set out as a note under section 901 of this title.
-
-#### Exercise of Congressional Rulemaking Power
-
-This section may be waived or suspended in the Senate only by affirmative vote of three-fifths of the Senate, see section 904(c) of Pub. L. 93–344, set out as a note under section 621 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 907c, 908 of this title.
+This section is referred to in section 907c of this title.
 

@@ -4,7 +4,7 @@
 
 Sovereignty and Public Right of Transit.—(1) The United States Government has exclusive sovereignty of airspace of the United States.
 
-(2) A citizen of the United States has a public right of transit through the navigable airspace. To further that right, the Secretary of Transportation shall consult with the Architectural and Transportation Barriers Compliance Board established under section 502 of the Rehabilitation Act of 1973 (29 U.S.C. 792) before prescribing a regulation or issuing an order or procedure that will have a significant impact on the accessibility of commercial airports or commercial air transportation for handicapped individuals.
+(2) A citizen of the United States has a public right of transit through the navigable airspace.To further that right, the Secretary of Transportation shall consult with the Architectural and Transportation Barriers Compliance Board established under section 502 of the Rehabilitation Act of 1973 (29 U.S.C. 792) before prescribing a regulation or issuing an order or procedure that will have a significant impact on the accessibility of commercial airports or commercial air transportation for handicapped individuals.
 
 (b)
 
@@ -140,7 +140,7 @@ In subsection (b)(2), before clause (A), the word “shall” is substituted for
 
 In subsection (b)(3), before clause (A), the words “In the exercise of his authority under section 1348(a) of this Appendix” in 49 App.:1522 are omitted as surplus. The word “navigable” is added for clarity and consistency. In clause (A), the words “such zones or” are omitted as surplus.
 
-In subsection (b)(4), the words “the military exception” are substituted for “any exception relating tomilitary or naval functions” to eliminate unnecessary words and because “naval” is included in “military”. The words “applies to a regulation prescribed under” are substituted for “In the exercise of the rulemaking authority . . . the Secretary of Transportation shall be subject to” to eliminate unnecessary words and because “rules” and “regulations” are synonymous.
+In subsection (b)(4), the words “the military exception” are substituted for “any exception relating to military or naval functions” to eliminate unnecessary words and because “naval” is included in “military”. The words “applies to a regulation prescribed under” are substituted for “In the exercise of the rulemaking authority . . . the Secretary of Transportation shall be subject to” to eliminate unnecessary words and because “rules” and “regulations” are synonymous.
 
 Subsection (c) is added for clarity.
 

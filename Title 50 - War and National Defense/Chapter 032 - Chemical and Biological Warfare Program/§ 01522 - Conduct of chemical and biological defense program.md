@@ -2,7 +2,7 @@
 
 #### (a) General
 
-The Secretary of Defense shall carry out the chemical and biological defense program of theUnited States in accordance with the provisions of this section.
+The Secretary of Defense shall carry out the chemical and biological defense program of the United States in accordance with the provisions of this section.
 
 #### (b) Management and oversight
 
@@ -56,7 +56,7 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as partof Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
 

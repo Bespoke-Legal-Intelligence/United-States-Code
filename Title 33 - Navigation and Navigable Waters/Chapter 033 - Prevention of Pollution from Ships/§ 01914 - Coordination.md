@@ -46,7 +46,7 @@ Section was enacted as part of the Marine Plastic Pollution Research and Control
 
 #### Amendments
 
-1996—Pub. L. 104–324 amended section generally. Prior to amendment, section read as follows: “Not later thanSeptember 30, 1988, the Secretary of Commerce shall submit to the Congress a report on the effects of plastic materials on the marine environment. The report shall—
+1996—Pub. L. 104–324 amended section generally. Prior to amendment, section read as follows: “Not later than September 30, 1988, the Secretary of Commerce shall submit to the Congress a report on the effects of plastic materials on the marine environment. The report shall—
 
 &emsp;“(1) identify and quantify the harmful effects of plastic materials on the marine environment;
 

@@ -24,7 +24,7 @@ As used in this section, the term “company” means a corporation, joint stock
 
 Any individual taking office in violation of this section shall be punished by a fine of not exceeding $1,000.
 
-(Aug. 29, 1935, ch. 814, title I, §108, formerly §8, 49 Stat. 986; June 25, 1936, ch. 804, 49 Stat. 1921; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; renumbered title I, §108, and amended Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), 102 Stat. 4517, 4521.)
+(Aug. 29, 1935, ch. 814, title I, §108, formerly §8, 49 Stat. 986; June 25, 1936, ch. 804, 49 Stat. 1921; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; renumbered title I, §108, and amended Pub. L. 100–690, title VIII, §8001(a)(1), (2), (b)(2), Nov. 18, 1988, 102 Stat. 4517, 4521.)
 
 #### Codification
 

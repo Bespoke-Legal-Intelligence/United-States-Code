@@ -38,7 +38,7 @@ For purposes of this chapter—
 
 &emsp;The term “affiliate” means any person that controls, is controlled by, or is under common control with, a savings association, except as provided in section 1467a of this title.
 
-(June 13, 1933, ch. 64, §2, 48 Stat. 128; June 27, 1934, ch. 847, title V, §508(a), 48 Stat. 1264; May 28, 1935, ch. 150, §10, 49 Stat. 296; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; Nov. 10, 1978, Pub. L. 95–630, title XII, §1201, 92 Stat. 3710; Oct. 15, 1982, Pub. L. 97–320, title I, §114(a), 96 Stat. 1475; Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 277.)
+(June 13, 1933, ch. 64, §2, 48 Stat. 128; June 27, 1934, ch. 847, title V, §508(a), 48 Stat. 1264; May 28, 1935, ch. 150, §10, 49 Stat. 296; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; Pub. L. 95–630, title XII, §1201, Nov. 10, 1978, 92 Stat. 3710; Pub. L. 97–320, title I, §114(a), Oct. 15, 1982, 96 Stat. 1475; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 277.)
 
 #### Amendments
 

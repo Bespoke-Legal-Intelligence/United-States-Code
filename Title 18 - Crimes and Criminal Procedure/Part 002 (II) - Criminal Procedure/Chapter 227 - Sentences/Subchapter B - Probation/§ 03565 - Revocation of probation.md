@@ -14,7 +14,7 @@ Mandatory Revocation for Possession of Controlled Substance or Firearm or Refusa
 
 &emsp;(1) possesses a controlled substance in violation of the condition set forth in section 3563(a)(3);
 
-&emsp;(2) possesses a firearm, as such term is defined in section 921 of this title, in violation of Federal law, or otherwise violates a conditionof probation prohibiting the defendant from possessing a firearm; or
+&emsp;(2) possesses a firearm, as such term is defined in section 921 of this title, in violation of Federal law, or otherwise violates a condition of probation prohibiting the defendant from possessing a firearm; or
 
 &emsp;(3) refuses to comply with drug testing, thereby violating the condition imposed by section 3563(a)(4),<sup>1</sup>
 
@@ -40,7 +40,7 @@ For a prior section 3565, applicable to offenses committed prior to Nov. 1, 1987
 
 1994—Subsec. (a). Pub. L. 103–322, §110506(a)(2), struck out concluding sentence which read as follows: “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
 
-Subsec. (a)(2). Pub. L. 103–322, §110506(a)(1), substituted “resentence the defendant under subchapter A” for “impose any other sentence that was available under subchapter A at the time of the initial sentencing”.
+Subsec. (a)(2). Pub. L. 103–322, §110506(a)(1), substituted “resentence the defendant under subchapterA” for “impose any other sentence that was available under subchapter A at the time of the initial sentencing”.
 
 Subsec. (b). Pub. L. 103–322, §110506(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 

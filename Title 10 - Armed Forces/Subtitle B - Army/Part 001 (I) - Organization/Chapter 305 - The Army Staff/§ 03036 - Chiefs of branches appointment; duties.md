@@ -154,7 +154,7 @@ Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “Fo
 
 #### Chief of Engineers; Work or Services for Other Federal Departments and Agencies
 
-Pub. L. 89–298, title II, §219, Oct. 27, 1965, 79 Stat. 1089, which provided that the Chief of Engineers, under the supervision of the Secretary of the Army, was authorized to accept orders from other Federal departments and agencies for work or services and to perform all or any part of such work or services by contract, was repealed and restated in subsec. (d) of this section byPub. L. 97–295, §§1(38), 6(b), Oct. 12, 1982, 96 Stat. 1296, 1314.
+Pub. L. 89–298, title II, §219, Oct. 27, 1965, 79 Stat. 1089, which provided that the Chief of Engineers, under the supervision of the Secretary of the Army, was authorized to accept orders from other Federal departments and agencies for work or services and to perform all or any part of such work or services by contract, was repealed and restated in subsec. (d) of this section by Pub. L. 97–295, §§1(38), 6(b), Oct. 12, 1982, 96 Stat. 1296, 1314.
 
 #### Department of Defense Reorganization Order
 

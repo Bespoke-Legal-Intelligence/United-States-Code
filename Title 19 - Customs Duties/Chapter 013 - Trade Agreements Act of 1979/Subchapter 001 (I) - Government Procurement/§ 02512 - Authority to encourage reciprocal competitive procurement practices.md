@@ -42,7 +42,7 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### (1) Impact on the economy
 
-&emsp;On or before July 1, 1981, the President shall report to the Committee on Ways and Meansand the Committee on Government Operations of the House of Representatives and to the Committee on Finance and the Committee on Governmental Affairs of the Senate on the effects on the United States economy (including effects on employment, production, competition, costs and prices, technological development, export trade, balance of payments, inflation, and the Federal budget) of the refusal of developed countries to allow the Agreement to cover the entities of the governments of such countries which are the principal purchasers of goods and equipment in appropriate product sectors.
+&emsp;On or before July 1, 1981, the President shall report to the Committee on Ways and Means and the Committee on Government Operations of the House of Representatives and to the Committee on Finance and the Committee on Governmental Affairs of the Senate on the effects on the United States economy (including effects on employment, production, competition, costs and prices, technological development, export trade, balance of payments, inflation, and the Federal budget) of the refusal of developed countries to allow the Agreement to cover the entities of the governments of such countries which are the principal purchasers of goods and equipment in appropriate product sectors.
 
 #### (2) Recommendations for attaining reciprocity
 
@@ -62,7 +62,7 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### (A) Presidential determination
 
-&emsp;&emsp;If the President determines that any changes in existing law or new statutory authority are required to authorize or to implement any action proposed in the report submitted under paragraph (1), he shall, on or after January 1, 1982, submit to the Congress a bill to accomplish such changes or provide such new statutory authority. Prior to submitting such a bill, the President shall consult with the appropriate committees of the Congress having jurisdiction over legislation involving subject matters which would be affected by such action, and shall submit to such committees a proposed draft of such bill.
+&emsp;&emsp;If the President determines that any changes in existing law or new statutory authority are required to authorize or to implement any action proposed in the report submitted under paragraph (1), he shall, on or after January 1, 1982, submit to the Congress a bill to accomplish such changes or provide such new statutory authority. Prior to submitting such a bill, the President shallconsult with the appropriate committees of the Congress having jurisdiction over legislation involving subject matters which would be affected by such action, and shall submit to such committees a proposed draft of such bill.
 
 #### (B) Congressional consideration
 
@@ -98,7 +98,7 @@ Section 344 of title III of Pub. L. 103–465 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle E (§§341–344 of title III of Pub. L. 103–465, amending thissection and sections 2513 to 2515, 2517, and 2518 of this title, repealing section 2516 of this title, and amending provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) \[19 U.S.C. 3511(d)(17)\] enters into force with respect to the United States \[Jan. 1, 1995\].
+In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle E (§§341–344 of title III of Pub. L. 103–465, amending this section and sections 2513 to 2515, 2517, and 2518 of this title, repealing section 2516 of this title, and amending provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) \[19 U.S.C. 3511(d)(17)\] enters into force with respect to the United States \[Jan. 1, 1995\].
 
 “(b)
 

@@ -2,7 +2,7 @@
 
 The chief judge of United States Court of Federal Claims, with the approval of the court, may appoint necessary bailiffs and messengers, in such numbers as the Director of the Administrative Office of the United States Courts may approve, each of whom shall be subject to removal by the chief judge, with the approval of the court.
 
-(June 25, 1948, ch. 646, 62 Stat. 924; Apr. 2, 1982, Pub. L. 97–164, title I, §121(d)(1), 96 Stat. 35; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 924; Pub. L. 97–164, title I, §121(d)(1), Apr. 2, 1982, 96 Stat. 35; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -20,9 +20,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “Bailiffs and messengers” for “Bailiff and messenger” in section catchline and, in text, substituted “The chief judge of United States Claims Court, with the approval of the court, may appoint necessary bailiffs and messengers, in such numbers as the Director of the Administrative Office of the United States Courts may approve, each of whomshall be subject to removal by the chief judge, with the approval of the court” for “The Court of Claims may appoint a bailiff and a messenger who shall be subject to removal by the court” and struck out provision that the bailiff attend the court, preserve order, and perform such other necessary duties as the court might direct.
+<b>1982</b>—Pub. L. 97–164 substituted “Bailiffs and messengers” for “Bailiff and messenger” in section catchline and, in text, substituted “The chief judge of United States Claims Court, with the approval of the court, may appoint necessary bailiffs and messengers, in such numbers as the Director of the Administrative Office of the United States Courts may approve, each of whom shall be subject to removal by the chief judge, with the approval of the court” for “The Court of Claims may appoint a bailiff and a messenger who shall be subject to removal by the court” and struck out provision that the bailiff attend the court, preserve order, and perform such other necessary duties as the court might direct.
 
 #### Effective Date of 1992 Amendment
 

@@ -2,7 +2,7 @@
 
 There is a Central Intelligence Agency. The function of the Agency shall be to assist the Director of Central Intelligence in carrying out the responsibilities referred to in paragraphs (1) through (5) of section 403–3(d) of this title.
 
-(July 26, 1947, ch. 343, title I, §102A, as added Oct. 11, 1996, Pub. L. 104–293, title VIII, §805(b), 110 Stat. 3479.)
+(July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 104–293, title VIII, §805(b), Oct. 11, 1996, 110 Stat. 3479.)
 
 #### Prior Provisions
 

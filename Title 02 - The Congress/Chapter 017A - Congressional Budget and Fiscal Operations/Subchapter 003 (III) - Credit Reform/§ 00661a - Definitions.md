@@ -2,7 +2,7 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) The term “direct loan” means a disbursement of funds by the Government to a non-Federal borrower under a contract that requires the repayment of such funds with or without interest. The term includes the purchase of, or participation in, a loan made by another lender. The term does not include the acquisition of a federally guaranteed loan in satisfaction of default claims or the price support loans of the Commodity Credit Corporation.
+&emsp;(1) The term “direct loan” means a disbursement of funds by the Government to a non-Federal borrower under a contract that requires the repayment of such funds with or without interest. The term includes the purchase of, or participation in, a loan made by another lender and financing arrangements that defer payment for more than 90 days, including the sale of a government <sup>1</sup> asset on credit terms. The term does not include the acquisition of a federally guaranteed loan in satisfaction of default claims or the price support loans of the Commodity Credit Corporation.
 
 &emsp;(2) The term “direct loan obligation” means a binding agreement by a Federal agency to make a direct loan when specified conditions are fulfilled by the borrower.
 
@@ -10,25 +10,31 @@ For purposes of this subchapter—
 
 &emsp;(4) The term “loan guarantee commitment” means a binding agreement by a Federal agency to make a loan guarantee when specified conditions are fulfilled by the borrower, the lender, or any other party to the guarantee agreement.
 
-&emsp;(5)(A) The term “cost” means the estimated long-term cost to the Government of a direct loan or loan guarantee, calculated on a net present value basis, excluding administrative costs and any incidental effects on governmental receipts or outlays.
+&emsp;(5)(A) The term “cost” means the estimated long-term cost to the Government of a direct loan or loan guarantee or modification thereof, calculated on a net present value basis, excluding administrative costs and any incidental effects on governmental receipts or outlays.
 
-&emsp;(B) The cost of a direct loan shall be the net present value, at the time when the direct loan is disbursed, of the following cash flows:
+&emsp;(B) The cost of a direct loan shall be the net present value, at the time when the direct loan is disbursed, of the following estimated cash flows:
 
 &emsp;&emsp;(i) loan disbursements;
 
 &emsp;&emsp;(ii) repayments of principal; and
 
-&emsp;&emsp;(iii) payments of interest and other payments by or to the Government over the life of the loan after adjusting for estimated defaults, prepayments, fees, penalties and other recoveries.
+&emsp;&emsp;(iii) payments of interest and other payments by or to the Government over the life of the loan after adjusting for estimated defaults, prepayments, fees, penalties, and other recoveries;
 
-&emsp;(C) The cost of a loan guarantee shall be the net present value when a guaranteed loan is disbursed of the cash flow from—
+> &emsp;including the effects of changes in loan terms resulting from the exercise by the borrower of an option included in the loan contract.
 
-&emsp;&emsp;(i) estimated payments by the Government to cover defaults and delinquencies, interest subsidies, or other payments, and
+&emsp;(C) The cost of a loan guarantee shall be the net present value, at the time when the guaranteed loan is disbursed, of the following estimated cash flows:
 
-&emsp;&emsp;(ii) the estimated payments to the Government including origination and other fees, penalties and recoveries.
+&emsp;&emsp;(i) payments by the Government to cover defaults and delinquencies, interest subsidies, or other payments; and
 
-&emsp;(D) Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification.
+&emsp;&emsp;(ii) payments to the Government including origination and other fees, penalties and recoveries;
 
-&emsp;(E) In estimating net present values, the discount rate shall be the average interest rate on marketable Treasury securities of similar maturity to the direct loan or loan guarantee for which the estimate is being made.
+> &emsp;including the effects of changes in loan terms resulting from the exercise by the guaranteed lender of an option included in the loan guarantee contract, or by the borrower of an option included in the guaranteed loan contract.
+
+&emsp;(D) The cost of a modification is the difference between the current estimate of the net present value of the remaining cash flows under the terms of a direct loan or loan guarantee contract, and the current estimate of the net present value of the remaining cash flows under the terms of the contract, as modified.
+
+&emsp;(E) In estimating net present values, the discount rate shall be the average interest rate on marketable Treasury securities of similar maturity to the cash flows of the direct loan or loan guarantee for which the estimate is being made.
+
+&emsp;(F) When funds are obligated for a direct loan or loan guarantee, the estimated cost shall be based on the current assumptions, adjusted to incorporate the terms of the loan contract, for the fiscal year in which the funds are obligated.
 
 &emsp;(6) The term “credit program account” means the budget account into which an appropriation to cover the cost of a direct loan or loan guarantee program is made and from which such cost is disbursed to the financing account.
 
@@ -38,15 +44,51 @@ For purposes of this subchapter—
 
 > &emsp;These accounts shall be shown in the budget on a cash basis.
 
-&emsp;(9) The term “Director” means the Director of the Office of Management and Budget.
+&emsp;(9) The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
 
-(Pub. L. 93–344, title V, §502, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–610.)
+&emsp;(10) The term “current” has the same meaning as in section 900(c)(9) of this title.
+
+&emsp;(11) The term “Director” means the Director of the Office of Management and Budget.
+
+(Pub. L. 93–344, title V, §502, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–610; amended Pub. L. 105–33, title X, §10117(a), Aug. 5, 1997, 111 Stat. 692.)
 
 #### Prior Provisions
 
 A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was set out as a note under section 1020 of former Title 31, prior to repeal by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
+#### Amendments
+
+1997—Par. (1). Pub. L. 105–33, §10117(a)(1), inserted “and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms” after “another lender”.
+
+Par. (5)(A). Pub. L. 105–33, §10117(a)(2), inserted “or modification thereof” after “or loan guarantee”.
+
+Par. (5)(B), (C). Pub. L. 105–33, §10117(a)(3), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) The cost of a direct loan shall be the net present value, at the time when the direct loan is disbursed, of the following cash flows:
+
+&emsp;“(i) loan disbursements;
+
+&emsp;“(ii) repayments of principal; and
+
+&emsp;“(iii) payments of interest and other payments by or to the Government over the life of the loan after adjusting for estimated defaults, prepayments, fees, penalties and other recoveries.
+
+“(C) The cost of a loan guarantee shall be the net present value when a guaranteed loan is disbursed of the cash flow from—
+
+&emsp;“(i) estimated payments by the Government to cover defaults and delinquencies, interest subsidies, or other payments, and
+
+&emsp;“(ii) the estimated payments to the Government including origination and other fees, penalties and recoveries.”
+
+Par. (5)(D). Pub. L. 105–33, §10117(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification.”
+
+Par. (5)(E). Pub. L. 105–33, §10117(a)(5), inserted “the cash flows of” after “similar maturity to”.
+
+Par. (5)(F). Pub. L. 105–33, §10117(a)(6), added subpar. (F).
+
+Pars. (9) to (11). Pub. L. 105–33, §10117(a)(7), added pars. (9) and (10) and redesignated former par. (9) as (11).
+
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 sections 2540d, 2873; title 12 sections 635i–5, 1701z–11, 1715z–13a, 1721, 1735f–20, 4707; title 14 section 682; title 15 section 697; title 22 section 290m–2; title 46 App. section 1279e.
+This section is referred to in section 661d of this title; title 10 sections 2540d, 2873; title 12 sections 635i–5, 1701z–11, 1715z–13a, 1721, 1735f–20, 4707; title 14 section 682; title 15 sections 636, 683, 697; title 22 section 290m–2; title 25 section 4195; title 31 section 3711; title 42 section 1490p–2; title 46 App. sections 1273, 1279e.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

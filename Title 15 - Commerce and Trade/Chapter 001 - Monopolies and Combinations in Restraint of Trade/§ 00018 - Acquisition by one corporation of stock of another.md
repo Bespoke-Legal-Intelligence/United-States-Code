@@ -8,7 +8,7 @@ This section shall not apply to persons purchasing such stock solely for investm
 
 Nor shall anything herein contained be construed to prohibit any common carrier subject to the laws to regulate commerce from aiding in the construction of branches or short lines so located as to become feeders to the main line of the company so aiding in such construction or from acquiring or owning all or any part of the stock of such branch lines, nor to prevent any such common carrier from acquiring and owning all or any part of the stock of a branch or short line constructed by an independent company where there is no substantial competition between the company owning the branch line so constructed and the company owning the main line acquiring the property or an interest therein, nor to prevent such common carrier from extending any of its lines through the medium of the acquisition of stock or otherwise of any other common carrier where there is no substantial competition between the company extending its lines and the company whose stock, property, or an interest therein is so acquired.
 
-Nothing contained in this section shall be held to affect or impair any right heretofore legally acquired: <i>Provided</i>, That nothing in this section shall be held or construed to authorize or make lawful anything heretofore prohibited or made illegal by the antitrust laws, nor to exempt any person from the penal provisions thereof or the civil remedies therein provided.
+Nothing contained in this section shall be held to affect or impair any right heretofore legallyacquired: <i>Provided</i>, That nothing in this section shall be held or construed to authorize or make lawful anything heretofore prohibited or made illegal by the antitrust laws, nor to exempt any person from the penal provisions thereof or the civil remedies therein provided.
 
 Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Power Commission, Surface Transportation Board, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title, the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission, Board, or Secretary.
 
@@ -18,7 +18,7 @@ Nothing contained in this section shall apply to transactions duly consummated p
 
 1996—Pub. L. 104–104, in sixth par., struck out “Federal Communications Commission,” after “Secretary of Transportation,”.
 
-1995—Pub. L. 104–88, in sixth par., substituted “Surface Transportation Board” for “Interstate CommerceCommission” and inserted “, Board,” after “vesting such power in such Commission”.
+1995—Pub. L. 104–88, in sixth par., substituted “Surface Transportation Board” for “Interstate Commerce Commission” and inserted “, Board,” after “vesting such power in such Commission”.
 
 1984—Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board” and “Commission or Secretary” for “Commission, Secretary, or Board” in sixth par.
 

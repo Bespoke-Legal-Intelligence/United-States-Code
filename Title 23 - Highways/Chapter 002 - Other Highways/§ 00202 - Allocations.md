@@ -8,7 +8,7 @@
 
 (d) On October 1 of each fiscal year, the Secretary shall allocate the sums authorized to be appropriated for such fiscal year for Indian reservation roads according to the relative needs of the various reservations as jointly identified by the Secretary and the Secretary of the Interior.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 94–280, title I, §133, May 5, 1976, 90 Stat. 441; Pub.L. 97–424, title I, §126(a), Jan. 6, 1983, 96 Stat. 2113; Pub. L. 102–240, title I, §1032(a), Dec. 18, 1991, 105 Stat. 1974.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 94–280, title I, §133, May 5, 1976, 90 Stat. 441; Pub. L. 97–424, title I, §126(a), Jan. 6, 1983, 96 Stat. 2113; Pub. L. 102–240, title I, §1032(a), Dec. 18, 1991, 105 Stat. 1974.)
 
 #### References in Text
 
@@ -16,7 +16,7 @@ Section 134 of the Federal-Aid Highway Act of 1987, referred to in subsec. (b), 
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–240, §1032(a)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “On October 1 of each fiscal year, the Secretary shall allocate the sums authorized to be appropriated for such fiscal year for forest highways according to the relative needs of the various elements of the national forest system as determined by the Secretary, taking into consideration the need for access as identified by the Secretary of Agriculture through renewable resource and land use planning, and the impact of such planning on existing transportation facilities.”
+1991—Subsec. (a). Pub. L. 102–240, §1032(a)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “On October 1 of each fiscal year, the Secretary shall allocate the sums authorized to be appropriated for such fiscal year for forest highways according to the relative needs of the various elements of the national forest system as determined by the Secretary, taking into consideration the needfor access as identified by the Secretary of Agriculture through renewable resource and land use planning, and the impact of such planning on existing transportation facilities.”
 
 Subsec. (b). Pub. L. 102–240, §1032(a)(2)–(4), redesignated subsec. (c) as (b), inserted “34 percent of” after “allocate”, and substituted for period at end “which are proposed by a State which contains at least 3 percent of the total public lands in the Nation. The Secretary shall allocate 66 percent of the remainder of the authorization for public lands highways for each fiscal year as is provided in section 134 of the Federal-Aid Highway Act of 1987, and with respect to these allocations the Secretary shall give equal consideration to projects that provide access to and within the National Forest System, as identified by the Secretary of Agriculture through renewable resources and land use planning and the impact of such planning on existing transportation facilities.” Former subsec. (b) redesignated (a).
 

@@ -2,7 +2,7 @@
 
 The Secretary shall include in the report to Congress required pursuant to section 389a <sup>1</sup> of this title, a description of actions taken under the provisions of sections 389 to 389e of this title during the preceding fiscal year. No proceedings under such sections shall become effective until approved by the Congress.
 
-(June 22, 1936, ch. 692, §6, 49 Stat. 1804; Oct. 19, 1980, Pub. L. 96–470, title II, §206(b), 94 Stat. 2244.)
+(June 22, 1936, ch. 692, §6, 49 Stat. 1804; Pub. L. 96–470, title II, §206(b), Oct. 19, 1980, 94 Stat. 2244.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ The Secretary of the Treasury may by regulation require such marks, brands, and 
 
 #### Amendments
 
-1978—Pub. L. 95–410 substituted provisions authorizing the Secretary of the Treasury to require by regulation the placing of marks, brands, and stamps or devices on bulk containers of imported distilled spirits, wines, or malt liquors used for holding, storing, transferring or conveying the imported liquors for prior provisions for deposit of imported distilled spirits, wines, and malt liquors in public store or bonded warehouse, inspection of packages, affixing of stamps thereto, and special stamps for cask or package of not less than fivewine-gallons filled for shipment, sale, or delivery on premises of any wholesale liquor-dealer under rules and regulations prescribed by Commissioner of Internal Revenue.
+1978—Pub. L. 95–410 substituted provisions authorizing the Secretary of the Treasury to require by regulation the placing of marks, brands, and stamps or devices on bulk containers of imported distilled spirits, wines, or malt liquors used for holding, storing, transferring or conveying the imported liquors for prior provisions for deposit of imported distilled spirits, wines, and malt liquors in public store or bonded warehouse, inspection of packages, affixing of stamps thereto, and special stamps for cask or package of not less than five wine-gallons filled for shipment, sale, or delivery on premises of any wholesale liquor-dealer under rules and regulations prescribed by Commissioner of Internal Revenue.
 
 #### Transfer of Functions
 

@@ -6,7 +6,7 @@ The Secretary may enter into a cooperative agreement with the Little Calumet Riv
 
 #### (b) Study
 
-The Secretary shall conduct a study regarding the options available for linking the portions of the lakeshore which are divided by the Little Calumet River and Burns/Portage Waterway so as to coordinate the management and recreational use of the lakeshore. The Secretary shall submit the results of the study to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate within two years after October 29, 1986. Effective October 1, 1986, there is authorized to be appropriated such sums as may be necessary for the purposes of conducting the study.
+The Secretary shall conduct a study regarding the options available for linking the portions of the lakeshore which are divided by the Little Calumet River and Burns/Portage Waterway so as to coordinate the management and recreational use of the lakeshore. The Secretary shall submit the results of the study to the Committee on Interior and Insular Affairs of the United States House of Representatives and theCommittee on Energy and Natural Resources of the United States Senate within two years after October 29, 1986. Effective October 1, 1986, there is authorized to be appropriated such sums as may be necessary for the purposes of conducting the study.
 
 (Pub. L. 89–761, §24, as added Pub. L. 99–583, §1(i), Oct. 29, 1986, 100 Stat. 3320.)
 

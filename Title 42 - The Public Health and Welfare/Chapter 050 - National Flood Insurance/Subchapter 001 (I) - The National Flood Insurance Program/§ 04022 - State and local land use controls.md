@@ -22,13 +22,13 @@
 
 #### (C) Prohibition on disaster relief
 
-&emsp;&emsp;Notwithstanding any other provision of law, any agricultural structure repaired or restored pursuant to subparagraph (A) shall not be eligible for disaster relief assistance under any program administered by the Director or any other Federal agency.
+&emsp;&emsp;Notwithstanding any other provision of law, any agricultural structure repaired or restored pursuant to subparagraph (A) shall not be eligible for disaster relief assistanceunder any program administered by the Director or any other Federal agency.
 
 #### (D) Definitions
 
 &emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) the term “agricultural structure” means any structure used exclusively inconnection with the production, harvesting, storage, raising, or drying of agricultural commodities; and
+&emsp;&emsp;&emsp;(i) the term “agricultural structure” means any structure used exclusively in connection with the production, harvesting, storage, raising, or drying of agricultural commodities; and
 
 &emsp;&emsp;&emsp;(ii) the term “agricultural commodities” means agricultural commodities and livestock.
 

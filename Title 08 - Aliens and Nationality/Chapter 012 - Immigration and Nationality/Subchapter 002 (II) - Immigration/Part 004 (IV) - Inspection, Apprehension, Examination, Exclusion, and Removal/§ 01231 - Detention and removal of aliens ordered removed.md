@@ -42,13 +42,13 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in section 259(a) of title 42 and paragraph (2), the Attorney Generalmay not remove an alien who is sentenced to imprisonment until the alien is released from imprisonment. Parole, supervised release, probation, or possibility of arrest or further imprisonment is not a reason to defer removal.
+&emsp;&emsp;Except as provided in section 259(a) of title 42 and paragraph (2),<sup>1</sup> the Attorney General may not remove an alien who is sentenced to imprisonment until the alien is released from imprisonment. Parole, supervised release, probation, or possibility of arrest or further imprisonment is not a reason to defer removal.
 
 #### (B) Exception for removal of nonviolent offenders prior to completion of sentence of imprisonment
 
 &emsp;&emsp;The Attorney General is authorized to remove an alien in accordance with applicable procedures under this chapter before the alien has completed a sentence of imprisonment—
 
-&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>1</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
+&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of thistitle <sup>2</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
 
 &emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
 
@@ -188,7 +188,7 @@
 
 #### (1) Vessels and aircraft
 
-&emsp;An alien arriving at a port of entry of the United States who is ordered removed either without a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
+&emsp;An alien arriving at a port of entry of the United States who is ordered removed eitherwithout a hearing under section 1225(b)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival shall be removed immediately on a vessel or aircraft owned by the owner of the vessel or aircraft on which the alien arrived in the United States, unless—
 
 &emsp;&emsp;(A) it is impracticable to remove the alien on one of those vessels or aircraft within a reasonable time, or
 
@@ -232,7 +232,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d) of this section, an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
+&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d) <sup>3</sup> of this section, an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
 
 &emsp;&emsp;&emsp;(i) while the alien is detained under subsection (d)(1) of this section, and
 
@@ -268,7 +268,7 @@
 
 #### (1) Removal at time of arrival
 
-&emsp;An owner, agent, master, commanding officer, person in charge, purser, or consignee of avessel or aircraft bringing an alien (except an alien crewmember) to the United States shall—
+&emsp;An owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel or aircraft bringing an alien (except an alien crewmember) to the United States shall—
 
 &emsp;&emsp;(A) receive an alien back on the vessel or aircraft or another vessel or aircraft owned or operated by the same interests if the alien is ordered removed under this part; and
 
@@ -300,7 +300,7 @@
 
 #### (1) Costs of removal at time of arrival
 
-&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
+&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>4</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
 
 &emsp;&emsp;(A) pay the cost from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”; and
 
@@ -342,13 +342,13 @@
 
 #### (2) Costs
 
-&emsp;The costs of providing the service described in paragraph (1) shall be defrayed in the samemanner as the expense of removing the accompanied alien is defrayed under this section.
+&emsp;The costs of providing the service described in paragraph (1) shall be defrayed in the same manner as the expense of removing the accompanied alien is defrayed under this section.
 
 #### (g) Places of detention
 
 #### (1) In general
 
-&emsp;The Attorney General shall arrange for appropriate places of detention for aliens detained pending removal or a decision on removal. When United States Government facilities are unavailable or facilities adapted or suitably located for detention are unavailable for rental, the Attorney General may expend from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”, without regard to section 5 of title 41, amounts necessary to acquire land and to acquire, build, remodel, repair, and operate facilities (including living quarters for immigration officers if not otherwise available) necessary for detention.
+&emsp;The Attorney General shall arrange for appropriate places of detention for aliens detained pending removal or a decision on removal. When United States Government facilities are unavailable or facilities adapted or suitably located for detention are unavailablefor rental, the Attorney General may expend from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”, without regard to section 5 of title 41, amounts necessary to acquire land and to acquire, build, remodel, repair, and operate facilities (including living quarters for immigration officers if not otherwise available) necessary for detention.
 
 #### (2) Detention facilities of the Immigration and Naturalization Service
 
@@ -424,11 +424,11 @@ Section 328(a)(2) of div. C of Pub. L. 104–208 provided that: “The amendment
 
 #### Effective Date
 
-Section effective, with certain transitional provisions, on the first day of the first month beginningmore than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
-For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) ofPub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Pilot Program on Use of Closed Military Bases for Detention of Inadmissible or Deportable Aliens
 
@@ -466,5 +466,5 @@ Section 20301(c) of Pub. L. 103–322, as amended by Pub. L. 104–208, div. C, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1158, 1159, 1182, 1184, 1229a, 1229b, 1252, 1253, 1324c, 1326, 1356, 1368, 1371, 1534 of this title; title 7 section 2015.
+This section is referred to in sections 1158, 1159, 1182, 1184, 1229a, 1229b, 1252, 1253, 1324c, 1326, 1368, 1371, 1534, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 42 sections 1436a, 13710.
 

@@ -1,6 +1,6 @@
 ### §1861. Establishment; composition
 
-There is established in the executive branch of the Government an independent agency to be known as the National Science Foundation (hereinafter referred to as the “Foundation”). The Foundation shall consist of a NationalScience Board (hereinafter referred to as the “Board”) and a Director.
+There is established in the executive branch of the Government an independent agency to be known as the National Science Foundation (hereinafter referred to as the “Foundation”). The Foundation shall consist of a National Science Board (hereinafter referred to as the “Board”) and a Director.
 
 (May 10, 1950, ch. 171, §2, 64 Stat. 149.)
 
@@ -54,7 +54,7 @@ Amendments by Pub. L. 90–407, July 18, 1868, 82 Stat. 360, intended to continu
 
 Eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, as amended Pub. L. 88–426, title III, §305(41), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 29, 1962, pursuant to the provisions of the Reorganization Act of 1949, 63 Stat. 203, as amended \[see 5 U.S.C. 901 et seq.\].
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 29, 1962, pursuant to the provisions ofthe Reorganization Act of 1949, 63 Stat. 203, as amended \[see 5 U.S.C. 901 et seq.\].
 
 #### CERTAIN SCIENCE AGENCIES AND FUNCTIONS
 
@@ -112,7 +112,7 @@ I74Section 21. Executive Committee
 
 I74Section 31. Incidental Transfers
 
-(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, available, or to be made available, in connection with the functions transferred by the provisions of section 3 of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Office of Science and Technology at such time or times as the said Director shall direct.
+(a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, available, or to be made available, in connection with the functions transferred by the provisions of section 3 of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Office ofScience and Technology at such time or times as the said Director shall direct.
 
 (b) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers provided for in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 
@@ -120,7 +120,7 @@ I74Section 31. Incidental Transfers
 
 (a) The President may authorize any person who immediately prior to the effective date of Part I of the reorganization plan holds a position in the Executive Office of the President to act as Director of the Office of Science and Technology until the office of Director is for the first time filled pursuant to the provisions of this reorganization plan or by recess appointment, as the case may be.
 
-(b) The President may authorize any person who immediately prior to the effective date of section 22 of this reorganization plan holds any office existing under the provisions of the National Science Foundation Actof 1950 \[42 U.S.C. 1861 et seq.\] to act as Director of the National Science Foundation until the Office of Director is for the first time filled pursuant to the provisions of this reorganization plan or by recess appointment, as the case may be.
+(b) The President may authorize any person who immediately prior to the effective date of section 22 of this reorganization plan holds any office existing under the provisions of the National Science Foundation Act of 1950 \[42 U.S.C. 1861 et seq.\] to act as Director of the National Science Foundation until the Office of Director is for the first time filled pursuant to the provisions of this reorganization plan or by recess appointment, as the case may be.
 
 (c) The President may authorize any person who serves in an acting capacity under the foregoing provisions of this section to receive the compensation attached to the office in respect of which he so serves. Such compensation, if authorized, shall be in lieu of, but not in addition to, other compensation from the United States to which such person may be entitled.
 
@@ -168,7 +168,7 @@ Part II of the reorganization plan provides for certain reorganizations within t
 
 &emsp;(1) There is established a new office of Director of the National Science Foundation and that Director, ex officio, is made a member of the National Science Board on a basis coordinate with that of other Board members.
 
-&emsp;(2) There is substituted for the now-existing Executive Committee of the National Science Board a newExecutive Committee composed of the Director of the National Science Foundation, ex officio, as a voting member and Chairman of the Committee, and of four other members elected by the National Science Board from among its appointive members.
+&emsp;(2) There is substituted for the now-existing Executive Committee of the National Science Board a new Executive Committee composed of the Director of the National Science Foundation, ex officio, as a voting member and Chairman of the Committee, and of four other members elected by the National Science Board from among its appointive members.
 
 &emsp;(3) Committees advisory to each of the divisions of the Foundation will make their recommendations to the Director only rather than to both the Director and the National Science Board.
 

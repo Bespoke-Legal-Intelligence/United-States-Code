@@ -30,7 +30,7 @@ The Chairperson, with the advice of the National Council on the Humanities (here
 
 &emsp;(8) support the publication of scholarly works in the humanities;
 
-&emsp;(9) insure that the benefit of its programs will also be available to our citizens where such programs would otherwise be unavailable due to geographic or economic reasons; and
+&emsp;(9) insure that the benefit of its programs will also be available to our citizens wheresuch programs would otherwise be unavailable due to geographic or economic reasons; and
 
 &emsp;(10) foster programs and projects that provide access to, and preserve materials important to research, education, and public understanding of, the humanities.
 
@@ -48,7 +48,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 (1) The Chairperson, with the advice of the National Council on the Humanities, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of grants-in-aid in each of the several States in order to support not more than 50 per centum of the cost of existing activities which meet the standards enumerated in subsection (c) of this section, and in order to develop a program in the humanities in such a manner as will furnish adequate programs in the humanities in each of the several States.
 
-(2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In anyState in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
+(2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In any State in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
 
 &emsp;(i) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the “State agency”) as the sole agency for the administration of the State plan;
 
@@ -72,7 +72,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;&emsp;(I) a description of the level of participation during the most recent preceding year for which information is available by scholars and scholarly organizations in programs receiving financial assistance under this subsection;
 
-&emsp;&emsp;(II) for the most recent preceding year for which information is available, a description of the extent to which the programs receiving financial assistance under this subsection are available to all people and communities in the State; and
+&emsp;&emsp;(II) for the most recent preceding year for which information is available, a descriptionof the extent to which the programs receiving financial assistance under this subsection are available to all people and communities in the State; and
 
 &emsp;&emsp;(III) a description of programs receiving financial assistance under this subsection that exist or are being developed to secure wider participation of scholars and scholarly organizations identified under subclause (I) of this clause or that address the availability of the humanities to all people or communities identified under subclause (II) of this clause.
 
@@ -124,7 +124,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(B) 44 per centum of the amount of such excess for such fiscal year shall be allotted in equal amounts among the States and grant recipients which have plans approved by the Chairperson; and
 
-&emsp;(C) 22 per centum of the amount of such excess for such fiscal year shall be allotted among the States and grant recipients which have plans approved by the Chairperson in amounts which bear the same ratio to such excess as the population of the State for which the plan is approved (or, in the case of a grant recipient other than a State, the population of the State in which such grant recipient is located) bears to the population of all the States.
+&emsp;(C) 22 per centum of the amount of such excess for such fiscal year shall be allotted among the States and grant recipients which have plans approved by the Chairperson in amounts which bear the same ratio to such excess as the population of the State for which the plan is approved (or, in the case of a grantrecipient other than a State, the population of the State in which such grant recipient is located) bears to the population of all the States.
 
 (5)(A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (4) for any fiscal year—
 
@@ -154,7 +154,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 > the Chairperson shall immediately notify the Secretary of the Treasury and the group, State agency, or grant recipient with respect to which such finding was made that no further grants will be made under this subsection to such group, State agency, or grant recipient until there is no longer a default or failure to comply or the diversion has been corrected, or, if the compliance or correction is impossible, until such group, State agency, or grant recipient repays or arranges the repayment of the Federal funds which have been improperly diverted or expended.
 
-(8) Except as provided in the third sentence of paragraph (4), and paragraphs (5) and (6), theChairperson may not make grants under this subsection to more than one entity in any State.
+(8) Except as provided in the third sentence of paragraph (4), and paragraphs (5) and (6), the Chairperson may not make grants under this subsection to more than one entity in any State.
 
 #### (g) Payment of performers and supporting personnel; standards, regulations, and procedures
 
@@ -274,7 +274,7 @@ Subsec. (f)(3). Pub. L. 96–496, §104(a)(2), substituted provisions requiring 
 
 Subsec. (f)(4). Pub. L. 96–496, §104(a)(3), in provisions preceding subpar. (A), substituted “each State and each grant recipient” for “each grant recipient” and “such States and grant recipients” for “such grant recipients”, in subpar. (A), substituted “34 per centum of the amount of such excess for such” for “the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any” and inserted “States and regional groups and”, in subpar. (B), substituted “44 per centum of the amount of such excess for such fiscal year” for “the amount of such excess, if any, which remains after reserving in full for the Chairman the amount required under subparagraph (A)” and “States and grant recipients” for “grant recipients” and struck out “but in no event shall any grant recipient be allotted less than $200,000” after “Chairman” and added subpar. (C).
 
-Subsec. (f)(5)(A). Pub. L. 96–496, §104(a)(4)(A), substituted “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
+Subsec. (f)(5)(A). Pub. L. 96–496, §104(a)(4)(A), substituted “The amount of each allotment to a State forany fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
 
 Subsec. (f)(5)(B). Pub. L. 96–496, §104(a)(4)(B), inserted “State agency or”.
 

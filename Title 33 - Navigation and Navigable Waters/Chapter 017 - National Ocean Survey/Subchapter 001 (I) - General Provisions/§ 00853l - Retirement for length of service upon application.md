@@ -2,7 +2,7 @@
 
 When any commissioned officer has completed twenty years of service, he may at any time thereafter, upon his own application, in the discretion of the President, be placed on the retired list.
 
-(June 3, 1948, ch. 390, §14, formerly §13, 62 Stat. 299; renumbered §14 and amended Sept. 14, 1961, Pub. L. 87–233, §1(e), 75 Stat. 506.)
+(June 3, 1948, ch. 390, §14, formerly §13, 62 Stat. 299; renumbered §14 and amended Pub. L. 87–233, §1(e), Sept. 14, 1961, 75 Stat. 506.)
 
 #### Prior Provisions
 

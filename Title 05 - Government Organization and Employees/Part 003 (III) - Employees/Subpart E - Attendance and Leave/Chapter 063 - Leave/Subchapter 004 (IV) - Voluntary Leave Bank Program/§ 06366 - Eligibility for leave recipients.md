@@ -18,7 +18,7 @@
 
 (2) Notwithstanding the provisions of paragraph (1), the Leave Bank Board of an agency, after consultation with the Office of Personnel Management, may—
 
-&emsp;(A) reduce the minimum number of hours required under paragraph (1) for any leave year,if such Board determines there is a surplus of leave in the leave bank; and
+&emsp;(A) reduce the minimum number of hours required under paragraph (1) for any leave year, if such Board determines there is a surplus of leave in the leave bank; and
 
 &emsp;(B) increase the number of minimum hours required under paragraph (1) for the succeeding leave year, in any leave year in which the Board determines there is a shortage of leave in the leave bank.
 

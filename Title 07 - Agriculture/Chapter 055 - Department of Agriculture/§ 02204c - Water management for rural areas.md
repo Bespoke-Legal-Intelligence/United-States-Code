@@ -40,7 +40,7 @@ In implementing this section, the Secretary—
 
 &emsp;(B) establish a procedure under which entities described in subsections (a) and (c) of this section may apply for assistance under this section; and
 
-&emsp;(C) foster cooperation between such entities and other Federal, State, or local agencies for the purposes of carrying out the provisions of this section.
+&emsp;(C) foster cooperation between such entities and other Federal, State, or local agencies forthe purposes of carrying out the provisions of this section.
 
 #### (e) “University” defined
 

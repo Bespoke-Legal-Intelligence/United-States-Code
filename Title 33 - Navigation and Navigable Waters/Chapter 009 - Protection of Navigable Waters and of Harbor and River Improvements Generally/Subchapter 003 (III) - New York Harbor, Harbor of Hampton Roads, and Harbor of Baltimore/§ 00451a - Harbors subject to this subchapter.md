@@ -8,7 +8,7 @@ The following harbors shall be subject to this subchapter:
 
 &emsp;(3) The harbor of Baltimore.
 
-(June 29, 1888, ch. 496, §6, 25 Stat. 210; Aug. 28, 1958, Pub. L. 85–802, §1(7), 72 Stat. 970.)
+(June 29, 1888, ch. 496, §6, 25 Stat. 210; Pub. L. 85–802, §1(7), Aug. 28, 1958, 72 Stat. 970.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@ The first report submitted pursuant to section 5474 of this title shall include 
 
 #### (2) Priorities and costs for action
 
-&emsp;An analysis of the priorities that Poland and Hungary should each assign in addressing its environmental problems, and an estimate of the capital and human resources required to undertake a comprehensive program of environmental protection in that country.
+&emsp;An analysis of the priorities that Poland and Hungary should each assign in addressing itsenvironmental problems, and an estimate of the capital and human resources required to undertake a comprehensive program of environmental protection in that country.
 
 #### (3) Role of United States and multilateral assistance
 

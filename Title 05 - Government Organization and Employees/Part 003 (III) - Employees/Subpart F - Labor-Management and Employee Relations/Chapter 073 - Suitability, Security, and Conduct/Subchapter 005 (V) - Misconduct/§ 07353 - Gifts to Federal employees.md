@@ -2,11 +2,11 @@
 
 (a) Except as permitted by subsection (b), no Member of Congress or officer or employee of the executive, legislative, or judicial branch shall solicit or accept anything of value from a person—
 
-&emsp;(1) seeking official action from, doing business with, or (in the case of executive branch officers and employees) conducting activitiesregulated by, the individual's employing entity; or
+&emsp;(1) seeking official action from, doing business with, or (in the case of executive branch officers and employees) conducting activities regulated by, the individual's employing entity; or
 
 &emsp;(2) whose interests may be substantially affected by the performance or nonperformance of the individual's official duties.
 
-(b)(1) Each supervising ethics office is authorized to issue rules or regulations implementing the provisions of this section and providing for such reasonable exceptions as may be appropriate.
+(b)(1) Each supervising ethics office is authorized to issue rules or regulations implementingthe provisions of this section and providing for such reasonable exceptions as may be appropriate.
 
 (2)(A) Subject to subparagraph (B), a Member, officer, or employee may accept a gift pursuant to rules or regulations established by such individual's supervising ethics office pursuant to paragraph (1).
 

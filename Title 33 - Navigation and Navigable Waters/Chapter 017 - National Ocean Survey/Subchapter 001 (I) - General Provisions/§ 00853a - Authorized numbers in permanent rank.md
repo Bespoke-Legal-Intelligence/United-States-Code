@@ -20,7 +20,7 @@ Nothing in this section shall be construed as requiring the filling of any vacan
 
 The total number of officers on active duty as authorized by law may be temporarily exceeded provided that the average number on active duty for the fiscal year shall not exceed the authorized number.
 
-(June 3, 1948, ch. 390, §2, 62 Stat. 297; Sept. 14, 1961, Pub. L. 87–233, §1(a), 75 Stat. 506; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(June 3, 1948, ch. 390, §2, 62 Stat. 297; Pub. L. 87–233, §1(a), Sept. 14, 1961, 75 Stat. 506; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 #### Amendments
 

@@ -40,7 +40,7 @@ This chapter, referred to in subsecs. (c)(1), (d), and (f), was in the original 
 
 The Foreign Assistance Act of 1961, as amended, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Mutual Security Act of 1954, as amended, referred to in subsec. (e), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2–11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101–103, ch. II, §§201–205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201–205(a)–(i), (k)–(n), ch. III, §301, ch. IV, §401(a)–(k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, §228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
+The Mutual Security Act of 1954, as amended, referred to in subsec. (e), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2–11, 70 Stat. 555; Aug.14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101–103, ch. II, §§201–205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201–205(a)–(i), (k)–(n), ch. III, §301, ch. IV, §401(a)–(k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, §228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 
 Sections 405(a), 405(c), 405(d), and 451(c) of the Mutual Security Act of 1954, as amended, referred to in subsec. (e), were sections of act Aug. 26, 1954, ch. 937, 68 Stat. 832, and were repealed by section 6 of Pub. L. 87–510.
 
@@ -64,7 +64,7 @@ Subsec. (c)(2). Pub. L. 96–212, §312(b)(2), inserted provisions increasing am
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, seesection 313 of Pub. L. 96–212, set out as an Effective Date note under section 1522 of Title 8, Immigration and Nationality.
+Amendment by Pub. L. 96–212 effective with respect to fiscal years beginning on and after Oct. 1, 1979, see section 313 of Pub. L. 96–212, set out as an Effective Date note under section 1522 of Title 8, Immigration and Nationality.
 
 #### Short Title
 
@@ -144,7 +144,7 @@ Ex. Ord. No. 12244, Oct. 3, 1980, 45 F.R. 66443, which provided exemptions from 
 
 #### Executive Order No. 12327
 
-Ex. Ord. No. 12327, Oct. 1, 1981, 46 F.R. 48893, which provided for temporary housing of Haitian refugees atFort Allen in Puerto Rico and exempted Fort Allen from certain statutory requirements, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 12327, Oct. 1, 1981, 46 F.R. 48893, which provided for temporary housing of Haitian refugees at Fort Allen in Puerto Rico and exempted Fort Allen from certain statutory requirements, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

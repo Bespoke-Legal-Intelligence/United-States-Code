@@ -8,7 +8,7 @@
 
 #### (b) List of persons disqualified from representing claimants
 
-(1) No representation fee of a claimant's representative shall be approved by the deputy commissioner, an administrative law judge, the Board, or a court pursuant to section 928 of this title, if the claimant's representative is on the list of individuals who are disqualified from representing claimants under this chapter maintained by the Secretary pursuant to paragraph (2) of this subsection.
+(1) No representation fee of a claimant's representative shall be approved by the deputycommissioner, an administrative law judge, the Board, or a court pursuant to section 928 of this title, if the claimant's representative is on the list of individuals who are disqualified from representing claimants under this chapter maintained by the Secretary pursuant to paragraph (2) of this subsection.
 
 (2)(A) The Secretary shall annually prepare a list of those individuals in each compensation district who have represented claimants for a fee in cases under this chapter and who are not authorized to represent claimants. The names of individuals contained on the list required under this subparagraph shall be made available to employees and employers in each compensation district through posting and in such other forms as the Secretary may prescribe.
 
@@ -18,7 +18,7 @@
 
 &emsp;(ii) has engaged in fraud in connection with the presentation of a claim under this or any workers’ compensation statute, including, but not limited to, knowingly making false representations, concealing or attempting to conceal material facts with respect to a claim, or soliciting or otherwise procuring false testimony;
 
-&emsp;(iii) has been prohibited from representing claimants before any other workers’ compensation agency for reasons of professionalmisconduct which are similar in nature to those which would be grounds for disqualification under this paragraph; or
+&emsp;(iii) has been prohibited from representing claimants before any other workers’ compensation agency for reasons of professional misconduct which are similar in nature to those which would be grounds for disqualification under this paragraph; or
 
 &emsp;(iv) has accepted fees for representing claimants under this chapter which were not approved, or which were in excess of the amount approved pursuant to section 928 of this title.
 
@@ -34,7 +34,7 @@
 
 A person including, but not limited to, an employer, his duly authorized agent, or an employee of an insurance carrier who knowingly and willfully makes a false statement or representation for the purpose of reducing, denying, or terminating benefits to an injured employee, or his dependents pursuant to section 909 of this title if the injury results in death, shall be punished by a fine not to exceed $10,000, by imprisonment not to exceed five years, or by both.
 
-(Mar. 4, 1927, ch. 509, §31, 44 Stat. 1439; Sept. 28, 1984, Pub. L. 98–426, §19, 98 Stat. 1650.)
+(Mar. 4, 1927, ch. 509, §31, 44 Stat. 1439; Pub. L. 98–426, §19, Sept. 28, 1984, 98 Stat. 1650.)
 
 #### Amendments
 

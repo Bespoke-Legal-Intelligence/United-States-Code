@@ -26,7 +26,7 @@
 
 (2) In preparing the matter referred to in paragraph (1), the Secretary shall take into consideration the content of the annual national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 404a) for the fiscal year concerned.
 
-(f) When a vacancy occurs in an office within the Department of Defense and the office is to be filled by a person appointed from civilian life by the President, by and with the advice and consent of the Senate, the Secretary of Defense shall inform the President of the qualifications needed by a person serving in that office to carry out effectively the duties and responsibilities of that office.
+(f) When a vacancy occurs in an office within the Department of Defense and the office is to be filled by a person appointed from civilian life by the President, by and with the advice andconsent of the Senate, the Secretary of Defense shall inform the President of the qualifications needed by a person serving in that office to carry out effectively the duties and responsibilities of that office.
 
 (g)(1) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the heads of Department of Defense components written policy guidance for the preparation and review of the program recommendations and budget proposals of their respective components. Such guidance shall include guidance on—
 
@@ -36,7 +36,7 @@
 
 &emsp;(C) the resource levels projected to be available for the period of time for which such recommendations and proposals are to be effective.
 
-(2) The Secretary of Defense, with the approval of the President and after consultation with the Chairman of the Joint Chiefs of Staff, shall provide annually to the Chairman written policy guidance for the preparation and review of contingency plans. Such guidance shall include guidance on the specific force levels and specific supporting resource levels projected to be available for the period of time for which such plans are to be effective.
+(2) The Secretary of Defense, with the approval of the President and after consultation with the Chairman of the Joint Chiefs of Staff, shall provide to the Chairman written policy guidance for the preparation and review of contingency plans. Such guidance shall be provided every two years or more frequently as needed and shall include guidance on the specific force levels and specific supporting resource levels projected to be available for the period of time for which such plans are to be effective.
 
 (h) The Secretary of Defense shall keep the Secretaries of the military departments informed with respect to military operations and activities of the Department of Defense that directly affect their respective responsibilities.
 
@@ -70,7 +70,7 @@
 
 (k) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the Secretaries of the military departments and to the commanders of the combatant commands written guidelines to direct the effective detection and monitoring of all potential aerial and maritime threats to the national security of the United States. Those guidelines shall include guidance on the specific force levels and specific supporting resources to be made available for the period of time for which the guidelines are to be in effect.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §133; amended Pub. L. 96–513, title V, §511(3), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–252, title XI, §1105, Sept. 8, 1982, 96 Stat. 739; Pub. L. 97–295, §1(1), Oct. 12, 1982, 96 Stat. 1287; renumbered §113 and amended Pub. L. 99–433, title I, §§101(a)(2), 102, 110(b)(2), (d)(2), title III, §301(b)(2), title VI, §603(b), Oct. 1, 1986, 100 Stat. 994, 996, 1002, 1022, 1075; Pub. L. 100–26, §7(d)(1), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title XII, §1214, Dec. 4, 1987, 101 Stat. 1157; Pub. L. 100–370, §1(<i>o</i>)(1), July 19, 1988, 102 Stat. 850; Pub. L. 100–456, div. A, title VII, §731, title XI, §1101, Sept. 29, 1988, 102 Stat. 2003, 2042; Pub. L. 101–189, div. A, title XVI, §1622(c)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title XIII, §1322(a)(1), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, §341, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 103–337, div. A, title X, §1070(a)(1), title XVI, §1671(c)(2), Oct. 5, 1994, 108 Stat. 2855, 3014; Pub. L. 104–106, div. A, title XV, §§1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, 110 Stat. 495, 502, 510; Pub. L. 104–201, div. A, title XII, §1255(c), Sept. 23, 1996, 110 Stat. 2698.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 517, §133; amended Pub. L. 96–513, title V, §511(3), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–252, title XI, §1105, Sept. 8, 1982, 96 Stat. 739; Pub. L. 97–295, §1(1), Oct. 12, 1982, 96 Stat. 1287; renumbered §113 and amended Pub. L. 99–433, title I, §§101(a)(2), 102, 110(b)(2), (d)(2), title III, §301(b)(2), title VI, §603(b), Oct. 1, 1986, 100 Stat. 994, 996, 1002, 1022, 1075; Pub. L. 100–26, §7(d)(1), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title XII, §1214, Dec. 4, 1987, 101 Stat. 1157; Pub. L. 100–370, §1(<i>o</i>)(1), July 19, 1988, 102 Stat. 850; Pub. L. 100–456, div. A, title VII, §731, title XI, §1101, Sept. 29, 1988, 102 Stat. 2003, 2042; Pub. L. 101–189, div. A, title XVI, §1622(c)(1), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, titleXIII, §1322(a)(1), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 102–190, div. A, title III, §341, Dec. 5, 1991, 105 Stat. 1343; Pub. L. 103–337, div. A, title X, §1070(a)(1), title XVI, §1671(c)(2), Oct. 5, 1994, 108 Stat. 2855, 3014; Pub. L. 104–106, div. A, title XV, §§1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, 110 Stat. 495, 502, 510; Pub. L. 104–201, div. A, title XII, §1255(c), Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title IX, §903, Nov. 18, 1997, 111 Stat. 1854.)
 
 Historical and Revision Notes<br>1962
 
@@ -168,6 +168,8 @@ In codifying this provision, the committee also changed the term “United State
 
 #### Amendments
 
+1997—Subsec. (g)(2). Pub. L. 105–85 struck out “annually” after “Staff, shall provide” and inserted “be provided every two years or more frequently as needed and shall” after “Such guidance shall”.
+
 1996—Subsec. (c). Pub. L. 104–201, §1255(c)(2)–(5), inserted “(1)” after “(c)”, redesignated former pars. (1), (2), and (4) as subpars. (A), (B), and (C), respectively, inserted “and” at end of subpar. (B), and added par. (2).
 
 Subsec. (c)(3). Pub. L. 104–201, §1255(c)(1), struck out par. (3) which read as follows: “a report from the Reserve Forces Policy Board on the reserve programs of the Department of Defense, including a review of the effectiveness of chapters 51, 337, 361, 363, 549, 573, 837, 861 and 863 of this title, as far as they apply to reserve officers; and”.
@@ -178,7 +180,7 @@ Subsec. (i)(2)(B). Pub. L. 104–106, §1503(a)(1), substituted “the period co
 
 Subsec. (j)(1). Pub. L. 104–106, §1502(a)(3), substituted “Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “Committees on Armed Services and Committees on Appropriations of the Senate and”.
 
-1994—Subsec. (c)(3). Pub. L. 103–337, §1671(c)(2), as amended by Pub. L. 104–106, §1501(a)(8)(B), which directed the substitution of “1219 and 1401 through 1411 of this title” for “51, 337, 361, 363, 549, 573, 837, 861 and 863 of this title, as far as they apply to reserve officers”, effective Oct. 1, 1996, could not be executed because of the intervening amendment by Pub. L. 104–201, §1255(c)(1). See 1996 Amendment note above.
+1994—Subsec. (c)(3). Pub. L. 103–337, §1671(c)(2), as amended by Pub. L. 104–106, §1501(a)(8)(B), which directed the substitution of “1219 and 1401 through 1411 of this title” for “51, 337, 361, 363, 549, 573, 837, 861 and 863 of this title, as far as they apply to reserve officers”, effective Oct. 1, 1996, could not be executed because ofthe intervening amendment by Pub. L. 104–201, §1255(c)(1). See 1996 Amendment note above.
 
 Subsec. (e)(2). Pub. L. 103–337, §1070(a)(1), substituted “section 108” for “section 104”.
 
@@ -245,6 +247,476 @@ For assignment of certain emergency preparedness functions to Secretary of Defen
 #### Order of Succession
 
 For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+
+#### Program To Investigate Fraud, Waste, and Abuse Within Department of Defense
+
+Section 392 of Pub. L. 105–85 provided that: “The Secretary of Defense shall maintain a specific coordinated program for the investigation of evidence of fraud, waste, and abuse within the Department of Defense, particularly fraud, waste, and abuse regarding finance and accounting matters.”
+
+#### Commission on Military Training and Gender-Related Issues
+
+Subtitle F of title V of div. A of Pub. L. 105–85 provided that:
+
+#### “SEC. 561. ESTABLISHMENT AND COMPOSITION OF COMMISSION.
+
+“(a)
+
+Establishment.—There is established a Commission on Military Training and Gender-Related Issues to review requirements and restrictions regarding cross-gender relationships of members of the Armed Forces, to review the basic training programs of the Army, Navy, Air Force, and Marine Corps, and to make recommendations on improvements to those programs, requirements, and restrictions.
+
+“(b)
+
+Composition.—(1) The commission shall be composed of 10 members, appointed as follows:
+
+&emsp;“(A) Five members shall be appointed jointly by the chairman and ranking minority party member of the Committee on National Security of the House of Representatives.
+
+&emsp;“(B) Five members shall be appointed jointly by the chairman and ranking minority party member of the Committee on Armed Services of the Senate.
+
+“(2) The members of the commission shall choose one of the members to serve as chairman.
+
+“(3) All members of the commission shall be appointed not later than 45 days after the date of the enactment of this Act \[Nov. 18, 1997\].
+
+“(c)
+
+Qualifications.—Members of the commission shall be appointed from among private United States citizens with knowledge and expertise in one or more of the following:
+
+&emsp;“(1) Training of military personnel.
+
+&emsp;“(2) Social and cultural matters affecting entrance into the Armed Forces and affecting military service, military training, and military readiness, such knowledge and expertise to have been gained through recognized research, policy making and practical experience, as demonstrated by retired military personnel, members of the reserve components of the ArmedForces, representatives from educational organizations, and leaders from civilian industry and other Government agencies.
+
+&emsp;“(3) Factors that define appropriate military job qualifications, including physical, mental, and educational factors.
+
+&emsp;“(4) Combat or other theater of war operations.
+
+&emsp;“(5) Organizational matters.
+
+&emsp;“(6) Legal matters.
+
+&emsp;“(7) Management.
+
+&emsp;“(8) Gender integration matters.
+
+“(d)
+
+Appointments.—(1) Members of the commission shall be appointed for the life of the commission.
+
+“(2) A vacancy in the membership shall not affect the commission's powers, but shall be filled in the same manner as the original appointment.
+
+#### “SEC. 562. DUTIES.
+
+“(a)
+
+Functions Relating to Requirements and Restrictions Regarding Cross-Gender Relationships.—The commission shall consider issues relating to personal relationships of members of the Armed Forces as follows:
+
+&emsp;“(1) Review the laws, regulations, policies, directives, and practices that govern personal relationships between men and women in the Armed Forces and personal relationships between members of the Armed Forces and non-military personnel of the opposite sex.
+
+&emsp;“(2) Assess the extent to which the laws, regulations, policies, and directives have been applied consistently throughout the Armed Forces without regard to the armed force, grade, rank, or gender of the individuals involved.
+
+&emsp;“(3) Assess the reports of the independent panel, the Department of Defense task force, and the review of existing guidance on fraternization and adultery that have been required by the Secretary of Defense.
+
+“(b)
+
+Functions Relating to Gender-Integrated and Gender-Segregated Basic Training.—(1) The commission shall review the parts of the initial entry training programs of the Army, Navy, Air Force, and Marine Corps that constitute the basic training of new recruits (in this subtitle referred to as ‘basic training’). The review shall include a review of the basic training policies and practices of each of those services with regard to gender-integrated and gender-segregated basic training and, for each of the services, the effectiveness of gender-integrated and gender-segregated basic training.
+
+“(2) As part of the review under paragraph (1), the commission shall (with respect to each of the services) take the following measures:
+
+&emsp;“(A) Determine how each service defines gender-integration and gender-segregation in the context of basic training.
+
+&emsp;“(B) Determine the historical rationales for the establishment and disestablishment of gender-integrated or gender-segregated basic training.
+
+&emsp;“(C) Examine, with respect to each service, the current rationale for the use of gender-integrated or gender-segregated basic training and the rationale that was current as of the time the service made a decision to integrate, or to segregate, basic training by gender (or as of the time of the most recent decision to continue to use a gender-integrated format or a gender-segregated format for basic training), and, as part of the examination, evaluate whether at the time of that decision, the Secretary of the military department with jurisdiction over that service had substantive reason to believe, or has since developed data to support, that gender-integrated basic training, or gender-segregated basic training, improves the readiness or performance of operational units.
+
+&emsp;“(D) Assess whether the concept of ‘training as you will fight’ is a valid rationale for gender-integrated basic training or whether the training requirements and objectives for basic training are sufficiently different from those of operational units so that such concept, when balanced against other factors relating to basic training, might not be a sufficient rationale for gender-integrated basic training.
+
+&emsp;“(E) Identify the requirements unique to each service that could affect a decision by the Secretary concerned to adopt a gender-integrated or gender-segregated format for basic training and assess whether the format in use by each service has been successful in meeting those requirements.
+
+&emsp;“(F) Assess, with respect to each service, the degree to which different standards have been established, or if not established are in fact being implemented, for males and females in basic training for matters such as physical fitness, physical performance (such as confidence and obstacle courses), military skills (such as marksmanship and hand-grenade qualifications), and nonphysical tasks required of individuals and, to the degree that differing standards exist or are in fact being implemented, assess the effect of the use of those differing standards.
+
+&emsp;“(G) Identify the goals that each service has set forth in regard to readiness, in light of the gender-integrated or gender-segregated format that such service has adopted for basic training, and whether that format contributes to the readiness of operational units.
+
+&emsp;“(H) Assess the degree to which performance standards in basic training are based on military readiness.
+
+&emsp;“(I) Evaluate the policies of each of the services regarding the assignment of adequate numbers of female drill instructors in gender-integrated training units who can serve as role models and mentors for female trainees.
+
+&emsp;“(J) Review Department of Defense and military department efforts to objectively measure or evaluate the effectiveness of gender-integrated basic training, as compared to gender-segregated basic training, particularly with regard to the adequacy and scope of the efforts and with regard to the relevancy of findings to operational unit requirements, and determine whether the Department of Defense and the military departments are capable of measuring or evaluating the effectiveness of that training format objectively.
+
+&emsp;“(K) Compare the pattern of attrition in gender-integrated basic training units with the pattern of attrition in gender-segregated basic training units and assess the relevancy of the findings of such comparison.
+
+&emsp;“(L) Compare the level of readiness and morale of gender-integrated basic training units with the level of readiness and morale of gender-segregated units, and assess the relevancy of the findings of such comparison and the implications, for readiness, of any differences found.
+
+&emsp;“(M) Compare the experiences, policies, and practices of the armed forces of other industrialized nations regarding gender-integrated training with those of the Army, Navy, Air Force, and Marine Corps.
+
+&emsp;“(N) Review, and take into consideration, the current practices, relevant studies, and private sector training concepts pertaining to gender-integrated training.
+
+&emsp;“(O) Assess the feasibility and implications of conducting basic training (or equivalent training) at the company level and below through separate units for male and female recruits, including the costs and other resource commitments required to implement and conduct basic training in such a manner and the implications for readiness and unit cohesion.
+
+&emsp;“(P) Assess the feasibility and implications of requiring drill instructors for basic training units to be of the same sex as the recruits in those units if the basic training were to be conducted as described in subparagraph (O).
+
+“(c)
+
+Functions Relating to Basic Training Programs Generally.—The commission shall review the course objectives, structure, and length of the basic training programs of the Army, Navy, Air Force, and Marine Corps. The commission shall also review the relationship between those basic training objectives and the advanced training provided in the initial entrytraining programs of each of those services. As part of that review, the commission shall (with respect to each of those services) take the following measures:
+
+&emsp;“(1) Determine the current end-state objectives established for graduates of basic training, particularly in regard to—
+
+&emsp;&emsp;“(A) physical conditioning;
+
+&emsp;&emsp;“(B) technical and physical skills proficiency;
+
+&emsp;&emsp;“(C) knowledge;
+
+&emsp;&emsp;“(D) military socialization, including the inculcation of service values and attitudes; and
+
+&emsp;&emsp;“(E) basic combat operational requirements.
+
+&emsp;“(2) Assess whether those current end-state objectives, and basic training itself, should be modified (in structure, length, focus, program of instruction, training methods or otherwise) based, in part, on the following:
+
+&emsp;&emsp;“(A) An assessment of the perspectives of operational units on the quality and qualifications of the initial entry training graduates being assigned to those units, considering in particular whether the basic training system produces graduates who arrive in operational units with an appropriate level of skills, physical conditioning, and degree of military socialization to meet unit requirements and needs.
+
+&emsp;&emsp;“(B) An assessment of the demographics, backgrounds, attitudes, experience, and physical fitness of new recruits entering basic training, considering in particular the question of whether, given the entry level demographics, education, and background of new recruits, the basic training systems and objectives are most efficiently and effectively structured and conducted to produce graduates who meet service needs.
+
+&emsp;&emsp;“(C) An assessment of the perspectives of personnel who conduct basic training with regard to measures required to improve basic training.
+
+&emsp;“(3) Assess the extent to which the initial entry training programs of each of the services continue, after the basic training phases of the programs, effectively to reinforce and advance the military socialization (including the inculcation of service values and attitudes), the physical conditioning, and the attainment and improvement of knowledge and proficiency in fundamental military skills that are begun in basic training.
+
+“(d)
+
+Recommendations.—The commission shall prepare—
+
+&emsp;“(1) with respect to each of the Army, Navy, Air Force, and Marine Corps, an evaluation of gender-integrated and gender-segregated basic training programs, based upon the review under subsection (b);
+
+&emsp;“(2) recommendations for such changes to the current system of basic training as the commission considers warranted; and
+
+&emsp;“(3) recommendations for such changes to laws, regulations, policies, directives, and practices referred to in subsection (a)(1) as the commission considers warranted.
+
+“(e)
+
+Reports.—(1) Not later than April 15, 1998, the commission shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report setting forth a strategic plan for the work of the commission and the activities and initial findings of the commission.
+
+“(2) Not later than September 16, 1998, the commission shall submit a final report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives. The final report shall set forth the activities, findings, and recommendations of the commission, including any recommendations for congressional action and administrative action that the commission considers appropriate. The report shall specifically set forth the views of the Secretaries of the military departments regarding the matters described in subparagraphs (O) and (P) of subsection (b)(2).
+
+#### “SEC. 563. ADMINISTRATIVE MATTERS.
+
+“(a)
+
+Meetings.—(1) The commission shall hold its first meeting not later than 30 days after the date on which all members have been appointed.
+
+“(2) The commission shall meet upon the call of the chairman.
+
+“(3) A majority of the members of the commission shall constitute a quorum, but a lesser number may hold meetings.
+
+“(b)
+
+Authority of Individuals To Act for Commission.—Any member or agent of the commission may, if authorized by the commission, take any action which the commission is authorized to take under this title \[see Tables for classification\].
+
+“(c)
+
+Powers.—(1) The commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the commission considers advisable to carry out its duties.
+
+“(2) The commission may secure directly from the Department of Defense and any other department or agency of the Federal Government such information as the commission considers necessary to carry out its duties. Upon the request of the chairman of the commission, the head of a department or agency shall furnish the requested information expeditiously to the commission.
+
+“(3) The commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+
+“(d)
+
+Pay and Expenses of Commission Members.—(1) Each member of the commission who is not an employee of the Government shall be paid at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in performing the duties of the commission.
+
+“(2) Members and personnel of the commission may travel on aircraft, vehicles, or other conveyances of the Armed Forces when travel is necessary in the performance of a duty of the commission except when the cost of commercial transportation is less expensive.
+
+“(3) The members of the commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the commission.
+
+“(4)(A) A member of the commission who is an annuitant otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the commission shall not be subject to the provisions of such section with respect to such membership.
+
+“(B) A member of the commission who is a member or former member of a uniformed service shall not be subject to the provisions of subsections (b) and (c) of section 5532 of such title with respect to membership on the commission.
+
+“(e)
+
+Staff and Administrative Support.—(1) The chairman of the commission may, without regard to civil service laws and regulations, appoint and terminate an executive director and up to three additional staff members as necessary to enable the commission to perform its duties. The chairman of the commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51, and subchapter III of chapter 53, of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay may not exceed the maximum rate of pay for grade GS–15 under the General Schedule.
+
+“(2) Upon the request of the chairman of the commission, the head of any department or agency of the Federal Government may detail, without reimbursement, any personnel of the department or agency to the commission to assist in carrying out its duties. A detail of an employee shall be without interruption or loss of civil service status or privilege.
+
+“(3) The chairman of the commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of such title.
+
+“(4) The Secretary of Defense shall furnish to the commission such administrative and support services as may be requested by the chairman of the commission.
+
+#### “SEC. 564. TERMINATION OF COMMISSION.
+
+“The commission shall terminate 60 days after the date on which it submits the final report under section 562(e)(2).
+
+#### “SEC. 565. FUNDING.
+
+“(a)
+
+From Department of Defense Appropriations.—Upon the request of the chairman of the commission, the Secretary of Defense shall make available to the commission, out of funds appropriated for the Department of Defense, such amounts as the commission may require to carry out its duties.
+
+“(b)
+
+Period of Availability.—Funds made available to the commission shall remain available, without fiscal year limitation, until the date on which the commission terminates.
+
+#### “SEC. 566. SUBSEQUENT CONSIDERATION BY CONGRESS.
+
+“After receipt of each report of the commission under section 562(e), Congress shall consider the report and, based upon the results of the review (and such other matters as Congress considers appropriate), consider whether to require by law that the Secretaries of the military departments conduct basic training on a gender-segregated or gender-integrated basis.”
+
+#### Coordination of Department of Defense Criminal Investigations and Audits
+
+Section 907 of Pub. L. 105–85 provided that:
+
+“(a)
+
+Military Department Criminal Investigative Organizations.—(1) The heads of the military department criminal investigative organizations shall take such action as may be practicable to conserve the limited resources available to the military department criminal investigative organizations by sharing personnel, expertise, infrastructure, training, equipment, software, and other resources.
+
+“(2) The heads of the military department criminal investigative organizations shall meet on a regular basis to determine the manner in which and the extent to which the military department criminal investigative organizations will be able to share resources.
+
+“(b)
+
+Defense Auditing Organizations.—(1) The heads of the defense auditing organizations shall take such action as may be practicable to conserve the limited resources available to the defense auditing organizations by sharing personnel, expertise, infrastructure, training, equipment, software, and other resources.
+
+“(2) The heads of the defense auditing organizations shall meet on a regular basis to determine the manner in which and the extent to which the defense auditing organizations will be able to share resources.
+
+“(c)
+
+Implementation Plan.—Not later than December 31, 1997, the Secretary of Defense shall submit to Congress a plan designed to maximize the resources available to the military department criminal investigative organizations and the defense auditing organizations, as required by this section.
+
+“(d)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1) The term ‘military department criminal investigative organizations’ means—
+
+&emsp;&emsp;“(A) the Army Criminal Investigation Command;
+
+&emsp;&emsp;“(B) the Naval Criminal Investigative Service; and
+
+&emsp;&emsp;“(C) the Air Force Office of Special Investigations.
+
+&emsp;“(2) The term ‘defense auditing organizations’ means—
+
+&emsp;&emsp;“(A) the Office of the Inspector General of the Department of Defense;
+
+&emsp;&emsp;“(B) the Defense Contract Audit Agency;
+
+&emsp;&emsp;“(C) the Army Audit Agency;
+
+&emsp;&emsp;“(D) the Naval Audit Service; and
+
+&emsp;&emsp;“(E) the Air Force Audit Agency.”
+
+#### Provision of Adequate Troop Protection Equipment for Armed Forces Personnel Engaged in Peace Operations; Report on Antiterrorism Activities and Protection of Personnel
+
+Section 1052 of Pub. L. 105–85 provided that:
+
+“(a)
+
+Protection of Personnel.—The Secretary of Defense shall take appropriate actions to ensure that units of the Armed Forces engaged in a peace operation are provided adequate troop protection equipment for that operation.
+
+“(b)
+
+Specific Actions.—In taking actions under subsection (a), the Secretary shall—
+
+&emsp;“(1) identify the additional troop protection equipment, if any, required to equip a division (or the equivalent of a division) with adequate troop protection equipment for peace operations; and
+
+&emsp;“(2) establish procedures to facilitate the exchange or transfer of troop protection equipment among units of the Armed Forces.
+
+“(c)
+
+Designation of Responsible Official.—The Secretary of Defense shall designate an official within the Department of Defense to be responsible for—
+
+&emsp;“(1) ensuring the appropriate allocation of troop protection equipment among the units of the Armed Forces engaged in peace operations; and
+
+&emsp;“(2) monitoring the availability, status or condition, and location of such equipment.
+
+“(d)
+
+Troop Protection Equipment Defined.—In this section, the term ‘troop protection equipment’ means the equipment required by units of the Armed Forces to defend against any hostile threat that is likely during a peace operation, including an attack by a hostile crowd, small arms fire, mines, and a terrorist bombing attack.
+
+“(e)
+
+Report on Antiterrorism Activities of the Department of Defense and Protection of Personnel.—Not later than 120 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense shall submit to Congress a report, in classified and unclassified form, on antiterrorism activities of the Department of Defense and the actions taken by the Secretary under subsections (a), (b), and (c). The report shall include the following:
+
+&emsp;“(1) A description of the programs designed to carry out antiterrorism activities of the Department of Defense, any deficiencies in those programs, and any actions taken by the Secretary to improve implementation of such programs.
+
+&emsp;“(2) An assessment of the current policies and practices of the Department of Defense with respect to the protection of members of the Armed Forces overseas against terrorist attack, including any modifications to such policies or practices that are proposed or implemented as a result of the assessment.
+
+&emsp;“(3) An assessment of the procedures of the Department of Defense for determining accountability, if any, in the command structure of the Armed Forces in instances in which a terrorist attack results in the loss of life at an overseas military installation or facility.
+
+&emsp;“(4) A detailed description of the roles of the Office of the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, and the combatant commanders in providing guidance and support with respect to the protection of members of the Armed Forces deployed overseas against terrorist attack (both before and after the November 1995 bombing in Riyadh, Saudi Arabia) and how these roles have changed since the June 25, 1996, terrorist bombing at Khobar Towers in Dhahran, Saudi Arabia.
+
+&emsp;“(5) A description of the actions taken by the Secretary of Defense under subsections (a), (b), and (c) to provide adequate troop protection equipment forunits of the Armed Forces engaged in a peace operation.”
+
+#### Study of Investigative Practices of Military Criminal Investigative Organizations Relating to Sex Crimes
+
+Section 1072 of Pub. L. 105–85 provided that:
+
+“(a)
+
+Independent Study Required.—(1) The Secretary of Defense shall provide for an independent study of the policies, procedures, and practices of the military criminal investigative organizations for the conduct of investigations of complaints of sex crimes and other criminal sexual misconduct arising in the Armed Forces.
+
+“(2) The Secretary shall provide for the study to be conducted by the National Academy of Public Administration. The amount of a contract for the study may not exceed $2,000,000.
+
+“(3) The Secretary shall require that all components of the Department of Defense cooperate fully with the organization carrying out the study.
+
+“(b)
+
+Matters To Be Included in Study.—The Secretary shall require that the organization conducting the study under this section specifically consider each of the following matters:
+
+&emsp;“(1) The need (if any) for greater organizational independence and autonomy for the military criminal investigative organizations than exists under current chain-of-command structures within the military departments.
+
+&emsp;“(2) The authority of each of the military criminal investigative organizations to investigate allegations of sex crimes and other criminal sexual misconduct and the policies of those organizations for carrying out such investigations.
+
+&emsp;“(3) The training (including training in skills and techniques related to the conduct of interviews) provided by each of those organizations to agents or prospective agents responsible for conducting or providing support to investigations of alleged sex crimes and other criminal sexual misconduct, including—
+
+&emsp;&emsp;“(A) the extent to which that training is comparable to the training provided by the Federal Bureau of Investigation and other civilian law enforcement agencies; and
+
+&emsp;&emsp;“(B) the coordination of training and investigative policies related to alleged sex crimes and other criminal sexual misconduct of each of those organizations with the Federal Bureau of Investigation and other civilian Federal law enforcement agencies.
+
+&emsp;“(4) The procedures and relevant professional standards of each military criminal investigative organization with regard to recruitment and hiring of agents, including an evaluation of the extent to which those procedures and standards provide for—
+
+&emsp;&emsp;“(A) sufficient screening of prospective agents based on background investigations; and
+
+&emsp;&emsp;“(B) obtaining sufficient information about the qualifications and relevant experience of prospective agents.
+
+&emsp;“(5) The advantages and disadvantages of establishing, within each of the military criminal investigative organizations or within the Defense Criminal Investigative Service only, a special unit for the investigation of alleged sex crimes and other criminal sexual misconduct.
+
+&emsp;“(6) The clarity of guidance for, and consistency of investigative tactics used by, each of the military criminal investigative organizations for the investigation of alleged sex crimes and other criminal sexual misconduct, together with a comparison with the guidance and tactics used by the Federal Bureau of Investigation and other civilian law enforcement agencies for such investigations.
+
+&emsp;“(7) The number of allegations of agent misconduct in the investigation of sex crimes and other criminal sexual misconduct for each of those organizations, together with a comparison with the number of such allegations concerning agents of the Federal Bureau of Investigation and other civilian law enforcement agencies for such investigations.
+
+&emsp;“(8) The procedures of each of the military criminal investigative organizations for administrative identification (known as ‘titling’) of persons suspected of committing sex crimes or other criminal sexual misconduct, together with a comparison with the comparable procedures of the Federal Bureau of Investigation and other civilian Federal law enforcement agencies for such investigations.
+
+&emsp;“(9) The accuracy, timeliness, and completeness of reporting of sex crimes and other criminal sexual misconduct by each of the military criminal investigative organizations to the National Crime Information Center maintained by the Department of Justice.
+
+&emsp;“(10) Any recommendation for legislation or administrative action to revise the organizational or operational arrangements of the military criminal investigative organizations or to alter recruitment, training, or operational procedures, as they pertain to the investigation of sex crimes and other criminal sexual misconduct.
+
+“(c)
+
+Report.—(1) The Secretary of Defense shall require the organization conducting the study under this section to submit to the Secretary a report on the study not later than one year after the date of the enactment of this Act \[Nov. 18, 1997\]. The organization shall include in the report its findings and conclusions concerning each of the matters specified in subsection (b).
+
+“(2) The Secretary shall submit the report under paragraph (1), together with the Secretary's comments on the report, to Congress not later than 30 days after the date on which the report is submitted to the Secretary under paragraph (1).
+
+“(d)
+
+Military Criminal Investigative Organization Defined.—For the purposes of this section, the term ‘military criminal investigative organization’ means any of the following:
+
+&emsp;“(1) The Army Criminal Investigation Command.
+
+&emsp;“(2) The Naval Criminal Investigative Service.
+
+&emsp;“(3) The Air Force Office of Special Investigations.
+
+&emsp;“(4) The Defense Criminal Investigative Service.
+
+“(e)
+
+Criminal Sexual Misconduct Defined.—For the purposes of this section, the term ‘criminal sexual misconduct’ means conduct by a member of the Armed Forces involving sexual abuse, sexual harassment, or other sexual misconduct that constitutes an offense under the Uniform Code of Military Justice \[10 U.S.C. 801 et seq.\].”
+
+#### Program To Commemorate 50th Anniversary of the Korean Conflict
+
+Section 1083 of Pub. L. 105–85, as amended by Pub. L. 105–129, §1(b)(1), Dec. 1, 1997, 111 Stat. 2551, provided that:
+
+“(a)
+
+Commemorative Program.—The Secretary of Defense may conduct a program to commemorate the 50th anniversary of the Korean conflict. In conducting the commemorative program, the Secretary may coordinate, support, and facilitate other programs and activities of the Federal Government, State and local governments, and other persons in commemoration of the Korean conflict.
+
+“(b)
+
+Commemorative Activities.—The commemorative program may include activities and ceremonies—
+
+&emsp;“(1) to provide the people of the United States with a clear understanding and appreciation of the lessons and history of the Korean conflict;
+
+&emsp;“(2) to thank and honor veterans of the Korean conflict and their families;
+
+&emsp;“(3) to pay tribute to the sacrifices and contributions made on the home front by the people of the United States during the Korean conflict;
+
+&emsp;“(4) to highlight advances in technology, science, and medicine related to military research conducted during the Korean conflict;
+
+&emsp;“(5) to recognize the contributions and sacrifices made by the allies of the United States in the Korean conflict; and
+
+&emsp;“(6) to highlight the role of the Armed Forces of the United States, then and now, in maintaining world peace through strength.
+
+“(c)
+
+Names and Symbols.—The Secretary of Defense shall have the sole and exclusive right to use the names ‘The Department of Defense Korean Conflict Commemoration’, and such seal, emblems, and badges incorporating such name as the Secretary may lawfully adopt. Nothing in this section may be construed to supersede rights that are established or vested before the date of the enactment of this Act \[Nov. 18, 1997\].
+
+“(d)
+
+Commemorative Account.—(1) There is established in the Treasury an account to be known as the ‘Department of Defense Korean Conflict Commemoration Account’, which shall be administered by the Secretary of Defense. There shall be deposited into the account all proceeds derived from the Secretary's use of the exclusive rights described in subsection (c). The Secretary may use funds in the account only for the purpose of conducting the commemorative program.
+
+“(2) Not later than 60 days after completion of all activities and ceremonies conducted as part of the commemorative program, the Secretary shall submit to Congress a report containing an accounting of all of the funds deposited into and expended from the account or otherwise expended under this section, and of any funds remaining in the account. Unobligated funds remaining in the account on that date shall be held in the account until transferred by law.
+
+“(e)
+
+Acceptance of Voluntary Services.—(1) Notwithstanding section 1342 of title 31, United States Code, the Secretary of Defense may accept from any person voluntary services to be provided in furtherance of the commemorative program.
+
+“(2) A person providing voluntary services under this subsection shall be considered to be a Federal employee for purposes of chapter 81 of title 5, United States Code, relating to compensation for work-related injuries. The person shall also be considered a special governmental employee for purposes of standards of conduct and sections 202, 203, 205, 207, 208, and 209 of title 18, United States Code. A person who is not otherwise employed by the Federal Government shall not be considered to be a Federal employee for any other purpose by reason of the provision of voluntary services under this subsection.
+
+“(3) The Secretary may provide for reimbursement of incidental expenses incurred by a person providing voluntary services under this subsection. The Secretary shall determine which expenses are eligible for reimbursement under this paragraph.
+
+“(f)
+
+Limitation on Expenditures.—Total expenditures to carry out the commemorative program may not exceed $1,000,000.”
+
+\[Section 1(b)(2) of Pub. L. 105–129 provided that: “The amendment made by paragraph (1) \[amending section 1083 of Pub. L. 105–85, set out above\] shall take effect as if included in the provisions of the National Defense Authorization Act for Fiscal Year 1998 \[Pub. L. 105–85\] to which such amendment relates.”\]
+
+#### Annual Report on Moratorium on Use by Armed Forces of Antipersonnel Landmines
+
+Section 1309 of Pub. L. 105–85 provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) The United States has stated its support for a ban on antipersonnel landmines that is global in scope and verifiable.
+
+&emsp;“(2) On May 16, 1996, the President announced that the United States, as a matter of policy, would eliminate its stockpile of non-self-destructing antipersonnel landmines, except those used for training purposes and in Korea, and that the United States would reserve the right to use self-destructing antipersonnel landmines in the event of conflict.
+
+&emsp;“(3) On May 16, 1996, the President also announced that the United States would lead an effort to negotiate an international treaty permanently banning the use of all antipersonnel landmines.
+
+&emsp;“(4) The United States is currently participating at the United Nations Conference on Disarmament in negotiations aimed at achieving a global ban on the use of antipersonnel landmines.
+
+&emsp;“(5) On August 18, 1997, the administration agreed to participate in international negotiations sponsored by Canada (the so-called ‘Ottawa process’) designed to achieve a treaty that would outlaw the production, use, and sale of antipersonnel landmines.
+
+&emsp;“(6) On September 17, 1997, the President announced that the United States would not sign the antipersonnel landmine treaty concluded in Oslo, Norway, by participants in the Ottawa process because the treaty would not provide a geographic exception to allow the United States to stockpile and use antipersonnel landmines in Korea or an exemption that would preserve the ability of the United States to use mixed antitank mine systems which could be used to deter an armored assault against United States forces.
+
+&emsp;“(7) The President also announced a change in United States policy whereby the United States—
+
+&emsp;&emsp;“(A) would no longer deploy antipersonnel landmines, including self-destructing antipersonnel landmines, by 2003, except in Korea;
+
+&emsp;&emsp;“(B) would seek to field alternatives by that date, or by 2006 in the case of Korea;
+
+&emsp;&emsp;“(C) would undertake a new initiative in the United Nations Conference on Disarmament to establish a global ban on the transfer of antipersonnel landmines; and
+
+&emsp;&emsp;“(D) would increase its current humanitarian demining activities around the world.
+
+&emsp;“(8) The President's decision would allow the continued use by United States forces of self-destructing antipersonnel landmines that are used as part of a mixed antitank mine system.
+
+&emsp;“(9) Under existing law (as provided in section 580 of Public Law 104–107; 110 Stat. 751), on February 12, 1999, the United States will implement a one-year moratorium on the use of antipersonnel landmines by United States forces except along internationally recognized national borders or in demilitarized zones within a perimeter marked area that is monitored by military personnel and protected by adequate means to ensure the exclusion of civilians.
+
+“(b)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;“(1) the United States should not implement a moratorium on the use of antipersonnel landmines by United States Armed Forces in a manner that would endanger United States personnel or undermine the military effectiveness of United States Armed Forces in executing their missions; and
+
+&emsp;“(2) the United States should pursue the development of alternatives to self-destructing antipersonnel landmines.
+
+“(c)
+
+Annual Report.—Not later than December 31 each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and Committees on National Security and Appropriations of the House of Representatives\] a report concerning antipersonnel landmines. Each such report shall include the Secretary's description of the following:
+
+&emsp;“(1) The military utility of the continued deployment and use by the United States of antipersonnel landmines.
+
+&emsp;“(2) The effect of a moratorium on the production, stockpiling, and use of antipersonnel landmines on the ability of United States forces to deter and defend against attack on land by hostile forces, including on the Korean peninsula.
+
+&emsp;“(3) Progress in developing and fielding systems that are effective substitutes for antipersonnel landmines, including an identification and description of the types of systems that are being developed and fielded, the costs associated with those systems, and the estimated timetable for developing and fielding those systems.
+
+&emsp;“(4) The effect of a moratorium on the use of antipersonnel landmines on the military effectiveness of current antitank mine systems.
+
+&emsp;“(5) The number and type of pure antipersonnel landmines that remain in the United States inventory and that are subject to elimination under the President's September 17, 1997, declaration on United States antipersonnel landmine policy.
+
+&emsp;“(6) The number and type of mixed antitank mine systems that are in the United States inventory, the locations where they are deployed, and their effect on the deterrence and warfighting ability of United States Armed Forces.
+
+&emsp;“(7) The effect of the elimination of pure antipersonnel landmines on the warfighting effectiveness of the United States Armed Forces.
+
+&emsp;“(8) The costs already incurred and anticipated of eliminating antipersonnel landmines from the United States inventory in accordance with the policy enunciated by the President on September 17, 1997.
+
+&emsp;“(9) The benefits that would result to United States military and civilian personnel from an international treaty banning the production, use, transfer, and stockpiling of antipersonnel landmines.”
 
 #### Hate Crimes in the Military
 
@@ -830,7 +1302,7 @@ Assistance in Obtaining Declassification.—The official designated under subsec
 
 “(d)
 
-Repository.—The official designated under subsection (a) shall provide all documents relating to unaccounted-for Korean conflict POW/MIAs and unaccounted-for Cold War POW/MIAs that are located as aresult of the official's efforts to the National Archives and Records Administration, which shall locate them in a centralized repository.
+Repository.—The official designated under subsection (a) shall provide all documents relating to unaccounted-for Korean conflict POW/MIAs and unaccounted-for Cold War POW/MIAs that are located as a result of the official's efforts to the National Archives and Records Administration, which shall locate them in a centralized repository.
 
 “(e)
 
@@ -844,11 +1316,13 @@ Definitions.—For purposes of this section:
 
 #### Plan Requiring Disbursing Officials of Department of Defense To Match Disbursements to Particular Obligations
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8106\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–111, provided that:
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8106\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–111, as amended by Pub. L. 105–56, title VIII, §8113, Oct. 8, 1997, 111 Stat. 1245, provided that:
 
-“(a) The Secretary of Defense shall require not later than June 30, 1997, each disbursement by the Department of Defense in an amount in excess of $3,000,000 be matched to a particular obligation before the disbursement is made.
+“(a) The Secretary of Defense shall require not later than June 30, 1997, each disbursement by the Department of Defense in an amount in excess of $1,000,000 be matched to a particular obligation before the disbursement is made.
 
 “(b) The Secretary shall ensure that a disbursement in excess of the threshold amount applicable under section (a) is not divided into multiple disbursements of less than that amount for the purpose of avoiding the applicability of such section to that disbursement.”
+
+\[Section 8113 of Pub. L. 105–56 provided that the amendment made by that section \[amending section 101(b) \[title VIII, §8106\] of Pub. L. 104–208\] set out above, is effective June 30, 1998.\]
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -1086,7 +1560,7 @@ Definitions.—In this section:
 
 &emsp;“(1) The term ‘active duty’ has the meaning given such term in section 101(d)(1) of title 10, United States Code.
 
-&emsp;“(2) The term ‘family members’ has the meaning given such term in section 1072(c)(2) of the NationalDefense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2510; 10 U.S.C. 133 note \[set out below\]).
+&emsp;“(2) The term ‘family members’ has the meaning given such term in section 1072(c)(2) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2510; 10 U.S.C. 133 note \[set out below\]).
 
 “(d)
 
@@ -1126,7 +1600,7 @@ Program Activities.—The program referred to in subsection (a) may include acti
 
 “(d)
 
-Authority of the Secretary.—(1) In connection with the program referred to in subsection (a), the Secretary of Defense may adopt, use, and register as trademarks and service marks, emblems, signs, insignia, or words. The Secretary shall have the exclusive right to use such emblems, signs, insignia or words, subject to the preexisting rights described in paragraph (3), and may grant exclusive or nonexclusive licenses in connection therewith.
+Authority of the Secretary.—(1) In connection with the program referred to in subsection (a), the Secretary of Defense may adopt, use, and register as trademarks and service marks, emblems, signs, insignia, or words. The Secretary shall have the exclusive right to use such emblems, signs, insignia or words, subject tothe preexisting rights described in paragraph (3), and may grant exclusive or nonexclusive licenses in connection therewith.
 
 “(2) Without the consent of the Secretary of Defense, any person who uses any emblem, sign, insignia, or word adopted, used, or registered as a trademark or service mark by the Secretary in accordance with paragraph (1), or any combination or simulation thereof tending to cause confusion, to cause mistake, to deceive, or to falsely suggest a connection with the program referred to in subsection (a), shall be subject to suit in a civil action by the Attorney General, upon complaint by the Secretary of Defense, for the remedies provided in the Act of July 5, 1946, as amended (60 Stat. 427; popularly known as the Trademark Act of 1945 \[1946\]) (15 U.S.C. 1051 et seq.).
 
@@ -1196,7 +1670,7 @@ Information to be provided after notification of death.—Within a reasonable pe
 
 Assistance in obtaining reports.—(A) In any case in which an investigative report or other fatality reports are not available at the time family members of a service member are provided the information described in paragraph (2)(A) about the member's death, the Secretary concerned shall ensure that a copy of such investigative report and any other fatality reports are furnished to the family members, if they so desire, when the reports are completed and become available, to the extent such reports may be furnished consistent with sections 552 and 552a of title 5, United States Code.
 
-&emsp;“(B) In any case in which an investigative report or other fatality reports cannot be released at the time family members of a service member are provided the information described in paragraph (2)(A) about the member's death because of section 552 or 552a of title 5, United States Code, the Secretary concerned shall ensure that the family members—
+&emsp;“(B) In any case in which an investigative report or other fatality reports cannot be released at the time family members of a service member are provided the information described in paragraph (2)(A) about the member's death because of section 552 or 552a of title5, United States Code, the Secretary concerned shall ensure that the family members—
 
 &emsp;&emsp;“(i) are informed about the requirements and procedures necessary to request a copy of such reports; and
 
@@ -1290,7 +1764,7 @@ Definition.—In this section, the term ‘incremental transportation cost’ in
 
 #### Overseas Military End Strength
 
-Pub. L. 102–484, div. A, title XIII, §1302, Oct. 23, 1992, 106 Stat. 2545, which provided that on and after Sept. 30, 1996, no appropriated funds may be used to support an end strength level of members of the Armed Forces of the United States assigned to permanent duty ashore in nations outside the United States at any level in excess of 60 percent of the end strength level of such members on Sept. 30, 1992, with exceptions in the event of declarations of war or emergency, was repealed and restated as section 123b of this title by Pub. L. 103–337, §1312(a), (c).
+Pub. L. 102–484, div. A, title XIII, §1302, Oct. 23, 1992, 106 Stat. 2545, which provided that on and after Sept. 30, 1996, no appropriated funds may be used to support anend strength level of members of the Armed Forces of the United States assigned to permanent duty ashore in nations outside the United States at any level in excess of 60 percent of the end strength level of such members on Sept. 30, 1992, with exceptions in the event of declarations of war or emergency, was repealed and restated as section 123b of this title by Pub. L. 103–337, §1312(a), (c).
 
 #### Reports on Overseas Basing
 
@@ -1336,7 +1810,7 @@ European Procurement Practices.—The Secretary of Defense shall—
 
 &emsp;“(1) compute the total value of American-made military goods and services procured each year by European governments or companies;
 
-&emsp;“(2) review defense procurement practices of European governments to determine what factors are considered in the selection of contractors and to determine whether American firms are discriminated against in the selection of contractors for purchasesby such governments of military goods and services; and
+&emsp;“(2) review defense procurement practices of European governments to determine what factors are considered in the selection of contractors and to determine whether American firms are discriminated against in the selection of contractors for purchases by such governments of military goods and services; and
 
 &emsp;“(3) establish a procedure for discussion with European governments about defense contract awards made by them that American firms believe were awarded unfairly.
 
@@ -1534,7 +2008,7 @@ Permanent Ceiling on United States Armed Forces in Japan.—Funds appropriated p
 
 “(c)
 
-Sense of Congress on Allied Burden Sharing.—(1) Congress recognizes that Japan has made a substantial pledge of financial support to the effort tosupport the United Nations Security Council resolutions on Iraq.
+Sense of Congress on Allied Burden Sharing.—(1) Congress recognizes that Japan has made a substantial pledge of financial support to the effort to support the United Nations Security Council resolutions on Iraq.
 
 “(2) It is the sense of Congress that—
 
@@ -1580,7 +2054,7 @@ Matters To Be Covered in Reports.—Each such report shall cover a period of at 
 
 &emsp;“(6) The broad mission areas for various components of the forces and the broad support requirements to implement the strategy.
 
-&emsp;“(7) The functions for which each military department should organize, train, and equip forces for the combatant commands responsible for implementing the strategy.
+&emsp;“(7) The functions for which each military department should organize, train, and equip forces for thecombatant commands responsible for implementing the strategy.
 
 &emsp;“(8) The priorities assigned to major weapons and equipment acquisitions and to research and development programs in order to fill the needs and eliminate deficiencies of the combatant commands.
 
@@ -1622,7 +2096,7 @@ Section 1309 of Pub. L. 100–456 directed Secretary of Defense to submit to Con
 
 #### Department of Defense Overseas Personnel; Actions Resulting in More Balanced Sharing of Defense and Foreign Assistance Spending Burdens by United States and Allies; Reports to Congress; Limitation on Active Duty Armed Forces Members in Japan and Republic of Korea
 
-Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as amended by Pub. L. 101–189, div. A, title XVI, §1623, Nov. 29, 1989, 103 Stat. 1606; Pub. L. 103–236, titleI, §162(j), Apr. 30, 1994, 108 Stat. 408; Pub. L. 104–106, div. A, title XV, §1502(f)(1), Feb. 10, 1996, 110 Stat. 509, provided that:
+Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as amended by Pub. L. 101–189, div. A, title XVI, §1623, Nov. 29, 1989, 103 Stat. 1606; Pub. L. 103–236, title I, §162(j), Apr. 30, 1994, 108 Stat. 408; Pub. L. 104–106, div. A, title XV, §1502(f)(1), Feb. 10, 1996, 110 Stat. 509, provided that:
 
 “(a)(1) Not later than March 1, 1989, the Secretary of Defense shall submit to Congress a report on the assignment of military missions among the member countries of North Atlantic Treaty Organization (NATO) and on the prospects for the more effective assignment of such missions among such countries.
 
@@ -1684,7 +2158,7 @@ Section 638 of Pub. L. 100–180, as amended by Pub. L. 101–189, div. A, title
 
 “(a)
 
-Test Program.—The Secretary of Defense shall carry out a test program under which a member of theArmed Forces under the jurisdiction of the Secretary may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member. The Secretary of Transportation shall carry out a similar test program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member.
+Test Program.—The Secretary of Defense shall carry out a test program under which a member of the Armed Forces under the jurisdiction of the Secretary may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member. The Secretary of Transportation shall carry out a similar test program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member.
 
 “(b)
 
@@ -1728,7 +2202,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;“(ii) is necessary for the purpose of assessing the health and status of the child to be adopted; or
 
-&emsp;&emsp;&emsp;“(iii) is necessary for the purpose of escorting the child to be adopted to the United States or the place where the adopting member of the Armed Forces is stationed; or
+&emsp;&emsp;&emsp;“(iii) is necessary for the purpose of escorting the child to be adopted to the United States orthe place where the adopting member of the Armed Forces is stationed; or
 
 &emsp;&emsp;“(B) in connection with an adoption arranged in violation of Federal, State, or local law.
 
@@ -1758,7 +2232,7 @@ Duration of Test Program.—The test program under this section shall apply with
 
 #### Counterintelligence Polygraph Program
 
-Section 1121 of Pub. L. 100–180 provided that:
+Section 1121 of Pub. L. 100–180, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(5), Nov. 18, 1997, 111 Stat. 1906, provided that:
 
 “(a)
 
@@ -1774,11 +2248,7 @@ Persons Covered.—Except as provided in subsection (d), the following persons w
 
 “(c)
 
-Limitation on Number of Examinations.—The number of counterintelligence polygraph examinations that may be administered under this section—
-
-&emsp;“(1) may not exceed 10,000 during each of fiscal years 1988, 1989, and 1990; and
-
-&emsp;“(2) may not exceed 5,000 during any fiscal year after fiscal year 1990 for which a specific number is not otherwise provided by law.
+Limitation on Number of Examinations.—The number of counterintelligence polygraph examinations that may be administered under this section may not exceed 5,000 during any fiscal year for which a specific number is not otherwise provided by law.
 
 “(d)
 
@@ -1844,7 +2314,7 @@ Pub. L. 99–661, div. A, title VI, §612, Nov. 14, 1986, 100 Stat. 3878, provid
 
 #### Comparable Budgeting for Similar Systems
 
-Pub. L. 99–500, §101(c) \[title X, §955\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, and Pub. L. 99–591, §101(c) \[title X, §955\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173; Pub. L. 99–661, div. A, title IX, formerly title IV, §955, Nov. 14, 1986, 100 Stat. 3953, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, which provided that in preparing the defense budget for any fiscal year, the Secretary of Defense was to specifically identify each common procurement weapon system included in the budget, take all feasible steps to minimize variations in procurement unit costs for any such system as shown in the budget requests of the different armed forces requesting procurement funds for the system, and identify and justify in the budget all such variations in procurement unit costs for common procurement weapon systems, and that the Secretary of Defense carry out this section through the Assistant Secretary of Defense (Comptroller), was repealed and restated in section 2217 of this title by Pub. L. 100–370, §1(d)(3).
+Pub. L. 99–500, §101(c) \[title X, §955\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–173, and Pub. L. 99–591, §101(c) \[title X, §955\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–173; Pub. L. 99–661, div. A, title IX, formerly title IV, §955, Nov. 14, 1986, 100 Stat. 3953, renumbered title IX, Pub. L. 100–26,§3(5), Apr. 21, 1987, 101 Stat. 273, which provided that in preparing the defense budget for any fiscal year, the Secretary of Defense was to specifically identify each common procurement weapon system included in the budget, take all feasible steps to minimize variations in procurement unit costs for any such system as shown in the budget requests of the different armed forces requesting procurement funds for the system, and identify and justify in the budget all such variations in procurement unit costs for common procurement weapon systems, and that the Secretary of Defense carry out this section through the Assistant Secretary of Defense (Comptroller), was repealed and restated in section 2217 of this title by Pub. L. 100–370, §1(d)(3).
 
 #### Annual Report to Congress on Implementation of Joint Officer Personnel Policy
 
@@ -1956,7 +2426,7 @@ Pub. L. 99–85, Aug. 8, 1985, 99 Stat. 286, as amended by Pub. L. 103–199, ti
 
 “
 
-Sec. 2. (a) The Secretary of Defense may use any funds available to the Department of Defense for theprocurement of the equipment and providing the services referred to in the first section.
+Sec. 2. (a) The Secretary of Defense may use any funds available to the Department of Defense for the procurement of the equipment and providing the services referred to in the first section.
 
 “(b) Funds received from Russia as payment for such equipment and services shall be credited to the appropriate account of Department of Defense.”
 
@@ -1972,7 +2442,7 @@ Pub. L. 97–86, title IX, §918, Dec. 1, 1981, 95 Stat. 1132, directed Secretar
 
 #### Military Installations To Be Closed in United States, Guam, or Puerto Rico; Studies To Determine Potential Use
 
-Pub. L. 94–431, title VI, §610, Sept. 30, 1976, 90 Stat. 1365, authorized Secretary of Defense to conduct studies with regard to possible use of military installations being closed and to make recommendations with regard to such installations, prior to repeal by Pub. L. 97–86, title IX, §912(b), Dec. 1, 1981, 95 Stat. 1123. See section 2391 of this title.
+Pub. L. 94–431, title VI, §610, Sept. 30, 1976, 90 Stat. 1365, authorized Secretary of Defense to conduct studies with regard to possible use of military installations being closed and to make recommendations with regardto such installations, prior to repeal by Pub. L. 97–86, title IX, §912(b), Dec. 1, 1981, 95 Stat. 1123. See section 2391 of this title.
 
 #### Reports to Congressional Committees on Foreign Policy and Military Force Structure
 
@@ -2030,5 +2500,5 @@ Reports to Congressional committees, policies and procedures on recall to active
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 667, 1762, 2220, 2501, 3038, 5143, 5144, 8038, 10504 of this title; title 22 section 2595a; title 50 sections 833, 1523; title 50 App. sections 2077, 2152.
+This section is referred to in sections 183, 667, 1762, 2220, 2501, 3038, 5143, 5144, 8038, 10504 of this title; title 22 section 2595a; title 50 section 1523; title 50 App. sections 2077, 2152.
 

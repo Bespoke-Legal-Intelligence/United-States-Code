@@ -40,7 +40,7 @@ Each State educational agency, with broad-based classroom teacher input, shall e
 
 &emsp;&emsp;(C) a process for aligning State or local curricula, instructional materials, and State assessments with the State content standards and State student performance standards; and
 
-&emsp;&emsp;(D) a process for familiarizing teachers with the State content standards and Statestudent performance standards and developing the capability of teachers to provide high quality instruction within the content areas described in the matter preceding paragraph (1) of this subsection;
+&emsp;&emsp;(D) a process for familiarizing teachers with the State content standards and State student performance standards and developing the capability of teachers to provide high quality instruction within the content areas described in the matter preceding paragraph (1) of this subsection;
 
 &emsp;(2) may include strategies such as—
 
@@ -166,7 +166,7 @@ Each State improvement plan shall describe—
 
 #### (B) Annual report
 
-&emsp;&emsp;Any State educational agency that chooses to use the alternative method described in paragraph (1) shall annually report to thepublic summary information on the use of funds under this subchapter by the State and local educational agencies in the State, as well as the State's progress toward meeting the benchmarks and timelines described in subparagraph (A)(ii).
+&emsp;&emsp;Any State educational agency that chooses to use the alternative method described in paragraph (1) shall annually report to the public summary information on the use of funds under this subchapter by the State and local educational agencies in the State, as well as the State's progress toward meeting the benchmarks and timelines described in subparagraph (A)(ii).
 
 #### (<i>o</i>) Regular review
 

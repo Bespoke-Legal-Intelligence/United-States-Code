@@ -32,7 +32,7 @@ The Committee on Nonproliferation (in this section referred to as the “Committ
 
 The Committee has the following responsibilities:
 
-&emsp;(1) To review and coordinate Federal programs, policies, and directives relating to the proliferation of weapons of mass destructionand related materials and technologies, including matters relating to terrorism and international organized crime.
+&emsp;(1) To review and coordinate Federal programs, policies, and directives relating to the proliferation of weapons of mass destruction and related materials and technologies, including matters relating to terrorism and international organized crime.
 
 &emsp;(2) To make recommendations through the National Security Council to the President regarding the following:
 

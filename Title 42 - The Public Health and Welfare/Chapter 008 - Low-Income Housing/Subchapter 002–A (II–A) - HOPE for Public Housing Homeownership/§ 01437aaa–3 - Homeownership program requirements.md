@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A homeownership program under this subchapter shall provide for acquisition by eligible families of ownership interests in, or shares representing, at least one-half of the units in a public housing project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership), for occupancy by the eligible families.
+A homeownership program under this subchapter shall provide for acquisition by eligiblefamilies of ownership interests in, or shares representing, at least one-half of the units in a public housing project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership), for occupancy by the eligible families.
 
 #### (b) Affordability
 
@@ -92,7 +92,7 @@ This subchapter, referred to in subsec. (e)(3), was in the original “this subt
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995, and on or before Sept. 30, 1997, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
+Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995, and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
 
 #### Section Referred to in Other Sections
 

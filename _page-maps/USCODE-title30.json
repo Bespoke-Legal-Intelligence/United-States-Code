@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title30",
- "package": "USCODE-1996-title30",
+ "package": "USCODE-1997-title30",
  "pieces": [
   {
    "id": "30_",
@@ -1896,7 +1896,7 @@
      8,
      [
       [
-       485,
+       430,
        "[Page 62]"
       ]
      ]
@@ -1925,7 +1925,7 @@
      10,
      [
       [
-       1219,
+       1172,
        "[Page 63]"
       ]
      ]
@@ -1935,7 +1935,7 @@
      34,
      [
       [
-       215,
+       212,
        "[Page 64]"
       ]
      ]
@@ -4251,11 +4251,11 @@
    ]
   },
   {
-   "id": "30_&nbsp;",
+   "id": "30_-ch22",
    "marks": [
     [
      "I",
-     31,
+     29,
      [
       [
        127,
@@ -4265,7 +4265,7 @@
     ],
     [
      "I",
-     126,
+     124,
      [
       [
        62,
@@ -4275,7 +4275,7 @@
     ],
     [
      "I",
-     212,
+     210,
      [
       [
        79,
@@ -4285,7 +4285,7 @@
     ],
     [
      "I",
-     279,
+     277,
      [
       [
        118,
@@ -4295,7 +4295,7 @@
     ],
     [
      "I",
-     386,
+     384,
      [
       [
        49,
@@ -4304,7 +4304,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/10.md",
+   "path": "Chapter 022 - Mine Safety and Health/README.md",
    "printed_pages": [
     125,
     130
@@ -4324,7 +4324,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/§ 00801 - Congressional findings and declaration of purpose.md",
+   "path": "Chapter 022 - Mine Safety and Health/§ 00801 - Congressional findings and declaration of purpose.md",
    "printed_pages": [
     130,
     131
@@ -4340,7 +4340,7 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/§ 00802 - Definitions.md",
+   "path": "Chapter 022 - Mine Safety and Health/§ 00802 - Definitions.md",
    "printed_pages": [
     131,
     132
@@ -4349,7 +4349,7 @@
   {
    "id": "30_803",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/§ 00803 - Mines subject to coverage.md",
+   "path": "Chapter 022 - Mine Safety and Health/§ 00803 - Mines subject to coverage.md",
    "printed_pages": [
     132,
     132
@@ -4365,16 +4365,16 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/§ 00804 - Interim Compliance Panel.md",
+   "path": "Chapter 022 - Mine Safety and Health/§ 00804 - Interim Compliance Panel.md",
    "printed_pages": [
     132,
     133
    ]
   },
   {
-   "id": "30_-ch21-scI",
+   "id": "30_-ch22-scI",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/README.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/README.md",
    "printed_pages": [
     133,
     133
@@ -4414,7 +4414,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00811 - Mandatory safety and health standards.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00811 - Mandatory safety and health standards.md",
    "printed_pages": [
     133,
     136
@@ -4444,7 +4444,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00812 - Advisory committees.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00812 - Advisory committees.md",
    "printed_pages": [
     136,
     138
@@ -4470,7 +4470,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00813 - Inspections, investigations, and recordkeeping.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00813 - Inspections, investigations, and recordkeeping.md",
    "printed_pages": [
     138,
     140
@@ -4500,7 +4500,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00814 - Citations and orders.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00814 - Citations and orders.md",
    "printed_pages": [
     140,
     142
@@ -4530,7 +4530,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00815 - Procedure for enforcement.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00815 - Procedure for enforcement.md",
    "printed_pages": [
     142,
     144
@@ -4556,7 +4556,7 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00816 - Judicial review of Commission orders.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00816 - Judicial review of Commission orders.md",
    "printed_pages": [
     144,
     146
@@ -4572,7 +4572,7 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00817 - Procedures to counteract dangerous conditions.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00817 - Procedures to counteract dangerous conditions.md",
    "printed_pages": [
     146,
     147
@@ -4581,7 +4581,7 @@
   {
    "id": "30_818",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00818 - Injunctions.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00818 - Injunctions.md",
    "printed_pages": [
     147,
     147
@@ -4601,7 +4601,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00819 - Posting of orders and decisions.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00819 - Posting of orders and decisions.md",
    "printed_pages": [
     147,
     148
@@ -4621,7 +4621,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00820 - Penalties.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00820 - Penalties.md",
    "printed_pages": [
     148,
     149
@@ -4641,7 +4641,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00821 - Entitlement of miners to full compensation.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00821 - Entitlement of miners to full compensation.md",
    "printed_pages": [
     149,
     150
@@ -4650,7 +4650,7 @@
   {
    "id": "30_822",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00822 - Representation of Secretary in civil litigation by Solicitor of Labor.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00822 - Representation of Secretary in civil litigation by Solicitor of Labor.md",
    "printed_pages": [
     150,
     150
@@ -4680,7 +4680,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00823 - Federal Mine Safety and Health Review Commission.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00823 - Federal Mine Safety and Health Review Commission.md",
    "printed_pages": [
     150,
     152
@@ -4689,7 +4689,7 @@
   {
    "id": "30_823a",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00823a - Principal office in District of Columbia; proceedings held elsewhere.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00823a - Principal office in District of Columbia; proceedings held elsewhere.md",
    "printed_pages": [
     152,
     152
@@ -4698,7 +4698,7 @@
   {
    "id": "30_824",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00824 - Authorization of appropriations.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00824 - Authorization of appropriations.md",
    "printed_pages": [
     152,
     152
@@ -4718,16 +4718,16 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 001 (I) - General/§ 00825 - Mandatory health and safety training.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00825 - Mandatory health and safety training.md",
    "printed_pages": [
     152,
     153
    ]
   },
   {
-   "id": "30_-ch21-scII",
+   "id": "30_-ch22-scII",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 002 (II) - Interim Mandatory Health Standards/README.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/README.md",
    "printed_pages": [
     153,
     153
@@ -4736,7 +4736,7 @@
   {
    "id": "30_841",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00841 - Mandatory health standards for underground mines; enforcement; review; purpose.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00841 - Mandatory health standards for underground mines; enforcement; review; purpose.md",
    "printed_pages": [
     153,
     153
@@ -4766,7 +4766,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00842 - Dust concentration and respiratory equipment.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00842 - Dust concentration and respiratory equipment.md",
    "printed_pages": [
     153,
     155
@@ -4786,7 +4786,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00843 - Medical examinations.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00843 - Medical examinations.md",
    "printed_pages": [
     155,
     156
@@ -4795,7 +4795,7 @@
   {
    "id": "30_844",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00844 - Rock dust and gas hazards; controls.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00844 - Rock dust and gas hazards; controls.md",
    "printed_pages": [
     156,
     156
@@ -4804,7 +4804,7 @@
   {
    "id": "30_845",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00845 - Dust standards in presence of quartz.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00845 - Dust standards in presence of quartz.md",
    "printed_pages": [
     156,
     156
@@ -4824,16 +4824,16 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00846 - Noise standards; promulgation of new standards; tests; procedures; protective devices.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00846 - Noise standards; promulgation of new standards; tests; procedures; protective devices.md",
    "printed_pages": [
     156,
     157
    ]
   },
   {
-   "id": "30_-ch21-scIII",
+   "id": "30_-ch22-scIII",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/README.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/README.md",
    "printed_pages": [
     157,
     157
@@ -4842,7 +4842,7 @@
   {
    "id": "30_861",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00861 - Mandatory safety standards for underground mines.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00861 - Mandatory safety standards for underground mines.md",
    "printed_pages": [
     157,
     157
@@ -4862,7 +4862,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00862 - Roof support.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00862 - Roof support.md",
    "printed_pages": [
     157,
     158
@@ -4918,7 +4918,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00863 - Ventilation.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00863 - Ventilation.md",
    "printed_pages": [
     158,
     163
@@ -4927,7 +4927,7 @@
   {
    "id": "30_864",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00864 - Combustible materials and rock dusting.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00864 - Combustible materials and rock dusting.md",
    "printed_pages": [
     163,
     163
@@ -4963,7 +4963,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00865 - Electrical equipment.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00865 - Electrical equipment.md",
    "printed_pages": [
     163,
     166
@@ -4972,7 +4972,7 @@
   {
    "id": "30_866",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00866 - Trailing cables.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00866 - Trailing cables.md",
    "printed_pages": [
     166,
     166
@@ -4988,7 +4988,7 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00867 - Grounding of equipment.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00867 - Grounding of equipment.md",
    "printed_pages": [
     166,
     167
@@ -5004,7 +5004,7 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00868 - Underground high-voltage distribution.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00868 - Underground high-voltage distribution.md",
    "printed_pages": [
     167,
     168
@@ -5024,7 +5024,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00869 - Underground low- and medium-voltage alternating current circuits.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00869 - Underground low- and medium-voltage alternating current circuits.md",
    "printed_pages": [
     168,
     169
@@ -5033,7 +5033,7 @@
   {
    "id": "30_870",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00870 - Trolley wires and trolley feeder wires.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00870 - Trolley wires and trolley feeder wires.md",
    "printed_pages": [
     169,
     169
@@ -5053,7 +5053,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00871 - Fire protection.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00871 - Fire protection.md",
    "printed_pages": [
     169,
     170
@@ -5069,7 +5069,7 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00872 - Maps.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00872 - Maps.md",
    "printed_pages": [
     170,
     171
@@ -5078,7 +5078,7 @@
   {
    "id": "30_873",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00873 - Blasting and explosives.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00873 - Blasting and explosives.md",
    "printed_pages": [
     171,
     171
@@ -5098,7 +5098,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00874 - Hoisting and mantrips.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00874 - Hoisting and mantrips.md",
    "printed_pages": [
     171,
     172
@@ -5107,7 +5107,7 @@
   {
    "id": "30_875",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00875 - Emergency shelters; construction; contents; implementation plans.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00875 - Emergency shelters; construction; contents; implementation plans.md",
    "printed_pages": [
     172,
     172
@@ -5116,7 +5116,7 @@
   {
    "id": "30_876",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00876 - Communication facilities; locations.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00876 - Communication facilities; locations.md",
    "printed_pages": [
     172,
     172
@@ -5146,7 +5146,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00877 - General safety provisions.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00877 - General safety provisions.md",
    "printed_pages": [
     172,
     174
@@ -5166,25 +5166,25 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00878 - Definitions.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00878 - Definitions.md",
    "printed_pages": [
     174,
     175
    ]
   },
   {
-   "id": "30_-ch21-scIV",
+   "id": "30_-ch22-scIV",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/README.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/README.md",
    "printed_pages": [
     175,
     175
    ]
   },
   {
-   "id": "30_-ch21-scIV-Part_A",
+   "id": "30_-ch22-scIV-Part_A",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/README.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/README.md",
    "printed_pages": [
     175,
     175
@@ -5204,7 +5204,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00901 - Congressional findings and declaration of purpose; short title.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00901 - Congressional findings and declaration of purpose; short title.md",
    "printed_pages": [
     175,
     176
@@ -5230,7 +5230,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00902 - Definitions.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00902 - Definitions.md",
    "printed_pages": [
     176,
     178
@@ -5239,7 +5239,7 @@
   {
    "id": "30_903",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00903 - Field offices.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00903 - Field offices.md",
    "printed_pages": [
     178,
     178
@@ -5259,16 +5259,16 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00904 - Information to potential beneficiaries of changes made by Black Lung Benefits Reform Act of 1977.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00904 - Information to potential beneficiaries of changes made by Black Lung Benefits Reform Act of 1977.md",
    "printed_pages": [
     178,
     179
    ]
   },
   {
-   "id": "30_-ch21-scIV-Part_B",
+   "id": "30_-ch22-scIV-Part_B",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/README.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/README.md",
    "printed_pages": [
     179,
     179
@@ -5288,7 +5288,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00921 - Regulations and presumptions.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00921 - Regulations and presumptions.md",
    "printed_pages": [
     179,
     180
@@ -5314,7 +5314,7 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00922 - Payment of benefits.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00922 - Payment of benefits.md",
    "printed_pages": [
     180,
     182
@@ -5344,7 +5344,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00923 - Filing of notice of claim.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00923 - Filing of notice of claim.md",
    "printed_pages": [
     182,
     184
@@ -5364,7 +5364,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00924 - Time for filing claims.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00924 - Time for filing claims.md",
    "printed_pages": [
     184,
     185
@@ -5373,7 +5373,7 @@
   {
    "id": "30_924a",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00924a - Notification to miners of eligibility for medical services and supplies; period for filing claim.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00924a - Notification to miners of eligibility for medical services and supplies; period for filing claim.md",
    "printed_pages": [
     185,
     185
@@ -5389,16 +5389,16 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00925 - Procedure for the determination of claims during transition period.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00925 - Procedure for the determination of claims during transition period.md",
    "printed_pages": [
     185,
     186
    ]
   },
   {
-   "id": "30_-ch21-scIV-Part_C",
+   "id": "30_-ch22-scIV-Part_C",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/README.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/README.md",
    "printed_pages": [
     186,
     186
@@ -5418,7 +5418,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00931 - Benefits under State workmen's compensation laws.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00931 - Benefits under State workmen's compensation laws.md",
    "printed_pages": [
     186,
     187
@@ -5444,7 +5444,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00932 - Failure to meet workmen's compensation requirements.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00932 - Failure to meet workmen's compensation requirements.md",
    "printed_pages": [
     187,
     189
@@ -5464,7 +5464,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00932a - Appointment of qualified individuals to hear and determine claims for benefits.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00932a - Appointment of qualified individuals to hear and determine claims for benefits.md",
    "printed_pages": [
     189,
     190
@@ -5480,7 +5480,7 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00933 - Duties of operators in States not qualifying under workmen's compensation laws.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00933 - Duties of operators in States not qualifying under workmen's compensation laws.md",
    "printed_pages": [
     190,
     191
@@ -5500,7 +5500,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00934 - “Fund” defined; liability of operators to United States for repayments to fund; procedures applicable; rate of interest.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00934 - “Fund” defined; liability of operators to United States for repayments to fund; procedures applicable; rate of interest.md",
    "printed_pages": [
     191,
     192
@@ -5509,7 +5509,7 @@
   {
    "id": "30_934a",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00934a - Repealed. Pub. L. 97–119, title I, §103(b), Dec. 29, 1981, 95 Stat. 1638.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00934a - Repealed. Pub. L. 97–119, title I, §103(b), Dec. 29, 1981, 95 Stat. 1638.md",
    "printed_pages": [
     192,
     192
@@ -5518,7 +5518,7 @@
   {
    "id": "30_935",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00935 - Utilization of services of State and local agencies.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00935 - Utilization of services of State and local agencies.md",
    "printed_pages": [
     192,
     192
@@ -5534,7 +5534,7 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00936 - Regulations and reports.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00936 - Regulations and reports.md",
    "printed_pages": [
     192,
     193
@@ -5543,7 +5543,7 @@
   {
    "id": "30_937",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00937 - Contracts and grants.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00937 - Contracts and grants.md",
    "printed_pages": [
     193,
     193
@@ -5563,7 +5563,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00938 - Miners suffering from pneumoconiosis; discrimination prohibited.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00938 - Miners suffering from pneumoconiosis; discrimination prohibited.md",
    "printed_pages": [
     193,
     194
@@ -5572,7 +5572,7 @@
   {
    "id": "30_939",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00939 - Authorization of appropriations.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00939 - Authorization of appropriations.md",
    "printed_pages": [
     194,
     194
@@ -5581,7 +5581,7 @@
   {
    "id": "30_940",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00940 - Applicability of amendments to part B of this subchapter to this part.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00940 - Applicability of amendments to part B of this subchapter to this part.md",
    "printed_pages": [
     194,
     194
@@ -5590,7 +5590,7 @@
   {
    "id": "30_941",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00941 - Penalty for false statements or representations.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00941 - Penalty for false statements or representations.md",
    "printed_pages": [
     194,
     194
@@ -5610,7 +5610,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00942 - Miner benefit entitlement reports; penalty for failure or refusal to file.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00942 - Miner benefit entitlement reports; penalty for failure or refusal to file.md",
    "printed_pages": [
     194,
     195
@@ -5630,7 +5630,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00943 - Black lung insurance program.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00943 - Black lung insurance program.md",
    "printed_pages": [
     195,
     196
@@ -5639,7 +5639,7 @@
   {
    "id": "30_944",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00944 - Statement of reasons for denial of claim.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00944 - Statement of reasons for denial of claim.md",
    "printed_pages": [
     196,
     196
@@ -5659,16 +5659,16 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00945 - Review of claims pending on, or denied on or before, March 1, 1978.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00945 - Review of claims pending on, or denied on or before, March 1, 1978.md",
    "printed_pages": [
     196,
     197
    ]
   },
   {
-   "id": "30_-ch21-scV",
+   "id": "30_-ch22-scV",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/README.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/README.md",
    "printed_pages": [
     197,
     197
@@ -5694,7 +5694,7 @@
      true
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00951 - Studies and research.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00951 - Studies and research.md",
    "printed_pages": [
     197,
     199
@@ -5703,7 +5703,7 @@
   {
    "id": "30_951a",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00951a - Health, Safety, and Mining Technology Research program.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00951a - Health, Safety, and Mining Technology Research program.md",
    "printed_pages": [
     199,
     199
@@ -5723,7 +5723,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00952 - Training and education.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00952 - Training and education.md",
    "printed_pages": [
     199,
     200
@@ -5743,7 +5743,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00953 - Assistance to States.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00953 - Assistance to States.md",
    "printed_pages": [
     200,
     201
@@ -5752,7 +5752,7 @@
   {
    "id": "30_954",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00954 - Appointment of administrative personnel and inspectors; qualifications; training programs.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00954 - Appointment of administrative personnel and inspectors; qualifications; training programs.md",
    "printed_pages": [
     201,
     201
@@ -5772,7 +5772,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00955 - State laws.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00955 - State laws.md",
    "printed_pages": [
     201,
     202
@@ -5781,7 +5781,7 @@
   {
    "id": "30_956",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00956 - Applicability of administrative procedure provisions.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00956 - Applicability of administrative procedure provisions.md",
    "printed_pages": [
     202,
     202
@@ -5790,7 +5790,7 @@
   {
    "id": "30_957",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00957 - Promulgation of regulations.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00957 - Promulgation of regulations.md",
    "printed_pages": [
     202,
     202
@@ -5799,7 +5799,7 @@
   {
    "id": "30_958",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00958 - Annual reports to Congress; contents.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00958 - Annual reports to Congress; contents.md",
    "printed_pages": [
     202,
     202
@@ -5819,7 +5819,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00959 - Study of coordination of Federal and State activities; report.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00959 - Study of coordination of Federal and State activities; report.md",
    "printed_pages": [
     202,
     203
@@ -5828,7 +5828,7 @@
   {
    "id": "30_960",
    "marks": [],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00960 - Limitation on issuance of temporary restraining order or preliminary injunction.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00960 - Limitation on issuance of temporary restraining order or preliminary injunction.md",
    "printed_pages": [
     203,
     203
@@ -5848,7 +5848,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00961 - Functions transferred under 1977 amendments.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00961 - Functions transferred under 1977 amendments.md",
    "printed_pages": [
     203,
     204
@@ -5868,7 +5868,7 @@
      ]
     ]
    ],
-   "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/Subchapter 005 (V) - Administrative Provisions/§ 00962 - Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; use of….md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00962 - Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; use of….md",
    "printed_pages": [
     204,
     205
@@ -6553,21 +6553,21 @@
    ]
   },
   {
-   "id": "30_&nbsp;",
+   "id": "30_-ch25",
    "marks": [
     [
      "I",
-     41,
+     40,
      [
       [
-       131,
+       43,
        "[Page 230]"
       ]
      ]
     ],
     [
      "I",
-     173,
+     171,
      [
       [
        45,
@@ -6577,7 +6577,7 @@
     ],
     [
      "I",
-     276,
+     274,
      [
       [
        23,
@@ -6587,7 +6587,7 @@
     ],
     [
      "I",
-     376,
+     374,
      [
       [
        69,
@@ -6596,16 +6596,16 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - General Provisions/10.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/README.md",
    "printed_pages": [
     229,
     233
    ]
   },
   {
-   "id": "30_-ch24-scI_2",
+   "id": "30_-ch25-scI",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 001 (I) - Statement of Findings and Policy/README.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 001 (I) - Statement of Findings and Policy/README.md",
    "printed_pages": [
     233,
     233
@@ -6625,7 +6625,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 001 (I) - Statement of Findings and Policy/§ 01201 - Congressional findings.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 001 (I) - Statement of Findings and Policy/§ 01201 - Congressional findings.md",
    "printed_pages": [
     233,
     234
@@ -6634,16 +6634,16 @@
   {
    "id": "30_1202",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 001 (I) - Statement of Findings and Policy/§ 01202 - Statement of purpose.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 001 (I) - Statement of Findings and Policy/§ 01202 - Statement of purpose.md",
    "printed_pages": [
     234,
     234
    ]
   },
   {
-   "id": "30_-ch24-scII_2",
+   "id": "30_-ch25-scII",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 002 (II) - Office of Surface Mining Reclamation and Enforcement/README.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 002 (II) - Office of Surface Mining Reclamation and Enforcement/README.md",
    "printed_pages": [
     234,
     234
@@ -6673,16 +6673,16 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 002 (II) - Office of Surface Mining Reclamation and Enforcement/§ 01211 - Office of Surface Mining Reclamation and Enforcement.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 002 (II) - Office of Surface Mining Reclamation and Enforcement/§ 01211 - Office of Surface Mining Reclamation and Enforcement.md",
    "printed_pages": [
     234,
     236
    ]
   },
   {
-   "id": "30_-ch24-scIII_2",
+   "id": "30_-ch25-scIII",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/README.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/README.md",
    "printed_pages": [
     236,
     236
@@ -6698,7 +6698,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01221 - Authorization of State allotments to institutes.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01221 - Authorization of State allotments to institutes.md",
    "printed_pages": [
     236,
     237
@@ -6714,7 +6714,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01222 - Research funds to institutes.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01222 - Research funds to institutes.md",
    "printed_pages": [
     237,
     238
@@ -6730,7 +6730,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01223 - Funding criteria.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01223 - Funding criteria.md",
    "printed_pages": [
     238,
     239
@@ -6739,7 +6739,7 @@
   {
    "id": "30_1224",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01224 - Duties of Secretary.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01224 - Duties of Secretary.md",
    "printed_pages": [
     239,
     239
@@ -6748,7 +6748,7 @@
   {
    "id": "30_1225",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01225 - Effect on colleges and universities.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01225 - Effect on colleges and universities.md",
    "printed_pages": [
     239,
     239
@@ -6768,7 +6768,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01226 - Research.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01226 - Research.md",
    "printed_pages": [
     239,
     240
@@ -6777,7 +6777,7 @@
   {
    "id": "30_1227",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01227 - Center for cataloging.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01227 - Center for cataloging.md",
    "printed_pages": [
     240,
     240
@@ -6786,7 +6786,7 @@
   {
    "id": "30_1228",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01228 - Interagency cooperation.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01228 - Interagency cooperation.md",
    "printed_pages": [
     240,
     240
@@ -6806,7 +6806,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01229 - Committee on Mining and Mineral Resources Research.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01229 - Committee on Mining and Mineral Resources Research.md",
    "printed_pages": [
     240,
     241
@@ -6826,7 +6826,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01230 - Eligibility criteria.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01230 - Eligibility criteria.md",
    "printed_pages": [
     241,
     242
@@ -6835,16 +6835,16 @@
   {
    "id": "30_1230a",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01230a - Strategic Resources Generic Mineral Technology Center.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01230a - Strategic Resources Generic Mineral Technology Center.md",
    "printed_pages": [
     242,
     242
    ]
   },
   {
-   "id": "30_-ch24-scIV",
+   "id": "30_-ch25-scIV",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/README.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/README.md",
    "printed_pages": [
     242,
     242
@@ -6870,7 +6870,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01231 - Abandoned Mine Reclamation Fund.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01231 - Abandoned Mine Reclamation Fund.md",
    "printed_pages": [
     242,
     244
@@ -6906,7 +6906,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01232 - Reclamation fee.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01232 - Reclamation fee.md",
    "printed_pages": [
     244,
     247
@@ -6926,7 +6926,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01233 - Objectives of fund.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01233 - Objectives of fund.md",
    "printed_pages": [
     247,
     248
@@ -6942,7 +6942,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01234 - Eligible lands and water.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01234 - Eligible lands and water.md",
    "printed_pages": [
     248,
     249
@@ -6962,7 +6962,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01235 - State reclamation program.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01235 - State reclamation program.md",
    "printed_pages": [
     249,
     250
@@ -6982,7 +6982,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01236 - Reclamation of rural lands.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01236 - Reclamation of rural lands.md",
    "printed_pages": [
     250,
     251
@@ -7008,7 +7008,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01237 - Acquisition and reclamation of land adversely affected by past coal mining practices.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01237 - Acquisition and reclamation of land adversely affected by past coal mining practices.md",
    "printed_pages": [
     251,
     253
@@ -7017,7 +7017,7 @@
   {
    "id": "30_1238",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01238 - Liens.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01238 - Liens.md",
    "printed_pages": [
     253,
     253
@@ -7037,7 +7037,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01239 - Filling voids and sealing tunnels.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01239 - Filling voids and sealing tunnels.md",
    "printed_pages": [
     253,
     254
@@ -7046,7 +7046,7 @@
   {
    "id": "30_1240",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01240 - Emergency powers.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01240 - Emergency powers.md",
    "printed_pages": [
     254,
     254
@@ -7066,7 +7066,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01240a - Certification.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01240a - Certification.md",
    "printed_pages": [
     254,
     255
@@ -7075,7 +7075,7 @@
   {
    "id": "30_1241",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01241 - Annual report to Congress.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01241 - Annual report to Congress.md",
    "printed_pages": [
     255,
     255
@@ -7095,7 +7095,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01242 - Powers of Secretary or State.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01242 - Powers of Secretary or State.md",
    "printed_pages": [
     255,
     256
@@ -7104,16 +7104,16 @@
   {
    "id": "30_1243",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01243 - Interagency cooperation.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01243 - Interagency cooperation.md",
    "printed_pages": [
     256,
     256
    ]
   },
   {
-   "id": "30_-ch24-scV",
+   "id": "30_-ch25-scV",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/README.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/README.md",
    "printed_pages": [
     256,
     256
@@ -7133,7 +7133,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01251 - Environmental protection standards.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01251 - Environmental protection standards.md",
    "printed_pages": [
     256,
     257
@@ -7142,7 +7142,7 @@
   {
    "id": "30_1251a",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01251a - Abandoned coal refuse sites.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01251a - Abandoned coal refuse sites.md",
    "printed_pages": [
     257,
     257
@@ -7162,7 +7162,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01252 - Initial regulatory procedures.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01252 - Initial regulatory procedures.md",
    "printed_pages": [
     257,
     258
@@ -7182,7 +7182,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01253 - State programs.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01253 - State programs.md",
    "printed_pages": [
     258,
     259
@@ -7208,7 +7208,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01254 - Federal programs.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01254 - Federal programs.md",
    "printed_pages": [
     259,
     261
@@ -7217,7 +7217,7 @@
   {
    "id": "30_1255",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01255 - State laws.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01255 - State laws.md",
    "printed_pages": [
     261,
     261
@@ -7237,7 +7237,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01256 - Permits.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01256 - Permits.md",
    "printed_pages": [
     261,
     262
@@ -7267,7 +7267,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01257 - Application requirements.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01257 - Application requirements.md",
    "printed_pages": [
     262,
     264
@@ -7287,7 +7287,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01258 - Reclamation plan requirements.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01258 - Reclamation plan requirements.md",
    "printed_pages": [
     264,
     265
@@ -7307,7 +7307,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01259 - Performance bonds.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01259 - Performance bonds.md",
    "printed_pages": [
     265,
     266
@@ -7329,7 +7329,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01260 - Permit approval or denial.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01260 - Permit approval or denial.md",
    "printed_pages": [
     266,
     268
@@ -7338,7 +7338,7 @@
   {
    "id": "30_1261",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01261 - Revision of permits.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01261 - Revision of permits.md",
    "printed_pages": [
     268,
     268
@@ -7347,7 +7347,7 @@
   {
    "id": "30_1262",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01262 - Coal exploration permits.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01262 - Coal exploration permits.md",
    "printed_pages": [
     268,
     268
@@ -7367,7 +7367,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01263 - Public notice and public hearings.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01263 - Public notice and public hearings.md",
    "printed_pages": [
     268,
     269
@@ -7383,7 +7383,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01264 - Decisions of regulatory authority and appeals.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01264 - Decisions of regulatory authority and appeals.md",
    "printed_pages": [
     269,
     270
@@ -7437,7 +7437,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01265 - Environmental protection performance standards.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01265 - Environmental protection performance standards.md",
    "printed_pages": [
     270,
     276
@@ -7457,7 +7457,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01266 - Surface effects of underground coal mining operations.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01266 - Surface effects of underground coal mining operations.md",
    "printed_pages": [
     276,
     277
@@ -7477,7 +7477,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01267 - Inspections and monitoring.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01267 - Inspections and monitoring.md",
    "printed_pages": [
     277,
     278
@@ -7497,7 +7497,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01268 - Penalties.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01268 - Penalties.md",
    "printed_pages": [
     278,
     279
@@ -7527,7 +7527,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01269 - Release of performance bonds or deposits.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01269 - Release of performance bonds or deposits.md",
    "printed_pages": [
     279,
     281
@@ -7543,7 +7543,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01270 - Citizens suits.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01270 - Citizens suits.md",
    "printed_pages": [
     281,
     282
@@ -7563,7 +7563,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01271 - Enforcement.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01271 - Enforcement.md",
    "printed_pages": [
     282,
     283
@@ -7593,7 +7593,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01272 - Designating areas unsuitable for surface coal mining.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01272 - Designating areas unsuitable for surface coal mining.md",
    "printed_pages": [
     283,
     285
@@ -7613,7 +7613,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01273 - Federal lands.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01273 - Federal lands.md",
    "printed_pages": [
     285,
     286
@@ -7622,7 +7622,7 @@
   {
    "id": "30_1274",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01274 - Public agencies, public utilities, and public corporations.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01274 - Public agencies, public utilities, and public corporations.md",
    "printed_pages": [
     286,
     286
@@ -7642,7 +7642,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01275 - Review by Secretary.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01275 - Review by Secretary.md",
    "printed_pages": [
     286,
     287
@@ -7658,7 +7658,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01276 - Judicial review.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01276 - Judicial review.md",
    "printed_pages": [
     287,
     288
@@ -7667,7 +7667,7 @@
   {
    "id": "30_1277",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01277 - Special bituminous coal mines.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01277 - Special bituminous coal mines.md",
    "printed_pages": [
     288,
     288
@@ -7676,7 +7676,7 @@
   {
    "id": "30_1278",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01278 - Surface mining operations not subject to this chapter.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01278 - Surface mining operations not subject to this chapter.md",
    "printed_pages": [
     288,
     288
@@ -7696,16 +7696,16 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01279 - Anthracite coal mines.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01279 - Anthracite coal mines.md",
    "printed_pages": [
     288,
     289
    ]
   },
   {
-   "id": "30_-ch24-scVI",
+   "id": "30_-ch25-scVI",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 006 (VI) - Designation of Lands Unsuitable for Noncoal Mining/README.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 006 (VI) - Designation of Lands Unsuitable for Noncoal Mining/README.md",
    "printed_pages": [
     289,
     289
@@ -7714,16 +7714,16 @@
   {
    "id": "30_1281",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 006 (VI) - Designation of Lands Unsuitable for Noncoal Mining/§ 01281 - Designation procedures.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 006 (VI) - Designation of Lands Unsuitable for Noncoal Mining/§ 01281 - Designation procedures.md",
    "printed_pages": [
     289,
     289
    ]
   },
   {
-   "id": "30_-ch24-scVII",
+   "id": "30_-ch25-scVII",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/README.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/README.md",
    "printed_pages": [
     289,
     289
@@ -7749,7 +7749,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01291 - Definitions.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01291 - Definitions.md",
    "printed_pages": [
     289,
     291
@@ -7769,7 +7769,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01292 - Other Federal laws.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01292 - Other Federal laws.md",
    "printed_pages": [
     291,
     292
@@ -7789,7 +7789,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01293 - Employee protection.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01293 - Employee protection.md",
    "printed_pages": [
     292,
     293
@@ -7798,7 +7798,7 @@
   {
    "id": "30_1294",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01294 - Penalty.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01294 - Penalty.md",
    "printed_pages": [
     293,
     293
@@ -7807,7 +7807,7 @@
   {
    "id": "30_1295",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01295 - Grants to States.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01295 - Grants to States.md",
    "printed_pages": [
     293,
     293
@@ -7816,7 +7816,7 @@
   {
    "id": "30_1296",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01296 - Annual report to President and Congress.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01296 - Annual report to President and Congress.md",
    "printed_pages": [
     293,
     293
@@ -7832,7 +7832,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01297 - Separability.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01297 - Separability.md",
    "printed_pages": [
     293,
     294
@@ -7841,7 +7841,7 @@
   {
    "id": "30_1298",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01298 - Alaskan surface coal mine study.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01298 - Alaskan surface coal mine study.md",
    "printed_pages": [
     294,
     294
@@ -7850,7 +7850,7 @@
   {
    "id": "30_1299",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01299 - Study of reclamation standards for surface mining of other minerals.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01299 - Study of reclamation standards for surface mining of other minerals.md",
    "printed_pages": [
     294,
     294
@@ -7866,7 +7866,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01300 - Indian lands.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01300 - Indian lands.md",
    "printed_pages": [
     294,
     295
@@ -7875,7 +7875,7 @@
   {
    "id": "30_1301",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01301 - Environmental practices.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01301 - Environmental practices.md",
    "printed_pages": [
     295,
     295
@@ -7891,7 +7891,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01302 - Authorization of appropriations.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01302 - Authorization of appropriations.md",
    "printed_pages": [
     295,
     296
@@ -7900,7 +7900,7 @@
   {
    "id": "30_1303",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01303 - Coordination of regulatory and inspection activities.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01303 - Coordination of regulatory and inspection activities.md",
    "printed_pages": [
     296,
     296
@@ -7920,7 +7920,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01304 - Surface owner protection.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01304 - Surface owner protection.md",
    "printed_pages": [
     296,
     297
@@ -7929,7 +7929,7 @@
   {
    "id": "30_1305",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01305 - Federal lessee protection.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01305 - Federal lessee protection.md",
    "printed_pages": [
     297,
     297
@@ -7938,7 +7938,7 @@
   {
    "id": "30_1306",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01306 - Effect on rights of owner of coal in Alaska to conduct surface mining operations.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01306 - Effect on rights of owner of coal in Alaska to conduct surface mining operations.md",
    "printed_pages": [
     297,
     297
@@ -7947,7 +7947,7 @@
   {
    "id": "30_1307",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01307 - Water rights and replacement.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01307 - Water rights and replacement.md",
    "printed_pages": [
     297,
     297
@@ -7956,7 +7956,7 @@
   {
    "id": "30_1308",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01308 - Advance appropriations.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01308 - Advance appropriations.md",
    "printed_pages": [
     297,
     297
@@ -7972,7 +7972,7 @@
      true
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01309 - Certification and training of blasters.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01309 - Certification and training of blasters.md",
    "printed_pages": [
     297,
     298
@@ -7981,7 +7981,7 @@
   {
    "id": "30_1309a",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01309a - Subsidence.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01309a - Subsidence.md",
    "printed_pages": [
     298,
     298
@@ -7990,16 +7990,16 @@
   {
    "id": "30_1309b",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01309b - Research.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 007 (VII) - Administrative and Miscellaneous Provisions/§ 01309b - Research.md",
    "printed_pages": [
     298,
     298
    ]
   },
   {
-   "id": "30_-ch24-scVIII",
+   "id": "30_-ch25-scVIII",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 008 (VIII) - University Coal Research Laboratories/README.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 008 (VIII) - University Coal Research Laboratories/README.md",
    "printed_pages": [
     298,
     298
@@ -8019,7 +8019,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01311 - Establishment of university coal research laboratories.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01311 - Establishment of university coal research laboratories.md",
    "printed_pages": [
     298,
     299
@@ -8028,7 +8028,7 @@
   {
    "id": "30_1312",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01312 - Financial assistance.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01312 - Financial assistance.md",
    "printed_pages": [
     299,
     299
@@ -8037,7 +8037,7 @@
   {
    "id": "30_1313",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01313 - Limitation on payments.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01313 - Limitation on payments.md",
    "printed_pages": [
     299,
     299
@@ -8057,7 +8057,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01314 - Payments; Federal share of operating expenses.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01314 - Payments; Federal share of operating expenses.md",
    "printed_pages": [
     299,
     300
@@ -8066,7 +8066,7 @@
   {
    "id": "30_1315",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01315 - Advisory Council on Coal Research.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01315 - Advisory Council on Coal Research.md",
    "printed_pages": [
     300,
     300
@@ -8086,16 +8086,16 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01316 - Authorization of appropriations.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 008 (VIII) - University Coal Research Laboratories/§ 01316 - Authorization of appropriations.md",
    "printed_pages": [
     300,
     301
    ]
   },
   {
-   "id": "30_-ch24-scIX",
+   "id": "30_-ch25-scIX",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/README.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/README.md",
    "printed_pages": [
     301,
     301
@@ -8104,7 +8104,7 @@
   {
    "id": "30_1321",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01321 - Fellowship awards.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01321 - Fellowship awards.md",
    "printed_pages": [
     301,
     301
@@ -8113,7 +8113,7 @@
   {
    "id": "30_1322",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01322 - Fellowship recipients.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01322 - Fellowship recipients.md",
    "printed_pages": [
     301,
     301
@@ -8133,7 +8133,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01323 - Distribution of fellowships.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01323 - Distribution of fellowships.md",
    "printed_pages": [
     301,
     302
@@ -8142,7 +8142,7 @@
   {
    "id": "30_1324",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01324 - Stipends and allowances.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01324 - Stipends and allowances.md",
    "printed_pages": [
     302,
     302
@@ -8151,7 +8151,7 @@
   {
    "id": "30_1325",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01325 - Limitation on fellowships.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01325 - Limitation on fellowships.md",
    "printed_pages": [
     302,
     302
@@ -8160,7 +8160,7 @@
   {
    "id": "30_1326",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01326 - Fellowship conditions.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01326 - Fellowship conditions.md",
    "printed_pages": [
     302,
     302
@@ -8169,7 +8169,7 @@
   {
    "id": "30_1327",
    "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01327 - Authorization of appropriations.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01327 - Authorization of appropriations.md",
    "printed_pages": [
     302,
     302
@@ -8189,7 +8189,7 @@
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01328 - Research, development projects, etc., relating to alternative coal mining technologies.md",
+   "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 009 (IX) - Energy Resource Graduate Fellowships/§ 01328 - Research, development projects, etc., relating to alternative coal mining technologies.md",
    "printed_pages": [
     302,
     303
@@ -9089,7 +9089,7 @@
    "marks": [
     [
      "L",
-     26,
+     24,
      "[Page 334]",
      true
     ]
@@ -9819,6 +9819,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1996-title30 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1997-title30 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 30 - Mineral Lands and Mining"
 }

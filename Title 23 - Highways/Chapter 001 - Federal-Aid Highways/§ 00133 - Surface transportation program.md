@@ -62,7 +62,7 @@ General rule.—Except as provided in subparagraphs (C) and (D), 62.5 percent of
 
 &emsp;&emsp;(B)
 
-Special rule for areas of less than 5,000 population.—Of the amounts required tobe <sup>1</sup> obligated under subparagraph (A)(ii), the State shall obligate in areas of the State (other than urban areas with a population greater than 5,000) an amount which is not less than 110 percent of the amount of funds apportioned to the State for the Federal-aid secondary system for fiscal year 1991.
+Special rule for areas of less than 5,000 population.—Of the amounts required tobe <sup>1</sup> obligated under subparagraph (A)(ii),the State shall obligate in areas of the State (other than urban areas with a population greater than 5,000) an amount which is not less than 110 percent of the amount of funds apportioned to the State for the Federal-aid secondary system for fiscal year 1991.
 
 &emsp;&emsp;(C)
 
@@ -140,7 +140,7 @@ Effect on other requirements.—This subparagraph shall not exempt a State from 
 
 &emsp;(4)
 
-Population determinations.—The Secretary shall use estimates prepared by the Secretary of Commerce when determining population figures for purposes of this section.
+Population determinations.—The Secretary shall use estimates prepared by theSecretary of Commerce when determining population figures for purposes of this section.
 
 &emsp;(5)
 

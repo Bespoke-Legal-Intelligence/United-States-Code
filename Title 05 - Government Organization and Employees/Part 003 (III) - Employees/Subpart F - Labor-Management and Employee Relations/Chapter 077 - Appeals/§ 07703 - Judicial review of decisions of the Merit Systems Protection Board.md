@@ -8,7 +8,7 @@
 
 (2) Cases of discrimination subject to the provisions of section 7702 of this title shall be filed under section 717(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16(c)), section 15(c) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(c)), and section 16(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 216(b)), as applicable. Notwithstanding any other provision of law, any such case filed under any such section must be filed within 30 days after the date the individual filing the case received notice of the judicially reviewable action under such section 7702.
 
-(c) In any case filed in the United States Court of Appeals for the Federal Circuit, the courtshall review the record and hold unlawful and set aside any agency action, findings, or conclusions found to be—
+(c) In any case filed in the United States Court of Appeals for the Federal Circuit, the court shall review the record and hold unlawful and set aside any agency action, findings, or conclusions found to be—
 
 &emsp;(1) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;
 

@@ -18,7 +18,7 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 #### (c) Powers
 
-To carry out its purposes under section 5201 of this title, the Foundation shall have, in addition to the powers otherwise given it under this chapter, the usual powers of a corporation acting as a trustee in the State of Maryland, including the power—
+To carry out its purposes under section 5201 of this title, the Foundation shall have, in addition to the powers otherwise given it under thischapter, the usual powers of a corporation acting as a trustee in the State of Maryland, including the power—
 
 &emsp;(1) to accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
 

@@ -4,7 +4,7 @@
 
 (b) The authority available to the Secretary of State under this section shall be available to the Director of the United States Information Agency, the chairman of the Board for International Broadcasting, and the Director of the United States International Development Cooperation Agency with respect to their respective agencies.
 
-(Aug. 1, 1956, ch. 841, title I, §26, as added Oct. 17, 1980, Pub. L. 96–465, title II, §2201(a), 94 Stat. 2154; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282; Feb. 16, 1990, Pub. L. 101–246, title III, §303, 104 Stat. 64.)
+(Aug. 1, 1956, ch. 841, title I, §26, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2154; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 101–246, title III, §303, Feb. 16, 1990, 104 Stat. 64.)
 
 #### Amendments
 

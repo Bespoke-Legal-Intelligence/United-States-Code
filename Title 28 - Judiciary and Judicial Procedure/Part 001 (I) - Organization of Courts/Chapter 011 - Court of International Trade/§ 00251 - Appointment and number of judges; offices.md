@@ -1,12 +1,10 @@
 ### §251. Appointment and number of judges; offices
 
-(a) The President shall appoint, by and with the advice and consent of the Senate, ninejudges who shall constitute a court of record to be known as the United States Court of International Trade. Not more than five of such judges shall be from the same political party. The court is a court established under article III of the Constitution of the United States.
+(a) The President shall appoint, by and with the advice and consent of the Senate, nine judges who shall constitute a court of record to be known as the United States Court of International Trade. Not more than five of such judges shall be from the same political party. The court is a court established under article III of the Constitution of the United States.
 
-(b) The President shall designate one of the judges of the Court of International Trade who is less than seventy years of age to serve as chief judge. The chief judge shall continue to serve as chief judge until he reaches the age of seventy years and another judge is designated as chief judge by the President. After the designation of another judge to serve as chief judge, the former chief judge may continue to serve as a judge of the court.
+(b) The offices of the Court of International Trade shall be located in New York, New York.
 
-(c) The offices of the Court of International Trade shall be located in New York, New York.
-
-(June 25, 1948, ch. 646, 62 Stat. 899; July 14, 1956, ch. 589, §1, 70 Stat. 532; Oct. 10, 1980, Pub. L. 96–417, title I, §101, 94 Stat. 1727.)
+(June 25, 1948, ch. 646, 62 Stat. 899; July 14, 1956, ch. 589, §1, 70 Stat. 532; Pub. L. 96–417, title I, §101, Oct. 10, 1980, 94 Stat. 1727; Pub. L. 104–317, title V, §501(b)(1), Oct. 19, 1996, 110 Stat. 3856.)
 
 #### Historical and Revision Notes
 
@@ -26,13 +24,15 @@ Changes in phraseology were made.
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–417 incorporated first par. in provisions designated subsec. (a), redesignated the United States Customs Court as the United States Court of International Trade, and deleted “appointed” before “shall be”.
+<b>1996</b>—Subsecs. (b), (c). Pub. L. 104–317 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The President shall designate one of the judges of the Court of International Trade who is less than seventy years of age to serve as chief judge. The chief judge shall continue to serve as chief judge until he reaches the age of seventy years and another judge is designated as chief judge by the President. After the designation of another judge to serve as chief judge, the former chief judge may continue to serve as a judge of the court.”
+
+<b>1980</b>—Subsec. (a). Pub. L. 96–417 incorporated first par. in provisions designated subsec. (a), redesignated the United States Customs Court as the United States Court of International Trade, and deleted “appointed” before “shall be”.
 
 Subsec. (b). Pub. L. 96–417 added subsec. (b) and struck out a second paragraph requiring the President to designate from time to time one of the judges to act as chief judge.
 
 Subsec. (c). Pub. L. 96–417 designated third par. as subsec. (c) and substituted “Court of International Trade” for “court” and “located in New York, New York” for “located at the port of New York”.
 
-1956—Act July 14, 1956, declared the Customs Court to be a court established under article III of the Constitution of the United States.
+<b>1956</b>—Act July 14, 1956, declared the Customs Court to be a court established under article III of the Constitution of the United States.
 
 #### Effective Date of 1980 Amendment
 
@@ -86,7 +86,7 @@ Section 704 of Pub. L. 96–417 provided that: “Nothing in this Act \[see sect
 
 #### Tennessee Valley Authority Legal Representation
 
-Section 705 of Pub. L. 96–417 provided that: “Nothing in this Act \[see section 1 of Pub. L. 96–417, set out asa Short Title of 1980 Amendment note under section 1 of this title\] affects the authority of the Tennessee Valley Authority under the Tennessee Valley Authority Act of 1933 \[16 U.S.C. 831 et seq.\] to represent itself by attorneys of its choosing.”
+Section 705 of Pub. L. 96–417 provided that: “Nothing in this Act \[see section 1 of Pub. L. 96–417, set out as a Short Title of 1980 Amendment note under section 1 of this title\] affects the authority of the Tennessee Valley Authority under the Tennessee Valley Authority Act of 1933 \[16 U.S.C. 831 et seq.\] to represent itself by attorneys of its choosing.”
 
 #### Limitation or Alteration of Jurisdiction
 

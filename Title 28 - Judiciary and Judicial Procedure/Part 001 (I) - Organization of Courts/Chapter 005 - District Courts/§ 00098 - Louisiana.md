@@ -20,7 +20,7 @@ Louisiana is divided into three judicial districts to be known as the Eastern, M
 
 &emsp;&emsp;Court for the Western District shall be held at Alexandria, Lafayette, Lake Charles, Monroe, Opelousas, and Shreveport.
 
-(June 25, 1948, ch. 646, 62 Stat. 881; May 19, 1961, Pub. L. 87–36, §4, 75 Stat. 83; Dec. 18, 1971, Pub. L. 92–208, §3(a), 85 Stat. 741; Oct. 2, 1978, Pub. L. 95–408, §3(a), 92 Stat. 883; July 10, 1984, Pub. L. 98–353, title II, §203(b), 98 Stat. 350.)
+(June 25, 1948, ch. 646, 62 Stat. 881; Pub. L. 87–36, §4, May 19, 1961, 75 Stat. 83; Pub. L. 92–208, §3(a), Dec. 18, 1971, 85 Stat. 741; Pub. L. 95–408, §3(a), Oct. 2, 1978, 92 Stat. 883; Pub. L. 98–353, title II, §203(b), July 10, 1984, 98 Stat. 350.)
 
 #### Historical and Revision Notes
 
@@ -34,13 +34,13 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–353 inserted “, and Houma” after “New Orleans”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted “, and Houma” after “New Orleans”.
 
-1978—Subsec. (c). Pub. L. 95–408 struck out par. (1) to (6) designations which had divided the parishes of Western District into six divisions.
+<b>1978</b>—Subsec. (c). Pub. L. 95–408 struck out par. (1) to (6) designations which had divided the parishes of Western District into six divisions.
 
-1971—Pub. L. 92–208 created a Middle District consisting of the nine parishes formerly making up Baton Rouge Division of Eastern District and designated as the entire Eastern District the thirteen parishes formerly making up New Orleans Division of Eastern District.
+<b>1971</b>—Pub. L. 92–208 created a Middle District consisting of the nine parishes formerly making up Baton Rouge Division of Eastern District and designated as the entire Eastern District the thirteen parishes formerly making up New Orleans Division of Eastern District.
 
-1961—Pub. L. 87–36 struck out from enumeration in subsec. (a)(1) the parishes of Iberia and Saint Mary, in subsec. (b)(1) Lafayette, Saint Martin and Vermilion, and in subsec. (b)(5) Acadia, and created sixth division of subsec. (b), consisting of such parishes.
+<b>1961</b>—Pub. L. 87–36 struck out from enumeration in subsec. (a)(1) the parishes of Iberia and Saint Mary, in subsec. (b)(1) Lafayette, Saint Martin and Vermilion, and in subsec. (b)(5) Acadia, and created sixth division of subsec. (b), consisting of such parishes.
 
 #### Effective Date of 1978 Amendment; Savings Provision
 

@@ -4,7 +4,7 @@
 
 (b) The commencement of proceedings under subsection (a) of this section shall not, unless specifically ordered by the court, operate as a stay of the Administrator's order. The court shall not grant any stay of the order unless the person complaining of such order shall file in court an undertaking with a surety or sureties satisfactory to the court for the payment to the employees affected by the order, in the event such order is affirmed, of the amount by which the compensation such employees are entitled to receive under the order exceeds the compensation they actually receive while such stay is in effect.
 
-(June 25, 1938, ch. 676, §10, 52 Stat. 1065; Aug. 12, 1955, ch. 867, §5(f), 69 Stat. 712; Aug. 28, 1958, Pub. L. 85–791, §22, 72 Stat. 948; Apr. 8, 1974, Pub. L. 93–259, §5(c)(2), 88 Stat. 58.)
+(June 25, 1938, ch. 676, §10, 52 Stat. 1065; Aug. 12, 1955, ch. 867, §5(f), 69 Stat. 712; Pub. L. 85–791, §22, Aug. 28, 1958, 72 Stat. 948; Pub. L. 93–259, §5(c)(2), Apr. 8, 1974, 88 Stat. 58.)
 
 #### Amendments
 

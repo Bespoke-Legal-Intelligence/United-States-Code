@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;(2) taxes imposed by counties or municipalities, or any territory, dependency, or possession of the United States shall be treated as local taxes.
 
-(June 26, 1934, ch. 750, title III, §312, as added July 18, 1984, Pub. L. 98–369, div. B, title VIII, §2813(a)(2), 98 Stat. 1206.)
+(June 26, 1934, ch. 750, title III, §312, as added Pub. L. 98–369, div. B, title VIII, §2813(a)(2), July 18, 1984, 98 Stat. 1206.)
 
 #### Effective Date
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—VOLUNTARY TRANSFERS OF LEAVE
 
-#### Repeal of Subchapter
-
-<i>Subchapter repealed effective five years after October 31, 1988, see section 2(d) of Pub. L. 100–566 set out as an Effective Date of Repeal note under section 6331 of this title.</i>
-
 #### Subchapter Referred to in Other Sections
 
 This subchapter is referred to in sections 6307, 6373 of this title; title 20 section 904; title 22 section 3968; title 38 section 7423.

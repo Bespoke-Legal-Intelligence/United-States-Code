@@ -12,7 +12,7 @@ Each capital restoration plan submitted under this subchapter shall set forth a 
 
 &emsp;(4) specify the types and levels of activities (including existing and new programs) in which the enterprise will engage during the term of the plan; and
 
-&emsp;(5) describe the actions that the enterprise will take to comply with any mandatory anddiscretionary requirements imposed under this subchapter.
+&emsp;(5) describe the actions that the enterprise will take to comply with any mandatory and discretionary requirements imposed under this subchapter.
 
 #### (b) Deadlines for submission
 

@@ -2,7 +2,7 @@
 
 Patents may be granted to the assignee of the inventor of record in the Patent and Trademark Office, upon the application made and the specification sworn to by the inventor, except as otherwise provided in this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

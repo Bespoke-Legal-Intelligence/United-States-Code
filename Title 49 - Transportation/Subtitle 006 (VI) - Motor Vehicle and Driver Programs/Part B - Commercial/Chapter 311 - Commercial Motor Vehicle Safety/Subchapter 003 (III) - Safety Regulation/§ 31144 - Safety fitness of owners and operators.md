@@ -2,7 +2,7 @@
 
 (a)
 
-Procedure.—(1) The Secretary of Transportation shall prescribe regulations establishing a procedure to decide on the safety fitness ofowners and operators of commercial motor vehicles, including persons seeking new or additional operating authority as motor carriers under section 13902 of this title. The procedure shall include—
+Procedure.—(1) The Secretary of Transportation shall prescribe regulations establishing a procedure to decide on the safety fitness of owners and operators of commercial motor vehicles, including persons seeking new or additional operating authority as motor carriers under section 13902 of this title. The procedure shall include—
 
 &emsp;(A) specific initial and continuing requirements to be met by the owners, operators, and persons to prove safety fitness;
 
@@ -48,7 +48,7 @@ In subsection (a)(1), the words “after notice and opportunity for comment” a
 
 #### Amendments
 
-1995—Subsec. (a)(1). Pub. L. 104–88, §104(g)(1)–(3), in first sentence substituted “The Secretary” for “In cooperation with the Interstate Commerce Commission, the Secretary” and “section 13902” for “sections 10922 and 10923” and in subpar. (C) struck out “and the Commission” after “Secretary”.
+1995—Subsec. (a)(1). Pub. L. 104–88, §104(g)(1)–(3), in first sentence substituted “The Secretary” for “In cooperation with the Interstate Commerce Commission,the Secretary” and “section 13902” for “sections 10922 and 10923” and in subpar. (C) struck out “and the Commission” after “Secretary”.
 
 Subsec. (b). Pub. L. 104–88, §104(g)(4), added subsec. (b) and struck out former subsec. (b) which read as follows: “
 

@@ -12,7 +12,7 @@ The Commission shall—
 
 &emsp;(4) recommend to the Secretary and to other Federal officials such steps as it deems necessary or desirable for the protection and conservation of marine mammals;
 
-&emsp;(5) recommend to the Secretary of State appropriate policies regarding existing international arrangements for the protection and conservation of marine mammals, and suggest appropriate international arrangements for the protection and conservation of marine mammals;
+&emsp;(5) recommend to the Secretary of State appropriate policies regarding existing international arrangements for the protection and conservation of marine mammals, and suggestappropriate international arrangements for the protection and conservation of marine mammals;
 
 &emsp;(6) recommend to the Secretary such revisions of the endangered species list and threatened species list published pursuant to section 1533(c)(1) of this title, as may be appropriate with regard to marine mammals; and
 

@@ -1,6 +1,6 @@
 ### §516. Conduct of litigation reserved to Department of Justice
 
-Except as otherwise authorized by law, the conduct of litigation in which the United States,an agency, or officer thereof is a party, or is interested, and securing evidence therefor, is reserved to officers of the Department of Justice, under the direction of the Attorney General.
+Except as otherwise authorized by law, the conduct of litigation in which the United States, an agency, or officer thereof is a party, or is interested, and securing evidence therefor, is reserved to officers of the Department of Justice, under the direction of the Attorney General.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 613.)
 
@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 306.
 
@@ -26,5 +28,5 @@ So much as prohibits the employment of counsel, other than in the Department of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 section 4243; title 19 section 2350; title 31 section 3718; title 38 sections 3730, 5316; title 42 section 1785.
+This section is referred to in title 7 section 7516; title 12 section 4243; title 19 section 2350; title 31 section 3718; title 38 sections 3730, 5316; title 42 section 1785.
 

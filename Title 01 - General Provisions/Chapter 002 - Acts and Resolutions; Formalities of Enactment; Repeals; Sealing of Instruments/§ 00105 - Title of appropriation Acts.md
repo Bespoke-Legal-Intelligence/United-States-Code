@@ -2,7 +2,7 @@
 
 The style and title of all Acts making appropriations for the support of Government shall be as follows: “An Act making appropriations (here insert the object) for the year ending September 30 (here insert the calendar year).”
 
-(July 30, 1947, ch. 388, 61 Stat. 634; July 12, 1974, Pub. L. 93–344, title V, §506(a), 88 Stat. 322.)
+(July 30, 1947, ch. 388, 61 Stat. 634; Pub. L. 93–344, title V, §506(a), July 12, 1974, 88 Stat. 322.)
 
 #### Amendments
 

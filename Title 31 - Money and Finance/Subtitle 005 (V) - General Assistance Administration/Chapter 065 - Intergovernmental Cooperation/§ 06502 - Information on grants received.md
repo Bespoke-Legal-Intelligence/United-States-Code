@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Oct. 16, 1968, Pub. L. 90–577, §201, 82 Stat. 1101.
 
-The words “chief executive officer” are substituted for “Governor” because the definition of State includes the District of Columbia. The words “executive agency” are substituted for “department or agency of the United States Government” because of the definition in sections 102 and 6501(3) of the revised title. The words “shall provide the requesting officer or legislature” are substituted for the last sentence of 42:4211 to eliminate unnecessary words. The word “information” is substituted for “such data” because it is more accurate. The words “in writing” and “actual” are omitted as unnecessary.
+The words “chief executive officer” are substituted for “Governor” because the definition of State includes the District of Columbia. The words “executive agency” are substituted for “department or agency of the United States Government” because of the definition in sections 102 and 6501(3) of the revised title. The words “shall provide the requesting officer or legislature” are substituted for the last sentence of 42:4211 to eliminateunnecessary words. The word “information” is substituted for “such data” because it is more accurate. The words “in writing” and “actual” are omitted as unnecessary.
 

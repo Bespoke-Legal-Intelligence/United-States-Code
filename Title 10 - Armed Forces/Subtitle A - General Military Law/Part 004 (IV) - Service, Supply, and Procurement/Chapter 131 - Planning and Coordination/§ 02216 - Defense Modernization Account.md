@@ -28,7 +28,7 @@ Transfers to Account.—(1)(A) Upon a determination by the Secretary of a milita
 
 (c)
 
-Scope of Use of Funds.—Funds transferred to the Defense Modernization Accountfrom funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element.
+Scope of Use of Funds.—Funds transferred to the Defense Modernization Account from funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element.
 
 (d)
 
@@ -118,7 +118,7 @@ Section 912(b) of Pub. L. 104–106 provided that: “Section 2216 of title 10, 
 
 Section 912(c) of Pub. L. 104–106 provided that:
 
-“(1) The authority under section 2216(b) of title 10, United States Code (as added by subsection (a)), totransfer funds into the Defense Modernization Account terminates at the close of September 30, 2003.
+“(1) The authority under section 2216(b) of title 10, United States Code (as added by subsection (a)), to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2003.
 
 “(2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.”
 

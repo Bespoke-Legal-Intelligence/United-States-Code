@@ -102,7 +102,11 @@ Section enacted as part of the Victims’ Rights and Restitution Act of 1990 and
 
 #### Amendments
 
-1994—Subsec. (c)(7). Pub. L. 103–322 inserted at end “The Attorney General shall provide for the payment of the cost of up to 2 anonymous and confidential tests of the victim for sexually transmitted diseases, including HIV, gonorrhea, herpes, chlamydia, and syphilis,during the 12 months following sexual assaults that pose a risk of transmission, and the cost of a counseling session by a medically trained professional on the accuracy of such tests and the risk of transmission of sexually transmitted diseases to the victim as the result of the assault. A victim may waive anonymity and confidentiality of any tests paid for under this section.”
+1994—Subsec. (c)(7). Pub. L. 103–322 inserted at end “The Attorney General shall provide for the payment of the cost of up to 2 anonymous and confidential tests of the victim for sexually transmitted diseases, including HIV, gonorrhea, herpes, chlamydia, and syphilis, during the 12 months following sexual assaults that pose a risk of transmission, and the cost of a counseling session by a medically trained professional on the accuracy of such tests and the risk of transmission of sexually transmitted diseases to the victim as the result of the assault. A victim may waive anonymity and confidentiality of any tests paid for under this section.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 18 section 3510.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

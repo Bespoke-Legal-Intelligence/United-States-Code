@@ -26,7 +26,7 @@ The Board shall serve as the principal mechanism for—
 
 (3) Where essential to meet extraordinary circumstances affecting vital national security interests of the United States, the President may on a case-by-case basis waive the requirements of paragraph (1) or (2), as they apply to the head of a particular department or agency, or the Director of the Federal Bureau of Investigation. Such waiver shall be in writing and shall fully state the justification for such waiver. Within thirty days, the President shall notify the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives that such waiver has been issued, and at that time or as soon as national security considerations permit, provide these committees with a complete explanation of the circumstances which necessitated such waiver.
 
-(4) The Director of the Federal Bureau of Investigation shall, in consultation with the Director of Central Intelligence and the Secretary of Defense, report annually, beginning on February 1, 1995, and continuing each year thereafter, to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and, in accordance with applicable security procedures, the Committees on the Judiciary of the House of Representatives and theSenate with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
+(4) The Director of the Federal Bureau of Investigation shall, in consultation with the Director of Central Intelligence and the Secretary of Defense, report annually, beginning on February 1, 1995, and continuing each year thereafter, to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and, in accordance with applicable security procedures, the Committees on the Judiciary of the House of Representatives and the Senate with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
 
 (5) Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
 
@@ -37,6 +37,18 @@ The Board shall serve as the principal mechanism for—
 #### Codification
 
 Section was enacted as part of the Counterintelligence and Security Enhancements Act of 1994 and also as part of the Intelligence Authorization Act for Fiscal Year 1995, and not as part of the National Security Act of 1947 which comprises this chapter.
+
+#### Annual Reports on Intelligence Activities of the People's Republic of China
+
+Pub. L. 105–107, title III, §308, Nov. 20, 1997, 111 Stat. 2253, provided that:
+
+“(a)
+
+Report to Congress.—Not later than 90 days after the date of enactment of this Act \[Nov. 20, 1997\] and annually thereafter, the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, jointly and in consultation with the heads of other appropriate Federal agencies, including the National Security Agency and the Departments of Defense, Justice, Treasury, and State, shall prepare and transmit to Congress a report on intelligence activities of the People's Republic of China directed against or affecting the interests of the United States.
+
+“(b)
+
+Delivery of Report.—The Director of Central Intelligence and the Director of the Federal Bureau of Investigation shall jointly transmit classified and unclassified versions of the report to the Speaker and Minority leader of the House of Representatives, the Majority and Minority leaders of the Senate, the Chairman and Ranking Member of the Permanent Select Committee on Intelligence of the House of Representatives, and the Chairman and Vice-Chairman of the Select Committee on Intelligence of the Senate.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

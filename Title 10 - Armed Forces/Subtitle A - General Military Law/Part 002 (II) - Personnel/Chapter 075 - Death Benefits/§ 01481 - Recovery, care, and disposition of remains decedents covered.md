@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) performing authorized travel directly to or from active duty or inactive-duty training;
 
-&emsp;&emsp;(D) remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence; or
+&emsp;&emsp;(D) remaining overnight immediately before the commencement of inactive-duty training, or remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence; or
 
 &emsp;&emsp;(E) hospitalized or undergoing treatment for an injury, illness, or disease incurred or aggravated while on active duty or performing inactive-duty training.
 
@@ -34,7 +34,7 @@
 
 (c) In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Oct. 13, 1964, Pub. L. 88–647, title III, §301(3), 78 Stat. 1071; Nov. 14, 1986, Pub. L. 99–661, div. A, title VI, §604(e)(3), 100 Stat. 3877; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §652(a)(1), 108 Stat. 2793; Feb. 10, 1996, Pub. L. 104–106, div. A, title VII, §702(b), 110 Stat. 371.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Oct. 13, 1964, Pub. L. 88–647, title III, §301(3), 78 Stat. 1071; Nov. 14, 1986, Pub. L. 99–661, div. A, title VI, §604(e)(3), 100 Stat. 3877; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §652(a)(1), 108 Stat. 2793; Feb. 10, 1996, Pub. L. 104–106, div. A, title VII, §702(b), 110 Stat. 371; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §513(e), 111 Stat. 1732.)
 
 Historical and Revision Notes
 
@@ -63,6 +63,8 @@ In subsection (a), 5:2151 is omitted as covered by the revised sections of this 
 In subsection (b), the words “This section applies to each person \* \* \* even though” are substituted for the words “The benefits of this Act shall not be denied in respect of a person \* \* \* on the ground”.
 
 #### Amendments
+
+1997—Subsec. (a)(2)(D). Pub. L. 105–85 inserted “remaining overnight immediately before the commencement of inactive-duty training, or” after “(D)”.
 
 1996—Subsec. (a)(2)(C) to (E). Pub. L. 104–106 struck out “or” at end of subpar. (C), added subpar. (D), and redesignated former subpar. (D) as (E).
 

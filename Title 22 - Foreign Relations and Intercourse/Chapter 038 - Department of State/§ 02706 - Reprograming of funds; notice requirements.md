@@ -18,7 +18,7 @@
 
 (b) Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
 
-(Aug. 1, 1956, ch. 841, title I, §34, as added Nov. 22, 1983, Pub. L. 98–164, title I, §123, 97 Stat. 1025; amended Dec. 22, 1987, Pub. L. 100–204, title I, §121, 101 Stat. 1339; Oct. 28, 1991, Pub. L. 102–138, title I, §117(b), 105 Stat. 657; Apr. 30, 1994, Pub. L. 103–236, title I, §122(c), 108 Stat. 392.)
+(Aug. 1, 1956, ch. 841, title I, §34, as added Pub. L. 98–164, title I, §123, Nov. 22, 1983, 97 Stat. 1025; amended Pub. L. 100–204, title I, §121, Dec. 22, 1987, 101 Stat. 1339; Pub. L. 102–138, title I, §117(b), Oct. 28, 1991, 105 Stat. 657; Pub. L. 103–236, title I, §122(c), Apr. 30, 1994, 108 Stat. 392.)
 
 #### Prior Provisions
 

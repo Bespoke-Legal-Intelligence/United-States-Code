@@ -24,7 +24,7 @@
 
 (2) Federal and State criminal justice agencies authorized to enter information into criminal information databases may include—
 
-&emsp;(A) arrests, convictions, and arrest warrants for stalking or domestic violence or for violations of protection orders for the protection ofparties from stalking or domestic violence; and
+&emsp;(A) arrests, convictions, and arrest warrants for stalking or domestic violence or for violations of protection orders for the protection of parties from stalking or domestic violence; and
 
 &emsp;(B) protection orders for the protection of persons from stalking or domestic violence, provided such orders are subject to periodic verification.
 
@@ -42,7 +42,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 300 (as applicable to acquisition etc. of identification and other records).
 
@@ -60,15 +62,57 @@ In subsection (c), the authority to appoint officials for the cited purposes is 
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–322 added subsec. (e).
+<b>1994</b>—Subsec. (e). Pub. L. 103–322 added subsec. (e).
 
-1988—Subsec. (d). Pub. L. 100–690 added subsec. (d).
+<b>1988</b>—Subsec. (d). Pub. L. 100–690 added subsec. (d).
 
-1982—Pub. L. 97–292, §3(a), inserted “and information” after “identification records” in section catchline.
+<b>1982</b>—Pub. L. 97–292, §3(a), inserted “and information” after “identification records” in section catchline.
 
 Subsec. (a). Pub. L. 97–292, §2(a), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
 
 Subsec. (b). Pub. L. 97–292, §2(b), substituted “exchange of records and information authorized by subsection (a)(4)” for “exchange of records authorized by subsection (a)(2)”.
+
+#### Compilation of Statistics Relating to Intimidation of Government Employees
+
+Pub. L. 104–132, title VIII, §808, Apr. 24, 1996, 110 Stat. 1310, provided that:
+
+“(a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) threats of violence and acts of violence against Federal, State, and local government employees and their families are increasing as the result of attempts to stop public servants from performing their lawful duties;
+
+&emsp;“(2) these acts are a danger to the constitutional form of government of the United States; and
+
+&emsp;“(3) more information is needed relating to the extent and nature of the danger to these employees and their families so that actions can be taken to protect public servants at all levels of government in the performance of their duties.
+
+“(b)
+
+Statistics.—The Attorney General shall collect data, for the calendar year 1990 and each succeeding calendar year thereafter, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties. Such data shall include—
+
+&emsp;“(1) in the case of crimes against such employees and their families, the nature of the crime; and
+
+&emsp;“(2) in the case of incidents of threats of violence and acts of violence, including verbal and implicit threats against such employees and their families, the deterrent effect on the performance of their jobs.
+
+“(c)
+
+Guidelines.—The Attorney General shall establish guidelines for the collection of the data under subsection (b), including a definition of the sufficiency of evidence of noncriminal incidents required to be reported.
+
+“(d)
+
+Use of Data.—
+
+&emsp;“(1)
+
+Annual publishing.—The Attorney General shall publish an annual summary of the data collected under this section.
+
+&emsp;“(2)
+
+Use of data.—Except with respect to the summary published under paragraph (1), data collected under this section shall be used only for research and statistical purposes.
+
+“(e)
+
+Exemption.—The Attorney General, the Secretary of State, and the United States Secret Service is not required to participate in any statistical reporting activity under this section with respect to any direct or indirect threat made against any individual for whom that official or Service is authorized to provide protection.”
 
 #### Rulemaking Relating to Access to Federal Criminal Information Databases
 
@@ -114,13 +158,13 @@ Pub. L. 101–647, title VI, subtitle B, Nov. 29, 1990, 104 Stat. 4823, provided
 
 #### FBI Fees To Process Fingerprint Identification Records and Name Checks
 
-Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112, provided in part that: “for fiscal year 1991 and hereafter the Director of the Federal Bureau of Investigation may establish and collect fees to process fingerprint identification records and name checks for non-criminal justice, non-law enforcement employment and licensing purposes and for certain employees of private sector contractors with classified Government contracts, and notwithstanding the provisions of 31 U.S.C. 3302, credit such fees to this appropriation to be used for salaries and other expenses incurred in providing these services, and that the Director of the Federal Bureau of Investigation may establish such fees at a level to include an additional amount to establish a fund toremain available until expended to defray expenses for the automation of fingerprint identification services and associated costs”.
+Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112, as amended by section 113 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37, provided in part that: “for fiscal year 1991 and hereafter the Director of the Federal Bureau of Investigation may establish and collect fees to process fingerprint identification records and name checks for non-criminal justice, non-law enforcement employment and licensing purposes and for certain employees of private sector contractors with classified Government contracts, and notwithstanding the provisions of 31 U.S.C. 3302, credit such fees to this appropriation to be used for salaries and other expenses incurred in providing these services, and that the Director of the Federal Bureau of Investigation may establish such fees at a level to include an additional amount to establish a fund to remain available until expended to defray expenses for the automation of fingerprint identification and criminal justice information services and associated costs”.
 
 #### Hate Crime Statistics
 
-Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, §320926, Sept. 13, 1994, 108 Stat. 2131, provided: “That (a) this Act may be cited as the ‘Hate Crime Statistics Act’.
+Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, §320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, §7, July 3, 1996, 110 Stat. 1394, provided: “That (a) this Act may be cited as the ‘Hate Crime Statistics Act’.
 
-“(b)(1) Under the authority of section 534 of title 28, United States Code, the Attorney General shall acquire data, for the calendar year 1990 and each of the succeeding 4 calendar years, about crimes that manifest evidence of prejudice based on race, religion, disability, sexual orientation, or ethnicity, including where appropriate the crimes of murder, non-negligent manslaughter; forcible rape; aggravated assault, simple assault, intimidation; arson; and destruction, damage or vandalism of property.
+“(b)(1) Under the authority of section 534 of title 28, United States Code, the Attorney General shall acquire data, for each calendar year, about crimes that manifest evidence of prejudice based on race, religion, disability, sexual orientation, or ethnicity, including where appropriate the crimes of murder, non-negligent manslaughter; forcible rape; aggravated assault, simple assault, intimidation; arson; and destruction, damage or vandalism of property.
 
 “(2) The Attorney General shall establish guidelines for the collection of such data including the necessary evidence and criteria that must be present for a finding of manifest prejudice and procedures for carrying out the purposes of this section.
 
@@ -130,7 +174,7 @@ Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322
 
 “(5) The Attorney General shall publish an annual summary of the data acquired under this section.
 
-“(c) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section through fiscal year 1994.
+“(c) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section through fiscal year 2002.
 
 “
 
@@ -174,7 +218,7 @@ Distribution of data.—The Attorney General shall distribute data received purs
 
 “(d)
 
-Role of Federal Bureau of Investigation.—The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section and may appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
+Role of Federal Bureau of Investigation.—The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section andmay appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
 
 “(e)
 

@@ -18,7 +18,7 @@ National Monuments Established Under Presidential Proclamation
 
 Ackia Battleground National Monument, Mississippi \[see section 450r of this title\].—Proc. No. 2307, Oct. 25, 1938, 53 Stat. 2494.
 
-Admiralty Island National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(b), Dec. 2, 1980, 94 Stat. 2399; Pub. L. 104–123, Apr. 1, 1996, 110 Stat. 879\].—Proc. No. 4611, Dec. 1, 1978, 93 Stat. 1446.
+Admiralty Island National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(b), Dec. 2, 1980, 94 Stat. 2399; Pub. L. 104–123, Apr. 1, 1996, 110 Stat. 879; Pub. L. 105–60, Oct. 10, 1997, 111 Stat. 1269\].—Proc. No. 4611, Dec. 1, 1978, 93 Stat. 1446.
 
 Andrew Johnson National Monument, Tennessee \[Monument redesignated Andrew Johnson National Historical Site, see section 450<i>o</i> of this title\].—Proc. No. 2554, Apr. 27, 1942, 56 Stat. 1955.
 
@@ -32,7 +32,7 @@ Aztec Ruins National Monument, New Mexico.—Proc. No. 1650, Jan. 24, 1923, 42 S
 
 Badlands National Monument, South Dakota \[Monument redesignated Badlands National Park, see section 441e–1 of this title\].—Proc. No. 2320, Jan. 25, 1939, 53 Stat. 2521.
 
-Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Stat. 1764; Proc. No. 3388, Jan. 9, 1961, 75 Stat. 1014; Proc. No. 3539, May 27, 1963, 77 Stat. 1006.
+Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Stat. 1764; Proc. No. 3388, Jan. 9, 1961, 75 Stat. 1014; Proc. No. 3539, May 27, 1963, 77 Stat. 1006; Pub. L. 105–85, div. C, title XXXI, §3164, Nov. 18, 1997, 111 Stat. 2050.
 
 Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978, 93 Stat. 1450.
 
@@ -322,7 +322,7 @@ National Memorials
 
 AIDS Memorial Grove National Memorial, California.—Pub. L. 104–333, div. I, title V, §516, Nov. 12, 1996, 110 Stat. 4170.
 
-Arkansas Post National Memorial, Arkansas.—Pub. L. 86–595, July 6, 1960, 74 Stat. 333.
+Arkansas Post National Memorial, Arkansas.—Pub. L. 86–595, July 6, 1960, 74 Stat. 333; Pub. L. 105–83, title I, §126, Nov. 14, 1997, 111 Stat. 1567.
 
 Astronauts Memorial, John F. Kennedy Space Center, Florida.—Recognized as national memorial to astronauts who die in line of duty by Pub. L. 102–41, May 8, 1991, 105 Stat. 242.
 
@@ -346,7 +346,7 @@ Federal Hall National Memorial, New York.—Designated May 26, 1939. Designation
 
 Fort Caroline National Memorial, Florida.—Act Sept. 21, 1950, ch. 973, 64 Stat. 897. Established Jan. 16, 1953.
 
-Franklin Delano Roosevelt National Memorial, District of Columbia.—Acts Aug. 11, 1955, ch. 833, 69 Stat. 694; Sept. 1, 1959, Pub. L. 86–214, 73 Stat. 445; Oct. 18, 1962, Pub. L. 87–842, 76 Stat. 1079; Oct. 30, 1965, Pub. L. 89–305, 79 Stat. 1126; Sept. 8, 1970, Pub. L. 91–398, 84 Stat. 837; June 30, 1972, Pub. L. 92–332, 86 Stat. 401; July 28, 1982, Pub. L. 97–224, 96 Stat. 243; Oct. 1, 1996, Pub. L. 104–221, §§3, 4, 110 Stat. 3024.
+Franklin Delano Roosevelt National Memorial, District of Columbia.—Acts Aug. 11, 1955, ch. 833, 69 Stat. 694; Sept. 1, 1959, Pub. L. 86–214, 73 Stat. 445; Oct. 18, 1962, Pub. L. 87–842, 76 Stat. 1079; Oct. 30, 1965, Pub. L. 89–305, 79 Stat. 1126; Sept. 8, 1970, Pub. L. 91–398, 84 Stat. 837; June 30, 1972, Pub. L. 92–332, 86 Stat. 401; July 28, 1982, Pub. L. 97–224, 96 Stat. 243; Oct. 1, 1996, Pub. L. 104–221, §§3, 4, 110 Stat. 3024; July 24, 1997, Pub. L. 105–29, 111 Stat. 246; Nov. 14, 1997, Pub. L. 105–83, title III, §335, 111 Stat. 1601.
 
 Hamilton Grange National Memorial, New York.—Pub. L. 87–438, Apr. 27, 1962, 76 Stat. 57, as amended by Pub. L. 100–701, §1, Nov. 19, 1988, 102 Stat. 4640.
 
@@ -394,7 +394,7 @@ Conveyance of property to National Academy of Sciences for erection and maintena
 
 #### Study To Add Alaska and Hawaii to Lincoln National Memorial
 
-Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriateplace at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
+Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
 
 #### Cross Reference
 

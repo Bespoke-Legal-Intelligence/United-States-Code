@@ -12,7 +12,7 @@
 
 (2) The Mayor shall submit the preliminary system implementation plan to the Council no later than 3 months from October 1, 1985. The Council shall review such plan and transmit written recommendations to the Mayor regarding any revisions to such plan no later than 60 days after such submission. The Mayor shall submit the revised preliminary plan to the Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee onGovernmental Affairs of the Senate for review and comment in accordance with the provisions of this subchapter.
 
-(3) The final system implementation plan shall be considered by the Council consistent with the provisions of section 422(12) of the District of Columbia Self-Government and Governmental Reorganization Act \[D.C. Code, §1–242(12)\].
+(3) The final system implementation plan shall be considered by the Council consistent with the provisions of section 422(12) of the District of Columbia Home Rule Act \[D.C. Code, §1–242(12)\].
 
 (4) After the review of the Council pursuant to paragraph (3), the Mayor shall submit the final implementation plan to the Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate for review and comment in accordance with the provisions of this subchapter.
 
@@ -54,7 +54,7 @@ The system implementation plan shall—
 
 (1) To assist the Mayor in the development of the system implementation plan, the Secretary shall contract for a financial audit and a physical plant audit of all existing facilities at the Hospital to be completed by January 1, 1986. The financial audit shall be conducted according to generally accepted accounting principles. The physical plant audit shall recognize any relevant national and District codes and estimate the useful life of existing facility support systems.
 
-(2)(A) Pursuant to such physical plant audit, the Secretary shall initiate not later than October 1, 1987, and, except as provided under an agreement entered into pursuant to subparagraph (C), complete not later than October 1, 1993, such repairs and renovations to such physical plant and facility support systems of the Hospital as are to be utilized by the District under the system implementation plan as partof a comprehensive District mental health system, as are necessary to meet any applicable code requirements or standards.
+(2)(A) Pursuant to such physical plant audit, the Secretary shall initiate not later than October 1, 1987, and, except as provided under an agreement entered into pursuant to subparagraph (C), complete not later than October 1, 1993, such repairs and renovations to such physical plant and facility support systems of the Hospital as are to be utilized by the District under the system implementation plan as part of a comprehensive District mental health system, as are necessary to meet any applicable code requirements or standards.
 
 (B) At a minimum until October 1, 1987, the Secretary shall maintain all other facilities and infrastructure of the Hospital not assumed by the District in the condition described in such audit.
 
@@ -64,7 +64,7 @@ The system implementation plan shall—
 
 During the service coordination period, the District of Columbia and the Secretary, to the extent provided in the Federal court consent decree, shall be jointly responsible for providing citizens with the full range and scope of mental health services set forth in such decree and the system implementation plan. No provision of this subchapter or any action or agreement during the service coordination period may be so construed as to absolve or relieve the District or the Federal Government of their joint or respective responsibilities to implement fully the mandates of the Federal court consent decree.
 
-(Pub. L. 98–621, §4, Nov. 8, 1984, 98 Stat. 3371; Pub. L. 102–150, §§2, 3(a), Oct. 31, 1991, 105 Stat. 980.)
+(Pub. L. 98–621, §4, Nov. 8, 1984, 98 Stat. 3371; Pub. L. 102–150, §§2, 3(a), Oct. 31, 1991, 105 Stat. 980; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
 
 #### References in Text
 
@@ -72,11 +72,17 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
 #### Amendments
 
+1997—Subsec. (b)(3). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+
 1991—Subsec. (a)(2). Pub. L. 102–150, §3(a), substituted “October 1, 1993” for “October 1, 1991”.
 
 Subsec. (f)(2)(A). Pub. L. 102–150, §§2(1), 3(a), substituted “and, except as provided under an agreement entered into pursuant to subparagraph (C), complete” for “and complete” and “October 1, 1993” for “October 1, 1991”.
 
 Subsec. (f)(2)(C). Pub. L. 102–150, §2(2), added subpar. (C).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
 
 #### Abolition of House Committee on the District of Columbia
 

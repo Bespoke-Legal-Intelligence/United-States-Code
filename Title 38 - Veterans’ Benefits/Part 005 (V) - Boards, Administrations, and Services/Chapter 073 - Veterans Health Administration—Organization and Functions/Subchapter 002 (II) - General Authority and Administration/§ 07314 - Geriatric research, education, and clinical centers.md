@@ -4,7 +4,7 @@
 
 (b) In designating locations for centers under subsection (a), the Secretary, upon the recommendation of the Under Secretary for Health, shall—
 
-&emsp;(1) designate each Department health-care facility that as of August 26, 1980, was operating a geriatric research, education, and clinical center unless (on the recommendation of the Under Secretary for Health) the Secretary determines that such facility does not meet the requirements of subsection (c) or has not demonstrated effectiveness in carrying out the established purposes of such center or the purposes of title III of the Veterans’ Administration Health-Care Amendments of 1980 (Public Law 96–330; 94 Stat. 1048) or the potential to carry out such purposes effectively in the reasonably foreseeable future; and
+&emsp;(1) designate each Department health-care facility that as of August 26, 1980, was operating a geriatric research, education, and clinical center unless (on the recommendation ofthe Under Secretary for Health) the Secretary determines that such facility does not meet the requirements of subsection (c) or has not demonstrated effectiveness in carrying out the established purposes of such center or the purposes of title III of the Veterans’ Administration Health-Care Amendments of 1980 (Public Law 96–330; 94 Stat. 1048) or the potential to carry out such purposes effectively in the reasonably foreseeable future; and
 
 &emsp;(2) assure appropriate geographic distribution of such facilities.
 
@@ -38,7 +38,7 @@
 
 #### References in Text
 
-The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(1), is Pub. L. 96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes below and under former section 4101 of this title. For the purposes oftitle III, see section 301 of Pub. L. 96–330, set out below. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of this title and Tables.
+The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(1), is Pub. L. 96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes below and under former section 4101 of this title. For the purposes of title III, see section 301 of Pub. L. 96–330, set out below. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

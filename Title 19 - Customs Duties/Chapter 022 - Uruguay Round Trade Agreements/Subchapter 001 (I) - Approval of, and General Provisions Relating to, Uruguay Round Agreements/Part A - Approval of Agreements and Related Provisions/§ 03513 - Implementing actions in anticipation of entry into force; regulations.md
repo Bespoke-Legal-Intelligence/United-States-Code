@@ -12,7 +12,7 @@ After December 8, 1994—
 
 #### (b) Regulations
 
-Any interim regulation necessary or appropriate to carry out any action proposed in the statement of administrative action approved under section 3511(a) of this title to implement an agreement described in section 3511(d)(7), (12), or (13) of this title shall be issued not later than 1 year after the date on which the agreement enters into force with respect to the United States.
+Any interim regulation necessary or appropriate to carry out any action proposed in thestatement of administrative action approved under section 3511(a) of this title to implement an agreement described in section 3511(d)(7), (12), or (13) of this title shall be issued not later than 1 year after the date on which the agreement enters into force with respect to the United States.
 
 (Pub. L. 103–465, title I, §103, Dec. 8, 1994, 108 Stat. 4819.)
 

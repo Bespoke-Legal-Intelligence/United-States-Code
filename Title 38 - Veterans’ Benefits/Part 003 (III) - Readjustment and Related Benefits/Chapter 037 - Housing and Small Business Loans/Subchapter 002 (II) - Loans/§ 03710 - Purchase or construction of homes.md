@@ -12,7 +12,7 @@
 
 &emsp;(5) To refinance existing mortgage loans or other liens which are secured of record on a dwelling or farm residence owned and occupied by the veteran as the veteran's home.
 
-&emsp;(6) To purchase a one-family residential unit in a condominium housing development orproject, if such development or project is approved by the Secretary under criteria which the Secretary shall prescribe in regulations.
+&emsp;(6) To purchase a one-family residential unit in a condominium housing development or project, if such development or project is approved by the Secretary under criteria which the Secretary shall prescribe in regulations.
 
 &emsp;(7) To improve a dwelling or farm residence owned by the veteran and occupied by the veteran as the veteran's home through energy efficiency improvements, as provided in subsection (d).
 
@@ -30,7 +30,7 @@
 
 &emsp;(11) To refinance in accordance with subsection (e) an existing loan guaranteed, insured, or made under this chapter, and to improve the dwelling securing such loan through energy efficiency improvements, as provided in subsection (d).
 
-> If there is an indebtedness which is secured by a lien against land owned by the veteran, the proceeds of a loan guaranteed under this section or made under section 3711 of this title for construction of a dwelling or farm residence on such land may be used also to liquidate such lien, but only if the reasonable value of the land is equal to or greater than the amount of the lien.
+> If there is an indebtedness which is secured by a lien against land owned by the veteran, the proceeds of a loan guaranteed under this section or made under section 3711 of this title for construction of a dwelling or farm residence on such land may be used also to liquidate such lien, but only if the reasonable value of the landis equal to or greater than the amount of the lien.
 
 (b) No loan may be guaranteed under this section or made under section 3711 of this title unless—
 
@@ -288,7 +288,7 @@ Amendment by section 3(a)(2) of Pub. L. 100–198 applicable to loans closed on 
 
 Section 7(d) of Pub. L. 100–198 provided that:
 
-“(1) The amendments made by subsections (a) and (b) of this section \[amending this section and section 1819 \[now 3712\] of this title\] shall apply to loans made morethan 30 days after the date of the enactment of this Act \[Dec. 21, 1987\].
+“(1) The amendments made by subsections (a) and (b) of this section \[amending this section and section 1819 \[now 3712\] of this title\] shall apply to loans made more than 30 days after the date of the enactment of this Act \[Dec. 21, 1987\].
 
 “(2) The amendment made by subsection (c) of this section \[amending this section\] shall apply to loans for which commitments are made more than 60 days after the date of the enactment of this Act.”
 
@@ -316,7 +316,7 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 
-Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficientmortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### Section Referred to in Other Sections
 

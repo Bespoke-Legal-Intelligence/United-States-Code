@@ -20,7 +20,7 @@
 
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (b)(3), is section 903 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
-The Hostage Relief Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, whichis set out as a note under section 5561 of Title 5, Government Organization and Employees.
+The Hostage Relief Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, which is set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in subsec. (b)(5), is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22, Foreign Relations and Intercourse, and Tables.
 
@@ -58,7 +58,7 @@ Pub. L. 98–223, §203(c)(1)(B), added subsec. (b).
 
 #### Effective Date of 1980 Amendment
 
-Section 802(a)(6) of Pub. L. 96–466 provided that: “The amendments made by sections 102 and 103 \[amending this section and section 1795 \[now 3695\] of this title\] shall become effective on October 1, 1980.”
+Section 802(a)(6) of Pub. L. 96–466 provided that: “The amendments made by sections 102 and 103 \[amendingthis section and section 1795 \[now 3695\] of this title\] shall become effective on October 1, 1980.”
 
 Amendment by section 801(e) of Pub. L. 96–466 effective Oct. 1, 1980, see section 802(h) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 

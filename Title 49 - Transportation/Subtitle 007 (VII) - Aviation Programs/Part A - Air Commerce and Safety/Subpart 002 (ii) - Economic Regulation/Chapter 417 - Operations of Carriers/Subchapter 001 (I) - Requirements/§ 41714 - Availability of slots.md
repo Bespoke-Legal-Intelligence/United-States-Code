@@ -58,7 +58,7 @@ Special Rules for Washington National Airport.—
 
 &emsp;(1)
 
-In general.—Notwithstanding sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986, or any provision of this section, the Secretary may, only under circumstances determined by the Secretary to be exceptional, grant by order to an air carrier currently holding or operating a slot at Washington National Airport an exemption from requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at Washington National Airport), to enable that carrier to provide air transportation with Stage 3 aircraft at Washington National Airport; except that such exemption shall not—
+In general.—Notwithstanding sections 49104(a)(5) and 49111(e) of this title, or any provision of this section, the Secretary may, only under circumstances determined by the Secretary to be exceptional, grant by order to an air carrier currently holding or operating a slot at Washington National Airport an exemption from requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at Washington National Airport), to enable that carrier to provide air transportation with Stage 3 aircraft at Washington National Airport; except that such exemption shall not—
 
 &emsp;&emsp;(A) result in an increase in the total number of slots per day at Washington National Airport;
 
@@ -142,13 +142,23 @@ New entrant air carrier.—The term “new entrant air carrier” means an air c
 
 Slot.—The term “slot” means a reservation for an instrument flight rule takeoff or landing by an air carrier of an aircraft in air transportation.
 
-(Added Pub. L. 103–305, title II, §206(a)(1), Aug. 23, 1994, 108 Stat. 1584; amended Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
+(i)
 
-#### References in Text
+Expeditious Consideration of Certain Exemption Requests.—Within 120 days after receiving an application for an exemption under subsection (a)(2) to improve air service between a nonhub airport (as defined in section 41731(a)(4)) and a high density airport subject to the exemption authority under subsection (a), the Secretary shall grant or deny the exemption. The Secretary shall notify the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure of the grant or denial within 14 calendar days after the determination and state the reasons for the determination.
 
-Sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (d)(1), are sections 6005(c)(5) and 6009(e) of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–376, 1783–384, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–379, 3341–387, which were classified to sections 2454(c)(5) and 2458(e), respectively, of former Title 49, and were omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
+(Added Pub. L. 103–305, title II, §206(a)(1), Aug. 23, 1994, 108 Stat. 1584; amended Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–66, title III, §345, Oct. 27, 1997, 111 Stat. 1449; Pub. L. 105–102, §2(24), Nov. 20, 1997, 111 Stat. 2205.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 105–102
+
+This amends 49:41714(d)(1) to make a conforming cross-reference necessary because of the restatement of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500, 100 Stat. 1783–373, Public Law 99–591, 100 Stat. 3341–376) by section 2(26) of this Act as chapter 491 of title 49.
 
 #### Amendments
+
+1997—Subsec. (d)(1). Pub. L. 105–102 substituted “sections 49104(a)(5) and 49111(e) of this title” for “sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986”.
+
+Subsec. (i). Pub. L. 105–66 added subsec. (i).
 
 1996—Subsec. (e)(2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 

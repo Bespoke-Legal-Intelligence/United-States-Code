@@ -14,7 +14,7 @@ In general.—The Secretary may engage in research, development, and technology 
 
 &emsp;&emsp;(B)
 
-Cooperation, grants, and contracts.—The Secretary may carry out this section either independently or in cooperation with other Federal departments, agencies, and instrumentalities or by making grants to, and entering into contracts and cooperative agreements with, the National Academy of Sciences, the American Association of State Highway and Transportation Officials, or any State agency, authority, association, institution, corporation (profit or nonprofit), organization, or person.
+Cooperation, grants, and contracts.—The Secretary may carry out this section either independently or in cooperation with other Federal departments, agencies, and instrumentalities or by making grants to, and entering into contracts and cooperative agreements with, the National Academy of Sciences, the American Association of State Highway and TransportationOfficials, or any State agency, authority, association, institution, corporation (profit or nonprofit), organization, or person.
 
 &emsp;&emsp;(C)
 
@@ -142,7 +142,7 @@ Federal share.—The Federal share payable on account of any project financed wi
 
 &emsp;(4)
 
-Administration of sums.—Funds which are subject to paragraph (1) shall be combined and administered by the Secretary as a singlefund which shall be available for obligation for the same period as funds apportioned under section 104(b)(1) of this title.
+Administration of sums.—Funds which are subject to paragraph (1) shall be combined and administered by the Secretary as a single fund which shall be available for obligation for the same period as funds apportioned under section 104(b)(1) of this title.
 
 (d)
 
@@ -198,7 +198,7 @@ Applied Research and Technology Program.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish and implement in accordance with thissubsection an applied research and technology program for the purpose of accelerating testing, evaluation, and implementation of technologies which are designed to improve the durability, efficiency, environmental impact, productivity, and safety of highway, transit, and intermodal transportation systems.
+Establishment.—The Secretary shall establish and implement in accordance with this subsection an applied research and technology program for the purpose of accelerating testing, evaluation, and implementation of technologies which are designed to improve the durability, efficiency, environmental impact, productivity, and safety of highway, transit, and intermodal transportation systems.
 
 &emsp;(2)
 
@@ -284,7 +284,7 @@ Seismic Research Program.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish a program to study the vulnerabilityof highways, tunnels, and bridges on the Federal-aid system to earthquakes and develop and implement cost-effective methods of retrofitting such highways, tunnels, and bridges to reduce such vulnerability.
+Establishment.—The Secretary shall establish a program to study the vulnerability of highways, tunnels, and bridges on the Federal-aid system to earthquakes and develop and implement cost-effective methods of retrofitting such highways, tunnels, and bridges to reduce such vulnerability.
 
 &emsp;(2)
 
@@ -292,7 +292,7 @@ Cooperation with national center for earthquake engineering research.—The Secr
 
 &emsp;(3)
 
-Cooperation with agencies participating in national hazards reduction program.—The Secretary shall further conduct the program under this section in consultation and cooperation with Federal departments and agencies participating in the National Hazards Reduction Program <sup>4</sup> established by section 5 of the Earthquake Hazards Reduction Act of 1977 and shall take such actions as may be necessary to ensure that the program under this subsection is consistent with—
+Cooperation with agencies participating in national hazards reduction program.—The Secretary shall further conduct the program under this section in consultation and cooperation with Federal departments and agencies participating in the National Hazards Reduction Program <sup>4</sup> established by section 5 of the Earthquake Hazards Reduction Act of1977 and shall take such actions as may be necessary to ensure that the program under this subsection is consistent with—
 
 &emsp;&emsp;(A) planning and coordination activities of the Federal Emergency Management Agency under section 5(b)(1) of such Act; and
 
@@ -358,7 +358,7 @@ Subsec. (e). Pub. L. 97–424, §160(a), added subsec. (e).
 
 1973—Subsec. (c)(1). Pub. L. 93–87 substituted “fiscal year beginning with fiscal year 1974” for “fiscal year prior to the fiscal year 1964”.
 
-1970—Subsec. (a). Pub. L. 91–605, §115(c), authorized Secretary to make grants for research fellowships for any purpose for which research is otherwise authorized by this section.
+1970—Subsec. (a). Pub. L. 91–605, §115(c), authorized Secretary to make grants for research fellowships forany purpose for which research is otherwise authorized by this section.
 
 Subsec. (b). Pub. L. 91–605, §136(c), authorized the highway research program to include studies to identify and measure, quantitatively and qualitatively, those factors which relate to economic, social, environmental, and other impacts of highway projects.
 
@@ -442,7 +442,7 @@ Objectives.—The plan shall provide for the following:
 
 &emsp;“(5)
 
-Cooperation with industry.—A primary component of the plan shall be cooperation with industry in carrying out this part \[part A (§§6001–6024) of title VI of Pub. L. 102–240, enacting sections 325 and 326 of this title, sections 3711b and 3711c of Title 15, Commerce and Trade, section 111 of Title 49, Transportation, and section 1625 of former Title 49, Transportation, amending this section and sections 204 and 321 of this title, section 5316 of Title 5, Government Organization and Employees, sections 3708 and 3712 to 3715 of Title 15, sections 101 and 301 of Title 49, and sections 1607c and 1608 of former Title 49, enacting provisions set out as notes under this section and sections 101 and 112 of this title and sections 111 and 301 of Title 49, and amending provisions set out as notes under section 1608 of former Title 49\] and strengthening the manufacturing capabilities of United States firms in order to produce products for surface transportation systems.
+Cooperation with industry.—A primary component of the plan shall be cooperation with industry in carrying out this part \[part A (§§6001–6024) of title VI of Pub. L. 102–240, enacting sections 325 and 326 of this title, sections 3711b and 3711c of Title 15, Commerce and Trade, section 111 of Title 49, Transportation, and section 1625 of former Title 49, Transportation, amending this section and sections 204 and 321 of this title, section 5316 of Title 5, Government Organization and Employees, sections 3708 and 3712 to 3715of Title 15, sections 101 and 301 of Title 49, and sections 1607c and 1608 of former Title 49, enacting provisions set out as notes under this section and sections 101 and 112 of this title and sections 111 and 301 of Title 49, and amending provisions set out as notes under section 1608 of former Title 49\] and strengthening the manufacturing capabilities of United States firms in order to produce products for surface transportation systems.
 
 &emsp;“(6)
 
@@ -514,7 +514,7 @@ Studies.—The Administrator of the Federal Highway Administration (hereinafter 
 
 “(b)
 
-Contracts.—To carry out the studies under subsection (a), the Administrator shall enter into contracts with the Western Research Institute of the University of Wyoming in order to conduct the necessarytechnical and analytical research in coordination with existing programs which evaluate actual performance of asphalts and modified asphalts in roadways, including the Strategic Highway Research Program.
+Contracts.—To carry out the studies under subsection (a), the Administrator shall enter into contracts with the Western Research Institute of the University of Wyoming in order to conduct the necessary technical and analytical research in coordination with existing programs which evaluate actual performance of asphalts and modified asphalts in roadways, including the Strategic Highway Research Program.
 
 “(c)
 
@@ -538,7 +538,7 @@ Implementation.—The Administrator, in coordination with the Western Research I
 
 &emsp;“(2)
 
-Funding.—For the purposes of construction activities related to this test strip, the Secretary and the Director of the National Park Service shall make up to $1,000,000 available from amounts made available from the authorization for parkroads and parkways.
+Funding.—For the purposes of construction activities related to this test strip, the Secretary andthe Director of the National Park Service shall make up to $1,000,000 available from amounts made available from the authorization for parkroads and parkways.
 
 &emsp;“(3)
 
@@ -580,7 +580,7 @@ Grants for Certain Emergency Response Information Technologies.—
 
 &emsp;“(3) To the maximum extent practicable, the Secretary of Transportation shall coordinate a project under this subsection with any existing Federal, State, and local government projects and private projects which are similar to the project under this subsection. The Secretary may require that a project under this subsection be carried out in conjunction with such similar Federal, State, and local government projects and private projects.”
 
-Part B of title VI of Pub. L. 102–240, as amended by Pub. L. 102–388, title IV, §404, Oct. 6, 1992, 106 Stat. 1564; Pub. L. 104–59, title III, §338(a), (b), (c)(2), Nov. 28, 1995, 109 Stat. 603, 604, provided that:
+Part B of title VI of Pub. L. 102–240, as amended by Pub. L. 102–388, title IV, §404, Oct. 6, 1992, 106 Stat. 1564; Pub. L. 104–59, title III, §338(a), (b), (c)(2), Nov. 28, 1995, 109 Stat. 603, 604; Pub. L. 105–130, §5(d), Dec. 1, 1997, 111 Stat. 2557, provided that:
 
 #### “SEC. 6051. SHORT TITLE.
 
@@ -616,7 +616,7 @@ Goals.—The goals of the program to be carried out under this part shall includ
 
 “(a)
 
-Cooperation.—In carrying out the program under this part, the Secretary shall foster use of the program as a key component of the Nation's surface transportation systems and strive to transfer federally owned or patented technology to State and local governments and the United States private sector. As appropriate, in carrying out the program under this part, the Secretary shall consult with the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Director of the National Science Foundation, and the heads of other interested Federal departments and agencies and shall maximize the involvement of the United States private sector, colleges and universities, and State and local governments in all aspects of the program, including design, conduct (including operations and maintenance), evaluation, and financial or in-kind participation.
+Cooperation.—In carrying out the program under this part, the Secretary shall foster use of the program as a key component of the Nation's surface transportation systems and strive to transfer federally owned or patented technology to State and local governments and the United States private sector. As appropriate, in carrying out the program under this part,the Secretary shall consult with the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Director of the National Science Foundation, and the heads of other interested Federal departments and agencies and shall maximize the involvement of the United States private sector, colleges and universities, and State and local governments in all aspects of the program, including design, conduct (including operations and maintenance), evaluation, and financial or in-kind participation.
 
 “(b)
 
@@ -724,7 +724,7 @@ Technical Assistance and Information.—The Secretary may provide planning and t
 
 “(b)
 
-Planning Grants.—The Secretary may make grants to State and local governments for feasibility and planning studies for development and implementation of intelligent transportation systems. Such grants shall be made at such time, in such amounts, and subject to such conditions as the Secretary may determine.
+Planning Grants.—The Secretary may make grants to State and local governments for feasibilityand planning studies for development and implementation of intelligent transportation systems. Such grants shall be made at such time, in such amounts, and subject to such conditions as the Secretary may determine.
 
 “(c)
 
@@ -806,7 +806,7 @@ ITS Corridors Program.—There is authorized to be appropriated to the Secretary
 
 “(b)
 
-Other ITS Activities.—There is authorized to be appropriated to the Secretary for carrying out this part (other than section 6056), out of the Highway Trust Fund (other than the Mass Transit Account), $23,000,000 for fiscal year 1992 and $27,000,000 per fiscal year for each of fiscal years 1993 through 1997.
+Other ITS Activities.—There is authorized to be appropriated to the Secretary for carrying out this part (other than section 6056), out of the Highway Trust Fund (other than the Mass Transit Account), $23,000,000 for fiscal year 1992, $27,000,000 per fiscal year for each of fiscal years 1993 through 1997, and $47,000,000 for the period of October 1, 1997, through March 31, 1998.
 
 “(c)
 
@@ -886,7 +886,7 @@ Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: �
 
 #### Study of Outsized Vehicles for Operation on Highways
 
-Pub. L. 95–599, title II, §211, Nov. 6, 1978, 92 Stat. 2734, directed Secretary of Transportation to make a complete study of outsized vehicles for operation on highways constructed in a manner which exceed standardized industry configurations and that Secretary make a report to Congress on the results of his study not later than six months after Nov. 6, 1978.
+Pub. L. 95–599, title II, §211, Nov. 6, 1978, 92 Stat. 2734, directed Secretary of Transportation to make a complete study of outsized vehicles for operation on highways constructed in a manner which exceed standardized industry configurations and that Secretary make areport to Congress on the results of his study not later than six months after Nov. 6, 1978.
 
 #### Cost Allocation Study
 
@@ -938,7 +938,7 @@ Section 13 of Pub. L. 87–866, as amended by Pub. L. 97–449, §2(a), Jan. 12,
 
 #### Mileage Study of System of Interstate and Defense Highway for Alaska and Hawaii
 
-Pub. L. 86–342, title I, §105, Sept. 21, 1959, 73 Stat. 612, directed Secretary of Commerce to make a study of need for extension of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] within States of Alaska and Hawaii, and report results of such study to Congress within ten days subsequent to Jan. 4, 1960. The report was required to include recommendations asto approximate routes and mileages thereof which should be included in such system within those States.
+Pub. L. 86–342, title I, §105, Sept. 21, 1959, 73 Stat. 612, directed Secretary of Commerce to make a study of need for extension of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] within States of Alaska and Hawaii, and report results of such study to Congress within ten days subsequent to Jan. 4, 1960. The report was required to include recommendations as to approximate routes and mileages thereof which should be included in such system within those States.
 
 #### Tests To Determine Maximum Desirable Dimensions and Weights for Vehicles
 

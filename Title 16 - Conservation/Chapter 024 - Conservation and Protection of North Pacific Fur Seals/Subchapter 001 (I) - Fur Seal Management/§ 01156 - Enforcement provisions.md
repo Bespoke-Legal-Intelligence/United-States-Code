@@ -18,5 +18,5 @@ At the request of said party, the Secretary or the Secretary of the department i
 
 #### Amendments
 
-1983—Pub. L. 98–129 amended section generally, substituting provisions setting out enforcement steps, which were previously contained in section 1155 of this title, for provisions establishing the North Pacific Fur Seal Commission. See section 1157 of this title.
+1983—Pub. L. 98–129 amended section generally, substituting provisions setting out enforcement steps,which were previously contained in section 1155 of this title, for provisions establishing the North Pacific Fur Seal Commission. See section 1157 of this title.
 

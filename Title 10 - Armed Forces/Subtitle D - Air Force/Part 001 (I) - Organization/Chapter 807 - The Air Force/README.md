@@ -6,12 +6,7 @@
 | [8062\.](%C2%A7%2008062%20-%20Policy%3B%20composition%3B%20aircraft%20authorization.md) | Policy; composition; aircraft authorization. |
 | \[8066. | Repealed.\] |
 | [8067\.](%C2%A7%2008067%20-%20Designation%20officers%20to%20perform%20certain%20professional%20functions.md) | Designation: officers to perform certain professional functions. |
-| [8069\.](%C2%A7%2008069%20-%20Air%20Force%20nurses%20Chief%20and%20assistant%20chief%3B%20appointment%3B%20grade.md) | Air Force Nurse Corps: Chief and assistant chief; appointment; grade.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [8069\.](%C2%A7%2008069%20-%20Air%20Force%20nurses%20Chief%20and%20assistant%20chief%3B%20appointment%3B%20grade.md) | Air Force nurses: Chief and assistant chief; appointment; grade. |
 | \[8071. | Repealed.\] |
 | \[8072. | Renumbered.\] |
 | [8074\.](%C2%A7%2008074%20-%20Commands%20territorial%20organization.md) | Commands: territorial organization. |
@@ -22,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title X, §1073(a)(66), Nov. 18, 1997, 111 Stat. 1904, substituted “nurses” for “Nurse Corps” in item 8069.
 
 1996—Pub. L. 104–201, div. A, title V, §502(c)(2), Sept. 23, 1996, 110 Stat. 2511, added item 8069.
 
@@ -38,10 +35,6 @@ Pub. L. 96–343, §12(b)(2), Sept. 8, 1980, 94 Stat. 1131, substituted “Gener
 1967—Pub. L. 90–130, §1(25), Nov. 8, 1967, 81 Stat. 382, struck out item 8071 “Temporary grade of colonel in the Air Force: appointment of women.”
 
 1960—Pub. L. 86–603, §1(3)(B), July 7, 1960, 74 Stat. 358, added item 8080.
-
-<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

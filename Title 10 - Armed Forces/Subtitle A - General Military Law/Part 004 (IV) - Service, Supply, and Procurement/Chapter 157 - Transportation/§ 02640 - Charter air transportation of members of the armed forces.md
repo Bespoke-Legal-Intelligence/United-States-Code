@@ -70,9 +70,21 @@ Waiver.—After considering recommendations by the Commercial Airlift Review Boa
 
 (h)
 
-Regulations.—The Secretary shall prescribe regulations to carry out this section, including requirements and identification of inspecting personnel with respect to preflight safety inspections required by subsection (b)(3).
+Authority To Protect Safety-Related Information Voluntarily Provided by an Air Carrier.—(1) Subject to paragraph (2), the Secretary of Defense may (notwithstanding any other provision of law) withhold from public disclosure safety-related information that is provided to the Secretary voluntarily by an air carrier for the purposes of this section.
+
+(2) Information may be withheld under paragraph (1) from public disclosure only if the Secretary determines that—
+
+&emsp;(A) the disclosure of the information would inhibit an air carrier from voluntarily providing, in the future, safety-related information for the purposes of this section or for other air safety purposes involving the Department of Defense or another Federal agency; and
+
+&emsp;(B) the receipt of such information generally enhances the fulfillment of responsibilities under this section or other air safety responsibilities involving the Department of Defense or another Federal agency.
+
+(3) If the Secretary provides to the head of another agency safety-related information described in paragraph (1) with respect to which the Secretary has made a determination described in paragraph (2), the head of that agency shall (notwithstanding any other provision of law) withhold the information from public disclosure unless the disclosure is specifically authorized by the Secretary.
 
 (i)
+
+Regulations.—The Secretary shall prescribe regulations to carry out this section, including requirements and identification of inspecting personnel with respect to preflight safety inspections required by subsection (b)(3).
+
+(j)
 
 Definitions.—In this section:
 
@@ -80,13 +92,19 @@ Definitions.—In this section:
 
 &emsp;(2) The term “members of the armed forces” means members of the Army, Navy, Air Force, and Marine Corps.
 
-(Added Pub. L. 99–661, div. A, title XII, §1204(a)(1), Nov. 14, 1986, 100 Stat. 3969; amended Pub. L. 103–272, §5(b)(1), July 5, 1994, 108 Stat. 1373.)
+(Added Pub. L. 99–661, div. A, title XII, §1204(a)(1), Nov. 14, 1986, 100 Stat. 3969; amended Pub. L. 103–272, §5(b)(1), July 5, 1994, 108 Stat. 1373; Pub. L. 105–85, div. A, title X, §1075(a), Nov. 18, 1997, 111 Stat. 1911.)
 
 #### Amendments
+
+1997—Subsecs. (h) to (j). Pub. L. 105–85 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
 1994—Subsecs. (a)(1)(A), (d)(1)(B)(i). Pub. L. 103–272, §5(b)(1)(A), substituted “chapter 447 of title 49” for “title VI of the Federal Aviation Act of 1958 (49 U.S.C. App. 1421 et seq.)”.
 
 Subsec. (i)(1). Pub. L. 103–272, §5(b)(1)(B), substituted “section 40102(a) of title 49” for “sections 101(3), 101(5), 101(10), and 101(15), respectively, of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301(3), 1301(5), 1301(10), and 1301(15))”.
+
+#### Effective Date of 1997 Amendment
+
+Section 1075(b) of Pub. L. 105–85 provided that: “Subsection (h) of section 2640 of title 10, United States Code, as added by subsection (a), shall apply with respect to requests for information made on or after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
 #### Effective Date
 

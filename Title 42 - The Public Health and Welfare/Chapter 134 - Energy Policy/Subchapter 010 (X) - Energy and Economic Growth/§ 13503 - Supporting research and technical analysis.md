@@ -48,7 +48,7 @@
 
 &emsp;(II) have demonstrated a commitment to develop their research bases and improve science and engineering research and education programs at their universities and colleges.
 
-(B) For purposes of this paragraph, the term “eligible States” means States that received a Department-EPSCoR planning or traineeship grant in fiscal year 1991 or fiscal year 1992.
+(B) For purposes of this paragraph, the term “eligible States” means States that received aDepartment-EPSCoR planning or traineeship grant in fiscal year 1991 or fiscal year 1992.
 
 (C) No more than $5,000,000 of the funds appropriated to EPSCoR in any fiscal year, through fiscal year 1997, are authorized to be appropriated for graduate traineeships.
 

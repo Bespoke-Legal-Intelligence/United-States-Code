@@ -54,7 +54,7 @@ Ten percent of the sums allotted to each State pursuant to section 49e of this t
 
 In addition to the services and activities otherwise authorized by this chapter, the United States Employment Service or any State agency designated under this chapter may perform such other services and activities as shall be specified in contracts for payment or reimbursement of the costs thereof made with the Secretary of Labor or with any Federal, State, or local public agency, or administrative entity under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\], or private nonprofit organization.
 
-(June 6, 1933, ch. 49, §7, as added Oct. 13, 1982, Pub. L. 97–300, title VI, §601(c), formerly title V, §501(c), 96 Stat. 1394; renumbered title VI, §601(c), Nov. 7, 1988, Pub. L. 100–628, title VII, §712(a)(1), (2), 102 Stat. 3248; amended Sept. 25, 1990, Pub. L. 101–392, §5(b), 104 Stat. 759.)
+(June 6, 1933, ch. 49, §7, as added Pub. L. 97–300, title VI, §601(c), formerly title V, §501(c), Oct. 13, 1982, 96 Stat. 1394; renumbered title VI, §601(c), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 101–392, §5(b), Sept. 25, 1990, 104 Stat. 759.)
 
 #### References in Text
 

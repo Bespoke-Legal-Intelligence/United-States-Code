@@ -1,6 +1,6 @@
 ### §316. Exclusive right to name
 
-Said corporation and its area, State, and local chapters shall have the sole and exclusive rightto have and to use in carrying out its purpose the name “The Military Chaplains Association of the United States of America”.
+Said corporation and its area, State, and local chapters shall have the sole and exclusive right to have and to use in carrying out its purpose the name “The Military Chaplains Association of the United States of America”.
 
 (Sept. 20, 1950, ch. 956, §6, 64 Stat. 869.)
 

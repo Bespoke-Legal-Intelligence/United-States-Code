@@ -4,7 +4,7 @@
 
 &emsp;(1) rail carrier providing transportation subject to the jurisdiction of the Board under this part, or an officer, agent, or employee of that rail carrier, or another person authorized to receive information from that rail carrier, that knowingly discloses to another person, except the shipper or consignee; or
 
-&emsp;(2) a <sup>1</sup> person who solicits or knowingly receives,
+&emsp;(2) person who solicits or knowingly receives,
 
 > information described in subsection (b) without the consent of the shipper or consignee shall be fined not more than $1,000.
 
@@ -22,7 +22,13 @@
 
 (e) A person that knowingly discloses confidential data made available to such person under section 11163 of this title by a rail carrier providing transportation subject to the jurisdiction of the Board under this part shall be fined not more than $50,000.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 851.)
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 851; amended Pub. L. 105–102, §2(6), Nov. 20, 1997, 111 Stat. 2204.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 105–102
+
+This amends 49:11904(a)(2) to correct a grammatical error.
 
 #### Prior Provisions
 
@@ -30,9 +36,11 @@ Provisions similar to those in this section were contained in section 11910 of t
 
 A prior section 11904, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1457; Pub. L. 99–521, §13(a), Oct. 22, 1986, 100 Stat. 2998, related to additional rate and discrimination violations, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See section 14904 of this title.
 
+#### Amendments
+
+1997—Subsec. (a)(2). Pub. L. 105–102 struck out “a” before “person”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 333 of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “a” probably should not appear.</i>
 

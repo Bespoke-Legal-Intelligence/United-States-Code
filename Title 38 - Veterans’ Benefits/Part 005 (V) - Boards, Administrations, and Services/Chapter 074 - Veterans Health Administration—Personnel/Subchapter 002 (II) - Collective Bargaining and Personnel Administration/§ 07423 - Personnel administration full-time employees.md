@@ -1,6 +1,6 @@
 ### §7423. Personnel administration: full-time employees
 
-(a) The hours of employment in carrying out responsibilities under this title of any employee who is appointed in the Administration under any provision of this chapter on a full-time basis in a position listed in section 7421(b) of this title (other than an intern or resident appointed pursuant to section 7406 of this title) and who accepts responsibilities for carrying out professional services for remuneration other than those assigned under this title shall consist of not less than 80 hours in a biweekly pay period (as that term is used in section 5504 of title 5).
+(a) The hours of employment in carrying out responsibilities under this title of any employeewho is appointed in the Administration under any provision of this chapter on a full-time basis in a position listed in section 7421(b) of this title (other than an intern or resident appointed pursuant to section 7406 of this title) and who accepts responsibilities for carrying out professional services for remuneration other than those assigned under this title shall consist of not less than 80 hours in a biweekly pay period (as that term is used in section 5504 of title 5).
 
 (b) A person covered by subsection (a) may not do any of the following:
 
@@ -48,7 +48,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generallyto subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -56,7 +56,7 @@ Provisions similar to those in this section were contained in section 4108(a), (
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–262, §347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the UnderSecretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
+1996—Subsec. (b). Pub. L. 104–262, §347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
 
 Subsec. (c). Pub. L. 104–262, §347(b), substituted “subsection (b)(5)” for “subsection (b)(6)” in introductory provisions.
 

@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to the Committee to carry out sections 46 to 48c of this title $240,000 for the fiscal year ending June 30, 1974, and such sums as may be necessary for the succeeding fiscal years.
 
-(June 25, 1938, ch. 697, §6, as added June 23, 1971, Pub. L. 92–28, §1, 85 Stat. 82; amended July 30, 1973, Pub. L. 93–76, 87 Stat. 176; July 25, 1974, Pub. L. 93–358, §1(4), 88 Stat. 393.)
+(June 25, 1938, ch. 697, §6, as added Pub. L. 92–28, §1, June 23, 1971, 85 Stat. 82; amended Pub. L. 93–76, July 30, 1973, 87 Stat. 176; Pub. L. 93–358, §1(4), July 25, 1974, 88 Stat. 393.)
 
 #### Amendments
 

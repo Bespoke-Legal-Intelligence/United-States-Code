@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Effective 5 years after the date on which an order becomes effective under section 6103(b) of this title, the Secretary shall conduct a referendum among mushroom producers and importers to ascertain whether they favor continuation, termination, or suspension of the order.
+&emsp;&emsp;Effective 5 years after the date on which an order becomes effective under section6103(b) of this title, the Secretary shall conduct a referendum among mushroom producers and importers to ascertain whether they favor continuation, termination, or suspension of the order.
 
 #### (B) Request for referendum
 

@@ -22,9 +22,9 @@ Required Determinations of Disability.—Determinations referred to in subsectio
 
 &emsp;&emsp;(C) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was neither (i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty after September 14, 1978, and the member has less than eight years of service computed under section 1208 of this title on the date when he would otherwise be retired under section 1201 of this title or placed on the temporary disability retired list under section 1202 of this title.
 
-> However, if the member is eligible for transfer to the inactive status list under section 1209 ofthis title, and so elects, he shall be transferred to that list instead of being separated.
+> However, if the member is eligible for transfer to the inactive status list under section 1209 of this title, and so elects, he shall be transferred to that list instead of being separated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 92; Sept. 2, 1958, Pub. L. 85–861, §1(28)(A), 72 Stat. 1451; Sept. 7, 1962, Pub. L. 87–651, title I, §107(a), 76 Stat. 508; Sept. 19, 1978, Pub. L. 95–377, §3(2), (3), 92 Stat. 719, 720; Sept. 8, 1980, Pub. L. 96–343, §10(c)(2), (3), 94 Stat. 1129; Dec. 12, 1980, Pub. L. 96–513, title I, §117, 94 Stat. 2878; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1671(c)(6), 108 Stat. 3014; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §572(c), 110 Stat. 2533.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 92; Sept. 2, 1958, Pub. L. 85–861, §1(28)(A), 72 Stat. 1451; Sept. 7,1962, Pub. L. 87–651, title I, §107(a), 76 Stat. 508; Sept. 19, 1978, Pub. L. 95–377, §3(2), (3), 92 Stat. 719, 720; Sept. 8, 1980, Pub. L. 96–343, §10(c)(2), (3), 94 Stat. 1129; Dec. 12, 1980, Pub. L. 96–513, title I, §117, 94 Stat. 2878; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1671(c)(6), 108 Stat. 3014; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §572(c), 110 Stat. 2533.)
 
 Historical and Revision Notes<br>1956
 
@@ -120,7 +120,7 @@ Section 3 of Pub. L. 95–377 provided that the amendment made by that section i
 
 #### Suspension of Certain Promotion and Disability Separation Limitations
 
-For provisions relating to the suspension of certain promotion and disability separation limitations, see Ex. Ord. No. 12239, Sept. 21, 1980, 45 F.R. 62967, set out as a note under section 1201 of this title.
+For provisions relating to the suspension of certain promotion and disability separation limitations, seeEx. Ord. No. 12239, Sept. 21, 1980, 45 F.R. 62967, set out as a note under section 1201 of this title.
 
 #### Cross References
 

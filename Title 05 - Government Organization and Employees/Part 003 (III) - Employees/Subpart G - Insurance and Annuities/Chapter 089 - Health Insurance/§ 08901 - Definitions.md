@@ -54,7 +54,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) an employee who dies as a result of injury or illness compensable under that subchapter; or
 
-&emsp;&emsp;&emsp;(ii) a former employee who is separated after having completed 5 or more years of service and who dies while receiving monthly compensation under that subchapter and who has been held by the Secretary to have been unable to return to duty;
+&emsp;&emsp;&emsp;(ii) a former employee who is separated after having completed 5 or more years ofservice and who dies while receiving monthly compensation under that subchapter and who has been held by the Secretary to have been unable to return to duty;
 
 &emsp;(4) “service”, as used by paragraph (3) of this section, means service which is creditable under subchapter III of chapter 83 or chapter 84 of this title;
 
@@ -72,7 +72,7 @@ For the purpose of this chapter—
 
 &emsp;(8) “employee organization” means—
 
-&emsp;&emsp;(A) an association or other organization of employees which is national in scope, or in which membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under thischapter and which, after December 31, 1978, and before January 1, 1980, applied to the Office for approval of a plan provided under section 8903(3) of this title; and
+&emsp;&emsp;(A) an association or other organization of employees which is national in scope, or in which membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under this chapter and which, after December 31, 1978, and before January 1, 1980, applied to the Office for approval of a plan provided under section 8903(3) of this title; and
 
 &emsp;&emsp;(B) an association or other organization which is national in scope, in which membership is open only to employees, annuitants, or former spouses, or any combination thereof, and which, during the 90-day period beginning on the date of enactment of section 8903a of this title, applied to the Office for approval of a plan provided under such section;
 
@@ -228,7 +228,7 @@ Gallaudet College, referred to in par. (1)(F), was redesignated Gallaudet Univer
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B) of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a), (b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
+Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and amendment by section 2(75)(B) of Pub. L. 102–378 effective Oct. 2, 1992, see section 9(a),\(b)(6) of Pub. L. 102–378, set out as a note under section 6303 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -336,7 +336,7 @@ Continued Coverage.—(1) Any individual who, on January 7, 1995, is covered by 
 
 “(c)
 
-Transfers to the Employees Health Benefits Fund.—The Office of the Comptroller of the Currency and the Office of Thrift Supervision shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Office of theComptroller of the Currency and the Office of Thrift Supervision, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office in addition to amounts available under section 8906(g)(1) of such title.
+Transfers to the Employees Health Benefits Fund.—The Office of the Comptroller of the Currency and the Office of Thrift Supervision shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Office of the Comptroller of the Currency and the Office of Thrift Supervision, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section. The amounts so transferred shall be held in the Fund and used by the Office in addition to amounts available under section 8906(g)(1) of such title.
 
 “(d)
 

@@ -31,8 +31,7 @@
 | (a) | Monthly fees. |
 | (b) | Deposit of fees. |
 | (c) | Fixing fees. |
-| (d) | Application of fees to current residents of Naval Home and Soldiers’ and Airmen's Home. |
-| (e) | Application of fees for new residents. |
+| (d) | Application of fees. |
 | [415\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000415%20-%20Composition%20and%20operation%20of%20Retirement%20Home%20Board.md) | Composition and operation of Retirement Home Board. |
 | (a) | Establishment. |
 | (b) | Members. |

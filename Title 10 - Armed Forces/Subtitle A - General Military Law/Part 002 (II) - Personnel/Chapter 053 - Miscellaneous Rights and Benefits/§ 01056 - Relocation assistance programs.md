@@ -6,7 +6,7 @@ Requirement to Provide Assistance.—The Secretary of Defense shall carry out a 
 
 (b)
 
-Types of Assistance.—(1) The Secretary of each military department, under regulations prescribed by the Secretary of Defense, shall provide relocation assistance, through military relocation assistance programs described in subsection (c), to members of the armed forces who are ordered to make a change of permanent station which includes a move to a new location (and for dependents of such members who are authorized to move in connection with the change of permanent station).
+Types of Assistance.—(1) The Secretary of each military department, under regulationsprescribed by the Secretary of Defense, shall provide relocation assistance, through military relocation assistance programs described in subsection (c), to members of the armed forces who are ordered to make a change of permanent station which includes a move to a new location (and for dependents of such members who are authorized to move in connection with the change of permanent station).
 
 (2) The relocation assistance provided shall include the following:
 

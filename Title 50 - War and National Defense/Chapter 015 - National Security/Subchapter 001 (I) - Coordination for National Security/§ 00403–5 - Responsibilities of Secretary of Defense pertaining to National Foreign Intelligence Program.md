@@ -60,7 +60,7 @@ The Secretary of Defense, in carrying out the functions described in this sectio
 
 The Director of Central Intelligence, in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall submit each year to the Committee on Foreign Intelligence of the National Security Council and the appropriate congressional committees (as defined in section 404d(c) of this title) an evaluation of the performance and the responsiveness of the National Security Agency, the National Reconnaissance Office, and the National Imagery and Mapping Agency in meeting their national missions.
 
-(July 26, 1947, ch. 343, title I, §105, as added Oct. 24, 1992, Pub. L. 102–496, title VII, §706(a), 106 Stat. 3194; amended Oct. 14, 1994, Pub. L. 103–359, title V, §501(a)(2), 108 Stat. 3428; Sept. 23, 1996, Pub. L. 104–201, div. A, title XI, §1114(a), 110 Stat. 2684; Oct. 11, 1996, Pub. L. 104–293, title VIII, §808, 110 Stat. 3481.)
+(July 26, 1947, ch. 343, title I, §105, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3194; amended Pub. L. 103–359, title V, §501(a)(2), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1114(a), Sept. 23, 1996, 110 Stat. 2684; Pub. L. 104–293, title VIII, §808, Oct. 11, 1996, 110 Stat. 3481.)
 
 #### Amendments
 

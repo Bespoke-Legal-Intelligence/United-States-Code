@@ -6,9 +6,9 @@
 
 (c) A district court may order any civil action to be tried at any place within the division in which it is pending.
 
-(d) As used in this section, “district court” includes the United States District Court for the District of the Canal Zone; and “district” includes the territorial jurisdiction of that court.
+(d) As used in this section, the term “district court” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands, and the term “district” includes the territorial jurisdiction of each such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; Oct. 18, 1962, Pub. L. 87–845, §9, 76A Stat. 699.)
+(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 87–845, §9, Oct. 18, 1962, 76A Stat. 699; Pub. L. 104–317, title VI, §610(a), Oct. 19, 1996, 110 Stat. 3860.)
 
 #### Historical and Revision Notes
 
@@ -26,15 +26,17 @@ Subsection (b) is based upon section 163 of title 28, U.S.C., 1940 ed., which ap
 
 #### Amendments
 
-1962—Subsec. (d). Pub. L. 87–845 added subsec. (d).
+<b>1996</b>—Subsec. (d). Pub. L. 104–317 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “As used in this section, ‘district court’ includes the United States District Court for the District of the Canal Zone; and ‘district’ includes the territorial jurisdiction of that court.”
+
+<b>1962</b>—Subsec. (d). Pub. L. 87–845 added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Section 610(c) of Pub. L. 104–317 provided that: “The amendments made by this section \[amending this section and section 1406 of this title\] apply to cases pending on the date of the enactment of this Act \[Oct. 19, 1996\] and to cases commenced on or after such date.”
 
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–845 effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as a note under section 14 of Title 18, Crimes and Criminal Procedure.
-
-#### Termination of United States District Court for the District of the Canal Zone
-
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
 
 #### Federal Rules of Criminal Procedure
 

@@ -14,7 +14,7 @@ To be eligible to receive a grant under subsection (a) of this section, an entit
 
 &emsp;(3) prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a strategic investment plan that identifies and describes the economic characteristics of the target area to be served, the types of business to be assisted using amounts received under the grant and the impact of such assistance on low-income individuals; and
 
-&emsp;(4) have secured one or more commitments from local sources for contributions (either in cash or in kind, letters of credit, or letters of commitment) in an amount that is equal to at least 10 percent of the amounts requested in the application submitted under paragraph (2).<sup>1</sup>
+&emsp;(4) have secured one or more commitments from local sources for contributions (either in cash or in kind, letters of credit, or letters of commitment) in an amount that is equal to at least 10 percent of the amounts requested inthe application submitted under paragraph (2).<sup>1</sup>
 
 #### (c) Use of revolving loan fund
 

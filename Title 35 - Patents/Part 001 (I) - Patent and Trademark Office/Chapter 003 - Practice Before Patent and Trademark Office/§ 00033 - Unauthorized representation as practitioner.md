@@ -2,7 +2,7 @@
 
 Whoever, not being recognized to practice before the Patent and Trademark Office, holds himself out or permits himself to be held out as so recognized, or as being qualified to prepare or prosecute applications for patent, shall be fined not more than $1,000 for each offense.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

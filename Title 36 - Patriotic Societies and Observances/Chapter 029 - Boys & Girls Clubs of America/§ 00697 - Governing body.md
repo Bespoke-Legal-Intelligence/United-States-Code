@@ -10,7 +10,7 @@ Irving J. Scher, Milwaukee, Wisconsin; Grant G. Simmons, New York, New York; P. 
 
 #### (b) Tenure
 
-Thereafter the board of directors of the corporation shall consist of such number as may be prescribed in the constitution of the corporation, and the members of such board shall be selected in such manner (including the filling of vacancies), and shall serve for such terms, asmay be prescribed in the constitution and bylaws of the corporation.
+Thereafter the board of directors of the corporation shall consist of such number as may be prescribed in the constitution of the corporation, and the members of such board shall be selected in such manner (including the filling of vacancies), and shall serve for such terms, as may be prescribed in the constitution and bylaws of the corporation.
 
 #### (c) Duties
 

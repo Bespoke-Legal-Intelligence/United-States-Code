@@ -6,7 +6,7 @@ To the extent consistent with due regard for the protection from unauthorized di
 
 &emsp;(2) furnish the intelligence committees any information or material concerning intelligence activities, other than covert actions, which is within their custody or control, and which is requested by either of the intelligence committees in order to carry out its authorized responsibilities.
 
-(July 26, 1947, ch. 343, title V, §502, as added Aug. 14, 1991, Pub. L. 102–88, title VI, §602(a)(2), 105 Stat. 442.)
+(July 26, 1947, ch. 343, title V, §502, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442.)
 
 #### Prior Provisions
 

@@ -12,7 +12,7 @@ The Secretary shall carry out the following functions:
 
 &emsp;(5) Perform such other functions as the Secretary may determine necessary in furtherance of the policy of this chapter.
 
-(Aug. 1, 1956, ch. 841, title II, §203, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 284; amended Nov. 22, 1983, Pub. L. 98–164, title VI, §604(a), (b), 97 Stat. 1043, 1044; Nov. 8, 1984, Pub. L. 98–618, title VI, §601(c), 98 Stat. 3303; Dec. 22, 1987, Pub. L. 100–204, title I, §173(a)(2), 101 Stat. 1360; Feb. 16, 1990, Pub. L. 101–246, title I, §116(a), 104 Stat. 24; Apr. 30, 1994, Pub. L. 103–236, title I, §162(<i>o</i>)(2), 108 Stat. 409.)
+(Aug. 1, 1956, ch. 841, title II, §203, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 98–164, title VI, §604(a), (b), Nov. 22, 1983, 97 Stat. 1043, 1044; Pub. L. 98–618, title VI, §601(c), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 100–204, title I, §173(a)(2), Dec. 22, 1987, 101 Stat. 1360; Pub. L. 101–246, title I, §116(a), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, §162(<i>o</i>)(2), Apr. 30, 1994, 108 Stat. 409.)
 
 #### Codification
 
@@ -24,7 +24,7 @@ This chapter, referred to in pars. (3) and (4), was in the original “this Act�
 
 #### Amendments
 
-1994—Pub. L. 103–236 amended section generally. Prior to amendment, section required Secretary of State toestablish Office of Foreign Missions in Department of State, provided for Director and Deputy Director of Office, and specified their powers and duties.
+1994—Pub. L. 103–236 amended section generally. Prior to amendment, section required Secretary of State to establish Office of Foreign Missions in Department of State, provided for Director and Deputy Director of Office, and specified their powers and duties.
 
 1990—Subsec. (c)(3), (4). Pub. L. 101–246 added par. (3) and redesignated former par. (3) as (4).
 

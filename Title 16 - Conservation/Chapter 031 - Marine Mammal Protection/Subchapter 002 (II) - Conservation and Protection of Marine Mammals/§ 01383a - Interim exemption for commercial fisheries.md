@@ -192,7 +192,7 @@ The Secretary, in consultation with any other Federal agency to the extent that 
 
 #### (<i>l</i>) Suggested regime governing incidental taking of marine mammals following termination of interim exemptions
 
-(1) The Chairman of the Marine Mammal Commission shall, after consultation with interested parties and not later than February 1, 1990, transmit to the Secretary and make available to the public recommended guidelines to govern the incidental taking of marine mammals in the course of commercial fishing operations, other than those subject to section 1374(h)(2) of this title, after October 1, 1993. Such guidelines shall be developed by the Commission and its Committee of Scientific Advisers on Marine Mammals and shall—
+(1) The Chairman of the Marine Mammal Commission shall, after consultation with interested parties and not later than February 1, 1990, transmit to the Secretary and make available to the public recommended guidelines to govern the incidental taking of marine mammals in the course of commercial fishing operations, otherthan those subject to section 1374(h)(2) of this title, after October 1, 1993. Such guidelines shall be developed by the Commission and its Committee of Scientific Advisers on Marine Mammals and shall—
 
 &emsp;(A) be designed to provide a scientific rationale and basis for determining how many marine mammals may be incidentally taken under a regime to be adopted to govern such taking after October 1, 1993;
 

@@ -18,7 +18,7 @@
 
 &emsp;(3) for any period of time if a child was born of the marriage, or was born to them before the marriage.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, §532; Pub. L. 90–77, title I, §§101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 94–169, title I, §106(20)–(23), Dec. 23, 1975, 89 Stat. 1018; Pub. L. 102–54, §14(b)(7), June 13, 1991, 105 Stat. 283; renumbered §1532 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–446, title XII, §1201(a)(2), Nov. 2, 1994, 108 Stat. 4682.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1137, §532; Pub. L. 90–77, title I, §§101(a), 105, Aug. 31, 1967,81 Stat. 178, 179; Pub. L. 94–169, title I, §106(20)–(23), Dec. 23, 1975, 89 Stat. 1018; Pub. L. 102–54, §14(b)(7), June 13, 1991, 105 Stat. 283; renumbered §1532 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–446, title XII, §1201(a)(2), Nov. 2, 1994, 108 Stat. 4682.)
 
 #### Amendments
 

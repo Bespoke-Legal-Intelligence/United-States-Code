@@ -16,7 +16,7 @@ Any person who is employed in the Office of the Inspector General, Department of
 
 The Food Stamp Act of 1977, referred to in text, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under 2011 of this title and Tables.
 
-Sections 6 and 9 of the Inspector General Act of 1978, referred to in text, are sections 6 and 9 of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 6 and 9 of the Inspector General Act of 1978, referred to in text, are sections 6 and 9 of Pub. L. 95–452,which are set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date
 

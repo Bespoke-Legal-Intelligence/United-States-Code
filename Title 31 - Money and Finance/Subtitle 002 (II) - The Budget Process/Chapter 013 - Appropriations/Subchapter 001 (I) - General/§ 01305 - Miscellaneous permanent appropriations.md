@@ -90,3 +90,7 @@ Section 101 of the Housing and Urban Development Act of 1965, as amended, referr
 
 1983—Par. (6). Pub. L. 97–452 substituted provisions relating to payment of the interest on the fund derived from the bequest of James Smithson, for the construction of buildings and the expenses of the Smithsonian Institution, at rates determined under section 5590 of the Revised Statutes, for provisions relating to payment for construction of buildings and expenses of the Smithsonian Institution, at 6 percent on the fund derived from the bequest of James Smithson.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 12 section 1715z–1.
+

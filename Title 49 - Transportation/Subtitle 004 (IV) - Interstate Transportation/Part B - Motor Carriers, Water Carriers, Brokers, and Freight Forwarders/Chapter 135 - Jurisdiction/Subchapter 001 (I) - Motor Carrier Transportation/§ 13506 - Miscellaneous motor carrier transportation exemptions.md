@@ -16,7 +16,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;&emsp;(B) supplies to the farm of the farmer;
 
-&emsp;(5) a motor vehicle controlled and operated by a cooperative association (as defined by section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)) <sup>1</sup> or by a federation of cooperative associations if the federation has no greater power or purposes than a cooperative association, except that if the cooperative association or federation provides transportation for compensation between a place in a State and a place in another State, or between a place in a State and another place in the same State through another State—
+&emsp;(5) a motor vehicle controlled and operated by a cooperative association (as defined by section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a))) or by a federation of cooperative associations if the federation has no greater power or purposes than a cooperative association, except that if the cooperative association or federation provides transportation for compensation between a place in a State and a place in another State, or between a place in a State and another place in the same State through another State—
 
 &emsp;&emsp;(A) for a nonmember that is not a farmer, cooperative association, federation, or the United States Government, the transportation (except for transportation otherwise exempt under this subchapter)—
 
@@ -74,11 +74,21 @@ Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board
 
 &emsp;(3) the emergency towing of an accidentally wrecked or disabled motor vehicle.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 861.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 861; amended Pub. L. 105–102, §2(8), Nov. 20, 1997, 111 Stat. 2204.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 105–102
+
+This amends 49:13506(a)(5) to correct a grammatical error.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10526 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1997—Subsec. (a)(5). Pub. L. 105–102 substituted “1141j(a)))” for “1141j(a))”.
 
 #### Abolition of Interstate Commerce Commission
 
@@ -87,6 +97,4 @@ Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 13507, 13508, 13908 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by another closing parenthesis.</i>
 

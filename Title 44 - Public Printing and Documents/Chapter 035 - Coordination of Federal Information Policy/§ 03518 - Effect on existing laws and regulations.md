@@ -20,11 +20,11 @@
 
 (2) This chapter applies to the collection of information during the conduct of general investigations (other than information collected in an antitrust investigation to the extent provided in subparagraph (C) of paragraph (1)) undertaken with reference to a category of individuals or entities such as a class of licensees or an entire industry.
 
-(d) Nothing in this chapter shall be interpreted as increasing or decreasing the authority conferred by section 5131 of the Clinger-Cohen Act of 1996 and the Computer Security Act of 1987 (40 U.S.C. 759 note) <sup>1</sup> on the Secretary of Commerce or the Director of the Office of Management and Budget.
+(d) Nothing in this chapter shall be interpreted as increasing or decreasing the authority conferred by section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and the Computer Security Act of 1987 (40 U.S.C. 759 note) <sup>1</sup> on the Secretary of Commerce or the Director of the Office of Management and Budget.
 
 (e) Nothing in this chapter shall be interpreted as increasing or decreasing the authority of the President, the Office of Management and Budget or the Director thereof, under the laws of the United States, with respect to the substantive policies and programs of departments, agencies and offices, including the substantive authority of any Federal agency to enforce the civil rights laws.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 183; amended Pub. L. 104–106, div. E, title LI, §5131(e)(2), Feb. 10, 1996, 110 Stat. 688; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 183; amended Pub. L. 104–106, div. E, title LI, §5131(e)(2), Feb. 10, 1996, 110 Stat. 688; Pub. L. 105–85, div. A, title X, §1073(h)(5)(C), Nov. 18, 1997, 111 Stat. 1907.)
 
 #### References in Text
 
@@ -38,8 +38,6 @@ Section 13 of the Federal Trade Commission Improvements Act of 1980, referred to
 
 Executive Order No. 12333, referred to in subsec. (c)(1)(D), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, set out as a note under section 401 of Title 50, War and National Defense.
 
-Section 5131 of the Clinger-Cohen Act of 1996, referred to in subsec. (d), is classified to section 1441 of Title 40, Public Buildings, Property, and Works.
-
 The Computer Security Act of 1987, referred to in subsec. (d), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and former section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of Title 15 and section 1441 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 The civil rights laws, referred to in subsec. (e), are classified generally to chapter 21 (§1981 et seq.) of Title 42, The Public Health and Welfare.
@@ -50,9 +48,9 @@ A prior section 3518, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–208 substituted “Clinger-Cohen Act of 1996” for “Information Technology Management Reform Act of 1996”.
+1997—Subsec. (d). Pub. L. 105–85 substituted “Clinger-Cohen Act of 1996 (40 U.S.C. 1441)” for “Information Technology Management Reform Act of 1996”.
 
-Pub. L. 104–106 substituted “section 5131 of the Information Technology Management Reform Act of 1996 and the Computer Security Act of 1987 (40 U.S.C. 759 note) on the Secretary of Commerce or” for “Public Law 89–306 on the Administrator of the General Services Administration, the Secretary of Commerce, or”.
+1996—Subsec. (d). Pub. L. 104–106 substituted “section 5131 of the Information Technology Management Reform Act of 1996 and the Computer Security Act of 1987 (40 U.S.C. 759 note) on the Secretary of Commerce or” for “Public Law 89–306 on the Administrator of the General Services Administration, the Secretary of Commerce, or”.
 
 #### Effective Date of 1996 Amendment
 

@@ -22,5 +22,5 @@ Upon application of a State or political subdivision of a State the Administrato
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (a)(2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a)(2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, whichis classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 

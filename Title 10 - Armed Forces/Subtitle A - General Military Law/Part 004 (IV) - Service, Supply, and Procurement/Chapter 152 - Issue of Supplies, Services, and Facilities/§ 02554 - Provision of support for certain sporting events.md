@@ -2,7 +2,7 @@
 
 (a)
 
-Security and Safety Assistance.—At the request of a Federal, State, or local government agency responsible for providing law enforcement services, security services, or safety services, the Secretary of Defense may authorize the commander of a military installation or otherfacility of the Department of Defense or the commander of a specified or unified combatant command to provide assistance for the World Cup Soccer Games, the Goodwill Games, the Olympics, and any other civilian sporting event in support of essential security and safety at such event, but only if the Attorney General certifies that such assistance is necessary to meet essential security and safety needs.
+Security and Safety Assistance.—At the request of a Federal, State, or local government agency responsible for providing law enforcement services, security services, or safety services, the Secretary of Defense may authorize the commander of a military installation or other facility of the Department of Defense or the commander of a specified or unified combatant command to provide assistance for the World Cup Soccer Games, the Goodwill Games, the Olympics, and any other civilian sporting event in support of essential security and safety at such event, but only if the Attorney General certifies that such assistance is necessary to meet essential security and safety needs.
 
 (b)
 
@@ -18,7 +18,7 @@ Other Assistance.—The Secretary of Defense may authorize a commander referred 
 
 Inapplicability to Certain Events.—Subsections (a) and (b) do not apply to the following sporting events:
 
-&emsp;(1) Sporting events for which funds have been appropriated before the date of the enactment of this Act.
+&emsp;(1) Sporting events for which funds have been appropriated before September 23, 1996.
 
 &emsp;(2) The Special Olympics.
 
@@ -48,15 +48,17 @@ Report on Assistance.—Not later than January 30 of each year following a year 
 
 Relationship to Other Laws.—Assistance provided under this section shall be subject to the provisions of sections 375 and 376 of this title.
 
-(Added Pub. L. 104–201, div. A, title III, §367(a), Sept. 23, 1996, 110 Stat. 2496.)
+(Added Pub. L. 104–201, div. A, title III, §367(a), Sept. 23, 1996, 110 Stat. 2496; amended by Pub. L. 105–85, div. A, title X, §1073(a)(56), (c)(2)(A), Nov. 18, 1997, 111 Stat. 1903, 1904.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of this Act, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 104–201 which enacted this section and was approved Sept. 23, 1996.
+1997—Pub. L. 105–85, §1073(c)(2)(A), made technical amendment to directory language of Pub. L. 104–201, §367(a), which enacted this section.
 
-#### Codification
+Subsec. (c)(1). Pub. L. 105–85, §1073(a)(56), substituted “September 23, 1996” for “the date of the enactment of this Act”.
 
-Pub. L. 104–201, §367(a), which directed amendment of subchapter II of this chapter by adding at the end a new section 2554, was executed by adding this section at the end of this chapter, to reflect the probable intent of Congress and the amendment by Pub. L. 104–106, §1503(a)(29), which struck out the headings for former subchapters I and II of this chapter.
+#### Effective Date of 1997 Amendment
+
+Section 1073(c) of Pub. L. 105–85 provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
 #### Support for International Sporting Competitions, Defense, Account
 

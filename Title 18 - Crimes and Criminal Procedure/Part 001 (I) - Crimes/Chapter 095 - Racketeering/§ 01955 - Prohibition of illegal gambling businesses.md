@@ -16,7 +16,7 @@
 
 &emsp;(3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(c) If five or more persons conduct, finance, manage, supervise, direct, or own all or part of a gambling business and such business operates for two or more successive days, then, for the purpose of obtaining warrants for arrests, interceptions, and other searches and seizures, probable cause that the business receives gross revenue in excess of $2,000 in any single day shall be deemed to have been established.
+(c) If five or more persons conduct, finance, manage, supervise, direct, or own all or part ofa gambling business and such business operates for two or more successive days, then, for the purpose of obtaining warrants for arrests, interceptions, and other searches and seizures, probable cause that the business receives gross revenue in excess of $2,000 in any single day shall be deemed to have been established.
 
 (d) Any property, including money, used in violation of the provisions of this section may be seized and forfeited to the United States. All provisions of law relating to the seizures, summary, and judicial forfeiture procedures, and condemnation of vessels, vehicles, merchandise, and baggage for violation of the customs laws; the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from such sale; the remission or mitigation of such forfeitures; and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to seizures and forfeitures incurred or alleged to have been incurred under the provisions of this section, insofar as applicable and not inconsistent with such provisions. Such duties as are imposed upon the collector of customs or any other person in respect to the seizure and forfeiture of vessels, vehicles, merchandise, and baggage under the customs laws shall be performed with respect to seizures and forfeitures of property used or intended for use in violation of this section by such officers, agents, or other persons as may be designated for that purpose by the Attorney General.
 
@@ -42,7 +42,7 @@ Offices of collector of customs, comptroller of customs, surveyor of customs, an
 
 #### National Gambling Impact Study Commission
 
-Pub. L. 104–169, Aug. 3, 1996, 110 Stat. 1482, provided that:
+Pub. L. 104–169, Aug. 3, 1996, 110 Stat. 1482, as amended by Pub. L. 105–30, §1, July 25, 1997, 111 Stat. 248, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -96,7 +96,7 @@ Consultation required.—The President, the Speaker of the House of Representati
 
 &emsp;“(4)
 
-Completion of appointments; vacancies.—The President, the Speaker of the House of Representatives, and the Majority Leader of the Senate shall conduct the consultation required under paragraph (3) and shall each make their respective appointments not later than 60 days after the date of enactment of this Act \[Aug. 3, 1996\]. Any vacancy that occurs during the life of the Commission shall not affect the powers of the Commission, and shall be filled in the same manner as the original appointment not later than 60 days after the vacancy occurs.
+Completion of appointments; vacancies.—The President, the Speaker of the House of Representatives, and the Majority Leader of the Senate shall conduct the consultation required under paragraph\(3) and shall each make their respective appointments not later than 60 days after the date of enactment of this Act \[Aug. 3, 1996\]. Any vacancy that occurs during the life of the Commission shall not affect the powers of the Commission, and shall be filled in the same manner as the original appointment not later than 60 days after the vacancy occurs.
 
 &emsp;“(5)
 
@@ -234,6 +234,10 @@ Detail of government employees.—Any Federal Government employee, with the appr
 
 Procurement of Temporary and Intermittent Services.—The Chairman of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals not to exceed the daily equivalent of the annual rate of basic pay prescribed for Level V of the Executive Schedule under section 5316 of such title.
 
+“(e)
+
+Applicability of Federal Tort Claims Provisions.—For purposes of sections 1346(b) and 2401(b) and chapter 171 of title 28, United States Code, the Commission is a ‘Federal agency’ and each of the members and personnel of the Commission is an ‘employee of the Government’.
+
 #### “SEC. 7. CONTRACTS FOR RESEARCH.
 
 “(a)
@@ -297,6 +301,16 @@ Limitation.—No payment may be made under section 6 or 7 of this Act except to 
 #### “SEC. 10. TERMINATION OF THE COMMISSION.
 
 “The Commission shall terminate 60 days after the Commission submits the report required under section 4(b).”
+
+\[Pub. L. 105–30, §§2, 3, July 25, 1997, 111 Stat. 248, provided that:
+
+#### \[“SEC. 2. CONSTRUCTION.
+
+\[“The amendment made by section 1 \[amending section 6 of Pub. L. 104–169, set out above\] shall not be construed to imply that any commission is not a ‘Federal agency’ or that any of the members or personnel of a commission is not an ‘employee of the Government’ for purposes of sections 1346(b) and 2401(b) and chapter 171 of title 28, United States Code.
+
+#### \[“SEC. 3. EFFECTIVE DATE.
+
+\[“The amendment made by section 1 shall be effective as of August 3, 1996.”\]
 
 #### Priority of State Laws
 

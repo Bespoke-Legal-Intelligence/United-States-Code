@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 May 29, 1954, ch. 249, §§2(d) (as applicable to §14(a)), 14(a), 68 Stat. 157, 162.
 
-The words, “The Secretary concerned may \* \* \* retire” are substituted for the words “may \* \* \* and in the discretion of the Secretary, be retired”. 10:600<i>l</i>(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
+The words, “The Secretary concerned may \* \* \* retire” are substituted for the words “may \* \* \* and inthe discretion of the Secretary, be retired”. 10:600<i>l</i>(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
 
 #### References in Text
 
@@ -43,6 +43,14 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Temporary Early Retirement Authority
 
 Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8053\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, appropriations available for the pay and allowances of active duty members of the Armed Forces shall be available to pay the retired pay which is payable pursuant to section 4403 of Public Law 102–484 (10 U.S.C. 1293 note) under the terms and conditions provided in section 4403.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–61, title VIII, §8066, Dec. 1, 1995, 109 Stat. 664.
+
+Pub. L. 103–335, title VIII, §8077, Sept. 30, 1994, 108 Stat. 2636.
+
+Pub. L. 103–139, title VIII, §8095, Nov. 11, 1993, 107 Stat. 1461.
 
 Pub. L. 104–106, div. A, title V, §566(c), Feb. 10, 1996, 110 Stat. 328, provided that: “Section 4403 (other than subsection (f)) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the commissioned officer corps of the National Oceanic and Atmospheric Administration in the same manner and to the same extent as that section applies to the Department of Defense. The Secretary of Commerce shall implement the provisions of that section with respect to such commissioned officer corps and shall apply the provisions of that section to the provisions of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 \[act June 3, 1948, see Short Title note set out under section 853a of Title 33, Navigation and Navigable Waters\] relating to the retirement of members of such commissioned officer corps.”
 

@@ -6,7 +6,7 @@ The Director, under the direction of the President and the Secretary of State, s
 
 #### (b) Functions with respect to United States Information Agency
 
-The Director shall perform functions pursuant to section 2(c) of the Reorganization Plan 8 of 1953 with respect to providing to the United States Information Agency official United States positions and policy on arms control, nonproliferation, and disarmament matters for dissemination abroad.
+The Director shall perform functions pursuant to section 2(c) of the Reorganization Plan 8 of1953 with respect to providing to the United States Information Agency official United States positions and policy on arms control, nonproliferation, and disarmament matters for dissemination abroad.
 
 #### (c) Authority
 

@@ -32,11 +32,13 @@ Required Positions.—In designating the positions under subsection (a), the Sec
 
 (c)
 
-Management Headquarters Activities.—The Secretary also shall designate as acquisition positions under subsection (a) those acquisition-related positions which are in management headquarters activities and in management headquarters support activities. For purposes of this subsection, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities”, dated November 25, 1988.
+Management Headquarters Activities.—The Secretary also shall designate as acquisition positions under subsection (a) those acquisition-related positions which are in management headquarters activities and in management headquarters support activities. For purposes of this subsection, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities”, dated November 12, 1996.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1640; amended Pub. L. 102–25, title VII, §701(j)(1), Apr. 6, 1991, 105 Stat. 116.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1640; amended Pub. L. 102–25, title VII, §701(j)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 105–85, div. A, title IX, §912(f), Nov. 18, 1997, 111 Stat. 1862.)
 
 #### Amendments
+
+1997—Subsec. (c). Pub. L. 105–85 substituted “November 12, 1996” for “November 25, 1988”.
 
 1991—Subsec. (c). Pub. L. 102–25 substituted “Activities’, dated” for “Activities,’ dated” in last sentence.
 

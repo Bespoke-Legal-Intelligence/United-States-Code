@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—OVERSEAS DIFFERENTIALS AND ALLOWANCES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 22 section 3657.
-
 
 ---
 

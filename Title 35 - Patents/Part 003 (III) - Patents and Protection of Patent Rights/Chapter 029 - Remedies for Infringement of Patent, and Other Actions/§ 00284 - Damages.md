@@ -4,7 +4,7 @@ Upon finding for the claimant the court shall award the claimant damages adequat
 
 When the damages are not found by a jury, the court shall assess them. In either event the court may increase the damages up to three times the amount found or assessed.
 
-The court may receive expert testimony as an aid to the determination of damages or of what royalty would be reasonable under the circumstances.
+The court may receive expert testimony as an aid to the determination of damages or of whatroyalty would be reasonable under the circumstances.
 
 (July 19, 1952, ch. 950, 66 Stat. 813.)
 

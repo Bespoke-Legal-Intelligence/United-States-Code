@@ -34,7 +34,7 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Test Program for Executive Agencies
 
-Pub. L. 103–355, title V, §5061, Oct. 13, 1994, 108 Stat. 3352, as amended by Pub. L. 104–106, div. D, title XLIII, §4302(a), Feb. 10, 1996, 110 Stat. 658, provided that:
+Pub. L. 103–355, title V, §5061, Oct. 13, 1994, 108 Stat. 3352, as amended by Pub. L. 104–106, div. D, title XLIII, §4302(a), Feb. 10, 1996, 110 Stat. 658; Pub. L. 105–85, div. A, title VIII, §850(f)(1), Nov. 18, 1997, 111 Stat. 1849, provided that:
 
 “(a)
 
@@ -58,7 +58,7 @@ Test Requirements and Limitations.—(1) Each test conducted under subsection (a
 
 “(B) For one of the tests conducted under subsection (a), the amount of each contract awarded in conducting the test (including options) may exceed $5,000,000.
 
-“(4) The program of tests conducted under subsection (a) shall include, either as a test or as part of a test, the use of the Federal acquisition computer network (‘FACNET’) capability required by section 30 of the Office of Federal Procurement Policy Act (as added by section 9001) \[41 U.S.C. 426\] for procurement actions in amounts greater than the simplified acquisition threshold.
+“(4) The program of tests conducted under subsection (a) shall include, either as a test or as part of a test, the use of the electronic commerce capability required by section 30 of the Office of Federal Procurement Policy Act \[41 U.S.C. 426\] for procurement actions in amounts greater than the simplified acquisition threshold.
 
 “(d)
 
@@ -96,7 +96,7 @@ Procedures Authorized.—Tests conducted under this section may include any of t
 
 &emsp;“(9) A process in which—
 
-&emsp;&emsp;“(A) the competitive process is initiated by publication in the Commerce Business Daily, or by dissemination through FACNET, of a notice that—
+&emsp;&emsp;“(A) the competitive process is initiated by publication in the Commerce Business Daily of a notice that—
 
 &emsp;&emsp;&emsp;“(i) contains a synopsis of the functional and performance needs of the executive agency conducting the test, and, for purposes of guidance only, other specifications; and
 
@@ -174,7 +174,7 @@ Report.—Not later than 6 months after completion of a test conducted under sub
 
 “(j)
 
-Commencement and Expiration of Authority.—The authority to conduct a test under subsection (a) inan agency and to award contracts under such a test shall take effect on January 1, 1997, and shall expire on January 1, 2001. A contract entered into before such authority expires in an agency pursuant to a test shall remain in effect, in accordance with the terms of the contract, the notwithstanding of expiration the authority to conduct the test under this section.
+Commencement and Expiration of Authority.—The authority to conduct a test under subsection (a) in an agency and to award contracts under such a test shall take effect on January 1, 1997, and shall expire on January 1, 2001. A contract entered into before such authority expires in an agency pursuant to a test shall remain in effect, in accordance with the terms of the contract, the notwithstanding of expiration the authority to conduct the test under this section.
 
 “(k)
 

@@ -313,7 +313,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee, 79p, 79t, 79u, 80a–2, 80a–8, 80a–9, 80a–12, 80a–17, 80a–29, 80a–34, 80a–37, 80a–49, 80a–56, 80b–2, 80b–3, 80b–4a, 80b–8, 631b, 1691c, 1693<i>o</i> of this title; title 2 section 1602; title 7 sections 6, 6m, 12a; title 11 section 741; title 12 sections 1465, 1831<i>o</i>, 2279aa–12, 3422, 4402; title 25 section 646; title 26 sections 162, 277; title 29 sections 432, 1343; title 31 section 5312; title 43 sections 1625, 1629b; title 45 section 1342.
+This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee, 79p, 79t, 79u, 80a–2, 80a–8, 80a–9, 80a–12, 80a–17, 80a–29, 80a–34, 80a–37, 80a–49, 80a–56, 80b–2, 80b–3, 80b–4a, 80b–8, 631b, 1691c, 1693<i>o</i> of this title; title 2 section 1602; title 7 sections 6, 6m, 12a; title 11 section 741; title 12 sections 1465, 1831<i>o</i>, 2279aa–12, 3422, 4402; title 25 section 646; title 26 sections 162, 277; title 29 sections 432, 1343; title 31 section 5312; title 42 sections 2297h–2, 2297h–7; title 43 sections 1625, 1629b; title 45 section 1342; title 47 section 274.
 
 
 ---

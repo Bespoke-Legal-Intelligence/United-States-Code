@@ -154,7 +154,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (4) Limitation on access to information
 
-&emsp;Files and records of qualified designated entities relating to an alien's seeking assistanceor information with respect to filing an application under this section are confidential and the Attorney General and the Service shall not have access to such files or records relating to an alien without the consent of the alien.
+&emsp;Files and records of qualified designated entities relating to an alien's seeking assistance or information with respect to filing an application under this section are confidential and the Attorney General and the Service shall not have access to such files or records relating to an alien without the consent of the alien.
 
 #### (5) Confidentiality of information
 
@@ -368,7 +368,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(A) to a Cuban and Haitian entrant (as defined in paragraph (1) or (2)(A) of section 501(e) of Public Law 96–422 \[8 U.S.C. 1255 note\], as in effect on April 1, 1983), or
 
-&emsp;&emsp;(B) in the case of assistance (other than assistance under a State program funded underpart A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]) which is furnished to an alien who is an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(1)\]).
+&emsp;&emsp;(B) in the case of assistance (other than assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]) which is furnished to an alien who is an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(1)\]).
 
 #### (3) Restricted medicaid benefits
 
@@ -460,7 +460,7 @@ The Vocational Education Act of 1963, referred to in subsec. (h)(4)(C), was titl
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 527, as amended, which was classified generally to subchapter V (§2921 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
+The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 527, as amended, which was classified generally to subchapter V (§2921 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat.519. For complete classification of this Act to the Code, see Tables.
 
 The Job Training Partnership Act, referred to in subsec. (h)(4)(F), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified principally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
@@ -538,7 +538,7 @@ Subsec. (c)(5). Pub. L. 100–525, §2(h)(1)(D)(ii), substituted semicolon for p
 
 Subsec. (c)(5)(A). Pub. L. 100–525, §2(h)(1)(D)(i), inserted “or for the preparation of reports to Congress under section 404 of the Immigration Reform and Control Act of 1986” after “paragraph (6)”.
 
-Subsec. (d)(2)(B)(ii). Pub. L. 100–525, §2(h)(1)(E)(ii), inserted at end “Subclause (II) (prohibiting the waiver of section 1182(a)(15) of this title) shall not apply to an alien who is or was an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act).”
+Subsec. (d)(2)(B)(ii). Pub. L. 100–525, §2(h)(1)(E)(ii), inserted at end “Subclause (II) (prohibiting the waiver ofsection 1182(a)(15) of this title) shall not apply to an alien who is or was an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act).”
 
 Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out “by an alien other than an alien who is eligible for benefits under title XVI of the Social Security Act or section 212 of Public Law 93–66 for the month in which such alien is granted lawful temporary residence status under subsection (a) of this section” after “permanent residence”.
 
@@ -550,7 +550,7 @@ Section 377(b) of div. C of Pub. L. 104–208 provided that: “The amendment ma
 
 Amendment by section 384(d)(1) of Pub. L. 104–208 applicable to offenses occurring on or after Sept. 30, 1996, see section 384(d)(2) of Pub. L. 104–208, set out as a note under section 1160 of this title.
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
@@ -696,7 +696,7 @@ In general.—(A) Out of any money in the Treasury not otherwise appropriated, t
 
 &emsp;“(B) Funds appropriated for fiscal year 1990 under this section are reduced by $555,244,000, and funds appropriated for fiscal year 1991 under this section are reduced by $566,854,000.
 
-&emsp;“(C) For fiscal years 1993 and 1994 combined, there are appropriated to carry out this section for costs incurred on or after October 1, 1989 (including Federal, State, and local administrative costs) out of any money in the Treasury not otherwise appropriated, $2,000,000,000 (less the amount described in paragraph (2) for each of fiscal years 1990 and 1991) less the amount made available for allotments to States under subsection (b) for fiscal year 1990 and fiscal year 1991: <i>Provided</i>, That $812,000,000 shall be available in fiscal year 1994 and the remainder of these funds shall be available in fiscal year 1993.
+&emsp;“(C) For fiscal years 1993 and 1994 combined, there are appropriated to carry out this section for costs incurred on or after October 1, 1989 (including Federal, State, and local administrative costs) out of any money in the Treasury not otherwise appropriated, $2,000,000,000 (less the amount described in paragraph (2) for each of fiscal years 1990 and 1991) less theamount made available for allotments to States under subsection (b) for fiscal year 1990 and fiscal year 1991: <i>Provided</i>, That $812,000,000 shall be available in fiscal year 1994 and the remainder of these funds shall be available in fiscal year 1993.
 
 &emsp;“(2)
 
@@ -782,13 +782,13 @@ Providing Assistance.—(1) Of the amounts allotted to a State under this sectio
 
 &emsp;“(ii) 1 percent (or, if greater, $100,000) for payments under paragraph (1)(E).
 
-“(3) To the extent that a State provides for the use of funds for the purpose described in paragraph (1)(C), the definitions and provisions of the Emergency Immigrant Education Act of 1984 (title VI of Public Law 98-511; 20 U.S.C. 4101 et seq.) shall apply to payments under such paragraph in the same manner as they apply to payments under that Act, except that, in applying this paragraph—
+“(3) To the extent that a State provides for the use of funds for the purpose described in paragraph (1)(C), the definitions and provisions of the Emergency Immigrant Education Act of 1984 (title VI of Public Law 98-511; 20 U.S.C. 4101 et seq.) \[see 20 U.S.C. 7541 et seq.\] shall apply to payments under such paragraph in the same manner as they apply to payments under that Act, except that, in applying this paragraph—
 
 &emsp;“(A) any reference in such Act to ‘immigrant children’ shall be deemed to be a reference to ‘eligible legalized aliens’ (including such aliens who are over 16 years of age) during the 60-month period beginning with the first month in which such an alien is granted temporary lawful residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\];
 
 &emsp;“(B) in determining the amount of payment with respect to eligible legalized aliens who are over 16 years of age, the phrase ‘described under paragraph (2)’ shall be deemed to be stricken from section 606(b)(1)(A) of such Act (20 U.S.C. 4105(b)(1)(A));
 
-&emsp;“(C) the State educational agency may provide such educational services to adult eligible legalized aliens through local educational agencies and otherpublic and private nonprofit organizations, including community-based organizations of demonstrated effectiveness; and
+&emsp;“(C) the State educational agency may provide such educational services to adult eligible legalized aliens through local educational agencies and other public and private nonprofit organizations, including community-based organizations of demonstrated effectiveness; and
 
 &emsp;“(D) such services may include English language and other programs designed to enable such aliens to attain the citizenship skills described in section 245A(b)(1)(D)(i) of the Immigration and Nationality Act \[8 U.S.C. 1255a(b)(1)(D)(i)\].
 
@@ -930,7 +930,7 @@ Second Report on Impact of Legalization Program.—The second report, which shal
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1151, 1160, 1182, 1255, 1324b of this title; title 26 section 6039E; title 42 sections 408, 602, 672, 1436a, 3056i.
+This section is referred to in sections 1151, 1160, 1255, 1324b of this title; title 26 section 6039E; title 42 sections 408, 672, 1436a, 3056i.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(Public Law 96–422)”.</i>
 

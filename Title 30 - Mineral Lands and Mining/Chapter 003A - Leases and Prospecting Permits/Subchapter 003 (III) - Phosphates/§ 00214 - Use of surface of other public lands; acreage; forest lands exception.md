@@ -2,7 +2,7 @@
 
 The holder of any lease or permit issued under the provisions of sections 211 to 214 of this title shall have the right to use so much of the surface of unappropriated and unentered public lands not a part of his lease or permit, not exceeding eighty acres in area, as may be determined by the Secretary to be necessary or convenient for the extraction, treatment, and removal of the mineral deposits, but this provision shall not be applicable to national forest lands.
 
-(Feb. 25, 1920, ch. 85, §12, 41 Stat. 441; June 3, 1948, ch. 379, §5, 62 Stat. 291; Mar. 18, 1960, Pub. L. 86–391, §1(b), 74 Stat. 8.)
+(Feb. 25, 1920, ch. 85, §12, 41 Stat. 441; June 3, 1948, ch. 379, §5, 62 Stat. 291; Pub. L. 86–391, §1(b), Mar. 18, 1960, 74 Stat. 8.)
 
 #### Amendments
 

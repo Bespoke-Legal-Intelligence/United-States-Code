@@ -36,7 +36,7 @@ California is divided into four judicial districts to be known as the Northern, 
 
 &emsp;&emsp;Court for the Southern District shall be held at San Diego.
 
-(June 25, 1948, ch. 646, 62 Stat. 875; Mar. 18, 1966, Pub. L. 89–372, §3(a), 80 Stat. 75; Oct. 15, 1980, Pub. L. 96–462, §2, 94 Stat. 2053; Aug. 26, 1992, Pub. L. 102–357, §2, 106 Stat. 958.)
+(June 25, 1948, ch. 646, 62 Stat. 875; Pub. L. 89–372, §3(a), Mar. 18, 1966, 80 Stat. 75; Pub. L. 96–462, §2, Oct. 15, 1980, 94 Stat. 2053; Pub. L. 102–357, §2, Aug. 26, 1992, 106 Stat. 958.)
 
 #### Historical and Revision Notes
 
@@ -48,13 +48,13 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–357 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Central District comprises the counties of Los Angeles, Orange, Riverside, San Bernardino, San Luis Obispo, Santa Barbara, and Ventura.
+<b>1992</b>—Subsec. (c). Pub. L. 102–357 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Central District comprises the counties of Los Angeles, Orange, Riverside, San Bernardino, San Luis Obispo, Santa Barbara, and Ventura.
 
-&nbsp;&nbsp;Court for the Central District shall be held at Los Angeles and Santa Ana.”
+&nbsp;&nbsp;“Court for the Central District shall be held at Los Angeles and Santa Ana.”
 
-1980—Subsec. (c). Pub. L. 96–462 inserted “and Santa Ana” after “at Los Angeles”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–462 inserted “and Santa Ana” after “at Los Angeles”.
 
-1966—Pub. L. 89–372 expanded the number of judicial districts in California from two to four by creating an Eastern and a Central District in addition to the existing Northern and Southern Districts, removed the provisions separating the Northern and Southern Districts into divisions, transferred to the newly created Eastern Division the counties of Alpine, Almador, Butte, Calaveras, Colusa, El Dorado, Glenn, Lassen, Modoc, Mono, Nevada, Placer, Plumas, Sacramento, San Joaquin, Shasta, Sierra, Siskiyou, Solano, Stanislaus, Sutter, Tehama, Trinity, Tuolumne, Yolo, and Yuba from the Northern District and Fresno, Inyo Kern, Kings, Madera, Mariposa, Merced, and Tulare from the Southern District, transferred to the newly created Central District the counties of Los Angeles, Orange, Riverside, San Bernardino, San Louis Obispo, Santa Barbara, and Ventura from the Southern District, substituted Eureka, Oakland, San Francisco, and San Jose for Eureka, Sacramento, and San Francisco as places for holding court for the Northern District, removed Fresno and Los Angeles from the list of places for holding court for the Southern District leaving San Diego as the only place for holding of court in the Southern District, and provided for the holding of court in Los Angeles for the Central District and in Fresno, Redding, and Sacramento for the Eastern District.
+<b>1966</b>—Pub. L. 89–372 expanded the number of judicial districts in California from two to four by creating an Eastern and a Central District in addition to the existing Northern and Southern Districts, removed the provisions separating the Northern and Southern Districts into divisions, transferred to the newly created Eastern Division the counties of Alpine, Almador, Butte, Calaveras, Colusa, El Dorado, Glenn, Lassen, Modoc, Mono, Nevada, Placer, Plumas, Sacramento, San Joaquin, Shasta, Sierra, Siskiyou, Solano, Stanislaus, Sutter, Tehama, Trinity, Tuolumne, Yolo, and Yuba from the Northern District and Fresno, Inyo Kern, Kings, Madera, Mariposa, Merced, and Tulare from the Southern District, transferred to the newly created Central District the counties of Los Angeles, Orange, Riverside, San Bernardino, San Louis Obispo, Santa Barbara, and Ventura from the Southern District, substituted Eureka, Oakland, San Francisco, and San Jose for Eureka, Sacramento, and San Francisco as places for holding court for the Northern District, removed Fresno and Los Angeles from the list of places for holding court for the Southern District leaving San Diego as the only place for holding of court in the Southern District, and provided for the holding of court in Los Angeles for the Central District and in Fresno, Redding, and Sacramento for the Eastern District.
 
 #### Effective Date of 1992 Amendment
 
@@ -102,7 +102,7 @@ Section 1 of Pub. L. 102–357 provided that: “The Congress makes the followin
 
 #### Study of Judicial Business in Central District, California and Eastern District, New York and Recommendations for Creation of New Judicial Districts
 
-Pub. L. 95–573, §5, Nov. 2, 1978, 92 Stat. 2458, required the Director of the Administrative Office of the UnitedStates Courts to conduct a study of the judicial business of the Central District of California and the Eastern District of New York, within one year of Nov. 2, 1978, and to make recommendations to Congress with respect to the need for creation of new judicial districts.
+Pub. L. 95–573, §5, Nov. 2, 1978, 92 Stat. 2458, required the Director of the Administrative Office of the United States Courts to conduct a study of the judicial business of the Central District of California and the Eastern District of New York, within one year of Nov. 2, 1978, and to make recommendations to Congress with respect to the need for creation of new judicial districts.
 
 #### Creation of Eastern and Central Districts: Transfer of District Judges; Transfer and Appointment of United States Attorneys and United States Marshals
 

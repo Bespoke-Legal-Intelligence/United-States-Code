@@ -4,7 +4,7 @@
 
 (b) Ensigns who are found not fully qualified at any time shall have their commissions revoked and be separated from the commissioned service.
 
-(June 3, 1948, ch. 390, §6, 62 Stat. 298; June 21, 1955, ch. 172, §4(a), 69 Stat. 169; Sept. 14, 1961, Pub. L. 87–233, §1(b), 75 Stat. 506.)
+(June 3, 1948, ch. 390, §6, 62 Stat. 298; June 21, 1955, ch. 172, §4(a), 69 Stat. 169; Pub. L. 87–233, §1(b), Sept. 14, 1961, 75 Stat. 506.)
 
 #### Amendments
 

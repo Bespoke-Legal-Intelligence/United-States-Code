@@ -26,7 +26,7 @@ Projects constructed pursuant to this chapter shall be so located, operated, and
 
 Projects for the sealing of abandoned coal mines or the filling of voids in abandoned coal mines shall be determined by the Secretary of the Interior to be economically justified. The Secretary shall not find any project to be economically justified unless the potential benefits are estimated by him to exceed the estimated cost of the project.
 
-(July 15, 1955, ch. 369, §2, 69 Stat. 353; Oct. 15, 1962, Pub. L. 87–818, §1(2)–(7), 76 Stat. 934.)
+(July 15, 1955, ch. 369, §2, 69 Stat. 353; Pub. L. 87–818, §1(2)–(7), Oct. 15, 1962, 76 Stat. 934.)
 
 #### Amendments
 

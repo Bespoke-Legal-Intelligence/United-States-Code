@@ -1,0 +1,168 @@
+### §2501. Imposition of tax
+
+#### (a) Taxable transfers
+
+#### (1) General rule
+
+&emsp;A tax, computed as provided in section 2502, is hereby imposed for each calendar year on the transfer of property by gift during such calendar year by any individual resident or nonresident.
+
+#### (2) Transfers of intangible property
+
+&emsp;Except as provided in paragraph (3), paragraph (1) shall not apply to the transfer of intangible property by a nonresident not a citizen of the United States.
+
+#### (3) Exception
+
+#### (A) Certain individuals
+
+&emsp;&emsp;Paragraph (2) shall not apply in the case of a donor who, within the 10-year period ending with the date of transfer, lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.
+
+#### (B) Certain individuals treated as having tax avoidance purpose
+
+&emsp;&emsp;For purposes of subparagraph (A), an individual shall be treated as having a principal purpose to avoid such taxes if such individual is so treated under section 877(a)(2).
+
+#### (C) Exception for certain individuals
+
+&emsp;&emsp;Subparagraph (B) shall not apply to a donor meeting the requirements of section 877(c)(1).
+
+#### (D) Credit for foreign gift taxes
+
+&emsp;&emsp;The tax imposed by this section solely by reason of this paragraph shall be credited with the amount of any gift tax actually paid to any foreign country in respect of any gift which is taxable under this section solely by reason of this paragraph.
+
+#### (E) Cross reference
+
+&emsp;&emsp;<b>For comparable treatment of long-term lawful permanent residents who ceased to be taxed as residents, see section 877(e).</b>
+
+#### (4) Burden of proof
+
+&emsp;If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for paragraph (3), result in a substantial reduction for the calendar year in the taxes on the transfer of property by gift, the burden of proving that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on such individual.
+
+#### (5) Transfers to political organizations
+
+&emsp;Paragraph (1) shall not apply to the transfer of money or other property to a political organization (within the meaning of section 527(e)(1)) for the use of such organization.
+
+#### (b) Certain residents of possessions considered citizens of the United States
+
+A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “citizen” of the United States within the meaning of that term wherever used in this title unless he acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
+
+#### (c) Certain residents of possessions considered nonresidents not citizens of the United States
+
+A donor who is a citizen of the United States and a resident of a possession thereof shall, for purposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of theUnited States” within the meaning of that term wherever used in this title, but only if such donor acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
+
+#### (d) Cross references
+
+&emsp;&emsp;<b>(1) For increase in basis of property acquired by gift for gift tax paid, see section 1015(d).</b>
+
+&emsp;&emsp;<b>(2) For exclusion of transfers of property outside the United States by a nonresident who is not a citizen of the United States, see section 2511(a).</b>
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 403; Sept. 2, 1958, Pub. L. 85–866, title I, §§43(b), 102(b), 72 Stat. 1641, 1674; Sept. 14, 1960, Pub. L. 86–779, §4(d), 74 Stat. 1000; Nov. 13, 1966, Pub. L. 89–809, title I, §109(a), 80 Stat. 1574; Dec. 31, 1970, Pub. L. 91–614, title I, §102(a)(1), 84 Stat. 1838; Jan. 3, 1975, Pub. L. 93–625, §14(a), 88 Stat. 2121; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1902(a)(10), 1906(b)(13)(A), 90 Stat. 1805, 1834; Aug. 13, 1981, Pub. L. 97–34, title IV, §442(a)(1), 95 Stat. 320; Nov. 10, 1988, Pub. L. 100–647, title III, §3031(a)(2), 102 Stat. 3635; Nov. 5, 1990, Pub. L. 101–508, title XI, §11601(b)(2), 104 Stat. 1388–490; Aug. 21, 1996, Pub. L. 104–191, title V, §511(e)(2), (f)(2)(B), 110 Stat. 2098, 2100; Aug. 5, 1997, Pub. L. 105–34, title XVI, §1602(g)(5), 111 Stat. 1095.)
+
+#### Amendments
+
+<b>1997</b>—Subsec. (a)(3)(C). Pub. L. 105–34 substituted “donor” for “decedent”.
+
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–191, §511(e)(2), substituted “Exception” for “Exceptions” in heading and amended text generally. Prior to amendment, text read as follows: “Paragraph (2) shall not apply in the case of a donor who at any time after March 8, 1965, and within the 10-year period ending with the date of transfer lost United States citizenship unless—
+
+&emsp;“(A) such donor's loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487), or
+
+&emsp;“(B) such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
+
+Subsec. (a)(3)(E). Pub. L. 104–191, §511(f)(2)(B), added subpar. (E).
+
+<b>1990</b>—Subsec. (d)(3). Pub. L. 101–508 struck out par. (3) which read as follows: “For treatment of certain transfers related to estate tax valuation freezes as gifts to which this chapter applies, see section 2036(c)(4).”
+
+<b>1988</b>—Subsec. (d)(3). Pub. L. 100–647 added par. (3).
+
+<b>1981</b>—Subsec. (a)(1), (4). Pub. L. 97–34 substituted “calendar year” for “calendar quarter” wherever appearing.
+
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–455 inserted “for each calendar quarter” after “hereby imposed” and struck out “For the first calendar quarter of calendar year 1971 and each calendar quarter thereafter” after “General rule-”.
+
+Subsec. (a)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+<b>1975</b>—Subsec. (a)(5). Pub. L. 93–625 added par. (5).
+
+<b>1970</b>—Subsec. (a)(1). Pub. L. 91–614, §102(a)(1)(A), substituted “For the first calendar quarter of the calendar year 1971 and each calendar quarter thereafter” for “For the calendar year 1955 and each calendar year thereafter” and “during such calendar quarter” for “during such calendar year”.
+
+Subsec. (a)(4). Pub. L. 91–614, §102(a)(1)(B), substituted “calendar quarter” for “calendar year”.
+
+<b>1966</b>—Subsec. (a). Pub. L. 89–809 redesignated existing provisions as par. (1), struck out “, except transfers of intangible property by a nonresident not a citizen of the United States and who was not engaged in business in the United States during such calendar year” after “resident or nonresident”, and added pars. (2) to (4).
+
+<b>1960</b>—Subsec. (a). Pub. L. 86–779, §4(d)(2), struck out “who is” before “not a citizen”.
+
+Subsecs. (c), (d). Pub. L. 86–779, §4(d)(1), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+<b>1958</b>—Subsec. (b). Pub. L. 85–866, §102(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+Subsec. (c). Pub. L. 85–866, §102(b), redesignated former subsec. (b) as (c) and Pub. L. 85–866, §43(b), made the heading read in the plural, designated existing provisions as par. (2) and added par. (1).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–191 applicable to individuals losing United States citizenship on or after Feb. 6, 1995, and to long-term residents of the United States with respect to whom an event described in section 877(e)(1)(A) or (B) of this title occurs on or after Feb. 6, 1995, with special rule for certain individuals who performed an act of expatriation specified in section 1481(a)(1)–(4) of Title 8, Aliens and Nationality, before Feb. 6, 1995, see section 511(g) of Pub. L. 104–191, set out as a note under section 877 of this title.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–508 applicable in the case of property transferred after Dec. 17, 1987, see section 11601(c) of Pub. L. 101–508, set out as a note under section 2036 of this title.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–647 applicable in cases where transfer referred to in section 2036(c)(1)(B) of this title is on or after June 21, 1988, see section 3031(h)(2) of Pub. L. 100–647, set out as a note under section 2036 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Section 442(e) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section and sections 1015, 2502, 2503, 2504, 2505, 2512, 2513, 2522, 6019, 6075, and 6212 of this title\] shall apply with respect to gifts made after December 31, 1981.”
+
+#### Effective Date of 1976 Amendment
+
+Section 1902(c)(2) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(j)(12), Nov. 6, 1978, 92 Stat. 2942, provided that: “The amendments made by paragraphs (10), (11), and (12)(D) and (E) of subsection (a) \[amending this section and sections 2522 and 2523 of this title\] shall apply with respect to gifts made after December 31, 1976.”
+
+#### Effective Date of 1975 Amendment
+
+Section 14(b) of Pub. L. 93–625 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transfers made after May 7, 1974.”
+
+#### Effective Date of 1970 Amendment
+
+Section 102(e) of Pub. L. 91–614 provided that: “The amendments made by this section \[amending this section and sections 1015, 2012, 2502, 2503, 2504, 2512, 2513, 2515, 2521, 2522, 2523, 6019, 6075, 6212, 6214, 6324, 6501, and 6512 of this title and enacting provisions set out as a note under this section\] shall apply with respect to gifts made after December 31, 1970.”
+
+#### Effective Date of 1966 Amendment
+
+Section 109(c) of Pub. L. 89–809 provided that: “The amendments made by this section \[amending this section and section 2511 of this title\] shall apply with respect to the calendar year 1967 and all calendar years thereafter.”
+
+#### Effective Date of 1960 Amendment
+
+Section 4(e)(3) of Pub. L. 86–779 provided that: “The amendments made by subsection (d) \[amending this section\] shall apply with respect to gifts made after the date of the enactment of this Act \[Sept. 14, 1960\].”
+
+#### Effective Date of 1958 Amendment
+
+Amendment by Pub. L. 85–866 applicable to gifts made after September 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under section 2011 of this title.
+
+#### Election To Have Amendments by Title IV of the Economic Recovery Tax Act of 1981 Not Apply
+
+Pub. L. 97–448, title I, §104(d)(3), Jan. 12, 1983, 96 Stat. 2383, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+
+“(A) In the case of any decedent—
+
+&emsp;“(i) who dies before August 13, 1984, and
+
+&emsp;“(ii) who made a gift (before August 13, 1981, and during the 3-year period ending on the date of the decedent's death) on which tax imposed by chapter 12 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] has been paid before April 16, 1982,
+
+> such decedent's executor may make an election to have subtitle B of such Code (relating to estate and gift taxes) applied with respect to such decedent without regard to any of the amendments made by title IV of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34, title IV\].
+
+“(B) An election under subparagraph (A) shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe.
+
+“(C) An election under subparagraph (A), once made, shall be irrevocable.”
+
+#### Cross References
+
+Gross income as not including gifts, see section 102 of this title.
+
+Taxable gifts defined, see section 2503 of this title.
+
+Transfers, see section 2511 et seq. of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 305, 351, 877, 2056A, 2502, 2505, 2511, 2523, 2661 of this title.
+

@@ -2,7 +2,7 @@
 
 #### (a) Composition
 
-Upon the enactment of this chapter the membership of the initial board of governors of the corporation shall consist of the persons named in section 971 of this title, their survivors and such additional persons, if any, as shall be named by them.
+Upon the enactment of this chapter the membership of the initial board of governors of thecorporation shall consist of the persons named in section 971 of this title, their survivors and such additional persons, if any, as shall be named by them.
 
 #### (b) Tenure
 

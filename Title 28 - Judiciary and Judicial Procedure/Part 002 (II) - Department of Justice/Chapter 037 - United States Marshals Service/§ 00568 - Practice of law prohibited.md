@@ -12,7 +12,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 28 U.S.C. 556.
 
@@ -38,5 +40,5 @@ A prior section 568, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620
 
 #### Amendments
 
-1988—Pub. L. 100–690 renumbered section 575 of this title as this section.
+<b>1988</b>—Pub. L. 100–690 renumbered section 575 of this title as this section.
 

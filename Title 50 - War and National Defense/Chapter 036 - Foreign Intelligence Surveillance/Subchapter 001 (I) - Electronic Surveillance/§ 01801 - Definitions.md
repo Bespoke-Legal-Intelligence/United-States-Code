@@ -46,13 +46,13 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(C) to affect the conduct of a government by assassination or kidnapping; and
 
-&emsp;&emsp;(3) occur totally outside the United States, or transcend national boundaries in terms of the means by which they are accomplished, the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
+&emsp;&emsp;(3) occur totally outside the United States, or transcend national boundaries in terms of the means by which they are accomplished,the persons they appear intended to coerce or intimidate, or the locale in which their perpetrators operate or seek asylum.
 
 &emsp;(d) “Sabotage” means activities that involve a violation of chapter 105 of title 18, or that would involve such a violation if committed against the United States.
 
 &emsp;(e) “Foreign intelligence information” means—
 
-&emsp;&emsp;(1) information that relates to, and if concerning a United States person is necessaryto, the ability of the United States to protect against—
+&emsp;&emsp;(1) information that relates to, and if concerning a United States person is necessary to, the ability of the United States to protect against—
 
 &emsp;&emsp;&emsp;(A) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
 
@@ -96,7 +96,7 @@ As used in this subchapter:
 
 &emsp;(<i>l</i>) “Wire communication” means any communication while it is being carried by a wire, cable, or other like connection furnished or operated by any person engaged as a common carrier in providing or operating such facilities for the transmission of interstate or foreign communications.
 
-&emsp;(m) “Person” means any individual, including any officer or employee of the Federal Government, or any group, entity, association, corporation, or foreign power.
+&emsp;(m) “Person” means any individual, including any officer or employee of the FederalGovernment, or any group, entity, association, corporation, or foreign power.
 
 &emsp;(n) “Contents”, when used with respect to a communication, includes any information concerning the identity of the parties to such communication or the existence, substance, purport, or meaning of that communication.
 

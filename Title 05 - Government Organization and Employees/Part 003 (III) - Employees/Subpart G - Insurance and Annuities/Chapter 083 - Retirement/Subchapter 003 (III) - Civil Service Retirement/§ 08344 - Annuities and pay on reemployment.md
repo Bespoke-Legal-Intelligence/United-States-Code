@@ -12,7 +12,7 @@
 
 > becomes employed in an appointive or elective position, his service on and after the date he is so employed is covered by this subchapter. Deductions for the Fund may not be withheld from his pay unless the individual elects to have such deductions withheld under subparagraph (A). An amount equal to the annuity allocable to the period of actual employment shall be deducted from his pay, except for lump-sum leave payment purposes under section 5551 of this title. The amounts so deducted shall be deposited in the Treasury of the United States to the credit of the Fund. If the annuitant serves on a full-time basis, except as President, for at least 1 year, on a part-time basis for periods equivalent to at least 1 year of full-time service, in employment not excluding him from coverage under section 8331(1)(i) or (ii) of this title—
 
-&emsp;(A) deductions for the Fund may be withheld from his pay (if the employee so elects), and his annuity on termination of employment is increased by an annuity computed under section 8339(a), (b), (d), (e), (h), (i), (n), and (q) of this title as may apply based on the period of employment and the basic pay, before deduction, averaged during that employment; and
+&emsp;(A) deductions for the Fund may be withheld from his pay (if the employee so elects), and his annuity on termination of employment is increased by an annuity computed under section 8339(a), (b), (d), (e), (h), (i), (n), (q), and (r) as may apply based on the period of employment and the basic pay, before deduction, averaged during that employment; and
 
 &emsp;(B) his lump-sum credit may not be reduced by annuity paid during that employment.
 
@@ -74,19 +74,19 @@
 
 &emsp;(A) with respect to an employee of an agency in the legislative branch, by the head of such agency;
 
-&emsp;(B) with respect to an employee of the House of Representatives, by the Speaker of the House of Representatives; and
+&emsp;(B) with respect to an employee of the House of Representatives, by the Committee on House Oversight of the House of Representatives; and
 
 &emsp;(C) with respect to an employee of the Senate, by the Committee on Rules and Administration of the Senate.
 
-(3) Any exercise of authority under this subsection shall be in conformance with such written policies and procedures as the agency head, the Speaker of the House of Representatives, or the Committee on Rules and Administration of the Senate (as applicable) shall prescribe, consistent with the provisions of this subsection.
+(3) Any exercise of authority under this subsection shall be in conformance with such written policies and procedures as the agency head, the Committee on House Oversight of the House of Representatives, or the Committee on Rules and Administration of the Senate (as applicable) shall prescribe, consistent with the provisions of this subsection.
 
 (4) For the purpose of this subsection, “agency in the legislative branch”, “employee of the House of Representatives”, “employee of the Senate”, and “congressional employee” each has the meaning given to it in section 5531 of this title.
 
 (<i>l</i>)(1) For the purpose of subsections (i) through (k), “Executive agency” shall not include the General Accounting Office.
 
-(2) An employee as to whom a waiver under subsection (i), (j), or (k) is in effect shall not be considered an employee for purposes of this chapter or chapter 84 of this title.
+(2) An employee as to whom a waiver under subsection (i), (j), or (k) is in effect shall not beconsidered an employee for purposes of this chapter or chapter 84 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 581; Pub. L. 90–83, §1(83), Sept. 11, 1967, 81 Stat. 217; Pub. L. 91–375, §6(c)(20), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–658, §4, Jan. 8, 1971, 84 Stat. 1962; Pub. L. 92–297, §7(5), May 16, 1972, 86 Stat. 145; Pub. L. 94–397, §1(a)–(c), Sept. 3, 1976, 90 Stat. 1202, 1303; Pub. L. 95–454, title IX, §906(a)(14), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 95–598, title III, §338(d), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §4, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 96–504, §1, Dec. 5, 1980, 94 Stat. 2741; Pub. L. 97–141, §5(a), Dec. 29, 1981, 95 Stat. 1719; Pub. L. 97–276, §151(g), Oct. 2, 1982, 96 Stat. 1202; Pub. L. 97–346, §3(j)(2), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403; Pub. L. 98–525, title XV, §1537(e), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(<i>l</i>), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat. 3341–308; Pub. L. 100–202, §§101(<i>l</i>) \[title I\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–428, §2(d)(8), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–509, title V, §529 \[title I, §108(b)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(2), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(b), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 581; Pub. L. 90–83, §1(83), Sept. 11, 1967, 81 Stat. 217; Pub. L. 91–375, §6(c)(20), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–658, §4, Jan. 8, 1971, 84 Stat. 1962; Pub. L. 92–297, §7(5), May 16, 1972, 86 Stat. 145; Pub. L. 94–397, §1(a)–(c), Sept. 3, 1976, 90 Stat. 1202, 1303; Pub. L. 95–454, title IX, §906(a)(14), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 95–598, title III, §338(d), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 96–179, §4, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 96–504, §1, Dec. 5, 1980, 94 Stat. 2741; Pub. L. 97–141, §5(a), Dec. 29, 1981, 95 Stat. 1719; Pub. L. 97–276, §151(g), Oct. 2, 1982, 96 Stat. 1202; Pub. L. 97–346, §3(j)(2), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–353, title I, §112, July 10, 1984, 98 Stat. 343; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403; Pub. L. 98–525, title XV, §1537(e), Oct. 19, 1984, 98 Stat. 2636; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 351; Pub. L. 99–500, §101(<i>l</i>), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(<i>l</i>), Oct. 30, 1986, 100 Stat. 3341–308; Pub. L. 100–202, §§101(<i>l</i>) \[title I\], 106, Dec. 22, 1987, 101 Stat. 1329–358, 1329–362, 1329–433; Pub. L. 100–457, title I, Sept. 30, 1988, 102 Stat. 2129; Pub. L. 101–428, §2(d)(8), Oct. 15, 1990, 104 Stat. 929; Pub. L. 101–509, title V, §529 \[title I, §108(b)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(2), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(b), Dec. 5, 1991, 105 Stat. 1391; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(6), Oct. 10, 1997, 111 Stat. 1306.)
 
 Historical and Revision Notes<br>1966
 
@@ -156,6 +156,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+1997—Subsec. (a)(A). Pub. L. 105–61 substituted “(q), and (r)” for “and (q) of this title”.
+
+Subsec. (k)(2)(B), (3). Pub. L. 105–55 substituted “the Committee on House Oversight of the House of Representatives” for “the Speaker of the House of Representatives”.
+
 1992—Subsec. (i). Pub. L. 102–378 repealed Pub. L. 101–510, §1206(j)(2). See 1990 Amendment note below.
 
 1991—Subsec. (i)(3). Pub. L. 102–190, §655(b)(2), struck out par. (3) which read as follows: “An employee to whom a waiver under subparagraph (A) or (B) of paragraph (1) applies shall not be deemed an employee for the purposes of this chapter or chapter 84 while such waiver is in effect.”
@@ -164,7 +168,7 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 102–190, §655(b)(1), added subsecs. (j) t
 
 1990—Subsec. (a)(A). Pub. L. 101–428 substituted “(i), (n), and (q)” for “(i), and (n)”.
 
-Subsec. (i). Pub. L. 101–510, §1206(j)(2), added a subsec. (i) identical to that added by Pub. L. 101–509, see below.Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(2), and provided that this title shall read as if such section 1206(j)(2) had not been enacted.
+Subsec. (i). Pub. L. 101–510, §1206(j)(2), added a subsec. (i) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(2), and provided that this title shall read as if such section 1206(j)(2) had not been enacted.
 
 Pub. L. 101–509 added subsec. (i).
 
@@ -215,6 +219,10 @@ Subsec. (e). Pub. L. 94–397, §1(b), redesignated former subsec. (c) as (e).
 1971—Subsec. (a). Pub. L. 91–658 substituted provisions respecting reemployed annuitants and reduction in their annuity and increase in survivor annuity, notice to Commission of a desire not to increase the survivor annuity, increase in survivor annuity where annuitant dies while still reemployed, and redetermination of rights to survivor annuity where reemployment continued for five or more years upon election to deposit in the Fund, for prior provision that employment of an annuitant did not create an annuity for or affect the annuity of a survivor.
 
 1970—Subsec. (c). Pub. L. 91–375 added subsec. (c).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -300,5 +308,5 @@ Pub. L. 94–252, Mar. 30, 1976, 90 Stat. 294, provided that: “On and after th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 8339 of this title; title 20 section 4512; title 22 sections 2512, 2584; title 28 sections 625, 634; title 39 section 1005.
+This section is referred to in section 8339 of this title; title 16 section 463; title 20 section 4512; title 22 sections 2512, 2584; title 28 sections 625, 634; title 39 section 1005.
 

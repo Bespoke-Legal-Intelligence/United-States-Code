@@ -2,7 +2,7 @@
 
 #### (a) Federally assisted emergency assistance activities
 
-No person in any State shall, on the ground of race, color, religion, national origin, or sex, be excluded from participation in, be denied the benefits of, be subjected to discrimination under, or be denied employment in connection with any activity for which Federal law enforcement assistance is provided under this chapter.
+No person in any State shall, on the ground of race, color, religion, national origin, or sex, beexcluded from participation in, be denied the benefits of, be subjected to discrimination under, or be denied employment in connection with any activity for which Federal law enforcement assistance is provided under this chapter.
 
 #### (b) Provisions of section 3789d(c)(3) and (4) of this title applicable to violations
 

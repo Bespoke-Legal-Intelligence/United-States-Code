@@ -32,7 +32,7 @@ Definitions.—As used in this section—
 
 &emsp;(2) the term “WTO member country” has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Nov. 14, 1975, Pub. L. 94–131, §6, 89 Stat. 691; Nov. 8, 1984, Pub. L. 98–622, title IV, §403(a), 98 Stat. 3392; Dec. 8, 1993, Pub. L. 103–182, title III, §331, 107 Stat. 2113; Dec. 8, 1994, Pub. L. 103–465, title V, §531(a), 108 Stat. 4982.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §6, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–182, title III, §331, Dec. 8, 1993, 107 Stat. 2113; Pub. L. 103–465, title V, §531(a), Dec. 8, 1994, 108 Stat. 4982.)
 
 #### Historical and Revision Notes
 

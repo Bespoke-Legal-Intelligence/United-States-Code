@@ -4,7 +4,7 @@ December 7 of each year is designated as “National Pearl Harbor Remembrance Da
 
 &emsp;(1) to issue annually a proclamation calling on the people of the United States to observe the day with appropriate ceremonies and activities; and
 
-&emsp;(2) to urge all Federal agencies, and interested organizations, groups, and individuals, to fly the flag of the United States at halfstaff each December 7 in honor of the individuals who died as a result of their service at Pearl Harbor.
+&emsp;(2) to urge all Federal agencies, and interested organizations, groups, and individuals,to fly the flag of the United States at halfstaff each December 7 in honor of the individuals who died as a result of their service at Pearl Harbor.
 
 (Pub. L. 103–308, Aug. 23, 1994, 108 Stat. 1669.)
 

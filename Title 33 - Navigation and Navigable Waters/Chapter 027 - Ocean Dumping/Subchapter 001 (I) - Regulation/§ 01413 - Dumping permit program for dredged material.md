@@ -18,7 +18,7 @@ In making the determination required by subsection (a) of this section, the Secr
 
 #### (1) Notification
 
-&emsp;Prior to issuing a permit to any person under this section, the Secretary shall first notify the Administrator of the Secretary's intention to do so and provide necessary and appropriate information concerning the permit to the Administrator. Within 30 days of receiving such information, the Administrator shall review the information and request any additional information the Administrator deems necessary to evaluate the proposed permit.
+&emsp;Prior to issuing a permit to any person under this section, the Secretary shall first notify the Administrator of the Secretary's intention to do so and provide necessary and appropriate information concerning the permit to the Administrator. Within 30 days of receiving such information, the Administrator shallreview the information and request any additional information the Administrator deems necessary to evaluate the proposed permit.
 
 #### (2) Concurrence by Administrator
 
@@ -38,7 +38,7 @@ In making the determination required by subsection (a) of this section, the Secr
 
 #### (d) Waiver of requirements
 
-If, in any case, the Secretary finds that, in the disposition of dredged material, there is no economically feasible method or site available other than a dumping site the utilization of which would result in non-compliance with the criteria established pursuant to section 1412(a) of this title relating to the effects of dumping orwith the restrictions established pursuant to section 1412(c) of this title relating to critical areas, he shall so certify and request a waiver from the Administrator of the specific requirements involved. Within thirty days of the receipt of the waiver request, unless the Administrator finds that the dumping of the material will result in an unacceptably adverse impact on municipal water supplies, shell-fish beds, wildlife, fisheries (including spawning and breeding areas), or recreational areas, he shall grant the waiver.
+If, in any case, the Secretary finds that, in the disposition of dredged material, there is no economically feasible method or site available other than a dumping site the utilization of which would result in non-compliance with the criteria established pursuant to section 1412(a) of this title relating to the effects of dumping or with the restrictions established pursuant to section 1412(c) of this title relating to critical areas, he shall so certify and request a waiver from the Administrator of the specific requirements involved. Within thirty days of the receipt of the waiver request, unless the Administrator finds that the dumping of the material will result in an unacceptably adverse impact on municipal water supplies, shell-fish beds, wildlife, fisheries (including spawning and breeding areas), or recreational areas, he shall grant the waiver.
 
 #### (e) Federal projects involving dredged material
 

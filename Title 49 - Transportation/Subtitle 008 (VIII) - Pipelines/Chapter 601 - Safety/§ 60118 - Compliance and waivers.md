@@ -16,7 +16,7 @@ Compliance Orders.—The Secretary of Transportation may issue orders directing 
 
 (c)
 
-Waivers by Secretary.—On application of a person owning or operating a pipeline facility, the Secretary by order may waive compliancewith any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing.
+Waivers by Secretary.—On application of a person owning or operating a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing.
 
 (d)
 

@@ -2,47 +2,9 @@
 
 (a)
 
-Northeast Corridor Improvement Plan.—To the extent of amounts appropriated under section 24909 of this title, Amtrak shall carry out a Northeast Corridor improvement program to achieve the following goals:
-
-&emsp;(1) establish not later than September 30, 1985, regularly scheduled and dependable intercity rail passenger transportation between—
-
-&emsp;&emsp;(A) Boston, Massachusetts, and New York, New York, in not more than 3 hours and 40 minutes, including intermediate stops; and
-
-&emsp;&emsp;(B) New York, New York, and the District of Columbia, in not more than 2 hours and 40 minutes, including intermediate stops;
-
-&emsp;(2) improve facilities, under route criteria approved by Congress, on routes to Harrisburg, Pennsylvania, Albany, New York, and Atlantic City, New Jersey, from the Northeast Corridor main line, and to Boston, Massachusetts, and New Haven, Connecticut, from Springfield, Massachusetts, to make those facilities more compatible with improved high-speed transportation provided on the Northeast Corridor main line;
-
-&emsp;(3) improve nonoperational parts of stations, related facilities, and fencing used in intercity rail passenger transportation;
-
-&emsp;(4) facilitate improvements in, and usage of, commuter rail passenger, rail rapid transit, and local public transportation, to the extent compatible with clauses (1)–(3) of this subsection and subsections (f) and (h) of this section;
-
-&emsp;(5) maintain and improve rail freight transportation in or adjacent to the Northeast Corridor and through-freight transportation in the Northeast Corridor, to the extent compatible with clauses (1)–(4) of this subsection and subsections (f) and (h) of this section;
-
-&emsp;(6) continue and improve passenger radio mobile telephone service on high-speed rail passenger transportation between Boston, Massachusetts, and the District of Columbia, to the extent compatible with clauses (1)–(3) of this subsection and subsections (f) and (h) of this section; and
-
-&emsp;(7) eliminate to the maximum extent practicable congestion in rail freight and rail passenger transportation at the Baltimore and Potomac Tunnel in Baltimore, Maryland, by rehabilitating and improving the tunnel and the rail lines approaching the tunnel.
-
-(b)
-
 Managing Costs and Revenues.—Amtrak shall manage its operating costs, pricing policies, and other factors with the goal of having revenues derived each fiscal year from providing intercity rail passenger transportation over the Northeast Corridor route between the District of Columbia and Boston, Massachusetts, equal at least the operating costs of providing that transportation in that fiscal year.
 
-(c)
-
-Cost Sharing for Nonoperational Facilities.—(1) Fifty percent of the cost of improvements under subsection (a)(3) of this section shall be paid by a State, local or regional transportation authority or other responsible party. However, Amtrak may finance entirely a safety-related improvement.
-
-(2) When a part of the cost of improvements under subsection (a)(3) of this section will be paid by a responsible party under paragraph (1) of this subsection, Amtrak may make an agreement with the party under which Amtrak—
-
-&emsp;(A) shall carry out the improvements with amounts appropriated under section 24909 of this title and the party shall reimburse Amtrak; and
-
-&emsp;(B) to the extent provided in an appropriation law, may incur obligations for contracts to carry out the improvements in anticipation of reimbursement.
-
-(3) Amounts reimbursed to Amtrak under paragraph (2) of this subsection shall be credited to the appropriation originally charged for the cost of the improvements and are available for further obligation.
-
-(d)
-
-Passenger Radio Mobile Telephone Service.—The President and departments, agencies, and instrumentalities of the United States Government shall assist Amtrak under subsection (a)(6) of this section, subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.) and radio services standards, when the Federal Communications Commission decides the assistance is in the public interest, convenience, and necessity.
-
-(e)
+(b)
 
 Priorities in Selecting and Scheduling Projects.—When selecting and scheduling specific projects, Amtrak shall apply the following considerations, in the following order of priority:
 
@@ -60,23 +22,23 @@ Priorities in Selecting and Scheduling Projects.—When selecting and scheduling
 
 &emsp;(7) Planning should focus on completing activities that will provide immediate benefits to users of the Northeast Corridor.
 
-(f)
+(c)
 
 Compatibility With Future Improvements and Production of Maximum Labor Benefits.—Improvements under this section shall be compatible with future improvements in transportation and shall produce the maximum labor benefit from hiring individuals presently unemployed.
 
-(g)
+(d)
 
 Automatic Train Control Systems.—A train operating on the Northeast Corridor main line or between the main line and Atlantic City shall be equipped with an automatic train control system designed to slow or stop the train in response to an external signal.
 
-(h)
+(e)
 
 High-Speed Transportation.—If practicable, Amtrak shall establish intercity rail passenger transportation in the Northeast Corridor that carries out section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976 (Public Law 94–210, 90 Stat. 121).
 
-(i)
+(f)
 
 Equipment Development.—Amtrak shall develop economical and reliable equipment compatible with track, operating, and marketing characteristics of the Northeast Corridor, including the capability to meet reliable trip times under section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976 (Public Law 94–210, 90 Stat. 121) in regularly scheduled revenue transportation in the Corridor, when the Northeast Corridor improvement program is completed. Amtrak must decide that equipment complies with this subsection before buying equipment with financial assistance of the Government. Amtrak shall submit a request for an authorization of appropriations for production of the equipment.
 
-(j)
+(g)
 
 Agreements for Off-Corridor Routing of Rail Freight Transportation.—(1) Amtrak may make an agreement with a rail freight carrier or a regional transportation authority under which the carrier will carry out an alternate off-corridor routing of rail freight transportation over rail lines in the Northeast Corridor between the District of Columbia and New York metropolitan areas, including intermediate points. The agreement shall be for at least 5 years.
 
@@ -84,7 +46,7 @@ Agreements for Off-Corridor Routing of Rail Freight Transportation.—(1) Amtrak
 
 (3) If an agreement is not made under paragraph (1) of this subsection, Amtrak, with the consent of the other parties, may apply to the Interstate Commerce Commission. Not later than 90 days after the application, the Commission shall decide on the terms of an agreement if it decides that doing so is necessary to carry out this chapter. The decision of the Commission is binding on the other parties.
 
-(k)
+(h)
 
 Coordination.—(1) The Secretary of Transportation shall coordinate—
 
@@ -94,15 +56,15 @@ Coordination.—(1) The Secretary of Transportation shall coordinate—
 
 (2) If the Secretary finds significant noncompliance with this section, the Secretary may deny financing to a noncomplying program until the noncompliance is corrected.
 
-(<i>l</i>)
+(i)
 
 Completion.—Amtrak shall give the highest priority to completing the program.
 
-(m)
+(j)
 
-Applicable Procedures.—No State or local building, zoning, subdivision, or similar or related law, nor any other State or local law from which a project would be exempt if undertaken by the Federal Government or an agency thereof within a Federal enclave wherein Federal jurisdiction is exclusive, including without limitation with respect to all such laws referenced herein above requirements for permits, actions, approvals or filings, shall apply in connection with the construction, ownership, use, operation, financing, leasing, conveying, mortgaging or enforcing a mortgage of (i) any improvement undertaken by or for the benefit ofAmtrak as part of, or in furtherance of, the Northeast Corridor Improvement Project (including without limitation maintenance, service, inspection or similar facilities acquired, constructed or used for high speed trainsets) or chapter 241, 243, or 247 of this title or (ii) any land (and right, title or interest created with respect thereto) on which such improvement is located and adjoining, surrounding or any related land. These exemptions shall remain in effect and be applicable with respect to such land and improvements for the benefit of any mortgagee before, upon and after coming into possession of such improvements or land, any third party purchasers thereof in foreclosure (or through a deed in lieu of foreclosure), and their respective successors and assigns, in each case to the extent the land or improvements are used, or held for use, for railroad purposes or purposes accessory thereto. This subsection (m) shall not apply to any improvement or related land unless Amtrak receives a Federal operating subsidy in the fiscal year in which Amtrak commits to or initiates such improvement.
+Applicable Procedures.—No State or local building, zoning, subdivision, or similar or related law, nor any other State or local law from which a project would be exempt if undertaken by the Federal Government or an agency thereof within a Federal enclave wherein Federal jurisdiction is exclusive, including without limitation with respect to all such laws referenced herein above requirements for permits, actions, approvals or filings, shall apply in connection with the construction, ownership, use, operation, financing, leasing, conveying, mortgaging or enforcing a mortgage of (i) any improvement undertaken by or for the benefit of Amtrak as part of, or in furtherance of, the Northeast Corridor Improvement Project (including without limitation maintenance, service, inspection or similar facilities acquired, constructed or used for high speed trainsets) or chapter 241, 243, or 247 of this title or (ii) any land (and right, title or interest created with respect thereto) on which such improvement is located and adjoining, surrounding or any related land. These exemptions shall remain in effect and be applicable with respect to such land and improvements for the benefit of any mortgagee before, upon and after coming into possession of such improvements or land, any third party purchasers thereof in foreclosure (or through a deed in lieu of foreclosure), and their respective successors and assigns, in each case to the extent the land or improvements are used, or held for use, for railroad purposes or purposes accessory thereto. This subsection shall not apply to any improvement or related land unless Amtrak receives a Federal operating subsidy in the fiscal year in which Amtrak commits to or initiates such improvement.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 930; Pub. L. 104–205, title III, §334, Sept. 30, 1996, 110 Stat. 2974.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 930; Pub. L. 104–205, title III, §334, Sept. 30, 1996, 110 Stat. 2974; Pub. L. 105–134, title IV, §405(b)(1), Dec. 2, 1997, 111 Stat. 2586.)
 
 Historical and Revision Notes
 
@@ -280,7 +242,7 @@ In subsection (c)(2)(B), the words “and in the amounts” are omitted as surpl
 
 In subsection (d), the words “department, agencies, and instrumentalities of the United States Government” are substituted for “relevant Federal agencies, including the Federal Communications Commission” for consistency in the revised title and with other titles of the United States Code. The words “shall assist Amtrak under subsection (a)(6) of this section” are substituted for “shall take such actions as are necessary to achieve this goal” for clarity. The words “including necessary licensing, construction, operation, and maintenance” are omitted as surplus.
 
-In subsection (e), before clause (1), the words “of priority” are added for clarity. In clause (2), the words “Potential ridership should be considered” are omitted as surplus. In clause (5), the words “Reducing maintenance cost levels is desirable” are omitted as surplus. The words “before other improvements” are added for clarity.
+In subsection (e), before clause (1), the words “of priority” are added for clarity. In clause (2), the words “Potential ridership should be considered” are omittedas surplus. In clause (5), the words “Reducing maintenance cost levels is desirable” are omitted as surplus. The words “before other improvements” are added for clarity.
 
 In subsection (f), the words “accomplished in a manner which is”, “the accomplishment in the . . . of additional”, and “levels” are omitted as surplus.
 
@@ -300,11 +262,11 @@ In subsection (k)(1), before clause (A), the words “take all steps necessary t
 
 #### References in Text
 
-The Communications Act of 1934, referred to in subsec. (d), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
-
-Section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (h) and (i), is section 703(1)(E) of Pub. L. 94–210, which was classified to section 853(1)(E) of Title 45, Railroads, and was repealed and reenacted as subsec. (h) of this section by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 932, 1379.
+Section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (e) and (f), is section 703(1)(E) of Pub. L. 94–210, which was classified to section 853(1)(E) of Title 45, Railroads, and was repealed and reenacted as subsec. (h) of this section by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 932, 1379.
 
 #### Amendments
+
+1997—Pub. L. 105–134 redesignated subsec. (b) as (a) and subsecs. (e) to (m) as (b) to (j), respectively, in subsec. (j) struck out “(m)” after “This subsection”, and struck out former subsecs. (a), (c), and (d) which related to Northeast Corridor improvement plan, cost sharing for nonoperational facilities, and passenger radio mobile telephone service, respectively.
 
 1996—Subsec. (m). Pub. L. 104–205 added subsec. (m).
 

@@ -2,35 +2,25 @@
 
 (a)
 
-Capital Acquisition and Corridor Development.—(1) Not more than $250,000,000 may be appropriated to the Secretary of Transportation for each of the fiscal years ending September 30, 1993, and September 30, 1994, for the benefit of Amtrak to make capital expenditures under chapters 243–247 of this title.
+In General.—There are authorized to be appropriated to the Secretary of Transportation—
 
-(2) In addition to amounts that may be appropriated under section 24909 of this title, not more than the following amounts may be appropriated to the Secretary for the benefit of Amtrak to make capital expenditures under chapter 249 of this title:
+&emsp;(1) $1,138,000,000 for fiscal year 1998;
 
-&emsp;(A) $220,000,000 for the fiscal year ending September 30, 1993.
+&emsp;(2) $1,058,000,000 for fiscal year 1999;
 
-&emsp;(B) $250,000,000 for the fiscal year ending September 30, 1994.
+&emsp;(3) $1,023,000,000 for fiscal year 2000;
 
-(3)(A) Not more than 15 percent of each of the amounts appropriated under paragraphs (1) and (2) of this subsection is available for transportation described in subparagraphs (B) and (C) of this paragraph.
+&emsp;(4) $989,000,000 for fiscal year 2001; and
 
-(B) Amounts made available under subparagraph (A) of this paragraph shall be used to develop new intercity rail passenger transportation on corridors between cities undergoing significant population growth and in which the transportation reasonably can be expected to provide travel times comparable with other surface transportation modes. An amount may be expended for the transportation only if a State requests the transportation and the State and Amtrak agree that—
+&emsp;(5) $955,000,000 for fiscal year 2002,
 
-&emsp;(i) Amtrak will pay at least 90 percent of the cost of acquiring rolling stock for the transportation; and
-
-&emsp;(ii) the State will pay at least 90 percent of the cost of improving the right of way, including track structure, signal systems, passenger station facilities, highway and pedestrian grade crossings, and other safety equipment and facilities.
-
-(C) Amounts made available under subparagraph (A) of this paragraph shall be used to begin new long distance intercity rail passenger transportation. An amount may be expended for the transportation only if a State requests the transportation and the State and Amtrak agree that—
-
-&emsp;(i) Amtrak will pay at least 75 percent of the cost of acquiring rolling stock for the transportation; and
-
-&emsp;(ii) the State will pay at least 90 percent of the cost of improving the right of way, including track structure, signal systems, passenger station facilities, highway and pedestrian grade crossings, and other safety equipment and facilities.
-
-(D) Section 24704 of this title applies to the operating expenses of transportation described in subparagraphs (B) and (C) of this paragraph.
+> for the benefit of Amtrak for capital expenditures under chapters 243, 247, and 249 of this title, operating expenses, and payments described in subsection (c)(1)(A) through (C). In fiscal years following the fifth anniversary of the enactment of the Amtrak Reform and Accountability Act of 1997 no funds authorized for Amtrak shall be used for operating expenses other than those prescribed for tax liabilities under section 3221 of the Internal Revenue Code of 1986 that are more than the amount needed for benefits of individuals who retire from Amtrak and for their beneficiaries.
 
 (b)
 
-Operating Expenses.—(1) Not more than $381,000,000 may be appropriated to the Secretary for each of the fiscal years ending September 30, 1993, and September 30, 1994, for the benefit of Amtrak for operating expenses. Not more than 5 percent of the amounts appropriated for each fiscal year shall be used to pay operating expenses under section 24704 of this title for transportation in operation on September 30, 1992.
+Operating Expenses.—(1) Not more than $381,000,000 may be appropriated to the Secretary for each of the fiscal years ending September 30, 1993, and September 30, 1994, for the benefit of Amtrak for operating expenses. Not more than 5 percent of the amounts appropriated for each fiscal year shall be used to pay operating expenses under section 24704 <sup>1</sup> of this title for transportation in operation on September 30, 1992.
 
-(2)(A) Not more than the following amounts may be appropriated to the Secretary for the benefit of Amtrak for operating losses under section 24704 of this title for transportation beginning after September 30, 1992:
+(2)(A) Not more than the following amounts may be appropriated to the Secretary for the benefit of Amtrak for operating losses under section 24704 <sup>1</sup> of this title for transportation beginning after September 30, 1992:
 
 &emsp;(i) $7,500,000 for the fiscal year ending September 30, 1993.
 
@@ -70,7 +60,7 @@ Availability of Amounts and Early Appropriations.—(1) Amounts appropriated und
 
 Limitations on Use.—Amounts appropriated under this section may not be used to subsidize operating losses of commuter rail passenger or rail freight transportation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 902.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 902; Pub. L. 105–134, title III, §301(a), Dec. 2, 1997, 111 Stat. 2585.)
 
 Historical and Revision Notes
 
@@ -122,7 +112,39 @@ In subsection (d), before clause (1), the words “by the Secretary” and “fo
 
 In subsection (e)(2), the words “Funds appropriated pursuant to this section shall be made available to the Secretary during the fiscal year for which appropriated” are omitted as surplus.
 
+#### References in Text
+
+The enactment of the Amtrak Reform and Accountability Act of 1997, referred to in subsec. (a), probably means the date of enactment of Pub. L. 105–134, which was approved Dec. 2, 1997.
+
+Section 3221 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 3221 of Title 26, Internal Revenue Code.
+
+Section 24704 of this title, referred to in subsec. (b), was repealed by Pub. L. 105–134, title I, §105(a), Dec. 2, 1997, 111 Stat. 2573.
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–134 amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) related to capital acquisition and corridor development.
+
+#### Limitation on Use of Tax Refund
+
+Pub. L. 105–134, title II, §209, Dec. 2, 1997, 111 Stat. 2584, provided that:
+
+“(a)
+
+In General.—Amtrak may not use any amount received under section 977 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, 26 U.S.C. 172 note\]—
+
+&emsp;“(1) for any purpose other than making payments to non-Amtrak States (pursuant to section 977(c) of that Act), or the financing of qualified expenses (asthat term is defined in section 977(e)(1) of that Act); or
+
+&emsp;“(2) to offset other amounts used for any purpose other than the financing of such expenses.
+
+“(b)
+
+Report by ARC.—The Amtrak Reform Council shall report quarterly to the Congress on the use of amounts received by Amtrak under section 977 of the Taxpayer Relief Act of 1997.”
+
+#### Reform Board
+
+Pub. L. 105–134, title IV, §411(b), Dec. 2, 1997, 111 Stat. 2589, provided that: “If the Reform Board has not assumed the responsibilities of the Board of Directors of Amtrak before July 1, 1998, all provisions authorizing appropriations under the amendments made by section 301(a) of this Act \[amending this section\] for a fiscal year after fiscal year 1998 shall cease to be effective. The preceding sentence shall have no effect on funds provided to Amtrak pursuant to section 977 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, 26 U.S.C. 172 note\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24304, 24704, 24707 of this title.
+This section is referred to in section 24101 of this title.
 

@@ -2,7 +2,7 @@
 
 The Secretary of the Senate, and the assistant secretary thereof, shall, respectively, have power to administer any oath or affirmation required by law, or by the rules or orders of the Senate, to be taken by any officer of the Senate, and to any witness produced before it.
 
-(Apr. 18, 1876, ch. 66, §2, 19 Stat. 34; July 9, 1971, Pub. L. 92–51, 85 Stat. 125.)
+(Apr. 18, 1876, ch. 66, §2, 19 Stat. 34; Pub. L. 92–51, July 9, 1971, 85 Stat. 125.)
 
 #### Change of Name
 

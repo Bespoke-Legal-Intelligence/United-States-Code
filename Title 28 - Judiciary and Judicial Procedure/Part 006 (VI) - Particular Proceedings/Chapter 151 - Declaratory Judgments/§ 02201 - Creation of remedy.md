@@ -4,7 +4,7 @@
 
 (b) For limitations on actions brought with respect to drug patents see section 505 or 512 of the Federal Food, Drug, and Cosmetic Act.
 
-(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §111, 63 Stat. 105; Aug. 28, 1954, ch. 1033, 68 Stat. 890; July 7, 1958, Pub. L. 85–508, §12(p), 72 Stat. 349;  Oct. 4, 1976, Pub. L. 94–455, title XIII, §1306(b)(8), 90 Stat. 1719; Nov. 6, 1978, Pub. L. 95–598, title II, §249, 92 Stat. 2672; Sept. 24, 1984, Pub. L. 98–417, title I, §106, 98 Stat. 1597; Sept. 28, 1988, Pub. L. 100–449, title IV, §402(c), 102 Stat. 1884; Nov. 16, 1988, Pub. L. 100–670, title I, §107(b), 102 Stat. 3984; Dec. 8, 1993, Pub. L. 103–182, title IV, §414(b), 107 Stat. 2147.)
+(June 25, 1948, ch. 646, 62 Stat. 964; May 24, 1949, ch. 139, §111, 63 Stat. 105; Aug. 28, 1954, ch. 1033, 68 Stat. 890; Pub. L. 85–508, §12(p), July 7, 1958, 72 Stat. 349; Pub. L. 94–455, title XIII, §1306(b)(8), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 95–598, title II, §249, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 98–417, title I, §106, Sept. 24, 1984, 98 Stat. 1597; Pub. L. 100–449, title IV, §402(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 100–670, title I, §107(b), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 103–182, title IV, §414(b), Dec. 8, 1993, 107 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -32,23 +32,23 @@ Sections 505 and 512 of the Federal Food, Drug, and Cosmetic Act, referred to in
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930),” for “Canadian merchandise,”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930),” for “Canadian merchandise,”.
 
-1988—Subsec. (a). Pub. L. 100–449 substituted “1986,” for “1954 or” and inserted “or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of Canadian merchandise, as determined by the administering authority,” after “title 11,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–449 substituted “1986,” for “1954 or” and inserted “or in any civil action involving an antidumping or countervailing duty proceeding regarding a class or kind of Canadian merchandise, as determined by the administering authority,” after “title 11,”.
 
 Subsec. (b). Pub. L. 100–670 inserted “or 512” after “505”.
 
-1984—Pub. L. 98–417 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1984</b>—Pub. L. 98–417 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1978—Pub. L. 95–598 inserted reference to proceedings under section 505 or 1146 of title 11.
+<b>1978</b>—Pub. L. 95–598 inserted reference to proceedings under section 505 or 1146 of title 11.
 
-1976—Pub. L. 94–455 substituted “taxes other than actions brought under section 7428 of the Internal Revenue Code of 1954” for “taxes”.
+<b>1976</b>—Pub. L. 94–455 substituted “taxes other than actions brought under section 7428 of the Internal Revenue Code of 1954” for “taxes”.
 
-1958—Pub. L. 85–508 struck out provisions which related to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Pub. L. 85–508 struck out provisions which related to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1954—Act Aug. 28, 1954, extended provisions to Alaska.
+<b>1954</b>—Act Aug. 28, 1954, extended provisions to Alaska.
 
-1949—Act May 24, 1949, corrected spelling of “or” in second sentence.
+<b>1949</b>—Act May 24, 1949, corrected spelling of “or” in second sentence.
 
 #### Effective Date of 1993 Amendment
 
@@ -80,5 +80,5 @@ Jurisdictional amount in diversity of citizenship cases, see section 1332 of thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 623; title 8 sections 1105a, 1503; title 21 sections 355, 360b.
+This section is referred to in title 7 section 623; title 8 sections 1252, 1503; title 21 sections 355, 360b.
 

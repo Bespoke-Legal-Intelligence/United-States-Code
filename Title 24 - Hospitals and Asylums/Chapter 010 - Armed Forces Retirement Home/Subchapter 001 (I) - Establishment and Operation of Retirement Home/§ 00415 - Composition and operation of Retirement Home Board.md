@@ -6,7 +6,7 @@ There is hereby established the Armed Forces Retirement Home Board. The Retireme
 
 #### (b) Members
 
-The Retirement Home Board shall consist of not less than 16 members who shall be appointed by the Secretary of Defense, unless otherwise indicated, as follows:
+The Retirement Home Board shall consist of not less than 16 members who shall be appointedby the Secretary of Defense, unless otherwise indicated, as follows:
 
 &emsp;(1) One representative from the office of the Assistant Secretary of Defense (Force Management and Personnel).
 
@@ -134,7 +134,7 @@ Reference to Comptroller of the Department of Defense to be treated as reference
 
 #### Effective Date
 
-Section effective one year after Nov. 5, 1990, except that provisions of this section relating to appointment and designation of members of Retirement Home Boardand Local Boards effective Oct. 1, 1991, see section 1541(a), (c) of Pub. L. 101–510, set out as a note under section 401 of this title.
+Section effective one year after Nov. 5, 1990, except that provisions of this section relating to appointment and designation of members of Retirement Home Board and Local Boards effective Oct. 1, 1991, see section 1541(a), (c) of Pub. L. 101–510, set out as a note under section 401 of this title.
 
 #### Savings Provision
 

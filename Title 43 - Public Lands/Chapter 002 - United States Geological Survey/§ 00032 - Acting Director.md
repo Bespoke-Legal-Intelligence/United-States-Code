@@ -2,7 +2,7 @@
 
 The Secretary of the Interior may authorize one of the geologists to act as Director of the United States Geological Survey in the absence of that officer.
 
-(July 31, 1894, ch. 174, §1, 28 Stat. 197; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000.)
+(July 31, 1894, ch. 174, §1, 28 Stat. 197; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
 #### Change of Name
 

@@ -34,7 +34,7 @@ Subpoena.—If a witness fails to be deposed or to produce records under paragra
 
 &emsp;(3)
 
-Depositions.—A deposition may be taken before a judge of a court of the United States, a United States magistrate judge, a clerk of a district court, or a chancellor, justice, or judge of a supreme or superior court, mayor or chief magistrate of a city, judge of a county court, or court of common pleas of any State, or a notary public who is not counsel or attorney of a party or interested in the proceeding.
+Depositions.—A deposition may be taken before a judge of a court of the United States, a United States magistrate judge, a clerk of a district court, or a chancellor, justice, or judge of a supreme or superior court, mayor or chief magistrate of a city, judge of a county court, or court of common pleas of any State,or a notary public who is not counsel or attorney of a party or interested in the proceeding.
 
 &emsp;(4)
 

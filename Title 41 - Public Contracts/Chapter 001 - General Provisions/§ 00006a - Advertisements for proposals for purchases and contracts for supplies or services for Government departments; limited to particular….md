@@ -16,7 +16,7 @@ Section 5 of this title shall not be construed to apply under any appropriation 
 
 (j) The International Committee of Aerial Legal Experts—to stenographic and other service by contract as deemed necessary.
 
-(June 12, 1917, ch. 27, 40 Stat. 144; May 13, 1926, ch. 294, 44 Stat. 547; Oct. 10, 1940, ch. 851, §2, 54 Stat. 1110; June 28, 1941, ch. 259, 55 Stat. 344; Oct. 31, 1951, ch. 654, §§1(106)–(108), 3(8), (9), 4(9), 65 Stat. 705, 708, 709; July 1, 1957, Pub. L. 85–75, 71 Stat. 251.)
+(June 12, 1917, ch. 27, 40 Stat. 144; May 13, 1926, ch. 294, 44 Stat. 547; Oct. 10, 1940, ch. 851, §2, 54 Stat. 1110; June 28, 1941, ch. 259, 55 Stat. 344; Oct. 31, 1951, ch. 654, §§1(106)–(108), 3(8), (9), 4(9), 65 Stat. 705, 708, 709; Pub. L. 85–75, July 1, 1957, 71 Stat. 251.)
 
 #### Codification
 

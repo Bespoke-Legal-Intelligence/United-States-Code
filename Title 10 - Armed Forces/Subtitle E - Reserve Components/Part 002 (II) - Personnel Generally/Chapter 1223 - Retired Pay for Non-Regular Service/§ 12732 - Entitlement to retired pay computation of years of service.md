@@ -146,7 +146,7 @@ Subsection (a) consolidates the provisions of 10:1036a and 1036e(b)–(d), and 3
 
 In subsection (a)(1)(A)–(F), the requirement that the service must have been satisfactory is omitted as executed, since all service before July 1, 1949, has been found to have been satisfactory by the Secretaries concerned.
 
-In subsection (a)(1)(A), the words “the armed forces” are substituted for clauses (1), (2), (5)–(7), (9), (10), and (13)–(16), of 10:1036e(c) and 34:440m(c), and so much ofclause (8) of 10:1036e(c) and 34:440m(c) as relates to the Naval Reserve and the Naval Reserve Force as constituted after February 28, 1925, since the service covered by those clauses when added to service in the regular components, comprises all service in the armed forces.
+In subsection (a)(1)(A), the words “the armed forces” are substituted for clauses (1), (2), (5)–(7), (9), (10), and (13)–(16), of 10:1036e(c) and 34:440m(c), and so much of clause (8) of 10:1036e(c) and 34:440m(c) as relates to the Naval Reserve and the Naval Reserve Force as constituted after February 28, 1925, since the service covered by those clauses when added to service in the regular components, comprises all service in the armed forces.
 
 In subsection (a)(1)(B)–(C), the words “June 15” are inserted to reflect the exact date of the change in National Guard status made by section 5 of the Act of June 15, 1933, ch. 87, 48 Stat. 155, which established the National Guard of the United States as a reserve component of the Army.
 

@@ -1,6 +1,6 @@
 ### §829. Authorization of appropriations; purchases; transfer of funds; restrictions
 
-(a) There is authorized to be appropriated to the Secretary of the Treasury for the purposes of the Fund not to exceed $1,400,000,000 and the Secretary of the Treasury is authorized and directed to purchase, from time to time, prior to September 30, 1985, from the Secretary, out of such moneys in the Treasury as are appropriated under this sentence, Fund anticipation notes in such aggregate principal amounts, subject to the foregoing limitation, as the Secretary mayso offer for sale. No money in the Fund, regardless of source, shall be obligated, expended, or otherwise committed to any purpose from the Fund prior to or after September 30, 1985, without prior approval thereof in an annual appropriations Act. The Fund shall not qualify as one of the exceptions provided in section 651(d) of title 2.
+(a) There is authorized to be appropriated to the Secretary of the Treasury for the purposes of the Fund not to exceed $1,400,000,000 and the Secretary of the Treasury is authorized and directed to purchase, from time to time, prior to September 30, 1985, from the Secretary, out of such moneys in the Treasury as are appropriated under this sentence, Fund anticipation notes in such aggregate principal amounts, subject to the foregoing limitation, as the Secretary mayso offer for sale. No money in the Fund, regardless of source, shall be obligated, expended, or otherwise committed to any purpose from the Fund prior to or after September 30, 1985, without prior approval thereof in an annual appropriations Act. The Fund shall not qualify as one of the exceptions provided in section 651(d) <sup>1</sup> of title 2.
 
 (b)(1) Repealed. Pub. L. 99–509, title IV, §4033(c)(4), Oct. 21, 1986, 100 Stat. 1909.
 
@@ -14,9 +14,11 @@
 
 (Pub. L. 94–210, title V, §509, Feb. 5, 1976, 90 Stat. 76; Pub. L. 94–555, title II, §216(d), Oct. 19, 1976, 90 Stat. 2627; Pub. L. 95–607, title III, §301(c), Nov. 8, 1978, 92 Stat. 3066; Pub. L. 96–73, title IV, §401, Sept. 29, 1979, 93 Stat. 557; Pub. L. 96–448, title IV, §§404, 405(a)(2), (b)(1), Oct. 14, 1980, 94 Stat. 1945; Pub. L. 97–35, title XI, §1162(e), (f), Aug. 13, 1981, 95 Stat. 684, 685; Pub. L. 97–468, title IV, §§401, 403(a), Jan. 14, 1983, 96 Stat. 2550, 2551; Pub. L. 99–509, title IV, §4033(c)(4), Oct. 21, 1986, 100 Stat. 1909; Pub. L. 104–88, title III, §330(3), Dec. 29, 1995, 109 Stat. 953.)
 
-#### Codification
+#### References in Text
 
-In subsec. (a), “section 651(d) of title 2” substituted for “section 401(d) of the Congressional Budget and Impoundment Control Act of 1974 (31 U.S.C. 1351(d))” to reflect the transfer of section 1351 of former Title 31, Money and Finance, to section 651 of Title 2, The Congress.
+Section 651(d) of title 2, referred to in subsec. (a), was redesignated section 651(c) of Title 2, The Congress, by Pub. L. 105–33, title X, §10116(a)(5), Aug. 5, 1997, 111 Stat. 691.
+
+#### Codification
 
 Section 405(c)(3) of Pub. L. 96–448 purported to amend subsec. (a) of this section by inserting “employee or employer-shipper group” after “railroad”, “employee or employee-shipper groups” after “railroads”, and “employee or employee-shipper group's” after “railroad's” wherever appearing. However, since the words “railroad”, “railroads” or “railroad's” do not appear in the text of subsec. (a), this amendment could not be executed.
 
@@ -65,4 +67,6 @@ Amendment by Pub. L. 94–555 effective Oct. 1, 1976, see section 303 of Pub. L.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 726, 825 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

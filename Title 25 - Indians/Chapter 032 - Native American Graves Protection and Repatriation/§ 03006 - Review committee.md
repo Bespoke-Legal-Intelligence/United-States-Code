@@ -8,7 +8,7 @@ Within 120 days after November 16, 1990, the Secretary shall establish a committ
 
 (1) The Committee <sup>1</sup> established under subsection (a) of this section shall be composed of 7 members,
 
-&emsp;(A) 3 of whom shall be appointed by the Secretary from nominations submitted by Indian tribes, Native Hawaiian organizations, and traditional Native American religious leaders with at least 2 of such persons being traditional Indian religious leaders;
+&emsp;(A) 3 of whom shall be appointed by the Secretary from nominations submitted by Indiantribes, Native Hawaiian organizations, and traditional Native American religious leaders with at least 2 of such persons being traditional Indian religious leaders;
 
 &emsp;(B) 3 of whom shall be appointed by the Secretary from nominations submitted by national museum organizations and scientific organizations; and
 
@@ -36,7 +36,7 @@ The committee established under subsection (a) of this section shall be responsi
 
 &emsp;(4) facilitating the resolution of any disputes among Indian tribes, Native Hawaiian organizations, or lineal descendants and Federal agencies or museums relating to the return of such items including convening the parties to the dispute if deemed desirable;
 
-&emsp;(5) compiling an inventory of culturally unidentifiable human remains that are in the possession or control of each Federal agencyand museum and recommending specific actions for developing a process for disposition of such remains;
+&emsp;(5) compiling an inventory of culturally unidentifiable human remains that are in the possession or control of each Federal agency and museum and recommending specific actions for developing a process for disposition of such remains;
 
 &emsp;(6) consulting with Indian tribes and Native Hawaiian organizations and museums on matters within the scope of the work of the committee affecting such tribes or organizations;
 

@@ -4,7 +4,7 @@
 
 Required Notice to Congress.—A commercial or industrial type function of the Department of Defense that on October 1, 1980, was being performed by Department of Defense civilian employees may not be converted to performance by a private contractor unless the Secretary of Defense provides to Congress in a timely manner—
 
-&emsp;(1) notification of any decision to study such function for possible performance by a private contractor;
+&emsp;(1) notification of any decision to study such function for possible performance by a private contractor and the anticipated length and cost of the study;
 
 &emsp;(2) a detailed summary of a comparison of the cost of performance of such function by Department of Defense civilian employees and by private contractor which demonstrates that the performance of such function by a private contractor will result in a cost savings to the Government over the life of the contract and a certification that the entire cost comparison is available;
 
@@ -20,7 +20,7 @@ Required Notice to Congress.—A commercial or industrial type function of the D
 
 (b)
 
-Congressional Notification of Decision To Convert.—If, after completion of the studies required for completion of the certification and report required by paragraphs (3) and (4) of subsection (a), a decision is made to convert the function to contractor performance, the Secretary of Defense shall notify Congress of such decision.
+Congressional Notification of Decision To Convert.—If, after completion of the studiesrequired for completion of the certification and report required by paragraphs (3) and (4) of subsection (a), a decision is made to convert the function to contractor performance, the Secretary of Defense shall notify Congress of such decision. The notification shall include the timetable for completing conversion of the function to contractor performance.
 
 (c)
 
@@ -28,7 +28,7 @@ Annual Reports.—Not later than February 1 of each fiscal year, the Secretary o
 
 (d)
 
-Waiver for Small Functions.—Subsections (a) through (c) shall not apply to a commercial or industrial type function of the Department of Defense that is being performed by 45 or fewer Department of Defense civilian employees.
+Waiver for Small Functions.—Subsections (a) through (c) shall not apply to a commercial or industrial type function of the Department of Defense that is being performed by 20 or fewer Department of Defense civilian employees.
 
 (e)
 
@@ -48,7 +48,7 @@ Additional Limitations.—(1) A commercial or industrial type function of the De
 
 Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711.)
 
 #### Historical and Revision Notes
 
@@ -60,6 +60,12 @@ The Javits-Wagner-O'Day Act, referred to in subsec. (e), is act June 25, 1938, c
 
 #### Amendments
 
+1997—Subsec. (a)(1). Pub. L. 105–85, §384(a), inserted “and the anticipated length and cost of the study” before semicolon at end.
+
+Subsec. (b). Pub. L. 105–85, §384(b), inserted at end “The notification shall include the timetable for completing conversion of the function to contractor performance.”
+
+Subsec. (d). Pub. L. 105–85, §384(c), substituted “20 or fewer” for “45 or fewer”.
+
 1996—Subsec. (e)(1). Pub. L. 104–106 substituted “the Javits-Wagner-O'Day Act (41 U.S.C. 47)” for “the Act of June 25, 1938 (41 U.S.C. 47), popularly referred to as the Wagner-O'Day Act”.
 
 1989—Subsecs. (e) to (g). Pub. L. 101–189 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
@@ -67,6 +73,42 @@ The Javits-Wagner-O'Day Act, referred to in subsec. (e), is act June 25, 1938, c
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Development of Standard Forms Regarding Performance Work Statement and Request for Proposal for Conversion of Certain Operational Functions of Military Installations
+
+Section 389 of Pub. L. 105–85 provided that:
+
+“(a)
+
+Standardization of Requirements.—The Secretary of Defense is authorized and encouraged to develop standard forms (to be known as a ‘standard performance work statement’ and a ‘standard request for proposal’) for use in the consideration for conversion to contractor performance of commercial services and functions at military installations. A separate standard form shall be developed for each service and function.
+
+“(b)
+
+Relationship to OMB Requirements.—A standard performance work statement or a standard request for proposal developed under subsection (a) must fulfill the basic requirements of the performance work statement or request for proposal otherwise required under the procedures and requirements of Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) in effect at the time the standard form will be used.
+
+“(c)
+
+Priority Development of Certain Forms.—In developing standard performance work statements and standard requests for proposal, the Secretary shall give first priority to those commercial services and functions that the Secretary determines have been successfully converted to contractor performance on a repeated basis.
+
+“(d)
+
+Incentive for Use.—Beginning not later than October 1, 1998, if a standard performance work statement or a standard request for proposal is developed under subsection (a) for a particular service and function, the standard form may be used in lieu of the performance work statement or request for proposal otherwise required under the procedures and requirements of Office of Management and Budget Circular A–76 in connection with the consideration for conversion to contractor performance of that service or function at a military installation.
+
+“(e)
+
+Exclusion of Multifunction Conversion.—If a commercial service or function for which a standardform is developed under subsection (a) is combined with another service or function (for which such a form has not yet been developed) for purposes of considering the services and functions at the military installation for conversion to contractor performance, a standard performance work statement or a standard request for a proposal developed under subsection (a) may not be used in the conversion process in lieu of the procedures and requirements of Office of Management and Budget Circular A–76.
+
+“(f)
+
+Effect on Other Laws.—Nothing in this section shall be construed to supersede any other requirements or limitations, specifically contained in chapter 146 of title 10, United States Code, on the conversion to contractor performance of activities performed by civilian employees of the Department of Defense.
+
+“(g)
+
+GAO Report.—Not later than June 1, 1999, the Secretary of Defense shall submit to Congress a report reviewing the implementation of this section.
+
+“(h)
+
+Military Installation Defined.—For purposes of this section, the term ‘military installation’ means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility.”
 
 #### Private-Sector Operation of Certain Payroll, Finance, and Accounting Functions of Department of Defense; Plan; Report
 
@@ -116,21 +158,31 @@ Section 353(b) of Pub. L. 104–106 provided that:
 
 #### Demonstration Program To Identify Overpayments Made to Vendors
 
-Section 354 of Pub. L. 104–106 provided that:
+Section 388(c) of Pub. L. 105–85 provided that: “Not later than December 31, 1998, the Comptroller General shall submit to Congress a report containing the results of a review by the Comptroller General of the demonstration program conducted under section 354 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 10 U.S.C. 2461 note). In the review, the Comptroller General shall—
+
+&emsp;“(1) assess the success of the methods used in the demonstration program to identify overpayments made to vendors;
+
+&emsp;“(2) consider the types of overpayments identified and the feasibility of avoiding such overpayments through contract adjustments;
+
+&emsp;“(3) determine the total amount of overpayments recovered under the demonstration program; and
+
+&emsp;“(4) develop recommendations for improving the process by which overpayments are recovered by the Department of Defense.”
+
+Section 354 of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title III, §388(a), (b), Nov. 18, 1997, 111 Stat. 1713, 1714, provided that:
 
 “(a)
 
-In General.—The Secretary of Defense shall conduct a demonstration program to evaluate the feasibility of using private contractors to audit accounting and procurement records of the Department of Defense in order to identify overpayments made to vendors by the Department. The demonstration program shall be conducted for the Defense Logistics Agency and include the Defense Personnel Support Center.
+In General.—The Secretary of Defense shall conduct a demonstration program to evaluate the feasibility of using private contractors to audit accounting and procurement records of the Department of Defense in order to identify overpayments made to vendors by the Department.
 
 “(b)
 
-Program Requirements.—(1) Under the demonstration program, the Secretary shall, by contract, provide for one or more persons to audit the accounting and procurement records of the Defense Logistics Agency that relate to (at least) fiscal years 1993, 1994, and 1995. The Secretary may enter into more than one contract under the program.
+Program Requirements.—(1) Under the demonstration program, the Secretary shall, by contract, provide for one or more persons to audit the accounting and procurement records relating to fiscal years after fiscal year 1993 of the working-capital funds and industrial, commercial, and support type activities managed through the Defense Business Operations Fund, except the Defense Logistics Agency to the extent such records have already been audited. The Secretary may enter into more than one contract under the program.
 
 “(2) A contract under the demonstration program shall require the contractor to use data processing techniques that are generally used in audits of private-sector records similar to the records audited under the contract.
 
 “(c)
 
-Audit Requirements.—In conducting an audit under the demonstration program, a contractor shall compare Department of Defense purchase agreements (and related documents) with invoices submitted by vendors under the purchase agreements. A purpose of the comparison is to identify, in the case of each audited purchase agreement, the following:
+Audit Requirements.—In conducting an audit under the demonstration program, a contractor shallcompare Department of Defense purchase agreements (and related documents) with invoices submitted by vendors under the purchase agreements. A purpose of the comparison is to identify, in the case of each audited purchase agreement, the following:
 
 &emsp;“(1) Any payments to the vendor for costs that are not allowable under the terms of the purchase agreement or by law.
 
@@ -144,15 +196,17 @@ Audit Requirements.—In conducting an audit under the demonstration program, a 
 
 “(d)
 
-Bonus Payment.—To the extent provided for in a contract under the demonstration program, the Secretary may pay the contractor a bonus in addition to any other amount paid for performance of the contract. The amount of such bonus may not exceed the amount that is equal to 25 percent of all amounts recovered by the United States on the basis of information obtained as a result of the audit performed under the contract. Any such bonus shall be paid out of amounts made available pursuant to subsection (e).
+Collection Method.—(1) In the case of an overpayment to a vendor identified under the demonstration program, the Secretary shall consider the use of the procedures specified in section 32.611 of the Federal Acquisition Regulation, regarding a setoff against existing invoices for payment to the vendor, as the first method by which the Department seeks to recover the amount of the overpayment (and any applicable interest and penalties) from the vendor.
+
+“(2) The Secretary of Defense shall be solely responsible for notifying a vendor of an overpayment made to the vendor and identified under the demonstration program and for recovering the amount of the overpayment (and any applicable interest and penalties) from the vendor.
 
 “(e)
 
-Availability of Funds.—Of the amount authorized to be appropriated pursuant to section 301(5) \[110 Stat. 245\], not more than $5,000,000 shall be available for the demonstration program.”
+Fees for Contractor.—The Secretary shall pay to the contractor under the contract entered into under the demonstration program an amount not to exceed 25 percent of the total amount recovered by the Department (through the collection of overpayments and the use of setoffs) solely on the basis of information obtained as a result of the audits performed by the contractor under the program. When an overpayment is recovered through the use of a setoff, amounts for the required payment to the contractor shall be derived from funds available to the working-capital fund or industrial, commercial, or support type activity for which the overpayment is recovered.”
 
 #### Program for Improved Travel Process for Department of Defense
 
-Section 356 of Pub. L. 104–106 provided that:
+Section 356 of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(1)(B), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
 “(a)
 
@@ -202,7 +256,7 @@ Plan for Program.—Before conducting the program, the Secretary shall develop a
 
 &emsp;“(2) The methodology and anticipated cost of the program, including the cost of an arrangement pursuant to which a private-sector source would receive an agreed-upon payment plus an additional negotiated amount that does not exceed 50 percent of the total amount saved in excess of the objective specified in paragraph (1).
 
-&emsp;“(3) A specific citation to any provision or \[of\] law, rule, or regulation that, if not waived, would prohibit the conduct of the program or any part of the program.
+&emsp;“(3) A specific citation to any provision of law, rule, or regulation that, if not waived, would prohibit the conduct of the program or any part of the program.
 
 &emsp;“(4) The evaluation criteria established pursuant to subsection (c).
 

@@ -74,3 +74,7 @@ GAO Evaluation.—Not later than June 1, 1995, the Comptroller General of the Un
 
 Pub. L. 98–94, title XII, §1265, Sept. 24, 1983, 97 Stat. 704, provided that: “The School of Medicine of the Uniformed Services University of the Health Sciences shall after the date of the enactment of this Act \[Sept. 24, 1983\] be known and designated as the ‘F. Edward He�AE1bert School of Medicine’. Any reference to such school of medicine in any law, regulation, map, document, or other record of the United States shall after such date be deemed to be a reference to such school of medicine as the F. Edward He�AE1bert School of Medicine.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2173 of this title.
+

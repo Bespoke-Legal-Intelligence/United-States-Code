@@ -12,3 +12,7 @@ Section 14072 of this title, referred to in text, was in the original “section
 
 Section was enacted as part of the Pam Lychner Sexual Offender Tracking and Identification Act of 1996, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
+#### Effective Date
+
+Section effective one year after Oct. 3, 1996, see section 10(a) of Pub. L. 104–236, set out as an Effective Date of 1996 Amendment note under section 14071 of this title.
+

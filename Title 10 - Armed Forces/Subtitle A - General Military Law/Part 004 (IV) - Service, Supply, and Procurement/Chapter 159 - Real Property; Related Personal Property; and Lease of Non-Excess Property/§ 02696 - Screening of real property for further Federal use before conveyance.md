@@ -1,0 +1,54 @@
+### §2696. Screening of real property for further Federal use before conveyance
+
+(a)
+
+Screening Requirement.—The Secretary concerned may not convey real property that is authorized or required to be conveyed, whether for or without consideration, by any provision of law unless the Administrator of General Services has screened the property for further Federal use in accordance with the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.).
+
+(b)
+
+Time for Screening.—(1) Before the end of the 30-day period beginning on the date of the enactment of a provision of law authorizing or requiring the conveyance of a parcel of real property by the Secretary concerned, the Administrator of General Services shall complete the screening required by paragraph (1) <sup>1</sup> with regard to the real property and notify the Secretary concerned of the results of the screening. The notice shall include—
+
+&emsp;(A) the name of the Federal agency requesting transfer of the property;
+
+&emsp;(B) the proposed use to be made of the property by the Federal agency; and
+
+&emsp;(C) the fair market value of the property, including any improvements thereon, as estimated by the Administrator.
+
+(2) If the Administrator fails to complete the screening and notify the Secretary concerned within such period, the Secretary concerned shall proceed with the conveyance of the real property as provided in the provision of law authorizing or requiring the conveyance.
+
+(c)
+
+Notice of Further Federal Use.—If the Administrator of General Services notifies the Secretary concerned under subsection (b) that further Federal use of a parcel of real property authorized or required to be conveyed by any provision of law is requested by a Federal agency, the Secretary concerned shall submit a copy of the notice to Congress.
+
+(d)
+
+Congressional Disapproval.—If the Secretary concerned submits a notice under subsection (c) with regard to a parcel of real property, the Secretary concerned may not proceed with the conveyance of the real property as provided in the provision of law authorizing or requiring the conveyance if Congress enacts a law rescinding the conveyance authority or requirement before the end of the 180-day period beginning on the date on which the Secretary concerned submits the notice.
+
+(e)
+
+Excepted Conveyance Authorities.—The screening requirements of this section shall not apply to real property authorized or required to be conveyed under any of the following provisions of law:
+
+&emsp;(1) Section 2687 of this title.
+
+&emsp;(2) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+
+&emsp;(3) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+
+&emsp;(4) Any provision of law authorizing the closure or realignment of a military installation that is enacted after the date of enactment of the National Defense Authorization Act for Fiscal Year 1998.
+
+&emsp;(5) Title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.).
+
+&emsp;(6) Any specific provision of law authorizing or requiring the transfer of administrative jurisdiction over a parcel of real property between Federal agencies.
+
+(Added Pub. L. 105–85, div. B, title XXVIII, §2814(a)(1), Nov. 18, 1997, 111 Stat. 1994.)
+
+#### References in Text
+
+The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (a) and (e)(5), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Title II of the Act is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
+The date of enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+
+#### Effective Date
+
+Section 2814(b) of Pub. L. 105–85 provided that: “Section 2696 of title 10, United States Code, as added by subsection (a) of this section, shall apply with respect to any real property authorized or required to be conveyed under a provision of law covered by such section that is enacted after December 31, 1997.”
+

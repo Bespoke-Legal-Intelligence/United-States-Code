@@ -30,7 +30,7 @@ Section 1(c) of Pub. L. 101–429 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraphs (2) and (3), the amendments made by this Act \[enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending this section and sections 77t, 78c, 78<i>o</i>, 78<i>o</i>–3, 78<i>o</i>–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3,80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78<i>o</i>, and 78s of this title\] shall be effective upon enactment \[Oct. 15, 1990\].
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this Act \[enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending this section and sections 77t, 78c, 78<i>o</i>, 78<i>o</i>–3, 78<i>o</i>–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78<i>o</i>, and 78s of this title\] shall be effective upon enactment \[Oct. 15, 1990\].
 
 “(2)
 

@@ -18,6 +18,10 @@ A State that receives a grant under section 1491c of this title shall submit ann
 
 (Pub. L. 91–230, title VI, §710, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3952.)
 
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1491c, 1491d, 1491f, 1491h, 1491j of this title.

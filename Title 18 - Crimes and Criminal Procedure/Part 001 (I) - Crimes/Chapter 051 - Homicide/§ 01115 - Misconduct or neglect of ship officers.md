@@ -10,7 +10,7 @@ When the owner or charterer of any steamboat or vessel is a corporation, any exe
 
 Based on title 18, U.S.C., 1940 ed., §461 (Mar. 4, 1909, ch. 321, §282, 35 Stat. 1144).
 
-Section restores the intent of the original enactments, R.S. §5344, and act Mar. 3, 1905, ch. 1454, §5, 33 Stat. 1025, and makes this section one of general application. In the Criminal Code of 1909, by placing it in chapter 11, limited to places within the special maritime and territorial jurisdiction of the United States, such original intent was inadvertently lost as indicated by the entire absence of report or comment on such limitation.
+Section restores the intent of the original enactments, R.S. §5344, and act Mar. 3, 1905, ch. 1454, §5, 33 Stat. 1025, and makes this section one of general application. In the Criminal Code of 1909, by placing it inchapter 11, limited to places within the special maritime and territorial jurisdiction of the United States, such original intent was inadvertently lost as indicated by the entire absence of report or comment on such limitation.
 
 #### Amendments
 

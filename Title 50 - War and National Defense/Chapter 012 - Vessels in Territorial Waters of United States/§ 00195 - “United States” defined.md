@@ -2,7 +2,7 @@
 
 The term “United States” as used in this Act includes all territory and waters, continental or insular, subject to the jurisdiction of the United States.
 
-(June 15, 1917, ch. 30, title XIII, §1, 40 Stat. 231; Sept. 27, 1979, Pub. L. 96–70, title III, §3302(b), 93 Stat. 498.)
+(June 15, 1917, ch. 30, title XIII, §1, 40 Stat. 231; Pub. L. 96–70, title III, §3302(b), Sept. 27, 1979, 93 Stat. 498.)
 
 #### References in Text
 

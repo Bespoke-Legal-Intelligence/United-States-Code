@@ -1,6 +1,6 @@
 ### §3446. Transfers from Department of Housing and Urban Development
 
-There are transferred to the Secretary all functions relating to college housing loans ofthe Secretary of Housing and Urban Development and of the Department of Housing and Urban Development under title IV of the Housing Act of 1950 \[12 U.S.C. 1749 et seq.\].
+There are transferred to the Secretary all functions relating to college housing loans of the Secretary of Housing and Urban Development and of the Department of Housing and Urban Development under title IV of the Housing Act of 1950 \[12 U.S.C. 1749 et seq.\].
 
 (Pub. L. 96–88, title III, §305, formerly §306, Oct. 17, 1979, 93 Stat. 681; renumbered §305, Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 

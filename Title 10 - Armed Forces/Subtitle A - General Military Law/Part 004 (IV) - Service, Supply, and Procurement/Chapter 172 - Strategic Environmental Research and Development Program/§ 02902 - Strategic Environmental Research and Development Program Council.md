@@ -46,7 +46,7 @@
 
 (e) In carrying out subsection (d)(1), the Council shall prescribe policies and procedures that—
 
-&emsp;(1) provide for appropriate access by Federal Government personnel, State and local government personnel, college and university personnel, industry personnel, and the generalpublic to data under the control of, or otherwise available to, the Department of Defense that is relevant to environmental matters by—
+&emsp;(1) provide for appropriate access by Federal Government personnel, State and local government personnel, college and university personnel, industry personnel, and the general public to data under the control of, or otherwise available to, the Department of Defense that is relevant to environmental matters by—
 
 &emsp;&emsp;(A) identifying the sources of such data;
 
@@ -80,7 +80,7 @@
 
 &emsp;(8) provide for the identification of, and planning for the demonstration and use of, existing environmentally sound, energy-efficient technologies developed by the private sector that could be used directly by the Department of Defense;
 
-&emsp;(9) provide for the identification of military specifications that prevent or limit the use of environmentally beneficial technologies, materials, and substances in the performance of Department of Defense contracts and recommend changes to such specifications; and
+&emsp;(9) provide for the identification of military specifications that prevent or limit the use ofenvironmentally beneficial technologies, materials, and substances in the performance of Department of Defense contracts and recommend changes to such specifications; and
 
 &emsp;(10) to ensure that the research and development programs identified for support pursuant to the policies and procedures prescribed by the Council are closely coordinated with, and do not duplicate, ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, or other Federal agencies.
 

@@ -32,7 +32,7 @@ Orders issued under this section shall define the industries and classifications
 
 Due notice of any hearing provided for in this section shall be given by publication in the Federal Register and by such other means as the Administrator deems reasonably calculated to give general notice to interested persons.
 
-(June 25, 1938, ch. 676, §8, 52 Stat. 1064; Oct. 26, 1949, ch. 736, §8, 63 Stat. 915; Aug. 12, 1955, ch. 867, §§4, 5(b)–(e), 69 Stat. 711, 712; Aug. 25, 1958, Pub. L. 85–750, 72 Stat. 844; May 5, 1961, Pub. L. 87–30, §7, 75 Stat. 70; Apr. 8, 1974, Pub. L. 93–259, §5(c)(1), (d), 88 Stat. 58; Nov. 1, 1977, Pub. L. 95–151, §2(d)(3), 91 Stat. 1246; Nov. 17, 1989, Pub. L. 101–157, §4(c), 103 Stat. 940; Nov. 15, 1990, Pub. L. 101–583, §1, 104 Stat. 2871.)
+(June 25, 1938, ch. 676, §8, 52 Stat. 1064; Oct. 26, 1949, ch. 736, §8, 63 Stat. 915; Aug. 12, 1955, ch. 867, §§4, 5(b)–(e), 69 Stat. 711, 712; Pub. L. 85–750, Aug. 25, 1958, 72 Stat. 844; Pub. L. 87–30, §7, May 5, 1961, 75 Stat. 70; Pub. L. 93–259, §5(c)(1), (d), Apr. 8, 1974, 88 Stat. 58; Pub. L. 95–151, §2(d)(3), Nov. 1, 1977, 91 Stat. 1246; Pub. L. 101–157, §4(c), Nov. 17, 1989, 103 Stat. 940; Pub. L. 101–583, §1, Nov. 15, 1990, 104 Stat. 2871.)
 
 #### References in Text
 

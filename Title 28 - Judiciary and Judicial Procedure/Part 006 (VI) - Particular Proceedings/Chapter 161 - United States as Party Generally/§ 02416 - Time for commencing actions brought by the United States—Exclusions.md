@@ -14,5 +14,5 @@ For the purpose of computing the limitations periods established in section 2415
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2415 of this title.
+This section is referred to in section 2415 of this title; title 30 section 1724.
 

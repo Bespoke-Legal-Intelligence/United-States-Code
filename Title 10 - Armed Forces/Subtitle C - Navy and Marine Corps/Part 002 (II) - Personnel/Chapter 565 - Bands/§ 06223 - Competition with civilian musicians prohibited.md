@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 101–510, §327(b)(1), added subsec. (c).
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b) of this section delegated to Secretary of Defense, see section 1(13) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (b) of this section delegated to Secretary of Defense, see section 1(13)of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
 #### American Revolution Bicentennial; Recordings for Commercial Sale
 

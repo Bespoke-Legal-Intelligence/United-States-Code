@@ -16,7 +16,7 @@
 
 > A separate license issued by the Indian tribe shall be required for each place, facility, or location on Indian lands at which class II gaming is conducted.
 
-(2) The Chairman shall approve any tribal ordinance or resolution concerning the conduct, or regulation of class II gaming on the Indian lands within the tribe's jurisdiction if such ordinance or resolution provides that—
+(2) The Chairman shall approve any tribal ordinance or resolution concerning the conduct, orregulation of class II gaming on the Indian lands within the tribe's jurisdiction if such ordinance or resolution provides that—
 
 &emsp;(A) except as provided in paragraph (4), the Indian tribe will have the sole proprietary interest and responsibility for the conduct of any gaming activity;
 
@@ -78,9 +78,9 @@
 
 #### (c) Issuance of gaming license; certificate of self-regulation
 
-(1) The Commission may consult with appropriate law enforcement officials concerning gaming licenses issued by an Indian tribe and shall have thirty days to notify the Indian tribe of any objections to issuance of such license.
+(1) The Commission may consult with appropriate law enforcement officials concerning gaming licenses issued by an Indian tribe andshall have thirty days to notify the Indian tribe of any objections to issuance of such license.
 
-(2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection\(b)(2)(F)(ii)(II) of this section, the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
+(2) If, after the issuance of a gaming license by an Indian tribe, reliable information is received from the Commission indicating that a primary management official or key employee does not meet the standard established under subsection (b)(2)(F)(ii)(II) of this section, the Indian tribe shall suspend such license and, after notice and hearing, may revoke such license.
 
 (3) Any Indian tribe which operates a class II gaming activity and which—
 
@@ -154,7 +154,7 @@
 
 (iii) Notwithstanding any other provision of this subsection—
 
-&emsp;(I) any person or entity operating a class III gaming activity pursuant to this paragraph on the date on which an ordinance or resolution described in clause (i) that revokes authorization for such class III gaming activity is published in the Federal Register may, during the 1-year period beginning on the date on which such revocation ordinance or resolution is published under clause (ii), continue to operate such activity in conformance with the Tribal-State compact entered into under paragraph (3) that is in effect, and
+&emsp;(I) any person or entity operating a class III gaming activity pursuant to this paragraph onthe date on which an ordinance or resolution described in clause (i) that revokes authorization for such class III gaming activity is published in the Federal Register may, during the 1-year period beginning on the date on which such revocation ordinance or resolution is published under clause (ii), continue to operate such activity in conformance with the Tribal-State compact entered into under paragraph (3) that is in effect, and
 
 &emsp;(II) any civil action that arises before, and any crime that is committed before, the close of such 1-year period shall not be affected by such revocation ordinance or resolution.
 
@@ -212,7 +212,7 @@
 
 &emsp;(II) shall consider any demand by the State for direct taxation of the Indian tribe or of any Indian lands as evidence that the State has not negotiated in good faith.
 
-(iv) If a State and an Indian tribe fail to conclude a Tribal-State compact governing the conduct of gaming activities on the Indian lands subject to the jurisdiction of such Indian tribe within the 60-day period provided in the order of a court issued under clause (iii), the Indian tribe and the State shall each submit to a mediator appointed by the court a proposed compact that represents their last best offer for a compact. The mediator shall select from the two proposed compacts the one which best comports with theterms of this chapter and any other applicable Federal law and with the findings and order of the court.
+(iv) If a State and an Indian tribe fail to conclude a Tribal-State compact governing the conduct of gaming activities on the Indian lands subject to the jurisdiction of such Indian tribe within the 60-day period provided in the order of a court issued under clause (iii), the Indian tribe and the State shall each submit to a mediator appointed by the court a proposed compact that represents their last best offer for a compact. The mediator shall select from the two proposed compacts the one which best comports with the terms of this chapter and any other applicable Federal law and with the findings and order of the court.
 
 (v) The mediator appointed by the court under clause (iv) shall submit to the State and the Indian tribe the compact selected by the mediator under clause (iv).
 

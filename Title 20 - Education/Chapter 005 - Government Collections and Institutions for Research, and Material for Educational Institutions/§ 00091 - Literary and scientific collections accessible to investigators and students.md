@@ -1,6 +1,6 @@
 ### §91. Literary and scientific collections accessible to investigators and students
 
-The facilities for study research and illustration in the Government departments and in the following and any other governmental collections now existing or hereafter to be established in the city of Washington for the promotion of knowledge shall be accessible, under such rules and restrictions as the officers in charge of each department or collection may prescribe, subject to such authority as is now or may hereafter be permitted by law, to the scientific investigators and to duly qualified individuals, students and graduates of any institution of learning in the several States and Territories and the District of Columbia, to wit:
+The facilities for study research and illustration in the Government departments and in thefollowing and any other governmental collections now existing or hereafter to be established in the city of Washington for the promotion of knowledge shall be accessible, under such rules and restrictions as the officers in charge of each department or collection may prescribe, subject to such authority as is now or may hereafter be permitted by law, to the scientific investigators and to duly qualified individuals, students and graduates of any institution of learning in the several States and Territories and the District of Columbia, to wit:
 
 One. Of the Library of Congress.
 
@@ -52,13 +52,13 @@ Functions of all other officers of Department of the Interior and functions of a
 
 Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, succeeded by United States Fish and Wildlife Service established by act Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120, which is classified to section 742b of Title 16, Conservation.
 
-Bureau of Fisheries consolidated with Bureau of Biological Survey into Fish and Wildlife Service in Department of the Interior by Reorg. Plan No. III of 1940, set out in the Appendix to Title 5. The Bureau had been previously transferred to Department of the Interior by Reorg. Plan No. II of 1939, §4(e), also set out in the Appendix to Title 5.
+Bureau of Fisheries consolidated with Bureau of Biological Survey into Fish and Wildlife Service in Department of the Interior by Reorg. Plan No. III of 1940, set out in the Appendix to Title 5, Government Organization and Employees. The Bureau had been previously transferred to Department of the Interior by Reorg. Plan No. II of 1939, §4(e), also set out in the Appendix to Title 5.
 
 For transfer of certain personal property and functions, insofar as they pertain to the Air Force, from Secretary of the Army and Department of the Army, to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 6, eff. Jan. 15, 1948; 39, May 18, 1949; 40 \[App. B(69)\], July 22, 1949.
 
 “Department of Education” substituted in text for “Office of Education” pursuant to sections 301(b)(2) and 507 of Pub. L. 96–88, which are classified to sections 3441(b)(2) and 3507 of this title and which transferred Office of Education to Department of Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Office of Education transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, set out in the Appendix to Title 5.
 

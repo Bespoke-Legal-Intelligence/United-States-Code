@@ -2,7 +2,7 @@
 
 Sections, act Apr. 26, 1910, ch. 191, 36 Stat. 335, formerly known as “The Insecticides Act”, are covered by subchapter II of this chapter.
 
-#### Effective Date of Repeal; Savings Provisions
+#### Effective Date of Repeal; Savings Provision
 
 Section 16 of act June 25, 1947, repealed this subchapter effective one year after June 25, 1947, and further provided that this subchapter should be deemed to remain in full force for the purpose of sustaining any proper suit, action, or other proceeding with respect to any violations, liabilities incurred, or appeals taken prior to such date of repeal or to sales, shipments, or deliveries of insecticides and fungicides exempted by the Secretary.
 

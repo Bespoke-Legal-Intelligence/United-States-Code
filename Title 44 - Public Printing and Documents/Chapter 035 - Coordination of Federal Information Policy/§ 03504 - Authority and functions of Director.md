@@ -116,9 +116,9 @@
 
 &emsp;(1) develop and oversee the implementation of policies, principles, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for agencies;
 
-&emsp;(2) oversee and coordinate compliance with sections 552 and 552a of title 5, sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 5131 of the Clinger-Cohen Act of 1996, and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note),<sup>1</sup> and related information management laws; and
+&emsp;(2) oversee and coordinate compliance with sections 552 and 552a of title 5, sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441), and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note),<sup>1</sup> and related information management laws; and
 
-&emsp;(3) require Federal agencies, consistent with the standards and guidelines promulgated under section 5131 of the Clinger-Cohen Act of 1996 and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note),<sup>1</sup> to identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.
+&emsp;(3) require Federal agencies, consistent with the standards and guidelines promulgated under section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note),<sup>1</sup> to identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.
 
 (h) With respect to Federal information technology, the Director shall—
 
@@ -126,9 +126,9 @@
 
 &emsp;&emsp;(A) develop and oversee the implementation of policies, principles, standards, and guidelines for information technology functions and activities of the Federal Government, including periodic evaluations of major information systems; and
 
-&emsp;&emsp;(B) oversee the development and implementation of standards under section 5131 of the Clinger-Cohen Act of 1996;
+&emsp;&emsp;(B) oversee the development and implementation of standards under section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441);
 
-&emsp;(2) monitor the effectiveness of, and compliance with, directives issued under the Clinger-Cohen Act of 1996 and directives issued under section 110 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757);
+&emsp;(2) monitor the effectiveness of, and compliance with, directives issued under division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.) and directives issued under section 110 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757);
 
 &emsp;(3) coordinate the development and review by the Office of Information and Regulatory Affairs of policy associated with Federal procurement and acquisition of information technology with the Office of Federal Procurement Policy;
 
@@ -140,13 +140,13 @@
 
 &emsp;(5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907.)
 
 #### References in Text
 
 Sections 5 and 6 of the Computer Security Act of 1987, referred to in subsec. (g)(2), (3), are sections 5 and 6 of Pub. L. 100–235, as amended, which are set out in a note under section 1441 of Title 40, Public Buildings, Property, and Works.
 
-The Clinger-Cohen Act of 1996, referred to in subsec. (h)(2), is div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 642, 679. Div. E of Pub. L. 104–106 is classified principally to chapter 25 (§1401 et seq.) of Title 40. Section 5131 of the Act is classified to section 1441 of Title 40. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 40, Short Title of 1996 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
+The Clinger-Cohen Act of 1996, referred to in subsec. (h)(2), is div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 642, 679. Div. E of Pub. L. 104–106 is classified principally to chapter 25 (§1401 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 40 and Tables.
 
 #### Prior Provisions
 
@@ -156,29 +156,25 @@ Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, prov
 
 #### Amendments
 
-1996—Subsec. (g)(2). Pub. L. 104–208 substituted “Clinger-Cohen Act of 1996” for “Information Technology Management Reform Act of 1996”.
+1997—Subsecs. (g)(2), (3), (h)(1)(B). Pub. L. 105–85, §1073(h)(5)(C), substituted “Clinger-Cohen Act of 1996 (40 U.S.C. 1441)” for “Information Technology Management Reform Act of 1996”.
 
-Pub. L. 104–106, §5131(e)(1)(A), substituted “sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 5131 of the Information Technology Management Reform Act of 1996, and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+Subsec. (h)(2). Pub. L. 105–85, §1073(h)(5)(B), substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
-Subsec. (g)(3). Pub. L. 104–208 substituted “Clinger-Cohen Act of 1996” for “Information Technology Management Reform Act of 1996”.
+1996—Subsec. (g)(2). Pub. L. 104–106, §5131(e)(1)(A), substituted “sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4), section 5131 of the Information Technology Management Reform Act of 1996, and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
-Pub. L. 104–106, §5131(e)(1)(B), substituted “the standards and guidelines promulgated under section 5131 of the Information Technology Management Reform Act of 1996 and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+Subsec. (g)(3). Pub. L. 104–106, §5131(e)(1)(B), substituted “the standards and guidelines promulgated under section 5131 of the Information Technology Management Reform Act of 1996 and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 759 note)” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
-Subsec. (h)(1)(B). Pub. L. 104–208 substituted “Clinger-Cohen Act of 1996” for “Information Technology Management Reform Act of 1996”.
+Subsec. (h)(1)(B). Pub. L. 104–106, §5605(b), substituted “section 5131 of the Information Technology Management Reform Act of 1996” for “section 111(d) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(d))”.
 
-Pub. L. 104–106, §5605(b), substituted “section 5131 of the Information Technology Management Reform Act of 1996” for “section 111(d) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(d))”.
-
-Subsec. (h)(2). Pub. L. 104–208 substituted “Clinger-Cohen Act of 1996” for “Information Technology Management Reform Act of 1996”.
-
-Pub. L. 104–106, §5605(c), substituted “the Information Technology Management Reform Act of 1996 and directives issued under section 110 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757)” for “sections 110 and 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757 and 759)”.
+Subsec. (h)(2). Pub. L. 104–106, §5605(c), substituted “the Information Technology Management Reform Act of 1996 and directives issued under section 110 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757)” for “sections 110 and 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 757 and 759)”.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set outas an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 40 sections 1412, 1413; title 41 section 421; title 42 section 13271.
+This section is referred to in title 40 sections 1412, 1413; title 42 section 13271.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Parent Boards.—The Secretary of Defense shall require that there be established at each military child development center a board of parents, to be composed of parents of children attending the center. The board shall meet periodically with staff of the center and the commander of the installation served by the center for the purpose of discussing problems and concerns. The board, together with the staff of the center, shall be responsible for coordinating theparent participation program described in subsection (b).
+Parent Boards.—The Secretary of Defense shall require that there be established at each military child development center a board of parents, to be composed of parents of children attending the center. The board shall meet periodically with staff of the center and the commander of the installation served by the center for the purpose of discussing problems and concerns. The board, together with the staff of the center, shall be responsible for coordinating the parent participation program described in subsection (b).
 
 (b)
 

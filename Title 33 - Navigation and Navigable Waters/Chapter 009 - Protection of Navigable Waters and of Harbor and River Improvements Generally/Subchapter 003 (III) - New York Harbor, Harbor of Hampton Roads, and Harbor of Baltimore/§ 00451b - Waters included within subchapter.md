@@ -8,7 +8,7 @@ For the purposes of this subchapter—
 
 (3) The term “harbor of Baltimore” means the tidal waters of the harbor of Baltimore and its adjacent and tributary waters, and so much of Chesapeake Bay and its tributaries as lies within the State of Maryland.
 
-(June 29, 1888, ch. 496, §7, as added Aug. 28, 1958, Pub. L. 85–802, §1(8), 72 Stat. 970.)
+(June 29, 1888, ch. 496, §7, as added Pub. L. 85–802, §1(8), Aug. 28, 1958, 72 Stat. 970.)
 
 #### Effective Date
 

@@ -16,7 +16,7 @@ Subsection (d) of section 125 of this title, referred to in subsec. (b), was rep
 
 #### Prior Provisions
 
-A prior section 191 was renumbered section 202 of this title.
+A prior section 191 was renumbered section 202 of this title and subsequently repealed.
 
 #### Amendments
 

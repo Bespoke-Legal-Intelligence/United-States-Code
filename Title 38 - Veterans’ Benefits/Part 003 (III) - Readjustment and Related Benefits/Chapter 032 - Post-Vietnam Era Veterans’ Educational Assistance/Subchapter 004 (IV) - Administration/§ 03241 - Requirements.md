@@ -82,7 +82,7 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(d)(2) of P
 
 #### Savings Provision
 
-Amendment by Pub. L. 102–586 not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
+Amendment by Pub. L. 102–586 not applicable to any person receiving educational assistance for pursuit ofan independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

@@ -1,16 +1,16 @@
 ### §1424b. Judge of District Court; appointment, tenure, removal, and compensation; appointment of United States attorney and marshal
 
-(a) The President shall, by and with the advice and consent of the Senate, appoint a judge for the District Court of Guam who shall hold office for the term of ten years and until his successor is chosen and qualified unless sooner removed by the President for cause. The judge shall receive a salary payable by the United States which shall be at the rate prescribed for judges of the United States district courts.
+(a) The President shall, by and with the advice and consent of the Senate, appoint a judge forthe District Court of Guam who shall hold office for the term of ten years and until his successor is chosen and qualified unless sooner removed by the President for cause. The judge shall receive a salary payable by the United States which shall be at the rate prescribed for judges of the United States district courts.
 
 The Chief Judge of the Ninth Judicial Circuit of the United States may assign a judge of a local court of record or a judge of the High Court of the Trust Territory of the Pacific Islands or a circuit or district judge of the ninth circuit or a recalled senior judge of the District Court of Guam or of the District Court for the Northern Mariana Islands, or the Chief Justice of the United States may assign any other United States circuit or district judge with the consent of the judge so assigned and of the chief judge of his circuit, to serve temporarily as a judge in the District Court of Guam whenever it is made to appear that such an assignment is necessary for the proper dispatch of the business of the court.
 
 (b) The President shall appoint, by and with the advice and consent of the Senate, a United States attorney and United States marshal for Guam to whose offices the provisions of chapters 35 and 37 of title 28, respectively, shall apply.
 
-(Aug. 1, 1950, ch. 512, §24, 64 Stat. 390; Oct. 31, 1951, ch. 655, §55(a), 65 Stat. 728; June 4, 1958, Pub. L. 85–444, §3, 72 Stat. 179; Oct. 5, 1984, Pub. L. 98–454, title VIII, §802, 98 Stat. 1743.)
+(Aug. 1, 1950, ch. 512, §24, 64 Stat. 390; Oct. 31, 1951, ch. 655, §55(a), 65 Stat. 728; Pub. L. 85–444, §3, June 4, 1958, 72 Stat. 179; Pub. L. 98–454, title VIII, §802, Oct. 5, 1984, 98 Stat. 1743.)
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–454, §802(a)–(c), substituted “for the term of ten years” for “for a term of eight years” in first par., and, in second par., substituted “a local court of record” for “the Island Courtof Guam” and inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “ninth circuit”.
+1984—Subsec. (a). Pub. L. 98–454, §802(a)–(c), substituted “for the term of ten years” for “for a term of eight years” in first par., and, in second par., substituted “a local court of record” for “the Island Court of Guam” and inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “ninth circuit”.
 
 Subsec. (b). Pub. L. 98–454, §802(d), substituted “35” and “37” for “31” and “33” respectively.
 

@@ -148,7 +148,7 @@
 
 #### (1) In general
 
-&emsp;In any private action arising under this subchapter, all discovery and other proceedingsshall be stayed during the pendency of any motion to dismiss, unless the court finds, upon the motion of any party, that particularized discovery is necessary to preserve evidence or to prevent undue prejudice to that party.
+&emsp;In any private action arising under this subchapter, all discovery and other proceedings shall be stayed during the pendency of any motion to dismiss, unless the court finds, upon the motion of any party, that particularized discovery is necessary to preserve evidence or to prevent undue prejudice to that party.
 
 #### (2) Preservation of evidence
 

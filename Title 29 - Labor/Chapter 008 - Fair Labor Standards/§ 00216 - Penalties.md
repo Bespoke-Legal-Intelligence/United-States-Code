@@ -2,7 +2,7 @@
 
 #### (a) Fines and imprisonment
 
-Any person who willfully violates any of the provisions of section 215 of this title shall upon conviction thereof be subject to a fine of not more than $10,000, or to imprisonment for notmore than six months, or both. No person shall be imprisoned under this subsection except for an offense committed after the conviction of such person for a prior offense under this subsection.
+Any person who willfully violates any of the provisions of section 215 of this title shall upon conviction thereof be subject to a fine of not more than $10,000, or to imprisonment for not more than six months, or both. No person shall be imprisoned under this subsection except for an offense committed after the conviction of such person for a prior offense under this subsection.
 
 #### (b) Damages; right of action; attorney's fees and costs; termination of right of action
 
@@ -18,7 +18,7 @@ In any action or proceeding commenced prior to, on, or after August 8, 1956, no 
 
 #### (e) Civil penalties for child labor violations
 
-Any person who violates the provisions of section 212 of this title or section 213(c)(5) of this title, relating to child labor, or any regulation issued under section 212 of this title or section 213(c)(5) of this title, shall be subject to a civil penalty of not to exceed $10,000 for each employee who was the subject of such a violation. Any person who repeatedly or willfully violates section 206 or 207 of this title shall be subject to a civil penalty of not to exceed $1,000 for each such violation. In determining the amount of any penalty under this subsection, the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered. The amount of any penalty under this subsection, when finally determined, may be—
+Any person who violates the provisions of section 212 of this title or section 213(c)(5) of this title, relating to child labor, or any regulation issued under section 212 of this title or section 213(c)(5) of this title, shall be subject to a civilpenalty of not to exceed $10,000 for each employee who was the subject of such a violation. Any person who repeatedly or willfully violates section 206 or 207 of this title shall be subject to a civil penalty of not to exceed $1,000 for each such violation. In determining the amount of any penalty under this subsection, the appropriateness of such penalty to the size of the business of the person charged and the gravity of the violation shall be considered. The amount of any penalty under this subsection, when finally determined, may be—
 
 &emsp;(1) deducted from any sums owing by the United States to the person charged;
 
@@ -28,7 +28,7 @@ Any person who violates the provisions of section 212 of this title or section 2
 
 > Any administrative determination by the Secretary of the amount of any penalty under this subsection shall be final, unless within fifteen days after receipt of notice thereof by certified mail the person charged with the violation takes exception to the determination that the violations for which the penalty is imposed occurred, in which event final determination of the penalty shall be made in an administrative proceeding after opportunity for hearing in accordance with section 554 of title 5, and regulations to be promulgated by the Secretary. Except for civil penalties collected for violations of section 212 of this title, sums collected as penalties pursuant to this section shall be applied toward reimbursement of the costs of determining the violations and assessing and collecting such penalties, in accordance with the provisions of section 9a of this title. Civil penalties collected for violations of section 212 of this title shall be deposited in the general fund of the Treasury.
 
-(June 25, 1938, ch. 676, §16, 52 Stat. 1069; May 14, 1947, ch. 52, §5(a), 61 Stat. 87; Oct. 26, 1949, ch. 736, §14, 63 Stat. 919; 1950 Reorg. Plan No. 6, §§1, 2, 15 F.R. 3174, 64 Stat. 1263; Aug. 8, 1956, ch. 1035, §4, 70 Stat. 1118; Aug. 30, 1957, Pub. L. 85–231, §1(2), 71 Stat. 514; May 5, 1961, Pub. L. 87–30, §12(a), 75 Stat. 74; Sept. 23, 1966, Pub. L. 89–601, title VI, §601(a), 80 Stat. 844; Apr. 8, 1974, Pub. L. 93–259, §§ 6(d)(1), 25(c), 26, 88 Stat. 61, 72, 73; Nov. 1, 1977, Pub. L. 95–151, §10, 91 Stat. 1252; Nov. 17, 1989, Pub. L. 101–157, §9, 103 Stat. 945; Nov. 5, 1990, Pub. L. 101–508, title III, §3103, 104 Stat. 1388–29; Aug. 6, 1996, Pub. L. 104–174, §2, 110 Stat. 1554.)
+(June 25, 1938, ch. 676, §16, 52 Stat. 1069; May 14, 1947, ch. 52, §5(a), 61 Stat. 87; Oct. 26, 1949, ch. 736, §14, 63 Stat. 919; 1950 Reorg. Plan No. 6, §§1, 2, 15 F.R. 3174, 64 Stat. 1263; Aug. 8, 1956, ch. 1035, §4, 70 Stat. 1118; Pub. L. 85–231, §1(2), Aug. 30, 1957, 71 Stat. 514; Pub. L. 87–30, §12(a), May 5, 1961, 75 Stat. 74; Pub. L. 89–601, title VI, §601(a), Sept. 23, 1966, 80 Stat. 844; Pub. L. 93–259, §§ 6(d)(1), 25(c), 26, Apr. 8, 1974, 88 Stat. 61, 72, 73; Pub. L. 95–151, §10, Nov. 1, 1977, 91 Stat. 1252; Pub. L. 101–157, §9, Nov. 17, 1989, 103 Stat. 945; Pub. L. 101–508, title III, §3103, Nov. 5, 1990, 104 Stat. 1388–29; Pub. L. 104–174, §2, Aug. 6, 1996, 110 Stat. 1554.)
 
 #### References in Text
 

@@ -20,7 +20,7 @@ There is established a Nuclear Waste Technical Review Board that shall be an ind
 
 &emsp;(II) selected solely on the basis of established records of distinguished service.
 
-(ii) The membership of the Board shall be representative of the broad range of scientific and engineering disciplines related to activities under this subchapter.
+(ii) The membership of the Board shall be representative of the broad range of scientific andengineering disciplines related to activities under this subchapter.
 
 (iii) No person shall be nominated for appointment to the Board who is an employee of—
 

@@ -12,7 +12,7 @@ New York is divided into four judicial districts to be known as the Northern, So
 
 (b) The Southern District comprises the counties of Bronx, Dutchess, New York, Orange, Putnam, Rockland, Sullivan, and Westchester and concurrently with the Eastern District, the waters within the Eastern District.
 
-&emsp;&emsp;Court for the Southern District shall be held at New York and White Plains.
+&emsp;&emsp;Court for the Southern District shall be held at New York, White Plains, and in the Middletown-Wallkill area of Orange County or such nearby location as may be deemed appropriate.
 
 ### Eastern District
 
@@ -26,7 +26,7 @@ New York is divided into four judicial districts to be known as the Northern, So
 
 &emsp;&emsp;Court for the Western District shall be held at Buffalo, Canandaigua, Elmira, Jamestown, and Rochester.
 
-(June 25, 1948, ch. 646, 62 Stat. 885; Dec. 18, 1967, Pub. L. 90–217, 81 Stat. 662; Dec. 14, 1970, Pub. L. 91–546, §1, 84 Stat. 1412; Apr. 28, 1978, Pub. L. 95–271, §1, 92 Stat. 221; Oct. 2, 1978, Pub. L. 95–408, §4(c), 92 Stat. 885; Nov. 2, 1978, Pub. L. 95–573, §3, 92 Stat. 2458; Nov. 8, 1984, Pub. L. 98–620, title IV, §405, 98 Stat. 3361; Dec. 1, 1990, Pub. L. 101–650, title III, §324(a)(2), 104 Stat. 5120.)
+(June 25, 1948, ch. 646, 62 Stat. 885; Pub. L. 90–217, Dec. 18, 1967, 81 Stat. 662; Pub. L. 91–546, §1, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–271, §1, Apr. 28, 1978, 92 Stat. 221; Pub. L. 95–408, §4(c), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–573, §3, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 98–620, title IV, §405, Nov. 8, 1984, 98 Stat. 3361; Pub. L. 101–650, title III, §324(a)(2), Dec. 1, 1990, 104 Stat. 5120; Pub. L. 104–317, title VI, §609, Oct. 19, 1996, 110 Stat. 3860.)
 
 #### Historical and Revision Notes
 
@@ -54,11 +54,13 @@ Changes were made in arrangement and phraseology.
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–650 substituted “Utica, and Watertown” for “and Utica”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–317 amended last sentence generally, substituting “Court for the Southern District shall be held at New York, White Plains, and in the Middletown-Wallkill area of Orange County or such nearby location as may be deemed appropriate.” for “Court for the Southern District shall be held at New York and White Plains.”
 
-1984—Subsec. (c). Pub. L. 98–620 provided for holding court at Hauppauge.
+<b>1990</b>—Subsec. (a). Pub. L. 101–650 substituted “Utica, and Watertown” for “and Utica”.
 
-1978—Subsec. (a). Pub. L. 95–408, §4(c)(1), added counties of Columbia, Greene, and Ulster to those counties comprising the Northern District of New York.
+<b>1984</b>—Subsec. (c). Pub. L. 98–620 provided for holding court at Hauppauge.
+
+<b>1978</b>—Subsec. (a). Pub. L. 95–408, §4(c)(1), added counties of Columbia, Greene, and Ulster to those counties comprising the Northern District of New York.
 
 Subsec. (b). Pub. L. 95–573 provided for holding court at White Plains.
 
@@ -66,9 +68,9 @@ Pub. L. 95–408, §4(c)(2), struck out Columbia, Greene, and Ulster from those 
 
 Subsec. (c). Pub. L. 95–271 substituted “and Hempstead (including the village of Uniondale)” for “Mineola, and Westbury”.
 
-1970—Subsec. (c). Pub. L. 91–546 provided for holding court at Westbury.
+<b>1970</b>—Subsec. (c). Pub. L. 91–546 provided for holding court at Westbury.
 
-1967—Subsec. (c). Pub. L. 90–217 provided for holding court at Mineola.
+<b>1967</b>—Subsec. (c). Pub. L. 90–217 provided for holding court at Mineola.
 
 #### Effective Date of 1984 Amendment
 

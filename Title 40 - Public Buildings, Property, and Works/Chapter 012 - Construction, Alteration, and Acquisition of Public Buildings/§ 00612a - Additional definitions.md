@@ -12,7 +12,7 @@ As used in this title and in the amendments made by this title—
 
 (5) The term “commercial activities” includes, but is not limited to, the operations of restaurants, food stores, craft stores, dry goods stores, financial institutions, and display facilities.
 
-(6) The term “cultural activities” includes, but is not limited to, film, dramatic, dance, andmusical presentations, and fine art exhibits, whether or not such activities are intended to make a profit.
+(6) The term “cultural activities” includes, but is not limited to, film, dramatic, dance, and musical presentations, and fine art exhibits, whether or not such activities are intended to make a profit.
 
 (7) The term “educational activities” includes, but is not limited to, the operations of libraries, schools, day care centers, laboratories, and lecture and demonstration facilities.
 

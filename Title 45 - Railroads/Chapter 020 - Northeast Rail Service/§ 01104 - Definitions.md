@@ -8,7 +8,7 @@ As used in this subtitle, unless the context otherwise requires, the term:
 
 &emsp;(3) “Commuter authority” means any State, local, or regional authority, corporation, or other entity established for purposes of providing commuter service, and includes the Metropolitan Transportation Authority, the Connecticut Department of Transportation, the Maryland Department of Transportation, the Southeastern Pennsylvania Transportation Authority, the New Jersey Transit Corporation, the Massachusetts Bay Transportation Authority, the Port Authority Trans-Hudson Corporation, any successor agencies, and any entity created by one or more such agencies for the purpose of operating, or contracting for the operation of, commuter service.
 
-&emsp;(4) “Commuter service” means short-haul rail passenger service operated in metropolitan and suburban areas, whether within or across the geographical boundaries of a State,usually characterized by reduced fare, multiple-ride, and commutation tickets, and by morning and evening peak period operations.
+&emsp;(4) “Commuter service” means short-haul rail passenger service operated in metropolitan and suburban areas, whether within or across the geographical boundaries of a State, usually characterized by reduced fare, multiple-ride, and commutation tickets, and by morning and evening peak period operations.
 
 &emsp;(5) “Conrail” means the Consolidated Rail Corporation created under title III of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 741 et seq.).
 

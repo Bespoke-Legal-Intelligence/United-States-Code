@@ -10,7 +10,7 @@ The Secretary of Commerce, in conjunction with the Secretary of Agriculture and 
 
 #### (b) Report to Congress
 
-Not later than April 1, 1993, the Secretary of Commerce shall submit to the Committees on Agriculture, Natural Resources, and Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the volume and value of unprocessed timber grown and harvested from Federal lands or public lands east of the 100th meridian that is exported from the United States during the 2-year period beginning on January 1, 1991, the country to which such timber is exported, and the State in which such timber was grown and harvested.
+Not later than April 1, 1993, the Secretary of Commerce shall submit to the Committees on Agriculture, Natural Resources, and Foreign Affairs of the House of Representatives and theCommittee on Banking, Housing, and Urban Affairs of the Senate a report describing the volume and value of unprocessed timber grown and harvested from Federal lands or public lands east of the 100th meridian that is exported from the United States during the 2-year period beginning on January 1, 1991, the country to which such timber is exported, and the State in which such timber was grown and harvested.
 
 (Pub. L. 101–382, title IV, §498, Aug. 20, 1990, 104 Stat. 725; Pub. L. 103–437, §6(d)(35), Nov. 2, 1994, 108 Stat. 4585.)
 
@@ -23,4 +23,8 @@ Not later than April 1, 1993, the Secretary of Commerce shall submit to the Comm
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 620d, 620f of this title.
 

@@ -146,7 +146,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 #### (f) Fortified fluid milk
 
-(1) Subject to the availability of appropriations to carry out this subsection, the Secretary shall establish pilot projects in at least 25 school districts under which the milk offered by schools meets the fortification requirements of paragraph (3) for lowfat, skim, and other forms of fluid milk.
+(1) Subject to the availability of appropriations to carry out this subsection, the Secretaryshall establish pilot projects in at least 25 school districts under which the milk offered by schools meets the fortification requirements of paragraph (3) for lowfat, skim, and other forms of fluid milk.
 
 (2) The Secretary shall make available to school districts information that compares the nutritional benefits of fluid milk that meets the fortification requirements of paragraph (3) and the nutritional benefits of other milk that is made available through the school lunch program established under this chapter.
 
@@ -222,7 +222,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 (5) Subject to the availability of funds appropriated to carry out this subsection, the Secretary shall use not more than $5,000,000 for each of fiscal years 1995 through 1997 to carry out this subsection.
 
-(6) For purposes of this subsection, qualified products shall include organically produced agricultural commodities and products beginning on the date the Secretary establishes an organic certification program for producers and handlers of agricultural products in accordance with the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
+(6) For purposes of this subsection, qualified products shall include organically produced agricultural commodities and products beginning on the date the Secretary establishes an organiccertification program for producers and handlers of agricultural products in accordance with the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.).
 
 #### (h) Increased choices of lowfat dairy products and lean meat and poultry products
 
@@ -286,7 +286,7 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 &emsp;&emsp;(iv) describing the funding, if any that the school will receive from non-Federal sources to carry out the pilot project;
 
-&emsp;&emsp;(v) describing and justifying the additional amount, over the most recent prior year reimbursement amount received under the school lunch program and the school breakfast program (adjusted for inflation and fluctuations in enrollment), that the school needs from the Federal government to conduct the pilot; and
+&emsp;&emsp;(v) describing and justifying the additional amount, over the most recent prior year reimbursement amount received under theschool lunch program and the school breakfast program (adjusted for inflation and fluctuations in enrollment), that the school needs from the Federal government to conduct the pilot; and
 
 &emsp;&emsp;(vi) describing the policy of the school on a la carte and competitive foods;
 
@@ -342,7 +342,7 @@ The Child Nutrition Act of 1966, referred to in subsecs. (a) and (i)(2)(A), (B),
 
 The Social Security Act, referred to in subsec. (c)(3)(A)(iv)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Organic Foods Production Act of 1990, referred to in subsecs. (g)(6) and (h)(6), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, as amended, which is classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
+The Organic Foods Production Act of 1990, referred to in subsecs. (g)(6) and (h)(6), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, as amended, whichis classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
 
 #### Codification
 
@@ -356,7 +356,7 @@ A prior section 18 of act June 4, 1946, which was classified to section 1767 of 
 
 1996—Subsec. (d)(3) to (5). Pub. L. 104–193, §709(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which related to pilot program for schools with universal free lunch programs to use certain methods to determine number of free, reduced price, and paid meals to be provided.
 
-Subsec. (e)(1). Pub. L. 104–193, §709(b)(1), designated subpar. (A) as par. (1), substituted “Secretary may establish” for “Secretary shall establish”, and struck out subpar. (B) which read as follows: “The amount of agrant under subparagraph (A) shall be equal to the amount necessary to provide meals or supplements described in such subparagraph and shall be determined in accordance with reimbursement payment rates for meals and supplements under the child and adult care food program under section 1766 of this title.”
+Subsec. (e)(1). Pub. L. 104–193, §709(b)(1), designated subpar. (A) as par. (1), substituted “Secretary may establish” for “Secretary shall establish”, and struck out subpar. (B) which read as follows: “The amount of a grant under subparagraph (A) shall be equal to the amount necessary to provide meals or supplements described in such subparagraph and shall be determined in accordance with reimbursement payment rates for meals and supplements under the child and adult care food program under section 1766 of this title.”
 
 Subsec. (e)(5). Pub. L. 104–193, §709(b)(2), added heading and text of par. (5) and struck out former par. (5) which read as follows:
 
@@ -440,7 +440,7 @@ Section 101(b) of Pub. L. 102–342 provided that:
 
 #### Alternative Counting and Claiming Procedures; Promulgation of Regulations
 
-Section 205(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 18(g) of the National School Lunch Act \[now subsec. (d) ofthis section\] (as added by subsection (a) of this section).”
+Section 205(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 18(g) of the National School Lunch Act \[now subsec. (d) of this section\] (as added by subsection (a) of this section).”
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@
 
 (f) Federal recognition extended under subsection (d) or (e) is effective from the date of appointment in the Army National Guard or the Air National Guard, as the case may be.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Sept. 2, 1958, Pub. L. 85–861, §2(6), 72 Stat. 1543; Oct. 13, 1972, Pub. L. 92–492, §2(b), 86 Stat. 810; Dec. 16, 1980, Pub. L. 96–535, 94 Stat. 3165; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1676(a)(2), 108 Stat. 3019.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Pub. L. 85–861, §2(6), Sept. 2, 1958, 72 Stat. 1543; Pub. L. 92–492, §2(b), Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–535, Dec. 16, 1980, 94 Stat. 3165; Pub. L. 103–337, div. A, title XVI, §1676(a)(2), Oct. 5, 1994, 108 Stat. 3019.)
 
 Historical and Revision Notes<br>1956
 

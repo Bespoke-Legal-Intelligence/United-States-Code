@@ -24,7 +24,9 @@
 
 (d) In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit, the Secretary concerned, pursuant to regulations to be prescribed by the Secretary of Defense, may increase the rate of the basic educational assistance allowance applicable to such individual to such rate in excess of the rate prescribed under subsections (a), (b), and (c) of this section as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $400 per month, in the case of an individual who first became a member of the Armed Forces before November 29, 1989, or $700 per month, in the case of an individual who first became a member of the Armed Forces on or after that date.
 
-(e)(1) Subject to paragraph (2) of this subsection, in the case of an individual who on December 31, 1989, was entitled to educational assistance under chapter 34 of this title, the rate of the basic educational assistance allowance applicable to such individual under this chapter shall be increased by the amount equal to one-half of the educational assistance allowance that would be applicable to such individual under such chapter 34 (as of the time the assistance under this chapter is provided and based on the rates in effect on December 31, 1989) if such chapter were in effect.
+(e)(1)(A) Except as provided in subparagraph (B) of this paragraph and subject to paragraph\(2) of this subsection, in the case of an individual who on December 31, 1989, was entitled to educational assistance under chapter 34 of this title, the rate of the basic educational assistance allowance applicable to such individual under this chapter shall be increased by the amount equal to one-half of the educational assistance allowance that would be applicable to such individual under such chapter 34 (as of the time the assistance under this chapter is provided and based on the rates in effect on December 31, 1989) if such chapter were in effect.
+
+(B) Notwithstanding subparagraph (A) of this paragraph, in the case of an individual described in that subparagraph who is pursuing a cooperative program on or after October 9, 1996, the rate of the basic educational assistance allowance applicable to such individual under this chapter shall be increased by the amount equal to one-half of the educational assistance allowance that would be applicable to such individual for pursuit of full-time institutional training under chapter 34 (as of the time the assistance under this chapter is provided and based on the rates in effect on December 31, 1989) if such chapter were in effect.
 
 (2) The number of months for which the rate of the basic educational assistance allowance applicable to an individual is increased under paragraph (1) of this subsection may not exceed the number of months of entitlement to educational assistance under chapter 34 of this title that the individual had remaining on December 31, 1989.
 
@@ -32,13 +34,17 @@
 
 (g) With respect to any fiscal year beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subsection (a)(1) or (b)(1) of this section, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates equal to the percentage by which—
 
-&emsp;(1) the Consumer Price Index (all items, United States city average) for the 12-monthperiod ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
+&emsp;(1) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
 &emsp;(2) such Consumer Price Index for the 12-month period preceding the 12-month period described in paragraph (1).
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1415; amended Pub. L. 100–689, title I, §§103(b)(3), 111(a)(5)(A), Nov. 18, 1988, 102 Stat. 4165, 4171; Pub. L. 101–189, div. A, title VI, §641, Nov. 29, 1989, 103 Stat. 1456; Pub. L. 101–237, title IV, §423(b)(1)(A), (5), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(2), Nov. 5, 1990, 104 Stat. 1573; Pub. L. 102–25, title III, §337(a), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–54, §14(c)(1), June 13, 1991, 105 Stat. 284; renumbered §3015 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§301(a), (c), 307(a), (b), Oct. 29, 1992, 106 Stat. 4325, 4326, 4328, 4329; Pub. L. 103–66, title XII, §12009(a), (d)(1), (2), Aug. 10, 1993, 107 Stat. 415, 416; Pub. L. 104–275, title I, §106(b)(3), Oct. 9, 1996, 110 Stat. 3329.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1415; amended Pub. L. 100–689, title I, §§103(b)(3), 111(a)(5)(A), Nov. 18, 1988, 102 Stat. 4165, 4171; Pub. L. 101–189, div. A, title VI, §641, Nov. 29, 1989, 103 Stat. 1456; Pub. L. 101–237, title IV, §423(b)(1)(A), (5), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(2), Nov. 5, 1990, 104 Stat. 1573; Pub. L. 102–25, title III, §337(a), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–54, §14(c)(1), June 13, 1991, 105 Stat. 284; renumbered §3015 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§301(a), (c), 307(a), (b), Oct. 29, 1992, 106 Stat. 4325, 4326, 4328, 4329; Pub. L. 103–66, title XII, §12009(a), (d)(1), (2), Aug. 10, 1993, 107 Stat. 415, 416; Pub. L. 104–275, title I, §106(b)(3), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 105–114, title IV, §401(b), Nov. 21, 1997, 111 Stat. 2293.)
 
 #### Amendments
+
+1997—Subsec. (e)(1)(A). Pub. L. 105–114, §401(b)(1), substituted “(1)(A) Except as provided in subparagraph (B) of this paragraph and subject to paragraph (2)” for “(1) Subject to paragraph (2)”.
+
+Subsec. (e)(1)(B). Pub. L. 105–114, §401(b)(2), added subpar. (B).
 
 1996—Subsec. (f). Pub. L. 104–275 inserted “, 3018B, or 3018C” after “section 3018A”.
 
@@ -106,7 +112,7 @@ Section 307(c) of Pub. L. 102–568 provided that: “The amendments made by sub
 
 #### 1995 Cost-of-Living Adjustment in Rates of Educational Assistance
 
-Fiscal year 1995 cost-of-living adjustments in rates of educational assistance payable under this chapter to be percentage equal to 50 percent of percentage by which such assistance would be increased under subsec. (g) of this section but for section 12009 of Pub. L. 103–66, seesection 12009(c) of Pub. L. 103–66, set out as a note under section 16131 of Title 10, Armed Forces.
+Fiscal year 1995 cost-of-living adjustments in rates of educational assistance payable under this chapter to be percentage equal to 50 percent of percentage by which such assistance would be increased under subsec. (g) of this section but for section 12009 of Pub. L. 103–66, see section 12009(c) of Pub. L. 103–66, set out as a note under section 16131 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

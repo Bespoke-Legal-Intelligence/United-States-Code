@@ -18,7 +18,7 @@ Upon the application of the parties in interest, the court may order that the mo
 
 Upon the filing of a declaration of taking, the court shall have power to fix the time within which and the terms upon which the parties in possession shall be required to surrender possession to the petitioner. The court shall have power to make such orders in respect of encumbrances, liens, rents, taxes, assessments, insurance, and other charges, if any, as shall be just and equitable.
 
-(Feb. 26, 1931, ch. 307, §1, 46 Stat. 1421; Nov. 14, 1986, Pub. L. 99–656, §1(1), 100 Stat. 3668.)
+(Feb. 26, 1931, ch. 307, §1, 46 Stat. 1421; Pub. L. 99–656, §1(1), Nov. 14, 1986, 100 Stat. 3668.)
 
 #### Amendments
 
@@ -42,5 +42,5 @@ Jurisdiction and venue in condemnation cases, see sections 1358 and 1403 of Titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 258b, 258c, 258d, 258e–1 of this title; title 10 section 7422; title 16 sections 79c, 831c; title 25 sections 500a, 941j, 1724, 1754; title 33 section 598; title 39 section 410; title 42 sections 1502, 1592d, 1594a, 2222, 4651; title 43 section 1522; title 50 section 167f.
+This section is referred to in sections 258b, 258c, 258d, 258e–1 of this title; title 10 section 7422; title 16 sections 79c, 831c; title 25 sections 500a, 941j, 1724, 1754; title 33 section 598; title 39 section 410; title 42 sections 1502, 1592d, 1594a, 2222, 4651; title 43 section 1522.
 

@@ -44,7 +44,7 @@ Technical Assistance.—(1) The Secretary may, upon the request of the technical
 
 (2) The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee or restoration advisory board only if—
 
-&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
+&emsp;(A) the technical review committee or restoration advisory board demonstrates that theFederal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
 
 &emsp;(B) the technical assistance—
 
@@ -116,7 +116,7 @@ Section 326(d) of Pub. L. 103–337 provided that: “Not later than 180 days af
 
 #### Report on Restoration Advisory Boards and Assistance for Citizen Participation on Committees and Boards
 
-Section 326(e) of Pub. L. 103–337 provided that: “Not later than May 1, 1996, the Secretary of Defense shallsubmit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report regarding—
+Section 326(e) of Pub. L. 103–337 provided that: “Not later than May 1, 1996, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives \[now Committee on Armed Services of the Senate and Committee on National Security of the House of Representatives\] a report regarding—
 
 &emsp;“(1) the establishment of restoration advisory boards under subsection (d) of section 2705 of title 10, United States Code, as added by subsection (a); and
 

@@ -14,7 +14,7 @@ The Congress finds that—
 
 It is the policy of the United States that—
 
-&emsp;(1) adequate data should be developed with respect to the effect of chemical substances and mixtures on health and the environment and that the development of such data should be the responsibility of those who manufacture and those who process such chemical substances and mixtures;
+&emsp;(1) adequate data should be developed with respect to the effect of chemical substances and mixtures on health and the environmentand that the development of such data should be the responsibility of those who manufacture and those who process such chemical substances and mixtures;
 
 &emsp;(2) adequate authority should exist to regulate chemical substances and mixtures which present an unreasonable risk of injury to health or the environment, and to take action with respect to chemical substances and mixtures which are imminent hazards; and
 

@@ -52,7 +52,7 @@ Oct. 20, 1972, Pub. L. 92–513, §201(d), 86 Stat. 956; July 14, 1976, Pub. L. 
 
 15:1941(e).
 
-In subsection (a), the words before clause (1) are substituted for “The Secretary shall compile the information described in subsection (c) of this section” and “existing information and information to be developedrelating to” for clarity and to eliminate unnecessary words.
+In subsection (a), the words before clause (1) are substituted for “The Secretary shall compile the information described in subsection (c) of this section” and “existing information and information to be developed relating to” for clarity and to eliminate unnecessary words.
 
 In subsection (b), the words “After the study has been completed” are omitted as executed. The words “To assist a consumer in buying a passenger motor vehicle” are substituted for “so as to be of benefit in their passenger motor vehicle purchasing decisions”, and the words “the Secretary shall provide to the public” are substituted for “the Secretary is authorized and directed to devise specific ways in which . . . can be communicated to consumers” and “furnish it to the public”, to eliminate unnecessary words. The word “existing” is omitted as obsolete.
 

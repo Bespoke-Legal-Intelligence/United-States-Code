@@ -14,7 +14,7 @@ Any money collected by the United States as permit fees for collection and remov
 
 #### (d) Existing rights
 
-Nothing in this chapter shall be deemed to affect the full operation of the mining and mineralleasing laws of the United States, or otherwise affect valid existing rights.
+Nothing in this chapter shall be deemed to affect the full operation of the mining and mineral leasing laws of the United States, or otherwise affect valid existing rights.
 
 (Pub. L. 100–691, §9, Nov. 18, 1988, 102 Stat. 4550.)
 

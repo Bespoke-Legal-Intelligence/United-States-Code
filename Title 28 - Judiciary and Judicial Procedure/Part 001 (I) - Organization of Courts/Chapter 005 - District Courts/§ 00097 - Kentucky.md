@@ -14,7 +14,7 @@ Kentucky is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Western District shall be held at Bowling Green, Louisville, Owensboro, and Paducah.
 
-(June 25, 1948, ch. 646, 62 Stat. 880; Oct. 2, 1978, Pub. L. 95–408, §2(a), 92 Stat. 883.)
+(June 25, 1948, ch. 646, 62 Stat. 880; Pub. L. 95–408, §2(a), Oct. 2, 1978, 92 Stat. 883.)
 
 #### Historical and Revision Notes
 
@@ -34,7 +34,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–408 provided for holding court at Ashland.
+<b>1978</b>—Subsec. (a). Pub. L. 95–408 provided for holding court at Ashland.
 
 #### Effective Date of 1978 Amendment; Savings Provision
 

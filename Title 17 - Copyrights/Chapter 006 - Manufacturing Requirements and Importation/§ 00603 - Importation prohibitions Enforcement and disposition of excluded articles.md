@@ -18,7 +18,7 @@ I74house report no. 94–1476
 
 The importation prohibitions of both sections 601 and 602 would be enforced under section 603, which is similar to section 109 of the statute now in effect \[section 109 of former title 17\]. Subsection (a) would authorize the Secretary of the Treasury and the United States Postal Service to make regulations for this purpose, and subsection (c) provides for the disposition of excluded articles.
 
-Subsection (b) of section 603 deals only with the prohibition against importation of “piratical” copies orphonorecords, and is aimed at solving problems that have arisen under the present statute. Since the United States Customs Service is often in no position to make determinations as to whether particular articles are “piratical,” section 603(b) would permit the Customs regulations to require the person seeking exclusion either to obtain a court order enjoining importation, or to furnish proof of his claim and to post bond.
+Subsection (b) of section 603 deals only with the prohibition against importation of “piratical” copies or phonorecords, and is aimed at solving problems that have arisen under the present statute. Since the United States Customs Service is often in no position to make determinations as to whether particular articles are “piratical,” section 603(b) would permit the Customs regulations to require the person seeking exclusion either to obtain a court order enjoining importation, or to furnish proof of his claim and to post bond.
 
 #### References in Text
 

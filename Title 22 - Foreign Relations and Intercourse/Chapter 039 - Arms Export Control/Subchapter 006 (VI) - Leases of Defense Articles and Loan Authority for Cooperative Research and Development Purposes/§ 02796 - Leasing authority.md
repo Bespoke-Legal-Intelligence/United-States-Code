@@ -10,7 +10,7 @@ The President may lease defense articles in the stocks of the Department of Defe
 
 &emsp;(3) the President first considers the effects of the lease of the articles on the national technology and industrial base, particularly the extent, if any, to which the lease reduces the opportunities of entities in the national technology and industrial base to sell new equipment to the country or countries to which the articles are leased; and
 
-&emsp;(4) the country or international organization has agreed to pay in United States dollars all costs incurred by the United States Government in leasing such articles, including reimbursement for depreciation of such articles while leased, the costs of restoration or replacement if the articles are damaged whileleased, and, if the articles are lost or destroyed while leased—
+&emsp;(4) the country or international organization has agreed to pay in United States dollars all costs incurred by the United States Government in leasing such articles, including reimbursement for depreciation of such articles while leased, the costs of restoration or replacement if the articles are damaged while leased, and, if the articles are lost or destroyed while leased—
 
 &emsp;&emsp;(A) in the event the United States intends to replace the articles lost or destroyed, the replacement cost (less any depreciation in the value) of the articles; or
 
@@ -20,7 +20,7 @@ The President may lease defense articles in the stocks of the Department of Defe
 
 &emsp;(A) may be exercised only if the President submits to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate, in accordance with the regular notification procedures of those Committees, a detailed notification for each lease with respect to which the authority is exercised; and
 
-&emsp;(B) may be exercised only during the fiscal year 1997 and only with respect to one country, unless the Congress hereafter provides otherwise.
+&emsp;(B) may be exercised only during the fiscal year 1998 and only with respect to one country, unless the Congress hereafter provides otherwise.
 
 > The preceding sentence does not constitute authorization of appropriations for payments by the United States for leased articles.
 
@@ -32,7 +32,7 @@ Each lease agreement under this section shall be for a fixed duration of not to 
 
 Defense articles in the stocks of the Department of Defense may be leased or loaned to a foreign country or international organization only under the authority of this subchapter or chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq.\], and may not be leased to a foreign country or international organization under the authority of section 2667 of title 10.
 
-(Pub. L. 90–629, ch. 6, §61, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1524; amended Pub. L. 99–500, §147, Oct. 18, 1986, 100 Stat. 1783–351, and Pub. L. 99–591, §147, Oct. 30, 1986, 100 Stat. 3341–354; Pub. L. 100–202, §101(e) \[title V, §556\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–170; Pub. L. 100–461, title V, §552, Oct. 1, 1988, 102 Stat. 2268–35; Pub. L. 101–167, title V, §550, Nov. 21, 1989, 103 Stat. 1235; Pub. L. 101–513, title V, §546, Nov. 5, 1990, 104 Stat. 2019; Pub. L. 102–145, §118, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93; Pub. L. 102–391, title V, §544, Oct. 6, 1992, 106 Stat. 1672; Pub. L. 103–87, title V, §524, Sept. 30, 1993, 107 Stat. 952; Pub. L. 103–236, title VII, §731(e), Apr. 30, 1994, 108 Stat. 503; Pub. L. 103–306, title V, §524, Aug. 23, 1994, 108 Stat. 1632; Pub. L. 104–107, title V, §524, Feb. 12, 1996, 110 Stat. 729; Pub. L. 104–164, title I, §§146, 153(a), July 21, 1996, 110 Stat. 1434, 1440; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §524\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149.)
+(Pub. L. 90–629, ch. 6, §61, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1524; amended Pub. L. 99–500, §147, Oct. 18, 1986, 100 Stat. 1783–351, and Pub. L. 99–591, §147, Oct. 30, 1986, 100 Stat. 3341–354; Pub. L. 100–202, §101(e) \[title V, §556\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–170; Pub. L. 100–461, title V, §552, Oct. 1, 1988, 102 Stat. 2268–35; Pub. L. 101–167, title V, §550, Nov. 21, 1989, 103 Stat. 1235; Pub. L. 101–513, title V, §546, Nov. 5, 1990, 104 Stat. 2019; Pub. L. 102–145, §118, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93; Pub. L. 102–391, title V, §544, Oct. 6, 1992, 106 Stat. 1672; Pub. L. 103–87, title V, §524, Sept. 30, 1993, 107 Stat. 952; Pub. L. 103–236, title VII, §731(e), Apr. 30, 1994, 108 Stat. 503; Pub. L. 103–306, title V, §524, Aug. 23, 1994, 108 Stat. 1632; Pub. L. 104–107, title V, §524, Feb. 12, 1996, 110 Stat. 729; Pub. L. 104–164, title I, §§146, 153(a), July 21, 1996, 110 Stat. 1434, 1440; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §524\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149; Pub. L. 105–118, title V, §524, Nov. 26, 1997, 111 Stat. 2412.)
 
 #### References in Text
 
@@ -45,6 +45,8 @@ Amendment by Pub. L. 102–145 is based on section 545 of H.R. 2621, One Hundred
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–118 substituted “1998” for “1997” in par. (B).
 
 1996—Subsec. (a). Pub. L. 104–164, §153(a), struck out “, or to any defense article which has passed three-quarters of its normal service life.” after “electronics interface projects” in second sentence and inserted after second sentence “The President may waive the requirement of paragraph (4) for reimbursement of depreciation for any defense article which has passed three-quarters of its normal service life if the President determines that to do so is important to the national security interest of the United States.”
 

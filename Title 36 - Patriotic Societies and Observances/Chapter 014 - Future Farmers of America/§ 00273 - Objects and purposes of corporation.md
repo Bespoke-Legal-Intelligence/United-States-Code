@@ -2,7 +2,7 @@
 
 The objects and purposes of the corporation shall be—
 
-&emsp;(1) to create, foster, and assist subsidiary chapters composed of students and former students of vocational agriculture in public schools qualifying for Federal reimbursement under the Smith-Hughes Vocational Education Act \[20 U.S.C. 11 et seq.\] or the Vocational Education Act of 1946, and associations of such chapters in the several States and Territories of the United States;
+&emsp;(1) to create, foster, and assist subsidiary chapters composed of students and former students of vocational agriculture in public schools qualifying for Federal reimbursement under the Smith-Hughes Vocational Education Act or the Vocational Education Act of 1946, and associations of such chapters in the several States and Territories of the United States;
 
 &emsp;(2) to develop character, train for useful citizenship, and foster patriotism, and thereby to develop competent, aggressive rural and agricultural leadership;
 
@@ -22,9 +22,9 @@ The objects and purposes of the corporation shall be—
 
 #### References in Text
 
-The Smith-Hughes Vocational Education Act, referred to in par. (1), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, as amended, which is classified to sections 11 to 15 and 16 to 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
+The Smith-Hughes Vocational Education Act, referred to in par. (1), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, as amended, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by Pub. L. 105–33, title VI, §6201, Aug. 5, 1997, 111 Stat. 653. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
 
-The Vocational Education Act of 1946, referred to in par. (1), is act June 8, 1936, ch. 541, 49 Stat. 1488, as amended, which was classified to sections 15h to 15ggg of Title 20, and was repealed by Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091.
+The Vocational Education Act of 1946, referred to in par. (1), is act June 8, 1936, ch. 541, 49 Stat. 1488, as amended, which was classified to sections 15h to 15ggg of Title 20, prior to repeal by Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091.
 
 #### Section Referred to in Other Sections
 

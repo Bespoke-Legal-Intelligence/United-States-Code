@@ -22,7 +22,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(ii) is not an integral part of an institution of higher education; and
 
-&emsp;&emsp;(E) a private library, but only if the State in which such private library is located determines that the library should be considered a library for purposes of this subchapter.
+&emsp;&emsp;(E) a private library or other special library, but only if the State in which such private or special library is located determines that the library should be considered a library for purposes of this subchapter.
 
 #### (3) Library consortium
 
@@ -40,11 +40,15 @@ As used in this subchapter:
 
 &emsp;The term “State plan” means the document which gives assurances that the officially designated State library administrative agency has the fiscal and legal authority and capability to administer all aspects of this subchapter, provides assurances for establishing the State's policies, priorities, criteria, and procedures necessary to the implementation of all programs under this subchapter, submits copies for approval as required by regulations promulgated by the Director, identifies a State's library needs, and sets forth the activities to be taken toward meeting the identified needs supported with the assistance of Federal funds made available under this subchapter.
 
-(Pub. L. 94–462, title II, §213, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296.)
+(Pub. L. 94–462, title II, §213, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 105–128, §3, Dec. 1, 1997, 111 Stat. 2548.)
 
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+#### Amendments
+
+1997—Par. (2)(E). Pub. L. 105–128 inserted “or other special library” after “a private library” and “or special” after “such private”.
 
 #### Section Referred to in Other Sections
 

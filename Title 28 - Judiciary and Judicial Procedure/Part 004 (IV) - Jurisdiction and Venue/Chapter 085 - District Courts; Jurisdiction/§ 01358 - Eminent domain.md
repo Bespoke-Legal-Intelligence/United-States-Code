@@ -46,5 +46,5 @@ Venue of eminent domain proceedings, see section 1403 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 section 79c; title 50 section 167f.
+This section is referred to in title 16 section 79c.
 

@@ -42,7 +42,7 @@
 
 #### (2) Report
 
-&emsp;The Secretary of Defense shall annually submit a report to the appropriate committees of Congress containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.
+&emsp;The Secretary of Defense shall annually submit a report to the appropriate committees ofCongress containing the findings of the study described in paragraph (1) and such recommendations for legislative and administrative reform as the Secretary may determine to be appropriate.
 
 (Pub. L. 101–610, title I, §172, Nov. 16, 1990, 104 Stat. 3159; Pub. L. 103–82, title I, §114, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 861, 918.)
 

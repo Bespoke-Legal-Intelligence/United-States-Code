@@ -1,0 +1,36 @@
+### §2512. Valuation of gifts
+
+(a) If the gift is made in property, the value thereof at the date of the gift shall be considered the amount of the gift.
+
+(b) Where property is transferred for less than an adequate and full consideration in money or money's worth, then the amount by which the value of the property exceeded the value of the consideration shall be deemed a gift, and shall be included in computing the amount of gifts made during the calendar year.
+
+#### (c) Cross reference
+
+&emsp;&emsp;<b>For individual's right to be furnished on request a statement regarding any valuation made by the Secretary of a gift by that individual, see section 7517.</b>
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 406; Dec. 31, 1970, Pub. L. 91–614, title I, §102(b)(1), 84 Stat. 1840; Oct. 4, 1976, Pub. L. 94–455, title XX, §2008(a)(2)(B), 90 Stat. 1891; Aug. 13, 1981, Pub. L. 97–34, title IV, §442(b)(1), 95 Stat. 322.)
+
+#### Amendments
+
+<b>1981</b>—Subsec. (b). Pub. L. 97–34 substituted “calendar year” for “calendar quarters”.
+
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 added subsec. (c).
+
+<b>1970</b>—Subsec. (b). Pub. L. 91–614 substituted “calendar quarter” for “calendar year”.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) of Pub. L. 97–34, set out as a note under section 2501 of this title.
+
+#### Effective Date of 1970 Amendment
+
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
+
+#### Cross References
+
+Certain property settlements, see section 2516 of this title.
+
+Gross estate upon transfers for insufficient consideration, see section 2043 of this title.
+
+Valuation and alternate valuation of gross estate, see sections 2031, 2032 of this title.
+

@@ -18,7 +18,7 @@ In this chapter—
 
 #### Short Title
 
-Section 5301 of Pub. L. 102–587 provided that: “This subtitle \[subtitle C (§§5301–5305) of title V of Pub. L.102–587, enacting this chapter, amending section 12301 of this title, and enacting provisions set out below\] may be cited as the ‘Abandoned Barge Act of 1992’.”
+Section 5301 of Pub. L. 102–587 provided that: “This subtitle \[subtitle C (§§5301–5305) of title V of Pub. L. 102–587, enacting this chapter, amending section 12301 of this title, and enacting provisions set out below\] may be cited as the ‘Abandoned Barge Act of 1992’.”
 
 #### Application to Certain Barges
 

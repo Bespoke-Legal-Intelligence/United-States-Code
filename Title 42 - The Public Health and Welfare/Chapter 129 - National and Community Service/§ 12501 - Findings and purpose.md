@@ -40,7 +40,7 @@ It is the purpose of this chapter to—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Section 1(a) of Pub. L. 103–82 provided that: “This Act \[see Tables for cla
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–384, §1, Oct. 5, 1992, 106 Stat. 1455, provided that: “This Act \[amending sections 12511, 12522, 12523, 12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639, 12651, and 12681 of this title\] may be cited as the ‘National and Community Service Technical Amendment Act of 1992’.”
+Pub. L. 102–384, §1, Oct. 5, 1992, 106 Stat. 1455, provided that: “This Act \[amending sections 12511, 12522, 12523,12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639, 12651, and 12681 of this title\] may be cited as the ‘National and Community Service Technical Amendment Act of 1992’.”
 
 #### Short Title of 1991 Amendment
 

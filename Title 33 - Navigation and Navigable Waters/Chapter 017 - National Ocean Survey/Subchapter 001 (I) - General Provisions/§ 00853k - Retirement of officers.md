@@ -8,7 +8,7 @@ When any commissioned officer serving in a rank below that of rear admiral has a
 
 When any officer serving in a rank above that of captain has attained the age of sixty-two years, he shall be placed on the retired list: <i>Provided</i>, That the President may, in his discretion, defer placing any such officer on the retired list for the length of time he deems advisable but not later than the date upon which such officer attains the age of sixty-four years.
 
-(June 3, 1948, ch. 390, §13, formerly §12, 62 Stat. 299; renumbered §13, Sept. 14, 1961, Pub. L. 87–233, §1(c), 75 Stat. 506.)
+(June 3, 1948, ch. 390, §13, formerly §12, 62 Stat. 299; renumbered §13, Pub. L. 87–233, §1(c), Sept. 14, 1961, 75 Stat. 506.)
 
 #### Delegation of Functions
 

@@ -36,7 +36,7 @@
 
 (3) The Secretary, by regulation promulgated in accordance with subsection (b) of this section and to the maximum extent prudent and determinable—
 
-&emsp;(A) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species,designate any habitat of such species which is then considered to be critical habitat; and
+&emsp;(A) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species, designate any habitat of such species which is then considered to be critical habitat; and
 
 &emsp;(B) may, from time-to-time thereafter as appropriate, revise such designation.
 
@@ -58,7 +58,7 @@
 
 &emsp;(i) The petitioned action is not warranted, in which case the Secretary shall promptly publish such finding in the Federal Register.
 
-&emsp;(ii) The petitioned action is warranted, in which case the Secretary shall promptly publish in the Federal Register a general notice and the complete text of a proposed regulation to implement such action in accordance with paragraph (5).
+&emsp;(ii) The petitioned action is warranted, in which case the Secretary shall promptly publish in the Federal Register a general noticeand the complete text of a proposed regulation to implement such action in accordance with paragraph (5).
 
 &emsp;(iii) The petitioned action is warranted, but that—
 
@@ -116,7 +116,7 @@
 
 (B)(i) If the Secretary finds with respect to a proposed regulation referred to in subparagraph (A)(i) that there is substantial disagreement regarding the sufficiency or accuracy of the available data relevant to the determination or revision concerned, the Secretary may extend the one-year period specified in subparagraph (A) for not more than six months for purposes of soliciting additional data.
 
-(ii) If a proposed regulation referred to in subparagraph (A)(i) is not promulgated as a final regulation within such one-year period (or longer period if extension under clause (i) applies) because the Secretary finds that there is not sufficient evidence to justify the action proposed by the regulation, the Secretary shall immediately withdraw the regulation. The finding on which a withdrawal is based shall be subject to judicial review. The Secretary may not propose a regulation that has previously been withdrawn under this clause unless he determines that sufficient new information is available to warrant such proposal.
+(ii) If a proposed regulation referred to in subparagraph (A)(i) is not promulgated as a final regulation within such one-year period (or longer period if extension under clause (i) applies) because the Secretary finds that there isnot sufficient evidence to justify the action proposed by the regulation, the Secretary shall immediately withdraw the regulation. The finding on which a withdrawal is based shall be subject to judicial review. The Secretary may not propose a regulation that has previously been withdrawn under this clause unless he determines that sufficient new information is available to warrant such proposal.
 
 (iii) If the one-year period specified in subparagraph (A) is extended under clause (i) with respect to a proposed regulation, then before the close of such extended period the Secretary shall publish in the Federal Register either a final regulation to implement the determination or revision concerned, a finding that the revision should not be made, or a notice of withdrawal of the regulation under clause (ii), together with the finding on which the withdrawal is based.
 
@@ -218,7 +218,7 @@ If, in the case of any regulation proposed by the Secretary under the authority 
 
 #### References in Text
 
-Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg. Plan No. 4 of 1970, eff. Oct. 3,1970, 35 F.R. 15627, 84 Stat. 2090, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
@@ -246,7 +246,7 @@ Subsec. (b). Pub. L. 97–304, §2(a)(2), completely revised subsec. (b) by, amo
 
 Subsec. (c)(1). Pub. L. 97–304, §2(a)(3)(A), struck out “, and from time to time he may by regulation revise,” after “Federal Register” and inserted provision directing the Secretary to revise from time to time each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b) of this section.
 
-Subsec. (c)(2). Pub. L. 97–304, §2(a)(3)(B), (C), redesignated par. (4) as (2). Former par. (2), directing the Secretary, within 90 days of the receipt of the petition of an interested person under section 553(e) of title 5, toconduct and publish in the Federal Register a review of the status of any listed or unlisted species proposed to be removed from or added to either of the lists published pursuant to paragraph (1) of this subsection, but only if he made and published a finding that such person had presented substantial evidence which in his judgment warranted such a review, was struck out.
+Subsec. (c)(2). Pub. L. 97–304, §2(a)(3)(B), (C), redesignated par. (4) as (2). Former par. (2), directing the Secretary, within 90 days of the receipt of the petition of an interested person under section 553(e) of title 5, to conduct and publish in the Federal Register a review of the status of any listed or unlisted species proposed to be removed from or added to either of the lists published pursuant to paragraph (1) of this subsection, but only if he made and published a finding that such person had presented substantial evidence which in his judgment warranted such a review, was struck out.
 
 Subsec. (c)(3). Pub. L. 97–304, §2(a)(3)(B), struck out par. (3) which had provided that any list in effect on Dec. 27, 1973, of species of fish or wildlife determined by the Secretary of the Interior, pursuant to the Endangered Species Conservation Act of 1969, to be threatened with extinction be republished to conform to the classification for endangered species or threatened species, as the case might be, provided for in this chapter, but until such republication, any such species so listed was to be deemed an endangered species within the meaning of this chapter, and that the republication of any species pursuant to this paragraph did not require public hearing or comment under section 553 of title 5.
 
@@ -310,7 +310,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460k–1, 668dd, 670h, 715i, 715s, 1374, 1383b, 1387, 1402, 1532, 1534 to 1537, 1538, 1540, 4202 of this title; title 10 section 7524.
+This section is referred to in sections 460k–1, 668dd, 670h, 715i, 715s, 1374, 1383b, 1387, 1402, 1532, 1534, 1535, 1536, 1537, 1538, 1540, 4202, 4261 of this title; title 10 section 7524.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
 

@@ -2,11 +2,11 @@
 
 Whenever the Director, the Attorney General, and the Commissioner of Immigration and Naturalization shall determine that the admission of a particular alien into the United States for permanent residence is in the interest of national security or essential to the furtherance of the national intelligence mission, such alien and his immediate family shall be admitted to the United States for permanent residence without regard to their inadmissibility under the immigration or any other laws and regulations, or to the failure to comply with such laws and regulations pertaining to admissibility: <i>Provided</i>, That the number of aliens and members of their immediate families admitted to the United States under the authority of this section shall in no case exceed one hundred persons in any one fiscal year.
 
-(June 20, 1949, ch. 227, §7, formerly §8, 63 Stat. 212; renumbered §7, July 7, 1958, Pub. L. 85–507, §21(b)(2), 72 Stat. 337; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(f)(6), 110 Stat. 3009–622.)
+(June 20, 1949, ch. 227, §7, formerly §8, 63 Stat. 212; renumbered §7, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; Pub. L. 104–208, div. C, title III, §308(f)(6), Sept. 30, 1996, 110 Stat. 3009–622.)
 
 #### References in Text
 
-The immigration laws, referred to in text, mean chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality, and all laws, conventions, and treaties of the United States relating to the immigration, exclusion, deportation, or expulsion of aliens. See section 1101(a)(17) of Title 8.
+The immigration laws, referred to in text, are classified generally to Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
 
 #### Codification
 

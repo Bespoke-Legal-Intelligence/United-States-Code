@@ -10,3 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §92 (part) (Jan. 12, 1895, ch. 23, §74, 28 St
 
 This section incorporates only the first sentence of former section 92. The balance will be found in section 1911 of the revision.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 3714b.
+

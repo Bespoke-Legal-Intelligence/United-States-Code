@@ -42,7 +42,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 (3) The Secretary shall prescribe regulations which shall establish a procedure for active cooperation and consultation of the criminal investigative employees of the Bureau assigned to an Indian reservation with the governmental and law enforcement officials of the Indian tribe located on such reservation.
 
-(4)(i) Criminal investigative personnel of the Branch shall be subject only to the supervision and direction of law enforcement personnel of the Branch or of the Division. Such personnel shall not be subject to the supervision of the Bureau of Indian Affairs Agency Superintendent or Bureau of Indian Affairs Area Office Director. Nothing in this paragraph is intended to prohibit cooperation, coordination, or consultation, as appropriate, with nonlaw enforcement Bureau of Indian Affairs personnel at the agency or area levels, or prohibit or restrict the right of a tribe to contract the investigative program under the authority of Public Law 93–638 \[25 U.S.C. 450 et seq.\] or to maintain its own criminal investigative operations.
+(4)(i) Criminal investigative personnel of the Branch shall be subject only to the supervisionand direction of law enforcement personnel of the Branch or of the Division. Such personnel shall not be subject to the supervision of the Bureau of Indian Affairs Agency Superintendent or Bureau of Indian Affairs Area Office Director. Nothing in this paragraph is intended to prohibit cooperation, coordination, or consultation, as appropriate, with nonlaw enforcement Bureau of Indian Affairs personnel at the agency or area levels, or prohibit or restrict the right of a tribe to contract the investigative program under the authority of Public Law 93–638 \[25 U.S.C. 450 et seq.\] or to maintain its own criminal investigative operations.
 
 (ii) At the end of one year following the date of establishment of the separate Branch of Criminal Investigations, any tribe may, by resolution of the governing body of the tribe, request the Secretary to reestablish line authority through the Agency Superintendent or Bureau of Indian Affairs Area Office Director. In the absence of good cause to the contrary, the Secretary, upon receipt of such resolution, shall reestablish the line authority as requested by the tribe.
 
@@ -52,7 +52,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 (2) The Secretary shall also provide for the classification of such positions within the Division of Law Enforcement Services at GS grades, as provided in section 5104 of title 5, consistent with the responsibilities and duties assigned to such positions and with the qualifications established for such positions.
 
-(3) In classifying positions in the Division of Law Enforcement Services under paragraph (2), the Secretary shall ensure that such positions are classified at GS grades comparable to those for other Federal law enforcement personnel inother Federal Agencies <sup>1</sup> in light of the responsibilities, duties, and qualifications required of such positions.
+(3) In classifying positions in the Division of Law Enforcement Services under paragraph (2), the Secretary shall ensure that such positions are classified at GS grades comparable to those for other Federal law enforcement personnel in other Federal Agencies <sup>1</sup> in light of the responsibilities, duties, and qualifications required of such positions.
 
 (Pub. L. 101–379, §3, Aug. 18, 1990, 104 Stat. 473.)
 

@@ -28,7 +28,7 @@ The Board shall have full power to require any Federal Home Loan Bank to deposit
 
 #### (f) Rediscount of notes held by other banks; purchase of bonds of other banks
 
-The Board is authorized and empowered to permit,,<sup>1</sup> to require,<sup>1</sup> Federal Home Loan Banks, upon such terms and conditions as the Board may prescribe, to rediscount the discounted notes of members held by other Federal Home Loan Banks, or to make loans to, or make deposits with, such other Federal Home Loan Banks, or to purchase any bonds or debentures issued under this section.
+The Board is authorized and empowered to permit,,<sup>1</sup> to require,<sup>1</sup> Federal Home Loan Banks, upon such terms and conditions as the Board may prescribe, to rediscount the discounted notes of members held by other Federal Home Loan Banks, or to make loans to, or make deposits with, such other Federal Home LoanBanks, or to purchase any bonds or debentures issued under this section.
 
 #### (g) Reserves
 
@@ -68,7 +68,7 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 &emsp;&emsp;(B) be adequately secured.
 
-(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Sept. 2, 1964, Pub. L. 88–560, title VII, §701(d)(1), 78 Stat. 800; Aug. 1, 1968, Pub. L. 90–448, title VIII, §807(k), 82 Stat. 545; Dec. 23, 1969, Pub. L. 91–151, title I, §3, 83 Stat. 374; Dec. 31, 1970, Pub. L. 91–609, title IX, §914, 84 Stat. 1815; Aug. 22, 1974, Pub. L. 93–383, title VIII, §805(c)(2), 88 Stat. 727; Oct. 28, 1974, Pub. L. 93–495, title I, §112, 88 Stat. 1506; Dec. 21, 1979, Pub. L. 96–153, title III, §324, 93 Stat. 1121; Mar. 31, 1980, Pub. L. 96–221, title III, §311, 94 Stat. 149; Oct. 15, 1982, Pub. L. 97–320, title I, §125(c), 96 Stat. 1485; Aug. 9, 1989, Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), 103 Stat. 412, 418; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), 110 Stat. 3009–489, 3009–747.)
+(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch.369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747.)
 
 #### Amendment of Subsection (k)
 

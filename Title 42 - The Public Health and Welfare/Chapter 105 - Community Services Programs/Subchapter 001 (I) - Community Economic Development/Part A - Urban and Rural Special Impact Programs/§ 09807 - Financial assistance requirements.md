@@ -4,7 +4,7 @@
 
 The Secretary, under such regulations as the Secretary may establish, shall not provide financial assistance for any community economic development program under this part unless the Secretary determines that—
 
-&emsp;(1) such community development corporation is responsible to residents of the area served (A) through a governing body not less than 50 percent of the members of which are area residents; and (B) in accordance with such other guidelines as may be established by the Secretary, except that the composition of the governing bodies of organizations owned or controlled by the community development corporation need not be subject to such residency requirement;
+&emsp;(1) such community development corporation is responsible to residents of the area served (A) through a governing body not less than 50 percent of the members of which are area residents; and (B) in accordance with such other guidelines as may be established by the Secretary, except that the composition of the governing bodies of organizations ownedor controlled by the community development corporation need not be subject to such residency requirement;
 
 &emsp;(2) the program will be appropriately coordinated with local planning under this subchapter with housing and community development programs, with employment and training programs, and with other relevant planning for physical and human resources in the areas served;
 

@@ -6,7 +6,7 @@
 
 (2) For purposes of this subsection, the term “military traffic regulation” means a rule or regulation for the control of vehicular or pedestrian traffic on military installations that is promulgated by the Secretary of Defense, or the designee of the Secretary, under the authority delegated pursuant to section 318a of this title.
 
-(June 1, 1948, ch. 359, §4, 62 Stat. 281; Sept. 23, 1996, Pub. L. 104–201, div. A, title X, §1067, 110 Stat. 2654.)
+(June 1, 1948, ch. 359, §4, 62 Stat. 281; Pub. L. 104–201, div. A, title X, §1067, Sept. 23, 1996, 110 Stat. 2654.)
 
 #### Amendments
 

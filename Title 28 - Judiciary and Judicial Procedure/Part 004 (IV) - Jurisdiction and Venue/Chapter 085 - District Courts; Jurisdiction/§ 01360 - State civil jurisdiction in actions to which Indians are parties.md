@@ -17,17 +17,17 @@
 
 (c) Any tribal ordinance or custom heretofore or hereafter adopted by an Indian tribe, band, or community in the exercise of any authority which it may possess shall, if not inconsistent with any applicable civil law of the State, be given full force and effect in the determination of civil causes of action pursuant to this section.
 
-(Added Aug. 15, 1953, ch. 505, §4, 67 Stat. 589; amended Aug. 24, 1954, ch. 910, §2, 68 Stat. 795; Aug. 8, 1958, Pub. L. 85–615, §2, 72 Stat. 545; Nov. 6, 1978, Pub. L. 95–598, title II, §239, 92 Stat. 2668; July 10, 1984, Pub. L. 98–353, title I, §110, 98 Stat. 342.)
+(Added Aug. 15, 1953, ch. 505, §4, 67 Stat. 589; amended Aug. 24, 1954, ch. 910, §2, 68 Stat. 795; Pub. L. 85–615, §2, Aug. 8, 1958, 72 Stat. 545; Pub. L. 95–598, title II, §239, Nov. 6, 1978, 92 Stat. 2668; Pub. L. 98–353, title I, §110, July 10, 1984, 98 Stat. 342.)
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–353 struck out “or Territories” after “Each of the States”, struck out “or Territory” after “State” in 5 places, and substituted “within the State” for “within the Territory” in item relating to Alaska.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 struck out “or Territories” after “Each of the States”, struck out “or Territory” after “State” in 5 places, and substituted “within the State” for “within the Territory” in item relating to Alaska.
 
-1978—Subsec. (a). Pub. L. 95–598 directed the amendment of subsec. (a) by substituting in the item relating to Alaska “within the State” for “within the Territory”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsec. (a). Pub. L. 95–598 directed the amendment of subsec. (a) by substituting in the item relating to Alaska “within the State” for “within the Territory”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1958—Subsec. (a). Pub. L. 85–615 gave Alaska jurisdiction over civil causes of action between Indians or to which Indians are parties which arise in all Indian country within the Territory of Alaska.
+<b>1958</b>—Subsec. (a). Pub. L. 85–615 gave Alaska jurisdiction over civil causes of action between Indians or to which Indians are parties which arise in all Indian country within the Territory of Alaska.
 
-1954—Subsec. (a). Act Aug. 24, 1954, brought the Menominee Tribe within the provisions of this section.
+<b>1954</b>—Subsec. (a). Act Aug. 24, 1954, brought the Menominee Tribe within the provisions of this section.
 
 #### Effective Date of 1984 Amendment
 
@@ -43,7 +43,7 @@ Section 6 of act Aug. 15, 1953, provided that: “Notwithstanding the provisions
 
 #### Consent of United States to Other States To Assume Jurisdiction
 
-Act Aug. 15, 1953, ch. 505, §7, 67 Stat. 590, which gave consent of the United States to any other State not having jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in this section and section 1162 of Title 18, Crimes and Criminal Procedure, to assume jurisdiction at such time and in such manner as the people of the State shall, by legislative action, obligate and bind the State to assumption thereof, was repealed by section 403(b) of Pub. L. 90–284, title IV, Apr. 11, 1968, 82 Stat. 79, such repeal not to affect any cession of jurisdiction made pursuant to such section prior to its repeal.
+Act Aug. 15, 1953, ch. 505, §7, 67 Stat. 590, which gave consent of the United States to any other State nothaving jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in this section and section 1162 of Title 18, Crimes and Criminal Procedure, to assume jurisdiction at such time and in such manner as the people of the State shall, by legislative action, obligate and bind the State to assumption thereof, was repealed by section 403(b) of Pub. L. 90–284, title IV, Apr. 11, 1968, 82 Stat. 79, such repeal not to affect any cession of jurisdiction made pursuant to such section prior to its repeal.
 
 Retrocession of jurisdiction by State acquired by State pursuant to section 7 of Act Aug. 15, 1953, prior to its repeal, see section 1323 of Title 25, Indians.
 

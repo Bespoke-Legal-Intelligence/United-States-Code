@@ -1,6 +1,6 @@
 ### §1531. Regulatory process
 
-Each agency shall, unless otherwise prohibited by law, assess the effects of Federal regulatoryactions on State, local, and tribal governments, and the private sector (other than to the extent that such regulations incorporate requirements specifically set forth in law).
+Each agency shall, unless otherwise prohibited by law, assess the effects of Federal regulatory actions on State, local, and tribal governments, and the private sector (other than to the extent that such regulations incorporate requirements specifically set forth in law).
 
 (Pub. L. 104–4, title II, §201, Mar. 22, 1995, 109 Stat. 64.)
 
@@ -14,5 +14,5 @@ For provisions stating regulatory philosophy and principles and setting forth re
 
 #### Enhancing Intergovernmental Partnership
 
-For provisions relating to reduction of unfunded mandates and increasing flexibility for State and local waivers, see Ex. Ord. No. 12875, Oct. 26, 1993, 58 F.R. 58093, set out as a note under section 601 of Title 5.
+For provisions relating to reduction of unfunded mandates and increasing flexibility for State and local waivers, see Ex. Ord. No. 12875, Oct. 26, 1993, 58 F.R. 58093, set out as a note under section 601 of Title 5, Government Organization and Employees.
 

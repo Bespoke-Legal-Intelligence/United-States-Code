@@ -8,7 +8,7 @@ Disclosure of Ownership or Control by a Foreign Government.—The head of an age
 
 Prohibition on Entering Into Contracts Against the Interests of the United States.—Except as provided in subsection (c), the head of an agency may not enter into a contract with a firm or a subsidiary of a firm if—
 
-&emsp;(1) a foreign government owns or controls (whether directly or indirectly) a significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary); and
+&emsp;(1) a foreign government owns or controls (whether directly or indirectly) a significantinterest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary); and
 
 &emsp;(2) such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
 
@@ -40,15 +40,31 @@ Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that
 
 (d)
 
+List of Firms Subject to Prohibition.—(1) The Secretary of Defense shall develop and maintain a list of all firms and subsidiaries of firms that the Secretary has identified as being subject to the prohibition in subsection (b).
+
+(2)(A) A person may request the Secretary to include on the list maintained under paragraph (1) any firm or subsidiary of a firm that the person believes to be owned or controlled by a foreign government described in subsection (b)(2). Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do exist, the Secretary shall include the firm or subsidiary on the list.
+
+(B) A firm or subsidiary of a firm included on the list may request the Secretary to remove such firm or subsidiary from the list on the basis that it has been erroneously included on the list or its ownership circumstances have significantly changed. Upon receipt of such a request, the Secretary shall determine whether the conditions in paragraphs (1) and (2) of subsection (b) exist in the case of that firm or subsidiary. If the Secretary determines that such conditions do not exist, the Secretary shall remove the firm or subsidiary from the list.
+
+(C) The Secretary shall establish procedures to carry out this paragraph.
+
+(3) The head of an agency shall prohibit each firm or subsidiary of a firm awarded a contract by the agency from entering into a subcontract under that contract in an amount in excess of $25,000 with a firm or subsidiary included on the list maintained under paragraph (1) unless there is a compelling reason to do so. In the case of any subcontract requiring consent by the head of an agency, the head of the agency shall not consent to the award of the subcontract to a firm or subsidiary included on such list unless there is a compelling reason for such approval.
+
+(e)
+
+Distribution of List.—The Administrator of General Services shall ensure that the list developed and maintained under subsection (d) is made available to Federal agencies and the public in the same manner and to the same extent as the list of suspended and debarred contractors compiled pursuant to subpart 9.4 of the Federal Acquisition Regulation.
+
+(f)
+
 Applicability.—(1) This section does not apply to a contract for an amount less than $100,000.
 
 (2) This section does not apply to the Coast Guard or the National Aeronautics and Space Administration.
 
-(e)
+(g)
 
 Regulations.—The Secretary of Defense, after consultation with the Secretary of State, shall prescribe regulations to carry out this section. Such regulations shall include a definition of the term “significant interest”.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §951(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §951(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §951(a)(1), Nov. 14, 1986, 100 Stat. 3944, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title XII, §1231(8), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–224, §5(b)(2), Dec. 30, 1987, 101 Stat. 1538.)
+(Added Pub. L. 99–500, §101(c) \[title X, §951(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §951(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §951(a)(1), Nov. 14, 1986, 100 Stat. 3944, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title XII, §1231(8), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–224, §5(b)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 105–85, div. A, title VIII, §843, Nov. 18, 1997, 111 Stat. 1844.)
 
 #### Codification
 
@@ -61,6 +77,8 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 A prior section 2327 was renumbered section 2347 of this title.
 
 #### Amendments
+
+1997—Subsecs. (d) to (g). Pub. L. 105–85 added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
 1987—Subsecs. (a), (b)(2). Pub. L. 100–224 substituted “50 U.S.C. App.” for “50 U.S.C.” in parenthetical after “Export Administration Act of 1979”.
 

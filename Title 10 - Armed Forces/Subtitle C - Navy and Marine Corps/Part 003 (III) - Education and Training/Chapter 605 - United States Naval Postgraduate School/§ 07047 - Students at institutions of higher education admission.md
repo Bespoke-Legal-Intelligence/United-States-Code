@@ -6,7 +6,7 @@ Admission Pursuant to Reciprocal Agreement.—The Secretary of the Navy may ente
 
 (b)
 
-Eligible Students.—A student enrolled at an institution of higher education that is partyto an agreement under subsection (a) may be admitted to the Naval Postgraduate School pursuant to that agreement if—
+Eligible Students.—A student enrolled at an institution of higher education that is party to an agreement under subsection (a) may be admitted to the Naval Postgraduate School pursuant to that agreement if—
 
 &emsp;(1) the student is a citizen of the United States or lawfully admitted for permanent residence in the United States; and
 

@@ -2,7 +2,7 @@
 
 The Secretary of State, with the approval of the Office of Management and Budget, shall prescribe the maximum rates of per diem in lieu of subsistence (or of similar allowances therefor) payable while away from their own countries to foreign participants in any exchange of persons program, or in any program of furnishing technical information and assistance, under the jurisdiction of any Government agency, and said rates may be fixed without regard to any provision of law in limitation thereof.
 
-(Aug. 1, 1956, ch. 841, title I, §12, 70 Stat. 892; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282.)
+(Aug. 1, 1956, ch. 841, title I, §12, 70 Stat. 892; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 
 #### Codification
 

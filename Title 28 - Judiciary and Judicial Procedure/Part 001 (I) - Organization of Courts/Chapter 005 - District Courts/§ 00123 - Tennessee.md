@@ -54,7 +54,7 @@ The Eastern Division also includes the waters of Tennessee River to low-water ma
 
 The district judge for the Eastern District in office on November 27, 1940, shall hold court in the Northern and Northeastern Divisions. The other judge of that district shall hold the terms of court in the Southern and Winchester Divisions. Each may appoint and remove all officers and employees of the court whose official headquarters are located in the divisions within which he holds court and whose appointments are vested by law in a district judge or chief judge of a district.
 
-(June 25, 1948, ch. 646, 62 Stat. 890; May 19, 1961, Pub. L. 87–36, §3(e), 75 Stat. 83; July 11, 1961, Pub. L. 87–86, 75 Stat. 203; June 2, 1970, Pub. L. 91–272, §12, 84 Stat. 298.)
+(June 25, 1948, ch. 646, 62 Stat. 890; Pub. L. 87–36, §3(e), May 19, 1961, 75 Stat. 83; Pub. L. 87–86, July 11, 1961, 75 Stat. 203; Pub. L. 91–272, §12, June 2, 1970, 84 Stat. 298.)
 
 #### Historical and Revision Notes
 
@@ -80,9 +80,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1970—Subsec. (c)(1). Pub. L. 91–272, §12(a), added Haywood County to the enumeration of counties comprising the Eastern Division of the Western District.
+<b>1970</b>—Subsec. (c)(1). Pub. L. 91–272, §12(a), added Haywood County to the enumeration of counties comprising the Eastern Division of the Western District.
 
 Subsec. (c)(2). Pub. L. 91–272, §12(b), struck out Haywood County from the enumeration of counties comprising the Western Division of the Western District.
 
-1961—Subsec. (c)(2). Pub. L. 87–36, as amended by Pub. L. 87–86, provided for holding court at Dyersburg.
+<b>1961</b>—Subsec. (c)(2). Pub. L. 87–36, as amended by Pub. L. 87–86, provided for holding court at Dyersburg.
 

@@ -2,7 +2,7 @@
 
 Whenever, without deceptive intention, a claim of a patent is invalid, an action may be maintained for the infringement of a claim of the patent which may be valid. The patentee shall recover no costs unless a disclaimer of the invalid claim has been entered at the Patent and Trademark Office before the commencement of the suit.
 
-(July 19, 1952, ch. 950, 66 Stat. 813; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 813; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

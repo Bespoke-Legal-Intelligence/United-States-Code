@@ -2,7 +2,7 @@
 
 The provisions of this chapter shall apply to the United States and to Puerto Rico, Guam, and the Virgin Islands.
 
-(June 13, 1933, ch. 64, §7, 48 Stat. 134; July 14, 1952, ch. 723, §10(b), 66 Stat. 604; June 25, 1959, Pub. L. 86–70, §9(b), 73 Stat. 142; July 12, 1960, Pub. L. 86–624, §5(b), 74 Stat. 411; Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 315.)
+(June 13, 1933, ch. 64, §7, 48 Stat. 134; July 14, 1952, ch. 723, §10(b), 66 Stat. 604; Pub. L. 86–70, §9(b), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §5(b), July 12, 1960, 74 Stat. 411; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 315.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 For the purposes of sections 13f to 13p of this title the Supreme Court grounds shall be held to extend to the line of the face of the east curb of First Street Northeast, between Maryland Avenue Northeast and East Capitol Street; to the line of the face of the south curb of Maryland Avenue Northeast, between First Street Northeast and Second Street Northeast; to the line of the face of the west curb of Second Street Northeast, between Maryland Avenue Northeast and East Capitol Street; and to the line of the face of the north curb of East Capitol Street between First Street Northeast and Second Street Northeast. In addition to the property referred to in the preceding sentence, for the purposes of sections 13f to 13p of this title, the Supreme Court grounds are comprised of any property under the custody and control of the Supreme Court as part of the Supreme Court grounds, including property acquired as provided by law on behalf of the United States in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia as an addition to the grounds of the United States Supreme Court Building.
 
-(Aug. 18, 1949, ch. 479, §11, 63 Stat. 617; Dec. 29, 1982, Pub. L. 97–390, §1(d), 96 Stat. 1958.)
+(Aug. 18, 1949, ch. 479, §11, 63 Stat. 617; Pub. L. 97–390, §1(d), Dec. 29, 1982, 96 Stat. 1958.)
 
 #### Amendments
 

@@ -90,6 +90,7 @@
 | (b) | Report. |
 | (c) | “Domestic product” defined. |
 | [3547\.](%C2%A7%2003547%20-%20Special%20projects.md) | Special projects. |
+| [3548\.](%C2%A7%2003548%20-%20Semiannual%20report%20on%20contracts%20and%20task%20orders.md) | Semiannual report on contracts and task orders. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -123,3 +124,4 @@ This chapter is referred to in title 12 section 1701d–4.
 - [&sect; 03545 - HUD accountability](%C2%A7%2003545%20-%20HUD%20accountability.md)
 - [&sect; 03546 - Use of domestic products](%C2%A7%2003546%20-%20Use%20of%20domestic%20products.md)
 - [&sect; 03547 - Special projects](%C2%A7%2003547%20-%20Special%20projects.md)
+- [&sect; 03548 - Semiannual report on contracts and task orders](%C2%A7%2003548%20-%20Semiannual%20report%20on%20contracts%20and%20task%20orders.md)

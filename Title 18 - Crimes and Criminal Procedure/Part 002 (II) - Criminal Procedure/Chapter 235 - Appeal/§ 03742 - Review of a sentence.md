@@ -116,7 +116,7 @@ Subsec. (b)(2). Pub. L. 100–690, §7103(a)(1), struck out “issued by the Sen
 
 Subsec. (b)(3). Pub. L. 100–690, §7103(a)(3), added par. (3) and struck out former par. (3) which read as follows: “was imposed for an offense for which a sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1), and the sentence is less than—
 
-&emsp;“(A) the sentence specified in the applicable guideline to the extent that the sentence includes a lesser fine or term of imprisonment or term of supervised release than the minimum established in the guideline, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) than the minimum established in the guideline; and
+&emsp;“(A) the sentence specified in the applicable guideline to the extent that the sentence includes a lesserfine or term of imprisonment or term of supervised release than the minimum established in the guideline, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) than the minimum established in the guideline; and
 
 &emsp;“(B) the sentence specified in a plea agreement, if any, under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure; or”.
 

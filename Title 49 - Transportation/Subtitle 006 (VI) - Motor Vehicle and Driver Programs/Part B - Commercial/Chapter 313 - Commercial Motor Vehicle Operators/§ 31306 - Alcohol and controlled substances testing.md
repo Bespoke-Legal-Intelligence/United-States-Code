@@ -32,7 +32,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(3) require that a laboratory involved in testing under this section have the capability and facility, at the laboratory, of performing screening and confirmation tests;
 
-&emsp;(4) provide that any test indicating the use of alcohol or a controlled substance in violation of law or a Government regulation be confirmed by a scientifically recognized method of testing capable of providing quantitativeinformation about alcohol or a controlled substance;
+&emsp;(4) provide that any test indicating the use of alcohol or a controlled substance in violation of law or a Government regulation be confirmed by a scientifically recognized method of testing capable of providing quantitative information about alcohol or a controlled substance;
 
 &emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
 
@@ -48,7 +48,7 @@ Testing as Part of Medical Examination.—The Secretary of Transportation may pr
 
 (e)
 
-Rehabilitation.—The Secretary of Transportation shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of operators of commercial motor vehicles who are found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which those operators shall be required to participate in a program. This section does not prevent a motor carrier from establishing a program under this section in cooperation with another motor carrier.
+Rehabilitation.—The Secretary of Transportation shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of operators of commercial motor vehicles who are found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under whichthose operators shall be required to participate in a program. This section does not prevent a motor carrier from establishing a program under this section in cooperation with another motor carrier.
 
 (f)
 

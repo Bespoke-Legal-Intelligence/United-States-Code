@@ -4,15 +4,21 @@
 
 (2) The Secretary of Defense shall prescribe regulations for the determination of the life-cycle cost effectiveness of a fuel for the purposes of paragraph (1).
 
-(b) The Secretary of a military department may not convert a heating facility at a United States military installation in Europe from a coal-fired facility to an oil-fired facility, or to any other energy source facility, unless the Secretary—
+(b) The Secretary of a military department may not convert a heating facility at a United States military installation in Europe from a coal-fired facility to an oil-fired facility, or to any other energy source facility, unless the Secretary determines that the conversion—
 
-&emsp;(1) determines that the conversion (A) is required by the government of the country in which the facility is located, or (B) is cost effective over the life cycle of the facility; and
+&emsp;(1) is required by the government of the country in which the facility is located; or
 
-&emsp;(2) submits to Congress notification of the proposed conversion and a period of 30 days has elapsed following the date on which Congress receives the notice.
+&emsp;(2) is cost-effective over the life cycle of the facility.
 
-(Added Pub. L. 97–214, §6(c)(1), July 12, 1982, 96 Stat. 173; amended Pub. L. 99–661, div. A, title XII, §1205(a)(1), Nov. 14, 1986, 100 Stat. 3971.)
+(Added Pub. L. 97–214, §6(c)(1), July 12, 1982, 96 Stat. 173; amended Pub. L. 99–661, div. A, title XII, §1205(a)(1), Nov. 14, 1986, 100 Stat. 3971; Pub. L. 105–85, div. A, title X, §1041(a), Nov. 18, 1997, 111 Stat. 1885.)
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–85 substituted “unless the Secretary determines that the conversion—” for “unless the Secretary—” in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
+
+“(1) determines that the conversion (A) is required by the government of the country in which the facility is located, or (B) is cost effective over the life cycle of the facility; and
+
+“(2) submits to Congress notification of the proposed conversion and a period of 30 days has elapsed following the date on which Congress receives the notice.”
 
 1986—Pub. L. 99–661 substituted “Fuel sources for heating systems; prohibition on converting certain heating facilities” for “Restriction on fuel sources for new heating systems” in section catchline and amended text generally. Prior to amendment, section read as follows:
 

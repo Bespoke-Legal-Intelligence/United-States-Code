@@ -2,7 +2,7 @@
 
 The Commissioner shall maintain a library of scientific and other works and periodicals, both foreign and domestic, in the Patent and Trademark Office to aid the officers in the discharge of their duties.
 
-(July 19, 1952, ch. 950, 66 Stat. 793; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

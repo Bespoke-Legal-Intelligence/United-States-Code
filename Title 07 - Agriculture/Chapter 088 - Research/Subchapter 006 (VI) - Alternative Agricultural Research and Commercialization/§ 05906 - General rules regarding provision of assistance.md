@@ -28,7 +28,7 @@ With respect to research, development, demonstration, or commercialization proje
 
 #### (e) Overhead and administrative costs
 
-The Corporate Board shall require that applications or responses to requests for proposals issued by the Corporation for grants, contracts, or cooperative agreements include detailed estimates of project overhead and administrativecosts. In selecting such applications or proposals for awards, the Corporation shall give preference to those with the lowest effective costs.
+The Corporate Board shall require that applications or responses to requests for proposals issued by the Corporation for grants, contracts, or cooperative agreements include detailed estimates of project overhead and administrative costs. In selecting such applications or proposals for awards, the Corporation shall give preference to those with the lowest effective costs.
 
 #### (f) Prohibition on certain uses of assistance
 

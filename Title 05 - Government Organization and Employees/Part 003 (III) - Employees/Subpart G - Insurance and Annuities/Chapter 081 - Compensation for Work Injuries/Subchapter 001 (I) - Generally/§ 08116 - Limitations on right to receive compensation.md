@@ -10,7 +10,7 @@
 
 &emsp;(4) retired pay, retirement pay, retainer pay, or equivalent pay for service in the Armed Forces or other uniformed services, subject to the reduction of such pay in accordance with section 5532(b) of title 5, United States Code.
 
-> However, eligibility for or receipt of benefits under subchapter III of chapter 83 of this title, or another retirement system for employees of the Government, does not impair the right of the employee to compensation for scheduled disabilities specified by section 8107(c) of this title.
+> However, eligibility for or receipt of benefits under subchapter III of chapter 83 of this title,or another retirement system for employees of the Government, does not impair the right of the employee to compensation for scheduled disabilities specified by section 8107(c) of this title.
 
 (b) An individual entitled to benefits under this subchapter because of his injury, or because of the death of an employee, who also is entitled to receive from the United States under a provision of statute other than this subchapter payments or benefits for that injury or death (except proceeds of an insurance policy), because of service by him (or in the case of death, by the deceased) as an employee or in the armed forces, shall elect which benefits he will receive. The individual shall make the election within 1 year after the injury or death or within a further time allowed for good cause by the Secretary of Labor. The election when made is irrevocable, except as otherwise provided by statute.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Section 9(b) of Pub. L. 93–416 provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
+Section 9(b) of Pub. L. 93–416 provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactmentof this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
 
 #### Personnel Not Affected by 1967 Increase
 

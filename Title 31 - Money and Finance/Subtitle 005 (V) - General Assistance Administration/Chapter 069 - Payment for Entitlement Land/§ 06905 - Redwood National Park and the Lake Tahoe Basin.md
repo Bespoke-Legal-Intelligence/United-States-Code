@@ -56,3 +56,7 @@ In subsection (b)(4), the word “affected” is omitted as surplus.
 
 The provisions of Act of December 23, 1980 (Public Law 96–586, 94 Stat. 3383) which relate to the acquisition of the Lake Tahoe Basin, referred to in subsec. (b)(1)(B), are not classified to the Code.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 section 471j.
+

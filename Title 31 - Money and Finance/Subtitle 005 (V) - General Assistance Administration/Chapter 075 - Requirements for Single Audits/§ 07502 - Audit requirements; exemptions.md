@@ -28,7 +28,7 @@
 
 &emsp;(1) cover the operations of the entire non-Federal entity; or
 
-&emsp;(2) at the option of such non-Federal entity such audit shall include a series of audits that cover departments, agencies, and other organizational units which expended or otherwise administered Federal awards during such fiscal year provided that each such audit shall encompass the financial statements and schedule of expenditures of Federal awards for each such department, agency, and organizational unit, which shall be considered to be a non-Federal entity.
+&emsp;(2) at the option of such non-Federal entity such audit shall include a series of audits that cover departments, agencies, and other organizational units which expended or otherwise administered Federal awards during such fiscal year provided that each such audit shall encompass the financial statements and scheduleof expenditures of Federal awards for each such department, agency, and organizational unit, which shall be considered to be a non-Federal entity.
 
 (e) The auditor shall—
 
@@ -96,5 +96,5 @@ Subsec. (g). Pub. L. 103–272, §4(f)(1)(W)(iv), substituted “section 3512(c)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7501, 7503, 7504, 7505 of this title.
+This section is referred to in sections 7501, 7503, 7504, 7505 of this title; title 49 section 47107.
 

@@ -48,7 +48,7 @@ Competitive systems of price supports proposed for congressional authorization p
 
 &emsp;(1) The Secretary shall determine the types and capacities of the desired full-scale, commercial-size facility or other operation which would demonstrate the technical, environmental, and economic feasibility of a particular nonnuclear energy technology.
 
-&emsp;(2) The Secretary may award planning grants for the purpose of financing a study ofthe full cycle economic and environmental costs associated with the demonstration facility selected pursuant to paragraph (1) of this subsection. Such planning grants may be awarded to Federal and non-Federal entities including, but not limited to, industrial entities, universities, and nonprofit organizations. Such planning grants may also be used by the grantee to prepare a detailed and comprehensive bid to construct the demonstration facility.
+&emsp;(2) The Secretary may award planning grants for the purpose of financing a study of the full cycle economic and environmental costs associated with the demonstration facility selected pursuant to paragraph (1) of this subsection. Such planning grants may be awarded to Federal and non-Federal entities including, but not limited to, industrial entities, universities, and nonprofit organizations. Such planning grants may also be used by the grantee to prepare a detailed and comprehensive bid to construct the demonstration facility.
 
 &emsp;(3) Following the completion of the studies pursuant to the planning grants awarded under paragraph (2) of this subsection regarding each such potential price supported demonstration facility for which the Secretary intends to request congressional authorization, he shall invite bids from all interested parties to determine the minimum amount of Federal price support needed to construct the demonstration facility. The Secretary may designate one or more competing entities, each to construct one commercial demonstration facility. Such designation shall be made on the basis of those entities, (A) commitment to construct the demonstration facility at the minimum level of Federal price supports, (B) detailed plan of environmental protection, and (C) proposed design and operation of the demonstration facility.
 
@@ -66,7 +66,7 @@ Nothing in this section shall preclude Federal participation in, and support for
 
 #### Codification
 
-Section 5919 of this title, referred to in subsec. (a)(7), was in the original “section 19” and has been editorially translated as section 5919 of this title which relates to loan guarantees as the probable intent of Congress, notwithstanding enactment of another section 19 which is classified to section 5918 of this title and which relates to organizational conflicts.
+Section 5919 of this title, referred to in subsec. (a)(7), was in the original “section 19” and has been editorially translated as section 5919 of this title which relates to loan guarantees as the probable intent of Congress, notwithstanding enactment of another section 19which is classified to section 5918 of this title and which relates to organizational conflicts.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ The corporation shall have power—
 
 &emsp;(7) to transfer and convey real or personal property;
 
-&emsp;(8) to borrow money for the purposes of the corporation, issue bonds therefor, and secure the same by mortgage, subject to all applicable provisions of Federal or State law;
+&emsp;(8) to borrow money for the purposes of the corporation, issue bonds therefor, and securethe same by mortgage, subject to all applicable provisions of Federal or State law;
 
 &emsp;(9) to use the corporate funds to give prizes, awards, loans, and grants to deserving students and young farmers for the purposes set forth in section 273 of this title;
 

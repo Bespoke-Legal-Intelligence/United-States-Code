@@ -10,7 +10,7 @@ The Corporation may, by regulation or by writing executed by the Corporation, es
 
 #### (c) Purchase of obligations; funds, maximum amount of purchases, etc.
 
-(1) The Secretary of the Treasury may purchase any obligations issued under subsection (a) of this section. For such purpose, the Secretary may use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include such purpose.
+(1) The Secretary of the Treasury may purchase any obligations issued under subsection\(a) of this section. For such purpose, the Secretary may use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include such purpose.
 
 (2) The Secretary of <sup>1</sup> Treasury shall not at any time purchase any obligations under this subsection if the purchase would increase the aggregate principal amount of the outstanding holdings of obligations under this subsection by the Secretary to an amount greater than $2,250,000,000.
 
@@ -48,7 +48,7 @@ All securities issued or guaranteed by the Corporation (other than securities gu
 
 #### (i) Prohibition on assessment or collection of fee or charge by United States
 
-Except for fees paid pursuant to sections 1452(c) <sup>2</sup> and 1455(c) <sup>2</sup> of this title and assessments pursuant to section 4516 <sup>2</sup> of this title, no fee or charge may be assessed or collected by the United States (including any executive department, agency, or independent establishment of the United States) on or with regard to the purchase, acquisition, sale, pledge, issuance, guarantee, or redemption of any mortgage, asset, obligation, or other security by the Corporation. No provision of this subsection shall affect the purchase of any obligation by any Federal home loan bank pursuant to section 1452(a) of this title.
+Except for fees paid pursuant to sections 1452(c) <sup>2</sup> and 1455(c) <sup>2</sup> of this title and assessments pursuant to section 4516 <sup>2</sup> of this title, no fee or charge may be assessed or collected by the United States (including any executive department, agency, or independent establishment of the United States) on or with regard to the purchase, acquisition, sale, pledge, issuance, guarantee, or redemption of any mortgage, asset, obligation, or other security by the Corporation. No provision of this subsection shall affect the purchase of any obligation by any Federal homeloan bank pursuant to section 1452(a) of this title.
 
 #### (j) Notes, debentures, or substantially identical types of unsecured obligations; issuance, maturities, interest rates, etc.
 

@@ -2,7 +2,7 @@
 
 There shall be paid to the Speaker of the House of Representatives in equal monthly installments an expense allowance of $10,000 per annum to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which no accounting, other than for income tax purposes, shall be made by him.
 
-(Jan. 19, 1949, ch. 2, §1(e), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(c), 65 Stat. 570; Aug. 20, 1996, Pub. L. 104–186, title II, §203(1), 110 Stat. 1725.)
+(Jan. 19, 1949, ch. 2, §1(e), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(c), 65 Stat. 570; Pub. L. 104–186, title II, §203(1), Aug. 20, 1996, 110 Stat. 1725.)
 
 #### Amendments
 

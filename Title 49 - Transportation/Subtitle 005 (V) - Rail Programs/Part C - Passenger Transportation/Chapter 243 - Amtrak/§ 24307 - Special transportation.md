@@ -16,20 +16,6 @@ Reduced Fare Program.—Amtrak shall maintain a reduced fare program for the fol
 
 (b)
 
-Actions To Ensure Access.—Amtrak may act to ensure access to intercity transportation for elderly or handicapped individuals on passenger trains operated by or for Amtrak. That action may include—
-
-&emsp;(1) acquiring special equipment;
-
-&emsp;(2) conducting special training for employees;
-
-&emsp;(3) designing and acquiring new equipment and facilities;
-
-&emsp;(4) eliminating barriers in existing equipment and facilities to comply with the highest standards of design, construction, and alteration of property to accommodate elderly and handicapped individuals; and
-
-&emsp;(5) providing special assistance to elderly and handicapped individuals when getting on and off trains and in terminal areas.
-
-(c)
-
 Employee Transportation.—(1) In this subsection, “rail carrier employee” means—
 
 &emsp;(A) an active full-time employee of a rail carrier or terminal company and includes an employee on furlough or leave of absence;
@@ -42,7 +28,7 @@ Employee Transportation.—(1) In this subsection, “rail carrier employee” m
 
 (3) This subsection does not prohibit the Interstate Commerce Commission from ordering retroactive relief in a proceeding begun or reopened after October 1, 1981.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 911.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 911; Pub. L. 105–134, title IV, §406(b), Dec. 2, 1997, 111 Stat. 2586.)
 
 Historical and Revision Notes
 
@@ -79,6 +65,36 @@ In subsection (b), before clause (1), the word “act” is substituted for “t
 In subsection (c)(1)(A), the words “period of” and “while on” are omitted as surplus.
 
 In subsection (c)(2), the words “take such action as may be necessary to”, “the terms of . . . policy or”, and “to such railroad employee” are omitted as surplus. The words “or group of railroads” are omitted because of 1:1.
+
+#### Amendments
+
+1997—Subsecs. (b), (c). Pub. L. 105–134 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
+
+“(b)
+
+Actions To Ensure Access.—Amtrak may act to ensure access to intercity transportation for elderly or handicapped individuals on passenger trains operated by or for Amtrak. That action may include—
+
+&emsp;“(1) acquiring special equipment;
+
+&emsp;“(2) conducting special training for employees;
+
+&emsp;“(3) designing and acquiring new equipment and facilities;
+
+&emsp;“(4) eliminating barriers in existing equipment and facilities to comply with the highest standards of design, construction, and alteration of property to accommodate elderly and handicapped individuals; and
+
+&emsp;“(5) providing special assistance to elderly and handicapped individuals when getting on and off trains and in terminal areas.”
+
+#### Americans With Disabilities Act of 1990
+
+Pub. L. 105–134, title IV, §406(a), Dec. 2, 1997, 111 Stat. 2586, provided that:
+
+“(1)
+
+Access improvements at certain shared stations.—Amtrak is responsible for its share, if any, of the costs of accessibility improvements required by the Americans With Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\] at any station jointly used by Amtrak and a commuter authority.
+
+“(2)
+
+Certain requirements not to apply until 1998.—Amtrak shall not be subject to any requirement under subsection (a)(1), (a)(3), or (e)(2) of section 242 of the Americans With Disabilities Act of 1990 (42 U.S.C. 12162) until January 1, 1998.”
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

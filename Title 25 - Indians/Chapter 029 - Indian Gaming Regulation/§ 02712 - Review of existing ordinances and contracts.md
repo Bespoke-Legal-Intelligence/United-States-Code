@@ -6,7 +6,7 @@ As soon as practicable after the organization of the Commission, the Chairman sh
 
 #### (b) Approval or modification of ordinance or resolution
 
-(1) By no later than the date that is 90 days after the date on which an ordinance or resolution authorizing class II gaming or class III gaming is submitted to the Chairman pursuantto subsection (a) of this section, the Chairman shall review such ordinance or resolution to determine if it conforms to the requirements of section 2710(b) of this title.
+(1) By no later than the date that is 90 days after the date on which an ordinance or resolution authorizing class II gaming or class III gaming is submitted to the Chairman pursuant to subsection (a) of this section, the Chairman shall review such ordinance or resolution to determine if it conforms to the requirements of section 2710(b) of this title.
 
 (2) If the Chairman determines that an ordinance or resolution submitted under subsection (a) of this section conforms to the requirements of section 2710(b) of this title, the Chairman shall approve it.
 

@@ -48,5 +48,5 @@ Subsection (c) is substituted for 31:741a(b) to eliminate unnecessary words and 
 
 #### Amendments
 
-1984—Subsec. (b). Pub. L. 98–369 struck out provision that the Secretary could not dispose of obligations of one issuer, held by the Secretary at one time, havingon the date of disposal a total face or par value of more than $1,000,000 or, if no-par obligations, a stated or book value of more than $1,000,000.
+1984—Subsec. (b). Pub. L. 98–369 struck out provision that the Secretary could not dispose of obligations of one issuer, held by the Secretary at one time, having on the date of disposal a total face or par value of more than $1,000,000 or, if no-par obligations, a stated or book value of more than $1,000,000.
 

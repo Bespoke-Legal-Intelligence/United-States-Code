@@ -10,7 +10,7 @@ Section effective June 30, 1937, see section 1 of act June 30, 1936, set out as 
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of the Interior under this subchapter to Federal Inspector, Office ofFederal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see Transfer of Functions note set out under section 706 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of the Interior under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see Transfer of Functions note set out under section 706 of this title.
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 701 of this title.
 

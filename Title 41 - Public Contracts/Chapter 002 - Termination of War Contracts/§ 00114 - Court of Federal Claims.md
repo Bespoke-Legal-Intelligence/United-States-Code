@@ -12,7 +12,7 @@ The United States Court of Federal Claims, on motion of either of the parties, o
 
 The jurisdiction of the United States Court of Federal Claims shall not be affected by this chapter except to the extent necessary to give effect to this chapter, and no person shall recover judgment on any claim, or on any interest in any claim, in said court which such person would not have had a right to assert in said court if this section had not been enacted.
 
-(July 1, 1944, ch. 358, §14, 58 Stat. 663; July 28, 1953, ch. 253, §5, 67 Stat. 226; Apr. 2, 1982, Pub. L. 97–164, title I, §160(a)(14), 96 Stat. 48; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(July 1, 1944, ch. 358, §14, 58 Stat. 663; July 28, 1953, ch. 253, §5, 67 Stat. 226; Pub. L. 97–164, title I, §160(a)(14), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Codification
 

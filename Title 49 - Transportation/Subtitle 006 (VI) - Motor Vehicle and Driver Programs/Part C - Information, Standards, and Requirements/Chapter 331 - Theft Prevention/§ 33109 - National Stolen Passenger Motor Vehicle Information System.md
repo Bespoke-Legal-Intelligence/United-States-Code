@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—(1) Not later than July 25, 1993, the Attorney General shall establish, and thereafter maintain, a National Stolen Passenger Motor Vehicle Information System containing the vehicle identification numbers of stolen passenger motor vehicles and stolen passenger motor vehicle parts. The System shall be located in the National Crime Information Center and shall include at least the following information on each passenger motor vehicle reported to a law enforcement authority as stolen and not recovered:
+General Requirements.—(1) Not later than July 25, 1993, the Attorney General shall establish, and thereafter maintain, a National Stolen Passenger Motor Vehicle Information System containing the vehicle identification numbers of stolen passenger motor vehicles andstolen passenger motor vehicle parts. The System shall be located in the National Crime Information Center and shall include at least the following information on each passenger motor vehicle reported to a law enforcement authority as stolen and not recovered:
 
 &emsp;(A) the vehicle identification number.
 
@@ -56,7 +56,7 @@ Advisory Committee.—(1) Not later than December 24, 1992, the Attorney General
 
 &emsp;(x) one individual who is qualified to represent the interests of consumers.
 
-(B) The Attorney General shall appoint the individuals described in subparagraph (A)(iii)–(x)of this paragraph and shall serve as chairman of the committee.
+(B) The Attorney General shall appoint the individuals described in subparagraph (A)(iii)–(x) of this paragraph and shall serve as chairman of the committee.
 
 (3) The committee shall make recommendations on developing and carrying out—
 

@@ -10,7 +10,7 @@ A State agency meets the minimum State requirements of this subsection if in iss
 
 &emsp;(1) the crew member has received classroom and range training in weapons safety and marksmanship during the current year by a qualified instructor for each weapon that the crew member is licensed to carry; and
 
-&emsp;(2) the receipt or possession of a weapon by the crew member would not violate Federal law, determined on the basis of a criminal record background check conducted during the current year.
+&emsp;(2) the receipt or possession of a weapon by the crew member would not violate Federallaw, determined on the basis of a criminal record background check conducted during the current year.
 
 (Pub. L. 103–55, §3, July 28, 1993, 107 Stat. 276.)
 

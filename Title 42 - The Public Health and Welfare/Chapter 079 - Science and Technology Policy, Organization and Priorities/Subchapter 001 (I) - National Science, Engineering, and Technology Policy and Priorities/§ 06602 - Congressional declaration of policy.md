@@ -14,7 +14,7 @@ In view of the foregoing, the Congress declares that the United States shall adh
 
 &emsp;(5) The development and maintenance of a solid base for science and technology in the United States, including: (A) strong participation of and cooperative relationships with State and local governments and the private sector; (B) the maintenance and strengthening of diversified scientific and technological capabilities in government, industry, and the universities, and the encouragement of independent initiatives based on such capabilities, together with elimination of needless barriers to scientific and technological innovation; (C) effective management and dissemination of scientific and technological information; (D) establishment of essential scientific, technical and industrial standards and measurement and test methods; and (E) promotion of increased public understanding of science and technology.
 
-&emsp;(6) The recognition that, as changing circumstances require periodic revision and adaptation of this subchapter, the Federal Government is responsible for identifying and interpreting the changes in those circumstances as they occur, and for effecting subsequent changes in this subchapter as appropriate.
+&emsp;(6) The recognition that, as changing circumstances require periodic revision and adaptation of this subchapter, the Federal Government is responsible for identifying and interpreting the changes in those circumstances asthey occur, and for effecting subsequent changes in this subchapter as appropriate.
 
 #### (b) Implementation
 
@@ -26,7 +26,7 @@ To implement the policy enunciated in subsection (a) of this section, the Congre
 
 &emsp;(3) It is further an appropriate Federal function to support scientific and technological efforts which are expected to provide results beneficial to the public but which the private sector may be unwilling or unable to support.
 
-&emsp;(4) Scientific and technological activities which may be properly supported exclusivelyby the Federal Government should be distinguished from those in which interests are shared with State and local governments and the private sector. Among these entities, cooperative relationships should be established which encourage the appropriate sharing of science and technology decisionmaking, funding support, and program planning and execution.
+&emsp;(4) Scientific and technological activities which may be properly supported exclusively by the Federal Government should be distinguished from those in which interests are shared with State and local governments and the private sector. Among these entities, cooperative relationships should be established which encourage the appropriate sharing of science and technology decisionmaking, funding support, and program planning and execution.
 
 &emsp;(5) The Federal Government should support and utilize engineering and its various disciplines and make maximum use of the engineering community, whenever appropriate, as an essential element in the Federal policymaking process.
 

@@ -49,6 +49,7 @@
 | (g) | Alternative system or documents; costs. |
 | (h) | Staggered issuance procedures. |
 | (i) | Electronic benefit transfers. |
+| (j) | State option to issue benefits to certain individuals made ineligible by welfare reform. |
 | [2017\.](%C2%A7%2002017%20-%20Value%20of%20allotment.md) | Value of allotment. |
 | (a) | Calculation. |
 | (b) | Benefits not deemed income or resources for certain purposes. |
@@ -69,7 +70,7 @@
 | (c) | Discrimination prohibited. |
 | (d) | Plan of operation by State agency; approval by Secretary; Indians. |
 | (e) | Requisites of State plan of operation. |
-| (f) | Food and nutrition education program. |
+| (f) | Nutrition education. |
 | (g) | State noncompliance; correction of failures. |
 | (h) | Deposit by State to cover fraudulently or negligently issued coupons. |
 | (i) | Application and denial procedures. |
@@ -80,6 +81,7 @@
 | (n) | Verification by State agencies. |
 | (<i>o</i>) | Data processing systems; model plan; comprehensive automation and computerization; State plans; evaluation and report to Congress; corrective measures by State; time for implementation. |
 | (p) | State verification option. |
+| (q) | Denial of food stamps for prisoners. |
 | [2021\.](%C2%A7%2002021%20-%20Civil%20money%20penalties%20and%20disqualification%20of%20retail%20food%20stores%20and%20wholesale%20food%20concerns.md) | Civil money penalties and disqualification of retail food stores and wholesale food concerns. |
 | (a) | Disqualification or civil penalty. |
 | (b) | Period of disqualification. |
@@ -195,7 +197,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2270, 3175a, 3175b of this title; title 8 section 1255a; title 20 section 2341; title 26 sections 32, 6103, 6109; title 29 sections 49b, 1503, 1645; title 42 sections 405, 503, 602, 610, 1314a, 1320b–7, 1383, 1437f, 1758, 1766, 1786, 3012, 3056g, 3058e, 3058k, 5179, 8624; title 43 section 1626; title 48 section 1841.
+This chapter is referred to in sections 2270, 3175a, 3175b of this title; title 8 sections 1255a, 1612; title 20 section 2341; title 21 section 862a; title 26 sections 32, 51, 6103, 6109; title 29 sections 49b, 1503, 1645; title 42 sections 405, 503, 608, 608a, 1314a, 1320b–7, 1382, 1383, 1437f, 1758, 1766, 1786, 3012, 3056g, 3058e, 3058k, 5179, 8624, 9858i; title 43 section 1626; title 48 section 1841.
 
 
 ---

@@ -14,7 +14,7 @@
 
 (4) All normal travel expenses within and outside the judicial district shall be taxable as costs pursuant to section 1920 of this title.
 
-(d)(1) A subsistence allowance shall be paid to a witness when an overnight stay is required atthe place of attendance because such place is so far removed from the residence of such witness as to prohibit return thereto from day to day.
+(d)(1) A subsistence allowance shall be paid to a witness when an overnight stay is required at the place of attendance because such place is so far removed from the residence of such witness as to prohibit return thereto from day to day.
 
 (2) A subsistence allowance for a witness shall be paid in an amount not to exceed the maximum per diem allowance prescribed by the Administrator of General Services, pursuant to section 5702(a) of title 5, for official travel in the area of attendance by employees of the Federal Government.
 
@@ -22,11 +22,11 @@
 
 (4) When a witness is detained pursuant to section 3144 of title 18 for want of security for his appearance, he shall be entitled for each day of detention when not in attendance at court, in addition to his subsistence, to the daily attendance fee provided by subsection (b) of this section.
 
-(e) An alien who has been paroled into the United States for prosecution, pursuant to section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), or an alien who either has admitted belonging to a class of aliens who are deportable or has been determined pursuant to section 242(b) of such Act (8 U.S.C. 1252(b)) to be deportable, shall be ineligible to receive the fees or allowances provided by this section.
+(e) An alien who has been paroled into the United States for prosecution, pursuant to section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), or an alien who either has admitted belonging to a class of aliens who are deportable or has been determined pursuant to section 240 of such Act (8 U.S.C. 1252(b)) <sup>1</sup> to be deportable, shall be ineligible to receive the fees or allowances provided by this section.
 
 (f) Any witness who is incarcerated at the time that his or her testimony is given (except for a witness to whom the provisions of section 3144 of title 18 apply) may not receive fees or allowances under this section, regardless of whether such a witness is incarcerated at the time he or she makes a claim for fees or allowances under this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 950; May 10, 1949, ch. 96, 63 Stat. 65; May 24, 1949, ch. 139, §94, 63 Stat. 103; Oct. 31, 1951, ch. 655, §51(a), 65 Stat. 727; Sept. 3, 1954, ch. 1263, §45, 68 Stat. 1242; Aug. 1, 1956, ch. 826, 70 Stat. 798; Mar. 27, 1968, Pub. L. 90–274, §102(b), 82 Stat. 62; Oct. 27, 1978, Pub. L. 95–535, §1, 92 Stat. 2033; Dec. 1, 1990, Pub. L. 101–650, title III, §314(a), 104 Stat. 5115; Oct. 14, 1992, Pub. L. 102–417, §2(a)–(c), 106 Stat. 2138.)
+(June 25, 1948, ch. 646, 62 Stat. 950; May 10, 1949, ch. 96, 63 Stat. 65; May 24, 1949, ch. 139, §94, 63 Stat. 103; Oct. 31, 1951, ch. 655, §51(a), 65 Stat. 727; Sept. 3, 1954, ch. 1263, §45, 68 Stat. 1242; Aug. 1, 1956, ch. 826, 70 Stat. 798; Pub. L. 90–274, §102(b), Mar. 27, 1968, 82 Stat. 62; Pub. L. 95–535, §1, Oct. 27, 1978, 92 Stat. 2033; Pub. L. 101–650, title III, §314(a), Dec. 1, 1990, 104 Stat. 5115; Pub. L. 102–417, §2(a)–(c), Oct. 14, 1992, 106 Stat. 2138; Pub. L. 104–208, div. C, title III, §308(g)(5)(E), Sept. 30, 1996, 110 Stat. 3009–623.)
 
 #### Historical and Revision Notes
 
@@ -56,33 +56,41 @@ This section restores certain provisions of the original statute, R.S. §848, wh
 
 Subsection (c) of section 5702 of title 5, referred to in subsec. (d)(3), which related to conditions under which an employee could be reimbursed for actual and necessary expenses of official travel when the maximum per diem allowance was less than these expenses, was repealed, and subsec. (e) of section 5702 of title 5, was redesignated as subsec. (c), by Pub. L. 99–234, title I, §102, Jan. 2, 1986, 99 Stat. 1756.
 
+Section 240 of the Immigration and Nationality Act, referred to in subsec. (e), is classified to section 1229a of Title 8, Aliens and Nationality.
+
 #### Amendments
 
-1992—Subsec. (d)(1). Pub. L. 102–417, §2(b), struck out “(other than a witness who is incarcerated)” after “paid to a witness”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–208 substituted “section 240” for “section 242(b)”.
+
+<b>1992</b>—Subsec. (d)(1). Pub. L. 102–417, §2(b), struck out “(other than a witness who is incarcerated)” after “paid to a witness”.
 
 Subsec. (d)(4). Pub. L. 102–417, §2(c), substituted “3144” for “3149”.
 
 Subsec. (f). Pub. L. 102–417, §2(a), added subsec. (f).
 
-1990—Subsec. (b). Pub. L. 101–650 substituted “$40” for “$30”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–650 substituted “$40” for “$30”.
 
-1978—Pub. L. 95–535 increased the daily witness attendance fee from $20 to $30, substituted provisions relating to compensation for the actual expenses of travel based on the form of transportation used, to a travel allowance equal to the mileage allowance under section 5704 of Title 5 for a witness travelling by privately owned vehicle, and to tolls, taxi fares, and parking fees for provisions that a witness would receive 10 cents per mile and that mileage computation would be based on a uniform table of distances regardless of the mode of travel employed, provisions relating to a subsistence allowance in amounts not to exceed those which Government employees receive for official travel for provisions that such subsistence allowance would be $16 per day, provisions relating to a witness detained for want of security for his appearance being entitled to the daily attendance fee in addition to subsistence for provisions that such a witness would be entitled to $1 per day in addition to his subsistence, and inserted provisions defining “court of the United States” and relating to travel expenses being taxable as costs and to certain aliens being ineligible to receive fees and allowances.
+<b>1978</b>—Pub. L. 95–535 increased the daily witness attendance fee from $20 to $30, substituted provisions relating to compensation for the actual expenses of travel based on the form of transportation used, to a travel allowance equal to the mileage allowance under section 5704 of Title 5 for a witness travelling by privately owned vehicle, and to tolls, taxi fares, and parking fees for provisions that a witness would receive 10 cents per mile and that mileage computation would be based on a uniform table of distances regardless of the mode of travel employed, provisions relating to a subsistence allowance in amounts not to exceed those which Government employees receive for official travel for provisions that such subsistence allowance would be $16 per day, provisions relating to a witness detained for want of security for his appearance being entitled to the daily attendance fee in addition to subsistence for provisions that such a witness would be entitled to $1 per day in addition to his subsistence, and inserted provisions defining “court of the United States” and relating to travel expenses being taxable as costs and to certain aliens being ineligible to receive fees and allowances.
 
-1968—Pub. L. 90–274 increased the per diem allowance from $4 to $20, increased the mileage allowance from 8 cents per mile to 10 cents per mile, increased the daily subsistence allowance from $8 to $16, and directed that witnesses in the district courts for the districts of the Canal Zone, Guam, and the Virgin Islands receive the same fees and allowances provided in this section for witnesses in other district courts of the United States.
+<b>1968</b>—Pub. L. 90–274 increased the per diem allowance from $4 to $20, increased the mileage allowance from 8 cents per mile to 10 cents per mile, increased the daily subsistence allowance from $8 to $16, and directed that witnesses in the district courts for the districts of the Canal Zone, Guam, and the Virgin Islands receive the same fees and allowances provided in this section for witnesses in other district courts of the United States.
 
-1956—Act Aug. 1, 1956, substituted “, or before any person authorized to take his deposition pursuant to any rule or order” for “or person taking his disposition pursuant to any order”, increased the payments for mileage from 7 to 8 cents per mile and subsistence allowance from $5 to $8 per day, and authorized the computation of mileage on the basis of a uniform table of distances adopted by the Attorney General.
+<b>1956</b>—Act Aug. 1, 1956, substituted “, or before any person authorized to take his deposition pursuant to any rule or order” for “or person taking his disposition pursuant to any order”, increased the payments for mileage from 7 to 8 cents per mile and subsistence allowance from $5 to $8 per day, and authorized the computation of mileage on the basis of a uniform table of distances adopted by the Attorney General.
 
-1954—Act Sept. 3, 1954, struck out language which had restricted section's applicability to those depositions taken pursuant to order of the court.
+<b>1954</b>—Act Sept. 3, 1954, struck out language which had restricted section's applicability to those depositions taken pursuant to order of the court.
 
-1951—Act Oct. 31, 1951, substituted “residences” for “residence” in that part of second sentence which precedes first proviso.
+<b>1951</b>—Act Oct. 31, 1951, substituted “residences” for “residence” in that part of second sentence which precedes first proviso.
 
-1949—Act May 24, 1949, inserted last par.
+<b>1949</b>—Act May 24, 1949, inserted last par.
 
 Act May 10, 1949, increased witnesses’ fees from $2 to $4 per day, mileage allowance from 5 cents to 7 cents a mile, subsistence allowance from $3 to $5 per day, and inserted provisos.
 
 #### Change of Name
 
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1992 Amendment
 

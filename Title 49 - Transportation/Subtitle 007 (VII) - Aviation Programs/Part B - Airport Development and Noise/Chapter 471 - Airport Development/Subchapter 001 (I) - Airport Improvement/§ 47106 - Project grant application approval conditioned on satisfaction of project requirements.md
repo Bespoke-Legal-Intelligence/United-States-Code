@@ -4,7 +4,7 @@
 
 Project Grant Application Approval.—The Secretary of Transportation may approve an application under this subchapter for a project grant only if the Secretary is satisfied that—
 
-&emsp;(1) the project is consistent with plans (existing at the time the project is approved) ofpublic agencies authorized by the State in which the airport is located to plan for the development of the area surrounding the airport;
+&emsp;(1) the project is consistent with plans (existing at the time the project is approved) of public agencies authorized by the State in which the airport is located to plan for the development of the area surrounding the airport;
 
 &emsp;(2) the project will contribute to carrying out this subchapter;
 
@@ -40,7 +40,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(ii) the Administrator has prescribed applicable standards; and
 
-&emsp;(C) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
+&emsp;(C) if the application is found to have a significant adverse effect on natural resources,including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
 
 (2) The Secretary may approve an application under this subchapter for an airport development project that does not involve the location of an airport or runway, or a major runway extension, at an existing airport without requiring an environmental impact statement related to noise for the project if—
 
@@ -74,7 +74,7 @@ Withholding Approval.—(1) The Secretary may withhold approval of an applicatio
 
 (e)
 
-Reports Relating to Construction of Certain New Hub Airports.—At least 90 daysprior to the approval under this subchapter of a project grant application for construction of a new hub airport that is expected to have 0.25 percent or more of the total annual enplanements in the United States, the Secretary shall submit to Congress a report analyzing the anticipated impact of such proposed new airport on—
+Reports Relating to Construction of Certain New Hub Airports.—At least 90 days prior to the approval under this subchapter of a project grant application for construction of a new hub airport that is expected to have 0.25 percent or more of the total annual enplanements in the United States, the Secretary shall submit to Congress a report analyzing the anticipated impact of such proposed new airport on—
 
 &emsp;(1) the fees charged to air carriers (including landing fees), and other costs that will be incurred by air carriers, for using the proposed airport;
 

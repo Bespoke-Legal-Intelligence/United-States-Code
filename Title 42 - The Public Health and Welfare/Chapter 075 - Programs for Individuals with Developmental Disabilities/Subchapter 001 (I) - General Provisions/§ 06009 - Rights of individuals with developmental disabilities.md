@@ -38,7 +38,7 @@ Congress makes the following findings respecting the rights of individuals with 
 
 #### Prior Provisions
 
-A prior section 6009, Pub. L. 88–164, title I, §110, as added Pub. L. 94–103, title I, §128, Oct. 4, 1975, 89 Stat. 501; amended Pub. L. 95–602, title V, §§504(b)(1), 506, Nov. 6, 1978, 92 Stat. 3006, 3007; Pub. L. 96–32, §3(b), July 10, 1979, 93 Stat. 82, set forth provisions respecting development, etc., of evaluation system, prior to repealby Pub. L. 97–35, title IX, §912(a), Aug. 13, 1981, 95 Stat. 563.
+A prior section 6009, Pub. L. 88–164, title I, §110, as added Pub. L. 94–103, title I, §128, Oct. 4, 1975, 89 Stat. 501; amended Pub. L. 95–602, title V, §§504(b)(1), 506, Nov. 6, 1978, 92 Stat. 3006, 3007; Pub. L. 96–32, §3(b), July 10, 1979, 93 Stat. 82, set forth provisions respecting development, etc., of evaluation system, prior to repeal by Pub. L. 97–35, title IX, §912(a), Aug. 13, 1981, 95 Stat. 563.
 
 Prior sections 6010 to 6012 were omitted in the general amendment of this chapter by Pub. L. 98–527.
 

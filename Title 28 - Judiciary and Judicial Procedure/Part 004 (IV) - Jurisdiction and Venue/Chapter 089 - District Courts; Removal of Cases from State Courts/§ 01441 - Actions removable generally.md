@@ -10,7 +10,7 @@
 
 (e) The court to which such civil action is removed is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; Oct. 21, 1976, Pub. L. 94–583, §6, 90 Stat. 2898; June 19, 1986, Pub. L. 99–336, §3(a), 100 Stat. 637; Nov. 19, 1988, Pub. L. 100–702, title X, §1016(a), 102 Stat. 4669; Dec. 1, 1990, Pub. L. 101–650, title III, §312, 104 Stat. 5114; Dec. 9, 1991, Pub. L. 102–198, §4, 105 Stat. 1623.)
+(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, §6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, §3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, §1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §312, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §4, Dec. 9, 1991, 105 Stat. 1623.)
 
 #### Historical and Revision Notes
 
@@ -36,15 +36,15 @@ The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to remo
 
 #### Amendments
 
-1991—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
 
-1990—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
 
-1988—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
 
-1986—Subsec. (e). Pub. L. 99–336 added subsec. (e).
+<b>1986</b>—Subsec. (e). Pub. L. 99–336 added subsec. (e).
 
-1976—Subsec. (d). Pub. L. 94–583 added subsec. (d).
+<b>1976</b>—Subsec. (d). Pub. L. 94–583 added subsec. (d).
 
 #### Effective Date of 1986 Amendment
 

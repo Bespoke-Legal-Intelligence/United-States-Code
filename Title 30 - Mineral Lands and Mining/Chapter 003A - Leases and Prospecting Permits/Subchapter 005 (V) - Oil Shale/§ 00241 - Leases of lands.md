@@ -42,7 +42,7 @@ In recognition of the unique character of oil shale development:
 
 (3) Before determining whether to offer an offsite lease under subsection (c) of this section, the Secretary shall seek the recommendation of the Governor of the State in which the lands to be leased are located as to whether or not to lease such lands, what alternative actions are available, and what special conditions could be added to the proposed lease to mitigate impacts. The Secretary shall accept the recommendations of the Governor if he determines that they provide for a reasonable balance between the national interest and the State's interests. The Secretary shall communicate to the Governor, in writing, and publish in the Federal Register the reasons for his determination to accept or reject such Governor's recommendations.
 
-(Feb. 25, 1920, ch. 85, §21, 41 Stat. 445; Sept. 2, 1960, Pub. L. 86–705, §7, 74 Stat. 790; Nov. 16, 1981, Pub. L. 97–78, §1(1), 95 Stat. 1070; Dec. 30, 1982, Pub. L. 97–394, title III, §318, 96 Stat. 1999.)
+(Feb. 25, 1920, ch. 85, §21, 41 Stat. 445; Pub. L. 86–705, §7, Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, §1(1), Nov. 16, 1981, 95 Stat. 1070; Pub. L. 97–394, title III, §318, Dec. 30, 1982, 96 Stat. 1999.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) exercise primary authority for the conduct of foreign policy with respect to such telecommunications functions, including the determination of United States positions and the conduct of United States participation in negotiations with foreign governments and international bodies. In exercising this responsibility, the Secretary shall coordinate with other agencies as appropriate, and, in particular, shall give full consideration to the authority vested by law or Executive order in the Federal Communications Commission, the Department of Commerce and the Office of the United States Trade Representative in this area;
 
-&emsp;(2) maintain continuing liaison with other executive branch agencies concerned withinternational communications and information policy and with the Federal Communications Commission, as appropriate;
+&emsp;(2) maintain continuing liaison with other executive branch agencies concerned with international communications and information policy and with the Federal Communications Commission, as appropriate;
 
 &emsp;(3) in accordance with such authority as may be delegated by the President pursuant to Executive order, supervise and coordinate the activities of any senior interagency policymaking group on international telecommunications and information policy and chair such interagency meetings as may be necessary to coordinate actions on pending issues;; <sup>1</sup>
 
@@ -18,7 +18,7 @@
 
 &emsp;(7) assist in arranging meetings of such public sector advisory groups as may be established to advise the Department of State and other executive branch agencies in connection with international communications and information policy issues.
 
-(Aug. 1, 1956, ch. 841, title I, §35, as added Nov. 22, 1983, Pub. L. 98–164, title I, §124, 97 Stat. 1025; amended Dec. 22, 1987, Pub. L. 100–204, title I, §173(a)(1), 101 Stat. 1360; Apr. 30, 1994, Pub. L. 103–236, title I, §162(k)(1), 108 Stat. 408.)
+(Aug. 1, 1956, ch. 841, title I, §35, as added Pub. L. 98–164, title I, §124, Nov. 22, 1983, 97 Stat. 1025; amended Pub. L. 100–204, title I, §173(a)(1), Dec.22, 1987, 101 Stat. 1360; Pub. L. 103–236, title I, §162(k)(1), Apr. 30, 1994, 108 Stat. 408.)
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@ It is prohibited for any person—
 
 &emsp;(3) to include, directly or indirectly, the amount of any kickback prohibited by clause (1) or (2) in the contract price charged by a subcontractor to a prime contractor or a higher tier subcontractor or in the contract price charged by a prime contractor to the United States.
 
-(Mar. 8, 1946, ch. 80, §3, 60 Stat. 38; Sept. 2, 1960, Pub. L. 86–695, 74 Stat. 741; Nov. 7, 1986, Pub. L. 99–634, §2(a), 100 Stat. 3524.)
+(Mar. 8, 1946, ch. 80, §3, 60 Stat. 38; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 741; Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3524.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@ Effective October 1, 1995, the responsibility for design and installation of sec
 
 &emsp;(C) related to the design or installation of security systems for the Capitol buildings and grounds.
 
-(3) All annual leave and sick leave standing to the credit of an individual immediately beforesuch individual is transferred under paragraph (1) shall be credited to such individual, without adjustment, in the new position of the individual.
+(3) All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph (1) shall be credited to such individual, without adjustment, in the new position of the individual.
 
 (Pub. L. 104–53, title III, §308, Nov. 19, 1995, 109 Stat. 537.)
 

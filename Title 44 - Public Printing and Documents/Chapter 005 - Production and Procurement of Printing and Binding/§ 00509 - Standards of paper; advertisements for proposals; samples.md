@@ -40,7 +40,7 @@ Sec. 2. The Congress of the United States urgently recommends that—
 
 &emsp;“(1) Federal agencies require the use of acid free permanent papers for publications of enduring value produced by the Government Printing Office or produced by Federal grant or contract, using the specifications for such paper established by the Joint Committee on Printing;
 
-&emsp;“(2) Federal agencies require the use of archival quality acid free papers for permanently valuableFederal records and confer with the National Archives and Records Administration on the requirements for paper quality;
+&emsp;“(2) Federal agencies require the use of archival quality acid free papers for permanently valuable Federal records and confer with the National Archives and Records Administration on the requirements for paper quality;
 
 &emsp;“(3) American publishers and State and local governments use acid free permanent papers for publications of enduring value, in voluntary compliance with the American National Standard;
 
@@ -54,5 +54,5 @@ Sec. 3. The Librarian of Congress, the Archivist of the United States, and the P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 515, 1121 of this title.
+This section is referred to in sections 515, 1121 of this title; title 22 section 3714b.
 

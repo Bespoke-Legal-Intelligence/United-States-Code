@@ -16,7 +16,7 @@ In any fiscal year, the total number of officers selected for retirement or sepa
 
 Any retirement or separation under subsection (a) of this section shall take effect on the first day of the sixth month beginning after the date on which the Secretary of Commerce approves the retirement or separation, except that if the officer concerned requests earlier retirement or separation, the date shall be as determined by the Secretary.
 
-(June 3, 1948, ch. 390, §8, 62 Stat. 298; Oct. 19, 1984, Pub. L. 98–498, title III, §320(a)(1), 98 Stat. 2307.)
+(June 3, 1948, ch. 390, §8, 62 Stat. 298; Pub. L. 98–498, title III, §320(a)(1), Oct. 19, 1984, 98 Stat. 2307.)
 
 #### Amendments
 

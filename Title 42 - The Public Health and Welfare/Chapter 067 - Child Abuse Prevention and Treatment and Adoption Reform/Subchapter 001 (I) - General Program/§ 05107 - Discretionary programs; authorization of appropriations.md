@@ -16,5 +16,5 @@ The Child Abuse Prevention and Treatment and Adoption Reform Act of 1978, referr
 
 #### Codification
 
-Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of title I ofthe Child Abuse Prevention and Treatment Act which comprises this subchapter.
+Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of title I of the Child Abuse Prevention and Treatment Act which comprises this subchapter.
 

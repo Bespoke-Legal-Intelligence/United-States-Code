@@ -3,7 +3,12 @@
 | Sec. |  |
 | :--- | ---: |
 | [1441\.](%C2%A7%2001441%20-%20Actions%20removable%20generally.md) | Actions removable generally. |
-| [1442\.](%C2%A7%2001442%20-%20Federal%20officers%20sued%20or%20prosecuted.md) | Federal officers sued or prosecuted. |
+| [1442\.](%C2%A7%2001442%20-%20Federal%20officers%20or%20agencies%20sued%20or%20prosecuted.md) | Federal officers and agencies sued or prosecuted.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [1442a.](%C2%A7%2001442a%20-%20Members%20of%20armed%20forces%20sued%20or%20prosecuted.md) | Members of armed forces sued or prosecuted. |
 | [1443\.](%C2%A7%2001443%20-%20Civil%20rights%20cases.md) | Civil rights cases. |
 | [1444\.](%C2%A7%2001444%20-%20Foreclosure%20action%20against%20United%20States.md) | Foreclosure action against United States. |
@@ -20,13 +25,15 @@
 
 #### Amendments
 
-1984—Pub. L. 98–353, title I, §103(b), July 10, 1984, 98 Stat. 335, added item 1452.
+<b>1996</b>—Pub. L. 104–317, title II, §206(b), Oct. 19, 1996, 110 Stat. 3850, inserted “and agencies” after “officers” in item 1442.
 
-1970—Pub. L. 91–358, title I, §172(d)(2), July 29, 1970, 84 Stat. 591, added item 1451.
+<b>1984</b>—Pub. L. 98–353, title I, §103(b), July 10, 1984, 98 Stat. 335, added item 1452.
 
-1958—Pub. L. 85–554, §5(b), July 25, 1958, 72 Stat. 416, substituted “Nonremovable actions” for “Carriers; non-removable actions” in item 1445.
+<b>1970</b>—Pub. L. 91–358, title I, §172(d)(2), July 29, 1970, 84 Stat. 591, added item 1451.
 
-1956—Act Aug. 10, 1956, ch. 1041, §19(b), 70A Stat. 627, added item 1442a.
+<b>1958</b>—Pub. L. 85–554, §5(b), July 25, 1958, 72 Stat. 416, substituted “Nonremovable actions” for “Carriers; non-removable actions” in item 1445.
+
+<b>1956</b>—Act Aug. 10, 1956, ch. 1041, §19(b), 70A Stat. 627, added item 1442a.
 
 #### Cross References
 
@@ -36,13 +43,15 @@ Puerto Rico, removal of causes to United States District Court of Puerto Rico, s
 
 This chapter is referred to in title 33 section 1323; title 39 section 409; title 42 section 7192.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01441 - Actions removable generally](%C2%A7%2001441%20-%20Actions%20removable%20generally.md)
-- [&sect; 01442 - Federal officers sued or prosecuted](%C2%A7%2001442%20-%20Federal%20officers%20sued%20or%20prosecuted.md)
+- [&sect; 01442 - Federal officers or agencies sued or prosecuted](%C2%A7%2001442%20-%20Federal%20officers%20or%20agencies%20sued%20or%20prosecuted.md)
 - [&sect; 01442a - Members of armed forces sued or prosecuted](%C2%A7%2001442a%20-%20Members%20of%20armed%20forces%20sued%20or%20prosecuted.md)
 - [&sect; 01443 - Civil rights cases](%C2%A7%2001443%20-%20Civil%20rights%20cases.md)
 - [&sect; 01444 - Foreclosure action against United States](%C2%A7%2001444%20-%20Foreclosure%20action%20against%20United%20States.md)

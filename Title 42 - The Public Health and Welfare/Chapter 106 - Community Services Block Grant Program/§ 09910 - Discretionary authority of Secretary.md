@@ -32,7 +32,7 @@ The Secretary is authorized to make grants, loans, or guarantees to States and p
 
 #### (E) Reservation
 
-&emsp;&emsp;Of the amounts made available to carry out this section, the Secretary may reserve not to exceed 1 percent for each fiscal yearto make grants to private nonprofit organizations or to enter into contracts with private nonprofit or for profit organizations to provide technical assistance to aid community development corporations in developing or implementing projects funded under this section and to evaluate projects funded under this section.
+&emsp;&emsp;Of the amounts made available to carry out this section, the Secretary may reserve not to exceed 1 percent for each fiscal year to make grants to private nonprofit organizations or to enter into contracts with private nonprofit or for profit organizations to provide technical assistance to aid community development corporations in developing or implementing projects funded under this section and to evaluate projects funded under this section.
 
 #### (2) Rural community development activities
 
@@ -72,7 +72,7 @@ Subchapter I of chapter 105 of this title, referred to in subsec. (d), was in th
 
 1994—Subsec. (a). Pub. L. 103–252, §203(a), inserted “ongoing activities of national or regional significance related to the purposes of this chapter, with special emphasis on—” after “to provide for” in introductory provisions, substituted pars. (1) to (3) for former pars. (1) to (3) which related to grants for training related to the purposes of this chapter, grants or contracts for ongoing activities of national or regional significance related to the purposes of this chapter, including special emphasis programs, and grants for training and technical assistance to aid States in carrying out their responsibilities under this chapter, and struck out concluding provisions which read “In addition, grants, loans, and guarantees made pursuant to this subsection may be made to a private nonprofit organization applying jointly with a business concern.”
 
-Subsec. (b). Pub. L. 103–252, §203(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any instructional activity carried out under subsection (a)(2)(F) of this section shall be carried out on the campus of an institution of higher education (as defined in section 1141(a) of title 20) and shall include—
+Subsec. (b). Pub. L. 103–252, §203(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any instructional activity carried out undersubsection (a)(2)(F) of this section shall be carried out on the campus of an institution of higher education (as defined in section 1141(a) of title 20) and shall include—
 
 &emsp;“(1) access to the facilities and resources of such institution;
 

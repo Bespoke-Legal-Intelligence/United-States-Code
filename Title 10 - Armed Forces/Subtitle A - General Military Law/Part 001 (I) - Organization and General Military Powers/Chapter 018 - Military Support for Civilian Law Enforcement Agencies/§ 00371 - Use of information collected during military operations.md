@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1988—Pub. L. 100–456 amended section generally, designating existing provisions as subsec. (a), insertingreference to military training, and adding subsecs. (b) and (c).
+1988—Pub. L. 100–456 amended section generally, designating existing provisions as subsec. (a), inserting reference to military training, and adding subsecs. (b) and (c).
 
 #### Short Title of 1986 Amendment
 

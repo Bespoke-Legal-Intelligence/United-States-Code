@@ -22,7 +22,7 @@ Inflatable Restraint Requirements.—(1) Not later than September 1, 1993, the S
 
 &emsp;(C) 100 percent of each manufacturer's annual production of passenger cars manufactured after August 31, 1997.
 
-&emsp;(D) 100 percent of each manufacturer's annual production of vehicles described in clause\(B) of this paragraph manufactured after August 31, 1998.
+&emsp;(D) 100 percent of each manufacturer's annual production of vehicles described in clause (B) of this paragraph manufactured after August 31, 1998.
 
 (2) Manufacturers may not use credits and incentives available before September 1, 1998, under the provisions of Standard 208 (as amended by this section) to comply with the requirements of paragraph (1)(D) of this subsection after August 31, 1998.
 
@@ -30,7 +30,7 @@ Inflatable Restraint Requirements.—(1) Not later than September 1, 1993, the S
 
 Owner Manual Requirements.—In amending Standard 208, the Secretary of Transportation shall require, to be effective as soon as possible after the amendment is prescribed, that owner manuals for passenger cars, buses, multipurpose passenger vehicles, and trucks equipped with an inflatable restraint include a statement in an easily understandable format stating that—
 
-&emsp;(1) either or both of the front outboard seating positions of the vehicle are equipped with an inflatable restraint referred to as an “airbag” and a lap and shoulder belt;
+&emsp;(1) either or both of the front outboard seating positions of the vehicle are equipped withan inflatable restraint referred to as an “airbag” and a lap and shoulder belt;
 
 &emsp;(2) the “airbag” is a supplemental restraint and is not a substitute for lap and shoulder belts;
 
@@ -88,7 +88,7 @@ Report.—(1) On October 1, 1992, and every 6 months after that date through Oct
 
 (h)
 
-Airbags for Government Cars.—In cooperation with the Administrator of General Services and the heads of appropriate departments, agencies, and instrumentalities of theGovernment, the Secretary of Transportation shall establish a program, consistent with applicable procurement laws of the Government and available appropriations, requiring that all passenger cars acquired—
+Airbags for Government Cars.—In cooperation with the Administrator of General Services and the heads of appropriate departments, agencies, and instrumentalities of the Government, the Secretary of Transportation shall establish a program, consistent with applicable procurement laws of the Government and available appropriations, requiring that all passenger cars acquired—
 
 &emsp;(1) after September 30, 1994, for use by the Government be equipped, to the maximum extent practicable, with driver-side inflatable restraints; and
 

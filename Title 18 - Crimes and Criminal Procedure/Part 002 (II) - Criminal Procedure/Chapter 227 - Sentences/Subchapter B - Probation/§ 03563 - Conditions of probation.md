@@ -18,11 +18,13 @@ Mandatory Conditions.—The court shall provide, as an explicit condition of a s
 
 &emsp;&emsp;(A) make restitution in accordance with sections 2248, 2259, 2264, 2327, 3663, 3663A, and 3664; and
 
-&emsp;&emsp;(B) pay the assessment imposed in accordance with section 3013; and
+&emsp;&emsp;(B) pay the assessment imposed in accordance with section 3013;
 
-&emsp;(7) that the defendant will notify the court of any material change in the defendant's economic circumstances that might affect the defendant's ability to pay restitution, fines, or special assessments.
+&emsp;(7) that the defendant will notify the court of any material change in the defendant's economic circumstances that might affect the defendant's ability to pay restitution, fines, or special assessments; and
 
-> If the court has imposed and ordered execution of a fine and placed the defendant on probation, payment of the fine or adherence to the court-established installment schedule shall be a condition of the probation. The results of a drug test administered in accordance with paragraph\(4) <sup>1</sup> shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).<sup>1</sup>
+&emsp;(8) for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994).
+
+> If the court has imposed and ordered execution of a fine and placed the defendant on probation, payment of the fine or adherence to the court-established installment schedule shall be a condition of the probation.
 
 (b)
 
@@ -74,15 +76,21 @@ Discretionary Conditions.—The court may provide, as further conditions of a se
 
 (c)
 
-Modifications of Conditions.—The court may modify, reduce, or enlarge the conditions of a sentence of probation at any time prior to the expiration or termination of the term of probation, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the conditions of probation.
+Modifications of Conditions.—The court may modify, reduce, or enlarge the conditions ofa sentence of probation at any time prior to the expiration or termination of the term of probation, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the conditions of probation.
 
 (d)
 
-Written Statement of Conditions.—The court shall direct that the probation officer provide the defendant with a written statement that sets forth all the conditions to which the sentence is subject, and that is sufficiently clearand specific to serve as a guide for the defendant's conduct and for such supervision as is required.
+Written Statement of Conditions.—The court shall direct that the probation officer provide the defendant with a written statement that sets forth all the conditions to which the sentence is subject, and that is sufficiently clear and specific to serve as a guide for the defendant's conduct and for such supervision as is required.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1993; amended Pub. L. 99–646, §§11(a), 12(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§10, 18, Dec. 7, 1987, 101 Stat. 1267, 1270; Pub. L. 100–690, title VII, §§7086, 7110, 7303(a)(1), 7305(a), Nov. 18, 1988, 102 Stat. 4408, 4419, 4464, 4465; Pub. L. 101–647, title XXXV, §3584, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 102–521, §3, Oct. 25, 1992, 106 Stat. 3404; Pub. L. 103–322, title II, §20414(b), title XXVIII, §280002, title XXXII, §320921(b), Sept. 13, 1994, 108 Stat. 1830, 2096, 2130; Pub. L. 104–132, title II, §203, Apr. 24, 1996, 110 Stat. 1227; Pub. L. 104–208, div. C, title III, §§308(g)(10)(E), 374(b), Sept. 30, 1996, 110 Stat. 3009–625, 3009–647; Pub. L. 104–294, title VI, §601(k), Oct. 11, 1996, 110 Stat. 3501.)
+(e)
+
+Results of Drug Testing.—The results of a drug test administered in accordance with subsection (a)(5) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with subsection (a)(5).
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1993; amended Pub. L. 99–646, §§11(a), 12(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§10, 18, Dec. 7, 1987, 101 Stat. 1267, 1270; Pub. L. 100–690, title VII, §§7086, 7110, 7303(a)(1), 7305(a), Nov. 18, 1988, 102 Stat. 4408, 4419, 4464, 4465; Pub. L. 101–647, title XXXV, §3584, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 102–521, §3, Oct. 25, 1992, 106 Stat. 3404; Pub. L. 103–322, title II, §20414(b), title XXVIII, §280002, title XXXII, §320921(b), Sept. 13, 1994, 108 Stat. 1830, 2096, 2130; Pub. L. 104–132, title II, §203, Apr. 24, 1996, 110 Stat. 1227; Pub. L. 104–208, div. C, title III, §§308(g)(10)(E), 374(b), Sept. 30, 1996, 110 Stat. 3009–625, 3009–647; Pub. L. 104–294, title VI, §601(k), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–119, title I, §115(a)(8)(B)(i)–(iii), Nov. 26, 1997, 111 Stat. 2465.)
 
 #### References in Text
+
+Section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (a)(8), is classified to section 14071(a)(3) of Title 42, The Public Health and Welfare.
 
 Section 238(d)(5) of the Immigration and Nationality Act, referred to in subsec. (b)(21), is classified to section 1228(d)(5) of Title 8, Aliens and Nationality.
 
@@ -93,6 +101,14 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out
 For a prior section 3563, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3551 of this title.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–119, §115(a)(8)(B)(i), which directed the striking out of “The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).” at the end of paragraph (7) and the insertion of these provisions at the end of this section, was executed by striking out these provisions from the provisions following par. (7) and inserting them at the end of this section, to reflect the probable intent of Congress.
+
+Subsec. (a)(6), (7). Pub. L. 105–119, §115(a)(8)(B)(iii)(I), made technical amendment to place pars. (6) and (7) in numerical order immediately after par. (5).
+
+Subsec. (a)(8). Pub. L. 105–119, §115(a)(8)(B)(iii)(II)– (IV), added par. (8).
+
+Subsec. (e). Pub. L. 105–119, §115(a)(8)(B)(ii), designated provisions which were struck out from the concluding provisions of subsec. (a) and inserted at the end of this section by Pub. L. 105–119, §115(a)(8)(B)(i), as subsec. (e), inserted subsec. heading, and substituted “subsection (a)(5)” for “paragraph (4)” in two places. Notwithstanding that the directory language referred to designation of “the matter inserted by subparagraph (A)”, the amendment was executed by designating provisions inserted by section 115(a)(8)(B)(i) of Pub. L. 105–119 to reflect the probable intent of Congress.
 
 1996—Subsec. (a)(3) to (5). Pub. L. 104–294 transferred pars. (4) and (5) to appear in numerical order and directed amendment of subsec. (a) by striking “and” at end of par. (3), substituting “; and” for period at end of first par. (4), and redesignating second par. (4) as (5), which could not be executed due to prior amendment by Pub. L. 104–132, §203(1)(A)–(D). See below.
 
@@ -150,13 +166,19 @@ Subsec. (c). Pub. L. 100–182, §10, struck out comma after “The court may”
 
 Subsec. (c). Pub. L. 99–646, §12(a), struck out “, after a hearing” after “court may” and inserted “the provisions of the Federal Rules of Criminal Procedure relating to revocation or modification of probation” after “pursuant to”.
 
-#### Effective Date of 1996 Amendment
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 14071 of Title 42, The Public Health and Welfare.
+
+#### Effective Date of 1996 Amendments
+
+Amendment by section 308(g)(10)(E) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
 Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Section 7303(d) of Pub. L. 100–690 provided that: “The amendments made by this section \[amending this section and sections 3565, 3583, 4209, and 4214 of this title\] shall apply with respect to persons whose probation,supervised release, or parole begins after December 31, 1988.”
+Section 7303(d) of Pub. L. 100–690 provided that: “The amendments made by this section \[amending this section and sections 3565, 3583, 4209, and 4214 of this title\] shall apply with respect to persons whose probation, supervised release, or parole begins after December 31, 1988.”
 
 #### Effective Date of 1987 Amendment
 
@@ -175,6 +197,4 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3565, 3583, 3608, 3742, 5037 of this title; title 28 section 994.
-
-<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(5)”.</i>
 

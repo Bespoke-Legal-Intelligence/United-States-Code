@@ -1,6 +1,6 @@
 ### §1959. Violent crimes in aid of racketeering activity
 
-(a) Whoever, as consideration for the receipt of, or as consideration for a promise or agreement to pay, anything of pecuniary value from an enterprise engaged in racketeering activity, or for the purpose of gaining entrance to or maintaining or increasing position in an enterprise engaged in racketeering activity, murders, kidnaps, maims, assaults with a dangerous weapon, commits assault resulting in serious bodily injury upon, or threatens to commit a crime of violence against any individual in violation of the laws of any State or the UnitedStates, or attempts or conspires so to do, shall be punished—
+(a) Whoever, as consideration for the receipt of, or as consideration for a promise or agreement to pay, anything of pecuniary value from an enterprise engaged in racketeering activity, or for the purpose of gaining entrance to or maintaining or increasing position in an enterprise engaged in racketeering activity, murders, kidnaps, maims, assaults with a dangerous weapon, commits assault resulting in serious bodily injury upon, or threatens to commit a crime of violence against any individual in violation of the laws of any State or the United States, or attempts or conspires so to do, shall be punished—
 
 &emsp;(1) for murder, by death or life imprisonment, or a fine under this title, or both; and for kidnapping, by imprisonment for any term of years or for life, or a fine under this title, or both;
 

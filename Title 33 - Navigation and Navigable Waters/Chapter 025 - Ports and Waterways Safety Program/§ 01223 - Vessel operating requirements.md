@@ -24,7 +24,7 @@ Subject to the requirements of section 1224 of this title, the Secretary—
 
 #### (b) Special powers
 
-The Secretary may order any vessel, in a port or place subject to the jurisdiction of the UnitedStates or in the navigable waters of the United States, to operate or anchor in a manner he directs if—
+The Secretary may order any vessel, in a port or place subject to the jurisdiction of the United States or in the navigable waters of the United States, to operate or anchor in a manner he directs if—
 
 &emsp;(1) he has reasonable cause to believe such vessel does not comply with any regulation issued under this chapter or any other applicable law or treaty;
 
@@ -66,7 +66,7 @@ Except pursuant to international treaty, convention, or agreement, to which the 
 
 &emsp;(2) transit through the navigable waters of the United States which form a part of an international strait.
 
-(Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L.101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, §705, Oct. 19, 1996, 110 Stat. 3934.)
+(Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L. 101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, §705, Oct. 19, 1996, 110 Stat. 3934.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ The Commission may make loans to the Lowell Development and Financial Corporatio
 
 &emsp;(1) The loan to the corporation shall have a maturity of thirty-five years. At the end of such period, the corporation shall repay to the Secretary of the Treasury (in a lump sum) for deposit in the general fund of the Treasury the full amount of the loan and any additional amounts accruing to the corporation pursuant to this subsection excepting those amounts expended by the corporation for reasonable administrative expenses.
 
-&emsp;(2) The money received from the Commission, and any interest earned on such money, may be obligated by the corporation only forlow interest loans made under paragraphs (6) and (7) of this subsection, except that the corporation may use such money to the extent the Commission considers reasonable to satisfy the costs of the corporation in administering the loan or procuring loan guarantees or insurance.
+&emsp;(2) The money received from the Commission, and any interest earned on such money, may be obligated by the corporation only for low interest loans made under paragraphs (6) and (7) of this subsection, except that the corporation may use such money to the extent the Commission considers reasonable to satisfy the costs of the corporation in administering the loan or procuring loan guarantees or insurance.
 
 &emsp;(3) Within five years after receiving the loan from the Commission, the corporation shall make loans under paragraphs (6) and (7) of this subsection which, in the aggregate, obligate the full amount of money received from the Commission (minus any amount required to satisfy the costs described in paragraph (2) of this subsection).
 

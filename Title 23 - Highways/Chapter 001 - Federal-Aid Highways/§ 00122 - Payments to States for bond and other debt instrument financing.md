@@ -30,7 +30,7 @@ Federal Share.—The Federal share of the cost of a project payable under this s
 
 Statutory Construction.—Notwithstanding any other provision of law, the eligibility of an eligible debt financing instrument for reimbursement under subsection (b) shall not—
 
-&emsp;(1) constitute a commitment, guarantee, or obligation on the part of the United States toprovide for payment of principal or interest on the eligible debt financing instrument; or
+&emsp;(1) constitute a commitment, guarantee, or obligation on the part of the United States to provide for payment of principal or interest on the eligible debt financing instrument; or
 
 &emsp;(2) create any right of a third party against the United States for payment under the eligible debt financing instrument.
 

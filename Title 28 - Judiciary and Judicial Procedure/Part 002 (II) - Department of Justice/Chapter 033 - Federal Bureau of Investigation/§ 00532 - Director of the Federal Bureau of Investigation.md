@@ -14,7 +14,7 @@ Pub. L. 102–183, title V, §501, Dec. 4, 1991, 105 Stat. 1268, provided that:
 
 “(a)
 
-Study.—The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j)), the National Security Agency (under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 (note))\[)\], and the Defense Intelligence Agency (under section 1608 of title 10, United States Code).
+Study.—The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j)), the National Security Agency (under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 (note))\[)\], and the Defense Intelligence Agency (under section 1608 \[now 1623\] of title 10, United States Code).
 
 “(b)
 
@@ -22,7 +22,7 @@ Implementation.—Any program proposed under subsection (a) may be implemented o
 
 “(c)
 
-Availability of Funds.—Any payment made by the Director of the Federal Bureau of Investigation tocarry out any program proposed to be established under subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.”
+Availability of Funds.—Any payment made by the Director of the Federal Bureau of Investigation to carry out any program proposed to be established under subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.”
 
 #### Confirmation and Compensation of Director; Term of Service
 

@@ -37,7 +37,7 @@ Retired pay defined, see section 8311 of Title 5.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1408, 1461, 1463 of this title; title 5 sections 5531, 8311, 8317; title 26 sections 72, 101, 122, 6334; title 33 section 857a; title 38 section 5301; title 42 section 213a.
+This chapter is referred to in sections 1408, 1461, 1463 of this title; title 5 sections 5531, 8311, 8317; title 26 sections 72, 122, 6334; title 33 section 857a; title 38 section 5301; title 42 section 213a.
 
 
 ---

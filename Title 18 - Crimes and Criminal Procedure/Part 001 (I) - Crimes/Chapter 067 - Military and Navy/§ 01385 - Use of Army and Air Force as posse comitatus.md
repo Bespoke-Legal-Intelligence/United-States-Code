@@ -1,6 +1,6 @@
 ### §1385. Use of Army and Air Force as posse comitatus
 
-Whoever, except in cases and under circumstances expressly authorized by the Constitution or Act of Congress, willfully uses any part of the Army or the Air Force as a posse comitatus or otherwise to execute the laws shall be fined under this title or imprisoned not more than two years, or both.
+Whoever, except in cases and under circumstances expressly authorized by the Constitution or Act of Congress, willfully uses any part of theArmy or the Air Force as a posse comitatus or otherwise to execute the laws shall be fined under this title or imprisoned not more than two years, or both.
 
 (Added Aug. 10, 1956, ch. 1041, §18(a), 70A Stat. 626; amended June 25, 1959, Pub. L. 86–70, §17(d), 73 Stat. 144; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(L), 108 Stat. 2147.)
 

@@ -50,7 +50,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 &emsp;&emsp;(A) relate pay to performance (including the extent to which the performance of personnel in such workforce contributes to achieving the cost goals, schedule goals, and performance goals established for acquisition programs pursuant to section 263(b) of this title); and
 
-&emsp;&emsp;(B) provide for consideration, in personnel evaluations and promotion decisions, of theextent to which the performance of personnel in such workforce contributes to achieving such cost goals, schedule goals, and performance goals.
+&emsp;&emsp;(B) provide for consideration, in personnel evaluations and promotion decisions, of the extent to which the performance of personnel in such workforce contributes to achieving such cost goals, schedule goals, and performance goals.
 
 #### (g) Qualification requirements
 

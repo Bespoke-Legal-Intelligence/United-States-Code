@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of section 5316, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
 
-&emsp;(4) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, a representative of an estate and, when the Secretary prescribes, a governmental entity.
+&emsp;(4) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, arepresentative of an estate and, when the Secretary prescribes, a governmental entity.
 
 &emsp;(5) “United States” means the States of the United States, the District of Columbia, and, when the Secretary prescribes by regulation, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands, a territory or possession of the United States, or a military or diplomatic establishment.
 
@@ -128,7 +128,7 @@ In subsection (a)(3)(B)–(5), the word “prescribe” is substituted for “sp
 
 In subsection (a)(3)(B), the words “in addition”, and “and such types of” are omitted as surplus. The words “similar material” are substituted for “the equivalent thereof” for clarity.
 
-In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to alllaws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or any particular requirement thereunder” are omitted as surplus.
+In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to all laws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or any particular requirement thereunder” are omitted as surplus.
 
 In subsection (a)(5), the words “used in a geographic sense” are omitted because of the restatement. The words “either for the purposes of this chapter generally or any particular requirement thereunder” are omitted as surplus. The words “territory or” are added for consistency.
 

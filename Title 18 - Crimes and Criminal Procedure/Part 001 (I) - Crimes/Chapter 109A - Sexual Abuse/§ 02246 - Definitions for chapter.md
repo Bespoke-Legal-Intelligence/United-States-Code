@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(5) the term “official detention” means—
 
-&emsp;&emsp;(A) detention by a Federal officer or employee, or under the direction of a Federal officer or employee, following arrest for an offense; following surrender in lieu of arrest for an offense; following a charge or conviction of an offense, or an allegation or finding of juvenile delinquency; following commitment as a material witness; following civil commitment in lieu of criminal proceedings or pending resumption of criminal proceedings that are being held in abeyance, or pending extradition, deportation, or exclusion; or
+&emsp;&emsp;(A) detention by a Federal officer or employee, or under the direction of a Federalofficer or employee, following arrest for an offense; following surrender in lieu of arrest for an offense; following a charge or conviction of an offense, or an allegation or finding of juvenile delinquency; following commitment as a material witness; following civil commitment in lieu of criminal proceedings or pending resumption of criminal proceedings that are being held in abeyance, or pending extradition, deportation, or exclusion; or
 
 &emsp;&emsp;(B) custody by a Federal officer or employee, or under the direction of a Federal officer or employee, for purposes incident to any detention described in subparagraph (A) of this paragraph, including transportation, medical diagnosis or treatment, court appearance, work, and recreation;
 

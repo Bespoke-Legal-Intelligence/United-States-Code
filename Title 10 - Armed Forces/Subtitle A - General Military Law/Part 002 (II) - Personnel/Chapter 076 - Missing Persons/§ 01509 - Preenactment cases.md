@@ -2,7 +2,13 @@
 
 (a)
 
-Review of Status.—In the case of an unaccounted for person covered by section 1501(c) of this title who is described in subsection (b), if new information that could change the status of that person is found or received by a United States intelligence agency, by a Department of Defense agency, or by a person specified in section 1504(g) of this title, that information shall be provided to the Secretary of Defense with a request that the Secretary evaluate the information in accordance with sections 1505(c) and 1505(d) of this title.
+Review of Status.—(1) If new information (as defined in paragraph (2)) is found or received that may be related to one or more unaccounted for persons described in subsection (b) (whether or not such information specifically relates (or may specifically relate) to any particular such unaccounted for person), that information shall be provided to the Secretary of Defense. Upon receipt of such information, the Secretary shall ensure that the information is treated under paragraphs (2) and (3) of section 1505(c) of this title and under section 1505(d) of this title in the same manner as information received under paragraph (1) of section 1505(c) of this title. For purposes of the applicability of other provisions of this chapter in such a case, each such unaccounted for person to whom the new information may be related shall be considered to be a missing person.
+
+(2) For purposes of this subsection, new information is information that is credible and that—
+
+&emsp;(A) is found or received after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998 by a United States intelligence agency, by a Department of Defense agency, or by a person specified in section 1504(g) of this title; or
+
+&emsp;(B) is identified after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998 in records of the United States as information that could be relevant to the case of one or more unaccounted for persons described in subsection (b).
 
 (b)
 
@@ -12,7 +18,7 @@ Cases Eligible for Review.—The cases eligible for review under this section ar
 
 &emsp;(2) With respect to the Cold War, any unaccounted for person who was engaged in intelligence operations (such as aerial “ferret” reconnaissance missions over and around the Soviet Union and China) during the Cold War.
 
-&emsp;(3) With respect to the Indochina war era, any unaccounted for person who was classifiedas a prisoner of war or as missing in action during the Indochina conflict.
+&emsp;(3) With respect to the Indochina war era, any unaccounted for person who was classified as a prisoner of war or as missing in action during the Indochina conflict.
 
 (c)
 
@@ -24,17 +30,35 @@ Definitions.—In this section:
 
 &emsp;(3) The term “Indochina war era” means the period beginning on July 8, 1959, and ending on May 15, 1975.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537.)
+(d)
+
+Establishment of Personnel Files for Korean Conflict Cases.—The Secretary of Defense shall ensure that a personnel file is established for each unaccounted for person who is described in subsection (b)(1) if the Secretary possesses information relevant to that person's status. In the case of a person described in subsection (b)(1) for whom a personnel file does not exist, the Secretary shall create a personnel file for such person upon receipt of new information as provided in subsection (a). Each such file shall be handled in accordance with, and subject to the provisions of, section 1506 of this title in the same manner as applies to the file of a missing person.
+
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(e), Nov. 18, 1997, 111 Stat. 1769.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
 
 #### Amendments
 
+1997—Subsec. (a). Pub. L. 105–85, §599(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
+
+“(a)
+
+Review of Status.—In the case of an unaccounted for person covered by section 1501(c) of this title who is described in subsection (b), if new information that could change the status of that person is found or received by a United States intelligence agency, by a Department of Defense agency, or by a person specified in section 1504(g) of this title, that information shall be provided to the Secretary of Defense with a request that the Secretary evaluate the information in accordance with sections 1505(c) and 1505(d) of this title.”
+
+Subsec. (d). Pub. L. 105–85, §599(e)(2), added subsec. (d).
+
 1996—Pub. L. 104–201, §578(f)(2)(A), struck out “, special interest” after “Preenactment” in section catchline.
 
-Subsecs. (c), (d). Pub. L. 104–201, §578(f)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “
+Subsecs. (c), (d). Pub. L. 104–201, §578(f)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
+
+“(c)
 
 Special Rule for Persons Classified as ‘KIA/BNR’.—In the case of a person described in subsection (b) who was classified as ‘killed in action/body not recovered’, the case of that person may be reviewed under this section only if the new information referred to in subsection (a) is compelling.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1508 of this title.
+This section is referred to in sections 1508, 1513 of this title.
 

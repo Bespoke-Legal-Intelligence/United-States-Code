@@ -12,3 +12,5 @@ An organization described in section 501(c)(4) of title 26 which engages in lobb
 
 Section 129(b) of Pub. L. 104–99 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the Lobbying Disclosure Act of 1995 \[Pub. L. 104–65\] on the date of the enactment of such Act \[Dec. 19, 1995\].”
 
+\[For provision that notwithstanding section 106 of Pub. L. 104–99 \[110 Stat. 27\], section 129 of Pub. L. 104–99 \[see above\] to remain in effect as if enacted as part of Pub. L. 104–134, see section 21103 of Pub. L. 104–134, set out as a note following note captioned 501 First Street SE., District of Columbia; Disposal of Real Property, under section 175 of Title 40, Public Buildings, Property, and Works\].
+

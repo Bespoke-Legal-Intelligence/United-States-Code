@@ -11,6 +11,11 @@
 | (a) | Acceptance of State agency certification. |
 | (b) | Promulgation of regulations; notice and comment; consultation with local governments. |
 | (c) | Effect of noncompliance with certification or with applicable law. |
+| [4605\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2004605%20-%20Displaced%20persons%20not%20eligible%20for%20assistance.md) | Displaced persons not eligible for assistance. |
+| (a) | In general. |
+| (b) | Determinations of eligibility. |
+| (c) | Exceptional and extremely unusual hardship. |
+| (d) | Limitation on statutory construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,7 +80,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437e, 5181, 5304, 11503 of this title; title 16 sections 410uu–1, 460<i>o</i>–1, 429b–2; title 23 sections 108, 117, 133; title 25 section 640d–14; title 40 sections 616, 875, 877; title 43 sections 1578, 1598; title 49 section 70304.
+This chapter is referred to in sections 1437e, 5181, 5304, 11503 of this title; title 16 sections 410uu–1, 460<i>o</i>–1, 429b–2; title 23 sections 108, 117, 133; title 25 section640d–14; title 40 sections 616, 875, 877; title 43 sections 1578, 1598; title 49 section 70304.
 
 
 ---

@@ -46,7 +46,7 @@ Subsec. (b)(2). Pub. L. 98–543, §304(a)(2), substituted “$6,000” for “$
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “percent” for “per centum” wherever appearing.
 
-1981—Subsec. (a). Pub. L. 97–66, §502(1), substituted “$32,500” for “$30,000” in provisions preceding par. (1),“such veteran” for “him” in pars. (1), (2), and (3), and “such veteran's” for “his” in par. (3).
+1981—Subsec. (a). Pub. L. 97–66, §502(1), substituted “$32,500” for “$30,000” in provisions preceding par. (1), “such veteran” for “him” in pars. (1), (2), and (3), and “such veteran's” for “his” in par. (3).
 
 Subsec. (b). Pub. L. 97–66, §502(2), substituted “section 804(b)” for “section 804(b)(2)”.
 

@@ -22,7 +22,7 @@ The head of each executive agency shall ensure that procurement officials in tha
 
 &emsp;(1) acquire commercial items or nondevelopmental items other than commercial items to meet the needs of the executive agency;
 
-&emsp;(2) require prime contractors and subcontractors at all levels under the executive agency contracts to incorporate commercial items or nondevelopmental items other than commercial items as components of items supplied to the executive agency;
+&emsp;(2) require prime contractors and subcontractors at all levels under the executive agency contracts to incorporate commercial items or nondevelopmental items other thancommercial items as components of items supplied to the executive agency;
 
 &emsp;(3) modify requirements in appropriate cases to ensure that the requirements can be met by commercial items or, to the extent that commercial items suitable to meet the executive agency's needs are not available, nondevelopmental items other than commercial items;
 
@@ -50,7 +50,7 @@ The head of each executive agency shall ensure that procurement officials in tha
 
 (3) In conducting market research, the head of an executive agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
 
-(June 30, 1949, ch. 288, title III, §314B, as added Oct. 13, 1994, Pub. L. 103–355, title VIII, §8203, 108 Stat. 3394.)
+(June 30, 1949, ch. 288, title III, §314B, as added Pub. L. 103–355, title VIII, §8203, Oct. 13, 1994, 108 Stat. 3394.)
 
 #### Effective Date
 

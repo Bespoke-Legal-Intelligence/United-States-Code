@@ -36,7 +36,7 @@
 
 &emsp;(17) commercial application of solar photovoltaic energy technologies can be expedited by early commercial demonstration under practical conditions;
 
-&emsp;(18) photovoltaic energy systems are currently adaptable on a life cycle, cost-justifiedbasis for certain of the energy needs of the Federal Government, and will find additional applications as continued refinements improve performance and reduce unit costs;
+&emsp;(18) photovoltaic energy systems are currently adaptable on a life cycle, cost-justified basis for certain of the energy needs of the Federal Government, and will find additional applications as continued refinements improve performance and reduce unit costs;
 
 &emsp;(19) the Federal Government can stimulate innovation and economic efficiency in the production of photovoltaic energy systems through the development and implementation of policies to promote diversity and maximum competition between firms engaged in the research, manufacture, installation, and/or maintenance of these systems;
 

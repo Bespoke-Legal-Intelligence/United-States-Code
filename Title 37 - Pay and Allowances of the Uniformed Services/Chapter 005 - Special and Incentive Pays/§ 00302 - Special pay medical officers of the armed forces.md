@@ -2,7 +2,7 @@
 
 (a)
 
-Variable, Additional, and Board Certification Special Pay.—(1) An officer who is an officer of the Medical Corps of the Army or the Navy or an officer of the Air Force designated as a medical officer and who is on active duty under a call or order to active duty for a period of not less than one year is entitled to special pay in accordance with this subsection.
+Variable, Additional, and Board Certification Special Pay.—(1) An officer who is an officer of the Medical Corps of the Army or theNavy or an officer of the Air Force designated as a medical officer and who is on active duty under a call or order to active duty for a period of not less than one year is entitled to special pay in accordance with this subsection.
 
 (2) An officer described in paragraph (1) who is serving in a pay grade below pay grade O–7 is entitled to variable special pay at the following rates:
 
@@ -74,7 +74,7 @@ Determination of Creditable Service.—For purposes of this section, creditable 
 
 &emsp;(1) all periods which the officer spent in medical internship or residency training during which the officer was not on active duty; and
 
-&emsp;(2) all periods of active service in the Medical Corps of the Army or Navy, as an officer of the Air Force designated as a medical officer, or as a medical officer of the Public Health Service.
+&emsp;(2) all periods of active service in the Medical Corps of the Army or Navy, as an officer of the Air Force designated as a medical officer,or as a medical officer of the Public Health Service.
 
 (h)
 
@@ -90,7 +90,7 @@ Reserve Medical Officers Special Pay.—(1) A reserve medical officer described 
 
 Effect of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (c)(2) or (f). This paragraph applies to any case commenced under title 11 after September 30, 1985.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII,§702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII, §702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577.)
 
 Historical and Revision Notes
 
@@ -286,7 +286,7 @@ Pub. L. 100–456, div. A, title VI, §612, Sept. 29, 1988, 102 Stat. 1979, as a
 
 #### Special Pay for Critically Short Wartime Health Specialists in Selected Reserve
 
-Pub. L. 100–456, div. A, title VI, §613, Sept. 29, 1988, 102 Stat. 1981, as amended by Pub. L. 101–510, div. A, title VI, §616, Nov. 5, 1990, 104 Stat. 1578; Pub. L. 103–160, div. A, title VI, §613(g), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(f), Oct. 5, 1994, 108 Stat.2783; Pub. L. 104–106, div. A, title XV, §1502(c)(5), Feb. 10, 1996, 110 Stat. 508, which established a pilot test program of special pay for officers of reserve components of the Armed Forces in critically short wartime health care professions who agreed to serve in the Selected Reserve, was repealed and reenacted as section 302g of this title by Pub. L. 104–106, div. A, title VI, §614(a)(1), (c)(1), Feb. 10, 1996, 110 Stat. 360, 361.
+Pub. L. 100–456, div. A, title VI, §613, Sept. 29, 1988, 102 Stat. 1981, as amended by Pub. L. 101–510, div. A, title VI, §616, Nov. 5, 1990, 104 Stat. 1578; Pub. L. 103–160, div. A, title VI, §613(g), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(f), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title XV, §1502(c)(5), Feb. 10, 1996, 110 Stat. 508, which established a pilot test program of special pay for officers of reserve components of the Armed Forces in critically short wartime health care professions who agreed to serve in the Selected Reserve, was repealed and reenacted as section 302g of this title by Pub. L. 104–106, div. A, title VI, §614(a)(1), (c)(1), Feb. 10, 1996, 110 Stat. 360, 361.
 
 \[Pub. L. 104–106, div. A, title VI, §614(c)(2), Feb. 10, 1996, 110 Stat. 361, provided that: “The provisions of section 613 of the National Defense Authorization Act, Fiscal Year 1989 \[Pub. L. 100–456, formerly set out as a note above\], as in effect on the day before the date of the enactment of this Act \[Feb. 10, 1996\], shall continue to apply to agreements entered into under such section before such date.”\]
 

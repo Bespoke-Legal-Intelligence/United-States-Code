@@ -4,7 +4,7 @@
 
 (b)(1) Details under subsection (a) of this section may be made only by written order of the head of the department, and may be for not more than 120 days. These details may be renewed by written order of the head of the department, in each particular case, for periods not exceeding 120 days.
 
-(2) The 120-day limitation in paragraph (1) for details and renewals of details does not apply to the Department of Defense in the case of a detail—
+(2) The 120-day limitation in paragraph (1) for details and renewals of details does not apply tothe Department of Defense in the case of a detail—
 
 &emsp;(A) made in connection with the closure or realignment of a military installation pursuant to a base closure law or an organizational restructuring of the Department as part of a reduction in the size of the armed forces or the civilian workforce of the Department; and
 

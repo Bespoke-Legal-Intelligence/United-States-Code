@@ -20,5 +20,5 @@ The Secretary may not make grants in any State in an aggregate in excess of 15 p
 
 #### Termination of Section
 
-<i>For termination of section on Dec. 31, 1997, see section 11450 of this title.</i>
+<i>For termination of section on Dec. 31, 1999, see section 11450 of this title.</i>
 

@@ -8,7 +8,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (1) Unless otherwise provided by State law, the Governor or legislature of each State shall have authority to submit a notice of disapproval to the Congress under paragraph (2). In any case in which State law provides for submission of any such notice of disapproval by any other person or entity, any reference in this part to the Governor or legislature of such State shall be considered to refer instead to such other person or entity.
 
-(2) Upon the submission by the President to the Congress of a recommendation of a site for a repository, the Governor or legislature of the State in which such site is located may disapprove the site designation and submit to the Congress a notice of disapproval. Such Governoror legislature may submit such a notice of disapproval to the Congress not later than the 60 days after the date that the President recommends such site to the Congress under section 10134 of this title. A notice of disapproval shall be considered to be submitted to the Congress on the date of the transmittal of such notice of disapproval to the Speaker of the House and the President pro tempore of the Senate. Such notice of disapproval shall be accompanied by a statement of reasons explaining why such Governor or legislature disapproved the recommended repository site involved.
+(2) Upon the submission by the President to the Congress of a recommendation of a site for a repository, the Governor or legislature of the State in which such site is located may disapprove the site designation and submit to the Congress a notice of disapproval. Such Governor or legislature may submit such a notice of disapproval to the Congress not later than the 60 days after the date that the President recommends such site to the Congress under section 10134 of this title. A notice of disapproval shall be considered to be submitted to the Congress on the date of the transmittal of such notice of disapproval to the Speaker of the House and the President pro tempore of the Senate. Such notice of disapproval shall be accompanied by a statement of reasons explaining why such Governor or legislature disapproved the recommended repository site involved.
 
 (3) The authority of the Governor or legislature of each State under this subsection shall not be applicable with respect to any site located on a reservation.
 
@@ -44,7 +44,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 &emsp;(ii) the procedures to be followed in providing such assistance.
 
-(3)(A) In addition to financial assistance provided under paragraphs (1) and (2), the Secretary shall grant to the State of Nevada and any affected unit of local government an amount each fiscal year equal to the amount such State or affected unit of local government, respectively, would receive if authorized to tax site characterization activities at such site, and the development and operation of such repository, as such State or affected unit of local government taxes the non-Federal real property and industrial activities occurring within such State or affected unit of local government.
+(3)(A) In addition to financial assistance provided under paragraphs (1) and (2), the Secretaryshall grant to the State of Nevada and any affected unit of local government an amount each fiscal year equal to the amount such State or affected unit of local government, respectively, would receive if authorized to tax site characterization activities at such site, and the development and operation of such repository, as such State or affected unit of local government taxes the non-Federal real property and industrial activities occurring within such State or affected unit of local government.
 
 (B) Such grants shall continue until such time as all such activities, development, and operation are terminated at such site.
 
@@ -62,7 +62,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (C) At the end of the 2-year period beginning on the effective date of any license to receive and possess for a repository in a State, no Federal funds, shall be made available to such State or affected unit of local government under paragraph (1) or (2), except for—
 
-&emsp;(i) such funds as may be necessary to support activities related to any other repository located in, or proposed to be located in, such State, and for which a license to receive andpossess has not been in effect for more than 1 year;
+&emsp;(i) such funds as may be necessary to support activities related to any other repository located in, or proposed to be located in, such State, and for which a license to receive and possess has not been in effect for more than 1 year;
 
 &emsp;(ii) such funds as may be necessary to support State activities pursuant to agreements or contracts for impact assistance entered into, under paragraph (2), by such State with the Secretary during such 2-year period; and
 

@@ -10,7 +10,7 @@ Prospective relief.—(A) Prospective relief in any civil action with respect to
 
 &emsp;(B) The court shall not order any prospective relief that requires or permits a government official to exceed his or her authority under State or local law or otherwise violates State or local law, unless—
 
-&emsp;&emsp;(i) Federal law permits such relief to be ordered in violation of State or local law;
+&emsp;&emsp;(i) Federal law requires such relief to be ordered in violation of State or local law;
 
 &emsp;&emsp;(ii) the relief is necessary to correct the violation of a Federal right; and
 
@@ -24,7 +24,7 @@ Preliminary injunctive relief.—In any civil action with respect to prison cond
 
 &emsp;(3)
 
-Prisoner release order.—(A) In any civil action with respect to prison conditions, no prisoner release order shall be entered unless—
+Prisoner release order.—(A) In any civil action with respect to prison conditions, no court shall enter a prisoner release order unless—
 
 &emsp;&emsp;(i) a court has previously entered an order for less intrusive relief that has failed to remedy the deprivation of the Federal right sought to be remedied through the prisoner release order; and
 
@@ -42,7 +42,7 @@ Prisoner release order.—(A) In any civil action with respect to prison conditi
 
 &emsp;&emsp;(ii) no other relief will remedy the violation of the Federal right.
 
-&emsp;(F) Any State or local official or unit of government whose jurisdiction or function includes the appropriation of funds for the construction, operation, or maintenance of program facilities, or the prosecution or custody of persons who may be released from, or not admitted to, a prison as a result of a prisoner release order shall have standing to oppose the imposition or continuation in effect of such relief and to seek termination of such relief, and shall have the right to intervene in any proceeding relating to such relief.
+&emsp;(F) Any State or local official including a legislator or unit of government whose jurisdiction or function includes the appropriation of funds for the construction, operation, or maintenance of prison facilities, or the prosecution or custody of persons who may be released from, or not admitted to, a prison as a result of a prisoner release order shall have standing to oppose the imposition or continuation in effect of such relief and to seek termination of such relief, and shall have the right to intervene in any proceeding relating to such relief.
 
 (b)
 
@@ -66,7 +66,7 @@ Immediate termination of prospective relief.—In any civil action with respect 
 
 &emsp;(3)
 
-Limitation.—Prospective relief shall not terminate if the court makes written findings based on the record that prospective relief remains necessary to correct a current or ongoing violation of the Federal right, extends no further than necessary to correct the violation of the Federal right, and that the prospective relief is narrowly drawn and the least intrusive means to correct the violation.
+Limitation.—Prospective relief shall not terminate if the court makes written findings based on the record that prospective relief remains necessary to correct a current and ongoing violation of the Federal right, extends no further than necessary to correct the violation of the Federal right, and that the prospective relief is narrowly drawn and the least intrusive means to correct the violation.
 
 &emsp;(4)
 
@@ -88,7 +88,7 @@ Private settlement agreements.—(A) Nothing in this section shall preclude part
 
 (d)
 
-State Law Remedies.—The limitations on remedies in this section shall not apply to relief entered by a State court based solely upon claims arising under State law.
+State Law Remedies.—The limitations on remedies in this section shall not apply to reliefentered by a State court based solely upon claims arising under State law.
 
 (e)
 
@@ -96,17 +96,25 @@ Procedure for Motions Affecting Prospective Relief.—
 
 &emsp;(1)
 
-Generally.—The court shall promptly rule on any motion to modify or terminate prospective relief in a civil action with respect to prison conditions.
+Generally.—The court shall promptly rule on any motion to modify or terminate prospective relief in a civil action with respect to prison conditions. Mandamus shall lie to remedy any failure to issue a prompt ruling on such a motion.
 
 &emsp;(2)
 
-Automatic stay.—Any prospective relief subject to a pending motion shall be automatically stayed during the period—
+Automatic stay.—Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay during the period—
 
 &emsp;&emsp;(A)(i) beginning on the 30th day after such motion is filed, in the case of a motion made under paragraph (1) or (2) of subsection (b); or
 
 &emsp;&emsp;(ii) beginning on the 180th day after such motion is filed, in the case of a motion made under any other law; and
 
 &emsp;&emsp;(B) ending on the date the court enters a final order ruling on the motion.
+
+&emsp;(3)
+
+Postponement of automatic stay.—The court may postpone the effective date of an automatic stay specified in subsection (e)(2)(A) for not more than 60 days for good cause. No postponement shall be permissible because of general congestion of the court's calendar.
+
+&emsp;(4)
+
+Order blocking the automatic stay.—Any order staying, suspending, delaying, or barring the operation of the automatic stay described in paragraph (2) (other than an order to postpone the effective date of the automatic stay under paragraph (3)) shall be treated as an order refusing to dissolve or modify an injunction and shall be appealable pursuant to section 1292(a)(1) of title 28, United States Code, regardless of how the order is styled or whether the order is termed a preliminary or a final ruling.
 
 (f)
 
@@ -172,7 +180,7 @@ Definitions.—As used in this section—
 
 &emsp;(9) the term “relief” means all relief in any form that may be granted or approved by the court, and includes consent decrees but does not include private settlement agreements.
 
-(Added Pub. L. 103–322, title II, §20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Added Pub. L. 103–322, title II, §20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, §123(a), Nov. 26, 1997, 111 Stat. 2470.)
 
 #### References in Text
 
@@ -182,7 +190,25 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(8), are set out
 
 #### Amendments
 
+1997—Subsec. (a)(1)(B)(i). Pub. L. 105–119, §123(a)(1)(A), substituted “requires” for “permits”.
+
+Subsec. (a)(3)(A). Pub. L. 105–119, §123(a)(1)(B)(i), substituted “no court shall enter a prisoner release order unless” for “no prisoner release order shall be entered unless”.
+
+Subsec. (a)(3)(F). Pub. L. 105–119, §123(a)(1)(B)(ii), inserted “including a legislator” after “local official” and substituted “prison facilities” for “program facilities”.
+
+Subsec. (b)(3). Pub. L. 105–119, §123(a)(2), substituted “current and ongoing” for “current or ongoing”.
+
+Subsec. (e)(1). Pub. L. 105–119, §123(a)(3)(A), inserted at end “Mandamus shall lie to remedy any failure to issue a prompt ruling on such a motion.”
+
+Subsec. (e)(2). Pub. L. 105–119, §123(a)(3)(B), substituted “Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay” for “Any prospective relief subject to a pending motion shall be automatically stayed”.
+
+Subsec. (e)(3), (4). Pub. L. 105–119, §123(a)(3)(C), added pars. (3) and (4).
+
 1996—Pub. L. 104–134 amended section generally, substituting provisions relating to appropriate remedies with respect to prison conditions for former provisions relating to appropriate remedies with respect to prison crowding.
+
+#### Effective Date of 1997 Amendment
+
+Section 123(b) of Pub. L. 105–119 provided that: “The amendments made by this Act \[probably should be “section”, amending this section\] shall take effect upon the date of the enactment of this Act \[Nov. 26, 1997\] and shall apply to pending cases.”
 
 #### Effective Date of 1996 Amendment
 

@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 &emsp;(1) the term “agency” means an agency as defined in section 551(1) of this title;
 
-&emsp;(2) the term “rule” means any rule for which the agency publishes a general notice of proposed rulemaking pursuant to section 553(b) of this title, or any other law, including any rule of general applicability governing Federal grants to State and local governments for which the agency provides an opportunity for notice and public comment, except that theterm “rule” does not include a rule of particular applicability relating to rates, wages, corporate or financial structures or reorganizations thereof, prices, facilities, appliances, services, or allowances therefor or to valuations, costs or accounting, or practices relating to such rates, wages, structures, prices, appliances, services, or allowances;
+&emsp;(2) the term “rule” means any rule for which the agency publishes a general notice of proposed rulemaking pursuant to section 553(b) of this title, or any other law, including any rule of general applicability governing Federal grants to State and local governments for which the agency provides an opportunity for notice and public comment, except that the term “rule” does not include a rule of particular applicability relating to rates, wages, corporate or financial structures or reorganizations thereof, prices, facilities, appliances, services, or allowances therefor or to valuations, costs or accounting, or practices relating to such rates, wages, structures, prices, appliances, services, or allowances;
 
 &emsp;(3) the term “small business” has the same meaning as the term “small business concern” under section 3 of the Small Business Act, unless an agency, after consultation with the Office of Advocacy of the Small Business Administration and after opportunity for public comment, establishes one or more definitions of such term which are appropriate to the activities of the agency and publishes such definition(s) in the Federal Register;
 
@@ -364,7 +364,7 @@ Sec. 6. <i>Agency Implementation</i>. (a) The head of each Executive department 
 
 (c) Each Federalism Assessment shall accompany any submission concerning the policy that is made to the Office of Management and Budget pursuant to Executive Order No. 12291 \[formerly set out above\] or OMB Circular No. A–19, and shall:
 
-(1) Contain the designated official's certification that the policy has been assessed in light of the principles, criteria, and requirements stated in sections 2 through 5 of this Order;
+(1) Contain the designated official's certification that the policy has been assessed in light of the principles,criteria, and requirements stated in sections 2 through 5 of this Order;
 
 (2) Identify any provision or element of the policy that is inconsistent with the principles, criteria, and requirements stated in sections 2 through 5 of this Order;
 
@@ -372,7 +372,7 @@ Sec. 6. <i>Agency Implementation</i>. (a) The head of each Executive department 
 
 (4) Identify the extent to which the policy would affect the States’ ability to discharge traditional State governmental functions, or other aspects of State sovereignty.
 
-Sec. 7. <i>Government-wide Federalism Coordination and Review</i>. (a) In implementing Executive Order Nos. 12291 \[formerly set out above\] and 12498 \[formerly set out above\] and OMB Circular No. A–19, the Office of Management and Budget, to the extent permitted by law and consistent with the provisions of those authorities,shall take action to ensure that the policies of the Executive departments and agencies are consistent with the principles, criteria, and requirements stated in sections 2 through 5 of this Order.
+Sec. 7. <i>Government-wide Federalism Coordination and Review</i>. (a) In implementing Executive Order Nos. 12291 \[formerly set out above\] and 12498 \[formerly set out above\] and OMB Circular No. A–19, the Office of Management and Budget, to the extent permitted by law and consistent with the provisions of those authorities, shall take action to ensure that the policies of the Executive departments and agencies are consistent with the principles, criteria, and requirements stated in sections 2 through 5 of this Order.
 
 (b) In submissions to the Office of Management and Budget pursuant to Executive Order No. 12291 \[formerly set out above\] and OMB Circular No. A–19, Executive departments and agencies shall identify proposed regulatory and statutory provisions that have significant federalism implications and shall address any substantial federalism concerns. Where the departments or agencies deem it appropriate, substantial federalism concerns should also be addressed in notices of proposed rule-making and messages transmitting legislative proposals to the Congress.
 
@@ -428,7 +428,7 @@ Sec. 2. <i>Definitions</i>. For the purpose of this Order: (a) “Policies that 
 
 Sec. 3. <i>General Principles</i>. In formulating or implementing policies that have takings implications, each Executive department and agency shall be guided by the following general principles:
 
-(a) Governmental officials should be sensitive to, anticipate, and account for, the obligations imposed bythe Just Compensation Clause of the Fifth Amendment in planning and carrying out governmental actions so that they do not result in the imposition of unanticipated or undue additional burdens on the public fisc.
+(a) Governmental officials should be sensitive to, anticipate, and account for, the obligations imposed by the Just Compensation Clause of the Fifth Amendment in planning and carrying out governmental actions so that they do not result in the imposition of unanticipated or undue additional burdens on the public fisc.
 
 (b) Actions undertaken by governmental officials that result in a physical invasion or occupancy of private property, and regulations imposed on private property that substantially affect its value or use, may constitute a taking of property. Further, governmental action may amount to a taking even though the action results in less than a complete deprivation of all use or value, or of all separate and distinct interests in the same private property and even if the action constituting a taking is temporary in nature.
 
@@ -482,7 +482,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12861, Sept. 11, 1993, 58 F.R. 48255, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United StatesCode, and section 1111 of title 31, United States Code, and to cut 50 percent of the executive branch's internal regulations in order to streamline and improve customer service to the American people, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and section 1111 of title 31, United States Code, and to cut 50 percent of the executive branch's internal regulations in order to streamline and improve customer service to the American people, it is hereby ordered as follows:
 
 Section 1. <i>Regulatory Reductions</i>. Each executive department and agency shall undertake to eliminate not less than 50 percent of its civilian internal management regulations that are not required by law within 3 years of the effective date of this order. An agency internal management regulation, for the purposes of this order, means an agency directive or regulation that pertains to its organization, management, or personnel matters. Reductions in agency internal management regulations shall be concentrated in areas that will result in the greatest improvement in productivity, streamlining of operations, and improvement in customer service.
 
@@ -526,13 +526,13 @@ Section 1. <i>Statement of Regulatory Philosophy and Principles.</i>
 
 (8) Each agency shall identify and assess alternative forms of regulation and shall, to the extent feasible, specify performance objectives, rather than specifying the behavior or manner of compliance that regulated entities must adopt.
 
-(9) Wherever feasible, agencies shall seek views of appropriate State, local, and tribal officials before imposing regulatory requirements that might significantly or uniquely affect those governmental entities. Each agency shall assess the effects of Federal regulations on State, local, and tribal governments, including specifically the availability of resources to carry out those mandates, and seek to minimize those burdens that uniquely or significantly affect such governmental entities, consistent with achieving regulatory objectives. In addition, as appropriate, agencies shall seek to harmonize Federal regulatory actions with related State, local, and tribal regulatory and other governmental functions.
+(9) Wherever feasible, agencies shall seek views of appropriate State, local, and tribal officials before imposing regulatory requirements that might significantly or uniquely affect those governmental entities. Each agency shall assess the effects of Federal regulations on State, local, and tribal governments, including specifically the availability of resources to carry out thosemandates, and seek to minimize those burdens that uniquely or significantly affect such governmental entities, consistent with achieving regulatory objectives. In addition, as appropriate, agencies shall seek to harmonize Federal regulatory actions with related State, local, and tribal regulatory and other governmental functions.
 
 (10) Each agency shall avoid regulations that are inconsistent, incompatible, or duplicative with its other regulations or those of other Federal agencies.
 
 (11) Each agency shall tailor its regulations to impose the least burden on society, including individuals, businesses of differing sizes, and other entities (including small communities and governmental entities), consistent with obtaining the regulatory objectives, taking into account, among other things, and to the extent practicable, the costs of cumulative regulations.
 
-(12) Each agency shall draft its regulations to be simple and easy to understand, with the goal of minimizingthe potential for uncertainty and litigation arising from such uncertainty.
+(12) Each agency shall draft its regulations to be simple and easy to understand, with the goal of minimizing the potential for uncertainty and litigation arising from such uncertainty.
 
 Sec. 2. <i>Organization</i>. An efficient regulatory planning and review process is vital to ensure that the Federal Government's regulatory system best serves the American people.
 
@@ -616,7 +616,7 @@ Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on
 
 Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below shall apply to all regulatory actions, for both new and existing regulations, by agencies other than those agencies specifically exempted by the Administrator of OIRA:
 
-(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in the regulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in most cases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
+(a) <i>Agency Responsibilities</i>. (1) Each agency shall (consistent with its own rules, regulations, or procedures) provide the public with meaningful participation in the regulatory process. In particular, before issuing a notice of proposed rulemaking, each agency should, where appropriate, seek the involvement of those who are intended to benefit from and those expected to be burdened by any regulation (including, specifically, State, local, and tribal officials). In addition, each agency should afford the public a meaningful opportunity to comment on any proposed regulation, which in mostcases should include a comment period of not less than 60 days. Each agency also is directed to explore and, where appropriate, use consensual mechanisms for developing regulations, including negotiated rulemaking.
 
 (2) Within 60 days of the date of this Executive order, each agency head shall designate a Regulatory Policy Officer who shall report to the agency head. The Regulatory Policy Officer shall be involved at each stage of the regulatory process to foster the development of effective, innovative, and least burdensome regulations and to further the principles set forth in this Executive order.
 
@@ -714,7 +714,7 @@ THEREFORE, by the authority vested in me as President by the Constitution and th
 
 Section 1. <i>Reduction of Unfunded Mandates</i>. (a) To the extent feasible and permitted by law, no executive department or agency (“agency”) shall promulgate any regulation that is not required by statute and that creates a mandate upon a State, local, or tribal government, unless:
 
-(1) funds necessary to pay the direct costs incurred by the State, local, or tribal government in complying with the mandate are provided by the Federal Government; or
+(1) funds necessary to pay the direct costs incurred by the State, local, or tribal government in complyingwith the mandate are provided by the Federal Government; or
 
 (2) the agency, prior to the formal promulgation of regulations containing the proposed mandate, provides to the Director of the Office of Management and Budget a description of the extent of the agency's prior consultation with representatives of affected State, local, and tribal governments, the nature of their concerns, any written communications submitted to the agency by such units of government, and the agency's position supporting the need to issue the regulation containing the mandate.
 
@@ -812,7 +812,7 @@ A. <i>Actions</i>: This memorandum directs the designated department and agency 
 
 2\. <i>Cutting Frequency of Reports</i>. (a) Each agency shall reduce by one-half the frequency of the regularly scheduled reports that the public is required, by rule or by policy, to provide to the Government (from quarterly to semiannually, from semiannually to annually, etc.), unless the department or agency head determines that such action is not legally permissible; would not adequately protect health, safety, or the environment; would be inconsistent with achieving regulatory flexibility or reducing regulatory burdens; or would impede the effective administration of the agency's program. The duty to make such determinations shall be nondelegable.
 
-(b) Each agency shall, by June 15, 1995, submit a plan to the Director describing the actions it will take to implement the policies in paragraph 2(a), including a copy of any determination that certain reports are excluded.
+(b) Each agency shall, by June 15, 1995, submit a plan to the Director describing the actions it will take toimplement the policies in paragraph 2(a), including a copy of any determination that certain reports are excluded.
 
 B. <i>Application and Scope</i>: 1. The Director may issue further guidance as necessary to carry out the purposes of this memorandum.
 

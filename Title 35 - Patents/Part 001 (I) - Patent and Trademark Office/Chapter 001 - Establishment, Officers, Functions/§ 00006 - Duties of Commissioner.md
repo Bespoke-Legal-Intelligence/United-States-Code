@@ -6,7 +6,7 @@
 
 (c) The Commissioner, under the direction of the Secretary of Commerce, may, with the concurrence of the Secretary of State, transfer funds appropriated to the Patent and Trademark Office, not to exceed $100,000 in any year, to the Department of State for the purpose of making special payments to international intergovernmental organizations for studies and programs for advancing international cooperation concerning patents, trademarks, and related matters. These special payments may be in addition to any other payments or contributions to the international organization and shall not be subject to any limitations imposed by law on the amounts of such other payments or contributions by the Government of the United States.
 
-(July 19, 1952, ch. 950, 66 Stat. 793; Oct. 5, 1971, Pub. L. 92–132, 85 Stat. 364; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Nov. 14, 1975, Pub. L. 94–131, §2, 89 Stat. 690; Aug. 27, 1982, Pub. L. 97–247, §§7, 13, 96 Stat. 320, 321; Dec. 10, 1991, Pub. L. 102–204, §8, 105 Stat. 1641.)
+(July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, Oct. 5, 1971, 85 Stat. 364; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §2, Nov. 14, 1975, 89 Stat. 690; Pub. L. 97–247, §§7, 13, Aug. 27, 1982, 96 Stat. 320, 321; Pub. L. 102–204, §8, Dec. 10, 1991, 105 Stat. 1641.)
 
 #### Historical and Revision Notes
 

@@ -22,7 +22,7 @@ The Administrator of General Services may, within the limits of funds which may 
 
 All orders and regulations prescribed by the Administrator of General Services or any Government agency under this chapter shall be published in the Federal Register.
 
-(July 1, 1944, ch. 358, §4, 58 Stat. 651; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 652.)
+(July 1, 1944, ch. 358, §4, 58 Stat. 651; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 652.)
 
 #### References in Text
 

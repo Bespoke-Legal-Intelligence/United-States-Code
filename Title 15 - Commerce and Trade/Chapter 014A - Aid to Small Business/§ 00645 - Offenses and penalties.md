@@ -6,7 +6,7 @@ Whoever makes any statement knowing it to be false, or whoever willfully overval
 
 #### (b) Embezzlement, etc.
 
-Whoever, being connected in any capacity with the Administration, (1) embezzles, abstracts, purloins, or willfully misapplies any moneys, funds, securities, or other things of value, whether belonging to it or pledged or otherwise entrusted to it, or (2) with intent to defraud the Administration or any other body politic or corporate, or any individual, or to deceive any officer, auditor, or examiner of the Administration, makes any false entry in any book, report, or statement of or to the Administration, or, without being duly authorized, draws any order or issues, puts forth, or assigns any note, debenture, bond, or other obligation, or draft, bill of exchange, mortgage, judgment, or decree thereof, or (3) with intent to defraud participates or shares in or receives directly or indirectly any money, profit, property, or benefit through any transaction, loan, commission, contract, or any other act of the Administration, or (4) gives any unauthorized information concerning any future action or plan of the Administration which might affect the value of securities, or, having such knowledge, invests or speculates, directly or indirectly, in the securities or property of any company or corporation receiving loans or other assistance from the Administration, shall be punished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both.
+Whoever, being connected in any capacity with the Administration, (1) embezzles, abstracts, purloins, or willfully misapplies any moneys, funds, securities, or other things of value, whether belonging to it or pledged or otherwise entrusted to it, or (2) with intent to defraud the Administration or any other body politic or corporate, or any individual, or to deceive any officer, auditor, or examiner of theAdministration, makes any false entry in any book, report, or statement of or to the Administration, or, without being duly authorized, draws any order or issues, puts forth, or assigns any note, debenture, bond, or other obligation, or draft, bill of exchange, mortgage, judgment, or decree thereof, or (3) with intent to defraud participates or shares in or receives directly or indirectly any money, profit, property, or benefit through any transaction, loan, commission, contract, or any other act of the Administration, or (4) gives any unauthorized information concerning any future action or plan of the Administration which might affect the value of securities, or, having such knowledge, invests or speculates, directly or indirectly, in the securities or property of any company or corporation receiving loans or other assistance from the Administration, shall be punished by a fine of not more than $10,000 or by imprisonment for not more than five years, or both.
 
 #### (c) Concealment, etc.
 
@@ -14,15 +14,15 @@ Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or co
 
 #### (d) Misrepresentation, etc.
 
-(1) Whoever misrepresents the status of any concern or person as a “small business concern”, a “small business concern owned and controlled by socially and economically disadvantaged individuals”, or a “small business concerns <sup>1</sup> owned and controlled by women”, in order to obtain for oneself or another any—
+(1) Whoever misrepresents the status of any concern or person as a “small business concern”, a “qualified HUBZone small business concern”, a “small business concern owned and controlled by socially and economically disadvantaged individuals”, or a “small business concern owned and controlled by women”, in order to obtain for oneself or another any—
 
-&emsp;(A) prime contract to be awarded pursuant to section 638 or 644 of this title;
+&emsp;(A) prime contract to be awarded pursuant to section 638, 644, or 657a of this title;
 
 &emsp;(B) subcontract to be awarded pursuant to section 637(a) of this title;
 
 &emsp;(C) subcontract that is to be included as part or all of a goal contained in a subcontracting plan required pursuant to section 637(d) of this title; or
 
-&emsp;(D) prime or subcontract to be awarded as a result, or in furtherance, of any other provision of Federal law that specifically references section 637(d) of this title for a definition of program eligibility,<sup>2</sup> shall be subject to the penalties and remedies described in paragraph (2).
+&emsp;(D) prime or subcontract to be awarded as a result, or in furtherance, of any other provision of Federal law that specifically references section 637(d) of this title for a definition of program eligibility,<sup>1</sup> shall be subject to the penalties and remedies described in paragraph (2).
 
 (2) Any person who violates paragraph (1) shall—
 
@@ -36,13 +36,13 @@ Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or co
 
 #### (e) Representations under subsection (d) of this section to be in writing
 
-Any representation of the status of any concern or person as a “small business concern”, a “small business concern owned and controlled by socially and economically disadvantaged individuals”, or a “small business concerns <sup>1</sup> owned and controlled by women” in order to obtain any prime contract or subcontract enumerated in subsection (d) of this section shall be in writing.
+Any representation of the status of any concern or person as a “small business concern”, a “HUBZone small business concern”, a “small business concern owned and controlled by socially and economically disadvantaged individuals”, or a “small business concern owned and controlled by women” in order to obtain any prime contract or subcontract enumerated in subsection (d) of this section shall be in writing.
 
 #### (f) Misrepresentation of compliance with section 636(j)(10)(I)
 
 Whoever falsely certifies past compliance with the requirements of section 636(j)(10)(I) of this title shall be subject to the penalties prescribed in subsection (d) of this section.
 
-(Pub. L. 85–536, §2\[16\], July 18, 1958, 72 Stat. 395; Pub. L. 88–264, §2, Feb. 5, 1964, 78 Stat. 8; Pub. L. 99–272, title XVIII, §18009, Apr. 7, 1986, 100 Stat. 368; Pub. L. 100–656, title IV, §405, Nov. 15, 1988, 102 Stat. 3875; Pub. L. 103–355, title VII, §7106(c), Oct. 13, 1994, 108 Stat. 3376.)
+(Pub. L. 85–536, §2\[16\], July 18, 1958, 72 Stat. 395; Pub. L. 88–264, §2, Feb. 5, 1964, 78 Stat. 8; Pub. L. 99–272, title XVIII, §18009, Apr. 7, 1986, 100 Stat. 368; Pub. L. 100–656, title IV, §405, Nov. 15, 1988, 102 Stat. 3875; Pub. L. 103–355, title VII, §7106(c), Oct. 13, 1994, 108 Stat. 3376; Pub. L. 105–85, div. A, title X, §1073(g)(4), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–135, title VI, §603(c), Dec. 2, 1997, 111 Stat. 2632.)
 
 #### References in Text
 
@@ -56,6 +56,16 @@ Prior similar provisions were contained in section 209 of act July 30, 1953, ch.
 
 #### Amendments
 
+1997—Subsec. (d)(1). Pub. L. 105–135, §603(c)(1)(A), inserted “, a ‘qualified HUBZone small business concern’,” after “ ‘small business concern’,”.
+
+Pub. L. 105–85 substituted “concern owned and controlled by women” for “concerns owned and controlled by women”.
+
+Subsec. (d)(1)(A). Pub. L. 105–135, §603(c)(1)(B), substituted “section 638, 644, or 657a” for “section 638 or 644”.
+
+Subsec. (e). Pub. L. 105–135, §603(c)(2), inserted “, a ‘HUBZone small business concern’,” after “ ‘small business concern’,”.
+
+Pub. L. 105–85 substituted “concern owned and controlled by women” for “concerns owned and controlled by women”.
+
 1994—Subsec. (d)(1). Pub. L. 103–355, §7106(c)(1), substituted “, a ‘small business concern owned and controlled by socially and economically disadvantaged individuals’, or a ‘small business concerns owned and controlled by women’ ” for “or ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ ”.
 
 Subsec. (e). Pub. L. 103–355, §7106(c)(2), substituted “, a ‘small business concern owned and controlled by socially and economically disadvantaged individuals’, or a ‘small business concerns owned and controlled by women’ ” for “or ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ ”.
@@ -68,15 +78,17 @@ Subsec. (f). Pub. L. 100–656, §405(b), added subsec. (f).
 
 1964—Subsec. (c). Pub. L. 88–264 added subsec. (c).
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
+
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 636, 687 of this title.
+This section is referred to in sections 636, 657a, 687 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “concern”.</i>
-
-<i><sup>2</sup></i><i> So in original. Provisions following probably should be set flush with par. (1).</i>
+<i><sup>1</sup></i><i> So in original. Following provision probably should be set flush with par. (1).</i>
 

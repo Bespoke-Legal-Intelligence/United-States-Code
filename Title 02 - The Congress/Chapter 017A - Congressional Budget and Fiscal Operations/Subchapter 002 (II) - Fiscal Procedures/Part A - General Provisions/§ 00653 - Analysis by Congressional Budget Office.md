@@ -10,11 +10,15 @@ The Director of the Congressional Budget Office shall, to the extent practicable
 
 > The estimates, comparison, and description so submitted shall be included in the report accompanying such bill or resolution if timely submitted to such committee before such report is filed.
 
-(Pub. L. 93–344, title IV, §403, July 12, 1974, 88 Stat. 320; Pub. L. 97–108, §2(a), Dec. 23, 1981, 95 Stat. 1510; Pub. L. 99–177, title II, §213, Dec. 12, 1985, 99 Stat. 1059; Pub. L. 104–4, title I, §104, Mar. 22, 1995, 109 Stat. 62.)
+(Pub. L. 93–344, title IV, §402, formerly §403, July 12, 1974, 88 Stat. 320; Pub. L. 97–108, §2(a), Dec. 23, 1981, 95 Stat. 1510; Pub. L. 99–177, title II, §213, Dec. 12, 1985, 99 Stat. 1059; Pub. L. 104–4, title I, §104, Mar. 22, 1995, 109 Stat. 62; renumbered §402, Pub. L. 105–33, title X, §10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
 
 #### Codification
 
 Section was formerly classified to section 1353 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+
+#### Prior Provisions
+
+A prior section 402 of Pub. L. 93–344 was classified to section 652 of this title prior to repeal by Pub. L. 105–33.
 
 #### Amendments
 
@@ -54,7 +58,7 @@ Section 2(b) of Pub. L. 97–108 provided that: “The amendments made by subsec
 
 #### Effective Date
 
-Amendment by Pub. L. 93–344 effective on day on which first Director of Congressional Budget Office is appointed under section 601(a) of this title, see section 905(b) of Pub. L. 93–344, set out as an Effective Date note under section 621 of this title.
+Amendment by Pub. L. 93–344 effective on day on which first Director of Congressional Budget Office is appointed under section 601(a) of this title, see section 905(b) of Pub. L. 93–344, formerly set out as an Effective Date note under section 621 of this title.
 
 #### Authorization of Appropriations
 

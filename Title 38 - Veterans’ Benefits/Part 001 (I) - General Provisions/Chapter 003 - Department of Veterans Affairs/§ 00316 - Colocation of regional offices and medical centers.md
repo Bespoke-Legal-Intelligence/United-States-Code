@@ -26,7 +26,7 @@
 
 &emsp;(A) the rental rate paid by the Secretary for such space under subsection (c); plus
 
-&emsp;(B) the amount the Secretary pays for the costs of administering such facility (includingoperation, maintenance, utility, and rehabilitation costs) which are attributable to such space.
+&emsp;(B) the amount the Secretary pays for the costs of administering such facility (including operation, maintenance, utility, and rehabilitation costs) which are attributable to such space.
 
 (2) In any such sublease, the Secretary shall include such terms relating to default and nonperformance as the Secretary considers appropriate to protect the interests of the United States.
 

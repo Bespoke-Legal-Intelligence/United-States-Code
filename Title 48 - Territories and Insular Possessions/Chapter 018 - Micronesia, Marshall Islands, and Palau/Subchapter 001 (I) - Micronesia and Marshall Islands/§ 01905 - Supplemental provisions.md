@@ -2,7 +2,7 @@
 
 #### (a) Domestic program requirements
 
-Except as may otherwise be provided in this joint resolution, all United States Federal programs and services extended to or operated inthe Federated States of Micronesia or the Marshall Islands are and shall remain subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicable to such programs when operating in the United States (including its territories and commonwealths).
+Except as may otherwise be provided in this joint resolution, all United States Federal programs and services extended to or operated in the Federated States of Micronesia or the Marshall Islands are and shall remain subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicable to such programs when operating in the United States (including its territories and commonwealths).
 
 #### (b) Relations with Federated States of Micronesia and Marshall Islands
 
@@ -60,7 +60,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (2) Exception
 
-&emsp;Paragraph (1) of this subsection shall not apply to a citizen of the United States employed by either the Government of the Marshall Islands or the Government of the Federated States of Micronesia with respect to whom the employing Government from time to time certifies to the Government of the United States that such citizen is an employee of the Government of the Marshall Islands or the Government of the Federated States of Micronesia (as the case may be) whose principal duties are other than those matters specified in the Foreign Agents Registration Act of 1938, as amended \[22 U.S.C. 611 et seq.\], that apply with respect to an agent of a foreign principal. The agency or officer of the United States receiving such certifications shall cause them to be filed with the Attorney General, who shall maintain a publicly available list of the persons so certified.
+&emsp;Paragraph (1) of this subsection shall not apply to a citizen of the United States employed by either the Government of the Marshall Islands or the Government of the Federated States of Micronesia with respect to whom the employing Government from time to time certifies to the Government of the United States that such citizen is an employee of the Government of the Marshall Islands or the Government of the Federated States of Micronesia (as the case may be) whose principal duties are other than those matters specified in the Foreign Agents Registration Act of 1938, as amended \[22 U.S.C. 611 et seq.\], that apply with respect to an agent of a foreign principal. The agency or officer of the United States receiving such certifications shall cause them tobe filed with the Attorney General, who shall maintain a publicly available list of the persons so certified.
 
 #### (3) Resident representative exemption
 
@@ -96,7 +96,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (2) Palau
 
-&emsp;Upon the effective date of the Compact, the laws of the United States generally applicableto the Trust Territory of the Pacific Islands shall continue to apply to the Republic of Palau and the Republic of Palau shall be eligible for such proportion of Federal assistance as it would otherwise have been eligible to receive under such laws prior to the effective date of the Compact, as provided in appropriation Acts or other Acts of Congress.
+&emsp;Upon the effective date of the Compact, the laws of the United States generally applicable to the Trust Territory of the Pacific Islands shall continue to apply to the Republic of Palau and the Republic of Palau shall be eligible for such proportion of Federal assistance as it would otherwise have been eligible to receive under such laws prior to the effective date of the Compact, as provided in appropriation Acts or other Acts of Congress.
 
 #### (3) Section 219 determination
 
@@ -110,7 +110,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (5) Federal education grants
 
-&emsp;Pursuant to section 224 of the Compact or section 224 of the Compact with Palau (as contained in title II of Public Law 99–658), the Pell Grant Program, the Supplemental Educational Opportunity Grant Program, and the College Work-Study Program (as authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\]) shall be extended to students who are, or will be, citizens of the Federated States of Micronesia, or the Marshall Islands and who attend postsecondary institutions in the United States, its territories and commonwealths, the Trust Territory of the Pacific Islands, the Federated States of Micronesia, or the Marshall Islands, except that this paragraph shall not apply to any student receiving assistance pursuant to section 223 of the Compact or section 223 of the Compact with Palau (as contained in title II of Public Law 99–658).
+&emsp;Pursuant to section 224 of the Compact or section 224 of the Compact with Palau (as contained in title II of Public Law 99–658), the Pell Grant Program, the Supplemental Educational Opportunity Grant Program, and the College Work-Study Program (as authorized by title IV of the Higher Education Act of 1965 \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\]) shall be extended to students who are, or will be, citizens of the Federated States of Micronesia, or the Marshall Islands and who attendpostsecondary institutions in the United States, its territories and commonwealths, the Trust Territory of the Pacific Islands, the Federated States of Micronesia, or the Marshall Islands, except that this paragraph shall not apply to any student receiving assistance pursuant to section 223 of the Compact or section 223 of the Compact with Palau (as contained in title II of Public Law 99–658).
 
 #### (5) <sup>2</sup> PCB cleanup
 

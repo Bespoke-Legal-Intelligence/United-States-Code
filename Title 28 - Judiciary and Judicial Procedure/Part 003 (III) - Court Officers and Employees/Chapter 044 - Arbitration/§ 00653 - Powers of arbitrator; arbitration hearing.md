@@ -12,7 +12,7 @@ Powers.—An arbitrator to whom an action is referred under section 652 shall ha
 
 (b)
 
-Time for Beginning Arbitration Hearing.—An arbitration hearing under this chapter shall begin within a time period specified by the district court, but in no event later than 180 days after the filing of an answer, except thatthe arbitration proceeding shall not, in the absence of the consent of the parties, commence until 30 days after the disposition by the district court of any motion to dismiss the complaint, motion for judgment on the pleadings, motion to join necessary parties, or motion for summary judgment, if the motion was filed during a time period specified by the district court. The 180-day and 30-day periods specified in the preceding sentence may be modified by the court for good cause shown.
+Time for Beginning Arbitration Hearing.—An arbitration hearing under this chapter shall begin within a time period specified by the district court, but in no event later than 180 days after the filing of an answer, except that the arbitration proceeding shall not, in the absence of the consent of the parties, commence until 30 days after the disposition by the district court of any motion to dismiss the complaint, motion for judgment on the pleadings, motion to join necessary parties, or motion for summary judgment, if the motion was filed during a time period specified by the district court. The 180-day and 30-day periods specified in the preceding sentence may be modified by the court for good cause shown.
 
 (c)
 

@@ -170,7 +170,7 @@ Sec. 401. The following functions vested in the President are hereby delegated t
 
 (b) The authority under section 4111(a) of Title 5, United States Code, to fix by regulation the extent to which the contributions, awards, and payments referred to in that section may be made to and accepted by employees.
 
-Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agency for his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice ofthe Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
+Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agency for his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice of the Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
 
 #### Part V—Revocation of Prior Order
 

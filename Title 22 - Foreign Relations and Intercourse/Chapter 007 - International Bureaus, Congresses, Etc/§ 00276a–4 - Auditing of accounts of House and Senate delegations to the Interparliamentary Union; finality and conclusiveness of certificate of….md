@@ -1,0 +1,6 @@
+### §276a–4. Auditing of accounts of House and Senate delegations to the Interparliamentary Union; finality and conclusiveness of certificate of Chairman
+
+The certificate of the Chairman of the respective delegation to the Interparliamentary Union (or the certificate of the executive secretary of the American group if the Chairman delegates such authority to him) shall be final and conclusive upon the accounting officers in the auditing of all accounts of the House and Senate delegations to the Interparliamentary Union.
+
+(June 28, 1935, ch. 322, §6, as added Pub. L. 95–45, §4(d)(3), June 15, 1977, 91 Stat. 223.)
+

@@ -64,7 +64,7 @@ In carrying out subsection (a) of this section, the Secretary of State may requi
 
 The authority granted by this section is in addition to the authorities granted by any other provision of law.
 
-(Aug. 1, 1956, ch. 841, title I, §40, as added Aug. 27, 1986, Pub. L. 99–399, title V, §506(2), 100 Stat. 871.)
+(Aug. 1, 1956, ch. 841, title I, §40, as added Pub. L. 99–399, title V, §506(2), Aug. 27, 1986, 100 Stat. 871.)
 
 #### Prior Provisions
 

@@ -4,7 +4,7 @@ Notwithstanding any other provision of law—
 
 #### (a) Authorization for program
 
-The Secretary of Agriculture is authorized to formulate and carry out a program with owners and operators of land in the Great Plains area as described in section 590p(b) <sup>1</sup> of this title to reduce runoff, soil and water erosion, and otherwise to promote the conservation of soil and water resources in such area through the conversion of cropland from soil depleting uses toconserving uses including the production of soil conserving cover crops.
+The Secretary of Agriculture is authorized to formulate and carry out a program with owners and operators of land in the Great Plains area as described in section 590p(b) <sup>1</sup> of this title to reduce runoff, soil and water erosion, and otherwise to promote the conservation of soil and water resources in such area through the conversion of cropland from soil depleting uses to conserving uses including the production of soil conserving cover crops.
 
 #### (b) Terms of agreements with owners or operators
 

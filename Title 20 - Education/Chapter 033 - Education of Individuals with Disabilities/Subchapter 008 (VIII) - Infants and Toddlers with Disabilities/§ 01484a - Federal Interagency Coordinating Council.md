@@ -68,7 +68,7 @@ The Council shall be composed of—
 
 #### (c) Meetings
 
-The Council shall meet at least quarterly and in such places as the Council deems necessary.The meetings shall be publicly announced, and, to the extent appropriate, open and accessible to the general public.
+The Council shall meet at least quarterly and in such places as the Council deems necessary. The meetings shall be publicly announced, and, to the extent appropriate, open and accessible to the general public.
 
 #### (d) Functions of Council
 
@@ -91,6 +91,10 @@ The Council shall—
 No member of the Council shall cast a vote on any matter that would provide direct financial benefit to that member or otherwise give the appearance of a conflict of interest under Federal law.
 
 (Pub. L. 91–230, title VI, §685, as added Pub. L. 102–119, §21(2), Oct. 7, 1991, 105 Stat. 602; amended Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 103–448, title II, §204(w)(2)(B), Nov. 2, 1994, 108 Stat. 4746.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, provided that, effective July 1, 1998, this section is repealed.</i>
 
 #### References in Text
 

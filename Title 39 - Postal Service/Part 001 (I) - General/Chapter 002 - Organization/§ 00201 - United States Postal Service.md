@@ -50,10 +50,6 @@ Transferred personnel.—Personnel transferred pursuant to subparagraph (A) shal
 
 Transition provision.—The Chief Postal Inspector may continue to serve as Inspector General of the United States Postal Service until the date on which an Inspector General is appointed under paragraph (1) or, if earlier, the end of the period referred to in such paragraph. Compensation for any service under this paragraph shall be determined as if this section had not been enacted.”
 
-#### Transitional Expenses
-
-Expenses of United States Postal Service from Aug. 12, 1970, until date of commencement of operations of Postal Service deemed administrative expenses of Post Office Department, see section 12 of Pub. L. 91–375, set out as a note under section 2004 of this title.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in section 102 of this title.

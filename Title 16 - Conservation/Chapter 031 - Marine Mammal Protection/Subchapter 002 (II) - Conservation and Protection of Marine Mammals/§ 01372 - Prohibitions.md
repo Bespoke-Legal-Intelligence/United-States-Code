@@ -52,7 +52,7 @@ It is unlawful to import into the United States any of the following:
 
 &emsp;&emsp;(B) the sale in commerce of such product in the country of origin of the product is illegal;
 
-&emsp;(3) Any fish, whether fresh, frozen, or otherwise prepared, if such fish was caught in amanner which the Secretary has proscribed for persons subject to the jurisdiction of the United States, whether or not any marine mammals were in fact taken incident to the catching of the fish.
+&emsp;(3) Any fish, whether fresh, frozen, or otherwise prepared, if such fish was caught in a manner which the Secretary has proscribed for persons subject to the jurisdiction of the United States, whether or not any marine mammals were in fact taken incident to the catching of the fish.
 
 #### (d) Nonapplicability of prohibitions
 
@@ -64,7 +64,7 @@ Subsections (b) and (c) of this section shall not apply—
 
 #### (e) Retroactive effect
 
-This chapter shall not apply with respect to any marine mammal taken before the effective date of this chapter, or to any marine mammal product consisting of, or composed in whole or in part of, any marine mammal taken before such date.
+This chapter shall not apply with respect to any marine mammal taken before the effectivedate of this chapter, or to any marine mammal product consisting of, or composed in whole or in part of, any marine mammal taken before such date.
 
 #### (f) Commercial taking of whales
 
@@ -112,5 +112,5 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1371, 1536 of this title.
+This section is referred to in sections 1371, 1374, 1536 of this title.
 

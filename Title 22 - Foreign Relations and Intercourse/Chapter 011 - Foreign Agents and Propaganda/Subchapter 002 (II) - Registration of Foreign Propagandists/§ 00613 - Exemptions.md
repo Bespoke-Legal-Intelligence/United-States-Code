@@ -28,13 +28,13 @@ Any person, or employee of such person, whose foreign principal is a government 
 
 #### (g) Persons qualified to practice law
 
-Any person qualified to practice law, insofar as he engages or agrees to engage in the legalrepresentation of a disclosed foreign principal before any court of law or any agency of the Government of the United States: <i>Provided</i>, That for the purposes of this subsection legal representation does not include attempts to influence or persuade agency personnel or officials other than in the course of judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record.
+Any person qualified to practice law, insofar as he engages or agrees to engage in the legal representation of a disclosed foreign principal before any court of law or any agency of the Government of the United States: <i>Provided</i>, That for the purposes of this subsection legal representation does not include attempts to influence or persuade agency personnel or officials other than in the course of judicial proceedings, criminal or civil law enforcement inquiries, investigations, or proceedings, or agency proceedings required by statute or regulation to be conducted on the record.
 
 #### (h) Agents of foreign principals
 
 Any agent of a person described in section 611(b)(2) of this title or an entity described in section 611(b)(3) of this title if the agent is required to register and does register under the Lobbying Disclosure Act of 1995 \[2 U.S.C. 1601 et seq.\] in connection with the agent's representation of such person or entity.
 
-(June 8, 1938, ch. 327, §3, 52 Stat. 632; Aug. 7, 1939, ch. 521, §2, 53 Stat. 1245; Apr. 29, 1942, ch. 263, §1, 56 Stat. 254; Oct. 4, 1961, Pub. L. 87–366, §2, 75 Stat. 784; July 4, 1966, Pub. L. 89–486, §3, 80 Stat. 246; Dec. 19, 1995, Pub. L. 104–65, §9(2), (3), 109 Stat. 700.)
+(June 8, 1938, ch. 327, §3, 52 Stat. 632; Aug. 7, 1939, ch. 521, §2, 53 Stat. 1245; Apr. 29, 1942, ch. 263, §1, 56 Stat. 254; Pub. L. 87–366, §2, Oct. 4, 1961, 75 Stat. 784; Pub. L. 89–486, §3, July 4, 1966, 80 Stat. 246; Pub. L. 104–65, §9(2), (3), Dec. 19, 1995, 109 Stat. 700.)
 
 #### References in Text
 

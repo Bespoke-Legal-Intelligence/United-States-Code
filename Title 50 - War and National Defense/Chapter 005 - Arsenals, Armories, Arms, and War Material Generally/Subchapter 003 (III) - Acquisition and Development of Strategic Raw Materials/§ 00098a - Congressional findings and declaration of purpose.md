@@ -6,7 +6,7 @@
 
 (c) The purpose of the National Defense Stockpile is to serve the interest of national defense only. The National Defense Stockpile is not to be used for economic or budgetary purposes.
 
-(June 7, 1939, ch. 190, §2, as added July 30, 1979, Pub. L. 96–41, §2(a), 93 Stat. 319; amended Dec. 4, 1987, Pub. L. 100–180, div. C, title II, §3202(b), 101 Stat. 1245; Nov. 30, 1993, Pub. L. 103–160, div. C, title XXXIII, §3311, 107 Stat. 1961; Sept. 23, 1996, Pub. L. 104–201, div. C, title XXXIII, §3311(b), 110 Stat. 2857.)
+(June 7, 1939, ch. 190, §2, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 319; amended Pub. L. 100–180, div. C, title II, §3202(b), Dec. 4, 1987, 101 Stat. 1245; Pub. L. 103–160, div. C, title XXXIII, §3311, Nov. 30, 1993, 107 Stat. 1961; Pub. L. 104–201, div. C, title XXXIII, §3311(b), Sept. 23, 1996, 110 Stat. 2857.)
 
 #### Prior Provisions
 

@@ -70,7 +70,7 @@ The Secretary shall ensure the effective implementation of the rural development
 
 &emsp;(5) correct administrative problems in Federal programs that delay or hinder the effective delivery of services, assistance, or benefits to rural areas; and
 
-&emsp;(6) simplify, standardize, and reduce the complexity of applications, reports, and other forms required under Federal rural development programs.
+&emsp;(6) simplify, standardize, and reduce the complexity of applications, reports, and otherforms required under Federal rural development programs.
 
 (Pub. L. 92–419, title VI, §607, as added Pub. L. 96–355, §2, Sept. 24, 1980, 94 Stat. 1171; amended Pub. L. 104–127, title VII, §759A, Apr. 4, 1996, 110 Stat. 1138.)
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-In the original, section 4 of Pub. L. 93–644, Jan. 4, 1975, 88 Stat. 2292, provided in part that “Title I of theEconomic Opportunity Act of 1964 is amended to read as follows: ‘Title II—Research and Demonstrations’ ”. Section 4 also added sections 101 to 105 to such title II of the Economic Opportunity Act of 1964. However, title II was subsequently redesignated title I of the Act by section 2(a)(3) of Pub. L. 94–341, July 6, 1976, 90 Stat. 803, and classified as subchapter I of this chapter.
+In the original, section 4 of Pub. L. 93–644, Jan. 4, 1975, 88 Stat. 2292, provided in part that “Title I of the Economic Opportunity Act of 1964 is amended to read as follows: ‘Title II—Research and Demonstrations’ ”. Section 4 also added sections 101 to 105 to such title II of the Economic Opportunity Act of 1964. However, title II was subsequently redesignated title I of the Act by section 2(a)(3) of Pub. L. 94–341, July 6, 1976, 90 Stat. 803, and classified as subchapter I of this chapter.
 
 #### Executive Order No. 11330
 

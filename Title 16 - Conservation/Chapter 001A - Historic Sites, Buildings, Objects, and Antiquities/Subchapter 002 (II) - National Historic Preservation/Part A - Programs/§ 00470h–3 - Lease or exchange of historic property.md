@@ -2,7 +2,7 @@
 
 #### (a) Authorization; consultation with Council
 
-Notwithstanding any other provision of law, any Federal agency after consultation with the Council, shall, to the extent practicable, establish and implement alternatives for historic properties, including adaptive use, that are not needed for current or projected agency purposes, and may lease an historic property owned by theagency to any person or organization, or exchange any property owned by the agency with comparable historic property, if the agency head determines that the lease or exchange will adequately insure the preservation of the historic property.
+Notwithstanding any other provision of law, any Federal agency after consultation with the Council, shall, to the extent practicable, establish and implement alternatives for historic properties, including adaptive use, that are not needed for current or projected agency purposes, and may lease an historic property owned by the agency to any person or organization, or exchange any property owned by the agency with comparable historic property, if the agency head determines that the lease or exchange will adequately insure the preservation of the historic property.
 
 #### (b) Proceeds of lease for administration, etc., of property; deposit of surplus proceeds into Treasury
 

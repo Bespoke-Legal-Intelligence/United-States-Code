@@ -22,7 +22,7 @@
 
 &emsp;(B) the nature of such inconsistencies; and
 
-&emsp;(C) recommendations concerning the actions that could be taken by the Council to conform such plan or amendment to the requirements of applicable law.
+&emsp;(C) recommendations concerning the actions that could be taken by the Council to conformsuch plan or amendment to the requirements of applicable law.
 
 > If the Secretary does not notify a Council within 30 days of the end of the comment period of the approval, disapproval, or partial approval of a plan or amendment, then such plan or amendment shall take effect as if approved.
 
@@ -32,7 +32,7 @@
 
 #### (b) Review of regulations
 
-(1) Upon transmittal by the Council to the Secretary of proposed regulations preparedunder section 1853(c) of this title, the Secretary shall immediately initiate an evaluation of the proposed regulations to determine whether they are consistent with the fishery management plan, plan amendment, this chapter and other applicable law. Within 15 days of initiating such evaluation the Secretary shall make a determination and—
+(1) Upon transmittal by the Council to the Secretary of proposed regulations prepared under section 1853(c) of this title, the Secretary shall immediately initiate an evaluation of the proposed regulations to determine whether they are consistent with the fishery management plan, plan amendment, this chapter and other applicable law. Within 15 days of initiating such evaluation the Secretary shall make a determination and—
 
 &emsp;(A) if that determination is affirmative, the Secretary shall publish such regulations in the Federal Register, with such technical changes as may be necessary for clarity and an explanation of those changes, for a public comment period of 15 to 60 days; or
 
@@ -114,7 +114,7 @@
 
 (5) If, within the one-year period beginning on the date of identification or notification that a fishery is overfished, the Council does not submit to the Secretary a fishery management plan, plan amendment, or proposed regulations required by paragraph (3)(A), the Secretary shall prepare a fishery management plan or plan amendment and any accompanying regulations to stop overfishing and rebuild affected stocks of fish within 9 months under subsection (c) of this section.
 
-(6) During the development of a fishery management plan, a plan amendment, or proposed regulations required by this subsection, the Council may request the Secretary to implement interim measures to reduce overfishing under section 1855(c) of this title until such measures can be replaced by such plan, amendment, or regulations. Such measures, if otherwise in compliance with the provisions of this chapter, may be implemented even though they are not sufficient by themselves to stop overfishing of a fishery.
+(6) During the development of a fishery management plan, a plan amendment, or proposed regulations required by this subsection, the Council may request the Secretary to implement interim measures to reduce overfishing under section 1855(c) of this title until such measures can be replaced by such plan, amendment, or regulations. Such measures, if otherwise in compliance with the provisions of this chapter, may be implemented even though theyare not sufficient by themselves to stop overfishing of a fishery.
 
 (7) The Secretary shall review any fishery management plan, plan amendment, or regulations required by this subsection at routine intervals that may not exceed two years. If the Secretary finds as a result of the review that such plan, amendment, or regulations have not resulted in adequate progress toward ending overfishing and rebuilding affected fish stocks, the Secretary shall—
 
@@ -174,7 +174,7 @@ The Secretary may repeal or revoke a fishery management plan for a fishery under
 
 #### References in Text
 
-Section 661c(b)(1) of title 2, referred to in subsec. (d)(2)(C)(i), was in the original a reference to “section 504(b)(1) of the Federal Credit Reform Act (2 U.S.C. 661c(b)(1))” and was translated as meaning section 504(b)(1) of the Federal Credit Reform Act of 1990, to reflect the probable intent of Congress.
+Section 661c(b)(1) of title 2, referred to in subsec. (d)(2)(C)(i), was in the original a reference to “section 504(b)(1) of the Federal Credit Reform Act (2 U.S.C. 661c(b)(1))” and was translated as meaning section504(b)(1) of the Federal Credit Reform Act of 1990, to reflect the probable intent of Congress.
 
 Paragraph (3), referred to in subsec. (f)(1), was repealed by Pub. L. 104–297, title I, §109(f), Oct. 11, 1996, 110 Stat. 3585.
 
@@ -256,9 +256,9 @@ Subsec. (c)(2)(B). Pub. L. 99–659, §106(3)(C), substituted “60-day” for �
 
 Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the Councils,”, “and on the economics of the fisheries”, and “The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
-1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
+1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, whichwas prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
-Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, andthat in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
+Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
 Subsec. (c)(1). Pub. L. 97–453, §7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
 

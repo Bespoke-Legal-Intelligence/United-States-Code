@@ -16,7 +16,7 @@ The Advisory Committee shall be composed of the Manager of the Corporation, the 
 
 #### (1) Terms
 
-&emsp;Members of the Advisory Committee (other than the Manager of the Corporation and the Secretary) shall be appointed by the Secretary for a term of up to 2 years from nominations made by the organizations and agencies specified in subsection (c) of this section. The terms of the members (other than the Manager of the Corporation and the Secretary) shall be staggered.
+&emsp;Members of the Advisory Committee (other than the Manager of the Corporation and the Secretary) shall be appointed by the Secretaryfor a term of up to 2 years from nominations made by the organizations and agencies specified in subsection (c) of this section. The terms of the members (other than the Manager of the Corporation and the Secretary) shall be staggered.
 
 #### (2) Chairperson
 
@@ -50,5 +50,5 @@ A prior section, act Feb. 16, 1938, ch. 30, title V, §515, 52 Stat. 77, provide
 
 #### Effective Date
 
-Section effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13,1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as an Effective Date of 1994 Amendment note under section 1502 of this title.
+Section effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as an Effective Date of 1994 Amendment note under section 1502 of this title.
 

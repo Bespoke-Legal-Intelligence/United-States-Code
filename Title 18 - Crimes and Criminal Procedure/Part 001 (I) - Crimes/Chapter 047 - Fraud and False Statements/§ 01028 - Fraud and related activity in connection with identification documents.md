@@ -58,7 +58,7 @@
 
 &emsp;(3) the term “document-making implement” means any implement or impression specially designed or primarily used for making an identification document, a false identification document, or another document-making implement;
 
-&emsp;(4) the term “personal identification card” means an identification document issued by aState or local government solely for the purpose of identification; and
+&emsp;(4) the term “personal identification card” means an identification document issued by a State or local government solely for the purpose of identification; and
 
 &emsp;(5) the term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession or territory of the United States.
 
@@ -98,7 +98,7 @@ Section 211(c) of div. C of Pub. L. 104–208 provided that: “This section \[a
 
 Pub. L. 98–473, title II, §609L, Oct. 12, 1984, 98 Stat. 2103, provided that:
 
-“(a) For purposes of section 1028 of title 18, United States Code, to the maximum extent feasible, personal descriptors or identifiers utilized in identification documents, as defined in such section, shall utilize common descriptive terms and formats designed to—
+“(a) For purposes of section 1028 of title 18, United States Code, to the maximum extent feasible, personaldescriptors or identifiers utilized in identification documents, as defined in such section, shall utilize common descriptive terms and formats designed to—
 
 &emsp;“(1) reduce the redundancy and duplication of identification systems by providing information which can be utilized by the maximum number of authorities, and
 

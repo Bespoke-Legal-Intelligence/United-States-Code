@@ -262,7 +262,7 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §13(c); added Oct. 24, 1992, Pub
 
 In subsection (a)(1), the word “prepare” is omitted as surplus. The words “or offices” are omitted because of 1:1. The words “in accordance with regulations prescribed by the Secretary or appropriate State agency” in 49 App.:1680(a) (1st sentence), “in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency” in 49 App.:2009(a) (1st sentence), and “by regulation” are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
 
-In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at anytime” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
+In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at any time” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
 
 In subsection (a)(3), the word “appropriate” is omitted as surplus.
 
@@ -318,7 +318,7 @@ Subsecs. (c)(4)(B), (d)(3). Pub. L. 104–304, §20(h)(1), substituted “standa
 
 #### Study of Underwater Abandoned Pipeline Facilities
 
-Pub. L. 102–508, title III, §307, Oct. 24, 1992, 106 Stat. 3309, directed Secretary of Transportation, in consultation with State and other Federal agencies having authority over underwater natural gas and hazardous liquid pipeline facilities and with pipeline owners and operators, fishing and maritime industries, and other affected groups, to submit to Congress, not later than 3 years after Oct. 24, 1992, report and recommendations on abandonment of such pipeline facilities, including analysis of problems caused by such facilities, alternative methods to abandonment, as well as navigational, safety, economic, and environmental impacts associated with abandonment, and further authorized Secretary to require, based on findings of such study, additional appropriate actions to prevent hazards to navigation in connection with such facilities.
+Pub. L. 102–508, title III, §307, Oct. 24, 1992, 106 Stat. 3309, directed Secretary of Transportation, in consultation with State and other Federal agencies having authority over underwater natural gas and hazardous liquid pipeline facilities and with pipeline owners and operators, fishing and maritime industries, and other affected groups, to submit to Congress, not later than 3 years after Oct. 24, 1992, report and recommendations on abandonment of such pipeline facilities, including analysis of problems caused by such facilities, alternative methods to abandonment, as well as navigational, safety, economic, and environmental impactsassociated with abandonment, and further authorized Secretary to require, based on findings of such study, additional appropriate actions to prevent hazards to navigation in connection with such facilities.
 
 #### Section Referred to in Other Sections
 

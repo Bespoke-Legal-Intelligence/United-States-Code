@@ -4,7 +4,7 @@
 
 (b) Any alien convicted of a violation of this subchapter or any regulation thereunder is subject to deportation in the manner provided by chapter 4 of title II of the Immigration and Nationality Act \[8 U.S.C. 1221 et seq.\].
 
-(Aug. 1, 1956, ch. 849, §6, 70 Stat. 900; Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §308(g)(9)(B), 110 Stat. 3009–624.)
+(Aug. 1, 1956, ch. 849, §6, 70 Stat. 900; Pub. L. 104–208, div. C, title III, §308(g)(9)(B), Sept. 30, 1996, 110 Stat. 3009–624.)
 
 #### References in Text
 

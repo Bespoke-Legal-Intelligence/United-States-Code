@@ -48,7 +48,7 @@ The amount of any savings association's liquidity requirement, and any deficienc
 
 #### (d) Deficiency assessments
 
-For any deficiency in compliance with the liquidity requirements, the Director may, in the Director's discretion, assess a penalty consisting of the payment by the institution of such sum as may be assessed by the Director but not in excess of a rate equal to the highest rate on Federal home loan bank advances of one year or less, plus 2 percent per year, on the amount of the deficiency for the period with respect towhich the deficiency existed. Any penalty assessed under this subsection against a savings association shall be paid to the Director. The Director may authorize or require that, at any time before collection thereof, and whether before or after the bringing of any action or other legal proceeding, the obtaining of any judgment or other recovery, or the issuance or levy of any execution or other legal process therefor, and with or without consideration, any such penalty or recovery be compromised, remitted, or mitigated in whole or part. The penalties authorized under this subsection are in addition to all remedies and sanctions otherwise available.
+For any deficiency in compliance with the liquidity requirements, the Director may, in the Director's discretion, assess a penalty consisting of the payment by the institution of such sum as may be assessed by the Director but not in excess of a rate equal to the highest rate on Federal home loan bank advances of one year or less, plus 2 percent per year, on the amount of the deficiency for the period with respect to which the deficiency existed. Any penalty assessed under this subsection against a savings association shall be paid to the Director. The Director may authorize or require that, at any time before collection thereof, and whether before or after the bringing of any action or other legal proceeding, the obtaining of any judgment or other recovery, or the issuance or levy of any execution or other legal process therefor, and with or without consideration, any such penalty or recovery be compromised, remitted, or mitigated in whole or part. The penalties authorized under this subsection are in addition to all remedies and sanctions otherwise available.
 
 #### (e) Reduction or suspension
 
@@ -58,7 +58,7 @@ Whenever the Director deems it advisable in order to enable a savings associatio
 
 The Director is authorized to issue such regulations, including definitions of terms used in this section, to make such examinations, and to conduct such investigations as the Director deems necessary or appropriate to effectuate the purposes of this section. The reasonable cost of any such examination or investigation, as determined by the Director, shall be paid by the association.
 
-(June 13, 1933, ch. 64, §6, 48 Stat. 134; Apr. 27, 1934, ch. 168, §11, 48 Stat. 647; May 28, 1935, ch. 150, §19, 49 Stat. 297; Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 313.)
+(June 13, 1933, ch. 64, §6, 48 Stat. 134; Apr. 27, 1934, ch. 168, §11, 48 Stat. 647; May 28, 1935, ch.150, §19, 49 Stat. 297; Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 313.)
 
 #### References in Text
 

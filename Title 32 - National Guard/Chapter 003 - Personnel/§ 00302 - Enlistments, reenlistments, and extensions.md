@@ -14,7 +14,7 @@
 
 &emsp;(2) by proclamation of the President, if Congress declares an emergency, until six months after termination of that emergency.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 601; Oct. 4, 1961, Pub. L. 87–378, §5(1), 75 Stat. 808.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 601; Pub. L. 87–378, §5(1), Oct. 4, 1961, 75 Stat. 808.)
 
 Historical and Revision Notes
 

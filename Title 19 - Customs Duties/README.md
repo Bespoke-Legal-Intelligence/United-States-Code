@@ -1,5 +1,5 @@
 
-19 U.S.C.<br>United States Code, 1996 Edition<br>Title 19 - CUSTOMS DUTIES<br>From the U.S. Government Publishing Office, www.gpo.gov
+19 U.S.C.<br>United States Code, 1997 Edition<br>Title 19 - CUSTOMS DUTIES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 19—CUSTOMS DUTIES
 
@@ -9,7 +9,7 @@
 | [<b>1A.</b>](Chapter%20001A%20-%20Foreign%20Trade%20Zones/README.md) | <b>Foreign Trade Zones</b> | <b>81a</b> |
 | [<b>2.</b>](Chapter%20002%20-%20The%20Tariff%20Commission/README.md) | <b>The Tariff Commission \[Repealed or Omitted\]</b> | <b>91</b> |
 | [<b>3.</b>](Chapter%20003%20-%20The%20Tariff%20and%20Related%20Provisions/README.md) | <b>The Tariff and Related Provisions</b> | <b>121</b> |
-| <b>4.</b> | <b>Tariff Act of 1930</b> | <b>1202</b> |
+| [<b>4.</b>](Chapter%20004%20-%20Tariff%20Act%20of%201930/README.md) | <b>Tariff Act of 1930</b> | <b>1202</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Smuggling/README.md) | <b>Smuggling</b> | <b>1701</b> |
 | [<b>6.</b>](Chapter%20006%20-%20Trade%20Fair%20Program/README.md) | <b>Trade Fair Program</b> | <b>1751</b> |
 | [<b>7.</b>](Chapter%20007%20-%20Trade%20Expansion%20Program/README.md) | <b>Trade Expansion Program</b> | <b>1801</b> |
@@ -17,7 +17,7 @@
 | [<b>9.</b>](Chapter%20009%20-%20Visual%20and%20Auditory%20Materials%20of%20Educational%2C%20Scientific%2C%20and%20Cultural%20Character/README.md) | <b>Visual and Auditory Materials of Educational, Scientific, and Cultural Character</b> | <b>2051</b> |
 | [<b>10.</b>](Chapter%20010%20-%20Customs%20Service/README.md) | <b>Customs Service</b> | <b>2071</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Importation%20of%20Pre-Columbian%20Monumental%20or%20Architectural%20Sculpture%20or%20Murals/README.md) | <b>Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals</b> | <b>2091</b> |
-| <b>12.</b> | <b>Trade Act of 1974</b> | <b>2101</b> |
+| [<b>12.</b>](Chapter%20012%20-%20Trade%20Act%20of%201974/README.md) | <b>Trade Act of 1974</b> | <b>2101</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Trade%20Agreements%20Act%20of%201979/README.md) | <b>Trade Agreements Act of 1979</b> | <b>2501</b> |
 | [<b>14.</b>](Chapter%20014%20-%20Convention%20on%20Cultural%20Property/README.md) | <b>Convention on Cultural Property</b> | <b>2601</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Caribbean%20Basin%20Economic%20Recovery/README.md) | <b>Caribbean Basin Economic Recovery</b> | <b>2701</b> |
@@ -40,6 +40,7 @@
 - [Chapter 001A - Foreign Trade Zones](Chapter%20001A%20-%20Foreign%20Trade%20Zones/README.md)
 - [Chapter 002 - The Tariff Commission](Chapter%20002%20-%20The%20Tariff%20Commission/README.md)
 - [Chapter 003 - The Tariff and Related Provisions](Chapter%20003%20-%20The%20Tariff%20and%20Related%20Provisions/README.md)
+- [Chapter 004 - Tariff Act of 1930](Chapter%20004%20-%20Tariff%20Act%20of%201930/README.md)
 - [Chapter 005 - Smuggling](Chapter%20005%20-%20Smuggling/README.md)
 - [Chapter 006 - Trade Fair Program](Chapter%20006%20-%20Trade%20Fair%20Program/README.md)
 - [Chapter 007 - Trade Expansion Program](Chapter%20007%20-%20Trade%20Expansion%20Program/README.md)
@@ -47,6 +48,7 @@
 - [Chapter 009 - Visual and Auditory Materials of Educational, Scientific, and Cultural Character](Chapter%20009%20-%20Visual%20and%20Auditory%20Materials%20of%20Educational%2C%20Scientific%2C%20and%20Cultural%20Character/README.md)
 - [Chapter 010 - Customs Service](Chapter%20010%20-%20Customs%20Service/README.md)
 - [Chapter 011 - Importation of Pre-Columbian Monumental or Architectural Sculpture or Murals](Chapter%20011%20-%20Importation%20of%20Pre-Columbian%20Monumental%20or%20Architectural%20Sculpture%20or%20Murals/README.md)
+- [Chapter 012 - Trade Act of 1974](Chapter%20012%20-%20Trade%20Act%20of%201974/README.md)
 - [Chapter 013 - Trade Agreements Act of 1979](Chapter%20013%20-%20Trade%20Agreements%20Act%20of%201979/README.md)
 - [Chapter 014 - Convention on Cultural Property](Chapter%20014%20-%20Convention%20on%20Cultural%20Property/README.md)
 - [Chapter 015 - Caribbean Basin Economic Recovery](Chapter%20015%20-%20Caribbean%20Basin%20Economic%20Recovery/README.md)

@@ -4,7 +4,7 @@
 
 #### (1) Administration
 
-&emsp;There shall be within the Department of Commerce an administration to be known as the National Telecommunications and Information Administration.
+&emsp;There shall be within the Department of Commerce an administration to be known asthe National Telecommunications and Information Administration.
 
 #### (2) Head of administration
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(J) The responsibility to ensure that the views of the executive branch on telecommunications matters are effectively presented to the Commission and, in coordination with the Director of the Office of Management and Budget, to the Congress.
 
-&emsp;&emsp;(K) The authority to establish policies concerning spectrum assignments and use byradio stations belonging to and operated by the United States.
+&emsp;&emsp;(K) The authority to establish policies concerning spectrum assignments and use by radio stations belonging to and operated by the United States.
 
 &emsp;&emsp;(L) Functions which involve—
 

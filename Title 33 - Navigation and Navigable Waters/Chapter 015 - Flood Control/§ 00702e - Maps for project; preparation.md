@@ -2,7 +2,7 @@
 
 Subject to the approval of the heads of the several executive departments concerned, the Secretary of the Army, on the recommendation of the Chief of Engineers, may engage the services and assistance of the National Ocean Survey, the United States Geological Survey, or other mapping agencies of the Government, in the preparation of maps required in furtherance of this project, and funds to pay for such services may be allotted from appropriations made under authority of sections 702a and 702g of this title.
 
-(May 15, 1928, ch. 569, §5, 45 Stat. 536; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Nov. 13, 1991, Pub. L. 102–154, title I, 105 Stat. 1000.)
+(May 15, 1928, ch. 569, §5, 45 Stat. 536; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
 #### Change of Name
 

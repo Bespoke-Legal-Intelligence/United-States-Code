@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of the Resolution Funding Corporation is to provide funds to the Resolution Trust Corporation to enable the Resolution Trust Corporation to carry out the provisions of this chapter.
+The purpose of the Resolution Funding Corporation is to provide funds to the ResolutionTrust Corporation to enable the Resolution Trust Corporation to carry out the provisions of this chapter.
 
 #### (b) Establishment
 
@@ -58,7 +58,7 @@ There is established a corporation to be known as the Resolution Funding Corpora
 
 &emsp;&emsp;The amount each Federal Home Loan Bank shall pay under subparagraph (A) shall be determined by the Thrift Depositor Protection Oversight Board by multiplying the total administrative expenses for any period by the percentage arrived at by dividing—
 
-&emsp;&emsp;&emsp;(i) the aggregate amount the Thrift Depositor Protection Oversight Board required such bank to invest in the Funding Corporation (as of the time of such determination) under paragraphs (4) and (5) ofsubsection (e) of this section (computed without regard to paragraphs (3) or (6) of such subsection); by
+&emsp;&emsp;&emsp;(i) the aggregate amount the Thrift Depositor Protection Oversight Board required such bank to invest in the Funding Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (e) of this section (computed without regard to paragraphs (3) or (6) of such subsection); by
 
 &emsp;&emsp;&emsp;(ii) the aggregate amount the Thrift Depositor Protection Oversight Board required all Federal Home Loan Banks to invest (as of the time of such determination) under such paragraphs.
 
@@ -104,7 +104,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (8) Authority to sue
 
-&emsp;To sue and be sued in its corporate capacity, and to complain and defend in any action brought by or against the Funding Corporation in any State or Federal court of competent jurisdiction.
+&emsp;To sue and be sued in its corporate capacity, and to complain and defend in any actionbrought by or against the Funding Corporation in any State or Federal court of competent jurisdiction.
 
 #### (9) Incidental powers
 
@@ -248,7 +248,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;The amount of stock each remaining Federal Home Loan Bank shall be required to purchase under subparagraph (A)(i) is the amount determined by the Thrift Depositor Protection Oversight Board by multiplying the excess amount by the percentage arrived at by dividing—
 
-&emsp;&emsp;&emsp;&emsp;(I) the cumulative amount of stock in the Funding Corporation purchasedunder this subsection by such remaining Bank at the time of such determination; by
+&emsp;&emsp;&emsp;&emsp;(I) the cumulative amount of stock in the Funding Corporation purchased under this subsection by such remaining Bank at the time of such determination; by
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate of the cumulative amounts invested under this subsection by all remaining Banks at such time.
 
@@ -338,7 +338,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (ii) Amounts in excess of 20 percent of net earnings
 
-&emsp;&emsp;&emsp;If the aggregate amount required to be paid by the Federal Home Loan Banks under this subparagraph for any year exceeds 20 percent of the aggregate net earnings of the Banks for such year, each Bank shall pay 20 percent of its net earnings for such year as provided in clause (i), and each Bank's individual share of the excess of the required amount over 20 percent of the aggregate net earnings of the Banks for such year shall be determined by dividing—
+&emsp;&emsp;&emsp;If the aggregate amount required to be paid by the Federal Home Loan Banks under this subparagraph for any year exceeds 20 percent of the aggregate net earnings of the Banks for such year, each Bank shall pay 20 percent of its net earnings forsuch year as provided in clause (i), and each Bank's individual share of the excess of the required amount over 20 percent of the aggregate net earnings of the Banks for such year shall be determined by dividing—
 
 &emsp;&emsp;&emsp;&emsp;(I) the average month-end level in the prior year of advances outstanding by such Bank to Savings Associations Insurance Fund members; by
 
@@ -408,7 +408,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (9) Minority participation in public or negotiated offerings
 
-&emsp;The Thrift Depositor Protection Oversight Board and the Directorate shall ensure that minority owned or controlled commercial banks, investment banking firms, underwriters, and bond counsels throughout the United States have an opportunity to participate to a significant degree in any public or negotiated offering of obligations issued under this section.
+&emsp;The Thrift Depositor Protection Oversight Board and the Directorate shall ensure that minority owned or controlled commercial banks, investment banking firms, underwriters, and bond counsels throughout theUnited States have an opportunity to participate to a significant degree in any public or negotiated offering of obligations issued under this section.
 
 #### (10) No full faith and credit of the United States
 
@@ -450,7 +450,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Removal
 
-&emsp;&emsp;The Funding Corporation may, without bond or security, remove any such action,suit, or proceeding from a State court to the United States District Court for the District of Columbia.
+&emsp;&emsp;The Funding Corporation may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States District Court for the District of Columbia.
 
 #### (i) Annual report
 
@@ -556,7 +556,7 @@ For purposes of this section:
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, §21B, as added Aug. 9, 1989, Pub. L. 101–73, title V, §511(a), 103 Stat. 394; amended Dec. 12, 1991, Pub. L. 102–233, title III, §302(b), 105 Stat. 1767; Oct. 28, 1992, Pub. L. 102–550, title XVI, §1613(a)(7), (9), 106 Stat. 4092; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), 110 Stat. 3009–488, 3009–489.)
+(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489.)
 
 #### Amendment of Section
 

@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 341b.
 
@@ -34,13 +36,13 @@ Pub. L. 95–598, title IV, §408(c), Nov. 6, 1978, 92 Stat. 2687, as amended by
 
 #### Amendments
 
-1986—Pub. L. 99–554, §144(c)(1), substituted “trustees” for “trustee” in section catchline.
+<b>1986</b>—Pub. L. 99–554, §144(c)(1), substituted “trustees” for “trustee” in section catchline.
 
 Subsec. (a)(1). Pub. L. 99–554, §144(c)(2)(A), inserted reference to trustees in cases under title 11.
 
 Subsec. (a)(2). Pub. L. 99–554, §144(c)(2)(B), struck out references to courts of the Canal Zone and trustees in cases under title 11.
 
-1978—Pub. L. 95–598, §219(b), substituted “marshals, and trustee” for “and marshals” in section catchline.
+<b>1978</b>—Pub. L. 95–598, §219(b), substituted “marshals, and trustee” for “and marshals” in section catchline.
 
 Subsec. (a)(1). Pub. L. 95–518, §219(a), substituted “marshals, and trustees” for “and marshals”.
 

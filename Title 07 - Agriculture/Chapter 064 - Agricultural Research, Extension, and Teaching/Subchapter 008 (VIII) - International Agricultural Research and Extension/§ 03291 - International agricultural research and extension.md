@@ -38,7 +38,7 @@ The Secretary shall draw upon and enhance the resources of the land-grant colleg
 
 The Secretary may provide specialized or technical services, on an advance of funds or a reimbursable basis, to United States colleges and universities and other nongovernmental organizations carrying out international food, agricultural, and related research, extension, and teaching development projects and activities. All funds received in payment for furnishing such specialized or technical services shall be deposited to the credit of the appropriation from which the cost of providing such services has been paid or is to be charged.
 
-(Pub. L. 95–113, title XIV, §1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV,§1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, §1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, §402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §816, Apr. 4, 1996, 110 Stat. 1167.)
+(Pub. L. 95–113, title XIV, §1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV, §1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, §1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, §402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §816, Apr. 4, 1996, 110 Stat. 1167.)
 
 #### Amendments
 
@@ -50,7 +50,7 @@ The Secretary may provide specialized or technical services, on an advance of fu
 
 Subsec. (a). Pub. L. 101–624, §1613(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, subject to such coordination with other Federal officials, departments, and agencies as the President may direct, is authorized to—
 
-&emsp;“(1) expand the operational coordination of the Department of Agriculture with institutions and other persons throughout the world performing agricultural and related research and extension activities by exchanging research materials and results with such institutions or persons and by conducting with such institutions or persons joint or coordinated research and extension on problems of significance to food and agriculture in the United States;
+&emsp;“(1) expand the operational coordination of the Department of Agriculture with institutions and other persons throughout the world performing agricultural and related research and extension activities by exchanging research materials and results with such institutions or persons and by conducting with such institutions or persons joint or coordinated researchand extension on problems of significance to food and agriculture in the United States;
 
 &emsp;“(2) assist the Agency for International Development with food, agricultural, research and extension programs in developing countries;
 

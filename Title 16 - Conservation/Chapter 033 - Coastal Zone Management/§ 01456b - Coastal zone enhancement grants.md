@@ -8,7 +8,7 @@ For purposes of this section, the term “coastal zone enhancement objective” 
 
 &emsp;(2) Preventing or significantly reducing threats to life and destruction of property by eliminating development and redevelopment in high-hazard areas, managing development in other hazard areas, and anticipating and managing the effects of potential sea level rise and Great Lakes level rise.
 
-&emsp;(3) Attaining increased opportunities for public access, taking into account current andfuture public access needs, to coastal areas of recreational, historical, aesthetic, ecological, or cultural value.
+&emsp;(3) Attaining increased opportunities for public access, taking into account current and future public access needs, to coastal areas of recreational, historical, aesthetic, ecological, or cultural value.
 
 &emsp;(4) Reducing marine debris entering the Nation's coastal and ocean environment by managing uses and activities that contribute to the entry of such debris.
 
@@ -38,7 +38,7 @@ The Secretary shall evaluate and rank State proposals for funding under this sec
 
 Within 12 months following November 5, 1990, and consistent with the notice and participation requirements established in section 1463 of this title, the Secretary shall promulgate regulations concerning coastal zone enhancement grants that establish—
 
-&emsp;(1) specific and detailed criteria that must be addressed by a coastal state (including the State's priority needs for improvement as identified by the Secretary after careful consultation with the State) as part of the State's development and implementation of coastal zone enhancement objectives;
+&emsp;(1) specific and detailed criteria that must be addressed by a coastal state (including theState's priority needs for improvement as identified by the Secretary after careful consultation with the State) as part of the State's development and implementation of coastal zone enhancement objectives;
 
 &emsp;(2) administrative or procedural rules or requirements as necessary to facilitate the development and implementation of such objectives by coastal states; and
 

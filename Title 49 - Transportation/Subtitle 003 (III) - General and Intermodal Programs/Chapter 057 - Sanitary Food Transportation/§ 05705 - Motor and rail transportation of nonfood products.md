@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibitions.—The regulations prescribed under section 5703(a)(1) of this title shall include provisions prohibiting a person from using, offering for use, or arranging for the use of amotor vehicle or rail vehicle (except a tank truck, rail tank car, or cargo tank described in section 5704 of this title) to transport cosmetics, devices, drugs, food, or food additives if the vehicle is used to transport nonfood products included in a list published under subsection (b) of this section.
+Prohibitions.—The regulations prescribed under section 5703(a)(1) of this title shall include provisions prohibiting a person from using, offering for use, or arranging for the use of a motor vehicle or rail vehicle (except a tank truck, rail tank car, or cargo tank described in section 5704 of this title) to transport cosmetics, devices, drugs, food, or food additives if the vehicle is used to transport nonfood products included in a list published under subsection (b) of this section.
 
 (b)
 

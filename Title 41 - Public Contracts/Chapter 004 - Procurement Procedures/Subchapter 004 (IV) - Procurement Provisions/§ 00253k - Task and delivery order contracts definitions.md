@@ -6,7 +6,7 @@ In sections 253h, 253i, and 253j of this title:
 
 &emsp;(2) The term “delivery order contract” means a contract for property that does not procure or specify a firm quantity of property (other than a minimum or maximum quantity) and that provides for the issuance of orders for the delivery of property during the period of the contract.
 
-(June 30, 1949, ch. 288, title III, §303K, as added Oct. 13, 1994, Pub. L. 103–355, title I, §1054(a), 108 Stat. 3265.)
+(June 30, 1949, ch. 288, title III, §303K, as added Pub. L. 103–355, title I, §1054(a), Oct. 13, 1994, 108 Stat. 3265.)
 
 #### Effective Date
 

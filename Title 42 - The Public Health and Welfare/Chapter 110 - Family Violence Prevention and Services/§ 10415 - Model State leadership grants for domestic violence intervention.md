@@ -52,7 +52,7 @@ To be designated as a model State under subsection (a) of this section, a State 
 
 #### (3) Delegation and transfer
 
-&emsp;The Secretary shall delegate to the Attorney General the Secretary's responsibilities for carrying out this section and shall transferto the Attorney General the funds appropriated under this section for the purpose of making grants under this section.
+&emsp;The Secretary shall delegate to the Attorney General the Secretary's responsibilities for carrying out this section and shall transfer to the Attorney General the funds appropriated under this section for the purpose of making grants under this section.
 
 (Pub. L. 98–457, title III, §315, as added Pub. L. 102–295, title III, §321, May 28, 1992, 106 Stat. 210.)
 

@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2) the term “executive agency” means an executive department as defined in section 101 of title 5, an independent establishment as defined by section 104 of title 5 (except that it shall not include the General Accounting Office), a military department as defined by section 102 of title 5, and a wholly owned Government corporation as defined by section 9101(3) of title 31, the United States Postal Service, and the Postal Rate Commission;
 
-&emsp;(3) the term “contracting officer” means any person who, by appointment in accordance with applicable regulations, has the authority to enter into and administer contracts and make determinations and findings with respect thereto. The term also includes the authorized representative of the contracting officer, acting within the limits of his authority;
+&emsp;(3) the term “contracting officer” means any person who, by appointment in accordancewith applicable regulations, has the authority to enter into and administer contracts and make determinations and findings with respect thereto. The term also includes the authorized representative of the contracting officer, acting within the limits of his authority;
 
 &emsp;(4) the term “contractor” means a party to a Government contract other than the Government;
 

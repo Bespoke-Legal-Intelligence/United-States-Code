@@ -74,7 +74,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(6) Families must be supported in their efforts to promote the integration and inclusion of their children with disabilities into all aspects of community life.
 
-&emsp;(7) Family support for families of children with disabilities should promote the use of existing social networks, strengthen naturalsources of support, and help build connections to existing community resources and services.
+&emsp;(7) Family support for families of children with disabilities should promote the use of existing social networks, strengthen natural sources of support, and help build connections to existing community resources and services.
 
 &emsp;(8) Youth with disabilities should be involved in decisionmaking about their own lives, consistent with the unique strengths, resources, priorities, concerns, abilities, and capabilities of each such youth.
 
@@ -85,6 +85,10 @@ It is the policy of the United States that all programs, projects, and activitie
 Nothing in this subchapter shall be construed to prevent families from choosing an out-of-home placement for their children with disabilities, including institutional placement for such children.
 
 (Pub. L. 91–230, title VI, §702, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3937.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@ A petition on the claim of a person under legal disability or beyond the seas at
 
 A suit for the fees of an officer of the United States shall not be filed until his account for such fees has been finally acted upon, unless the General Accounting Office fails to act within six months after receiving the account.
 
-(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, §52, 68 Stat. 1246; Apr. 2, 1982, Pub. L. 97–164, title I, §139(a), 96 Stat. 42; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 976; Sept. 3, 1954, ch. 1263, §52, 68 Stat. 1246; Pub. L. 97–164, title I, §139(a), Apr. 2, 1982, 96 Stat. 42; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -24,11 +24,11 @@ The section was extended to include claims referred by the head of an executive 
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1954—Act Sept. 3, 1954, struck out “, or the claim is referred by the Senate or House of Representatives, or by the head of an executive department” in first par.
+<b>1954</b>—Act Sept. 3, 1954, struck out “, or the claim is referred by the Senate or House of Representatives, or by the head of an executive department” in first par.
 
 #### Effective Date of 1992 Amendment
 

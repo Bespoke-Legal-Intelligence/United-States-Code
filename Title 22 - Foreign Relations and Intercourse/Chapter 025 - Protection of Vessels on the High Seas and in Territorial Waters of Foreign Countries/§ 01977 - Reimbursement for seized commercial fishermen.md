@@ -2,7 +2,7 @@
 
 #### (a) Agreement to reimburse for actual costs, confiscation or spoilage of fish, and loss of income
 
-The Secretary, upon receipt of an application filed with him at any time after the effective date of this section by the owner of any vessel of the United States which is documented or certificated as a commercial fishing vessel, shall enter into an agreement with such owner subject to the provision of this section and such other terms and conditions as the Secretary deems appropriate. Such agreement shall provide that, if said vessel is seized by a foreign country and detained under the conditions of section 1972 of this title, the Secretary shall guarantee—
+The Secretary, upon receipt of an application filed with him at any time after the effective date of this section by the owner of any vessel of the United States which is documented or certificated as a commercial fishing vessel, shallenter into an agreement with such owner subject to the provision of this section and such other terms and conditions as the Secretary deems appropriate. Such agreement shall provide that, if said vessel is seized by a foreign country and detained under the conditions of section 1972 of this title, the Secretary shall guarantee—
 
 &emsp;(1) the owner of such vessel for all actual costs, except those covered by section 1973 of this title, incurred by the owner during the seizure and detention period and as a direct result thereof, as determined by the Secretary, resulting (A) from any damage to, or destruction of, such vessel, or its fishing gear or other equipment, (B) from the loss or confiscation of such vessel, gear, or equipment, or (C) from dockage fees or utilities;
 
@@ -34,7 +34,7 @@ For the purposes of this section—
 
 &emsp;(2) the term “owner” includes any charterer of a commercial fishing vessel.
 
-(Aug. 27, 1954, ch. 1018, §7, as added Aug. 12, 1968, Pub. L. 90–482, §1, 82 Stat. 729; amended Oct. 26, 1972, Pub. L. 92–569, §4, 86 Stat. 1183; Oct. 27, 1972, Pub. L. 92–594, §§1, 2, 86 Stat. 1313; Apr. 21, 1976, Pub. L. 94–273, §3(17), 90 Stat. 377; Nov. 18, 1977, Pub. L. 95–194, §1, 91 Stat. 1413; Sept. 18, 1978, Pub. L. 95–376, §1, 92 Stat. 714; Oct. 26, 1981, Pub. L. 97–68, §1, 95 Stat. 1040; July 17, 1984, Pub. L. 98–364, title III, §301, 98 Stat. 444; Nov. 14, 1986, Pub. L. 99–659, title IV, §408, 100 Stat. 3740; Nov. 3, 1987, Pub. L. 100–151, §1, 101 Stat. 884; June 27, 1988, Pub. L. 100–350, §2, 102 Stat. 660; Nov. 28, 1990, Pub. L. 101–627, title III, §301, 104 Stat. 4462; Nov. 3, 1995, Pub. L. 104–43, title IV, §403, 109 Stat. 390.)
+(Aug. 27, 1954, ch. 1018, §7, as added Pub. L. 90–482, §1, Aug. 12, 1968, 82 Stat. 729; amended Pub. L. 92–569, §4, Oct. 26, 1972, 86 Stat. 1183; Pub. L. 92–594, §§1, 2, Oct. 27, 1972, 86 Stat. 1313; Pub. L. 94–273, §3(17), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–194, §1, Nov. 18, 1977, 91 Stat. 1413; Pub. L. 95–376, §1, Sept. 18, 1978, 92 Stat. 714; Pub. L. 97–68, §1, Oct. 26, 1981, 95 Stat. 1040; Pub. L. 98–364, title III, §301, July 17, 1984, 98 Stat. 444; Pub. L. 99–659, title IV, §408, Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–151, §1, Nov. 3, 1987, 101 Stat. 884; Pub. L. 100–350, §2, June 27, 1988, 102 Stat. 660; Pub. L. 101–627, title III, §301, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title IV, §403, Nov. 3, 1995, 109 Stat. 390.)
 
 #### Amendments
 

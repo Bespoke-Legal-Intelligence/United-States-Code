@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of Agriculture
 
-The Secretary of Agriculture shall carry out a program to control grasshoppers and Mormon Crickets on all Federal lands.
+ll carry out a program to control grasshoppers and Mormon Crickets on all Federal lands.
 
 #### (b) Funds for lands subject to jurisdiction of Federal Government or Federal lands subject to jurisdiction of Secretary of the Interior; prompt requests for transferred funds and for replenishing appropriations
 

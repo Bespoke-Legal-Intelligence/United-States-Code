@@ -20,5 +20,5 @@ Government Corporation Control provisions, see section 9101 et seq. of Title 31,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 1132f; title 26 section 6402; title 31 sections 1344, 3720A; title 42 section 12651.
+This section is referred to in title 20 section 1132f–10; title 26 section 6402; title 31 sections 1344, 3332; title 42 section 12651.
 

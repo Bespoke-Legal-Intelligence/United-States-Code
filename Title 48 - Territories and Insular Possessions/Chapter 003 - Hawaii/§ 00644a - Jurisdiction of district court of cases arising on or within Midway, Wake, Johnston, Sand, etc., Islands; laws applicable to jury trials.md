@@ -4,7 +4,7 @@ The jurisdiction of the United States District Court for the District of Hawaii 
 
 The laws of the United States relating to juries and jury trials shall be applicable to the trial of such cases before said district court.
 
-(June 15, 1950, ch. 253, 64 Stat. 217; Mar. 18, 1959, Pub. L. 86–3, §14(j), 73 Stat. 11; July 12, 1960, Pub. L. 86–624, §19, 74 Stat. 416.)
+(June 15, 1950, ch. 253, 64 Stat. 217; Pub. L. 86–3, §14(j), Mar. 18, 1959, 73 Stat. 11; Pub. L. 86–624, §19, July 12, 1960, 74 Stat. 416.)
 
 #### Amendments
 

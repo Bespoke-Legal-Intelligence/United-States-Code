@@ -4,7 +4,7 @@ A board is created in the Department of the Interior to be known as “Indian Ar
 
 The commissioner shall serve without compensation: <i>Provided</i>, That each Commissioner shall be paid per diem in lieu of subsistence and other expenses at a rate that does not exceed the rate authorized by section 5703 of title 5 to be paid to persons serving without compensation.
 
-(Aug. 27, 1935, ch. 748, §1, 49 Stat. 891; Apr. 24, 1961, Pub. L. 87–23, §1, 75 Stat. 45.)
+(Aug. 27, 1935, ch. 748, §1, 49 Stat. 891; Pub. L. 87–23, §1, Apr. 24, 1961, 75 Stat. 45.)
 
 #### Codification
 

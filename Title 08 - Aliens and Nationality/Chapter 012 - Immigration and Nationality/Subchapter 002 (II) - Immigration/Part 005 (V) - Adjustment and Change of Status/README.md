@@ -4,11 +4,13 @@ Part V—Adjustment and Change of Status
 
 Registration provisions pertaining to persons trained in foreign espionage systems, deportation in manner provided by this part for violation of, see section 855 of Title 50, War and National Defense.
 
-#### Part Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (B),”.</i>
 
-This part is referred to in title 50 section 855.
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “1225(b)(1)”.</i>
 
 
 ---

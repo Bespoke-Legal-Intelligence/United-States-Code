@@ -12,7 +12,7 @@
 
 (B) The Secretary may enter into these agreements when the Secretary determines the interest of Indians and Indian tribes will be benefited.
 
-(2) In cooperative agreements entered into under paragraph (1), the Secretary may advance or reimburse funds to contractors from any appropriated funds available for similar kinds of work or by furnishing or sharing materials, supplies, facilities, or equipment without regard to the provisions of section 3324 of title 31 relating to the advance of public moneys.
+(2) In cooperative agreements entered into under paragraph (1), the Secretary may advanceor reimburse funds to contractors from any appropriated funds available for similar kinds of work or by furnishing or sharing materials, supplies, facilities, or equipment without regard to the provisions of section 3324 of title 31 relating to the advance of public moneys.
 
 #### (b) Supervision
 

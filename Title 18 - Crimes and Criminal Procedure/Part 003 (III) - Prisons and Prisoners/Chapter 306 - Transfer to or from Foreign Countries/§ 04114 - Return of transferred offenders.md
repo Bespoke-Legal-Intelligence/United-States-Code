@@ -12,7 +12,7 @@ A summons or a warrant shall be issued by the justice, judge or magistrate order
 
 (e) The return of an offender shall be conditioned upon the offender being given credit toward service of the sentence for the time spent in the custody of or under the supervision of the United States.
 
-(f) Sections 3186, 3188 through 3191, and 3195 of this title shall be applicable to the return of anoffender under this section. However, an offender returned under this section shall not be deemed to have been extradited for any purpose.
+(f) Sections 3186, 3188 through 3191, and 3195 of this title shall be applicable to the return of an offender under this section. However, an offender returned under this section shall not be deemed to have been extradited for any purpose.
 
 (g) An offender whose return is sought pursuant to this section may be admitted to bail or be released on his own recognizance at any stage of the proceedings.
 

@@ -6,7 +6,7 @@ The Appraisal Subcommittee shall monitor State appraiser certifying and licensin
 
 #### (b) Disapproval by Appraisal Subcommittee
 
-The Federal financial institutions, regulatory agencies, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Resolution Trust Corporation shall accept certifications and licenses awarded by a State appraiser certifying the licensing agency unless the Appraisal Subcommittee issues a written finding that—
+The Federal financial institutions, regulatory agencies, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Resolution Trust Corporation shall accept certifications and licenses awarded by a State appraiser certifying the licensingagency unless the Appraisal Subcommittee issues a written finding that—
 
 &emsp;(1) the State agency fails to recognize and enforce the standards, requirements, and procedures prescribed pursuant to this chapter;
 

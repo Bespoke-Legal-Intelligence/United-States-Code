@@ -12,7 +12,7 @@
 
 #### (B) Narcotics and control of illegal substances
 
-&emsp;&emsp;The United States and the Federated States of Micronesia will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Federated States of Micronesia for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance as defined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Federated States of Micronesia, or for the distribution of any such substance to or from the Federated States of Micronesia or to or from the United States or any of its territories or commonwealths.
+&emsp;&emsp;The United States and the Federated States of Micronesia will take all reasonable and necessary steps, as mutually agreed, based upon consultations in which the Attorney General or other designated official of each Government participates, to prevent the use of the lands, waters, and facilities of the United States or the Federated States of Micronesia for the purposes of cultivation of, production of, smuggling of, trafficking in, and abuse of any controlled substance asdefined in section 802(6) of title 21 and Schedules I through V of Subchapter II of the Controlled Substances Act of the Federated States of Micronesia, or for the distribution of any such substance to or from the Federated States of Micronesia or to or from the United States or any of its territories or commonwealths.
 
 #### (C) Other criminal laws
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(A) after the President of the United States has conducted a review and reported the findings of the President to the Congress; and
 
-&emsp;&emsp;(B) the Congress has had 30 days (excluding days on which both Houses of Congress arenot in session) to review the findings of the President.
+&emsp;&emsp;(B) the Congress has had 30 days (excluding days on which both Houses of Congress are not in session) to review the findings of the President.
 
 #### (3) Report
 
@@ -100,7 +100,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
 
-This joint resolution, referred to in subsecs. (a)(3) and (c)(6), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, asamended, known as the Compact of Free Association Act of 1985, which is classified principally to this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+This joint resolution, referred to in subsecs. (a)(3) and (c)(6), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 Section 2291(e) of title 22, referred to in subsec. (a)(4), was repealed and section 2291(i) of title 22, relating to definitions, was redesignated section 2291(e) by Pub. L. 102–583, §6(b)(2), (3), Nov. 2, 1992, 106 Stat. 4932. See sections 2291h and 2291i of Title 22, Foreign Relations and Intercourse.
 

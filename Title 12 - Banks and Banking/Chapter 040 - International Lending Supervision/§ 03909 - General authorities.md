@@ -2,7 +2,7 @@
 
 #### (a) Rules and regulations
 
-(1) The appropriate Federal banking agencies are authorized to interpret and define the terms used in this chapter, and each appropriate Federal banking agency shall prescribe rules or regulations or issue orders as necessary to effectuate the purposes of this chapter and to prevent evasions thereof.
+(1) The appropriate Federal banking agencies are authorized to interpret and define the termsused in this chapter, and each appropriate Federal banking agency shall prescribe rules or regulations or issue orders as necessary to effectuate the purposes of this chapter and to prevent evasions thereof.
 
 (2) The appropriate Federal banking agency is authorized to apply the provisions of this chapter to any affiliate of an insured bank, but only to affiliates for which it is the appropriate Federal banking agency, in order to promote uniform application of this chapter or to prevent evasions thereof.
 

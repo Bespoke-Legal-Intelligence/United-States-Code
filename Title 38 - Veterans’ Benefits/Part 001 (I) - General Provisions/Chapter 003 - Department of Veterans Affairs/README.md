@@ -20,6 +20,7 @@
 | [316\.](%C2%A7%2000316%20-%20Colocation%20of%20regional%20offices%20and%20medical%20centers.md) | Colocation of regional offices and medical centers. |
 | [317\.](%C2%A7%2000317%20-%20Center%20for%20Minority%20Veterans.md) | Center for Minority Veterans. |
 | [318\.](%C2%A7%2000318%20-%20Center%20for%20Women%20Veterans.md) | Center for Women Veterans. |
+| [319\.](%C2%A7%2000319%20-%20Office%20of%20Employment%20Discrimination%20Complaint%20Adjudication.md) | Office of Employment Discrimination Complaint Adjudication. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -95,6 +96,8 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 
 #### Amendments
 
+1997—Pub. L. 105–114, title I, §102(a)(2), Nov. 21, 1997, 111 Stat. 2281, added item 319.
+
 1996—Pub. L. 104–106, div. E, title LVI, §5608(b), Feb. 10, 1996, 110 Stat. 702, substituted “Chief Information Officer” for “Chief Information Resources Officer” in item 310.
 
 1994—Pub. L. 103–446, title V, §509(b), Nov. 2, 1994, 108 Stat. 4668, substituted “Center for Minority Veterans” for “Chief Minority Affairs Officer” in item 317 and added item 318.
@@ -126,3 +129,4 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 - [&sect; 00316 - Colocation of regional offices and medical centers](%C2%A7%2000316%20-%20Colocation%20of%20regional%20offices%20and%20medical%20centers.md)
 - [&sect; 00317 - Center for Minority Veterans](%C2%A7%2000317%20-%20Center%20for%20Minority%20Veterans.md)
 - [&sect; 00318 - Center for Women Veterans](%C2%A7%2000318%20-%20Center%20for%20Women%20Veterans.md)
+- [&sect; 00319 - Office of Employment Discrimination Complaint Adjudication](%C2%A7%2000319%20-%20Office%20of%20Employment%20Discrimination%20Complaint%20Adjudication.md)

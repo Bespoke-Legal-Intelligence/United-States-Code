@@ -12,7 +12,7 @@ Where prospecting or exploratory work is necessary to determine the existence or
 
 Any phosphate permit issued under this section may be extended by the Secretary for such an additional period, not in excess of four years, as he deems advisable, if he finds that the permittee has been unable, with reasonable diligence, to determine the existence or workability of phosphate deposits in the area covered by the permit and desires to prosecute further prospecting or exploration, or for other reasons warranting such an extension in the opinion of the Secretary.
 
-(Feb. 25, 1920, ch. 85, §9, 41 Stat. 440; June 3, 1948, ch. 379, §2, 62 Stat. 290; Mar. 18, 1960, Pub. L. 86–391, §1(a), 74 Stat. 7.)
+(Feb. 25, 1920, ch. 85, §9, 41 Stat. 440; June 3, 1948, ch. 379, §2, 62 Stat. 290; Pub. L. 86–391, §1(a), Mar. 18, 1960, 74 Stat. 7.)
 
 #### Amendments
 

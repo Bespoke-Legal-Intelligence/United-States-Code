@@ -14,7 +14,7 @@ Wisconsin is divided into two judicial districts to be known as the Eastern and 
 
 &emsp;&emsp;Court for the Western District shall be held at Eau Claire, La Crosse, Madison, Superior, and Wausau.
 
-(June 25, 1948, ch. 646, 62 Stat. 894; Aug. 6, 1962, Pub. L. 87–573, 76 Stat. 307.)
+(June 25, 1948, ch. 646, 62 Stat. 894; Pub. L. 87–573, Aug. 6, 1962, 76 Stat. 307.)
 
 #### Historical and Revision Notes
 
@@ -32,5 +32,5 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1962—Subsec. (a). Pub. L. 87–573 inserted reference to Menominee county.
+<b>1962</b>—Subsec. (a). Pub. L. 87–573 inserted reference to Menominee county.
 

@@ -2,7 +2,7 @@
 
 Not more than 10 per centum of the total amount appropriated for the purposes of this chapter may be used for making grants to any one State.
 
-(Pub. L. 88–560, title VII, §805, formerly §804, Sept. 2, 1964, 78 Stat. 803; Pub. L. 90–19, §21(d), May 25, 1967, 81 Stat. 26; Pub. L. 91–152, title III, §307, Dec. 24, 1969, 83 Stat. 394; renumbered §805, Pub. L. 93–383, title IV, §402(c)(1), Aug. 22, 1974, 88 Stat. 692.)
+(Pub. L. 88–560, title VII, §805, formerly §804, Sept. 2, 1964, 78 Stat. 803; Pub. L. 90–19, §21(d),May 25, 1967, 81 Stat. 26; Pub. L. 91–152, title III, §307, Dec. 24, 1969, 83 Stat. 394; renumbered §805, Pub. L. 93–383, title IV, §402(c)(1), Aug. 22, 1974, 88 Stat. 692.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@
 
 (d) A person serving in a legal, medical, fiduciary, or other capacity, may not demand or accept a fee, commission, or other charge for any service performed under this chapter.
 
-(e) This section does not apply in any case in which a legal committee, guardian, or other representative has been appointed by a court ofcompetent jurisdiction, except as to payments made before the paying agency of the department concerned receives notice of that appointment.
+(e) This section does not apply in any case in which a legal committee, guardian, or other representative has been appointed by a court of competent jurisdiction, except as to payments made before the paying agency of the department concerned receives notice of that appointment.
 
 (f) A person who is designated to receive payments under this section shall furnish satisfactory assurance that the amounts received by him will be applied to the use and benefit of the incompetent member, and, where the payments may reasonably be expected to be more than $1,000, shall provide a suitable bond to be paid for out of amounts due the incompetent member.
 

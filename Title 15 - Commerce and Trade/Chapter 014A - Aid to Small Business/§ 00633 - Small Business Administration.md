@@ -6,7 +6,7 @@ In order to carry out the policies of this chapter there is created an agency un
 
 #### (b) Appointment of Administrator, Deputy Administrator, and Associate Administrators; duties of Administrator: preparation of data base and publication of economic indices and annual report; risk management database; computer security and education program
 
-(1) The management of the Administration shall be vested in an Administrator who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate, and who shall be a person of outstanding qualifications known to be familiar and sympathetic with small-business needs and problems. The Administrator shall not engage in any other business, vocation, or employment than that of serving as Administrator. In carrying out the programs administered by the Small Business Administration including its lending and guaranteeing functions, the Administrator shall not discriminate on the basis of sex or marital status against any person or small business concern applying for or receiving assistance from the Small Business Administration, and the Small Business Administration shall give special consideration to veterans of the Armed Forces of the United States and their survivors or dependents. The President also may appoint a Deputy Administrator, by and with the advice and consent of the Senate. The Administrator is authorized to appoint four Associate Administrators (including the Associate Administrator specified in section 671 of this title) to assist in the execution of the functions vested in the Administration. One of the Associate Administrators shall be designated at the time of his appointment as the Associate Administrator for Minority Small Business and Capital Ownership Development who shall be an employee in the competitive service or in the Senior Executive Service and a career appointee and shall be responsible to the Administrator for the formulation and execution of the policies and programsunder sections 636(j) and 637(a) of this title which provide assistance to minority small business concerns. The Deputy Administrator shall be Acting Administrator of the Administration during the absence or disability of the Administrator or in the event of a vacancy in the office of the Administrator.
+(1) The management of the Administration shall be vested in an Administrator who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate, and who shall be a person of outstanding qualifications known to be familiar and sympathetic with small-business needs and problems. The Administrator shall not engage in any other business, vocation, or employment than that of serving as Administrator. In carrying out the programs administered by the Small Business Administration including its lending and guaranteeing functions, the Administrator shall not discriminate on the basis of sex or marital status against any person or small business concern applying for or receiving assistance from the Small Business Administration, and the Small Business Administration shall give special consideration to veterans of the Armed Forces of the United States and their survivors or dependents. The President also may appoint a Deputy Administrator, by and with the advice and consent of the Senate. The Administrator is authorized to appoint four Associate Administrators (including the Associate Administrator specified in section 671 of this title) to assist in the execution of the functions vested in the Administration. One of the Associate Administrators shall be designated at the time of his appointment as the Associate Administrator for Minority Small Business and Capital Ownership Development who shall be an employee in the competitive service or in the Senior Executive Service and a career appointee and shall be responsible to the Administrator for the formulation and execution of the policies and programs under sections 636(j) and 637(a) of this title which provide assistance to minority small business concerns. The Deputy Administrator shall be Acting Administrator of the Administration during the absence or disability of the Administrator or in the event of a vacancy in the office of the Administrator.
 
 (2) The Administrator also shall be responsible for—
 
@@ -106,7 +106,7 @@ Deadline for operational capability.—The database established under subparagra
 
 (4) The Administration shall submit to the Committees on Appropriations, Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives, as soon as possible after the beginning of each calendar quarter, a full and complete report on the status of each of the funds established by paragraph (1). Business-type budgets for each of the funds established by paragraph (1) shall be prepared, transmitted to the Committees on Appropriations, the Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives, and considered, and enacted in the manner prescribed by law (sections 9103 and 9104 of title 31) for wholly owned Government corporations.
 
-(5)(A) The Administration is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under the revolving funds created by paragraph (1) and for authorized expenditures out of the funds. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Administration with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Administration under this paragraph. The Secretary of the Treasury is authorized and directed to purchase any notes of the Administration issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Administration. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+(5)(A) The Administration is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under the revolving funds created by paragraph (1) and for authorized expenditures out of the funds. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Administration with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Administration under this paragraph. The Secretary of the Treasury is authorized and directed to purchase any notes of the Administration issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from thesale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Administration. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States. All borrowing authority contained herein shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 (B)(i) Moneys in the funds established in paragraph (1) not needed for current operations may be paid into miscellaneous receipts of the Treasury.
 
@@ -136,13 +136,13 @@ Notwithstanding any other provision of law, the Administration is prohibited fro
 
 &emsp;&emsp;(C) repayment agreement entered into between the recipient and the custodial parent or State agency providing child support enforcement services,
 
-> &emsp;that requires the recipient to pay child support, as such term is defined in section 662(b) of title 42.
+> &emsp;that requires the recipient to pay child support, as such term is defined in section 662(b) <sup>1</sup> of title 42.
 
 #### (2) Enforcement
 
 &emsp;Not later than 6 months after October 22, 1994, the Administration shall promulgate such regulations as may be necessary to enforce compliance with the requirements of this subsection.
 
-(Pub. L. 85–536, §2\[4\], July 18, 1958, 72 Stat. 384; Pub. L. 85–699, title II, §202, formerly §202(a), Aug. 21, 1958, 72 Stat. 690, renumbered Pub. L. 87–341, §11(h)(1), Oct. 3, 1961, 75 Stat. 757; amended Pub. L. 86–367, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 87–70, title III, §305(c), June 30, 1961, 75 Stat. 167; Pub. L. 87–198, Sept. 5, 1961, 75 Stat. 468; Pub. L. 87–305, §3, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–341, §§11(h)(3), (4), 12, Oct. 3, 1961, 75 Stat. 757; Pub. L. 87–550, §1(a), July 25, 1962, 76 Stat. 220; Pub. L. 89–59, §§1(c), 2, June 30, 1965, 79 Stat. 207; Pub. L. 89–78, July 21, 1965, 79 Stat. 243; Pub. L. 89–117, title III, §316(d), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–334, Nov. 8, 1965, 79 Stat. 1294; Pub. L. 89–409, §§1, 2, May 2, 1966, 80 Stat. 132; Pub. L. 89–779, §8(a), (b), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–104, title I, §102, Oct. 11, 1967, 81 Stat. 268; Pub. L. 90–448, title XVII, §1721, Aug. 1, 1968, 82 Stat. 610; Pub. L. 91–173, title V, §504(c), Dec. 30, 1969, 83 Stat. 802; Pub. L. 91–558, title I, §101, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 91–596, §28(c), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 91–597, §25(c), Dec. 29, 1970, 84 Stat. 1634; Pub. L. 92–16, May 18, 1971, 85 Stat. 39; Pub. L. 92–320, §1, June 27, 1972, 86 Stat. 382; Pub. L. 92–385, §2(b), Aug. 16, 1972, 86 Stat. 556; Pub. L. 92–500, §8(b), Oct. 18, 1972, 86 Stat. 899; Pub. L. 92–595, §3(a), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 93–237, §§1, 3(b), 8, Jan. 2, 1974, 87 Stat. 1023–1025; Pub. L. 93–386, §§2(a)(2), (3), 7, Aug. 23, 1974, 88 Stat. 742, 748; Pub. L. 94–273, §2(5), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–14, §§1–3, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, §101(a)–(c), title II, §§201, 202, title III, §304, title IV, §401, Aug. 4, 1977, 91 Stat. 553, 557, 559; Pub. L. 95–315, §4, July 4, 1978, 92 Stat. 379; Pub. L. 95–507, title II, §206, Oct. 24, 1978, 92 Stat. 1766; Pub. L. 96–302, title I, §121, title IV, §401, July 2, 1980, 94 Stat. 842, 849; Pub. L. 96–481, title I, §103, Oct. 21, 1980, 94 Stat. 2321; Pub. L. 97–35, title XIX, §§1908, 1913(b), 1915, Aug. 13, 1981, 95 Stat. 778, 780; Pub. L. 98–270, title III, §306, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–352, §5, July 10, 1984, 98 Stat. 331; Pub. L. 98–362, §§3, 4, July 16, 1984, 98 Stat. 431, 433; Pub. L. 100–590, title I, §111(a), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 100–656, title IV, §401(a), Nov. 15, 1988, 102 Stat. 3873; Pub. L. 101–37, §11(a), June 15, 1989, 103 Stat. 73; Pub. L. 101–515, title V, §1(a), Nov. 5, 1990, 104 Stat. 2140; Pub. L. 101–574, title II, §221(a), Nov. 15, 1990, 104 Stat. 2823; Pub. L. 102–140, title VI, §609(k), Oct. 28, 1991, 105 Stat. 831; Pub. L. 103–403, title VI, §§601, 611, 612, Oct. 22, 1994, 108 Stat. 4201, 4204; Pub. L. 104–208, div. D, title I, §102, Sept. 30, 1996, 110 Stat. 3009–725.)
+(Pub. L. 85–536, §2\[4\], July 18, 1958, 72 Stat. 384; Pub. L. 85–699, title II, §202, formerly §202(a), Aug. 21, 1958, 72 Stat. 690, renumbered Pub. L. 87–341, §11(h)(1), Oct. 3, 1961, 75 Stat. 757; amended Pub. L. 86–367, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 87–70, title III, §305(c), June 30, 1961, 75 Stat. 167; Pub. L. 87–198, Sept. 5, 1961, 75 Stat. 468; Pub. L. 87–305, §3, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–341, §§11(h)(3), (4), 12, Oct. 3, 1961, 75 Stat. 757; Pub. L. 87–550, §1(a), July 25, 1962, 76 Stat. 220; Pub. L. 89–59, §§1(c), 2, June 30, 1965, 79 Stat. 207; Pub. L. 89–78, July 21, 1965, 79 Stat. 243; Pub. L. 89–117, title III, §316(d), Aug. 10, 1965, 79 Stat. 484; Pub. L. 89–334, Nov. 8, 1965, 79 Stat. 1294; Pub. L. 89–409, §§1, 2, May 2, 1966, 80 Stat. 132; Pub. L. 89–779, §8(a), (b), Nov. 6, 1966, 80 Stat. 1364; Pub. L. 90–104, title I, §102, Oct. 11, 1967, 81 Stat. 268; Pub. L. 90–448, title XVII, §1721, Aug. 1, 1968, 82 Stat. 610; Pub. L. 91–173, title V, §504(c), Dec. 30, 1969, 83 Stat. 802; Pub. L. 91–558, title I, §101, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 91–596, §28(c), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 91–597, §25(c), Dec. 29, 1970, 84 Stat. 1634; Pub. L. 92–16, May 18, 1971, 85 Stat. 39; Pub. L. 92–320, §1, June 27, 1972, 86 Stat. 382; Pub. L. 92–385, §2(b), Aug. 16, 1972, 86 Stat. 556; Pub. L. 92–500, §8(b), Oct. 18, 1972, 86 Stat. 899; Pub. L. 92–595, §3(a), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 93–237, §§1, 3(b), 8, Jan. 2, 1974, 87 Stat. 1023–1025; Pub. L. 93–386, §§2(a)(2), (3), 7, Aug. 23, 1974, 88 Stat. 742, 748; Pub. L. 94–273, §2(5), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–14, §§1–3, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, §101(a)–(c), title II, §§201, 202, title III, §304, title IV, §401, Aug. 4, 1977, 91 Stat. 553, 557, 559; Pub. L. 95–315, §4, July 4, 1978, 92 Stat. 379; Pub. L. 95–507, title II, §206, Oct. 24, 1978, 92 Stat. 1766; Pub. L. 96–302, title I, §121, title IV, §401, July 2, 1980, 94 Stat. 842, 849; Pub. L. 96–481, title I, §103, Oct. 21, 1980, 94 Stat. 2321; Pub. L. 97–35, title XIX, §§1908, 1913(b), 1915, Aug. 13, 1981, 95 Stat. 778, 780; Pub. L. 98–270, title III, §306, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–352, §5, July 10, 1984, 98 Stat. 331; Pub. L. 98–362, §§3, 4,July 16, 1984, 98 Stat. 431, 433; Pub. L. 100–590, title I, §111(a), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 100–656, title IV, §401(a), Nov. 15, 1988, 102 Stat. 3873; Pub. L. 101–37, §11(a), June 15, 1989, 103 Stat. 73; Pub. L. 101–515, title V, §1(a), Nov. 5, 1990, 104 Stat. 2140; Pub. L. 101–574, title II, §221(a), Nov. 15, 1990, 104 Stat. 2823; Pub. L. 102–140, title VI, §609(k), Oct. 28, 1991, 105 Stat. 831; Pub. L. 103–403, title VI, §§601, 611, 612, Oct. 22, 1994, 108 Stat. 4201, 4204; Pub. L. 104–208, div. D, title I, §102, Sept. 30, 1996, 110 Stat. 3009–725.)
 
 #### References in Text
 
@@ -151,6 +151,8 @@ The effective date of this paragraph, referred to in subsec. (c)(3), is July 1, 
 The Small Business Investment Act of 1958, referred to in subsecs. (b)(3)(A) and (c)(1), (2), (5)(C), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended. Titles III, IV, and V of the Act are classified generally to subchapters III (§681 et seq.), IV (§692 et seq.), and V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 Sections 636(e) and 636(<i>l</i>) of this title, referred to in subsec. (c)(2)(B), were amended generally to read “\[RESERVED\].” by Pub. L. 104–208, div. D, title I, §107(b), (d), Sept. 30, 1996, 110 Stat. 3009–732.
+
+Section 662 of title 42, referred to in subsec. (f)(1), was repealed by Pub. L. 104–193, title III, §362(b)(1), Aug. 22, 1996, 110 Stat. 2246.
 
 #### Codification
 
@@ -204,7 +206,7 @@ Subsec. (c)(5). Pub. L. 96–302, §121, inserted provisions other than subpar. 
 
 Subsec. (c)(1)(B), (2)(B). Pub. L. 95–315 inserted reference to section 636(<i>l</i>).
 
-1977—Subsec. (c)(1). Pub. L. 95–89, §§101(a), 304, 401(1), struck out end text from cls. (A) and (B) reading “, including administrative expenses in connection with such functions”; inserted in cl. (A) reference to section 634(e); and inserted in cl. (A) and struck out from cl. (B) reference to section 636(b)(3).
+1977—Subsec. (c)(1). Pub. L. 95–89, §§101(a), 304, 401(1), struck out end text from cls. (A) and (B) reading“, including administrative expenses in connection with such functions”; inserted in cl. (A) reference to section 634(e); and inserted in cl. (A) and struck out from cl. (B) reference to section 636(b)(3).
 
 Subsec. (c)(2). Pub. L. 95–89, §§201, 304, 401(2), inserted in cl. (A) reference to section 636(g); inserted in cl. (A) reference to section 634(e); and inserted in cl. (A) and struck out from cl. (B) reference to section 636(b)(3).
 
@@ -266,7 +268,7 @@ Subsec. (c)(4). Pub. L. 91–558 substituted “$2,200,000,000” for “$1,900,
 
 Subsec. (c). Pub. L. 89–409, §1, increased by $125 million the appropriation authorization for the single SBA fund from $1,841 million to $1,966 million and the authorization for outstanding loans and commitments for regular business loans, disaster loans, and prime contract authority from $1,375 million to $1,500 million.
 
-Pub. L. 89–409, §2, provided for a disaster loan fund and business loan and investment fund in place of one prior SBA fund, incorporated existing provisions in par. (2), provided for allocation of unexpended balances of appropriations for prior single fund and for an appropriation authorization in par. (3), removed disaster loans from any limitation, provided limitations in par. (4) of $1,400 million for regular business loans, displaced business disaster loans, trade adjustment loans, prime contract authority, and loans under title IV of the Economic Opportunity Act of 1964, $400 million for small business investment companies, $200 million for loans to State and local development companies, $100 million for loans under title IV of the Economic Opportunity Act of 1964, incorporated existing reporting provisions in par. (4), including additional requirement of inclusion of recommendations whenever 75 percent of any ceiling in outstanding obligations is exceeded, required establishment of business-type loans, and incorporated existing provisions in par. (6).
+Pub. L. 89–409, §2, provided for a disaster loan fund and business loan and investment fund in place of one prior SBA fund, incorporated existing provisions in par. (2), provided for allocation of unexpended balances of appropriations for prior single fund and for an appropriation authorization in par. (3), removed disaster loans from any limitation, provided limitations in par.\(4) of $1,400 million for regular business loans, displaced business disaster loans, trade adjustment loans, prime contract authority, and loans under title IV of the Economic Opportunity Act of 1964, $400 million for small business investment companies, $200 million for loans to State and local development companies, $100 million for loans under title IV of the Economic Opportunity Act of 1964, incorporated existing reporting provisions in par. (4), including additional requirement of inclusion of recommendations whenever 75 percent of any ceiling in outstanding obligations is exceeded, required establishment of business-type loans, and incorporated existing provisions in par. (6).
 
 1965—Subsec. (c). Pub. L. 89–334 substituted “$1,841,000,000” for “$1,721,000,000”.
 
@@ -318,7 +320,7 @@ Section 7 of Pub. L. 98–362, as amended by Pub. L. 100–590, title I, §131(a
 
 \[Section 401(b) of Pub. L. 103–403, which directed that section 7(b) of Pub. L. 98–362, set out above, be amended in the second sentence by striking out “and the amendments made to section 8(b)(1)(A) of the Small Business Act by section 5(a)(2) of this Act are” and inserting “is”, could not be executed, because the language sought to be struck out begins with “The amendments” and not “and the amendments”, and because the amendment would result in an incomplete sentence.\]
 
-Amendment by Pub. L. 98–270 effective Oct. 1, 1983, see section 313 of Pub. L. 98–270, set out as an Effective Date of 1984 Amendments note under section 632 of this title.
+Amendment by Pub. L. 98–270 effective Oct. 1, 1983, see section 313 of Pub. L. 98–270, set out as an EffectiveDate of 1984 Amendments note under section 632 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -346,6 +348,68 @@ Section 2 of Pub. L. 89–408 provided that the amendment made by that section i
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Transfer of Functions
+
+Functions, powers, and duties of Office of Audits and Investigations in Small Business Administration transferred to Office of Inspector General in Small Business Administration, as established by Pub. L. 95–452, §2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(M) of Pub. L. 95–452 set out in the Appendix to Title 5.
+
+Loan Policy Board, provided for in subsec. (d) of this section, abolished and functions, including functions of chairman and other officers, transferred to Administrator of Small Business Administration by sections 11(b) and 13(a) of Reorg. Plan No. 4 of 1965, eff. July 27, 1965, 30 F.R. 9353, 79 Stat. 1321, set out in the Appendix to Title 5.
+
+#### Completion of Planning for Loan Monitoring System
+
+Pub. L. 105–135, title II, §233, Dec. 2, 1997, 111 Stat. 2607, provided that:
+
+“(a)
+
+In General.—The Administrator shall perform and complete the planning needed to serve as the basis for funding the development and implementation of the computerized loan monitoring system, including—
+
+&emsp;“(1) fully defining the system requirement using on-line, automated capabilities to the extent feasible;
+
+&emsp;“(2) identifying all data inputs and outputs necessary for timely report generation;
+
+&emsp;“(3) benchmark loan monitoring business processes and systems against comparable industry processes and, if appropriate, simplify or redefine work processes based on these benchmarks;
+
+&emsp;“(4) determine data quality standards and control systems for ensuring information accuracy;
+
+&emsp;“(5) identify an acquisition strategy and work increments to completion;
+
+&emsp;“(6) analyze the benefits and costs of alternatives and use to demonstrate the advantage of the final project;
+
+&emsp;“(7) ensure that the proposed information system is consistent with the agency's information architecture; and
+
+&emsp;“(8) estimate the cost to system completion, identifying the essential cost element.
+
+“(b)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—On the date that is 6 months after the date of enactment of this Act \[Dec. 2, 1997\], the Administrator shall submit a report on the progress of the Administrator in carrying out subsection (a) to—
+
+&emsp;&emsp;“(A) the Committees; and
+
+&emsp;&emsp;“(B) the Comptroller General of the United States.
+
+&emsp;“(2)
+
+Evaluation.—Not later than 28 days after receipt of the report under paragraph (1)(B), the Comptroller General of the United States shall—
+
+&emsp;&emsp;“(A) prepare a written evaluation of the report for compliance with subsection (a); and
+
+&emsp;&emsp;“(B) submit the evaluation to the Committees.
+
+&emsp;“(3)
+
+Limitation.—None of the funds provided for the purchase of the loan monitoring system may be obligated or expended until 45 days after the date on which the Committees and the Comptroller General of the United States receive the report under paragraph (1).”
+
+#### Associate Administrator for Minority Small Business and Capital Ownership Development
+
+Section 401(b) of Pub. L. 100–656, as amended by Pub. L. 101–37, §11(b), June 15, 1989, 103 Stat. 73, provided that: “The position of Associate Administrator for Minority Small Business and Capital Ownership Development referred to in paragraph (1) of section 4(b) of the Small Business Act \[15 U.S.C. 633(b)(1)\] shall be a career reserved position.”
+
+#### Availability of Funds
+
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 396, provided in part that: “hereafter, notwithstanding any law, rule or regulation, moneys in any fund established by the Small Business Act \[15 U.S.C. 631 et seq.\] which are not needed for current operations shall remain in such funds and shall be available solely to carry out the provisions and purposes of programs operated from such funds pursuant to law as provided in appropriations Acts.”
+
 #### Finding and Purpose of 1984 Amendment
 
 Section 2 of Pub. L. 98–362 provided that:
@@ -369,20 +433,6 @@ Section 2 of Pub. L. 98–362 provided that:
 &emsp;“(2) to educate and encourage small businesses to protect such technology from intentional or unintentional manipulation or destruction; and
 
 &emsp;“(3) to permit cooperation with profitmaking organizations in providing management assistance to small business.”
-
-#### Transfer of Functions
-
-Functions, powers, and duties of Office of Audits and Investigations in Small Business Administration transferred to Office of Inspector General in Small Business Administration, as established by Pub. L. 95–452, §2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(M) of Pub. L. 95–452 set out in the Appendix to Title 5.
-
-Loan Policy Board, provided for in subsec. (d) of this section, abolished and functions, including functions of chairman and other officers, transferred to Administrator of Small Business Administration by sections 11(b) and 13(a) of Reorg. Plan No. 4 of 1965, eff. July 27, 1965, 30 F.R. 9353, 79 Stat. 1321, set out in the Appendix to Title 5.
-
-#### Associate Administrator for Minority Small Business and Capital Ownership Development
-
-Section 401(b) of Pub. L. 100–656, as amended by Pub. L. 101–37, §11(b), June 15, 1989, 103 Stat. 73, provided that: “The position of Associate Administrator for Minority Small Business and Capital Ownership Development referred to in paragraph (1) of section 4(b) of the Small Business Act \[15 U.S.C. 633(b)(1)\] shall be a career reserved position.”
-
-#### Availability of Funds
-
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 396, provided in part that: “hereafter, notwithstanding any law, rule or regulation, moneys in any fund established by the Small Business Act \[15 U.S.C. 631 et seq.\] which are not needed for current operations shall remain in such funds and shall be available solely to carry out the provisions and purposes of programs operated from such funds pursuant to law as provided in appropriations Acts.”
 
 #### Audit by General Accounting Office of Small Business Administration; Report to Congress
 

@@ -120,7 +120,7 @@ Functions vested in Office of Personnel Management under this section insofar as
 
 Pub. L. 97–253, title III, §310(b), Sept. 8, 1982, 96 Stat. 799, as amended by Pub. L. 97–346, §3(<i>l</i>), Oct. 15, 1982, 96 Stat. 1649; Pub. L. 98–117, §1, Oct. 11, 1983, 97 Stat. 802, provided that:
 
-“(1) Notwithstanding any other provision of law, effective with respect to pay periods beginning in fiscal years 1984 and 1985, and applicable in the case of an employee as defined in section 5504(b) of title 5, United States Code \[subsection (b) of this section\], any hourly rate derived under section 5504(b)(1) of title 5, United States Code, shall be derived by dividing the annual rate of basic pay by 2,087.
+“(1) Notwithstanding any other provision of law, effective with respect to pay periods beginning in fiscalyears 1984 and 1985, and applicable in the case of an employee as defined in section 5504(b) of title 5, United States Code \[subsection (b) of this section\], any hourly rate derived under section 5504(b)(1) of title 5, United States Code, shall be derived by dividing the annual rate of basic pay by 2,087.
 
 “(2) Paragraph (1) shall not apply in determining basic pay for purposes of subchapter III of chapter 83 of title 5, United States Code.
 

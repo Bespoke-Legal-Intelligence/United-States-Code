@@ -14,7 +14,7 @@ If, within one year following August 8, 1958, the Government of Czechoslovakia v
 
 #### (d) Deposit of net proceeds into Fund
 
-Upon the expiration of one year after August 8, 1958 if no settlement with Czechoslovakia of the type specified in subsection (c) of this section has occurred, all moneys held pursuant to subsection (a) of this section except amountsheld in reserve pursuant to section 1642b of this title, shall be covered into the Czechoslovakian Claims Fund.
+Upon the expiration of one year after August 8, 1958 if no settlement with Czechoslovakia of the type specified in subsection (c) of this section has occurred, all moneys held pursuant to subsection (a) of this section except amounts held in reserve pursuant to section 1642b of this title, shall be covered into the Czechoslovakian Claims Fund.
 
 #### (e) Deductions for expenses
 
@@ -24,7 +24,7 @@ The Secretary of the Treasury shall deduct from the Czechoslovakian Claims Fund 
 
 After the deduction for administrative expenses pursuant to subsection (e) of this section, and after payment of awards certified pursuant to section 1642i of this title, the balance remaining in the Fund, if any, shall be paid to Czechoslovakia in accordance with instructions to be provided by the Secretary of State.
 
-(Mar. 10, 1950, ch. 54, title IV, §402, as added Aug. 8, 1958, Pub. L. 85–604, §1, 72 Stat. 527.)
+(Mar. 10, 1950, ch. 54, title IV, §402, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 527.)
 
 #### References in Text
 

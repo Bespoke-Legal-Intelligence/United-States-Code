@@ -12,7 +12,7 @@
 
 &emsp;(2) provisions authorizing the Postal Service to terminate the agreement, and the services provided thereunder, in the event that the Department of State does not comply with the provisions under paragraph (1); and
 
-&emsp;(3) any other provisions which may be necessary, including provisions relating to the closing of a post office under this section if necessary because a post office under section 406 is established in the same location.
+&emsp;(3) any other provisions which may be necessary, including provisions relating to theclosing of a post office under this section if necessary because a post office under section 406 is established in the same location.
 
 (Added Pub. L. 101–524, §5(a), Nov. 6, 1990, 104 Stat. 2303.)
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) instituted, after October 24, 1972, a policy or practice with respect to the payment of tuition, fees, or other charges in the case of eligible veterans and the Secretary finds that the effect of such policy or practice substantially denies to veterans the benefits of the advance allowances under such section,
 
-> the Secretary may disapprove such educational institution for the enrollment of any eligibleveteran or eligible person not already enrolled therein under this chapter or chapter 31, 34, or 35 of this title.
+> the Secretary may disapprove such educational institution for the enrollment of any eligible veteran or eligible person not already enrolled therein under this chapter or chapter 31, 34, or 35 of this title.
 
 ### Discontinuance of Allowances
 
@@ -20,7 +20,7 @@
 
 (B) Action may be taken under subparagraph (A) of this paragraph only after—
 
-&emsp;(i) the Secretary provides to the State approving agency concerned and the educational institution concerned written notice of any such failure to meet such approval requirements and any such violation of such recordkeeping or reporting requirements;
+&emsp;(i) the Secretary provides to the State approving agency concerned and the educationalinstitution concerned written notice of any such failure to meet such approval requirements and any such violation of such recordkeeping or reporting requirements;
 
 &emsp;(ii) such institution refuses to take corrective action or does not within 60 days after such notice (or within such longer period as the Secretary determines is reasonable and appropriate) take corrective action; and
 

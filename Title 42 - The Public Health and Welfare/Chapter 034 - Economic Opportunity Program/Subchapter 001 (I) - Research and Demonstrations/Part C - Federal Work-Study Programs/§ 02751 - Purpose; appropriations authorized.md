@@ -6,7 +6,7 @@ The purpose of this part is to stimulate and promote the part-time employment of
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this part, $800,000,000 for fiscal year1993 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out this part, $800,000,000 for fiscal year 1993 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 #### (c) “Community services” defined
 

@@ -46,5 +46,5 @@ Section 1999A of Pub. L. 101–624 provided that: “This subtitle \[subtitle H 
 
 This section is referred to in section 6403 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(7)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
 

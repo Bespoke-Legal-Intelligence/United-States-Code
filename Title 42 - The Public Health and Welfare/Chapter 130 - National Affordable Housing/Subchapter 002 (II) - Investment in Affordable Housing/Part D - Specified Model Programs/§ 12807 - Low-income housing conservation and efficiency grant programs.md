@@ -18,7 +18,7 @@ The model program shall provide for—
 
 &emsp;(2) repairs that will significantly prolong the habitability of units identified under paragraph (1), including roofing, electrical, plumbing, furnace, and foundation repairs or replacement that will prolong the use of the unit as a safe and energy-efficient residence for low-income persons; and
 
-&emsp;(3) reasonable steps to ensure that any units so repaired will remain occupied by persons orfamilies eligible for assistance under this subchapter.
+&emsp;(3) reasonable steps to ensure that any units so repaired will remain occupied by persons or families eligible for assistance under this subchapter.
 
 (Pub. L. 101–625, title II, §257, Nov. 28, 1990, 104 Stat. 4122.)
 

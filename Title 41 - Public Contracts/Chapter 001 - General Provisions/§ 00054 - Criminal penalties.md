@@ -2,7 +2,7 @@
 
 Any person who knowingly and willfully engages in conduct prohibited by section 53 of this title shall be imprisoned for not more than 10 years or shall be subject to a fine in accordance with title 18, or both.
 
-(Mar. 8, 1946, ch. 80, §4, 60 Stat. 38; Sept. 2, 1960, Pub. L. 86–695, 74 Stat. 741; Nov. 7, 1986, Pub. L. 99–634, §2(a), 100 Stat. 3524.)
+(Mar. 8, 1946, ch. 80, §4, 60 Stat. 38; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 741; Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3524.)
 
 #### Amendments
 

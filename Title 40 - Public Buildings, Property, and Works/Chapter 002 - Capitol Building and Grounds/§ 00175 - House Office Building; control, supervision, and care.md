@@ -42,7 +42,7 @@ Disposal of Real Property.—
 
 &emsp;“(1)
 
-In general.—The Architect of the Capitol shall dispose of by sale at fair market value all right, title, and interest of the United States in and to the parcel of real property described in paragraph (9), including all improvements to such real property. Such disposal shall be made by quitclaim deed.
+In general.—The Architect of the Capitol shall dispose of by sale at fair market value all right, title,and interest of the United States in and to the parcel of real property described in paragraph (9), including all improvements to such real property. Such disposal shall be made by quitclaim deed.
 
 &emsp;“(2)
 
@@ -172,7 +172,7 @@ Act July 11, 1947, ch. 227, 61 Stat. 312, authorized the Architect of the Capito
 
 Pub. L. 92–313, §8, June 16, 1972, 86 Stat. 222, provided that:
 
-“(a) Notwithstanding any other provision of law, the House Office Building Commission is authorized (1) touse, to such extent as it may deem necessary, for the purpose of providing office and other accommodations for the House of Representatives, the building, known as the Congressional Hotel, acquired by the Government in 1957 as part of Lot 20 in Square 692 in the District of Columbia under authority of the Additional House Office Building Act of 1955 \[set out as a note above\] and (2) to direct the Architect of the Capitol to lease, at fair market value, for such other use and under such terms and conditions and to such parties as such Commission may authorize, any space in such building not required for the aforesaid purpose.
+“(a) Notwithstanding any other provision of law, the House Office Building Commission is authorized (1) to use, to such extent as it may deem necessary, for the purpose of providing office and other accommodations for the House of Representatives, the building, known as the Congressional Hotel, acquired by the Government in 1957 as part of Lot 20 in Square 692 in the District of Columbia under authority of the Additional House Office Building Act of 1955 \[set out as a note above\] and (2) to direct the Architect of the Capitol to lease, at fair market value, for such other use and under such terms and conditions and to such parties as such Commission may authorize, any space in such building not required for the aforesaid purpose.
 
 “(b) Any space in such building used for office and other accommodations for the House of Representatives shall be deemed to be a part of the ‘House Office Buildings’ and, as such, shall be subject to the laws, rules, and regulations applicable to those buildings.”
 

@@ -24,7 +24,7 @@ An order issued under this subchapter may contain authority to reserve funds fro
 
 #### (1) Generic activities
 
-&emsp;An order issued under this subchapter may contain authority to provide credits of assessments for those individuals who contribute to other similar generic research, promotion, and information programs at the State, regional, or local level.
+&emsp;An order issued under this subchapter may contain authority to provide credits of assessments for those individuals who contribute toother similar generic research, promotion, and information programs at the State, regional, or local level.
 
 #### (2) Branded activities
 

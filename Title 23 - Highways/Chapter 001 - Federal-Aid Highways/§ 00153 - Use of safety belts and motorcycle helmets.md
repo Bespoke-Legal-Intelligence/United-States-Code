@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Make Grants.—The Secretary may make grants to a State in a fiscalyear in accordance with this section if the State has in effect in such fiscal year—
+Authority To Make Grants.—The Secretary may make grants to a State in a fiscal year in accordance with this section if the State has in effect in such fiscal year—
 
 &emsp;(1) a law which makes unlawful throughout the State the operation of a motorcycle if any individual on the motorcycle is not wearing a motorcycle helmet; and
 
@@ -96,7 +96,7 @@ Transfer of obligation authority.—If the Secretary transfers under this subsec
 
 &emsp;&emsp;(A) the amount of funds transferred to the apportionment of section 402 of the State under section 402 for such fiscal year; by
 
-&emsp;&emsp;(B) the ratio of the amount of obligation authority distributed for such fiscal year tothe State for Federal-aid highways and highway safety construction programs to the total of the sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to any obligation limitation) for such fiscal year.
+&emsp;&emsp;(B) the ratio of the amount of obligation authority distributed for such fiscal year to the State for Federal-aid highways and highway safety construction programs to the total of the sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to any obligation limitation) for such fiscal year.
 
 &emsp;(5)
 

@@ -21,12 +21,7 @@
 | [115\.](%C2%A7%2000115%20-%20Scope%20of%20exclusive%20rights%20in%20nondramatic%20musical%20works%20Compulsory%20license%20for%20making%20and%20distributing%20phonorecords.md) | Scope of exclusive rights in nondramatic musical works: Compulsory license for making and distributing phonorecords. |
 | [116\.](%C2%A7%2000116%20-%20Negotiated%20licenses%20for%20public%20performances%20by%20means%20of%20coin-operated%20phonorecord%20players.md) | Negotiated licenses for public performances by means of coin-operated phonorecord players. |
 | \[116A. | Renumbered.\] |
-| [117\.](%C2%A7%2000117%20-%20Limitations%20on%20exclusive%20rights%20Computer%20programs.md) | Scope of exclusive rights: Use in conjunction with computers and similar information systems.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [117\.](%C2%A7%2000117%20-%20Limitations%20on%20exclusive%20rights%20Computer%20programs.md) | Limitations on exclusive rights: Computer programs. |
 | [118\.](%C2%A7%2000118%20-%20Scope%20of%20exclusive%20rights%20Use%20of%20certain%20works%20in%20connection%20with%20noncommercial%20broadcasting.md) | Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting. |
 | [119\.](%C2%A7%2000119%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20of%20superstations%20and%20network%20stations%20for%20private%20home%20viewing.md) | Limitations on exclusive rights: Secondary transmissions of superstations and network stations for private home viewing. |
 | [120\.](%C2%A7%2000120%20-%20Scope%20of%20exclusive%20rights%20in%20architectural%20works.md) | Scope of exclusive rights in architectural works. |
@@ -36,11 +31,13 @@
 
 #### Amendments
 
+1997—Pub. L. 105–80, §12(a)(2), Nov. 13, 1997, 111 Stat. 1534, substituted “Limitations on exclusive rights: Computer programs” for “Scope of exclusive rights: Use in conjunction with computers and similar information systems” in item 117.
+
 1996—Pub. L. 104–197, title III, §316(b), Sept. 16, 1996, 110 Stat. 2417, added item 121.
 
 1994—Pub. L. 103–465, title V, §514(c), Dec. 8, 1994, 108 Stat. 4981, substituted “Copyright in restored works” for “Copyright in certain motion pictures” in item 104A.
 
-1993—Pub. L. 103–198, §3(a), (b)(2), Dec. 17, 1993, 107 Stat. 2309, renumbered item 116A as 116 and struck out former item 116 “Scope of exclusive rights in nondramatic musical works: Compulsory licenses for publicperformances by means of coin-operated phonorecord players.”
+1993—Pub. L. 103–198, §3(a), (b)(2), Dec. 17, 1993, 107 Stat. 2309, renumbered item 116A as 116 and struck out former item 116 “Scope of exclusive rights in nondramatic musical works: Compulsory licenses for public performances by means of coin-operated phonorecord players.”
 
 Pub. L. 103–182, title III, §334(b), Dec. 8, 1993, 107 Stat. 2115, added item 104A.
 
@@ -53,14 +50,6 @@ Pub. L. 100–568, §4(b)(2), Oct. 31, 1988, 102 Stat. 2857, substituted “Comp
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 912 of this title.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>3</sup></i><i> Editorially supplied. Chapter 10 added by Pub. L. 102–563 without corresponding amendment of title analysis.</i>
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

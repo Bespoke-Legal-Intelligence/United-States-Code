@@ -2122,6 +2122,14 @@
 | 450rr–4. | International agreement. |
 | 450rr–5. | Sense of Congress regarding conduct of future activities. |
 | 450rr–6. | Disclaimer of extraterritorial sovereignty. |
+| [450ss.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450ss%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
+| 450ss–1. | Definitions. |
+| 450ss–2. | Oklahoma City National Memorial. |
+| 450ss–3. | Oklahoma City National Memorial Trust. |
+| 450ss–4. | Duties and authorities of Trust. |
+| 450ss–5. | Limitations on funding. |
+| 450ss–6. | Alfred P. Murrah Federal Building. |
+| 450ss–7. | General Accounting Office study. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

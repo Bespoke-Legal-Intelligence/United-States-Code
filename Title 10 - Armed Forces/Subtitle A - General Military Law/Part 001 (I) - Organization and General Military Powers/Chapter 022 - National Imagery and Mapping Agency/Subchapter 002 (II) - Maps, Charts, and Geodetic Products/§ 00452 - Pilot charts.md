@@ -26,7 +26,7 @@ A prior section 452 was renumbered section 482 of this title.
 
 #### Amendments
 
-1996—Pub. L. 104–201 renumbered section 2793 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency” wherever appearing.
+1996—Pub. L. 104–201 renumbered section 2793 of this title as this section and substituted “National Imageryand Mapping Agency” for “Defense Mapping Agency” wherever appearing.
 
 #### Effective Date of 1996 Amendment
 

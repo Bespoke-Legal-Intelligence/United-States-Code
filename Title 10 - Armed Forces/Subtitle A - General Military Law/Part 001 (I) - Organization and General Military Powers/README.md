@@ -24,13 +24,15 @@
 | [<b>20.</b>](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
 | [<b>22.</b>](Chapter%20022%20-%20National%20Imagery%20and%20Mapping%20Agency/README.md) | <b>National Imagery and Mapping Agency</b> | <b>441</b> |
-| [<b>23.</b>](Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>471</b> |
+| [<b>23.</b>](Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>481</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1996—Pub. L. 104–201, div. A, title XI, §1123(a)(2), Sept. 23, 1996, 110 Stat. 2688, substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22 and added item for chapter 23.
+1997—Pub. L. 105–85, div. A, title X, §1073(a)(1), Nov. 18, 1997, 111 Stat. 1900, substituted “481” for “471” in item for chapter 23.
+
+1996—Pub. L. 104–201, div. A, title XI, §1123(a)(2), Sept. 23, 1996, 110 Stat. 2688, substituted “National Imageryand Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22 and added item for chapter 23.
 
 1994—Pub. L. 103–337, div. A, title V, §554(a)(2), Oct. 5, 1994, 108 Stat. 2773, added item for chapter 22.
 

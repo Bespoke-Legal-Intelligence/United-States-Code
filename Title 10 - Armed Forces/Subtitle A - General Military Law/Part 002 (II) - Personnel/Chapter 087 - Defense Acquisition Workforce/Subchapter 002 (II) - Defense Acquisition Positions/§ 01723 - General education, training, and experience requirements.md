@@ -14,9 +14,13 @@ Limitation on Credit for Training or Education.—Not more than one year of a pe
 
 1996—Subsec. (a). Pub. L. 104–201 struck out “Unless otherwise provided in this chapter, such requirements shall take effect not later than October 1, 1993.” after first sentence.
 
+#### Guidance and Standards for Defense Acquisition Workforce Training Requirements
+
+Pub. L. 105–85, div. A, title VIII, §853, Nov. 18, 1997, 111 Stat. 1851, provided that: “The Secretary of Defense shall develop appropriate guidance and standards to ensure that the Department of Defense will continue, where appropriate and cost-effective, to enter into contracts for the training requirements of sections 1723, 1724, and 1735 of title 10, United States Code, while maintaining appropriate control over the content and quality of such training.”
+
 #### Fulfillment Standards for Mandatory Training
 
-Pub. L. 102–484, div. A, title VIII, §812(c), Oct. 23, 1992, 106 Stat. 2451, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that:
+Pub. L. 102–484, div. A, title VIII, §812(c), Oct. 23, 1992, 106 Stat. 2451, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(2)(A), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
 “(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall develop fulfillment standards, and implement a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of title 10, United States Code. Such fulfillment standards shall consist of criteria for determining whether an individual has demonstrated competence in the areas that would be taught in the training courses required under those sections. If an individual meets the appropriate fulfillment standard, the applicable training requirement is fulfilled.
 

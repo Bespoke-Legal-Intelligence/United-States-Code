@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Pay and Applications for Payments.—Subject to amounts provided in an appropriation law, the Secretary of Labor shall make monthly assistance payments, moving expense payments, and reimbursement payments as provided under this section to an eligible protected employee whose employment is not ended for cause. The employee must apply to receivethe payments and cooperate with the Secretary in finding other employment.
+Authority To Pay and Applications for Payments.—Subject to amounts provided in an appropriation law, the Secretary of Labor shall make monthly assistance payments, moving expense payments, and reimbursement payments as provided under this section to an eligible protected employee whose employment is not ended for cause. The employee must apply to receive the payments and cooperate with the Secretary in finding other employment.
 
 (b)
 

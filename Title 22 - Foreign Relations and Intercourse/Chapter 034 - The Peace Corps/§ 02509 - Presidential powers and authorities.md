@@ -96,7 +96,7 @@ Funds available to President under this chapter allocated to and functions of Pr
 
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 
-Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authorities provided by the amendments made by subsection (a) \[enacting subsecs. (i) and (j) ofthis section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
+Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authorities provided by the amendments made by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
 
 #### Waiver of Certain Laws by President Under Subsec. (d)
 

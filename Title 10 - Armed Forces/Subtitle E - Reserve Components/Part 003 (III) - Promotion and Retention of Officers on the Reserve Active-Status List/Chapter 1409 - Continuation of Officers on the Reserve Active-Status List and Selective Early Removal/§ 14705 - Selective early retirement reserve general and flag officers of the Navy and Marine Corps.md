@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Consider.—An officer in the Naval Reserve in an active status serving in the grade of rear admiral (lower half) or rear admiral and an officer in the Marine Corps Reserve in an active status serving in the grade of brigadier general or major general may be considered forearly retirement whenever the Secretary of the Navy determines that such action is necessary.
+Authority To Consider.—An officer in the Naval Reserve in an active status serving in the grade of rear admiral (lower half) or rear admiral and an officer in the Marine Corps Reserve in an active status serving in the grade of brigadier general or major general may be considered for early retirement whenever the Secretary of the Navy determines that such action is necessary.
 
 (b)
 

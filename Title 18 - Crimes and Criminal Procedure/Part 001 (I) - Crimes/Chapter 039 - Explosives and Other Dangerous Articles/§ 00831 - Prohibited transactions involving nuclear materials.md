@@ -32,7 +32,7 @@
 
 &emsp;(7) attempts to commit an offense under paragraph (1), (2), (3), or (4) of this subsection; or
 
-&emsp;(8) is a party to a conspiracy of two or more persons to commit an offense under paragraph (1), (2), (3), or (4) of this subsection, if any of the parties intentionally engages in any conduct in furtherance of such offense;
+&emsp;(8) is a party to a conspiracy of two or more persons to commit an offense under paragraph (1), (2), (3), or (4) of this subsection, if any ofthe parties intentionally engages in any conduct in furtherance of such offense;
 
 > shall be punished as provided in subsection (b) of this section.
 
@@ -120,7 +120,7 @@
 
 &emsp;(2) the term “nuclear byproduct material” means any material containing any radioactive isotope created through an irradiation process in the operation of a nuclear reactor or accelerator;
 
-&emsp;(3) the term “international organization” means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs;
+&emsp;(3) the term “international organization” means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement underinternational law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs;
 
 &emsp;(4) the term “serious bodily injury” means bodily injury which involves—
 

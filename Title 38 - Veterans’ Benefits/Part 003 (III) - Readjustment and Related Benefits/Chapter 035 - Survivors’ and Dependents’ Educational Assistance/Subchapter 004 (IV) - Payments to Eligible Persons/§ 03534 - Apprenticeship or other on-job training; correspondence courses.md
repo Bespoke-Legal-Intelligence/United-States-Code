@@ -2,7 +2,7 @@
 
 (a) Any eligible person shall be entitled to pursue, in a State, a program of apprenticeship or other on-job training and be paid a training assistance allowance as provided in section 3687 of this title.
 
-(b) Any eligible spouse or surviving spouse shall be entitled to pursue a program of education exclusively by correspondence and be paid an educational assistance allowance as provided in section 3686 (other than subsection (a)(2)) of this title and the period of such spouse's entitlement shall be charged with one month for each $404 which is paid to the spouse as an educational assistance allowance for such course.
+(b) Any eligible spouse or surviving spouse shall be entitled to pursue a program of education exclusively by correspondence and be paid an educational assistance allowance as provided in section 3686 (other than subsection (a)(2)) of this title and the period of suchspouse's entitlement shall be charged with one month for each $404 which is paid to the spouse as an educational assistance allowance for such course.
 
 (Added Pub. L. 92–540, title III, §313, Oct. 24, 1972, 86 Stat. 1084, §1734; amended Pub. L. 94–502, title III, §310(19), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 101–237, title IV, §403(a)(9), Dec. 18, 1989, 103 Stat. 2079; renumbered §3534 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

@@ -151,6 +151,12 @@
 | (d) | Development and approval of plan. |
 | (e) | Availability of information to public. |
 | [181\.](%C2%A7%2000181%20-%20Program%20for%20exchange%20of%20information%20among%20legislative%20branch%20agencies.md) | Program for exchange of information among legislative branch agencies. |
+| [182\.](%C2%A7%2000182%20-%20Cooperative%20Acquisitions%20Program%20Revolving%20Fund.md) | Cooperative Acquisitions Program Revolving Fund. |
+| (a) | Establishment. |
+| (b) | Amounts deposited. |
+| (c) | Credits to revolving fund. |
+| (d) | Unobligated balances. |
+| (e) | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -266,3 +272,4 @@
 - [&sect; 00179w - Effective date](%C2%A7%2000179w%20-%20Effective%20date.md)
 - [&sect; 00180 - Legislative information retrieval system](%C2%A7%2000180%20-%20Legislative%20information%20retrieval%20system.md)
 - [&sect; 00181 - Program for exchange of information among legislative branch agencies](%C2%A7%2000181%20-%20Program%20for%20exchange%20of%20information%20among%20legislative%20branch%20agencies.md)
+- [&sect; 00182 - Cooperative Acquisitions Program Revolving Fund](%C2%A7%2000182%20-%20Cooperative%20Acquisitions%20Program%20Revolving%20Fund.md)

@@ -136,7 +136,7 @@
 | [2695a.](%C2%A7%2002695a%20-%20Foreign%20language%20services.md) | Foreign language services. |
 | (a) | Surcharge for certain foreign language services. |
 | (b) | Use of funds. |
-| [2695b.](%C2%A7%2002695b%20-%20Cost%20of%20presence%20of%20departments%20and%20agencies%20outside%20United%20States.md) | Cost of presence of departments and agencies outside United States. |
+| [2695b.](%C2%A7%2002695b%20-%20Omitted.md) | Cost of presence of departments and agencies outside United States. |
 | [2696\.](%C2%A7%2002696%20-%20Nondiscretionary%20personnel%20costs%2C%20currency%20fluctuations%2C%20and%20other%20contingencies.md) | Nondiscretionary personnel costs, currency fluctuations, and other contingencies. |
 | (a) | Additional appropriations. |
 | (b) | Appropriations authorization based on currency fluctuations. |
@@ -215,6 +215,10 @@
 | (d) | Emergency and humanitarian exceptions. |
 | (e) | Definitions. |
 | [2715\.](%C2%A7%2002715%20-%20Procedures%20regarding%20major%20disasters%20and%20incidents%20abroad%20affecting%20United%20States%20citizens.md) | Procedures regarding major disasters and incidents abroad affecting United States citizens. |
+| [2715a.](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%E2%80%99%20families.md) | Provision of information on certain violent crimes abroad to victims and victims’ families. |
+| (a) | Sense of Congress. |
+| (b) | Responsibility. |
+| (c) | Limitations. |
 | [2716\.](%C2%A7%2002716%20-%20Debt%20collection.md) | Debt collection. |
 | (a) | Contract authority. |
 | (b) | Disclosure of delinquent debt to credit reporting agencies. |
@@ -319,7 +323,7 @@
 - [&sect; 02694 - Limitation on purchase of gifts for foreign individuals; report to Speaker of the House and chairman of the Committee on Foreign Relations&#8230;](%C2%A7%2002694%20-%20Limitation%20on%20purchase%20of%20gifts%20for%20foreign%20individuals%3B%20report%20to%20Speaker%20of%20the%20House%20and%20chairman%20of%20the%20Committee%20on%20Foreign%20Relations%E2%80%A6.md)
 - [&sect; 02695 - Administrative services](%C2%A7%2002695%20-%20Administrative%20services.md)
 - [&sect; 02695a - Foreign language services](%C2%A7%2002695a%20-%20Foreign%20language%20services.md)
-- [&sect; 02695b - Cost of presence of departments and agencies outside United States](%C2%A7%2002695b%20-%20Cost%20of%20presence%20of%20departments%20and%20agencies%20outside%20United%20States.md)
+- [&sect; 02695b - Omitted](%C2%A7%2002695b%20-%20Omitted.md)
 - [&sect; 02696 - Nondiscretionary personnel costs, currency fluctuations, and other contingencies](%C2%A7%2002696%20-%20Nondiscretionary%20personnel%20costs%2C%20currency%20fluctuations%2C%20and%20other%20contingencies.md)
 - [&sect; 02697 - Acceptance of gifts on behalf of United States](%C2%A7%2002697%20-%20Acceptance%20of%20gifts%20on%20behalf%20of%20United%20States.md)
 - [&sect; 02698 - Procurement of legal services](%C2%A7%2002698%20-%20Procurement%20of%20legal%20services.md)
@@ -340,6 +344,7 @@
 - [&sect; 02713 - Protection of historic and artistic furnishings of reception areas of the Department of State Building](%C2%A7%2002713%20-%20Protection%20of%20historic%20and%20artistic%20furnishings%20of%20reception%20areas%20of%20the%20Department%20of%20State%20Building.md)
 - [&sect; 02714 - Denial of passports to certain convicted drug traffickers](%C2%A7%2002714%20-%20Denial%20of%20passports%20to%20certain%20convicted%20drug%20traffickers.md)
 - [&sect; 02715 - Procedures regarding major disasters and incidents abroad affecting United States citizens](%C2%A7%2002715%20-%20Procedures%20regarding%20major%20disasters%20and%20incidents%20abroad%20affecting%20United%20States%20citizens.md)
+- [&sect; 02715a - Provision of information on certain violent crimes abroad to victims and victims&#8217; families](%C2%A7%2002715a%20-%20Provision%20of%20information%20on%20certain%20violent%20crimes%20abroad%20to%20victims%20and%20victims%E2%80%99%20families.md)
 - [&sect; 02716 - Debt collection](%C2%A7%2002716%20-%20Debt%20collection.md)
 - [&sect; 02717 - Defense trade controls registration fees](%C2%A7%2002717%20-%20Defense%20trade%20controls%20registration%20fees.md)
 - [&sect; 02718 - Fees received for use of Blair House](%C2%A7%2002718%20-%20Fees%20received%20for%20use%20of%20Blair%20House.md)

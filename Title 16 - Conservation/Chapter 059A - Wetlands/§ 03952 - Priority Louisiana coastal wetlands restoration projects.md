@@ -4,7 +4,7 @@
 
 #### (1) Preparation of list
 
-&emsp;Within forty-five days after November 29, 1990, the Secretary shall convene the Task Force to initiate a process to identify and prepare a list of coastal wetlands restoration projects in Louisiana to provide for the long-term conservation of such wetlands and dependent fish and wildlife populations in order of priority, based on the cost-effectiveness ofsuch projects in creating, restoring, protecting, or enhancing coastal wetlands, taking into account the quality of such coastal wetlands, with due allowance for small-scale projects necessary to demonstrate the use of new techniques or materials for coastal wetlands restoration.
+&emsp;Within forty-five days after November 29, 1990, the Secretary shall convene the Task Force to initiate a process to identify and prepare a list of coastal wetlands restoration projects in Louisiana to provide for the long-term conservation of such wetlands and dependent fish and wildlife populations in order of priority, based on the cost-effectiveness of such projects in creating, restoring, protecting, or enhancing coastal wetlands, taking into account the quality of such coastal wetlands, with due allowance for small-scale projects necessary to demonstrate the use of new techniques or materials for coastal wetlands restoration.
 
 #### (2) Task Force procedures
 
@@ -90,7 +90,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (c) Coastal wetlands restoration project benefits
 
-Where such a determination is required under applicable law, the net ecological, aesthetic, and cultural benefits, together with the economic benefits, shall be deemed to exceed the costs of any coastal wetlands restoration project within the State which the Task Force finds to contribute significantly to wetlands restoration.
+Where such a determination is required under applicable law, the net ecological, aesthetic, and cultural benefits, together with the economic benefits, shall be deemed to exceed the costs of any coastal wetlands restoration project withinthe State which the Task Force finds to contribute significantly to wetlands restoration.
 
 #### (d) Consistency
 

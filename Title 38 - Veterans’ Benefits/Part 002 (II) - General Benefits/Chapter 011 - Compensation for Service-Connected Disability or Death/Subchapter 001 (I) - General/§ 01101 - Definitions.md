@@ -192,7 +192,7 @@ Policy Regarding Fiscal Year 1991.—The fiscal year 1991 cost-of-living adjustm
 
 “(b)
 
-Increase Payable as of January 1992.—The amount of compensation or dependency and indemnitycompensation payable to any individual for the month of January 1992 who is entitled to such benefits as of January 1, 1992, shall be increased for such month by the amount equal to the amount of the monthly increase provided for that individual's benefit level as of January 1, 1991, pursuant to the adjustments described in subsection (a).”
+Increase Payable as of January 1992.—The amount of compensation or dependency and indemnity compensation payable to any individual for the month of January 1992 who is entitled to such benefits as of January 1, 1992, shall be increased for such month by the amount equal to the amount of the monthly increase provided for that individual's benefit level as of January 1, 1991, pursuant to the adjustments described in subsection (a).”
 
 #### Benefits and Services for Former Prisoners of War; Implementation of Programs; Records for Disposition of Claims; Definition
 
@@ -220,5 +220,5 @@ Pub. L. 93–295, title II, §207, May 31, 1974, 88 Stat. 183, directed Administ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 sections 3501, 5532, 6303, 8332, 8411; title 50 section 2082.
+This section is referred to in title 5 sections 3501, 5532, 6303, 8332, 8411; title 8 sections 1612, 1613, 1622; title 50 section 2082.
 

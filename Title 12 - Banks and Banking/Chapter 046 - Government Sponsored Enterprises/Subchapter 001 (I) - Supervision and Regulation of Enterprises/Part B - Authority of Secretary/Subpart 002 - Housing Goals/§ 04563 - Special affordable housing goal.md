@@ -114,7 +114,7 @@
 
 #### (4) Implementation
 
-&emsp;The Secretary shall establish any requirements necessary to implement the transitionprovisions under this subsection by notice, after providing the enterprises with an opportunity to review and comment not less than 30 days before the issuance of such notice. Such notice shall be issued not later than the expiration of the 90-day period beginning upon October 28, 1992, and shall be effective upon issuance.
+&emsp;The Secretary shall establish any requirements necessary to implement the transition provisions under this subsection by notice, after providing the enterprises with an opportunity to review and comment not less than 30 days before the issuance of such notice. Such notice shall be issued not later than the expiration of the 90-day period beginning upon October 28, 1992, and shall be effective upon issuance.
 
 (Pub. L. 102–550, title XIII, §1333, Oct. 28, 1992, 106 Stat. 3958.)
 

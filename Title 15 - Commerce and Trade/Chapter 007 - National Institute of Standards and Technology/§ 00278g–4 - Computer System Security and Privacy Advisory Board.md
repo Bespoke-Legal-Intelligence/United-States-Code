@@ -34,7 +34,7 @@ The Board shall not act in the absence of a quorum, which shall consist of seven
 
 #### (e) Allowance for travel expenses
 
-Members of the Board, other than full-time employees of the Federal Government, while attending meetings of such committees or while otherwise performing duties at the request of the Board Chairman while away from their homes or a regular place of business, may be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5.
+Members of the Board, other than full-time employees of the Federal Government, while attending meetings of such committees or while otherwise performing duties at the request ofthe Board Chairman while away from their homes or a regular place of business, may be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5.
 
 #### (f) Staff services and utilization of Federal personnel
 
@@ -59,4 +59,8 @@ Advisory boards in existence on Jan. 5, 1973, to terminate not later than the ex
 #### Computer Security
 
 Nothing in amendment by Pub. L. 100–235 which enacted this section to be construed to constitute authority to withhold information sought under section 552 of Title 5, Government Organization and Employees, or to authorize any Federal agency to limit, restrict, regulate, or control collection, maintenance, disclosure, use, transfer, or sale of any information that is privately owned information, disclosable under section 552 of Title 5 or other law requiring or authorizing public disclosure of information, or public domain information, see section 8 of Pub. L. 100–235, set out as a note under section 1441 of Title 40, Public Buildings, Property, and Works.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 44 section 3504.
 

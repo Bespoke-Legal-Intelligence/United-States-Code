@@ -4,7 +4,7 @@ This corporation shall have the power at any time to consolidate with Women's Th
 
 The consolidation shall not be effected unless the agreement for consolidation is approved by act of the trustees of this corporation, who shall be the members of the corporation entitled to vote with respect to consolidation.
 
-Such trustees may act on any question respecting the consolidation by a resolution adopted by two-thirds of those present at any meeting of the board of trustees at which a quorum of ten is present. Written notice of the time, place, and purposes of such meeting shall be sent to each trustee at his last known address appearing on the books of the corporation by first-class mail, postage prepaid, at least ten days prior to the meeting.
+Such trustees may act on any question respecting the consolidation by a resolution adopted by two-thirds of those present at anymeeting of the board of trustees at which a quorum of ten is present. Written notice of the time, place, and purposes of such meeting shall be sent to each trustee at his last known address appearing on the books of the corporation by first-class mail, postage prepaid, at least ten days prior to the meeting.
 
 The consolidation shall be effected in the manner prescribed in this section and in the New York membership corporations law and shall become effective when a certificate of consolidation is filed pursuant to said law.
 

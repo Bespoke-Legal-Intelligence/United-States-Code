@@ -2,7 +2,7 @@
 
 Within sixty days after August 8, 1958, or of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under this subchapter, whichever date is later, the Commission shall give public notice by publication in the Federal Register of the time when, and the limit of time within which claims may be filed, which limit shall not be more than twelve months after such publication.
 
-(Mar. 10, 1950, ch. 54, title IV, §411, as added Aug. 8, 1958, Pub. L. 85–604, §1, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title IV, §411, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 529.)
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ To carry out this subchapter, there are authorized to be appropriated $4,000,000
 
 #### (4) Technical assistance for protection and advocacy systems
 
-&emsp;If technical assistance to improve the effectiveness of protection and advocacy systemsunder subchapter III of this chapter is provided under section 6042(c)(5) of this title—
+&emsp;If technical assistance to improve the effectiveness of protection and advocacy systems under subchapter III of this chapter is provided under section 6042(c)(5) of this title—
 
 &emsp;&emsp;(A) no funding for the provision of such technical assistance to protection and advocacy systems shall be provided under this subchapter; and
 

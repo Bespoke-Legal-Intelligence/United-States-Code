@@ -102,7 +102,7 @@ Authority To Change Percentage.—The Secretary may prescribe regulations changi
 
 (c)
 
-Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—(1) The Secretary shall prescribe by regulation the minimum driving range that dual fueled automobiles that are passenger automobiles must meet when operating on alternative fuel to be dual fueled automobiles under sections 32905 and 32906 of this title. A determination whether a dual fueled automobile meets the minimum driving range requirement under this paragraph shall bebased on the combined Agency city/highway fuel economy as determined for average fuel economy purposes for those automobiles.
+Minimum Driving Ranges for Dual Fueled Passenger Automobiles.—(1) The Secretary shall prescribe by regulation the minimum driving range that dual fueled automobiles that are passenger automobiles must meet when operating on alternative fuel to be dual fueled automobiles under sections 32905 and 32906 of this title. A determination whether a dual fueled automobile meets the minimum driving range requirement under this paragraph shall be based on the combined Agency city/highway fuel economy as determined for average fuel economy purposes for those automobiles.
 
 (2)(A) The Secretary may prescribe a lower range for a specific model than that prescribed under paragraph (1) of this subsection. A manufacturer may petition for a lower range than that prescribed under paragraph (1) for a specific model.
 

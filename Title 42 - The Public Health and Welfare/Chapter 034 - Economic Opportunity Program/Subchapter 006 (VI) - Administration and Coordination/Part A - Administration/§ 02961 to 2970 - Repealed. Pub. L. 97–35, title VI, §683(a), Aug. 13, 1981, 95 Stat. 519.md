@@ -26,5 +26,5 @@ Repeal effective Oct. 1, 1981, see section 9912(a) of this title.
 
 #### Executive Order No. 11466
 
-Ex. Ord. No. 11466, eff. Apr. 18, 1969, 34 F.R. 6727, formerly set out as a note under section 2962 of this title, which related to the administration of certain jointly funded projects, was superseded by Ex. Ord. No. 11867, eff. June 19, 1975, 40 F.R. 26253, formerly set out as a note under section 7103 of Title 31, Money and Finance.
+Ex. Ord. No. 11466, eff. Apr. 18, 1969, 34 F.R. 6727, formerly set out as a note under section 2962 of this title,which related to the administration of certain jointly funded projects, was superseded by Ex. Ord. No. 11867, eff. June 19, 1975, 40 F.R. 26253, formerly set out as a note under section 7103 of Title 31, Money and Finance.
 

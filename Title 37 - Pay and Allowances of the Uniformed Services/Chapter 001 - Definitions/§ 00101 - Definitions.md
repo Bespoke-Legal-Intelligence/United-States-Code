@@ -100,11 +100,11 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;&emsp;(H) the Reserve Corps of the Public Health Service.
 
-&emsp;(25) The term “regular compensation” or “regular military compensation (RMC)” means the total of the following elements that a member of a uniformed service accrues or receives, directly or indirectly, in cash or in kind every payday: basic pay, basic allowance for quarters (including any variable housing allowance or station housing allowance), basic allowance for subsistence; and Federal tax advantage accruing to the aforementioned allowances because they are not subject to Federal income tax.
+&emsp;(25) The term “regular compensation” or “regular military compensation (RMC)” means the total of the following elements that a member of a uniformed service accrues or receives, directly or indirectly, in cash or in kind every payday: basic pay, basic allowance for housing, basic allowance for subsistence; and Federal tax advantage accruing to the aforementioned allowances because they are not subject to Federal income tax.
 
 &emsp;(26) The term “contingency operation” has the meaning given that term in section 101 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §3, Oct. 13, 1972, 86 Stat. 810; Pub. L. 93–419, §1, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title V, §§506(1), 516(1), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 96–579, §11, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 96–600, §3(b), Dec. 24, 1980, 94 Stat. 3494; Pub. L. 98–525, title IV, §414(c), Oct. 19, 1984, 98 Stat. 2520; Pub. L. 100–26, §8(e)(1), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–456, div. A, title XII, §1233(f)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–190, div. A, title VI, §631(b), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(b)(2), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title XI, §1182(c)(1), Nov. 30, 1993, 107 Stat. 1772.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §3, Oct. 13, 1972, 86 Stat. 810; Pub. L. 93–419, §1, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title V, §§506(1), 516(1), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 96–579, §11, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 96–600, §3(b), Dec. 24, 1980, 94 Stat. 3494; Pub. L. 98–525, title IV, §414(c), Oct. 19, 1984, 98 Stat. 2520; Pub. L. 100–26, §8(e)(1), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–456, div. A, title XII, §1233(f)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–190, div. A, title VI, §631(b), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(b)(2), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title XI, §1182(c)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 105–85, div. A, title VI, §603(d)(1)(A), Nov. 18, 1997, 111 Stat. 1782.)
 
 Historical and Revision Notes
 
@@ -236,9 +236,11 @@ In clause (23), section 231(b) (less 1st sentence) of existing title 37 is omitt
 
 #### References in Text
 
-For definition of Canal Zone, referred to in pars. (7) and (9), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+For definition of Canal Zone, referred to in pars. (2), (7), and (9), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1997—Par. (25). Pub. L. 105–85 substituted “basic allowance for housing” for “basic allowance for quarters (including any variable housing allowance or station housing allowance)”.
 
 1993—Par. (26). Pub. L. 103–160 made technical amendment to directory language of Pub. L. 102–484. See 1992 Amendment note below.
 
@@ -275,6 +277,10 @@ Cl. (25). Pub. L. 96–579 defined “regular compensation” or “regular mili
 1968—Cl. (5)(D). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 1966—Cls. (3), (5)(E). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 
@@ -316,5 +322,5 @@ Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[
 
 Section Referred to in Other Sections
 
-This section is referred to in title 2 section 906; title 5 sections 3326, 3501, 5531; title 10 sections 1032, 2774; title 20 sections 7703, 7706; title 22 section 4833; title 26 section 6013; title 31 section 3702; title 32 section 716; title 33 section 857–1; title 38 section 5301; title 42 sections 292d, 665.
+This section is referred to in title 2 section 906; title 5 sections 3326, 3501, 5531; title 10 sections 1032, 2774; title 20 sections 7703, 7706; title 22 section 4833; title 26 section 6013; title 31 section 3702; title 32 section 716; title 33 section 857–1; title 38 section 5301; title 42 sections 292d, 659, 665.
 

@@ -10,7 +10,7 @@
 
 (b) If an officer, employee, applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants is the prevailing party in a proceeding under this section, and the decision is based on a finding of discrimination prohibited under section 732(f) of this title or under section 312(e)(2) <sup>2</sup> of the Architect of the Capitol Human Resources Act, attorney's fees may be allowed by the court in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 98–216, §1(1), Feb. 14, 1984, 98 Stat. 3; Pub. L. 100–426, title I, §103(a), (b), Sept. 9, 1988, 102 Stat.1599; Pub. L. 103–283, title III, §312(e)(4)(C), July 22, 1994, 108 Stat. 1446.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 98–216, §1(1), Feb. 14, 1984, 98 Stat. 3; Pub. L. 100–426, title I, §103(a), (b), Sept. 9, 1988, 102 Stat. 1599; Pub. L. 103–283, title III, §312(e)(4)(C), July 22, 1994, 108 Stat. 1446.)
 
 Historical and Revision Notes<br>1982
 

@@ -10,7 +10,7 @@ Pub. L. 100–430, §13(a), Sept. 13, 1988, 102 Stat. 1636, provided that: “Th
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–76, §1, Dec. 28, 1995, 109 Stat. 787, provided that: “This Act \[amending section 3607 of this title\]may be cited as the ‘Housing for Older Persons Act of 1995’.”
+Pub. L. 104–76, §1, Dec. 28, 1995, 109 Stat. 787, provided that: “This Act \[amending section 3607 of this title\] may be cited as the ‘Housing for Older Persons Act of 1995’.”
 
 #### Short Title of 1988 Amendment
 

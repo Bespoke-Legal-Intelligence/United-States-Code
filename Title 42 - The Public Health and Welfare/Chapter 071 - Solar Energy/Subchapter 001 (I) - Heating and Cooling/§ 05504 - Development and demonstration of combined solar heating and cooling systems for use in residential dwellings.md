@@ -22,7 +22,7 @@ During the period immediately following the publication of performance criteria 
 
 #### (d) Contracts and grants for development of combined systems for commercial production and residential use; contracts for procurement of combined systems
 
-The Administrator, in accordance with the applicable provisions of title II of the National Aeronautics and Space Act of 1958 \[42 U.S.C. 2471 et seq.\] and under program guidelines established jointly by the Administrator and the Secretary, and at the earliest possible time during or immediately after the period specified in subsection (c) of this section, shall, after consultation with the Secretary—
+The Administrator, in accordance with the applicable provisions of title II of the NationalAeronautics and Space Act of 1958 \[42 U.S.C. 2471 et seq.\] and under program guidelines established jointly by the Administrator and the Secretary, and at the earliest possible time during or immediately after the period specified in subsection (c) of this section, shall, after consultation with the Secretary—
 
 &emsp;(1) enter into such contracts and grants as may be necessary or appropriate for the development (for commercial production and residential use) of combined solar heating and cooling systems meeting the performance criteria prescribed under subsection (b)(1)(A) of this section (including any further planning and design which may be required to conform with the specifications set forth in such criteria or to reflect the results of the activities conducted under subsection (c) of this section); and
 

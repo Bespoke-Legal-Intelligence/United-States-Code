@@ -152,7 +152,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -160,7 +160,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 Determinations
 
-1–101. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to those agencies or subdivisions in a manner consistent with national security requirements and considerations. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
+1–101. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to thoseagencies or subdivisions in a manner consistent with national security requirements and considerations. The agencies or subdivisions thereof set forth in Section 1–2 of this Order are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 
 1–102. Having determined that it is necessary in the interest of national security, the provisions of Chapter 71 of Title 5 of the United States Code are suspended with respect to any agency, installation, or activity listed in Section 1–3 of this Order. However, such suspension shall be applicable only to that portion of the agency, installation, or activity which is located outside the 50 States and the District of Columbia.
 
@@ -221,6 +221,8 @@ Exclusions
 (g) Units composed primarily of employees engaged in the operation, repair, and/or maintenance of “off line” or “on line” cryptographic equipment.
 
 (h) Units composed primarily of employees of naval telecommunications activities in positions which require a cryptographic authorization.
+
+(i) Naval Special Warfare Development Group.
 
 1–206. Agencies or subdivisions of the Department of the Air Force, Department of Defense:
 

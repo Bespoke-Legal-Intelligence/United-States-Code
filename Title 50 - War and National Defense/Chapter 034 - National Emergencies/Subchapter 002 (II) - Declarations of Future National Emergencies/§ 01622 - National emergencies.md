@@ -22,7 +22,7 @@ Not later than six months after a national emergency is declared, and not later 
 
 #### (c) Joint resolution; referral to Congressional committees; conference committee in event of disagreement; filing of report; termination procedure deemed part of rules of House and Senate
 
-(1) A joint resolution to terminate a national emergency declared by the President shall be referred to the appropriate committee of the House of Representatives or the Senate, as the case may be. One such joint resolution shall be reported out by such committee together with its recommendations within fifteen calendar days after the day on which such resolution isreferred to such committee, unless such House shall otherwise determine by the yeas and nays.
+(1) A joint resolution to terminate a national emergency declared by the President shall be referred to the appropriate committee of the House of Representatives or the Senate, as the case may be. One such joint resolution shall be reported out by such committee together with its recommendations within fifteen calendar days after the day on which such resolution is referred to such committee, unless such House shall otherwise determine by the yeas and nays.
 
 (2) Any joint resolution so reported shall become the pending business of the House in question (in the case of the Senate the time for debate shall be equally divided between the proponents and the opponents) and shall be voted on within three calendar days after the day on which such resolution is reported, unless such House shall otherwise determine by yeas and nays.
 

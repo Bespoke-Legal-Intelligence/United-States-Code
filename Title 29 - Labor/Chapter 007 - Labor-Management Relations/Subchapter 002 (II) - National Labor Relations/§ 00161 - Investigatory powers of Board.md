@@ -24,7 +24,7 @@ For the purpose of all hearings and investigations, which, in the opinion of the
 
 &emsp;The several departments and agencies of the Government, when directed by the President,shall furnish the Board, upon its request, all records, papers, and information in their possession relating to any matter before the Board.
 
-(July 5, 1935, ch. 372, §11, 49 Stat. 455; June 23, 1947, ch. 120, title I, §101, 61 Stat. 150; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Oct. 15, 1970, Pub. L. 91–452, title II, §234, 84 Stat. 930; June 11, 1960, Pub. L. 86–507, §1(57), as added May 21, 1980, Pub. L. 96–245, 94 Stat. 347.)
+(July 5, 1935, ch. 372, §11, 49 Stat. 455; June 23, 1947, ch. 120, title I, §101, 61 Stat. 150; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 91–452, title II, §234, Oct. 15, 1970, 84 Stat. 930; Pub. L. 86–507, §1(57), June 11, 1960, as added Pub. L. 96–245, May 21, 1980, 94 Stat. 347.)
 
 #### Codification
 

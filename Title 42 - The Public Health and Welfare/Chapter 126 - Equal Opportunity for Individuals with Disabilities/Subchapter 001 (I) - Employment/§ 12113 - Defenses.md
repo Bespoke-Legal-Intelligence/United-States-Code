@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-It may be a defense to a charge of discrimination under this chapter that an alleged application of qualification standards, tests, or selection criteria that screen out or tend to screen out or otherwise deny a job or benefit to an individual with a disability has been shown to bejob-related and consistent with business necessity, and such performance cannot be accomplished by reasonable accommodation, as required under this subchapter.
+It may be a defense to a charge of discrimination under this chapter that an alleged application of qualification standards, tests, or selection criteria that screen out or tend to screen out or otherwise deny a job or benefit to an individual with a disability has been shown to be job-related and consistent with business necessity, and such performance cannot be accomplished by reasonable accommodation, as required under this subchapter.
 
 #### (b) Qualification standards
 
@@ -36,7 +36,7 @@ The term “qualification standards” may include a requirement that an individ
 
 #### (2) Applications
 
-&emsp;In any case in which an individual has an infectious or communicable disease that is transmitted to others through the handling of food, that is included on the list developed by the Secretary of Health and Human Services under paragraph (1), and which cannot be eliminated by reasonable accommodation, a covered entity may refuse to assign or continue to assign such individual to a job involving food handling.
+&emsp;In any case in which an individual has an infectious or communicable disease that is transmitted to others through the handling offood, that is included on the list developed by the Secretary of Health and Human Services under paragraph (1), and which cannot be eliminated by reasonable accommodation, a covered entity may refuse to assign or continue to assign such individual to a job involving food handling.
 
 #### (3) Construction
 

@@ -24,7 +24,7 @@ Master Plan.—(1) The Secretary of Defense shall include in the materials submi
 
 (3) The information referred to in paragraph (2) is the following:
 
-&emsp;(A) A profile of the levels of civilian positions sufficient to establish and maintain a baseline for tracking annual accessions and losses of civilian positions and to provide for the analysis of trends in the levels of civilian positions within the Department of Defense as a whole and for each military department, major subordinate command of each military department, Defense Agency, and other principal component of the Department of Defense. The profile shall include information on the following:
+&emsp;(A) A profile of the levels of civilian positions sufficient to establish and maintain abaseline for tracking annual accessions and losses of civilian positions and to provide for the analysis of trends in the levels of civilian positions within the Department of Defense as a whole and for each military department, major subordinate command of each military department, Defense Agency, and other principal component of the Department of Defense. The profile shall include information on the following:
 
 &emsp;&emsp;(i) The total number of civilian employees.
 

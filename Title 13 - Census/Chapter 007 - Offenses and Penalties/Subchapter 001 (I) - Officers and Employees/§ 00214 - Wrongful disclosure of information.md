@@ -32,5 +32,5 @@ Collection and publication of foreign commerce and trade statistics, applicabili
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 307 of this title; title 22 section 3144.
+This section is referred to in section 307 of this title; title 7 section 2204g; title 22 section 3144.
 

@@ -94,7 +94,7 @@ All moneys received by the Secretary under this section shall be deposited in th
 
 #### (n) “High-speed rail” defined
 
-As used in this section, the term “high-speed rail” means all forms of nonhighway groundtransportation that run on rails providing transportation service which is—
+As used in this section, the term “high-speed rail” means all forms of nonhighway ground transportation that run on rails providing transportation service which is—
 
 &emsp;(1) reasonably expected to reach sustained speeds of more than 125 miles per hour; and
 

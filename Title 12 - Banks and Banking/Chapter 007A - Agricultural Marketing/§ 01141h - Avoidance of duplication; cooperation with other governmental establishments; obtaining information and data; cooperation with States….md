@@ -8,7 +8,7 @@
 
 (d) The administration shall, through the governor, indicate to the appropriate bureau or division of the Department of Agriculture any special problem on which a research is needed to aid in carrying out the provisions of this chapter.
 
-(e) The President is authorized, by Executive order, to transfer to or retransfer from the jurisdiction and control of the administration thewhole or any part of (1) any office, bureau, service, division, commission, or board in the Executive branch of the Government engaged in scientific or extension work, or the furnishing of services, with respect to the marketing of agricultural commodities, (2) its functions pertaining to such work or services, and (3) the records, property, including office equipment, personnel, and unexpended balances of appropriation, pertaining to such work or services.
+(e) The President is authorized, by Executive order, to transfer to or retransfer from the jurisdiction and control of the administration the whole or any part of (1) any office, bureau, service, division, commission, or board in the Executive branch of the Government engaged in scientific or extension work, or the furnishing of services, with respect to the marketing of agricultural commodities, (2) its functions pertaining to such work or services, and (3) the records, property, including office equipment, personnel, and unexpended balances of appropriation, pertaining to such work or services.
 
 (June 15, 1929, ch. 24, §13, 46 Stat. 17; Ex. Ord. No. 6084, Mar. 27, 1933.)
 

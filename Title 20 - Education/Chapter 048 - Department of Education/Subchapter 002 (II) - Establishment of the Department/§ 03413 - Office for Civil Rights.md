@@ -6,7 +6,7 @@ There shall be in the Department an Office for Civil Rights, to be administered 
 
 #### (b) Compliance and enforcement reports; copies submitted to Secretary
 
-(1) The Assistant Secretary for Civil Rights shall make an annual report to the Secretary, the President, and the Congress summarizing the compliance and enforcement activities of the Office for Civil Rights and identifying significant civil rights or compliance problems as to which such Office has made a recommendation for corrective action and as to which, in the judgment of the Assistant Secretary, adequate progress is not being made.
+(1) The Assistant Secretary for Civil Rights shall make an annual report to the Secretary, the President, and the Congress summarizing the compliance and enforcement activities ofthe Office for Civil Rights and identifying significant civil rights or compliance problems as to which such Office has made a recommendation for corrective action and as to which, in the judgment of the Assistant Secretary, adequate progress is not being made.
 
 (2) Notwithstanding any other provision of law, the report required by paragraph (1) shall be transmitted to the Secretary, the President, and the Congress by the Assistant Secretary for Civil Rights without further clearance or approval. The Assistant Secretary shall provide copies of the report required by paragraph (1) to the Secretary sufficiently in advance of its submission to the President and the Congress to provide a reasonable opportunity for comments of the Secretary to be appended to the report.
 
@@ -20,7 +20,7 @@ In addition to the authority otherwise provided under this section, the Assistan
 
 &emsp;(3) to enter into contracts and other arrangements for audits, studies, analyses, and other services with public agencies and with private organizations and persons, and to make such payments as may be necessary to carry out the compliance and enforcement functions of such Office; and
 
-&emsp;(4) notwithstanding any other provision of this chapter, to obtain services as authorizedby section 3109 of title 5 at a rate not to exceed the equivalent daily rate payable for grade GS–18 of the General Schedule under section 5332 of such title.
+&emsp;(4) notwithstanding any other provision of this chapter, to obtain services as authorized by section 3109 of title 5 at a rate not to exceed the equivalent daily rate payable for grade GS–18 of the General Schedule under section 5332 of such title.
 
 (Pub. L. 96–88, title II, §203, Oct. 17, 1979, 93 Stat. 673.)
 

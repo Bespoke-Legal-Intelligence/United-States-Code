@@ -4,7 +4,7 @@
 
 In carrying out this subchapter, the Secretary of the Interior and the Secretary of Agriculture shall—
 
-&emsp;(1) determine the areas under their administrative jurisdictions which are appropriate forcarrying out the programs using employees of the Corps;
+&emsp;(1) determine the areas under their administrative jurisdictions which are appropriate for carrying out the programs using employees of the Corps;
 
 &emsp;(2) determine with other Federal agencies the areas under the administrative jurisdiction of these agencies which are appropriate for carrying out programs using members of the Corps, and determine and select appropriate work and education programs and projects for participation by members of the Corps;
 
@@ -14,7 +14,7 @@ In carrying out this subchapter, the Secretary of the Interior and the Secretary
 
 &emsp;(5) promulgate regulation to insure the safety, health, and welfare of the Corps members; and
 
-&emsp;(6) provide to the extent possible, that permanent or semipermanent facilities used as Corps camps be made available to local schools, school districts, State junior colleges and universities, and other education institutions for use as environmental/ecological education camps during periods of nonuse by the Corps program.
+&emsp;(6) provide to the extent possible, that permanent or semipermanent facilities used asCorps camps be made available to local schools, school districts, State junior colleges and universities, and other education institutions for use as environmental/ecological education camps during periods of nonuse by the Corps program.
 
 > Costs for operations maintenance, and staffing of Corps camp facilities during periods of use by non-Corps programs as well as any liability for personal injury or property damage stemming from such use shall be the responsibility of the entity or organization using the facility and shall not be a responsibility of the Secretaries or the Corps.
 

@@ -34,7 +34,7 @@
 
 &emsp;(12) the payroll file of the Federal Bureau of Investigation.
 
-(d) For the purposes of subsection (b), the general categories of Federal funds presented ineach report required by subsection (a) shall include data with respect to grants, loans, purchases and contracts, cooperative agreements, direct Federal payments to individuals, pay of civilian employees of the Government, military pay, annuities, retirement pay, pensions, and disability compensation.
+(d) For the purposes of subsection (b), the general categories of Federal funds presented in each report required by subsection (a) shall include data with respect to grants, loans, purchases and contracts, cooperative agreements, direct Federal payments to individuals, pay of civilian employees of the Government, military pay, annuities, retirement pay, pensions, and disability compensation.
 
 (Added Pub. L. 99–547, §2(a), Oct. 27, 1986, 100 Stat. 3057; amended Pub. L. 103–272, §4(f)(1)(T), July 5, 1994, 108 Stat. 1362.)
 

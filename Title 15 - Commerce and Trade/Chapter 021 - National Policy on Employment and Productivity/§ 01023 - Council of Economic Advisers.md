@@ -6,7 +6,7 @@ There is created in the Executive Office of the President a Council of Economic 
 
 #### (b) Employment of specialists, experts, and other personnel
 
-The Council is authorized to employ, and fix the compensation of, such specialists and other experts as may be necessary for the carrying out of its functions under this chapter, without regard to the civil-service laws, and is authorized, subject to the civil-service laws, to employ such other officers and employees as may be necessary for carrying out its functions under this chapter, and fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
+The Council is authorized to employ, and fix the compensation of, such specialists and otherexperts as may be necessary for the carrying out of its functions under this chapter, without regard to the civil-service laws, and is authorized, subject to the civil-service laws, to employ such other officers and employees as may be necessary for carrying out its functions under this chapter, and fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
 #### (c) Duties
 
@@ -34,7 +34,7 @@ In exercising its powers, functions and duties under this chapter—
 
 &emsp;(2) the Council shall, to the fullest extent possible, utilize the services, facilities, and information (including statistical information) of other Government agencies as well as of private research agencies, in order that duplication of effort and expense may be avoided.
 
-> In its work under this chapter and the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\], the Council is authorizedand directed to seek and obtain the cooperation of the various executive and independent agencies in the development of specialized studies essential to its responsibilities.
+> In its work under this chapter and the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\], the Council is authorized and directed to seek and obtain the cooperation of the various executive and independent agencies in the development of specialized studies essential to its responsibilities.
 
 #### (f) Appropriations
 
@@ -100,7 +100,7 @@ Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet C
 
 #### Executive Order No. 12296
 
-Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal AdvisoryCommittee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1984, see Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

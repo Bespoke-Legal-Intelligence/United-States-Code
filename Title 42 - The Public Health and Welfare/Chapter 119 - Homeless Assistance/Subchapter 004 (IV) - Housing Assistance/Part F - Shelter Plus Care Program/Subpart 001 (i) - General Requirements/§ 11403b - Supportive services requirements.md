@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each recipient shall be required to supplement the assistance provided under this part with an equal amount of funds for supportive services from sources other than this part. Each recipient shall certify to the Secretary its compliance with this paragraph, and shall include with the certification a description of the sources and amounts of such supplemental funds.
+&emsp;Each recipient shall be required to supplement the assistance provided under this partwith an equal amount of funds for supportive services from sources other than this part. Each recipient shall certify to the Secretary its compliance with this paragraph, and shall include with the certification a description of the sources and amounts of such supplemental funds.
 
 #### (2) Determination of matching amounts
 

@@ -16,7 +16,7 @@ Except as otherwise provided in this chapter, each agency administering any area
 
 #### (c) Prohibition provisions: commercial enterprise, permanent or temporary roads, mechanical transports, and structures or installations; exceptions: area administration and personal health and safety emergencies
 
-Except as specifically provided for in this chapter, and subject to existing private rights, there shall be no commercial enterprise and no permanent road within any wilderness area designated by this chapter and, except as necessary to meet minimum requirements for the administration of the area for the purpose of this chapter (including measures required in emergencies involving the health and safety of persons within the area), there shall be no temporary road, no use of motor vehicles, motorized equipment or motorboats, no landing of aircraft, no other form of mechanical transport, and no structure or installation within any such area.
+Except as specifically provided for in this chapter, and subject to existing private rights, there shall be no commercial enterprise and nopermanent road within any wilderness area designated by this chapter and, except as necessary to meet minimum requirements for the administration of the area for the purpose of this chapter (including measures required in emergencies involving the health and safety of persons within the area), there shall be no temporary road, no use of motor vehicles, motorized equipment or motorboats, no landing of aircraft, no other form of mechanical transport, and no structure or installation within any such area.
 
 #### (d) Special provisions
 
@@ -28,7 +28,7 @@ Within wilderness areas designated by this chapter the use of aircraft or motorb
 
 #### (2) Mineral activities, surveys for mineral value
 
-Nothing in this chapter shall prevent within national forest wilderness areas any activity, including prospecting, for the purpose of gathering information about mineral or other resources, if such activity is carried on in a manner compatible with the preservation of the wilderness environment. Furthermore, in accordance with such program as the Secretary of the Interior shall develop and conduct in consultation with the Secretary of Agriculture, such areas shall besurveyed on a planned, recurring basis consistent with the concept of wilderness preservation by the United States Geological Survey and the United States Bureau of Mines to determine the mineral values, if any, that may be present; and the results of such surveys shall be made available to the public and submitted to the President and Congress.
+Nothing in this chapter shall prevent within national forest wilderness areas any activity, including prospecting, for the purpose of gathering information about mineral or other resources, if such activity is carried on in a manner compatible with the preservation of the wilderness environment. Furthermore, in accordance with such program as the Secretary of the Interior shall develop and conduct in consultation with the Secretary of Agriculture, such areas shall be surveyed on a planned, recurring basis consistent with the concept of wilderness preservation by the United States Geological Survey and the United States Bureau of Mines to determine the mineral values, if any, that may be present; and the results of such surveys shall be made available to the public and submitted to the President and Congress.
 
 #### (3) Mining and mineral leasing laws; leases, permits, and licenses; withdrawal of minerals from appropriation and disposition
 

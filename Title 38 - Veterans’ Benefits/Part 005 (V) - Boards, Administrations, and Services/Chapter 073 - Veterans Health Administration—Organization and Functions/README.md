@@ -28,6 +28,7 @@
 | [7319\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007319%20-%20Mammography%20quality%20standards.md) | Mammography quality standards. |
 | [7320\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007320%20-%20Centers%20for%20mental%20illness%20research%2C%20education%2C%20and%20clinical%20activities.md) | Centers for mental illness research, education, and clinical activities. |
 | [7321\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007321%20-%20Committee%20on%20Care%20of%20Severely%20Chronically%20Mentally%20Ill%20Veterans.md) | Committee on Care of Severely Chronically Mentally Ill Veterans. |
+| [7322\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007322%20-%20Breast%20cancer%20mammography%20policy.md) | Breast cancer mammography policy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,6 +59,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–114, title II, §208(a)(2), Nov. 21, 1997, 111 Stat. 2289, added item 7322.
 
 1996—Pub. L. 104–262, title III, §§321(a)(2), 334(a)(2), 335(b), Oct. 9, 1996, 110 Stat. 3195, 3203, 3205, added items 7319 to 7321.
 

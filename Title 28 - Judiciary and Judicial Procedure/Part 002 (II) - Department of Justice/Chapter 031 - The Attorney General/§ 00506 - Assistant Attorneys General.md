@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 295.
 
@@ -60,7 +62,7 @@ A prior section 506, act June 25, 1948, ch. 646, 62 Stat. 909, related to vacanc
 
 #### Amendments
 
-1978—Pub. L. 95–598 substituted “ten” for “nine”.
+<b>1978</b>—Pub. L. 95–598 substituted “ten” for “nine”.
 
 #### Effective Date of 1978 Amendment
 

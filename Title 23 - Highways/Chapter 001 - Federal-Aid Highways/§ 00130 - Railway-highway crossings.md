@@ -16,7 +16,7 @@ Funds for Protective Devices.—At least 1/2 of the funds authorized for and exp
 
 (f)
 
-Apportionment.—Twenty-five percent of the funds authorized to be appropriated to carry out this section shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(2) of this title, 25 percent of such funds shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(6) of this title, and 50 percent of such funds shall be apportioned to the States in the ratio that total railway-highway crossings in each State bears to the total of such crossings in all States. The Federal share payable on account of any project financed with funds authorized to be appropriated to carry out this section shall be 90 percent of the cost thereof.
+Apportionment.—Twenty-five percent of the funds authorized to be appropriated to carry out this section shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(2) of this title, 25 percent of such funds shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(6) of this title, and 50percent of such funds shall be apportioned to the States in the ratio that total railway-highway crossings in each State bears to the total of such crossings in all States. The Federal share payable on account of any project financed with funds authorized to be appropriated to carry out this section shall be 90 percent of the cost thereof.
 
 (g)
 

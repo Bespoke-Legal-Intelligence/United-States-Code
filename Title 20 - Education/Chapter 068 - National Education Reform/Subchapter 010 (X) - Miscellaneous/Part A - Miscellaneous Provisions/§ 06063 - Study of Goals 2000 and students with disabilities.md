@@ -8,7 +8,7 @@
 
 #### (2) “Children with disabilities” defined
 
-&emsp;For purposes of this section, the term “children with disabilities” has the same meaning given such term in section 1401 of this title.
+&emsp;For purposes of this section, the term “children with disabilities” has the same meaning given such term in section 1401 <sup>1</sup> of this title.
 
 #### (b) Study components
 
@@ -41,4 +41,8 @@ From funds appropriated to the Secretary for research related to individuals wit
 #### References in Text
 
 The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(4), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to this chapter (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+
+Section 1401 of this title, referred to in subsec. (a)(2), was in the original a reference to section 602 of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of this title, and which contains provisions defining “child with a disability”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

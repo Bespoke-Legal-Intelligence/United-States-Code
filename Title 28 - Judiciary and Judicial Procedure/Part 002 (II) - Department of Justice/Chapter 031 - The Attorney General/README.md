@@ -39,31 +39,29 @@
 
 #### Amendments
 
-1992—Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item 520.
+<b>1992</b>—Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item 520.
 
-1988—Pub. L. 100–690, title VI, §6281(b), Nov. 18, 1988, 102 Stat. 4369, added item 530A.
+<b>1988</b>—Pub. L. 100–690, title VI, §6281(b), Nov. 18, 1988, 102 Stat. 4369, added item 530A.
 
-1983—Pub. L. 98–86, §2, Aug. 26, 1983, 97 Stat. 492, added item 530.
+<b>1983</b>—Pub. L. 98–86, §2, Aug. 26, 1983, 97 Stat. 492, added item 530.
 
-1982—Pub. L. 97–258, §2(g)(1)(A), Sept. 13, 1982, 96 Stat. 1060, substituted “Availability of appropriations” for “Appropriations for administrative expenses; notarial fees; meals and lodging of bailiffs” in item 524.
+<b>1982</b>—Pub. L. 97–258, §2(g)(1)(A), Sept. 13, 1982, 96 Stat. 1060, substituted “Availability of appropriations” for “Appropriations for administrative expenses; notarial fees; meals and lodging of bailiffs” in item 524.
 
 Pub. L. 97–164, title I, §118(b), Apr. 2, 1982, 96 Stat. 33, substituted “United States Claims Court or in United States Court of Appeals for the Federal Circuit” for “Court of Claims” in item 520.
 
-1978—Pub. L. 95–598, title II, §219(c), Nov. 6, 1978, 92 Stat. 2662, inserted reference to trustees in item 526.
+<b>1978</b>—Pub. L. 95–598, title II, §219(c), Nov. 6, 1978, 92 Stat. 2662, inserted reference to trustees in item 526.
 
 Pub. L. 95–521, title VI, §603(b), Oct. 26, 1978, 92 Stat. 1875, added items 528 and 529.
 
-1977—Pub. L. 95–139, §1(b), Oct. 19, 1977, 91 Stat. 1171, added item 504a.
+<b>1977</b>—Pub. L. 95–139, §1(b), Oct. 19, 1977, 91 Stat. 1171, added item 504a.
 
-1975—Pub. L. 93–613, §1(2), Jan. 2, 1975, 88 Stat. 1975, added item 527.
+<b>1975</b>—Pub. L. 93–613, §1(2), Jan. 2, 1975, 88 Stat. 1975, added item 527.
 
-1966—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 611, substituted “THE ATTORNEY GENERAL” for “UNITED STATES ATTORNEYS” in chapter heading, “Executive Department” for “Appointment of United States attorneys” in item 501, “Seal” for “Appointment of assistant United States attorneys” in item 502, “Attorney General” for “Appointment of attorneys” in item 503, “Deputy Attorney General” for “Tenure and oath of office; removal” in item 504, “Solicitor General” for “Residence” in item 505, “Assistant Attorney General” for “Vacancies” in item 506, “Assistant Attorney General for Administration” for “Duties; supervision by Attorney General” in item 507, “Vacancies” for “Salaries” in item 508, “Functions of the Attorney General” for “Expenses” in item 509, “Delegation of authority” for “Clerical assistants and messengers” in item 510, and added items 511 to 526.
+<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 611, substituted “THE ATTORNEY GENERAL” for “UNITED STATES ATTORNEYS” in chapter heading, “Executive Department” for “Appointment of United States attorneys” in item 501, “Seal” for “Appointment of assistant United States attorneys” in item 502, “Attorney General” for “Appointment of attorneys” in item 503, “Deputy Attorney General” for “Tenure and oath of office; removal” in item 504, “Solicitor General” for “Residence” in item 505, “Assistant Attorney General” for “Vacancies” in item 506, “Assistant Attorney General for Administration” for “Duties; supervision by Attorney General” in item 507, “Vacancies” for “Salaries” in item 508, “Functions of the Attorney General” for “Expenses” in item 509, “Delegation of authority” for “Clerical assistants and messengers” in item 510, and added items 511 to 526.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 463 of this title; title 42 section 7192.
-
-<i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 100–690 without corresponding amendment of analysis.</i>
 
 
 ---

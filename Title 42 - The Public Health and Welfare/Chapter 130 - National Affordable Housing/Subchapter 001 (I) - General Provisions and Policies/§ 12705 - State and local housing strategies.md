@@ -28,7 +28,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(6) indicate resources from private and non-Federal public sources that are reasonably expected to be made available to carry out the purposes of this Act, explaining how funds made available will leverage those additional resources and identifying, where the jurisdiction deems it appropriate, publicly owned land or property located within the jurisdiction that may be utilized to carry out the purposes of this Act;
 
-&emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
+&emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
 
 &emsp;(8) describe how the jurisdiction's plan will address the housing needs identified pursuant to subparagraphs <sup>1</sup> (1) and (2), describe the reasons for allocation priorities, and identify any obstacles to addressing underserved needs;
 
@@ -126,13 +126,13 @@ Pub. L. 102–550, §220(b)(3), which directed amendment of subsec. (b) by addin
 
 Subsec. (b)(17). Pub. L. 102–550, §681(2), which directed amendment of subsec. (b) by adding “after paragraph (16), as added by the preceding provisions of this Act”, a new par. (17) relating to activities to enhance coordination, was executed by adding that par. (17) after par. (17) (formerly par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, to reflect the probable intent of Congress.
 
-Pub. L. 102–550, §220(c)(1), redesignated par. (16), relating to reducing the number of households within ajurisdiction with incomes below the poverty line, as (17).
+Pub. L. 102–550, §220(c)(1), redesignated par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, as (17).
 
 Subsec. (e). Pub. L. 102–550, §1014(4), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 220 of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by section 220 of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter IIof this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 

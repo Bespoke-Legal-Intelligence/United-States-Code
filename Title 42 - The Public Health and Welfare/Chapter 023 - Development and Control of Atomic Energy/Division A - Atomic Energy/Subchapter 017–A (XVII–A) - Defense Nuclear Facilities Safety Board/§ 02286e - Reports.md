@@ -1,0 +1,44 @@
+### §2286e. Reports
+
+#### (a) Board report
+
+(1) The Board shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives each year, at the same time that the President submits the budget to Congress pursuant to section 1105(a) of title 31, a written report concerning its activities under this subchapter, including all recommendations made by the Board, during the year preceding the year in which the report is submitted. The Board may also issue periodic unclassified reports on matters within the Board's responsibilities.
+
+(2) The annual report under paragraph (1) shall include an assessment of—
+
+&emsp;(A) the improvements in the safety of Department of Energy defense nuclear facilities during the period covered by the report;
+
+&emsp;(B) the improvements in the safety of Department of Energy defense nuclear facilities resulting from actions taken by the Board or taken on the basis of the activities of the Board; and
+
+&emsp;(C) the outstanding safety problems, if any, of Department of Energy defense nuclear facilities.
+
+#### (b) DOE report
+
+The Secretary of Energy shall submit to the Committees on Armed Services and on Appropriations of the Senate and to the Speaker of the House of Representatives each year, at the same time that the President submits the budget to Congress pursuant to section 1105(a) of title 31, a written report concerning the activities of the Department of Energy under this subchapter during the year preceding the year in which the report is submitted.
+
+(Aug. 1, 1946, ch. 724, title I, §316, as added Sept. 29, 1988, Pub. L. 100–456, div. A, title XIV, §1441(a)(1), 102 Stat. 2082; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.)
+
+#### Reporting Requirements
+
+Section 1441(c), (d) of Pub. L. 100–456 provided that:
+
+“(c)
+
+Requirements for First Annual Report.—(1) Before submission of the first annual report by the Defense Nuclear Facilities Safety Board under section 316(a) of the Atomic Energy Act of 1954 \[subsec. (a) of this section\] (as added by subsection (a)), the Board shall conduct a study on whether nuclear facilities of the Department of Energy that are excluded from the definition of ‘Department of Energy defense nuclear facility’ in section 318(1)(C) of such Act \[section 2286g(1)(C) of this title\] (hereafter in this subsection referred to as ‘non-defense nuclear facilities’) should be subject to independent external oversight. The Board shall include in such first annual report the results of such study and the recommendation of the Board on whether non-defense nuclear facilities should be subject to independent external oversight.
+
+“(2) If the Board recommends in the report that non-defense nuclear facilities should be subject to such oversight, the report shall include a discussion of alternative mechanisms for implementing such oversight, including mechanisms such as a separate executive agency and oversight as a part of the Board's responsibilities. The discussion of alternative mechanisms of oversight also shall include considerations of budgetary costs, protection of the security of sensitive nuclear weapons information, and the similarities and differences in the design, construction, operation, and decommissioning of defense and non-defense nuclear facilities of the Department of Energy.
+
+“(d)
+
+Requirements for Fifth Annual Report.—The fifth annual report submitted by the Defense Nuclear Facilities Safety Board under section 316(a) of the Atomic Energy Act of 1954 \[subsec. (a) of this section\] (as added by subsection (a)) shall include—
+
+&emsp;“(1) an assessment of the degree to which the overall administration of the Board's activities are believed to meet the objectives of Congress in establishing the Board;
+
+&emsp;“(2) recommendations for continuation, termination, or modification of the Board's functions and programs, including recommendations for transition to some other independent oversight arrangement if it is advisable; and
+
+&emsp;“(3) recommendations for appropriate transition requirements in the event that modifications are recommended.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2286h–1 of this title.
+

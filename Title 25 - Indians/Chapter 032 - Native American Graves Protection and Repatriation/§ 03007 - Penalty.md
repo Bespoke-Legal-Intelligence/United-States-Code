@@ -6,7 +6,7 @@ Any museum that fails to comply with the requirements of this chapter may be ass
 
 #### (b) Amount of penalty
 
-The amount of a penalty assessed under subsection (a) of this section shall be determined under regulations promulgated pursuant to this chapter, taking into account, in addition to other factors—
+The amount of a penalty assessed under subsection (a) of this section shall be determinedunder regulations promulgated pursuant to this chapter, taking into account, in addition to other factors—
 
 &emsp;(1) the archaeological, historical, or commercial value of the item involved;
 

@@ -40,5 +40,5 @@ Executive order 12333, referred to in subsec. (d), is set out as a note under se
 
 #### Codification
 
-Section was enacted as part of the Department of Defense Appropriations Act, 1989, and not as part of the Office of Federal Procurement Policy Act which comprises this chapter.
+Section was enacted as part of the Department of Defense Appropriations Act, 1989, and not as part of theOffice of Federal Procurement Policy Act which comprises this chapter.
 

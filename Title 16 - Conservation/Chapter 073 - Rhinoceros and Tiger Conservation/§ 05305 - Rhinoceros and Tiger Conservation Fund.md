@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the general fund of the Treasury a separate account to be known as the “Rhinoceros and Tiger Conservation Fund”, which shall consist of amounts deposited into the Fund by the Secretary of the Treasury under subsection (b) of this section.
+There is established in the general fund of the Treasury a separate account to be known as the“Rhinoceros and Tiger Conservation Fund”, which shall consist of amounts deposited into the Fund by the Secretary of the Treasury under subsection (b) of this section.
 
 #### (b) Deposits into Fund
 

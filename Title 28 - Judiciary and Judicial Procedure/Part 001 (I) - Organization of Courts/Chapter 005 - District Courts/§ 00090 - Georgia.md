@@ -82,7 +82,7 @@ Georgia is divided into three judicial districts to be known as the Northern, Mi
 
 &emsp;&emsp;Court for the Statesboro Division shall be held at Statesboro.
 
-(June 25, 1948, ch. 646, 62 Stat. 876; Aug. 16, 1949, ch. 444, 63 Stat. 610; Oct. 31, 1951, ch. 655, §36a, 65 Stat. 723; Nov. 8, 1984, Pub. L. 98–620, title IV, §408(a)–(c), 98 Stat. 3362; Nov. 14, 1986, Pub. L. 99–657, §3, 100 Stat. 3670.)
+(June 25, 1948, ch. 646, 62 Stat. 876; Aug. 16, 1949, ch. 444, 63 Stat. 610; Oct. 31, 1951, ch. 655, §36a, 65 Stat. 723; Pub. L. 98–620, title IV, §408(a)–(c), Nov. 8, 1984, 98 Stat. 3362; Pub. L. 99–657, §3, Nov. 14, 1986, 100 Stat. 3670.)
 
 #### Historical and Revision Notes
 
@@ -98,21 +98,21 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1986—Subsec. (c)(1). Pub. L. 99–657, §3(1), substituted “Jefferson, Lincoln” for “Lincoln”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–657, §3(1), substituted “Jefferson, Lincoln” for “Lincoln”.
 
 Subsec. (c)(3). Pub. L. 99–657, §3(2), substituted “and Liberty” for “Evans, Liberty, Screven, and Tattnall”.
 
 Subsec. (c)(6). Pub. L. 99–657, §3(3), substituted “Evans, Jenkins, Screven, Tattnall” for “Jefferson, Jenkins”.
 
-1984—Subsec. (a)(1). Pub. L. 98–620, §408(a), added Fannin, Gilmer, and Pickens to the counties comprising the Gainesville Division of the Northern District.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–620, §408(a), added Fannin, Gilmer, and Pickens to the counties comprising the Gainesville Division of the Northern District.
 
 Subsec. (a)(2). Pub. L. 98–620, §408(b), struck out Fannin, Gilmer, and Pickens from the counties comprising the Atlanta Division of the Northern District.
 
 Subsec. (c)(6). Pub. L. 98–620, §408(c), substituted “Statesboro” for “Swainsboro” in three places.
 
-1951—Subsec. (c)(6). Act Oct. 31, 1951, struck out “Washington,”.
+<b>1951</b>—Subsec. (c)(6). Act Oct. 31, 1951, struck out “Washington,”.
 
-1949—Subsec. (c). Act Aug. 16, 1949, created a Swainsboro division and provided for holding court there.
+<b>1949</b>—Subsec. (c). Act Aug. 16, 1949, created a Swainsboro division and provided for holding court there.
 
 #### Effective Date of 1986 Amendment
 

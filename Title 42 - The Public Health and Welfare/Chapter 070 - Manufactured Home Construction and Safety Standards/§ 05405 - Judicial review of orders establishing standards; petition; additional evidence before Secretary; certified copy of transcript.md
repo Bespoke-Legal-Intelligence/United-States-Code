@@ -6,7 +6,7 @@
 
 (3) Upon the filing of the petition referred to in paragraph (1) of this subsection, the court shall have jurisdiction to review the order in accordance with the provisions of sections 701 through 706 of title 5, and to grant appropriate relief.
 
-(4) The judgment of the court affirming or setting aside, in whole or in part, any such order of the Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+(4) The judgment of the court affirming or setting aside, in whole or in part, any such order ofthe Secretary shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 (5) Any action instituted under this subsection shall survive, notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office.
 

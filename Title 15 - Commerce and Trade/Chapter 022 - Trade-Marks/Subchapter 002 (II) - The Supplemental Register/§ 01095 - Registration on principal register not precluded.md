@@ -6,7 +6,7 @@ Registration of a mark on the supplemental register, or under the Act of March 1
 
 #### References in Text
 
-Act of March 19, 1920, referred to in text, is act Mar. 19, 1920, ch. 104, §§1–9, 41 Stat. 533, which was generallyclassified to sections 121 to 128 of this title, and which was repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444.
+Act of March 19, 1920, referred to in text, is act Mar. 19, 1920, ch. 104, §§1–9, 41 Stat. 533, which was generally classified to sections 121 to 128 of this title, and which was repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444.
 
 #### Amendments
 

@@ -26,3 +26,7 @@ Based on 44 U.S. Code, 1964 ed., Supp. II, §121 (July 1, 1916, ch. 209, §3, 39
 
 “Commissioner of Patents” redesignated “Commissioner of Patents and Trademarks” by section 3 of Pub. L. 93–596, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 3714b.
+

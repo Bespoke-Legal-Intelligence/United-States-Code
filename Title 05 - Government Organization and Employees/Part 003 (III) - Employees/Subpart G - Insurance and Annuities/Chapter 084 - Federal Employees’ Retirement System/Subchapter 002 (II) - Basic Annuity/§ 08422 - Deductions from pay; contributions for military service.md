@@ -1,28 +1,43 @@
 ### §8422. Deductions from pay; contributions for military service
 
-(a)(1) The employing agency shall deduct and withhold from basic pay of each employee and Member a percentage of basic pay determined in accordance with paragraph (2).
+(a)(1) The employing agency shall deduct and withhold from basic pay of each employee andMember a percentage of basic pay determined in accordance with paragraph (2).
 
-(2) The applicable percentage under this subsection for any pay period shall be—
+(2) The percentage to be deducted and withheld from basic pay for any pay period shall be equal to—
 
-&emsp;(A) in the case of an employee (other than a law enforcement officer, firefighter, air traffic controller, or Congressional employee) a percentage equal to—
+&emsp;(A) the applicable percentage under paragraph (3), minus
 
-&emsp;&emsp;(i) 7 percent, minus
+&emsp;(B) the percentage then in effect under section 3101(a) of the Internal Revenue Code of 1986 (relating to rate of tax for old-age, survivors, and disability insurance).
 
-&emsp;&emsp;(ii) the percentage then in effect under section 3101(a) of the Internal Revenue Code of 1986 (relating to rate of tax for old-age, survivors, and disability insurance); and
+(3) The applicable percentage under this paragraph for civilian service shall be as follows:
 
-&emsp;(B) in the case of a Member, law enforcement officer, firefighter, air traffic controller, or Congressional employee, a percentage equal to—
+&nbsp;
 
-&emsp;&emsp;(i) 71/2 percent, minus
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| Employee | 7 | January 1, 1987, to December 31, 1998. |
+| &nbsp; | 7\.25 | January 1, 1999, to December 31, 1999. |
+| &nbsp; | 7\.4 | January 1, 2000, to December 31, 2000. |
+| &nbsp; | 7\.5 | January 1, 2001, to December 31, 2002. |
+| &nbsp; | 7 | After December 31, 2002. |
+| Congressional employee | 7\.5 | January 1, 1987, to December 31, 1998. |
+| &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
+| &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
+| &nbsp; | 8 | January 1, 2001, to December 31, 2002. |
+| &nbsp; | 7\.5 | After December 31, 2002. |
+| Member | 7\.5 | January 1, 1987, to December 31, 1998. |
+| &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
+| &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
+| &nbsp; | 8 | January 1, 2001, to December 31, 2002. |
+| &nbsp; | 7\.5 | After December 31, 2002. |
+| Law enforcement officer, firefighter, member of the Capitol Police, or air traffic controller | 7\.5 7.75 7.9 8 7.5 | January 1, 1987, to December 31, 1998.January 1, 1999, to December 31, 1999.January 1, 2000, to December 31, 2000.January 1, 2001, to December 31, 2002.After December 31, 2002. |
 
-&emsp;&emsp;(ii) the same percentage as would apply in the case of an employee under subparagraph (A)(ii).
-
-(b) Each employee or Member is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this subchapter, orunder subchapter IV or V of this chapter, based on the service of the employee or Member.
+(b) Each employee or Member is deemed to consent and agree to the deductions under subsection (a). Notwithstanding any law or regulation affecting the pay of an employee or Member, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this subchapter, or under subchapter IV or V of this chapter, based on the service of the employee or Member.
 
 (c) The amounts deducted and withheld under this section shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Secretary of the Treasury may prescribe.
 
 (d) Under such regulations as the Office may prescribe, amounts deducted under subsection (a) shall be entered on individual retirement records.
 
-(e)(1)(A) Except as provided in subparagraph (B), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office shall issue, to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, an amount equal to 3 percent of the amount of the basic pay paid under section 204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based on estimates of such basic pay provided to the Office under paragraph (4).
+(e)(1)(A) Except as provided in subparagraph (B), and subject to paragraph (6), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office shall issue, to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, an amount equal to 3 percent of the amount of the basic pay paid under section 204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based on estimates of such basic pay provided to the Office under paragraph (4).
 
 (B) In any case where military service interrupts creditable civilian service under this subchapter and reemployment pursuant to chapter 43 of title 38 occurs on or after August 1, 1990, the deposit payable under this paragraph may not exceed the amount that would have been deducted and withheld under subsection (a)(1) from basic pay during civilian service if the employee had not performed the period of military service.
 
@@ -40,7 +55,15 @@
 
 (5) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
-(f)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader.
+(6) The percentage of basic pay under section 204 of title 37 payable under paragraph (1), with respect to any period of military service performed during—
+
+&emsp;(A) January 1, 1999, through December 31, 1999, shall be 3.25 percent;
+
+&emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent; and
+
+&emsp;(C) January 1, 2001, through December 31, 2002, shall be 3.5 percent.
+
+(f)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
 
 (2) Any deposit made under paragraph (1) more than 2 years after the later of—
 
@@ -52,19 +75,53 @@
 
 (3) The Director of the Peace Corps and the Chief Executive Officer of the Corporation for National and Community Service shall furnish such information to the Office of Personnel Management as the Office may determine to be necessary for the administration of this subsection.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829.)
+(4) The percentage of the readjustment allowance or stipend (as the case may be) payable under paragraph (1), with respect to any period of volunteer service performed during—
+
+&emsp;(A) January 1, 1999, through December 31, 1999, shall be 3.25 percent;
+
+&emsp;(B) January 1, 2000, through December 31, 2000, shall be 3.4 percent; and
+
+&emsp;(C) January 1, 2001, through December 31, 2002, shall be 3.5 percent.
+
+(g) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under section 8334(e).
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307.)
 
 #### References in Text
 
-Section 3101(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(A)(ii), is classified to section 3101(a) of Title 26, Internal Revenue Code.
+Section 3101(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B), is classified to section 3101(a) of Title 26, Internal Revenue Code.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repealby Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, §110, which was classified generally to part A (§2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, §603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), are classified to part A (§4951 et seq.), part B (§4971 et seq.), and part C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42.
 
 The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+1997—Subsec. (a)(2), (3). Pub. L. 105–33, §7001(b)(1)(A), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The applicable percentage under this subsection for any pay period shall be—
+
+&emsp;“(A) in the case of an employee (other than a law enforcement officer, firefighter, air traffic controller, or Congressional employee) a percentage equal to—
+
+&emsp;&emsp;“(i) 7 percent, minus
+
+&emsp;&emsp;“(ii) the percentage then in effect under section 3101(a) of the Internal Revenue Code of 1986 (relating to rate of tax for old-age, survivors, and disability insurance); and
+
+&emsp;“(B) in the case of a Member, law enforcement officer, firefighter, air traffic controller, or Congressional employee, a percentage equal to—
+
+&emsp;&emsp;“(i) 71/2 percent, minus
+
+&emsp;&emsp;“(ii) the same percentage as would apply in the case of an employee under subparagraph (A)(ii).”
+
+Subsec. (e)(1)(A). Pub. L. 105–33, §7001(b)(1)(B)(i), inserted “and subject to paragraph (6),” after “Except as provided in subparagraph (B),”.
+
+Subsec. (e)(6). Pub. L. 105–33, §7001(b)(1)(B)(ii), added par. (6).
+
+Subsec. (f)(1). Pub. L. 105–33, §7001(b)(1)(C)(i), inserted at end “This paragraph shall be subject to paragraph (4).”
+
+Subsec. (f)(4). Pub. L. 105–33, §7001(b)(1)(C)(ii), added par. (4).
+
+Subsec. (g). Pub. L. 105–61 added subsec. (g).
 
 1996—Subsec. (c). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General of the United States”.
 
@@ -80,6 +137,12 @@ Subsec. (e)(2)(B). Pub. L. 103–353, §5(d)(2), inserted before comma at end �
 
 1988—Subsec. (e)(5). Pub. L. 100–238 added par. (5).
 
+#### Effective Date of 1997 Amendments
+
+Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
+
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
@@ -88,7 +151,11 @@ Amendment by Pub. L. 103–353 effective with respect to reemployments initiated
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, and applicable with respect to any individual entitled to an annuity on the basis of a separation from service occurring before, on, or after Oct. 1, 1993, subject to rule relating to annuities based on earlier separations, see sections 371(c) and 392 of Pub. L. 103–82, set out as notes under section 8332 of this title and section 4951 of Title 42, The Public Health and Welfare, respectively.
 
+#### No Reduction in Agency Contributions
+
+Section 7001(b)(2) of Pub. L. 105–33 provided that: “Contributions under section 8423(a) and (b) of title 5, United States Code, shall not be reduced as a result of the amendments made under paragraph (1) \[amending this section\] of this subsection.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8401, 8411, 8423, 8468 of this title; title 2 section 121b; title 10 section 942; title 22 section 4045; title 28 sections 611, 627; title 40 section 214d; title 50 section 2152.
+This section is referred to in sections 8401, 8411, 8415, 8423, 8468 of this title; title 2 section 121b; title 10 section 942; title 22 section 4045; title 28 sections 611, 627; title 40 section 214d; title 42 section 2297h–8; title 50 section 2152.
 

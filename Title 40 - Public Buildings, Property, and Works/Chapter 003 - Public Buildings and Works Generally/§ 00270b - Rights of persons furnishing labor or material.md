@@ -4,7 +4,7 @@
 
 (b) Every suit instituted under this section shall be brought in the name of the United States for the use of the person suing, in the United States District Court for any district in which the contract was to be performed and executed and not elsewhere, irrespective of the amount in controversy in such suit, but no such suit shall be commenced after the expiration of one year after the day on which the last of the labor was performed or material was supplied by him. The United States shall not be liable for the payment of any costs or expenses of any such suit.
 
-(Aug. 24, 1935, ch. 642, §2, 49 Stat. 794; Aug. 4, 1959, Pub. L. 86–135, §1, 73 Stat. 279.)
+(Aug. 24, 1935, ch. 642, §2, 49 Stat. 794; Pub. L. 86–135, §1, Aug. 4, 1959, 73 Stat. 279.)
 
 #### Amendments
 

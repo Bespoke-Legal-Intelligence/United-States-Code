@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(B) of this section, enter into an agreement to work in a national security position or work in the field of education in the area of study for which the fellowship was awarded; and
 
-&emsp;&emsp;(C) awarding grants to institutions of higher education to enable such institutions to establish, operate, or improve programs in foreign languages, area studies, and other international fields that are critical areas of those disciplines (as determined under section 1903(d)(4)(C) of this title).
+&emsp;&emsp;(C) awarding grants to institutions of higher education to enable such institutionsto establish, operate, or improve programs in foreign languages, area studies, and other international fields that are critical areas of those disciplines (as determined under section 1903(d)(4)(C) of this title).
 
 #### (2) Funding allocations
 

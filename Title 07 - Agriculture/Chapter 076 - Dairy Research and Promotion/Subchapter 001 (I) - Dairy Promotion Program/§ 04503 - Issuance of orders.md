@@ -6,7 +6,7 @@ During the period beginning with November 29, 1983, and ending thirty days after
 
 #### (b) Effective date of orders
 
-After notice and opportunity for public comment are given, as provided for in subsection (a) of this section, the Secretary shall issue a dairy products promotion and research order. Such order shall become effective not later than ninety days following publication of the proposal.
+After notice and opportunity for public comment are given, as provided for in subsection (a)of this section, the Secretary shall issue a dairy products promotion and research order. Such order shall become effective not later than ninety days following publication of the proposal.
 
 #### (c) Amendment of orders
 

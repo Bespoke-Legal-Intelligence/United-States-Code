@@ -42,7 +42,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (A) In general
 
-&emsp;&emsp;Any person against whom a violation is found and a civil penalty is assessed or a cease and desist order is issued under subsection (c) of this section may obtain review of the penalty or order by, within the 30-dayperiod beginning on the date the penalty is assessed or order issued—
+&emsp;&emsp;Any person against whom a violation is found and a civil penalty is assessed or a cease and desist order is issued under subsection (c) of this section may obtain review of the penalty or order by, within the 30-day period beginning on the date the penalty is assessed or order issued—
 
 &emsp;&emsp;&emsp;(i) filing a notice of appeal in the district court of the United States for the district in which the person resides or conducts business, or in the United States District Court for the District of Columbia; and
 
@@ -70,7 +70,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (1) In general
 
-&emsp;If a person fails to pay a civil penalty assessed under subsection (c) or (e) of this section after the penalty has become final and unappealable, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in any United States district court in which the person resides or conducts business.
+&emsp;If a person fails to pay a civil penalty assessed under subsection (c) or (e) of this section after the penalty has become final and unappealable, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney Generalfor recovery of the amount assessed in any United States district court in which the person resides or conducts business.
 
 #### (2) Scope of review
 

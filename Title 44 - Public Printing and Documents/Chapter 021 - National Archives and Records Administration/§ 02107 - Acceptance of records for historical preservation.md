@@ -38,7 +38,7 @@ Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: “This Act
 
 #### President John F. Kennedy Assassination Records Collection
 
-Pub. L. 102–526, Oct. 26, 1992, 106 Stat. 3443, as amended by Pub. L. 103–345, §§2–5, Oct. 6, 1994, 108 Stat. 3128–3130, provided that:
+Pub. L. 102–526, Oct. 26, 1992, 106 Stat. 3443, as amended by Pub. L. 103–345, §§2–5, Oct. 6, 1994, 108 Stat. 3128–3130; Pub. L. 105–25, §1, July 3, 1997, 111 Stat. 240, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -58,7 +58,7 @@ Findings and Declarations.—The Congress finds and declares that—
 
 &emsp;“(4) legislation is necessary because congressional records related to the assassination of President John F. Kennedy would not otherwise be subject to public disclosure until at least the year 2029;
 
-&emsp;“(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by the executive branch, has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy;
+&emsp;“(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by theexecutive branch, has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy;
 
 &emsp;“(6) legislation is necessary because Executive Order No. 12356 \[50 U.S.C. 435 note\], entitled ‘National Security Information’ has eliminated the declassification and downgrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
 
@@ -300,7 +300,7 @@ Fees for Copying.—Executive branch agencies shall—
 
 &emsp;“(2) the public disclosure of the assassination record would reveal the name or identity of a living person who provided confidential information to the United States and would pose a substantial risk of harm to that person;
 
-&emsp;“(3) the public disclosure of the assassination record could reasonably be expected to constitute anunwarranted invasion of personal privacy, and that invasion of privacy is so substantial that it outweighs the public interest;
+&emsp;“(3) the public disclosure of the assassination record could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy is so substantial that it outweighs the public interest;
 
 &emsp;“(4) the public disclosure of the assassination record would compromise the existence of an understanding of confidentiality currently requiring protection between a Government agent and a cooperating individual or a foreign government, and public disclosure would be so harmful that it outweighs the public interest; or
 
@@ -434,7 +434,7 @@ Interpretive Regulations.—The Review Board may issue interpretive regulations.
 
 “(<i>o</i>)
 
-Termination and Winding Up.—(1) The Review Board and the terms of its members shall terminate not later than September 30, 1996, except that the Review Board may, by majority vote, extend its term for an additional 1-year period if it has not completed its work within that period.
+Termination and Winding Up.—(1) The Review Board and the terms of its members shall terminate not later than September 30, 1998.
 
 “(2) Upon its termination, the Review Board shall submit reports to the President and the Congress including a complete and accurate accounting of expenditures during its existence, and shall complete all other reporting requirements under this Act.
 
@@ -446,7 +446,7 @@ Termination and Winding Up.—(1) The Review Board and the terms of its members 
 
 Executive Director.—(1) Not later than 45 days after the initial meeting of the Review Board, the Review Board shall appoint one citizen, without regard to political affiliation, to the position of Executive Director.
 
-“(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who is a distinguished professional and who is not a present employee of any branch of the Government and has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
+“(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who is a distinguished professional and who is not a present employee of any branch of the Government and has hadno previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
 
 “(3)(A) A candidate for Executive Director shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
 
@@ -626,7 +626,7 @@ Judicial Review.—Nothing in this Act shall be construed to preclude judicial r
 
 “(d)
 
-Existing Authority.—Nothing in this Act revokes or limits the existing authority of the President, any executive agency, the Senate, or the House of Representatives, or any other entity of the Government to publicly disclose records in its possession.
+Existing Authority.—Nothing in this Act revokes or limits the existing authority of the President,any executive agency, the Senate, or the House of Representatives, or any other entity of the Government to publicly disclose records in its possession.
 
 “(e)
 
@@ -650,7 +650,7 @@ Other Provisions.—The remaining provisions of this Act shall continue in effec
 
 “(a)
 
-In General.—There are authorized to be appropriated such sums as are necessary to carry out this Act, to remain available until expended.
+In General.—There are authorized to be appropriated to carry out the provisions of this Act $1,600,000 for fiscal year 1998.
 
 “(b)
 

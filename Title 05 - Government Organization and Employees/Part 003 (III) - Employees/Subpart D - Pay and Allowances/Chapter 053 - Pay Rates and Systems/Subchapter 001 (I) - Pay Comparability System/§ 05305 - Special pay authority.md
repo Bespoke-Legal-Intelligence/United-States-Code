@@ -1,10 +1,10 @@
 ### §5305. Special pay authority
 
-(a) Whenever the President finds that the Government's recruitment or retention efforts with respect to 1 or more occupations in 1 or more areas or locations are, or are likely to become, significantly handicapped, due to any of the circumstances described in subsection (b), he may establish for the areas or locations involved, with respect to individuals in positions paid under any of the pay systems referred to in subsection (c), higher minimum rates of basic pay for 1 or more grades or levels, occupational groups, series, classes, or subdivisions thereof, and may make corresponding increases in all step rates of the pay range for each such grade or level. However, a minimum rate so established may not exceed the maximum pay rateprescribed by statute for the grade or level by more than 30 percent, and no rate may be established under this section (disregarding any amount payable under subsection (g)) in excess of the rate of basic pay payable for level V of the Executive Schedule. The President may authorize the exercise of the authority conferred on him by this section by the Office of Personnel Management or, in the case of individuals not subject to the provisions of this title governing appointment in the competitive service, by such other agency as he may designate.
+(a) Whenever the President finds that the Government's recruitment or retention efforts with respect to 1 or more occupations in 1 or more areas or locations are, or are likely to become, significantly handicapped, due to any of the circumstances described in subsection (b), he may establish for the areas or locations involved, with respect to individuals in positions paid under any of the pay systems referred to in subsection (c), higher minimum rates of basic pay for 1 or more grades or levels, occupational groups, series, classes, or subdivisions thereof, and may make corresponding increases in all step rates of the pay range for each such grade or level. However, a minimum rate so established may not exceed the maximum pay rate prescribed by statute for the grade or level by more than 30 percent, and no rate may be established under this section (disregarding any amount payable under subsection (g)) in excess of the rate of basic pay payable for level V of the Executive Schedule. The President may authorize the exercise of the authority conferred on him by this section by the Office of Personnel Management or, in the case of individuals not subject to the provisions of this title governing appointment in the competitive service, by such other agency as he may designate.
 
 (b) The circumstances referred to in subsection (a) are—
 
-&emsp;(1) rates of pay offered by non-Federal employers being significantly higher than those payable by the Government within the area, location, occupational group, or other class of positions under the pay system involved;
+&emsp;(1) rates of pay offered by non-Federal employers being significantly higher than thosepayable by the Government within the area, location, occupational group, or other class of positions under the pay system involved;
 
 &emsp;(2) the remoteness of the area or location involved;
 
@@ -80,7 +80,7 @@ Manner of Payment; Reduction or Elimination.—A staffing differential under thi
 
 #### Federal Law Enforcement Pay Reform
 
-Section 529 \[title IV, §§401–407\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034, provided that:
+Section 529 \[title IV, §§401–407\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288, provided that:
 
 #### “SEC. 401. SHORT TITLE.
 
@@ -201,7 +201,7 @@ Step 2
 
 “(b) This subsection applies with respect to any—
 
-&emsp;“(1) member of the United States Secret Service Uniformed Division;
+&emsp;“\[(1) Repealed. Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288;\]
 
 &emsp;“(2) member of the United States Park Police;
 
@@ -213,7 +213,7 @@ Step 2
 
 “(c) For the purposes of this section, the term ‘appropriate agency head’ means—
 
-&emsp;“(1) with respect to any individual under subsection (b)(1), the Secretary of the Treasury;
+&emsp;“\[(1) Repealed. Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288;\]
 
 &emsp;“(2) with respect to any individual under subsection (b)(2), the Secretary of the Interior;
 
@@ -241,5 +241,5 @@ Section 529 \[title IV, §412\] of Pub. L. 101–509 provided that: “Not later
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3326, 5363, 5542, 5543, 5545, 5547 of this title; title 18 section 3006A; title 31 section 325; title 38 section 7451.
+This section is referred to in sections 3326, 5363, 5542, 5543, 5545, 5547 of this title; title 18 section 3006A; title 21 section 848; title 31 section 325; title 38 section 7451.
 

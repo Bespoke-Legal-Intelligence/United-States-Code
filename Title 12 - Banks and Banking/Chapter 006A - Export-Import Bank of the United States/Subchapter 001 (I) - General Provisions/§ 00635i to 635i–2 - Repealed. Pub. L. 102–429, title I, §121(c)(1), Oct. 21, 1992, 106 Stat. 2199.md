@@ -4,5 +4,5 @@ Section 635i, act July 31, 1945, ch. 341, §12, as added June 9, 1947, ch. 101, 
 
 Section 635i–1, act July 31, 1945, ch. 341, §13, as added Nov. 30, 1983, Pub. L. 98–181, title VI, §619(a), 97 Stat. 1260, related to establishment of special facilities in support of export transactions to Brazil and Mexico.
 
-Section 635i–2, act July 31, 1945, ch. 341, §14, as added Nov. 30, 1983, Pub. L. 98–181, title VI, §621, 97 Stat. 1261,related to notification to Congress of decrease in capital level of Bank.
+Section 635i–2, act July 31, 1945, ch. 341, §14, as added Nov. 30, 1983, Pub. L. 98–181, title VI, §621, 97 Stat. 1261, related to notification to Congress of decrease in capital level of Bank.
 

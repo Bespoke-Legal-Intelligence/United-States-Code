@@ -76,7 +76,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 #### (3) Penalty
 
-&emsp;Whoever knowingly violates paragraph (1) or (2) shall be fined not more than $1,000,000 foreach day such prohibition is violated or imprisoned for not more than 5 years, or both.
+&emsp;Whoever knowingly violates paragraph (1) or (2) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
 #### (e) Security standards; reports; penalty
 
@@ -94,7 +94,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 #### (g) Interest rates
 
-(1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district where such credit union is located, whichever may be greater.
+(1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district wheresuch credit union is located, whichever may be greater.
 
 (2) If the rate prescribed in paragraph (1) exceeds the rate such credit union would be permitted to charge in the absence of this subsection, and such State fixed rate is thereby preempted by the rate described in paragraph (1), the taking, receiving, reserving, or charging a greater rate than is allowed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the loan carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of interest paid from the credit union taking or receiving such interest.
 
@@ -114,7 +114,7 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 (2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured deposits or other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union's members with respect to those accounts.
 
-(June 26, 1934, ch. 750, title II, §205, as added Oct. 19, 1970, Pub. L. 91–468, §1(3), 84 Stat. 1002; amended Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681; Mar. 31, 1980, Pub. L. 96–221, title III, §305(d), title V, §523, 94 Stat. 147, 166; Oct. 15, 1982, Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), 96 Stat. 1486, 1489, 1540; Aug. 10, 1987, Pub. L. 100–86, title V, §509(a), 101 Stat. 635; Aug. 9, 1989, Pub. L. 101–73, title IX, §910(b), 103 Stat. 478; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320606, 108 Stat. 2119.)
+(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119.)
 
 #### References in Text
 
@@ -156,7 +156,7 @@ Subsec. (g). Pub. L. 96–221, §523, added subsec. (g).
 
 Enactment of subsec. (f) by Pub. L. 96–221 effective at the close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 371a of this title.
 
-Section 525 of Pub. L. 96–221 provided that: “The amendments made by sections 521 through 523 of this title \[amending this section and enacting sections 1730g and 1831d of this title\] shall apply only with respect to loans made in any State during the period beginning on April 1, 1980, and ending on the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the amendments made by such sections to apply with respect to loans made in such State, except that such amendments shall apply to a loan made on or after the date such law is adopted or such certification is made if such loan is made pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.”
+Section 525 of Pub. L. 96–221 provided that: “The amendments made by sections 521 through 523 of this title \[amending this section and enacting sections 1730g and 1831d of this title\] shall apply only with respect to loans made in any State during the period beginning on April 1, 1980, and ending on the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the amendments made by such sections to apply with respect to loans made in such State, except that suchamendments shall apply to a loan made on or after the date such law is adopted or such certification is made if such loan is made pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.”
 
 #### Effective Date of 1978 Amendment
 

@@ -6,7 +6,7 @@ The Comptroller of the Currency may, without prior notice or hearings, appoint a
 
 &emsp;(2) the association's board of directors consists of fewer than 5 members.
 
-(June 30, 1876, ch. 156, §2, formerly §1, 19 Stat. 63; Sept. 8, 1959, Pub. L. 86–230, §16, 73 Stat. 458; Dec. 19, 1991, Pub. L. 102–242, title I, §133(b), 105 Stat. 2271; renumbered §2 and amended Oct. 28, 1992, Pub. L. 102–550, title XVI, §1603(d)(6), (7), 106 Stat. 4080.)
+(June 30, 1876, ch. 156, §2, formerly §1, 19 Stat. 63; Pub. L. 86–230, §16, Sept. 8, 1959, 73 Stat. 458; Pub. L. 102–242, title I, §133(b), Dec. 19, 1991, 105 Stat. 2271; renumbered §2 and amended Pub. L. 102–550, title XVI, §1603(d)(6), (7), Oct. 28, 1992, 106 Stat. 4080.)
 
 #### Prior Provisions
 
@@ -28,7 +28,7 @@ Section 1609 of Pub. L. 102–550 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b) or any other provision of this subtitle \[subtitle A\(§§1601–1609) of title XVI of Pub. L. 102–550, see Tables for classification\], the amendments made by this subtitle to the Federal Deposit Insurance Corporation Improvement Act of 1991, the Federal Deposit Insurance Act, and any other law shall take effect as if such amendments had been included in the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\] as of the date of the enactment of such Act \[Dec. 19, 1991\].
+In General.—Except as provided in subsection (b) or any other provision of this subtitle \[subtitle A (§§1601–1609) of title XVI of Pub. L. 102–550, see Tables for classification\], the amendments made by this subtitle to the Federal Deposit Insurance Corporation Improvement Act of 1991, the Federal Deposit Insurance Act, and any other law shall take effect as if such amendments had been included in the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\] as of the date of the enactment of such Act \[Dec. 19, 1991\].
 
 “(b)
 

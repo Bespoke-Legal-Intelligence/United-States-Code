@@ -56,7 +56,9 @@ All duties delegated to the circuit executive shall be subject to the general su
 
 (4) The circuit executive and his staff shall be deemed to be officers and employees of the judicial branch of the United States Government within the meaning of subchapter III of chapter 83 (relating to civil service retirement), chapter 87 (relating to Federal employees’ life insurance program), and chapter 89 (relating to Federal employees’ health benefits program) of title 5, United States Code.
 
-(June 25, 1948, ch. 646, 62 Stat. 902; Nov. 13, 1963, Pub. L. 88–176, §3, 77 Stat. 331; Jan. 5, 1971, Pub. L. 91–647, 84 Stat. 1907; Nov. 6, 1978, Pub. L. 95–598, title II, §209, 92 Stat. 2661; Oct. 15, 1980, Pub. L. 96–458, §2(a)–(d)(1), 94 Stat. 2035, 2036; Oct. 1, 1988, Pub. L. 100–459, title IV, §407, 102 Stat. 2213; Nov. 19, 1988, Pub. L. 100–702, title IV, §403(a)(2), (b), title X, §§1018, 1020(a)(1), 102 Stat. 4651, 4670, 4671; Dec. 1, 1990, Pub. L. 101–650, titleIII, §§323, 325(b)(1), title IV, §403, 104 Stat. 5120, 5121, 5124; Dec. 9, 1991, Pub. L. 102–198, §1, 105 Stat. 1623.)
+(g) No later than January 31 of each year, each judicial council shall submit a report to the Administrative Office of the United States Courts on the number and nature of orders entered under this section during the preceding calendar year that relate to judicial misconduct or disability.
+
+(June 25, 1948, ch. 646, 62 Stat. 902; Pub. L. 88–176, §3, Nov. 13, 1963, 77 Stat. 331; Pub. L. 91–647, Jan. 5, 1971, 84 Stat. 1907; Pub. L. 95–598, title II, §209, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 96–458, §2(a)–(d)(1), Oct. 15, 1980, 94 Stat. 2035, 2036; Pub. L. 100–459, title IV, §407, Oct. 1, 1988, 102 Stat. 2213; Pub. L. 100–702, title IV, §403(a)(2), (b), title X, §§1018, 1020(a)(1), Nov. 19, 1988, 102 Stat. 4651, 4670, 4671; Pub. L. 101–650, title III, §§323, 325(b)(1), title IV, §403, Dec. 1, 1990, 104 Stat. 5120, 5121, 5124; Pub. L. 102–198, §1, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 104–317, title II, §208, Oct. 19, 1996, 110 Stat. 3851.)
 
 #### Historical and Revision Notes
 
@@ -74,9 +76,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 #### Amendments
 
-1991—Subsec. (a)(1). Pub. L. 102–198 substituted “such number” for “such member” and “service” for “services”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–317 added subsec. (g).
 
-1990—Subsec. (a)(1). Pub. L. 101–650, §323(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The chief judge of each judicial circuit shall call, at least twice in each year and at such places as he may designate, a meeting of the judicial council of the circuit, consisting of—
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–198 substituted “such number” for “such member” and “service” for “services”.
+
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–650, §323(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The chief judge of each judicial circuit shall call, at least twice in each year and at such places as he may designate, a meeting of the judicial council of the circuit, consisting of—
 
 &emsp;“(A) the chief judge of the circuit, who shall preside;
 
@@ -86,7 +90,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 &emsp;&emsp;“(i) if the number of circuit judges fixed in accordance with subparagraph (B) of this paragraph is less than six, the number of district judges fixed in accordance with this subparagraph shall be no less than two; and
 
-&emsp;&emsp;“(ii) if the number of circuit judges fixed in accordance with subparagraph (B) of this paragraph is six or more, the number of district judges fixed in accordance with this subparagraph shall be no less than three.”
+&emsp;&emsp;“(ii) if the number of circuit judges fixed in accordance with subparagraph (B) of this paragraph issix or more, the number of district judges fixed in accordance with this subparagraph shall be no less than three.”
 
 Subsec. (a)(3) to (7). Pub. L. 101–650, §323(b), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “The number of circuit and district judges fixed in accordance with paragraphs (1)(B) and (1)(C) of this subsection shall be set by order of the court of appeals for the circuit no less than six months prior to a scheduled meeting of the council so constituted.”
 
@@ -94,7 +98,7 @@ Subsec. (d)(2). Pub. L. 101–650, §403, inserted at end “In the case of fail
 
 Subsec. (f)(1). Pub. L. 101–650, §325(b)(1), substituted “under section 5315 of title 5” for “(5 U.S.C. 5316)”.
 
-1988—Subsec. (c). Pub. L. 100–702, §1020(a)(1), substituted “semiannual” for “semi-annually”.
+<b>1988</b>—Subsec. (c). Pub. L. 100–702, §1020(a)(1), substituted “semiannual” for “semi-annually”.
 
 Subsec. (d)(1). Pub. L. 100–702, §403(b), inserted after first sentence “Any general order relating to practice and procedure shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such order so relating shall take effect upon the date specified by such judicial council. Copies of such orders so relating shall be furnished to the Judicial Conference and the Administrative Office of the United States Courts and be made available to the public.”
 
@@ -106,7 +110,7 @@ Subsec. (f). Pub. L. 100–702, §1018(2), designated last four undesignated par
 
 Pub. L. 100–459 substituted “level IV” for “level V”.
 
-1980—Pub. L. 96–458, §2(d)(1), substituted “Judicial councils of circuits” for “Judicial councils” in section catchline.
+<b>1980</b>—Pub. L. 96–458, §2(d)(1), substituted “Judicial councils of circuits” for “Judicial councils” in section catchline.
 
 Subsec. (a). Pub. L. 96–458, §2(a), in par. (1) designated existing provisions as introductory provision and in such introductory provision substituted “each judicial circuit” for “each circuit”, substituted “a meeting of the judicial council of the circuit, consisting of—” for “a council of the circuit judges for the circuit, in regular active service, at which he shall preside. Each circuit judge, unless excused by the chief judge, shall attend all sessions of the council.”, and added subpars. (A) to (C) and pars. (2) to (7).
 
@@ -114,11 +118,11 @@ Subsec. (c). Pub. L. 96–458, §2(b), substituted “semiannually” for “qua
 
 Subsec. (d). Pub. L. 96–458, §2(c), amended subsec. (d) generally, designating existing provisions as par. (1), inserting “and appropriate” after “all necessary”, substituting “justice within its circuit” for “the business of the courts within its circuit”, striking out “The district judges shall promptly carry into effect all orders of the judicial council.” after “within its circuit.”, inserting provisions relating to the holding of hearings, taking of testimony, the issuance of subpoenas and service thereof under the Federal Rules of Civil Procedure, and adding pars. (2) and (3).
 
-1978—Subsec. (d). Pub. L. 95–598 directed the amendment of subsec. (d) by inserting “and bankruptcy judges” after “The district judges”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsec. (d). Pub. L. 95–598 directed the amendment of subsec. (d) by inserting “and bankruptcy judges” after “The district judges”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1971—Pub. L. 91–647 designated existing four paragraphs as subsecs. (a), (b), (c), and (d), respectively, and added subsecs. (e) and (f).
+<b>1971</b>—Pub. L. 91–647 designated existing four paragraphs as subsecs. (a), (b), (c), and (d), respectively, and added subsecs. (e) and (f).
 
-1963—Pub. L. 88–176 inserted “regular” before “active service” in first sentence.
+<b>1963</b>—Pub. L. 88–176 inserted “regular” before “active service” in first sentence.
 
 #### Effective Date of 1990 Amendment
 

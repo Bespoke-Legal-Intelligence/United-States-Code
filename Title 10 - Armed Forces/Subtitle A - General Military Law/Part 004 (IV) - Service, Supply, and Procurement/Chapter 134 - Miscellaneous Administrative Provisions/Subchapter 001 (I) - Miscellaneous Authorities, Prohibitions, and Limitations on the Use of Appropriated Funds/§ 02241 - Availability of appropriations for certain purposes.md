@@ -34,6 +34,26 @@ Subsection (b) of this section and sections 2242(1), (4) and 2253(a)(1) of this 
 
 Section 705 of Public Law 98–212, to be codified as 10 U.S.C. 2241(b), provides that defense appropriations may be used in connection with certain services and supplies “as may be necessary to carry out the purposes of this Act”. The reference to “this Act” means Public Law 98–212, the FY84 Defense Appropriations Act. Language similar to section 705 had been enacted as part of the annual defense appropriation Act for many years. In the FY84 Act, section 705 was enacted as a permanent provision. The quoted phrase above was not, however, revised from the traditional annual wording as the provision had appeared in annual appropriations Acts in order to give it effect beyond the fiscal year concerned. Since the general purpose of a defense appropriations Act is to provide funds for national defense purposes, the committee, in codifying this provision, revised the quoted phrase so as to read “that may be necessary for the national defense”. No change in meaning is intended.
 
+#### Use of Funds for Modification of Retired Aircraft, Weapon, Ship or Other Item of Equipment
+
+Pub. L. 105–56, title VIII, §8053, Oct. 8, 1997, 111 Stat. 1232, provided that: “None of the funds provided in this Act \[see Tables for classification\] and hereafter shall be available for use by a military department to modify an aircraft, weapon, ship or other item of equipment, that the military department concerned plans to retire or otherwise dispose of within 5 years after completion of the modification: <i>Provided</i>, That this prohibition shall not apply to safety modifications: <i>Provided further</i>, That this prohibition may be waived by the Secretary of a military department if the Secretary determines it is in the best national security interest of the United States to provide such waiver and so notifies the congressional defense committees in writing.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8055\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99.
+
+Pub. L. 104–61, title VIII, §8068, Dec. 1, 1995, 109 Stat. 664.
+
+Pub. L. 103–335, title VIII, §8079, Sept. 30, 1994, 108 Stat. 2636.
+
+Pub. L. 103–139, title VIII, §8098, Nov. 11, 1993, 107 Stat. 1462.
+
+Pub. L. 102–396, title IX, §9034, Oct. 6, 1992, 106 Stat. 1908.
+
+Pub. L. 102–172, title VIII, §8034, Nov. 26, 1991, 105 Stat. 1178.
+
+Pub. L. 101–511, title VIII, §8035, Nov. 5, 1990, 104 Stat. 1882.
+
 #### Demonstration Project for Uniform Funding of Morale, Welfare, and Recreation Activities at Certain Military Installations
 
 Pub. L. 104–106, div. A, title III, §335, Feb. 10, 1996, 110 Stat. 262, provided that:
@@ -138,7 +158,7 @@ Sec. 9025. \[Provided that no funds available to the Department of Defense could
 
 “
 
-Sec. 9030. \[Provided that funds available to the Department of Defense could be used by the Department for helicopters and motorized equipment at Defense installations for removal of feral burros and horses; andwas repealed and restated in section 2678 of this title by Pub. L. 101–510, div. A, title XIV, §1481(h)(1), (3), Nov. 5, 1990, 104 Stat. 1708.\]
+Sec. 9030. \[Provided that funds available to the Department of Defense could be used by the Department for helicopters and motorized equipment at Defense installations for removal of feral burros and horses; and was repealed and restated in section 2678 of this title by Pub. L. 101–510, div. A, title XIV, §1481(h)(1), (3), Nov. 5, 1990, 104 Stat. 1708.\]
 
 “Sec. 9079. None of the funds appropriated by this Act or hereafter shall be obligated for the second career training program authorized by Public Law 96–347 \[amending sections 2109, 3307, 3381 to 3385, and 8335 of Title 5, Government Organization and Employees\].”
 

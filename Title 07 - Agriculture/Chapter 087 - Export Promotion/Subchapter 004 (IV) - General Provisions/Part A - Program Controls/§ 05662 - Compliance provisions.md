@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the administration of the programs established under sections 5621, 5622, 5623, and 5651 of this title the Secretary shall require by regulation each exporter or other participant under the program to maintain all records concerning a program transaction for a period of not to exceed 5 years after completion of the program transaction, and to permit the Secretary to have full and complete access, for such 5-year period, to such records.
+&emsp;In the administration of the programs established under sections 5621, 5622, 5623, and 5651of this title the Secretary shall require by regulation each exporter or other participant under the program to maintain all records concerning a program transaction for a period of not to exceed 5 years after completion of the program transaction, and to permit the Secretary to have full and complete access, for such 5-year period, to such records.
 
 #### (2) Confidentiality
 

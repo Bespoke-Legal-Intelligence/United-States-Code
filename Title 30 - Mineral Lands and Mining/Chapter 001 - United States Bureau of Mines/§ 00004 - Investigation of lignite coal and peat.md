@@ -2,7 +2,7 @@
 
 The Secretary of the Interior is authorized and directed to make experiments and investigations, through the United States Bureau of Mines, of lignite coals and peat, to determine the commercial and economic practicability of their utilization in producing fuel oil, gasoline substitutes, ammonia, tar, solid fuels, gas for power, and other purposes. The Secretary of the Interior is authorized and directed subject to applicable regulations under the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\], to sell or otherwise dispose of any property, plant, or machinery purchased or acquired under the provisions of this section, as soon as the experiments and investigations authorized have been concluded, and report the results of such experiments and investigations to Congress.
 
-(Feb. 25, 1919, ch. 23, §§1, 2, 40 Stat. 1154; Ex. Ord. No. 4239, June 4, 1925; Ex. Ord. No. 6611, Feb. 22, 1934; Oct. 31, 1951, ch. 654, §2(18), 65 Stat. 707; May 18, 1992, Pub. L. 102–285, §10(b), 106 Stat. 172.)
+(Feb. 25, 1919, ch. 23, §§1, 2, 40 Stat. 1154; Ex. Ord. No. 4239, June 4, 1925; Ex. Ord. No. 6611, Feb. 22, 1934; Oct. 31, 1951, ch. 654, §2(18), 65 Stat. 707; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### References in Text
 

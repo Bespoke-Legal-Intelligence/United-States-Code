@@ -38,7 +38,7 @@ Agency regulations.—The regulations issued under paragraph (1) shall be the sa
 
 &emsp;&emsp;&emsp;(i) would be equally effective for the implementation of the rights and protections under this section; and
 
-&emsp;&emsp;&emsp;(ii) would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government.
+&emsp;&emsp;&emsp;(ii) would promote uniformity in the application of Federal law to employees inthe executive branch of the Federal Government.
 
 (d)
 

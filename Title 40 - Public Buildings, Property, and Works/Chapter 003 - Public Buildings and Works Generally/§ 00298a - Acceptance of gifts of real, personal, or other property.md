@@ -2,7 +2,7 @@
 
 The Administrator of General Services, together with the United States Postal Service where his office is concerned, is authorized to accept on behalf of the United States unconditional gifts of real, personal, or other property in aid of any project or function within their respective jurisdictions.
 
-(June 16, 1949, ch. 218, title IV, §404, 63 Stat. 199; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; Aug. 12, 1970, Pub. L. 91–375, §4(a), 84 Stat. 773.)
+(June 16, 1949, ch. 218, title IV, §404, 63 Stat. 199; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380; Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773.)
 
 #### Transfer of Functions
 

@@ -16,7 +16,7 @@ For the purposes of this subchapter—
 
 (2) Notwithstanding the provisions of subdivision (1) of this subsection, the term “employer” shall not include—
 
-&emsp;(i) any company by reason of its being engaged in the mining of coal, the supplying of coal to an employer where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities, and
+&emsp;(i) any company by reason of its being engaged in the mining of coal, the supplying ofcoal to an employer where delivery is not beyond the mine tipple, and the operation of equipment or facilities therefor, or in any of such activities, and
 
 &emsp;(ii) any street, interurban, or suburban electric railway, unless such railway is operating as a part of a general diesel-railroad system of transportation, but shall not exclude any part of the general diesel-railroad system of transportation now or hereafter operated by any other motive power. The Surface Transportation Board is hereby authorized and directed upon request of the Railroad Retirement Board, or upon complaint of any party interested, to determine after hearing whether any line operated by electric power falls within the terms of this paragraph.
 
@@ -44,7 +44,7 @@ For the purposes of this subchapter—
 
 (e)(1) An individual shall be deemed to have been in the employment relation to an employer on August 29, 1935, if—
 
-&emsp;(i) he was on that date on leave of absence from his employment, expressly granted to him by the employer by whom he was employed, or by a duly authorized representativeof such employer, and the grant of such leave of absence will have been established to the satisfaction of the Board before July 1947;
+&emsp;(i) he was on that date on leave of absence from his employment, expressly granted to him by the employer by whom he was employed, or by a duly authorized representative of such employer, and the grant of such leave of absence will have been established to the satisfaction of the Board before July 1947;
 
 &emsp;(ii) he was in the service of an employer after August 29, 1935, and before January 1946 in each of six calendar months, whether or not consecutive;
 
@@ -126,7 +126,7 @@ For the purposes of this subchapter—
 
 (r) For purposes of this subchapter, a person shall be considered to be permanently insured under the Social Security Act \[42 U.S.C. 301 et seq.\] on December 31, 1974, if he or she would be fully insured within the meaning of section 214(a) of that Act \[42 U.S.C. 414(a)\] when he or she attains age 62 solely on the basis of his or her quarters of coverage under that Act acquired prior to January 1, 1975.
 
-(Aug. 29, 1935, ch. 812, §1, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I, §101, 88 Stat. 1305; amended Oct. 18, 1976, Pub. L. 94–547, §4(a), 90 Stat. 2526; Aug. 13, 1981, Pub. L. 97–35, title XI, §1116, 95 Stat. 628; Jan. 14, 1983, Pub. L. 97–468, title VI, §615(b)(6), 96 Stat. 2578; Aug. 12, 1983, Pub. L. 98–76, title IV, §§402(a), 403(a), 410(a), 97 Stat. 434, 435; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Nov. 10, 1988, Pub. L. 100–647, title VII, §7304(a), 102 Stat. 3778; Dec. 19, 1989, Pub. L. 101–239, title X, §10208(d)(2)(B)(ii), 103 Stat. 2481; Dec. 29, 1995, Pub. L. 104–88, title III, §323, 109 Stat. 950.)
+(Aug. 29, 1935, ch. 812, §1, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305; amended Pub. L. 94–547, §4(a), Oct. 18, 1976, 90 Stat. 2526; Pub. L. 97–35, title XI, §1116, Aug. 13, 1981, 95 Stat. 628; Pub. L. 97–468, title VI, §615(b)(6), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–76, title IV, §§402(a), 403(a), 410(a), Aug. 12, 1983, 97 Stat. 434, 435; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VII, §7304(a), Nov. 10, 1988, 102 Stat. 3778; Pub. L. 101–239, title X, §10208(d)(2)(B)(ii), Dec. 19, 1989, 103 Stat. 2481; Pub. L. 104–88, title III, §323, Dec. 29, 1995, 109 Stat. 950.)
 
 #### References in Text
 

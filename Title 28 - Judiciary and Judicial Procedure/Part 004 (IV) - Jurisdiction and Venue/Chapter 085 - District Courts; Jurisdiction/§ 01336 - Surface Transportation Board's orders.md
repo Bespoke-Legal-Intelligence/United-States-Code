@@ -6,7 +6,7 @@
 
 (c) Any action brought under subsection (b) of this section shall be filed within 90 days from the date that the order of the Surface Transportation Board becomes final.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Aug. 30, 1964, Pub. L. 88–513, §1, 78 Stat. 695; Jan. 2, 1975, Pub. L. 93–584, §1, 88 Stat. 1917; Apr. 2, 1982, Pub. L. 97–164, title I, §128, 96 Stat. 39; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516; Dec. 29, 1995, Pub. L. 104–88, title III, §305(a)(1), (2), 109 Stat. 944.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 88–513, §1, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, §1,Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, §128, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–88, title III, §305(a)(1), (2), Dec. 29, 1995, 109 Stat. 944.)
 
 #### Historical and Revision Notes
 
@@ -20,15 +20,15 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1995—Pub. L. 104–88 substituted “Surface Transportation Board's” for “Interstate Commerce Commission's” in section catchline and “Surface Transportation Board” for “Interstate Commerce Commission” wherever appearing in text.
+<b>1995</b>—Pub. L. 104–88 substituted “Surface Transportation Board's” for “Interstate Commerce Commission's” in section catchline and “Surface Transportation Board” for “Interstate Commerce Commission” wherever appearing in text.
 
-1992—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
-1975—Subsec. (a). Pub. L. 93–584 substituted provisions that the district courts shall have jurisdiction of civil actions to enforce, in whole or in part, orders of the Interstate Commerce Commission, and to enjoin or suspend, in whole or in part, any order of the Interstate Commerce Commission for the payment of money or the collection of fines, penalties, and forfeitures, for provisions that the district courts shall have jurisdiction of civil actions to enforce, enjoin, set aside, annul or suspend, in whole or in part, any order of the Interstate Commerce Commission.
+<b>1975</b>—Subsec. (a). Pub. L. 93–584 substituted provisions that the district courts shall have jurisdiction of civil actions to enforce, in whole or in part, orders of the Interstate Commerce Commission, and to enjoin or suspend, in whole or in part, any order of the Interstate Commerce Commission for the payment of money or the collection of fines, penalties, and forfeitures, for provisions that the district courts shall have jurisdiction of civil actions to enforce, enjoin, set aside, annul or suspend, in whole or in part, any order of the Interstate Commerce Commission.
 
-1964—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+<b>1964</b>—Pub. L. 88–513 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1995 Amendment
 

@@ -25,6 +25,7 @@
 | (f) | Security. |
 | [960\.](%C2%A7%2000960%20-%20Commissions%E2%80%99%20functions%20not%20restrained%20by%20this%20chapter%20or%20State%20laws.md) | Commissions’ functions not restrained by this chapter or State laws. |
 | [961\.](%C2%A7%2000961%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [962\.](%C2%A7%2000962%20-%20Reduction%20of%20bycatch%20in%20eastern%20tropical%20Pacific%20Ocean.md) | Reduction of bycatch in eastern tropical Pacific Ocean. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,3 +49,4 @@ This chapter is referred to in section 3377 of this title.
 - [&sect; 00959 - Enforcement of chapter](%C2%A7%2000959%20-%20Enforcement%20of%20chapter.md)
 - [&sect; 00960 - Commissions&#8217; functions not restrained by this chapter or State laws](%C2%A7%2000960%20-%20Commissions%E2%80%99%20functions%20not%20restrained%20by%20this%20chapter%20or%20State%20laws.md)
 - [&sect; 00961 - Authorization of appropriations](%C2%A7%2000961%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00962 - Reduction of bycatch in eastern tropical Pacific Ocean](%C2%A7%2000962%20-%20Reduction%20of%20bycatch%20in%20eastern%20tropical%20Pacific%20Ocean.md)

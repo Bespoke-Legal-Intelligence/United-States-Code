@@ -18,13 +18,13 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 &emsp;(B) In the case of a military installation with boundaries contiguous to two or more States, local educational agencies in the contiguous States that are similar to the local educational agency referred to in paragraph (1)(B).
 
-&emsp;(C) In the case of a military installation located in a territory, commonwealth, or possession, the District of Columbia public schools, except that an educational program determined comparable under this subparagraph may be considered appropriate for the purposes of paragraph (1)(B) only if the program is conducted in the English language.
+&emsp;(C) In the case of a military installation located in a territory, commonwealth, or possession, the District of Columbia public schools, except that an educational program determined comparable under this subparagraphmay be considered appropriate for the purposes of paragraph (1)(B) only if the program is conducted in the English language.
 
 (c)
 
 Eligibility of Dependents of Federal Employees.—(1) A dependent of a Federal employee residing in permanent living quarters on a military installation at any time during the school year may enroll in an educational program provided by the Secretary of Defense pursuant to subsection (a) for dependents residing on such installation.
 
-(2)(A) Except as provided in subparagraphs (B) and (C), a dependent of a Federal employee who is enrolled in an educational program providedby the Secretary pursuant to subsection (a) and who is not residing on a military installation may be enrolled in the program for not more than five consecutive school years.
+(2)(A) Except as provided in subparagraphs (B) and (C), a dependent of a Federal employee who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) and who is not residing on a military installation may be enrolled in the program for not more than five consecutive school years.
 
 (B) A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.
 

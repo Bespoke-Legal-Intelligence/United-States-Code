@@ -52,7 +52,7 @@ As used in this section:
 
 #### (1) Grants
 
-&emsp;The Corporation may make grants to communities and community-based agencies to pay for the Federal share of establishing andcarrying out military installation conversion demonstration programs, to assist in converting to community use affected military installations located—
+&emsp;The Corporation may make grants to communities and community-based agencies to pay for the Federal share of establishing and carrying out military installation conversion demonstration programs, to assist in converting to community use affected military installations located—
 
 &emsp;&emsp;(A) within the community; or
 
@@ -70,7 +70,7 @@ As used in this section:
 
 #### (1) Stipend
 
-&emsp;A community or community-based agency that receives a grant under subsection (c) of this section to establish and carry out a project through a demonstration program may use the funds made available through such grant to pay for a portion of a stipend for the participants in the project.
+&emsp;A community or community-based agency that receives a grant under subsection (c) of this section to establish and carry out a project through a demonstration program mayuse the funds made available through such grant to pay for a portion of a stipend for the participants in the project.
 
 #### (2) Limitation on amount of stipend
 

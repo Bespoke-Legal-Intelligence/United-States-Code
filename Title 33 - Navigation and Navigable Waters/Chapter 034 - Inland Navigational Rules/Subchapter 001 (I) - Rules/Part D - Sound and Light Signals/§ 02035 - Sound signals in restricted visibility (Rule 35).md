@@ -8,7 +8,7 @@ A power-driven vessel making way through the water shall sound at intervals of n
 
 #### (b) Power-driven vessels underway but stopped and making no way through the water
 
-A power-driven vessel underway but stopped and making no way through the water shall sound at intervals of not more than 2 minutes two prolonged blasts in succession with an interval of about 2 seconds between them.
+A power-driven vessel underway but stopped and making no way through the water shall sound at intervals of not more than 2 minutestwo prolonged blasts in succession with an interval of about 2 seconds between them.
 
 #### (c) Vessels not under command; vessels restricted in ability to maneuver; sailing vessels; vessels engaged in fishing; vessels engaged in towing or pushing
 
@@ -32,7 +32,7 @@ A vessel aground shall give the bell signal and if required the gong signal pres
 
 #### (h) Vessels of less than 12 meters in length
 
-A vessel of less than 12 meters in length shall not be obliged to give the above-mentioned signals but, if she does not, shall make some otherefficient sound signal at intervals of not more than 2 minutes.
+A vessel of less than 12 meters in length shall not be obliged to give the above-mentioned signals but, if she does not, shall make some other efficient sound signal at intervals of not more than 2 minutes.
 
 #### (i) Pilot vessels
 

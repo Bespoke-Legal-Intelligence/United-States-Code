@@ -56,7 +56,7 @@ As used in this section—
 
 &emsp;(7) the term “State law” means the law of a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or a territory or possession of the United States.
 
-(Aug. 1, 1956, ch. 841, title I, §42, as added Nov. 18, 1988, Pub. L. 100–690, title IV, §4603(2), 102 Stat. 4287.)
+(Aug. 1, 1956, ch. 841, title I, §42, as added Pub. L. 100–690, title IV, §4603(2), Nov. 18, 1988, 102 Stat. 4287.)
 
 #### References in Text
 

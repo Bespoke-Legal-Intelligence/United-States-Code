@@ -6,7 +6,7 @@
 
 (2) Subject to valid existing rights, title to all property in the Virgin Islands which may have been acquired by the United States from Denmark under the Convention entered into August 16, 1916, not reserved or retained by the United States in accordance with the provisions of Public Law 93–435 (88 Stat. 1210) is hereby transferred to the Virgin Islands government.
 
-(July 22, 1954, ch. 558, §31, 68 Stat. 510; Oct. 5, 1974, Pub. L. 93–435, §3, 88 Stat. 1211; Mar. 12, 1980, Pub. L. 96–205, title IV, §401(a), 94 Stat. 88.)
+(July 22, 1954, ch. 558, §31, 68 Stat. 510; Pub. L. 93–435, §3, Oct. 5, 1974, 88 Stat. 1211; Pub. L. 96–205, title IV, §401(a), Mar. 12, 1980, 94 Stat. 88.)
 
 #### References in Text
 

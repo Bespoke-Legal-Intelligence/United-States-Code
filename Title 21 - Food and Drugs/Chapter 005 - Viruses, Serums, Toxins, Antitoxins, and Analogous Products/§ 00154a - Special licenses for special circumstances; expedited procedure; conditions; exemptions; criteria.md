@@ -18,7 +18,7 @@ In order to meet an emergency condition, limited market or local situation, or o
 
 &emsp;&emsp;(E) exercises the authority referred to in subclauses (A) through (D) consistent with the intent of this chapter of prohibiting the preparation, sale, barter, exchange, or shipment of worthless, contaminated, dangerous, or harmful virus, serum, toxin, or analogous products.
 
-(Mar. 4, 1913, ch. 145, §1 \[part\], as added Dec. 23, 1985, Pub. L. 99–198, title XVII, §1768(c), 99 Stat. 1654.)
+(Mar. 4, 1913, ch. 145, §1 \[part\], as added Pub. L. 99–198, title XVII, §1768(c), Dec. 23, 1985, 99 Stat. 1654.)
 
 #### Codification
 

@@ -46,11 +46,11 @@ As used in this section—
 
 &emsp;(3) the term “specifically authorized by the Congress” means that—
 
-&emsp;&emsp;(A) the activity and the amount of funds proposed to be used for that activity were identified in a formal budget request to the Congress, but funds shall be deemed to be specifically authorized for that activity onlyto the extent that the Congress both authorized the funds to be appropriated for that activity and appropriated the funds for that activity; or
+&emsp;&emsp;(A) the activity and the amount of funds proposed to be used for that activity were identified in a formal budget request to the Congress, but funds shall be deemed to be specifically authorized for that activity only to the extent that the Congress both authorized the funds to be appropriated for that activity and appropriated the funds for that activity; or
 
 &emsp;&emsp;(B) although the funds were not formally requested, the Congress both specifically authorized the appropriation of the funds for the activity and appropriated the funds for the activity.
 
-(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Dec. 4, 1985, Pub. L. 99–169, title IV, §401(a), 99 Stat. 1004; renumbered §504 and amended Aug. 14, 1991, Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, 105 Stat. 441, 444.)
+(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444.)
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Subsecs. (c) to (e). Pub. L. 102–88, §603, added subsecs. (c) and (d) and red
 
 #### Limitation on Transfer of Funds Between CIA and Department of Defense; Congressional Notification Required
 
-Pub. L. 103–139, title VIII, §8107, Nov. 11, 1993, 107 Stat. 1464, provided that: “During the current fiscal year and thereafter, no funds may be made available through transfer, reprogramming, or other means between the Central Intelligence Agency and the Department of Defense for any intelligence or special activity different from that previously justified to the Congress unless the Director of Central Intelligence or the Secretary of Defense has notified the House and Senate Appropriations Committees of the intent to make such funds available for such activity.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 103–139, title VIII, §8107, Nov. 11, 1993, 107 Stat. 1464, provided that: “During the current fiscalyear and thereafter, no funds may be made available through transfer, reprogramming, or other means between the Central Intelligence Agency and the Department of Defense for any intelligence or special activity different from that previously justified to the Congress unless the Director of Central Intelligence or the Secretary of Defense has notified the House and Senate Appropriations Committees of the intent to make such funds available for such activity.” Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 102–396, title IX, §9014, Oct. 6, 1992, 106 Stat. 1903.
 

@@ -88,7 +88,7 @@
 
 &emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv); and
 
-&emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection ofinformation submitted to the Director for review under section 3507—
+&emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection of information submitted to the Director for review under section 3507—
 
 &emsp;&emsp;(A) is necessary for the proper performance of the functions of the agency, including that the information has practical utility;
 
@@ -205,6 +205,52 @@ Subsec. (c)(1). Pub. L. 104–106, §5125(a)(2), substituted “Chief Informatio
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+
+#### Ex. Ord. No. 13073. Year 2000 Conversion
+
+Ex. Ord. No. 13073, Feb. 4, 1998, 63 F.R. 6467, provided:
+
+The American people expect reliable service from their Government and deserve the confidence that critical government functions dependent on electronic systems will be performed accurately and in a timely manner. Because of a design feature in many electronic systems, a large number of activities in the public and private sectors could be at risk beginning in the year 2000.Some computer systems and other electronic devices will misinterpret the year “00” as 1900, rather than 2000. Unless appropriate action is taken, this flaw, known as the “Y2K problem,” can cause systems that support those functions to compute erroneously or simply not run. Minimizing the Y2K problem will require a major technological and managerial effort, and it is critical that the United States Government do its part in addressing this challenge.
+
+Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. (a) It shall be the policy of the executive branch that agencies shall:
+
+(1) assure that no critical Federal program experiences disruption because of the Y2K problem;
+
+(2) assist and cooperate with State, local, and tribal governments to address the Y2K problem where those governments depend on Federal information or information technology or the Federal Government is dependent on those governments to perform critical missions;
+
+(3) cooperate with the private sector operators of critical national and local systems, including the banking and financial system, the telecommunications system, the public health system, the transportation system, and the electric power generation system, in addressing the Y2K problem; and
+
+(4) communicate with their foreign counterparts to raise awareness of and generate cooperative international arrangements to address the Y2K problem.
+
+(b) As used in this order, “agency” and “agencies” refer to Federal agencies that are not in the judicial or legislative branches.
+
+Sec. 2. <i>Year 2000 Conversion Council</i>. There is hereby established the President's Council on Year 2000 Conversion (the “Council”).
+
+(a) The Council shall be led by a Chair who shall be an Assistant to the President, and it shall be composed of one representative from each of the executive departments and from such other Federal agencies as may be determined by the Chair of the Council (the “Chair”).
+
+(b) The Chair shall appoint a Vice Chair and assign other responsibilities for operations of the council as he or she deems necessary.
+
+(c) The Chair shall oversee the activities of agencies to assure that their systems operate smoothly through the year 2000, act as chief spokesperson on this issue for the executive branch in national and international fora, provide policy coordination of executive branch activities with State, local, and tribal governments on the Y2K problem, and promote appropriate Federal roles with respect to private sector activities in this area.
+
+(d) The Chair and the Director of the Office of Management and Budget shall report jointly at least quarterly to me on the progress of agencies in addressing the Y2K problem.
+
+(e) The Chair shall identify such resources from agencies as the Chair deems necessary for the implementation of the policies set out in this order, consistent with applicable law.
+
+Sec. 3. <i>Responsibilities of Agency Heads</i>. (a) The head of each agency shall:
+
+(1) assure that efforts to address the Y2K problem receive the highest priority attention in the agency and that the policies established in this order are carried out; and
+
+(2) cooperate to the fullest extent with the Chair by making available such information, support, and assistance, including personnel, as the Chair may request to support the accomplishment of the tasks assigned herein, consistent with applicable law.
+
+(b) The heads of executive departments and the agencies designated by the Chair under section 2(a) of this order shall identify a responsible official to represent the head of the executive department or agency on the Council with sufficient authority and experience to commit agency resources to address the Y2K problem.
+
+Sec. 4. <i>Responsibilities of Interagency and Executive Office Councils</i>. Interagency councils and councils within the Executive Office of the President, including the President's Management Council, the Chief Information Officers Council, the Chief Financial Officers Council, the President's Council on Integrity and Efficiency, the Executive Council on Integrity and Efficiency, the National Science and Technology Council, the National Performance Review, the National Economic Council, the Domestic Policy Council, and the National Security Council shall provide assistance and support to the Chair upon the Chair's request.
+
+Sec. 5. <i>Judicial Review</i>. This Executive order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, or instrumentalities, its officers or employees, or any other person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

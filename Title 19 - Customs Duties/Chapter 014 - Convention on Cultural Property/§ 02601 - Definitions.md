@@ -32,7 +32,7 @@ For purposes of this chapter—
 
 &emsp;(4) The term “consignee” means a consignee as defined in section 1483 <sup>1</sup> of this title.
 
-&emsp;(5) The term “Convention” means the Convention on the means of prohibiting and preventing the illicit import, export, and transfer of ownership of cultural property adopted by the General Conference of the United Nations Educational, Scientific, and Cultural Organization at its sixteenth session.
+&emsp;(5) The term “Convention” means the Convention on the means of prohibiting and preventing the illicit import, export, and transfer of ownership of cultural property adopted by the General Conference of the United NationsEducational, Scientific, and Cultural Organization at its sixteenth session.
 
 &emsp;(6) The term “cultural property” includes articles described in article 1(a) through (k) of the Convention whether or not any such article is specifically designated as such by any State Party for the purposes of such article.
 

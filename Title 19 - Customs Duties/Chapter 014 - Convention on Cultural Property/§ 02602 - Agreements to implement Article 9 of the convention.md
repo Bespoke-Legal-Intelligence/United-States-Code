@@ -24,7 +24,7 @@
 
 &emsp;For purposes of paragraph (1), the President may enter into—
 
-&emsp;&emsp;(A) a bilateral agreement with the State Party to apply the import restrictions set forth in section 2606 of this title to the archaeological or ethnological material of the State Party the pillage of which is creating the jeopardy to the cultural patrimony of the State Party found to exist under paragraph (1)(A); or
+&emsp;&emsp;(A) a bilateral agreement with the State Party to apply the import restrictions set forth in section 2606 of this title to the archaeological or ethnological material of the State Party the pillage of which is creating the jeopardy to the cultural patrimony ofthe State Party found to exist under paragraph (1)(A); or
 
 &emsp;&emsp;(B) a multilateral agreement with the State Party and with one or more other nations (whether or not a State Party) under which the United States will apply such restrictions, and the other nations will apply similar restrictions, with respect to such material.
 
@@ -136,7 +136,7 @@ Section 1. <i>United States Information Agency</i>. The following functions conf
 
 (e) The functions conferred by section 303(g)(1)(B) relating to the notification of Presidential action and the furnishing of reports to the Congress.
 
-(f) The functions conferred by section 304(b) \[19 U.S.C. 2603(b)\] to the extent that they involve determinations by the President that an emergency condition applieswith respect to any archaeological or ethnological material of any State Party to the Convention, subject to the limitations of sections 304(c)(1), 304(c)(2), and 304(c)(3).
+(f) The functions conferred by section 304(b) \[19 U.S.C. 2603(b)\] to the extent that they involve determinations by the President that an emergency condition applies with respect to any archaeological or ethnological material of any State Party to the Convention, subject to the limitations of sections 304(c)(1), 304(c)(2), and 304(c)(3).
 
 (g) The functions conferred by section 304(c)(3) to the extent that they involve determinations to be made and the receipt and consideration of an advisory report from the Cultural Property Advisory Committee by the President prior to extensions of emergency import restrictions.
 

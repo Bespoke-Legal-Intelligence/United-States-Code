@@ -30,7 +30,7 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;(i) estimated amounts that the State, local, and tribal governments (in the case of a Federal intergovernmental mandate) or the private sector (in the case of a Federal private sector mandate) would spend—
 
-&emsp;&emsp;&emsp;&emsp;(I) to comply with or carry out all applicable Federal, State, local, and tribal laws and regulations in effect at the time of the adoption of the Federal mandate for the same activity as is affected by that Federal mandate; or
+&emsp;&emsp;&emsp;&emsp;(I) to comply with or carry out all applicable Federal, State, local, and tribal laws and regulations in effect at thetime of the adoption of the Federal mandate for the same activity as is affected by that Federal mandate; or
 
 &emsp;&emsp;&emsp;&emsp;(II) to comply with or carry out State, local, and tribal governmental programs, or private-sector business or other activities in effect at the time of the adoption of the Federal mandate for the same activity as is affected by that mandate; or
 
@@ -66,7 +66,7 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;&emsp;(II) the control of borders by the Federal Government; or reimbursement to State, local, or tribal governments for the net cost associated with illegal, deportable, and excludable aliens, including court-mandated expenses related to emergency health care, education or criminal justice; when such a reduction or elimination would result in increased net costs to State, local, or tribal governments in providing education or emergency health care to, or incarceration of, illegal aliens; except that this subclause shall not be in effect with respect to a State, local, or tribal government, to the extent that such government has not fully cooperated in the efforts of the Federal Government to locate, apprehend, and deport illegal aliens;
 
-&emsp;&emsp;(B) any provision in legislation, statute, or regulation that relates to a then-existingFederal program under which $500,000,000 or more is provided annually to State, local, and tribal governments under entitlement authority, if the provision—
+&emsp;&emsp;(B) any provision in legislation, statute, or regulation that relates to a then-existing Federal program under which $500,000,000 or more is provided annually to State, local, and tribal governments under entitlement authority, if the provision—
 
 &emsp;&emsp;&emsp;(i)(I) would increase the stringency of conditions of assistance to State, local, or tribal governments under the program; or
 
@@ -100,7 +100,7 @@ For purposes of this part:
 
 #### (10) Regulation; rule
 
-&emsp;The term “regulation” or “rule” (except with respect to a rule of either House of the Congress) has the meaning of “rule” as defined in section 601(2) of title 5.
+&emsp;The term “regulation” or “rule” (except with respect to a rule of either House of theCongress) has the meaning of “rule” as defined in section 601(2) of title 5.
 
 #### (11) Small government
 

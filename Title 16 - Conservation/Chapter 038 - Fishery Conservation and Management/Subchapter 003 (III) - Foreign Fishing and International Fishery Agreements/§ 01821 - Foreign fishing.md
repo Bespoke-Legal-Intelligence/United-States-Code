@@ -12,7 +12,7 @@ After February 28, 1977, no foreign fishing is authorized within the exclusive e
 
 #### (b) Existing international fishery agreements
 
-Foreign fishing described in subsection (a) of this section may be conducted pursuant to aninternational fishery agreement (subject to the provisions of section 1822(b) or (c) of this title), if such agreement—
+Foreign fishing described in subsection (a) of this section may be conducted pursuant to an international fishery agreement (subject to the provisions of section 1822(b) or (c) of this title), if such agreement—
 
 &emsp;(1) was in effect on April 13, 1976; and
 
@@ -20,7 +20,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 #### (c) Governing international fishery agreements
 
-Foreign fishing described in subsection (a) of this section may be conducted pursuant to an international fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of section 1823 of this title. Any such international fishery agreement shall hereafter in this chapter be referred to as a “governing international fishery agreement”. Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include a binding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
+Foreign fishing described in subsection (a) of this section may be conducted pursuant to an international fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of section 1823 of this title. Any such international fishery agreement shall hereafter in this chapter be referred to as a “governing international fishery agreement”. Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include abinding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
 
 &emsp;(1) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by all regulations promulgated by the Secretary pursuant to this chapter, including any regulations promulgated to implement any applicable fishery management plan or any preliminary fishery management plan.
 
@@ -78,7 +78,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 &emsp;(ii) if the Secretary of State and the Secretary, after taking into account the size of the allocation for such fishery and the length and timing of the fishing season, determine in writing that such nation is complying with the purposes and intent of this paragraph with respect to such fishery.
 
-> If the foreign nation is not determined under clause (ii) to be in such compliance, the Secretary of State shall reduce, in a manner and quantity he considers to be appropriate (I) the remainder of such allocation, or (II) if all of such allocation has been released, the next allocation of such fishery, if any, made to such nation.
+> If the foreign nation is not determined under clause (ii) to be in such compliance, the Secretary of State shall reduce, in a manner andquantity he considers to be appropriate (I) the remainder of such allocation, or (II) if all of such allocation has been released, the next allocation of such fishery, if any, made to such nation.
 
 (E) The determinations required to be made under subparagraphs (A) and (D)(ii), and the apportionments required to be made under subparagraph (C), with respect to a foreign nation shall be based on—
 
@@ -122,7 +122,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 &emsp;(iv) The Secretary may refund or credit, by reason of reduction of any allocation under this paragraph, any fee paid under section 1824 of this title.
 
-(D) If the certification of a foreign country is not terminated under section 1978(d) of title 22before the close of the last day of the remedial period, the Secretary of State—
+(D) If the certification of a foreign country is not terminated under section 1978(d) of title 22 before the close of the last day of the remedial period, the Secretary of State—
 
 &emsp;(i) with respect to any allocation made to that country and in effect (as reduced under subparagraph (B)) on such last day, shall rescind, effective on and after the day after such last day, any unharvested portion of such allocation; and
 
@@ -134,7 +134,7 @@ Foreign fishing shall not be authorized for the fishing vessels of any foreign n
 
 #### (g) Preliminary fishery management plans
 
-The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV of this chapter, before March 1, 1977. To the extent practicable, each such plan—
+The Secretary, when notified by the Secretary of State that any foreign nation has submittedan application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV of this chapter, before March 1, 1977. To the extent practicable, each such plan—
 
 &emsp;(1) shall contain a preliminary description of the fishery and a preliminary determination as to—
 
@@ -176,7 +176,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 (3) Observers, while stationed aboard foreign fishing vessels, shall carry out such scientific, compliance monitoring, and other functions as the Secretary deems necessary or appropriate to carry out the purposes of this chapter; and shall cooperate in carrying out such other scientific programs relating to the conservation and management of living resources as the Secretary deems appropriate.
 
-(4) In addition to any fee imposed under section 1824(b)(10) of this title and section 1980(e) of title 22 with respect to foreign fishing for any year after 1980, the Secretary shall impose, with respect to each foreign fishing vessel for which a permit is issued under such section 1824 of this title, a surcharge in an amount sufficient to cover all the costs of providing a United States observer aboard that vessel. The failure to pay any surcharge imposed under this paragraph shall be treated by the Secretary as a failure topay the permit fee for such vessel under section 1824(b)(10) of this title. All surcharges collected by the Secretary under this paragraph shall be deposited in the Foreign Fishing Observer Fund established by paragraph (5).
+(4) In addition to any fee imposed under section 1824(b)(10) of this title and section 1980(e) of title 22 with respect to foreign fishing for any year after 1980, the Secretary shall impose, with respect to each foreign fishing vessel for which a permit is issued under such section 1824 of this title, a surcharge in an amount sufficient to cover all the costs of providing a United States observer aboard that vessel. The failure to pay any surcharge imposed under this paragraph shall be treated by the Secretary as a failure to pay the permit fee for such vessel under section 1824(b)(10) of this title. All surcharges collected by the Secretary under this paragraph shall be deposited in the Foreign Fishing Observer Fund established by paragraph (5).
 
 (5) There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this subsection. The Fund shall consist of the surcharges deposited into it as required under paragraph (4). All payments made by the Secretary to carry out this subsection shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this subsection shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
@@ -306,7 +306,7 @@ Section 2(b) of Pub. L. 97–453 provided that: “The amendments made by subsec
 
 #### Effective Date of 1980 Amendment
 
-Sections 231(b), 238(b) of Pub. L. 96–561, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the 1981 harvesting season and harvesting seasons thereafter (as defined in section 201(d)(1) of the Magnuson-Stevens Fishery Conservation and Management Act, as amended by section 301) \[subsec. (d)(1) of this section\].”
+Sections 231(b), 238(b) of Pub. L. 96–561, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\],Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the 1981 harvesting season and harvesting seasons thereafter (as defined in section 201(d)(1) of the Magnuson-Stevens Fishery Conservation and Management Act, as amended by section 301) \[subsec. (d)(1) of this section\].”
 
 Sections 237, 238(b) of Pub. L. 96–561, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The amendment made by section 236 \[amending this section\] shall take effect October 1, 1981, and shall apply with respect to permits issued under section 204 of the Magnuson-Stevens Fishery Conservation and Management Act \[section 1824 of this title\] after December 31, 1981.”
 

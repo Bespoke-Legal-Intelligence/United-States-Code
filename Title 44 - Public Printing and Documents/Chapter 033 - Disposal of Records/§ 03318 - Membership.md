@@ -42,7 +42,7 @@
 
 (e)(1) Members of the Commission shall serve without pay.
 
-(2) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses in the same manner as persons employed intermittently in the service of the Federal Government are allowed expenses under section 5703 of title 5, United States Code, except that per diem in lieu of subsistence shall be paid only to those members of the Commission who are not full-time officers or employees of the United States or Members of the Congress.
+(2) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses in the samemanner as persons employed intermittently in the service of the Federal Government are allowed expenses under section 5703 of title 5, United States Code, except that per diem in lieu of subsistence shall be paid only to those members of the Commission who are not full-time officers or employees of the United States or Members of the Congress.
 
 (f) The Chairman of the Commission shall be designated by the President from among members appointed under subsection (a)(1)(G).
 

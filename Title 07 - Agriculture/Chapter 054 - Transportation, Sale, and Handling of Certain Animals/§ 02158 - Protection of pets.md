@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(v) any other information that the Secretary by regulation shall determine to be appropriate;
 
-&emsp;&emsp;(D) the name and address of the person, pound, or shelter from which the dog or cat was purchased or otherwise acquired by the dealer, and an assurance that such person, pound, or shelter was notified that such dog or cat may be used for research or educational purposes;
+&emsp;&emsp;(D) the name and address of the person, pound, or shelter from which the dog or catwas purchased or otherwise acquired by the dealer, and an assurance that such person, pound, or shelter was notified that such dog or cat may be used for research or educational purposes;
 
 &emsp;&emsp;(E) the date of the purchase or acquisition referred to in subparagraph (D);
 

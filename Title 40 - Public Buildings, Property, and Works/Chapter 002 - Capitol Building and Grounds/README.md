@@ -39,7 +39,7 @@
 | 166b–5. | Withholding and remittance of State income tax by Architect of Capitol. |
 | (a) | Agreement by Architect with appropriate State official; covered individuals. |
 | (b) | Number of remittances authorized. |
-| (c) | Requests by individuals of Secretary for withholding and remittance; amount of withholding; number and effective date of requests; change of designated State; revocation of request; rules and regulations. |
+| (c) | Requests for withholding and remittance; amount of withholding; number and effective date of requests; change of designated State; revocation of request; rules and regulations. |
 | (d) | Time or times of agreements by Architect. |
 | (e) | Provisions as not imposing duty, burden, requirement or penalty upon United States or any officer or employee of United States. |
 | (f) | “State” defined. |
@@ -85,6 +85,7 @@
 | (a) | Borrowing authority. |
 | (b) | Amount and period of loan; voucher. |
 | (c) | Deposit, credit, and future availability of proceeds from repayment. |
+| 174j–10. | Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account. |
 | [174k.](%C2%A7%2000174k%20-%20House%20of%20Representatives%20restaurant%2C%20cafeteria%2C%20and%20food%20services.md) | House of Representatives restaurant, cafeteria, and food services. |
 | (a) | Management and duties. |
 | (b) | Transfer of accounts, records, supplies, equipment, and assets. |
@@ -215,6 +216,11 @@
 | [206c.](%C2%A7%2000206c%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20Secretary%20of%20the%20Senate%3B%20compensatory%20time%20off%20in%20place%20of%E2%80%A6.md) | Emergency duty overtime pay for Capitol Police from funds disbursed by Secretary of the Senate; compensatory time off in place of additional pay; election, accrual and transfer of time off; rules and regulations. |
 | [207\.](%C2%A7%2000207%20-%20Payment%20of%20Capitol%20Police.md) | Payment of Capitol Police. |
 | [207a.](%C2%A7%2000207a%20-%20Unified%20payroll%20administration%20for%20Capitol%20Police.md) | Unified payroll administration for Capitol Police. |
+| [207b.](%C2%A7%2000207b%20-%20Establishment%20by%20Capitol%20Police%20Board%20of%20unified%20schedules%20of%20rates%20of%20basic%20pay%20and%20leave%20system%3B%20lump%20sum%20payments.md) | Establishment by Capitol Police Board of unified schedules of rates of basic pay and leave system; lump sum payments. |
+| (a) | Rates of basic pay. |
+| (b) | Leave system. |
+| (c) | Lump sum payments. |
+| (d) | Effect on appointment authority. |
 | [208\.](%C2%A7%2000208%20-%20Suspension%20of%20Capitol%20Police%20members.md) | Suspension of Capitol Police members. |
 | [209\.](%C2%A7%2000209%20-%20Pay%20of%20Capitol%20Police%20members%20under%20suspension.md) | Pay of Capitol Police members under suspension. |
 | [210\.](%C2%A7%2000210%20-%20Uniform%2C%20belts%20and%20arms%3B%20Capitol%20Police.md) | Uniform, belts and arms; Capitol Police. |
@@ -374,6 +380,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00174j&#8211;7 - Supersedure of prior provisions for maintenance and operation of Senate Restaurants](%C2%A7%2000174j%E2%80%937%20-%20Supersedure%20of%20prior%20provisions%20for%20maintenance%20and%20operation%20of%20Senate%20Restaurants.md)
 - [&sect; 00174j&#8211;8 - Management personnel and miscellaneous expenses; availability of appropriations; annual and sick leave](%C2%A7%2000174j%E2%80%938%20-%20Management%20personnel%20and%20miscellaneous%20expenses%3B%20availability%20of%20appropriations%3B%20annual%20and%20sick%20leave.md)
 - [&sect; 00174j&#8211;9 - Loans for Senate Restaurants](%C2%A7%2000174j%E2%80%939%20-%20Loans%20for%20Senate%20Restaurants.md)
+- [&sect; 00174j&#8211;10 - Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account](%C2%A7%2000174j%E2%80%9310%20-%20Transfer%20of%20appropriations%20for%20management%20personnel%20and%20miscellaneous%20restaurant%20expenses%20to%20special%20deposit%20account.md)
 - [&sect; 00174k - House of Representatives restaurant, cafeteria, and food services](%C2%A7%2000174k%20-%20House%20of%20Representatives%20restaurant%2C%20cafeteria%2C%20and%20food%20services.md)
 - [&sect; 00175 - House Office Building; control, supervision, and care](%C2%A7%2000175%20-%20House%20Office%20Building%3B%20control%2C%20supervision%2C%20and%20care.md)
 - [&sect; 00176 - Speaker as member of House Office Building commission](%C2%A7%2000176%20-%20Speaker%20as%20member%20of%20House%20Office%20Building%20commission.md)
@@ -448,6 +455,7 @@ Right of action for death or personal injury within national park or other place
 - [&sect; 00206c - Emergency duty overtime pay for Capitol Police from funds disbursed by Secretary of the Senate; compensatory time off in place of&#8230;](%C2%A7%2000206c%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20Secretary%20of%20the%20Senate%3B%20compensatory%20time%20off%20in%20place%20of%E2%80%A6.md)
 - [&sect; 00207 - Payment of Capitol Police](%C2%A7%2000207%20-%20Payment%20of%20Capitol%20Police.md)
 - [&sect; 00207a - Unified payroll administration for Capitol Police](%C2%A7%2000207a%20-%20Unified%20payroll%20administration%20for%20Capitol%20Police.md)
+- [&sect; 00207b - Establishment by Capitol Police Board of unified schedules of rates of basic pay and leave system; lump sum payments](%C2%A7%2000207b%20-%20Establishment%20by%20Capitol%20Police%20Board%20of%20unified%20schedules%20of%20rates%20of%20basic%20pay%20and%20leave%20system%3B%20lump%20sum%20payments.md)
 - [&sect; 00208 - Suspension of Capitol Police members](%C2%A7%2000208%20-%20Suspension%20of%20Capitol%20Police%20members.md)
 - [&sect; 00209 - Pay of Capitol Police members under suspension](%C2%A7%2000209%20-%20Pay%20of%20Capitol%20Police%20members%20under%20suspension.md)
 - [&sect; 00210 - Uniform, belts and arms; Capitol Police](%C2%A7%2000210%20-%20Uniform%2C%20belts%20and%20arms%3B%20Capitol%20Police.md)

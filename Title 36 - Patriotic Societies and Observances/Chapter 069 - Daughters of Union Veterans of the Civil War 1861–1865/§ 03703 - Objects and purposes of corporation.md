@@ -10,7 +10,7 @@ The objects and purposes of the corporation are those provided in its articles o
 
 &emsp;(4) Promulgating and teaching American history, particularly the history of the Civil War period, through the establishment of scholarship programs at the National and State levels, the presentation of American flags to youth groups and newly naturalized citizens, and the sponsorship of contests of educational merit.
 
-&emsp;(5) Caring for veterans of all wars through volunteer programs in Department of Veterans Affairs medical centers and in homes andother institutions maintained by the States for the welfare of American veterans.
+&emsp;(5) Caring for veterans of all wars through volunteer programs in Department of Veterans Affairs medical centers and in homes and other institutions maintained by the States for the welfare of American veterans.
 
 &emsp;(6) Participating, in a spirit of cooperation and reciprocity, in programs with other societies devoted to American history, veterans’ affairs, or community interests.
 

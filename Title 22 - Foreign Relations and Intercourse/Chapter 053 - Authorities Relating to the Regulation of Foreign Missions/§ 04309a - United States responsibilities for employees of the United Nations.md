@@ -14,7 +14,7 @@ The Congress finds that—
 
 #### (b) Activities of United Nations employees
 
-(1) The conduct of any activities, or the acquisition of any benefits (as defined in section 4301(a)(1) of this title), outside the United Nations Headquarters District by any individual employed by, or authorized by the United Nations to conduct official business in connection with, that organization or its agencies, or by any person or agency acting on behalf thereof, may be permitted or denied or subject to reasonable regulation, as determined to be in the best interests of the United States and pursuant to this chapter.
+(1) The conduct of any activities, or the acquisition of any benefits (as defined in section 4301(a)(1) of this title), outside the United Nations Headquarters District by any individual employed by, or authorized by the United Nations to conduct official business in connection with, that organization or its agencies, or by any person or agency acting on behalf thereof,may be permitted or denied or subject to reasonable regulation, as determined to be in the best interests of the United States and pursuant to this chapter.
 
 (2) Repealed. Pub. L. 103–236, title I, §139(26), Apr. 30, 1994, 108 Stat. 399.
 
@@ -34,7 +34,7 @@ This section shall not apply with respect to any United States national.
 
 For purposes of this section, the term “United Nations Headquarters District” means the area within the United States which is agreed to by the United Nations and the United States to constitute such a district, together with such other areas as the Secretary of State may approve from time to time in order to permit effective functioning of the United Nations or missions to the United Nations.
 
-(Aug. 1, 1956, ch. 841, title II, §209A, as added Aug. 16, 1985, Pub. L. 99–93, title I, §141, 99 Stat. 423; amended Apr. 30, 1994, Pub. L. 103–236, title I, §139(26), 108 Stat. 399.)
+(Aug. 1, 1956, ch. 841, title II, §209A, as added Pub. L. 99–93, title I, §141, Aug. 16, 1985, 99 Stat. 423; amended Pub. L. 103–236, title I, §139(26), Apr. 30, 1994, 108 Stat. 399.)
 
 #### References in Text
 
@@ -46,5 +46,5 @@ Section is also set out in D.C. Code, §5–1209.1.
 
 #### Amendments
 
-1994—Subsec. (b)(2). Pub. L. 103–236 struck out par. (2) which read as follows: “The Secretary shall apply to those employees of the United Nations Secretariat whoare nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this chapter to the members of that country's mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances.”
+1994—Subsec. (b)(2). Pub. L. 103–236 struck out par. (2) which read as follows: “The Secretary shall apply to those employees of the United Nations Secretariat who are nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this chapter to the members of that country's mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances.”
 

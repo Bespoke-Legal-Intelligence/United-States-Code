@@ -2,7 +2,7 @@
 
 Where a trust fund which complies with section 186(c) of title 29 established pursuant to a collective-bargaining agreement in effect between an employer and an employee covered under this chapter has paid disability benefits to an employee which the employee is legally obligated to repay by reason of his entitlement to compensation under this chapter or under a settlement, the Secretary shall authorize a lien on such compensation in favor of the trust fund for the amount of such payments.
 
-(Mar. 4, 1927, ch. 509, §17, 44 Stat. 1434; June 25, 1938, ch. 685, §8, 52 Stat. 1167; Oct. 27, 1972, Pub. L. 92–576, §20(b), 86 Stat. 1264; Nov. 6, 1978, Pub. L. 95–598, title III, §324, 92 Stat. 2679; Sept. 28, 1984, Pub. L. 98–426, §14, 98 Stat. 1649.)
+(Mar. 4, 1927, ch. 509, §17, 44 Stat. 1434; June 25, 1938, ch. 685, §8, 52 Stat. 1167; Pub. L. 92–576, §20(b), Oct. 27, 1972, 86 Stat. 1264; Pub. L. 95–598, title III, §324, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 98–426, §14, Sept. 28, 1984, 98 Stat. 1649.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an 
 
 &emsp;(2) if the officer is not qualified or does not apply for transfer to the Retired Reserve, be discharged from the officer's reserve appointment.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2954; amended Pub. L.104–106, div. A, title XV, §1501(b)(31), Feb. 10, 1996, 110 Stat. 498.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2954; amended Pub. L. 104–106, div. A, title XV, §1501(b)(31), Feb. 10, 1996, 110 Stat. 498.)
 
 #### Amendments
 

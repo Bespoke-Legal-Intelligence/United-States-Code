@@ -58,7 +58,7 @@ In subsection (b), the word “person” is substituted for the word “official
 
 Subsec. (b). Pub. L. 98–369, §2725(2), amended subsec. (b) generally, striking out requirement that determinations to negotiate contracts be based on written findings by the contracting officers making the determinations.
 
-1968—Subsec. (b). Pub. L. 90–378 inserted “section 2306 (g)(1),” after “clauses (11)–(16) of section 2304(a), section 2306(c),”, and “(3) support the findings required by section 2306(g)(1),” after “kind or quality required exceptunder such a contract,”, and redesignated former cls. (3) to (5) as (4) to (6), respectively.
+1968—Subsec. (b). Pub. L. 90–378 inserted “section 2306 (g)(1),” after “clauses (11)–(16) of section 2304(a), section 2306(c),”, and “(3) support the findings required by section 2306(g)(1),” after “kind or quality required except under such a contract,”, and redesignated former cls. (3) to (5) as (4) to (6), respectively.
 
 1966—Subsec. (b). Pub. L. 89–607 inserted reference to section 2313(c), added cl. (4), and redesignated former cl. (4) as (5).
 

@@ -1,6 +1,0 @@
-### §1395a. Free choice by patient guaranteed
-
-Any individual entitled to insurance benefits under this subchapter may obtain health services from any institution, agency, or person qualified to participate under this subchapter if such institution, agency, or person undertakes to provide him such services.
-
-(Aug. 14, 1935, ch. 531, title XVIII, §1802, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 291.)
-

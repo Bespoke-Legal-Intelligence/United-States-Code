@@ -24,5 +24,5 @@ As used in this subchapter—
 
 &emsp;(5) Preparation of regulatory and administrative measures in support of the foregoing.
 
-(June 30, 1949, ch. 288, title VIII, §806, as added Oct. 16, 1968, Pub. L. 90–577, title V, §501, 82 Stat. 1105.)
+(June 30, 1949, ch. 288, title VIII, §806, as added Pub. L. 90–577, title V, §501, Oct. 16, 1968, 82 Stat. 1105.)
 

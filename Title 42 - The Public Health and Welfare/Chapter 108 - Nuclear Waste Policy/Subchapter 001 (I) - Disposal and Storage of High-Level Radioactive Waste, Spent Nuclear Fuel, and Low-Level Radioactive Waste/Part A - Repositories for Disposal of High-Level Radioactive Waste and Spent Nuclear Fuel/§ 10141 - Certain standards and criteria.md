@@ -18,7 +18,7 @@ Not later than 1 year after January 7, 1983, the Administrator, pursuant to auth
 
 (C) Such requirements and criteria shall not be inconsistent with any comparable standards promulgated by the Administrator under subsection (a) of this section.
 
-(2) For purposes of this chapter, nothing in this section shall be construed to prohibit the Commission from promulgating requirements and criteria under paragraph (1) before the Administrator promulgates standards under subsection (a) of this section. If the Administrator promulgates standards under subsection (a) of this section after requirements and criteria are promulgated by the Commission under paragraph (1), such requirements and criteria shallbe revised by the Commission if necessary to comply with paragraph (1)(C).
+(2) For purposes of this chapter, nothing in this section shall be construed to prohibit the Commission from promulgating requirements and criteria under paragraph (1) before the Administrator promulgates standards under subsection (a) of this section. If the Administrator promulgates standards under subsection (a) of this section after requirements and criteria are promulgated by the Commission under paragraph (1), such requirements and criteria shall be revised by the Commission if necessary to comply with paragraph (1)(C).
 
 #### (c) Environmental impact statement
 
@@ -68,7 +68,7 @@ Modifications.—Not later than 1 year after the Administrator promulgates stand
 
 &emsp;“(2)
 
-Required assumptions.—The Commission's requirements and criteria shall assume, to the extent consistent with the findings and recommendations of the National Academy of Sciences, that, following repository closure, the inclusion of engineered barriers and the Secretary's post-closure oversight of the Yucca Mountain site, in accordance with subsection (c), shall be sufficient to—
+Required assumptions.—The Commission's requirements and criteria shall assume, to the extent consistent with the findings and recommendations ofthe National Academy of Sciences, that, following repository closure, the inclusion of engineered barriers and the Secretary's post-closure oversight of the Yucca Mountain site, in accordance with subsection (c), shall be sufficient to—
 
 &emsp;&emsp;“(A) prevent any activity at the site that poses an unreasonable risk of breaching the repository's engineered or geologic barriers; and
 

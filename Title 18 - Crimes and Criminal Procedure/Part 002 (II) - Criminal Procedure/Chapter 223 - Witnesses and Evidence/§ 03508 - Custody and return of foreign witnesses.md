@@ -10,5 +10,5 @@
 
 #### References in Text
 
-The immigration laws, referred to in subsec. (b), are classified generally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
+The immigration laws, referred to in subsec. (b), are classified generally to Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
 

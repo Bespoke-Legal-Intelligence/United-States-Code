@@ -1,6 +1,6 @@
 ### §2462. Time for commencing proceedings
 
-Except as otherwise provided by Act of Congress, an action, suit or proceeding for the enforcement of any civil fine, penalty, or forfeiture, pecuniary or otherwise, shall not be entertained unless commenced within five years from the date when the claim first accrued if, within the same period, the offender or the property is found within the United States in order that proper service may be made thereon.
+Except as otherwise provided by Act of Congress, an action, suit or proceeding for the enforcement of any civil fine, penalty, or forfeiture, pecuniary or otherwise, shall not be entertained unless commenced within five years fromthe date when the claim first accrued if, within the same period, the offender or the property is found within the United States in order that proper service may be made thereon.
 
 (June 25, 1948, ch. 646, 62 Stat. 974.)
 
@@ -12,5 +12,5 @@ Changes were made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 26 section 6533; title 42 section 7413; title 49 section 21303.
+This section is referred to in title 26 section 6533; title 30 section 1724; title 42 section 7413; title 49 section 21303.
 

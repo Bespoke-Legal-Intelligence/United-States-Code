@@ -110,5 +110,5 @@ Pub. L. 97–276, §124, Oct. 2, 1982, 96 Stat. 1195, provided that: “Notwiths
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 sections 2020, 2022; title 10 section 1055; title 16 section 470m; title 42 sections 292r, 297b.
+This section is referred to in title 7 sections 2020, 2022; title 10 section 1055; title 16 section 470m; title 22 section 3664; title 42 sections 292r, 297b, 404.
 

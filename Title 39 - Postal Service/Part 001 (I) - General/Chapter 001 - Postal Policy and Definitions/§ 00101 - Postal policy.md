@@ -20,6 +20,10 @@
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding this section.
 
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–41, §1, Aug. 13, 1997, 111 Stat. 1119, provided that: “This Act \[enacting section 414 of this title and provisions set out as a note under section 414 of this title\] may be cited as the ‘Stamp Out Breast Cancer Act’.”
+
 #### Short Title of 1993 Amendment
 
 Pub. L. 103–123, title VII, §701(a), Oct. 28, 1993, 107 Stat. 1267, provided that: “This title \[enacting section 3642 of this title, amending sections 410, 2401, 3202, 3601, 3625 to 3627, and 3683 of this title, and enacting provisions set out as notes under sections 2401, 3621, 3626, and 3683 of this title\] may be cited as the ‘Revenue Forgone Reform Act’.”

@@ -32,7 +32,7 @@ Certification of Compliance.—(1) A manufacturer of a motor vehicle subject to 
 
 Notification of Error.—A manufacturer shall notify the Secretary if the manufacturer discovers that—
 
-&emsp;(1) there is an error in the identification (required by the standard) applied to a majorpart installed by the manufacturer in a motor vehicle during its assembly, or to a major replacement part manufactured by the manufacturer; and
+&emsp;(1) there is an error in the identification (required by the standard) applied to a major part installed by the manufacturer in a motor vehicle during its assembly, or to a major replacement part manufactured by the manufacturer; and
 
 &emsp;(2) the motor vehicle or major replacement part has entered interstate commerce.
 

@@ -8,7 +8,7 @@ The Congress finds that:
 
 &emsp;(3) In recent years, large quantities of low-cost, imported honey have been brought into the United States, replacing domestic honey in the normal trade channels.
 
-&emsp;(4) The maintenance and expansion of existing honey markets and the development of new or improved markets or uses are vital to the welfare of honey producers and those concerned with marketing, using, and processinghoney, along with those engaged in general agricultural endeavors requiring bees for pollinating purposes.
+&emsp;(4) The maintenance and expansion of existing honey markets and the development of new or improved markets or uses are vital to the welfare of honey producers and those concerned with marketing, using, and processing honey, along with those engaged in general agricultural endeavors requiring bees for pollinating purposes.
 
 &emsp;(5) The honey production industry within the United States is comprised mainly of small- and medium-sized businesses.
 
@@ -16,7 +16,7 @@ The Congress finds that:
 
 &emsp;(7) Without cooperative action in providing for and financing such programs, honey producers, honey handlers, wholesalers, and retailers are unable to implement programs of research, promotion, and consumer education necessary to maintain and improve markets for these products.
 
-(b)(1) <sup>1</sup> It is, therefore, the purpose of this chapter to authorize the establishment of an orderly procedure for the development and financing, through an adequate assessment, of an effective and coordinated program of research, promotion, and consumer education designed to strengthen the position of the honey industry in the marketplace and maintain, develop, and expand markets for honey and honey products.
+(b)(1) <sup>1</sup> It is, therefore, the purpose of this chapter to authorize the establishment of an orderly procedure for the development and financing, through an adequate assessment, of an effective and coordinated program of research, promotion, and consumer education designed tostrengthen the position of the honey industry in the marketplace and maintain, develop, and expand markets for honey and honey products.
 
 (2) Nothing in this chapter may be construed to dictate quality standards for honey, provide for control of its production, or otherwise limit the right of the individual honey producer to produce honey. This chapter treats foreign producers equitably, and nothing in this chapter may be construed as a trade barrier to honey produced in foreign countries.
 

@@ -14,7 +14,7 @@
 
 &emsp;(6) shall be held to be an inhabitant and resident of the northern judicial district of New York within the meaning of the laws of the United States relating to venue of civil suits;
 
-&emsp;(7) may appoint and fix the compensation, in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, of such officers, attorneys, and employees as may be necessary for the conduct of its business, define their authority and duties, and delegate to them such of the powers vested in the Corporation as the Administrator may determine;
+&emsp;(7) may appoint and fix the compensation, in accordance with the provisions of chapter 51and subchapter III of chapter 53 of title 5, of such officers, attorneys, and employees as may be necessary for the conduct of its business, define their authority and duties, and delegate to them such of the powers vested in the Corporation as the Administrator may determine;
 
 &emsp;(8) may acquire, by purchase, lease, condemnation, or donation such real and personal property and any interest therein, and may sell, lease, or otherwise dispose of such real and personal property, as the Administrator deems necessary for the conduct of its business;
 
@@ -32,7 +32,7 @@
 
 (b) Amounts credited under subsection (a)(12) <sup>3</sup> of this section are available to pay any obligation or expense of the Corporation under this chapter, except as specifically provided in subsection (a)(11) <sup>3</sup> of this section.
 
-(May 13, 1954, ch. 201, §4, 68 Stat. 94; July 17, 1957, Pub. L. 85–108, §1(1)–(3), 71 Stat. 307; June 6, 1972, Pub. L. 92–310, title II, §232, 86 Stat. 214; Dec. 18, 1982, Pub. L. 97–369, title III, §311, 96 Stat. 1783; Nov. 17, 1986, Pub. L. 99–662, title XIV, §805(a)(1)–(3), 100 Stat. 4272.)
+(May 13, 1954, ch. 201, §4, 68 Stat. 94; Pub. L. 85–108, §1(1)–(3), July 17, 1957, 71 Stat. 307; Pub. L. 92–310, title II, §232, June 6, 1972, 86 Stat. 214; Pub. L. 97–369, title III, §311, Dec. 18, 1982, 96 Stat. 1783; Pub. L. 99–662, title XIV, §805(a)(1)–(3), Nov. 17, 1986, 100 Stat. 4272.)
 
 #### Codification
 

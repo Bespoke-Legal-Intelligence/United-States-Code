@@ -20,7 +20,7 @@
 
 &emsp;(iii) to require the employer to pay the person an amount equal to the amount referred to in clause (ii) as liquidated damages, if the court determines that the employer's failure to comply with the provisions of this chapter was willful.
 
-(B) Any compensation under clauses (ii) and (iii) of subparagraph (A) shall be in addition to, and shall not diminish, any of the other rights and benefits provided for in this chapter.
+(B) Any compensation under clauses (ii) and (iii) of subparagraph (A) shall be in addition to,and shall not diminish, any of the other rights and benefits provided for in this chapter.
 
 (2)(A) No fees or court costs shall be charged or taxed against any person claiming rights under this chapter.
 

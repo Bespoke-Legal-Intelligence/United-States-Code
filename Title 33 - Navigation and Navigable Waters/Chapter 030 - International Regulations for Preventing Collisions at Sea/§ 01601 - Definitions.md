@@ -22,7 +22,7 @@ Section 10 of Pub. L. 95–75 provided in part that: “The reference in any oth
 
 #### Short Title
 
-Section 1 of Pub. L. 95–75 provided: “That this Act \[enacting this chapter, repealing sections 1051 to 1094 ofthis title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under section 1051 of this title\] may be cited as the ‘International Navigational Rules Act of 1977’.”
+Section 1 of Pub. L. 95–75 provided: “That this Act \[enacting this chapter, repealing sections 1051 to 1094 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as a note under section 1051 of this title\] may be cited as the ‘International Navigational Rules Act of 1977’.”
 
 #### Territorial Sea of United States
 

@@ -2,13 +2,13 @@
 
 The department secretary or agency head of the contracting agency is authorized and directed to furnish, to any person making application therefor who submits an affidavit that he has supplied labor or materials for such work and payment therefor has not been made or that he is being sued on any such bond, a certified copy of such bond and the contract for which it was given, which copy shall be prima facie evidence of the contents, execution, and delivery of the original. Applicants shall pay for such certified copies such fees as the department secretary or agency head of the contracting agency fixes to cover the cost of preparation thereof.
 
-(Aug. 24, 1935, ch. 642, §3, 49 Stat. 794; Aug. 4, 1959, Pub. L. 86–135, §2, 73 Stat. 279; Apr. 18, 1984, Pub. L. 98–269, 98 Stat. 156.)
+(Aug. 24, 1935, ch. 642, §3, 49 Stat. 794; Pub. L. 86–135, §2, Aug. 4, 1959, 73 Stat. 279; Pub. L. 98–269, Apr. 18, 1984, 98 Stat. 156.)
 
 #### Amendments
 
 1984—Pub. L. 98–269 substituted “department secretary or agency head of the contracting agency” for “Comptroller General” in two places.
 
-1959—Pub. L. 86–135 struck out “, and, in case final settlement of such contract, has been made, a certified statement of the date of such settlement, which shall be conclusive as to such date upon the parties” and “and certified statements” after “original” and “certified copies”, respectively.
+1959—Pub. L. 86–135 struck out “, and, in case final settlement of such contract, has been made, a certifiedstatement of the date of such settlement, which shall be conclusive as to such date upon the parties” and “and certified statements” after “original” and “certified copies”, respectively.
 
 #### Effective Date
 

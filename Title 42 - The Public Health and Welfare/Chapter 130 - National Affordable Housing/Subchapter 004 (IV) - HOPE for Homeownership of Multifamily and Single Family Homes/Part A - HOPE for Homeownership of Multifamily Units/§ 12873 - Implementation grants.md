@@ -40,7 +40,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 #### (1) In general
 
-&emsp;Each recipient shall assure that contributions equal to not less than 33 percent of thegrant amounts made available under this section, excluding any amounts provided for post-sale operating expense, shall be provided from non-Federal sources to carry out the homeownership program.
+&emsp;Each recipient shall assure that contributions equal to not less than 33 percent of the grant amounts made available under this section, excluding any amounts provided for post-sale operating expense, shall be provided from non-Federal sources to carry out the homeownership program.
 
 #### (2) Form
 
@@ -110,7 +110,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;(5) national geographic diversity among housing for which applicants are selected to receive assistance;
 
-&emsp;(6) the extent to which a sufficient supply of affordable rental housing of the type assistedunder this title <sup>5</sup> exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
+&emsp;(6) the extent to which a sufficient supply of affordable rental housing of the type assisted under this title <sup>5</sup> exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
 
 &emsp;(7) such other factors as the Secretary determines to be appropriate for purposes of carrying out the program established by the <sup>6</sup> part in an effective and efficient manner.
 

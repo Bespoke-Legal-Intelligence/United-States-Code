@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572, §906(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The United States Claims Court is hereby authorized to utilize facilities and hold court in Washington, District of Columbia, and in four locations outside of the Washington, District of Columbia metropolitan area, for the purpose of conducting trials and such other proceedings as may be appropriate to executing the court's functions. The Director of the Administrative Office of the United States Courts shall designate such locations and provide for such facilities.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–572, §906(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The United States Claims Court is hereby authorized to utilize facilities and hold court in Washington, District of Columbia, and in four locations outside of the Washington, District of Columbia metropolitan area, for the purpose of conducting trials and such other proceedings as may be appropriate to executing the court's functions. The Director of the Administrative Office of the United States Courts shall designate such locations and provide for such facilities.”
 
 Subsec. (b). Pub. L. 102–572, §906(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 

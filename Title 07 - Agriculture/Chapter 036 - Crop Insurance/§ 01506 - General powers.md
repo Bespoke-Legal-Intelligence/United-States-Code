@@ -14,7 +14,7 @@ The Corporation may purchase or lease and hold such real and personal property a
 
 #### (d) Suit
 
-The Corporation, subject to the provisions of section 1508(j) of this title, may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
+The Corporation, subject to the provisions of section 1508(j) of this title, may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courtsof the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
 
 #### (e) Bylaws and regulations
 
@@ -34,7 +34,7 @@ The Corporation shall assemble data for the purpose of establishing sound actuar
 
 #### (i) Expenditures
 
-The Corporation shall determine the character and necessity for its expenditures under this chapter and the manner in which they shall be incurred, allowed, and paid, without regard to the provisions of any other laws governing theexpenditure of public funds and such determinations shall be final and conclusive upon all other officers of the Government.
+The Corporation shall determine the character and necessity for its expenditures under this chapter and the manner in which they shall be incurred, allowed, and paid, without regard to the provisions of any other laws governing the expenditure of public funds and such determinations shall be final and conclusive upon all other officers of the Government.
 
 #### (j) Settling claims
 

@@ -4,7 +4,7 @@
 
 (b) The training establishment offering training which is desired to be approved for the purposes of this chapter must submit to the appropriate State approving agency a written application for approval which, in addition to furnishing such information as is required by the State approving agency, contains a certification that—
 
-&emsp;(1) the wages to be paid the eligible veteran or person (A) upon entrance into training, are not less than wages paid nonveterans in the same training position and are at least 50 percentum of the wages paid for the job for which the veteran or person is to be trained, and (B) such wages will be increased in regular periodic increments until, not later than the last full month of the training period, they will be at least 85 per centum of the wages paid for the job for which such eligible veteran or person is being trained; and
+&emsp;(1) the wages to be paid the eligible veteran or person (A) upon entrance into training, are not less than wages paid nonveterans in the same training position and are at least 50 per centum of the wages paid for the job for which the veteran or person is to be trained, and (B) such wages will be increased in regular periodic increments until, not later than the last full month of the training period, they will be at least 85 per centum of the wages paid for the job for which such eligible veteran or person is being trained; and
 
 &emsp;(2) there is reasonable certainty that the job for which the eligible veteran or person is to be trained will be available to the veteran or person at the end of the training period.
 
@@ -28,7 +28,7 @@
 
 &emsp;(9) That the course meets such other criteria as may be established by the State approving agency.
 
-(Added Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186, §1777; amended Pub. L. 91–219, title II, §212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, §513(a)(3), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3677, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186, §1777; amended Pub. L. 91–219, title II, §212, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title III, §314, Oct. 24, 1972, 86 Stat. 1084; Pub. L. 94–502, title V, §513(a)(3), Oct. 15, 1976, 90Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3677, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

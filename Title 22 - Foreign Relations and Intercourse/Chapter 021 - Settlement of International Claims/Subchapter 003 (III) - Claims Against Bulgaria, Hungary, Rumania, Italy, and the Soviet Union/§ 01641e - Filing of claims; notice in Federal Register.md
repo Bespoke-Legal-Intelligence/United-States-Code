@@ -16,7 +16,7 @@ Within thirty days after October 20, 1974, or thirty days after enactment of leg
 
 Notwithstanding any other provision of this section, any national of the United States who was mailed notice by any department or agency of the Government of the United States with respect to filing a claim against the Government of Hungary arising out of any of the failures referred to in paragraph (1), (2), or (3) of section 1641b of this title, and who did not receive the notice as the result of administrative error in placing a nonexistent address on the notice, may file with the Commission a claim under any such paragraph. The Commission shall publish in the Federal Register, within thirty days after October 20, 1974, when the limit of time within which any such claim may be filed with the Commission, which limit shall not be more than six months after such publication.
 
-(Mar. 10, 1950, ch. 54, title III, §306, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 572; amended July 24, 1968, Pub. L. 90–421, §1(12), 82 Stat. 423; Oct. 20, 1974, Pub. L. 93–460, §1(4), 88 Stat. 1386.)
+(Mar. 10, 1950, ch. 54, title III, §306, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 572; amended Pub. L. 90–421, §1(12), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, §1(4), Oct. 20, 1974, 88 Stat. 1386.)
 
 #### Amendments
 

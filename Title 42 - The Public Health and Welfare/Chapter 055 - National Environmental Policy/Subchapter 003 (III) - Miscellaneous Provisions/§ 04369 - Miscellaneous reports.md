@@ -14,7 +14,7 @@ The reports provided for in section 5910 <sup>1</sup> of this title shall be ma
 
 #### (d) Transmittal of research information to the Department of Energy
 
-For the purpose of assisting the Department of Energy in planning and assigning priorities in research development and demonstration activities related to environmental control technologies, the Administrator shall actively make available to the Department all information on research activities and results of research programs of the Environmental Protection Agency.
+For the purpose of assisting the Department of Energy in planning and assigning priorities inresearch development and demonstration activities related to environmental control technologies, the Administrator shall actively make available to the Department all information on research activities and results of research programs of the Environmental Protection Agency.
 
 (Pub. L. 95–477, §5, Oct. 18, 1978, 92 Stat. 1510; Pub. L. 103–437, §15(c)(6), Nov. 2, 1994, 108 Stat. 4592.)
 

@@ -72,7 +72,7 @@
 
 #### (2) Retirement
 
-&emsp;After such termination, the recovered or restored annuitant shall be entitled to the benefits of section 2054 or 2071(a) of this title, except that the annuitant may elect voluntary retirement under section 2053 of this title, if qualified thereunder, or may be placed by the Director in an involuntary retirement statusunder section 2055(a) of this title, if qualified thereunder. Retirement rights under this paragraph shall be based on the provisions of this subchapter in effect as of the date on which the disability annuity is discontinued.
+&emsp;After such termination, the recovered or restored annuitant shall be entitled to the benefits of section 2054 or 2071(a) of this title, except that the annuitant may elect voluntary retirement under section 2053 of this title, if qualified thereunder, or may be placed by the Director in an involuntary retirement status under section 2055(a) of this title, if qualified thereunder. Retirement rights under this paragraph shall be based on the provisions of this subchapter in effect as of the date on which the disability annuity is discontinued.
 
 #### (3) Further disability before age 62
 

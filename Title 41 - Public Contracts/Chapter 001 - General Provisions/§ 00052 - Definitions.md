@@ -24,7 +24,7 @@ As used in sections 51 to 58 of this title:
 
 &emsp;(9) The term “subcontractor employee” means any officer, partner, employee, or agent of a subcontractor.
 
-(Mar. 8, 1946, ch. 80, §2, 60 Stat. 38; Sept. 2, 1960, Pub. L. 86–695, 74 Stat. 740; Nov. 7, 1986, Pub. L. 99–634, §2(a), 100 Stat. 3523.)
+(Mar. 8, 1946, ch. 80, §2, 60 Stat. 38; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3523.)
 
 #### Amendments
 

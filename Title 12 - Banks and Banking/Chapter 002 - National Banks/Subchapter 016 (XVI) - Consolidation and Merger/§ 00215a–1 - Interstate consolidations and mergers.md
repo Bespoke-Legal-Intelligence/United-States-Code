@@ -12,5 +12,5 @@ Subsection (a) of this section shall not apply with respect to any consolidation
 
 The terms “home State” and “out-of-State bank” have the same meaning as in section 1831u(f) of this title.
 
-(Nov. 7, 1918, ch. 209, §4, as added Sept. 29, 1994, Pub. L. 103–328, title I, §102(b)(4)(D), 108 Stat. 2351.)
+(Nov. 7, 1918, ch. 209, §4, as added Pub. L. 103–328, title I, §102(b)(4)(D), Sept. 29, 1994, 108 Stat. 2351.)
 

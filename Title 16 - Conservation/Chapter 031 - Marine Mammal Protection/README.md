@@ -17,6 +17,7 @@
 | (a) | Imposition; exceptions. |
 | (b) | Exemptions for Alaskan natives. |
 | (c) | Taking in defense of self or others. |
+| (d) | Good Samaritan exemption. |
 | [1372\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001372%20-%20Prohibitions.md) | Prohibitions. |
 | (a) | Taking. |
 | (b) | Importation of pregnant or nursing mammals; depleted species or stock; inhumane taking. |
@@ -204,6 +205,10 @@
 | [1414\.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001414%20-%20Reviews%2C%20reports%2C%20and%20recommendations.md) | Reviews, reports, and recommendations. |
 | (a) | Reports by Secretary. |
 | (b) | Recommendations of Secretary. |
+| [1414a.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001414a%20-%20Research.md) | Research. |
+| (a) | Required research. |
+| (b) | Other research. |
+| (c) | Authorization of appropriations. |
 | [1415\.](Subchapter%20004%20%28IV%29%20-%20Global%20Moratorium%20to%20Prohibit%20Certain%20Tuna%20Harvesting%20Practices/%C2%A7%2001415%20-%20International%20commitments.md) | International commitments. |
 | (a) | Limitation on application of ban on imports. |
 | (b) | Subsequent bans on fish and fish product imports for failure to comply with commitments. |

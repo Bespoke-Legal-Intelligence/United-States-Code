@@ -1,6 +1,6 @@
 ### §854a–1. Temporary appointment or advancement of commissioned officers in time of war or national emergency
 
-Personnel of the National Oceanic and Atmospheric Administration shall be subject in like manner and to the same extent as personnel of the Navy to all laws authorizing temporary appointment or advancement of commissioned officers in time of war or national emergency subject to the following limitations:
+Personnel of the National Oceanic and Atmospheric Administration shall be subject in likemanner and to the same extent as personnel of the Navy to all laws authorizing temporary appointment or advancement of commissioned officers in time of war or national emergency subject to the following limitations:
 
 &emsp;(1) Commissioned officers in the service of a military department, under the provisions of sections 854, 855, 856, 857, and 858 of this title may, upon the recommendation of the Secretary of the military department concerned, be temporarily promoted to higher ranks or grades.
 
@@ -8,7 +8,7 @@ Personnel of the National Oceanic and Atmospheric Administration shall be subjec
 
 &emsp;(3) Temporary appointments may be made in all grades to which original appointments in the National Oceanic and Atmospheric Administration are authorized: <i>Provided</i>, That the number of officers holding temporary appointments shall not exceed the number of officers transferred to a military department under the provisions of sections 854, 855, 856, 857, and 858 of this title.
 
-(Dec. 3, 1942, ch. 670, §1, 56 Stat. 1038; Oct. 14, 1966, Pub. L. 89–657, §3, 80 Stat. 907; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Dec. 3, 1942, ch. 670, §1, 56 Stat. 1038; Pub. L. 89–657, §3, Oct. 14, 1966, 80 Stat. 907; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 #### Amendments
 

@@ -132,6 +132,16 @@ Section 4406(c) of Pub. L. 102–484 provided that: “The amendments to section
 
 Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8044\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–98, provided that: “During the current fiscal year and hereafter, voluntary separation incentives payable under 10 U.S.C. 1175 may be paid in such amounts as are necessary from the assets of the Voluntary Separation Incentive Fund established by section 1175(h)(1).”
 
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–61, title VIII, §8054, Dec. 1, 1995, 109 Stat. 662.
+
+Pub. L. 103–335, title VIII, §8062, Sept. 30, 1994, 108 Stat. 2633.
+
+Pub. L. 103–139, title VIII, §8073, Nov. 11, 1993, 107 Stat. 1457.
+
+Pub. L. 102–396, title IX, §9106, Oct. 6, 1992, 106 Stat. 1927.
+
 #### Separation Payments; Reductions and Prohibitions
 
 For provisions reducing, with certain exceptions, amounts received under this section by amounts received as bonus payments under chapter 5 of title 37 in case of members who separate from active duty or full-time National Guard duty in a military department and prohibiting such members from receiving Voluntary Separation Incentive program payments if rehired in DOD civilian position within 180 days of separation, see note set out under section 1174a of this title.

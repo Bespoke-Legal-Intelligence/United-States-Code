@@ -1,6 +1,6 @@
 ### §483a. Repealed. Pub. L. 100–370, §1(k)(3), July 19, 1988, 102 Stat. 849
 
-Section, Pub. L. 99–190, §101(b) \[title VIII, §8012\], Dec. 19, 1985, 99 Stat. 1185, 1204, related to transfer of vesselsbetween Departments of Transportation, Army, Air Force, or Navy, and was reenacted in section 2578 of Title 10, Armed Forces, by section 1(k)(1) of Pub. L. 100–370. Similar provisions were contained in the following prior appropriation acts:
+Section, Pub. L. 99–190, §101(b) \[title VIII, §8012\], Dec. 19, 1985, 99 Stat. 1185, 1204, related to transfer of vessels between Departments of Transportation, Army, Air Force, or Navy, and was reenacted in section 2578 of Title 10, Armed Forces, by section 1(k)(1) of Pub. L. 100–370. Similar provisions were contained in the following prior appropriation acts:
 
 Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8013\], 98 Stat. 1904, 1925.
 

@@ -14,7 +14,7 @@ The capital and seat of government of the Virgin Islands shall be located at the
 
 The relations between such government and the Federal Government in all matters not the program responsibility of another Federal department or agency shall be under the general administrative supervision of the Secretary of the Interior.
 
-(July 22, 1954, ch. 558, §2, 68 Stat. 497; Aug. 23, 1968, Pub. L. 90–496, §13, 82 Stat. 842.)
+(July 22, 1954, ch. 558, §2, 68 Stat. 497; Pub. L. 90–496, §13, Aug. 23, 1968, 82 Stat. 842.)
 
 #### References in Text
 
@@ -30,7 +30,7 @@ Amendment of provisions of section necessary to authorize the holding of an elec
 
 #### Effective Date
 
-Section 34 of act July 22, 1954, provided: “This Act \[see Short Title note below\] shall take effect upon its approval \[July 22, 1954\], but until its provisions shall severally become operative as herein provided, the corresponding legislative, executive, and judicial functions of the existing government shall continue to be exercised as now provided by law or ordinance, and the incumbents of all offices under the government of the Virgin Islands shall continue in office until their successors are appointed and have qualified unless sooner removed by competent authority. The enactment ofthis Act shall not affect the term of office of the judge of the District Court of the Virgin Islands in office on the date of its enactment \[July 22, 1954\].”
+Section 34 of act July 22, 1954, provided: “This Act \[see Short Title note below\] shall take effect upon its approval \[July 22, 1954\], but until its provisions shall severally become operative as herein provided, the corresponding legislative, executive, and judicial functions of the existing government shall continue to be exercised as now provided by law or ordinance, and the incumbents of all offices under the government of the Virgin Islands shall continue in office until their successors are appointed and have qualified unless sooner removed by competent authority. The enactment of this Act shall not affect the term of office of the judge of the District Court of the Virgin Islands in office on the date of its enactment \[July 22, 1954\].”
 
 #### Short Title of 1968 Amendment
 

@@ -2,7 +2,7 @@
 
 Payroll administration for the Capitol Police and civilian support personnel of the Capitol Police shall be carried out on a unified basis by a single disbursing authority. The Capitol Police Board, with the approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate, acting jointly, shall, by contract or otherwise, provide for such unified payroll administration.
 
-(July 31, 1946, ch. 707, §9C, as added Oct. 6, 1992, Pub. L. 102–397, title I, §102, 106 Stat. 1950; amended Aug. 20, 1996, Pub. L. 104–186, title II, §221(12), 110 Stat. 1750.)
+(July 31, 1946, ch. 707, §9C, as added Pub. L. 102–397, title I, §102, Oct. 6, 1992, 106 Stat. 1950; amended Pub. L. 104–186, title II, §221(12), Aug. 20, 1996, 110 Stat. 1750.)
 
 #### Amendments
 

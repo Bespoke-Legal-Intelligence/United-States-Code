@@ -10,11 +10,11 @@ Any purchase by the Bank shall be upon such terms and conditions as to yield a r
 
 #### (c) Fees
 
-The Bank is authorized to charge fees for its commitments and other services adequate to cover all expenses and to provide for the accumulation of reasonable contingency reserves.
+The Bank is authorized to charge fees for its commitments and other services adequate tocover all expenses and to provide for the accumulation of reasonable contingency reserves.
 
 (Pub. L. 93–224, §6, Dec. 29, 1973, 87 Stat. 938.)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2290, 2294 of this title; title 48 section 1423a.
+This section is referred to in sections 2290, 2294 of this title; title 2 section 661d; title 48 section 1423a.
 

@@ -62,7 +62,7 @@ Amounts in the Trust shall be available—
 
 #### (1) Application by eligible individual
 
-&emsp;An eligible individual under section 12602 of this title who desires to apply the individual'snational service educational award to the payment of current full-time or part-time educational expenses shall, on a form prescribed by the Corporation, submit an application to the institution of higher education in which the student will be enrolled that contains such information as the Corporation may require to verify the individual's eligibility.
+&emsp;An eligible individual under section 12602 of this title who desires to apply the individual's national service educational award to the payment of current full-time or part-time educational expenses shall, on a form prescribed by the Corporation, submit an application to the institution of higher education in which the student will be enrolled that contains such information as the Corporation may require to verify the individual's eligibility.
 
 #### (2) Submission of requests for payment by institutions
 
@@ -120,7 +120,7 @@ With the approval of the Director, an approved national service program funded u
 
 #### (g) “Institution of higher education” defined
 
-Notwithstanding section 12511 of this title, for purposes of this section the term “institution ofhigher education” has the meaning provided by section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a)).
+Notwithstanding section 12511 of this title, for purposes of this section the term “institution of higher education” has the meaning provided by section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a)).
 
 (Pub. L. 101–610, title I, §148, as added Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 820.)
 

@@ -1,0 +1,14 @@
+### §69–1. Availability of funds for franked mail expenses
+
+Funds in the account, within the contingent fund of the Senate, available for the expenses of inquiries and investigations shall be available for franked mail expenses incurred by committees of the Senate the other expenses of which are paid from that account.
+
+(Pub. L. 105–55, title I, §6(b), Oct. 7, 1997, 111 Stat. 1181.)
+
+#### Codification
+
+Section is from the Congressional Operations Appropriations Act, 1998, which is title I of the Legislative Branch Appropriations Act, 1998.
+
+#### Effective Date
+
+Section 6(c) of Pub. L. 105–55 provided that: “This section \[enacting this section\] is effective for fiscal years beginning on and after October 1, 1997.”
+

@@ -4,7 +4,7 @@
 
 (b) The President shall designate one of the judges of the Court of Federal Claims who is less than seventy years of age to serve as chief judge. The chief judge may continue to serve as such until he reaches the age of seventy years or until another judge is designated as chief judge by the President. After the designation of another judge to serve as chief judge, the former chief judge may continue to serve as a judge of the court for the balance of the term to which appointed.
 
-(June 25, 1948, ch. 646, 62 Stat 898; July 28, 1953, ch. 253, §1, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §39(a), 68 Stat. 1240; May 11, 1966, Pub. L. 89–425, §1(b), 80 Stat. 140; Apr. 2, 1982, Pub. L. 97–164, title I, §105(a), 96 Stat. 27; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(a), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat 898; July 28, 1953, ch. 253, §1, 67 Stat. 226; Sept. 3, 1954, ch. 1263, §39(a), 68 Stat. 1240; Pub. L. 89–425, §1(b), May 11, 1966, 80 Stat. 140; Pub. L. 97–164, title I, §105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -22,15 +22,15 @@ Minor changes were made in arrangement and phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in subsec. (b).
+<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in subsec. (b).
 
-1982—Pub. L. 97–164 designated existing provisions as subsec. (a), substituted “sixteen judges who shall constitute a court of record known as the United States Claims Court” for “a chief judge and six associate judges who shall constitute a court of record known as the United States Court of Claims” and “The court is declared to be a court established under article I of the Constitution of the United States” for “Such court is hereby declared to be a court established under article III of the Constitution of the United States” in subsec. (a) as so designated, and added subsec. (b).
+<b>1982</b>—Pub. L. 97–164 designated existing provisions as subsec. (a), substituted “sixteen judges who shall constitute a court of record known as the United States Claims Court” for “a chief judge and six associate judges who shall constitute a court of record known as the United States Court of Claims” and “The court is declared to be a court established under article I of the Constitution of the United States” for “Such court is hereby declared to be a court established under article III of the Constitution of the United States” in subsec. (a) as so designated, and added subsec. (b).
 
-1966—Pub. L. 89–425 increased the number of associate judges from four to six.
+<b>1966</b>—Pub. L. 89–425 increased the number of associate judges from four to six.
 
-1954—Act Sept. 3, 1954, inserted “; character or court” in section catchline.
+<b>1954</b>—Act Sept. 3, 1954, inserted “; character or court” in section catchline.
 
-1953—Act July 28, 1953, inserted second sentence.
+<b>1953</b>—Act July 28, 1953, inserted second sentence.
 
 #### Change of Name
 
@@ -46,7 +46,7 @@ Section 911 of title IX of Pub. L. 102–572 provided that: “This title \[see 
 
 #### Effective Date of 1982 Amendment
 
-Section 402 of Pub. L. 97–164 provided that: “Unless otherwise specified, the provisions of this Act \[seeShort Title of 1982 Amendment note set out under section 1 of this title\] shall take effect on October 1, 1982.”
+Section 402 of Pub. L. 97–164 provided that: “Unless otherwise specified, the provisions of this Act \[see Short Title of 1982 Amendment note set out under section 1 of this title\] shall take effect on October 1, 1982.”
 
 #### Continued Service of Commissioners of Court of Claims as Judges
 
@@ -58,7 +58,7 @@ Section 169 of Pub. L. 97–164 provided that: “Nothing in this Act \[see Shor
 
 #### Transition Provisions: Transfer of Pending Cases
 
-Section 403 of Pub. L. 97–164 provided for transfer of cases or matters pending on Oct. 1, 1982, before Court of Claims or United States Court of Customs and Patent Appeals to United States Court of Appeals for the Federal Circuit, directed that petitions for rehearing, reconsideration, or other changes in decisions of Court of Claims or United States Court of Customs and Patent Appeals rendered prior to such date be determined by United States Court of Appeals for the Federal Circuit, directed that matters pending before Commissioners of United States Court of Claims on such date be determined by United States Claims Court \[now United States Court of Federal Claims\], and directed that any case in which notice of appeal had been filed in district court of United States prior to such date would be decided by court of appeals to which the appeal was taken.
+Section 403 of Pub. L. 97–164 provided for transfer of cases or matters pending on Oct. 1, 1982, before Court of Claims or United States Court of Customs and Patent Appeals to United States Court of Appeals for the Federal Circuit, directed that petitions for rehearing, reconsideration, or other changes in decisions of Court of Claims or United States Court of Customs and Patent Appeals rendered prior to such date be determined by United States Court of Appeals for the Federal Circuit, directed that matters pending before Commissioners of United States Court of Claims on such date be determined by United States Claims Court \[now UnitedStates Court of Federal Claims\], and directed that any case in which notice of appeal had been filed in district court of United States prior to such date would be decided by court of appeals to which the appeal was taken.
 
 #### Congressional Statement Regarding Appointment of Judges
 

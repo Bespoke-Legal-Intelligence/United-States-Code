@@ -22,7 +22,7 @@
 
 (2) No agency or board of the Department of the Interior other than the Bureau of Land Management shall have authority to determine the navigability of a lake, river, or stream within an area selected by a Native or Native Corporation pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or this Act unless a determination by the Bureau of Land Management that such lake, river, or stream, is or is not navigable, was validly appealed to such agency or board on or before December 2, 1980.
 
-(3) If title to land conveyed to a Native Corporation pursuant to the Alaska Native ClaimsSettlement Act \[43 U.S.C. 1601 et seq.\] or this Act which underlies a lake, river, or stream is challenged in a court of competent jurisdiction and such court determines that such land is owned by the Native Corporation, the Native Corporation shall be awarded a money judgment against the plaintiffs in an amount equal to its costs and attorney's fees, including costs and attorney's fees incurred on appeal.
+(3) If title to land conveyed to a Native Corporation pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or this Act which underlies a lake, river, or stream is challenged in a court of competent jurisdiction and such court determines that such land is owned by the Native Corporation, the Native Corporation shall be awarded a money judgment against the plaintiffs in an amount equal to its costs and attorney's fees, including costs and attorney's fees incurred on appeal.
 
 #### (d) Definitions
 
@@ -36,7 +36,7 @@ The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(1), (b)(1),
 
 This Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
-The Alaska Statehood Act, referred to in subsecs. (a)(1), (b)(1), and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsecs. (a)(1), (b)(1), and (d), is Pub. L. 85–508, July 7, 1958, 72Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 The Submerged Lands Act, referred to in subsecs. (a)(2) and (d), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§1301 et seq., 1311 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 

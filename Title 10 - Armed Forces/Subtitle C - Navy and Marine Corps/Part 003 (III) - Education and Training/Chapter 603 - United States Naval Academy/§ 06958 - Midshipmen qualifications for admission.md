@@ -16,7 +16,9 @@
 
 &emsp;(3) shall be appointed in the order of merit from candidates who have, in competition with each other, passed the required mental examination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Sept. 14, 1962, Pub. L. 87–663, §1(4), 76 Stat. 547; Nov. 29, 1973, Pub. L. 93–171, §2(5), 87 Stat. 690; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(b)(3), 104 Stat. 1563; Dec. 5, 1991, Pub. L. 102–190, div. A, title V, §512, 105 Stat. 1360; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §555(c), 110 Stat. 2527.)
+(d) To be admitted to the Naval Academy, an appointee must take and subscribe to an oath prescribed by the Secretary of the Navy. If a candidate for admission refuses to take and subscribe to the prescribed oath, the candidate's appointment is terminated.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 431; Sept. 14, 1962, Pub. L. 87–663, §1(4), 76 Stat. 547; Nov. 29, 1973, Pub. L. 93–171, §2(5), 87 Stat. 690; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(b)(3), 104 Stat. 1563; Dec. 5, 1991, Pub. L. 102–190, div. A, title V, §512, 105 Stat. 1360; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §555(c), 110 Stat. 2527; Nov. 18, 1997, Pub. L. 105–85, div. A, title V, §541(a), 111 Stat. 1740.)
 
 Historical and Revision Notes
 
@@ -62,6 +64,8 @@ In subsection (b) the words “domiciled in” are substituted for the words “
 
 #### Amendments
 
+1997—Subsec. (d). Pub. L. 105–85 added subsec. (d).
+
 1996—Subsec. (a)(1). Pub. L. 104–201 substituted “twenty-third birthday” for “twenty-second birthday”.
 
 1991—Subsec. (c)(2) to (4). Pub. L. 102–190 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which required candidates to have served at least one year as enlisted members on date of entrance.
@@ -83,4 +87,8 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 #### Cross References
 
 Effect upon enlisted status of acceptance of appointment as midshipman, see section 516 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6957 of this title.
 

@@ -18,7 +18,7 @@ Authorization and impact considerations.—In establishing fees under subsection
 
 &emsp;&emsp;(A) is authorized to recover in fiscal year 1997 $100,000,000; and
 
-&emsp;&emsp;(B) shall ensure that each of the fees required by subsection (a) is directly related to the Administration's costs of providing the service rendered. Services for which costs may be recovered include the costs of air traffic control, navigation, weather services, training and emergency services which are available to facilitate safe transportation over the United States, and other services provided by the Administrator or by programs financed by the Administrator to flights that neither take off nor land in the United States.
+&emsp;&emsp;(B) shall ensure that each of the fees required by subsection (a) is directly relatedto the Administration's costs of providing the service rendered. Services for which costs may be recovered include the costs of air traffic control, navigation, weather services, training and emergency services which are available to facilitate safe transportation over the United States, and other services provided by the Administrator or by programs financed by the Administrator to flights that neither take off nor land in the United States.
 
 &emsp;(2)
 
@@ -32,7 +32,7 @@ Use of Experts and Consultants.—In developing the system, the Administrator ma
 
 #### Prior Provisions
 
-A prior section 45301, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–305, title II, §209, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–287, §5(76), Oct. 11, 1996, 110 Stat. 3396, related to authority to impose fees, prior to repeal by Pub. L. 104–264, title II, §§203, 273(a), Oct. 9, 1996, 110 Stat. 3227, 3239, effective 30 days after Oct. 9, 1996.
+A prior section 45301, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–305, title II, §209, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–287, §5(76), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(d)(1)(C), Nov. 20, 1997, 111 Stat. 2215, related to authority to impose fees, prior to repeal by Pub. L. 104–264, title II, §§203, 273(a), Oct. 9, 1996, 110 Stat. 3227, 3239, effective 30 days after Oct. 9, 1996.
 
 #### Effective Date
 

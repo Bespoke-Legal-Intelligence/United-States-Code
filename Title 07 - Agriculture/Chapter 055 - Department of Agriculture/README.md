@@ -32,6 +32,14 @@
 | (b) | Funding. |
 | (c) | Activities. |
 | (d) | Limitations. |
+| [2204g.](%C2%A7%2002204g%20-%20Authority%20of%20Secretary%20of%20Agriculture%20to%20conduct%20census%20of%20agriculture.md) | Authority of Secretary of Agriculture to conduct census of agriculture. |
+| (a) | Census of agriculture required. |
+| (b) | Methods. |
+| (c) | Year of information. |
+| (d) | Enforcement. |
+| (e) | Geographic coverage. |
+| (f) | Cooperation with Secretary of Commerce. |
+| (g) | Regulations. |
 | [2205\.](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md) | Duties of former Commissioner of Agriculture transferred to Secretary. |
 | [2206\.](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md) | Custody of property and records. |
 | [2206a.](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md) | Conveyance of excess Federal personal property. |
@@ -140,6 +148,7 @@
 | (b) | Duty of Secretary; immunity from disclosure; necessary consent. |
 | (c) | Violations; penalties. |
 | (d) | Specific provisions for collection of information. |
+| (e) | Information provided to Secretary of Commerce. |
 | [2277\.](%C2%A7%2002277%20-%20Contracts%20by%20Animal%20and%20Plant%20Health%20Inspection%20Service%20for%20services%20to%20be%20performed%20abroad.md) | Contracts by Animal and Plant Health Inspection Service for services to be performed abroad. |
 | [2278\.](%C2%A7%2002278%20-%20Consistency%20with%20international%20obligations%20of%20United%20States.md) | Consistency with international obligations of United States. |
 | (a) | In general. |
@@ -190,6 +199,7 @@
 - [&sect; 02204d - Encouragement of private contracting](%C2%A7%2002204d%20-%20Encouragement%20of%20private%20contracting.md)
 - [&sect; 02204e - Office of Risk Assessment and Cost-Benefit Analysis](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md)
 - [&sect; 02204f - Fund for Rural America](%C2%A7%2002204f%20-%20Fund%20for%20Rural%20America.md)
+- [&sect; 02204g - Authority of Secretary of Agriculture to conduct census of agriculture](%C2%A7%2002204g%20-%20Authority%20of%20Secretary%20of%20Agriculture%20to%20conduct%20census%20of%20agriculture.md)
 - [&sect; 02205 - Duties of former Commissioner of Agriculture transferred to Secretary](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md)
 - [&sect; 02206 - Custody of property and records](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md)
 - [&sect; 02206a - Conveyance of excess Federal personal property](%C2%A7%2002206a%20-%20Conveyance%20of%20excess%20Federal%20personal%20property.md)

@@ -32,7 +32,7 @@ Priority in carrying out this section shall be given to the activities described
 
 #### (2) Limitation
 
-&emsp;Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) of this section unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of the discretionary spending limits for that fiscal year (as defined in section 665(a)(2) of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
+&emsp;Funds described in paragraph (1) may not be obligated for programs and activities under subsection (a) of this section unless the Director of the Office of Management and Budget has determined that expenditures during fiscal year 1993 pursuant to such obligation shall be counted against the defense category of thediscretionary spending limits for that fiscal year (as defined in section 665(a)(2) <sup>1</sup> of title 2) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
 (Pub. L. 102–511, title V, §503, Oct. 24, 1992, 106 Stat. 3338.)
 
@@ -41,6 +41,8 @@ Priority in carrying out this section shall be given to the activities described
 Sections 108 and 109 of Public Law 102–229, referred to in subsec. (c)(1), are sections 108 and 109 of Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1708, which are not classified to the Code.
 
 Section 506(a) of this Act, referred to in subsec. (c)(1), is section 506(a) of Pub. L. 102–511, which was classified to section 5856(a) of this title and was omitted from the Code. Section 506(a) directed amendment of section 221 of Pub. L. 102–228, set out as a note under section 2551 of this title, but did not become effective pursuant to section 5856(c) of this title.
+
+Section 665 of title 2, referred to in subsec. (c)(2), was repealed by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695.
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c)(2), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§900 et seq.) of chapter 20 of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
@@ -51,4 +53,6 @@ Authority of President under this section delegated to Secretary of Defense by s
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5852, 5855, 5856, 5857, 5858 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

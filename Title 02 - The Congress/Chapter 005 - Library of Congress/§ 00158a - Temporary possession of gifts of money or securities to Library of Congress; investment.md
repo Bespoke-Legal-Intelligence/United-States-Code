@@ -8,7 +8,7 @@ In the case of a gift of money or securities offered to the Library of Congress,
 
 > If the gift is not so approved within the 12-month period after the Librarian so takes possession, the principal of the gift shall be returned to the donor and any income earned during that period shall be available for use with respect to the Library of Congress as provided by law.
 
-(Mar. 3, 1925, ch. 423, §2(par.), as added Feb. 18, 1992, Pub. L. 102–246, §3, 106 Stat. 31.)
+(Mar. 3, 1925, ch. 423, §2(par.), as added Pub. L. 102–246, §3, Feb. 18, 1992, 106 Stat. 31.)
 
 #### Codification
 

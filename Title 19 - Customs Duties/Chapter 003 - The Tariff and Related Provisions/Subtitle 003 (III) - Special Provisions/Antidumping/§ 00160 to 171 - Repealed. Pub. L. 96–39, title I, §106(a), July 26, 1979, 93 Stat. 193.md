@@ -2,7 +2,7 @@
 
 Section 160, acts May 27, 1921, ch. 14, §201, 42 Stat. 11; Sept. 1, 1954, ch. 1213, title III, §301, 68 Stat. 1138; Aug. 14, 1958, Pub. L. 85–630, §§1, 4(b), 72 Stat. 583, 585; Jan. 3, 1975, Pub. L. 93–618, title III, §321(a), 88 Stat. 2043, related to initiation of a dumping investigation. See section 1673 et seq. of this title.
 
-Section 161, acts May 27, 1921, ch. 14, §202, 42 Stat. 11; Sept. 1, 1954, ch. 1213, title III, §302, 68 Stat. 1139; Aug. 14, 1958, Pub. L. 85–630, §§2, 4(b), 72 Stat. 583, 585; June 2, 1970, Pub. L. 91–271, title III, §311, 84 Stat. 292, related to collection of a special dumping duty. See section 1673 et seq. of this title.
+Section 161, acts May 27, 1921, ch. 14, §202, 42 Stat. 11; Sept. 1, 1954, ch. 1213, title III, §302, 68 Stat. 1139; Aug.14, 1958, Pub. L. 85–630, §§2, 4(b), 72 Stat. 583, 585; June 2, 1970, Pub. L. 91–271, title III, §311, 84 Stat. 292, related to collection of a special dumping duty. See section 1673 et seq. of this title.
 
 Section 162, acts May 27, 1921, ch. 14, §203, 42 Stat. 12; Jan. 3, 1975, Pub. L. 93–618, title III, §321(b), 88 Stat. 2045, related to determination of purchase price of merchandise for purposes of sections 160 to 171 of this title. See section 1673 et seq. of this title.
 
@@ -18,7 +18,7 @@ Section 167, acts May 27, 1921, ch. 14, §208, 42 Stat. 14; June 2, 1970, Pub. L
 
 Section 168, acts May 27, 1921, ch. 14, §209, 42 Stat. 15; Aug. 14, 1958, Pub. L. 85–630, §4(b), 72 Stat. 585; June 2, 1970, Pub. L. 91–271, title III, §313, 84 Stat. 292, related to duties of customs officers with regard to appraisal of merchandise. See section 1673h of this title.
 
-Section 169, acts May 27, 1921, ch. 14, §210, 42 Stat. 15; May 28, 1926, ch. 411, §1, 44 Stat. 669; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475; Aug. 14, 1958, Pub. L. 85–630, §4(b), 72 Stat. 585; June 2, 1970, Pub. L. 91–271, title III, §314,84 Stat. 293, related to protests from determinations of customs officers. See section 1673 et seq. of this title.
+Section 169, acts May 27, 1921, ch. 14, §210, 42 Stat. 15; May 28, 1926, ch. 411, §1, 44 Stat. 669; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475; Aug. 14, 1958, Pub. L. 85–630, §4(b), 72 Stat. 585; June 2, 1970, Pub. L. 91–271, title III, §314, 84 Stat. 293, related to protests from determinations of customs officers. See section 1673 et seq. of this title.
 
 Section 170, act May 27, 1921, ch. 14, §211, 42 Stat. 15, related to treatment of antidumping duties as regular duties for purposes of all laws relating to drawback of duties. See section 1673i of this title.
 

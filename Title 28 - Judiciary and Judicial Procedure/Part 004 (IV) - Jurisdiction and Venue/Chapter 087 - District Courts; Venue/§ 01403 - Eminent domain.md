@@ -26,5 +26,5 @@ Venue of action involving property in different districts in same state, see sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 section 79c; title 42 section 2222; title 50 section 167f.
+This section is referred to in title 16 section 79c; title 42 section 2222.
 

@@ -12,7 +12,7 @@
 
 #### (2) Application required
 
-&emsp;(A) A local educational agency desiring to receive a subgrant under this subsection for the development of a local improvement plan shall submit an application to the State educational agency. Such application shall contain assurances that the local educational agency intends to develop a local improvement plan that meets the requirements of this section.
+&emsp;(A) A local educational agency desiring to receive a subgrant under this subsection forthe development of a local improvement plan shall submit an application to the State educational agency. Such application shall contain assurances that the local educational agency intends to develop a local improvement plan that meets the requirements of this section.
 
 &emsp;(B) A local educational agency only shall be eligible to receive a subgrant under this subsection to develop a local improvement plan for one fiscal year.
 
@@ -54,7 +54,7 @@
 
 #### (4) Submission
 
-&emsp;A local educational agency which has approved a local improvement plan shall submit such plan to the State educational agency forapproval together with a description of modifications made by the local educational agency to such plan and any comments from the local panel regarding such plan.
+&emsp;A local educational agency which has approved a local improvement plan shall submit such plan to the State educational agency for approval together with a description of modifications made by the local educational agency to such plan and any comments from the local panel regarding such plan.
 
 #### (5) Monitoring
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(II) not less than 75 percent of the subgrant funds to support individual school improvement initiatives related to providing all students in the school the opportunity to meet State content standards and State student performance standards; and
 
-&emsp;&emsp;(ii) in subsequent years, shall use subgrant funds for any activities approved by the State educational agency which are reasonably related to carrying out the State or local improvement plans which may include the establishment of innovative new public schools and the acquisition of technology and use of technology-enhanced curricula and instruction, except that at least 85 percent of such funds shall be made available to individual schools to develop and implement comprehensive school improvement plans which are designed to meet the needs of their particular student population and help all students meet State content standards and State student performance standards.
+&emsp;&emsp;(ii) in subsequent years, shall use subgrant funds for any activities approved by theState educational agency which are reasonably related to carrying out the State or local improvement plans which may include the establishment of innovative new public schools and the acquisition of technology and use of technology-enhanced curricula and instruction, except that at least 85 percent of such funds shall be made available to individual schools to develop and implement comprehensive school improvement plans which are designed to meet the needs of their particular student population and help all students meet State content standards and State student performance standards.
 
 &emsp;(B) At least 50 percent of the funds made available by a local educational agency to individual schools under this section in any fiscal year shall be made available to schools with a special need for such assistance, as indicated by a high number or percentage of students from low-income families, low student achievement, or other similar criteria developed by the local educational agency.
 
@@ -110,7 +110,7 @@
 
 &emsp;Each local educational agency or consortium that desires to receive a subgrant under this subsection shall submit an application to the State educational agency which—
 
-&emsp;&emsp;(A) describes how the applicant will use the subgrant to improve teacher preservice and school administrator education programs or to implement educator professionaldevelopment activities consistent with the State improvement plan;
+&emsp;&emsp;(A) describes how the applicant will use the subgrant to improve teacher preservice and school administrator education programs or to implement educator professional development activities consistent with the State improvement plan;
 
 &emsp;&emsp;(B) identifies the criteria to be used by the applicant to judge improvements in preservice education or the effects of professional development activities consistent with the State improvement plan; and
 
@@ -136,7 +136,7 @@
 
 #### (2) Waiver
 
-&emsp;The State educational agency may waive the requirement of paragraph (1) if such agency does not receive a sufficient number of applications to comply with such requirement.
+&emsp;The State educational agency may waive the requirement of paragraph (1) if such agencydoes not receive a sufficient number of applications to comply with such requirement.
 
 (Pub. L. 103–227, title III, §309, Mar. 31, 1994, 108 Stat. 169; Pub. L. 103–382, title III, §361(c), Oct. 20, 1994, 108 Stat. 3975; Pub. L. 104–134, title I, §101(d) \[title VII, §§702(b), 703(a)(11)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251, 1321–253; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 

@@ -32,7 +32,7 @@ Except as otherwise provided in this subchapter, it shall be an infringement of 
 
 &emsp;(A) the producer has fulfilled the terms of the contract;
 
-&emsp;(B) the owner refuses to take delivery of the seed or refuses to pay any amounts due under the contract within 30 days of the payment date specified in the contract; and
+&emsp;(B) the owner refuses to take delivery of the seed or refuses to pay any amounts due underthe contract within 30 days of the payment date specified in the contract; and
 
 &emsp;(C) after the expiration of the period specified in subparagraph (B), the producer notifies the owner of the producer's intent to sell the seed and unless the owner fails to pay the amounts due under the contract and take delivery of the seed within 30 days of such notification. For the purposes of this paragraph, the term “owner” shall include any licensee of the owner.
 
@@ -70,7 +70,7 @@ As used in this section, the term “perform without authority” includes perfo
 
 The effective date of this provision, referred to in subsec. (b)(3), probably means the effective date of subsec. (b)(3), which was added by Pub. L. 103–349, effective 180 days after Oct. 6, 1994. See Effective Date of 1994 Amendment note set out under section 2401 of this title.
 
-The Plant Variety Protection Act Amendments of 1994, referred to in subsec. (b)(3), is Pub. L. 103–349, Oct. 6, 1994, 108 Stat. 3136. For complete classification of thisAct to the Code, see Short Title of 1994 Amendment note set out under section 2321 of this title and Tables.
+The Plant Variety Protection Act Amendments of 1994, referred to in subsec. (b)(3), is Pub. L. 103–349, Oct. 6, 1994, 108 Stat. 3136. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 2321 of this title and Tables.
 
 #### Amendments
 

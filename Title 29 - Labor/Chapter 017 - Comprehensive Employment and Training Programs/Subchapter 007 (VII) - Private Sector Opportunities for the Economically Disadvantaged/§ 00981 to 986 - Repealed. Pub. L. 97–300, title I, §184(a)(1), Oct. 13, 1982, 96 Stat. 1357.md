@@ -26,7 +26,7 @@ A prior section 986, Pub. L. 93–203, title VII, §706, formerly title VI, §60
 
 Sections 987 to 990 of this title were eliminated in the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 987, Pub. L. 93–203, title VII, §707, formerly title VI, §607, Dec. 28, 1973, 87 Stat. 880; renumberedtitle VII, §707, Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, related to authority of Secretary to accept gifts in name of Department.
+Section 987, Pub. L. 93–203, title VII, §707, formerly title VI, §607, Dec. 28, 1973, 87 Stat. 880; renumbered title VII, §707, Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, related to authority of Secretary to accept gifts in name of Department.
 
 Section 988, Pub. L. 93–203, title VII, §708, formerly title VI, §608, Dec. 28, 1973, 87 Stat. 881; renumbered title VII, §708, Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, related to use of the services and facilities of departments, agencies, and establishments of the United States by Secretary.
 

@@ -2,7 +2,7 @@
 
 (a) A contract of a military department for research or development, or both, may provide for the acquisition or construction by, or furnishing to, the contractor, of research, developmental, or test facilities and equipment that the Secretary of the military department concerned determines to be necessary for the performance of the contract. The facilities and equipment, and specialized housing for them, may be acquired or constructed at the expense of the United States, and may be lent or leased to the contractor with or without reimbursement, or may be sold to him at fair value. This subsection does not authorize new construction or improvements having general utility.
 
-(b) Facilities that would not be readily removable or separable without unreasonable expense or unreasonable loss of value may not be installed or constructed under this section on property not owned by the United States, unless the contract contains—
+(b) Facilities that would not be readily removable or separable without unreasonable expenseor unreasonable loss of value may not be installed or constructed under this section on property not owned by the United States, unless the contract contains—
 
 &emsp;(1) a provision for reimbursing the United States for the fair value of the facilities at the completion or termination of the contract or within a reasonable time thereafter;
 

@@ -30,15 +30,17 @@ The contracting officer's decision on the claim shall be final and conclusive an
 
 #### (d) Alternative means of dispute resolution
 
-Notwithstanding any other provision of this chapter, a contractor and a contracting officer may use any alternative means of dispute resolution under subchapter IV of chapter 5 of title 5 (as in effect on September 30, 1995), or other mutually agreeable procedures, for resolving claims. The contractor shall certify the claim when required to do so as provided under subsection (c)(1) of this section or as otherwise required by law. All provisions of subchapter IV of chapter 5 of title 5 (as in effect on September 30, 1995) shall apply to such alternative means of dispute resolution.
+Notwithstanding any other provision of this chapter, a contractor and a contracting officer may use any alternative means of dispute resolution under subchapter IV of chapter 5 of title 5, or other mutually agreeable procedures, for resolving claims. The contractor shall certify the claim when required to do so as provided under subsection (c)(1) of this section or as otherwise required by law. All provisions of subchapter IV of chapter 5 of title 5 shall apply to such alternative means of dispute resolution.
 
 #### (e) Termination of authority to engage in alternative means of dispute resolution; savings provision
 
-In any case in which the contracting officer rejects a contractor's request for alternative dispute resolution proceedings, the contracting officer shall provide the contractor with a written explanation, citing one or more of the conditions in section 572(b) of title 5 (as in effect onSeptember 30, 1995) or such other specific reasons that alternative dispute resolution procedures are inappropriate for the resolution of the dispute. In any case in which a contractor rejects a request of an agency for alternative dispute resolution proceedings, the contractor shall inform the agency in writing of the contractor's specific reasons for rejecting the request.
+In any case in which the contracting officer rejects a contractor's request for alternative dispute resolution proceedings, the contracting officer shall provide the contractor with a written explanation, citing one or more of the conditions in section 572(b) of title 5 or such other specific reasons that alternative dispute resolution procedures are inappropriate for the resolution of the dispute. In any case in which a contractor rejects a request of an agency for alternative dispute resolution proceedings, the contractor shall inform the agency in writing of the contractor's specific reasons for rejecting the request.
 
-(Pub. L. 95–563, §6, Nov. 1, 1978, 92 Stat. 2384; Pub. L. 101–552, §6(a), Nov. 15, 1990, 104 Stat. 2745; Pub. L. 102–572, title IX, §907(a)(1), Oct. 29, 1992, 106 Stat. 4518; Pub. L. 103–355, title II, §§2351(a)\[(1)\], (b), (e), 2352, Oct. 13, 1994, 108 Stat. 3322; Pub. L. 104–106, div. D, title XLIII, §§4321(a)(6), (7), 4322(b)(6), Feb. 10, 1996, 110 Stat. 671, 677; Pub. L. 104–320, §6, Oct. 19, 1996, 110 Stat. 3871.)
+(Pub. L. 95–563, §6, Nov. 1, 1978, 92 Stat. 2384; Pub. L. 101–552, §6(a), Nov. 15, 1990, 104 Stat. 2745; Pub. L. 102–572, title IX, §907(a)(1), Oct. 29, 1992, 106 Stat. 4518; Pub. L. 103–355, title II, §§2351(a)\[(1)\], (b), (e), 2352, Oct. 13, 1994, 108 Stat. 3322; Pub. L. 104–106, div. D, title XLIII, §§4321(a)(6), (7), 4322(b)(6), Feb. 10, 1996, 110 Stat. 671, 677; Pub. L. 104–320, §6, Oct. 19, 1996, 110 Stat. 3871; Pub. L. 105–85, div. A, title X, §1073(g)(3), Nov. 18, 1997, 111 Stat. 1906.)
 
 #### Amendments
+
+1997—Subsecs. (d), (e). Pub. L. 105–85 struck out “(as in effect on September 30, 1995)” after “title 5” wherever appearing.
 
 1996—Subsec. (a). Pub. L. 104–106, §4321(a)(6), made technical correction to Pub. L. 103–355, §2351(a). See 1994 Amendment note below.
 
@@ -90,5 +92,5 @@ Section 2351(a)(2) of Pub. L. 103–355 provided that: “Notwithstanding the th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 256, 606, 609, 611 of this title; title 5 section 504; title 10 sections 2324, 2405; title 28 section 1491; title 31 section 3907.
+This section is referred to in sections 256, 606, 609, 611 of this title; title 5 section 504; title 10 section 2324; title 28 section 1491; title 31 section 3907.
 

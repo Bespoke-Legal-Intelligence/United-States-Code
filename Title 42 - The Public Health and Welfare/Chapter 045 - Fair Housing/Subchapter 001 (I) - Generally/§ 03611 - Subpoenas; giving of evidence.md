@@ -10,7 +10,7 @@ Witnesses summoned by a subpoena under this subchapter shall be entitled to the 
 
 #### (c) Criminal penalties
 
-(1) Any person who willfully fails or neglects to attend and testify or to answer any lawful inquiry or to produce records, documents, or otherevidence, if it is in such person's power to do so, in obedience to the subpoena or other lawful order under subsection (a) of this section, shall be fined not more than $100,000 or imprisoned not more than one year, or both.
+(1) Any person who willfully fails or neglects to attend and testify or to answer any lawful inquiry or to produce records, documents, or other evidence, if it is in such person's power to do so, in obedience to the subpoena or other lawful order under subsection (a) of this section, shall be fined not more than $100,000 or imprisoned not more than one year, or both.
 
 (2) Any person who, with intent thereby to mislead another person in any proceeding under this subchapter—
 

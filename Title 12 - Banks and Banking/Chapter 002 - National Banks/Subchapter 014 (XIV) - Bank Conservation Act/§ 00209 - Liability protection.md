@@ -12,7 +12,7 @@ In any case where the conservator is not a conservator described in subsection (
 
 The Comptroller <sup>1</sup> shall have authority to indemnify the conservator on such terms as the Comptroller deems proper.
 
-(Mar. 9, 1933, ch. 1, title II, §209, 48 Stat. 5; Sept. 3, 1954, ch. 1263, §23, 68 Stat. 1234; Aug. 9, 1989, Pub. L. 101–73, title VIII, §806, 103 Stat. 445.)
+(Mar. 9, 1933, ch. 1, title II, §209, 48 Stat. 5; Sept. 3, 1954, ch. 1263, §23, 68 Stat. 1234; Pub. L. 101–73, title VIII, §806, Aug. 9, 1989, 103 Stat. 445.)
 
 #### Amendments
 

@@ -22,7 +22,11 @@ Subject to appropriations provided pursuant to section 9123 of this title, the D
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount otherwise payable to a State for a fiscal year pursuant to an allotment under this part shall be reduced if the level of State expenditures, as described in paragraph (2), for the previous fiscal year is less than the average of the total of such expenditures for the 3 fiscal years preceding that previous fiscal year. The amount of the reduction in allotment for any fiscal year shall be equal to the amount by which the level of such State expenditures for the fiscal year for which the determination is made is less than the average of the total of such expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made.
+&emsp;&emsp;&emsp;The amount otherwise payable to a State for a fiscal year pursuant to an allotment under this part shall be reduced if the level of State expenditures, as described in paragraph (2), for the previous fiscal year is less than the average of the total of such expenditures for the 3 fiscal years preceding that previous fiscal year. The amount of the reduction in the allotment for any fiscal year shall be equal to the allotment multiplied by a fraction—
+
+&emsp;&emsp;&emsp;&emsp;(I) the numerator of which is the result obtained by subtracting the level of such State expenditures for the fiscal year for which the determination is made, from the average of the total level of such State expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the denominator of which is the average of the total level of such State expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made.
 
 #### (ii) Calculation
 
@@ -40,5 +44,9 @@ Subject to appropriations provided pursuant to section 9123 of this title, the D
 
 &emsp;The Director may waive the requirements of paragraph (1) if the Director determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State.
 
-(Pub. L. 94–462, title II, §223, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–299.)
+(Pub. L. 94–462, title II, §223, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–299; amended Pub. L. 105–128, §5, Dec. 1, 1997, 111 Stat. 2549.)
+
+#### Amendments
+
+1997—Subsec. (c)(1)(A)(i). Pub. L. 105–128 amended second sentence generally. Prior to amendment, second sentence read as follows: “The amount of the reduction in allotment for any fiscal year shall be equal to the amount by which the level of such State expenditures for the fiscal year for which the determination is made is less than the average of the total of such expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made.”
 

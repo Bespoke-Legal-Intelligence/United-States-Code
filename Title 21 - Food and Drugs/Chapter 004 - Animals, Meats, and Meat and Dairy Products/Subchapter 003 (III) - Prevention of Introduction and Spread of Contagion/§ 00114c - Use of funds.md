@@ -2,7 +2,7 @@
 
 For purposes of sections 114a, and 114b to 114d–1 of this title, insofar as sections 114b to 114d–1 of this title relate to diseases which in the opinion of the Secretary constitute an emergency and threaten the livestock industry of the country, funds appropriated pursuant thereto may also be used for the purchase or hire of passenger motor vehicles and aircraft, for printing and binding without regard to section 501 of title 44, for personal services in the District of Columbia and elsewhere without regard to the limitations contained in section 607(g) of the Federal Employees Pay Act of 1945, as amended, including the employment of civilian nationals of Mexico, Guatemala, El Salvador, Costa Rica, Honduras, Nicaragua, British Honduras, Panama, Columbia, and Canada, and for the construction and operation of research laboratories, quarantine stations and other buildings and facilities.
 
-(Feb. 28, 1947, ch. 8, §2, 61 Stat. 7; Aug. 3, 1956, ch. 950, §3, 70 Stat. 1033; Nov. 5, 1971, Pub. L. 92–152, §2, 85 Stat. 419; Mar. 15, 1990, Pub. L. 101–255, §1(2), 104 Stat. 114.)
+(Feb. 28, 1947, ch. 8, §2, 61 Stat. 7; Aug. 3, 1956, ch. 950, §3, 70 Stat. 1033; Pub. L. 92–152, §2, Nov. 5, 1971, 85 Stat. 419; Pub. L. 101–255, §1(2), Mar. 15, 1990, 104 Stat. 114.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@
 
 (c) If the name of any naturalized citizen has, subsequent to naturalization, been changed by order of any court of competent jurisdiction, or by marriage, the citizen may make application for a new certificate of naturalization in the new name of such citizen. If the Attorney General finds the name of the applicant to have been changed as claimed, the Attorney General shall issue to the applicant a new certificate and shall notify the naturalization court of such action.
 
-(d) The Attorney General is authorized to make and issue certifications of any part of the naturalization records of any court, or of any certificate of naturalization or citizenship, for use in complying with any statute, State or Federal, or in any judicial proceeding. No such certification shall be made by any clerk of court except upon order of the court.
+(d) The Attorney General is authorized to make and issue certifications of any part of thenaturalization records of any court, or of any certificate of naturalization or citizenship, for use in complying with any statute, State or Federal, or in any judicial proceeding. No such certification shall be made by any clerk of court except upon order of the court.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §343, 66 Stat. 263; Oct. 24, 1988, Pub. L. 100–525, §9(ee), 102 Stat. 2621.)
 

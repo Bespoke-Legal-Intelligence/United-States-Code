@@ -2,7 +2,7 @@
 
 The words “flood control” as used in section 701a of this title, shall be construed to include channel and major drainage improvements and flood prevention improvements for protection from groundwater-induced damages, and Federal investigations and improvements of rivers and other waterways for flood control and allied purposes shall be under the jurisdiction of and shall be prosecuted by the Department of the Army under the direction of the Secretary of the Army and supervision of the Chief of Engineers, and Federal investigations of watersheds and measures for run-off and water-flow retardation and soil-erosion prevention on watersheds shall be under the jurisdiction of and shall be prosecuted by the Department of Agriculture under the direction of the Secretary of Agriculture, except as otherwise provided by Act of Congress.
 
-(Dec. 22, 1944, ch. 665, §2, 58 Stat. 889; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Nov. 17, 1986, Pub. L. 99–662, title IV, §403, 100 Stat. 4133.)
+(Dec. 22, 1944, ch. 665, §2, 58 Stat. 889; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 99–662, title IV, §403, Nov. 17, 1986, 100 Stat. 4133.)
 
 #### Amendments
 

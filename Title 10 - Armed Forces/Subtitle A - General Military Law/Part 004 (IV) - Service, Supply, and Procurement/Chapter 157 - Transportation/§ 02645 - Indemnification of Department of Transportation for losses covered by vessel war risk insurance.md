@@ -6,7 +6,7 @@ Prompt Indemnification Required.—(1) In the event of a loss that is covered by
 
 &emsp;(A) in the case of a claim for the loss of a vessel, not later than 90 days after the date on which the Secretary of Transportation determines the claim to be payable or that amounts are due under the policy that provided the vessel war risk insurance; and
 
-&emsp;(B) in the case of any other claim, not later than 180 days after the date on which on which <sup>1</sup> the Secretary of Transportation determines the claim to be payable.
+&emsp;(B) in the case of any other claim, not later than 180 days after the date on which the Secretary of Transportation determines the claim to be payable.
 
 (2) When there is a loss of a vessel that is (or may be) covered by vessel war risk insurance, the Secretary of Transportation may make, during the period when a claim for such loss is pending with the Secretary of Transportation, any required periodic payments owed by the insured party to a lessor or mortgagee of such vessel. Such payments shall commence not later than 30 days following the date of the presentment of the claim for the loss of the vessel to the Secretary of Transportation. If the Secretary of Transportation determines that the claim is payable, any amount paid under this paragraph arising from such claim shall be credited against the amount payable under the vessel war risk insurance. If the Secretary of Transportation determines that the claim is not payable, any amount paid under this paragraph arising from such claim shall constitute a debt to the United States, payable to the insurance fund. Any such amounts so returned to the United States shall be promptly credited to the fund or account from which the payments were made under this paragraph.
 
@@ -56,11 +56,15 @@ Vessel war risk insurance fund.—The term “Vessel War Risk Insurance Fund” 
 
 Loss.—The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the vessel war risk insurance.
 
-(Added Pub. L. 104–201, div. A, title X, §1079(b)(1), Sept. 23, 1996, 110 Stat. 2669.)
+(Added Pub. L. 104–201, div. A, title X, §1079(b)(1), Sept. 23, 1996, 110 Stat. 2669; amended Pub. L. 105–85, div. A, title X, §1073(a)(57), Nov. 18, 1997, 111 Stat. 1903.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 104–201, which was approved Sept. 23, 1996.
 
 The Merchant Marine Act, 1936, referred to in subsecs. (g) and (h)(1), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended. Title XII of the Act is classified generally to subchapter XII (§1281 et seq.) of chapter 27 of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
+
+#### Amendments
+
+1997—Subsec. (a)(1)(B). Pub. L. 105–85 struck out “on which” after “after the date on which”.
 

@@ -46,7 +46,7 @@ A prior section 133 was renumbered section 113 of this title.
 
 #### Amendments
 
-1993—Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “UnderSecretary of Defense for Acquisition” in section catchline and in subsecs. (a), (b), and (e)(1).
+1993—Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition” in section catchline and in subsecs. (a), (b), and (e)(1).
 
 1988—Subsec. (d)(1). Pub. L. 100–456 inserted provision that policies provide for coordination of annual plans developed by each such element for the conduct of audit and oversight functions within each contracting activity.
 

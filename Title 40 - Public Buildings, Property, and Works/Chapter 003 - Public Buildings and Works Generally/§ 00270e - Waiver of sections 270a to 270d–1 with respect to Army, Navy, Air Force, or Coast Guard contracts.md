@@ -2,7 +2,7 @@
 
 The Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or the Secretary of Transportation may waive sections 270a to 270d–1 of this title with respect to cost-plus-a-fixed fee and other cost-type contracts for the construction, alteration, or repair of any public building or public work of the United States and with respect to contracts for the manufacturing, producing, furnishing, construction, alteration, repair, processing, or assembling of vessels, aircraft, munitions, materiel, or supplies of any kind or nature for the Army, Navy, Air Force, or Coast Guard, respectively, regardless of the terms of such contracts as to payment or title.
 
-(Apr. 29, 1941, ch. 81, §1, 55 Stat. 147; June 3, 1955, ch. 129, 69 Stat. 83; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938.)
+(Apr. 29, 1941, ch. 81, §1, 55 Stat. 147; June 3, 1955, ch. 129, 69 Stat. 83; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### Amendments
 

@@ -40,7 +40,7 @@ The provisions of section 1278(a) of this title,<sup>2</sup> shall apply to the 
 
 #### (f) Properties and facilities of Federal agencies
 
-After consultation with any other Federal agency managing lands and waters within orcontiguous to the recreation area, the Secretary shall enter into a memorandum of understanding with such other Federal agency to identify those areas within the recreation area which are (1) under the administrative jurisdiction of such other agency; (2) directly related to the operation of the Summersville project; and (3) essential to the operation of such project. The memorandum of understanding shall also include provisions regarding the management of all such lands and waters in a manner consistent with the operation of such project and the management of the recreation area.
+After consultation with any other Federal agency managing lands and waters within or contiguous to the recreation area, the Secretary shall enter into a memorandum of understanding with such other Federal agency to identify those areas within the recreation area which are (1) under the administrative jurisdiction of such other agency; (2) directly related to the operation of the Summersville project; and (3) essential to the operation of such project. The memorandum of understanding shall also include provisions regarding the management of all such lands and waters in a manner consistent with the operation of such project and the management of the recreation area.
 
 (Pub. L. 100–534, title II, §202, Oct. 26, 1988, 102 Stat. 2702; Pub. L. 104–333, div. I, title IV, §406(c)(2), Nov. 12, 1996, 110 Stat. 4150.)
 

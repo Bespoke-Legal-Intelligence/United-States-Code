@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture (referred to in this section as the “Secretary”) may enter into reimbursable fee agreements with persons for preclearance at locations outside the United States of plants, plant products, animals, and articles for movement into the United States.
+The Secretary of Agriculture (referred to in this section as the “Secretary”) may enter intoreimbursable fee agreements with persons for preclearance at locations outside the United States of plants, plant products, animals, and articles for movement into the United States.
 
 #### (b) Overtime, night, and holiday work
 

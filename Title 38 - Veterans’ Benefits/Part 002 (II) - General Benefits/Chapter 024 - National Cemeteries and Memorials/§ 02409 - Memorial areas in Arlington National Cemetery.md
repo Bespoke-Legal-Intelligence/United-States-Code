@@ -22,3 +22,7 @@
 
 1989—Subsec. (b). Pub. L. 101–237 inserted “of the Army” after “Secretary”.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2411 of this title.
+

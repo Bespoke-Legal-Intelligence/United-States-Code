@@ -22,7 +22,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1990—Subsec. (a)(4). Pub. L. 101–557 and Pub. L. 101–589 amended par. (4) identically, striking out at end “Thefirst sentence of this paragraph shall not, in the case of any individual, apply longer than December 31, 1990.”
+1990—Subsec. (a)(4). Pub. L. 101–557 and Pub. L. 101–589 amended par. (4) identically, striking out at end “The first sentence of this paragraph shall not, in the case of any individual, apply longer than December 31, 1990.”
 
 1989—Pub. L. 101–208 amended section generally. Prior to amendment, section read as follows:
 

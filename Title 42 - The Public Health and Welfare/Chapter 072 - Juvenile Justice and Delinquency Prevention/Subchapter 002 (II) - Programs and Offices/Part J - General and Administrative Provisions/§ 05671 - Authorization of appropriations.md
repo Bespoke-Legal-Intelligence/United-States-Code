@@ -38,7 +38,7 @@
 
 &emsp;(ii) not more than $2,500,000 shall be used to operate any 1 boot camp during a fiscal year.
 
-(B) No amount is authorized to be appropriated for a fiscal year to carry out part H of this subchapter unless the aggregate amount appropriated to carry out parts A, B, and C of this subchapter for that fiscal year is not less than120 percent of the aggregate amount appropriated to carry out those parts for fiscal year 1992.
+(B) No amount is authorized to be appropriated for a fiscal year to carry out part H of this subchapter unless the aggregate amount appropriated to carry out parts A, B, and C of this subchapter for that fiscal year is not less than 120 percent of the aggregate amount appropriated to carry out those parts for fiscal year 1992.
 
 (7)(A) There are authorized to be appropriated such sums as are necessary for each National Conference and associated State and regional conferences under part I of this subchapter, to remain available until expended.
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of law, the Administrator shall—
 
 #### (d) Experimentation on individuals; prohibition; “behavior control” defined
 
-No funds appropriated to carry out the purposes of this subchapter may be used for any bio-medical or behavior control experimentation on individuals or any research involving such experimentation. For the purpose of this subsection, the term “behavior control” refers to experimentation or research employing methods which involve a substantial risk of physical or psychological harm to the individual subject and which are intended to modify or alter criminal and other anti-social behavior, including aversive conditioning therapy, drug therapy or chemotherapy (except as part of routine clinical care), physical therapy of mental disorders, electroconvulsive therapy, or physical punishment. The term does not apply to a limited class of programs generally recognized as involving no such risk, including methadone maintenance and certain alcohol treatment programs, psychological counseling, parent training, behavior contracting, survival skills training, restitution, or community service, if safeguards are established for the informed consent of subjects (including parents or guardians of minors).
+No funds appropriated to carry out the purposes of this subchapter may be used for any bio-medical or behavior control experimentation on individuals or any research involving such experimentation. For the purpose of this subsection, the term “behavior control” refers to experimentation or research employing methods which involve a substantial risk of physical or psychological harm to the individual subject and which are intended to modify or alter criminal and other anti-social behavior, including aversive conditioning therapy, drug therapy or chemotherapy (except as part of routine clinical care), physical therapy of mental disorders, electroconvulsive therapy, or physical punishment. The term does not apply to a limited class of programs generally recognized as involving nosuch risk, including methadone maintenance and certain alcohol treatment programs, psychological counseling, parent training, behavior contracting, survival skills training, restitution, or community service, if safeguards are established for the informed consent of subjects (including parents or guardians of minors).
 
 #### (e) Reservation for previously unfunded special emphasis prevention and treatment programs
 

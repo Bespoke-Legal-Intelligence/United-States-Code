@@ -68,7 +68,7 @@ Pub. L. 97–110, title II, §201, Dec. 26, 1981, 95 Stat. 1514, provided that: 
 
 #### Short Title and Statement of Purpose
 
-Section 301 of title III of Pub. L. 91–351, as amended by Pub. L. 101–73, title VII, §731(a), Aug. 9, 1989, 103Stat. 429; Pub. L. 102–550, title XIII, §1382(a), Oct. 28, 1992, 106 Stat. 4002, provided that:
+Section 301 of title III of Pub. L. 91–351, as amended by Pub. L. 101–73, title VII, §731(a), Aug. 9, 1989, 103 Stat. 429; Pub. L. 102–550, title XIII, §1382(a), Oct. 28, 1992, 106 Stat. 4002, provided that:
 
 “(a) This title \[enacting this chapter\] may be cited as the ‘Federal Home Loan Mortgage Corporation Act’.
 

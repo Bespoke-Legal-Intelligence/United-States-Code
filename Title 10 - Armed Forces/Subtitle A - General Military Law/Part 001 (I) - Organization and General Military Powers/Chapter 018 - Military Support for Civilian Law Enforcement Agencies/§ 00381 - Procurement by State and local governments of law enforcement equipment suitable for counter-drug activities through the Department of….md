@@ -32,7 +32,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
-&emsp;(2) The term “unit of local government” means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State; an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior; or any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia or the Trust Territory of the Pacific Islands.
+&emsp;(2) The term “unit of local government” means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State; an Indian tribe which performs law enforcement functions as determined by the Secretary of theInterior; or any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia or the Trust Territory of the Pacific Islands.
 
 &emsp;(3) The term “law enforcement equipment suitable for counter-drug activities” has the meaning given such term in regulations prescribed by the Secretary of Defense. In prescribing the meaning of the term, the Secretary may not include any equipment that the Department of Defense does not procure for its own purposes.
 

@@ -14,7 +14,7 @@ The Secretary shall establish such rules and regulations as he deems desirable c
 
 Nothing in this chapter shall affect the validity of withdrawals or reservations for purposes other than power development.
 
-(Aug. 11, 1955, ch. 797, §2, 69 Stat. 682; June 11, 1960, Pub. L. 86–507, §1(27), 74 Stat. 202; Aug. 4, 1977, Pub. L. 95–91, title IV, §402(a)(1)(A), title VII, §§703, 707, 91 Stat. 584, 606, 607.)
+(Aug. 11, 1955, ch. 797, §2, 69 Stat. 682; Pub. L. 86–507, §1(27), June 11, 1960, 74 Stat. 202; Pub. L. 95–91, title IV, §402(a)(1)(A), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 584, 606, 607.)
 
 #### References in Text
 

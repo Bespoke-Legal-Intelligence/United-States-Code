@@ -20,6 +20,10 @@ Historical and Revision Notes
 
 The revised section is inserted for clarity and is based on usage in the source laws for this revised chapter.
 
+#### Report on Department Policy on Payment of Claims for Loss of Personal Property
+
+Pub. L. 105–85, div. A, title X, §1013(b), Nov. 18, 1997, 111 Stat. 1874, provided that: “The Secretary of Defense shall submit to Congress a report describing the Department of Defense policy regarding the payment of a claim by a member of the Armed Forces who is not assigned to quarters of the United States for losses and damage to personal property of the member incurred at the member's residence as a result of a natural disaster. The report shall include a description of the number of such claims received over the past 10 years, the number of claims paid, and the number of claims rejected. If the Secretary determines the Department of Defense should modify its policy in order to accept additional claims by members who are not assigned to quarters of the United States for losses and damage to personal property, the Secretary shall also include in the report any legislative changes that the Secretary considers necessary to enable the Secretary to implement the policy change.”
+
 #### Public Health Service
 
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.

@@ -1,6 +1,6 @@
 ### §4637. Notice after separation from service
 
-The resignation, termination of employment or participation, or separation of a director or executive officer of an enterprise shall not affect the jurisdiction and authority of the Director to issue any notice and proceed under this subchapter against any such director or executiveofficer, if such notice is served before the end of the 2-year period beginning on the date such director or executive officer ceases to be associated with the enterprise.
+The resignation, termination of employment or participation, or separation of a director or executive officer of an enterprise shall not affect the jurisdiction and authority of the Director to issue any notice and proceed under this subchapter against any such director or executive officer, if such notice is served before the end of the 2-year period beginning on the date such director or executive officer ceases to be associated with the enterprise.
 
 (Pub. L. 102–550, title XIII, §1377, Oct. 28, 1992, 106 Stat. 3992.)
 

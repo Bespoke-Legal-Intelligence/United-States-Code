@@ -1,5 +1,5 @@
 
-36 U.S.C.<br>United States Code, 1996 Edition<br>Title 36 - PATRIOTIC SOCIETIES AND OBSERVANCES<br>From the U.S. Government Publishing Office, www.gpo.gov
+36 U.S.C.<br>United States Code, 1997 Edition<br>Title 36 - PATRIOTIC SOCIETIES AND OBSERVANCES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 36—PATRIOTIC SOCIETIES AND OBSERVANCES
 
@@ -107,6 +107,7 @@
 | [<b>87.</b>](Chapter%20087%20-%20Corporation%20for%20the%20Promotion%20of%20Rifle%20Practice%20and%20Firearms%20Safety/README.md) | <b>Corporation for the Promotion of Rifle Practice and Firearms Safety</b> | <b>5501</b> |
 | [<b>88.</b>](Chapter%20088%20-%20Fleet%20Reserve%20Association/README.md) | <b>Fleet Reserve Association</b> | <b>5601</b> |
 | [<b>89.</b>](Chapter%20089%20-%20National%20Film%20Preservation%20Foundation/README.md) | <b>National Film Preservation Foundation</b> | <b>5701</b> |
+| [<b>90.</b>](Chapter%20090%20-%20Federal%20Charter%20for%20the%20Air%20Force%20Sergeants%20Association/README.md) | <b>Federal Charter for the Air Force Sergeants Association</b> | <b>5801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -217,3 +218,4 @@
 - [Chapter 087 - Corporation for the Promotion of Rifle Practice and Firearms Safety](Chapter%20087%20-%20Corporation%20for%20the%20Promotion%20of%20Rifle%20Practice%20and%20Firearms%20Safety/README.md)
 - [Chapter 088 - Fleet Reserve Association](Chapter%20088%20-%20Fleet%20Reserve%20Association/README.md)
 - [Chapter 089 - National Film Preservation Foundation](Chapter%20089%20-%20National%20Film%20Preservation%20Foundation/README.md)
+- [Chapter 090 - Federal Charter for the Air Force Sergeants Association](Chapter%20090%20-%20Federal%20Charter%20for%20the%20Air%20Force%20Sergeants%20Association/README.md)

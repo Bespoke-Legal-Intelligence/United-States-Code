@@ -12,7 +12,7 @@ Such regulations shall require that, to the extent contractors enjoy importation
 
 In order to ensure that due account is taken of local conditions, including applicable laws, markets, exchange rate factors, and accommodation exchange facilities, such regulations may authorize the chief of mission to each foreign country to establish more detailed policies, rules, or procedures for the application of this chapter within that country to employees under the chief of mission's jurisdiction.
 
-(Aug. 1, 1956, ch. 841, title III, §303, as added Dec. 22, 1987, Pub. L. 100–204, title I, §186(a), 101 Stat. 1368.)
+(Aug. 1, 1956, ch. 841, title III, §303, as added Pub. L. 100–204, title I, §186(a), Dec. 22, 1987, 101 Stat. 1368.)
 
 #### References in Text
 

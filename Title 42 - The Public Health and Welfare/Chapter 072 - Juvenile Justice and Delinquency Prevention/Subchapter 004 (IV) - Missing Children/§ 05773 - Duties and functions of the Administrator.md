@@ -10,7 +10,7 @@ The Administrator shall—
 
 &emsp;(3) provide for the furnishing of information derived from the national toll-free telephone line, established under subsection (b)(1) of this section, to appropriate entities;
 
-&emsp;(4) provide adequate staff and agency resources which are necessary to properly carryout the responsibilities pursuant to this subchapter; and
+&emsp;(4) provide adequate staff and agency resources which are necessary to properly carry out the responsibilities pursuant to this subchapter; and
 
 &emsp;(5) not later than 180 days after the end of each fiscal year, submit a report to the President, Speaker of the House of Representatives, and the President pro tempore of the Senate—
 
@@ -72,7 +72,7 @@ Nothing contained in this subchapter shall be construed to grant to the Administ
 
 #### References in Text
 
-Section 5712a of this title, referred to in subsecs. (a)(5)(E) and (b)(1)(B), was repealed by Pub. L. 102–586,§3(g)(2)(A), Nov. 4, 1992, 106 Stat. 5025. See section 5714–11 of this title.
+Section 5712a of this title, referred to in subsecs. (a)(5)(E) and (b)(1)(B), was repealed by Pub. L. 102–586, §3(g)(2)(A), Nov. 4, 1992, 106 Stat. 5025. See section 5714–11 of this title.
 
 #### Amendments
 

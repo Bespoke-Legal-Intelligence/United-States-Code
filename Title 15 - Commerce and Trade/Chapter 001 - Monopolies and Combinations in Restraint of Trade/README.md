@@ -107,9 +107,11 @@
 | [36\.](%C2%A7%2000036%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20on%20claim%20against%20person%20based%20on%20official%20action%20directed%20by%20local%20government%2C%20or%E2%80%A6.md) | Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or official or employee thereof acting in an official capacity. |
 | (a) | Prohibition in general. |
 | (b) | Nonapplication of prohibition for cases commenced before effective date of provisions. |
-| [37\.](%C2%A7%2000037%20-%20Modification%20of%20antitrust%20laws.md) | Modification of antitrust laws. |
-| (a) | Exempt conduct. |
-| (b) | Limitation. |
+| [37\.](%C2%A7%2000037%20-%20Immunity%20from%20antitrust%20laws.md) | Immunity from antitrust laws. |
+| (a) | Inapplicability of antitrust laws. |
+| (b) | Immunity. |
+| (c) | Treatment of certain annuities and trusts. |
+| (d) | Limitation. |
 | [37a.](%C2%A7%2000037a%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -242,5 +244,5 @@ Antitrust acts and laws are defined in sections 12, 44, 1311, 1802, 3301, 3503, 
 - [&sect; 00034 - Definitions applicable to sections 34 to 36](%C2%A7%2000034%20-%20Definitions%20applicable%20to%20sections%2034%20to%2036.md)
 - [&sect; 00035 - Recovery of damages, etc., for antitrust violations from any local government, or official or employee thereof acting in an official&#8230;](%C2%A7%2000035%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20from%20any%20local%20government%2C%20or%20official%20or%20employee%20thereof%20acting%20in%20an%20official%E2%80%A6.md)
 - [&sect; 00036 - Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or&#8230;](%C2%A7%2000036%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20on%20claim%20against%20person%20based%20on%20official%20action%20directed%20by%20local%20government%2C%20or%E2%80%A6.md)
-- [&sect; 00037 - Modification of antitrust laws](%C2%A7%2000037%20-%20Modification%20of%20antitrust%20laws.md)
+- [&sect; 00037 - Immunity from antitrust laws](%C2%A7%2000037%20-%20Immunity%20from%20antitrust%20laws.md)
 - [&sect; 00037a - Definitions](%C2%A7%2000037a%20-%20Definitions.md)

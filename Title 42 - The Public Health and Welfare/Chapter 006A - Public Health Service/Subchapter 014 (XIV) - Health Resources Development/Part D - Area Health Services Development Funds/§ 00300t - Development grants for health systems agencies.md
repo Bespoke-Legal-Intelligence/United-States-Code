@@ -1,0 +1,42 @@
+### §300t. Development grants for health systems agencies
+
+#### (a) Eligible recipients; purpose of grants
+
+The Secretary shall make in each fiscal year a grant to each health system agency—
+
+&emsp;(1) with which there is in effect a designation agreement under section 300<i>l–</i>4(c) <sup>1</sup> of this title,
+
+&emsp;(2) which has in effect an HSP and AIP reviewed by the Statewide Health Coordinating Council, and
+
+&emsp;(3) which, as determined under the review made under section 300n–4(c) <sup>1</sup> of this title, is organized and operated in the manner prescribed by section 300<i>l–</i>1(b) <sup>1</sup> of this title and is performing its functions under section 300<i>l–</i>2 <sup>1</sup> of this title in a manner satisfactory to the Secretary,
+
+> to enable the agency to establish and maintain an Area Health Service Development Fund from which it may make grants and enter into contracts in accordance with section 300<i>l–</i>2(c)(3) <sup>1</sup> of this title.
+
+#### (b) Determination of amounts; maximum amounts
+
+(1) Except as provided in paragraph (2), the amount of any grant under subsection (a) of this section shall be determined by the Secretary after taking into consideration the population of the health service area for which the health systems agency is designated, the average family income of the area, and the supply of health services in the area.
+
+(2) The amount of any grant under subsection (a) of this section to a health systems agency for any fiscal year may not exceed the product of $1 and the population of the health service area for which such agency is designated.
+
+#### (c) Applications; submission and approval as prerequisite; form and contents
+
+No grant may be made under subsection (a) of this section unless an application therefor hasbeen submitted to, and approved by, the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may require.
+
+#### (d) Authorization of appropriations
+
+For the purpose of making payments pursuant to grants under subsection (a) of this section, there are authorized to be appropriated $25,000,000 for the fiscal year ending June 30, 1975, $75,000,000 for the fiscal year ending June 30, 1976, $120,000,000 each for the fiscal years ending September 30, 1977, and September 30, 1978, $20,000,000 for the fiscal year ending September 30, 1981, and $30,000,000 for the fiscal year ending September 30, 1982.
+
+(July 1, 1944, ch. 373, title XVI, §1640, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2273; amended Aug. 1, 1977, Pub. L. 95–83, title I, §103(c), 91 Stat. 383; Oct. 4, 1979, Pub. L. 96–79, title I, §127(e), 93 Stat. 629.)
+
+#### References in Text
+
+Sections 300<i>l</i>–2, 300<i>l</i>–4, and 300n–4 of this title, referred to in subsec. (a), were repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
+
+Section 300<i>l</i>–1 of this title, referred to in subsec. (a)(3), was in the original a reference to section 1512 of act July 1, 1944, which was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799. Pub. L. 102–531, title III, §307, Oct. 27, 1992, 106 Stat. 3495, enacted section 1502A of act July 1, 1944, which is classified to section 300<i>l</i>–1 of this title.
+
+#### Amendments
+
+1979—Subsec. (d). Pub. L. 96–79 authorized appropriations of $20,000,000 for fiscal year ending Sept. 30, 1981, and $30,000,000 for fiscal year ending Sept. 30, 1982.
+
+1977—Subsec. (d). Pub. L. 95–83 substituted “each for the fiscal years ending September 30, 1977, and September 30, 1978” for “for the fiscal year ending June 30, 1977”.
+

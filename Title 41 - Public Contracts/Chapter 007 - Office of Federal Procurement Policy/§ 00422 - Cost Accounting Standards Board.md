@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) one of whom shall be particularly knowledgeable about cost accounting problems and systems.
 
-(2)(A) The term of office of each of the members of the Board, other than the Administratorfor Federal Procurement Policy, shall be 4 years, except that—
+(2)(A) The term of office of each of the members of the Board, other than the Administrator for Federal Procurement Policy, shall be 4 years, except that—
 
 &emsp;(i) of the initial members, two shall be appointed for terms of two years, one shall be appointed for a term of three years, and one shall be appointed for a term of four years;
 
@@ -124,7 +124,7 @@ The Board shall report to the Congress not later than one year after November 17
 
 #### (k) Examinations
 
-For the purpose of determining whether a contractor or subcontractor has complied with costaccounting standards promulgated under this section and has followed consistently the contractor's or subcontractor's disclosed cost accounting practices, any authorized representative of the head of the agency concerned, of the offices of inspector general established pursuant to the Inspector General Act of 1978, or of the Comptroller General of the United States shall have the right to examine and make copies of any documents, papers, or records of such contractor or subcontractor relating to compliance with such cost accounting standards.
+For the purpose of determining whether a contractor or subcontractor has complied with cost accounting standards promulgated under this section and has followed consistently the contractor's or subcontractor's disclosed cost accounting practices, any authorized representative of the head of the agency concerned, of the offices of inspector general established pursuant to the Inspector General Act of 1978, or of the Comptroller General of the United States shall have the right to examine and make copies of any documents, papers, or records of such contractor or subcontractor relating to compliance with such cost accounting standards.
 
 #### (<i>l</i>) Authorization of appropriations
 

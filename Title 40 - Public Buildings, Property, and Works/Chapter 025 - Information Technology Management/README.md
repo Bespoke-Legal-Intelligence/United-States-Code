@@ -132,9 +132,8 @@
 | :--- | ---: |
 | [1501\.](Subchapter%20004%20%28IV%29%20-%20Additional%20Information%20Resources%20Management%20Matters/%C2%A7%2001501%20-%20On-line%20multiple%20award%20schedule%20contracting.md) | On-line multiple award schedule contracting. |
 | (a) | Automation of multiple award schedule contracting. |
-| (b) | Additional FACNET functions. |
+| (b) | Functions. |
 | (c) | Streamlined procedures. |
-| (d) | “FACNET” defined. |
 | [1502\.](Subchapter%20004%20%28IV%29%20-%20Additional%20Information%20Resources%20Management%20Matters/%C2%A7%2001502%20-%20Identification%20of%20excess%20and%20surplus%20computer%20equipment.md) | Identification of excess and surplus computer equipment. |
 | [1503\.](Subchapter%20004%20%28IV%29%20-%20Additional%20Information%20Resources%20Management%20Matters/%C2%A7%2001503%20-%20Access%20of%20certain%20information%20in%20information%20systems%20to%20directory%20established%20under%20section%204101%20of%20title%2044.md) | Access of certain information in information systems to directory established under section 4101 of title 44. |
 
@@ -142,7 +141,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 10 section 2315; title 28 section 612; title 38 section 310.
+This chapter is referred to in title 10 section 2315; title 28 section 612; title 38 section 310; title 44 section 3504.
 
 
 ---

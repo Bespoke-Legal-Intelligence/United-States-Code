@@ -24,7 +24,7 @@ The Secretary of State, in cooperation with the Secretary, shall initiate, promp
 
 #### (c) International fishery agreements
 
-No international fishery agreement (other than a treaty) which pertains to foreign fishing within the exclusive economic zone (or withinthe area that will constitute such zone after February 28, 1977), or for anadromous species or Continental Shelf fishery resources beyond such zone or area—
+No international fishery agreement (other than a treaty) which pertains to foreign fishing within the exclusive economic zone (or within the area that will constitute such zone after February 28, 1977), or for anadromous species or Continental Shelf fishery resources beyond such zone or area—
 
 &emsp;(1) which is in effect on June 1, 1976, may thereafter be renewed, extended, or amended; or
 
@@ -88,7 +88,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 &emsp;(A) Russia will give United States fishing vessels the opportunity to conduct traditional fisheries within waters claimed by the United States prior to the conclusion of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, west of the maritime boundary, including the western special area described in Article 3(2) of the Agreement;
 
-&emsp;(B) the United States will give fishing vessels of Russia the opportunity to conduct traditional fisheries within waters claimed by the Union of Soviet Socialist Republics prior to the conclusion of the Agreement referred to insubparagraph (A), east of the maritime boundary, including the eastern special areas described in Article 3(1) of the Agreement;
+&emsp;(B) the United States will give fishing vessels of Russia the opportunity to conduct traditional fisheries within waters claimed by the Union of Soviet Socialist Republics prior to the conclusion of the Agreement referred to in subparagraph (A), east of the maritime boundary, including the eastern special areas described in Article 3(1) of the Agreement;
 
 &emsp;(C) catch data shall be made available to the government of the country exercising fisheries jurisdiction over the waters in which the catch occurred; and
 
@@ -280,7 +280,7 @@ Information From Foreign Governments.—The Secretary, through the Secretary of 
 
 “(a)
 
-Negotiations.—The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department in which the Coast Guard is operating negotiations with each foreign government that conducts, or authorizesits nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreements applicable to the location, season, and other aspects of the operations of the foreign government's driftnet fishing vessels. Such agreements shall include measures for—
+Negotiations.—The Secretary shall immediately initiate, through the Secretary of State and in consultation with the Secretary of the Department in which the Coast Guard is operating negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for effective enforcement of laws, regulations, and agreements applicable to the location, season, and other aspects of the operations of the foreign government's driftnet fishing vessels. Such agreements shall include measures for—
 
 &emsp;“(1) the effective monitoring and detection of violations;
 
@@ -298,7 +298,7 @@ Certification for Purposes of Fishermen's Protective Act of 1967.—If the Secre
 
 “(a)
 
-Marking, Registry, and Identification System.—The Secretary shall evaluate, in consultation with officials of other Federal agencies and such other persons as may be appropriate, the feasibility of and develop recommendations for the establishment of a driftnet marking, registry, and identification system to provide a reliable method for the determination of the origin by vessel, of lost, discarded, or abandoned driftnets and fragments of driftnets. In conducting such evaluation, the Secretary shall consider the adequacy of existing driftnet identification systems of foreign nations and the extent to which these systems achieve the objectives of this title.
+Marking, Registry, and Identification System.—The Secretary shall evaluate, in consultationwith officials of other Federal agencies and such other persons as may be appropriate, the feasibility of and develop recommendations for the establishment of a driftnet marking, registry, and identification system to provide a reliable method for the determination of the origin by vessel, of lost, discarded, or abandoned driftnets and fragments of driftnets. In conducting such evaluation, the Secretary shall consider the adequacy of existing driftnet identification systems of foreign nations and the extent to which these systems achieve the objectives of this title.
 
 “(b)
 

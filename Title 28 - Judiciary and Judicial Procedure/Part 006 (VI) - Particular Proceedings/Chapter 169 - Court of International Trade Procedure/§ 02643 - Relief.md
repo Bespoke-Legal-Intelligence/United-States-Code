@@ -20,7 +20,7 @@
 
 (d) If a surety commences a civil action in the Court of International Trade, such surety shall recover only the amount of the liquidated duties, charges, or exactions paid on the entries included in such action. The excess amount of any recovery shall be paid to the importer of record.
 
-(e) In any proceeding involving assessment or collection of a monetary penalty under section 641(b)(6) or 641(d)(2)(A) of the Tariff Act of 1930, the court may not render judgment in anamount greater than that sought in the initial pleading of the United States, and may render judgment in such lesser amount as shall seem proper and just to the court.
+(e) In any proceeding involving assessment or collection of a monetary penalty under section 641(b)(6) or 641(d)(2)(A) of the Tariff Act of 1930, the court may not render judgment in an amount greater than that sought in the initial pleading of the United States, and may render judgment in such lesser amount as shall seem proper and just to the court.
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1737; amended Pub. L. 98–573, title II, §212(b)(6), Oct. 30, 1984, 98 Stat. 2984; Pub. L. 100–449, title IV, §402(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title IV, §414(b), Dec. 8, 1993, 107 Stat. 2147.)
 
@@ -36,11 +36,11 @@ Section 641 of the Tariff Act of 1930, referred to in subsec. (e), is classified
 
 #### Amendments
 
-1993—Subsec. (c)(5). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930)” for “Canadian merchandise”.
+<b>1993</b>—Subsec. (c)(5). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930)” for “Canadian merchandise”.
 
-1988—Subsec. (c). Pub. L. 100–449 substituted “(4), and (5)” for “and (4)” in par. (1) and added par. (5).
+<b>1988</b>—Subsec. (c). Pub. L. 100–449 substituted “(4), and (5)” for “and (4)” in par. (1) and added par. (5).
 
-1984—Subsec. (e). Pub. L. 98–573 added subsec. (e).
+<b>1984</b>—Subsec. (e). Pub. L. 98–573 added subsec. (e).
 
 #### Effective Date of 1993 Amendment
 

@@ -32,6 +32,10 @@ Board of Veterans’ Appeals.—Sections 202, 203, 205, 206, and 207 \[see Table
 
 Commencement of Operation of Court of Veterans Appeals.—Notwithstanding subsection (a), the United States Court of Veterans Appeals established pursuant to chapter 72 of title 38, United States Code (as added by section 301) shall not begin to operate until at least three judges have been appointed to the court.”
 
+#### Chapter Applicable to Claims Alleging Previous Determination the Product of Clear and Unmistakable Error
+
+Pub. L. 105–111, §1(c)(2), Nov. 21, 1997, 111 Stat. 2272, provided that: “Notwithstanding section 402 of the Veterans Judicial Review Act (38 U.S.C. 7251 note), chapter 72 of title 38, United States Code, shall apply with respect to any decision of the Board of Veterans’ Appeals on a claim alleging that a previous determination of the Board was the product of clear and unmistakable error if that claim is filed after, or was pending before the Department of Veterans Affairs, the Court of Veterans Appeals, the Court of Appeals for the Federal Circuit, or the Supreme Court on the date of the enactment of this Act \[Nov. 21, 1997\].”
+
 #### Chapter Applicable to Cases Filed On or After November 18, 1988
 
 Section 402 of Pub. L. 100–687, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239, provided that: “Chapter 72 of title 38, United States Code, as added by section 301, shall apply with respect to any case in which a notice of disagreement is filed under section 7105 \[formerly 4005\] of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 18, 1988\].”

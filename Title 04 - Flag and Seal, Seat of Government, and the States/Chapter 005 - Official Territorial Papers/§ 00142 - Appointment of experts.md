@@ -2,7 +2,7 @@
 
 For the purpose of carrying on the work prescribed by section 141 of this title, the Archivist, without regard to the Classification Act of 1949 and the civil service laws and regulations thereunder, may engage the services, either in or outside of the District of Columbia, of not to exceed five historical experts who are especially informed on the various phases of the territorial history of the United States and are especially qualified for the editorial work necessary in arranging such territorial papers for publication.
 
-(Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 714; amended Oct. 19, 1984, Pub. L. 98–497, title I, §107(f), 98 Stat. 2292.)
+(Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 714; amended Pub. L. 98–497, title I, §107(f), Oct. 19, 1984, 98 Stat. 2292.)
 
 #### References in Text
 

@@ -9,4 +9,3 @@
 - [&sect; 01542 - Agency cooperation; private contracts for management services and technical assistance](%C2%A7%2001542%20-%20Agency%20cooperation%3B%20private%20contracts%20for%20management%20services%20and%20technical%20assistance.md)
 - [&sect; 01543 - Funds limitation for private contracts](%C2%A7%2001543%20-%20Funds%20limitation%20for%20private%20contracts.md)
 - [&sect; 01544 - Additional compensation to contractors of Federal agency](%C2%A7%2001544%20-%20Additional%20compensation%20to%20contractors%20of%20Federal%20agency.md)
-- [10](10.md)

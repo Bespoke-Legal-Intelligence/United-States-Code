@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(iii) a remote likelihood of or no known incidental mortality or serious injury of marine mammals;
 
-&emsp;(B) after the close of the period for such public comment, publish in the Federal Register arevised list of commercial fisheries and an update of information required by subparagraph (A), together with a summary of the provisions of this section and information sufficient to advise vessel owners on how to obtain an authorization and otherwise comply with the requirements of this section; and
+&emsp;(B) after the close of the period for such public comment, publish in the Federal Register a revised list of commercial fisheries and an update of information required by subparagraph (A), together with a summary of the provisions of this section and information sufficient to advise vessel owners on how to obtain an authorization and otherwise comply with the requirements of this section; and
 
 &emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered under this chapter and other relevant sources and after notice and opportunity for public comment, the classification of commercial fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
@@ -228,7 +228,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) The Secretary shall, during a period of 30 days after publication of a final take reduction plan, utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the requirements of the plan and how to comply with them.
 
-&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determinesare necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
+&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 

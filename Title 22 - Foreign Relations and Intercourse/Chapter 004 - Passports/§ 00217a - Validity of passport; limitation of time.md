@@ -2,7 +2,7 @@
 
 A passport shall be valid for a period of ten years from the date of issue, except that the Secretary of State may limit the validity of a passport to a period of less than ten years in an individual case or on a general basis pursuant to regulation.
 
-(July 3, 1926, ch. 772, §2, 44 Stat. 887; July 1, 1930, ch. 782, 46 Stat. 839; May 16, 1932, ch. 187, 47 Stat. 157; Sept. 14, 1959, Pub. L. 86–267, 73 Stat. 552; July 26, 1968, Pub. L. 90–428, §1, 82 Stat. 446; Aug. 24, 1982, Pub. L. 97–241, title I, §116(b)(1), 96 Stat. 279.)
+(July 3, 1926, ch. 772, §2, 44 Stat. 887; July 1, 1930, ch. 782, 46 Stat. 839; May 16, 1932, ch. 187, 47 Stat. 157; Pub. L. 86–267, Sept. 14, 1959, 73 Stat. 552; Pub. L. 90–428, §1, July 26, 1968, 82 Stat. 446; Pub. L. 97–241, title I, §116(b)(1), Aug. 24, 1982, 96 Stat. 279.)
 
 #### Amendments
 

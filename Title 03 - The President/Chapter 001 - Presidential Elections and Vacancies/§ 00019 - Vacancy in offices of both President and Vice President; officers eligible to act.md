@@ -22,7 +22,7 @@
 
 (f) During the period that any individual acts as President under this section, his compensation shall be at the rate then provided by law in the case of the President.
 
-(June 25, 1948, ch. 644, 62 Stat. 677; Sept. 9, 1965, Pub. L. 89–174, §6(a), 79 Stat. 669; Oct. 15, 1966, Pub. L. 89–670, §10(a), 80 Stat. 948; Aug. 12, 1970, Pub. L. 91–375, §6(b), 84 Stat. 775; Aug. 4, 1977, Pub. L. 95–91, title VII, §709(g), 91 Stat. 609; Oct. 17, 1979, Pub. L. 96–88, title V, §508(a), 93 Stat. 692; Oct. 25, 1988, Pub. L. 100–527, §13(a), 102 Stat. 2643.)
+(June 25, 1948, ch. 644, 62 Stat. 677; Pub. L. 89–174, §6(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 89–670, §10(a), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(b), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §709(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(a), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(a), Oct. 25, 1988, 102 Stat. 2643.)
 
 #### Amendments
 

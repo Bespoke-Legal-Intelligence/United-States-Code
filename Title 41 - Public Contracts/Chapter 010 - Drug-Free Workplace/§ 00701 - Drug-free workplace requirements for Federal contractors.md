@@ -56,7 +56,7 @@
 
 &emsp;Upon issuance of any final decision under this subsection requiring debarment of a contractor or individual, such contractor or individual shall be ineligible for award of any contract by any Federal agency, and for participation in any future procurement by any Federal agency, for a period specified in the decision, not to exceed 5 years.
 
-(Pub. L. 100–690, title V, §5152, Nov. 18, 1988, 102 Stat. 4304; Pub. L. 103–355, title IV, §4104(d), titleVIII, §8301(f), Oct. 13, 1994, 108 Stat. 3342, 3397; Pub. L. 104–106, div. D, title XLIII, §§4301(a)(3), 4321(i)(13), Feb. 10, 1996, 110 Stat. 656, 677.)
+(Pub. L. 100–690, title V, §5152, Nov. 18, 1988, 102 Stat. 4304; Pub. L. 103–355, title IV, §4104(d), title VIII, §8301(f), Oct. 13, 1994, 108 Stat. 3342, 3397; Pub. L. 104–106, div. D, title XLIII, §§4301(a)(3), 4321(i)(13), Feb. 10, 1996, 110 Stat. 656, 677.)
 
 #### Amendments
 

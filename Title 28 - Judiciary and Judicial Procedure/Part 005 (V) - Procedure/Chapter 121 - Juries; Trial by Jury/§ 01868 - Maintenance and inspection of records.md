@@ -2,7 +2,7 @@
 
 After the master jury wheel is emptied and refilled pursuant to section 1863(b)(4) of this title, and after all persons selected to serve as jurors before the master wheel was emptied have completed such service, all records and papers compiled and maintained by the jury commission or clerk before the master wheel was emptied shall be preserved in the custody of the clerk for four years or for such longer period as may be ordered by a court, and shall be available for public inspection for the purpose of determining the validity of the selection of any jury.
 
-(June 25, 1948, ch. 646, 62 Stat. 953; Mar. 27, 1968, Pub. L. 90–274, §101, 82 Stat. 60.)
+(June 25, 1948, ch. 646, 62 Stat. 953; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 60.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +18,7 @@ Words, “in the opinion of the court, disqualified” were substituted for “n
 
 #### Amendments
 
-1968—Pub. L. 90–274 substituted provisions for the maintenance and inspection of records in the hands of the commission or clerk before the master wheel was emptied for provisions covering the disqualification of the United States marshal or his deputy and the appointment of a disinterested person by the court.
+<b>1968</b>—Pub. L. 90–274 substituted provisions for the maintenance and inspection of records in the hands of the commission or clerk before the master wheel was emptied for provisions covering the disqualification of the United States marshal or his deputy and the appointment of a disinterested person by the court.
 
 #### Effective Date of 1968 Amendment
 

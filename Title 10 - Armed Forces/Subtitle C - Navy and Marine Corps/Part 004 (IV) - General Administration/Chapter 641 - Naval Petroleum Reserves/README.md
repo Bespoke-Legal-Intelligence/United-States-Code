@@ -21,10 +21,13 @@
 | [7436\.](%C2%A7%2007436%20-%20Regulations.md) | Regulations. |
 | [7437\.](%C2%A7%2007437%20-%20Violations%20by%20lessee.md) | Violations by lessee. |
 | [7438\.](%C2%A7%2007438%20-%20Rifle%2C%20Colorado%2C%20plant%3B%20possession%2C%20use%2C%20and%20transfer%20of.md) | Rifle, Colorado, plant; possession, use, and transfer of. |
+| [7439\.](%C2%A7%2007439%20-%20Certain%20oil%20shale%20reserves%20transfer%20of%20jurisdiction%20and%20petroleum%20exploration%2C%20development%2C%20and%20production.md) | Certain oil shale reserves: transfer of jurisdiction and petroleum exploration, development, and production. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. C, title XXXIV, §3404(b), Nov. 18, 1997, 111 Stat. 2061, added item 7439.
 
 1996—Pub. L. 104–201, div. A, title X, §1074(a)(19), Sept. 23, 1996, 110 Stat. 2660, struck out item 7434 “Annual report to congressional committees”.
 
@@ -72,3 +75,4 @@ This chapter is referred to in title 30 section 353; title 42 sections 6214, 715
 - [&sect; 07436 - Regulations](%C2%A7%2007436%20-%20Regulations.md)
 - [&sect; 07437 - Violations by lessee](%C2%A7%2007437%20-%20Violations%20by%20lessee.md)
 - [&sect; 07438 - Rifle, Colorado, plant; possession, use, and transfer of](%C2%A7%2007438%20-%20Rifle%2C%20Colorado%2C%20plant%3B%20possession%2C%20use%2C%20and%20transfer%20of.md)
+- [&sect; 07439 - Certain oil shale reserves transfer of jurisdiction and petroleum exploration, development, and production](%C2%A7%2007439%20-%20Certain%20oil%20shale%20reserves%20transfer%20of%20jurisdiction%20and%20petroleum%20exploration%2C%20development%2C%20and%20production.md)

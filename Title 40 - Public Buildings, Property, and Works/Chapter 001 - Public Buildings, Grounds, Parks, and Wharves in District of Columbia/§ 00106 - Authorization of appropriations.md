@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated such amounts as may be necessary to carry out the provisions of section 104 of this title.
 
-(May 17, 1910, ch. 243, §2, 36 Stat. 371; May 25, 1955, ch. 76, 69 Stat. 66; May 13, 1960, Pub. L. 86–461, 74 Stat. 128.)
+(May 17, 1910, ch. 243, §2, 36 Stat. 371; May 25, 1955, ch. 76, 69 Stat. 66; Pub. L. 86–461, May 13, 1960, 74 Stat. 128.)
 
 #### Amendments
 

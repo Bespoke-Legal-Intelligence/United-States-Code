@@ -12,7 +12,7 @@ For the purposes of this subchapter:
 
 (5) The term “Chinese Communist regime” means the so-called Peoples Republic of China, including any political subdivision, agency, or instrumentality thereof.
 
-(Mar. 10, 1950, ch. 54, title V, §502, as added Oct. 16, 1964, Pub. L. 88–666, 78 Stat. 1110; amended Nov. 6, 1966, Pub. L. 89–780, §2, 80 Stat. 1365.)
+(Mar. 10, 1950, ch. 54, title V, §502, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1110; amended Pub. L. 89–780, §2, Nov. 6, 1966, 80 Stat. 1365.)
 
 #### Amendments
 

@@ -4,7 +4,7 @@ Special sessions of the district court may be held at such places in the distric
 
 Any business may be transacted at a special session which might be transacted at a regular session.
 
-(June 25, 1948, ch. 646, 62 Stat. 897; Oct. 16, 1963, Pub. L. 88–139, §1, 77 Stat. 248.)
+(June 25, 1948, ch. 646, 62 Stat. 897; Pub. L. 88–139, §1, Oct. 16, 1963, 77 Stat. 248.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,7 @@ Changes of phraseology were made.
 
 #### Amendments
 
-1963—Pub. L. 88–139 substituted “sessions” for “terms” and “session” for “term” wherever appearing in text and section catchline, and struck out “pursuant to rules approved by the judicial council of the circuit” after “court orders” in text.
+<b>1963</b>—Pub. L. 88–139 substituted “sessions” for “terms” and “session” for “term” wherever appearing in text and section catchline, and struck out “pursuant to rules approved by the judicial council of the circuit” after “court orders” in text.
 
 #### Cross References
 

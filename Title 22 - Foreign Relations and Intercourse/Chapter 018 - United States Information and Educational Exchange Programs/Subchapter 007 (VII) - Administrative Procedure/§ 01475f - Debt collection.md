@@ -10,5 +10,5 @@
 
 The Director of the United States Information Agency shall, to the extent otherwise allowed by law, disclose to those credit reporting agencies to which the Director reports loan activity information concerning any debt of more than $100 owed by a person, other than a foreign country, to the United States which arises out of activities of the United States Information Agency and is delinquent by more than 31 days.
 
-(Jan. 27, 1948, ch. 36, title VIII, §811, as added Feb. 16, 1990, Pub. L. 101–246, title II, §209, 104 Stat. 53.)
+(Jan. 27, 1948, ch. 36, title VIII, §811, as added Pub. L. 101–246, title II, §209, Feb. 16, 1990, 104 Stat. 53.)
 

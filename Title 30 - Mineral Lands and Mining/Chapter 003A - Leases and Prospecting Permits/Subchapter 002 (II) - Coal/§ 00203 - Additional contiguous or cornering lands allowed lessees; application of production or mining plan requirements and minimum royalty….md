@@ -2,7 +2,7 @@
 
 Any person, association, or corporation holding a lease of coal lands or coal deposits under the provisions of this chapter may with the approval of the Secretary of the Interior, upon a finding by him that it would be in the interest of the United States, secure modifications of the original coal lease by including additional coal lands or coal deposits contiguous or cornering to those embraced in such lease, but in no event shall the total area added by such modifications to an existing coal lease exceed one hundred sixty acres, or add acreage larger than that in the original lease. The Secretary shall prescribe terms and conditions which shall be consistent with this chapter and applicable to all of the acreage in such modified lease except that nothing in this section shall require the Secretary to apply the production or mining plan requirements of sections 202a(2) and 207(c) of this title. The minimum royalty provisions of section 207(a) of this title shall not apply to any lands covered by this modified lease prior to a modification until the term of the original lease or extension thereof which became effective prior to the effective date of this Act has expired.
 
-(Feb. 25, 1920, ch. 85, §3, 41 Stat. 439; Aug. 4, 1976, Pub. L. 94–377, §13(b), 90 Stat. 1090; Oct. 30, 1978, Pub. L. 95–554, §3, 92 Stat. 2074.)
+(Feb. 25, 1920, ch. 85, §3, 41 Stat. 439; Pub. L. 94–377, §13(b), Aug. 4, 1976, 90 Stat. 1090; Pub. L. 95–554, §3, Oct. 30, 1978, 92 Stat. 2074.)
 
 #### References in Text
 

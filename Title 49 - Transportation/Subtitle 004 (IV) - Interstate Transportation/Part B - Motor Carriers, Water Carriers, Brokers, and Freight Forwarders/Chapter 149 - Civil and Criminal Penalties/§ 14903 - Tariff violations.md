@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Penalty for Undercharging and Overcharging.—A person that offers, grants, gives, solicits, accepts, or receives by any means transportation or service provided for property by a carrier subject to jurisdiction under chapter 135 at a rate different than the rate in effect under section 13702 is liable to the United States for <sup>1</sup> civil penalty of not more than $100,000 for each violation.
+Civil Penalty for Undercharging and Overcharging.—A person that offers, grants, gives, solicits, accepts, or receives by any means transportation or service provided for property by a carrier subject to jurisdiction under chapter 135 at a rate different than the rate in effect under section 13702 is liable to the United States for a civil penalty of not more than $100,000 for each violation.
 
 (b)
 
@@ -16,15 +16,23 @@ Actions of Agents and Employees.—When acting in the scope of their employment,
 
 Venue.—Trial in a criminal action under this section is in the judicial district in which any part of the violation is committed or through which the transportation is conducted.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 915.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 915; amended Pub. L. 105–102, §2(12), Nov. 20, 1997, 111 Stat. 2205.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 105–102
+
+This amends 49:14903(a) to correct a grammatical error.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11903 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–102 inserted “a” before “civil penalty of not more than”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 14913 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “a”.</i>
 

@@ -64,7 +64,7 @@ In preparing the development proposal under subsection (a) of this section, the 
 
 #### (1) Submission for review
 
-&emsp;As soon as practicable but not later than 365 days after August 21, 1987, the Corporation shall submit the development proposal prepared under subsection (a) of this section to the General Services Administration, the Commission, the National Capital Planning Commission, and the Commission of Fine Arts.
+&emsp;As soon as practicable but not later than 365 days after August 21, 1987, the Corporationshall submit the development proposal prepared under subsection (a) of this section to the General Services Administration, the Commission, the National Capital Planning Commission, and the Commission of Fine Arts.
 
 #### (2) Approval or recommended modifications
 

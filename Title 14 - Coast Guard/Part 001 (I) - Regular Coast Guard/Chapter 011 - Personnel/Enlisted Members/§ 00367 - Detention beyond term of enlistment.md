@@ -18,7 +18,7 @@ Under regulations prescribed by the Secretary, an enlisted member may be detaine
 
 Based on title 14, U.S.C., 1946 ed., §§35, 35a, 35c (May 26, 1906, ch. 2556, §1, 34 Stat. 200; Jan. 28, 1915, ch. 20, §1, 38 Stat. 800; July 30, 1937, ch. 545, §1, 50 Stat. 547; July 11, 1941, ch. 290, §8, 55 Stat. 586; Aug. 18, 1941, ch. 364, §3, 55 Stat. 629; Dec. 13, 1941, ch. 570, §5, 55 Stat. 799).
 
-Section 35 of title 14, U.S.C., 1946 ed., has been divided. The proviso of subsection (a) is covered by subsection (b) of this section. Subsections (c) and (d) are placed in subsection (a) of this section, except that part (3) of subsection (c) is covered in section 366 of this title. The first sentence of subsection (a) is placed insection 351 of this title. Subsection (b) is placed in section 365 of this title.
+Section 35 of title 14, U.S.C., 1946 ed., has been divided. The proviso of subsection (a) is covered by subsection (b) of this section. Subsections (c) and (d) are placed in subsection (a) of this section, except that part (3) of subsection (c) is covered in section 366 of this title. The first sentence of subsection (a) is placed in section 351 of this title. Subsection (b) is placed in section 365 of this title.
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 

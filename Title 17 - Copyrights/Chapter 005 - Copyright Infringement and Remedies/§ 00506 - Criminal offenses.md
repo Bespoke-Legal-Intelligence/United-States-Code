@@ -2,7 +2,13 @@
 
 (a)
 
-Criminal Infringement.—Any person who infringes a copyright willfully and for purposesof commercial advantage or private financial gain shall be punished as provided in section 2319 of title 18.
+Criminal Infringement.—Any person who infringes a copyright willfully either—
+
+&emsp;(1) for purposes of commercial advantage or private financial gain, or
+
+&emsp;(2) by the reproduction or distribution, including by electronic means, during any 180-day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000,
+
+> shall be punished as provided under section 2319 of title 18, United States Code. For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement.
 
 (b)
 
@@ -24,7 +30,7 @@ False Representation.—Any person who knowingly makes a false representation of
 
 Rights of Attribution and Integrity.—Nothing in this section applies to infringement of the rights conferred by section 106A(a).
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, §5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, §606(b), Dec. 1, 1990, 104 Stat. 5131.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, §5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, §606(b), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–147, §2(b), Dec. 16, 1997, 111 Stat. 2678.)
 
 #### Historical and Revision Notes
 
@@ -36,13 +42,19 @@ Section 506(a) contains a special provision applying to any person who infringes
 
 #### Amendments
 
+1997—Subsec. (a). Pub. L. 105–147 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+
+“(a)
+
+Criminal Infringement.—Any person who infringes a copyright willfully and for purposes of commercial advantage or private financial gain shall be punished as provided in section 2319 of title 18.”
+
 1990—Subsec. (f). Pub. L. 101–650 added subsec. (f).
 
 1982—Subsec. (a). Pub. L. 97–180 substituted “shall be punished as provided in section 2319 of title 18” for “shall be fined not more than $10,000 or imprisoned for not more than one year, or both: <i>Provided, however</i>, That any person who infringes willfully and for purposes of commercial advantage or private financial gain the copyright in a sound recording afforded by subsections (1), (2), or (3) of section 106 or the copyright in a motion picture afforded by subsections (1), (3), or (4) of section 106 shall be fined not more than $25,000 or imprisoned for not more than one year, or both, for the first such offense and shall be fined not more than $50,000 or imprisoned for not more than two years, or both, for any subsequent offense”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
+Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, setout as an Effective Date note under section 106A of this title.
 
 #### Cross References
 

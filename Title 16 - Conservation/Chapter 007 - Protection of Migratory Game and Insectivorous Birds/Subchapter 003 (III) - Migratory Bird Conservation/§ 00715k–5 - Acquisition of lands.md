@@ -10,7 +10,7 @@ Section was not enacted as part of the Migratory Bird Conservation Act which com
 
 #### Amendments
 
-1986—Pub. L. 99–645 struck out first three sentences which read as follows: “Funds appropriated pursuant to sections 715k–3 to 715k–5 of this title shall be treated as an advance, without interest, to the migratory bird conservation fund. Such appropriated funds, beginning on October 1, 1986, shall be repaid to the Treasury out of the migratory bird conservation fund, such repayment shall be made in annual amounts comprising 75 per centum of the moneys accruing annually to such fund. In the event the full amount authorized by section 715k–3 of this title is appropriated before October 1, 1986, the repayment of such funds pursuant to this section shall begin with the next full fiscal year.”
+1986—Pub. L. 99–645 struck out first three sentences which read as follows: “Funds appropriated pursuant to sections 715k–3 to 715k–5 of this title shall be treated as an advance, without interest, to the migratory birdconservation fund. Such appropriated funds, beginning on October 1, 1986, shall be repaid to the Treasury out of the migratory bird conservation fund, such repayment shall be made in annual amounts comprising 75 per centum of the moneys accruing annually to such fund. In the event the full amount authorized by section 715k–3 of this title is appropriated before October 1, 1986, the repayment of such funds pursuant to this section shall begin with the next full fiscal year.”
 
 1984—Pub. L. 98–548 substituted “October 1, 1986” for “October 1, 1984” in two places.
 

@@ -2,7 +2,7 @@
 
 In order to promote the establishment and maintenance of a national system of public employment offices, the United States Employment Service shall be established and maintained within the Department of Labor.
 
-(June 6, 1933, ch. 49, §1, 48 Stat. 113; Oct. 13, 1982, Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), 96 Stat. 1392; renumbered title VI, §601(a), Nov. 7, 1988, Pub. L. 100–628, title VII, §712(a)(1), (2), 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §1, 48 Stat. 113; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
 #### Amendments
 

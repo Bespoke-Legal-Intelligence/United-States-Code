@@ -28,7 +28,7 @@
 
 &emsp;&emsp;A borrower that has prepaid an insured or direct loan shall under this chapter in the same manner as other borrowers, except that—
 
-&emsp;&emsp;&emsp;(i) a borrower that has prepaid a loan, either before or after October 21, 1992, at a discount rate as provided by paragraph (3), shall not be eligible, except at the discretion of the Secretary, to apply for or receive direct or insured loans under this chapter during the 120-month period beginning on the date of the prepayment; and
+&emsp;&emsp;&emsp;(i) a borrower that has prepaid a loan, either before or after October 21, 1992, at adiscount rate as provided by paragraph (3), shall not be eligible, except at the discretion of the Secretary, to apply for or receive direct or insured loans under this chapter during the 120-month period beginning on the date of the prepayment; and
 
 &emsp;&emsp;&emsp;(ii) a borrower that prepaid a loan before October 21, 1992, at a discount rate greater than that provided by paragraph (3), shall not be eligible—
 

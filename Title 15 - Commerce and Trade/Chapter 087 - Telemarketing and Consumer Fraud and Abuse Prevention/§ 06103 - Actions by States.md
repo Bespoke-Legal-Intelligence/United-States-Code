@@ -14,7 +14,7 @@ For purposes of bringing any civil action under subsection (a) of this section, 
 
 #### (d) Actions by Commission
 
-Whenever a civil action has been instituted by or on behalf of the Commission for violation of any rule prescribed under section 6102 of this title, no State may, during the pendency of such action instituted by or on behalf of the Commission, institute a civil action under subsection (a)or (f)(2) of this section against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
+Whenever a civil action has been instituted by or on behalf of the Commission for violation of any rule prescribed under section 6102 of this title, no State may, during the pendency of such action instituted by or on behalf of the Commission, institute a civil action under subsection (a) or (f)(2) of this section against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
 
 #### (e) Venue; service of process
 

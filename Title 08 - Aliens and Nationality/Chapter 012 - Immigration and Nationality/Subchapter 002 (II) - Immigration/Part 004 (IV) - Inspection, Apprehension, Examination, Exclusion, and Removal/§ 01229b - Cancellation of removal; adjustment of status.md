@@ -14,7 +14,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (1) In general
 
-&emsp;The Attorney General may cancel removal in the case of an alien who is inadmissible ordeportable from the United States if the alien—
+&emsp;The Attorney General may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien who is inadmissible or deportable from the United States if the alien—
 
 &emsp;&emsp;(A) has been physically present in the United States for a continuous period of not less than 10 years immediately preceding the date of such application;
 
@@ -26,7 +26,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (2) Special rule for battered spouse or child
 
-&emsp;The Attorney General may cancel removal in the case of an alien who is inadmissible or deportable from the United States if the alien demonstrates that—
+&emsp;The Attorney General may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien who is inadmissible or deportable from the United States if the alien demonstrates that—
 
 &emsp;&emsp;(A) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or parent who is a United States citizen or lawful permanent resident (or is the parent of a child of a United States citizen or lawful permanent resident and the child has been battered or subjected to extreme cruelty in the United States by such citizen or permanent resident parent);
 
@@ -40,9 +40,9 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 > &emsp;In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
 
-#### (3) Adjustment of status
+#### (3) Recordation of date
 
-&emsp;The Attorney General may adjust to the status of an alien lawfully admitted for permanent residence any alien who the Attorney General determines meets the requirements of paragraph (1) or (2). The number of adjustments under this paragraph shall not exceed 4,000 for any fiscal year. The Attorney General shall record the alien's lawful admission for permanent residence as of the date the Attorney General's cancellation of removal under paragraph (1) or (2) or determination under this paragraph.
+&emsp;With respect to aliens who the Attorney General adjusts to the status of an alien lawfully admitted for permanent residence under paragraph (1) or (2), the Attorney General shall record the alien's lawful admission for permanent residence as of the date of the Attorney General's cancellation of removal under paragraph (1) or (2).
 
 #### (c) Aliens ineligible for relief
 
@@ -64,7 +64,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 &emsp;(5) An alien who is described in section 1231(b)(3)(B)(i) of this title.
 
-&emsp;(6) An alien whose removal has previously been cancelled under this section or whose deportation was suspended under section 1254(a) of this title or who has been granted relief under section 1182(c) of this title, as such sections were in effect before September 30, 1996.
+&emsp;(6) An alien whose removal has previously been cancelled under this section or whose deportation was suspended under section 1254(a)of this title or who has been granted relief under section 1182(c) of this title, as such sections were in effect before September 30, 1996.
 
 #### (d) Special rules relating to continuous residence or physical presence
 
@@ -80,21 +80,49 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 &emsp;The requirements of continuous residence or continuous physical presence in the United States under subsections (a) and (b) of this section shall not apply to an alien who—
 
-&emsp;&emsp;(A) has served for a minimum period of 24 months in an active-duty status in theArmed Forces of the United States and, if separated from such service, was separated under honorable conditions, and
+&emsp;&emsp;(A) has served for a minimum period of 24 months in an active-duty status in the Armed Forces of the United States and, if separated from such service, was separated under honorable conditions, and
 
 &emsp;&emsp;(B) at the time of the alien's enlistment or induction was in the United States.
 
 #### (e) Annual limitation
 
-The Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title.
+#### (1) Aggregate limitation
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §304(a)(3), 110 Stat. 3009–594.)
+&emsp;Subject to paragraphs (2) and (3), the Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment, or such suspension and adjustment, and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title. The numerical limitation under this paragraph shall apply to the aggregate number of decisions in any fiscal year to cancel the removal (and adjust the status) of an alien, or suspend the deportation (and adjust the status) of an alien, under this section or such section 1254(a) of this title.
+
+#### (2) Fiscal year 1997
+
+&emsp;For fiscal year 1997, paragraph (1) shall only apply to decisions to cancel the removal of an alien, or suspend the deportation of an alien, made after April 1, 1997. Notwithstanding any other provision of law, the Attorney General may cancel the removal or suspend the deportation, in addition to the normal allotment for fiscal year 1998, of a number of aliens equal to 4,000 less the number of such cancellations of removal and suspensions of deportation granted in fiscal year 1997 after April 1, 1997.
+
+#### (3) Exception for certain aliens
+
+&emsp;Paragraph (1) shall not apply to the following:
+
+&emsp;&emsp;(A) Aliens described in section 309(c)(5)(C)(i) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (as amended by the Nicaraguan Adjustment and Central American Relief Act).
+
+&emsp;&emsp;(B) Aliens in deportation proceedings prior to April 1, 1997, who applied for suspension of deportation under section 1254(a)(3) of this title (as in effect before September 30, 1996).
+
+(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Sept. 30, 1996, Pub. L. 104–208, div. C, title III, §304(a)(3), 110 Stat. 3009–594; amended Nov. 19, 1997, Pub. L. 105–100, title II, §204(a)–(c), 111 Stat. 2200, 2201.)
 
 #### References in Text
 
-Section 1254 of this title, referred to in subsecs. (c)(6) and (e), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
+Section 1254 of this title, referred to in subsecs. (c)(6) and (e)(1), (3)(B), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
 
 Section 1182(c) of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–208, div. C, title III, §304(b), Sept. 30, 1996, 110 Stat. 3009–597.
+
+Section 309(c)(5)(C)(i) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (as amended by the Nicaraguan Adjustment and Central American Relief Act), referred to in subsec. (e)(3)(A), is section 309(c)(5)(C)(i) of title III of div. C of Pub. L. 104–208, as amended by title II of Pub. L. 105–100, which is set out as a note under section 1101 of this title.
+
+#### Amendments
+
+1997—Subsec. (b)(1), (2). Pub. L. 105–100, §204(b), in introductory provisions, substituted “may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien” for “may cancel removal in the case of an alien”.
+
+Subsec. (b)(3). Pub. L. 105–100, §204(c), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Attorney General may adjust to the status of an alien lawfully admitted for permanent residence any alien who the Attorney General determines meets the requirements of paragraph (1) or (2). The number of adjustments under this paragraph shall not exceed 4,000 for any fiscal year. The Attorney General shall record the alien's lawful admission for permanent residence as of the date the Attorney General's cancellation of removal under paragraph (1) or (2) or determination under this paragraph.”
+
+Subsec. (e). Pub. L. 105–100, §204(a), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title.”
+
+#### Effective Date of 1997 Amendment
+
+Section 204(e) of Pub. L. 105–100 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 1101 of this title\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 3009–546).”
 
 #### Effective Date
 

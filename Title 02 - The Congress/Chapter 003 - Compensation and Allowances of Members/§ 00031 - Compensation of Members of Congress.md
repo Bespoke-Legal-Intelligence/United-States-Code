@@ -10,11 +10,11 @@
 
 > shall be the rate determined for such positions under chapter 11 of this title, as adjusted by paragraph (2) of this section.
 
-(2)(A) Subject to subparagraph (B), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of title 5 in the rates of pay under the General Schedule, each annual rate referred to in paragraph (1) shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to thepercentage of such annual rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
+(2)(A) Subject to subparagraph (B), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effectunder section 5303 of title 5 in the rates of pay under the General Schedule, each annual rate referred to in paragraph (1) shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the percentage of such annual rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
 
 (B) In no event shall the percentage adjustment taking effect under subparagraph (A) in any calendar year (before rounding), in any rate of pay, exceed the percentage adjustment taking effect in such calendar year under section 5303 of title 5 in the rates of pay under the General Schedule.
 
-(Aug. 2, 1946, ch. 753, title VI, §601(a), 60 Stat. 850; Jan. 19, 1949, ch. 2, §1(d), 63 Stat. 4; Mar. 2, 1955, ch. 9, §4(a), 69 Stat. 11; Aug. 14, 1964, Pub. L. 88–426, title II, §204, 78 Stat. 415; Oct. 29, 1965, Pub. L. 89–301, §11(e), 79 Stat. 1120; Sept. 15, 1969, Pub. L. 91–67, §2, 83 Stat. 107; Aug. 9, 1975, Pub. L. 94–82, title II, §204(a), 89 Stat. 421; Nov. 30, 1989, Pub. L. 101–194, title VII, §704(a)(2)(B), 103 Stat. 1769; Nov. 5, 1990, Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(D)\], 104 Stat. 1427, 1439; Oct. 13, 1994, Pub. L. 103–356, title I, §101(1), 108 Stat. 3410.)
+(Aug. 2, 1946, ch. 753, title VI, §601(a), 60 Stat. 850; Jan. 19, 1949, ch. 2, §1(d), 63 Stat. 4; Mar. 2, 1955, ch. 9, §4(a), 69 Stat. 11; Pub. L. 88–426, title II, §204, Aug. 14, 1964, 78 Stat. 415; Pub. L. 89–301, §11(e), Oct. 29, 1965, 79 Stat. 1120; Pub. L. 91–67, §2, Sept. 15, 1969, 83 Stat. 107; Pub. L. 94–82, title II, §204(a), Aug. 9, 1975, 89 Stat. 421; Pub. L. 101–194, title VII, §704(a)(2)(B), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(D)\], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 103–356, title I, §101(1), Oct. 13, 1994, 108 Stat. 3410.)
 
 #### References in Text
 
@@ -96,9 +96,11 @@ Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, provided that: “Effecti
 
 #### Salary Increases
 
-1997—Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 1997.
+1998—Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 1998.
 
-1996—Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for the adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of Title 5.
+1997—Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for the adjustment of pay rates effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of Title 5.
+
+1996—Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for the adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, formerly set out as a note under section 5332 of Title 5.
 
 1995—Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for the adjustment of pay rates effective Jan. 1, 1995, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, formerly set out as a note under section 5332 of Title 5.
 
@@ -134,7 +136,7 @@ Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for the adjustmen
 
 1984—Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for the adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, formerly set out as a note under section 5332 of Title 5.
 
-1983—Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
+1983—Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Memberfor such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
 
 1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for the adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
 

@@ -12,7 +12,7 @@ The functions of the magistrate judge shall include the trial and sentencing of 
 
 1984—Pub. L. 98–473, §222(a), substituted “magistrate” for “commissioner” wherever appearing in first par.
 
-Pub. L. 98–473, §222(b), substituted provisions relating to trial and sentencing of persons charged with misdemeanors and infractions as defined in section 3581 oftitle 18, for provisions relating to trial and sentencing of persons committing petty offenses as defined in title 18, section 1, and right of election of such persons to be tried in the district court of the United States.
+Pub. L. 98–473, §222(b), substituted provisions relating to trial and sentencing of persons charged with misdemeanors and infractions as defined in section 3581 of title 18, for provisions relating to trial and sentencing of persons committing petty offenses as defined in title 18, section 1, and right of election of such persons to be tried in the district court of the United States.
 
 #### Change of Name
 

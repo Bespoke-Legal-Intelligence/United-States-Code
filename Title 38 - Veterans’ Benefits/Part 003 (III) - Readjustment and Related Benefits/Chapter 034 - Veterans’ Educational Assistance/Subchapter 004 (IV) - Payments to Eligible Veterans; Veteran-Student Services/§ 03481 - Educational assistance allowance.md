@@ -2,7 +2,7 @@
 
 ### General
 
-(a) The Secretary shall, in accordance with the applicable provisions of this section and chapter 36 of this title, pay to each eligible veteran who is pursuing a program of education under this chapter an educational assistance allowance to meet, in part, the expenses of the veteran's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
+(a) The Secretary shall, in accordance with the applicable provisions of this section andchapter 36 of this title, pay to each eligible veteran who is pursuing a program of education under this chapter an educational assistance allowance to meet, in part, the expenses of the veteran's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
 
 ### Institutional Training
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 92–540 inserted heading and substituted provisions requir
 
 Subsec. (c). Pub. L. 92–540 inserted heading and substituted provisions relating to the payment of allowances to eligible veterans pursuing a program of education consisting exclusively of flight training, for provisions authorizing the Administrator to prescribe regulations to determine enrollment in, pursuit of, and attendance at, any program of education or course by an eligible veteran.
 
-Subsec. (d). Pub. L. 92–540 struck out subsec. (d) which related to certification to the Administrator from the eligible veteran as to his actual attendance or completion of lessons by correspondence, and from the educational institution that such veteran was enrolledin and pursuing a course of education during such period or completion of lessons by correspondence by the veteran and serviced by the institution.
+Subsec. (d). Pub. L. 92–540 struck out subsec. (d) which related to certification to the Administrator from the eligible veteran as to his actual attendance or completion of lessons by correspondence, and from the educational institution that such veteran was enrolled in and pursuing a course of education during such period or completion of lessons by correspondence by the veteran and serviced by the institution.
 
 Subsec. (e). Pub. L. 92–540 struck out subsec. (e) which related to the prompt payment of the educational assistance allowance to the veteran.
 

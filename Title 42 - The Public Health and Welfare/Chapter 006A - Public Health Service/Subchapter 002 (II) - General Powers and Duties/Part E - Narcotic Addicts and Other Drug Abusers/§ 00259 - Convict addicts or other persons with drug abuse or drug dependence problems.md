@@ -1,0 +1,46 @@
+### §259. Convict addicts or other persons with drug abuse or drug dependence problems
+
+#### (a) Transfers to and from hospitals; duty of prosecuting officers to report convicted persons believed to be addicts
+
+The authority vested with the power to designate the place of confinement of a prisoner shall transfer to hospitals of the Service especially equipped for the accommodation of addicts or other persons with drug abuse and drug dependence problems, if accommodations are available, all addicts or other persons with drug abuse and drug dependence problems who have been or are hereafter sentenced to confinement, or who are now or shall hereafter be confined, in any penal, correctional, disciplinary, or reformatory institution of the United States, including those addicts or other persons with drug abuse and drug dependence problems convicted of offenses against the United States who are confined in State and Territorial prisons, penitentiaries, and reformatories, except that no addict or other person with a drug abuse or other drugdependence problem shall be transferred to a hospital of the Service who, in the opinion of the officer authorized to direct the transfer, is not a proper subject for confinement in such an institution either because of the nature of the crime he has committed or because of his apparent incorrigibility. The authority vested with the power to designate the place of confinement of a prisoner shall transfer from a hospital of the Service to the institution from which he was received, or to such other institution as may be designated by the proper authority, any addict or other person with a drug abuse or other drug dependence problem whose presence at a hospital of the Service is detrimental to the well-being of the hospital or who does not continue to be a narcotic addict or other person with a drug abuse or other drug dependence problem. All transfers of such prisoners to or from a hospital of the Service shall be accompanied by necessary attendants as directed by the officer in charge of such hospital and the actual and necessary expenses incident to such transfers shall be paid from the appropriation for the maintenance of such Service hospital except to the extent that other Federal agencies are authorized or required by law to pay expenses incident to such transfers. When sentence is pronounced against any person whom the prosecuting officer believes to be an addict or other person with a drug abuse or other drug dependence problem, such officer shall report to the authority vested with the power to designate the place of confinement, the name of such person, the reasons for his belief, all pertinent facts bearing on such addiction, drug abuse, or drug dependence, and the nature of the offense committed. Whenever an alien addict or other person with a drug abuse or other drug dependence problem transferred to a Service hospital pursuant to this subsection is entitled to his discharge but is subject to deportation, in lieu of being returned to the penal institution from which he came he shall be deported by the authority vested by law with power over deportation.
+
+#### (b) Repealed. Pub. L. 92–293, §3, May 11, 1972, 86 Stat. 136
+
+#### (c) Discharge; further treatment
+
+Not later than one month prior to the expiration of the sentence of any addict or other person with a drug abuse or other drug dependence problem confined in a Service hospital, he shall be examined by the Surgeon General or his authorized representative. If the Surgeon General believes the person to be discharged is still an addict or other person with a drug abuse or other drug dependence problem and that he may by further treatment in a Service hospital be cured of his addiction, drug abuse, or drug dependence, the addict or other person with a drug abuse or other drug dependence problem shall be informed, in accordance with regulations, of the advisability of his submitting himself to further treatment. The addict or other person with a drug abuse or other drug dependence problem may then apply in writing to the Surgeon General for further treatment in a Service hospital for a period not exceeding the maximum length of time considered necessary by the Surgeon General. Upon approval of the application by the Surgeon General or his authorized agent, the addict or other person with a drug abuse or other drug dependence problem may be given such further treatment as is necessary to cure him of his addiction, drug abuse, or drug dependence.
+
+#### (d) Gratuities and transportation furnished upon discharge or release on parole or supervised release
+
+Every person convicted of an offense against the United States, upon discharge, or upon release on parole or supervised release, from a hospital of the Service, shall be furnished with the gratuities and transportation authorized by law to be furnished to prisoners upon release from a penal, correctional, disciplinary, or reformatory institution.
+
+#### (e) Admission of probationers to hospitals for treatment
+
+Any court of the United States having the power to suspend the imposition or execution of sentence and to place a defendant on probation under any existing laws may impose as one of the conditions of such probation that the defendant, if an addict or other person with a drug abuse or other drug dependence problem, shall submit himself for treatment at a hospital of the Service especially equipped for the accommodation of addicts or other persons with drug abuse and drug dependence problems until discharged therefrom as cured and that he shall be admitted thereto for such purpose. Upon the discharge of any such probationer from a hospital of the Service, he shall be furnished with the gratuities and transportation authorized by law to be furnished to prisoners upon release from a penal, correctional, disciplinary, or reformatory institution. The actual and necessary expense incident to transporting such probationer to such hospital and to furnishing such transportation and gratuities shall be paid from the appropriation for the maintenance of such hospital except to the extent that other Federal agencies are authorized or required by law to pay the cost of such transportation: <i>Provided</i>, That where existing law vests a discretion in any officer as to the place to which transportation shall be furnished or as to the amount of clothing and gratuities to be furnished, such discretion shall be exercised by the Surgeon General with respect to addicts or other persons with drug abuse and drug dependence problems discharged from hospitals of the Service.
+
+(July 1, 1944, ch. 373, title III, §343, 58 Stat. 699; Oct. 27, 1970, Pub. L. 91–513, title I, §2(a)(2)(A), (3), (4), 84 Stat. 1240; May 11, 1972, Pub. L. 92–293, §3, 86 Stat. 136; Oct. 12, 1984, Pub. L. 98–473, title II, §232(b), 98 Stat. 2031.)
+
+#### Amendments
+
+1984—Subsec. (d). Pub. L. 98–473 inserted “or supervised release” after “parole”.
+
+1972—Subsec. (b). Pub. L. 92–293 struck out subsec. (b) which provided for application of sections 710 to 712a, 714 to 723c and 744h of title 18 to narcotic addicts and persons with drug abuse and drug dependence problems.
+
+1970—Pub. L. 91–513 extended section to cover drug abuse or drug dependence and to cover persons with drug abuse or drug dependence problems.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after thetaking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+
+#### Transfer of Functions
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+
+#### Cross References
+
+Discharge from prison, transportation, clothing and money issued, see section 4281 of Title 18, Crimes and Criminal Procedure.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 8 section 1231.
+

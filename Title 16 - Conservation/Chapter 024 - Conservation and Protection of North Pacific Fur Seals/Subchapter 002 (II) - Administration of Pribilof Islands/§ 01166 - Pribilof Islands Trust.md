@@ -18,7 +18,7 @@ The Trust shall be administered in accordance with such terms and conditions as 
 
 There may be one Trust instrument establishing the Trust described in subsection (a) of this section, or two such instruments, each relating to one of the two portions of the Trust as provided in subsection (d) of this section, which shall address, but need not be limited to, such matters as—
 
-&emsp;(1) establishing standards and procedures for the disbursement by the trustee or trustees of Trust assets for purposes of fostering in the Pribilof Islands a stable, diversified, and enduring economy not dependent upon sealing after Federal management of the islands is terminated, which procedures may include formal participation of Pribilof Islands Native councils, corporations, or other such entities;
+&emsp;(1) establishing standards and procedures for the disbursement by the trustee or trustees of Trust assets for purposes of fostering in the Pribilof Islands a stable, diversified, and enduring economy not dependent upon sealing after Federal management of the islands isterminated, which procedures may include formal participation of Pribilof Islands Native councils, corporations, or other such entities;
 
 &emsp;(2) establishing the Secretary as trustor;
 

@@ -2,13 +2,13 @@
 
 (a)
 
-Requirement for Plan.—The Secretary of Defense shall establish a dental insurance plan for military retirees, certain unremarried surviving spouses, and dependents in accordance with this section.
+Requirement for Plan.—The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services, certain unremarried surviving spouses, and dependents in accordance with this section.
 
 (b)
 
 Persons Eligible for Plan.—The following persons are eligible to enroll in the dental insurance plan established under subsection (a):
 
-&emsp;(1) Members of the Armed Forces who are entitled to retired pay.
+&emsp;(1) Members of the uniformed services who are entitled to retired pay.
 
 &emsp;(2) Members of the Retired Reserve who would be entitled to retired pay under chapter 1223 of this title but for being under 60 years of age.
 
@@ -16,15 +16,17 @@ Persons Eligible for Plan.—The following persons are eligible to enroll in the
 
 &emsp;(4) The unremarried surviving spouse and eligible child dependents of a deceased member—
 
-&emsp;&emsp;(A) who dies while in a status described in paragraph (1) or (2); or
+&emsp;&emsp;(A) who died while in a status described in paragraph (1) or (2);
 
-&emsp;&emsp;(B) who is described in section 1448(d)(1) of this title.
+&emsp;&emsp;(B) who is described in section 1448(d)(1) of this title; or
+
+&emsp;&emsp;(C) who died while on active duty for a period of more than 30 days and whose eligible dependents are not eligible, or no longer eligible, for dental benefits under section 1076a of this title pursuant to subsection (i)(2) of such section.
 
 (c)
 
 Premiums.—(1) A member enrolled in the dental insurance plan established under subsection (a) shall pay the premiums charged for the insurance coverage.
 
-(2) The amount of the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay and shall be disbursed to pay the premiums. The regulations prescribed under subsection (h) shall specify the procedures for payment of the premiums by other enrolled members and by enrolled surviving spouses.
+(2) The Secretary of Defense shall establish procedures for the collection of the premiums charged for coverage by the dental insurance plan. To the maximum extent practicable, the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay of the member (if pay is available to the member).
 
 (d)
 
@@ -52,7 +54,7 @@ Continuation of Dependents’ Enrollment Upon Death of Enrollee.—Coverage of a
 
 (h)
 
-Regulations.—The dental insurance plan established under subsection (a) shall be administered under regulations prescribed by the Secretary of Defense, in consultation with the Secretary of Transportation.
+Regulations.—The dental insurance plan established under subsection (a) shall be administered under regulations prescribed by the Secretary of Defense, in consultation with the other administering Secretaries.
 
 (i)
 
@@ -64,11 +66,29 @@ Definitions.—In this section:
 
 &emsp;(3) The term “retired pay” includes retainer pay.
 
-(Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588.)
+(Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813.)
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85, §734(a)(1), (b)(1), substituted “The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services” for “The Secretary of Defense shall establish a dental insurance plan for military retirees”.
+
+Subsec. (b)(1). Pub. L. 105–85, §734(a)(2), substituted “uniformed services” for “Armed Forces”.
+
+Subsec. (b)(4)(A). Pub. L. 105–85, §701(1)(A), substituted “died” for “dies”.
+
+Subsec. (b)(4)(C). Pub. L. 105–85, §701(1)(B), (2), (3), added subpar. (C).
+
+Subsec. (c)(2). Pub. L. 105–85, §733(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The amount of the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay and shall be disbursed to pay the premiums. The regulations prescribed under subsection (h) shall specify the procedures for payment of the premiums by other enrolled members and by enrolled surviving spouses.”
+
+Subsec. (h). Pub. L. 105–85, §734(b)(2), substituted “other administering Secretaries” for “Secretary of Transportation”.
+
+#### Limitation on Implementation of Alternative Collection Procedures
+
+For provisions prohibiting the Secretary of Defense from implementing procedures for collecting premiums under subsec. (c)(2) of this section other than by deductions and withholding from pay until 120 days after the date that the Secretary submits a report to Congress describing justification for implementing alternative procedures, see section 733(d) of Pub. L. 105–85, set out as note under section 1076b of this title.
 
 #### Implementation of Dental Plan
 
-Section 703(b) of Pub. L. 104–201 provided that: “Beginning not later than October 1, 1997, the Secretary of Defense shall—
+Section 703(b) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title VII, §733(e), Nov. 18, 1997, 111 Stat. 1813, provided that: “Beginning not later than April 1, 1998, the Secretary of Defense shall—
 
 &emsp;“(1) offer members of the Armed Forces and other persons described in subsection (b) of section 1076c of title 10, United States Code (as added by subsection (a)(1) of this section), the opportunity to enroll in the dental insurance plan required under that section; and
 

@@ -22,7 +22,7 @@
 
 &emsp;(3) charge a fee for public grazing use which is equitable and reflects the concerns addressed in paragraph (a)(5) above;
 
-&emsp;(4) continue the policy of protecting wild free-roaming horses and burros from capture,branding, harassment, or death, while at the same time facilitating the removal and disposal of excess wild free-roaming horses and burros which pose a threat to themselves and their habitat and to other rangeland values;
+&emsp;(4) continue the policy of protecting wild free-roaming horses and burros from capture, branding, harassment, or death, while at the same time facilitating the removal and disposal of excess wild free-roaming horses and burros which pose a threat to themselves and their habitat and to other rangeland values;
 
 (c) The policies of this chapter shall become effective only as specific statutory authority for their implementation is enacted by this chapter or by subsequent legislation, and shall be construed as supplemental to and not in derogation of the purposes for which public rangelands are administered under other provisions of law.
 
@@ -30,7 +30,7 @@
 
 #### References in Text
 
-Act of December 15, 1971, referred to in subsec. (a)(6), is Pub. L. 92–195, Dec. 15, 1971, 85 Stat. 649, as amended, popularly known as the Wild Free-Roaming Horses and Burros Act, which is classified generally to chapter 30 (§1331 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 16 and Tables.
+Act of December 15, 1971, referred to in subsec. (a)(6), is Pub. L. 92–195, Dec. 15, 1971, 85 Stat. 649, as amended, popularly known as the Wild Free-Roaming Horses and Burros Act, which is classified generally to chapter 30\(§1331 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 16 and Tables.
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 95–514, Oct. 25, 1978, 92 Stat. 1803, which enacted this chapter and amended sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 

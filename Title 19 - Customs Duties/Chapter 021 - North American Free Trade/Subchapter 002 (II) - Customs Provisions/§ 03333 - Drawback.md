@@ -20,7 +20,7 @@ For purposes of this Act and the amendments made by subsection (b) of this secti
 
 &emsp;&emsp;&emsp;(ii) used as a material in the production of another good that is deemed to be exported to a NAFTA country, or
 
-&emsp;&emsp;&emsp;(iii) substituted for by a good of the same kind and quality that is used as a material in the production of another good that is deemed to be exported to a NAFTA country, and
+&emsp;&emsp;&emsp;(iii) substituted for by a good of the same kind and quality that is used as a material in the production of another goodthat is deemed to be exported to a NAFTA country, and
 
 &emsp;&emsp;(B) that is delivered—
 

@@ -18,7 +18,7 @@
 
 &emsp;(A) that the Attorney General or such Assistant Attorney General approves or disapproves the referral to a presiding officer of the allegations of liability stated in such notice;
 
-&emsp;(B) in any case in which the referral of allegations is approved, that the initiation of aproceeding under this section with respect to such allegations is appropriate; and
+&emsp;(B) in any case in which the referral of allegations is approved, that the initiation of a proceeding under this section with respect to such allegations is appropriate; and
 
 &emsp;(C) in any case in which the referral of allegations is disapproved, the reasons for such disapproval.
 
@@ -34,7 +34,7 @@
 
 > is requested or demanded in violation of section 3802 of this title in such claim or in a group of related claims which are submitted at the time such claim is submitted.
 
-(2)(A) Except as provided in subparagraph (B) of this paragraph, no allegations of liability against an individual under section 3802 of this title with respect to any claim or statement made, presented, or submitted, or caused to be made, presented, or submitted, by such individual relating to any benefits received by such individual shall be referred to a presiding officer under paragraph (2) of subsection (b).
+(2)(A) Except as provided in subparagraph (B) of this paragraph, no allegations of liability against an individual under section 3802 of thistitle with respect to any claim or statement made, presented, or submitted, or caused to be made, presented, or submitted, by such individual relating to any benefits received by such individual shall be referred to a presiding officer under paragraph (2) of subsection (b).
 
 (B) Allegations of liability against an individual under section 3802 of this title with respect to any claim or statement made, presented, or submitted, or caused to be made, presented, or submitted, by such individual relating to any benefits received by such individual may be referred to a presiding officer under paragraph (2) of subsection (b) if—
 
@@ -154,7 +154,7 @@
 
 &emsp;(i) Procedures for the inclusion, in any written notice of a hearing under this section to any person alleged to be liable under section 3802 of this title, of a description of the procedures for the conduct of the hearing.
 
-&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of thenotice required under subsection (a)(2) of this section.
+&emsp;(ii) Procedures to permit discovery by any person alleged to be liable under section 3802 of this title only to the extent that the presiding officer determines that such discovery is necessary for the expeditious, fair, and reasonable consideration of the issues, except that such procedures shall not apply to documents, transcripts, records, or other material which a person is entitled to review under paragraph (1) of subsection (e) or to information to which a person is entitled under paragraph (2) of such subsection. Procedures promulgated under this clause shall prohibit the discovery of the notice required under subsection (a)(2) of this section.
 
 (4) Each hearing under subsection (f) of this section shall be held—
 
@@ -198,7 +198,7 @@ The National School Lunch Act, referred to in subsec. (c)(2)(C)(xiii), is act Ju
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
-The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV ofPub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
+The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
 
 #### Amendments
 

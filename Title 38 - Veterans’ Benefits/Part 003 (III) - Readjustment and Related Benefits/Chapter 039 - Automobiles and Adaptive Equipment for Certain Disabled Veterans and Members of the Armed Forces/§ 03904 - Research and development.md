@@ -4,7 +4,7 @@
 
 (b) In carrying out subsection (a) of this section, the Secretary, through the Under Secretary for Health, shall consult and cooperate with the Secretary of Health and Human Services and the Secretary of Education, in connection with programs carried out under section 204(b)(2) <sup>1</sup> of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2)) (relating to the establishment and support of Rehabilitation Engineering Research Centers).
 
-(Added Pub. L. 93–538, §5(a), Dec. 22, 1974, 88 Stat. 1737, §1904; amended Pub. L. 94–581, title II, §205(b)(2), (3), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–602, title I, §122(f), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 97–295, §4(69), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 102–40, title IV, §403(b)(1), May 7, 1991, 105 Stat. 239; renumbered §3904 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 93–538, §5(a), Dec. 22, 1974, 88 Stat. 1737, §1904; amended Pub. L. 94–581, title II, §205(b)(2), (3), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–602, title I, §122(f), Nov. 6, 1978, 92 Stat. 2987;Pub. L. 97–295, §4(69), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 102–40, title IV, §403(b)(1), May 7, 1991, 105 Stat. 239; renumbered §3904 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 #### References in Text
 

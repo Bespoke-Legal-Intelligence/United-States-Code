@@ -1,6 +1,6 @@
 # Printed pages - Title 45 - Railroads
 
-GPO's 1996 edition (laws in effect as of 1997-01-06), from its printed page marks. The exact position of
+GPO's 1997 edition (laws in effect as of 1998-01-26), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title45.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -264,8 +264,8 @@ from edition to edition; the section files hold the text only.
 | [Subchapter 003 (III) - Northeast Corridor Project Implementation](Chapter%20017%20-%20Railroad%20Revitalization%20and%20Regulatory%20Reform/Subchapter%20003%20%28III%29%20-%20Northeast%20Corridor%20Project%20Implementation/README.md) | 236 |
 | [&sect; 00851 - Repealed. Pub. L. 103&#8211;272, &sect;7(b), July 5, 1994, 108 Stat. 1379](Chapter%20017%20-%20Railroad%20Revitalization%20and%20Regulatory%20Reform/Subchapter%20003%20%28III%29%20-%20Northeast%20Corridor%20Project%20Implementation/%C2%A7%2000851%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | 236 |
 | [&sect; 00852 - Repealed. Pub. L. 97&#8211;35, title XI, &sect;1188(e), Aug. 13, 1981, 95 Stat. 699](Chapter%20017%20-%20Railroad%20Revitalization%20and%20Regulatory%20Reform/Subchapter%20003%20%28III%29%20-%20Northeast%20Corridor%20Project%20Implementation/%C2%A7%2000852%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XI%2C%20%C2%A71188%28e%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20699.md) | 236 |
-| [&sect; 00853 to 855 - Repealed. Pub. L. 103&#8211;272, &sect;7(b), July 5, 1994, 108 Stat. 1379](Chapter%20017%20-%20Railroad%20Revitalization%20and%20Regulatory%20Reform/Subchapter%20003%20%28III%29%20-%20Northeast%20Corridor%20Project%20Implementation/%C2%A7%2000853%20to%20855%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | 236 |
-| [&sect; 00856 - Repealed. Pub. L. 103&#8211;429, &sect;7(a)(1), Oct. 31, 1994, 108 Stat. 4388](Chapter%20017%20-%20Railroad%20Revitalization%20and%20Regulatory%20Reform/Subchapter%20003%20%28III%29%20-%20Northeast%20Corridor%20Project%20Implementation/%C2%A7%2000856%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93429%2C%20%C2%A77%28a%29%281%29%2C%20Oct.%2031%2C%201994%2C%20108%20Stat.%204388.md) | 236–237 |
+| [&sect; 00853 to 855 - Repealed. Pub. L. 103&#8211;272, &sect;7(b), July 5, 1994, 108 Stat. 1379](Chapter%20017%20-%20Railroad%20Revitalization%20and%20Regulatory%20Reform/Subchapter%20003%20%28III%29%20-%20Northeast%20Corridor%20Project%20Implementation/%C2%A7%2000853%20to%20855%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | 236–237 |
+| [&sect; 00856 - Repealed. Pub. L. 103&#8211;429, &sect;7(a)(1), Oct. 31, 1994, 108 Stat. 4388](Chapter%20017%20-%20Railroad%20Revitalization%20and%20Regulatory%20Reform/Subchapter%20003%20%28III%29%20-%20Northeast%20Corridor%20Project%20Implementation/%C2%A7%2000856%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93429%2C%20%C2%A77%28a%29%281%29%2C%20Oct.%2031%2C%201994%2C%20108%20Stat.%204388.md) | 237 |
 | [Chapter 018 - Milwaukee Railroad Restructuring](Chapter%20018%20-%20Milwaukee%20Railroad%20Restructuring/README.md) | 237 |
 | [&sect; 00901 - Congressional findings](Chapter%20018%20-%20Milwaukee%20Railroad%20Restructuring/%C2%A7%2000901%20-%20Congressional%20findings.md) | 237–238 |
 | [&sect; 00902 - Definitions](Chapter%20018%20-%20Milwaukee%20Railroad%20Restructuring/%C2%A7%2000902%20-%20Definitions.md) | 238 |
@@ -290,8 +290,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00921 - Office of Rail Public Counsel](Chapter%20018%20-%20Milwaukee%20Railroad%20Restructuring/%C2%A7%2000921%20-%20Office%20of%20Rail%20Public%20Counsel.md) | 247 |
 | [&sect; 00922 - Employee stock ownership plan for surviving portion of Milwaukee Railroad](Chapter%20018%20-%20Milwaukee%20Railroad%20Restructuring/%C2%A7%2000922%20-%20Employee%20stock%20ownership%20plan%20for%20surviving%20portion%20of%20Milwaukee%20Railroad.md) | 247 |
 | [Chapter 019 - Rock Island Railroad Employee Assistance](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/README.md) | 247 |
-| [&sect; 01001 - Congressional findings](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001001%20-%20Congressional%20findings.md) | 247 |
-| [&sect; 01002 - Definitions](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001002%20-%20Definitions.md) | 247–248 |
+| [&sect; 01001 - Congressional findings](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001001%20-%20Congressional%20findings.md) | 247–248 |
+| [&sect; 01002 - Definitions](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001002%20-%20Definitions.md) | 248 |
 | [&sect; 01003 - Service continuation](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001003%20-%20Service%20continuation.md) | 248–249 |
 | [&sect; 01004 - Railroad hiring](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001004%20-%20Railroad%20hiring.md) | 249 |
 | [&sect; 01005 - Employee protection agreement](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001005%20-%20Employee%20protection%20agreement.md) | 249–250 |
@@ -299,9 +299,9 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01007 - Election](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001007%20-%20Election.md) | 250–251 |
 | [&sect; 01008 - Repealed. Pub. L. 97&#8211;468, title II, &sect;234(a), Jan. 14, 1983, 96 Stat. 2547](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001008%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93468%2C%20title%20II%2C%20%C2%A7234%28a%29%2C%20Jan.%2014%2C%201983%2C%2096%20Stat.%202547.md) | 251 |
 | [&sect; 01009 - Expedited proceedings](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001009%20-%20Expedited%20proceedings.md) | 251 |
-| [&sect; 01010 - Applicability of National Environmental Policy Act and section 6362(b) of title 42](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001010%20-%20Applicability%20of%20National%20Environmental%20Policy%20Act%20and%20section%206362%28b%29%20of%20title%2042.md) | 251 |
-| [&sect; 01011 - Authority of Railroad Retirement Board](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001011%20-%20Authority%20of%20Railroad%20Retirement%20Board.md) | 251 |
-| [&sect; 01012 - Publications and reports](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001012%20-%20Publications%20and%20reports.md) | 251–252 |
+| [&sect; 01010 - Applicability of National Environmental Policy Act and section 6362(b) of title 42](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001010%20-%20Applicability%20of%20National%20Environmental%20Policy%20Act%20and%20section%206362%28b%29%20of%20title%2042.md) | 251–252 |
+| [&sect; 01011 - Authority of Railroad Retirement Board](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001011%20-%20Authority%20of%20Railroad%20Retirement%20Board.md) | 252 |
+| [&sect; 01012 - Publications and reports](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001012%20-%20Publications%20and%20reports.md) | 252 |
 | [&sect; 01013 - Repealed. Pub. L. 103&#8211;272, &sect;7(b), July 5, 1994, 108 Stat. 1379](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001013%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93272%2C%20%C2%A77%28b%29%2C%20July%205%2C%201994%2C%20108%20Stat.%201379.md) | 252 |
 | [&sect; 01014 - New career training assistance](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001014%20-%20New%20career%20training%20assistance.md) | 252 |
 | [&sect; 01015 - Repealed. Pub. L. 104&#8211;88, title III, &sect;329(2), Dec. 29, 1995, 109 Stat. 952](Chapter%20019%20-%20Rock%20Island%20Railroad%20Employee%20Assistance/%C2%A7%2001015%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9388%2C%20title%20III%2C%20%C2%A7329%282%29%2C%20Dec.%2029%2C%201995%2C%20109%20Stat.%20952.md) | 252 |
@@ -314,52 +314,52 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01103 - Goals and objectives](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001103%20-%20Goals%20and%20objectives.md) | 255 |
 | [&sect; 01104 - Definitions](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001104%20-%20Definitions.md) | 255–256 |
 | [&sect; 01105 - Judicial review](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001105%20-%20Judicial%20review.md) | 256–257 |
-| [&sect; 01106 - Exemption from transfer taxes and fees; recordation](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001106%20-%20Exemption%20from%20transfer%20taxes%20and%20fees%3B%20recordation.md) | 257 |
-| [&sect; 01107 - Repealed. Pub. L. 99&#8211;509, title IV, &sect;4033(c)(1)(C)(i)(I), Oct. 21, 1986, 100 Stat. 1908](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001107%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93509%2C%20title%20IV%2C%20%C2%A74033%28c%29%281%29%28C%29%28i%29%28I%29%2C%20Oct.%2021%2C%201986%2C%20100%20Stat.%201908.md) | 257 |
-| [&sect; 01108 - Concerted economic action](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001108%20-%20Concerted%20economic%20action.md) | 257–258 |
+| [&sect; 01106 - Exemption from transfer taxes and fees; recordation](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001106%20-%20Exemption%20from%20transfer%20taxes%20and%20fees%3B%20recordation.md) | 257–258 |
+| [&sect; 01107 - Repealed. Pub. L. 99&#8211;509, title IV, &sect;4033(c)(1)(C)(i)(I), Oct. 21, 1986, 100 Stat. 1908](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001107%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93509%2C%20title%20IV%2C%20%C2%A74033%28c%29%281%29%28C%29%28i%29%28I%29%2C%20Oct.%2021%2C%201986%2C%20100%20Stat.%201908.md) | 258 |
+| [&sect; 01108 - Concerted economic action](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001108%20-%20Concerted%20economic%20action.md) | 258 |
 | [&sect; 01109 - Effectuation of cost reductions](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001109%20-%20Effectuation%20of%20cost%20reductions.md) | 258 |
 | [&sect; 01110 - Repealed. Pub. L. 99&#8211;509, title IV, &sect;4033(c)(1)(C)(i)(II), Oct. 21, 1986, 100 Stat. 1908](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001110%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93509%2C%20title%20IV%2C%20%C2%A74033%28c%29%281%29%28C%29%28i%29%28II%29%2C%20Oct.%2021%2C%201986%2C%20100%20Stat.%201908.md) | 258 |
-| [&sect; 01111 - Northeast Corridor cost dispute](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001111%20-%20Northeast%20Corridor%20cost%20dispute.md) | 258–259 |
-| [&sect; 01112 - Interstate Commerce Commission proceedings](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001112%20-%20Interstate%20Commerce%20Commission%20proceedings.md) | 259–260 |
-| [&sect; 01113 - Intercity passenger service](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001113%20-%20Intercity%20passenger%20service.md) | 260 |
+| [&sect; 01111 - Repealed. Pub. L. 105&#8211;134, title IV, &sect;408, Dec. 2, 1997, 111 Stat. 2586](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001111%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93134%2C%20title%20IV%2C%20%C2%A7408%2C%20Dec.%202%2C%201997%2C%20111%20Stat.%202586.md) | 258 |
+| [&sect; 01112 - Interstate Commerce Commission proceedings](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001112%20-%20Interstate%20Commerce%20Commission%20proceedings.md) | 258–259 |
+| [&sect; 01113 - Intercity passenger service](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001113%20-%20Intercity%20passenger%20service.md) | 259–260 |
 | [&sect; 01114 - Repealed. Pub. L. 99&#8211;509, title IV, &sect;4033(c)(1)(C)(i)(III), Oct. 21, 1986, 100 Stat. 1908](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001114%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93509%2C%20title%20IV%2C%20%C2%A74033%28c%29%281%29%28C%29%28i%29%28III%29%2C%20Oct.%2021%2C%201986%2C%20100%20Stat.%201908.md) | 260 |
 | [&sect; 01115 - Redemption of stock](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001115%20-%20Redemption%20of%20stock.md) | 260 |
-| [&sect; 01116 - Applicability of other laws](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001116%20-%20Applicability%20of%20other%20laws.md) | 260–261 |
-| [Chapter 021 - Alaska Railroad Transfer](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/README.md) | 261–262 |
-| [&sect; 01201 - Findings](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001201%20-%20Findings.md) | 262 |
-| [&sect; 01202 - Definitions](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001202%20-%20Definitions.md) | 262–264 |
-| [&sect; 01203 - Transfer authorization](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001203%20-%20Transfer%20authorization.md) | 264–266 |
-| [&sect; 01204 - Transition period](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001204%20-%20Transition%20period.md) | 266–267 |
-| [&sect; 01205 - Lands to be transferred](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001205%20-%20Lands%20to%20be%20transferred.md) | 267–269 |
-| [&sect; 01206 - Employees of Alaska Railroad](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001206%20-%20Employees%20of%20Alaska%20Railroad.md) | 269–270 |
-| [&sect; 01207 - State operation](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001207%20-%20State%20operation.md) | 270–272 |
-| [&sect; 01208 - Future rights-of-way](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001208%20-%20Future%20rights-of-way.md) | 272 |
+| [&sect; 01116 - Applicability of other laws](Chapter%20020%20-%20Northeast%20Rail%20Service/%C2%A7%2001116%20-%20Applicability%20of%20other%20laws.md) | 260 |
+| [Chapter 021 - Alaska Railroad Transfer](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/README.md) | 260–261 |
+| [&sect; 01201 - Findings](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001201%20-%20Findings.md) | 261–262 |
+| [&sect; 01202 - Definitions](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001202%20-%20Definitions.md) | 262–263 |
+| [&sect; 01203 - Transfer authorization](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001203%20-%20Transfer%20authorization.md) | 263–265 |
+| [&sect; 01204 - Transition period](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001204%20-%20Transition%20period.md) | 265–266 |
+| [&sect; 01205 - Lands to be transferred](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001205%20-%20Lands%20to%20be%20transferred.md) | 266–268 |
+| [&sect; 01206 - Employees of Alaska Railroad](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001206%20-%20Employees%20of%20Alaska%20Railroad.md) | 268–270 |
+| [&sect; 01207 - State operation](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001207%20-%20State%20operation.md) | 270–271 |
+| [&sect; 01208 - Future rights-of-way](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001208%20-%20Future%20rights-of-way.md) | 271–272 |
 | [&sect; 01209 - Reversion](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001209%20-%20Reversion.md) | 272–273 |
 | [&sect; 01210 - Other disposition](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001210%20-%20Other%20disposition.md) | 273 |
-| [&sect; 01211 - Denali National Park and Preserve lands](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001211%20-%20Denali%20National%20Park%20and%20Preserve%20lands.md) | 273–274 |
-| [&sect; 01212 - Applicability of other laws](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001212%20-%20Applicability%20of%20other%20laws.md) | 274–275 |
-| [&sect; 01213 - Conflict with other laws](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001213%20-%20Conflict%20with%20other%20laws.md) | 275 |
-| [&sect; 01214 - Separability](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001214%20-%20Separability.md) | 275 |
-| [Chapter 022 - Conrail Privatization](Chapter%20022%20-%20Conrail%20Privatization/README.md) | 275 |
+| [&sect; 01211 - Denali National Park and Preserve lands](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001211%20-%20Denali%20National%20Park%20and%20Preserve%20lands.md) | 273 |
+| [&sect; 01212 - Applicability of other laws](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001212%20-%20Applicability%20of%20other%20laws.md) | 273–274 |
+| [&sect; 01213 - Conflict with other laws](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001213%20-%20Conflict%20with%20other%20laws.md) | 274 |
+| [&sect; 01214 - Separability](Chapter%20021%20-%20Alaska%20Railroad%20Transfer/%C2%A7%2001214%20-%20Separability.md) | 274 |
+| [Chapter 022 - Conrail Privatization](Chapter%20022%20-%20Conrail%20Privatization/README.md) | 274–275 |
 | [Subchapter 001 (I) - General Provisions](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md) | 275 |
-| [&sect; 01301 - Findings](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001301%20-%20Findings.md) | 275–276 |
-| [&sect; 01302 - Purposes](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001302%20-%20Purposes.md) | 276 |
-| [&sect; 01303 - Definitions](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001303%20-%20Definitions.md) | 276–277 |
+| [&sect; 01301 - Findings](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001301%20-%20Findings.md) | 275 |
+| [&sect; 01302 - Purposes](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001302%20-%20Purposes.md) | 275 |
+| [&sect; 01303 - Definitions](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001303%20-%20Definitions.md) | 275–277 |
 | [Subchapter 002 (II) - Conrail](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/README.md) | 277 |
 | [Part A - Sale of Conrail](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20A%20-%20Sale%20of%20Conrail/README.md) | 277 |
-| [&sect; 01311 - Preparation for public offering](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20A%20-%20Sale%20of%20Conrail/%C2%A7%2001311%20-%20Preparation%20for%20public%20offering.md) | 277–278 |
-| [&sect; 01312 - Public offering](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20A%20-%20Sale%20of%20Conrail/%C2%A7%2001312%20-%20Public%20offering.md) | 278–279 |
-| [&sect; 01313 - Fees](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20A%20-%20Sale%20of%20Conrail/%C2%A7%2001313%20-%20Fees.md) | 279 |
-| [Part B - Other Matters Relating to Sale](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20B%20-%20Other%20Matters%20Relating%20to%20Sale/README.md) | 279 |
-| [&sect; 01321 - Rail service obligations](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20B%20-%20Other%20Matters%20Relating%20to%20Sale/%C2%A7%2001321%20-%20Rail%20service%20obligations.md) | 279–280 |
-| [&sect; 01322 - Ownership limitations](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20B%20-%20Other%20Matters%20Relating%20to%20Sale/%C2%A7%2001322%20-%20Ownership%20limitations.md) | 280 |
+| [&sect; 01311 - Preparation for public offering](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20A%20-%20Sale%20of%20Conrail/%C2%A7%2001311%20-%20Preparation%20for%20public%20offering.md) | 277 |
+| [&sect; 01312 - Public offering](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20A%20-%20Sale%20of%20Conrail/%C2%A7%2001312%20-%20Public%20offering.md) | 277–278 |
+| [&sect; 01313 - Fees](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20A%20-%20Sale%20of%20Conrail/%C2%A7%2001313%20-%20Fees.md) | 278 |
+| [Part B - Other Matters Relating to Sale](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20B%20-%20Other%20Matters%20Relating%20to%20Sale/README.md) | 278 |
+| [&sect; 01321 - Rail service obligations](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20B%20-%20Other%20Matters%20Relating%20to%20Sale/%C2%A7%2001321%20-%20Rail%20service%20obligations.md) | 278–279 |
+| [&sect; 01322 - Ownership limitations](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20B%20-%20Other%20Matters%20Relating%20to%20Sale/%C2%A7%2001322%20-%20Ownership%20limitations.md) | 279–280 |
 | [&sect; 01323 - Board of Directors](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20B%20-%20Other%20Matters%20Relating%20to%20Sale/%C2%A7%2001323%20-%20Board%20of%20Directors.md) | 280–281 |
-| [&sect; 01324 - Certain enforcement relief](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20B%20-%20Other%20Matters%20Relating%20to%20Sale/%C2%A7%2001324%20-%20Certain%20enforcement%20relief.md) | 281–282 |
-| [Part C - Miscellaneous Provisions](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/README.md) | 282 |
-| [&sect; 01341 - Abolition of United States Railway Association](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001341%20-%20Abolition%20of%20United%20States%20Railway%20Association.md) | 282 |
-| [&sect; 01342 - Exemption from liability](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001342%20-%20Exemption%20from%20liability.md) | 282 |
+| [&sect; 01324 - Certain enforcement relief](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20B%20-%20Other%20Matters%20Relating%20to%20Sale/%C2%A7%2001324%20-%20Certain%20enforcement%20relief.md) | 281 |
+| [Part C - Miscellaneous Provisions](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/README.md) | 281 |
+| [&sect; 01341 - Abolition of United States Railway Association](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001341%20-%20Abolition%20of%20United%20States%20Railway%20Association.md) | 281 |
+| [&sect; 01342 - Exemption from liability](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001342%20-%20Exemption%20from%20liability.md) | 281–282 |
 | [&sect; 01343 - Charter amendment](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001343%20-%20Charter%20amendment.md) | 282 |
 | [&sect; 01344 - Status of Conrail after sale](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001344%20-%20Status%20of%20Conrail%20after%20sale.md) | 282 |
-| [&sect; 01345 - Effect on contracts](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001345%20-%20Effect%20on%20contracts.md) | 282–283 |
-| [&sect; 01346 - Resolution of certain issues](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001346%20-%20Resolution%20of%20certain%20issues.md) | 283 |
-| [&sect; 01347 - Tax treatment of Conrail public sale](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001347%20-%20Tax%20treatment%20of%20Conrail%20public%20sale.md) | 283–284 |
+| [&sect; 01345 - Effect on contracts](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001345%20-%20Effect%20on%20contracts.md) | 282 |
+| [&sect; 01346 - Resolution of certain issues](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001346%20-%20Resolution%20of%20certain%20issues.md) | 282 |
+| [&sect; 01347 - Tax treatment of Conrail public sale](Chapter%20022%20-%20Conrail%20Privatization/Subchapter%20002%20%28II%29%20-%20Conrail/Part%20C%20-%20Miscellaneous%20Provisions/%C2%A7%2001347%20-%20Tax%20treatment%20of%20Conrail%20public%20sale.md) | 282–283 |

@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated such sums as the Congress may from time to time determine to be necessary to enable the Secretary to carry out the provisions of this chapter.
 
-(July 2, 1948, ch. 811, §6, 62 Stat. 1226; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 618.)
+(July 2, 1948, ch. 811, §6, 62 Stat. 1226; Pub. L. 93–155, title VIII, §809, Nov. 16, 1973, 87 Stat. 618.)
 
 #### Prior Provisions
 

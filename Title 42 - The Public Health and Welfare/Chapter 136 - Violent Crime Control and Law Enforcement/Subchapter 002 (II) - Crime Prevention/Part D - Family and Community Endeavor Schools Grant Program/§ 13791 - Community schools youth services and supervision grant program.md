@@ -42,7 +42,7 @@ In this section—
 
 &emsp;“Secretary” means the Secretary of Health and Human Services, in consultation and coordination with the Attorney General.
 
-&emsp;“State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands.
+&emsp;“State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern MarianaIslands, American Samoa, Guam, and the United States Virgin Islands.
 
 #### (c) Program authority
 
@@ -66,7 +66,7 @@ In this section—
 
 #### (3) Administrative costs
 
-&emsp;The Secretary may use not more than 3 percent of the funds appropriated to carry outthis section in any fiscal year for administrative costs.
+&emsp;The Secretary may use not more than 3 percent of the funds appropriated to carry out this section in any fiscal year for administrative costs.
 
 #### (d) Program requirements
 
@@ -156,7 +156,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(vii) other organizations that the community-based organization determines to be appropriate;
 
-&emsp;&emsp;(F) contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricularand academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2) of this section;
+&emsp;&emsp;(F) contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricular and academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2) of this section;
 
 &emsp;&emsp;(G) contain a list of the activities and services that will be offered through the program for which the grant is sought and sponsored by private nonprofit organizations, individuals, and groups serving the eligible community, including—
 

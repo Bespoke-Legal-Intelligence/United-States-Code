@@ -24,10 +24,13 @@
 | [2219\.](%C2%A7%2002219%20-%20Retention%20of%20morale%2C%20welfare%2C%20and%20recreation%20funds%20by%20military%20installations%20limitation.md) | Retention of morale, welfare, and recreation funds by military installations: limitation. |
 | [2220\.](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md) | Performance based management: acquisition programs. |
 | [2221\.](%C2%A7%2002221%20-%20Fisher%20House%20trust%20funds.md) | Fisher House trust funds. |
+| [2222\.](%C2%A7%2002222%20-%20Biennial%20financial%20management%20improvement%20plan.md) | Biennial financial management improvement plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title X, §1008(a)(2), Nov. 18, 1997, 111 Stat. 1871, added item 2222.
 
 1996—Pub. L. 104–201, div. A, title X, §1074(a)(10), Sept. 23, 1996, 110 Stat. 2659, redesignated item 2216 “Defense Business Operations Fund” as 2216a.
 
@@ -86,3 +89,4 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 - [&sect; 02219 - Retention of morale, welfare, and recreation funds by military installations limitation](%C2%A7%2002219%20-%20Retention%20of%20morale%2C%20welfare%2C%20and%20recreation%20funds%20by%20military%20installations%20limitation.md)
 - [&sect; 02220 - Performance based management acquisition programs](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md)
 - [&sect; 02221 - Fisher House trust funds](%C2%A7%2002221%20-%20Fisher%20House%20trust%20funds.md)
+- [&sect; 02222 - Biennial financial management improvement plan](%C2%A7%2002222%20-%20Biennial%20financial%20management%20improvement%20plan.md)

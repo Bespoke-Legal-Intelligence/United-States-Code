@@ -14,7 +14,7 @@ For purposes of this section, the term “nutrition education and training progr
 
 #### (d) Nutrition education and training; grants; coordination with other nutrition activities; coordination with Department of Health and Human Services: transfer of funds; State contracts: nutrition training grants and pilot projects
 
-(1) The Secretary is authorized to formulate and carry out a nutrition education and training program, through a system of grants to State educational agencies, to provide for (A) the nutritional training of educational and food service personnel, (B) training school food service personnel in the principles and practices of food service management, in cooperation with materials developed at any food service management institute established as authorized by section 21(a)(2) of the National School Lunch Act \[42 U.S.C. 1769b–1(a)(2)\], and (C) the conduct of nutrition education activities in schools, child care institutions, and institutions offering summer food service programs under section 13 of the National School Lunch Act \[42 U.S.C. 1761\], and the provision of nutrition education to parents and caregivers.
+(1) The Secretary is authorized to formulate and carry out a nutrition education and training program, through a system of grants to State educational agencies, to provide for (A) the nutritional training of educational and food service personnel, (B) training school food service personnel in the principles and practices of food service management, in cooperation with materials developed at any food service management institute established as authorized by section 21(a)(2) of the National School Lunch Act \[42 U.S.C. 1769b–1(a)(2)\], and (C) the conduct of nutrition education activities in schools, child care institutions, and institutions offering summer food service programs under section 13 ofthe National School Lunch Act \[42 U.S.C. 1761\], and the provision of nutrition education to parents and caregivers.
 
 (2) The program is to be coordinated at the State level with other nutrition activities conducted by education, health, and State Cooperative Extension Service agencies. In formulating the program, the Secretary and the State may solicit the advice and recommendations of State educational agencies, the Department of Health and Human Services, and other interested groups and individuals concerned with improvement of child nutrition.
 
@@ -68,7 +68,7 @@ The Secretary is authorized to enter into agreements with State educational agen
 
 #### (i) Authorization of appropriations; enrollment data
 
-(1) For the fiscal years beginning October 1, 1977, and October 1, 1978, grants to the States forthe conduct of nutrition education and information programs shall be based on a rate of 50 cents for each child enrolled in schools or in institutions within the State, except that no State shall receive an amount less than $75,000 per year.
+(1) For the fiscal years beginning October 1, 1977, and October 1, 1978, grants to the States for the conduct of nutrition education and information programs shall be based on a rate of 50 cents for each child enrolled in schools or in institutions within the State, except that no State shall receive an amount less than $75,000 per year.
 
 (2)(A) Out of any moneys in the Treasury not otherwise appropriated, and in addition to any amounts otherwise made available for fiscal year 1995, the Secretary of the Treasury shall provide to the Secretary $1,000 for fiscal year 1995 and $10,000,000 for fiscal year 1996 for making grants under this section to each State for the conduct of nutrition education and training programs. The Secretary shall be entitled to receive the funds and shall accept the funds.
 
@@ -212,7 +212,7 @@ Subsec. (d)(2). Pub. L. 101–147, §§124(1)(B), 327(1)(A), substituted “reco
 
 Subsec. (d)(4). Pub. L. 101–147, §§124(1)(C), 327(1)(B), struck out “(12 Stat. 503, as amended; 7 U.S.C. 301–305, 307 and 308)” after “Act of July 2, 1862” and “(26 Stat. 417, as amended; 7 U.S.C. 321–326 and 328)” after “Act of August 30, 1890” and inserted “, in coordination with the activities authorized under section 21 of the National School Lunch Act”.
 
-Subsec. (d)(5). Pub. L. 101–147, §327(1)(C), struck out “(12 Stat. 503, as amended; 7 U.S.C. 301–305, 307, and 308)” after “Act of July 2, 1862” and “(26 Stat. 417, asamended; 7 U.S.C. 321–326 and 328)” after “act of August 30, 1890”.
+Subsec. (d)(5). Pub. L. 101–147, §327(1)(C), struck out “(12 Stat. 503, as amended; 7 U.S.C. 301–305, 307, and 308)” after “Act of July 2, 1862” and “(26 Stat. 417, as amended; 7 U.S.C. 321–326 and 328)” after “act of August 30, 1890”.
 
 Subsec. (h)(3). Pub. L. 101–147, §327(2), in subpar. (E), struck out “(12 Stat. 503; 7 U.S.C. 301–305, 307, and 308)” after “Act of July 2, 1862” and “(26 Stat. 417, as amended; 7 U.S.C. 321–326 and 328)” after “act of August 30, 1890”.
 

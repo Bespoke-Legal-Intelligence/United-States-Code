@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund
 
-The Secretary of the Treasury, in consultation with the Secretary of State, shall establish a Global Climate Change Response Fund to act as a mechanism for United States contributions to assist global efforts in mitigating and adapting to global climate change.
+The Secretary of the Treasury, in consultation with the Secretary of State, shall establish a Global Climate Change Response Fund to act asa mechanism for United States contributions to assist global efforts in mitigating and adapting to global climate change.
 
 #### (b) Restrictions on deposits
 
@@ -10,7 +10,7 @@ No deposits shall be made to the Global Climate Change Response Fund until the U
 
 #### (c) Use of Fund
 
-Moneys deposited into the Fund shall be used by the President, to the extent authorized andappropriated under section 2222 of title 22, solely for contributions to a financial mechanism negotiated pursuant to the United Nations Framework Convention on Climate Change, including all protocols or agreements related thereto.
+Moneys deposited into the Fund shall be used by the President, to the extent authorized and appropriated under section 2222 of title 22, solely for contributions to a financial mechanism negotiated pursuant to the United Nations Framework Convention on Climate Change, including all protocols or agreements related thereto.
 
 #### (d) Authorization of appropriations
 

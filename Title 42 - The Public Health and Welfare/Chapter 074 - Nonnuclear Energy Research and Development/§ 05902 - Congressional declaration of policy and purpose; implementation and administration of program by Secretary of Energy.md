@@ -14,7 +14,7 @@
 
 The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is act Aug. 30, 1954, ch. 1073, 68 Stat. 921, as amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-The Solar Heating and Cooling Act of 1974, referred to in subsec. (b)(3), probably means the Solar Heating andCooling Demonstration Act of 1974, Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, as amended, which is classified generally to subchapter I (§5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
+The Solar Heating and Cooling Act of 1974, referred to in subsec. (b)(3), probably means the Solar Heating and Cooling Demonstration Act of 1974, Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, as amended, which is classified generally to subchapter I (§5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
 
 The Geothermal Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, as amended, which is classified generally to chapter 24 (§1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 30 and Tables.
 

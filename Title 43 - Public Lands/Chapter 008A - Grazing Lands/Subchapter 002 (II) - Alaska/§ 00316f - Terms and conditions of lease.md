@@ -16,7 +16,7 @@ Each lease shall provide that the lessee may surrender his lease, and, if he has
 
 Each lease shall provide that the lessee may negotiate for renewal of such lease, subject to the provisions of this subchapter, at any time during the final five years of the term of such lease.
 
-(Mar. 4, 1927, ch. 513, §7, 44 Stat. 1453; July 18, 1968, Pub. L. 90–403, §2, 82 Stat. 358.)
+(Mar. 4, 1927, ch. 513, §7, 44 Stat. 1453; Pub. L. 90–403, §2, July 18, 1968, 82 Stat. 358.)
 
 #### Codification
 

@@ -10,7 +10,7 @@ The Congress finds as follows:
 
 &emsp;(3) In Public Law 96–88 the Congress found that in our Federal system the responsibility for education is reserved respectively to the States and the local school systems and other instrumentalities of the States.
 
-&emsp;(4) In Public Law 96–88 the Congress declared the purpose of the Department of Education was to supplement and complement the efforts of States, the local school systems, and other instrumentalities of the States, the private sector, public and private educational institutions, public and private nonprofit educationalresearch institutions, community based organizations, parents and schools to improve the quality of education.
+&emsp;(4) In Public Law 96–88 the Congress declared the purpose of the Department of Education was to supplement and complement the efforts of States, the local school systems, and other instrumentalities of the States, the private sector, public and private educational institutions, public and private nonprofit educational research institutions, community based organizations, parents and schools to improve the quality of education.
 
 &emsp;(5) With the establishment of the Department of Education, Congress intended to protect the rights of State and local governments and public and private educational institutions in the areas of educational policies and administration of programs and to strengthen and improve the control of such governments and institutions over their own educational programs and policies.
 

@@ -2,7 +2,7 @@
 
 All losses or destruction of, or damage to, internal revenue or other stamps, United States securities, or other obligations of the United States, and funds, occurring heretofore or hereafter, but not prior to February 4, 1935, while such stamps, securities, obligations, or funds were in the custody or possession of, or charged to, the United States Postal Service while it was acting as agent for, or on behalf of, the Treasury Department for the sale of such stamps, securities, or obligations and for the collection of such funds, irrespective of the manner in which such loss, destruction, or damage occurred, shall be replaced out of the fund under such regulations as the Secretary of the Treasury may prescribe.
 
-(July 8, 1937, ch. 444, §3a, as added Aug. 10, 1939, ch. 665, §2, 53 Stat. 1358; amended Aug. 12, 1970, Pub. L. 91–375, §§4(a), 6(m)(5), (<i>o</i>), 84 Stat. 773, 783.)
+(July 8, 1937, ch. 444, §3a, as added Aug. 10, 1939, ch. 665, §2, 53 Stat. 1358; amended Pub. L. 91–375, §§4(a), 6(m)(5), (<i>o</i>), Aug. 12, 1970, 84 Stat. 773, 783.)
 
 #### Codification
 
@@ -10,7 +10,7 @@ Section was formerly classified to section 134b–1 of Title 5 prior to the gene
 
 #### Amendments
 
-1970—Pub. L. 91–375 struck out proviso requiring joint determination by Postmaster General and Secretary of Treasury that loss or destruction of or damages to government evidences of indebtedness in custody or possession of any postmaster, Navy mail clerk, or assistant Navy mail clerk resulted from no fault or negligence on part of such employee to relieve him of liability to the United States or to authorize receipt of credit in his accounts.
+1970—Pub. L. 91–375 struck out proviso requiring joint determination by Postmaster General and Secretary of the Treasury that loss or destruction of or damages to government evidences of indebtedness in custody or possession of any postmaster, Navy mail clerk, or assistant Navy mail clerk resulted from no fault or negligence on part of such employee to relieve him of liability to the United States or to authorize receipt of credit in his accounts.
 
 #### Change of Name
 

@@ -8,7 +8,7 @@ In accordance with such regulations as he may prescribe, the Secretary of State 
 
 &emsp;(2) commercial sales of defense articles or defense services licensed or approved under section 2778 of this title;
 
-> to or for the armed forces of a foreign country or international organization in order to solicit, promote, or otherwise to secure the conclusion of such sales. Such regulations shall specify the amounts and the kinds of payments, offers, and agreements to be reported, and the form and timing of reports, and shall require reports on the names of sales agents and other persons receiving such payments. The Secretary of State shall by regulation require such recordkeeping as he determines is necessary.
+> to or for the armed forces of a foreign country or international organization in order to solicit, promote, or otherwise to secure the conclusion of such sales. Such regulations shall specify the amounts and the kinds of payments, offers, and agreements to be reported, and the form and timing of reports, and shall require reports on the names of sales agents and other persons receiving such payments. The Secretary of Stateshall by regulation require such recordkeeping as he determines is necessary.
 
 #### (b) Presidential regulation
 

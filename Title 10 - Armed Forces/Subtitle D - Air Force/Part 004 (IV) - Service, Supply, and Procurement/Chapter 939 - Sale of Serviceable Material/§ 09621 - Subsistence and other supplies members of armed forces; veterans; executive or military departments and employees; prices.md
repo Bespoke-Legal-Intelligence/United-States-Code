@@ -12,7 +12,7 @@
 
 (c) The Secretary may sell serviceable quartermaster property, other than subsistence supplies, to an officer of another armed force for his use in the service, in the same manner as these articles are sold to an officer of the Air Force.
 
-(d) A person who has been discharged honorably or under honorable conditions from theArmy, Navy, Air Force, or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Air Force.
+(d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Air Force.
 
 (e) Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged from the Air Force honorably or under honorable conditions, at the prices at which like articles are sold to members of the Air Force. This subsection does not modify section 772 or 773 of this title.
 
@@ -26,7 +26,7 @@
 
 > However, sales to those officers and employees inside the United States may be made only to those residing within military installations.
 
-(h) Appropriations for subsistence of the Air Force may be applied to the purchase of subsistence supplies for sale to members of the Air Force on active duty for the use of themselves and their families.
+(h) Appropriations for subsistence of the Air Force may be applied to the purchase of subsistence supplies for sale to members of the AirForce on active duty for the use of themselves and their families.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 579; Sept. 7, 1962, Pub. L. 87–651, title I, §118, 76 Stat. 513; Dec. 12, 1980, Pub. L. 96–513, title V, §514(16), 94 Stat. 2936; July 10, 1981, Pub. L. 97–22, §11(a)(11), 95 Stat. 138; Dec. 4, 1987, Pub. L. 100–180, div. A, title III, §313(c), 101 Stat. 1074; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Feb. 10, 1996, Pub. L. 104–106, div. A, title III, §375(b)(2), 110 Stat. 283.)
 

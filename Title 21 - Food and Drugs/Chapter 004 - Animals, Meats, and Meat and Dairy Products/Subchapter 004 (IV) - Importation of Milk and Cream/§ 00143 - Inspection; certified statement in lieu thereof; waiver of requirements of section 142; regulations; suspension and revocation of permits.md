@@ -10,7 +10,7 @@ The Secretary is authorized and directed to make and enforce such regulations as
 
 The Secretary is authorized to suspend or revoke any permit for the shipment of milk or cream into the United States when he shall find that the holder thereof has failed to comply with the provisions of or has violated this subchapter or any of the regulations made hereunder, or that the milk and/or cream brought or shipped by the holder of such permit into the United States is not produced and handled in conformity with, or that the quality thereof does not conform to, all of the provisions of section 142 of this title.
 
-(Feb. 15, 1927, ch. 155, §3, 44 Stat. 1102; 1940 Reorg. Plan No. IV, §12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695.)
+(Feb. 15, 1927, ch. 155, §3, 44 Stat. 1102; 1940 Reorg. Plan No. IV, §12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Change of Name
 

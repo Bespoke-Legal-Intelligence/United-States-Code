@@ -24,7 +24,7 @@ For purposes of this chapter, the term—
 
 &emsp;(4) “defense service”, except as provided in paragraph (7) of this section, includes any service, test, inspection, repair, training, publication, technical or other assistance, or defense information (as defined in section 2403(e) of this title), used for the purposes of making military sales, but does not include design and construction services under section 2769 of this title;
 
-&emsp;(5) “training” includes formal or informal instruction of foreign students in the United States or overseas by officers or employees of the United States, contract technicians, or contractors (including instruction at civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aid, orientation, training exercise, and military advice to foreign military units and forces;
+&emsp;(5) “training” includes formal or informal instruction of foreign students in the United States or overseas by officers or employees ofthe United States, contract technicians, or contractors (including instruction at civilian institutions), or by correspondence courses, technical, educational, or information publications and media of all kinds, training aid, orientation, training exercise, and military advice to foreign military units and forces;
 
 &emsp;(6) “major defense equipment” means any item of significant military equipment on the United States Munitions List having a nonrecurring research and development cost of more than $50,000,000 or a total production cost of more than $200,000,000;
 
@@ -42,7 +42,7 @@ For purposes of this chapter, the term—
 
 #### References in Text
 
-The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 30, 1954, ch. 1073, §1, 68 Stat.921, as amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, as amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Amendments
 

@@ -26,7 +26,7 @@ The Secretary shall—
 
 &emsp;(2) consult and coordinate the health awareness efforts of the labeling requirements of this subchapter with the Surgeon General of the United States.
 
-(Aug. 29, 1935, ch. 814, title II, §204, as added Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(3), 102 Stat. 4519.)
+(Aug. 29, 1935, ch. 814, title II, §204, as added Pub. L. 100–690, title VIII, §8001(a)(3), Nov. 18, 1988, 102 Stat. 4519.)
 
 #### References in Text
 

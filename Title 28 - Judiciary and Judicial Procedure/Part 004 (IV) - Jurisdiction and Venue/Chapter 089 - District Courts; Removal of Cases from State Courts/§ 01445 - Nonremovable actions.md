@@ -1,6 +1,6 @@
 ### §1445. Nonremovable actions
 
-(a) A civil action in any State court against a railroad or its receivers or trustees, arising under sections 51–60 of Title 45, may not be removed to any district court of the United States.
+(a) A civil action in any State court against a railroad or its receivers or trustees, arising under sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60), may not be removed to any district court of the United States.
 
 (b) A civil action in any State court against a carrier or its receivers or trustees to recover damages for delay, loss, or injury of shipments, arising under section 11706 or 14706 of title 49, may not be removed to any district court of the United States unless the matter in controversy exceeds $10,000, exclusive of interest and costs.
 
@@ -8,7 +8,7 @@
 
 (d) A civil action in any State court arising under section 40302 of the Violence Against Women Act of 1994 may not be removed to any district court of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 939; July 25, 1958, Pub. L. 85–554, §5, 72 Stat. 415; Oct. 17, 1978, Pub. L. 95–473, §2(a)(3)(A), 92 Stat. 1465; Oct. 20, 1978, Pub. L. 95–486, §9(b), 92 Stat. 1634; Sept. 13, 1994, Pub. L. 103–322, title IV, §40302(e)(5), 108 Stat. 1942; Dec. 29, 1995, Pub. L. 104–88, title III, §305(b), 109 Stat. 944.)
+(June 25, 1948, ch. 646, 62 Stat. 939; Pub. L. 85–554, §5, July 25, 1958, 72 Stat. 415; Pub. L. 95–473, §2(a)(3)(A), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 95–486, §9(b), Oct. 20, 1978, 92 Stat. 1634; Pub. L. 103–322, title IV, §40302(e)(5), Sept. 13, 1994, 108 Stat. 1942; Pub. L. 104–88, title III, §305(b), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–287, §3, Oct. 11, 1996, 110 Stat. 3388.)
 
 #### Historical and Revision Notes
 
@@ -26,21 +26,25 @@ Changes were made in phraseology.
 
 #### References in Text
 
-Sections 51–60 of Title 45, referred to in subsec. (a), are based on act Apr. 22, 1908, ch. 149, 35 Stat. 65, as amended, which is popularly known as the Employer's Liability Act.
-
 Section 40302 of the Violence Against Women Act of 1994, referred to in subsec. (d), is classified to section 13981 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
-1995—Subsec. (b). Pub. L. 104–88 substituted “carrier” for “common carrier” and “11706 or 14706” for “11707”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted “sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60)” for “sections 51–60 of Title 45”.
 
-1994—Subsec. (d). Pub. L. 103–322 added subsec. (d).
+<b>1995</b>—Subsec. (b). Pub. L. 104–88 substituted “carrier” for “common carrier” and “11706 or 14706” for “11707”.
 
-1978—Subsec. (b). Pub. L. 95–486 substituted “$10,000” for “$3,000”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–322 added subsec. (d).
+
+<b>1978</b>—Subsec. (b). Pub. L. 95–486 substituted “$10,000” for “$3,000”.
 
 Pub. L. 95–473 substituted “section 11707 of title 49” for “section 20 of Title 49”.
 
-1958—Pub. L. 85–554 substituted “Nonremovable actions” for “Carriers; nonremovable actions” in section catchline and added subsec. (c).
+<b>1958</b>—Pub. L. 85–554 substituted “Nonremovable actions” for “Carriers; nonremovable actions” in section catchline and added subsec. (c).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of Title 49, Transportation.
 
 #### Effective Date of 1995 Amendment
 

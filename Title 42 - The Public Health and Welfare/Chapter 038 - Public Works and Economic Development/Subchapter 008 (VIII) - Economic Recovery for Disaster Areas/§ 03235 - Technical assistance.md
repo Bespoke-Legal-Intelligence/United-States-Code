@@ -6,7 +6,7 @@ In carrying out the purposes of this subchapter the President is authorized to p
 
 #### (b) Grants for Federal share of administrative expenses
 
-The President is authorized to make grants to defray not to exceed 75 per centum of the administrative expenses of Recovery Planning Councils designated pursuant to section 3232 of thistitle. In determining the amount of the non-Federal share of such costs or expenses, the President shall give due consideration to all contributions both in cash and in kind, fairly evaluated, including but not limited to space, equipment, and services. Where practicable, grants-in-aid authorized under this subsection shall be used in conjunction with other available planning grants, to assure adequate and effective planning and economical use of funds.
+The President is authorized to make grants to defray not to exceed 75 per centum of the administrative expenses of Recovery Planning Councils designated pursuant to section 3232 of this title. In determining the amount of the non-Federal share of such costs or expenses, the President shall give due consideration to all contributions both in cash and in kind, fairly evaluated, including but not limited to space, equipment, and services. Where practicable, grants-in-aid authorized under this subsection shall beused in conjunction with other available planning grants, to assure adequate and effective planning and economical use of funds.
 
 (Pub. L. 89–136, title VIII, §805, as added Pub. L. 93–288, title V, §501, May 22, 1974, 88 Stat. 162.)
 

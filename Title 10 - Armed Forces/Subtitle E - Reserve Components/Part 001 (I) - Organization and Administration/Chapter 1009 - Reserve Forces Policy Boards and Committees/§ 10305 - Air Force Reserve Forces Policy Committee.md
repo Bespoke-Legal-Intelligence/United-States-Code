@@ -12,7 +12,7 @@
 
 (c) The members of the Committee shall select the Chairman from among the members on the Committee not on active duty.
 
-(d) A majority of the members of the Committee shall act whenever matters affecting both the Air National Guard of the United States andAir Force Reserve are being considered. However, when any matter solely affecting one of the Air Force Reserve components is being considered, it shall be acted upon only by the Subcommittee on Air National Guard Policy or the Subcommittee on Air Force Reserve Policy, as appropriate.
+(d) A majority of the members of the Committee shall act whenever matters affecting both the Air National Guard of the United States and Air Force Reserve are being considered. However, when any matter solely affecting one of the Air Force Reserve components is being considered, it shall be acted upon only by the Subcommittee on Air National Guard Policy or the Subcommittee on Air Force Reserve Policy, as appropriate.
 
 (e) The Subcommittee on Air National Guard Policy consists of the members of the Committee other than the Air Force Reserve members.
 

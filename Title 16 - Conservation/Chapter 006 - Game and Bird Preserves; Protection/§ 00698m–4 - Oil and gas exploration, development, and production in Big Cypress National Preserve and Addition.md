@@ -28,7 +28,7 @@ Such activities shall be permitted to occur if such activities conform to requir
 
 #### (d) Consideration of practices used in similar habitats or ecosystems
 
-In establishing standards governing the conduct of exploration or development and production activities within the boundaries of the Big Cypress National Preserve or the Addition, the Secretary shall take into consideration oil and gas exploration and development and production practices used in similar habitats or ecosystems within the Big Cypress National Preserve or the Addition at the time of promulgation of the rules and regulations under subsection (a) of this section or at the time of the submission of the application seeking authorization for such activities, as appropriate.
+In establishing standards governing the conduct of exploration or development and production activities within the boundaries of the Big Cypress National Preserve or the Addition, the Secretary shall take into consideration oil and gas exploration and development and production practices used in similar habitats or ecosystems within the Big Cypress National Preserve or the Addition at the time of promulgation of therules and regulations under subsection (a) of this section or at the time of the submission of the application seeking authorization for such activities, as appropriate.
 
 #### (e) Interim agreements with owners of non-Federal oil and gas interests prior to promulgation of rules and regulations
 
@@ -36,7 +36,7 @@ Prior to the promulgation of rules or regulations under this section, the Secret
 
 #### (f) Minerals Management Office; establishment; duties
 
-There is hereby authorized to be established a Minerals Management Office within the Office of the Superintendent of the Big Cypress National Preserve, for the purpose of ensuring, consistent with the purposes for which the Big Cypress National Preserve was established, timely consideration of and final action on applications for the exploration or development and production of non-Federal oil and gas rights located beneath the surface of lands within the boundariesof the Big Cypress National Preserve and the Addition.
+There is hereby authorized to be established a Minerals Management Office within the Office of the Superintendent of the Big Cypress National Preserve, for the purpose of ensuring, consistent with the purposes for which the Big Cypress National Preserve was established, timely consideration of and final action on applications for the exploration or development and production of non-Federal oil and gas rights located beneath the surface of lands within the boundaries of the Big Cypress National Preserve and the Addition.
 
 #### (g) Authorization of appropriations
 

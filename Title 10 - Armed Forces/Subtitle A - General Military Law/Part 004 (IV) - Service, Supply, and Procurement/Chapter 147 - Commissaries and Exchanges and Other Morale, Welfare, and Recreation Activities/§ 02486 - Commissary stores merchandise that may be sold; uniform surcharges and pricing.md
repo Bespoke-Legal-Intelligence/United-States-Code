@@ -1,0 +1,106 @@
+### §2486. Commissary stores: merchandise that may be sold; uniform surcharges and pricing
+
+(a)
+
+In General.—Commissary stores are similar to commercial grocery stores and may sell merchandise similar to that sold in commercial grocery stores.
+
+(b)
+
+Authorized Commissary Merchandise Categories.—Merchandise sold in, at, or by commissary stores may include items only in the following categories:
+
+&emsp;(1) Health and beauty aids.
+
+&emsp;(2) Meat and poultry.
+
+&emsp;(3) Fish and seafood.
+
+&emsp;(4) Produce.
+
+&emsp;(5) Food and non-food grocery items.
+
+&emsp;(6) Bakery goods.
+
+&emsp;(7) Dairy products.
+
+&emsp;(8) Tobacco products.
+
+&emsp;(9) Delicatessen items.
+
+&emsp;(10) Frozen foods.
+
+&emsp;(11) Such other merchandise categories as the Secretary of Defense may prescribe, except that the Secretary shall submit to Congress, not later than March 1 of each year, a report describing—
+
+&emsp;&emsp;(A) any addition of, or change in, a merchandise category proposed to be made under this paragraph during the one-year period beginning on that date; and
+
+&emsp;&emsp;(B) those additions and changes in merchandise categories actually made during the preceding one-year period.
+
+(c)
+
+Uniform Sales Price Surcharge or Adjustment.—An adjustment of or surcharge on sales prices in commissary stores under section 2484(b) or 2685(a) of this title or for any other purpose shall be applied as a uniform percentage of the sales price of all merchandise sold in, at, or by commissary stores. Effective on the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, the uniform percentage shall be equal to five percent and may not be changed except by a law enacted after such date.
+
+(d)
+
+Sales Price Establishment.—(1) The Secretary of Defense shall establish the sales price of each item of merchandise sold in, at, or by commissary stores at the level that will recoupthe actual product cost of the item (consistent with this section and sections 2484 and 2685 of this title).
+
+(2) Any change in the pricing policies for merchandise sold in, at, or by commissary stores shall not take effect until the Secretary of Defense submits written notice of the proposed change to Congress and a period of 90 days of continuous session of Congress expires following the date on which notice was received. For purposes of this paragraph, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment or recess of more than three days to a day certain are excluded in a computation of such 90-day period.
+
+(e)
+
+Special Rule for Brand-Name Commercial Items.—The Secretary of Defense may not use the exception provided in section 2304(c)(5) of this title regarding the procurement of a brand-name commercial item for resale in, at, or by commissary stores unless the commercial item is regularly sold outside of commissary stores under the same brand name as the name by which the commercial item will be sold in, at, or by commissary stores. In determining whether a brand name commercial item is regularly sold outside of commissary stores, the Secretary shall consider only sales of the item on a regional or national basis by commercial grocery or other retail operations consisting of multiple stores.
+
+(f)
+
+Special Rules for Certain Merchandise.—(1) Notwithstanding the general requirement that merchandise sold in, at, or by commissary stores be commissary store inventory, the Secretary of Defense may authorize the sale of items in the merchandise categories specified in paragraph (2) as noncommissary store inventory. Subsections (c) and (d) shall not apply to the pricing of such merchandise items.
+
+(2) The merchandise categories referred to in paragraph (1) are as follows:
+
+&emsp;(A) Magazines and other periodicals.
+
+&emsp;(B) Tobacco products.
+
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (c), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85, §372(e)(1), inserted heading.
+
+Subsec. (b). Pub. L. 105–85, §372(a)(1), inserted heading and substituted “Merchandise sold in, at, or by commissary stores may include items only in the following categories:” for “Merchandise sold in commissary stores may include items in the following categories:” in introductory provisions.
+
+Subsec. (b)(11). Pub. L. 105–85, §372(a)(2), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “Other categories designated in regulations prescribed by the Secretary of a military department and approved by the Secretary of Defense.”
+
+Subsec. (c). Pub. L. 105–85, §372(b), inserted heading, substituted “in, at, or by commissary stores.” for “in commissary stores.”, and inserted at end “Effective on the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, the uniform percentage shall be equal to five percent and may not be changed except by a law enacted after such date.”
+
+Subsec. (d). Pub. L. 105–85, §372(c), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe regulations establishing uniform pricing policies for merchandise authorized for sale by this section. The policies in the regulations shall—
+
+&emsp;“(1) require the establishment of a sales price of each item of merchandise at a level which will recoup the actual product cost of the item (consistent with this section and sections 2484 and 2685 of this title); and
+
+&emsp;“(2) promote the lowest practical price of merchandise sold at commissary stores.”
+
+Subsec. (e). Pub. L. 105–85, §373, inserted at end “In determining whether a brand name commercial item is regularly sold outside of commissary stores, the Secretary shall consider only sales of the item on a regional or national basis by commercial grocery or other retail operations consisting of multiple stores.”
+
+Pub. L. 105–85, §372(e)(2), inserted heading and substituted “in, at, or by commissary stores” for “in commissary stores” in two places.
+
+Subsec. (f). Pub. L. 105–85, §372(d), added subsec. (f).
+
+1996—Subsec. (e). Pub. L. 104–201 added subsec. (e).
+
+1987—Pub. L. 100–180, §313(a)(2), inserted “and pricing” in section catchline.
+
+Subsec. (d). Pub. L. 100–180, §313(a)(1), added subsec. (d).
+
+#### Regulations
+
+Section 313(b) of Pub. L. 100–180 required Secretary of Defense to prescribe regulations required by subsec. (d) of this section not later than 90 days after Dec. 4, 1987.
+
+#### Savings Provision
+
+Section 342(b) of Pub. L. 104–201 provided that: “Section 2486(e) of title 10, United States Code, as added by subsection (a), shall not affect the terms, conditions, or duration of any contract or other agreement entered into by the Secretary of Defense before the date of the enactment of this Act \[Sept. 23, 1996\] for the procurement of commercial items for resale in commissary stores.”
+
+#### Report on Merchandise Categories
+
+Section 372(f) of Pub. L. 105–85 provided that: “Not later than 30 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense shall submit to Congress a report specifying the merchandise categories authorized for sale sold in, at, or by commissary stores pursuant to regulations prescribed under subsection (b)(11) of section 2486 of title 10, United States Code, as in effect before such date.”
+

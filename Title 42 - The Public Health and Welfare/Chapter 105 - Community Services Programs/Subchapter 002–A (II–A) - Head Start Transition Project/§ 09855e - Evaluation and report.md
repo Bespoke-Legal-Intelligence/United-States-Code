@@ -2,7 +2,7 @@
 
 #### (a) Evaluation
 
-The Secretary shall, through grants, contracts or cooperative agreements, provide for the continuing evaluation of the programs assisted under this subchapter in order to determine theeffectiveness of such programs in achieving stated goals, the impact of such programs on related programs, and the implications of the design and operation of such programs for the effective delivery of services.
+The Secretary shall, through grants, contracts or cooperative agreements, provide for the continuing evaluation of the programs assisted under this subchapter in order to determine the effectiveness of such programs in achieving stated goals, the impact of such programs on related programs, and the implications of the design and operation of such programs for the effective delivery of services.
 
 #### (b) Local evaluation and information
 

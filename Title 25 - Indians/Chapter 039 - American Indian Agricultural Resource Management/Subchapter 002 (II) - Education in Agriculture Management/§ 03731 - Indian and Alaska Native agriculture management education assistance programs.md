@@ -2,7 +2,7 @@
 
 #### (a) Agricultural resources intern program
 
-(1) Notwithstanding the provisions of title 5 governing appointments in the competitive service, the Secretary shall establish and maintain in the Bureau or other appropriate office or bureau within the Department of the Interior at least 20 agricultural resources intern positions for Indian and Alaska Native students enrolled in an agriculture study program. Such positions shall be in addition to the forester intern positions authorized in section 3113(a) of this title.
+(1) Notwithstanding the provisions of title 5 governing appointments in the competitive service, the Secretary shall establish and maintain in the Bureau or other appropriate office or bureau within the Department of the Interior at least 20 agricultural resources intern positions for Indian and Alaska Native students enrolled in an agriculture study program. Such positionsshall be in addition to the forester intern positions authorized in section 3113(a) of this title.
 
 (2) For purposes of this subsection—
 
@@ -26,7 +26,7 @@
 
 (1) The Secretary shall maintain, through the Bureau, a cooperative education program for the purpose, among other things, of recruiting Indian and Alaska Native students who are enrolled in secondary schools, tribally controlled community colleges, and other postsecondary or graduate schools, for employment in professional agricultural or related positions with the Bureau or other Federal agency providing Indian agricultural or related services.
 
-(2) The cooperative educational program under paragraph (1) shall be modeled after, and shallhave essentially the same features as, the program in effect on December 3, 1993, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
+(2) The cooperative educational program under paragraph (1) shall be modeled after, and shall have essentially the same features as, the program in effect on December 3, 1993, pursuant to chapter 308 of the Federal Personnel Manual of the Office of Personnel Management.
 
 (3) The cooperative educational program shall include, among others, the following:
 

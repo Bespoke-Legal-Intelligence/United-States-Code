@@ -4,7 +4,7 @@
 
 (b) All regulations prescribed under this section shall be posted in a public place at the Supreme Court Building and shall be made reasonably available to the public in writing.
 
-(Aug. 18, 1949, ch. 479, §7, 63 Stat. 617; Dec. 29, 1982, Pub. L. 97–390, §1(b), 96 Stat. 1957.)
+(Aug. 18, 1949, ch. 479, §7, 63 Stat. 617; Pub. L. 97–390, §1(b), Dec. 29, 1982, 96 Stat. 1957.)
 
 #### Amendments
 

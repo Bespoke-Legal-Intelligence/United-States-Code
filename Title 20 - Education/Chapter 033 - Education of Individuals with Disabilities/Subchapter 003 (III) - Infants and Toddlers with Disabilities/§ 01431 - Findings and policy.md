@@ -1,0 +1,42 @@
+### §1431. Findings and policy
+
+#### (a) Findings
+
+The Congress finds that there is an urgent and substantial need—
+
+&emsp;(1) to enhance the development of infants and toddlers with disabilities and to minimize their potential for developmental delay;
+
+&emsp;(2) to reduce the educational costs to our society, including our Nation's schools, by minimizing the need for special education and related services after infants and toddlers with disabilities reach school age;
+
+&emsp;(3) to minimize the likelihood of institutionalization of individuals with disabilities and maximize the potential for their independently living in society;
+
+&emsp;(4) to enhance the capacity of families to meet the special needs of their infants and toddlers with disabilities; and
+
+&emsp;(5) to enhance the capacity of State and local agencies and service providers to identify, evaluate, and meet the needs of historically underrepresented populations, particularly minority, low-income, inner-city, and rural populations.
+
+#### (b) Policy
+
+It is therefore the policy of the United States to provide financial assistance to States—
+
+&emsp;(1) to develop and implement a statewide, comprehensive, coordinated, multidisciplinary, interagency system that provides early intervention services for infants and toddlers with disabilities and their families;
+
+&emsp;(2) to facilitate the coordination of payment for early intervention services from Federal, State, local, and private sources (including public and private insurance coverage);
+
+&emsp;(3) to enhance their capacity to provide quality early intervention services and expand and improve existing early intervention services being provided to infants and toddlers with disabilities and their families; and
+
+&emsp;(4) to encourage States to expand opportunities for children under 3 years of age who would be at risk of having substantial developmental delay if they did not receive early intervention services.
+
+(Pub. L. 91–230, title VI, §631, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 106.)
+
+#### Prior Provisions
+
+A prior section 1431, Pub. L. 91–230, title VI, §631, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1369; Pub. L. 99–457, title III, §308, Oct. 8, 1986, 100 Stat. 1165; Pub. L. 100–630, title I, §104(b), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, §401, title IX, §901(b)(129)–(142), Oct. 30, 1990, 104 Stat. 1129, 1148; Pub. L. 102–119, §§9(a), (b), 25(a)(12), (b), Oct. 7, 1991, 105 Stat. 593, 594, 606, 607; Pub. L. 102–421, title II, §202, Oct. 16, 1992, 106 Stat. 2165; Pub. L. 102–569, title IX, §912(a), Oct. 29, 1992, 106 Stat. 4486; Pub. L. 103–73, title III, §302, Aug. 11, 1993, 107 Stat. 736; Pub. L. 103–218, title IV, §401, Mar. 9, 1994, 108 Stat. 95, related to grants for personnel training, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Effective Date
+
+Section 201(b) of Pub. L. 105–17 provided that: “Part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431–1445\], as amended by title I, shall take effect on July 1, 1998.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5912 of this title; title 29 sections 725, 797b.
+

@@ -10,7 +10,7 @@
 
 (4) The proceedings in such libel cases shall conform, as nearly as may be, to the proceedings in admiralty, except that either party may demand trial by jury of any issue of fact joined in any case, and all such proceedings shall be at the suit of and in the name of the United States.
 
-(5)(A) An article that is condemned under paragraph (1) may as the court may direct, after entry of the decree, be distributed without charge to nonprofit, private entities or to Federal, State, or local government entities engaged in the distribution of food without charge to individuals, if such article—
+(5)(A) An article that is condemned under paragraph (1) may as the court may direct, afterentry of the decree, be distributed without charge to nonprofit, private entities or to Federal, State, or local government entities engaged in the distribution of food without charge to individuals, if such article—
 
 &emsp;(i) is capable of use as a human food;
 

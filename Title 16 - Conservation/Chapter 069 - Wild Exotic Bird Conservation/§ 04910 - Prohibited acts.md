@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) import any exotic bird in violation of any prohibition, suspension, or quota on importation under section 4904 or 4907 of this title;
 
-&emsp;&emsp;(B) import an exotic bird of a species that pursuant to section 4905(a)(2)(B) of this title is included in a list under section 4905 of this title, if the bird was not captive bred at a qualifying facility; or
+&emsp;&emsp;(B) import an exotic bird of a species that pursuant to section 4905(a)(2)(B) of this title is included in a list under section 4905 of thistitle, if the bird was not captive bred at a qualifying facility; or
 
 &emsp;&emsp;(C) violate any regulation promulgated by the Secretary pursuant to authority provided by this chapter.
 

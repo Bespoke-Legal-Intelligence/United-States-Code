@@ -2,7 +2,7 @@
 
 The exchange allowances or proceeds derived from the exchange or sale of passenger motor vehicles in possession of the Foreign Service abroad, in accordance with section 481(c) of title 40, shall be available without fiscal year limitation for replacement of an equal number of such vehicles.
 
-(Aug. 1, 1956, ch. 841, title I, §7, 70 Stat. 891; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282.)
+(Aug. 1, 1956, ch. 841, title I, §7, 70 Stat. 891; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 
 #### Codification
 

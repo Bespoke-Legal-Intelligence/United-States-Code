@@ -8,7 +8,7 @@
 
 &emsp;(2) the United States Government account “Refund of Moneys Erroneously Received and Covered” and other collections erroneously deposited that are not properly chargeable to another appropriation.
 
-(c)(1) The Secretary of the Treasury shall hold in the Treasury trust fund receipt account “Unclaimed Moneys of Individuals Whose Whereabouts Are Unknown” the balance remaining after the final distribution of unclaimed Postal Savings System deposits under subsection (a) of the first section of the Act of August 13, 1971 (Public Law 92–117; 85 Stat. 337). The Secretary shall use the balance to pay claims for Postal Savings System deposits without regard to the State law or the law of other jurisdictions of deposit concerning the disposition of unclaimed or abandoned property.
+(c)(1) The Secretary of the Treasury shall hold in the Treasury trust fund receipt account “Unclaimed Moneys of Individuals Whose Whereabouts Are Unknown” the balance remaining after the final distribution of unclaimed Postal Savings System deposits under subsection (a) of the first section of the Act of August 13, 1971 (Public Law 92–117; 85 Stat. 337). The Secretary shall use the balance to pay claims for Postal Savings System deposits without regard to theState law or the law of other jurisdictions of deposit concerning the disposition of unclaimed or abandoned property.
 
 (2) Necessary amounts may be appropriated without fiscal year limitation to the trust fund receipt account to pay claims for deposits when the balance in the account is not sufficient to pay the claims made within the time limitation set forth in paragraph (3) of this subsection.
 

@@ -88,7 +88,7 @@ Subsecs. (c) to (e). Pub. L. 96–470 redesignated subsecs. (c) to (e) as (a) to
 
 1978—Subsecs. (a) to (e). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
-1973—Subsec. (b). Pub. L. 93–156 substituted requirement that Commission provide annually an analysis to Congress of the administration and operation of chapter 41 of this title, for prior requirement that Commission report annually to the President for transmittal to Congress on the administration of chapter 41 of this title, including the information received by the Commission from the agencies under section 4113(b) (2) and (3) of this title.
+1973—Subsec. (b). Pub. L. 93–156 substituted requirement that Commission provide annually an analysis to Congress of the administration and operation of chapter 41 of this title, for prior requirement that Commission report annually to the President for transmittal toCongress on the administration of chapter 41 of this title, including the information received by the Commission from the agencies under section 4113(b) (2) and (3) of this title.
 
 1969—Subsec. (c). Pub. L. 91–93 struck out “on a normal cost plus interest basis” after “Fund”.
 

@@ -14,3 +14,4 @@
 - [&sect; 00583j&#8211;6 - United States release from liability](%C2%A7%2000583j%E2%80%936%20-%20United%20States%20release%20from%20liability.md)
 - [&sect; 00583j&#8211;7 - Activities of Foundation and United States Forest Service](%C2%A7%2000583j%E2%80%937%20-%20Activities%20of%20Foundation%20and%20United%20States%20Forest%20Service.md)
 - [&sect; 00583j&#8211;8 - Authorization of appropriations](%C2%A7%2000583j%E2%80%938%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00583j&#8211;9 - Federal funds](%C2%A7%2000583j%E2%80%939%20-%20Federal%20funds.md)

@@ -6,7 +6,7 @@ For purposes of this Act, the terms “independent states of the former Soviet U
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, known as the Freedom for Russiaand Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title of 1993 Amendment
 
@@ -22,7 +22,7 @@ Pub. L. 103–199, title I, §§101–103, Dec. 17, 1993, 107 Stat. 2318, 2319, 
 
 #### “SEC. 101. STATEMENT OF PURPOSE.
 
-“The purpose of this Act \[see Short Title of 1993 Amendment note above\] is to amend or repeal numerous statutory provisions that restrict or otherwise impede normal relations between the United States and the Russian Federation, Ukraine, and the other independent states of the former Soviet Union. All of the statutory provisions amended or repealed by this Act were relevant and appropriate at the time of enactment, but with the end of the Cold War, they have become obsolete. It is not the purpose of this Act to rewrite or erase history, or to forget those who suffered in the past from the injustices or repression of communist regimes in the Soviet Union, but rather to update United States law to reflect changed international circumstances and to demonstrate for reformers anddemocrats in the independent states of the former Soviet Union the resolve of the people of the United States to support the process of democratic and economic reform and to conduct business with those states in a new spirit of friendship and cooperation.
+“The purpose of this Act \[see Short Title of 1993 Amendment note above\] is to amend or repeal numerous statutory provisions that restrict or otherwise impede normal relations between the United States and the Russian Federation, Ukraine, and the other independent states of the former Soviet Union. All of the statutory provisions amended or repealed by this Act were relevant and appropriate at the time of enactment, but with the end of the Cold War, they have become obsolete. It is not the purpose of this Act to rewrite or erase history, or to forget those who suffered in the past from the injustices or repression of communist regimes in the Soviet Union, but rather to update United States law to reflect changed international circumstances and to demonstrate for reformers and democrats in the independent states of the former Soviet Union the resolve of the people of the United States to support the process of democratic and economic reform and to conduct business with those states in a new spirit of friendship and cooperation.
 
 #### “SEC. 102. FINDINGS.
 

@@ -18,9 +18,13 @@ Grants and Contracts.—The Secretary may make grants and enter into contracts f
 
 (c)
 
-Funds.—The funds required to carry out the provisions of this section shall be taken out of administrative funds deducted under section 104(a). The sum of $6,000,000 per fiscal year for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997 shall be set aside from such administrative funds for the purpose of providing technical and financial support for these centers, including up to 100 percent for services provided to American Indian tribal governments.
+Funds.—The funds required to carry out the provisions of this section shall be taken out of administrative funds deducted under section 104(a). The sum of $6,000,000 per fiscal year for each of the fiscal years 1992, 1993, 1994, 1995, 1996, and 1997 shall be set aside from such administrative funds for the purpose of providing technical and financial support for these centers, including up to 100 percent for services provided to American Indian tribal governments. There shall be available from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $3,000,000 for the period of October 1, 1997, through March 31, 1998, and such funds shall be subject to any limitation on obligations for Federal-aid highways and highway safety construction programs.
 
-(Added Pub. L. 102–240, title VI, §6004(a), Dec. 18, 1991, 105 Stat. 2169.)
+(Added Pub. L. 102–240, title VI, §6004(a), Dec. 18, 1991, 105 Stat. 2169; amended Pub. L. 105–130, §5(e)(4), Dec. 1, 1997, 111 Stat. 2558.)
+
+#### Amendments
+
+1997—Subsec. (c). Pub. L. 105–130 inserted at end “There shall be available from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $3,000,000 for the period of October 1, 1997, through March 31, 1998, and such funds shall be subject to any limitation on obligations for Federal-aid highways and highway safety construction programs.”
 
 #### Section Referred to in Other Sections
 

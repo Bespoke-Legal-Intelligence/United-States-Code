@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(A) any company that is registered or licensed under Federal or State law to engage in the business of brokering, underwriting, or dealing in securities in the United States; and
 
-&emsp;&emsp;(B) to the extent consistent with this chapter, as determined by the Board of Governors of the Federal Reserve System, any company that is an affiliate of a companydescribed in subparagraph (A) and that is engaged in the business of entering into netting contracts.
+&emsp;&emsp;(B) to the extent consistent with this chapter, as determined by the Board of Governors of the Federal Reserve System, any company that is an affiliate of a company described in subparagraph (A) and that is engaged in the business of entering into netting contracts.
 
 #### (2) Clearing organization
 

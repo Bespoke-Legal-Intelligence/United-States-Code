@@ -84,6 +84,8 @@ Functions of President under this section and section 580 of Pub. L. 100–461, 
 
 Provisions similar to those in last sentence of subsec. (a) of this section are contained in the following appropriation acts:
 
+Pub. L. 105–118, title V, §528, Nov. 26, 1997, 111 Stat. 2413.
+
 Pub. L. 104–208, div. A, title I, §101(c) \[title V, §528\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149.
 
 Pub. L. 104–107, title V, §528, Feb. 12, 1996, 110 Stat. 730.

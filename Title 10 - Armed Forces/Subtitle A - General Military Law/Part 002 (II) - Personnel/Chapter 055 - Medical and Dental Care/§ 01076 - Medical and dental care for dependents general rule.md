@@ -1,16 +1,20 @@
 ### §1076. Medical and dental care for dependents: general rule
 
-(a)(1) A dependent described in paragraph (2) is entitled, upon request, to the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject tothe availability of space and facilities and the capabilities of the medical and dental staff.
+(a)(1) A dependent described in paragraph (2) is entitled, upon request, to the medical and dental care prescribed by section 1077 of this title in facilities of the uniformed services, subject to the availability of space and facilities and the capabilities of the medical and dental staff.
 
-(2) A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
+(2) A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service described in one of the following subparagraphs:
 
-&emsp;(A) who is on active duty for a period of more than 30 days or who died while on that duty; or
+&emsp;(A) A member who is on active duty for a period of more than 30 days or died while on that duty.
 
-&emsp;(B) who died from an injury, illness, or disease incurred or aggravated—
+&emsp;(B) A member who died from an injury, illness, or disease incurred or aggravated—
 
-&emsp;&emsp;(i) while on active duty under a call or order to active duty of 30 days or less, on active duty for training, or on inactive duty training; or
+&emsp;&emsp;(i) while the member was on active duty under a call or order to active duty of 30 days or less, on active duty for training, or on inactive-duty training; or
 
-&emsp;&emsp;(ii) while traveling to or from the place at which the member is to perform, or has performed, such active duty, active duty for training, or inactive duty training.
+&emsp;&emsp;(ii) while the member was traveling to or from the place at which the member was to perform, or had performed, such active duty, active duty for training, or inactive-duty training.
+
+&emsp;(C) A member who died from an injury, illness, or disease incurred or aggravated in the line of duty while the member remained overnight immediately before the commencement of inactive-duty training, or while the member remained overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site was outside reasonable commuting distance from the member's residence.
+
+&emsp;(D) A member who incurred or aggravated an injury, illness, or disease in the line of duty while serving on active duty for a period of 30 days or less (or while traveling to or from the place of such duty) and the member's orders are modified or extended, while the member is being treated for (or recovering from) the injury, illness, or disease, so as to result in active duty for a period of more than 30 days. However, this subparagraph entitles the dependent to medical and dental care only while the member remains on active duty.
 
 (b) Under regulations to be prescribed jointly by the administering Secretaries, a dependent of a member or former member—
 
@@ -26,7 +30,7 @@
 
 (e)(1) Subject to paragraph (3), if an abused dependent of a former member of a uniformed service described in paragraph (4) needs medical or dental care for an injury or illness resulting from abuse by the member, the administering Secretary may, upon request of the abused dependent, furnish medical or dental care to the dependent for the treatment of such injury or illness in facilities of the uniformed services.
 
-(2) Subject to paragraph (3), upon request of any dependent of a former member of a uniformed service punished for an abuse described in paragraph (4), the administering Secretary for such uniformed service may furnish medical care in facilities of the uniformed services to the dependent for the treatment of any adverse health condition resulting from such dependent's knowledge of (A) the abuse, or (B) any injury or illness suffered by the abused person as a result of such abuse.
+(2) Subject to paragraph (3), upon request of any dependent of a former member of a uniformed service punished for an abuse describedin paragraph (4), the administering Secretary for such uniformed service may furnish medical care in facilities of the uniformed services to the dependent for the treatment of any adverse health condition resulting from such dependent's knowledge of (A) the abuse, or (B) any injury or illness suffered by the abused person as a result of such abuse.
 
 (3) Medical and dental care furnished to a dependent of a former member of the uniformed services in facilities of the uniformed services under paragraph (1) or (2)—
 
@@ -44,7 +48,7 @@
 
 (B) A determination of whether an offense involved abuse of a dependent of the member shall be made in accordance with regulations prescribed by the administering Secretary for such uniformed service.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, §703, title XV, §1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(3), Sept. 30, 1966, 80 Stat. 862; Pub. L. 95–397, title III, §301, Sept. 30, 1978, 92 Stat. 849; Pub. L. 96–513, title V, §511(36), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 97–252, title X, §1004(b), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–557, §19(5), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title VI, §652(a), Nov. 8, 1985, 99 Stat. 656; Pub. L. 99–661, div. A, title VI, §§604(f)(1)(C), 652(c), Nov. 14, 1986, 100 Stat. 3877, 3889; Pub. L. 100–456, div. A, title VI, §651(a), Sept. 29, 1988, 102 Stat. 1990; Pub. L. 101–189, div. A, title VI, §653(a)(4), title VII, §731(c)(1), Nov. 29, 1989, 103 Stat. 1462, 1482; Pub. L. 103–337, div. A, title VII, §§704(a), (b), title XVI, §1671(c)(7)(A), Oct. 5, 1994, 108 Stat. 2798, 2799, 3014; Pub. L. 104–106, div. A, title VII, §703, title XV, §1501(c)(11), Feb. 10, 1996, 110 Stat. 372, 499; Pub. L. 105–85, div. A, title V, §513(b), title X, §1073(d)(1)(D), Nov. 18, 1997, 111 Stat. 1730, 1905.)
 
 Historical and Revision Notes
 
@@ -104,7 +108,19 @@ A prior section 1076, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to use 
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106, §703(b), in concluding provisions, substituted “paragraph (2) may” for “clause (2) may” and struck out “A dependent described in section 1072(2)(F) of this title may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.” after “age 60.”
+1997—Subsec. (a)(2). Pub. L. 105–85, §513(b), added par. (2) and struck out former par. (2) which read as follows: “A dependent referred to in paragraph (1) is a dependent of a member of a uniformed service—
+
+&emsp;“(A) who is on active duty for a period of more than 30 days or who died while on that duty; or
+
+&emsp;“(B) who died from an injury, illness, or disease incurred or aggravated—
+
+&emsp;&emsp;“(i) while on active duty under a call or order to active duty of 30 days or less, on active duty for training, or on inactive duty training; or
+
+&emsp;&emsp;“(ii) while traveling to or from the place at which the member is to perform, or has performed, such active duty, active duty for training, or inactive duty training.”
+
+Subsec. (b). Pub. L. 105–85, §1073(d)(1)(D), made technical correction to directory language of Pub. L. 104–106, §703(b). See 1996 Amendment note below.
+
+1996—Subsec. (b). Pub. L. 104–106, §703(b), as amended by Pub. L. 105–85, §1073(d)(1)(D), in concluding provisions, substituted “paragraph (2) may” for “clause (2) may” and struck out “A dependent described in section 1072(2)(F) of this title may be provided medical and dental care pursuant to clause (2) without regard to subclause (B) of such clause.” after “age 60.”
 
 Subsec. (b)(2). Pub. L. 104–106, §703(a), substituted “death would” for “death (A) would” and struck out “, and (B) had elected to participate in the Survivor Benefit Plan established under subchapter II of chapter 73 of this title” after “60 years of age”.
 
@@ -154,6 +170,10 @@ Subsec. (e). Pub. L. 99–661, §652(c), added subsec. (e).
 
 1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is, or was at the time of his death, entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training).
 
+#### Effective Date of 1997 Amendment
+
+Section 1073(d)(1) of Pub. L. 105–85 provided that the amendment made by that section is effective Feb. 10, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1996, Pub. L. 104–106, as enacted.
+
 #### Effective Date of 1996 Amendment
 
 Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
@@ -172,7 +192,7 @@ Section 651(d) of Pub. L. 100–456 provided that: “Section 1076(f) of title 1
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 604 of Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+Amendment by section 604 of Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, seesection 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
 Section 652(e)(3) of Pub. L. 99–661 provided that: “The amendment made by subsection (c) \[amending this section\] shall apply only with respect to dependents who request medical or dental care on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 

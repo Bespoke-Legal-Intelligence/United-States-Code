@@ -16,7 +16,7 @@ Any districting and related apportionment pursuant to this section shall be base
 
 General elections to the legislature shall be held on the Tuesday next after the first Monday in November, biennially in even-numbered years. The legislature in all respects shall be organized and shall sit according to the laws of Guam.
 
-(Aug. 1, 1950, ch. 512, §10, 64 Stat. 387; Sept. 2, 1966, Pub. L. 89–552, §1, 80 Stat. 375; Dec. 8, 1983, Pub. L. 98–213, §5(b), 97 Stat. 1460.)
+(Aug. 1, 1950, ch. 512, §10, 64 Stat. 387; Pub. L. 89–552, §1, Sept. 2, 1966, 80 Stat. 375; Pub. L. 98–213, §5(b), Dec. 8, 1983, 97 Stat. 1460.)
 
 #### Amendments
 

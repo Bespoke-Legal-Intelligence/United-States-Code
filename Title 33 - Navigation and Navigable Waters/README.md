@@ -1,5 +1,5 @@
 
-33 U.S.C.<br>United States Code, 1996 Edition<br>Title 33 - NAVIGATION AND NAVIGABLE WATERS<br>From the U.S. Government Publishing Office, www.gpo.gov
+33 U.S.C.<br>United States Code, 1997 Edition<br>Title 33 - NAVIGATION AND NAVIGABLE WATERS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 33—NAVIGATION AND NAVIGABLE WATERS
 
@@ -31,7 +31,7 @@
 | [<b>23.</b>](Chapter%20023%20-%20Pollution%20Control%20of%20Navigable%20Waters/README.md) | <b>Pollution Control of Navigable Waters \[Omitted or Transferred\]</b> | <b>1151</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Vessel%20Bridge-to-Bridge%20Communication/README.md) | <b>Vessel Bridge-to-Bridge Communication</b> | <b>1201</b> |
 | [<b>25.</b>](Chapter%20025%20-%20Ports%20and%20Waterways%20Safety%20Program/README.md) | <b>Ports and Waterways Safety Program</b> | <b>1221</b> |
-| <b>26.</b> | <b>Water Pollution Prevention and Control</b> | <b>1251</b> |
+| [<b>26.</b>](Chapter%20026%20-%20Water%20Pollution%20Prevention%20and%20Control/README.md) | <b>Water Pollution Prevention and Control</b> | <b>1251</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Ocean%20Dumping/README.md) | <b>Ocean Dumping</b> | <b>1401</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Pollution%20Casualties%20on%20the%20High%20Seas%20United%20States%20Intervention/README.md) | <b>Pollution Casualties on the High Seas: United States Intervention</b> | <b>1471</b> |
 | [<b>29.</b>](Chapter%20029%20-%20Deepwater%20Ports/README.md) | <b>Deepwater Ports</b> | <b>1501</b> |
@@ -85,6 +85,7 @@ This title is referred to in title 42 section 9607.
 - [Chapter 023 - Pollution Control of Navigable Waters](Chapter%20023%20-%20Pollution%20Control%20of%20Navigable%20Waters/README.md)
 - [Chapter 024 - Vessel Bridge-to-Bridge Communication](Chapter%20024%20-%20Vessel%20Bridge-to-Bridge%20Communication/README.md)
 - [Chapter 025 - Ports and Waterways Safety Program](Chapter%20025%20-%20Ports%20and%20Waterways%20Safety%20Program/README.md)
+- [Chapter 026 - Water Pollution Prevention and Control](Chapter%20026%20-%20Water%20Pollution%20Prevention%20and%20Control/README.md)
 - [Chapter 027 - Ocean Dumping](Chapter%20027%20-%20Ocean%20Dumping/README.md)
 - [Chapter 028 - Pollution Casualties on the High Seas United States Intervention](Chapter%20028%20-%20Pollution%20Casualties%20on%20the%20High%20Seas%20United%20States%20Intervention/README.md)
 - [Chapter 029 - Deepwater Ports](Chapter%20029%20-%20Deepwater%20Ports/README.md)

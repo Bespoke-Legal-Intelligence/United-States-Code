@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(iv) the veteran's certificate of discharge or release from active duty does not bear a certification that the veteran was provided, within the 90-day period immediately before the date of such discharge or release, a complete dental examination (including dental X-rays) and all appropriate dental services and treatment indicated by the examination to be needed;
 
-&emsp;(C) which is a service-connected dental condition or disability due to combat wounds or other service trauma, or of a former prisoner of war;
+&emsp;(C) which is a service-connected dental condition or disability due to combat wounds orother service trauma, or of a former prisoner of war;
 
 &emsp;(D) which is associated with and is aggravating a disability resulting from some other disease or injury which was incurred in or aggravated by active military, naval, or air service;
 
@@ -26,7 +26,7 @@
 
 &emsp;(H) the treatment of which is medically necessary (i) in preparation for hospital admission, or (ii) for a veteran otherwise receiving care or services under this chapter.
 
-(2) The Secretary concerned shall at the time a member of the Armed Forces is discharged or released from a period of active military, naval, or air service of not less than 180 days or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days provide to such member a written explanation of the provisions of clause (B) of paragraph (1) of this subsection and enter in the service records of the member a statement signed by the member acknowledging receipt of such explanation (or, ifthe member refuses to sign such statement, a certification from an officer designated for such purpose by the Secretary concerned that the member was provided such explanation).
+(2) The Secretary concerned shall at the time a member of the Armed Forces is discharged or released from a period of active military, naval, or air service of not less than 180 days or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days provide to such member a written explanation of the provisions of clause (B) of paragraph (1) of this subsection and enter in the service records of the member a statement signed by the member acknowledging receipt of such explanation (or, if the member refuses to sign such statement, a certification from an officer designated for such purpose by the Secretary concerned that the member was provided such explanation).
 
 (3) The total amount which the Secretary may expend for furnishing, during any twelve-month period, outpatient dental services, treatment, or related dental appliances to a veteran under this section through private facilities for which the Secretary has contracted under clause (1), (2), or (5) of section 1703(a) of this title may not exceed $1,000 unless the Secretary determines, prior to the furnishing of such services, treatment, or appliances and based on an examination of the veteran by a dentist employed by the Department (or, in an area where no such dentist is available, by a dentist conducting such examination under a contract or fee arrangement), that the furnishing of such services, treatment, or appliances at such cost is reasonably necessary.
 
@@ -44,15 +44,11 @@
 
 (c) Dental appliances, wheelchairs, artificial limbs, trusses, special clothing, and similar appliances to be furnished by the Secretary under this section may be procured by the Secretary either by purchase or by manufacture, whichever the Secretary determines may be advantageous and reasonably necessary.
 
-(d) The Secretary shall furnish to each veteran who is receiving additional compensation or allowance under chapter 11 of this title, or increased pension as a veteran of a period of war, by reason of being permanently housebound or in need of regular aid and attendance, such drugs and medicines as may be ordered on prescription of a duly licensed physician as specific therapy in the treatment of any illness or injury suffered by such veteran. The Secretary shall continue to furnish such drugs and medicines so ordered to any such veteran in need of regular aid and attendance whose pension payments have been discontinued solely because such veteran's annual income is greater than the applicable maximum annual income limitation, but only so long as such veteran's annual income does not exceed such maximum annual income limitation by more than $1,000.
+(d) The Secretary shall furnish to each veteran who is receiving additional compensation or allowance under chapter 11 of this title, or increased pension as a veteran of a period of war, by reason of being permanently housebound orin need of regular aid and attendance, such drugs and medicines as may be ordered on prescription of a duly licensed physician as specific therapy in the treatment of any illness or injury suffered by such veteran. The Secretary shall continue to furnish such drugs and medicines so ordered to any such veteran in need of regular aid and attendance whose pension payments have been discontinued solely because such veteran's annual income is greater than the applicable maximum annual income limitation, but only so long as such veteran's annual income does not exceed such maximum annual income limitation by more than $1,000.
 
 (e) In order to assist the Secretary of Health and Human Services in carrying out national immunization programs under other provisions of law, the Secretary may authorize the administration of immunizations to eligible veterans who voluntarily request such immunizations in connection with the provision of care for a disability under this chapter in any Department health care facility. Any such immunization shall be made using vaccine furnished by the Secretary of Health and Human Services at no cost to the Department. For such purpose, notwithstanding any other provision of law, the Secretary of Health and Human Services may provide such vaccine to the Department at no cost. Section 7316 of this title shall apply to claims alleging negligence or malpractice on the part of Department personnel granted immunity under such section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, §612; Pub. L. 86–639, §1, July 12, 1960, 74 Stat. 472; Pub.L. 87–377, §1, Oct. 4, 1961, 75 Stat. 806; Pub. L. 87–583, §2, Aug. 14, 1962, 76 Stat. 381; Pub. L. 88–430, Aug. 14, 1964, 78 Stat. 438; Pub. L. 88–450, §7, Aug. 19, 1964, 78 Stat. 504; Pub. L. 88–664, §8, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 90–77, title II, §203(b), Aug. 31, 1967, 81 Stat. 183; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 91–500, §§2, 3, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 91–588, §§4, 9(f), Dec. 24, 1970, 84 Stat. 1583, 1585; Pub. L. 93–82, title I, §103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, §103(a), title II, §§202(f), 210(a)(3), Oct. 21, 1976, 90 Stat. 2844, 2856, 2862; Pub. L. 95–588, title III, §302, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title I, §§101, 102(b), June 13, 1979, 93 Stat. 47; Pub. L. 96–151, title II, §§203, 204, Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–35, title XX, §2002(a), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–37, §§3(b), 5(b), (c), Aug. 14, 1981, 95 Stat. 936, 937; Pub. L. 97–72, title I, §§102(b), 103(a), (b), Nov. 3, 1981, 95 Stat. 1048, 1049; Pub. L. 97–295, §4(17), (95)(A), Oct. 12, 1982, 96 Stat. 1306, 1313; Pub. L. 99–166, title I, §104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §§19011(b), 19012(c)(1), (2), Apr. 7, 1986, 100 Stat. 375, 382; Pub. L. 99–576, title II, §§202, 231(b), 237(b)(2), title VII, §702(5), Oct. 28, 1986, 100 Stat. 3254, 3263, 3267, 3301; Pub. L. 100–322, title I, §§101(a)–(c), (d)(2), (e)(1), (2), (f), (g)(1), (h)(1), 106, May 20, 1988, 102 Stat. 489–492, 494; Pub. L. 101–508, title VIII, §8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–25, title III, §334(a), (c), Apr. 6, 1991, 105 Stat. 88, 89; renumbered §1712 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (5), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §§301, 302, Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title I, §103, Nov. 4, 1992, 106 Stat. 4946; Pub. L. 103–210, §1(b), Dec. 20, 1993, 107 Stat. 2496; Pub. L. 103–446, title XII, §1201(d)(3), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §§101(e), 103(a)(2), Nov. 2, 1994, 108 Stat. 4784, 4786; Pub. L. 104–110, title I, §101(a)(2), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §101(b)(2)–(c)(2)(A), Oct. 9, 1996, 110 Stat. 3179.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 8013(e) of Pub. L. 101–508, see Effective and Termination Dates of 1990 Amendment note below.</i>
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, §612; Pub. L. 86–639, §1, July 12, 1960, 74 Stat. 472; Pub. L. 87–377, §1, Oct. 4, 1961, 75 Stat. 806; Pub. L. 87–583, §2, Aug. 14, 1962, 76 Stat. 381; Pub. L. 88–430, Aug. 14, 1964, 78 Stat. 438; Pub. L. 88–450, §7, Aug. 19, 1964, 78 Stat. 504; Pub. L. 88–664, §8, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 90–77, title II, §203(b), Aug. 31, 1967, 81 Stat. 183; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 91–500, §§2, 3, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 91–588, §§4, 9(f), Dec. 24, 1970, 84 Stat. 1583, 1585; Pub. L. 93–82, title I, §103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, §103(a), title II, §§202(f), 210(a)(3), Oct. 21, 1976, 90 Stat. 2844, 2856, 2862; Pub. L. 95–588, title III, §302, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title I, §§101, 102(b), June 13, 1979, 93 Stat. 47; Pub. L. 96–151, title II, §§203, 204, Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–35, title XX, §2002(a), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–37, §§3(b), 5(b), (c), Aug. 14, 1981, 95 Stat. 936, 937; Pub. L. 97–72, title I, §§102(b), 103(a), (b), Nov. 3, 1981, 95 Stat. 1048, 1049; Pub. L. 97–295, §4(17), (95)(A), Oct. 12, 1982, 96 Stat. 1306, 1313; Pub. L. 99–166, title I, §104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §§19011(b), 19012(c)(1), (2), Apr. 7, 1986, 100 Stat. 375, 382; Pub. L. 99–576, title II, §§202, 231(b), 237(b)(2), title VII, §702(5), Oct. 28, 1986, 100 Stat. 3254, 3263, 3267, 3301; Pub. L. 100–322, title I, §§101(a)–(c), (d)(2), (e)(1), (2), (f), (g)(1), (h)(1), 106, May 20, 1988, 102 Stat. 489–492, 494; Pub. L. 101–508, title VIII, §8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–25, title III, §334(a), (c), Apr. 6, 1991, 105 Stat. 88, 89; renumbered §1712 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (5), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §§301, 302, Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title I, §103, Nov. 4, 1992, 106 Stat. 4946; Pub. L. 103–210, §1(b), Dec. 20, 1993, 107 Stat. 2496; Pub. L. 103–446, title XII, §1201(d)(3), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §§101(e), 103(a)(2), Nov. 2, 1994, 108 Stat. 4784, 4786; Pub. L. 104–110, title I, §101(a)(2), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §101(b)(2)–(c)(2)(A), Oct. 9, 1996, 110 Stat. 3179.)
 
 #### References in Text
 
@@ -154,15 +150,15 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-1990—Subsec. (f)(1). Pub. L. 101–508, §8013(b)(1), (e), temporarily substituted “section 610(a)(2)” for “section 610(a)(2)(B)”. See Effective and Termination Dates of 1990 Amendment note below.
+1990—Subsec. (f)(1). Pub. L. 101–508, §8013(b)(1), substituted “section 610(a)(2)” for “section 610(a)(2)(B)”.
 
-Subsec. (f)(3) to (7). Pub. L. 101–508, §8013(b)(2), (3), (e), temporarily redesignated pars. (5) and (7) as (3) and (4), respectively, and struck out former pars. (3), (4), and (6) which read as follows:
+Subsec. (f)(3) to (7). Pub. L. 101–508, §8013(b)(2), (3), redesignated pars. (5) and (7) as (3) and (4), respectively, and struck out former pars. (3), (4), and (6) which read as follows:
 
 “(3) A veteran may not be required to make a payment under this subsection for services furnished under subsection (a) of this section during any 90-day period to the extent that such payment would cause the total amount paid by the veteran under this subsection for medical services furnished during that period and under section 610(f) of this title for hospital and nursing home care furnished during that period to exceed the amount of the inpatient Medicare deductible in effect on the first day of such 90-day period.
 
 “(4) A veteran may not be required to make a payment under this subsection if such payment would result in the veteran paying, under this subsection and section 610(f) of this title, a total amount greater than four times the amount of the inpatient Medicare deductible for care or services, or any combination thereof, furnished under this chapter during any 365-calendar-day period.
 
-“(6) For the purposes of this subsection, the term ‘inpatient Medicare deductible’ means the amount of the inpatient hospital deductible in effect under section 1813(b) of the Social Security Act (42 U.S.C. 1395e(b)).” See Effective and Termination Dates of 1990 Amendment note below.
+“(6) For the purposes of this subsection, the term ‘inpatient Medicare deductible’ means the amount of the inpatient hospital deductible in effect under section 1813(b) of the Social Security Act (42 U.S.C. 1395e(b)).”
 
 1988—Pub. L. 100–322, §101(h)(1), substituted “Eligibility for outpatient services” for “Eligibility for medical treatment” in section catchline.
 
@@ -344,13 +340,13 @@ Subsec. (h). Pub. L. 88–664 added subsec. (h).
 
 Amendment by Pub. L. 103–210 effective as of Aug. 2, 1990, see section 1(c)(1) of Pub. L. 103–210, set out as a note under section 1710 of this title.
 
-#### Effective and Termination Dates of 1990 Amendment
+#### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 to remain in effect through the period covered by Pub. L. 102–145, see section 111 of Pub. L. 102–145, set out as a note under section 1710 of this title.
 
 Amendment by Pub. L. 101–508 to remain in effect through the period covered by Pub. L. 102–109, see section 111 of Pub. L. 102–109, set out as a note under section 1710 of this title.
 
-Amendment by Pub. L. 101–508 applicable with respect to hospital care and medical services received after Nov. 5, 1990, and expires Sept. 30, 1998, see section 8013(d) and (e) of Pub. L. 101–508, as amended, set out as a note under section 1710 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to hospital care and medical services received after Nov. 5, 1990, see section 8013(d) of Pub. L. 101–508, as amended, set out as a note under section 1710 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -412,7 +408,7 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Disability of Veterans of Spanish-American War
 
-Section 101(g)(2) of Pub. L. 100–322, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Any disability of a veteran of the Spanish-American War, upon application for outpatient medical services under section 1712 or 1724 of title 38, United States Code, shall be considered for the purposes thereof to be a service-connected disabilty \[sic\] and, for the purposes of section 1712(b) of such title, to be compensable in degree.”
+Section 101(g)(2) of Pub. L. 100–322, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Any disability of a veteran of the Spanish-American War, upon application for outpatient medicalservices under section 1712 or 1724 of title 38, United States Code, shall be considered for the purposes thereof to be a service-connected disabilty \[sic\] and, for the purposes of section 1712(b) of such title, to be compensable in degree.”
 
 #### Pilot Program of Mobile Health-Care Clinics
 
@@ -420,49 +416,7 @@ Section 113 of Pub. L. 100–322 authorized Administrator of Veterans’ Affairs
 
 #### Pilot Program of Community-Based Residential Care for Homeless Chronically Mentally Ill and Other Veterans
 
-Section 115(a)–(f) of Pub. L. 100–322, as amended by Pub. L. 101–237, title II, §201(c), Dec. 18, 1989, 103 Stat.2066; Pub. L. 102–83, §§5(c)(2), 6(j)(1), Aug. 6, 1991, 105 Stat. 406, 409; Pub. L. 102–405, title I, §107(h), Oct. 9, 1992, 106 Stat. 1978; Pub. L. 103–452, title I, §103(e), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(a), Feb. 13, 1996, 110 Stat. 769; Pub. L. 104–275, title VI, §601(a), Oct. 9, 1996, 110 Stat. 3344, provided that:
-
-“(a)
-
-Authority for Program.—(1) The Secretary of Veterans Affairs shall conduct a pilot program to provide care and treatment and rehabilitative services (directly or by contract) in halfway houses, therapeutic communities, psychiatric residential treatment centers, and other community-based treatment facilities to homeless veterans suffering from chronic mental illness disabilities who are eligible for care under section 1710(a)(1) of title 38, United States Code.
-
-“(2) As part of the pilot program, the Secretary may also provide such care and treatment and rehabilitative services—
-
-&emsp;“(A) to veterans being furnished hospital or nursing home care by the Secretary for a chronic mental illness disability; and
-
-&emsp;“(B) to veterans with service-connected chronic mental illness disabilities.
-
-“(b)
-
-Criteria for Facilities.—Before furnishing care and treatment and rehabilitative services by contract under subsection (a) to a veteran through a facility described in subsection (a), the Secretary shall approve (in accordance with criteria which the Secretary shall prescribe) the quality and effectiveness of the program operated by such facility for the purpose for which such veteran is to be furnished such care and services.
-
-“(c)
-
-In-Kind Assistance.—The Secretary may provide in-kind assistance (through the services of Department of Veterans Affairs employees and the sharing of other Department of Veterans Affairs resources) to a facility described in subsection (a) under this section. Any such in-kind assistance shall be provided under a contract between the Department of Veterans Affairs and the contract facility. The Secretary may provide such assistance only for use solely in the furnishing of appropriate care and services under this section and only if, under such contract, the Department of Veterans Affairs receives reimbursement for the full cost of such assistance, including the cost of services and supplies and normal depreciation and amortization of equipment. Such reimbursement may be made by reduction in the charges to the United States or by payment to the United States. Any funds received through such reimbursement shall be credited to funds allotted to the Department of Veterans Affairs facility that provided the assistance.
-
-“(d)
-
-Duration of Program.—The authority for the pilot program authorized by this section expires on December 31, 1998.
-
-“(e)
-
-Report.—Not later than February 1, 1989, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the experience of the Veterans’ Administration under the pilot program through September 30, 1988, and the recommendation of the Administrator (together with the reasons for such recommendation) as to whether the pilot program should be continued.
-
-“(f)
-
-Funding.—(1) There is authorized to be appropriated for the pilot program under this section $6,000,000 for each of fiscal years 1988 and 1989.
-
-“(2) Of the amounts appropriated for the pilot program for each such fiscal year, not less than $250,000 shall be expended for management and monitoring of the program to ensure that a high quality of care is provided under the program and to ensure an accurate accounting of funds for the program.
-
-“(3) During fiscal year 1989, funds may not be obligated for the pilot program under this section other than funds specifically appropriated for that program.”
-
-\[Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.\]
-
-\[Pub. L. 101–110, §1(b), Oct. 6, 1989, 103 Stat. 682, provided that: “Notwithstanding the provisions of subsection (d) of section 115 of the Veterans Benefits and Services Act of 1988 (Public Law 100–322) \[set out above, which prior to amendment by Pub. L. 101–237 contained pilot program expiration date of Sept. 30, 1989\], the authority for the pilot program authorized by such section shall expire on November 30, 1989.”\]
-
-\[For provisions ratifying actions taken by the Secretary of Veterans Affairs between Oct. 1, 1989, and Oct. 6, 1989, in carrying out section 115 of Pub. L. 100–322, set out above, see section 3(b) of Pub. L. 101–110, set out as a note under section 1720B of this title.\]
-
-\[For provisions ratifying actions taken by the Secretary of Veterans Affairs between Dec. 1, 1989, and Dec. 18, 1989, in carrying out section 115 of Pub. L. 100–322, set out above, see section 604 of Pub. L. 101–237, set out as a note under section 1720B of this title.\]
+Section 115(a)–(f) of Pub. L. 100–322, as amended by Pub. L. 101–237, title II, §201(c), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–83, §§5(c)(2), 6(j)(1), Aug. 6, 1991, 105 Stat. 406, 409; Pub. L. 102–405, title I, §107(h), Oct. 9, 1992, 106 Stat. 1978; Pub. L. 103–452, title I, §103(e), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(a), Feb. 13, 1996, 110 Stat. 769; Pub. L. 104–275, title VI, §601(a), Oct. 9, 1996, 110 Stat. 3344, provided for a pilot program to provide care and treatment in community-based facilities to homeless veterans suffering from chronic mental illness, prior to repeal by Pub. L. 105–114, title II, §202(c)(4), Nov. 21, 1997, 111 Stat. 2287.
 
 #### Report on Treatment and Services for Chronically Mentally Ill Veterans
 
@@ -488,7 +442,7 @@ Section 103(c) of Pub. L. 97–72, as amended by Pub. L. 102–83, §5(c)(2), Au
 
 #### Study of Home Modifications for Totally Blinded Service-Connected Veterans; Report Not Later Than October 1, 1979
 
-Section 505 of Pub. L. 96–22 directed Administrator of Veterans’ Affairs to submit a report to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Oct. 1, 1979, on needs of veterans who are totally blind from service-connected causes for home modifications the cost of which would exceed theamount allowable for such purposes under subsec. (a) of this section and on reasons why such veterans have not applied for home health services.
+Section 505 of Pub. L. 96–22 directed Administrator of Veterans’ Affairs to submit a report to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Oct. 1, 1979, on needs of veterans who are totally blind from service-connected causes for home modifications the cost of which would exceed the amount allowable for such purposes under subsec. (a) of this section and on reasons why such veterans have not applied for home health services.
 
 #### Annual Report to Congress on Results of Regulations Prescribed To Carry Out Special Priorities in Furnishing Medical Services
 

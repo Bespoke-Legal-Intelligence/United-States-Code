@@ -90,7 +90,7 @@ The annuity of an individual who shall have been an employee representative shal
 
 The annuity of any individual under subsection (a) of this section for any month shall, after any reduction pursuant to paragraph (iii) of section 231a(a)(1) of this title, be reduced, but not below zero, by the amount of any monthly benefit (before any deductions on account of work) payable to that individual for that month under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
 
-(Aug. 29, 1935, ch. 812, §3, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I. §101, 88 Stat. 1319; amended Dec. 20, 1977, Pub. L. 95–216, title III, §358(a), 91 Stat. 1556; Dec. 23, 1980, Pub. L. 96–582, §1, 94 Stat. 3374; Aug. 13, 1981, Pub. L. 97–35, title XI, §1118, 95 Stat. 630; Aug. 12, 1983, Pub. L. 98–76, title I, §101(a), 102(a), 107(a), (b), title IV, §§404(1), (2), 405(a), 97 Stat. 411, 413, 418, 434, 435; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095.)
+(Aug. 29, 1935, ch. 812, §3, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1319; amended Pub. L. 95–216, title III, §358(a), Dec. 20, 1977, 91 Stat. 1556; Pub. L. 96–582, §1, Dec. 23, 1980, 94 Stat. 3374; Pub. L. 97–35, title XI, §1118, Aug. 13, 1981, 95 Stat. 630; Pub. L. 98–76, title I, §101(a), 102(a), 107(a), (b), title IV, §§404(1), (2), 405(a), Aug. 12, 1983, 97 Stat. 411, 413, 418, 434, 435; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 

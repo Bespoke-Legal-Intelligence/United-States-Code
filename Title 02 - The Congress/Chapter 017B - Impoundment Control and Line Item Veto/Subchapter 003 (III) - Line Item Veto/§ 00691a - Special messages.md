@@ -18,7 +18,7 @@ For each law from which a cancellation has been made under this subchapter, the 
 
 &emsp;(E) all facts, circumstances and considerations relating to or bearing upon the cancellation, and to the maximum extent practicable, the estimated effect of the cancellation upon the objects, purposes and programs for which the canceled authority was provided; and
 
-&emsp;(F) include the adjustments that will be made pursuant to section 691c of this title to the discretionary spending limits under section 665 of this title and an evaluation of the effects of those adjustments upon the sequestration procedures of section 901 of this title.
+&emsp;(F) include the adjustments that will be made pursuant to section 691c of this title to the discretionary spending limits under section 901(c) of this title and an evaluation of the effects of those adjustments upon the sequestration procedures of section 901 of this title.
 
 (2) In the case of a cancellation of any dollar amount of discretionary budget authority or item of new direct spending, the special message shall also include, if applicable—
 
@@ -34,11 +34,15 @@ For each law from which a cancellation has been made under this subchapter, the 
 
 (2) Any special message transmitted under this subchapter shall be printed in the first issue of the Federal Register published after such transmittal.
 
-(Pub. L. 93–344, title X, §1022, as added Pub. L. 104–130, §2(a), Apr. 9, 1996, 110 Stat. 1201.)
+(Pub. L. 93–344, title X, §1022, as added Pub. L. 104–130, §2(a), Apr. 9, 1996, 110 Stat. 1201; amended Pub. L. 105–33, title X, §10121(a), Aug. 5, 1997, 111 Stat. 696.)
 
 #### Termination of Section
 
 <i>For termination of section by section 5 of Pub. L. 104–130, see Effective and Termination Dates note set out under section 691 of this title.</i>
+
+#### Amendments
+
+1997—Subsec. (b)(1)(F). Pub. L. 105–33 substituted “section 901(c) of this title” for “section 665 of this title”.
 
 #### Section Referred to in Other Sections
 

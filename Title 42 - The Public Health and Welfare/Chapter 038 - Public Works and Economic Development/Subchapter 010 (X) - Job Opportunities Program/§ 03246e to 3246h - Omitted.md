@@ -2,9 +2,9 @@
 
 #### Codification
 
-Sections were omitted pursuant to section 3246g of this title, which provided that no further obligation offunds appropriated under this subchapter shall be made by the Secretary of Commerce after Sept. 30, 1981.
+Sections were omitted pursuant to section 3246g of this title, which provided that no further obligation of funds appropriated under this subchapter shall be made by the Secretary of Commerce after Sept. 30, 1981.
 
-Section 3246e, Pub. L. 89–136, title X, §1005, formerly §1006, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1855; renumbered §1005 and amended Pub. L. 94–487, title I, §§125, 126, Oct. 12, 1976, 90 Stat. 2338, authorized the prescription of rules, regulations, and procedures.
+Section 3246e, Pub. L. 89–136, title X, §1005, formerly §1006, as added Pub. L. 93–567, title III, §301, Dec. 31,1974, 88 Stat. 1855; renumbered §1005 and amended Pub. L. 94–487, title I, §§125, 126, Oct. 12, 1976, 90 Stat. 2338, authorized the prescription of rules, regulations, and procedures.
 
 Section 3246f, Pub. L. 89–136, title X, §1006, formerly §1007, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1855; renumbered §1006 and amended Pub. L. 94–487, title I, §§125, 127, Oct. 12, 1976, 90 Stat. 2338, authorized appropriations.
 

@@ -1,0 +1,40 @@
+### §7714. Authorization of appropriations
+
+#### (a) Payments for Federal acquisition of real property
+
+For the purpose of making payments under section 7702 of this title, there are authorized to be appropriated $16,750,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+
+#### (b) Basic payments; payments for heavily impacted local educational agencies
+
+For the purpose of making payments under subsections (b) and (f) of section 7703 of this title, there are authorized to be appropriated $775,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years, of which 6 percent shall be available, until expended, for each such fiscal year to carry out section 7703(f) of this title.
+
+#### (c) Payments for children with disabilities
+
+For the purpose of making payments under section 7703(d) of this title, there are authorized to be appropriated $45,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+
+#### (d) Payments for increases in military children
+
+For the purpose of making payments under section 7706 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+
+#### (e) Construction
+
+For the purpose of carrying out section 7707 of this title, there are authorized to be appropriated $25,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+
+#### (f) Facilities maintenance
+
+For the purpose of carrying out section 7708 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years.
+
+#### (g) Additional assistance for certain Federal property local educational agencies
+
+For the purpose of carrying out section 7702(j) of this title there are authorized to be appropriated such sums as are necessary beginning in fiscal year 1998 and for each succeeding fiscal year.
+
+(Pub. L. 89–10, title VIII, §8014, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3772; amended Pub. L. 104–78, title III, Nov. 13, 1997, 111 Stat. 1498.)
+
+#### Amendments
+
+1997—Subsec. (g). Pub. L. 105–78 added subsec. (g).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7702, 7703, 7706, 7707, 7708 of this title.
+

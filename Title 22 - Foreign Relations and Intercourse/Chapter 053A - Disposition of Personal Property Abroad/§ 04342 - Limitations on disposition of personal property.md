@@ -12,5 +12,5 @@ The chief of mission to a foreign country, or a designee of such chief of missio
 
 Violation of this section, or other importation, sale, or other disposition of personal property within a foreign country which violates its laws or regulations or governing international law and is prohibited by regulations and policies, rules, and procedures issued pursuant to section 4343 of this title, shall be grounds for disciplinary action against an employee.
 
-(Aug. 1, 1956, ch. 841, title III, §302, as added Dec. 22, 1987, Pub. L. 100–204, title I, §186(a), 101 Stat. 1368.)
+(Aug. 1, 1956, ch. 841, title III, §302, as added Pub. L. 100–204, title I, §186(a), Dec. 22, 1987, 101 Stat. 1368.)
 

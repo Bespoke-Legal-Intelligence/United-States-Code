@@ -12,7 +12,7 @@ Each individual accepting employment without a break in service with the Distric
 
 &emsp;(4) have the grade and rate of pay determined in accordance with regulations established pursuant to title XI of the District of Columbia Comprehensive Merit Personnel Act of 1978 \[D.C. Code, §1.612.1 et seq.\], except that no employee shall suffer a loss in the basic rate of pay or in seniority;
 
-&emsp;(5) if applicable, retain a rate of pay including the physician's comparability allowanceunder the provisions of section 5948 of title 5, and continue to receive such allowance under the terms of the then prevailing agreement until its expiration or for a period of 2 years from the date of appointment by the District government, whichever occurs later;
+&emsp;(5) if applicable, retain a rate of pay including the physician's comparability allowance under the provisions of section 5948 of title 5, and continue to receive such allowance under the terms of the then prevailing agreement until its expiration or for a period of 2 years from the date of appointment by the District government, whichever occurs later;
 
 &emsp;(6) be entitled to the same health and life insurance benefits as are available to District employees in the applicable service;
 

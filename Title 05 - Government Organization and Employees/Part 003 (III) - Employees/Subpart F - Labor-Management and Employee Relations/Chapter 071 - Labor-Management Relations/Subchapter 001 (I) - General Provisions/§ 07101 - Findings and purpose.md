@@ -88,7 +88,7 @@ Sec. 3. <i>Application</i>. (a) This Order applies to all employees and agencies
 
 (2) the Central Intelligence Agency;
 
-(3) any other agency, or office, bureau, or entity within an agency, which has as a primary function intelligence, investigative, or security work, when thehead of the agency determines, in his sole judgment, that the Order cannot be applied in a manner consistent with national security requirements and considerations; or
+(3) any other agency, or office, bureau, or entity within an agency, which has as a primary function intelligence, investigative, or security work, when the head of the agency determines, in his sole judgment, that the Order cannot be applied in a manner consistent with national security requirements and considerations; or
 
 (4) any office, bureau or entity, within an agency which has as a primary function investigation or audit of the conduct or work of officials or employees of the agency for the purpose of ensuring honesty and integrity in the discharge of their official duties, when the head of the agency determines, in his sole judgment, that the Order cannot be applied in a manner consistent with the internal security of the agency.
 
@@ -172,7 +172,7 @@ Sec. 7. <i>Recognition in general</i>. (a) An agency shall accord exclusive reco
 
 (b) A labor organization seeking recognition shall submit to the agency a roster of its officers and representatives, a copy of its constitution and by-laws, and a statement of its objectives.
 
-(c) When recognition of a labor organization has been accorded, the recognition continues as long as the organization continues to meet the requirements of this Order applicable to that recognition, except that this section does not require an election to determine whether an organization should become, or continue to be recognized as, exclusive representative of the employees in any unit or subdivision thereof within 12 months after a prior valid election with respect to such unit.
+(c) When recognition of a labor organization has been accorded, the recognition continues as long as the organization continues to meet the requirements of this Order applicable to that recognition, except that this section does not require an election to determine whether an organization should become, or continue to be recognized as, exclusive representative of the employees in any unit or subdivision thereof within 12months after a prior valid election with respect to such unit.
 
 (d) Recognition of a labor organization does not—
 
@@ -180,7 +180,7 @@ Sec. 7. <i>Recognition in general</i>. (a) An agency shall accord exclusive reco
 
 (2) preclude or restrict consultations and dealings between an agency and a veterans organization with respect to matters of particular interest to employees with veterans preference; or
 
-(3) preclude an agency from consulting or dealing with a religious, social, fraternal, professional or otherlawful association, not qualified as a labor organization, with respect to matters or policies which involve individual members of the association or are of particular applicability to it or its members. Consultations and dealings under subparagraph (3) of this paragraph shall be so limited that they do not assume the character of formal consultation on matters of general employee-management policy covering employees in that unit or extend to areas where recognition of the interests of one employee group may result in discrimination against or injury to the interests of other employees.
+(3) preclude an agency from consulting or dealing with a religious, social, fraternal, professional or other lawful association, not qualified as a labor organization, with respect to matters or policies which involve individual members of the association or are of particular applicability to it or its members. Consultations and dealings under subparagraph (3) of this paragraph shall be so limited that they do not assume the character of formal consultation on matters of general employee-management policy covering employees in that unit or extend to areas where recognition of the interests of one employee group may result in discrimination against or injury to the interests of other employees.
 
 (e) \[Revoked by Ex. Ord. No. 11838, Feb. 6, 1975, 40 F.R. 5743.\]
 
@@ -224,7 +224,7 @@ Sec. 10. <i>Exclusive recognition</i>. (a) An agency shall accord exclusive reco
 
 Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
 
-(b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
+(b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internalsecurity practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
 
 (c) If, in connection with negotiations, an issue develops as to whether a proposal is contrary to law, regulation, controlling agreement, or this order and therefore not negotiable, it shall be resolved as follows:
 
@@ -426,7 +426,7 @@ Members shall have 2-year terms on the Council, which may be extended by the Pre
 
 (2) The Council shall seek input from nonmember Federal agencies, particularly smaller agencies. It also may, from time to time, invite experts from the private and public sectors to submit information. The Council shall also seek input from Federal manager and professional associations, companies, nonprofit organizations, State and local governments. Federal employees, and customers of Federal services, as needed.
 
-(3) To the extent permitted by law and subject to the availability of appropriations, OPM shall provide suchfacilities, support, and administrative services to the Council as the Director of OPM deems appropriate.
+(3) To the extent permitted by law and subject to the availability of appropriations, OPM shall provide such facilities, support, and administrative services to the Council as the Director of OPM deems appropriate.
 
 (4) Members of the Council shall serve without compensation for their work on the Council, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law, for persons serving intermittently in Government service.
 
@@ -462,5 +462,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of National Partnership Council
 
-Term of the National Partnership Council extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the National Partnership Council extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the National Partnership Council extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 

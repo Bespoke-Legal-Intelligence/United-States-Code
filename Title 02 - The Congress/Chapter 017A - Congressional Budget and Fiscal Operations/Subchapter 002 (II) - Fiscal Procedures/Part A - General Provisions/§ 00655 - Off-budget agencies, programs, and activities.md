@@ -4,13 +4,21 @@
 
 (b) All receipts and disbursements of the Federal Financing Bank with respect to any obligations which are issued, sold, or guaranteed by a Federal agency shall be treated as a means of financing such agency for purposes of section 1105 of title 31 and for purposes of this Act.
 
-(Pub. L. 93–344, title IV, §406, as added Pub. L. 99–177, title II, §214, Dec. 12, 1985, 99 Stat. 1059.)
+(Pub. L. 93–344, title IV, §405, formerly §406, as added Pub. L. 99–177, title II, §214, Dec. 12, 1985, 99 Stat. 1059; renumbered §405, Pub. L. 105–33, title X, §10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
 
 #### References in Text
 
 This Act, referred to in text, means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
+#### Prior Provisions
+
+A prior section 405 of Pub. L. 93–344 was renumbered section 404 and is classified to section 654 of this title.
+
 #### Effective Date
 
 Section effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 661d of this title.
 

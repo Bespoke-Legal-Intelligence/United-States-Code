@@ -38,7 +38,7 @@
 
 (3) In a case in which the relative ranking of a proposed project has changed since the last report under this subsection was submitted, the Secretary shall also include in the report a description of the reasons for the change in the ranking, including an explanation of any change in the scoring of the project under the Department's scoring system for proposed major medical construction projects.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 58, §5007; amended Pub. L. 99–166, title III, §302(a)–(c)(1), Dec. 3, 1985, 99 Stat. 955; Pub. L. 99–576, title II, §222, Oct. 28, 1986, 100 Stat. 3259; renumbered §8107 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991,105 Stat. 238, 239; Pub. L. 102–54, §14(f)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title II, §204, Oct. 9, 1996, 110 Stat. 3188.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 58, §5007; amended Pub. L. 99–166, title III, §302(a)–(c)(1), Dec. 3, 1985, 99 Stat. 955; Pub. L. 99–576, title II, §222, Oct. 28, 1986, 100 Stat. 3259; renumbered §8107 and amended Pub.L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title II, §204, Oct. 9, 1996, 110 Stat. 3188.)
 
 #### References in Text
 

@@ -1,5 +1,5 @@
 
-7 U.S.C.<br>United States Code, 1996 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+7 U.S.C.<br>United States Code, 1997 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 7—AGRICULTURE
 
@@ -49,14 +49,14 @@
 | [<b>32.</b>](Chapter%20032%20-%20Peanut%20Statistics/README.md) | <b>Peanut Statistics</b> | <b>951</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Farm%20Tenancy/README.md) | <b>Farm Tenancy</b> | <b>1000</b> |
 | [<b>34.</b>](Chapter%20034%20-%20Sugar%20Production%20and%20Control/README.md) | <b>Sugar Production and Control \[Omitted or Repealed\]</b> | <b>1100</b> |
-| <b>35.</b> | <b>Agricultural Adjustment Act of 1938</b> | <b>1281</b> |
-| <b>35A.</b> | <b>Price Support of Agricultural Commodities</b> | <b>1421</b> |
+| [<b>35.</b>](Chapter%20035%20-%20Agricultural%20Adjustment%20Act%20of%201938/README.md) | <b>Agricultural Adjustment Act of 1938</b> | <b>1281</b> |
+| [<b>35A.</b>](Chapter%20035A%20-%20Price%20Support%20of%20Agricultural%20Commodities/README.md) | <b>Price Support of Agricultural Commodities</b> | <b>1421</b> |
 | [<b>36.</b>](Chapter%20036%20-%20Crop%20Insurance/README.md) | <b>Crop Insurance</b> | <b>1501</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Seeds/README.md) | <b>Seeds</b> | <b>1551</b> |
 | [<b>38.</b>](Chapter%20038%20-%20Distribution%20and%20Marketing%20of%20Agricultural%20Products/README.md) | <b>Distribution and Marketing of Agricultural Products</b> | <b>1621</b> |
 | [<b>39.</b>](Chapter%20039%20-%20Stabilization%20of%20International%20Wheat%20Market/README.md) | <b>Stabilization of International Wheat Market</b> | <b>1641</b> |
 | [<b>40.</b>](Chapter%20040%20-%20Halogeton%20Glomeratus%20Control/README.md) | <b>Halogeton Glomeratus Control</b> | <b>1651</b> |
-| <b>41.</b> | <b>Agricultural Trade Development and Assistance</b> | <b>1691</b> |
+| [<b>41.</b>](Chapter%20041%20-%20Agricultural%20Trade%20Development%20and%20Assistance/README.md) | <b>Agricultural Trade Development and Assistance</b> | <b>1691</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Agricultural%20Commodity%20Set-Aside/README.md) | <b>Agricultural Commodity Set-Aside</b> | <b>1741</b> |
 | [<b>43.</b>](Chapter%20043%20-%20Foreign%20Market%20Development/README.md) | <b>Foreign Market Development</b> | <b>1761</b> |
 | [<b>44.</b>](Chapter%20044%20-%20Wool%20Program/README.md) | <b>Wool Program \[Repealed\]</b> | <b>1781</b> |
@@ -65,7 +65,7 @@
 | [<b>47.</b>](Chapter%20047%20-%20Interchange%20of%20Department%20of%20Agriculture%20and%20State%20Employees/README.md) | <b>Interchange of Department of Agriculture and State Employees \[Repealed\]</b> | <b>1881</b> |
 | [<b>48.</b>](Chapter%20048%20-%20Humane%20Methods%20of%20Livestock%20Slaughter/README.md) | <b>Humane Methods of Livestock Slaughter</b> | <b>1901</b> |
 | [<b>49.</b>](Chapter%20049%20-%20Consultation%20on%20Agricultural%20Programs/README.md) | <b>Consultation on Agricultural Programs</b> | <b>1911</b> |
-| <b>50.</b> | <b>Agricultural Credit</b> | <b>1921</b> |
+| [<b>50.</b>](Chapter%20050%20-%20Agricultural%20Credit/README.md) | <b>Agricultural Credit</b> | <b>1921</b> |
 | [<b>51.</b>](Chapter%20051%20-%20Food%20Stamp%20Program/README.md) | <b>Food Stamp Program</b> | <b>2011</b> |
 | [<b>52.</b>](Chapter%20052%20-%20Farm%20Labor%20Contractor%20Registration/README.md) | <b>Farm Labor Contractor Registration \[Repealed\]</b> | <b>2041</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Cotton%20Research%20and%20Promotion/README.md) | <b>Cotton Research and Promotion</b> | <b>2101</b> |
@@ -171,11 +171,14 @@
 - [Chapter 032 - Peanut Statistics](Chapter%20032%20-%20Peanut%20Statistics/README.md)
 - [Chapter 033 - Farm Tenancy](Chapter%20033%20-%20Farm%20Tenancy/README.md)
 - [Chapter 034 - Sugar Production and Control](Chapter%20034%20-%20Sugar%20Production%20and%20Control/README.md)
+- [Chapter 035 - Agricultural Adjustment Act of 1938](Chapter%20035%20-%20Agricultural%20Adjustment%20Act%20of%201938/README.md)
+- [Chapter 035A - Price Support of Agricultural Commodities](Chapter%20035A%20-%20Price%20Support%20of%20Agricultural%20Commodities/README.md)
 - [Chapter 036 - Crop Insurance](Chapter%20036%20-%20Crop%20Insurance/README.md)
 - [Chapter 037 - Seeds](Chapter%20037%20-%20Seeds/README.md)
 - [Chapter 038 - Distribution and Marketing of Agricultural Products](Chapter%20038%20-%20Distribution%20and%20Marketing%20of%20Agricultural%20Products/README.md)
 - [Chapter 039 - Stabilization of International Wheat Market](Chapter%20039%20-%20Stabilization%20of%20International%20Wheat%20Market/README.md)
 - [Chapter 040 - Halogeton Glomeratus Control](Chapter%20040%20-%20Halogeton%20Glomeratus%20Control/README.md)
+- [Chapter 041 - Agricultural Trade Development and Assistance](Chapter%20041%20-%20Agricultural%20Trade%20Development%20and%20Assistance/README.md)
 - [Chapter 042 - Agricultural Commodity Set-Aside](Chapter%20042%20-%20Agricultural%20Commodity%20Set-Aside/README.md)
 - [Chapter 043 - Foreign Market Development](Chapter%20043%20-%20Foreign%20Market%20Development/README.md)
 - [Chapter 044 - Wool Program](Chapter%20044%20-%20Wool%20Program/README.md)
@@ -184,6 +187,7 @@
 - [Chapter 047 - Interchange of Department of Agriculture and State Employees](Chapter%20047%20-%20Interchange%20of%20Department%20of%20Agriculture%20and%20State%20Employees/README.md)
 - [Chapter 048 - Humane Methods of Livestock Slaughter](Chapter%20048%20-%20Humane%20Methods%20of%20Livestock%20Slaughter/README.md)
 - [Chapter 049 - Consultation on Agricultural Programs](Chapter%20049%20-%20Consultation%20on%20Agricultural%20Programs/README.md)
+- [Chapter 050 - Agricultural Credit](Chapter%20050%20-%20Agricultural%20Credit/README.md)
 - [Chapter 051 - Food Stamp Program](Chapter%20051%20-%20Food%20Stamp%20Program/README.md)
 - [Chapter 052 - Farm Labor Contractor Registration](Chapter%20052%20-%20Farm%20Labor%20Contractor%20Registration/README.md)
 - [Chapter 053 - Cotton Research and Promotion](Chapter%20053%20-%20Cotton%20Research%20and%20Promotion/README.md)

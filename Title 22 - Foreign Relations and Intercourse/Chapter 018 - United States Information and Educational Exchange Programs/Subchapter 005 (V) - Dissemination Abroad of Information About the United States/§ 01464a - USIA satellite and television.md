@@ -34,11 +34,11 @@ When a comparable program produced by United States public or commercial broadca
 
 (1) Of the funds authorized to be appropriated to the United States Information Agency not more than $12,000,000 for the fiscal year 1990 and not more than $12,480,000 for the fiscal year 1991 may be obligated or expended for USIA–TV.
 
-(2) The United States Information Agency shall prepare and submit to the Congress quarterly reports which contain a detailed explanation of expenditures for USIA–TV during the fiscal years 1990 and 1991. Such reports shall contain specific justification and supporting information pertaining to all programs, particularly those described in subsection (c)(4) of this section, that were produced in-house by USIA–TV. Each such report shall include a statement by the Director of the United States InformationAgency that, according to the best information available to the United States Information Agency, no comparable United States commercially-produced or public television program is available at a cost which is equal to or less than the cost of production by USIA–TV.
+(2) The United States Information Agency shall prepare and submit to the Congress quarterly reports which contain a detailed explanation of expenditures for USIA–TV during the fiscal years 1990 and 1991. Such reports shall contain specific justification and supporting information pertaining to all programs, particularly those described in subsection (c)(4) of this section, that were produced in-house by USIA–TV. Each such report shall include a statement by the Director of the United States Information Agency that, according to the best information available to the United States Information Agency, no comparable United States commercially-produced or public television program is available at a cost which is equal to or less than the cost of production by USIA–TV.
 
 (3) Of the funds authorized to be appropriated to the United States Information Agency, $1,500,000 for the fiscal year 1990 and $1,500,000 for the fiscal year 1991 shall be available only for the purchase or use of programs produced with grants from the Corporation for Public Broadcasting or produced by United States public broadcasters.
 
-(Jan. 27, 1948, ch. 36, title V, §505, as added Feb. 16, 1990, Pub. L. 101–246, title II, §205(a), 104 Stat. 50.)
+(Jan. 27, 1948, ch. 36, title V, §505, as added Pub. L. 101–246, title II, §205(a), Feb. 16, 1990, 104 Stat. 50.)
 
 #### Television Service of USIA
 

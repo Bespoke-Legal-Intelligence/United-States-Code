@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 1996 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 1997 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -1430,7 +1430,7 @@ Rep.
 
 101(22)
 
-101(6)(A)
+1101(6)(A)
 
 101(23)
 

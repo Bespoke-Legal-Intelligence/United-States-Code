@@ -20,7 +20,7 @@ Nothing in this subchapter may be construed as prohibiting any private person, F
 
 #### Effective Date of 1994 Amendment
 
-Section 352 of title III of Pub. L. 103–465 provided that: “This subtitle \[subtitle F (§§351, 352) of title III ofPub. L. 103–465, amending this section and sections 2532, 2544, 2571, and 2573 of this title and repealing provisions set out below\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
+Section 352 of title III of Pub. L. 103–465 provided that: “This subtitle \[subtitle F (§§351, 352) of title III of Pub. L. 103–465, amending this section and sections 2532, 2544, 2571, and 2573 of this title and repealing provisions set out below\] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
 
 #### Effective Date
 

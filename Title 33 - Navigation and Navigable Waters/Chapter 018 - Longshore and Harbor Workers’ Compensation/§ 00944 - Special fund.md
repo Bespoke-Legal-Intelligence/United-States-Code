@@ -16,7 +16,7 @@ Payments into such fund shall be made as follows:
 
 &emsp;(2) At the beginning of each calendar year the Secretary shall estimate the probable expenses of the fund during that calendar year and the amount of payments required (and the schedule therefor) to maintain adequate reserves in the fund. Each carrier and self-insurer shall make payments into the fund on a prorated assessment by the Secretary determined by—
 
-&emsp;&emsp;(A) computing the ratio (expressed as a percent) of (i) the carrier's or self-insured'sworkers’ compensation payments under this chapter during the preceding calendar year, to (ii) the total of such payments by all carriers and self-insureds under this chapter during such year;
+&emsp;&emsp;(A) computing the ratio (expressed as a percent) of (i) the carrier's or self-insured's workers’ compensation payments under this chapter during the preceding calendar year, to (ii) the total of such payments by all carriers and self-insureds under this chapter during such year;
 
 &emsp;&emsp;(B) computing the ratio (expressed as a percent) of (i) the payments under section 908(f) of this title during the preceding calendar year which are attributable to the carrier or self-insured, to (ii) the total of such payments during such year attributable to all carriers and self-insureds;
 
@@ -66,7 +66,7 @@ The proceeds of this fund shall be available for payments:
 
 The fund shall be audited annually and the results of such audit shall be included in the annual report required by section 942 of this title.
 
-(Mar. 4, 1927, ch. 509, §44, 44 Stat. 1444; July 26, 1956, ch. 735, §8, 70 Stat. 656; Oct. 27, 1972, Pub. L. 92–576, §8, 86 Stat. 1256; Sept. 28, 1984, Pub. L. 98–426, §§24, 27(a)(2), 98 Stat. 1653, 1654.)
+(Mar. 4, 1927, ch. 509, §44, 44 Stat. 1444; July 26, 1956, ch. 735, §8, 70 Stat. 656; Pub. L. 92–576, §8, Oct. 27, 1972, 86 Stat. 1256; Pub. L. 98–426, §§24, 27(a)(2), Sept. 28, 1984, 98 Stat. 1653, 1654.)
 
 #### Amendments
 

@@ -92,7 +92,7 @@
 
 1974—Pub. L. 93–508, title III, §303(b), Dec. 3, 1974, 88 Stat. 1592, added item 1737.
 
-1972—Pub. L. 92–540, title IV, §405, Oct. 24, 1972, 86 Stat. 1091, substituted in item 1733 “Special assistancefor the educationally disadvantaged” for “Measurement of courses”, in item 1734 “Apprenticeship or other on-job training; correspondence courses” for “Overcharges by educational institutions”, and in item 1736 “Specialized vocational training courses” for “Discontinuance of allowances”, and struck out item 1722 “Change of program”, item 1725 “Period of operation for approval”, and item 1737 “Specialized vocational training courses”.
+1972—Pub. L. 92–540, title IV, §405, Oct. 24, 1972, 86 Stat. 1091, substituted in item 1733 “Special assistance for the educationally disadvantaged” for “Measurement of courses”, in item 1734 “Apprenticeship or other on-job training; correspondence courses” for “Overcharges by educational institutions”, and in item 1736 “Specialized vocational training courses” for “Discontinuance of allowances”, and struck out item 1722 “Change of program”, item 1725 “Period of operation for approval”, and item 1737 “Specialized vocational training courses”.
 
 1970—Pub. L. 91–219, title II, §207(b), Mar. 26, 1970, 84 Stat. 82, inserted item 1763.
 
@@ -106,7 +106,7 @@ Pub. L. 89–358, §3(a)(10), Mar. 3, 1966, 80 Stat. 21, struck out items 1726, 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 104, 111, 113, 1718, 1804, 3033, 3485, 3670, 3671, 3672, 3673, 3674, 3680, 3680A, 3681, 3682, 3683, 3684, 3685, 3687, 3688, 3690, 3692, 3693, 3694, 3695, 3696, 3697, 4213, 5113 of this title; title 5 sections 5569, 8525; title 10 sections 2182, 2185; title 20 section 1087vv; title 26 sections 135, 6334.
+This chapter is referred to in sections 101, 104, 111, 113, 1718, 1804, 3033, 3485, 3670, 3671, 3672, 3673, 3674, 3680, 3680A, 3681, 3682, 3683, 3684, 3685, 3687, 3688, 3690, 3692, 3693, 3694, 3695, 3696, 3697, 4213, 5113 of this title; title 2 section 905; title 5 sections 5569, 8525; title 10 sections 2182, 2185; title 20 section 1087vv; title 26 sections 135, 6334.
 
 
 ---

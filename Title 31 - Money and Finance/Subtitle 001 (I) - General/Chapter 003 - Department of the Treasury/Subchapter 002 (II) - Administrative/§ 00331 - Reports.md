@@ -28,7 +28,7 @@
 
 (2) The report shall present the information required under paragraph (1) of this subsection in a concise way, with explanatory material (including an analysis of the significance of liabilities based on past experience and probable risk) the Secretary considers desirable.
 
-(c) On the first day of each regular session of Congress, the Secretary shall submit to Congress a report for the prior fiscal year on the total amount of public receipts and public expenditures listing receipts, when practicable, by ports, districts, and States and the expenditures by each appropriation.
+(c) On the first day of each regular session of Congress, the Secretary shall submit to Congress a report for the prior fiscal year on the total amount of public receipts and public expenditures listing receipts, when practicable, byports, districts, and States and the expenditures by each appropriation.
 
 (d) The Secretary shall report to either House of Congress in person or in writing, as required, on matters referred to the Secretary by that House of Congress.
 

@@ -12,7 +12,7 @@ The term “Secretary” means the Secretary of Transportation.
 
 The term “United States”, when used in a geographical sense, includes the Territories and possessions of the United States.
 
-(June 21, 1940, ch. 409, §1, 54 Stat. 497; July 16, 1952, ch. 889, §1, 66 Stat. 732; Nov. 6, 1978, Pub. L. 95–598, title III, §323, 92 Stat. 2679; Jan. 12, 1983, Pub. L. 97–449, §2(d)(2), 96 Stat. 2440.)
+(June 21, 1940, ch. 409, §1, 54 Stat. 497; July 16, 1952, ch. 889, §1, 66 Stat. 732; Pub. L. 95–598, title III, §323, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 97–449, §2(d)(2), Jan. 12, 1983, 96 Stat. 2440.)
 
 #### Amendments
 

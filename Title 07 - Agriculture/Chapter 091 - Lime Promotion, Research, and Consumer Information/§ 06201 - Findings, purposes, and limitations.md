@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) the maintenance and expansion of existing domestic and foreign markets for limes and the development of additional and improved markets for limes are vital to the welfare of lime producers and other persons concerned with producing, marketing, or processing limes;
 
-&emsp;(6) a coordinated program of research, promotion, and consumer information regarding limes is necessary for the maintenance and development of such markets; and
+&emsp;(6) a coordinated program of research, promotion, and consumer information regardinglimes is necessary for the maintenance and development of such markets; and
 
 &emsp;(7) lime producers, lime producer-handlers, lime handlers, and lime importers are unable to implement and finance such a program without cooperative action.
 

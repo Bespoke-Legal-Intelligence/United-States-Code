@@ -94,7 +94,7 @@
 
 &emsp;In the event of a vacancy in the office of Secretary or during the absence or disability of the Secretary, the Acting Secretary shall act as a director in place of the Secretary.
 
-(July 22, 1932, ch. 522, §2A, as added Aug. 9, 1989, Pub. L. 101–73, title VII, §702(a), 103 Stat. 413; amended Oct. 28, 1992, Pub. L. 102–550, title XIII, §1391, title XVI, §1608, 106 Stat. 4009, 4089.)
+(July 22, 1932, ch. 522, §2A, as added Pub. L. 101–73, title VII, §702(a), Aug. 9, 1989, 103 Stat. 413; amended Pub. L. 102–550, title XIII, §1391, title XVI, §1608, Oct. 28, 1992, 106 Stat. 4009, 4089.)
 
 #### Amendments
 

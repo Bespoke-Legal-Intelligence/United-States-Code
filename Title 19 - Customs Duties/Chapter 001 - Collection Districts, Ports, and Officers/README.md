@@ -20,6 +20,7 @@
 | (d) | Failure to pay fee. |
 | (e) | Small airport, seaport, or other facility account; expenditures for services. |
 | (f) | Customs services for foreign trade zones or subzones. |
+| 58b–1. | Expenses from fees collected. |
 | [58c.](%C2%A7%2000058c%20-%20Fees%20for%20certain%20customs%20services.md) | Fees for certain customs services. |
 | (a) | Schedule of fees. |
 | (b) | Limitations on fees. |
@@ -81,6 +82,7 @@
 - [&sect; 00058 - Repealed. Pub. L. 95&#8211;410, title II, &sect;214(a), Oct. 3, 1978, 92 Stat. 904](%C2%A7%2000058%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93410%2C%20title%20II%2C%20%C2%A7214%28a%29%2C%20Oct.%203%2C%201978%2C%2092%20Stat.%20904.md)
 - [&sect; 00058a - Fees for services of customs officers](%C2%A7%2000058a%20-%20Fees%20for%20services%20of%20customs%20officers.md)
 - [&sect; 00058b - User fee for customs services at certain small airports and other facilities](%C2%A7%2000058b%20-%20User%20fee%20for%20customs%20services%20at%20certain%20small%20airports%20and%20other%20facilities.md)
+- [&sect; 00058b&#8211;1 - Expenses from fees collected](%C2%A7%2000058b%E2%80%931%20-%20Expenses%20from%20fees%20collected.md)
 - [&sect; 00058c - Fees for certain customs services](%C2%A7%2000058c%20-%20Fees%20for%20certain%20customs%20services.md)
 - [&sect; 00059 - Repealed. Aug. 2, 1956, ch. 887, &sect;4(a)(21), 70 Stat. 947](%C2%A7%2000059%20-%20Repealed.%20Aug.%202%2C%201956%2C%20ch.%20887%2C%20%C2%A74%28a%29%2821%29%2C%2070%20Stat.%20947.md)
 - [&sect; 00060 - Penalty for extortion](%C2%A7%2000060%20-%20Penalty%20for%20extortion.md)

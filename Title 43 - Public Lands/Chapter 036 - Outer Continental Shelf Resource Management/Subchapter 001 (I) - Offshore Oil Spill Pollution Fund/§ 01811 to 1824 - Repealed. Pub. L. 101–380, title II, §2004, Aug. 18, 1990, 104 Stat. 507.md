@@ -8,7 +8,7 @@ Section 1813, Pub. L. 95–372, title III, §303, Sept. 18, 1978, 92 Stat. 674, 
 
 Section 1814, Pub. L. 95–372, title III, §304, Sept. 18, 1978, 92 Stat. 675, set scope of liability of owners and operators of vessels and offshore facilities.
 
-Section 1815, Pub. L. 95–372, title III, §305, Sept. 18, 1978, 92 Stat. 677; Pub. L. 100–610, title I, §§2, 3, Nov. 5, 1988, 102 Stat. 3176, required owners and operators ofoffshore facilities and vessels using offshore facilities to provide evidence of financial responsibility to cover liability for oil pollution.
+Section 1815, Pub. L. 95–372, title III, §305, Sept. 18, 1978, 92 Stat. 677; Pub. L. 100–610, title I, §§2, 3, Nov. 5, 1988, 102 Stat. 3176, required owners and operators of offshore facilities and vessels using offshore facilities to provide evidence of financial responsibility to cover liability for oil pollution.
 
 Section 1816, Pub. L. 95–372, title III, §306, Sept. 18, 1978, 92 Stat. 678, provided for notification, designation, and advertisement of incidents involving vessels or offshore facilities.
 

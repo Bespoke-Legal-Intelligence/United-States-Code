@@ -6,17 +6,17 @@ The Governor shall, within one year after July 22, 1954, reorganize and consolid
 
 #### (b) Changes after examination from time to time
 
-The Governor shall, from time to time, after complying with the provisions of subsection (a)of this section, examine the organization of the executive branch of the government of the Virgin Islands, and shall make such changes therein, subject to the approval of the legislature, not inconsistent with this chapter, as he determines are necessary to promote effective management and to execute faithfully the purposes of this chapter and the laws of the Virgin Islands.
+The Governor shall, from time to time, after complying with the provisions of subsection (a) of this section, examine the organization of the executive branch of the government of the Virgin Islands, and shall make such changes therein, subject to the approval of the legislature, not inconsistent with this chapter, as he determines are necessary to promote effective management and to execute faithfully the purposes of this chapter and the laws of the Virgin Islands.
 
 #### (c) Appointment of department heads; tenure; removal; powers and duties; appointments to boards, etc.
 
 The heads of the executive departments created by this chapter shall be appointed by the Governor, with the advice and consent of the legislature. Each shall hold office during the continuance in office of the Governor by whom he is appointed and until his successor is appointed and qualified, unless sooner removed by the Governor. Each shall have such powers and duties as may be prescribed by the legislature. The chairman and members of any board, authority, or commission established by the laws of the Virgin Islands shall, if the laws of the Virgin Islands hereafter provide, also be appointed by the Governor with the advice and consent of the legislature, if such board, authority, or commission has quasi-judicial functions: <i>Provided</i>, That no law of the Virgin Islands dealing with the chairmanship, membership, or chairmanship and membership of any such board, authority, or commission, and requiring an appointment or appointments to be made with the advice and consent of the legislature, shall relate to more than one such board, authority, or commission, nor shall it relate to any other legislative matter.
 
-(July 22, 1954, ch. 558, §16, 68 Stat. 504; Aug. 30, 1957, Pub. L. 85–224, 71 Stat. 510; Sept. 16, 1959, Pub. L. 86–289, §3, 73 Stat. 569; Aug. 23, 1968, Pub. L. 90–496, §8(a), 82 Stat. 839.)
+(July 22, 1954, ch. 558, §16, 68 Stat. 504; Pub. L. 85–224, Aug. 30, 1957, 71 Stat. 510; Pub. L. 86–289, §3, Sept. 16, 1959, 73 Stat. 569; Pub. L. 90–496, §8(a), Aug. 23, 1968, 82 Stat. 839.)
 
 #### Amendments
 
-1968—Subsec. (a). Pub. L. 90–496 substituted provisions that members of school boards which have been duly organized by the government of the Virgin Islands be popularly elected for provisions that required the approval of the Secretary of the Interior for the establishment of any new department, agency, or other instrumentality by the Governor or the legislature, unless such department, agency, etc., was required by Federal law for participation in Federal programs.
+1968—Subsec. (a). Pub. L. 90–496 substituted provisions that members of school boards which have beenduly organized by the government of the Virgin Islands be popularly elected for provisions that required the approval of the Secretary of the Interior for the establishment of any new department, agency, or other instrumentality by the Governor or the legislature, unless such department, agency, etc., was required by Federal law for participation in Federal programs.
 
 1959—Subsec. (a). Pub. L. 86–289 provided that the head of the department of law should be known as the attorney general of the Virgin Islands.
 

@@ -1,0 +1,16 @@
+### §290<i>l</i>–1. Governor and alternate Governor
+
+#### (a) Appointment
+
+The President, by and with the advice and consent of the Senate, shall appoint a Governor ofthe Bank, an alternate for the Governor, and a Director of the Bank.
+
+#### (b) Compensation
+
+Any person who serves as a Governor of the Bank or as an alternate for the Governor may not receive any salary or other compensation from the United States by reason of such service.
+
+(Pub. L. 101–513, title V, §562(c)(3), Nov. 5, 1990, 104 Stat. 2034.)
+
+#### Codification
+
+Subsecs. (a) and (b) were in the original (A) and (B), respectively, and were editorially redesignated for purposes of codification.
+

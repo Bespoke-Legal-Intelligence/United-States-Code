@@ -10,7 +10,7 @@ In General.—Except as provided in subsection (b), the <sup>1</sup> chapter pr
 
 (b)
 
-Limitation.—To the extent that another Federal law specifies procedures for recovering on a claim or a judgment for a debt arising under such law, those procedures shall apply tosuch claim or judgment to the extent those procedures are inconsistent with this chapter.
+Limitation.—To the extent that another Federal law specifies procedures for recovering on a claim or a judgment for a debt arising under such law, those procedures shall apply to such claim or judgment to the extent those procedures are inconsistent with this chapter.
 
 (c)
 

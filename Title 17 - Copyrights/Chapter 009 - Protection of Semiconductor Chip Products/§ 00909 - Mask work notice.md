@@ -4,13 +4,13 @@
 
 (b) The notice referred to in subsection (a) shall consist of—
 
-&emsp;(1) the words “mask force”,<sup>1</sup> the sumbol <sup>2</sup> \*M\*, or the symbol (M) (the letter M in a circle); and
+&emsp;(1) the words “mask work”, the symbol \*M\*, or the symbol (M) (the letter M in a circle); and
 
 &emsp;(2) the name of the owner or owners of the mask work or an abbreviation by which the name is recognized or is generally known.
 
-(Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3352.)
+(Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 105–80, §12(a)(22), Nov. 13, 1997, 111 Stat. 1535.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “mask work”.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be “symbol”.</i>
+1997—Subsec. (b)(1). Pub. L. 105–80 substituted “ ‘mask work’, the symbol” for “ ‘mask force’, the sumbol”.
 

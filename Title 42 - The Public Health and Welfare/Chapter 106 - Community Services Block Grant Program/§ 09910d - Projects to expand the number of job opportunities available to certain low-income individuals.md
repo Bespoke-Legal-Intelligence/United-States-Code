@@ -20,11 +20,11 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;(B) the geographic area to be served by the project;
 
-&emsp;(C) the percentage of low-income individuals (as described in subsection (b) of this section) and individuals receiving assistance under a State program funded part <sup>1</sup> A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] in the area to be served by the project; and
+&emsp;(C) the percentage of low-income individuals (as described in subsection (b) of this section) and individuals receiving assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] in the area to be served by the project; and
 
 &emsp;(D) unemployment rates in the geographic areas to be served and (to the extent practicable) the jobs available and skills necessary to fill those vacancies in such areas.
 
-(2) In approving applications under this section, the Secretary shall give priority to applications proposing to serve those areas containing the highest percentage of individuals receiving assistance under a State program funded part <sup>1</sup> A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
+(2) In approving applications under this section, the Secretary shall give priority to applications proposing to serve those areas containing the highest percentage of individuals receiving assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\].
 
 #### (d) Administration
 
@@ -34,7 +34,7 @@ Each nonprofit organization participating in a project conducted under this sect
 
 For the purpose of conducting projects under this section, there is authorized to be appropriated an amount not to exceed $25,000,000 for any fiscal year.
 
-(Pub. L. 100–485, title V, §505, Oct. 13, 1988, 102 Stat. 2404; Pub. L. 101–508, title V, §5063, Nov. 5, 1990, 104 Stat. 1388–232; Pub. L. 103–432, title II, §261(a), Oct. 31, 1994, 108 Stat. 4467; Pub. L. 104–193, title I, §112, Aug. 22, 1996, 110 Stat. 2176.)
+(Pub. L. 100–485, title V, §505, Oct. 13, 1988, 102 Stat. 2404; Pub. L. 101–508, title V, §5063, Nov. 5, 1990, 104 Stat. 1388–232; Pub. L. 103–432, title II, §261(a), Oct. 31, 1994, 108 Stat. 4467; Pub. L. 104–193, title I, §112, Aug. 22, 1996, 110 Stat. 2176; Pub. L. 105–33, title V, §5515, Aug. 5, 1997, 111 Stat. 620.)
 
 #### References in Text
 
@@ -48,6 +48,8 @@ Section was enacted as part of the Family Support Act of 1988, and not as part o
 
 #### Amendments
 
+1997—Subsec. (c)(1)(C), (2). Pub. L. 105–33 which directed the amendment of Pub. L. 104–193, §112(5), was executed to that section as if the amendment were retroactive to the effective date of the amendment by Pub. L. 104–193 to reflect the probable intent of Congress. See 1996 Amendment notes below.
+
 1996—Pub. L. 104–193, §112(1), struck out “Demonstration” before “projects” in section catchline.
 
 Subsec. (a). Pub. L. 104–193, §112(2), (3), substituted “shall enter into agreements with” for “in each of the fiscal years 1990, 1991, and 1992, shall enter into agreements with not less than 5 nor more than 10” and “conducting projects” for “conducting demonstration projects”.
@@ -56,9 +58,9 @@ Subsec. (b)(1). Pub. L. 104–193, §112(2), struck out “demonstration” afte
 
 Subsec. (b)(3). Pub. L. 104–193, §112(4), substituted “assistance under the program funded part A of title IV of the Social Security Act of the State in which the individual resides” for “aid to families with dependent children under part A of title IV of the Social Security Act”.
 
-Subsec. (c)(1)(C). Pub. L. 104–193, §112(5)(A), substituted “assistance under a State program funded part A of title IV of the Social Security Act” for “aid to families with dependent children under title IV of the Social Security Act”.
+Subsec. (c)(1)(C). Pub. L. 104–193, §112(5)(A), as amended by Pub. L. 105–33, substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children under title IV of the Social Security Act”.
 
-Subsec. (c)(2). Pub. L. 104–193, §112(5)(B), substituted “assistance under a State program funded part A of title IV of the Social Security Act” for “aid to families with dependent children under title IV of such Act”.
+Subsec. (c)(2). Pub. L. 104–193, §112(5)(B), as amended by Pub. L. 105–33, substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children under title IV of such Act”.
 
 Subsec. (d). Pub. L. 104–193, §112(2), (6), struck out “demonstration” after “organization participating in a” and substituted “the State program funded under part A of title IV of the Social Security Act” for “job opportunities and basic skills training program (as provided for under title IV of the Social Security Act)”.
 

@@ -76,7 +76,7 @@ Upon application to the Secretary, an American Indian consortium,<sup>3</sup> as
 
 #### (1) In general
 
-&emsp;To assist States in meeting the requirements of subsection (a) of this section, the Secretary shall allot to the States the amounts appropriated under section 6043 of this title. Allotments and reallotments of such sums shall be made on the same basis as the allotments and reallotments are made under the first sentence of subsection (a)(1) and subsection (d) <sup>4</sup> of section 6025 of this title, except that in any case in which—
+&emsp;To assist States in meeting the requirements of subsection (a) of this section, the Secretary shall allot to the States the amounts appropriated under section 6043 ofthis title. Allotments and reallotments of such sums shall be made on the same basis as the allotments and reallotments are made under the first sentence of subsection (a)(1) and subsection (d) <sup>4</sup> of section 6025 of this title, except that in any case in which—
 
 &emsp;&emsp;(A) the total amount appropriated under section 6043 of this title for a fiscal year is at least $20,000,000—
 
@@ -108,7 +108,7 @@ Upon application to the Secretary, an American Indian consortium,<sup>3</sup> as
 
 #### (2) Increase in allotments
 
-&emsp;In any case in which the total amount appropriated under section 6043 of this title for a fiscal year exceeds the total amount appropriated under such section for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 100(c)(1) of the Rehabilitation Act of 1973 \[29 U.S.C. 720(c)(1)\], theSecretary shall increase each of the minimum allotments under subparagraphs (A) and (B) of paragraph (1) by an amount which bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph for prior fiscal years) as the amount which is equal to the difference between—
+&emsp;In any case in which the total amount appropriated under section 6043 of this title for a fiscal year exceeds the total amount appropriated under such section for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 100(c)(1) of the Rehabilitation Act of 1973 \[29 U.S.C. 720(c)(1)\], the Secretary shall increase each of the minimum allotments under subparagraphs (A) and (B) of paragraph (1) by an amount which bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph for prior fiscal years) as the amount which is equal to the difference between—
 
 &emsp;&emsp;(A) the total amount appropriated under section 6043 of this title for the fiscal year for which the increase in minimum allotment is being made, minus
 
@@ -138,7 +138,7 @@ Any amount paid to a State for a fiscal year and remaining unobligated at the en
 
 #### (e) Governing board
 
-In States in which the system is organized as a private nonprofit entity with a multimember governing board, or a public system with a multimember governing board, such governing board shall be selected according to the policies and procedures of the system, except that—
+In States in which the system is organized as a private nonprofit entity with a multimembergoverning board, or a public system with a multimember governing board, such governing board shall be selected according to the policies and procedures of the system, except that—
 
 &emsp;(1) the governing board shall be composed of members who broadly represent or are knowledgeable about the needs of the individuals served by the system and include individuals with developmental disabilities who are eligible for services, or have received or are receiving services, or parents, family members, guardians, advocates, or authorized representatives of such individuals;
 
@@ -174,6 +174,10 @@ If the laws of a State prohibit a system from obtaining access to records of ind
 
 &emsp;Amounts received pursuant to paragraph (1) through court judgments and used by the system are limited to furthering the purpose of this subchapter and shall not be used to augment payments to legal contractors or to award personal bonuses.
 
+#### (3) Limitation
+
+&emsp;The systems may only use assistance provided under this chapter consistent with section 14404 of this title.
+
 #### (i) Payment to systems
 
 Notwithstanding any other provision of law, the Secretary shall pay directly to any system which complies with the provisions of this section the amount of such system's allotment under this section, unless the system delegates otherwise.
@@ -186,7 +190,7 @@ For purposes of any periodic audit, report, or evaluation required under this ch
 
 The Secretary shall provide advance public notice of any Federal programmatic and administrative review and solicit public comment on the system funded under this subchapter through such notice. The findings of the public comment solicitation notice shall be included in the onsite visit report. The results of such review shall be distributed to the Governor of the State and to other interested public and private parties.
 
-(Pub. L. 88–164, title I, §142, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2679; amended Pub. L. 100–146, title III, §301, Oct. 29, 1987, 101 Stat. 851; Pub. L. 101–496, §15, Oct. 31, 1990, 104 Stat. 1198; Pub. L. 103–230, title III, §303, Apr. 6, 1994, 108 Stat. 314.)
+(Pub. L. 88–164, title I, §142, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2679; amended Pub. L. 100–146, title III, §301, Oct. 29, 1987, 101 Stat. 851; Pub. L. 101–496, §15, Oct. 31, 1990, 104 Stat. 1198; Pub. L. 103–230, title III, §303, Apr. 6, 1994, 108 Stat. 314; Pub. L. 105–12, §9(<i>l</i>)(2), Apr. 30, 1997, 111 Stat. 28.)
 
 #### References in Text
 
@@ -211,6 +215,8 @@ October 31, 1990, referred to in subsec. (g)(2), was in the original “the date
 A prior section 6042, Pub. L. 88–164, title I, §126, as added Pub. L. 94–103, title I, §105, Oct. 4, 1975, 89 Stat. 488, related to grants for projects and to application requirements, prior to the general amendment of subchapter II of this chapter by Pub. L. 95–602, title V, §509, Nov. 6, 1978, 92 Stat. 3008.
 
 #### Amendments
+
+1997—Subsec. (h)(3). Pub. L. 105–12 added par. (3).
 
 1994—Pub. L. 103–230, §303(a), reenacted section catchline without change.
 
@@ -351,6 +357,10 @@ Subsec. (a)(2)(G). Pub. L. 100–146, §301(a)(1), (3), added subpar. (G) and st
 Subsec. (b). Pub. L. 100–146, §301(b)(1), (2), (c), redesignated subsec. (c) as (b), and in par. (1)(A), substituted “$20,000,000” for “$11,000,000” in introductory provisions, “$107,000” for “$80,000” in cl. (i), and “$200,000” for “$150,000” in cl. (ii), in subpar. (B), substituted “$20,000,000” for “$11,000,000” and “$150,000, and the allotment of each of American Samoa, Guam, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands for such fiscal year shall not be less than $80,000” for “$50,000”, added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and struck out former subsec. (b) which read as follows: “Prior to October 1, 1986, the provisions of paragraph (2)(D) of subsection (a) of this section shall not apply to any State in which the laws of the State prohibit the system required under such subsection from obtaining access to the records of a person with developmental disabilities under the conditions described in such paragraph.”
 
 Subsec. (c). Pub. L. 100–146, §301(c)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (b).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
 
 #### Effective Date of 1987 Amendment
 

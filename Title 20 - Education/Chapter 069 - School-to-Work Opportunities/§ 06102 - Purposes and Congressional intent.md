@@ -36,7 +36,7 @@ The purposes of this chapter are—
 
 &emsp;(10) to encourage the development and implementation of programs that will require paid high-quality, work-based learning experiences;
 
-&emsp;(11) to motivate all youths, including low-achieving youths, school dropouts, and youths with disabilities, to stay in or return to school or a classroom setting and strive to succeed, by providing enriched learning experiences and assistance in obtaining good jobs and continuing their education in postsecondary educational institutions;
+&emsp;(11) to motivate all youths, including low-achieving youths, school dropouts, and youthswith disabilities, to stay in or return to school or a classroom setting and strive to succeed, by providing enriched learning experiences and assistance in obtaining good jobs and continuing their education in postsecondary educational institutions;
 
 &emsp;(12) to expose students to a broad array of career opportunities, and facilitate the selection of career majors, based on individual interests, goals, strengths, and abilities;
 

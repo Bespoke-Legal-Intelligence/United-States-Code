@@ -56,7 +56,7 @@ From amounts set aside under subsection (a) of this section, the Secretary is au
 
 #### (c) Assistance to economically disadvantaged and minority students participating in community development work study programs
 
-Of the amount set aside for use under subsection (b) of this section in any fiscal year, the Secretary shall,<sup>2</sup> make grants to institutions of higher education, either directly or through areawide planning organizations or States, for the purpose of providing assistance to economically disadvantaged and minority students who participate in community development work study programs and are enrolled in full-time graduate or undergraduate programs in community and economic development, community planning, or community management.
+Of the amount set aside for use under subsection (b) of this section in any fiscal year, the Secretary shall,<sup>2</sup> make grants to institutions ofhigher education, either directly or through areawide planning organizations or States, for the purpose of providing assistance to economically disadvantaged and minority students who participate in community development work study programs and are enrolled in full-time graduate or undergraduate programs in community and economic development, community planning, or community management.
 
 #### (d) Continued availability of unused funds
 
@@ -110,7 +110,7 @@ Subsec. (e)(2). Pub. L. 101–625, §913(c), inserted “, section 5306(a)(1) o
 
 Subsec. (a). Pub. L. 101–235, §105(a), struck out “in a special discretionary fund” after “in each year” and struck out at end “Of the amount set aside for grants under subsection (b) of this section for fiscal year 1988, $5,000,000 shall be made available by the Secretary for purposes of grants under subsection (b)(1) of this section for the Park Central New Community Project.”
 
-Subsec. (b)(1). Pub. L. 101–235, §105(b)(1), (3), redesignated former par. (2) as (1) and struck out former par. (1) which read as follows: “in behalf of new communities assisted under title VII of the Housing and Urban Development Act of 1970 or title IV of the Housing and Urban Development Act of 1968 or in behalf of new community projects assisted under title X of the National Housing Act which meet the eligibility standards set forth in title VII of the Housing and Urban Development Act of 1970 and which were the subject of an application or preapplication under such title prior to January 14, 1975;”.
+Subsec. (b)(1). Pub. L. 101–235, §105(b)(1), (3), redesignated former par. (2) as (1) and struck out former par. (1) which read as follows: “in behalf of new communities assisted under title VII of the Housing and Urban Development Act of 1970 or title IV of the Housing and Urban Development Act of 1968 or in behalf of new community projects assisted under title X of the National Housing Act which meet the eligibility standards setforth in title VII of the Housing and Urban Development Act of 1970 and which were the subject of an application or preapplication under such title prior to January 14, 1975;”.
 
 Subsec. (b)(2). Pub. L. 101–235, §105(b)(3), redesignated par. (5) as (2). Former par. (2) redesignated (1).
 
@@ -184,7 +184,7 @@ Prior grants.—Any grant made under section 107 of the Housing and Community De
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section 110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
+Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -208,165 +208,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Community Outreach Partnership
 
-Section 851 of Pub. L. 102–550 provided that:
-
-“(a)
-
-Short Title.—This section may be cited as the ‘Community Outreach Partnership Act of 1992’.
-
-“(b)
-
-Purpose.—The Secretary shall carry out, in accordance with this section, a 5-year demonstration program to determine the feasibility of facilitating partnerships between institutions of higher education and communities to solve urban problems through research, outreach, and the exchange of information.
-
-“(c)
-
-Grant Program.—
-
-&emsp;“(1)
-
-In general.—The Secretary is authorized to make grants to public and private nonprofit institutions of higher education to assist in establishing or carrying out research and outreach activities addressing the problems of urban areas.
-
-&emsp;“(2)
-
-Use of grants.—Grants under this Act \[section\] shall be used to establish and operate Community Outreach Partnership Centers (hereafter in this section referred to as ‘Centers’) which shall—
-
-&emsp;&emsp;“(A) conduct competent and qualified research and investigations on theoretical or practical problems in large and small cities; and
-
-&emsp;&emsp;“(B) facilitate partnerships and outreach activities between institutions of higher education, local communities, and local governments to address urban problems.
-
-&emsp;“(3)
-
-Specific problems.—Research and outreach activities assisted under this Act \[section\] shall focus on problems associated with housing, economic development, neighborhood revitalization, infrastructure, health care, job training, education, crime prevention, planning, community organizing, and other areas deemed appropriate by the Secretary.
-
-“(d)
-
-Application.—Any public or private nonprofit institution of higher education may submit an application for a grant under this section in such form and containing such information as the Secretary may require by regulation.
-
-“(e)
-
-Selection Criteria.—
-
-&emsp;“(1)
-
-In general.—The Secretary shall select recipients of grants under this section on the basis of the following criteria:
-
-&emsp;&emsp;“(A) The demonstrated research and outreach resources available to the applicant for carrying out the purposes of this section.
-
-&emsp;&emsp;“(B) The capability of the applicant to provide leadership in solving community problems and in making national contributions to solving long-term and immediate urban problems.
-
-&emsp;&emsp;“(C) The demonstrated commitment of the applicant to supporting urban research and outreach programs by providing matching contributions for any Federal assistance received.
-
-&emsp;&emsp;“(D) The demonstrated ability of the applicant to disseminate results of research and successful strategies developed through outreach activities to other Centers and communities served through the demonstration program.
-
-&emsp;&emsp;“(E) The projects and activities that the applicant proposes to carry out under the grant.
-
-&emsp;&emsp;“(F) The effectiveness of the applicant's strategy to provide outreach activities to communities.
-
-&emsp;&emsp;“(G) The extent of need in the communities to be served by the Centers.
-
-&emsp;&emsp;“(H) Other criteria deemed appropriate by the Secretary.
-
-&emsp;“(2)
-
-Preference.—The Secretary shall give preference to institutions of higher education that undertake research and outreach activities by bringing together knowledge and expertise in the various social science and technical disciplines that relate to urban problems.
-
-“(f)
-
-Federal Shares.—The Federal share of a grant under this section shall not be more than—
-
-&emsp;“(1) 50 percent of the cost of establishing and operating a Center's research activities; and
-
-&emsp;“(2) 75 percent of the cost of establishing and operating a Center's outreach activities.
-
-“(g)
-
-Non-Federal Shares.—The non-Federal share of a grant may include cash, or the value of non-cash contributions, equipment, or other in-kind contributions deemed appropriate by the Secretary.
-
-“(h)
-
-Responsibilities.—A Center established under this section shall—
-
-&emsp;“(1) employ the research and outreach resources of its sponsoring institution of higher education to solve specific urban problems identified by communities served by the Center;
-
-&emsp;“(2) establish outreach activities in areas identified in the grant application as the communities to be served;
-
-&emsp;“(3) establish a community advisory committee comprised of representatives of local institutions and residents of the communities to be served to assist in identifying local needs and advise on the development and implementation of strategies to address those issues;
-
-&emsp;“(4) coordinate outreach activities in communities to be served by the Center;
-
-&emsp;“(5) facilitate public service projects in the communities served by the Center;
-
-&emsp;“(6) act as a clearinghouse for the dissemination of information;
-
-&emsp;“(7) develop instructional programs, convene conferences, and provide training for local community leaders, when appropriate; and
-
-&emsp;“(8) exchange information with other Centers.
-
-“(i)
-
-National Advisory Council.—
-
-&emsp;“(1)
-
-Establishment.—The Secretary shall establish a national advisory council (hereafter in this section referred to as the ‘council’) to—
-
-&emsp;&emsp;“(A) disseminate the results of research and outreach activities carried out under this section;
-
-&emsp;&emsp;“(B) act as a clearinghouse between grant recipients and other institutions of higher education; and
-
-&emsp;&emsp;“(C) review and evaluate programs carried out by grant recipients.
-
-&emsp;“(2)
-
-Members.—The council shall be composed of 12 members to be appointed by the Secretary as follows—
-
-&emsp;&emsp;“(A) 3 representatives of State and local governments;
-
-&emsp;&emsp;“(B) 3 representatives of institutions of higher education that receive grants under this section;
-
-&emsp;&emsp;“(C) 3 individuals or representatives of organizations that possess significant expertise in urban issues; and
-
-&emsp;&emsp;“(D) 3 representatives from community advisory committees created pursuant to this section.
-
-&emsp;“(3)
-
-Vacancies.—A vacancy in the membership of the council shall be filled in the manner in which the original appointment was made.
-
-&emsp;“(4)
-
-Compensation.—Members of the council shall serve without pay.
-
-&emsp;“(5)
-
-Chairman.—The council shall elect a member to serve as chairperson of the council.
-
-&emsp;“(6)
-
-Meetings.—The council shall meet at least biannually and at such other times as the chairman may designate.
-
-“(j)
-
-National Clearinghouse.—The Secretary shall establish a national clearinghouse to disseminate information resulting from the research and successful outreach activities developed through the Centers to grant recipients and other interested institutions of higher education.
-
-“(k)
-
-Authorizations.—The sums set aside by section 107 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5307\] for the purpose of this section shall be available—
-
-&emsp;“(1) to enable Centers to carry out research and outreach activities;
-
-&emsp;“(2) to establish and operate the national clearinghouse to be established under subsection (j).
-
-“(<i>l</i>)
-
-Reporting.—
-
-&emsp;“(1)
-
-In general.—The Secretary of Housing and Urban Development shall submit an annual report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs \[now Committee on Banking and Financial Services\] of the House of Representatives.
-
-&emsp;“(2)
-
-Contents.—The report under paragraph (1) shall contain a summary of the activities carried out under this section during the preceding fiscal year,and findings and conclusions drawn from such activities.”
+Section 851 of Pub. L. 102–550 directed Secretary to carry out a 5-year demonstration program to determine feasibility of facilitating partnerships between institutions of higher education and communities to solve urban problems through research, outreach, and exchange of information, established program of grants to public and private nonprofit institutions of higher education to assist in establishing or carrying out such activities and to establish and operate Community Outreach Partnership Centers which were to focus on problems associated with housing, economic development, neighborhood revitalization, infrastructure, health care, job training, education, crime prevention, planning, community organizing, and other areas deemed appropriate by the Secretary, further provided for establishment of national advisory council to assist Secretary in these areas and a national clearinghouse to disseminate information resulting from these activities, and further provided for appropriations for the demonstration program as well as for an annual report to Congress by the Secretary.
 
 #### Section Referred to in Other Sections
 

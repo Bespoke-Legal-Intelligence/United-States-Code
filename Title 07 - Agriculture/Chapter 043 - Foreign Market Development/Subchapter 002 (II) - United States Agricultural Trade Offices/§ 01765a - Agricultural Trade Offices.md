@@ -18,7 +18,7 @@ Each Agricultural Trade Officer shall, through the Agricultural Counselor or Att
 
 #### (e) Office functions and activities
 
-Each Agricultural Trade Officer shall be responsible for the exercise of the functions of theUnited States Agricultural Trade Office, and shall have the authority to direct and supervise all personnel and activities thereof.
+Each Agricultural Trade Officer shall be responsible for the exercise of the functions of the United States Agricultural Trade Office, and shall have the authority to direct and supervise all personnel and activities thereof.
 
 #### (f) Personnel; employment of local nationals
 

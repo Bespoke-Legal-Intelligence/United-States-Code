@@ -2,7 +2,7 @@
 
 (a)
 
-Repaying Borrowed Money.—An amount apportioned under section 47114 of this title andmade available to the sponsor of an air carrier airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title if they had been incurred after September 3, 1982. An amount is available for a grant under this subsection—
+Repaying Borrowed Money.—An amount apportioned under section 47114 of this title and made available to the sponsor of an air carrier airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title if they had been incurred after September 3, 1982. An amount is available for a grant under this subsection—
 
 &emsp;(1) only if—
 
@@ -28,7 +28,7 @@ Availability of Amounts.—In a fiscal year, the Secretary may make available—
 
 &emsp;(3) for use by a primary airport that each year does not have more than .05 percent of the total boardings in the United States, any part of amounts that may be distributed for the fiscal year from the discretionary fund and small airport fund to pay project costs allowable under section 47110(d) of this title; or
 
-&emsp;(4) not more than $25,000,000 to pay project costs allowable for the fiscal year under section 47110(d) of this title for projects at commercial service airports that were not eligible for assistance for terminal development during the fiscal year ending September 30, 1980, under section 20(b) of the Airport and Airway Development Act of 1970.
+&emsp;(4) not more than $25,000,000 to pay project costs allowable for the fiscal year under section 47110(d) of this title for projects at commercial service airports that were not eligible for assistance for terminal development during the fiscal year ending September 30, 1980,under section 20(b) of the Airport and Airway Development Act of 1970.
 
 (c)
 

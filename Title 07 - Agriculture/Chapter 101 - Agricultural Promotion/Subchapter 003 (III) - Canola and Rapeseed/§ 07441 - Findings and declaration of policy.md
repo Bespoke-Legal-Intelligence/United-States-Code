@@ -28,7 +28,7 @@ It is the policy of this subchapter to establish an orderly procedure for develo
 
 #### (c) Construction
 
-Nothing in this subchapter provides for the control of production or otherwise limits theright of individual producers to produce canola, rapeseed, or canola or rapeseed products.
+Nothing in this subchapter provides for the control of production or otherwise limits the right of individual producers to produce canola, rapeseed, or canola or rapeseed products.
 
 (Pub. L. 104–127, title V, §532, Apr. 4, 1996, 110 Stat. 1048.)
 

@@ -240,7 +240,7 @@ Application of National Environmental Policy Act to actions of Commission not af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 719, 741, 742, 1111 of this title; title 49 section 24505.
+This section is referred to in sections 719, 741, 742 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

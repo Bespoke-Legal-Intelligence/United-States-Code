@@ -4,7 +4,3 @@ In any condemnation proceeding instituted by or on behalf of the United States, 
 
 (Oct. 21, 1942, ch. 618, 56 Stat. 797.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 section 167f.
-

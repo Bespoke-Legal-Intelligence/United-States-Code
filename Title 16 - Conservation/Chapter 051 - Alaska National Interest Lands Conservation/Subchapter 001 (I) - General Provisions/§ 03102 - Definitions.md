@@ -4,7 +4,7 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 &emsp;(1) The term “land” means lands, waters, and interests therein.
 
-&emsp;(2) The term “Federal land” means lands the title to which is in the United States after December 2, 1980.
+&emsp;(2) The term “Federal land” means lands the title to which is in the United States after December 2, 1980. “Federal land” does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.
 
 &emsp;(3) The term “public lands” means land situated in Alaska which, after December 2, 1980, are Federal lands, except—
 
@@ -44,7 +44,11 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 &emsp;(18) The term “take” or “taking” as used with respect to fish or wildlife, means to pursue, hunt, shoot, trap, net capture, collect, kill, harm, or attempt to engage in any such conduct.
 
-(Pub. L. 96–487, title I, §102, Dec. 2, 1980, 94 Stat. 2375.)
+(Pub. L. 96–487, title I, §102, Dec. 2, 1980, 94 Stat. 2375; Pub. L. 105–83, title III, §316(b)(2), (d), Nov. 14, 1997, 111 Stat. 1592, 1595.)
+
+#### Amendment of Section
+
+<i>For repeal of amendment by section 316(d) of Pub. L. 105–83, see Effective and Termination Dates of 1997 Amendment note below.</i>
 
 #### References in Text
 
@@ -52,9 +56,33 @@ This Act, referred to in provision preceding par. (1) and in par. (4), is Pub. L
 
 The Alaska Native Claims Settlement Act, referred to in provision preceding par. (1) and in pars. (3)(B), (C)(5), and (11), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Alaska Statehood Act, referred to in provision preceding par. (1) and in pars. (3)(A) and (14), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in provision preceding par. (1) and in pars. (3)(A) and (14), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which isset out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+
+#### Amendments
+
+1997—Par. (2). Pub. L. 105–83 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘Federal land’ means lands the title to which is in the United States after December 2, 1980.” See Effective and Termination Dates of 1997 Amendment note below.
+
+#### Effective and Termination Dates of 1997 Amendment
+
+Section 316(d) of Pub. L. 105–83 provided that: “Unless and until laws are adopted in the State of Alaska which provide for the definition, preference, and participation specified in sections 803, 804, and 805 \[sections 3113 to 3115 of this title\] of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3111 et seq.), the amendments made by subsection (b) of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title\] shall be effective only for the purposes of determining whether the State's laws provide for such definition, preference, and participation. The Secretary shall certify before December 1, 1998 if such laws have been adopted in the State of Alaska. Subsection (b) shall be repealed on such date if such laws have not been adopted.”
+
+#### Savings Clause
+
+Section 316(c) of Pub. L. 105–83 provided that: “No provision of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title and enacting provisions set out as notes under this section\], amendment made by this section, or exercise of authority pursuant to this section may be construed to validate, invalidate, or in any way affect—
+
+&emsp;“(1) any assertion that an Alaska Native organization (including a federally recognized tribe, traditional Alaska Native council, or Alaska Native council organized pursuant to the Act of June 18, 1934 (25 U.S.C. 461 et seq.), as amended) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska;
+
+&emsp;“(2) any assertion that Indian country, as defined in section 1151 of title 18, United States Code, exists or does not exist within the boundaries of the State of Alaska;
+
+&emsp;“(3) any assertion that the Alaska National Interest Lands Conservation Act, as amended (16 U.S.C. 3101 et seq.) is or is not Indian law; or
+
+&emsp;“(4) the authority of the Secretary of the Interior under section 1314(c) of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3202(c)).”
+
+#### Moratorium on Federal Management of Subsistence Hunting and Fishing in Alaska
+
+Section 316(a) of Pub. L. 105–83 provided that: “None of the funds made available to the Department of the Interior or the Department of Agriculture by this or any other Act hereafter enacted may be used prior to December 1, 1998 to issue or implement final regulations, rules, or policies pursuant to title VIII of the Alaska National Interest Lands Conservation Act \[16 U.S.C. 3111 et seq.\] to assert jurisdiction, management, or control over the navigable waters transferred to the State of Alaska pursuant to the Submerged Lands Act of 1953 \[43 U.S.C. 1301 et seq.\] or the Alaska Statehood Act of 1959 \[Pub. L. 85–508, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\].”
 
 #### Section Referred to in Other Sections
 

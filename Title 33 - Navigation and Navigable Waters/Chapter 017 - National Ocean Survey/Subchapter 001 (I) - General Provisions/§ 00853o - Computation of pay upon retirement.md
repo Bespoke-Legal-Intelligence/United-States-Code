@@ -16,7 +16,7 @@ Each commissioned officer on the retired list who first became a member of a uni
 
 &emsp;(1) the retired pay base determined under section 1407 of title 10; by
 
-&emsp;(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to the officer under section 1405 of such title as if the officer's service were service as a member of the Armed Forces.
+&emsp;(2) the retired pay multiplier determined under section 1409 of such title for the number of years of service that may be credited to theofficer under section 1405 of such title as if the officer's service were service as a member of the Armed Forces.
 
 #### (c) Treatment of full and fractional parts of months in computing years of service; rounding off
 
@@ -28,7 +28,7 @@ Each commissioned officer on the retired list who first became a member of a uni
 
 (2) Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(June 3, 1948, ch. 390, §16, 62 Stat. 299; Oct. 12, 1949, ch. 681, title V, §531(b)(41), 63 Stat. 840; May20, 1958, Pub. L. 85–422, §11(c), 72 Stat. 132; Sept. 7, 1962, Pub. L. 87–649, §9(b)(2), 76 Stat. 495; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(g), 94 Stat. 1110; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(c), 923(e), 97 Stat. 642, 643; July 1, 1986, Pub. L. 99–348, title II, §206, 100 Stat. 701.)
+(June 3, 1948, ch. 390, §16, 62 Stat. 299; Oct. 12, 1949, ch. 681, title V, §531(b)(41), 63 Stat. 840; Pub. L. 85–422, §11(c), May 20, 1958, 72 Stat. 132; Pub. L. 87–649, §9(b)(2), Sept. 7, 1962, 76 Stat. 495; Pub. L. 96–342, title VIII, §813(g), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 98–94, title IX, §§922(c), 923(e), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, §206, July 1, 1986, 100 Stat. 701.)
 
 #### Amendments
 

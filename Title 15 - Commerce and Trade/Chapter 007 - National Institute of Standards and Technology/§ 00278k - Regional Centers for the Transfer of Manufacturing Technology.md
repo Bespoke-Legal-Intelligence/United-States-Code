@@ -64,9 +64,11 @@ Subsec. (d). Pub. L. 102–245, §105(e)(2), amended subsec. (d) generally. Prio
 
 #### Additional Renewal of Federal Financial Assistance for Centers
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title II\], Sept. 30, 1996, 110 Stat. 3009, 3009–36, provided in part: “That notwithstanding the time limitations imposed by 15 U.S.C. 278k(c)(1) and (5) on the duration of Federal financial assistance that may be awarded by the Secretary of Commerce to Regional Centers for the \[T\]ransfer of Manufacturing Technology (‘Centers’), such Federal financial assistance for a Center may continue beyond six years and may be renewed for additional periods, not to exceed one year, at a rate not to exceed one-third of the Center's total annual costs, subject before any such renewal to a positive evaluation of the Center and to a finding by the Secretary of Commerce that continuation of Federal funding to the Center is in the best interest of the Regional Centers for the \[T\]ransfer of Manufacturing Technology Program.”
+Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2476, provided in part: “That notwithstanding the time limitations imposed by 15 U.S.C. 278k(c)(1) and (5) on the duration of Federal financial assistance that may be awarded by the Secretary of Commerce to Regional Centers for the \[T\]ransfer of Manufacturing Technology (‘Centers’), such Federal financial assistance for a Center may continue beyond six years and may be renewed for additional periods, not to exceed one year, at a rate not to exceed one-third of the Center's total annual costs, subject before any such renewal to a positive evaluation of the Center and to a finding by the Secretary of Commerce that continuation of Federal funding to the Center is in the best interest of the Regional Centers for the \[T\]ransfer of Manufacturing Technology Program: <i>Provided further</i>, That the Center's most recent performance evaluation is positive, and the Center has submitted a reapplication which has successfully passed merit review.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title II\], Sept. 30, 1996, 110 Stat. 3009, 3009–36.
 
 Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 

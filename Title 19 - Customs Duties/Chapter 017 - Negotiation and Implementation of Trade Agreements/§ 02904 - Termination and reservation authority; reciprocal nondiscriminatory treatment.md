@@ -4,7 +4,7 @@
 
 For purposes of applying sections 2135, 2136(a), and 2137 of this title—
 
-&emsp;(1) any trade agreement entered into under section 2902 of this title shall be treated as anagreement entered into under section 2111 or 2112, as appropriate, of this title; and
+&emsp;(1) any trade agreement entered into under section 2902 of this title shall be treated as an agreement entered into under section 2111 or 2112, as appropriate, of this title; and
 
 &emsp;(2) any proclamation or Executive order issued pursuant to a trade agreement entered into under section 2902 of this title shall be treated as a proclamation or Executive order issued pursuant to a trade agreement entered into under section 2112 of this title.
 

@@ -46,11 +46,11 @@ Insured depository institution.—The term “insured depository institution” 
 
 &emsp;&emsp;(B) except as used in sections 1441a and 1441b of this title, an insured credit union (as defined in section 1752 of this title).
 
-(July 22, 1932, ch. 522, §2, 47 Stat. 725; June 27, 1934, ch. 847, §507, 48 Stat. 1264; May 28, 1935, ch. 150, §1, 49 Stat. 293; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; June 25, 1959, Pub. L. 86–70, §9(a), 73 Stat. 142; July 12, 1960, Pub. L. 86–624, §5(a), 74 Stat. 411; Oct. 9, 1962, Pub. L. 87–779, §2(a), 76 Stat. 779; Aug. 9, 1989, Pub. L. 101–73, title VII, §§701(a), 710(b)(1), 103 Stat. 411, 418.)
+(July 22, 1932, ch. 522, §2, 47 Stat. 725; June 27, 1934, ch. 847, §507, 48 Stat. 1264; May 28, 1935, ch. 150, §1, 49 Stat. 293; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; Pub. L. 86–70, §9(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §5(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–779, §2(a), Oct. 9, 1962, 76 Stat. 779; Pub. L. 101–73, title VII, §§701(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 411, 418.)
 
 #### Amendments
 
-1989—Pars. (1), (2). Pub. L. 101–73, §701(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which defined “board” and “Federal Home Loan Bank”.
+1989—Pars. (1), (2). Pub. L. 101–73, §701(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2)which defined “board” and “Federal Home Loan Bank”.
 
 Par. (4). Pub. L. 101–73, §701(a)(2), which directed amendment of par. (4) by striking out “(except when used in reference to the member of the Board)” after “ ‘member’ ”, was executed by striking out “(except when used in reference to a member of the board)” as the probable intent of Congress.
 

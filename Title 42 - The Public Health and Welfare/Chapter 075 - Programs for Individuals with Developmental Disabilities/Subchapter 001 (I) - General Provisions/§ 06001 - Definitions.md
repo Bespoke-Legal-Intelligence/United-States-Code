@@ -146,7 +146,7 @@ For purposes of this chapter:
 
 #### (18) Personal assistance services
 
-&emsp;The term “personal assistance services” means a range of services, provided by one or more individuals, designed to assist an individual with a disability to perform daily living activities on or off a job that such individual would typically perform if such individual didnot have a disability. Such services shall be designed to increase such individual's control in life and ability to perform everyday activities on or off such job.
+&emsp;The term “personal assistance services” means a range of services, provided by one or more individuals, designed to assist an individual with a disability to perform daily living activities on or off a job that such individual would typically perform if such individual did not have a disability. Such services shall be designed to increase such individual's control in life and ability to perform everyday activities on or off such job.
 
 #### (19) Prevention
 
@@ -230,7 +230,7 @@ For purposes of this chapter:
 
 #### (31) Unserved and underserved
 
-&emsp;The term “unserved and underserved” includes populations such as individuals fromracial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited-English proficiency, individuals from underserved geographic areas (rural or urban), and specific groups of individuals within the population of individuals with developmental disabilities, including individuals with developmental disabilities attributable to physical impairment, mental impairment, or a combination of physical and mental impairments.
+&emsp;The term “unserved and underserved” includes populations such as individuals from racial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited-English proficiency, individuals from underserved geographic areas (rural or urban), and specific groups of individuals within the population of individuals with developmental disabilities, including individuals with developmental disabilities attributable to physical impairment, mental impairment, or a combination of physical and mental impairments.
 
 (Pub. L. 88–164, title I, §102, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2663; amended Pub. L. 100–146, title I, §102, Oct. 29, 1987, 101 Stat. 841; Pub. L. 101–496, §4, Oct. 31, 1990, 104 Stat. 1192; Pub. L. 103–230, title I, §103, Apr. 6, 1994, 108 Stat. 288.)
 

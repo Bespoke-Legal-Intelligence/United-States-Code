@@ -24,7 +24,7 @@ For purposes of training and competition, the Corporation may issue or loan, wit
 
 (1) The Corporation may not offer for sale any repair part designed to convert any firearm to fire in a fully automatic mode.
 
-(2) The Corporation may not sell rifles, ammunition, or any other item available for sale toindividuals under the Civilian Marksmanship Program to a person who has been convicted of a felony or a violation of section 922 of title 18.
+(2) The Corporation may not sell rifles, ammunition, or any other item available for sale to individuals under the Civilian Marksmanship Program to a person who has been convicted of a felony or a violation of section 922 of title 18.
 
 #### (d) Oversight and accountability
 

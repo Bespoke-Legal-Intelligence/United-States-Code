@@ -8,7 +8,7 @@
 
 &emsp;(B) in the case of a matter originally heard by a panel of members of the Board, to an enlarged panel of the Board.
 
-(2) A panel referred to in paragraph (1) may not include the member, or any member of thepanel, that made the decision subject to reconsideration.
+(2) A panel referred to in paragraph (1) may not include the member, or any member of the panel, that made the decision subject to reconsideration.
 
 (3) A panel reconsidering a case under this subsection shall render its decision after reviewing the entire record before the Board. The decision of the panel shall be made by a majority vote of the members of the panel. The decision of the panel shall constitute the final decision of the Board.
 

@@ -78,7 +78,7 @@ Section 938, Pub. L. 93–203, title IV, §465, as added Pub. L. 95–524, §2, 
 
 Provisions similar to those comprising this section were contained in former section 926 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 939, Pub. L. 93–203, title IV, §466, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2000, related toratio of women enrollees in Job Corps, acquisition as property of United States of all studies, evaluations, and proposals produced with Federal funds in course of Job Corps program, and transactions conducted by private for-profit contractors for Job Corps centers.
+Section 939, Pub. L. 93–203, title IV, §466, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2000, related to ratio of women enrollees in Job Corps, acquisition as property of United States of all studies, evaluations, and proposals produced with Federal funds in course of Job Corps program, and transactions conducted by private for-profit contractors for Job Corps centers.
 
 Provisions similar to those comprising this section were contained in former section 927 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

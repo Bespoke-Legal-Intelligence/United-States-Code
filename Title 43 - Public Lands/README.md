@@ -1,5 +1,5 @@
 
-43 U.S.C.<br>United States Code, 1996 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
+43 U.S.C.<br>United States Code, 1997 Edition<br>Title 43 - PUBLIC LANDS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 43—PUBLIC LANDS
 
@@ -18,7 +18,7 @@
 | [<b>10.</b>](Chapter%20010%20-%20Underground-Water%20Reclamation%20Grants/README.md) | <b>Underground-Water Reclamation Grants \[Repealed\]</b> | <b>351</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Discovery%2C%20Development%2C%20and%20Marking%20of%20Water%20Holes%2C%20Etc.%2C%20by%20Government/README.md) | <b>Discovery, Development, and Marking of Water Holes, etc., by Government</b> | <b>361</b> |
 | [<b>11A.</b>](Chapter%20011A%20-%20Board%20on%20Geographic%20Names/README.md) | <b>Board on Geographic Names</b> | <b>364</b> |
-| <b>12.</b> | <b>Reclamation and Irrigation of Lands by Federal Government</b> | <b>371</b> |
+| [<b>12.</b>](Chapter%20012%20-%20Reclamation%20and%20Irrigation%20of%20Lands%20by%20Federal%20Government/README.md) | <b>Reclamation and Irrigation of Lands by Federal Government</b> | <b>371</b> |
 | [<b>12A.</b>](Chapter%20012A%20-%20Boulder%20Canyon%20Project/README.md) | <b>Boulder Canyon Project</b> | <b>617</b> |
 | [<b>12B.</b>](Chapter%20012B%20-%20Colorado%20River%20Storage%20Project/README.md) | <b>Colorado River Storage Project</b> | <b>620</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Federal%20Lands%20Included%20in%20State%20Irrigation%20Districts/README.md) | <b>Federal Lands Included in State Irrigation Districts</b> | <b>621</b> |
@@ -39,16 +39,16 @@
 | [<b>26.</b>](Chapter%20026%20-%20Abandoned%20Military%20Reservations/README.md) | <b>Abandoned Military Reservations \[Repealed\]</b> | <b>1071</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Public%20Lands%20in%20Oklahoma/README.md) | <b>Public Lands in Oklahoma</b> | <b>1091</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Miscellaneous%20Provisions%20Relating%20to%20Public%20Lands/README.md) | <b>Miscellaneous Provisions Relating to Public Lands</b> | <b>1151</b> |
-| <b>29.</b> | <b>Submerged Lands</b> | <b>1301</b> |
+| [<b>29.</b>](Chapter%20029%20-%20Submerged%20Lands/README.md) | <b>Submerged Lands</b> | <b>1301</b> |
 | [<b>30.</b>](Chapter%20030%20-%20Administration%20of%20Public%20Lands/README.md) | <b>Administration of Public Lands \[Repealed or Omitted\]</b> | <b>1361</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Department%20of%20the%20Interior/README.md) | <b>Department of the Interior</b> | <b>1451</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Colorado%20River%20Basin%20Project/README.md) | <b>Colorado River Basin Project</b> | <b>1501</b> |
 | [<b>32A.</b>](Chapter%20032A%20-%20Colorado%20River%20Basin%20Salinity%20Control/README.md) | <b>Colorado River Basin Salinity Control</b> | <b>1571</b> |
 | [<b>32B.</b>](Chapter%20032B%20-%20Colorado%20River%20Floodway/README.md) | <b>Colorado River Floodway</b> | <b>1600</b> |
-| <b>33.</b> | <b>Alaska Native Claims Settlement</b> | <b>1601</b> |
+| [<b>33.</b>](Chapter%20033%20-%20Alaska%20Native%20Claims%20Settlement/README.md) | <b>Alaska Native Claims Settlement</b> | <b>1601</b> |
 | [<b>33A.</b>](Chapter%20033A%20-%20Implementation%20of%20Alaska%20Native%20Claims%20Settlement%20and%20Alaska%20Statehood/README.md) | <b>Implementation of Alaska Native Claims Settlement and Alaska Statehood</b> | <b>1631</b> |
 | [<b>34.</b>](Chapter%20034%20-%20Trans-Alaska%20Pipeline/README.md) | <b>Trans-Alaska Pipeline</b> | <b>1651</b> |
-| <b>35.</b> | <b>Federal Land Policy and Management</b> | <b>1701</b> |
+| [<b>35.</b>](Chapter%20035%20-%20Federal%20Land%20Policy%20and%20Management/README.md) | <b>Federal Land Policy and Management</b> | <b>1701</b> |
 | [<b>36.</b>](Chapter%20036%20-%20Outer%20Continental%20Shelf%20Resource%20Management/README.md) | <b>Outer Continental Shelf Resource Management</b> | <b>1801</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Public%20Rangelands%20Improvement/README.md) | <b>Public Rangelands Improvement</b> | <b>1901</b> |
 | [<b>38.</b>](Chapter%20038%20-%20Crude%20Oil%20Transportation%20Systems/README.md) | <b>Crude Oil Transportation Systems</b> | <b>2001</b> |
@@ -83,6 +83,7 @@ Right of action for death or personal injury within national park or other place
 - [Chapter 010 - Underground-Water Reclamation Grants](Chapter%20010%20-%20Underground-Water%20Reclamation%20Grants/README.md)
 - [Chapter 011 - Discovery, Development, and Marking of Water Holes, Etc., by Government](Chapter%20011%20-%20Discovery%2C%20Development%2C%20and%20Marking%20of%20Water%20Holes%2C%20Etc.%2C%20by%20Government/README.md)
 - [Chapter 011A - Board on Geographic Names](Chapter%20011A%20-%20Board%20on%20Geographic%20Names/README.md)
+- [Chapter 012 - Reclamation and Irrigation of Lands by Federal Government](Chapter%20012%20-%20Reclamation%20and%20Irrigation%20of%20Lands%20by%20Federal%20Government/README.md)
 - [Chapter 012A - Boulder Canyon Project](Chapter%20012A%20-%20Boulder%20Canyon%20Project/README.md)
 - [Chapter 012B - Colorado River Storage Project](Chapter%20012B%20-%20Colorado%20River%20Storage%20Project/README.md)
 - [Chapter 013 - Federal Lands Included in State Irrigation Districts](Chapter%20013%20-%20Federal%20Lands%20Included%20in%20State%20Irrigation%20Districts/README.md)
@@ -103,13 +104,16 @@ Right of action for death or personal injury within national park or other place
 - [Chapter 026 - Abandoned Military Reservations](Chapter%20026%20-%20Abandoned%20Military%20Reservations/README.md)
 - [Chapter 027 - Public Lands in Oklahoma](Chapter%20027%20-%20Public%20Lands%20in%20Oklahoma/README.md)
 - [Chapter 028 - Miscellaneous Provisions Relating to Public Lands](Chapter%20028%20-%20Miscellaneous%20Provisions%20Relating%20to%20Public%20Lands/README.md)
+- [Chapter 029 - Submerged Lands](Chapter%20029%20-%20Submerged%20Lands/README.md)
 - [Chapter 030 - Administration of Public Lands](Chapter%20030%20-%20Administration%20of%20Public%20Lands/README.md)
 - [Chapter 031 - Department of the Interior](Chapter%20031%20-%20Department%20of%20the%20Interior/README.md)
 - [Chapter 032 - Colorado River Basin Project](Chapter%20032%20-%20Colorado%20River%20Basin%20Project/README.md)
 - [Chapter 032A - Colorado River Basin Salinity Control](Chapter%20032A%20-%20Colorado%20River%20Basin%20Salinity%20Control/README.md)
 - [Chapter 032B - Colorado River Floodway](Chapter%20032B%20-%20Colorado%20River%20Floodway/README.md)
+- [Chapter 033 - Alaska Native Claims Settlement](Chapter%20033%20-%20Alaska%20Native%20Claims%20Settlement/README.md)
 - [Chapter 033A - Implementation of Alaska Native Claims Settlement and Alaska Statehood](Chapter%20033A%20-%20Implementation%20of%20Alaska%20Native%20Claims%20Settlement%20and%20Alaska%20Statehood/README.md)
 - [Chapter 034 - Trans-Alaska Pipeline](Chapter%20034%20-%20Trans-Alaska%20Pipeline/README.md)
+- [Chapter 035 - Federal Land Policy and Management](Chapter%20035%20-%20Federal%20Land%20Policy%20and%20Management/README.md)
 - [Chapter 036 - Outer Continental Shelf Resource Management](Chapter%20036%20-%20Outer%20Continental%20Shelf%20Resource%20Management/README.md)
 - [Chapter 037 - Public Rangelands Improvement](Chapter%20037%20-%20Public%20Rangelands%20Improvement/README.md)
 - [Chapter 038 - Crude Oil Transportation Systems](Chapter%20038%20-%20Crude%20Oil%20Transportation%20Systems/README.md)

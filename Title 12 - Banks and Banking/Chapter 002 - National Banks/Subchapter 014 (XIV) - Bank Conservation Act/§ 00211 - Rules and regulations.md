@@ -8,7 +8,7 @@ The Comptroller of the Currency may prescribe such rules and regulations as the 
 
 In any case in which the Federal Deposit Insurance Corporation is the conservator, any rules or regulations prescribed by the Comptroller shall be consistent with any rules and regulations prescribed by the Federal Deposit Insurance Corporation pursuant to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
 
-(Mar. 9, 1933, ch. 1, title II, §211, 48 Stat. 5; Aug. 9, 1989, Pub. L. 101–73, title VIII, §807, 103 Stat. 446.)
+(Mar. 9, 1933, ch. 1, title II, §211, 48 Stat. 5; Pub. L. 101–73, title VIII, §807, Aug. 9, 1989, 103 Stat. 446.)
 
 #### References in Text
 

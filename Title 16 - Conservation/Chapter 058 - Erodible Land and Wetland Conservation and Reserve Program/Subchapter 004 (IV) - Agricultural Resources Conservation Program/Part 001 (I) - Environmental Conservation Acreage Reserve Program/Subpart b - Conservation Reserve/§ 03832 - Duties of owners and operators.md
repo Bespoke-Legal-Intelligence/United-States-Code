@@ -10,7 +10,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;(3) not to use such land for agricultural purposes, except as permitted by the Secretary;
 
-&emsp;(4) to establish approved vegetative cover, or water cover for the enhancement of wildlife, on such land, except that such water covershall not include ponds for the purpose of watering livestock, irrigating crops, or raising fish for commercial purposes;
+&emsp;(4) to establish approved vegetative cover, or water cover for the enhancement of wildlife, on such land, except that such water cover shall not include ponds for the purpose of watering livestock, irrigating crops, or raising fish for commercial purposes;
 
 &emsp;(5) in addition to the remedies provided under section 3836(d) of this title, on the violation of a term or condition of the contract at any time the owner or operator has control of such land—
 
@@ -24,7 +24,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;(B) to refund to the United States all rental payments and cost sharing payments received by the owner or operator, or accept such payment adjustments or make such refunds as the Secretary considers appropriate and consistent with the objectives of this subpart;
 
-> &emsp;unless the transferee of such land agrees with the Secretary to assume all obligations of the contract, or the transferee and the Secretary agree to modifications to such contract, where such modifications are consistent with the objectives of the program as determined by the Secretary; <i>Provided however</i>, no refund of rental payments and cost sharing payments shall be required when the land is purchased by or for the United States Fish and Wildlife Service;
+> &emsp;unless the transferee of such land agrees with the Secretary to assume all obligations of the contract, or the transferee and the Secretary agree to modifications to such contract, where such modifications are consistent with the objectives of the program as determined by the Secretary; <i>Provided however</i>, no refund of rental payments and cost sharing payments shallbe required when the land is purchased by or for the United States Fish and Wildlife Service;
 
 &emsp;(7) not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that the Secretary may permit harvesting or grazing or other commercial use of the forage on land that is subject to the contract in response to a drought or other similar emergency, and the Secretary may permit limited grazing on such land where such grazing is incidental to the gleaning of crop residues on the fields in which such land is located and occurs during the 7-month period in which grazing of conserving use acreage is allowed in a State under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) or after the producer harvests the grain crop of the surrounding field for a reduction in rental payment commensurate with the limited economic value of such incidental grazing;
 
@@ -76,7 +76,7 @@ To the extent practicable, not less than one-eighth of land that is placed in th
 
 Notwithstanding any other provision of law, an owner or operator who is a party to a contract entered into under this subpart may not be required to make repayments to the Secretary of amounts received under such contract if the land that is subject to such contract has been foreclosed upon and the Secretary determines that forgiving such repayments is appropriate in order to provide fair and equitable treatment. This subsection shall not void the responsibilities of such an owner or operator under the contract if such owner or operator resumes control over the property that is subject to the contract within the period specified in the contract. Upon the resumption of such control over the property by the owner or operator, the provisions of the contract in effect on the date of the foreclosure shall apply.
 
-(Pub. L. 99–198, title XII, §1232, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1919; Pub. L. 101–624, title XIV, §§1433, 1447(a), Nov. 28, 1990, 104 Stat. 3579, 3605; Pub. L. 102–237, title II, §204(5), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title V, §516(a), Oct. 28, 1992, 106 Stat. 4136; Pub. L. 104–127, title III, §332(a)(2), Apr. 4, 1996, 110 Stat. 994.)
+(Pub. L. 99–198, title XII, §1232, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 101–512, title I, Nov. 5, 1990, 104Stat. 1919; Pub. L. 101–624, title XIV, §§1433, 1447(a), Nov. 28, 1990, 104 Stat. 3579, 3605; Pub. L. 102–237, title II, §204(5), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title V, §516(a), Oct. 28, 1992, 106 Stat. 4136; Pub. L. 104–127, title III, §332(a)(2), Apr. 4, 1996, 110 Stat. 994.)
 
 #### References in Text
 

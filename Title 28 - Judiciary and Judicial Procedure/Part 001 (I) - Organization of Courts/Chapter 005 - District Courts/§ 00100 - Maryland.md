@@ -10,7 +10,7 @@ Maryland constitutes one judicial district comprising two divisions.
 
 &emsp;&emsp;Court for the Southern Division shall be held at a suitable site in Montgomery or Prince George's County not more than five miles from the boundary of Montgomery and Prince George's Counties.
 
-(June 25, 1948, ch. 646, 62 Stat. 882; Dec. 14, 1970, Pub. L. 91–546, §4, 84 Stat. 1412; Oct. 14, 1988, Pub. L. 100–487, §1, 102 Stat. 2431.)
+(June 25, 1948, ch. 646, 62 Stat. 882; Pub. L. 91–546, §4, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 100–487, §1, Oct. 14, 1988, 102 Stat. 2431.)
 
 #### Historical and Revision Notes
 
@@ -24,9 +24,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1988—Pub. L. 100–702 amended section generally. Prior to amendment, section provided that Maryland constituted one judicial district and that court be held at Baltimore, Cumberland, Denton, and at a suitable site in Prince Georges County not more than five miles from the boundary of Montgomery and Prince Georges Counties.
+<b>1988</b>—Pub. L. 100–702 amended section generally. Prior to amendment, section provided that Maryland constituted one judicial district and that court be held at Baltimore, Cumberland, Denton, and at a suitable site in Prince Georges County not more than five miles from the boundary of Montgomery and Prince Georges Counties.
 
-1970—Pub. L. 91–546 added a suitable site in Prince Georges County not more than five miles from the boundary of Montgomery and Prince Georges Counties to the list of enumerated places for holding court in Maryland.
+<b>1970</b>—Pub. L. 91–546 added a suitable site in Prince Georges County not more than five miles from the boundary of Montgomery and Prince Georges Counties to the list of enumerated places for holding court in Maryland.
 
 #### Effective Date of 1988 Amendment
 

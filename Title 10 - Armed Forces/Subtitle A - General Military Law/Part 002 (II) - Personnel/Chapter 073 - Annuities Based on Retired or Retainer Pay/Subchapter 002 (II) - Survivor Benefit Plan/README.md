@@ -3,12 +3,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [1447\.](%C2%A7%2001447%20-%20Definitions.md) | Definitions. |
-| [1448\.](%C2%A7%2001448%20-%20Application%20of%20plan%201.md) | Application of Plan.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [1448\.](%C2%A7%2001448%20-%20Application%20of%20Plan.md) | Application of Plan. |
+| [1448a.](%C2%A7%2001448a%20-%20Election%20to%20discontinue%20participation%20one-year%20opportunity%20after%20second%20anniversary%20of%20commencement%20of%20payment%20of%20retired%20pay.md) | Election to discontinue participation: one-year opportunity after second anniversary of commencement of payment of retired pay. |
 | [1449\.](%C2%A7%2001449%20-%20Mental%20incompetency%20of%20member.md) | Mental incompetency of member. |
 | [1450\.](%C2%A7%2001450%20-%20Payment%20of%20annuity%20beneficiaries.md) | Payment of annuity: beneficiaries. |
 | [1451\.](%C2%A7%2001451%20-%20Amount%20of%20annuity.md) | Amount of annuity. |
@@ -20,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title VI, §641(a)(2), Nov. 18, 1997, 111 Stat. 1798, added item 1448a.
 
 1996—Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2551, amended analysis generally, reenacting items 1447 to 1452, 1454, and 1455 without change and substituting “Recovery of amounts” for “Recovery of annuity” in item 1453.
 
@@ -33,15 +31,14 @@
 
 This subchapter is referred to in sections 1460a, 12731 of this title.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01447 - Definitions](%C2%A7%2001447%20-%20Definitions.md)
-- [&sect; 01448 - Application of plan 1](%C2%A7%2001448%20-%20Application%20of%20plan%201.md)
+- [&sect; 01448 - Application of Plan](%C2%A7%2001448%20-%20Application%20of%20Plan.md)
+- [&sect; 01448a - Election to discontinue participation one-year opportunity after second anniversary of commencement of payment of retired pay](%C2%A7%2001448a%20-%20Election%20to%20discontinue%20participation%20one-year%20opportunity%20after%20second%20anniversary%20of%20commencement%20of%20payment%20of%20retired%20pay.md)
 - [&sect; 01449 - Mental incompetency of member](%C2%A7%2001449%20-%20Mental%20incompetency%20of%20member.md)
 - [&sect; 01450 - Payment of annuity beneficiaries](%C2%A7%2001450%20-%20Payment%20of%20annuity%20beneficiaries.md)
 - [&sect; 01451 - Amount of annuity](%C2%A7%2001451%20-%20Amount%20of%20annuity.md)

@@ -18,7 +18,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the Agreement on G
 
 #### Effective Date
 
-Section effective July 26, 1979, but authority of President to grant waivers under this section effective on Jan. 1, 1980, see section 309 of Pub. L. 96–39, set out as a note under section 2511 of this title.
+Section effective July 26, 1979, but authority of President to grant waivers under this section effective onJan. 1, 1980, see section 309 of Pub. L. 96–39, set out as a note under section 2511 of this title.
 
 #### Delegation of Functions
 

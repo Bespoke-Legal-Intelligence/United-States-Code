@@ -8,7 +8,7 @@ Any person or persons operating any railroad, or master or owner of any boat or 
 
 Any person or persons operating any railroad, or master or owner of any boat or vessel, or owner or custodian of, or person having control over, cattle or other livestock or live poultry who shall violate the provisions of section 115 of this title or the rules and regulations prescribed by the Secretary of Agriculture under such section may be assessed a civil penalty by the Secretary of not more than $1,000. The Secretary may issue an order assessing such civil penalty only after notice and an opportunity for an agency hearing on the record. Such order shall be treated as a final order reviewable under chapter 158 of title 28. The validity of such order may not be reviewed in an action to collect such civil penalty.
 
-(May 29, 1884, ch. 60, §7, 23 Stat. 32; Feb. 7, 1928, ch. 30, 45 Stat. 59; Oct. 10, 1978, Pub. L. 95–439, §1, 92 Stat. 1061; Jan. 12, 1983, Pub. L. 97–461, §5, 96 Stat. 2524.)
+(May 29, 1884, ch. 60, §7, 23 Stat. 32; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 95–439, §1, Oct. 10, 1978, 92 Stat. 1061; Pub. L. 97–461, §5, Jan. 12, 1983, 96 Stat. 2524.)
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §§3838 to 3838f. Repealed. Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007
 
-Section 3838, Pub. L. 99–198, title XII, §1238, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, related to policy of Congress on water quality protection.
+Section 3838, Pub. L. 99–198, title XII, §1238, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat.3590, related to policy of Congress on water quality protection.
 
 Section 3838a, Pub. L. 99–198, title XII, §1238A, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, defined terms for purposes of this part.
 

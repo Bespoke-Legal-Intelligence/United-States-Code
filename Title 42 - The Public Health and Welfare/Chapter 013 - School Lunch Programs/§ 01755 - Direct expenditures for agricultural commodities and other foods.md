@@ -62,7 +62,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 1994—Subsec. (a). Pub. L. 103–448, §101, substituted in second sentence “Except as provided in the next 2 sentences, any school” for “Any school” and inserted after second sentence “Any school food authority may refuse some or all of the fresh fruits and vegetables offered to the school food authority in any school year and shall receive, in lieu of the offered fruits and vegetables, other more desirable fresh fruits and vegetables that are at least equal in value to the fresh fruits and vegetables refused by the school food authority. The value of any fresh fruits and vegetables refused by a school under the preceding sentence for a school year shall not be used to determine the 20 percent of the total value of agricultural commodities and other foods tendered to the school food authority in the school year under the second sentence.”
 
-Subsec. (b). Pub. L. 103–448, §102, amended subsec. (b) generally. Prior to amendment, subsec. (b) related to cash donations in lieu of commodity donations during school year for school food service programs and withholding of funds for States administered by Secretary for disbursement to participating schools to be used to purchase commodities and other food for their food service programs.
+Subsec. (b). Pub. L. 103–448, §102, amended subsec. (b) generally. Prior to amendment, subsec. (b) related to cash donations in lieu of commodity donations duringschool year for school food service programs and withholding of funds for States administered by Secretary for disbursement to participating schools to be used to purchase commodities and other food for their food service programs.
 
 Subsec. (g). Pub. L. 103–448, §103, added subsec. (g).
 
@@ -130,7 +130,7 @@ Section 131(c) of Pub. L. 101–147 provided that: “The amendments made by thi
 
 #### Effective Date of 1981 Amendment
 
-Amendment by sections 802 and 819(h) of Pub. L. 97–35 effective July 1, 1981, and Oct. 1, 1981, respectively, seesection 820(a)(2), (4) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+Amendment by sections 802 and 819(h) of Pub. L. 97–35 effective July 1, 1981, and Oct. 1, 1981, respectively, see section 820(a)(2), (4) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
 #### Effective Date of 1978 Amendment
 

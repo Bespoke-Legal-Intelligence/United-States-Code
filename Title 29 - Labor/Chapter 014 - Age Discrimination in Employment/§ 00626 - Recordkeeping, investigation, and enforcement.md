@@ -62,7 +62,7 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 (3) In any dispute that may arise over whether any of the requirements, conditions, and circumstances set forth in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H) of paragraph (1), or subparagraph (A) or (B) of paragraph (2), have been met, the party asserting the validity of a waiver shall have the burden of proving in a court of competent jurisdiction that a waiver was knowing and voluntary pursuant to paragraph (1) or (2).
 
-(4) No waiver agreement may affect the Commission's rights and responsibilities to enforce this chapter. No waiver may be used to justify interfering with the protected right of an employee to file a charge or participate in an investigation or proceeding conducted by the Commission.
+(4) No waiver agreement may affect the Commission's rights and responsibilities to enforcethis chapter. No waiver may be used to justify interfering with the protected right of an employee to file a charge or participate in an investigation or proceeding conducted by the Commission.
 
 (Pub. L. 90–202, §7, Dec. 15, 1967, 81 Stat. 604; Pub. L. 95–256, §4(a), (b)(1), (c)(1), Apr. 6, 1978, 92 Stat. 190, 191; 1978 Reorg. Plan No. 1, §2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 101–433, title II, §201, Oct. 16, 1990, 104 Stat. 983; Pub. L. 102–166, title I, §115, Nov. 21, 1991, 105 Stat. 1079.)
 

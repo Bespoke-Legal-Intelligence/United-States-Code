@@ -4,7 +4,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;(1) “agency” has the same meaning as in section 551(1) of this title;
 
-&emsp;(2) “administrative program” includes a Federal function which involves protection ofthe public interest and the determination of rights, privileges, and obligations of private persons through rule making, adjudication, licensing, or investigation, as those terms are used in subchapter II of this chapter;
+&emsp;(2) “administrative program” includes a Federal function which involves protection of the public interest and the determination of rights, privileges, and obligations of private persons through rule making, adjudication, licensing, or investigation, as those terms are used in subchapter II of this chapter;
 
 &emsp;(3) “alternative means of dispute resolution” means any procedure that is used to resolve issues in controversy, including, but not limited to, conciliation, facilitation, mediation, factfinding, minitrials, arbitration, and use of ombuds, or any combination thereof;
 
@@ -66,7 +66,7 @@ Section 11 of Pub. L. 101–552, as amended by Pub. L. 104–106, div. D, title 
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–320 provided that: “This Act \[enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure, section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
+Section 1 of Pub. L. 104–320 provided that: “This Act \[enacting sections 570a and 584 of this title, amending this section, sections 569, 573 to 575, 580, 581, and 583 of this title, section 2304 of Title 10, Armed Forces, section 1491 of Title 28, Crimes and Criminal Procedure,section 173 of Title 29, Labor, section 3556 of Title 31, Money and Finance, and sections 253 and 605 of Title 41, Public Contracts, repealing section 582 of this title, enacting provisions set out as notes under section 563 of this title, section 1491 of Title 28, and section 3556 of Title 31, amending provisions set out as notes under this section, and repealing provisions set out as notes under this section and section 561 of this title\] may be cited as the ‘Administrative Dispute Resolution Act of 1996’.”
 
 #### Short Title
 
@@ -78,7 +78,7 @@ Section 2 of Pub. L. 101–552 provided that: “The Congress finds that—
 
 &emsp;“(1) administrative procedure, as embodied in chapter 5 of title 5, United States Code, and other statutes, is intended to offer a prompt, expert, and inexpensive means of resolving disputes as an alternative to litigation in the Federal courts;
 
-&emsp;“(2) administrative proceedings have become increasingly formal, costly, and lengthy resulting inunnecessary expenditures of time and in a decreased likelihood of achieving consensual resolution of disputes;
+&emsp;“(2) administrative proceedings have become increasingly formal, costly, and lengthy resulting in unnecessary expenditures of time and in a decreased likelihood of achieving consensual resolution of disputes;
 
 &emsp;“(3) alternative means of dispute resolution have been used in the private sector for many years and, in appropriate circumstances, have yielded decisions that are faster, less expensive, and less contentious;
 
@@ -172,7 +172,7 @@ Disqualification of Representation or Assistance.—Any agency that adopts regul
 
 #### Definitions
 
-Section 10 of Pub. L. 101–552, as amended by Pub. L. 102–354, §5(b)(6), Aug. 26, 1992, 106 Stat. 946, provided that: “As used in this Act \[see Short Title note above\], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]).”
+Section 10 of Pub. L. 101–552, as amended by Pub. L. 102–354, §5(b)(6), Aug. 26, 1992, 106 Stat. 946, providedthat: “As used in this Act \[see Short Title note above\], the terms ‘agency’, ‘administrative program’, and ‘alternative means of dispute resolution’ have the meanings given such terms in section 571 of title 5, United States Code (enacted as section 581 of title 5, United States Code, by section 4(b) of this Act, and redesignated as section 571 of such title by section 3(b) of the Administrative Procedure Technical Amendments Act of 1991 \[Pub. L. 102–354\]).”
 
 #### Section Referred to in Other Sections
 

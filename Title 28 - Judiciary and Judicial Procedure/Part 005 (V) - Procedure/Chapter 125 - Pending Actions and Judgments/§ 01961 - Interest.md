@@ -12,7 +12,7 @@
 
 (4) This section shall not be construed to affect the interest on any judgment of any court not specified in this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 957; Apr. 2, 1982, Pub. L. 97–164, title III, §302(a), 96 Stat. 55; Sept. 13, 1982, Pub. L. 97–258, §2(m)(1), 96 Stat. 1062; Jan. 12, 1983, Pub. L. 97–452, §2(d)(1), 96 Stat. 2478; Oct. 22, 1986, Pub. L. 99–514, §2, title XV, §1511(c)(17), 100 Stat. 2095, 2745; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 957; Pub. L. 97–164, title III, §302(a), Apr. 2, 1982, 96 Stat. 55; Pub. L. 97–258, §2(m)(1), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 97–452, §2(d)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 99–514, §2, title XV, §1511(c)(17), Oct. 22, 1986, 100 Stat. 2095, 2745; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 
@@ -26,15 +26,15 @@ Section 6621 of the Internal Revenue Code of 1986, referred to in subsec. (c)(1)
 
 #### Amendments
 
-1992—Subsec. (c)(3). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (c)(3). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1986—Subsec. (c)(1). Pub. L. 99–514, §1511(c)(17), substituted “the underpayment rate or overpayment rate (whichever is appropriate) established” for “a rate established”.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–514, §1511(c)(17), substituted “the underpayment rate or overpayment rate (whichever is appropriate) established” for “a rate established”.
 
 Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1983—Subsec. (b). Pub. L. 97–452 substituted “section 1304(b) of title 31” for “section 1302 of the Act of July 27, 1956 (31 U.S.C. 724a)”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–452 substituted “section 1304(b) of title 31” for “section 1302 of the Act of July 27, 1956 (31 U.S.C. 724a)”.
 
-1982—Subsec. (a). Pub. L. 97–164, §302(a)(1), (2), designated existing provisions as subsec. (a), substituted “at a rate equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately prior to the date of the judgment” for “at the rate allowed by State law”, and inserted provision that the Director of the Administrative Office of the United States Courts distribute notice of the rate and any changes in it to all Federal judges.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §302(a)(1), (2), designated existing provisions as subsec. (a), substituted “at a rate equal to the coupon issue yield equivalent (as determined by the Secretary of the Treasury) of the average accepted auction price for the last auction of fifty-two week United States Treasury bills settled immediately prior to the date of the judgment” for “at the rate allowed by State law”, and inserted provision that the Director of the Administrative Office of the United States Courts distribute notice of the rate and any changes in it to all Federal judges.
 
 Subsec. (b). Pub. L. 97–258 substituted “this title and section 1304(b)(1) of title 31” for “title 28, United States Code, and section 1302 of the Act of July 27, 1956 (31 U.S.C. 724a)”.
 
@@ -68,7 +68,7 @@ Interest on—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2412 of this title; title 15 section 4303; title 21 section 844a; title 26 section 6622.
+This section is referred to in section 2412 of this title; title 15 section 4303; title 21 section 844a; title 22 section 6082; title 26 section 6622.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

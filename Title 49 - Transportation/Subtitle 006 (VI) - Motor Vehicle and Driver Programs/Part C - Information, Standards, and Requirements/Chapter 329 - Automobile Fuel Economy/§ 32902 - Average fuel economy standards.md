@@ -2,7 +2,7 @@
 
 (a)
 
-Non-Passenger Automobiles.—At least 18 months before the beginning of each model year, the Secretary of Transportation shall prescribe by regulation average fuel economy standards for automobiles (except passenger automobiles) manufactured by a manufacturer in that modelyear. Each standard shall be the maximum feasible average fuel economy level that the Secretary decides the manufacturers can achieve in that model year. The Secretary may prescribe separate standards for different classes of automobiles.
+Non-Passenger Automobiles.—At least 18 months before the beginning of each model year, the Secretary of Transportation shall prescribe by regulation average fuel economy standards for automobiles (except passenger automobiles) manufactured by a manufacturer in that model year. Each standard shall be the maximum feasible average fuel economy level that the Secretary decides the manufacturers can achieve in that model year. The Secretary may prescribe separate standards for different classes of automobiles.
 
 (b)
 
@@ -68,7 +68,7 @@ Consultation.—The Secretary of Transportation shall consult with the Secretary
 
 (j)
 
-Secretary of Energy Comments.—(1) Before issuing a notice proposing to prescribe oramend an average fuel economy standard under subsection (a), (c), or (g) of this section, the Secretary of Transportation shall give the Secretary of Energy at least 10 days from the receipt of the notice during which the Secretary of Energy may, if the Secretary of Energy concludes that the proposed standard would adversely affect the conservation goals of the Secretary of Energy, provide written comments to the Secretary of Transportation about the impact of the standard on those goals. To the extent the Secretary of Transportation does not revise a proposed standard to take into account comments of the Secretary of Energy on any adverse impact of the standard, the Secretary of Transportation shall include those comments in the notice.
+Secretary of Energy Comments.—(1) Before issuing a notice proposing to prescribe or amend an average fuel economy standard under subsection (a), (c), or (g) of this section, the Secretary of Transportation shall give the Secretary of Energy at least 10 days from the receipt of the notice during which the Secretary of Energy may, if the Secretary of Energy concludes that the proposed standard would adversely affect the conservation goals of the Secretary of Energy, provide written comments to the Secretary of Transportation about the impact of the standard on those goals. To the extent the Secretary of Transportation does not revise a proposed standard to take into account comments of the Secretary of Energy on any adverse impact of the standard, the Secretary of Transportation shall include those comments in the notice.
 
 (2) Before taking final action on a standard or an exemption from a standard under this section, the Secretary of Transportation shall notify the Secretary of Energy and provide the Secretary of Energy a reasonable time to comment.
 

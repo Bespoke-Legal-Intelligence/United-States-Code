@@ -44,7 +44,7 @@
 
 All laws enacted by Congress with respect to Guam and all laws enacted by the territorial legislature of Guam which are inconsistent with the provisions of this subsection are repealed to the extent of such inconsistency.
 
-(Aug. 1, 1950, ch. 512, §5, 64 Stat. 385; Sept. 11, 1968, Pub. L. 90–497, §10, 82 Stat. 847.)
+(Aug. 1, 1950, ch. 512, §5, 64 Stat. 385; Pub. L. 90–497, §10, Sept. 11, 1968, 82 Stat. 847.)
 
 #### Amendments
 

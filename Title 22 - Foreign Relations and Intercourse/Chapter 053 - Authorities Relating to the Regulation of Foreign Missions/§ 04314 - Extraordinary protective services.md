@@ -26,13 +26,13 @@ Any agreement with a State or local authority for the provision of protective se
 
 #### (f) Requirement for appropriations
 
-Contracts may be entered into in carrying out this section only to such extent or in suchamounts as are provided in advance in appropriation Acts.
+Contracts may be entered into in carrying out this section only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (g) Working capital fund
 
 Amounts used to carry out this section shall not be subject to section 4308(h) of this title.
 
-(Aug. 1, 1956, ch. 841, title II, §214, as added Aug. 16, 1985, Pub. L. 99–93, title I, §126(a), 99 Stat. 417; amended Apr. 30, 1994, Pub. L. 103–236, title I, §139(2), 108 Stat. 397.)
+(Aug. 1, 1956, ch. 841, title II, §214, as added Pub. L. 99–93, title I, §126(a), Aug. 16, 1985, 99 Stat. 417; amended Pub. L. 103–236, title I, §139(2), Apr. 30, 1994, 108 Stat. 397.)
 
 #### References in Text
 

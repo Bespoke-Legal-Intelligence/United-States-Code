@@ -6,7 +6,7 @@ Upon the request of the Secretary of Transportation, the Secretary shall assign 
 
 #### (b) Installation of new roofs and drainage systems
 
-Notwithstanding the provisions of subsection (a) of this section, the Secretary shall, not later than twelve months after December 29, 1981, complete the installation of new roofs and associated drainage systems on all existing roof surfaces of the historic Union Station building. Of funds appropriated to the Secretary under the construction appropriation for the National Park System for the fiscal year ending September 30, 1982, not less than $8,100,000 shall be available to and allocated by the Secretary for such roof work. In the event the assignment provided for in subsection (a) of this section occurs prior to completion of such roof work, the Secretary shall continue to be responsible for such roof work until its completion, except as the Secretary and the Secretary of Transportation may otherwise agree.
+Notwithstanding the provisions of subsection (a) of this section, the Secretary shall, not later than twelve months after December 29, 1981, complete the installation of new roofs and associated drainage systems on all existing roof surfaces of the historic Union Station building. Of funds appropriated to the Secretary under the construction appropriation for the National Park System for the fiscal year ending September 30, 1982, not less than $8,100,000 shall be available to and allocated by the Secretary for such roof work. In the event the assignment provided for in subsection (a) of this section occursprior to completion of such roof work, the Secretary shall continue to be responsible for such roof work until its completion, except as the Secretary and the Secretary of Transportation may otherwise agree.
 
 #### (c) Permission to the Secretary of Transportation to carry out certain activities
 
@@ -21,6 +21,40 @@ After both the assignment provided for in subsection (a) of this section and the
 #### References in Text
 
 The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (c), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. Title VII of the Act, which enacted subchapter III (§851 et seq.) of chapter 17 of Title 45, Railroads, and amended sections 543, 545, 546, 562, 563, 564, and 791 of Title 45 and section 1653 of former Title 49, Transportation, was repealed and the provisions thereof reenacted principally in chapter 249 of Title 49, Transportation, by Pub. L. 103–272, July 5, 1994, 108 Stat. 745, the first section of which enacted subtitles II, III, and V to X of Title 49, and by Pub. L. 103–429, §7(a)(1), Oct. 31, 1994, 108 Stat. 4388.
+
+#### Sale of Air Rights
+
+Pub. L. 105–33, title IX, §9102, Aug. 5, 1997, 111 Stat. 670, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, the Administrator of General Services shall sell, at fair market value and in a manner to be determined by the Administrator, the air rights adjacent to Washington Union Station described in subsection (b), including air rights conveyed to the Administrator under subsection (d). The Administrator shall complete the sale by such date as is necessary to ensure that the proceeds from the sale will be deposited in accordance with subsection (c).
+
+“(b)
+
+Description.—The air rights referred to in subsection (a) total approximately 16.5 acres and are depicted on the plat map of the District of Columbia as follows:
+
+&emsp;“(1) Part of lot 172, square 720.
+
+&emsp;“(2) Part of lots 172 and 823, square 720.
+
+&emsp;“(3) Part of lot 811, square 717.
+
+“(c)
+
+Proceeds.—Before September 30, 2002, proceeds from the sale of air rights under subsection (a) shall be deposited in the general fund of the Treasury and credited as miscellaneous receipts.
+
+“(d)
+
+Conveyance of Amtrak Air Rights.—
+
+&emsp;“(1)
+
+General rule.—As a condition of future Federal financial assistance, Amtrak shall convey to the Administrator of General Services on or before December 31, 1997, at no charge, all of the air rights of Amtrak described in subsection (b).
+
+&emsp;“(2)
+
+Failure to comply.—If Amtrak does not meet the condition established by paragraph (1), Amtrak shall be prohibited from obligating Federal funds after March 1, 1998.”
 
 #### Congressional Findings and Declaration of Policy
 

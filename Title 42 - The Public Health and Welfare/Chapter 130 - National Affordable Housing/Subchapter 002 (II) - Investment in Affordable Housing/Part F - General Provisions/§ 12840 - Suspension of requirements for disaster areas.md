@@ -1,12 +1,12 @@
 ### §12840. Suspension of requirements for disaster areas
 
-For funds designated under this subchapter by a recipient to address the damage in an area for which the President has declared a disaster under title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170 et seq.\], the Secretary may suspend all statutory requirements for purposes of assistance under this subchapter for that area, except for those related to public notice of funding availability, nondiscrimination, fair housing, labor standards, environmental standards, and low-income housing affordability.
+For funds designated under this subchapter by a recipient to address the damage in an area for which the President has declared a disaster under title IV of the Robert T. Stafford DisasterRelief and Emergency Assistance Act \[42 U.S.C. 5170 et seq.\], the Secretary may suspend all statutory requirements for purposes of assistance under this subchapter for that area, except for those related to public notice of funding availability, nondiscrimination, fair housing, labor standards, environmental standards, and low-income housing affordability.
 
 (Pub. L. 101–625, title II, §290, as added Pub. L. 103–233, title II, §208, Apr. 11, 1994, 108 Stat. 366.)
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L.93–288, May 22, 1974, 88 Stat. 143, as amended. Title IV of the Act is classified generally to subchapter IV (§5170 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. Title IV of the Act is classified generally to subchapter IV (§5170 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Effective Date
 

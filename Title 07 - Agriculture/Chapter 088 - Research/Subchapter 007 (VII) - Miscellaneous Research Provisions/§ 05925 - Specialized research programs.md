@@ -130,7 +130,7 @@ Research required.—The Secretary of Agriculture shall establish and carry out 
 
 “(2)
 
-Preference.—In making grants under this subsection, the Secretary may give preference to those colleges and universities that, as of November 28, 1990, are conducting research described in this subsection.”
+Preference.—In making grants under this subsection, the Secretary may give preference to thosecolleges and universities that, as of November 28, 1990, are conducting research described in this subsection.”
 
 Subsec. (g). Pub. L. 104–127, §863, redesignated subsec. (k) as (g) and struck out heading and text of former subsec. (g). Text read as follows: “The Secretary shall make research and extension grants available for the development of agricultural production and marketing systems that will service niche markets located in nearby metropolitan areas. In awarding such grants, the Secretary shall pay particular attention to areas—
 

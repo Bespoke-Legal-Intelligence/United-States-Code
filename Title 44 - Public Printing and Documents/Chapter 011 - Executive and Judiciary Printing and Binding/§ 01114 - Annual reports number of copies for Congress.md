@@ -20,3 +20,7 @@ This section incorporates only the second sentence of former section 212. The ba
 
 Positions of Chief Signal Officer and Chief of Ordinance of Army Department abolished, see note set out under section 3036 of Title 10, Armed Forces.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 3714b.
+

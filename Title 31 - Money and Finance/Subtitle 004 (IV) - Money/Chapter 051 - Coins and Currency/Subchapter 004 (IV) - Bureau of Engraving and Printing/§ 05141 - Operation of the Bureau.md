@@ -48,7 +48,7 @@ In subsection (a), the word “budget” is substituted for “budget program”
 
 In subsection (b)(1), before clause (A), the words “Secretary shall maintain” are substituted for “There shall be installed and maintained” because of sections 301 and 303 of the revised title and to eliminate executed words. The words “internal controls” are substituted for “including proper features of internal control” to eliminate unnecessary words. In clause (B), the word “costs” is substituted for “direct and indirect costs” to eliminate unnecessary words. In clause (D), the word “basis” is substituted for “method” for clarity. In clause (E), the words “provides information” are substituted for “supply on the basis of accounting results the data” to eliminate unnecessary words. The word “prior” is substituted for “last completed” for consistency in the revised title.
 
-In subsection (c), the words “An officer or employee” are substituted for “employees” for consistency in the revised title and with other titles of the United States Code. The words “assigned to an established shift or tour of duty at least half of which occurs between the hours of 6 p.m. and 6 a.m.” are substituted for “assigned to perform their work at night” and 31:180(proviso) to eliminate unnecessary words.
+In subsection (c), the words “An officer or employee” are substituted for “employees” for consistency in therevised title and with other titles of the United States Code. The words “assigned to an established shift or tour of duty at least half of which occurs between the hours of 6 p.m. and 6 a.m.” are substituted for “assigned to perform their work at night” and 31:180(proviso) to eliminate unnecessary words.
 
 #### Authority of Special Police Officers
 

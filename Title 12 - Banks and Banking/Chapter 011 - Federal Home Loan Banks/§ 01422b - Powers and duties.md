@@ -30,11 +30,11 @@ Receipts of the Board derived from assessments levied upon the Federal Home Loan
 
 The Board shall make an annual report to the Congress.
 
-(July 22, 1932, ch. 522, §2B, as added Aug. 9, 1989, Pub. L. 101–73, title VII, §702(a), 103 Stat. 414.)
+(July 22, 1932, ch. 522, §2B, as added Pub. L. 101–73, title VII, §702(a), Aug. 9, 1989, 103 Stat. 414.)
 
 #### References in Text
 
-The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b)(1), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. Title IV of the Act is set out as a note under section 1437 of this title. For complete classification of this Act to the Code, see Tables.
+The Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b)(1), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183. Title IV of theAct is set out as a note under section 1437 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

@@ -70,7 +70,7 @@
 
 (D) For the purposes of this paragraph, the term “general Department facility” means a Department facility which is not a center and at which readjustment counseling would be furnished in a particular geographic area upon the closure or relocation of a center.
 
-(4) After submitting the plan required by paragraph (3) of this subsection, the Secretary may submit to the committees a revision to suchplan in order to modify the proposal set forth in the plan as to any center. Any such revision shall include, with respect to each center addressed in the revision, a description of the Secretary's evaluation of the matters specified in paragraphs (3)(B) and (3)(C) of this subsection.
+(4) After submitting the plan required by paragraph (3) of this subsection, the Secretary may submit to the committees a revision to such plan in order to modify the proposal set forth in the plan as to any center. Any such revision shall include, with respect to each center addressed in the revision, a description of the Secretary's evaluation of the matters specified in paragraphs (3)(B) and (3)(C) of this subsection.
 
 (5) For purposes of determining a period of time under paragraph (1)(B) of this subsection, if the national plan (or a revision to the national plan) is submitted to the committees during the 121-day period beginning 60 days before and ending 60 days after the final day of a session of the Congress, it shall be deemed to have been submitted on the sixty-first day after the final day of such session.
 
@@ -144,7 +144,7 @@ Subsec. (g). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (h). Pub. L. 102–83, §4(b)(6), struck out subsec. (h) which related to carrying out a pilot program toprovide and coordinate services to meet the readjustment needs of veterans on active duty during the Vietnam era.
+Subsec. (h). Pub. L. 102–83, §4(b)(6), struck out subsec. (h) which related to carrying out a pilot program to provide and coordinate services to meet the readjustment needs of veterans on active duty during the Vietnam era.
 
 Subsec. (i). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
@@ -354,7 +354,7 @@ Considerations.—In developing the plan referred to in subsection (a), the Secr
 
 &emsp;“(6) the treatment needs of veterans suffering from post-traumatic stress disorder who are women, of such veterans who are ethnic minorities (including Native Americans, Native Hawaiians, Asian-Pacific Islanders, and Native Alaskans), and of such veterans who suffer from substance abuse problems in addition to post-traumatic stress disorder; and
 
-&emsp;“(7) the recommendations of the Special Committee on Post-Traumatic-Stress Disorder with respect to (A) specialized inpatient and outpatient programs of the Department for the treatment of post-traumatic stress disorder, and (B) with respect to the establishment of educational programs that are designed for each of the various levels of education, training, and experience of the various mental health professionals involved in the treatment of veterans suffering from post-traumatic stress disorder.
+&emsp;“(7) the recommendations of the Special Committee on Post-Traumatic-Stress Disorder with respect to (A) specialized inpatient and outpatient programs of the Department for the treatment of post-traumatic stress disorder, and (B) with respect to the establishment of educational programs that are designed foreach of the various levels of education, training, and experience of the various mental health professionals involved in the treatment of veterans suffering from post-traumatic stress disorder.
 
 “(c)
 
@@ -388,7 +388,7 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 “(a)(1) The Chief Medical Director \[now Under Secretary for Health\] of the Department of Veterans Affairs may designate special programs within the Veterans Health Administration for the diagnosis and treatment of post-traumatic-stress disorder (hereinafter in this section referred to as ‘PTSD’).
 
-“(2) The Chief Medical Director \[now Under Secretary for Health\] shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department of Veterans Affairs programs designated under paragraph (1) (hereinafter in this section referred to as ‘designated PTSD programs’) carry out activities to promote the education and training of health-care personnel (including health-care personnel not working for the Department of Veterans Affairs or the FederalGovernment) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A \[formerly 612A\] of title 38, United States Code.
+“(2) The Chief Medical Director \[now Under Secretary for Health\] shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department of Veterans Affairs programs designated under paragraph (1) (hereinafter in this section referred to as ‘designated PTSD programs’) carry out activities to promote the education and training of health-care personnel (including health-care personnel not working for the Department of Veterans Affairs or the Federal Government) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A \[formerly 612A\] of title 38, United States Code.
 
 “(b)(1) The Chief Medical Director \[now Under Secretary for Health\] shall establish in the Veterans Health Administration a Special Committee on Post-Traumatic-Stress Disorder (hereinafter in this section referred to as the ‘Special Committee’). The Chief Medical Director shall appoint qualified employees of the Administration to serve on the Special Committee.
 

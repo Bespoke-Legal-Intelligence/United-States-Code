@@ -1,10 +1,8 @@
 ### §1392. Defendants or property in different districts in same State
 
-(a) Any civil action, not of a local nature, against defendants residing in different districts in the same State, may be brought in any of such districts.
+Any civil action, of a local nature, involving property located in different districts in the same State, may be brought in any of such districts.
 
-(b) Any civil action, of a local nature, involving property located in different districts in the same State, may be brought in any of such districts.
-
-(June 25, 1948, ch. 646, 62 Stat. 935.)
+(June 25, 1948, ch. 646, 62 Stat. 935; Pub. L. 104–220, §1, Oct. 1, 1996, 110 Stat. 3023.)
 
 #### Historical and Revision Notes
 
@@ -23,6 +21,10 @@ Words of section 116 of title 28, U.S.C., 1940 ed., “land or other subject mat
 Words of said section 116, “and the court in which it is brought shall have jurisdiction to hear and decide it, and to cause mesne or final process to be issued and executed, as fully as if the said subject matter were wholly within the district for which such court is constituted” were omitted as surplusage and fully covered by Rule 4 of the Federal Rules of Civil Procedure. Said rule also covers the following omitted language: “A duplicate writ may be issued against the defendants, directed to the marshal of any other district in which any defendant resides.”
 
 Changes were made in phraseology.
+
+#### Amendments
+
+<b>1996</b>—Pub. L. 104–220 struck out “(b)” before “Any civil action” and struck out subsec. (a) which read as follows: “Any civil action, not of a local nature, against defendants residing in different districts in the same State, may be brought in any of such districts.”
 
 #### Section Referred to in Other Sections
 

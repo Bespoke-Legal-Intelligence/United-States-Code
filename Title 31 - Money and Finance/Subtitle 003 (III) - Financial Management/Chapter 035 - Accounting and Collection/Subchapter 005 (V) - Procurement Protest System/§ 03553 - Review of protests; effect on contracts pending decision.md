@@ -10,7 +10,7 @@
 
 &emsp;(B) if the Comptroller General, upon a showing by the Federal agency, determines (and states the reasons in writing) that the specific circumstances of the protest require a longer period, within the longer period determined by the Comptroller General; or
 
-&emsp;(C) in a case determined by the Comptroller General to be suitable for the express option under section 3554(a)(2) of this title, within 20 days after the date of the Federal agency's receipt of that determination.
+&emsp;(C) in a case determined by the Comptroller General to be suitable for the express option under section 3554(a)(2) of this title, within 20days after the date of the Federal agency's receipt of that determination.
 
 (3) A Federal agency need not submit a report to the Comptroller General pursuant to paragraph (2) of this subsection if the agency is sooner notified by the Comptroller General that the protest concerned has been dismissed under section 3554(a)(4) of this title.
 
@@ -114,5 +114,5 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3554, 3556 of this title.
+This section is referred to in sections 3554, 3556 of this title; title 22 section 3862.
 

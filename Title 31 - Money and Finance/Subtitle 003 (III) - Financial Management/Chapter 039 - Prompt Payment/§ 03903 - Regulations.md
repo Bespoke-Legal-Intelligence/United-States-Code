@@ -16,7 +16,7 @@
 
 &emsp;(5) require periodic payments, in the case of a property or service contract which does not prohibit periodic payments for partial deliveries or other contract performance during the contract period, upon—
 
-&emsp;&emsp;(A) submission of an invoice for property delivered or services performed during thecontract period, if an invoice is required by the contract; and
+&emsp;&emsp;(A) submission of an invoice for property delivered or services performed during the contract period, if an invoice is required by the contract; and
 
 &emsp;&emsp;(B) either—
 

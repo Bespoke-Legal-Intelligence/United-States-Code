@@ -16,7 +16,7 @@
 
 &emsp;(6) any combination of these punishments.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 608; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(4), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 608; Pub. L. 100–456, div. A, title XII, §1234(b)(4), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 
@@ -38,7 +38,7 @@ June 3, 1916, ch. 134, §103, 39 Stat. 208.
 
 In subsection (a), the words “Federal service” are substituted for the words “service of the United States”.
 
-In subsection (b), the words “A general court-martial may sentence to—” are substituted for the words “and such courts shall have the power to impose \* \* \* to sentence”. The words “any combination of these punishments” are substituted for the words “or any two or more of such punishments may be combined in the sentences imposed by such courts”.
+In subsection (b), the words “A general court-martial may sentence to—” are substituted for the words “andsuch courts shall have the power to impose \* \* \* to sentence”. The words “any combination of these punishments” are substituted for the words “or any two or more of such punishments may be combined in the sentences imposed by such courts”.
 
 #### Amendments
 

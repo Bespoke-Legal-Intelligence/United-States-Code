@@ -110,7 +110,7 @@ Pub. L. 86–624 struck out reference to Hawaii.
 
 #### Effective Date of 1996 Amendment
 
-Section 308(a) of title III of Pub. L. 104–290 provided that: “This title \[enacting section 80b–3a of this title, amending this section, sections 80b–3 and 80b–18a of this title, and section 1002 of Title 29, Labor, and enacting provisions set out as notes under sections 80b–3a, 80b–10, and 80b–20 of this title and section 1002 of Title 29\] and the amendments made by this title shall take effect 180 days after the date of enactment of this Act \[Oct. 11, 1996\].”
+Section 308(a) of title III of Pub. L. 104–290, as amended by Pub. L. 105–8, §1, Mar. 31, 1997, 111 Stat. 15, provided that: “This title \[enacting section 80b–3a of this title, amending this section, sections 80b–3 and 80b–18a of this title, and section 1002 of Title 29, Labor, and enacting provisions set out as notes under sections 80b–3a, 80b–10, and 80b–20 of this title and section 1002 of Title 29\] and the amendments made by this title shall take effect 270 days after the date of enactment of this Act \[Oct. 11, 1996\].”
 
 #### Effective Date of 1978 Amendment
 

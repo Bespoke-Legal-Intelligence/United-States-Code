@@ -18,7 +18,7 @@
 
 &emsp;(C) an assessment of the use of existing on-farm storage facilities located within the State or region and an assessment of the ways in which subterminal facilities can benefit the continued use of on-farm storage facilities;
 
-&emsp;(D) an evaluation of the effect of the development of new subterminal facilities on smallcapacity rural shipping and storage facilities within the State or region;
+&emsp;(D) an evaluation of the effect of the development of new subterminal facilities on small capacity rural shipping and storage facilities within the State or region;
 
 &emsp;(E) an evaluation of ways to ensure adequate rail service for subterminal facilities described in clause (D) of this paragraph, including an evaluation of the use and feasibility of contract rates;
 
@@ -30,7 +30,7 @@
 
 &emsp;(I) an assessment of the overall transportation system in the State or region and future plans for that overall system, including the adequacy of highways and bridges; and
 
-&emsp;(J) consideration of the feasibility and advisability of the ownership and operation of rail branch lines by farmer-owned cooperatives, and the role that such cooperatives might play in any overall planning for the restructuring and rehabilitation of rail service and marketing facilities within the State or region.
+&emsp;(J) consideration of the feasibility and advisability of the ownership and operation of rail branch lines by farmer-owned cooperatives, and the role that such cooperatives might play in any overall planning for the restructuringand rehabilitation of rail service and marketing facilities within the State or region.
 
 #### (b) Plan review commissions
 

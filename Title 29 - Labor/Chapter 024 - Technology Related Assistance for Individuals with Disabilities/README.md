@@ -128,7 +128,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 762 of this title; title 20 section 1461.
+This chapter is referred to in section 762 of this title.
 
 
 ---

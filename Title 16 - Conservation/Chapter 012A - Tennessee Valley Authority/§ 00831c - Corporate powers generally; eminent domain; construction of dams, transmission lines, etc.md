@@ -14,7 +14,7 @@ Except as otherwise specifically provided in this chapter, the Corporation—
 
 (f) May purchase or lease and hold such real and personal property as it deems necessary or convenient in the transaction of its business, and may dispose of any such personal property held by it.
 
-The board shall select a treasurer and as many assistant treasurers as it deems proper: <i>Pro</i><i>vided</i>, That any member of said board may be removed from office at any time by a concurrent resolution of the Senate and the House of Representatives.
+The board shall select a treasurer and as many assistant treasurers as it deems proper: <i>Provided</i>, That any member of said board may be removed from office at any time by a concurrent resolution of the Senate and the House of Representatives.
 
 (g) Shall have such powers as may be necessary or appropriate for the exercise of the powers herein specifically conferred upon the Corporation.
 
@@ -28,7 +28,7 @@ The board shall select a treasurer and as many assistant treasurers as it deems 
 
 &emsp;(a) to convey by deed, lease, or otherwise, any real property in the possession of or under the control of the Corporation to any person or persons, for the purpose of recreation or use as a summer residence, or for the operation on such premises of pleasure resorts for boating, fishing, bathing, or any similar purpose;
 
-&emsp;(b) to convey by deed, lease, or otherwise, the possession and control of any such real property to any corporation, partnership, person, or persons for the purpose of erecting thereon docks and buildings for shipping purposes or the manufacture or storage thereon of products for the purpose of trading or shipping in transportation: <i>Provided</i>, That no transfer authorized herein in (b) shall be made without the approval of Congress: <i>And provided further</i>, That said corporation, without further action of Congress, shall have power to convey by deed, lease, or otherwise, to the Ingalls Shipbuilding Corporation, a tract or tracts of land at or near Decatur, Alabama, and to the Commercial Barge Lines, Inc., a tract or tracts of land at or near Guntersville, Alabama;
+&emsp;(b) to convey by deed, lease, or otherwise, the possession and control of any such real property to any corporation, partnership, person, or persons for the purpose of erecting thereon docks and buildings for shipping purposes or the manufacture or storage thereon ofproducts for the purpose of trading or shipping in transportation: <i>Provided</i>, That no transfer authorized herein in (b) shall be made without the approval of Congress: <i>And provided further</i>, That said corporation, without further action of Congress, shall have power to convey by deed, lease, or otherwise, to the Ingalls Shipbuilding Corporation, a tract or tracts of land at or near Decatur, Alabama, and to the Commercial Barge Lines, Inc., a tract or tracts of land at or near Guntersville, Alabama;
 
 &emsp;(c) to transfer any part of the possession and control of the real estate now in possession of and under the control of said Corporation to any other department, agency, or instrumentality of the United States: <i>Provided, however</i>, That no land shall be conveyed, leased, or transferred, upon which there is located any permanent dam, hydroelectric power plant, or munitions plant heretofore or hereafter built by or for the United States or for the Authority, except that this prohibition shall not apply to the transfer of Nitrate Plant Numbered 1, at Muscle Shoals, Alabama, or to Waco Quarry: <i>And provided further</i>, That no transfer authorized herein in (a) or (c) except leases for terms of less than twenty years, shall be made without the approval of the President of the United States, if the property to be conveyed exceeds $500 in value; and
 
@@ -44,7 +44,7 @@ Subsec. (j), last sentence, directed the directors of the Authority to report th
 
 #### Amendments
 
-1972—Subsec. (f). Pub. L. 92–310 struck out provisions which required the treasurer and assistant treasurersto give bonds for the safekeeping of securities and moneys of the Corporation.
+1972—Subsec. (f). Pub. L. 92–310 struck out provisions which required the treasurer and assistant treasurers to give bonds for the safekeeping of securities and moneys of the Corporation.
 
 1941—Subsec. (k). Act July 18, 1941, amended subsec. (k) generally.
 

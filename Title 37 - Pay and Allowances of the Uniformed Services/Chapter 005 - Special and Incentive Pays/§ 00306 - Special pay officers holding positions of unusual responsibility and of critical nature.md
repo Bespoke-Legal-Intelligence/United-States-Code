@@ -60,7 +60,7 @@ In subsection (c), the words “(other than for training)” are inserted for cl
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–587, §5205(a), substituted “of pay grade O–6 or below” for “of pay grade O–3, O–4, O–5, or O–6” in text and amended table by substituting “O–4 and below” for “O–4” and striking out line providing monthly rate of $50 for pay grade O–3.
+1992—Subsec. (a). Pub. L. 102–587, §5205(a), substituted “of pay grade O–6 or below” for “of pay grade O–3, O–4,O–5, or O–6” in text and amended table by substituting “O–4 and below” for “O–4” and striking out line providing monthly rate of $50 for pay grade O–3.
 
 Subsec. (c). Pub. L. 102–587, §5205(b), substituted “in each of the pay grades O–3 and below,” for “in pay grade O–3,”.
 

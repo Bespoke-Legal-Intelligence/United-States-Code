@@ -6,7 +6,7 @@ For the fiscal year 1955 so much of the Department of State and Department of Ag
 
 #### (b) Annual appropriations
 
-There are hereby authorized to be appropriated to the Department of Agriculture suchamounts as may be necessary for the purpose of this chapter.
+There are hereby authorized to be appropriated to the Department of Agriculture such amounts as may be necessary for the purpose of this chapter.
 
 #### (c) Funds for 1955; expenditures
 

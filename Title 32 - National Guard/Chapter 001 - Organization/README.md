@@ -14,10 +14,14 @@
 | [110\.](%C2%A7%2000110%20-%20Regulations.md) | Regulations. |
 | [111\.](%C2%A7%2000111%20-%20Suspension%20of%20certain%20provisions%20of%20this%20title.md) | Suspension of certain provisions of this title. |
 | [112\.](%C2%A7%2000112%20-%20Drug%20interdiction%20and%20counter-drug%20activities.md) | Drug interdiction and counter-drug activities. |
+| [113\.](%C2%A7%2000113%20-%20Federal%20financial%20assistance%20for%20support%20of%20additional%20duties%20assigned%20to%20the%20Army%20National%20Guard.md) | Federal financial assistance for support of additional duties assigned to the Army National Guard. |
+| [114\.](%C2%A7%2000114%20-%20Honor%20guard%20functions%20at%20funerals%20for%20veterans.md) | Honor guard functions at funerals for veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title III, §386(b), title V, §517(b), Nov. 18, 1997, 111 Stat. 1713, 1734, added items 113 and 114.
 
 1989—Pub. L. 101–189, div. A, title XII, §1207(a)(2), Nov. 29, 1989, 103 Stat. 1566, added item 112.
 
@@ -90,3 +94,5 @@ Reserve components, standards and procedures for retention and promotion, see se
 - [&sect; 00110 - Regulations](%C2%A7%2000110%20-%20Regulations.md)
 - [&sect; 00111 - Suspension of certain provisions of this title](%C2%A7%2000111%20-%20Suspension%20of%20certain%20provisions%20of%20this%20title.md)
 - [&sect; 00112 - Drug interdiction and counter-drug activities](%C2%A7%2000112%20-%20Drug%20interdiction%20and%20counter-drug%20activities.md)
+- [&sect; 00113 - Federal financial assistance for support of additional duties assigned to the Army National Guard](%C2%A7%2000113%20-%20Federal%20financial%20assistance%20for%20support%20of%20additional%20duties%20assigned%20to%20the%20Army%20National%20Guard.md)
+- [&sect; 00114 - Honor guard functions at funerals for veterans](%C2%A7%2000114%20-%20Honor%20guard%20functions%20at%20funerals%20for%20veterans.md)

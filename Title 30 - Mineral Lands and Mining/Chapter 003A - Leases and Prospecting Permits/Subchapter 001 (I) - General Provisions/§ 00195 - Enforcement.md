@@ -46,5 +46,5 @@ The remedies, penalties, fines, and imprisonment prescribed in this section shal
 
 (5) Nothing in this section shall deprive a State of jurisdiction to enforce its own civil and criminal laws against any person who may also be subject to civil and criminal action under this section.
 
-(Feb. 25, 1920, ch. 85, §41, as added Dec. 22, 1987, Pub. L. 100–203, title V, §5108, 101 Stat. 1330–260.)
+(Feb. 25, 1920, ch. 85, §41, as added Pub. L. 100–203, title V, §5108, Dec. 22, 1987, 101 Stat. 1330–260.)
 

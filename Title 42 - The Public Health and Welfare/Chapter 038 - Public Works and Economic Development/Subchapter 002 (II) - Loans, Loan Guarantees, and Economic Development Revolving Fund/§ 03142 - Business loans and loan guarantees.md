@@ -16,7 +16,7 @@ Financial assistance under this section shall be on such terms and conditions as
 
 &emsp;(2) Such assistance shall be extended only to applicants, both private and public (including Indian tribes), which have been approved for such assistance by an agency or instrumentality of the State or political subdivision thereof in which the project to be financed is located, and which agency or instrumentality is directly concerned with problems of economic development in such State or subdivision.
 
-&emsp;(3) The project for which financial assistance is sought must be reasonably calculated toprovide more than a temporary alleviation of unemployment or underemployment within the redevelopment area wherein it is or will be located.
+&emsp;(3) The project for which financial assistance is sought must be reasonably calculated to provide more than a temporary alleviation of unemployment or underemployment within the redevelopment area wherein it is or will be located.
 
 &emsp;(4) No loan or guarantee shall be extended hereunder unless the financial assistance applied for is not otherwise available from private lenders or from other Federal agencies on terms which in the opinion of the Secretary will permit the accomplishment of the project.
 

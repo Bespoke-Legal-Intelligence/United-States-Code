@@ -10,7 +10,7 @@ Oklahoma is divided into three judicial districts to be known as the Northern, E
 
 ### Eastern District
 
-(b) The Eastern District comprises the counties of Adair, Atoka, Bryan, Carter, Cherokee, Choctaw, Coal, Haskell, Hughes, Johnston, Latimer Le Flore Love, McCurtain, McIntosh, Marshall, Murray, Muskogee, Okfuskee, Okmulgee, Pittsburg, Pontotoc, Pushmataha, Seminole, Sequoyah, and Wagoner.
+(b) The Eastern District comprises the counties of Adair, Atoka, Bryan, Carter, Cherokee,Choctaw, Coal, Haskell, Hughes, Johnston, Latimer Le Flore Love, McCurtain, McIntosh, Marshall, Murray, Muskogee, Okfuskee, Okmulgee, Pittsburg, Pontotoc, Pushmataha, Seminole, Sequoyah, and Wagoner.
 
 &emsp;&emsp;Court for the Eastern District shall be held at Ada, Ardmore, Durant, Hugo, Muskogee, Okmulgee, Poteau, and S. McAlester.
 
@@ -20,7 +20,7 @@ Oklahoma is divided into three judicial districts to be known as the Northern, E
 
 &emsp;&emsp;Court for the Western District shall be held at Chickasha, Enid, Guthrie, Lawton, Mangum, Oklahoma City, Pauls Valley, Ponca City, Shawnee, and Woodward.
 
-(June 25, 1948, ch. 646, 62 Stat. 887; Aug. 4, 1966, Pub. L. 89–526, §1, 80 Stat. 335.)
+(June 25, 1948, ch. 646, 62 Stat. 887; Pub. L. 89–526, §1, Aug. 4, 1966, 80 Stat. 335.)
 
 #### Historical and Revision Notes
 
@@ -28,7 +28,7 @@ Based on title 28, U.S.C., 1940 ed., §§182, 182a (Mar. 3, 1911, ch. 231, §101
 
 Provisions for furnishing rooms and accommodations at Ada, Bartlesville, Mangum, Miami, Okmulgee, and Ponca City were omitted as obsolete, on advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available at such places.
 
-A provision making inoperative the requirement for furnishing court accommodations without cost to theUnited States whenever the same shall be provided in federal buildings at Shawnee, was omitted as unnecessary. When such buildings become available the Director will, under section 604 of this title, provide court accommodations therein.
+A provision making inoperative the requirement for furnishing court accommodations without cost to the United States whenever the same shall be provided in federal buildings at Shawnee, was omitted as unnecessary. When such buildings become available the Director will, under section 604 of this title, provide court accommodations therein.
 
 A provision for adjournment of any term by an order made in chambers, is incorporated in section 140 of this title.
 
@@ -40,7 +40,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1966—Pub. L. 89–526 transferred from the Eastern District in subsec. (b) to the Western District in subsec. (c) the counties of Garvin, Grady, Jefferson, McClain, and Stephens and the places for holding court at Chickasha and Pauls Valley.
+<b>1966</b>—Pub. L. 89–526 transferred from the Eastern District in subsec. (b) to the Western District in subsec. (c) the counties of Garvin, Grady, Jefferson, McClain, and Stephens and the places for holding court at Chickasha and Pauls Valley.
 
 #### Effective Date of 1966 Amendment
 

@@ -162,7 +162,7 @@
 
 &emsp;(ii) proposals by the original supplier of such item to meet the mobilization requirements are insufficient to meet the agency's mobilization needs.
 
-(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design,life-cycle costs, and other pertinent factors, of incorporating such items in the system.
+(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
 
 (e)
 
@@ -268,7 +268,7 @@ Subsec. (e)(3). Pub. L. 104–106, §5601(a), as amended by Pub. L. 104–201, �
 
 Subsec. (g). Pub. L. 104–201, §821(a), added subsec. (g).
 
-1994—Subsec. (a)(2). Pub. L. 103–355, §4401(b), substituted “a purchase for an amount not greater thanthe simplified acquisition threshold)” for “small purchases)” in introductory provisions.
+1994—Subsec. (a)(2). Pub. L. 103–355, §4401(b), substituted “a purchase for an amount not greater than the simplified acquisition threshold)” for “small purchases)” in introductory provisions.
 
 Subsec. (a)(2)(A)(i). Pub. L. 103–355, §1011(a)(1), substituted “and significant subfactors” for “(and significant subfactors)” and “cost-related or price-related factors and subfactors, and noncost-related or nonprice-related factors and subfactors” for “cost- or price-related factors, and noncost- or nonprice-related factors”.
 
@@ -276,7 +276,7 @@ Subsec. (a)(2)(A)(ii). Pub. L. 103–355, §1011(a)(2), substituted “and subfa
 
 Subsec. (a)(2)(B)(ii)(I). Pub. L. 103–355, §1011(a)(3), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “a statement that the proposals are intended to be evaluated with, and award made after, discussions with the offerors, or a statement that the proposals are intended to be evaluated, and award made, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification), unless discussions are determined to be necessary; and”.
 
-Subsec. (a)(3). Pub. L. 103–355, §1011(b), added par. (3) and struck out former par. (3), which read as follows: “In prescribing the evaluation factors to be included in each solicitation for competitive proposals, the head of an agency shall clearly establish the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, and prior experience of the offeror).”
+Subsec. (a)(3). Pub. L. 103–355, §1011(b), added par. (3) and struck out former par. (3), which read as follows:“In prescribing the evaluation factors to be included in each solicitation for competitive proposals, the head of an agency shall clearly establish the relative importance assigned to the evaluation factors and subfactors, including the quality of the product or services to be provided (including technical capability, management capability, and prior experience of the offeror).”
 
 Subsec. (a)(4). Pub. L. 103–355, §1011(b), added par. (4).
 
@@ -352,7 +352,7 @@ Amendment by section 5601(a) of Pub. L. 104–106 effective 180 days after Feb. 
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1990 Amendment
 

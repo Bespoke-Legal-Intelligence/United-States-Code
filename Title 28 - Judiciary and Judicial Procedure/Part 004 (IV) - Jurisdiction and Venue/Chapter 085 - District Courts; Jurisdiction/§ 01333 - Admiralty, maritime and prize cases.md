@@ -18,7 +18,7 @@ Section consolidates certain provisions of sections 41(3), 371(3) and 371(4) of 
 
 The “saving to suitors” clause in sections 41(3) and 371(3) of title 28, U.S.C., 1940 ed., was changed by substituting the words “any other remedy to which he is otherwise entitled” for the words “the right of a common law remedy where the common law is competent to give it.” The substituted language is simpler and more expressive of the original intent of Congress and is in conformity with Rule 2 of the Federal Rules of Civil Procedure abolishing the distinction between law and equity.
 
-Provisions of section 41(3) of title 28, U.S.C., 1940 ed., based on the 1917 and 1922 amendments, relating to remedies under State workmen's compensation laws, were deleted. Such amendments were held unconstitutional by the Supreme Court. (See <i>Knickerbocker Ice Co. v. Stewart</i>, 1920, 40 S.Ct. 438, 253 U.S. 149, 64 L.Ed. 834, and <i>State of Washington v. W. C. Dawson \& Co</i>., 1924, 44 S.Ct. 302, 264 U.S. 219, 68 L.Ed. 646.)
+Provisions of section 41(3) of title 28, U.S.C., 1940 ed., based on the 1917 and 1922 amendments, relating to remedies under State workmen's compensation laws, were deleted. Such amendments were held unconstitutional by the Supreme Court. (See <i>Knickerbocker Ice Co.</i><i>v. Stewart</i>, 1920, 40 S.Ct. 438, 253 U.S. 149, 64 L.Ed. 834, and <i>State of Washington v. W. C. Dawson \& Co</i>., 1924, 44 S.Ct. 302, 264 U.S. 219, 68 L.Ed. 646.)
 
 Words “libellant or petitioner” were substituted for “suitors” to describe moving party in admiralty cases.
 
@@ -30,7 +30,7 @@ This section amends section 1333(a)(1) of title 28, U.S.C., by substituting “s
 
 #### Amendments
 
-1949—Subd. (1). Act May 24, 1949, substituted “suitors” for “libellant or petitioner”.
+<b>1949</b>—Subd. (1). Act May 24, 1949, substituted “suitors” for “libellant or petitioner”.
 
 #### Cross References
 

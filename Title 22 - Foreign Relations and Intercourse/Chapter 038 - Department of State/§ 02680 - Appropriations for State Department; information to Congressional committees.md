@@ -16,7 +16,7 @@
 
 (b) The Department of State shall keep the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives fully and currently informed with respect to all activities and responsibilities within the jurisdiction of these committees. Any Federal department, agency, or independent establishment shall furnish any information requested by either such committee relating to any such activity or responsibility.
 
-(Aug. 1, 1956, ch. 841, title I, §15, 70 Stat. 892; Feb. 7, 1972, Pub. L. 92–226, pt. IV, §407(b), 86 Stat. 35; July 13, 1972, Pub. L. 92–352, title I, §102, 86 Stat. 490; Oct. 26, 1974, Pub. L. 93–475, §11, 88 Stat. 1442; H. Res. 163, Mar. 19, 1975; renumbered title I, Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282.)
+(Aug. 1, 1956, ch. 841, title I, §15, 70 Stat. 892; Pub. L. 92–226, pt. IV, §407(b), Feb. 7, 1972, 86 Stat. 35; Pub. L. 92–352, title I, §102, July 13, 1972, 86 Stat. 490; Pub. L. 93–475, §11, Oct. 26, 1974, 88 Stat. 1442; H. Res. 163, Mar. 19, 1975; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 
 #### Codification
 

@@ -58,7 +58,7 @@ Agreements With States.—(1) In addition to the agreements referred to in subse
 
 (f)
 
-Definitions.—In this section, the term “State” includes the District of Columbia,American Samoa, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Palau, and the Virgin Islands.
+Definitions.—In this section, the term “State” includes the District of Columbia, American Samoa, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Palau, and the Virgin Islands.
 
 (Added Pub. L. 103–160, div. A, title XIII, §1332(b), Nov. 30, 1993, 107 Stat. 1795; amended Pub. L. 103–337, div. A, title V, §543(e), Oct. 5, 1994, 108 Stat. 2771.)
 

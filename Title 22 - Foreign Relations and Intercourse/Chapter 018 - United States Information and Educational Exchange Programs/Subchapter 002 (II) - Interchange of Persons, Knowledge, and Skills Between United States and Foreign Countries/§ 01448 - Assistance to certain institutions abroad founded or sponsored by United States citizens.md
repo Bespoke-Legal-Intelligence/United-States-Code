@@ -1,6 +1,6 @@
 ### §1448. Assistance to certain institutions abroad founded or sponsored by United States citizens
 
-The Director is authorized to provide for assistance to schools, libraries, and community centers abroad, founded or sponsored by citizens of the United States, and serving as demonstration centers for methods and practices employedin the United States. In assisting any such schools, however, the Director shall exercise no control over their educational policies and shall in no case furnish assistance of any character which is not in keeping with the free democratic principles and the established foreign policy of the United States.
+The Director is authorized to provide for assistance to schools, libraries, and community centers abroad, founded or sponsored by citizens of the United States, and serving as demonstration centers for methods and practices employed in the United States. In assisting any such schools, however, the Director shall exercise no control over their educational policies and shall in no case furnish assistance of any character which is not in keeping with the free democratic principles and the established foreign policy of the United States.
 
 (Jan. 27, 1948, ch. 36, title II, §203, 62 Stat. 7; 1977 Reorg. Plan No. 2, §7(a)(1), 42 F.R. 62461, 91 Stat. 1637.)
 

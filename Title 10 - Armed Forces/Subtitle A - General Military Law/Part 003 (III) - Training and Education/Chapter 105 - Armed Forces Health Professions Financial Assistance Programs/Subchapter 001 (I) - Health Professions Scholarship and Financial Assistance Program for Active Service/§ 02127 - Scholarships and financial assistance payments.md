@@ -38,5 +38,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Section 725(e) of Pub. L. 101–189 directed Secretary of Defense, not later than Mar. 1, 1990, to submit to Congress a report describing the manner in which the new authority provided by such section 725 (amending 10 U.S.C. 2120 to 2122, 2124, and 2127) was implemented.
 
-Section 725(f) of Pub. L. 101–189 directed Secretary of Defense, not later than Mar. 1, 1991, to submit to Congress a report evaluating the success of the financial assistance program established by such section 725 anddescribing the number of participants in the program receiving specialized training payments under 10 U.S.C. 2127(e) and the projected number of officers to be gained, by specialty, as a result of the program for each military department.
+Section 725(f) of Pub. L. 101–189 directed Secretary of Defense, not later than Mar. 1, 1991, to submit to Congress a report evaluating the success of the financial assistance program established by such section 725 and describing the number of participants in the program receiving specialized training payments under 10 U.S.C. 2127(e) and the projected number of officers to be gained, by specialty, as a result of the program for each military department.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2173 of this title.
 

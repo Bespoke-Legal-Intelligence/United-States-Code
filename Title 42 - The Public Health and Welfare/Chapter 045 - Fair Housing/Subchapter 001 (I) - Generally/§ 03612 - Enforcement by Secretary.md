@@ -30,7 +30,7 @@ An administrative law judge may not continue administrative proceedings under th
 
 #### (g) Hearings, findings and conclusions, and order
 
-(1) The administrative law judge shall commence the hearing under this section no later than 120 days following the issuance of the charge, unless it is impracticable to do so. If the administrative law judge is unable to commence the hearing within 120 days after the issuance of the charge, the administrative law judge shall notify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
+(1) The administrative law judge shall commence the hearing under this section no later than 120 days following the issuance of the charge, unless it is impracticable to do so. If the administrative law judge is unable to commence the hearing within 120 days after the issuance of the charge, the administrative law judge shall notify the Secretary, the aggrieved person onwhose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
 
 (2) The administrative law judge shall make findings of fact and conclusions of law within 60 days after the end of the hearing under this section, unless it is impracticable to do so. If the administrative law judge is unable to make findings of fact and conclusions of law within such period, or any succeeding 60-day period thereafter, the administrative law judge shall notify the Secretary, the aggrieved person on whose behalf the charge was filed, and the respondent, in writing of the reasons for not doing so.
 

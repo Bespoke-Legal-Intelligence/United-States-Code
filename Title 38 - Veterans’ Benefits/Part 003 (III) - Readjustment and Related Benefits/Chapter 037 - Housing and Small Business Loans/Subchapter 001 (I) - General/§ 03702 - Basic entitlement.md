@@ -24,7 +24,7 @@
 
 (3) Any unused entitlement of World War II or Korean conflict veterans which expired under provisions of law in effect before October 23, 1970, is hereby restored and shall not expire until used.
 
-(4) A veteran's entitlement under this chapter shall not be reduced by any entitlement used bythe veteran's spouse which was based upon the provisions of paragraph (3) of section 3701(b) of this title.
+(4) A veteran's entitlement under this chapter shall not be reduced by any entitlement used by the veteran's spouse which was based upon the provisions of paragraph (3) of section 3701(b) of this title.
 
 (b) In computing the aggregate amount of guaranty or insurance housing loan entitlement available to a veteran under this chapter, the Secretary may exclude the amount of guaranty or insurance housing loan entitlement used for any guaranteed, insured, or direct loan under the following circumstances:
 
@@ -96,7 +96,7 @@ Subsec. (b)(3). Pub. L. 101–237, §310, added par. (3).
 
 Subsecs. (c) to (e). Pub. L. 101–237, §313(b)(1), substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–322, §415(a)(1)(A) to (E), designated existing provisions as par. (1), substituted “The veterans described in paragraph (2) of this subsection are eligible for the housing loan benefits of this chapter” for “Each veteran who served on active duty at any time during World War II, the Korean conflict, or the Vietnam era and whose total service was for ninety days or more, or who was discharged or released from a period of active duty, any part of which occurred during World War II, the Korean conflict, or the Vietnam era, for a service-connected disability, shall be eligible for the housing loan benefits of this chapter”, substituted “in paragraph (2)” for “in the preceding sentence, or in section 1818 of this title,” and redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and former cls. (A) and (B) as subcls. (i) and (ii), respectively.
+1988—Subsec. (a)(1). Pub. L. 100–322, §415(a)(1)(A)–(E), designated existing provisions as par. (1), substituted “The veterans described in paragraph (2) of this subsection are eligible for the housing loan benefits of this chapter” for “Each veteran who served on active duty at any time during World War II, the Korean conflict, or the Vietnam era and whose total service was for ninety days or more, or who was discharged or released from a period of active duty, any part of which occurred during World War II, the Korean conflict, or the Vietnam era, for a service-connected disability, shall be eligible for the housing loan benefits of this chapter”, substituted “in paragraph (2)” for “in the preceding sentence, or in section 1818 of this title,” and redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and former cls. (A) and (B) as subcls. (i) and (ii), respectively.
 
 Subsec. (a)(2), (3). Pub. L. 100–322, §415(a)(1)(F), added pars. (2) and (3).
 

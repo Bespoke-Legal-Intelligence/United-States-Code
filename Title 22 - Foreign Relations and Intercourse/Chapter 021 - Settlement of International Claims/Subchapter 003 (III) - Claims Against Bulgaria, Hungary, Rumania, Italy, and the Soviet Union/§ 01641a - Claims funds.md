@@ -12,7 +12,7 @@ The Secretary of the Treasury shall cover into each of the Bulgarian and Rumania
 
 The Secretary of the Treasury shall cover into the Hungarian Claims Fund, such sums as may be paid to the United States by the Government of Hungary pursuant to the terms of the United States Hungarian Claims Agreement of March 6, 1973.
 
-(Mar. 10, 1950, ch. 54, title III, §302, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 571; amended July 24, 1968, Pub. L. 90–421, §1(8), 82 Stat. 422; Oct. 20, 1974, Pub. L. 93–460, §1(1), 88 Stat. 1386.)
+(Mar. 10, 1950, ch. 54, title III, §302, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 571; amended Pub. L. 90–421, §1(8), July 24, 1968, 82 Stat. 422; Pub. L. 93–460, §1(1), Oct. 20, 1974, 88 Stat. 1386.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 Whenever the Director of the United States Information Agency finds that the operation of the facilities authorized by sections 2681 to 2683 of this title to be transferred is no longer necessary or desirable, he shall report such fact to Congress with his recommendations for the disposition of such facilities.
 
-(July 9, 1949, ch. 301, §2, 63 Stat. 408; 1977 Reorg. Plan No. 2, §7(a)(19), 42 F.R. 62461, 91 Stat. 1637; Aug. 24, 1982, Pub. L. 97–241, title III, §303(b), 96 Stat. 291.)
+(July 9, 1949, ch. 301, §2, 63 Stat. 408; 1977 Reorg. Plan No. 2, §7(a)(19), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 Subject to section 5375 of title 5, the Secretary of the Smithsonian Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts, or their authorized representatives, may designate employees of their respective agencies as special policemen, without additional compensation for duty in connection with the policing of the respective buildings and grounds specified in section 193v of this title.
 
-(Oct. 24, 1951, ch. 559, §1, 65 Stat. 634; June 30, 1969, Pub. L. 91–34, §2(c), 83 Stat. 41; Apr. 26, 1996, Pub. L. 104–134, title I, §101(c) \[title II\], 110 Stat. 1321–156, 1321–193; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.)
+(Oct. 24, 1951, ch. 559, §1, 65 Stat. 634; Pub. L. 91–34, §2(c), June 30, 1969, 83 Stat. 41; Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–193; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Codification
 

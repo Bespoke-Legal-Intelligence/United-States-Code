@@ -22,7 +22,7 @@ Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted “3452(a)(1)” for �
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3676” for “1776”.
 
-1989—Subsecs. (a)(3), (b). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for“Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+1989—Subsecs. (a)(3), (b). Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
 
 1984—Subsec. (a)(2). Pub. L. 98–543 substituted “$376” for “$342”.
 

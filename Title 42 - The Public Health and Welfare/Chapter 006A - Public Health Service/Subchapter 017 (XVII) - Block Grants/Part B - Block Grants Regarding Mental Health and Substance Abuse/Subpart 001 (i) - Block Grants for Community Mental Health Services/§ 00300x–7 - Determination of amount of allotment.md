@@ -1,0 +1,172 @@
+### §300x–7. Determination of amount of allotment
+
+#### (a) States
+
+#### (1) Determination under formula
+
+&emsp;Subject to subsection (b) of this section, the Secretary shall determine the amount of the allotment required in section 300x of this title for a State for a fiscal year in accordance with the following formula:
+
+&nbsp;
+
+| &nbsp; | A | ( | X | ) | &nbsp; |
+| --- | --- | --- | --- | --- | --- |
+| U |  |  |  |  |  |
+| &nbsp; |  |  |  |  |  |
+
+#### (2) Determination of term “A”
+
+&emsp;For purposes of paragraph (1), the term “A” means the difference between—
+
+&emsp;&emsp;(A) the amount appropriated under section 300x–9(a) of this title for allotments under section 300x of this title for the fiscal year involved; and
+
+&emsp;&emsp;(B) an amount equal to 1.5 percent of the amount referred to in subparagraph (A).
+
+#### (3) Determination of term “U”
+
+&emsp;For purposes of paragraph (1), the term “U” means the sum of the respective terms “X” determined for the States under paragraph (4).
+
+#### (4) Determination of term “X”
+
+&emsp;For purposes of paragraph (1), the term “X” means the product of—
+
+&emsp;&emsp;(A) an amount equal to the product of—
+
+&emsp;&emsp;&emsp;(i) the term “P”, as determined for the State involved under paragraph (5); and
+
+&emsp;&emsp;&emsp;(ii) the factor determined under paragraph (8) for the State; and
+
+&emsp;&emsp;(B) the greater of—
+
+&emsp;&emsp;&emsp;(i) 0.4; and
+
+&emsp;&emsp;&emsp;(ii) an amount equal to an amount determined for the State in accordance with the following formula:
+
+&nbsp;
+
+| &nbsp; | 1^.35 | ( | R% | ) | &nbsp; |
+| --- | --- | --- | --- | --- | --- |
+| P% |  |  |  |  |  |
+| &nbsp; |  |  |  |  |  |
+
+#### (5) Determination of term “P”
+
+&emsp;(A) For purposes of paragraph (4), the term “P” means the sum of—
+
+&emsp;&emsp;(i) an amount equal to the product of 0.107 and the number of individuals in the State who are between 18 and 24 years of age (inclusive);
+
+&emsp;&emsp;(ii) an amount equal to the product of 0.166 and the number of individuals in the State who are between 25 and 44 years of age (inclusive);
+
+&emsp;&emsp;(iii) an amount equal to the product of 0.099 and the number of individuals in the State who are between 45 and 64 years of age (inclusive); and
+
+&emsp;&emsp;(iv) an amount equal to the product of 0.082 and the number of individuals in the State who are 65 years of age or older.
+
+&emsp;(B) With respect to data on population that is necessary for purposes of making a determination under subparagraph (A), the Secretary shall use the most recent data that is available from the Secretary of Commerce pursuant to the decennial census and pursuant to reasonable estimates by such Secretary of changes occurring in the data in the ensuing period.
+
+#### (6) Determination of term “R%”
+
+&emsp;(A) For purposes of paragraph (4), the term “R%”, except as provided in subparagraph (D), means the percentage constituted by the ratio of the amount determined under subparagraph (B) for the State involved to the amount determined under subparagraph (C).
+
+&emsp;(B) The amount determined under this subparagraph for the State involved is the quotient of—
+
+&emsp;&emsp;(i) the most recent 3-year arithmetic mean of the total taxable resources of the State, as determined by the Secretary of the Treasury; divided by
+
+&emsp;&emsp;(ii) the factor determined under paragraph (8) for the State.
+
+&emsp;(C) The amount determined under this subparagraph is the sum of the respective amounts determined for the States under subparagraph (B) (including the District of Columbia).
+
+&emsp;(D)(i) In the case of the District of Columbia, for purposes of paragraph (4), the term “R%” means the percentage constituted by the ratio of the amount determined under clause (ii) for such District to the amount determined under clause (iii).
+
+&emsp;(ii) The amount determined under this clause for the District of Columbia is the quotient of—
+
+&emsp;&emsp;(I) the most recent 3-year arithmetic mean of total personal income in such District, as determined by the Secretary of Commerce; divided by
+
+&emsp;&emsp;(II) the factor determined under paragraph (8) for the District.
+
+&emsp;(iii) The amount determined under this clause is the sum of the respective amounts determined for the States (including the District of Columbia) by making, for each State, the same determination as is described in clause (ii) for the District of Columbia.
+
+#### (7) Determination of term “P%”
+
+&emsp;For purposes of paragraph (4), the term “P%” means the percentage constituted by the ratio of the term “P” determined under paragraph (5) for the State involved to the sum of the respective terms “P” determined for the States.
+
+#### (8) Determination of certain factor
+
+&emsp;(A) The factor determined under this paragraph for the State involved is a factor whose purpose is to adjust the amount determined under clause (i) of paragraph (4)(A), and the amounts determined under each of subparagraphs (B)(i) and (D)(ii)(I) of paragraph (6), to reflect the differences that exist between the State and other States in the costs of providing comprehensive community mental health services to adults with a serious mental illness and to children with a serious emotional disturbance.
+
+&emsp;(B) Subject to subparagraph (C), the factor determined under this paragraph and in effect for the fiscal year involved shall be determined according to the methodology described in the report entitled “Adjusting the Alcohol, Drug Abuse and Mental Health Services Block Grant Allocations for Poverty Populations and Cost of Service”, dated March 30, 1990, and prepared by Health Economics Research, a corporation, pursuant to a contract with the National Institute on Drug Abuse.
+
+&emsp;(C) The factor determined under this paragraph for the State involved may not for any fiscal year be greater than 1.1 or less than 0.9.
+
+&emsp;(D)(i) Not later than October 1, 1992, the Secretary, after consultation with the Comptroller General, shall in accordance with this section make a determination for each State of the factor that is to be in effect for the State under this paragraph. The factor so determined shall remain in effect through fiscal year 1994, and shall be recalculated every third fiscal year thereafter.
+
+&emsp;(ii) After consultation with the Comptroller General, the Secretary shall, through publication in the Federal Register, periodically make such refinements in the methodology referred to in subparagraph (B) as are consistent with the purpose described in subparagraph (A).
+
+#### (b) Minimum allotments for States
+
+For each of the fiscal years 1993 and 1994, the amount of the allotment required in section 300x of this title for a State for the fiscal year involved shall be the greater of—
+
+&emsp;(1) the amount determined under subsection (a) of this section for the State for the fiscal year; and
+
+&emsp;(2) an amount equal to 20.6 percent of the amount received by the State from allotments made pursuant to this part for fiscal year 1992 (including reallotments under section 205(a) of the ADAMHA Reorganization Act).
+
+#### (c) Territories
+
+#### (1) Determination under formula
+
+&emsp;Subject to paragraphs (2) and (4), the amount of an allotment under section 300x of this title for a territory of the United States for a fiscal year shall be the product of—
+
+&emsp;&emsp;(A) an amount equal to the amounts reserved under paragraph (3) for the fiscal year; and
+
+&emsp;&emsp;(B) a percentage equal to the quotient of—
+
+&emsp;&emsp;&emsp;(i) the civilian population of the territory, as indicated by the most recently available data; divided by
+
+&emsp;&emsp;&emsp;(ii) the aggregate civilian population of the territories of the United States, as indicated by such data.
+
+#### (2) Minimum allotment for territories
+
+&emsp;The amount of an allotment under section 300x of this title for a territory of the United States for a fiscal year shall be the greater of—
+
+&emsp;&emsp;(A) the amount determined under paragraph (1) for the territory for the fiscal year;
+
+&emsp;&emsp;(B) $50,000; and
+
+&emsp;&emsp;(C) with respect to fiscal years 1993 and 1994, an amount equal to 20.6 percent of the amount received by the territory from allotments made pursuant to this part for fiscal year 1992.
+
+#### (3) Reservation of amounts
+
+&emsp;The Secretary shall each fiscal year reserve for the territories of the United States 1.5 percent of the amounts appropriated under section 300x–9(a) of this title for allotments under section 300x of this title for the fiscal year.
+
+#### (4) Availability of data on population
+
+&emsp;With respect to data on the civilian population of the territories of the United States, if the Secretary determines for a fiscal year that recent such data for purposes of paragraph (1)(B) do not exist regarding a territory,the Secretary shall for such purposes estimate the civilian population of the territory by modifying the data on the territory to reflect the average extent of change occurring during the ensuing period in the population of all territories with respect to which recent such data do exist.
+
+#### (5) Applicability of certain provisions
+
+&emsp;For purposes of subsection (a) of this section, the term “State” does not include the territories of the United States.
+
+(July 1, 1944, ch. 373, title XIX, §1918, as added July 10, 1992, Pub. L. 102–321, title II, §201(2), 106 Stat. 385; amended Aug. 26, 1992, Pub. L. 102–352, §2(a)(8), (9), 106 Stat. 938.)
+
+#### References in Text
+
+Section 205(a) of the ADAMHA Reorganization Act, referred to in subsec. (b)(2), is section 205(a) of Pub. L. 102–321, which is set out as a note under section 300x of this title.
+
+#### Prior Provisions
+
+A prior section 300x–7, act July 1, 1944, ch. 373, title XIX, §1919, formerly §1918, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 551; renumbered §1919 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §106(a), (g), 98 Stat. 2358, 2359, related to nondiscrimination provisions with respect to alcohol, drug abuse, and mental health programs, prior to repeal by Pub. L. 102–321, §201(2).
+
+A prior section 1918 of act July 1, 1944, was classified to section 300x–6 of this title prior to repeal by Pub. L. 102–321.
+
+#### Amendments
+
+1992—Subsec. (a)(5)(A)(iii). Pub. L. 102–352, §2(a)(8), substituted “45” for “25”.
+
+Subsec. (c)(2)(C). Pub. L. 102–352, §2(a)(9), added subpar. (C).
+
+#### Effective Date of 1992 Amendments
+
+Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 300x, 300x–1, 300x–6, 300x–33, 300x–64 of this title.
+

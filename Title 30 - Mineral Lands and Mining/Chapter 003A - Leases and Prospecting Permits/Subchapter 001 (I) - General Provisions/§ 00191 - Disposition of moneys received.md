@@ -12,7 +12,7 @@
 
 (5) All deductions to be made pursuant to this subsection shall be made in full during the fiscal year in which such deductions were incurred.
 
-(Feb. 25, 1920, ch. 85, §35, 41 Stat. 450; May 27, 1947, ch. 83, 61 Stat. 119; Aug. 3, 1950, ch. 527, 64 Stat. 402; July 10, 1957, Pub. L. 85–88, §2, 71 Stat. 282; July 7, 1958, Pub. L. 85–508, §§6(k), 28(b), 72 Stat. 343, 351; Apr. 21, 1976, Pub. L. 94–273, §6(2), 90 Stat. 377; Aug. 4, 1976, Pub. L. 94–377, §9, 90 Stat. 1089; Sept. 28, 1976, Pub. L. 94–422, title III, §301, 90 Stat. 1323; Oct. 21, 1976, Pub. L. 94–579, title III, §317(a), 90 Stat. 2770; Jan. 12, 1983, Pub. L. 97–451, title I, §§104(a), 111(g), 96 Stat. 2451, 2456; Dec. 22, 1987, Pub. L. 100–203, title V, §5109,101 Stat. 1330–261; Sept. 22, 1988, Pub. L. 100–443, §5(b), 102 Stat. 1768; Aug. 10, 1993, Pub. L. 103–66, title X, §10201, 107 Stat. 407.)
+(Feb. 25, 1920, ch. 85, §35, 41 Stat. 450; May 27, 1947, ch. 83, 61 Stat. 119; Aug. 3, 1950, ch. 527, 64 Stat. 402; Pub. L. 85–88, §2, July 10, 1957, 71 Stat. 282; Pub. L. 85–508, §§6(k), 28(b), July 7, 1958, 72 Stat. 343, 351; Pub. L. 94–273, §6(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–377, §9, Aug. 4, 1976, 90 Stat. 1089; Pub. L. 94–422, title III, §301, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–579, title III, §317(a), Oct. 21, 1976, 90 Stat. 2770; Pub. L. 97–451, title I, §§104(a), 111(g), Jan. 12, 1983, 96 Stat. 2451, 2456; Pub. L. 100–203, title V, §5109, Dec. 22, 1987,101 Stat. 1330–261; Pub. L. 100–443, §5(b), Sept. 22, 1988, 102 Stat. 1768; Pub. L. 103–66, title X, §10201, Aug. 10, 1993, 107 Stat. 407.)
 
 #### References in Text
 
@@ -84,5 +84,5 @@ Naval petroleum reserves, see section 7421 et seq. of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 241, 275, 285, 292, 355, 541f, 1019, 1721, 1735 of this title; title 10 sections 7421, 7435; title 16 sections 460<i>ll</i>–3, 470h; title 31 section 6903; title 43 section 1747.
+This section is referred to in sections 241, 275, 285, 292, 355, 541f, 1019, 1721, 1735 of this title; title 10 sections 7421, 7435, 7439; title 16 sections 460<i>ll</i>–3, 470h; title 31 section 6903; title 43 section 1747.
 

@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 \[Uncodified\].
 
@@ -32,9 +34,9 @@ A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expens
 
 #### Amendments
 
-1984—Pub. L. 98–473 inserted “and” at end of cl. (2), substituted a period for “; and” at end of cl. (3), and struck out cl. (4) which related to functions of Board of Parole.
+<b>1984</b>—Pub. L. 98–473 inserted “and” at end of cl. (2), substituted a period for “; and” at end of cl. (3), and struck out cl. (4) which related to functions of Board of Parole.
 
-1978—Cl. (1). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+<b>1978</b>—Cl. (1). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
 #### Effective Date of 1984 Amendment
 
@@ -43,6 +45,14 @@ Section 235(a)(1)(B)(ii)(IV) of Pub. L. 98–473 provided that the amendment mad
 #### Emergency Preparedness Functions
 
 For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and 11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### Reimbursement of Employees Traveling on Behalf of United States in Temporary Duty Status
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: “Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement.”
+
+#### Overseas Law Enforcement Training Activities
+
+Pub. L. 104–132, title VIII, §801, Apr. 24, 1996, 110 Stat. 1304, provided that: “The Attorney General and the Secretary of the Treasury are authorized to support law enforcement training activities in foreign countries, in consultation with the Secretary of State, for the purpose of improving the effectiveness of the United States in investigating and prosecuting transnational offenses.”
 
 #### Reimbursement by Other Government Agencies of Department of Justice Salaries and Expenses in High-Cost Litigation
 
@@ -54,7 +64,7 @@ Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: “T
 
 #### Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures
 
-Pub. L. 102–140, title VI, §611(a), Oct. 28, 1991, 105 Stat. 832, provided that, notwithstanding any other provision of law: “For fiscal year 1992 and thereafter, the Department of Justice may procure the services of expert witnesses for use in preparing or prosecuting a civil or criminal action, without regard to competitive procurement procedures, including the Commerce BusinessDaily publication requirements: <i>Provided</i>, That no witness shall be paid more than one attendance fee for any calendar day.”
+Pub. L. 102–140, title VI, §611(a), Oct. 28, 1991, 105 Stat. 832, provided that, notwithstanding any other provision of law: “For fiscal year 1992 and thereafter, the Department of Justice may procure the services of expert witnesses for use in preparing or prosecuting a civil or criminal action, without regard to competitive procurement procedures, including the Commerce Business Daily publication requirements: <i>Provided</i>, That no witness shall be paid more than one attendance fee for any calendar day.”
 
 #### Structural Reforms To Improve Federal Response to Crimes Affecting Financial Institutions
 
@@ -166,7 +176,7 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 “(a) Notwithstanding any other law and in any fiscal year—
 
-&emsp;“(1) The Attorney General shall accept, and Federal departments and agencies, including the United States Secret Service, the Internal Revenue Service, the Resolution Trust Corporation, and the appropriate Federal banking agency, may provide, without reimbursement, the services of attorneys, law enforcement personnel, and other employees of any other departments or agencies of the Federal Government to assist the Department of Justice, subject to the supervision of the Attorney General, in the investigation and prosecution of fraud or other criminal or unlawful activity in or against any federally insuredfinancial institution or the Resolution Trust Corporation;
+&emsp;“(1) The Attorney General shall accept, and Federal departments and agencies, including the United States Secret Service, the Internal Revenue Service, the Resolution Trust Corporation, and the appropriate Federal banking agency, may provide, without reimbursement, the services of attorneys, law enforcement personnel, and other employees of any other departments or agencies of the Federal Government to assist the Department of Justice, subject to the supervision of the Attorney General, in the investigation and prosecution of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation;
 
 &emsp;“(2) any attorney of a department or agency whose services are accepted pursuant to paragraph (1) may, subject to the supervision of the Attorney General, conduct any kind of legal proceeding, civil or criminal, including grand jury proceedings and proceedings before committing magistrates, and perform any other investigative or prosecutorial function, which United States attorneys are authorized by law to conduct or perform whether or not the attorney is a resident of the district in which the proceeding is brought; and
 
@@ -190,7 +200,7 @@ Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 997, provided: “That for
 
 #### Uniforms and Allowances
 
-Pub. L. 101–162, title II, §203, Nov. 21, 1989, 103 Stat. 1002, provided that: “For fiscal year 1990 and hereafter, appropriations for ‘Salaries and expenses, General Administration’, ‘Salaries and expenses, United States Marshals Service’, ‘Salaries and expenses, Federal Bureau of Investigation’, ‘Salaries and expenses, Drug Enforcement Administration’, ‘Salaries and expenses, Immigration and Naturalization Service’, and ‘Salaries and expenses, Federal Prison System’, shall be available for uniforms and allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
+Pub. L. 101–162, title II, §203, Nov. 21, 1989, 103 Stat. 1002, provided that: “For fiscal year 1990 and hereafter, appropriations for ‘Salaries and expenses, General Administration’, ‘Salaries and expenses, United StatesMarshals Service’, ‘Salaries and expenses, Federal Bureau of Investigation’, ‘Salaries and expenses, Drug Enforcement Administration’, ‘Salaries and expenses, Immigration and Naturalization Service’, and ‘Salaries and expenses, Federal Prison System’, shall be available for uniforms and allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
 
 #### Justice Department Organized Crime and Drug Enforcement Enhancement
 
@@ -292,7 +302,7 @@ Study.—The Comptroller General of the United States shall conduct a study—
 
 “(b)
 
-Report to Congress.—The Comptroller General shall report the results and recommendations derived from the study required by subsection (a) no later than 1 year after the date of enactment of this Act \[Nov. 18, 1988\].”
+Report to Congress.—The Comptroller General shall report the results and recommendations derivedfrom the study required by subsection (a) no later than 1 year after the date of enactment of this Act \[Nov. 18, 1988\].”
 
 #### Federal Environmental or Natural Resource Laws; Investigations Respecting, Etc.
 
@@ -372,7 +382,7 @@ There are hereby transferred to the Attorney General:
 
 (a) \[Repealed. Reorg. Plan No. 2 of 1973, §3, 38 F.R. 15932, 87 Stat. 1091, eff. July 1, 1973. Subsection established the Bureau of Narcotics and Dangerous Drugs in the Department of Justice and provided that it be headed by a Director appointed by the Attorney General.\]
 
-(b) There are hereby established in the Department of Justice, in addition to the positions transferred to that Department by this Plan, four new positions, appointment to which shall be made by the Attorney General in the competitive service. Two of those positions shall have compensation at the rate now or hereafter provided for GS-18 positions of the General Schedule and the other two shall have compensation at the rate now or hereafter provided for GS-16 positions of the General Schedule (5 U.S.C. 5332). Each such position shall have such title and duties as the Attorney General shall prescribe.
+(b) There are hereby established in the Department of Justice, in addition to the positions transferred to that Department by this Plan, four new positions, appointment to which shall be made by the Attorney Generalin the competitive service. Two of those positions shall have compensation at the rate now or hereafter provided for GS-18 positions of the General Schedule and the other two shall have compensation at the rate now or hereafter provided for GS-16 positions of the General Schedule (5 U.S.C. 5332). Each such position shall have such title and duties as the Attorney General shall prescribe.
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -402,7 +412,7 @@ With this action, America will serve notice to the pusher and the peddler that t
 
 No matter how well organized they are, we will be better organized. No matter how well they have concealed their activities, we will root them out.
 
-Today, Federal investigation and enforcement of our narcotics laws are fragmented. One major element—the Bureau of Narcotics—is in the Treasury Department and responsible for the control of marihuana and narcotics such as heroin. Another—the Bureau of Drug Abuse Control—is in the Department of Health, Education, and Welfare, and is responsible for the controlof dangerous drugs including depressants, stimulants, and hallucinogens such as LSD.
+Today, Federal investigation and enforcement of our narcotics laws are fragmented. One major element—the Bureau of Narcotics—is in the Treasury Department and responsible for the control of marihuana and narcotics such as heroin. Another—the Bureau of Drug Abuse Control—is in the Department of Health, Education, and Welfare, and is responsible for the control of dangerous drugs including depressants, stimulants, and hallucinogens such as LSD.
 
 Neither is located in the agency which is primarily concerned with Federal law enforcement—the Department of Justice.
 
@@ -536,7 +546,7 @@ Funding for this effort has increased sevenfold during the past five years, from
 
 The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that “Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated.”
 
-More specifically, the drug law enforcement activities of the United States now are not merely in twohands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
+More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
 This aggregation of Federal activities has grown up rapidly over the past few years in response to the urgent need for stronger anti-drug measures. It has enabled us to make a very encouraging beginning in the accelerated drug enforcement drive of this Administration.
 
@@ -572,7 +582,7 @@ The major responsibility of the Drug Enforcement Administration would thus inclu
 
 &emsp;—regulation of the legal manufacture of drugs and other controlled substances under Federal regulations.
 
-The Attorney General, working closely with the Administrator of this new agency, would have authority to make needed program adjustments. He would take steps within the Department of Justice to ensure that high priority emphasis is placed on the prosecution and sentencing of drug traffickers following their apprehension by the enforcement organization. He would also have the authority and responsibility for securing the fullest possible cooperation-particularly with respect to collection of drug intelligence—from all Federal departments and agencies which can contribute to the anti-drug work, including the Internal Revenue Service and the Federal Bureau of Investigation.
+The Attorney General, working closely with the Administrator of this new agency, would have authority to make needed program adjustments. He would take steps within the Department of Justice to ensure that high priority emphasis is placed on the prosecution andsentencing of drug traffickers following their apprehension by the enforcement organization. He would also have the authority and responsibility for securing the fullest possible cooperation-particularly with respect to collection of drug intelligence—from all Federal departments and agencies which can contribute to the anti-drug work, including the Internal Revenue Service and the Federal Bureau of Investigation.
 
 My proposals would make possible a more effective antidrug role for the FBI, especially in dealing with the relationship between drug trafficking and organized crime. I intend to see that the resources of the FBI are fully committed to assist in supporting the new Drug Enforcement Administration.
 
@@ -736,7 +746,7 @@ Automated Legal Research and Information Systems
 
 Responsibilities of the Agencies
 
-1–701. Each agency shall (a) review the management and operation of its legal activities and report in one year to the Federal Legal Council all steps being taken to improve those operations, and (b) cooperate with the Federal Legal Council and the Attorney General in the performance of the functions provided by this Order.
+1–701. Each agency shall (a) review the management and operation of its legal activities and report in oneyear to the Federal Legal Council all steps being taken to improve those operations, and (b) cooperate with the Federal Legal Council and the Attorney General in the performance of the functions provided by this Order.
 
 1–702. To the extent permitted by law, each agency shall furnish the Federal Legal Council and the Attorney General with reports, information and assistance as requested to carry out the provisions of this Order.
 

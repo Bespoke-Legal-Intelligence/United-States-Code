@@ -62,7 +62,7 @@ Section 1(a) of Pub. L. 96–180 provided that: “This Act \[enacting section 4
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–371 provided: “That this Act \[enacting sections 4578 and 4585 to 4588 of this title, amending this section, sections 218, 3511, 4571 to 4573, 4576, 4577, and 4581 of this title, and sections 1176 and1177 of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 4573 and 4577 of this title, and sections 1176 and 1177 of Title 21\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1976’.”
+Section 1 of Pub. L. 94–371 provided: “That this Act \[enacting sections 4578 and 4585 to 4588 of this title, amending this section, sections 218, 3511, 4571 to 4573, 4576, 4577, and 4581 of this title, and sections 1176 and 1177 of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 4573 and 4577 of this title, and sections 1176 and 1177 of Title 21\] may be cited as the ‘Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1976’.”
 
 #### Short Title of 1974 Amendment
 

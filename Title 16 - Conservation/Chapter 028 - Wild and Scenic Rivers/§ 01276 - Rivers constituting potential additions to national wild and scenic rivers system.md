@@ -76,7 +76,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (36) Elk, Colorado: The segment from its source to Clark.
 
-(37) Encampment, Colorado: The Main Fork and West Fork to their confluence, thence the Encampment to the Colorado-Wyoming border, including the tributaries and headwaters.
+(37) Encampment, Colorado: The Main Fork and West Fork to their confluence, thence theEncampment to the Colorado-Wyoming border, including the tributaries and headwaters.
 
 (38) Green, Colorado: The entire segment within the State of Colorado.
 
@@ -256,7 +256,7 @@ Mills River, North Carolina.—The North Fork from the bottom of the spillway of
 
 (110)
 
-Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup>—The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
+Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup>—The segment of the Sudbury from the Danforth Street Bridge in the town ofFramingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
 
 (111)
 
@@ -272,7 +272,7 @@ White Clay Creek, Delaware and Pennsylvania.—The headwaters of the river in Pe
 
 (114)
 
-Brule, Michigan and Wisconsin.—The 33-mile segment from Brule Lake in the northeast quarter of section 15, township 41 north, range 13east, to the National Forest boundary at the southeast quarter of section 31, township 41 north, range 17 east.
+Brule, Michigan and Wisconsin.—The 33-mile segment from Brule Lake in the northeast quarter of section 15, township 41 north, range 13 east, to the National Forest boundary at the southeast quarter of section 31, township 41 north, range 17 east.
 
 (115)
 
@@ -376,7 +376,7 @@ Delaware River, Pennsylvania and New Jersey.—(A) The approximately 3.6-mile se
 
 (C) The approximately 12.5-mile segment from the southern border of the town of Belvidere, New Jersey, to the northern border of the city of Easton, Pennsylvania, excluding river mile 196.0 to 193.8.
 
-(D) The approximately 9.5-mile segment from the southern border of the town of Phillipsburg,New Jersey, to a point just north of the Gilbert Generating Station.
+(D) The approximately 9.5-mile segment from the southern border of the town of Phillipsburg, New Jersey, to a point just north of the Gilbert Generating Station.
 
 (E) The approximately 14.2-mile segment from a point just south of the Gilbert Generating Station to a point just north of the Point Pleasant Pumping Station.
 
@@ -424,7 +424,7 @@ Wekiva River, Florida.—(A) The entire river.
 
 (8) The study of the Merrimack River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
 
-(9) The study of the Pemigewasset River, New Hampshire, shall be completed and the report thereon submitted not later than three years after August 10, 1990.
+(9) The study of the Pemigewasset River, New Hampshire, shall be completed and the reportthereon submitted not later than three years after August 10, 1990.
 
 (8) <sup>5</sup> The study of the river named in paragraph (106) <sup>6</sup> of subsection (a) of this section shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
 
@@ -462,7 +462,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 
-(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, titleVII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152.)
+(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152.)
 
 #### References in Text
 
@@ -552,7 +552,7 @@ Subsec. (a)(97), (98). Pub. L. 100–33 added pars. (97) and (98).
 
 Subsec. (a)(92), (93). Pub. L. 99–590, §§201(b), 301(a), added pars. (92) and (93).
 
-Subsec. (a)(94), (95). Pub. L. 99–663 added at end two unnumbered pars., relating to Klickitat, Washington,and White Salmon, Washington, which were designated as pars. (94) and (95), respectively, by Pub. L. 100–149.
+Subsec. (a)(94), (95). Pub. L. 99–663 added at end two unnumbered pars., relating to Klickitat, Washington, and White Salmon, Washington, which were designated as pars. (94) and (95), respectively, by Pub. L. 100–149.
 
 Subsec. (b)(1). Pub. L. 99–590, §503(b), inserted provisions relating to completion and transmission of reports to Congress not later than Jan. 1, 1987.
 

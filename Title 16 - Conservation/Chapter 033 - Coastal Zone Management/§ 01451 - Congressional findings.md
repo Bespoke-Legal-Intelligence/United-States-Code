@@ -58,7 +58,7 @@ Pub. L. 99–272, title VI, §6041, Apr. 7, 1986, 100 Stat. 124, provided that: 
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enactingprovisions set out as notes under sections 1455, 1458, and 1463a of this title\] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
+Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and 1463a of this title\] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
 
 #### Short Title of 1976 Amendment
 

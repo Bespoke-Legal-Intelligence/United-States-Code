@@ -2,7 +2,7 @@
 
 The Librarian of Congress may designate employees of the Library of Congress as police for duty with respect to the Library of Congress buildings and adjacent streets. The rank structure and pay for employees so designated shall be the same as the rank structure and pay for the Capitol Police.
 
-(Aug. 4, 1950, ch. 561, §1, 64 Stat. 411; Oct. 21, 1968, Pub. L. 90–610, §1, 82 Stat. 1201; Dec. 5, 1973, Pub. L. 93–175, §1, 87 Stat. 693; Oct. 16, 1987, Pub. L. 100–135, §1(a), 101 Stat. 811.)
+(Aug. 4, 1950, ch. 561, §1, 64 Stat. 411; Pub. L. 90–610, §1, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 93–175, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 100–135, §1(a), Oct. 16, 1987, 101 Stat. 811.)
 
 #### Amendments
 
@@ -66,7 +66,7 @@ Definitions.—As used in this section—
 
 &emsp;“(1) the term ‘identified employee’ means an employee identified by the Librarian of Congress as an employee who (with respect to each of the thirteen pay periods immediately before the first pay period to which the amendments made by section 1 apply) is designated by the Librarian for police duty, at the rank of private, and receives additional pay for Sunday work or night work under section 5544 or section 5545 of title 5, United States Code; and
 
-&emsp;“(2) the term ‘prior law’ means the first section of the Act entitled ‘An Act relating to the policing ofthe buildings and grounds of the Library of Congress’, approved August 4, 1950 (2 U.S.C. 167), as in effect immediately before the first pay period to which the amendments made by section 1 apply.”
+&emsp;“(2) the term ‘prior law’ means the first section of the Act entitled ‘An Act relating to the policing of the buildings and grounds of the Library of Congress’, approved August 4, 1950 (2 U.S.C. 167), as in effect immediately before the first pay period to which the amendments made by section 1 apply.”
 
 #### Section Referred to in Other Sections
 

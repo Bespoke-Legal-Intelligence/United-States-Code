@@ -98,7 +98,7 @@ The recipient of a grant under section 12571(a) of this title and each Federal a
 
 #### (4) Encouragement of intergenerational components of programs
 
-&emsp;The Corporation shall encourage national service programs eligible to receive assistanceor approved national service positions under this division to establish, if consistent with the purposes of the program, an intergenerational component of the program that combines students, out-of-school youths, and older adults as participants to provide services to address unmet human, educational, environmental, or public safety needs.
+&emsp;The Corporation shall encourage national service programs eligible to receive assistance or approved national service positions under this division to establish, if consistent with the purposes of the program, an intergenerational component of the program that combines students, out-of-school youths, and older adults as participants to provide services to address unmet human, educational, environmental, or public safety needs.
 
 #### (c) National service priorities
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) the battle against soil erosion is being lost despite the annual expenditure of millions of dollars by the Federal Government on research, technical assistance, and conservation incentives to control soil erosion;
 
-&emsp;(4) conservation tillage practices are estimated to reduce soil erosion by 50 to 90 percentum over conventional farming practices; and
+&emsp;(4) conservation tillage practices are estimated to reduce soil erosion by 50 to 90 per centum over conventional farming practices; and
 
 &emsp;(5) conservation tillage may result in better yields, greater land use flexibility, decreased fuel use, decreased labor and equipment costs, increased retention of soil moisture, and more productive land than conventional farming practices and may be adaptable to a broad range of soil types and slopes throughout the country.
 

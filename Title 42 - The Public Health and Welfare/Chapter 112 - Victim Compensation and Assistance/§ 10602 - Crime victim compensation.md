@@ -52,7 +52,7 @@ As used in this section—
 
 &emsp;(2) the term “medical expenses” includes, to the extent provided under the eligible crime victim compensation program, expenses for eyeglasses or other corrective lenses, for dental services and devices and prosthetic devices, and for services rendered in accordance with a method of healing recognized by the law of the State;
 
-&emsp;(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18,crimes involving terrorism, driving while intoxicated, and domestic violence; and
+&emsp;(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18, crimes involving terrorism, driving while intoxicated, and domestic violence; and
 
 &emsp;(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any other possession or territory of the United States.
 
@@ -112,7 +112,7 @@ Subsec. (d)(3). Pub. L. 100–690, §7125(c)(2), inserted reference to driving w
 
 #### Effective Date of 1996 Amendment
 
-Section 233(d) of Pub. L. 104–132 provided that: “This section \[amending this section\] and the amendments made by this section shall take effect 1 year after the date of enactment of this Act \[Apr. 24, 1996\].”
+Section 233(d) of Pub. L. 104–132, as amended by Pub. L. 105–119, title I, §120, Nov. 26, 1997, 111 Stat. 2468, provided that: “This section \[amending this section\] and the amendments made by this section shall take effect October 1, 1999.”
 
 #### Effective Date of 1988 Amendment
 

@@ -32,11 +32,15 @@
 
 (h) When a transfer is made primarily for the convenience or benefit of an employee, including an employee in the Foreign Service of the United States, or at his request, his expenses of travel and transportation and the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking of household goods and personal effects may not be allowed or paid from Government funds.
 
-(i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental UnitedStates only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by the United States for the expenses and allowances is recoverable from the employee as a debt due the United States.
+(i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental United States only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by the United States for the expenses and allowances is recoverable from the employee as a debt due the United States.
 
 (j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting area shall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, §1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, §1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–85, div. C, title XXXV, §3550(c)(1), Nov. 18, 1997, 111 Stat. 2074.)
+
+#### Amendment of Subsection (a)(3)
+
+<i>Pub. L. 105–85, div. C, title XXXV, §3550(c)(1), (3), Nov. 18, 1997, 111 Stat. 2074, provided that, effective Jan. 1, 1999, subsection (a)(3) of this section is amended by substituting “or the Commonwealth of Puerto Rico” for “, the Commonwealth of Puerto Rico,” and all that follows through “Panama Canal Act of 1979”.</i>
 
 Historical and Revision Notes<br>1966
 
@@ -160,6 +164,10 @@ Subsec. (j). Pub. L. 98–151, §118(a)(4), added subsec. (j).
 
 1968—Subsec. (e). Pub. L. 90–623 substituted “section 5724a(a), (b)” for “section 5724(a), (b)”.
 
+#### Effective Date of 1997 Amendment
+
+Section 3550(c)(3) of Pub. L. 105–85 provided that: “The amendments made by this subsection \[amending this section and section 5724a of this title\] shall take effect on January 1, 1999.”
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
@@ -220,7 +228,7 @@ Section 118(b) of Pub. L. 98–151 provided that: “The amendments made by subs
 
 #### Rates of Reimbursement
 
-Administrator of General Services empowered to prescribe regulations relating to establishment of rates used in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment of actual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar.28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
+Administrator of General Services empowered to prescribe regulations relating to establishment of rates used in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment of actual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar. 28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 

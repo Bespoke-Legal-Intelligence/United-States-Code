@@ -42,7 +42,7 @@ If the United States votes against including any species in Appendix I or II of 
 
 Subsec. (d). Pub. L. 97–304, §5\[(a)\](2), substituted provisions relating to reservations by the United States under the Convention for provisions which had established an International Convention Advisory Commission and had provided for its membership, staffing, and operation.
 
-Subsec. (e). Pub. L. 97–304, §5\[(a)\](3), substituted provisions implementing the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere for provisions which had provided that the President shall designate those agencies of the FederalGovernment that shall act on behalf of, and represent, the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere.
+Subsec. (e). Pub. L. 97–304, §5\[(a)\](3), substituted provisions implementing the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere for provisions which had provided that the President shall designate those agencies of the Federal Government that shall act on behalf of, and represent, the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere.
 
 #### Effective Date of 1982 Amendment
 

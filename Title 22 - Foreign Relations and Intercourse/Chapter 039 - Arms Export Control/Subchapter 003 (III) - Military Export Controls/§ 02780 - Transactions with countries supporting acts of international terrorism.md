@@ -10,7 +10,7 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;&emsp;(B) shall terminate any lease or loan to such country of any such item which is in effect at the time the Secretary of State makes that determination.
 
-&emsp;(2) Providing credits, guarantees, or other financial assistance under the authority of this chapter, the Foreign Assistance Act of 1961 \[22U.S.C. 2151 et seq.\], or any other law (except as provided in subsection (h) of this section), with respect to the acquisition of any munitions item by a country described in subsection (d) of this section. In implementing this paragraph, the United States Government shall suspend expenditures pursuant to any such assistance obligated before the Secretary of State makes the determination described in subsection (d) of this section. The President may authorize expenditures otherwise required to be suspended pursuant to the preceding sentence if the President has determined, and reported to the Congress, that suspension of those expenditures causes undue financial hardship to a supplier, shipper, or similar person and allowing the expenditure will not result in any munitions item being made available for use by such country.
+&emsp;(2) Providing credits, guarantees, or other financial assistance under the authority of this chapter, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other law (except as provided in subsection (h) of this section), with respect to the acquisition of any munitions item by a country described in subsection (d) of this section. In implementing this paragraph, the United States Government shall suspend expenditures pursuant to any such assistance obligated before the Secretary of State makes the determination described in subsection (d) of this section. The President may authorize expenditures otherwise required to be suspended pursuant to the preceding sentence if the President has determined, and reported to the Congress, that suspension of those expenditures causes undue financial hardship to a supplier, shipper, or similar person and allowing the expenditure will not result in any munitions item being made available for use by such country.
 
 &emsp;(3) Consenting under section 2753(a) of this title, under section 505(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2314(a)\], under the regulations issued to carry out section 2778 of this title, or under any other law (except as provided in subsection (h) of this section), to any transfer of any munitions item to a country described in subsection (d) of this section. In implementing this paragraph, the United States Government shall withdraw any such consent which is in effect at the time the Secretary of State makes the determination described in subsection (d) of this section, except that this sentence does not apply with respect to any item that has already been transferred to such country.
 
@@ -58,7 +58,7 @@ This section applies with respect to—
 
 #### (d) Countries covered by prohibition
 
-The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of thatcountry has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.
+The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.
 
 #### (e) Publication of determinations
 
@@ -98,7 +98,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 &emsp;&emsp;(B) submits to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report containing—
 
-&emsp;&emsp;&emsp;(i) the name of any country involved in the proposed transaction, the identity of any recipient of the items to be provided pursuant to the proposed transaction, and the anticipated use of those items;
+&emsp;&emsp;&emsp;(i) the name of any country involved in the proposed transaction, the identity ofany recipient of the items to be provided pursuant to the proposed transaction, and the anticipated use of those items;
 
 &emsp;&emsp;&emsp;(ii) a description of the munitions items involved in the proposed transaction (including their market value) and the actual sale price at each step in the transaction (or if the items are transferred by other than sale, the manner in which they will be provided);
 

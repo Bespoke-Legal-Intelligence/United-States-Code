@@ -2,7 +2,7 @@
 
 #### (a) Amount available; formula for computation of payment; improved program integrity and meal quality; use for costs of administration of programs for which allocation made; retention of funds by Secretary
 
-(1) Each fiscal year, the Secretary shall make available to the States for their administrativecosts an amount equal to not less than 11/2 percent of the Federal funds expended under sections 4, 11, and 17 of the National School Lunch Act \[42 U.S.C. 1753, 1759a, 1766\] and 1772 and 1773 of this title during the second preceding fiscal year. The Secretary shall allocate the funds so provided in accordance with paragraphs (2), (3), and (4) of this subsection. There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
+(1) Each fiscal year, the Secretary shall make available to the States for their administrative costs an amount equal to not less than 11/2 percent of the Federal funds expended under sections 4, 11, and 17 of the National School Lunch Act \[42 U.S.C. 1753, 1759a, 1766\] and 1772 and 1773 of this title during the second preceding fiscal year. The Secretary shall allocate the funds so provided in accordance with paragraphs (2), (3), and (4) of this subsection. There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
 (2) The Secretary shall allocate to each State for administrative costs incurred in any fiscal year in connection with the programs authorized under the National School Lunch Act \[42 U.S.C. 1751 et seq.\] or under this chapter, except for the programs authorized under section 13 or 17 of the National School Lunch Act \[42 U.S.C. 1761, 1766\] or under section 1786 of this title, an amount equal to not less than 1 percent and not more than 11/2 percent of the funds expended by each State under sections 4 and 11 of the National School Lunch Act \[42 U.S.C. 1753, 1759a\] and sections 1772 and 1773 of this title during the second preceding fiscal year. In no case shall the grant available to any State under this subsection be less than the amount such State was allocated in the fiscal year ending September 30, 1981, or $100,000, whichever is larger.
 
@@ -20,7 +20,7 @@
 
 (ii) In any fiscal year in which amounts returned to the Secretary under the first sentence of clause (i) are insufficient to provide the complete allocation described in clause (i)(I), all of such amounts shall be allocated for the purpose described in clause (i)(I).
 
-(6) Funds available to States under this subsection and under section 13(k)(1) of the National School Lunch Act \[42 U.S.C. 1761(k)(1)\] shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs.
+(6) Funds available to States under this subsection and under section 13(k)(1) of the National School Lunch Act \[42 U.S.C. 1761(k)(1)\]shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs.
 
 (7) Where the Secretary is responsible for the administration of programs under this chapter or the National School Lunch Act \[42 U.S.C. 1751 et seq.\], the amount of funds that would be allocated to the State agency under this section and under section 13(k)(1) of the National School Lunch Act \[42 U.S.C. 1761(k)(1)\] shall be retained by the Secretary for the Secretary's use in the administration of such programs.
 
@@ -76,7 +76,7 @@ Subsec. (h). Pub. L. 104–193, §724(a)(1), struck out subsec. (h) which read a
 
 Subsec. (i). Pub. L. 104–193, §724(a)(2), redesignated subsec. (i) as (g).
 
-1994—Subsec. (a)(5)(B)(i)(I). Pub. L. 103–448, §117(a)(2)(B), substituted “projects under section 17B of the National School Lunch Act” for “projects undersection 18(c) of the National School Lunch Act (42 U.S.C. 1769(c))” and substituted “fiscal year 1995 and each subsequent fiscal year” for “each of fiscal years 1993 and 1994” in two places.
+1994—Subsec. (a)(5)(B)(i)(I). Pub. L. 103–448, §117(a)(2)(B), substituted “projects under section 17B of the National School Lunch Act” for “projects under section 18(c) of the National School Lunch Act (42 U.S.C. 1769(c))” and substituted “fiscal year 1995 and each subsequent fiscal year” for “each of fiscal years 1993 and 1994” in two places.
 
 Subsec. (a)(9). Pub. L. 103–448, §202(a), added par. (9).
 

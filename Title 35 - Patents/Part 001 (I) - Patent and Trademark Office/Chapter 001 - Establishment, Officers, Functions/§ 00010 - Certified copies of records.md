@@ -2,7 +2,7 @@
 
 The Commissioner may furnish certified copies of specifications and drawings of patents issued by the Patent and Trademark Office, and of other records available either to the public or to the person applying therefor.
 
-(July 19, 1952, ch. 950, 66 Stat. 794; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949.)
+(July 19, 1952, ch. 950, 66 Stat. 794; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
 #### Historical and Revision Notes
 

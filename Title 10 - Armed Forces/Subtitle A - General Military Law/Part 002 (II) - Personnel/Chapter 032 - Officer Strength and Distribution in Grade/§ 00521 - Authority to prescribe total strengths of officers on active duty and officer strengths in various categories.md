@@ -44,7 +44,7 @@ Matters To Be Considered.—The review and evaluation shall include, for the off
 
 “(c)
 
-Report.—Not later than December 31, 1993, the federally funded research and development center shall submit to the Secretary of Defense a report on the results of the review and evaluation. Within 60 days after receiving the report, the Secretary shall transmit the report to the Committees on Armed Services of the Senate and House of Representatives. The Secretarymay submit to such committees any comments that the Secretary considers appropriate regarding the matters contained in the report.
+Report.—Not later than December 31, 1993, the federally funded research and development center shall submit to the Secretary of Defense a report on the results of the review and evaluation. Within 60 days after receiving the report, the Secretary shall transmit the report to the Committees on Armed Services of the Senate and House of Representatives. The Secretary may submit to such committees any comments that the Secretary considers appropriate regarding the matters contained in the report.
 
 “(d)
 

@@ -1,8 +1,8 @@
 ### §715. Audit of accounts and operations of the District of Columbia government
 
-(a) In addition to the audit carried out under section 455 of the District of Columbia Self-Government and Governmental Reorganization Act\(Public Law 93–198, 87 Stat. 803; D.C. Code, §47–117), the Comptroller General each year shall audit the accounts and operations of the District of Columbia government. An audit shall be carried out according to principles, under regulations, and in a way the Comptroller General prescribes. When prescribing the procedures to follow and the extent of the inspection of records, the Comptroller General shall consider generally accepted principles of auditing, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices.
+(a) In addition to the audit carried out under section 455 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 803; D.C. Code, §47–117), the Comptroller General each year shall audit the accounts and operations of the District of Columbia government. An audit shall be carried out according to principles, under regulations, and in a way the Comptroller General prescribes. When prescribing the procedures to follow and the extent of the inspection of records, the Comptroller General shall consider generally accepted principles of auditing, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices.
 
-(b) The Comptroller General shall submit each audit report to Congress and the Mayor and Council of the District of Columbia. The report shall include the scope of an audit, information the Comptroller General considers necessary to keep Congress, the Mayor, and the Council informed of operations audited, and recommendations the Comptroller General considers advisable.
+(b) The Comptroller General shall submit each audit report to Congress and (other than the audit reports of the District of Columbia Courts) the Mayor and Council of the District of Columbia. The report shall include the scope of an audit, information the Comptroller General considers necessary to keep Congress, the Mayor, and the Council informed of operations audited, and recommendations the Comptroller General considers advisable.
 
 (c)(1) By the 90th day after receiving an audit report from the Comptroller General, the Mayor shall state in writing to the Council measures the District of Columbia government is taking to comply with the recommendations of the Comptroller General. A copy of the statement shall be sent to Congress.
 
@@ -12,7 +12,7 @@
 
 (e) Not later than March 1 of each year, the Comptroller General shall submit to the Committee on the District of Columbia of the House of Representatives and the Subcommittee on General Services, Federalism, and the District of Columbia of the Committee on Governmental Affairs of the Senate a review of the report of the breakdown of the independently audited revenues of the District of Columbia for the preceding fiscal year by revenues derived from the Federal Government and revenues derived from sources other than the Federal Government that is included in the independent annual audit of the funds of the District of Columbia conducted for such fiscal year.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 891; Pub. L. 102–102, §2(c)(2), Aug. 17, 1991, 105 Stat. 496.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 891; Pub. L. 102–102, §2(c)(2), Aug. 17, 1991, 105 Stat. 496; Pub. L. 105–33, title XI, §§11244(b), 11717(b), Aug. 5, 1997, 111 Stat. 754, 786.)
 
 Historical and Revision Notes
 
@@ -58,7 +58,15 @@ Section is also set out in D.C. Code, §47–118.1.
 
 #### Amendments
 
+1997—Subsec. (a). Pub. L. 105–33, §11717(b), substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+
+Subsec. (b). Pub. L. 105–33, §11244(b), substituted “and (other than the audit reports of the District of Columbia Courts) the Mayor” for “and the Mayor”.
+
 1991—Subsec. (e). Pub. L. 102–102 added subsec. (e).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1991 Amendment
 

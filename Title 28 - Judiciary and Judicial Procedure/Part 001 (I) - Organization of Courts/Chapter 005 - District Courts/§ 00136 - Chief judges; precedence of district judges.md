@@ -28,7 +28,7 @@ Other district judges shall have precedence and preside according to the seniori
 
 (e) If a chief judge is temporarily unable to perform his duties as such, they shall be performed by the district judge in active service, present in the district and able and qualified to act, who is next in precedence.
 
-(June 25, 1948, ch. 646, 62 Stat. 897; Oct. 31, 1951, ch. 655, §37, 65 Stat. 723; Aug. 6, 1958, Pub. L. 85–593, §2, 72 Stat. 497; Apr. 2, 1982, Pub. L. 97–164, title II, §202, 96 Stat. 52.)
+(June 25, 1948, ch. 646, 62 Stat. 897; Oct. 31, 1951, ch. 655, §37, 65 Stat. 723; Pub. L. 85–593, §2, Aug. 6, 1958, 72 Stat. 497; Pub. L. 97–164, title II, §202, Apr. 2, 1982, 96 Stat. 52.)
 
 #### Historical and Revision Notes
 
@@ -50,13 +50,13 @@ The official status of the Chief Justice of the District Court for the District 
 
 #### Amendments
 
-1982—Subsec. (a). Pub. L. 97–164, §202(a), designated existing first sentence of subsec. (a) as par. (1), substituted “In any district having more than one district judge, the chief judge of the district shall be the district judge in regular active service who is senior in commission of those judges who—(A) are sixty-four years of age or under; (B) have served for one year or more as a district judge; and (C) have not served previously as chief judge” for “In each district having more than one judge the district judge in regular active service who is senior in commission and under seventy years of age shall be the chief judge of the district court” in par. (1) as so designated, designated existing second sentence of subsec. (a) as par. (2)(A), substituted “In any case in which no district judge meets the qualifications of paragraph (1), the youngest district judge in regular active service who is sixty-five years of age or over and who has served as district judge for one year or more shall act as the chief judge” for “If all the district judges in regular active service are seventy years of age or older the youngest shall act as chief judge until a judge has been appointed and qualified who is under seventy years of age, but a judge may not act as chief judge until he has served as a district judge for one year” in par. (2)(A) as so designated, and added pars. (2)(B) and (3).
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §202(a), designated existing first sentence of subsec. (a) as par. (1), substituted “In any district having more than one district judge, the chief judge of the district shall be the district judge in regular active service who is senior in commission of those judges who—(A) are sixty-four years of age or under; (B) have served for one year or more as a district judge; and (C) have not served previously as chief judge” for “In each district having more than one judge the district judge in regular active service who is senior in commission and under seventy years of age shall be the chief judge of the district court” in par. (1) as so designated, designated existing second sentence of subsec. (a) as par. (2)(A), substituted “In any case in which no district judge meets the qualifications of paragraph (1), the youngest district judge in regular active service who is sixty-five years of age or over and who has served as district judge for one year or more shall act as the chief judge” for “If all the district judges in regular active service are seventy years of age or older the youngest shall act as chief judge until a judge has been appointed and qualified who is under seventy years of age, but a judge may not act as chief judge until he has served as a district judge for one year” in par. (2)(A) as so designated, and added pars. (2)(B) and (3).
 
 Subsec. (d). Pub. L. 97–164, §202(b), substituted “and thereafter, the chief judge of the district shall be such other district judge who is qualified to serve or act as chief judge under subsection (a)” for “and thereafter the district judge in active service next in precedence and willing to serve shall be designated by the Chief Justice as the chief judge of the district court”.
 
-1958—Subsec. (a). Pub. L. 85–593 provided that chief judges of district courts cease to serve as such upon reaching the age of seventy, that the youngest district judge act as chief judge where all district judges in regular active service are seventy years or older until a judge under seventy has been appointed and qualified, and that district judge must have served one year before acting as chief judge.
+<b>1958</b>—Subsec. (a). Pub. L. 85–593 provided that chief judges of district courts cease to serve as such upon reaching the age of seventy, that the youngest district judge act as chief judge where all district judges in regular active service are seventy years or older until a judge under seventy has been appointed and qualified, and that district judge must have served one year before acting as chief judge.
 
-1951—Subsec. (a). Act Oct. 31, 1951, inserted “in active service who is”.
+<b>1951</b>—Subsec. (a). Act Oct. 31, 1951, inserted “in active service who is”.
 
 #### Effective Date of 1982 Amendment
 

@@ -1,6 +1,6 @@
 ### §152. Hazard elimination program
 
-(a) Each State shall conduct and systematically maintain an engineering survey of all public roads to identify hazardous locations, sections, and elements, including roadside obstacles and unmarked or poorly marked roads, which may constitute a danger to motorists and pedestrians, assign priorities for the correction of such locations, sections, and elements, and establish and implement a schedule of projects for their improvement.
+(a) Each State shall conduct and systematically maintain an engineering survey of all public roads to identify hazardous locations, sections, and elements, including roadside obstacles and unmarked or poorly marked roads, which may constitute a danger to motorists and pedestrians, assign priorities for the correctionof such locations, sections, and elements, and establish and implement a schedule of projects for their improvement.
 
 (b) The Secretary may approve as a project under this section any highway safety improvement project.
 

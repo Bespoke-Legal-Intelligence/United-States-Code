@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 2202, 2246, 2281 of this title; title 20 section 1461.
+This subchapter is referred to in sections 2202, 2246, 2281 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -46,7 +46,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 #### (2) Designation of an office
 
-&emsp;The Secretary of Agriculture shall designate an office within the United States Department of Agriculture to be responsible for maintaining and disseminating, in a timely manner, the data accumulated for verifying citrus, fruit, vegetable, and cut flower trade between the United States and Mexico. The information shall be made available to the public and the NAFTA Agriculture Committee Working Groups.
+&emsp;The Secretary of Agriculture shall designate an office within the United States Department of Agriculture to be responsible for maintaining and disseminating, in a timely manner, the data accumulated for verifying citrus, fruit, vegetable, and cut flower trade between the United States and Mexico. The information shall be made available to the public andthe NAFTA Agriculture Committee Working Groups.
 
 #### (3) Information collected
 

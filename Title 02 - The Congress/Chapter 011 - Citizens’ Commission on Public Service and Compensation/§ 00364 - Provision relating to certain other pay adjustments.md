@@ -8,7 +8,7 @@
 
 &emsp;(A) which takes effect under the preceding sections of this chapter;
 
-&emsp;(B) which is based on a change in the Employment Cost Index (as determined under section 704(a)(1) of the Ethics Reform Act of 1989)or which is in lieu of any pay adjustment which might otherwise be made in a year based on a change in such index (as so determined); or
+&emsp;(B) which is based on a change in the Employment Cost Index (as determined under section 704(a)(1) of the Ethics Reform Act of 1989) or which is in lieu of any pay adjustment which might otherwise be made in a year based on a change in such index (as so determined); or
 
 &emsp;(C) which takes effect under section 702 or 703 of the Ethics Reform Act of 1989.
 

@@ -52,11 +52,11 @@ In this chapter:
 
 &emsp;(6) The term “Federal Acquisition Regulation” means the Federal Acquisition Regulation issued pursuant to section 25(c)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)(1)).
 
-&emsp;(7)(A) The term “simplified acquisition threshold” has the meaning provided that term in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403), except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation or a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in section 4 of such Act.
+&emsp;(7) The term “simplified acquisition threshold” has the meaning provided that term in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403), except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation or a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in section 4 of such Act.
 
-&emsp;(B) In subparagraph (A), the term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
+&emsp;(8) The term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 127; July 29, 1958, Pub. L. 85–568, title III, §301(b), 72 Stat. 432; Sept. 2, 1958, Pub. L. 85–861, §1(43A), 72 Stat. 1457; Dec. 12, 1980, Pub. L. 96–513, title V, §511(74), 94 Stat. 2926; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2722(a), 98 Stat. 1186; Oct. 19, 1984, Pub. L. 98–525, title XII, §1211, 98 Stat. 2589; Oct. 30, 1984, Pub. L. 98–577, title V, §504(b)(3), 98 Stat. 3087; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(13), 100 Stat. 3993; Apr. 21, 1987, Pub. L. 100–26, §7(k)(2), 101 Stat. 284; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §853(b)(1), 103 Stat. 1518; Apr. 6, 1991, Pub. L. 102–25, title VII, §701(d)(1), 105 Stat. 113; Dec. 5, 1991, Pub. L. 102–190, div. A, title VIII, §805, 105 Stat. 1417; Oct. 13, 1994, Pub. L. 103–355, title I, §1502, 108 Stat. 3296; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(b)(3), 110 Stat. 672; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §§805(a)(1), 807(a), 110 Stat. 2605, 2606.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 127; July 29, 1958, Pub. L. 85–568, title III, §301(b), 72 Stat. 432; Sept. 2, 1958, Pub. L. 85–861, §1(43A), 72 Stat. 1457; Dec. 12, 1980, Pub. L. 96–513, title V, §511(74), 94 Stat. 2926; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2722(a), 98 Stat. 1186; Oct. 19, 1984, Pub. L. 98–525, title XII, §1211, 98 Stat. 2589; Oct. 30, 1984, Pub. L. 98–577, title V, §504(b)(3), 98 Stat. 3087; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1343(a)(13), 100 Stat. 3993; Apr. 21, 1987, Pub. L. 100–26, §7(k)(2), 101 Stat. 284; Nov. 29, 1989, Pub. L. 101–189, div. A, title VIII, §853(b)(1), 103 Stat. 1518; Apr. 6, 1991, Pub. L. 102–25, titleVII, §701(d)(1), 105 Stat. 113; Dec. 5, 1991, Pub. L. 102–190, div. A, title VIII, §805, 105 Stat. 1417; Oct. 13, 1994, Pub. L. 103–355, title I, §1502, 108 Stat. 3296; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(b)(3), 110 Stat. 672; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §§805(a)(1), 807(a), 110 Stat. 2605, 2606; Nov. 18, 1997, Pub. L. 105–85, div. A, title VIII, §803(b), 111 Stat. 1832.)
 
 Historical and Revision Notes<br>1956
 
@@ -102,13 +102,15 @@ The Federal Property and Administrative Services Act of 1949, referred to in par
 
 #### Amendments
 
+1997—Pars. (7), (8). Pub. L. 105–85 struck out “(A)” before “The term ‘simplified” in par. (7), redesignated par. (7)(B) as par. (8), and substituted “The” for “In subparagraph (A), the” in that par.
+
 1996—Par. (3)(K). Pub. L. 104–106 inserted period at end.
 
 Par. (5). Pub. L. 104–201, §805(a)(1), substituted “A system shall be considered a major system if (A) the conditions of section 2302d of this title are satisfied, or (B) the system is designated a ‘major system’ by the head of the agency responsible for the system.” for “A system shall be considered a major system if (A) the Department of Defense is responsible for the system and the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (B) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a ‘major system’ established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled ‘Major Systems Acquisitions’, whichever is greater; or (C) the system is designated a ‘major system’ by the head of the agency responsible for the system.”
 
 Par. (7). Pub. L. 104–201, §807(a), designated existing provisions as subpar. (A), inserted “or a humanitarian or peacekeeping operation” after “contingency operation”, and added subpar. (B).
 
-1994—Par. (3). Pub. L. 103–355, §1502(1), added par. (3) and struck out former par. (3) which read as follows: “The terms ‘full and open competition’ and ‘responsible source’ have the same meanings provided such terms insection 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).”
+1994—Par. (3). Pub. L. 103–355, §1502(1), added par. (3) and struck out former par. (3) which read as follows: “The terms ‘full and open competition’ and ‘responsible source’ have the same meanings provided such terms in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).”
 
 Par. (7). Pub. L. 103–355, §1502(2), added par. (7) and struck out former par. (7) which read as follows: “The term ‘small purchase threshold’ has the meaning given that term in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)), except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation, the term means $100,000.”
 
@@ -290,7 +292,7 @@ Applicability.—(1) Subsections (f) and (g) apply to the following contracts, i
 
 &emsp;“(A) A contract that is awarded or modified during the period described in paragraph (2).
 
-&emsp;“(B) A contract that is awarded before the beginning of such period, that is to be performed (or maybe performed), in whole or in part, during such period, and that may be modified as appropriate at no cost to the Government.
+&emsp;“(B) A contract that is awarded before the beginning of such period, that is to be performed (or may be performed), in whole or in part, during such period, and that may be modified as appropriate at no cost to the Government.
 
 “(2) The period referred to in paragraph (1), with respect to a facility designated under subsection (b), is the period that—
 
@@ -514,7 +516,7 @@ Pub. L. 101–510, div. A, title VIII, §800, Nov. 5, 1990, 104 Stat. 1587, as a
 
 Section 807(a) of Pub. L. 102–484 provided that: “Within 15 days after the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall publish in the Department of Defense Supplement to the Federal Acquisition Regulation the Department of Defense policy for the pilot Mentor-Protege Program and the regulations, directives, and administrative guidance pertaining to such program as such policy, regulations, directives, and administrative guidance existed on December 6, 1991. Proposed modifications to that policy and any amendments of the matters published pursuant to the preceding sentence that are proposed in order to implement any of the amendments made by this section shall be published for public comment within 60 days after the date of the enactment of this Act and shall be published in final form within 120 days after such date.”
 
-Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604, provided that:
+Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, §821(a), title X, §1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904, provided that:
 
 “(a)
 
@@ -616,7 +618,7 @@ Incentives for Mentor Firms.—(1) The Secretary of Defense shall provide to a m
 
 “(h)
 
-Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 et seq.\], no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
+Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 et seq.\], no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protegefirm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
 
 “(2) Notwithstanding section 8 of the Small Business Act (15 U.S.C. 637), the Small Business Administration may not determine a disadvantaged small business concern to be ineligible to receive any assistance authorized under the Small Business Act on the basis that such business concern has participated in the Mentor-Protege Program or has received assistance pursuant to any developmental assistance agreement authorized under such program.
 
@@ -628,11 +630,11 @@ Participation in Mentor-Protege Program not To Be a Condition for Award of a Con
 
 “(j)
 
-Duration of Pilot Program.—(1) Business concerns eligible to participate in the program may enter into mentor-protege agreements pursuant to subsection (e) during the period commencing on October 1, 1991, and ending on September 30, 1996.
+Duration of Pilot Program.—(1) Business concerns eligible to participate in the program may enter into mentor-protege agreements pursuant to subsection (e) during the period commencing on October 1, 1991, and ending on September 30, 1999.
 
-“(2) A mentor firm may not incur costs furnishing developmental assistance to a protege firm that are eligible for reimbursement pursuant to subsection (g) prior to October 1, 1991, or after September 30, 1999.
+“(2) A mentor firm may not incur costs furnishing developmental assistance to a protege firm that are eligible for reimbursement pursuant to subsection (g) prior to October 1, 1991, or after September 30, 2000.
 
-“(3) A mentor firm may receive credit toward the attainment of such firm's goals for subcontract awards to disadvantaged small business concerns for unreimbursed costs incurred in providing developmental assistance to the firm's protege firms, pursuant to subsection (g)(3), for the period beginning October 1, 1991, and ending September 30, 1999.
+“(3) A mentor firm may receive credit toward the attainment of such firm's goals for subcontract awards to disadvantaged small business concerns for unreimbursed costs incurred in providing developmental assistance to the firm's protege firms, pursuant to subsection (g)(3), for the period beginning October 1, 1991, and ending September 30, 2000.
 
 “(k)
 
@@ -694,9 +696,7 @@ Definitions.—In this section:
 
 Availability of Funding.—Funds authorized and appropriated to carry out the program shall remain available until September 30, 1999.”
 
-\[Section 802(1) of Pub. L. 104–201, which directed amendment of section 831(j)(1) of Pub. L. 101–510, set out above, by substituting “1998” for “1995”, could not be executed.\]
-
-\[Section 807(b)(2) of Pub. L. 102–484 provided that: “The amendment made by this subsection \[amending section 831 of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
+\[Section 807(b)(2) of Pub. L. 102–484 provided that: “The amendment made by this subsection \[amendingsection 831 of Pub. L. 101–510, set out above\] shall take effect as of November 5, 1990.”\]
 
 #### Credit for Indian Contracting in Meeting Certain Minority Subcontracting Goals
 
@@ -732,7 +732,7 @@ Rule for Construction of Duplicate Provisions.—(1) In applying the provisions 
 
 &emsp;“(A) the identical provisions of those public laws referred to in such paragraph shall be treated as having been enacted only once, and
 
-&emsp;“(B) in executing to the United States Code and other statutes of the United States the amendmentsmade by such identical provisions, such amendments shall be executed so as to appear only once in the law as amended.
+&emsp;“(B) in executing to the United States Code and other statutes of the United States the amendments made by such identical provisions, such amendments shall be executed so as to appear only once in the law as amended.
 
 “(2) Paragraph (1) applies with respect to the provisions of the Defense Appropriations Act and the Defense Authorization Act (as amended by sections 3, 4, 5, and 10(a)) referred to across from each other in the following table:
 
@@ -771,7 +771,7 @@ Definition.—For the purposes of this section, the term ‘competitive procurem
 
 #### Defense Procurement Reform: Congressional Findings and Policy
 
-Section 1202 of Pub. L. 98–525, as amended by Pub. L. 99–500, §101(c) \[title X, §953(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §953(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(c), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Congress finds that recent disclosures of excessive payments by the Department of Defense for replenishment parts have undermined confidence by the public and Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
+Section 1202 of Pub. L. 98–525, as amended by Pub. L. 99–500, §101(c) \[title X, §953(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, and Pub. L. 99–591, §101(c) \[title X, §953(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(c), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Congress finds that recent disclosures of excessive payments by the Department of Defense for replenishment parts have undermined confidence by the publicand Congress in the defense procurement system. The Secretary of Defense should make every effort to reform procurement practices relating to replenishment parts. Such efforts should, among other matters, be directed to the elimination of excessive pricing of replenishment spare parts and the recovery of unjustified payments. Specifically, the Secretary should—
 
 &emsp;“(1) direct that officials in the Department of Defense refuse to enter into contracts unless the proposed prices are fair and reasonable;
 
@@ -793,5 +793,5 @@ Pub. L. 93–365, title VII, §707, Aug. 5, 1974, 88 Stat. 406, which prohibited
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1737, 2302d, 2304, 2366, 2367, 2399, 2403, 2409 of this title; title 50 App. section 2171.
+This section is referred to in sections 1737, 2302d, 2304, 2366, 2367, 2399, 2409 of this title; title 50 App. section 2171.
 

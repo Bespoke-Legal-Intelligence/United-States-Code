@@ -6,9 +6,9 @@ The Commission shall recommend a six-year program of public works projects for t
 
 #### (b) Submission of multiyear capital improvement plan
 
-The Mayor shall submit to the Commission, by February 1 of each year, a copy of the multiyear capital improvements plan for the District developed by him under section 444 of the District of Columbia Self-Government and Governmental Reorganization Act \[D.C. Code, §47–303\]. The Commission shall have thirty days within which to comment upon such plan but shall have no authority to change or disapprove of such plan.
+The Mayor shall submit to the Commission, by February 1 of each year, a copy of the multiyear capital improvements plan for the District developed by him under section 444 of the District of Columbia Home Rule Act \[D.C. Code, §47–303\]. The Commission shall have thirty days within which to comment upon such plan but shall have no authority to change or disapprove of such plan.
 
-(June 6, 1924, ch. 270, §7, as added July 19, 1952, ch. 949, §1, 66 Stat. 789; amended 1967 Reorg. Plan No. 3, §402(32), eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Dec. 24, 1973, Pub. L. 93–198, title II, §203(f), title IV, §421, 87 Stat. 782, 789.)
+(June 6, 1924, ch. 270, §7, as added July 19, 1952, ch. 949, §1, 66 Stat. 789; amended 1967 Reorg. Plan No. 3, §402(32), eff. Nov. 3, 1967, 32 F.R. 11669, 81 Stat. 951; Pub. L. 93–198, title II, §203(f), title IV, §421, Dec. 24, 1973, 87 Stat. 782, 789; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
 
 #### Codification
 
@@ -20,9 +20,15 @@ Similar provisions relating to preparation and maintenance of a comprehensive pl
 
 #### Amendments
 
+1997—Subsec. (b). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+
 1973—Subsec. (a). Pub. L. 93–198 designated existing provisions as subsec. (a), inserted “for the Federal Government” after “public works projects”, and struck out “and the District of Columbia Council” after “Federal agency”.
 
 Subsec. (b). Pub. L. 93–198 added subsec. (b).
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
 
 #### Transfer of Functions
 

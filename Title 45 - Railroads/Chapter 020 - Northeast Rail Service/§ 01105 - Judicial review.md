@@ -18,7 +18,7 @@ An order or judgment of the United States District Court for the District of Col
 
 #### (c) Scope of review of administrative actions
 
-Administrative action under the provisions of or amendments made by this subtitle or part 2 of the Conrail Privatization Act \[45 U.S.C. 1311 et seq.\] which is subject to review shall be upheld unless such action is found to be unlawful under standards established for review of informal agency action under paragraphs (2)(A), (B), (C), and (D) of section 706 of title 5. The requirements of this subtitle or part 2 of the Conrail Privatization Act \[45 U.S.C. 1311 et seq.\], as the case may be, shall constitute the exclusive procedures required by law for such administrative action.
+Administrative action under the provisions of or amendments made by this subtitle or part 2 of the Conrail Privatization Act \[45 U.S.C. 1311 et seq.\] which is subject to review shall be upheld unless such action is found to be unlawful under standards established for review of informal agency action under paragraphs (2)(A), (B), (C), and (D) of section 706 of title 5. The requirements of this subtitle or part 2 of the Conrail Privatization Act \[45 U.S.C. 1311 et seq.\], as the case may be, shall constitute the exclusiveprocedures required by law for such administrative action.
 
 (Pub. L. 97–35, title XI, §1152, Aug. 13, 1981, 95 Stat. 676; Pub. L. 99–509, title IV, §4033(c)(1)(A), Oct. 21, 1986, 100 Stat. 1908; Pub. L. 100–352, §6(f), June 27, 1988, 102 Stat. 664; Pub. L. 104–317, title VI, §605(b)(3), (c)(4), Oct. 19, 1996, 110 Stat. 3859.)
 
@@ -26,7 +26,7 @@ Administrative action under the provisions of or amendments made by this subtitl
 
 This subtitle, referred to in subsecs. (a) and (c), is subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-The Conrail Privatization Act, referred to in subsecs. (a) and (c), is subtitle A (§§4001–4052) of title IV of Pub.L. 99–509, Oct. 21, 1986, 100 Stat. 1892. Part 2 of that Act is classified principally to subchapter II (§1311 et seq.) of chapter 22 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+The Conrail Privatization Act, referred to in subsecs. (a) and (c), is subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892. Part 2 of that Act is classified principally to subchapter II (§1311 et seq.) of chapter 22 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 #### Amendments
 

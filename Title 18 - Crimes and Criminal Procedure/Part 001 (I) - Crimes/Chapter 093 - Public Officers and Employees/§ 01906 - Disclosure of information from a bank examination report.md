@@ -6,7 +6,7 @@ Whoever, being an examiner, public or private, or a General Accounting Office em
 
 #### Historical and Revision Notes
 
-Based on section 594 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, §22 \[second and thirdsentences of second paragraph\], 38 Stat. 272, 273; Sept. 26, 1918, ch. 177, §5 \[22(b), second paragraph\], 40 Stat. 970; Aug. 23, 1935, ch. 614, §326(b), 49 Stat. 716).
+Based on section 594 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, §22 \[second and third sentences of second paragraph\], 38 Stat. 272, 273; Sept. 26, 1918, ch. 177, §5 \[22(b), second paragraph\], 40 Stat. 970; Aug. 23, 1935, ch. 614, §326(b), 49 Stat. 716).
 
 Other provisions of section 594 of title 12, U.S.C., 1940 ed., Banks and Banking, were consolidated with similar provisions from other sections, to form section 1909 of this title.
 

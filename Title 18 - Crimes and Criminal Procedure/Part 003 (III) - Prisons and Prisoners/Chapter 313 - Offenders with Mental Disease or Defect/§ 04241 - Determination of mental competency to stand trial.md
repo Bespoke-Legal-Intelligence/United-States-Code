@@ -20,7 +20,7 @@ Determination and Disposition.—If, after the hearing, the court finds by a pre
 
 &emsp;(2) for an additional reasonable period of time until—
 
-&emsp;&emsp;(A) his mental condition is so improved that trial may proceed, if the court finds that there is a substantial probability thatwithin such additional period of time he will attain the capacity to permit the trial to proceed; or
+&emsp;&emsp;(A) his mental condition is so improved that trial may proceed, if the court finds that there is a substantial probability that within such additional period of time he will attain the capacity to permit the trial to proceed; or
 
 &emsp;&emsp;(B) the pending charges against him are disposed of according to law;
 

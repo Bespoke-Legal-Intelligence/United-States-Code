@@ -2,7 +2,7 @@
 
 Any officer or employee retired under section 765 of this title may, upon recovery, be restored to active duty, and shall from time to time, before reaching the age at which he may be retired under section 763 of this title be reexamined by a medical officer of the United States upon the request of the Secretary of Transportation.
 
-(Mar. 4, 1925, ch. 523, §2, 43 Stat. 1262; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938.)
+(Mar. 4, 1925, ch. 523, §2, 43 Stat. 1262; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### Transfer of Functions
 

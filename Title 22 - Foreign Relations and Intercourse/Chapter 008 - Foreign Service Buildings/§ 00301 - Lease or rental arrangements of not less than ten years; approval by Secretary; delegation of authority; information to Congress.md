@@ -8,7 +8,7 @@ Notwithstanding the provisions of this chapter or any other Act, no lease or oth
 
 The Secretary may, subject to the availability of appropriations, make advance payments for long-term leases and lease-purchase agreements, if the Secretary or his designee determines, in each case, that such payments are in the interest of the United States Government in carrying out the purposes of this chapter.
 
-(May 7, 1926, ch. 250, §10, as added Oct. 10, 1966, Pub. L. 89–636, §4, 80 Stat. 882; amended Oct. 28, 1991, Pub. L. 102–138, title I, §115(a), (b), 105 Stat. 655.)
+(May 7, 1926, ch. 250, §10, as added Pub. L. 89–636, §4, Oct. 10, 1966, 80 Stat. 882; amended Pub. L. 102–138, title I, §115(a), (b), Oct. 28, 1991, 105 Stat. 655.)
 
 #### Amendments
 

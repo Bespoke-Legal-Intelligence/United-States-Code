@@ -18,7 +18,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(D) any ground flight simulators, and parts and components thereof, for use with respect to such aircraft,
 
-> &emsp;whether to be purchased for use as original or replacement equipment in the manufacture, repair, maintenance, rebuilding, modification, or conversion of such aircraft, and without regard to whether such aircraft or articles receive duty-free treatment pursuant to section 601(a)(2).
+> &emsp;whether to be purchased for use as original or replacement equipment in the manufacture,repair, maintenance, rebuilding, modification, or conversion of such aircraft, and without regard to whether such aircraft or articles receive duty-free treatment pursuant to section 601(a)(2).
 
 #### (3) Developed countries
 
@@ -52,7 +52,7 @@ As used in this subchapter—
 
 #### (5) Instrumentality
 
-&emsp;The term “instrumentality” shall not be construed to include an agency or division ofthe government of a country, but may be construed to include such arrangements as the European Economic Community.
+&emsp;The term “instrumentality” shall not be construed to include an agency or division of the government of a country, but may be construed to include such arrangements as the European Economic Community.
 
 #### (6) Least developed country
 
@@ -86,7 +86,7 @@ Par. (4)(D). Pub. L. 103–465, §342(f)(2)(B), substituted “the Agreement (as
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement,referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
 
 #### Effective Date of 1993 Amendment
 

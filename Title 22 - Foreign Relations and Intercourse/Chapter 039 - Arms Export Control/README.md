@@ -244,6 +244,10 @@ Submission of information in unclassified form or classified addendum with uncla
 
 Transmission of information to Congress.
 
+(e)
+
+“Appropriate congressional committees” defined.
+
 |  |  |
 | :--- | ---: |
 | [2766\.](Subchapter%20002%20%28II%29%20-%20Foreign%20Military%20Sales%20Authorizations/%C2%A7%2002766%20-%20Security%20assistance%20surveys.md) | Security assistance surveys. |

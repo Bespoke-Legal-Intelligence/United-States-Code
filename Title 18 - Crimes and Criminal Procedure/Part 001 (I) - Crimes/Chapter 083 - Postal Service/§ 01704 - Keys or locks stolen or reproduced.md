@@ -8,7 +8,7 @@ Whoever, being engaged as a contractor or otherwise in the manufacture of any su
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 778; Aug. 12, 1970, Pub. L. 91–375, §6(j)(17), 84 Stat. 778; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 778; Aug. 12, 1970, Pub. L. 91–375, §6(j)(17), 84 Stat. 778; Sept. 13,1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

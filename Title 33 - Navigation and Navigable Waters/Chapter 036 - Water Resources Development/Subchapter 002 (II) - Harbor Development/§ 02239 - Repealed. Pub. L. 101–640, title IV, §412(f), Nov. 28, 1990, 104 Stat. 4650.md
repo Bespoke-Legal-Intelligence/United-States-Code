@@ -44,7 +44,7 @@ Report.—Within 90 days after the date of the enactment of this Act \[Nov. 28, 
 
 “(b)
 
-Plan.—Within 180 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary and the Administrator of the Environmental Protection Agency shall submit to Congress a plan for the long-term management of dredged material from the New York/New Jersey Harbor region. The plan shall include—
+Plan.—Within 180 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary andthe Administrator of the Environmental Protection Agency shall submit to Congress a plan for the long-term management of dredged material from the New York/New Jersey Harbor region. The plan shall include—
 
 &emsp;“(1) an identification of the source, quantities, and characteristics of material to be dredged;
 

@@ -18,7 +18,7 @@ If the concurrence required under subsection (a)(2) of this section has not been
 
 &emsp;(2) regarding the withdrawal of an objection of the United States to a proposed regulatory measure within forty-five days after such withdrawal is proposed by the Secretary of State;
 
-> the Secretary of State shall submit the matter in disagreement, together with a statement ofthe opposing positions, to the President for timely disposition.
+> the Secretary of State shall submit the matter in disagreement, together with a statement of the opposing positions, to the President for timely disposition.
 
 (Pub. L. 97–389, title III, §304, Dec. 29, 1982, 96 Stat. 1952.)
 

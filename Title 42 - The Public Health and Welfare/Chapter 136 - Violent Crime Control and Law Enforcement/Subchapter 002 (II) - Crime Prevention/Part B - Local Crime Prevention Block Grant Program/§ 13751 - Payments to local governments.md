@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) the use and sale of illegal drugs by juveniles.
 
-&emsp;&emsp;(H) Youth anticrime councils to give intermediate and secondary school students a structured forum through which to work with community organizations, law enforcement officials, government and media representatives, and school administrators and faculty to address issues regarding youth and violence.
+&emsp;&emsp;(H) Youth anticrime councils to give intermediate and secondary school students astructured forum through which to work with community organizations, law enforcement officials, government and media representatives, and school administrators and faculty to address issues regarding youth and violence.
 
 &emsp;&emsp;(I) Award of grants or contracts to the Boys and Girls Clubs of America, a national nonprofit youth organization, to establish Boys and Girls Clubs in public housing.
 
@@ -102,7 +102,7 @@ Funds made available under this part to units of local government shall not be u
 
 #### Establishment of Boys and Girls Clubs
 
-Pub. L. 104–294, title IV, §401, Oct. 11, 1996, 110 Stat. 3496, provided that:
+Pub. L. 104–294, title IV, §401, Oct. 11, 1996, 110 Stat. 3496, as amended by Pub. L. 105–133, §1, Dec. 2, 1997, 111 Stat. 2568, provided that:
 
 “(a)
 
@@ -114,7 +114,7 @@ Findings.—The Congress finds that—
 
 &emsp;&emsp;“(A) the Boys and Girls Clubs of America, chartered by an Act of Congress on December 10, 1991 \[Pub. L. 102–199, see Tables for classification\], during its 90-year history as a national organization, has proven itself as a positive force in the communities it serves;
 
-&emsp;&emsp;“(B) there are 1,810 Boys and Girls Clubs facilities throughout the United States, Puerto Rico, and the United States Virgin Islands, serving 2,420,000 youths nationwide;
+&emsp;&emsp;“(B) there are 1,810 Boys and Girls Clubs facilities throughout the United States, Puerto Rico, and theUnited States Virgin Islands, serving 2,420,000 youths nationwide;
 
 &emsp;&emsp;“(C) 71 percent of the young people who benefit from Boys and Girls Clubs programs live in our inner cities and urban areas;
 
@@ -130,7 +130,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(2)
 
-Purpose.—It is the purpose of this section to provide adequate resources in the form of seed money for the Boys and Girls Clubs of America to establish 1,000 additional local Boys and Girls Clubs in public housing projects and other distressed areas by 2001.
+Purpose.—The purpose of this section is to provide adequate resources in the form of seed money for the Boys and Girls Clubs of America to establish 1,000 additional local clubs where needed, with particular emphasis placed on establishing clubs in public housing projects and distressed areas, and to ensure that there are a total of not less than 2,500 Boys and Girls Clubs of America facilities in operation not later than December 31, 1999.
 
 “(b)
 
@@ -138,7 +138,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(1) the terms ‘public housing’ and ‘project’ have the same meanings as in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]; and
 
-&emsp;“(2) the term ‘distressed area’ means an urban, suburban, or rural area with a high percentage of high risk youth as defined in section 509A of the Public Health Service Act (42 U.S.C. 290aa–8(f) \[42 U.S.C. 290bb–23(g)\]).
+&emsp;“(2) the term ‘distressed area’ means an urban, suburban, rural area, or Indian reservation with a population of high risk youth as defined in section 517 of the Public Health Service Act (42 U.S.C. 290bb–23) of sufficient size to warrant the establishment of a Boys and Girls Club.
 
 “(c)
 
@@ -146,11 +146,19 @@ Establishment.—
 
 &emsp;“(1)
 
-In general.—For each of the fiscal years 1997, 1998, 1999, 2000, and 2001, the Director of the Bureau of Justice Assistance of the Department of Justice shall provide a grant to the Boys and Girls Clubs of America for the purpose of establishing Boys and Girls Clubs in public housing projects and other distressed areas.
+In general.—For each of the fiscal years 1997, 1998, 1999, 2000, and 2001, the Director of the Bureau of Justice Assistance of the Department of Justice shall make a grant to the Boys and Girls Clubs of America for the purpose of establishing and extending Boys and Girls Clubs facilities where needed, with particular emphasis placed on establishing clubs in and extending services to public housing projects and distressed areas.
 
 &emsp;“(2)
 
-Contracting authority.—Where appropriate, the Secretary of Housing and Urban Development, in consultation with the Attorney General, shall enter into contracts with the Boys and Girls Clubs of America to establish clubs pursuant to the grants under paragraph (1).
+Applications.—The Attorney General shall accept an application for a grant under this subsection if submitted by the Boys and Girls Clubs of America, and approve or deny the grant not later than 90 days after the date on which the application is submitted, if the application—
+
+&emsp;&emsp;“(A) includes a long-term strategy to establish 1,000 additional Boys and Girls Clubs and detailed summary of those areas in which new facilities will be established, or in which existing facilities will be expanded to serve additional youths, during the next fiscal year;
+
+&emsp;&emsp;“(B) includes a plan to ensure that there are a total of not less than 2,500 Boys and Girls Clubs of America facilities in operation before January 1, 2000;
+
+&emsp;&emsp;“(C) certifies that there will be appropriate coordination with those communities where clubs will be located; and
+
+&emsp;&emsp;“(D) explains the manner in which new facilities will operate without additional, direct Federal financial assistance to the Boys and Girls Clubs once assistance under this subsection is discontinued.
 
 “(d)
 
@@ -176,7 +184,15 @@ In general.—There are authorized to be appropriated to carry out this section�
 
 &emsp;“(2)
 
-Violent crime reduction trust fund.—The sums authorized to be appropriated by this subsection may be made from the Violent Crime Reduction Trust Fund.”
+Violent crime reduction trust fund.—The sums authorized to be appropriated by this subsection may be made from the Violent Crime Reduction Trust Fund.
+
+“(f)
+
+Role Model Grants.—Of amounts made available under subsection (e) for any fiscal year—
+
+&emsp;“(1) not more than 5 percent may be used to provide a grant to the Boys and Girls Clubs of America for administrative, travel, and other costs associated with a national role-model speaking tour program; and
+
+&emsp;“(2) no amount may be used to compensate speakers other than to reimburse speakers for reasonable travel and accommodation costs associated with the program described in paragraph (1).”
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 Money accruing from commutation of rations and provisions for working parties in the field, officers and crews of light vessels and tenders, and officials and other authorized persons on board of such tenders or vessels, after payment on proper vouchers to the officer in charge of the mess of such vessel or party, as provided by law, may be expended and accounted for pursuant to regulations prescribed by the Secretary of Transportation, notwithstanding the provisions of sections 1321 and 1322(a) of title 31.
 
-(May 13, 1938, ch. 215, §3, 52 Stat. 353; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938.)
+(May 13, 1938, ch. 215, §3, 52 Stat. 353; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 The provisions of this chapter shall also apply to all deposits of coal, phosphate, sodium, oil, oil shale, gilsonite (including all vein-type solid hydrocarbons), or gas in the lands of the United States, which lands may have been or may be disposed of under laws reserving to the United States such deposits, with the right to prospect for, mine, and remove the same, subject to such conditions as are or may hereafter be provided by such laws reserving such deposits.
 
-(Feb. 25, 1920, ch. 85, §34, 41 Stat. 450; Sept. 2, 1960, Pub. L. 86–705, §7(a), 74 Stat. 790; Nov. 16, 1981, Pub. L. 97–78, §1(1), 95 Stat. 1070.)
+(Feb. 25, 1920, ch. 85, §34, 41 Stat. 450; Pub. L. 86–705, §7(a), Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, §1(1), Nov. 16, 1981, 95 Stat. 1070.)
 
 #### Amendments
 

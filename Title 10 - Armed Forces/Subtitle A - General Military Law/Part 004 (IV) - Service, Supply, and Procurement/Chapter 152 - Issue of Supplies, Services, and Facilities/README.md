@@ -25,7 +25,9 @@ Chapter was comprised of subchapter I, former section 2540, and subchapter II, s
 
 #### Amendments
 
-1996—Pub. L. 104–201, div. A, title III, §367(b), Sept. 23, 1996, 110 Stat. 2497, which directed amendment of table of sections at beginning of subchapter II of chapter 152 of this title by adding at the end item 2554, was executed by adding item 2554 at the end of table of sections for chapter 152 to reflect the probable intent of Congress and the amendment by Pub. L. 104–106, §1503(a)(29). See note below.
+1997—Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, amended directory language of Pub. L. 104–201, §367(b). See 1996 Amendment note below.
+
+1996—Pub. L. 104–201, div. A, title III, §367(b), Sept. 23, 1996, 110 Stat. 2497, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, added item 2554.
 
 Pub. L. 104–201, div. A, title III, §366(b), Sept. 23, 1996, 110 Stat. 2496, substituted “Equipment and services: Presidential inaugural ceremonies” for “Equipment: Inaugural Committee” in item 2543.
 

@@ -12,7 +12,7 @@ The corporation—
 
 (e) May appoint officers and agents;
 
-(f) May acquire by purchase, devise, bequest, gift, or otherwise, and hold, encumber, convey,or otherwise dispose of, such real and personal property as may be necessary or appropriate for its corporate purposes;
+(f) May acquire by purchase, devise, bequest, gift, or otherwise, and hold, encumber, convey, or otherwise dispose of, such real and personal property as may be necessary or appropriate for its corporate purposes;
 
 (g) May invest and reinvest the principal and interest of its funds; and
 

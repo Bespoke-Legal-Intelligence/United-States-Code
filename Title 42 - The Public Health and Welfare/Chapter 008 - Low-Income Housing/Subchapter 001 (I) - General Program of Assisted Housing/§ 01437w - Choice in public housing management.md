@@ -74,7 +74,7 @@ This section may be cited as the “Choice in Public Housing Management Act of 1
 
 #### (3) Relationship to section 1437<i>l</i>
 
-&emsp;The provisions of section 1437<i>l</i> of this title shall apply with respect to rehabilitation grants under paragraph (1) or capital improvement funding under paragraph (2); except that the Secretary may waive the applicability of any of the provisions of such section where such provisions are not appropriate to the assistance under this subsection.
+&emsp;The provisions of section 1437<i>l</i> of this title shall apply with respect to rehabilitation grants under paragraph (1) or capital improvement funding under paragraph (2); except that the Secretary may waive the applicability ofany of the provisions of such section where such provisions are not appropriate to the assistance under this subsection.
 
 #### (f) Application
 
@@ -150,7 +150,7 @@ This section may be cited as the “Choice in Public Housing Management Act of 1
 
 &emsp;After the Secretary approves an application, the Secretary shall enter into a contract with the manager for transfer of management of the eligible housing. In addition to other contract provisions required under this section, the contract shall—
 
-&emsp;&emsp;(A) give the manager the right to receive operating subsidies under subsection (d) of this section and capital improvement funding under subsection (e) of this section;
+&emsp;&emsp;(A) give the manager the right to receive operating subsidies under subsection (d) ofthis section and capital improvement funding under subsection (e) of this section;
 
 &emsp;&emsp;(B) require the manager to carry out all management responsibilities for the eligible housing, as provided in or required by the contract;
 
@@ -302,7 +302,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) under section 1437d(j)(2)(A)(i) of this title; or
 
-&emsp;&emsp;&emsp;(ii) before the implementation of such authority, under any other procedure for designating troubled public housing agencies that was used by the Secretary and is determined by the Secretary to be appropriate for purposes of this section; and
+&emsp;&emsp;&emsp;(ii) before the implementation of such authority, under any other procedure for designating troubled public housing agencies that was used by the Secretary and isdetermined by the Secretary to be appropriate for purposes of this section; and
 
 &emsp;&emsp;(B) has not met targets for improved performance under section 1437d(j)(2)(C) of this title.
 

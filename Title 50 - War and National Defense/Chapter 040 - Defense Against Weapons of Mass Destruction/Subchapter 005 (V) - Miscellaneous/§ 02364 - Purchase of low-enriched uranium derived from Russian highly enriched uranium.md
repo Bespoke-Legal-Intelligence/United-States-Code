@@ -6,7 +6,7 @@ It is the sense of Congress that the allies of the United States and other natio
 
 #### (b) Actions by Secretary of State
 
-Congress urges the Secretary of State to encourage, in consultation with the Secretary ofEnergy, other countries to purchase low-enriched uranium that is derived from highly enriched uranium extracted from Russian nuclear weapons.
+Congress urges the Secretary of State to encourage, in consultation with the Secretary of Energy, other countries to purchase low-enriched uranium that is derived from highly enriched uranium extracted from Russian nuclear weapons.
 
 (Pub. L. 104–201, div. A, title XIV, §1454, Sept. 23, 1996, 110 Stat. 2730.)
 

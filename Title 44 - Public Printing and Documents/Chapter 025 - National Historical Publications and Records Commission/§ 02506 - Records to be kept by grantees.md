@@ -2,7 +2,7 @@
 
 (a) Each recipient of grant assistance under section 2504 of this title shall keep such records as the Archivist of the United States prescribes, including records which fully disclose the amount and disposition by the recipient of the proceeds of the grants, the total cost of the project or undertaking in connection with which funds are given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and any other records as will facilitate an effective audit.
 
-(b) The Archivist and the Comptroller General of the United States or their authorized representatives shall have access for the purposes of audit and examination to books, documents, papers, and records of the recipients that arepertinent to the grants received under section 2504 of this title.
+(b) The Archivist and the Comptroller General of the United States or their authorized representatives shall have access for the purposes of audit and examination to books, documents, papers, and records of the recipients that are pertinent to the grants received under section 2504 of this title.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294; Pub. L. 98–497, title I, §107(b)(11), Oct. 19, 1984, 98 Stat. 2287.)
 

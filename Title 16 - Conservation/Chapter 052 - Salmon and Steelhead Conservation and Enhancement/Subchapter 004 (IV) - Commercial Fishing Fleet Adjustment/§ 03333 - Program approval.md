@@ -14,7 +14,7 @@ Prior to approving such program or any revision, modification, or amendment, and
 
 &emsp;(3) the State program prevents the expenditure of a disproportionate amount of funds available for vessel acquisition on vessels owned by any one person;
 
-&emsp;(4) the State program prohibits the purchase of any fishing or charter vessel unless all State commercial and charter salmon fishinglicenses attached to the vessel are also sold to the State;
+&emsp;(4) the State program prohibits the purchase of any fishing or charter vessel unless all State commercial and charter salmon fishing licenses attached to the vessel are also sold to the State;
 
 &emsp;(5) the State program provides that no person may purchase from the State any vessel which that person or a member of that person's immediate family had previously sold to the State;
 
@@ -26,7 +26,7 @@ Prior to approving such program or any revision, modification, or amendment, and
 
 &emsp;&emsp;(A) secure an early retirement from the salmon fishery;
 
-&emsp;&emsp;(B) recognize productiveness if the commercial harvesters using a gear type wish <sup>1</sup> that gear type's specific allocation of funds to recognize productiveness; and
+&emsp;&emsp;(B) recognize productiveness if the commercial harvesters using a gear type wish <sup>1</sup>that gear type's specific allocation of funds to recognize productiveness; and
 
 &emsp;&emsp;(C) recognize passenger-carrying capacity for charter fishing licenses;
 

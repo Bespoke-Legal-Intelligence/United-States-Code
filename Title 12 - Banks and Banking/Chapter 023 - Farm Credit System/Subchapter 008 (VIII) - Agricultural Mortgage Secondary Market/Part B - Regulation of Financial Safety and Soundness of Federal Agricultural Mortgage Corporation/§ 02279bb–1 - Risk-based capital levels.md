@@ -1,0 +1,86 @@
+### §2279bb–1. Risk-based capital levels
+
+#### (a) Risk-based capital test
+
+Not sooner than the expiration of the 3-year period beginning on February 10, 1996, the Director of the Office of Secondary Market Oversight shall, by regulation, establish a risk-based capital test under this section for the Corporation. When applied to the Corporation, the risk-based capital test shall determine the amount of regulatory capital for the Corporation that is sufficient for the Corporation to maintain positive capital during a 10-year period in which both of the following circumstances occur:
+
+#### (1) Credit risk
+
+&emsp;With respect to securities representing an interest in, or obligations backed by, a pool of qualified loans owned or guaranteed by the Corporation and other obligations of the Corporation, losses on the underlying qualified loans occur throughout the United States at a rate of default and severity (based on any measurements of default reasonably related to prevailing industry practice in determining capital adequacy) reasonably related to the rate and severity that occurred in contiguous areas of the United States containing an aggregate of not less than 5 percent of the total population of the United States that, for a period of not less than 2 years (as established by the Director), experienced the highest rates of default and severity of agricultural mortgage losses, in comparison with such rates of default and severity of agricultural mortgage losses in other such areas for any period of such duration, as determined by the Director.
+
+#### (2) Interest rate risk
+
+&emsp;Interest rates on Treasury obligations of varying terms increase or decrease over the first 12 months of such 10-year period by not more than the lesser of (A) 50 percent (with respect to the average interest rates on such obligations during the 12-month period preceding the 10-year period), or (B) 600 basis points, and remain at such level for the remainder of the period. This paragraph may not be construed to require the Director to determine interest rate risk under this paragraph based on the interest rates for various long-term and short-term obligations all increasing or all decreasing concurrently.
+
+#### (b) Considerations
+
+#### (1) Establishment of test
+
+&emsp;In establishing the risk-based capital test under subsection (a) of this section—
+
+&emsp;&emsp;(A) the Director shall take into account appropriate distinctions based on various types of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
+
+&emsp;&emsp;(B) the Director shall conform loan data used in determining credit risk to the minimum geographic and commodity diversification standards applicable to pools of qualified loans eligible for guarantee;
+
+&emsp;&emsp;(C) the Director may take into account retained subordinated participating interests under section 2279aa–6(b)(2) of this title (as in effect before February 10, 1996);
+
+&emsp;&emsp;(D) the Director may take into account other methods or tests to determine credit risk developed by the Corporation before December 13, 1991; and
+
+&emsp;&emsp;(E) the Director shall consider any other information submitted by the Corporation inwriting during the 180-day period beginning on December 13, 1991.
+
+#### (2) Revising test
+
+&emsp;Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital test under subsection (a) of this section and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under section 2279bb–4 of this title, the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable period of time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
+
+#### (c) Risk-based capital level
+
+For purposes of this part, the risk-based capital level for the Corporation shall be equal to the sum of the following amounts:
+
+#### (1) Credit and interest rate risk
+
+&emsp;The amount of regulatory capital determined by applying the risk-based capital test under subsection (a) of this section to the Corporation, adjusted to account for foreign exchange risk.
+
+#### (2) Management and operations risk
+
+&emsp;To provide for management and operations risk, 30 percent of the amount of regulatory capital determined by applying the risk-based capital test under subsection (a) of this section to the Corporation.
+
+#### (d) Specified contents
+
+#### (1) In general
+
+&emsp;The regulations establishing the risk-based capital test under this section shall—
+
+&emsp;&emsp;(A) be issued by the Director for public comment in the form of a notice of proposed rulemaking, to be first published after the expiration of the period referred to in subsection (a) of this section; and
+
+&emsp;&emsp;(B) contain specific requirements, definitions, methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yield curve slopes, default experience, prepayment rates, and performance of pools of qualified loans).
+
+#### (2) Specificity
+
+&emsp;The regulations referred to in paragraph (1) shall be sufficiently specific to permit an individual other than the Director to apply the test in the same manner as the Director.
+
+#### (e) Availability of model
+
+The Director shall make copies of the statistical model or models used to implement the risk-based capital test under this section available for public acquisition and may charge a reasonable fee for such copies.
+
+(Pub. L. 92–181, title VIII, §8.32, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1871; amended Pub. L. 102–552, title III, §308(b)(3), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§109(b)(3), 113, Feb. 10, 1996, 110 Stat. 165, 166.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–105, §113(1), in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
+
+Subsec. (b)(1)(C). Pub. L. 104–105, §109(b)(3), substituted “Director may” for “Director shall” and inserted before semicolon at end “(as in effect before February 10, 1996)”.
+
+Subsec. (b)(2). Pub. L. 104–105, §113(2), substituted “8-year” for “5-year” in first sentence.
+
+Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing provisions as par. (1), inserted heading, added subpar. (A), and designated part of first sentence as subpar. (B), designated second sentence of existing provisions as par. (2), inserted heading, and substituted “The regulations referred to in paragraph (1) shall” for “The regulations shall”.
+
+1992—Subsecs. (a), (b)(1)(D). Pub. L. 102–552, §308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section”.
+
+Subsec. (b)(1)(E). Pub. L. 102–552, §308(b)(3)(B), substituted “December 13, 1991” for “the date of the enactment of such Act”.
+
+Subsec. (b)(2). Pub. L. 102–552, §308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section” in two places.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2279bb–4 of this title.
+

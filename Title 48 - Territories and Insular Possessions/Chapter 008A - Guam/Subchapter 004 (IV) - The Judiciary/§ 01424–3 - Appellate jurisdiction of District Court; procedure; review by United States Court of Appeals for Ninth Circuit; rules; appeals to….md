@@ -6,7 +6,7 @@ Prior to the establishment of the appellate court authorized by section 1424–1
 
 #### (b) Appellate division of District Court; quorum; presiding judge; designation of judges; decisions
 
-Appeals to the District Court of Guam shall be heard and determined by an appellate division of the court consisting of three judges, of whom two shall constitute a quorum. The district judge shall be the presiding judge of the appellate division and shall preside therein unless disqualified or otherwise unable to act. The other judges who are to sit in the appellate division of any session shall be designated by the presidingjudge from among the judges who are serving on, or are assigned to, the district court from time to time pursuant to section 1424b of this title: <i>Provided</i>, That no more than one of them may be a judge of a court of record of Guam. The concurrence of two judges shall be necessary to any decision of the appellate division of the district court on the merits of an appeal, but the presiding judge alone may make any appropriate orders with respect to an appeal prior to the hearing and determination thereof on the merits and may dismiss an appeal for want of jurisdiction or failure to take or prosecute it in accordance with the applicable law or rules of procedure.
+Appeals to the District Court of Guam shall be heard and determined by an appellate division of the court consisting of three judges, of whom two shall constitute a quorum. The district judge shall be the presiding judge of the appellate division and shall preside therein unless disqualified or otherwise unable to act. The other judges who are to sit in the appellate division of any session shall be designated by the presiding judge from among the judges who are serving on, or are assigned to, the district court from time to time pursuant to section 1424b of this title: <i>Provided</i>, That no more than one of them may be a judge of a court of record of Guam. The concurrence of two judges shall be necessary to any decision of the appellate division of the district court on the merits of an appeal, but the presiding judge alone may make any appropriate orders with respect to an appeal prior to the hearing and determination thereof on the merits and may dismiss an appeal for want of jurisdiction or failure to take or prosecute it in accordance with the applicable law or rules of procedure.
 
 #### (c) United States Court of Appeals for Ninth Circuit; jurisdiction; appeals; rules
 
@@ -16,7 +16,7 @@ The United States Court of Appeals for the Ninth Circuit shall have jurisdiction
 
 Upon the establishment of the appellate court provided for in section 1424–1(a) of this title all appeals from the decisions of the local courts not previously taken must be taken to the appellate court. The establishment of that appellate court shall not result in the loss of jurisdiction of the appellate division of the district court over any appeal then pending in it. The rulings of the appellate division of the district court on such appeals may be reviewed in the United States Court of Appeals for the Ninth Circuit and in the Supreme Court notwithstanding the establishment of the appellate court.
 
-(Aug. 1, 1950, ch. 512, §22C, as added Oct. 5, 1984, Pub. L. 98–454, title VIII, §801, 98 Stat. 1742.)
+(Aug. 1, 1950, ch. 512, §22C, as added Pub. L. 98–454, title VIII, §801, Oct. 5, 1984, 98 Stat. 1742.)
 
 #### Effective Date
 

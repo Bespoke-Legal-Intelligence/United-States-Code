@@ -38,7 +38,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any alien who (prior to the date of entry, at the time of any entry, or within 5 years of the date of any entry) knowingly has encouraged, induced, assisted, abetted, or aided any other alien to enter or to try to enter the United States in violation of law is deportable.
+&emsp;&emsp;&emsp;Any alien who (prior to the date of entry, at the time of any entry, or within5 years of the date of any entry) knowingly has encouraged, induced, assisted, abetted, or aided any other alien to enter or to try to enter the United States in violation of law is deportable.
 
 #### (ii) Special rule in the case of family reunification
 
@@ -46,7 +46,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (iii) Waiver authorized
 
-&emsp;&emsp;&emsp;The Attorney General may, in his discretion for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest, waive application of clause (i) in the case of any alien lawfullyadmitted for permanent residence if the alien has encouraged, induced, assisted, abetted, or aided only an individual who at the time of the offense was the alien's spouse, parent, son, or daughter (and no other individual) to enter the United States in violation of law.
+&emsp;&emsp;&emsp;The Attorney General may, in his discretion for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest, waive application of clause (i) in the case of any alien lawfully admitted for permanent residence if the alien has encouraged, induced, assisted, abetted, or aided only an individual who at the time of the offense was the alien's spouse, parent, son, or daughter (and no other individual) to enter the United States in violation of law.
 
 #### (F) Repealed. Pub. L. 104–208, div. C, title VI, §671(d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–723
 
@@ -96,7 +96,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (v) Waiver authorized
 
-&emsp;&emsp;&emsp;Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has been granted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
+&emsp;&emsp;&emsp;Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has beengranted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
 
 #### (B) Controlled substances
 
@@ -408,7 +408,7 @@ Amendment by section 347(b) of Pub. L. 104–208 applicable to voting occurring 
 
 Section 350(b) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to convictions, or violations of court orders, occurring after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
-Amendment by section 351(b) of Pub. L. 104–208 applicable to applications for waivers filed before, on, or after Sept. 30, 1996, but not applicable to such an application for which a final determination has been madeas of Sept. 30, 1996, see section 351(c) of Pub. L. 104–208, set out as a note under section 1182 of this title.
+Amendment by section 351(b) of Pub. L. 104–208 applicable to applications for waivers filed before, on, or after Sept. 30, 1996, but not applicable to such an application for which a final determination has been made as of Sept. 30, 1996, see section 351(c) of Pub. L. 104–208, set out as a note under section 1182 of this title.
 
 Amendment by section 671(a)(4)(B) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
@@ -474,7 +474,7 @@ Amendment by act July 18, 1956, effective July 19, 1956, see section 401 of act 
 
 #### Savings Provision
 
-Section 602(c) of Pub. L. 101–649 provided that: “Notwithstanding the amendments made by this section \[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8 U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
+Section 602(c) of Pub. L. 101–649 provided that: “Notwithstanding the amendments made by this section\[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8 U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
 
 #### Report on Criminal Aliens
 
@@ -482,5 +482,5 @@ Section 510 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1158, 1226, 1228, 1229a, 1229b, 1229c, 1231, 1252, 1253, 1255, 1259, 1364, 1367, 1531 of this title.
+This section is referred to in sections 1158, 1226, 1228, 1229a, 1229b, 1229c, 1231, 1252, 1253, 1255, 1259, 1364, 1367, 1531 of this title; title 42 section 402.
 

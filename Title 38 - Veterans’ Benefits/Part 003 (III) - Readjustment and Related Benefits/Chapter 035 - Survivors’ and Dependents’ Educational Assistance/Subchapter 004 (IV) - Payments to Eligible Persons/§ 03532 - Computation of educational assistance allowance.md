@@ -14,7 +14,7 @@
 
 &emsp;(C) a half-time basis (a minimum of five clock hours per week),
 
-> shall be eligible to receive an educational assistance allowance at the appropriate rate providedin paragraph (2) of this subsection, if such eligible person is concurrently engaged in agricultural employment which is relevant to such institutional agricultural courses as determined under standards prescribed by the Secretary. In computing the foregoing clock hour requirements there shall be included the time involved in field trips and individual and group instruction sponsored and conducted by the educational institution through a duly authorized instructor of such institution in which the person is enrolled.
+> shall be eligible to receive an educational assistance allowance at the appropriate rate provided in paragraph (2) of this subsection, if such eligible person is concurrently engaged in agricultural employment which is relevant to such institutional agricultural courses as determined under standards prescribed by the Secretary. In computing the foregoing clock hour requirements there shall be included the time involved in field trips and individual and group instruction sponsored and conducted by the educational institution through a duly authorized instructor of such institution in which the person is enrolled.
 
 (2) The monthly educational assistance allowance to be paid on behalf of an eligible person pursuing a farm cooperative program under this chapter shall be $327 for full-time, $245 for three-quarter-time, and $163 for half-time pursuit.
 
@@ -78,7 +78,7 @@ Subsec. (c)(3). Pub. L. 94–502, §308, added par. (3).
 
 1974—Subsec. (a)(1). Pub. L. 93–508, §103(1), substituted “prescribed in section 1682(a)(1) of this title for full-time, three-quarter-time, or half-time pursuit, as appropriate, of an institutional program by an eligible veteran with no dependents” for “of (A) $220 per month if pursued on a full-time basis, (B) $165 per month if pursued on a three-quarter-time basis, and (C) $110 per month if pursued on a half-time basis”.
 
-Subsec. (a)(2). Pub. L. 93–508, §103(2), substituted “prescribed in section 1682(b)(2) of this title for less-than-half-time pursuit of an institutional program by an eligible veteran” for “of (A) the established charges for tuition and fees which the institution requiresother individuals enrolled in the same program to pay, or (B) $220 per month for a full-time course whichever is the lesser”.
+Subsec. (a)(2). Pub. L. 93–508, §103(2), substituted “prescribed in section 1682(b)(2) of this title for less-than-half-time pursuit of an institutional program by an eligible veteran” for “of (A) the established charges for tuition and fees which the institution requires other individuals enrolled in the same program to pay, or (B) $220 per month for a full-time course whichever is the lesser”.
 
 Subsec. (b). Pub. L. 93–508, §103(3), substituted “$209” for “$177”.
 
@@ -160,5 +160,5 @@ Section 4 of Pub. L. 89–222 provided that: “The amendments made by the first
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3565, 3680 of this title.
+This section is referred to in sections 3565, 3680 of this title; title 42 section 3796d–1.
 

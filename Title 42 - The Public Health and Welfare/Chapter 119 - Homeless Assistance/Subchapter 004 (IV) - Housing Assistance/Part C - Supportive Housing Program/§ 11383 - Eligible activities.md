@@ -18,7 +18,7 @@ The Secretary may provide any project with one or more of the following types of
 
 #### (4) Operating costs
 
-&emsp;Annual payments for operating costs of housing assisted under this part, not to exceed 75 percent of the annual operating costs of such housing. Grant recipients may reapplyfor such assistance as needed to continue the use of the housing for purposes of this part.
+&emsp;Annual payments for operating costs of housing assisted under this part, not to exceed 75 percent of the annual operating costs of such housing. Grant recipients may reapply for such assistance as needed to continue the use of the housing for purposes of this part.
 
 #### (5) Supportive services
 

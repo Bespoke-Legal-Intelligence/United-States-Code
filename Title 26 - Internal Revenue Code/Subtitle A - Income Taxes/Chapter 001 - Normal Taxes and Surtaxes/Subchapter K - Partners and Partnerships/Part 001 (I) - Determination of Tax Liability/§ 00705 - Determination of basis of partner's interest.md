@@ -1,0 +1,48 @@
+### §705. Determination of basis of partner's interest
+
+#### (a) General rule
+
+The adjusted basis of a partner's interest in a partnership shall, except as provided in subsection (b), be the basis of such interest determined under section 722 (relating to contributions to a partnership) or section 742 (relating to transfers of partnership interests)—
+
+&emsp;(1) increased by the sum of his distributive share for the taxable year and prior taxable years of—
+
+&emsp;&emsp;(A) taxable income of the partnership as determined under section 703(a),
+
+&emsp;&emsp;(B) income of the partnership exempt from tax under this title, and
+
+&emsp;&emsp;(C) the excess of the deductions for depletion over the basis of the property subject to depletion;
+
+&emsp;(2) decreased (but not below zero) by distributions by the partnership as provided in section 733 and by the sum of his distributive share for the taxable year and prior taxable years of—
+
+&emsp;&emsp;(A) losses of the partnership, and
+
+&emsp;&emsp;(B) expenditures of the partnership not deductible in computing its taxable income and not properly chargeable to capital account; and
+
+&emsp;(3) decreased (but not below zero) by the amount of the partner's deduction for depletion for any partnership oil and gas property to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such partner under section 613A(c)(7)(D).
+
+#### (b) Alternative rule
+
+The Secretary shall prescribe by regulations the circumstances under which the adjusted basis of a partner's interest in a partnership may be determined by reference to his proportionate share of the adjusted basis of partnership property upon a termination of the partnership.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 242; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2115(c)(3), 90 Stat. 1834, 1909; July 18, 1984, Pub. L. 98–369, div. A, title VII, §722(e)(1), 98 Stat. 974.)
+
+#### Amendments
+
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–369 substituted “for any partnership oil and gas property to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such partner under section 613A(c)(7)(D)” for “under section 611 with respect to oil and gas wells”.
+
+<b>1976</b>—Subsec. (a)(3). Pub. L. 94–455, §2115(c)(3), added par. (3).
+
+Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 1984 Amendment
+
+Section 722(e)(3)(A) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1975.”
+
+#### Effective Date of 1976 Amendment
+
+Amendment by section 2115(c)(3) of Pub. L. 94–455 effective on Jan. 1, 1975, and applicable to taxable years ending after Dec. 31, 1974, see section 2115(f) of Pub. L. 94–455, set out as a note under section 613A of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 776 of this title.
+

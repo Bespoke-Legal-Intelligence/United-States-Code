@@ -20,3 +20,5 @@ Section 1508, Pub. L. 86–380, §8, Sept. 24, 1959, 73 Stat. 706, which authori
 
 Section 1509, Pub. L. 86–380, §9, as added Pub. L. 89–733, §6, Nov. 2, 1966, 80 Stat. 1162, which related to receipt of funds and to consideration of these funds by Congress in making appropriations for Commission, was transferred to section 4279 of Title 42.
 
+)
+

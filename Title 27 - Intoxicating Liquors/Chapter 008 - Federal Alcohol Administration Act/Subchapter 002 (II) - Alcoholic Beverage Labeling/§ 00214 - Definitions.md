@@ -32,7 +32,7 @@ As used in this subchapter—
 
 &emsp;(12) The term “United States”, when used in geographical sense, includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, Wake Island, the Midway Islands, Kingman Reef, and Johnston Island.
 
-(Aug. 29, 1935, ch. 814, title II, §203, as added Nov. 18, 1988, Pub. L. 100–690, title VIII, §8001(a)(3), 102 Stat. 4518.)
+(Aug. 29, 1935, ch. 814, title II, §203, as added Pub. L. 100–690, title VIII, §8001(a)(3), Nov. 18, 1988, 102 Stat. 4518.)
 
 <i><sup>1</sup></i><i> So in original. Probably should be “terms”.</i>
 

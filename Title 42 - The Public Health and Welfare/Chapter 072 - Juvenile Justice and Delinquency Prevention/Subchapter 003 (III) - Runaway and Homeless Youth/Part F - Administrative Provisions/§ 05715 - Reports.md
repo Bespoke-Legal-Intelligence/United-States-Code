@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(G) plans for the following fiscal year.
 
-(b)(1) The Secretary shall include in the report required by subsection (a) of this section an evaluation of the results of Federal evaluation of the programs, projects, and activities carried out under this subchapter and a description of the training provided to the persons who carry out the evaluation.
+(b)(1) The Secretary shall include in the report required by subsection (a) of this section an evaluation of the results of Federal evaluationof the programs, projects, and activities carried out under this subchapter and a description of the training provided to the persons who carry out the evaluation.
 
 (2) As part of the evaluation described in paragraph (1), the Secretary shall require the persons who carry out the evaluation to visit each grantee on-site not less frequently than every 3 years.
 
@@ -54,5 +54,5 @@ Committee on Education and Labor of House of Representatives treated as referrin
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by this section with respect tofiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
 

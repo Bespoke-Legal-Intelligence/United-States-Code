@@ -74,7 +74,7 @@ Resolved, that effective October 1, 1973, until otherwise provided by Order of t
 
 #### Committee Order No. 8
 
-Resolved, that effective October 1, 1973, until otherwise provided by Order of the Committee on House Administration the quarterly allowance for official office expenses incurred outside the District of Columbia byMembers, Delegates, and the Resident Commissioner from Puerto Rico has been increased from $300 quarterly to $500 quarterly.
+Resolved, that effective October 1, 1973, until otherwise provided by Order of the Committee on House Administration the quarterly allowance for official office expenses incurred outside the District of Columbia by Members, Delegates, and the Resident Commissioner from Puerto Rico has been increased from $300 quarterly to $500 quarterly.
 
 #### Committee Order No. 9
 
@@ -356,7 +356,7 @@ All disbursements and allocations shall be made in accordance with rules and reg
 
 #### Committee Order No. 41
 
-Resolved, That (a) effective September 1, 1995, and subject to subsection (b), the Clerk Hire Allowance, theOfficial Expenses Allowance, and the Official Mail Allowance shall cease to exist and the functions formerly carried out under such allowances shall be carried out under a single allowance, to be known as the “Members’ Representational Allowance”.
+Resolved, That (a) effective September 1, 1995, and subject to subsection (b), the Clerk Hire Allowance, the Official Expenses Allowance, and the Official Mail Allowance shall cease to exist and the functions formerly carried out under such allowances shall be carried out under a single allowance, to be known as the “Members’ Representational Allowance”.
 
 (b) Under the Members’ Representational Allowance, the amount that shall be available to a Member for franked mail with respect to a session of Congress shall be the amount allocated for that purpose by the Committee on House Oversight under paragraphs (1)(A) and (2)(B) of subsection (e) of section 311 of the Legislative Branch Appropriations Act, 1991 \[2 U.S.C. 59e(e)(1)(A), (2)(B)\], plus an amount equal to the amount permitted to be transferred to the former Official Mail Allowance under paragraph (3) of that subsection.
 

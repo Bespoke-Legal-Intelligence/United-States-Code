@@ -1,12 +1,12 @@
 ### §7267. Decisions
 
-(a) A decision upon a proceeding before the Court of Veterans Appeals shall be made asquickly as practicable. In a case heard by a panel of the Court, the decision shall be made by a majority vote of the panel in accordance with the rules of the Court. The decision of the judge or panel hearing the case so made shall be the decision of the Court.
+(a) A decision upon a proceeding before the Court of Veterans Appeals shall be made as quickly as practicable. In a case heard by a panel of the Court, the decision shall be made by a majority vote of the panel in accordance with the rules of the Court. The decision of the judge or panel hearing the case so made shall be the decision of the Court.
 
 (b) A judge or panel shall make a determination upon any proceeding before the Court, and any motion in connection with such a proceeding, that is assigned to the judge or panel. The judge or panel shall make a report of any such determination which constitutes the judge or panel's final disposition of the proceeding.
 
 (c) The Court shall designate in its decision in any case those specific records of the Government on which it relied (if any) in making its decision. The Secretary shall preserve records so designated for not less than the period of time designated by the Archivist of the United States.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4117, §4067; renumbered §7267, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §§1, 8(1), Aug. 6, 1991, 105 Stat. 375, 377; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4117, §4067; renumbered §7267, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–82, §§1, 8(1), Aug. 6, 1991, 105 Stat. 375, 377; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### Amendments
 

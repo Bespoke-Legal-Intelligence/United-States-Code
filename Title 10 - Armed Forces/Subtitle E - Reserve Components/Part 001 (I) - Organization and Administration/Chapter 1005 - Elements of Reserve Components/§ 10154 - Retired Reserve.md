@@ -14,7 +14,7 @@ Provisions similar to those in this section were contained in section 274 of thi
 
 #### Authority To Issue Military Identification Cards to So-Called Honorary Retirees of the Naval and Marine Corps Reserves
 
-Section 377 of Pub. L. 103–337, as amended by Pub. L. 104–106, div. A, title XV, §1501(d)(1), Feb. 10, 1996, 110 Stat. 500, provided that:
+Section 377 of Pub. L. 103–337, as amended by Pub. L. 104–106, div. A, title XV, §1501(d)(1), Feb. 10, 1996, 110 Stat. 500; Pub. L. 105–85, div. A, title X, §1073(d)(1)(E)(i), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
 “(a)
 
@@ -31,6 +31,4 @@ Effect on Commissary and Exchange Benefits.—The issuance of a military identif
 “(d)
 
 Limitation on Color and Format.—The Secretary shall ensure that the color and format in which a military identification card is issued under subsection (a) is not similar to the color and format in which a military identification card is issued by the Department of Defense to individuals other than members described in subsection (b).”
-
-\[Pub. L. 104–106, §1501(d)(1), which directed the amendment of section 337(b) of Pub. L. 103–337, set out as a note under section 2466 of this title, was executed to section 377(b) of Pub. L. 103–337, set out above, to reflect the probable intent of Congress.\]
 

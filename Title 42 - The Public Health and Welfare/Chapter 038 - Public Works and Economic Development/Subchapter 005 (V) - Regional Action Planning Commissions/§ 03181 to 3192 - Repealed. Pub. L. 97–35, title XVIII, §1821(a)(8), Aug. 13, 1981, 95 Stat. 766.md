@@ -8,7 +8,7 @@ Section 3183, Pub. L. 89–136, title V, §503, Aug. 26, 1965, 79 Stat. 565; Pub
 
 Section 3184, Pub. L. 89–136, title V, §504, Aug. 26, 1965, 79 Stat. 566, set out program development criteria.
 
-Section 3185, Pub. L. 89–136, title V, §505, Aug. 26, 1965, 79 Stat. 566; Pub. L. 90–103, title II, §202, Oct. 11, 1967, 81 Stat. 266; Pub. L. 91–123, title II, §203, Nov. 25, 1969, 83 Stat. 216; Pub. L. 93–423, §9(b), Sept. 27, 1974, 88 Stat. 1162; Pub. L. 94–273, §2(25), Apr. 21, 1976, 90 Stat. 376, set out provisions relating to technical and planning assistance to regional commissions.
+Section 3185, Pub. L. 89–136, title V, §505, Aug. 26, 1965, 79 Stat. 566; Pub. L. 90–103, title II, §202, Oct. 11, 1967, 81 Stat. 266; Pub. L. 91–123, title II, §203, Nov. 25, 1969, 83 Stat. 216; Pub. L. 93–423, §9(b), Sept. 27, 1974, 88 Stat. 1162; Pub. L. 94–273, §2(25), Apr. 21, 1976, 90 Stat. 376, setout provisions relating to technical and planning assistance to regional commissions.
 
 Section 3186, Pub. L. 89–136, title V, §506, Aug. 26, 1965, 79 Stat. 567; Pub. L. 91–123, title II, §204, Nov. 25, 1969, 83 Stat. 217, related to administrative powers of regional commissions and headquarters of Federal cochairman.
 

@@ -56,7 +56,7 @@ Promptly after the circulation of a report of a panel or of the Appellate Body t
 
 &emsp;&emsp;(C) the head of the relevant department or agency has provided an opportunity for public comment by publishing in the Federal Register the proposed modification and the explanation for the modification;
 
-&emsp;&emsp;(D) the Trade Representative has submitted to the appropriate congressional committees a report describing the proposed modification, the reasons for the modification, and a summary of the advice obtained under subparagraph (B) with respect to the modification;
+&emsp;&emsp;(D) the Trade Representative has submitted to the appropriate congressional committees a report describing the proposed modification, the reasons for the modification, and a summary of the advice obtainedunder subparagraph (B) with respect to the modification;
 
 &emsp;&emsp;(E) the Trade Representative and the head of the relevant department or agency have consulted with the appropriate congressional committees on the proposed contents of the final rule or other modification; and
 

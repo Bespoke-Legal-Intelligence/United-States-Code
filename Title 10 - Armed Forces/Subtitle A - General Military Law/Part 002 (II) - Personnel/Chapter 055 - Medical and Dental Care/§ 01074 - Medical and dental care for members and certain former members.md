@@ -2,11 +2,33 @@
 
 (a) Under joint regulations to be prescribed by the administering Secretaries, a member of a uniformed service who is on active duty is entitled to medical and dental care in any facility of any uniformed service.
 
-(b) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
+(b) Under joint regulations to be prescribed by the administering Secretaries, a member orformer member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
 
-(c) Funds appropriated to a military department may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the armed forces. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
+(c)(1) Funds appropriated to a military department may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the armed forces. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596.)
+(2)(A) Subject to such exceptions as the Secretary of Defense considers necessary, coverage for medical care for members of the armed forces under this subsection, and standards with respect to timely access to such care, shall be comparable to coverage for medical care and standards for timely access to such care under the managed care option of the TRICARE program known as TRICARE Prime.
+
+(B) The Secretary of Defense shall enter into arrangements with contractors under the TRICARE program or with other appropriate contractors for the timely and efficient processing of claims under this subsection.
+
+(3)(A) The Secretary of Defense may not require a member of the armed forces described in subparagraph (B) to receive routine primary medical care at a military medical treatment facility.
+
+(B) A member referred to in subparagraph (A) is a member of the armed forces on active duty who is entitled to medical care under this subsection and who—
+
+&emsp;(i) receives a duty assignment described in subparagraph (C); and
+
+&emsp;(ii) pursuant to the assignment of such duty, resides at a location that is more than 50 miles, or approximately one hour of driving time, from the nearest military medical treatment facility adequate to provide the needed care.
+
+(C) A duty assignment referred to in subparagraph (B) means any of the following:
+
+&emsp;(i) Permanent duty as a recruiter.
+
+&emsp;(ii) Permanent duty at an educational institution to instruct, administer a program of instruction, or provide administrative services in support of a program of instruction for the Reserve Officers’ Training Corps.
+
+&emsp;(iii) Permanent duty as a full-time adviser to a unit of a reserve component.
+
+&emsp;(iv) Any other permanent duty designated by the Secretary concerned for purposes of this paragraph.
+
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810.)
 
 Historical and Revision Notes
 
@@ -40,6 +62,8 @@ A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enac
 
 #### Amendments
 
+1997—Subsec. (c). Pub. L. 105–85 designated existing provisions as par. (1) and added pars. (2) and (3).
+
 1996—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows:
 
 “(d)(1) The Secretary of Defense may require, by regulation, a private CHAMPUS provider to apply the CHAMPUS payment rules (subject to any modifications considered appropriate by the Secretary) in imposing charges for health care that the private CHAMPUS provider provides to a member of the uniformed services who is enrolled in a health care plan of a facility deemed to be a facility of the uniformed services under section 911(a) of the Military Construction Authorization Act, 1982 (42 U.S.C. 248c(a)) when the health care is provided outside the catchment area of the facility.
@@ -70,6 +94,14 @@ Subsec. (b). Pub. L. 96–513, §511(36), (37), substituted “Secretary of Heal
 
 1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training) and authorized care to be provided to persons covered by subsec. (b) in facilities operated by the Administrator of Veterans’ Affairs and available on a reimbursable basis at rates approved by the Bureau of the Budget.
 
+#### Effective Date of 1997 Amendment
+
+Section 731(a)(2) of Pub. L. 105–85 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to coverage of medical care for, and the provision of such care to, a member of the Armed Forces under section 1074(c) of title 10, United States Code, on and after the later of the following:
+
+&emsp;“(A) April 1, 1998.
+
+&emsp;“(B) The date on which the TRICARE program is in place in the service area of the member.”
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as an Effective Date note under section 520b of this title.
@@ -85,6 +117,58 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 #### Delegation of Functions
 
 Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+#### Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations; “TRICARE Program” and “TRICARE Prime Plan” Defined
+
+Section 731(b)–(f) of Pub. L. 105–85 provided that:
+
+“(b)
+
+Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations.—(1) A member of the Armed Forces described in subsection (c) is entitled to receive care under the Civilian Health and Medical Program of the Uniformed Services. In connection with such care, the Secretary of Defense shall waive the obligation of the member to pay a deductible, copayment, or annual fee that would otherwise be applicable under that program for care provided to the members under the program.
+
+“(2) A member who is entitled under paragraph (1) to receive health care services under CHAMPUS shall receive such care from a network provider under the TRICARE program if such a provider is available in the service area of the member.
+
+“(3) Paragraph (1) shall take effect on the date of the enactment of this Act \[Nov. 18, 1997\] and shall expire with respect to a member upon the later of the following:
+
+&emsp;“(A) The date that is one year after the date of the enactment of this Act.
+
+&emsp;“(B) The date on which the amendments made by subsection (a) \[amending this section\] apply with respect to the coverage of medical care for, and provision of such care to, the member.
+
+“(c)
+
+Eligible Members.—A member referred to in subsection (b) is a member of the Armed Forces on active duty who—
+
+&emsp;“(1) receives a duty assignment described in subsection (d); and
+
+&emsp;“(2) pursuant to the assignment of such duty, resides at a location that is more than 50 miles, or approximately one hour of driving time, from—
+
+&emsp;&emsp;“(A) the nearest health care facility of the uniformed services adequate to provide the needed care under chapter 55 of title 10, United States Code; and
+
+&emsp;&emsp;“(B) the nearest source of the needed care that is available to the member under the TRICARE Prime plan.
+
+“(d)
+
+Duty Assignments Covered.—A duty assignment referred to in subsection (c)(1) means any of the following:
+
+&emsp;“(1) Permanent duty as a recruiter.
+
+&emsp;“(2) Permanent duty at an educational institution to instruct, administer a program of instruction, or provide administrative services in support of a program of instruction for the Reserve Officers’ Training Corps.
+
+&emsp;“(3) Permanent duty as a full-time adviser to a unit of a reserve component of the Armed Forces.
+
+&emsp;“(4) Any other permanent duty designated by the Secretary concerned for purposes of this subsection.
+
+“(e)
+
+Payment of Costs.—Deductibles, copayments, and annual fees not payable by a member by reason of a waiver granted under the regulations prescribed pursuant to subsection (b) shall be paid out of funds available to the Department of Defense for the Defense Health Program.
+
+“(f)
+
+Definitions.—In this section \[amending this section and enacting provisions set out as a note above\]:
+
+&emsp;“(1) The term ‘TRICARE program’ has the meaning given that term in section 1072(7) of title 10, United States Code.
+
+&emsp;“(2) The term ‘TRICARE Prime plan’ means a plan under the TRICARE program that provides for the voluntary enrollment of persons for the receipt of health care services to be furnished in a manner similar to the manner in which health care services are furnished by health maintenance organizations.”
 
 #### Independent Research Regarding Gulf War Syndrome
 
@@ -122,6 +206,62 @@ Availability of Funds.—Of the amount authorized to be appropriated under secti
 
 #### Persian Gulf Illness
 
+Sections 761, 762, and 770 of title VII of Pub. L. 105–85 provided that:
+
+#### “SEC. 761. DEFINITIONS.
+
+“For purposes of this subtitle \[subtitle F (§§761–771) of title VII of Pub. L. 105–85, enacting sections 1074e, 1074f, and 1107 of this title and this note\]:
+
+&emsp;“(1) The term ‘Gulf War illness’ means any one of the complex of illnesses and symptoms that might have been contracted by members of the Armed Forces as a result of service in the Southwest Asia theater of operations during the Persian Gulf War.
+
+&emsp;“(2) The term ‘Persian Gulf War’ has the meaning given that term in section 101 of title 38, United States Code.
+
+&emsp;“(3) The term ‘Persian Gulf veteran’ means an individual who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
+
+&emsp;“(4) The term ‘contingency operation’ has the meaning given that term in section 101(a) of title 10, United States Code, and includes a humanitarian operation, peacekeeping operation, or similar operation.
+
+#### “SEC. 762. PLAN FOR HEALTH CARE SERVICES FOR PERSIAN GULF VETERANS.
+
+“(a)
+
+Plan Required.—The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shall prepare a plan to provide appropriate health care to Persian Gulf veterans (and dependents eligible by law) who suffer from a Gulf War illness.
+
+“(b)
+
+Contents of Plan.—In preparing the plan, the Secretaries shall—
+
+&emsp;“(1) use the presumptions of service connection and illness specified in paragraphs (1) and (2) of section 721(d) of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 10 U.S.C. 1074 note) to determine the Persian Gulf veterans (and dependents eligible by law) who should be covered by the plan;
+
+&emsp;“(2) consider the need and methods available to provide health care services to Persian Gulf veterans who are no longer on active duty in the Armed Forces, such as Persian Gulf veterans who are members of the reserve components and Persian Gulf veterans who have been separated from the Armed Forces; and
+
+&emsp;“(3) estimate the costs to the Government of providing full or partial health care services under the plan to covered Persian Gulf veterans (and covered dependents eligible by law).
+
+“(c)
+
+Follow-up Treatment.—The plan required by subsection (a) shall specifically address the measures to be used to monitor the quality, appropriateness, and effectiveness of, and patient satisfaction with, health care services provided to Persian Gulf veterans after their initial medical examination as part of registration in the Persian Gulf War Veterans Health Registry or the Comprehensive Clinical Evaluation Program.
+
+“(d)
+
+Submission of Plan.—Not later than March 1, 1998, the Secretaries shall submit to Congress the plan required by subsection (a).
+
+#### “SEC. 770. PERSIAN GULF ILLNESS CLINICAL TRIALS PROGRAM.
+
+“(a)
+
+Findings.—Congress finds the following:
+
+&emsp;“(1) There are many ongoing studies that investigate risk factors which may be associated with the health problems experienced by Persian Gulf veterans; however, there have been no studies that examine health outcomes and the effectiveness of the treatment received by such veterans.
+
+&emsp;“(2) The medical literature and testimony presented in hearings on Gulf War illnesses indicate that there are therapies, such as cognitive behavioral therapy, that have been effective in treating patients with symptoms similar to those seen in many Persian Gulf veterans.
+
+“(b)
+
+Establishment of Program.—The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shall establish a program of cooperative clinical trials at multiple sites to assess the effectiveness of protocols for treating Persian Gulf veterans who suffer from ill-defined or undiagnosed conditions. Such protocols shall include a multidisciplinary treatment model, of which cognitive behavioral therapy is a component.
+
+“(c)
+
+Funding.—Of the funds authorized to be appropriated in section 201(1) \[111 Stat. 1655\] for research, development, test, and evaluation for the Army, the sum of $4,500,000 shall be available for program element 62787A (medical technology) in the budget of the Department of Defense for fiscal year 1998 to carry out the clinical trials program established pursuant to subsection (b).”
+
 Pub. L. 103–337, div. A, title VII, §§721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(4), (5), Feb. 10, 1996, 110 Stat. 513, provided that:
 
 #### “SEC. 721. PROGRAMS RELATED TO DESERT STORM MYSTERY ILLNESS.
@@ -146,7 +286,7 @@ Outreach Program to Persian Gulf Veterans and Families.—The Secretary of Defen
 
 “(b)
 
-Incentives to Persian Gulf Veterans To Register.—In order to encourage Persian Gulf veterans to register any symptoms they may have in one of the existing health registries, the Secretary of Defense shall provide the following:
+Incentives to Persian Gulf Veterans To Register.—In order to encourage Persian Gulf veterans toregister any symptoms they may have in one of the existing health registries, the Secretary of Defense shall provide the following:
 
 &emsp;“(1) For any Persian Gulf veteran who is on active duty and who registers with the Department of Defense's Persian Gulf War Veterans Health Surveillance System, a full medical evaluation and any required medical care.
 
@@ -206,7 +346,7 @@ Annual Report to Congress.—(1) The Secretary of Defense shall submit to the Co
 
 “(i)
 
-Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is an individual who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf Conflict.
+Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is an individual whoserved on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf Conflict.
 
 #### “SEC. 722. STUDIES OF HEALTH CONSEQUENCES OF MILITARY SERVICE OR EMPLOYMENT IN SOUTHWEST ASIA DURING THE PERSIAN GULF WAR.
 
@@ -386,9 +526,43 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 
 Report to President and Congress
 
-Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence onArmed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
+Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
+
+#### Ex. Ord. No. 13075. Special Oversight Board for Department of Defense Investigations of Gulf War Chemical and Biological Incidents
+
+Ex. Ord. No. 13075, Feb. 19, 1997, 63 F.R. 9085, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. (a) There is hereby established the Special Oversight Board for Department of Defense Investigations of Gulf War Chemical and Biological Incidents (“Special Oversight Board”). The Special Oversight Board shall be composed of not more than seven members appointed by the President. The members of the Special Oversight Board shall have expertise relevant to the functions of the Special Oversight Board and shall not be full-time officials or employees of the executive branch of the Federal Government.
+
+(b) The President shall designate a Chairperson and a Vice Chairperson from among the members of the Special Oversight Board.
+
+Sec. 2. <i>Functions</i>. (a) The Special Oversight Board shall report to the President through the Secretary of Defense.
+
+(b) The Special Oversight Board shall provide advice and recommendations based on its review of Department of Defense investigations into possible detections of, and exposures to, chemical or biological weapons agents and environmental and other factors that may have contributed to Gulf War illnesses.
+
+(c) It shall not be a function of the Special Oversight Board to conduct scientific research.
+
+(d) It shall not be a function of the Special Oversight Board to provide advice or recommendations on any legal liability of the Federal Government for any claims or potential claims against the Federal Government.
+
+(e) The Special Oversight Board shall submit an interim report within 9 months of its first meeting and a final report within 18 months of its first meeting, unless otherwise directed by the President.
+
+Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Special Oversight Board with such information as it may require for purposes of carrying out its functions.
+
+(b) Special Oversight Board members may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). The administrative staff for the Special Oversight Board shall be compensated in accordance with Federal law.
+
+(c) To the extent permitted by law, and subject to the availability of appropriations, the Department of Defense shall provide the Special Oversight Board with such funds as may be necessary for the performance of its functions.
+
+Sec. 4. <i>General Provisions</i>. (a) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended, that are applicable to the Special Oversight Board, except that of reporting annually to the Congress, shall be performed by the Secretary of Defense, in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+(b) The Special Oversight Board shall terminate 30 days after submitting its final report.
+
+(c) This order is intended only to improve the internal management of the executive branch and it is not intended, and shall not be construed, to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1072, 1074d, 1075, 1078a, 1086, 1087, 1095, 1095a, 1097 of this title; title 38 section 8111.
+This section is referred to in sections 1072, 1074a, 1074d, 1074e, 1075, 1078a, 1086, 1087, 1095, 1095a, 1097 of this title; title 38 section 8111.
 

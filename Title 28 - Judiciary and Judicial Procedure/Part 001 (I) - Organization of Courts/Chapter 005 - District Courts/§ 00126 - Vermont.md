@@ -4,7 +4,7 @@ Vermont constitutes one judicial district.
 
 &emsp;&emsp;Court shall be held at Bennington, Brattleboro, Burlington, Montpelier, Rutland, Saint Johnsbury, and Windsor.
 
-(June 25, 1948, ch. 646, 62 Stat. 893; May 28, 1964, Pub. L. 88–312, 78 Stat. 201; Nov. 8, 1984, Pub. L. 98–620, title IV, §410, 98 Stat. 3362.)
+(June 25, 1948, ch. 646, 62 Stat. 893; Pub. L. 88–312, May 28, 1964, 78 Stat. 201; Pub. L. 98–620, title IV, §410, Nov. 8, 1984, 98 Stat. 3362.)
 
 #### Historical and Revision Notes
 
@@ -16,9 +16,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1984—Pub. L. 98–620 provided for holding court at Bennington.
+<b>1984</b>—Pub. L. 98–620 provided for holding court at Bennington.
 
-1964—Pub. L. 88–312 provided for holding court at Montpelier and Saint Johnsbury.
+<b>1964</b>—Pub. L. 88–312 provided for holding court at Montpelier and Saint Johnsbury.
 
 #### Effective Date of 1984 Amendment
 

@@ -10,7 +10,7 @@ Shall be fined not more than $500 for every such offense.
 
 (b) Any person may sue for the penalty, in which event one-half shall go to the person suing and the other to the use of the United States.
 
-(July 19, 1952, ch. 950, 66 Stat. 814; Dec. 8, 1994, Pub. L. 103–465, title V, §533(b)(6), 108 Stat. 4990.)
+(July 19, 1952, ch. 950, 66 Stat. 814; Pub. L. 103–465, title V, §533(b)(6), Dec. 8, 1994, 108 Stat. 4990.)
 
 #### Historical and Revision Notes
 

@@ -112,5 +112,5 @@ Pub. L. 97–377, title I, §101(e)(1) \[title V, §504\], Dec. 21, 1982, 96 Sta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5902, 8331 of this title; title 10 sections 1593, 1622; title 16 sections 1a–4, 742j–2; title 22 section 3712; title 25 section 2807; title 33 section 540a; title 37 sections 417, 418; title 38 section 903; title 43 section 1468.
+This section is referred to in sections 5902, 8331 of this title; title 10 sections 1593, 1622; title 16 sections 1a–4, 742j–2; title 25 section 2807; title 33 section 540a; title 37 sections 417, 418; title 38 section 903; title 43 section 1468.
 

@@ -16,7 +16,7 @@ Virginia is divided into two judicial districts, to be known as the Eastern and 
 
 (c) Cities and incorporated towns are included in that district in which are included the counties within the exterior boundaries of which such cities and incorporated towns are geographically located or out of the territory of which they have been incorporated.
 
-(June 25, 1948, ch. 646, 62 Stat. 893; July 5, 1968, Pub. L. 90–383, 82 Stat. 292; Dec. 10, 1991, Pub. L. 102–200, §1, 105 Stat. 1630.)
+(June 25, 1948, ch. 646, 62 Stat. 893; Pub. L. 90–383, July 5, 1968, 82 Stat. 292; Pub. L. 102–200, §1, Dec. 10, 1991, 105 Stat. 1630.)
 
 #### Historical and Revision Notes
 
@@ -32,11 +32,11 @@ By Senate amendment, “Newport News” was inserted after “Alexandria” in s
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–200, §1(1), struck out reference to Culpeper, Louisa, and Orange counties.
+<b>1991</b>—Subsec. (a). Pub. L. 102–200, §1(1), struck out reference to Culpeper, Louisa, and Orange counties.
 
 Subsec. (b). Pub. L. 102–200, §1(2), inserted reference to Culpeper, Louisa, and Orange counties.
 
-1968—Subsec. (c). Pub. L. 90–383 added subsec. (c).
+<b>1968</b>—Subsec. (c). Pub. L. 90–383 added subsec. (c).
 
 #### Applicability of 1991 Amendments
 

@@ -16,7 +16,7 @@ Approval Required.—The following transactions involving motor carriers of pass
 
 (b)
 
-Standard for Approval.—The Board shall approve and authorize a transaction under thissection when it finds the transaction is consistent with the public interest. The Board shall consider at least the following:
+Standard for Approval.—The Board shall approve and authorize a transaction under this section when it finds the transaction is consistent with the public interest. The Board shall consider at least the following:
 
 &emsp;(1) The effect of the proposed transaction on the adequacy of transportation to the public.
 
@@ -40,7 +40,7 @@ Deadlines.—The Board shall conclude evidentiary proceedings by the 240th day a
 
 (f)
 
-Effect of Approval.—A carrier or corporation participating in or resulting from a transaction approved by the Board under this section, or exempted by the Board from the application of this section pursuant to section 13541, may carry out the transaction, own and operate property, and exercise control or franchises acquired through the transaction without the approval of a State authority. A carrier, corporation, or person participating in the approved or exempted transaction is exempt from the antitrust laws and from all other law, including State and municipal law, as necessary to let that person carry out the transaction, hold, maintain, and operate property, and exercise control or franchises acquired through the transaction.
+Effect of Approval.—A carrier or corporation participating in or resulting from a transaction approved by the Board under this section, or exempted by the Board from the application of this section pursuant to section 13541, may carry out the transaction, own andoperate property, and exercise control or franchises acquired through the transaction without the approval of a State authority. A carrier, corporation, or person participating in the approved or exempted transaction is exempt from the antitrust laws and from all other law, including State and municipal law, as necessary to let that person carry out the transaction, hold, maintain, and operate property, and exercise control or franchises acquired through the transaction.
 
 (g)
 

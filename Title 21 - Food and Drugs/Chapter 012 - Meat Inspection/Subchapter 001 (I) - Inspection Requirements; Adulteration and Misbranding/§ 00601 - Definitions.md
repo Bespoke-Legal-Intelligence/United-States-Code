@@ -82,7 +82,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (p) The term “labeling” means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.
 
-(q) The term “Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]” means the Act so entitled, approved June 25, 1938 (52 Stat. 1040),and Acts amendatory thereof or supplementary thereto.
+(q) The term “Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]” means the Act so entitled, approved June 25, 1938 (52 Stat. 1040), and Acts amendatory thereof or supplementary thereto.
 
 (r) The terms “pesticide chemical,” “food additive,” “color additive,” and “raw agricultural commodity” shall have the same meanings for purposes of this chapter as under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\].
 
@@ -94,7 +94,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (v) The term “official device” means any device prescribed or authorized by the Secretary for use in applying any official mark.
 
-(Mar. 4, 1907, ch. 2907, title I, §1, as added Dec. 15, 1967, Pub. L. 90–201, §2, 81 Stat. 584; amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Oct. 29, 1992, Pub. L. 102–571, title I, §107(14), 106 Stat. 4499.)
+(Mar. 4, 1907, ch. 2907, title I, §1, as added Pub. L. 90–201, §2, Dec. 15, 1967, 81 Stat. 584; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, §107(14), Oct. 29, 1992, 106 Stat. 4499.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Required Training.—(1) The Secretary of Defense shall prescribe regulations implementing,<sup>1</sup> a training program for child care employees. Those regulations shall apply uniformly among the military departments. Subject to paragraph (2), satisfactory completion of the training program shall be a condition of employment of any person as a child care employee.
+Required Training.—(1) The Secretary of Defense shall prescribe regulations implementing a training program for child care employees. Those regulations shall apply uniformly among the military departments. Subject to paragraph (2), satisfactory completion of the training program shall be a condition of employment of any person as a child care employee.
 
 (2) Under those regulations, the Secretary shall require that each child care employee complete the training program not later than six months after the date on which the employee is employed as a child care employee.
 
@@ -40,21 +40,23 @@ Competitive Rates of Pay.—For the purpose of providing military child developm
 
 &emsp;(1) in the case of entry-level employees, shall be paid at rates of pay competitive with the rates of pay paid to other entry-level employees at that installation who are drawn from the same labor pool; and
 
-&emsp;(2) in the case of other employees, shall be paid at rates of pay substantially equivalentto the rates of pay paid to other employees at that installation with similar training, seniority, and experience.
+&emsp;(2) in the case of other employees, shall be paid at rates of pay substantially equivalent to the rates of pay paid to other employees at that installation with similar training, seniority, and experience.
 
 (d)
 
 Employment Preference Program for Military Spouses.—(1) The Secretary of Defense shall conduct a program under which qualified spouses of members of the armed forces shall be given a preference in hiring for the position of child care employee in a position paid from nonappropriated funds if the spouse is among persons determined to be best qualified for the position.
 
-(2) A spouse who is provided a preference under this subsection at a military child development center may not be precluded from obtaining another preference, in accordance with section 1794 <sup>2</sup> of this title, in the same geographic area as the military child development center.
+(2) A spouse who is provided a preference under this subsection at a military child development center may not be precluded from obtaining another preference, in accordance with section 1784 of this title, in the same geographic area as the military child development center.
 
 (e)
 
 Competitive Service Position Defined.—In this section, the term “competitive service position” means a position in the competitive service, as defined in section 2102(a)(1) of title 5.
 
-(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 332.)
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 332; amended Pub. L. 105–85, div. A, title X, §1073(a)(34), Nov. 18, 1997, 111 Stat. 1902.)
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be “1784”.</i>
+1997—Subsec. (a)(1). Pub. L. 105–85, §1073(a)(34)(A), struck out comma after “implementing”.
+
+Subsec. (d)(2). Pub. L. 105–85, §1073(a)(34)(B), substituted “section 1784” for “section 1794”.
 

@@ -6,7 +6,7 @@ Whoever, with intent to cause the overthrow or destruction of any such governmen
 
 Whoever organizes or helps or attempts to organize any society, group, or assembly of persons who teach, advocate, or encourage the overthrow or destruction of any such government by force or violence; or becomes or is a member of, or affiliates with, any such society, group, or assembly of persons, knowing the purposes thereof—
 
-Shall be fined under this title or imprisoned not more than twenty years, or both, and shall be ineligible for employment by the United States or any department or agency thereof, for the five years next following his conviction.
+Shall be fined under this title or imprisoned not more than twenty years, or both, and shallbe ineligible for employment by the United States or any department or agency thereof, for the five years next following his conviction.
 
 If two or more persons conspire to commit any offense named in this section, each shall be fined under this title or imprisoned not more than twenty years, or both, and shall be ineligible for employment by the United States or any department or agency thereof, for the five years next following his conviction.
 

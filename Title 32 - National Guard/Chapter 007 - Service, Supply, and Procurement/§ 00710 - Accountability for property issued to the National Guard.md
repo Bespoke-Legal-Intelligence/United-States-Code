@@ -16,7 +16,7 @@
 
 (e) If a State or Territory, Puerto Rico, or the District of Columbia, whichever is concerned, neglects or refuses to pay for the loss or destruction of, or damage to, property charged against it under subsection (c), the Secretary concerned may bar it from receiving any part of appropriations for the Army National Guard or the Air National Guard, as the case may be, until the payment is made.
 
-(f)(1) Instead of the procedure prescribed by subsections (b), (c), and (d), property issued to the National Guard that becomes unserviceable through fair wear and tear in service may, under regulations to be prescribed by the Secretary concerned, be sold or otherwise disposed of after an inspection, and a finding of unserviceability because of that wear and tear, by a commissioned officer designated by the Secretary. The State or Territory, Puerto Rico, or the District of Columbia, whichever is concerned, is relieved of accountability for that property.
+(f)(1) Instead of the procedure prescribed by subsections (b), (c), and (d), property issued to the National Guard that becomes unserviceablethrough fair wear and tear in service may, under regulations to be prescribed by the Secretary concerned, be sold or otherwise disposed of after an inspection, and a finding of unserviceability because of that wear and tear, by a commissioned officer designated by the Secretary. The State or Territory, Puerto Rico, or the District of Columbia, whichever is concerned, is relieved of accountability for that property.
 
 (2) In designating an officer to conduct inspections and make findings for purposes of paragraph (1), the Secretary concerned shall designate—
 
@@ -24,7 +24,7 @@
 
 &emsp;(B) in the case of the Air National Guard, a commissioned officer of the Regular Air Force or a commissioned officer of the Air National Guard who is also a commissioned officer of the Air National Guard of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 615; Sept. 2, 1958, Pub. L. 85–861, §33(c)(3), 72 Stat. 1567; Aug. 8, 1980, Pub. L. 96–328, §1(a), (b)(1), 94 Stat. 1027; Dec. 12, 1980, Pub. L. 96–513, title V, §515(8), 94 Stat. 2937; Sept. 13, 1982, Pub. L. 97–258, §3(h)(2), 96 Stat. 1065; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §524(e), 107 Stat. 1657.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 615; Pub. L. 85–861, §33(c)(3), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 96–328, §1(a), (b)(1), Aug. 8, 1980, 94 Stat. 1027; Pub. L. 96–513, title V, §515(8), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 97–258, §3(h)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–160, div. A, title V, §524(e), Nov. 30, 1993, 107 Stat. 1657.)
 
 Historical and Revision Notes<br>1956
 
@@ -123,4 +123,8 @@ Section 2 of Pub. L. 96–328 provided that: “The amendment made by subsection
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 509 of this title.
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) any Act of Congress applicable exclusively to the District of Columbia shall be considered to be a statute of the District of Columbia.
 
-(June 25, 1948, ch. 646, 62 Stat. 932; Sept. 3, 1954, ch. 1263, §42, 68 Stat. 1241; Sept. 9, 1957, Pub. L. 85–315, part III, §121, 71 Stat. 637; Dec. 29, 1979, Pub. L. 96–170, §2, 93 Stat. 1284.)
+(June 25, 1948, ch. 646, 62 Stat. 932; Sept. 3, 1954, ch. 1263, §42, 68 Stat. 1241; Pub. L. 85–315, part III, §121, Sept. 9, 1957, 71 Stat. 637; Pub. L. 96–170, §2, Dec. 29, 1979, 93 Stat. 1284.)
 
 #### Historical and Revision Notes
 
@@ -28,11 +28,11 @@ Numerous changes were made in arrangement and phraseology.
 
 #### Amendments
 
-1979—Pub. L. 96–170 designated existing provisions as subsec. (a) and added subsec. (b).
+<b>1979</b>—Pub. L. 96–170 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1957—Pub. L. 85–315 inserted “and elective franchise” in section catchline and added par. (4).
+<b>1957</b>—Pub. L. 85–315 inserted “and elective franchise” in section catchline and added par. (4).
 
-1954—Act Sept. 3, 1954, substituted “section 1985 of Title 42” for “section 47 of Title 8” wherever appearing.
+<b>1954</b>—Act Sept. 3, 1954, substituted “section 1985 of Title 42” for “section 47 of Title 8” wherever appearing.
 
 #### Effective Date of 1979 Amendment
 

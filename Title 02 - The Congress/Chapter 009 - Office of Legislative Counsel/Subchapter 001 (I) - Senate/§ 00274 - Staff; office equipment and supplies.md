@@ -6,7 +6,7 @@ The Legislative Counsel shall, subject to the approval of the President pro temp
 
 #### Codification
 
-As originally enacted, section also provided for legislative counsel of House of Representatives, subject to approval of Speaker, to employ and fix the compensation of assistant counsel, clerks, etc. In view of nonapplicability of section to Speaker, employee, etc., of the House of Representatives pursuant to section 531 of Pub. L. 91–510, set out as a note under section 281 of this title, section has been revised to limit applicability to authority of Legislative Counsel of the Senate. See section 282a et seq. of this title for provisions relating to appointment of staff, etc., for Office of Legislative Counsel of the House of Representatives.
+As originally enacted, section also provided for legislative counsel of House of Representatives, subject to approval of Speaker, to employ and fix the compensation of assistant counsel, clerks, etc. In view of nonapplicability of section to Speaker, employee, etc., of the House of Representatives pursuant to section 531 of Pub. L. 91–510, set out as a note under section 281 of this title, section has been revised to limit applicability to authority of Legislative Counsel of the Senate.See section 282a et seq. of this title for provisions relating to appointment of staff, etc., for Office of Legislative Counsel of the House of Representatives.
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Pub. L. 88–248, Dec. 30, 1963, 77 Stat. 804, provided in part: “That effecti
 
 Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275, eff. July 1, 1975, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $39,000.
 
-Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senateshall each be paid at an annual rate of compensation of $37,620.
+Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $37,620.
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
 

@@ -62,3 +62,31 @@ Subsec. (b). Pub. L. 104–235, §211(2), substituted “conditions, by providin
 
 Par. (2). Pub. L. 98–457, §201(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing a mechanism for the Department of Health and Human Services to (A) promote quality standards for adoption services (including pre-placement, post-placement, and post-adoption counseling and standards to protect the rights of children in need of adoption), and (B) provide for a national adoption and foster care information data gathering and analysis system and a national adoption information exchange system to bring together children who would benefit by adoption and qualified prospective adoptive parents who are seeking such children.”
 
+#### Study of Interjurisdictional Adoption Issues
+
+Pub. L. 105–89, title II, §202(c), Nov. 19, 1997, 111 Stat. 2126, provided that:
+
+“(1)
+
+In general.—The Comptroller General of the United States shall—
+
+&emsp;“(A) study and consider how to improve procedures and policies to facilitate the timely and permanent adoptions of children across State and county jurisdictions; and
+
+&emsp;“(B) examine, at a minimum, interjurisdictional adoption issues—
+
+&emsp;&emsp;“(i) concerning the recruitment of prospective adoptive families from other States and counties;
+
+&emsp;&emsp;“(ii) concerning the procedures to grant reciprocity to prospective adoptive family home studies from other States and counties;
+
+&emsp;&emsp;“(iii) arising from a review of the comity and full faith and credit provided to adoption decrees and termination of parental rights orders from other States; and
+
+&emsp;&emsp;“(iv) concerning the procedures related to the administration and implementation of the Interstate Compact on the Placement of Children.
+
+“(2)
+
+Report to the congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 19, 1997\], the Comptroller General shall submit to the appropriate committees of the Congress a report that includes—
+
+&emsp;“(A) the results of the study conducted under paragraph (1); and
+
+&emsp;“(B) recommendations on how to improve procedures to facilitate the interjurisdictional adoption of children, including interstate and intercounty adoptions, so that children will be assured timely and permanent placements.”
+

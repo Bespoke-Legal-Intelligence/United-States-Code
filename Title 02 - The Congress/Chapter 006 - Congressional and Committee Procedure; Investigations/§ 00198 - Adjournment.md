@@ -8,7 +8,7 @@
 
 (b) This section shall not be applicable in any year if on July 31 of such year a state of war exists pursuant to a declaration of war by the Congress.
 
-(Aug. 2, 1946, ch. 753, title I, §132, 60 Stat. 831; Oct. 26, 1970, Pub. L. 91–510, title IV, §461(b), 84 Stat. 1193.)
+(Aug. 2, 1946, ch. 753, title I, §132, 60 Stat. 831; Pub. L. 91–510, title IV, §461(b), Oct. 26, 1970, 84 Stat. 1193.)
 
 #### Amendments
 

@@ -12,7 +12,7 @@ As used in sections 193a to 193m, 212a, 212a–2, and 212b of this title—
 
 &emsp;(5) The term “act of physical violence” means any act involving (1) an assault or any other infliction or threat of infliction of death or bodily harm upon any individual, or (2) damage to or destruction of any real property or personal property.
 
-(July 31, 1946, ch. 707, §16(a), 60 Stat. 721; Oct. 20, 1967, Pub. L. 90–108, §1(d), 81 Stat. 277.)
+(July 31, 1946, ch. 707, §16(a), 60 Stat. 721; Pub. L. 90–108, §1(d), Oct. 20, 1967, 81 Stat. 277.)
 
 #### References in Text
 

@@ -22,7 +22,7 @@ The court may affirm, modify, or set aside the order of the Secretary.
 
 #### (f) Additional evidence
 
-If the court determines that the just and proper disposition of the case requires the taking ofadditional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modifications or setting aside of his order, with the return of such additional evidence.
+If the court determines that the just and proper disposition of the case requires the taking of additional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modifications or setting aside of his order, with the return of such additional evidence.
 
 #### (g) Injunction
 

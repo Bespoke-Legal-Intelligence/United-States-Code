@@ -38,7 +38,7 @@
 
 &emsp;(2) The term “corpus of the estate of the veteran” includes the corpus of the estates of the veteran's spouse and dependent children, if any.
 
-&emsp;(3) The term “previous year” means the calendar year preceding the year in which theveteran applies for care or services under section 1710(a) of this title.
+&emsp;(3) The term “previous year” means the calendar year preceding the year in which the veteran applies for care or services under section 1710(a) of this title.
 
 (g) For the purposes of section 1724(c) of this title, the fact that a veteran is—
 
@@ -51,10 +51,6 @@
 > shall be accepted as sufficient evidence of such veteran's inability to defray necessary expenses.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §622; Pub. L. 89–612, §1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, §1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, §401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272, title XIX, §19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, §102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, §8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1722 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 104–262, title I, §101(d)(9), Oct. 9, 1996, 110 Stat. 3180.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 8013(e) of Pub. L. 101–508, see Effective and Termination Dates of 1990 Amendment note below.</i>
 
 #### References in Text
 
@@ -88,9 +84,9 @@ Subsec. (g). Pub. L. 102–83, §5(c)(1), substituted “1724(c)” for “624(c
 
 Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in par. (3).
 
-1990—Subsec. (a). Pub. L. 101–508, §8013(c)(1), (e), temporarily designated par. (1) as entire subsec. (a), redesignated cls. (A) to (C) as pars. (1) to (3), respectively, substituted “amount set forth in subsection (b)” for “Category A threshold” in par. (3), and struck out former par. (2) which read as follows: “For the purposes of section 610(a)(2)(A) of this title, a veteran's income level is described in this paragraph if the veteran's attributable income is not greater than the Category B threshold.” See Effective and Termination Dates of 1990 Amendment note below.
+1990—Subsec. (a). Pub. L. 101–508, §8013(c)(1), designated par. (1) as entire subsec. (a), redesignated cls. (A) to (C) as pars. (1) to (3), respectively, substituted “amount set forth in subsection (b)” for “Category A threshold” in par. (3), and struck out former par. (2) which read as follows: “For the purposes of section 610(a)(2)(A) of this title, a veteran's income level is described in this paragraph if the veteran's attributable income is not greater than the Category B threshold.”
 
-Subsec. (b). Pub. L. 101–508, §8013(c)(2), (e), temporarily amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section:
+Subsec. (b). Pub. L. 101–508, §8013(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section:
 
 &emsp;“(1) The Category A threshold—
 
@@ -112,21 +108,17 @@ Subsec. (b). Pub. L. 101–508, §8013(c)(2), (e), temporarily amended subsec. (
 
 &emsp;&emsp;“(B) for a calendar year beginning after December 31, 1986, is the amount in effect for purposes of this paragraph for the preceding calendar year as adjusted under subsection (c) of this subsection.”
 
-> See Effective and Termination Dates of 1990 Amendment note below.
+Subsec. (c). Pub. L. 101–508, §8013(c)(3), struck out “paragraphs (1) and (2) of” before “subsection (b) of this section”.
 
-Subsec. (c). Pub. L. 101–508, §8013(c)(3), (e), temporarily struck out “paragraphs (1) and (2) of” before “subsection (b) of this section”. See Effective and Termination Dates of 1990 Amendment note below.
-
-Subsec. (d)(2). Pub. L. 101–508, §8013(c)(4), (e), temporarily amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A determination described in this paragraph is a determination—
+Subsec. (d)(2). Pub. L. 101–508, §8013(c)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A determination described in this paragraph is a determination—
 
 &emsp;“(A) that for the purposes of subsection (a)(1)(C) of this section a veteran's attributable income is not greater than the Category A threshold; or
 
 &emsp;“(B) that for the purposes of subsection (a)(2) of this section a veteran's attributable income is not greater than the Category B threshold.”
 
-> See Effective and Termination Dates of 1990 Amendment note below.
+Subsec. (e)(1). Pub. L. 101–508, §8013(c)(5)(A), substituted “the amount determined under subsection (b) of this section” for “the Category A threshold or the Category B threshold, as appropriate”.
 
-Subsec. (e)(1). Pub. L. 101–508, §8013(c)(5)(A), (e), temporarily substituted “the amount determined under subsection (b) of this section” for “the Category A threshold or the Category B threshold, as appropriate”. See Effective and Termination Dates of 1990 Amendment note below.
-
-Subsec. (e)(2). Pub. L. 101–508, §8013(c)(5)(B), (e), temporarily added par. (2) and struck out former par. (2) which read as follows:
+Subsec. (e)(2). Pub. L. 101–508, §8013(c)(5)(B), added par. (2) and struck out former par. (2) which read as follows:
 
 “(A) A veteran is described in this paragraph for the purposes of subsection (a)(1) of this section if—
 
@@ -139,8 +131,6 @@ Subsec. (e)(2). Pub. L. 101–508, §8013(c)(5)(B), (e), temporarily added par. 
 &emsp;“(i) the veteran has an attributable income greater than the Category B threshold; and
 
 &emsp;“(ii) the current projections of such veteran's income for the current year are that the veteran's income for such year will be substantially below such threshold.”
-
-> See Effective and Termination Dates of 1990 Amendment note below.
 
 1988—Subsec. (g). Pub. L. 100–322 substituted “section” for “sections 610(b)(2) and”.
 
@@ -156,13 +146,13 @@ Subsec. (b). Pub. L. 94–581, §210(a)(9), substituted “such veteran's inabil
 
 1966—Pub. L. 89–612 inserted reference to section 632(b) of this title.
 
-#### Effective and Termination Dates of 1990 Amendment
+#### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 to remain in effect through the period covered by Pub. L. 102–145, see section 111 of Pub. L. 102–145, set out as a note under section 1710 of this title.
 
 Amendment by Pub. L. 101–508 to remain in effect through the period covered by Pub. L. 102–109, see section 111 of Pub. L. 102–109, set out as a note under section 1710 of this title.
 
-Amendment by Pub. L. 101–508 applicable with respect to hospital care and medical services received after Nov. 5, 1990, and expires Sept. 30, 1998, see section 8013(d) and (e) of Pub. L. 101–508, as amended, set out as a note under section 1710 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to hospital care and medical services received after Nov. 5, 1990, see section 8013(d) of Pub. L. 101–508, as amended, set out as a note under section 1710 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -2,7 +2,7 @@
 
 In determining the amount of any claim, the Commission shall deduct all amounts the claimant has received from any source on account of the same loss or losses.
 
-(Mar. 10, 1950, ch. 54, title V, §506, as added Oct. 16, 1964, Pub. L. 88–666, 78 Stat. 1112; amended Oct. 19, 1965, Pub. L. 89–262, §4, 79 Stat. 988.)
+(Mar. 10, 1950, ch. 54, title V, §506, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112; amended Pub. L. 89–262, §4, Oct. 19, 1965, 79 Stat. 988.)
 
 #### Amendments
 

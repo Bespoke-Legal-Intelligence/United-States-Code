@@ -18,7 +18,7 @@ A registrant that is subject to section 162(e) of title 26 may—
 
 #### (c) Disclosure of estimate
 
-Any registrant that elects to make estimates required by this chapter under the proceduresauthorized by subsection (a) or (b) of this section for reporting or threshold purposes shall—
+Any registrant that elects to make estimates required by this chapter under the procedures authorized by subsection (a) or (b) of this section for reporting or threshold purposes shall—
 
 &emsp;(1) inform the Secretary of the Senate and the Clerk of the House of Representatives that the registrant has elected to make its estimates under such procedures; and
 

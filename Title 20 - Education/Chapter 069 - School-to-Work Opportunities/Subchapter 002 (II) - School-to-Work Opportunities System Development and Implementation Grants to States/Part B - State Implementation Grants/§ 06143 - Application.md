@@ -8,11 +8,11 @@
 
 #### (2) Review and comment by certain individuals and entities
 
-&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) ofthis section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) of this section for the State plan described in subsection (d) of this section, then the Governor shall—
+&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) of this section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) of this section for the State plan described in subsection (d) of this section, then the Governor shall—
 
 &emsp;&emsp;(A) provide such individuals and entities with copies of such application;
 
-&emsp;&emsp;(B) allow such individuals and entities to submit to the Governor, not later than the end of the 30-day period beginning on the date on which the Governor provides such individuals and entities with copies of such application under subparagraph (A), comments on those portions of the plan that address matters that, under State or other applicable law, are under the jurisdiction of such individuals or entities; and
+&emsp;&emsp;(B) allow such individuals and entities to submit to the Governor, not later than the end of the 30-day period beginning on the date on which the Governor provides such individuals and entities with copies of suchapplication under subparagraph (A), comments on those portions of the plan that address matters that, under State or other applicable law, are under the jurisdiction of such individuals or entities; and
 
 &emsp;&emsp;(C) include any such comments in the application in accordance with subsection (b)(5) of this section.
 
@@ -164,7 +164,7 @@ Act of August 16, 1937, commonly known as the National Apprenticeship Act, refer
 
 The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(K), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (d)(6)(L), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (d)(6)(L), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
 
@@ -172,7 +172,7 @@ The National and Community Service Act of 1990, referred to in subsec. (d)(6)(L)
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

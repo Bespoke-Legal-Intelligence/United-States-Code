@@ -1,6 +1,6 @@
 ### §3372. General provisions
 
-(a) On request from or with the concurrence of a State or local government, and with the consent of the employee concerned, the head of aFederal agency may arrange for the assignment of—
+(a) On request from or with the concurrence of a State or local government, and with the consent of the employee concerned, the head of a Federal agency may arrange for the assignment of—
 
 &emsp;(1) an employee of his agency, other than a noncareer appointee, limited term appointee, or limited emergency appointee (as such terms are defined in section 3132(a) of this title) in the Senior Executive Service and an employee in a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character, to a State or local government; and
 

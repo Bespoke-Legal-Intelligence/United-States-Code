@@ -56,7 +56,7 @@ Recommendations for Promotion.—An officer covered by this section who, on the 
 
 “(b)
 
-Failures of Selection.—An officer covered by this section who, on the day before the effective date of this title is considered to have failed of selection for promotion one or more times under chapter 549 of title 10, United States Code, to a grade below captain, in the case of a reserve officer of the Navy, or to a grade below colonel, in the case of a reserve officer of the Marine Corps, shall be subject to chapters 1405 and 1407 of title 10, United States Code, as added by this title, as if such failure or failures had occurred under the provisions of those chapters.
+Failures of Selection.—An officer covered by this section who, on the day before the effective date of this title is considered to have failed of selection for promotion one or more times under chapter 549 of title 10, United States Code, to a grade below captain, in the case of a reserve officer of the Navy, or to a grade below colonel, in the case of a reserve officer of the Marine Corps, shall be subject to chapters 1405 and 1407 oftitle 10, United States Code, as added by this title, as if such failure or failures had occurred under the provisions of those chapters.
 
 “(c)
 

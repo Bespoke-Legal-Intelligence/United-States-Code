@@ -56,7 +56,7 @@ Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless
 
 #### Effective Date
 
-Section 309 of title III of Pub. L. 96–39 provided that: “The provisions of this title \[this subchapter\] shall be effective on the date of enactment of this Act \[July 26, 1979\], except that—
+Section 309 of title III of Pub. L. 96–39 provided that: “The provisions of this title \[this subchapter\] shall beeffective on the date of enactment of this Act \[July 26, 1979\], except that—
 
 &emsp;“(1) the authority of the President to grant waivers under section 303 \[section 2513 of this title\] shall be effective on January 1, 1980; and
 

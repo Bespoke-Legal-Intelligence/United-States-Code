@@ -12,7 +12,7 @@ Under such regulations as the President may prescribe and upon the recommendatio
 
 &emsp;(2) be attached to an organization of the Air Force corresponding to the organization of the Air National Guard to which the member belongs, for routine practical instruction at an air base during field training or other outdoor exercise.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 611; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(4), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 611; Pub. L. 100–456, div. A, title XII, §1234(b)(4), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 

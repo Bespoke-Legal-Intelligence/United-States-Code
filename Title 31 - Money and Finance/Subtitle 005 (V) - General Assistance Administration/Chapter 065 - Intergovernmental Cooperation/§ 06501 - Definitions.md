@@ -8,7 +8,7 @@ In this chapter—
 
 &emsp;&emsp;(B) provided by the United States Government through grant or contractual arrangements (including technical assistance programs providing assistance by loan, loan guarantee, or insurance); and
 
-&emsp;&emsp;(C) not an annual payment by the United States Government to the District of Columbia government under section 502 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 813, D.C. Code, §47–3406).
+&emsp;&emsp;(C) not an annual payment by the United States Government to the District of Columbia government under section 502 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 813, D.C. Code, §47–3406).
 
 &emsp;(2) “comprehensive planning” includes, to the extent directly related to area needs or needs of a unit of general local government—
 
@@ -66,7 +66,7 @@ In this chapter—
 
 &emsp;(10) “unit of general local government” means a county, city, town, village, or other general purpose political subdivision of a State.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1005; Pub. L. 97–452, §1(24), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 101–453, §§3, 5(a), Oct. 24, 1990, 104 Stat. 1058, 1059.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1005; Pub. L. 97–452, §1(24), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 101–453, §§3, 5(a), Oct. 24, 1990, 104 Stat. 1058, 1059; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
 
 Historical and Revision Notes<br>1982
 
@@ -116,7 +116,7 @@ Oct. 16, 1968, Pub. L. 90–577, §§101–107, 109, 110, 82 Stat. 1098, 1100, 1
 
 42:4201(4).
 
-In clause (1), the word “assistance” is substituted for “ ‘Federal assistance’, ‘Federal assistance programs’, or ‘federally assisted programs’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “the transfer of anything of value for a public purpose of support or stimulation that is (A) authorized by a law of the United States” are substituted for “programs that provide assistance” for consistency with section 6101(3) of the revised title. The words “section 502 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 813, D.C. Code §47–3406)” are substituted for “article VI of the District of Columbia Revenue Act of 1947 (D.C. Code secs. 47–2501a and 47–2501b)” because the former has superseded the latter.
+In clause (1), the word “assistance” is substituted for “ ‘Federal assistance’, ‘Federal assistance programs’, or ‘federally assisted programs’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “the transfer of anything of value for a public purpose of support or stimulation that is (A) authorized by a law of the United States” are substituted for “programs that provide assistance” for consistency with section 6101(3) of the revised title. The words “section 502 of the District of Columbia Self-Government and Governmental Reorganization Act (PublicLaw 93–198, 87 Stat. 813, D.C. Code §47–3406)” are substituted for “article VI of the District of Columbia Revenue Act of 1947 (D.C. Code secs. 47–2501a and 47–2501b)” because the former has superseded the latter.
 
 Clause (3) restates the source provisions because of the definition of “executive agency” in section 102 of the revised title.
 
@@ -146,6 +146,8 @@ The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle 
 
 #### Amendments
 
+1997—Par. (1)(C). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+
 1990—Par. (2)(B). Pub. L. 101–453, §3(1), substituted “subparagraph (A)” for “subclause (A) of this clause (2)”.
 
 Par. (2)(E). Pub. L. 101–453, §3(2), substituted “subparagraphs (A), (B), (C), and (D)” for “subclauses (A)–(D) of this clause (2)”.
@@ -158,11 +160,15 @@ Par. (7). Pub. L. 101–453, §5(a)(2), added par. (7). Former par. (7) redesign
 
 Par. (8). Pub. L. 101–453, §5(a)(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 101–453, §5(a)(1), (3), redesignated par. (8) as (9), added new text, and struck out former text which read as follows: “ ‘State’ means a State of the United States, the District of Columbia, a territory orpossession of the United States, and an agency or instrumentality of a State but does not mean a local government of a State.” Former par. (9) redesignated (10).
+Par. (9). Pub. L. 101–453, §5(a)(1), (3), redesignated par. (8) as (9), added new text, and struck out former text which read as follows: “ ‘State’ means a State of the United States, the District of Columbia, a territory or possession of the United States, and an agency or instrumentality of a State but does not mean a local government of a State.” Former par. (9) redesignated (10).
 
 Par. (10). Pub. L. 101–453, §5(a)(1), redesignated par. (9) as (10).
 
 1983—Par. (1)(B). Pub. L. 97–452 struck out “the law of” after “provided by”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1983 Amendment
 

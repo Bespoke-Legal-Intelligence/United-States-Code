@@ -6,7 +6,7 @@ The Board, as hereinafter provided, shall insure the member accounts of all Fede
 
 #### (b) Application; agreement
 
-Application for insurance of member accounts shall be made immediately by each Federal credit union and may be made at any time by a State credit union or a credit union operating under the jurisdiction of the Department of Defense. Applications for such insurance shall bein such form as the Board shall provide and shall contain an agreement by the applicant—
+Application for insurance of member accounts shall be made immediately by each Federal credit union and may be made at any time by a State credit union or a credit union operating under the jurisdiction of the Department of Defense. Applications for such insurance shall be in such form as the Board shall provide and shall contain an agreement by the applicant—
 
 &emsp;(1) to pay the reasonable cost of such examinations as the Board may deem necessary in connection with determining the eligibility of the applicant for insurance: <i>Provided</i>, That examinations required under subchapter I of this chapter shall be so conducted that the information derived therefrom may be utilized for share insurance purposes, and examinations conducted by State regulatory agencies shall be utilized by the Board for such purposes to the maximum extent feasible;
 
@@ -66,13 +66,13 @@ Upon the approval of any application for insurance, the Board shall notify the a
 
 &emsp;No provision of this subsection shall be construed as prohibiting any employee of a Government-sponsored enterprise from becoming a member of a credit union whose field of membership is the employees of such enterprise.
 
-(June 26, 1934, ch. 750, title II, §201, as added Oct. 19, 1970, Pub. L. 91–468, §1(3), 84 Stat. 994; amended Dec. 23, 1971, Pub. L. 92–221, §§1, 2, 85 Stat. 796, 797; Apr. 19, 1977, Pub. L. 95–22, title III, §301, 91 Stat. 49; Nov. 10, 1978, Pub. L. 95–630, title V, §§502(b), 504, 92 Stat. 3681, 3682; July 18, 1984, Pub. L. 98–369, div. B, title VIII, §2801, 98 Stat. 1203; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2615(a), 110 Stat. 3009–478.)
+(June 26, 1934, ch. 750, title II, §201, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 92–221, §§1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, §301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V, §§502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, §2801, July 18, 1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, §2615(a), Sept. 30, 1996, 110 Stat. 3009–478.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-Section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referredto in subsec. (e)(3), is section 1404(e)(1)(A) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
+Section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (e)(3), is section 1404(e)(1)(A) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
 #### Amendments
 

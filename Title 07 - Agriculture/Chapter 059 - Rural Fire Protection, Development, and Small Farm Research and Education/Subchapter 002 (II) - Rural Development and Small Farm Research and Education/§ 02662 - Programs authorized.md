@@ -12,7 +12,7 @@ Rural development research shall consist of research, investigations, and basic 
 
 #### (c) Small farm research programs
 
-Small farm research programs shall consist of programs of research to develop new approaches for initiating and upgrading small farm operations through management techniques, agricultural production techniques, farm machinery technology, new products, new marketing techniques, and small farm finance; to develop new enterprises that can use labor, skills, or natural resources available to the small farm family; orthat will help to increase the quality and availability of services and facilities needed by the small farm family.
+Small farm research programs shall consist of programs of research to develop new approaches for initiating and upgrading small farm operations through management techniques, agricultural production techniques, farm machinery technology, new products, new marketing techniques, and small farm finance; to develop new enterprises that can use labor, skills, or natural resources available to the small farm family; or that will help to increase the quality and availability of services and facilities needed by the small farm family.
 
 #### (d) Small farm extension programs
 
@@ -250,7 +250,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 #### Effect of Amendments on Current Grant Recipients
 
-Section 2389(d) of Pub. L. 101–624 provided that 8 States receiving grants under 7 U.S.C. 2662(f) during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amountwas to be used for clinical outreach counseling and crisis management assistance, prior to repeal by Pub. L. 104–127, title VII, §792(b)(1), Apr. 4, 1996, 100 Stat. 1152.
+Section 2389(d) of Pub. L. 101–624 provided that 8 States receiving grants under 7 U.S.C. 2662(f) during fiscal year 1990 could continue to be eligible to receive grants (in an amount not to exceed the amount received during that fiscal year) under that section notwithstanding that such grants be awarded competitively, so long as such States complied with requirement that not less than one-half of such grant amount was to be used for clinical outreach counseling and crisis management assistance, prior to repeal by Pub. L. 104–127, title VII, §792(b)(1), Apr. 4, 1996, 100 Stat. 1152.
 
 #### Rural Health Infrastructure Improvement
 

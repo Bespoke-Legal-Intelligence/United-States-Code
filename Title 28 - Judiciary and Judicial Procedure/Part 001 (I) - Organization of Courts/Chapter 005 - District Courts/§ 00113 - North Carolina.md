@@ -20,11 +20,11 @@ North Carolina is divided into three judicial districts to be known as the Easte
 
 &emsp;&emsp;Court for the Western District shall be held at Asheville, Bryson City, Charlotte, Shelby, and Statesville.
 
-(June 25, 1948, ch. 646, 62 Stat. 886; Nov. 2, 1965, Pub. L. 89–319, 79 Stat. 1186; Oct. 15, 1980, Pub. L. 96–462, §5(a)–(c), 94 Stat. 2053, 2054; Apr. 21, 1992, Pub. L. 102–272, 106 Stat. 112.)
+(June 25, 1948, ch. 646, 62 Stat. 886; Pub. L. 89–319, Nov. 2, 1965, 79 Stat. 1186; Pub. L. 96–462, §5(a)–(c), Oct. 15, 1980, 94 Stat. 2053, 2054; Pub. L. 102–272, Apr. 21, 1992, 106 Stat. 112.)
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §179 (Mar. 3, 1911, ch. 231, §98, 36 Stat. 1120; Oct. 7, 1914, ch. 318, 38 Stat. 728; Mar. 17, 1920, ch. 101, §1, 41 Stat. 531; June 7, 1924, ch. 359, §1, 43 Stat. 661; Dec. 24, 1924, ch. 18, 43 Stat. 721; June 12, 1926, ch. 566, 44 Stat. 734; June 22, 1926, ch. 645, 44 Stat. 758; June 22, 1926, ch. 646, 44 Stat. 758; Mar. 2, 1927, ch. 276, 44 Stat. 1339; Apr. 25, 1928, ch. 432, 45 Stat. 457; May 10, 1928, ch. 516, 45 Stat. 495; Feb. 20, 1933, ch. 107, 47 Stat. 859; Feb. 28, 1933, ch. 133, 47 Stat. 1350; June 28, 1935, ch. 330, §§1, 2, 49 Stat. 429; June 24, 1936, ch. 744,49 Stat. 1898; June 24, 1936, ch. 759, 49 Stat. 1910; Aug. 17, 1937, ch. 688, 50 Stat. 671).
+Based on title 28, U.S.C., 1940 ed., §179 (Mar. 3, 1911, ch. 231, §98, 36 Stat. 1120; Oct. 7, 1914, ch. 318, 38 Stat. 728; Mar. 17, 1920, ch. 101, §1, 41 Stat. 531; June 7, 1924, ch. 359, §1, 43 Stat. 661; Dec. 24, 1924, ch. 18, 43 Stat. 721; June 12, 1926, ch. 566, 44 Stat. 734; June 22, 1926, ch. 645, 44 Stat. 758; June 22, 1926, ch. 646, 44 Stat. 758; Mar. 2, 1927, ch. 276, 44 Stat. 1339; Apr. 25, 1928, ch. 432, 45 Stat. 457; May 10, 1928, ch. 516, 45 Stat. 495; Feb. 20, 1933, ch. 107, 47 Stat. 859; Feb. 28, 1933, ch. 133, 47 Stat. 1350; June 28, 1935, ch. 330, §§1, 2, 49 Stat. 429; June 24, 1936, ch. 744, 49 Stat. 1898; June 24, 1936, ch. 759, 49 Stat. 1910; Aug. 17, 1937, ch. 688, 50 Stat. 671).
 
 References to civil and criminal terms at Raleigh were omitted as more properly the subject of rule of court.
 
@@ -42,15 +42,15 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–272, which directed the amendment of subsec. (a) by striking out “Clinton,” and “Washington,” and inserting “Greenville,” after “Fayetteville,”, was executed to the second sentence to reflect the probable intent of Congress.
+<b>1992</b>—Subsec. (a). Pub. L. 102–272, which directed the amendment of subsec. (a) by striking out “Clinton,” and “Washington,” and inserting “Greenville,” after “Fayetteville,”, was executed to the second sentence to reflect the probable intent of Congress.
 
-1980—Subsec. (a). Pub. L. 96–462, §5(a), added that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina to the Eastern District.
+<b>1980</b>—Subsec. (a). Pub. L. 96–462, §5(a), added that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina to the Eastern District.
 
 Subsec. (b). Pub. L. 96–462, §5(b), struck out references to Alleghany, Ashe, Watauga, and Wilkes counties in the list of counties comprising the Middle District; inserted “(excluding that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina)” in first sentence as the probable intent of Congress; and struck out Rockingham, Salisbury, and Wilkesboro as places for holding court.
 
 Subsec. (c). Pub. L. 96–462, §5(c), added Alleghany, Ashe, Watauga, and Wilkes counties to the Western District.
 
-1965—Pub. L. 89–319 provided for holding court at Clinton.
+<b>1965</b>—Pub. L. 89–319 provided for holding court at Clinton.
 
 #### Effective Date of 1980 Amendment; Savings Provisions
 

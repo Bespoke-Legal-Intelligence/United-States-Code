@@ -34,7 +34,7 @@ Plans developed in accordance with this section shall—
 
 &emsp;(3) be prepared by an interdisciplinary team. Each team shall prepare its plan based on inventories of the applicable resources of the forest;
 
-&emsp;(4) be amended in any manner whatsoever after final adoption after public notice, and, if such amendment would result in a significant change in such plan, in accordance with the provisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section; and
+&emsp;(4) be amended in any manner whatsoever after final adoption after public notice, and, if such amendment would result in a significant change in such plan, in accordance with theprovisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section; and
 
 &emsp;(5) be revised (A) from time to time when the Secretary finds conditions in a unit have significantly changed, but at least every fifteen years, and (B) in accordance with the provisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section.
 
@@ -70,7 +70,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 &emsp;&emsp;&emsp;(iii) protection is provided for streams, streambanks, shorelines, lakes, wetlands, and other bodies of water from detrimental changes in water temperatures, blockages of water courses, and deposits of sediment, where harvests are likely to seriously and adversely affect water conditions or fish habitat; and
 
-&emsp;&emsp;&emsp;(iv) the harvesting system to be used is not selected primarily because it will givethe greatest dollar return or the greatest unit output of timber; and
+&emsp;&emsp;&emsp;(iv) the harvesting system to be used is not selected primarily because it will give the greatest dollar return or the greatest unit output of timber; and
 
 &emsp;&emsp;(F) insure that clearcutting, seed tree cutting, shelterwood cutting, and other cuts designed to regenerate an evenaged stand of timber will be used as a cutting method on National Forest System lands only where—
 
@@ -120,7 +120,7 @@ The Secretary shall establish—
 
 &emsp;(2) exceptions to these standards for the harvest of particular species of trees in management units after consideration has been given to the multiple uses of the forest including, but not limited to, recreation, wildlife habitat, and range and after completion of public participation processes utilizing the procedures of subsection (d) of this section.
 
-(Pub. L. 93–378, §6, formerly, §5, Aug. 17, 1974, 88 Stat. 477, renumbered §6 and amended Pub. L. 94–588, §§2, 6, 12(a), Oct. 22, 1976, 90 Stat. 2949, 2952, 2958.)
+(Pub. L. 93–378, §6, formerly, §5, Aug. 17, 1974, 88 Stat. 477, renumbered §6 and amended Pub. L.94–588, §§2, 6, 12(a), Oct. 22, 1976, 90 Stat. 2949, 2952, 2958.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ Regulations Replacing Certain Programs.—The Secretary, in cooperation with the
 
 (b)
 
-Factors To Be Considered.—In conducting the rulemaking under subsection (a), the Secretary shall, at a minimum, consider the following factors:
+Factors To Be Considered.—In conducting the rulemaking under subsection (a), theSecretary shall, at a minimum, consider the following factors:
 
 &emsp;(1) Funding for State enforcement of motor carrier safety regulations.
 

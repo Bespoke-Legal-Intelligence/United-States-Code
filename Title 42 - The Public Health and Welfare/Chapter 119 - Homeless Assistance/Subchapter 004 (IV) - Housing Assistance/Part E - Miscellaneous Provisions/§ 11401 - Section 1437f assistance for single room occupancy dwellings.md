@@ -84,7 +84,7 @@ Section 1437f(e)(2) of this title, referred to in subsec. (a), was repealed effe
 
 #### Amendments
 
-1996—Subsec. (g). Pub. L. 104–330, §506(a)(8)(A), struck out heading and text of subsec. (g). Text read as follows: “Amounts made available for assistance under this section shall be available through contracts between the Secretary and Indian housing authorities, and the provisions of this section regarding public housing authorities shall include and apply to Indian housing authorities.”
+1996—Subsec. (g). Pub. L. 104–330, §506(a)(8)(A), struck out heading and text of subsec. (g). Text read as follows: “Amounts made available for assistance under this section shall be available through contracts between the Secretary and Indian housing authorities, and the provisions of this section regarding publichousing authorities shall include and apply to Indian housing authorities.”
 
 Subsec. (h). Pub. L. 104–330, §506(a)(8)(B), struck out “or Indian housing authority” after “public housing agency”.
 

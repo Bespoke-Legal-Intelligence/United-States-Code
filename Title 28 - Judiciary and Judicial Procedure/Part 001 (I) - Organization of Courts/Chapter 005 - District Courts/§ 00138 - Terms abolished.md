@@ -2,7 +2,7 @@
 
 The district court shall not hold formal terms.
 
-(June 25, 1948, ch. 646, 62 Stat. 897; Oct. 16, 1963, Pub. L. 88–139, §1, 77 Stat. 248.)
+(June 25, 1948, ch. 646, 62 Stat. 897; Pub. L. 88–139, §1, Oct. 16, 1963, 77 Stat. 248.)
 
 #### Historical and Revision Notes
 
@@ -10,5 +10,5 @@ This section was substituted for a number of special provisions fixing stated ti
 
 #### Amendments
 
-1963—Pub. L. 88–139 substituted “The district court shall not hold formal terms” for “The times for holding regular terms of court at the places fixed by this chapter shall be determined by rule of the district court” in text, and “Terms abolished” for “Times for holding regular terms” in section catchline.
+<b>1963</b>—Pub. L. 88–139 substituted “The district court shall not hold formal terms” for “The times for holding regular terms of court at the places fixed by this chapter shall be determined by rule of the district court” in text, and “Terms abolished” for “Times for holding regular terms” in section catchline.
 

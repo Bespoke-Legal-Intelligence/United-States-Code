@@ -2,7 +2,7 @@
 
 An applicant dissatisfied with the decision in an appeal to the Board of Patent Appeals and Interferences under section 134 of this title may appeal the decision to the United States Court of Appeals for the Federal Circuit. By filing such an appeal the applicant waives his or her right to proceed under section 145 of this title. A party to an interference dissatisfied with the decision of the Board of Patent Appeals and Interferences on the interference may appeal the decision to the United States Court of Appeals for the Federal Circuit, but such appeal shall be dismissed if any adverse party to such interference, within twenty days after the appellant has filed notice of appeal in accordance with section 142 of this title, files notice with the Commissioner that the party elects to have all further proceedings conducted as provided in section 146 of this title. If the appellant does not, within thirty days after the filing of such notice by the adverse party, file a civil action under section 146, the decision appealed from shall govern the further proceedings in the case.
 
-(July 19, 1952, ch. 950, 66 Stat. 802; Apr. 2, 1982, Pub. L. 97–164, title I, §163(a)(7), (b)(2), 96 Stat. 49, 50; Nov. 8, 1984, Pub. L. 98–622, title II, §203(a), 98 Stat. 3387.)
+(July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 97–164, title I, §163(a)(7), (b)(2), Apr. 2, 1982, 96 Stat. 49, 50; Pub. L. 98–622, title II, §203(a), Nov. 8, 1984, 98 Stat. 3387.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,7 @@ Changes in language are made.
 
 #### Amendments
 
-1984—Pub. L. 98–622, §203(a)(1)(A), substituted “in an appeal to the Board of Patent Appeals and Interferences under section 134 of this title may appeal the decision” for “of the Board of Patent Appeals may appeal” in first sentence.
+1984—Pub. L. 98–622, §203(a)(1)(A), substituted “in an appeal to the Board of Patent Appeals and Interferences under section 134 of this title may appeal thedecision” for “of the Board of Patent Appeals may appeal” in first sentence.
 
 Pub. L. 98–622, §203(a)(1)(B), substituted “. By filing such an appeal the applicant waives his or her right” for “, thereby waiving his right” in first sentence.
 

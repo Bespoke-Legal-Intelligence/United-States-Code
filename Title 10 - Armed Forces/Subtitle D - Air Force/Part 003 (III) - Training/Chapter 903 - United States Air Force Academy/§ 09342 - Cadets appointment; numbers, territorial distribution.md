@@ -20,7 +20,7 @@
 
 &emsp;(9) One cadet from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
-&emsp;(10) One cadet from the Commonwealth of the Northern Marianas <sup>1</sup> Islands, nominated by the resident representative from the commonwealth.
+&emsp;(10) One cadet from the Commonwealth of the Northern Mariana Islands, nominated by the resident representative from the commonwealth.
 
 > Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.
 
@@ -42,7 +42,7 @@
 
 &emsp;(5) 150 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to section 9343 of this title) from qualified alternates nominated by persons named in clauses (3) and (4) of subsection (a).
 
-(c) The President may also appoint as cadets at the Academy children of persons who have been awarded the Medal of Honor for acts performed while in the armed forces.
+(c) The President may also appoint as cadets at the Academy children of persons who havebeen awarded the Medal of Honor for acts performed while in the armed forces.
 
 (d) The Superintendent may nominate for appointment each year 50 persons from the country at large. Persons nominated under this paragraph may not displace any appointment authorized under clauses (2) through (9) of subsection (a) and may not cause the total strength of Air Force Cadets to exceed the authorized number.
 
@@ -76,7 +76,7 @@
 
 (h) The Secretary of the Air Force shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 563; Sept. 14, 1962, Pub. L. 87–663, §1(5), (6), 76 Stat. 547; Mar. 3, 1964, Pub. L. 88–276, §4(1), 78 Stat. 151; Oct. 13, 1966, Pub. L. 89–650, §1(1)–(3), (5), 80 Stat. 896; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Oct. 22, 1968, Pub. L. 90–623, §2(8), 82 Stat. 1314; Sept. 22, 1970, Pub. L. 91–405, title II, §204(c), 84 Stat. 852; Aug. 7, 1972, Pub. L. 92–365, §1(3), 86 Stat. 505; Nov. 29, 1973, Pub. L. 93–171, §3(1)–(4), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(1), 89 Stat. 538; Dec. 12, 1980, Pub. L. 96–513, title V, §514(11), 94 Stat. 2935; Dec. 24, 1980, Pub. L. 96–600, §2(c), 94 Stat. 3493; Oct. 14, 1981, Pub. L. 97–60, title II, §203(c)(1), 95 Stat. 1006; Sept. 24, 1983, Pub. L. 98–94, title X, §1005(a)(3), (b)(3), 97 Stat. 660, 661; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(c)(1), 104 Stat. 1563; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §531, 107 Stat. 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1674(c)(3), 108 Stat. 3017; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §532(c), title XV, §1502(a)(1), 110 Stat. 315, 502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 563; Sept. 14, 1962, Pub. L. 87–663, §1(5), (6), 76 Stat. 547; Mar. 3, 1964, Pub. L. 88–276, §4(1), 78 Stat. 151; Oct. 13, 1966, Pub. L. 89–650, §1(1)–(3), (5), 80 Stat. 896; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Oct. 22, 1968, Pub. L. 90–623, §2(8), 82 Stat. 1314; Sept. 22, 1970, Pub. L. 91–405, title II, §204(c), 84 Stat. 852; Aug. 7, 1972, Pub. L. 92–365, §1(3), 86 Stat. 505; Nov. 29, 1973, Pub. L. 93–171, §3(1)–(4), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(1), 89 Stat. 538; Dec. 12, 1980, Pub. L. 96–513, title V, §514(11), 94 Stat. 2935; Dec. 24, 1980, Pub. L. 96–600, §2(c), 94 Stat. 3493; Oct. 14, 1981, Pub. L. 97–60, title II, §203(c)(1), 95 Stat. 1006; Sept. 24, 1983, Pub. L. 98–94, title X, §1005(a)(3), (b)(3), 97 Stat. 660, 661; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(c)(1), 104 Stat. 1563; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §531, 107 Stat. 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1674(c)(3), 108 Stat. 3017; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §532(c), title XV, §1502(a)(1), 110 Stat. 315, 502; Nov. 18, 1997, Pub. L. 105–85, div. A, title X, §1073(a)(62), 111 Stat. 1903.)
 
 Historical and Revision Notes
 
@@ -154,11 +154,11 @@ In subsection (b), the words “from whatever source of admission”, in 10:1092
 
 In subsection (c), the first 15 words are substituted for the words “all of which cadets shall be”. The words “domiciled in” are substituted for the words “actual residents of” to conform to opinions of the Judge Advocate General of the Army (R. 29, 83; J.A.G. 351.11, Feb. 10, 1925).
 
-In subsection (e)(4), the words “armed forces” are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words “such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38”. The words “including male and female members of \* \* \* and all components thereof” are omitted as surplusage.
+In subsection (e)(4), the words “armed forces” are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words “such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38”. The words“including male and female members of \* \* \* and all components thereof” are omitted as surplusage.
 
 In subsection (f), the words “whether a death is service-connected” are substituted for the words “as to the service connection of the cause of death”.
 
-In subsection (g), the words “(National Guard of the United States, the Air National Guard of the UnitedStates and Army Reserve, and the Air Force Reserve)”, “Regular components”, “by members of the National Guard of the United States, and the Air National Guard of the United States”, and “established at the competitive entrance examination” are omitted as surplusage. The word “grades” is substituted for the words “proficiency averages”.
+In subsection (g), the words “(National Guard of the United States, the Air National Guard of the United States and Army Reserve, and the Air Force Reserve)”, “Regular components”, “by members of the National Guard of the United States, and the Air National Guard of the United States”, and “established at the competitive entrance examination” are omitted as surplusage. The word “grades” is substituted for the words “proficiency averages”.
 
 In subsection (h), the words “or shall hereafter be” are omitted as surplusage.
 
@@ -167,6 +167,8 @@ In subsection (h), the words “or shall hereafter be” are omitted as surplusa
 Section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (b)(1)(B), means section 1331 of this title prior to its renumbering as section 12731 of this title and its general revision by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 2999. A new section 1331 was added by section 1662(j)(7) of Pub. L. 103–337.
 
 #### Amendments
+
+1997—Subsec. (a)(10). Pub. L. 105–85 substituted “Mariana” for “Marianas”.
 
 1996—Subsec. (a)(10). Pub. L. 104–106, §532(c), added par. (10).
 
@@ -220,7 +222,7 @@ Subsec. (b)(1). Pub. L. 89–650, §1(3), increased number of Presidential appoi
 
 Subsec. (b)(3). Pub. L. 89–650, §1(5), substituted “reserve components of the Air Force” for “the Air Force Reserve”.
 
-1964—Pub. L. 88–276 amended section generally, and among other changes, in the noncompetitive appointments, increased the number of cadets nominated by the Vice President from three to five, each Senator, Representative and Delegate from 4 to 5, and the Commissioner of Puerto Rico from 4 to 5, authorized the Governor of Puerto Rico to appoint one cadet, each Senator, Representative and Delegate to nominate a principal and five alternates for each vacancy, and, in the competitive appointments, permitted the President to appoint 75 cadets annually from the sons of members of the Regular components, instead of a cumulative total of 89, the Secretary of the Air Force to appoint 85 cadets annually from enlisted members of the Regular Air Force, instead of a cumulative total of 90, 85 annually from enlisted members of the Air Force Reserve, instead of a cumulative total of 90, 20 annually from honor graduates of designated honor schools and the A.F.R.O.T.C., instead of a cumulative total of 40 from honor schools only, 150 annually, in order of merit, from among the qualified alternates nominated by Members of Congress, and when the quota of cadets selected under subsec. (b)(1), (2), (3) is not filled, to fill the vacancies by appointing those best qualified fromany of the three sources, decreased the number of cadets nominated by the Commissioners of the District of Columbia from 6 to 5, and by the Governor of the Panama Canal from 2 to 1, limited appointments to the number that can be adequately accommodated at the Academy, within the limitation that congressional appointments cannot be limited to less than four, and if limited, a priority of selection is established for the other categories, and, beginning in 1964, the Secretary may upon request of a Member of Congress, furnish him the name of any nominating authority responsible for the nomination of any identified person to the Academy.
+1964—Pub. L. 88–276 amended section generally, and among other changes, in the noncompetitive appointments, increased the number of cadets nominated by the Vice President from three to five, each Senator, Representative and Delegate from 4 to 5, and the Commissioner of Puerto Rico from 4 to 5, authorized the Governor of Puerto Rico to appoint one cadet, each Senator, Representative and Delegate to nominate a principal and five alternates for each vacancy, and, in the competitive appointments, permitted the President to appoint 75 cadets annually from the sons of members of the Regular components, instead of a cumulative total of 89, the Secretary of the Air Force to appoint 85 cadets annually from enlisted members of the Regular Air Force, instead of a cumulative total of 90, 85 annually from enlisted members of the Air Force Reserve, instead of a cumulative total of 90, 20 annually from honor graduates of designated honor schools and the A.F.R.O.T.C., instead of a cumulative total of 40 from honor schools only, 150 annually, in order of merit, from among the qualified alternates nominated by Members of Congress, and when the quota of cadets selected under subsec. (b)(1), (2), (3) is not filled, to fill the vacancies by appointing those best qualified from any of the three sources, decreased the number of cadets nominated by the Commissioners of the District of Columbia from 6 to 5, and by the Governor of the Panama Canal from 2 to 1, limited appointments to the number that can be adequately accommodated at the Academy, within the limitation that congressional appointments cannot be limited to less than four, and if limited, a priority of selection is established for the other categories, and, beginning in 1964, the Secretary may upon request of a Member of Congress, furnish him the name of any nominating authority responsible for the nomination of any identified person to the Academy.
 
 1962—Subsec. (a)(10). Pub. L. 87–663, §1(5), added cl. (10).
 
@@ -275,6 +277,4 @@ Effect upon enlisted status of acceptance of appointment as cadet, see section 5
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 9343, 9344 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Mariana”.</i>
 

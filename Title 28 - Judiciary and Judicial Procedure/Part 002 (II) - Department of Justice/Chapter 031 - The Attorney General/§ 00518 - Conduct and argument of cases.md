@@ -12,7 +12,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 309.
 
@@ -22,11 +24,11 @@ The words “and writs of error” are omitted on authority of the Act of Jan. 3
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court or in the United States Court of Appeals for the Federal Circuit” for “Court of Claims”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court or in the United States Court of Appeals for the Federal Circuit” for “Court of Claims”.
 
-1980—Subsec. (a). Pub. L. 96–417 required the Attorney General and the Solicitor General to conduct and argue suits in the Court of International Trade.
+<b>1980</b>—Subsec. (a). Pub. L. 96–417 required the Attorney General and the Solicitor General to conduct and argue suits in the Court of International Trade.
 
 #### Effective Date of 1992 Amendment
 

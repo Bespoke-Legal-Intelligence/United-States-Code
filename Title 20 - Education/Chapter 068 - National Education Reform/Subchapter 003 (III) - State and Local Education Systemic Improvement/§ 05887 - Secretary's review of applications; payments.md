@@ -24,7 +24,7 @@ The Secretary shall approve the State educational agency's second year applicati
 
 For any fiscal year for which a State has an approved application under this subchapter, the Secretary shall provide an allotment to the State educational agency in the amount determined under section 5884(b) of this title.
 
-(Pub. L. 103–227, title III, §307, Mar. 31, 1994, 108 Stat. 167; Pub. L. 104–134, title I, §101(d) \[titleVII, §705(c)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–227, title III, §307, Mar. 31, 1994, 108 Stat. 167; Pub. L. 104–134, title I, §101(d) \[title VII, §705(c)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Amendments
 

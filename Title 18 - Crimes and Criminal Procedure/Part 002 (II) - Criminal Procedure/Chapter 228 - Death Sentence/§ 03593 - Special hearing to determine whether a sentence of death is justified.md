@@ -32,7 +32,7 @@ Hearing Before a Court or Jury.—If the attorney for the government has filed a
 
 (c)
 
-Proof of Mitigating and Aggravating Factors.—Notwithstanding rule 32(c) of the Federal Rules of Criminal Procedure, when a defendant is found guilty or pleads guilty to an offense under section 3591, no presentence report shall be prepared. At the sentencing hearing, information may be presented as to any matter relevant to the sentence, including any mitigating or aggravating factor permitted or required to be considered under section 3592. Information presented may include the trial transcript and exhibits if the hearing is held before a jury or judge not present during the trial, or at the trialjudge's discretion. The defendant may present any information relevant to a mitigating factor. The government may present any information relevant to an aggravating factor for which notice has been provided under subsection (a). Information is admissible regardless of its admissibility under the rules governing admission of evidence at criminal trials except that information may be excluded if its probative value is outweighed by the danger of creating unfair prejudice, confusing the issues, or misleading the jury. The government and the defendant shall be permitted to rebut any information received at the hearing, and shall be given fair opportunity to present argument as to the adequacy of the information to establish the existence of any aggravating or mitigating factor, and as to the appropriateness in the case of imposing a sentence of death. The government shall open the argument. The defendant shall be permitted to reply. The government shall then be permitted to reply in rebuttal. The burden of establishing the existence of any aggravating factor is on the government, and is not satisfied unless the existence of such a factor is established beyond a reasonable doubt. The burden of establishing the existence of any mitigating factor is on the defendant, and is not satisfied unless the existence of such a factor is established by a preponderance of the information.
+Proof of Mitigating and Aggravating Factors.—Notwithstanding rule 32(c) <sup>1</sup> of the Federal Rules of Criminal Procedure, when a defendant is found guilty or pleads guilty to an offense under section 3591, no presentence report shall be prepared. At the sentencing hearing, information may be presented as to any matter relevant to the sentence, including any mitigating or aggravating factor permitted or required to be considered under section 3592. Information presented may include the trial transcript and exhibits if the hearing is held before a jury or judge not present during the trial, or at the trial judge's discretion. The defendant may present any information relevant to a mitigating factor. The government may present any information relevant to an aggravating factor for which notice has been provided under subsection (a). Information is admissible regardless of its admissibility under the rules governing admission of evidence at criminal trials except that information may be excluded if its probative value is outweighed by the danger of creating unfair prejudice, confusing the issues, or misleading the jury. For the purposes of the preceding sentence, the fact that a victim, as defined in section 3510, attended or observed the trial shall not be construed to pose a danger of creating unfair prejudice, confusing the issues, or misleading the jury. The government and the defendant shall be permitted to rebut any information received at the hearing, and shall be given fair opportunity to present argument as to the adequacy of the information to establish the existence of any aggravating or mitigating factor, and as to the appropriateness in the case of imposing a sentence of death. The government shall open the argument. The defendant shall be permitted to reply. The government shall then be permitted to reply in rebuttal. The burden of establishing the existence of any aggravating factor is on the government, and is not satisfied unless the existence of such a factor is established beyond a reasonable doubt. The burden of establishing the existence of any mitigating factor is on the defendant, and is not satisfied unless the existence of such a factor is established by a preponderance of the information.
 
 (d)
 
@@ -54,13 +54,23 @@ Return of a Finding Concerning a Sentence of Death.—If, in the case of—
 
 Special Precaution To Ensure Against Discrimination.—In a hearing held before a jury, the court, prior to the return of a finding under subsection (e), shall instruct the jury that, in considering whether a sentence of death is justified, it shall not consider the race, color, religious beliefs, national origin, or sex of the defendant or of any victim and that the jury is not to recommend a sentence of death unless it has concluded that it would recommend a sentence of death for the crime in question no matter what the race, color, religious beliefs, national origin, or sex of the defendant or of any victim may be. The jury, upon return of a finding under subsection (e), shall also return to the court a certificate, signed by each juror, that consideration of the race, color, religious beliefs, national origin, or sex of the defendant or any victim was not involved in reaching his or her individual decision and that the individual juror would have made the same recommendation regarding a sentence for the crime in question no matter what the race, color, religious beliefs, national origin, or sex of the defendant or any victim may be.
 
-(Added Pub. L. 103–322, title VI, §60002(a), Sept. 13, 1994, 108 Stat. 1964.)
+(Added Pub. L. 103–322, title VI, §60002(a), Sept. 13, 1994, 108 Stat. 1964; amended Pub. L. 105–6, §2(c), Mar. 19, 1997, 111 Stat. 12.)
 
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix to this title.
 
+#### Amendments
+
+1997—Subsec. (c). Pub. L. 105–6 inserted “For the purposes of the preceding sentence, the fact that a victim, as defined in section 3510, attended or observed the trial shall not be construed to pose a danger of creating unfair prejudice, confusing the issues, or misleading the jury.”
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–6 applicable to cases pending on Mar. 19, 1997, see section 2(d) of Pub. L. 105–6, set out as an Effective Date note under section 3510 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3591, 3594, 3595 of this title.
+This section is referred to in sections 3510, 3591, 3594, 3595 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “32(b)”.</i>
 

@@ -20,7 +20,7 @@ There is established in the Office of the Secretary of State the position of Omb
 
 #### (d) “Civil Service employees” defined
 
-For purposes of this section, the term “Civil Service employees” means employees of theFederal Government except for members of the Foreign Service (as defined in section 103 of the Foreign Service Act of 1980 \[22 U.S.C. 3903\]).
+For purposes of this section, the term “Civil Service employees” means employees of the Federal Government except for members of the Foreign Service (as defined in section 103 of the Foreign Service Act of 1980 \[22 U.S.C. 3903\]).
 
 (Pub. L. 100–204, title I, §172, Dec. 22, 1987, 101 Stat. 1359.)
 

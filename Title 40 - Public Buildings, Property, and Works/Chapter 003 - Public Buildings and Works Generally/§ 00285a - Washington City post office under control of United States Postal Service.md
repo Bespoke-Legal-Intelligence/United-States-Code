@@ -1,8 +1,8 @@
 ### §285a. Washington City post office under control of United States Postal Service
 
-The United States Postal Service shall have exclusive jurisdiction, control, and custody of the Washington City post office and the additions thereto, located at North Capitol Street and Massachusetts Avenue, to be operated and maintained by it the same as other public buildings under its custody and control.
+The United States Postal Service shall have exclusive jurisdiction, control, and custody of the Washington City post office and the additions thereto, located at North Capitol Streetand Massachusetts Avenue, to be operated and maintained by it the same as other public buildings under its custody and control.
 
-(Mar. 1, 1933, ch. 162, 47 Stat. 1419; Ex. Ord. No. 6166, §1, eff. June 10, 1933; Aug. 12, 1970, Pub. L. 91–375, §§4(a), 6(<i>o</i>), 84 Stat. 773, 783.)
+(Mar. 1, 1933, ch. 162, 47 Stat. 1419; Ex. Ord. No. 6166, §1, eff. June 10, 1933; Pub. L. 91–375, §§4(a), 6(<i>o</i>), Aug. 12, 1970, 84 Stat. 773, 783.)
 
 #### Change of Name
 

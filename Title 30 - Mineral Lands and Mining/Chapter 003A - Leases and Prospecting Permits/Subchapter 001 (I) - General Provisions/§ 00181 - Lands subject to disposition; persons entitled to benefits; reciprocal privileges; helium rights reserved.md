@@ -10,7 +10,7 @@ The term “special tar sand area” means (1) an area designated by the Secreta
 
 The United States reserves the ownership of and the right to extract helium from all gas produced from lands leased or otherwise granted under the provisions of this chapter, under such rules and regulations as shall be prescribed by the Secretary of the Interior: <i>Provided further</i>, That in the extraction of helium from gas produced from such lands it shall be so extracted as to cause no substantial delay in the delivery of gas produced from the well to the purchaser thereof.
 
-(Feb. 25, 1920, ch. 85, §1, 41 Stat. 437; Feb. 7, 1927, ch. 66, §5, 44 Stat. 1058; Aug. 8, 1946, ch. 916, §1, 60 Stat. 950; Sept. 2, 1960, Pub. L. 86–705, §7(a), 74 Stat. 790; Nov. 16, 1981, Pub. L. 97–78, §1(1), (4), 95 Stat. 1070.)
+(Feb. 25, 1920, ch. 85, §1, 41 Stat. 437; Feb. 7, 1927, ch. 66, §5, 44 Stat. 1058; Aug. 8, 1946, ch. 916, §1, 60 Stat. 950; Pub. L. 86–705, §7(a), Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, §1(1), (4), Nov. 16, 1981, 95 Stat. 1070.)
 
 #### References in Text
 

@@ -8,7 +8,7 @@ General Definitions.—In this part—
 
 &emsp;(2) “air carrier” means a citizen of the United States undertaking by any means, directly or indirectly, to provide air transportation.
 
-&emsp;(3) “air commerce” means foreign air commerce, interstate air commerce, the transportation of mail by aircraft, the operation of aircraft within the limits of a Federal airway, or the operation of aircraft that directly affects,or may endanger safety in, foreign or interstate air commerce.
+&emsp;(3) “air commerce” means foreign air commerce, interstate air commerce, the transportation of mail by aircraft, the operation of aircraft within the limits of a Federal airway, or the operation of aircraft that directly affects, or may endanger safety in, foreign or interstate air commerce.
 
 &emsp;(4) “air navigation facility” means a facility used, available for use, or designed for use, in aid of air navigation, including—
 
@@ -142,9 +142,11 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(A) means an aircraft—
 
-&emsp;&emsp;&emsp;(i) used only for the United States Government; or
+&emsp;&emsp;&emsp;(i) used only for the United States Government;
 
-&emsp;&emsp;&emsp;(ii) owned and operated (except for commercial purposes), or exclusively leased for at least 90 continuous days, by a government (except the United States Government), including a State, the District of Columbia, or a territory or possession of the United States, or political subdivision of that government; but
+&emsp;&emsp;&emsp;(ii) owned by the United States Government and operated by any person for purposes related to crew training, equipment development, or demonstration; or
+
+&emsp;&emsp;&emsp;(iii) owned and operated (except for commercial purposes), or exclusively leased for at least 90 continuous days, by a government (except the United States Government), including a State, the District of Columbia, or a territory or possession of the United States, or political subdivision of that government; but
 
 &emsp;&emsp;(B) does not include a government-owned aircraft—
 
@@ -166,7 +168,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) as the representative of the State before the Secretary of Transportation in any matter about which the Secretary is required to consult with or consider the views of a State authority under subpart II of this part.
 
-&emsp;(40) “ticket agent” means a person (except an air carrier, a foreign air carrier, or an employee of an air carrier or foreign air carrier)that as a principal or agent sells, offers for sale, negotiates for, or holds itself out as selling, providing, or arranging for, air transportation.
+&emsp;(40) “ticket agent” means a person (except an air carrier, a foreign air carrier, or an employee of an air carrier or foreign air carrier) that as a principal or agent sells, offers for sale, negotiates for, or holds itself out as selling, providing, or arranging for, air transportation.
 
 &emsp;(41) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States, including the territorial sea and the overlying airspace.
 
@@ -174,7 +176,7 @@ General Definitions.—In this part—
 
 Limited Definition.—In subpart II of this part, “control” means control by any means.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641.)
 
 Historical and Revision Notes
 
@@ -439,6 +441,8 @@ Subsection (b) is substituted for 49 App.:1383 to eliminate unnecessary words.
 This makes a conforming amendment for consistency with the style of title 49.
 
 #### Amendments
+
+1997—Subsec. (a)(37)(A). Pub. L. 105–137 struck out “or” at end of cl. (i), added cl. (ii), and redesignated former cl. (ii) as (iii).
 
 1994—Subsec. (a)(30). Pub. L. 103–429 substituted “this subpart and subpart III” for “subparts I and III”.
 

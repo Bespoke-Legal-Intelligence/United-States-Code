@@ -44,7 +44,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 &emsp;&emsp;(i) shall not be included in the dutiable value of such article, and
 
-&emsp;&emsp;(ii) may be applied toward determining the percentage referred to in General Note7(b)(i)(B) of the HTS, subject to the limitation provided in that note.
+&emsp;&emsp;(ii) may be applied toward determining the percentage referred to in General Note 7(b)(i)(B) of the HTS, subject to the limitation provided in that note.
 
 &emsp;(B) No article (except a textile or apparel product) assembled in whole of components described in subparagraph (A), or of such components and components that are products of the United States, in a beneficiary country as defined in General Note 7(a) of the HTS shall be treated as a foreign article, or as subject to duty if—
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Conducting Proceedings.—Subject to subchapter II of chapter 5 of title 5, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may conduct proceedings in a way conducive to justice and the proper dispatch of business.
+Conducting Proceedings.—Subject to subchapter II of chapter 5 of title 5, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect toaviation safety duties and powers designated to be carried out by the Administrator) may conduct proceedings in a way conducive to justice and the proper dispatch of business.
 
 (b)
 
@@ -84,7 +84,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In subsection (a), the cross-reference to chapter 7 of title 5 is omitted as unnecessary.
 
-In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma) is omitted as obsolete. The words “National Transportation Safety Board”were substituted for “Board” in 49 App.:1481 (4th sentence) because 49 App.:1655(d) transferred all functions, duties, and powers of the Civil Aeronautics Board under titles VI and VII of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 775) to the Secretary of Transportation to be carried out through the former National Transportation Safety Board in the Department of Transportation. Title VI includes sections 602 and 609 \[49 App.:1422, 1429\], that provide for appeals to the Civil Aeronautics Board (subsequently transferred to the National Transportation Safety Board), and section 611(e) \[49 App.:1431(e)\], that provides for appeals to the National Transportation Safety Board. Under 49 App.:1902(a), the National Transportation Safety Board in the Department of Transportation was replaced by an independent National Transportation Safety Board outside the Department, and 49 App.:1903(a)(9)(A) gave the independent Board the authority to review appeals from actions of the Secretary under 49 App.:1422, 1429, and 1431(e).
+In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma) is omitted as obsolete. The words “National Transportation Safety Board” were substituted for “Board” in 49 App.:1481 (4th sentence) because 49 App.:1655(d) transferred all functions, duties, and powers of the Civil Aeronautics Board under titles VI and VII of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 775) to the Secretary of Transportation to be carried out through the former National Transportation Safety Board in the Department of Transportation. Title VI includes sections 602 and 609 \[49 App.:1422, 1429\], that provide for appeals to the Civil Aeronautics Board (subsequently transferred to the National Transportation Safety Board), and section 611(e) \[49 App.:1431(e)\], that provides for appeals to the National Transportation Safety Board. Under 49 App.:1902(a), the National Transportation Safety Board in the Department of Transportation was replaced by an independent National Transportation Safety Board outside the Department, and 49 App.:1903(a)(9)(A) gave the independent Board the authority to review appeals from actions of the Secretary under 49 App.:1422, 1429, and 1431(e).
 
 In subsection (c), the words “vote and” are omitted as surplus.
 

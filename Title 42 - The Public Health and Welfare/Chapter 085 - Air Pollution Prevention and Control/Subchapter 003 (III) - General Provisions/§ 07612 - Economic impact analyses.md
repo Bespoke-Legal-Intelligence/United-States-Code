@@ -1,0 +1,126 @@
+### §7612. Economic impact analyses
+
+#### (a) Cost-benefit analysis
+
+The Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis (as established under subsection (f) of this section), shall conduct a comprehensive analysis of the impact of this chapter on the public health, economy, and environment of the United States. In performing such analysis, the Administrator should consider the costs, benefits and other effects associated with compliance with each standard issued for—
+
+&emsp;(1) a criteria air pollutant subject to a standard issued under section 7409 of this title;
+
+&emsp;(2) a hazardous air pollutant listed under section 7412 of this title, including any technology-based standard and any risk-based standard for such pollutant;
+
+&emsp;(3) emissions from mobile sources regulated under subchapter II of this chapter;
+
+&emsp;(4) a limitation under this chapter for emissions of sulfur dioxide or nitrogen oxides;
+
+&emsp;(5) a limitation under subchapter VI of this chapter on the production of any ozone-depleting substance; and
+
+&emsp;(6) any other section of this chapter.
+
+#### (b) Benefits
+
+In describing the benefits of a standard described in subsection (a) of this section, the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
+
+#### (c) Costs
+
+In describing the costs of a standard described in subsection (a) of this section, the Administrator shall consider the effects of such standard on employment, productivity, cost of living, economic growth, and the overall economy of the United States.
+
+#### (d) Initial report
+
+Not later than 12 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, shall submit a report to the Congress that summarizes the results of the analysis described in subsection (a) of this section, which reports—
+
+&emsp;(1) all costs incurred previous to November 15, 1990, in the effort to comply with such standards; and
+
+&emsp;(2) all benefits that have accrued to the United States as a result of such costs.
+
+#### (e) Biennial updates; future projections
+
+Not later than 24 months after November 15, 1990, and every 24 months thereafter, the Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, shall submit a report to the Congress that updates the report issued pursuant to subsection (d) of this section, and which, in addition, makes projections into the future regarding expected costs, benefits, and other effects of compliance with standards pursuant to this chapter as listed in subsection (a) of this section.
+
+#### (f) Appointment of Advisory Council on Clean Air Compliance Analysis
+
+Not later than 6 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce and the Secretary of Labor, shall appoint an Advisory Council on Clean Air Compliance Analysis of not less than nine members (hereafter in this section referred to as the “Council”). In appointing such members, the Administrator shall appoint recognizedexperts in the fields of the health and environmental effects of air pollution, economic analysis, environmental sciences, and such other fields that the Administrator determines to be appropriate.
+
+#### (g) Duties of Advisory Council
+
+The Council shall—
+
+&emsp;(1) review the data to be used for any analysis required under this section and make recommendations to the Administrator on the use of such data;
+
+&emsp;(2) review the methodology used to analyze such data and make recommendations to the Administrator on the use of such methodology; and
+
+&emsp;(3) prior to the issuance of a report required under subsection (d) or (e) of this section, review the findings of such report, and make recommendations to the Administrator concerning the validity and utility of such findings.
+
+(July 14, 1955, ch. 360, title III, §312, formerly §305, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §312 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713; Aug. 7, 1977, Pub. L. 95–95, title II, §224(c), 91 Stat. 767; Nov. 15, 1990, Pub. L. 101–549, title VIII, §812(a), 104 Stat. 2691.)
+
+#### Codification
+
+Section was formerly classified to section 1857j–1 of this title.
+
+#### Amendments
+
+1990—Pub. L. 101–549 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), detailed cost estimate, comprehensive cost and economic impact studies, and annual reevaluation; in subsec. (b), personnel study and report to President and Congress; and in subsec. (c), cost-effectiveness analyses.
+
+1977—Subsec. (c). Pub. L. 95–95 added subsec. (c).
+
+1970—Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
+
+#### Termination of Advisory Councils
+
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Equivalent Air Quality Controls Among Trading Nations
+
+Section 811 of Pub. L. 101–549 provided that:
+
+“(a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) all nations have the responsibility to adopt and enforce effective air quality standards and requirements and the United States, in enacting this Act \[see Tables for classification\], is carrying out its responsibility in this regard;
+
+&emsp;“(2) as a result of complying with this Act, businesses in the United States will make significant capital investments and incur incremental costs in implementing control technology standards;
+
+&emsp;“(3) such compliance may impair the competitiveness of certain United States jobs, production, processes, and products if foreign goods are produced under less costly environmental standards and requirements than are United States goods; and
+
+&emsp;“(4) mechanisms should be sought through which the United States and its trading partners can agree to eliminate or reduce competitive disadvantages.
+
+“(b)
+
+Action by the President.—
+
+&emsp;“(1)
+
+In general.—Within 18 months after the date of the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the President shall submit to the Congress a report—
+
+&emsp;&emsp;“(A) identifying and evaluating the economic effects of—
+
+&emsp;&emsp;&emsp;“(i) the significant air quality standards and controls required under this Act, and
+
+&emsp;&emsp;&emsp;“(ii) the differences between the significant standards and controls required under this Act and similar standards and controls adopted and enforced by the major trading partners of the United States,
+
+&nbsp;&nbsp;on the international competitiveness of United States manufacturers; and
+
+&emsp;&emsp;“(B) containing a strategy for addressing such economic effects through trade consultations and negotiations.
+
+&emsp;“(2)
+
+Additional reporting requirements.—(A) The evaluation required under paragraph (1)(A) shall examine the extent to which the significant air quality standards and controls required under this Act are comparable to existing internationally-agreed norms.
+
+&emsp;“(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options (such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
+
+&emsp;“(3)
+
+Public comment.—Interested parties shall be given an opportunity to submit comments regarding the evaluations and strategy required in the report under paragraph (1). The President shall take any such comment into account in preparing the report.
+
+&emsp;“(4)
+
+Interim report.—Within 9 months after the date of the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the President shall submit to the Congress an interim report on the progress being made in complying with paragraph (1).”
+
+#### GAO Reports on Costs and Benefits
+
+Section 812(b) of Pub. L. 101–549, which directed Comptroller General, commencing on second year after Nov. 15, 1990, and annually thereafter, in consultation with other agencies, to report to Congress on pollution control strategies and technologies required by Clean Air Act Amendments of 1990, was repealed by Pub. L. 104–316, title I, §122(r), Oct. 19, 1996, 110 Stat. 3838.
+

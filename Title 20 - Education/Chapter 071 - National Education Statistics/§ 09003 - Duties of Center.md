@@ -158,5 +158,5 @@ Equitable Student Aid for Farm Families.—The Secretary shall conduct a study o
 
 #### Study by National Center for Education Statistics Respecting Condition of Education for Hispanic Americans
 
-Pub. L. 98–211, §24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The National Center for Education Statistics shall not terminate the study of the condition of education for Hispanic Americans unless specifically required or authorized to do so by law.”
+Pub. L. 98–211, §24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The National Center for Education Statistics shall not terminate the study of the condition ofeducation for Hispanic Americans unless specifically required or authorized to do so by law.”
 

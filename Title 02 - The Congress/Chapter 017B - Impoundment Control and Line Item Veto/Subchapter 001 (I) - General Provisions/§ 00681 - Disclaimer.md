@@ -18,11 +18,11 @@ This Act, referred to in provision preceding par. (1), means Pub. L. 93–344, J
 
 #### Codification
 
-Section was formerly classified to section 1400 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1400 of Title 31 prior to the general revision and enactment ofTitle 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Effective Date
 
-Chapter effective July 12, 1974, see section 905(a) of Pub. L. 93–344, set out as a note under section 621 of this title.
+Chapter effective July 12, 1974, see section 905(a) of Pub. L. 93–344, formerly set out as a note under section 621 of this title.
 
 #### Short Title of 1996 Amendment
 

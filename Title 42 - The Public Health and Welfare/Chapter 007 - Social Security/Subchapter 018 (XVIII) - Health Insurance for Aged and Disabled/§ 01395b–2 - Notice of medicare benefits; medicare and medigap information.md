@@ -1,0 +1,74 @@
+### §1395b–2. Notice of medicare benefits; medicare and medigap information
+
+#### (a) Notice of medicare benefits
+
+The Secretary shall prepare (in consultation with groups representing the elderly and with health insurers) and provide for distribution of a notice containing—
+
+&emsp;(1) a clear, simple explanation of the benefits available under this subchapter and the major categories of health care for which benefits are not available under this subchapter,
+
+&emsp;(2) the limitations on payment (including deductibles and coinsurance amounts) that are imposed under this subchapter, and
+
+&emsp;(3) a description of the limited benefits for long-term care services available under this subchapter and generally available under State plans approved under subchapter XIX of this chapter.
+
+> Such notice shall be mailed annually to individuals entitled to benefits under part A or part B of this subchapter and when an individual applies for benefits under part A of this subchapter or enrolls under part B of this subchapter.
+
+#### (b) Medicare and medigap information
+
+The Secretary shall provide information via a toll-free telephone number on the programs under this subchapter.
+
+#### (c) Contents of notice
+
+The notice provided under subsection (a) of this section shall include—
+
+&emsp;(1) a statement which indicates that because errors do occur and because medicare fraud, waste, and abuse is a significant problem, beneficiaries should carefully check any explanation of benefits or itemized statement furnished pursuant to section 1395b–7 of this title for accuracy and report any errors or questionable charges by calling the toll-free phone number described in paragraph (4);
+
+&emsp;(2) a statement of the beneficiary's right to request an itemized statement for medicare items and services (as provided in section 1395b–7(b) of this title);
+
+&emsp;(3) a description of the program to collect information on medicare fraud and abuse established under section 1395b–5(b) of this title; and
+
+&emsp;(4) a toll-free telephone number maintained by the Inspector General in the Department of Health and Human Services for the receipt of complaints and information about waste, fraud, and abuse in the provision or billing of services under this subchapter.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added July 1, 1988, Pub. L. 100–360, title II, §223(a), 102 Stat. 747; amended Oct. 31, 1994, Pub. L. 103–432, title I, §171(j)(1), 108 Stat. 4450; Aug. 5, 1997, Pub. L. 105–33, title IV, §4311(a)(1), 111 Stat. 384.)
+
+#### References in Text
+
+Parts A and B of this subchapter, referred to in subsec. (a), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+
+#### Amendments
+
+1997—Subsec. (c). Pub. L. 105–33 added subsec. (c).
+
+1994—Pub. L. 103–432 inserted “; medicare and medigap information” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### Effective Date of 1997 Amendment
+
+Section 4311(a)(2) of Pub. L. 105–33 provided that: “The amendment made by this subsection \[amending this section\] shall apply to notices provided on or after January 1, 1998.”
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 171(<i>l</i>) of Pub. L. 103–432, set out as a note under section 1395ss of this title.
+
+#### Effective Date
+
+Section 223(d)(1) of Pub. L. 100–360 provided that: “The Secretary of Health and Human Services shall first distribute the notice required by the amendment made by subsection (a) \[enacting this section\] not later than January 31, 1989.”
+
+#### State Regulatory Programs
+
+For provisions relating to changes required to conform State regulatory programs to amendments by section 171 of Pub. L. 103–432, see section 171(m) of Pub. L. 103–432, set out as a note under section 1395ss of this title.
+
+#### Demonstration Projects
+
+Section 4361(b) of Pub. L. 101–508 provided that: “The Secretary of Health and Human Services is authorized to conduct demonstration projects in up to 5 States for the purpose of establishing statewide toll-free telephone numbers for providing information on medicare benefits, medicare supplemental policies available in the State, and benefits under the State medicaid program.”
+
+#### Notice of Changes Under Repeal of Medicare Catastrophic Coverage
+
+Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided that: “The Secretary of Health and Human Services shall provide, in the notice of medicare benefits provided under section 1804 of the Social Security Act \[this section\] for 1990, for a description of the changes in benefits under title XVIII of such Act \[this subchapter\] made by the amendments made by this Act \[see Tables for classification\].”
+
+#### Benefits Counseling and Assistance Demonstration Project for Certain Medicare and Medicaid Beneficiaries
+
+Section 424 of Pub. L. 100–360, which directed Secretary of Health and Human Services to establish a demonstration project to demonstrate that its volunteers were adequately trained and competent to render effective benefits counseling and assistance to the elderly, was repealed by Pub. L. 101–234, title III, §301(a), Dec. 13, 1989, 103 Stat. 1985.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1395w–21 of this title.
+

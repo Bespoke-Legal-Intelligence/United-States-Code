@@ -44,7 +44,7 @@ The comprehensive plan, at a minimum, shall include components to—
 
 &emsp;&emsp;(C) promoting the development of regional, State, and local data collection services to become an integral component of a national nutritional status network;
 
-&emsp;(10) establish mechanisms to identify the needs of users of nutrition monitoring data and to encourage the private sector and theacademic community to participate in the development and implementation of the comprehensive plan and contribute relevant data from non-Federal sources to promote the development of a national nutritional status network;
+&emsp;(10) establish mechanisms to identify the needs of users of nutrition monitoring data and to encourage the private sector and the academic community to participate in the development and implementation of the comprehensive plan and contribute relevant data from non-Federal sources to promote the development of a national nutritional status network;
 
 &emsp;(11) compile an inventory of Federal, State, and nongovernment activities related to nutrition monitoring and related research;
 
@@ -60,7 +60,7 @@ The comprehensive plan shall—
 
 &emsp;(1) allocate all of the projected functions and activities under the coordinated program among the various Federal agencies and offices that will be involved;
 
-&emsp;(2) contain an affirmative statement and description of the functions to be performed and activities to be undertaken by each of such agencies and offices in carrying out the coordinated program; and
+&emsp;(2) contain an affirmative statement and description of the functions to be performed andactivities to be undertaken by each of such agencies and offices in carrying out the coordinated program; and
 
 &emsp;(3) constitute the basis on which each agency participating in the coordinated program requests authorizations and appropriations for nutrition monitoring and related research during the ten-year period of the program.
 

@@ -14,7 +14,7 @@ General rule.—Subject to paragraph (2) of this subsection, no State or politic
 
 &emsp;(2)
 
-Continuation of hawaii's authority.—Nothing in this subsection and the amendments made by the Surface Freight Forwarder Deregulation Act of 1986 shall be construed to affect the authority of the State of Hawaii tocontinue to regulate a motor carrier operating within the State of Hawaii.
+Continuation of hawaii's authority.—Nothing in this subsection and the amendments made by the Surface Freight Forwarder Deregulation Act of 1986 shall be construed to affect the authority of the State of Hawaii to continue to regulate a motor carrier operating within the State of Hawaii.
 
 (c)
 
@@ -32,7 +32,7 @@ Matters not covered.—Paragraph (1)—
 
 &emsp;&emsp;(B) does not apply to the transportation of household goods; and
 
-&emsp;&emsp;(C) does not apply to the authority of a State or a political subdivision of a State to enact or enforce a law, regulation, or other provision relating to the price of for-hire motor vehicle transportation by a tow truck, if such transportation is performed without the prior consent or authorization of the owner or operator of the motor vehicle.
+&emsp;&emsp;(C) does not apply to the authority of a State or a political subdivision of a State to enact or enforce a law, regulation, or other provision relating to the price of for-hire motor vehicle transportation by a tow truck, if such transportation is performed without the prior consent or authorizationof the owner or operator of the motor vehicle.
 
 &emsp;(3)
 

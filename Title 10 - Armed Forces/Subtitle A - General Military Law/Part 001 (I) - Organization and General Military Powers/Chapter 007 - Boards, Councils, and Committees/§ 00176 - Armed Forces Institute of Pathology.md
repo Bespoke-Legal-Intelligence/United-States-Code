@@ -22,11 +22,11 @@
 
 (d) The Secretary of Defense shall promulgate such regulations as may be necessary to prescribe the organization, functions, and responsibilities of the Institute.
 
-(Added Pub. L. 94–361, title VIII, §811(b), July 14, 1976, 90 Stat. 933; amended Pub. L. 96–513, title V, §511(6), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–160, div. A, title VII, §733, Nov. 30, 1993, 107 Stat. 1697; Pub. L.104–106, div. A, title IX, §903(f)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.)
+(Added Pub. L. 94–361, title VIII, §811(b), July 14, 1976, 90 Stat. 933; amended Pub. L. 96–513, title V, §511(6), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–160, div. A, title VII, §733, Nov. 30, 1993, 107 Stat. 1697; Pub. L. 104–106, div. A, title IX, §903(f)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.)
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–106, §903(a), (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs” and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by Pub. L. 104–201.
+1996—Subsec. (a)(3). Pub. L. 104–106, §903(a), (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31,1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs” and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by Pub. L. 104–201.
 
 1993—Subsec. (c). Pub. L. 103–160 inserted at end “The Secretary of Defense, on a case-by-case basis, may waive the limitation on the number of distinguished pathologists or scientists with whom agreements may be entered into under this subsection if the Secretary determines that such waiver is in the best interest of the Department of Defense.”
 
@@ -42,53 +42,19 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### National Museum of Health and Medicine
 
-Pub. L. 103–337, div. A, title X, §1067, Oct. 5, 1994, 108 Stat. 2851, provided that:
+Pub. L. 103–337, div. A, title X, §1067, Oct. 5, 1994, 108 Stat. 2851, as amended by Pub. L. 105–78, title VII, §702, Nov. 13, 1997, 111 Stat. 1524, provided that:
 
 “(a)
 
 Purpose.—It is the purpose of this section—
 
-&emsp;“(1) to display and interpret the collections of the Armed Forces Institute of Pathology currently located at Walter Reed Medical Center;
+&emsp;“(1) to display and interpret the collections of the Armed Forces Institute of Pathology currently located at Walter Reed Medical Center; and
 
-&emsp;“(2) to designate the public facility of the Armed Forces Institute of Pathology as the National Museum of Health and Medicine; and
-
-&emsp;“(3) to designate a site for the relocation of the public facility of the National Museum of Health and Medicine so that it may serve as a central resource of instruction about, and be involved in, the critical health issues which confront all American citizens.
+&emsp;“(2) to designate the public facility of the Armed Forces Institute of Pathology as the National Museum of Health and Medicine.
 
 “(b)
 
-Designation and Site of Facility.—The public facility of the Armed Forces Institute of Pathology—
-
-&emsp;“(1) shall also be known as the National Museum of Health and Medicine; and
-
-&emsp;“(2) shall be located on or near the Mall on land owned by the Federal Government or the District of Columbia (or both) in the District of Columbia.
-
-“(c)
-
-Rule of Construction.—Nothing in this section shall be construed as limiting the authority or responsibilities of the National Capital Planning Commission or the Commission of Fine Arts.
-
-“(d)
-
-Definition.—As used in this section, the term ‘the Mall’ means—
-
-&emsp;“(1) the land designated as ‘Union Square’, United States Reservation 6A; and
-
-&emsp;“(2) the land designated as the ‘Mall’, United States Reservations 3, 4, 5, and 6.
-
-“(e)
-
-Sense of the Congress.—
-
-&emsp;“(1)
-
-Findings.—Congress makes the following findings:
-
-&emsp;&emsp;“(A) The National Museum of Health and Medicine Foundation, Inc. (a private, nonprofit organization having for its primary purpose the relocation to the Mall and revitalization of the National Museum of Health and Medicine), the Armed Forces Institute of Pathology, and the Public Health Service have jointly supported planning to relocate the Museum to a site on land that is located east of and adjacent to the Hubert H. Humphrey Building (100 Independence Avenue, Southwest, in the District of Columbia).
-
-&emsp;&emsp;“(B) The National Museum of Health and Medicine Foundation, Inc., is deserving of the encouragement and support of the American people in its effort to relocate the National Museum of Health and Medicine to a site on land that is located east of and adjacent to the Hubert H. Humphrey Building, and in its effort to raise funds for a revitalized Museum to inspire increasing numbers of Americans to lead healthy lives through improved public understanding of health and the medical sciences.
-
-&emsp;“(2)
-
-Location.—It is the sense of Congress that, subject to appropriate approvals by the National Capital Planning Commission and the Commission of Fine Arts, the National Museum of Health and Medicine should be relocated to a site on land that is located east of and adjacent to the Hubert H. Humphrey Building for the purpose of educating the American public concerning health and the medical sciences.”
+Designation.—The public facility of the Armed Forces Institute of Pathology shall also be known as the National Museum of Health and Medicine.”
 
 #### Congressional Findings and Declaration
 

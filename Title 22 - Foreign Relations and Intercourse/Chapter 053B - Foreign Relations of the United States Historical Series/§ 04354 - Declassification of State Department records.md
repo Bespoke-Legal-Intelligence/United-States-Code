@@ -38,7 +38,7 @@ The Advisory Committee shall annually submit to the Secretary of State a report 
 
 Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section.
 
-(Aug. 1, 1956, ch. 841, title IV, §404, as added Oct. 28, 1991, Pub. L. 102–138, title I, §198(a), 105 Stat. 687.)
+(Aug. 1, 1956, ch. 841, title IV, §404, as added Pub. L. 102–138, title I, §198(a), Oct. 28, 1991, 105 Stat. 687.)
 
 #### Change of Name
 

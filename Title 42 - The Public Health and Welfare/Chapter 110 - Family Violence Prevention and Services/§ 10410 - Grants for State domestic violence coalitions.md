@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award grants for the funding of State domestic violence coalitions. Suchcoalitions shall further the purposes of domestic violence intervention and prevention through activities, including—
+The Secretary shall award grants for the funding of State domestic violence coalitions. Such coalitions shall further the purposes of domestic violence intervention and prevention through activities, including—
 
 &emsp;(1) working with local domestic violence programs and providers of direct services to encourage appropriate responses to domestic violence within the State, including—
 
@@ -88,7 +88,7 @@ To be eligible for a grant under this section, an entity shall be a statewide no
 
 #### (c) Allotment of funds
 
-From amounts appropriated under this section for each fiscal year, the Secretary shall allot to each State, the District of Columbia, the Commonwealth of Puerto Rico, and the combined U.S. Territories an amount equal to 1/53 of the amount appropriated for such fiscal year. For purposes of this section, the term “combinedU.S. Territories” means Guam, American Samoa, the U.S. Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands and shall not receive less than 1.5 percent of the funds appropriated for each fiscal year.
+From amounts appropriated under this section for each fiscal year, the Secretary shall allot to each State, the District of Columbia, the Commonwealth of Puerto Rico, and the combined U.S. Territories an amount equal to 1/53 of the amount appropriated for such fiscal year. For purposes of this section, the term “combined U.S. Territories” means Guam, American Samoa, the U.S. Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands and shall not receive less than 1.5 percent of the funds appropriated for each fiscal year.
 
 #### (d) Prohibition on lobbying
 

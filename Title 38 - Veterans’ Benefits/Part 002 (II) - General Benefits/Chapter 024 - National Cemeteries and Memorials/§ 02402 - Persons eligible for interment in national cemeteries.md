@@ -26,7 +26,7 @@ Under such regulations as the Secretary may prescribe and subject to the provisi
 
 (6) Such other persons or classes of persons as may be designated by the Secretary.
 
-(7) Any person who at the time of death was entitled to retired pay under chapter 67 <sup>1</sup> of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
+(7) Any person who at the time of death was entitled to retired pay under chapter 67 <sup>1</sup> of title10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
 (Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330.)
 

@@ -18,7 +18,7 @@ In carrying out the program, the lead official shall coordinate with each of the
 
 &emsp;(3) The Secretary of Defense.
 
-&emsp;(4) The heads of any other Federal, State, and local government agencies that have anexpertise or responsibilities relevant to emergency responses described in subsection (a)(1) of this section.
+&emsp;(4) The heads of any other Federal, State, and local government agencies that have an expertise or responsibilities relevant to emergency responses described in subsection (a)(1) of this section.
 
 #### (c) Eligible participants
 

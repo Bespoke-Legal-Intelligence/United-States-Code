@@ -30,7 +30,7 @@ Such plans shall include provision for the promotion and development of employme
 
 If such plans are in conformity with the provisions of this chapter and reasonably appropriate and adequate to carry out its purposes, they shall be approved by the Secretary and due notice of such approval shall be given to the State agency.
 
-(June 6, 1933, ch. 49, §8, 48 Stat. 115; Aug. 3, 1954, ch. 655, §6(b), 68 Stat. 665; Oct. 13, 1982, Pub. L. 97–300, title VI, §601(d), formerly title V, §501(d), 96 Stat. 1395; renumbered title VI, §601(d), Nov. 7, 1988, Pub. L. 100–628, title VII, §712(a)(1), (2), 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §8, 48 Stat. 115; Aug. 3, 1954, ch. 655, §6(b), 68 Stat. 665; Pub. L. 97–300, title VI, §601(d), formerly title V, §501(d), Oct. 13, 1982, 96 Stat. 1395; renumbered title VI, §601(d), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
 #### References in Text
 

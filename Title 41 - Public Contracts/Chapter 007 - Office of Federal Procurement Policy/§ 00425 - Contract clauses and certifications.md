@@ -40,13 +40,13 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
 
 #### Current Certification Requirements
 
 Section 4301(b)(1) of Pub. L. 104–106 provided that:
 
-“(A) Not later than 210 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Administrator for Federal Procurement Policy shall issue for publiccomment a proposal to amend the Federal Acquisition Regulation to remove from the Federal Acquisition Regulation certification requirements for contractors and offerors that are not specifically imposed by statute. The Administrator may omit such a certification requirement from the proposal only if—
+“(A) Not later than 210 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Administrator for Federal Procurement Policy shall issue for public comment a proposal to amend the Federal Acquisition Regulation to remove from the Federal Acquisition Regulation certification requirements for contractors and offerors that are not specifically imposed by statute. The Administrator may omit such a certification requirement from the proposal only if—
 
 &emsp;“(i) the Federal Acquisition Regulatory Council provides the Administrator with a written justification for the requirement and a determination that there is no less burdensome means for administering and enforcing the particular regulation that contains the certification requirement; and
 

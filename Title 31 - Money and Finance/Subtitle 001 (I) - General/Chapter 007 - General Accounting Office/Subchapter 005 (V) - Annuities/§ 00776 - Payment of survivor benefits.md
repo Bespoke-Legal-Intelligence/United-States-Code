@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) to the executor or administrator of the estate of the individual.
 
-&emsp;&emsp;(B) if there is no executor or administrator, then after 30 days after the date of death, to an individual the General Counsel of the General Accounting Office decides is legally entitled to the payment.
+&emsp;&emsp;(B) if there is no executor or administrator, then after 30 days after the date ofdeath, to an individual the General Counsel of the General Accounting Office decides is legally entitled to the payment.
 
 (d)(1) A payment under subsection (c)(2)(B) of this section or section 775(d) of this title is a bar to recovery by another individual.
 

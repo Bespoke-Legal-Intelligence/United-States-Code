@@ -10,7 +10,7 @@
 
 &emsp;(3) All actions or proceedings by a State against the citizens of another State or against aliens.
 
-(June 25, 1948, ch. 646, 62 Stat. 927; Sept. 30, 1978, Pub. L. 95–393, §8(b), 92 Stat. 810.)
+(June 25, 1948, ch. 646, 62 Stat. 927; Pub. L. 95–393, §8(b), Sept. 30, 1978, 92 Stat. 810.)
 
 #### Historical and Revision Notes
 
@@ -24,7 +24,7 @@ The original jurisdiction conferred on the Supreme Court by Article 3, section 2
 
 Sections 341 and 371 of title 28, U.S.C., 1940 ed., did not confer expressly exclusive jurisdiction on the Supreme Court in civil cases between States, <i>Louisiana v. Texas</i>, 1899, 20 S.Ct. 251, 176 U.S. 1, 44 L.Ed. 347, as has been provided in subsection (a)(1) of the revised section. The language at the beginning of said section 341, for which said subsection has been substituted, was ambiguous and made it appear that an action by a State against the United States would be within the exclusive jurisdiction of the Supreme Court. However, in <i>U.S. v. Louisiana</i>, 1887, 8 S.Ct. 17, 123 U.S. 32, 31 L.Ed. 69, the Supreme Court, in a case appealed from the Court of Claims, held to the contrary.
 
-So, also, in actions by the United States to condemn lands of a State or to enforce penalties for violation of a Federal statute against a State-owned utility, the United States district courts have jurisdiction. See <i>United States v. State of Utah</i>, 1931, 51 S.Ct. 438, 283 U.S. 64, 75 L.Ed. 844; <i>United States v. 4,450.72 Acres of Land,</i><i>Clearwater County, State of Minnesota</i>, D.C.Minn. 1939, 27 F.Supp. 167, affirmed 125 F.2d 636; <i>United States v. State of California</i>, 1936, 56 S.Ct. 421, 297 U.S. 175, 80 L.Ed. 567.
+So, also, in actions by the United States to condemn lands of a State or to enforce penalties for violation of a Federal statute against a State-owned utility, the United States district courts have jurisdiction. See <i>United States v. State of Utah</i>, 1931, 51 S.Ct. 438, 283 U.S. 64, 75 L.Ed. 844; <i>United States v. 4,450.72 Acres of Land, Clearwater County, State of Minnesota</i>, D.C.Minn. 1939, 27 F.Supp. 167, affirmed 125 F.2d 636; <i>United States v. State of California</i>, 1936, 56 S.Ct. 421, 297 U.S. 175, 80 L.Ed. 567.
 
 The intent of section 371(7), (8) of title 28, U.S.C., 1940 ed., that the jurisdiction of the courts of the United States should be exclusive of the courts of the States in controversies to which a State is a party, and suits against ambassadors, public ministers, consuls and vice consuls, is preserved and clarified by this section and section 1351 of this title.
 
@@ -40,7 +40,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–393, §8(b)(1), designated introductory provision of subsec. (a) and (a)(1) as (a), and struck out “(2) All actions or proceedings against ambassadors or other public ministers of foreign states or their domestics or domestic servants, not inconsistent with the law of nations”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–393, §8(b)(1), designated introductory provision of subsec. (a) and (a)(1) as (a), and struck out “(2) All actions or proceedings against ambassadors or other public ministers of foreign states or their domestics or domestic servants, not inconsistent with the law of nations”.
 
 Subsec. (b)(1). Pub. L. 95–393, §8(b)(2), substituted “to which ambassadors, other public ministers, consuls, or” for “brought by ambassadors or other public ministers of foreign states or to which consuls or”.
 

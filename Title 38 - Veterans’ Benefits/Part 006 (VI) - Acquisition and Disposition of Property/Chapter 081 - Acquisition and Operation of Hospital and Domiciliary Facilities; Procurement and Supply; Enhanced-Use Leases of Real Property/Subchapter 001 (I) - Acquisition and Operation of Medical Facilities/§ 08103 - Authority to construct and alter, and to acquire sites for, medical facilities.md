@@ -42,7 +42,7 @@
 
 (6) The authority to enter into an agreement under this subsection—
 
-&emsp;(A) shall not take effect until the Secretary has entered into agreements under section 316of this title to carry out at least three collocations; and
+&emsp;(A) shall not take effect until the Secretary has entered into agreements under section 316 of this title to carry out at least three collocations; and
 
 &emsp;(B) shall expire on October 1, 1993.
 

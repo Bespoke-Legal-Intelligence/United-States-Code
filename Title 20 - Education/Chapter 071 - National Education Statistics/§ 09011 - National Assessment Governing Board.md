@@ -142,7 +142,7 @@ Only sections 10, 11, and 12 of the Federal Advisory Committee Act shall apply w
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(2)(B), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-Sections 10, 11, and 12 of the Federal Advisory Committee Act, referred to in subsec. (h), are sections 10, 11, and 12 of Pub. L. 92–463, as amended, which are set out in the Appendix to Title 5.
+Sections 10, 11, and 12 of the Federal Advisory Committee Act, referred to in subsec. (h), are sections 10,11, and 12 of Pub. L. 92–463, as amended, which are set out in the Appendix to Title 5.
 
 #### Change of Name
 

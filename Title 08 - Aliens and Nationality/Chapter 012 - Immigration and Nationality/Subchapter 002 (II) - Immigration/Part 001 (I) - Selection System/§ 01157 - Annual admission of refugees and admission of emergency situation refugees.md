@@ -14,13 +14,13 @@
 
 #### (b) Determinations by President respecting number of admissions for humanitarian concerns
 
-If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a) of this section, the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
+If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a) of this section, the President may fix a number of refugees to be admitted to the United States during the succeeding period (notto exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
 
 #### (c) Admission by Attorney General of refugees; criteria; admission status of spouse or child; applicability of other statutory requirements; termination of refugee status of alien, spouse or child
 
 (1) Subject to the numerical limitations established pursuant to subsections (a) and (b) of this section, the Attorney General may, in the Attorney General's discretion and pursuant to such regulations as the Attorney General may prescribe, admit any refugee who is not firmly resettled in any foreign country, is determined to be of special humanitarian concern to the United States, and is admissible (except as otherwise provided under paragraph (3)) as an immigrant under this chapter.
 
-(2) A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of any refugee who qualifies for admission under paragraph (1) shall, if not otherwise entitled to admission under paragraph (1) and if not a person described in the second sentence of section1101(a)(42) of this title, be entitled to the same admission status as such refugee if accompanying, or following to join, such refugee and if the spouse or child is admissible (except as otherwise provided under paragraph (3)) as an immigrant under this chapter. Upon the spouse's or child's admission to the United States, such admission shall be charged against the numerical limitation established in accordance with the appropriate subsection under which the refugee's admission is charged.
+(2) A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of any refugee who qualifies for admission under paragraph (1) shall, if not otherwise entitled to admission under paragraph (1) and if not a person described in the second sentence of section 1101(a)(42) of this title, be entitled to the same admission status as such refugee if accompanying, or following to join, such refugee and if the spouse or child is admissible (except as otherwise provided under paragraph (3)) as an immigrant under this chapter. Upon the spouse's or child's admission to the United States, such admission shall be charged against the numerical limitation established in accordance with the appropriate subsection under which the refugee's admission is charged.
 
 (3) The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking admission to the United States under this subsection, and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. Any such waiver by the Attorney General shall be in writing and shall be granted only on an individual basis following an investigation. The Attorney General shall provide for the annual reporting to Congress of the number of waivers granted under this paragraph in the previous fiscal year and a summary of the reasons for granting such waivers.
 
@@ -90,7 +90,7 @@ Section (with the exception of subsec. (c) which is effective Apr. 1, 1980) effe
 
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
 
-Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865, provided that:
+Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432, provided that:
 
 “(a)
 
@@ -112,7 +112,7 @@ Establishment of Categories.—
 
 &emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, and 1997 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, and 1998 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 “(c)
 
@@ -126,11 +126,11 @@ Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Eac
 
 Period of Application.—
 
-&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 1997.
+&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 1998.
 
-&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 1997.
+&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 1998.
 
-&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 1997.”
+&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 1998.”
 
 \[Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.\]
 
@@ -145,6 +145,8 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 97–37, Sept. 30, 1997, 62 F.R. 53219.
 
 Presidential Determination No. 96–59, Sept. 30, 1996, 61 F.R. 56869.
 
@@ -206,5 +208,5 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1101, 1151, 1159, 1181, 1182, 1225, 1252, 1324b, 1522, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 22 section 4703; title 42 sections 602, 615, 1382j, 1436a.
+This section is referred to in sections 1101, 1151, 1159, 1181, 1182, 1225, 1252, 1324b, 1522, 1612, 1613, 1622, 1641 ofthis title; title 7 section 2015; title 22 section 4703; title 42 sections 1382j, 1436a.
 

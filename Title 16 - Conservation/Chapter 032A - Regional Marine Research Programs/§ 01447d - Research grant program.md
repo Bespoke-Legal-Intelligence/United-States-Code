@@ -26,7 +26,7 @@ The Administrator of the National Oceanic and Atmospheric Administration shall a
 
 &emsp;(H) methods and techniques for sampling of water, sediment, marine and aquatic organisms, and demonstration of such methods and techniques;
 
-&emsp;(I) the effects on human health and the environment of contaminants or combinations ofcontaminants at various levels, whether natural or anthropogenic, that are found in the marine environment;
+&emsp;(I) the effects on human health and the environment of contaminants or combinations of contaminants at various levels, whether natural or anthropogenic, that are found in the marine environment;
 
 &emsp;(J) environmental assessment of potential effects of major coastal and offshore development projects in the region;
 

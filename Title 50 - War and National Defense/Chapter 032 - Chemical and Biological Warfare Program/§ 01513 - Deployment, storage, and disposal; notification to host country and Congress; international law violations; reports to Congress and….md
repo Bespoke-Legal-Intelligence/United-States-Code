@@ -1,6 +1,6 @@
 ### §1513. Deployment, storage, and disposal; notification to host country and Congress; international law violations; reports to Congress and international organizations
 
-(1) None of the funds authorized to be appropriated by this Act or any other Act may beused for the future deployment, storage, or disposal, at any place outside the United States of—
+(1) None of the funds authorized to be appropriated by this Act or any other Act may be used for the future deployment, storage, or disposal, at any place outside the United States of—
 
 &emsp;(A) any lethal chemical or any biological warfare agent, or
 

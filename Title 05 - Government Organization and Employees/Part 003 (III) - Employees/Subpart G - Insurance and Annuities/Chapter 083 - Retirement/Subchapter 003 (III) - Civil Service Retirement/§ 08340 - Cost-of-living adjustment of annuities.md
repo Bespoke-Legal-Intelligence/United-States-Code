@@ -112,7 +112,7 @@ Nov. 1, 1965, Pub. L. 89–314, §1, 79 Stat. 1162.
 
 July 18, 1966, Pub. L. 89–504, §507, 80 Stat. 302.
 
-In subsection (a), the words “Effective December 1, 1965 \* \* \* before December 2, 1965,” are substituted for “Effective the first day of the third month which begins after the date of enactment of this amendment \* \* \* not later than such effective date.” In clause (1), the words “month of July 1965” are substituted for “month latest published on date of enactment of this amendment” for clarity and since the July 1965 price index was the price index for the month latest published on September 27, 1965, the date of enactment of the amendment. The word “base” is inserted before “month of July 1965” for clarity and on authority of the second sentence of 5 U.S.C. App. 2268(a) which provided: “The month used in determining the increase based on the per centum rise in the price index under this subsection shall be the base month for determining the per centum change in the price index until the next succeeding increase occurs.” In view of the foregoing and of the definition of “base month” in 5 U.S.C. 8331(16), the quoted sentence is omitted as executed and unnecessary. In clause (2), the words “before October 2, 1956,” are substituted for “on or before October 1, 1956.” In the second sentence, which is based on 5 App. U.S.C. 2268(f), the words “before January 1, 1966,” are substituted for “not later than December 31, 1965.” In clause (B), the words “Act of June 25, 1958 (72 Stat. 219)” are substituted for “Public Law 85–465” to conform to the style of title 5, United States Code.
+In subsection (a), the words “Effective December 1, 1965 \* \* \* before December 2, 1965,” are substituted for “Effective the first day of the third month which begins after the date of enactment of this amendment \* \* \* not later than such effective date.” In clause (1), the words “month of July 1965” are substituted for “month latest published on date of enactment of this amendment” for clarity and since the July 1965 price index was the price index for the month latest published on September 27, 1965, the date of enactment of the amendment. The word “base” is inserted before “month of July 1965” for clarity and on authority of the second sentence of 5 U.S.C. App. 2268(a) which provided: “The month used in determining the increase based on the per centum rise in the price index under this subsection shall be the base month for determining the per centum change in the price index until the next succeeding increase occurs.” In view of the foregoingand of the definition of “base month” in 5 U.S.C. 8331(16), the quoted sentence is omitted as executed and unnecessary. In clause (2), the words “before October 2, 1956,” are substituted for “on or before October 1, 1956.” In the second sentence, which is based on 5 App. U.S.C. 2268(f), the words “before January 1, 1966,” are substituted for “not later than December 31, 1965.” In clause (B), the words “Act of June 25, 1958 (72 Stat. 219)” are substituted for “Public Law 85–465” to conform to the style of title 5, United States Code.
 
 In the first sentence of subsection (b), the words “after the first increase under this section,” following “Each month,” are omitted as executed and unnecessary.
 
@@ -138,7 +138,7 @@ Subsec. (c)(2)(B). Pub. L. 98–369, §2201(b)(2), substituted “not to exceed 
 
 Subsec. (g). Pub. L. 97–253, §309(a), added subsec. (g).
 
-1981—Subsec. (b). Pub. L. 97–35, §1702(a), substituted provisions that except as provided in subsec. (c), theannuities payable from the Fund having a commencing date not later than March 1 of each year shall be increased by the percent change in the price index published for December of the preceding year over the price index published for December of the year prior to the preceding year, adjusted to the nearest 1/10 of 1 percent, for provisions requiring the Office to determine on Jan. 1 and July 1 of each year the percent change in the price index based on the data for a six month period and to adjust the annuities in March and September of each year according to specified formula when there is a rise in the price index.
+1981—Subsec. (b). Pub. L. 97–35, §1702(a), substituted provisions that except as provided in subsec. (c), the annuities payable from the Fund having a commencing date not later than March 1 of each year shall be increased by the percent change in the price index published for December of the preceding year over the price index published for December of the year prior to the preceding year, adjusted to the nearest 1/10 of 1 percent, for provisions requiring the Office to determine on Jan. 1 and July 1 of each year the percent change in the price index based on the data for a six month period and to adjust the annuities in March and September of each year according to specified formula when there is a rise in the price index.
 
 Subsec. (c)(1). Pub. L. 97–35, §1702(b), in opening provision inserted reference to the widow or widower of a deceased annuitant whose annuity has not been increased under this subsection or subsection (b) of this section, in par. (A) substituted “1/12” for “1/6”, and in subpar. (B) designated existing provisions as item (i) and added item (ii).
 
@@ -236,7 +236,7 @@ Section 2201(a) of Pub. L. 98–369 provided that: “Notwithstanding any other 
 
 Section 301(a)–(c) of Pub. L. 97–253, as amended by Pub. L. 98–270, title I, §201(c), Apr. 18, 1984, 98 Stat. 158; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403, provided that:
 
-“(a)(1) Except as provided in paragraph (3), the cost-of-living increase under any Government retirement system in annuity or retired or retainer pay of any early retiree taking effect in each of fiscal years 1983, 1984, and 1985, shall be equal to one-half of the assumed increase in the price index for that year.
+“(a)(1) Except as provided in paragraph (3), the cost-of-living increase under any Government retirementsystem in annuity or retired or retainer pay of any early retiree taking effect in each of fiscal years 1983, 1984, and 1985, shall be equal to one-half of the assumed increase in the price index for that year.
 
 “(2) For purposes of this subsection, an individual shall be considered to be an early retiree if—
 
@@ -268,7 +268,7 @@ Section 301(a)–(c) of Pub. L. 97–253, as amended by Pub. L. 98–270, title 
 
 “(5) The amount of any survivor annuity which is based on the service of any early retiree subject to this subsection shall be computed as if this subsection had not been enacted.
 
-“(b) \[Repealed. Pub. L. 98–270, title II, §201(c)(2), Apr. 18, 1984, 98 Stat. 158\]
+“(b) \[Repealed. Pub. L. 98–270, title II, §201(c)(2), Apr. 18, 1984, 98 Stat. 158.\]
 
 “(c) For purposes of this section, the term ‘cost-of-living increase under a Government retirement system’ means any increase under—
 

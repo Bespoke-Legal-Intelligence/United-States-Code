@@ -2,7 +2,7 @@
 
 #### (a) Authorization for design and construction of facilities; objectives
 
-The Chairman is authorized to initiate a program to design and construct, in specific solar energy technologies (including, but not limited to, those listed in section 5555(c) of this title,<sup>1</sup> facilities or powerplants of sufficient size to demonstrate the technical and economic feasibility of utilizing the various forms of solar energy. The specific goals of such programs shall include—
+The Chairman is authorized to initiate a program to design and construct, in specific solar energy technologies (including, but not limited to, those listed in section 5555(c) of this title,<sup>1</sup> facilities or powerplants of sufficient size todemonstrate the technical and economic feasibility of utilizing the various forms of solar energy. The specific goals of such programs shall include—
 
 &emsp;(1) production of electricity from a number of powerplants, on the order of one to ten megawatts each;
 

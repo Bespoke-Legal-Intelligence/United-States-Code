@@ -6,7 +6,7 @@ The Commissioner may require the applicant to disclaim an unregistrable componen
 
 #### (b) Prejudice of rights
 
-No disclaimer, including those made under subsection (e) of section 1057 of this title, shall prejudice or affect the applicant's or registrant's rights then existing or thereafter arising in the disclaimed matter, or his right of registration on another application if the disclaimed matter be or shall have become distinctive of his goods or services.
+No disclaimer, including those made under subsection (e) of section 1057 of this title, shall prejudice or affect the applicant's or registrant's rights then existing or thereafter arising in the disclaimed matter, or his right of registration on another application if the disclaimed matterbe or shall have become distinctive of his goods or services.
 
 (July 5, 1946, ch. 540, title I, §6, 60 Stat. 429; Oct. 9, 1962, Pub. L. 87–772, §3, 76 Stat. 769; Nov. 16, 1988, Pub. L. 100–667, title I, §108, 102 Stat. 3938.)
 

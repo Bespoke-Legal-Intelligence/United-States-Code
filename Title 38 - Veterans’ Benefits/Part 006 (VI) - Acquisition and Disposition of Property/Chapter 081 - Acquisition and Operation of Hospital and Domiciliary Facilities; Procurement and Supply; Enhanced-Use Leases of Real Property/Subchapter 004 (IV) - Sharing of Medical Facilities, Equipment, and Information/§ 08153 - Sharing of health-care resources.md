@@ -4,11 +4,11 @@
 
 (2) The Secretary may enter into a contract or other agreement under paragraph (1) if such resources are not, or would not be, used to their maximum effective capacity.
 
-(3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of this title, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard to any law or regulation that would otherwise require the use of competitive procedures for acquiring the resource.
+(3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of this title, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard to any law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
 
 (B)(i) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in subparagraph (A), any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordance with the simplified procedures prescribed pursuant to clause (ii).
 
-(ii) The Secretary, in consultation with the Administrator for Federal Procurement Policy, may prescribe simplified procedures for the procurement of health-care resources under this subparagraph. The Secretary shall publish such procedures for public comment in accordance with section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b). Such procedures shall permit all responsible sources to submit a bid, proposal, or quotation (as appropriate) for the resources to be procured and provide for the consideration by the Department of bids, proposals, or quotations so submitted.
+(ii) The Secretary, in consultation with the Administrator for Federal Procurement Policy, may prescribe simplified procedures for the procurement of health-care resources under this subparagraph. The Secretary shall publish such procedures for public comment in accordance with section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b). Such procedures shall permit all responsible sources, as appropriate, to submit a bid, proposal, or quotation (as appropriate) for the resources to be procured and provide for the consideration by the Department of bids, proposals, or quotations so submitted.
 
 (iii) Pending publication of the procedures under clause (ii), the Secretary shall (except as provided under subparagraph (A)) procure health-care resources referred to in clause (i) in accordance with all procurement laws and regulations.
 
@@ -42,13 +42,17 @@
 
 &emsp;(2) recommendations for the improvement or more effective administration of such activities.
 
-(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1374, §5053; amended Pub. L. 91–496, §4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, §303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, §115(a)(1), title II, §§206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, §304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, §202(b), Aug. 15, 1990, 104 Stat. 438; renumbered §8153, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, §301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193.)
+(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1374, §5053; amended Pub. L. 91–496, §4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, §303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, §115(a)(1), title II, §§206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, §304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, §202(b), Aug. 15, 1990, 104 Stat. 438; renumbered §8153, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, §301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, §402(d), (e), Nov. 21, 1997, 111 Stat. 2294.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1997—Subsec. (a)(3)(A). Pub. L. 105–114, §402(d), inserted “(including any Executive order, circular, or other administrative policy)” after “law or regulation”.
+
+Subsec. (a)(3)(B)(ii). Pub. L. 105–114, §402(e), which directed insertion of “, as appropriate,” after “all responsible sources” in second sentence, was executed by making the insertion after “all responsible sources” in third sentence, to reflect the probable intent of Congress.
 
 1996—Pub. L. 104–262, §301(d)(1), substituted “Sharing of health-care resources” for “Specialized medical resources” in section catchline.
 
@@ -76,7 +80,7 @@ Subsecs. (e) to (g). Pub. L. 104–262, §301(c)(4), added subsecs. (e) and (f) 
 
 1993—Subsec. (a). Pub. L. 103–210 designated existing provisions as par. (1) and substituted “other form of agreement for the mutual use, or exchange of use, of—” along with subpars. (A) and (B) and par. (2), for “other form of agreement, as set forth in clauses (1) and (2) below, between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools:
 
-&emsp;“(1) for the mutual use, or exchange of use, of specialized medical resources when such an agreementwill obviate the need for a similar resource to be provided in a Department health care facility; or
+&emsp;“(1) for the mutual use, or exchange of use, of specialized medical resources when such an agreement will obviate the need for a similar resource to be provided in a Department health care facility; or
 
 &emsp;“(2) for the mutual use, or exchange of use, of specialized medical resources in a Department health care facility, which have been justified on the basis of veterans’ care, but which are not utilized to their maximum effective capacity.”
 

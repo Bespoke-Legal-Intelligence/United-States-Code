@@ -86,7 +86,7 @@ A person shall not, other than as provided by law, knowingly obtain contractor b
 
 &emsp;&emsp;&emsp;(I) the contractor or someone acting for the contractor has been convicted for an offense punishable under paragraph (1), or
 
-&emsp;&emsp;&emsp;(II) the head of the agency that awarded the contract has determined, based upon a preponderance of the evidence, that thecontractor or someone acting for the contractor has engaged in conduct constituting such an offense.
+&emsp;&emsp;&emsp;(II) the head of the agency that awarded the contract has determined, based upon a preponderance of the evidence, that the contractor or someone acting for the contractor has engaged in conduct constituting such an offense.
 
 &emsp;&emsp;(iii) Initiation of suspension or debarment proceedings for the protection of the Government in accordance with procedures in the Federal Acquisition Regulation.
 
@@ -274,5 +274,5 @@ Pub. L. 101–194, title V, §507(1), Nov. 30, 1989, 103 Stat. 1759, provided th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 43 section 1475a.
+This section is referred to in title 15 section 657a; title 22 section 3861; title 43 section 1475a.
 

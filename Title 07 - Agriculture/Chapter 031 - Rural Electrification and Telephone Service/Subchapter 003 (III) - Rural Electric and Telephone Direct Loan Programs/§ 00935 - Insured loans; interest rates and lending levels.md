@@ -114,7 +114,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (C) Effect of lack of funds
 
-&emsp;&emsp;On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shall be considered to have applied for a loan under subchapter IV of this chapter.
+&emsp;&emsp;On request of any applicant who is eligible for a loan under this paragraph for which funds are not available, the applicant shallbe considered to have applied for a loan under subchapter IV of this chapter.
 
 #### (2) Cost-of-money loans
 
@@ -124,7 +124,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;&emsp;(i) The average number of subscribers per mile of line in the service area of the applicant is not more than 15, or the applicant is capable of producing net income or margins before interest of not less than 100 percent (but not more than 500 percent) of the interest requirements on all of the outstanding and proposed loans of the applicant.
 
-&emsp;&emsp;&emsp;(ii) The Secretary has approved a telecommunications modernization plan forthe State under paragraph (3) and, if the plan was developed by telephone borrowers under this subchapter, the applicant is a participant in the plan.
+&emsp;&emsp;&emsp;(ii) The Secretary has approved a telecommunications modernization plan for the State under paragraph (3) and, if the plan was developed by telephone borrowers under this subchapter, the applicant is a participant in the plan.
 
 #### (B) Concurrent loan authority
 

@@ -16,7 +16,7 @@ This section shall not apply to any United States Information Agency post closed
 
 &emsp;(2) where there is a real and present threat to United States diplomats in the city where the post is located and where a travel advisory warning against travel by United States citizens to the city has been issued by the Department of State.
 
-(Jan. 27, 1948, ch. 36, title VIII, §812, as added Oct. 28, 1991, Pub. L. 102–138, title II, §206(a), 105 Stat. 693.)
+(Jan. 27, 1948, ch. 36, title VIII, §812, as added Pub. L. 102–138, title II, §206(a), Oct. 28, 1991, 105 Stat. 693.)
 
 #### Prior Provisions
 
@@ -28,5 +28,5 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 #### Reductions in American Employees
 
-Section 206(b) of Pub. L. 102–138 provided that: “Reductions may not be made in the number of positions filled by American employees of the United States Information Agency stationed abroad until the number of such employees is the same percentage of the total number of American employees of the Agency as the number of American employees of the Agency stationed abroad in 1981 was to the total number of American employees at the Agency at the same time in 1981.”
+Section 206(b) of Pub. L. 102–138 provided that: “Reductions may not be made in the number of positions filled by American employees of the United States Information Agency stationed abroad until the number ofsuch employees is the same percentage of the total number of American employees of the Agency as the number of American employees of the Agency stationed abroad in 1981 was to the total number of American employees at the Agency at the same time in 1981.”
 

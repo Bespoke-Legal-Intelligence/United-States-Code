@@ -106,7 +106,7 @@ Section 3(b) of Pub. L. 93–423 provided that: “Any area of substantial unemp
 
 #### Executive Order No. 11307
 
-Ex. Ord. No. 11307, Sept. 30, 1966, 31 F.R. 12917, which provided for coordination of Federal programs affectingagricultural and rural area development, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11307, Sept. 30, 1966, 31 F.R. 12917, which provided for coordination of Federal programs affecting agricultural and rural area development, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ Program.—As part of the Defense Environmental Restoration Program, the Secreta
 
 (b)
 
-Special Permit.—The Administrator may use the authorities of section 3005(g) of the Solid Waste Disposal Act (42 U.S.C. 6925(g)) to issue a permit for testing and evaluation which receives support under this section.
+Special Permit.—The Administrator may use the authorities of section 3005(g) of the SolidWaste Disposal Act (42 U.S.C. 6925(g)) to issue a permit for testing and evaluation which receives support under this section.
 
 (c)
 
@@ -40,19 +40,85 @@ Role of epa.—The functions of the Secretary under paragraph (1) shall be carri
 
 Section 311(a)(5) of CERCLA, referred to in subsec. (a), is classified to section 9660(a)(5) of Title 42, The Public Health and Welfare.
 
-#### Agreements for Services of Other Agencies in Support of Environmental Technology Certification
+#### Partnerships for Investment in Innovative Environmental Technologies
 
-Pub. L. 104–201, div. A, title III, §327, Sept. 23, 1996, 110 Stat. 2483, provided that:
+Pub. L. 105–85, div. A, title III, §349, Nov. 18, 1997, 111 Stat. 1690, provided that:
 
 “(a)
 
-Authority.—Subject to subsection (b), the Secretary of Defense may enter into a cooperative agreement with an agency of a State or local government to obtain assistance in certifying environmental technologies.
+Authority.—Subject to subsection (b), the Secretary of Defense may enter into a partnership with one or more private entities to demonstrate and validate innovative environmental technologies.
+
+“(b)
+
+Limitations.—The Secretary of Defense may enter into a partnership with respect to an environmental technology under subsection (a) only if—
+
+&emsp;“(1) any private entities participating in the partnership are selected through the use of competitive procedures;
+
+&emsp;“(2) the partnership provides for parties other than the Department of Defense to provide at least 50 percent of the funding required (not including in-kind contributions or preexisting investments); and
+
+&emsp;“(3) the Secretary determines that—
+
+&emsp;&emsp;“(A) the technology has clear potential to be of significant value to the Department of Defense in its environmental remediation activities at a substantial number of Department of Defense sites; and
+
+&emsp;&emsp;“(B) the technology would not be developed without the commitment of Department of Defense funds.
+
+“(c)
+
+Evaluation Guidelines.—Before entering into a partnership with respect to an environmental technology under subsection (a), the Secretary of Defense shall give consideration to the following:
+
+&emsp;“(1) The potential for the technology to be used by the Department of Defense for environmental remediation.
+
+&emsp;“(2) The technical feasibility and maturity of the technology.
+
+&emsp;“(3) The adequacy of financial and management plans to demonstrate and validate the technology.
+
+&emsp;“(4) The costs and benefits to the Department of Defense of developing and using the technology.
+
+&emsp;“(5) The potential for commercialization of the technology.
+
+&emsp;“(6) The proposed arrangements for sharing the costs of the partnership through the use of resources outside the Department of Defense.
+
+“(d)
+
+Funding.—Under a partnership entered into under subsection (a), the Secretary of Defense may provide funds to the partner or partners from appropriations available to the Department of Defense for environmental activities, for a period of up to five years.
+
+“(e)
+
+Report.—In the annual report required under section 2706(a) of title 10, United States Code, the Secretary of Defense shall include the following information with respect to partnerships entered into under this section:
+
+&emsp;“(1) The number of such partnerships.
+
+&emsp;“(2) A description of the nature of the technology involved in each such partnership.
+
+&emsp;“(3) A list of all partners in such partnerships.
+
+“(f)
+
+Coordination.—The Secretary of Defense shall ensure that the Department of Defense coordinates with the Administrator of the Environmental Protection Agency in any verification sponsored by the Department of technologies demonstrated and validated by a partnership entered into under this section.
+
+“(g)
+
+Procedures.—The Secretary of Defense shall develop appropriate procedures to ensure that all Department of Defense funds committed to a partnership entered into under this section are expended for the purpose authorized in the partnership agreement. The Secretary may not enter into a partnership under this section until 30 days after the date on which a copy of such procedures is provided to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives.
+
+“(h)
+
+Termination of Authority.—The authority to enter into agreements under subsection (a) shall terminate three years after the date of the enactment of this Act \[Nov. 18, 1997\].”
+
+#### Agreements for Services of Other Agencies in Support of Environmental Technology Certification
+
+Pub. L. 105–85, div. A, title III, §342(d), Nov. 18, 1997, 111 Stat. 1686, provided that: “Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense shall submit to Congress a report setting forth the guidelines established by the Secretary for reimbursement of State and local governments, and for cost-sharing between the Department of Defense, such governments, and vendors, under cooperative agreements entered into under such section 327 \[section 327 of Pub. L. 104–201, set out below\].”
+
+Pub. L. 104–201, div. A, title III, §327, Sept. 23, 1996, 110 Stat. 2483, as amended by Pub. L. 105–85, div. A, title III, §342(a)–(c), Nov. 18, 1997, 111 Stat. 1686, provided that:
+
+“(a)
+
+Authority.—Subject to subsection (b), the Secretary of Defense may enter into a cooperative agreement with an agency of a State or local government, or with an Indian tribe, to obtain assistance in certifying environmental technologies.
 
 “(b)
 
 Limitations.—The Secretary of Defense may enter into a cooperative agreement with respect to an environmental technology under subsection (a) only if the Secretary determines—
 
-&emsp;“(1) that the technology has clear potential to be of significant value to the Department of Defense in carrying out its environmental restoration activities; and
+&emsp;“(1) that the technology has clear potential to be of significant value to the Department of Defense; and
 
 &emsp;“(2) that there is no reasonably available market in the private sector for the technology without a certification by the Department of Defense, the Environmental Protection Agency, or a State environmental agency.
 
@@ -62,7 +128,7 @@ Types of Assistance.—The types of assistance that may be obtained under subsec
 
 &emsp;“(1) Data collection and analysis.
 
-&emsp;“(2) Technical assistance in conducting a demonstration of an environmental technology, including the implementation of quality assurance and quality control programs.
+&emsp;“(2) Technical assistance in conducting a demonstration of an environmental technology, includingthe implementation of quality assurance and quality control programs.
 
 “(d)
 
@@ -76,7 +142,17 @@ Report.—In the annual report required under section 2706(a) of title 10, Unite
 
 &emsp;“(4) The amount of funds obligated or expended by the Department of Defense for each such agreement during the year covered by the report.
 
+&emsp;“(5) A statement of the funding that will be required to meet commitments made to State and local governments and Indian tribes under such agreements entered into during the fiscal year preceding the fiscal year in which the report is submitted.
+
+&emsp;“(6) A description of any cost-sharing arrangement under any such agreements.
+
 “(e)
 
+Definition.—In this section, the term ‘Indian tribe’ has the meaning given that term by section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(36)).
+
+“(f)
+
 Termination of Authority.—The authority provided under subsection (a) shall terminate five years after the date of the enactment of this Act \[Sept. 23, 1996\].”
+
+\[Pub. L. 105–85, div. A, title III, §342(e), Nov. 18, 1997, 111 Stat. 1686, provided that: “The amendments made by this section \[amending section 327 of Pub. L. 104–201, set out above\] shall take effect 30 days after the date on which the report required by subsection (d) \[set out above\] is submitted to Congress.”\]
 

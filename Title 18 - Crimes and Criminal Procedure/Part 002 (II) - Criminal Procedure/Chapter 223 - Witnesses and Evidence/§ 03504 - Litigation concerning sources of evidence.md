@@ -6,7 +6,7 @@
 
 &emsp;(2) disclosure of information for a determination if evidence is inadmissible because it is the primary product of an unlawful act occurring prior to June 19, 1968, or because it was obtained by the exploitation of an unlawful act occurring prior to June 19, 1968, shall not be required unless such information may be relevant to a pending claim of such inadmissibility; and
 
-&emsp;(3) no claim shall be considered that evidence of an event is inadmissible on the ground that such evidence was obtained by the exploitation of an unlawful act occurring priorto June 19, 1968, if such event occurred more than five years after such allegedly unlawful act.
+&emsp;(3) no claim shall be considered that evidence of an event is inadmissible on the ground that such evidence was obtained by the exploitation of an unlawful act occurring prior to June 19, 1968, if such event occurred more than five years after such allegedly unlawful act.
 
 (b) As used in this section “unlawful act” means any act the use of any electronic, mechanical, or other device (as defined in section 2510(5) of this title) in violation of the Constitution or laws of the United States or any regulation or standard promulgated pursuant thereto.
 
@@ -14,7 +14,7 @@
 
 #### Congressional Statement of Findings
 
-Section 701 of title VII of Pub. L. 91–452 provided that: “The Congress finds that claims that evidence offered in proceedings was obtained by the exploitation of unlawful acts, and is therefore inadmissible in evidence, (1) often cannot reliably be determined when such claims concern evidence of events occurring years after the allegedly unlawful act, and (2) when the allegedly unlawful act has occurred more than five years prior to the event in question, there is virtually no likelihood that the evidence offered to prove the event has been obtained by the exploitation of that allegedly unlawful act.”
+Section 701 of title VII of Pub. L. 91–452 provided that: “The Congress finds that claims that evidence offered in proceedings was obtained by the exploitation of unlawful acts, and is therefore inadmissible in evidence, (1) often cannot reliably be determined when such claims concern evidence of events occurring years after the allegedly unlawful act, and (2) when the allegedlyunlawful act has occurred more than five years prior to the event in question, there is virtually no likelihood that the evidence offered to prove the event has been obtained by the exploitation of that allegedly unlawful act.”
 
 #### Applicability to Proceedings
 

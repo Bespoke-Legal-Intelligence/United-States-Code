@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–190 substituted “Under” for “Except in time of war declared by Congress, andunder” and “rate of $150” for “lowest rate for hazardous duty incentive pay specified in section 301(c)(1) of this title”.
+1991—Subsec. (a). Pub. L. 102–190 substituted “Under” for “Except in time of war declared by Congress, and under” and “rate of $150” for “lowest rate for hazardous duty incentive pay specified in section 301(c)(1) of this title”.
 
 1990—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: “The Secretary of Defense shall report to Congress by March 1 of each year on the administration of this section during the preceding calendar year.”
 

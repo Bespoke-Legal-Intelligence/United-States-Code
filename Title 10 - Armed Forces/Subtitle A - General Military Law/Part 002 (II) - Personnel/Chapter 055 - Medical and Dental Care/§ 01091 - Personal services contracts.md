@@ -2,7 +2,9 @@
 
 (a)
 
-Authority.—The Secretary of Defense, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Transportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy, may enter into personal services contracts to carry out health care responsibilities in such facilities, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
+Authority.—(1) The Secretary of Defense, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Transportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy, may enter into personal services contracts to carry out health care responsibilities in such facilities, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
+
+(2) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may also enter into personal services contracts to carry out other health care responsibilities of the Secretary (such as the provision of medical screening examinations at Military Entrance Processing Stations) at locations outside medical treatment facilities, as determined necessary pursuant to regulations prescribed by the Secretary. The Secretary may not enter into a contract under this paragraph after the end of the one-year period beginning on the date of the enactment of this paragraph.
 
 (b)
 
@@ -16,15 +18,21 @@ Procedures.—(1) The Secretary shall establish by regulation procedures for ent
 
 &emsp;(B) consideration of interested individuals solely on the basis of the qualifications established for the contract and the proposed contract price.
 
-(2) Upon the establishment of the procedures under paragraph (1), the Secretary may exemptcontracts covered by this section from the competitive contracting requirements specified in section 2304 of this title or any other similar requirements of law.
+(2) Upon the establishment of the procedures under paragraph (1), the Secretary may exempt contracts covered by this section from the competitive contracting requirements specified in section 2304 of this title or any other similar requirements of law.
 
 (d)
 
 Exceptions.—The procedures and exemptions provided under subsection (c) shall not apply to personal services contracts entered into under subsection (a) with entities other than individuals or to any contract that is not an authorized personal services contract under subsection (a).
 
-(Added Pub. L. 98–94, title IX, §932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, §714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, §712(a)(1), Nov. 30, 1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, §733(a), Feb. 10, 1996, 110 Stat. 381.)
+(Added Pub. L. 98–94, title IX, §932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, §714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, §712(a)(1), Nov. 30, 1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, §733(a), Feb. 10, 1996, 110 Stat. 381; Pub. L. 105–85, div. A, title VII, §736(a), Nov. 18, 1997, 111 Stat. 1814.)
+
+#### References in Text
+
+The date of the enactment of this paragraph, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
 
 1996—Subsec. (a). Pub. L. 104–106 inserted “, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Transportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense” and substituted “such facilities” for “medical treatment facilities of the Department of Defense”.
 
@@ -70,5 +78,5 @@ Section 712(b) of Pub. L. 103–160 provided that: “Not later than 30 days aft
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1072 of this title.
+This section is referred to in sections 1072, 1089 of this title.
 

@@ -20,6 +20,12 @@ Every contract, combination in the form of trust or otherwise, or conspiracy, in
 
 Section 4 of Pub. L. 94–145 provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\].”
 
+#### Short Title of 1997 Amendments
+
+Pub. L. 105–43, §1, Sept. 17, 1997, 111 Stat. 1140, provided that: “This Act \[enacting and amending provisions set out as notes below\] may be cited as the ‘Need-Based Educational Aid Antitrust Protection Act of 1997’.”
+
+Pub. L. 105–26, §1, July 3, 1997, 111 Stat. 241, provided that: “This Act \[amending sections 37 and 37a of this title and enacting provisions set out as notes under section 37 of this title\] may be cited as the ‘Charitable Donation Antitrust Immunity Act of 1997’.”
+
 #### Short Title of 1995 Amendment
 
 Pub. L. 104–63, §1, Dec. 8, 1995, 109 Stat. 687, provided that: “This Act \[enacting sections 37 and 37a of this title and provisions set out as a note under section 37 of this title\] may be cited as the ‘Charitable Gift Annuity Antitrust Relief Act of 1995’.”
@@ -46,7 +52,7 @@ Section 1 of Pub. L. 94–435, Sept. 30, 1976, 90 Stat. 1383, provided: “That 
 
 #### Short Title of 1975 Amendment
 
-Section 1 of Pub. L. 94–145 provided: “That this Act \[amending this section and section 45 of this title andenacting provisions set out as a note under this section\] may be cited as the ‘Consumer Goods Pricing Act of 1975’.”
+Section 1 of Pub. L. 94–145 provided: “That this Act \[amending this section and section 45 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Consumer Goods Pricing Act of 1975’.”
 
 #### Short Title of 1974 Amendment
 
@@ -58,11 +64,11 @@ Pub. L. 94–435, title III, §305(a), Sept. 30, 1976, 90 Stat. 1397, added imme
 
 #### Application of Antitrust Laws to Award of Need-Based Educational Aid
 
-Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, provided that:
+Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140, provided that:
 
 “(a)
 
-Temporary Exemption.—It shall not be unlawful under the antitrust laws for 2 or more institutions of higher education at which all students admitted are admitted on a need-blind basis, to agree or attempt to agree—
+Exemption.—It shall not be unlawful under the antitrust laws for 2 or more institutions of higher education at which all students admitted are admitted on a need-blind basis, to agree or attempt to agree—
 
 &emsp;“(1) to award such students financial aid only on the basis of demonstrated financial need for such aid;
 
@@ -70,7 +76,7 @@ Temporary Exemption.—It shall not be unlawful under the antitrust laws for 2 o
 
 &emsp;“(3) to use a common aid application form for need-based financial aid for such students if the agreement to use such form does not restrict such institutions in their requesting from such students, or in their using, data in addition to the data requested on such form; or
 
-&emsp;“(4) to exchange through an independent third party, before awarding need-based financial aid to any of such students who is commonly admitted to the institutions of higher education involved, data with respect to the student so admitted and the student's family relating to assets, income, expenses, the number of family members, and the number of the student's siblings in college, if each of such institutions is permitted to retrieve such data only once with respect to the student.
+&emsp;“(4) to exchange through an independent third party, before awarding need-based financial aid to any of such students who is commonly admitted to the institutions of higher education involved, data submitted by the student so admitted, the student's family, or a financial institution on behalf of the student or the student's family relating to assets, liabilities, income, expenses, the number of family members, and the number of the student's siblings in college, if each of such institutions of higher education is permitted to retrieve such data only once with respect to the student.
 
 “(b)
 
@@ -100,7 +106,9 @@ Definitions.—For purposes of this section—
 
 “(d)
 
-Expiration.—Subsection (a) shall expire on September 30, 1997.”
+Expiration.—Subsection (a) shall expire on September 30, 2001.”
+
+\[Pub. L. 105–43, §2(b), Sept. 17, 1997, 111 Stat. 1140, provided that: “The amendments made by subsection (a) \[amending section 568(a)–(d) of Pub. L. 103–382, set out above\] shall take effect immediately before September 30, 1997.”\]
 
 #### Cross References
 
@@ -120,7 +128,7 @@ Trusts in territories or District of Columbia prohibited, see section 3 of this 
 
 #### Sherman Act Referred to in Other Sections
 
-The Sherman Act \[15 U.S.C. 1 to 7\] is referred to in sections 12, 15c, 15d, 29, 30, 31, 44, 62, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849; title 16 section 2602; title 30 sections 184, 1413; title 33 section 1502; title 40 section 488; title 42 sections 2135, 2297b–11, 5417, 5909, 6202, 8235f, 9102; title 43 sections 970, 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
+The Sherman Act \[15 U.S.C. 1 to 7\] is referred to in sections 12, 15c, 15d, 29, 30, 31, 44, 62, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849; title 16 section 2602; title 30 sections 184, 1413; title 40 section 488; title 42 sections 2135, 2297b–11, 5417, 5909, 6202, 8235f, 9102; title 43 sections 970, 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 The Administrator of General Services shall have charge of all lands and other property which have been or may be assigned, set off, or conveyed to the United States in payment of debts, and of all trusts created for the use of the United States in payment of debts due them; and of the sale and disposal of lands assigned or set off to the United States in payment of debts, or vested in them by mortgage or other security for the payment of debts: <i>Provided</i>, That this section shall not apply to real estate which has been or shall be assigned, set off, or conveyed to the United States, in payment of debts arising under the internal-revenue laws, nor to trusts created for the use of the United States, in payment of such debts due them.
 
-(R.S. §3750; May 10, 1934, ch. 277, §512(b), 48 Stat. 759; June 2, 1965, Pub. L. 89–30, §2, 79 Stat. 119.)
+(R.S. §3750; May 10, 1934, ch. 277, §512(b), 48 Stat. 759; Pub. L. 89–30, §2, June 2, 1965, 79 Stat. 119.)
 
 #### References in Text
 

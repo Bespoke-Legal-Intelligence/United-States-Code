@@ -4,7 +4,7 @@
 
 (b) A determination made by the Attorney General under section 47b of this title shall be final and conclusive and no court shall have power or jurisdiction to review it.
 
-(July 15, 1955, ch. 372, §5, 69 Stat. 366; Aug. 17, 1974, Pub. L. 93–377, §1(b), 88 Stat. 473.)
+(July 15, 1955, ch. 372, §5, 69 Stat. 366; Pub. L. 93–377, §1(b), Aug. 17, 1974, 88 Stat. 473.)
 
 #### Amendments
 

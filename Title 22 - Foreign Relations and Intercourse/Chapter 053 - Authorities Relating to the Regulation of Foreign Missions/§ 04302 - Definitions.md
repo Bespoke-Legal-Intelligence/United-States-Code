@@ -22,7 +22,7 @@
 
 &emsp;(2) “chancery” means the principal offices of a foreign mission used for diplomatic or related purposes, and annexes to such offices (including ancillary offices and support facilities), and includes the site and any building on such site which is used for such purposes;
 
-&emsp;(3) “foreign mission” means any mission to or agency or entity in the United States which is involved in the diplomatic, consular, orother activities of, or which is substantially owned or effectively controlled by—
+&emsp;(3) “foreign mission” means any mission to or agency or entity in the United States which is involved in the diplomatic, consular, or other activities of, or which is substantially owned or effectively controlled by—
 
 &emsp;&emsp;(A) a foreign government, or
 
@@ -40,7 +40,7 @@
 
 (b) Determinations with respect to the meaning and applicability of the terms used in subsection (a) of this section shall be committed to the discretion of the Secretary.
 
-(Aug. 1, 1956, ch. 841, title II, §202, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283; amended Aug. 16, 1985, Pub. L. 99–93, title I, §127(b), 99 Stat. 418; Oct. 27, 1986, Pub. L. 99–569, title VII, §701, 100 Stat. 3204; Dec. 22, 1987, Pub. L. 100–204, title I, §153(e), 101 Stat. 1353; Apr. 30, 1994, Pub. L. 103–236, title I, §162(<i>o</i>)(1), 108 Stat. 409.)
+(Aug. 1, 1956, ch. 841, title II, §202, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, §127(b), Aug. 16, 1985, 99 Stat. 418; Pub. L. 99–569, title VII, §701, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 100–204, title I, §153(e), Dec. 22, 1987, 101 Stat. 1353; Pub. L. 103–236, title I, §162(<i>o</i>)(1), Apr. 30, 1994, 108 Stat. 409.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority of Secretary.—The Secretary of the Air Force may employ as many civiliansas professors, instructors, and lecturers at a school of the Air University as the Secretary considers necessary.
+Authority of Secretary.—The Secretary of the Air Force may employ as many civilians as professors, instructors, and lecturers at a school of the Air University as the Secretary considers necessary.
 
 (b)
 

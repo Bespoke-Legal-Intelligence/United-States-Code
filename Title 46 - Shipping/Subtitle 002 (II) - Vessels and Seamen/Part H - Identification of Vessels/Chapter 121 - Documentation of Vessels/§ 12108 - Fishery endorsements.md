@@ -26,7 +26,7 @@
 
 (d) A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) or section 308 of the Interjurisdictional Fisheries Act <sup>1</sup> (16 U.S.C. 4107) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 98–454, title III, §301(c), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 100–239, §§3(4), (5), 6(a)(6), Jan. 11, 1988, 101 Stat. 1779, 1782; Pub. L. 101–225, title III, §301(a)(8), Dec. 12, 1989, 103 Stat. 1921; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title III, §301(e), title VII, §744, Oct. 19, 1996, 110 Stat. 3917, 3942.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 98–454, title III, §301(c), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 100–239, §§3(4), (5), 6(a)(6), Jan. 11, 1988,101 Stat. 1779, 1782; Pub. L. 101–225, title III, §301(a)(8), Dec. 12, 1989, 103 Stat. 1921; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title III, §301(e), title VII, §744, Oct. 19, 1996, 110 Stat. 3917, 3942.)
 
 Historical and Revision Notes
 
@@ -114,7 +114,7 @@ Section 4 of Pub. L. 100–239, as amended by Pub. L. 101–225, title III, §31
 
 #### Extension of Period for Rebuilding Vessels in Foreign Countries
 
-Section 6(c)(3) of Pub. L. 100–239 provided that: “The Secretary, on proof of circumstances beyond the control of the owner of a vessel affected by this section \[amending sections 2101, 12106, 12107, and 12108 of this title and section 883 of the Appendix to this title, and enacting notes set out under sections 12105 and 12108 of this title and section 883 of the Appendix to this title\], may extend the period for rebuilding in a foreign country permitted by this section.”
+Section 6(c)(3) of Pub. L. 100–239 provided that: “The Secretary, on proof of circumstances beyond the control of the owner of a vessel affected by this section \[amending sections 2101, 12106, 12107, and 12108 of this title and section 883 of the Appendix to this title, and enacting notes set out under sections 12105 and 12108 of this title and section 883 of the Appendix to this title\],may extend the period for rebuilding in a foreign country permitted by this section.”
 
 #### Definitions
 

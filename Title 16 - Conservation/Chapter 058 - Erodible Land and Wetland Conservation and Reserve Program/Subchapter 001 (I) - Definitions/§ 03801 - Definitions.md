@@ -24,7 +24,7 @@ Conservation system.—The term “conservation system” means a combination of
 
 &emsp;&emsp;(A) are based on local resource conditions, available conservation technology, and the standards and guidelines contained in the Natural Resources Conservation Service field office technical guides; and
 
-&emsp;&emsp;(B) are designed to achieve, in a cost effective and technically practicable manner, a substantial reduction in soil erosion or a substantial improvement in soil conditionson a field or group of fields containing highly erodible cropland when compared to the level of erosion or soil conditions that existed before the application of the conservation measures and management practices.
+&emsp;&emsp;(B) are designed to achieve, in a cost effective and technically practicable manner, a substantial reduction in soil erosion or a substantial improvement in soil conditions on a field or group of fields containing highly erodible cropland when compared to the level of erosion or soil conditions that existed before the application of the conservation measures and management practices.
 
 &emsp;(4) The term “conservation district” means any district or unit of State or local government formed under State or territorial law for the express purpose of developing and carrying out a local soil and water conservation program. Such district or unit of government may be referred to as a “conservation district”, “soil conservation district”, “soil and water conservation district”, “resource conservation district”, “natural resource district”, “land conservation committee”, or a similar name.
 
@@ -48,7 +48,7 @@ Conservation system.—The term “conservation system” means a combination of
 
 &emsp;(7)
 
-Field.—The term “field” means a part of a farm that is separated from the balance of the farm by permanent boundaries such as fences, roads, permanent waterways, or other similar features. At the option of the owner or operator of the farm, croplines may also be used to delineate a field if farming practices make it probable that the croplines are not subject to change. Any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title, shall be considered as part of the field in which the land was included on December 23, 1985, unless the owner and Secretary agree to modification of the boundaries of the field to carry out this chapter.
+Field.—The term “field” means a part of a farm that is separated from the balance of the farm by permanent boundaries such asfences, roads, permanent waterways, or other similar features. At the option of the owner or operator of the farm, croplines may also be used to delineate a field if farming practices make it probable that the croplines are not subject to change. Any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title, shall be considered as part of the field in which the land was included on December 23, 1985, unless the owner and Secretary agree to modification of the boundaries of the field to carry out this chapter.
 
 &emsp;(8) The term “highly erodible cropland” means highly erodible land that is in cropland use, as determined by the Secretary.
 

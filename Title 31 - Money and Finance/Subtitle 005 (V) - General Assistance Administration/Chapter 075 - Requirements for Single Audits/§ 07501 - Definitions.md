@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) a public accountant who meets such independence standards;
 
-&emsp;(9) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as defined in, or established under, the Alaskan Native Claims Settlement Act) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
+&emsp;(9) “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaskan Native village or regional or village corporation (as definedin, or established under, the Alaskan Native Claims Settlement Act) that is recognized by the United States as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
 
 &emsp;(10) “internal controls” means a process, effected by an entity's management and other personnel, designed to provide reasonable assurance regarding the achievement of objectives in the following categories:
 
@@ -123,6 +123,10 @@ Section 1(b) of Pub. L. 98–502 provided that: “It is the purpose of this Act
 #### Tennessee Valley Authority Audits Unaffected by Single Audit Requirements
 
 Section 2(b) of Pub. L. 98–502 provided that: “The provisions of this Act \[enacting this chapter\] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 49 section 47107.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

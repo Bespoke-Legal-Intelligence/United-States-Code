@@ -1,8 +1,8 @@
 ### §44310. Ending effective date
 
-The authority of the Secretary of Transportation to provide insurance and reinsuranceunder this chapter is not effective after September 30, 1997.
+The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter is not effective after December 31, 1998.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 105–85, div. A, title X, §1088(a), Nov. 18, 1997, 111 Stat. 1921; Pub. L. 105–137, §5(a), Dec. 2, 1997, 111 Stat. 2641.)
 
 Historical and Revision Notes
 
@@ -21,6 +21,18 @@ Historical and Revision Notes
 Aug. 23, 1958, Pub. L. 85–726, §1312, 72 Stat. 806; July 20, 1961, Pub. L. 87–89, 75 Stat. 210; June 13, 1966, Pub. L. 89–447, 80 Stat. 199; Sept. 8, 1970, Pub. L. 91–399, 84 Stat. 837; Aug. 9, 1975, Pub. L. 94–90, §2, 89 Stat. 439; July 31, 1976, Pub. L. 94–374, 90 Stat. 1065; Nov. 9, 1977, Pub. L. 95–163, §6, 91 Stat. 1280; Oct. 14, 1982, Pub. L. 97–309, §3, 96 Stat. 1453; Oct. 30, 1987, Pub. L. 100–148, 101 Stat. 878; Oct. 31, 1992, Pub. L. 102–581, §402, 106 Stat. 4897.
 
 The words “is not effective after” are substituted for “shall expire at the termination of” for clarity and consistency in the revised title.
+
+#### Amendments
+
+1997—Pub. L. 105–137 substituted “December 31, 1998” for “September 30, 2002”.
+
+Pub. L. 105–85 substituted “September 30, 2002” for “September 30, 1997”.
+
+#### Effective Date of 1997 Amendments
+
+Pub. L. 105–137, §5(b), Dec. 2, 1997, 111 Stat. 2641, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 1997.”
+
+Pub. L. 105–85, div. A, title X, §1088(b), Nov. 18, 1997, 111 Stat. 1921, provided that: “This section \[amending this section\] shall take effect as of September 30, 1997.”
 
 #### Continuation of Aviation Insurance Laws
 

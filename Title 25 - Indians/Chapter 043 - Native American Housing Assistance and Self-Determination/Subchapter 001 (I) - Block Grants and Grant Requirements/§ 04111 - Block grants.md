@@ -20,7 +20,7 @@ For each fiscal year, the Secretary shall (to the extent amounts are made availa
 
 #### (c) Local cooperation agreement
 
-The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with thegrant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.
+The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.
 
 #### (d) Exemption from taxation
 
@@ -54,7 +54,7 @@ Except as provided in subsection (h) of this section, amounts provided under a g
 
 #### (h) Administrative expenses
 
-The Secretary shall, by regulation, authorize each recipient to use a percentage of any grant amounts received under this chapter for any reasonable administrative and planning expenses of the recipient relating to carrying out this chapter and activities assisted with such amounts, which may include costs for salaries of individuals engaged in administering and managing affordable housing activities assisted with grant amounts provided under this chapter and expenses of preparing an Indian housing plan under section 4112 of this title.
+The Secretary shall, by regulation, authorize each recipient to use a percentage of any grantamounts received under this chapter for any reasonable administrative and planning expenses of the recipient relating to carrying out this chapter and activities assisted with such amounts, which may include costs for salaries of individuals engaged in administering and managing affordable housing activities assisted with grant amounts provided under this chapter and expenses of preparing an Indian housing plan under section 4112 of this title.
 
 #### (i) Public-private partnerships
 

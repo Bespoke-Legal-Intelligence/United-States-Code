@@ -46,7 +46,7 @@ Pub. L. 103–322, §60003(a)(5), struck out “any such person who is found gui
 
 Subsec. (c). Pub. L. 103–272 substituted “section 46501(2) of title 49” for “section 101(38) of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301(38))”.
 
-1982—Subsec. (b)(5). Pub. L. 97–351 inserted provision relating to a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of foreign affairs.
+1982—Subsec. (b)(5). Pub. L. 97–351 inserted provision relating to a public organization created pursuant totreaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of foreign affairs.
 
 1978—Subsec. (c). Pub. L. 95–504 substituted reference to section 101(38) of the Federal Aviation Act of 1958 for reference to section 101(35) of such Act.
 

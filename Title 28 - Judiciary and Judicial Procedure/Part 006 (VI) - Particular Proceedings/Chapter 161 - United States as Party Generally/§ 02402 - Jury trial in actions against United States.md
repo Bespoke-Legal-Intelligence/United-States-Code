@@ -1,8 +1,8 @@
 ### §2402. Jury trial in actions against United States
 
-Any action against the United States under section 1346 shall be tried by the court without a jury, except that any action against the United States under section 1346(a)(1) shall, at the request of either party to such action, be tried by the court with a jury.
+Subject to chapter 179 of this title, any action against the United States under section 1346 shall be tried by the court without a jury, except that any action against the United States under section 1346(a)(1) shall, at the request of either party to such action, be tried by the court with a jury.
 
-(June 25, 1948, ch. 646, 62 Stat. 971; July 30, 1954, ch. 648, §2(a), 68 Stat. 589.)
+(June 25, 1948, ch. 646, 62 Stat. 971; July 30, 1954, ch. 648, §2(a), 68 Stat. 589; Pub. L. 104–331, §3(b)(3), Oct. 26, 1996, 110 Stat. 4069.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,13 @@ Provisions of title 28, U.S.C., 1940 ed., §41(20) relating to jurisdiction of d
 
 #### Amendments
 
-1954—Act July 30, 1954, permitted a jury trial at the request of either party in actions under section 1346(a)(1) of this title.
+<b>1996</b>—Pub. L. 104–331 substituted “Subject to chapter 179 of this title, any action” for “Any action”.
+
+<b>1954</b>—Act July 30, 1954, permitted a jury trial at the request of either party in actions under section 1346(a)(1) of this title.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–331 effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as an Effective Date note under section 1296 of this title.
 
 #### Section Referred to in Other Sections
 

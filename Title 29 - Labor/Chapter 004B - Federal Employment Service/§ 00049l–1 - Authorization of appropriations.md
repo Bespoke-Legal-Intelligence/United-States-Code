@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated such sums as may be necessary to enable the Secretary to provide funds through reimburseable <sup>1</sup> agreements with the States to operate statistical programs which are essential for development of estimates of the gross national product and other national statistical series, including those related to employment and unemployment.
 
-(June 6, 1933, ch. 49, §14, as added Oct. 13, 1982, Pub. L. 97–300, title VI, §601(h), formerly title V, §501(h), 96 Stat. 1397; renumbered title VI, §601(h), Nov. 7, 1988, Pub. L. 100–628, title VII, §712(a)(1), (2), 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §14, as added Pub. L. 97–300, title VI, §601(h), formerly title V, §501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, §601(h), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
 #### Effective Date
 

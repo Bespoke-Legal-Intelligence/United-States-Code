@@ -30,7 +30,7 @@ I74house report no. 94–1476
 
 Section 104 of the bill \[this section\], which sets forth the basic criteria under which works of foreign origin can be protected under the U.S. copyright law, divides all works coming within the scope of sections 102 and 103 into two categories: unpublished and published. Subsection (a) imposes no qualifications of nationality and domicile with respect to unpublished works. Subsection (b) would make published works subject to protection under any one of four conditions:
 
-&emsp;(1) The author is a national or domiciliary of the United States or of a country with which the United States has copyright relations under a treaty, or is a stateless person;
+&emsp;(1) The author is a national or domiciliary of the United States or of a country with which the UnitedStates has copyright relations under a treaty, or is a stateless person;
 
 &emsp;(2) The work is first published in the United States or in a country that is a party to the Universal Copyright Convention;
 
@@ -42,7 +42,7 @@ The third of these conditions represents a treaty obligation of the United State
 
 #### References in Text
 
-The Universal Copyright Convention, referred to in subsec. (b)(2), probably means the Universal CopyrightConvention as revised at Paris on July 24, 1971, effective July 10, 1974, set out below.
+The Universal Copyright Convention, referred to in subsec. (b)(2), probably means the Universal Copyright Convention as revised at Paris on July 24, 1971, effective July 10, 1974, set out below.
 
 #### Amendments
 
@@ -102,7 +102,7 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 2\. (a) The term of protection for works protected under this Convention shall not be less than the life of the author and twenty-five years after his death. However, any Contracting State which, on the effective date of this Convention in that State, has limited this term for certain classes of works to a period computed from the first publication of the work, shall be entitled to maintain these exceptions and to extend them to other classes of works. For all these classes the term of protection shall not be less than twenty-five years from the date of first publication.
 
-(b) Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the case may be, provided the term of protection shall not be less than twenty-five years from the date of first publication or from its registration prior to publication, as the case may be.
+(b) Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the case may be, provided the term of protection shall not beless than twenty-five years from the date of first publication or from its registration prior to publication, as the case may be.
 
 (c) If the legislation of a Contracting State grants two or more successive terms of protection, the duration of the first term shall not be less than one of the minimum periods specified in subparagraphs (a) and (b).
 
@@ -110,7 +110,7 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 4\. (a) No Contracting State shall be obliged to grant protection to a work for a period longer than that fixed for the class of works to which the work in question belongs, in the case of unpublished works by the law of the Contracting State of which the author is a national, and in the case of published works by the law of the Contracting State in which the work has been first published.
 
-(b) For the purposes of the application of subparagraph (a), if the law of any Contracting State grantstwo or more successive terms of protection, the period of protection of that State shall be considered to be the aggregate of those terms. However, if a specified work is not protected by such State during the second or any subsequent term for any reason, the other Contracting States shall not be obliged to protect it during the second or any subsequent term.
+(b) For the purposes of the application of subparagraph (a), if the law of any Contracting State grants two or more successive terms of protection, the period of protection of that State shall be considered to be the aggregate of those terms. However, if a specified work is not protected by such State during the second or any subsequent term for any reason, the other Contracting States shall not be obliged to protect it during the second or any subsequent term.
 
 5\. For the purposes of the application of paragraph 4, the work of a national of a Contracting State, first published in a non-Contracting State, shall be treated as though first published in the Contracting State of which the author is a national.
 
@@ -148,7 +148,7 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 3\. Notwithstanding the provisions of paragraph 2, a Contracting State that has ceased to be regarded as a developing country as referred to in paragraph 1 shall no longer be entitled to renew its notification made under the provisions of paragraph 1 or 2, and whether or not it formally withdraws the notification such State shall be precluded from availing itself of the exceptions provided for in Articles V<i>ter</i> and V<i>quater</i> at the end of the current ten-year period, or at the end of three years after it has ceased to be regarded as a developing country, whichever period expires later.
 
-4\. Any copies of a work already made under the exceptions provided for in Articles V<i>ter</i> and V<i>quater</i> may continue to be distributed after the expiration of the period for which notifications under this Article were effective until their stock is exhausted.
+4\. Any copies of a work already made under the exceptions provided for in Articles V<i>ter</i> and V<i>quater</i> maycontinue to be distributed after the expiration of the period for which notifications under this Article were effective until their stock is exhausted.
 
 5\. Any Contracting State that has deposited a notification in accordance with Article XIII with respect to the application of this Convention to a particular country or territory, the situation of which can be regarded as analogous to that of the States referred to in paragraph 1 of this Article, may also deposit notifications and renew them in accordance with the provisions of this Article with respect to any such country or territory. During the effective period of such notifications, the provisions of Articles V<i>ter</i> and V<i>quater</i> may be applied with respect to such country or territory. The sending of copies from the country or territory to the Contracting State shall be considered as export within the meaning of Articles V<i>ter</i> and V<i>quater.</i>
 
@@ -344,11 +344,11 @@ A dispute between two or more Contracting States concerning the interpretation o
 
 1\. This Convention shall not in any way affect the provisions of the Berne Convention for the Protection of Literary and Artistic Works or membership in the Union created by that Convention.
 
-2\. In application of the foregoing paragraph, a declaration has been annexed to the present Article. This declaration is an integral part of this Convention for the States bound by the Berne Convention on 1 January 1951, or which have or may become bound to it at a later date. The signature of this Convention by such States shall also constitute signature of the said declaration, and ratification, acceptance or accession by such States shall include the declaration, as well as this Convention.
+2\. In application of the foregoing paragraph, a declaration has been annexed to the present Article. Thisdeclaration is an integral part of this Convention for the States bound by the Berne Convention on 1 January 1951, or which have or may become bound to it at a later date. The signature of this Convention by such States shall also constitute signature of the said declaration, and ratification, acceptance or accession by such States shall include the declaration, as well as this Convention.
 
 #### Article XVIII
 
-This Convention shall not abrogate multilateral or bilateral copyright conventions or arrangements that are or may be in effect exclusively between two or more American Republics. In the event of any difference either between the provisions of such existing conventions or arrangements and the provisions of this Convention, or between the provisions of this Convention and those of any new convention or arrangement which may be formulated between two or more American Republics after this Convention comes into force, the convention or arrangement most recently formulated shall prevail between the parties thereto. Rightsin works acquired in any Contracting State under existing conventions or arrangements before the date this Convention comes into force in such State shall not be affected.
+This Convention shall not abrogate multilateral or bilateral copyright conventions or arrangements that are or may be in effect exclusively between two or more American Republics. In the event of any difference either between the provisions of such existing conventions or arrangements and the provisions of this Convention, or between the provisions of this Convention and those of any new convention or arrangement which may be formulated between two or more American Republics after this Convention comes into force, the convention or arrangement most recently formulated shall prevail between the parties thereto. Rights in works acquired in any Contracting State under existing conventions or arrangements before the date this Convention comes into force in such State shall not be affected.
 
 #### Article XIX
 
@@ -490,13 +490,13 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 #### Article IV
 
-1\. The duration of protection of a work shall be governed, in accordance with the provisions of article II and this article, by the law of the Contracting State in which protection is claimed.
+1\. The duration of protection of a work shall be governed, in accordance with the provisions of article IIand this article, by the law of the Contracting State in which protection is claimed.
 
 2\. The term of protection for works protected under this Convention shall not be less than the life of the author and 25 years after his death.
 
 However, any Contracting State which, on the effective date of this Convention in that State, has limited this term for certain classes of works to a period computed from the first publication of the work, shall be entitled to maintain these exceptions and to extend them to other classes of works. For all these classes the term of protection shall not be less than 25 years from the date of first publication.
 
-Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the casemay be, provided the term of protection shall not be less than 25 years from the date of first publication or from its registration prior to publication, as the case may be.
+Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the case may be, provided the term of protection shall not be less than 25 years from the date of first publication or from its registration prior to publication, as the case may be.
 
 If the legislation of a Contracting State grants two or more successive terms of protection, the duration of the first term shall not be less than one of the minimum periods specified above.
 
@@ -544,7 +544,7 @@ This Convention shall not apply to works or rights in works which, at the effect
 
 #### Article IX
 
-1\. This Convention shall come into force three months after the deposit of twelve instruments of ratification, acceptance or accession, among which there shall be those of four States which are not members of the International Union for the Protection of Literary and Artistic Works.
+1\. This Convention shall come into force three months after the deposit of twelve instruments of ratification, acceptance or accession, among which thereshall be those of four States which are not members of the International Union for the Protection of Literary and Artistic Works.
 
 2\. Subsequently, this Convention shall come into force in respect of each State three months after that State has deposited its instrument of ratification, acceptance or accession.
 
@@ -618,7 +618,7 @@ Reservations to this Convention shall not be permitted.
 
 #### Article XXI
 
-The Director-General of the United Nations Educational, Scientific and Cultural Organization shall send duly certified copies of this Convention to the States interested, to the Swiss Federal Council and to the Secretary-General of the United Nations for registration by him.
+The Director-General of the United Nations Educational, Scientific and Cultural Organization shallsend duly certified copies of this Convention to the States interested, to the Swiss Federal Council and to the Secretary-General of the United Nations for registration by him.
 
 He shall also inform all interested States of the ratifications, acceptances and accessions which have been deposited, the date on which this Convention comes into force, the notifications under Article XIII of this Convention, and denunciations under Article XIV.
 
@@ -714,7 +714,7 @@ Have agreed as follows:
 
 6\. (a) Ratification or acceptance or accession shall be effected by the deposit of an instrument to that effect with the Director-General.
 
-(b) This Protocol shall enter into force on the date of deposit of not less than four instruments of ratificationor acceptance or accession. The Director-General shall inform all interested States of this date. Instruments deposited after such date shall take effect on the date of their deposit.
+(b) This Protocol shall enter into force on the date of deposit of not less than four instruments of ratification or acceptance or accession. The Director-General shall inform all interested States of this date. Instruments deposited after such date shall take effect on the date of their deposit.
 
 In faith whereof the undersigned, being duly authorized thereto, have signed this Protocol.
 
@@ -722,7 +722,7 @@ Done at Geneva, the sixth day of September 1952, in the English, French and the 
 
 #### Particular Proclamations, Treaties and Conventions Establishing Copyright Relations Between the United States of America and Other Countries
 
-The following is based on <i>Treaties in Force</i>, as of January 1, 1997, published by the Department of State:
+The following is based on <i>Treaties in Force</i>, as of January 1, 1998, published by the Department of State:
 
 By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries. This appendix is an attempt to present a complete and annotated list of those countries. Treaties and conventions on the subject of copyright relations are also included in the preceding pages under appropriate country or subject headings.
 
@@ -1114,17 +1114,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Bahamas, The DUCC DSept. 6, 1952 DDec. 27, 1976 D6 UST 2731.
+Bahamas, The DBerne (Brussels) DJune 26, 1948 DJuly 10, 1973 D331 UNTS 217.
 
 &nbsp;
 
-Berne (Brussels)
+UCC
 
-June 26, 1948
+Sept. 6, 1952
 
-July 10, 1973
+Oct. 13, 1976
 
-331 UNTS 217.
+6 UST 2731.
 
 &nbsp;
 
@@ -1136,15 +1136,17 @@ Dec. 27, 1976
 
 25 UST 1341.
 
-Bahrain
+Bahrain DWTO DApr. 15, 1994 DJan. 1, 1995 D33 ILM 15.
 
-WTO
+&nbsp;
 
-Apr. 15, 1994
+Berne (Paris)
 
-Jan. 1, 1995
+July 24, 1971
 
-33 ILM 15.
+Mar. 2, 1997
+
+T. Doc. 99–27.
 
 Bangladesh DUCC DSept. 6, 1952 DAug. 5, 1975 D6 UST 2731.
 
@@ -1210,15 +1212,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Belarus
+Belarus DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
-UCC
+&nbsp;
 
-Sept. 6, 1952
+Berne (Paris)
 
-May 27, 1973
+July 24, 1971
 
-6 UST 2731.
+Dec. 12, 1997
+
+T. Doc. 99–27.
 
 Belgium DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
 
@@ -1586,7 +1590,7 @@ Berne (Rome)
 
 June 2, 1928
 
-Aug. 1, 1931
+Apr. 10, 1928
 
 123 LNTS 232.
 
@@ -1830,6 +1834,32 @@ Dec. 5, 1975
 
 T. Doc. 99–27.
 
+Congo, Democratic Republic of (formerly Zaire)
+
+Berne (Paris)
+
+Pg
+
+WTO
+
+July 24, 1971
+
+Oct. 29, 1971
+
+Apr. 15, 1994
+
+Jan. 31, 1975
+
+Nov. 29, 1977
+
+Jan. 1, 1997
+
+T. Doc. 99–27.
+
+25 UST 309.
+
+33 ILM 15.
+
 Costa Rica DP DOct. 19, 1899 DOct. 19, 1899 D31 Stat. 1955.
 
 &nbsp;
@@ -1998,7 +2028,25 @@ Apr. 20, 1995
 
 33 ILM 15.
 
-Cyprus DBerne (Paris) DJuly 24, 1971 DJuly 27, 1983 DT. Doc. 99–27.
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Feb. 20, 1997
+
+T. Doc. 99–27.
+
+Cyprus
+
+Berne (Paris)
+
+July 24, 1971
+
+July 27, 1983
+
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -2204,7 +2252,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Dominican Republic DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
+Dominican Rep. DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
 
 &nbsp;
 
@@ -2245,6 +2293,16 @@ Apr. 15, 1994
 Mar. 9, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Dec. 24, 1997
+
+T. Doc. 99–27.
 
 Ecuador DBAC DAug. 11, 1910 DAug. 31, 1914 D38 Stat. 1785.
 
@@ -2372,6 +2430,16 @@ May 7, 1995
 
 33 ILM 15.
 
+Equatorial Guinea
+
+Berne (Paris)
+
+July 24, 1971
+
+June 26, 1997
+
+T. Doc. 99–27.
+
 Estonia
 
 Berne (Paris)
@@ -2486,15 +2554,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Former Yugoslav Republic of Macedonia
+Former Yugoslav Republic of Macedonia DBerne (Paris) DJuly 24, 1971 DSept. 8, 1991 D T. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+Pcss
 
-Sept. 8, 1991
+May 21, 1974
 
-T. Doc. 99–27.
+Nov. 17, 1991
+
+T. Doc. 98–31.
 
 France <sup>6</sup> DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
 
@@ -2850,6 +2920,16 @@ July 21, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+July 28, 1997
+
+T. Doc. 99–27.
+
 Guinea DBerne (Paris) DJuly 24, 1971 DNov. 20, 1980 DT. Doc. 99–27.
 
 &nbsp;
@@ -3149,6 +3229,16 @@ Apr. 15, 1994
 Jan. 1, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Sept. 5, 1997
+
+T. Doc. 99–27.
 
 Ireland <sup>1</sup> DPm \\11\\ DSept. 28, 1929 DOct. 1, 1929 D46 Stat. 3005.
 
@@ -3570,15 +3660,17 @@ Sept. 16, 1955
 
 6 UST 2731.
 
-Latvia
+Latvia DBerne (Paris) DJuly 24, 1971 DAug. 11, 1995 DT. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+Pg
 
-Aug. 11, 1995
+Oct. 29, 1971
 
-T. Doc. 99–27.
+Aug. 23, 1997
+
+25 UST 309.
 
 Lebanon DBerne (Rome) DJune 2, 1928 DSept. 30, 1947 D123 LNTS 232.
 
@@ -3810,7 +3902,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Mauritania DBerne (Paris) DJuly 24, 1971 DSept. 21, 1976 DT. Doc. 99–27.
+Mauritania DBerne (Paris) DJuly 24, 1971 DFeb. 6, 1973 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -4030,7 +4122,7 @@ Aug. 26, 1995
 
 33 ILM 15.
 
-Namibia DBerne (Paris) DJuly 24, 1971 DDec. 24, 1993 DT. Doc. 99–27.
+Namibia DBerne (Paris) DJuly 24, 1971 DMar. 21, 1990 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -4600,16 +4692,6 @@ Poland DPm DFeb. 14, 1927 DFeb. 16, 1927 D44 Stat. 2634.
 
 &nbsp;
 
-Berne (Paris)
-
-July 24, 1971
-
-Oct. 22, 1994
-
-T. Doc. 99–27.
-
-&nbsp;
-
 UCC
 
 Sept. 6, 1952
@@ -4627,6 +4709,16 @@ July 24, 1971
 Mar. 9, 1977
 
 25 UST 1341.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Oct. 22, 1994
+
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -5452,6 +5544,16 @@ Mar. 1, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+Nov. 1, 1996
+
+T. Doc. 98–31.
+
 Tunisia DP \\26\\ DOct. 4, 1912 DOct. 4, 1912 D37 Stat. 1765.
 
 &nbsp;
@@ -5776,18 +5878,6 @@ Aug. 25, 1979
 
 T. Doc. 98–31.
 
-Zaire DBerne (Paris) DJuly 24, 1971 DJan. 31, 1975 DT. Doc. 99–27.
-
-&nbsp;
-
-Pg
-
-Oct. 29, 1971
-
-Nov. 29, 1977
-
-25 UST 309.
-
 Zambia DUCC DSept. 6, 1952 DJune 1, 1965 D6 UST 2731.
 
 &nbsp;
@@ -5852,7 +5942,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 <sup>14</sup> Treaty of Peace with Italy (Annex XV A) dated at Paris, January 10, 1947 (TIAS 1648).
 
-<sup>15</sup> Copyright convention, signed at Tokyo, November 10, 1905 (TS 450). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace which Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
+<sup>15</sup> Copyright convention, signed at Tokyo, November 10, 1905 (TS 450). This convention is considered as having been abrogatedon April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace which Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
 
 <sup>16</sup> Convention between the United States and Japan for reciprocal protection of inventions, designs, trademarks, and copyrights in China and other countries where either contracting party may exercise extraterritorial jurisdiction, signed at Washington, May 19, 1908 (TS 507). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace with Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
 
@@ -5892,13 +5982,13 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 <sup>34</sup> See also Czech Republic, Slovak Republic, and Slovakia.
 
-<sup>35</sup> See note under Czechoslovakia in bilateral section.
+<sup>35</sup> See note under CZECHOSLOVAKIA in bilateral section.
 
-<sup>36</sup> See note under Germany, Federal Republic of in bilateral section.
+<sup>36</sup> See note under GERMANY, FEDERAL REPUBLIC OF in bilateral section.
 
 <sup>37</sup> Also known as Slovak Republic. For 1992 and prior years, see Czechoslovakia.
 
-<sup>38</sup> See note under Yugoslavia in bilateral section.
+<sup>38</sup> See note under YUGOSLAVIA in bilateral section.
 
 #### Proc. No. 3792. Copyright Extension: Germany
 
@@ -5910,7 +6000,7 @@ WHEREAS satisfactory official assurances have been received that, since April 15
 
 WHEREAS, pursuant to Article 2 of the Law No. 8, Industrial, Literary and Artistic Property Rights of Foreign Nations and Nationals, promulgated by the Allied High Commission for Germany on October 20, 1949, literary or artistic property rights in Germany owned by United States nationals at the commencement of or during the state of war between Germany and the United States of America which were transferred, seized, requisitioned, revoked or otherwise impaired by war measures, whether legislative, judicial or administrative, were, upon request made prior to October 3, 1950, restored to such United States nationals or their legal successors; and
 
-WHEREAS, pursuant to Article 5 of the aforesaid law, any literary or artistic property right in Germanyowned by a United States national at the commencement of or during the state of war between Germany and the United States of America was, upon request made prior to October 3, 1950, extended in term for a period corresponding to the inclusive time from the date of the commencement of the state of war, or such later date on which such right came in existence, to September 30, 1949; and
+WHEREAS, pursuant to Article 5 of the aforesaid law, any literary or artistic property right in Germany owned by a United States national at the commencement of or during the state of war between Germany and the United States of America was, upon request made prior to October 3, 1950, extended in term for a period corresponding to the inclusive time from the date of the commencement of the state of war, or such later date on which such right came in existence, to September 30, 1949; and
 
 WHEREAS, by virtue of a proclamation by the President of the United States of America dated May 25, 1922, 42 Stat. 2271, German citizens are and have been entitled to the benefits of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended, including the benefits of Section 1(e) of the aforementioned Title 17 of the United States Code \[section 1(e) of former Title 17\]; and
 

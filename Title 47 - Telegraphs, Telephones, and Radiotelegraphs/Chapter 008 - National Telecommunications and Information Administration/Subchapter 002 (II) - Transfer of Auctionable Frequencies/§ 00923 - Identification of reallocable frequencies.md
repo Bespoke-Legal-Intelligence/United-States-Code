@@ -2,7 +2,7 @@
 
 #### (a) Identification required
 
-The Secretary shall, within 18 months after August 10, 1993, prepare and submit to the President and the Congress a report identifying and recommending for reallocation bands of frequencies—
+The Secretary shall, within 18 months after August 10, 1993, and within 6 months after August 5, 1997, prepare and submit to the President and the Congress a report identifying and recommending for reallocation bands of frequencies—
 
 &emsp;(1) that are allocated on a primary basis for Federal Government use;
 
@@ -16,19 +16,29 @@ The Secretary shall, within 18 months after August 10, 1993, prepare and submit 
 
 #### (b) Minimum amount of spectrum recommended
 
-#### (1) In general
+#### (1) Initial reallocation report
 
-&emsp;In accordance with the provisions of this section, the Secretary shall recommend for reallocation, for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that in the aggregate span not less than 200 megahertz, that are located below 5 gigahertz, and that meet the criteria specified in paragraphs (1) through (5) of subsection (a) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that span in the aggregate not less than 100 megahertz.
+&emsp;In accordance with the provisions of this section, the Secretary shall recommend for reallocation in the initial report required by subsection (a) of this section, for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that in the aggregate span not less than 200 megahertz, that are located below 5 gigahertz, and that meet the criteria specified in paragraphs (1) through (5) of subsection (a) of this section. Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that span in the aggregate not less than 100 megahertz.
 
 #### (2) Mixed uses permitted to be counted
 
-&emsp;Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) of this section recommends be partially retained for use by Federal Government stations, but which are also recommended to be reallocated to be made available under the 1934 Act \[47 U.S.C. 151 et seq.\] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) of this subsection, except that—
+&emsp;Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) of this section recommends be partially retained for use by Federal Government stations, but which are also recommended to be reallocated to be made available under the 1934 Act \[47 U.S.C. 151 et seq.\] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) or (3) of this subsection, except that—
 
-&emsp;&emsp;(A) the bands of frequencies counted under this paragraph may not count toward more than one-half of the minimums required by paragraph (1) of this subsection;
+&emsp;&emsp;(A) the bands of frequencies counted under this paragraph may not count toward more than one-half of the minimums required by paragraph (1) or (3) of this subsection;
 
 &emsp;&emsp;(B) a band of frequencies may not be counted under this paragraph unless the assignments of the band to Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305) are limited by geographic area, by time, or by other means so as to guarantee that the potential use to be made by such Federal Government stations is substantially less (as measured by geographic area, time, or otherwise) than the potential use to be made by non-Federal stations; and
 
 &emsp;&emsp;(C) the operational sharing permitted under this paragraph shall be subject to the interference regulations prescribed by the Commission pursuant to section 305(a) of the 1934 Act \[47 U.S.C. 305(a)\] and to coordination procedures that the Commission and the Secretary shall jointly establish and implement to ensure against harmful interference.
+
+#### (3) Second reallocation report
+
+&emsp;In accordance with the provisions of this section, the Secretary shall recommend for reallocation in the second report required by subsection (a) of this section, for use other than by Federal Government stations undersection 305 of the 1934 Act (47 U.S.C. 305), a band or bands of frequencies that—
+
+&emsp;&emsp;(A) in the aggregate span not less than 20 megahertz;
+
+&emsp;&emsp;(B) are located below 3 gigahertz; and
+
+&emsp;&emsp;(C) meet the criteria specified in paragraphs (1) through (5) of subsection (a) of this section.
 
 #### (c) Criteria for identification
 
@@ -114,7 +124,7 @@ The Secretary shall, within 18 months after August 10, 1993, prepare and submit 
 
 #### (4) Direct discussions
 
-&emsp;The Secretary shall encourage and provide opportunity for direct discussions among commercial representatives and Federal Government users of the spectrum to aid the Secretary in determining which frequencies to recommend for reallocation. The Secretary shall provide notice to the public and the Commission of any such discussions, including the name or names of any businesses or other persons represented in such discussions. A representative of the Commission (and of the Secretary at the election of the Secretary) shall be permitted to attend any such discussions. The Secretary shall provide the public and the Commission with an opportunity to comment on the results of any such discussions prior to the submission of the final report required by subsection (a) of this section.
+&emsp;The Secretary shall encourage and provide opportunity for direct discussions among commercial representatives and Federal Government users of the spectrum to aid the Secretary in determining which frequencies to recommend for reallocation. The Secretary shall provide notice to the public and the Commission of any such discussions, including the name or names of any businesses or other persons represented in such discussions. A representative of the Commission (and of the Secretary at the election of the Secretary) shall be permitted to attend any such discussions. The Secretary shall provide the public and the Commission with an opportunity to comment on the results of any such discussions prior to the submission of the initial report required by subsection (a) of this section.
 
 #### (e) Timetable for reallocation and limitation
 
@@ -144,11 +154,67 @@ The Secretary shall, within 18 months after August 10, 1993, prepare and submit 
 
 &emsp;&emsp;(D) take into account the relationship between the costs to the Federal Government of changing to different frequencies and the benefits that may be obtained from commercial and other non-Federal uses of the reassigned frequencies.
 
-(Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380.)
+#### (f) Additional reallocation report
+
+If the Secretary receives a notice from the Commission pursuant to section 3002(c)(5) of the Balanced Budget Act of 1997, the Secretary shall prepare and submit to the President, the Commission, and the Congress a report recommending for reallocation for use other than by Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305), bands of frequencies that are suitable for the licensees identified in the Commission's notice. The Commission shall, not later than one year after receipt of such report, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment of such frequencies under the 1934 Act \[47 U.S.C. 151 et seq.\] to incumbent licensees described in the Commission's notice.
+
+#### (g) Relocation of Federal Government stations
+
+#### (1) In general
+
+&emsp;In order to expedite the commercial use of the electromagnetic spectrum and notwithstanding section 3302(b) of title 31, any Federal entity which operates a Federal Government station may accept from any person payment of the expenses of relocating the Federal entity's operations from one or more frequencies to another frequency or frequencies, including the costs of any modification, replacement, or reissuance of equipment, facilities, operating manuals, or regulations incurred by that entity. Such payments may be in advance of relocation and may be in cash or in kind. Any such payment in cash shall be deposited in the account of such Federal entity in the Treasury of the United States or in a separate account authorized by law. Funds deposited according to this paragraph shall be available, without appropriation or fiscal year limitation, only for such expenses of the Federal entity for which such funds were deposited under this paragraph.
+
+#### (2) Process for relocation
+
+&emsp;Any person seeking to relocate a Federal Government station that has been assigned a frequency within a band that has been allocated for mixed Federal and non-Federal use, or that has been scheduled for reallocation to non-Federal use, may submit a petition for such relocation to NTIA. The NTIA shall limit or terminate the Federal Government station's operating license within 6 months after receiving the petition if the following requirements are met:
+
+&emsp;&emsp;(A) the person seeking relocation of the Federal Government station has guaranteed to pay all relocation costs incurred by the Federal entity, including all engineering, equipment, site acquisition and construction, and regulatory fee costs;
+
+&emsp;&emsp;(B) all activities necessary for implementing the relocation have been completed, including construction of replacement facilities (if necessary and appropriate) and identifying and obtaining new frequencies for use by the relocated Federal Government station (where such station is not relocating to spectrum reserved exclusively for Federal use);
+
+&emsp;&emsp;(C) any necessary replacement facilities, equipment modifications, or other changes have been implemented and tested to ensure that the Federal Government station is able to successfully accomplish its purposes; and
+
+&emsp;&emsp;(D) NTIA has determined that the proposed use of the spectrum frequency band to which the Federal entity will relocate its operations is—
+
+&emsp;&emsp;&emsp;(i) consistent with obligations undertaken by the United States in international agreements and with United States national security and public safety interests; and
+
+&emsp;&emsp;&emsp;(ii) suitable for the technical characteristics of the band and consistent with other uses of the band.
+
+> &emsp;&emsp;In exercising its authority under clause (i) of this subparagraph, NTIA shall consult with the Secretary of Defense, the Secretary of State, or other appropriate officers of the Federal Government.
+
+#### (3) Right to reclaim
+
+&emsp;If within one year after the relocation the Federal entity demonstrates to the Commission that the new facilities or spectrum are not comparable to the facilities or spectrum from which the Federal Government station was relocated, the person who filed the petition under paragraph (2) for such relocation shall take reasonable steps to remedy any defects or pay the Federal entity for the expenses incurred in returning the Federal Government station to the spectrum from which such station was relocated.
+
+#### (h) Federal action to expedite spectrum transfer
+
+Any Federal Government station which operates on electromagnetic spectrum that has been identified in any reallocation report under this section shall, to the maximum extent practicable through the use of the authority granted under subsection (g) of this section and any other applicable provision of law, take action to relocate its spectrum use to other frequencies that are reserved for Federal use or to consolidate its spectrum use with other Federal Government stations in a manner that maximizes the spectrum available for non-Federal use.
+
+#### (i) “Federal entity” defined
+
+For purposes of this section, the term “Federal entity” means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act (47 U.S.C. 305).
+
+(Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265.)
 
 #### References in Text
 
-For definition of the 1934 Act, referred to in subsecs. (a)(3), (5) and (b)(2), see section 921(3) of this title.
+For definition of the 1934 Act, referred to in subsecs. (a)(3), (5), (b)(2), and (f), see section 921(3) of this title.
+
+Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f), is section 3002(c)(5) of Pub. L. 105–33, which is set out as a note under section 925 of this title.
+
+#### Amendments
+
+1997—Subsec. (a). Pub. L. 105–33, §3002(e)(1), inserted “and within 6 months after August 5, 1997” after “August 10, 1993,” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 105–33, §3002(e)(2)(A), (B), substituted “Initial reallocation report” for “In general” in heading and inserted “in the initial report required by subsection (a) of this section” after “recommend for reallocation” in text.
+
+Subsec. (b)(2). Pub. L. 105–33, §3002(e)(2)(C), inserted “or (3)” after “paragraph (1)” in two places.
+
+Subsec. (b)(3). Pub. L. 105–33, §3002(e)(2)(D), added par. (3).
+
+Subsec. (d)(4). Pub. L. 105–33, §3002(e)(3), substituted “initial report” for “final report”.
+
+Subsecs. (f) to (i). Pub. L. 105–33, §3002(d)(1), added subsecs. (f) to (i).
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §7086. Physical disability retirement
 
-(a) Each civilian member who has served not less than five years, and who, before reaching the age of 65, becomes totally disabled for useful and efficient service in his position, by reason of disease or injury not due to his own vicious habits, intemperance, or willful misconduct shall, upon his application or upon the request of the Secretary of the Navy, be retired with a life annuity computed under section 7085 of this title.
+(a) Each civilian member who has served not less than five years, and who, before reachingthe age of 65, becomes totally disabled for useful and efficient service in his position, by reason of disease or injury not due to his own vicious habits, intemperance, or willful misconduct shall, upon his application or upon the request of the Secretary of the Navy, be retired with a life annuity computed under section 7085 of this title.
 
 (b) The amount that the Secretary shall pay annually under this section is the difference between the total amount to which the retired member is entitled under subsection (a) and the immediate life annuity to which he is entitled at the time of his disability retirement under the annuity policy required by section 7082 of this title.
 

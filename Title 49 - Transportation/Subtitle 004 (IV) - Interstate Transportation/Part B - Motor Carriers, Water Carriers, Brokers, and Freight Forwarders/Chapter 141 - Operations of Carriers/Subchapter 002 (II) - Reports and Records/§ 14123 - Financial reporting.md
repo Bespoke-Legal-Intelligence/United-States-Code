@@ -10,7 +10,7 @@ Annual reports.—The Secretary shall require Class I and Class II motor carrier
 
 &emsp;(2)
 
-Other reports.—The Secretary may require motor carriers, freight forwarders, brokers, lessors, and associations, or classes of them as the Secretary may prescribe, to file quarterly, periodic, or special reports with the Secretary and to respond to surveys concerning their operations.
+Other reports.—The Secretary may require motor carriers, freight forwarders, brokers, lessors, and associations, or classes of them as the Secretary may prescribe, to file quarterly, periodic, or special reports with theSecretary and to respond to surveys concerning their operations.
 
 (b)
 
@@ -42,7 +42,7 @@ In general.—The Secretary shall allow, upon request, a filer of a report under
 
 &emsp;&emsp;(B)
 
-Procedure.—After a request under subparagraph (A) and notice and opportunity for comment but <sup>1</sup> no event later than 90 days after the date of such request, the Secretary shall approve such request if the Secretary finds that the exemption requested is necessary to avoid competitive harm and to avoid the disclosure of information that qualifies as a trade secret or privileged or confidential information under section 552(b)(4) of title 5.
+Procedure.—After a request under subparagraph (A) and notice and opportunity for comment but in no event later than 90 days after the date of such request, the Secretary shall approve such request if the Secretary finds that the exemption requested is necessary to avoid competitive harm and to avoid the disclosure of information that qualifies as a trade secret or privileged or confidential information under section 552(b)(4) of title 5.
 
 &emsp;&emsp;(C)
 
@@ -60,11 +60,21 @@ Period of exemptions.—Exemptions granted under this subsection shall be for 3-
 
 Streamlining and Simplification.—The Secretary shall streamline and simplify, to the maximum extent practicable, any reporting requirements the Secretary imposes under this section.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 893.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 893; amended Pub. L. 105–102, §2(11), Nov. 20, 1997, 111 Stat. 2205.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 105–102
+
+This amends 49:14123(c)(2)(B) to correct a grammatical error.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11145 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1997—Subsec. (c)(2)(B). Pub. L. 105–102 inserted “in” before “no event”.
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ National Missions.—The National Imagery and Mapping Agency also has national m
 
 (e)
 
-Systems.—The National Imagery and Mapping Agency may, in furtherance of a mission ofthe Agency, design, develop, deploy, operate, and maintain systems related to the processing and dissemination of imagery intelligence and geospatial information that may be transferred to, accepted or used by, or used on behalf of—
+Systems.—The National Imagery and Mapping Agency may, in furtherance of a mission of the Agency, design, develop, deploy, operate, and maintain systems related to the processing and dissemination of imagery intelligence and geospatial information that may be transferred to, accepted or used by, or used on behalf of—
 
 &emsp;(1) the armed forces, including any combatant command, component of a combatant command, joint task force, or tactical unit; or
 
@@ -37,4 +37,8 @@ Systems.—The National Imagery and Mapping Agency may, in furtherance of a miss
 #### References in Text
 
 Section 120(a) of the National Security Act of 1947, referred to in subsec. (d), is classified to section 404e(a) of Title 50, War and National Defense.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 50 section 404e.
 

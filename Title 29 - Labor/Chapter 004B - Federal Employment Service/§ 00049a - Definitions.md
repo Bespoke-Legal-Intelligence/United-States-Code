@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;(5) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
 
-(June 6, 1933, ch. 49, §2, 48 Stat. 114; Oct. 13, 1982, Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), 96 Stat. 1392; renumbered title VI, §601(a), Nov. 7, 1988, Pub. L. 100–628, title VII, §712(a)(1), (2), 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §2, 48 Stat. 114; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
 #### References in Text
 

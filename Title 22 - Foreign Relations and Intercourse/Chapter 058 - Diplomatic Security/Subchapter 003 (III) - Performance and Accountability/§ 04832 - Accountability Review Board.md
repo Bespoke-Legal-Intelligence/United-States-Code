@@ -2,7 +2,7 @@
 
 #### (a) Membership
 
-A Board shall consist of five members, 4 appointed by the Secretary of State, and 1 appointed by the Director of Central Intelligence. The Secretary of State shall designate the Chairperson of the Board. Members of the Board who are not Federal officers or employees shall each be paid at a rate not to exceed the maximum rate of basic pay payable for level GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in theBoard. Members of the Board who are Federal officers or employees shall receive no additional pay by reason of such membership.
+A Board shall consist of five members, 4 appointed by the Secretary of State, and 1 appointed by the Director of Central Intelligence. The Secretary of State shall designate the Chairperson of the Board. Members of the Board who are not Federal officers or employees shall each be paid at a rate not to exceed the maximum rate of basic pay payable for level GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Board. Members of the Board who are Federal officers or employees shall receive no additional pay by reason of such membership.
 
 #### (b) Facilities, services, supplies, and staff
 

@@ -100,7 +100,7 @@ Section 2 of Pub. L. 102–372 provided that: “The Congress finds that—
 
 &emsp;“(10) advanced technologies, industrial targeting, the industrialization of the Third World, and the flight of some United States manufacturing capacity to overseas locations have affected the international competitiveness of the United States;
 
-&emsp;“(11) exporting those goods and services which United States industry can produce at a comparativecost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
+&emsp;“(11) exporting those goods and services which United States industry can produce at a comparative cost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
 
 &emsp;“(12) the emergence of democratic governments in the formerly Communist nations of Eastern Europe and in the former Soviet Union provide new opportunities for United States firms engaged in both the inbound and outbound tourism markets.”
 
@@ -134,7 +134,7 @@ Pub. L. 91–477, §6, Oct. 21, 1970, 84 Stat. 1073, provided that:
 
 > The Commission shall submit a comprehensive report of its activities and the results of such study and investigation, together with its recommendations with respect thereto, to the President and to the Congress not later than two years after the first meeting of the Commission. The Commission shall cease to exist sixty days after the date of the submission of its comprehensive report. The comprehensive report of the Commission shall propose such legislative enactments and administrative actions as in its judgment are necessary to carry out its recommendations.
 
-“(c) \[<i>Secretarial, clerical, and other assistance by Secretary of Commerce; information and assistance by Governmental departments and agencies</i>\]. The Secretary of Commerce shall make available to the Commission such secretarial, clerical, and other assistance as the Commission may require to carry out its functions under this section. The Commission is authorized to request from any department, agency, or independent instrumentality of the Government any information and assistance it deems necessary to carry out its functions under this section; and each such department, agency, and instrumentality is authorized to cooperate with the Commission and, to the extent permitted by law, to furnish such information and assistance to the Commission upon request made by its Chairman.
+“(c) \[<i>Secretarial, clerical, and other assistance by Secretary of Commerce; information and assistance by Governmental departments and agencies</i>\]. The Secretary of Commerce shall make available to the Commission such secretarial, clerical, and other assistance as the Commission may require to carry out its functions under this section. The Commission is authorized to request from any department, agency, or independent instrumentality of the Government any information and assistance it deems necessary to carry out its functions under this section; and each such department, agency, and instrumentality is authorized to cooperate withthe Commission and, to the extent permitted by law, to furnish such information and assistance to the Commission upon request made by its Chairman.
 
 “(d) \[<i>Powers of Commission</i>\]. In order to carry out the provisions of this section, the Commission is authorized—
 

@@ -44,7 +44,7 @@
 
 #### References in Text
 
-Section 2569 of the Financial Institutions Anti-Fraud Enforcement Act of 1990, referred to in subsec. (a)(2), is classified to section 4209 of Title 12, Banks and Banking.
+Section 2569 of the Financial Institutions Anti-Fraud Enforcement Act of 1990, referred to in subsec. (a)(2), isclassified to section 4209 of Title 12, Banks and Banking.
 
 #### Amendments
 

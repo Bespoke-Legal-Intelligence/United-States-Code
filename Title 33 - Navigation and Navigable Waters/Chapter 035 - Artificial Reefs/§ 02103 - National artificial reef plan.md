@@ -6,7 +6,7 @@ Not later than one year after November 8, 1984, the Secretary of Commerce, in co
 
 &emsp;(2) design, material, and other criteria for constructing artificial reefs;
 
-&emsp;(3) mechanisms and methodologies for monitoring the compliance of artificial reefs with the requirements of permits issued under section 2104 of this title;
+&emsp;(3) mechanisms and methodologies for monitoring the compliance of artificial reefs withthe requirements of permits issued under section 2104 of this title;
 
 &emsp;(4) mechanisms and methodologies for managing the use of artificial reefs;
 

@@ -12,7 +12,7 @@ Not later than the expiration of the 60-day period following the date of enactme
 
 The Secretary shall prescribe such minimum standards of habitability as the Secretary determines to be appropriate to ensure that emergency shelters assisted under this section are environments that provide appropriate privacy, safety, and sanitary and other health-related conditions for homeless persons and families. Grantees are authorized to establish standards of habitability in addition to those prescribed by the Secretary.
 
-(Pub. L. 100–77, title IV, §416, July 22, 1987, 101 Stat. 498; Pub. L. 101–625, title VIII, §832(f)(7),\(g), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(6), Oct. 26, 1996, 110 Stat. 4044.)
+(Pub. L. 100–77, title IV, §416, July 22, 1987, 101 Stat. 498; Pub. L. 101–625, title VIII, §832(f)(7), (g), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(6), Oct. 26, 1996, 110 Stat. 4044.)
 
 #### References in Text
 

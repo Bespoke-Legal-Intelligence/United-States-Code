@@ -2,7 +2,7 @@
 
 #### (a) Recovery Planning Council; designation; membership
 
-(1) In the case of any area affected by a major disaster the Governor may request the President for assistance under this subchapter. The Governor, within thirty days after authorization of such assistance by the President, shall designate a Recovery Planning Council for such area or for each part thereof.
+(1) In the case of any area affected by a major disaster the Governor may request the President for assistance under this subchapter. The Governor, within thirty days after authorization of such assistance by the President, shall designatea Recovery Planning Council for such area or for each part thereof.
 
 (2) Such Recovery Planning Council shall be composed of not less than five members, a majority of whom shall be local elected officials of political subdivisions within the affected areas, at least one representative of the State, and a representative of the Federal Government appointed by the President in accordance with paragraph (3) of this subsection. During the major disaster, the Federal coordinating officer shall also serve on the Recovery Planning Council.
 

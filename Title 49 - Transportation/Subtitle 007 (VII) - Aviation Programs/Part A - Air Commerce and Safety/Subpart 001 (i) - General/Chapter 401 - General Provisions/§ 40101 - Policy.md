@@ -54,7 +54,7 @@ Economic Regulation.—In carrying out subpart II of this part and those provisi
 
 (b)
 
-All-Cargo Air Transportation Considerations.—In carrying out subpart II of this part and those provisions of subpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others and in addition to the matters referred to in subsection (a) of this section, as being in the public interest for all-cargo air transportation:
+All-Cargo Air Transportation Considerations.—In carrying out subpart II of this partand those provisions of subpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others and in addition to the matters referred to in subsection (a) of this section, as being in the public interest for all-cargo air transportation:
 
 &emsp;(1) encouraging and developing an expedited all-cargo air transportation system provided by private enterprise and responsive to—
 
@@ -245,6 +245,10 @@ Subsec. (d)(4) to (7). Pub. L. 104–264, §401(a)(1)(A), redesignated pars. (3)
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Short Title of 1997 Amendment
+
+Pub. L. 105–137, §1, Dec. 2, 1997, 111 Stat. 2640, provided that: “This Act \[amending sections 40102, 44302, 44305, 44306, 44308, and 44310 of this title and enacting provisions set out as a note under section 44310 of this title\] may be cited as the ‘Aviation Insurance Reauthorization Act of 1997’.”
 
 #### Short Title of 1996 Amendment
 
@@ -438,7 +442,7 @@ Recommendations.—The aviation funding task force shall make such recommendatio
 
 &emsp;&emsp;&emsp;“(iii) modifications to existing levels of Airport and Airways Trust Fund receipts and taxes for each type of tax;
 
-&emsp;&emsp;&emsp;“(iv) establishment of a cost-based user fee system based on, but not limited to, criteria under subparagraph (F) and methods to ensure thatcosts are borne by users on a fair and equitable basis;
+&emsp;&emsp;&emsp;“(iv) establishment of a cost-based user fee system based on, but not limited to, criteria under subparagraph (F) and methods to ensure that costs are borne by users on a fair and equitable basis;
 
 &emsp;&emsp;&emsp;“(v) methods to ensure that funds collected from the aviation community are able to meet the needs of the agency;
 
@@ -460,7 +464,7 @@ Additional recommendations.—The aviation funding task force report may also ma
 
 &emsp;&emsp;&emsp;“(iv) the elimination of unneeded programs; and
 
-&emsp;&emsp;&emsp;“(v) a limited innovative program based on funding mechanisms such as loan guarantees, financial partnerships with for-profit private sector entities, government-sponsored enterprises, and revolving loan funds, as a means of funding specific facilities and equipment projects, and to provide limited additional funding alternatives for airport capacity development.
+&emsp;&emsp;&emsp;“(v) a limited innovative program based on funding mechanisms such as loan guarantees, financial partnerships with for-profit private sector entities, government-sponsored enterprises, andrevolving loan funds, as a means of funding specific facilities and equipment projects, and to provide limited additional funding alternatives for airport capacity development.
 
 &emsp;&emsp;“(D)
 
@@ -580,7 +584,7 @@ Report by the administrator based on final report of aviation safety task force.
 
 “(d)
 
-GAO Audit of Cost Allocation.—The Comptroller General shall conduct an assessment of the manner in which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report the results of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
+GAO Audit of Cost Allocation.—The Comptroller General shall conduct an assessment of the mannerin which costs for air traffic control services are allocated between the Administration and the Department of Defense. The Comptroller General shall report the results of the assessment, together with any recommendations the Comptroller General may have for reallocation of costs and for opportunities to increase the efficiency of air traffic control services provided by the Administration and by the Department of Defense, to the Commission, the Administrator, the Secretary of Defense, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after the date of the enactment of this Act.
 
 “(e)
 
@@ -660,7 +664,7 @@ Report.—(1) Within six months after the date of enactment of this Act \[Aug. 2
 
 “(f)
 
-Authorization of Appropriations.—Of amounts authorized to be appropriated for fiscal years 1995 and 1996 under section 48102(a) of title 49, United StatesCode, as amended by section 302 of this title, there are authorized to be appropriated for fiscal years 1995 and 1996, respectively, such sums as may be necessary to carry out this section.”
+Authorization of Appropriations.—Of amounts authorized to be appropriated for fiscal years 1995 and 1996 under section 48102(a) of title 49, United States Code, as amended by section 302 of this title, there are authorized to be appropriated for fiscal years 1995 and 1996, respectively, such sums as may be necessary to carry out this section.”
 
 #### Information on Disinsection of Aircraft
 
@@ -680,7 +684,7 @@ Publication.—The Secretary shall publish the list required under subsection (a
 
 #### General Aviation Revitalization Act of 1994
 
-Pub. L. 103–298, Aug. 17, 1994, 108 Stat. 1552, provided that:
+Pub. L. 103–298, Aug. 17, 1994, 108 Stat. 1552, as amended by Pub. L. 105–102, §3(e), Nov. 20, 1997, 111 Stat. 2215, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -714,7 +718,7 @@ Exceptions.—Subsection (a) does not apply—
 
 “(c)
 
-General Aviation Aircraft Defined.—For the purposes of this Act, the term ‘general aviation aircraft’ means any aircraft for which a type certificate or an airworthiness certificate has been issued by the Administrator of the Federal Aviation Administration, which, at the time such certificate was originally issued, had a maximum seating capacity of fewer than 20 passengers, and which was not, at the time of the accident, engaged in scheduled passenger-carrying operations as defined under regulations in effect under the Federal Aviation Act of 1958 (49 U.S.C. App. 1301 et seq.) \[see 49 U.S.C. 40101 et seq.\] at the time of the accident.
+General Aviation Aircraft Defined.—For the purposes of this Act, the term ‘general aviation aircraft’ means any aircraft for which a type certificate or an airworthiness certificate has been issued by the Administrator of the Federal Aviation Administration, which, at the time such certificate was originally issued, had a maximum seating capacity of fewer than 20 passengers, and which was not, at the time of the accident, engaged in scheduled passenger-carrying operations as defined under regulations in effect under part A of subtitle VII of title 49, United States Code, at the time of the accident.
 
 “(d)
 
@@ -724,13 +728,13 @@ Relationship to Other Laws.—This section supersedes any State law to the exten
 
 “For purposes of this Act—
 
-&emsp;“(1) the term ‘aircraft’ has the meaning given such term in section 101(5) of the Federal Aviation Act of 1958 (49 U.S.C. 1301(5)) \[see 49 U.S.C. 40102(a)(6)\];
+&emsp;“(1) the term ‘aircraft’ has the meaning given such term in section 40102(a)(6) of title 49, United States Code;
 
-&emsp;“(2) the term ‘airworthiness certificate’ means an airworthiness certificate issued under section 603(c) of the Federal Aviation Act of 1958 (49 U.S.C. 1423(c)) \[see 49 U.S.C. 44704(c)(1)\] or under any predecessor Federal statute;
+&emsp;“(2) the term ‘airworthiness certificate’ means an airworthiness certificate issued under section 44704(c)(1) of title 49, United States Code, or under any predecessor Federal statute;
 
 &emsp;“(3) the term ‘limitation period’ means 18 years with respect to general aviation aircraft and the components, systems, subassemblies, and other parts of such aircraft; and
 
-&emsp;“(4) the term ‘type certificate’ means a type certificate issued under section 603(a) of the Federal Aviation Act of 1958 (49 U.S.C. 1423(a)) \[see 49 U.S.C. 44704(a)\] or under any predecessor Federal statute.
+&emsp;“(4) the term ‘type certificate’ means a type certificate issued under section 44704(a) of title 49, United States Code, or under any predecessor Federal statute.
 
 #### “SEC. 4. EFFECTIVE DATE; APPLICATION OF ACT.
 

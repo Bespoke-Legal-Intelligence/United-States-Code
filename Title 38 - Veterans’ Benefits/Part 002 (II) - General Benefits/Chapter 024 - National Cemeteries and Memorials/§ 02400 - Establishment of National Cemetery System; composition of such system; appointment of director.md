@@ -1,6 +1,6 @@
 ### §2400. Establishment of National Cemetery System; composition of such system; appointment of director
 
-(a) There shall be within the Department a National Cemetery System for the interment ofdeceased servicemembers and veterans. Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions as may be assigned by the Secretary.
+(a) There shall be within the Department a National Cemetery System for the interment of deceased servicemembers and veterans. Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions as may be assigned by the Secretary.
 
 (b) The National Cemetery System shall consist of—
 

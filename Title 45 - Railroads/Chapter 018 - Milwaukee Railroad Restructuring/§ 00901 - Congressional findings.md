@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 97–468, title II, §201, Jan. 14, 1983, 96 Stat. 2543, provided that: “This title \[amending sections 797c, 907,913, 915, 1004, 1005, 1007, 1014, and 1017 of this title, repealing section 1008 of this title and enacting provisions set out as notes under this section\] may be referred to as the ‘Bankrupt Railroad Service Preservation and Employee Protection Act of 1982’.”
+Pub. L. 97–468, title II, §201, Jan. 14, 1983, 96 Stat. 2543, provided that: “This title \[amending sections 797c, 907, 913, 915, 1004, 1005, 1007, 1014, and 1017 of this title, repealing section 1008 of this title and enacting provisions set out as notes under this section\] may be referred to as the ‘Bankrupt Railroad Service Preservation and Employee Protection Act of 1982’.”
 
 #### Short Title
 

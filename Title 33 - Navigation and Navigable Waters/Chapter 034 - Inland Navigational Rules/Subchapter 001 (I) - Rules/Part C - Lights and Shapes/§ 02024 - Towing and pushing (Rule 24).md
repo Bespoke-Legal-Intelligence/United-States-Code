@@ -44,7 +44,7 @@ A vessel or object other than those referred to in paragraph (g) of this Rule be
 
 #### (f) Vessels being towed alongside or pushed in a group
 
-Provided that any number of vessels being towed alongside or pushed in a group shall be lighted as one vessel, except as provided in paragraph (iii)—
+Provided that any number of vessels being towed alongside or pushed in a group shall belighted as one vessel, except as provided in paragraph (iii)—
 
 &emsp;(i) a vessel being pushed ahead, not being part of a composite unit, shall exhibit at the forward end, sidelights and a special flashing light;
 

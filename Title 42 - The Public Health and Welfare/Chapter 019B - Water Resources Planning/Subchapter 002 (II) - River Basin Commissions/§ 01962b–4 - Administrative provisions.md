@@ -14,7 +14,7 @@ For the purpose of carrying out the provisions of this subchapter, each river ba
 
 &emsp;(5) arrange for the services of personnel from any State or the United States, or any subdivision or agency thereof, or any intergovernmental agency;
 
-&emsp;(6) make arrangements, including contracts, with any participating government, except the United States or the District of Columbia, for inclusion in a suitable retirement and employee benefit system of such of its personnelas may not be eligible for or continuing in another governmental retirement or employee benefit system, or otherwise provide for such coverage of its personnel;
+&emsp;(6) make arrangements, including contracts, with any participating government, except the United States or the District of Columbia, for inclusion in a suitable retirement and employee benefit system of such of its personnel as may not be eligible for or continuing in another governmental retirement or employee benefit system, or otherwise provide for such coverage of its personnel;
 
 &emsp;(7) purchase, hire, operate, and maintain passenger motor vehicles; and
 

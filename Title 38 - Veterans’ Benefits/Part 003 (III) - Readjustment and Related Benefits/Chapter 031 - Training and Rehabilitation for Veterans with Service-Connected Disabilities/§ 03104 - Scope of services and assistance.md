@@ -1,6 +1,6 @@
 ### §3104. Scope of services and assistance
 
-(a) Services and assistance which the Secretary may provide under this chapter, pursuantto regulations which the Secretary shall prescribe, include the following:
+(a) Services and assistance which the Secretary may provide under this chapter, pursuant to regulations which the Secretary shall prescribe, include the following:
 
 &emsp;(1) Evaluation, including periodic reevaluations as appropriate with respect to a veteran participating in a rehabilitation program, of the potential for rehabilitation of a veteran, including diagnostic and related services (A) to determine whether the veteran has an employment handicap or a serious employment handicap and whether a vocational goal is reasonably feasible for such veteran, and (B) to provide a basis for planning a suitable vocational rehabilitation program or a program of services and assistance to improve the vocational rehabilitation potential or independent living status of such veteran, as appropriate.
 

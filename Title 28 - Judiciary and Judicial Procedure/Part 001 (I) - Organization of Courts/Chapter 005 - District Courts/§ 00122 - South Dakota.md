@@ -18,7 +18,7 @@ South Dakota constitutes one judicial district comprising four divisions.
 
 &emsp;&emsp;Court for the Western Division shall be held at Deadwood and Rapid City.
 
-(June 25, 1948, ch. 646, 62 Stat. 889; Oct. 10, 1966, Pub. L. 89–638, 80 Stat. 883; Aug. 10, 1972, Pub. L. 92–376, 86 Stat. 529; Dec. 1, 1990, Pub. L. 101–650, title III, §324(b), 104 Stat. 5120.)
+(June 25, 1948, ch. 646, 62 Stat. 889; Pub. L. 89–638, Oct. 10, 1966, 80 Stat. 883; Pub. L. 92–376, Aug. 10, 1972, 86 Stat. 529; Pub. L. 101–650, title III, §324(b), Dec. 1, 1990, 104 Stat. 5120.)
 
 #### Historical and Revision Notes
 
@@ -32,15 +32,15 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1990—Par. (3). Pub. L. 101–650, §324(b)(1), struck out “Jackson,” after “Hyde,”.
+<b>1990</b>—Par. (3). Pub. L. 101–650, §324(b)(1), struck out “Jackson,” after “Hyde,”.
 
 Par. (4). Pub. L. 101–650, §324(b)(2), inserted “Jackson,” after “Harding,” and substituted “and Shannon” for “Shannon, Washabaugh, and Washington”.
 
-1972—Par. (2). Pub. L. 92–376, §1(a), removed Gregory County from the Southern Division.
+<b>1972</b>—Par. (2). Pub. L. 92–376, §1(a), removed Gregory County from the Southern Division.
 
 Par. (3). Pub. L. 92–376, §1(b), added Gregory, Mellette, Todd, and Tripp counties to the Central Division and removed Armstrong county from the Central Division.
 
 Par. (4). Pub. L. 92–376, §1(c), removed Mellette, Todd, and Tripp counties from the Western Division.
 
-1966—Pub. L. 89–638 provided for holding court at Rapid City.
+<b>1966</b>—Pub. L. 89–638 provided for holding court at Rapid City.
 

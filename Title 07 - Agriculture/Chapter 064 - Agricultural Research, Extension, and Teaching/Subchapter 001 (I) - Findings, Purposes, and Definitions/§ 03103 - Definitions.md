@@ -72,7 +72,7 @@ When used in this chapter—
 
 &emsp;&emsp;(B) enhance environmental quality and the natural resource base upon which the agriculture economy depends;
 
-&emsp;&emsp;(C) make the most efficient use of nonrenewable resources and on-farm resources and integrate, where appropriate, natural biological cycles and controls;
+&emsp;&emsp;(C) make the most efficient use of nonrenewable resources and on-farm resourcesand integrate, where appropriate, natural biological cycles and controls;
 
 &emsp;&emsp;(D) sustain the economic viability of farm operations; and
 

@@ -1,8 +1,8 @@
 ### §851. Commissioned officers; authorized number
 
-There are authorized in the National Oceanic and Atmospheric Administration 299 commissioned officers on the active list as of September 30, 1997.
+There are authorized in the National Oceanic and Atmospheric Administration 283 commissioned officers on the active list as of September 30, 1998.
 
-(Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(a) \[title II\], 110 Stat. 3009, 3009–37.)
+(Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2477.)
 
 #### Codification
 
@@ -12,83 +12,85 @@ Section is from the appropriation act cited as the credit to this section.
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Apr. 26, 1996, Pub. L. 104–134, title I, §101\[(a)\] \[title II\], 110 Stat. 1321, 1321–27; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II\], Sept. 30, 1996, 110 Stat. 3009, 3009–37.
 
-Aug. 26, 1994, Pub. L. 103–317, title II, 108 Stat. 1741.
+Pub. L. 104–134, title I, §101\[(a)\] \[title II\], Apr. 26, 1996, 110 Stat. 1321, 1321–27; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-Oct. 27, 1993, Pub. L. 103–121, title II, 107 Stat. 1170.
+Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
-Oct. 6, 1992, Pub. L. 102–395, title II, 106 Stat. 1849.
+Pub. L. 103–121, title II, Oct. 27, 1993, 107 Stat. 1170.
 
-Oct. 28, 1991, Pub. L. 102–140, title II, 105 Stat. 799.
+Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1849.
 
-Nov. 5, 1990, Pub. L. 101–515, title I, 104 Stat. 2104.
+Pub. L. 102–140, title II, Oct. 28, 1991, 105 Stat. 799.
 
-Nov. 21, 1989, Pub. L. 101–162, title I, 103 Stat. 992.
+Pub. L. 101–515, title I, Nov. 5, 1990, 104 Stat. 2104.
 
-Oct. 1, 1988, Pub. L. 100–459, title I, 102 Stat. 2190.
+Pub. L. 101–162, title I, Nov. 21, 1989, 103 Stat. 992.
 
-Dec. 22, 1987, Pub. L. 100–202, §101(a) \[title I\], 101 Stat. 1329, 1329–4.
+Pub. L. 100–459, title I, Oct. 1, 1988, 102 Stat. 2190.
 
-Oct. 18, 1986, Pub. L. 99–500, §101(b) \[title I\], 100 Stat. 1783–39, 1783–42, and Oct. 30, 1986, Pub. L. 99–591, §101(b) \[title I\], 100 Stat. 3341–39, 3341–42.
+Pub. L. 100–202, §101(a) \[title I\], Dec. 22, 1987, 101 Stat. 1329, 1329–4.
 
-Dec. 13, 1985, Pub. L. 99–180, title I, 99 Stat. 1138.
+Pub. L. 99–500, §101(b) \[title I\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–42, and Pub. L. 99–591, §101(b) \[title I\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–42.
 
-Aug. 30, 1984, Pub. L. 98–411, title I, 98 Stat. 1548.
+Pub. L. 99–180, title I, Dec. 13, 1985, 99 Stat. 1138.
 
-Nov. 28, 1983, Pub. L. 98–166, title I, §101, 97 Stat. 1074.
+Pub. L. 98–411, title I, Aug. 30, 1984, 98 Stat. 1548.
 
-Dec. 21, 1982, Pub. L. 97–377, title I, §101(d), 96 Stat. 1867, 1869.
+Pub. L. 98–166, title I, §101, Nov. 28, 1983, 97 Stat. 1074.
 
-Dec. 15, 1981, Pub. L. 97–92, §101(h) \[incorporating H.R. 7584, title III, for FY 1981\], 95 Stat. 1190.
+Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1867, 1869.
 
-Dec. 16, 1980, Pub. L. 96–536, §101<i>o</i>, \[H.R. 7584, title III\], 94 Stat. 3169.
+Pub. L. 97–92, §101(h) \[incorporating H.R. 7584, title III, for FY 1981\], Dec. 15, 1981, 95 Stat. 1190.
 
-Sept. 24, 1979, Pub. L. 96–68, title III, 93 Stat. 424.
+Pub. L. 96–536, §101<i>o</i>, \[H.R. 7584, title III\], Dec. 16, 1980, 94 Stat. 3169.
 
-Oct. 10, 1978, Pub. L. 95–431, title III, 92 Stat. 1033.
+Pub. L. 96–68, title III, Sept. 24, 1979, 93 Stat. 424.
 
-Aug. 2, 1977, Pub. L. 95–86, title III, 91 Stat. 431.
+Pub. L. 95–431, title III, Oct. 10, 1978, 92 Stat. 1033.
 
-July 14, 1976, Pub. L. 94–362, title III, 90 Stat. 949.
+Pub. L. 95–86, title III, Aug. 2, 1977, 91 Stat. 431.
 
-Oct. 21, 1975, Pub. L. 94–121, title III, 89 Stat. 625.
+Pub. L. 94–362, title III, July 14, 1976, 90 Stat. 949.
 
-Oct. 5, 1974, Pub. L. 93–433, title III, 88 Stat. 1197.
+Pub. L. 94–121, title III, Oct. 21, 1975, 89 Stat. 625.
 
-Nov. 27, 1973, Pub. L. 93–162, title III, 87 Stat. 647.
+Pub. L. 93–433, title III, Oct. 5, 1974, 88 Stat. 1197.
 
-Oct. 25, 1972, Pub. L. 92–544, title III, 86 Stat. 1121.
+Pub. L. 93–162, title III, Nov. 27, 1973, 87 Stat. 647.
 
-Aug. 10, 1971, Pub. L. 92–77, title III, 85 Stat. 257.
+Pub. L. 92–544, title III, Oct. 25, 1972, 86 Stat. 1121.
 
-Oct. 21, 1970, Pub. L. 91–472, title III, 84 Stat. 1051.
+Pub. L. 92–77, title III, Aug. 10, 1971, 85 Stat. 257.
 
-Dec. 24, 1969, Pub. L. 91–153, title III, 83 Stat. 414.
+Pub. L. 91–472, title III, Oct. 21, 1970, 84 Stat. 1051.
 
-Aug. 9, 1968, Pub. L. 90–470, title III, 82 Stat. 679.
+Pub. L. 91–153, title III, Dec. 24, 1969, 83 Stat. 414.
 
-Nov. 8, 1967, Pub. L. 90–133, title III, 81 Stat. 422.
+Pub. L. 90–470, title III, Aug. 9, 1968, 82 Stat. 679.
 
-Nov. 8, 1966, Pub. L. 89–797, title III, 80 Stat. 1491.
+Pub. L. 90–133, title III, Nov. 8, 1967, 81 Stat. 422.
 
-Sept. 2, 1965, Pub. L. 89–164, title III, 79 Stat. 631.
+Pub. L. 89–797, title III, Nov. 8, 1966, 80 Stat. 1491.
 
-Aug. 31, 1964, Pub. L. 88–527, title III, 78 Stat. 722.
+Pub. L. 89–164, title III, Sept. 2, 1965, 79 Stat. 631.
 
-Dec. 30, 1963, Pub. L. 88–245, title III, 77 Stat. 787.
+Pub. L. 88–527, title III, Aug. 31, 1964, 78 Stat. 722.
 
-Oct. 18, 1962, Pub. L. 87–843, title III, 76 Stat. 1091.
+Pub. L. 88–245, title III, Dec. 30, 1963, 77 Stat. 787.
 
-Aug. 3, 1961, Pub. L. 87–125, title II, 75 Stat. 271.
+Pub. L. 87–843, title III, Oct. 18, 1962, 76 Stat. 1091.
 
-May 13, 1960, Pub. L. 86–451, title I, 74 Stat. 94.
+Pub. L. 87–125, title II, Aug. 3, 1961, 75 Stat. 271.
 
-July 13, 1959, Pub. L. 86–88, title I, 73 Stat. 202.
+Pub. L. 86–451, title I, May 13, 1960, 74 Stat. 94.
 
-June 25, 1958, Pub. L. 85–469, title I, 72 Stat. 229.
+Pub. L. 86–88, title I, July 13, 1959, 73 Stat. 202.
 
-June 13, 1957, Pub. L. 85–52, title I, 71 Stat. 72.
+Pub. L. 85–469, title I, June 25, 1958, 72 Stat. 229.
+
+Pub. L. 85–52, title I, June 13, 1957, 71 Stat. 72.
 
 June 20, 1956, ch. 415, title I, 70 Stat. 316.
 

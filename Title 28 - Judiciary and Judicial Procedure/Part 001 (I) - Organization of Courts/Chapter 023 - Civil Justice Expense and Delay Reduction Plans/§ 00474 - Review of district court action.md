@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1991—Subsec. (a)(1). Pub. L. 102–198, §2(2)(A), substituted “chief judge” for “chief judges” and struck out “court of appeals for such” after “judge of the” in introductory provisions.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–198, §2(2)(A), substituted “chief judge” for “chief judges” and struck out “court of appeals for such” after “judge of the” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 102–198, §2(2)(B), substituted “circuit may designate another judge of the court of appeals of that circuit,” for “court of appeals” and “court, to perform that” for “court to perform the”.
 

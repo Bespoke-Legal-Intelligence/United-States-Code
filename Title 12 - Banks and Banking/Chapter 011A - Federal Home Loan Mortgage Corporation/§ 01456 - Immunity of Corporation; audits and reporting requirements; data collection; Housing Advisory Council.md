@@ -2,7 +2,7 @@
 
 #### (a) Rights and remedies of Corporation; State qualifications or similar statutes
 
-All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of the Corporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of the subject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
+All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of the Corporation on, under, or with respect to anymortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of the subject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
 
 #### (b) Government audits; procedure; access to records, etc.; reimbursement of costs
 
@@ -68,7 +68,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 &emsp;(H) any other information that the Secretary considers appropriate, to the extent practicable.
 
-(3)(A) Except as provided in subparagraph (B), this subsection shall apply only to mortgages purchased by the Corporation after December 31, 1992.
+(3)(A) Except as provided in subparagraph (B), this subsection shall apply only to mortgagespurchased by the Corporation after December 31, 1992.
 
 (B) This subsection shall apply to any mortgage purchased by the Corporation after the date determined under subparagraph (A) if the mortgage was originated before such date, but only to the extent that the data referred in paragraph (1) or (2), as applicable, is available to the Corporation.
 
@@ -120,7 +120,7 @@ The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, refe
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–550, §1382(<i>o</i>), designated existing provisions as par. (1), substituted “The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General.” for “The financial transactions of the Corporation shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions under such rules and regulations as may be prescribed by the Comptroller General of the United States.”, and added par. (2).
+1992—Subsec. (b). Pub. L. 102–550, §1382(<i>o</i>), designated existing provisions as par. (1), substituted “The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject toaudit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General.” for “The financial transactions of the Corporation shall be subject to audit by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions under such rules and regulations as may be prescribed by the Comptroller General of the United States.”, and added par. (2).
 
 Subsecs. (c) to (g). Pub. L. 102–550, §1382(p)–(t), added subsecs. (c) to (g).
 

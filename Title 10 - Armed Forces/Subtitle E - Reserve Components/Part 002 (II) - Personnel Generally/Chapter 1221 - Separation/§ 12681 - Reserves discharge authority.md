@@ -42,6 +42,14 @@ Definitions.—In this section:
 
 Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8050\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, annual payments granted under the provisions of section 4416 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2714) \[set out below\] shall be made from appropriations in this Act \[Pub. L. 104–208\] which are available for the pay of reserve component personnel.”
 
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–61, title VIII, §8061, Dec. 1, 1995, 109 Stat. 664.
+
+Pub. L. 103–335, title VIII, §8073, Sept. 30, 1994, 108 Stat. 2635.
+
+Pub. L. 103–139, title VIII, §8087, Nov. 11, 1993, 107 Stat. 1459.
+
 Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, §1501(d)(3), Feb. 10, 1996, 110 Stat. 500, provided that:
 
 #### “SEC. 4411. FORCE REDUCTION TRANSITION PERIOD DEFINED.
@@ -122,9 +130,9 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 “(a)
 
-Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the force reduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section 12731 of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
+Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the force reduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section12731 of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
 
-“(2) An officer who is to be eliminated from an active status under this section, shall, if qualified, be given anopportunity to request transfer to the appropriate Retired Reserve and, if the officer requests it, shall be so transferred. If the officer is not transferred to the Retired Reserve, the officer shall, in the discretion of the Secretary concerned, be transferred to the appropriate inactive status list or be discharged.
+“(2) An officer who is to be eliminated from an active status under this section, shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve and, if the officer requests it, shall be so transferred. If the officer is not transferred to the Retired Reserve, the officer shall, in the discretion of the Secretary concerned, be transferred to the appropriate inactive status list or be discharged.
 
 “(3) A member of the Army National Guard of the United States or the Air National Guard of the United States may not be eliminated from an active status under this section without the consent of the Governor or other appropriate authority of the State or territory, Puerto Rico, or the District of Columbia, whichever is concerned.
 

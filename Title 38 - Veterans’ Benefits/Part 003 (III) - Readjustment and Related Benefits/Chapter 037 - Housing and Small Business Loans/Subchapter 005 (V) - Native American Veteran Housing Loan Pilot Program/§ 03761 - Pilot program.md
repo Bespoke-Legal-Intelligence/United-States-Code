@@ -4,9 +4,13 @@
 
 (b) In carrying out the pilot program under this subchapter, the Secretary shall, to the extent practicable, make direct housing loans to Native American veterans who are located in a variety of geographic areas and in areas experiencing a variety of economic circumstances.
 
-(c) No loans may be made under this subchapter after September 30, 1997.
+(c) No loans may be made under this subchapter after December 31, 2001.
 
-(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3636.)
+(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3636; amended Pub. L. 105–114, title II, §201(a), Nov. 21, 1997, 111 Stat. 2282.)
+
+#### Amendments
+
+1997—Subsec. (c). Pub. L. 105–114 substituted “December 31, 2001” for “September 30, 1997”.
 
 #### Consultation With Advisory Committee on Native-American Veterans
 

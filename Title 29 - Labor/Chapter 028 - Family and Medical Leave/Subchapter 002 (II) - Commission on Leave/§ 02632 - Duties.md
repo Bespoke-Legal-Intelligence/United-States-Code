@@ -18,7 +18,7 @@ The Commission shall—
 
 &emsp;&emsp;(G) the ability of the employers to recover, under section 2614(c)(2) of this title, the premiums described in such section; and
 
-&emsp;&emsp;(H) the impact on employers and employees of policies that provide temporary wage replacement during periods of family and medical leave.
+&emsp;&emsp;(H) the impact on employers and employees of policies that provide temporary wagereplacement during periods of family and medical leave.
 
 &emsp;(2) not later than 2 years after the date on which the Commission first meets, prepare and submit, to the appropriate Committees of Congress, a report concerning the subjects listed in paragraph (1).
 

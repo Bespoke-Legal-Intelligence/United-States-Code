@@ -12,7 +12,7 @@
 
 #### (3) Expenses and fees of the Panel
 
-&emsp;A member of the Panel who is not a Federal employee shall receive travel, per diem and consultant fees not to exceed the rate provided to other consultants used by the Secretary. The Secretary may use funds available under section 1491<i>o</i> of this title to pay expenses and fees of a member of a Panel who is not a Federal employee.
+&emsp;A member of the Panel who is not a Federal employee shall receive travel, per diem and consultant fees not to exceed the rate providedto other consultants used by the Secretary. The Secretary may use funds available under section 1491<i>o</i> of this title to pay expenses and fees of a member of a Panel who is not a Federal employee.
 
 #### (b) Provision of information
 
@@ -31,6 +31,10 @@ This subchapter may not be construed as authorizing a Federal or State agency to
 Any amount paid to a State for a fiscal year and remaining unobligated at the end of such year shall remain available to such State for the next fiscal year for the purposes for which such amount was paid.
 
 (Pub. L. 91–230, title VI, §711, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3952.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(a), June 4, 1997, 111 Stat. 157, provided that, effective Oct. 1, 1998, this section is repealed.</i>
 
 #### Section Referred to in Other Sections
 

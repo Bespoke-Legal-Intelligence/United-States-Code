@@ -6,7 +6,7 @@ For the purpose of this section a person shall be deemed to be responsibly conne
 
 The determination and order of the Secretary with respect thereto under this section shall be final and conclusive unless the affected applicant for, or recipient of, inspection service files application for judicial review within thirty days after the effective date of such order in the appropriate court as provided in section 674 of this title. Judicial review of any such order shall be upon the record upon which the determination and order are based.
 
-(Mar. 4, 1907, ch. 2907, title IV, §401, as added Dec. 15, 1967, Pub. L. 90–201, §16, 81 Stat. 597; amended Nov. 10, 1986, Pub. L. 99–641, title IV, §403(b), 100 Stat. 3568.)
+(Mar. 4, 1907, ch. 2907, title IV, §401, as added Pub. L. 90–201, §16, Dec. 15, 1967, 81 Stat. 597; amended Pub. L. 99–641, title IV, §403(b), Nov. 10, 1986, 100 Stat. 3568.)
 
 #### Amendments
 

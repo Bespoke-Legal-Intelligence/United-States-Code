@@ -14,7 +14,7 @@ For purposes of this subchapter, a community may be a city, county, or multicity
 
 (2) If there is no agency of the type referred to in paragraph (1) because of any change in the assistance furnished to programs for economically disadvantaged persons, the Secretary shall give priority in the designation of Head Start agencies to any successor agency that is operating a Head Start program in substantially the same manner as the predecessor agency that did receive funds in the fiscal year preceding the fiscal year for which the determination is made.
 
-(3) Notwithstanding any other provision of this subsection, the Secretary shall not give such priority to any agency with respect towhich financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title.
+(3) Notwithstanding any other provision of this subsection, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title.
 
 #### (d) Designation; Head Start agency; qualified applicants
 
@@ -82,7 +82,7 @@ Subsec. (c)(1). Pub. L. 103–252, §107(b)(2), (3), (5), inserted “(subject t
 
 Subsec. (c)(2). Pub. L. 103–252, §107(b)(1), (3), (4), (6), redesignated par. (1)(B) as (2) and realigned margins, substituted “If” for “except that, if” and “paragraph (1)” for “subparagraph (A)”, and struck out former par. (2) which read as follows:
 
-“(2)(A) The Secretary shall conduct a full review of each designated Head Start agency at least once duringeach 3-year period, and shall determine whether each agency meets program and fiscal requirements established by the Secretary.
+“(2)(A) The Secretary shall conduct a full review of each designated Head Start agency at least once during each 3-year period, and shall determine whether each agency meets program and fiscal requirements established by the Secretary.
 
 “(B) The Secretary shall conduct a review of each newly designated Head Start agency immediately after the completion of the first year such agency carries out a Head Start program.
 
@@ -106,7 +106,7 @@ Subsec. (d)(3). Pub. L. 103–252, §107(c)(3)(B), inserted “, including Even
 
 Subsec. (d)(4). Pub. L. 103–252, §107(c)(3)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the plan of such applicant to involve parents of children who will participate in the proposed Head Start program in appropriate educational services (in accordance with the performance standards in effect under section 9846(b) of this title or through referral of such parents to educational services available in the community) in order to aid their children to attain their full potential;”.
 
-Subsec. (d)(7). Pub. L. 103–252, §107(c)(4), substituted “non-English language background children and their families” for “non-English language children” and inserted “and” after semicolon.
+Subsec. (d)(7). Pub. L. 103–252, §107(c)(4), substituted “non-English language background children and theirfamilies” for “non-English language children” and inserted “and” after semicolon.
 
 Subsec. (d)(8), (9). Pub. L. 103–252, §107(c)(5), (6), redesignated par. (9) as (8) and struck out former par. (8) which read as follows: “the plan of such applicant to provide (directly or through referral to educational services available in the community) parents of children who will participate in the proposed Head Start program with child development and literacy skills training in order to aid their children to attain their full potential; and”.
 

@@ -12,7 +12,11 @@ When the Senate is considering a reconciliation bill or a reconciliation resolut
 
 (3) A provision reported by a committee shall not be considered extraneous under paragraph (1)(C) if (A) the provision is an integral part of a provision or title, which if introduced as a bill or resolution would be referred to such committee, and the provision sets forth the procedure to carry out or implement the substantive provisions that were reported and which fall within the jurisdiction of such committee; or (B) the provision states an exception to, or a special application of, the general provision or title of which it is a part and such general provision or title if introduced as a bill or resolution would be referred to such committee.
 
-#### (c) <sup>1</sup> Point of order
+#### (c) Extraneous materials
+
+Upon the reporting or discharge of a reconciliation bill or resolution pursuant to section 641 of this title in the Senate, and again upon the submission of a conference report on such a reconciliation bill or resolution, the Committee on the Budget of the Senate shall submit for the record a list of material considered to be extraneous under subsections (b)(1)(A), (b)(1)(B), and (b)(1)(E) of this section to the instructions of a committee as provided in this section. The inclusion or exclusion of a provision shall not constitute a determination of extraneousness by the Presiding Officer of the Senate.
+
+#### (d) Conference reports
 
 When the Senate is considering a conference report on, or an amendment between the Houses in relation to, a reconciliation bill or reconciliation resolution pursuant to section 641 of this title, upon—
 
@@ -20,27 +24,25 @@ When the Senate is considering a conference report on, or an amendment between t
 
 &emsp;(2) such point of order being sustained,
 
-> such material contained in such conference report or amendment shall be deemed stricken, and the Senate shall proceed, without intervening action or motion, to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable for two hours. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
+> such material contained in such conference report or amendment shall be deemed stricken,and the Senate shall proceed, without intervening action or motion, to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable for two hours. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
 
-#### (c) <sup>1</sup> Extraneous materials
-
-Upon the reporting or discharge of a reconciliation bill or resolution pursuant to section 641 of this title in the Senate, and again upon the submission of a conference report on such a reconciliation bill or resolution, the Committee on the Budget of the Senate shall submit for the record a list of material considered to be extraneous under subsections (b)(1)(A), (b)(1)(B), and (b)(1)(E) of this section to the instructions of a committee as provided in this section. The inclusion or exclusion of a provision shall not constitute a determination of extraneousness by the Presiding Officer of the Senate.
-
-#### (d) General point of order
+#### (e) General point of order
 
 Notwithstanding any other law or rule of the Senate, it shall be in order for a Senator to raise a single point of order that several provisions of a bill, resolution, amendment, motion, or conference report violate this section. The Presiding Officer may sustain the point of order as to some or all of the provisions against which the Senator raised the point of order. If the Presiding Officer so sustains the point of order as to some of the provisions (including provisions of an amendment, motion, or conference report) against which the Senator raised the point of order, then only those provisions (including provisions of an amendment, motion, or conference report) against which the Presiding Officer sustains the point of order shall be deemed stricken pursuant to this section. Before the Presiding Officer rules on such a point of order, any Senator may move to waive such a point of order as it applies to some or all of the provisions against which the point of order was raised. Such a motion to waive is amendable in accordance with the rules and precedents of the Senate. After the Presiding Officer rules on such a point of order, any Senator may appeal the ruling of the Presiding Officer on such a point of order as it applies to some or all of the provisions on which the Presiding Officer ruled.
 
-#### (e) Determination of levels
-
-For purposes of this section, the levels of new budget authority, budget outlays, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.
-
-(Pub. L. 93–344, title III, §313, formerly Pub. L. 99–272, title XX, §20001, Apr. 7, 1986, 100 Stat. 390, as amended Pub. L. 99–509, title VII, §7006, Oct. 21, 1986, 100 Stat. 1949; Pub. L. 100–119, title II, §205(a), (b), Sept. 29, 1987, 101 Stat. 784; renumbered §313 of Pub. L. 93–344 and amended Pub. L. 101–508, title XIII, §13214(a)–(b)(4), Nov. 5, 1990, 104 Stat. 1388–621, 1388–622.)
+(Pub. L. 93–344, title III, §313, formerly Pub. L. 99–272, title XX, §20001, Apr. 7, 1986, 100 Stat. 390, as amended Pub. L. 99–509, title VII, §7006, Oct. 21, 1986, 100 Stat. 1949; Pub. L. 100–119, title II, §205(a), (b), Sept. 29, 1987, 101 Stat. 784; renumbered §313 of Pub. L. 93–344 and amended Pub. L. 101–508, title XIII, §13214(a)–(b)(4), Nov. 5, 1990, 104 Stat. 1388–621, 1388–622; Pub. L. 105–33, title X, §10113(b)(1), Aug. 5, 1997, 111 Stat. 688.)
 
 #### Codification
 
-Prior to redesignation by Pub. L. 101–508, this section was section 20001 of Pub. L. 99–272, which was not classified to the Code, and subsec. (c) of this section (relating to point of order) was subsec. (a) of the first section of Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985.
+Prior to redesignation by Pub. L. 101–508, this section was section 20001 of Pub. L. 99–272, which was not classified to the Code, and subsec. (c) (now (d)) of this section (relating to point of order) was subsec. (a) of the first section of Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985.
 
 #### Amendments
+
+1997—Subsec. (c). Pub. L. 105–33, §10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d).
+
+Subsec. (d). Pub. L. 105–33, §10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d) and inserted heading. Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 105–33, §10113(b)(1)(B), redesignated subsec. (d) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “For purposes of this section, the levels of new budget authority, budget outlays, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.”
 
 1990—Pub. L. 101–508, §13214(b)(2)(A), inserted “Extraneous matter in reconciliation legislation” as section catchline.
 

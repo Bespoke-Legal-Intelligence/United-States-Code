@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;(6) The term “processing site” means—
 
-&emsp;&emsp;(A) any site, including the mill, containing residual radioactive materials at which all or substantially all of the uranium was produced for sale to any Federal agency prior toJanuary 1, 1971 under a contract with any Federal agency, except in the case of a site at or near Slick Rock, Colorado, unless—
+&emsp;&emsp;(A) any site, including the mill, containing residual radioactive materials at which all or substantially all of the uranium was produced for sale to any Federal agency prior to January 1, 1971 under a contract with any Federal agency, except in the case of a site at or near Slick Rock, Colorado, unless—
 
 &emsp;&emsp;&emsp;(i) such site was owned or controlled as of January 1, 1978, or is thereafter owned or controlled, by any Federal agency, or
 

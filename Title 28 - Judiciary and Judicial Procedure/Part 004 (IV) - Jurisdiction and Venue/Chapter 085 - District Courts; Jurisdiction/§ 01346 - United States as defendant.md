@@ -6,7 +6,9 @@
 
 &emsp;(2) Any other civil action or claim against the United States, not exceeding $10,000 in amount, founded either upon the Constitution, or any Act of Congress, or any regulation of an executive department, or upon any express or implied contract with the United States, or for liquidated or unliquidated damages in cases not sounding in tort, except that the district courts shall not have jurisdiction of any civil action or claim against the United States founded upon any express or implied contract with the United States or for liquidated or unliquidated damages in cases not sounding in tort which are subject to sections 8(g)(1) and 10(a)(1) of the Contract Disputes Act of 1978. For the purpose of this paragraph, an express or implied contract with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration shall be considered an express or implied contract with the United States.
 
-(b) Subject to the provisions of chapter 171 of this title, the district courts, together with the United States District Court for the District of the Canal Zone and the District Court of the Virgin Islands, shall have exclusive jurisdiction of civil actions on claims against the United States, for money damages, accruing on and after January 1, 1945, for injury or loss of property, or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment, under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred.
+(b)(1) Subject to the provisions of chapter 171 of this title, the district courts, together with the United States District Court for the District of the Canal Zone and the District Court of the Virgin Islands, shall have exclusive jurisdiction of civil actions on claims against the United States, for money damages, accruing on and after January 1, 1945, for injury or loss of property, or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment, under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred.
+
+(2) No person convicted of a felony who is incarcerated while awaiting sentencing or while serving a sentence may bring a civil action against the United States or an agency, officer, or employee of the Government, for mental or emotional injury suffered while in custody without a prior showing of physical injury.
 
 (c) The jurisdiction conferred by this section includes jurisdiction of any set-off, counterclaim, or other claim or demand whatever on the part of the United States against any plaintiff commencing an action under this section.
 
@@ -16,7 +18,9 @@
 
 (f) The district courts shall have exclusive original jurisdiction of civil actions under section 2409a to quiet title to an estate or interest in real property in which an interest is claimed by the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 933; Apr. 25, 1949, ch. 92, §2(a), 63 Stat. 62; May 24, 1949, ch. 139, §80(a), (b), 63 Stat. 101; Oct. 31, 1951, ch. 655, §50(b), 65 Stat. 727; July 30, 1954, ch. 648, §1, 68 Stat. 589; July 7, 1958, Pub. L. 85–508, §12(e), 72 Stat. 348; Aug. 30, 1964, Pub. L. 88–519, 78 Stat. 699; Nov. 2, 1966, Pub. L. 89–719, title II, §202(a), 80 Stat. 1148; July 23, 1970, Pub. L. 91–350, §1(a), 84 Stat. 449; Oct. 25, 1972, Pub. L. 92–562, §1, 86 Stat. 1176; Oct. 4, 1976, Pub. L. 94–455, title XII, §1204(c)(1), title XIII, §1306(b)(7), 90 Stat. 1697, 1719; Nov. 1, 1978, Pub. L. 95–563, §14(a), 92 Stat. 2389; Apr. 2, 1982, Pub. L. 97–164, title I, §129, 96 Stat. 39; Sept. 3, 1982, Pub. L. 97–248, title IV, §402(c)(17), 96 Stat. 669; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516.)
+(g) Subject to the provisions of chapter 179, the district courts of the United States shall have exclusive jurisdiction over any civil action commenced under section 453(2) of title 3, by a covered employee under chapter 5 of such title.
+
+(June 25, 1948, ch. 646, 62 Stat. 933; Apr. 25, 1949, ch. 92, §2(a), 63 Stat. 62; May 24, 1949, ch. 139, §80(a), (b), 63 Stat. 101; Oct. 31, 1951, ch. 655, §50(b), 65 Stat. 727; July 30, 1954, ch. 648, §1, 68 Stat. 589; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 88–519, Aug. 30, 1964, 78 Stat. 699; Pub. L. 89–719, title II, §202(a), Nov. 2, 1966, 80 Stat. 1148; Pub. L. 91–350, §1(a), July 23, 1970, 84 Stat. 449; Pub. L. 92–562, §1, Oct. 25, 1972, 86 Stat. 1176; Pub. L. 94–455, title XII, §1204(c)(1), title XIII, §1306(b)(7), Oct. 4, 1976, 90 Stat. 1697, 1719; Pub. L. 95–563, §14(a), Nov. 1, 1978, 92 Stat. 2389; Pub. L. 97–164, title I, §129, Apr. 2, 1982, 96 Stat. 39; Pub. L. 97–248, title IV, §402(c)(17), Sept. 3, 1982, 96 Stat. 669; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §806\], Apr. 26, 1996, 110 Stat. 1321, 1321–75; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–331, §3(b)(1), Oct. 26, 1996, 110 Stat. 4069.)
 
 #### Historical and Revision Notes
 
@@ -32,7 +36,7 @@ Words “commencing an action under this section” in subsec. (c) of this revis
 
 The phrase in section 931(a) of title 28, U.S.C., 1940 ed., “accruing on and after January 1, 1945” was omitted because executed as of the date of the enactment of this revised title.
 
-Provisions in section 41(20) of title 28, U.S.C., 1940 ed., relating to time for commencing action against United States and jury trial constitute sections 2401 and 2402 of this title. (See reviser's notes under said sections.)
+Provisions in section 41(20) of title 28, U.S.C., 1940 ed., relating to time for commencing action against UnitedStates and jury trial constitute sections 2401 and 2402 of this title. (See reviser's notes under said sections.)
 
 Words in section 41(20) of title 28, U.S.C., 1940 ed., “commenced after passage of the Revenue Act of 1921” were not included in revised subsection (a)(1) because obsolete and superfluous. Actions under this section involving erroneous or illegal assessments by the collector of taxes would be barred unless filed within the 5-year limitation period of section 1113(a) of the Revenue Act of 1926, 44 Stat. 9, 116. (See <i>United States v. A. S. Kreider Co</i>., 1941, 61 S.Ct. 1007, 313 U.S. 443, 85 L.Ed. 1447.)
 
@@ -70,35 +74,43 @@ Sections 6226, 6228(a), 7426, 7428, and 7429 of the Internal Revenue Code of 198
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–134 designated existing provisions as par. (1) and added par. (2).
 
-1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+Subsec. (g). Pub. L. 104–331 added subsec. (g).
 
-1982—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (e). Pub. L. 97–248 substituted “section 6226, 6228(a), 7426, or” for “section 7426 or section”.
 
-1978—Subsec. (a)(2). Pub. L. 95–563 excluded from the jurisdiction of district courts civil actions or claims against the United States founded upon any express or implied contract with the United States or for damages in cases not sounding in tort subject to sections 8(g)(1) and 10(a)(1) of the Contract Disputes Act of 1978.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–563 excluded from the jurisdiction of district courts civil actions or claims against the United States founded upon any express or implied contract with the United States or for damages in cases not sounding in tort subject to sections 8(g)(1) and 10(a)(1) of the Contract Disputes Act of 1978.
 
-1976—Subsec. (e). Pub. L. 94–455 inserted “or section 7429” and “or section 7428 (in the case of the United States district court for the District of Columbia)”, after “section 7426”.
+<b>1976</b>—Subsec. (e). Pub. L. 94–455 inserted “or section 7429” and “or section 7428 (in the case of the United States district court for the District of Columbia)”, after “section 7426”.
 
-1972—Subsec. (f). Pub. L. 92–562 added subsec. (f).
+<b>1972</b>—Subsec. (f). Pub. L. 92–562 added subsec. (f).
 
-1970—Subsec. (a)(2). Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
 
-1966—Subsec. (e). Pub. L. 89–719 added subsec. (e).
+<b>1966</b>—Subsec. (e). Pub. L. 89–719 added subsec. (e).
 
-1964—Subsec. (d). Pub. L. 88–519 struck out provisions which prohibited district courts from exercising jurisdiction of civil actions or claims to recover fees, salary, or compensation for official services of officers or employees of the United States.
+<b>1964</b>—Subsec. (d). Pub. L. 88–519 struck out provisions which prohibited district courts from exercising jurisdiction of civil actions or claims to recover fees, salary, or compensation for official services of officers or employees of the United States.
 
-1958—Subsec. (b). Pub. L. 85–508 struck out reference to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Subsec. (b). Pub. L. 85–508 struck out reference to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1954—Subsec. (a)(1). Act July 30, 1954, struck out language imposing jurisdictional limitation of $10,000 on suits to recover taxes.
+<b>1954</b>—Subsec. (a)(1). Act July 30, 1954, struck out language imposing jurisdictional limitation of $10,000 on suits to recover taxes.
 
-1951—Subsec. (d). Act Oct. 31, 1951, inserted references to “claim” and “employees”.
+<b>1951</b>—Subsec. (d). Act Oct. 31, 1951, inserted references to “claim” and “employees”.
 
-1949—Subsec. (a)(1). Act May 24, 1949, §80(a), inserted “, (i) if the claim does not exceed $10,000 or (ii)”.
+<b>1949</b>—Subsec. (a)(1). Act May 24, 1949, §80(a), inserted “, (i) if the claim does not exceed $10,000 or (ii)”.
 
-Subsec. (b). Acts Apr. 25, 1949, and May 24, 1949, §80(b), made a technical change to correct “chapter 173” toread “chapter 171”, and inserted “on and after January 1, 1945” after “for money damages”.
+Subsec. (b). Acts Apr. 25, 1949, and May 24, 1949, §80(b), made a technical change to correct “chapter 173” to read “chapter 171”, and inserted “on and after January 1, 1945” after “for money damages”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–331 effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as an Effective Date note under section 1296 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -106,7 +118,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1982 Amendments
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, withprovision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
@@ -132,7 +144,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Federal Rules of Civil Procedure
 
@@ -162,5 +174,5 @@ Venue of actions against United States, see section 1402 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 995, 1295, 1402, 2402, 2409a, 2671, 2676, 2677, 2678, 2679, 2680 of this title; title 2 section 190g; title 5 sections 3373, 3374, 8477; title 10 sections 1054, 1089; title 22 sections 2702, 3761, 4606; title 23 section 307; title 25 sections 640d–17, 1680c; title 26 section 7422; title 29 section 938; title 38 sections 515, 1151, 7316; title 41 sections 113, 602; title 42 sections 233, 405, 2212, 2221, 2223, 2458a, 4654, 5055; title 43 section 1737; title 46 App. section 1242; title 47 section 606; title 48 section 1905; title 49 section 44309; title 50 App. sections 9, 2410.
+This section is referred to in sections 995, 1295, 1402, 1413, 2402, 2409a, 2671, 2676, 2677, 2678, 2679, 2680, 3901, 3902, 3903, 3905 of this title; title 2 section 190g; title 3 sections 435, 451, 453; title 5 sections 3373, 3374, 8477; title 10 sections 1054, 1089; title 14 sections 821, 823a; title 16 section 450ss–3; title 22 sections 2702, 3761, 4606; title 23 section 307; title 25 sections 640d–17, 1680c; title 26 section 7422; title 29 section 938; title 32 section 509; title 38 sections 515, 1151, 7316; title 41 sections 113, 602; title 42 sections 233, 405, 2212, 2221, 2223, 2458a, 4654, 5055; title 43 section 1737; title 46 App. section 1242; title 47 section 606; title 48 section 1905; title 49 section 44309; title 50 App. sections 9, 2410.
 

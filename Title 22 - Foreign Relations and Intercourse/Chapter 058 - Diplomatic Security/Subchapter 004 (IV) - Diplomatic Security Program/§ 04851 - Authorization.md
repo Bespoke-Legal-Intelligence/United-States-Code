@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In addition to amounts otherwise available for such purposes, the following amounts are authorized to be appropriated for fiscal years 1986 and 1987, for the Department of State to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program, as justified to theCongress for the respective fiscal year for “Administration of Foreign Affairs”, as follows:
+&emsp;In addition to amounts otherwise available for such purposes, the following amounts are authorized to be appropriated for fiscal years 1986 and 1987, for the Department of State to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program, as justified to the Congress for the respective fiscal year for “Administration of Foreign Affairs”, as follows:
 
 &emsp;&emsp;(A) For “Salaries and Expenses”, $308,104,000.
 

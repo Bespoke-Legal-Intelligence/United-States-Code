@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The Assistant Secretary may appoint, for terms not to exceed three years (without regard to the provisions of title 5 governing appointment in the competitive service) and may compensate (without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classificationand General Schedule pay rates) such scientific or technical employees of the Office as the Assistant Secretary considers necessary to accomplish its functions, provided that—
+&emsp;The Assistant Secretary may appoint, for terms not to exceed three years (without regard to the provisions of title 5 governing appointment in the competitive service) and may compensate (without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates) such scientific or technical employees of the Office as the Assistant Secretary considers necessary to accomplish its functions, provided that—
 
 &emsp;&emsp;(A) at least 30 days prior to the appointment of any such employee, public notice is given of the availability of such position and an opportunity is provided for qualified individuals to apply and compete for such position;
 
@@ -150,7 +150,7 @@ The Assistant Secretary shall transmit to the President and the Congress by not 
 
 Report.—(i) Not later than 6 months after the first meeting of the Board and by October 1 of every second year thereafter, the Assistant Secretary shall publish a report specifying the proposed research priorities of the Office and allow a 60-day period beginning on the date of the publication of the report for public comment and suggestions.
 
-&emsp;(ii) Not later than 90 days after the expiration of the 60-day period referred to in clause (i), the Assistant Secretary shall submit to the Board a report specifying the proposed research priorities of the Office and any public comment and suggestions obtained under such subparagraph for the Board's review and approval.
+&emsp;(ii) Not later than 90 days after the expiration of the 60-day period referred to in clause (i), the Assistant Secretary shall submit to the Board a report specifying the proposed research priorities of the Office and any publiccomment and suggestions obtained under such subparagraph for the Board's review and approval.
 
 #### (g) Coordination
 
@@ -216,7 +216,7 @@ In carrying out the activities and programs of the Office, the Assistant Secreta
 
 &emsp;(1) shall be guided by the Research Priorities Plan developed by the Assistant Secretary working collaboratively with the Board and which has been approved by the Board;
 
-&emsp;(2) shall ensure that there is broad and regular public and professional involvement from the educational field in the planning and carrying out of the Office's activities, including establishing teacher advisory boards for any program office, program or project of the Office as the Assistant Secretary deems necessary and involving Indian and Alaska Native researchers and educators in activities that relate to the education of Indian and Alaska Native people;
+&emsp;(2) shall ensure that there is broad and regular public and professional involvement from the educational field in the planning and carrying out of the Office's activities, including establishing teacher advisory boards for any program office, program or project of the Office as the Assistant Secretary deems necessary and involving Indian and Alaska Native researchers and educators in activities thatrelate to the education of Indian and Alaska Native people;
 
 &emsp;(3) shall ensure that the selection of research topics and the administration of the program are free from undue partisan political influence;
 
@@ -288,7 +288,7 @@ For purposes of this subchapter, the following definitions apply:
 
 #### (12) United States; State
 
-&emsp;The terms “United States” and “State” means <sup>2</sup> each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the Marshall Islands, and the Federated States of Micronesia.
+&emsp;The terms “United States” and “State” means <sup>2</sup> each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the MarshallIslands, and the Federated States of Micronesia.
 
 #### (m) Authorization of appropriations
 
@@ -342,7 +342,7 @@ Coordination and synthesis.—The Assistant Secretary is authorized to reserve n
 
 #### (A) In general
 
-&emsp;&emsp;From the amounts appropriated pursuant to paragraph (1) for any fiscal year, the Secretary is authorized, in accordance with the provisions of this paragraph, to award a grant of not more than $5,000,000 to a public or private institution, agency or organization for a period not to exceed 5 years for the purpose of conducting a State-by-State poll to determine the perceptions of recent graduates of secondary schools, their instructors in institutions of higher education, parents of recent such graduates, and employers of recent such graduates on how well schools have prepared students for further education or employment.
+&emsp;&emsp;From the amounts appropriated pursuant to paragraph (1) for any fiscal year, the Secretary is authorized, in accordance with the provisions of this paragraph, to award agrant of not more than $5,000,000 to a public or private institution, agency or organization for a period not to exceed 5 years for the purpose of conducting a State-by-State poll to determine the perceptions of recent graduates of secondary schools, their instructors in institutions of higher education, parents of recent such graduates, and employers of recent such graduates on how well schools have prepared students for further education or employment.
 
 #### (B) Matching requirement
 

@@ -1,10 +1,38 @@
 ### §10543. National Guard and reserve component equipment procurement and military construction funding: inclusion in future-years defense program
 
-The Secretary of Defense shall specify in each future-years defense program submitted to Congress under section 221 of this title the estimated expenditures and the proposed appropriations, for each fiscal year of the period covered by that program, for the procurement of equipment and for military construction for each of the reserve components of the armed forces.
+(a)
 
-(Added Pub. L. 104–201, div. A, title XII, §1257(a)(1), Sept. 23, 1996, 110 Stat. 2699.)
+In General.—The Secretary of Defense shall specify in each future-years defense program submitted to Congress under section 221 of this title the estimated expenditures and the proposed appropriations, for each fiscal year of the period covered by that program, for the procurement of equipment and for military construction for each of the reserve components of the armed forces.
+
+(b)
+
+Associated Annexes.—The associated annexes of the future-years defense program shall specify, at the same level of detail as is set forth in the annexes for the active components, the amount requested for—
+
+&emsp;(1) procurement of each item of equipment to be procured for each reserve component; and
+
+&emsp;(2) each military construction project to be carried out for each reserve component, together with the location of the project.
+
+(c)
+
+Report.—(1) If the aggregate of the amounts specified in paragraphs (1) and (2) of subsection (b) for a fiscal year is less than the amount equal to 90 percent of the average authorized amount applicable for that fiscal year under paragraph (2), the Secretary of Defense shall submit to Congress a report specifying for each reserve component the additional items of equipment that would be procured, and the additional military construction projects that would be carried out, if that aggregate amount were an amount equal to such average authorized amount. The report shall be at the same level of detail as is required by subsection (b).
+
+(2) In this subsection, the term “average authorized amount”, with respect to a fiscal year, means the average of—
+
+&emsp;(A) the aggregate of the amounts authorized to be appropriated for the preceding fiscal year for the procurement of items of equipment, and for military construction, for the reserve components; and
+
+&emsp;(B) the aggregate of the amounts authorized to be appropriated for the fiscal year preceding the fiscal year referred to in subparagraph (A) for the procurement of items of equipment, and for military construction, for the reserve components.
+
+(Added Pub. L. 104–201, div. A, title XII, §1257(a)(1), Sept. 23, 1996, 110 Stat. 2699; amended Pub. L. 105–85, div. A, title X, §1009(a), Nov. 18, 1997, 111 Stat. 1872.)
+
+#### Amendments
+
+1997—Pub. L. 105–85 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### Effective Date
 
 Section 1257(b) of Pub. L. 104–201 provided that: “Section 10543 of title 10, United States Code, as added by subsection (a), shall apply with respect to each future-years defense program submitted to Congress after the date of the enactment of this Act \[Sept. 23, 1996\].”
+
+#### Required Level of Detail
+
+Section 1009(b) of Pub. L. 105–85 provided that: “The level of detail provided for procurement and military construction in the future-years defense programs for fiscal years after fiscal year 1998 may not be less than the level of detail provided for procurement and military construction in the future-years defense program for fiscal year 1998.”
 

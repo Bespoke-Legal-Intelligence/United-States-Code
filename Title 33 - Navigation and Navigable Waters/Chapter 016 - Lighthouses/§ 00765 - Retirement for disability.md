@@ -2,7 +2,7 @@
 
 Any officer or employee to whom section 763 of this title applies, who has been in the active service of the Government fifteen years or more and who is found, after examination by a medical officer of the United States, to be disabled for useful and efficient service by reason of disease or injury not due to vicious habits, intemperance, or willful misconduct on his part, shall be retired under rules to be prescribed by the Secretary of Transportation on an annuity computed in the manner provided in said section.
 
-(Mar. 4, 1925, ch. 523, §1, 43 Stat. 1261; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Oct. 15, 1966, Pub. L. 89–670, §6(b)(1), 80 Stat. 938.)
+(Mar. 4, 1925, ch. 523, §1, 43 Stat. 1261; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### Transfer of Functions
 

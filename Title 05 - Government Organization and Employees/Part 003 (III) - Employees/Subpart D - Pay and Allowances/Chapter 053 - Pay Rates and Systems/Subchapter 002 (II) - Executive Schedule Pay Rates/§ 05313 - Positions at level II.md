@@ -116,7 +116,7 @@ Pub. L. 103–296 inserted item relating to Deputy Commissioner of Social Securi
 
 1990—Pub. L. 101–576 inserted item relating to Deputy Director for Management, Office of Management and Budget.
 
-Pub. L. 101–509 inserted items relating to Deputy Secretary of Health and Human Services, Deputy Secretary of the Interior, Deputy Secretary of Education, and Deputy Secretary of Housing and Urban Development.
+Pub. L. 101–509 inserted items relating to Deputy Secretary of Health and Human Services, Deputy Secretary of the Interior, Deputy Secretary of Education,and Deputy Secretary of Housing and Urban Development.
 
 1989—Pub. L. 101–73 inserted item relating to Independent Members, Oversight Board, Resolution Trust Corporation.
 
@@ -216,7 +216,7 @@ Section 5 of Pub. L. 94–561 provided that:
 
 #### Effective Date of 1974 Amendment
 
-Amendment of Pub. L. 93–438 effective 120 days after Oct. 11, 1974, or on such earlier date as President may prescribe and publish in Federal Register, except that officers provided for in sections 5811 to 5820 of Title 42, The Public Health and Welfare, may be nominated and appointed at any time after Oct. 11, 1974, see section 312(a) of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of Title 42.
+Amendment of Pub. L. 93–438 effective 120 days after Oct. 11, 1974, or on such earlier date as President may prescribe and publish in Federal Register, except that officers provided for in sections 5811 to 5820 of Title 42,The Public Health and Welfare, may be nominated and appointed at any time after Oct. 11, 1974, see section 312(a) of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of Title 42.
 
 #### Effective Date of 1972 Amendment
 
@@ -240,7 +240,9 @@ United States Information Agency, including the Office of Director, referred to 
 
 #### Salary Increases
 
-1997—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, set out as a note under section 5332 of this title.
+1998—Salaries of positions at level II increased to $136,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1998, as provided by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, set out as a note under section 5332 of this title.
+
+1997—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987.
 
 1996—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237.
 
@@ -280,7 +282,7 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated 
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of this title.
 
-1979—Salaries of positions at level II increased to $65,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuant to section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $60,662.50.
+1979—Salaries of positions at level II increased to $65,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuantto section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $60,662.50.
 
 Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of this title.
 
@@ -306,5 +308,5 @@ Director of Federal Bureau of Investigation, Department of Justice to receive co
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5315, 5377, 5380, 8432, 8701, 8714b of this title; title 2 section 362; title 3 sections 105, 106, 108; title 10 section 973; title 18 section 207; title 22 section 3961; title 25 section 4042; title 26 section 3121; title 28 section 591; title 31 section 703; title 42 sections 210, 410, 1864, 4346, 5871, 5872, 6612, 7132, 7211, 7291, 7293.
+This section is referred to in sections 5315, 5377, 5380, 8432, 8701, 8714b of this title; title 2 section 362; title 3 sections 105, 106, 108; title 10 section 973; title 18 section 207; title 22 section 3961; title 25 section 4042; title 26 section 3121; title 28 section 591; title 31 section 703; title 42 sections 210, 410, 1864, 4346, 5871, 5872, 6612, 7132, 7211, 7291, 7293; title 49 section 106.
 

@@ -2,7 +2,7 @@
 
 (a)(1) Subject to paragraph (2) of this subsection, an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, is entitled to leave without loss in pay, time, or performance or efficiency rating for active duty or engaging in field or coast defense training under sections 502–505 of title 32 as a Reserve of the armed forces or member of the National Guard. Leave under this subsection accrues for an employee or individual at the rate of 15 days per fiscal year and, to the extent that it is not used in a fiscal year, accumulates for use in the succeeding fiscal year until it totals 15 days at the beginning of a fiscal year.
 
-(2) In the case of an employee or individual employed on a part-time career employment basis (as defined in section 3401(2) of this title), the rate at which leave accrues under this subsection shall be a percentage of the rate prescribed under paragraph (1) which is determinedby dividing 40 into the number of hours in the regularly scheduled workweek of that employee or individual during that fiscal year.
+(2) In the case of an employee or individual employed on a part-time career employment basis (as defined in section 3401(2) of this title), the rate at which leave accrues under this subsection shall be a percentage of the rate prescribed under paragraph (1) which is determined by dividing 40 into the number of hours in the regularly scheduled workweek of that employee or individual during that fiscal year.
 
 (b) Except as provided by section 5519 of this title, an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, who—
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) full-time military service for his State, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States;
 
-> is entitled, during and because of such service, to leave without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance or efficiency rating. Leave granted by this subsection shall not exceed 22 work-days in a calendar year. Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.
+> is entitled, during and because of such service, to leave without loss of, or reduction in, pay,leave to which he otherwise is entitled, credit for time or service, or performance or efficiency rating. Leave granted by this subsection shall not exceed 22 work-days in a calendar year. Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave.
 
 (c) An employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, who is a member of the National Guard of the District of Columbia, is entitled to leave without loss in pay or time for each day of a parade or encampment ordered or authorized under title 39, District of Columbia Code. This subsection covers each day of service the National Guard, or a portion thereof, is ordered to perform by the commanding general.
 
@@ -116,5 +116,5 @@ Section 4 of act July 1, 1947, ch. 192, 61 Stat. 239, as amended by act June 22,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5519, 6129 of this title.
+This section is referred to in sections 5519, 6129 of this title; title 22 section 3664.
 

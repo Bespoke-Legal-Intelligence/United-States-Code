@@ -2,7 +2,7 @@
 
 Penstocks or other similar facilities adapted to possible future use in the development of hydroelectric power shall be installed in any dam herein authorized when approved by the Secretary of the Army upon the recommendation of the Chief of Engineers and of the Secretary of Energy.
 
-(June 28, 1938, ch. 795, §4, 52 Stat. 1216; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Aug. 4, 1977, Pub. L. 95–91, title III, §301(b), 91 Stat. 578.)
+(June 28, 1938, ch. 795, §4, 52 Stat. 1216; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578.)
 
 #### References in Text
 

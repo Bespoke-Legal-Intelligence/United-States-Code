@@ -82,6 +82,8 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Increase in Registration Fees and Deposit Into Treasury
 
+Pub. L. 105–46, §113, Sept. 30, 1997, 111 Stat. 1156, provided that: “Notwithstanding any other provision of this joint resolution \[see Tables for classification\], except section 106 \[111 Stat. 1156\], the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, shall include, in addition to direct appropriations, the amount it collects under the fee rate and offsetting collection authority contained in Public Law 104–208 \[set out as a note below\], which fee rate and offsetting collection authority shall remain in effect during the period of this joint resolution.”
+
 Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: “That immediately upon enactment of this Act \[Sept. 30, 1996\], the rate of fees under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)) shall increase from one-fiftieth of one percentum to one-thirty-third of one percentum, and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover costs of services of the securities registration process”.
 
 Similar provisions were contained in the following prior appropriation acts:
@@ -89,6 +91,12 @@ Similar provisions were contained in the following prior appropriation acts:
 Pub. L. 104–134, title I, §101\[(a)\] \[title V\], Apr. 26, 1996, 110 Stat. 1321, 1321–60; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 104–99, title II, §209, Jan. 26, 1996, 110 Stat. 37.
+
+Pub. L. 104–56, §119, Nov. 20, 1995, 109 Stat. 552.
+
+Pub. L. 104–54, §119, Nov. 19, 1995, 109 Stat. 544.
+
+Pub. L. 104–31, §120, Sept. 30, 1995, 109 Stat. 282.
 
 Pub. L. 103–352, Oct. 10, 1994, 108 Stat. 3148.
 

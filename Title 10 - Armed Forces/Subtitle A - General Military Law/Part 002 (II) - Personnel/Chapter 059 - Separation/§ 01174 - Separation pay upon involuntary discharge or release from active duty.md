@@ -2,7 +2,7 @@
 
 (a)
 
-Regular Officers.—(1) A regular officer who is discharged under chapter 36 of this title (except under section 630(1)(A) or 643 of such chapter) or under section 580, 1177,<sup>1</sup> or 6383 of this title and who has completed six or more, but less than twenty, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1).
+Regular Officers.—(1) A regular officer who is discharged under chapter 36 of this title (except under section 630(1)(A) or 643 of such chapter) or under section 580 or 6383 of this title and who has completed six or more, but less than twenty, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1).
 
 (2) A regular commissioned officer of the Army, Navy, Air Force, or Marine Corps who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, or Marine Corps who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
 
@@ -34,7 +34,7 @@ Amount of Separation Pay.—The amount of separation pay which may be paid to a 
 
 (e)
 
-Requirement for Service in Ready Reserve; Exceptions To Eligibility.—(1)(A) As a condition of receiving separation pay under thissection, a person otherwise eligible for that pay shall be required to enter into a written agreement with the Secretary concerned to serve in the Ready Reserve of a reserve component for a period of not less than three years following the person's discharge or release from active duty. If the person has a service obligation under section 651 of this title or under any other provision of law that is not completed at the time the person is discharged or released from active duty, the three-year obligation under this subsection shall begin on the day after the date on which the person completes the person's obligation under such section or other provision of law.
+Requirement for Service in Ready Reserve; Exceptions To Eligibility.—(1)(A) As a condition of receiving separation pay under this section, a person otherwise eligible for that pay shall be required to enter into a written agreement with the Secretary concerned to serve in the Ready Reserve of a reserve component for a period of not less than three years following the person's discharge or release from active duty. If the person has a service obligation under section 651 of this title or under any other provision of law that is not completed at the time the person is discharged or released from active duty, the three-year obligation under this subsection shall begin on the day after the date on which the person completes the person's obligation under such section or other provision of law.
 
 (B) Each person who enters into an agreement referred to in subparagraph (A) who is not already a Reserve of an armed force and who is qualified shall, upon such person's discharge or release from active duty, be enlisted or appointed, as appropriate, as a Reserve and be transferred to a reserve component.
 
@@ -68,15 +68,15 @@ Regulations; Crediting of Other Commissioned Service.—(1) The Secretary of Def
 
 (2) Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
 
-(Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, §653(a), Sept. 23, 1996, 110 Stat. 2583.)
+(Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, §653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, §1073(a)(22), Nov. 18, 1997, 111 Stat. 1901.)
 
 #### References in Text
-
-Section 1177 of this title, referred to in subsec. (a), was repealed by Pub. L. 104–134, title II, §2707(a)(1), Apr. 26, 1966, 110 Stat. 1321–330.
 
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), is classified generally to chapter 24 (§3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1997—Subsec. (a)(1). Pub. L. 105–85 struck out “, 1177,” before “or 6383 of this title”.
 
 1996—Subsec. (h)(2). Pub. L. 104–201 inserted “, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986)” before period at end of first sentence.
 
@@ -180,7 +180,7 @@ Section 10(b) of Pub. L. 97–22 provided that the amendment made by that sectio
 
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective onDec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
@@ -189,6 +189,4 @@ For provisions to prevent extinction or premature termination of rights, duties,
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 580, 642, 1165, 1166, 1174a, 1186, 6383, 14517, 14905 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@ In accordance with the provisions of sections 2112 and 2191 of this title, the C
 
 #### (1) In general
 
-&emsp;The President may accept for the United States the final legal instruments or texts embodying each of the trade agreements approved by the Congress under subsection (a) of this section. The President shall submit a copy of each final instrument or text to theCongress on the date such text or instrument is available, together with a notification of any changes in the instruments or texts, including their annexes, if any, as accepted and the texts of such agreements as submitted to the Congress under subsection (a) of this section. Such final legal instruments or texts shall be deemed to be the agreements submitted to and approved by the Congress under subsection (a) of this section if such changes are—
+&emsp;The President may accept for the United States the final legal instruments or texts embodying each of the trade agreements approved by the Congress under subsection (a) of this section. The President shall submit a copy of each final instrument or text to the Congress on the date such text or instrument is available, together with a notification of any changes in the instruments or texts, including their annexes, if any, as accepted and the texts of such agreements as submitted to the Congress under subsection (a) of this section. Such final legal instruments or texts shall be deemed to be the agreements submitted to and approved by the Congress under subsection (a) of this section if such changes are—
 
 &emsp;&emsp;(A) only rectifications of a formal character or minor technical or clerical changes which do not affect the substance or meaning of the texts as submitted to the Congress on June 19, 1979, or
 

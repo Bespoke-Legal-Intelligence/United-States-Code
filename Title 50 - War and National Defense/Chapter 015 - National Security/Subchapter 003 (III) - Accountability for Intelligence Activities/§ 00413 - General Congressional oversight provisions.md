@@ -28,7 +28,7 @@ Nothing in this Act shall be construed as authority to withhold information from
 
 As used in this section, the term “intelligence activities” includes covert actions as defined in section 413b(e) of this title.
 
-(July 26, 1947, ch. 343, title V, §501, as added Aug. 14, 1991, Pub. L. 102–88, title VI, §602(a)(2), 105 Stat. 441.)
+(July 26, 1947, ch. 343, title V, §501, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 441.)
 
 #### References in Text
 

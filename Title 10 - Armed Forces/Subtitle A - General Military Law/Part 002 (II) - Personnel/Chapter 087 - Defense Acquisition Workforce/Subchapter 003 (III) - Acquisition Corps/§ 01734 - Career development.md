@@ -4,7 +4,7 @@
 
 Three-Year Assignment Period.—(1) Except as provided under subsection (b) and paragraph (3), the Secretary of each military department, acting through the service acquisition executive for that department, shall provide that any person who is assigned to a critical acquisition position shall be assigned to the position for not fewer than three years. Except as provided in subsection (d), the Secretary concerned may not reassign a person from such an assignment before the end of the three-year period.
 
-(2) A person may not be assigned to a critical acquisition position unless the person executes a written agreement to remain on active duty (in the case of a member of the armed forces) or to remain in Federal service (in the case of an employee) in that position for at least three years.The service obligation contained in such a written agreement shall remain in effect unless and until waived by the Secretary concerned under subsection (b).
+(2) A person may not be assigned to a critical acquisition position unless the person executes a written agreement to remain on active duty (in the case of a member of the armed forces) or to remain in Federal service (in the case of an employee) in that position for at least three years. The service obligation contained in such a written agreement shall remain in effect unless and until waived by the Secretary concerned under subsection (b).
 
 (3) The assignment period requirement of the first sentence of paragraph (1) is waived for any individual serving as a deputy program manager if the individual is assigned to a critical acquisition position upon completion of the individual's assignment as a deputy program manager.
 
@@ -16,7 +16,7 @@ Assignment Period for Program Managers.—(1) The Secretary of Defense shall pre
 
 &emsp;(B) a requirement that, on and after October 1, 1991, to the maximum extent practicable, a program manager who is the replacement for a reassigned program manager arrive at the assignment location before the reassigned program manager leaves.
 
-> Except as provided in subsection (d), the Secretary concerned may not reassign a program manager or deputy program manager from such an assignment until after such major milestone has occurred.
+> Except as provided in subsection (d), the Secretary concerned may not reassign a program manager or deputy program manager from suchan assignment until after such major milestone has occurred.
 
 (2) A person may not be assigned to a critical acquisition position as a program manager or deputy program manager of a major defense acquisition program unless the person executes a written agreement to remain on active duty (in the case of a member of the armed forces) or to remain in Federal service (in the case of an employee) in that position at least until completion of the first major milestone that occurs closest in time to the date on which the person has served in the position for four years. The service obligation contained in such a written agreement shall remain in effect unless and until waived by the Secretary concerned under subsection (d).
 
@@ -48,7 +48,7 @@ Centralized Job Referral System.—The Secretary of Defense shall prescribe regu
 
 (g)
 
-Exchange Program.—(1) The Secretary of Defense shall establish, for purposes of broadening the experience of members of each Acquisition Corps, a test program in which members of a Corps serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of themembers of the Acquisition Corps shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
+Exchange Program.—(1) The Secretary of Defense shall establish, for purposes of broadening the experience of members of each Acquisition Corps, a test program in which members of a Corps serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of the members of the Acquisition Corps shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
 
 (2) The Secretary of Defense shall submit the portion of the test program applicable to civilian employees to the Director of the Office of Personnel Management for approval. If the Director does not disapprove that portion of the test program within 30 days after the date on which the Director receives it, that portion of the test program is deemed to be approved by the Director.
 

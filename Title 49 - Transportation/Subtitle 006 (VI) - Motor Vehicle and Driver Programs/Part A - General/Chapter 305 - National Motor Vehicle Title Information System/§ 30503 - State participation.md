@@ -32,7 +32,7 @@ Grants to States.—(1) In cooperation with the States and not later than Januar
 
 Report to Congress.—Not later than October 1, 1998, the Attorney General shall report to Congress on which States have met the requirements of this section. If a State has not met the requirements, the Attorney General shall describe the impediments that have resulted in the State's failure to meet the requirements.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 981; Pub. L. 104–152, §§2(b), (c), 3(a), 6(a), July 2, 1996, 110 Stat. 1384, 1385.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 981; Pub. L. 104–152, §§2(b), (c), 3(a), 6(a), July 2, 1996, 110 Stat. 1384, 1385; Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,9 @@ In subsection (c)(2)(B), the word “fair” is omitted as being included in “
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–152, §2(c), substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
+1997—Subsec. (a). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
+
+1996—Subsec. (a). Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System”.
 
 Subsec. (c)(1). Pub. L. 104–152, §3(a), substituted “Attorney General” for “Secretary of Transportation”.
 
@@ -89,6 +91,12 @@ Subsec. (c)(2). Pub. L. 104–152, §6(a), amended par. (2) generally. Prior to 
 &emsp;“(B) the Secretary decides that the grants are reasonable and necessary to establish the System.”
 
 Subsec. (d). Pub. L. 104–152, §§2(b), 3(a), substituted “October 1, 1998” for “January 1, 1997” and substituted “Attorney General” for “Secretary” in two places.
+
+#### Effective Date of 1997 Amendment
+
+Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(b) is effective July 2, 1996.
+
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

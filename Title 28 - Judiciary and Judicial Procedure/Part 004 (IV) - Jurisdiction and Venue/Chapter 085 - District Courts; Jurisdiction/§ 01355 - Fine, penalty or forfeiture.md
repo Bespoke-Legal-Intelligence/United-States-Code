@@ -14,7 +14,7 @@
 
 (d) Any court with jurisdiction over a forfeiture action pursuant to subsection (b) may issue and cause to be served in any other district such process as may be required to bring before the court the property that is the subject of the forfeiture action.
 
-(June 25, 1948, ch. 646, 62 Stat. 934; Oct. 10, 1980, Pub. L. 96–417, title V, §507, 94 Stat. 1743; Oct. 28, 1992, Pub. L. 102–550, title XV, §1521, 106 Stat. 4062.)
+(June 25, 1948, ch. 646, 62 Stat. 934; Pub. L. 96–417, title V, §507, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 102–550, title XV, §1521, Oct. 28, 1992, 106 Stat. 4062.)
 
 #### Historical and Revision Notes
 
@@ -28,9 +28,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-1992—Pub. L. 102–550 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+<b>1992</b>—Pub. L. 102–550 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
-1980—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
+<b>1980</b>—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
 #### Effective Date of 1980 Amendment
 

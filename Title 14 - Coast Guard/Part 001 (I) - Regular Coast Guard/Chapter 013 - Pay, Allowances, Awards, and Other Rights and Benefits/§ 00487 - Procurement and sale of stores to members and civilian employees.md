@@ -6,7 +6,7 @@ Such stores as the Secretary may designate may be procured and sold to members o
 
 #### Historical and Revision Notes
 
-Derived from title 34, U.S.C., 1946 ed., §533 (Mar. 3, 1909, ch. 255, 35 Stat. 768; Apr. 14, 1937, ch. 78, 50 Stat.63; June 10, 1939, ch. 196, 53 Stat. 814; Jan. 23, 1942, ch. 15, 56 Stat. 13; Apr. 9, 1943, ch. 39, 57 Stat. 60).
+Derived from title 34, U.S.C., 1946 ed., §533 (Mar. 3, 1909, ch. 255, 35 Stat. 768; Apr. 14, 1937, ch. 78, 50 Stat. 63; June 10, 1939, ch. 196, 53 Stat. 814; Jan. 23, 1942, ch. 15, 56 Stat. 13; Apr. 9, 1943, ch. 39, 57 Stat. 60).
 
 Said section granted authority for the Secretary of the Navy to sell designated stores to officers and enlisted men. It is deemed desirable to grant similar authority to the Secretary having control of the Coast Guard.
 

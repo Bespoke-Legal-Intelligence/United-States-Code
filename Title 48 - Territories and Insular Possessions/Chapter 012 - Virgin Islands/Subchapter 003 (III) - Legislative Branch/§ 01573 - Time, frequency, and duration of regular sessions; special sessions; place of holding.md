@@ -1,10 +1,10 @@
 ### §1573. Time, frequency, and duration of regular sessions; special sessions; place of holding
 
-(a) Regular sessions of the legislature shall be held annually, commencing on the second Monday in January (unless the legislature shall by law fix a different date), and shall continue forsuch term as the legislature may provide. The Governor may call special sessions of the legislature at any time when in his opinion the public interest may require it. No legislation shall be considered at any special session other than that specified in the call therefor or in any special message by the Governor to the legislature while in such session. All sessions of the legislature shall be open to the public.
+(a) Regular sessions of the legislature shall be held annually, commencing on the second Monday in January (unless the legislature shall by law fix a different date), and shall continue for such term as the legislature may provide. The Governor may call special sessions of the legislature at any time when in his opinion the public interest may require it. No legislation shall be considered at any special session other than that specified in the call therefor or in any special message by the Governor to the legislature while in such session. All sessions of the legislature shall be open to the public.
 
 (b) Sessions of the legislature shall be held in the capital of the Virgin Islands at Charlotte Amalie, Saint Thomas.
 
-(July 22, 1954, ch. 558, §7, 68 Stat. 500; Sept. 16, 1959, Pub. L. 86–289, §2(c), 73 Stat. 569; Aug. 23, 1968, Pub. L. 90–496, §1, 82 Stat. 837.)
+(July 22, 1954, ch. 558, §7, 68 Stat. 500; Pub. L. 86–289, §2(c), Sept. 16, 1959, 73 Stat. 569; Pub. L. 90–496, §1, Aug. 23, 1968, 82 Stat. 837.)
 
 #### Amendments
 

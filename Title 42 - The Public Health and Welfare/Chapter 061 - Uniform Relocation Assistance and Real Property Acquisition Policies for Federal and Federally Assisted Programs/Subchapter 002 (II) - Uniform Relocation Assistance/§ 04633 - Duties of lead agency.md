@@ -6,11 +6,15 @@ The head of the lead agency shall—
 
 &emsp;(1) develop, publish, and issue, with the active participation of the Secretary of Housing and Urban Development and the heads of other Federal agencies responsible for funding relocation and acquisition actions, and in coordination with State and local governments, such regulations as may be necessary to carry out this chapter;
 
-&emsp;(2) ensure that relocation assistance activities under this chapter are coordinated with low-income housing assistance programs or projects by a Federal agency or a State or State agency with Federal financial assistance;
+&emsp;(2) provide, in consultation with the Attorney General (acting through the Commissioner of the Immigration and Naturalization Service), through training and technical assistance activities for displacing agencies, information developed with the Attorney General (acting through the Commissioner) on proper implementation of section 4605 of this title;
 
-&emsp;(3) monitor, in coordination with other Federal agencies, the implementation and enforcement of this chapter and report to the Congress, as appropriate, on any major issues or problems with respect to any policy or other provision of this chapter; and
+&emsp;(3) ensure that displacing agencies implement section 4605 of this title fairly and without discrimination in accordance with section 4605(b)(2)(B) of this title;
 
-&emsp;(4) perform such other duties as may be necessary to carry out this chapter.
+&emsp;(4) ensure that relocation assistance activities under this chapter are coordinated with low-income housing assistance programs or projects by a Federal agency or a State or State agency with Federal financial assistance;
+
+&emsp;(5) monitor, in coordination with other Federal agencies, the implementation and enforcement of this chapter and report to the Congress, as appropriate, on any major issues or problems with respect to any policy or other provision of this chapter; and
+
+&emsp;(6) perform such other duties as may be necessary to carry out this chapter.
 
 #### (b) Regulations and procedures
 
@@ -26,15 +30,17 @@ The head of the lead agency is authorized to issue such regulations and establis
 
 The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I of this chapter.
 
-(Pub. L. 91–646, title II, §213, Jan. 2, 1971, 84 Stat. 1900; Pub. L. 100–17, title IV, §412, Apr. 2, 1987, 101 Stat. 254; Pub. L. 102–240, title I, §1055, Dec. 18, 1991, 105 Stat. 2002.)
+(Pub. L. 91–646, title II, §213, Jan. 2, 1971, 84 Stat. 1900; Pub. L. 100–17, title IV, §412, Apr. 2, 1987, 101 Stat. 254; Pub. L. 102–240, title I, §1055, Dec. 18, 1991, 105 Stat. 2002; Pub. L. 105–117, §2, Nov. 21, 1997, 111 Stat. 2385.)
 
 #### Amendments
+
+1997—Subsec. (a)(2) to (6). Pub. L. 105–117 added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively.
 
 1991—Subsec. (c). Pub. L. 102–240 inserted “and the Rural Electrification Administration” after “Tennessee Valley Authority”.
 
 1987—Pub. L. 100–17 in amending section generally, substituted “Duties of lead agency” for “Regulations and procedures” in section catchline.
 
-Subsec. (a). Pub. L. 100–17 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to promote uniform and effective administration of relocation assistance and land acquisition of State or local housing agencies, or other agencies having programs or projects by Federal agencies or programs or projects by State agencies receiving Federal financial assistance, the heads of Federal agencies shall consult together on the establishment of regulations and procedures for the implementation of such programs.”
+Subsec. (a). Pub. L. 100–17 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to promote uniform and effective administration of relocation assistance and land acquisition of State or local housing agencies, or other agencies having programs or projects by Federal agencies or programs or projects by State agencies receiving Federalfinancial assistance, the heads of Federal agencies shall consult together on the establishment of regulations and procedures for the implementation of such programs.”
 
 Subsec. (b). Pub. L. 100–17 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The head of each Federal agency is authorized to establish such regulations and procedures as he may determine to be necessary to assure—
 

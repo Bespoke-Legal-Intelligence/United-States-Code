@@ -68,5 +68,5 @@ Eligible Organizations.—The organizations eligible to receive services under t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2012.
+This section is referred to in section 112 of this title; title 10 section 2012.
 

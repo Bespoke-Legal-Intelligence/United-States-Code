@@ -34,7 +34,7 @@ The Secretary shall, through the clearinghouse established by subsection (a) of 
 
 &emsp;&emsp;&emsp;(ii) information on the number of deaths due to child abuse and neglect;
 
-&emsp;&emsp;(D) through a national data collection and analysis program and in consultation with appropriate State and local agencies and experts in the field, collect, compile, and make available State child abuse and neglect reporting information which, to the extent practical, shall be universal and case specific and integrated with other case-based fostercare and adoption data collected by the Secretary;
+&emsp;&emsp;(D) through a national data collection and analysis program and in consultation with appropriate State and local agencies and experts in the field, collect, compile, and make available State child abuse and neglect reporting information which, to the extent practical, shall be universal and case specific and integrated with other case-based foster care and adoption data collected by the Secretary;
 
 &emsp;&emsp;(E) compile, analyze, and publish a summary of the research conducted under section 5105(a) <sup>1</sup> of this title; and
 
@@ -109,8 +109,6 @@ Subsec. (b)(3). Pub. L. 101–126, §6, added par. (3).
 Pub. L. 98–457, §104(b), struck out subsec. (b) which authorized appropriations for fiscal years ending Sept. 30, 1978, Sept. 30, 1979, Sept. 30, 1980, and Sept. 30, 1981, respectively, for purpose of making grants and entering into contracts for programs and projects designed to prevent, identify, and treat sexual abuse of children.
 
 1978—Pub. L. 95–266 designated existing provisions as subsec. (a), inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1978, through fiscal year ending Sept. 30, 1981, and provisions setting forth funding requirements for child abuse and neglect programs and projects, and added subsec. (b).
-
-Subsec. (c)(3), (4). Pub. L. 104–235, §104(3)(B), redesignated pars. (3) and (4) as (1)(C) and (1)(D), respectively.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

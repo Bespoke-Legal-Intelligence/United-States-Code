@@ -16,7 +16,7 @@
 
 The Board of Trustees is authorized to—
 
-&emsp;(1) make such rules, policies, regulations, and bylaws, not inconsistent with the Constitution and laws of the United States, as may be necessary for the good government of Gallaudet University, for the management ofthe property and funds of such corporation (including the construction of buildings and other facilities), and for the admission, instruction, care, and discharge of students;
+&emsp;(1) make such rules, policies, regulations, and bylaws, not inconsistent with the Constitution and laws of the United States, as may be necessary for the good government of Gallaudet University, for the management of the property and funds of such corporation (including the construction of buildings and other facilities), and for the admission, instruction, care, and discharge of students;
 
 &emsp;(2) provide for the adoption of a corporate seal and for its use;
 

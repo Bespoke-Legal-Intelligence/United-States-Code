@@ -16,7 +16,7 @@
 | (a) | Repealed. |
 | (b) | Conservation and environmental assistance. |
 | (c) | Apportionment of acreage allotments. |
-| (d) to (f) Repealed. |  |
+| (d) | to (f) Repealed. |
 | (g) | Assignment of payments. |
 | 590h–1 to 590h–4. Omitted or Repealed. |  |
 | [590i.](%C2%A7%2000590i%20-%20Surveys%20and%20investigations%3B%20publication%20of%20information.md) | Surveys and investigations; publication of information. |

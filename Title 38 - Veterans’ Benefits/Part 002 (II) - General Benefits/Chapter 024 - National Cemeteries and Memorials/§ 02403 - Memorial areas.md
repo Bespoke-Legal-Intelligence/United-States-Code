@@ -34,9 +34,9 @@ For composition of National Cemetery System created by this chapter, referred to
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, on, or after Oct. 17, 1981, see section 701(b)(6) of Pub. L. 97–66, set out as a note under section 1114 of this title.
+Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, on, or after Oct. 17, 1981, seesection 701(b)(6) of Pub. L. 97–66, set out as a note under section 1114 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2306 of this title.
+This section is referred to in sections 2306, 2411 of this title.
 

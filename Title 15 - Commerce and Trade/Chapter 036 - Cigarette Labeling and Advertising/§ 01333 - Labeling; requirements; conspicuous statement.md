@@ -12,7 +12,7 @@
 
 > &emsp;SURGEON GENERAL'S WARNING: Cigarette Smoke Contains Carbon Monoxide.
 
-(2) It shall be unlawful for any manufacturer or importer of cigarettes to advertise or cause to be advertised (other than through the use of outdoor billboards) within the United States any cigarette unless the advertising bears, in accordance with the requirements of this section, one of the following labels:
+(2) It shall be unlawful for any manufacturer or importer of cigarettes to advertise or cause to be advertised (other than through the use ofoutdoor billboards) within the United States any cigarette unless the advertising bears, in accordance with the requirements of this section, one of the following labels:
 
 > &emsp;SURGEON GENERAL'S WARNING: Smoking Causes Lung Cancer, Heart Disease, Emphysema, And May Complicate Pregnancy.
 

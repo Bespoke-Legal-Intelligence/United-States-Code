@@ -2,7 +2,7 @@
 
 In any judgment of any court rendered (whether against the United States, a collector or deputy collector of internal revenue, a former collector or deputy collector, or the personal representative in case of death) for any overpayment in respect of any internal-revenue tax, interest shall be allowed at the overpayment rate established under section 6621 of the Internal Revenue Code of 1986 upon the amount of the overpayment, from the date of the payment or collection thereof to a date preceding the date of the refund check by not more than thirty days, such date to be determined by the Commissioner of Internal Revenue. The Commissioner is authorized to tender by check payment of any such judgment, with interest as herein provided, at any time after such judgment becomes final, whether or not a claim for such payment has been duly filed, and such tender shall stop the running of interest, whether or not such refund check is accepted by the judgment creditor.
 
-(June 25, 1948, ch. 646, 62 Stat. 973; May 24, 1949, ch. 139, §120, 63 Stat. 106; Jan. 3, 1975, Pub. L. 93–625, §7(a)(2), 88 Stat. 2115; Apr. 2, 1982, Pub. L. 97–164, title III, §302(b), 96 Stat. 56; Oct. 22, 1986, Pub. L. 99–514, §2, title XV, §1511(c)(18), 100 Stat. 2095, 2746.)
+(June 25, 1948, ch. 646, 62 Stat. 973; May 24, 1949, ch. 139, §120, 63 Stat. 106; Pub. L. 93–625, §7(a)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 97–164, title III, §302(b), Apr. 2, 1982, 96 Stat. 56; Pub. L. 99–514, §2, title XV, §1511(c)(18), Oct. 22, 1986, 100 Stat. 2095, 2746.)
 
 #### Historical and Revision Notes
 
@@ -28,15 +28,15 @@ Section 6621 of the Internal Revenue Code of 1986, referred to in text, is class
 
 #### Amendments
 
-1986—Pub. L. 99–514, §1511(c)(18), substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
+<b>1986</b>—Pub. L. 99–514, §1511(c)(18), substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
 Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1982—Pub. L. 97–164 struck out “(a)” before “In any judgment” and struck out subsec. (b) which provided that, except as otherwise provided in subsection (a) of this section, on all final judgments rendered against the United States in actions instituted under section 1346 of this title, interest was to be computed at the rate of 4 per centum per annum from the date of the judgment up to, but not exceeding, thirty days after the date of approval of any appropriation Act providing for payment of the judgment.
+<b>1982</b>—Pub. L. 97–164 struck out “(a)” before “In any judgment” and struck out subsec. (b) which provided that, except as otherwise provided in subsection (a) of this section, on all final judgments rendered against the United States in actions instituted under section 1346 of this title, interest was to be computed at the rate of 4 per centum per annum from the date of the judgment up to, but not exceeding, thirty days after the date of approval of any appropriation Act providing for payment of the judgment.
 
-1975—Subsec. (a). Pub. L. 93–625 substituted “an annual rate established under section 6621 of the Internal Revenue Code of 1954” for “the rate of 6 per centum per annum”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–625 substituted “an annual rate established under section 6621 of the Internal Revenue Code of 1954” for “the rate of 6 per centum per annum”.
 
-1949—Act May 24, 1949, restored provisions relating to payment of interest on tax refunds.
+<b>1949</b>—Act May 24, 1949, restored provisions relating to payment of interest on tax refunds.
 
 #### Effective Date of 1986 Amendment
 

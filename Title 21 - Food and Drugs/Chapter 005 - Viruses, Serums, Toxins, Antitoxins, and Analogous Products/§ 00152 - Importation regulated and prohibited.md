@@ -2,7 +2,7 @@
 
 The importation into the United States of any virus, serum, toxin, or analogous product for use in the treatment of domestic animals, and the importation of any worthless, contaminated, dangerous, or harmful virus, serum, toxin, or analogous product for use in the treatment of domestic animals, is prohibited without (1) a permit from the Secretary of Agriculture, or (2) in the case of an article originating in Canada, such permit or, in lieu of such permit, such certification by Canada as may be prescribed by the Secretary of Agriculture.
 
-(Mar. 4, 1913, ch. 145, §1 \[part\], 37 Stat. 832; Sept. 28, 1988, Pub. L. 100–449, title III, §301(d), 102 Stat. 1868.)
+(Mar. 4, 1913, ch. 145, §1 \[part\], 37 Stat. 832; Pub. L. 100–449, title III, §301(d), Sept. 28, 1988, 102 Stat. 1868.)
 
 #### Codification
 

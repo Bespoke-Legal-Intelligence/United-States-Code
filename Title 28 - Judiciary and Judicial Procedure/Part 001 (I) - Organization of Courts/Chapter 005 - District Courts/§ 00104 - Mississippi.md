@@ -36,7 +36,7 @@ Mississippi is divided into two judicial districts to be known as the northern a
 
 &emsp;&emsp;(3) The western division comprises the counties of Adams, Claiborne, Issaquena, Jefferson, Sharkey, Warren, Wilkinson, and Yazoo.
 
-&emsp;&emsp;Court for the western division shall be held at Natchez and Vicksburg: <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodationsare furnished at no cost to the United States.
+&emsp;&emsp;Court for the western division shall be held at Natchez and Vicksburg: <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodations are furnished at no cost to the United States.
 
 &emsp;&emsp;(4) The southern division comprises the counties of George, Hancock, Harrison, Jackson, Pearl River, and Stone.
 
@@ -46,7 +46,7 @@ Mississippi is divided into two judicial districts to be known as the northern a
 
 &emsp;&emsp;Court for the Hattiesburg division shall be held at Hattiesburg.
 
-(June 25, 1948, ch. 646, 62 Stat. 883; Aug. 7, 1950, ch. 601, 64 Stat. 415; Sept. 27, 1967, Pub. L. 90–92, 81 Stat. 229; Dec. 14, 1970, Pub. L. 91–546, §§2, 3, 84 Stat. 1412; Oct. 2, 1978, Pub. L. 95–408, §2(b), 92 Stat. 883.)
+(June 25, 1948, ch. 646, 62 Stat. 883; Aug. 7, 1950, ch. 601, 64 Stat. 415; Pub. L. 90–92, Sept. 27, 1967, 81 Stat. 229; Pub. L. 91–546, §§2, 3, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–408, §2(b), Oct. 2, 1978, 92 Stat. 883.)
 
 #### Historical and Revision Notes
 
@@ -58,15 +58,15 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1978—Subsec. (a)(1). Pub. L. 95–408 provided for holding court at Corinth.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–408 provided for holding court at Corinth.
 
-1970—Subsec. (b)(3). Pub. L. 91–546, §3, provided for holding court at Natchez if suitable quarters and accommodations are furnished at no cost to the United States.
+<b>1970</b>—Subsec. (b)(3). Pub. L. 91–546, §3, provided for holding court at Natchez if suitable quarters and accommodations are furnished at no cost to the United States.
 
 Subsec. (b)(4). Pub. L. 91–546, §2, provided for holding court at Gulfport.
 
-1967—Subsec. (a)(1). Pub. L. 90–92 provided for holding court at Ackerman.
+<b>1967</b>—Subsec. (a)(1). Pub. L. 90–92 provided for holding court at Ackerman.
 
-1950—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
+<b>1950</b>—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
 
 #### Effective Date of 1978 Amendment; Savings Provision
 

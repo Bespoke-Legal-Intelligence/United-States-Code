@@ -2,7 +2,7 @@
 
 #### (a) Development of procedures
 
-Not later than 180 days after October 28, 1991, each department, agency, or other entity of theUnited States Government engaged in foreign policy formulation, execution, or support shall develop procedures for its historical office (or a designated individual in the event that there is no historical office)—
+Not later than 180 days after October 28, 1991, each department, agency, or other entity of the United States Government engaged in foreign policy formulation, execution, or support shall develop procedures for its historical office (or a designated individual in the event that there is no historical office)—
 
 &emsp;(1) to coordinate with the State Department's Office of the Historian in selecting records for possible inclusion in the FRUS series;
 
@@ -26,7 +26,7 @@ Not later than 180 days after October 28, 1991, each department, agency, or othe
 
 (6) If a record is deleted in whole or in part as a result of review under this subsection then a note to that effect shall be inserted at the appropriate place in the FRUS volume.
 
-(Aug. 1, 1956, ch. 841, title IV, §403, as added Oct. 28, 1991, Pub. L. 102–138, title I, §198(a), 105 Stat. 686.)
+(Aug. 1, 1956, ch. 841, title IV, §403, as added Pub. L. 102–138, title I, §198(a), Oct. 28, 1991, 105 Stat. 686.)
 
 #### Authority of Secretary of State
 

@@ -160,7 +160,7 @@ The Secretary or agency head shall take into consideration and to the extent pra
 
 The grant of a right-of-way or permit pursuant to this section shall grant no immunity from the operation of the Federal antitrust laws.
 
-(Feb. 25, 1920, ch. 85, §28, 41 Stat. 449; Aug. 21, 1935, ch. 599, §1, 49 Stat. 678; Aug. 12, 1953, ch. 408, 67 Stat. 557; Nov. 16, 1973, Pub. L. 93–153, title I, §101, 87 Stat. 576; Aug. 4, 1977, Pub. L. 95–91, title III, §§301(b), 306, title IV, §402(a), (b), title VII, §§703, 707, 91 Stat. 578, 581, 583, 584, 606, 607; July 12, 1985, Pub. L. 99–64, title I, §123(b), 99 Stat. 156; Oct. 30, 1990, Pub. L. 101–475, §1, 104 Stat. 1102; Nov. 2, 1994, Pub. L. 103–437, §11(a)(1), 108 Stat. 4589; Nov. 28, 1995, Pub. L. 104–58, title II, §201, 109 Stat. 560; Dec. 21, 1995, Pub. L. 104–66, title I, §1121(k), 109 Stat. 724.)
+(Feb. 25, 1920, ch. 85, §28, 41 Stat. 449; Aug. 21, 1935, ch. 599, §1, 49 Stat. 678; Aug. 12, 1953, ch. 408, 67 Stat. 557; Pub. L. 93–153, title I, §101, Nov. 16, 1973, 87 Stat. 576; Pub. L. 95–91, title III, §§301(b), 306, title IV, §402(a), (b), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 578, 581, 583, 584, 606, 607; Pub. L. 99–64, title I, §123(b), July 12, 1985, 99 Stat. 156; Pub. L. 101–475, §1, Oct. 30, 1990, 104 Stat. 1102; Pub. L. 103–437, §11(a)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–58, title II, §201, Nov. 28, 1995, 109 Stat. 560; Pub. L. 104–66, title I, §1121(k), Dec. 21, 1995, 109 Stat. 724.)
 
 #### References in Text
 

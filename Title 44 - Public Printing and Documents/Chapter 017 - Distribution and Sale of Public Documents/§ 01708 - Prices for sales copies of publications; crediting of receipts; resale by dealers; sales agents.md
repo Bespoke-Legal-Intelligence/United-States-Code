@@ -12,7 +12,7 @@ Based on 44 U.S. Code, 1964 ed., §72a (June 30, 1932, ch. 314, §307, 47 Stat. 
 
 #### Amendments
 
-1993—Pub. L. 103–69, in first par., struck out at end “Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer, shall be deposited in the Treasuryof the United States to the credit of miscellaneous receipts.”
+1993—Pub. L. 103–69, in first par., struck out at end “Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer, shall be deposited in the Treasury of the United States to the credit of miscellaneous receipts.”
 
 1977—Pub. L. 95–94 substituted “Receipts from general sales of publications in excess of the total costs and expenses incurred in connection with the publication and sale thereof, as determined by the Public Printer,” for “Surplus receipts from sales”.
 

@@ -58,7 +58,7 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (ii) Indian tribes and tribal organizations
 
-&emsp;&emsp;&emsp;In lieu of any licensing and regulatory requirements applicable under State and local law, the Secretary, in consultation with Indian tribes and tribal organizations, shall develop minimum child care standards (that appropriately reflect tribal needs and available resources) that shall be applicable to Indian tribes and tribal organization <sup>1</sup> receiving assistance under this subchapter.
+&emsp;&emsp;&emsp;In lieu of any licensing and regulatory requirements applicable under State and local law, the Secretary, in consultation with Indian tribes and tribal organizations, shall develop minimum child care standards (that appropriately reflect tribal needs and available resources) that shall be applicable to Indian tribes and tribal organizations receiving assistance under this subchapter.
 
 #### (F) Establishment of health and safety requirements
 
@@ -88,11 +88,11 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (B) Child care services and related activities
 
-&emsp;&emsp;The State shall use amounts provided to the State for each fiscal year under this subchapter for child care services on a sliding fee scale basis, activities that improve the quality or availability of such services, and any other activity that the State deems appropriate to realize any of the goals specified in paragraphs (2) through (5) of section 658A(b),<sup>2</sup> with priority being given for services provided to children of families with very low family incomes (taking into consideration family size) and to children with special needs.
+&emsp;&emsp;The State shall use amounts provided to the State for each fiscal year under this subchapter for child care services on a sliding fee scale basis, activities that improve the quality or availability of such services, and any other activity that the State deems appropriate to realize any of the goals specified in paragraphs (2) through (5) of section 658A(b),<sup>1</sup> with priority being given for services provided to children of families with very low family incomes (taking into consideration family size) and to children with special needs.
 
 #### (C) Limitation on administrative costs
 
-&emsp;&emsp;Not more than 5 percent of the aggregate amount of funds available to the State to carry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
+&emsp;&emsp;Not more than 5 percent of the aggregate amount of funds available to the State tocarry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
 
 #### (D) Assistance for certain families
 
@@ -116,7 +116,7 @@ The State plan contained in the application under subsection (a) of this section
 
 The Secretary shall approve an application that satisfies the requirements of this section.
 
-(Pub. L. 97–35, title VI, §658E, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–237; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §605, Aug. 22, 1996, 110 Stat. 2281.)
+(Pub. L. 97–35, title VI, §658E, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–237; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §605, Aug. 22, 1996, 110 Stat. 2281; Pub. L. 105–33, title V, §5602(1), Aug. 5, 1997, 111 Stat. 645.)
 
 #### References in Text
 
@@ -125,6 +125,8 @@ The Social Security Act, referred to in subsec. (c)(2)(H), is act Aug. 14, 1935,
 Paragraphs (2) through (5) of section 658A(b), referred to in subsec. (c)(3)(B), means pars. (2) through (5) of section 658A(b) of Pub. L. 97–35, which are set out as a note under section 9858 of this title.
 
 #### Amendments
+
+1997—Subsec. (c)(2)(E)(ii). Pub. L. 105–33 substituted “tribal organizations receiving” for “tribal organization receiving”.
 
 1996—Subsec. (b). Pub. L. 104–193, §605(1), substituted “implemented during a 2-year period” for “implemented—
 
@@ -166,6 +168,10 @@ Subsec. (c)(4)(A). Pub. L. 104–193, §605(2)(C), substituted “State plan sha
 
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5603 of Pub. L. 105–33, set out as a note under section 618 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
@@ -174,7 +180,5 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 
 This section is referred to in sections 9858b, 9858d, 9858g, 9858h, 9858i, 9858k, 9858m, 9858n of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “organizations”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Construction authorization for dormitory and classroom facilities complex
 
-There is hereby authorized to be constructed, on a site jointly approved by the Senate Office Building Commission and the House Office Building Commission, in accordance with plans which shall be prepared by or under the direction of the Architect of the Capitol and which shall be submitted to and jointly approved by the Senate Office Building Commission and the House Office Building Commission, a fireproof building containing dormitory and classroom facilities, including necessary furnishings and equipment, for pages of the Senate, the House of Representatives, and the Supreme Court of the United States.
+There is hereby authorized to be constructed, on a site jointly approved by the Senate Office Building Commission and the House Office Building Commission, in accordance with plans which shall be prepared by or under the direction of the Architect of the Capitol and which shall be submitted to and jointly approved by the Senate Office Building Commission and the House Office Building Commission, a fireproof building containing dormitory and classroom facilities, including necessary furnishings and equipment, for pages of the Senate, the House ofRepresentatives, and the Supreme Court of the United States.
 
 #### (b) Acquisition of property in District of Columbia
 
@@ -26,7 +26,7 @@ Upon the acquisition on behalf of the United States of all real property under t
 
 #### (g) Designation; employment of services under supervision and control of Architect of Capitol: joint approval and direction of Speaker and President pro tempore; annual estimates to Congress; regulations governing Architect of Capitol
 
-The building constructed on the real property acquired under this section shall be designated the “John W. McCormack Residential Page School”. The employment of all services (other than that of the United States Capitol Police) necessary for its protection, care, maintenance, and use, for which appropriations are made by Congress, shall be under the control and supervision of the Architect of the Capitol. Such supervision and control shall be subject to the joint approval and direction of the Speaker and the President pro tempore. The Architect shall submit annually to the Congress estimates in detail for all services, other than those of the United States Capitol Police or those providedin connection with the conduct of school operations and the personal supervision of pages, and for all other expenses in connection with the protection, care, maintenance, and use of the John W. McCormack Residential Page School. The Speaker and the President pro tempore shall prescribe, from time to time, regulations governing the Architect in the provision of services and the protection, care, and maintenance, of the John W. McCormack Residential Page School.
+The building constructed on the real property acquired under this section shall be designated the “John W. McCormack Residential Page School”. The employment of all services (other than that of the United States Capitol Police) necessary for its protection, care, maintenance, and use, for which appropriations are made by Congress, shall be under the control and supervision of the Architect of the Capitol. Such supervision and control shall be subject to the joint approval and direction of the Speaker and the President pro tempore. The Architect shall submit annually to the Congress estimates in detail for all services, other than those of the United States Capitol Police or those provided in connection with the conduct of school operations and the personal supervision of pages, and for all other expenses in connection with the protection, care, maintenance, and use of the John W. McCormack Residential Page School. The Speaker and the President pro tempore shall prescribe, from time to time, regulations governing the Architect in the provision of services and the protection, care, and maintenance, of the John W. McCormack Residential Page School.
 
 #### (h) Joint appointee for supervision and control over page activities; regulations; Residence Superintendent of Pages: appointment, compensation, and duties; additional personnel: appointment and compensation
 
@@ -44,7 +44,7 @@ The Speaker of the House of Representatives and the President pro tempore of the
 
 Nothing in section 88b–1 of title 2 and this section shall affect the operation of section 88b of title 2, relating to educational facilities of pages and other minors who are congressional employees.
 
-(Pub. L. 91–510, title IV, §492, Oct. 26, 1970, 84 Stat. 1199; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 104–186, title II, §204(34)(C), Aug. 20, 1996, 110 Stat. 1734.)
+(Pub. L. 91–510, title IV, §492, Oct. 26, 1970, 84 Stat. 1199; Pub. L. 93–198, title IV, §421, Dec. 24,1973, 87 Stat. 789; Pub. L. 104–186, title II, §204(34)(C), Aug. 20, 1996, 110 Stat. 1734.)
 
 #### References in Text
 

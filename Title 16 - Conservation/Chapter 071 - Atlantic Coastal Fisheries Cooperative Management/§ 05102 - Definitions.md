@@ -16,7 +16,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(5) The term “Councils” means Regional Fishery Management Councils established under section 1852 of this title.
 
-&emsp;(6) The term “exclusive economic zone” means the exclusive economic zone of the United States established by Proclamation Number 5030, dated March 10, 1983. For the purposes of this chapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States, and the outer boundary of that zone is a line drawn in such a manner that each point on itis 200 nautical miles from the baseline from which the territorial sea is measured.
+&emsp;(6) The term “exclusive economic zone” means the exclusive economic zone of the United States established by Proclamation Number 5030, dated March 10, 1983. For the purposes of this chapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States, and the outer boundary of that zone is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured.
 
 &emsp;(7) The term “fish” means finfish, mollusks, crustaceans, and all other forms of marine animal life other than marine mammals and birds.
 
@@ -58,7 +58,7 @@ Proclamation Number 5030, referred to in par. (6), is set out as a note under se
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–297 inserted “and” after semicolon in subpar. (A), substituted “States.” for “States; and” in subpar. (B), and struck out subpar. (C) which read as follows: “recommends actions to be taken by the Secretary in the exclusive economic zone to conserve and manage the fishery.”
+1996—Par. (1). Pub. L. 104–297 inserted “and” after semicolon in subpar. (A), substituted “States.” for“States; and” in subpar. (B), and struck out subpar. (C) which read as follows: “recommends actions to be taken by the Secretary in the exclusive economic zone to conserve and manage the fishery.”
 
 Par. (5). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
 

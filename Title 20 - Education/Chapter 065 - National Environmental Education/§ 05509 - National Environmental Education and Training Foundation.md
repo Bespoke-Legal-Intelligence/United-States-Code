@@ -12,7 +12,7 @@
 
 &emsp;The purposes of the Foundation are—
 
-&emsp;&emsp;(A) subject to the limitation contained in the final sentence of subsection (d) of this section, to encourage, accept, leverage, and administer private gifts for the benefit of, or in connection with, the environmental education and training activities and services of the United States Environmental Protection Agency;
+&emsp;&emsp;(A) subject to the limitation contained in the final sentence of subsection (d) of thissection, to encourage, accept, leverage, and administer private gifts for the benefit of, or in connection with, the environmental education and training activities and services of the United States Environmental Protection Agency;
 
 &emsp;&emsp;(B) to conduct such other environmental education activities as will further the development of an environmentally conscious and responsible public, a well-trained and environmentally literate workforce, and an environmentally advanced educational system;
 

@@ -28,9 +28,9 @@
 
 (d)(1) In this subsection, “obligation” means any obligation (except United States currency) payable in United States money.
 
-(2) An obligation issued containing a gold clause or governed by a gold clause is discharged on payment (dollar for dollar) in United States coin or currency that is legal tender at the time of payment. This paragraph does not apply to an obligation issued after October 27, 1977. This paragraph shall apply to any obligation issued on or before October 27, 1977, notwithstanding any assignment or novation of such obligation after October 27, 1977, unless all parties to the assignment or novation specifically agree to include a gold clause in the new agreement. Nothing in the preceding sentence shall be construed to affect the enforceability of a Gold Clause <sup>1</sup> contained in any obligation issued after October 27, 1977 if the enforceability of that Gold Clause <sup>1</sup> has been finally adjudicated before the date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996.
+(2) An obligation issued containing a gold clause or governed by a gold clause is discharged on payment (dollar for dollar) in United States coin or currency that is legal tender at the time of payment. This paragraph does not apply to an obligation issued after October 27, 1977.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 99–185, §2(d), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 104–208, div. A, title II, §2609, Sept. 30, 1996, 110 Stat. 3009–475.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 99–185, §2(d), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 104–208, div. A, title II, §2609, Sept. 30, 1996, 110 Stat. 3009–475; Pub. L. 105–61, title VI, §641, Oct. 10, 1997, 111 Stat. 1318.)
 
 Historical and Revision Notes
 
@@ -88,11 +88,9 @@ In subsection (c)(3), the words “may be expended” are substituted for “an 
 
 In subsection (d)(1), the words “including every obligation of and to the United States” are omitted as surplus. The text of 31:463(b)(words after semicolon) is omitted as unnecessary because of the restatement.
 
-#### References in Text
-
-The date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 104–208, div. A, title II, which was approved Sept. 30, 1996.
-
 #### Amendments
+
+1997—Subsec. (d)(2). Pub. L. 105–61 struck out at end “This paragraph shall apply to any obligation issued on or before October 27, 1977, notwithstanding any assignment or novation of such obligation after October 27, 1977, unless all parties to the assignment or novation specifically agree to include a gold clause in the new agreement. Nothing in the preceding sentence shall be construed to affect the enforceability of a Gold Clause contained in any obligation issued after October 27, 1977 if the enforceability of that Gold Clause has been finally adjudicated before the date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996.”
 
 1996—Subsec. (d)(2). Pub. L. 104–208 inserted at end “This paragraph shall apply to any obligation issued on or before October 27, 1977, notwithstanding any assignment or novation of such obligation after October 27, 1977, unless all parties to the assignment or novation specifically agree to include a gold clause in the new agreement. Nothing in the preceding sentence shall be construed to affect the enforceability of a Gold Clause contained in any obligation issued after October 27, 1977 if the enforceability of that Gold Clause has been finally adjudicated before the date of enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996.”
 
@@ -101,6 +99,4 @@ The date of enactment of the Economic Growth and Regulatory Paperwork Reduction 
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–185 effective Oct. 1, 1985, except that no coins may be issued or sold under section 5112(i) of this title before Oct. 1, 1986, see section 3 of Pub. L. 99–185, set out as a note under section 5112 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

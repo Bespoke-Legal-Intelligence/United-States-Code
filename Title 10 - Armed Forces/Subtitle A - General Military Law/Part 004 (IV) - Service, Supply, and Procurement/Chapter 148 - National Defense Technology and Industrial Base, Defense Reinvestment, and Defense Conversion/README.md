@@ -7,7 +7,12 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Definitions/README.md) | <b>Definitions</b> | <b>2491</b> |
+| [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Definitions/README.md) | <b>Definitions</b> | <b><sup>1</sup></b><b>2491</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Policies%20and%20Planning/README.md) | <b>Policies and Planning</b> | <b>2501</b> |
 | [<b>III.</b>](Subchapter%20003%20%28III%29%20-%20Programs%20for%20Development%2C%20Application%2C%20and%20Support%20of%20Dual-Use%20Technologies/README.md) | <b>Programs for Development, Application, and Support of Dual-Use Technologies</b> | <b>2511</b> |
 | [<b>IV.</b>](Subchapter%20004%20%28IV%29%20-%20Manufacturing%20Technology%20and%20Dual-Use%20Assistance%20Extension%20Programs/README.md) | <b>Manufacturing Technology and Dual-Use Assistance Extension Programs</b> | <b>2521</b> |

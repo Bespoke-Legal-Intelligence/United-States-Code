@@ -2,7 +2,7 @@
 
 #### (a) Appointment of scholars; gifts, bequests, etc.; grants; location of Center; physical facilities; compensation of officers; plans and specifications for Center
 
-In administering the Center, the Board shall have all necessary and proper powers, which shall include but not be limited to the power to—
+In administering the Center, the Board shall have all necessary and proper powers, whichshall include but not be limited to the power to—
 
 &emsp;(1) appoint scholars, from the United States and abroad, and, where appropriate, provide stipends, grants, and fellowships to such scholars, and to hire or accept the voluntary services of consultants, advisory boards, and panels to aid the Board in carrying out its responsibilities;
 

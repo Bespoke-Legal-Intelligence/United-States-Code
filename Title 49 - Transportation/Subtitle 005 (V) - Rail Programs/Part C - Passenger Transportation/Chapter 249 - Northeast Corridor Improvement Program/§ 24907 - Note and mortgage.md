@@ -10,7 +10,7 @@ Exemptions From Laws and Regulations.—The note and agreement under subsection 
 
 (c)
 
-Immunity From Liability and Indemnification.—Amtrak, its board of directors, and its individual directors are not liable because Amtrak has given or issued the note or agreement to theGovernment under subsection (a) of this section. Immunity granted under this subsection also applies to a transaction related to the note or agreement. The Government shall indemnify Amtrak, its board, and individual directors against costs and expenses actually and reasonably incurred in defending a civil action testing the validity of the note, agreement, or transaction.
+Immunity From Liability and Indemnification.—Amtrak, its board of directors, and its individual directors are not liable because Amtrak has given or issued the note or agreement to the Government under subsection (a) of this section. Immunity granted under this subsection also applies to a transaction related to the note or agreement. The Government shall indemnify Amtrak, its board, and individual directors against costs and expenses actually and reasonably incurred in defending a civil action testing the validity of the note, agreement, or transaction.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 936.)
 

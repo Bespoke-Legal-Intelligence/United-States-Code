@@ -4,7 +4,7 @@
 
 (b)(1) If the Director of the Office of Personnel Management makes a determination described in paragraph (2) with respect to a person who was employed by a Federal executive agency at the time the person entered the service from which the person seeks reemployment under this section, the Director shall—
 
-&emsp;(A) identify a position of like seniority, status, and pay at another Federal executive agency that satisfies the requirements of section 4313 and for which the person is qualified; and
+&emsp;(A) identify a position of like seniority, status, and pay at another Federal executiveagency that satisfies the requirements of section 4313 and for which the person is qualified; and
 
 &emsp;(B) ensure that the person is offered such position.
 

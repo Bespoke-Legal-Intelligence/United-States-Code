@@ -22,5 +22,5 @@ For any federally assisted housing project described in subparagraph (E) or (F) 
 
 The National Housing Act, referred to in section catchline, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-Section 13631 of this title, referred to in subsecs. (a) and (d), was in the original “section 661”, and was translated as reading “section 671”, meaning section 671 of Pub. L. 102–550, to reflect the probable intent of Congress.
+Section 13631 of this title, referred to in subsecs. (a) and (d), was in the original “section 661”, and wastranslated as reading “section 671”, meaning section 671 of Pub. L. 102–550, to reflect the probable intent of Congress.
 

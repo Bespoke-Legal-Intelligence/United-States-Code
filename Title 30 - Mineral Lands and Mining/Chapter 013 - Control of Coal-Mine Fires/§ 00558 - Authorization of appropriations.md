@@ -2,7 +2,7 @@
 
 There are hereby authorized to be appropriated such sums,<sup>1</sup> as may be necessary to carry out the provisions and purposes of this chapter.
 
-(Aug. 31, 1954, ch. 1156, §8, 68 Stat. 1011; Oct. 24, 1992, Pub. L. 102–486, title XXV, §2504(d)(3), 106 Stat. 3106.)
+(Aug. 31, 1954, ch. 1156, §8, 68 Stat. 1011; Pub. L. 102–486, title XXV, §2504(d)(3), Oct. 24, 1992, 106 Stat. 3106.)
 
 #### Amendments
 

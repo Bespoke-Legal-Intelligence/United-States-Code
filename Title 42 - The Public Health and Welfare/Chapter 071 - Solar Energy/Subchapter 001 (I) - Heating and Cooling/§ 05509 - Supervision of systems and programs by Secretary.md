@@ -16,7 +16,7 @@ In the development of the performance criteria and test procedures required unde
 
 #### (c) Continued liaison with building and related industries and scientific and technical communities
 
-The Secretary shall also maintain continuing liaison with the building industry and related industries and interests, and with the scientific and technical community during and after theperiod of the programs carried out under this subchapter, in order to assure that the projected benefits of such programs are and will continue to be realized.
+The Secretary shall also maintain continuing liaison with the building industry and related industries and interests, and with the scientific and technical community during and after the period of the programs carried out under this subchapter, in order to assure that the projected benefits of such programs are and will continue to be realized.
 
 (Pub. L. 93–409, §11, Sept. 3, 1974, 88 Stat. 1074; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 

@@ -26,7 +26,7 @@ Any person violating this provision may, upon a showing satisfactory to the Secr
 
 &emsp;&emsp;(A) For anniversary dates occurring during the one-year period beginning on November 15, 1995, the licensee shall pay a renewal fee in an amount equal to 100 percent of the applicable renewal fee (subject to the $4,000 aggregate limit on such payments) in effect under this subsection on the day before November 15, 1995.
 
-&emsp;&emsp;(B) For anniversary dates occurring during the one-year period beginning at the end of the period in subparagraph (A), the licensee shall pay a renewal fee in an amount equal to 75 percent of the amount paid by the licensee under subparagraph (A).
+&emsp;&emsp;(B) For anniversary dates occurring during the one-year period beginning at the end of the period in subparagraph (A), the licenseeshall pay a renewal fee in an amount equal to 75 percent of the amount paid by the licensee under subparagraph (A).
 
 &emsp;&emsp;(C) For anniversary dates occurring during the one-year period beginning at the end of the period in subparagraph (B), the licensee shall pay a renewal fee in an amount equal to 50 percent of the amount paid by the licensee under subparagraph (A).
 
@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 104–48, §3(b)(3), inserted heading.
 
 1981—Subsec. (b). Pub. L. 97–98 substituted “$300”, “$150”, and “$3,000” for “$150”, “$50”, and “$1,000”, respectively.
 
-1978—Subsec. (b). Pub. L. 95–562 substituted “in such application and to be furnished thereafter” for “in such application” and “$150, plus $50 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary” for “$100”, and inserted provisions limiting the total annual fees for any applicant to an amount not to exceed $1,000 in the aggregate and limiting the amount of money in the special fund at the end of any fiscal year to an amount not to exceed 25 percent of the projected budget for the next following fiscal year.
+1978—Subsec. (b). Pub. L. 95–562 substituted “in such application and to be furnished thereafter” for “in such application” and “$150, plus $50 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary” for “$100”, and inserted provisions limiting the total annual fees for any applicant to an amount not to exceed $1,000 in the aggregate and limiting the amountof money in the special fund at the end of any fiscal year to an amount not to exceed 25 percent of the projected budget for the next following fiscal year.
 
 1969—Subsec. (b). Pub. L. 91–107 increased limitation on fees from $50 to $100.
 

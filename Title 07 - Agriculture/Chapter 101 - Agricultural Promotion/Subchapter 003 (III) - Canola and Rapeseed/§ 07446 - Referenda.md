@@ -36,7 +36,7 @@
 
 #### (2) Disapproval of order
 
-&emsp;If the Secretary determines, in a referendum conducted under paragraph (1), that suspension or termination of the order is favored by a majority of the producers voting in the referendum, the Secretary shall suspend or terminate, as appropriate, collection of assessments under the order within 180 days afterthe determination, and shall suspend or terminate the order, as appropriate, in an orderly manner as soon as practicable after the determination.
+&emsp;If the Secretary determines, in a referendum conducted under paragraph (1), that suspension or termination of the order is favored by a majority of the producers voting in the referendum, the Secretary shall suspend or terminate, as appropriate, collection of assessments under the order within 180 days after the determination, and shall suspend or terminate the order, as appropriate, in an orderly manner as soon as practicable after the determination.
 
 #### (3) Opportunity to request additional referenda
 

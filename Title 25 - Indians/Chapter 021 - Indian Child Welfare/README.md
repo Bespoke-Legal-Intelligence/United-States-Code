@@ -95,7 +95,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 941h, 1300j–7, 1653, 1727 of this title; title 42 sections 622, 5115a.
+This chapter is referred to in sections 941h, 1300j–7, 1653, 1727 of this title; title 42 sections 622, 674, 1996b.
 
 
 ---

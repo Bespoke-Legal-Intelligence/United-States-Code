@@ -12,7 +12,7 @@
 
 (B) The amount of the deferment shall not exceed 50 percent of the total cost of a community or economic development project for which a deferment is provided under this subsection.
 
-(C) The total amount of deferments under this subsection during each of the fiscal years 1990 through 1993 shall not exceed 3 percent of the total payments due during such fiscal year from all borrowers on direct and insured loans made under this chapter and shall not exceed 5 percent of such total payments due in each subsequent fiscal year.
+(C) The total amount of deferments under this subsection during each of the fiscal years 1990 through 1993 shall not exceed 3 percent of thetotal payments due during such fiscal year from all borrowers on direct and insured loans made under this chapter and shall not exceed 5 percent of such total payments due in each subsequent fiscal year.
 
 (D) At the time of a deferment, the borrower shall make a payment to a cushion of credit account established and maintained pursuant to section 940c of this title in an amount equal to the amount of the payment deferred. The balance of such account shall not be reduced by the borrower below the level of the unpaid balance of the payment deferred. Subject to limitations established in annual appropriations Acts, such cushion of credit amounts and any other cushion of credit and advance payments of any borrower shall be included in the interest differential calculation under section 940c(b)(2)(A) of this title.
 

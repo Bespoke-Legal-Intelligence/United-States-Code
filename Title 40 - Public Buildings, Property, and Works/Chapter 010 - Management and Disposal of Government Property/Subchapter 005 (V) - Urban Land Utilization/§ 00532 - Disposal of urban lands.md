@@ -8,7 +8,7 @@
 
 &emsp;(2) current availability to such property of streets, sidewalks, sewers, water, street lights, and other service facilities and prospective availability of such services if such property is included in comprehensive planning.
 
-(June 30, 1949, ch. 288, title VIII, §803, as added Oct. 16, 1968, Pub. L. 90–577, title V, §501, 82 Stat. 1105.)
+(June 30, 1949, ch. 288, title VIII, §803, as added Pub. L. 90–577, title V, §501, Oct. 16, 1968, 82 Stat. 1105.)
 
 #### Section Referred to in Other Sections
 

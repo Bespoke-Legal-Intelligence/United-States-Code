@@ -38,7 +38,7 @@ Section 1101 of title XI of div. A of Pub. L. 104–201 provided that: “This t
 
 #### Savings Provisions
 
-Section 1116 of title XI of div. A of Pub. L. 104–201 provided that:
+Section 1116 of title XI of div. A of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(8), Nov. 18, 1997, 111 Stat. 1904, provided that:
 
 “(a)
 
@@ -52,7 +52,7 @@ Continuing Effect on Legal Documents.—All orders, determinations, rules, regul
 
 “(b)
 
-Proceedings Not Affected.—This title and the amendments made by this title shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before an element of the Department of Defense or Central Intelligence Agency at the time this title takes effect, with respect to function of that element transferred by section 1122 \[probably means section 1111 of Pub. L. 104–201, set out above\], but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this title had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this section shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this title had not been enacted.”
+Proceedings Not Affected.—This title and the amendments made by this title shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before an element of the Department of Defense or Central Intelligence Agency at the time this title takes effect, with respect to function of that element transferred by section 1111 \[set out below\], but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this title had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this section shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this title had not been enacted.”
 
 #### Congressional Findings
 
@@ -126,5 +126,5 @@ Section 1115 of Pub. L. 104–201 provided that: “In the case of an employee o
 
 #### Definitions
 
-Section 1117 of Pub. L. 104–201 provided that: “In this subtitle \[subtitle A (§§1111–1118) of title XI of div. A of Pub. L. 104–201, enacting this chapter, section 424 of this title, and sections 404e and 404f of Title 50, War and National Defense, amending sections 193 and 451 to 456 of this title, section 1336 of Title 44, Public Printing and Documents, and section 403–5 of Title 50, renumbering chapter 22 and sections 2792 to 2796 and 2798 of this title as chapter 23 and sections 451 to 455 and 456 of this title, respectively, repealing sections 424 and 425 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 501 of Title 44\], the terms ‘function’, ‘imagery’, ‘imagery intelligence’, and ‘geospatial information’ have the meanings given those terms in section 467 of title 10, United States Code, as added by section 1112.”
+Section 1117 of Pub. L. 104–201 provided that: “In this subtitle \[subtitle A (§§1111–1118) of title XI of div. A ofPub. L. 104–201, enacting this chapter, section 424 of this title, and sections 404e and 404f of Title 50, War and National Defense, amending sections 193 and 451 to 456 of this title, section 1336 of Title 44, Public Printing and Documents, and section 403–5 of Title 50, renumbering chapter 22 and sections 2792 to 2796 and 2798 of this title as chapter 23 and sections 451 to 455 and 456 of this title, respectively, repealing sections 424 and 425 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 501 of Title 44\], the terms ‘function’, ‘imagery’, ‘imagery intelligence’, and ‘geospatial information’ have the meanings given those terms in section 467 of title 10, United States Code, as added by section 1112.”
 

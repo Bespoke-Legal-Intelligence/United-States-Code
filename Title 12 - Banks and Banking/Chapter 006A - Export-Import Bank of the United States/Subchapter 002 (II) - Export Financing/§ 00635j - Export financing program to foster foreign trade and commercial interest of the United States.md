@@ -20,7 +20,7 @@ Ex. Ord. No. 11420, July 31, 1968, 33 F.R. 10997, provided:
 
 WHEREAS foreign trade is an essential and continuing element in sustaining the growth, strength, and prosperity of our economy, contributes to the improvement of our balance of payments, and fosters the long-term commercial interest of the United States; and
 
-WHEREAS, on March 20, 1968, I requested the Congress to empower the Export-Import Bank of the United States to use up to $500,000,000 of its loan, guarantee, and insurance authority to finance a broadened program to sell American goods in foreign markets; and
+WHEREAS, on March 20, 1968, I requested the Congress to empower the Export-Import Bank of theUnited States to use up to $500,000,000 of its loan, guarantee, and insurance authority to finance a broadened program to sell American goods in foreign markets; and
 
 WHEREAS the Congress has authorized the Bank to extend loans, guarantees, and insurance which, in the judgment of the Board of Directors of the Bank, offer sufficient likelihood of repayment to justify the Bank's support in order to actively foster the foreign trade and long-term commercial interest of the United States; and
 

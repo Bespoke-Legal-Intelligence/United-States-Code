@@ -14,7 +14,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(D) at a minimum, can be produced, distributed, operated, and disposed of in compliance with any applicable requirement of Federal law;
 
-&emsp;(3) “commercial electric or hybrid vehicle” includes any electric or hybrid vehicle which can be used (A) for business or agricultural production purposes on farms (e.g. tractorsand trucks) or in rural areas, or (B) for commercial purposes in urban areas;
+&emsp;(3) “commercial electric or hybrid vehicle” includes any electric or hybrid vehicle which can be used (A) for business or agricultural production purposes on farms (e.g. tractors and trucks) or in rural areas, or (B) for commercial purposes in urban areas;
 
 &emsp;(4) “electric vehicle” means a vehicle which is powered by an electric motor drawing current from rechargeable storage batteries, fuel cells, or other portable sources of electrical current, and which may include a nonelectrical source of power designed to charge batteries and components thereof;
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) Veterans with service-connected disabilities rated 30 percent or 40 percent.
 
-&emsp;(3) Veterans who are former prisoners of war, veterans with service-connected disabilitiesrated 10 percent or 20 percent, and veterans described in subparagraphs (B) and (C) of section 1710(a)(2) of this title.
+&emsp;(3) Veterans who are former prisoners of war, veterans with service-connected disabilities rated 10 percent or 20 percent, and veterans described in subparagraphs (B) and (C) of section 1710(a)(2) of this title.
 
 &emsp;(4) Veterans who are in receipt of increased pension based on a need of regular aid and attendance or by reason of being permanently housebound and other veterans who are catastrophically disabled.
 

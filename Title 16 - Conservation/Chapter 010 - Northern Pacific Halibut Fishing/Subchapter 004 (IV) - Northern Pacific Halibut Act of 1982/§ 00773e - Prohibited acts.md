@@ -12,7 +12,7 @@ It is unlawful—
 
 &emsp;&emsp;(4) to resist a lawful arrest or detention for any act prohibited by this section;
 
-&emsp;&emsp;(5) to ship, transport, offer for sale, sell, purchase, import, export or have custody, control or possession of, any fish taken orretained in violation of the Convention, this subchapter, or any regulation adopted under this subchapter; or
+&emsp;&emsp;(5) to ship, transport, offer for sale, sell, purchase, import, export or have custody, control or possession of, any fish taken or retained in violation of the Convention, this subchapter, or any regulation adopted under this subchapter; or
 
 &emsp;&emsp;(6) to interfere with, delay or prevent, by any means, the apprehension, arrest or detention of another person, knowing that such person has committed any act prohibited by this section.
 

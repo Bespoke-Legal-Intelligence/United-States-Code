@@ -6,7 +6,7 @@ There shall be implemented by each United States district court, in accordance w
 
 #### Amendments
 
-1991—Pub. L. 102–198 substituted “this chapter” for “this title”.
+<b>1991</b>—Pub. L. 102–198 substituted “this chapter” for “this title”.
 
 #### Congressional Statement of Findings
 
@@ -34,13 +34,15 @@ Section 102 of Pub. L. 101–650 provided that: “The Congress makes the follow
 
 #### Implementation of Plans
 
-Section 103(b), (c) of Pub. L. 101–650, as amended by Pub. L. 102–572, title V, §505, Oct. 29, 1992, 106 Stat. 4513, provided that:
+Section 103(b), (c) of Pub. L. 101–650, as amended by Pub. L. 102–572, title V, §505, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 105–53, §2, Oct. 6, 1997, 111 Stat. 1173, provided that:
 
 “(b)
 
 Implementation.—(1) Except as provided in section 105 of this Act \[set out below\], each United States district court shall, within three years after the date of the enactment of this title \[Dec. 1, 1990\], implement a civil justice expense and delay reduction plan under section 471 of title 28, United States Code, as added by subsection (a).
 
-“(2) The requirements set forth in sections 471 through 478 of title 28, United States Code, as added by subsection (a), shall remain in effect for seven years after the date of the enactment of this title.
+“(2)(A) The requirements set forth in sections 472, 473, 474, 475, 477, and 478 of title 28, United States Code, as added by subsection (a), shall remain in effect for seven years after the date of the enactment of this title.
+
+“(B) The requirements set forth in section 476 of title 28, United States Code, as added by subsection (a), shall remain in effect permanently.
 
 “(c)
 
@@ -62,7 +64,7 @@ Early Implementation District Courts.—
 
 #### Demonstration Program
 
-Section 104 of Pub. L. 101–650, as amended by Pub. L. 104–33, §1, Oct. 3, 1995, 109 Stat. 292, provided that:
+Section 104 of Pub. L. 101–650, as amended by Pub. L. 104–33, §1, Oct. 3, 1995, 109 Stat. 292; Pub. L. 104–317, title VI, §608(a), Oct. 19, 1996, 110 Stat. 3860, provided that:
 
 “(a)
 
@@ -72,7 +74,7 @@ In General.—(1) During the 5-year period beginning on January 1, 1991, the Jud
 
 “(b)
 
-Program Requirement.—(1) The United States District Court for the Western District of Michigan and the United States District Court for the Northern District of Ohio shall experiment with systems of differentiated case management that provide specifically for the assignment of cases to appropriate processing tracks that operate under distinct and explicit rules, procedures, and timeframes for the completion of discovery and for trial.
+Program Requirement.—(1) The United States District Court for the Western District of Michigan and the United States District Court for the Northern District of Ohio shall experiment with systems of differentiated case management that provide specifically forthe assignment of cases to appropriate processing tracks that operate under distinct and explicit rules, procedures, and timeframes for the completion of discovery and for trial.
 
 “(2) The United States District Court for the Northern District of California, the United States District Court for the Northern District of West Virginia, and the United States District Court for the Western District of Missouri shall experiment with various methods of reducing cost and delay in civil litigation, including alternative dispute resolution, that such district courts and the Judicial Conference of the United States shall select.
 
@@ -82,11 +84,11 @@ Study of Results.—The Judicial Conference of the United States, in consultatio
 
 “(d)
 
-Report.—Not later than December 31, 1996, the Judicial Conference of the United States shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report of the results of the demonstration program.”
+Report.—Not later than June 30, 1997, the Judicial Conference of the United States shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report of the results of the demonstration program.”
 
 #### Pilot Program
 
-Section 105 of Pub. L. 101–650, as amended by Pub. L. 103–420, §4, Oct. 25, 1994, 108 Stat. 4345, provided that:
+Section 105 of Pub. L. 101–650, as amended by Pub. L. 103–420, §4, Oct. 25, 1994, 108 Stat. 4345; Pub. L. 104–317, title VI, §608(b), Oct. 19, 1996, 110 Stat. 3860, provided that:
 
 “(a)
 
@@ -100,11 +102,11 @@ Program Requirements.—(1) Ten district courts (in this section referred to as 
 
 “(2) At least 5 of the Pilot Districts designated by the Judicial Conference shall be judicial districts encompassing metropolitan areas.
 
-“(3) The expense and delay reduction plans implemented by the Pilot Districts shall remain in effect fora period of 4 years. At the end of that 4-year period, the Pilot Districts shall no longer be required to include, in their expense and delay reduction plans, the 6 principles and guidelines of litigation management and cost and delay reduction described in paragraph (1).
+“(3) The expense and delay reduction plans implemented by the Pilot Districts shall remain in effect for a period of 4 years. At the end of that 4-year period, the Pilot Districts shall no longer be required to include, in their expense and delay reduction plans, the 6 principles and guidelines of litigation management and cost and delay reduction described in paragraph (1).
 
 “(c)
 
-Program Study Report.—(1) Not later than December 31, 1996, the Judicial Conference shall submit to the Committees on the Judiciary of the Senate and House of Representatives a report on the results of the pilot program under this section that includes an assessment of the extent to which costs and delays were reduced as a result of the program. The report shall compare those results to the impact on costs and delays in ten comparable judicial districts for which the application of section 473(a) of title 28, United States Code, had been discretionary. That comparison shall be based on a study conducted by an independent organization with expertise in the area of Federal court management.
+Program Study Report.—(1) Not later than June 30, 1997, the Judicial Conference shall submit to the Committees on the Judiciary of the Senate and House of Representatives a report on the results of the pilot program under this section that includes an assessment of the extent to which costs and delays were reduced as a result of the program. The report shall compare those results to the impact on costs and delays in ten comparable judicial districts for which the application of section 473(a) of title 28, United States Code, had been discretionary. That comparison shall be based on a study conducted by an independent organization with expertise in the area of Federal court management.
 
 “(2)(A) The Judicial Conference shall include in its report a recommendation as to whether some or all district courts should be required to include, in their expense and delay reduction plans, the 6 principles and guidelines of litigation management and cost and delay reduction identified in section 473(a) of title 28, United States Code.
 

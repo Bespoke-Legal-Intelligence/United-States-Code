@@ -12,7 +12,7 @@ The supervisory committee shall be appointed by the board of directors and shall
 
 No member of the board or of any other committee shall, as such, be compensated, except that reasonable health, accident, similar insurance protection, and the reimbursement of reasonable expenses incurred in the execution of the duties of the position shall not be considered compensation.
 
-(June 26, 1934, ch. 750, title I, §111, formerly §11, 48 Stat. 1219; June 15, 1940, ch. 366, 54 Stat. 398; July 31, 1946, ch. 711, §§3–6, 60 Stat. 745; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Oct. 25, 1949, ch. 713, §2, 63 Stat. 890; June 30, 1954, ch. 426, §1, 68 Stat. 335; Aug. 24, 1954, ch. 905, §§1, 2, 68 Stat. 792; renumbered §12 and amended Sept. 22, 1959, Pub. L. 86–354, §1, 73 Stat. 632; July 2, 1964, Pub. L. 88–353, §2, 78 Stat. 269; Mar. 10, 1970, Pub. L. 91–206, §2(3), 84 Stat. 49; renumbered title I, §111, Oct. 19, 1970, Pub. L. 91–468, §1(2), 84 Stat. 994; amended Oct. 28, 1974, Pub. L. 93–495, title I, §116, 88 Stat. 1507; Nov. 10, 1978, Pub. L. 95–630, title V, §502(b), 92 Stat. 3681; Oct. 15, 1982, Pub. L. 97–320, title V, §520, 96 Stat. 1531.)
+(June 26, 1934, ch. 750, title I, §111, formerly §11, 48 Stat. 1219; June 15, 1940, ch. 366, 54 Stat. 398; July 31, 1946, ch. 711, §§3–6, 60 Stat. 745; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Oct. 25, 1949, ch. 713, §2, 63 Stat. 890; June 30, 1954, ch. 426, §1, 68 Stat. 335; Aug. 24, 1954, ch. 905, §§1, 2, 68 Stat. 792; renumbered §12 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 632; Pub. L. 88–353, §2, July 2, 1964, 78 Stat. 269; Pub. L. 91–206, §2(3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §111, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–495, title I, §116, Oct. 28, 1974, 88 Stat. 1507; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §520, Oct. 15, 1982, 96 Stat. 1531.)
 
 #### Amendments
 
@@ -26,7 +26,7 @@ No member of the board or of any other committee shall, as such, be compensated,
 
 1964—Pub. L. 88–353 increased size of supervisory committee from three members to not less than three members nor more than five members.
 
-1959—Pub. L. 86–354 provided for appointment instead of election of members of supervisory committee and for filling of vacancies in such committee, and struck out former subsecs. (b) to (e) relating to officers, directors, credit committee and supervisory committee. See sections 1761a to 1761d of this title, respectively.
+1959—Pub. L. 86–354 provided for appointment instead of election of members of supervisory committee andfor filling of vacancies in such committee, and struck out former subsecs. (b) to (e) relating to officers, directors, credit committee and supervisory committee. See sections 1761a to 1761d of this title, respectively.
 
 1954—Subsecs. (b), (c). Act Aug. 24, 1954, provided express authority for the Director of the Bureau of Federal Credit Unions to regulate the minimum amount and character of surety bonds for officers and employees.
 

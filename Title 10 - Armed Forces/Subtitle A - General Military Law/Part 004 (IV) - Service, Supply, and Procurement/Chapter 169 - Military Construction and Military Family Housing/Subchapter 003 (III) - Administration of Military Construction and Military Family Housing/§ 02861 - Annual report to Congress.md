@@ -14,7 +14,7 @@
 
 &emsp;(5) Information to enable the committees to evaluate trends in supervision, inspection, and overhead costs for the dollar amount of military construction accomplished during a fiscal year by a military construction department or agency under the authority of section 2851 of this title.
 
-&emsp;(6) A summary of military construction projects (other than a military construction project for an amount less than the amount specified by section 2805(a)(1) of this title as the maximum amount for a minor military construction project) placed under contract during the preceding fiscal year with respect to which a cost variation or scope reduction report was supplied to the appropriate committees of Congress under section 2853 of this title. There shall also be included an analysis to indicate whether the cost variation was the result of a lack of competition, quality of plans and specifications, or quality of budget estimates, or of other factors.
+&emsp;(6) A summary of military construction projects (other than a military constructionproject for an amount less than the amount specified by section 2805(a)(1) of this title as the maximum amount for a minor military construction project) placed under contract during the preceding fiscal year with respect to which a cost variation or scope reduction report was supplied to the appropriate committees of Congress under section 2853 of this title. There shall also be included an analysis to indicate whether the cost variation was the result of a lack of competition, quality of plans and specifications, or quality of budget estimates, or of other factors.
 
 &emsp;(7) Information to enable the committees to evaluate the use of the authority provided under section 2858 of this title to expedite a military construction project when such expediting is required to protect the national interest.
 
@@ -22,7 +22,7 @@
 
 &emsp;(9) With respect to each contract awarded during the preceding fiscal year on other than a competitive basis to the lowest responsible bidder, the name of the contractor, the original amount of the contract, and the reason for the award of the contract on other than a competitive basis.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 167; amended Pub. L. 100–26, §7(f)(1), (j)(9), Apr. 21, 1987, 101 Stat. 281, 283; Pub. L. 104–106, div. B, title XXVIII, §2811(b), Feb. 10, 1996, 110Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(1), Sept. 23, 1996, 110 Stat. 2787.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 167; amended Pub. L. 100–26, §7(f)(1), (j)(9), Apr. 21, 1987, 101 Stat. 281, 283; Pub. L. 104–106, div. B, title XXVIII, §2811(b), Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(1), Sept. 23, 1996, 110 Stat. 2787.)
 
 #### Amendments
 

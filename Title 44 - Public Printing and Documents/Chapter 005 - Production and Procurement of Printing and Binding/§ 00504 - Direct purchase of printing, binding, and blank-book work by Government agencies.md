@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §14 (Jan. 12, 1895, ch. 23, §12, 28 Stat. 602
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 5197.
+This section is referred to in title 22 section 3714b; title 42 section 5197.
 

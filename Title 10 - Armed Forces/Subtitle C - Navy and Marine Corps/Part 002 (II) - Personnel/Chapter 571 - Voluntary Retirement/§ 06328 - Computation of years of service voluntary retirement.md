@@ -6,7 +6,7 @@ Enlisted Members.—Time required to be made up under section 972(a) of this tit
 
 (b)
 
-Officers.—Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this chapter any time identified with respect to that officer under that section.
+Officers.—Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this chapter any timeidentified with respect to that officer under that section.
 
 (Added Pub. L. 104–106, div. A, title V, §561(d)(3)(A), Feb. 10, 1996, 110 Stat. 322.)
 
@@ -16,7 +16,7 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 #### Prior Provisions
 
-A prior section 6328, acts Aug. 10, 1956, ch. 1041, 70A Stat. 396; Sept. 24, 1983, Pub. L. 98–94, title IX,§923(c)(2), 97 Stat. 643, related to treatment of fractions of years of service in computing retired pay, prior to repeal by Pub. L. 99–348, title II, §203(b)(5), July 1, 1986, 100 Stat. 696.
+A prior section 6328, acts Aug. 10, 1956, ch. 1041, 70A Stat. 396; Sept. 24, 1983, Pub. L. 98–94, title IX, §923(c)(2), 97 Stat. 643, related to treatment of fractions of years of service in computing retired pay, prior to repeal by Pub. L. 99–348, title II, §203(b)(5), July 1, 1986, 100 Stat. 696.
 
 #### Effective Date
 

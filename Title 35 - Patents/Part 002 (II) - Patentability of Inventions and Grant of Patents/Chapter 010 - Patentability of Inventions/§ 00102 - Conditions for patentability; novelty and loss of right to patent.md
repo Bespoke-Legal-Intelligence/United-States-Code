@@ -16,7 +16,7 @@ A person shall be entitled to a patent unless—
 
 (g) before the applicant's invention thereof the invention was made in this country by another who had not abandoned, suppressed, or concealed it. In determining priority of invention there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.
 
-(July 19, 1952, ch. 950, 66 Stat. 797; July 28, 1972, Pub. L. 92–358, §2, 86 Stat. 502; Nov. 14, 1975, Pub. L. 94–131, §5, 89 Stat. 691.)
+(July 19, 1952, ch. 950, 66 Stat. 797; Pub. L. 92–358, §2, July 28, 1972, 86 Stat. 502; Pub. L. 94–131, §5, Nov. 14, 1975, 89 Stat. 691.)
 
 #### Historical and Revision Notes
 

@@ -8,7 +8,7 @@ Each person enlisting in the National Guard shall sign an enlistment contract an
 
 > The oath may be taken before any officer of the National Guard of the State or Territory, or of Puerto Rico, or the District of Columbia, as the case may be, or before any other person authorized by the law of the jurisdiction concerned to administer oaths of enlistment in the National Guard.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Oct. 5, 1962, Pub. L. 87–751, §2, 76 Stat. 748; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(b)(1), 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 602; Pub. L. 87–751, §2, Oct. 5, 1962, 76 Stat. 748; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
 Historical and Revision Notes
 

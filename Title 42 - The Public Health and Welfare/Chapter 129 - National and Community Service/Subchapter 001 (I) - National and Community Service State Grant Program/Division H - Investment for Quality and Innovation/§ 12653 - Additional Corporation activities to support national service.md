@@ -20,7 +20,7 @@ The Corporation may undertake activities to improve the quality of national serv
 
 #### (c) Summer programs
 
-The Corporation may support service programs intended to be carried out between May 1 and October 1, except that such a program may also include a year-round component.
+The Corporation may support service programs intended to be carried out between May 1and October 1, except that such a program may also include a year-round component.
 
 #### (d) Community-based agencies
 
@@ -90,13 +90,13 @@ The Corporation shall support innovative programs and activities that promote se
 
 #### (r) Assistance for Head Start
 
-The Corporation may make grants to, and enter into contracts and cooperative agreementswith, public or nonprofit private agencies and organizations that receive grants or contracts under the Foster Grandparent Program (part B of title II of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 5011 et seq.\]), for projects of the type described in section 211(a) of such Act \[42 U.S.C. 5011\] operating under memoranda of agreement with the Corporation, for the purpose of increasing the number of low-income individuals who provide services under such program to children who participate in Head Start programs under the Head Start Act (42 U.S.C 9831 et seq).
+The Corporation may make grants to, and enter into contracts and cooperative agreements with, public or nonprofit private agencies and organizations that receive grants or contracts under the Foster Grandparent Program (part B of title II of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 5011 et seq.\]), for projects of the type described in section 211(a) of such Act \[42 U.S.C. 5011\] operating under memoranda of agreement with the Corporation, for the purpose of increasing the number of low-income individuals who provide services under such program to children who participate in Head Start programs under the Head Start Act (42 U.S.C 9831 et seq).
 
 #### (s) Martin Luther King, Jr., Service Day
 
 #### (1) Assistance
 
-&emsp;The Corporation may make grants to eligible entities described in paragraph (2) to pay for the Federal share of the cost of planning and carrying out service opportunities in conjunction with the Federal legal holiday honoring the birthday of Martin Luther King, Jr. Such service opportunities shall consist of activities reflecting the life and teachings of Martin Luther King, Jr., such as cooperation and understanding among racial and ethnic groups, nonviolent conflict resolution, equal economic and educational opportunities, and social justice.
+&emsp;The Corporation may make grants to eligible entities described in paragraph (2) to pay for the Federal share of the cost of planning and carrying out service opportunities in conjunction with the Federal legal holiday honoring the birthday of Martin Luther King, Jr. Such service opportunities shall consist of activities reflecting the life and teachings of Martin Luther King, Jr., such as cooperation and understanding among racial and ethnic groups, nonviolent conflict resolution, equaleconomic and educational opportunities, and social justice.
 
 #### (2) Eligible entities
 

@@ -8,7 +8,7 @@ And nothing in this Act shall be construed to affect or alter their rates of pay
 
 #### References in Text
 
-This Act, referred to in text, means act May 22, 1917, ch. 20, 40 Stat. 84, as amended, which, insofar as it was classified to the Code, enacted sections 854, 855, 856, 857 and 858 of this title, and sections 1, 152, 212 to 216, 280, 284, 297, 322, 323, 424, 425, 640 and 864 of former Title 34, Navy, and amended section 96 of former Title 18, Criminal Code and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act May 22, 1917, ch. 20, 40 Stat. 84, as amended, which, insofar as it was classified to the Code, enacted sections 854, 855, 856, 857 and 858 of this title, and sections 1, 152, 212 to 216, 280,284, 297, 322, 323, 424, 425, 640 and 864 of former Title 34, Navy, and amended section 96 of former Title 18, Criminal Code and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -20,7 +20,7 @@ Section is part of section 16 of act May 22, 1917. Section 16 is also classified
 
 #### Transfer of Functions
 
-Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions ofCoast and Geodetic Survey and Director of Survey. Subsequently, Environmental Science Services Administration abolished, National Oceanic and Atmospheric Administration established, and Commissioned Officer Corps of ESSA redesignated Commissioned Officer Corps of NOAA by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. For further details, see note set out under section 851 of this title.
+Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director of Survey. Subsequently, Environmental Science Services Administration abolished, National Oceanic and Atmospheric Administration established, and Commissioned Officer Corps of ESSA redesignated Commissioned Officer Corps of NOAA by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. For further details, see note set out under section 851 of this title.
 
 #### Termination of War and Emergencies
 

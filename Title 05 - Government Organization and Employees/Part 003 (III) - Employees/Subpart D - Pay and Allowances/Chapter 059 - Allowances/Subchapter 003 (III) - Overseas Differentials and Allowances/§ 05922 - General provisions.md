@@ -8,7 +8,7 @@
 
 > To the extent authorized by a provision of statute other than this subchapter, the allowances and differentials provided by this subchapter may be paid to an employee officially stationed in a foreign area who is not a citizen of the United States.
 
-(b) Allowances granted under this subchapter may be paid in advance, or advance of funds may be made therefor, through the proper disbursing official in such sums as are considered advisablein consideration of the need and the period of time during which expenditures must be made in advance by the employee. An advance of funds not subsequently covered by allowances accrued to the employee under this subchapter is recoverable by the Government by—
+(b) Allowances granted under this subchapter may be paid in advance, or advance of funds may be made therefor, through the proper disbursing official in such sums as are considered advisable in consideration of the need and the period of time during which expenditures must be made in advance by the employee. An advance of funds not subsequently covered by allowances accrued to the employee under this subchapter is recoverable by the Government by—
 
 &emsp;(1) setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; and
 
@@ -26,7 +26,7 @@
 
 (d) When a quarters allowance or allowance related to education under this subchapter, or quarters furnished in Government-owned or controlled buildings under section 5912, would be furnished to an employee but for the death of the employee, such allowances or quarters may be furnished or continued for the purpose of allowing any child of the employee to complete the current school year at post or away from post notwithstanding the employee's death.
 
-(e) When an allowance related to education away from post under this subchapter would be authorized with respect to an employee but for the evacuation or authorized departure status of the post, such an allowance may be furnished or continued for the purpose of allowing any dependent children of such employee to complete the current school year.
+(e) When an allowance related to education away from post under this subchapter would be authorized with respect to an employee but for the evacuation or authorized departure status of the post, such an allowance may be furnished orcontinued for the purpose of allowing any dependent children of such employee to complete the current school year.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 510; Pub. L. 102–138, title I, §147(c), Oct. 28, 1991, 105 Stat. 669.)
 

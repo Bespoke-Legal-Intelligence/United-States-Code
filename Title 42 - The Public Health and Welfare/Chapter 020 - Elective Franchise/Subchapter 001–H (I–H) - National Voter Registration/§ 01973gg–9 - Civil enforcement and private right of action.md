@@ -14,7 +14,7 @@ The Attorney General may bring a civil action in an appropriate district court f
 
 #### (c) Attorney's fees
 
-In a civil action under this section, the court may allow the prevailing party (other than the United States) reasonable attorney fees, including litigation expenses, and costs.
+In a civil action under this section, the court may allow the prevailing party (other than theUnited States) reasonable attorney fees, including litigation expenses, and costs.
 
 #### (d) Relation to other laws
 

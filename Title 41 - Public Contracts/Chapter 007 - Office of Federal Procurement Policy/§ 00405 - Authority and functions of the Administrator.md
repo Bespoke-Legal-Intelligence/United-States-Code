@@ -38,7 +38,7 @@ The functions of the Administrator shall include—
 
 &emsp;(3) providing leadership and coordination in the formulation of the executive branch position on legislation relating to procurement;
 
-&emsp;(4)(A) providing for and directing the activities of the computer-based Federal Procurement Data System (including recommending to the Administrator of General Services a sufficient budget for such activities), which shall be located in the General Services Administration, in order to adequately collect,develop, and disseminate procurement data; and
+&emsp;(4)(A) providing for and directing the activities of the computer-based Federal Procurement Data System (including recommending to the Administrator of General Services a sufficient budget for such activities), which shall be located in the General Services Administration, in order to adequately collect, develop, and disseminate procurement data; and
 
 &emsp;(B) ensuring executive agency compliance with the record requirements of section 417 of this title;
 
@@ -62,7 +62,7 @@ The functions of the Administrator shall include—
 
 &emsp;&emsp;(I) facilitate, to the extent requested by agencies, interagency intern and training programs; and
 
-&emsp;&emsp;(J) perform other career management or research functions as directed by the Administrator.<sup>1</sup>
+&emsp;&emsp;(J) perform other career management or research functions as directed by the Administrator;
 
 &emsp;(6) administering the provisions of section 433 of this title;
 
@@ -74,9 +74,9 @@ The functions of the Administrator shall include—
 
 &emsp;(10) providing for a Government-wide award to recognize and promote excellence in officers and employees of the Federal Government serving in procurement-related positions;
 
-&emsp;(11) developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
+&emsp;(11) developing policies, in consultation with the Administrator of the Small Business Administration, that ensure that small businesses, qualified HUBZone small business concerns (as defined in section 632(p) of title 15), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women are provided with the maximum practicable opportunities to participate in procurements that are conducted for amounts below the simplified acquisition threshold;
 
-&emsp;(12) developing policies that will promote achievement of goals for participation by small businesses, small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women; and
+&emsp;(12) developing policies that will promote achievement of goals for participation by small businesses, qualified HUBZone small business concerns (as defined in section 632(p) of title 15), small businesses owned and controlled by socially and economically disadvantaged individuals, and small businesses owned and controlled by women; and
 
 &emsp;(13) completing action, as appropriate, on the recommendations of the Commission on Government Procurement.
 
@@ -120,7 +120,7 @@ Nothing in this chapter shall be construed to—
 
 (1) The Administrator shall prescribe for executive agencies guidance regarding consideration of the past contract performance of offerors in awarding contracts. The guidance shall include—
 
-&emsp;(A) standards for evaluating past performance with respect to cost (when appropriate), schedule, compliance with technical or functional specifications, and other relevant performance factors that facilitate consistent and fair evaluation by all executive agencies;
+&emsp;(A) standards for evaluating past performance with respect to cost (when appropriate),schedule, compliance with technical or functional specifications, and other relevant performance factors that facilitate consistent and fair evaluation by all executive agencies;
 
 &emsp;(B) policies for the collection and maintenance of information on past contract performance that, to the maximum extent practicable, facilitate automated collection, maintenance, and dissemination of information and provide for ease of collection, maintenance, and dissemination of information by other methods, as necessary;
 
@@ -136,15 +136,27 @@ Nothing in this chapter shall be construed to—
 
 #### (k) Annual reporting requirement
 
-The Administrator shall submit to Congress, on an annual basis, an assessment of the progress made in executive agencies in implementing the policy stated in section 263(a) of this title. The Administrator shall use data from existing management systems in making the assessment.
+The Administrator shall submit to Congress, on an annual basis, an assessment of the progress made in executive agencies in implementing the policy regarding major acquisitions that is stated in section 263(a) of this title. The Administrator shall use data from existing management systems in making the assessment.
 
-(Pub. L. 93–400, §6, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §5, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2732(b)(1), July 18, 1984, 98 Stat. 1199; Pub. L. 100–679, §3(a), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 103–355, title I, §1091(b)(2), title V, §§5051(b), 5091, title VII, §7108, Oct. 13, 1994, 108 Stat. 3272, 3351, 3361, 3378; Pub. L. 104–106, div. D, title XLIII, §§4307(b), 4321(h)(1), (2), 4322(a)(1), div. E, title LVI, §5607(d), Feb. 10, 1996, 110 Stat. 668, 675, 677, 702; Pub. L. 104–201, div. A, title X, §1074(f)(1), Sept. 23, 1996, 110 Stat. 2661.)
+(Pub. L. 93–400, §6, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §5, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2732(b)(1), July 18, 1984, 98 Stat. 1199; Pub. L. 100–679, §3(a), Nov. 17, 1988, 102 Stat. 4055; Pub. L. 103–355, title I, §1091(b)(2), title V, §§5051(b), 5091, title VII, §7108, Oct. 13, 1994, 108 Stat. 3272, 3351, 3361, 3378; Pub. L. 104–106, div. D, title XLIII, §§4307(b), 4321(h)(1), (2), 4322(a)(1), div. E, title LVI, §5607(d), Feb. 10, 1996, 110 Stat. 668, 675, 677, 702; Pub. L. 104–201, div. A, title X, §1074(f)(1), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title VIII, §851(b), title X, §1073(g)(2)(B), Nov. 18, 1997, 111 Stat. 1851, 1906; Pub. L. 105–135, title VI, §604(f)(1), Dec. 2, 1997, 111 Stat. 2634.)
 
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to contracts are classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
 
 #### Amendments
+
+1997—Subsec. (d)(5)(J). Pub. L. 105–85, §1073(g)(2)(B)(i), substituted semicolon for period at end.
+
+Subsec. (d)(6). Pub. L. 105–85, §1073(g)(2)(B)(ii), realigned margins.
+
+Subsec. (d)(11). Pub. L. 105–135, §604(f)(1)(A), inserted “qualified HUBZone small business concerns (as defined in section 632(p) of title 15),” after “ensure that small businesses,”.
+
+Subsec. (d)(12). Pub. L. 105–135, §604(f)(1)(B), inserted “qualified HUBZone small business concerns (as defined in section 632(p) of title 15),” after “participation by small businesses,”.
+
+Pub. L. 105–85, §1073(g)(2)(B)(iii), substituted “small businesses” for “small business” after “individuals, and”.
+
+Subsec. (k). Pub. L. 105–85, §851(b), inserted “regarding major acquisitions that is” after “implementing the policy”.
 
 1996—Subsec. (b). Pub. L. 104–106, §4322(a)(1), struck out second comma after “subsection (a) of this section”.
 
@@ -156,11 +168,13 @@ Subsec. (d)(5)(C) to (J). Pub. L. 104–106, §4307(b)(2)(B)(ii), (iii), added s
 
 Subsec. (d)(6). Pub. L. 104–106, §4307(b)(3), added par. (6). Former par. (6) redesignated (7).
 
-Subsec. (d)(7) to (11). Pub. L. 104–106, §4307(b)(1), redesignated pars. (6) to (10) as (7) to (11), respectively. Former par. (11) redesignated (12).
+Subsec. (d)(7) to (10). Pub. L. 104–106, §4307(b)(1), redesignated pars. (6) to (9) as (7) to (10), respectively. Former par. (10) redesignated (11).
 
-Subsec. (d)(12). Pub. L. 104–106, §4321(h)(2), which directed amendment of section 405(11) of this title by substituting “small businesses” for “small business”, was executed by substituting “small businesses” for “small business” after “individuals, and” in subsec. (d)(12) of this section, to reflect the probable intent of Congress and the redesignation of subsec. (d)(11) as (d)(12) by Pub. L. 104–106, §4307(b)(1). See below.
+Subsec. (d)(11). Pub. L. 104–106, §4321(h)(2), which directed substitution of “small businesses” for “small business”, could not be executed because the words “small business” did not appear.
 
-Pub. L. 104–106, §4307(b)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+Pub. L. 104–106, §4307(b)(1), redesignated par. (10) as (11). Former par. (11) redesignated (12).
+
+Subsec. (d)(12). Pub. L. 104–106, §4307(b)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
 Subsec. (d)(13). Pub. L. 104–106, §4321(h)(1), which directed transferring par. (12) to end of subsec. (d), was executed by transferring par. (13) to end of subsec. (d) to reflect the probable intent of Congress and the redesignation of par. (12) as (13) by Pub. L. 104–106, §4307(b)(1). See below.
 
@@ -210,6 +224,10 @@ Subsec. (e). Pub. L. 96–83, §4(d), substituted provisions relating to consult
 
 Subsecs. (h) to (j). Pub. L. 96–83, §4(e), added subsecs. (h) to (j).
 
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135 set out as a note under section 631 of Title 15, Commerce and Trade.
+
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by sections 4307(b), 4321(h)(1), (2), and 4322(a)(1) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
@@ -223,6 +241,18 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–83 effective Oct. 1, 1979, see section 12 of Pub. L. 96–83, set out as a note under section 401 of this title.
+
+#### Reporting of Bundled Contract Opportunities
+
+Section 414 of title IV of Pub. L. 105–135 provided that:
+
+“(a)
+
+Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(d)(4)(A)) shall be modified to collect data regarding bundling of contract requirements when the contracting officer anticipates that the resulting contract price, including all options, is expected to exceed $5,000,000. The data shall reflect a determination made by the contracting officer regarding whether a particular solicitation constitutes a contract bundling.
+
+“(b)
+
+Definitions.—In this section, the term ‘bundling of contract requirements’ has the meaning given that term in section 3(<i>o</i>) of the Small Business Act (15 U.S.C. 632(<i>o</i>)) (as added by section 412 of this subtitle).”
 
 #### Congressional Findings Regarding Consideration of Past Contract Performance
 
@@ -352,7 +382,5 @@ Contractors’ Financial Data.—The methodology developed under subsection (a) 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 408, 417, 421, 422 of this title; title 18 section 4124; title 31 section 6202; title 50 App. 2154.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+This section is referred to in sections 408, 417, 421, 422 of this title; title 18 section 4124; title 31 section 6202; title 50 App. section 2154.
 

@@ -6,7 +6,7 @@ Nothing contained in this chapter shall be construed to alter, amend, repeal, mo
 
 #### References in Text
 
-The Colorado River Compact (45 Stat. 1057), the Upper Colorado River Basin Compact (63 Stat. 31), and the Water Treaty of 1944, referred to in text, are not classified to the Code.
+The Colorado River Compact (45 Stat. 1057), the Upper Colorado River Basin Compact (63 Stat. 31), and theWater Treaty of 1944, referred to in text, are not classified to the Code.
 
 The Flood Control Act of 1944, referred to in text, is act Dec. 22, 1944, ch. 665, 58 Stat. 887, as amended, which enacted section 390 of this title, sections 460d and 825s of Title 16, Conservation, and sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, and enacted provisions set out as notes under sections 701c, 701f, and 701j of Title 33. For complete classification of this Act to the Code, see Tables.
 

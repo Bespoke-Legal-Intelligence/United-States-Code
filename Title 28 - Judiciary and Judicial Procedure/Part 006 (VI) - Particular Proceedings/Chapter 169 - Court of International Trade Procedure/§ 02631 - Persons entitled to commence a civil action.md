@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(C) United States members of a labor organization or other association of workers whose members are employed in the manufacture, production, or wholesale in the United States of a like product;
 
-&emsp;&emsp;(D) a trade or business association a majority of whose members manufacture, produce, or wholesale a like product in the United States,<sup>1</sup> and
+&emsp;&emsp;(D) a trade or business association a majority of whose members manufacture,produce, or wholesale a like product in the United States,<sup>1</sup> and
 
 &emsp;&emsp;(E) an association composed of members who represent parties-at-interest described in subparagraph (B), (C), or (D).
 
@@ -82,9 +82,9 @@ A prior section 2631, acts June 25, 1948, ch. 646, 62 Stat. 980; May 24, 1949, c
 
 #### Amendments
 
-1993—Subsec. (g)(3). Pub. L. 103–182 added par. (3).
+<b>1993</b>—Subsec. (g)(3). Pub. L. 103–182 added par. (3).
 
-1984—Subsec. (g). Pub. L. 98–573, §212(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
+<b>1984</b>—Subsec. (g). Pub. L. 98–573, §212(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
 
 “(1) A civil action to review any decision of the Secretary of the Treasury to deny or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person whose license was denied or revoked.
 

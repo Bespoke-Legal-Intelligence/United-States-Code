@@ -6,7 +6,7 @@
 
 &emsp;(2) the maintenance and repair of supplies issued to the National Guard or the armed forces.
 
-(b) Except as prescribed by the Secretary concerned, a technician employed under subsection (a) shall, while so employed—
+(b) A technician employed under subsection (a) shall, while so employed—
 
 &emsp;(1) be a member of the National Guard;
 
@@ -50,7 +50,7 @@
 
 (i) The Secretary concerned may not prescribe for purposes of eligibility for Federal recognition under section 301 of this title a qualification applicable to technicians employed under subsection (a) that is not applicable pursuant to that section to the other members of the National Guard in the same grade, branch, position, and type of unit or organization involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Sept. 13, 1961, Pub. L. 87–224, §2, 75 Stat. 496; Aug. 13, 1968, Pub. L. 90–486, §2(1), 82 Stat. 755; Aug. 13, 1971,Pub. L. 92–119, §2, 85 Stat. 340; Dec. 12, 1980, Pub. L. 96–513, title V, §515(5)–(7), 94 Stat. 2937; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), 107 Stat. 1656, 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), 108 Stat. 2856, 2858; Feb. 10, 1996, Pub. L. 104–106, div. A, title X, §1038(a), 110 Stat. 432.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 87–224, §2, Sept. 13, 1961, 75 Stat. 496; Pub. L. 90–486, §2(1), Aug. 13, 1968, 82 Stat. 755; Pub. L. 92–119, §2, Aug. 13, 1971, 85 Stat. 340; Pub. L. 96–513, title V, §515(5)–(7), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 103–160, div. A, title V, §§523(a), 524(c), (d), Nov. 30, 1993, 107 Stat. 1656, 1657; Pub. L. 103–337, div. A, title X, §1070(b)(2), (d)(5), Oct. 5, 1994, 108 Stat. 2856, 2858; Pub. L. 104–106, div. A, title X, §1038(a), Feb. 10, 1996, 110 Stat. 432; Pub. L. 105–85, div. A, title V, §522(c), Nov. 18, 1997, 111 Stat. 1735.)
 
 Historical and Revision Notes
 
@@ -120,6 +120,8 @@ Sections 7511 and 7512 of title 5, referred to in subsec. (f), which related to 
 
 #### Amendments
 
+1997—Subsec. (b). Pub. L. 105–85 substituted “A technician” for “Except as prescribed by the Secretary concerned, a technician”.
+
 1996—Subsec. (b). Pub. L. 104–106 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Except as prescribed by the Secretary concerned, a technician employed under subsection (a) shall, while so employed, be a member of the National Guard and hold the military grade specified by the Secretary concerned for that position.”
 
 1994—Subsec. (e)(6). Pub. L. 103–337, §1070(d)(5)(A), substituted “30 days before” for “thirty days prior to”.
@@ -146,7 +148,7 @@ Subsec. (h). Pub. L. 96–513, §515(7), struck out limitation of 49,200 technic
 
 Subsec. (a). Pub. L. 90–486 substituted provisions that persons may be employed as technicians in administration and training of National Guard and maintenance and repair of supplies issued to National Guard or armed forces for provisions that authorized the Secretaries of the Army and the Air Force to hire, out of funds allotted to them for the Army National Guard and the Air National Guard, respectively competent persons to care for material, armament, and equipment of the Army National Guard and Air National Guard, and provisions that a caretaker so employed may also perform clerical duties incidental to his employment and other duties that do not interfere with performance of his duties as caretaker.
 
-Subsec. (b). Pub. L. 90–486 substituted provisions requiring, except as prescribed by the Secretary concerned, any technician employed to be a member of the National Guard and hold the military grade specified by the Secretary concerned for that position for provisions permitting civilians as well as enlisted men to beemployed as caretakers, provided that if a unit has more than one caretaker, one of them must be an enlisted member, and provisions that any compensation under this section is in addition to compensation otherwise provided for a member of the National Guard.
+Subsec. (b). Pub. L. 90–486 substituted provisions requiring, except as prescribed by the Secretary concerned, any technician employed to be a member of the National Guard and hold the military grade specified by the Secretary concerned for that position for provisions permitting civilians as well as enlisted men to be employed as caretakers, provided that if a unit has more than one caretaker, one of them must be an enlisted member, and provisions that any compensation under this section is in addition to compensation otherwise provided for a member of the National Guard.
 
 Subsec. (c). Pub. L. 90–486 substituted provisions authorizing the Secretary concerned to designate adjutants general to employ and administer the technicians authorized by this section for provisions authorizing the Secretary concerned to place in a common pool for care, maintenance, and storage the material, armament, and equipment of the Army National Guard or Air National Guard, with proviso that not more than 15 caretakers be employed for each pool.
 
@@ -200,7 +202,7 @@ Covered Individuals.—Subsection (a) applies in the case of an individual who�
 
 &emsp;“(2) at the time of filing application under paragraph (1), is employed by the United States and is subject to subchapter III of chapter 83 of title 5, United States Code (other than under section 8344 of such title); and
 
-&emsp;“(3) before the date of the separation on which entitlement to an annuity under subchapter III of chapter 83 of title 5, United States Code, is based, makes an appropriate deposit under section 8334(c) of such title with respect to the period of service involved, based on the percentage of basic pay for such servicewhich would be required under such section if such service had been performed as an employee under such subchapter.
+&emsp;“(3) before the date of the separation on which entitlement to an annuity under subchapter III of chapter 83 of title 5, United States Code, is based, makes an appropriate deposit under section 8334(c) of such title with respect to the period of service involved, based on the percentage of basic pay for such service which would be required under such section if such service had been performed as an employee under such subchapter.
 
 “(c)
 
@@ -246,7 +248,7 @@ Conditions for enrolling in a health benefits plan.—Any individual who satisfi
 
 #### Persons Employed Prior to January 1, 1969, Whose Employment Was Covered by Civil Service Retirement Provisions
 
-Section 5(d) of Pub. L. 90–486 provided that: “Clause (4) of subsection (a) of this section \[amending section 8332(b) of Title 5, Government Organization and Employees\] and subsections (b) and (c) of this section \[amending section 8334(c) and adding section 8339(<i>l</i>) of title 5\] do not apply to any person employed prior to the effective date of this Act \[see Effective Date note above\] under section 709 of title 32, United States Code, whose employment under that section was covered by subchapter III of chapter 83 of title 5, United States Code.”
+Section 5(d) of Pub. L. 90–486 provided that: “Clause (4) of subsection (a) of this section \[amending section 8332(b) of Title 5, Government Organization and Employees\] and subsections (b) and (c) of this section \[amending section 8334(c) and adding section 8339(<i>l</i>) of title 5\] do not apply to any person employed prior to the effective date of this Act \[see Effective Date note above\] under section 709 of title 32, United States Code, whose employment under that section was covered bysubchapter III of chapter 83 of title 5, United States Code.”
 
 #### Election To Remain Under State Retirement System; Reemployed Technicians; Continuation of Federal Contributions
 
@@ -392,7 +394,7 @@ July 16, 1946, ch. 583, 60 Stat. 556.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 715 of this title; title 5 sections 2105, 8332, 8337; title 10 section 10503; title 37 sections 417, 418; title 38 sections 4303, 4314; title 42 section 418.
+This section is referred to in section 715 of this title; title 5 sections 2105, 8332, 8337; title 10 sections 10216, 10217, 10503; title 37 sections 417, 418; title 38 sections 4303, 4314; title 42 section 418.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

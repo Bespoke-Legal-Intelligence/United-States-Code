@@ -16,7 +16,7 @@ A commemorative work commemorating an event, individual, or group of individuals
 
 In considering legislation authorizing commemorative works within the District of Columbia and its environs, the Committee on House Oversight of the House of Representatives and the Energy and Natural Resources Committee of the Senate shall solicit the views of the National Capital Memorial Commission.
 
-(Pub. L. 99–652, §3, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 100–202, §101(f) \[title II, §3\], Dec. 22, 1987, 101 Stat. 1329–196; Pub. L. 100–230, §3, Jan. 5, 1988,101 Stat. 1564; Pub. L. 103–321, §2(b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–186, title II, §221(18), Aug. 20, 1996, 110 Stat. 1750.)
+(Pub. L. 99–652, §3, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 100–202, §101(f) \[title II, §3\], Dec. 22, 1987, 101 Stat. 1329–196; Pub. L. 100–230, §3, Jan. 5, 1988, 101 Stat. 1564; Pub. L. 103–321, §2(b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–186, title II, §221(18), Aug. 20, 1996, 110 Stat. 1750.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Subject to paragraph (2), upon written application of the State of Minnesota that complies with this section and sections 6 to 11, 13, 130, and 132 of article 5 of 282 of the 1989 Laws of Minnesota, and after approval of such application by the Secretary in accordance with subsections (b) and (d) of this section, the State may implement a family investment demonstration project (hereinafter in this section referred to as the “Project”) in parts of the State to determine whether the Project more effectively helps families to become self-supporting and enhances their ability to care for their children than do the food stamp program and programs under parts A and F of title IV of the Social Security Act \[42 U.S.C. 601 et seq., 681 et seq.\]. The State may provide cash payments under the Project, subject to paragraph (2), that replace assistance otherwise available under the food stamp program and under part A of title IV of the Social Security Act.
+(1) Subject to paragraph (2), upon written application of the State of Minnesota that complies with this section and sections 6 to 11, 13, 130, and 132 of article 5 of 282 of the 1989 Laws of Minnesota, and after approval of such application by the Secretary in accordance with subsections (b) and (d) of this section, the State may implement a family investment demonstration project (hereinafter in this section referred to as the “Project”) in parts of the State to determine whether the Project more effectively helps families to become self-supporting and enhances their ability to care for their children than do the food stamp program and programs under parts A and F <sup>1</sup> of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]. The State may provide cash payments under the Project, subject to paragraph (2), that replace assistance otherwise available under the food stamp program and under part A of title IV of the Social Security Act.
 
 (2) The Project may be implemented only in accordance with this section and only if the Secretary of Health and Human Services approves an application submitted by the State permitting the State to include in the Project families who are eligible to receive benefits under part A of title IV of the Social Security Act.
 
@@ -12,7 +12,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(1) Only families may be eligible to receive assistance and services through the Project.
 
-&emsp;(2) Participating families, families eligible for or participating in the program authorized under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] or the food stamp program that are assigned to and found eligible for the Project, and families required to submit an application for the Project that are found eligible for the Project shall be ineligible to receive benefits under the food stamp program.
+&emsp;(2) Participating families, families eligible for or participating in the program authorized under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] or the food stamp program that are assigned to and found eligible for the Project, and families required to submit an application for the Project that arefound eligible for the Project shall be ineligible to receive benefits under the food stamp program.
 
 &emsp;(3)(A) Subject to the provisions of this paragraph and any reduction imposed under subsection (c)(3) of this section, the value of assistance provided to participating families shall not be less than the aggregate value of the assistance such families could receive under the food stamp program and part A of title IV of the Social Security Act if such families did not participate in the Project.
 
@@ -20,7 +20,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;&emsp;(i) payments for child care expenses under the Project shall be considered part of the value of assistance provided to participating families with earnings;
 
-&emsp;&emsp;(ii) payments for child care expenses for families without earnings shall not be considered part of the value of assistance provided to participating families or the aggregate value of assistance that such families could have received under the food stampprogram and part A of title IV of the Social Security Act; and
+&emsp;&emsp;(ii) payments for child care expenses for families without earnings shall not be considered part of the value of assistance provided to participating families or the aggregate value of assistance that such families could have received under the food stamp program and part A of title IV of the Social Security Act; and
 
 &emsp;&emsp;(iii) any child support payments not assigned to the State under the provisions of part A of title IV of the Social Security Act, less $50 per month, shall be considered part of the aggregate value of assistance participating families would receive if such families did not participate in the Project;
 
@@ -92,7 +92,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(C) Each family whose Project participation is terminated shall be screened for potential eligibility for the food stamp program and if the screening indicates potential eligibility, the family or family member shall be given a specific request to supply all additional information needed to determine such eligibility and assistance in completing a signed food stamp program application including provision of any relevant information obtained by the State for purpose of the Project. If the family or family member supplies such additional information within ten days after receiving the request, the State shall, within five days after the State receives such information, determine whether the family or family member is eligible for the food stamp program. Each family or family member who is determined through the screening or otherwise to be ineligible for the food stamp program shall be notified of that determination.
 
-&emsp;(11) Section 2020(e)(10) of this title shall apply with respect to applicant and participating families in the same manner as such paragraph applies with respect to applicants and participants in the food stamp program, except that families shall be given notice of any action for which a hearing is available in a manner consistent with the notice requirements of the regulations implementing sections 402(a)(4) and 482(h) of the Social Security Act \[42 U.S.C. 602(a)(4), 682(h)\].
+&emsp;(11) Section 2020(e)(10) of this title shall apply with respect to applicant and participating families in the same manner as such paragraph applies with respect to applicants and participants in the food stamp program, except that families shall be given notice of any action for which a hearing is available in a manner consistent with the notice requirements of the regulations implementing sections 402(a)(4) and 482(h) <sup>1</sup> of the Social Security Act \[42 U.S.C. 602(a)(4)\].
 
 &emsp;(12) For each fiscal year, the Secretary shall not be liable for any costs related to carrying out the Project in excess of those that the Secretary would have been liable for had the Project not been implemented, except for costs for evaluating the Project, but shall adjust for the full amount of the federal share of increases or decreases in costs that result from changes in economic, demographic, and other conditions in the State based on data specific to the State, changes in eligibility or benefit levels authorized by this chapter, or changes in amounts of Federal funds available to States and localities under the food stamp program.
 
@@ -204,7 +204,9 @@ For purposes of this section, the following definitions apply:
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a), (b)(2), (3)(A), (B)(ii), (iii), (C)(ii), (iii), (5), (7), and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and F of title IV of the Social Security Act are classified generally to parts A (§601 et seq.) and F (§681 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a), (b)(2), (3)(A), (B)(ii), (iii), (C)(ii), (iii), (5), (7), and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 482 of the Social Security Act, referred to in subsec. (b)(11), was classified to section 682 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 #### Amendments
 
@@ -216,5 +218,7 @@ Subsec. (h). Pub. L. 102–237, §941(11)(C), substituted “subsection (b)(12)�
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

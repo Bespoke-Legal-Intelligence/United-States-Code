@@ -10,7 +10,7 @@ The Secretary shall promptly implement the program and recommendations submitted
 
 #### (c) Subsistence uses prior to implementation of subsistence hunting program
 
-Pending the implementation of a program under subsection (a) of this section, the Secretary shall permit subsistence uses by local residents in accordance with the provisions of this subchapter and other applicable Federal and State law.
+Pending the implementation of a program under subsection (a) of this section, the Secretary shall permit subsistence uses by localresidents in accordance with the provisions of this subchapter and other applicable Federal and State law.
 
 (Pub. L. 96–487, title VIII, §808, Dec. 2, 1980, 94 Stat. 2426.)
 

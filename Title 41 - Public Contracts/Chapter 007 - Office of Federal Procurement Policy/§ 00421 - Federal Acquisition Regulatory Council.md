@@ -14,7 +14,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 &emsp;(C) the Administrator of General Services.
 
-(2) Notwithstanding section 205(d) of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 486(d)\], the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level notlower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Technology; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) of this title. No other official or employee may be designated to serve on the Council.
+(2) Notwithstanding section 205(d) of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 486(d)\], the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition and Technology; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) of this title. No other official or employee may be designated to serve on the Council.
 
 #### (c) Functions
 
@@ -38,7 +38,7 @@ Subject to the authority, direction, and control of the head of the agency conce
 
 &emsp;(1) approve or disapprove all regulations that are, after 60 days after November 17, 1988, proposed for public comment, promulgated in final form, or otherwise made effective by such agency relating to procurement before such regulation may be promulgated in final form, or otherwise made effective, except that such official may grant an interim approval, without review, for not more than 60 days for a procurement regulation in urgent and compelling circumstances;
 
-&emsp;(2) carry out the responsibilities of such agency set forth in chapter 35 of title 44 for each information collection request (as that term is defined in section 3502(11) <sup>1</sup> of title 44) that relates to procurement rules or regulations; and
+&emsp;(2) carry out the responsibilities of such agency set forth in chapter 35 of title 44 foreach information collection request (as that term is defined in section 3502(11) <sup>1</sup> of title 44) that relates to procurement rules or regulations; and
 
 &emsp;(3) eliminate or reduce (A) any redundant or unnecessary levels of review and approval, in the procurement system of such agency, and (B) redundant or unnecessary procurement regulations which are unique to that agency.
 
@@ -52,31 +52,7 @@ All actions of the Council and of members of the Council shall be in accordance 
 
 Subject to section 405(b) of this title, the Council shall manage, coordinate, control, and monitor the maintenance of, and issuance of and changes in, the Federal Acquisition Regulation.
 
-#### (g) Reports
-
-The Administrator for Federal Procurement Policy shall—
-
-&emsp;(1) publish a report every 12 months relating to the development of procurement regulations to be issued in accordance with subsection (c) of this section; and
-
-&emsp;(2) include in each report published under paragraph (1)—
-
-&emsp;&emsp;(A) the status of each such regulation;
-
-&emsp;&emsp;(B) a description of those regulations which are required by statute;
-
-&emsp;&emsp;(C) a description of the methods by which public comment was sought with regard to each proposed regulation in accordance with section 418b of this title, and to the extent appropriate, sections 3504(h) <sup>1</sup> and 3507 of title 44;
-
-&emsp;&emsp;(D) regulatory activities completed and initiated since the last report;
-
-&emsp;&emsp;(E) regulations, policies, procedures, practices, and forms that are under consideration or review by the Office of Federal Procurement Policy;
-
-&emsp;&emsp;(F) whether the regulations have paperwork requirements;
-
-&emsp;&emsp;(G) the progress made in promulgating and implementing the Federal Acquisition Regulation; and
-
-&emsp;&emsp;(H) such other matters as the Administrator determines would be useful.
-
-(Pub. L. 93–400, §25, as added Pub. L. 100–679, §4, Nov. 17, 1988, 102 Stat. 4056; amended Pub. L. 101–510, div. A, title VIII, §807, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 104–106, div. D, title XLIII, §4322(a)(2), Feb. 10, 1996, 110 Stat. 677; Pub. L. 104–201, div. A, title VIII, §822, title X, §1074(f)(3), Sept. 23, 1996, 110 Stat. 2609, 2661.)
+(Pub. L. 93–400, §25, as added Pub. L. 100–679, §4, Nov. 17, 1988, 102 Stat. 4056; amended Pub. L. 101–510, div. A, title VIII, §807, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 104–106, div. D, title XLIII, §4322(a)(2), Feb. 10, 1996, 110 Stat. 677; Pub. L. 104–201, div. A, title VIII, §822, title X, §1074(f)(3), Sept. 23, 1996, 110 Stat. 2609, 2661; Pub. L. 105–85, div. A, title VIII, §841(d), Nov. 18, 1997, 111 Stat. 1843.)
 
 #### References in Text
 
@@ -88,9 +64,9 @@ Section 407 of this title, referred to in subsec. (c)(6), was repealed by Pub. L
 
 Section 3502 of title 44, referred to in subsec. (d)(2), which in par. (11) defined “information collection request”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which does not define “information collection request”.
 
-Section 3504 of title 44, referred to in subsec. (g)(2)(C), which in subsec. (h) related to methods by which public comment was to be sought with regard to proposed regulations, was omitted in the general amendment of chapter 35 of Title 44, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3504 of Title 44 which does not contain provisions relating to methods by which public comment is to be sought with regard to proposed regulations.
-
 #### Amendments
+
+1997—Subsec. (g). Pub. L. 105–85 struck out subsec. (g) which required the Administrator for Federal Procurement to publish an annual report relating to the development of procurement regulations.
 
 1996—Subsec. (b)(2). Pub. L. 104–106 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 

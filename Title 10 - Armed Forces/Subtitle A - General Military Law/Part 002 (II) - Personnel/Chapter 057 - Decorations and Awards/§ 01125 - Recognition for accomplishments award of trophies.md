@@ -18,7 +18,7 @@ Section 1. There is hereby established a Defense Distinguished Service Medal, wi
 
 Sec. 2. The Defense Distinguished Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as he shall prescribe. These regulations shall place the Defense Distinguished Service Medal in an order of precedence after the Medals of Honor and the Distinguished Service Crosses of the Armed Forces and before the Distinguished Service Medals of the Armed Forces.
 
-Sec. 3. No more than one Defense Distinguished Service Medal shall be awarded to any one person, but for each succeeding exceptionally meritorious period of service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
+Sec. 3. No more than one Defense Distinguished Service Medal shall be awarded to any one person, but for each succeeding exceptionally meritorious period ofservice justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
 
 Sec. 4. The Defense Distinguished Service Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
 

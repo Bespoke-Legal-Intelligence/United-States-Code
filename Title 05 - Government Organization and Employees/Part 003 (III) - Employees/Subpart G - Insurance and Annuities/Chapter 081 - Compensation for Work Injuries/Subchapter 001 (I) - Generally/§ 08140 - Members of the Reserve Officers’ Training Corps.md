@@ -12,7 +12,7 @@
 
 (d) The Secretary of the military department concerned shall cooperate fully with the Department of Labor in the prompt investigation and prosecution of a case involving the legal liability of a third party other than the United States.
 
-(e) An individual may not receive disability benefits under this section while on active dutywith the armed forces, but these benefits may be reinstated when the individual is released from that active duty.
+(e) An individual may not receive disability benefits under this section while on active duty with the armed forces, but these benefits may be reinstated when the individual is released from that active duty.
 
 (f) Expenses incurred by a military department in providing hospitalization, medical and surgical care, necessary transportation incident to that hospitalization or medical and surgical care, or in connection with a funeral and burial on behalf of an individual covered by subsection (a) of this section shall be reimbursed by the Secretary of Labor from the Employees’ Compensation Fund in accordance with this subchapter. However, reimbursement may not be made for hospitalization or medical or surgical care provided an individual by a military department in a facility of a military department.
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 100–456 applicable only with respect to training performe
 
 #### Different Coverage for Reserve Officer Training Corps Members
 
-Pub. L. 97–306, title I, §113(c), Oct. 14, 1982, 96 Stat. 1432, provided that: “Notwithstanding section 8140 of title 5, United States Code, subchapter I of chapter 81 of such title does not apply in the case of a disability suffered by a member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force that is compensable under chapter 11 of title 38, United States Code, or a death suffered by such a member for which dependency and indemnity compensation is payable under chapter 13 of such title \[section 401 et seq. of Title 38\].”
+Pub. L. 97–306, title I, §113(c), Oct. 14, 1982, 96 Stat. 1432, provided that: “Notwithstanding section 8140 of title 5, United States Code, subchapter I of chapter 81 of such title does not apply in the case of a disabilitysuffered by a member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force that is compensable under chapter 11 of title 38, United States Code, or a death suffered by such a member for which dependency and indemnity compensation is payable under chapter 13 of such title \[section 401 et seq. of Title 38\].”
 
 \[Section 113(d) of Pub. L. 97–306 provided that these provisions shall apply only with respect to deaths and disabilities resulting from diseases or injuries incurred or aggravated after September 30, 1982.\]
 

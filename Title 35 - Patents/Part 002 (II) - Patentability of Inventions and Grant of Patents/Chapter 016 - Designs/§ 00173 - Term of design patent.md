@@ -2,7 +2,7 @@
 
 Patents for designs shall be granted for the term of fourteen years from the date of grant.
 
-(July 19, 1952, ch. 950, 66 Stat. 805; Aug. 27, 1982, Pub. L. 97–247, §16, 96 Stat. 321; Dec. 8, 1994, Pub. L. 103–465, title V, §532(c)(3), 108 Stat. 4987.)
+(July 19, 1952, ch. 950, 66 Stat. 805; Pub. L. 97–247, §16, Aug. 27, 1982, 96 Stat. 321; Pub. L. 103–465, title V, §532(c)(3), Dec. 8, 1994, 108 Stat. 4987.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 (a) Except as specifically provided in regulations to be prescribed by the Secretary of Defense, or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, each person who is enlisted, inducted, or appointed in an armed force, and who becomes a member of the Ready Reserve under any provision of law except section 513 or 10145(b) of this title, shall be required, while in the Ready Reserve, to—
 
-&emsp;(1) participate in at least 48 scheduled drills or training periods during each year and serve on active duty for training of not less than 14 days (exclusive of traveltime) during each year; or
+&emsp;(1) participate in at least 48 scheduled drills or training periods during each year and serveon active duty for training of not less than 14 days (exclusive of traveltime) during each year; or
 
 &emsp;(2) serve on active duty for training not more than 30 days during each year.
 
@@ -22,5 +22,5 @@ Section 1661(a)(5)(A) of Pub. L. 103–337 provided that: “Section 10147(a) \[
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10143, 10148 of this title; title 5 section 5517; title 14 section 712; title 50 App. section 456.
+This section is referred to in sections 10143, 10148 of this title; title 5 section 5517; title 14 section 712; title 38 section 4312; title 50 App. section 456.
 

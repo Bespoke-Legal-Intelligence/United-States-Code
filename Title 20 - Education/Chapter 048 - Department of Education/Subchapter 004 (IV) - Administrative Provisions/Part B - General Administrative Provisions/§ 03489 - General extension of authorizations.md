@@ -10,7 +10,7 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 &emsp;(4) the Indian Education Act;
 
-&emsp;(5) titles XI \[25 U.S.C. 2001 et seq.\], XIV \[20 U.S.C. 921 et seq.\], and XV of the Education Amendments of 1978 and part H of title XIII of the Education Amendments of 1980;
+&emsp;(5) titles XI \[25 U.S.C. 2001 et seq.\], XIV \[20 U.S.C. 921 et seq.\], and XV of the EducationAmendments of 1978 and part H of title XIII of the Education Amendments of 1980;
 
 &emsp;(6) the Adult Education Act \[20 U.S.C. 1201 et seq.\];
 
@@ -44,7 +44,7 @@ The General Education Provisions Act, referred to in par. (3), is title IV of Pu
 
 The Indian Education Act, referred to in par. (4), is Pub. L. 92–318, title IV, June 23, 1972, 86 Stat. 334, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 241aa of this title and Tables.
 
-The Education Amendments of 1978, referred to in par. (5), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Education Amendments of1978 is classified principally to chapter 22 (§2001 et seq.) of Title 25, Indians. Title XIV of the Education Amendments of 1978 is known as the Defense Dependents Education Act of 1978 and is classified principally to chapter 25A (§921 et seq.) of this title. Title XV of the Education Amendments of 1978 enacted sections 1221j and 1226c–1 of this title, repealed sections 1901, 1921, 1941 to 1944, 1961 to 1966, and 1981 to 1983 of this title, and enacted provisions set out as a note under section 1231a of this title, provisions formerly set out as notes under sections 1123 and 2711 of this title, and provisions set out as a note under section 287 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
+The Education Amendments of 1978, referred to in par. (5), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Education Amendments of 1978 is classified principally to chapter 22 (§2001 et seq.) of Title 25, Indians. Title XIV of the Education Amendments of 1978 is known as the Defense Dependents Education Act of 1978 and is classified principally to chapter 25A (§921 et seq.) of this title. Title XV of the Education Amendments of 1978 enacted sections 1221j and 1226c–1 of this title, repealed sections 1901, 1921, 1941 to 1944, 1961 to 1966, and 1981 to 1983 of this title, and enacted provisions set out as a note under section 1231a of this title, provisions formerly set out as notes under sections 1123 and 2711 of this title, and provisions set out as a note under section 287 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
 
 The Education Amendments of 1980, referred to in par. (5), is Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367, as amended. Part H of title XIII of the Education Amendments of 1980, Pub. L. 96–374, title XIII, §§1371–1373, 1376, 1377, 1381–1383, Oct. 3, 1980, 94 Stat. 1502, 1503, is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1001 of this title and Tables.
 
@@ -70,7 +70,7 @@ Section was enacted as part of the Omnibus Education Reconciliation Act of 1981 
 
 #### Amendments
 
-1996—Pars. (12) to (15). Pub. L. 104–208 redesignated pars. (13) to (15) as (12) to (14), respectively, and struck out former par. (12) which listed the Library Services and Construction Act as one of the laws for which funds were authorized to be appropriated under this section.
+1996—Pars. (12) to (15). Pub. L. 104–208 redesignated pars. (13) to (15) as (12) to (14), respectively, and struckout former par. (12) which listed the Library Services and Construction Act as one of the laws for which funds were authorized to be appropriated under this section.
 
 1983—Par. (15). Pub. L. 98–211 added par. (15).
 

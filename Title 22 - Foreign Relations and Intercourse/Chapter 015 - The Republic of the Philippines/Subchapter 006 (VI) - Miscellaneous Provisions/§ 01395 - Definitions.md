@@ -16,7 +16,7 @@
 
 &emsp;(7) The term “American article” means an article the growth, produce, or manufacture of the United States, in the production of which no materials of other than Philippine or United States origin valued in excess of 20 per centum of the total value of such article was used and which is brought into the Philippines from the United States.
 
-&emsp;(8) The term “Philippine import duty” means the lowest rate of ordinary customs duty applicable at the port of arrival, at the time of entry, or withdrawal from warehouse, for consumption of the article concerned, to like articles imported into the Philippines from any other foreign country, or when more than one rate of ordinary customs duty is applicable to such like articles, the aggregate of such rates.
+&emsp;(8) The term “Philippine import duty” means the lowest rate of ordinary customs duty applicable at the port of arrival, at the time of entry, or withdrawal from warehouse, for consumption of the article concerned, tolike articles imported into the Philippines from any other foreign country, or when more than one rate of ordinary customs duty is applicable to such like articles, the aggregate of such rates.
 
 (b) As used in subsection (a) of this section:
 

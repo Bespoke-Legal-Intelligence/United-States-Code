@@ -38,7 +38,7 @@
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322,as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
 The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 

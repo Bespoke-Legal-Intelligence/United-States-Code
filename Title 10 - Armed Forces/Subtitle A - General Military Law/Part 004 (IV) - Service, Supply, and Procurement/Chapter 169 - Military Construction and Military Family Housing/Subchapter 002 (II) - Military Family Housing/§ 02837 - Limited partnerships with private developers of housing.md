@@ -40,7 +40,7 @@ Account.—(1) There is hereby established on the books of the Treasury an accou
 
 (f)
 
-Report.—Not later than 60 days after the end of each fiscal year in which activities are carried out under this section, the Secretaries concerned shall jointly transmit to Congress a report specifying the amount and nature of the deposits into, and the expenditures from, the Account during such fiscal year and of the amount and nature of all other expenditures made pursuant to such section during such fiscal year.
+Report.—Not later than 60 days after the end of each fiscal year in which activities are carried out under this section, the Secretaries concerned shall jointly transmit to Congress areport specifying the amount and nature of the deposits into, and the expenditures from, the Account during such fiscal year and of the amount and nature of all other expenditures made pursuant to such section during such fiscal year.
 
 (g)
 

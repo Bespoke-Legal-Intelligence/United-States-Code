@@ -2,7 +2,7 @@
 
 #### (a) Authority to make loans
 
-The Secretary may, in accordance with the provisions of this section and such rules and regulations as he shall prescribe, make a loan (and may make a commitment to loan) to any person who owns or operates any existing electric powerplant converting to coal or other alternate fuel as its primary energy source after the effective date of this chapter for the purpose of financing the purchase and installation of one or more certified air pollution control devices for such electric powerplant.
+The Secretary may, in accordance with the provisions of this section and such rules and regulations as he shall prescribe, make a loan (and may make a commitment to loan) to any person who owns or operates any existing electric powerplant converting to coal or other alternate fuel as its primary energy source after the effective date of this chapter for the purpose of financing the purchase and installation of one ormore certified air pollution control devices for such electric powerplant.
 
 #### (b) Limitations and conditions
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 (2) In demanding payment of unpaid interest or principal by the obligor, the Secretary has all rights specified in the loan-related agreements with respect to any security which he held with respect to the loan, including the authority to complete, maintain, operate, lease, sell, or otherwise dispose of any property acquired pursuant to such loan or related agreements.
 
-(3) If there is a default under any loan, the Secretary shall notify the Attorney General who shall take such action against the obligator or other parties liable thereunder as is, in his discretion, necessary to protect the interests of the United States. The holder of such loan shall make available to the United States all records and evidence necessary to prosecute any such suit.
+(3) If there is a default under any loan, the Secretary shall notify the Attorney General who shall take such action against the obligator or other parties liable thereunder as is, in his discretion, necessary to protect the interests of theUnited States. The holder of such loan shall make available to the United States all records and evidence necessary to prosecute any such suit.
 
 #### (g) Deposit of receipts
 

@@ -42,3 +42,4 @@ This subchapter is referred to in sections 608a, 3535 of this title.
 - [&sect; 01437x - Environmental reviews](%C2%A7%2001437x%20-%20Environmental%20reviews.md)
 - [&sect; 01437y - Provision of information to law enforcement and other agencies](%C2%A7%2001437y%20-%20Provision%20of%20information%20to%20law%20enforcement%20and%20other%20agencies.md)
 - [&sect; 01437z - Exchange of information with law enforcement agencies](%C2%A7%2001437z%20-%20Exchange%20of%20information%20with%20law%20enforcement%20agencies.md)
+- [&sect; 01437z&#8211;1 - Civil money penalties against section 8 owners](%C2%A7%2001437z%E2%80%931%20-%20Civil%20money%20penalties%20against%20section%208%20owners.md)

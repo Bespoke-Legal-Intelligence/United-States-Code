@@ -4,7 +4,7 @@ On and after May 15, 1936, whenever the Secretary of State, in his discretion, p
 
 The Secretary of State is authorized to accept reimbursement from corporations, firms, and individuals for the expenses of travel, translation, printing, special experts, and other extraordinary expenses incurred in pursuing a claim on their behalf against a foreign government or other foreign entity. Such reimbursements shall be credited to the appropriation account against which the expense was initially charged.
 
-(May 15, 1936, ch. 405, 49 Stat. 1321; Dec. 22, 1987, Pub. L. 100–204, title I, §142(b), 101 Stat. 1350.)
+(May 15, 1936, ch. 405, 49 Stat. 1321; Pub. L. 100–204, title I, §142(b), Dec. 22, 1987, 101 Stat. 1350.)
 
 #### Codification
 

@@ -16,7 +16,7 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “1312(a)” for “412(a
 
 Pub. L. 102–83, §4(b)(2)(A)(i), substituted “Secretary of Veterans Affairs” for “Administrator” in two places.
 
-Subsec. (b). Pub. L. 102–83, §4(b)(2)(A)(ii), substituted “The Secretary shall pay to the Secretary of Health and Human Services” for “Upon the basis of estimates made by the Secretary of Health and Human Services after consultation with the Administrator, the Administrator shall pay to the Secretary” and “as the two Secretaries may prescribe, with the amount of such payments to be made on the basis of estimates made by the Secretary of Health and Human Services after consultation with the Secretary” for “as the Secretary and the Administrator may prescribe”.
+Subsec. (b). Pub. L. 102–83, §4(b)(2)(A)(ii), substituted “The Secretary shall pay to the Secretary of Health and Human Services” for “Upon the basis of estimates made by the Secretary of Health and Human Services after consultation with the Administrator, the Administrator shall pay to the Secretary” and “as the two Secretaries may prescribe, with the amount of suchpayments to be made on the basis of estimates made by the Secretary of Health and Human Services after consultation with the Secretary” for “as the Secretary and the Administrator may prescribe”.
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “1312(a)” for “412(a)”.
 

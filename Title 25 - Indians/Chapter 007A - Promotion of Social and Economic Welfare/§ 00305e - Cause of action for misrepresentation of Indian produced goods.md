@@ -50,7 +50,7 @@ As used in this section—
 
 In the event that any provision of this section is held invalid, it is the intent of Congress thatthe remaining provisions of this section shall continue in full force and effect.
 
-(Aug. 27, 1935, ch. 748, §6, as added Nov. 29, 1990, Pub. L. 101–644, title I, §105, 104 Stat. 4664.)
+(Aug. 27, 1935, ch. 748, §6, as added Pub. L. 101–644, title I, §105, Nov. 29, 1990, 104 Stat. 4664.)
 
 #### Prior Provisions
 

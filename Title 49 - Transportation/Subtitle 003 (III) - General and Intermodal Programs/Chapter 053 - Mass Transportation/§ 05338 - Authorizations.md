@@ -22,6 +22,8 @@ of Title 23.—(1) Not more than the following amounts are available from the Ma
 
 &emsp;(E) $1,920,000,000 for the fiscal year ending September 30, 1997.
 
+&emsp;(F) $1,328,400,000 for the period of October 1, 1997, through March 31, 1998.
+
 (2) In addition to amounts made available under paragraph (1) of this subsection, not more than the following amounts may be appropriated to the Secretary to carry out sections 5303–5306, 5308, 5310, 5311, 5313, 5314, 5317, 5320, 5327, and 5334(a) and (c) of this title and substitute transit projects under section 103(e)(4) of title 23:
 
 &emsp;(A) $2,055,000,000 for the fiscal year ending September 30, 1993.
@@ -33,6 +35,8 @@ of Title 23.—(1) Not more than the following amounts are available from the Ma
 &emsp;(D) $1,965,000,000 for the fiscal year ending September 30, 1996.
 
 &emsp;(E) $2,430,000,000 for the fiscal year ending September 30, 1997.
+
+&emsp;(F) $369,000,000 for the period of October 1, 1997, through March 31, 1998.
 
 (b)
 
@@ -48,6 +52,8 @@ Section 5309.—(1) Not more than the following amounts are available from the A
 
 &emsp;(E) $2,880,000,000 for the fiscal year ending September 30, 1997.
 
+&emsp;(F) $1,131,600,000 for the period of October 1, 1997, through March 31, 1998.
+
 (2) In addition to amounts made available under paragraph (1) of this subsection, not more than the following amounts may be appropriated to the Secretary to carry out section 5309 of this title:
 
 &emsp;(A) $305,000,000 for the fiscal year ending September 30, 1993.
@@ -62,7 +68,7 @@ Section 5309.—(1) Not more than the following amounts are available from the A
 
 (c)
 
-Section 5315.—The Secretary shall make available in equal amounts from amounts provided under subsections (f) and (g) of this section not more than $3,000,000 for each of the fiscal years ending September 30, 1993–1997, to carry out section 5315 of this title.
+Section 5315.—The Secretary shall make available in equal amounts from amounts provided under subsections (f) and (g) of this section not more than $3,000,000 for each of the fiscal years ending September 30, 1993–1997, and not more than $1,500,000 for the period of October 1, 1997, through March 31, 1998, to carry out section 5315 of this title.
 
 (d)
 
@@ -80,7 +86,7 @@ Section 5316.—Not more than the following amounts may be appropriated to the S
 
 (e)
 
-Section 5317.—(1) Not more than $6,000,000 is available from the Fund (except the Account) for the Secretary for each of the fiscal years ending September 30, 1993–1997, to carry out section 5317 of this title.
+Section 5317.—(1) Not more than $6,000,000 is available from the Fund (except the Account) for the Secretary for each of the fiscal years ending September 30, 1993–1997, and not more than $3,000,000 is available from the Fund (except the Account) for the Secretary for the period of October 1, 1997, through March 31, 1998, to carry out section 5317 of this title.
 
 (2) Not more than the following amounts may be appropriated to the Secretary from the Fund (except the Account) for making grants under section 5317(b)(5)(B) of this title:
 
@@ -90,7 +96,7 @@ Section 5317.—(1) Not more than $6,000,000 is available from the Fund (except 
 
 (f)
 
-Section 5307.—Amounts remaining available each fiscal year under subsection (a)(1) of this section, after allocation under subsections\(g)–(i) and (j)(4) of this section, are available under section 5307 of this title.
+Section 5307.—Amounts remaining available each fiscal year under subsection (a)(1) of this section, after allocation under subsections (g)–(i) and (j)(4) of this section, are available under section 5307 of this title.
 
 (g)
 
@@ -112,7 +118,7 @@ Other Set-Asides.—Before apportioning in each fiscal year amounts made availab
 
 &emsp;(2) not more than 1.34 percent is available for transportation services to elderly individuals and individuals with disabilities under the formula under section 5310(a) of this title; and
 
-&emsp;(3) $7,000,000 is available for section 5317 for each of the fiscal years ending September 30, 1993–1997.
+&emsp;(3) $7,000,000 is available for section 5317 for each of the fiscal years ending September 30, 1993–1997 and $3,000,000 is available for section 5317 for the period of October 1, 1997, through March 31, 1998.
 
 (i)
 
@@ -134,13 +140,15 @@ Limitations.—Of the amounts available—
 
 &emsp;&emsp;(A) $2,000,000 is available for the fiscal year ending September 30, 1993;
 
-&emsp;&emsp;(B) the lesser of $2,000,000 or an amount the Secretary determines is necessary for each fiscal year is available for each of the fiscal years ending September 30, 1994–1996; and
+&emsp;&emsp;(B) the lesser of $2,000,000 or an amount the Secretary determines is necessary for each fiscal year is available for each of the fiscal years ending September 30, 1994–1996;
 
-&emsp;&emsp;(C) the lesser of $3,000,000 or an amount the Secretary determines is necessary is available for the fiscal year ending September 30, 1997.
+&emsp;&emsp;(C) the lesser of $3,000,000 or an amount the Secretary determines is necessary is available for the fiscal year ending September 30, 1997; and
+
+&emsp;&emsp;(D) the lesser of $1,500,000 or an amount that the Secretary determines is necessary is available to carry out section 5318 for the period of October 1, 1997, through March 31, 1998.
 
 (k)
 
-Grants as Contractual Obligations.—(1) A grant or contract approved by the Secretary, that is financed with amounts made available under subsection (a)(1), (b)(1), (c), or (e) of this section, is a contractual obligation of the United States Government to pay the Government's share of the cost of the project.
+Grants as Contractual Obligations.—(1) A grant or contract approved by the Secretary, that is financed with amounts made available under subsection (a)(1), (b)(1), (c), (e), or (m) of this section, is a contractual obligation of the United States Government to pay the Government's share of the cost of the project.
 
 (2) A grant or contract, approved by the Secretary, that is financed with amounts made available under subsection (a)(2) or (b)(2) of this section, is a contractual obligation of the Government to pay the Government's share of the cost of the project only to the extent amounts are provided in advance in an appropriations law.
 
@@ -156,7 +164,25 @@ Early Appropriations and Availability of Amounts.—(1) Amounts appropriated und
 
 &emsp;(B) that is unobligated at the end of the 3-year period shall be added to the amount available for apportionment for the next fiscal year not later than 30 days after the end of the 3-year period.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390.)
+(m)
+
+Section 5316
+
+for the Period of October 1, 1997,
+
+Through March 31, 1998.—Not more than the following amounts may be appropriated to the Secretary from the Fund (except the Account) for the period of October 1, 1997, through March 31, 1998:
+
+&emsp;(1) $125,000 to carry out section 5316(a).
+
+&emsp;(2) $1,500,000 to carry out section 5316(b).
+
+&emsp;(3) $500,000 to carry out section 5316(c).
+
+&emsp;(4) $500,000 to carry out section 5316(d).
+
+&emsp;(5) $500,000 to carry out section 5316(e).
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559.)
 
 Historical and Revision Notes
 
@@ -296,6 +322,24 @@ This amends 49:5338(g)(2) to correct an erroneous cross-reference.
 
 #### Amendments
 
+1997—Subsec. (a)(1)(F). Pub. L. 102–240, §3049(c)(1)(A), as added by Pub. L. 105–130, added subpar. (F).
+
+Subsec. (a)(2)(F). Pub. L. 102–240, §3049(c)(1)(B), as added by Pub. L. 105–130, added subpar. (F).
+
+Subsec. (b)(1)(F). Pub. L. 102–240, §3049(c)(2), as added by Pub. L. 105–130, added subpar. (F).
+
+Subsec. (c). Pub. L. 102–240, §3049(c)(3), as added by Pub. L. 105–130, inserted “and not more than $1,500,000 for the period of October 1, 1997, through March 31, 1998,” after “1997,”.
+
+Subsec. (e). Pub. L. 102–240, §3049(c)(4), as added by Pub. L. 105–130, inserted “and not more than $3,000,000 is available from the Fund (except the Account) for the Secretary for the period of October 1, 1997, through March 31, 1998,” after “1997,”.
+
+Subsec. (h)(3). Pub. L. 102–240, §3049(c)(5), as added by Pub. L. 105–130, inserted before period at end “and $3,000,000 is available for section 5317 for the period of October 1, 1997, through March 31, 1998”.
+
+Subsec. (j)(5)(D). Pub. L. 102–240, §3049(c)(6), as added by Pub. L. 105–130, added subpar. (D).
+
+Subsec. (k). Pub. L. 102–240, §3049(c)(7), as added by Pub. L. 105–130, substituted “(e), or (m) of this section” for “or (e) of this section”.
+
+Subsec. (m). Pub. L. 102–240, §3049(c)(8), as added by Pub. L. 105–130, added subsec. (m).
+
 1996—Subsec. (g)(2). Pub. L. 104–287 substituted “section 5311(b)(2)” for “section 5308(b)(2)”.
 
 #### Effective Date of 1996 Amendment
@@ -304,7 +348,11 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 #### Programs of Federal Transit Administration; Limitation on Obligations
 
-Pub. L. 104–205, title III, §311, Sept. 30, 1996, 110 Stat. 2971, provided that: “The limitation on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation under the discretionary grants program.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 105–66, title III, §311, Oct. 27, 1997, 111 Stat. 1443, provided that: “The limitations on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation under the discretionary grants program.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–205, title III, §311, Sept. 30, 1996, 110 Stat. 2971.
 
 Pub. L. 104–50, title III, §312, Nov. 15, 1995, 109 Stat. 455.
 
@@ -330,5 +378,5 @@ Pub. L. 99–190, §101(e) \[title III, §322\], Dec. 19, 1985, 99 Stat. 1267, 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5303, 5308, 5309, 5310, 5311, 5313, 5314, 5316, 5317, 5318, 5321, 5333, 5336 of this title; title 26 section 9503.
+This section is referred to in sections 5303, 5308, 5309, 5310, 5311, 5313, 5314, 5316, 5317, 5318, 5321, 5333, 5336, 5337 of this title; title 26 section 9503.
 

@@ -4,7 +4,7 @@
 
 (b) Any interested person shall have the right of judicial review of any legal question regarding the interpretation of the terms “regular dealer” and “manufacturer”, as defined pursuant to subsection (a) of this section.
 
-(June 30, 1936, ch. 881, §11, as added Oct. 13, 1994, Pub. L. 103–355, title VII, §7201(4), 108 Stat. 3378; amended Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(f)(1)(A), 110 Stat. 675.)
+(June 30, 1936, ch. 881, §11, as added Pub. L. 103–355, title VII, §7201(4), Oct. 13, 1994, 108 Stat. 3378; amended Pub. L. 104–106, div. D, title XLIII, §4321(f)(1)(A), Feb. 10, 1996, 110 Stat. 675.)
 
 #### Prior Provisions
 

@@ -64,6 +64,10 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
 
+#### Criminal Background Checks
+
+Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: “That during fiscal year 1998 and each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service shall be used to complete adjudication of an application for naturalization unless the Immigration and Naturalization Service has received confirmation from the Federal Bureau of Investigation that a full criminal background check has been completed, except for those exempted by regulation as of January 1, 1997”.
+
 #### Cross References
 
 Contempts, see section 401 et seq. of Title 18, Crimes and Criminal Procedure.

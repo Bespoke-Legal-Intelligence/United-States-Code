@@ -205,7 +205,7 @@ The Adult Education Act, comprising this chapter, was originally enacted by Pub.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2323, 2403, 3489, 6143, 6362, 6365, 6366 of this title; title 29 sections 1533, 1605, 1792; title 42 sections 683, 3013, 11421.
+This chapter is referred to in sections 2323, 2403, 3489, 6143, 6362, 6365, 6366 of this title; title 29 sections 1533, 1605, 1792; title 42 sections 3013, 11421.
 
 
 ---
@@ -216,8 +216,3 @@ This chapter is referred to in sections 2323, 2403, 3489, 6143, 6362, 6365, 6366
 - [Subchapter 002 (II) - State Programs](Subchapter%20002%20%28II%29%20-%20State%20Programs/README.md)
 - [Subchapter 003 (III) - Workplace Literacy and English Literacy Grants](Subchapter%20003%20%28III%29%20-%20Workplace%20Literacy%20and%20English%20Literacy%20Grants/README.md)
 - [Subchapter 004 (IV) - National Programs](Subchapter%20004%20%28IV%29%20-%20National%20Programs/README.md)
-- [Subchapter 001 (I) - Functions of Department of Education](Subchapter%20001%20%28I%29%20-%20Functions%20of%20Department%20of%20Education/README.md)
-- [Subchapter 002 (II) - Appropriations and Evaluations](Subchapter%20002%20%28II%29%20-%20Appropriations%20and%20Evaluations/README.md)
-- [Subchapter 003 (III) - General Requirements and Conditions Concerning Operation and Administration of Education Programs General Authority of&#8230;](Subchapter%20003%20%28III%29%20-%20General%20Requirements%20and%20Conditions%20Concerning%20Operation%20and%20Administration%20of%20Education%20Programs%20General%20Authority%20of%E2%80%A6/README.md)
-- [Subchapter 004 (IV) - Enforcement](Subchapter%20004%20%28IV%29%20-%20Enforcement/README.md)
-- [Subchapter 005 (V) - Ready to Learn Television](Subchapter%20005%20%28V%29%20-%20Ready%20to%20Learn%20Television/README.md)

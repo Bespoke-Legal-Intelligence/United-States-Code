@@ -32,7 +32,7 @@ The decisions of a panel convened by the Secretary pursuant to this section shal
 
 #### (d) Payment of costs by the Secretary
 
-The Secretary shall pay all reasonable costs of arbitration under this section in accordancewith a schedule of fees and expenses he shall publish in the Federal Register.
+The Secretary shall pay all reasonable costs of arbitration under this section in accordance with a schedule of fees and expenses he shall publish in the Federal Register.
 
 (June 20, 1936, ch. 638, §6, as added Dec. 7, 1974, Pub. L. 93–516, title II, §206, 88 Stat. 1626; Nov. 21, 1974, Pub. L. 93–651, title II, §206, 89 Stat. 2–11.)
 

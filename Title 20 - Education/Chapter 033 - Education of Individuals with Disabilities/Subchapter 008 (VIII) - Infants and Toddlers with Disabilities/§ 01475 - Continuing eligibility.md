@@ -6,7 +6,7 @@ In order to be eligible for a grant under section 1473 of this title for the fir
 
 #### (b) Third and fourth year
 
-(1) In order to be eligible for a grant under section 1473 of this title for the third or fourth year of a State's participation under this subchapter, a State shall include in its application under section 1478 of this title for that year information and assurances demonstrating to the satisfaction of the Secretary that—
+(1) In order to be eligible for a grant under section 1473 of this title for the third or fourth year of a State's participation under this subchapter,a State shall include in its application under section 1478 of this title for that year information and assurances demonstrating to the satisfaction of the Secretary that—
 
 &emsp;(A) the State has adopted a policy which incorporates all of the components of a statewide system in accordance with section 1476 of this title or obtained a waiver from the Secretary under paragraph (2),
 
@@ -74,7 +74,7 @@ Notwithstanding subsections (a) and (b) of this section, a State which has in ef
 
 #### (C) Minimum payment for fiscal year 1991 or 1992 for certain States
 
-&emsp;&emsp;Notwithstanding any other provision of law, each State qualifying for extended participation under this subsection for fiscal year 1991 or fiscal year 1992 shall receive a payment under this subchapter of not less than $500,000. For purposes of the preceding sentence, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;&emsp;Notwithstanding any other provision of law, each State qualifying for extended participation under this subsection for fiscal year 1991 or fiscal year 1992 shall receive a payment under this subchapter of not less than $500,000. For purposes of the preceding sentence, the term “State” means each ofthe 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 #### (5) Reallotment
 
@@ -111,6 +111,10 @@ Notwithstanding subsections (a) and (b) of this section, a State which has in ef
 &emsp;&emsp;(C) the Department of the Interior.
 
 (Pub. L. 91–230, title VI, §675, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1147; amended Pub. L. 100–630, title I, §108(c), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, §901(b)(165), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–52, §10, June 6, 1991, 105 Stat. 263; Pub. L. 102–119, §§19(c), 25(b), Oct. 7, 1991, 105 Stat. 601, 607.)
+
+#### Repeal of Section
+
+<i>Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, provided that, effective July 1, 1998, this section is repealed.</i>
 
 #### Amendments
 

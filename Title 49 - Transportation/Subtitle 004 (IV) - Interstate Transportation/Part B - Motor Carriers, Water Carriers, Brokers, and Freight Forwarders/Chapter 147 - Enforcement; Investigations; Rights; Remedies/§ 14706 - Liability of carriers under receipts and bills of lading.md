@@ -10,7 +10,7 @@ Motor carriers and freight forwarders.—A carrier providing transportation or s
 
 &emsp;(2)
 
-Freight forwarder.—A freight forwarder is both the receiving and delivering carrier. When a freight forwarder provides service and uses a motor carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 to receive property from a consignor, the motor carrier may execute the bill of lading or shipping receipt for the freight forwarder with its consent. With the consent of the freight forwarder, a motor carrier may deliver property for a freight forwarder on the freight forwarder's bill of lading, freight bill, or shipping receipt to the consignee named in it, and receipt for the property may be made on the freight forwarder's delivery receipt.
+Freight forwarder.—A freight forwarder is both the receiving and deliveringcarrier. When a freight forwarder provides service and uses a motor carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 to receive property from a consignor, the motor carrier may execute the bill of lading or shipping receipt for the freight forwarder with its consent. With the consent of the freight forwarder, a motor carrier may deliver property for a freight forwarder on the freight forwarder's bill of lading, freight bill, or shipping receipt to the consignee named in it, and receipt for the property may be made on the freight forwarder's delivery receipt.
 
 (b)
 
@@ -70,7 +70,7 @@ Minimum Period for Filing Claims.—
 
 &emsp;(1)
 
-In general.—A carrier may not provide by rule, contract, or otherwise, a period of less than 9 months for filing a claim against it under this section and a period of less than 2years for bringing a civil action against it under this section. The period for bringing a civil action is computed from the date the carrier gives a person written notice that the carrier has disallowed any part of the claim specified in the notice.
+In general.—A carrier may not provide by rule, contract, or otherwise, a period of less than 9 months for filing a claim against it under this section and a period of less than 2 years for bringing a civil action against it under this section. The period for bringing a civil action is computed from the date the carrier gives a person written notice that the carrier has disallowed any part of the claim specified in the notice.
 
 &emsp;(2)
 

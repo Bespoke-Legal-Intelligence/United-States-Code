@@ -8,7 +8,7 @@ The authority of the head of an executive agency to conduct an acquisition of in
 
 &emsp;(2) To enter into a contract that provides for multiagency acquisitions of information technology in accordance with guidance issued by the Director.
 
-&emsp;(3) If the Director finds that it would be advantageous for the Federal Government to do so, to enter into a multiagency contract for procurement of commercial items of information technology that requires each executive agency covered by the contract, when procuring such items, either to procure the items under that contract or to justify an alternative procurement of the items.
+&emsp;(3) If the Director finds that it would be advantageous for the Federal Government to do so, to enter into a multiagency contract for procurement of commercial items of information technology that requires each executive agency covered by the contract, when procuring such items, either to procure the itemsunder that contract or to justify an alternative procurement of the items.
 
 #### (b) FTS 2000 program
 

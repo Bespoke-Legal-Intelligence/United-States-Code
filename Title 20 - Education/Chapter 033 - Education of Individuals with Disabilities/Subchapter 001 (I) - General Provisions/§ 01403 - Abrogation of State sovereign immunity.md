@@ -1,24 +1,22 @@
 ### §1403. Abrogation of State sovereign immunity
 
-#### (a) State immunity abrogated
+#### (a) In general
 
 A State shall not be immune under the eleventh amendment to the Constitution of the United States from suit in Federal court for a violation of this chapter.
 
-#### (b) Availability of remedies
+#### (b) Remedies
 
-In a suit against a State for a violation of this chapter, remedies (including remedies both atlaw and in equity) are available for such a violation to the same extent as such remedies are available for such a violation in the suit against any public entity other than a State.
+In a suit against a State for a violation of this chapter, remedies (including remedies both at law and in equity) are available for such a violation to the same extent as those remedies are available for such a violation in the suit against any public entity other than a State.
 
 #### (c) Effective date
 
-The provisions of subsections (a) and (b) of this section shall take effect with respect to violations that occur in whole or part after October 30, 1990.
+Subsections (a) and (b) of this section apply with respect to violations that occur in whole or part after October 30, 1990.
 
-(Pub. L. 91–230, title VI, §604, as added Pub. L. 101–476, title I, §103, Oct. 30, 1990, 104 Stat. 1106.)
+(Pub. L. 91–230, title VI, §604, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 47.)
 
 #### Prior Provisions
 
-A prior section 1403, Pub. L. 91–230, title VI, §604, Apr. 13, 1970, 84 Stat. 177; Pub. L. 93–380, title VI, §613, Aug. 21, 1974, 88 Stat. 580; Pub. L. 94–273, §§3(14), 13(2), Apr. 21, 1976, 90 Stat. 376, 378; Pub. L. 98–199, §4, Dec. 2, 1983, 97 Stat. 1358, established the National Advisory Committee on the Education of Handicapped Children and Youth, prior to repeal by Pub. L. 99–457, title IV, §407, Oct. 8, 1986, 100 Stat. 1177.
+A prior section 1403, Pub. L. 91–230, title VI, §604, as added Pub. L. 101–476, title I, §103, Oct. 30, 1990, 104 Stat. 1106, related to abrogation of State sovereign immunity, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-#### Effective Date
-
-Section effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as an Effective Date of 1990 Amendment note under section 1087ee of this title.
+Another prior section 1403, Pub. L. 91–230, title VI, §604, Apr. 13, 1970, 84 Stat. 177; Pub. L. 93–380, title VI, §613, Aug. 21, 1974, 88 Stat. 580; Pub. L. 94–273, §§3(14), 13(2), Apr. 21, 1976, 90 Stat. 376, 378; Pub. L. 98–199, §4, Dec. 2, 1983, 97 Stat. 1358, established the National Advisory Committee on the Education of Handicapped Children and Youth, prior to repeal by Pub. L. 99–457, title IV, §407, Oct. 8, 1986, 100 Stat. 1177.
 

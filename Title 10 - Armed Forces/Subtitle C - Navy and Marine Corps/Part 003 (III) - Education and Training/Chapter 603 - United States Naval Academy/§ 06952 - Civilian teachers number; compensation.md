@@ -4,7 +4,7 @@
 
 (b) The compensation of persons employed under this section is as prescribed by the Secretary.
 
-(c) The Secretary, to the extent he considers proper, may delegate the authority conferred bythis section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
+(c) The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 428.)
 

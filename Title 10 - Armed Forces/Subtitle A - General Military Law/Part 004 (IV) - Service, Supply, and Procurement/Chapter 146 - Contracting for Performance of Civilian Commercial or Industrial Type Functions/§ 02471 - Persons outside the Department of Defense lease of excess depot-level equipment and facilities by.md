@@ -18,13 +18,23 @@ Limitations.—A lease under subsection (a) may be entered into only if—
 
 (c)
 
-Credit to Treasury.—Any reimbursement (including the payment of rental costs) received under this section shall be credited to the Treasury as miscellaneous receipts.
+Conformance With Authority Under Section 2667.—The provisions of subsection (d) of section 2667 of this title shall apply to this section in the same manner as such provisions are applicable under that section.
 
-(Added Pub. L. 103–337, div. A, title III, §336(a), Oct. 5, 1994, 108 Stat. 2717; amended Pub. L. 104–106, div. A, title XV, §1503(a)(26), Feb. 10, 1996, 110 Stat. 512.)
+(Added Pub. L. 103–337, div. A, title III, §336(a), Oct. 5, 1994, 108 Stat. 2717; amended Pub. L. 104–106, div. A, title XV, §1503(a)(26), Feb. 10, 1996, 110 Stat. 512; Pub. L. 105–85, div. A, title III, §361(b)(1), Nov. 18, 1997, 111 Stat. 1701.)
 
 #### Amendments
+
+1997—Subsec. (c). Pub. L. 105–85 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+
+“(c)
+
+Credit to Treasury.—Any reimbursement (including the payment of rental costs) received under this section shall be credited to the Treasury as miscellaneous receipts.”
 
 1996—Subsec. (b)(2). Pub. L. 104–106, §1503(a)(26)(A), inserted “by” after “as determined”.
 
 Subsec. (b)(3). Pub. L. 104–106, §1503(a)(26)(B), inserted “of” after “arising out”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2474 of this title.
 

@@ -28,7 +28,7 @@
 | :--- | :---: | ---: |
 | [<b>241.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20241%20-%20General/README.md) | <b>General</b> | <b>24101</b> |
 | [<b>243.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20243%20-%20Amtrak/README.md) | <b>Amtrak</b> | <b>24301</b> |
-| [<b>245.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20245%20-%20Amtrak%20Commuter/README.md) | <b>Amtrak Commuter</b> | <b>24501</b> |
+| <b>\[245.</b> | <b>Repealed.\]</b> |  |
 | [<b>247.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20247%20-%20Amtrak%20Route%20System/README.md) | <b>Amtrak Route System</b> | <b>24701</b> |
 | [<b>249.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20249%20-%20Northeast%20Corridor%20Improvement%20Program/README.md) | <b>Northeast Corridor Improvement Program</b> | <b>24901</b> |
 
@@ -52,6 +52,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–134, title I, §106(a), Dec. 2, 1997, 111 Stat. 2573, struck out item for chapter 245 “Amtrak Commuter”.
 
 1996—Pub. L. 104–287, §5(56)(B), Oct. 11, 1996, 110 Stat. 3394, added item for chapter 283.
 

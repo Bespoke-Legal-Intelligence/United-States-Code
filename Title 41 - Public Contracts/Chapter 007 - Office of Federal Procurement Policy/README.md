@@ -74,7 +74,6 @@
 | (d) | Additional responsibilities of membership. |
 | (e) | Governing policies. |
 | (f) | General authority with respect to FAR. |
-| (g) | Reports. |
 | [422\.](%C2%A7%2000422%20-%20Cost%20Accounting%20Standards%20Board.md) | Cost Accounting Standards Board. |
 | (a) | Establishment; membership; terms. |
 | (b) | Senior staff. |
@@ -102,25 +101,21 @@
 | (a) | Nonstandard contract clauses. |
 | (b) | Construction of certification requirements. |
 | (c) | Prohibition on certification requirements. |
-| [426\.](%C2%A7%2000426%20-%20Federal%20acquisition%20computer%20network%20%28FACNET%29%20architecture.md) | Federal acquisition computer network (FACNET) architecture. |
+| [426\.](%C2%A7%2000426%20-%20Use%20of%20electronic%20commerce%20in%20Federal%20procurement.md) | Use of electronic commerce in Federal procurement. |
 | (a) | In general. |
-| (b) | Functions of FACNET. |
-| (c) | Notice and solicitation regulations. |
-| (d) | “Architecture” defined. |
-| [426a.](%C2%A7%2000426a%20-%20Federal%20acquisition%20computer%20network%20implementation.md) | Federal acquisition computer network implementation. |
-| (a) | Certification of FACNET capability in procuring activities and agencies. |
-| (b) | Certification of Government-wide FACNET capability. |
-| (c) | Implementation of interim FACNET capability. |
-| (d) | Implementation of full FACNET capability. |
-| (e) | Eligible contracts. |
+| (b) | Applicable standards. |
+| (c) | Agency procedures. |
+| (d) | Implementation. |
+| (e) | Report. |
+| (f) | “Electronic commerce” defined. |
+| [426a.](%C2%A7%2000426a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7850%28b%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201848.md) | Repealed. |
 | [427\.](%C2%A7%2000427%20-%20Simplified%20acquisition%20procedures.md) | Simplified acquisition procedures. |
 | (a) | Requirement. |
 | (b) | Prohibition on dividing purchases. |
 | (c) | Promotion of competition required. |
 | (d) | Consideration of offers timely received. |
-| (e) | Special rules for use of simplified acquisition procedures. |
-| (f) | Interim reporting rule. |
-| (g) | Special rules for commercial items. |
+| (e) | Interim reporting rule. |
+| (f) | Special rules for commercial items. |
 | [428\.](%C2%A7%2000428%20-%20Procedures%20applicable%20to%20purchases%20below%20micro-purchase%20threshold.md) | Procedures applicable to purchases below micro-purchase threshold. |
 | (a) | Requirements. |
 | (b) | Exclusion for micro-purchases. |
@@ -157,6 +152,10 @@
 | (a) | In general. |
 | (b) | Modular contracting described. |
 | (c) | Implementation. |
+| [435\.](%C2%A7%2000435%20-%20Levels%20of%20compensation%20of%20certain%20contractor%20personnel%20not%20allowable%20as%20costs%20under%20certain%20contracts.md) | Levels of compensation of certain contractor personnel not allowable as costs under certain contracts. |
+| (a) | Determination required. |
+| (b) | Benchmark compensation amount. |
+| (c) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -201,8 +200,8 @@ This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title;
 - [&sect; 00423 - Restrictions on disclosing and obtaining contractor bid or proposal information or source selection information](%C2%A7%2000423%20-%20Restrictions%20on%20disclosing%20and%20obtaining%20contractor%20bid%20or%20proposal%20information%20or%20source%20selection%20information.md)
 - [&sect; 00424 - Repealed. Pub. L. 103&#8211;355, title VIII, &sect;8303(b), Oct. 13, 1994, 108 Stat. 3398](%C2%A7%2000424%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20VIII%2C%20%C2%A78303%28b%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203398.md)
 - [&sect; 00425 - Contract clauses and certifications](%C2%A7%2000425%20-%20Contract%20clauses%20and%20certifications.md)
-- [&sect; 00426 - Federal acquisition computer network (FACNET) architecture](%C2%A7%2000426%20-%20Federal%20acquisition%20computer%20network%20%28FACNET%29%20architecture.md)
-- [&sect; 00426a - Federal acquisition computer network implementation](%C2%A7%2000426a%20-%20Federal%20acquisition%20computer%20network%20implementation.md)
+- [&sect; 00426 - Use of electronic commerce in Federal procurement](%C2%A7%2000426%20-%20Use%20of%20electronic%20commerce%20in%20Federal%20procurement.md)
+- [&sect; 00426a - Repealed. Pub. L. 105&#8211;85, div. A, title VIII, &sect;850(b), Nov. 18, 1997, 111 Stat. 1848](%C2%A7%2000426a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7850%28b%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201848.md)
 - [&sect; 00427 - Simplified acquisition procedures](%C2%A7%2000427%20-%20Simplified%20acquisition%20procedures.md)
 - [&sect; 00428 - Procedures applicable to purchases below micro-purchase threshold](%C2%A7%2000428%20-%20Procedures%20applicable%20to%20purchases%20below%20micro-purchase%20threshold.md)
 - [&sect; 00429 - List of laws inapplicable to contracts not greater than simplified acquisition threshold in Federal Acquisition Regulation](%C2%A7%2000429%20-%20List%20of%20laws%20inapplicable%20to%20contracts%20not%20greater%20than%20simplified%20acquisition%20threshold%20in%20Federal%20Acquisition%20Regulation.md)
@@ -211,3 +210,4 @@ This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title;
 - [&sect; 00432 - Value engineering](%C2%A7%2000432%20-%20Value%20engineering.md)
 - [&sect; 00433 - Acquisition workforce](%C2%A7%2000433%20-%20Acquisition%20workforce.md)
 - [&sect; 00434 - Modular contracting for information technology](%C2%A7%2000434%20-%20Modular%20contracting%20for%20information%20technology.md)
+- [&sect; 00435 - Levels of compensation of certain contractor personnel not allowable as costs under certain contracts](%C2%A7%2000435%20-%20Levels%20of%20compensation%20of%20certain%20contractor%20personnel%20not%20allowable%20as%20costs%20under%20certain%20contracts.md)

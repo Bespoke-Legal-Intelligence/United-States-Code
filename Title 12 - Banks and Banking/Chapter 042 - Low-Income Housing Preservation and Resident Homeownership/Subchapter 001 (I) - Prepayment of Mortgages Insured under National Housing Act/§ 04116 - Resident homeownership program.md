@@ -24,7 +24,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (2) Approval of method of conversion and limitation on conditions of approval
 
-&emsp;The Secretary shall approve the method for converting the housing to homeownership, which may involve acquisition of ownership interests in, or shares representing, the units in a project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and feesimple ownership (including condominium ownership). The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.
+&emsp;The Secretary shall approve the method for converting the housing to homeownership, which may involve acquisition of ownership interests in, or shares representing, the units in a project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership). The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.
 
 #### (3) Required conditions
 
@@ -78,7 +78,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (D) Use of recaptured funds
 
-&emsp;&emsp;Any net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this paragraph shall be paid to the HOME Investment Trust Fund for the unit of general local government in which the housing is located. If the housing is located in a unit of general local government that is not a participating jurisdiction (as such term is defined in section 12704 of title 42), any such net sales proceeds shall be paid to the HOME Investment Trust Fund for the State in which the housing is located. With respect to any proceeds transferred to a HOME Investment Trust Fund under this subparagraph, the Secretary shall take such actions as are necessary to ensure that the proceeds shall be immediately available for eligible activities to expand the supply of affordable housing under section12742 of title 42. The Secretary shall require the maintenance of any records necessary to calculate accurately payments due under this paragraph.
+&emsp;&emsp;Any net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this paragraph shall be paid to the HOME Investment Trust Fund for the unit of general local government in which the housing is located. If the housing is located in a unit of general local government that is not a participating jurisdiction (as such term is defined in section 12704 of title 42), any such net sales proceeds shall be paid to the HOME Investment Trust Fund for the State in which the housing is located. With respect to any proceeds transferred to a HOME Investment Trust Fund under this subparagraph, the Secretary shall take such actions as are necessary to ensure that the proceeds shall be immediately available for eligible activities to expand the supply of affordable housing under section 12742 of title 42. The Secretary shall require the maintenance of any records necessary to calculate accurately payments due under this paragraph.
 
 #### (6) Protection of nonpurchasing families
 
@@ -106,7 +106,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (A) Maintenance
 
-&emsp;&emsp;Each resident council shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such resident council of the proceeds of assistance received under this subchapter (including any proceeds from sales under paragraphs (4) and (5)(D)), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
+&emsp;&emsp;Each resident council shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such resident council of the proceeds of assistance received under this subchapter (including any proceeds from sales under paragraphs (4) and (5)(D)), the total cost ofthe homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
 
 #### (B) Access
 

@@ -1,5 +1,5 @@
 
-23 U.S.C.<br>United States Code, 1996 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
+23 U.S.C.<br>United States Code, 1997 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 23—HIGHWAYS
 

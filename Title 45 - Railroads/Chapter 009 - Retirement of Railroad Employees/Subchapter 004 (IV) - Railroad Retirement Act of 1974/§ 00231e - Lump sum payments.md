@@ -54,7 +54,7 @@
 
 (2) The lump sum provided under subdivision (<i>l</i>) <sup>1</sup> of this subsection shall be in an amount equal to the product of (A) the compensation attributable to the additional months of service which would have been credited to the individual due to the receipt of payments in the nature of separation or severance pay pursuant to section 231b(i)(4) of this title if such individual had remained in an employment relation to one or more employers or had continued to be an employee representative and (B) the rate of tax, or rates of tax, imposed on the compensation described in clause (A) of this subdivision by section 3201(b) of title 26.
 
-(Aug. 29, 1935, ch. 812, §6, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Oct. 16, 1974, Pub. L. 93–445, title I, §101, 88 Stat. 1334; amended Aug. 13, 1981, Pub. L. 97–35, title XI, §1121, 95 Stat. 637; Aug. 12, 1983, Pub. L. 98–76, title IV, §408, 97 Stat. 435; Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095; Nov. 10, 1988, Pub. L. 100–647, title VII, §7301, 102 Stat. 3776.)
+(Aug. 29, 1935, ch. 812, §6, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1334; amended Pub. L. 97–35, title XI, §1121, Aug. 13, 1981, 95 Stat. 637; Pub. L. 98–76, title IV, §408, Aug. 12, 1983, 97 Stat. 435; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VII, §7301, Nov. 10, 1988, 102 Stat. 3776.)
 
 #### References in Text
 

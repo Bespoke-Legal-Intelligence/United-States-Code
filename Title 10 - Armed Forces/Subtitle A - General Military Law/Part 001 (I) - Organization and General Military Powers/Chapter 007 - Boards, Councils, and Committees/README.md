@@ -13,10 +13,14 @@
 | [179\.](%C2%A7%2000179%20-%20Nuclear%20Weapons%20Council.md) | Nuclear Weapons Council. |
 | [180\.](%C2%A7%2000180%20-%20Service%20academy%20athletic%20programs%20review%20board.md) | Service academy athletic programs: review board. |
 | [181\.](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md) | Joint Requirements Oversight Council. |
+| [182\.](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md) | Center for Excellence in Disaster Management and Humanitarian Assistance. |
+| [183\.](%C2%A7%2000183%20-%20Advisory%20committees%20annual%20justification%20required.md) | Advisory committees: annual justification required. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1997—Pub. L. 105–85, div. A, title III, §382(a)(2), title IX, §904(b), Nov. 18, 1997, 111 Stat. 1711, 1855, added items 182 and 183.
 
 1996—Pub. L. 104–106, div. A, title IX, §905(a)(2), Feb. 10, 1996, 110 Stat. 404, added item 181.
 
@@ -46,3 +50,5 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00179 - Nuclear Weapons Council](%C2%A7%2000179%20-%20Nuclear%20Weapons%20Council.md)
 - [&sect; 00180 - Service academy athletic programs review board](%C2%A7%2000180%20-%20Service%20academy%20athletic%20programs%20review%20board.md)
 - [&sect; 00181 - Joint Requirements Oversight Council](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md)
+- [&sect; 00182 - Center for Excellence in Disaster Management and Humanitarian Assistance](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md)
+- [&sect; 00183 - Advisory committees annual justification required](%C2%A7%2000183%20-%20Advisory%20committees%20annual%20justification%20required.md)

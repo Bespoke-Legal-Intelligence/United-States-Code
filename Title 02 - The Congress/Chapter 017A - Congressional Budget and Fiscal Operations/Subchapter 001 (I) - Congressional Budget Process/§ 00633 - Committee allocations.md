@@ -1,30 +1,52 @@
 ### §633. Committee allocations
 
-#### (a) Allocation of totals
+#### (a) Committee spending allocations
 
-(1) For the House of Representatives, the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall include an estimated allocation, based upon such concurrent resolution as recommended in such conference report, of the appropriate levels of total budget outlays, total new budget authority, and total entitlement authority among each committee of the House of Representatives which has jurisdiction over laws, bills and resolutions providing such new budget authority,<sup>1</sup> or such entitlement authority. The allocation shall, for each committee, divide new budget authority,<sup>1</sup> and entitlement authority between amounts provided or required by law on the date of such conference report (mandatory or uncontrollable amounts), and amounts not so provided or required (discretionary or controllable amounts), and shall make the same division for estimated outlays that would result from such new budget authority.
+#### (1) Allocation among committees
 
-(2) For the Senate, the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall include an estimated allocation, based upon such concurrent resolution as recommended in such conference report, of the appropriate levels of social security outlays for the fiscal year of the resolution and for each of the 4 succeeding fiscal years, total budget outlays and total new budget authority among each committee of the Senate which has jurisdiction over bills and resolutions providing such new budget authority.
+&emsp;The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall include an allocation, consistent with the resolution recommended in the conference report, of the levels for the first fiscal year of the resolution, for at least each of the ensuing 4 fiscal years, and a total for that period of fiscal years (except in the case of the Committee on Appropriations only for the fiscal year of that resolution) of—
 
-#### (b) Reports by committees
+&emsp;&emsp;(A) total new budget authority; and
 
-As soon as practicable after a concurrent resolution on the budget is agreed to—
+&emsp;&emsp;(B) total outlays;
 
-&emsp;(1) the Committee on Appropriations of each House shall, after consulting with the Committee on Appropriations of the other House, (A) subdivide among its subcommittees the allocation of budget outlays and new budget authority allocated to it in the joint explanatory statement accompanying the conference report on such concurrent resolution, and (B) further subdivide the amount with respect to each such subcommittee between controllable amounts and all other amounts; and
+> &emsp;among each committee of the House of Representatives or the Senate that has jurisdiction over legislation providing or creating such amounts.
 
-&emsp;(2) every other committee of the House and Senate to which an allocation was made in such joint explanatory statement shall, after consulting with the committee or committees of the other House to which all or part of its allocation was made, (A) subdivide such allocation among its subcommittees or among programs over which it has jurisdiction, and (B) further subdivide the amount with respect to each subcommittee or program between controllable amounts and all other amounts.
+#### (2) No double counting
 
-> Each such committee shall promptly report to its House the subdivisions made by it pursuant to this subsection.
+&emsp;In the House of Representatives, any item allocated to one committee may not be allocated to another committee.
+
+#### (3) Further division of amounts
+
+#### (A) In the Senate
+
+&emsp;&emsp;In the Senate, the amount allocated to the Committee on Appropriations shall be further divided among the categories specified in section 900(c)(4) of this title and shall not exceed the limits for each category set forth in section 901(c) of this title.
+
+#### (B) In the House
+
+&emsp;&emsp;In the House of Representatives, the amounts allocated to each committee for each fiscal year, other than the Committee on Appropriations, shall be further divided between amounts provided or required by law on the date of filing of that conference report and amounts not so provided or required. The amounts allocated to the Committee on Appropriations shall be further divided—
+
+&emsp;&emsp;&emsp;(i) between discretionary and mandatory amounts or programs, as appropriate; and
+
+&emsp;&emsp;&emsp;(ii) consistent with the categories specified in section 900(c)(4) of this title.
+
+#### (4) Amounts not allocated
+
+&emsp;In the House of Representatives or the Senate, if a committee receives no allocation of new budget authority or outlays, that committee shall be deemed to have received an allocation equal to zero for new budget authority or outlays.
+
+#### (5) Adjusting allocation of discretionary spending in the House of Representatives
+
+&emsp;(A) If a concurrent resolution on the budget is not adopted by April 15, the chairman of the Committee on the Budget of the House of Representatives shall submit to the House, as soon as practicable, an allocation under paragraph (1) to the Committee on Appropriations consistent with the discretionary spending levels in the most recently agreed to concurrent resolution on the budget for the appropriate fiscal year covered by that resolution.
+
+&emsp;(B) As soon as practicable after an allocation under paragraph (1) is submitted under this section, the Committee on Appropriations shall make suballocations and report those suballocations to the House of Representatives.
+
+#### (b) Suballocations by Appropriations Committees
+
+As soon as practicable after a concurrent resolution on the budget is agreed to, the Committee on Appropriations of each House (after consulting with the Committee on Appropriations of the other House) shall suballocate each amount allocated to it for the budget year under subsection (a) of this section among its subcommittees. Each Committee on Appropriations shall promptly report to its House suballocations made or revised under this subsection. The Committee on Appropriations of the House of Representatives shall further divide among its subcommittees the divisions made under subsection (a)(3)(B) of this section and promptly report those divisions to the House.
 
 #### (c) Point of order
 
-It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, providing—
-
-&emsp;(1) new budget authority for a fiscal year; or
-
-&emsp;(2) new spending authority as described in section 651(c)(2) of this title for a fiscal year;
-
-> within the jurisdiction of any committee which has received an appropriate allocation of such authority pursuant to subsection (a) of this section for such fiscal year, unless and until such committee makes the allocation or subdivisions required by subsection (b) of this section, in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year.
+After the Committee on Appropriations has received an allocation pursuant to subsection (a) of this section for a fiscal year, it shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report withinthe jurisdiction of that committee providing new budget authority for that fiscal year, until that committee makes the suballocations required by subsection (b) of this section.
 
 #### (d) Subsequent concurrent resolutions
 
@@ -38,7 +60,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### (1) In the House of Representatives
 
-&emsp;After the Congress has completed action on a concurrent resolution on the budget for a fiscal year, it shall not be in order in the House of Representatives to consider any bill, joint resolution, or amendment providing new budget authority for such fiscal year or new entitlement authority effective during such fiscal year, or any conference report on any such bill or joint resolution, if—
+&emsp;After the Congress has completed action on a concurrent resolution on the budget for a fiscal year, it shall not be in order in the House of Representatives to consider any bill, joint resolution, or amendment providing new budget authority for any fiscal year, or any conference report on any such bill or joint resolution, if—
 
 &emsp;&emsp;(A) the enactment of such bill or resolution as reported;
 
@@ -46,35 +68,75 @@ At any time after a committee reports the allocations required to be made under 
 
 &emsp;&emsp;(C) the enactment of such bill or resolution in the form recommended in such conference report,
 
-> &emsp;would cause the appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.
+> &emsp;would cause the applicable allocation of new budget authority made under subsection (a) or (b) of this section for the first fiscal year or the total of fiscal years to be exceeded.
 
 #### (2) In the Senate
 
-&emsp;At any time after the Congress has completed action on the concurrent resolution onthe budget required to be reported under section 632(a) of this title for a fiscal year, it shall not be in order in the Senate to consider any bill, joint resolution, amendment, motion, or conference report, that provides for budget outlays, new budget authority, or new spending authority (as defined in section 651(c)(2) of this title) in excess of (A) the appropriate allocation of such outlays or authority reported under subsection (a) of this section, or (B) the appropriate allocation (if any) of such outlays or authority reported under subsection (b) of this section in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year or provides for social security outlays in excess of the appropriate allocation of social security outlays under subsection (a) of this section for the fiscal year of the resolution or for the total of that year and the 4 succeeding fiscal years. Subparagraph (A) shall not apply to any bill, resolution, amendment, motion, or conference report that is within the jurisdiction of the Committee on Appropriations. In applying this paragraph—
+&emsp;After a concurrent resolution on the budget is agreed to, it shall not be in order in the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause—
 
-&emsp;&emsp;(A) estimated social security outlays shall be deemed to be reduced by the excess of estimated social security revenues (including social security revenues provided for in the bill, resolution, amendment, or conference report with respect to which this paragraph is applied) over the appropriate level of social security revenues specified in the most recently adopted concurrent resolution on the budget;
+&emsp;&emsp;(A) in the case of any committee except the Committee on Appropriations, the applicable allocation of new budget authority or outlays under subsection (a) of this section for the first fiscal year or the total of fiscal years to be exceeded; or
 
-&emsp;&emsp;(B) estimated social security outlays shall be deemed increased by the shortfall of estimated social security revenues (including social security revenues provided for in the bill, resolution, amendment, or conference report with respect to which this paragraph is applied) below the appropriate level of social security revenues specified in the most recently adopted concurrent resolution on the budget; and
+&emsp;&emsp;(B) in the case of the Committee on Appropriations, the applicable suballocation of new budget authority or outlays under subsection (b) of this section to be exceeded.
 
-&emsp;&emsp;(C) no provision of any bill or resolution, or any amendment thereto or conference report thereon, involving a change in chapter 1 of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
+#### (g) Pay-as-you-go exception in the House
 
-> &emsp;The Chairman of the Committee on the Budget of the Senate may file with the Senate appropriately revised allocations under subsection (a) of this section and revised functional levels and aggregates to reflect the application of the preceding sentence. Such revised allocations, functional levels, and aggregates shall be considered as allocations, functional levels, and aggregates contained in the most recently agreed to concurrent resolution on the budget, and the appropriate committees shall report revised allocations pursuant to subsection (b) of this section.
+#### (1) In general
 
-#### (g) Determinations by Budget Committees
+&emsp;(A) Subsection (f)(1) of this section and, after April 15, section 634(a) of this title shall not apply to any bill or joint resolution, as reported, amendment thereto, or conference report thereon if, for each fiscal year covered by the most recently agreed to concurrent resolution on the budget—
 
-For purposes of this section, the levels of new budget authority, spending authority as described in section 651(c)(2) of this title, outlays, and new credit authority for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as the case may be.
+&emsp;&emsp;(i) the enactment of that bill or resolution as reported;
 
-(Pub. L. 93–344, title III, §302, July 12, 1974, 88 Stat. 308; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1044; Pub. L. 101–508, title XIII, §§13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, 104 Stat. 1388–608, 1388–614, 1388–617, 1388–618, 1388–625.)
+&emsp;&emsp;(ii) the adoption and enactment of that amendment; or
+
+&emsp;&emsp;(iii) the enactment of that bill or resolution in the form recommended in that conference report,
+
+> &emsp;would not increase the deficit, and, if the sum of any revenue increases provided in legislation already enacted during the current session (when added to revenue increases, if any, in excess of any outlay increase provided by the legislation proposed for consideration) is at least as great as the sum of the amount, if any, by which the aggregate level of Federal revenues should be increased as set forth in that concurrent resolution and the amount, if any, by which revenues are to be increased pursuant to pay-as-you-go procedures under section 632(b)(8) of this title, if included in that concurrent resolution.
+
+&emsp;(B) Section 642(a) of this title, as that section applies to revenues, shall not apply to any bill, joint resolution, amendment thereto, or conference report thereon if, for each fiscal year covered by the most recently agreed to concurrent resolution on the budget—
+
+&emsp;&emsp;(i) the enactment of that bill or resolution as reported;
+
+&emsp;&emsp;(ii) the adoption and enactment of that amendment; or
+
+&emsp;&emsp;(iii) the enactment of that bill or resolution in the form recommended in that conference report,
+
+> &emsp;would not increase the deficit, and, if the sum of any outlay reductions provided in legislation already enacted during the current session (when added to outlay reductions, if any, in excess of any revenue reduction provided by the legislation proposed for consideration) is at least as great as the sum of the amount, if any, by which the aggregate level of Federal outlays should be reduced as required by that concurrent resolution and the amount, if any, by which outlays are to be reduced pursuant to pay-as-you-go procedures under section 632(b)(8) of this title, if included in that concurrent resolution.
+
+#### (2) Revised allocations
+
+&emsp;(A) As soon as practicable after Congress agrees to a bill or joint resolution that would have been subject to a point of order under subsection (f)(1) of this section but for the exception provided in paragraph (1)(A) or would have been subject to a point of order under section 642(a) of this title but for the exception provided in paragraph (1)(B), the chairman of the committee <sup>1</sup> on the Budget of the House of Representatives shall file with the House appropriately revised allocations under subsection (a) of this section and revised functional levels and budget aggregates to reflect that bill.
+
+&emsp;(B) Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
+
+(Pub. L. 93–344, title III, §302, July 12, 1974, 88 Stat. 308; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1044; Pub. L. 101–508, title XIII, §§13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, 104 Stat. 1388–608, 1388–614, 1388–617, 1388–618, 1388–625; Pub. L. 105–33, title X, §10106, Aug. 5, 1997, 111 Stat. 680.)
 
 #### References in Text
 
-The Internal Revenue Code of 1986, referred to in subsec. (f)(2)(C), is classified generally to Title 26, Internal Revenue Code.
+This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
 Section was formerly classified to section 1323 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+
+1997—Subsec. (a). Pub. L. 105–33, §10106(a), added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
+
+Subsec. (b). Pub. L. 105–33, §10106(a), added subsec. (b) and struck out former subsec. (b) which required committees of each House to subdivide among their subcommittees the allocations of budget outlays and new budget authority allocated to them in joint explanatory statement accompanying conference report on concurrent resolution on budget and required further subdivisions of such allocations by subcommittees.
+
+Subsec. (c). Pub. L. 105–33, §10106(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, providing—
+
+&emsp;“(1) new budget authority for a fiscal year; or
+
+&emsp;“(2) new spending authority as described in section 651(c)(2) of this title for a fiscal year;
+
+> within the jurisdiction of any committee which has received an appropriate allocation of such authority pursuant to subsection (a) of this section for such fiscal year, unless and until such committee makes the allocation or subdivisions required by subsection (b) of this section, in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year.”
+
+Subsec. (f)(1). Pub. L. 105–33, §10106(c)(1), substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscal year or new entitlement authority effective during such fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) of this section for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
+
+Subsec. (f)(2). Pub. L. 105–33, §10106(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text provided that consideration in the Senate was not in order for certain bills, joint resolutions, amendments, motions, or conference reports that provided for budget outlays, new budget authority, or new spending authority in excess of certain allocations.
+
+Subsec. (g). Pub. L. 105–33, §10106(d), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this section, the levels of new budget authority, spending authority as described in section 651(c)(2) of this title, outlays, and new credit authority for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as the case may be.”
 
 1990—Subsec. (a)(1). Pub. L. 101–508, §13201(b)(3)(A), substituted “and total entitlement authority” for “total entitlement authority, and total credit authority”, “or such entitlement authority” for “such entitlement authority, or such credit authority”, and “and entitlement authority” for “entitlement authority, and credit authority”.
 
@@ -128,17 +190,9 @@ Amendment by section 13303(c) of Pub. L. 101–508 applicable with respect to fi
 
 Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
 
-#### Senate Waiver of Point of Order Provision
-
-Waiver or suspension of subsec. (c) or (f) of this section only by affirmative vote of three-fifths of the Senate, except with regard to joint resolutions reported or discharged pursuant to section 904(a) of this title, see section 271(b) of Pub. L. 99–177, set out as a Waivers and Suspensions in the Senate note under section 901 of this title.
-
-#### Appeals of Rulings
-
-Appeal of ruling of the Chair on point of order raised under subsec. (c) or (f) of this section sustained only by affirmative vote of three-fifths of the Senate, see section 271(c) of Pub. L. 99–177, set out as a note under section 901 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 632, 639, 641, 642, 651, 665a, 665e, 907a, 907c, 908 of this title.
+This section is referred to in sections 632, 634, 639, 641, 642, 645, 651, 907a, 907c of this title.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -50,5 +50,5 @@ Removals from competitive civil service only for cause, see section 7501 of this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6340, 6367 of this title.
+This section is referred to in sections 6340, 6367, 6391 of this title.
 

@@ -6,7 +6,7 @@ Under regulations prescribed by the Secretary of the Interior, the timber on una
 
 &emsp;(2) in the absence of such a governing body, as determined by the Secretary for the tribe concerned.
 
-(June 25, 1910, ch. 431, §7, 36 Stat. 857; Apr. 30, 1964, Pub. L. 88–301, 78 Stat. 186; Oct. 31, 1988, Pub. L. 100–580, §13, 102 Stat. 2936.)
+(June 25, 1910, ch. 431, §7, 36 Stat. 857; Pub. L. 88–301, Apr. 30, 1964, 78 Stat. 186; Pub. L. 100–580, §13, Oct. 31, 1988, 102 Stat. 2936.)
 
 #### Amendments
 

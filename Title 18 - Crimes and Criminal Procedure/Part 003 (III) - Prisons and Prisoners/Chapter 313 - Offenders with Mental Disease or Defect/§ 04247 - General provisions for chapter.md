@@ -12,9 +12,11 @@ Definitions.—As used in this chapter—
 
 &emsp;&emsp;(C) drug, alcohol, and other treatment programs that will assist the individual in overcoming his psychological or physical dependence; and
 
-&emsp;&emsp;(D) organized physical sports and recreation programs; and
+&emsp;&emsp;(D) organized physical sports and recreation programs;
 
-&emsp;(2) “suitable facility” means a facility that is suitable to provide care or treatment given the nature of the offense and the characteristics of the defendant.
+&emsp;(2) “suitable facility” means a facility that is suitable to provide care or treatment given the nature of the offense and the characteristics of the defendant; and
+
+&emsp;(3) “State” includes the District of Columbia.
 
 (b)
 
@@ -22,7 +24,7 @@ Psychiatric or Psychological Examination.—A psychiatric or psychological exami
 
 (c)
 
-Psychiatric or Psychological Reports.—A psychiatric or psychological report ordered pursuant to this chapter shall be prepared by the examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to thecounsel for the person examined and to the attorney for the Government, and shall include—
+Psychiatric or Psychological Reports.—A psychiatric or psychological report ordered pursuant to this chapter shall be prepared by the examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to the counsel for the person examined and to the attorney for the Government, and shall include—
 
 &emsp;(1) the person's history and present symptoms;
 
@@ -52,7 +54,7 @@ Periodic Report and Information Requirements.—(1) The director of the facility
 
 &emsp;(A) section 4241 shall prepare semiannual reports; or
 
-&emsp;(B) section 4243, 4244, 4245, or 4246 shall prepare annual reports concerning the mental condition of the person and containing recommendations concerning the need for his continued hospitalization. The reports shall be submitted to the court that ordered the person's commitment to the facility and copies of the reports shall be submitted to such other persons as the court may direct. A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.
+&emsp;(B) section 4243, 4244, 4245, or 4246 shall prepare annual reports concerning the mental condition of the person and containing recommendations concerning the need for his continued hospitalization. The reports shall be submitted to the court that ordered the person's commitment to the facility and copies ofthe reports shall be submitted to such other persons as the court may direct. A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.
 
 (2) The director of the facility in which a person is hospitalized pursuant to section 4241, 4243, 4244, 4245, or 4246 shall inform such person of any rehabilitation programs that are available for persons hospitalized in that facility.
 
@@ -80,9 +82,9 @@ Authority and Responsibility of the Attorney General.—The Attorney General—
 
 &emsp;(D) shall consult with the Secretary of the Department of Health and Human Services in the general implementation of the provisions of this chapter and in the establishment of standards for facilities used in the implementation of this chapter.
 
-(j) This chapter does not apply to a prosecution under an Act of Congress applicable exclusively to the District of Columbia or the Uniform Code of Military Justice.
+(j) Sections 4241, 4242, 4243, and 4244 do not apply to a prosecution under an Act of Congress applicable exclusively to the District of Columbia or the Uniform Code of Military Justice.
 
-(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Oct. 12, 1984, Pub. L. 98–473, title II, §403(a), 98 Stat. 2065; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7044, 7047(a), 102 Stat. 4400, 4401; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330003(d), 108 Stat. 2141.)
+(Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Oct. 12, 1984, Pub. L. 98–473, title II, §403(a), 98 Stat. 2065; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7044, 7047(a), 102 Stat. 4400, 4401; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330003(d), 108 Stat. 2141; Aug. 5, 1997, Pub. L. 105–33, title XI, §11204(2), (3), 111 Stat. 739.)
 
 #### References in Text
 
@@ -92,6 +94,10 @@ The Uniform Code of Military Justice, referred to in subsec. (j), is classified 
 
 #### Amendments
 
+1997—Subsec. (a)(3). Pub. L. 105–33, §11024(2)(C), added par. (3).
+
+Subsec. (j). Pub. L. 105–33, §11024(3), substituted “Sections 4241, 4242, 4243, and 4244 do” for “This chapter does”.
+
 1994—Subsec. (h). Pub. L. 103–322 substituted “subsection (e) of section 4241, 4244, 4245, or 4246, or subsection (f) of section 4243,” for “subsection (e) of section 4241, 4243, 4244, 4245, or 4246,”.
 
 1988—Subsec. (b). Pub. L. 100–690, §7047(a), substituted “psychologist” for “clinical psychologist” in first sentence.
@@ -99,6 +105,10 @@ The Uniform Code of Military Justice, referred to in subsec. (j), is classified 
 Subsec. (e)(1)(B). Pub. L. 100–690, §7044, inserted at end “A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.”
 
 1984—Pub. L. 98–473 amended section generally, substituting “General provisions for chapter” for “Alternate procedure of expiration of sentence” in section catchline, and substituting provisions relating to definitions, examinations, reports, etc., as applicable to chapter, for provisions relating to powers and duties regarding alternate procedure on expiration of sentence of prisoner.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of this title.
 
 #### Cross References
 

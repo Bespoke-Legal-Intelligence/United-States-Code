@@ -6,7 +6,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 #### (b) Commission and States
 
-(1) Before proceeding to sink shafts at the Yucca Mountain site, the Secretary shall submit for such candidate site to the Commission and to the Governor or legislature of the State of Nevada, for their review and comment—
+(1) Before proceeding to sink shafts at the Yucca Mountain site, the Secretary shall submitfor such candidate site to the Commission and to the Governor or legislature of the State of Nevada, for their review and comment—
 
 &emsp;(A) a general plan for site characterization activities to be conducted at such candidate site, which plan shall include—
 
@@ -24,7 +24,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 &emsp;(C) a conceptual repository design that takes into account likely site-specific requirements.
 
-(2) Before proceeding to sink shafts at the Yucca Mountain site, the Secretary shall (A) make available to the public the site characterization plan described in paragraph (1); and (B) hold public hearings in the vicinity of such candidate site to inform the residents of the area inwhich such candidate site is located of such plan, and to receive their comments.
+(2) Before proceeding to sink shafts at the Yucca Mountain site, the Secretary shall (A) make available to the public the site characterization plan described in paragraph (1); and (B) hold public hearings in the vicinity of such candidate site to inform the residents of the area in which such candidate site is located of such plan, and to receive their comments.
 
 (3) During the conduct of site characterization activities at the Yucca Mountain site, the Secretary shall report not less than once every 6 months to the Commission and to the Governor and legislature of the State of Nevada, on the nature and extent of such activities and the information developed from such activities.
 
@@ -84,7 +84,7 @@ Subsec. (c)(2). Pub. L. 100–202 and Pub. L. 100–203, §5011(g)(2), amended p
 
 Subsec. (c)(3), (4). Pub. L. 100–202 and Pub. L. 100–203, §5011(g)(3), amended subsec. (c) identically, adding par. (3) and striking out former pars. (3) and (4) which read as follows:
 
-“(3) If site characterization activities are terminated at a candidate site for any reason, the Secretary shall (A) notify the Congress, the Governors and legislatures of all States in which candidate sites are located, and the governing bodies of all affected Indian tribes where candidate sites are located, of such termination and the reasons for such termination; and (B) remove any high-level radioactive waste, spent nuclear fuel, or otherradioactive materials at or in such candidate site as promptly as practicable.
+“(3) If site characterization activities are terminated at a candidate site for any reason, the Secretary shall (A) notify the Congress, the Governors and legislatures of all States in which candidate sites are located, and the governing bodies of all affected Indian tribes where candidate sites are located, of such termination and the reasons for such termination; and (B) remove any high-level radioactive waste, spent nuclear fuel, or other radioactive materials at or in such candidate site as promptly as practicable.
 
 “(4) If a site is determined to be unsuitable for application for a construction authorization for a repository, the Secretary shall take reasonable and necessary steps to reclaim the site and to mitigate any significant adverse environmental impacts caused by site characterization activities.”
 

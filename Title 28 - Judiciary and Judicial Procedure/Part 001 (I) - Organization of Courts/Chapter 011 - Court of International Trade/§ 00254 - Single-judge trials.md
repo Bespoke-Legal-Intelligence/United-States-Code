@@ -2,7 +2,7 @@
 
 Except as otherwise provided in section 255 of this title, the judicial power of the Court of International Trade with respect to any action, suit or proceeding shall be exercised by a single judge, who may preside alone and hold a regular or special session of court at the same time other sessions are held by other judges.
 
-(June 25, 1948, ch. 646, 62 Stat. 900; May 24, 1949, ch. 139, §66, 63 Stat. 99; June 2, 1970, Pub. L. 91–271, title I, §106, 84 Stat. 277; Oct. 10, 1980, Pub. L. 96–417, title V, §501(4), 94 Stat. 1742.)
+(June 25, 1948, ch. 646, 62 Stat. 900; May 24, 1949, ch. 139, §66, 63 Stat. 99; Pub. L. 91–271, title I, §106, June 2, 1970, 84 Stat. 277; Pub. L. 96–417, title V, §501(4), Oct. 10, 1980, 94 Stat. 1742.)
 
 #### Historical and Revision Notes
 
@@ -34,11 +34,11 @@ Provisions similar to those relating to the assignment of judges to hear and det
 
 #### Amendments
 
-1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-1970—Pub. L. 91–271 substituted in section catchline “Single-judge trials” for “Divisions; powers and assignments” and substituted provisions in text requiring the judicial power of the Customs Court with respect to any action, suit, or proceeding to be exercised by a single judge, for provisions setting forth the powers of the chief judge of the Customs Court with respect to the organization of such Court into divisions, and the assignment of judges to hear and determine pending cases.
+<b>1970</b>—Pub. L. 91–271 substituted in section catchline “Single-judge trials” for “Divisions; powers and assignments” and substituted provisions in text requiring the judicial power of the Customs Court with respect to any action, suit, or proceeding to be exercised by a single judge, for provisions setting forth the powers of the chief judge of the Customs Court with respect to the organization of such Court into divisions, and the assignment of judges to hear and determine pending cases.
 
-1949—Act May 24, 1949, inserted “to hear or” before “to hear and determine” in third par.
+<b>1949</b>—Act May 24, 1949, inserted “to hear or” before “to hear and determine” in third par.
 
 #### Effective Date of 1980 Amendment
 

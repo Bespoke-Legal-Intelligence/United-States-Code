@@ -16,7 +16,7 @@ Civilian Faculty Members.—(1) The Secretary of Defense may employ as many civi
 
 (3) In this subsection, the term “defense acquisition university” includes the Defense Systems Management College.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L.103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 104–106, div. A, title XV, §1503(a)(16), Feb. 10, 1996, 110 Stat. 512.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 104–106, div. A, title XV, §1503(a)(16), Feb. 10, 1996, 110 Stat. 512.)
 
 #### Amendments
 
@@ -30,11 +30,11 @@ Section 1209(h)(1) of Pub. L. 101–510 provided that: “Subsection (b) of sect
 
 #### Establishment of Initial Defense Acquisition University Structure
 
-Section 1205 of Pub. L. 101–510, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, provided that:
+Section 1205 of Pub. L. 101–510, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(4)(A), Nov. 18, 1997, 111 Stat. 1905, provided that:
 
 “(a)
 
-Establishment of Structure.—Not later than October 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall prescribe regulations for the initial structure for a defense acquisition university under section 1746 of title 10, United States Code (as added by section 1202). The regulations shall include the following:
+Establishment of Structure.—Not later than October 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, shall prescribe regulations for the initial structure for a defense acquisition university undersection 1746 of title 10, United States Code (as added by section 1202). The regulations shall include the following:
 
 &emsp;“(1) Operation under a charter developed by the Secretary of Defense.
 

@@ -2,7 +2,7 @@
 
 (a) For the purpose of carrying into effect the provisions of this chapter there is authorized to be appropriated an amount not exceeding $10,000,000, and the appropriations made pursuant to this authorization shall constitute a fund to be known as the Foreign Service Building Fund, to remain available until expended. Under this authorization not more than $2,000,000 shall be appropriated for any one year, but within the total authorization provided in this chapter the Secretary of State may enter into contracts for the acquisition of the buildings and grounds authorized by this chapter. In the case of the buildings and grounds authorized by this chapter, after the initial alterations, repairs, and furnishing have been completed, subsequent expenditures for such purposes may be made out of the appropriations authorized by this chapter in amounts authorized by the Congress each fiscal year.
 
-(b) For the purpose of carrying into effect the provisions of this chapter there is authorized to be appropriated, in addition to amounts previously authorized, an amount not to exceed $90,000,000, which shall be available exclusivelyfor payments representing the value, in whole or in part, of property or credits in accordance with the provisions of section 295b <sup>1</sup> of this title. Sums appropriated pursuant to this authorization shall remain available until expended.
+(b) For the purpose of carrying into effect the provisions of this chapter there is authorized to be appropriated, in addition to amounts previously authorized, an amount not to exceed $90,000,000, which shall be available exclusively for payments representing the value, in whole or in part, of property or credits in accordance with the provisions of section 295b <sup>1</sup> of this title. Sums appropriated pursuant to this authorization shall remain available until expended.
 
 (c) For the purpose of carrying into effect the provisions of this chapter there is hereby authorized to be appropriated, in addition to amounts previously authorized, an amount not to exceed $10,000,000, which shall remain available until expended.
 
@@ -70,7 +70,7 @@
 
 (h) In addition to amounts authorized before November 29, 1975, there is authorized to be appropriated to the Secretary of State—
 
-&emsp;(1) for acquisition by purchase or construction (including acquisition of leaseholds) ofsites and buildings in foreign countries under this chapter, and for major alterations of buildings acquired under this chapter, the following sums—
+&emsp;(1) for acquisition by purchase or construction (including acquisition of leaseholds) of sites and buildings in foreign countries under this chapter, and for major alterations of buildings acquired under this chapter, the following sums—
 
 &emsp;&emsp;(A) for use in Europe, not to exceed $225,000 for fiscal year 1977;
 
@@ -90,7 +90,7 @@
 
 (3) There are hereby authorized to be appropriated to the Secretary of State such additional or supplemental amounts as may be necessary for increases in salary, pay, retirement, or other employee benefits authorized by law.
 
-(May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Sept. 8, 1960, Pub. L. 86–723, §49, 74 Stat. 847; Aug. 12, 1963, Pub. L. 88–94, §§1, 2(d), 77 Stat. 121, 122; Aug. 10, 1964, Pub. L. 88–414, 78 Stat. 387; May 21, 1965, Pub. L. 89–22, 79 Stat. 112; Oct. 10, 1966, Pub. L. 89–636, §1, 80 Stat. 881; July 30, 1968, Pub. L. 90–442, 82 Stat. 461; Dec. 24, 1970, Pub. L. 91–586, 84 Stat. 1578; June 22, 1973, Pub. L. 93–47, 87 Stat. 98; Apr. 12, 1974, Pub. L. 93–263, 88 Stat. 83; Nov. 29, 1975, Pub. L. 94–141, title I, §171, 89 Stat. 760; July 12, 1976, Pub. L. 94–350, title I, §109, 90 Stat. 824; June 15, 1977, Pub. L. 95–45, §3, 91 Stat. 221; 1977 Reorg. Plan No. 2, §§1, 7(a)(18), 9(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1638, 1639; Aug. 24, 1982, Pub. L. 97–241, title III, §303(b), 96 Stat. 291; Dec. 17, 1993, Pub. L. 103–199, title V, §503, 107 Stat. 2327.)
+(May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Pub. L. 86–723, §49, Sept. 8, 1960, 74 Stat. 847; Pub. L. 88–94, §§1, 2(d), Aug. 12, 1963, 77 Stat. 121, 122; Pub. L. 88–414, Aug. 10, 1964, 78 Stat. 387; Pub. L. 89–22, May 21, 1965, 79 Stat. 112; Pub. L. 89–636, §1, Oct. 10, 1966, 80 Stat. 881; Pub. L. 90–442, July 30, 1968, 82 Stat. 461; Pub. L. 91–586, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–47, June 22, 1973, 87 Stat. 98; Pub. L. 93–263, Apr. 12, 1974, 88 Stat. 83; Pub. L. 94–141, title I, §171, Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–350, title I, §109, July 12, 1976, 90 Stat. 824; Pub. L. 95–45, §3, June 15, 1977, 91 Stat. 221; 1977 Reorg. Plan No. 2, §§1, 7(a)(18), 9(a)(1), 42 F.R. 62461, 91 Stat. 1636, 1638, 1639; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–199, title V, §503, Dec. 17, 1993, 107 Stat. 2327.)
 
 #### References in Text
 

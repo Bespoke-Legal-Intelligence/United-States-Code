@@ -40,7 +40,7 @@ In subsection (a) the words “issued to each person entitled thereto” are omi
 
 #### Amendments
 
-1990—Pub. L. 101–510 substituted “Rations” for “Navy ration: composition” in section catchline and amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (c) which specified the contents and quantities of the Navy ration in detail, authorized issuance of articles in addition to the authorized quantities, and provided for increases in the daily allowance of provisions on certain vessels or at certain stations.
+1990—Pub. L. 101–510 substituted “Rations” for “Navy ration: composition” in section catchline and amendedtext generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (c) which specified the contents and quantities of the Navy ration in detail, authorized issuance of articles in addition to the authorized quantities, and provided for increases in the daily allowance of provisions on certain vessels or at certain stations.
 
 #### Delegation of Authority
 

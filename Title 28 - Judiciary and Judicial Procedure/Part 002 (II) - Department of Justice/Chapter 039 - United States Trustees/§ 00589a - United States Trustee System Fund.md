@@ -20,65 +20,63 @@
 
 &emsp;(9) printing.
 
-(b) There shall be deposited in the Fund—
+(b) For the purpose of recovering the cost of services of the United States Trustee System, there shall be deposited as offsetting collections to the appropriation “United States Trustee System Fund”, to remain available until expended, the following—
 
-&emsp;(1) 23.08 per centum of the fees collected under section 1930(a)(1) of this title;
+&emsp;(1) 23.08 percent of the fees collected under section 1930(a)(1) of this title;
 
-&emsp;(2) 37.5 per centum of the fees collected under section 1930(a)(3) of this title;
+&emsp;(2) one-half of the fees collected under section 1930(a)(3) of this title;
 
 &emsp;(3) one-half of the fees collected under section 1930(a)(4) of this title;
 
-&emsp;(4) one-half of the fees collected under section 1930(a)(5); <sup>1</sup>
+&emsp;(4) one-half of the fees collected under section 1930(a)(5) of this title;
 
-&emsp;(5) 60 per centum of the fees collected under section 1930(a)(6) of this title;
+&emsp;(5) 100 percent of the fees collected under section 1930(a)(6) of this title;
 
-&emsp;(6) three-fourths of the fees collected under the last sentence of section 1930(a) of this title; and
+&emsp;(6) three-fourths of the fees collected under the last sentence of section 1930(a) of this title;
 
-&emsp;(7) the compensation of trustees received under section 330(d) of title 11 by the clerks of the bankruptcy courts.
+&emsp;(7) the compensation of trustees received under section 330(d) of title 11 by the clerks of the bankruptcy courts; and
 
-(c)(1) Except as provided in paragraph (2), amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+&emsp;(8) excess fees collected under section 586(e)(2) of this title.
 
-(2) On November 1, 1989, and on November 1 of each year thereafter, the Secretary of the Treasury shall transfer into the general fund of the Treasury the amount, if any, in the Fund that exceeds 110 percent of—
+(c) Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
-&emsp;(A) the amount appropriated for the entire current fiscal year for the purposes specified in subsection (a), or
-
-&emsp;(B) if no appropriation has been made for the entire current fiscal year, the annual equivalent of the aggregate amount appropriated to date for the current fiscal year for the purposes specified in subsection (a).
-
-(d)(1) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of the expenditures made under this section.
-
-(2) If for each fiscal year in any period of 2 successive fiscal years—
-
-&emsp;(A) the aggregate amount deposited under subsection (b) in the Fund exceeds 110 percent of expenditures for the purposes specified in subsection (a), or
-
-&emsp;(B) the costs incurred for the purposes specified in subsection (a) exceed the aggregate amount deposited under subsection (b) in the Fund,
-
-> then the Attorney General shall include in such report a recommendation regarding the manner in which the fees payable under section 1930(a) of title 28, United States Code, may be modified to cause the annual amount deposited in the Fund to more closely approximate the annual amount expended from the Fund.
+(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 
-(f) For the purpose of recovering the cost of services of the United States Trustee System, there shall be deposited as offsetting collections to the appropriation “United States Trustee System Fund”, to remain available until expended, the following—
+(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18.)
 
-&emsp;(1) 12.5 per centum of the fees collected under section 1930(a)(3) of this title;
+#### Codification
 
-&emsp;(2) 40 per centum of the fees collected under section 1930(a)(6) of this title.
-
-(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164.)
+Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–121, §111(a)(2), substituted “23.08 per centum” for “one-fourth”.
+<b>1996</b>—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revising and restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
+
+Subsec. (b)(5). Pub. L. 104–91, as amended by Pub. L. 104–99, inserted “until a reorganization plan is confirmed” before semicolon.
+
+Subsec. (f)(2). Pub. L. 104–91, as amended by Pub. L. 104–99, substituted “until a reorganization plan is confirmed;” for period at end.
+
+Subsec. (f)(3). Pub. L. 104–91, as amended by Pub. L. 104–99, added par. (3).
+
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–121, §111(a)(2), substituted “23.08 per centum” for “one-fourth”.
 
 Subsec. (b)(2). Pub. L. 103–121, §111(b)(2), substituted “37.5 per centum” for “50 per centum”.
 
 Subsec. (f)(1). Pub. L. 103–121, §111(b)(3), substituted “12.5 per centum” for “16.7 per centum”.
 
-1991—Subsec. (b)(2). Pub. L. 102–140, §111(b)(1), substituted “50 per centum” for “three-fifths”.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–140, §111(b)(1), substituted “50 per centum” for “three-fifths”.
 
 Subsec. (b)(5). Pub. L. 102–140, §111(b)(2), substituted “60 per centum” for “all”.
 
 Subsec. (f). Pub. L. 102–140, §111(c), added subsec. (f).
 
-1989—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title I, §109(c)\] of Pub. L. 104–208 provided that: “Notwithstanding any other provision of law or of this Act, the amendments to 28 U.S.C. 589a made by subsection (b) of this section shall take effect upon enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1993 Amendment
 

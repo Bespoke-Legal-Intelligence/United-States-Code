@@ -2,7 +2,7 @@
 
 The United States Court of Appeals for the Federal Circuit shall review the decision from which an appeal is taken on the record before the Patent and Trademark Office. Upon its determination the court shall issue to the Commissioner its mandate and opinion, which shall be entered of record in the Patent and Trademark Office and shall govern the further proceedings in the case.
 
-(July 19, 1952, ch. 950, 66 Stat. 802; Jan. 2, 1975, Pub. L. 93–596, §1, 88 Stat. 1949; Apr. 2, 1982, Pub. L. 97–164, title I, §163(a)(7), 96 Stat. 49; Nov. 8, 1984, Pub. L. 98–620, title IV, §414(a), 98 Stat. 3363.)
+(July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(a), Nov. 8, 1984, 98 Stat. 3363.)
 
 #### Historical and Revision Notes
 

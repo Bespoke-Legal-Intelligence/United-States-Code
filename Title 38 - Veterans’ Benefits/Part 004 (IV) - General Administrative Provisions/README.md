@@ -1,11 +1,6 @@
 ## PART IV—GENERAL ADMINISTRATIVE PROVISIONS
 
-| Chap. | Sec. |
-| :--- | ---: |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>51.</b>](Chapter%20051%20-%20Claims%2C%20Effective%20Dates%2C%20and%20Payments/README.md) | <b>Claims, Effective Dates, and Payments</b> | <b>5101</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Special%20Provisions%20Relating%20to%20Benefits/README.md) | <b>Special Provisions Relating to Benefits</b> | <b>5301</b> |

@@ -54,7 +54,7 @@ A vessel owner is not eligible for compensation under this section with respect 
 
 &emsp;(B) 25 percent of any resulting economic loss.
 
-> Any amount determined pursuant to subparagraph (A) or (B) shall be reduced to the extent that evidence indicates that negligence by the vessel owner or operator contributed to thecause or the extent of the damage, loss, or destruction and shall be further reduced by the amount of compensation, if any, that the vessel owner or operator has received or will receive with respect to the damage, loss, destruction, or resulting economic loss through insurance, pursuant to any other provision of law, or otherwise.
+> Any amount determined pursuant to subparagraph (A) or (B) shall be reduced to the extent that evidence indicates that negligence by the vessel owner or operator contributed to the cause or the extent of the damage, loss, or destruction and shall be further reduced by the amount of compensation, if any, that the vessel owner or operator has received or will receive with respect to the damage, loss, destruction, or resulting economic loss through insurance, pursuant to any other provision of law, or otherwise.
 
 (3) The initial determination made by the Secretary under paragraph (1) with respect to any application shall—
 
@@ -94,7 +94,7 @@ In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens 
 
 Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining compensation under this section is guilty of a criminal offense and, upon conviction thereof, shall be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or both.
 
-(Aug. 27, 1954, ch. 1018, §10, as added Nov. 18, 1977, Pub. L. 95–194, §2, 91 Stat. 1413; amended Sept. 18, 1978, Pub. L. 95–376, §3(a), 92 Stat. 715; June 28, 1980, Pub. L. 96–289, §4(b), 94 Stat. 606; Dec. 22, 1980, Pub. L. 96–561, title II, §§238(b), 241, 94 Stat. 3300, 3301; Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], 110 Stat. 3009, 3009–41.)
+(Aug. 27, 1954, ch. 1018, §10, as added Pub. L. 95–194, §2, Nov. 18, 1977, 91 Stat. 1413; amended Pub. L. 95–376, §3(a), Sept. 18, 1978, 92 Stat. 715; Pub. L. 96–289, §4(b), June 28, 1980, 94 Stat. 606; Pub. L. 96–561, title II, §§238(b), 241, Dec. 22, 1980, 94 Stat. 3300, 3301; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ In General.—If—
 
 Special Provisions.—(1) Notwithstanding any other provision of law—
 
-&emsp;“(A) any application or filing timely made under subsection (a) shall be treated by the Secretary of Commerce as an application timely made under such section 10(c)(1) \[subsec. (c)(1) of this section\], or as a filing timely made under such section 405(a) \[43U.S.C. 1845(a)\], as the case may be, with respect to the damage, loss, or destruction claimed; and
+&emsp;“(A) any application or filing timely made under subsection (a) shall be treated by the Secretary of Commerce as an application timely made under such section 10(c)(1) \[subsec. (c)(1) of this section\], or as a filing timely made under such section 405(a) \[43 U.S.C. 1845(a)\], as the case may be, with respect to the damage, loss, or destruction claimed; and
 
 &emsp;“(B) any claim for fishing gear loss that was pending on June 1, 1980, before the United States-Union of Soviet Socialist Republics Fisheries Claims Board or the American-Spanish Fisheries Board shall be treated by the Secretary of Commerce as a timely application made, on the date of the enactment of this title \[Dec. 22, 1980\], under such section 10(c)(1) \[subsec. (c)(1) of this section\] for compensation for such loss.”
 

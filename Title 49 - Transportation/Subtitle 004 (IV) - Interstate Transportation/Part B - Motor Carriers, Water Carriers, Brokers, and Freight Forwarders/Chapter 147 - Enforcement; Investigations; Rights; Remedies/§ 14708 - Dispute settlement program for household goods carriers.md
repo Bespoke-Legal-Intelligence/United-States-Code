@@ -14,7 +14,7 @@ Prevention of special advantage.—The arbitration that is offered must be desig
 
 &emsp;(2)
 
-Notice of arbitration procedure.—The carrier must provide the shipper an adequate notice of the availability of neutral arbitration, including a concise easy-to-read, accurate summary of the arbitration procedure, any applicable costs, and disclosure of the legal effects of election to utilize arbitration. Such notice must be given to persons forwhom household goods are to be transported by the carrier before such goods are tendered to the carrier for transportation.
+Notice of arbitration procedure.—The carrier must provide the shipper an adequate notice of the availability of neutral arbitration, including a concise easy-to-read, accurate summary of the arbitration procedure, any applicable costs, and disclosure of the legal effects of election to utilize arbitration. Such notice must be given to persons for whom household goods are to be transported by the carrier before such goods are tendered to the carrier for transportation.
 
 &emsp;(3)
 
@@ -34,7 +34,7 @@ Requests.—The carrier must not require the shipper to agree to utilize arbitra
 
 &emsp;(7)
 
-Oral presentation of evidence.—The arbitrator may provide for an oral presentation of a dispute concerning transportation of household goods by a party to the dispute (or a party's representative), but such oral presentation may be made only if all parties to the dispute expressly agree to such presentation and the date, time, and location of such presentation.
+Oral presentation of evidence.—The arbitrator may provide for an oral presentation of a dispute concerning transportation of household goods by a party to the dispute\(or a party's representative), but such oral presentation may be made only if all parties to the dispute expressly agree to such presentation and the date, time, and location of such presentation.
 
 &emsp;(8)
 

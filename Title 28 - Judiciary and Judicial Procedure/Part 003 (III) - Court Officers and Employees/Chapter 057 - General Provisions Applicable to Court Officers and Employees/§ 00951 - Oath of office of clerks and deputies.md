@@ -12,7 +12,7 @@ Section 512 of title 28, U.S.C., 1940 ed., applied only to the Clerk of the Supr
 
 This section is applicable to the Supreme Court and to all courts established by act of Congress.
 
-The last sentence of section 512 of title 28, U.S.C., 1940 ed., reading “The words ‘So help me God.’ shall beomitted in all cases where an affirmation is admitted instead of an oath,” was omitted as unnecessary because on affirmation such words would not be included. As revised, the section conforms with section 453 of this title providing for the form of judicial oath.
+The last sentence of section 512 of title 28, U.S.C., 1940 ed., reading “The words ‘So help me God.’ shall be omitted in all cases where an affirmation is admitted instead of an oath,” was omitted as unnecessary because on affirmation such words would not be included. As revised, the section conforms with section 453 of this title providing for the form of judicial oath.
 
 Minor changes were made in phraseology.
 

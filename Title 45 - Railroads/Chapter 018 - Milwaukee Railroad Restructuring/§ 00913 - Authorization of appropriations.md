@@ -4,7 +4,7 @@
 
 (b) There is authorized to be appropriated for new career training assistance under section 911 of this title not to exceed $1,500,000.
 
-(c) There is authorized to be appropriated to the Board to carry out its administrative expenses under this chapter and the Rock Island Railroad Transition and Employee Assistance Act \[45 U.S.C. 1001 et seq.\] not to exceed $750,000. Effective October 1, 1980, there is authorized to be appropriated to the Board an additional $1,000,000 to carry out its administrative expenses under this chapter and the Rock Island Railroad Transition and Employee Assistance Act \[45 U.S.C. 1001 et seq.\].
+(c) There is authorized to be appropriated to the Board to carry out its administrative expenses under this chapter and the Rock Island Railroad Transition and Employee Assistance Act \[45 U.S.C. 1001 et seq.\] not to exceed $750,000. Effective October 1, 1980, there is authorized to be appropriated to the Board an additional$1,000,000 to carry out its administrative expenses under this chapter and the Rock Island Railroad Transition and Employee Assistance Act \[45 U.S.C. 1001 et seq.\].
 
 (d) There are authorized to be appropriated $15,000,000 for purposes of providing transaction assistance in accordance with section 825(h)(1)(A) and (B) of this title.
 
@@ -14,7 +14,7 @@
 
 #### References in Text
 
-Section 909 of this title, referred to in subsec. (a), was in the original “section 10”, meaning section 10 of Pub.L. 96–101, Nov. 4, 1979, 93 Stat. 741. Subsecs. (a) to (g) of section 10 are classified to section 909 of this title. Subsec. (h) of section 10 amended section 231f(b)(7) of this title.
+Section 909 of this title, referred to in subsec. (a), was in the original “section 10”, meaning section 10 of Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 741. Subsecs. (a) to (g) of section 10 are classified to section 909 of this title. Subsec. (h) of section 10 amended section 231f(b)(7) of this title.
 
 The Rock Island Railroad Transition and Employee Assistance Act, referred to in subsec. (c), is title I of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, which is classified principally to chapter 19 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

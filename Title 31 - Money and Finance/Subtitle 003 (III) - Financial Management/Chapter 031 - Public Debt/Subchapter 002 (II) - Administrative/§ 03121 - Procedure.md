@@ -20,7 +20,7 @@
 
 (2) An obligation of the Government issued after March 3, 1971, under law may not be redeemed before its maturity to pay a tax imposed by the Government in an amount more than the fair market value of the obligation at the time of its redemption. This paragraph does not apply to a Treasury bill issued under section 3104 of this title.
 
-(c) Under conditions prescribed by the Secretary, an obligation authorized by this chapter may be issued in exchange for an obligation of an agency whose principal and interest are unconditionally guaranteed by the Government at or before maturity.
+(c) Under conditions prescribed by the Secretary, an obligation authorized by this chaptermay be issued in exchange for an obligation of an agency whose principal and interest are unconditionally guaranteed by the Government at or before maturity.
 
 (d) Under conditions prescribed by the Secretary, the Secretary may issue registered bonds in exchange for and instead of coupon bonds that have been or may be issued. The registered bonds shall be similar in all respects to the registered bonds issued under a law authorizing the issue of coupon bonds offered for exchange.
 
@@ -222,7 +222,7 @@ Pub. L. 98–216, §4(a), (b), Feb. 14, 1984, 98 Stat. 6, 7, as amended by Pub. 
 
 &emsp;“(B) the obligation was not required to be in registered form under the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (26 U.S.C. 1 et seq.) as in effect on September 2, 1982.
 
-“(b) The amendment made by section 1(9) of the Act of January 12, 1983 (Public Law 97–452, 96 Stat. 2468) \[amending this section\], applies to an obligation issued under section 3103(a) of title 31, United States Code, after December 31, 1982.”
+“(b) The amendment made by section 1(9) of the Act of January 12, 1983 (Public Law 97–452, 96 Stat. 2468)\[amending this section\], applies to an obligation issued under section 3103(a) of title 31, United States Code, after December 31, 1982.”
 
 #### Transitional and Savings Provisions
 
@@ -250,7 +250,7 @@ Prohibition on Favored Players.—
 
 &emsp;“(1)
 
-In general.—No government securities broker or government securities dealer may receive any advantage, favorable treatment, or other benefit, in connection with the purchase upon issuance of securities issued by the Secretary of the Treasury, which isnot generally available to other government securities brokers or government securities dealers under the regulations governing the sale upon issuance of securities issued by the Secretary of the Treasury.
+In general.—No government securities broker or government securities dealer may receive any advantage, favorable treatment, or other benefit, in connection with the purchase upon issuance of securities issued by the Secretary of the Treasury, which is not generally available to other government securities brokers or government securities dealers under the regulations governing the sale upon issuance of securities issued by the Secretary of the Treasury.
 
 &emsp;“(2)
 
@@ -332,7 +332,7 @@ Report to Congress.—
 
 Report required.—The Secretary of the Treasury shall submit an annual report to the Congress containing the following information with respect to material violations or suspected material violations of regulations of the Secretary relating to auctions and other offerings of securities upon the issuance of such securities by the Secretary:
 
-&emsp;&emsp;“(A) The number of inquiries begun by the Secretary during the year covered by the report regarding such material violations or suspected material violations by any participant in the auction system or any director, officer, or employee of any such participant and the number of inquiries regarding any such violations or suspected violations which remained open at the end of such year.
+&emsp;&emsp;“(A) The number of inquiries begun by the Secretary during the year covered by the report regarding such material violations or suspected material violations by any participant in the auctionsystem or any director, officer, or employee of any such participant and the number of inquiries regarding any such violations or suspected violations which remained open at the end of such year.
 
 &emsp;&emsp;“(B) A brief description of the nature of the violations.
 

@@ -160,5 +160,5 @@ Par. (4)(B). Pub. L. 104–287, §5(27)(B), substituted “after December 31, 19
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 501, 5102, 5901, 14101, 14706, of this title; title 18 section 921; title 29 section 186; title 39 section 5201; title 42 section 4917.
+This section is referred to in sections 501, 5102, 5901, 14101, 14706, 41713 of this title; title 18 section 921; title 29 section 186; title 39 section 5201; title 42 section 4917.
 

@@ -60,7 +60,7 @@
 
 #### (1) Description of sanctions
 
-&emsp;The sanctions to be imposed pursuant to subsection (a)(1) of this section are, except asprovided in paragraph (2) of this subsection, the following:
+&emsp;The sanctions to be imposed pursuant to subsection (a)(1) of this section are, except as provided in paragraph (2) of this subsection, the following:
 
 #### (A) Procurement sanction
 
@@ -108,7 +108,7 @@ The sanctions imposed pursuant to this section shall apply for a period of at le
 
 #### (2) Notification of and report to Congress
 
-&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
+&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), thePresident shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
 
 #### (f) “Foreign person” defined
 

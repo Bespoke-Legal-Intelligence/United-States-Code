@@ -34,7 +34,7 @@ There is imposed for each year after 1980 on the owner or operator of each forei
 
 #### (e) Fund
 
-There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this section. The Fund shall consist of the fees deposited into it as required under subsection (d) of this section. All payments made by the Secretary to carry out this section shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this section. The Fund shall consist of the fees deposited into it as required under subsection (d) of this section. All payments made by the Secretary to carry out this section shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are notcurrently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 #### (f) Prohibited acts
 

@@ -2,7 +2,7 @@
 
 The Virgin Islands consists of two judicial divisions; the Division of Saint Croix, comprising the island of Saint Croix and adjacent islands and cays, and the Division of Saint Thomas and Saint John, comprising the islands of Saint Thomas and Saint John and adjacent islands and cays.
 
-(July 22, 1954, ch. 558, §25, 68 Stat. 507; Nov. 6, 1978, Pub. L. 95–598, title III, §336(b), 92 Stat. 2680; Oct. 5, 1984, Pub. L. 98–454, title VII, §707, title X, §1001, 98 Stat. 1741, 1745; Dec. 12, 1989, Pub. L. 101–219, title II, §203, 103 Stat. 1874.)
+(July 22, 1954, ch. 558, §25, 68 Stat. 507; Pub. L. 95–598, title III, §336(b), Nov. 6, 1978, 92 Stat. 2680; Pub. L. 98–454, title VII, §707, title X, §1001, Oct. 5, 1984, 98 Stat. 1741, 1745; Pub. L. 101–219, title II, §203, Dec. 12, 1989, 103 Stat. 1874.)
 
 #### Amendments
 

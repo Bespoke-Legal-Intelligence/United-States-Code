@@ -18,7 +18,7 @@ An owner granting an easement under subsection (a) of this section shall be requ
 
 &emsp;(1) permits—
 
-&emsp;&emsp;(A) repairs, improvements, and inspections on such land that are necessary to maintain existing public drainage systems if such land is subsequently restored to the condition required by the terms of the easement; and
+&emsp;&emsp;(A) repairs, improvements, and inspections on such land that are necessary to maintainexisting public drainage systems if such land is subsequently restored to the condition required by the terms of the easement; and
 
 &emsp;&emsp;(B) landowners to control public access on the easement areas while identifying access routes to be used for wetland restoration activities and management and easement monitoring;
 
@@ -68,7 +68,7 @@ On the violation of the terms or conditions of the easement or related agreement
 
 The Secretary may enroll land into the wetlands reserve program through an agreement that requires the landowner to restore wetlands on the land, if the agreement does not provide the Secretary with an easement.
 
-(Pub. L. 99–198, title XII, §1237A, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104Stat. 3585; amended Pub. L. 104–127, title III, §333(d), Apr. 4, 1996, 110 Stat. 996.)
+(Pub. L. 99–198, title XII, §1237A, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3585; amended Pub. L. 104–127, title III, §333(d), Apr. 4, 1996, 110 Stat. 996.)
 
 #### Amendments
 

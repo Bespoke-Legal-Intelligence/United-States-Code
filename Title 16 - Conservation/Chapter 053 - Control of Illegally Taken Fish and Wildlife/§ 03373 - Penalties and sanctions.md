@@ -12,11 +12,11 @@
 
 (5) Any civil penalty assessed under this subsection may be remitted or mitigated by the Secretary.
 
-(6) In determining the amount of any penalty assessed pursuant to paragraphs (1) and (2), theSecretary shall take into account the nature, circumstances, extent, and gravity of the prohibited act committed, and with respect to the violator, the degree of culpability, ability to pay, and such other matters as justice may require.
+(6) In determining the amount of any penalty assessed pursuant to paragraphs (1) and (2), the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited act committed, and with respect to the violator, the degree of culpability, ability to pay, and such other matters as justice may require.
 
 #### (b) Hearings
 
-Hearings held during proceedings for the assessment of civil penalties shall be conducted in accordance with section 554 of title 5. The administrative law judge may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Hearings held during proceedings for the assessment of civil penalties shall be conducted in accordance with section 554 of title 5. The administrative law judge may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the UnitedStates and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (c) Review of civil penalty
 
@@ -52,7 +52,7 @@ The Secretary may also suspend, modify, or cancel any Federal hunting or fishing
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which isclassified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Codification
 
@@ -60,7 +60,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–653, §102(a), (c), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than section 3372(b) of this title)” and inserted “and any person who knowingly violates section 3372(d) of this title,” after “any underlying law, treaty, or regulations,”.
+1988—Subsec. (a)(1). Pub. L. 100–653, §102(a), (c), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than section 3372(b) ofthis title)” and inserted “and any person who knowingly violates section 3372(d) of this title,” after “any underlying law, treaty, or regulations,”.
 
 Subsec. (c). Pub. L. 100–653, §103, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary.”
 

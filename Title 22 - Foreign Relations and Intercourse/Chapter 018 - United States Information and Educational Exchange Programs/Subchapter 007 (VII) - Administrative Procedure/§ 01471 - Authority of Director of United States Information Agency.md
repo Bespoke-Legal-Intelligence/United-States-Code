@@ -6,7 +6,7 @@ In carrying out the purposes of this chapter, the Director is authorized, in add
 
 &emsp;(2) to furnish, sell, or rent, by contract or otherwise, educational and information materials and equipment for dissemination to, or use by, peoples of foreign countries;
 
-&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 278a <sup>1</sup> of title40, and any such real property or interests therein which are outside the United States may be acquired without regard to section 255 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
+&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 278a <sup>1</sup> of title 40, and any such real property or interests therein which are outside the United States may be acquired without regard to section 255 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
 
 &emsp;(4) to provide for printing and binding outside the continental limits of the United States, without regard to section 501 of title 44;
 
@@ -16,7 +16,7 @@ In carrying out the purposes of this chapter, the Director is authorized, in add
 
 &emsp;(7) notwithstanding any other provision of law, to carry out projects involving security construction and related improvements for Agency facilities not physically located together with Department of State facilities abroad.
 
-(Jan. 27, 1948, ch. 36, title VIII, §801, 62 Stat. 11; Aug. 14, 1961, Pub. L. 87–139, §11, 75 Stat. 341; 1977 Reorg. Plan No. 2, §§7(a)(1), 8(b), 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1637–1639; Aug. 15, 1979, Pub. L. 96–60, title II, §§203(b)(1), (e), 204(a), 93 Stat. 398–400; Aug. 24, 1982, Pub. L. 97–241, title III, §303(b), 96 Stat. 291; Nov. 22, 1983, Pub. L. 98–164, title II, §217, 97 Stat. 1036; Dec. 22, 1987, Pub. L. 100–204, title II, §205, 101 Stat. 1374; Oct. 28, 1991, Pub. L. 102–138, title II, §203, 105 Stat. 692; Apr. 30, 1994, Pub. L. 103–236, title II, §222, 108 Stat. 421.)
+(Jan. 27, 1948, ch. 36, title VIII, §801, 62 Stat. 11; Pub. L. 87–139, §11, Aug. 14, 1961, 75 Stat. 341; 1977 Reorg. Plan No. 2, §§7(a)(1), 8(b), 9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1637–1639; Pub. L. 96–60, title II, §§203(b)(1), (e), 204(a), Aug. 15, 1979, 93 Stat. 398–400; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title II, §217, Nov. 22, 1983, 97 Stat. 1036; Pub. L. 100–204, title II, §205, Dec. 22, 1987, 101 Stat. 1374; Pub. L. 102–138, title II, §203, Oct. 28, 1991, 105 Stat. 692; Pub. L. 103–236, title II, §222, Apr. 30, 1994, 108 Stat. 421.)
 
 #### References in Text
 
@@ -30,7 +30,7 @@ The classification laws, referred to in par. (5), are classified generally to ch
 
 In par. (4), “section 501 of title 44” substituted for “section 11 of the Act of March 1, 1919 (44 U.S.C. 111)” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
 
-In par. (6), “, with the approval of the Commission on Information and the Commission on Educational Exchange,” was deleted pursuant to Reorg. Plan No. 2 of 1977, §9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished both the United States Advisory Commission on Information, and the United States Advisory Commission on International Educational and Cultural Affairs \[which replaced the Advisory Commission on Educational Exchange\], effective on or before July 1, 1978, at such time as specified by the President.
+In par. (6), “, with the approval of the Commission on Information and the Commission on Educational Exchange,” was deleted pursuant to Reorg. Plan No. 2 of 1977, §9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished both the United States Advisory Commission on Information, and the United States Advisory Commission onInternational Educational and Cultural Affairs \[which replaced the Advisory Commission on Educational Exchange\], effective on or before July 1, 1978, at such time as specified by the President.
 
 In par. (6), “section 5703 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946, as amended, (5 U.S.C. 73b-2)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
@@ -64,7 +64,7 @@ The Commission on Educational Exchange, created by section 1466 of this title, a
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776,set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Contractor Requirements
 

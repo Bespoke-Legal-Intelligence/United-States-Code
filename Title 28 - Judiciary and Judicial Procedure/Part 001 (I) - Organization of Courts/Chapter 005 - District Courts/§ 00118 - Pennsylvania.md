@@ -20,11 +20,11 @@ Pennsylvania is divided into three judicial districts to be known as the Eastern
 
 &emsp;&emsp;Court for the Western District shall be held at Erie, Johnstown, and Pittsburgh.
 
-(June 25, 1948, ch. 646, 62 Stat. 888; June 2, 1970, Pub. L. 91–272, §6, 84 Stat. 297; Nov. 2, 1978, Pub. L. 95–573, §4, 92 Stat. 2458; Oct. 6, 1992, Pub. L. 102–396, title IX, §9161, 106 Stat. 1947.)
+(June 25, 1948, ch. 646, 62 Stat. 888; Pub. L. 91–272, §6, June 2, 1970, 84 Stat. 297; Pub. L. 95–573, §4, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 102–396, title IX, §9161, Oct. 6, 1992, 106 Stat. 1947.)
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §184 (Mar. 3, 1911, ch. 231, §103, 36 Stat. 1123; Mar. 3, 1913, ch. 113, 37 Stat. 730; June 6, 1914, ch. 104, 38 Stat. 385; Sept. 9, 1914, ch. 296, 38 Stat. 713; Apr. 26, 1926, ch. 185, 44 Stat. 324; June 27, 1930, ch. 634, 46 Stat. 820; Aug. 3, 1935, ch. 433, 49 Stat. 514; May 13, 1936, ch. 385, 49 Stat. 1271; June 13, 1938, ch. 351, 52 Stat. 674; Mar. 5, 1942, ch. 143, 56 Stat. 132).
+Based on title 28, U.S.C., 1940 ed., §184 (Mar. 3, 1911, ch. 231, §103, 36 Stat. 1123; Mar. 3, 1913, ch. 113, 37 Stat.730; June 6, 1914, ch. 104, 38 Stat. 385; Sept. 9, 1914, ch. 296, 38 Stat. 713; Apr. 26, 1926, ch. 185, 44 Stat. 324; June 27, 1930, ch. 634, 46 Stat. 820; Aug. 3, 1935, ch. 433, 49 Stat. 514; May 13, 1936, ch. 385, 49 Stat. 1271; June 13, 1938, ch. 351, 52 Stat. 674; Mar. 5, 1942, ch. 143, 56 Stat. 132).
 
 Provisions relating to maintenance of offices at certain places by the clerks and marshals were omitted as covered by sections 541 \[see 561\] and 751 of this title.
 
@@ -42,9 +42,9 @@ By Senate amendment to the bill, Blair County was transferred from the Middle Di
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–396 inserted “Lancaster,” before “Reading”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–396 inserted “Lancaster,” before “Reading”.
 
-1978—Subsec. (c). Pub. L. 95–573 provided for holding court at Johnstown.
+<b>1978</b>—Subsec. (c). Pub. L. 95–573 provided for holding court at Johnstown.
 
-1970—Subsec. (a). Pub. L. 91–272 provided for holding court at Allentown and Reading.
+<b>1970</b>—Subsec. (a). Pub. L. 91–272 provided for holding court at Allentown and Reading.
 

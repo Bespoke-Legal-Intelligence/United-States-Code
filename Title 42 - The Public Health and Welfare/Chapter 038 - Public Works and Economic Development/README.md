@@ -242,6 +242,7 @@ This chapter is referred to in sections 3123, 3142a, 5153 of this title; title 1
 
 - [&sect; 03121 - Congressional findings and statement of purpose](%C2%A7%2003121%20-%20Congressional%20findings%20and%20statement%20of%20purpose.md)
 - [&sect; 03122 - Rural development](%C2%A7%2003122%20-%20Rural%20development.md)
+- [&sect; 03104 - Advance acquisition of land for public purposes](%C2%A7%2003104%20-%20Advance%20acquisition%20of%20land%20for%20public%20purposes.md)
 - [&sect; 03123 - Discrimination on basis of sex prohibited in federally assisted programs](%C2%A7%2003123%20-%20Discrimination%20on%20basis%20of%20sex%20prohibited%20in%20federally%20assisted%20programs.md)
 - [Subchapter 001 (I) - Grants for Public Works and Development Facilities](Subchapter%20001%20%28I%29%20-%20Grants%20for%20Public%20Works%20and%20Development%20Facilities/README.md)
 - [Subchapter 002 (II) - Loans, Loan Guarantees, and Economic Development Revolving Fund](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Loan%20Guarantees%2C%20and%20Economic%20Development%20Revolving%20Fund/README.md)

@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Programs.—The Secretary concerned shall carry out a special separation benefits program under this section. An eligible member of the armed forces may request separation under the program. The request shall be subject to the approval of the Secretary.
+Requirement for Programs.—The Secretary concerned shall carry out a special separation benefits program under this section. Aneligible member of the armed forces may request separation under the program. The request shall be subject to the approval of the Secretary.
 
 (b)
 
@@ -80,7 +80,7 @@ Termination of Program.—(1) Except as provided in paragraph (2), the Secretary
 
 (2) No member of the armed forces may be separated under a program established pursuant to this section after the date of the termination of that program.
 
-(Added Pub. L. 102–190, div. A, title VI, §661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, §1052(15), div. D, title XLIV, §§4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §§502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(b), Oct. 5, 1994, 108 Stat. 2768.)
+(Added Pub. L. 102–190, div. A, title VI, §661(a)(1), Dec. 5, 1991, 105 Stat. 1394; amended Pub. L. 102–484, div. A, title X, §1052(15), div. D, title XLIV, §§4405(a), 4422(a), Oct. 23, 1992, 106 Stat. 2499, 2706, 2718; Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A,title V, §§502, 561(g), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(b), Oct. 5, 1994, 108 Stat. 2768.)
 
 #### Amendments
 

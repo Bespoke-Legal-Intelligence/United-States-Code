@@ -38,7 +38,7 @@ The records of the Department of State and of diplomatic and consular offices of
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–208, §634(a), struck out “personal description (including height, complexion, color of hair and eyes, and marks of identification);” after “United States;”, substituted “applicant, the determination of his eligibility for a nonimmigrant visa,” for “applicant”, and inserted at end “At the discretion of the Secretary of State, application forms for the various classes of nonimmigrant admissions described insection 1101(a)(15) of this title may vary according to the class of visa being requested.”
+1996—Subsec. (c). Pub. L. 104–208, §634(a), struck out “personal description (including height, complexion, color of hair and eyes, and marks of identification);” after “United States;”, substituted “applicant, the determination of his eligibility for a nonimmigrant visa,” for “applicant”, and inserted at end “At the discretion of the Secretary of State, application forms for the various classes of nonimmigrant admissions described in section 1101(a)(15) of this title may vary according to the class of visa being requested.”
 
 Subsec. (e). Pub. L. 104–208, §634(b), in first sentence, substituted “for an immigrant visa” for “required by this section”, and in fourth sentence, substituted “stamp, or other” for “stamp” and struck out “by the consular officer” before “in the alien's passport”.
 

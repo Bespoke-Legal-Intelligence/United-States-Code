@@ -18,7 +18,7 @@ Beginning and Completing Training.—A hazmat employer shall begin the training 
 
 (c)
 
-Certification of Training.—After completing the training, each hazmat employer shall certify, with documentation the Secretary of Transportation may require by regulation,that the hazmat employees of the employer have received training and have been tested on appropriate transportation areas of responsibility, including at least one of the following:
+Certification of Training.—After completing the training, each hazmat employer shall certify, with documentation the Secretary of Transportation may require by regulation, that the hazmat employees of the employer have received training and have been tested on appropriate transportation areas of responsibility, including at least one of the following:
 
 &emsp;(1) recognizing and understanding the Department of Transportation hazardous material classification system.
 
@@ -126,7 +126,7 @@ In subsection (f)(1), the words “(relating to coordination of Federal informat
 
 1994—Subsec. (d). Pub. L. 103–311, §106, in introductory provisions inserted “or duplicate” after “conflict with” and in par. (1) substituted “hazard communication, and hazardous waste operations, and” for “hazardous waste operations and”.
 
-Subsec. (e). Pub. L. 103–311, §119(c)(1), (2), in first sentence substituted “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section.” for “In consultation with the Secretaries of Transportation and Labor and the Administrator, the Director of the National Institute of Environmental Health Sciences may make grants totrain hazmat employees under this section.” and in second sentence inserted “hazmat employee” after “nonprofit”.
+Subsec. (e). Pub. L. 103–311, §119(c)(1), (2), in first sentence substituted “The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section.” for “In consultation with the Secretaries of Transportation and Labor and the Administrator, the Director of the National Institute of Environmental Health Sciences may make grants to train hazmat employees under this section.” and in second sentence inserted “hazmat employee” after “nonprofit”.
 
 Subsec. (g). Pub. L. 103–311, §119(c)(3), added subsec. (g).
 

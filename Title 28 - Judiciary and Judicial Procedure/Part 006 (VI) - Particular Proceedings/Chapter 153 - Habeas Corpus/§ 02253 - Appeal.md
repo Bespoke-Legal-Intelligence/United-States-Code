@@ -1,12 +1,20 @@
 ### §2253. Appeal
 
-In a habeas corpus proceeding before a circuit or district judge, the final order shall be subject to review, on appeal, by the court of appeals for the circuit where the proceeding is had.
+(a) In a habeas corpus proceeding or a proceeding under section 2255 before a district judge, the final order shall be subject to review, on appeal, by the court of appeals for the circuit in which the proceeding is held.
 
-There shall be no right of appeal from such an order in a proceeding to test the validity of a warrant to remove, to another district or place for commitment or trial, a person charged with a criminal offense against the United States, or to test the validity of his detention pending removal proceedings.
+(b) There shall be no right of appeal from a final order in a proceeding to test the validity of a warrant to remove to another district or place for commitment or trial a person charged with a criminal offense against the United States, or to test the validity of such person's detention pending removal proceedings.
 
-An appeal may not be taken to the court of appeals from the final order in a habeas corpus proceeding where the detention complained of arises out of process issued by a State court, unless the justice or judge who rendered the order or a circuit justice or judge issues a certificate of probable cause.
+(c)(1) Unless a circuit justice or judge issues a certificate of appealability, an appeal may not be taken to the court of appeals from—
 
-(June 25, 1948, ch. 646, 62 Stat. 967; May 24, 1949, ch. 139, §113, 63 Stat. 105; Oct. 31, 1951, ch. 655, §52, 65 Stat. 727.)
+&emsp;(A) the final order in a habeas corpus proceeding in which the detention complained of arises out of process issued by a State court; or
+
+&emsp;(B) the final order in a proceeding under section 2255.
+
+(2) A certificate of appealability may issue under paragraph (1) only if the applicant has made a substantial showing of the denial of a constitutional right.
+
+(3) The certificate of appealability under paragraph (1) shall indicate which specific issue or issues satisfy the showing required by paragraph (2).
+
+(June 25, 1948, ch. 646, 62 Stat. 967; May 24, 1949, ch. 139, §113, 63 Stat. 105; Oct. 31, 1951, ch. 655, §52, 65 Stat. 727; Pub. L. 104–132, title I, §102, Apr. 24, 1996, 110 Stat. 1217.)
 
 #### Historical and Revision Notes
 
@@ -26,9 +34,17 @@ This section corrects a typographical error in the second paragraph of section 2
 
 #### Amendments
 
-1951—Act Oct. 31, 1951, substituted “to remove, to another district or place for commitment or trial, a person charged with a criminal offense against the United States, or to test the validity of his” for “of removal issued pursuant to section 3042 of Title 18 or the” in second par.
+<b>1996</b>—Pub. L. 104–132 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
-1949—Act May 24, 1949, substituted “3042” for “3041” in second par.
+“In a habeas corpus proceeding before a circuit or district judge, the final order shall be subject to review, on appeal, by the court of appeals for the circuit where the proceeding is had.
+
+“There shall be no right of appeal from such an order in a proceeding to test the validity of a warrant to remove, to another district or place for commitment or trial, a person charged with a criminal offense against the United States, or to test the validity of his detention pending removal proceedings.
+
+“An appeal may not be taken to the court of appeals from the final order in a habeas corpus proceeding where the detention complained of arises out of process issued by a State court, unless the justice or judge who rendered the order or a circuit justice or judge issues a certificate of probable cause.”
+
+<b>1951</b>—Act Oct. 31, 1951, substituted “to remove, to another district or place for commitment or trial, a person charged with a criminal offense against the United States, or to test the validity of his” for “of removal issued pursuant to section 3042 of Title 18 or the” in second par.
+
+<b>1949</b>—Act May 24, 1949, substituted “3042” for “3041” in second par.
 
 #### Federal Rules of Criminal Procedure
 

@@ -2,9 +2,9 @@
 
 (a) The Chief Information Officer for the Department is designated pursuant to section 3506(a)(2) of title 44.
 
-(b) The Chief Information Officer performs the duties provided for chief information officers of executive agencies under chapter 35 of title 44 and the Clinger-Cohen Act of 1996.
+(b) The Chief Information Officer performs the duties provided for chief information officers of executive agencies under chapter 35 of title 44 and division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.).
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 382; amended Pub. L. 104–106, div. E, title LVI, §5604, Feb. 10, 1996, 110 Stat. 700; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 382; amended Pub. L. 104–106, div. E, title LVI, §5604, Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(3), Nov. 18, 1997, 111 Stat. 1907.)
 
 #### References in Text
 
@@ -18,13 +18,11 @@ Provisions similar to those in this section were contained in section 4(d) of Pu
 
 #### Amendments
 
+1997—Subsec. (b). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
+
 1996—Pub. L. 104–106 substituted “Chief Information Officer” for “Chief Information Resources Officer” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d), relating to designation, powers, and duties of the Chief Information Resources Officer.
 
-Subsec. (b). Pub. L. 104–208 substituted “Clinger-Cohen Act of 1996” for “Information Technology Management Reform Act of 1996”.
-
-#### Effective Date of 1996 Amendments
-
-Amendment by Pub. L. 104–208 effective for fiscal year ending Sept. 30, 1997, see section 101(f) \[title VIII, §807\] of Pub. L. 104–208, set out in a note under section 3512 of Title 31, Money and Finance.
+#### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 

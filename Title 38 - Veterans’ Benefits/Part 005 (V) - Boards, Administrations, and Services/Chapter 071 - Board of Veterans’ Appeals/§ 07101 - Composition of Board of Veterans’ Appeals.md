@@ -12,7 +12,7 @@
 
 (c)(1)(A) The Chairman may from time to time designate one or more employees of the Department to serve as acting members of the Board. Except as provided in subparagraph (B), any such designation shall be for a period not to exceed 90 days, as determined by the Chairman.
 
-(B) An individual designated as an acting member of the Board may continue to serve as an acting member of the Board in the making of any determination on a proceeding for which the individual was designated as an acting member of the Board, notwithstanding the termination of the period of designation of the individual as an acting member of the Board under subparagraph (A) or (C).
+(B) An individual designated as an acting member of the Board may continue to serve as an acting member of the Board in the making of any determination on a proceeding for which the individual was designated as an acting member of the Board, notwithstanding the terminationof the period of designation of the individual as an acting member of the Board under subparagraph (A) or (C).
 
 (C) An individual may not serve as an acting member of the Board for more than 270 days during any one-year period.
 
@@ -62,7 +62,7 @@ Subsec. (b)(3). Pub. L. 103–446, §§201(d)(3), 203, substituted “The Chairm
 
 Subsec. (c)(1). Pub. L. 103–271, §4(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to paragraph (2) of this subsection, the Chairman may from time to time designate employees of the Department to serve as temporary members of the Board. Any such designation shall be for a period of not to exceed one year, as determined by the Chairman. An individual may not serve as a temporary member of the Board for more than 24 months during any 48-month period.”
 
-Subsec. (c)(2), (3). Pub. L. 103–271, §4(a)(2)–(4), redesignated par. (3) as (2), substituted “the number of acting members of the Board designated under such paragraph (1) during the year for which the report is made.” for “the number of temporary Board members designated under this subsection and the number of acting Board members designated under section 7102(a)(2)(A)(ii) of this title during the year for which the report is made.”, and struck out former par. (2) which read as follows: “Designation under paragraph (1) of this subsection of an individual as a temporary member of the Board may not be made when there are fewer than 65 members of the Board.”
+Subsec. (c)(2), (3). Pub. L. 103–271, §4(a)(2)–(4), redesignated par. (3) as (2), substituted “the number of acting members of the Board designated under such paragraph (1) during the year for which the report is made.” for “the number of temporary Board members designated under this subsection and the number of acting Boardmembers designated under section 7102(a)(2)(A)(ii) of this title during the year for which the report is made.”, and struck out former par. (2) which read as follows: “Designation under paragraph (1) of this subsection of an individual as a temporary member of the Board may not be made when there are fewer than 65 members of the Board.”
 
 Subsec. (d)(2)(F). Pub. L. 103–271, §5, added subpar. (F).
 

@@ -6,7 +6,7 @@ As used in this chapter and sections 1346(b) and 2401(b) of this title, the term
 
 “Acting within the scope of his office or employment”, in the case of a member of the military or naval forces of the United States or a member of the National Guard as defined in section 101(3) of title 32, means acting in line of duty.
 
-(June 25, 1948, ch. 646, 62 Stat. 982; May 24, 1949, ch. 139, §124, 63 Stat. 106; July 18, 1966, Pub. L. 89–506, §8, 80 Stat. 307; Dec. 29, 1981, Pub. L. 97–124, §1, 95 Stat. 1666; Nov. 18, 1988, Pub. L. 100–694, §3, 102 Stat. 4564.)
+(June 25, 1948, ch. 646, 62 Stat. 982; May 24, 1949, ch. 139, §124, 63 Stat. 106; Pub. L. 89–506, §8, July 18, 1966, 80 Stat. 307; Pub. L. 97–124, §1, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 100–694, §3, Nov. 18, 1988, 102 Stat. 4564.)
 
 #### Historical and Revision Notes
 
@@ -22,13 +22,13 @@ This section corrects a typographical error in section 2671 of title 28, U.S.C.
 
 #### Amendments
 
-1988—Pub. L. 100–694 inserted “the judicial and legislative branches,” after “departments,” in first par.
+<b>1988</b>—Pub. L. 100–694 inserted “the judicial and legislative branches,” after “departments,” in first par.
 
-1981—Pub. L. 97–124 inserted “members of the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32,” in definition of “Employee of the government” and “or a member of the National Guard as defined in section 101(3) of title 32” in definition of “Acting within the scope of his office or employment”.
+<b>1981</b>—Pub. L. 97–124 inserted “members of the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32,” in definition of “Employee of the government” and “or a member of the National Guard as defined in section 101(3) of title 32” in definition of “Acting within the scope of his office or employment”.
 
-1966—Pub. L. 89–506 expanded definition of “Federal agency” to include military departments.
+<b>1966</b>—Pub. L. 89–506 expanded definition of “Federal agency” to include military departments.
 
-1949—Act May 24, 1949, corrected spelling of “office”.
+<b>1949</b>—Act May 24, 1949, corrected spelling of “office”.
 
 #### Effective Date of 1988 Amendment
 
@@ -78,5 +78,5 @@ Peace Corps volunteers deemed employees of the United States for purposes of thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 8477; title 16 section 4604; title 20 section 4420; title 23 section 307; title 25 section 450f; title 42 section 12555n.
+This section is referred to in title 5 section 8477; title 8 section 1357; title 16 section 4604; title 20 section 4420; title 23 section 307; title 25 section 450f; title 42 section 12555n.
 

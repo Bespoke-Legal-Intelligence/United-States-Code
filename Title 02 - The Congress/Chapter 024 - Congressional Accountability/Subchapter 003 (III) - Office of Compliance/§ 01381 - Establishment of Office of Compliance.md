@@ -16,7 +16,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (1) Specific qualifications
 
-&emsp;Selection and appointment of members of the Board shall be without regard to political affiliation and solely on the basis of fitness to perform the duties of the Office. Members of the Board shall have training or experience in the application of the rights, protections, and remedies under one or more of the laws made applicable under section 1302 of this title.
+&emsp;Selection and appointment of members of the Board shall be without regard to politicalaffiliation and solely on the basis of fitness to perform the duties of the Office. Members of the Board shall have training or experience in the application of the rights, protections, and remedies under one or more of the laws made applicable under section 1302 of this title.
 
 #### (2) Disqualifications for appointments
 

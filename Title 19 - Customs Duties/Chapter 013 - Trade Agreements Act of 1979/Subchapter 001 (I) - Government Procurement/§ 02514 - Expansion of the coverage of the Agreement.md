@@ -16,7 +16,7 @@ The President shall seek to establish in the renegotiation provided for in artic
 
 #### (1) Report in the event of inadequate progress
 
-&emsp;If, during the renegotiations of the Agreement, the President at any time determines that the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement to cover purchases by the entities of the governments of developed countries which are the principal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title. Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title, the President shall further report to such committees appropriate actionsto seek reciprocity in such product sectors with such countries in the area of government procurement.
+&emsp;If, during the renegotiations of the Agreement, the President at any time determines that the renegotiations are not progressing satisfactorily and are not likely to result, within twelve months of the commencement thereof, in an expansion of the Agreement to cover purchases by the entities of the governments of developed countries which are the principal purchasers of goods and equipment in appropriate product sectors, he shall so report to the congressional committees referred to in section 2512(c)(1) of this title. Taking into account the objectives set forth in subsections (a) and (b) of this section and the factors required to be analyzed under section 2512(c) of this title, the President shall further report to such committees appropriate actions to seek reciprocity in such product sectors with such countries in the area of government procurement.
 
 #### (2) Legislative recommendations
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the Agreement on G
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to United States Trade Representative, see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
+Functions of President under this section delegated to United States Trade Representative, see section1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
 
 #### Agreement on Government Procurement: Entry Into Force
 

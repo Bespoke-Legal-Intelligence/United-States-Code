@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title4",
- "package": "USCODE-1996-title4",
+ "package": "USCODE-1997-title4",
  "pieces": [
   {
    "id": "4_",
@@ -95,7 +95,7 @@
    "marks": [
     [
      "L",
-     26,
+     24,
      "[Page 4]",
      true
     ]
@@ -186,7 +186,7 @@
      4,
      [
       [
-       279,
+       91,
        "[Page 5]"
       ]
      ]
@@ -220,10 +220,14 @@
    "id": "4_107",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 6]",
-     true
+     "I",
+     2,
+     [
+      [
+       187,
+       "[Page 6]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - The States/§ 00107 - Same; exception of United States, its instrumentalities, and authorized purchases 1 therefrom.md",
@@ -273,10 +277,10 @@
    "marks": [
     [
      "I",
-     6,
+     4,
      [
       [
-       159,
+       91,
        "[Page 7]"
       ]
      ]
@@ -302,10 +306,10 @@
    "marks": [
     [
      "I",
-     34,
+     32,
      [
       [
-       96,
+       381,
        "[Page 8]"
       ]
      ]
@@ -340,7 +344,7 @@
    "marks": [
     [
      "L",
-     16,
+     12,
      "[Page 9]",
      true
     ]
@@ -380,14 +384,21 @@
   },
   {
    "id": "4_146",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 10]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Official Territorial Papers/§ 00146 - Authorization of appropriations.md",
    "printed_pages": [
     9,
-    9
+    10
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1996-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1997-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 04 - Flag and Seal, Seat of Government, and the States"
 }

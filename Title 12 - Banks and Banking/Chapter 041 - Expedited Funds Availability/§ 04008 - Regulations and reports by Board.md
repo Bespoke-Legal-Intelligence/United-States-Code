@@ -122,19 +122,19 @@ Federal Home Loan Bank Board abolished and functions transferred, see sections 4
 
 #### Exceptions in Areas Where Major Disaster Exists
 
-Pub. L. 103–76, §2, Aug. 12, 1993, 107 Stat. 752, provided that:
+Pub. L. 105–18, title V, §50002, June 12, 1997, 111 Stat. 211, provided that:
 
 “(a)
 
-Truth in Lending Act.—During the 240-day period beginning on the date of enactment of this Act \[Aug. 12, 1993\], the Board of Governors of the Federal Reserve System may make exceptions to the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] for transactions within an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\], has determined, on or after April 1, 1993, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1993 flooding of the Mississippi River and its tributaries, if the Board determines that the exception can reasonably be expected to alleviate hardships to the public resulting from such disaster that outweigh possible adverse effects.
+Truth in Lending Act.—During the 240-day period beginning on the date of enactment of this Act \[June 12, 1997\], the Board of Governors of the Federal Reserve System may make exceptions to the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] for transactions within an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, if the Board determines that the exception can reasonably be expected to alleviate hardships to the public resulting from such disaster that outweigh possible adverse effects.
 
 “(b)
 
-Expedited Funds Availability Act.—During the 240-day period beginning on the date of enactment of this Act \[Aug. 12, 1993\], the Board of Governors of the Federal Reserve System may make exceptions to the Expedited Funds Availability Act \[12 U.S.C. 4001 et seq.\] for depository institution offices located within any area referred to in subsection (a) of this section if the Board determines that the exception can reasonably be expected to alleviate hardships to the public resulting from such disaster that outweigh possible adverse effects.
+Expedited Funds Availability Act.—During the 240-day period beginning on the date of enactment of this Act \[June 12, 1997\], the Board of Governors of the Federal Reserve System may make exceptions to the Expedited Funds Availability Act \[12 U.S.C. 4001 et seq.\] for depository institution offices located within any area referred to in subsection (a) of this section if the Board determines that the exception can reasonably be expected to alleviate hardships to the public resulting from such disaster that outweigh possible adverse effects.
 
 “(c)
 
-Time Limit on Exceptions.—Any exception made under this section shall expire not later than October 1, 1994.
+Time Limit on Exceptions.—Any exception made under this section shall expire not later than September 1, 1998.
 
 “(d)
 
@@ -144,7 +144,9 @@ Publication Required.—The Board of Governors of the Federal Reserve System sha
 
 &emsp;“(2) explains how the exception can reasonably be expected to produce benefits to the public that outweigh possible adverse effects.”
 
-Similar provisions were contained in the following prior act:
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 103–76, §2, Aug. 12, 1993, 107 Stat. 752.
 
 Pub. L. 102–485, §3, Oct. 23, 1992, 106 Stat. 2772.
 

@@ -12,7 +12,7 @@ Air Carriers and Foreign Air Carriers Not Engaged Directly in Operating Aircraft
 
 (b)
 
-Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections 40103(b)(1) and (2), 40119,44901, 44903, 44906, and 44935–44937 of this title when the Administrator decides the exemption is in the public interest.
+Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections 40103(b)(1) and (2), 40119, 44901, 44903, 44906, and 44935–44937 of this title when the Administrator decides the exemption is in the public interest.
 
 (c)
 
@@ -224,7 +224,7 @@ Pub. L. 103–411, §3(b), Oct. 25, 1994, 108 Stat. 4237, provided that:
 
 “(1)
 
-In general.—The Administrator of the Federal Aviation Administration may grant an exemption to any unit of Federal, State, or local government from any requirement of part A of subtitle VII of title 49,United States Code, that would otherwise be applicable to current or future aircraft of such unit of government as a result of the amendment made by subsection (a) of this section \[amending section 40102 of this title\].
+In general.—The Administrator of the Federal Aviation Administration may grant an exemption to any unit of Federal, State, or local government from any requirement of part A of subtitle VII of title 49, United States Code, that would otherwise be applicable to current or future aircraft of such unit of government as a result of the amendment made by subsection (a) of this section \[amending section 40102 of this title\].
 
 “(2)
 

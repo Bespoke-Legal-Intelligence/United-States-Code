@@ -1,6 +1,6 @@
 ### §2611. Congressional findings and declaration of policy
 
-Potatoes are a basic food in the United States and foreign countries. They are produced bymany individual potato growers in every State in the United States and imported into the United States from foreign countries. In 1966, there were one million four hundred and ninety-seven thousand acres of cropland in the United States devoted to the production of potatoes.
+Potatoes are a basic food in the United States and foreign countries. They are produced by many individual potato growers in every State in the United States and imported into the United States from foreign countries. In 1966, there were one million four hundred and ninety-seven thousand acres of cropland in the United States devoted to the production of potatoes.
 
 Potatoes and potato products move in the channels of interstate or foreign commerce, and potatoes which do not move in such channels directly burden or affect interstate commerce in potatoes and potato products.
 
@@ -12,7 +12,7 @@ Therefore, it is the declared policy of the Congress and the purpose of this cha
 
 #### Amendments
 
-1990—Pub. L. 101–624, in first par., inserted “and foreign countries” and “and imported into the United States from foreign countries” and struck out at end “Approximately two hundred and seventy-five million hundredweight of potatoes have been produced annually during the past five years with an estimated sales value to the potato producers of $561,000,000.”; in second par., struck out “, in a large part,” after “products move”, inserted “or foreign”, and struck out at end “All potatoes produced in the United States are in the current of interstate commerce or directly burden, obstruct, or affect interstate commerce in potatoes and potato products.” and, in third par., inserted “and imported into the United States from foreign countries” and substituted “and potato products” for “produced in the United States”.
+1990—Pub. L. 101–624, in first par., inserted “and foreign countries” and “and imported into the United States from foreign countries” and struck out at end “Approximately two hundred and seventy-five million hundredweight of potatoes have been produced annually during the past five years with an estimated sales value to the potato producers of $561,000,000.”; in second par., struck out “, in a large part,” after “products move”, inserted “or foreign”, and struck out at end “All potatoes produced in the United States are in the current of interstate commerce or directly burden, obstruct, or affect interstate commerce in potatoes andpotato products.” and, in third par., inserted “and imported into the United States from foreign countries” and substituted “and potato products” for “produced in the United States”.
 
 #### Effective Date
 

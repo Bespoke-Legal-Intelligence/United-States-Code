@@ -44,13 +44,13 @@ Priority consideration for certain projects.—In selecting projects to fund und
 
 Period of availability of discretionary funds.—Sums made available pursuant to this paragraph shall remain available until expended.
 
-(d) In addition to amounts otherwise available to carry out this section, an amount equal to the amount by which the unobligated apportionment for the Interstate System in any State is reduced under section 103(e)(4) of this title on account of the withdrawal of a route or portion thereof on the Interstate System, which withdrawal is approved after the date of enactmentof this subsection, shall be available to the Secretary for obligation in accordance with subsection (b)(1) of this section.
+(d) In addition to amounts otherwise available to carry out this section, an amount equal to the amount by which the unobligated apportionment for the Interstate System in any State is reduced under section 103(e)(4) of this title on account of the withdrawal of a route or portion thereof on the Interstate System, which withdrawal is approved after the date of enactment of this subsection, shall be available to the Secretary for obligation in accordance with subsection (b)(1) of this section.
 
 (e) The total payments to any State shall not at any time during a current fiscal year exceed the total of all apportionments to such State in accordance with section 104 of this title for such fiscal year and all preceding fiscal years.
 
 (f) Funds made available to the State of Alaska and the Commonwealth of Puerto Rico under this title may be expended for construction of access and development roads that will serve resource development, recreational, residential, commercial, industrial, or other like purposes.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 89–574, §7(a), Sept. 13, 1966, 80 Stat. 768; Pub. L. 94–280, title I, §117(a), May 5, 1976, 90 Stat. 436; Pub. L. 95–599, title I, §115(a), Nov. 6, 1978, 92 Stat. 2697; Pub. L. 96–106, §5(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §115, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §§114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, 101 Stat. 150–153; Pub. L. 102–240, title I, §1020, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 102–388, title IV, §409, Oct. 6, 1992, 106 Stat. 1565.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 89–574, §7(a), Sept. 13, 1966, 80 Stat. 768; Pub. L. 94–280, title I, §117(a), May 5, 1976, 90 Stat. 436; Pub. L. 95–599, title I, §115(a), Nov. 6, 1978, 92 Stat. 2697; Pub. L. 96–106, §5(a), Nov. 9, 1979, 93Stat. 797; Pub. L. 97–424, title I, §115, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §§114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, 101 Stat. 150–153; Pub. L. 102–240, title I, §1020, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 102–388, title IV, §409, Oct. 6, 1992, 106 Stat. 1565.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ Subsecs. (c) to (f). Pub. L. 97–424, §115(b), added subsecs. (c) and (d) and 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Effective Date of 1979 Amendment
 

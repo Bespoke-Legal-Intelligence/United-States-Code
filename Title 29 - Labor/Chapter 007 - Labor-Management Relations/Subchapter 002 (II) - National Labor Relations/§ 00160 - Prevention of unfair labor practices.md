@@ -50,7 +50,7 @@ Whenever it is charged that any person has engaged in an unfair labor practice w
 
 Whenever it is charged that any person has engaged in an unfair labor practice within the meaning of subsection (a)(3) or (b)(2) of section 158 of this title, such charge shall be given priority over all other cases except cases of like character in the office where it is filed or to which it is referred and cases given priority under subsection (<i>l</i>) of this section.
 
-(July 5, 1935, ch. 372, §10, 49 Stat. 453; June 23, 1947, ch. 120, title I, §101, 61 Stat. 146; June 25, 1948, ch. 646, §32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 28, 1958, Pub. L. 85–791, §13, 72 Stat. 945; Sept. 14, 1959, Pub. L. 86–257, title VII, §§704(d), 706, 73 Stat. 544; Mar. 27, 1978, Pub. L. 95–251, §3, 92 Stat. 184; Nov. 8, 1984, Pub. L. 98–620, title IV, §402(31), 98 Stat. 3360.)
+(July 5, 1935, ch. 372, §10, 49 Stat. 453; June 23, 1947, ch. 120, title I, §101, 61 Stat. 146; June 25, 1948, ch. 646, §32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §13, Aug. 28, 1958, 72 Stat. 945; Pub. L. 86–257, title VII, §§704(d), 706, Sept. 14, 1959, 73 Stat. 544; Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 98–620, title IV, §402(31), Nov. 8, 1984, 98 Stat. 3360.)
 
 #### References in Text
 

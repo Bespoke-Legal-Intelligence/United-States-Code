@@ -20,7 +20,7 @@
 - [&sect; 00773 - Public disclosure of information](%C2%A7%2000773%20-%20Public%20disclosure%20of%20information.md)
 - [&sect; 00774 - Reports and recommendations](%C2%A7%2000774%20-%20Reports%20and%20recommendations.md)
 - [&sect; 00775 - Sex discrimination; enforcement; other legal remedies](%C2%A7%2000775%20-%20Sex%20discrimination%3B%20enforcement%3B%20other%20legal%20remedies.md)
-- [&sect; 00776 - Advisory committees](%C2%A7%2000776%20-%20Advisory%20committees.md)
+- [&sect; 00776 - Repealed. Pub. L. 105&#8211;28, &sect;2(b)(2), July 18, 1997, 111 Stat. 245](%C2%A7%2000776%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9328%2C%20%C2%A72%28b%29%282%29%2C%20July%2018%2C%201997%2C%20111%20Stat.%20245.md)
 - [&sect; 00777 - Economic analysis of proposed actions](%C2%A7%2000777%20-%20Economic%20analysis%20of%20proposed%20actions.md)
 - [&sect; 00778 - Management oversight review; report to Administrator](%C2%A7%2000778%20-%20Management%20oversight%20review%3B%20report%20to%20Administrator.md)
 - [&sect; 00779 - Coordination with, and technical assistance to, State governments](%C2%A7%2000779%20-%20Coordination%20with%2C%20and%20technical%20assistance%20to%2C%20State%20governments.md)

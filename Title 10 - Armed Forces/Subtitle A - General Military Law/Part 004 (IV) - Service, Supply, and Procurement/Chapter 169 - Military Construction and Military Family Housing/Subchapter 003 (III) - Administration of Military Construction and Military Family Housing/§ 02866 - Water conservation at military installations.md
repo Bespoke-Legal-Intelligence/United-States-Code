@@ -20,7 +20,9 @@ Water Conservation Activities.—(1) The Secretary of Defense shall permit and e
 
 (b)
 
-Use of Water Cost Savings.—Water cost savings realized under this section shall be used as provided in section 2865(b)(2) of this title.
+Use of Financial Incentives and Water Cost Savings.—(1) Financial incentives received under subsection (a)(2) shall be used as provided in section 2865(b)(3) of this title.
+
+(2) Water cost savings realized under subsection (a)(3) shall be used as provided in section 2865(b)(2) of this title.
 
 (c)
 
@@ -28,11 +30,17 @@ Water Conservation Construction Projects.—(1) The Secretary of Defense may car
 
 (2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify the appropriate committees of Congress of that decision. Such project may be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees.
 
-(Added Pub. L. 103–160, div. B, title XXVIII, §2803(a), Nov. 30, 1993, 107 Stat. 1884; amended Pub. L. 104–106, div. A, title XV, §1502(a)(27), Feb. 10, 1996, 110 Stat. 506.)
+(Added Pub. L. 103–160, div. B, title XXVIII, §2803(a), Nov. 30, 1993, 107 Stat. 1884; amended Pub. L. 104–106, div. A, title XV, §1502(a)(27), Feb. 10, 1996, 110 Stat. 506; Pub. L. 105–85, div. B, title XXVIII, §2804(b), Nov. 18, 1997, 111 Stat. 1991.)
 
 #### Amendments
 
-1996—Subsec. (c)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and Appropriations of the Senate and House of Representatives”.
+1997—Subsec. (b). Pub. L. 105–85 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+
+“(b)
+
+Use of Water Cost Savings.—Water cost savings realized under this section shall be used as provided in section 2865(b)(2) of this title.”
+
+1996—Subsec. (c)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees onArmed Services and Appropriations of the Senate and House of Representatives”.
 
 #### Retention of Savings and Rebates
 

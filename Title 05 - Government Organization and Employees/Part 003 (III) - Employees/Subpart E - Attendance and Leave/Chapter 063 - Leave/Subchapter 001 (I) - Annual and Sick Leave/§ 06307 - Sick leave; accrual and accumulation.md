@@ -6,7 +6,7 @@
 
 (c) Sick leave provided by this section may be used for purposes relating to the adoption of a child.
 
-(d) When required by the exigencies of the situation, a maximum of 30 days sick leave withpay may be advanced for serious disability or ailment, or for purposes relating to the adoption of a child, except that a maximum of 24 days sick leave with pay may be advanced to a member of the Firefighting Division of the Fire Department of the District of Columbia.
+(d) When required by the exigencies of the situation, a maximum of 30 days sick leave with pay may be advanced for serious disability or ailment, or for purposes relating to the adoption of a child, except that a maximum of 24 days sick leave with pay may be advanced to a member of the Firefighting Division of the Fire Department of the District of Columbia.
 
 (d)(1) <sup>1</sup> For the purpose of this subsection, the term “family member” shall have such meaning as the Office of Personnel Management shall by regulation prescribe, except that such term shall include any individual who meets the definition given that term, for purposes of the leave transfer program under subchapter III, under regulations prescribed by the Office (as in effect on January 1, 1993).
 

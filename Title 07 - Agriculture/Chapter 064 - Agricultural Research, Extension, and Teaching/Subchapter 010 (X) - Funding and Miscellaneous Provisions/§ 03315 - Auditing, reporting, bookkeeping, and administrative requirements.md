@@ -14,7 +14,7 @@ Except as provided elsewhere in this Act or any other Act of Congress—
 
 #### References in Text
 
-This Act, referred to in provision preceding par. (1) and in par. (2), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended, known as the Food and Agriculture Act of 1977. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
+This Act, referred to in provision preceding par. (1) and in par. (2), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat.913, as amended, known as the Food and Agriculture Act of 1977. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 For definition of “this chapter”, referred to in pars. (1) to (3), see note set out under section 3102 of this title.
 

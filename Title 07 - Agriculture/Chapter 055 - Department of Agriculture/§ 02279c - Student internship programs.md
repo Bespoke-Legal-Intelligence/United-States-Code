@@ -18,7 +18,7 @@
 
 #### (1) Authority to cooperate
 
-&emsp;Notwithstanding chapter 63 of title 31, the Secretary may enter into cooperative agreements on an annual basis with 1 or more associations of institutions of higher education (as defined in section 1141 of title 20) for the purpose of providing for Department participationin internship programs for graduate and undergraduate students who are selected by the associations from students attending member institutions of the associations and other institutions of higher education.
+&emsp;Notwithstanding chapter 63 of title 31, the Secretary may enter into cooperative agreements on an annual basis with 1 or more associations of institutions of higher education (as defined in section 1141 of title 20) for the purpose of providing for Department participation in internship programs for graduate and undergraduate students who are selected by the associations from students attending member institutions of the associations and other institutions of higher education.
 
 #### (2) Internship program
 
@@ -48,7 +48,7 @@
 
 #### (5) Cost reimbursement
 
-&emsp;From such amounts as the Secretary determines are available each fiscal year for internship programs, and subject to such regulations as the Secretary may issue, the Secretary may reimburse a cooperating association for the Department share of all direct and indirect costs of an internship program, including student stipends, transportation costs to the internship site, and other costs of an internship program.
+&emsp;From such amounts as the Secretary determines are available each fiscal year for internship programs, and subject to such regulations as the Secretary may issue, the Secretary may reimburse a cooperating association for theDepartment share of all direct and indirect costs of an internship program, including student stipends, transportation costs to the internship site, and other costs of an internship program.
 
 #### (6) Lead agency
 

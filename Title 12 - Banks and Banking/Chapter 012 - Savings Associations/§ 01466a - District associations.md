@@ -14,9 +14,9 @@ Charters, certificates of incorporation, articles of incorporation, constitution
 
 #### (d) Limitation
 
-Nothing in this section shall cause, or permit the Director to cause, District of Columbia associations to be or become Federal savings associations, or require the Director to impose onDistrict of Columbia associations the same regulations as are imposed on Federal savings associations.
+Nothing in this section shall cause, or permit the Director to cause, District of Columbia associations to be or become Federal savings associations, or require the Director to impose on District of Columbia associations the same regulations as are imposed on Federal savings associations.
 
-(June 13, 1933, ch. 64, §8, as added Dec. 31, 1970, Pub. L. 91–609, title IX, §913, 84 Stat. 1815; amended Aug. 9, 1989, Pub. L. 101–73, title III, §301, 103 Stat. 315.)
+(June 13, 1933, ch. 64, §8, as added Pub. L. 91–609, title IX, §913, Dec. 31, 1970, 84 Stat. 1815; amended Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 315.)
 
 #### Prior Provisions
 

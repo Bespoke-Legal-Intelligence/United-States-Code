@@ -2,7 +2,7 @@
 
 Guam is declared to be an unincorporated territory of the United States and the capital and seat of government thereof shall be located at the city of Agana, Guam. The government of Guam shall have the powers set forth in this chapter, shall have power to sue by such name, and, with the consent of the legislature evidenced by enacted law, may be sued upon any contract entered into with respect to, or any tort committed incident to, the exercise by the government of Guam of any of its lawful powers. The government of Guam shall consist of three branches, executive, legislative, and judicial, and its relations with the Federal Government in all matters not the program responsibility of another Federal department or agency, shall be under the general administrative supervision of the Secretary of the Interior.
 
-(Aug. 1, 1950, ch. 512, §3, 64 Stat. 384; Sept. 21, 1959, Pub. L. 86–316, 73 Stat. 588; Sept. 11, 1968, Pub. L. 90–497, §12(a), 82 Stat. 847.)
+(Aug. 1, 1950, ch. 512, §3, 64 Stat. 384; Pub. L. 86–316, Sept. 21, 1959, 73 Stat. 588; Pub. L. 90–497, §12(a), Sept. 11, 1968, 82 Stat. 847.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a) The Congress hereby finds that—
 
-&emsp;(1) juveniles accounted for almost half the arrests for serious crimes in the United Statesin 1974 and for less than one-third of such arrests in 1983;
+&emsp;(1) juveniles accounted for almost half the arrests for serious crimes in the United States in 1974 and for less than one-third of such arrests in 1983;
 
 &emsp;(2) recent trends show an upsurge in arrests of adolescents for murder, assault, and weapon use;
 
@@ -86,7 +86,7 @@ Section 670 of division II (§§610–670) of chapter VI of title II of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which providedthat except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Amendments note below), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
 #### Effective Date
 
@@ -110,7 +110,7 @@ Section 1 of Pub. L. 96–509 provided that: “This Act \[enacting section 5617
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–115, §1, Oct. 3, 1977, 91 Stat. 1048, provided that: “This Act \[enacting section 5741 of this title, amending section 5316 of Title 5, Government Organization and Employees, sections 4351 and 5038 of Title 18, Crimes and Criminal Procedure, and sections 3723, 3767, 3811 to 3814, 3821, 3882, 3883, 3888, 3889, 5603, 5611, 5612, 5614 to 5618, 5631 to 5635, 5637 to 5639, 5651, 5653 to 5657, 5659 to 5661, 5671, 5672, 5711 to 5713, 5731, and 5751 of this title, repealing sections 3821, 5658, and 5732 of this title, enacting provisions set out as notes under this section and sections 5632, 5633, and 5638 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Juvenile Justice Amendments of 1977’.”
+Pub. L. 95–115, §1, Oct. 3, 1977, 91 Stat. 1048, provided that: “This Act \[enacting section 5741 of this title,amending section 5316 of Title 5, Government Organization and Employees, sections 4351 and 5038 of Title 18, Crimes and Criminal Procedure, and sections 3723, 3767, 3811 to 3814, 3821, 3882, 3883, 3888, 3889, 5603, 5611, 5612, 5614 to 5618, 5631 to 5635, 5637 to 5639, 5651, 5653 to 5657, 5659 to 5661, 5671, 5672, 5711 to 5713, 5731, and 5751 of this title, repealing sections 3821, 5658, and 5732 of this title, enacting provisions set out as notes under this section and sections 5632, 5633, and 5638 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Juvenile Justice Amendments of 1977’.”
 
 #### Short Title
 

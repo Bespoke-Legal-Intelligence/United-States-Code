@@ -46,7 +46,7 @@ Pub. L. 94–280, title I, §105(a)(12), May 5, 1976, 90 Stat. 427, authorized t
 
 #### Authorization of Appropriations, Fiscal Years Ending June 30, 1974, 1975, and 1976
 
-Pub. L. 93–87, title I, §104(a)(12), Aug. 13, 1973, 87 Stat. 252, authorized the appropriation for each of fiscal years ending June 30, 1974, 1975, and 1976 of not to exceed $5,000,000 for the Virgin Islands, not to exceed $2,000,000 for Guam, and not to exceed $1,000,000 for American Samoa, such sums to be available for obligation at the beginning of the fiscal year for which authorized.
+Pub. L. 93–87, title I, §104(a)(12), Aug. 13, 1973, 87 Stat. 252, authorized the appropriation for each of fiscalyears ending June 30, 1974, 1975, and 1976 of not to exceed $5,000,000 for the Virgin Islands, not to exceed $2,000,000 for Guam, and not to exceed $1,000,000 for American Samoa, such sums to be available for obligation at the beginning of the fiscal year for which authorized.
 
 #### Authorization of Appropriations, Fiscal Years Ending June 30, 1971, 1972, and 1973
 

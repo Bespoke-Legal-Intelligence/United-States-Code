@@ -2,7 +2,7 @@
 
 The Secretary of Commerce is authorized to consider, ascertain, adjust, and determine all claims for damages, where the amount of the claim does not exceed $2,500, occasioned, subsequent to June 5, 1920, by acts for which the National Oceanic and Atmospheric Administration is responsible.
 
-(June 5, 1920, ch. 256, 41 Stat. 1054; Jan. 2, 1975, Pub. L. 93–608, §1(4), 88 Stat. 1967; Nov. 29, 1983, Pub. L. 98–176, 97 Stat. 1124.)
+(June 5, 1920, ch. 256, 41 Stat. 1054; Pub. L. 93–608, §1(4), Jan. 2, 1975, 88 Stat. 1967; Pub. L. 98–176, Nov. 29, 1983, 97 Stat. 1124.)
 
 #### Amendments
 

@@ -36,7 +36,7 @@ The head of an executive agency may use procedures other than competitive proced
 
 #### (e) Contract modifications
 
-A task or delivery order may not increase the scope, period, or maximum value of the task ordelivery order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
+A task or delivery order may not increase the scope, period, or maximum value of the task or delivery order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
 
 #### (f) Inapplicability to contracts for advisory and assistance services
 
@@ -46,7 +46,7 @@ Except as otherwise specifically provided in section 253i of this title, this se
 
 Nothing in this section may be construed to limit or expand any authority of the head of an executive agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 
-(June 30, 1949, ch. 288, title III, §303H, as added Oct. 13, 1994, Pub. L. 103–355, title I, §1054(a), 108 Stat. 3261.)
+(June 30, 1949, ch. 288, title III, §303H, as added Pub. L. 103–355, title I, §1054(a), Oct. 13, 1994, 108 Stat. 3261.)
 
 #### Effective Date
 

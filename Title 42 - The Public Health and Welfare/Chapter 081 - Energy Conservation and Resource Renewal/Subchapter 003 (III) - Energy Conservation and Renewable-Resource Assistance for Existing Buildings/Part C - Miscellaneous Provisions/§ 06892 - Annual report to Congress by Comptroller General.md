@@ -12,7 +12,7 @@ Each report submitted by the Comptroller General under subsection (a) of this se
 
 &emsp;(2) an estimate of the energy savings which have resulted thereby;
 
-&emsp;(3) a thorough evaluation of the effectiveness of the programs authorized by this subchapter or by amendments made by this titlein achieving the energy conservation or renewable resource potential available in the sectors and regions affected by such programs;
+&emsp;(3) a thorough evaluation of the effectiveness of the programs authorized by this subchapter or by amendments made by this title in achieving the energy conservation or renewable resource potential available in the sectors and regions affected by such programs;
 
 &emsp;(4) a review of the extent and effectiveness of compliance monitoring of programs established by this subchapter or by amendments made by this title and any evidence as to the occurrence of fraud with respect to such programs; and
 
@@ -41,4 +41,6 @@ Subsec. (c)(1) of this section which read “The term ‘Administrator’ means 
 #### Transfer of Functions
 
 “Secretary of Energy” substituted for “Administrator”, meaning Administrator of Federal Energy Administration, in subsec. (a) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+
+&nbsp;
 

@@ -10,11 +10,11 @@ In conformity with this policy:
 
 (c) The Secretary of the Interior, in making investigations of and reports on works for irrigation and purposes incidental thereto shall, in relation to an affected State or States (as defined in paragraph (a) of this section), and to the Secretary of the Army, be subject to the same provisions regarding investigations, plans, proposals, and reports as prescribed in paragraph (a) of this section for the Chief of Engineers and the Secretary of the Army. In the event a submission of views and recommendations, made by an affected State or by the Secretary of the Army pursuant to said provisions, sets forth objections to the plans or proposals covered by the report of the Secretary of the Interior, the proposed works shall not be deemed authorized except upon approval by an Act of Congress; and section 485h(a) of title 43 and section 590z–1(a) of title 16 are amended accordingly.
 
-(Dec. 22, 1944, ch. 665, §1, 58 Stat. 887; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Oct. 12, 1996, Pub. L. 104–303, title II, §223, 110 Stat. 3697.)
+(Dec. 22, 1944, ch. 665, §1, 58 Stat. 887; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 104–303, title II, §223, Oct. 12, 1996, 110 Stat. 3697.)
 
 #### Amendments
 
-Par. (a). Pub. L. 104–303 substituted “Within 30 days” for “Within ninety days” and “30-day period” for “ninety-day period”.
+1996—Par. (a). Pub. L. 104–303 substituted “Within 30 days” for “Within ninety days” and “30-day period” for “ninety-day period”.
 
 #### Change of Name
 

@@ -2,7 +2,7 @@
 
 Advances of money from available appropriations may be made to the National Ocean Survey and by authority of the Director thereof to chiefs of parties and accounts arising under such advances shall be rendered through and by the disbursing officer of the National Ocean Survey to the General Accounting Office as under advances made to chiefs of parties prior to July 1, 1918.
 
-(July 1, 1918, ch. 113, §1, 40 Stat. 688; June 5, 1920, ch. 235, §1, 41 Stat. 929; June 10, 1921, ch. 18, title III, §304, 42 Stat. 24; June 6, 1972, Pub. L. 92–310, title II, §231(z), 86 Stat. 212.)
+(July 1, 1918, ch. 113, §1, 40 Stat. 688; June 5, 1920, ch. 235, §1, 41 Stat. 929; June 10, 1921, ch. 18, title III, §304, 42 Stat. 24; Pub. L. 92–310, title II, §231(z), June 6, 1972, 86 Stat. 212.)
 
 #### Codification
 
@@ -16,7 +16,7 @@ Section was formerly classified to section 550 of Title 31 prior to the general 
 
 #### Transfer of Functions
 
-Coast and Geodetic Survey consolidated with National Weather Bureau to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration byReorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. For further details, see note set out under section 851 of this title.
+Coast and Geodetic Survey consolidated with National Weather Bureau to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. For further details, see note set out under section 851 of this title.
 
 “General Accounting Office” substituted in text for “Treasury Department” pursuant to act June 10, 1921, which transferred all powers and duties of Comptroller, six auditors, and certain other employees of Treasury to General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.
 

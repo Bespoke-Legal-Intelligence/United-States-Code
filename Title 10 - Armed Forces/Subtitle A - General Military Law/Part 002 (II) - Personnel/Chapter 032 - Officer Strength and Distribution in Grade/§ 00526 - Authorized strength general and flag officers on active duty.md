@@ -24,7 +24,7 @@ Notice to Congress Upon Change in Grade for Certain Positions.—(1) Not later t
 
 (2) Paragraph (1) applies in the case of the following actions:
 
-&emsp;(A) A change in the grade authorized as of July 1, 1994, for a general officer position in the National Guard Bureau, a general or flag officer position in the Office of a Chief of a reserve component, or a general or flag officerposition in the headquarters of a reserve component command.
+&emsp;(A) A change in the grade authorized as of July 1, 1994, for a general officer position in the National Guard Bureau, a general or flag officer position in the Office of a Chief of a reserve component, or a general or flag officer position in the headquarters of a reserve component command.
 
 &emsp;(B) Assignment of a reserve component officer to a general officer position in the National Guard Bureau, to a general or flag officer position in the Office of a Chief of a reserve component, or to a general or flag officer position in the headquarters of a reserve component command in a grade other than the grade authorized for that position as of July 1, 1994.
 
@@ -86,5 +86,5 @@ Section 403(a) of Pub. L. 101–510 provided that the amendment made by that sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 527, 3210, 5150, 8210, 12004 of this title.
+This section is referred to in sections 527, 721, 3210, 5150, 8210, 12004 of this title.
 

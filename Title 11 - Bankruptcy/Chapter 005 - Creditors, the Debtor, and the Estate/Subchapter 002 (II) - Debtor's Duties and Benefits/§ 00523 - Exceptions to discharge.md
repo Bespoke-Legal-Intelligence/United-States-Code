@@ -292,6 +292,8 @@ Subsec. (d). Pub. L. 98–353, §307(b), substituted “the court shall grant ju
 
 Section 374(c) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section and section 656 of Title 42, The Public Health and Welfare\] shall apply only with respect to cases commenced under title 11 of the United States Code after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
+For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
@@ -322,7 +324,7 @@ Application of Amendments.—The amendments made by this Act \[amending this sec
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a noteunder section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to casescommenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by sections 281 and 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554.
 

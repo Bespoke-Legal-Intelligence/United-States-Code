@@ -52,7 +52,7 @@ Any person claiming any right under or by virtue of any unpatented mining claim 
 
 If any department or agency requesting publication shall fail to comply with the requirements of subsection (a) of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in no manner affect, diminish, prejudice or bar any rights of that person.
 
-(July 23, 1955, ch. 375, §5, 69 Stat. 369; June 11, 1960, Pub. L. 86–507, §1(26), 74 Stat. 201.)
+(July 23, 1955, ch. 375, §5, 69 Stat. 369; Pub. L. 86–507, §1(26), June 11, 1960, 74 Stat. 201.)
 
 #### Amendments
 

@@ -44,7 +44,7 @@ Remediation Techniques.—
 
 &emsp;“(1)
 
-In general.—To test and verify contaminant and sediment tracking ability of the models, and to reduce the problems associated with the dredging and disposal of dioxin contaminated sediments in the region, a study shall be performed to identify appropriate remediation techniques (including isolation and treatment) for mitigating dioxin contaminated sediments at their sources. The study and report arenot intended to encumber civil works projects under development or scheduled to be maintained. Work on these projects shall proceed along the present schedule.
+In general.—To test and verify contaminant and sediment tracking ability of the models, and to reduce the problems associated with the dredging and disposal of dioxin contaminated sediments in the region, a study shall be performed to identify appropriate remediation techniques (including isolation and treatment) for mitigating dioxin contaminated sediments at their sources. The study and report are not intended to encumber civil works projects under development or scheduled to be maintained. Work on these projects shall proceed along the present schedule.
 
 &emsp;“(2)
 

@@ -20,7 +20,7 @@ Franklin D Roosevelt.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 2 section 1602; title 8 section 1227; title 18 section 219; title 48 section 1905; title 50 App. section 34.
+This subchapter is referred to in section 3613 of this title; title 2 section 1602; title 8 section 1227; title 18 section 219; title 48 section 1905; title 50 App. section 34.
 
 
 ---

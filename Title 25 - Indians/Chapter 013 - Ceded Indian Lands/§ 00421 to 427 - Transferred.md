@@ -16,3 +16,5 @@ Section 426, act Mar. 3, 1891, ch. 561, §10, 26 Stat. 1099, which provided that
 
 Section 427, act Feb. 9, 1903, ch. 531, 32 Stat. 820, which extended town-site laws to ceded lands in Minnesota, was transferred to section 731 of Title 43.
 
+&nbsp;
+

@@ -10,7 +10,7 @@ There are authorized to be appropriated to carry out part B of subchapter II of 
 
 #### (c) Senior Companion Program
 
-There are authorized to be appropriated to carry out part C of subchapter II of this chapter,$40,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+There are authorized to be appropriated to carry out part C of subchapter II of this chapter, $40,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
 
 #### (d) Demonstration programs
 

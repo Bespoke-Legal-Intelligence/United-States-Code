@@ -20,7 +20,7 @@ The thirteen judicial circuits of the United States are constituted as follows:
 | Eleventh | Alabama, Florida, Georgia. |
 | Federal | All Federal judicial districts. |
 
-(June 25, 1948, ch. 646, 62 Stat. 870; Oct. 31, 1951, ch. 655, §34, 65 Stat. 723; Oct. 14, 1980, Pub. L. 96–452, §2, 94 Stat. 1994; Apr. 2, 1982, Pub. L. 97–164, title I, §101, 96 Stat. 25.)
+(June 25, 1948, ch. 646, 62 Stat. 870; Oct. 31, 1951, ch. 655, §34, 65 Stat. 723; Pub. L. 96–452, §2, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §101, Apr. 2, 1982, 96 Stat. 25.)
 
 #### Historical and Revision Notes
 
@@ -46,11 +46,11 @@ Some of the provisions of section 864 of title 48, U.S.C., 1940 ed., have been r
 
 #### Amendments
 
-1982—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
+<b>1982</b>—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
 
-1980—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of the Canal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
+<b>1980</b>—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of the Canal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
 
-1951—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
+<b>1951</b>—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
 
 #### Effective Date of 1982 Amendment
 
@@ -62,11 +62,101 @@ Section 12 of Pub. L. 96–452 provided that: “This Act and the amendments mad
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-#### Northern Mariana Islands
+#### Commission on Structural Alternatives for the Federal Courts of Appeals
 
-Pub. L. 95–157, §1(a), Nov. 8, 1977, 91 Stat. 1265, provided that the Northern Mariana Islands be part of the same judicial circuit as Guam, i.e., the Ninth Circuit. See section 1694(a) of Title 48, Territories and Insular Possessions.
+Pub. L. 105–119, title III, §305, Nov. 26, 1997, 111 Stat. 2491, provided that:
+
+“(a)
+
+Commission on Structural Alternatives for the Federal Courts of Appeals.—
+
+&emsp;“(1)
+
+Establishment and functions of commission.—
+
+&emsp;&emsp;“(A)
+
+Establishment.—There is established a Commission on Structural Alternatives for the Federal Courts of Appeals (hereinafter referred to as the ‘Commission’).
+
+&emsp;&emsp;“(B)
+
+Functions.—The functions of the Commission shall be to—
+
+&emsp;&emsp;&emsp;“(i) study the present division of the United States into the several judicial circuits;
+
+&emsp;&emsp;&emsp;“(ii) study the structure and alignment of the Federal Court of Appeals system, with particular reference to the Ninth Circuit; and
+
+&emsp;&emsp;&emsp;“(iii) report to the President and the Congress its recommendations for such changes in circuit boundaries or structure as may be appropriate for the expeditious and effective disposition of the caseload of the Federal Courts of Appeals, consistent with fundamental concepts of fairness and due process.
+
+&emsp;“(2)
+
+Membership.—
+
+&emsp;&emsp;“(A)
+
+Composition.—The Commission shall be composed of five members who shall be appointed by the Chief Justice of the United States.
+
+&emsp;&emsp;“(B)
+
+Appointment.—The members of the Commission shall be appointed within 30 days after the date of enactment of this Act \[Nov. 26, 1997\].
+
+&emsp;&emsp;“(C)
+
+Vacancy.—Any vacancy in the Commission shall be filled in the same manner as the original appointment.
+
+&emsp;&emsp;“(D)
+
+Chair.—The Commission shall elect a chair and vice chair from among its members.
+
+&emsp;&emsp;“(E)
+
+Quorum.—Three members of the Commission shall constitute a quorum, but two may conduct hearings.
+
+&emsp;“(3)
+
+Compensation.—
+
+&emsp;&emsp;“(A)
+
+In general.—Members of the Commission who are officers, or full-time employees, of the United States shall receive no additional compensation for their services, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of duties vested in the Commission, but not in excess of the maximum amounts authorized under section 456 of title 28, United States Code.
+
+&emsp;&emsp;“(B)
+
+Private members.—Members of the Commission from private life shall receive $200 for each day (including travel time) during which the member is engaged in the actual performance of duties, but not in excess of the maximum amounts authorized under section 456 of title 28, United States Code.
+
+&emsp;“(4)
+
+Personnel.—
+
+&emsp;&emsp;“(A)
+
+Executive director.—The Commission may appoint an Executive Director who shall receive compensation at a rate not exceeding the rate prescribed for level V of the Executive Schedule under section 5316 of title 5, United States Code.
+
+&emsp;&emsp;“(B)
+
+Staff.—The Executive Director, with the approval of the Commission, may appoint and fix the compensation of such additional personnel as the Executive Director determines necessary, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service or the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates. Compensation under this paragraph shall not exceed the annual maximum rate of basic pay for a position above GS–15 of the General Schedule under section 5108 of title 5, United States Code.
+
+&emsp;&emsp;“(C)
+
+Experts and consultants.—The Executive Director may procure personal services of experts and consultants as authorized by section 3109 of title 5, United States Code, at rates not to exceed the highest level payable under the General Schedule pay rates under section 5332 of title 5, United States Code.
+
+&emsp;&emsp;“(D)
+
+Services.—The Administrative Office of the United States Courts shall provide administrative services, including financial and budgeting services, to the Commission on a reimbursable basis. The Federal Judicial Center shall provide necessary research services to the Commission on a reimbursable basis.
+
+&emsp;“(5)
+
+Information.—The Commission is authorized to request from any department, agency, or independent instrumentality of the Government any information and assistance the Commission determines necessary to carry out its functions under this section. Each such department, agency, and independent instrumentality is authorized to provide such information and assistance to the extent permitted by law when requested by the chair of the Commission.
+
+&emsp;“(6)
+
+Report.—The Commission shall conduct the studies required in this section during the 10-month period beginning on the date on which a quorum of the Commission has been appointed. Not later than 2 months following the completion of such 10-month period, the Commission shall submit its report to the President and the Congress. The Commission shall terminate 90 days after the date of the submission of its report.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Commission such sums, not to exceed $900,000, as may be necessary tocarry out the purposes of this section. Such sums as are appropriated shall remain available until expended.”
 
 #### Assignment of Judges and Procedure for Administration of Pending Cases With Regard to Reorganization of the Fifth Circuit Court of Appeals
 
@@ -113,6 +203,10 @@ Section 11 of Pub. L. 96–452 provided that: “The court of appeals for the fi
 #### Appeals Court Administrative Units
 
 Pub. L. 95–486, §6, Oct. 20, 1978, 92 Stat. 1633, provided that: “Any court of appeals having more than 15 active judges may constitute itself into administrative units complete with such facilities and staff as may be prescribed by the Administrative Office of the United States Courts, and may perform its en banc function by such number of members of its en banc courts as may be prescribed by rule of the court of appeals.”
+
+#### Northern Mariana Islands
+
+Pub. L. 95–157, §1(a), Nov. 8, 1977, 91 Stat. 1265, provided that the Northern Mariana Islands be part of the same judicial circuit as Guam, i.e., the Ninth Circuit. See section 1694(a) of Title 48, Territories and Insular Possessions.
 
 #### Commission on Revision of the Federal Appellate System
 

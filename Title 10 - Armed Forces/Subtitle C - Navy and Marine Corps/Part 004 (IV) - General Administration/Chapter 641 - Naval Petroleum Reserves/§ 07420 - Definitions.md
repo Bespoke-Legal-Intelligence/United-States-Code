@@ -130,7 +130,7 @@ Acquisition of Services.—The Secretary may enter into contracts for the acquis
 
 Effect on Existing Contracts.—(1) In the case of any contract, in effect on the effective date, for the purchase of production from any part of the United States’ share of Naval Petroleum Reserve Numbered 1, the sale of the interest of the United States in the reserve shall be subject to the contract for a period of three months after the closing date of the sale or until termination of the contract, whichever occurs first. The term of any contract entered into after the effective date for the purchase of the production shall not exceed the anticipated closing date for the sale of the reserve.
 
-“(2) The Secretary shall exercise the termination procedures provided in the contract between the United States and Bechtel Petroleum Operation, Inc., Contract Number DE–ACO1–85FE60520 so that the contract terminates not later than the date of closing of the sale of Naval Petroleum Reserve Numbered 1 under section 3412.
+“(2) The Secretary shall exercise the termination procedures provided in the contract between the United States and Bechtel Petroleum Operation, Inc., ContractNumber DE–ACO1–85FE60520 so that the contract terminates not later than the date of closing of the sale of Naval Petroleum Reserve Numbered 1 under section 3412.
 
 “(3) The Secretary shall exercise the termination procedures provided in the unit plan contract so that the unit plan contract terminates not later than the date of closing of the sale of reserve.
 
@@ -186,7 +186,7 @@ Disposition of Funds.—In such amounts as may be provided in appropriation Acts
 
 “(c)
 
-Settlement Offer.—Not later than 30 days after the date of the sale of Naval Petroleum Reserve Numbered 1 under section 3412, the Secretary shall offer tosettle all claims of the State of California against the United States with respect to lands in the reserve located in sections 16 and 36 of township 30 south, range 23 east, Mount Diablo Principal Meridian, California, and production or proceeds of sale from the reserve, in order to provide proper compensation for the State's claims. The Secretary shall base the amount of the offered settlement payment from the contingent fund on the fair value for the State's claims, including the mineral estate, not to exceed the amount reserved in the contingent fund.
+Settlement Offer.—Not later than 30 days after the date of the sale of Naval Petroleum Reserve Numbered 1 under section 3412, the Secretary shall offer to settle all claims of the State of California against the United States with respect to lands in the reserve located in sections 16 and 36 of township 30 south, range 23 east, Mount Diablo Principal Meridian, California, and production or proceeds of sale from the reserve, in order to provide proper compensation for the State's claims. The Secretary shall base the amount of the offered settlement payment from the contingent fund on the fair value for the State's claims, including the mineral estate, not to exceed the amount reserved in the contingent fund.
 
 “(d)
 

@@ -12,7 +12,7 @@
 
 #### (2) Exception
 
-&emsp;The Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, permitthe private capital of a licensee authorized or seeking authorization to issue participating securities to be purchased or guaranteed by the Administration to be less than $10,000,000, but not less than $5,000,000, if the Administrator determines that such action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government.
+&emsp;The Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, permit the private capital of a licensee authorized or seeking authorization to issue participating securities to be purchased or guaranteed by the Administration to be less than $10,000,000, but not less than $5,000,000, if the Administrator determines that such action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government.
 
 #### (3) Adequacy
 
@@ -32,13 +32,13 @@
 
 #### (b) Sale of shares of stock to banking organizations
 
-Notwithstanding the provisions of section 1845(a)(1) <sup>2</sup> of title 12, shares of stock in small business investment companies shall be eligible for purchase by national banks, and shall be eligible for purchase by other member banks of the Federal Reserve System and nonmember insured banks to the extent permitted under applicable State law; except that in no event may any such bank acquire shares in any small business investment company if, upon the making of that acquisition, the aggregate amount of shares in small business investment companies then held by the bank would exceed 5 percent of its capital and surplus.
+Notwithstanding the provisions of section 1845(a)(1) <sup>2</sup> of title 12, any national bank, or any member bank of the Federal Reserve System or nonmember insured bank to the extent permitted under applicable State law, may invest in any 1 or more small business investment companies, or in any entity established to invest solely in small business investment companies, except that in no event shall the total amount of such investments of any such bank exceed 5 percent of the capital and surplus of the bank.
 
 #### (c) Diversification of ownership
 
 The Administrator shall ensure that the management of each licensee licensed after September 30, 1996, is sufficiently diversified from and unaffiliated with the ownership of the licensee in a manner that ensures independence and objectivity in the financial management and oversight of the investments and operations of the licensee.
 
-(Pub. L. 85–699, title III, §302, Aug. 21, 1958, 72 Stat. 692; Pub. L. 86–502, §5, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §3, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §2, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §§203(a), 204, Oct. 11, 1967, 81 Stat. 269, 270; Pub. L. 94–305, title I, §§106(e), 107, June 4, 1976, 90 Stat. 666; Pub. L. 95–89, title II, §210, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–507, title I, §105, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 102–366, title IV, §§406(a), 409, Sept. 4, 1992, 106 Stat. 1015, 1017; Pub. L. 104–208, div. D, title II, §208(c), Sept. 30, 1996, 110 Stat. 3009–742.)
+(Pub. L. 85–699, title III, §302, Aug. 21, 1958, 72 Stat. 692; Pub. L. 86–502, §5, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §3, Oct. 3, 1961, 75 Stat. 752; Pub. L. 88–273, §2, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §§203(a), 204, Oct. 11, 1967, 81 Stat. 269, 270; Pub. L. 94–305, title I, §§106(e), 107, June 4, 1976, 90 Stat. 666; Pub. L. 95–89, title II, §210, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–507, title I, §105, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 102–366, title IV, §§406(a), 409, Sept. 4, 1992, 106 Stat. 1015, 1017; Pub. L. 104–208, div. D, title II, §208(c), Sept. 30, 1996, 110 Stat. 3009–742; Pub. L. 105–135, title II, §215(a), Dec. 2, 1997, 111 Stat. 2601.)
 
 #### References in Text
 
@@ -53,6 +53,8 @@ Section 1845(a)(1) of title 12, referred to in subsec. (b), was repealed by Pub.
 September 30, 1996, referred to in subsecs. (a)(4) and (c), was in the original “the date of enactment of the Small Business Program Improvement Act of 1996”, which was translated as meaning the date of enactment of the Small Business Programs Improvement Act of 1996, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1997—Subsec. (b). Pub. L. 105–135 substituted “any national bank, or any member bank of the Federal Reserve System or nonmember insured bank to the extent permitted under applicable State law, may invest in any 1 or more small business investment companies, or in any entity established to invest solely in small business investment companies, except that in no event shall the total amount of such investments of any such bank exceed 5 percent of the capital and surplus of the bank.” for “shares of stock in small business investment companies shall be eligible for purchase by national banks, and shall be eligible for purchase by other member banks of the Federal Reserve System and nonmember insured banks to the extent permitted under applicable State law; except that in no event may any such bank acquire shares in any small business investment company if, upon the making of that acquisition, the aggregate amount of shares in small business investment companies then held by the bank would exceed 5 percent of its capital and surplus.”
 
 1996—Subsec. (a). Pub. L. 104–208, §208(c)(1), inserted heading and substituted pars. (1) to (3)(A) and “determine that the licensee will be able” in par. (3)(B) for “The combined private paid-in capital and paid-in surplus of any company licensed pursuant to section 681(c) and (d) of this title shall not be less than $150,000: <i>Provided, however</i>, That the combined private paid-in capital and paid-in surplus of any company licensed on or after October 1, 1992 pursuant to section 681(c) of this title shall be not less than $2,500,000 and pursuant to section 681(d) of this title shall be not less than $1,500,000. In all cases, such capital and surplus shall be adequate to assure a reasonable prospect that the company will be operated soundly and profitably, and managed actively and prudently in accordance with its articles. The Administration shall also determine the ability of the company,”.
 
@@ -81,6 +83,10 @@ Subsec. (b). Pub. L. 90–104, §204, substituted prohibition against bank acqui
 Subsec. (b). Pub. L. 87–341, §3(b), increased the maximum amount of shares a bank may hold in small business investment companies to 2 percent of the capital and surplus.
 
 1960—Subsec. (b). Pub. L. 86–502 substituted “Notwithstanding the provisions of section 1845(a)(1) of title 12, shares” for “Shares”.
+
+#### Effective Date of 1997 Amendment
+
+Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
 
 #### Effective Date of 1967 Amendment
 

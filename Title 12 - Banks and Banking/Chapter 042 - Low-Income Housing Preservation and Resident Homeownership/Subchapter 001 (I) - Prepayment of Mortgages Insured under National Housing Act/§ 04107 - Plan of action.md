@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) a description of any proposed changes in the status or terms of the mortgage or regulatory agreement;
 
-&emsp;&emsp;(B) a description of the Federal incentives requested (including cash flow projections), and analyses of how the owner will address any physical or financial deficiencies and maintain the low-income affordability restrictions of the housing;
+&emsp;&emsp;(B) a description of the Federal incentives requested (including cash flow projections), and analyses of how the owner will address any physical or financial deficiencies andmaintain the low-income affordability restrictions of the housing;
 
 &emsp;&emsp;(C) a description of any assistance from State or local government agencies, including low-income housing tax credits, that have been offered to the owner or purchaser or for which the owner or purchaser has applied or intends to apply;
 

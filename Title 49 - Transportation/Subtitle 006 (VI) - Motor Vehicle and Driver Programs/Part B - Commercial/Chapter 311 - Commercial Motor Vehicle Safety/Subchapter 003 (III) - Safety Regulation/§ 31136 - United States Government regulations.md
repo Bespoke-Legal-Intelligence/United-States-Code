@@ -28,7 +28,7 @@ Procedures and Considerations.—(1) A regulation under this section shall be pr
 
 (d)
 
-Effect of Existing Regulations.—If the Secretary does not prescribe regulations on commercial motor vehicle safety under this section, regulations on commercial motor vehicle safety prescribed by the Secretary before October 30, 1984, and in effect on October 30, 1984, shall be deemed in this subchapter to be regulations prescribed by the Secretary under this section.
+Effect of Existing Regulations.—If the Secretary does not prescribe regulations on commercial motor vehicle safety under this section, regulations on commercial motor vehicle safety prescribed by the Secretary before October 30, 1984, and in effect on October 30, 1984,shall be deemed in this subchapter to be regulations prescribed by the Secretary under this section.
 
 (e)
 
@@ -76,7 +76,7 @@ Approval factors.—In approving applicants for participation in the program, th
 
 &emsp;&emsp;&emsp;(i) ensure that the participants represent a broad cross-section of fleet size and drivers of eligible vehicles; and
 
-&emsp;&emsp;&emsp;(ii) ensure participation by qualified applicants, except to the extent limited byresources of the Secretary that are necessary to permit effective monitoring under subparagraph (G).
+&emsp;&emsp;&emsp;(ii) ensure participation by qualified applicants, except to the extent limited by resources of the Secretary that are necessary to permit effective monitoring under subparagraph (G).
 
 &emsp;&emsp;(F)
 
@@ -110,7 +110,7 @@ Guidelines.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than the 270th day following November 28, 1995, the Secretary, after notice and opportunity for comment, shall establish criteria and define any terms necessary for implementing the program consistent with this section. In establishing the criteria, the Secretary may consider to what extent and under what conditions safety management controls may substitute, in whole or in part, for compliance with some or all of the regulations prescribed under this section and sections 504 and 31502.
+In general.—Not later than the 270th day following November 28, 1995, the Secretary, after notice and opportunity for comment, shall establish criteria and define any terms necessary for implementing the program consistent with this section. In establishing the criteria, the Secretarymay consider to what extent and under what conditions safety management controls may substitute, in whole or in part, for compliance with some or all of the regulations prescribed under this section and sections 504 and 31502.
 
 &emsp;&emsp;&emsp;(ii)&nbsp;
 
@@ -214,7 +214,7 @@ Pub. L. 104–88, title IV, §408, Dec. 29, 1995, 109 Stat. 958, provided that:
 
 “(a)
 
-Advance Notice.—The Federal Highway Administration shall issue an advance notice of proposed rulemaking dealing with a variety of fatigue-related issues pertaining to commercial motor vehicle motor vehicle safety (including 8 hours of continuous sleep after 10 hours of driving, loading and unloading operations, automated and tamper-proof recording devices, rest and recovery cycles, fatigue and stress in longer combination vehicles, fitness for duty, and other appropriate regulatory and enforcement countermeasures for reducing fatigue-related incidents and increasing driver alertness) not later than March 1, 1996.
+Advance Notice.—The Federal Highway Administration shall issue an advance notice of proposed rulemaking dealing with a variety of fatigue-related issues pertaining to commercial motor vehicle motor vehicle safety (including 8 hours of continuous sleep after 10hours of driving, loading and unloading operations, automated and tamper-proof recording devices, rest and recovery cycles, fatigue and stress in longer combination vehicles, fitness for duty, and other appropriate regulatory and enforcement countermeasures for reducing fatigue-related incidents and increasing driver alertness) not later than March 1, 1996.
 
 “(b)
 
@@ -274,7 +274,7 @@ hour period.—The term ‘24-hour period’ means any 24 consecutive hour perio
 
 &emsp;“(3)
 
-Ground water well drilling rig.—The term ‘ground water well drilling rig’ means any vehicle,machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water.
+Ground water well drilling rig.—The term ‘ground water well drilling rig’ means any vehicle, machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water.
 
 &emsp;“(4)
 

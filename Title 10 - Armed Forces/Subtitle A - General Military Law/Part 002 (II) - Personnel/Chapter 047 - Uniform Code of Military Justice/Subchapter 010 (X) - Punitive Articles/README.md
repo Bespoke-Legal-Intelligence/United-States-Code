@@ -68,9 +68,11 @@
 
 #### Amendments
 
+1997—Pub. L. 105–85, div. A, title X, §1073(a)(10), Nov. 18, 1997, 111 Stat. 1900, struck out “Art.” before “95” in item 895.
+
 1996—Pub. L. 104–106, div. A, title XI, §1112(b), Feb. 10, 1996, 110 Stat. 461, inserted “flight,” after “Resistance,” in item 895.
 
-1992—Pub. L. 102–484, div. A, title X, §1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted “operation of a vehicle, aircraft, or vessel” for “driving”.
+1992—Pub. L. 102–484, div. A, title X, §1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted “operation of a vehicle, aircraft, or vessel” for “driving” in item 911.
 
 1985—Pub. L. 99–145, title V, §534(b), Nov. 8, 1985, 99 Stat. 635, added item 906a.
 

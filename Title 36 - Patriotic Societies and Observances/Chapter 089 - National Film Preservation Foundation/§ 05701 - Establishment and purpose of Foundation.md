@@ -18,7 +18,7 @@ The purposes of the Foundation are—
 
 #### References in Text
 
-The National Film Preservation Act of 1996, referred to in subsec. (b)(2), is title I of Pub. L. 104–285, Oct. 11,1996, 110 Stat. 3377, which is classified principally to section 179<i>l</i> et seq. of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 179<i>l</i> of Title 2 and Tables.
+The National Film Preservation Act of 1996, referred to in subsec. (b)(2), is title I of Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which is classified principally to section 179<i>l</i> et seq. of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 179<i>l</i> of Title 2 and Tables.
 
 #### Short Title
 

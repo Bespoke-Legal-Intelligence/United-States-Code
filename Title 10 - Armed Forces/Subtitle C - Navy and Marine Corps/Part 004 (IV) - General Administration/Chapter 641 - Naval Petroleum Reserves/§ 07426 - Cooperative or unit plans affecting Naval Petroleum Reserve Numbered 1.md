@@ -18,7 +18,7 @@
 
 (d) In no event may the quantity of petroleum produced under subsection (c) from any zone for any private contracting party exceed one-third of its share of the recoverable petroleum in that zone as estimated on the date fixed in the contract.
 
-(e) No contract may be made under this section until the Committee on Armed Services ofthe Senate and the Committee on National Security of the House of Representatives have been consulted as to all its details.
+(e) No contract may be made under this section until the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives have been consulted as to all its details.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 459; Apr. 5, 1976, Pub. L. 94–258, title II, §201(7), 90 Stat. 309; Dec. 12, 1980, Pub. L. 96–513, title V, §513(32)(A), (B), 94 Stat. 2933; Oct. 19, 1984, Pub. L. 98–525, title XIV, §1405(52), 98 Stat. 2625; Feb. 10, 1996, Pub. L. 104–106, div. A, title XV, §1502(a)(2), 110 Stat. 502.)
 

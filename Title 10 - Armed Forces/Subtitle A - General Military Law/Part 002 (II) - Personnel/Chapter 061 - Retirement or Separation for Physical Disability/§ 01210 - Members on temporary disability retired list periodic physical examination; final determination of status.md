@@ -86,7 +86,7 @@ Oct. 12, 1949, ch. 681, §§402(d) (30th through 55th words), (e) (less 1st prov
 
 In subsection (a), the second sentence is substituted for 37:274(a). The word “resumed” is substituted for the words “reinstated at a later date”, in 37:274(b).
 
-In subsection (b), the last sentence is inserted for clarity to conform to an opinion of the Judge AdvocateGeneral of the Army (JAGA 1953/8438, 30 Dec. 1953) and an opinion of the Judge Advocate General of the Navy (JAG: III: 7: WBM: bg. 7 Jan. 1954).
+In subsection (b), the last sentence is inserted for clarity to conform to an opinion of the Judge Advocate General of the Army (JAGA 1953/8438, 30 Dec. 1953) and an opinion of the Judge Advocate General of the Navy (JAG: III: 7: WBM: bg. 7 Jan. 1954).
 
 In subsection (c), the words “or upon a final determination under subsection (b)” are substituted for the words “or upon the determination of a period of five years from the date of temporary disability retirement”, in 37:272(e). The words “at the time of the determination” are substituted for the word “current”, in 37:272(e). The words “and he shall be entitled to receive disability retirement pay as prescribed in subsection (d) of this section” are omitted as covered by sections 1201 and 1204 of this title. Reference to specific sections on permanent retirement are substituted for the word “permanently”, before the word “retired”, in 37:272(e).
 
